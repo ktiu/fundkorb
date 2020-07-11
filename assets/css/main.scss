@@ -4,6 +4,40 @@
 @import "variables";
 @import "bootstrap/scss/bootstrap";
 
-.content {
-  font-size: $custom-font-size;
+//@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rouge+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oregano&display=swap');
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 1rem;
+  font-weight: 600;
 }
+
+h1.pilz {
+  font-weight: 600;
+}
+
+body {
+  font-family: Lora;
+  padding: 2rem 0 1rem 0;
+  background-color: $light;
+  color: $dark;
+}
+
+.content {
+  margin: 2.5rem 0 1.5rem 0;
+}
+
+hr {
+  border-color: fade-out($dark, 0.8);
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 900px;
+  }
+}
+
+@import "navbar";
+@import "figures";

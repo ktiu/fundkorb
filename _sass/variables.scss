@@ -1,7 +1,19 @@
-$white:      #fff;
-$red:        #dc3545;
-$body-bg:    $red;
-$body-color: $white;
+// Overwrite colors
+$yellow: #F9C058;
+$green: #10831E;
 
-/* custom vars */
-$custom-font-size: 20px;
+// Define own colors
+$forest-green: #003404;
+$xiketic: #0A030A;
+$floral-white: #FFF9F0;
+$brown: #64390C;
+$light-brown: #BD8144;
+
+// Defaults
+$primary: $yellow;
+$secondary: $forest-green;
+$light: $floral-white;
+$dark: $xiketic;
+$navbar-light-color: fade-out($brown, 0.4);
+$navbar-light-hover-color: $brown;
+$navbar-light-active-color: $xiketic;

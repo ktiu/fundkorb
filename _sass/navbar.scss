@@ -1,0 +1,30 @@
+
+.navbar .nav-center {
+  font-family: Oregano, Delius, "Rouge Script", cursive;
+  flex-basis: 100%;
+  text-align: center;
+}
+
+.navbar .navbar-brand {
+  margin: 0 1rem;
+  padding: 0;
+  font-size: 3.5em;
+  color: $green;
+}
+
+.navbar {
+  flex-flow: row wrap;
+}
+
+.navbar .navbar-collapse {
+  justify-content: center;
+}
+
+.navbar .nav-item {
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.navbar .navbar-toggler {
+  border-color: $navbar-light-color;
+}

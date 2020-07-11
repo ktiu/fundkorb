@@ -1,11 +1,24 @@
 url: "https://ktiu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/fundkorb" # the subpath of your site, e.g. /blog
 title: "Fundkorb" # the name of your site, e.g. ACME Corp.
+lang: de_DE
 
 sass:
     load_paths:
         - _sass
         - node_modules
+
+collections:
+  pilze:
+    layout: pilz
+    output: true
+
+defaults:
+  -
+    scope:
+      type: "pilze"
+    values:
+      layout: "pilz"
 
 exclude:
   - Gemfile
@@ -15,4 +28,3 @@ exclude:
   - package.json
   - Gruntfile.js
   - node_modules
-

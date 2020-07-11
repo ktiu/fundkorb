@@ -1,0 +1,28 @@
+.table {
+  background-color: fade-out($brown, 0.8);
+  margin: 2rem auto;
+}
+
+.table thead th, .table th, .table td {
+  border-color: $light;
+}
+
+figure {
+  display: flex;
+  flex-flow: row wrap;
+  width: 100%;
+  margin: 2rem auto;
+  background-color: fade-out($brown, 0.8);
+}
+
+figure figcaption {
+  flex-basis: 100%;
+  text-align: center;
+  font-size: 0.8em;
+  margin: 0.3rem;
+}
+
+figure img {
+  flex-basis: 10px;
+  flex-grow: 1;
+}

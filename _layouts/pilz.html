@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<h1 class="pilz">{{ page.wissenschaftlich }}</h1>
+
+<h2 class="landlaeufig">
+  <i>{{ page.landlaeufig }}</i>
+</h2>
+
+<div class="d-flex justify-content-between">
+  <div class="info">
+    <strong>{{ page.quelle }} – Familie: {{ page.familie }}</strong><br />
+    <i>{{ page.erlaeuterung }}</i>
+  </div>
+
+  {% if page.autor_in %}
+    <div class="author text-right">&copy; {{ page.autor_in }}</div>
+  {% endif %}
+</div>
+
+{{ content }}
+
+{% if page.siehe_auch %}
+<h3>Siehe auch:</h3>
+
+<ul>
+{% for link in page.siehe_auch%}
+<li><a href="{{ link }}">{{ link }}</a></li>
+{% endfor %}
+</ul> 
+{% endif %}
+
+{% if page.autor_in %}
+<p>Alle Fotos, wenn nicht anders angegeben, von {{ page.autor_in }}.</p>
+{% endif %}
+
+{% if page.aktualisiert %}
+<p>Zuletzt aktualisiert am {{ page.aktualisiert }}</p>
+{% endif %}
