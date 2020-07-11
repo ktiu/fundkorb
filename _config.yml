@@ -10,7 +10,8 @@ sass:
 
 collections:
   pilze:
-    layout: pilz
+    output: true
+  pages:
     output: true
 
 defaults:
@@ -19,6 +20,12 @@ defaults:
       type: "pilze"
     values:
       layout: "pilz"
+      navi: "/pilze"
+  -
+    scope:
+      type: "pages"
+    values:
+      layout: "page"
 
 exclude:
   - Gemfile

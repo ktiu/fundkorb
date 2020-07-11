@@ -1,6 +1,5 @@
 ---
-layout: page
+navi: /artikel
 title: Artikel
 permalink: artikel
 ---
-

@@ -1,5 +1,5 @@
 ---
-layout: page
+navi: /kontakt
 title: Kontakt
 permalink: kontakt
 ---

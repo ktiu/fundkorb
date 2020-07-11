@@ -1,7 +1,7 @@
 ---
-layout: page
+navi: /pilze
 title: Pilzporträts
-permalink: pilze/
+permalink: pilze
 ---
 
 {% assign lastletter = "" %}

@@ -1,5 +1,5 @@
 ---
-layout: page
+navi: /termine
 title: Termine
 permalink: termine
 ---
