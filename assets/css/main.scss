@@ -14,10 +14,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
-h1.pilz {
-  font-weight: 600;
-}
-
 body {
   font-family: Lora;
   padding: 2rem 0 1rem 0;
@@ -26,17 +22,11 @@ body {
 }
 
 .content {
-  margin: 2.5rem 0 1.5rem 0;
+  margin: 2rem 0 1.5rem 0;
 }
 
 hr {
   border-color: fade-out($dark, 0.8);
-}
-
-@media (min-width: 992px) {
-  .container {
-    max-width: 900px;
-  }
 }
 
 @import "navbar";

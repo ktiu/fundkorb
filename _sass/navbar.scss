@@ -1,28 +1,64 @@
-
-.navbar .nav-center {
-  font-family: Oregano, Delius, "Rouge Script", cursive;
+.navbar .nav-brand-and-toggler {
   flex-basis: 100%;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .navbar .navbar-brand {
+  font-family: Oregano, Delius, "Rouge Script", cursive;
+  text-align: center;
   margin: 0 1rem;
   padding: 0;
   font-size: 3.5em;
   color: $green;
 }
 
-.navbar {
-  flex-flow: row wrap;
+.navbar-expand-sm .navbar-nav .nav-item {
+  text-align: center;
+  font-size: 1.2em;
+  padding: 0.5rem;
+  padding-top: 0;
 }
 
 .navbar .navbar-collapse {
   justify-content: center;
 }
 
-.navbar .nav-item {
-  text-align: center;
-  font-size: 1.2em;
+.navbar {
+  flex-flow: row wrap;
+  border-bottom: 1px solid;
+  border-color: fade-out($dark, 0.8);
+}
+
+@media (min-width: 992px) {
+  .navbar .nav-brand-and-toggler {
+    justify-content: start;
+  }
+  .navbar .navbar-brand {
+    margin: 0;
+    text-align: center;
+  }
+  .navbar-expand-sm .navbar-nav {
+    flex-direction: column;
+  }
+  .navbar-expand-sm .navbar-nav .nav-item {
+    text-align: left;
+    font-size: 1.2em;
+    padding: 0 0 0.5rem 0;
+  }
+  .navbar .navbar-collapse {
+    justify-content: start;
+  }
+  .navbar {
+    border: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .navbar .navbar-brand {
+    text-align: left;
+  }
+    
 }
 
 .navbar .navbar-toggler {

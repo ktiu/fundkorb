@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% include blaettern.html %}
+
 <h1 class="pilz">{{ page.wissenschaftlich }}</h1>
 
 {% if page.landlaeufig %}
@@ -10,16 +12,23 @@ layout: default
 </h2>
 {% endif %}
 
-<div class="d-flex justify-content-between">
+<div class="d-flex justify-content-between mb-3">
   <div class="info">
     <strong>{{ page.quelle }} – Familie: {{ page.familie }}</strong><br />
     <i>{{ page.erlaeuterung }}</i>
   </div>
 
   {% if page.autor_in %}
-    <div class="author text-right">&copy; {{ page.autor_in }}</div>
+    <div class="author text-right text-muted">&copy; {{ page.autor_in }}</div>
   {% endif %}
 </div>
+
+{% if page.hauptbild.datei %}
+<figure>
+  <img src="{{ page.hauptbild.datei | prepend: site.pilzbilder }}" />
+  {% if page.hauptbild.legende %}<figcaption>{{ page.hauptbild.legende }}</figcaption>{% endif %}
+</figure>
+{% endif %}
 
 {{ content }}
 
@@ -34,9 +43,11 @@ layout: default
 {% endif %}
 
 {% if page.autor_in %}
-<p>Alle Fotos, wenn nicht anders angegeben, von {{ page.autor_in }}.</p>
+<p><i>Alle Fotos, wenn nicht anders angegeben, von {{ page.autor_in }}.</i></p>
 {% endif %}
 
 {% if page.aktualisiert %}
-<p>Zuletzt aktualisiert am {{ page.aktualisiert }}</p>
+<p><i>Zuletzt aktualisiert am {{ page.aktualisiert }}</i></p>
 {% endif %}
+
+{% include blaettern.html %}

@@ -3,6 +3,8 @@ baseurl: "/fundkorb" # the subpath of your site, e.g. /blog
 title: "Fundkorb" # the name of your site, e.g. ACME Corp.
 lang: de_DE
 
+pilzbilder: "/fundkorb/bilder/pilze/"
+
 sass:
     load_paths:
         - _sass

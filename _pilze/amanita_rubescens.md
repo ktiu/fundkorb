@@ -6,28 +6,27 @@ quelle:           Pers. 1797
 familie:          Amanitaceae
 autor_in:         Dieter Gewalt
 aktualisiert:     30. Mai 2020
-hauptbild:        bilder/pilze/Amanita_rubescens_01_DG-1536x1102.jpg
-siehe_auch:
-  - http://tintling.com/pilzbuch/arten/a/Amanita_rubescens.html
+hauptbild:        Amanita_rubescens_01_DG-1536x1102.jpg
+siehe_auch:       http://tintling.com/pilzbuch/arten/a/Amanita_rubescens.html
 ---
 
 <figure>
-  <img src="/fundkorb/bilder/pilze/Amanita_rubescens_01_DG-1536x1102.jpg" />
+  <img src="{{ "Amanita_rubescens_01_DG-1536x1102.jpg" | prepend: site.pilzbilder }}" />
   <figcaption>Perlpilze im Gebiet Waldacker, oberhalb des Anglerteichs, am 11.06.2016</figcaption>
 </figure>
 
 Der Perlpilz gehört zu den guten Speisepilzen, jedoch sollten sich Anfänger vor Verwechslungen hüten und so lange die Finger von ihm lassen, bis ihnen die Unterschiede zum Pantherpilz und Grauen Wulstling geläufig sind. Ein wichtiges Merkmal ist das Röten des Fleisches, das irgendwo am Pilz erkennbar sein muss und bei den beiden anderen Arten niemals vorkommt. Alle meine hier platzierten Fotos zeigen solche Rottöne, zum Teil an Fraßstellen, zum Teil durchscheinend auf der Hutoberfläche, an der Stielbasis oder an den Lamellen. Beim geringsten Zweifel muss der Fund im Wald bleiben!
 
 <figure>
-  <img src="/fundkorb/bilder/pilze/Amanita_rubescens_02_DG-768x702.jpg" />
-  <img src="/fundkorb/bilder/pilze/Amanita_rubescens_03_DG.jpg" />
-  <img src="/fundkorb/bilder/pilze/Amanita_rubescens_04_DG.jpg" />
+  <img src="{{ "Amanita_rubescens_02_DG-768x702.jpg" | prepend: site.pilzbilder }}" />
+  <img src="{{ "Amanita_rubescens_03_DG.jpg"         | prepend: site.pilzbilder }}" />
+  <img src="{{ "Amanita_rubescens_04_DG.jpg"         | prepend: site.pilzbilder }}" />
 </figure>
 
 Wichtiger Hinweis: Der Perpilz ist (wie viele andere Speisepilze auch) roh giftig. Ausreichend erhitzt ist kann er ohne Bedenken verzehrt werden.
 
 <figure>
-  <img src="/fundkorb/bilder/pilze/Amanita_pantherinaAmanita_rubescens_06_DG.jpg" />
+  <img src="{{ "Amanita_pantherinaAmanita_rubescens_06_DG.jpg" | prepend: site.pilzbilder }}" />
   <figcaption>Um den Perlpilz sicher vom giftigen Pantherpilz zu unterscheiden, muss man schon genau hinschauen und wissen, auf welche Merkmale man achten muss.</figcaption>
 </figure>
 

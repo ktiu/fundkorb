@@ -3,10 +3,13 @@ layout: base
 ---
 
 <div class="container">
-  {% include navbar.html %}
-  <hr>
-  <div class="content">
-    {{ content }}
+  <div class="row">
+    <div class="col-lg-3">
+      {% include navbar.html %}
+    </div>
+    <div class="content col-lg-9">
+      {{ content }}
+    </div>
   </div>
   <hr>
   {% include footer.html %}
