@@ -1,0 +1,34 @@
+html, body {
+  font-family: Lora, Serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 1rem;
+  font-weight: 400;
+}
+
+h1, h2 {
+  text-shadow: 1.5px 1.5px 2px $shadow;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.footer {
+  color: $muted;
+}
+
+.text-muted {
+  color: $muted;
+} 
+
+@media (min-width: 992px) {
+  h1, h2 {
+    text-align: left;
+  }
+  h1 {
+    font-size: 3.3em;
+  }
+}
+

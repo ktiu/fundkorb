@@ -1,0 +1,15 @@
+.form-group {
+  margin-bottom: 0.3rem;
+}
+
+form label {
+  font-size: 0.9em;
+}
+
+.btn-spinner {
+  border-color: $input-border-color;
+  color: $primary;
+}
+.btn-spinner:hover {
+  color: darken($primary, $emphasized-link-hover-darken-percentage) !important;
+}

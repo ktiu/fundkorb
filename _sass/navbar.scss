@@ -1,17 +1,38 @@
-.navbar .nav-brand-and-toggler {
-  flex-basis: 100%;
-  display: flex;
-  align-items: center;
+.navbar-expand-sm {
   justify-content: center;
+  display: inline-flex;
+  flex-flow: row wrap;
 }
 
-.navbar .navbar-brand {
-  font-family: Oregano, Delius, "Rouge Script", cursive;
+.navbar-logo {
+  flex-basis: 100%;
   text-align: center;
-  margin: 0 1rem;
+}
+
+.navbar-logo > img {
+  width: 175px;
+}
+
+.navbar-brand {
+  font-family: Rancho, cursive;
   padding: 0;
-  font-size: 3.5em;
-  color: $green;
+  margin: 0;
+  font-size: 3.8em;
+  text-shadow: 1.5px 1.5px 2px $shadow;
+  line-height: 1.1em;
+}
+
+.navbar-light .navbar-brand {
+  color: $primary;
+}
+
+.navbar-light .navbar-brand:hover {
+  color: darken($primary, 10);
+}
+
+.navbar .navbar-toggler {
+  border-color: $navbar-light-color;
+  margin: 1rem; 
 }
 
 .navbar-expand-sm .navbar-nav .nav-item {
@@ -21,46 +42,58 @@
   padding-top: 0;
 }
 
+.navbar-expand-sm .navbar-nav .nav-item:hover {
+  text-decoration: underline;
+}
+
+.navbar-expand-sm .navbar-nav .nav-item.active {
+  text-shadow: 1px 1px 1px $shadow;
+  text-decoration: none !important;
+}
+
 .navbar .navbar-collapse {
   justify-content: center;
 }
 
-.navbar {
-  flex-flow: row wrap;
-  border-bottom: 1px solid;
-  border-color: fade-out($dark, 0.8);
+@media (min-width: 576px) {
+  .navbar-logo {
+    padding-bottom: 1.1em;
+    flex-basis: auto;
+  }
+  .navbar-brand {
+    font-size: 4.6em;
+    line-height: 1.2em;
+  }
 }
 
 @media (min-width: 992px) {
-  .navbar .nav-brand-and-toggler {
-    justify-content: start;
+  .navbar {
+    flex-flow: column;
+    align-items: stretch;
+    padding-left: 0;
+    padding-right: 0;
   }
-  .navbar .navbar-brand {
-    margin: 0;
+  .navbar-logo {
     text-align: center;
+    padding-bottom: 0;
+  }
+  .navbar-brand {
+    text-align: center;
+    font-size: 3.8em;
+    line-height: 1.6em;
   }
   .navbar-expand-sm .navbar-nav {
     flex-direction: column;
   }
   .navbar-expand-sm .navbar-nav .nav-item {
     text-align: left;
-    font-size: 1.2em;
+    font-size: 1.4em;
     padding: 0 0 0.5rem 0;
   }
   .navbar .navbar-collapse {
+    flex-flow: column;
     justify-content: start;
+    align-items: center;
   }
-  .navbar {
-    border: 0;
-    padding-left: 0;
-    padding-right: 0;
-  }
-  .navbar .navbar-brand {
-    text-align: left;
-  }
-    
 }
 
-.navbar .navbar-toggler {
-  border-color: $navbar-light-color;
-}

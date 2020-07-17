@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  background-color: $dark;
+}
+
+body {
+  min-height: 100vh;
+  background-color: $light;
+}
+
+.container {
+  height: 100%;
+  min-height: 100vh;
+  padding: 1rem;
+}
+
+article, .navbar {
+  padding: 1rem;
+}
+
+.footer {
+  flex: 0 0 100%;
+  text-align: center;
+  padding-top: 0.5rem;
+}
+
+@media (min-width: 992px) {
+  body {
+    background: url('#{$asset_dir}/img/wald.jpg') no-repeat center fixed;
+    background-size: cover;
+  }
+  .container {
+    box-shadow: 0 0 2rem 0 $black;
+    background: $light;
+    padding-top: 3rem !important;
+  }
+  article {
+    padding-right: 5rem !important;
+    padding-left: 0 !important;
+  }
+}

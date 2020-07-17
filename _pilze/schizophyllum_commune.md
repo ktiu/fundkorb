@@ -1,15 +1,24 @@
 ---
-wissenschaftlich:     Schizophyllum commune
-landlaeufig:          Spaltblättling
-quelle:               Fr. 1815
-familie:              Schizophyllaceae
-erlaeuterung:         commune = gewöhnlich, gemein, überall vorkommend
-zuletzt_aktualisiert: 18.03.2018
-autor_in:             Dieter Gewalt
-siehe_auch:           http://tintling.com/pilzbuch/arten/s/Schizophyllum_commune.html
+name:
+  wissenschaftlich: Schizophyllum commune
+  deutsch: Spaltblättling
+  synonym:
+  erlaeuterung: commune = gewöhnlich, gemein, überall vorkommend
+
+beschreibung:
+  referenz: Fr. 1815
+  familie: Schizophyllaceae
+
 hauptbild:
   datei:              Schizophyllum_commune_02_TL-1.jpg
   legende:            "Foto: Thomas Lehr"
+
+profil:
+  autor_in: Dieter Gewalt
+  erstellt:
+  aktualisiert: 18.03.2018
+  literatur:
+    - url: http://tintling.com/pilzbuch/arten/s/Schizophyllum_commune.html
 ---
 
 Der Spaltblättling ist ein Kosmopolit mit einem schier unüberschaubaren Wirtsspektrum. In Thailand habe ich ihn schon an verkohlten Palmstämmen, Mangroven und an einer mit blauer Farbe bemalten Kokosnuss gefunden! Bei uns bevorzugt er gefällte, noch berindete Buchenstämme oder -äste, auf denen er oft in großen Kolonien siedelt. Auch bei anhaltender Trockenheit ist er zu finden und selbst sonnenexponierte Standorte werden toleriert. Er dürfte in keinem Buchenbestand fehlen. Seinen Namen hat er von den scheinbar wie der Länge nach gespaltenen Lamellen, woran er immer sicher zu erkennen ist. Die Fruchtkörper sind zäh und daher nicht für den Verzehr geeignet. Das ist zumindest die Meinung europäischer Pilzbuchautoren. In Thailand ist er vor allem im Nordosten des Landes Marktpilz.

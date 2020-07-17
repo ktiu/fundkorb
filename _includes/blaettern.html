@@ -1,10 +1,10 @@
 <div class="blaettern d-flex justify-content-between mb-3">
   {% if page.previous %}
-  <a href="{{ page.previous.url | relative_url }}">◄ {{ page.previous.wissenschaftlich }}</a>
+  <a href="{{ page.previous.url | relative_url }}">◄ {{ page.previous.name.wissenschaftlich }}</a>
   {% else %}
   <span></span>
   {% endif %}
   {% if page.next %}
-  <a href="{{ page.next.url | relative_url }}">{{ page.next.wissenschaftlich }} ►</a>
+  <a href="{{ page.next.url | relative_url }}">{{ page.next.name.wissenschaftlich }} ►</a>
   {% endif %}
 </div>

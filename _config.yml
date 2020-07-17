@@ -2,6 +2,7 @@ url: "https://ktiu.github.io" # the base hostname & protocol for your site, e.g.
 baseurl: "/fundkorb" # the subpath of your site, e.g. /blog
 title: "Fundkorb" # the name of your site, e.g. ACME Corp.
 lang: de_DE
+form_target: formsubmit@ktiu.net
 
 pilzbilder: "/fundkorb/bilder/pilze/"
 
@@ -15,6 +16,13 @@ collections:
     output: true
   pages:
     output: true
+    order:
+      - termine.md
+      - pilzliste.md
+      - artikel.md
+      - kontakt.md
+  termine:
+    output: false
 
 defaults:
   -
@@ -28,6 +36,11 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
 
 exclude:
   - Gemfile
@@ -37,3 +50,4 @@ exclude:
   - package.json
   - Gruntfile.js
   - node_modules
+  - workbench

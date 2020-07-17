@@ -1,19 +1,21 @@
 // Overwrite colors
 $yellow: #F9C058;
 $green: #10831E;
+$red: #831E10;
+$black: #0A030A;
 
 // Define own colors
 $forest-green: #003404;
-$xiketic: #0A030A;
 $floral-white: #FFF9F0;
 $brown: #64390C;
-$light-brown: #BD8144;
 
 // Defaults
 $primary: $green;
-$secondary: $forest-green;
+$secondary: $brown;
 $light: $floral-white;
-$dark: $xiketic;
-$navbar-light-color: fade-out($brown, 0.4);
-$navbar-light-hover-color: $brown;
-$navbar-light-active-color: $xiketic;
+$dark: $forest-green;
+$navbar-light-color: $red;
+$navbar-light-hover-color: lighten($navbar-light-color, 15);
+$navbar-light-active-color: $black;
+$muted: fade-out($brown, 0.4) !important;
+$shadow: fade-out($dark, 0.8);

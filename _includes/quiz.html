@@ -1,0 +1,29 @@
+<div id="quiz" class="carousel slide my-3" data-ride="carousel" data-interval=8000>
+  <div class="carousel-inner">
+{% for quizfrage in site.data.quiz %}
+  {% assign pilz = (site.pilze | where: "name.wissenschaftlich", quizfrage.pilz ) | first  %}
+  {% if pilz %}
+    <div class="carousel-item{% if forloop.first == true %} active{% endif %}">
+      <img src="{{ quizfrage.bild | prepend: site.pilzbilder }}" class=""> 
+      <div class="carousel-caption">
+        <h5>Welcher Pilz ist hier zu sehen?</h5>
+        <p><a href="{{ pilz.url | relative_url }}" class="btn btn-light text-primary">Zur Antwort <i class="fa fa-lightbulb-o"></i></a></p>
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}
+  <!--
+  {% for quizfrage in site.data.quiz %}
+    {% assign pilz = (site.pilze | where: "name.wissenschaftlich", quizfrage.pilz %}
+  {% endfor %}
+  -->
+  </div>
+  <a class="carousel-control-prev" href="#quiz" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#quiz" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>

@@ -1,0 +1,25 @@
+#termine {
+}
+
+.termin {
+  background: $white;
+  box-shadow: 1.5px 1.5px 2px $shadow;
+  border-color: $muted;
+  margin-bottom: 2rem;
+}
+
+.termin h5 {
+  font-weight: 600;
+}
+
+.termin .details {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.termin .details p {
+  margin-right: 1rem;
+}

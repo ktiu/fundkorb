@@ -1,0 +1,19 @@
+#quiz .carousel-item {
+  width: 100%;
+  height: 400px;
+}
+
+#quiz img {
+    height: 100%;
+    width: 100%;
+    vertical-align: bottom;
+    object-fit: cover;
+}
+
+#quiz .carousel-caption {
+  text-shadow: 1px 1px 2px $black;
+}
+
+#quiz .btn {
+  text-shadow: none;
+}

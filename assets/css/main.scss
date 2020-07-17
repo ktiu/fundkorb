@@ -4,30 +4,38 @@
 @import "variables";
 @import "bootstrap/scss/bootstrap";
 
-//@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rouge+Script&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Oregano&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rancho&display=swap');
 
-h1, h2, h3, h4, h5, h6 {
-  margin-bottom: 1rem;
-  font-weight: 600;
+$asset_dir: {{ "/assets" | relative_url }};
+
+#artikelliste .artikel {
+  margin-bottom: 2rem;
 }
 
-body {
-  font-family: Lora;
-  padding: 2rem 0 1rem 0;
-  background-color: $light;
-  color: $dark;
+#artikelliste h2 {
+  margin-top: 1rem;
 }
 
-.content {
-  margin: 2rem 0 1.5rem 0;
+#artikelliste .artikel .vorschaubild {
+  width: 100%;
+  height: 100%px;
 }
 
-hr {
-  border-color: fade-out($dark, 0.8);
+#artikelliste .artikel .vorschaubild img {
+    height: 100%;
+    width: 100%;
+    vertical-align: bottom;
+    object-fit: cover;
 }
 
+@import "page";
 @import "navbar";
+@import "typography";
 @import "figures";
+@import "pilze";
+@import "termine";
+@import "forms";
+@import "quiz";

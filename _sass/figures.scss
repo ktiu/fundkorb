@@ -23,6 +23,22 @@ figure figcaption {
 }
 
 figure img {
-  flex-basis: 10px;
-  flex-grow: 1;
+  flex: 1 1 1px;
 }
+
+.thumb {
+  display: block;
+}
+
+.thumb img {
+  height: 200px;
+}
+
+.tooltip-inner {
+    max-width: 100%;
+}
+
+.tooltip.show {
+  opacity: 1;
+}
+
