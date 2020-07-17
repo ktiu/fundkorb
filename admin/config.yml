@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  branch: master
 
 publish_mode: editorial_workflow
 
@@ -10,8 +10,8 @@ collections:
   - name: "artikel"
     label: "Artikel"
     folder: "_posts"
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}.md" # Filename template, e.g., YYYY-MM-DD-title.md
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}.md"
     fields:
       - {label: "Titel", name: "titel", widget: "string"}
       - {label: "Autor_in", name: "autor_in", widget: "string"}

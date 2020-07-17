@@ -10,7 +10,7 @@ beschreibung:
   familie: Tricholomataceae
 
 hauptbild:
-  datei:
+  datei: Tricholoma_equestre_01_DG-1-1536x1052.jpg
   legende:
 
 profil:
