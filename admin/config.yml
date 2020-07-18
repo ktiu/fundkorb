@@ -21,8 +21,6 @@ collections:
       - {label: "Vorschaubild", name: "vorschaubild", widget: "image"}
       - {label: "Vorschautext", name: "extract", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-
-collections:
   - name: "termine"
     label: "Termine"
     folder: "_termine"
