@@ -4,26 +4,20 @@ name:
   deutsch: Grauer Wulstling
   synonym: Amanita spissa
   erlaeuterung: excelsa = hoch, erhaben, emporragend
-
 beschreibung:
   referenz: (Fr.) Bertill. 1866
   familie: Amanitaceae
-
-hauptbild:
-  datei: Amanita_excelsa_01_DG.jpg
-  legende: 
-
 profil:
+  hauptbild: Amanita_excelsa_01_DG.jpg
   autor_in: Dieter Gewalt
-  erstellt: 
-  aktualisiert: 30. Mai 2020
+  aktualisiert: 2020-05-20
   literatur:
     - url: http://tintling.com/pilzbuch/arten/a/Amanita_excelsa.html
 ---
 
 <figure>
-  {% include bild.html datei="Amanita_excelsa_02_DG.jpg" legende="" %}
-  {% include bild.html datei="Amanita_excelsa_01_DG.jpg" legende="" %}
+  {% include bild.html datei="Amanita_excelsa_02_DG.jpg" %}
+  {% include bild.html datei="Amanita_excelsa_01_DG.jpg" %}
 </figure>
 
 Um den Grauen Wulstling etwas vereinfacht, aber gut einprägsam zu beschreiben: er gleicht in Größe und Aussehen dem Perlpilz – nur die Farben stimmen nicht überein. Die Huthaut ist grau, graubraun bis dunkelbraun, der Hutbelag (Velumreste) hellgrau. Nirgendwo an seinem Fruchtkörper sind die für den Perlpilz typischen Rot- oder Fleischrosatöne zu erkennen. Zu erwähnen wäre noch der meist deutliche Rettichgeruch und -geschmack.

@@ -2,6 +2,24 @@
 layout: base
 ---
 
+{% if page.profil.erstellt %}
+{% capture erstellt %}
+{{ page.profil.erstellt | date: "%-d." }}
+{% assign m = page.profil.erstellt | date: "%-m" | minus: 1 %}
+{{ site.data.monate[m] }}
+{{ page.profil.erstellt | date: "%Y" }}
+{% endcapture %}
+{% endif %}
+
+{% if page.profil.aktualisiert %}
+{% capture aktualisiert %}
+{{ page.profil.aktualisiert | date: "%-d." }}
+{% assign m = page.profil.aktualisiert | date: "%-m" | minus: 1 %}
+{{ site.data.monate[m] }}
+{{ page.profil.aktualisiert | date: "%Y" }}
+{% endcapture %}
+{% endif %}
+
 {% include blaettern.html %}
 
 <section id="pilz">
@@ -25,10 +43,10 @@ layout: base
   </div>
   {% endif %}
 
-  {% if page.profil.autor_in or page.profil.erstellt %}
+  {% if page.profil.autor_in or erstellt %}
   <div>
     {% if page.profil.autor_in %}<div class="autor_in">von {{ page.profil.autor_in }}</div>{% endif %}
-    {% if page.profil.erstellt %}<div class="erstellt">{{ page.profil.erstellt }}</div>{% endif %}
+    {% if erstellt %}<div class="erstellt">{{ erstellt }}</div>{% endif %}
   </div>
   {% endif %}
 </div>
@@ -53,8 +71,8 @@ layout: base
   {% if page.profil.autor_in %}
     <div class="bilderrechte">Alle Fotos, wenn nicht anders angegeben, von {{ page.profil.autor_in }}.</div>
   {% endif %}
-  {% if page.profil.aktualisiert %}
-    <div class="aktualisiert">Zuletzt aktualisiert am {{ page.profil.aktualisiert }}</div>
+  {% if aktualisiert %}
+    <div class="aktualisiert">Zuletzt aktualisiert am {{ aktualisiert }}</div>
   {% endif %}
 </div>
 </pilz>

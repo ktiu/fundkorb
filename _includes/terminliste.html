@@ -7,7 +7,6 @@
     {{ site.data.monate[m] }}
     {{ termin.datum | date: "%Y" }}
     {% endcapture %}
-    {% assign m = page.datum | date: "%-m" %}
   <div class="card termin">
     <h5 class="card-header">{{ termin.aktivitaet }}</h5>
     <div class="card-body">

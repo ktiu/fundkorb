@@ -2,25 +2,15 @@
 name:
   wissenschaftlich: Cyathus stercoreus
   deutsch: Dung-Teuerling
-  synonym: 
-  erlaeuterung: 
-
-beschreibung:
-  referenz: 
-  familie: 
-
-hauptbild:
-  datei: Cyathus_stercoreus_01_DG-1.jpg
-  legende: 
-
 profil:
+  hauptbild: Cyathus_stercoreus_01_DG-1.jpg
   autor_in: Dieter Gewalt
-  erstellt: 
-  aktualisiert: 22.09.2010
-  literatur: 
+  aktualisiert: 2010-09-22
 ---
 
-{% include hauptbild.html %}
+<figure>
+  {% include bild.html datei="Cyathus_stercoreus_01_DG-1.jpg" %}
+</figure>
 
 Der exemplarische Fall eines Pilzes, der lt. Literatur sehr selten, lt. Verbreitungsatlas sogar extrem selten sein soll, es in Wahrheit aber nicht ist. Ganze 9 Fundpunkte sind in Krieglsteiners Deutschlandkarte verzeichnet. Im Bundesland Hessen findet sich nicht einmal die leiseste Duftmarke! Kurioserweise stammen die meisten Fundmeldungen von der Nordseeküste und ihren vorgelagerten Inseln. Da stellt sich die Frage: Was haben die dort oben, was wir im Rhein-Main-Gebiet nicht haben? Zu früh gefreut, Ihr Friesen! Wir haben auch! Noch nicht publiziert, aber nachzutragen sind div. Fundpunkte rund um Dietzenbach und in Frankfurt. Ich wette, es werden weitere hinzukommen, wenn mehr auf die unscheinbare Art und ihre Standort-Präferenzen geachtet wird.
 

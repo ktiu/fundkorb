@@ -3,33 +3,69 @@ backend:
   branch: master
 
 publish_mode: editorial_workflow
+site_url: https://fundkorb.netlify.app
+display_url: https://fundkorb.netlify.app
 
 media_folder: "bilder"
 logo_url: https://fundkorb.netlify.app/assets/img/fundkorb.png
 locale: 'de'
 
 collections:
+  - name: "termine"
+    label: "Termine"
+    identifier_field: "aktivitaet"
+    summary: "{{aktivitaet}} - {{zeit}}"
+    label_singular: "Termin"
+    folder: "_termine"
+    create: true
+    slug: "{{aktivitaet}}-{{zeit}}-{{trefffpunkt}}.md"
+    fields:
+      - {label: "Aktivität", name: "aktivitaet", widget: "string"}
+      - {label: "Datum und Uhrzeit", name: "zeit", widget: "datetime"}
+      - {label: "Treffpunkt", name: "treffpunkt", widget: "string"}
+      - {label: "Teilnahmegebühr", name: "teilnabegebuehr", widget: "string"}
+      - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean"}
+      - {label: "Beschreibung", name: "body", widget: "markdown"}
   - name: "artikel"
+    identifier_field: "titel"
     label: "Artikel"
     folder: "_artikel"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}.md"
     fields:
       - {label: "Titel", name: "titel", widget: "string"}
-      - {label: "Autor_in", name: "autor_in", widget: "string"}
-      - {label: "Datum", name: "datum", widget: "datetime"}
-      - {label: "Vorschaubild", name: "vorschaubild", widget: "image"}
-      - {label: "Vorschautext", name: "extract", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - name: "termine"
-    label: "Termine"
-    folder: "_termine"
+      - {label: "Autor*in", name: "autor_in", widget: "string", required: false}
+      - {label: "Datum", name: "datum", widget: "datetime", required: false}
+      - {label: "Vorschaubild", name: "vorschaubild", widget: "image", required: false}
+      - {label: "Vorschautext", name: "extract", widget: "string", required: false}
+      - {label: "Text", name: "body", widget: "markdown"}
+  - name: "pilzportraets"
+    label: "Pilzporträts"
+    label_singular: "Pilzporträt"
+    identifier_field: "name.wissenschaftlich"
+    folder: "_pilze"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}.md"
+    slug: "{{slug}}-{{name.deutsch}}.md"
     fields:
-      - {label: "Aktivität", name: "aktiviaet", widget: "string"}
-      - {label: "Datum", name: "datum", widget: "datetime"}
-      - {label: "Treffpunkt", name: "treffpunkt", widget: "string"}
-      - {label: "Teilnahmegebühr", name: "teilnabegebuehr", widget: "string"}
-      - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean"}
-
+      - name: "name"
+        label: "Name"
+        widget: "object"
+        fields:
+          - {label: "Wissenschaftlicher Name", name: "wissenschaftlich", widget: "string"}
+          - {label: "Deutscher Name", name: "deutsch", widget: "string", required: false}
+          - {label: "Synonym", name: "synonym", widget: "string", required: false}
+          - {label: "Erläuterung", name: "erlaeuterung", widget: "string", required: false}
+      - name: "beschreibung"
+        label: "Beschreibung"
+        widget: "object"
+        fields:
+          - {label: "Referenz", name: "referenz", widget: "string", required: false}
+          - {label: "Familie", name: "familie", widget: "string", required: false}
+      - name: "profil"
+        label: "Profil"
+        widget: "object"
+        fields:
+          - {label: "Hauptbild", name: "hauptbild", widget: "image", required: false}
+          - {label: "Autor*in", name: "autor_in", widget: "string", required: false}
+          - {label: "Erstellungsdatum", name: "erstellt", widget: "datetime", required: false}
+          - {label: "Zuletzt aktualisiert", name: "aktualisiert", widget: "datetime", required: false}
