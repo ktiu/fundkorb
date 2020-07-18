@@ -1,7 +1,7 @@
 ---
-title: "Die Invasion der Bitterlinge"
-layout: post
+titel: "Die Invasion der Bitterlinge"
 vorschaubild: Artikel_Tylopilus_felleus_01-300x225.jpg
+excerpt: Sie sind angetreten, um die weniger Erfahrenen ins Bockshorn zu jagen. Es gelingt ihnen sogar, alten Hasen die Mahlzeit zu verderben. Sie sind wieder allgegenwärtig wie schon im Jahr zuvor, als sie vielen Besuchern der Pilzberatung Tränen in die Augen trieben, weil ihre vermeintliche Ausbeute an Steinpilzen ungegart im Müllcontainer endete. Ganze Körbe waren voll von ihnen und kein einziger Steinpilz darunter – die geballte Ladung an Bitterstoffen also. 
 ---
 
 Sie sind angetreten, um die weniger Erfahrenen ins Bockshorn zu jagen. Es gelingt ihnen sogar, alten Hasen die Mahlzeit zu verderben. Sie sind wieder allgegenwärtig wie schon im Jahr zuvor, als sie vielen Besuchern der Pilzberatung Tränen in die Augen trieben, weil ihre vermeintliche Ausbeute an Steinpilzen ungegart im Müllcontainer endete. Ganze Körbe waren voll von ihnen und kein einziger Steinpilz darunter – die geballte Ladung an Bitterstoffen also. In manchen Nadelwäldern waren acht von zehn Röhrlingen von dieser hinterhältigen Sorte. Sie sahen appetitlich aus, als könnten sie kein Wässerchen trüben. Dabei reicht schon ein einziger Jungspund, um das schönste Steinpilzgericht zu ruinieren. Die Gemeinheit hat einen Namen. Tylopilus felleus, der Gallenröhrling.

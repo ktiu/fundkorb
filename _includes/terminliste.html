@@ -1,11 +1,18 @@
 <section id="termine">
   {% assign termine = site.termine | reverse %}
   {% for termin in termine %}
+    {% capture datum %}
+    {{ termin.datum | date: "%-d." }}
+    {% assign m = termin.datum | date: "%-m" | minus: 1 %}
+    {{ site.data.monate[m] }}
+    {{ termin.datum | date: "%Y" }}
+    {% endcapture %}
+    {% assign m = page.datum | date: "%-m" %}
   <div class="card termin">
     <h5 class="card-header">{{ termin.aktivitaet }}</h5>
     <div class="card-body">
       <div class="details">
-        <p class="card-text">Datum:<br /><strong>{{ termin.datum }}</strong></p>
+        <p class="card-text">Datum:<br /><strong>{{ datum }}</strong></p>
         <p class="card-text">Uhrzeit:<br /><strong>{{ termin.uhrzeit }}</strong></p>
         <p class="card-text">Treffpunkt:<br /><strong>{{ termin.treffpunkt }}</strong></p>
         <p class="card-text">Teilnahmegebühr:<br /><strong>{{ termin.teilnahmegebuehr }}</strong></p>

@@ -1,4 +1,4 @@
-url: "https://elastic-borg-9a942a.netlify.app"
+url: "https://fundkorb.netlify.app"
 baseurl: ""
 title: "Fundkorb"
 lang: de_DE
@@ -13,6 +13,8 @@ sass:
 
 collections:
   pilze:
+    output: true
+  artikel:
     output: true
   pages:
     output: true
@@ -38,9 +40,10 @@ defaults:
       layout: "page"
   -
     scope:
-      type: "posts"
+      type: "artikel"
     values:
-      layout: "post"
+      layout: "artikel"
+      navi: "/artikel"
 
 exclude:
   - Gemfile

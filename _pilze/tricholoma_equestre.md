@@ -47,7 +47,7 @@ Im November 2006 wurde der gefährdete Pilz auch bei Waldacker im Jungwuchs von 
   {% include bild.html datei="Tricholoma_equestre_05_DG-1536x1152.jpg" %}
 </figure>
 
-Seit mehreren Vergiftungsfällen in Frankreich und Polen, darunter einige mit Todesfolge, ist der Grünling als gefährlicher Giftpilz eingestuft worden. Trotz des Sammel- und Handelsverbots ist der Grünling im Jahr 2008 in der Frankfurter Kleinmarkthalle als Marktpilz aufgetaucht. Florian Haas, der ihn dort entdeckt hatte, berichtete darüber in einem [Fundkorb-Artikel]({% link _posts/2020-07-17-von-rindswuersten-und-gruenlingen.md %}).
+Seit mehreren Vergiftungsfällen in Frankreich und Polen, darunter einige mit Todesfolge, ist der Grünling als gefährlicher Giftpilz eingestuft worden. Trotz des Sammel- und Handelsverbots ist der Grünling im Jahr 2008 in der Frankfurter Kleinmarkthalle als Marktpilz aufgetaucht. Florian Haas, der ihn dort entdeckt hatte, berichtete darüber in einem [Fundkorb-Artikel]({% link _artikel/2020-07-01-von-rindswuersten-und-gruenlingen.md %}).
  
 ### Zur Giftwirkung des Grünlings
 

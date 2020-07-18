@@ -11,29 +11,10 @@
 
 $asset_dir: {{ "/assets" | relative_url }};
 
-#artikelliste .artikel {
-  margin-bottom: 2rem;
-}
-
-#artikelliste h2 {
-  margin-top: 1rem;
-}
-
-#artikelliste .artikel .vorschaubild {
-  width: 100%;
-  height: 100%px;
-}
-
-#artikelliste .artikel .vorschaubild img {
-    height: 100%;
-    width: 100%;
-    vertical-align: bottom;
-    object-fit: cover;
-}
-
 @import "page";
 @import "navbar";
 @import "typography";
+@import "artikel";
 @import "figures";
 @import "pilze";
 @import "termine";
