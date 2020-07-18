@@ -11,7 +11,7 @@ locale: 'de'
 collections:
   - name: "artikel"
     label: "Artikel"
-    folder: "_posts"
+    folder: "_artikel"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}.md"
     fields:
@@ -19,4 +19,19 @@ collections:
       - {label: "Autor_in", name: "autor_in", widget: "string"}
       - {label: "Datum", name: "datum", widget: "datetime"}
       - {label: "Vorschaubild", name: "vorschaubild", widget: "image"}
+      - {label: "Vorschautext", name: "extract", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+collections:
+  - name: "termine"
+    label: "Termine"
+    folder: "_termine"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}.md"
+    fields:
+      - {label: "Aktivität", name: "aktiviaet", widget: "string"}
+      - {label: "Datum", name: "datum", widget: "datetime"}
+      - {label: "Treffpunkt", name: "treffpunkt", widget: "string"}
+      - {label: "Teilnahmegebühr", name: "teilnabegebuehr", widget: "string"}
+      - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean"}
+
