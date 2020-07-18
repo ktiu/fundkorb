@@ -10,9 +10,10 @@ beschreibung:
 profil:
   hauptbild: Amanita_excelsa_01_DG.jpg
   autor_in: Dieter Gewalt
-  aktualisiert: 2020-05-20
+  aktualisiert: 2020-07-18T18:15:28.353Z
   literatur:
     - url: http://tintling.com/pilzbuch/arten/a/Amanita_excelsa.html
+  erstellt: 2020-07-18T18:15:55.489Z
 ---
 
 <figure>
