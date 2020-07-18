@@ -12,8 +12,8 @@ profil:
   aktualisiert: 2020-05-30
   literatur:
     - url: http://tintling.com/pilzbuch/arten/a/Amanita_rubescens.html
+  erstellt: 2020-07-18T18:17:18.483Z
 ---
-
 <figure>
   {% include bild.html datei="Amanita_rubescens_01_DG-1536x1102.jpg" %}
   <figcaption>Perlpilze im Gebiet Waldacker, oberhalb des Anglerteichs, am 11.06.2016</figcaption>
