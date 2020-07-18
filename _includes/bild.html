@@ -1,1 +1,1 @@
-<img src="{{ include.datei | prepend: site.pilzbilder }}" alt="{{ include.legende }}">
+<img src="{{ include.datei | prepend: site.upload_dir | relative_url }}" {% if include.legende %} alt="{{ include.legende }}"{% endif %}>

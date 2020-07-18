@@ -15,8 +15,12 @@
   flex-flow: row wrap;
   align-items: start;
   justify-content: space-between;
-  margin: 2rem 0;
 }
+
+#pilz .anfang > div {
+  margin: 0.5rem 0;
+}
+
 
 #pilz .autor_in {
   color: $muted;

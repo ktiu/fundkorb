@@ -1,0 +1,11 @@
+---
+layout: blank
+---
+[ 
+  {% for eintrag in site.data.glossar %}{ 
+    "schlagwort": "{{ eintrag.schlagwort }}",
+    {% if eintrag.synonym %} "synonym": "{{ eintrag.synonym }}",{% endif %}
+    "text": "{{ eintrag.text }}"
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

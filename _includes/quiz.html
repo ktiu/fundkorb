@@ -4,7 +4,7 @@
   {% assign pilz = (site.pilze | where: "name.wissenschaftlich", quizfrage.pilz ) | first  %}
   {% if pilz %}
     <div class="carousel-item{% if forloop.first == true %} active{% endif %}">
-      <img src="{{ quizfrage.bild | prepend: site.pilzbilder }}" class=""> 
+      <img src="{{ quizfrage.bild | prepend: site.upload_dir | relative_url }}" class=""> 
       <div class="carousel-caption">
         <h5>Welcher Pilz ist hier zu sehen?</h5>
         <p><a href="{{ pilz.url | relative_url }}" class="btn btn-light text-primary">Zur Antwort <i class="fa fa-lightbulb-o"></i></a></p>

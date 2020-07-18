@@ -6,8 +6,8 @@ excerpt: Es gibt kaum einen Künstler, der sich so einfühlsam dem Thema Pilze g
 ---
 
 <figure>
-  <img src="{{ "/bilder/artikel/1.jpg" | relative_url }}"/>
-  <img src="{{ "/bilder/artikel/2.jpg" | relative_url }}"/>
+  {% include bild.html datei="1.jpg" legende="" %}
+  {% include bild.html datei="2.jpg" legende="" %}
   <figcaption>Märtyrer (Grünspanträuschling) Maria mit dem Kinde (Fliegenpilz)</figcaption>
 </figure>
 
@@ -16,7 +16,7 @@ Es gibt kaum einen Künstler, der sich so einfühlsam dem Thema Pilze gewidmet h
 
 
 <figure>
-  <img src="{{ "/bilder/artikel/3.jpg" | relative_url }}"/>
+  {% include bild.html datei="3.jpg" legende="" %}
   <figcaption>Buchenspeitäubling</figcaption>
 </figure>
 
@@ -24,8 +24,8 @@ Es gibt kaum einen Künstler, der sich so einfühlsam dem Thema Pilze gewidmet h
 Wer seine Helmlinge betrachtet, erfährt unbewusst, wie diese wenig beachteten Pilzchen auszusehen haben und wird sie wieder erkennen, wenn er ihnen in der Natur begegnet. Gleichzeitig vermittelt die Darstellung eine Individualität, wie sie z. B. beim Dehnbaren Helmling nicht schöner als mit dem Bildtitel „Lili Marlen“ hätte zum Ausdruck gebracht werden können. Wir erinnern uns: „… werd´ ich bei der Laterne stehn wie einst Lili Marlen“.
 
 <figure>
-  <img src="{{ "/bilder/artikel/4.jpg" | relative_url }}"/>
-  <img src="{{ "/bilder/artikel/5.jpg" | relative_url }}"/>
+  {% include bild.html datei="4.jpg" legende="" %}
+  {% include bild.html datei="5.jpg" legende="" %}
   <figcaption>Lili Marlen (Dehnbarer Helmling) Telekinese (Weißmilchende Helmlinge)</figcaption>
 </figure>
 

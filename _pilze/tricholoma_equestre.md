@@ -20,6 +20,8 @@ profil:
   literatur:
 ---
 
+{% include hauptbild.html %}
+
 Ritterlinge sind überwiegend fleischige Lamellenpilze mit meist zylindrischen, kräftigen Stielen. Typisch für sie sind die ausgebuchtet am Stiel angewachsenen Lamellen. Diese Ausbuchtung wird als „Burggraben“ bezeichnet. Burggräben bringt man gern mit Ritterburgen in Verbindung, und so mag vielleicht auch der Name „Ritterling“ entstanden sein. So richtig einheitlich sind solche „Burggräben“ als Lamellenansatz jedoch nicht und es gibt sie in ähnlicher Ausprägung auch in anderen Pilzgattungen. Oberflächlich betrachtet könnte man sie als „frei“ bezeichnen, den Stiel also nicht erreichend. Deutlich reduziert erreichen sie über den Graben hinweg den Stiel aber doch.
 
 Mit etwas Erfahrung bekommt man eine recht gute Vorstellung davon, wie Ritterlinge auszusehen haben, und diese Erfahrung gewinnt man am besten, indem man einige der typischen Arten kennenlernt. Dazu gehören zum Beispiel der Seifen- und der Schwefelritterling, die anhand einprägsamer Merkmale nahezu unverwechselbar und dazu noch recht häufig sind. Beide sind giftig oder unbekömmlich. Eine früher häufige und dazu noch schmackhafte Ritterlingsart ist inzwischen so selten geworden, dass sie bereits seit Jahren in Roten Listen als „gefährdet“ eingestuft wird, und das ist unser Grünling. Nur die älteren unter den Pilzsammlern können sich noch erinnern, sie gesammelt und in der Küche geschätzt zu haben. Damit ist nicht nur wegen ihres dramatischen Rückgangs Schluss, denn inzwischen hat man herausgefunden, dass diese einst als Speisepilz beliebte Art auf eine höchst komplizierte Weise giftig sein kann und Todesfälle verursacht hat.

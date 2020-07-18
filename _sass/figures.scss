@@ -34,11 +34,20 @@ figure img {
   height: 200px;
 }
 
-.tooltip-inner {
+#pilzliste .tooltip-inner {
     max-width: 100%;
+}
+
+.tooltip-inner {
+  text-align: left;
 }
 
 .tooltip.show {
   opacity: 1;
 }
 
+.glossar {
+  text-decoration: underline;
+  text-decoration-style: double;
+  text-decoration-color: $primary;
+}

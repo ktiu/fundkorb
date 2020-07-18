@@ -1,10 +1,10 @@
-url: "https://ktiu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/fundkorb" # the subpath of your site, e.g. /blog
-title: "Fundkorb" # the name of your site, e.g. ACME Corp.
+url: "https://ktiu.github.io"
+baseurl: "/fundkorb"
+title: "Fundkorb"
 lang: de_DE
 form_target: formsubmit@ktiu.net
 
-pilzbilder: "/fundkorb/bilder/pilze/"
+upload_dir: "bilder/"
 
 sass:
     load_paths:

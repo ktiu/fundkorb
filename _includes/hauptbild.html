@@ -1,0 +1,8 @@
+{% if page.hauptbild.datei %}
+<figure>
+  {% include bild.html datei = page.hauptbild.datei %}
+  {% if page.hauptbild.legende %}
+    <figcaption>{{ page.hauptbild.legende }}</figcaption>
+  {% endif %}
+</figure>
+{% endif %}

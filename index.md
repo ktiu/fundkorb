@@ -12,15 +12,3 @@ Integer aliquam augue ut enim laoreet, ut blandit nunc pellentesque. Nulla elit 
 Mauris quis velit imperdiet, accumsan velit a, consectetur magna. Donec auctor aliquam enim vitae rutrum. Nulla sed justo in orci dignissim commodo. In semper iaculis vulputate. Proin mattis sem rutrum iaculis vestibulum. Quisque malesuada rhoncus augue, eu facilisis nunc congue non. Curabitur ante mauris, tempor pellentesque mattis a, vehicula vitae augue. Praesent mollis metus turpis. In dolor ipsum, suscipit in luctus sit amet, rutrum ut velit. Aenean purus mauris, efficitur sed ullamcorper ac, euismod et nisl. Sed eu vestibulum enim.
 
 Cras posuere sit amet turpis vel tristique. Suspendisse nec metus non tortor facilisis convallis non a arcu. Nulla vitae tellus dignissim, consequat sem vitae, elementum dolor. Donec vehicula, est non ultricies sodales, sapien ex auctor tortor, a maximus massa felis non lectus. Nunc placerat ut turpis at efficitur. Duis eleifend ligula laoreet risus ultrices, et mollis ligula volutpat. Nullam tempus facilisis scelerisque.
-
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>

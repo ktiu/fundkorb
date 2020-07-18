@@ -21,6 +21,8 @@ profil:
     - url: http://tintling.com/pilzbuch/arten/t/Tricholoma_sulphureum.html
 ---
 
+{% include hauptbild.html %}
+
 Der Schwefelritterling gehört zu den häufigeren und auffallenden Ritterlingen. Er fällt wegen seiner schwefelgelben Farbe und mehr noch durch seinen widerwärtig leuchtgasartigen Geruch auf. An dieser Merkmalskombination ist er zweifelsfrei zu erkennen. Der Grünling [Tricholoma equestre]({% link _pilze/tricholoma_equestre.md %}) ist zwar ähnlich gefärbt, riecht aber mehlartig. Außerdem sind dessen Lamellen wesentlich dünner und dichtstehender.
 
 <figure>

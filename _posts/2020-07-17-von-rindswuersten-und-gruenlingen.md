@@ -1,7 +1,6 @@
 ---
 title: Von Rindswürsten und Grünlingen
 author: Florian Haas
-
 ---
 
 Einmal die Woche gönne ich mir ein Kleinmarkthallenmenü. Dann gehe ich zur immer gleichen Metzgerei und bestelle meinen Klassiker: „Eine Rindswurst ohne Haut mit Brötchen, bitte.“ Und danach, weil sich das schlechte Wurstgewissen wieder gemeldet hat, gibt es zum Nachtisch ein biologisches Mandelhörnchen von „Querbeet“.

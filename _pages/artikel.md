@@ -9,8 +9,8 @@ permalink: artikel
 {% for post in site.posts %}
 <div class="artikel{% if post.vorschaubild %} row{% endif %}">
   {% if post.vorschaubild %}<div class="vorschaubild col-lg-4">
-    <a href="{{ post.url |relative_url}}">
-      <img src="{{ post.vorschaubild | prepend: "/bilder/artikel/" | relative_url }}">
+    <a href="{{ post.url | relative_url}}">
+      <img src="{{ post.vorschaubild | prepend: site.upload_dir | relative_url }}">
     </a>
   </div>
   <div class="col-lg-8 textvorschau">
