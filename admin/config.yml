@@ -5,7 +5,7 @@ backend:
 publish_mode: editorial_workflow
 
 media_folder: "bilder"
-logo_url: https://ktiu.github.io/fundkorb/assets/img/fundkorb.png
+logo_url: https://fundkorb.netlify.app/assets/img/fundkorb.png
 locale: 'de'
 
 collections:
