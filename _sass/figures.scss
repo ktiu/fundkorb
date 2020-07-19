@@ -23,6 +23,7 @@ figure .bild {
   position: relative;
   margin: 0 0 5px 5px;
   background-color: $black;
+  max-height: 90vh;
 }
 
 figure .bild.klein {
