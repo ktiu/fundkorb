@@ -102,7 +102,7 @@ collections:
       - {label: "Beschreibung", name: "body", widget: "markdown"}
   - name: "quiz"
     label: "Quiz"
-    identifier_field: "pilz
+    identifier_field: "pilz"
     folder: "_quiz"
     label_singular: "Quizfrage"
     editor:
@@ -110,7 +110,9 @@ collections:
     create: true
     sortable_fields: "pilz"
     fields:
-      - {label: "Bild", name: "bild", widget: "image"}
+      - label: "Bild"
+        name: "bild"
+        widget: "image"
       - label: "Pilz"
         name: "pilz"
         widget: "relation"
