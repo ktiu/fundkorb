@@ -79,4 +79,4 @@ Tütenförmige Fruchtkörper mit gestreifter Innenseite sind das markante Kennze
 
 Laut Literatur und Verbreitungsatlas gilt der Dungteuerling Cyathus stercoreus als ausgesprochen selten. Verbreitungsschwerpunkte scheinen die ostfriesische Nordseeküste und ihre vorgelagerten Inseln, aber auch das Rhein-Main-Gebiet zu sein. Als einziger hat er schwarze Peridiolen. Ausführliche Informationen und Fundmeldungen im Fundkorb.
 
-Gleich vier der hier beschriebenen Arten fand Thomas Lehr am 17.09.2005 an einer einzigen Stelle. Auf einer mit Mist untermischten Rindenmulchfläche an der Lorsbacher Kläranlage (MTB 5816.4.3) wuchsen Hunderte von Dungteuerteuerlingen zusammen mit Gestreiften, Topf- und Tiegelteuerlingen.
+Gleich vier der hier beschriebenen Arten fand Thomas Lehr am 17.09.2005 an einer einzigen Stelle. Auf einer mit Mist untermischten Rindenmulchfläche an der Lorsbacher Kläranlage (TK 5816.4.3) wuchsen Hunderte von Dungteuerteuerlingen zusammen mit Gestreiften, Topf- und Tiegelteuerlingen.
