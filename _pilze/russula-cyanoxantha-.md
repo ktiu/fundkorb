@@ -63,6 +63,6 @@ Er wächst vor allem in Laubwäldern auf sandigen Böden und ist Mykorrhizapartn
 Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Die Illustration von Gabriele Gossner (in: Hans Haas – Pilze Mitteleuropas, 1964) zeigt sehr schön die Farbvariabilität auf einem einzigen Hut des Frauentäublings.
 
 <figure>
-  {% include bild.html datei="bilder/Russula_cyanoxantha_06_GG.jpg" %}
+  {% include bild.html datei="bilder/Russula_cyanoxantha_06_GG.jpg" groesse="gross" %}
   {% include bild.html datei="bilder/Russula_cyanoxantha_05_DG.jpg" %}
 </figure>
