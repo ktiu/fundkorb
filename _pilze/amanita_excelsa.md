@@ -6,12 +6,14 @@ beschreibung:
   erlaeuterung: excelsa = hoch, erhaben, emporragend
   referenz: (Fr.) Bertill. 1866
   familie: Amanitaceae
+literatur:
+  - url: http://tintling.com/pilzbuch/arten/a/Amanita_excelsa.html
 profil:
   hauptbild: bilder/Amanita_excelsa_01_DG.jpg
   autor_in: Dieter Gewalt
   aktualisiert: 2020-05-20
-literatur:
-  - url: http://tintling.com/pilzbuch/arten/a/Amanita_excelsa.html
+  erstellt: ""
+  published: false
 ---
 
 <figure>
