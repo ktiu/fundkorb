@@ -12,7 +12,7 @@ Manche Pilzmyzelien werden Jahrtausende alt, schieben aber nicht in jedem Jahr F
 
 Mit gründlicherem Nachdenken und mit den Werkzeugen der Wissenschaft analysiert, sind also all die so lieb daherkommenden Aufrufe – seit über 80 Jahren! – zu Schonung und Schutz von Pilzen als unsinnig, ja kontraproduktiv zu erkennen: Orchideen, Weinbergschnecken, Wale sind Individuen und in vielen Fällen schützenswert, Pilze aber „wollen“ rechtzeitig von uns gepflückt oder aber z. B. von Eichhörnchen zum Trocknen in Astgabeln gehängt werden! Für Pilzfliegen und -käfer, Milben, Schnecken und Wildschweine bleiben dann immer noch mehr als genug übrig. Denn wir Pilzsucher begehen höchstens zwei Prozent unseres relativ riesigen Schwarzwalds – die steilsten Stellen und die vielen Flächen voll totem Astwerk u. ä. sowieso nicht. Entsprechende Hinweise und Empfehlungen gebe ich seit über 15 Jahren bei all meinen öffentlichen Vorträgen und Pilzexkursionen – auch im Landkreis Lörrach! Auf meinem dabei an die Teilnehmer verteilten „Arbeitsblatt“ heißt es auch in Fettdruck:
 
-Pilze sind nicht schonungs- oder schutzbedürftig!
+> Pilze sind nicht schonungs- oder schutzbedürftig!
 
 Viel wichtiger, als Pilze selbst schützen zu wollen, ist der Schutz verschiedener Biotope, die sie zum Leben benötigen und die leider oft großräumig vom Menschen zerstört werden. Doch wie stehen die Chancen für solchen Biotopschutz, so lange die weltweite Bevölkerungsexplosion anhält und wir Menschen meinen, immer höhere Ansprüche stellen zu dürfen?
 

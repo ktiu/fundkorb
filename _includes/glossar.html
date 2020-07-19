@@ -1,1 +1,0 @@
-{% assign entry = site.data.glossar | where: "schlagwort", include.schlagwort %}{% if entry %}<span class="glossar">{{ include.text }}</span>{% else %}{{ include.text }}{% endif %}
