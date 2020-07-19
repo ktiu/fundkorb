@@ -9,6 +9,7 @@ profil:
   autor_in: Thomas Lehr
 literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Amanita_franchetii.html
+published: true
 ---
 
 <figure>

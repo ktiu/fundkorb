@@ -7,6 +7,15 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
 
+@media (min-width: 992px) {
+  h1, h2 {
+    text-align: left;
+  }
+  h1 {
+    font-size: 3.3em;
+  }
+}
+
 h1, h2 {
   text-shadow: 1.5px 1.5px 2px $shadow;
 }
@@ -23,12 +32,23 @@ h1, h2 {
   color: $muted;
 } 
 
-@media (min-width: 992px) {
-  h1, h2 {
-    text-align: left;
-  }
-  h1 {
-    font-size: 3.3em;
-  }
+blockquote {
+  background-color: fade-out($brown, 0.8);
+  border-left: 4px solid $muted;
+  padding: 0.5rem 0.5rem;
+  @include clearfix;
+}
+
+blockquote:before {
+  float: left;
+  font-size: 1.5em;
+  color: $muted;
+  margin: -0.2rem 1rem 0.5rem 0;
+  font-family: "Font Awesome 5 Free"; font-weight: 900;
+  content: "\f10e";
+}
+
+blockquote p {
+  display: inline;
 }
 

@@ -11,6 +11,7 @@ profil:
   aktualisiert: 2019-11-30
 literatur: 
   - url: http://tintling.com/pilzbuch/arten/t/Tricholoma_sulphureum.html
+published: true
 ---
 
 <figure>

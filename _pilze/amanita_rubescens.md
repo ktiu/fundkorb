@@ -11,6 +11,7 @@ profil:
   aktualisiert: 2020-05-30
 literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Amanita_rubescens.html
+published: true
 ---
 
 <figure>

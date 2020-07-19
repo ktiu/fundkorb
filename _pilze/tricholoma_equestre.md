@@ -9,6 +9,7 @@ beschreibung:
 profil:
   hauptbild: bilder/Tricholoma_equestre_01_DG-1-1536x1052.jpg
   autor_in: Dieter Gewalt
+published: true
 ---
 
 <figure>

@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 site_url: https://fundkorb.netlify.app
 display_url: https://fundkorb.netlify.app
 
@@ -21,11 +21,13 @@ collections:
   - name: "artikel"
     identifier_field: "titel"
     label: "Artikel"
-    summary: "{{titel}} – {{filename}}{{extension}}"
+    summary: "{{titel}} – {{filename}}.{{extension}}"
     folder: "_artikel"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     sortable_fields: ["titel", "autor_in"]
+    editor:
+      preview: false
     view_filters:
       - label: "Sichtbar"
         field: "published"
@@ -35,16 +37,16 @@ collections:
       - {label: "Autor*in", name: "autor_in", widget: "string", required: false}
       - label: "Datum"
         name: "datum"
-        required: false}
+        required: false
         widget: "datetime"
         format: "YYYY-MM-DD"
         default: ""
         dateFormat: "DD.MM.YYYY"
         timeFormat: false
-      - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
       - {label: "Vorschaubild", name: "vorschaubild", widget: "image", required: false}
       - {label: "Vorschautext", name: "extract", widget: "string", required: false}
       - {label: "Text", name: "body", widget: "markdown"}
+      - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
 
 #  ____  _ _         
 # |  _ \(_) |_______ 
@@ -56,16 +58,19 @@ collections:
     label: "Pilzporträts"
     label_singular: "Pilzporträt"
     identifier_field: "beschreibung.wissenschaftlich"
-    summary: "{{beschreibung.wissenschaftlich}} ({{beschreibung.deutsch}}) – {{filename}}{{extension}}"
+    summary: "{{beschreibung.wissenschaftlich}} ({{beschreibung.deutsch}}) – {{filename}}.{{extension}}"
     folder: "_pilze"
     create: true
     slug: "{{slug}}-{{beschreibung.deutsch}}"
     editor:
       preview: false
+    view_filters:
+      - label: "Sichtbar"
+        field: "published"
+        pattern: true
     fields:
       - name: "beschreibung"
         label: "Beschreibung"
-        collapsed: true
         widget: "object"
         fields:
           - {label: "Wissenschaftlicher Name", name: "wissenschaftlich", widget: "string"}
@@ -85,7 +90,6 @@ collections:
           - {label: "Link", name: "url", widget: "string", required: false}
       - name: "profil"
         label: "Profil"
-        collapsed: true
         widget: "object"
         fields:
           - {label: "Hauptbild", name: "hauptbild", widget: "image", required: false}
@@ -105,6 +109,7 @@ collections:
             format: "YYYY-MM-DD"
             dateFormat: "DD.MM.YYYY"
             timeFormat: false
+      - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
       - name: "body"
         label: "Text"
         widget: "markdown"

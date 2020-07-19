@@ -9,6 +9,7 @@ profil:
   hauptbild: bilder/Entoloma_neglectum_01_MH-1.jpg
   autor_in: Dieter Gewalt
   aktualisiert: 2020-06-17
+published: true
 ---
 
 <figure>

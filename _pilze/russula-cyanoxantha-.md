@@ -14,6 +14,7 @@ profil:
   aktualisiert: 2020-07-19
   autor_in: Dieter Gewalt
   hauptbild: /bilder/russula_cyanoxantha_03_dg-1536x1123.jpg
+published: true
 ---
 
 <figure>

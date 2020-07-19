@@ -11,6 +11,7 @@ profil:
   aktualisiert: 2018-03-18
 literatur:
   - url: http://tintling.com/pilzbuch/arten/s/Schizophyllum_commune.html
+published: true
 ---
 
 <figure>

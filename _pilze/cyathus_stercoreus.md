@@ -6,6 +6,7 @@ profil:
   hauptbild: bilder/Cyathus_stercoreus_01_DG-1.jpg
   autor_in: Dieter Gewalt
   aktualisiert: 2010-09-22
+published: true
 ---
 
 <figure>

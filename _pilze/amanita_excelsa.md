@@ -13,7 +13,7 @@ profil:
   autor_in: Dieter Gewalt
   aktualisiert: 2020-05-20
   erstellt: ""
-  published: false
+published: true
 ---
 
 <figure>

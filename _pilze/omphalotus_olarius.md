@@ -8,6 +8,7 @@ beschreibung:
 profil:
   hauptbild: bilder/Omphalotus_olearius_01_DG.jpg
   autor_in: Dieter Gewalt
+published: true
 ---
 
 <figure>
