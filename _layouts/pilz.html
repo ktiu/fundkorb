@@ -53,11 +53,11 @@ layout: base
 
 {{ content }}
 
-{% if page.profil.literatur %}
+{% if page.literatur %}
 <h4>Weiterführende Literatur:</h4>
 
 <ul>
-{% for item in page.profil.literatur %}
+{% for item in page.literatur %}
 <li>
   {% if item.url %}<a href="{{ item.url }}">{% endif %}
     {% if item.text %}{{ item.text }}{% else %}{{ item.url }}{% endif %}

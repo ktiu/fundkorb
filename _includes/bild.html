@@ -1,1 +1,4 @@
-<img src="{{ include.datei | prepend: site.upload_dir | relative_url }}" {% if include.legende %} alt="{{ include.legende }}"{% endif %}>
+<div class="bild{% if include.groesse %} {{ include.groesse }}{% endif %}{% if include.zuschneiden == "ja" %} crop{% endif %}">
+  <img src="{{ include.datei | relative_url }}" {% if include.legende %} alt="{{ include.legende }}"{% endif %}>
+  {% if include.legende %}<div class="caption">{{include.legende}}</div>{% endif %}
+</div>

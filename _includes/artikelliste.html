@@ -7,7 +7,7 @@
   {% if artikel.vorschaubild %}
   <div class="vorschaubild {% cycle "float-left mr-3", "float-right ml-3" %} mb-3">
     <a href="{{ artikel.url | relative_url}}">
-      <img src="{{ artikel.vorschaubild | prepend: site.upload_dir | relative_url }}" />
+      <img src="{{ artikel.vorschaubild | relative_url }}" />
     </a>
   </div>
   {% endif %}

@@ -11,6 +11,13 @@ logo_url: https://fundkorb.netlify.app/assets/img/fundkorb.png
 locale: 'de'
 
 collections:
+
+#     _         _   _ _        _ 
+#    / \   _ __| |_(_) | _____| |
+#   / _ \ | '__| __| | |/ / _ \ |
+#  / ___ \| |  | |_| |   <  __/ |
+# /_/   \_\_|   \__|_|_|\_\___|_|
+                               
   - name: "artikel"
     identifier_field: "titel"
     label: "Artikel"
@@ -31,7 +38,14 @@ collections:
       - {label: "Vorschaubild", name: "vorschaubild", widget: "image", required: false}
       - {label: "Vorschautext", name: "extract", widget: "string", required: false}
       - {label: "Text", name: "body", widget: "markdown"}
-  - name: "pilzportraets"
+
+#  ____  _ _         
+# |  _ \(_) |_______ 
+# | |_) | | |_  / _ \
+# |  __/| | |/ /  __/
+# |_|   |_|_/___\___|
+                   
+  - name: "pilze"
     label: "Pilzporträts"
     label_singular: "Pilzporträt"
     identifier_field: "beschreibung.wissenschaftlich"
@@ -69,11 +83,31 @@ collections:
         fields:
           - {label: "Hauptbild", name: "hauptbild", widget: "image", required: false}
           - {label: "Autor*in", name: "autor_in", widget: "string", required: false}
-          - {label: "Erstellungsdatum", name: "erstellt", widget: "datetime", format: "YYYY-MM-DD", required: false, default:"", dateFormat: "DD.MM.YYYY", timeFormat: false}
-          - {label: "Zuletzt aktualisiert", name: "aktualisiert", required: false, widget: "datetime", format: "YYYY-MM-DD", dateFormat: "DD.MM.YYYY", timeFormat: false }
+          - label: "Erstellungsdatum"
+            name: "erstellt"
+            widget: "datetime"
+            format: "YYYY-MM-DD"
+            required: false
+            default: ""
+            dateFormat: "DD.MM.YYYY"
+            timeFormat: false
+          - label: "Zuletzt aktualisiert"
+            name: "aktualisiert"
+            required: false
+            widget: "datetime"
+            format: "YYYY-MM-DD"
+            dateFormat: "DD.MM.YYYY"
+            timeFormat: false
       - name: "body"
         label: "Text"
         widget: "markdown"
+
+#  _____                   _            
+# |_   _|__ _ __ _ __ ___ (_)_ __   ___ 
+#   | |/ _ \ '__| '_ ` _ \| | '_ \ / _ \
+#   | |  __/ |  | | | | | | | | | |  __/
+#   |_|\___|_|  |_| |_| |_|_|_| |_|\___|
+                                      
   - name: "termine"
     label: "Termine"
     identifier_field: "aktivitaet"
@@ -100,23 +134,3 @@ collections:
       - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean"}
       - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
       - {label: "Beschreibung", name: "body", widget: "markdown"}
-  - name: "quiz"
-    label: "Quiz"
-    identifier_field: "pilz"
-    folder: "_quiz"
-    label_singular: "Quizfrage"
-    editor:
-      preview: false
-    create: true
-    sortable_fields: "pilz"
-    fields:
-      - label: "Bild"
-        name: "bild"
-        widget: "image"
-      - label: "Pilz"
-        name: "pilz"
-        widget: "relation"
-        collection: "pilze"
-        valueField: "beschreibung.wissenschaftlich"
-        searchFields: ["beschreibung.wissenschaftlich", "beschreibung.deutsch"]
-        displayFields: ["beschreibung.wissenschaftlich", "beschreibung.deutsch"]

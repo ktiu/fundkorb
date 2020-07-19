@@ -11,7 +11,7 @@
   {% if tmpletter != lastletter %}
   <h3>{{ tmpletter }}</h3>
   {% endif %}
-  <p><a id="{{ pilz.slug }}" href="{{ pilz.url | relative_url}}" data-toggle="tooltip" data-container="a#{{pilz.slug}}" data-html="true" title="<div class='thumb'><img src='{{ pilz.profil.hauptbild | prepend: site.upload_dir | relative_url }}'></div>">{{ pilz.beschreibung.wissenschaftlich }}{% if pilz.beschreibung.deutsch %} ({{ pilz.beschreibung.deutsch }}){%endif%}</a></p>
+  <p><a id="{{ pilz.slug }}" href="{{ pilz.url | relative_url}}" data-toggle="tooltip" data-container="a#{{pilz.slug}}" data-html="true" title="<div class='thumb'><img src='{{ pilz.profil.hauptbild | relative_url }}'></div>">{{ pilz.beschreibung.wissenschaftlich }}{% if pilz.beschreibung.deutsch %} ({{ pilz.beschreibung.deutsch }}){%endif%}</a></p>
   {% assign lastletter = tmpletter %}
 {% endfor %}
 

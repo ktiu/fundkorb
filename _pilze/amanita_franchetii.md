@@ -5,14 +5,14 @@ beschreibung:
   referenz: (Boud.) Fayod 1889
   familie: Amanitaceae
 profil:
-  hauptbild: Amanita_franchetii_01_TL.jpg
+  hauptbild: bilder/Amanita_franchetii_01_TL.jpg
   autor_in: Thomas Lehr
 literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Amanita_franchetii.html
 ---
 
 <figure>
-  {% include bild.html datei="Amanita_franchetii_01_TL.jpg" %}
+  {% include bild.html datei="bilder/Amanita_franchetii_01_TL.jpg" %}
   <figcaption>01.07.2007 TK 5817.4.3 Niedwald Frankfurt</figcaption>
 </figure>
 

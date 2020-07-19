@@ -29,6 +29,8 @@ collections:
       - kontakt.md
   termine:
     output: false
+  quiz:
+    output: false
 
 defaults:
   -

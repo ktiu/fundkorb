@@ -6,13 +6,13 @@ beschreibung:
   referenz: (Lasch) Arnolds 1982
   familie: Entolomataceae
 profil:
-  hauptbild: Entoloma_neglectum_01_MH-1.jpg
+  hauptbild: bilder/Entoloma_neglectum_01_MH-1.jpg
   autor_in: Dieter Gewalt
   aktualisiert: 2020-06-17
 ---
 
 <figure>
-  {% include bild.html datei="Entoloma_neglectum_01_MH-1.jpg" %}
+  {% include bild.html datei="bilder/Entoloma_neglectum_01_MH-1.jpg" %}
 </figure>
 
 An einem grasigen Wegrand im Dietzenbacher Hessentagspark fiel mir am 17. Mai 2012 ein nabelingsartiger Pilz mit weit herablaufenden rosafarbenen Lamellen auf, an dessen Zugehörigkeit zur Gattung Entoloma schon im Feld kein Zweifel bestand. Sein Habitus erinnerte mich an einen Fund vor einem Jahr in der Parkanlage vor dem Götzenhainer Ringwäldchen, jedoch war der Fruchtkörper altersbedingt deutlich dunkler gefärbt und der Hut mehrfach eingerissen. Der *„Moser“ (Kleine Kryptogamenflora Band IIb/2)* gilt zwar als veraltet, aber wenn gerade keine modernere Gattungsmonografie wie die von *Noordeloos* zur Hand ist, leistet der Klassiker immer noch gute Dienste. Mit ihm kam ich bereits im zweiten Bestimmungsschritt aufgrund der deutlich herablaufenden Lamellen in die Untergattung *Eccilia*, dort über „Hut und Stiel nicht weiß oder weißlich“ und „Stiel weiß, weißlich“ direkt zu E. neglectum. Die gemessenen Sporengrößen (13 – 14 x 8,5 – 9 µm) schließen den sehr ähnlichen Fahlen Nabelrötling E. pallens aus. Für einen Rötling ist das ein extrem kurzer Bestimmungsweg ohne Stolpersteine.
