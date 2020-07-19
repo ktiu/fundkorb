@@ -94,14 +94,6 @@ collections:
         fields:
           - {label: "Hauptbild", name: "hauptbild", widget: "image", required: false}
           - {label: "Autor*in", name: "autor_in", widget: "string", required: false}
-          - label: "Erstellungsdatum"
-            name: "erstellt"
-            widget: "datetime"
-            format: "YYYY-MM-DD"
-            required: false
-            default: ""
-            dateFormat: "DD.MM.YYYY"
-            timeFormat: false
           - label: "Zuletzt aktualisiert"
             name: "aktualisiert"
             required: false

@@ -8,7 +8,6 @@ excerpt: Sie sind angetreten, um die weniger Erfahrenen ins Bockshorn zu jagen.
   Steinpilzen ungegart im Müllcontainer endete. Ganze Körbe waren voll von ihnen
   und kein einziger Steinpilz darunter – die geballte Ladung an Bitterstoffen
   also.
-datum: ""
 published: true
 ---
 

@@ -2,15 +2,6 @@
 layout: base
 ---
 
-{% if page.profil.erstellt %}
-{% capture erstellt %}
-{{ page.profil.erstellt | date: "%-d." }}
-{% assign m = page.profil.erstellt | date: "%-m" | minus: 1 %}
-{{ site.data.monate[m] }}
-{{ page.profil.erstellt | date: "%Y" }}
-{% endcapture %}
-{% endif %}
-
 {% if page.profil.aktualisiert %}
 {% capture aktualisiert %}
 {{ page.profil.aktualisiert | date: "%-d." }}
@@ -43,12 +34,7 @@ layout: base
   </div>
   {% endif %}
 
-  {% if page.profil.autor_in or erstellt %}
-  <div>
-    {% if page.profil.autor_in %}<div class="autor_in">von {{ page.profil.autor_in }}</div>{% endif %}
-    {% if erstellt %}<div class="erstellt">{{ erstellt }}</div>{% endif %}
-  </div>
-  {% endif %}
+  {% if page.profil.autor_in %}<div class="autor_in">&copy; {{ page.profil.autor_in }}</div>{% endif %}
 </div>
 
 {{ content }}

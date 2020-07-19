@@ -1,7 +1,7 @@
 ---
 titel: Vogelnesterpilze
 synonym:
-hauptbild: bilder/vogelnest1.png
+hauptbild: bilder/Nidularia_deformis_01_TL.jpg
 autor_in: Dieter Gewalt
 erstellt: 2009-03-15
 aktualisiert:
@@ -9,7 +9,7 @@ literatur:
 ---
 
 <figure>
-  {% include bild.html datei="bilder/vogelnest1.png" legende="" %}
+  {% include bild.html datei="bilder/Nidularia_deformis_01_TL.jpg" legende="" %}
   <figcaption>Nidularia deformis - Vollgestopfter Nestling</figcaption>
 </figure>
 Man hat noch keine brütenden Vögel auf ihnen sitzen gesehen, aber es gibt sie wirklich, diese Vogelnestpilze. Während sie im angelsächsischen Sprachraum den schönen und ihr Aussehen bildhaft beschreibenden Namen "Bird´s Nest Fungi" tragen, werden bei uns zumindest die häufigen Arten Teuerlinge genannt. Die etwas unverständlich erscheinende Bezeichnung stammt aus dem Mittelalter, als man anhand der Anzahl in ihnen liegender Peridiolen glaubte, auf Teuerungszeiten schließen zu können. Immerhin heißt auch bei uns die Gattung Nidularia "Nestlinge".
@@ -64,10 +64,11 @@ Die zu den [Bauchpilzen](Bauchpilze "Glossar") gehörige Familie der Nestlingsar
 </div>
 
 <figure>
-  {% include bild.html datei="bilder/crucibulum_laeve.png" zuschneiden="ja" legende="Crucibulum laeve – Tiegelteuerling" %}
-  {% include bild.html datei="bilder/cyathus_olla.png" zuschneiden="ja" legende="Cyathus olla – Topfteuerling" %}
-  {% include bild.html datei="bilder/cyathus_striatus.png" zuschneiden="ja" legende="Cyathus striatus – Gestreifter Teuerling" %}
-  {% include bild.html datei="bilder/cyathus_stercoreus.png" zuschneiden="ja" legende="Cyathus stercoreus - Dungteuerling" %}
+  {% include bild.html datei="bilder/Crucibulum_laeve_01_TL.jpg" zuschneiden="ja" legende="Crucibulum laeve – Tiegelteuerling" %}
+  {% include bild.html datei="bilder/Cyathus_olla_01_DG.jpg" zuschneiden="ja" legende="Cyathus olla – Topfteuerling" %}
+  {% include bild.html datei="bilder/Cyathus_striatus_05_DG.jpg" zuschneiden="ja" legende="Cyathus striatus – Gestreifter Teuerling" %}
+  {% include bild.html datei="bilder/Cyathus_stercoreus_02_DG.jpg
+  " zuschneiden="ja" legende="Cyathus stercoreus - Dungteuerling" %}
   <figcaption>(Fotos: Nidularia deformis, Cruibulum laeve von Thomas Lehr; die drei Cyathus-Arten von Dieter Gewalt)</figcaption>
 </figure>
 
