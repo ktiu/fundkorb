@@ -64,10 +64,10 @@ Die zu den [Bauchpilzen](Bauchpilze "Glossar") gehörige Familie der Nestlingsar
 </div>
 
 <figure>
-  {% include bild.html datei="bilder/crucibulum_laeve.png" legende="Crucibulum laeve – Tiegelteuerling" %}
-  {% include bild.html datei="bilder/cyathus_olla.png" legende="Cyathus olla – Topfteuerling" %}
-  {% include bild.html datei="bilder/cyathus_striatus.png" legende="Cyathus striatus – Gestreifter Teuerling" %}
-  {% include bild.html datei="bilder/cyathus_stercoreus.png" legende="Cyathus stercoreus - Dungteuerling" %}
+  {% include bild.html datei="bilder/crucibulum_laeve.png" zuschneiden="ja" legende="Crucibulum laeve – Tiegelteuerling" %}
+  {% include bild.html datei="bilder/cyathus_olla.png" zuschneiden="ja" legende="Cyathus olla – Topfteuerling" %}
+  {% include bild.html datei="bilder/cyathus_striatus.png" zuschneiden="ja" legende="Cyathus striatus – Gestreifter Teuerling" %}
+  {% include bild.html datei="bilder/cyathus_stercoreus.png" zuschneiden="ja" legende="Cyathus stercoreus - Dungteuerling" %}
   <figcaption>(Fotos: Nidularia deformis, Cruibulum laeve von Thomas Lehr; die drei Cyathus-Arten von Dieter Gewalt)</figcaption>
 </figure>
 
