@@ -21,7 +21,7 @@ collections:
   - name: "artikel"
     identifier_field: "titel"
     label: "Artikel"
-    summary: "{{titel}} - {{autor_in}}"
+    summary: "{{titel}} – {{filename}}{{extension}}"
     folder: "_artikel"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -33,7 +33,14 @@ collections:
     fields:
       - {label: "Titel", name: "titel", widget: "string"}
       - {label: "Autor*in", name: "autor_in", widget: "string", required: false}
-      - {label: "Datum", name: "datum", widget: "datetime", required: false}
+      - label: "Datum"
+        name: "datum"
+        required: false}
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        default: ""
+        dateFormat: "DD.MM.YYYY"
+        timeFormat: false
       - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
       - {label: "Vorschaubild", name: "vorschaubild", widget: "image", required: false}
       - {label: "Vorschautext", name: "extract", widget: "string", required: false}
@@ -49,10 +56,10 @@ collections:
     label: "Pilzporträts"
     label_singular: "Pilzporträt"
     identifier_field: "beschreibung.wissenschaftlich"
-    summary: "{{beschreibung.wissenschaftlich}} ({{beschreibung.deutsch}})"
+    summary: "{{beschreibung.wissenschaftlich}} ({{beschreibung.deutsch}}) – {{filename}}{{extension}}"
     folder: "_pilze"
     create: true
-    slug: "{{slug}}-{{name.deutsch}}"
+    slug: "{{slug}}-{{beschreibung.deutsch}}"
     editor:
       preview: false
     fields:

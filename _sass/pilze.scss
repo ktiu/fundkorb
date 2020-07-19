@@ -36,20 +36,25 @@
   color: $muted;
 }
 
-#pilz .referenz {
+#pilz .referenz,
+#verwandt .referenz {
   font-weight: bold;
 }
 
 #pilz h2, #pilz .aktualisiert,
-#pilz .bilderrechte {
+#verwandt h2, #pilz .aktualisiert,
+#pilz .bilderrechte,
+#verwandt .bilderrechte {
   font-style: italic;
 }
 
-#pilz .schluss {
+#pilz .schluss,
+#verwandt .schluss {
   margin: 2rem 0;
 }
 
-#pilz .bilderrechte, #pilz .aktualisiert {
+#pilz .bilderrechte, #pilz .aktualisiert,
+#verwandt .bilderrechte, #verwandt .aktualisiert {
   text-align: right;
   color: $muted;
 }
