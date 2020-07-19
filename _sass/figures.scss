@@ -1,6 +1,6 @@
 .table {
   background-color: fade-out($brown, 0.8);
-  margin: 2rem auto;
+  margin: 1rem auto;
 }
 
 .table thead th, .table th, .table td {
@@ -11,7 +11,7 @@ figure {
   display: flex;
   flex-flow: row wrap;
   width: 100%;
-  margin: 2rem auto;
+  margin: 1rem auto;
   background-color: fade-out($brown, 0.8);
 }
 

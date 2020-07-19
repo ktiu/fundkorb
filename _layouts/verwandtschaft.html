@@ -1,0 +1,59 @@
+---
+layout: base
+---
+
+{% if page.erstellt %}
+{% capture erstellt %}
+{{ page.erstellt | date: "%-d." }}
+{% assign m = page.erstellt | date: "%-m" | minus: 1 %}
+{{ site.data.monate[m] }}
+{{ page.erstellt | date: "%Y" }}
+{% endcapture %}
+{% endif %}
+
+{% if page.aktualisiert %}
+{% capture aktualisiert %}
+{{ page.aktualisiert | date: "%-d." }}
+{% assign m = page.aktualisiert | date: "%-m" | minus: 1 %}
+{{ site.data.monate[m] }}
+{{ page.aktualisiert | date: "%Y" }}
+{% endcapture %}
+{% endif %}
+
+<section id="verwandt">
+
+<h1>{{ page.titel }}</h1>
+
+{% if page.synonym %}<h2>{{ page.synonym }}</h2>{% endif %}
+
+<div class="anfang">
+{% if page.autor_in %}<div class="autor_in">von {{ page.autor_in }}</div>{% endif %}
+{% if erstellt %}<div class="erstellt">{{ erstellt }}</div>{% endif %}
+</div>
+
+{{ content }}
+
+{% if page.literatur %}
+<h4>Weiterführende Literatur:</h4>
+
+<ul>
+{% for item in page.literatur %}
+<li>
+  {% if item.url %}<a href="{{ item.url }}">{% endif %}
+    {% if item.text %}{{ item.text }}{% else %}{{ item.url }}{% endif %}
+  {% if item.url %}</a>{% endif %}
+</li>
+{% endfor %}
+</ul> 
+{% endif %}
+
+<div class="schluss">
+  {% if page.autor_in %}
+    <div class="bilderrechte">Alle Fotos, wenn nicht anders angegeben, von {{ page.autor_in }}.</div>
+  {% endif %}
+  {% if aktualisiert %}
+    <div class="aktualisiert">Zuletzt aktualisiert am {{ aktualisiert }}</div>
+  {% endif %}
+</div>
+</pilz>
+</section>

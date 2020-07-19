@@ -1,10 +1,17 @@
-<div class="blaettern d-flex justify-content-between mb-3">
+<div class="blaettern row mb-3">
+  <div class="zurueck">
   {% if page.previous %}
-  <a href="{{ page.previous.url | relative_url }}">◄ {{ page.previous.name.wissenschaftlich }}</a>
-  {% else %}
-  <span></span>
+    <a href="{{ page.previous.url | relative_url }}"><i class="fas fa-arrow-left"></i></a>
+    <a href="{{ page.previous.url | relative_url }}">{{ page.previous.beschreibung.wissenschaftlich }}</a>
   {% endif %}
+  </div>
+  <div class="index">
+    <a href="{% link _pages/pilze.md %}">Index</a>
+  </div>
+  <div class="vorwaerts">
   {% if page.next %}
-  <a href="{{ page.next.url | relative_url }}">{{ page.next.name.wissenschaftlich }} ►</a>
+    <a href="{{ page.next.url | relative_url }}">{{ page.next.beschreibung.wissenschaftlich }}</a>
+    <a href="{{ page.next.url | relative_url }}"><i class="fas fa-arrow-right"></i></a>
   {% endif %}
+  </div>
 </div>

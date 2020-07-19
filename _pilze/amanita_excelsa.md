@@ -1,18 +1,17 @@
 ---
-name:
+beschreibung:
   wissenschaftlich: Amanita excelsa
   deutsch: Grauer Wulstling
   synonym: Amanita spissa
   erlaeuterung: excelsa = hoch, erhaben, emporragend
-beschreibung:
   referenz: (Fr.) Bertill. 1866
   familie: Amanitaceae
 profil:
   hauptbild: Amanita_excelsa_01_DG.jpg
   autor_in: Dieter Gewalt
   aktualisiert: 2020-05-20
-  literatur:
-    - url: http://tintling.com/pilzbuch/arten/a/Amanita_excelsa.html
+literatur:
+  - url: http://tintling.com/pilzbuch/arten/a/Amanita_excelsa.html
 ---
 
 <figure>
@@ -28,6 +27,7 @@ In den meisten Pilzbüchern wird er als essbar angegeben. Das ist zweifellos kor
 
 “Einige wenige” – das besagt eigentlich schon genug. Mir sind in Mischpilzgerichten schon “einige wenige” durch ihren muffigen Geschmack so unangenehm aufgefallen, dass ich es vorziehe, ganz auf sie zu verzichten.
 
+<div class="table-responsive">
 <table class="table">
   <thead>
     <tr>
@@ -76,4 +76,4 @@ In den meisten Pilzbüchern wird er als essbar angegeben. Das ist zweifellos kor
     </tr>
   </tbody>
 </table>
-
+</div>

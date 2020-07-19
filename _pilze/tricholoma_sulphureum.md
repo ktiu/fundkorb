@@ -1,17 +1,16 @@
 ---
-name:
+beschreibung:
   wissenschaftlich: Tricholoma sulphureum
   deutsch: Schwefelritterling
   erlaeuterung: sulphureum = schwefelgelb
-beschreibung:
   referenz: (Bull.) P.Kumm. 1871
   familie: Tricholomataceae
 profil:
   hauptbild: Tricholoma_sulphureum_01_DG-2048x1293.jpeg
   autor_in: Dieter Gewalt
   aktualisiert: 2019-11-30
-  literatur: 
-    - url: http://tintling.com/pilzbuch/arten/t/Tricholoma_sulphureum.html
+literatur: 
+  - url: http://tintling.com/pilzbuch/arten/t/Tricholoma_sulphureum.html
 ---
 
 <figure>

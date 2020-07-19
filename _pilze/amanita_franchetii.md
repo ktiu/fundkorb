@@ -1,15 +1,14 @@
 ---
-name:
+beschreibung:
   wissenschaftlich: Amanita franchetii
   deutsch: Rauer Wulstling
-beschreibung:
   referenz: (Boud.) Fayod 1889
   familie: Amanitaceae
 profil:
   hauptbild: Amanita_franchetii_01_TL.jpg
   autor_in: Thomas Lehr
-  literatur:
-    - url: http://tintling.com/pilzbuch/arten/a/Amanita_franchetii.html
+literatur:
+  - url: http://tintling.com/pilzbuch/arten/a/Amanita_franchetii.html
 ---
 
 <figure>

@@ -10,17 +10,23 @@
   }
 }
 
-#pilz .anfang {
+#pilz .anfang,
+#verwandt .anfang{
   display: flex;
   flex-flow: row wrap;
   align-items: start;
   justify-content: space-between;
 }
 
-#pilz .anfang > div {
+#pilz .anfang > div, 
+#verwandt .anfang > div {
   margin: 0.5rem 0;
 }
 
+#verwandt .anfang .autor_in,
+#verwandt .anfang .erstellt {
+  color: $muted;
+}
 
 #pilz .autor_in {
   color: $muted;
@@ -48,5 +54,35 @@
   color: $muted;
   margin-top: 3rem;
   font-size: 3em;
+}
+
+.blaettern {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.blaettern .zurueck,
+.blaettern .vorwaerts {
+  flex: 1 1 30%;
+  display: flex;
+  align-items: center;
+}
+
+.blaettern .index {
+  margin: 0.5rem;
+}
+
+.blaettern .vorwaerts {
+  justify-content: end;
+  text-align: right;
+}
+
+.blaettern .vorwaerts i {
+  margin-left: 0.4rem;
+}
+
+.blaettern .zurueck i {
+  margin-right: 0.4rem;
 }
 

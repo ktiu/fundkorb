@@ -1,9 +1,8 @@
 ---
-name:
+beschreibung:
   wissenschaftlich: Entoloma neglectum
   deutsch: Isabellfarbener Rötling
   erlaeuterung: neglectum = unbeachtet, übersehen
-beschreibung:
   referenz: (Lasch) Arnolds 1982
   familie: Entolomataceae
 profil:

@@ -1,9 +1,8 @@
 ---
-name:
+beschreibung:
   wissenschaftlich: Omphalotus olearius
   deutsch: Leuchtender Ölbaumpilz
   erlaeuterung: olearius = zum Ölbaum gehörend
-beschreibung:
   referenz: (DC.) Singer 1948
   familie: Omphalotaceae
 profil:

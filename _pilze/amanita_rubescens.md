@@ -1,17 +1,16 @@
 ---
-name:
+beschreibung:
   wissenschaftlich: Amanita rubescens
   deutsch: Perlpilz
   erlaeuterung: rubescens = rötend
-beschreibung:
   referenz: Pers. 1797
   familie: Amanitaceae
 profil:
   hauptbild: Amanita_rubescens_01_DG-1536x1102.jpg
   autor_in: Dieter Gewalt
   aktualisiert: 2020-05-30
-  literatur:
-    - url: http://tintling.com/pilzbuch/arten/a/Amanita_rubescens.html
+literatur:
+  - url: http://tintling.com/pilzbuch/arten/a/Amanita_rubescens.html
 ---
 
 <figure>
@@ -36,6 +35,7 @@ Wichtiger Hinweis: Der Perpilz ist (wie viele andere Speisepilze auch) roh gifti
 
 ### Unterscheidungskriterien zwischen den drei verwechselbaren Arten:
 
+<div class="table-responsive">
 <table class="table">
   <thead>
     <tr>
@@ -84,3 +84,4 @@ Wichtiger Hinweis: Der Perpilz ist (wie viele andere Speisepilze auch) roh gifti
     </tr>
   </tbody>
 </table>
+</div>

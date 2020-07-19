@@ -24,9 +24,9 @@ layout: base
 
 <section id="pilz">
 
-<h1>{{ page.name.wissenschaftlich }}</h1>
+<h1>{{ page.beschreibung.wissenschaftlich }}</h1>
 
-{% if page.name.deutsch %}<h2>{{ page.name.deutsch }}</h2>{% endif %}
+{% if page.beschreibung.deutsch %}<h2>{{ page.beschreibung.deutsch }}</h2>{% endif %}
 
 <div class="anfang">
   {% if page.beschreibung.familie or page.beschreibung.referenz %}
@@ -36,10 +36,10 @@ layout: base
   </div>
   {% endif %}
 
-  {% if page.name.erlaeuterung or page.name.synonym %}
+  {% if page.beschreibung.erlaeuterung or page.beschreibung.synonym %}
   <div>
-    {% if page.name.erlaeuterung %}<div class="erlaeuterung">{{ page.name.erlaeuterung }}</div>{% endif %}
-    {% if page.name.synonym %}<div class="synonym">Synonym: {{ page.name.synonym }}</div>{% endif %}
+    {% if page.beschreibung.erlaeuterung %}<div class="erlaeuterung">{{ page.beschreibung.erlaeuterung }}</div>{% endif %}
+    {% if page.beschreibung.synonym %}<div class="synonym">Synonym: {{ page.beschreibung.synonym }}</div>{% endif %}
   </div>
   {% endif %}
 

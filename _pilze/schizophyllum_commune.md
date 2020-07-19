@@ -1,17 +1,16 @@
 ---
-name:
+beschreibung:
   wissenschaftlich: Schizophyllum commune
   deutsch: Spaltblättling
   erlaeuterung: commune = gewöhnlich, gemein, überall vorkommend
-beschreibung:
   referenz: Fr. 1815
   familie: Schizophyllaceae
 profil:
   hauptbild: Schizophyllum_commune_02_TL-1.jpg
   autor_in: Dieter Gewalt
   aktualisiert: 2018-03-18
-  literatur:
-    - url: http://tintling.com/pilzbuch/arten/s/Schizophyllum_commune.html
+literatur:
+  - url: http://tintling.com/pilzbuch/arten/s/Schizophyllum_commune.html
 ---
 
 <figure>

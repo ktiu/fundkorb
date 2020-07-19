@@ -2,7 +2,7 @@
 layout: blank
 ---
 
-$.getJSON('{{ "/assets/json/glossar.json" | absolute_url }}', function(data) {
+$.getJSON($(location).attr('origin')+"{{ site.basurl }}"+"/assets/json/glossar.json", function(data) {
   $("a[title='Glossar']").each( function() {
     var entry = data.find(x => [x.schlagwort, x.synonym].includes($(this).attr("href")));
     if(typeof entry !== 'undefined') {

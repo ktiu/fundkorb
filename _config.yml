@@ -14,13 +14,17 @@ sass:
 collections:
   pilze:
     output: true
+    permalink: /pilze/:name
+  verwandtschaften:
+    output: true
+    permalink: /verwandt/:name
   artikel:
     output: true
   pages:
     output: true
     order:
       - termine.md
-      - pilzliste.md
+      - pilze.md
       - artikel.md
       - kontakt.md
   termine:
@@ -32,6 +36,12 @@ defaults:
       type: "pilze"
     values:
       layout: "pilz"
+      navi: "/pilze"
+  - 
+    scope:
+      type: "verwandtschaften"
+    values:
+      layout: "verwandtschaft"
       navi: "/pilze"
   -
     scope:

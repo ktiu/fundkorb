@@ -1,5 +1,8 @@
+#artikelliste {
+  margin-top: -3rem;
+}
 #artikelliste .artikel {
-  margin: 2rem 0 3rem;
+  margin-top: 4rem;
 }
 
 #artikelliste h2 {
@@ -13,8 +16,8 @@
 
 @media (min-width: 576px) {
   #artikelliste .vorschaubild {
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
   }
 }
 

@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 site_url: https://fundkorb.netlify.app
 display_url: https://fundkorb.netlify.app
 
@@ -11,31 +11,23 @@ logo_url: https://fundkorb.netlify.app/assets/img/fundkorb.png
 locale: 'de'
 
 collections:
-  - name: "termine"
-    label: "Termine"
-    identifier_field: "aktivitaet"
-    summary: "{{aktivitaet}} - {{zeit}}"
-    label_singular: "Termin"
-    folder: "_termine"
-    create: true
-    slug: "{{aktivitaet}}-{{zeit}}-{{trefffpunkt}}.md"
-    fields:
-      - {label: "Aktivität", name: "aktivitaet", widget: "string"}
-      - {label: "Datum und Uhrzeit", name: "zeit", widget: "datetime"}
-      - {label: "Treffpunkt", name: "treffpunkt", widget: "string"}
-      - {label: "Teilnahmegebühr", name: "teilnabegebuehr", widget: "string"}
-      - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean"}
-      - {label: "Beschreibung", name: "body", widget: "markdown"}
   - name: "artikel"
     identifier_field: "titel"
     label: "Artikel"
+    summary: "{{titel}} - {{autor_in}}"
     folder: "_artikel"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}.md"
+    sortable_fields: ["titel", "autor_in"]
+    view_filters:
+      - label: "Sichtbar"
+        field: "published"
+        pattern: true
     fields:
       - {label: "Titel", name: "titel", widget: "string"}
       - {label: "Autor*in", name: "autor_in", widget: "string", required: false}
       - {label: "Datum", name: "datum", widget: "datetime", required: false}
+      - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
       - {label: "Vorschaubild", name: "vorschaubild", widget: "image", required: false}
       - {label: "Vorschautext", name: "extract", widget: "string", required: false}
       - {label: "Text", name: "body", widget: "markdown"}
@@ -43,29 +35,86 @@ collections:
     label: "Pilzporträts"
     label_singular: "Pilzporträt"
     identifier_field: "name.wissenschaftlich"
+    summary: "{{name.wissenschaftlich}} ({{name.deutsch}})"
     folder: "_pilze"
     create: true
     slug: "{{slug}}-{{name.deutsch}}.md"
+    editor:
+      preview: false
     fields:
-      - name: "name"
-        label: "Name"
+      - name: "beschreibung"
+        label: "Beschreibung"
+        collapsed: true
         widget: "object"
         fields:
           - {label: "Wissenschaftlicher Name", name: "wissenschaftlich", widget: "string"}
           - {label: "Deutscher Name", name: "deutsch", widget: "string", required: false}
-          - {label: "Synonym", name: "synonym", widget: "string", required: false}
-          - {label: "Erläuterung", name: "erlaeuterung", widget: "string", required: false}
-      - name: "beschreibung"
-        label: "Beschreibung"
-        widget: "object"
-        fields:
-          - {label: "Referenz", name: "referenz", widget: "string", required: false}
+          - {label: "Erläuterung des wissenschaftlichen Namens", name: "erlaeuterung", widget: "string", required: false}
+          - {label: "Synonym(e)", name: "synonym", widget: "string", required: false}
           - {label: "Familie", name: "familie", widget: "string", required: false}
+          - {label: "Referenz", name: "referenz", widget: "string", required: false}
+      - label: "Weiterführende Literatur"
+        label_singular: "Literatureintrag"
+        name: "literatur"
+        widget: "list"
+        minimize_collapsed: true
+        summary: "{{fields.text}} - {{fields.url}}"
+        fields:
+          - {label: "Anzeigetext", name: "text", widget: "string", required: false}
+          - {label: "Link", name: "url", widget: "string", required: false}
       - name: "profil"
         label: "Profil"
+        collapsed: true
         widget: "object"
         fields:
           - {label: "Hauptbild", name: "hauptbild", widget: "image", required: false}
           - {label: "Autor*in", name: "autor_in", widget: "string", required: false}
-          - {label: "Erstellungsdatum", name: "erstellt", widget: "datetime", required: false}
-          - {label: "Zuletzt aktualisiert", name: "aktualisiert", widget: "datetime", required: false}
+          - {label: "Erstellungsdatum", name: "erstellt", widget: "datetime", format: "YYYY-MM-DD", required: false, default:"", dateFormat: "DD.MM.YYYY", timeFormat: false}
+          - {label: "Zuletzt aktualisiert", name: "aktualisiert", required: false, widget: "datetime", format: "YYYY-MM-DD", dateFormat: "DD.MM.YYYY", timeFormat: false }
+      - name: "body"
+        label: "Text"
+        widget: "markdown"
+  - name: "termine"
+    label: "Termine"
+    identifier_field: "aktivitaet"
+    summary: "{{aktivitaet}} - {{zeit}} - {{treffpunkt}}"
+    label_singular: "Termin"
+    editor:
+      preview: false
+    folder: "_termine"
+    create: true
+    slug: "{{aktivitaet}}-{{zeit}}-{{treffpunkt}}.md"
+    sortable_fields: ["zeit", "aktivitaet"]
+    view_filters:
+      - label: "Anmeldung offen"
+        field: "anmeldung_offen"
+        pattern: true
+      - label: "Sichtbar"
+        field: "published"
+        pattern: true
+    fields:
+      - {label: "Aktivität", name: "aktivitaet", widget: "string"}
+      - {label: "Datum und Uhrzeit", name: "zeit", widget: "datetime"}
+      - {label: "Treffpunkt", name: "treffpunkt", widget: "string"}
+      - {label: "Teilnahmegebühr", name: "teilnahmegebuehr", widget: "string"}
+      - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean"}
+      - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
+      - {label: "Beschreibung", name: "body", widget: "markdown"}
+  - name: "quiz"
+    label: "Quiz"
+    identifier_field: "pilz"
+    folder: "_quiz"
+    label_singular: "Quizfrage"
+    editor:
+      preview: false
+    create: true
+    sortable_fields: "pilz"
+    fields:
+      - {label: "Bild", name: "bild", widget: "image"}
+      - label: "Pilz"
+        name: "pilz"
+        widget: "relation"
+        collection: "pilze"
+        valueField: "beschreibung.wissenschaftlich"
+        searchFields: ["beschreibung.wissenschaftlich", "beschreibung.deutsch"]
+        displayFields: ["beschreibung.wissenschaftlich", "beschreibung.deutsch"]
