@@ -11,6 +11,7 @@ figure {
   display: flex;
   flex-flow: row wrap;
   align-items: stretch;
+  justify-content: center;
   width: 100%;
   margin: 1rem auto;
   background-color: fade-out($brown, 0.8);
@@ -26,6 +27,8 @@ figure .bild {
 
 figure .bild.klein {
   flex: 1 1 150px;
+  max-height: 350px;
+  max-width: 350px;
 }
 
 figure .bild.gross {
