@@ -34,8 +34,8 @@ collections:
   - name: "pilzportraets"
     label: "Pilzporträts"
     label_singular: "Pilzporträt"
-    identifier_field: "name.wissenschaftlich"
-    summary: "{{name.wissenschaftlich}} ({{name.deutsch}})"
+    identifier_field: "beschreibung.wissenschaftlich"
+    summary: "{{beschreibung.wissenschaftlich}} ({{beschreibung.deutsch}})"
     folder: "_pilze"
     create: true
     slug: "{{slug}}-{{name.deutsch}}.md"
