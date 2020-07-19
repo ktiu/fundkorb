@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 
-# publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 site_url: https://fundkorb.netlify.app
 display_url: https://fundkorb.netlify.app
 
@@ -17,7 +17,7 @@ collections:
     summary: "{{titel}} - {{autor_in}}"
     folder: "_artikel"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}.md"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     sortable_fields: ["titel", "autor_in"]
     view_filters:
       - label: "Sichtbar"
@@ -38,7 +38,7 @@ collections:
     summary: "{{beschreibung.wissenschaftlich}} ({{beschreibung.deutsch}})"
     folder: "_pilze"
     create: true
-    slug: "{{slug}}-{{name.deutsch}}.md"
+    slug: "{{slug}}-{{name.deutsch}}"
     editor:
       preview: false
     fields:
@@ -83,7 +83,7 @@ collections:
       preview: false
     folder: "_termine"
     create: true
-    slug: "{{aktivitaet}}-{{zeit}}-{{treffpunkt}}.md"
+    slug: "{{aktivitaet}}-{{zeit}}-{{treffpunkt}}"
     sortable_fields: ["zeit", "aktivitaet"]
     view_filters:
       - label: "Anmeldung offen"
@@ -102,7 +102,7 @@ collections:
       - {label: "Beschreibung", name: "body", widget: "markdown"}
   - name: "quiz"
     label: "Quiz"
-    identifier_field: "pilz"
+    identifier_field: "pilz
     folder: "_quiz"
     label_singular: "Quizfrage"
     editor:

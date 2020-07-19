@@ -2,7 +2,7 @@
 
 {% assign artikel = site.artikel | reverse %}
 {% for artikel in artikel %}
-<div class="artikel">
+<div class="artikel clearfix">
   <h2><a href="{{ artikel.url |relative_url}}">{{ artikel.titel }}</a></h2>
   {% if artikel.vorschaubild %}
   <div class="vorschaubild {% cycle "float-left mr-3", "float-right ml-3" %} mb-3">
