@@ -1,7 +1,14 @@
 ---
 titel: "Florian Haas: Pilzbilder"
 vorschaubild: bilder/3.jpg
-excerpt: Es gibt kaum einen Künstler, der sich so einfühlsam dem Thema Pilze gewidmet hat wie der Frankfurter Maler Florian Haas. Manche seiner Bilder muten wie naive Malerei an, zeigen aber klarer als die besten Fotos die Merkmale, die eine Art charakterisieren. Bei anderen berührt die sensible Würdigung des Objekts, so als wäre es ein scheues Wesen, dessen Seele der Maler mit dem Pinsel eingefangen hat.
+excerpt: Es gibt kaum einen Künstler, der sich so einfühlsam dem Thema Pilze
+  gewidmet hat wie der Frankfurter Maler Florian Haas. Manche seiner Bilder
+  muten wie naive Malerei an, zeigen aber klarer als die besten Fotos die
+  Merkmale, die eine Art charakterisieren. Bei anderen berührt die sensible
+  Würdigung des Objekts, so als wäre es ein scheues Wesen, dessen Seele der
+  Maler mit dem Pinsel eingefangen hat.
+datum: 2020-07-19T12:28:21.746Z
+published: true
 ---
 
 <figure>
