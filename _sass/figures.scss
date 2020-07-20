@@ -12,7 +12,8 @@ figure {
   flex-flow: row wrap;
   align-items: stretch;
   justify-content: center;
-  width: 100%;
+  width: auto;
+  max-width: 100%;
   margin: 1rem auto;
   background-color: fade-out($brown, 0.8);
   padding: 5px 5px 0 0;
@@ -22,8 +23,8 @@ figure .bild {
   flex: 1 1 280px;
   position: relative;
   margin: 0 0 5px 5px;
-  background-color: $black;
-  max-height: 90vh;
+  //background-color: $black;
+  max-height: 98vh;
 }
 
 figure .bild.klein {
@@ -55,6 +56,9 @@ figure .bild img {
 
 figure .bild.crop img {
   object-fit: cover;
+}
+figure .bild.gross img {
+  object-fit: contain;
 }
 
 figure figcaption {

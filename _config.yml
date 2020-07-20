@@ -31,6 +31,8 @@ collections:
     output: false
   quiz:
     output: false
+  glossar:
+    output: false
 
 defaults:
   -

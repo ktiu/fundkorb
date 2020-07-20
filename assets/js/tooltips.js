@@ -3,11 +3,14 @@ layout: blank
 ---
 
 $.getJSON($(location).attr('origin')+"{{ site.basurl }}"+"/assets/json/glossar.json", function(data) {
-  $("a[title='Glossar']").each( function() {
+  $("a[title='Glossar']").add("a[title='Glossar-']").each( function() {
+    console.log("Hi");
     var entry = data.find(x => [x.schlagwort, x.synonym].includes($(this).attr("href")));
     if(typeof entry !== 'undefined') {
       var synonym = (typeof entry.synonym !== 'undefined') ? " (" + entry.synonym + ")" : "";
-      var tooltipText = "<strong>" + entry.schlagwort + synonym + "</strong> <br />" + entry.definition + "";
+      var tooltipText = "";
+      tooltipText += ($(this).attr("title") === "Glossar") ? "<strong>" + entry.schlagwort + synonym + "</strong> <br />" : "";
+      tooltipText += entry.output;
     } else {
       var tooltipText = $(this).attr("href");
     }
