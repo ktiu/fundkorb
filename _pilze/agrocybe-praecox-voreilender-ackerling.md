@@ -11,6 +11,7 @@ literatur:
 profil:
   aktualisiert: 2020-07-20
   hauptbild: /bilder/agrocybe_praecox_01_dg.jpg
+  autor_in: Dieter Gewalt
 published: true
 ---
 <!--\[if gte mso 9]><xml>
