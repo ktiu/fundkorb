@@ -6,15 +6,13 @@ beschreibung:
   erlaeuterung: equestre = zum Reiter gehörend
   referenz: (L.) P. Kumm. 1871
   familie: Tricholomataceae
+hauptbild: 
+  datei: bilder/Tricholoma_equestre_01_DG-1-1536x1052.jpg
+  anzeige: true
 profil:
-  hauptbild: bilder/Tricholoma_equestre_01_DG-1-1536x1052.jpg
   autor_in: Dieter Gewalt
 published: true
 ---
-
-<figure>
-  {% include bild.html datei="bilder/Tricholoma_equestre_01_DG-1-1536x1052.jpg" %}
-</figure>
 
 Ritterlinge sind überwiegend fleischige Lamellenpilze mit meist zylindrischen, kräftigen Stielen. Typisch für sie sind die ausgebuchtet am Stiel angewachsenen Lamellen. Diese Ausbuchtung wird als „Burggraben“ bezeichnet. Burggräben bringt man gern mit Ritterburgen in Verbindung, und so mag vielleicht auch der Name „Ritterling“ entstanden sein. So richtig einheitlich sind solche „Burggräben“ als Lamellenansatz jedoch nicht und es gibt sie in ähnlicher Ausprägung auch in anderen Pilzgattungen. Oberflächlich betrachtet könnte man sie als „frei“ bezeichnen, den Stiel also nicht erreichend. Deutlich reduziert erreichen sie über den Graben hinweg den Stiel aber doch.
 

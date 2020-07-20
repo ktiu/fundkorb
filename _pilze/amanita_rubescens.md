@@ -5,19 +5,17 @@ beschreibung:
   erlaeuterung: rubescens = rötend
   referenz: Pers. 1797
   familie: Amanitaceae
+hauptbild:
+  datei: bilder/Amanita_rubescens_01_DG-1536x1102.jpg
+  anzeige: true
+  legende: Perlpilze im Gebiet Waldacker, oberhalb des Anglerteichs, am 11.06.2016
 profil:
-  hauptbild: bilder/Amanita_rubescens_01_DG-1536x1102.jpg
   autor_in: Dieter Gewalt
   aktualisiert: 2020-05-30
 literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Amanita_rubescens.html
 published: true
 ---
-
-<figure>
-  {% include bild.html datei="bilder/Amanita_rubescens_01_DG-1536x1102.jpg" %}
-  <figcaption>Perlpilze im Gebiet Waldacker, oberhalb des Anglerteichs, am 11.06.2016</figcaption>
-</figure>
 
 Der Perlpilz gehört zu den guten Speisepilzen, jedoch sollten sich Anfänger vor Verwechslungen hüten und so lange die Finger von ihm lassen, bis ihnen die Unterschiede zum Pantherpilz und Grauen Wulstling geläufig sind. Ein wichtiges Merkmal ist das Röten des Fleisches, das irgendwo am Pilz erkennbar sein muss und bei den beiden anderen Arten niemals vorkommt. Alle meine hier platzierten Fotos zeigen solche Rottöne, zum Teil an Fraßstellen, zum Teil durchscheinend auf der Hutoberfläche, an der Stielbasis oder an den Lamellen. Beim geringsten Zweifel muss der Fund im Wald bleiben!
 

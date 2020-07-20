@@ -79,6 +79,10 @@ collections:
           - {label: "Synonym(e)", name: "synonym", widget: "string", required: false}
           - {label: "Familie", name: "familie", widget: "string", required: false}
           - {label: "Erläuterung", name: "erlaeuterung", widget: "string", required: false}
+      - name: "Hauptbild"
+          - {label: "Hauptbild", name: "hauptbild", widget: "image", required: false}
+          - {label: "Hauptbild anzeigen", widget: "boolean", default: true, hint: "Zeigt das Hauptbild automatisch am Anfang vom Text an"}
+          - {label: "Legende", widget: "string", hint: "Legende für die automatische Anzeige", required: false}
       - label: "Weiterführende Literatur"
         label_singular: "Literatureintrag"
         name: "literatur"
@@ -92,7 +96,6 @@ collections:
         label: "Profil"
         widget: "object"
         fields:
-          - {label: "Hauptbild", name: "hauptbild", widget: "image", required: false}
           - {label: "©", name: "autor_in", widget: "string", required: false}
           - label: "Zuletzt aktualisiert"
             name: "aktualisiert"

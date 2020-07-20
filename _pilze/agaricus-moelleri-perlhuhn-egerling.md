@@ -4,9 +4,11 @@ beschreibung:
   deutsch: Perlhuhn-Egerling
   familie: Agaricaceae
   referenz: "Wasser 1976 "
+hauptbild:
+  datei: /bilder/agaricus_moelleri_01_tl.jpg
+  anzeige: true
 profil:
   aktualisiert: 2020-07-20
-  hauptbild: /bilder/agaricus_moelleri_01_tl.jpg
   autor_in: Thomas Lehr
 published: true
 ---

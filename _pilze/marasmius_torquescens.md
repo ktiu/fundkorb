@@ -6,15 +6,13 @@ beschreibung:
   erlaeuterung: torquescens = verdrehend
   referenz: Quél. 1872
   familie: Marasmiaceae
+hauptbild:
+  datei: bilder/Marasmius_torquescens_01_DG-1536x1085.jpg
+  anzeige: true
 profil:
-  hauptbild: bilder/Marasmius_torquescens_01_DG-1536x1085.jpg
   autor_in: Dieter Gewalt
 published: true
 ---
-
-<figure>
-  {% include bild.html datei="bilder/Marasmius_torquescens_01_DG-1536x1085.jpg" %}
-</figure>
 
 Der Ledergelbe Schwindling gehört zu den größeren Arten der Gattung, was für einen Schwindling Hutdurchmesser von 1 – 3 cm bedeutet. In diesem Rahmen bewegt sich auch die hier vorgestellte Art. Außerdem zählt sie zu jenen, die weder zu vielen gesellig noch büschelig auftreten und nicht nach Knoblauch riechen, was in dieser Gruppe durchaus praktikable Unterscheidungmerkmale sind. So bleibt als Verwechslungsmöglichkeit eigentlich nur der Hornstielige Schwindling Marasmius cohaerens, der einen hornartig steifen, fast auf ganzer Länge dunkelbraun glänzenden Stiel hat. Ein habituell ähnlicher Pilz, der extrem seltene Hornstielige Scheinschwefelkopf Mythicomyces corneipes hat braunes Sporenpulver, die Schwindlinge haben weißes.
 

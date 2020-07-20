@@ -37,6 +37,15 @@ layout: base
   {% if page.profil.autor_in %}<div class="autor_in">&copy; {{ page.profil.autor_in }}</div>{% endif %}
 </div>
 
+{% if page.hauptbild.anzeige and page.hauptbild.datei %}
+<figure>
+  {% include bild.html datei=page.hauptbild.datei groesse="gross" %}
+  {% if page.hauptbild.legende %}
+  <figcaption>{{page.hauptbild.legende}}</figcaption>
+  {% endif %}
+</figure>
+{% endif %}
+
 {{ content }}
 
 {% if page.literatur %}

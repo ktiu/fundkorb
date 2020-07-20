@@ -10,9 +10,11 @@ literatur:
     url: http://aphyllopower.blogspot.com/2006/08/
   - text: "Mehr zu diesem Pilz im Tintling-Pilzbuch"
     url: http://tintling.com/pilzbuch/arten/a/Abortiporus_biennis.html
+hauptbild:
+  datei: /bilder/Abortiporus_biennis_01_dg.jpg
+  anzeige: true
 profil:
   aktualisiert: 2020-07-20
-  hauptbild: /bilder/Abortiporus_biennis_01_dg.jpg
   autor_in: Dieter Gewalt
 published: true
 ---

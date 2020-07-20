@@ -5,15 +5,13 @@ beschreibung:
   erlaeuterung: rivulosa = rinnig
   familie: Strophariaceae
   referenz: "Nauta 2003 "
+hauptbild:
+  datei: /bilder/agrocybe_rivulosa_01_dg.jpg
+  anzeige: true
 profil:
   aktualisiert: 2020-07-20
-  hauptbild: /bilder/agrocybe_rivulosa_01_dg.jpg
 published: true
 ---
-
-<figure>
-  {% include bild.html datei="bilder/agrocybe_rivulosa_01_dg.jpg" %}
-</figure>
 
 Wenn es darum geht, Pilze zu bestimmen, ist die Vorgehensweise für die meisten Pilzfreunde eigentlich klar. Zunächst orientiert man sich an makroskopischen Merkmalen und rückt dann die eine oder andere Gattung näher in Betracht. Kann man sich nicht festlegen, wird in den meisten Fällen die mikroskopische Analyse „Licht ins Dunkel“ bringen. Wenn dann aber die mikroskopische Untersuchung die makroskopische Bestimmung der Gattung bestätigt und man dennoch in der Bestimmungsliteratur nicht mehr weiter kommt, dann kann es schon mal vorkommen, dass der Pilz selbst vor Verwunderung die Stirn runzelt. So ist dies dann auch bei der hier gezeigten Spezies geschehen und genau das hat sie letztendlich auch verraten.
 

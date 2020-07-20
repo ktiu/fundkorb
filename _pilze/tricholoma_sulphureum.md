@@ -5,18 +5,16 @@ beschreibung:
   erlaeuterung: sulphureum = schwefelgelb
   referenz: (Bull.) P.Kumm. 1871
   familie: Tricholomataceae
+hauptbild:
+  datei: bilder/Tricholoma_sulphureum_01_DG-2048x1293.jpeg
+  anzeige: true
 profil:
-  hauptbild: bilder/Tricholoma_sulphureum_01_DG-2048x1293.jpeg
   autor_in: Dieter Gewalt
   aktualisiert: 2019-11-30
 literatur: 
   - url: http://tintling.com/pilzbuch/arten/t/Tricholoma_sulphureum.html
 published: true
 ---
-
-<figure>
-  {% include bild.html datei="bilder/Tricholoma_sulphureum_01_DG-2048x1293.jpeg" %}
-</figure>
 
 Der Schwefelritterling gehört zu den häufigeren und auffallenden Ritterlingen. Er fällt wegen seiner schwefelgelben Farbe und mehr noch durch seinen widerwärtig leuchtgasartigen Geruch auf. An dieser Merkmalskombination ist er zweifelsfrei zu erkennen. Der Grünling [Tricholoma equestre]({% link _pilze/tricholoma_equestre.md %}) ist zwar ähnlich gefärbt, riecht aber mehlartig. Außerdem sind dessen Lamellen wesentlich dünner und dichtstehender.
 

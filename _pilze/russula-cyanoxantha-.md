@@ -8,10 +8,12 @@ beschreibung:
 literatur:
   - url: https://www.dgfm-ev.de/pilz-des-jahres/1997-frauentaeubling
     text: Der Frauentäubling war 1997 Pilz des Jahres (DGfM)
+hauptbild:
+  datei: /bilder/russula_cyanoxantha_03_dg-1536x1123.jpg
+  anzeige: false
 profil:
   aktualisiert: 2020-07-19
   autor_in: Dieter Gewalt
-  hauptbild: /bilder/russula_cyanoxantha_03_dg-1536x1123.jpg
 published: true
 ---
 
