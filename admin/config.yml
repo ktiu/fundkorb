@@ -172,7 +172,7 @@ collections:
     label: "Quiz"
     identifier_field: "pilz"
     slug: "{{bild}}"
-    summary: "{{pilz}} - {{bild}}?"
+    summary: "{{pilz}} - {{bild}}"
     folder: "_quiz"
     label_singular: "Quizfrage"
     editor:

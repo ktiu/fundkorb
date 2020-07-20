@@ -1,4 +1,4 @@
---
-bild: Omphalotus_olearius_01_DG.jpg
+---
+bild: omphalotus_olearius_01_dg.jpg
 pilz: Omphalotus olearius
---
+---
