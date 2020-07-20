@@ -75,10 +75,10 @@ collections:
         fields:
           - {label: "Wissenschaftlicher Name", name: "wissenschaftlich", widget: "string"}
           - {label: "Deutscher Name", name: "deutsch", widget: "string", required: false}
-          - {label: "Erläuterung des wissenschaftlichen Namens", name: "erlaeuterung", widget: "string", required: false}
+          - {label: "Autoren-Zitat", name: "referenz", widget: "string", required: false}
           - {label: "Synonym(e)", name: "synonym", widget: "string", required: false}
           - {label: "Familie", name: "familie", widget: "string", required: false}
-          - {label: "Referenz", name: "referenz", widget: "string", required: false}
+          - {label: "Erläuterung", name: "erlaeuterung", widget: "string", required: false}
       - label: "Weiterführende Literatur"
         label_singular: "Literatureintrag"
         name: "literatur"
@@ -93,7 +93,7 @@ collections:
         widget: "object"
         fields:
           - {label: "Hauptbild", name: "hauptbild", widget: "image", required: false}
-          - {label: "Autor*in", name: "autor_in", widget: "string", required: false}
+          - {label: "©", name: "autor_in", widget: "string", required: false}
           - label: "Zuletzt aktualisiert"
             name: "aktualisiert"
             required: false
