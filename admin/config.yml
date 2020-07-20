@@ -84,7 +84,7 @@ collections:
         widget: "object"
         fields:
           - {label: "Profilbild", name: "datei", widget: "image", required: false}
-          - {name: "anzeigen", label: "Profilbild anzeigen", widget: "boolean", default: true, hint: "Zeigt das Hauptbild automatisch am Anfang vom Text an"}
+          - {name: "anzeige", label: "Profilbild anzeigen", widget: "boolean", default: true, hint: "Zeigt das Hauptbild automatisch am Anfang vom Text an"}
           - {label: "Legende", name: "legende", widget: "string", hint: "Legende für die automatische Anzeige", required: false}
       - label: "Weiterführende Literatur"
         label_singular: "Literatureintrag"
