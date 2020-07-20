@@ -7,8 +7,10 @@ beschreibung:
   referenz: "(Pers.) Fayod 1889 "
 literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Agrocybe_praecox.html
+  - {}
 profil:
   aktualisiert: 2020-07-20
+  hauptbild: /bilder/agrocybe_praecox_01_dg.jpg
 published: true
 ---
 <!--\[if gte mso 9]><xml>
