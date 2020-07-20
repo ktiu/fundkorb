@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: Acrospermum
+  wissenschaftlich: Acrospermum compressum
   deutsch: Fadensporiges Flachkeulchen
   erlaeuterung: compressum = zusammengedrückt
   familie: Acrospermaceae
