@@ -4,8 +4,8 @@ beschreibung:
   deutsch: Rötender Wirrling
   erlaeuterung: biennis = zweijährig
   familie: Meruliaceae
-  synonym: (Bull.) Singer 1944
-  referenz: Dieter Gewalt
+  synonym: ""
+  referenz: (Bull.) Singer 1944
 literatur:
   - text: "Werner Pohl: Aphyllopower (Pilz Nr. 10)"
     url: http://aphyllopower.blogspot.com/2006/08/
@@ -14,6 +14,7 @@ literatur:
 profil:
   aktualisiert: 2020-07-20
   hauptbild: /bilder/Abortiporus_biennis_01_dg.jpg
+  autor_in: Dieter Gewalt
 published: true
 ---
 <!--\[if gte mso 9]><xml>
