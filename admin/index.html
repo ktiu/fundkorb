@@ -8,5 +8,31 @@
 </head>
 <body>
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script>
+CMS.registerEditorComponent({
+  id: "bild",
+  label: "Bild",
+  fields: [{name: 'datei', label: 'bild', widget: 'image'},
+           {name: 'legende', label: 'Legende', widget: 'string'},
+           {name: 'groesse',
+            label: 'Größe',
+            widget: 'select',
+            default: 'standard',
+            options: [{label: 'groß', value: 'gross'},
+                      {label: 'standard', value: 'standard'},
+                      {label: 'klein', value: 'klein'}]}],
+  pattern: /<figure>\{% include bild.html datei="([^"]*)" groesse="((gross)|(standard)|(klein))" %}(<figcaption>(.*)<\/figcaption>)?<\/figure>/,
+  fromBlock: function(match) {
+    return {
+      datei: match[1],
+      legende: match[6],
+      groesse: match[2]
+    };
+  },
+  toBlock: function(obj) {
+    return '<figure>{% include bild.html datei="' + obj.datei + '" groesse="' + obj.groesse + '" %}</figure>';
+  },
+});
+</script>
 </body>
 </html>
