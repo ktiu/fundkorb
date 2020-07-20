@@ -4,15 +4,18 @@ beschreibung:
   deutsch: Fadensporiges Flachkeulchen
   erlaeuterung: compressum = zusammengedrückt
   familie: Acrospermaceae
+  referenz: "Tode 1790 "
 literatur:
   - url: https://asco-sonneberg.de/pages/gallery/substrat-urtica-dioica-11080521371.php
 profil:
   aktualisiert: 2020-07-20
-  autor_in: "Tode 1790 "
+  autor_in: Dieter Gewalt
   hauptbild: /bilder/acrospermum_compressum_01_dg.jpg
 published: true
 ---
-<!--\[if gte mso 9]><xml>
+![22.06.2008 im Kiefernheg bei Heusenstamm](/bilder/acrospermum_compressum_01_dg.jpg)
+
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -54,9 +57,9 @@ published: true
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -312,9 +315,9 @@ published: true
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -340,15 +343,13 @@ published: true
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 Das Fadensporige Flachkeulchen gehört zu den winzigen Ascomyceten, die man auf vorjährigen Brennnesselstängeln finden kann. Die Art ist weit verbreitet, aber vielfach übersehen und keinesfalls häufig. Nördlich des Mains ist sie offenbar seltener als im Süden der Republik. Wer wie ich dieses spezielle Substrat jährlich nach Kleinstpilzen absucht, wird sicher meine Erfahrung bestätigen: man muss schon eine sehr große Zahl trockener Stängel in die Hand nehmen, um diese Keulchen einmal zu finden, aber dann herdenweise in langen Reihen. Wachstumszeit ist Frühjahr bis Sommer.
 
 Acrospermum compressum bildet ca. 3 mm hohe, oliv- bis schwarzbräunliche Keulchen, deren oberer (fertiler) Teil meist abgeflacht ist. Auffälliges Mikromerkmal, nach dem der Pilz benannt ist: die fadenförmigen Sporen sind meist über 400 µ lang, aber nur 1 µ breit.
-
-
 
 Andere auf Brennnesselstängeln wachsende kleine Pilze
 
@@ -362,7 +363,7 @@ Cyathicula cyathoidea = Pokalförmiger Stängelbecherling\
 Hymenoscyphus herbarum = Kraut-Stängelbecherling\
 Leptosphaeria acuta = Zugespitzter Kugelpilz
 
-auf frischen Brennnesseln, ca. Mai bis Juli\
+auf frischen Brennnesseln, ca. Mai bis Juli:\
 Puccinia urticata = Brennnesselrost
 
 <!--EndFragment-->
