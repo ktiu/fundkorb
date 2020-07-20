@@ -7,6 +7,7 @@ beschreibung:
 profil:
   aktualisiert: 2020-07-20
   hauptbild: /bilder/agaricus_moelleri_01_tl.jpg
+  autor_in: Thomas Lehr
 published: true
 ---
 <!--\[if gte mso 9]><xml>
