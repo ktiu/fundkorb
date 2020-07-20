@@ -9,7 +9,7 @@ literatur:
 ---
 
 <figure>
-  {% include bild.html datei="bilder/Nidularia_deformis_01_TL.jpg" legende="" %}
+  {% include bild.html datei="bilder/Nidularia_deformis_01_TL.jpg" %}
   <figcaption>Nidularia deformis - Vollgestopfter Nestling (Foto: Thomas Lehr)</figcaption>
 </figure>
 
