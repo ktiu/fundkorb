@@ -8,6 +8,10 @@ beschreibung:
 hauptbild:
   anzeige: true
   datei: /bilder/ascobolus_crenulatus_01_dg.jpg
+literatur:
+  - {}
+  - url: http://tintling.com/pilzbuch/taxonomie/familie/ascobolaceae.html
+    text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 1 (Nr. 113) "
 profil:
   aktualisiert: 2020-07-21
   autor_in: Dieter Gewalt
@@ -26,6 +30,14 @@ Diese beiden Fotos von Frank Kaster zeigen die aus dem Hymenium herausragenden A
 
 Die Fruchtkörper wachsen auf Kot verschiedener Tiere wie Rehe, Schafe, Hasen, Kaninchen u. a. und sitzen stiellos auf ihrem Substrat. Erscheinungszeit ist nach Literatur* vorwiegend in den Wintermonaten. Bei unserer Kultur erschienen die ersten Apothecien Ende Juni. Die Art gilt als selten.
 
+<figure>
+  {% include bild.html datei="bilder/Ascobolus_crenulatus_04_FK.jpg" groesse="klein" zuschneiden="ja" %}
+  {% include bild.html datei="bilder/Ascobolus_crenulatus_05_FK.jpg" groesse="klein" zuschneiden="ja" %}
+  {% include bild.html datei="bilder/Ascobolus_crenulatus_06_FK.jpg" groesse="klein" zuschneiden="ja"%}
+</figure>
 
+Asci mit unreifen Sporen       Paraphysen      Sporen 
+3 Mikrofotos von Frank Kaster
 
+Angaben zu den Mikromerkmalen: die achtsporigen Asci* messen 135 - 195 x 14 - 19 µm, die schlanken Paraphysen sind lt. Literatur septiert (konnte bei dem von Frank Kaster untersuchten Material nicht festgestellt werden), die elliptischen Sporen sind jung hyalin*, reif dunkelbraun mit violettlicher Ornamentierung, Maße im Durchschnitt 15 x 8,5http://tintling.com/pilzbuch/taxonomie/familie/ascobolaceae.html
 
