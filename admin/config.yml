@@ -27,7 +27,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     sortable_fields: ["titel", "autor_in"]
     editor:
-      preview: false
+      preview: true
     view_filters:
       - label: "Sichtbar"
         field: "published"
