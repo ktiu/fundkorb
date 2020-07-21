@@ -31,7 +31,8 @@ Was auf den ersten Blick nicht plausibel zu sein scheint: Täublinge und Milchli
 Zu den farblich enorm variablen Arten gehört auch der Frauentäubling. Die Farbskala reicht bei ihm von gelb, grünlich, schmutzig graugrün, schiefergrau, grauviolett, rosalila bis zu einem wunderschönen lilaviolett. Oft sind die Hüte uneinheitlich koloriert und meist kommen einige Rostflecken hinzu, die etwas krustig strukturiert sein können – doch egal, in welcher Farbe oder Farbkombination er auch erscheinen mag – er hat ein Alleinstellungsmerkmal, an dem er immer zu erkennen ist. Er ist der einzige Täubling mit nicht splitternden, also biegsamen Lamellen, die auf Druck dazu neigen, sich aneinander zu schmiegen. Darüberhinaus ist er ein äußerst schmackhafter Pilz. Manche Kenner ziehen ihn sogar Pfifferling, Steinpilz & Co vor. Sie schätzen ihn nicht nur wegen seines nussigen Geschmacks, sondern auch wegen seiner im Vergleich zu Röhrlingen festeren Konsistenz. Er hat Biss!
 
 <figure>
-  {% include bild.html datei="bilder/Russula_cyanoxantha_04_DG-1536x1197.jpg" %}
+  {% include bild.html datei="bilder/Russula_cyanoxantha_04_DG.jpg" %}
+  {% include bild.html datei="bilder/Russula_cyanoxantha_05_DG.jpg" %}
 </figure>
 
 Er wächst vor allem in Laubwäldern auf sandigen Böden und ist Mykorrhizapartner von Rotbuchen und Eichen. In der Rhein-Main-Ebene gehört er zu den häufigeren Arten.
@@ -60,10 +61,6 @@ Er wächst vor allem in Laubwäldern auf sandigen Böden und ist Mykorrhizapartn
   </table>
 </div>
 
-<figure>
-  {% include bild.html datei="bilder/Russula_cyanoxantha_04_DG.jpg" %}
-  {% include bild.html datei="bilder/Russula_cyanoxantha_05_DG.jpg" %}
-</figure>
 
 Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Die Illustration von Gabriele Gossner (in: Hans Haas – Pilze Mitteleuropas, 1964) zeigt sehr schön die Farbvariabilität auf einem einzigen Hut des Frauentäublings.
 
