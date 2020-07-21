@@ -8,7 +8,7 @@
 }
 
 figure {
-  display: flex;
+  display: inline-flex;
   flex-flow: row wrap;
   align-items: stretch;
   justify-content: center;
@@ -67,7 +67,7 @@ figure .bild img {
   object-fit: cover;
 }
 
-figure .bild.gross img {
+figure.gross .bild img {
   object-fit: contain;
 }
 
