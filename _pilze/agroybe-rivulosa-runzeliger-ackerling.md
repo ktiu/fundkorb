@@ -11,6 +11,7 @@ hauptbild:
   anzeige: true
 profil:
   aktualisiert: 2020-07-20
+  autor_in: Dieter Gewalt
 published: true
 ---
 
