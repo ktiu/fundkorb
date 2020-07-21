@@ -39,5 +39,8 @@ Die Fruchtkörper wachsen auf Kot verschiedener Tiere wie Rehe, Schafe, Hasen, K
 Asci mit unreifen Sporen       Paraphysen      Sporen 
 3 Mikrofotos von Frank Kaster
 
-Angaben zu den Mikromerkmalen: die achtsporigen Asci* messen 135 - 195 x 14 - 19 µm, die schlanken Paraphysen sind lt. Literatur septiert (konnte bei dem von Frank Kaster untersuchten Material nicht festgestellt werden), die elliptischen Sporen sind jung hyalin*, reif dunkelbraun mit violettlicher Ornamentierung, Maße im Durchschnitt 15 x 8,5http://tintling.com/pilzbuch/taxonomie/familie/ascobolaceae.html
+Angaben zu den Mikromerkmalen: die achtsporigen Asci messen 135 - 195 x 14 - 19 µm, die schlanken Paraphysen sind lt. Literatur septiert (konnte bei dem von Frank Kaster untersuchten Material nicht festgestellt werden), die elliptischen Sporen sind jung hyalin, reif dunkelbraun mit violettlicher Ornamentierung, Maße im Durchschnitt 15 x 8,5
+
+Breitenbach & Kränzlin: Pilze der Schweiz Band 1 (Nr. 113)
+http://tintling.com/pilzbuch/taxonomie/familie/ascobolaceae.html
 
