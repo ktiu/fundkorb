@@ -61,8 +61,39 @@
 
 #pilzliste h3 {
   color: $muted;
-  margin-top: 3rem;
+  margin-top: 2rem;
   font-size: 3em;
+  text-align: center;
+}
+
+#pilzliste .rollerdex {
+  margin-top: 2.5rem;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+#pilzliste .rollerdex a {
+  flex-basis: 3rem;
+  background-color: $primary;
+  color: $white;
+}
+
+#pilzliste .rollerdex a.collapsed {
+  background-color: inherit;
+  color: $primary;
+}
+
+#pilzliste .rollerdex a.collapsed:hover {
+  text-decoration: underline;
+}
+#pilzliste .buchstabe {
+  text-align: center;
+}
+
+#pilzliste .buchstabe div {
+  display:inline-block;
+  text-align: left;
 }
 
 .blaettern {

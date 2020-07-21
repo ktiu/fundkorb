@@ -1,19 +1,19 @@
-.navbar-expand-sm {
+#navigation.navbar-expand-sm {
   justify-content: center;
   display: inline-flex;
   flex-flow: row wrap;
 }
 
-.navbar-logo {
+#navigation .navbar-logo {
   flex-basis: 100%;
   text-align: center;
 }
 
-.navbar-logo > img {
+#navigation .navbar-logo > img {
   width: 175px;
 }
 
-.navbar-brand {
+#navigation .navbar-brand {
   font-family: Rancho, cursive;
   padding: 0;
   margin: 0;
@@ -22,75 +22,75 @@
   line-height: 1.1em;
 }
 
-.navbar-light .navbar-brand {
+#navigation.navbar-light .navbar-brand {
   color: $primary;
 }
 
-.navbar-light .navbar-brand:hover {
+#navigation.navbar-light .navbar-brand:hover {
   color: darken($primary, 10);
 }
 
-.navbar .navbar-toggler {
+#navigation.navbar .navbar-toggler {
   border-color: $navbar-light-color;
   margin: 1rem; 
 }
 
-.navbar-expand-sm .navbar-nav .nav-item {
+#navigation.navbar-expand-sm .navbar-nav .nav-item {
   text-align: center;
   font-size: 1.2em;
   padding: 0.5rem;
   padding-top: 0;
 }
 
-.navbar-expand-sm .navbar-nav .nav-item:hover {
+#navigation.navbar-expand-sm .navbar-nav .nav-item:hover {
   text-decoration: underline;
 }
 
-.navbar-expand-sm .navbar-nav .nav-item.active {
+#navigation.navbar-expand-sm .navbar-nav .nav-item.active {
   text-shadow: 1px 1px 1px $shadow;
   text-decoration: none !important;
 }
 
-.navbar .navbar-collapse {
+#navigation.navbar .navbar-collapse {
   justify-content: center;
 }
 
 @media (min-width: 576px) {
-  .navbar-logo {
+  #navigation .navbar-logo {
     padding-bottom: 1.1em;
     flex-basis: auto;
   }
-  .navbar-brand {
+  #navigation .navbar-brand {
     font-size: 4.6em;
     line-height: 1.2em;
   }
 }
 
 @media (min-width: 992px) {
-  .navbar {
+  #navigation.navbar {
     flex-flow: column;
     align-items: stretch;
     padding-left: 0;
     padding-right: 0;
   }
-  .navbar-logo {
+  #navigation .navbar-logo {
     text-align: center;
     padding-bottom: 0;
   }
-  .navbar-brand {
+  #navigation .navbar-brand {
     text-align: center;
     font-size: 3.8em;
     line-height: 1.6em;
   }
-  .navbar-expand-sm .navbar-nav {
+  #navigation.navbar-expand-sm .navbar-nav {
     flex-direction: column;
   }
-  .navbar-expand-sm .navbar-nav .nav-item {
+  #navigation.navbar-expand-sm .navbar-nav .nav-item {
     text-align: left;
     font-size: 1.4em;
     padding: 0 0 0.5rem 0;
   }
-  .navbar .navbar-collapse {
+  #navigation.navbar .navbar-collapse {
     flex-flow: column;
     justify-content: start;
     align-items: center;

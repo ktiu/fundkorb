@@ -1,15 +1,17 @@
-<a class="navbar-logo" href="{{ '/' | relative_url }}"><img src="{{ '/assets/img/fundkorb.png' | relative_url }}"></a>
-<a href="{{  '/' | relative_url }}" class="navbar-brand">{{ site.title }}</a>
-<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-  <span class="navbar-toggler-icon"></span>
-</button>
-<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-  <div class="navbar-nav">
-    <a class="nav-item nav-link {% if page.url == "/" | relative_url %} active {% endif %}" href="{{ "/" | relative_url }}">Startseite</a>
-    {% for node in site.pages %}
-      <a class="nav-item nav-link {% if page.navi == node.navi %}active{% endif %}" href="{{ node.permalink | relative_url }}">
-        {{ node.title }}{% if page.navi == node.navi %}<span class="sr-only"> (ausgewählt)</span>{% endif %}
-      </a>
-    {% endfor %}
+<nav id="navigation" class="col-lg-3 navbar navbar-expand-sm navbar-light">
+  <a class="navbar-logo" href="{{ '/' | relative_url }}"><img src="{{ '/assets/img/fundkorb.png' | relative_url }}"></a>
+  <a href="{{  '/' | relative_url }}" class="navbar-brand">{{ site.title }}</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link {% if page.url == "/" | relative_url %} active {% endif %}" href="{{ "/" | relative_url }}">Startseite</a>
+      {% for node in site.pages %}
+        <a class="nav-item nav-link {% if page.navi == node.navi %}active{% endif %}" href="{{ node.permalink | relative_url }}">
+          {{ node.title }}{% if page.navi == node.navi %}<span class="sr-only"> (ausgewählt)</span>{% endif %}
+        </a>
+      {% endfor %}
+    </div>
   </div>
-</div>
+</nav>
