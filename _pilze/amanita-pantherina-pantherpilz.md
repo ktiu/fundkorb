@@ -25,8 +25,8 @@ Weitere wichtige Merkmale sind der oberseits ungeriefte häutige Stielring, die 
 Der Pantherpilz wächst von Juli bis Oktober in Laub- und Nadelwäldern, seine Mykorrhizapartner sind meist Eichen, Buchen und Kiefern. Im Rhein-Main-Gebiet ist er nicht selten, aber längst nicht so häufig wie der Perlpilz. Bei mehr als 80% meiner Funde waren Eichen die Begleitbäume.
 
 <figure>
-  {% include bild.html datei="bilder/Amanita_excelsa_03_DG.jpg" zuschneiden="ja" %}
-  {% include bild.html datei="bilder/Amanita_excelsa_04_DG.jpg" zuschneiden="ja" %}
+  {% include bild.html datei="bilder/Amanita_excelsa_01_DG.jpg" zuschneiden="ja" %}
+  {% include bild.html datei="bilder/Amanita_excelsa_06_DG.jpg" zuschneiden="ja" %}
 </figure>
 
 (2 Bilder nebeneinander mit Bildunterschrift einfügen: "Zwei Fotos zeigen deutlich: bevorzugter Baumpartner ist die Eiche")
