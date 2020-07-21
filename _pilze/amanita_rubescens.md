@@ -6,14 +6,14 @@ beschreibung:
   referenz: Pers. 1797
   familie: Amanitaceae
 hauptbild:
-  datei: bilder/Amanita_rubescens_01_DG-1536x1102.jpg
+  datei: /bilder/amanita_rubescens_01_dg-1536x1102.jpg
   anzeige: true
   legende: Perlpilze im Gebiet Waldacker, oberhalb des Anglerteichs, am 11.06.2016
+literatur:
+  - url: http://tintling.com/pilzbuch/arten/a/Amanita_rubescens.html
 profil:
   autor_in: Dieter Gewalt
   aktualisiert: 2020-05-30
-literatur:
-  - url: http://tintling.com/pilzbuch/arten/a/Amanita_rubescens.html
 published: true
 ---
 
