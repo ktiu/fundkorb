@@ -23,3 +23,24 @@ published: true
 Eine seiner markanten Eigenschaften ist seine Variabilität. Der Rötende Wirrling kann höchst unterschiedliche Wuchsformen annehmen und ist doch leicht zu erkennen, da es nur wenige Pilzarten mit einem daedaloiden Hymenium gibt. Wie ein solches gestaltet ist, zeigt die nachfolgende Abbildung. Es ähnelt dem eines Eichenwirrlings, ist aber sehr viel feiner ausgebildet. Bei frischen Fruchtkörpern rötet es auf Druck oder Reiben. Eine Besonderheit ist die Bildung von ungeschlechtlichen Chlamydosporen in fast allen Teilen des Fruchtkörpers.
 
 <figure>{% include bild.html datei="/bilder/abortiporus_biennis_02_dg.jpg" groesse="standard" %}</figure>
+
+Am häufigsten findet man Fruchtkörper, die unregelmäßig trichterig geformt sind und sich zur Basis hin stielartig verjüngen. Sie erreichen Durchmesser von bis zu 15 cm. Wachsen mehrere zusammen an einem Standort, können sie rosettenartig miteinander verwachsen sein. Es kommen aber auch knollige Fruchtkörper vor, die an den Seiten lamellige Poren haben. Die Konsistenz des Pilzes ist lederig zäh. Er wächst meist scheinbar auf dem Waldboden, hat aber stets Kontakt mit unterirdischen Baumwurzeln oder totem im Substrat verborgenen Holz.
+
+<figure>{% include bild.html datei="/bilder/abortiporus_biennis_03_dg.jpg" groesse="standard" %}</figure>
+
+Für die verwirrende Formenvielfalt von Abortiporus biennis stehen die folgenden Beispiele. Am 15. November 2018 fanden wir den Porling in Dietzenbach flach auf der Schnittfläche eines Ahornstumpfes wachsend, zum Teil mit oberseitigem Hymenophor:
+
+<figure>{% include bild.html datei="/bilder/abortiporus_biennis_03_dg.jpg" groesse="standard" %}</figure>
+
+Am 9. November 2019 fanden wir den Wirrling im Hainbachtal bei Offenbach seitlich an totem Buchenholz. Auch hier entsprach die Wuchsform keineswegs der häufigeren Trichterform. Die Oberfläche der reihig am Stamm wachsenden Hütchen waren ungewöhnlich stark zerklüftet, das Hymenophor lief abgestuft und resupinat an der Stammseite herab.
+
+<figure>{% include bild.html datei="/bilder/abortiporus_biennis_04_dg.jpg" groesse="standard" %}</figure>
+
+<figure>{% include bild.html datei="/bilder/abortiporus_biennis_05_dg.jpg" groesse="standard" %}</figure>
+
+
+
+
+
+
+
