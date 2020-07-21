@@ -26,5 +26,57 @@ Der Pantherpilz wächst von Juli bis Oktober in Laub- und Nadelwäldern, seine M
 
 Pantherpilze enthalten in stark wechselnden Konzentrationen die Giftstoffe Ibotensäure, Muszimol und Bufotenin. Vergiftungen verlaufen ähnlich jedoch meist deutlich stärker wie beim Fliegenpilz. Erste Symptome treten schon nach relativ kurzer Zeit (30 Minuten – 3 Stunden) in Form von Verwirrung, Sprach-, Seh- und motorischen Störungen (ähnlich einem Alkoholrausch) und Halluzinationen auf. Ein tiefer Schlaf beendet nach 10 bis 15 Stunden das Pantherina-Syndrom. Zitat aus Bresinsky / Besl: Giftpilze: „Die Symptomatik wird einerseits sehr von der allgemeinen Stimmungslage beeinflusst und ist andererseits auch davon abhängig, ob es sich um eine ungewollte Vergiftung durch Verwechslung mit einem Speisepilz oder um eine freiwillige Einnahme zur Erzielung psychischer Effekte handelt. In Mitteleuropa steht im Gegensatz zu Nordamerika die Verwechslung im Vordergrund.“ Bei Personen mit Kreislauf- oder Herzerkrankungen kann eine Vergiftung tödlich enden.
 
+### Unterscheidungskriterien zwischen den drei verwechselbaren Arten:
+
+<div class="table-responsive">
+<table class="table">
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Perlpilz (Amanita rubescens)</th>
+      <th>Grauer Wulstling (Amanita excelsa)</th>
+      <th>Pantherpilz (Amanita pantherina)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Verzehrbarkeit</th>
+      <td>essbar</td>
+      <td>nicht schmackhaft</td>
+      <td>giftig!</td>
+    </tr>
+    <tr>
+      <th>Farbe Huthaut</th>
+      <td>fleischfarben-bräunlich</td>
+      <td>grau</td>
+      <td>graubraun	hell- bis dunkelbraun</td>
+    </tr>
+    <tr>
+      <th>Verfärbung</th>
+      <td>rötend</td>
+      <td>nicht rötend</td>
+      <td>nicht rötend</td>
+    </tr>
+    <tr>
+      <th>Oberseite Stielring</th>
+      <td>gerieft</td>
+      <td>gerieft</td>
+      <td>glatt</td>
+    </tr>
+    <tr>
+      <th>Beschaffenheit und Farbe der Velumreste auf Hut</th>
+      <td>mehlig-körnig weißlich bis fleischfarben</td>
+      <td>körnelig, weißlich bis grau</td>
+      <td>flächig, flockig-häutig, weiß</td>
+    </tr>
+    <tr>
+      <th>Beschaffenheit Stielknolle</th>
+      <td>zwiebelig verdickt</td>
+      <td>zwiebelig verdickt</td>
+      <td>Stiel wie eingepfropft, deutlich abgesetzt (Bergsteigersöckchen)</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 
