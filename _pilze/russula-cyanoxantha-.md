@@ -5,12 +5,12 @@ beschreibung:
   referenz: (Schaeff.) Fr. 1863
   familie: Russulaceae
   erlaeuterung: cyanoxantha = blau und gelb
-literatur:
-  - url: https://www.dgfm-ev.de/pilz-des-jahres/1997-frauentaeubling
-    text: Der Frauentäubling war 1997 Pilz des Jahres (DGfM)
 hauptbild:
   datei: /bilder/russula_cyanoxantha_03_dg-1536x1123.jpg
   anzeige: false
+literatur:
+  - url: https://www.dgfm-ev.de/pilz-des-jahres/1997-frauentaeubling
+    text: Der Frauentäubling war 1997 Pilz des Jahres (DGfM)
 profil:
   aktualisiert: 2020-07-19
   autor_in: Dieter Gewalt
@@ -60,9 +60,13 @@ Er wächst vor allem in Laubwäldern auf sandigen Böden und ist Mykorrhizapartn
   </table>
 </div>
 
+<figure>
+  {% include bild.html datei="bilder/Russula_cyanoxantha_04_DG.jpg" %}
+  {% include bild.html datei="bilder/Russula_cyanoxantha_05_DG.jpg" %}
+</figure>
+
 Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Die Illustration von Gabriele Gossner (in: Hans Haas – Pilze Mitteleuropas, 1964) zeigt sehr schön die Farbvariabilität auf einem einzigen Hut des Frauentäublings.
 
 <figure>
-  {% include bild.html datei="bilder/Russula_cyanoxantha_06_GG.jpg" groesse="gross" %}
-  {% include bild.html datei="bilder/Russula_cyanoxantha_05_DG.jpg" %}
+  {% include bild.html datei="bilder/Russula_cyanoxantha_06_GG.jpg" groesse="klein" %}  
 </figure>
