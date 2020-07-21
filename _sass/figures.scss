@@ -19,6 +19,12 @@ figure {
   padding: 5px 5px 0 0;
 }
 
+figure.fliessend {
+  display: inline-flex;
+  float: left;
+  margin: 0.5rem 1rem 0.5rem 0;
+}
+
 figure .bild {
   flex: 1 1 280px;
   position: relative;
@@ -26,6 +32,13 @@ figure .bild {
   //background-color: $black;
   max-height: 98vh;
 }
+
+figure.fliessend .bild {
+  flex: 1 1 150px;
+  max-height: 350px;
+  max-width: 350px;
+}
+
 
 figure.klein .bild {
   flex: 1 1 150px;
