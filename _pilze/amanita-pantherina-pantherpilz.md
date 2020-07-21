@@ -24,4 +24,7 @@ Weitere wichtige Merkmale sind der oberseits ungeriefte häutige Stielring, die 
 
 Der Pantherpilz wächst von Juli bis Oktober in Laub- und Nadelwäldern, seine Mykorrhizapartner sind meist Eichen, Buchen und Kiefern. Im Rhein-Main-Gebiet ist er nicht selten, aber längst nicht so häufig wie der Perlpilz. Bei mehr als 80% meiner Funde waren Eichen die Begleitbäume.
 
+Pantherpilze enthalten in stark wechselnden Konzentrationen die Giftstoffe Ibotensäure, Muszimol und Bufotenin. Vergiftungen verlaufen ähnlich jedoch meist deutlich stärker wie beim Fliegenpilz. Erste Symptome treten schon nach relativ kurzer Zeit (30 Minuten – 3 Stunden) in Form von Verwirrung, Sprach-, Seh- und motorischen Störungen (ähnlich einem Alkoholrausch) und Halluzinationen auf. Ein tiefer Schlaf beendet nach 10 bis 15 Stunden das Pantherina-Syndrom. Zitat aus Bresinsky / Besl: Giftpilze: „Die Symptomatik wird einerseits sehr von der allgemeinen Stimmungslage beeinflusst und ist andererseits auch davon abhängig, ob es sich um eine ungewollte Vergiftung durch Verwechslung mit einem Speisepilz oder um eine freiwillige Einnahme zur Erzielung psychischer Effekte handelt. In Mitteleuropa steht im Gegensatz zu Nordamerika die Verwechslung im Vordergrund.“ Bei Personen mit Kreislauf- oder Herzerkrankungen kann eine Vergiftung tödlich enden.
+
+
 
