@@ -18,8 +18,8 @@ published: true
 ---
 
 <figure>
-  {% include bild.html datei="bilder/amanita_excelsa_02_dg.jpg" zuschneiden="ja" %}
-  {% include bild.html datei="bilder/amanita_excelsa_01_dg.jpg" zuschneiden="ja" %}
+  {% include bild.html datei="/bilder/amanita_excelsa_02_dg.jpg" zuschneiden="ja" %}
+  {% include bild.html datei="/bilder/amanita_excelsa_01_dg.jpg" zuschneiden="ja" %}
 </figure>
 
 Um den Grauen Wulstling etwas vereinfacht, aber gut einprägsam zu beschreiben: er gleicht in Größe und Aussehen dem Perlpilz – nur die Farben stimmen nicht überein. Die Huthaut ist grau, graubraun bis dunkelbraun, der Hutbelag (Velumreste) hellgrau. Nirgendwo an seinem Fruchtkörper sind die für den Perlpilz typischen Rot- oder Fleischrosatöne zu erkennen. Zu erwähnen wäre noch der meist deutliche Rettichgeruch und -geschmack.

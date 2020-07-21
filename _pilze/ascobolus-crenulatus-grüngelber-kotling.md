@@ -21,8 +21,8 @@ Mein persönlicher Erstfund dieser coprophilen (kotliebenden) Art gelang durch e
 Die Apothecien des Grüngelben Kotlings erreichen lt. Literatur Durchmesser von 1 - 2 mm. In unserer Kultur dürften die größten 1,5 mm erreicht haben. Sie waren charakteristisch grüngelblich gefärbt, die aufgebogenen Ränder deutlich granuliert. Bei Reife ragen die Schläuche ein wenig über den Becherboden hinaus und erscheinen unter der Lupe als dunkle Flecken. Die Sporenpulverfarbe ist dunkelbraun.
 
 <figure>
-  {% include bild.html datei="bilder/ascobolus_crenulatus_02_fk.jpeg"%}
-  {% include bild.html datei="bilder/ascobolus_crenulatus_03_fk.jpg"%}
+  {% include bild.html datei="/bilder/ascobolus_crenulatus_02_fk.jpeg"%}
+  {% include bild.html datei="/bilder/ascobolus_crenulatus_03_fk.jpg"%}
 </figure>
 
 Diese beiden Fotos von Frank Kaster zeigen die aus dem Hymenium herausragenden Asci als dunkle Fleckchen
@@ -30,9 +30,9 @@ Diese beiden Fotos von Frank Kaster zeigen die aus dem Hymenium herausragenden A
 Die Fruchtkörper wachsen auf Kot verschiedener Tiere wie Rehe, Schafe, Hasen, Kaninchen u. a. und sitzen stiellos auf ihrem Substrat. Erscheinungszeit ist nach Literatur vorwiegend in den Wintermonaten. Bei unserer Kultur erschienen die ersten Apothecien Ende Juni. Die Art gilt als selten.
 
 <figure class="klein">
-  {% include bild.html datei="bilder/ascobolus_crenulatus_04_fk.jpg" unterschrift="Asci mit unreifen Sporen"%}
-  {% include bild.html datei="bilder/ascobolus_crenulatus_05_fk.jpg" unterschrift="Paraphysen" %}
-  {% include bild.html datei="bilder/ascobolus_crenulatus_06_fk.jpg" unterschrift="Sporen" %}
+  {% include bild.html datei="/bilder/ascobolus_crenulatus_04_fk.jpg" unterschrift="Asci mit unreifen Sporen"%}
+  {% include bild.html datei="/bilder/ascobolus_crenulatus_05_fk.jpg" unterschrift="Paraphysen" %}
+  {% include bild.html datei="/bilder/ascobolus_crenulatus_06_fk.jpg" unterschrift="Sporen" %}
   <figcaption>3 Mikrofotos von Frank Kaster</figcaption>
 </figure>
 

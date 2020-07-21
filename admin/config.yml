@@ -63,7 +63,7 @@ collections:
     create: true
     slug: "{{slug}}-{{beschreibung.deutsch}}"
     editor:
-      preview: false
+      preview: true
     view_filters:
       - label: "Sichtbar"
         field: "published"

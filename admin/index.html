@@ -34,7 +34,6 @@ CMS.registerEditorComponent({
                {label: 'klein', value: 'klein'},
                {label: 'fliessend', value: 'fließend (klein)'},
      ]}],
-  //pattern: / *< *figure(?: +class *= *"([^"]*)")? *>(?:\s*{% *include +bild.html +datei *= *"([^"]*)"(?: +(?:legende|unterschrift) *= *"([^"]*)")?(?: +groesse *= *"([^"]*)")? *%})*(?:\s*< *figcaption *>(.*)<\/ *figcaption *>)?\s*<\/ *figure *> *$/m,
   pattern: / *< *figure(?: +class *= *"([^"]*)")? *>((?:\s*\{% *include +bild.html +datei *= *"[^"]*"(?: +(?:legende|unterschrift) *= *"[^"]*")?(?: +groesse *= *"[^"]*")? *%\})*)(?:\s*< *figcaption *>(.*)<\/ *figcaption *>)?\s*<\/ *figure *> *$/m,
   fromBlock: function(match) {
     mcopy = match.slice();
@@ -63,11 +62,14 @@ CMS.registerEditorComponent({
     return '<figure class="' + obj.stil + '">' + bilder + figcaption + '\n</figure>'
   },
   toPreview: function(obj) {
-    return '<figure>\n  ' + obj.bilder.map( bild => {
-      return '<div><img src="' + bild.datei + '"></div>';
-    }).join('\n  ') +'\n<\/figure>';
+    var legende = (obj.legende != undefined) ? '\n<figcaption>' + obj.legende + '</figcaption>' : '';
+    return '<figure class="'+obj.stil+'">\n' + obj.bilder.map( bild => {
+      var caption = (bild.unterschrift != undefined) ? '<div class="caption">' + bild.unterschrift + '</div>' : '';
+      return '<div><img src="' + bild.datei + '">'+ caption +'</div>';
+    }).join('\n') + legende + '\n</figure>';
   }
 });
+CMS.registerPreviewStyle("/admin/preview.css");
 </script>
 </body>
 </html>
