@@ -2,9 +2,10 @@
 beschreibung:
   wissenschaftlich: Agroybe rivulosa
   deutsch: Runzeliger Ackerling
-  erlaeuterung: rivulosa = rinnig
+  erlaeuterung: ""
   familie: Strophariaceae
   referenz: "Nauta 2003 "
+  synonym: rivulosa = rinnig
 hauptbild:
   datei: /bilder/agrocybe_rivulosa_01_dg.jpg
   anzeige: true
