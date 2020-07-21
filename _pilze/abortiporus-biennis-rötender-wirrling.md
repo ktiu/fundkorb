@@ -6,7 +6,7 @@ beschreibung:
   familie: Meruliaceae
   referenz: (Bull.) Singer 1944
 hauptbild:
-  datei: /bilder/Abortiporus_biennis_01_dg.jpg
+  datei: /bilder/abortiporus_biennis_01_dg.jpg
   anzeige: true
 literatur:
   - text: "Werner Pohl: Aphyllopower (Pilz Nr. 10)"
@@ -33,12 +33,3 @@ Für die verwirrende Formenvielfalt von Abortiporus biennis stehen die folgenden
 Am 9. November 2019 fanden wir den Wirrling im Hainbachtal bei Offenbach seitlich an totem Buchenholz. Auch hier entsprach die Wuchsform keineswegs der häufigeren Trichterform. Die Oberfläche der reihig am Stamm wachsenden Hütchen waren ungewöhnlich stark zerklüftet, das Hymenophor lief abgestuft und resupinat an der Stammseite herab.
 
 <figure>{% include bild.html datei="/bilder/abortiporus_biennis_05_dg.jpg" groesse="standard" %}</figure>
-
-
-
-
-
-
-
-
-

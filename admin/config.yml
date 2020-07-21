@@ -45,7 +45,7 @@ collections:
         timeFormat: false
       - {label: "Vorschaubild", name: "vorschaubild", widget: "image", required: false}
       - {label: "Vorschautext", name: "extract", widget: "string", required: false}
-      - {label: "Text", name: "body", widget: "markdown", editorComponents: ["bild"]}
+      - {label: "Text", name: "body", widget: "markdown", editorComponents: ["abbildung"]}
       - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
 
 #  ____  _ _         
@@ -111,7 +111,7 @@ collections:
       - name: "body"
         label: "Text"
         widget: "markdown"
-        editorComponents: ["bild"]
+        editorComponents: ["abbildung"]
 
 #  _____                   _            
 # |_   _|__ _ __ _ __ ___ (_)_ __   ___ 
@@ -144,7 +144,7 @@ collections:
       - {label: "Teilnahmegebühr", name: "teilnahmegebuehr", widget: "string"}
       - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean"}
       - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
-      - {label: "Beschreibung", name: "body", widget: "markdown"}
+      - {label: "Beschreibung", name: "body", widget: "markdown", editorComponents: []}
 
 
 #   ____ _                          
@@ -166,7 +166,7 @@ collections:
     fields:
       - {label: "Schlagwort", name: "schlagwort", widget: "string"}
       - {label: "Synonym(e)", name: "synonym", widget: "string", required: false}
-      - {label: "Definition", name: "body", widget: "markdown"}
+      - {label: "Definition", name: "body", widget: "markdown", editorComponents: []}
 
 
 #   ___        _     

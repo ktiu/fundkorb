@@ -5,7 +5,7 @@ beschreibung:
   referenz: (Boud.) Fayod 1889
   familie: Amanitaceae
 hauptbild:
-  datei: bilder/Amanita_franchetii_01_TL.jpg
+  datei: bilder/amanita_franchetii_01_tl.jpg
   anzeige: true
   legende: 01.07.2007 TK 5817.4.3 Niedwald Frankfurt
 profil:

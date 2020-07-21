@@ -10,28 +10,63 @@
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
   <script>
 CMS.registerEditorComponent({
-  id: "bild",
-  label: "Bild",
-  fields: [{name: 'datei', label: 'bild', widget: 'image'},
-           {name: 'legende', label: 'Legende', widget: 'string'},
-           {name: 'groesse',
-            label: 'Größe',
-            widget: 'select',
-            default: 'standard',
-            options: [{label: 'groß', value: 'gross'},
-                      {label: 'standard', value: 'standard'},
-                      {label: 'klein', value: 'klein'}]}],
-  pattern: /<figure>\{% include bild.html datei="([^"]*)" groesse="((gross)|(standard)|(klein))" %}(<figcaption>(.*)<\/figcaption>)?<\/figure>/,
+  id: "abbildung",
+  label: "Abbildung",
+  fields: [
+    { 
+      name: 'bilder',
+      label: 'Bilder',
+      label_singular: 'Bild',
+      widget: 'list',
+      fields: [
+        {name: 'datei', label: 'Datei', widget: 'image' },
+        {name: 'unterschrift', label: 'Bildunterschrift', widget: 'string', required: false }
+      ]
+    },
+    {name: 'legende', label: 'Legende', widget: 'string', required: false},
+    {name: 'stil',
+     label: 'Anzeigestil',
+     widget: 'select',
+     default: 'standard',
+     options: [
+               {label: 'standard', value: 'standard'},
+               {label: 'groß', value: 'gross'},
+               {label: 'klein', value: 'klein'},
+               {label: 'fliessend', value: 'fließend (klein)'},
+     ]}],
+  //pattern: / *< *figure(?: +class *= *"([^"]*)")? *>(?:\s*{% *include +bild.html +datei *= *"([^"]*)"(?: +(?:legende|unterschrift) *= *"([^"]*)")?(?: +groesse *= *"([^"]*)")? *%})*(?:\s*< *figcaption *>(.*)<\/ *figcaption *>)?\s*<\/ *figure *> *$/m,
+  pattern: / *< *figure(?: +class *= *"([^"]*)")? *>((?:\s*\{% *include +bild.html +datei *= *"[^"]*"(?: +(?:legende|unterschrift) *= *"[^"]*")?(?: +groesse *= *"[^"]*")? *%\})*)(?:\s*< *figcaption *>(.*)<\/ *figcaption *>)?\s*<\/ *figure *> *$/m,
   fromBlock: function(match) {
+    mcopy = match.slice();
+    var re = /\{% *include +bild.html +datei *= *"([^"]*)"(?: +(?:legende|unterschrift) *= *"([^"]*)")?(?: +groesse *= *"([^"]*)")? *%\}/g;
+    var b = re.exec(mcopy[2]);
+    var bilder = [];
+    while (b != null) {
+      bilder.push({datei: b[1], unterschrift: b[2]});
+      b = re.exec(mcopy[2]);
+    }
     return {
-      datei: match[1],
-      legende: match[6],
-      groesse: match[2]
+      bilder: bilder,
+      legende: mcopy[3],
+      stil: mcopy [1] || "standard"
     };
   },
   toBlock: function(obj) {
-    return '<figure>{% include bild.html datei="' + obj.datei + '" groesse="' + obj.groesse + '" %}</figure>';
+    if (obj.bilder == undefined) return null;
+    var bilder = obj.bilder
+      .filter( x => x.datei != undefined)
+      .map( bild => {
+        var unterschrift = (bild.unterschrift !== undefined) ? ' unterschrift="'+bild.unterschrift+'"' : '';
+        return '\n  {% include bild.html datei="' + bild.datei + '"' + unterschrift + ' %}';
+      }).join("");
+    var figcaption = (obj.legende != undefined) ? '\n  <figcaption>' + obj.legende +'</figcaption>' : ''
+    return '<figure class="' + obj.stil + '">' + bilder + figcaption + '\n</figure>'
   },
+  toPreview: function(obj) {
+    return '<figure>\n  ' + obj.bilder.map( bild => {
+      return '<div><img src="' + bild.datei + '"></div>';
+    }).join('\n  ') +'\n<\/figure>';
+  }
 });
 </script>
 </body>

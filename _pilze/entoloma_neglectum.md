@@ -6,7 +6,7 @@ beschreibung:
   referenz: (Lasch) Arnolds 1982
   familie: Entolomataceae
 hauptbild:
-  datei: bilder/Entoloma_neglectum_01_MH-1.jpg
+  datei: bilder/entoloma_neglectum_01_mh-1.jpg
   anzeige: true
 profil:
   autor_in: Dieter Gewalt
