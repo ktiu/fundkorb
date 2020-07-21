@@ -18,7 +18,7 @@ profil:
   autor_in: Dieter Gewalt
 published: true
 ---
-<figure>{% include bild.html datei="/bilder/abortiporus_biennis_01_dg.jpg" groesse="standard" %}</figure>
+
 
 Eine seiner markanten Eigenschaften ist seine Variabilität. Der Rötende Wirrling kann höchst unterschiedliche Wuchsformen annehmen und ist doch leicht zu erkennen, da es nur wenige Pilzarten mit einem daedaloiden Hymenium gibt. Wie ein solches gestaltet ist, zeigt die nachfolgende Abbildung. Es ähnelt dem eines Eichenwirrlings, ist aber sehr viel feiner ausgebildet. Bei frischen Fruchtkörpern rötet es auf Druck oder Reiben. Eine Besonderheit ist die Bildung von ungeschlechtlichen Chlamydosporen in fast allen Teilen des Fruchtkörpers.
 
