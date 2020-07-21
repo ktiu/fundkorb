@@ -27,13 +27,13 @@ figure .bild {
   max-height: 98vh;
 }
 
-figure .bild.klein {
+figure.klein .bild {
   flex: 1 1 150px;
   max-height: 350px;
   max-width: 350px;
 }
 
-figure .bild.gross {
+figure.gross .bild {
   flex: 1 1 100%;
 }
 
@@ -51,15 +51,13 @@ figure .bild .caption {
 figure .bild img {
   width: 100%;
   height: 100%;
-  object-fit: contain;
-}
-
-figure .bild.crop img {
   object-fit: cover;
 }
+
 figure .bild.gross img {
   object-fit: contain;
 }
+
 
 figure figcaption {
   flex-basis: 100%;
