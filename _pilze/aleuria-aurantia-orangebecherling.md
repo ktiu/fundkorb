@@ -15,8 +15,6 @@ profil:
   autor_in: Dieter Gewalt
 published: true
 ---
-<figure>{% include bild.html datei="undefined" groesse="standard" %}</figure>
-
 Es kann schon mal vorkommen, dass sich Pilze ungewöhnliche Standorte aussuchen wie hier zwischen groben Schottersteinen auf einer Anhöhe bei Elsenfeld. Vergessen wir dabei nicht: der eigentliche Pilz ist das Myzel im Erdboden unter dem Schotter, und wenn dieses Untergrundsubstrat nicht zuträgliche Eigenschaften hätte, wäre der Fruchtkörper nicht hier erschienen.
 Orangebecherlinge wachsen gern zu mehreren oder vielen miteinander verknäuelt. Je größer die bewachsene Fläche, desto beeindruckender der Anblick. Was manchmal wie weggeworfene Apfelsinenschalen aussieht, ist ein Ascomyzet, der fast ganzjährig gefunden werden und Fruchtkörper von bis zu 10 cm Durchmesser bilden kann. Er wächst meist auf blanker Erde, insbesondere auf lehmhaltigen Böden, und fällt durch seine schöne Farbe und Form auf.
 
