@@ -36,8 +36,6 @@ Am 9. November 2019 fanden wir den Wirrling im Hainbachtal bei Offenbach seitlic
 
 <figure>{% include bild.html datei="/bilder/abortiporus_biennis_05_dg.jpg" groesse="standard" %}</figure>
 
-<figure>{% include bild.html datei="/bilder/abortiporus_biennis_06_dg.jpg" groesse="standard" %}</figure>
-
 
 
 
