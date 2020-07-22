@@ -31,7 +31,7 @@ Fruchtkörper pokal- bis becherförmig, alt auch stark abgeflacht tellerförmig,
 
 ### Mikroskopische Beschreibung (an Frischmaterial)
 
-<figure class="klein">
+<figure class="fließend (klein)">
   {% include bild.html datei="/bilder/sarcoscypha_coccinea_04_tl.jpg" %}
 </figure>
 
