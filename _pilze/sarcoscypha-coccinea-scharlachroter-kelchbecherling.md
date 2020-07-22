@@ -17,7 +17,7 @@ published: true
 
 24.02.2005 MTB 5916.3.4 Flörsheim, Kalkbruch an der Wiesenmühle, 95 m u. N.N. Feuchte, teilweise sehr moosreiche Böschung mit vorwiegend Crataegus, Sambucus, Cornus, Rosa, aber auch Juglans, Populus, Acer und Salix über lehmig bis tonigem, schwach bis deutlich kalkhaltigem Boden, dort auf bis zu armdicken, stark vermoosten und feuchten Ästen, 30 – 40 Fk; weitere Funde: 09.03.2005, Ostseite des Wickerbachs, ebenfalls im MTB 5916.3.4, drei Fk – Exs. u. Foto Th. Lehr
 
-<figure class="standard">
+<figure class="klein">
   {% include bild.html datei="/bilder/sarcoscypha_occinea_01_tl.jpg" %}
 </figure>
 
@@ -31,7 +31,7 @@ Fruchtkörper pokal- bis becherförmig, alt auch stark abgeflacht tellerförmig,
 
 ### Mikroskopische Beschreibung (an Frischmaterial)
 
-<figure class="fliessend">
+<figure class="klein">
   {% include bild.html datei="/bilder/sarcoscypha_coccinea_04_tl.jpg" %}
 </figure>
 
