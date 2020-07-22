@@ -7,6 +7,7 @@ beschreibung:
   erlaeuterung: coccinea = scharlachrot
 hauptbild:
   anzeige: true
+  datei: /bilder/sarcoscypha_coccinea_02_tl.jpg
 profil:
   aktualisiert: 2020-07-22
   autor_in: Thomas Lehr
