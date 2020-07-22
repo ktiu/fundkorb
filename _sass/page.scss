@@ -15,6 +15,7 @@ body {
   display:flex;
   flex-flow: column;
   justify-content: space-between;
+  overflow: hidden;
 }
 
 article, .navbar {

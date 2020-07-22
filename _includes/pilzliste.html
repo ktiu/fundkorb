@@ -5,7 +5,7 @@
 {% for pilz in site.pilze %}
   {% assign tmpletter = pilz.beschreibung.wissenschaftlich | slice: 0 | upcase %}
   {% if tmpletter != lastletter %}
-  <a class="btn{% unless forloop.first==true %} collapsed{% endunless %}" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="{{tmpletter}}" href="#{{tmpletter}}">{{tmpletter}}</a>
+  <a class="btn btn-lg{% unless forloop.first==true %} collapsed{% endunless %}" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="{{tmpletter}}" href="#{{tmpletter}}">{{tmpletter}}</a>
   {% endif %}
   {% assign lastletter = tmpletter %}
 {% endfor %}
@@ -21,12 +21,10 @@
   {% endunless %}
   <div id="{{ tmpletter }}" class="buchstabe collapse{% if forloop.first==true %} show{% endif %}" data-parent="#pilzliste">
   <div>
-  <h3>{{ tmpletter }}</h3>
   {% endif %}
   <p><a id="{{ pilz.slug }}" href="{{ pilz.url | relative_url}}" data-toggle="tooltip" data-container="a#{{pilz.slug}}" data-html="true" title="<div class='thumb'><img src='{{ pilz.hauptbild.datei | relative_url }}?nf_resize=fit&h=200'></div>">{{ pilz.beschreibung.wissenschaftlich }}{% if pilz.beschreibung.deutsch %} ({{ pilz.beschreibung.deutsch }}){%endif%}</a></p>
   {% assign lastletter = tmpletter %}
 {% endfor %}
 </div>
-  </div>
 
 </section>

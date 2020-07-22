@@ -3,6 +3,5 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 workbench
-
-# Local Netlify folder
+node_modules
 .netlify

@@ -1,0 +1,67 @@
+.ergebniscontainer {
+  position: relative;
+  margin: 0 auto;
+}
+
+.pilzsuche-gross {
+  margin-bottom: 2rem;
+}
+
+#suchergebnisse {
+  background-color: $white;
+  position: absolute;
+  top: 0;
+  width: auto;
+  list-style: none;
+  padding: 0;
+  z-index: 100;
+}
+
+.pilzsuche-klein #suchergebnisse {
+  margin-right: -5rem;
+}
+
+#suchergebnisse li {
+  display: flex;
+  align-items: center;
+  overflow:visible;
+  padding: 2px 4px;
+  margin: 0;
+  white-space: nowrap;
+}
+
+#suchergebnisse li img {
+  flex-shrink: 0;
+  height: 60px;
+  width: 60px;
+  margin-right: 1.2rem;
+  object-fit: cover;
+  background-color: $shadow;
+}
+
+#suchergebnisse li div {
+  flex-grow: 1;
+}
+
+#suchergebnisse li span {
+  display: block;
+}
+
+#suchergebnisse a:hover {
+  text-decoration: none;
+}
+
+#suchergebnisse li:hover,
+#suchergebnisse li:focus {
+  background-color: $primary;
+  color: $white;
+}
+
+#suchergebnisse .wissenschaftlich {
+  font-weight: 600;
+  margin-right: 1rem;
+}
+
+#suchergebnisse .deutsch {
+  font-style: italic;
+}

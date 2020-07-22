@@ -1,13 +1,20 @@
-<div class="blaettern mb-3">
+<div class="blaettern">
   <div class="zurueck">
   {% if page.previous %}
     <a href="{{ page.previous.url | relative_url }}"><i class="fas fa-arrow-left"></i></a>
     <a href="{{ page.previous.url | relative_url }}">{{ page.previous.beschreibung.wissenschaftlich }}</a>
   {% endif %}
   </div>
+  {% if include.suche %}
+  <div class="pilzsuche-klein">
+    <input class="form-control form-control-sm" id="sucheingabe" placeholder="Pilzsuche" aria-label="Pilzsuche" />
+    <div class="ergebniscontainer"><ul id="suchergebnisse"></ul></div>
+  </div>
+  {% else %}
   <div class="index">
     <a href="{% link _pages/pilze.md %}">Index</a>
   </div>
+  {% endif %}
   <div class="vorwaerts">
   {% if page.next %}
     <a href="{{ page.next.url | relative_url }}">{{ page.next.beschreibung.wissenschaftlich }}</a>

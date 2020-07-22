@@ -6,11 +6,6 @@ form_target: formsubmit@ktiu.net
 
 upload_dir: "bilder/"
 
-sass:
-    load_paths:
-        - _sass
-        - node_modules
-
 collections:
   pilze:
     output: true

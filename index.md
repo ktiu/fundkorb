@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Willkommen beim Fundkorb!
+header_scripts:
+  - "https://identity.netlify.com/v1/netlify-identity-widget.js"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ornare molestie commodo. Morbi interdum eget urna sit amet aliquet. Praesent eu magna ut nibh eleifend consectetur. Sed pharetra tortor eu orci rutrum, at mollis libero venenatis. Nullam ultricies erat sem, nec cursus metus pharetra nec. Nulla viverra magna sit amet convallis volutpat. Nulla non lectus libero.

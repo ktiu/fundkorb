@@ -18,3 +18,4 @@ $asset_dir: {{ "/assets" | relative_url }};
 @import "termine";
 @import "forms";
 @import "quiz";
+@import "suche";

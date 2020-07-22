@@ -67,7 +67,7 @@
 }
 
 #pilzliste .rollerdex {
-  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
@@ -87,9 +87,21 @@
 #pilzliste .rollerdex a.collapsed:hover {
   text-decoration: underline;
 }
+
 #pilzliste .buchstabe {
+  margin-top: 2rem;
   text-align: center;
 }
+
+@media (min-width: 992px) {
+  #pilzliste .buchstabe {
+    text-align: left;
+  }
+  #pilzliste .rollerdex {
+    justify-content: start;
+  }
+}
+
 
 #pilzliste .buchstabe div {
   display:inline-block;
@@ -100,6 +112,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 2rem;
 }
 
 .blaettern .zurueck,

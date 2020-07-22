@@ -1,5 +1,9 @@
 ---
 layout: base
+header_scripts:
+  - assets/js/simple-jekyll-search/simple-jekyll-search.min.js
+footer_scripts:
+  - assets/js/initializeSearch.js
 ---
 
 {% if page.profil.aktualisiert %}
@@ -11,7 +15,7 @@ layout: base
 {% endcapture %}
 {% endif %}
 
-{% include blaettern.html %}
+{% include blaettern.html suche=true %}
 
 <section id="pilz">
 
