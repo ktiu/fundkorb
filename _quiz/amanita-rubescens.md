@@ -1,4 +1,4 @@
 ---
-bild: bilder/Amanita_rubescens_01_DG-1536x1102.jpg
+bild: /bilder/Amanita_rubescens_01_DG-1536x1102.jpg
 pilz: Amanita rubescens
 ---
