@@ -6,7 +6,7 @@ beschreibung:
   referenz: (Bull.) P.Kumm. 1871
   familie: Tricholomataceae
 hauptbild:
-  datei: bilder/tricholoma_sulphureum_01_dg-2048x1293.jpeg
+  datei: /bilder/tricholoma_sulphureum_01_dg-2048x1293.jpeg
   anzeige: true
 profil:
   autor_in: Dieter Gewalt

@@ -7,7 +7,7 @@ beschreibung:
   referenz: Quél. 1872
   familie: Marasmiaceae
 hauptbild:
-  datei: bilder/marasmius_torquescens_01_dg-1536x1085.jpg
+  datei: /bilder/marasmius_torquescens_01_dg-1536x1085.jpg
   anzeige: true
 profil:
   autor_in: Dieter Gewalt

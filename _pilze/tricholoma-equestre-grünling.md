@@ -7,7 +7,7 @@ beschreibung:
   referenz: (L.) P. Kumm. 1871
   familie: Tricholomataceae
 hauptbild:
-  datei: bilder/tricholoma_equestre_01_dg-1-1536x1052.jpg
+  datei: /bilder/tricholoma_equestre_01_dg-1-1536x1052.jpg
   anzeige: true
 profil:
   autor_in: Dieter Gewalt

@@ -7,7 +7,7 @@ beschreibung:
   referenz: (Fr.) Bertill. 1866
   familie: Amanitaceae
 hauptbild:
-  datei: bilder/amanita_excelsa_01_dg.jpg
+  datei: /bilder/amanita_excelsa_01_dg.jpg
   anzeige: false
 profil:
   autor_in: Dieter Gewalt

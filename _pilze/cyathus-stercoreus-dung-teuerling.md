@@ -6,7 +6,7 @@ beschreibung:
   familie: Agaricaceae
   synonym: stercoreus = mistig, dreckig
 hauptbild:
-  datei: bilder/cyathus_stercoreus_01_dg-1.jpg
+  datei: /bilder/cyathus_stercoreus_01_dg-1.jpg
   anzeige: true
 profil:
   autor_in: Dieter Gewalt

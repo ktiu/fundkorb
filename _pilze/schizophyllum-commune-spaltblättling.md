@@ -6,7 +6,7 @@ beschreibung:
   referenz: Fr. 1815
   familie: Schizophyllaceae
 hauptbild:
-  datei: bilder/schizophyllum_commune_02_tl-1.jpg
+  datei: /bilder/schizophyllum_commune_02_tl-1.jpg
   anzeige: true
   legende: "Foto: Thomas Lehr"
 profil:

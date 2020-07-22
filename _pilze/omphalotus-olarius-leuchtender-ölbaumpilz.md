@@ -6,7 +6,7 @@ beschreibung:
   referenz: (DC.) Singer 1948
   familie: Omphalotaceae
 hauptbild:
-  datei: bilder/omphalotus_olearius_01_dg.jpg
+  datei: /bilder/omphalotus_olearius_01_dg.jpg
   anzeige: true
   legende: 02.10.2003 TK 5915.1.2 Wiesbaden, Park „Unter den Eichen“, am Stammgrund und an Stümpfen von Quercus
 profil:
