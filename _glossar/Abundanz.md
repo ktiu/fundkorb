@@ -1,0 +1,5 @@
+---
+schlagwort: "Abundanz"
+---
+Häufigkeit, Populationsdichte
+
