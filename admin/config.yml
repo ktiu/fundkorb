@@ -111,6 +111,7 @@ collections:
       - name: "body"
         label: "Text"
         widget: "markdown"
+        hint: "Tooltip in Markdown: ... angesichts fachsimpelnder [Zystidenjäger](Zystiden \"Glossar\") ins Abseits ..."
         editorComponents: ["abbildung"]
 
 #  _____                   _            
