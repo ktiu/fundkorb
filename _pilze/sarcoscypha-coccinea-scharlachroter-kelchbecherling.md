@@ -17,9 +17,21 @@ Funddaten der beschriebenen Kollektion
 
 24.02.2005 MTB 5916.3.4 Flörsheim, Kalkbruch an der Wiesenmühle, 95 m u. N.N. Feuchte, teilweise sehr moosreiche Böschung mit vorwiegend Crataegus, Sambucus, Cornus, Rosa, aber auch Juglans, Populus, Acer und Salix über lehmig bis tonigem, schwach bis deutlich kalkhaltigem Boden, dort auf bis zu armdicken, stark vermoosten und feuchten Ästen, 30 – 40 Fk; weitere Funde: 09.03.2005, Ostseite des Wickerbachs, ebenfalls im MTB 5916.3.4, drei Fk – Exs. u. Foto Th. Lehr
 
+<figure class="standard">
+  {% include bild.html datei="/bilder/sarcoscypha_occinea_01_tl.jpg" %}
+</figure>
+
 Makroskopische Beschreibung
 
-Fruchtkörper pokal- bis becherförmig, alt auch stark abgeflacht tellerförmig, mit mehr oder weniger deutlich abgesetztem Stiel; Becher rund bis oval oder unregelmäßig „nierenförmig“, Durchmesser 7,5 – 50 mm, Höhe des gesamten Fk: 10 – 45 mm; Innenseite leuchtend purpur-, blut- oder himbeerrot, glatt bis fein runzelig, Außenseite weißlich bis fleischosa oder orangelich, gelegentlich der Innenseite auch fast gleichfarbig, schwach furchig, weißlich behaart, vor allem am Becherrand oft geradezu weißlich bis gelblich-orange gezähnelt, aber auch glatt; Fleisch weißlich bis zartrosa, 5 – 45 mm dick, ohne Geruch, Geschmack nicht geprüft; Sporen-pulver weiß.
+Fruchtkörper pokal- bis becherförmig, alt auch stark abgeflacht tellerförmig, mit mehr oder weniger deutlich abgesetztem Stiel; Becher rund bis oval oder unregelmäßig „nierenförmig“, Durchmesser 7,5 – 50 mm, Höhe des gesamten Fk: 10 – 45 mm; Innenseite leuchtend purpur-, blut- oder himbeerrot, glatt bis fein runzelig, Außenseite weißlich bis fleischosa oder orangelich, gelegentlich der Innenseite auch fast gleichfarbig, schwach furchig, weißlich behaart, vor allem am Becherrand oft geradezu weißlich bis gelblich-orange gezähnelt, aber auch glatt; Fleisch weißlich bis zartrosa, 5 – 45 mm dick, ohne Geruch, Geschmack nicht geprüft; Sporenpulver weiß.
+
+<figure class="standard">
+  {% include bild.html datei="/bilder/sarcoscypha_occinea_03_tl.jpg" %}
+</figure>
+
+<figure class="standard">
+  {% include bild.html datei="/bilder/sarcoscypha_coccinea_04_tl.jpg" %}
+</figure>
 
 Mikroskopische Beschreibung (an Frischmaterial)
 
@@ -29,7 +41,7 @@ Bestimmung
 
 Die Gattungszuordnung der großen, leuchtend rot gefärbten Prachtbecherlinge bereitet schon im Feld für gewöhnlich keinerlei Schwierigkeiten. Ähnlich gefärbte Fruchtkörper, etwa aus den Gattungen Aleuria, Melastiza oder Scutellinia, unterscheiden sich durch deutlich kleinere, oft ungestielte oder an der Außenseite dunkel behaarte Apothecien, andere Erscheinungszeit und Ökologie.
 Erheblich schwieriger ist aber die Artunterscheidung innerhalb der Gattung Sarcoscypha. Obwohl seit langem mikroskopische Beobachtungen vorlagen, die auf das Vorkommen mehrerer Arten hinwiesen (etwa BOUDIER 1903, der bereits eine Varietät jurana abtrennte), wurde noch bis in die 80er Jahre des vergangenen Jahrhunderts nur eine Art anerkannt, nämlich S. coccinea. Erst die monographische Bearbeitung durch BARAL (1984), die auf einer ein Jahr zuvor entstandenen Diplomarbeit beruht, konnte zeigen, dass es sich bei S. coccinea um eine Sammelart handelt, hinter der sich fünf, davon mindestens drei in Mitteleuropa vorkommende Arten verbergen. In der Folge wurden dann vor allem aus Nordamerka weitere Arten beschrieben (HARRINGTON 1997). Zudem konnte das von BARAL vorgestellte Artenkonzept auch durch molekularbiologische Untersuchungen gestützt werden (HARRINGTON 1998). Hieraus ergibt sich, dass all diese „neuen“ Arten nicht mit älterer Literatur bestimmbar sind (man denke z. B. an DENNIS 1968). In dem weit verbreiteten Ascomycetenband „Pilze der Schweiz“ (BREITENBACH & KRÄNZLIN 1984) etwa wird auf die Revision der Gattung durch BARAL verwiesen, ohne dass dessen Ergebnisse bereits hätten benutzt werden können. So stellt die dort als S. coccinea abgebildete Kollektion in Wirklichkeit S. austriaca dar, worauf BARAL in einer Korrekturliste zu Bd. 1 von „Pilze der Schweiz“ hingewiesen hat (BARAL & MARSON 2005).
-Nach dem Artkonzept BARALS kann eine Trennung der drei mitteleuropäischen Arten nur durch eine mikroskopische Untersuchung – am besten an Frischmaterial – gelingen. Immerhin stellt der haarig-gezähnelte Rand von S. coccinea offenbar ein recht brauchbares makrosko-pisches Unterscheidungskriterium zu den beiden anderen Arten dar (BARAL in litt., BARAL 2004). Entscheidend sind aber die Mikrostrukturen und hier vor allem die Sporen und die Haare der Fruchtkörperaußenseite.
+Nach dem Artkonzept BARALS kann eine Trennung der drei mitteleuropäischen Arten nur durch eine mikroskopische Untersuchung – am besten an Frischmaterial – gelingen. Immerhin stellt der haarig-gezähnelte Rand von S. coccinea offenbar ein recht brauchbares makroskopisches Unterscheidungskriterium zu den beiden anderen Arten dar (BARAL in litt., BARAL 2004). Entscheidend sind aber die Mikrostrukturen und hier vor allem die Sporen und die Haare der Fruchtkörperaußenseite.
 S. coccinea zeichnet sich zunächst durch seine ellipischen, über 30 µm langen, an den Enden nicht oder zumindest nicht deutlich abgestutzten Sporen aus, die zudem nicht von einer schleimigen Hülle umgeben sind und – neben unzähligen winzigen – eine ganze Reihe relativ kleiner (0,5 – 3 µm Durchmesser), runder Öltröpfchen aufweisen, die an den Sporenpolen angeordnet sind. Diese Öltröpfchen lassen sich aber nur an lebenden Sporen sinnvoll beurteilen, da totes Material oft ein verändertes Muster zeigt. Die Tröpfchen klumpen dann zusammen, so dass man oftmals nur noch ein oder zwei davon erkennen kann. Außerdem sind die Tröpfchen bei toten Sporen, im Gegensatz zu lebenden, gelegentlich über die gesamte Spore verteilt (Vergl. Abb. Mikromerkmale, B u. C). Die beiden anderen in Mitteleuropa vorkommenden Prachtbecherlingsarten unterscheiden sich aber auch dann noch hinreichend deutlich: S. jurana (= S. emarginata), der Linden-Kelchbecherling, zeigt signifikant abgestutzte, komplett von einer Schleimhülle umgebene Sporen mit einem großen (5 – 7,5 µm) Öltröpfchen an jedem Pol; S. austriaca, der Gemeine Prachtbecherling, besitzt ebenfalls abgestutzte Sporen, die normalerweise nur an den Polen eine Schleimkappe zeigen. Die Öltröpfchen von S. austriaca und S. coccinea sind sich aber sehr ähnlich. Als weiteres wichtiges Unterscheidungsmerkmal kommen schließlich die bei S. coccinea geraden oder höchstens schwach gewundenen Haare des äußeren Excipulums, der Außenseite also, hinzu. S. austriaca besitzt demgegenüber deutlich verschlungene, oft geradezu korkenzieherartig gewundene Haare, während S. jurana zwischen diesen beiden Extremen steht. Hinzu kommen unterschiedliches Keimungsverhalten und jeweils andere Konidienstadien, was aber für S. coccinea am Fund vom Dyckerhoff-Kalkbruch nicht nachvollzogen wurde, so dass hier nicht weiter darauf eingegangen werden soll.
 Alles in allem zeigt der Scharlachrote Kelchbecherling also genug kennzeichnende Merkmale, so dass auch die Bestimmung der Kollektionen aus Flörsheim keine Schwierigkeiten gemacht hat.
 
@@ -55,7 +67,3 @@ HARRINGTON, F. A. (1997): New Species of Sarcoscypha (Sarcoscyphaceae, Pezizales
 HARRINGTON, F. A. (1998): Relationships among Sarcoscypha species: evidence from molecular and morphological characters, in: Mycologia 90(2), S. 235-243
 PIDLICH-AIGNER, H. (1999): Sarcoscypha austriaca und S. coccinea (Sarcoscyphaceae) in der Steiermark, in: Joannea Bot. 1, S. 5-26
 SPOONER, B. M. (2002): The Larger Cup Fungi in Britain – part 4. Sarcoscyphaceae ans Sarcosomateceae, in: Field Mycology 3, S. 9-14
-
-
-
-
