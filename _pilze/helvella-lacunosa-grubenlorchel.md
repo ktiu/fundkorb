@@ -15,7 +15,7 @@ profil:
 published: true
 ---
 <figure class="standard">
-  {% include bild.html datei="/bilder/helvella_lacunosa_01_dg.jpg" %}
+  {% include bild.html datei="" %}
 </figure>
 
 So dicht gedrängt wie hier im Ansfeldwald (5. Juni 2016) wächst die Grubenlorchel nur selten. Hier zeigt ein einziger Fund die enorme Farb- und Formenvariabilität des Pilzes
