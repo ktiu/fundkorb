@@ -7,6 +7,9 @@ beschreibung:
 hauptbild:
   anzeige: true
   datei: /bilder/helvella_lacunosa_01_dg.jpg
+  legende: So dicht gedrängt wie hier im Ansfeldwald (5. Juni 2016) wächst die
+    Grubenlorchel nur selten. Hier zeigt ein einziger Fund die enorme Farb- und
+    Formenvariabilität des Pilzes
 literatur:
   - url: http://tintling.com/pilzbuch/arten/h/Helvella_lacunosa.html
 profil:
@@ -14,12 +17,6 @@ profil:
   autor_in: Dieter Gewalt
 published: true
 ---
-<figure class="standard">
-  {% include bild.html datei="" %}
-</figure>
-
-So dicht gedrängt wie hier im Ansfeldwald (5. Juni 2016) wächst die Grubenlorchel nur selten. Hier zeigt ein einziger Fund die enorme Farb- und Formenvariabilität des Pilzes
-
 Die Grubenlorchel ist ein typischer Wegrandpilz. Das gilt auch für eine nahe Verwandte, die meist reinweiße Herbstlorchel. Beiden ist eines gemeinsam: keine gleicht einer anderen. Sowohl die Hüte als auch die Stiele sind so unterschiedlich geformt, dass man nur staunen, sie aber nur schwer beschreiben kann. Für die Hüte kann man Begriffe wie sattelförmig, lappig, verbogen, gewunden, zipfelig, kraus oder bizarr ins Spiel bringen. Die Stiele kann man als längsrippig, gekammert oder grubig beschreiben. Die Farben von Hut und Stiel gleichen sich, sind düster hell- bis dunkelgrau bis nahezu schwarz. Manchmal findet man Zwergformen, die nur 3 cm hoch sind, ich habe aber auch schon Exemplare mit 11 cm Höhe gesehen.
 
 <figure class="standard">
