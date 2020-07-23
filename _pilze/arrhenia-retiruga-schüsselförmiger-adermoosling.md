@@ -17,7 +17,7 @@ published: true
   {% include bild.html datei="/bilder/arrhenia-retiruga_01_dg.jpg" %}
 </figure>
 
-Adermooslinge sind seltene Pilze in einer wenig beachteten Gattung. Möglicherweise ist die vermutete Seltenheit von Arrhenia retiruga mit der winzigen Größe und ihrer Unauffälligkeit zu erklären. Die abgebildete Kollektion wurde bei feuchtmildem Winterwetter am 15. Januar 2019 nahe einem Teich bei Waldacker gefunden. Eine unzählbare Anzahl der hellgrauen schalenförmigen nahezu papierdünnen Fruchtkörper wuchs stiellos an Moos angeheftet auf einer Fläche von vielleicht 30 cm². Die größten hatten Durchmesser von 8 mm, viele erreichten gerade mal 2 mm. Auf dem obigen Foto sind mehr als ein Dutzend zu erkennen. Die Oberseiten sind matt und sehr fein filzig, die Fruchtschicht ist glatt bis angedeutet faltig.
+Adermooslinge sind seltene Pilze in einer wenig beachteten Gattung. Möglicherweise ist die vermutete Seltenheit von Arrhenia retiruga mit der winzigen Größe und ihrer Unauffälligkeit zu erklären. Die abgebildete Kollektion wurde bei feuchtmildem Winterwetter am 15. Januar 2019 nahe einem Teich bei Waldacker gefunden. Eine unzählbare Anzahl der hellgrauen schalenförmigen nahezu papierdünnen Fruchtkörper wuchs stiellos an Moos angeheftet auf einer Fläche von vielleicht 30 cm². Die größten hatten Durchmesser von 8 mm, viele erreichten gerade mal 2 mm. Auf dem obigen Foto sind mehr als ein Dutzend zu erkennen. Die Oberseiten sind matt und sehr fein filzig, die Fruchtschicht ist glatt bis angedeutet faltig. 
 
 <figure class="standard">
   {% include bild.html datei="/bilder/arrhenia-retiruga_02_dg.jpg" %}
