@@ -5,7 +5,7 @@ beschreibung:
   erlaeuterung: rivulosa = rinnig
   familie: Strophariaceae
   referenz: "Nauta 2003 "
-  synonym: rivulosa = rinnig
+  synonym: ""
 hauptbild:
   datei: /bilder/agrocybe_rivulosa_01_dg.jpg
   anzeige: true
