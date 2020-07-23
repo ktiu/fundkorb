@@ -76,9 +76,21 @@ collections:
           - {label: "Wissenschaftlicher Name", name: "wissenschaftlich", widget: "string"}
           - {label: "Deutscher Name", name: "deutsch", widget: "string", required: false}
           - {label: "Autoren-Zitat", name: "referenz", widget: "string", required: false}
-          - {label: "Synonym(e)", name: "synonym", widget: "string", required: false}
-          - {label: "Familie", name: "familie", widget: "string", required: false}
+          - {label: "Angaben zum Namen (z.B. Synonym)", name: "synonym", widget: "string", required: false}
           - {label: "Erläuterung", name: "erlaeuterung", widget: "string", required: false}
+          - {label: "Familie", name: "familie", widget: "string", required: false}
+      - name: "profil"
+        label: "Profil"
+        widget: "object"
+        fields:
+          - {label: "©", name: "autor_in", widget: "string", required: false}
+          - label: "Zuletzt aktualisiert"
+            name: "aktualisiert"
+            required: false
+            widget: "datetime"
+            format: "YYYY-MM-DD"
+            dateFormat: "DD.MM.YYYY"
+            timeFormat: false
       - name: "hauptbild"
         label: "Profilbild"
         widget: "object"
@@ -95,18 +107,6 @@ collections:
         fields:
           - {label: "Anzeigetext", name: "text", widget: "string", required: false}
           - {label: "Link", name: "url", widget: "string", required: false}
-      - name: "profil"
-        label: "Profil"
-        widget: "object"
-        fields:
-          - {label: "©", name: "autor_in", widget: "string", required: false}
-          - label: "Zuletzt aktualisiert"
-            name: "aktualisiert"
-            required: false
-            widget: "datetime"
-            format: "YYYY-MM-DD"
-            dateFormat: "DD.MM.YYYY"
-            timeFormat: false
       - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
       - name: "body"
         label: "Text"
