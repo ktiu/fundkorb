@@ -19,6 +19,7 @@ In einem Fundkorb-Artikel schildert Norbert Kühnberger ausführlich, wie ihm mi
 Bei Internet-Recherchen habe ich eine Auflistung von 21 Anthina-Arten (weltweit) gefunden. In Deutschland sind lt. APN-Nachrichten (also Stand 1993) 6 Arten nachgewiesen: neben A. flammea sind dies:
 
 Anthina pallida: fadenförmige einfache oder in 2 – 3 Zweige geteilte Pilzstränge, zuerst weiß, dann braun werdend
+
 Anthina dichotoma: fädig, etwas dichotom verzweigt, schneeweiß, 5 – 10 mm hoch, auf faulenden Blättern und Rinde
 Anthina purpurea: fast unverzweigt, flach, seidenhaarig-wollig, unterseits braun, oberseits purpurn, zur Spitze verbreitert, weiß, 1 – 2 cm hoch
 Anthina filaris: Stränge straff, unverzweigt, fädig, hyalin, an der Basis etwas angeschwollen, 5 – 12 mm lang, auf faulenden Blättern und Knospen von Buche und Eiche
