@@ -17,8 +17,8 @@
   {% endif %}
   <div class="vorwaerts">
   {% if page.next %}
-    <a href="{{ page.next.url | relative_url }}">{{ page.next.beschreibung.wissenschaftlich }}</a>
-    <a href="{{ page.next.url | relative_url }}"><i class="fas fa-arrow-right"></i></a>
+    <div><a href="{{ page.next.url | relative_url }}">{{ page.next.beschreibung.wissenschaftlich }}</a></div>
+    <div><a href="{{ page.next.url | relative_url }}"><i class="fas fa-arrow-right"></i></a></div>
   {% endif %}
   </div>
 </div>

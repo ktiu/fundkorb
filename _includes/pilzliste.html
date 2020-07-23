@@ -25,6 +25,6 @@
   <p><a id="{{ pilz.slug }}" href="{{ pilz.url | relative_url}}" data-toggle="tooltip" data-container="a#{{pilz.slug}}" data-html="true" title="<div class='thumb'><img src='{{ pilz.hauptbild.datei | relative_url }}?nf_resize=fit&h=200'></div>">{{ pilz.beschreibung.wissenschaftlich }}{% if pilz.beschreibung.deutsch %} ({{ pilz.beschreibung.deutsch }}){%endif%}</a></p>
   {% assign lastletter = tmpletter %}
 {% endfor %}
-</div>
-
+  </div>
+  </div>
 </section>

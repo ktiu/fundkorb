@@ -54,7 +54,6 @@ figure.fliessend .bild {
   max-width: 350px;
 }
 
-
 figure.klein .bild {
   flex: 1 1 150px;
   max-height: 350px;
@@ -82,10 +81,13 @@ figure .bild img {
   object-fit: cover;
 }
 
-figure.gross .bild img {
+figure .bild.nocrop img {
   object-fit: contain;
 }
 
+figure.gross .bild img {
+  object-fit: contain;
+}
 
 figure figcaption {
   flex-basis: 100%;

@@ -22,6 +22,10 @@ article, .navbar {
   padding: 1rem;
 }
 
+article {
+  @include clearfix;
+}
+
 .footer {
   flex: 0 0 100%;
   text-align: center;

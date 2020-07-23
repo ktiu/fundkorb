@@ -1,5 +1,5 @@
 .table {
-  background-color: fade-out($brown, 0.8);
+  background-color: $figure-background;
   margin: 1rem auto;
 }
 
@@ -15,37 +15,21 @@ figure {
   width: auto;
   max-width: 100%;
   margin: 1rem auto;
-  background-color: fade-out($brown, 0.8);
   padding: 5px 5px 0 0;
 }
 
-figure.fliessend {
-  display: inline-flex;
-  float: left;
-  margin: 0.5rem 1rem 0.5rem 0;
-}
-
 figure .bild {
+  background-color: $figure-background;
   flex: 1 1 280px;
   position: relative;
-  margin: 0 0 5px 5px;
-  //background-color: $black;
+  padding: 5px;
+  margin: -5px -5px 0 0;
   max-height: 98vh;
+  vertical-align: middle;
 }
-
-figure.fliessend .bild {
-  flex: 1 1 150px;
-  max-height: 350px;
-  max-width: 350px;
-}
-
-
 figure.klein .bild {
   flex: 1 1 150px;
-  max-height: 350px;
-  max-width: 350px;
 }
-
 figure.gross .bild {
   flex: 1 1 100%;
 }
@@ -67,16 +51,37 @@ figure .bild img {
   object-fit: cover;
 }
 
-figure.gross .bild img {
+figure .bild.nocrop img {
   object-fit: contain;
 }
 
+@media (min-width: 576px) {
+  figure.fliessend {
+    display: block;
+    float: left;
+    margin: 0.5rem 1rem 0.5rem 0;
+    clear:both;
+  }
+
+  figure.fliessend .bild img {
+    max-height: 350px;
+    max-width: 350px;
+  }
+
+  figure.klein .bild {
+    max-height: 350px;
+    max-width: 350px;
+  }
+}
 
 figure figcaption {
   flex-basis: 100%;
+  background-color: $figure-background;
+  width: 100%;
   text-align: center;
   font-size: 0.8em;
-  margin: 0 0 5px 5px;
+  padding: 5px;
+  margin: -5px -5px 0 0;
 }
 
 .thumb {

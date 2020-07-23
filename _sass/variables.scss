@@ -17,7 +17,7 @@ $dark: $forest-green;
 $navbar-light-color: $red;
 $navbar-light-hover-color: lighten($navbar-light-color, 15);
 $navbar-light-active-color: $black;
-$muted: fade-out($brown, 0.4) !important;
+$muted: fade-out($brown, 0.3) !important;
+$figure-background: mix($brown, $light, 22%);
 $shadow: fade-out($dark, 0.8);
-
 $transition-collapse: height .10s ease !default;
