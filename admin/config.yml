@@ -43,7 +43,7 @@ collections:
         default: ""
         dateFormat: "DD.MM.YYYY"
         timeFormat: false
-      - {label: "Vorschaubild", name: "vorschaubild", widget: "image", required: false}
+      - {label: "Vorschaubild", name: "vorschaubild", widget: "image"}
       - {label: "Vorschautext", name: "extract", widget: "string", required: false}
       - {label: "Text", name: "body", widget: "markdown", editorComponents: ["abbildung"]}
       - {label: "Sichtbar", name: "published", widget: "boolean", default: true}

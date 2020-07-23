@@ -32,7 +32,7 @@ CMS.registerEditorComponent({
                {label: 'standard', value: 'standard'},
                {label: 'groß', value: 'gross'},
                {label: 'klein', value: 'klein'},
-               {label: 'fliessend', value: 'fließend (klein)'},
+               {label: 'fließend (klein)', value: 'fliessend'},
      ]}],
   pattern: / *< *figure(?: +class *= *"([^"]*)")? *>((?:\s*\{% *include +bild.html +datei *= *"[^"]*"(?: +(?:legende|unterschrift) *= *"[^"]*")?(?: +groesse *= *"[^"]*")? *%\})*)(?:\s*< *figcaption *>(.*)<\/ *figcaption *>)?\s*<\/ *figure *> *$/m,
   fromBlock: function(match) {

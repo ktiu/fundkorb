@@ -6,21 +6,20 @@ beschreibung:
   familie: Fomitopsidaceae
   erlaeuterung: ramentacea = knospenschuppig
 hauptbild:
-  anzeige: true
+  anzeige: false
+  datei: /bilder/antrodia_amentacea_01_wp.jpg
 literatur:
   - text: "Werner Pohl: Aphyllopower (Pilz Nr. 39)"
     url: http://aphyllopower.blogspot.com/2006/11/
-  - {}
 profil:
   aktualisiert: 2020-07-23
   autor_in: Dieter Gewalt
 published: true
 ---
 
-
-<figure>
-  {% include bild.html datei="/bilder/antrodia_amentacea_01_wp.jpg" zuschneiden="ja" %}
-  {% include bild.html datei="/bilder/antrodia_amentacea_02_wp.jpg" zuschneiden="ja" %}
+<figure class="standard">
+  {% include bild.html datei="/bilder/antrodia_amentacea_01_wp.jpg" %}
+  {% include bild.html datei="/bilder/antrodia_amentacea_02_wp.jpg" %}
 </figure>
 
 [Resupinat](resupinat "Glossar") wachsende Porlinge gibt es eine Menge. Sie sind nicht leicht zu bestimmen, aber diese kleine Art macht da eine Ausnahme. Sie erreicht nur Durchmesser von 2 bis 3 cm, weil sie gern dünnere Äste oder Zweige besiedelt, auf denen mitunter mehrere zusammenwachsen können. Ihre Farbe varriert von weißlich, gelblich bis zu einem hellen Braun, die Poren sind relativ groß und unregelmäßig geformt, die schmalen Ränder weiß. Ihren deutschen Namen verdanken sie ihrem oft runden, an Münzen erinnernden Umriss, ein anderer Name (Knospentramete) bezieht sich auf ihre geringe Größe.

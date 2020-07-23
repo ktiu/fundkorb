@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: Amanita excelsa
   deutsch: Grauer Wulstling
-  synonym: Amanita spissa
+  synonym: "Synonym: Amanita spissa"
   erlaeuterung: excelsa = hoch, erhaben, emporragend
   referenz: (Fr.) Bertill. 1866
   familie: Amanitaceae

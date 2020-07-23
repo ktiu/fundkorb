@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Grüngelber Kotling
   referenz: P. Karst. 1868
   familie: Ascobolaceae
-  synonym: crenulatus = feingekerbt
+  erlaeuterung: crenulatus = feingekerbt
 hauptbild:
   anzeige: true
   datei: /bilder/ascobolus_crenulatus_01_dg.jpg

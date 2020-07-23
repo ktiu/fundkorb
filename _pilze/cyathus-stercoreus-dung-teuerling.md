@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Dung-Teuerling
   referenz: "(Schwein.) De Toni 1888 "
   familie: Agaricaceae
-  synonym: stercoreus = mistig, dreckig
+  erlaeuterung: stercoreus = mistig, dreckig
 hauptbild:
   datei: /bilder/cyathus_stercoreus_01_dg-1.jpg
   anzeige: true

@@ -5,13 +5,14 @@ beschreibung:
   referenz: "(DE Not.) Boud. 1907 "
   familie: Arachnopezizaceae
 hauptbild:
-  anzeige: true
+  datei: /bilder/arachnoscypha_aranea_01_dg.jpg
+  anzeige: false
 profil:
   aktualisiert: 2020-07-23
   autor_in: Dieter Gewalt
 published: true
 ---
-<figure class="fließend (klein)">
+<figure class="fliessend">
   {% include bild.html datei="/bilder/arachnoscypha_aranea_01_dg.jpg" %}
   <figcaption>26. August 2005 im UG Rabenhorst bei Darmstadt</figcaption>
 </figure>

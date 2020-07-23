@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: Tricholoma equestre
   deutsch: Grünling
-  synonym: Tricholoma flavovirens
+  synonym: "Synonym: Tricholoma flavovirens"
   erlaeuterung: equestre = zum Reiter gehörend
   referenz: (L.) P. Kumm. 1871
   familie: Tricholomataceae

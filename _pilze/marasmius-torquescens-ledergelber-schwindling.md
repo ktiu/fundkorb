@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: Marasmius torquescens
   deutsch: Ledergelber Schwindling
-  synonym: Marasmius lupuletorum
+  synonym: "Synonym: Marasmius lupuletorum"
   erlaeuterung: torquescens = verdrehend
   referenz: Quél. 1872
   familie: Marasmiaceae
