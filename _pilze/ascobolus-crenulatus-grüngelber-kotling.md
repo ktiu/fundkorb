@@ -26,8 +26,6 @@ Die [Apothecien](Apothecien "Glossar") des Grüngelben Kotlings erreichen lt. Li
   <figcaption>Diese beiden Fotos von Frank Kaster zeigen die aus dem Hymenium herausragenden Asci als dunkle Fleckchen</figcaption>
 </figure>
 
-Diese beiden Fotos von Frank Kaster zeigen die aus dem Hymenium herausragenden [Asci](Asci "Glossar") als dunkle Fleckchen
-
 Die Fruchtkörper wachsen auf Kot verschiedener Tiere wie Rehe, Schafe, Hasen, Kaninchen u. a. und sitzen stiellos auf ihrem Substrat. Erscheinungszeit ist nach Literatur vorwiegend in den Wintermonaten. Bei unserer Kultur erschienen die ersten Apothecien Ende Juni. Die Art gilt als selten.
 
 <figure class="klein">
