@@ -27,7 +27,7 @@ Der Pantherpilz wächst von Juli bis Oktober in Laub- und Nadelwäldern, seine M
 <figure>
   {% include bild.html datei="/bilder/amanita_pantherina_01_dg.jpg"%}
   {% include bild.html datei="/bilder/amanita_pantherina_04_dg.jpg"%}
-  <figcaption>Zwei Fotos zeigen deutlich: bevorzugter Baumpartner ist die Eiche</figcaption>
+  <figcaption>Zwei Fotos zeigen deutlich: bevorzugter Baumpartner ist die Eiche. Man sieht es an den Eicheln.</figcaption>
 </figure>
 
 
