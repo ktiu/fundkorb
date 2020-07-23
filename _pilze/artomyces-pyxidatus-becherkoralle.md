@@ -14,7 +14,8 @@ hauptbild:
 literatur:
   - text: "Hermann Jahn: Pilze die an Holz wachsen (1979)"
   - text: "Der Tintling (Heft 66, 2010, Seite 24): Grillplatz mit Pilzen"
-  - text: "Die Becherkoralle war 2015 Pilz des Jahres. Es lohnt sich, die aus diesem
+  - url: https://www.dgfm-ev.de/pilz-des-jahres/2015-becherkoralle
+    text: "Die Becherkoralle war 2015 Pilz des Jahres. Es lohnt sich, die aus diesem
       Anlass von der DGfM publizierte Darstellung aufzurufen. Link:
       https://www.dgfm-ev.de/pilz-des-jahres/2015-becherkoralle"
 published: true
