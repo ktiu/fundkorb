@@ -4,6 +4,7 @@ beschreibung:
   deutsch: Grubenlorchel
   referenz: "Afzel. 1783 "
   familie: Helvellaceae
+  erlaeuterung: lacunosa = grubig, gekammert
 hauptbild:
   anzeige: true
   datei: /bilder/helvella_lacunosa_01_dg.jpg
