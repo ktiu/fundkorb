@@ -19,11 +19,9 @@ profil:
   autor_in: Dieter Gewalt
 published: true
 ---
-Mein persönlicher Erstfund vom 23.11.2007: Friedhof Westhausen, an Eibe, (det. Hermine Lotz-Winter)
-
 Um diesen Rindenpilz zu finden, muss man seine typischen Wirtspflanzen kennen: Wacholder und Eibe. Für Eibe gibt German J. Kriegsteiner (Großpilze Baden-Württembergs) für sein gesamtes Bundesland jedoch nur einen Fund an, für Wacholder hingegen 73.
 
-<figure class="standard">
+<figure class="klein">
   {% include bild.html datei="/bilder/amylostereum_laevigatum_02_dg.jpg" %}
 </figure>
 
