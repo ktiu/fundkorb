@@ -36,7 +36,7 @@ Für die verwirrende Formenvielfalt von Abortiporus biennis stehen die folgenden
   {% include bild.html datei="/bilder/abortiporus_biennis_04_dg.jpg" %}
 </figure>
 
-Am 9. November 2019 fanden wir den Wirrling im Hainbachtal bei Offenbach seitlich an totem Buchenholz. Auch hier entsprach die Wuchsform keineswegs der häufigeren Trichterform. Die Oberfläche der reihig am Stamm wachsenden Hütchen waren ungewöhnlich stark zerklüftet, das Hymenophor lief abgestuft und [resupinat](<resupinat "Glossar">) an der Stammseite herab.
+Am 9. November 2019 fanden wir den Wirrling im Hainbachtal bei Offenbach seitlich an totem Buchenholz. Auch hier entsprach die Wuchsform keineswegs der häufigeren Trichterform. Die Oberfläche der reihig am Stamm wachsenden Hütchen waren ungewöhnlich stark zerklüftet, das Hymenophor lief abgestuft und [resupinat](resupinat "Glossar") an der Stammseite herab.
 
 <figure class="standard">
   {% include bild.html datei="/bilder/abortiporus_biennis_05_dg.jpg" %}
