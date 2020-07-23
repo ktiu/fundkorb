@@ -30,7 +30,7 @@ Am häufigsten findet man Fruchtkörper, die unregelmäßig trichterig geformt s
   {% include bild.html datei="/bilder/abortiporus_biennis_03_dg.jpg" %}
 </figure>
 
-Für die verwirrende Formenvielfalt von Abortiporus biennis stehen die folgenden Beispiele. Am 15. November 2018 fanden wir den Porling in Dietzenbach flach auf der Schnittfläche eines Ahornstumpfes wachsend, zum Teil mit oberseitigem [Hymenophor](<Hymenophor "Glossar">):
+Für die verwirrende Formenvielfalt von Abortiporus biennis stehen die folgenden Beispiele. Am 15. November 2018 fanden wir den Porling in Dietzenbach flach auf der Schnittfläche eines Ahornstumpfes wachsend, zum Teil mit oberseitigem [Hymenophor](Hymenophor "Glossar"):
 
 <figure class="standard">
   {% include bild.html datei="/bilder/abortiporus_biennis_04_dg.jpg" %}
