@@ -76,7 +76,7 @@ collections:
           - {label: "Wissenschaftlicher Name", name: "wissenschaftlich", widget: "string"}
           - {label: "Deutscher Name", name: "deutsch", widget: "string", required: false}
           - {label: "Autoren-Zitat", name: "referenz", widget: "string", required: false}
-          - {label: "Angaben zum Namen (z.B. Synonym)", name: "synonym", widget: "string", required: false}
+          - {label: "Angaben zum Namen, z.B. Synonym", name: "synonym", widget: "string", required: false}
           - {label: "Erläuterung", name: "erlaeuterung", widget: "string", required: false}
           - {label: "Familie", name: "familie", widget: "string", required: false}
       - name: "profil"
