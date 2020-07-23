@@ -19,7 +19,7 @@ published: true
 
 Der Name „voreilend“ bezieht sich auf seine frühe Erscheinungszeit. In manchen Jahren ist er schon im April zu finden, gelegentliche Funde sind aber bis in den Spätherbst möglich. Die Lamellen bleiben recht lange blass, färben sich dann durch das Sporenpulver tabakbraun. Unverletzt riecht der Pilz kakaoartig, gerieben ranzig-mehlig. Er ist zwar essbar, wegen seines etwas ranzigen Geschmacks aber keine Delikatesse.
 
-<figure>{% include bild.html datei="/bilder/agrocybe_praecox_03_dg.jpg" groesse="standard" %}</figure>
+<figure>{% include bild.html datei="/bilder/agrocybe_praecox_03_dg.jpg" groesse="klein" %}</figure>
 
 Bei Trockenheit und Sonneneinstrahlung wird die Huthaut schnell rissig.
 
