@@ -23,6 +23,7 @@ Die [Apothecien](Apothecien "Glossar") des Grüngelben Kotlings erreichen lt. Li
 <figure class="standard">
   {% include bild.html datei="/bilder/ascobolus_crenulatus_02_fk.jpeg" %}
   {% include bild.html datei="/bilder/ascobolus_crenulatus_03_fk.jpg" %}
+  <figcaption>Diese beiden Fotos von Frank Kaster zeigen die aus dem Hymenium herausragenden Asci als dunkle Fleckchen</figcaption>
 </figure>
 
 Diese beiden Fotos von Frank Kaster zeigen die aus dem Hymenium herausragenden [Asci](Asci "Glossar") als dunkle Fleckchen
