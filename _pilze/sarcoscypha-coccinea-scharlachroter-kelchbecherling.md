@@ -5,12 +5,12 @@ beschreibung:
   deutsch: Scharlachroter Kelchbecherling
   referenz: "(Jacq.) Sacc. 1889 "
   erlaeuterung: coccinea = scharlachrot
-hauptbild:
-  anzeige: true
-  datei: /bilder/sarcoscypha_coccinea_02_tl.jpg
 profil:
   aktualisiert: 2020-07-22
   autor_in: Thomas Lehr
+hauptbild:
+  anzeige: true
+  datei: /bilder/sarcoscypha_coccinea_02_tl.jpg
 published: true
 ---
 ### Funddaten der beschriebenen Kollektion
@@ -32,7 +32,7 @@ Fruchtkörper pokal- bis becherförmig, alt auch stark abgeflacht tellerförmig,
 ### Mikroskopische Beschreibung (an Frischmaterial)
 
 <figure class="fliessend">
-  {% include bild.html datei="/bilder/sarcoscypha_coccinea_04_tl.jpg" %}
+  {% include bild.html datei="/bilder/sarcoscypha_coccinea_04_tl.jpg" nocrop=true %}
 </figure>
 
 Aci 8-sporig, 360 – 420 µm, hyalin, lugolnegativ; Paraphysen sehr schmal, 0,7 – 2 µm, an der Spitze teilweise bis 3 µm verdickt, mit orangefarbenen bis roten Pigment-„Pünktchen“ gefüllt; Sporen elliptisch, sehr selten an den Enden schwach sattelförmig abgeflacht, hyalin, ohne schleimige Hülle, mit vielen Blächen, die meist an den Polen konzentriert sind, sich aber auch (bei unreifen Sporen) in der ganzen Spore verteilen können, die Bläschen mit 0,5 – 2,7 (-3,4) µm Durchmesser (schon bei etwa 48 Stunden altem Sporenpulver konnte eine Tendenz der Bläschen zum Verklumpen an den Polen beobachtet werden, so dass dort teilweise nur 1 – 3 Bläschen mit einem Durchmesser von bis zu 6,5 µm Durchmesser zu sehen waren); äußeres Excipulum aus länglich-blasigen Elementen von 5 – 12 µm Breite; Haare 500 bis 700 x 2,5 – 5 µm, hyalin, entfernt septiert, teilweise verzweigt, mehr oder weniger gerade, zumindest ohne auffallende Verbiegungen oder Krümmungen, vielfach inkrustiert.
