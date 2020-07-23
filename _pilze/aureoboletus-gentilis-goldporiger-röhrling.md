@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Goldporiger Röhrling
   referenz: "(Quél.) Pouzar 1957 "
   familie: Boletaceae
-  erlaeuterung: "Synonym: Boletus gentilis   gentilis = zart, hübsch, nett"
+  erlaeuterung: "Synonym: Boletus gentilis /  gentilis = zart, hübsch, nett"
 profil:
   aktualisiert: 2020-07-23
   autor_in: Thomas Lehr
