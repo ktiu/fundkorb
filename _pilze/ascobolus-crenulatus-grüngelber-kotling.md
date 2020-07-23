@@ -35,4 +35,4 @@ Die Fruchtkörper wachsen auf Kot verschiedener Tiere wie Rehe, Schafe, Hasen, K
   <figcaption>3 Mikrofotos von Frank Kaster</figcaption>
 </figure>
 
-Angaben zu den Mikromerkmalen: die achtsporigen Asci messen 135 - 195 x 14 - 19 µm, die schlanken Paraphysen sind lt. Literatur septiert (konnte bei dem von Frank Kaster untersuchten Material nicht festgestellt werden), die elliptischen Sporen sind jung hyalin, reif dunkelbraun mit violettlicher Ornamentierung, Maße im Durchschnitt 15 x 8,5
+Angaben zu den Mikromerkmalen: die achtsporigen Asci messen 135 - 195 x 14 - 19 µm, die schlanken [Paraphysen](Paraphyse "Glossar") sind lt. Literatur septiert (konnte bei dem von Frank Kaster untersuchten Material nicht festgestellt werden), die elliptischen Sporen sind jung hyalin, reif dunkelbraun mit violettlicher Ornamentierung, Maße im Durchschnitt 15 x 8,5
