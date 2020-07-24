@@ -4,7 +4,8 @@ beschreibung:
   deutsch: Becherkoralle
   referenz: (Pers.) Jülich 1982
   familie: Auriscalpiaceae
-  erlaeuterung: "Synonym: Clavicorona pyxidata      pyxidatus = becherartig"
+  synonym: "Synonym: Clavicorona pyxidata"
+  erlaeuterung: "pyxidatus = becherartig"
 profil:
   aktualisiert: 2020-07-23
   autor_in: Dieter Gewalt
