@@ -11,11 +11,10 @@ profil:
 hauptbild:
   anzeige: true
 literatur:
-  - text: "Der Wetterstern ist 2005 von der Deutschen Gesellschaft für Mykologie zum
-      Pilz des Jahres gewählt worden. Ausführliche Info dazu
-      auf  https://www.dgfm-ev.de/pilz-des-jahres/2005-wetterstern
-      Empfehlenswerter Link:"
-    url: http://tintling.com/pilzbuch/arten/a/Astraeus_hygrometricus.html
+  - url: https://www.dgfm-ev.de/pilz-des-jahres/2005-wetterstern
+    text: Der Wetterstern ist 2005 von der Deutschen Gesellschaft für Mykologie zum
+      Pilz des Jahres gewählt worden.
+  - url: http://tintling.com/pilzbuch/arten/a/Astraeus_hygrometricus.html
 published: true
 ---
 Obwohl den Erdsternen zum Verwechseln ähnlich, gehört der Wetterstern nicht in deren nähere Verwandtschaft. Die zuerst kugeligen Fruchtkörper entwickeln sich meist unterirdisch, später reißt die Exoperidie (die äußere von zwei Hüllschichten) sternförmig auf und biegt sich nach außen. Dabei wird die Endoperidie, die die Sporenkugel (Gleba) umschließt, freigelegt. Die 5 bis 10 Lappen der geöffneten Exoperidie sind hygroskopisch, d. h. sie krümmen sich bei feuchter Witterung nach außen und schließen sich bei Trockenheit wieder über der Endoperidie zusammen. Dieser Vorgang lässt sich an nach Hause mitgenommenen Exemplaren fast beliebig oft durch Befeuchten und Trocknen wiederholen. Der Name hygrometricus leitet sich, passend zu dieser Eigenschaft, von „Hygrometer“ (Feuchtigkeitsmesser) ab.
