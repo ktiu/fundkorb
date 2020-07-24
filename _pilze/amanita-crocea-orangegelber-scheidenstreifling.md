@@ -32,15 +32,13 @@ Der Name Scheidenstreifling ist eigentlich schon eine Fruchtkörperbeschreibung:
 
 Die nachfolgende Fotoserie zeigt die Entwicklung des Pilzes, der als nahezu geschlossenes Ei aus dem Boden hervorbricht. Schließlich reißt die „Eierschale“ (eine häutige Hülle, Velum universale genannt) auf, wobei einige Fetzen mit dem Hut in die Höhe gehoben werden und der Rest als häutige Scheide am Stielgrund zurückbleibt. Die Hüllreste auf dem Hut können leicht abgewischt werden.
 
-<figure class="standard">
+<figure class="klein">
   {% include bild.html datei="/bilder/amanita_crocea_02_dg.jpg" %}
   {% include bild.html datei="/bilder/amanita_crocea_03_dg.jpg" %}
   {% include bild.html datei="/bilder/amanita_crocea_04.jpg" %}
 </figure>
 
-
-
-<figure class="standard">
+<figure class="klein">
   {% include bild.html datei="/bilder/amanita_crocea_05_dg.jpg" %}
   {% include bild.html datei="/bilder/amanita_crocea_07_dg.jpg" %}
   {% include bild.html datei="/bilder/amanita_crocea_08_dg.jpg" %}
