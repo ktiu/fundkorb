@@ -35,7 +35,7 @@ Nicht selten sind enorme Massenvorkommen zu beobachten, wie zum Beispiel in eine
   {% include bild.html datei="/bilder/agaricus_xanthoderma_05_dg-1024x670.jpg" %}
 </figure>
 
-Solche Massenvorkommen wiederholen sich hier mehrmals im Jahr und wir haben einmal sogar etliche Schnittstellen bemerkt und uns gefragt, ob da jetzt gerade jemand an Durchfall und Bauchschmerzen leidet. Da bei der Zubereitung der Pilze ein aufdringlicher, abstoßender Gestank aus der Pfanne in die Nase steigt, sollte man annehmen, dass sich niemand mehr zum Verzehr entschließen wird. Dennoch kommt es immer wieder zu Vergiftungen.
+Solche Massenvorkommen wiederholen sich hier mehrmals im Jahr und wir haben einmal sogar etliche Schnittstellen bemerkt und uns gefragt, ob da jetzt gerade jemand an Durchfall und Bauchschmerzen leidet. Da bei der Zubereitung der Pilze ein aufdringlicher, abstoßender Gestank aus der Pfanne in die Nase steigt, sollte man annehmen, dass sich niemand mehr zum Verzehr entschließen wird. Dennoch kommt es immer wieder zu Vergiftungen. 
 
 <figure class="standard">
   {% include bild.html datei="/bilder/agaricus_xanthoderma_06_dg-1024x632.jpg" %}
