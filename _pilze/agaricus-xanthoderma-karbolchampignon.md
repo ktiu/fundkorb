@@ -48,7 +48,7 @@ Solche Massenvorkommen wiederholen sich hier mehrmals im Jahr und wir haben einm
   {% include bild.html datei="/bilder/agaricus_xanthoderma_07_dg-1024x707.jpg" %}
 </figure>
 
-Farbreaktion und Geruchsentwicklung kann man sehr schön mit einem einfachen Experiment erzeugen. Man lege einige Karbolchampignons in eine weiße Schale und übergieße sie mit kochendem Wasser. Die Verfärbung des Wassers zeigt das Foto, die Geruchsentwicklung ist nicht weniger beeindruckend.
+Farbreaktion und Geruchsentwicklung kann man sehr schön mit einem einfachen Experiment erzeugen. Man lege einige Karbolchampignons in eine weiße Schale und übergieße sie mit kochendem Wasser. Die Verfärbung des Wassers zeigt das Foto, die Geruchsentwicklung ist nicht weniger beeindruckend. 
 
 
 
