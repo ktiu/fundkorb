@@ -35,7 +35,7 @@ Mit dem „Männlein, das im Walde steht“, ist im Gegensatz zur weit verbreite
 „Das Männlein dort auf einem Bein  
 Mit seinem roten Mäntelein  
 Und seinem schwarzen Käppelein  
-Kann nur die Habebutte sein“
+Kann nur die Hagebutte sein“
 
 <figure class="standard">
   {% include bild.html datei="/bilder/amanita_muscaria_-isabelle-_07_dg.jpg" %}
