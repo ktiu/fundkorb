@@ -5,15 +5,15 @@ beschreibung:
   referenz: P. Karst. 1868
   familie: Ascobolaceae
   erlaeuterung: crenulatus = feingekerbt
+profil:
+  aktualisiert: 2020-07-21
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/ascobolus_crenulatus_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/taxonomie/familie/ascobolaceae.html
     text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 1 (Nr. 113)"
-profil:
-  aktualisiert: 2020-07-21
-  autor_in: Dieter Gewalt
 published: true
 ---
 Mein persönlicher Erstfund dieser coprophilen (kotliebenden) Art gelang durch eine Kultur von feucht gehaltenen Kaninchenkötteln auf unserem Balkon. Die Kötteln stammten von einem Rasen in unmittelbarer Nähe unserer Wohnanlage; die ersten becherförmigen Fruchtkörper erschienen ca. 3 Wochen nach Beginn des Kultivierungsversuchs.
@@ -23,7 +23,7 @@ Die [Apothecien](Apothecien "Glossar") des Grüngelben Kotlings erreichen lt. Li
 <figure class="standard">
   {% include bild.html datei="/bilder/ascobolus_crenulatus_02_fk.jpeg" %}
   {% include bild.html datei="/bilder/ascobolus_crenulatus_03_fk.jpg" %}
-  <figcaption>Diese beiden Fotos von Frank Kaster zeigen die aus dem Hymenium herausragenden Asci als dunkle Fleckchen</figcaption>
+  <figcaption>Diese beiden Fotos von Frank Kaster zeigen die aus dem ![Hymenium](Hymenium "Glossar") herausragenden Asci als dunkle Fleckchen</figcaption>
 </figure>
 
 Die Fruchtkörper wachsen auf Kot verschiedener Tiere wie Rehe, Schafe, Hasen, Kaninchen u. a. und sitzen stiellos auf ihrem Substrat. Erscheinungszeit ist nach Literatur vorwiegend in den Wintermonaten. Bei unserer Kultur erschienen die ersten Apothecien Ende Juni. Die Art gilt als selten.
