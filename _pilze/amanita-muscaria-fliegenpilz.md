@@ -34,10 +34,10 @@ In einem meiner ersten Pilzbücher (Haas/Gossner: Pilze Mitteleuropas, 1964) wir
 
 Mit dem „Männlein, das im Walde steht“, ist im Gegensatz zur weit verbreiteten Auffassung nicht der Fliegenpilz gemeint. Der meist nur gesprochene Schlussvers des volkstümlichen Kinderliedes von August Heinrich Hoffmann von Fallersleben gibt Auskunft:
 
-> „Das Männlein dort auf einem Bein  
+„Das Männlein dort auf einem Bein  
 Mit seinem roten Mäntelein  
 Und seinem schwarzen Käppelein  
-Kann nur die Hagebutte sein“  
+Kann nur die Hagebutte sein“
 
 <div class="figure">
   <figure class="standard">
