@@ -10,6 +10,10 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
+  datei: /bilder/astraeus_hygrometricus_01_dg.jpg
+  legende: 17.09.2007 Koberstädter Wald bei Langen, wo wir offensichtlich ein paar
+    Tage zu spät gekommen sind. Die vorgefundenen Wettersterne waren nicht mehr
+    die jüngsten und die Sporenkugeln schon in sich zusammengefallen.
 literatur:
   - url: https://www.dgfm-ev.de/pilz-des-jahres/2005-wetterstern
     text: Der Wetterstern ist 2005 von der Deutschen Gesellschaft für Mykologie zum
