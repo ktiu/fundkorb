@@ -25,7 +25,7 @@ Mit einem Anteil von ca. 90 Prozent aller tödlich verlaufenden Pilzvergiftungen
   {% include bild.html datei="/bilder/amanita_phalloides_06_dg.jpg" %}
 </figure>
 
-<figure class="standard">
+<figure class="klein">
   {% include bild.html datei="/bilder/amanita_phalloides_05_dg.jpg" %}
   {% include bild.html datei="/bilder/amanita_phalloides_09_xx.jpg" %}
   {% include bild.html datei="/bilder/amanita_phalloides_02_dg.jpeg" %}
