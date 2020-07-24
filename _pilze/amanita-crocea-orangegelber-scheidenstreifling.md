@@ -7,6 +7,7 @@ beschreibung:
   familie: Amanitaceae
 profil:
   aktualisiert: 2020-07-24
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
 literatur:
