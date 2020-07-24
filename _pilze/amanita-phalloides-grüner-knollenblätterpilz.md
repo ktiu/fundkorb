@@ -14,7 +14,7 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Amanita_phalloides.html
 published: true
 ---
-<figure class="standard">
+<figure class="klein">
   {% include bild.html datei="/bilder/amanita_phalloides_01_dg.jpg" %}
 </figure>
 
