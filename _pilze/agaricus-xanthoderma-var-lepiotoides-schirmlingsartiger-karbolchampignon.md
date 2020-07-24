@@ -14,7 +14,7 @@ hauptbild:
   legende: ""
 published: true
 ---
-<figure class="standard">
+<figure class="klein">
   {% include bild.html datei="/bilder/agaricus_xanthoderma_var._leptiodoides_01_dg.jpg" %}
 </figure>
 
