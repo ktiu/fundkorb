@@ -10,6 +10,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
+  datei: /bilder/ascodichaena_rugosa_01_dg.jpg
 published: true
 ---
 Eigentlich ist der Name „Buchen-Rindenschorf“ schon Beschreibung genug. Es handelt sich um einen parasitär auf der Rinde von Buchenstämmen und -ästen wachsenden Pilz aus der Gruppe der Ascomyzeten, der schwarze flecken- oder streifenförmige Beläge bildet, deren Oberfläche sich rauh oder körnig anfühlt. Der Baum schützt sich mit verstärktem Korkwachstum. Es handelt sich zwar um einen Baumschädling, der jedoch nur geringfügige Schäden verursacht und keine Gegenmaßnahmen erforderlich macht. Mitunter findet man ihn auch auf der Rinde anderer Laubbaumarten.
