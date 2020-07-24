@@ -18,7 +18,7 @@ published: true
   {% include bild.html datei="/bilder/amanita_crocea_01_dg.jpg" %}
 </figure>
 
-Der Orangerote Scheidenstreifling gehört zu den etwas größeren und robusteren Arten der Untergattung Amanitopsis und wächst vornehmlich bei Eichen. In Höhenlagen unter 200 m ist er eher selten, im kollinen bis montanen Bereich deutlich häufiger. So habe ich die Art z. B. im Schwarzwald weitaus häufiger gesehen als in der Rhein-Main-Ebene, in der man ihr aber auch immer mal wieder begegnet.
+Der Orangerote Scheidenstreifling gehört zu den etwas größeren und robusteren Arten der Untergattung Amanitopsis und wächst vornehmlich bei Eichen. In Höhenlagen unter 200 m ist er eher selten, im kollinen bis montanen Bereich deutlich häufiger. So habe ich die Art z. B. im Schwarzwald weitaus öfters gesehen als in der Rhein-Main-Ebene, in der man ihr aber auch immer mal wieder begegnet.
 
 <figure class="standard">
   {% include bild.html datei="/bilder/amanita_crocea_10_gs.jpg" %}
