@@ -48,7 +48,9 @@ Farbreaktion und Geruchsentwicklung kann man sehr schön mit einem einfachen Exp
   {% include bild.html datei="/bilder/agaricus_xanthoderma_07_dg-1024x707.jpg" %}
 </figure>
 
-Ein Blick durch die Telefonleitung
+
+### Ein Blick durch die Telefonleitung
+
 Mit die häufigste und auch am einfachsten zu lösende Beanspruchung eines Pilzsachverständigen wird durch den Karbolegerling verursacht. Wenn der Ratsuchende erwähnt, er habe seine Champignons im Garten oder Park oder sonstwo im städtischen Bereich gefunden, besteht von vornherein der dringende Verdacht, dass es sich um giftige handelt. Ob der Verdacht zutrifft, lässt sich fast immer auch telefonisch klären. Eine Anruferin aus Frankfurt hatte eine ganze Menge Champignons in ihrem Garten und wollte vor dem Verzehr sicher gehen, dass sie essbar sind. Für mich stand dagegen schon so gut wie fest, dass es sich um Karbolchampignons handelt.
 
 „Haben Sie einen der Pilze mit kompletter Stielknolle parat?“ fragte ich. 
