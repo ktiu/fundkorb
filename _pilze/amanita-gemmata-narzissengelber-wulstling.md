@@ -30,4 +30,5 @@ Der Narzissengelbe Wulstling ist im Rhein-Main-Gebiet gut verbreitet und relativ
 <figure class="standard">
   {% include bild.html datei="/bilder/amanita_gemmata_03_dg.jpg" %}
   {% include bild.html datei="/bilder/amanita_gemmata_02_mm.jpg" %}
+  <figcaption>Das junge Exemplar, das beim Wachstum ein Moospolster in die Höhe gehoben hat, wurde am 22. August 2010 auf dem Grillplatz der Jügesheimer Waldfreizeitanlage fotografiert. Sieht aus,als hätte er unter einem Moosdach Schutz vor Regen oder Sonne gesucht. (Foto rechts: Margret Schwarz-Mohr)</figcaption>
 </figure>
