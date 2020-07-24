@@ -18,7 +18,7 @@ published: true
 
 Die rund 60 in Europa vorkommenden Champignon-Arten sind oft nur schwer voneinander abzugrenzen. Die Wenigsten wissen, dass es unter ihnen auch giftige gibt. Sie sind in der Sektion Karbolchampignons (Xanthodermei) zusammengefasst und zeichnen sich durch starke Gelbverfärbung in Verbindung mit einem typischen Phenolgeruch (Karbol, Tinte, Krankenhaus) aus. Gelbverfärbungen kommen auch bei essbaren Champignons vor, beim Karbolchampignon ist sie besonders in der Stielbasis sehr ausgeprägt und hier ist der unangenehme Karbolgeruch auch am deutlichsten wahrzunehmen. Häufigste Art ist der Karbolchampignon Agaricus xanthoderma (lt. Index fungorum: xanthodermus). Er kommt vor allen auf Grasflächen in Parkanlagen, Gärten und Friedhöfen vor, ist aber auch außerhalb bewohnter Gebiete auf Grasflächen und in Wäldern anzutreffen.
 
-<figure class="standard">
+<figure class="fliessend">
   {% include bild.html datei="/bilder/agaricus_xanthoderma_02_dg-1024x667.jpg" %}
 </figure>
 
@@ -47,7 +47,6 @@ Farbreaktion und Geruchsentwicklung kann man sehr schön mit einem einfachen Exp
 <figure class="klein">
   {% include bild.html datei="/bilder/agaricus_xanthoderma_07_dg-1024x707.jpg" %}
 </figure>
-
 
 ### Ein Blick durch die Telefonleitung
 
