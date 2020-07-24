@@ -24,7 +24,6 @@ Meine zweite Begegnung erlebte ich im Herbst 2003 in Wiesbaden. Mitten in der St
 
 <figure class="standard">
   {% include bild.html datei="/bilder/amanita_caesarea_02_tl.jpg" %}
-  <figcaption>Foto: Thomas Lehr</figcaption>
 </figure>
 
 Laut Verbreitungsatlas (Krieglsteiner, 1991) gibt es in der Rhein-Main-Ebene drei weitere Nachweise für diese faszinierende Art. Eine mir per Mail zugegangene Fundmeldung aus dem Main-Kinzig-Kreis konnte weder durch Fotos noch durch Eksikkate belegt werden.
