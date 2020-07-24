@@ -22,7 +22,7 @@
   <div id="{{ tmpletter }}" class="buchstabe collapse{% if forloop.first==true %} show{% endif %}" data-parent="#pilzliste">
   <div>
   {% endif %}
-  <p><a id="{{ pilz.slug }}" href="{{ pilz.url | relative_url}}" data-toggle="tooltip" data-container="a#{{pilz.slug}}" data-html="true" title="<div class='thumb'><img src='{{ pilz.hauptbild.datei | relative_url }}?nf_resize=fit&h=200'></div>">{{ pilz.beschreibung.wissenschaftlich }}{% if pilz.beschreibung.deutsch %} ({{ pilz.beschreibung.deutsch }}){%endif%}</a></p>
+  <p><a id="{{ pilz.slug }}" href="{{ pilz.url | relative_url}}" data-toggle="tooltip" data-placement="right" data-container="a#{{pilz.slug}}" data-html="true" title="<div class='thumb'><img src='{{ pilz.hauptbild.datei | relative_url }}?nf_resize=smartcrop&h=60&w=60'></div>">{{ pilz.beschreibung.wissenschaftlich }}{% if pilz.beschreibung.deutsch %} ({{ pilz.beschreibung.deutsch }}){%endif%}</a></p>
   {% assign lastletter = tmpletter %}
 {% endfor %}
   </div>

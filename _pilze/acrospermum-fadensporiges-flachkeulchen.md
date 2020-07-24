@@ -16,6 +16,7 @@ profil:
   autor_in: Dieter Gewalt
 published: true
 ---
+
 Das Fadensporige Flachkeulchen gehört zu den winzigen [Ascomyzeten](Ascomyzeten "Glossar"), die man auf vorjährigen Brennnesselstängeln finden kann. Die Art ist weit verbreitet, aber vielfach übersehen und keinesfalls häufig. Nördlich des Mains ist sie offenbar seltener als im Süden der Republik. Wer wie ich dieses spezielle Substrat jährlich nach Kleinstpilzen absucht, wird sicher meine Erfahrung bestätigen: man muss schon eine sehr große Zahl trockener Stängel in die Hand nehmen, um diese Keulchen einmal zu finden, aber dann herdenweise in langen Reihen. Wachstumszeit ist Frühjahr bis Sommer.
 
 Acrospermum compressum bildet ca. 3 mm hohe, oliv- bis schwarzbräunliche Keulchen, deren oberer (fertiler) Teil meist abgeflacht ist. Auffälliges Mikromerkmal, nach dem der Pilz benannt ist: die fadenförmigen Sporen sind meist über 400 µ lang, aber nur 1 µ breit.
@@ -23,7 +24,6 @@ Acrospermum compressum bildet ca. 3 mm hohe, oliv- bis schwarzbräunliche Keulch
 ### Andere auf Brennnesselstängeln wachsende kleine Pilze
 
 * auf vorjährigen, trockenen Stängeln:
-
   * Aporythisma urticae (Deutscher Name nicht bekannt)
   * Belonidium sulphureum = Schwefelgelbes Haarbecherche
   * Calloria neglecta = Orangerotes Brennnesselbecherchen
@@ -33,5 +33,4 @@ Acrospermum compressum bildet ca. 3 mm hohe, oliv- bis schwarzbräunliche Keulch
   * Hymenoscyphus herbarum = Kraut-Stängelbecherling
   * Leptosphaeria acuta = Zugespitzter Kugelpilz
 * auf frischen Brennnesseln, ca. Mai bis Juli:
-
   * Puccinia urticata = Brennnesselrost

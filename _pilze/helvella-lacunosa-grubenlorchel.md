@@ -20,16 +20,20 @@ published: true
 ---
 Die Grubenlorchel ist ein typischer Wegrandpilz. Das gilt auch für eine nahe Verwandte, die meist reinweiße Herbstlorchel. Beiden ist eines gemeinsam: keine gleicht einer anderen. Sowohl die Hüte als auch die Stiele sind so unterschiedlich geformt, dass man nur staunen, sie aber nur schwer beschreiben kann. Für die Hüte kann man Begriffe wie sattelförmig, lappig, verbogen, gewunden, zipfelig, kraus oder bizarr ins Spiel bringen. Die Stiele kann man als längsrippig, gekammert oder grubig beschreiben. Die Farben von Hut und Stiel gleichen sich, sind düster hell- bis dunkelgrau bis nahezu schwarz. Manchmal findet man Zwergformen, die nur 3 cm hoch sind, ich habe aber auch schon Exemplare mit 11 cm Höhe gesehen. 
 
-<figure class="standard">
-  {% include bild.html datei="/bilder/helvella_lacunosa_02_gw.jpg" %}
-  <figcaption>Ob sich die Biene von der Grubenlorchel Nektar erhofft? (Foto: Gerd Wartha)</figcaption>
-</figure>
+<div class="figure">
+  <figure class="standard">
+    {% include bild.html datei="/bilder/helvella_lacunosa_02_gw.jpg" %}
+    <figcaption>Ob sich die Biene von der Grubenlorchel Nektar erhofft? (Foto: Gerd Wartha)</figcaption>
+  </figure>
+</div>
 
 Über den Speisewert der Grubenlorchel gehen die Meinungen auseinander. Ewald Gerhardt (Der große BLV-Pilzführer für unterwegs) und Andreas Gminder (Handbuch für Pilzsammler) halten sie für essbar, die Herausgeber von 123pilze nur für bedingt und meinen, sie könnte den Giftstoff Gyromitrin enthalten
 
-<figure class="standard">
-  {% include bild.html datei="/bilder/helvella_lacunosa_03_dg.jpg" unterschrift="" %}
-  {% include bild.html datei="/bilder/helvella_lacunosa_04_dg.jpg" %}
-  <figcaption>Linkes Bild: Hier verstecken sich einige Grubenlorcheln unter frischem Grün</figcaption>
-</figure>
+<div class="figure">
+  <figure class="standard">
+    {% include bild.html datei="/bilder/helvella_lacunosa_03_dg.jpg" %}
+    {% include bild.html datei="/bilder/helvella_lacunosa_04_dg.jpg" %}
+    <figcaption>Linkes Bild: Hier verstecken sich einige Grubenlorcheln unter frischem Grün</figcaption>
+  </figure>
+</div>
 
