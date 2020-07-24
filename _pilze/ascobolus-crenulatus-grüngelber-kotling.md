@@ -22,8 +22,10 @@ Die [Apothecien](Apothecien "Glossar") des Grüngelben Kotlings erreichen lt. Li
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/ascobolus_crenulatus_02_fk.jpeg" %}
-    {% include bild.html datei="/bilder/ascobolus_crenulatus_03_fk.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/ascobolus_crenulatus_02_fk.jpeg" %}
+      {% include bild.html datei="/bilder/ascobolus_crenulatus_03_fk.jpg" %}
+    </div>
     <figcaption>Diese beiden Fotos von Frank Kaster zeigen die aus dem <a href="Hymenium" title="Glossar">Hymenium</a> herausragenden Asci als dunkle Fleckchen</figcaption>
   </figure>
 </div>
@@ -32,9 +34,11 @@ Die Fruchtkörper wachsen auf Kot verschiedener Tiere wie Rehe, Schafe, Hasen, K
 
 <div class="figure">
   <figure class="klein">
-    {% include bild.html datei="/bilder/ascobolus_crenulatus_04_fk.jpg" unterschrift="Asci mit unreifen Sporen" %}
-    {% include bild.html datei="/bilder/ascobolus_crenulatus_05_fk.jpg" unterschrift="Paraphysen" %}
-    {% include bild.html datei="/bilder/ascobolus_crenulatus_06_fk.jpg" unterschrift="Sporen" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/ascobolus_crenulatus_04_fk.jpg" unterschrift="Asci mit unreifen Sporen" %}
+      {% include bild.html datei="/bilder/ascobolus_crenulatus_05_fk.jpg" unterschrift="Paraphysen" %}
+      {% include bild.html datei="/bilder/ascobolus_crenulatus_06_fk.jpg" unterschrift="Sporen" %}
+    </div>
     <figcaption>3 Mikrofotos von Frank Kaster</figcaption>
   </figure>
 </div>

@@ -21,8 +21,10 @@ Der Spaltblättling ist ein Kosmopolit mit einem schier unüberschaubaren Wirtss
 
 <div class="figure">
   <figure>
-    {% include bild.html datei="/bilder/schizophyllum_commune_03_dg.jpg" %}
-    {% include bild.html datei="/bilder/schizophyllum_commune_04_dg-1024x901.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/schizophyllum_commune_03_dg.jpg" %}
+      {% include bild.html datei="/bilder/schizophyllum_commune_04_dg-1024x901.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -30,6 +32,8 @@ Der deutsche Name Spaltblättling beschreibt zwar überzeugend das Aussehen der 
 
 <div class="figure">
   <figure>
-    {% include bild.html datei="/bilder/schizophyllum_commune_01_dg-1536x795.jpeg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/schizophyllum_commune_01_dg-1536x795.jpeg" %}
+    </div>
   </figure>
 </div>

@@ -21,8 +21,10 @@ Mit etwas Erfahrung bekommt man eine recht gute Vorstellung davon, wie Ritterlin
 
 <div class="figure">
   <figure>
-    {% include bild.html datei="/bilder/tricholoma_equestre_03_dg.jpg" %}
-    {% include bild.html datei="/bilder/tricholoma_equestre_04_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/tricholoma_equestre_03_dg.jpg" %}
+      {% include bild.html datei="/bilder/tricholoma_equestre_04_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -32,7 +34,9 @@ Die Lamellen sind (zumindest jung) leuchtend gelb, der Stiel ist meist etwas hel
 
 <div class="figure">
   <figure>
-    {% include bild.html datei="/bilder/tricholoma_equestre_02_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/tricholoma_equestre_02_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -42,7 +46,9 @@ Im November 2006 wurde der gefährdete Pilz auch bei Waldacker im Jungwuchs von 
 
 <div class="figure">
   <figure>
-    {% include bild.html datei="/bilder/tricholoma_equestre_05_dg-1536x1152.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/tricholoma_equestre_05_dg-1536x1152.jpg" %}
+    </div>
   </figure>
 </div>
 

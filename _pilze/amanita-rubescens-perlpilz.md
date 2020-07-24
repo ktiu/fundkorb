@@ -20,9 +20,11 @@ Der Perlpilz gehört zu den guten Speisepilzen, jedoch sollten sich Anfänger vo
 
 <div class="figure">
   <figure class="klein">
-    {% include bild.html datei="/bilder/amanita_rubescens_02_dg-768x702.jpg" %}
-    {% include bild.html datei="/bilder/amanita_rubescens_03_dg.jpg" %}
-    {% include bild.html datei="/bilder/amanita_rubescens_04_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_rubescens_02_dg-768x702.jpg" %}
+      {% include bild.html datei="/bilder/amanita_rubescens_03_dg.jpg" %}
+      {% include bild.html datei="/bilder/amanita_rubescens_04_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -30,7 +32,9 @@ Wichtiger Hinweis: Der Perpilz ist (wie viele andere Speisepilze auch) roh gifti
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_pantherina-amanita_rubescens_06_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_pantherina-amanita_rubescens_06_dg.jpg" %}
+    </div>
     <figcaption>Um den Perlpilz sicher vom giftigen Pantherpilz zu unterscheiden, muss man schon genau hinschauen und wissen, auf welche Merkmale man achten muss.</figcaption>
   </figure>
 </div>

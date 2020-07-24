@@ -19,8 +19,10 @@ published: true
 
 <div class="figure">
   <figure>
-    {% include bild.html datei="/bilder/russula_cyanoxantha_01_dg.jpg" %}
-    {% include bild.html datei="/bilder/russula_cyanoxantha_02_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/russula_cyanoxantha_01_dg.jpg" %}
+      {% include bild.html datei="/bilder/russula_cyanoxantha_02_dg.jpg" %}
+    </div>
   </figure>
 </div>
  
@@ -29,7 +31,9 @@ Was auf den ersten Blick nicht plausibel zu sein scheint: Täublinge und Milchli
 
 <div class="figure">
   <figure>
-    {% include bild.html datei="/bilder/russula_cyanoxantha_03_dg-1536x1123.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/russula_cyanoxantha_03_dg-1536x1123.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -37,8 +41,10 @@ Zu den farblich enorm variablen Arten gehört auch der Frauentäubling. Die Farb
 
 <div class="figure">
   <figure>
-    {% include bild.html datei="/bilder/russula_cyanoxantha_04_dg-1536x1197.jpg" %}
-    {% include bild.html datei="/bilder/russula_cyanoxantha_05_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/russula_cyanoxantha_04_dg-1536x1197.jpg" %}
+      {% include bild.html datei="/bilder/russula_cyanoxantha_05_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -72,6 +78,8 @@ Er wächst vor allem in Laubwäldern auf sandigen Böden und ist Mykorrhizapartn
 
 <div class="figure">
   <figure class="gross">
-    {% include bild.html datei="/bilder/russula_cyanoxantha_06_gg.jpg" %}  
+    <div class="bilder">
+      {% include bild.html datei="/bilder/russula_cyanoxantha_06_gg.jpg" %}  
+    </div>
   </figure>
 </div>

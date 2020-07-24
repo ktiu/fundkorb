@@ -17,7 +17,9 @@ published: true
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_pantherina_02_dg.jpg"%}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_pantherina_02_dg.jpg"%}
+    </div>
   </figure>
 </div>
 
@@ -25,7 +27,9 @@ Um die verschiedenen Wulstlingsarten (Gattung Amanita) zu unterscheiden, ist ins
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_pantherina_03_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_pantherina_03_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -35,12 +39,13 @@ Der Pantherpilz wächst von Juli bis Oktober in Laub- und Nadelwäldern, seine M
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_pantherina_01_dg.jpg" %}
-    {% include bild.html datei="/bilder/amanita_pantherina_04_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_pantherina_01_dg.jpg" %}
+      {% include bild.html datei="/bilder/amanita_pantherina_04_dg.jpg" %}
+    </div>
     <figcaption>Zwei Fotos zeigen deutlich: bevorzugter Baumpartner ist die Eiche. Man sieht es an den Eicheln.</figcaption>
   </figure>
 </div>
-
 
 Pantherpilze enthalten in stark wechselnden Konzentrationen die Giftstoffe Ibotensäure, Muszimol und Bufotenin. Vergiftungen verlaufen ähnlich jedoch meist deutlich stärker wie beim Fliegenpilz. Erste Symptome treten schon nach relativ kurzer Zeit (30 Minuten – 3 Stunden) in Form von Verwirrung, Sprach-, Seh- und motorischen Störungen (ähnlich einem Alkoholrausch) und Halluzinationen auf. Ein tiefer Schlaf beendet nach 10 bis 15 Stunden das Pantherina-Syndrom. Zitat aus Bresinsky / Besl: Giftpilze: „Die Symptomatik wird einerseits sehr von der allgemeinen Stimmungslage beeinflusst und ist andererseits auch davon abhängig, ob es sich um eine ungewollte Vergiftung durch Verwechslung mit einem Speisepilz oder um eine freiwillige Einnahme zur Erzielung psychischer Effekte handelt. In Mitteleuropa steht im Gegensatz zu Nordamerika die Verwechslung im Vordergrund.“ Bei Personen mit Kreislauf- oder Herzerkrankungen kann eine Vergiftung tödlich enden.
 

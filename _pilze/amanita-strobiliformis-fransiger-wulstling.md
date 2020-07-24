@@ -21,8 +21,10 @@ Das Rhein-Main-Gebiet ist von sauren Böden geprägt und das zeigt sich allentha
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_strobiliformis_02_dg.jpg" %}
-    {% include bild.html datei="/bilder/amanita_strobiliformis_03_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_strobiliformis_02_dg.jpg" %}
+      {% include bild.html datei="/bilder/amanita_strobiliformis_03_dg.jpg" %}
+    </div>
     <figcaption>Am 10.Semptember 2014 im Frankfurter Hauptbahnhof</figcaption>
   </figure>
 </div>
@@ -31,7 +33,9 @@ Das Rhein-Main-Gebiet ist von sauren Böden geprägt und das zeigt sich allentha
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_strobiliformis_04_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_strobiliformis_04_dg.jpg" %}
+    </div>
     <figcaption>Am 25. Juni 2016 erschien der Fransige Wulstling auch in Dietzenbach neben einer Garageneinfahrt</figcaption>
   </figure>
 </div>

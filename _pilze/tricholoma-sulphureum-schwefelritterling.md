@@ -20,7 +20,9 @@ Der Schwefelritterling gehört zu den häufigeren und auffallenden Ritterlingen.
 
 <div class="figure">
   <figure>
-    {% include bild.html datei="/bilder/tricholoma_sulphureum_02_dg.jpeg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/tricholoma_sulphureum_02_dg.jpeg" %}
+    </div>
   </figure>
 </div>
 

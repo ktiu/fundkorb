@@ -19,7 +19,9 @@ Von null auf drei an einem Tag – manchmal verhilft der Zufall zu einem unverho
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/agaricus_xanthoderma_var._lepiotoides_02_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/agaricus_xanthoderma_var._lepiotoides_02_dg.jpg" %}
+    </div>
     <figcaption>Auch auf einem Grundstück an der Dietzenbacher Rodgaustraße fand ich die Varietät des Karbolchampignons. Die Fruchtkörper hatten sich neben einem Zementrohr hervorgezwängt.</figcaption>
   </figure>
 </div>
@@ -28,7 +30,9 @@ Der nächste Fund, diesmal in einer Parkanlage an der Rodgaustraße, ließ mich 
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/agaricus_xanthoderma_var._lepiotoides_-03_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/agaricus_xanthoderma_var._lepiotoides_-03_dg.jpg" %}
+    </div>
   </figure>
 </div>
 

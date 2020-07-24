@@ -18,7 +18,9 @@ published: true
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_vaginata_01_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_vaginata_01_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -26,7 +28,9 @@ Der Name Scheidenstreifling ist eine Kurzbeschreibung der zu den Wulstlingen geh
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_vaginata_02_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_vaginata_02_dg.jpg" %}
+    </div>
   </figure>
 </div>
 

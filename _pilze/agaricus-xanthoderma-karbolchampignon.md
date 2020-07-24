@@ -17,7 +17,9 @@ Die rund 60 in Europa vorkommenden Champignon-Arten sind oft nur schwer voneinan
 
 <div class="figure">
   <figure class="fliessend">
-    {% include bild.html datei="/bilder/agaricus_xanthoderma_02_dg-1024x667.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/agaricus_xanthoderma_02_dg-1024x667.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -27,14 +29,18 @@ Nicht selten sind enorme Massenvorkommen zu beobachten, wie zum Beispiel in eine
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/agaricus_xanthoderma_03_dg.jpg" %}
-    {% include bild.html datei="/bilder/agaricus_xanthoderma_04_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/agaricus_xanthoderma_03_dg.jpg" %}
+      {% include bild.html datei="/bilder/agaricus_xanthoderma_04_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/agaricus_xanthoderma_05_dg-1024x670.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/agaricus_xanthoderma_05_dg-1024x670.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -42,14 +48,18 @@ Solche Massenvorkommen wiederholen sich hier mehrmals im Jahr und wir haben einm
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/agaricus_xanthoderma_06_dg-1024x632.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/agaricus_xanthoderma_06_dg-1024x632.jpg" %}
+    </div>
     <figcaption>Hinter Gittern</figcaption>
   </figure>
 </div>
 
 <div class="figure">
   <figure class="fliessend">
-    {% include bild.html datei="/bilder/agaricus_xanthoderma_07_dg-1024x707.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/agaricus_xanthoderma_07_dg-1024x707.jpg" %}
+    </div>
   </figure>
 </div>
 

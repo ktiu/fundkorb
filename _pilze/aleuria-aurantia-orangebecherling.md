@@ -24,7 +24,9 @@ Ein Fund auf dem Buchschlager Friedhof in den 1960er-Jahren wird mir für immer 
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/aleuria_aurantia_02_hl.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/aleuria_aurantia_02_hl.jpg" %}
+    </div>
   </figure>
   <figcaption>Pilze im Winter zu fotografieren kann besonders reizvoll sein. Der ohnehin schon attraktive Orangebecherling kommt durch die Schneereste an seinem Fundort noch kontrastreicher zur Geltung. (Foto: Hermine Lotz-Winter)</figcaption>
 </div>

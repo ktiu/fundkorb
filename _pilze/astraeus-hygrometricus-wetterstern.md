@@ -2,9 +2,9 @@
 beschreibung:
   wissenschaftlich: Astraeus hygrometricus
   deutsch: Wetterstern
-  referenz: "(Pers.) Morgan 1889 "
+  referenz: "(Pers.) Morgan 1889"
   familie: Diplocystiaceae
-  synonym: hygrometricus = Feuchtigkeit messend
+  erlaeuterung: hygrometricus = Feuchtigkeit messend
 profil:
   aktualisiert: 2020-07-24
   autor_in: Dieter Gewalt

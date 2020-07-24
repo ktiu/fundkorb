@@ -25,7 +25,9 @@ Das rechte Exemplar auf dem obigen Foto sollte am nächsten Abend als Vorzeigeob
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_echinocephala_02_-bg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_echinocephala_02_-bg.jpg" %}
+    </div>
     <figcaption>Am 29.05.2016 auch am benachbarten Buchrainweiher gefunden. Hübscher Wuchsort direkt am Teichufer mit Blick auf das Wasser, in dem sich Kaulquappen tummelten. (Foto: Barbara Grüger)</figcaption>
   </figure>
 </div>

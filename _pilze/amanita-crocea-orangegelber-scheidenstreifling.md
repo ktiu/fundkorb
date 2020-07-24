@@ -20,7 +20,9 @@ Der Orangerote Scheidenstreifling gehört zu den etwas größeren und robusteren
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_crocea_10_gs.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_crocea_10_gs.jpg" %}
+    </div>
     <figcaption>Stimmungsvolles Foto von Gerhard Schuster</figcaption>
   </figure>
 </div>
@@ -29,7 +31,9 @@ Der Name Scheidenstreifling ist eigentlich schon eine Fruchtkörperbeschreibung:
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_crocea_09_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_crocea_09_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -37,16 +41,20 @@ Die nachfolgende Fotoserie zeigt die Entwicklung des Pilzes, der als nahezu gesc
 
 <div class="figure">
   <figure class="klein">
-    {% include bild.html datei="/bilder/amanita_crocea_02_dg.jpg" %}
-    {% include bild.html datei="/bilder/amanita_crocea_03_dg.jpg" %}
-    {% include bild.html datei="/bilder/amanita_crocea_04.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_crocea_02_dg.jpg" %}
+      {% include bild.html datei="/bilder/amanita_crocea_03_dg.jpg" %}
+      {% include bild.html datei="/bilder/amanita_crocea_04.jpg" %}
+    </div>
   </figure>
 </div>
 
 <div class="figure">
   <figure class="klein">
-    {% include bild.html datei="/bilder/amanita_crocea_05_dg.jpg" %}
-    {% include bild.html datei="/bilder/amanita_crocea_07_dg.jpg" %}
-    {% include bild.html datei="/bilder/amanita_crocea_08_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_crocea_05_dg.jpg" %}
+      {% include bild.html datei="/bilder/amanita_crocea_07_dg.jpg" %}
+      {% include bild.html datei="/bilder/amanita_crocea_08_dg.jpg" %}
+    </div>
   </figure>
 </div>

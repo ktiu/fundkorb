@@ -10,7 +10,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   datei: /bilder/amanita_phalloides_01_dg.jpg
-  anzeige: false
+  anzeige: true
 literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Amanita_phalloides.html
 published: true
@@ -18,7 +18,9 @@ published: true
 
 <div class="figure">
   <figure class="klein">
-    {% include bild.html datei="/bilder/amanita_phalloides_01_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_phalloides_01_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -26,16 +28,20 @@ Mit einem Anteil von ca. 90 Prozent aller tödlich verlaufenden Pilzvergiftungen
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_phalloides_03_dg.jpg" %}
-    {% include bild.html datei="/bilder/amanita_phalloides_06_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_phalloides_03_dg.jpg" %}
+      {% include bild.html datei="/bilder/amanita_phalloides_06_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
 <div class="figure">
   <figure class="klein">
-    {% include bild.html datei="/bilder/amanita_phalloides_05_dg.jpg" %}
-    {% include bild.html datei="/bilder/amanita_phalloides_09_xx.jpg" %}
-    {% include bild.html datei="/bilder/amanita_phalloides_02_dg.jpeg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_phalloides_05_dg.jpg" %}
+      {% include bild.html datei="/bilder/amanita_phalloides_09_xx.jpg" %}
+      {% include bild.html datei="/bilder/amanita_phalloides_02_dg.jpeg" %}
+    </div>
   </figure>
 </div>
 
@@ -45,7 +51,9 @@ Knollenblätterpilze enthalten nicht nur einen Giftstoff sondern gleich ein ganz
 
 <div class="figure">
   <figure class="klein">
-    {% include bild.html datei="/bilder/amanita_phalloides_var._alba_07_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_phalloides_var._alba_07_dg.jpg" %}
+    </div>
     <figcaption>Weiße Varietät des Grünen Knollenblätterpilzes (var. alba)</figcaption>
   </figure>
 </div>
@@ -70,7 +78,9 @@ Verwechslungen mit essbaren Champignons sind auf fahrlässigen Leichtsinn und Bl
 
 <div class="figure">
   <figure class="klein">
-    {% include bild.html datei="/bilder/amanita_phalloides_04_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_phalloides_04_dg.jpg" %}
+    </div>
     <figcaption>Bemerkenswerter Zufall: die weißen Hüllreste auf der Huthaut haben die Form eines stilisierten Pilzes (Garantiert keine Manipulation)</figcaption>
   </figure>
 </div>

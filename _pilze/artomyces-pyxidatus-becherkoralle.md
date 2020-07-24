@@ -28,8 +28,10 @@ published: true
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/artomyces_pyxidatus_02_dg.jpg" %}
-    {% include bild.html datei="/bilder/artomyces_pyxidatus_03_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/artomyces_pyxidatus_02_dg.jpg" %}
+      {% include bild.html datei="/bilder/artomyces_pyxidatus_03_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -39,7 +41,9 @@ Die Becherkorallen hielten noch zwei oder drei Jahre an ihren Holzstämmen aus, 
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/artomyces_pyxidatus_04_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/artomyces_pyxidatus_04_dg.jpg" %}
+    </div>
   </figure>
 </div>
 

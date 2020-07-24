@@ -18,7 +18,9 @@ published: true
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/agrocybe_praecox_02_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/agrocybe_praecox_02_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -26,7 +28,9 @@ Der Name „voreilend“ bezieht sich auf seine frühe Erscheinungszeit. In manc
 
 <div class="figure">
   <figure class="klein">
-    {% include bild.html datei="/bilder/agrocybe_praecox_03_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/agrocybe_praecox_03_dg.jpg" %}
+    </div>
     <figcaption>Bei Trockenheit und Sonneneinstrahlung wird die Huthaut schnell rissig.</figcaption>
   </figure>
 </div>

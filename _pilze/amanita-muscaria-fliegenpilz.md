@@ -18,7 +18,9 @@ Zwei der bei pilzkundlichen Führungen am häufigsten gestellten Fragen bekommt 
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_muscaria_03_dg.jpeg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_muscaria_03_dg.jpeg" %}
+    </div>
     <figcaption>Foto oben: An den am Boden liegenden Blättern erkennt man den Begleitbaum: die Birke. Ein anderer Baumpartner ist die Fichte. Die Nadeln auf dem Foto stammen allerdings von einer Kiefer. Die alte Pilzsammlerregel „Wo Fliegenpilze wachsen, findet man auch Steinpilze“ gilt also nur in Fichtenwäldern. Als typischer Herbstpilz erscheint er meist erst ab September/Oktober.</figcaption>
   </figure>
 </div>
@@ -27,7 +29,9 @@ In einem meiner ersten Pilzbücher (Haas/Gossner: Pilze Mitteleuropas, 1964) wir
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_muscaria_02_dg.jpeg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_muscaria_02_dg.jpeg" %}
+    </div>
     <figcaption>Dieses Foto zeigt Fliegenpilze in allen Entwicklungsstadien von ganz jung bis voll entwickelt. Bei einem wurden Teile der Huthaut abgezogen, wobei Überraschendes zum Vorschein kommt: das Fleisch darunter ist quittengelb!</figcaption>
   </figure>
 </div>
@@ -41,7 +45,9 @@ Kann nur die Hagebutte sein“
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_muscaria_-isabelle-_07_dg.jpg" %}
-    {% include bild.html datei="/bilder/amanita_muscaria_08_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_muscaria_-isabelle-_07_dg.jpg" %}
+      {% include bild.html datei="/bilder/amanita_muscaria_08_dg.jpg" %}
+    </div>
   </figure>
 </div>

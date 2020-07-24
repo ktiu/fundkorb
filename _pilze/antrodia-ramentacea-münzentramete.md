@@ -19,8 +19,10 @@ published: true
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/antrodia_ramentacea_01_wp.jpg" %}
-    {% include bild.html datei="/bilder/antrodia_ramentacea_02_wp.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/antrodia_ramentacea_01_wp.jpg" %}
+      {% include bild.html datei="/bilder/antrodia_ramentacea_02_wp.jpg" %}
+    </div>
   </figure>
 </div>
 

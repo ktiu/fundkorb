@@ -20,7 +20,9 @@ Der Gelbe Knollenblätterpilz dürfte der häufigste Wulstling im Rhein-Main-Geb
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_citrina_02_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_citrina_02_dg.jpg" %}
+    </div>
   </figure>
 </div>
 

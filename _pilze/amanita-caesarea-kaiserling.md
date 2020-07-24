@@ -24,7 +24,9 @@ Meine zweite Begegnung erlebte ich im Herbst 2003 in Wiesbaden. Mitten in der St
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/amanita_caesarea_02_tl.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_caesarea_02_tl.jpg" %}
+    </div>
   </figure>
 </div>
 

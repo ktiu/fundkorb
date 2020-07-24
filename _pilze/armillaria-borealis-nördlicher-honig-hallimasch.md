@@ -17,7 +17,9 @@ Bei einer pilzkundlichen Führung am 05.09.2014 an der Hohemark geriet ich in pe
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/armillaria_borealis_02_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/armillaria_borealis_02_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -25,7 +27,9 @@ Erst 2018 bin ich dem ungeklärten Fund durch Zufall auf die Spur gekommen. Ich 
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/armillaria_borealis_03_dg.jpg" %}
-    {% include bild.html datei="/bilder/armillaria_borealis_04_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/armillaria_borealis_03_dg.jpg" %}
+      {% include bild.html datei="/bilder/armillaria_borealis_04_dg.jpg" %}
+    </div>
   </figure>
 </div>

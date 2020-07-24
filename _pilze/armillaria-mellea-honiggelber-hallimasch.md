@@ -17,8 +17,10 @@ In der Gattung Armillaria gibt es in Mitteleuropa zwei häufige Arten, den Dunkl
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/armillaria_mellea_02_dg.jpg" %}
-    {% include bild.html datei="/bilder/armillaria_mellea_03_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/armillaria_mellea_02_dg.jpg" %}
+      {% include bild.html datei="/bilder/armillaria_mellea_03_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -26,8 +28,10 @@ Bei manchen Pilznamen rätselt der Laie über deren Bedeutung und Herkunft, und 
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/armillaria_mellea_04_dg.jpg" %}
-    {% include bild.html datei="/bilder/armillaria_mellea_05_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/armillaria_mellea_04_dg.jpg" %}
+      {% include bild.html datei="/bilder/armillaria_mellea_05_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -35,8 +39,10 @@ Aus heutiger Sicht muss man die abführende Wirkung etwas differenzierter sehen.
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/armillaria_mellea_06_dg.jpg" %}
-    {% include bild.html datei="/bilder/armillaria_mellea_07_dg-stadtwald.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/armillaria_mellea_06_dg.jpg" %}
+      {% include bild.html datei="/bilder/armillaria_mellea_07_dg-stadtwald.jpg" %}
+    </div>
   </figure>
 </div>
 

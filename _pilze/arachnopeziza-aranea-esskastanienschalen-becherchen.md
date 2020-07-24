@@ -15,7 +15,9 @@ published: true
 
 <div class="figure">
   <figure class="fliessend">
-    {% include bild.html datei="/bilder/arachnoscypha_aranea_01_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/arachnoscypha_aranea_01_dg.jpg" %}
+    </div>
     <figcaption>26. August 2005 im UG Rabenhorst bei Darmstadt</figcaption>
   </figure>
 </div>

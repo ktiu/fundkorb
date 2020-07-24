@@ -22,7 +22,9 @@ Die Grubenlorchel ist ein typischer Wegrandpilz. Das gilt auch für eine nahe Ve
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/helvella_lacunosa_02_gw.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/helvella_lacunosa_02_gw.jpg" %}
+    </div>
     <figcaption>Ob sich die Biene von der Grubenlorchel Nektar erhofft? (Foto: Gerd Wartha)</figcaption>
   </figure>
 </div>
@@ -31,8 +33,10 @@ Die Grubenlorchel ist ein typischer Wegrandpilz. Das gilt auch für eine nahe Ve
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/helvella_lacunosa_03_dg.jpg" %}
-    {% include bild.html datei="/bilder/helvella_lacunosa_04_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/helvella_lacunosa_03_dg.jpg" %}
+      {% include bild.html datei="/bilder/helvella_lacunosa_04_dg.jpg" %}
+    </div>
     <figcaption>Linkes Bild: Hier verstecken sich einige Grubenlorcheln unter frischem Grün</figcaption>
   </figure>
 </div>

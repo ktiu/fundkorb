@@ -22,7 +22,9 @@ Eine seiner markanten Eigenschaften ist seine Variabilität. Der Rötende Wirrli
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/abortiporus_biennis_02_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/abortiporus_biennis_02_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -30,7 +32,9 @@ Am häufigsten findet man Fruchtkörper, die unregelmäßig trichterig geformt s
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/abortiporus_biennis_03_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/abortiporus_biennis_03_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -38,7 +42,9 @@ Für die verwirrende Formenvielfalt von Abortiporus biennis stehen die folgenden
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/abortiporus_biennis_04_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/abortiporus_biennis_04_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -46,6 +52,8 @@ Am 9. November 2019 fanden wir den Wirrling im Hainbachtal bei Offenbach seitlic
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/abortiporus_biennis_05_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/abortiporus_biennis_05_dg.jpg" %}
+    </div>
   </figure>
 </div>

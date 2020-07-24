@@ -18,8 +18,10 @@ Adermooslinge sind seltene Pilze in einer wenig beachteten Gattung. Möglicherwe
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/arrhenia-retiruga_02_dg.jpg" %}
-    {% include bild.html datei="/bilder/arrhenia-retiruga_03_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/arrhenia-retiruga_02_dg.jpg" %}
+      {% include bild.html datei="/bilder/arrhenia-retiruga_03_dg.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -29,7 +31,9 @@ Der Schüsselförmige Adermoosling wird von manchen Autoren mit dem Spatelförmi
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/arrhenia-retiruga_04_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/arrhenia-retiruga_04_dg.jpg" %}
+    </div>
     <figcaption>27.01.2019: Arrhenia retiruga auch im Stadtgebiet von Dietzenbach gefunden, im Carré an der Rodgaustraße</figcaption>
   </figure>
 </div>

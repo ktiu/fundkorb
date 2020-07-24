@@ -19,7 +19,9 @@ published: true
 
 <div class="figure">
   <figure class="klein">
-    {% include bild.html datei="/bilder/sarcoscypha_occinea_01_tl.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/sarcoscypha_occinea_01_tl.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -29,7 +31,9 @@ Fruchtkörper pokal- bis becherförmig, alt auch stark abgeflacht tellerförmig,
 
 <div class="figure">
   <figure class="standard">
-    {% include bild.html datei="/bilder/sarcoscypha_occinea_03_tl.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/sarcoscypha_occinea_03_tl.jpg" %}
+    </div>
   </figure>
 </div>
 
@@ -37,7 +41,9 @@ Fruchtkörper pokal- bis becherförmig, alt auch stark abgeflacht tellerförmig,
 
 <div class="figure">
   <figure class="fliessend">
-    {% include bild.html datei="/bilder/sarcoscypha_coccinea_04_tl.jpg" nocrop=true %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/sarcoscypha_coccinea_04_tl.jpg" nocrop=true %}
+    </div>
   </figure>
 </div>
 

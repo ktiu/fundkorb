@@ -23,7 +23,9 @@ Um diesen Rindenpilz zu finden, muss man seine typischen Wirtspflanzen kennen: W
 
 <div class="figure">
   <figure class="klein">
-    {% include bild.html datei="/bilder/amylostereum_laevigatum_02_dg.jpg" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amylostereum_laevigatum_02_dg.jpg" %}
+    </div>
   </figure>
 </div>
 

@@ -19,8 +19,10 @@ published: true
 
 <div class="figure">
   <figure>
-    {% include bild.html datei="/bilder/amanita_excelsa_02_dg.jpg" zuschneiden="ja" %}
-    {% include bild.html datei="/bilder/amanita_excelsa_01_dg.jpg" zuschneiden="ja" %}
+    <div class="bilder">
+      {% include bild.html datei="/bilder/amanita_excelsa_02_dg.jpg" zuschneiden="ja" %}
+      {% include bild.html datei="/bilder/amanita_excelsa_01_dg.jpg" zuschneiden="ja" %}
+    </div>
   </figure>
 </div>
 
