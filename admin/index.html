@@ -35,7 +35,7 @@ CMS.registerEditorComponent({
                {label: 'klein', value: 'klein'},
                {label: 'fließend (klein)', value: 'fliessend'},
      ]}],
-  pattern: / *< *figure(?: +class *= *"([^"]*)")? *>((?:\s*\{% *include +bild.html +datei *= *"[^"]*"(?: +(?:legende|unterschrift) *= *"[^"]*")?(?: +nocrop *= *(?:true|false))?(?: +groesse *= *"[^"]*")? *%\})*)(?:\s*< *figcaption *>(.*)<\/ *figcaption *>)?\s*<\/ *figure *> *$/m,
+  pattern: /^(?: *< *div +class *= *"figure" *>)?\s*< *figure(?: +class *= *"([^"]*)")? *>((?:\s*\{% *include +bild.html +datei *= *"[^"]*"(?: +(?:legende|unterschrift) *= *"[^"]*")?(?: +nocrop *= *(?:true|false))?(?: +groesse *= *"[^"]*")? *%\})*)(?:\s*< *figcaption *>(.*)<\/ *figcaption *>)?\s*<\/ *figure *>(?:\s*<\/ *div *>)? *$/m,
   fromBlock: function(match) {
     mcopy = match.slice();
     var re = /\{% *include +bild.html +datei *= *"([^"]*)"(?: +(?:legende|unterschrift) *= *"([^"]*)")?(?: +nocrop *= *(true|false))?(?: +groesse *= *"[^"]*")?(?: +zuschneiden *= *"[^"]*")? *%\}/g;
@@ -58,18 +58,18 @@ CMS.registerEditorComponent({
       .map( bild => {
         var unterschrift = (Boolean(bild.unterschrift)) ? ' unterschrift="'+ bild.unterschrift.trim() +'"' : '';
         var nocrop = (bild.nocrop) ? ' nocrop=true' : '';
-        return '\n  {% include bild.html datei="' + bild.datei + '"' + unterschrift + nocrop +' %}';
+        return '\n    {% include bild.html datei="' + bild.datei + '"' + unterschrift + nocrop +' %}';
       }).join("");
-    var figcaption = (Boolean(obj.legende)) ? '\n  <figcaption>' + obj.legende.trim() +'</figcaption>' : ''
-    return '<figure class="' + obj.stil + '">' + bilder + figcaption + '\n</figure>'
+    var figcaption = (Boolean(obj.legende)) ? '\n    <figcaption>' + obj.legende.trim() +'</figcaption>' : ''
+    return '<div class="figure">\n  <figure class="' + obj.stil + '">' + bilder + figcaption + '\n  </figure>\n</div>'
   },
   toPreview: function(obj) {
     var legende = (Boolean(obj.legende)) ? '\n<figcaption>' + obj.legende + '</figcaption>' : '';
-    return '<figure class="'+obj.stil+'">\n' + obj.bilder.map( bild => {
+    return '<div class="figure">\n<figure class="'+obj.stil+'">\n' + obj.bilder.map( bild => {
       var caption = (Boolean(bild.unterschrift)) ? '<div class="caption">' + bild.unterschrift + '</div>' : '';
       var nocrop = (bild.nocrop) ? ' nocrop' : '';
       return '<div class="bild'+ nocrop +'"><img src="' + bild.datei + '">'+ caption +'</div>';
-    }).join('\n') + legende + '\n</figure>';
+    }).join('\n') + legende + '\n</figure>\n</div>';
   }
 });
 CMS.registerPreviewStyle("/admin/preview.css");
