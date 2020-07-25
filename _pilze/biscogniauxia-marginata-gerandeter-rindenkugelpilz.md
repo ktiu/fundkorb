@@ -24,7 +24,7 @@ Das Foto macht eigentlich eine Fruchtkörperbeschreibung überflüssig. Dieser P
   </figure>
 </div>
 
-Die Art gilt als selten. In Manfred Enderle: Die Pilzflora des Ulmer Raumes ist die Art nicht erwähnt, sie fehlt auch im Verbreitungsatlas (Krieglsteiner 1993). Die DGfM-Online-Kartierung Hessen weist neben dem Fund vom Maunzenweiher (det. Hermine Lotz-Winter) noch einen weiteren hessischen Nachweis von Helmut Sandau aus, ebenfalls in der Rhein-Main-Ebene (TK 5917.3.4, Mörfelden-Walldorf).
+Die Art gilt als selten. In Manfred Enderle: Die Pilzflora des Ulmer Raumes ist die Art nicht erwähnt, sie fehlt auch im Verbreitungsatlas (Krieglsteiner 1993). Die DGfM-Online-Kartierung Hessen weist neben dem Fund vom Maunzenweiher (det. Hermine Lotz-Winter) noch einen weiteren hessischen Nachweis von Helmut Sandau aus, ebenfalls in der Rhein-Main-Ebene (TK 5917.3.4, Mörfelden-Walldorf). 
 
 <div class="figure">
   <figure class="klein">
