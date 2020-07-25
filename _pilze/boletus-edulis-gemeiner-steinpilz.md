@@ -16,7 +16,7 @@ literatur:
       unseren Breiten vor Neid erblassen: "
     url: https://www.awl.ch/pilze/Pilzeernte_in_Russland-2.pdf
   - url: http://tintling.com/pilzbuch/arten/b/Boletus_edulis.html
-published: false
+published: true
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/boletus_edulis_01_dg.jpg" %}
