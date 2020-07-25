@@ -10,7 +10,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/agaricus_xanthoderma_var._lepiotoides_01_dg.jpg
+  datei: /bilder/agaricus_xanthoderma_var._lepiotoides_02_dg.jpg
 published: true
 ---
 
