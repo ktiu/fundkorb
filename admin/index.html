@@ -58,17 +58,19 @@ CMS.registerEditorComponent({
       .map( bild => {
         var unterschrift = (Boolean(bild.unterschrift)) ? ' unterschrift="'+ bild.unterschrift.trim() +'"' : '';
         var nocrop = (bild.nocrop) ? ' nocrop=true' : '';
-        return '\n      {% include bild.html datei="' + bild.datei + '"' + unterschrift + nocrop +' %}';
+        var gross = (bild.gross) ? ' gross=true' : '';
+        return '\n{% include bild.html datei="' + bild.datei + '"' + unterschrift + nocrop + gross +' %}';
       }).join("");
-    var figcaption = (Boolean(obj.legende)) ? '\n    <figcaption>' + obj.legende.trim() +'</figcaption>' : ''
-    return '<div class="figure">\n  <figure class="' + obj.stil + '">\n    <div class="bilder">' + bilder + '\n    </div>' + figcaption + '\n  </figure>\n</div>'
+    var figcaption = (Boolean(obj.legende)) ? ' legende="' + obj.legende.trim() +'"' : '';
+    var stil = (Boolean(obj.stil)) ? ' stil="' + obj.stil.trim() + '"' :  '';
+    return '{% include abbildung_start.html' + stil + ' %}' + bilder + '\n{% include abbildung_ende.html' + figcaption + ' %}';
   },
   toPreview: function(obj) {
     var legende = (Boolean(obj.legende)) ? '\n<figcaption>' + obj.legende + '</figcaption>' : '';
-    return '<div class="figure">\n<figure class="'+obj.stil+'">\n<div class="bilder">\n' + obj.bilder.map( bild => {
-      var caption = (Boolean(bild.unterschrift)) ? '<div class="caption">' + bild.unterschrift + '</div>' : '';
+    return '<div class="abbildung '+obj.stil+'">\n<figure>\n<div class="bilder">\n' + obj.bilder.map( bild => {
+      var caption = (Boolean(bild.unterschrift)) ? '<div class="unterschrift">' + bild.unterschrift + '</div>' : '';
       var nocrop = (bild.nocrop) ? ' nocrop' : '';
-      return '<div class="bild'+ nocrop +'"><img src="' + bild.datei + '">'+ caption +'</div>';
+      return '<div class="bild'+ nocrop +'"><div class="bildumschlag"><img src="' + bild.datei + '"></div>'+ caption +'</div>';
     }).join('\n') + '\n</div>' + legende + '\n</figure>\n</div>';
   }
 });

@@ -17,12 +17,7 @@ Die 5 bis 7 cm Ø erreichenden schwarzen Perithezien erscheinen als unregelmäß
 
 Andere Namen: Münzenförmige Kohlenbeere, Pfennig-Kohlenkruste
 
-<div class="figure">
-  <figure class="klein">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/biscogniauxia_nummularia_02_dg.jpg" %}
-      {% include bild.html datei="/bilder/biscogniauxia_nummularia_03_dg.jpg" %}
-    </div>
-    <figcaption>Diese beiden Bilder zeigen das Konidienstadium des Rindenkugelpilzes</figcaption>
-  </figure>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/biscogniauxia_nummularia_02_dg.jpg" %}
+{% include bild.html datei="/bilder/biscogniauxia_nummularia_03_dg.jpg" %}
+{% include abbildung_ende.html legende="Diese beiden Bilder zeigen das Konidienstadium des Rindenkugelpilzes" %}
