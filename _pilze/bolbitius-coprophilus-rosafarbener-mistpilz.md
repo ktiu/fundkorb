@@ -2,8 +2,8 @@
 beschreibung:
   wissenschaftlich: Bolbitius coprophilus
   deutsch: Rosafarbener Mistpilz
-  referenz: "(Peck) Hongo 1959 "
-  synonym: coprophilus = kotliebend
+  referenz: "(Peck) Hongo 1959"
+  erlaeuterung: coprophilus = kotliebend
   familie: Bolbitiaceae
 profil:
   aktualisiert: 2020-07-25
@@ -22,5 +22,3 @@ Diese wärmeliebende, möglicherweise in Europa eingeschleppte Art konnte schon 
 „Ein Haufen Pferdemist ist eine wahre Fundgrube für Pilzfreaks, auch und gerade zu Zeiten, da die Pilze im Wald eher spärlich fruktifizieren,“ hat Karin Montag einmal in einem informativen Artikel über dieses spezielle Substrat festgestellt, und hinzugefügt: „In einem Misthaufen herrscht auch bei kühlen Außentemperaturen um den Gefrierpunkt genügend Wärme, um bereits im Februar/März interessante Funde zu ermöglichen.“
 
 Falls man bei einem Fund des Rosafarbenen Mistpilzes Zweifel an seiner Diagnose haben sollte und sie mikroskopisch absichern möchte, hat Karin Montag auch einen wertvollen Tipp parat: „Sporen intensiv ocker braun, dickwandig, ellipsoidisch, leicht höckerig-eckig, was man aber nicht im Umriß ruhig liegender Sporen, sondern nur im schwimmenden Präparat an herumkullernden Sporen beobachten kann.“
-
-<!--EndFragment-->

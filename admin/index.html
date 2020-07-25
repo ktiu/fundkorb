@@ -21,7 +21,8 @@ CMS.registerEditorComponent({
       fields: [
         {name: 'datei', label: 'Datei', widget: 'image' },
         {name: 'unterschrift', label: 'Bildunterschrift', widget: 'string', required: false },
-        {name: 'nocrop', label: 'Nicht beschneiden', widget: 'boolean', default: false }
+        {name: 'nocrop', label: 'Nicht beschneiden', widget: 'boolean', default: false },
+        {name: 'gross', label: 'Immer gross anzeigen', widget: 'boolean', default: false }
       ]
     },
     {name: 'legende', label: 'Legende', widget: 'string', required: false},
@@ -35,14 +36,15 @@ CMS.registerEditorComponent({
                {label: 'klein', value: 'klein'},
                {label: 'fließend (klein)', value: 'fliessend'},
      ]}],
-  pattern: /^(?: *< *div +class *= *"figure" *>)?\s*< *figure(?: +class *= *"([^"]*)")? *>(?:\s*< *div +class *= *"bilder" *>)?((?:\s*\{% *include +bild.html +datei *= *"[^"]*"(?: +(?:legende|unterschrift) *= *"[^"]*")?(?: +nocrop *= *(?:true|false))?(?: +groesse *= *"[^"]*")? *%\})*)(?:\s*<\/ *div *>)?(?:\s*< *figcaption *>(.*)<\/ *figcaption *>)?\s*<\/ *figure *>(?:\s*<\/ *div *>)? *$/m,
+  //pattern: /^(?: *< *div +class *= *"figure" *>)?\s*< *figure(?: +class *= *"([^"]*)")? *>(?:\s*< *div +class *= *"bilder" *>)?((?:\s*\{% *include +bild.html +datei *= *"[^"]*"(?: +(?:legende|unterschrift) *= *"[^"]*")?(?: +nocrop *= *(?:true|false))?(?: +groesse *= *"[^"]*")? *%\})*)(?:\s*<\/ *div *>)?(?:\s*< *figcaption *>(.*)<\/ *figcaption *>)?\s*<\/ *figure *>(?:\s*<\/ *div *>)? *$/m,
+  pattern: /^ *\{% *include +abbildung_start.html(?: +stil *= *"([^"]*)")? *%\}\s*((?:\s*\{% *include +bild.html +datei *= *"[^"]*"(?: +unterschrift *= *"[^"]*")?(?: +nocrop *= *(?:true|false))?(?: +gross *=  *(?:true|false))? *%\})*)\s*\{% *include +abbildung_ende.html(?: +legende *= *"([^"]*)")? *%\} *$/m,
   fromBlock: function(match) {
     mcopy = match.slice();
-    var re = /\{% *include +bild.html +datei *= *"([^"]*)"(?: +(?:legende|unterschrift) *= *"([^"]*)")?(?: +nocrop *= *(true|false))?(?: +groesse *= *"[^"]*")?(?: +zuschneiden *= *"[^"]*")? *%\}/g;
+    var re = /\{% *include +bild.html +datei *= *"([^"]*)"(?: +unterschrift *= *"([^"]*)")?(?: +nocrop *= *(true|false))?(?: +gross *= *(true|false))? *%\}/g;
     var b = re.exec(mcopy[2]);
     var bilder = [];
     while (b != null) {
-      bilder.push({datei: b[1], unterschrift: b[2], nocrop: (b[3] === "true")});
+      bilder.push({datei: b[1], unterschrift: b[2], nocrop: (b[3] === "true"), gross: (b[4] === "true")});
       b = re.exec(mcopy[2]);
     }
     return {
@@ -70,7 +72,8 @@ CMS.registerEditorComponent({
     return '<div class="abbildung '+obj.stil+'">\n<figure>\n<div class="bilder">\n' + obj.bilder.map( bild => {
       var caption = (Boolean(bild.unterschrift)) ? '<div class="unterschrift">' + bild.unterschrift + '</div>' : '';
       var nocrop = (bild.nocrop) ? ' nocrop' : '';
-      return '<div class="bild'+ nocrop +'"><div class="bildumschlag"><img src="' + bild.datei + '"></div>'+ caption +'</div>';
+      var gross = (bild.gross) ? ' gross' : '';
+      return '<div class="bild'+ nocrop + gross +'"><div class="bildumschlag"><img src="' + bild.datei + '"></div>'+ caption +'</div>';
     }).join('\n') + '\n</div>' + legende + '\n</figure>\n</div>';
   }
 });
