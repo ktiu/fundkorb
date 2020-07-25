@@ -11,8 +11,27 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/biscogniauxia_marginata_04_hl.jpg
+  legende: "Foto: Hermine Lotz-Winter"
 published: true
 ---
 Das Foto macht eigentlich eine Fruchtkörperbeschreibung überflüssig. Dieser Pyrenomyzet hat aufgebogen gerandete Perithezien und ist an diesem Merkmal sicher zu erkennen. Sie entwickeln sich aus dem Holz heraus, sprengen dabei die Rinde und erreichen Durchmesser von bis zu 3 Zentimeter. Man findet sie ganzjährig an Laubholzästen und -stämmen. Unser Fund vom Maunzenweiher war an einem toten Ast seines mit Abstand häufigsten Wirtsbaums Eberesche (Sorbus) und zeigt die Form der reifen Fruchtköper.
 
+<div class="figure">
+  <figure class="standard">
+    <div class="bilder">
+      {% include bild.html datei="/bilder/biscogniauxia_marginata_01_dg.jpg" %}
+    </div>
+  </figure>
+</div>
+
 Die Art gilt als selten. In Manfred Enderle: Die Pilzflora des Ulmer Raumes ist die Art nicht erwähnt, sie fehlt auch im Verbreitungsatlas (Krieglsteiner 1993). Die DGfM-Online-Kartierung Hessen weist neben dem Fund vom Maunzenweiher (det. Hermine Lotz-Winter) noch einen weiteren hessischen Nachweis von Helmut Sandau aus, ebenfalls in der Rhein-Main-Ebene (TK 5917.3.4, Mörfelden-Walldorf).
+
+<div class="figure">
+  <figure class="standard">
+    <div class="bilder">
+      {% include bild.html datei="/bilder/biscogniauxia_marginata_02_dg.jpg" %}
+      {% include bild.html datei="/bilder/biscogniauxia_marginata_03_dg.jpg" %}
+    </div>
+    <figcaption>Wie Pockennarben erscheinen die durch die Rinde brechenden Perithezien</figcaption>
+  </figure>
+</div>
