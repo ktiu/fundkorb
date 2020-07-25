@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Bisporella citrina
   deutsch: Zitronengelbes Haarbecherchen
   referenz: "(Batsch) Korf & S.D.Carp. 1974 "
-  synonym: citrina = zitronengelb
+  erlaeuterung: citrina = zitronengelb
   familie: Helotiaceae
 profil:
   aktualisiert: 2020-07-25
@@ -17,12 +17,8 @@ Obwohl die kleinen Becherchen nur etwa 1 – 3 mm groß sind, bin ich schon gefr
 
 Wer sich schon ein wenig mit kleinen Ascomyzeten auskennt, wird allerdings kaum in Verlegenheit kommen, einen Experten einzuschalten. Das obige Foto zeigt, wie die winzigen Becherchen auszusehen haben, sodass sich eine wortreiche Beschreibung erübrigt.
 
-<div class="figure">
-  <figure class="standard">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/bisporella_citrina_02_dg.jpg" %}
-    </div>
-  </figure>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/bisporella_citrina_02_dg.jpg" %}
+{% include abbildung_ende.html %}
 
 So winzige Pilzchen werden im Allgemeinen leicht übersehen, was auf unsere hier gezeigte Art aber kaum zutrifft. Ihre leuchtend gelbe Farbe lässt sie trotz ihrer Kleinheit leicht erkennen.

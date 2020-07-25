@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: Agaricus xanthoderma var. lepiotoides
   deutsch: Schirmlingsartiger Karbolchampignon
-  referenz: "Maire 1910 "
+  referenz: "Maire 1910"
   erlaeuterung: xanthoderma = Gelbhaut / lepiotoides = schirmlingsartig
   familie: Agaricaceae
 profil:
@@ -10,7 +10,6 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: 
   datei: /bilder/agaricus_xanthoderma_var._lepiotoides_01_dg.jpg
 published: true
 ---
