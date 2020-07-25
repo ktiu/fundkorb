@@ -15,6 +15,8 @@ published: true
 ---
 Die 5 bis 7 cm Ø erreichenden schwarzen Perithezien erscheinen als unregelmäßige krustenartige Flecken auf der Rinde von Ästen und Stämmen von Rotbuchen. Sie könnten mit Diatrype stigma, dem Flächigen Eckenscheibchen, verwechselt werden, das auf gleichen Substraten wächst, ebenfalls sehr häufig ist, sich aber unter der Rinde entwickelt und diese aufplatzen lässt.
 
+Andere Namen: Münzenförmige Kohlenbeere, Pfennig-Kohlenkruste
+
 <div class="figure">
   <figure class="klein">
     <div class="bilder">
