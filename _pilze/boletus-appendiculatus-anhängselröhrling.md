@@ -11,7 +11,7 @@ profil:
   autor_in: Thomas Lehr
 hauptbild:
   anzeige: true
-  datei: /bilder/aureoboletus_gentilis_01_tl.jpg
+  datei: /bilder/boletus_appendiculatus_01_tl.jpg
 published: true
 ---
 Der Anhängselröhrling ist ein gutes Beispiel für einen Pilz, der nicht zuletzt deswegen als relativ selten gilt, weil er zu Zeiten wächst, in denen man lieber im Schwimmbad als im Wald ist. Nach längerer trocken-heißer Phase fanden sich Ende August auf einem kleinen Areal mehr als 20 Fk im knochentrockenen Laub. Obwohl der Anhängselröhrling oft keine sehr markanten Merkmale besitzt, gelingt die Bestimmung recht gut. Entscheidend sind die gelben, auf Druck blauenden Poren, der genetzte Stiel (manchmal nur im obersten Stielbereich), das milde Fleisch, der braune Hut ohne Rottöne, der meist wurzelnde Stiel und das meist leicht blauende Fleisch.
