@@ -20,40 +20,24 @@ published: true
 ---
 Eine seiner markanten Eigenschaften ist seine Variabilität. Der Rötende Wirrling kann höchst unterschiedliche Wuchsformen annehmen und ist doch leicht zu erkennen, da es nur wenige Pilzarten mit einem [daedaloiden](daedaloid "Glossar") [Hymenium](Hymenium "Glossar") gibt. Wie ein solches gestaltet ist, zeigt die nachfolgende Abbildung. Es ähnelt dem eines Eichenwirrlings, ist aber sehr viel feiner ausgebildet. Bei frischen Fruchtkörpern rötet es auf Druck oder Reiben. Eine Besonderheit ist die Bildung von ungeschlechtlichen [Chlamydosporen](Chlamydosporen "Glossar") in fast allen Teilen des Fruchtkörpers.
 
-<div class="figure">
-  <figure class="standard">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/abortiporus_biennis_02_dg.jpg" %}
-    </div>
-  </figure>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/abortiporus_biennis_02_dg.jpg" %}
+{% include abbildung_ende.html %}
 
 Am häufigsten findet man Fruchtkörper, die unregelmäßig trichterig geformt sind und sich zur Basis hin stielartig verjüngen. Sie erreichen Durchmesser von bis zu 15 cm. Wachsen mehrere zusammen an einem Standort, können sie rosettenartig miteinander verwachsen sein. Es kommen aber auch knollige Fruchtkörper vor, die an den Seiten lamellige Poren haben. Die Konsistenz des Pilzes ist lederig zäh. Er wächst meist scheinbar auf dem Waldboden, hat aber stets Kontakt mit unterirdischen Baumwurzeln oder totem im Substrat verborgenen Holz.
 
-<div class="figure">
-  <figure class="standard">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/abortiporus_biennis_03_dg.jpg" %}
-    </div>
-  </figure>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/abortiporus_biennis_03_dg.jpg" %}
+{% include abbildung_ende.html %}
 
 Für die verwirrende Formenvielfalt von Abortiporus biennis stehen die folgenden Beispiele. Am 15. November 2018 fanden wir den Porling in Dietzenbach flach auf der Schnittfläche eines Ahornstumpfes wachsend, zum Teil mit oberseitigem [Hymenophor](Hymenophor "Glossar"):
 
-<div class="figure">
-  <figure class="standard">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/abortiporus_biennis_04_dg.jpg" %}
-    </div>
-  </figure>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/abortiporus_biennis_04_dg.jpg" %}
+{% include abbildung_ende.html %}
 
 Am 9. November 2019 fanden wir den Wirrling im Hainbachtal bei Offenbach seitlich an totem Buchenholz. Auch hier entsprach die Wuchsform keineswegs der häufigeren Trichterform. Die Oberfläche der reihig am Stamm wachsenden Hütchen waren ungewöhnlich stark zerklüftet, das Hymenophor lief abgestuft und [resupinat](resupinat "Glossar") an der Stammseite herab.
 
-<div class="figure">
-  <figure class="standard">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/abortiporus_biennis_05_dg.jpg" %}
-    </div>
-  </figure>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/abortiporus_biennis_05_dg.jpg" %}
+{% include abbildung_ende.html %}

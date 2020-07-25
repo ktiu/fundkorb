@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Amanita phalloides
   deutsch: Grüner Knollenblätterpilz
   referenz: "(Vaill. es Fr.) Link 1833 "
-  synonym: phalloides = einem Phallus ähnlich
+  erlaeuterung: phalloides = einem Phallus ähnlich
   familie: Amanitaceae
 profil:
   aktualisiert: 2020-07-24
@@ -16,47 +16,26 @@ literatur:
 published: true
 ---
 
-<div class="figure">
-  <figure class="klein">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/amanita_phalloides_01_dg.jpg" %}
-    </div>
-  </figure>
-</div>
-
 Mit einem Anteil von ca. 90 Prozent aller tödlich verlaufenden Pilzvergiftungen in Mitteleuropa ist der Grüne Knollenblätterpilz der mit Abstand gefährlichste Giftpilz. Jeder Pilzsammler sollte ihn genau kennenlernen. Dazu besteht zumindest in der Rhein-Main-Ebene ausreichend Gelegenheit, denn er ist hier in geeigneten Wäldern recht häufig. Er lebt in Symbiose (Mykorrhiza) mit verschiedenen Laubbäumen, ganz überwiegend mit Eichen, gefolgt von Buchen und Hainbuchen. Manchmal genügt ein eingestreuter unauffälliger Eichensämling, um ein Wachstum im Nadelwald vorzutäuschen.
 
-<div class="figure">
-  <figure class="standard">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/amanita_phalloides_03_dg.jpg" %}
-      {% include bild.html datei="/bilder/amanita_phalloides_06_dg.jpg" %}
-    </div>
-  </figure>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/amanita_phalloides_03_dg.jpg" %}
+{% include bild.html datei="/bilder/amanita_phalloides_06_dg.jpg" %}
+{% include abbildung_ende.html %}
 
-<div class="figure">
-  <figure class="klein">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/amanita_phalloides_05_dg.jpg" %}
-      {% include bild.html datei="/bilder/amanita_phalloides_09_xx.jpg" %}
-      {% include bild.html datei="/bilder/amanita_phalloides_02_dg.jpeg" %}
-    </div>
-  </figure>
-</div>
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/amanita_phalloides_05_dg.jpg" %}
+{% include bild.html datei="/bilder/amanita_phalloides_09_xx.jpg" %}
+{% include bild.html datei="/bilder/amanita_phalloides_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
 
 Wichtigstes Kennzeichen ist die sackartige häutige Scheide an der Stielbasis in Verbindung mit einer Stielmanschette (Stielring). Auf den obigen Fotos ist sehr schön zu sehen, wie der Pilzhut aus einer den ganz jungen Pilz völlig umschließenden Hülle schlüpft. Dies erklärt die Entstehung der häutigen Scheide, die beim ausgewachsenen Pilz in der Laubstreu verborgen sein kann. Die grüne Hutfarbe ist dagegen kein verlässliches Merkmal. Sie kann von fast weiß über hell gelblich, gelbgrün bis dunkel grasgrün variieren. Darüberhinaus existiert eine rein weiße Varietät, nicht zu vergessen zwei weiße, ebenfalls tödlich giftige Knollenblätterpilzarten, die in Mitteleuropa jedoch sehr viel seltener sind (Frühlings-Knollenblätterpilz Amanita verna, Kegelhütiger Knollenblätterpilz Amanita virosa).
 
 Knollenblätterpilze enthalten nicht nur einen Giftstoff sondern gleich ein ganzes Dutzend, die unterschiedliche Symptome verursachen. Das typische Phalloides-Syndrom zeigt einen zweiphasigen Verlauf bei einer Latenzzeit von 6 bis 24 Stunden. Die erste Phase besteht aus plötzlich einsetzender Übelkeit mit Bauchschmerzen und Bauchkoliken, verbunden mit Erbrechen und wässrigen, schließlich blutigen Durchfällen. Nach einer trügerischen Besserung setzt die zweite (hepatorenale) Phase mit Druckempfindlichkeit der Leber, Gelbsucht, Magen- Darmblutungen, Oligurie und Anurie (Funktionsminderung der Nieren) und Bewusstseinsstörungen ein. Ohne klinische Behandlung endet diese in der Regel mit dem Tod, der meist 4 bis 7 Tage nach der Pilzmahlzeit eintritt (Bresinski / Besl: Giftpilze)
 
-<div class="figure">
-  <figure class="klein">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/amanita_phalloides_var._alba_07_dg.jpg" %}
-    </div>
-    <figcaption>Weiße Varietät des Grünen Knollenblätterpilzes (var. alba)</figcaption>
-  </figure>
-</div>
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/amanita_phalloides_var._alba_07_dg.jpg" %}
+{% include abbildung_ende.html legende="Weiße Varietät des Grünen Knollenblätterpilzes (var. alba)" %}
 
 Hier eine stichwortartige Zusammenfassung der wichtigsten Eigenschaften und Merkmale des Grünen Knollenblätterpilzes:
 
@@ -76,11 +55,6 @@ Sporenpulverfarbe: weiß
 
 Verwechslungen mit essbaren Champignons sind auf fahrlässigen Leichtsinn und Blindheit für eindeutige Merkmale zurückzuführen, etwa so, als könne man einen Apfel nicht von einer Orange unterscheiden. Champignons haben nie rein weiße Lamellen. Diese sind jung zartrosa und verfärben sich zunehmend über braun zu schwarz. Champignons haben niemals eine häutige Scheide am Stielgrund.
 
-<div class="figure">
-  <figure class="klein">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/amanita_phalloides_04_dg.jpg" %}
-    </div>
-    <figcaption>Bemerkenswerter Zufall: die weißen Hüllreste auf der Huthaut haben die Form eines stilisierten Pilzes (Garantiert keine Manipulation)</figcaption>
-  </figure>
-</div>
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/amanita_phalloides_04_dg.jpg" %}
+{% include abbildung_ende.html legende="Bemerkenswerter Zufall: die weißen Hüllreste auf der Huthaut haben die Form eines stilisierten Pilzes (Garantiert keine Manipulation)" %}

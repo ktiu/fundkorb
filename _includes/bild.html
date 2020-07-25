@@ -1,4 +1,6 @@
-<div class="bild{% if include.nocrop %} nocrop{% endif %}">
-  <img src="{{ include.datei | relative_url }}" {% if include.legende %} alt="{{ include.unterschrift }}"{% endif %}>
-  {% if include.unterschrift %}<div class="caption">{{include.unterschrift}}</div>{% endif %}
+<div class="bild{% if include.gross %} gross{% endif %}{% if include.nocrop %} nocrop{% endif %}">
+  <div class="bildumschlag">
+    <img src="{{ include.datei | relative_url }}" {% if include.unterschrift %} alt="{{ include.unterschrift }}"{% endif %}>
+  </div>
+  {% if include.unterschrift %}<div class="unterschrift">{{include.unterschrift}}</div>{% endif %}
 </div>

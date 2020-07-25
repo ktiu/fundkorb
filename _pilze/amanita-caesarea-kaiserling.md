@@ -22,12 +22,8 @@ Meine zweite Begegnung erlebte ich im Herbst 2003 in Wiesbaden. Mitten in der St
 
 > „Obwohl ich den Wiesbadener Park jetzt seit mehr als drei Jahren ziemlich regelmäßig begehe, ist er immer wieder für eine Überraschung gut. Nach einer ganzen Reihe von seltenen Dickröhrlings-, Täublings- und Milchlingsarten kam im Herbst 2003 eine weitere Rarität, diesmal aus der Gattung Amanita, hinzu: der bekannte Kaiserling. Obwohl die drei Fruchtkörper nicht mehr die frischesten waren, ließ sich der markante Pilz eindeutig ansprechen. Der orangerote, gelblich ausblassende Hut mit dem deutlich gerieften Rand, die gelben Lamellen, der ebenfalls gelbe Stiel und die sackartige, lappige Scheide unterscheiden den Kaiserling eindeutig von allen „Doppelgängern“. Es ist bezeichnend, dass die in Deutschland ohnehin nur sporadisch erscheinende Art in einem Jahr aufgetaucht ist, in dem die Witterungsbedingungen mit dem langen, sehr heißen und trockenen Sommer Mittelmeerverhältnisse im Rhein Main-Gebiet vorgetäuscht haben.“
 
-<div class="figure">
-  <figure class="standard">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/amanita_caesarea_02_tl.jpg" %}
-    </div>
-  </figure>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/amanita_caesarea_02_tl.jpg" %}
+{% include abbildung_ende.html %}
 
 Laut Verbreitungsatlas (Krieglsteiner, 1991) gibt es in der Rhein-Main-Ebene drei weitere Nachweise für diese faszinierende Art. Eine mir per Mail zugegangene Fundmeldung aus dem Main-Kinzig-Kreis konnte weder durch Fotos noch durch Eksikkate belegt werden.

@@ -23,12 +23,7 @@ Ich erinnere mich noch gut, ihn während der 1980er Jahre in der von Jochen Janz
 
 Das rechte Exemplar auf dem obigen Foto sollte am nächsten Abend als Vorzeigeobjekt bei der Frankfurter Pilzberatung dienen und wurde zu Hause in einer schattigen Balkonecke deponiert. Hier zeigte das Prachtstück, welche Kräfte noch in ihm steckten. Zunächst löste sich der Ring vom Hutrand, dann war eine bemerkenswerte Streckung des Stiels zu beobachten bei gleichzeitiger Krümmung um nahezu 90°, bis die Lamellenseite des ebenfalls weiter gewachsenen Hutes wieder in Gravitationsrichtung nach unten zeigte.
 
-<div class="figure">
-  <figure class="standard">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/amanita_echinocephala_02_-bg.jpg" %}
-    </div>
-    <figcaption>Am 29.05.2016 auch am benachbarten Buchrainweiher gefunden. Hübscher Wuchsort direkt am Teichufer mit Blick auf das Wasser, in dem sich Kaulquappen tummelten. (Foto: Barbara Grüger)</figcaption>
-  </figure>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/amanita_echinocephala_02_-bg.jpg" %}
+{% include abbildung_ende.html legende="Am 29.05.2016 auch am benachbarten Buchrainweiher gefunden. Hübscher Wuchsort direkt am Teichufer mit Blick auf das Wasser, in dem sich Kaulquappen tummelten. (Foto: Barbara Grüger)" %}
 

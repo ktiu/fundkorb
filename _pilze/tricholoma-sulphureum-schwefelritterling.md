@@ -15,15 +15,10 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/t/Tricholoma_sulphureum.html
 published: true
 ---
-
 Der Schwefelritterling gehört zu den häufigeren und auffallenden Ritterlingen. Er fällt wegen seiner schwefelgelben Farbe und mehr noch durch seinen widerwärtig leuchtgasartigen Geruch auf. An dieser Merkmalskombination ist er zweifelsfrei zu erkennen. Der Grünling [Tricholoma equestre]({% link _pilze/tricholoma-equestre-grünling.md %}) ist zwar ähnlich gefärbt, riecht aber mehlartig. Außerdem sind dessen Lamellen wesentlich dünner und dichtstehender.
 
-<div class="figure">
-  <figure>
-    <div class="bilder">
-      {% include bild.html datei="/bilder/tricholoma_sulphureum_02_dg.jpeg" %}
-    </div>
-  </figure>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/tricholoma_sulphureum_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
 
 Dass der Schwefelritterling giftig ist, sei nur am Rande erwähnt. Der abstoßende Geruch verhindert, ihn für die Küche in Betracht zu ziehen. Er tritt meist gesellig in Gruppen auf, gern an Wegrändern, sowohl in Laub- wie auch in Nadelwäldern. Mit Abstand häufigster Begleitbaum ist die Buche.

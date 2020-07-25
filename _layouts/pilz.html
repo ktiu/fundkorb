@@ -46,12 +46,9 @@ footer_scripts:
 </div>
 
 {% if page.hauptbild.anzeige and page.hauptbild.datei %}
-<figure>
-  {% include bild.html datei=page.hauptbild.datei groesse="gross" %}
-  {% if page.hauptbild.legende %}
-  <figcaption>{{page.hauptbild.legende}}</figcaption>
-  {% endif %}
-</figure>
+  {% include abbildung_start.html %}
+  {% include bild.html datei=page.hauptbild.datei nocrop=true %}
+  {% include abbildung_ende.html legende=page.hauptbild.legende %}
 {% endif %}
 
 {{ content }}

@@ -18,13 +18,9 @@ published: true
 
 Der Gelbe Knollenblätterpilz dürfte der häufigste Wulstling im Rhein-Main-Gebiet sein. Da er keine besondere Vorliebe für bestimmte Baumarten hat, ist er in nahezu allen Waldtypen präsent. Er enthält zwar das Krötengift Bufotenin, das eine beschleunigte Herztätigkeit verursachen kann, aber da dieser Inhaltsstoff beim Erhitzen zerstört wird, kann man die Art kaum als Giftpilz, jedoch auf keinen Fall als Speisepilz bezeichnen. Er soll ziemlich übel schmecken.
 
-<div class="figure">
-  <figure class="standard">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/amanita_citrina_02_dg.jpg" %}
-    </div>
-  </figure>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/amanita_citrina_02_dg.jpg" %}
+{% include abbildung_ende.html %}
 
 Wichtigstes Kennzeichen ist die scharf gerandete Knolle an der Stielbasis, die angeschnitten oder aufgebrochen deutlich nach Kartoffelkeller riecht. Die Hutfarben variieren von gelblich grün über blass gelb bis weiß, die scholligen Velumreste auf der Huthaut können fehlen oder abgewaschen sein. Ebenfalls nach Kartoffelkeimen riecht der in Nadelwäldern wachsende Porphyrbraune Wulstling (Amanita porphyria), dessen Huthaut (wie der Name besagt) porphyrbraun gefärbt ist.
 

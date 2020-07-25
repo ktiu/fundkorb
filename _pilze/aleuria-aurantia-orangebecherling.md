@@ -22,11 +22,6 @@ Orangebecherlinge wachsen gern zu mehreren oder vielen miteinander verknäuelt. 
 
 Ein Fund auf dem Buchschlager Friedhof in den 1960er-Jahren wird mir für immer in Erinnerung bleiben. Die Fläche von zwei Gräbern und dem schmalen Zwischenraum war zu etwa einem Viertel so dicht mit Hunderten von Orangebecherlingen bewachsen, dass zwischen ihnen nur wenig freier Boden zu erkennen war. Ein faszinierendes Bild, vor dem ich eine Weile staunend stehen geblieben bin. Leider hatte ich keine Kamera dabei und bin auch nicht auf die Idee gekommen, noch einmal den Fundort aufzusuchen, um zu fotografieren.
 
-<div class="figure">
-  <figure class="standard">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/aleuria_aurantia_02_hl.jpg" %}
-    </div>
-  </figure>
-  <figcaption>Pilze im Winter zu fotografieren kann besonders reizvoll sein. Der ohnehin schon attraktive Orangebecherling kommt durch die Schneereste an seinem Fundort noch kontrastreicher zur Geltung. (Foto: Hermine Lotz-Winter)</figcaption>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/aleuria_aurantia_02_hl.jpg" %}
+{% include abbildung_ende.html legende="Pilze im Winter zu fotografieren kann besonders reizvoll sein. Der ohnehin schon attraktive Orangebecherling kommt durch die Schneereste an seinem Fundort noch kontrastreicher zur Geltung. (Foto: Hermine Lotz-Winter)" %}

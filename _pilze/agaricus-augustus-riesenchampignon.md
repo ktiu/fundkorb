@@ -18,18 +18,13 @@ published: true
 
 Dieser relativ häufige und leicht kenntliche Champignon erschien 2016 schon sehr früh im Jahr und wurde allein in unserem „Carré“ (Dietzenbach, Rodgaustraße) an vier verschiedenen Stellen gefunden. Er fällt durch seine Größe, die gelb- bis dunkelbraune Hutschuppung und den Geruch nach Anis auf.
 
-<div class="figure">
-  <figure class="standard">
-    {% include bild.html datei="/bilder/agaricus_augustus_04_dg.jpg" %}
-    <figcaption>„Hinter Gittern“: Riesenchampignons in der Offenbacher Straße in Dietzenbach, am 2. Juni 2016</figcaption>
-  </figure>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/agaricus_augustus_04_dg.jpg" %}
+{% include abbildung_ende.html legende="„Hinter Gittern“: Riesenchampignons in der Offenbacher Straße in Dietzenbach, am 2. Juni 2016" %}
 
 Unter den Champignons mit schuppigem Hut gibt es auch einige giftige Arten, die zu den Karbolchampignons gezählt werden, z. B. Perlhuhn-Champignon (Agaricus praeclaresquamosus) und Rebhuhn-Champignon (Agaricus moelleri). Beide sind selten, riechen nicht nach Anis sondern nach Phenol (Karbol, Tinte, Krankenhaus) und sind vorwiegend in Wäldern anzutreffen.
 
-<div class="figure">
-  <figure class="standard">
-    {% include bild.html datei="/bilder/agaricus_augustus_02_dg.jpg" %}
-    {% include bild.html datei="/bilder/agaricus_augustus_03_dg.jpg" %}
-  </figure>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/agaricus_augustus_02_dg.jpg" %}
+{% include bild.html datei="/bilder/agaricus_augustus_03_dg.jpg" %}
+{% include abbildung_ende.html %}

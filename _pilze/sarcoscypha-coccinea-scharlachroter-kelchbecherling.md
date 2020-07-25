@@ -17,35 +17,23 @@ published: true
 
 24.02.2005 MTB 5916.3.4 Flörsheim, Kalkbruch an der Wiesenmühle, 95 m u. N.N. Feuchte, teilweise sehr moosreiche Böschung mit vorwiegend Crataegus, Sambucus, Cornus, Rosa, aber auch Juglans, Populus, Acer und Salix über lehmig bis tonigem, schwach bis deutlich kalkhaltigem Boden, dort auf bis zu armdicken, stark vermoosten und feuchten Ästen, 30 – 40 Fk; weitere Funde: 09.03.2005, Ostseite des Wickerbachs, ebenfalls im MTB 5916.3.4, drei Fk – Exs. u. Foto Th. Lehr
 
-<div class="figure">
-  <figure class="klein">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/sarcoscypha_occinea_01_tl.jpg" %}
-    </div>
-  </figure>
-</div>
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/sarcoscypha_occinea_01_tl.jpg" %}
+{% include abbildung_ende.html %}
 
 ### Makroskopische Beschreibung
 
 Fruchtkörper pokal- bis becherförmig, alt auch stark abgeflacht tellerförmig, mit mehr oder weniger deutlich abgesetztem Stiel; Becher rund bis oval oder unregelmäßig „nierenförmig“, Durchmesser 7,5 – 50 mm, Höhe des gesamten Fk: 10 – 45 mm; Innenseite leuchtend purpur-, blut- oder himbeerrot, glatt bis fein runzelig, Außenseite weißlich bis fleischosa oder orangelich, gelegentlich der Innenseite auch fast gleichfarbig, schwach furchig, weißlich behaart, vor allem am Becherrand oft geradezu weißlich bis gelblich-orange gezähnelt, aber auch glatt; Fleisch weißlich bis zartrosa, 5 – 45 mm dick, ohne Geruch, Geschmack nicht geprüft; Sporenpulver weiß.
 
-<div class="figure">
-  <figure class="standard">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/sarcoscypha_occinea_03_tl.jpg" %}
-    </div>
-  </figure>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/sarcoscypha_occinea_03_tl.jpg" %}
+{% include abbildung_ende.html %}
 
 ### Mikroskopische Beschreibung (an Frischmaterial)
 
-<div class="figure">
-  <figure class="fliessend">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/sarcoscypha_coccinea_04_tl.jpg" nocrop=true %}
-    </div>
-  </figure>
-</div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sarcoscypha_coccinea_04_tl.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
 
 Aci 8-sporig, 360 – 420 µm, hyalin, lugolnegativ; Paraphysen sehr schmal, 0,7 – 2 µm, an der Spitze teilweise bis 3 µm verdickt, mit orangefarbenen bis roten Pigment-„Pünktchen“ gefüllt; Sporen elliptisch, sehr selten an den Enden schwach sattelförmig abgeflacht, hyalin, ohne schleimige Hülle, mit vielen Blächen, die meist an den Polen konzentriert sind, sich aber auch (bei unreifen Sporen) in der ganzen Spore verteilen können, die Bläschen mit 0,5 – 2,7 (-3,4) µm Durchmesser (schon bei etwa 48 Stunden altem Sporenpulver konnte eine Tendenz der Bläschen zum Verklumpen an den Polen beobachtet werden, so dass dort teilweise nur 1 – 3 Bläschen mit einem Durchmesser von bis zu 6,5 µm Durchmesser zu sehen waren); äußeres Excipulum aus länglich-blasigen Elementen von 5 – 12 µm Breite; Haare 500 bis 700 x 2,5 – 5 µm, hyalin, entfernt septiert, teilweise verzweigt, mehr oder weniger gerade, zumindest ohne auffallende Verbiegungen oder Krümmungen, vielfach inkrustiert.
 

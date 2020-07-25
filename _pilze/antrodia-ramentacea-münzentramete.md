@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: Antrodia ramentacea
   deutsch: Münzentramete
-  referenz: "(Berk. & Broome) Donk 1966 "
+  referenz: "(Berk. & Broome) Donk 1966"
   familie: Fomitopsidaceae
   erlaeuterung: ramentacea = knospenschuppig
 hauptbild:
@@ -17,14 +17,10 @@ profil:
 published: true
 ---
 
-<div class="figure">
-  <figure class="standard">
-    <div class="bilder">
-      {% include bild.html datei="/bilder/antrodia_ramentacea_01_wp.jpg" %}
-      {% include bild.html datei="/bilder/antrodia_ramentacea_02_wp.jpg" %}
-    </div>
-  </figure>
-</div>
+{% include abbildung_start.html %}
+{% include bild.html datei="/bilder/antrodia_ramentacea_01_wp.jpg" %}
+{% include bild.html datei="/bilder/antrodia_ramentacea_02_wp.jpg" %}
+{% include abbildung_ende.html %}
 
 [Resupinat](resupinat "Glossar") wachsende Porlinge gibt es eine Menge. Sie sind nicht leicht zu bestimmen, aber diese kleine Art macht da eine Ausnahme. Sie erreicht nur Durchmesser von 2 bis 3 cm, weil sie gern dünnere Äste oder Zweige besiedelt, auf denen mitunter mehrere zusammenwachsen können. Ihre Farbe varriert von weißlich, gelblich bis zu einem hellen Braun, die Poren sind relativ groß und unregelmäßig geformt, die schmalen Ränder weiß. Ihren deutschen Namen verdanken sie ihrem oft runden, an Münzen erinnernden Umriss, ein anderer Name (Knospentramete) bezieht sich auf ihre geringe Größe.
 
