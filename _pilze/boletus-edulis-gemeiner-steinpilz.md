@@ -41,10 +41,20 @@ Merkmale, an denen man die vier mitteleuropäischen Steinpilzarten unterscheiden
 
 Gemeiner Steinpilz (Boletus edulis): meist speckig glänzende, zum Rand hin aufgehellte Huthaut; zwische Huthaut und -fleisch eine dunkle Linie, die den anderen Steinpilzarten fehlt; heller Stiel mit feiner weißer Netzzeichnung im oberen Teil (siehe Foto); bei Fichten, Buchen
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/boletus_edulis_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 Sommersteinpilz (Boletus reticulatus): Huthaut trocken, fast samtig bis filzig-schorfig; Stiel blass bräunlich, meist vollständig genetzt; bei Eichen  
 
 Schwarzhütiger Steinpilz, Bronzeröhrling (Boletus aereus): Huthaut dunkelbraun bis fast schwarz; Stiel hellbraun, kaum genetzt, eher marmoriert längsstreifig; bei Eichen, selten (Rote Liste im Bestand bedrohler Arten)  
 
 Kiefernsteinpilz (Boletus pinophilus): Huthaut dunkelbraun mit rötlichen Nuancen; Stiel bräunlich bis rotbraun mit unauffälliger Netzzeichnung; bei Kiefern, selten (Rote Liste im Bestand bedrohler Arten)
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/boletus_edulis_07_dg.jpg" %}
+{% include bild.html datei="/bilder/boletus_edulis_tui_06_dg.jpg" %}
+{% include bild.html datei="/bilder/boletus_edulis_09_dg.jpg" %}
+{% include abbildung_ende.html %}
 
 Die vier Steinpilzarten gehören zu den Dickröhrlingen (Gattung Boletus). Diese Gattung ist während der letzten Jahre in zahlreiche neue Gattungen aufgespalten worden, was viele Pilzfreunde irritiert und die Übersichtlichkeit einschränkt. Da in den meisten zur Zeit benutzten Pilzbüchern diese Aktualisierung nicht berücksichtigt ist und es sich in der Vergangenheit immer wieder gezeigt hat, dass taxonomische Änderungen keinen Bestand hatten und man zur früheren Benennung zurückgekehrt ist, werden in meinen Pilzporträts alle Dickröhrlinge weiterhin unter Boletus geführt.
