@@ -11,6 +11,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/bolbitius_coprophilus_01_dg.jpg
+literatur:
+  - url: http://tintling.com/pilzbuch/arten/b/Bolbitius_coprophilus.html
 published: true
 ---
 Um diesen Pilz zu finden, muss man sein obligatorisches Substrat absuchen: Thomas Lehr hat es in einem Fundkorb-Beitrag vom April 2009 so formuliert: „Mag auch mancher Spaziergänger den Mann auf dem hohen Misthaufen für einen Aprilscherz gehalten haben, der schöne kleine Pilz auf diesem Misthaufen war zumindest kein Scherz. Der Rosafarbene Mistpilz ist in seiner typischen Form mit einem wenigstens in der Mitte leuchtend rosafarbigen Hut und dem Standort auf Mist kaum zu verwechseln. Fehlen die Rosatöne, kann die Bestimmung schwierig werden, da man den Pilz in vielen älteren Büchern nicht findet und so schon bei der Benennung der Gattung in Schwierigkeiten kommen kann. In Zukunft gilt es, weitere Vorkommen genau zu beachten, um zu sehen, ob der bisher sehr seltene oder übersehene Pilz tatsächlich in Ausbreitung begriffen ist.“
