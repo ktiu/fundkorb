@@ -23,7 +23,7 @@ published: false
 {% include bild.html datei="/bilder/boletus_edulis_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-Um für klare Verhältmisse zu sorgen: Den Steinpilz gibt es nicht. Vier verschiedene Arten kommen in Mitteleuropa vor, die nicht leicht auseinanderzuhalten sind. Für die Küche ist das ohne Belang. Sie schmecken alle gleich gut.
+Um für klare Verhältmisse zu sorgen: Den Steinpilz gibt es nicht. Vier verschiedene Arten kommen in Mitteleuropa vor, die nicht leicht auseinanderzuhalten sind. Für die Küche ist das ohne Belang. Sie schmecken alle gleich gut. 
 
 Vorbildlich gewachsene Steinpilze zeichnen sich durch dicke, bauchige Stiele aus, die vor allem bei älteren Exemplaren auch schlank sein können. Sie haben nicht verfärbendes weißes Fleisch, die Röhrenschicht unter dem Hut (auch Schwamm genannt) ist jung weiß, beim Reifen wird sie erst gelblich, dann zunehmend olivgrünlich, auf Druck nicht verfärbend.
 
