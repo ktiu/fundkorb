@@ -15,6 +15,9 @@ hauptbild:
 published: true
 ---
 {% include abbildung_start.html stil="standard" %}
+
+Die Einmaligkeit seiner Gestalt macht den Roten Gitterling unverwechselbar. Lediglich im Hexeneistadium könnte der Finder fehlgeleitet werden. Die schon bald durchschimmernde zart rötliche Tönung lässt vielleicht an einen Tintenfischpilz denken. In mehr als 99,9% der Fälle wird man mit dieser Vermutung richtig liegen, denn der Gitterling ist in Mitteleuropa ein sehr seltener und nur sporadisch erscheinender Pilz. Nur wenige Naturfreunde hatten das Glück, ihn einmal zu Gesicht zu bekommen. Im Mittelmeerraum wie auch in tropischen und subtropischen Regionen ist die Art dagegen häufiger.
+
 {% include bild.html datei="/bilder/clathrus_ruber_01_fk.jpg" %}
 {% include abbildung_ende.html legende="Foto: Frank Kaster" %}
 
