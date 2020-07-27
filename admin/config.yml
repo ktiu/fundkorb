@@ -51,7 +51,7 @@ collections:
           - {label: "Text", name: "body", widget: markdown}
       - label: "Rezepte"
         name: "rezepte"
-        file: pages/40_kueche.md
+        file: _pages/40_kueche.md
         fields:
           - {label: "Überschrift", name: "title", widget: string}
           - {label: "Text", name: "body", widget: markdown}
