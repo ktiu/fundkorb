@@ -166,7 +166,7 @@ collections:
     identifier_field: "titel"
     label: "Verwandtschaften"
     summary: "{{titel}} – {{filename}}.{{extension}}"
-    folder: "_artikel"
+    folder: "_verwandtschaften"
     create: true
     sortable_fields: ["titel"]
     editor:
