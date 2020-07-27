@@ -8,11 +8,12 @@ profil:
   aktualisiert: 2020-07-27
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/colus_hirudinosus_01_dg.jpg
 published: true
 ---
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/colus_hirudinosus_01_dg.jpg" %}
 {% include bild.html datei="/bilder/colus_hirudinosus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
