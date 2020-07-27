@@ -15,7 +15,7 @@ published: true
 ---
 Die abgebildeten Pilze fanden wir am 23.05.2019 beim Heusenstammer Friedhof, wo sie auf einer kleinen Rasenfläche vor dem Eingangsportal wuchsen. Die trichterförmigen, schmutzig beigefarbigen bis orangebräunlichen Hüte hatten 2,5 bis 4 cm Durchmesser, waren leicht radialfaserig, etwas wellig und zum Rand hin heller. Die hellen, weit am Stiel herablaufenden Lamellen hatten einen leicht rosafarbenen Schimmer. Sie waren mehrfach untermischt und zum Teil gegabelt, die Übergangszone zum Stiel etwas filzig. Die vollen Stiele waren etwa 4 -5 mm dick, hell bräunlich bis graubeige (also ähnlich wie die Hüte gefärbt), längsfaserig und an der Basis filzig. Die Hutmitte färbte sich nach ca. 1 – 2 Minuten mit KOH braun. Die von Frank Kaster festgestellten Mikromerkmale stimmten annähernd mit den Lieraturangaben (u. a. bei Ewald Gerhardt) überein.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/clitocybe_squamulosa_sporen_02_fk.jpg" %}
 {% include bild.html datei="/bilder/clitocybe_squamulosa_basidie_03_fk.jpg" %}
 {% include bild.html datei="/bilder/clitocybe_squamulosa_hds-schnallen_04_fk.jpg" %}
