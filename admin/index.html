@@ -68,7 +68,7 @@ CMS.registerEditorComponent({
   },
   toPreview: function(obj) {
     var legende = (Boolean(obj.legende)) ? '\n<figcaption>' + obj.legende + '</figcaption>' : '';
-    return '<div class="abbildung '+obj.stil+'">\n<figure>\n<div class="bilder">\n' + obj.bilder.map( bild => {
+    return '<div class="nabbildung '+obj.stil+'">\n<figure class="figure">\n<div class="bilder">\n' + obj.bilder.map( bild => {
       var caption = (Boolean(bild.unterschrift)) ? '<div class="unterschrift">' + bild.unterschrift + '</div>' : '';
       var nocrop = (bild.nocrop) ? ' nocrop' : '';
       var gross = (bild.gross) ? ' gross' : '';
