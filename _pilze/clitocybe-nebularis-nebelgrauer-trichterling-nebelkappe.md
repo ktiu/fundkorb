@@ -31,3 +31,10 @@ Der Nebelgraue Trichterling ist ein typischer Spätherbstpilz. Er fällt durch s
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/clitocybe_nebularis_05_dg.jpg" %}
 {% include abbildung_ende.html legende="Aus dieser Perspektive sind Nebelkappen nicht unbedingt auf Anhieb zu erkennen (02.12.2019, Wald bei Dietzenbach)" %}
+
+Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Die Illustration von Gabriele Gossner (in: Hans Haas – Pilze Mitteleuropas, 1964) zeigt sehr schön, wie Nebelkappen auszusehen haben:
+ 
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/clitocybe_nebularis_06_gg.jpg" %}
+{% include abbildung_ende.html %}
