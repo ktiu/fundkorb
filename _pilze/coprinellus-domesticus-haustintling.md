@@ -41,7 +41,7 @@ Der Haustintling ist nicht selten, aber längst nicht so häufig wie der Glimmer
 
 Mikromerkmale:
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/coprinellus_domesticus_07_fk.jpg" %}
 {% include bild.html datei="/bilder/coprinellus_domesticus_08_fk.jpg" %}
 {% include bild.html datei="/bilder/coprinellus_domesticus_09_fk.jpg" %}
