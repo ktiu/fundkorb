@@ -15,13 +15,12 @@ collections:
     permalink: /verwandt/:name
   artikel:
     output: true
+  rezepte:
+    output: true
+  archiv:
+    output: false
   pages:
     output: true
-    order:
-      - termine.md
-      - pilze.md
-      - artikel.md
-      - kontakt.md
   termine:
     output: false
   quiz:
@@ -42,6 +41,12 @@ defaults:
     values:
       layout: "verwandtschaft"
       navi: "/pilze"
+  -
+    scope:
+      type: "rezepte"
+    values:
+      layout: "artikel"
+      navi: "/rezepte"
   -
     scope:
       type: "pages"

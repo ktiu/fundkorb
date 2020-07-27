@@ -23,7 +23,7 @@ Pilzsachverständige werden sehr häufig mit diesem Pilz konfrontiert. In den Sp
 
 Nicht selten sind enorme Massenvorkommen zu beobachten, wie zum Beispiel in einer Parkanlage in Dietzenbach an der Rodgaustraße. Bereits Ende April 2016 waren hier beim ersten Schub des Jahres weit über tausend Fruchtkörper erschienen. Die hohe Zahl ergab sich aus Hochrechnungen, nachdem einige kleine Flächen ausgezählt waren. Als Beleg füge ich hier einige Fotos an:
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/agaricus_xanthoderma_03_dg.jpg" %}
 {% include bild.html datei="/bilder/agaricus_xanthoderma_04_dg.jpg" %}
 {% include bild.html datei="/bilder/agaricus_xanthoderma_05_dg-1024x670.jpg" gross=true %}

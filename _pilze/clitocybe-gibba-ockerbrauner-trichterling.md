@@ -19,7 +19,7 @@ published: true
 ---
 Da es unter den Trichterlingen giftige Arten gibt, lassen die meisten Speisepilzsammler lieber die Finger von ihnen. Zu den essbaren und zudem recht gut kenntlichen gehört der häufige Ockerbraune Trichterling. Vom Habitus her ist er ein typischer Trichterling, hat also eine trichterförmig vertiefte Hutmitte, in deren Zentrum sich ein kleiner Buckel befindet. Ist dieser mal nicht zu sehen, so ist er doch meist mit dem Finger zu fühlen. Ganz junge Exemplare haben eher einen gewöbten Hut und die Trichterform stellt sich erst beim weiteren Wachstum ein. Die Hutfarbe lässt sich mit hell ockerbraun, gelbbraun oder blass lederfarben beschreiben. Die weit am Stiel herablaufenden Lamellen wie auch der Stiel sind etwas heller gefärbt. Letzterer ist weißlich überfasert, oft mit Myzelfilz an der mehr oder weniger verdickten Basis.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/clitocybe_gibba_02_dg.jpg" %}
 {% include bild.html datei="/bilder/clitocybe_gibba_03_dg.jpg" %}
 {% include abbildung_ende.html %}

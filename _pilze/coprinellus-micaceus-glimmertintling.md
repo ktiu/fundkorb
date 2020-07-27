@@ -17,7 +17,7 @@ published: true
 ---
 Die Glimmertintlinge gehören zur Gattung der Flockentintlinge (Coprinellus), deren Hüte durch aufliegende Glimmerschüppchen bereift erscheinen. Einige Arten dieser Gattung sind nur schwer auseinanderzuhalten. Als klassischer Doppelgänger des Glimmertintlings ist der ziemlich seltene Weidentintling *Coprinellus truncorum* von Bedeutung, der keineswegs nur bei Weiden zu finden ist. Begleitbäume sind also kein praktikables Unterscheidungskriterium. Beide Arten haben glatte Stiele, die des Weidentintlings erscheinen jung leicht bereift (Lupe!). 
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/coprinellus_micaceus_02_dg.jpg" %}
 {% include bild.html datei="/bilder/coprinellus_micaceus_01_dg.jpg" %}
 {% include abbildung_ende.html %}

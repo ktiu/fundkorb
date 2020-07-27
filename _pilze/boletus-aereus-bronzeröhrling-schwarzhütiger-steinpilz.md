@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Boletus aereus
   deutsch: Bronzeröhrling, Schwarzhütiger Steinpilz
   referenz: "Bull. 1789 "
-  synonym: aereus = bronzefarbig
+  erlaeuterung: aereus = bronzefarbig
   familie: Boletaceae
 profil:
   aktualisiert: 2020-07-25

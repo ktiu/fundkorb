@@ -22,7 +22,7 @@ Das Foto macht eigentlich eine Fruchtkörperbeschreibung überflüssig. Dieser P
 
 Die Art gilt als selten. In Manfred Enderle: Die Pilzflora des Ulmer Raumes ist die Art nicht erwähnt, sie fehlt auch im Verbreitungsatlas (Krieglsteiner 1993). Die DGfM-Online-Kartierung Hessen weist neben dem Fund vom Maunzenweiher (det. Hermine Lotz-Winter) noch einen weiteren hessischen Nachweis von Helmut Sandau aus, ebenfalls in der Rhein-Main-Ebene (TK 5917.3.4, Mörfelden-Walldorf). 
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/biscogniauxia_marginata_02_dg.jpg" %}
 {% include bild.html datei="/bilder/biscogniauxia_marginata_03_dg.jpg" %}
 {% include abbildung_ende.html legende="Wie Pockennarben erscheinen die durch die Rinde brechenden Perithezien" %}

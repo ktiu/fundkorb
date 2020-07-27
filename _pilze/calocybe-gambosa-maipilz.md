@@ -2,9 +2,9 @@
 beschreibung:
   wissenschaftlich: Calocybe gambosa
   deutsch: Maipilz
-  referenz: "(Fr.) Donk 1962 "
+  referenz: "(Fr.) Donk 1962"
   familie: Lyophyllaceae
-  synonym: gambosa = hufartig
+  erlaeuterung: "gambosa = hufartig"
 profil:
   aktualisiert: 2020-07-26
   autor_in: Dieter Gewalt
@@ -24,6 +24,5 @@ Man hüte sich vor dem ab Mai fruktifizierenden Ziegelroten Risspilz, der nicht 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/calocybe_gambosa_03_dg.jpg" %}
 {% include abbildung_ende.html %}
-
 
 Der lateinische Artname gambosa ist kaum nachvollziehbar. Was soll an diesem Pilz hufartig sein? Gemeint ist wohl, dass der Stiel des Maipilzes an der Basis mitunter etwas angeschwollen ist und den Erstbeschreiber Elias Fries an einen Pferdefuß erinnert hat.

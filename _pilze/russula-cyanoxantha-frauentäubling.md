@@ -17,7 +17,7 @@ profil:
 published: true
 ---
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_cyanoxantha_01_dg.jpg" %}
 {% include bild.html datei="/bilder/russula_cyanoxantha_02_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -30,7 +30,7 @@ Was auf den ersten Blick nicht plausibel zu sein scheint: Täublinge und Milchli
 
 Zu den farblich enorm variablen Arten gehört auch der Frauentäubling. Die Farbskala reicht bei ihm von gelb, grünlich, schmutzig graugrün, schiefergrau, grauviolett, rosalila bis zu einem wunderschönen lilaviolett. Oft sind die Hüte uneinheitlich koloriert und meist kommen einige Rostflecken hinzu, die etwas krustig strukturiert sein können – doch egal, in welcher Farbe oder Farbkombination er auch erscheinen mag – er hat ein Alleinstellungsmerkmal, an dem er immer zu erkennen ist. Er ist der einzige Täubling mit nicht splitternden, also biegsamen Lamellen, die auf Druck dazu neigen, sich aneinander zu schmiegen. Darüberhinaus ist er ein äußerst schmackhafter Pilz. Manche Kenner ziehen ihn sogar Pfifferling, Steinpilz & Co vor. Sie schätzen ihn nicht nur wegen seines nussigen Geschmacks, sondern auch wegen seiner im Vergleich zu Röhrlingen festeren Konsistenz. Er hat Biss!
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_cyanoxantha_04_dg-1536x1197.jpg" %}
 {% include bild.html datei="/bilder/russula_cyanoxantha_05_dg.jpg" %}
 {% include abbildung_ende.html %}

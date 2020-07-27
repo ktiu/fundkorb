@@ -4,8 +4,7 @@ beschreibung:
   deutsch: Narzissengelber Wulstling
   referenz: "(Fr.) Bertill. 1866 "
   familie: Amanitaceae
-  synonym: gemmata = mit Edelsteinen besetzt
-  erlaeuterung: ""
+  erlaeuterung: gemmata = mit Edelsteinen besetzt
 profil:
   aktualisiert: 2020-07-24
   autor_in: Dieter Gewalt
@@ -25,7 +24,7 @@ Er ist meist der erste Wulstling, der in unseren Wäldern erscheint (manchmal sc
 
 Der Narzissengelbe Wulstling ist im Rhein-Main-Gebiet gut verbreitet und relativ häufig. Ich habe den Mykorrhizapilz meist bei Kiefern, aber auch bei Fichten und in Laubwäldern gefunden. Er gilt als giftverdächtig, soll u. a. das hitzeinstabile Bufotenin enthalten.
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amanita_gemmata_03_dg.jpg" %}
 {% include bild.html datei="/bilder/amanita_gemmata_02_mm.jpg" %}
 {% include abbildung_ende.html legende="Das junge Exemplar, das beim Wachstum ein Moospolster in die Höhe gehoben hat, wurde am 22. August 2010 auf dem Grillplatz der Jügesheimer Waldfreizeitanlage fotografiert. Sieht aus,als hätte er unter einem Moosdach Schutz vor Regen oder Sonne gesucht. (Foto rechts: Margret Schwarz-Mohr)" %}

@@ -1,96 +1,98 @@
-.abbildung {
+.nabbildung {
   text-align: center;
   width: 100%;
 }
 
-.abbildung figure {
+.nabbildung figure {
   background-color: $figure-background;
-  display: table;
+  display: inline-table;
   margin: 1rem auto;
   max-width: 100%;
   padding: 5px 5px 0 0;
 }
 
-.abbildung .bilder {
-  display: inline-flex;
-  flex-flow: row wrap;
-  align-items: stretch;
-  justify-content: center;
-}
-
-.abbildung .bild {
-  display: flex;
-  align-items: stretch;
-  justify-content: space-between;
-  flex-direction: column;
-  flex: 1 1 280px;
-  padding: 5px;
-  margin: -5px -5px 0 0;
-  max-height: 98vh;
-}
-
-
-.abbildung .bildumschlag {
-  flex: 1 1 auto;
-  text-align: center;
-}
-
-.abbildung.klein .bild {
-  flex: 1 1 200px;
-  text-align: center;
-}
-
-.abbildung.klein .bildumschlag {
-  max-height: 350px;
-  max-width: 350px;
-}
-
-.abbildung .unterschrift {
-  flex: 0 0 auto;
-  padding: 3px;
-  color: $light;
-  background-color: fade-out($black, .3);
-  font-size: 0.8em;
-}
-
-
-.abbildung .bild.gross {
-  flex: 1 1 100%;
-}
-
-.abbildung figcaption {
+.nabbildung figcaption {
   display: table-caption;
   background-color: $figure-background;
-  caption-side:bottom;
+  caption-side: bottom;
   padding: 0 8px 5px 8px;
   font-size: 0.8em;
 }
 
-.abbildung img {
+.nabbildung .bilder {
+  display: inline-block;
+}
+
+.nabbildung .bild {
+  padding: 0 0 5px 5px;
+  display: inline-block;
+}
+
+.nabbildung img {
+  max-width: 100%;
+  height: auto;
+  max-height: 98vh !important;
+}
+
+.nabbildung .bild.gross {
+  flex-base: 100%;
+}
+.nabbildung .bild.gross img {
   width: 100%;
-  height: 100%;
+  height: auto;
+}
+
+.nabbildung.mittel .bilder,
+.nabbildung.klein .bilder {
+  display: inline-flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: top;
+}
+
+.nabbildung.klein .bild {
+  flex: 1 1 220px;
+}
+
+.nabbildung.mittel .bild {
+  flex: 1 1 280px;
+}
+
+.nabbildung.mittel img {
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
+}
+.nabbildung.klein img {
+  width: auto;
+  height: 300px;
   object-fit: cover;
 }
 
-.abbildung .bild.nocrop img {
+.nabbildung .bild.nocrop img {
   object-fit: contain;
 }
 
+.nabbildung .unterschrift {
+  display: table-caption;
+  caption-side: bottom;
+}
+
 @media (min-width: 576px) {
-  .abbildung.fliessend {
+  .nabbildung.fliessend {
     float: left;
     margin: 0.5rem 1rem 0.5rem 0;
     width: auto;
   }
 
-  .abbildung.fliessend figure {
+  .nabbildung.fliessend figure {
     width: auto;
     max-width: 100%;
     margin: 0;
     clear: both;
   }
 
-  .abbildung.fliessend img {
+  .nabbildung.fliessend img {
     max-height: 350px;
     max-width: 350px;
   }

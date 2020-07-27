@@ -2,9 +2,9 @@
 beschreibung:
   wissenschaftlich: Calocybe obscurissima
   deutsch: Dunkler Schönkopf
-  referenz: "(A. Pearson) M.M.Moser 1967 "
+  referenz: "(A. Pearson) M.M.Moser 1967"
   familie: Lyophyllaceae
-  synonym: obscurissima = sehr dunkel, verborgen
+  erlaeuterung: "obscurissima = sehr dunkel, verborgen"
 profil:
   aktualisiert: 2020-07-26
   autor_in: Dr. Lothar Krieglsteiner

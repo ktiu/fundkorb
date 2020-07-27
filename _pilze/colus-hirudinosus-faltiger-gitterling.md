@@ -12,13 +12,13 @@ hauptbild:
   datei: /bilder/colus_hirudinosus_01_dg.jpg
 published: true
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html %}
 {% include bild.html datei="/bilder/colus_hirudinosus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Bei einem Ausflug in Thailands Wildnis* in der Provinz Phetchaburi fanden wir eine Vielzahl an Pilzarten, von denen die hier abgebildeten Exemplare die spektakulärsten waren. Sie wuchsen unter abgelagerten Hölzern, die wir erst einmal zur Seite räumen mussten, um die auffallenden Fruchtkörper in ihrer ganzen Pracht sehen und fotografieren zu können. Auf den ersten Blick ähnelten sie dem auch bei uns vorkommenden Gitterling, unterschieden sich aber deutlich durch ihre faltigen Strukturen. Die Zugehörigkeit zur Familie Phallaceae (Stinkmorchelverwandte, auch Pilzblumen genannt) war offensichtlich und auch die Artbestimmung gelang mühelos mit einer Internet-Recherche. Wie bei allen mir bekannten Stinkmorchelverwandten entwickelt sich der Pilz in einem Hexenei, das am Scheitel aufplatzt und aus dem sich dann der fertile Fruchtkörper in die Höhe streckt und entfaltet. Er besteht im untersten, hell rosa gefärbten Teil aus vier oder sechs Säulen, die im oberen Teil in ein leuchtend rotes Gitter übergehen. Die Pilze verströmen einen unangenehmen, aasartigen Geruch, weshalb die ganze Gruppe im Englischen auch als „Stinkhorns“ bezeichnet wird.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/colus_hirudinosus_03_dg.jpg" %}
 {% include bild.html datei="/bilder/colus_hirudinosus_04_dg.jpg" %}
 {% include abbildung_ende.html %}

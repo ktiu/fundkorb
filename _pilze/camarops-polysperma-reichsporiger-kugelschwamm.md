@@ -29,7 +29,7 @@ Camarops polysperma fällt vor allem durch seine für einen Pyrenomyzeten beacht
 
 Im Anschnitt (Foto unten rechts) waren die bis zu 6 mm langen palisadenartig angeordneten [Perithezienkörper](Perithezien "Glossar") deutlich zu erkennen. Die einzelnen Perithezien sind dünn schlauchartig und auffallend lang.  Der Geruch der Fruchtkörper wird von Enderle & Hilber als maggiartig oder stark würzig (Haselwurz, Lupine) angegeben.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/camarops_polysperma_04_dg.jpg" %}
 {% include bild.html datei="/bilder/camarops_polysperma_05_dg.jpg" %}
 {% include abbildung_ende.html %}

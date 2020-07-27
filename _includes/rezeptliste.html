@@ -1,0 +1,21 @@
+
+<section id="rezeptliste">
+
+{% assign rezepte = site.rezepte | reverse %}
+{% for rezept in rezepte %}
+<div class="artikel clearfix">
+  <h2><a href="{{ rezept.url |relative_url}}">{{ rezept.titel }}</a></h2>
+  {% if rezept.vorschaubild %}
+  <div class="vorschaubild {% cycle "float-left mr-3", "float-right ml-3" %} mb-3">
+    <a href="{{ rezept.url | relative_url}}">
+      <img src="{{ rezept.vorschaubild | relative_url }}" />
+    </a>
+  </div>
+  {% endif %}
+  {% if rezept.author %}<p class="author">von {{rezept.author}}</p>{% endif %}
+  <p>{{ rezept.excerpt }}</p>
+  <a href="{{ rezept.url |relative_url}}">Mehr lesen</a>
+</div>
+{% endfor %}
+
+</section>

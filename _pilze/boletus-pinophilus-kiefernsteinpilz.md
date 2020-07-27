@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Boletus pinophilus
   deutsch: Kiefernsteinpilz
   referenz: "Pilát & Dermek 1973 "
-  synonym: pinophilus = Kiefern liebend
+  erlaeuterung: pinophilus = Kiefern liebend
   familie: Boletaceae
 profil:
   aktualisiert: 2020-07-26

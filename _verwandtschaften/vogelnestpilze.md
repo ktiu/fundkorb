@@ -1,17 +1,15 @@
 ---
 titel: Vogelnestpilze
 synonym:
-hauptbild: bilder/Nidularia_deformis_01_TL.jpg
+hauptbild:
+  datei: bilder/Nidularia_deformis_01_TL.jpg
+  anzeige: true
+  legende: "Nidularia deformis - Vollgestopfter Nestling (Foto: Thomas Lehr)"
 autor_in: Dieter Gewalt
 erstellt: 2009-03-15
 aktualisiert:
 literatur:
 ---
-
-<figure>
-  {% include bild.html datei="bilder/Nidularia_deformis_01_TL.jpg" %}
-  <figcaption>Nidularia deformis - Vollgestopfter Nestling (Foto: Thomas Lehr)</figcaption>
-</figure>
 
 Man hat noch keine brütenden Vögel auf ihnen sitzen gesehen, aber es gibt sie wirklich, diese Vogelnestpilze. Während sie im angelsächsischen Sprachraum den schönen und ihr Aussehen bildhaft beschreibenden Namen "Bird´s Nest Fungi" tragen, werden bei uns zumindest die häufigen Arten Teuerlinge genannt. Die etwas unverständlich erscheinende Bezeichnung stammt aus dem Mittelalter, als man anhand der Anzahl in ihnen liegender Peridiolen glaubte, auf Teuerungszeiten schließen zu können. Immerhin heißt auch bei uns die Gattung Nidularia "Nestlinge".
 

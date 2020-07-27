@@ -3,7 +3,8 @@ beschreibung:
   wissenschaftlich: Boletus impolitus
   deutsch: Fahler Röhrling
   referenz: "Fr. 1838 "
-  synonym: "Neuer Name: Hemileccinum impolitum    impolitus = unpoliert, schmucklos"
+  synonym: "Neuer Name: Hemileccinum impolitum"
+  erlaeuterung: "impolitus = unpoliert, schmucklos"
   familie: Boletaceae
 profil:
   aktualisiert: 2020-07-26

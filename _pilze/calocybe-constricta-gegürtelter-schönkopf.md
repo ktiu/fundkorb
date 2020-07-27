@@ -4,7 +4,8 @@ beschreibung:
   deutsch: Gegürtelter Schönkopf
   referenz: "(Fr.) Kühner 1938 "
   familie: Lyophyllaceae
-  synonym: "Neuer Name: Tricholomella constricta / constricta = gegürtelt"
+  synonym: "Neuer Name: Tricholomella constricta"
+  erlaeuterung: "constricta = gegürtelt"
 profil:
   aktualisiert: 2020-07-26
   autor_in: Michael Hornung

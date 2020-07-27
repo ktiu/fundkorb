@@ -24,7 +24,7 @@ Dieser relativ häufige und leicht kenntliche Champignon erschien 2016 schon seh
 
 Unter den Champignons mit schuppigem Hut gibt es auch einige giftige Arten, die zu den Karbolchampignons gezählt werden, z. B. Perlhuhn-Champignon (Agaricus praeclaresquamosus) und Rebhuhn-Champignon (Agaricus moelleri). Beide sind selten, riechen nicht nach Anis sondern nach Phenol (Karbol, Tinte, Krankenhaus) und sind vorwiegend in Wäldern anzutreffen.
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/agaricus_augustus_02_dg.jpg" %}
 {% include bild.html datei="/bilder/agaricus_augustus_03_dg.jpg" %}
 {% include abbildung_ende.html %}

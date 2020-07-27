@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: Amanita muscaria
   deutsch: Fliegenpilz
-  referenz: "(L.) Lam. 1783 "
+  referenz: "(L.) Lam. 1783"
   erlaeuterung: muscaria = Fliegen betreffend  (Musca domestica = Stubenfliege)
   familie: Amanitaceae
 profil:
@@ -33,7 +33,7 @@ Mit seinem roten Mäntelein
 Und seinem schwarzen Käppelein  
 Kann nur die Hagebutte sein“
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amanita_muscaria_-isabelle-_07_dg.jpg" %}
 {% include bild.html datei="/bilder/amanita_muscaria_08_dg.jpg" %}
 {% include abbildung_ende.html %}

@@ -27,13 +27,11 @@ An Haselkätzchen wächst *Ciboria coryli*, der Haselkätzchen-Stromabecherling,
 {% include bild.html datei="/bilder/ciboria_amentacea_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-
 Auch wir hatten zahlreiche Fruchtkörper aus der Parkanlage im Zentrum von Dietzenbach (alle unter Hasel, keine Erle weit und breit) eingesammelt und untersucht. Es waren ausschließlich Erlenkätzchenbecherlinge.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/ciboria_amentacea_04_dg.jpg" %}
 {% include abbildung_ende.html %}
-
 
 Die angeblich an Birkenkätzchen wachsenden Arten *Ciboria betulae* und *Ciboria rava* scheinen lt. Online-Kartierung extrem selten oder überhaupt dubios zu sein.
 Erlenkätzchen-Becherlinge sind kurz bis auffallend lang gestielt. Wir haben Stiellängen von bis zu 4 cm beobachtet, während die schalenförmigen Becher selbst nur maximal 1 cm erreichen. Diese sind innen wie außen hell ocker bis ockerbraun gefärbt. Der Becherrand ist jung heller und borstig (Lupe), dunkelt im Alter. Die Erscheinungszeit ist je nach Witterungsverlauf Januar bis erste Aprilhälfte.

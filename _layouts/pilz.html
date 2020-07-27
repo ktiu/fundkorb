@@ -46,7 +46,7 @@ footer_scripts:
 </div>
 
 {% if page.hauptbild.anzeige and page.hauptbild.datei %}
-  {% include abbildung_start.html %}
+  {% include abbildung_start.html stil="profilbild" %}
   {% include bild.html datei=page.hauptbild.datei nocrop=true %}
   {% include abbildung_ende.html legende=page.hauptbild.legende %}
 {% endif %}

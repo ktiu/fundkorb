@@ -21,7 +21,7 @@ Bei einer pilzkundlichen Führung am 05.09.2014 an der Hohemark geriet ich in pe
 
 Erst 2018 bin ich dem ungeklärten Fund durch Zufall auf die Spur gekommen. Ich wollte mich im Internet informieren, welche Pilze den Artnamen *borealis* (= nördlich) tragen, und siehe da: neben *Russula borealis* (jetzt R. laeta, Leuchtend roter Täubling), *Tricholoma boreale* und *Climacocystis borealis* (Nordischer Schwammporling) stieß ich auch auf Armillaria borealis, den Nordischen Hallimasch. Die zum Suchbegriff gehörigen Fotos zeigten bis auf ganz wenige Ausnahmen wenig Ähnlichkeit mit meinen Funden und Fotos, aber diese wenigen Ausnahmen waren absolut deckungsgleich. In Beschreibungen fand ich auch den Hinweis, dass die Art sehr helle Fruchtkörper mit charakteristischen Rosatönen, dunklerer Hutmitte und bräunlichen Schüppchen bilden kann. Offenbar ist auch *Armillaria borealis* eine ziemlich variable Hallimaschart. Bemerkenswert auch, dass die Art erst 1982 beschrieben worden ist.
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/armillaria_borealis_03_dg.jpg" %}
 {% include bild.html datei="/bilder/armillaria_borealis_04_dg.jpg" %}
 {% include abbildung_ende.html %}

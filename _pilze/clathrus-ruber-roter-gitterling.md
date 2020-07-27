@@ -22,7 +22,7 @@ Die Einmaligkeit seiner Gestalt macht den Roten Gitterling unverwechselbar. Ledi
 
 Das Rhein-Main-Gebiet und hier speziell der Raum Frankfurt ist laut Verbreiungsatlas eine der wenigen Verdichtungsareale. Unser Fund im Grüneburgpark bestätigt, was auch andernorts in unseren Breiten gilt: Clathrus ruber ist eine synanthrope, d. h. kulturfolgende Art. Hier hat Norbert Kühnberger seine eindrucksvolle Bilderserie aufgenommen, die die Entwicklung bis zum reifen Pilz dokumentiert. Und Fliegen sind immer dabei.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/clathrus_ruber_01_nk.jpg" %}
 {% include bild.html datei="/bilder/clathrus_ruber_02_nk.jpg" %}
 {% include bild.html datei="/bilder/clathrus_ruber_03_nk.jpg" %}

@@ -26,7 +26,7 @@ published: true
 
 > „Dieser schöne Pilz ähnelt auf den ersten Blick den großen Korallenpilzen der Gattung Ramaria, ist aber mit diesen überhaupt nicht verwandt. Schon die Astspitzen und der Verzweigungstyp sind eigenartig: Die fast senkrecht aufsteigenden Äste erweitern sich oben zu einem becherförmig eingeftieften Gipfel. Von dessen Rand erheben sich quirlförmig etwa 4 bis 6 jüngere Äste. Dies kann sich bei großen Fruchtkörpern mehrfach wiederholen. Die obersten Zweigenden sind wieder becherförmig. Dieser „pyxidate“ Verzweigungstyp tritt auch bei einigen Becherflechten auf, besonders bei Cladonia pyxidata. \[…] Die Becherkoralle ist die einzige große, verzweigte Art der Gattung in Europa.“
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/artomyces_pyxidatus_02_dg.jpg" %}
 {% include bild.html datei="/bilder/artomyces_pyxidatus_03_dg.jpg" %}
 {% include abbildung_ende.html %}

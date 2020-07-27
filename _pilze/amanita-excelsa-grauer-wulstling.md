@@ -17,7 +17,7 @@ literatur:
 published: true
 ---
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amanita_excelsa_02_dg.jpg" zuschneiden="ja" %}
 {% include bild.html datei="/bilder/amanita_excelsa_01_dg.jpg" zuschneiden="ja" %}
 {% include abbildung_ende.html %}

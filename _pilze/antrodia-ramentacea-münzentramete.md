@@ -17,7 +17,7 @@ profil:
 published: true
 ---
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/antrodia_ramentacea_01_wp.jpg" %}
 {% include bild.html datei="/bilder/antrodia_ramentacea_02_wp.jpg" %}
 {% include abbildung_ende.html %}

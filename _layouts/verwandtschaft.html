@@ -2,15 +2,6 @@
 layout: base
 ---
 
-{% if page.erstellt %}
-{% capture erstellt %}
-{{ page.erstellt | date: "%-d." }}
-{% assign m = page.erstellt | date: "%-m" | minus: 1 %}
-{{ site.data.monate[m] }}
-{{ page.erstellt | date: "%Y" }}
-{% endcapture %}
-{% endif %}
-
 {% if page.aktualisiert %}
 {% capture aktualisiert %}
 {{ page.aktualisiert | date: "%-d." }}
@@ -28,8 +19,13 @@ layout: base
 
 <div class="anfang">
 {% if page.autor_in %}<div class="autor_in">von {{ page.autor_in }}</div>{% endif %}
-{% if erstellt %}<div class="erstellt">{{ erstellt }}</div>{% endif %}
 </div>
+
+{% if page.hauptbild.anzeige and page.hauptbild.datei %}
+  {% include abbildung_start.html stil="profilbild" %}
+  {% include bild.html datei=page.hauptbild.datei nocrop=true %}
+  {% include abbildung_ende.html legende=page.hauptbild.legende %}
+{% endif %}
 
 {{ content }}
 

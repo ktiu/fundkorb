@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Amanita fulva
   deutsch: Rotbrauner (Fuchsiger) Scheidenstreifling
   referenz: "Fr. 1815"
-  synonym: fulva = fuchsig, rotbraun, braungelb
+  erlaeuterung: fulva = fuchsig, rotbraun, braungelb
   familie: Amanitaceae
 profil:
   aktualisiert: 2020-07-24
@@ -16,7 +16,7 @@ literatur:
 published: true
 ---
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amanita_fulva_01_dg.jpg" %}
 {% include bild.html datei="/bilder/amanita_fulva_02_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -27,7 +27,7 @@ Mit Abstand häufigste der ca. 15 in Mitteleuropa vorkommenden Arten ist der Rot
 
 Die verschiedenen Scheidenstreiflinge unterscheiden sich u. a. durch ihre Farbe. In der Häufigkeit an zweiter Stelle kommt der Graue Scheidenstreifling (Amanita vaginata), an dritter der Orangegelbe (Amanita crocea). Die übrigen sind wesentlich seltener und nicht immer leicht zu bestimmen.
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amanita_fulva_04_dg.jpg" %}
 {% include bild.html datei="/bilder/amanita_fulva_03_dg.jpg" %}
 {% include abbildung_ende.html %}

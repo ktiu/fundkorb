@@ -4,8 +4,8 @@ beschreibung:
   deutsch: Haustintling
   referenz: "(Bolton) Vilgalys, Hopple & Jacq. Johnson 2001 "
   familie: Psathyrellaceae
-  synonym: "Synonym: Coprinus domesticus / domesticus = häuslich, einheimisch, zum
-    Haus gehörig"
+  synonym: "Synonym: Coprinus domesticus"
+  erlaeuterung: "domesticus = häuslich, einheimisch, zum Haus gehörig"
 profil:
   aktualisiert: 2020-07-27
   autor_in: Dieter Gewalt
@@ -34,7 +34,7 @@ Der Haustintling ist nicht selten, aber längst nicht so häufig wie der Glimmer
 {% include bild.html datei="/bilder/coprinellus_domesticus_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/coprinellus_domesticus_05_dg.jpg" %}
 {% include bild.html datei="/bilder/coprinellus_domesticus_04_dg.jpg" %}
 {% include abbildung_ende.html %}

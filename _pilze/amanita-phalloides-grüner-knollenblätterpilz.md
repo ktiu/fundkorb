@@ -18,7 +18,7 @@ published: true
 
 Mit einem Anteil von ca. 90 Prozent aller tödlich verlaufenden Pilzvergiftungen in Mitteleuropa ist der Grüne Knollenblätterpilz der mit Abstand gefährlichste Giftpilz. Jeder Pilzsammler sollte ihn genau kennenlernen. Dazu besteht zumindest in der Rhein-Main-Ebene ausreichend Gelegenheit, denn er ist hier in geeigneten Wäldern recht häufig. Er lebt in Symbiose (Mykorrhiza) mit verschiedenen Laubbäumen, ganz überwiegend mit Eichen, gefolgt von Buchen und Hainbuchen. Manchmal genügt ein eingestreuter unauffälliger Eichensämling, um ein Wachstum im Nadelwald vorzutäuschen.
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amanita_phalloides_03_dg.jpg" %}
 {% include bild.html datei="/bilder/amanita_phalloides_06_dg.jpg" %}
 {% include abbildung_ende.html %}

@@ -4,7 +4,8 @@ beschreibung:
   deutsch: Satansröhrling
   referenz: "Lenz 1831 "
   familie: Boletaceae
-  synonym: "Neuer Name: Rubroboletus satanas / satanas = Teufel"
+  synonym: "Neuer Name: Rubroboletus satanas"
+  erlaeuterung: "satanas = Teufel"
 profil:
   aktualisiert: 2020-07-26
   autor_in: Dieter Gewalt
@@ -23,7 +24,3 @@ Die dickfleischigen Hüte des Satansröhrlings erreichen Durchmesser von bis zu 
 Satansröhrlinge bevorzugen kalkhaltige Böden an wärmebegünstigten Standorten. Mykorrhiza-Partner ist in erster Linie die Buche (Fagus sylvatica). Nachdem die sehr artenreiche Gattung der Dickröhrlinge in zahlreiche kleinere Gattungen aufgesplittet worden ist, gehört der Satansröhrling als Rubroboletus satanas zu den Purpurröhrlingen.
 
 Der Satansröhrling war Pilz des Jahres 1999. Es lohnt sich, die aus diesem Anlass von der DGfM publizierte Darstellung aufzurufen. Link: <https://www.dgfm-ev.de/pilz-des-jahres/1999-satansroehrling>
-
-
-
-<!--EndFragment-->

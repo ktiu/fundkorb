@@ -17,7 +17,7 @@ Der Mönchskopf gehört im Rhein-Main-Gebiet nicht gerade zu den häufigen Arten
 
 Die herablaufenden Lamellen, der trichterförmige Hut, der stets vorhandene Buckel und die Größe der creme- oder grau- bis fleischfarbenen Fruchtkörper sind die markanten Merkmale des Pilzes, der bis 20 (25) Zentimeter Hutdurchmesser erreichen kann. Junge Exemplare unterscheiden sich durch kegelige Hüte mit eingerolltem Rand, die im Vergleich zu den dicken und oft sehr langen Stielen unverhältnismäßig klein wirken.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html %}
 {% include bild.html datei="/bilder/clitocybe_geotropa_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 

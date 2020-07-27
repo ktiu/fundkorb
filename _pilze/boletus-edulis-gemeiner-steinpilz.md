@@ -16,7 +16,7 @@ literatur:
       unseren Breiten vor Neid erblassen: "
     url: https://www.awl.ch/pilze/Pilzeernte_in_Russland-2.pdf
   - url: http://tintling.com/pilzbuch/arten/b/Boletus_edulis.html
-published: true
+published: false
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/boletus_edulis_01_dg.jpg" %}
@@ -26,7 +26,7 @@ published: true
 {% include bild.html datei="/bilder/boletus_edulis_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/boletus_edulis_01_dg.jpg" %}
 {% include bild.html datei="/bilder/boletus_edulis_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
@@ -37,21 +37,21 @@ Vorbildlich gewachsene Steinpilze zeichnen sich durch dicke, bauchige Stiele aus
 
 Ursrpünglich wurde die hier beschriebene Art Fichtensteinpilz genannt. Diese Bezeichnung ist irreführend, weil er nicht nur bei Fichten, sondern auch im Laubwald wächst. In der neueren Literatur hat man ihm daher den Namen Gemeiner Steinpilz gegeben. Sein Hut ist hell bis dunkel-ockerbraun, ganz jung oft nahezu weiß, meist etwas speckig glänzend, zum Rand hin heller. Man achte auf die feine weiße Netzzeichnung am oberen Teil des Stiels. Er wächst von Juni bis November, ist recht häufig, in manchen Jahren sogar Massenpilz.
 
-##### Merkmale, an denen man die vier mitteleuropäischen Steinpilzarten unterscheiden kann:
+Merkmale, an denen man die vier mitteleuropäischen Steinpilzarten unterscheiden kann:
 
-**Gemeiner Steinpilz** (Boletus edulis): meist speckig glänzende, zum Rand hin aufgehellte Huthaut; zwische Huthaut und -fleisch eine dunkle Linie, die den anderen Steinpilzarten fehlt; heller Stiel mit feiner weißer Netzzeichnung im oberen Teil (siehe Foto); bei Fichten, Buchen
+Gemeiner Steinpilz (Boletus edulis): meist speckig glänzende, zum Rand hin aufgehellte Huthaut; zwische Huthaut und -fleisch eine dunkle Linie, die den anderen Steinpilzarten fehlt; heller Stiel mit feiner weißer Netzzeichnung im oberen Teil (siehe Foto); bei Fichten, Buchen
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/boletus_edulis_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-**Sommersteinpilz** (Boletus reticulatus): Huthaut trocken, fast samtig bis filzig-schorfig; Stiel blass bräunlich, meist vollständig genetzt; bei Eichen  
+Sommersteinpilz (Boletus reticulatus): Huthaut trocken, fast samtig bis filzig-schorfig; Stiel blass bräunlich, meist vollständig genetzt; bei Eichen  
 
-**Schwarzhütiger Steinpilz**, Bronzeröhrling (Boletus aereus): Huthaut dunkelbraun bis fast schwarz; Stiel hellbraun, kaum genetzt, eher marmoriert längsstreifig; bei Eichen, selten (Rote Liste im Bestand bedrohler Arten)  
+Schwarzhütiger Steinpilz, Bronzeröhrling (Boletus aereus): Huthaut dunkelbraun bis fast schwarz; Stiel hellbraun, kaum genetzt, eher marmoriert längsstreifig; bei Eichen, selten (Rote Liste im Bestand bedrohler Arten)  
 
-**Kiefernsteinpilz** (Boletus pinophilus): Huthaut dunkelbraun mit rötlichen Nuancen; Stiel bräunlich bis rotbraun mit unauffälliger Netzzeichnung; bei Kiefern, selten (Rote Liste im Bestand bedrohler Arten)
+Kiefernsteinpilz (Boletus pinophilus): Huthaut dunkelbraun mit rötlichen Nuancen; Stiel bräunlich bis rotbraun mit unauffälliger Netzzeichnung; bei Kiefern, selten (Rote Liste im Bestand bedrohler Arten)
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/boletus_edulis_07_dg.jpg" %}
 {% include bild.html datei="/bilder/boletus_edulis_tui_06_dg.jpg" %}
 {% include bild.html datei="/bilder/boletus_edulis_09_dg.jpg" %}

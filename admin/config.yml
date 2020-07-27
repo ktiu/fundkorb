@@ -12,6 +12,189 @@ locale: 'de'
 
 collections:
 
+
+#  ____                       
+# |  _ \ __ _  __ _  ___  ___ 
+# | |_) / _` |/ _` |/ _ \/ __|
+# |  __/ (_| | (_| |  __/\__ \
+# |_|   \__,_|\__, |\___||___/
+#             |___/           
+
+  - name: "pages"
+    identifier_field: "title"
+    label: "Überblicksseiten"
+    summary: "{{title}} – {{filename}}.{{extension}}"
+    files:
+      - label: "Startseite"
+        name: "homepage"
+        file: index.md
+        fields:
+          - {label: "Überschrift", name: "title", widget: string}
+          - {label: "Text", name: "body", widget: markdown}
+      - label: "Termine"
+        name: "termine"
+        file: _pages/10_termine.md
+        fields:
+          - {label: "Überschrift", name: "title", widget: string}
+          - {label: "Text", name: "body", widget: markdown}
+      - label: "Pilzporträts"
+        name: "pilze"
+        file: _pages/20_pilze.md
+        fields:
+          - {label: "Überschrift", name: "title", widget: string}
+          - {label: "Text", name: "body", widget: markdown}
+      - label: "Artikel"
+        name: "artikel"
+        file: _pages/30_artikel.md
+        fields:
+          - {label: "Überschrift", name: "title", widget: string}
+          - {label: "Text", name: "body", widget: markdown}
+      - label: "Rezepte"
+        name: "rezepte"
+        file: pages/40_kueche.md
+        fields:
+          - {label: "Überschrift", name: "title", widget: string}
+          - {label: "Text", name: "body", widget: markdown}
+      - label: "Kontakt"
+        name: "kontakt"
+        file: _pages/50_kontakt.md
+        fields:
+          - {label: "Überschrift", name: "title", widget: string}
+          - {label: "Text", name: "body", widget: markdown}
+
+#  _____                   _            
+# |_   _|__ _ __ _ __ ___ (_)_ __   ___ 
+#   | |/ _ \ '__| '_ ` _ \| | '_ \ / _ \
+#   | |  __/ |  | | | | | | | | | |  __/
+#   |_|\___|_|  |_| |_| |_|_|_| |_|\___|
+                                      
+  - name: "termine"
+    label: "Termine"
+    identifier_field: "aktivitaet"
+    summary: "{{aktivitaet}} - {{zeit}} - {{treffpunkt}}"
+    label_singular: "Termin"
+    editor:
+      preview: false
+    folder: "_termine"
+    create: true
+    slug: "{{aktivitaet}}-{{zeit}}-{{treffpunkt}}"
+    sortable_fields: ["zeit", "aktivitaet"]
+    view_filters:
+      - label: "Anmeldung offen"
+        field: "anmeldung_offen"
+        pattern: true
+      - label: "Sichtbar"
+        field: "published"
+        pattern: true
+    fields:
+      - {label: "Aktivität", name: "aktivitaet", widget: "string"}
+      - {label: "Datum und Uhrzeit", name: "zeit", widget: "datetime"}
+      - {label: "Treffpunkt", name: "treffpunkt", widget: "string"}
+      - {label: "Teilnahmegebühr", name: "teilnahmegebuehr", widget: "string"}
+      - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean"}
+      - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
+      - {label: "Beschreibung", name: "body", widget: "markdown", editorComponents: []}
+
+#  ____  _ _         
+# |  _ \(_) |_______ 
+# | |_) | | |_  / _ \
+# |  __/| | |/ /  __/
+# |_|   |_|_/___\___|
+                   
+  - name: "pilze"
+    label: "Pilzporträts"
+    label_singular: "Pilzporträt"
+    identifier_field: "beschreibung.wissenschaftlich"
+    summary: "{{beschreibung.wissenschaftlich}} ({{beschreibung.deutsch}}) – {{filename}}.{{extension}}"
+    folder: "_pilze"
+    create: true
+    slug: "{{slug}}-{{beschreibung.deutsch}}"
+    editor:
+      preview: true
+    fields:
+      - name: "beschreibung"
+        label: "Beschreibung"
+        widget: "object"
+        fields:
+          - {label: "Wissenschaftlicher Name", name: "wissenschaftlich", widget: "string"}
+          - {label: "Deutscher Name", name: "deutsch", widget: "string", required: false}
+          - {label: "Autoren-Zitat", name: "referenz", widget: "string", required: false}
+          - {label: "Synonym oder neuer Name", name: "synonym", widget: "string", required: false, hint: "Wenn leer gelassen, dann rutscht die Erläuterung automatisch nach links!"}
+          - {label: "Erläuterung zum Namen", name: "erlaeuterung", widget: "string", required: false}
+          - {label: "Familie", name: "familie", widget: "string", required: false}
+      - name: "profil"
+        label: "Profil"
+        widget: "object"
+        fields:
+          - {label: "©", name: "autor_in", widget: "string", required: false}
+          - label: "Zuletzt aktualisiert"
+            name: "aktualisiert"
+            required: false
+            widget: "datetime"
+            format: "YYYY-MM-DD"
+            dateFormat: "DD.MM.YYYY"
+            timeFormat: false
+      - name: "hauptbild"
+        label: "Profilbild"
+        widget: "object"
+        fields:
+          - {label: "Profilbild", name: "datei", widget: "image", required: true}
+          - {name: "anzeige", label: "Profilbild anzeigen", widget: "boolean", default: true, hint: "Zeigt das Hauptbild automatisch am Anfang vom Text an"}
+          - {label: "Legende", name: "legende", widget: "string", hint: "Legende für die automatische Anzeige", required: false}
+      - label: "Weiterführende Literatur"
+        label_singular: "Literatureintrag"
+        name: "literatur"
+        widget: "list"
+        minimize_collapsed: true
+        summary: "{{fields.text}} - {{fields.url}}"
+        fields:
+          - {label: "Anzeigetext", name: "text", widget: "string", required: false}
+          - {label: "Link", name: "url", widget: "string", required: false}
+      - name: "body"
+        label: "Text"
+        widget: "markdown"
+        hint: "Tooltip in Markdown: ... angesichts fachsimpelnder [Zystidenjäger](Zystiden \"Glossar\") ins Abseits ..."
+        editorComponents: ["abbildung"]
+
+# __     __                                _ _  
+# \ \   / /__ _ ____      ____ _ _ __   __| | |_
+#  \ \ / / _ \ '__\ \ /\ / / _` | '_ \ / _` | __/
+#   \ V /  __/ |   \ V  V / (_| | | | | (_| | |_
+#    \_/ \___|_|    \_/\_/ \__,_|_| |_|\__,_|\__|
+
+  - name: "verwandtsdchaften"
+    identifier_field: "titel"
+    label: "Verwandtschaften"
+    summary: "{{titel}} – {{filename}}.{{extension}}"
+    folder: "_artikel"
+    create: true
+    sortable_fields: ["titel"]
+    editor:
+      preview: true
+    fields:
+      - {label: "Titel", name: "titel", widget: "string"}
+      - {label: "Synonym", name: "synonym", widget: "string", required: false}
+      - {label: "Autor*in", name: "autor_in", widget: "string", required: false}
+      - name: "hauptbild"
+        label: "Profilbild"
+        widget: "object"
+        fields:
+          - {label: "Profilbild", name: "datei", widget: "image", required: true}
+          - {name: "anzeige", label: "Profilbild anzeigen", widget: "boolean", default: true, hint: "Zeigt das Hauptbild automatisch am Anfang vom Text an"}
+          - {label: "Legende", name: "legende", widget: "string", hint: "Legende für die automatische Anzeige", required: false}
+      - label: "Zuletzt aktualisiert"
+        name: "aktualisiert"
+        required: false
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        dateFormat: "DD.MM.YYYY"
+        timeFormat: false
+      - name: "body"
+        label: "Text"
+        widget: "markdown"
+        hint: "Tooltip in Markdown: ... angesichts fachsimpelnder [Zystidenjäger](Zystiden \"Glossar\") ins Abseits ..."
+        editorComponents: ["abbildung"]
+
 #     _         _   _ _        _ 
 #    / \   _ __| |_(_) | _____| |
 #   / _ \ | '__| __| | |/ / _ \ |
@@ -48,20 +231,22 @@ collections:
       - {label: "Text", name: "body", widget: "markdown", editorComponents: ["abbildung"]}
       - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
 
-#  ____  _ _         
-# |  _ \(_) |_______ 
-# | |_) | | |_  / _ \
-# |  __/| | |/ /  __/
-# |_|   |_|_/___\___|
-                   
-  - name: "pilze"
-    label: "Pilzporträts"
-    label_singular: "Pilzporträt"
-    identifier_field: "beschreibung.wissenschaftlich"
-    summary: "{{beschreibung.wissenschaftlich}} ({{beschreibung.deutsch}}) – {{filename}}.{{extension}}"
-    folder: "_pilze"
+#  ____                    _       
+# |  _ \ ___ _______ _ __ | |_ ___ 
+# | |_) / _ \_  / _ \ '_ \| __/ _ \
+# |  _ <  __// /  __/ |_) | ||  __/
+# |_| \_\___/___\___| .__/ \__\___|
+#                   |_|            
+
+  - name: "rezepte"
+    identifier_field: "titel"
+    label: "Rezepte"
+    label_singular: "Rezept"
+    summary: "{{titel}} – {{filename}}.{{extension}}"
+    folder: "_rezepte"
     create: true
-    slug: "{{slug}}-{{beschreibung.deutsch}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sortable_fields: ["titel", "autor_in"]
     editor:
       preview: true
     view_filters:
@@ -69,84 +254,20 @@ collections:
         field: "published"
         pattern: true
     fields:
-      - name: "beschreibung"
-        label: "Beschreibung"
-        widget: "object"
-        fields:
-          - {label: "Wissenschaftlicher Name", name: "wissenschaftlich", widget: "string"}
-          - {label: "Deutscher Name", name: "deutsch", widget: "string", required: false}
-          - {label: "Autoren-Zitat", name: "referenz", widget: "string", required: false}
-          - {label: "Angaben zum Namen, z.B. Synonym", name: "synonym", widget: "string", required: false}
-          - {label: "Erläuterung", name: "erlaeuterung", widget: "string", required: false}
-          - {label: "Familie", name: "familie", widget: "string", required: false}
-      - name: "profil"
-        label: "Profil"
-        widget: "object"
-        fields:
-          - {label: "©", name: "autor_in", widget: "string", required: false}
-          - label: "Zuletzt aktualisiert"
-            name: "aktualisiert"
-            required: false
-            widget: "datetime"
-            format: "YYYY-MM-DD"
-            dateFormat: "DD.MM.YYYY"
-            timeFormat: false
-      - name: "hauptbild"
-        label: "Profilbild"
-        widget: "object"
-        fields:
-          - {label: "Profilbild", name: "datei", widget: "image", required: true}
-          - {name: "anzeige", label: "Profilbild anzeigen", widget: "boolean", default: true, hint: "Zeigt das Hauptbild automatisch am Anfang vom Text an"}
-          - {label: "Legende", name: "legende", widget: "string", hint: "Legende für die automatische Anzeige", required: false}
-      - label: "Weiterführende Literatur"
-        label_singular: "Literatureintrag"
-        name: "literatur"
-        widget: "list"
-        minimize_collapsed: true
-        summary: "{{fields.text}} - {{fields.url}}"
-        fields:
-          - {label: "Anzeigetext", name: "text", widget: "string", required: false}
-          - {label: "Link", name: "url", widget: "string", required: false}
+      - {label: "Titel", name: "titel", widget: "string"}
+      - {label: "Autor*in", name: "autor_in", widget: "string", required: false}
+      - label: "Datum"
+        name: "datum"
+        required: false
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        default: ""
+        dateFormat: "DD.MM.YYYY"
+        timeFormat: false
+      - {label: "Vorschaubild", name: "vorschaubild", widget: "image"}
+      - {label: "Vorschautext", name: "extract", widget: "string", required: false}
+      - {label: "Text", name: "body", widget: "markdown", editorComponents: ["abbildung"]}
       - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
-      - name: "body"
-        label: "Text"
-        widget: "markdown"
-        hint: "Tooltip in Markdown: ... angesichts fachsimpelnder [Zystidenjäger](Zystiden \"Glossar\") ins Abseits ..."
-        editorComponents: ["abbildung"]
-
-#  _____                   _            
-# |_   _|__ _ __ _ __ ___ (_)_ __   ___ 
-#   | |/ _ \ '__| '_ ` _ \| | '_ \ / _ \
-#   | |  __/ |  | | | | | | | | | |  __/
-#   |_|\___|_|  |_| |_| |_|_|_| |_|\___|
-                                      
-  - name: "termine"
-    label: "Termine"
-    identifier_field: "aktivitaet"
-    summary: "{{aktivitaet}} - {{zeit}} - {{treffpunkt}}"
-    label_singular: "Termin"
-    editor:
-      preview: false
-    folder: "_termine"
-    create: true
-    slug: "{{aktivitaet}}-{{zeit}}-{{treffpunkt}}"
-    sortable_fields: ["zeit", "aktivitaet"]
-    view_filters:
-      - label: "Anmeldung offen"
-        field: "anmeldung_offen"
-        pattern: true
-      - label: "Sichtbar"
-        field: "published"
-        pattern: true
-    fields:
-      - {label: "Aktivität", name: "aktivitaet", widget: "string"}
-      - {label: "Datum und Uhrzeit", name: "zeit", widget: "datetime"}
-      - {label: "Treffpunkt", name: "treffpunkt", widget: "string"}
-      - {label: "Teilnahmegebühr", name: "teilnahmegebuehr", widget: "string"}
-      - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean"}
-      - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
-      - {label: "Beschreibung", name: "body", widget: "markdown", editorComponents: []}
-
 
 #   ____ _                          
 #  / ___| | ___  ___ ___  __ _ _ __ 

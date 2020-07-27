@@ -3,8 +3,8 @@ beschreibung:
   wissenschaftlich: Boletus queletii
   deutsch: Glattstieliger Hexenröhrling
   referenz: "Schulzer 1885 "
-  synonym: "Neuer Name: Suillellus queletii   / queletii = zu Ehren des französ.
-    Mykologen L. Quélet"
+  synonym: "Neuer Name: Suillellus queletii"
+  erlaeuterung: "queletii = zu Ehren des französ. Mykologen L. Quélet"
   familie: Boletaceae
 profil:
   aktualisiert: 2020-07-26

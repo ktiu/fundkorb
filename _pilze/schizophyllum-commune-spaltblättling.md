@@ -18,7 +18,7 @@ published: true
 ---
 Der Spaltblättling ist ein Kosmopolit mit einem schier unüberschaubaren Wirtsspektrum. In Thailand habe ich ihn schon an verkohlten Palmstämmen, Mangroven und an einer mit blauer Farbe bemalten Kokosnuss gefunden! Bei uns bevorzugt er gefällte, noch berindete Buchenstämme oder -äste, auf denen er oft in großen Kolonien siedelt. Auch bei anhaltender Trockenheit ist er zu finden und selbst sonnenexponierte Standorte werden toleriert. Er dürfte in keinem Buchenbestand fehlen. Seinen Namen hat er von den scheinbar wie der Länge nach gespaltenen Lamellen, woran er immer sicher zu erkennen ist. Die Fruchtkörper sind zäh und daher nicht für den Verzehr geeignet. Das ist zumindest die Meinung europäischer Pilzbuchautoren. In Thailand ist er vor allem im Nordosten des Landes Marktpilz.
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/schizophyllum_commune_03_dg.jpg" %}
 {% include bild.html datei="/bilder/schizophyllum_commune_04_dg-1024x901.jpg" %}
 {% include abbildung_ende.html %}

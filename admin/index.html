@@ -31,12 +31,11 @@ CMS.registerEditorComponent({
      widget: 'select',
      default: 'standard',
      options: [
-               {label: 'standard', value: 'standard'},
-               {label: 'groß', value: 'gross'},
-               {label: 'klein', value: 'klein'},
+               {label: 'Originalgröße', value: 'standard'},
+               {label: 'Mittel (zwei nebeneinander)', value: 'mittel'},
+               {label: 'klein (drei nebeneinander)', value: 'klein'},
                {label: 'fließend (klein)', value: 'fliessend'},
      ]}],
-  //pattern: /^(?: *< *div +class *= *"figure" *>)?\s*< *figure(?: +class *= *"([^"]*)")? *>(?:\s*< *div +class *= *"bilder" *>)?((?:\s*\{% *include +bild.html +datei *= *"[^"]*"(?: +(?:legende|unterschrift) *= *"[^"]*")?(?: +nocrop *= *(?:true|false))?(?: +groesse *= *"[^"]*")? *%\})*)(?:\s*<\/ *div *>)?(?:\s*< *figcaption *>(.*)<\/ *figcaption *>)?\s*<\/ *figure *>(?:\s*<\/ *div *>)? *$/m,
   pattern: /^ *\{% *include +abbildung_start.html(?: +stil *= *"([^"]*)")? *%\}\s*((?:\s*\{% *include +bild.html +datei *= *"[^"]*"(?: +unterschrift *= *"[^"]*")?(?: +nocrop *= *(?:true|false))?(?: +gross *= *(?:true|false))? *%\})*)\s*\{% *include +abbildung_ende.html(?: +legende *= *"([^"]*)")? *%\} *$/m,
   fromBlock: function(match) {
     mcopy = match.slice();
