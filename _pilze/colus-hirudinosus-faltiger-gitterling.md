@@ -23,6 +23,6 @@ Bei einem Ausflug in Thailands Wildnis* in der Provinz Phetchaburi fanden wir ei
 {% include bild.html datei="/bilder/colus_hirudinosus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Man darf gespannt sein. ob und wann dieser Exot auch einmal bei uns auftauchen wird. Bis ans Mittelmeer hat er es bereits geschafft, zum Beispiel an den Golf von Cofano ([Nino Mannina, März 2017](<https://www.mykotrapani.it/approfondimenti-sui-funghi/74-colus-hirundinosus)>)) https://www.mykotrapani.it/approfondimenti-sui-funghi/74-colus-hirundinosus). Katharina und Dr. Lothar Krieglsteiner haben ihn an der Algarve (Portugal) gefunden.
+Man darf gespannt sein. ob und wann dieser Exot auch einmal bei uns auftauchen wird. Bis ans Mittelmeer hat er es bereits geschafft, zum Beispiel an den Golf von Cofano ([Nino Mannina, März 2017](<https://www.mykotrapani.it/approfondimenti-sui-funghi/74-colus-hirundinosus)>)). Katharina und Dr. Lothar Krieglsteiner haben ihn an der Algarve (Portugal) gefunden.
 
 * Die von uns besuchte Wildnis liegt in der Provinz Phetchaburi und grenzt unmittelbar an den mit 2915 km² Fläche größten Nationalpark Thailands, den [Kaeng Krachan](https://www.thailand-spezialisten.com/beliebte-urlaubsziele/thailands-nationalparks/kaeng-krachan/). Hier bewirtschaftet ein befreundeter Thailänder ein mehrere Hektar großes Areal u. a. mit Ananas- und Teakbaum-Plantagen. Hier fanden wir einen weiteren höchst bemerkenswerten Pilz, den auch in Deutschland vorkommenden seltenen Erbstenstreuling Pisolithus arizhus.
