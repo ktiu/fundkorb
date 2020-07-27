@@ -24,7 +24,6 @@ footer_scripts:
 {% if page.beschreibung.deutsch %}<h2>{{ page.beschreibung.deutsch }}</h2>{% endif %}
 
 <div class="anfang">
-  {% if page.beschreibung.familie or page.beschreibung.referenz %}
   <div>
     {% if page.beschreibung.referenz %}<div class="referenz">{{ page.beschreibung.referenz }}</div>{% endif %}
     {% if page.beschreibung.synonym %}
@@ -33,15 +32,10 @@ footer_scripts:
       <div class="erlaeuterung">{{ page.beschreibung.erlaeuterung }}</div>
     {% endif %}
   </div>
-  {% endif %}
-
-  {% if page.beschreibung.erlaeuterung or page.beschreibung.synonym %}
   <div>
     {% if page.beschreibung.familie %}<div class="familie">Familie: {{ page.beschreibung.familie }}</div>{% endif %}
     {% if page.beschreibung.synonym and page.beschreibung.erlaeuterung %}<div class="erlaeuterung">{{ page.beschreibung.erlaeuterung }}</div>{% endif %}
   </div>
-  {% endif %}
-
   {% if page.profil.autor_in %}<div class="autor_in">&copy; {{ page.profil.autor_in }}</div>{% endif %}
 </div>
 

@@ -165,6 +165,7 @@ collections:
   - name: "verwandtsdchaften"
     identifier_field: "titel"
     label: "Verwandtschaften"
+    label_singular: "Verwandtschaft"
     summary: "{{titel}} – {{filename}}.{{extension}}"
     folder: "_verwandtschaften"
     create: true
