@@ -27,9 +27,9 @@ Im englisch-sprachigen Raum hört der Schopftintling auf den hübschen Namen *Sh
 {% include bild.html datei="/bilder/coprinus_comatus_05_dg.jpeg" %}
 {% include bild.html datei="/bilder/coprinus_comatus_03_dg.jpg" %}
 {% include bild.html datei="/bilder/coprinus_comatus_04_dg.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Unter diesen drei Fotos fällt vor allem das linke aus dem Rahmen. Es zeigt zwei Tintlinge an einem ungewöhnlichen Standort: mitten im Sandkasten eines Kinderspielplatzes. Und zum Foto rechts ist anzumerken: Unsere Vorfahren haben die schwarze „Tinte“ tatsächlich zum Schreiben verwendet. Mit zugespitztem Federkiel, versteht sich." %}
 
-Unter diesen drei Fotos fällt vor allem das linke aus dem Rahmen. Es zeigt zwei Tintlinge an einem ungewöhnlichen Standort: mitten im Sandkasten eines Kinderspielplatzes. Und zum Foto rechts ist anzumerken: Unsere Vorfahren haben die schwarze „Tinte“ tatsächlich zum Schreiben verwendet. Mit zugespitztem Federkiel, versteht sich.
+
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/coprinus_comatus_06_dg.jpg" %}
