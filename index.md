@@ -1,16 +1,25 @@
 ---
 layout: page
-title: Willkommen beim Fundkorb!
+title: Fundkorb.de - die Pilzadresse im Rhein-Main-Gebiet
 header_scripts:
-  - "https://identity.netlify.com/v1/netlify-identity-widget.js"
+  - https://identity.netlify.com/v1/netlify-identity-widget.js
 ---
+Unsere nächste pilzkundliche Exkursion ist  - vorausgesetzt, das Wetter spielt mit und es ist nicht zu trocken - am Sonntag, den 23. August 2020. Mehr Infos  >>>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ornare molestie commodo. Morbi interdum eget urna sit amet aliquet. Praesent eu magna ut nibh eleifend consectetur. Sed pharetra tortor eu orci rutrum, at mollis libero venenatis. Nullam ultricies erat sem, nec cursus metus pharetra nec. Nulla viverra magna sit amet convallis volutpat. Nulla non lectus libero.
+![Foto: Thomas Lehr](/bilder/sarcoscypha_coccinea_02_tl.jpg "Foto: Thomas Lehr")
+
+Einer unserer schönsten Fundkorbpilze ist der Scharlachrote Prachtbecherling (Sarcoscypha coccinea). Thomas Lehr hat ihn am Kalkbruch an der Wiesenmühle bei Flörsheim gefunden und fotografiert. >> Mehr lesen.
 
 {% include quiz.html %}
 
-Integer aliquam augue ut enim laoreet, ut blandit nunc pellentesque. Nulla elit purus, blandit finibus nibh eu, tincidunt iaculis eros. Phasellus vel leo et nibh placerat malesuada. Nullam vel nisi dui. In hac habitasse platea dictumst. Nunc consequat sollicitudin urna, eu pretium ipsum condimentum eu. Curabitur lobortis, purus sit amet rhoncus rutrum, arcu sapien pharetra diam, sit amet aliquam purus enim eget dolor. Sed id velit a urna mollis placerat ac vitae sapien. Proin bibendum at ex id pretium. Vivamus lectus ex, tincidunt quis consequat at, egestas at felis.
+Dietzenbach und Pilze
 
-Mauris quis velit imperdiet, accumsan velit a, consectetur magna. Donec auctor aliquam enim vitae rutrum. Nulla sed justo in orci dignissim commodo. In semper iaculis vulputate. Proin mattis sem rutrum iaculis vestibulum. Quisque malesuada rhoncus augue, eu facilisis nunc congue non. Curabitur ante mauris, tempor pellentesque mattis a, vehicula vitae augue. Praesent mollis metus turpis. In dolor ipsum, suscipit in luctus sit amet, rutrum ut velit. Aenean purus mauris, efficitur sed ullamcorper ac, euismod et nisl. Sed eu vestibulum enim.
+– das hat seit Jahren Tradition und dafür gibt es gute Gründe. Die Kreisstadt liegt mitten im größten zusammenhängenden Waldgebiet der Region und die Volkshochschule Dietzenbach bietet seit 20 Jahren regelmäßig Praktische Pilzseminare an. Die finden nicht etwa in einer Schule statt, sondern da, wo Pilze wachsen – im Wald. Bei fünf Exkursionen lernen die Teilnehmer die wichtigsten Speise- und Giftpilze an ihren natürlichen Wuchsorten kennen und erfahren Wissenswertes zum Thema. Das Seminar beginnt am Freitag, 18. September 19:00 Uhr mit einer Einführung (Power-Point-Präsentation) bei der vhs Dietzenbach; die erste Exkursion ist für Sonntag, 20. September 10:00 Uhr vorgesehen. Anmeldungen für das Seminar 2020 sind auf der Homepage der Volkshochschule Dietzenbach (www.vhs-dietzenbach.de) möglich. 
 
-Cras posuere sit amet turpis vel tristique. Suspendisse nec metus non tortor facilisis convallis non a arcu. Nulla vitae tellus dignissim, consequat sem vitae, elementum dolor. Donec vehicula, est non ultricies sodales, sapien ex auctor tortor, a maximus massa felis non lectus. Nunc placerat ut turpis at efficitur. Duis eleifend ligula laoreet risus ultrices, et mollis ligula volutpat. Nullam tempus facilisis scelerisque.
+![Ob sich die Biene von der Grubenlorchel Nektar erhofft?  (Foto: Gerd Wartha)](/bilder/helvella_lacunosa_02_gw.jpg)
+
+Vorsicht Gammelpilze – Ein Leitfaden
+
+Vor Gammelfleisch ekelt sich jeder. Umso mehr erstaunt es, was häufig als Ausbeute von Pilzsammlern in Körben oder gar Plastiktüten nach Hause getragen wird. In Zusammenarbeit mit dem Gesundheitsamt Frankfurt möchten wir Ihnen gerne einen informativen Leitfaden zu diesem wichtigen Thema zum Download und Ausdrucken zur Verfügung stellen –  als PDF.
+
+
