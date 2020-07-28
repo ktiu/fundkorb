@@ -36,6 +36,5 @@ Unter diesen drei Fotos fällt vor allem das linke aus dem Rahmen. Es zeigt zwei
 {% include abbildung_ende.html %}
 
 {% include abbildung_start.html stil="standard" %}
-{% include abbildung_ende.html %}
-
-xx
+{% include bild.html datei="/bilder/coprinus_comatus_07_gg.jpg" %}
+{% include abbildung_ende.html legende="Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Die Illustration von Gabriele Gossner (in: Hans Haas – Pilze Mitteleuropas, 1964) zeigt sehr schön die Entwicklung des Schopftintlings vom jungen Pilz mit noch geschlossenen Hüten bis zum Zerfließen zu schwarzer Tinte." %}
