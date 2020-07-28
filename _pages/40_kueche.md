@@ -1,5 +1,5 @@
 ---
-title: Rezepte
+title: Fundkorbküche
 navi: /rezepte
 permalink: rezepte
 ---
