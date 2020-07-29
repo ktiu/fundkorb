@@ -8,6 +8,7 @@ beschreibung:
   erlaeuterung: mucosus = schleimig
 profil:
   aktualisiert: 2020-07-29
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/cortinarius_mucosus_01_dg.jpg
