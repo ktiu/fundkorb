@@ -16,18 +16,18 @@ literatur:
     url: "Werner Pohl: Apyllopower (Pilz Nr. 18)"
   - {}
 ---
-<http://aphyllopower.blogspot.com/2006/08/>Der hier abgebildete Fruchtkörper stammt von einer Exkursion im Frankfurter Stadtwald nahe dem Maunzenweiher. Er wuchs semipileat (effus-reflex) an einem toten, noch berindeten Buchenstamm, an dem er die Unterseite auf einer Länge von ca. 50 cm resupinat überzog und an der Stammseite abstehende Hutkanten bildete. Die Braune Borstentramete gilt als wärmeliebende Art, die in Deutschland vor allem in Auwäldern zu finden ist.Lt. Breitenbach & Kränzlin bevorzugt sie Esche.
+<http://aphyllopower.blogspot.com/2006/08/>Der hier abgebildete Fruchtkörper stammt von einer Exkursion im Frankfurter Stadtwald nahe dem Maunzenweiher. Er wuchs [semipileat](semipileat "Glossar>) (effus-reflex) an einem toten, noch berindeten Buchenstamm, an dem er die Unterseite auf einer Länge von ca. 50 cm [resupinat](resupinat "Glossar") überzog und an der Stammseite abstehende Hutkanten bildete. Die Braune Borstentramete gilt als wärmeliebende Art, die in Deutschland vor allem in Auwäldern zu finden ist. Lt. Breitenbach & Kränzlin bevorzugt sie Esche.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/coriolopsis_gallica_01_dg.jpg" %}
 {% include bild.html datei="/bilder/coriolopsis_gallica_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Die Oberseite des Pilzes ist grob striegelig bis borstig und grau, ocker oder hell- bis dunkelbraun gefärbt. Die grauen bis graubraunen Poren sind relativ groß, rundlich-eckig und teilweise länglich zerschlitzt. Die braune Trama färbt sich mit KOH schwarz. Die ähnliche Blasse Borstentramete Coriolopsis trogii zeigt diese chemische Reaktion nicht.
+Die Oberseite des Pilzes ist grob striegelig bis borstig und grau, ocker oder hell- bis dunkelbraun gefärbt. Die grauen bis graubraunen Poren sind relativ groß, rundlich-eckig und teilweise länglich zerschlitzt. Die braune [Trama](Trama "Glossar") färbt sich mit KOH schwarz. Die ähnliche Blasse Borstentramete *Coriolopsis trogii* zeigt diese chemische Reaktion nicht.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/coriolopsis_gallica_03_dg.jpg" %}
-{% include abbildung_ende.html legende="Wichtiges Unterscheidungsmerkmal: die braune Trame färbt sich mit KOH schwarz" %}
+{% include abbildung_ende.html legende="Wichtiges Unterscheidungsmerkmal: die braune Trama färbt sich mit KOH schwarz" %}
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/coriolopsis_gallica_04_dg.jpg" %}
