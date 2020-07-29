@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Braune Borstentramete
   referenz: "(Fr.) Ryvarden 1973 "
   familie: Polyporaceae
-  erlaeuterung: Polyporaceae
+  erlaeuterung: gallisch, keltisch
 profil:
   aktualisiert: 2020-07-29
   autor_in: Dieter Gewalt
