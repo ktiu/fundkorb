@@ -13,7 +13,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/cordyceps_ophioglossoides_01_dg.jpeg
 ---
-Beim Bestimmen von Kernkeulen ist es wichtig, ihren Wirt ausfindig zu machen. Verfolgt man die von der Zungenkernkeule ausgehenden, gelblichen Myzelstränge ins Erdreich, gelangt man bei behutsamer Vorgehensweise zu einer Hirschtrüffel. Hier parasitiert also ein Pilz auf einem anderen. Die befallene Hirschtrüffel (übrigens nicht verwandt und nicht verschwägert mit echten Trüffeln) kann sich nicht mehr bis zur Sporenreife entwickeln.
+Beim Bestimmen von Kernkeulen ist es wichtig, ihren Wirt ausfindig zu machen. Verfolgt man die von der Zungenkernkeule ausgehenden, gelblichen [Myzelstränge](Myzel "Glossar") ins Erdreich, gelangt man bei behutsamer Vorgehensweise zu einer Hirschtrüffel. Hier parasitiert also ein Pilz auf einem anderen. Die befallene Hirschtrüffel (übrigens nicht verwandt und nicht verschwägert mit echten Trüffeln) kann sich nicht mehr bis zur Sporenreife entwickeln.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/cordyceps_ophioglossoides_03_dg.bmp" %}
