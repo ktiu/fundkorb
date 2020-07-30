@@ -22,12 +22,12 @@ Da es beim Menschen durch Einatmen der Sporen zu allergischen Reaktionen und Ent
 
 Im Februar 2019 wurde der Schadpilz im Schlosspark Rumpenheim (Offenbach) festgestellt. Rund 100 junge Ahornbäume waren betroffen und der Park musste vorsorglich geschlossen werden. Bereits 2016 und 2017 hatte Hermine Lotz-Winter mehrere Funde im Raum Frankfurt gemeldet Am 29. Juni 2019 fanden wir auch im Frankfurter Stadtwald am Hainer Weg einen infizierten Ahornbaum und informierten das zuständige Grünflächenamt.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/cryptostroma_corticale_02_dg.jpg" %}
 {% include bild.html datei="/bilder/cryptostroma_corticale_03_dg.jpg" %}
 {% include abbildung_ende.html legende="29.03.2019: Rußrindenkrankheit an einem jungen Ahornbaum bei Heusenstamm-Waldesruh. Nach unserer Beobachtung war nur ein Baum betroffen." %}
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/cryptostroma_corticale_05_af.jpg" %}
 {% include bild.html datei="/bilder/cryptostroma_corticale_06_af.jpg" %}
 {% include abbildung_ende.html legende="Schadbild im Stammquerschnitt / Befall unter der Ahornrinde (2 Fotos mit freundlicher Erlaubnis von Philipp Robeck, https://www.arbofux.de/russrindenkrankheit-am-ahorn.html)" %}
