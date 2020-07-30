@@ -40,10 +40,10 @@ Hier eine stichwortartige Zusammenfassung der wichtigsten Eigenschaften und Merk
 
 **Hut:** 3 – 15 cm Ø, grün, olivgrün, bräunlich grün, gelblich, nahezu weiß. Manchmal mit anhaftenden Resten des [Velum universale](Velum universale "Glossar"). Man beachte eine rein weiße Varietät (Foto links). Huthaut häutig dünn und abziehbar  
 **Lamellen:** weiß und weiß bleibend, eng stehend, frei = nicht dirket am Stiel angewachsen  
-**Stiel:** 8 – 15 cm lang, 1 – 2 cm dick, weiß, gelbgrünlich, oft genattert, längsfaserig, zwiebelig verdickte Basis in einer häutigen Scheide steckend. Stielring weiß, häutig, hängend, oberseits fein gerieft, leicht vergänglich
-**Fleisch:** weiß, unter der Huthaut gelbgrünlich
-**Geruch:** jung nahezu geruchlos, später süßlich bis aasartig
-**Geschmack:** keineswegs unangenehm, mild, süßlich. Keinesfalls Geschmacksproben vornehmen! Es ist dokumentiert, dass sich Pilzsammler, die Champignons mit Knollenlätterpilzen verwechselt haben, dahingehend geäußert haben, dass „die Champignons noch nie so gut geschmeckt hätten“!
+**Stiel:** 8 – 15 cm lang, 1 – 2 cm dick, weiß, gelbgrünlich, oft genattert, längsfaserig, zwiebelig verdickte Basis in einer häutigen Scheide steckend. Stielring weiß, häutig, hängend, oberseits fein gerieft, leicht vergänglich  
+**Fleisch:** weiß, unter der Huthaut gelbgrünlich  
+**Geruch:** jung nahezu geruchlos, später süßlich bis aasartig  
+**Geschmack:** keineswegs unangenehm, mild, süßlich. Keinesfalls Geschmacksproben vornehmen! Es ist dokumentiert, dass sich Pilzsammler, die Champignons mit Knollenlätterpilzen verwechselt haben, dahingehend geäußert haben, dass „die Champignons noch nie so gut geschmeckt hätten“!  
 **Sporenpulverfarbe:** weiß
 
 Verwechslungen mit essbaren Champignons sind auf fahrlässigen Leichtsinn und Blindheit für eindeutige Merkmale zurückzuführen, etwa so, als könne man einen Apfel nicht von einer Orange unterscheiden. Champignons haben nie rein weiße Lamellen. Diese sind jung zartrosa und verfärben sich zunehmend über braun zu schwarz. Champignons haben niemals eine häutige Scheide am Stielgrund.
