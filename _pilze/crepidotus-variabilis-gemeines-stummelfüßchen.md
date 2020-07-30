@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Crepidotus variabilis
   deutsch: Gemeines Stummelfüßchen
   referenz: (Pers.) P. Kumm. 1871
-  familie: "Familie Inocybaceae   (früher: Cortinariaceae)"
+  familie: "Inocybaceae   (früher: Cortinariaceae)"
   erlaeuterung: variabilis = veränderlich
 profil:
   aktualisiert: 2020-07-30
