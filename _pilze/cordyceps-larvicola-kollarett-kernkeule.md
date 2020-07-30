@@ -10,10 +10,11 @@ profil:
   aktualisiert: 2020-07-28
   autor_in: Hermine Lotz-Winter & Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/cordyceps_larvicola_01_dg.jpg
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/cordyceps_larvicola_01_dg.jpg" %}
 {% include bild.html datei="/bilder/cordyceps_larvicola_04_hl.jpg" %}
 {% include abbildung_ende.html %}
 
