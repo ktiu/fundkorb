@@ -14,8 +14,8 @@ hauptbild:
   datei: /bilder/cordyceps_larvicola_01_dg.jpg
 ---
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/cordyceps_larvicola_01_dg.jpg" %}
 {% include bild.html datei="/bilder/cordyceps_larvicola_04_hl.jpg" %}
+{% include bild.html datei="/bilder/cordyceps_larvicola_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Der hessische Erstfund dieser äußerst selten berichteten Kernkeule gelang Tui Gewalt am 12.06.2006 im TK 5918.4.1 an einer Waldwegeinfahrt westlich der B459 bei Dietzenbach auf feuchter Erde zwischen Kiefernnadeln (2 Fruchtkörper). Einen zweiten Fund machte Hermine Lotz-Winter am 06.03.2007 am Mörfelder Schwimmbad (TK 6017.2.4) nahe eines Parkplatzes unter Kiefern, ebenfalls zwei Fruchtkörper. Ein dritter Nachweis gelang am 13.06.2010 im TK 6018.1.4 am Gleisner Kopf bei Dreieich-Offenthal in einem Polster von Katharinenmoos.
@@ -26,7 +26,7 @@ Bereits beim ersten Blick ins Mikroskop fallen die charakteristischen, [monilifo
 
 Nach unserem Wissenstand stammt die erste Fundmeldung für Deutschland von Georg Müller aus dem Jahr 2002 (Forum pilzepilze). In der Schweiz gab es 2006 einen Fund bei Basel, aus Frankreich wurden etliche Funde gemeldet, ein weiterer aus der Slowakei berichtet (Juni 2010). Es handelt sich also um eine wirkliche Rarität, wobei jedoch nicht auszuschließen ist, dass unser Pilzchen auch übersehen wird.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/cordyceps_larvicola_03_hl.jpg" %}
 {% include bild.html datei="/bilder/cordyceps_larvicola_02_hl.jpg" %}
 {% include abbildung_ende.html %}
