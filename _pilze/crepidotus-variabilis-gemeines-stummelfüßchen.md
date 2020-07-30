@@ -7,6 +7,7 @@ beschreibung:
   erlaeuterung: variabilis = veränderlich
 profil:
   aktualisiert: 2020-07-30
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/crepidotus_variabilis_01_dg.jpg
