@@ -17,7 +17,7 @@ literatur:
   - url: https://www.waldwissen.net/waldwirtschaft/schaden/pilze_nematoden/bfw_nadelbraeune_kiefer/bfw_nadelbraeune_kiefer_2006_10.pdf
   - url: https://www.wsl.ch/forest/wus/diag/show_singlerecord.php?TEXTID=43
 ---
-Auf Kiefernnadeln wächst ja bekanntlich so einiges, Spaltlippen, winzige Becherchen, etc., die man mit bloßem Auge gerade noch erkennen kann. Der hier vorgestellte [Ascomyzet](Ascomyzet "Glossar") ist allerdings nur mit einer gut vergrößernden Lupe zu sehen. Die Fruchtkörper entwickeln sich unter der Nadelrinde und brechen diese beim Wachstum auf. Auf der konvexen Seite erscheinen dann längliche lippenartige Gebilde, die sich farblich nur wenig abheben. Sie werden bis zu 1,5 mm lang und 0,5 mm breit.
+Auf Kiefernnadeln wächst ja bekanntlich so einiges, Spaltlippen, winzige Becherchen, etc., die man mit bloßem Auge gerade noch erkennen kann. Der hier vorgestellte [Ascomyzet](Ascomyzeten "Glossar") ist allerdings nur mit einer gut vergrößernden Lupe zu sehen. Die Fruchtkörper entwickeln sich unter der Nadelrinde und brechen diese beim Wachstum auf. Auf der konvexen Seite erscheinen dann längliche lippenartige Gebilde, die sich farblich nur wenig abheben. Sie werden bis zu 1,5 mm lang und 0,5 mm breit.
 
 Auf unserem Foto sind zwei der bis zu 15 cm langen Nadeln der Schwarzkiefer (*Pinus nigra*) abgebildet. Im ungewöhnlich milden Februar 2019 waren in einer Dietzenbacher Parkanlage etwa 30 Prozent der am Boden liegenden üppig besiedelt. Die winzigen Pilzchen dürften bei feuchtem Wetter ganzjährig zu finden sein.
 
