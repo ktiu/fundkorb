@@ -10,7 +10,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/coriolopsis_gallica_04_dg.jpg
+  datei: /bilder/coriolopsis_gallica_05_dg.jpg
 literatur:
   - text: "Breitenbach & Kränzling: Pilze der Schweiz Band 2, Nr. 347"
   - text: "Werner Pohl: Apyllopower (Pilz Nr. 18)"
