@@ -9,7 +9,7 @@ profil:
   aktualisiert: 2020-07-29
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: false
+  anzeige: true
   datei: /bilder/coriolopsis_gallica_04_dg.jpg
 literatur:
   - text: "Breitenbach & Kränzling: Pilze der Schweiz Band 2, Nr. 347"
