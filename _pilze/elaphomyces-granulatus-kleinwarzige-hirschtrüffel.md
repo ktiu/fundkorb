@@ -20,16 +20,15 @@ literatur:
 {% include bild.html datei="/bilder/elaphomyces_granulatus_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
+
 Irgendwelche Trüffeln wachsen wohl in jedem Wald. Es müssen nicht gleich echte sein, die ein Vermögen kosten können*; meist sind es solche, an denen nur Rotwild und Wildschweine Geschmack finden. Zu diesen gehören die Hirschtrüffeln, von denen in Deutschland lt. Verbreitungsatlas (Krieglsteiner, 1993) vier nachgewiesen sind. Die häufigste ist die Kleinwarzige Hirschtrüffel. Sie wächst unterirdisch, ihre Anwesenheit kann aber manchmal durch auf ihr parasitierende oberirdische Kernkeulen angezeigt werden, wie wir es Jahr für Jahr in einem Roteichenforst bei Rodgau-Dudenhofen beobachten können. Hier muss der Untergrund nur so von Hirschtrüffeln wimmeln, auf denen die verräterischen Kernkeulen Cordyceps longisegmentis und Cordyceps ophioglossoides wachsen.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/elaphomyces_granulatus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/elaphomyces_granulatus_03_dg.jpg" %}
 {% include bild.html datei="/bilder/elaphomyces_granulatus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
+
 
 Die rundlichen knollenförmigen Fruchtkörper erreichen Durchmesser von 2 bis 5 cm und sind gelb- bis ockerbräunlich gefärbt. Ihre Oberfläche ist fein warzig, die Rinde etwa 2 mm dick (jung dicker!) und weißlich, oft lila angehaucht. Das Innere ist grob gekammert und zerfällt im Reifezustand zu schwarzem Pulver. Ähnlich ist die Stachelige Hirschtrüffel *Elaphomyces muricatus*, die sich sicher mikroskopisch unterscheiden lässt. Ihre rundlichen Sporen messen bis zu 25 µm, die der Kleinwarzigen bis zu 42 µm. Die lassen sich sogar schon mit einer guten Lupe als kleine schwarze Punkte erkennen.
 
