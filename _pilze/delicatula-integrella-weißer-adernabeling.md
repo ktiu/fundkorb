@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Weißer Adernabeling
   referenz: "(Pers.) Fayod 1889 "
   familie: Tricholomataceae
-  erlaeuterung: delicatus = zart, zerbrechlich   integrella = ziemlich unversehrt
+  erlaeuterung: delicatus = zart, zerbrechlich /  integrella = ziemlich unversehrt
 profil:
   aktualisiert: 2020-08-02
   autor_in: Dieter Gewalt
