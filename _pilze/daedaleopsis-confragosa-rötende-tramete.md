@@ -17,7 +17,6 @@ Die Rötende Tramete war früher einmal in der Gattung Trametes angesiedelt, wur
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/daedaleopsis_confragosa_02_dg.jpg" %}
-{% include bild.html datei="/bilder/daedaleopsis_confragosa_var._tricolor_01_dg.jpg" %}
 {% include abbildung_ende.html legende="Das obige linke Foto zeigt das durch Druck oder Reiben erzeugte Röten der Porenschicht, das Foto rechts daneben das lamellige Hymenophor von Daedaleopsis tricolor." %}
 
 Man findet die Pilze oft in Reihen oder dachziegelig angeordnet an stehenden oder liegenden Stämmen und Ästen verschiedener Laubhölzer, am häufigsten an Weide, Birke und Erle. Rund um den Dietzenbacher Wollwiesenteich, an dem diese drei Baumarten stehen, kann man sie zu jeder Jahreszeit beobachten.
