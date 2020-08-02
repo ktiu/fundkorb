@@ -19,9 +19,6 @@ In Trockenzeiten fragt sich der aufmerksame Beobachter, woher manche Baumpilze w
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/fomitopsis_pinicola_09_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/fomitopsis_pinicola_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
