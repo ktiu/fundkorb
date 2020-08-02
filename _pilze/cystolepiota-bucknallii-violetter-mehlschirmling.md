@@ -12,7 +12,7 @@ hauptbild:
   anzeige: false
   datei: /bilder/cystolepiota_bucknallii_02_dg.jpg
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/cystolepiota_bucknallii_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
