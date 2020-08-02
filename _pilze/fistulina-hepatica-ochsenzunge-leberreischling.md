@@ -27,7 +27,7 @@ Die beiden Namen, unter denen der Pilz bekannt ist, passen gut zu seinen Merkmal
 {% include bild.html datei="/bilder/fistulina_hepatica_05_gb.jpg" %}
 {% include abbildung_ende.html legende="Der Fruchtkörper rechts trieft nur so von „rotem Blut“. Auch knubbelige Formen kommen vor  (2 Fotos: Günther Breidert)" %}
 
-Die Ochsenzunge gilt als essbar, hat aber nur wenige Fans, die ihn mögen. Sie ist nahezu ausschließlich an Eichen zu finden. Als Wundparasit und [Saprobiont](Saprobiont "Glossar") findet man den ungewöhnlichen Pilz am Stammgrund lebender Bäume und an Totholz, gern auch an Stümpfen. Im Frankfurter Stadtwald gehört er zu den dortigen Charakterpilzen.
+Die Ochsenzunge gilt als essbar, hat aber nur wenige Fans, die ihn mögen. Sie ist nahezu ausschließlich an Eichen zu finden. Als Wundparasit und [Saprobiont](saprobiontisch "Glossar") findet man den ungewöhnlichen Pilz am Stammgrund lebender Bäume und an Totholz, gern auch an Stümpfen. Im Frankfurter Stadtwald gehört er zu den dortigen Charakterpilzen.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/fistulina_hepatica_06_dg.jpg" %}
