@@ -4,7 +4,7 @@ beschreibung:
   wissenschaftlich: Exidia plana
   deutsch: Warziger Drüsling
   referenz: "(F.H. Wigg) Donk 1966 "
-  synonym: Exidia glandulosa
+  synonym: "Synonym: Exidia glandulosa"
   erlaeuterung: plana = flach, eben, platt
 profil:
   aktualisiert: 2020-08-02
