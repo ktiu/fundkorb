@@ -1,0 +1,22 @@
+---
+beschreibung:
+  wissenschaftlich: Daedaleopsis confragosa
+  deutsch: Rötende Tramete
+  referenz: "(Bolton) J. Schröt. 1888 "
+  familie: Polyporaceae, jetzt Fomitopsidaceae
+  erlaeuterung: confragosa = holperig, uneben
+profil:
+  aktualisiert: 2020-08-02
+  autor_in: Dieter Gewalt
+hauptbild:
+  anzeige: true
+  datei: /bilder/daedaleopsis_confragosa_01_dg.jpg
+literatur: []
+---
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/daedaleopsis_confragosa_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Die Rötende Tramete war früher einmal in der Gattung Trametes angesiedelt, wurde wegen des auf Druck oder durch Reiben rötenden Hymenophors aber in eine eigens für sie geschaffene Gattung transferiert. Die Oberseite der konsolenförmigen, dünnen Fruchtkörper, die meist breit am Holz angewachsen sind, variiert erheblich im Aussehen. Das obige Foto zeigt sie konzentrisch gezont mit radialen Streifen, sie kann aber auch recht einheitlich strukturiert und dunkel- oder olivrot gefärbt sein. Das Hymenophor ist ebenfalls recht variabel. Es kann über seine ganze Fläche porig, aber auch uneinheitlich labyrinthisch-porig ausgebildet sein. Formen mit nahezu völlig lamelliger Struktur sind als var. tricolor abgetrennt worden und inzwischen als eigenständige Art Daedaleopsis tricolor (Dreifarbige Tramete, Braunroter Blätterwirrling) anerkannt.
+
+Man findet die Pilze oft in Reihen oder dachziegelig angeordnet an stehenden oder liegenden Stämmen und Ästen verschiedener Laubhölzer, am häufigsten an Weide, Birke und Erle. Rund um den Dietzenbacher Wollwiesenteich, an dem diese drei Baumarten stehen, kann man sie zu jeder Jahreszeit beobachten.
