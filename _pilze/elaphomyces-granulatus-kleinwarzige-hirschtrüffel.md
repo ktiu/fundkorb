@@ -29,7 +29,6 @@ Irgendwelche Trüffeln wachsen wohl in jedem Wald. Es müssen nicht gleich echte
 {% include bild.html datei="/bilder/elaphomyces_granulatus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-
 Die rundlichen knollenförmigen Fruchtkörper erreichen Durchmesser von 2 bis 5 cm und sind gelb- bis ockerbräunlich gefärbt. Ihre Oberfläche ist fein warzig, die Rinde etwa 2 mm dick (jung dicker!) und weißlich, oft lila angehaucht. Das Innere ist grob gekammert und zerfällt im Reifezustand zu schwarzem Pulver. Ähnlich ist die Stachelige Hirschtrüffel *Elaphomyces muricatus*, die sich sicher mikroskopisch unterscheiden lässt. Ihre rundlichen Sporen messen bis zu 25 µm, die der Kleinwarzigen bis zu 42 µm. Die lassen sich sogar schon mit einer guten Lupe als kleine schwarze Punkte erkennen.
 
 Ende 2017 enthielt meine regionale Verbreitungskarte drei Fundmarkierungen, die sich mit denen der parasitierenden Zungenkernkeule deckten. Danach kam Tui Gewalt auf die Idee, im von Wildschweinen aufgewühltem Waldboden nach Hirschtrüffeln zu suchen und wurde auf Anhieb auch ohne oberirdische Kernkeulen fündig. Seither kamen 5 weitere Fundpunkte hinzu und es ist mit weiteren zu rechnen.
