@@ -12,7 +12,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/disciotis_venosa_03_dg.jpg
 ---
-Dieser in auwaldähnlichen Biotopen nicht seltene [Ascomyzet](Ascomyzet "Glossar") könnte leicht für einen Becherling gehalten werden, ist aber mit den Morcheln verwandt. Seine braune Innenseite, an der die Sporen gebildet werden, ist typisch geadert bis faltig-furchig; in deutlichem Kontrast hierzu steht die helle, feinkörnige bis kleiige Außenseite. Die [Trama](Trama "Glossar") selbst ist von brüchiger Konsistenz. Untrügliches Merkmal des Pilzes, der bis zu 20 cm Durchmesser erreichen kann, ist sein Chlorgeruch.
+Dieser in auwaldähnlichen Biotopen nicht seltene [Ascomyzet](Ascomyzeten "Glossar") könnte leicht für einen Becherling gehalten werden, ist aber mit den Morcheln verwandt. Seine braune Innenseite, an der die Sporen gebildet werden, ist typisch geadert bis faltig-furchig; in deutlichem Kontrast hierzu steht die helle, feinkörnige bis kleiige Außenseite. Die [Trama](Trama "Glossar") selbst ist von brüchiger Konsistenz. Untrügliches Merkmal des Pilzes, der bis zu 20 cm Durchmesser erreichen kann, ist sein Chlorgeruch.
 
 Auch die Namen geben Auskunft über seine Eigenschaften. Aderiger Becherling beschreibt die Struktur seiner Innenseite, Morchelbecherling verweist auf die Zugehörigkeit zur Familie der Morchelartigen (Morchellaceae), oder vielleicht auch auf den Speisewert des Pilzes. Von Kennern wird er ebenso geschätzt wie die delikaten Morcheln. Mit den Becherlingen ist er nicht verwandt. Der Name *Flatschmorchel* bezieht sich darauf, dass sie im Gegensatz zu den Morcheln keine aufrechte Wuchsform haben und vor allem im Alter wie platt getreten aussehen können.
 
