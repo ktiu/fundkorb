@@ -13,7 +13,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/echinoderma_asperum_01_dg.jpg
 ---
-Der Name Schirmling könnte im Prinzip auf viele Pilze zutreffen, die in Hut und Stiel gegliedert sind. Viele haben schirmartige Hüte. So ist die Gattung Riesenschirmlinge nicht näher mit der Gattung Schirmlinge verwandt als Seepferdchen mit Pferden. Außerdem gibt es noch die Körnchenschirmlinge, die Zwergschirmlinge, die Mehlschirmlinge, die Faltenschirmlinge, die Schleimschirmlinge, die Puderschirmlinge, die Seidenschirmlinge, die Egerlingsschirmlinge und die Stachelschirmlinge. Zu letzteren gehört der Raue Schirmling, der auch Spitzschuppiger Schirmling genannt wird und die mit Abstand häufigste Art dieser Gattung ist, ohne wirklich häufig zu sein. Verwechselt werden könnte er mit einigen nahe verwandten Arten aus der gleichen Gattung.
+Der Name Schirmling könnte im Prinzip auf viele Pilze zutreffen, die in Hut und Stiel gegliedert sind. Viele haben schirmartige Hüte. So ist die Gattung Riesenschirmlinge nicht näher mit der Gattung Schirmlinge verwandt als Seepferdchen mit Pferden. Außerdem gibt es noch die Körnchenschirmlinge, die Zwergschirmlinge, die Mehlschirmlinge, die Faltenschirmlinge, die Schleimschirmlinge, die Puderschirmlinge, die Seidenschirmlinge, die Egerlingsschirmlinge und die Stachelschirmlinge. Zu letzteren gehört der Raue Schirmling, der auch Spitzschuppiger Schirmling genannt wird und die mit Abstand häufigste Art dieser Gattung ist, ohne wirklich häufig zu sein. Verwechselt werden könnte er mit einigen nahe verwandten Arten aus der gleichen Gattung. 
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/echinoderma_asperum_02_dg.jpg" %}
