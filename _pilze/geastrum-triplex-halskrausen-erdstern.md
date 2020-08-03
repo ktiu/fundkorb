@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/g/Geastrum_triplex.html
 ---
-Manche Pilze kann man kaum prägnanter beschreiben als mit ihrem Namen. Zu ihnen gehört der Halskrausen-Erdstern. Beim sternförmigen Aufspalten seiner äußeren Hülle in 4 bis 8 (meistens 5) Lappen brechen diese und es sieht so aus, als sei die Sporenkugel von einer Halskrause oder einem Stehkragen umrahmt. An diesem Merkmal ist der voll entwickelte Pilz immer gut zu erkennen. Im Jugendstadium (bevor die Exoperidie aufreißt und sich die Lappen nach außen biegen) gleichen die Fruchtkörper einer Zwiebel, mit der ein unerfahrener Finder nichts anzufangen weiß.
+Manche Pilze kann man kaum prägnanter beschreiben als mit ihrem Namen. Zu ihnen gehört der Halskrausen-Erdstern. Beim sternförmigen Aufspalten seiner äußeren Hülle in 4 bis 8 (meistens 5) Lappen brechen diese und es sieht so aus, als sei die Sporenkugel von einer Halskrause oder einem Stehkragen umrahmt. An diesem Merkmal ist der voll entwickelte Pilz immer gut zu erkennen. Im Jugendstadium (bevor die [Exoperidie](Exoperidie "Glossar") aufreißt und sich die Lappen nach außen biegen) gleichen die Fruchtkörper einer Zwiebel, mit der ein unerfahrener Finder nichts anzufangen weiß.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/geastrum_triplex_05_dg.jpg" nocrop=true %}
