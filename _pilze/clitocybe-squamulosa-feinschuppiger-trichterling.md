@@ -3,8 +3,9 @@ beschreibung:
   wissenschaftlich: Clitocybe squamulosa
   deutsch: Feinschuppiger Trichterling
   referenz: (Pers.) P. Kumm. 1871
-  synonym: "Synonym: Infundibulicybe squamulosa / squamulosa = feinschuppig"
+  synonym: "Synonym: Infundibulicybe squamulosa "
   familie: Tricholomataceae
+  erlaeuterung: squamulosa = feinschuppig
 profil:
   aktualisiert: 2020-07-27
   autor_in: Dieter Gewalt
