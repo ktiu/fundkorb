@@ -25,5 +25,3 @@ Der Spindelige Rübling gehört zu den Pilzen, die man auf den ersten Blick sich
 {% include bild.html datei="/bilder/gymnopus_fusipes_02_dg.jpg" %}
 {% include bild.html datei="/bilder/gymnopus_fusipes_04_dg.jpg" %}
 {% include abbildung_ende.html legende="Foto rechts: Auch diese merkwürdige Gestalt ist ein Spindeliger Rübling" %}
-
-x
