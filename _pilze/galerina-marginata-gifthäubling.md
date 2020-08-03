@@ -36,7 +36,7 @@ Unterschiede in der Stielbekleidung können bei untypischer Ausprägung, aber au
 {% include bild.html datei="/bilder/galerina_marginata_04_fk.jpg" %}
 {% include abbildung_ende.html legende="Sporen Galerina marginata, gemessener Durchschnittswert: 9,2 x 5,4 µm             (Mikrofoto und Foto rechts von Frank Kaster)" %}
 
-Unterschiede Gifthäubling   Stockschwämmchen
+Unterschiede Gifthäubling   Stockschwämmchen 
 
 ```
 Stockschwämmchen (Kuehneromyces mutabilis)	Gifthäubling (Galerina marginata)
