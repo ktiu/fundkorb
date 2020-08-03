@@ -31,7 +31,7 @@ Die **Sporenpulverfarbe** ist weiß.
 
 Der Waldfreundrübling kann mit einigen sehr ähnlichen Arten aus der gleichen Gattung verwechselt werden, wobei die Abgrenzung oft schwierig ist und mikroskopiert werden muss. Der Hellhütige Waldfreundrübling *Gymnopus aquosus* wird wegen seiner frühen Erscheinungszeit auch *Früher Waldfreundrübling* genannt. 90% der in Baden-Württemberg erfassten Funde sind aus den Monaten Mai (24) und Juni (8). Er kann einzeln, gesellig oder büschelig wachsend vorkommen und ist ziemlich selten. Der Gelbblättrige Waldfreundrübling *Gymnopus ocior* zeichnet sich durch gelbliche Lamellen aus und wächst meist büschelig. Der Rotstielige Büschelrübling *Gymnopus erythropus* fällt durch seine über die ganze Länge rotbraunen Stiele auf.
 
-Mikroskopische Unterscheidungsmerkmale:
+Mikroskopische Unterscheidungsmerkmale: 
 
 **Gymnopus aquosu**s = Hellblättriger Waldfreundrübling: Sporen 4,5 – 7 x 2 – 4 µm; Cheilozystiden unregelmäßig keulig, meist ohne Auswüchse\
 **Gymnopus dryophilu**s = Gemeiner Waldfreundrübling: Sporen 3,5 – 7 x 2 – 4 µm; Cheilozystiden unregelmäßig keulig mit korallenartigen Auswüchsen\
