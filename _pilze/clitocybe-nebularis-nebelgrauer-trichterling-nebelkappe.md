@@ -3,8 +3,9 @@ beschreibung:
   wissenschaftlich: Clitocybe nebularis
   deutsch: Nebelgrauer Trichterling, Nebelkappe
   referenz: "(Batsch) P. Kumm. 1871 "
-  synonym: "Synonym: Lepista nebularis / nebularis = nebelgrau"
+  synonym: "Synonym: Lepista nebularis"
   familie: Tricholomataceae
+  erlaeuterung: nebularis = nebelgrau
 profil:
   aktualisiert: 2020-07-27
   autor_in: Dieter Gewalt
