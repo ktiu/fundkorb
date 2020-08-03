@@ -4,7 +4,8 @@ beschreibung:
   deutsch: Mönchskopf
   referenz: "(Bull.) Quél. 1872 "
   familie: Tricholomataceae
-  synonym: "Neuer Name: Infundibulicybe geotropa / geotropa = zur Erde gewandt"
+  synonym: "Neuer Name: Infundibulicybe geotropa"
+  erlaeuterung: geotropa = zur Erde gewandt
 profil:
   aktualisiert: 2020-07-27
   autor_in: Dieter Gewalt
