@@ -4,7 +4,8 @@ beschreibung:
   deutsch: Ockerbrauner Trichterling
   referenz: "(Pers.) P. Kumm. 1871 "
   familie: Tricholomataceae
-  synonym: "Neuer Name: Infundibulicybe gibba /  gibba = Buckel, Höcker"
+  synonym: "Neuer Name: Infundibulicybe gibba"
+  erlaeuterung: gibba = Buckel, Höcker
 profil:
   aktualisiert: 2020-07-27
   autor_in: Dieter Gewalt
