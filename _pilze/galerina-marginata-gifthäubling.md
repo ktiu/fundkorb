@@ -26,8 +26,12 @@ Der Gifthäubling wächst sowohl im Nadel- wie im Laubwald, nicht selten zusamme
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/galerina_marginata_02_nk.jpg" %}
-{% include bild.html datei="/bilder/galerina_marginata_04_fk.jpg" %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/kuehneromyces_mutabilis_05_dg.jpg" %}
+{% include abbildung_ende.html legende="Links: Gifthäubling (Foto: Norbert Kühnberger)   /  Rechts: Stockschwämmchen" %}
+
+
+
+
 
 Unterschiede in der Stielbekleidung können bei untypischer Ausprägung, aber auch alters- und witterungsbedingt undeutlich werden. Erschwerend kommt hinzu, dass der Begriff „Gifthäubling“ als Sammelbezeichnung für mehrere nah verwandte Häublingsarten aufgefasst werden kann, die nur schwer oder mikroskopisch sicher unterscheidbar und ebenfalls tödlich giftig sind, z. B. Galerina autumnalis, G. sideroides, G. badipes. Unter diesen gibt es Arten, die flockig-schuppige Stiele oder glatte Sporen haben können.
 
@@ -35,6 +39,15 @@ Unterschiede in der Stielbekleidung können bei untypischer Ausprägung, aber au
 {% include bild.html datei="/bilder/galerina_marginata_05_fk.jpg" %}
 {% include bild.html datei="/bilder/galerina_marginata_04_fk.jpg" %}
 {% include abbildung_ende.html %}
+
+Unterschiede Gifthäubling   Stockschwämmchen
+
+	Stockschwämmchen (Kuehneromyces mutabilis)	Gifthäubling (Galerina marginata)
+Stiel unterhalb der Ringzone	flockig schupig	silbrig längsfaserig
+Geruch	angenehm würzig, pilzig	mehlig, muffig (Hut zerdrücken)
+Geschmack	angenehm, mild, nussig	mehlig, ranzig
+Sporen	glatt, 6-7,5 x 3-4,5 µm	warzig, 8-10 x 5-6 µm
+ 
 
 Über zwei Todesfälle durch Gifthäublinge (Galerina sp.) hat Hermine Lotz-Winter 2013 berichtet:
 Am Montag, 22.10.2012, erhielt ich am frühen Morgen einen Notruf – das Giftinformationszentrum Mainz bat um Hilfe, denn vier Personen hatten gezielt Stockschwämmchen gesammelt und am Freitag gegessen. Es waren „langjährig erfahrene“ Pilzsammler. Bereits am Freitag trat eine Vergiftungssymptomatik mit Erbrechen und Durchfall auf. In der Nacht von Sonntag auf Montag kamen dann alle mit schweren Vergiftungserscheinungen ins Krankenhaus. Es waren noch Pilze vorhanden, die kurz vor 6 Uhr mit Taxis bei mir ankamen. Diese Reste, verpackt in zwei Plastiktüten, wogen gemeinsam über 500 g!!!!! Es waren Dutzende von Hüten, knapp abgeschnitten, nur bei einigen der bereits recht matschigen, durchwegs nougatbraunen Hüte war noch ein Stielrest vorhanden, der allerhöchstens bis zur Ringzone zu sehen war. Die Hüte waren teilweise am Rand gerieft und da sie sehr feucht waren, gab es kein Ausblassen zu sehen. Die flachen und dünnfleischigen Hüte sahen für mich schon in den Säcken nach Galerina aus. Ein mehliger Geruch war nicht festzustellen, eher schon ein Zersetzungsgeruch. Ich habe aus jedem Sack 10 Hütchen ausgewählt und je ein Lamellenquetschpräparat gemacht. Allerdings habe ich bereits nach dem dritten Präparat auf eine mögliche Amanitin-Vergiftung hinweisen müssen, denn es waren eindeutig Galerina-Sporen wie aus dem Lehrbuch: gelblich-braun, warzig, mit deutlich sichtbarem Plage, leicht ablösendem Perispor, etwa 9 – 10.5 X 5 µm groß und mandelförmig. Ich vermute, dass es sich bei den Pilzen um ausschließlich Galerina aus dem marginata-Formenkreis handelt. Bei Durchsehen der vielen Hütchen in den beiden Säcken habe ich jedenfalls nur gleichartige Pilzhüte sehen können. Das bittere Ende: wie Anfang 2013 bekannt wurde, verstarben zwei der Patienten an den Folgen der Amanitin-Vergiftung.
