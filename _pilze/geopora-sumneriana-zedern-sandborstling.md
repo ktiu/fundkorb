@@ -45,5 +45,3 @@ Im Frankfurter Hauptfriedhof stehen zahlreiche Zedern in einer langen Reihe entl
 {% include bild.html datei="/bilder/geopora_sumneriana_05_dg.jpg" %}
 {% include bild.html datei="/bilder/geopora_sumneriana_03_dg.jpg" %}
 {% include abbildung_ende.html legende="Im Stadtgebiet von Dietzenbach gibt es zwei öffentlich zugängliche Zedern, und unter beiden konnten ab Anfang April 2017 zahlreiche zum Teil prächtig entwickelte Fruchtkörper beobachtet werden." %}
-
-c
