@@ -12,7 +12,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/geastrum_striatum_02_dg.jpg
 ---
-Erdsterne werden primär anhand makroskopischer Merkmale bestimmt, wobei die Fruchtkörper sowohl in frischem als auch in trockenem Zustand zu untersuchen sind. Mit populärer Pilzliteratur wird man allerdings kaum zu einer tragfähigen Lösung kommen. Selbst mit Breitenbach & Kränzlin: Pilze der Schweiz laufen Bestimmungsversuche bei nur 5 behandelten Arten oft ins Leere. Sehr zu empfehlen ist Heinrich Dörfelt: Die Erdsterne. Hier sind 26 Arten geschlüsselt und beschrieben.
+Erdsterne werden primär anhand makroskopischer Merkmale bestimmt, wobei die Fruchtkörper sowohl in frischem als auch in trockenem Zustand zu untersuchen sind. Mit populärer Pilzliteratur wird man allerdings kaum zu einer tragfähigen Lösung kommen. Selbst mit *Breitenbach & Kränzlin: Pilze der Schweiz* laufen Bestimmungsversuche bei nur 5 behandelten Arten oft ins Leere. Sehr zu empfehlen ist *Heinrich Dörfelt: Die Erdsterne*. Hier sind 26 Arten geschlüsselt und beschrieben.
 
 Der hier vorgestellte Kragen-Erdstern ist durch folgende Merkmale gekennzeichnet:
 
