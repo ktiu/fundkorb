@@ -17,13 +17,11 @@ Der Gelbblättrige Waldfreundrübling Gymnopus ocior zeichnet sich durch gelblic
 
 ##### Mikroskopische Unterscheidungsmerkmale:
 
-**Gymnopus aquosu**s = Hellblättriger Waldfreundrübling: Sporen 4,5 – 7 x 2 – 4 µm; Cheilozystiden unregelmäßig keulig, meist ohne Auswüchse\
-**Gymnopus dryophilu**s = Gemeiner Waldfreundrübling: Sporen 3,5 – 7 x 2 – 4 µm; Cheilozystiden unregelmäßig keulig mit korallenartigen Auswüchsen\
-**Gymnopus erythropus** = Rotstieliger Büschelrübling: Sporen 6 – 8 x 3 – 4 µm; Cheilozystiden unregelmäßig keulig mit kurzen Fortsätzen oder fingerförmigen Auswüchsen\
+**Gymnopus aquosu**s = Hellblättriger Waldfreundrübling: Sporen 4,5 – 7 x 2 – 4 µm; Cheilozystiden unregelmäßig keulig, meist ohne Auswüchse  
+**Gymnopus dryophilu**s = Gemeiner Waldfreundrübling: Sporen 3,5 – 7 x 2 – 4 µm; Cheilozystiden unregelmäßig keulig mit korallenartigen Auswüchsen  
+**Gymnopus erythropus** = Rotstieliger Büschelrübling: Sporen 6 – 8 x 3 – 4 µm; Cheilozystiden unregelmäßig keulig mit kurzen Fortsätzen oder fingerförmigen Auswüchsen  
 **Gymnopus ocior** = Gelbblättriger Waldfreundrübling: Sporen 5 – 6,5 x 3 – 4 µm; Cheilozystiden schlank keulig bis gestielt kugelförmig, selten mit einem oder mehreren fingerförmigen Auswüchsen
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/gymnopus_ocior_01_hr.jpg" %}
 {% include abbildung_ende.html legende="Foto; Harry Regin" %}
-
-xxx
