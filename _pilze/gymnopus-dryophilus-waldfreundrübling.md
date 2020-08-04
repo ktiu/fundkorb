@@ -24,10 +24,9 @@ Der Waldfreundrübling ist einer der häufigsten in der Laub- oder Nadelstreu un
 
 **Hut:** bis 5 cm breit, hellocker, rötlich gelb bis orange-bräunlich, stark  hygrophan und sehr dünnfleischig. Hutmitte oft etwas knopfartig verdickt, bildet exakt die Anwuchsstelle des Stieles ab. Hutrand ungerieft und oft lappig verbogen.  
 **Lamellen:** weiß, sehr gedrängt stehend und den Stiel nicht direkt erreichend  
-**Geruch:** nicht unangenehm, erinnert an frisch gesägtes Holz.\
+**Geruch:** nicht unangenehm, erinnert an frisch gesägtes Holz.  
 **Geschmack:** mild, unspezifisch  
 **Stiel:** schlank, glatt, zäh, meist bis etwa 6 cm lang, hohl, in der Farbe ähnlich wie der Hut. An der Basis oft mit  [Myzelfilz](Myzel "Glossar")  
-
 Die **Sporenpulverfarbe** ist weiß.
 
 Der Waldfreundrübling kann mit einigen sehr ähnlichen Arten aus der gleichen Gattung verwechselt werden, wobei die Abgrenzung oft schwierig ist und mikroskopiert werden muss. Der Hellhütige Waldfreundrübling *Gymnopus aquosus* wird wegen seiner frühen Erscheinungszeit auch *Früher Waldfreundrübling* genannt. 90% der in Baden-Württemberg erfassten Funde sind aus den Monaten Mai (24) und Juni (8). Er kann einzeln, gesellig oder büschelig wachsend vorkommen und ist ziemlich selten. Der Gelbblättrige Waldfreundrübling *Gymnopus ocior* zeichnet sich durch gelbliche Lamellen aus und wächst meist büschelig. Der Rotstielige Büschelrübling *Gymnopus erythropus* fällt durch seine über die ganze Länge rotbraunen Stiele auf.
