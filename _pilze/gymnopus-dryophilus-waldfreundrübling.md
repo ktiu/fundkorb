@@ -20,7 +20,7 @@ Der Waldfreundrübling ist einer der häufigsten in der Laub- oder Nadelstreu un
 {% include bild.html datei="/bilder/gymnopus_dryophilus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Kurzbeschreibung:
+##### Kurzbeschreibung:
 
 **Hut:** bis 5 cm breit, hellocker, rötlich gelb bis orange-bräunlich, stark  hygrophan und sehr dünnfleischig. Hutmitte oft etwas knopfartig verdickt, bildet exakt die Anwuchsstelle des Stieles ab. Hutrand ungerieft und oft lappig verbogen.\
 **Lamellen:** weiß, sehr gedrängt stehend und den Stiel nicht direkt erreichend\
