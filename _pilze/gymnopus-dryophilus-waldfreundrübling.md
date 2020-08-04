@@ -22,7 +22,7 @@ Der Waldfreundrübling ist einer der häufigsten in der Laub- oder Nadelstreu un
 
 ##### Kurzbeschreibung:
 
-**Hut:** bis 5 cm breit, hellocker, rötlich gelb bis orange-bräunlich, stark  hygrophan und sehr dünnfleischig. Hutmitte oft etwas knopfartig verdickt, bildet exakt die Anwuchsstelle des Stieles ab. Hutrand ungerieft und oft lappig verbogen.
+**Hut:** bis 5 cm breit, hellocker, rötlich gelb bis orange-bräunlich, stark  hygrophan und sehr dünnfleischig. Hutmitte oft etwas knopfartig verdickt, bildet exakt die Anwuchsstelle des Stieles ab. Hutrand ungerieft und oft lappig verbogen.\
 **Lamellen:** weiß, sehr gedrängt stehend und den Stiel nicht direkt erreichend\
 **Geruch:** nicht unangenehm, erinnert an frisch gesägtes Holz.\
 **Geschmack:** mild, unspezifisch\
