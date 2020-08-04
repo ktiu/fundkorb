@@ -11,6 +11,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/gyrodon_lividus_01_dg.jpg
+literatur:
+  - url: http://tintling.com/pilzbuch/arten/g/Gyrodon_lividus.html
 ---
 Nichts leichter als diesen Röhrling zu erkennen und ihn sicher von allen anderen zu unterscheiden! Er ist der einzige mit deutlich am Stiel herablaufenden Röhren, die zudem noch sehr kurz, sehr fein und schwer ablösbar sind. Jung sind sie leuchtend gelb, später schmutzig oliv, auf Druck dunkelblau verfärbend. 
 
