@@ -21,8 +21,8 @@ Bei einer Exkursion in einem Wald zwischen Messel und Eppertshausen (mein Unters
 
 ##### Kurzbeschreibung:
 
-**Hut:** 2 – 2 cm Durchmesser, sehr dünnfleischig, gelb- bis orangebraun, hygrophan, Oberfläche feinsamtig, mit zentralem Buckelchen, Hutrand gerieft.
-**Stiel:** dünn, knorpelig zäh, zur Basis dunklerLamellen: weißlich, untermischt, sehr dicht stehend
+**Hut:** 2 – 2 cm Durchmesser, sehr dünnfleischig, gelb- bis orangebraun, hygrophan, Oberfläche feinsamtig, mit zentralem Buckelchen, Hutrand gerieft.  
+**Stiel:** dünn, knorpelig zäh, zur Basis dunklerLamellen: weißlich, untermischt, sehr dicht stehend  
 **Sporenpulver:** weiß, Sporen elliptisch (7 – 10 x 3,5 – 4,5 µm)
 
 Ein Blick in den Verbreitungsatlas von 1991 zeigte, dass es sich um eine extrem seltene Art handeln musste. Unter *Micromphale inodorum* fand sich im Artenverzeichnis der Hinweis: „Eindeutige Nachweise bisher nur im Elsaß“. In *Die Großpilze Baden-Württembergs (Band 3, 2001)* sind unter dem Namen Collybia inodora zwei Fundberichte angeführt. In der aktuellen [Verbeitungskarte der DGfM](http://hessen.pilze-deutschland.de/organismen/gymnopus-inodorus-pat-anton%C3%ADn-noordel-1997-1) (Stand: Juni 2020) sind für das Bundesland Hessen zwei Funde eingetragen: der hier beschriebene vom 10.09.2004 und der von *Harald Zühlsdorf* vom 21.08.2006 bei Wetzlar. Bei unserer Aufsammlung dürfte es sich also um einen Erstfund für Hessen gehandelt haben.
