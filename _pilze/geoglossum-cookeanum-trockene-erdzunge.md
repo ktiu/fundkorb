@@ -65,17 +65,17 @@ Interessant ist auch eine Bemerkung von BENKERT, der schreibt: „In den Niederl
 
 ##### Literatur
 
-BENKERT, D. (1976): Bemerkenswerte Ascomyceten der DDR II – Die Gattungen Geoglossum und Trichoglossum in der DDR, in: Myk. Mittlgsbl. 20 S. 47-92\
-BENKERT, D. (1991): Verbreitungskarten von Geoglossaceen in der DDR, in: Gleditschia 19, 1991, 203-234\
-BENKERT, D. (1996): Zur Variabilität der Paraphysen in der Gattung Geoglossum: was ist Geoglossum barlae?, in: Feddes Rep. 107, S. 269-276\
-BREITENBACH, J. & F. KRÄNZLIN (1984): Pilze der Schweiz Bd. 1 – Luzern, S. 130\
-DEUTSCHE GESELLSCHAFT FÜR MYKOLOGIE u. NATURSCHUTZBUND DEUTSCHLAND (Hg.) (1992): Rote Liste der gefährdeten Großpilze Deutschlands – Eching. S. 28\
-IRLET, B. (1984): Ein Beitrag zur Discomycetenflora der alpinen Stufe der Schweizer Alpen, in: Mycologia Helvetica 1, S. 129-143, hier S. 130 f. u. 140\
-KASPAREK, F. (1996): Die täuschende Erdzunge, in: Der Tintling 1,3, S. 17-18\
-KRIEGLSTEINER, G. J. (1993): Verbreitungsatlas der Großpilze Deutschlands (West), Bd. 2: Schlauchpilze – Stuttgart S. 250\
-LEHR, T. (2005): Von Entenköpfen und Perlenketten. Die ungewöhnlichen Paraphysn der Trockenen Erdzunge Geoglossum cookeianum Nannf., in: Südwestdeutsche Pilzrundschau 41/2, S. 42-47 (hier handelt es sich um eine etwas geänderte Fassung des vorliegenden Artikels)\
-LÜDERITZ, M. (2001): Die Großpilze Schleswig-Holsteins – Rote Liste Bd. 1 – Kiel S. 61\
-MAAS-GEESTERANUS, R. A. (1964): De Fungi von Nederland I. Geoglossaceae – aardtongen, in: Wetensch. Med. K. Nederl. Nautur. Ver. 52, S. 1-24\
-NANNFELDT, J. A. (1942): The Geoglossaceae of Sweden (with regard also to the Surrounding Countries), in: Arkiv för Botanik 30 A, S. 1-67\
-SPOONER, B. M. (1987): Helotiales of Australasia: Geoglossaceae, Orbiliaceae, Sclerotiniaceae, Hyaloscyphaceae (Bibliotheca Mycologica 116) – Berlin u. Stuttgart, v. a. S. 82-117\
+BENKERT, D. (1976): Bemerkenswerte Ascomyceten der DDR II – Die Gattungen Geoglossum und Trichoglossum in der DDR, in: Myk. Mittlgsbl. 20 S. 47-9  
+BENKERT, D. (1991): Verbreitungskarten von Geoglossaceen in der DDR, in: Gleditschia 19, 1991, 203-234  
+BENKERT, D. (1996): Zur Variabilität der Paraphysen in der Gattung Geoglossum: was ist Geoglossum barlae?, in: Feddes Rep. 107, S. 269-276  
+BREITENBACH, J. & F. KRÄNZLIN (1984): Pilze der Schweiz Bd. 1 – Luzern, S. 130  
+DEUTSCHE GESELLSCHAFT FÜR MYKOLOGIE u. NATURSCHUTZBUND DEUTSCHLAND (Hg.) (1992): Rote Liste der gefährdeten Großpilze Deutschlands – Eching. S. 28  
+IRLET, B. (1984): Ein Beitrag zur Discomycetenflora der alpinen Stufe der Schweizer Alpen, in: Mycologia Helvetica 1, S. 129-143, hier S. 130 f. u. 140  
+KASPAREK, F. (1996): Die täuschende Erdzunge, in: Der Tintling 1,3, S. 17-18  
+KRIEGLSTEINER, G. J. (1993): Verbreitungsatlas der Großpilze Deutschlands (West), Bd. 2: Schlauchpilze – Stuttgart S. 250  
+LEHR, T. (2005): Von Entenköpfen und Perlenketten. Die ungewöhnlichen Paraphysn der Trockenen Erdzunge Geoglossum cookeianum Nannf., in: Südwestdeutsche Pilzrundschau 41/2, S. 42-47 (hier handelt es sich um eine etwas geänderte Fassung des vorliegenden Artikels)  
+LÜDERITZ, M. (2001): Die Großpilze Schleswig-Holsteins – Rote Liste Bd. 1 – Kiel S. 61  
+MAAS-GEESTERANUS, R. A. (1964): De Fungi von Nederland I. Geoglossaceae – aardtongen, in: Wetensch. Med. K. Nederl. Nautur. Ver. 52, S. 1-24  
+NANNFELDT, J. A. (1942): The Geoglossaceae of Sweden (with regard also to the Surrounding Countries), in: Arkiv för Botanik 30 A, S. 1-67  
+SPOONER, B. M. (1987): Helotiales of Australasia: Geoglossaceae, Orbiliaceae, Sclerotiniaceae, Hyaloscyphaceae (Bibliotheca Mycologica 116) – Berlin u. Stuttgart, v. a. S. 82-117  
 WÖLDECKE, K. (1998): Die Großpilze Niedersachsens und Bremens – Hannover. S. 199
