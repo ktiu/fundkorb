@@ -27,7 +27,7 @@ Manche Pilze kann man kaum prägnanter beschreiben als mit ihrem Namen. Zu ihnen
 
 Teilnehmer an den Pilzführungen der vhs Rodgau und den FundGroup-Exkursionen sind die attraktiven, ungewöhnlich geformten Pilze und ihr Standort an der Gänsbrüh bestens bekannt, aber wir haben sie auch schon an mehreren anderen Orten im Rhein-Main-Gebiet (Dietzenbach, Frankfurter Stadtwald, F-Riederwald, Grillplatz Jügesheim, u. a.) gefunden.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/geastrum_triplex_06_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="So sieht ein Halskrausen-Erdstern aus, wenn sein zwiebelförmiges Frühstadium aufplatzt" %}
 
