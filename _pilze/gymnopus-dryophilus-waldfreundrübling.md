@@ -33,8 +33,9 @@ Der Waldfreundrübling kann mit einigen sehr ähnlichen Arten aus der gleichen G
 
 ##### Mikroskopische Unterscheidungsmerkmale: 
 
-**Gymnopus aquosu**s = Hellblättriger Waldfreundrübling: Sporen 4,5 – 7 x 2 – 4 µm; Cheilozystiden unregelmäßig keulig, meist ohne Auswüchse  
-**Gymnopus dryophilu**s = Gemeiner Waldfreundrübling: Sporen 3,5 – 7 x 2 – 4 µm; Cheilozystiden unregelmäßig keulig mit korallenartigen Auswüchsen  
+**Gymnopus aquosus** = Hellblättriger Waldfreundrübling: Sporen 4,5 – 7 x 2 – 4 µm; Cheilozystiden unregelmäßig keulig, meist ohne Auswüchse 
+
+**Gymnopus dryophilus** = Gemeiner Waldfreundrübling: Sporen 3,5 – 7 x 2 – 4 µm; Cheilozystiden unregelmäßig keulig mit korallenartigen Auswüchsen  
 **Gymnopus erythropus** = Rotstieliger Büschelrübling: Sporen 6 – 8 x 3 – 4 µm; Cheilozystiden unregelmäßig keulig mit kurzen Fortsätzen oder fingerförmigen Auswüchsen  
 **Gymnopus ocior** = Gelbblättriger Waldfreundrübling: Sporen 5 – 6,5 x 3 – 4 µm; Cheilozystiden schlank keulig bis gestielt kugelförmig, selten mit einem oder mehreren fingerförmigen Auswüchsen
 
