@@ -23,7 +23,7 @@ Es handelt sich um einen Rostpilz, der 5 verschiedene Sporentypen erzeugt und in
 
 Und so zeigt sich der Birnengitterrost nach seinem Wirtswechsel:
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/gymnosporangium_sabinae_02_dg.jpg" %}
 {% include bild.html datei="/bilder/gymnosporangium_sabinae_03_dg.jpg" %}
 {% include abbildung_ende.html %}
