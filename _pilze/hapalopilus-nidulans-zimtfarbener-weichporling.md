@@ -13,8 +13,6 @@ hauptbild:
   anzeige: true
   datei: /bilder/hapalopilus_nidulans_01_dg.jpg
 literatur:
-  - text: Werner Pohl, Aphyllopower (Pilz Nr. 63)
-    url: http://aphyllopower.blogspot.com/2008/06/
   - text: Werner Pohl, Aphyllopower (Pilz Nr. 63
     url: http://aphyllopower.blogspot.com/2008/06/
   - url: http://www.dgfm-ev.de/sites/default/files/ZM582173Langner.pdf
