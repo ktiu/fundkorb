@@ -47,7 +47,7 @@ Tipps zur Anzucht der kopfig-gestielten Fruchtkörper aus Mutterkörnern hat Fre
 
 Auch ich habe bei mehrfachen Kultivierungsversuchen auf eine „Anzucht“ der Keulchen gehofft, bisher leider erfolglos.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/claviceps_purpurea_05_dg.jpg" %}
 {% include abbildung_ende.html legende="Massenhaft Mutterkörner an Chinagras (Miscanthus sinensis) – 23.11.2017 Friedhof Westhausen" %}
 
@@ -60,7 +60,7 @@ Auch ich habe bei mehrfachen Kultivierungsversuchen auf eine „Anzucht“ der K
 
 Die Leiden durch die vom Mutterkorn verursachte Krankheit wird sogar im rechten Flügel des berühmten Isenheimer Altars von Matthias Grünewald aus dem Jahr 1516 dargestellt. Mitglieder des Antoniterordens hatten sich damals schon der Bekämpfung von Seuchen und Krankheiten gewidmet, darunter auch dem als „Antoniusfeuer“ bekannten Ergotismus.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/claviceps_purpurea_08_wi.jpg" %}
 {% include abbildung_ende.html legende="Foto: © Jörgens.mi, CC BY-SA 3.0" %}
 
