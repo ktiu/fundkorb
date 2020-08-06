@@ -1,5 +1,5 @@
 ---
-schlagwort: "Anastomosen"
+schlagwort: Anastomosen
 ---
-aderige Querverbindungen zwischen Lamellen, Leisten oder Adern; anastomisierend = Anastomosen bildend
+aderige Querverbindungen zwischen Lamellen, Leisten oder Adern; anastomosierend = Anastomosen bildend
 
