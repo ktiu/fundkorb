@@ -15,6 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/h/Hygrocybe_pratensis.html
 ---
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrocybe_pratensis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
