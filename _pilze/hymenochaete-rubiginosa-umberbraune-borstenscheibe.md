@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/h/Hymenochaete_rubiginosa.html
 ---
-Vom Habitus (Erscheinungsbild) ähneln die Borstenscheiben den Schichtpilzen, sind mit diesen aber nicht im Entferntesten verwandt. Sie wachsen als dünne, fächerförmige Hütchen an totem Holz, wobei die glatte bis runzelige Fruchtschicht (Hymenium) die Unterseite bildet und zum Teil als krustige, [resupinate](<resupinat "Glossar">) Schicht mit dem Holz verbunden ist. Die Fruchtkörper sind frisch lederig zäh, trocken steif und brüchig. Sie können mehrere Jahre alt werden.
+Vom Habitus (Erscheinungsbild) ähneln die Borstenscheiben den Schichtpilzen, sind mit diesen aber nicht im Entferntesten verwandt. Sie wachsen als dünne, fächerförmige Hütchen an totem Holz, wobei die glatte bis runzelige Fruchtschicht (Hymenium) die Unterseite bildet und zum Teil als krustige, [resupinate](resupinat "Glossar") Schicht mit dem Holz verbunden ist. Die Fruchtkörper sind frisch lederig zäh, trocken steif und brüchig. Sie können mehrere Jahre alt werden.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/hymenochaete_rubiginosa_04_dg.jpg" %}
