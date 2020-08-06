@@ -36,7 +36,7 @@ Medizinische Bedeutung hat das Mutterkorn dagegen in der Geburtsheilkunde erfahr
 
 Durch Mutterkorn verunreinigtes Getreide gelangt heute kaum noch ins Brot. Bereits vor der Ernte sorgt der Einsatz von Fungiziden für die Eindämmung des Mutterkornpilzes. Nach der Ernte werden die schwarzen Sklerotien durch Siebe, Aspiration und Auslesen entfernt, neuerdings sind auch Farben erkennende Auslesegeräte im Einsatz.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/claviceps_purpurea_03_dg.jpg" %}
 {% include bild.html datei="/bilder/claviceps_purpurea_04_dg.jpg" %}
 {% include abbildung_ende.html legende="Mutterkorn ist auch an ganz normalen Gräsern zu finden, an denen es schlankere Sklerotien bildet." %}
