@@ -17,10 +17,9 @@ Ein Blätterpilz ohne auffallende Merkmale – so könnte man den Buchenwald-Was
 
 Er wird von manchen Autoren zwar als essbar bezeichnet, doch da er kaum einmal in nennenswerter Zahl erscheint und nur wenigen eine sichere Bestimmung gelingt, macht das Sammeln keinen Sinn. Er erscheint schon im Frühjahr und kann bis in den Spätherbst gefunden werden – wie der Name verrät, vor allem in Buchenwäldern.
 
-
-
 Im Gegensatz zu seinem optischen (makroskopischen) Erscheinungsbild ist er aufgrund seiner Sporenform durchaus auffällig. So schöne würmchen- oder würstchenartige Sporen weisen nur wenige Blätterpilzarten auf. Diese Form wird mit einem Fachausdruck allantoid genannt. Sie sind recht schmal (2,5 – 4 µm), aber ziemlich lang (7 – 10 µm).
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hydropus_subalpinus_02_uvs.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Sporenfoto von Ulrich van Schoor" %}
+
