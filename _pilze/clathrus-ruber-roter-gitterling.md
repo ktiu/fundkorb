@@ -14,7 +14,7 @@ hauptbild:
   legende: ""
 published: true
 ---
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/clathrus_ruber_01_fk.jpg" %}
 {% include abbildung_ende.html legende="Foto: Frank Kaster" %}
 
