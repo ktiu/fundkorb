@@ -53,8 +53,8 @@ Auch ich habe bei mehrfachen Kultivierungsversuchen auf eine „Anzucht“ der K
 
 19.07.2019, Gebiet Schlosskaute zwischen Dietzenbach und Jügesheim,  ein Roggenfeld am Waldrand: hier waren die Getreideähren so stark mit Mutterkörnern „verseucht“ wie ich es noch nie gesehen habe. Innerhalb weniger Minuten hatten wir die nachfolgend abgebildeten Ähren und Sklerotien eingesammelt. Entlang des Roggenfeldes hätten wir mühelos ein ganzes Säckchen mit den hochgiftigen Mutterkörnern füllen können. In diesem Zusammenhang sei auf eine etwa zeitgleiche Rückrufaktion der Lebensmittelhandelsketten REWE und Edeka hingewiesen. Sie betraf Roggenmehl der Marke „Mehlzauber“, in dem erhöhte Mengen an Ergot-Alkaloiden festgestellt worden waren.
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/claviceps_purpurea_06_dg.jpg" %}
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/claviceps_purpurea_06_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/claviceps_purpurea_07_xx.png" %}
 {% include abbildung_ende.html %}
 
