@@ -41,7 +41,9 @@ Durch Mutterkorn verunreinigtes Getreide gelangt heute kaum noch ins Brot. Berei
 {% include bild.html datei="/bilder/claviceps_purpurea_04_dg.jpg" %}
 {% include abbildung_ende.html legende="Mutterkorn ist auch an ganz normalen Gräsern zu finden, an denen es schlankere Sklerotien bildet." %}
 
-Tipps zur Anzucht der kopfig-gestielten Fruchtkörper aus Mutterkörnern hat Fredy Kasparek auf <https://www.natur-in-nrw.de/HTML/Pilze/Ascomycota/PAS-56.html> gegeben: „Nach jahrelanger vergeblicher Suche dieses Keulchens trotz Markierung der einschlägigen Stellen, kam ich auf die Idee, mehrere mit Mutterkörnern besetzte Ähren mit nach Hause zu nehmen und sie in einen Blumenkasten (die Ähren leicht mit Erde bedeckt) im häuslichen Garten unter Brombeergebüsch zu stellen. Bei länger anhaltenden Trockenperioden wurde der Blumenkasten mit Inhalt wie Blumen gewässert. Die Züchtung gelang problemlos wie die Abbildungen der kleinen fotogenen Keulchen zeigen.“
+Tipps zur Anzucht der kopfig-gestielten Fruchtkörper aus Mutterkörnern hat Fredy Kasparek auf <https://www.natur-in-nrw.de/HTML/Pilze/Ascomycota/PAS-56.html> gegeben: 
+
+> „Nach jahrelanger vergeblicher Suche dieses Keulchens trotz Markierung der einschlägigen Stellen, kam ich auf die Idee, mehrere mit Mutterkörnern besetzte Ähren mit nach Hause zu nehmen und sie in einen Blumenkasten (die Ähren leicht mit Erde bedeckt) im häuslichen Garten unter Brombeergebüsch zu stellen. Bei länger anhaltenden Trockenperioden wurde der Blumenkasten mit Inhalt wie Blumen gewässert. Die Züchtung gelang problemlos wie die Abbildungen der kleinen fotogenen Keulchen zeigen.“
 
 Auch ich habe bei mehrfachen Kultivierungsversuchen auf eine „Anzucht“ der Keulchen gehofft, bisher leider erfolglos.
 
