@@ -10,7 +10,7 @@ profil:
   aktualisiert: 2020-08-06
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: false
+  anzeige: true
   datei: /bilder/hericium_coralloides_01_dg.jpg
 literatur:
   - text: "Hermann Jahn: Pilze die an Holz wachsen"
@@ -37,9 +37,9 @@ Zu finden ist der Ästige Stachelbart an vermorschten Laubholzstämmen, ganz üb
 
 In Mitteleuropa gibt es vier Stachelbart-Arten, die man sehr gut anhand makroskopischer Merkmale auseinanderhalten kann. Ihre Fruchtkörper sind weiß und verfärben im Alter gelblich, orangerötlich bis bräunlich. Die Sporen werden an den stets nach unten gerichteten Stacheln gebildet.
 
-**Hericium cirrhatum** (Syn.: Creolophus cirrhatus, Dorniger Stachelbart): Die kurzen, dornartigen etwa 1 cm langen Stacheln hängen an miteinander verwachsenen dickfleischigen Hüten. An Laubholz, vor allem Buche\
-**Hericium coralloides** (Ästiger Stachelbart): Die kurzen bis zu 1,5 cm langen Stacheln hängen in Reihen wie die Zähne eines Kamms an vielfach verzweigten Ästen. An Lauholz, meist an Buche\
-**Hericium erinaceum** (Igel-Stachelbart): Die bis zu 3 cm langen Stacheln hängen an Fruchtkörperknollen; ich vergleiche das Aussehen gern mit einem Bobtail. An Laubholz (Buche, Eiche)\
+**Hericium cirrhatum** (Syn.: Creolophus cirrhatus, Dorniger Stachelbart): Die kurzen, dornartigen etwa 1 cm langen Stacheln hängen an miteinander verwachsenen dickfleischigen Hüten. An Laubholz, vor allem Buche  
+**Hericium coralloides** (Ästiger Stachelbart): Die kurzen bis zu 1,5 cm langen Stacheln hängen in Reihen wie die Zähne eines Kamms an vielfach verzweigten Ästen. An Lauholz, meist an Buche  
+**Hericium erinaceum** (Igel-Stachelbart): Die bis zu 3 cm langen Stacheln hängen an Fruchtkörperknollen; ich vergleiche das Aussehen gern mit einem Bobtail. An Laubholz (Buche, Eiche)  
 **Hericium flagellum** (Tannen-Stachelbart): Die 0,5 bis 2 cm langen Stacheln hängen büschelig (nicht reihig!) an den verzweigten Ästen. An Weißtanne
 
 
