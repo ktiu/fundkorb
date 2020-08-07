@@ -28,7 +28,7 @@ Ganz wichtig: Um eine recht heftige aber schnell wieder abklingendende Magen-Dar
 {% include bild.html datei="/bilder/laetiporus_sulphureus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Dieses Foto zeigt eine lange Reihe ganz junger Schwefelporlinge. In diesem Stadium sind sie eine Delikatesse. Wegen ihres an zartes Hühnerfleisch erinnernden Geschmacks werden die Schwefelporlinge in England Chicken of the woods oder Chicken mushroom genannt.
+Dieses Foto zeigt eine lange Reihe ganz junger Schwefelporlinge an einem liegenden Eichenstamm. In diesem Stadium sind sie eine Delikatesse. Wegen ihres an zartes Hühnerfleisch erinnernden Geschmacks werden die Schwefelporlinge in England *Chicken of the woods* oder *Chicken mushroom* genannt.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/laetiporus_sulphureus_04_dg.jpg" %}
