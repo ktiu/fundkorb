@@ -22,7 +22,8 @@ Von oben betrachtet sind vor allem Grau- und Grünblättriger Schwefelkopf kaum 
 
 ##### Kurzbeschreibung:
 
-**Hut:** bis 8 cm Ø, ockergelblich, kahlLamellen: rauchgrau bis graulila, auch jung nie gelb oder grün  
+**Hut:** bis 8 cm Ø, ockergelblich, kahl  
+**Lamellen:** rauchgrau bis graulila, auch jung nie gelb oder grün  
 **Fleisch:** weißlich oder leicht gelblich, etwas streng aber mild im Geschmack  
 **Geruch:** etwas blausäureartig  
 **Stiel:** blass gelblich, zur Basis hin bräunlich; ohne Ring, höchstens jung mit unauffälligen Velumresten  
