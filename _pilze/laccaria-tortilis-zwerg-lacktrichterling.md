@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/l/Laccaria_tortilis.html
 ---
-Die Gattung Laccaria (Lacktrichterlinge) ist in Deutschland mit 8 Arten vertreten,von denen drei sehr selten sind. Sehr häufig und vielen Pilzfreunden bestens bekannt sind Laccaria amethystina (Violetter L.) und laccata (Rötlicher L.), weniger häufig bicolor (Zweifarbiger L.), proxima (Fuchsiger L.) und der hier behandelte Zwerg-Lacktrichterling (L. tortilis).
+Die Gattung Laccaria (Lacktrichterlinge) ist in Deutschland mit 8 Arten vertreten, von denen drei sehr selten sind. Sehr häufig und vielen Pilzfreunden bestens bekannt sind *Laccaria amethystina* (Violetter L.) und *laccata* (Rötlicher L.), weniger häufig *bicolor* (Zweifarbiger L.), *proxima* (Fuchsiger L.) und der hier behandelte Zwerg-Lacktrichterling (*L. tortilis*).
 
 Dieser ist durch seine sehr kleinen Fruchtkörper schon recht gut gekennzeichnet – vorausgesetzt, man hat seinen Fund der richtigen Gattung zugeordnet. Die Hüte erreichen nur selten mehr als einen Durchmesser von 1 – 1,5 cm. Typisch sind die bis zur vertieften und dunkleren Hutmitte reichende Riefung und der meist etwas gekerbte oder wellige Hutrand. Die Riefung ist oft nur durchscheinend und bildet das Lamellenmuster des sehr dünnfleischigen Pilzes deutlich ab.
 
