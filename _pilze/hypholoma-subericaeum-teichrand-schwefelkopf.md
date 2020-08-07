@@ -29,11 +29,11 @@ Die Pilze fielen vor allem durch einen extrem faulig-muffigen Geruch auf. Aufgru
 
 ##### Kurzbeschreibung:
 
-**Hut:** 2 – 5 cm, oliv-gelblich bis dunkelbraun, hygrophan, an den Huträndern manchmal mit weißlichen Kristallausscheidungen\
-**Lamellen:** jung blass grau, später braun mit violettlichem Schein, zum Rand hin gegabelt, Schneiden heller\
-**Stiel:** weißlich, teilweise gelblich bis bräunlich überfasert, 5 – 8 cm lang, Ø 4 – 7 mm\
-**Geruch:** penetrant faulig-muffig\
-**Sporenpulver:** violettbraun\
+**Hut:** 2 – 5 cm, oliv-gelblich bis dunkelbraun, hygrophan, an den Huträndern manchmal mit weißlichen Kristallausscheidungen  
+**Lamellen:** jung blass grau, später braun mit violettlichem Schein, zum Rand hin gegabelt, Schneiden heller  
+**Stiel:** weißlich, teilweise gelblich bis bräunlich überfasert, 5 – 8 cm lang, Ø 4 – 7 mm  
+**Geruch:** penetrant faulig-muffig  
+**Sporenpulver:** violettbraun  
 **Mikromerkmale:** Sporen glatt, elliptisch, 7 – 9 X 4 – 5 µm; auffallend dicht gedrängt stehende flaschenförmige Cheilozystiden an den Lamellenschneiden
 
 {% include abbildung_start.html stil="klein" %}
