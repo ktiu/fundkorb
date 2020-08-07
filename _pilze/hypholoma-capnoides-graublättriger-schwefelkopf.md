@@ -22,10 +22,10 @@ Von oben betrachtet sind vor allem Grau- und Grünblättriger Schwefelkopf kaum 
 
 ##### Kurzbeschreibung:
 
-**Hut:** bis 8 cm Ø, ockergelblich, kahlLamellen: rauchgrau bis graulila, auch jung nie gelb oder grün  
-**Fleisch:** weißlich oder leicht gelblich, etwas streng aber mild im Geschmack  
-**Geruch:** etwas blausäureartig  
-**Stiel:** blass gelblich, zur Basis hin bräunlich; ohne Ring, höchstens jung mit unauffälligen Velumresten  
+**Hut:** bis 8 cm Ø, ockergelblich, kahlLamellen: rauchgrau bis graulila, auch jung nie gelb oder grün\
+**Fleisch:** weißlich oder leicht gelblich, etwas streng aber mild im Geschmack\
+**Geruch:** etwas blausäureartig\
+**Stiel:** blass gelblich, zur Basis hin bräunlich; ohne Ring, höchstens jung mit unauffälligen Velumresten\
 **Sporenpulver:** dunkelbraun mit violettlichem Schein
 
 {% include abbildung_start.html stil="standard" %}
@@ -33,3 +33,7 @@ Von oben betrachtet sind vor allem Grau- und Grünblättriger Schwefelkopf kaum 
 {% include abbildung_ende.html %}
 
 Wer Schwefelköpfe nicht eindeutig von anderen büschelig an Totholz wachsenden Blätterpilzen unterscheiden kann, sollte unbedingt aufs Sammeln verzichten.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/hypholoma_capnoides_03_gg.jpg" %}
+{% include abbildung_ende.html legende="Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Hier eine Illustration von Gabriele Gossner (in: Hans Haas – Pilze Mitteleuropas, 1964). Der Graublättrige Schwefelkopf hieß damals noch Nematoloma capnoides" %}
