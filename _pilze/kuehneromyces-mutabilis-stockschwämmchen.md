@@ -31,4 +31,19 @@ Stockschwämmchen wachsen dichtbüschelig an totem Laub-, selten auch an Nadelho
 
 Das oft üppig dichtbüschelige Wachstum und die aufgrund ihrer Hygrophanität auffällige Zweifarbigkeit der Hüte wären auf den ersten Blick ein gutes Indiz dafür, dass es sich um Stockschwämmchen handeln könnte. Diese Einschätzung mag mit einer Wahrscheinlichkeit von 99,9 Prozent zutreffen, aber es sind die zur absoluten Sicherheit fehlenden 0,1 Prozent, die ein erhebliches Risiko darstellen und die eindringliche Warnung vor folgenschweren Verwechslungen rechtfertigen.
 
-vv
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/galerina_marginata_02_nk.jpg" %}
+{% include bild.html datei="/bilder/kuehneromyces_mutabilis_05_dg.jpg" %}
+{% include abbildung_ende.html legende="Links: Gifthäubling (Foto: Norbert Kühnberger)   /  Rechts: Stockschwämmchen" %}
+
+Unterschiede in der Stielbekleidung können bei untypischer Ausprägung, aber auch alters- und witterungsbedingt undeutlich werden. Erschwerend kommt hinzu, dass der Begriff “Gifthäubling” als Sammelbezeichnung für mehrere nah verwandte Häublingsarten aufgefasst werden kann, die nur schwer oder mikroskopisch sicher unterscheidbar und ebenfalls tödlich giftig sind, z. B. Galerina autumnalis, G. sideroides, G. badipes. Unter diesen gibt es Arten, die flockig-schuppige Stiele oder glatte Sporen haben können.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/kuehneromyces_mutabilis_03_dg.jpg" %}
+{% include abbildung_ende.html legende="Ohne oder nur mit teilweise vorhandenen Stielen gesammelte Stockschwämmchen - in der Pilzberatung ein kaum unlösbares Problem" %}
+
+In der Pilzberatung können Stockschwämmchen nur bestimmt werden, wenn sie mit komplett vorhandenen Stielen vorgelegt werden. Selbst dann ist es bei einem Sammelumfang von oft mehreren hundert Fruchtkörpern in der Praxis unmöglich, jeden einzelnen Pilz genau und zuverlässig zu begutachten. Da Stockschwämmchen und Gifthäublinge gemeinsam am gleichen Holz vorkommen können, ist auch nicht mit Sicherheit davon auszugehen, dass an einer Fundstelle gefundene Fruchtkörper nur einer Art zuzordnen sind.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/kuehneromyces_mutabilis_06_gg.jpg" %}
+{% include abbildung_ende.html legende="Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Hier eine Illustration von Gabriele Gossner (in: Hans Haas – Pilze Mitteleuropas, 1964)" %}
