@@ -44,7 +44,7 @@ In der gesamten mir bekannten Literatur wird der Schwefelporling wegen seiner or
 {% include bild.html datei="/bilder/laetiporus_sulphureus08_dg-.jpg" %}
 {% include abbildung_ende.html %}
 
-Laetiporus (Schwefelporlinge) ist eine monotypische Gattung; das heißt, es gibt weltweit nur eine dazugehörige Art. Für befallene, noch lebende Bäume bedeutet das Erscheinen ihr Todesurteil. Der Pilz verursacht eine intensive Braunfäule, die das Kernholz der Stämme braun verfärbt und würfelig zerfallen lässt. Äußerlich noch gesund erscheinende Bäume können im Inneren ihrer Stämme bereits ausgehöhlt und stark von Windbruch gefährdet sein. An totem liegendem Holz kann der Schwefelporling noch jahrelang bis zur nahezu völligen Vermorschung des Substrats weiterwachsen.
+Laetiporus (Schwefelporlinge) ist eine monotypische Gattung; das heißt, es gibt weltweit nur eine dazugehörige Art. Für befallene, noch lebende Bäume bedeutet das Erscheinen ihr Todesurteil. Der Pilz verursacht eine intensive Braunfäule, die das Kernholz der Stämme braun verfärbt und würfelig zerfallen lässt. Äußerlich noch gesund erscheinende Bäume können im Inneren ihrer Stämme bereits ausgehöhlt und stark von Windbruch gefährdet sein. An totem liegendem Holz kann der Schwefelporling noch jahrelang bis zur nahezu völligen Vermorschung des Substrats weiterwachsen. 
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/laetiporus_sulphureus_09_dg.jpg" %}
