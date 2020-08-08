@@ -20,7 +20,7 @@ hauptbild:
 
 Eigentlich könnte Entwarnung gegeben werden: für die Rote-Liste-Art Lentinus strigosus scheint kaum noch eine Bestandsgefährdung zu bestehen. „Schuld“ an dieser für den Pilz erfreulichen Entwicklung ist zum einen die Klima-Erwärmung, die längst zur Bedrohung für unser ökologisches Gleichgewicht geworden ist, und zum anderen, dass in vielen Wäldern Totholz bis zur Verrottung liegen bleiben darf und Holzbewohnern das Substrat anbietet, das sie zum Wachstum benötigen. Das Rhein-Main-Gebiet scheint zu den Verbreitungsschwerpunkten des Pilzes zu gehören, was angesichts der wärmebegünstigten Lage nicht verwunderlich ist. Ein Allerweltspilz ist der Borstige Knäueling jedoch auch hier nicht. Wie etwa der häufige Spaltblättling gehört er zu den Erstbesiedlern von totem Laubholz, bevorzugt sonnenexponierte Standorte und kann längere Trockenperioden schadlos überdauern. Laut Literatur ist die Buche der Haupt-, nach eigener Beobachtung der einzige Wirt. Im Frühjahr 2019 ist der attraktive und nahezu unverwechselbare Pilz an mehreren Standorten in der Rhein-Main-Ebene und dort gleich massenhaft aufgetreten.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lentinus_strigosus_04_dg.jpg" %}
 {% include bild.html datei="/bilder/lentinus_strigosus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
