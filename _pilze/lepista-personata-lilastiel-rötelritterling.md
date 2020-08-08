@@ -8,6 +8,7 @@ beschreibung:
   erlaeuterung: personata = maskiert, verkleidet
 profil:
   aktualisiert: 2020-08-08
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/lepista_personata_01_dg.jpg
