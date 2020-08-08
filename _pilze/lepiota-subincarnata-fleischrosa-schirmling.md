@@ -23,7 +23,7 @@ Unter den kleinen Schirmlingen gibt es keine essbaren Arten, aber einige tödlic
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lepiota_subincarnata_03_dg.jpg" %}
-{% include bild.html datei="/bilder/lepiota_subincarnata_03_dg.jpg" %}
+{% include bild.html datei="/bilder/lepiota_subincarnata_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Die Hüte des Pilzes erreichen Durchmesser von 5 cm, die Huthaut ist typisch fleischrosa gefärbt, zum Rand hin schuppig aufreißend. Im Gegensatz zu einigen anderen Arten der Gattung hat er keinen häutigen Ring sondern nur eine manchmal kaum erkennbare Ringzone. Der Geruch wird als obstig-fruchtig beschrieben, die elliptischen Sporen messen 6 – 8 x 3 – 4 µm.
