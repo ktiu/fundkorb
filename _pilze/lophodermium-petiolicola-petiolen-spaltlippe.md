@@ -33,3 +33,4 @@ Da die Roteiche (Quercus rubra) Anfang des 18. Jahrhunderts aus Nordamerika nach
 Verwechselt werden könnte die Art mit dem Blattstiel-Spaltbecherchen, das auf Ahornblattstielen und anderen Substraten (z. B. Stielen von vorjährigem Storchenschnabel) wächst.
 
 Bei [Wikipedia](https://de.wikipedia.org/wiki/Spaltlippen) findet sich eine Liste von 12 in Europa vorkommenden Spaltlippenarten, in der Lophodermium petiolicola jedoch fehlt. Im Verbreitungsatlas (Krieglsteiner 1993) sind 16 Arten enthalten.
+
