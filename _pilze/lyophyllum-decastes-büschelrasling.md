@@ -33,8 +33,8 @@ Büschelraslinge findet man von August bis November in Laubwäldern, Parkanlagen
 
 Was diesen Pilz in der Küche auszeichnet, ist seine Festigkeit. Er hat Biss. Bei mir gilt er definitiv als Premium-Art.
 
-Der Büschelrasling Lyophyllum decastes ist durch Zusammenlegung von zwei früher als eigenständig aufgefassten Arten entstanden. Diese waren\
-Lyophyllum fumosum = Frostrasling\
+Der Büschelrasling Lyophyllum decastes ist durch Zusammenlegung von zwei früher als eigenständig aufgefassten Arten entstanden. Diese waren  
+Lyophyllum fumosum = Frostrasling  
 Lyophyllum loricatum = Brauner Büschelrasling, Panzerrasling
 
 Der deutsche Name „Panzerrasling“ bezieht sich auf die feste, knorpelige Konsistenz des Pilzes. Da bei allen beschriebenen Merkmalen Übergänge zu beobachten sind, hat man beide zu einer einzigen, plastischen Art vereinigt.
