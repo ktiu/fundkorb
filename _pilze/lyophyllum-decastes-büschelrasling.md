@@ -11,6 +11,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/lyophyllum_decastes_01_dg.jpg
+literatur:
+  - url: http://tintling.com/pilzbuch/arten/l/Lyophyllum_decastes.html
 ---
 Um es vorwegzunehmen: Der Büschelrasling ist ein hervorragender Speisepilz, den kaum jemand kennt und kaum jemand sammelt. Außer büscheligem Wachstum hat er keine auf den ersten Blick auffälligen Merkmale, und büscheliges Wachstum ist im Reich der Pilze kein seltenes Phänomen. Das obige Foto stammt von einer Rasenfläche im Hainbachtal bei Offenbach. Es zeigt exemplarisch, wie die Stiele an der Basis miteinander verwachsen sind.
 
