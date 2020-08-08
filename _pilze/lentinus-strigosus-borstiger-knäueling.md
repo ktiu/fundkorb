@@ -27,9 +27,6 @@ Eigentlich könnte Entwarnung gegeben werden: für die Rote-Liste-Art Lentinus s
 
 Mir ist der Pilz aus den 1980er Jahren bekannt. Damals erschien er über mehrere Jahre hinweg am Albanusberg bei Langen auf einem sonnenexponierten Buchenstumpf und wurde anhand der Abbildung und Beschreibung in *Michael, Henning, Kreisel 1977: Handbuch für Pilzfreunde Band III*, das auch heute noch gute Dienste leisten kann, als *Panus rudis* (Borstiger Knäueling) bestimmt.
 
-{% include abbildung_start.html stil="standard" %}
-{% include abbildung_ende.html %}
-
 Die einzelnen meist 3 – 7 cm breiten Hüte der gesellig bis verknäuelt und meist in großen Populationen auf totem Laubholz auftretenden Pilz sind jung eingerollt, lilarötlich bis graurötlich gefärbt und durch gebündelte Borsten rauhaarig. Michael, Henning, Kreisel bezeichnen die Art als „am Borstenfilz des ganzen Fruchtkörpers leicht kenntlich“. Die am Stiel herablaufenden Lamellen sind jung blass lilarötlich, später ledergelb. Die Stiele sind kurz und wie der Hut gefärbt. An den zahlreichen Fundstellen im Steinberger Wald war im Juni 2019 nach etlichen Tagen Trockenheit und danach einsetzendem Regen eine bemerkenswerte Farbänderung an fast allen Fruchtkörpern festzustellen. Die lila- bis graurötliche Farbe hatte sich in ein weithin leuchtendes Gelborange gewandelt…
 
 {% include abbildung_start.html stil="standard" %}
