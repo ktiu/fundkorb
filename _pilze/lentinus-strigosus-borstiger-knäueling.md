@@ -13,7 +13,7 @@ hauptbild:
   anzeige: false
   datei: /bilder/lentinus_strigosus_03_dg.jpg
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lentinus_strigosus_06_dg.jpg" %}
 {% include bild.html datei="/bilder/lentinus_strigosus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
