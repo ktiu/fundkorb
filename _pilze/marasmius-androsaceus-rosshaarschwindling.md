@@ -5,7 +5,7 @@ beschreibung:
   referenz: "(L.) Fr. 1838 "
   familie: Marasmiaceae
   synonym: "lt. Index fungorum jetzt Gymnopus androsaceus  "
-  erlaeuterung: androsaceus = mannschildartig*
+  erlaeuterung: androsaceus = mannsschildartig*
 profil:
   aktualisiert: 2020-08-09
   autor_in: Dieter Gewalt
@@ -23,4 +23,4 @@ Diese Pilzchen besiedeln oft herdenweise die Nadelstreu in Nadelwäldern, in der
 
 Mit seinem Transfer in die Gattung Gymnopus hat der Rosshaarschwindling auch einen neuen deutschen namen erhalten: *Blassspor-Rübling*
 
-* Mannschild ist eine etwa 10 cm hohe krautige Pflanze (*Androsacea septentrionalis*)
+* Mannsschild ist eine etwa 10 cm hohe krautige Pflanze (*Androsace septentrionalis*)
