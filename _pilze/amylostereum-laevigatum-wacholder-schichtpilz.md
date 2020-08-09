@@ -15,8 +15,8 @@ hauptbild:
     Eibe, (det. Hermine Lotz-Winter)"
 literatur:
   - text: "German. J. Krieglsteiner: Die Großpilze Baden-Württembergs Bd. 1, Seite
-      153 (Verlag Ulmer, 2000) Breitenbach & Kränzlin: Pilze der Schweiz Band 2
-      (1986)"
+      153 (Verlag Ulmer, 2000)"
+  - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 2 (1986)"
 published: true
 ---
 {% include abbildung_start.html stil="klein" %}
