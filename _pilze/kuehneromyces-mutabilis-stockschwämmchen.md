@@ -36,6 +36,40 @@ Das oft üppig dichtbüschelige Wachstum und die aufgrund ihrer Hygrophanität a
 {% include bild.html datei="/bilder/kuehneromyces_mutabilis_05_dg.jpg" %}
 {% include abbildung_ende.html legende="Links: Gifthäubling (Foto: Norbert Kühnberger)   /  Rechts: Stockschwämmchen" %}
 
+<div class="table-responsive">
+  <table class="table">
+    <thead>
+      <tr>
+        <th> </th> 
+        <th>Stockschwämmchen<br /><i>(Kuehneromyces mutabilis)</i></th>
+        <th>Gifthäubling<br /><i>(Galerina marginata)</i></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Stiel unterhalb der Ringzone</th>
+        <td>flockig-schuppig</td>
+        <td>silbrig längsfaserig</td>
+      </tr>
+      <tr>
+        <th>Geruch</th>
+        <td>angenehm würzig, pilzig</td>
+        <td>mehlig, muffig (Hut zerdrücken)</td>
+      </tr>
+      <tr>
+        <th>Geschmack</th>
+        <td>angenehm, mild, nussig</td>
+        <td>mehlig, ranzig</td>
+      </tr>
+      <tr>
+        <th>Sporen</th>
+        <td>glatt, 6-7,5  x  3-4,5 µm</td>
+        <td>warzig, 8-10 x 5-6 µm</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 Unterschiede in der Stielbekleidung können bei untypischer Ausprägung, aber auch alters- und witterungsbedingt undeutlich werden. Erschwerend kommt hinzu, dass der Begriff “Gifthäubling” als Sammelbezeichnung für mehrere nah verwandte Häublingsarten aufgefasst werden kann, die nur schwer oder mikroskopisch sicher unterscheidbar und ebenfalls tödlich giftig sind, z. B. Galerina autumnalis, G. sideroides, G. badipes. Unter diesen gibt es Arten, die flockig-schuppige Stiele oder glatte Sporen haben können.
 
 {% include abbildung_start.html stil="standard" %}
