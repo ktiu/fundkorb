@@ -21,13 +21,13 @@ published: true
 ---
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/amylostereum_laevigatum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Mein persönlicher Erstfund vom 23.11.2007: Friedhof Westhausen, an Eibe, (det. Hermine Lotz-Winter)" %}
 
 Um diesen Rindenpilz zu finden, muss man seine typischen Wirtspflanzen kennen: Wacholder und Eibe. Für Eibe gibt German J. Kriegsteiner (Großpilze Baden-Württembergs) für sein gesamtes Bundesland jedoch nur einen Fund an, für Wacholder hingegen 73.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amylostereum_laevigatum_02_dg.jpg" %}
-{% include abbildung_ende.html legende="Mein persönlicher Erstfund vom 23.11.2007: Friedhof Westhausen, an Eibe, (det. Hermine Lotz-Winter)" %}
+{% include abbildung_ende.html %}
 
 Der Wacholder-Schichtpilz bildet auf der Rinde ca. 1 mm dicke Überzüge von bis zu mehreren Dezimetern Ausdehnung. Die Fruchtschicht ist glatt, matt, grau-ocker bis hellbraun und wird im Alter rissig.
 Schichtpilze der Gattung Amylostereum sind Saprobionten, die ausschließlich an Koniferen wachsen und im Holz eine Weißfäule verursachen. Es gibt weltweit drei Arten, die auch in Mitteleuropa heimisch sind. Im Unterschied zur Gattung Stereum sind ihre Sporen amyloid, d. h. sie verfärben sich bei Kontakt mit Melzers Reagens oder Lugolscher Lösung.
