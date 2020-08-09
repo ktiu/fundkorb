@@ -24,5 +24,3 @@ Der Frühlings-Weichritterling ist ein recht stattlicher Pilz. Seine glatten, se
 {% include bild.html datei="/bilder/melanoleuca_cognata_02_fk.jpg" %}
 {% include bild.html datei="/bilder/melanoleuca_cognata_03_fk.jpg" %}
 {% include abbildung_ende.html legende="Abb. links: Pleuro- und Cheilozystiden vorhanden -- Abb. rechts:  Sporen  Ø 8,6 x 5,4 µm (2 Mikrofotos: Frank Kaster)" %}
-
-xx
