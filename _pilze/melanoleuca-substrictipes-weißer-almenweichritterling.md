@@ -11,6 +11,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/melanoleuca_substrictipes_02_dg.jpg
+literatur:
+  - url: http://tintling.com/pilzbuch/arten/m/Melanoleuca_substrictipes.html
 ---
 Da hat die Wundertüte Ansfeldwald mal wieder was Spezielles hervorgebracht: zahlreiche Weiße Almen-Weichritterlinge, die man eher im Allgäu oder am nördlichen Alpenrand als in der Rhein-Main-Ebene erwarten würde. Im Verbreitungsatlas (Krieglsteiner 1991) ist die Art nicht enthalten, in der DGfM-Online-Kartierung steht ein hessischer Fundpunkt bei Wetzlar. Karin Montag und Fredi Kasparek haben ihn indessen regelmäßig im Flachland gefunden, wohl ohne die DGfM zu informieren.
 
