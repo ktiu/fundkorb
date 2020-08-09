@@ -17,8 +17,9 @@ hauptbild:
 {% include bild.html datei="/bilder/macrolepiota_konradii_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Die Riesenschirmlinge kann man anhand leicht erkennbarer Merkmale in zwei Gruppen einteilen: Nennen wir die erste, die richtig guten, „Echte Parasole“, die zweite, die weniger guten, „Rötende Riesenschirmlinge“.\
-Merkmale der *Echten Parasole*: weißes, nicht verfärbendes Fleisch, genatterter Stiel.\
+Die Riesenschirmlinge kann man anhand leicht erkennbarer Merkmale in zwei Gruppen einteilen: Nennen wir die erste, die richtig guten, „Echte Parasole“, die zweite, die weniger guten, „Rötende Riesenschirmlinge“.
+
+Merkmale der *Echten Parasole*: weißes, nicht verfärbendes Fleisch, genatterter Stiel.   
 Merkmale der *Rötenden Riesenschirmlinge* (auch *Safran-Riesenschirmlinge*): safranfarben oder gelblich/rötlich verfärbendes Fleisch, ungenatterter Stiel.
 
 Die hier vorgestellte Art gehört zu den guten *Echten Parasolen*. Während beim bekannteren und wesentlich größeren Großen Riesenschirmling die zahlreichen Hutschuppen ziemlich wahllos über den Hut verteilt sind und die flach gebuckelte einheitlich braune Scheibe in der Hutmitte im Verhältnis zur Hutgröße recht klein erscheint, ist beim Sternschuppigen Riesenschirmling die braune Scheibe in der Hutmitte relativ groß und sternförmig aufgerissen oder die Schuppen verlieren sich zum Rand hin in einem sternförmigen Muster. Im Gegensatz zum Großen Riesenschirmling, der das Innere von Wäldern meidet und eher auf Wiesen und an Wald- und Straßenrändern zu finden ist, wächst der Sternsporige Riesenschirmling vor allem innerhalb von Wäldern. Verwechseln könnte man ihn eventuell mit dem Warzen-Riesenschirmling *Macrolepiota mastoidea*, der ebenfalls essbar ist.
@@ -39,4 +40,4 @@ Die wattigen Stielringe der Riesenschirmlinge können roh verzehrt werden, quasi
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/macrolepiota_konradii_06_vg.jpg" %}
-{% include abbildung_ende.html legende="Kurz bevor sie zu Schnitzeln wurden; eingesammelt am 9. Oktober 2016 im Steinberger Wald bei Dietzenbach  (Foto: Viktoria Giss)" %}
+{% include abbildung_ende.html legende="Kurz bevor sie zu Schnitzeln wurden; eingesammelt am 9. Oktober 2016 im Steinberger Wald bei Dietzenbach (Foto: Viktoria Giss)" %}
