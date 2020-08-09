@@ -41,7 +41,7 @@ Tipp: um die Pilzhüte heil und sauber nach Hause zu tragen, im Wald in zwei Pap
 {% include bild.html datei="/bilder/macrolepiota_procera_06_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-Diese drei Riesenschirme befinden sich im sogenannten „Paukenschlegel-Stadium“. Die Köpfe kann man so kaum wie Schnitzel braten, höchstens in der Pfanne umherrollen. Als Mischpilze sind sie aber bestens geeignet. Scherzkekse verwenden sie gern als Mikrophone.
+Diese drei Riesenschirme befinden sich im sogenannten „Paukenschlegel-Stadium“. Die Köpfe kann man so kaum wie Schnitzel braten, höchstens in der Pfanne umherrollen. Als Mischpilze sind sie aber bestens geeignet. Scherzkekse verwenden sie gern als Mikrofone.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/macrolepiota_procera_07_dg.jpg" %}
