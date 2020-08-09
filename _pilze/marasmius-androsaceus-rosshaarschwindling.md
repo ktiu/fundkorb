@@ -21,6 +21,6 @@ Diese Pilzchen besiedeln oft herdenweise die Nadelstreu in Nadelwäldern, in der
 {% include bild.html datei="/bilder/marasmius_androsaceus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Mit seinem Transfer in die Gattung Gymnopus hat der Rosshaarschwindling auch einen neuen deutschen namen erhalten: *Blassspor-Rübling*
+Mit seinem Transfer in die Gattung Gymnopus hat der Rosshaarschwindling auch einen neuen deutschen Namen erhalten: *Blassspor-Rübling*
 
 * Mannsschild ist eine etwa 10 cm hohe krautige Pflanze (*Androsace septentrionalis*)
