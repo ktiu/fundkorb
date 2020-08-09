@@ -26,10 +26,10 @@ Fundort war der voluminöse Komposthausen im Wald, den die Gärtner von Gut Phil
 
 Interessant und noch weitgehend ungeklärt ist, wie sich der Pilz dieses Areal auf 176 m Meereshöhe erschließen konnte, galt er doch bis Ende der 1970er Jahre als sehr selten und montan verbreitet. Dann aber begann sein vermeintlicher Abstieg aus dem Gebirge ins Flachland, wo er statt Almwiesen nun anthropogene Wuchsorte bevorzugt und, wie German J. Krieglsteiner es formuliert hat, ganz entschieden vom plötzlichen Angebot geeigneten Substrates wie Schreddermaterial, Rindenmulch, Komposthaufen etc. profitiert: „Da die anstehenden Mengen an verwertbarer Nahrung von den Konkurrenzorganismen wohl nicht rasch genug besetzt werden können, mag die Chance für bisher weniger vitale Arten gekommen sein, sich rasch einzunisten, auch für Melanoleuca verrucipes“. Krieglsteiner weist auch darauf hin, dass die aufgrund weniger früherer Funde vorgenommene Einstufung als „primär montanes Florenelement nun korrigiert und aufgegeben“ werden muss. Diese Einschätzung wird auch von mehreren nachfolgenden Funden im Flachland bestätigt:
 
-9. September 1998, TK 6019.1.1 bei Rollwald, auf Holz- und Rindenabfällen an einem Wegrand
-20. Juni 2001, TK 5918.4.3 Löcherwiese bei Dietzenbach nahe Wasserrückhaltebecken, auf Kompost
-14. September 2003, TK 5816.2.3 Rettershof bei Kelkheim, Waldwegrand
-13. August 2009, TK 5918.4.1 „Gebranntes Loch“ zw. Dietzenbach und Gravenbruch, auf Fichtenrinde
-6. September 2009, TK 5919.3.4 „Gänsbrüh“ bei Dudenhofen, auf verrottender Fichtenrinde
-9. Juni 2012, TK 5919.3.3 Schlosskaute zw. Dietzenbach und Rodgau, Grasfläche vor Kiefernwald
+9. September 1998, TK 6019.1.1 bei Rollwald, auf Holz- und Rindenabfällen an einem Wegrand  
+20. Juni 2001, TK 5918.4.3 Löcherwiese bei Dietzenbach nahe Wasserrückhaltebecken, auf Kompost  
+14. September 2003, TK 5816.2.3 Rettershof bei Kelkheim, Waldwegrand  
+13. August 2009, TK 5918.4.1 „Gebranntes Loch“ zw. Dietzenbach und Gravenbruch, auf Fichtenrinde  
+6. September 2009, TK 5919.3.4 „Gänsbrüh“ bei Dudenhofen, auf verrottender Fichtenrinde  
+9. Juni 2012, TK 5919.3.3 Schlosskaute zw. Dietzenbach und Rodgau, Grasfläche vor Kiefernwald  
 15. Oktober 2016, TK 5918.4.4 auf abgelagerten Gartenabfällen, Kiefernwald bei Waldacker
