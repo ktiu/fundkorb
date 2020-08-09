@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Anemonenbecherling
   referenz: "(Bull.) L.M. Kohn 1979 "
   familie: Sclerotiniaceae
-  synonym: Sclerotinia tuberosa
+  synonym: "Synonym: Sclerotinia tuberosa"
   erlaeuterung: tuberosa = knollig
 profil:
   aktualisiert: 2020-08-02

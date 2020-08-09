@@ -23,20 +23,14 @@ footer_scripts:
 
 {% if page.beschreibung.deutsch %}<h2>{{ page.beschreibung.deutsch }}</h2>{% endif %}
 
-<div class="anfang">
-  <div>
-    {% if page.beschreibung.referenz %}<div class="referenz">{{ page.beschreibung.referenz }}</div>{% endif %}
-    {% if page.beschreibung.synonym %}
-      <div class="synonym">{{ page.beschreibung.synonym }}</div>
-    {% elsif page.beschreibung.erlaeuterung %}
-      <div class="erlaeuterung">{{ page.beschreibung.erlaeuterung }}</div>
-    {% endif %}
-  </div>
-  <div>
-    {% if page.beschreibung.familie %}<div class="familie">Familie: {{ page.beschreibung.familie }}</div>{% endif %}
-    {% if page.beschreibung.synonym and page.beschreibung.erlaeuterung %}<div class="erlaeuterung">{{ page.beschreibung.erlaeuterung }}</div>{% endif %}
-  </div>
-  {% if page.profil.autor_in %}<div class="autor_in">&copy; {{ page.profil.autor_in }}</div>{% endif %}
+<div class="anfang row">
+<div class="referenz col-md">{{ page.beschreibung.referenz }}</div>
+  <div class="familie col-sm">Familie: {{ page.beschreibung.familie }}</div>
+  <div class="autor_in col-sm text-right">&copy; {{ page.profil.autor_in }}</div>
+</div>
+<div class="anfang row mb-4">
+  {% if page.beschreibung.synonym %}<div class="synonym{% if page.beschreibung.erlaeuterung %} col-sm{% endif %}">{{ page.beschreibung.synonym }}</div>{% endif %}
+  {% if pabe.beschreibung.erlaeuterung %}<div class="erlaeuterung col-sm">{{ page.beschreibung.erlaeuterung }}</div>{% endif %}
 </div>
 
 {% if page.hauptbild.anzeige and page.hauptbild.datei %}

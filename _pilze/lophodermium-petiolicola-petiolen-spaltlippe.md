@@ -22,6 +22,13 @@ Spaltlippen leben [saprobiontisch](saprobiontisch "Glossar"), einige auch parasi
 
 Das trifft auch auf die „Roteichen-Blattstiel-Spaltlippen“ *Lophodermium petiolicola* zu. Sie wachsen auf den Blattstielen vorjähriger Roteichenblätter. Auf einem einzigen Blattstiel können Dutzende von ihnen erscheinen. Einzelne Fruchtkörper erreichen Längen von ca. 2 mm, mitunter sind auch mehrere von ihnen miteinander und mit einem durchgehenden Spalt verbunden (siehe im Foto ganz oben rechts), wobei sie mehrfach gebogene Ketten und eine insgesamt größere Länge bilden können. Gelegentlich findet man sie auch auf den vertrockneten Blättern.
 
+<figure class="figure">
+<video controls width="100%">
+  <source src="/bilder/lophodermium_petiolicola_04_14-sec.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</figure>
+
 Die Häufigkeit der Art ist wohl mangels gezielter Suche und Unkenntnis dieser in populärer Pilzliteratur nicht erwähnten Gruppe nicht hinreichend erkannt oder dokumentiert. Im Verbreitungsatlas (Krieglsteiner 1993) sind für Deutschland gerade mal 4 Fundpunkte eingetragen. In der Online-Kartierung für Berlin und Brandenburg (Stand: 2018) häufen sich hingegen die Nachweise. Als Funddaten wurden die Monate März bis August angegeben.
 
 Da die Roteiche (Quercus rubra) Anfang des 18. Jahrhunderts aus Nordamerika nach Europa importiert worden ist, kann davon ausgegangen werden, dass auch Lophodermium petiolicola auf diesem Weg zu uns gelangt ist.

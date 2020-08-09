@@ -33,10 +33,10 @@ Krieglsteiner weist auch darauf hin, dass die aufgrund weniger früherer Funde v
 
 Diese Einschätzung wird auch von mehreren nachfolgenden Funden in der Rhein-Main-Ebene bestätigt:
 
-9. September 1998, TK 6019.1.1 bei Rollwald, auf Holz- und Rindenabfällen an einem Wegrand  
-10. Juni 2001, TK 5918.4.3 Löcherwiese bei Dietzenbach nahe Wasserrückhaltebecken, auf Kompost  
-11. September 2003, TK 5816.2.3 Rettershof bei Kelkheim, Waldwegrand  
-12. August 2009, TK 5918.4.1 „Gebranntes Loch“ zw. Dietzenbach und Gravenbruch, auf Fichtenrinde  
-13. September 2009, TK 5919.3.4 „Gänsbrüh“ bei Dudenhofen, auf verrottender Fichtenrinde  
-14. Juni 2012, TK 5919.3.3 Schlosskaute zw. Dietzenbach und Rodgau, Grasfläche vor Kiefernwald  
-15. Oktober 2016, TK 5918.4.4 auf abgelagerten Gartenabfällen, Kiefernwald bei Waldacker
+9\. September 1998, TK 6019.1.1 bei Rollwald, auf Holz- und Rindenabfällen an einem Wegrand  
+10\. Juni 2001, TK 5918.4.3 Löcherwiese bei Dietzenbach nahe Wasserrückhaltebecken, auf Kompost  
+11\. September 2003, TK 5816.2.3 Rettershof bei Kelkheim, Waldwegrand  
+12\. August 2009, TK 5918.4.1 „Gebranntes Loch“ zw. Dietzenbach und Gravenbruch, auf Fichtenrinde  
+13\. September 2009, TK 5919.3.4 „Gänsbrüh“ bei Dudenhofen, auf verrottender Fichtenrinde  
+14\. Juni 2012, TK 5919.3.3 Schlosskaute zw. Dietzenbach und Rodgau, Grasfläche vor Kiefernwald  
+15\. Oktober 2016, TK 5918.4.4 auf abgelagerten Gartenabfällen, Kiefernwald bei Waldacker

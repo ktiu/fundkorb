@@ -14,7 +14,6 @@
   margin-top: 2rem;
 }
 
-#pilz .anfang,
 #verwandt .anfang{
   display: flex;
   flex-flow: row wrap;
@@ -22,17 +21,12 @@
   justify-content: space-between;
 }
 
-#pilz .anfang > div, 
 #verwandt .anfang > div {
   margin: 0.5rem 0;
 }
 
-#verwandt .anfang .autor_in,
-#verwandt .anfang .erstellt {
-  color: $muted;
-}
-
-#pilz .autor_in {
+#pilz .autor_in,
+#verwandt .anfang .autor_in {
   color: $muted;
 }
 
