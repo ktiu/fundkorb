@@ -24,13 +24,13 @@ footer_scripts:
 {% if page.beschreibung.deutsch %}<h2>{{ page.beschreibung.deutsch }}</h2>{% endif %}
 
 <div class="anfang row">
-<div class="referenz col-md">{{ page.beschreibung.referenz }}</div>
+<div class="referenz col-md-5">{{ page.beschreibung.referenz }}</div>
   <div class="familie col-sm">Familie: {{ page.beschreibung.familie }}</div>
   <div class="autor_in col-sm text-right">&copy; {{ page.profil.autor_in }}</div>
 </div>
 <div class="anfang row mb-4">
-  {% if page.beschreibung.synonym %}<div class="synonym{% if page.beschreibung.erlaeuterung %} col-sm{% endif %}">{{ page.beschreibung.synonym }}</div>{% endif %}
-  {% if pabe.beschreibung.erlaeuterung %}<div class="erlaeuterung col-sm">{{ page.beschreibung.erlaeuterung }}</div>{% endif %}
+  {% if page.beschreibung.synonym %}<div class="synonym col-md{% if page.beschreibung.erlaeuterung %}-5{% endif %}">{{ page.beschreibung.synonym }}</div>{% endif %}
+  {% if page.beschreibung.erlaeuterung %}<div class="erlaeuterung col-md">{{ page.beschreibung.erlaeuterung }}</div>{% endif %}
 </div>
 
 {% if page.hauptbild.anzeige and page.hauptbild.datei %}
