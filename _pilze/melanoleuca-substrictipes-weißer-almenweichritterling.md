@@ -28,6 +28,6 @@ Die gerade aus dem Boden geschlüpften ersten Fruchtkörper am Rand des Heusenst
 {% include bild.html datei="/bilder/melanoleuca_substrictipes_05_fk.jpg" %}
 {% include bild.html datei="/bilder/melanoleuca_substrictipes_06_fk.jpg" %}
 {% include bild.html datei="/bilder/melanoleuca_substrictipes_07_fk.jpg" %}
-{% include abbildung_ende.html legende="von links nach rechts: Pleurozystiden --  Hutdeckschicht --  Sporen: die Sporenmaße entsprachen den Angaben in Breitenbach & Kränzling: Pilze der Schweiz Band 3 Nr. 306 --  Hutdeckschicht    (3 Fotos: Frank Kaster)" %}
+{% include abbildung_ende.html legende="von links nach rechts: Pleurozystiden -- Sporen: die Sporenmaße entsprachen den Angaben in Breitenbach & Kränzling: Pilze der Schweiz Band 3 Nr. 306 --  Hutdeckschicht    (3 Fotos: Frank Kaster)" %}
 
 Weichtitterlinge sind an ihrem ritterlingsartigen Lamellenansatz („Burggraben“) und dem weichen Fleisch gut zu erkennen. Sie haben bis auf wenige Ausnahmen einen deutlich sicht- oder fühlbaren Buckel in der Hutmitte. 
