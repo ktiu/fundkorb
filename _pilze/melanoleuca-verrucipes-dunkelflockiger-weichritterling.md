@@ -15,10 +15,13 @@ hauptbild:
     Komposthaufen („Kompi“) gegenüber Hofgut Philippseich (Dreieich-Götzenhain)
     Foto: Jochen Hausburg"
 literatur:
-  - text: "German J. Krieglsteiner: Zur derzeitigen Ausbreitung des Dunkelflockigen
+  - url: ""
+    text: "German J. Krieglsteiner: Zur derzeitigen Ausbreitung des Dunkelflockigen
       Weichritterlings Melanoleuca verrucipes in Mitteleuropa, in:
       APN-Mitteilungsblatt 2/1990"
-    url: http://tintling.com/pilzbuch/arten/m/Melanoleuca_verrucipes.html
+  - url: "German J. Krieglsteiner: Zur derzeitigen Ausbreitung des Dunkelflockigen
+      Weichritterlings Melanoleuca verrucipes in Mitteleuropa, in:
+      APN-Mitteilungsblatt 2/1990"
 ---
 Dieser Weichritterling, den man (noch) als selten bezeichnen kann, gehört zu den wenigen leicht kenntlichen Arten in der schwierigen und nicht sehr populären Pilzgattung Melanoleuca. Der mattweiße bis hell cremefarbene, in der Mitte niedergedrückte und meist mit einem Buckel versehene Hut in Verbindung mit dem ebenfalls weißen, auf ganzer Länge dunkel beschuppten Stiel lassen ihn schon makroskopisch sicher erkennen. Das Problem besteht darin, einen Fund dieses Pilzes der richtigen Gattung zuzuordnen.
 
