@@ -15,7 +15,7 @@ hauptbild:
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/marasmius_epiphylloides_01_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/marasmius_epiphylloides_02_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/marasmius_epiphylloides_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Es gibt mehrere sehr kleine weiße Schwindlinglingsarten mit stark reduzierten Lamellen, die auf Blättern wachsen. Die hier gezeigte Art ist durch ihr Vorkommen auf modernden Efeublättern gekennzeichnet. Die Lamellen sind nicht nur sehr schmal, es sind auch nur wenige und sie stehen deutlich entfernt. Die Hütchen erreichen Durchmesser von etwa 8 mm, die Stiele sind relativ lang, an der Spitze weiß, zur Basis hin rötlich braun werdend, oft verbogen.
