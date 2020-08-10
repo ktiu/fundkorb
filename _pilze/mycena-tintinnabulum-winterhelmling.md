@@ -25,8 +25,9 @@ Die einzelnen Hütchen erreichen Größen von etwa 2 cm, sind grau bis graubraun
 Auf einem Kalenderblatt fand ich den bemerkenswerten Hinweis der Herausgeberin *Karin Montag*, dass die Myzelien des Winterhelmlings bei Dunkelheit leuchten. Dieses als Bioluminiszenz bekannte Phänomen tritt insbesondere am Beginn der Myzelentwicklung, also nach der Sporenkeimung, auf und könnte also bei Kulturen in Petrischalen beobachtet werden.
 
 
-
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/mycena_tintinnabulum_04_dg.jpg" %}
 {% include bild.html datei="/bilder/mycena_tintinnabulum_05_dg.jpg" %}
 {% include abbildung_ende.html %}
+
+Der botanische Artname "tintinnabulum" ist lateinisch und bedeutet Glocke oder Klingel. Da denkt man, wenn man dem Winterhelmling zur Weihnachtszeit begegnet, doch gleich an "Kling Glöckchen klingelingeling". 
