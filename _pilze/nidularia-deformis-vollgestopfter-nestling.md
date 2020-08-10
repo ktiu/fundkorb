@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Vollgestopfter Nestling
   referenz: "(Willd.) Fr. 1817 "
   familie: Nidulariaceae
-  synonym: Neu in der Familie Agariaceae
+  synonym: Neu in der Familie Agaricaceae
   erlaeuterung: deformis = von der normalen Form abweichend
 profil:
   aktualisiert: 2020-08-10
