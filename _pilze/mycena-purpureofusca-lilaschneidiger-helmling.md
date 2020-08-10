@@ -19,12 +19,13 @@ Ohne die dekorativen weißen Muster am Hutrand wären die beiden Helmlinge womö
 
 Hermine hat an den gefärbten Lamellenschneiden große bauchige Zystiden mit teilweise dicklichen Auswüchsen gefunden, die Basidien waren 4-sporig, die amyloiden Sporen maßen 10 – 11 x 5 – 6 µm. Die Lamellentrama war in Melzer weinrot, die Huthauthyphen mit rotem Pigment und sporadischen Auswüchsen, die Huthaut selbst etwas gelatinisiert. Die Hyphen hatten Schnallen.
 
-Makroskopische Merkmale:
-Hut: 1 – 2,5 cm Ø, violettbraun, rosaviolett bis graulila, Mitte buckelig zugespitzt und dunkler
-Lamellen: weiß, grau bis graugelb, Schneide violett bis violettrosa
-Stiel: violettbraun, rosaviolett bis graulila, dünn, zerbrechlich, hohl, Basis filzig und wurzelnd
-Geruch: unauffällig
-Geschmack: mild
+##### Makroskopische Merkmale:
+
+**Hut:** 1 – 2,5 cm Ø, violettbraun, rosaviolett bis graulila, Mitte buckelig zugespitzt und dunkler
+**Lamellen:** weiß, grau bis graugelb, Schneide violett bis violettrosa
+**Stiel:** violettbraun, rosaviolett bis graulila, dünn, zerbrechlich, hohl, Basis filzig und wurzelnd
+**Geruch:** unauffällig
+**Geschmack:** mild
 
 Der Lilaschneidige Helmling wächst als Folgezersetzer in Nadelwäldern, auf moderndem Nadelholz, auf Nadelstreu, auch auf Kiefern- oder Fichtenzapfen, von Herbst bis Winter. Als Verwechslungsmöglichkeiten werden bei 123pilze Rettichhelmlinge (Mycena pura, rosea, diosma) genannt, die leicht durch Größe und Geruch zu unterscheiden sind.
 
