@@ -10,7 +10,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/mycena_haematopus_01_dg.jpg
+  datei: /bilder/mycena_haematopus_02_dg.bmp
 literatur:
   - url: http://tintling.com/pilzbuch/arten/m/Mycena_haematopus.html
 ---
@@ -23,15 +23,14 @@ Der Große Bluthelmling wächst gesellig bis büschelig auf Laubholz und hat ein
 Die Haupterscheinungszeit des Großen Bluthelmlings ist September bis Oktober.
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/mycena_haematopus_02_dg.bmp" %}
+{% include bild.html datei="/bilder/mycena_haematopus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Bei naturkundlichen Führungen mit Kindern können milchende Helmlinge einen netten Beitrag zur Aufrechterhaltung des Interesses beisteuern, indem man den Mädchen mit den angebrochenen Stielen die Fingernägel „lackiert“.
 
-Die in Deutschland vorkommenden milchenden Helmlingsarten sind:  
-Mycena crocata Gelbmilchender Helmling  
-Mycena erubescens Bitterer Helmling, Weißmilchender Gallenhelmling  
-Mycena galopus Weißmilchender Helmling (inkl. 2 Varietäten)  
-Mycena haematopus Großer Bluthelmling  
+Die in Deutschland vorkommenden milchenden Helmlingsarten sind:\
+Mycena crocata Gelbmilchender Helmling\
+Mycena erubescens Bitterer Helmling, Weißmilchender Gallenhelmling\
+Mycena galopus Weißmilchender Helmling (inkl. 2 Varietäten)\
+Mycena haematopus Großer Bluthelmling\
 Mycena sanguinolenta Purpurschneidiger Helmling
-
