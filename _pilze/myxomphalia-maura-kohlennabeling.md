@@ -7,6 +7,7 @@ beschreibung:
   erlaeuterung: maura = dunkel (maurisch)
 profil:
   aktualisiert: 2020-08-10
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/myxomphalia_maura_01_dg.jpg
