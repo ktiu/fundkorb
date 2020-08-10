@@ -21,7 +21,7 @@ literatur:
 {% include bild.html datei="/bilder/mycena_meliigena_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Kurzbeschreibung Mycena meliigena
+Kurzbeschreibung 
 (nach Breitenbach & Kränzlin: Pilze der Schweiz, Band 3 Nr. 356)
 
 **Hütchen:** 2- 6 mm ∅, halbkugelig bis konvex, Oberfläche glatt bis etwas körnig, matt, ocker bis rotbraun, Mitte dunkler und eingedellt, feucht bis zur Mitte radial gerieft-runzelig, Rand fein bräunlich gewimpert\
