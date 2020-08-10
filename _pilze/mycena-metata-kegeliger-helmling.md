@@ -36,4 +36,4 @@ Anmerkung zum Geruch: wenn man ihn am unversehrten Pilz nicht wahrnimmt, hilft o
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/mycena_metata_cheilos_06_fk.jpg" %}
 {% include bild.html datei="/bilder/mycena_metata_sporen_07_fk.jpg" %}
-{% include abbildung_ende.html legende="links apical warzige Cheilozystiden, rechts Sporen (2 Mikrofotos: Frank Kaster)" %}
+{% include abbildung_ende.html legende="Abbildung links: apical warzige Cheilozystiden --Abbildung rechts: Sporen (2 Mikrofotos: Frank Kaster)" %}
