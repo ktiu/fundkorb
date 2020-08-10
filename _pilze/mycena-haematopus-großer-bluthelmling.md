@@ -9,7 +9,7 @@ profil:
   aktualisiert: 2020-08-10
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: false
+  anzeige: true
   datei: /bilder/mycena_haematopus_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/m/Mycena_haematopus.html
