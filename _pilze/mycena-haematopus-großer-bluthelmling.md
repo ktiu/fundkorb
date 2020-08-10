@@ -29,8 +29,9 @@ Die Haupterscheinungszeit des Großen Bluthelmlings ist September bis Oktober.
 Bei naturkundlichen Führungen mit Kindern können milchende Helmlinge einen netten Beitrag zur Aufrechterhaltung des Interesses beisteuern, indem man den Mädchen mit den angebrochenen Stielen die Fingernägel „lackiert“.
 
 Die in Deutschland vorkommenden milchenden Helmlingsarten sind:
-Mycena crocata Gelbmilchender Helmling
-Mycena erubescens Bitterer Helmling, Weißmilchender Gallenhelmling
-Mycena galopus Weißmilchender Helmling (inkl. 2 Varietäten)
-Mycena haematopus Großer Bluthelmling
+
+Mycena crocata Gelbmilchender Helmling  
+Mycena erubescens Bitterer Helmling, Weißmilchender Gallenhelmling  
+Mycena galopus Weißmilchender Helmling (inkl. 2 Varietäten)  
+Mycena haematopus Großer Bluthelmling  
 Mycena sanguinolenta Purpurschneidiger Helmling
