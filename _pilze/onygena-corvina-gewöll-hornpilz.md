@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: corvina =  rabenartig
 profil:
   aktualisiert: 2020-08-10
-  autor_in: © Hermine Lotz-Winter & Dieter Gewalt
+  autor_in: Hermine Lotz-Winter & Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/onygena_corvina_01_hl.jpg
