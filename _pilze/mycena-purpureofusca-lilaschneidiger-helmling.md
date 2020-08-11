@@ -23,7 +23,7 @@ Hermine hat an den gefärbten Lamellenschneiden große bauchige Zystiden mit tei
 
 **Hut:** 1 – 2,5 cm Ø, violettbraun, rosaviolett bis graulila, Mitte buckelig zugespitzt und dunkler  
 **Lamellen:** weiß, grau bis graugelb, Schneide violett bis violettrosa  
-**Stiel:** violettbraun, rosaviolett bis graulila, dünn, zerbrechlich, hohl, Basis filzig und wurzelnd
+**Stiel:** violettbraun, rosaviolett bis graulila, dünn, zerbrechlich, hohl, Basis filzig und wurzelnd  
 **Geruch:** unauffällig  
 **Geschmack:** mild
 
