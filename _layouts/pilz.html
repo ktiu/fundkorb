@@ -29,8 +29,10 @@ footer_scripts:
   <div class="autor_in col-sm text-right">&copy; {{ page.profil.autor_in }}</div>
 </div>
 <div class="anfang row mb-4">
-  {% if page.beschreibung.synonym %}<div class="synonym col-md{% if page.beschreibung.erlaeuterung %}-5{% endif %}">{{ page.beschreibung.synonym }}</div>{% endif %}
-  {% if page.beschreibung.erlaeuterung %}<div class="erlaeuterung col-md">{{ page.beschreibung.erlaeuterung }}</div>{% endif %}
+  {% if page.beschreibung.synonym and page.beschreibung.synonym != ""%}
+    <div class="synonym col-md{% if page.beschreibung.erlaeuterung and page.beschreibung.erlaeuterung != "" %}-5{% endif %}">{{ page.beschreibung.synonym }}</div>
+  {% endif %}
+  {% if page.beschreibung.erlaeuterung and page.beschreibung.erlaeuterung != "" %}<div class="erlaeuterung col-md">{{ page.beschreibung.erlaeuterung }}</div>{% endif %}
 </div>
 
 {% if page.hauptbild.anzeige and page.hauptbild.datei %}

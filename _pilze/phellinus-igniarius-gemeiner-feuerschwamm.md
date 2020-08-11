@@ -3,8 +3,8 @@ beschreibung:
   wissenschaftlich: Phellinus igniarius
   deutsch: Gemeiner Feuerschwamm
   referenz: "(L.) Quél. 1886 "
-  synonym: ""
   erlaeuterung: igniarius = feuerrot, feurig
+  synonym: ""
   familie: Hymenochaetaceae
 profil:
   aktualisiert: 2020-08-11
