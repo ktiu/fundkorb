@@ -30,8 +30,8 @@ Verwechselt werden könnte er mit dem Schleimigen Schüppling *Pholiota adiposa*
 
 (vor allem bei feuchtem Wetter gut zu erkennen):
 
-**Pholiota adiposa*** Hut und Stiel schleimig, Schüppchen teilweise aufgerichtet, Geschmack bitter
-**Pholiota aurivella** Hut schleimig, Stiel trocken, Schüppchen angedrückt, Geschmack mild
+**Pholiota adiposa*** Hut und Stiel schleimig, Schüppchen teilweise aufgerichtet, Geschmack bitter  
+**Pholiota aurivella** Hut schleimig, Stiel trocken, Schüppchen angedrückt, Geschmack mild  
 **Pholiota jahnii** Hut schleimig, Stiel trocken, Schüppchen pinselartig aufgerichtet,
 Geschmack mild
 
