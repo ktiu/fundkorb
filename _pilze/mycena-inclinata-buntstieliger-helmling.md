@@ -24,4 +24,4 @@ Der Buntstielige Helmling gehört zu den relativ leicht erkennbaren Vertretern s
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/mycena_inclinata_01_gb.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Foto: Günther Breidert" %}
