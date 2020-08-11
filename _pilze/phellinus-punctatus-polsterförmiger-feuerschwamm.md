@@ -17,6 +17,6 @@ literatur:
   - text: "Werner Pohl: Aphyllopower (Pilz Nr. 76) "
     url: http://aphyllopower.blogspot.com/2010/05/
 ---
-Dieser [resupinate](resupinat "Glossar") Porling wächst auf der Rinde von Weiden und Hasel, selten an anderen Laubhölzern. Der abgebildete Fruchtkörper war noch recht jung; im Alter neigen die resupinaten bis kissenförmigen Pilze dazu, rissig zu werden.
+Dieser [resupinate](resupinat "Glossar") Porling wächst auf der Rinde von Weiden und Hasel, selten an anderen Laubhölzern. Der abgebildete Fruchtkörper war noch recht jung; im Alter neigen die kissenförmigen Pilze dazu, rissig zu werden.
 
 Feuerschwämme sind mehrjährige, konsolen- bis polsterförmige Porlinge mit brauner Trama, geschichteten Röhren und sehr feinen Poren. Die Trama verfärbt sich mit KOH sofort schwarz. In Europa sind etwa 30 Arten bekannt.
