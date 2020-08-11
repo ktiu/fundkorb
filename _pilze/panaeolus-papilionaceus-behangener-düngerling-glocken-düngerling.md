@@ -8,7 +8,7 @@ beschreibung:
   erlaeuterung: papilionaceus = schmetterlingsartig
 profil:
   aktualisiert: 2020-08-11
-  autor_in: © Dieter Gewalt
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/panaeolus_papilionaceus_01_dg.jpg
