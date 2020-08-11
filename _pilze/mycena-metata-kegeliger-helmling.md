@@ -28,9 +28,9 @@ Anmerkung zum Geruch: wenn man ihn am unversehrten Pilz nicht wahrnimmt, hilft o
 
 ##### Kurzbeschreibung:
 
-**Hut:** meist nur um die 1 cm breit, kegelig oder glockig, hygrophan, fast bis zur Mitte gerieft, ocker gelblich, fleischrötlich bis hell graubraun, manchmal auffallend elegant gebuckelt\
-**Lamellen:** weißlich bis hell cremefarben oder fleischrötlich, aufsteigend am Stiel angewachsen, meist kollarartig. Die Riefung auf dem Hut bildet die Lamellenstruktur ab\
-**Stiel:** 1 – 2 mm ∅, bis 10 cm lang, glatt, graubräunlich, zur Spitze hin heller\
+**Hut:** meist nur um die 1 cm breit, kegelig oder glockig, hygrophan, fast bis zur Mitte gerieft, ocker gelblich, fleischrötlich bis hell graubraun, manchmal auffallend elegant gebuckelt  
+**Lamellen:** weißlich bis hell cremefarben oder fleischrötlich, aufsteigend am Stiel angewachsen, meist kollarartig. Die Riefung auf dem Hut bildet die Lamellenstruktur ab  
+**Stiel:** 1 – 2 mm ∅, bis 10 cm lang, glatt, graubräunlich, zur Spitze hin heller  
 **Mikromerkmale:** Basidien zweisporig, Sporen elliptisch, glatt, 7 – 10 x 4 -5 µm; Cheilozystiden zahlreich, gestielt keulig, apikal warzig
 
 {% include abbildung_start.html stil="klein" %}
