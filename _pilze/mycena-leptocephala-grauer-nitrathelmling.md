@@ -26,4 +26,4 @@ Der Graue Nitrathelmling ist eine häufige Art ohne spezielle Bindung an bestimm
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/mycena_leptocephala_04_fk.jpg" %}
 {% include bild.html datei="/bilder/mycena_leptocephala_03_fk.jpg" %}
-{% include abbildung_ende.html legende="Abb. links:  Sporen elliptisch, glatt, 6,5 – 8 X 3,5 – 4,5 µm    Abb.rchts:  Cheilozystiden, ein schönes Mikromerkmal sind die massenhaft aus den Lamellenschneiden herausragenden Cheilozystiden .    (2 Mikrofotos: Frank Kaster)" %}
+{% include abbildung_ende.html legende="Abb. links:  Sporen elliptisch, glatt, 6,5 – 8 X 3,5 – 4,5 µm    Abb.rchts:  Cheilozystiden, ein schönes Mikromerkmal sind die massenhaft aus den Lamellenschneiden herausragenden Cheilozystiden. (2 Mikrofotos: Frank Kaster)" %}
