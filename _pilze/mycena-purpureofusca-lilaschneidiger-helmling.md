@@ -21,10 +21,10 @@ Hermine hat an den gefärbten Lamellenschneiden große bauchige Zystiden mit tei
 
 ##### Makroskopische Merkmale:
 
-**Hut:** 1 – 2,5 cm Ø, violettbraun, rosaviolett bis graulila, Mitte buckelig zugespitzt und dunkler
-**Lamellen:** weiß, grau bis graugelb, Schneide violett bis violettrosa
+**Hut:** 1 – 2,5 cm Ø, violettbraun, rosaviolett bis graulila, Mitte buckelig zugespitzt und dunkler  
+**Lamellen:** weiß, grau bis graugelb, Schneide violett bis violettrosa  
 **Stiel:** violettbraun, rosaviolett bis graulila, dünn, zerbrechlich, hohl, Basis filzig und wurzelnd
-**Geruch:** unauffällig
+**Geruch:** unauffällig  
 **Geschmack:** mild
 
 Der Lilaschneidige Helmling wächst als Folgezersetzer in Nadelwäldern, auf moderndem Nadelholz, auf Nadelstreu, auch auf Kiefern- oder Fichtenzapfen, von Herbst bis Winter. Als Verwechslungsmöglichkeiten werden bei 123pilze Rettichhelmlinge (Mycena pura, rosea, diosma) genannt, die leicht durch Größe und Geruch zu unterscheiden sind.
