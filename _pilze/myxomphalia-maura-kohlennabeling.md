@@ -24,6 +24,6 @@ Mein erster Fund verdient besondere Erwähnung. Im Herbst 1986 erschien eine kle
 
 Brandstellen sind in letzter Zeit in der Rhein-Main-Ebene ziemlich rar geworden – entsprechend selten waren auch neuere Funde von typischen Brandstellenpilzen wie dem Kohlennabeling.
 
-Wertvoller Hinweis von Fedt Kasparek († 21. April 2018): 
+Wertvoller Hinweis von Fredi Kasparek († 21. April 2018): 
 
 > "Insider kennen ein gutes Erkennungsmerkmal des Kohlen-Nabelings. Es sind seine sich längs spaltenden Lamellen beim Durchreißen des Hutes."
