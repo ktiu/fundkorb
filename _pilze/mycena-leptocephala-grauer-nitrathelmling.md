@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/m/Mycena_leptocephala.html
 ---
-Unter den Helmlingen ist er so etwas wie die graue Maus. Das Grau der Hüte ist bei jungen Exemplaren dunkler, bei älteren heller und bei Feuchtigkeit bis fast zur Mitte durchscheinend gerieft. Weißlich grau sind die Lamellen, bräunlich grau die Stiele, unter dem Hut und auch zur Basis hin heller. Ein weiteres Merkmal ist der nitröse Geruch, den man auch „nach Schwimmbad“, also chlorartig, nennen kann. Unter diesen Umständen ist der Name „Grauer Nitrathelmling“ passend. Auffällig ist die striegelige Stielbasis, die von weißen Rhizomorphen bekleidet ist.
+Unter den Helmlingen ist er so etwas wie die graue Maus. Das Grau der Hüte ist bei jungen Exemplaren dunkler, bei älteren heller und bei Feuchtigkeit bis fast zur Mitte durchscheinend gerieft. Weißlich grau sind die Lamellen, bräunlich grau die Stiele, unter dem Hut und auch zur Basis hin heller. Ein weiteres Merkmal ist der nitröse Geruch, den man auch „nach Schwimmbad“, also chlorartig, nennen kann. Unter diesen Umständen ist der Name „Grauer Nitrathelmling“ passend. Auffällig ist die striegelige Stielbasis, die von weißen [Rhizomorphen](Rhizomorphen "Glossar") bekleidet ist.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mycena_leptocephala_02_dg.jpg" %}
