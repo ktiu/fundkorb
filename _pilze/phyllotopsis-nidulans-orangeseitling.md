@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/p/Phyllotopsis_nidulans.html
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/phyllotopsis_nidulans_01_pz.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -27,7 +27,7 @@ Orangeseitlinge sind muschelförmige ungestielte Pilze, die seitlich oder mit de
 {% include bild.html datei="/bilder/phyllotopsis_nidulans_03_gw.jpg" %}
 {% include abbildung_ende.html legende="Foto: Gerd Wartha, Februar 2018 im Gersprenztal, Odenwald" %}
 
-Auf diesen beiden Fotos von Frank Kaster sind ganz junge Fruchtkörper zu sehen, die er Ende November 2018 im Frankfurter Stadtwald in der Nähe vom Maunzenweiher aufgenommen hat. Schöner könnte man nicht zeigen, wie treffend der lateinische Artname nidulans („ein Nestchen bauend“) gewählt ist.
+
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/phyllotopsis_nidulans_02_fk.jpg" %}
