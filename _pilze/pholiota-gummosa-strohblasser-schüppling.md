@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/p/Pholiota_gummosa.html
 ---
-Dass es sich bei den Schüpplingen um Blätterpilze mit undeutlich abgrenzbaren Merkmalen handelt, zeigen schon einige Beispiele aus der Liste der Gattungsmerkmale: Hüte kahl bis schuppig, trocken, schmierig oder schleimig, nicht hygrophan – Stiele mit oder ohne Ringzone – Sporenpulver ocker bis rostbraun. Da gibt es nicht viel wirklich Typisches, Greifbares, höchstens dass kein Schüppling hygrophane Hüte hat. Pilzgattungen mit braunem Sporenpulver gibt es dagegen jede Menge. Dass alle Schüpplinge an Holz wachsen, hilft auch nicht wirklich weiter, da es sich häufig um vergrabenes Holz handeln kann, das wie auf dem Foto oben auf der Rasenfläche unsichtbar bleibt. Das alles macht es im Feld nicht einfach, einen Fund als Schüppling zu erkennen.
+Dass es sich bei den Schüpplingen um Blätterpilze mit undeutlich abgrenzbaren Merkmalen handelt, zeigen schon einige Beispiele aus der Liste der Gattungsmerkmale: Hüte kahl bis schuppig, trocken, schmierig oder schleimig, nicht [hygrophan](hygrophan "Glossar") – Stiele mit oder ohne Ringzone – Sporenpulver ocker bis rostbraun. Da gibt es nicht viel wirklich Typisches, Greifbares, höchstens dass kein Schüppling hygrophane Hüte hat. Pilzgattungen mit braunem Sporenpulver gibt es dagegen jede Menge. Dass alle Schüpplinge an Holz wachsen, hilft auch nicht wirklich weiter, da es sich häufig um vergrabenes Holz handeln kann, das wie auf dem Foto oben auf der Rasenfläche unsichtbar bleibt. Das alles macht es im Feld nicht einfach, einen Fund als Schüppling zu erkennen.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/pholiota_gummosa_03_dg.jpg" %}
