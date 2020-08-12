@@ -31,6 +31,54 @@ Wenn die Huthaut so deutlich blau- oder stahlgrau gefärbt ist wie auf den Fotos
 
 ##### Unterscheidungsmerkmale Austernseitling / Lungenseitling
 
+<div class="table-responsive">
+  <table class="table">
+    <thead>
+      <tr>
+        <th> </th> 
+        <th>Austernseitling<br /><i>(Pleurotus ostreatus)</i></th>
+        <th>Lungenseitling<br /><i>(P. pulmonarius)</i></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Hut</th>
+        <td>groß, dickfleischig</td>
+        <td>kleiner und dünnfleischig</td>
+      </tr>
+      <tr>
+        <th>Hutgröße</th>
+        <td>ca. 100 - 160 x 50 - 110 mm</td>
+        <td>ca. 60 - 120 x 30- 110 mm</td>
+      </tr> 
+      <tr>
+        <th>Huthaut</th>
+        <td>90 - 120 µm</td>
+        <td>40 - 50 µm</td>
+      </tr>
+      <tr>
+        <th>Hutrand</th>
+        <td>dick, glatt, fein gewellt</td>
+        <td>oft grob wellig, gilbend</td>
+      </tr>
+      <tr>
+        <th>Hutfarbe</th>
+        <td>beige, dunkelbraun, graublau, stahlblau</td>
+        <td>weiß, beige, blass gelb, grau</td>
+      </tr>      <tr>
+        <th>Lamellen</th>
+        <td>dick, weit auseinander stehend</td>
+        <td>dünn, dicht stehend</td>
+      </tr>      <tr>
+        <th>Reaktion</th>
+        <td>mit Sulvovanillin rötlich, weinrot, purpur, violett</td>
+        <td>keine Farbreaktion</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
 Wie man sieht, sind die aufgeführten Unterschiede in der Praxis nur schwer nachzuvollziehen, zumal man kaum einmal beide Arten zum Vergleichen in Händen hat. Die Angaben zur Dicke der Huthaut sind im Zehntel-Millimeter-Bereich, also auch nicht gerade hilfreich. Und hellere Austernseitlinge sind farblich kaum von etwas dunkler geratenen Lungenseitlingen zu unterscheiden. Für die Küche ist das ohne Belang, denn beide sind gute Speisepilze von gleicher 
 Wertigkeit.
 
