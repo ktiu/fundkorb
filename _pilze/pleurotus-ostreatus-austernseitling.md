@@ -7,6 +7,7 @@ beschreibung:
   erlaeuterung: ostreatus = austernartig
 profil:
   aktualisiert: 2020-08-12
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/pleurotus_ostreatus_02_dg.jpg
