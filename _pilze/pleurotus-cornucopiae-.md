@@ -21,7 +21,7 @@ In Mitteleuropa kommen drei an Holz wachsende Seitlingsarten vor, die man recht 
 
 Rillstielige Seitlinge mit untypisch nicht sehr weit am Stiel herablaufenden Lamellen könnten mit Lungen- oder Austernseitlingen mit untypisch weit herablaufenden Lamellen verwechselt werden, wie auch untypisch dunkle Lungenseitlinge nur schwer von untypisch hellen Austernseitlingen zu unterscheiden sind. Für Küchenmykologen ist eine sichere Trennung der drei Arten nicht von Bedeutung, denn sie sind alle essbar.
 
-Zumindest für erfahrene Pilzfreunde, die auch mikroskopieren, lässt sich der Rillstielige Seitling anhand seiner Hutfleischstruktur von seinen beiden Verwandten sicher trennen. Er hat eine dimitische, aus generativen und [Skeletthyphen](<Hyphen "Glossar">) bestehende [Trama](<Trama "Glossar">), Austern- und Lungenseitling dagegen besitzen ein monomitisches Hyphensystem, das nur aus Generativhyphen besteht. Dem Hobbymykologen hilft das nicht weiter.
+Zumindest für erfahrene Pilzfreunde, die auch mikroskopieren, lässt sich der Rillstielige Seitling anhand seiner Hutfleischstruktur von seinen beiden Verwandten sicher trennen. Er hat eine dimitische, aus generativen und [Skeletthyphen](Hyphen "Glossar") bestehende [Trama](Trama "Glossar"), Austern- und Lungenseitling dagegen besitzen ein monomitisches Hyphensystem, das nur aus Generativhyphen besteht. Dem Hobbymykologen hilft das nicht weiter.
 
 Unterzieht man die Beschreibungen der Hutfarben in diversen Publikationen einer kritischen Betrachtung, kommt man zu dem Schluss, dass es Überlappungen gibt und sie infolgedessen und bei nicht typischer Ausprägung kein hinreichend sicheres Trennmerkmal darstellen.
 
