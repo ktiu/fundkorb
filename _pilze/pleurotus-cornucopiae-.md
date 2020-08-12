@@ -54,8 +54,8 @@ Unterzieht man die Beschreibungen der Hutfarben in diversen Publikationen einer 
 
 **Hutfarben** (zitiert von/aus: Ewald Gerhardt, Andreas Gminder, Parey, Moser, Großpilze BWs, Internet: 123pilze, wikipedia, u. a.
 
-**Rillstieliger Seitling:** hellbraun, graubraun, gebbraun, graubräunlich, fleischbraun, fuchsig braun, falb ocker\
-**Austernseitling:** silbergrau, graubräunlich, stahlgrau, taubenblau, schiefergrau, schwarzgrau, dunkelbraun, ockerbraun, bräunlich ausblassend, kastanienbraun, olivlich\
+**Rillstieliger Seitling:** hellbraun, graubraun, gebbraun, graubräunlich, fleischbraun, fuchsig braun, falb ocker  
+**Austernseitling:** silbergrau, graubräunlich, stahlgrau, taubenblau, schiefergrau, schwarzgrau, dunkelbraun, ockerbraun, bräunlich ausblassend, kastanienbraun, olivlich  
 **Lungenseitling:** milchweiß, cremeweiß, grauweiß, hellbeige, grau, bräunlich, schmutzig graubräunlich
 
 Zur Irritation trägt mitunter auch die Auswahl der Fotos bei: So sieht bei wikipedia der Austernseitling eher wie ein Rillstieliger aus und der Rillstielige eher wie ein Austernseitling. Im Handbuch für Pilzfreunde (*Andreas Gminder*) werden die Verwechslungsmöglichkeiten nicht einmal erwähnt.
