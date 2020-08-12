@@ -17,7 +17,7 @@ literatur:
 ---
 Dachpilze sind leicht zu erkennen. Sie wachsen fast alle an totem Holz (einige wenige kommen auch terrestrisch vor), haben einen schlanken, in der Stielbasis knollig verdickten, längsfaserigen Stiel, der nicht mit einer häutigen Scheide versehen ist. Sie haben rosafarbenes Sporenpulver, das bei Sporenreife die Lamellen von weißlich nach rosa verfärben lässt. Die Lamellen sind frei. Sie erreichen den Stiel nicht.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/pluteus_cervinus_02_dg.jpg" %}
 {% include bild.html datei="/bilder/pluteus_cervinus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
