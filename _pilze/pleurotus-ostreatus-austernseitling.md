@@ -45,8 +45,8 @@ Bei oberflächlicher Betrachtung wären auch Verwechslungen mit dem essbaren Ril
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/pleurotus_ostreatus_05_dg.jpg" %}
 {% include bild.html datei="/bilder/pleurotus_cornucopiae_01_dg.jpg" %}
-{% include bild.html datei="/bilder/pleurotus_cornucopiae_01_dg.jpg" %}
-{% include abbildung_ende.html legende="von links nach rechts: Austernseitling  --  Rillstieliger Seitling Gelbstieliger --  Muschelseitling" %}
+{% include bild.html datei="/bilder/sarcomyxa_serotina_01_dg.jpg" %}
+{% include abbildung_ende.html legende="von links nach rechts: Austernseitling  --  Rillstieliger Seitling -- Gelbstieliger Muschelseitling" %}
 
 Bei gekauften Austernseitlingen wird oft die etwas zähe Konsistenz der Pilze bemängelt. Das ist nicht verwunderlich, denn wegen des höheren Profits lässt man in den Zuchtbetrieben die Pilze relativ groß werden. Wer sie in der Natur sammelt und nur junge Exemplare mitnimmt, wird deren Zartheit zu schätzen wissen.
 
