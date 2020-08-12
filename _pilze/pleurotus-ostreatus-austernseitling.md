@@ -33,7 +33,7 @@ Wenn die Huthaut so deutlich blau- oder stahlgrau gefärbt ist wie auf den Fotos
 Wie man sieht, sind die aufgeführten Unterschiede in der Praxis nur schwer nachzuvollziehen, zumal man kaum einmal beide Arten zum Vergleichen in Händen hat. Die Angaben zur Dicke der Huthaut sind im Zehntel-Millimeter-Bereich, also auch nicht gerade hilfreich. Und hellere Austernseitlinge sind farblich kaum von etwas dunkler geratenen Lungenseitlingen zu unterscheiden. Für die Küche ist das ohne Belang, denn beide sind gute Speisepilze von gleicher 
 Wertigkeit.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/pleurotus_ostreatus_04.jpg" %}
 {% include abbildung_ende.html legende="Ob diese Schnecke weiß, ob sie gerade an einem Austern- oder Lungenseitling genascht hat?" %}
 
