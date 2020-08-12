@@ -13,6 +13,7 @@ hauptbild:
   datei: /bilder/pleurotus_citrinopileatus_01_dg.jpg
 literatur:
   - url: https://de.wikipedia.org/wiki/Zitronengelber_Seitling
+  - url: http://tintling.com/inhalt/2001/Zitronen_im_Keller.pdf
 ---
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pleurotus_citrinopileatus_01_dg.jpg" %}
