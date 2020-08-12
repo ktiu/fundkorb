@@ -9,7 +9,7 @@ profil:
   aktualisiert: 2020-08-12
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: false
+  anzeige: true
   datei: /bilder/pleurotus_citrinopileatus_01_dg.jpg
 literatur:
   - url: https://de.wikipedia.org/wiki/Zitronengelber_Seitling
