@@ -14,6 +14,38 @@ hauptbild:
 ---
 In Mitteleuropa kommen drei an Holz wachsende Seitlingsarten vor, die man recht gut voneinander unterscheiden kann, falls sie ihre typischen Merkmale deutlich zeigen – aber genau das ist leider nicht immer der Fall. Ein vereinfachter Bestimmungsschlüssel für typisch ausgebildete Funde könnte so aussehen:
 
+<div class="table-responsive">
+<table class="table">
+<tr>
+  <th>1</th>
+  <td>Lamellen bis zum Stielgrund herablaufend</td>
+  <th>Rillstieliger Seitling</th>
+  
+</tr>
+<tr>
+  <th>1*</th>
+  <td>Lamellen nicht bis zum Stiegrund herablaufend</td>
+  <th><th><i class="fas fa-arrow-right"></i> 2</th></th>
+</tr>
+<tr>
+  <th>2</th>
+  <td>Hut elfenbeinweißlich bis blass graubräunlich </td>
+  <th>Lungenseitling</th>
+</tr>
+<tr>
+  <th>2*</th>
+  <td>Hut grau, stahlgrau bis stahlblau </td>
+  <th><i class="fas fa-arrow-right"></i> Austernseitling</th>
+</tr>
+<tr>
+  
+
+
+</tr>
+</table>
+</div>
+
+
 1 Lamellen bis zum Stielgrund herablaufend = Rillstieliger Seitling
 1 *Lamellen nicht bis zum Stiegrund herablaufend   >>>  2
 2 Hut elfenbeinweißlich bis blass graubräunlich = Lungenseitling
