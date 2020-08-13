@@ -61,7 +61,7 @@ Abir Gasmi Seifried: „Am besten hat der Kleine Schuppenporling geschmeckt. Der
 Es ist nicht übetrieben: ich habe Jahrzehnte lang nach dem gesucht, was dem Sklerotienporling seinen Namen gegeben hat, habe mehr als hundertmal nach diesen geheimnisvollen „Pilzsteinen“ gegraben. Untersucht man den Untergrund unter Sklerotienporlingen, die an Holz wachsen, wird man kaum einmal fündig werden. Gräbt man unter auf dem Waldboden wachsenden Fruchtkörpern, stehen die Chancen auf Erfolg entschieden besser. So gelang es innerhalb kurzer Zeit gleich mehrfach, die steinharten Überdauerungsorgane auszugraben, erstmals am 23. Juli 2016 im Steinberger Wald. Leider war es nicht möglich, den „Pilzstein“ mit aufsitzendem Pilz und in einem Stück zu bergen. Er war zwischen hartnäckigem Wurzelwerk eingezwängt.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/polyporus_tuberaster_sklerotium_09_dg.jpg" %}
+{% include bild.html datei="/bilder/polyporus_tuberaster_sklerotium_08_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Das obige Foto zeigt den Pilz und die geborgenen Teilstücke, das nachfolgende das aus Teilstücken zusammengesetzte Skelrotium, das 21 cm in seiner Längsachse maß und gut ein Kilogramm wog.
