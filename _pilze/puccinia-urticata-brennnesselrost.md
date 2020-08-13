@@ -36,12 +36,13 @@ Im Bild oben rechts gleicht er einer Raupe, die sich auf ein Brennnesselblatt zu
 {% include abbildung_ende.html legende="Foto links: Matevz Koncilja" %}
 
 Auf vorjährigen, trockenen Brennnesselstängeln sind u. a. folgende Arten zu finden:
-Acrospermum compressum = Fadensporiges Flachkeulchen
-Aporythisma urticae (Deutscher Name nicht bekannt)
-Calloria neglecta = Orangerotes Brennnesselbecherchen
-Calyptella capula = Mützenförmiger Schüsselschwindling
-Cyathicula coronata = Gekrönter Stängelbecherling
-Cyathicula cyathoidea = Pokalförmiger Stängelbecherling
-Hymenoscyphus herbarum = Kraut-Stäbgelbecherling
-Leptosphaeria acuta = Zugespitzter Kugelpilz
+
+Acrospermum compressum = Fadensporiges Flachkeulchen  
+Aporythisma urticae (Deutscher Name nicht bekannt)  
+Calloria neglecta = Orangerotes Brennnesselbecherchen  
+Calyptella capula = Mützenförmiger Schüsselschwindling  
+Cyathicula coronata = Gekrönter Stängelbecherling  
+Cyathicula cyathoidea = Pokalförmiger Stängelbecherling  
+Hymenoscyphus herbarum = Kraut-Stäbgelbecherling  
+Leptosphaeria acuta = Zugespitzter Kugelpilz  
 Trichopeziza sulphurea = Schwefelgelbes Haarbecherchen
