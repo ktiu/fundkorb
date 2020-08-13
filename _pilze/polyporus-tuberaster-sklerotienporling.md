@@ -48,10 +48,10 @@ Leider muss die Küchenempfehlung mit einer Einschränkung gegeben werden. Nur j
 
 Der Pilz ist recht farbvariabel. Die geschuppte Hutoberseite kann grau oder graubraun, aber auch ocker, strohfarben, gelbbräunlich bis rotbraun gefärbt sein.
 
-Und so haben Teilnehmer an unseren Pilzwanderungen über den Speisewert des Sklerotienporlings geurteilt:  
-Susann Fröhlich: „Der Kleine Schuppenporling ist der Geschmackshammer! Sehr aromatisch nussig.“  
-Bärbel und Kathrin Kemmerer: „… im Geschmack wunderbar, würzig nussig. Einfach ein Leckerbissen.“  
-Angelika Borchert: „Er war köstlich und wir haben ihn direkt aus der Pfanne genascht.“  
+Und so haben Teilnehmer an unseren Pilzwanderungen über den Speisewert des Sklerotienporlings geurteilt:\
+Susann Fröhlich: „Der Kleine Schuppenporling ist der Geschmackshammer! Sehr aromatisch nussig.“\
+Bärbel und Kathrin Kemmerer: „… im Geschmack wunderbar, würzig nussig. Einfach ein Leckerbissen.“\
+Angelika Borchert: „Er war köstlich und wir haben ihn direkt aus der Pfanne genascht.“\
 Abir Gasmi Seifried: „Am besten hat der Kleine Schuppenporling geschmeckt. Der absolute Sieger!“
 
 {% include abbildung_start.html stil="mittel" %}
@@ -66,7 +66,7 @@ Es ist nicht übetrieben: ich habe Jahrzehnte lang nach dem gesucht, was dem Skl
 
 Das obige Foto zeigt den Pilz und die geborgenen Teilstücke, das nachfolgende das aus Teilstücken zusammengesetzte Skelrotium, das 21 cm in seiner Längsachse maß und gut ein Kilogramm wog.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/polyporus_tuberaster_sklerotium_09_dg.jpg" %}
 {% include abbildung_ende.html %}
 
