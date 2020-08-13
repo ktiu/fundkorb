@@ -13,6 +13,12 @@ hauptbild:
   datei: /bilder/polyporus_tuberaster_02_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/p/Polyporus_tuberaster.html
+  - text: "H. Schmid & W. Helfert: Pilze – Wissenswertes aus Ökologie, Geschichte
+      und Mythos , S. 65 (IHW-Verlag 1995)"
+  - text: "Michael / Hennig / Kreisel: Handbuch für Pilzsammler, S. 222 (Gustav
+      Fisher Verlag Stuttgart 1986)"
+  - text: "Dieter Gewalt: Der Besten einer (Der Tintling – Die Pilzzeitung, Hrsg.
+      Karin Montag, Heft 78 Seite 15"
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/polyporus_tuberaster_01_dg.jpg" %}
