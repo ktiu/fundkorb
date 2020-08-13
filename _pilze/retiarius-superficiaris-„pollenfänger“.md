@@ -26,4 +26,8 @@ Retiarius superficiaris wurde am 11. August 2016 bei einer Exkursion im Wald bei
 
 Am 7. Januar 2019 entdeckte ich ihn zufällig auch im Steinberger Wald bei Dietzenbach. Hier waren Blätter einer Stechpalme (Ilex) das Substrat. Pollen liefernde Kiefern waren im Umfeld natürlich auch vorhanden. Zwei weitere Funde im März 2019 im gleichen Wald waren an Kirschlorbeer und erneut an Stechpalme. Am 23. März konnte der Pollenfänger auch im Frankfurter Hauptfriedhof an Kirschlorbeer nachgewiesen werden.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/pollenkörner_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
 Beispiele von Pollenkörnern verschiedener Pflanzen. Sie werden von Wind, Wasser oder Tieren (Insekten, Vögel, etc.) verbreitet. Der Pollenflug existiert seit ca. 300 Millionen Jahren und sorgt bei mehr als der Hälfte aller Pflanzen für die Bestäubung. Vor allem Pollen mit deutlichen Strukturen können beim Menschen Allergien auslösen.
