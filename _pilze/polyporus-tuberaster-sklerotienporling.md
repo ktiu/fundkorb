@@ -24,8 +24,6 @@ literatur:
 {% include bild.html datei="/bilder/polyporus_tuberaster_01_dg.jpg" %}
 {% include abbildung_ende.html legende="Sklerotienporlinge im Steinberger Wald bei Dietzenbach, wo sie zu den häufigsten Stielporlingen gehören (25. Mai 2016)" %}
 
-
-
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/polyporus_tuberaster_02_dg.jpg" %}
 {% include abbildung_ende.html legende="So sehen ganz junge Sklerotienporlinge aus, wie sie für die Küche bestens geeignet sind" %}
@@ -37,7 +35,7 @@ Dieser Stielporling trägt einen Namen, mit dem Pilznovizen kaum etwas anfangen 
 {% include bild.html datei="/bilder/polyporus_tuberaster_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Bei unserem hübschen Stielporling, der auch „Kleiner Schuppenporling“ genannt wird, weist auch der wissenschaftliche Artname auf diese Besonderheit hin: tuberaster heißt „Abbild der Trüffel“, womit auf die knollige Form seines Sklerotiums hingewiesen wird. Das Erstaunliche an seinem Dauermyzel sind aber seine Ausmaße. Es kann die Größe eines Menschenkopfes erreichen! Im Normalfall ist es etwa faustgroß. Doch wo soll man nach ihm suchen? Offensichtlich ist unser Sklerotienporling eine holzbewohnende Art und selbst bei intensivsten Nachforschungen im Untergrund wird man in Mitteleuropa kaum fündig werden. Tatsache ist: unser Pilz kann ein Sklerotium haben, muss aber nicht. Die Wahrscheinlichkeit, dieses erstaunliche Gebilde zu finden, ist dagegen im Mittelmeerraum wesentlich größer. Verständlich beim dort vorherrschenden eher trockenen Klima. Pietra fungaja werden sie in Italien genannt und schon Goethe hat sich sehr für sie interessiert und kluge Vermutungen über das Wesen dieser „Pilzsteine“ angestellt: „Jenes Naturprodukt scheint nicht dem Mineral- sondern dem Pflanzenreiche anzugehören.“
+Bei unserem hübschen Stielporling, der auch „Kleiner Schuppenporling“ genannt wird, weist auch der wissenschaftliche Artname auf diese Besonderheit hin: tuberaster heißt „Abbild der Trüffel“, womit auf die knollige Form seines Sklerotiums hingewiesen wird. Das Erstaunliche an seinem Dauermyzel sind aber seine Ausmaße. Es kann die Größe eines Menschenkopfes erreichen! Im Normalfall ist es etwa faustgroß. Doch wo soll man nach ihm suchen? Offensichtlich ist unser Sklerotienporling eine holzbewohnende Art und selbst bei intensivsten Nachforschungen im Untergrund wird man in Mitteleuropa kaum fündig werden. Tatsache ist: unser Pilz kann ein Sklerotium haben, muss aber nicht. Die Wahrscheinlichkeit, dieses erstaunliche Gebilde zu finden, ist dagegen im Mittelmeerraum wesentlich größer. Verständlich beim dort vorherrschenden eher trockenen Klima. *Pietra fungaja* werden sie in Italien genannt und schon Goethe hat sich sehr für sie interessiert und kluge Vermutungen über das Wesen dieser „Pilzsteine“ angestellt: *„Jenes Naturprodukt scheint nicht dem Mineral- sondern dem Pflanzenreiche anzugehören.“*
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/polyporus_tuberaster_05_dg.jpg" %}
@@ -72,7 +70,7 @@ Das obige Foto zeigt den Pilz und die geborgenen Teilstücke, das nachfolgende d
 {% include bild.html datei="/bilder/polyporus_tuberaster_sklerotium_09_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-03.10.2016: ein weiteres Sklerotium, nahe Dornsee zwischen Dietzenbach und Heusenstamm und 29. Mai 2017 das insgesamt fünfte Sklerotium, das Tui Gewalt ausgegraben hat (Alte Babenhäuser Straße, Dietzenbach-Steinberg, gut zwei Kilo schwer). Ein anderes ist im Fundus der Uni Frankfurt gelandet. Auf weitere „Ausgrabungen“ werden wir verzichten.
+03.10.2016: ein weiteres Sklerotium, nahe Dornsee zwischen Dietzenbach und Heusenstamm und 29.05.2017 das insgesamt fünfte Sklerotium, das Tui Gewalt ausgegraben hat (Alte Babenhäuser Straße, Dietzenbach-Steinberg, gut zwei Kilo schwer). Ein anderes ist im Fundus der Uni Frankfurt gelandet. Auf weitere „Ausgrabungen“ werden wir verzichten.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/polyporus_tuberaster_sklerotium_10_dg.jpg" %}
