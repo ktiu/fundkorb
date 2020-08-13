@@ -9,11 +9,15 @@ profil:
   aktualisiert: 2020-08-13
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/puccinia_coronata_01_dg.jpg
 literatur:
   - url: http://jule.pflanzenbestimmung.de/puccinia-coronata-11/
 ---
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/puccinia_coronata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 Wer den Faulbaum (Rhamnus frangula) erkennt und einen auffallend attraktiven Rostpilz darauf entdeckt, kann diesem auch gleich einen Namen geben: es ist der Kronenrost Puccinia coronata. Er wird in Verbindung mit seinem Wirt als unverwechselbar bezeichnet.
 
 {% include abbildung_start.html stil="klein" %}
