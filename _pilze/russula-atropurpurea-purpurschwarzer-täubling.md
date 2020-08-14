@@ -25,7 +25,7 @@ Die zunächst weißen Lamellen verfärben sich bald gelblich und täuschen damit
 
 Der Purpurschwarze Täubling ist ein stattlicher Pilz, dessen Hüte bis zu 15 cm Durchmesser erreichen können. Die stämmigen Stiele sind bis zu 6 cm lang und bis zu 2 cm dick, ziemlich starr und daher weniger brüchig als bei den meisten anderen Täublingen. Sie sind weiß bis grau, manchmal etwas rötlich überhaucht.
 
-Die Art ist in Mitteleuropa weit verbreitet und ziemlich häufig. Als [Mykorrhizapilz](Mykorrhiza "Glossar") lebt sie in [Symbiose](<Symbiose "Glossar">) mit Eichen, nur selten mit anderen Laubbaumarten. Die Erscheinungszeit ist Juli/August bis Oktober. Der Pilz ist zwar essbar, aber der Speisewert reicht bei Weitem nicht an den der Premiumarten unter den Täublingen heran.
+Die Art ist in Mitteleuropa weit verbreitet und ziemlich häufig. Als [Mykorrhizapilz](Mykorrhiza "Glossar") lebt sie in [Symbiose](Symbiose "Glossar") mit Eichen, nur selten mit anderen Laubbaumarten. Die Erscheinungszeit ist Juli/August bis Oktober. Der Pilz ist zwar essbar, aber der Speisewert reicht bei Weitem nicht an den der Premiumarten unter den Täublingen heran.
 
 <div class="table-responsive">
   <table class="table taeubling">
