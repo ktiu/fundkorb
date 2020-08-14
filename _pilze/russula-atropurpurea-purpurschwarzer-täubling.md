@@ -43,9 +43,9 @@ Die Art ist in Mitteleuropa weit verbreitet und ziemlich häufig. Als Mykorrhiza
       <th>Phenol</th>
     </tr>
     <tr>
-      <td>mild, nussig</td>
+      <td>schärflich, vergehend</td>
       <td>weiß bis sehr blass creme</td>
-      <td>nicht</td>
+      <td>nicht bis max. 1 cm</td>
       <td>rosa - orange</td>
       <td>bräunlich grün</td>
       <td>hell rosa</td>    
