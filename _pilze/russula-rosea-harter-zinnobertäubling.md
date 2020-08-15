@@ -37,12 +37,16 @@ Seine Lamellen verfärben sich durch ausfallendes Sporenpulver cremegelb, die Hu
       <th>Phenol</th>
     </tr>
     <tr>
-      <td>mild, aber kratzend</td>
-      <td>hell ockergelb</td>
-      <td>zu 2/3</td>
-      <td>blass rosa</td>
-      <td>blaugrün</td>
-      <td>blass weinbraun</td>    
+      <td>mild</td>
+      <td>blass creme</td>
+      <td>nicht abziehbar</td>
+      <td>lachs-rosa</td>
+      <td>grün</td>
+      <td>blass weinrot</td>    
     </tr>
   </table>
 </div>
+
+Wie die allermeisten Täublinge ist auch dieser ziemlich farbvariabel. Sein glanzloses Rot variiert von kirsch- oder zinnober- bis rosarot und von hell bis dunkel, oft gelblich oder weißlich entfärbend. Bei Trockenheit neigen die Hüte dazu, streifig oder schollig aufzureißen. Die Stiele sind weiß, nicht selten auch mehr oder weniger rötlich überhaucht.
+
+Von unerfahrenen Sammlern wird er manchmal für einen Speisetäubling gehalten, der jedoch weniger hartfleischig ist und durch seine etwas zu kurz geratene und zu einem Drittel abziehbare Huthaut deutlich unterschieden ist.
