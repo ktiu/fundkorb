@@ -14,6 +14,8 @@ hauptbild:
   datei: /bilder/russula_risigallina_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/r/Russula_risigallina.html
+  - text: "Karin Montag in „Der Tintling“ 102, S. 61: Milde Gelbsporer Teil 4 –
+      Gelbrote Chamäleons"
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_risigallina_01_dg.jpg" %}
