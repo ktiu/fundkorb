@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Russula rosea
   deutsch: Harter Zinnobertäubling
   referenz: "Pers. 1796 "
-  synonym: "Synonymw: Russula lepida, R. rosacea "
+  synonym: "Synonyme: Russula lepida, R. rosacea "
   erlaeuterung: rosea = rosenfarbig, rosig
   familie: Russulaceae
 profil:
