@@ -14,6 +14,30 @@ hauptbild:
 ---
 Die meisten Speitäublinge fallen durch realtiv kleine, zerbrechliche Fruchtkörper und ihre intensiv rote und meist etwas klebrige Huthaut auf. Zu den blassen Arten gehört der Birken-Speitäubling. Er ist zuerst blass rosa gefärbt, die vertiefte Mitte meist etwas dunkler, im Alter blasst er aus und kann nahezu weiß werden, der Hutrand ist mehr oder weniger deutlich gerieft. Er ist ein häufiger Mykorrhizapartner der Birke und bevorzugt feuchte, moosige oder grasige Standorte. Wie alle Speitäublinge ist er giftig und verursacht Magen-/Darmstörungen.
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion</th>
+    </tr>
+    <tr>
+      <th>FeSO4</th>
+      <th>Guajak</th>
+      <th>Phenol</th>
+    </tr>
+    <tr>
+      <td>sehr scharf</td>
+      <td>rein weiß</td>
+      <td>fast ganz</td>
+      <td>rosa</td>
+      <td>graugrün</td>
+      <td>rosa</td>    
+    </tr>
+  </table>
+</div>
+
 Vereinfachter Schlüssel zu den vier im Rhein-Main-Gebiet sicher nachgewiesenen Speitäublingen, die alle sehr scharf sind und weißes Sporenpulver haben:
 
 Huthaut eher matt als glänzend und nur ca. 1 cm weit abziehbar, Charakterart in Buchenwäldern = Russula mairei (Buchen-Speitäubling)
