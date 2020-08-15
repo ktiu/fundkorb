@@ -5,7 +5,7 @@ beschreibung:
   referenz: "(DC.) Bondartsev & Singer 1941 "
   familie: Polyporaceae
   synonym: "Synonym: Polyporus mori; neuer Name: Neofalvus alveolaris"
-  erlaeuterung: alveolaria = wabenartig, grubig
+  erlaeuterung: alveolaris = wabenartig, grubig
 profil:
   aktualisiert: 2020-08-13
   autor_in: Dieter Gewalt
