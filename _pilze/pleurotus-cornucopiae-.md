@@ -25,7 +25,7 @@ In Mitteleuropa kommen drei an Holz wachsende Seitlingsarten vor, die man recht 
 <tr>
   <th>1*</th>
   <td>Lamellen nicht bis zum Stiegrund herablaufend</td>
-  <th><th><i class="fas fa-arrow-right"></i> 2</th></th>
+  <th><i class="fas fa-arrow-right"></i> 2</th>
 </tr>
 <tr>
   <th>2</th>
