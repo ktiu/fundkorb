@@ -32,3 +32,27 @@ In der Sektion Kammtäublinge werden vier Arten und ein „Phantom“ geführt. 
 **Großer Kammtäubling** = Russula sororia: Geruch nach Camembert, Geschmack scharf, aber nicht brennend scharf. Habitus ähnlich dem des Camembert-Täublings, aber größer und festfleischiger. Sehr selten (sollte vor einer Fundmeldung zur Absicherung unbedingt mikroskopiert werden).
 
 Dank seines angenehm milden Geschmacks wäre der Milde Kammtäubling die einzige zu Speisezwecken geeignete Art dieser Gruppe, was aufgrund seiner Seltenheit aber nicht von praktischer Bedeutung ist.
+
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion</th>
+    </tr>
+    <tr>
+      <th>FeSO4</th>
+      <th>Guajak</th>
+      <th>Phenol</th>
+    </tr>
+    <tr>
+      <td>angenehm mild</td>
+      <td>hell ockergelb</td>
+      <td>bis 1/2</td>
+      <td>hell rosa</td>
+      <td>blaugrün</td>
+      <td>weinrot</td>    
+    </tr>
+  </table>
+</div>
