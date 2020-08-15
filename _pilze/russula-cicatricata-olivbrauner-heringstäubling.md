@@ -18,7 +18,7 @@ literatur:
   - url: http://tintling.com/inhalt/1999/Heringstaeublinge.pdf
   - url: http://tintling.com/pilzbuch/arten/r/Russula_cicatricata.html
 ---
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_cicatricata_02_dg.jpg" %}
 {% include bild.html datei="/bilder/russula_cicatricata_03_dg.jpg" %}
 {% include bild.html datei="/bilder/russula_cicatricata_01_dg.jpg" %}
@@ -28,7 +28,7 @@ Leider gelangen mir am Fundort (7. Juli 2016, Waldfriedhof Zeppelinheim) nur zwe
 
 Belegmaterial wurde noch am Fundtag an *Reinhold Kärcher* weitergeleitet, der nach einer gründlichen (auch mikroskopischen) Untersuchung dem seltenen Täubling einen Namen geben konnte: *Russula cicatricata*.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_cicatricata_04_rk.jpg" %}
 {% include bild.html datei="/bilder/russula_cicatricata_05_rk.jpg" %}
 {% include abbildung_ende.html legende="Aquarelle von Reinhold Kärcher aus dem unten genannten Beitrag in der Zeitschrift für Mykologie" %}
