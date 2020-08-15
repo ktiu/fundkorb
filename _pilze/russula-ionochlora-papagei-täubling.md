@@ -38,7 +38,7 @@ Wer also genau wissen will, ob er wirklich einen Papagei-Täubling oder einen de
 {% include bild.html datei="/bilder/russula_ionochlora_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Für Speisepilzsammler bleibt die tröstliche Feststellung: was so aussieht wie ein Papagei-Täubling und angenehm mild schmeckt, kann man essen, auch wenn es keiner ist. In der Tat ist der Papgei-Täubling ein sehr schmackhafter Pilz, der in seiner Qualität dem Frauentäubling nahezu ebenbürtig ist.
+Für Speisepilzsammler bleibt die tröstliche Feststellung: was so aussieht wie ein Papagei-Täubling und angenehm mild schmeckt, kann man essen, auch wenn es keiner ist. In der Tat ist der Papagei-Täubling ein sehr schmackhafter Pilz, der in seiner Qualität dem Frauentäubling nahezu ebenbürtig ist.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_ionochlora_07_dg.jpg" %}
