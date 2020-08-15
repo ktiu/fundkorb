@@ -34,13 +34,13 @@ Sieht aus wie ein kleiner Frauentäubling, hat aber splitternde Lamellen. So kan
 
 Wer also genau wissen will, ob er wirklich einen Papagei-Täubling oder einen der Doppelgänger vor sich hat, muss sich mühsam durch Bestimmungsschlüssel kämpfen und mikroskopieren. Dabei beißen sich selbst erfahrene Täublings-Spezialisten oft die Zähne aus. Ein paar hilfeiche Hinweise gibt es dennoch. Wenn die Huthaut weder glatt noch etwas glänzend ist, ist es höchstwahrscheinlich kein Papagei-Täubling, sondern eher einer der Reiftäublinge oder einer der seltenen Doppelgänger, von denen es nicht wenige gibt. Sie sollte bis zur Hälfte abziehbar sein. Hilfreich kann auch die Lamellenfarbe sein. Sie ist beim jungen Pilz weiß, verändert sich durch austretende Sporen bald zu hell gelb bis creme. Wenig hilfreich ist dagegen die populäre Pilzliteratur, in der unser Pilz trotz seiner Häufigkeit gar nicht erst vorkommt. Dazu passt, dass es erst 1952 jemand gewagt hat, ihn gültig zu beschreiben. Das war der bedeutende französische Mykologe *Henri Romagnesi*.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_ionochlora_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Für Speisepilzsammler bleibt die tröstliche Feststellung: was so aussieht wie ein Papagei-Täubling und angenehm mild schmeckt, kann man essen, auch wenn es keiner ist. In der Tat ist der Papgei-Täubling ein sehr schmackhafter Pilz, der in seiner Qualität dem Frauentäubling nahezu ebenbürtig ist.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_ionochlora_07_dg.jpg" %}
 {% include abbildung_ende.html %}
 
