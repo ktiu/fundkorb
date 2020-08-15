@@ -16,6 +16,7 @@ literatur:
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_insignis_01_dg.jpg" %}
+{% include bild.html datei="/bilder/russula_insignis_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Am 24.06.2019 wurde ein einziges Exemplar in Dreieichenhain („An der Dampfmühle“) gefunden. Da wir eine der beiden häufigen Kammtäublingsarten vermuteten, wurde er ziemlich achtlos entnommen, wobei der stark von Maden befallene Stiel abbrach. Ein Stück Huthaut wurde abgezogen und ein Stück Hutfleisch für die Geschmacksprobe entnommen. Jetzt erst wurde klar, dass ich einen Milden Kammtäubling in Händen hatte. Der Geschmack war angenehm mild, keine Spur zusammenziehend, kratzend oder widerwärtig, wie man es vom Kratzenden Kammtäubling kennt. Für ein vorzeigbares Standortfoto war es damit zu spät und der Besucher dieser Seite muss sich vorläufig mit den Abbildungen von Bruchstücken begnügen.
