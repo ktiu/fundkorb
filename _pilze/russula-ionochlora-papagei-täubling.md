@@ -18,7 +18,11 @@ literatur:
 {% include bild.html datei="/bilder/russula_ionochlora_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Sieht aus wie ein kleiner Frauentäubling, hat aber splitternde Lamellen. So kann man in einem Satz den Papagei-Täubling charakterisieren. Leider hat er aber auch wie dieser eine enorme Farbvariabilität. Das Spektrum wird mit grauviolett, blauviolett, lilarötlich, blaugrau, rosa-violett, violett-grünlich, dazu noch gelblich bis creme-ocker ausblassend beschrieben. Bei Wikipedia wird es so zusammengefasst: „Der Hut weist verschiedene, stark variierende Farbtöne auf.“
+Sieht aus wie ein kleiner Frauentäubling, hat aber splitternde Lamellen. So kann man in einem Satz den Papagei-Täubling charakterisieren. Leider hat er aber auch wie dieser eine enorme Farbvariabilität. Das Spektrum wird mit grauviolett, blauviolett, lilarötlich, blaugrau, rosa-violett, violett-grünlich, dazu noch gelblich bis creme-ocker ausblassend beschrieben. Bei Wikipedia wird es so zusammengefasst:
+
+> „Der Hut weist verschiedene, stark variierende Farbtöne auf.“
+
+
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_ionochlora_02_dg.jpg" %}
@@ -30,7 +34,7 @@ Sieht aus wie ein kleiner Frauentäubling, hat aber splitternde Lamellen. So kan
 {% include bild.html datei="/bilder/russula_ionochlora_05_dg.jpg" %}
 {% include abbildung_ende.html legende="Kurz mit dem Fingernagel über die Lamellen streichen: sie splittern" %}
 
-Wer also genau wissen will, ob er wirklich einen Papagei-Täubling oder einen der Doppelgänger vor sich hat, muss sich mühsam durch Bestimmungsschlüssel kämpfen und mikroskopieren. Dabei beißen sich selbst erfahrene Täublings-Spezialisten oft die Zähne aus. Ein paar hilfeiche Hinweise gibt es dennoch. Wenn die Huthaut weder glatt noch etwas glänzend ist, ist es höchstwahrscheinlich kein Papagei-Täubling, sondern eher einer der Reiftäublinge oder einer der seltenen Doppelgänger, von denen es nicht wenige gibt. Sie sollte bis zur Hälfte abziehbar sein. Hilfreich kann auch die Lamellenfarbe sein. Sie ist beim jungen Pilz weiß, verändert sich durch austretende Sporen bald zu hell gelb bis creme. Wenig hilfreich ist dagegen die populäre Pilzliteratur, in der unser Pilz trotz seiner Häufigkeit gar nicht erst vorkommt. Dazu passt, dass es erst 1952 jemand gewagt hat, ihn gültig zu beschreiben. Das war der bedeutende französische Mykologe Henri Romagnesi.
+Wer also genau wissen will, ob er wirklich einen Papagei-Täubling oder einen der Doppelgänger vor sich hat, muss sich mühsam durch Bestimmungsschlüssel kämpfen und mikroskopieren. Dabei beißen sich selbst erfahrene Täublings-Spezialisten oft die Zähne aus. Ein paar hilfeiche Hinweise gibt es dennoch. Wenn die Huthaut weder glatt noch etwas glänzend ist, ist es höchstwahrscheinlich kein Papagei-Täubling, sondern eher einer der Reiftäublinge oder einer der seltenen Doppelgänger, von denen es nicht wenige gibt. Sie sollte bis zur Hälfte abziehbar sein. Hilfreich kann auch die Lamellenfarbe sein. Sie ist beim jungen Pilz weiß, verändert sich durch austretende Sporen bald zu hell gelb bis creme. Wenig hilfreich ist dagegen die populäre Pilzliteratur, in der unser Pilz trotz seiner Häufigkeit gar nicht erst vorkommt. Dazu passt, dass es erst 1952 jemand gewagt hat, ihn gültig zu beschreiben. Das war der bedeutende französische Mykologe *Henri Romagnesi*.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_ionochlora_06_dg.jpg" %}
@@ -56,12 +60,12 @@ Für Speisepilzsammler bleibt die tröstliche Feststellung: was so aussieht wie 
       <th>Phenol</th>
     </tr>
     <tr>
-      <td>mäßig scharf, bitter</td>
-      <td>creme</td>
+      <td>mild</td>
+      <td>weisslich bis gelblich</td>
       <td>bis 1/2</td>
-      <td>lilarosa</td>
-      <td>blaugrün</td>
-      <td>weinbraun</td>    
+      <td>rosa, rosaorange</td>
+      <td>blass grün</td>
+      <td>blass weinbraun</td>    
     </tr>
   </table>
 </div>
