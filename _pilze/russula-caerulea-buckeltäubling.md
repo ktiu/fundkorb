@@ -52,7 +52,7 @@ Kennengelernt habe ich diesen Täubling unter seinem wissenschaftlichen Namen ca
       <td>mild, Huthaut bitterlich</td>
       <td>satt ocker</td>
       <td>1/3 bis 1/2</td>
-      <td>orange, orabgerot</td>
+      <td>orange, orangerot</td>
       <td>grün</td>
       <td>rosa</td>    
     </tr>
