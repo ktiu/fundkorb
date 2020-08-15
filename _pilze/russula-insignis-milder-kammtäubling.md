@@ -14,6 +14,10 @@ literatur:
   - text: "Von Kämmen und Camembert (Täublinge Teil 3: Untersektion Pectinatinae) >
       Tintling 89 / 2014"
 ---
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_insignis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 Am 24.06.2019 wurde ein einziges Exemplar in Dreieichenhain („An der Dampfmühle“) gefunden. Da wir eine der beiden häufigen Kammtäublingsarten vermuteten, wurde er ziemlich achtlos entnommen, wobei der stark von Maden befallene Stiel abbrach. Ein Stück Huthaut wurde abgezogen und ein Stück Hutfleisch für die Geschmacksprobe entnommen. Jetzt erst wurde klar, dass ich einen Milden Kammtäubling in Händen hatte. Der Geschmack war angenehm mild, keine Spur zusammenziehend, kratzend oder widerwärtig, wie man es vom Kratzenden Kammtäubling kennt. Für ein vorzeigbares Standortfoto war es damit zu spät und der Besucher dieser Seite muss sich vorläufig mit den Abbildungen von Bruchstücken begnügen.
 
 In der Sektion Kammtäublinge werden vier Arten und ein „Phantom“ geführt. Das „Phantom“ ist der Stinkende Kammtäubling Russula pectinata, der so verwirrend und widersprüchlich beschrieben wird, dass Zweifel an seiner tatsächlichen Existenz bestehen. Von den vier „guten Arten“ sind zwei häufig und zwei selten. Vertreter der Sektion Kammtäublinge sind an ihrem körnig-kammartig gerieften Hutrand recht gut zu erkennen, auch wenn es in anderen Täublingssektionen einige Arten mit ebenfalls gerieftem Hutrand gibt. Die vier „guten Arten“ sind wie folgt zu unterscheiden:
