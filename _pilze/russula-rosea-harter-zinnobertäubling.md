@@ -8,6 +8,7 @@ beschreibung:
   familie: Russulaceae
 profil:
   aktualisiert: 2020-08-15
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/russula_rosea_01_dg.jpeg
