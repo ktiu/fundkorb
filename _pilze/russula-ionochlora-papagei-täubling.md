@@ -22,14 +22,12 @@ Sieht aus wie ein kleiner Frauentäubling, hat aber splitternde Lamellen. So kan
 
 > „Der Hut weist verschiedene, stark variierende Farbtöne auf.“
 
-
-
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/russula_ionochlora_02_dg.jpg" %}
 {% include bild.html datei="/bilder/russula_ionochlora_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/russula_ionochlora_04_dg.jpg" %}
 {% include bild.html datei="/bilder/russula_ionochlora_05_dg.jpg" %}
 {% include abbildung_ende.html legende="Kurz mit dem Fingernagel über die Lamellen streichen: sie splittern" %}
