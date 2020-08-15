@@ -22,3 +22,27 @@ Seine Lamellen verfärben sich durch ausfallendes Sporenpulver cremegelb, die Hu
 {% include bild.html datei="/bilder/russula_rosea_02_dg.jpg" %}
 {% include bild.html datei="/bilder/russula_rosea_03_dg.jpg" %}
 {% include abbildung_ende.html legende="Auch so kann man den Harten Zinnobertäubling fotografieren" %}
+
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion</th>
+    </tr>
+    <tr>
+      <th>FeSO4</th>
+      <th>Guajak</th>
+      <th>Phenol</th>
+    </tr>
+    <tr>
+      <td>mild, aber kratzend</td>
+      <td>hell ockergelb</td>
+      <td>zu 2/3</td>
+      <td>blass rosa</td>
+      <td>blaugrün</td>
+      <td>blass weinbraun</td>    
+    </tr>
+  </table>
+</div>
