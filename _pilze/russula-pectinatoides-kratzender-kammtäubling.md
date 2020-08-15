@@ -24,6 +24,30 @@ Der zu den Kammtäublingen (kammartig geriefte Hutränder) gehörige Kratzende K
 {% include bild.html datei="/bilder/russula_pectinatoides_02_dg.jpg" %}
 {% include abbildung_ende.html legende="Direkt vor meiner Haustür wächst er seit Jahren standorttreu auf einer Rasenfläche unter einer Trauerbuche, oft in großer Zahl." %}
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion</th>
+    </tr>
+    <tr>
+      <th>FeSO4</th>
+      <th>Guajak</th>
+      <th>Phenol</th>
+    </tr>
+    <tr>
+      <td>mild, aber kratzend</td>
+      <td>hell ockergelb</td>
+      <td>zu 2/3 cm</td>
+      <td>blass rosa</td>
+      <td>blaugrün</td>
+      <td>blass weinbraun</td>    
+    </tr>
+  </table>
+</div>
+
 ##### Verwechslung:
 
 **Russula amoenolens** (scharf) Camembert-Täubling  
