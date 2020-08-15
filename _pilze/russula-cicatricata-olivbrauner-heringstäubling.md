@@ -34,3 +34,27 @@ Belegmaterial wurde noch am Fundtag an *Reinhold Kärcher* weitergeleitet, der n
 {% include abbildung_ende.html legende="Aquarelle von Reinhold Kärcher aus dem unten genannten Beitrag in der Zeitschrift für Mykologie" %}
 
 Russula cicatricata gehört zu den selteneren Täublingsarten, ist im Verbreitungsatlas von 1991 mit nur einem hessischen Fundpunkt von Reinhold Kärcher vertreten, der auch in der aktuellen [DGfM-Kartierung](http://hessen.pilze-deutschland.de/organismen/russula-cicatricata-romagn-ex-bon-1987-1) erscheint.
+
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion</th>
+    </tr>
+    <tr>
+      <th>FeSO4</th>
+      <th>Guajak</th>
+      <th>Phenol</th>
+    </tr>
+    <tr>
+      <td>mild</td>
+      <td>hell bis intensiv ocker</td>
+      <td>bis 1/2</td>
+      <td>graurosa bis orangerot</td>
+      <td>grün bis blaugrün</td>
+      <td>weinbraun bis violettrot</td>    
+    </tr>
+  </table>
+</div>
