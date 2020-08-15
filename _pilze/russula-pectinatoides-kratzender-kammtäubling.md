@@ -40,7 +40,7 @@ Der zu den Kammtäublingen (kammartig geriefte Hutränder) gehörige Kratzende K
     <tr>
       <td>mild, aber kratzend</td>
       <td>hell ockergelb</td>
-      <td>zu 2/3 cm</td>
+      <td>zu 2/3</td>
       <td>blass rosa</td>
       <td>blaugrün</td>
       <td>blass weinbraun</td>    
@@ -50,5 +50,5 @@ Der zu den Kammtäublingen (kammartig geriefte Hutränder) gehörige Kratzende K
 
 ##### Verwechslung:
 
-**Russula amoenolens** (scharf) Camembert-Täubling  
+**Russula amoenolens** (scharf) Camembert-Täubling\
 **Russula insignis** (mild, nicht kratzend) Milder Kamm-Täubling
