@@ -25,6 +25,30 @@ Die Speitäublinge im Ansfeldwald haben mir Bestimmungsprobleme bereitet, seit i
 
 Die Literaturangaben zur Ökologie sind leider sehr uneinheitlich. Krieglsteiner (Die Großpilze Baden-Württembergs Band 2) gibt als Mykorrhizapartner „Nadelbäume, vorzugsweise Waldkiefer“ an und fügt als Anmerkung hinzu: „In Nachbarländern wird gelegentlich auch Vergesellschaftung mit Castanea, Fagus und Quercus (Kastanie, Buche, Eiche) angegeben. Ewald Gerhard (Der große BLV-Pilzführer für unterwegs) nennt trockene Nadel- und Mischwälder, „nach Literatur auch unter Laubbäumen“. Bei Michael / Hennig / Kreisel (Handbuch für Pilzfreunde) heißt es: „Juli bis September in lichten, trockenen Laub- und Nadelwäldern, unter Kiefern, Eichen, Rotbuchen, Edelkastanien“.
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion</th>
+    </tr>
+    <tr>
+      <th>FeSO4</th>
+      <th>Guajak</th>
+      <th>Phenol</th>
+    </tr>
+    <tr>
+      <td>mild</td>
+      <td>blass creme</td>
+      <td>nicht abziehbar</td>
+      <td>lachs-rosa</td>
+      <td>grün</td>
+      <td>blass weinrot</td>    
+    </tr>
+  </table>
+</div>
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_silvestris_03_mhk.jpg" %}
 {% include abbildung_ende.html legende="Die hier wiedergegebene Tafel bei Michael, Hennig, Kreisel (Handbuch für Pilzfreunde, VEB Gustav Fischer Verlag Jena 1983) zeigt sehr schön die Variabilität der Hutfarben, die exakt dem Farbenspektrum der massenhaft im Roteichenforst Ansfeldwald wachsenden Speitäublinge entspricht. Demgegenüber findet man in anderer Literatur ganz überwiegend Abbildungen mit dunkelroten Hüten." %}
