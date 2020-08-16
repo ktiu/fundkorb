@@ -55,16 +55,13 @@ Von Thomas Lehr erhielt ich schließlich den entscheidenden Hinweis, der zur Kl�
 		
 		
 
-
 Mehr noch als die oben angeführten Differenzierungen überzeugte mich das von Geert Schmidt-Stohn beigefügte Foto. Ein Vergleich mit der von mir bei Waldacker gemachten Aufnahme könnte fast zu der Annahme verleiten, es bei dem Motiv mit der gleichen Pilzgruppe zu tun zu haben. Nicht so recht übereinstimmen kann ich mit der Angabe, Sarcodon squamosus habe im Gegensatz zu S. imbricatus ein deutlich am Stiel herablaufendes Hymenophor und kürzere Stacheln (siehe das umgedrehte Exemplar). Absolut zutreffend dagegen die Ökologie: an unserem Fundort standen ausschließlich (junge) Kiefern, weit und breit keine Fichte.
 
 Obwohl bereits 1886 von Schaeffer beschrieben, wird die Art in umfassenden Standardwerken wie “Die Großpilze Baden-Württembergs”, “Pilze der Schweiz” oder im Verbreitungsatlas nicht erwähnt. Den “echten” Habichtspilz Sarcodon imbricatus habe ich übrigens in den 1990er Jahren einige Male im UG Thomashütte (TK 6018.4.2) bei Fichten gefunden.
 
-Literatur:
-Breitenbach, J. & Kränzlin (1986): Pilze der Schweiz Band 2
-Johannesson H., S. Ryman, H. Lundmark & E. Danell (1999): Sarcodon imbricatus and S. squamosus – two confused species – Mycol. Res. 103, 1445-1452
-Krieglsteiner, G. J. (1991) Verbreitungsatlas der Großpilze Deutschlands (West)
-Krieglsteiner, G. J. (Hrsg; 2000): Die Großpilze Baden-Württembergs Band 1
+**Literatur:**  
+Breitenbach, J. & Kränzlin (1986): Pilze der Schweiz Band 2  
+Johannesson H., S. Ryman, H. Lundmark & E. Danell (1999): Sarcodon imbricatus and S. squamosus – two confused species – Mycol. Res. 103, 1445-1452  
+Krieglsteiner, G. J. (1991) Verbreitungsatlas der Großpilze Deutschlands (West)  
+Krieglsteiner, G. J. (Hrsg; 2000): Die Großpilze Baden-Württembergs Band 1  
 Schmidt-Stohn, Geert (2001): Sarcodon imbricatus und S. squamosus – zwei vermischte Arten – Boletus Jahrgang 24, Heft 1, 48-53
- 
-
