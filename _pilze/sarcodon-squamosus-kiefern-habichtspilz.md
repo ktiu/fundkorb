@@ -50,29 +50,11 @@ Von Thomas Lehr erhielt ich schließlich den entscheidenden Hinweis, der zur Kl�
         <th>Geruch alter bzw. trockener Fruchtkörper</th>
         <td>aromatisch würzig</td>
         <td>eher unangenehm
-      
-      </tr>      <tr>
-        <th>Reaktion</th>
-        <td>mit Sulvovanillin rötlich, weinrot, purpur, violett</td>
-        <td>keine Farbreaktion</td>
-      </tr>
-    </tbody>
   </table>
 </div>
 		
 		
-	Sarcodon squamosus	Sarcodon imbricatus
-Ökologie	bei Kiefern	bei Fichten
-Hutschuppen	schwarzbraun, am Rand kleiner 
-in der Hutmitte +/- angedrückt	braun, am Rand größer 
-in der Hutmitte aufgerichtet
-Hutmitte	kurz, zugespitzt, höchstens 
-lang wie Hutbreite	lang, zylindrisch bis keulig,
-meist länger als Hutbreite
-Stiel	intensiv schwarz	heller - mehr dunkelbraun
-alte bzw. trockene
-Fruchtkörper	aromatisch würzig	unangenehm
-Geruch	aromatisch würzig	unangenehm
+
 
 Mehr noch als die oben angeführten Differenzierungen überzeugte mich das von Geert Schmidt-Stohn beigefügte Foto. Ein Vergleich mit der von mir bei Waldacker gemachten Aufnahme könnte fast zu der Annahme verleiten, es bei dem Motiv mit der gleichen Pilzgruppe zu tun zu haben. Nicht so recht übereinstimmen kann ich mit der Angabe, Sarcodon squamosus habe im Gegensatz zu S. imbricatus ein deutlich am Stiel herablaufendes Hymenophor und kürzere Stacheln (siehe das umgedrehte Exemplar). Absolut zutreffend dagegen die Ökologie: an unserem Fundort standen ausschließlich (junge) Kiefern, weit und breit keine Fichte.
 
