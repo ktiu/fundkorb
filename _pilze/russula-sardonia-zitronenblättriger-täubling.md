@@ -16,7 +16,7 @@ literatur:
 ---
 Unter den scharf schmeckenden Täublingen ist er einer der schärfsten – und natürlich nicht für die Küche geeignet. Populärer als sein sperriger offizieller Name Zitronenblättriger Täubling ist sein Spitzname „Säufernase“, unter dem sich Täublingsnovizen diese häufige Art einprägen und Geschmacksproben nach einer ersten Erfahrung künftig ersparen können. Es ist die violettrötliche Stielfarbe, die für diese gut nachvollziehbare Assoziation verantwortlich ist. Die „Säufernase“ ist ein Charakterpilz sandiger Kiefernwälder und an entsprechenden Standorten im Rhein-Main-Gebiet stets zu finden. Er wächst von Juni bis November.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_sardonia_02_dg.jpg" %}
 {% include bild.html datei="/bilder/russula_sardonia_03_dg.jpeg" %}
 {% include abbildung_ende.html %}
@@ -48,4 +48,3 @@ Der Geruch ist allerdings nur für geübte Nasen ein gutes Unterscheidungsmerkma
     </tr>
   </table>
 </div>
-
