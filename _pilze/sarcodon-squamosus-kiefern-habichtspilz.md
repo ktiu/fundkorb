@@ -11,6 +11,12 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/sarcodon_squamosus_01_dg.jpg
+literatur:
+  - text: "Johannesson H., S. Ryman, H. Lundmark & E. Danell (1999): Sarcodon
+      imbricatus and S. squamosus – two confused species – Mycol. Res. 103,
+      1445-1452"
+  - text: "Schmidt-Stohn, Geert (2001): Sarcodon imbricatus und S. squamosus – zwei
+      vermischte Arten – Boletus Jahrgang 24, Heft 1, 48-53"
 ---
 In der Ebene des Rhein-Main-Gebiets einen Habichtspilz zu finden – das ist schon was! Sechs Fruchtkörper wuchsen dicht knäuelig bei Waldacker am steilen Abhang zum Anglersee, z. T. mit annähernd 20 cm Hutdurchmesser. Wenige Schritte entfernt befand sich eine weitere Gruppe. Doch irgendwie entsprachen die Funde nicht so recht der Vorstellung, die ich von diesem Pilz in Erinnerung hatte. Sie waren fast schwarz, auffallend kurz gestielt und die Hutschuppen fast anliegend. Zu Hause ergaben erste Recherchen, dass es mit Sarcodon scabrosus einen Doppelgänger des Habichtspilzes gibt, der makroskopisch deutlich besser mit unserem Fund übereinstimmte. Aufgrund vorhandener Hyphenschnallen musste diese Alternative jedoch ausgeschlossen werden. So stand bis auf weiteres S. imbricatus in der Fundliste, auch wenn dieser Name alles andere als überzeugend erschien.
 
@@ -59,9 +65,3 @@ Mehr noch als die oben angeführten Differenzierungen überzeugte mich das von G
 
 Obwohl bereits 1886 von Schaeffer beschrieben, wird die Art in umfassenden Standardwerken wie “Die Großpilze Baden-Württembergs”, “Pilze der Schweiz” oder im Verbreitungsatlas nicht erwähnt. Den “echten” Habichtspilz Sarcodon imbricatus habe ich übrigens in den 1990er Jahren einige Male im UG Thomashütte (TK 6018.4.2) bei Fichten gefunden.
 
-**Literatur:**  
-Breitenbach, J. & Kränzlin (1986): Pilze der Schweiz Band 2  
-Johannesson H., S. Ryman, H. Lundmark & E. Danell (1999): Sarcodon imbricatus and S. squamosus – two confused species – Mycol. Res. 103, 1445-1452  
-Krieglsteiner, G. J. (1991) Verbreitungsatlas der Großpilze Deutschlands (West)  
-Krieglsteiner, G. J. (Hrsg; 2000): Die Großpilze Baden-Württembergs Band 1  
-Schmidt-Stohn, Geert (2001): Sarcodon imbricatus und S. squamosus – zwei vermischte Arten – Boletus Jahrgang 24, Heft 1, 48-53
