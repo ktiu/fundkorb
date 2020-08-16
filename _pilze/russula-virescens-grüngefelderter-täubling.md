@@ -40,7 +40,29 @@ Da die meisten Pilzsammler Pilze mit Lamellen meiden und vorwiegend Röhrlinge s
 {% include bild.html datei="/bilder/russula_virescens_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion</th>
+    </tr>
+    <tr>
+      <th>FeSO4</th>
+      <th>Guajak</th>
+      <th>Phenol</th>
+    </tr>
+    <tr>
+      <td>mild, nussig</td>
+      <td>weiss bis sehr blass creme</td>
+      <td>nicht</td>
+      <td>rosa - orange</td>
+      <td>bräunlich grün</td>
+      <td>hell rosa</td>    
+    </tr>
+  </table>
+</div>
 
 Geschmack	Sporenpulver	Abziehbarkeit der Huthaut	Chemische Reaktion
 			FeSO4	Guajak	Phenol
