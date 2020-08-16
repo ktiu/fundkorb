@@ -39,12 +39,12 @@ Die Literaturangaben zur Ökologie sind leider sehr uneinheitlich. Krieglsteiner
       <th>Phenol</th>
     </tr>
     <tr>
-      <td>mild</td>
-      <td>blass creme</td>
-      <td>nicht abziehbar</td>
-      <td>lachs-rosa</td>
-      <td>grün</td>
-      <td>blass weinrot</td>    
+      <td>sehr scharf</td>
+      <td>weiss</td>
+      <td>fast ganz</td>
+      <td>rosa</td>
+      <td>hell graugrün</td>
+      <td>rosa</td>    
     </tr>
   </table>
 </div>
