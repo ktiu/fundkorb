@@ -64,6 +64,3 @@ Da die meisten Pilzsammler Pilze mit Lamellen meiden und vorwiegend Röhrlinge s
   </table>
 </div>
 
-Geschmack	Sporenpulver	Abziehbarkeit der Huthaut	Chemische Reaktion
-			FeSO4	Guajak	Phenol
-mild, nussig	weiß bis sehr blass creme	nicht	rosa - orange	bräunlich grün	hell rosa
