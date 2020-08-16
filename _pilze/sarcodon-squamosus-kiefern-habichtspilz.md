@@ -55,9 +55,12 @@ Von *Thomas Lehr* erhielt ich schließlich den entscheidenden Hinweis, der zur K
       <tr>
         <th>Geruch alter bzw. trockener Fruchtkörper</th>
         <td>aromatisch würzig</td>
-        <td>eher unangenehm
+        <td>eher unangenehm</td>
+      </tr>
+    </tbody>
   </table>
 </div>
+
 		
 		
 
