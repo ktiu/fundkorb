@@ -25,6 +25,27 @@ Verwechselt werden kann er vor allem mit dem ebenso scharfen Stachelbeer-Täubli
 
 Der Geruch ist allerdings nur für geübte Nasen ein gutes Unterscheidungsmerkmal, da auch der Zitronenblättrige einen leicht obstartigen Geruch aufweist. Zur Trennung der beiden Arten ist die unterschiedliche Abziehbarkeit der Huthaut besser geeignet. Beim Stachelbeer-Täubling lässt sie sich zu 2/3, beim Zitronenblättrigen nur am Rand abziehen.
 
-Geschmack	Sporenpulver	Abziehbarkeit der Huthaut	Chemische Reaktion
-			FeSO4	Guajak	Phenol
-scharf	hellocker	nur am Rand	fleischrosa	blaugrün	weinbraun
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion</th>
+    </tr>
+    <tr>
+      <th>FeSO4</th>
+      <th>Guajak</th>
+      <th>Phenol</th>
+    </tr>
+    <tr>
+      <td>scharf</td>
+      <td>hellocker</td>
+      <td>nur am Rand</td>
+      <td>fleischrosa</td>
+      <td>blaugrün</td>
+      <td>weinbraun</td>    
+    </tr>
+  </table>
+</div>
+
