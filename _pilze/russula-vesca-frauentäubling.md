@@ -42,7 +42,6 @@ Ein wichtiges Merkmal bei den Täublingen ist die Sporenpulverfarbe. Beim Speise
 
 Die allermeisten der rund 150 mitteleuropäischen Täublingsarten sind schwer zu unterscheiden. Ohne Mikroskop geht da nur wenig. Wichtige Merkmale sind Geschmack (mild oder scharf), Sporenpulverfarbe, Abziehbarkeit der Huthaut und chemische Reaktionen. Mit diesen lassen sich die in Frage kommenden Arten zumindest etwas eingrenzen. Die Hutfarben sind sehr variabel und daher kein wirklich brauchbares Unterscheidungsmerkmal. Für Speisezwecke kommen nur mild schmeckende Arten in Frage, unter denen es keine giftigen gibt. Etliche scharf schmeckende sind magen-/darmgiftig!
 
-
 <div class="table-responsive">
   <table class="table taeubling">
     <tr>
@@ -66,11 +65,3 @@ Die allermeisten der rund 150 mitteleuropäischen Täublingsarten sind schwer zu
     </tr>
   </table>
 </div>
-
-				
-					
-Geschmack	Sporenpulver	Abziehbarkeit der Huthaut	Chemische Reaktion
-			FeSO4	Guajak	Phenol
-mild	reinweiß	bis zu 1/2		blaugrün	rosaorange
- 
- 
