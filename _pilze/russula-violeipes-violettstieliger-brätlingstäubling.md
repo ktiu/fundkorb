@@ -34,9 +34,30 @@ Man findet ihn vor allem von Ende Juni bis September bei Buchen. Im Rhein-Main-G
 {% include bild.html datei="/bilder/russula_violeipes_05_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-Geschmack	Sporenpulver	Abziehbarkeit der Huthaut	Chemische Reaktion
-			FeSO4	Guajak	Phenol
-angenehm mild	blass creme	1/2 bis fast gabz	rosa	dunkelgrün	weinbraun
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion</th>
+    </tr>
+    <tr>
+      <th>FeSO4</th>
+      <th>Guajak</th>
+      <th>Phenol</th>
+    </tr>
+    <tr>
+      <td>angenhm mild</td>
+      <td>blass creme</td>
+      <td>1/2 bis fast ganz</td>
+      <td>rosa</td>
+      <td>dunkelgrün</td>
+      <td>weinbraun</td>    
+    </tr>
+  </table>
+</div>
+
 
 Noch eine Anmerkung zum Schluss: den Violettstieligen Brätlingstäubling gibt es auch in Thailand, wo er viel gesammelt und auch an Straßenständen zum Kauf angeboten wird. Bei den Thais ist er unter zwei Namen bekannt. 1. Het Horm = Duftpilz 2. Het Khai = Eierpilz. Das nachfolgende Foto hat mir die Schwester meiner Frau geschickt. Es wurde in der Provinz Kanchanaburi aufgenommen.
 
