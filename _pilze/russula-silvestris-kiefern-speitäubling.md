@@ -14,6 +14,7 @@ hauptbild:
   datei: /bilder/russula_silvestris_01_dg.jpg
 literatur:
   - url: https://de.wikipedia.org/wiki/Kiefern-Spei-T%C3%A4ubling
+  - url: http://tintling.com/pilzbuch/arten/r/Russula_silvestris.html
 ---
 Das Unterscheiden der verschiedenen Speitäublinge (Sektion Emeticinae) ist gar nicht sooo schwierig, wie ich lange Zeit geglaubt habe und manche immer noch denken. Die im Rhein-Main-Gebiet sicher nachgewiesenen vier Arten sind anhand makroskopischer Merkmale und ökologischer Ansprüche ganz gut auseinanderzuhalten. Drei davon wurden und werden von vielen Mykologen auch heute noch als Varietäten von Russula emetica, dem Kirschroten Spei-Täubling angesehen. Andere, darunter auch Reinhold Kärcher, der sich fast ein Leben lang intensiv mit Täublingen befasst hat, befürworten die Auffassung, dass es sich um gute Arten handelt. So ist es auch im Index Fungorum oder von Karin Montag in der Pilzzeitschrift Der Tintling gehandhabt und dem schließe ich mich hier an.
 
