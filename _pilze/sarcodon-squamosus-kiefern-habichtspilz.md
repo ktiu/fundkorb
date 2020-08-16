@@ -16,7 +16,49 @@ In der Ebene des Rhein-Main-Gebiets einen Habichtspilz zu finden – das ist sch
 
 Von Thomas Lehr erhielt ich schließlich den entscheidenden Hinweis, der zur Klärung des Falles führte. In einer Arbeit von Geert Schmidt-Stohn werden zwei Habichtspilzarten behandelt, die offensichtlich miteinander vermengt wurden und noch werden und die sich durch unterschiedliche ökologische Ansprüche unterscheiden. Hier war u. a. zu lesen, dass der Habichtspilz in Skandinavien nicht nur als Speisepilz sondern auch zum Färben von Wolle verwendet wird. Bei Kiefern gesammelte Exemplare erwiesen sich als wesentlich schmackhafter und lieferten eine deutlich bessere Farbausbeute als Pilze aus Fichtenbeständen. In einem 1999 von Johannesson et. al. publizierten Artikel wird auch auf morphologische und molekularbiologische Unterschiede hingewiesen, die ebenfalls darauf hindeuten, dass zwei verschiedene Arten vorliegen. Während beide Sippen mikroskopisch übereinstimmen, ergeben sich folgende, auch bei unserer Kollektion von Waldacker festgestellte makroskopische Merkmale im Unterschied zu S. imbricatus:
 
- 
+<div class="table-responsive">
+  <table class="table">
+    <thead>
+      <tr>
+        <th> </th> 
+        <th>Kiefern-Habichtspilz<br /><i>(Sarcodon squamosus)</i></th>
+        <th>Fichten-Habichtspilz<br /><i>(Sarcodon imbricatus)</i></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Ökologie </th>
+        <td>bei Kiefern</td>
+        <td>bei Fichten</td>
+      </tr>
+      <tr>
+        <th>Hutschuppen</th>
+        <td>schwarzbraun, am Rand kleiner, in der Hutmitte +/- angedrückt</td>
+        <td>braun, am Rand größer, in der Hutmitte aufgerichtet</td>
+      </tr> 
+      <tr>
+        <th>Stiel</th>
+        <td>kurz, zugespitzt, höchstens so lang wie Hutbreite</td>
+        <td>lang, zylindrisch bis keulig, meist länger als Hutbreite</td>
+      </tr>
+      <tr>
+        <th>Stielfarbe</th>
+        <td>intensiv schwarz</td>
+        <td>heller, mehr dunkelbraun</td>
+      </tr>
+      <tr>
+        <th>Geruch alter bzw. trockener Fruchtkörper</th>
+        <td>aromatisch würzig</td>
+        <td>eher unangenehm
+      
+      </tr>      <tr>
+        <th>Reaktion</th>
+        <td>mit Sulvovanillin rötlich, weinrot, purpur, violett</td>
+        <td>keine Farbreaktion</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 		
 		
 	Sarcodon squamosus	Sarcodon imbricatus
