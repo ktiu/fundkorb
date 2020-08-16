@@ -21,8 +21,28 @@ Auch der Jodoformtäubling ist eine variable Art. Die Hutfarben können lila bis
  
 					
 					
-Geschmack	Sporenpulver	Abziehbarkeit der Huthaut	Chemische Reaktion
-			FeSO4	Guajak	Phenol
-mild	ockergelblich	bis 1/4	lachsrosa	dunkelgrün	weinbraun
- 
+
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion</th>
+    </tr>
+    <tr>
+      <th>FeSO4</th>
+      <th>Guajak</th>
+      <th>Phenol</th>
+    </tr>
+    <tr>
+      <td>mild</td>
+      <td>ockergelblich</td>
+      <td>bis 1/4</td>
+      <td>lachsrosa</td>
+      <td>dunkelgrün</td>
+      <td>weinbraun</td>    
+    </tr>
+  </table>
+</div>
 
