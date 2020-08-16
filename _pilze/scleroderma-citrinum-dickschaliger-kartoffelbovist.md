@@ -22,8 +22,10 @@ Unter den 5 in Deutschland nachgewiesen Arten* ist der Dickschalige mit Abstand 
 
 Kartoffelboviste gehören zur Gruppe der Bauchpilze (Gasteromyzeten), die ihre Sporen nicht an der Außenseite (Lamellen, Röhren, etc.) sondern im Inneren des Fruchtkörpers bilden. Zu ihnen gehören außer Bovisten und Stäublingen auch Erdsterne, Teuerlinge, Kugelschneller und Stinkmorchelartige.
 
-* 1 Scleroderma areolatum Gefelderter Kartoffelbovist, Leopardenfell-Hartbovist
-  2 Scleroderma bovista Gelbflockiger Kartoffelbovist
-  3 Scleroderma cepa Zwiebelförmiger Kartoffelbovist
-  4 Scleroderma citrinum Dickschaliger Kartoffelbovist
-  5 Scleroderma verrucosum Dünnschaliger Kartoffelbovist
+* ##### Fünf in Deutschland nachgewiesene Scleroderma-Arten:
+
+**Scleroderma areolatum** Gefelderter Kartoffelbovist, Leopardenfell-Hartbovist\
+**Scleroderma bovista** Gelbflockiger Kartoffelbovist\
+**Scleroderma cepa** Zwiebelförmiger Kartoffelbovist\
+**Scleroderma citrinum** Dickschaliger Kartoffelbovist\
+**Scleroderma verrucosum** Dünnschaliger Kartoffelbovist
