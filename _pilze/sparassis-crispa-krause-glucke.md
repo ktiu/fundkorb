@@ -37,4 +37,4 @@ Vorkommen: an Kiefern, oft über Jahre hinweg am selben Baum erscheinend, auch a
 {% include bild.html datei="/bilder/sparassis_crispa_05_dg.jpg" %}
 {% include abbildung_ende.html legende="Eine der schönsten Glucken, die ich je gesehen habe (am 11.10.2019 am Mönchbruch)" %}
 
-Verwechseln könnte man die Krause Glucke höchstens mit der nahe verwandten, in weiten Teilen Deutschlands sehr seltenen Breitblättrigen Glucke Sparassis brevipes[Sparassis brevipes]({% link _pilze/sparassis-brevipes-breitblaettrige-gluckericholoma-equestre-grünling.md %}), die auch  Eichenglucke genannt wird. Deren Lappen sind gröber und steifer, mehr grau-weißlich gefärbt und weisen eine nicht sehr auffällige gebänderte Zonierung auf.
+Verwechseln könnte man die Krause Glucke höchstens mit der nahe verwandten, in weiten Teilen Deutschlands sehr seltenen Breitblättrigen Glucke [Sparassis brevipes](/pilze/sparassis-brevipes-breitblättrige-glucke), die auch Eichenglucke genannt wird. Deren Lappen sind gröber und steifer, mehr grau-weißlich gefärbt und weisen eine nicht sehr auffällige gebänderte Zonierung auf.

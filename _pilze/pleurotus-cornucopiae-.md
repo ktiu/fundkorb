@@ -35,7 +35,7 @@ In Mitteleuropa kommen drei an Holz wachsende Seitlingsarten vor, die man recht 
 <tr>
   <th>2*</th>
   <td>Hut grau, stahlgrau bis stahlblau </td>
-  <th><i class="fas fa-arrow-right"></i> Austernseitling</th>
+  <th>Austernseitling</th>
 </tr>
 <tr>
   
