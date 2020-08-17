@@ -5,7 +5,7 @@ beschreibung:
   referenz: "(P. Karst) P. Karst 1879  "
   synonym: ""
   erlaeuterung: cinerella = etwas graulich
-  familie: Myzenaceae
+  familie: Mycenaceae
 profil:
   aktualisiert: 2020-08-10
   autor_in: Dieter Gewalt
