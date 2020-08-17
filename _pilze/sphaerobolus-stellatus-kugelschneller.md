@@ -30,6 +30,6 @@ Der Kugelschneller gehört zu den Bauchpilzen, die so heißen, weil sie die Spor
 {% include bild.html datei="/bilder/stropharia_aurantiaca_02_dg.jpg" %}
 {% include abbildung_ende.html legende="Abb. links: So funktioniert die „Pilzkanone“ (Quelle:Wikipedia) --  Foto rechts:  Orangerote Träuschlinge und Kugelschneller" %}
 
-In Dietzenbach am Steinkautenweg befindet sich zwischen der S-Bahntrasse und dem östlichen Gewerbegebiet eine größere Brachfläche, die 2001 zum Teil mit Holzhäckseln bedeckt war. Diesen Standort teilten sich etliche Orangerote Träuschlinge (Stropharia aurantiaca), Dung-Teuerlinge und Tiegelteuerlinge (Cyathus stercoreus, Crucibulum laeve sowie jede Menge Kugelschneller. Es mögen einige Tausend gewesen sein, die sich hier gesellig, rasig oder in gedrängten Nestern auf dem vermodernden Substrat angesiedelt hatten.
+In Dietzenbach am Steinkautenweg befindet sich zwischen der S-Bahntrasse und dem östlichen Gewerbegebiet eine größere Brachfläche, die 2001 zum Teil mit Holzhäckseln bedeckt war. Diesen Standort teilten sich etliche Orangerote Träuschlinge (Stropharia aurantiaca), Dung-Teuerlinge und Tiegelteuerlinge (Cyathus stercoreus, Crucibulum laeve sowie jede Menge Kugelschneller. Es mögen einige Tausend gewesen sein, die sich hier gesellig, rasig oder in gedrängten Nestern auf dem vermodernden Substrat angesiedelt hatten. 
 
 * Inzwischen haben sich die [Fundmeldungen](http://hessen.pilze-deutschland.de/organismen/sphaerobolus-stellatus-tode-1790-1) signifikant erhöht, vor allem im Rhein-Main-Gebiet.
