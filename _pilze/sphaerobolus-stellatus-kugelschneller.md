@@ -25,8 +25,10 @@ Der Pilz, der solche beachtlichen Leistungen zu vollbringen vermag, heißt Kugel
 
 Der Kugelschneller gehört zu den Bauchpilzen, die so heißen, weil sie die Sporen in ihrem „Inneren“ produzieren. Zuerst erscheinen, meist dicht gedrängt, weißliche Kügelchen, die bei der Reife sternförmig aufreißen und den Blick auf die transparente Glebakugel freigeben. Unter ihr baut sich ein osmotischer Druck auf, wobei sich die [Endoperidie](Endoperidie "Glossar") explosionsartig nach außen stülpt und die Glebakugel hinauskatapultiert (siehe die schematische Darstellung von Wikipedia unten links).
 
-{% include abbildung_start.html stil="standard" %}
-{% include abbildung_ende.html %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/sphaerobolus_stellatus_02_wiki.jpg" %}
+{% include bild.html datei="/bilder/stropharia_aurantiaca_02_dg.jpg" %}
+{% include abbildung_ende.html legende="Abb. links: So funktioniert die „Pilzkanone“ (Quelle:Wikipedia) --  Foto rechts:  Orangerote Träuschlinge und Kugelschneller" %}
 
 So funktioniert die „Pilzkanone“                                                                                                Orangerote Träuschlinge und Kugelschneller
 
