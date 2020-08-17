@@ -5,6 +5,7 @@ beschreibung:
   referenz: "Krombh. 1834 "
   familie: Sparassidaceae
   erlaeuterung: brevipes = kurzfüßig
+  synonym: Sparassis laminosa
 profil:
   aktualisiert: 2020-08-17
   autor_in: Dieter Gewalt
