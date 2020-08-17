@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/s/Sparassis_crispa.html
 ---
-Pilze, die lecker schmecken und die man kaum verwechseln kann – das ist der Idealfall für den passionierten Pilzsammler. Zu diesen gehört die Krause Glucke. Da sie nur an Kiefern wächst, weiß jeder Pilzfreund, wo er sie bei Bedarf zu suchen hat. Sie wird auch Fette Henne genannt und ist ein ausgezeichneter und ergiebiger Speisepilz, allerdings erst, wenn sie geputzt ist. In ihrem labyrinthischen Inneren verbergen sich Sandkörner, Kiefernnadeln, allerlei Krabbeltierchen und Schmutzpartikel. Daher macht es wenig Sinn, zu junge Exemplare einzusammeln. Die Strünke sind oft bitter und können Magen-/Darmstörungen verursachen. Gluckenfans verwenden daher nur die lappigen Teile des Pilzes solange sie appetitlich aussehen wie auf den Fotos dieser Seite.
+Pilze, die lecker schmecken und die man kaum verwechseln kann – das ist der Idealfall für den passionierten Pilzsammler. Zu diesen gehört die Krause Glucke. Da sie nur an Kiefern wächst, weiß jeder Pilzfreund, wo er sie bei Bedarf zu suchen hat. Sie wird auch Fette Henne genannt und ist ein ausgezeichneter und ergiebiger Speisepilz, allerdings erst, wenn sie geputzt ist. In ihrem labyrinthischen Inneren verbergen sich Sandkörner, Kiefernnadeln, allerlei Krabbeltierchen und Schmutzpartikel. Daher macht es wenig Sinn, zu junge Exemplare einzusammeln. Die Strünke sind oft bitter und können Magen-/Darmstörungen verursachen. Gluckenfans verwenden daher nur die lappigen Teile des Pilzes solange sie appetitlich aussehen wie auf den Fotos dieser Seite. Verfärbungen und braune Ränder sollten ein Warnzeichen sein: Finger weg von überalterten Exemplaren!
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/sparassis_crispa_03_dg.jpg" %}
@@ -25,6 +25,8 @@ Pilze, die lecker schmecken und die man kaum verwechseln kann – das ist der Id
 ##### Kurzbeschreibung:
 
 Sieht aus wie ein Badeschwamm, wird bis zu 2 Kilogramm schwer, entspringt einem dickfleischigem Strunk, der sich verästelt und außen in vielfach gewundenen und gekräuselten Lappen endet. Beim jungen Pilz sind diese so eng zusammengedrängt, dass man das Innere beim Putzen kaum von eingeschlossenen Fremdpartikeln befreien kann. Der Fruchtkörper ist fleischfarben bis ockergelblich, im Alter mit braun verfärbenden Rändern und hat einen sehr spezifischen Geruch, zu dem sich kein mir bekannter Pilzbuchautor näher zu äußern wagt. Wenn Angaben gemacht werden, dann mit so pauschalen Begriffen wie aromatisch oder würzig. Wer einmal an einer Krausen Glucke gerochen hat, wird sie mit verbundenen Augen an ihrem Geruch wiedererkennen.
+
+
 Vorkommen: an Kiefern, oft über Jahre hinweg am selben Baum erscheinend, auch an Stümpfen oder am Boden in Baumnähe. August bis November.
 
 {% include abbildung_start.html stil="standard" %}
@@ -35,4 +37,4 @@ Vorkommen: an Kiefern, oft über Jahre hinweg am selben Baum erscheinend, auch a
 {% include bild.html datei="/bilder/sparassis_crispa_05_dg.jpg" %}
 {% include abbildung_ende.html legende="Eine der schönsten Glucken, die ich je gesehen habe (am 11.10.2019 am Mönchbruch)" %}
 
-Verwechseln könnte man die Krause Glucke höchstens mit der nahe verwandten, in weiten Teilen Deutschlands sehr seltenen Breitblättrigen Glucke Sparassis brevipes, die auch  Eichenglucke genannt wird. Deren Lappen sind gröber und steifer, mehr grau-weißlich gefärbt und weisen eine nicht sehr auffällige gebänderte Zonierung auf.
+Verwechseln könnte man die Krause Glucke höchstens mit der nahe verwandten, in weiten Teilen Deutschlands sehr seltenen Breitblättrigen Glucke Sparassis brevipes[Sparassis brevipes]({% link _pilze/sparassis-brevipes-breitblaettrige-gluckericholoma-equestre-grünling.md %}), die auch  Eichenglucke genannt wird. Deren Lappen sind gröber und steifer, mehr grau-weißlich gefärbt und weisen eine nicht sehr auffällige gebänderte Zonierung auf.
