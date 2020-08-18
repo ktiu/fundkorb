@@ -15,7 +15,7 @@ literatur:
   - url: http://aphyllopower.blogspot.com/2006/08/steccherinum-ochraceum-ockerrtlicher.html
     text: "Werner Pohl: Aphyllopower (Pilz Nr. 12)"
 ---
-Bei den in Hut und Stiel gegliederten Pilzen mit stacheligem Hymenophor fallen Pilzfreunden vor allem Semmelstoppelpilze und der Habichtspilz ein. Bei den resupinat an Holz wachsenden Arten denken Kenner dieser Gruppe zuerst an die Gattung Steccherinum. In ihr ist der Ockerrötliche Resupinatporling die mit Abstand häufigste Art. Um sie zu finden, empfiehlt es sich, möglichst viele auf dem Waldboden liegende Äste umzudrehen, die schon etwas angemorscht sind. Auf ihnen beginnt das Wachstum mit einer größeren Anzahl kleiner heller Flecken, in deren Zentrum sich die ersten Stacheln bilden und die dann zu einer größeren Fläche zusammenwachsen.
+Bei den in Hut und Stiel gegliederten Pilzen mit stacheligem Hymenophor fallen Pilzfreunden vor allem Semmelstoppelpilze und der Habichtspilz ein. Bei den [resupinat](resupinat "Glossar") an Holz wachsenden Arten denken Kenner dieser Gruppe zuerst an die Gattung *Steccherinum*. In ihr ist der Ockerrötliche Resupinatporling die mit Abstand häufigste Art. Um sie zu finden, empfiehlt es sich, möglichst viele auf dem Waldboden liegende Äste umzudrehen, die schon etwas angemorscht sind. Auf ihnen beginnt das Wachstum mit einer größeren Anzahl kleiner heller Flecken, in deren Zentrum sich die ersten Stacheln bilden und die dann zu einer größeren Fläche zusammenwachsen.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/steccherinum_ochraceum_05_dg.jpg" %}
@@ -42,7 +42,7 @@ Der Ockerrötliche Resupinatstacheling ist ganz überwiegend an toten Ästen und
 
 Ähnlich ist der Rundsporige Resupinatstacheling *Steccherinum bourdotii*. Dieser hat längere Stacheln und etwas größere, vor allem aber anders geformte Sporen.
 
-**Steccherinum bourdotii:** Stacheln bis 2,5 mm und darüber eiförmig – Sporen kugelig 4-5 X 3-4 µ  
+**Steccherinum bourdotii:** Stacheln bis 2,5 mm und darüber eiförmig – Sporen kugelig 4-5 X 3-4 µ\
 **Steccherinum ochraceum:** Stacheln bis 1 mm – Sporen ellipsoidisch 3,2 – 4 X 1,8 – 2,5 µ
 
 Beide Arten finden sich vor allem an Laubhölzern. Um die Stachellänge beurteilen zu können, ist darauf zu achten, voll ausgebildete Fruchtkörper vor sich zu haben.
