@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Bitterer_Kiefern-Zapfenr%C3%BCbling
 ---
-Manche Pilze zeichnen sich durch ihre Spezialisierung auf ganz bestimmte Substrate aus. Zu ihnen gehören die Zapfenrüblinge, die ausschließlich auf den Zapfen verschiedener Nadelbäume wachsen. Auf Kiefernzapfen findet man zwei Arten, den hier vorgestellten Bitteren Kiefernzapfenrübling (*Strobilurus tenacellus*) und seinen Doppelgänger, den Milden Kiefern-zapfenrübling (*Strobilurus stephanocystis*). Die Kiefernzapfen können im Waldboden vergraben und daher auf den ersten Blick nicht zu sehen sein.
+Manche Pilze zeichnen sich durch ihre Spezialisierung auf ganz bestimmte Substrate aus. Zu ihnen gehören die Zapfenrüblinge, die ausschließlich auf den Zapfen verschiedener Nadelbäume wachsen. Auf Kiefernzapfen findet man zwei Arten, den hier vorgestellten Bitteren Kiefernzapfenrübling (*Strobilurus tenacellus*) und seinen Doppelgänger, den Milden Kiefern-zapfenrübling (*[Strobilurus stephanocystis](/pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling)*). Die Kiefernzapfen können im Waldboden vergraben und daher auf den ersten Blick nicht zu sehen sein.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/strobilurus_tenacellus_02_fk.jpg" %}
@@ -28,8 +28,6 @@ Die Artnamen legen die Vermutung nahe, dass sich die beiden völlig gleich ausse
 {% include bild.html datei="/bilder/strobilurus_tenacellus_04_dg.jpg" %}
 {% include abbildung_ende.html legende="Zystiden:  Milder Kiefernzapfenrübling --  Bitterer Kiefernzapfenrübling" %}
 
-
-
-Eine weitere vom Habitus gleiche Art ist der Fichtenzapfenrübling (*Strobilurus esculentus*), der ausschließlich auf Fichtenzapfen vorkommt. Er schmeckt mild und ist im pilzarmen Frühjahr (März/April) ein trotz seiner Kleinheit sammelwürdiger Speisepilz, da er gern herdenweise auftritt – auf einem einzigen Zapfen mitunter ein Dutzend Fruchtkörper. Die Stiele sind zäh, daher nur die Hüte verwenden.
+Eine weitere vom Habitus gleiche Art ist der Fichtenzapfenrübling (*[Strobilurus esculentus](/pilze/strobilurus-esculentus-fichtenzapfenrübling)*), der ausschließlich auf Fichtenzapfen vorkommt. Er schmeckt mild und ist im pilzarmen Frühjahr (März/April) ein trotz seiner Kleinheit sammelwürdiger Speisepilz, da er gern herdenweise auftritt – auf einem einzigen Zapfen mitunter ein Dutzend Fruchtkörper. Die Stiele sind zäh, daher nur die Hüte verwenden.
 
 Zapfenrüblinge erreichen Hutdurchmesser von zwei, maximal drei Zentimetern, die dünnen, steifen Stiele werden bis zu sieben Zentimeter lang. Wegen ihrer an Nägel mit breiten Köpfen erinnernden Form werden sie auch Nagelschwämme genannt.
