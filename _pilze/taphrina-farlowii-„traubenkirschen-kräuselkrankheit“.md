@@ -10,6 +10,9 @@ profil:
 hauptbild:
   anzeige: false
   datei: /bilder/taphrina_farlowii_-02_dg.jpg
+literatur:
+  - url: http://jule.pflanzenbestimmung.de/taphrina-farlowii/
+  - url: https://das-neue-naturforum.de/index.php?thread/2604-taphrina-farlowii-an-sp%C3%A4tbl%C3%BChender-traubenkirsche/
 ---
 Die zu den [Ascomyzeten](Ascomyzeten "Glossar") gehörige Gattung *Taphrina* enthält [phytoparasitische](Phytoparasiten "Glossar") Pilzarten, die unter den deutschen Namen Narrentaschen, Hexenbesen und Kräuselkranheiten bekannt sind. Letztere könnte man auch als Parasiten bezeichnen, Lebewesen, die auf Kosten anderer leben, obwohl sie ihrer Wirtspflanze nicht schaden sondern nur deren Blätter deformieren. Diese mehr oder weniger auffälligen Wucherungen sind meist blasen- oder beulenförmig und unterscheiden sich manchmal auch farblich vom Blattgrün.
 
