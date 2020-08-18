@@ -8,7 +8,7 @@ beschreibung:
   erlaeuterung: patellaris = schalenförmig
 profil:
   aktualisiert: 2020-08-18
-  autor_in: Dieter Gewalt
+  autor_in: Daniela Toller & Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/tectella_patellaris_05_dt.jpg
