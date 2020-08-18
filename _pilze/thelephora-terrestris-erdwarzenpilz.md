@@ -22,8 +22,8 @@ Die Gattung Thelephora ist in Deutschland mit 5 Arten vertreten, wobei Thelephor
 
 ##### Die fünf in Deutschland nachgewiesenen Thelephora-Arten:
 
-Thelephora anthocephala = Blumen-Warzenpilz  
-Thelephora caryophyllea = Nelkenförmiger Warzenpilz  
-Thelephora palmata = Stinkender Warzenpilz  
-Thelephora penicillata = Weißer Warzenpilz  
+Thelephora anthocephala = Blumen-Warzenpilz\
+Thelephora caryophyllea = Nelkenförmiger Warzenpilz\
+Thelephora palmata = Stinkender Warzenpilz\
+[Thelephora penicillata = Weißer Warzenpilz](/pilze/thelephora-penicillata-weißer-warzenpilz)\
 Thelephora terrestris = Erdwarzenpilz
