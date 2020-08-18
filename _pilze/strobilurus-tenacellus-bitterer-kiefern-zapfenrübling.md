@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Bitterer_Kiefern-Zapfenr%C3%BCbling
 ---
-Manche Pilze zeichnen sich durch ihre Spezialisierung auf ganz bestimmte Substrate aus. Zu ihnen gehören die Zapfenrüblinge, die ausschließlich auf den Zapfen verschiedener Nadelbäume wachsen. Auf Kiefernzapfen findet man zwei Arten, den hier vorgestellten Bitteren Kiefernzapfenrübling (*Strobilurus tenacellus*) und seinen Doppelgänger, den Milden Kiefern-zapfenrübling (*[Strobilurus stephanocystis](/pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling)*). Die Kiefernzapfen können im Waldboden vergraben und daher auf den ersten Blick nicht zu sehen sein.
+Manche Pilze zeichnen sich durch ihre Spezialisierung auf ganz bestimmte Substrate aus. Zu ihnen gehören die Zapfenrüblinge, die ausschließlich auf den Zapfen verschiedener Nadelbäume wachsen. Auf Kiefernzapfen findet man zwei Arten, den hier vorgestellten Bitteren Kiefernzapfenrübling (*Strobilurus tenacellus*) und seinen Doppelgänger, den Milden Kiefernzapfenrübling (*[Strobilurus stephanocystis](/pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling)*). Die Kiefernzapfen können im Waldboden vergraben und daher auf den ersten Blick nicht zu sehen sein.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/strobilurus_tenacellus_02_fk.jpg" %}
