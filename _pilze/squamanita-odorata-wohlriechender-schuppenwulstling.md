@@ -24,7 +24,7 @@ Der triste Hinterhof des Thai-Restaurants Paradise Beach in Dietzenbach-Steinbac
 {% include bild.html datei="/bilder/squamanita_odorata_04_dg.jpg" %}
 {% include abbildung_ende.html legende="Zwischen geparkten Autos und einer Hecke: ein extrem profaner Fundort für eine mykologische Rarität" %}
 
-Schuppenwulstlinge gehören offenbar zu den Mykoparasiten wie z. B. auch der Parasitische Scheidling (Volvariella surrecta), die auf Fruchtkörpern oder Myzelien anderer Blätterpilze wachsen. Bei unserem Fund dürfte es sich um den Tonblassen Fälbling (Hebeloma crustuliniforme) gehandelt haben. Vier Fruchtkörper dieses Pilzes standen in unmittelbarer Nähe. Ein etwa 50 cm entfernter Halskrausenerdstern (Geastrum triplex) dürfte kaum etwas mit dem Auftreten der Schuppenwulstlinge zu tun gehabt haben. Fichten und Obstbäume standen in der Nähe hinter dem Zaun mit der hohen Hecke.
+Schuppenwulstlinge gehören offenbar zu den Mykoparasiten wie z. B. auch der Parasitische Scheidling (*Volvariella surrecta*), die auf Fruchtkörpern oder [Myzelien](Myzel "Glossar") anderer Blätterpilze wachsen. Bei unserem Fund dürfte es sich um den Tonblassen Fälbling (*Hebeloma crustuliniforme*) gehandelt haben. Vier Fruchtkörper dieses Pilzes standen in unmittelbarer Nähe. Ein etwa 50 cm entfernter Halskrausenerdstern (*Geastrum triplex*) dürfte kaum etwas mit dem Auftreten der Schuppenwulstlinge zu tun gehabt haben. Fichten und Obstbäume standen in der Nähe hinter dem Zaun mit der hohen Hecke.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/squamanita_odorata_05_dg.jpg" %}
