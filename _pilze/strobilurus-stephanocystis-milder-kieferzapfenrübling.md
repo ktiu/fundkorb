@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Milder Kieferzapfenrübling
   referenz: "(Kühner & Romagn. ex Hora) Singer 1962 "
   familie: Tricholomataceae
-  synonym: nei in der Familie Physalacriaceae
+  synonym: neu in der Familie Physalacriaceae
   erlaeuterung: stephanocystis =  mit bekränzten Zystiden
 profil:
   aktualisiert: 2020-08-18
