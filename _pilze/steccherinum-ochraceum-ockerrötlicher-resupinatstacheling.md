@@ -34,7 +34,7 @@ Der Ockerrötliche Resupinatstacheling ist ganz überwiegend an toten Ästen und
 {% include bild.html datei="/bilder/steccherinum_ochraceum_10_fk.jpg" %}
 {% include abbildung_ende.html legende="Skeletozystiden ± zylindrisch, dickwandig, inkrustiert, stumpf endend, 5 – 10 µm dick, > 100 µm lang, zahlreich aus dem Hymenium herausragend (2 Mikrofotos: Frank Kaster)" %}
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/steccherinum_ochraceum_08_dg.jpg" %}
 {% include bild.html datei="/bilder/steccherinum_ochraceum_07_dg.jpg" %}
 {% include bild.html datei="/bilder/steccherinum_ochraceum_06_dg.jpg" %}
@@ -42,7 +42,7 @@ Der Ockerrötliche Resupinatstacheling ist ganz überwiegend an toten Ästen und
 
 Ähnlich ist der Rundsporige Resupinatstacheling *Steccherinum bourdotii*. Dieser hat längere Stacheln und etwas größere, vor allem aber anders geformte Sporen.
 
-**Steccherinum bourdotii:** Stacheln bis 2,5 mm und darüber eiförmig – Sporen kugelig 4-5 x 3-4 µm  
+**Steccherinum bourdotii:** Stacheln bis 2,5 mm und darüber eiförmig – Sporen kugelig 4-5 x 3-4 µm\
 **Steccherinum ochraceum:** Stacheln bis 1 mm – Sporen ellipsoidisch 3,2 – 4 x 1,8 – 2,5 µm
 
 Beide Arten finden sich vor allem an Laubhölzern. Um die Stachellänge beurteilen zu können, ist darauf zu achten, voll ausgebildete Fruchtkörper vor sich zu haben.
