@@ -1,10 +1,11 @@
 ---
 beschreibung:
   wissenschaftlich: Tectella patellaris
-  synonym: Panellus patellaris
+  synonym: "Synonym: Panellus patellaris"
   deutsch: Schleierseitling
   referenz: "(Fr.) Murrill 1915 "
   familie: Mycenaceae
+  erlaeuterung: patellaris = schalenförmig
 profil:
   aktualisiert: 2020-08-18
   autor_in: Dieter Gewalt
