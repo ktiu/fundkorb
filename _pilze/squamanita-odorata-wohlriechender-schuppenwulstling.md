@@ -24,8 +24,6 @@ Der triste Hinterhof des Thai-Restaurants Paradise Beach in Dietzenbach-Steinbac
 {% include bild.html datei="/bilder/squamanita_odorata_04_dg.jpg" %}
 {% include abbildung_ende.html legende="Zwischen geparkten Autos und einer Hecke: ein extrem profaner Fundort für eine mykologische Rarität" %}
 
-
-
 Schuppenwulstlinge gehören offenbar zu den Mykoparasiten wie z. B. auch der Parasitische Scheidling (Volvariella surrecta), die auf Fruchtkörpern oder Myzelien anderer Blätterpilze wachsen. Bei unserem Fund dürfte es sich um den Tonblassen Fälbling (Hebeloma crustuliniforme) gehandelt haben. Vier Fruchtkörper dieses Pilzes standen in unmittelbarer Nähe. Ein etwa 50 cm entfernter Halskrausenerdstern (Geastrum triplex) dürfte kaum etwas mit dem Auftreten der Schuppenwulstlinge zu tun gehabt haben. Fichten und Obstbäume standen in der Nähe hinter dem Zaun mit der hohen Hecke.
 
 {% include abbildung_start.html stil="klein" %}
@@ -35,7 +33,7 @@ Schuppenwulstlinge gehören offenbar zu den Mykoparasiten wie z. B. auch der Par
 
 Es wurden mehr als ein Dutzend nahe bis dicht beieinander stehende Pseudosklerotien beobachtet, deren Aussehen an Ginsengknollen erinnerte und an denen jeweils bis zu drei Pilzchen wuchsen. Deren Hüte maßen bis zu 1,8 cm im Durchschnitt, waren jung halbkugelig, später flach konvex ausgebreitet, von grauvioletter Farbe und mit dunkleren Schüppchen besetzt. Die Stiele waren bis zu 2,5 cm lang, einige Millimeter dick, längsfaserig und wie der Hut bzw. etwas heller gefärbt. Unterhalb mehrerer dunkler gefärbter Schuppengürtel geht die verdickte Stielbasis in das im Boden befindliche hellocker bis gelblich gefärbte Pseudosklerotium über.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/squamanita_odorata_07_dg.jpg" %}
 {% include abbildung_ende.html %}
 
