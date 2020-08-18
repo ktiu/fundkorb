@@ -32,7 +32,7 @@ Verwechslungsmöglichkeiten bestehen mit dem Rosablättrigen Helmling, der keine
 
 Für mich ist der Rostige Helmling der zuverlässige Anzeiger für einen Wandel des Pilzwachstums in unseren Wäldern. Die typischen Sommer- und Frühherbstarten treten den Rückzug an und machen Spätherbstpilzen wie Nebelkappen oder Violetten Rötelritterlingen Platz.
 
-Manchmal werden Helmlinge von einem Schimmelpilz befallen, der Rostige besonders oft. Es ist der Helmlingsschimmel [Spinellus fusiger](/pilze/entries/spinellus-fusiger-helmlings-schimmel).
+Manchmal werden Helmlinge von einem Schimmelpilz befallen, der Rostige besonders oft. Es ist der Helmlingsschimmel [Spinellus fusiger](/pilze/spinellus-fusiger-helmlings-schimmel).
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/mycena_zephirus_-_spinellus_fusiger_01_dg-kopie.jpg" %}
