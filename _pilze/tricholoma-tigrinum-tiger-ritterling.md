@@ -4,6 +4,7 @@ beschreibung:
   deutsch: Tiger-Ritterling
   referenz: "(Schaeff.) Gillez 1874 "
   familie: Tricholomataceae
+  erlaeuterung: tigrinum = getigert
 profil:
   aktualisiert: 2020-08-19
   autor_in: Thomas Lehr
