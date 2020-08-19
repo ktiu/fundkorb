@@ -7,6 +7,7 @@ beschreibung:
   erlaeuterung: phacorrhiza = linsenwurzelig
 profil:
   aktualisiert: 2020-08-19
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/typhula_phacorrhiza_01_dg.jpg
