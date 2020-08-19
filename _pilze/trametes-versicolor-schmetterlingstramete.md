@@ -14,13 +14,13 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/t/Trametes_versicolor.html
 ---
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/trametes_versicolor_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Ein so üppig mit Schmetterlingstrameten bewachsener Buchenstamm am Waldwegrand ist ein Blickfang, bei dem man einfach verweilen muss. Hinter den ineinander verzahnten Rosetten auf der Oberseite wuchsen dicht gedrängt über die halbe Stammlänge mehrere Reihen aus zungen- oder spatelförmigen Hüten und auch die Stirnseite war besetzt. Da greift man beeindruckt zur Kamera, um im Bild festzuhalten, was das Auge des Naturfreunds erfreut hat.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/trametes_versicolor_02_dg.jpg" %}
 {% include bild.html datei="/bilder/trametes_versicolor_03_dg.jpg" %}
 {% include abbildung_ende.html %}
