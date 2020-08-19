@@ -26,7 +26,7 @@ Zu übersehen ist dieser „Charakterpilz der Gebirgsfichtenwälder“ (Helmut J
 {% include bild.html datei="/bilder/tricholomopsis_decora_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Gefunden habe ich den im Foto festgehaltenen Pilz in einer kleinen Gruppe zusammen mit zwei weiteren Exemplaren in der Nähe des Dornsees.
+Gefunden habe ich den im Foto festgehaltenen Pilz in einer kleinen Gruppe zusammen mit drei weiteren Exemplaren in der Nähe des Dornsees bei Dietzenbach.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tricholomopsis_decora_02_dg.jpg" %}
