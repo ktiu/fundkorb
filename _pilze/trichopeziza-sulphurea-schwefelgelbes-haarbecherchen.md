@@ -12,6 +12,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/trichopeziza_sulphurea_01_iw.jpg
+  legende: "Foto: mit freundlicher Erlaubnis von Ingo Wagner (ASCO-Sonneberg)"
 literatur:
   - url: https://asco-sonneberg.de/pages/gallery/trichopeziza-sulphurea-110810-01xs21381.php
 ---
