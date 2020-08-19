@@ -19,7 +19,7 @@ literatur:
 {% include bild.html datei="/bilder/typhula_filiformis-01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Fast immer werden sie übersehen, wenn nicht, für Gräser gehalten. Meine Frau nennt sie Zahnstocher, die zierlichen Binsenkeulchen. Auf diese in der Tat sehr häufige Art habe ich in einem ausführlichen Fundkorb-Artikel aufmerksam gemacht, der im [Tintling](http://tintling.com/) veröffentlicht wurde:
+Fast immer werden sie übersehen, wenn nicht, für Gräser gehalten. Meine Frau nennt sie Zahnstocher, die zierlichen Binsenkeulchen. Auf diese in der Tat sehr häufige Art habe ich in einem ausführlichen Fundkorb-Artikel aufmerksam gemacht, der 1999 im [Tintling](http://tintling.com/) veröffentlicht wurde:
 
 1. ##### Ein fast perfekter Tarnkappenpilz
 
