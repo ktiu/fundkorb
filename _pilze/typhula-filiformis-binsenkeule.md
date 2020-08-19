@@ -41,7 +41,7 @@ September bis November auf vermodernden Blättern verschiedener Laubbäume. Eige
 
 4. ##### Verwechslung
 
-Sehr ähnlich ist das Linsen-Fadenkeulchen *Typhula phacorrhiza Fr.*, das jedoch einem linsenförmigen, ca. 3 mm großen [Sklerotium](Sklerotium "Glossar") entspringt, kleinere, dünnere Fk entwickelt, aber größere Sporen besitzt. Diese Art fand ich mehrfach auf moderndem Erlenlaub, einmal in einem Petersiliebeet. Auch sie ist im Rhein-Main-Gebiet (null Fundpunkte!) kaum beachtet oder übersehen worden, an geeigneten Standorten wie Erlenbruch-und auwaldähnlichen Biotopen jedoch durchaus präsent.
+Sehr ähnlich ist das Linsen-Fadenkeulchen *[Typhula phacorrhiza Fr.](/pilze/typhula-phacorrhiza-linsen-fadenkeulchen)*, das jedoch einem linsenförmigen, ca. 3 mm großen [Sklerotium](Sklerotium "Glossar") entspringt, kleinere, dünnere Fk entwickelt, aber größere Sporen besitzt. Diese Art fand ich mehrfach auf moderndem Erlenlaub, einmal in einem Petersiliebeet. Auch sie ist im Rhein-Main-Gebiet (null Fundpunkte!) kaum beachtet oder übersehen worden, an geeigneten Standorten wie Erlenbruch-und auwaldähnlichen Biotopen jedoch durchaus präsent.
 
 5. ##### Diskussion
 
