@@ -20,5 +20,5 @@ So selten wie die Funddaten im Verbreitungsatlas suggerieren, ist die Art jedoch
 
 Sporengröße:
 
-**Typhula phacorrhiza:** 11 – 15 x 4,5 – 5,5 µm\
+**Typhula phacorrhiza:** 11 – 15 x 4,5 – 5,5 µm  
 **Macrotyphula filiformis:** 6 – 12 x 3,5 – 5,5 µm
