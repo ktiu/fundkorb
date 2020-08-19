@@ -33,7 +33,11 @@ Als Speisepilz kommt die Schmetterlingstramete wegen ihrer schuhsohlenartigen Ko
 
 Die Schmetterlinstramete ist einer der häufigsten Porlinge überhaupt und fehlt in keinem Wald. Zu finden ist er vor allem an totem Laubholz, seltener an Nadelholz, in dem er eine Weißfäule verursacht. Frische Exemplare zeichnen sich durch weiße Zuwachskanten aus.
 
-Schmetterlingstrameten kommen oft zusammen mit der ebenfalls sehr häufigen Buckeltramete vor.
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/trametes_versicolor_-_gibbosa_04_dg.jpg" %}
+{% include abbildung_ende.html legende="Schmetterlingstrameten kommen oft zusammen mit der ebenfalls sehr häufigen Buckeltramete vor." %}
+
+
 
 Ausgewachsene Schmetterlingstrameten zeigen auf ihrer Oberfläche ein Muster aus unterschiedlich gefärbten Zonen, die zum Teil samtfilzig, zum Teil seidig glänzend strukturiert sind. Die Hüte sind dünnfleischig und zäh, das weiße Hutfleisch erreicht nur eine Dicke von ca. 2 mm. Ähnlich ist die Zonen-Tramete, die ockergelblich bis braunrötlich gefärbt ist und keine dunklen Glanzzonen besitzt. Da beide Arten ziemlich variabel sind, kann es leicht zu Verwechslungen kommen.
 
