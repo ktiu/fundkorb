@@ -40,8 +40,8 @@ Eigentlich hätte mir schon am 2. Juli klar sein müssen, dass ich mich mit mein
 
 Scheidlinge gehören zu den Dachpilzverwandten (Familie Pluteaceae mit den Gattungen Pluteus und Volvariella). Sie alle haben rosafarbenes Sporenpulver und infolgedessen in reifem Stadium rosa gefärbte Lamellen, die den Stiel nicht erreichen. Scheidlinge zeichnen sich durch eine sackartige, häutige Scheide am Stielgrund aus, die den Dachpilzen fehlt. In Mitteleuropa kommen drei Scheidlingsarten vor, die an Holz wachsen und leicht auseinanderzuhalten sind:
 
-Hut 5 – 12 cm Durchmesser, Oberfläche weiß, mitunter gelblich getönt, wollig-filzig = Wolliger Scheidling (Volvariella bombycina)\
-Hut 2 – 5 cm Durchmesser, Oberfläche grau bis graubraun, stets bläulich getönt, feinfilzig mit grob gezähneltem Rand = Blaugrauer Scheidling ([Volvariella caesiotincta](/pilze/volvariella-caesiotincta-blaugrauer-scheidling))\
+Hut 5 – 12 cm Durchmesser, Oberfläche weiß, mitunter gelblich getönt, wollig-filzig = Wolliger Scheidling (Volvariella bombycina)  
+Hut 2 – 5 cm Durchmesser, Oberfläche grau bis graubraun, stets bläulich getönt, feinfilzig mit grob gezähneltem Rand = Blaugrauer Scheidling ([Volvariella caesiotincta](/pilze/volvariella-caesiotincta-blaugrauer-scheidling))  
 Hut 2 – 6 (10) cm Durchmesser, Oberfläche grau bis graubraun, rissig gerieft, nur selten an morschem Holz, meist auf Erde an ruderalen Plätzen und Schutthalden = Braunscheidiger Scheidling (Volvariella taylori)
 
 Der Wollige Scheidling ist die größte dieser drei Arten und häufiger als die beiden anderen. Ich habe ihn im Rhein-Main-Gebiet stets an Buche, lediglich einmal an Platane gefunden. Nicht selten wächst er aus Stammhöhlungen, mitunter in 3 bis 5 Metern Höhe. Andere Scheidlingsarten wachsen auf Erde, nicht an Holz.
