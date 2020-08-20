@@ -18,7 +18,9 @@ literatur:
 {% include bild.html datei="/bilder/volvariella_bombycina_01_dg.jpg" %}
 {% include abbildung_ende.html legende="Wolliger Scheidling auf dem Frankfurter Messegelände" %}
 
-Die Geschichte mit dem Wolligen Scheidling beginnt mit einer Fehleinschätzung. Doch bereits Jahre zuvor, am 2. August 2003 hatte ich eine denkwürdige Begegnung mit diesem prachtvollen Pilz. Lt. Verbreitungsatlas scheint er im Rhein-Main-Gebiet recht gut verbreitet zu sein, aber dieser Eindruck täuscht. Die meisten Pilzfreunde berichten, ihn oft jahrelang nicht gesehen zu haben. So ist es auch für mich immer wieder eine Freude, ihm zu begegnen. Als ganz besonderes Ereignis empfand ich sein Erscheinen mitten in der Stadt Frankfurt am Main auf dem Messegelände. Auch die Wahl seines Wirtsbaumes kann hier als ungewöhnlich bezeichnet werden. Er wuchs in Augenhöhe am Stamm einer Platane. Dieser Baum gilt als besonders resistent gegen Pilzbefall; allenfalls ist mal ein Zottiger Schillerporling auf seiner Rinde zu entdecken, was auch an den Platanen auf dem Messegelände der Fall gewesen ist.
+Die Geschichte mit dem Wolligen Scheidling beginnt mit einer Fehleinschätzung. Doch bereits Jahre zuvor, am 2. August 2003 hatte ich eine denkwürdige Begegnung mit diesem prachtvollen Pilz. 
+
+Lt. Verbreitungsatlas scheint er im Rhein-Main-Gebiet recht gut verbreitet zu sein, aber dieser Eindruck täuscht. Die meisten Pilzfreunde berichten, ihn oft jahrelang nicht gesehen zu haben. So ist es auch für mich immer wieder eine Freude, ihm zu begegnen. Als ganz besonderes Ereignis empfand ich sein Erscheinen mitten in der Stadt Frankfurt am Main auf dem Messegelände. Auch die Wahl seines Wirtsbaumes kann hier als ungewöhnlich bezeichnet werden. Er wuchs in Augenhöhe am Stamm einer Platane. Dieser Baum gilt als besonders resistent gegen Pilzbefall; allenfalls ist mal ein Zottiger Schillerporling auf seiner Rinde zu entdecken, was auch an den Platanen auf dem Messegelände der Fall gewesen ist.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/volvariella_bombycina_02_dg_-fundstelle.jpg" %}
