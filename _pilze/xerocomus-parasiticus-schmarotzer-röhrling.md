@@ -26,4 +26,4 @@ Sein Erscheinungsbild ähnelt dem einer Ziegenlippe, jedoch sind seine Röhren n
 {% include bild.html datei="/bilder/xerocomus_parasiticus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Diese drei Foto entstanden im Herbst 2015 an einem Parkplatz der AWO Offenbach (TK 5918.2.3), von dem aus unsere Wanderungen ins pilzreiche Hainbachtal starten. Hier trifft der Schmarotzerröhrling auf die von ihm benötigten Begleitumstände: an feuchten Standorten wachsende Kartoffelboviste.
+Diese drei Foto entstanden im Herbst 2015 an einem Parkplatz der AWO Offenbach (TK 5918.2.3), von dem aus unsere Wanderungen ins pilzreiche Hainbachtal starten. Hier trifft der Schmarotzerröhrling auf die von ihm benötigten Begleitumstände: Kartoffelboviste, die an nassen Standorten wachsen.
