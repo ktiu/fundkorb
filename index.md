@@ -30,4 +30,4 @@ Einer unserer schönsten Fundkorbpilze ist der Scharlachrote Prachtbecherling (S
 
 ##### Vorsicht Gammelpilze – Ein Leitfaden
 
-Vor Gammelfleisch ekelt sich jeder. Umso mehr erstaunt es, was häufig als Ausbeute von Pilzsammlern in Körben oder gar Plastiktüten nach Hause getragen wird. In Zusammenarbeit mit dem Gesundheitsamt Frankfurt möchten wir Ihnen gerne einen informativen Leitfaden zu diesem wichtigen Thema zum Download und Ausdrucken zur Verfügung stellen –  als PDF.
+Vor Gammelfleisch ekelt sich jeder. Umso mehr erstaunt es, was häufig als Ausbeute von Pilzsammlern in Körben oder gar Plastiktüten nach Hause getragen wird. In Zusammenarbeit mit dem Gesundheitsamt Frankfurt möchten wir Ihnen gerne einen informativen Leitfaden zu diesem wichtigen Thema zum Download und Ausdrucken zur Verfügung stellen – [hier als PDF erhältlich](/assets/docs/Fundkorb.de-Gammelpilze.pdf).
