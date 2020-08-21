@@ -16,7 +16,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/x/Xerocomellus_pruinatus.html
 ---
-Dank moderner Genforschung konnten in der Biologie in jüngster Zeit neue Erkenntnisse gewonnen werden, die in vielen Fällen auch [taxonomische](<Taxonomie "Glossar">) Umorientierungen zur Folge hatten. Ein Beispiel aus der Pilzkunde ist der Rotfußröhrling. Was früher noch als eine einzige Spezies galt, musste in etliche eigenständige Arten aufgespalten und in eine neue Gattung transferiert werden. Eine davon ist das Herbstrotfüßchen, auch Bereifter, Stattlicher oder Dunkler Rotfuß genannt. Alle diese Namen verraten etwas über diesen Pilz, das für seine Bestimmung wichtig ist.
+Dank moderner Genforschung konnten in der Biologie in jüngster Zeit neue Erkenntnisse gewonnen werden, die in vielen Fällen auch [taxonomische](Taxonomie "Glossar") Umorientierungen zur Folge hatten. Ein Beispiel aus der Pilzkunde ist der Rotfußröhrling. Was früher noch als eine einzige Spezies galt, musste in etliche eigenständige Arten aufgespalten und in eine neue Gattung transferiert werden. Eine davon ist das Herbstrotfüßchen, auch Bereifter, Stattlicher oder Dunkler Rotfuß genannt. Alle diese Namen verraten etwas über diesen Pilz, das für seine Bestimmung wichtig ist.
 
 **Hut:** 3 – 10 cm, dunkel-, purpur- bis schwarzbraun mit weinrötlichem Rand, feinfilzig und deutlich runzelig, mitunter wie bereift erscheinend  
 **Röhren:** gelb, leuchtender als beim Gemeinen Rotfußröhrling, stumpfer als bei der Ziegenlippe  
