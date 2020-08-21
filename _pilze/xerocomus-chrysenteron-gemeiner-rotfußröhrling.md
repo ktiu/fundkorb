@@ -30,6 +30,6 @@ Rotfußröhrlinge werden vor allem bei feuchtem Wetter wie auch andere Röhrling
 
 Pilze im oben abgebildeten Zustand werden sicher nicht gesammelt, aber graue Flecken werden oft übersehen und können schon ernsthafte gesundheitliche Konsequenzen haben. Wir kennen es aus der Küche. Auch Brot kann von Schimmel befallen werden, oft schon wenige Tage nach dem Kauf. Wir wissen, dass es nicht mehr gegessen werden darf. Es genügt nicht, betroffene Stellen auszuschneiden. Genau so ist es bei Pilzen.
 
-Über Gefahren beim Verzehr verdorbener Pilze informiert das *[Faltbaltt "Gammelpilze"](http://www.fundkorb.de/downloads/Fundkorb.de-Gammelpilze.pdf)*, das 2014 auf Initiative von Dieter Gewalt vom Gesundheitsamt der Stadt Frankfurt herausgegeben worden ist und zum Ausdrucken heruntergeladen werden kann.
+Über Gefahren beim Verzehr verdorbener Pilze informiert das *[Faltbaltt "Gammelpilze"](/assets/docs/Fundkorb.de-Gammelpilze.pdf)*, das 2014 auf Initiative von Dieter Gewalt vom Gesundheitsamt der Stadt Frankfurt herausgegeben worden ist und zum Ausdrucken heruntergeladen werden kann.
 
 Auch abgesehen von Schimmelbefall kann man die Küchentauglichkeit von Rotfußröhrlingen und verwandten Arten in Zweifel ziehen. Filzröhrlinge sind nicht selten dafür verantwortlich, dass viele ihren gesammelten Pilzen nach der Zubereitung keinen oder nur wenig Geschmack abgewinnen können. Das liegt nicht nur an ihrer schlabberigen oder (wie die Frankfurter sagen würden:) "schlotzigen" Konsistenz. Selbst wenn die Röhren entfernt werden, bleibt der säuerliche Geschmack des Pilzfleisches.
