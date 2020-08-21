@@ -19,6 +19,6 @@ literatur:
 {% include bild.html datei="/bilder/xerocomus_subtomentosus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Die Ziegenlippe gehört wie die häufigeren Rotfußröhrlinge und einige weitere, meist seltenere Arten zu den Filzröhrlingen. Zu seinen wichtigsten Merkmalen gehören die wildlederartige oliv- bis gelbbraune feinfilzige Huthaut, die jung lebhaft gelben, relativ weiten und oft auch sehr unterschiedlich geformten Röhrenmündungen (Poren) und der hellbräunliche Stiel ohne Rottöne. Das Fleisch ist meist unveränderlich weißlich, nur selten schwach blauend, und der Geschmack ist niemals säuerlich.
+Die Ziegenlippe gehört wie die häufigeren Rotfußröhrlinge und einige weitere, meist seltenere Arten zu den Filzröhrlingen. Zu seinen wichtigsten Merkmalen gehören die wildlederartige oliv- bis gelbbraune feinfilzige Huthaut, die jung lebhaft gelben, relativ weiten und oft auch sehr unterschiedlich geformten Röhrenmündungen (Poren) und der hellbräunliche Stiel ohne Rottöne. Das Fleisch ist meist unveränderlich weißlich, nur selten schwach blauend, und der Geschmack niemals säuerlich.
 
 In jüngerer Zeit wurden die Arten Rotfußröhrling und Ziegenlippe in eine größere Anzahl neuer Arten aufgespalten bzw. deren Varietäten in eigene Arten überführt, die meist nur schwer zu unterscheiden sind und die Filzröhrlinge zu einer sehr unübersichtlichen Gruppe gemacht haben. Für die Küche ist die Diversifizierung ohne Belang. Sie sind alle von mäßiger, höchstens ganz jung von etwas besserer Speisepilzqualität.
