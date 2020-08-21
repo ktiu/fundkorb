@@ -22,7 +22,7 @@ Dieser Pilz wird auch als *„Wurzelnder Schleimrübling“* bezeichnet – ein 
 {% include bild.html datei="/bilder/xerula_radicata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Der oben beschriebene Speicheltest ist wichtig, um bei Trockenheit gewachsene Schleimrüblinge von anderen Arten aus der Gattung Xerula zu unterscheiden, die stets trockene Hüte aber keine glatten Stiele haben. Hier wären vor allem der Schwarzhaarige Wurzelrübling Xerula melanotricha und der Braunhaarige Wurzelrübling Xerula pudens zu nennen, deren Stiele fein behaart sind (Lupe!).
+Der oben beschriebene Speicheltest ist wichtig, um bei Trockenheit gewachsene Schleimrüblinge von anderen Arten aus der Gattung Xerula zu unterscheiden, die stets trockene Hüte aber keine glatten Stiele haben. Hier wären vor allem der Schwarzhaarige Wurzelrübling *Xerula melanotricha* und der Braunhaarige Wurzelrübling *[Xerula pudens](/pilze/xerula-pudens-braunhaariger-wurzelrübling)* zu nennen, deren Stiele fein behaart sind (Lupe!).
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/xerula_radicata_03_dg.jpeg" %}
