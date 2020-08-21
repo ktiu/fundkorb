@@ -15,7 +15,6 @@ hauptbild:
 literatur:
   - url: http://tintling.com/inhalt/1998/xerocomus_porosporus.pdf
 ---
-Der Düstere Rotfußröhrling wird erst seit 1958 wirklich konsequent vom Rotfüßchen (X. chrysenteron) abgetrennt und als eigene Art betrachtet, so dass sich über seine Häufigkeit noch keine wirklichen Aussagen machen lassen. In jedem Fall scheint er (wie auch der Herbstrotfuß X. pruinatus) nicht sonderlich selten zu sein.
+Der Düstere Rotfußröhrling wird erst seit 1958 wirklich konsequent vom Rotfüßchen ([X. chrysenteron](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)) abgetrennt und als eigene Art betrachtet, so dass sich über seine Häufigkeit noch keine wirklichen Aussagen machen lassen. In jedem Fall scheint er (wie auch der Herbstrotfuß [X. pruinatus](/pilze/xerocomus-pruinatus-herbstrotfüßchen)) nicht sonderlich selten zu sein.
 
 Das makroskopische Unterscheidungsmerkmal steckt im deutschen Namen: Xerocomus porosporus ist tatsächlich ein ziemlich düsterer Geselle, vor allem am Stiel finden sich so gut wie keine Rottöne, höchstens mal ein schmaler Streifen im oberen Teil. Findet man einen solchen Pilz, sollte man ihn – falls vorhanden – in jedem Fall unters Mikroskop legen: bei abgestutzten Sporen wird aus einem düsteren Rotfüßchen der Düstere Rotfußröhrling!
-
