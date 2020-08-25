@@ -25,9 +25,7 @@ In einem meiner ersten Pilzbücher (Haas/Gossner: Pilze Mitteleuropas, 1964) wir
 {% include bild.html datei="/bilder/amanita_muscaria_02_dg.jpeg" %}
 {% include abbildung_ende.html legende="Dieses Foto zeigt Fliegenpilze in allen Entwicklungsstadien von ganz jung bis voll entwickelt. Bei einem wurden Teile der Huthaut abgezogen, wobei Überraschendes zum Vorschein kommt: das Fleisch darunter ist quittengelb!" %}
 
-Mit dem „Männlein, das im Walde steht“, ist im Gegensatz zur weit verbreiteten Auffassung nicht der Fliegenpilz gemeint. Der meist nur gesprochene Schlussvers  
-
-des volkstümlichen Kinderliedes von August Heinrich Hoffmann von Fallersleben gibt Auskunft:
+Mit dem „Männlein, das im Walde steht“, ist im Gegensatz zur weit verbreiteten Auffassung nicht der Fliegenpilz gemeint. Der meist nur gesprochene Schlussvers des volkstümlichen Kinderliedes von August Heinrich Hoffmann von Fallersleben gibt Auskunft:
 
 „Das Männlein dort auf einem Bein\
 Mit seinem roten Mäntelein\
