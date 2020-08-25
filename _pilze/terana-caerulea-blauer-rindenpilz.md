@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://www.tintling.com/inhalt/2000/terana_caerulea.pdf
 ---
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/terana_caerulea_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
