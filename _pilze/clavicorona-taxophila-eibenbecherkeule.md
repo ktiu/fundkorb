@@ -9,12 +9,13 @@ profil:
   aktualisiert: 2020-07-26
   autor_in: Hermine Lotz-Winter
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/clavicorona_taxophila_01_hl.jpg
 published: true
 ---
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/clavicorona_taxophila_02_hl.jpg" %}
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/clavicorona_taxophila_01_hl.jpg" %}
+{% include bild.html datei="/bilder/clavicorona_taxophila_02_hl.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="2.11.2009 TK 6017.1.2 Mörfelden, Schrebergarten am Umspannwerk" %}
 
 Diese zierlichen, nur 2 cm hohen Keulchen entdeckte ich zufällig bei einer meiner regelmäßigen Begehungen eines aufgelassenen Schrebergartens, der immer wieder für Überraschungen gut ist. Unter zwei verwilderten Buchsbäumen wuchsen etwa 50 der schneeweißen, nach oben trompetenförmig erweiterten und dabei leicht becherförmig vertieften Fruchtkörper mit einem welligen bis krönchenartigen Becherrand („Clavicorona“ bedeutet „die bekrönte Keule“), meist in Gruppen von 3 – 5 Pilzen. Bestimmt wurde das Pilzchen nach der Publikation von Albers und Grauwinkel (2006). Jörg Albers, Tostedt, sei herzlich für die Nachuntersuchung und Bestätigung des Fundes gedankt!
