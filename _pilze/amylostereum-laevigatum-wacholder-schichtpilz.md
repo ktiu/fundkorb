@@ -32,4 +32,4 @@ Um diesen Rindenpilz zu finden, muss man seine typischen Wirtspflanzen kennen: W
 Der Wacholder-Schichtpilz bildet auf der Rinde ca. 1 mm dicke Überzüge von bis zu mehreren Dezimetern Ausdehnung. Die Fruchtschicht ist glatt, matt, grau-ocker bis hellbraun und wird im Alter rissig.
 Schichtpilze der Gattung Amylostereum sind Saprobionten, die ausschließlich an Koniferen wachsen und im Holz eine Weißfäule verursachen. Es gibt weltweit drei Arten, die auch in Mitteleuropa heimisch sind. Im Unterschied zur Gattung Stereum sind ihre Sporen amyloid, d. h. sie verfärben sich bei Kontakt mit Melzers Reagens oder Lugolscher Lösung.
 
-Ein anderer auf Wacholder vorkommender Pilz ist der Birnengitterrost Gymnosporangium sabinae.
+Ein anderer auf Wacholder vorkommender Pilz ist der Birnengitterrost [Gymnosporangium sabinae](/pilze/gymnosporangium-sabinae-birnengitterrost).
