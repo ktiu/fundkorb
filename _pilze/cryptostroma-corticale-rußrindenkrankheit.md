@@ -4,6 +4,7 @@ beschreibung:
   deutsch: Rußrindenkrankheit
   referenz: (Ellis & Everh.) P.H. Greg. & S. Waller
   erlaeuterung: corticale = an Rinde wachsend
+  familie: Xylariaceae
 profil:
   aktualisiert: 2020-07-30
   autor_in: Dieter Gewalt
