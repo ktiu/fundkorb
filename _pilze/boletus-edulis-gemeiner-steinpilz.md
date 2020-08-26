@@ -45,11 +45,11 @@ Gemeiner Steinpilz (Boletus edulis): meist speckig glänzende, zum Rand hin aufg
 {% include bild.html datei="/bilder/boletus_edulis_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Sommersteinpilz (Boletus reticulatus): Huthaut trocken, fast samtig bis filzig-schorfig; Stiel blass bräunlich, meist vollständig genetzt; bei Eichen  
+[Sommersteinpilz](/pilze/boletus-reticulatus-sommersteinpilz) (Boletus reticulatus): Huthaut trocken, fast samtig bis filzig-schorfig; Stiel blass bräunlich, meist vollständig genetzt; bei Eichen  
 
-Schwarzhütiger Steinpilz, Bronzeröhrling (Boletus aereus): Huthaut dunkelbraun bis fast schwarz; Stiel hellbraun, kaum genetzt, eher marmoriert längsstreifig; bei Eichen, selten (Rote Liste im Bestand bedrohler Arten)  
+[Schwarzhütiger Steinpilz](/pilze/boletus-aereus-bronzeröhrling-schwarzhütiger-steinpilz), Bronzeröhrling (Boletus aereus): Huthaut dunkelbraun bis fast schwarz; Stiel hellbraun, kaum genetzt, eher marmoriert längsstreifig; bei Eichen, selten (Rote Liste im Bestand bedrohler Arten)  
 
-Kiefernsteinpilz (Boletus pinophilus): Huthaut dunkelbraun mit rötlichen Nuancen; Stiel bräunlich bis rotbraun mit unauffälliger Netzzeichnung; bei Kiefern, selten (Rote Liste im Bestand bedrohler Arten)
+[Kiefernsteinpilz](/pilze/boletus-pinophilus-kiefernsteinpilz) (Boletus pinophilus): Huthaut dunkelbraun mit rötlichen Nuancen; Stiel bräunlich bis rotbraun mit unauffälliger Netzzeichnung; bei Kiefern, selten (Rote Liste im Bestand bedrohler Arten)
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/boletus_edulis_07_dg.jpg" %}
