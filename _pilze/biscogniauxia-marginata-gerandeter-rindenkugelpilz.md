@@ -14,7 +14,7 @@ hauptbild:
   legende: "Foto: Hermine Lotz-Winter"
 published: true
 ---
-Das Foto macht eigentlich eine Fruchtkörperbeschreibung überflüssig. Dieser [Pyrenomyzet](<Pyrenomyzeten "Glossar">) hat aufgebogen gerandete [Perithezien](<Perithezien "Glossar">) und ist an diesem Merkmal sicher zu erkennen. Sie entwickeln sich aus dem Holz heraus, sprengen dabei die Rinde und erreichen Durchmesser von bis zu 3 Zentimeter. Man findet sie ganzjährig an Laubholzästen und -stämmen. Unser Fund vom Maunzenweiher war an einem toten Ast seines mit Abstand häufigsten Wirtsbaums Eberesche (Sorbus) und zeigt die Form der reifen Fruchtköper.
+Das Foto macht eigentlich eine Fruchtkörperbeschreibung überflüssig. Dieser [Pyrenomyzet](Pyrenomyzeten "Glossar") hat aufgebogen gerandete [Perithezien](Perithezien "Glossar") und ist an diesem Merkmal sicher zu erkennen. Sie entwickeln sich aus dem Holz heraus, sprengen dabei die Rinde und erreichen Durchmesser von bis zu 3 Zentimeter. Man findet sie ganzjährig an Laubholzästen und -stämmen. Unser Fund vom Maunzenweiher war an einem toten Ast seines mit Abstand häufigsten Wirtsbaums Eberesche (Sorbus) und zeigt die Form der reifen Fruchtköper.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/biscogniauxia_marginata_01_dg.jpg" %}
