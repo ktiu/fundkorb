@@ -10,7 +10,7 @@ profil:
   aktualisiert: 2020-07-28
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/coprinopsis_stercorea_01_dg.jpg
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 4 (Blättepilze 2. Teil)
