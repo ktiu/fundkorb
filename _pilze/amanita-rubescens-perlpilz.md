@@ -5,18 +5,18 @@ beschreibung:
   erlaeuterung: rubescens = rötend
   referenz: Pers. 1797
   familie: Amanitaceae
+profil:
+  autor_in: Dieter Gewalt
+  aktualisiert: 2020-05-30
 hauptbild:
   datei: /bilder/amanita_rubescens_01_dg-1536x1102.jpg
   anzeige: true
   legende: Perlpilze im Gebiet Waldacker, oberhalb des Anglerteichs, am 11.06.2016
 literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Amanita_rubescens.html
-profil:
-  autor_in: Dieter Gewalt
-  aktualisiert: 2020-05-30
 published: true
 ---
-Der Perlpilz gehört zu den guten Speisepilzen, jedoch sollten sich Anfänger vor Verwechslungen hüten und so lange die Finger von ihm lassen, bis ihnen die Unterschiede zum Pantherpilz und Grauen Wulstling geläufig sind. Ein wichtiges Merkmal ist das Röten des Fleisches, das irgendwo am Pilz erkennbar sein muss und bei den beiden anderen Arten niemals vorkommt. Alle meine hier platzierten Fotos zeigen solche Rottöne, zum Teil an Fraßstellen, zum Teil durchscheinend auf der Hutoberfläche, an der Stielbasis oder an den Lamellen. Beim geringsten Zweifel muss der Fund im Wald bleiben!
+Der Perlpilz gehört zu den guten Speisepilzen, jedoch sollten sich Anfänger vor Verwechslungen hüten und so lange die Finger von ihm lassen, bis ihnen die Unterschiede zum [Pantherpilz](/pilze/amanita-pantherina-pantherpilz) und [Grauen Wulstling](/pilze/amanita-excelsa-grauer-wulstling) geläufig sind. Ein wichtiges Merkmal ist das Röten des Fleisches, das irgendwo am Pilz erkennbar sein muss und bei den beiden anderen Arten niemals vorkommt. Alle meine hier platzierten Fotos zeigen solche Rottöne, zum Teil an Fraßstellen, zum Teil durchscheinend auf der Hutoberfläche, an der Stielbasis oder an den Lamellen. Beim geringsten Zweifel muss der Fund im Wald bleiben!
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/amanita_rubescens_02_dg-768x702.jpg" %}
@@ -26,7 +26,7 @@ Der Perlpilz gehört zu den guten Speisepilzen, jedoch sollten sich Anfänger vo
 
 Wichtiger Hinweis: Der Perpilz ist (wie viele andere Speisepilze auch) roh giftig. Ausreichend erhitzt ist kann er ohne Bedenken verzehrt werden.
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/amanita_pantherina-amanita_rubescens_06_dg.jpg" %}
 {% include abbildung_ende.html legende="Um den Perlpilz sicher vom giftigen Pantherpilz zu unterscheiden, muss man schon genau hinschauen und wissen, auf welche Merkmale man achten muss." %}
 
