@@ -18,7 +18,7 @@ literatur:
       München
   - url: http://tintling.com/inhalt/2001/Gifthaeubling_Galerina_marginata.pdf
 ---
-Als Nadelholzhäubling war er kaum jemandem bekannt. Erst als man entdeckte, dass er ein gefährlicher Giftpilz ist und in „Gifthäubling“ umbenannt wurde, gelangte er ins Bewusstsein einiger Pilzfreunde. Selbst heute ist er längst nicht allen bekannt und so werden immer noch achtlos Stockschwämmchen (*Kuehneromyces mutabilis*) gesammelt, ohne ihnen die dringend erforderliche Aufmerksamkeit zu widmen. Schon die geringste Unachtsamkeit kann eine Verwechslung mit tödlichem Ausgang zur Folge haben.
+Als Nadelholzhäubling war er kaum jemandem bekannt. Erst als man entdeckte, dass er ein gefährlicher Giftpilz ist und in „Gifthäubling“ umbenannt wurde, gelangte er ins Bewusstsein einiger Pilzfreunde. Selbst heute ist er längst nicht allen bekannt und so werden immer noch achtlos [Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen) (*Kuehneromyces mutabilis*) gesammelt, ohne ihnen die dringend erforderliche Aufmerksamkeit zu widmen. Schon die geringste Unachtsamkeit kann eine Verwechslung mit tödlichem Ausgang zur Folge haben.
 
 Die Gefahr erhöht sich noch dramatisch, weil Galerina marginata nicht der einzige tödlich giftige Häubling ist. Von einigen dieser Arten wurden sogar Massenvorkommen auf Holzhäcksel- und Rindenmulchflächen beobachtet. In der Frankfurter Pilzberatung konnte möglicherweise eine Vergiftung durch eine giftige Galerina-Art verhindert werden. Zwei Pilzsammlerinnen hatten einen ganzen Korb voller vermeintlicher Stockschwämmchen in die Sprechstunde mitgebracht, die sich als Gifthäublinge (*Galerina sp.*) herausstellten.
 
