@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: Amanita fulva
   deutsch: Rotbrauner (Fuchsiger) Scheidenstreifling
-  referenz: "Fr. 1815"
+  referenz: Fr. 1815
   erlaeuterung: fulva = fuchsig, rotbraun, braungelb
   familie: Amanitaceae
 profil:
@@ -15,7 +15,6 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Amanita_fulva.html
 published: true
 ---
-
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amanita_fulva_01_dg.jpg" %}
 {% include bild.html datei="/bilder/amanita_fulva_02_dg.jpg" %}
@@ -25,7 +24,7 @@ Der Name Scheidenstreifling ist eine Kurzbeschreibung der zu den Wulstlingen geh
 
 Mit Abstand häufigste der ca. 15 in Mitteleuropa vorkommenden Arten ist der Rotbraune oder Fuchsige Scheidenstreifling. Im Rhein-Main-Gebiet fehlt er wohl in keinem Wald und ist auch gelegentlich in Gärten, Parkanlagen und Friedhöfen zu finden. Er wird in populären Pilzbüchern als essbar angegeben. Wer auf seinen Verzehr verzichtet, hat nichts versäumt. Er schmeckt etwas muffig.
 
-Die verschiedenen Scheidenstreiflinge unterscheiden sich u. a. durch ihre Farbe. In der Häufigkeit an zweiter Stelle kommt der Graue Scheidenstreifling (Amanita vaginata), an dritter der Orangegelbe (Amanita crocea). Die übrigen sind wesentlich seltener und nicht immer leicht zu bestimmen.
+Die verschiedenen Scheidenstreiflinge unterscheiden sich u. a. durch ihre Farbe. In der Häufigkeit an zweiter Stelle kommt der Graue Scheidenstreifling ([Amanita vaginata](/pilze/amanita-vaginata-grauer-scheidenstreifling)), an dritter der Orangegelbe ([Amanita crocea](/pilze/amanita-crocea-orangegelber-scheidenstreifling)). Die übrigen sind wesentlich seltener und nicht immer leicht zu bestimmen.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amanita_fulva_04_dg.jpg" %}
