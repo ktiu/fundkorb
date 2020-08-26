@@ -13,7 +13,7 @@ hauptbild:
   datei: /bilder/cordyceps_militaris_01_dg.jpg
 literatur:
   - text: Die Puppenkernkeule wurde 2007 von der Deutschen Gesellschaft für
-      Mykologie zumPilz des Jahres 2007 Pilz des Jahres gekürt.
+      Mykologie zum Pilz des Jahres gekürt.
     url: https://www.dgfm-ev.de/pilz-des-jahres/2007-puppenkernkeule
 ---
 {% include abbildung_start.html stil="mittel" %}
