@@ -16,12 +16,11 @@ literatur:
   - text: "Stille, G.: Krankheit und Arznei: Die Geschichte der Medikamente
       (Springer-Verlag 1994)"
 ---
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/elaphomyces_granulatus_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-
-Irgendwelche Trüffeln wachsen wohl in jedem Wald. Es müssen nicht gleich echte sein, die ein Vermögen kosten können*; meist sind es solche, an denen nur Rotwild und Wildschweine Geschmack finden. Zu diesen gehören die Hirschtrüffeln, von denen in Deutschland lt. Verbreitungsatlas (Krieglsteiner, 1993) vier nachgewiesen sind. Die häufigste ist die Kleinwarzige Hirschtrüffel. Sie wächst unterirdisch, ihre Anwesenheit kann aber manchmal durch auf ihr parasitierende oberirdische Kernkeulen angezeigt werden, wie wir es Jahr für Jahr in einem Roteichenforst bei Rodgau-Dudenhofen beobachten können. Hier muss der Untergrund nur so von Hirschtrüffeln wimmeln, auf denen die verräterischen Kernkeulen Cordyceps longisegmentis und Cordyceps ophioglossoides wachsen.
+Irgendwelche Trüffeln wachsen wohl in jedem Wald. Es müssen nicht gleich echte sein, die ein Vermögen kosten können*; meist sind es solche, an denen nur Rotwild und Wildschweine Geschmack finden. Zu diesen gehören die Hirschtrüffeln, von denen in Deutschland lt. Verbreitungsatlas (Krieglsteiner, 1993) vier nachgewiesen sind. Die häufigste ist die Kleinwarzige Hirschtrüffel. Sie wächst unterirdisch, ihre Anwesenheit kann aber manchmal durch auf ihr parasitierende oberirdische Kernkeulen angezeigt werden, wie wir es Jahr für Jahr in einem Roteichenforst bei Rodgau-Dudenhofen beobachten können. Hier muss der Untergrund nur so von Hirschtrüffeln wimmeln, auf denen die verräterischen Kernkeulen [Cordyceps longisegmentis](/pilze/cordyceps-longisegmentis-langsporige-kernkeule) und [Cordyceps ophioglossoides](/pilze/cordyceps-ophioglossoides-zungenkernkeule) wachsen.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/elaphomyces_granulatus_02_dg.jpg" %}
