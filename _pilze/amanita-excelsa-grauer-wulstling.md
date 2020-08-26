@@ -6,12 +6,12 @@ beschreibung:
   erlaeuterung: excelsa = hoch, erhaben, emporragend
   referenz: (Fr.) Bertill. 1866
   familie: Amanitaceae
-hauptbild:
-  datei: /bilder/amanita_excelsa_01_dg.jpg
-  anzeige: false
 profil:
   autor_in: Dieter Gewalt
   aktualisiert: 2020-05-20
+hauptbild:
+  datei: /bilder/amanita_excelsa_01_dg.jpg
+  anzeige: false
 literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Amanita_excelsa.html
 published: true
@@ -29,6 +29,10 @@ In den meisten Pilzbüchern wird er als essbar angegeben. Das ist zweifellos kor
 > Als Mischpilz kann man einige wenige, junge Exmplare einer Mahlzeit beigeben.
 
 “Einige wenige” – das besagt eigentlich schon genug. Mir sind in Mischpilzgerichten schon “einige wenige” durch ihren muffigen Geschmack so unangenehm aufgefallen, dass ich es vorziehe, ganz auf sie zu verzichten.
+
+Wer zum Beispiel den essbaren und durchaus empfehlenswerten Perlpilz sammeln möchte, muss ihn sicher von seinen Doppelgängern unterscheiden können. 
+
+### Unterscheidungskriterien zwischen den drei verwechselbaren Arten:
 
 <div class="table-responsive">
 <table class="table">
