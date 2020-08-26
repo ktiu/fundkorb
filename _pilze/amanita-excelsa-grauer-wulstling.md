@@ -29,7 +29,7 @@ In den meisten Pilzbüchern wird er als essbar angegeben. Das ist zweifellos kor
 
 “Einige wenige” – das besagt eigentlich schon genug. Mir sind in Mischpilzgerichten schon “einige wenige” durch ihren muffigen Geschmack so unangenehm aufgefallen, dass ich es vorziehe, ganz auf sie zu verzichten.
 
-Wer zum Beispiel den essbaren und durchaus empfehlenswerten Perlpilz sammeln möchte, muss ihn sicher von seinen Doppelgängern unterscheiden können. 
+Wer zum Beispiel den essbaren und durchaus empfehlenswerten [Perlpilz](/pilze/amanita-rubescens-perlpilz) sammeln möchte, muss ihn sicher vom Grauen Wulstling und vor allem vom giftgen [Pantherpilz](/pilze/amanita-pantherina-pantherpilz) unterscheiden können. 
 
 ### Unterscheidungskriterien zwischen den drei verwechselbaren Arten:
 
@@ -38,9 +38,9 @@ Wer zum Beispiel den essbaren und durchaus empfehlenswerten Perlpilz sammeln mö
   <thead>
     <tr>
       <th> </th>
-      <th>Perlpilz ([Amanita rubescens](/pilze/amanita-rubescens-perlpilz))</th>
+      <th>Perlpilz (Amanita rubescens)</th>
       <th>Grauer Wulstling (Amanita excelsa)</th>
-      <th>Pantherpilz ([Amanita pantherina](/pilze/amanita-pantherina-pantherpilz))</th>
+      <th>Pantherpilz (Amanita pantherina)</th>
     </tr>
   </thead>
   <tbody>
