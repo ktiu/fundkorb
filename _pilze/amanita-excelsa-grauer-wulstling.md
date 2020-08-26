@@ -16,7 +16,6 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Amanita_excelsa.html
 published: true
 ---
-
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amanita_excelsa_02_dg.jpg" zuschneiden="ja" %}
 {% include bild.html datei="/bilder/amanita_excelsa_01_dg.jpg" zuschneiden="ja" %}
@@ -39,9 +38,9 @@ Wer zum Beispiel den essbaren und durchaus empfehlenswerten Perlpilz sammeln mö
   <thead>
     <tr>
       <th> </th>
-      <th>Perlpilz (Amanita rubescens)</th>
+      <th>Perlpilz ([Amanita rubescens](/pilze/amanita-rubescens-perlpilz))</th>
       <th>Grauer Wulstling (Amanita excelsa)</th>
-      <th>Pantherpilz (Amanita pantherina)</th>
+      <th>Pantherpilz ([Amanita pantherina](/pilze/amanita-pantherina-pantherpilz))</th>
     </tr>
   </thead>
   <tbody>
