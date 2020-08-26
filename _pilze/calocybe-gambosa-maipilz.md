@@ -2,9 +2,9 @@
 beschreibung:
   wissenschaftlich: Calocybe gambosa
   deutsch: Maipilz
-  referenz: "(Fr.) Donk 1962"
+  referenz: (Fr.) Donk 1962
   familie: Lyophyllaceae
-  erlaeuterung: "gambosa = hufartig"
+  erlaeuterung: gambosa = hufartig
 profil:
   aktualisiert: 2020-07-26
   autor_in: Dieter Gewalt
@@ -19,7 +19,7 @@ Kaum ein anderer essbarer Pilz ist so umstritten wie der Maipilz. Er spaltet die
 {% include bild.html datei="/bilder/calocybe_gambosa_02_dg.jpg" %}
 {% include abbildung_ende.html legende="Sowohl am Wollwiesenteich als auch entlang der Bieber im Hessentagspark ist der Maipilz regelmäßig zu finden – zwei von mehreren Fundstellen in und um Dietzenbach" %}
 
-Man hüte sich vor dem ab Mai fruktifizierenden Ziegelroten Risspilz, der nicht nach Mehl riecht, weniger robust ist und sich ziegelrot verfärbt. Dieser enthält Muskarin und kann schwere Vergiftungen verursachen. Da er im Gegensatz zum Maipilz kalkhaltige Böden benötigt, ist er im Rhein-Main-Gebiet sehr selten.
+Man hüte sich vor dem ab Mai fruktifizierenden [Ziegelroten Risspilz](/pilze/inocybe-erubescens-ziegelroter-risspilz), der nicht nach Mehl riecht, weniger robust ist und sich ziegelrot verfärbt. Dieser enthält Muskarin und kann schwere Vergiftungen verursachen. Da er im Gegensatz zum Maipilz kalkhaltige Böden benötigt, ist er im Rhein-Main-Gebiet sehr selten.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/calocybe_gambosa_03_dg.jpg" %}
