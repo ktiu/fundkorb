@@ -8,6 +8,7 @@ beschreibung:
   erlaeuterung: confluens = zusammenfließend
 profil:
   aktualisiert: 2020-08-03
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/gymnopus_confluens_01_dg.jpg
