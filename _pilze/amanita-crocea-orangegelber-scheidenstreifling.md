@@ -15,16 +15,15 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Amanita_crocea.html
 published: true
 ---
-
 Der Orangerote Scheidenstreifling gehört zu den etwas größeren und robusteren Arten der Untergattung Amanitopsis und wächst vornehmlich bei Eichen. In Höhenlagen unter 200 m ist er eher selten, im kollinen bis montanen Bereich deutlich häufiger. So habe ich die Art z. B. im Schwarzwald weitaus öfters gesehen als in der Rhein-Main-Ebene, in der man ihr aber auch immer mal wieder begegnet.
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/amanita_crocea_10_gs.jpg" %}
 {% include abbildung_ende.html legende="Stimmungsvolles Foto von Gerhard Schuster" %}
 
-Der Name Scheidenstreifling ist eigentlich schon eine Fruchtkörperbeschreibung: Der Stiel streckt sich aus einer häutigen Scheide, der Hutrand ist gestreift. Die Stiele sind meist hohl. Unter den etwa 12 in Deutschland festgestellten Arten gibt es keine giftigen, aber ihr etwas muffiger Geschmack macht sie auch nicht gerade empfehlenswert für die Küche. Mit deutlichem Abstand häufigste Art in der Rhein-Main-Ebene ist der Rotbraune Scheidenstreifling Amanita fulva.
+Der Name Scheidenstreifling ist eigentlich schon eine Fruchtkörperbeschreibung: Der Stiel streckt sich aus einer häutigen Scheide, der Hutrand ist gestreift. Die Stiele sind meist hohl. Unter den etwa 12 in Deutschland festgestellten Arten gibt es keine giftigen, aber ihr etwas muffiger Geschmack macht sie auch nicht gerade empfehlenswert für die Küche. Mit deutlichem Abstand häufigste Art in der Rhein-Main-Ebene ist der Rotbraune Scheidenstreifling [Amanita fulva](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling).
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/amanita_crocea_09_dg.jpg" %}
 {% include abbildung_ende.html %}
 
