@@ -9,11 +9,16 @@ profil:
   aktualisiert: 2020-07-29
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/cordyceps_militaris_01_dg.jpg
+literatur:
+  - text: Die Puppenkernkeule wurde 2007 von der Deutschen Gesellschaft für
+      Mykologie zumPilz des Jahres 2007 Pilz des Jahres gekürt.
+    url: https://www.dgfm-ev.de/pilz-des-jahres/2007-puppenkernkeule
 ---
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/cordyceps_militaris_puppe_02_dg.jpg" %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/cordyceps_militaris_01_dg.jpg" %}
+{% include bild.html datei="/bilder/cordyceps_militaris_puppe_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
 Im spannenden Reich der Pilze findet man Spezialisierungen, die den Laien verblüffen. Ein faszinierendes Beispiel ist die Orangegelbe Puppenkernkeule Cordyceps militaris, denn sie parasitiert auf Schmetterlingspuppen. Das [Epithet](Epithet "Glossar") *militaris* im binären Namen unterstellt dem zierlichen Keulchen kriegerische Intentionen, es erobert quasi die Puppen und macht sie kampfunfähig. Aus der befallenen Puppe wird sich nie mehr ein Schmetterling entwickeln, sie ist von ihrem parasitären Besatzer im wahrsten Wortsinn ausgesaugt worden.
