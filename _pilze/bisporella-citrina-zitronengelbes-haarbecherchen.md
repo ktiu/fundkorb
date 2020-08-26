@@ -15,9 +15,9 @@ published: true
 ---
 Obwohl die kleinen Becherchen nur etwa 1 – 3 mm groß sind, bin ich schon gefragt worden, ob man sie essen kann. Meine Antwort: „Oh ja, in Scheiben geschnitten und paniert in der Pfanne gebraten. Wegen einiger Verwechslungsmöglichkeiten wird allerdings dringend empfohlen, etwaige Funde vor der Zubereitung von einem Pilzsachverständigen prüfen zu lassen.“
 
-Wer sich schon ein wenig mit kleinen Ascomyzeten auskennt, wird allerdings kaum in Verlegenheit kommen, einen Experten einzuschalten. Das obige Foto zeigt, wie die winzigen Becherchen auszusehen haben, sodass sich eine wortreiche Beschreibung erübrigt.
+Wer sich schon ein wenig mit kleinen [Ascomyzeten](<Ascomyzeten "Glossar">) auskennt, wird allerdings kaum in Verlegenheit kommen, einen Experten einzuschalten. Das obige Foto zeigt, wie die winzigen Becherchen auszusehen haben, sodass sich eine wortreiche Beschreibung erübrigt.
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/bisporella_citrina_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
