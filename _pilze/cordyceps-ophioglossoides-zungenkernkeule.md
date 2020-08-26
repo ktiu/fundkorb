@@ -26,6 +26,6 @@ Mit etwas Erfahrung sind Zungenkernkeulen auch ohne Nachforschungen ins Substrat
 {% include bild.html datei="/bilder/cordyceps_ophioglossoides_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Im Rhein-Main-Gebiet sind mir bisher nur drei Standorte bekannt, wobei dem im Ansfeldwald besondere Bedeutung zukommt. Hier wachsen Jahr für Jahr Tausende Zungenkernkeulen, und zwar ausschließlich im Roteichenforst. Im Untergrund muss es von Hirschtrüffeln nur so wimmeln. Bei unseren Funden war es stets die Warzige Hirschtrüffel *Elaphomyces granulatus*.
+Im Rhein-Main-Gebiet sind mir bisher nur drei Standorte bekannt, wobei dem im Ansfeldwald besondere Bedeutung zukommt. Hier wachsen Jahr für Jahr Tausende Zungenkernkeulen, und zwar ausschließlich im Roteichenforst. Im Untergrund muss es von Hirschtrüffeln nur so wimmeln. Bei unseren Funden war es stets die Warzige Hirschtrüffel *[Elaphomyces granulatus](/pilze/elaphomyces-granulatus-kleinwarzige-hirschtrüffel)*.
 
-Zungenkernkeulen gehören zu den Schlauchpilzen (Ascomyzeten). Zwei andere, ebenfalls auf Hirschtrüffeln parasitierende Arten sind die Kopfige Kernkeule *Cordyceps capitata* und die Langsporige Kernkeule *Cordyceps longisegmentis*.
+Zungenkernkeulen gehören zu den Schlauchpilzen (Ascomyzeten). Zwei andere, ebenfalls auf Hirschtrüffeln parasitierende Arten sind die Kopfige Kernkeule *Cordyceps capitata* und die Langsporige Kernkeule *[Cordyceps longisegmentis](/pilze/cordyceps-longisegmentis-langsporige-kernkeule)*.
