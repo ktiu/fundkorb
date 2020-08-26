@@ -29,7 +29,7 @@ Die Stielriefung ist ein Alleinstellungsmerkmal, an dem der Haustintling von hab
 {% include bild.html datei="/bilder/coprinellus_domesticus_03_dg_-stiel-.jpg" %}
 {% include abbildung_ende.html legende="Längsriefung (längsstreifig)" %}
 
-Der Haustintling ist nicht selten, aber längst nicht so häufig wie der Glimmertintling. Seinen Namen hat er erhalten, weil er tatsächlich an altem verbautem Holz in Häusern vorkommen kann.
+Der Haustintling ist nicht selten, aber längst nicht so häufig wie der Glimmertintling. Seinen Namen hat er erhalten, weil er tatsächlich an altem verbautem Holz in Häusern vorkommen kann. 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/coprinellus_domesticus_06_dg.jpg" %}
