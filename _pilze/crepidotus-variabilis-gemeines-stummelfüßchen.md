@@ -9,12 +9,13 @@ profil:
   aktualisiert: 2020-07-30
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/crepidotus_variabilis_01_dg.jpg
 ---
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/crepidotus_variabilis_02_dg.jpg" %}
 {% include bild.html datei="/bilder/crepidotus_variabilis_03_dg.jpg" %}
+{% include bild.html datei="/bilder/crepidotus_variabilis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 ##### Viel Verwirrung um einen Namen
