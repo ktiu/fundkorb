@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/m/Marasmius_alliaceus.html
 ---
-In Mitteleuropa wie auch in der Rhein-Main-Ebene gibt es drei Schwindlingsarten, deren gemeinsames Merkmal ihr Geruch nach Knoblauch ist. Mit einer Geschmacksprobe (immer ausspucken!) kann man den Echten Knoblauchschwindling (Marasmius scorodonius) von den beiden anderen abgrenzen. Nur er schmeckt mild und ist daher auch der einzige, der als Würzpilz für die Küche empfohlen werden kann. Die beiden anderen schmecken scharf und sind unbekömmlich (leicht magen-darmgiftig).
+In Mitteleuropa wie auch in der Rhein-Main-Ebene gibt es drei Schwindlingsarten, deren gemeinsames Merkmal ihr Geruch nach Knoblauch ist. Mit einer Geschmacksprobe (immer ausspucken!) kann man den [Echten Knoblauchschwindling](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling) (Marasmius scorodonius) von den beiden anderen abgrenzen. Nur er schmeckt mild und ist daher auch der einzige, der als Würzpilz für die Küche empfohlen werden kann. Die beiden anderen schmecken scharf und sind unbekömmlich (leicht magen-darmgiftig).
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/marasmius_alliaceus_02_dg.jpg" %}
