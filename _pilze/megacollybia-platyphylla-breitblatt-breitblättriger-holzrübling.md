@@ -27,6 +27,6 @@ Die Hüte erreichen etwa 12 cm Durchmesser und sind von grauer bis graubrauner F
 {% include bild.html datei="/bilder/megacollybia_platyphylla_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Anfänger verwechseln ihn desöfteren mit dem Rehbraunen Dachpilz (Pluteus cervinus), der nur jung weiße, aber dichter stehende Lamellen hat, die sich bald durch ihr rosafarbenes Sporenpulver ebenfalls rosa färben. Dieser wächst auf am Boden liegenden morschem Holz, ist essbar, kann wegen seines etwas muffigen Geschmacks aber nicht für die Küche empfohlen werden.
+Anfänger verwechseln ihn desöfteren mit dem [Rehbraunen Dachpilz](/pilze/pluteus-cervinus-rehbrauner-dachpilz) (Pluteus cervinus), der nur jung weiße, aber dichter stehende Lamellen hat, die sich bald durch ihr rosafarbenes Sporenpulver ebenfalls rosa färben. Dieser wächst auf am Boden liegenden morschem Holz, ist essbar, kann wegen seines etwas muffigen Geschmacks aber nicht für die Küche empfohlen werden.
 
 Auch der Breitblättrige Holzrübling kommt für Speisezwecke kaum in Frage. In manchen Pilzbüchern wird er zwar als essbar angegeben, doch essbar heißt noch lange nicht schmackhaft. Möglicherweise ist er unbekömmlich oder leicht magen-/darmgiftig. Die Deutsche Gesellschaft für Mykologie empfiehlt ihren Pilzsachverständigen, ihn nicht zum Verzehr freizugeben.
