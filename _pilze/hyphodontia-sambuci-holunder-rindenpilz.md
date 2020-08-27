@@ -5,6 +5,7 @@ beschreibung:
   referenz: "(Pers.) J. Erikss. 1958 "
   familie: Schizoporaceae
   erlaeuterung: Sambucus = Holunder
+  synonym: "Neuer Name: Xylodon sambuci"
 profil:
   aktualisiert: 2020-08-06
   autor_in: Dieter Gewalt
