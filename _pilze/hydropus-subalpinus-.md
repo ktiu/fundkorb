@@ -13,7 +13,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/hydropus_subalpinus_01_dg.jpg
 ---
-Ein Blätterpilz ohne auffallende Merkmale – so könnte man den Buchenwald-Wasserfuß am treffendsten beschreiben. Er hat in der Tat keine Eigenschaften, an denen man ihn festmachen kann. Die Merkmalskombination *Kleiner Pilz / Huthaut glatt, trocken, gelblich bis hell ocker-bräunlich / Stiel und Lamellen weiß / Geruch und Geschmack unauffällig* dürfte auf viele unscheinbare Pilze unterschiedlichster Gattungszugehörigkeit zutreffen. Man könnte ihn, zumal er wie dieser an Holz wächst, als klein geratenen Breitblättrigen Holzrübling (Breitblatt, *Megacollybia platyphylla*) beschreiben. Zu seiner Unauffälligkeit passt, dass er in kaum einem populären Pilzbuch erwähnt wird, was die Ratlosigkeit vieler Pilzfreunde erklärt, die nur achselzuckend reagieren, wenn sie den Pilz in der Hand halten. Als vielleicht hilfreiches Indiz könnte man anführen, dass der Stiel bei Verletzung eine wässrige Flüssigkeit austreten lässt.
+Ein Blätterpilz ohne auffallende Merkmale – so könnte man den Buchenwald-Wasserfuß am treffendsten beschreiben. Er hat in der Tat keine Eigenschaften, an denen man ihn festmachen kann. Die Merkmalskombination *Kleiner Pilz / Huthaut glatt, trocken, gelblich bis hell ocker-bräunlich / Stiel und Lamellen weiß / Geruch und Geschmack unauffällig* dürfte auf viele unscheinbare Pilze unterschiedlichster Gattungszugehörigkeit zutreffen. Man könnte ihn, zumal er wie dieser an Holz wächst, als klein geratenen [Breitblättrigen Holzrübling](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling) (Breitblatt, *Megacollybia platyphylla*) beschreiben. Zu seiner Unauffälligkeit passt, dass er in kaum einem populären Pilzbuch erwähnt wird, was die Ratlosigkeit vieler Pilzfreunde erklärt, die nur achselzuckend reagieren, wenn sie den Pilz in der Hand halten. Als vielleicht hilfreiches Indiz könnte man anführen, dass der Stiel bei Verletzung eine wässrige Flüssigkeit austreten lässt.
 
 Er wird von manchen Autoren zwar als essbar bezeichnet, doch da er kaum einmal in nennenswerter Zahl erscheint und nur wenigen eine sichere Bestimmung gelingt, macht das Sammeln keinen Sinn. Er erscheint schon im Frühjahr und kann bis in den Spätherbst gefunden werden – wie der Name verrät, vor allem in Buchenwäldern.
 
@@ -22,4 +22,3 @@ Im Gegensatz zu seinem optischen (makroskopischen) Erscheinungsbild ist er aufgr
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hydropus_subalpinus_02_uvs.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Sporenfoto von Ulrich van Schoor" %}
-
