@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/g/Gymnopus_fusipes.html
 ---
-Der Spindelige Rübling gehört zu den Pilzen, die man auf den ersten Blick sicher erkennen kann. Er wächst fast immer büschelig an der Stammbasis lebender Eichen, seltener an Buchen. Seine herausragenden Merkmale sind die spindelig wurzelnden, oft verdrehten und längsfurchigen Stiele sowie rostbraune Flecken an Hut, Lamellen und Stiel. In der Summe dieser Eigenschaften wirkt der Pilz eher unattraktiv und schon gar nicht wie einer, den man essen möchte. Dennoch gibt es Pilzbuchautoren, die ihn für essbar halten, z. B. Andreas Gminder. Ich habe ihn mal ausprobiert und es so formuliert: er schmeckt so wie er aussieht und ist bestenfalls als Mischpilz verwendbar. Man findet ihn nahezu ausnahmslos am Fuß von Eichen.
+Der Spindelige Rübling gehört zu den Pilzen, die man auf den ersten Blick sicher erkennen kann. Er wächst fast immer büschelig an der Stammbasis lebender Eichen, seltener an Buchen. Seine herausragenden Merkmale sind die spindelig wurzelnden, oft verdrehten und längsfurchigen Stiele sowie rostbraune Flecken an Hut, Lamellen und Stiel. In der Summe dieser Eigenschaften wirkt der Pilz eher unattraktiv und schon gar nicht wie einer, den man essen möchte. Dennoch gibt es Pilzbuchautoren, die ihn für essbar halten, z. B. Andreas Gminder. Ich habe ihn mal ausprobiert und es so formuliert: er schmeckt so wie er aussieht und ist bestenfalls als Mischpilz verwendbar. 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/gymnopus_fusipes_03_he.jpg" %}
