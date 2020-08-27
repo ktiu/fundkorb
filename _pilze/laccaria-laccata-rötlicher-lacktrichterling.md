@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/l/Laccaria_laccata.html
 ---
-Zwei kleine Blätterpilzchen, die sich in der Form nahezu gleichen, in der Farbe aber deutlich unterscheiden – das sind der Violette und der Rötliche Lacktrichterling. Während der Violette fast ausschließlich in Wäldern vorkommt, ist der Rötliche häufiger in Parkanlagen oder an grasigen Wegrändern zu finden. Beide zeichnen sich durch relativ dicke, entfernt stehende Lamellen aus, die mehrfach durch verkürzte Lameletten untermischt sind. Die Hüte werden etwa 1 bis maximal 5 cm breit und sind meist undeutlich gerieft.
+Zwei kleine Blätterpilzchen, die sich in der Form nahezu gleichen, in der Farbe aber deutlich unterscheiden – das sind der Rötliche und der [Violette Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling). Während der Violette fast ausschließlich in Wäldern vorkommt, ist der Rötliche häufiger in Parkanlagen oder an grasigen Wegrändern zu finden. Beide zeichnen sich durch relativ dicke, entfernt stehende Lamellen aus, die mehrfach durch verkürzte Lameletten untermischt sind. Die Hüte werden etwa 1 bis maximal 5 cm breit und sind meist undeutlich gerieft.
 
 Beide dürfen ohne Einschränkung als gute Speisepilze bezeichnet werden und geben einem Mischpilzgericht violette bzw. rötliche Farbtupfer mit. Obwohl ein einzelner Hut nicht viel hergibt, macht ihr meist herdenartiges Auftreten das Sammeln lohnend. Die etwas zähen Stiele sollten weggelassen werden.
 
