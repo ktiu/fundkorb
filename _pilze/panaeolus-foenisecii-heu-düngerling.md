@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/p/Panaeolina_foenisecii.html
 ---
-Düngerlinge haben mit ihren dunklen, typisch gescheckten Lamellen ein in der Praxis zuverlässig anwendbares Gattungsmerkmal. Zwei der ca. 10 mitteleuropäischen Düngerlingsarten sind zudem recht gut makroskopisch zu erkennen: der Ring-Düngerling *Panaeolus semiovatus* (sofern sein flüchtiger Ring sichtbar ist) und der Glocken-Düngerling *Panaeolus papilionaceus* (sofern der Hutrand mit Velumresten behangen ist). Bei den übrigen Arten wird es schon schwieriger und eine sichere Bestimmung ist oft nur unter Heranziehung mikroskopischer Merkmale möglich.
+Düngerlinge haben mit ihren dunklen, typisch gescheckten Lamellen ein in der Praxis zuverlässig anwendbares Gattungsmerkmal. Zwei der ca. 10 mitteleuropäischen Düngerlingsarten sind zudem recht gut makroskopisch zu erkennen: der Ring-Düngerling *Panaeolus semiovatus* (sofern sein flüchtiger Ring sichtbar ist) und der Glocken-Düngerling *[Panaeolus papilionaceus](/pilze/panaeolus-papilionaceus-behangener-düngerling-glocken-düngerling)* (sofern der Hutrand mit Velumresten behangen ist). Bei den übrigen Arten wird es schon schwieriger und eine sichere Bestimmung ist oft nur unter Heranziehung mikroskopischer Merkmale möglich.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/panaeolus_foenisecii_02_dg.jpg" %}
@@ -33,8 +33,6 @@ Während der Sommermonate genügt selbst nach längerer Trockenheit ein kurzer R
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/panaeolus_foenisecii_05_dg.jpg" %}
 {% include abbildung_ende.html legende="Der Heu-Düngerling ist eine sehr variable Art. Die Exemplare auf diesem Foto, in unmittelbarer Nähe zu einem  Misthaufen aufgenommen, waren trocken und verrieten ihre Gattungszugehörigkeit durch gescheckte Lamellen. Ornamentierte Sporen (siehe Foto unten) hat unter den Düngerlingen nur Panaeolus foenisecii." %}
-
-
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/panaeolus_foenisecii_06_fk.jpg" %}
