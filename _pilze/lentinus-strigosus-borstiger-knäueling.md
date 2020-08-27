@@ -45,7 +45,7 @@ Der vom Habitus ähnliche und häufige Laubholz-Knäueling *Lentinus torulosus* 
 {% include bild.html datei="/bilder/lentinus_strigosus_01_hr.jpg" %}
 {% include abbildung_ende.html legende="Foto: Harry Regin" %}
 
-Ziemliche Verwirrung herrscht um seinen gültigen Namen. Laut *Index Fungorum* kehrt der Borstige Knäueling wieder in seine frühere Gattung *Panus* zurück, erhält jetzt aber von Drechsler-Santos & Wartschow (2012) den neuen Artnamen *neostrigosus*, während die Fries´sche Art *Panus rudis* von 1838 weiter besteht und ihren Namen beibehält. In der Synonymiliste fehlt allerdings der Name Panus rudis. Bis zur Klärung dieser Ungereimtheiten halte ich mich an das in meiner aktuellen Literatur verwendete Taxon *Lentinus strigosus*, unter dem auch (siehe Großpilze BWs Band 3 S. 17) Panus rudis und Panus lecomtei synonymisiert sind.
+Ziemliche Verwirrung herrscht um seinen gültigen Namen. Laut *Index Fungorum* kehrt der Borstige Knäueling wieder in seine frühere Gattung *Panus* zurück, erhält jetzt aber von Drechsler-Santos & Wartschow (2012) den neuen Artnamen *neostrigosus*, während die Fries´sche Art *Panus rudis* von 1838 weiter besteht und ihren Namen beibehält. In der Synonymieliste fehlt allerdings der Name Panus rudis. Bis zur Klärung dieser Ungereimtheiten halte ich mich an das in meiner aktuellen Literatur verwendete Taxon *Lentinus strigosus*, unter dem auch (siehe Großpilze BWs Band 3 S. 17) Panus rudis und Panus lecomtei synonymisiert sind.
 
 
 Andere Länder – andere Sitten: in Thailand ist der bei uns als ungenießbar geltende Borstige Knäueling eine weit verbreitete Art und wird (!) eifrig gesammelt und gegessen. In diesem [Video](https://youtu.be/crYtKSc6yC8) kann man den Thais beim „Ernten“ zuschauen.
