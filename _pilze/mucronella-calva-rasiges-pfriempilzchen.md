@@ -13,7 +13,7 @@ hauptbild:
   datei: /bilder/mucronella_calva_01_dg.jpg
   legende: 30.12.2018 im Steinberger Wald bei Dietzenbach
 ---
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mucronella_calva_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
