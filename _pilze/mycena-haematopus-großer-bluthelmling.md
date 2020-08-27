@@ -16,7 +16,7 @@ literatur:
 ---
 Die rund 100 in Deutschland vorkommenden Helmlingsarten sind in 26 Sektionen eingeteilt. Das war zumindest noch so, bevor übereifrige Mykologen auch die Gattung Mycena zu zerpflücken begannen. 
 
-Eine gut kenntliche Sektion ist die der *Lactipedes*, der milchenden Helmlinge. Ihr gemeinsames Merkmal sind Milchsaft führende [Hyphen](<Hyphen "Glossar">) in den Stielen. Der Begriff „Milch“ ist insofern irreführend, als nur eine der fünf in dieser Gruppe zusammengefassten Arten eine weiße Flüssigkeit abgibt. Die Milch tritt aus, wenn man die Stiele anbricht oder anschneidet, am reichlichsten in deren Basis. Anhand der „Milch“-Farbe sind sie leicht zu unterscheiden, jedoch mit der Einschränkung, dass es zwei weiß- und zwei rotmilchende Helmlinge gibt. 
+Eine gut kenntliche Sektion ist die der *Lactipedes*, der milchenden Helmlinge. Ihr gemeinsames Merkmal sind Milchsaft führende [Hyphen](Hyphen "Glossar") in den Stielen. Der Begriff „Milch“ ist insofern irreführend, als nur eine der fünf in dieser Gruppe zusammengefassten Arten eine weiße Flüssigkeit abgibt. Die Milch tritt aus, wenn man die Stiele anbricht oder anschneidet, am reichlichsten in deren Basis. Anhand der „Milch“-Farbe sind sie leicht zu unterscheiden, jedoch mit der Einschränkung, dass es zwei weiß- und zwei rotmilchende Helmlinge gibt. 
 
 Der Große Bluthelmling wächst gesellig bis büschelig auf Laubholz und hat eine dunkel- bis blutrote Milch, der Purpurschneidige Bluthelmling kommt eher vereinzelt vor, besiedelt kein massives Holz sondern Holzreste in der Bodenstreu und seine Milch ist wässrig rot. Außerdem ist er sehr viel kleiner und seine Lamellen haben eine purpurbräunliche Schneide. 
 
