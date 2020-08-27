@@ -19,9 +19,9 @@ Beim Rotstieligen Büschelrübling ist schon der Name eine Kurzbeschreibung. Er 
 
 ##### Mikroskopische Unterscheidungsmerkmale:
 
-**Gymnopus aquosus** = Hellblättriger Waldfreundrübling: Sporen 4,5 – 7 x 2 – 4 µm; [Cheilozystiden](Cheilozystiden "Glossar") unregelmäßig keulig, meist ohne Auswüchse\
-**[Gymnopus dryophilus](/pilze/gymnopus-dryophilus-waldfreundrübling)** = Gemeiner Waldfreundrübling: Sporen 3,5 – 7 x 2 – 4 µm; Cheilozystiden unregelmäßig keulig mit korallenartigen Auswüchsen\
-**Gymnopus erythropus** = Rotstieliger Büschelrübling: Sporen 6 – 8 x 3 – 4 µm; Cheilozystiden unregelmäßig keulig mit kurzen Fortsätzen oder fingerförmigen Auswüchsen\
+**Gymnopus aquosus** = Hellblättriger Waldfreundrübling: Sporen 4,5 – 7 x 2 – 4 µm; [Cheilozystiden](Cheilozystiden "Glossar") unregelmäßig keulig, meist ohne Auswüchse  
+**[Gymnopus dryophilus](/pilze/gymnopus-dryophilus-waldfreundrübling)** = Gemeiner Waldfreundrübling: Sporen 3,5 – 7 x 2 – 4 µm; Cheilozystiden unregelmäßig keulig mit korallenartigen Auswüchsen  
+**Gymnopus erythropus** = Rotstieliger Büschelrübling: Sporen 6 – 8 x 3 – 4 µm; Cheilozystiden unregelmäßig keulig mit kurzen Fortsätzen oder fingerförmigen Auswüchsen  
 **[Gymnopus ocior](/pilze/gymnopus-ocior-gelbblättriger-rübling)** = Gelbblättriger Waldfreundrübling: Sporen 5 – 6,5 x 3 – 4 µm; Cheilozystiden schlank keulig bis gestielt kugelförmig, selten mit einem oder mehreren fingerförmigen Auswüchsen
 
 Aufgrund fließender Übergänge sowohl bei den Makro- wie bei den Mikromerkmalen ist die Abgrenzung der einzelnen Arten oft schwierig, weshalb ihre taxonomische Stellung von manchen Mykologen als strittig angesehen wird. Als ich begann, mich intensiver mit Pilzen zu befassen, war es noch einfacher. Da war ein Waldfreundrübling eben ein Waldfreundrübling und hieß *Collybia dryophila*.
