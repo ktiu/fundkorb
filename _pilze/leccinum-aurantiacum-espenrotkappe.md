@@ -16,14 +16,14 @@ Wozu in den Wald gehen? Die tollsten Pilze findet man oft mitten in seiner Heima
 
 Die Raustielröhrlinge (Raufüße, Leccinum) lassen sich pauschal in zwei Gruppen und einen Außenseiter einteilen:
 
-**„Birkenpilze“** mit grauen bis graubraunen Hüten, [Trama](Trama "Glossar") nicht oder rosa bis rötlich verfärbend\
+**„Birkenpilze“** mit grauen bis graubraunen Hüten, [Trama](Trama "Glossar") nicht oder rosa bis rötlich verfärbend  
 **„Rotkappen“** mit roten bis rotbraunen Hüten, Trama dunkelgrau bis schwarzviolett verfärbend, sofort oder nach einer anfänglichen rosaroten bis lachsfarbenen Reaktion. Bei ihnen fällt auch die über den Hutrand hinausreichende Huthaut auf, die bis auf die Poren übergreifen kann:
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/leccinum_aurantiacum_02_xx.jpg" %}
 {% include abbildung_ende.html legende="auf die Röhrenschicht übergreifende Huthaut" %}
 
-**Der „Außenseiter“** ist Leccinum crocipodium (Gelbporiger Raufuß) mit gelben Poren
+**Der „Außenseiter“** ist [Leccinum crocipodium](/pilze/leccinum-crocipodium-gelbporiger-raufuß) (Gelbporiger Raufuß) mit gelben Poren
 
 In beiden Gruppen spielen Begleitbäume als Mykorrhizapartner eine wichtige Rolle. In vielen Fällen entscheidet der Baumpartner über die Artzugehörigkeit, so auch bei der Espenrotkappe, die ausschließlich bei Espen vorkommt. Sie ist außerdem durch eine meist orangerote Huthautfarbe und die hellen Stielschüppchen, die sich mit zunehmendem Alter rötlich färben, gekennzeichnet. Das Fleisch verfärbt sich im Anschnitt (vor allem im Stiel) weinrötlich, dann violettlich, zuletzt blaugrün bis violettschwärzlich. Auch die Röhren verfärben auf Druck dunkel.
 
