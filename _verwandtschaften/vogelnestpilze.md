@@ -1,21 +1,20 @@
 ---
 titel: Vogelnestpilze
-synonym:
+synonym: null
+autor_in: Dieter Gewalt
 hauptbild:
   datei: bilder/Nidularia_deformis_01_TL.jpg
   anzeige: true
   legende: "Nidularia deformis - Vollgestopfter Nestling (Foto: Thomas Lehr)"
-autor_in: Dieter Gewalt
 erstellt: 2009-03-15
-aktualisiert:
-literatur:
+aktualisiert: null
+literatur: null
 ---
-
 Man hat noch keine brütenden Vögel auf ihnen sitzen gesehen, aber es gibt sie wirklich, diese Vogelnestpilze. Während sie im angelsächsischen Sprachraum den schönen und ihr Aussehen bildhaft beschreibenden Namen "Bird´s Nest Fungi" tragen, werden bei uns zumindest die häufigen Arten Teuerlinge genannt. Die etwas unverständlich erscheinende Bezeichnung stammt aus dem Mittelalter, als man anhand der Anzahl in ihnen liegender Peridiolen glaubte, auf Teuerungszeiten schließen zu können. Immerhin heißt auch bei uns die Gattung Nidularia "Nestlinge".
 
 Es ruft immer wieder Erstaunen hervor, wenn man mykologisch weniger erfahrene Naturfreunde auf einen Fund kleiner Teuerlinge aufmerksam macht. "Das sollen Pilze sein?" bekommt man dann desöfteren zu hören und weist an ihrem Beispiel auf den Formenreichtum dieser Organismen hin. Um sie zu finden, muss man nur die Augen offen halten. Sie wachsen auf totem Holz oder Pflanzenresten, gern an Wegrändern oder auf gemulchten Flächen. Sehr selten ist hingegen der mit ihnen verwandte Vollgestopfte Nestling Nidularia deformis. Im Gegensatz zu den Teuerlingen mit ihren ordentlich geformten Tütchen und Töpfchen sehen seine Fruchtkörper eher wie aufgeplatzte Kartoffelsäcke aus - nur eben im Miniformat. Sie sind winzig klein, erreichen oft nicht einmal eine Breite von einem Zentimeter. Die Peridiolen (das sind die linsenförmigen Gebilde im Inneren der Fruchtkörper, in denen die Sporen gebildet werden) haben lediglich einen Durchmesser von etwa einem Millimeter.
 
-Die zu den [Bauchpilzen](Bauchpilze "Glossar") gehörige Familie der Nestlingsartigen (Nidulariaceae) besteht in Mitteleuropa aus drei Gattungen mit insgesamt fünf Arten, die sich problemlos makroskopisch unterscheiden lassen. Um das nachvollziehen zu können, sei hier ein einfach zu handhabender Bestimmungsschlüssel angefügt:
+Die zu den [Bauchpilzen](Bauchpilze "Glossar") gehörige Familie der [Nestlingsartigen (Nidulariaceae)](/admin/#/collections/verwandtsdchaften/entries/vogelnestpilze) besteht in Mitteleuropa aus drei Gattungen mit insgesamt fünf Arten, die sich problemlos makroskopisch unterscheiden lassen. Um das nachvollziehen zu können, sei hier ein einfach zu handhabender Bestimmungsschlüssel angefügt:
 
 <div class="table-responsive">
 <table class="table">
