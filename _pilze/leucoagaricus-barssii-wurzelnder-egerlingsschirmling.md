@@ -19,5 +19,5 @@ Der Wurzelnde Egerlingsschirmling war für mich einer der Funde im trocken-heiß
 Nachtrag: In den Jahren 2019 und 2020 wurde der Wurzelnde Egerlingsschirmling auch an zwei etwa 300 m voneinander entfernten Stellen in zwei Parkanlagen Umgebung in Dietzenbach gefunden (Dieter Gewalt):
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/leucoagaricus_barssii_02_dg.jpg" %}
+{% include bild.html datei="/bilder/leucoagaricus_barssii_02_dg.jpg" gross=true %}
 {% include abbildung_ende.html legende="13.08.2019 Zentrale Parkanlage Dietzenbach (Foto: Dieter Gewalt)" %}
