@@ -1,6 +1,7 @@
 ---
 title: Fundkorbküche
 navi: /rezepte
+regenerate: true
 permalink: rezepte
 ---
 
