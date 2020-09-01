@@ -4,7 +4,7 @@ beschreibung:
   deutsch: „Pollenfänger“
   referenz: "D.L. Olivier 1978 "
   synonym: "Abteilung: Ascomycota"
-  familie: "?"
+  familie: vermutliche eine anamorphe Hyalorbilia
 profil:
   aktualisiert: 2020-08-13
   autor_in: Dieter Gewalt
