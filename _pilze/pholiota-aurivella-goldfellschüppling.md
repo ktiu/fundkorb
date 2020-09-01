@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/p/Pholiota_aurivella.html
 ---
-Ein Fell hat er nicht, auch wenn sein wissenschaftlicher Artname aurivella „Goldfell“ bedeutet. Nur ein paar dunkle Haarbüschel, die in der Schleimschicht eingebettet sind. Nicht selten wächst er aus Wunden in der Rinde oder Rissen im Holz, die er in der Regel aber nicht verursacht hat. Der Goldfellschüppling ist ein [Saprobiont](Saprobiont "Glossar"), der über solche Stammwunden und Astabbrüche bis ins Kernholz lebender Bäume eindringen und dort eine Braunfäule erzeugen kann. Am häufigsten ist er aber an totem, noch wenig vermorschtem Holz zu finden, vor allen an Buchen. Bei feuchtem Wetter ist der Pilz so schleimig, dass man ihn kaum anzufassen wagt. Der Stiel ist eher trocken.
+Ein Fell hat er nicht, auch wenn sein wissenschaftlicher Artname aurivella „Goldfell“ bedeutet. Nur ein paar dunkle Haarbüschel, die in der Schleimschicht eingebettet sind. Nicht selten wächst er aus Wunden in der Rinde oder Rissen im Holz, die er in der Regel aber nicht verursacht hat. Der Goldfellschüppling ist ein [Saprobiont](saprobiontisch "Glossar"), der über solche Stammwunden und Astabbrüche bis ins Kernholz lebender Bäume eindringen und dort eine Braunfäule erzeugen kann. Am häufigsten ist er aber an totem, noch wenig vermorschtem Holz zu finden, vor allen an Buchen. Bei feuchtem Wetter ist der Pilz so schleimig, dass man ihn kaum anzufassen wagt. Der Stiel ist eher trocken.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pholiota_aurivella_02_dg.jpg" %}
