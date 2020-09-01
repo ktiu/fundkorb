@@ -20,7 +20,7 @@ literatur:
 
 Dass der Lungenseitling an aufrecht stehenden Bäumen wächst, ist eher die Ausnahme. Am häufigsten findet man ihn an liegenden noch berindeten Buchenstämmen. Dass er von Pilzfliegen besucht wird, habe ich schon oft beobachtet.
 
-Wenn die Huthaut so deutlich weißlich, höchstens hellgrau gefärbt ist wie auf dem Foto oben, ist die Zuordnung recht problemlos. Das ist nicht immer der Fall, und dann sieht er einem nahen Verwandten, dem bekannteren Austernseitling Pleurotus ostreatus, der an den gleichen Laubholzarten vorkommt, zum Verwechseln ähnlich. Hin und wieder findet man sogar beide am gleichen Stamm.
+Wenn die Huthaut so deutlich weißlich, höchstens hellgrau gefärbt ist wie auf dem Foto oben, ist die Zuordnung recht problemlos. Das ist nicht immer der Fall, und dann sieht er einem nahen Verwandten, dem bekannteren Austernseitling [Pleurotus ostreatus](/pilze/pleurotus-ostreatus-austernseitling), der an den gleichen Laubholzarten vorkommt, zum Verwechseln ähnlich. Hin und wieder findet man sogar beide am gleichen Stamm.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/pleurotus_ostreatus_03_dg.jpg" %}
@@ -85,6 +85,6 @@ Bei *123pilze* will man mit der höchst merkwürdigen Formulierung „Lamellen u
 
 Infos zum Ohrförmigen Seitling:
 
-<https://www.deutschlandfunkkultur.de/speisepilz-wird-giftpilz.993.de.html?dram:article_id=154417>  
-<http://tintling.com/inhalt/2012/Pleurocybella_porrigens.pdf>  
+<https://www.deutschlandfunkkultur.de/speisepilz-wird-giftpilz.993.de.html?dram:article_id=154417>\
+<http://tintling.com/inhalt/2012/Pleurocybella_porrigens.pdf>\
 <http://tintling.com/pilzbuch/arten/p/Pleurocybella_porrigens.html>
