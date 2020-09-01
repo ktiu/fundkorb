@@ -22,7 +22,7 @@ Für Gourmets ist er der Winterpilz schlechthin. So manchem hat er schon nach ei
 
 Den meisten Supermarktkunden ist er als Austernpilz bekannt, aber das ist sein Handelsname und die dort angebotene Ware stammt aus Zuchtbetrieben. Korrekt muss er Austernseitling heißen, denn er gehört zur Gattung der Seitlinge. Das erscheint plausibel, denn die Pilze wachsen vorzugsweise seitlich an Holz und haben seitlich am Hut ansitzende verkürzte Stiele mit weit herablaufenden Lamellen. Fruchtkörper, die auf Schnittflächen von Stümpfen wachsen, sind dagegen meist zentral gestielt.
 
-Wenn die Huthaut so deutlich blau- oder stahlgrau gefärbt ist wie auf den Fotos oben, ist die Zuordnung recht problemlos. Das ist nicht immer der Fall. Die Hutfarben können auch blasser sein, und dann ist er optisch kaum von einem nahen Verwandten, dem Lungenseitling Pleurotus pulmonarius, zu unterscheiden, der an den gleichen Laubholzarten vorkommt. Hin und wieder findet man sogar beide am gleichen Stamm.
+Wenn die Huthaut so deutlich blau- oder stahlgrau gefärbt ist wie auf den Fotos oben, ist die Zuordnung recht problemlos. Das ist nicht immer der Fall. Die Hutfarben können auch blasser sein, und dann ist er optisch kaum von einem nahen Verwandten, dem Lungenseitling [Pleurotus pulmonarius](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling), zu unterscheiden, der an den gleichen Laubholzarten vorkommt. Hin und wieder findet man sogar beide am gleichen Stamm.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/pleurotus_ostreatus_03_dg.jpg" %}
@@ -77,7 +77,6 @@ Wenn die Huthaut so deutlich blau- oder stahlgrau gefärbt ist wie auf den Fotos
     </tbody>
   </table>
 </div>
-
 
 Wie man sieht, sind die aufgeführten Unterschiede in der Praxis nur schwer nachzuvollziehen, zumal man kaum einmal beide Arten zum Vergleichen in Händen hat. Die Angaben zur Dicke der Huthaut sind im Zehntel-Millimeter-Bereich, also auch nicht gerade hilfreich. Und hellere Austernseitlinge sind farblich kaum von etwas dunkler geratenen Lungenseitlingen zu unterscheiden. Für die Küche ist das ohne Belang, denn beide sind gute Speisepilze von gleicher 
 Wertigkeit.
