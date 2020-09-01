@@ -24,5 +24,4 @@ Nachtrag: In den Jahren 2019 und 2020 wurde der Wurzelnde Egerlingsschirmling au
 
 Ab hier erst mal Test:
 
-Einfügen Link zu Vogelnestpilzen.
-
+Einfügen Link zu [Vogelnestpilzen](/admin/#/collections/verwandtsdchaften/entries/vogelnestpilze).
