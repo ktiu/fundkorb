@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/p/Phellinus_igniarius.html
 ---
-Die Feuerschwämme gehören zur Familie der *Hymenochaetaceae*. Deren charakteristisches Merkmal ist die braune Trama, die sich mit Kalilauge violett-schwarz verfärbt. Die ein- oder mehrjährigen Fruchtkörper sind konsolen-, seltener krustenförmig, ihr [Hymenophor](Hymenophor "Glossar") zur Vergrößerung der fertilen Oberfläche ist glatt oder röhrig. Die wichtigsten Gattungen sind Borstenscheiben (Hymenochaete), Schillerporlinge (Inonotus) und Feuerschwämme (Phellinus).
+Die Feuerschwämme gehören zur Familie der *Hymenochaetaceae*. Deren charakteristisches Merkmal ist die braune [Trama](Trama "Glossar"), die sich mit Kalilauge violett-schwarz verfärbt. Die ein- oder mehrjährigen Fruchtkörper sind konsolen-, seltener krustenförmig, ihr [Hymenophor](Hymenophor "Glossar") zur Vergrößerung der fertilen Oberfläche ist glatt oder röhrig. Die wichtigsten Gattungen sind Borstenscheiben (Hymenochaete), Schillerporlinge (Inonotus) und Feuerschwämme (Phellinus).
 
 Eine der häufigsten Phellinus-Arten ist der Gemeine Feuerschwamm, dessen Fruchtkörper konsolen- bis hufförmig sind. Sie sind breit am Substrat angewachsen und nur schwer ablösbar. Die Oberseite ist graubraun bis grauschwarz, im Alter oft rissig. Er wächst an Laubbäumen, insbesondere an Weiden, im Kulturland auch häufig an älteren Apfelbäumen. Er ist ein wenig aggressiver Schadpilz, der dem befallenen Baum noch viele Lebensjahre lässt.
 
