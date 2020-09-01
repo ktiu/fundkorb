@@ -23,4 +23,4 @@ Im Jahre 2004 besuchte eine Gruppe von Pilzfreunden den Pilzzuchtbetrieb Kubach 
 
 Sein natürliches Verbreitungsareal ist Asien und Afrika. Aufgrund spezifischer Inhaltsstoffe hat er eine gewisse Bedeutung als Heilpilz und wird bei der Behandlung von Lungenemphysemen eingesetzt.
 
-Der Pilz wird nach neueren Quellen als Varietät zum Rillstieligen Seitling *Pleurotus cornucopiae* gestellt.
+Der Pilz wird nach neueren Quellen als Varietät zum Rillstieligen Seitling *[Pleurotus cornucopiae](/pilze/pleurotus-cornucopiae)* gestellt.
