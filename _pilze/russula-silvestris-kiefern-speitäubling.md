@@ -63,6 +63,6 @@ Die Fruchtkörper der drei anderen sind sehr zerbrechlich, ihre Huthaut ist eher
 In feuchten Weißtannen- und Fichtenwäldern in Sphagnum-Moosen, überwiegend montan und submontan, Huthaut fettig glänzend, dünn, kaum ausblassend, leicht abziehbar = Russula emetica (Kirschroter Speitäubling)
 Bei Kiefern, auch unter Laubbäumen, auf trockenen, sandigen Böden, Huthaut dunkelrot, aber oft stark ausblassend = Russula silvestris (Kiefern-Speitäubling)
 
-Ausschließlich bei Birken, Huthaut meist lila oder rosalich getönt, oft stark aufhellend = Russula betularum (Birken-Speitäubling)
+Ausschließlich bei Birken, Huthaut meist lila oder rosalich getönt, oft stark aufhellend = [Russula betularum](/pilze/russula-betularum-birken-speitäubling) (Birken-Speitäubling)
 
 Es existiert noch ein weiterer Speitäubling, Russula fragilis, der Wechselfarbige Speitäubling, der eine andere Huthautpigmentierung aufweist und nicht zu den Speitäublingen im engeren Sinne (Sektion Emeticinae) gehört.
