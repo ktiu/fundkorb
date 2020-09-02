@@ -50,5 +50,5 @@ Der zu den Kammtäublingen (kammartig geriefte Hutränder) gehörige Kratzende K
 
 ##### Verwechslung:
 
-**[Russula amoenolens](/pilze/russula-amoenolens-camembert-täubling)** (scharf) Camembert-Täubling\
+**[Russula amoenolens](/pilze/russula-amoenolens-camembert-täubling)** (scharf) Camembert-Täubling  
 **[Russula insignis](/pilze/russula-insignis-milder-kammtäubling)** (mild, nicht kratzend) Milder Kamm-Täubling
