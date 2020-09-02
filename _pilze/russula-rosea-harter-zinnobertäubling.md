@@ -50,4 +50,4 @@ Seine Lamellen verfärben sich durch ausfallendes Sporenpulver cremegelb, die Hu
 
 Wie die allermeisten Täublinge ist auch dieser ziemlich farbvariabel. Sein glanzloses Rot variiert von kirsch- oder zinnober- bis rosarot und von hell bis dunkel, oft gelblich oder weißlich entfärbend. Bei Trockenheit neigen die Hüte dazu, streifig oder schollig aufzureißen. Die Stiele sind weiß, nicht selten auch mehr oder weniger rötlich überhaucht.
 
-Von unerfahrenen Sammlern wird er manchmal für einen Speisetäubling gehalten, der jedoch weniger hartfleischig ist und durch seine etwas zu kurz geratene und zu einem Drittel abziehbare Huthaut deutlich unterschieden ist.
+Von unerfahrenen Sammlern wird er manchmal für einen [Speisetäubling](/pilze/russula-vesca-frauentäubling) gehalten, der jedoch weniger hartfleischig ist und durch seine etwas zu kurz geratene und zu einem Drittel abziehbare Huthaut deutlich unterschieden ist.
