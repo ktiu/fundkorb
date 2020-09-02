@@ -26,9 +26,13 @@ Nachtrag: In den Jahren 2019 und 2020 wurde der Wurzelnde Egerlingsschirmling au
 {% include bild.html datei="/bilder/leucoagaricus_barssii_03_dg.jpg" %}
 {% include abbildung_ende.html legende="26.08.2020 Dietzenbach, Carré Rodgaustraße (Foto: Dieter Gewalt)" %}
 
-{% include abbildung_start.html stil="standard" %}
-{% include abbildung_ende.html legende="Sporen" %}
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/leucoagaricus-barssii_04_fk.jpg" %}
+{% include bild.html datei="/bilder/leucoagaricus_barssii_05-fk.jpg" %}
+{% include abbildung_ende.html legende="Zwei Mikrofotos (Sporen - rechts in Melzers = dextrinoid): Frank Kaster" %}
 
-Ab hier erst mal Test:
+Bei der mikroskopischen Sporenuntersuchung durch Frank Kaster fiel auf, dass sehr vereinzelte Sporen einen Keimporus hatten. Die Maße betrugen 6,4 - 7,8 x 4,3 - 5,0.
+
+##### Ab hier erst mal Test:
 
 Einfügen Link zu [Vogelnestpilzen](/admin/#/collections/verwandtsdchaften/entries/vogelnestpilze).
