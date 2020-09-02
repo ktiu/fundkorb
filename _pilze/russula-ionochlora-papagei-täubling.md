@@ -18,7 +18,7 @@ literatur:
 {% include bild.html datei="/bilder/russula_ionochlora_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Sieht aus wie ein kleiner Frauentäubling, hat aber splitternde Lamellen. So kann man in einem Satz den Papagei-Täubling charakterisieren. Leider hat er aber auch wie dieser eine enorme Farbvariabilität. Das Spektrum wird mit grauviolett, blauviolett, lilarötlich, blaugrau, rosa-violett, violett-grünlich, dazu noch gelblich bis creme-ocker ausblassend beschrieben. Bei Wikipedia wird es so zusammengefasst:
+Sieht aus wie ein kleiner [Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling), hat aber splitternde Lamellen. So kann man in einem Satz den Papagei-Täubling charakterisieren. Leider hat er aber auch wie dieser eine enorme Farbvariabilität. Das Spektrum wird mit grauviolett, blauviolett, lilarötlich, blaugrau, rosa-violett, violett-grünlich, dazu noch gelblich bis creme-ocker ausblassend beschrieben. Bei Wikipedia wird es so zusammengefasst:
 
 > „Der Hut weist verschiedene, stark variierende Farbtöne auf.“
 
