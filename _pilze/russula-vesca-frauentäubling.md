@@ -32,7 +32,7 @@ Die Huthaut ist etwa zur Hälfte abziehbar. Die Farben werden mit fleisch- bis r
 {% include bild.html datei="/bilder/russula_vesca_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Ebenfalls nussig und mild ist das Fleisch des Harten Zinnobertäublings (*Russula rosea*), der zubereitet jedoch eine im wahrsten Sinne des Wortes bittere Enttäuschung ist. Seine Lamellen verfärben sich durch ausfallendes Sporenpulver gelblich, die Huthaut ist nicht oder nur ganz am Rand abziehbar und der gesamte Fruchtkörper fühlt sich hammerhart an.
+Ebenfalls nussig und mild ist das Fleisch des [Harten Zinnobertäublings](/pilze/russula-rosea-harter-zinnobertäubling) (*Russula rosea*), der zubereitet jedoch eine im wahrsten Sinne des Wortes bittere Enttäuschung ist. Seine Lamellen verfärben sich durch ausfallendes Sporenpulver gelblich, die Huthaut ist nicht oder nur ganz am Rand abziehbar und der gesamte Fruchtkörper fühlt sich hammerhart an.
 
 Ein wichtiges Merkmal bei den Täublingen ist die Sporenpulverfarbe. Beim Speisetäubling ist sie weiß und daher kann das bei Reife abgegebene Sporenpulver die von Natur aus weißen Lamellen auch im Alter nicht verfärben. Sie bleiben weiß.
 
