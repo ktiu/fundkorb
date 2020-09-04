@@ -32,6 +32,5 @@ Wer das Schwefelgelbe Haarbecherchen auf Brennnesselstängeln sucht, wird auch a
   * Cyathicula cyathoidea = Pokalförmiger Stängelbecherling
   * Hymenoscyphus herbarum = Kraut-Stängelbecherling
   * Leptosphaeria acuta = Zugespitzter Kugelpilz
-* auf frischen Brennnesseln, ca. Mai bis Juli:
-
-  * [Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost) = Brennnesselrost
+* auf frischen Brennnesseln, ca. Mai bis Juli:  
+* [Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost) = Brennnesselrost
