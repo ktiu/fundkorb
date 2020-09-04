@@ -15,6 +15,8 @@ hauptbild:
 literatur:
   - text: Pilzkrankheiten an Bergahorn
     url: https://www.lwf.bayern.de/mam/cms04/waldschutz/dateien/lwf-wissen62-bergahorn.pdf
+  - text: "pdf-Download oder online lesen:"
+    url: https://sites.google.com/site/flavcabarlo/home/die-russr-en2tka3dslpqg
 ---
 Cryptostroma corticale ist ein Schimmelpilz, der vor allem jüngere Ahornbäume befällt. Er entwickelt sich unter der Rinde und sprengt diese ab. Er wird auch als Endophyt und Schwächeparasit beschrieben.
 Sichtbar wird der Pilz als schwarzer staubartiger Sporenbelag auf entrindetem Holz. Er stammt ursprünglich aus Nordamerika und wurde 2005 erstmals in Deutschland beobachtet. Seither hat er erhebliche Schäden an Ahornbäumen verursacht. Zuerst welken die Blätter, dann lichten sich die Kronen und die Bäume sterben ab. Im Splintholz zeigen sich großflächige Verfärbungen. Um eine Weiterverbreitung des Schadpilzes einzudämmen, müssen die Bäume schnellstens gefällt werden, ihr Holz darf nur abgedeckt transportiert und nicht als Brennholz verkauft werden.
