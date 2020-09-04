@@ -8,7 +8,7 @@ beschreibung:
   erlaeuterung: Colchicum autumnale = Herbstzeitlose
 profil:
   aktualisiert: 2020-08-19
-  autor_in: Hermine Lotz_Winter
+  autor_in: Hermine Lotz-Winter
 hauptbild:
   anzeige: true
   datei: /bilder/urocystis_colchici_01_hl.jpg
