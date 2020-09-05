@@ -29,7 +29,7 @@ Die becherförmigen Fruchtkörper dieser beiden Arten erreichen nur selten Durch
 
 Um sicher zu gehen, sollte neben makroskopischen Merkmalen auch die Sporengröße geprüft werden, die deutliche Unterschiede aufweisen:
 
-Lachnum villosa: 10 - 14 x 7 - 9 µm
+Lachnum villosa: 10 - 14 x 7 - 9 µm  
 Lachnum alboviolascens: 14 - 17 x 9 - 12 µm
 
 {% include abbildung_start.html stil="klein" %}
