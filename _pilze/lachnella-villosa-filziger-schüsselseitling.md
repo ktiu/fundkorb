@@ -15,13 +15,13 @@ hauptbild:
 literatur:
   - url: https://asco-sonneberg.de/pages/gallery/lachnella-villosa-110703-01xs21191.php
 ---
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/lachnella_villosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Beim Anblick solcher Becherchen, was dem Betrachter nur mit einer gut vergrößernden Lupe möglich ist, denkt man natürlich sofort an einen [Ascomyzeten](Ascomyzeten "Glossar"). Bei einer mikroskopischen Untersuchung wird man aber statt der erwarteten Schläuche ([Asci](Asci "Glossar")) [Basidien](Basidien "Glossar") finden und den Irrtum erkennen. Wer sich auskennt, zieht dann vor allem die Gattung Lachnella (Schüsselseitlinge) in Betracht und hat sich zwischen zwei Arten zu entscheiden.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/lachnun_villosa_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -32,7 +32,7 @@ Um sicher zu gehen, sollte neben makroskopischen Merkmalen auch die Sporengröß
 Lachnum villosa: 10 - 14 x 7 - 9 µm
 Lachnum alboviolascens: 14 - 17 x 9 - 12 µm
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/lachnella_villosa_02_iw.jpg" %}
 {% include abbildung_ende.html legende="Foto: Ingo Wagner (ASCO-SONNEBERG)    an liegendem totem Distelstängel" %}
 
