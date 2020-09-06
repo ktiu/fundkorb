@@ -17,7 +17,7 @@ literatur:
 ---
 Die Gattung Zwergknäuelinge ist in Deutschland mit 5 Arten vertreten. Sie wachsen alle an Holz und haben weißes Sporenpulver. Darunter sind zwei makroskopisch leicht kenntliche Arten mit deutlichem Stiel:
 
-Panellus stipticus = Herber Zwerknäueling\
+Panellus stipticus = Herber Zwerknäueling  
 Panellus serotinus = Gelbstieliger Muschelseitling
 
 Die drei anderen sind ± ungestielt sowie seitlich oder mit dem Hutscheitel am Substrat angewachsen.
