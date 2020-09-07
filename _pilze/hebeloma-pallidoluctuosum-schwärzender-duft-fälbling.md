@@ -49,14 +49,10 @@ Bei der Bestimmung von Fälblingen spielen Gerüche eine nicht unerhebliche Roll
       </tr>
     </tbody>
   </table>
-</div>
 
 
-Sporen:	 				warzig					schwach warzig
 
-Cheilozystiden: 	      		        bis 55 µm lang			               bis 105 µm lang
 
-Hutdeckschicht:                        aus aufsteigenden Hyphen          	             aus parallel liegenden bis unregelmäßig 			                                       bestehend                                             verflochtenen Hyphen bestehend
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/hebeloma_pallidoluctuosum_013_fk.jpg" %}
