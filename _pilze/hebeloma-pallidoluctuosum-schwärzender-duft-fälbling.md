@@ -51,9 +51,6 @@ Bei der Bestimmung von Fälblingen spielen Gerüche eine nicht unerhebliche Roll
   </table>
 
 
-
-
-
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/hebeloma_pallidoluctuosum_013_fk.jpg" %}
 {% include bild.html datei="/bilder/hebeloma_pallidoluctuosum_04_fk.jpg" nocrop=true %}
