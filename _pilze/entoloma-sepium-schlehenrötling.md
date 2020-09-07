@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://www.steinpilz-wismar.de/cms/?cat=818
 ---
-Der Schlehenrötling war mir bisher nur von einem Feldwegrand mit Schlehengebüsch bei Flörsheim bekannt. Um so größer die Freude, am 30. April 2019 sogar ein Massenvorkommen auf einer Streuobstwiese im Gebiet Schilflache bei Dietzenbach zu entdecken. Hier waren offensichtlich Apfelbäume die [Mykorrhizapartner](Mykorrhiza "Glossar") der relativ seltenen Art. Wie die häufigeren Schildrötlinge wachsen sie bei Rosaceen (Rosengewächsen). Zu dieser artenreichen Pflanzenfamilie gehören außer Rosen auch Obstarten wie Apfel, Birne, Brombeere, Erdbeere, Himbeere, Kirsche, Pflaume, Pfirsisch, Schlehe oder Weißdorn.
+Der Schlehenrötling war mir bisher nur von einem Feldwegrand mit Schlehengebüsch bei Flörsheim bekannt. Um so größer die Freude, am 30. April 2019 sogar ein Massenvorkommen auf einer Streuobstwiese im Gebiet Schilflache bei Dietzenbach zu entdecken. Hier waren offensichtlich Apfelbäume die [Mykorrhizapartner](Mykorrhiza "Glossar") der relativ seltenen Art. Wie die häufigeren [Schildrötlinge](/pilze/entoloma-clypeatum-schildrötling) wachsen sie bei Rosaceen (Rosengewächsen). Zu dieser artenreichen Pflanzenfamilie gehören außer Rosen auch Obstarten wie Apfel, Birne, Brombeere, Erdbeere, Himbeere, Kirsche, Pflaume, Pfirsisch, Schlehe oder Weißdorn.
 
 Rötlinge sind eine artenreiche Gattung in der Familie der Rötlingsverwandten, die alle rosafarbenes bis rosabraunes Sporenpulver haben. Rötlinge unterscheiden sich von anderen Gattungen zudem durch eckige Sporen.
 
