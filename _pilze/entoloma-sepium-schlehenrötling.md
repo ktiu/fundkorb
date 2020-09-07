@@ -20,4 +20,8 @@ Rötlinge sind eine artenreiche Gattung in der Familie der Rötlingsverwandten, 
 
 Die meisten der in Mitteleuropa vorkommenden etwa 250 Arten sind schwer und zumeist nur mikroskopisch sicher zu bestimmen. Schlehen- und Schildrötling gehören zu den makroskopisch erkennbaren Arten, sollten jedoch nur von wirklich erfahrenen Pilzfreunden zu Speisezwecken gesammelt werden, da sie durchaus mit giftigen Rötlingsarten verwechselt werden könnten. Ein nicht unwichtiges Kriterium ist neben dem Vorkommen bei Rosaceen die frühe Erscheinungszeit. Beide Arten erscheinen etwa zeitgleich schon ab Mitte/Ende April.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/entoloma_sepium_02_mm.jpg" %}
+{% include abbildung_ende.html legende="Foto: Margret Schwarz-Mohr" %}
+
 Vom Schildrötling unterscheidet sich der Schlehenrötling vor allem durch hellere Hutfarben und nicht [hygrophane](hygrophan "Glossar") Huthaut. Beide riechen nach Mehl oder Gurken und gehören mit Hutdurchmessern bis etwa 10 cm zu den größeren Rötlingsarten.
