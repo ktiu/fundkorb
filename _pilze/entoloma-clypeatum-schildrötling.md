@@ -34,6 +34,6 @@ Die von Frank Kaster fotografierten Sporen (Mikrofoto) waren 8- 11 x 6,5 -9 µm 
 {% include bild.html datei="/bilder/entoloma_clypeatum_06_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Sporen Entoloma clypeatum (Foto: Frank Kaster)" %}
 
-Ähnlich ist der ebenfalls bei Rosaceae wachsende seltenere Schlehenrötling *Entoloma saepium*, der sich vor allem makroskopisch durch hellere Hutfarben unterscheidet. Der April-Rötling *Entoloma aprile* ist schmächtiger und deutlicher spitzgebuckelt. Er wächst bei Ulmen und Hainbuchen, sein Fleisch färbt sich mit Guajak dunkelblau.
+Ähnlich ist der ebenfalls bei Rosaceae wachsende seltenere Schlehenrötling *[Entoloma sepium](/pilze/entoloma-sepium-schlehenrötling)*, der sich vor allem makroskopisch durch hellere Hutfarben unterscheidet. Der April-Rötling *Entoloma aprile* ist schmächtiger und deutlicher spitzgebuckelt. Er wächst bei Ulmen und Hainbuchen, sein Fleisch färbt sich mit Guajak dunkelblau.
 
 Im Gegensatz zu dem ebenfalls im Frühjahr erscheinenden, meist deutlich schmächtigeren und geruchsneutralen Frühlingsrötling *Entoloma vernum* riecht der Schildrötling nach Mehl oder Gurken. Im Zweifelsfall ist der Geruch durch Zerquetschen eines Hutes deutlich zu machen, was übrigens auch für den Schlehenrötling gilt.
