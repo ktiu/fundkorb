@@ -54,7 +54,7 @@ Bei der Bestimmung von Fälblingen spielen Gerüche eine nicht unerhebliche Roll
 {% include bild.html datei="/bilder/hebeloma_pallidoluctuosum_04_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: zitronenförmige Sporen -- Abb. rechts: Hutdeckschicht mit aufsteigenden Hyphen (2 Mikrofotos: Frank Kaster)" %}
 
-Außerdem konnten bei der mikroskopischen Untersuchung keine über die Basidien hinausragenden Cheilozystiden gefunden werden, das heißt, sie waren in keinem Fall länger als 50 µm. 
+Außerdem konnten bei der mikroskopischen Untersuchung keine über die [Basidien](Basidien "Glossar") hinausragenden [Cheilozystiden](Cheilozystiden "Glossar") gefunden werden, das heißt, sie waren in keinem Fall länger als 50 µm. 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hebeloma_pallidoluctuosum_01_dg.jpg" %}
