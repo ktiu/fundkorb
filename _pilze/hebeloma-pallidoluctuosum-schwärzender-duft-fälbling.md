@@ -19,11 +19,39 @@ Der Fälbling, den wir am 25.10.2019 im Carré an der Dietzenbacher Rodgaustraß
 
 Bei der Bestimmung von Fälblingen spielen Gerüche eine nicht unerhebliche Rolle, was eine gute Nase erfordert. Die allermeisten riechen rettichartig, andere süßlich oder nach Kakao oder Marzipan. Die Unterscheidung von H. pallidoluctuosum und H. sacchariolens ist nicht einfach und allein auf den Geruch sollte man sich nicht verlassen. Breitenbach & Kränzlin beschreiben den Geruch von H. pallidoluctuosum als "aufdringlich süßlich nach Bohner¬wachs", den von H. sacchario¬lens als "süßlich, blütenartg, wie parfümierte Seife". Das ist schon eine gewisse Differenzierung, die aber nicht ausreicht, um zwei unterschiedliche Arten zu recht¬fertigen. Dazu bedarf es auch Unterschiede in den Mikromerkmalen, die lt. Breitenbach & Kränzlin zum Teil recht markant sind und daher die Auffassung von zwei guten Arten unterstützen:
 
-```
-		Hebeloma palludoluctuosum		Hebeloma sacchariolens
-```
 
-¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬----------------------------------------------------------------------------------------------------------------------------------
+  <table class="table">
+    <thead>
+      <tr>
+        <th> </th> 
+        <th>Hebeloma pallidoluctuosum<br /><i></i></th>
+        <th>Hebeloma sacchariolens<br /><i></i></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Sporen </th>
+        <td>warzig</td>
+        <td>schwach warzig</td>
+      </tr>
+      <tr>
+        <th>Cheilozystiden</th>
+        <td>bis 55 µm lang</td>
+        <td>bis 105 µm lang</td>
+      </tr> 
+      <tr>
+        <th>Hutdeckschicht</th>
+        <td>aus aufsteigenden Hyphen bestehend</td>
+        <td>aus parallel liegenden bis unregelmäßig verflochtenen Hyphen bestehend</td>
+      </tr>
+      <tr>
+        
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
 Sporen:	 				warzig					schwach warzig
 
 Cheilozystiden: 	      		        bis 55 µm lang			               bis 105 µm lang
