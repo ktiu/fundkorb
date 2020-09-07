@@ -13,7 +13,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/hebeloma_pallidoluctuosum_02_dg.jpg
 literatur:
-  - url: "Breitenbach & Kränzlin: Pilze der Schweiz Band 5 (Pilz Nr.  114)"
+  - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 5 (Pilz Nr.  114)"
 ---
 Der Fälbling, den wir am 25.10.2019 im Carré an der Dietzenbacher Rodgaustraße fanden, schien eine klare Sache zu sein. Es gibt nur einen, der so aufdringlich nach Bohnerwachs riecht. Nun ist dieser Geruch heutzutage nicht mehr jedermann geläufig, da es in Wohnungen kaum noch Linoleumböden gibt, die der Pflege mit diesem Poliermittel bedürfen. Das war jedoch nicht mein Problem. Die systematische Suche nach einem Pilz mit Bohnerwachsgeruch in meiner umfangreichen Literatur, im Internet und in Verzeichnissen von Pilzgerüchen nahm 2 Stunden in Anspruch, bis ich ihn endlich bei Breitenbach & Kränzlin fand. Es handelt sich um den gleichen unverwechselbaren Geruch, den ich schon von einem Fund aus dem Jahr 2002 im Ansfeldwald kannte, der damals unter dem Namen *Hebeloma sacchariolens* in meinen Fundlisten stand. Ich hatte den Fälbling seinerzeit als typischen Wegrandpilz bezeichnet, was man allerdings auch von anderen Arten dieser Gattung sagen kann. Er wird bis heute nicht von allen Mykologen als eigene gute Art anerkannt. 
 
