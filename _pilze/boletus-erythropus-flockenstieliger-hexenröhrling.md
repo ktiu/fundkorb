@@ -10,7 +10,7 @@ profil:
   aktualisiert: 2020-09-09
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/boletus_erythropus._03_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/b/Boletus_erythropus.html
