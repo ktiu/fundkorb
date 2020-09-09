@@ -36,4 +36,4 @@ Hinweisen möchte ich auch auf die unterschiedliche Schreibweise des Epithets (=
 {% include bild.html datei="/bilder/macrolepiota_rhacodes_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Für die Verwendung in der Küche sind Riesenschirmlingsarten wie ... die eindeutig bessere Wahl
+Für die Verwendung in der Küche sind Riesenschirmlingsarten wie [Macrolepiota procera](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol) oder [konradii](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling) die eindeutig bessere Wahl.
