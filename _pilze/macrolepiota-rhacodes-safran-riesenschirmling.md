@@ -35,3 +35,5 @@ Hinweisen möchte ich auch auf die unterschiedliche Schreibweise des Epithets (=
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/macrolepiota_rhacodes_02_dg.jpg" %}
 {% include abbildung_ende.html %}
+
+Für die Verwendung in der Küche sind Riesenschirmlingsarten wie ... die eindeutig bessere Wahl
