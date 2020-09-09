@@ -47,9 +47,9 @@ Bei manchen Arten sind die Leisten so weit zurückgebildet, dass man sie nur noc
 
 Verwechselt wird der Pfifferling auch mit dem [Samtigen Pfifferling](/pilze/cantharellus-friesii-samtiger-pfifferling) (Cantharellus friesii), der ebenfalls zu den Leistlingen zählt. Dieser unterscheidet sich durch eher trichterig geformte Hüte, einen flatterig dünnen, oft eingerollten Hutrand und mehr orangegelbe Farben. Auch er ist ein ausgezeichneter Speisepilz und ein Charakterpilz des Frankfurter Stadtwalds, aber insgesamt seltener als der echte Pfifferling.
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/cantharellus_friesii_02_dg.jpg" %}
-{% include bild.html datei="/bilder/cantharellus_friesii_03_dg.jpg" %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/cantharellus_friesii_02_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/cantharellus_friesii_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Samtiger Pfifferling  Cantharellus friesii" %}
 
 Eine Varietät mit weißlicher oder weiß bereifter Hutoberfläche (Cantharellus cibarius var. pallidus) wird inzwischen als eigene gute Art *Cantharellus pallens* (Blasser Pfifferling, Synonym Cantharellus ferruginascens) anerkannt.
