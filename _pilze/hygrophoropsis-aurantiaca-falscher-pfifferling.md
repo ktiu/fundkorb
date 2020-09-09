@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/h/Hygrophoropsis_aurantiaca.html
 ---
-Es gibt Leute, die seit ihrer Jugend *"Pfifferlinge"* sammeln und verzehren und bis heute nicht wissen, dass es immer (oder auch nur manchmal) *Falsche Pfifferlinge* gewesen sind. Obwohl sie sich sehr ähnlich sehen, sind sie überhaupt nicht miteinander verwandt, die echten und die falschen. Echte Pfifferlinge gehören zu den *Leistlingen*, Falsche zu den *Blätterpilzen*. Um das zu verstehen und an seinen Funden nachvollziehen zu können, muss man wissen, wodurch sich Leisten und Lamellen unterscheiden.
+Es gibt Leute, die seit ihrer Jugend *"Pfifferlinge"* sammeln und verzehren und bis heute nicht wissen, dass es immer (oder auch nur manchmal) *Falsche Pfifferlinge* gewesen sind. Obwohl sie sich sehr ähnlich sehen, sind sie überhaupt nicht miteinander verwandt, die echten und die falschen. [Echte Pfifferlinge](/pilze/cantharellus-cibarius-pfifferling) gehören zu den *Leistlingen*, Falsche zu den *Blätterpilzen*. Um das zu verstehen und an seinen Funden nachvollziehen zu können, muss man wissen, wodurch sich Leisten und Lamellen unterscheiden.
 
 Leisten sind faltenartige Ausbuchtungen des Hutfleisches, in ihrem Inneren entsprechen sie also den Strukturen des Hutfleisches. Lamellen dagegen sind am Hut angeheftete Blättchen, die sich strukturell vom Hutfleisch unterscheiden. Man kann dies sehr schön (am besten mit einer Lupe) erkennen, wenn man ein Stück des Hutes abschneidet. 
 
