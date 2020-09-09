@@ -19,10 +19,10 @@ Es gibt Leute, die seit ihrer Jugend *"Pfifferlinge"* sammeln und verzehren und 
 Leisten sind faltenartige Ausbuchtungen des Hutfleisches, in ihrem Inneren entsprechen sie also den Strukturen des Hutfleisches. Lamellen dagegen sind am Hut angeheftete Blättchen, die sich strukturell vom Hutfleisch unterscheiden. Man kann dies sehr schön (am besten mit einer Lupe) erkennen, wenn man ein Stück des Hutes abschneidet. 
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/cantharellus_cibarius_03_dg.jpg" %}
+{% include bild.html datei="/bilder/cantharellus_cibarius_03_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/cantharellus_cibarius_04_dg.jpg" %}
-{% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_01_dg.jpg" %}
-{% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_02_dg.jpg" %}
+{% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_01_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Echte Pfifferlinge haben an der Hutunterseite Leisten (links) -- Falsche Pfifferlinge Lamellen (rechts)" %}
 
 Auch ohne Lupe und ohne sich mit strukturellen Unterschieden auseinanderzusetzen sind die beiden meist gut auseinanderzuhalten. Der Falsche Pfifferling hat einen flatterigen Hutrand, die Farben sind mehr orange als gelb, vor allem an den Lamellen, und der ganze Pilz ist elastisch und lässt sich verbiegen. 
