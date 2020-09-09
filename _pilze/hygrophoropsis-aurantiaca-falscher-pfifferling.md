@@ -20,7 +20,7 @@ Leisten sind faltenartige Ausbuchtungen des Hutfleisches, in ihrem Inneren entsp
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/cantharellus_cibarius_03_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/cantharellus_cibarius_04_dg.jpg" %}
+{% include bild.html datei="/bilder/cantharellus_cibarius_04_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_01_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Echte Pfifferlinge haben an der Hutunterseite Leisten (links) -- Falsche Pfifferlinge Lamellen (rechts)" %}
