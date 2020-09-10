@@ -5,7 +5,7 @@ beschreibung:
   referenz: "(P. Karst.) Niemelä 1991 "
   familie: Polyporaceae s. lat.
   synonym: "Neuer Name: Sidera lenis"
-  erlaeuterung: lenis = ?
+  erlaeuterung: lenis = glatt
 profil:
   aktualisiert: 2020-09-10
   autor_in: Dieter Gewalt
