@@ -308,7 +308,7 @@ collections:
     editor:
       preview: false
     create: true
-    sortable_fields: "pilz"
+    sortable_fields: ["pilz"]
     fields:
       - label: "Bild"
         name: "bild"
