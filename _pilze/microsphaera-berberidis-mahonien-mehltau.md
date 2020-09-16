@@ -29,5 +29,5 @@ Es ist nicht leicht, im Internet Informationen zu dieser Art zu finden. Es exist
 {% include bild.html datei="/bilder/microsphaera_berberidis_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Bessere Informationen erhält man auf:
+Bessere Informationen erhält man auf:  
 <http://www.arbofux.de/echter-mehltau-an-mahonie.html>
