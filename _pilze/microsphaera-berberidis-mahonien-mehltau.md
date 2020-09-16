@@ -11,8 +11,7 @@ profil:
 hauptbild:
   anzeige: false
   datei: /bilder/microsphaera_berberidis_01_dg.jpg
-literatur:
-  - {}
+literatur: []
 ---
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/microsphaera_berberidis_01_dg.jpg" %}
