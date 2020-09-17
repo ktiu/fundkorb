@@ -41,3 +41,7 @@ Ausgewachsene Schmetterlingstrameten zeigen auf ihrer Oberfläche ein Muster aus
 
 Alle Trameten sind gekennzeichnet durch ihre nicht vom Hutfleisch getrennte Röhrenschicht. Die Poren auf der Hutunterseite sind, um es allgemeinverständlich zu formulieren, Öffnungen von Löchern im Hutfleisch.
 Schmetterlingstrameten gelten in der Naturheilkunde als Vital- oder Heilpilze. Sie stärken wie viele andere das Immunsystem und können die Behandlung verschiedener Krankheiten wie Krebs, Rheuma, Hepatitis, HIV und andere Virusinfektionen unterstützen. Auch eine schleim-reduzierende Wirkung wird ihnen nachgesagt. Zur Anwendung pulverisiert man die Pilze z. B. in einer Kaffeemühle oder bereitet einen Sud aus dünn geschnittenen Pilzscheibchen. Das Pilzpulver wird auch im Internethandel, zum Teil als Wundermittel mit außerordentlichen Wirk-versprechen angeboten, oft unter dem Gattungsnamen Coriolis, der aus längst vergangenen Zeiten der Mykologiegeschichte stammt. Solchen vollmundigen Anpreisungen sollte man mit gebotener Skepsis begegnen.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/trametes_versicolor_07_xx.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Selbst diese künstlerische Darstellung lässt dieSchmetterlingstramete auf den ersten Blick erkennen - © Katie Scott, Kathy Willis and the Templar Company Limited" %}
