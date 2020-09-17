@@ -21,7 +21,7 @@ Der Tränende Saumpilz ist eine gut kenntliche Art, die durch die Merkmalskombin
 {% include bild.html datei="/bilder/lacrymaria_lacrymabunda_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Als [Saprobiont](Saprobiont "Glossar") ist der Tränende Saumpilz recht häufig an grasigen Wald- und Waldwegrändern, auf Äckern, Wiesen, in Parkanlagen und Gärten zu finden.
+Als [Saprobiont](saprobiontisch "Glossar") ist der Tränende Saumpilz recht häufig an grasigen Wald- und Waldwegrändern, auf Äckern, Wiesen, in Parkanlagen und Gärten zu finden.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lacrymaria_lacrymabunda_03_dg.jpeg" nocrop=true %}
