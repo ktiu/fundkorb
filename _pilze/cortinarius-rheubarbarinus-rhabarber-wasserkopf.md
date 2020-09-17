@@ -20,7 +20,7 @@ Reinhold Kärcher*, ein anerkannter hessischer Pilz-Experte, interessierte sich 
 
 ###### Kurzbeschreibung:
 
-**Hut:** 3 – ca. 10 cm, matt bis seidig glänzend, hygrophan, ockerbraun, im Alter schwarzfleckig 
+**Hut:** 3 – ca. 10 cm, matt bis seidig glänzend, [hygrophan](hygrophan "Glossar"), ockerbraun, im Alter schwarzfleckig  
 **Lamellen:** jung hellocker, später ockerbraun  
 **Stiel:** bis 10 cm lang, heller hutfarben, von der Basis her vom [Velum](Velum "Glossar") weiß überfasert, am Grund leicht keulig verdickt  
 **Fleisch:** creme bis hellbraun, Geruch aromatisch, ähnlich Petersilie oder wie Basis von Rhabarberstängeln
