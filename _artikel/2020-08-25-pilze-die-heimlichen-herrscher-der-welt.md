@@ -1,10 +1,12 @@
 ---
 titel: Pilze - die heimlichen Herrscher der Welt
-autor_in: Information zur ZDF-Sendung am 22. September 2010
+autor_in: ""
 datum: ""
 vorschaubild: ""
 published: true
 ---
+*Information zur ZDF-Sendung am 22. September 2010*
+
 Vom Glückspilz bis zum Pfifferling: Abgesehen von wenigen giftigen Spezies haben Pilze ein eher harmloses Image. Doch nun enthüllt *Karsten Schwanke* bei *Abenteuer Wissen* ihre wahre Natur, denn neue wissenschaftliche Erkenntnisse legen ein erschreckendes Fazit nahe: Pilze sind eine unterschätzte Großmacht! Sie vernichten ganze Ernten, zerlegen Felsmassive und Kulturschätze, fressen Öl und Kerosin, besiedeln den menschlichen Körper und sind Ursache für rätselhafte Krankheiten. Sind sie die heimlichen Herrscher der Welt?
 
 Schließlich liefern Pilze auch wertvolle Lebensmittel wie Käse und Bier, stellen Medikamente wie Antibiotika her und machen unsere Äcker erst fruchtbar. Auch der deutsche Wald wäre ohne das mikroskopisch feine Geflecht im Boden längst verloren. Abenteuer Wissen nimmt die geheimnisvollen Lebewesen, weder Pflanze noch Tier, unter die Lupe und zeigt die dunkle Seite der Pilze. Aus Gier nach Nährstoffen bohren sie ihre unsichtbaren Fäden durchs Erdreich bis in die Wurzeln von Bäumen. Zum Lohn schützen sie den Baum gegen Schädlinge und liefern ihm lebensnotwendige Mineralstoffe. Ein guter Deal: Mancher Waldpilz erreicht unterirdisch eine Größe, die jede Deutsche Eiche winzig erscheinen lässt. 
