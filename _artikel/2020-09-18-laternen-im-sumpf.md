@@ -22,4 +22,4 @@ Aber wenigstens wusste ich jetzt, worauf zu achten war. Bei meiner nächsten Tou
 
 Die eindeutigen Stars dieses Biotops blieben für mich aber die Sumpfhaubenpilze. Und deswegen werde ich - trotz aller Widrigkeiten - auch im nächsten Sommer wieder in den Taunus fahren und die Schönheit der kleinen Schlauchpilze bewundern, dieser Laternen im Sumpf.
 
-(August 2007)
+(Juni 2005)
