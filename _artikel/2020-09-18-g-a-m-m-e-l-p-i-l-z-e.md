@@ -1,5 +1,5 @@
 ---
-titel: G a m m e l p i l z e
+titel: Gammelpilze
 autor_in: von Dieter Gewalt
 datum: ""
 published: true
@@ -19,6 +19,10 @@ Leider sind nicht alle Sammler so vernünftig und beharren darauf, ihre Funde au
 ##### Schimmelbefall
 
 Wir kennen es aus unserer Küche. Auch Brot kann von Schimmel befallen werden, oft schon wenige Tage nach dem Kauf. Wir wissen, dass es nicht mehr gegessen werden darf, denn Schimmelpilze können gefährliche Giftstoffe enthalten. Es genügt nicht, betroffene Stellen auszuschneiden. Genau so ist es bei Pilzen.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/gammelpilze_05_dg.jpg" %}
+{% include abbildung_ende.html legende="Schimmelbefall bei Maronenröhrlingen (frühes Stadium)" %}
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/gammelpilze_02_dg.jpg" %}
