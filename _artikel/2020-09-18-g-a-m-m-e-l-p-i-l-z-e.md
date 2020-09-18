@@ -1,5 +1,5 @@
 ---
-titel: Gammelpilze
+titel: "Gammelpilze "
 autor_in: von Dieter Gewalt
 datum: ""
 published: true
