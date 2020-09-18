@@ -14,3 +14,5 @@ Als zweites fiel mir *Terminator* ein, der *"Beender"*. Wenn es sich jemals als 
 Wenn wir schon einen *"Beender"* haben, sollte auch das Gegenteil zugegen sein. Wie wäre es, eine produktive Pilzgattung wie die der Champignons in *Generator* umzubenennen? 
 
 \*Assyov, Bellanger, Bertéa, Courtec, Koller, Loizides, G. Marques, J. A. Muñoz, N. Oppicelli, D. Puddu, F. Rich & P.-A. Moreau (2015)
+
+(Dezember 2015)
