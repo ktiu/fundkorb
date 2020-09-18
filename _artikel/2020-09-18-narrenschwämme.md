@@ -1,7 +1,7 @@
 ---
 titel: Narrenschwämme
 autor_in: Der Klassiker der deutschen Psilo-Literatur von Dr. Jochen Gartz
-  (Nachtschattenverlag, ca. 70 €
+  (Nachtschattenverlag, ca. 70 €)
 datum: ""
 published: true
 ---
