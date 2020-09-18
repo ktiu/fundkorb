@@ -30,4 +30,4 @@ Wer seine Helmlinge betrachtet, erfährt unbewusst, wie diese wenig beachteten P
 
 Die Fundkorb-Redaktion bedankt sich ganz herzlich bei Florian Haas, dass er den Besuchern dieser Website einen kleinen Einblick in sein Werk (das keineswegs nur Pilzmalerei umfasst) ermöglicht hat. Wer mehr darüber erfahren möchte: Das Buch „FLORIAN HAAS Bilder und Projekte“ ist im KANN-Verlag Frankfurt am Main erschienen und eine Auswahl seiner Werke ist im Internet auf [](www.bilderhaas.de) zu sehen.
 
-(Juli 2009)
+(Dieter Gewalt, Juli 2009)
