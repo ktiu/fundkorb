@@ -20,7 +20,7 @@ Leider sind nicht alle Sammler so vernünftig und beharren darauf, ihre Funde au
 
 Wir kennen es aus unserer Küche. Auch Brot kann von Schimmel befallen werden, oft schon wenige Tage nach dem Kauf. Wir wissen, dass es nicht mehr gegessen werden darf, denn Schimmelpilze können gefährliche Giftstoffe enthalten. Es genügt nicht, betroffene Stellen auszuschneiden. Genau so ist es bei Pilzen.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/gammelpilze_05_dg.jpg" %}
 {% include abbildung_ende.html legende="Schimmelbefall bei Maronenröhrlingen (frühes Stadium)" %}
 
@@ -57,8 +57,6 @@ Mit dem Beginn der Frostperiode ist beim Sammeln von Pilzen auf mögliche Frosts
 ##### Regen
 
 Auch Pilze, die im Regen gestanden sind, können durch einsetzende Eiweißzersetzung gesundheitliche Risiken verursachen. Dies ist vor allem bei Arten mit poröser Hutoberfläche (z. B. Riesenschirmlinge, Parasole) der Fall. Stark durchwässerte Pilze sollten auf keinen Fall gegessen werden.
-
-
 
 > Stellen Sie an selbst gesammelte Pilze die gleichen Qualitätsansprüche, die Sie beim Kauf von Obst und Gemüse im Supermarkt stellen würden! 
 
