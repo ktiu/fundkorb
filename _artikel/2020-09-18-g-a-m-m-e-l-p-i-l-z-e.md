@@ -5,8 +5,8 @@ datum: ""
 published: true
 ---
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/gammelpilze_01_dg.jpg" unterschrift="Vergammelte Maronenröhrlinge - Wollen Sie so etwas wirklich essen?" %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/gammelpilze_01_dg.jpg" %}
+{% include abbildung_ende.html legende="Vergammelte Maronenröhrlinge - Wollen Sie so etwas wirklich essen?" %}
 
 Vor Gammelfleisch ekelt sich jeder. Um so mehr erstaunt es, was häufig als Ausbeute von Pilzsammlern in Körben oder gar Plastiktüten nach Hause getragen wird.
 
@@ -56,17 +56,12 @@ Mit dem Beginn der Frostperiode ist beim Sammeln von Pilzen auf mögliche Frosts
 
 ##### Regen
 
-xxxxx
+Auch Pilze, die im Regen gestanden sind, können durch einsetzende Eiweißzersetzung gesundheitliche Risiken verursachen. Dies ist vor allem bei Arten mit poröser Hutoberfläche (z. B. Riesenschirmlinge, Parasole) der Fall. Stark durchwässerte Pilze sollten auf keinen Fall gegessen werden.
 
-Frostschäden
 
-Mit dem Beginn der Frostperiode ist beim Sammeln von Pilzen auf mögliche Frostschäden zu achten. Gefrorene Pilze sind nicht grundsätzlich gesundheitsgefährdend, man kann sie ja auch zu Konservierungszwecken einfrieren. Ein ernstzu¬neh¬mendes Risiko entsteht durch wiederholtes Gefrieren und Auftauen. Betroffene Pilze sind oft instabil, vor allem ihre Ränder erscheinen durchwässert oder farblich verändert. 
-
-Regen
-xxxx
-
-Bei allen gesundheitlichen Beeinträchtigungen und Vergiftungssymptomen aufgrund der oben aufgeführten Ursachen handelt es sich nicht um eine Pilzvergiftung.  Da Speisepilze grundsätzlich unbedenkliche Lebensmittel sind, die in einwandfreiem Zustand keine Gifte enthalten, muss von einer "Lebensmittelvergiftung" aufgrund verdorbener Ware gesprochen werden.  Die Symptome können sehr heftig sein, es kann zu Schwindel, Übelkeit, Erbrechen, Durchfall, Fieber, Bauchkolik, Schüttelfrost und Kreislaufkollaps kommen.  Zu beachten sind aber auch individuelle Unverträglichkeiten, wie sie bei nahezu allen Lebensmitteln vorkommen können.
 
 > Stellen Sie an selbst gesammelte Pilze die gleichen Qualitätsansprüche, die Sie beim Kauf von Obst und Gemüse im Supermarkt stellen würden! 
+
+Bei allen gesundheitlichen Beeinträchtigungen und Vergiftungssymptomen aufgrund der oben aufgeführten Ursachen handelt es sich nicht um eine Pilzvergiftung.  Da Speisepilze grundsätzlich unbedenkliche Lebensmittel sind, die in einwandfreiem Zustand keine Gifte enthalten, muss von einer "Lebensmittelvergiftung" aufgrund verdorbener Ware gesprochen werden.  Die Symptome können sehr heftig sein, es kann zu Schwindel, Übelkeit, Erbrechen, Durchfall, Fieber, Bauchkolik, Schüttelfrost und Kreislaufkollaps kommen.  Zu beachten sind aber auch individuelle Unverträglichkeiten, wie sie bei nahezu allen Lebensmitteln vorkommen können.
 
 (August 2014)
