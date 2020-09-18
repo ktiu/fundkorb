@@ -8,10 +8,9 @@ excerpt: Sie sind angetreten, um die weniger Erfahrenen ins Bockshorn zu jagen.
   Steinpilzen ungegart im Müllcontainer endete. Ganze Körbe waren voll von ihnen
   und kein einziger Steinpilz darunter – die geballte Ladung an Bitterstoffen
   also.
-datum: ""
+datum: "September 2011"
 published: true
 ---
-
 Sie sind angetreten, um die weniger Erfahrenen ins Bockshorn zu jagen. Es gelingt ihnen sogar, alten Hasen die Mahlzeit zu verderben. Sie sind wieder allgegenwärtig wie schon im Jahr zuvor, als sie vielen Besuchern der Pilzberatung Tränen in die Augen trieben, weil ihre vermeintliche Ausbeute an Steinpilzen ungegart im Müllcontainer endete. Ganze Körbe waren voll von ihnen und kein einziger Steinpilz darunter – die geballte Ladung an Bitterstoffen also. In manchen Nadelwäldern waren acht von zehn Röhrlingen von dieser hinterhältigen Sorte. Sie sahen appetitlich aus, als könnten sie kein Wässerchen trüben. Dabei reicht schon ein einziger Jungspund, um das schönste Steinpilzgericht zu ruinieren. Die Gemeinheit hat einen Namen. Tylopilus felleus, der Gallenröhrling.
 
 {% include abbildung_start.html stil="fliessend" %}
@@ -23,3 +22,4 @@ Nachdem ich diese Zeilen zu Papier gebracht hatte, sollte die Invasion mit einem
 In älteren Pilzbüchern ist zu lesen, dass Tylopilus hin und wieder in Mengen auftritt, um dann jahrelang von der Bildfläche zu verschwinden. Solche Massen wie 2010 und 2011 sind mir aber in meinem langen Leben als Pilzsucher noch nicht untergekommen. Und Tylopilus scheint auch keine mehrjährigen Regenerationspausen mehr zu benötigen.
 
 Die Invasion der Gallenröhrlinge erlebte ich auch bei mir zu Hause. Als ein Pilzsammler telefonisch um Rat fragte und er sich auf seine gesammelten Steinpilze bezog, wusste ich schon Bescheid. Die Diagnose konnte fernmündlich erfolgen. „Lecken Sie doch mal am angeschnittenen Pilzfleisch,“ empfahl ich. Die Antwort: „Iiieeeh!“ Dieser Anrufer war beileibe nicht der Einzige. Einige brachten mir ihre Funde auch nach Hause mit dem immer gleichen Resultat: bitter statt lecker!
+

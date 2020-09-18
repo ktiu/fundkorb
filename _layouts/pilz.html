@@ -44,6 +44,8 @@ footer_scripts:
 {{ content }}
 
 {% if page.literatur %}
+{% capture lit %}{{ page.literatur | size | minus:1 }}{% endcapture %}
+{% unless lit contains '-' %}
 <h3>Weiterführende Literatur:</h3>
 
 <ul>
@@ -55,6 +57,7 @@ footer_scripts:
 </li>
 {% endfor %}
 </ul> 
+{% endunless %}
 {% endif %}
 
 <div class="schluss">

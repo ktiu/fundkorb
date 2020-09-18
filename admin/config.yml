@@ -218,15 +218,9 @@ collections:
         pattern: true
     fields:
       - {label: "Titel", name: "titel", widget: "string"}
+      - {label: "Untertitel", name: "untertitel", widget: "string"}
       - {label: "Autor*in", name: "autor_in", widget: "string", required: false}
-      - label: "Datum"
-        name: "datum"
-        required: false
-        widget: "datetime"
-        format: "YYYY-MM-DD"
-        default: ""
-        dateFormat: "DD.MM.YYYY"
-        timeFormat: false
+      - {label: "Datum", name: "datum", required: false, widget: "string"}
       - {label: "Vorschaubild", name: "vorschaubild", widget: "image", required: false}
       - {label: "Vorschautext", name: "extract", widget: "string", required: false}
       - {label: "Text", name: "body", widget: "markdown", editorComponents: ["abbildung"]}

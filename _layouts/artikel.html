@@ -2,24 +2,19 @@
 layout: base
 ---
 
-{% capture datum %}
-{{ page.date | date: "%-d." }}
-{% assign m = page.date | date: "%-m" | minus: 1 %}
-{{ site.data.monate[m] }}
-{{ page.date | date: "%Y" }}
-{% endcapture %}
-{% assign m = page.datum | date: "%-m" %}
-
 <section id="artikel">
 
 <h1>{{ page.titel }}</h1>
+{% if page.untertitel and page.untertitel != "" %}
+<h2>{{ page.untertitel }}</h1>
+{% endif %}
 
 <div class="anfang">
-{% if page.autor_in %}
+{% if page.autor_in and page.autor_in != "" %}
   <div class="autor_in">von {{ page.autor_in }}</div>
 {% endif %}
-{% if page.datum %}
-  <div class="datum">{{ datum }}</div>
+{% if page.datum and page.datum != "" %}
+  <div class="datum">{{ page.datum }}</div>
 {% endif %}
 </div>
 
