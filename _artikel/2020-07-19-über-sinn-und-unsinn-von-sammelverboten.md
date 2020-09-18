@@ -19,3 +19,5 @@ Viel wichtiger, als Pilze selbst schützen zu wollen, ist der Schutz verschieden
 Wenn wir von einem als selten angesehenen Pilz an einer entdeckten Vorkommensstelle, vielleicht unbedacht oder in einem Anfall von Gier, alles „abräumen“, so ist das zwar egoistisch und unkollegial: es ist schade, aber es schadet nicht dem Fortbestand der Rarität. Wie viele Rote-Liste-Arten und im Naturschutzgesetz aufgeführte Formen finden wir doch immer wieder selbst in stärker besammelten Gebieten und erst recht im meist vernachlässigten Grasland! Die einzigen Spezialisten, auf die wir in den letzten Jahren seltener stoßen, sind die anthrakophilen, also Brandstellen bewohnenden Pilze. Ist dies denn verwunderlich angesichts der derzeitigen hysterischen Einstellung gegenüber Rauch und Verbrennen?
 
 Noch nie konnte jemand meine Argumentation entkräften. In der Pilzfachzeitschrift „Der Tintling“ (Nr. 55 vom 27.06.2008) schreibt nun auch die Herausgeberin Karin Montag: „Mit der Aussage von Helgo Bran, Freiburg, gehe ich übrigens konform: Pilze werden durch das Sammeln nicht ausgerottet, ganz im Gegenteil.“
+
+(Dezember 2008)
