@@ -4,14 +4,14 @@
 {% for artikel in artikel %}
 <div class="artikel clearfix">
   <h2><a href="{{ artikel.url |relative_url}}">{{ artikel.titel }}</a></h2>
-  {% if artikel.vorschaubild %}
+  {% if artikel.vorschaubild and artikel.vorschaubild != "" %}
   <div class="vorschaubild {% cycle "float-left mr-3", "float-right ml-3" %} mb-3">
     <a href="{{ artikel.url | relative_url}}">
       <img src="{{ artikel.vorschaubild | relative_url }}" />
     </a>
   </div>
   {% endif %}
-  {% if artikel.author %}<p class="author">von {{artikel.author}}</p>{% endif %}
+  {% if artikel.autor_in and artikel.autor_in != "" %}<p class="author">von {{artikel.autor_in}}</p>{% endif %}
   <p>{{ artikel.excerpt }}</p>
   <a href="{{ artikel.url |relative_url}}">Mehr lesen</a>
 </div>

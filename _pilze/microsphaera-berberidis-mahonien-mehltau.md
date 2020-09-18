@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: "Microsphaera berberidis "
+  wissenschaftlich: "Microsphaera berberidis"
   deutsch: Mahonien-Mehltau
   familie: Erysiphaceae
   erlaeuterung: berberidis = an Berberitze

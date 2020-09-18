@@ -13,7 +13,7 @@
     <div>
     {% for pilz in letter.items %}
       <p>
-        <a id="{{ pilz.slug }}" href="{{ pilz.url | relative_url}}" data-toggle="tooltip" data-placement="right" data-container="a#{{pilz.slug}}" data-html="true" title="<div class='thumb'><img src='{{ pilz.hauptbild.datei | relative_url }}?nf_resize=smartcrop&h=60&w=60'></div>">
+        <a id="{{ pilz.slug }}" href="{{ pilz.url | relative_url}}">
           {{ pilz.beschreibung.wissenschaftlich }}{% if pilz.beschreibung.deutsch %} ({{ pilz.beschreibung.deutsch }}){%endif%}
         </a>
       </p>
