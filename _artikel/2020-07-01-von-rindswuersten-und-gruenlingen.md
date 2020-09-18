@@ -1,6 +1,6 @@
 ---
 titel: Von Rindswürsten und Grünlingen
-autor_in: Florian Haas
+autor_in: Ein Erlebnisbeicht von Florian Haas. der zu denken gibt
 datum: ""
 published: true
 ---
