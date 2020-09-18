@@ -26,3 +26,5 @@ Psilocybinhaltige Pilze sind aus allen Kontinenten beschrieben worden und deren 
 
 
 Siehe auch den Bericht über ein massenhaftes Vorkommen von [Psilocybe cyanescens](/pilze/psilocybe-cyanescens-blauender-kahlkopf) in Frankfurt.
+
+(August 2007)
