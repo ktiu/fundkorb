@@ -22,9 +22,9 @@ Es gibt Pilze, denen man nicht unterstellen kann, sie seien wasserscheu. Einer d
 **Kurzbeschreibung nach Breitenbach / Kränzlin:**
 
 **Fruchtkörper:** in Stiel und Köpfchen gegliedert, 2 - 5 cm hoch, Köpfchen keulig bis walzenförmig, auch kugelig, glatt oder etwas längsfurchig, gelblich oder orange  
-**Stiel:** glatt, weißlich oder fast hyalin
+**Stiel:** glatt, weißlich oder fast [hyalin](hyalin "Glossar")
 
-Der Sumpfhaubenpilz wächst etwa von Mai bis Oktober gesellig bis herdenweise auf faulenden in seichten Gewässern oder Sümpfen liegenden Holz- und Pflanzenresten, ist nirgendwo häufig aber weit verbreitet. Er ist durch Standort, Aussehen und Größe gut gekennzeichnet und kaum zu verwechseln. Eine ähnliche aber seltenere Art ist der zierliche Haubenpilz *Mitrula gracilis*, der in [montanen](montan "Glossar") bis [subalpinen](subalpin "Glossar") Lagen an feuchten Moosen gefunden werden kann. 
+Der Sumpfhaubenpilz wächst etwa von Mai bis Oktober gesellig bis herdenweise auf faulenden in seichten Gewässern oder Sümpfen liegenden Holz- und Pflanzenresten, ist nirgendwo häufig aber weit verbreitet. Er ist durch Standort, Aussehen und Größe gut gekennzeichnet und kaum zu verwechseln. Eine ähnliche aber seltenere Art ist der zierliche Haubenpilz *Mitrula gracilis*, der in [montanen](montan "Glossar") bis subalpinen Lagen an feuchten Moosen gefunden werden kann. 
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mitrula_paludosa_02_tl.jpg" %}
