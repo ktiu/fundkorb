@@ -27,8 +27,6 @@ Der Braunrote Kammpilz bildet voll [resupinate](resupinat "Glossar") gelb-bräun
 {% include bild.html datei="/bilder/phlebia_rufa_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
- 
-
 Der Pilz fruktifiziert ganzjährig, am häufigsten von September bis November und wächst an Stämmen, Ästen und Strünken verschiedener Laubholzarten, besonders Buche und Eiche.
 
-Noch häufiger und auffälliger ist Phlebia radiata, der Orangerote Kammpilz.
+Noch häufiger und auffälliger ist [Phlebia radiata](/pilze/phlebia-radiata-orangeroter-kammpilz), der Orangerote Kammpilz.
