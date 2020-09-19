@@ -4,21 +4,21 @@ title: Fundkorb.de - die Pilzadresse im Rhein-Main-Gebiet
 header_scripts:
   - https://identity.netlify.com/v1/netlify-identity-widget.js
 ---
-Unsere nächste pilzkundliche Exkursion ist  - vorausgesetzt, das Wetter spielt mit und es ist nicht zu trocken - am Sonntag, den 23. August 2020. [\[Mehr Infos  >>>\]]({/termine})
+Unsere nächste pilzkundliche Exkursion ist  - vorausgesetzt, das Wetter spielt mit und es ist nicht zu trocken - am Sonntag, den 23. August 2020. [\[Mehr Infos  >>>]]({/termine})
 
----
+- - -
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/sarcoscypha_coccinea_02_tl.jpg" %}
 {% include abbildung_ende.html %}
 
-Einer unserer schönsten Fundkorbpilze ist der Scharlachrote Prachtbecherling (Sarcoscypha coccinea). Thomas Lehr hat ihn am Kalkbruch an der Wiesenmühle bei Flörsheim gefunden und fotografiert. \[Mehr lesen...]({% link _pilze/sarcoscypha-coccinea-scharlachroter-kelchbecherling.md %})
+Einer unserer schönsten Fundkorbpilze ist der Scharlachrote Prachtbecherling (Sarcoscypha coccinea). Thomas Lehr hat ihn am Kalkbruch an der Wiesenmühle bei Flörsheim gefunden und fotografiert. [Mehr lesen...](/pilze/sarcoscypha-coccinea-scharlachroter-kelchbecherling)
 
----
+- - -
 
 {% include quiz.html %}
 
----
+- - -
 
 ##### Dietzenbach und Pilze
 
