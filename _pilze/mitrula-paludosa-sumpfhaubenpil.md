@@ -8,6 +8,7 @@ beschreibung:
   erlaeuterung: paludosa = zum Sumpf gehörig
 profil:
   aktualisiert: 2020-09-19
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/mitrula_paludosa_01_tl.jpg
