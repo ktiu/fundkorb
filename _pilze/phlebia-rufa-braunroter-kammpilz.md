@@ -26,6 +26,7 @@ Der Braunrote Kammpilz bildet voll [resupinate](resupinat "Glossar") gelb-bräun
 {% include bild.html datei="/bilder/phlebia_rufa_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/phlebia_rufa_04_dg.jpg" %}
 {% include abbildung_ende.html %}
