@@ -4,7 +4,7 @@ title: Fundkorb.de - die Pilzadresse im Rhein-Main-Gebiet
 header_scripts:
   - https://identity.netlify.com/v1/netlify-identity-widget.js
 ---
-Unsere nächste pilzkundliche Exkursion ist  - vorausgesetzt, das Wetter spielt mit und es ist nicht zu trocken - am Sonntag, den 23. August 2020. [\[Mehr Infos  >>>]]({/termine})
+Unsere nächste pilzkundliche Exkursion ist  - vorausgesetzt, das Wetter spielt mit und es ist nicht zu trocken - am Sonntag, den 23. August 2020. [Mehr Infos >>>](/termine)
 
 - - -
 
