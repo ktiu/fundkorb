@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: "Mitrula paludosa "
-  deutsch: Sumpfhaubenpil
+  deutsch: Sumpfhaubenpilz
   referenz: "Fr. 1816 "
   familie: Sclerotiniaceae
   synonym: neu in der Familie Hemiphadiaceae
