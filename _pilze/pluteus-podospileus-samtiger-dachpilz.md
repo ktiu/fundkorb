@@ -28,7 +28,7 @@ In der Literatur werden als Substrate morsche Stümpfe, liegende Stämme, Äste 
 
 Es werden zwei Formen von Pluteus podospileus beschrieben, wobei die *f. minutissimus* von einigen Autoren sogar als gute Art anerkannt wird. Die hier dokumentierte Kollektion wie auch einige frühere Funde sind der *f. podospileus* zuzuordnen.
 
-Meines Erachtens ist der Samtige Dachpilz schon aufgrund seiner Kleinheit makroskopisch recht gut identifizierbar, die Bestimmung im Zweifelsfall aber anhand von Mikromerkmalen abzusichern. Hier fallen zunächst die kleinen Sporen auf. Wichtig ist aber vor allem die Huthautstruktur. Sie besteht sowohl aus blasigen als auch aus birnenförmigen, keuligen oder spindeligen Elementen. [Pleurozystiden](Pleurozystiden "Glossar) sind nur spärlich vorhanden oder fehlen,  [Cheilozystiden](Cheilozystiden "Glossar") dagegen zahlreich und dicht gedrängt, keulig oder birnenförmig und 25 bis 80 µm lang.
+Meines Erachtens ist der Samtige Dachpilz schon aufgrund seiner Kleinheit makroskopisch recht gut identifizierbar, die Bestimmung im Zweifelsfall aber anhand von Mikromerkmalen abzusichern. Hier fallen zunächst die kleinen Sporen auf. Wichtig ist aber vor allem die Huthautstruktur. Sie besteht sowohl aus blasigen als auch aus birnenförmigen, keuligen oder spindeligen Elementen. [Pleurozystiden](Pleurozystiden "Glossar") sind nur spärlich vorhanden oder fehlen, [Cheilozystiden](Cheilozystiden "Glossar") dagegen zahlreich und dicht gedrängt, keulig oder birnenförmig und 25 bis 80 µm lang.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pluteus_podospileus_04_hds_fk.jpg" %}
