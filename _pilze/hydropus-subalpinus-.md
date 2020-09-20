@@ -23,7 +23,7 @@ Im Gegensatz zu seinem optischen (makroskopischen) Erscheinungsbild ist er aufgr
 {% include bild.html datei="/bilder/hydropus_subalpinus_02_uvs.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Sporenfoto von Ulrich van Schoor" %}
 
-Nachtrag: Wie ich inzwischen beobachtet habe, hat der Buchenwald-Wasserfuß wohl doch ein gutes in der Praxis anwendbares makroskopisches Merkmal: Wenn man den Hut mit einem Ruck nach oben vom Stiel abzieht, bleibt an der Stielspitze ein auffälliges "Knöpfchen" zurück, wie wir es vom Knopfstieligen Rübling *Gymnopus confluens* kennen.
+Nachtrag: Wie ich inzwischen beobachtet habe, hat der Buchenwald-Wasserfuß wohl doch ein gutes in der Praxis anwendbares makroskopisches Merkmal: Wenn man den Hut mit einem Ruck nach oben vom Stiel abzieht, bleibt an der Stielspitze ein auffälliges "Knöpfchen" zurück, wie wir es vom [Knopfstieligen Rübling](/pilze/gymnopus-confluens-knopfstieliger-rübling) *Gymnopus confluens* kennen.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/hydropus_subalpinus_03_dg.jpg" %}
