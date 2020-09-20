@@ -26,4 +26,4 @@ Kaum ein Pilzfreund hat ihn je als Speisepilz in Erwägung gezogen. Laut 123pilz
 
 Koreanische Wissenschaftlicher sollen Inhaltsstoffe gefunden haben, die tumorhemmende und antibiotische Wirkung haben und Blutzucker- und Cholesterinwerte senken können.
 
-\* Wie ich inzwischen festgestellt habe, ist das "Knöpfchen" kein Alleinstellungsmerkmal. Der Buchenwald-Wasserfuß Hydropus subalpinus hat es auch!
+\* Wie ich inzwischen festgestellt habe, ist das "Knöpfchen" kein Alleinstellungsmerkmal. Der Buchenwald-Wasserfuß [Hydropus subalpinus](/pilze/hydropus-subalpinus) hat es auch!
