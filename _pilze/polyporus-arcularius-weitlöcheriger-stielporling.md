@@ -27,9 +27,9 @@ Der Weitlöcherige Porling (auch Borstrandiger Porling genannt) gehört zu den z
 {% include bild.html datei="/bilder/polyporus_arcularius_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Drei bei oberflächlicher Betrachtung ähnliche Arten unterscheiden sich wie folgt:\
-Bei **[Polyporus alveolaris](/pilze/polyporus-alveolaris-wabenporling)**, dem Wabenporling, sind die wabenförmigen Poren größer und bekleiden den Stiel auf ganzer Länge bis zur Basis.\
-**Polyporus ciliatus**, der Maiporling, hat winzige, mit bloßem Auge kaum wahrnehmbare runde Poren.\
+Drei bei oberflächlicher Betrachtung ähnliche Arten unterscheiden sich wie folgt:  
+Bei **[Polyporus alveolaris](/pilze/polyporus-alveolaris-wabenporling)**, dem Wabenporling, sind die wabenförmigen Poren größer und bekleiden den Stiel auf ganzer Länge bis zur Basis.  
+**Polyporus ciliatus**, der Maiporling, hat winzige, mit bloßem Auge kaum wahrnehmbare runde Poren.  
 **Polyporus brumalis**, der Winterporling, hat deutlich größere, ebenfalls rundliche Poren.
 
 {% include abbildung_start.html stil="standard" %}
