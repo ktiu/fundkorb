@@ -14,6 +14,8 @@ hauptbild:
   legende: "Foto: Günther Breidert"
 literatur:
   - url: http://tintling.com/pilzbuch/arten/f/Fistulina_hepatica.html
+  - text: "Werner Pohl: Aphyllopower Pilz Nr. 55"
+    url: http://aphyllopower.blogspot.com/2007/09/
 ---
 Die beiden Namen, unter denen der Pilz bekannt ist, passen gut zu seinen Merkmalen. Er hat die Form einer Ochsenzunge und an eine Leber erinnert der aufgeschnittene, blutende Fruchtkörper. Seine Sonderstellung im Reich der Pilze verdeutlicht die Tatsache, dass er die einzige Art nicht nur in seiner Gattung, sondern sogar in der Familie der Fistulinaceae ist. Der Familienname leitet sich von fistula (Röhre) ab und bezieht sich auf sein [Hymenophor](Hymenophor "Glossar"), das aus winzigen makkaroniförmigen Röhrchen besteht. Einzelne Fruchtkörper können bis zu 5 kg schwer werden.
 
