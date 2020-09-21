@@ -1,10 +1,10 @@
 ---
 titel: Was Sie beim Pilzesammeln beachten sollten
-autor_in: Dieter Gewalt
-datum: September 2016
 published: true
 excerpt: "Sammeln Sie zu Speisezwecken nur Pilze, die Sie hundertprozentig sicher kennen. Lassen Sie in Zweifelsfällen ihre Funde in einer Pilzberatungsstelle oder von einem anerkannten Pilzsachverständigen prüfen."
 ---
+
+*von Dieter Gewalt*
 
 **Sammeln Sie zu Speisezwecken nur Pilze, die Sie hundertprozentig sicher kennen.** Lassen Sie in Zweifelsfällen ihre Funde in einer Pilzberatungsstelle oder von einem anerkannten Pilzsachverständigen prüfen. 
 
@@ -24,3 +24,5 @@ excerpt: "Sammeln Sie zu Speisezwecken nur Pilze, die Sie hundertprozentig siche
 
 **Zeckengefahr!** Wer sich in der Natur aufhält, läuft Gefahr, von Zecken befallen zu werden. Die zu den Spinnentieren (Unterklasse: Milben) gehörenden Blutsauger können Krankheiten wie Borreliose und Frühsommer-Meningoenzephalitis (FSME) übertragen. Zecken springen nicht etwa von Bäumen oder Sträuchern auf den Menschen, sondern lauern an Gräsern und anderer niedriger Vegetation. Auf dem Körper ihrer Opfer laufen sie oft stundenlang umher, bis sie sich meist an Weichteilen festsaugen. Zur Vorbeugung empfiehlt sich die Anwendung eines Zeckensprays. Auf jeden Fall sollte man nach einem Aufenthalt in der Natur duschen und seinen Körper nach Zecken absuchen (oder absuchen lassen). Zur Entfernung geeignet sind Pinzetten oder Zeckenkarten. Ein bestens bewährter Zeckenentferner wird bei unseren Wanderungen angeboten. Während man sich gegen FSME impfen lassen kann, ist gegen Borreliose noch kein Impfstoff verfügbar.
 
+
+(September 2016)

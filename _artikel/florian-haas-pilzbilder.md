@@ -7,10 +7,10 @@ excerpt: Es gibt kaum einen Künstler, der sich so einfühlsam dem Thema Pilze
   Merkmale, die eine Art charakterisieren. Bei anderen berührt die sensible
   Würdigung des Objekts, so als wäre es ein scheues Wesen, dessen Seele der
   Maler mit dem Pinsel eingefangen hat.
-datum: Juli 2009
-autor_in: Dieter Gewalt
 published: true
 ---
+
+*von Dieter Gewalt*
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/florian_haas_01_fh.jpg" %}
@@ -31,3 +31,5 @@ Wer seine Helmlinge betrachtet, erfährt unbewusst, wie diese wenig beachteten P
 {% include abbildung_ende.html legende="Lili Marlen (Dehnbarer Helmling), Telekinese (Weißmilchende Helmlinge)" %}
 
 Die Fundkorb-Redaktion bedankt sich ganz herzlich bei Florian Haas, dass er den Besuchern dieser Website einen kleinen Einblick in sein Werk (das keineswegs nur Pilzmalerei umfasst) ermöglicht hat. Wer mehr darüber erfahren möchte: Das Buch „FLORIAN HAAS Bilder und Projekte“ ist im KANN-Verlag Frankfurt am Main erschienen und eine Auswahl seiner Werke ist im Internet auf [www.bilderhaas.de](http://www.bilderhaas.de) zu sehen.
+
+(Juli 2009)

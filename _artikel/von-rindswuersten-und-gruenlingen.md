@@ -1,9 +1,10 @@
 ---
 titel: Von Rindswürsten und Grünlingen
-untertitel: Ein Erlebnisbeicht von Florian Haas, der zu denken gibt
-datum: November 2008
 published: true
+excerpt: "Einmal die Woche gönne ich mir ein Kleinmarkthallenmenü. Dann gehe ich zur immer gleichen Metzgerei und bestelle meinen Klassiker: „Eine Rindswurst ohne Haut mit Brötchen, bitte.“ Und danach, weil sich das schlechte Wurstgewissen wieder gemeldet hat, gibt es zum Nachtisch ein biologisches Mandelhörnchen von „Querbeet“."
 ---
+
+*Ein Erlebnisbeicht von Florian Haas, der zu denken gibt*
 
 Einmal die Woche gönne ich mir ein Kleinmarkthallenmenü. Dann gehe ich zur immer gleichen Metzgerei und bestelle meinen Klassiker: „Eine Rindswurst ohne Haut mit Brötchen, bitte.“ Und danach, weil sich das schlechte Wurstgewissen wieder gemeldet hat, gibt es zum Nachtisch ein biologisches Mandelhörnchen von „Querbeet“.
 
@@ -26,3 +27,5 @@ Der Mann hat recht, dachte ich – und ärgerte mich darüber, dass ich mir nich
 Ja, war das jetzt meine Aufgabe, Anzeige zu erstatten, nur weil das Ordnungsamt unfähig war, nach über einer Woche Giftpilze aus dem Verzehr zu ziehen? Nein, ich wollte keine Kleinmarkthändler, die von Pilzen keine Ahnung haben, verklagen. Wichtig war mir dagegen, dass das Ordnungsamt den Händler in der Großmarkthalle finden würde. Wer weiß, wer dort noch alles Grünlinge eingekauft hatte. Ich ließ nicht locker, bis mich Herr T. darüber aufklärte, dass man der Italienerin gesagt hätte, sie solle die Grünlinge vernichten. Hatte sie aber nicht.
 
 Dann folgte eine weitere Frage von Herrn T., die mich zutiefst irritierte: „Woran kann man denn Grünlinge erkennen, was ist denn an den Pilzen so besonders?“ Ich verwies ihn auf das Internet und die einschlägige Pilzliteratur. „Und was ist so giftig an diesen Pilzen?“ wollte Herr T. jetzt auch noch wissen. Geduldig setzte ich ihm auseinander, dass er die Frage nicht mir zu stellen hätte sondern dem Pilzsachverständigen, der ihn gerne darüber aufklären würde. Je länger unsere Telefonkonferenz sich hinauszog, desto mehr wurde mir klar, dass die Lebensmittelkontrolleure die Grünlinge einfach nicht erkannt hatten. Herr T. hatte inzwischen sein Telefon laut gestellt, so dass ich im Hintergrund die Stimme einer Mitarbeiterin vernahm, die offenbar am Morgen mit von der Partie gewesen war. „Also hören Sie, die Pilze waren unten nicht nur grün, sondern auch schon ein bisschen braun.“ Kein Wunder nach einer Woche Lagerung im Körbchen in der Kleinmarkthalle! 
+
+(November 2008)

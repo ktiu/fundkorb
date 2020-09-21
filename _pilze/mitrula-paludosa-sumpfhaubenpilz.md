@@ -30,4 +30,4 @@ Der Sumpfhaubenpilz wächst etwa von Mai bis Oktober gesellig bis herdenweise au
 {% include bild.html datei="/bilder/mitrula_paludosa_02_tl.jpg" %}
 {% include abbildung_ende.html legende="Foto: Thomas Lehr" %}
 
-Ein lesenswertes Fund-Erlebnis von Thomas Lehr trägt den Titel ["Laternen im Sumpf"](/artikel/2020-09-18-laternen-im-sumpf.html) mit dem Zusatz "Über Sumpfhaubenpilze, Mückenstiche und Gummistiefel"
+Ein lesenswertes Fund-Erlebnis von Thomas Lehr trägt den Titel ["Laternen im Sumpf"](/artikel/laternen-im-sumpf.html) mit dem Zusatz "Über Sumpfhaubenpilze, Mückenstiche und Gummistiefel"

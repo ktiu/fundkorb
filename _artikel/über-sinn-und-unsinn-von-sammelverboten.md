@@ -1,9 +1,10 @@
 ---
 titel: Über Sinn und Unsinn von Sammelverboten
-autor_in: Helgo Bran, Biologe aus Freiburg i. Breisgau
-datum: Dezember 2008
 published: true
+excerpt: "Im September 2008 sind der Sammelleidenschaft von Pilzfreunden im Südwesten Deutschlands erneut Grenzen gesetzt worden. Eine Verordnung des Landratsamts Lörrach besagt, dass nur ein Kilogramm pro Person und Tag gesammelt werden darf. Begründung der Naturschutzbehörde: man müsse der Pilzflora eine Überlebenschance geben. Ähnliche Schutzvorschriften werden auch andernorts diskutiert und erwogen. Dabei stellt sich die Frage, ob derartige Beschränkungen überhaupt Sinn machen und dem Wohl der Pilze dienen."
 ---
+
+*von Helgo Bran, Biologe aus Freiburg i. Breisgau*
 
 Im September 2008 sind der Sammelleidenschaft von Pilzfreunden im Südwesten Deutschlands erneut Grenzen gesetzt worden. Eine Verordnung des Landratsamts Lörrach besagt, dass nur ein Kilogramm pro Person und Tag gesammelt werden darf. Begründung der Naturschutzbehörde: man müsse der Pilzflora eine Überlebenschance geben. Ähnliche Schutzvorschriften werden auch andernorts diskutiert und erwogen. Dabei stellt sich die Frage, ob derartige Beschränkungen überhaupt Sinn machen und dem Wohl der Pilze dienen.
 
@@ -21,3 +22,5 @@ Wenn wir von einem als selten angesehenen Pilz an einer entdeckten Vorkommensste
 
 Noch nie konnte jemand meine Argumentation entkräften. In der Pilzfachzeitschrift „Der Tintling“ (Nr. 55 vom 27.06.2008) schreibt nun auch die Herausgeberin Karin Montag: „Mit der Aussage von Helgo Bran, Freiburg, gehe ich übrigens konform: Pilze werden durch das Sammeln nicht ausgerottet, ganz im Gegenteil.“
 
+
+(Dezember 2008)

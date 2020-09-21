@@ -1,11 +1,12 @@
 ---
 titel: Laternen im Sumpf
-untertitel: "Über Sumpfhaubenpilze, Mückenstiche und Gummistiefel"
-datum: Juni 2005
-autor_in: "Thomas Lehr"
 excerpt: "Beim Durchblättern von Pilzbüchern bleibe ich immer wieder bei denselben Arten hängen, die ich gern selbst mal finden würde. Da sind viele Röhrlinge dabei, aber auch so mancher bunte Schleierling lässt mich jedes Mal wieder darüber nachdenken, ob man nicht auch bei uns ein geeignetes Biotop finden könnte, in dem eine Suche nach diesen, nur aus der Literatur bekannten Schönheiten lohnen würde."
 published: true
 ---
+
+**Über Sumpfhaubenpilze, Mückenstiche und Gummistiefel**
+
+*von Thomas Lehr*
 
 Beim Durchblättern von Pilzbüchern bleibe ich immer wieder bei denselben Arten hängen, die ich gern selbst mal finden würde. Da sind viele Röhrlinge dabei, aber auch so mancher bunte Schleierling lässt mich jedes Mal wieder darüber nachdenken, ob man nicht auch bei uns ein geeignetes Biotop finden könnte, in dem eine Suche nach diesen, nur aus der Literatur bekannten Schönheiten lohnen würde.
 Zu dieser Gruppe von Pilzen gehört seit einiger Zeit auch der Sumpfhaubenpilz Mitrula paludosa. Die Tatsache, dass der kleine Schlauchpilz mit dem leuchtend gelben Köpfchen in vielen populären Pilzbüchern abgebildet ist, steigerte mein Interesse nur noch weiter, ihn einmal selbst zu finden. Wenn so viele Verfasser von Bilderbüchern ihn schon vor die Linse bekommen hatten, warum nicht auch ich? Hinzu kamen Fundberichte in Internetforen und schließlich im Frühjahr 2005 die Mitteilung von Hermine Lotz, dass sie die Art im Saarland bei einer Tagung gefunden habe. Immer öfter schaute ich nun in kleine Bachläufe, morastige Pfützen und sumpfige Wegränder. Von Mitrula paludosa aber einstweilen keine Spur.
@@ -22,3 +23,4 @@ Aber wenigstens wusste ich jetzt, worauf zu achten war. Bei meiner nächsten Tou
 
 Die eindeutigen Stars dieses Biotops blieben für mich aber die Sumpfhaubenpilze. Und deswegen werde ich - trotz aller Widrigkeiten - auch im nächsten Sommer wieder in den Taunus fahren und die Schönheit der kleinen Schlauchpilze bewundern, dieser Laternen im Sumpf.
 
+(Juni 2005)

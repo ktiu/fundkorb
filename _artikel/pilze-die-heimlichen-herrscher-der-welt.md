@@ -1,9 +1,10 @@
 ---
 titel: Pilze - die heimlichen Herrscher der Welt
-untertitel: Information zur ZDF-Sendung am 22. September 2010
-datum: August 2010
 published: true
+excerpt: "Vom Glückspilz bis zum Pfifferling: Abgesehen von wenigen giftigen Spezies haben Pilze ein eher harmloses Image. Doch nun enthüllt Karsten Schwanke bei Abenteuer Wissen ihre wahre Natur, denn neue wissenschaftliche Erkenntnisse legen ein erschreckendes Fazit nahe: Pilze sind eine unterschätzte Großmacht! Sie vernichten ganze Ernten, zerlegen Felsmassive und Kulturschätze, fressen Öl und Kerosin, besiedeln den menschlichen Körper und sind Ursache für rätselhafte Krankheiten. Sind sie die heimlichen Herrscher der Welt?"
 ---
+
+*Information zur ZDF-Sendung am 22. September 2010*
 
 Vom Glückspilz bis zum Pfifferling: Abgesehen von wenigen giftigen Spezies haben Pilze ein eher harmloses Image. Doch nun enthüllt *Karsten Schwanke* bei *Abenteuer Wissen* ihre wahre Natur, denn neue wissenschaftliche Erkenntnisse legen ein erschreckendes Fazit nahe: Pilze sind eine unterschätzte Großmacht! Sie vernichten ganze Ernten, zerlegen Felsmassive und Kulturschätze, fressen Öl und Kerosin, besiedeln den menschlichen Körper und sind Ursache für rätselhafte Krankheiten. Sind sie die heimlichen Herrscher der Welt?
 
@@ -15,3 +16,5 @@ Doch es kommt noch schlimmer: Die schleimige Großmacht schreckt auch vor Maschi
 
 An einem Badesee stößt Abenteuer Wissen auf eine dramatische Geschichte, die das illustriert. Wochen, nachdem ein Schwimmer bei einem Badeunfall Wasser in die Lunge bekommen hatte, erkrankte er plötzlich und starb. Biologen ermitteln: ein Pilz war schuld. Und die tödliche Attacke bleibt kein Einzelfall. Können wir Menschen lernen, mit ihnen zu leben oder sind Pilze eine ernsthafte Bedrohung der Zivilisation? Abenteuer Wissen begibt sich auf Spurensuche im Mikrokosmos.
 
+
+(August 2010)

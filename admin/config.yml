@@ -208,7 +208,7 @@ collections:
     summary: "{{titel}} – {{filename}}.{{extension}}"
     folder: "_artikel"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     sortable_fields: ["titel", "autor_in"]
     editor:
       preview: true
@@ -218,9 +218,7 @@ collections:
         pattern: true
     fields:
       - {label: "Titel", name: "titel", widget: "string"}
-      - {label: "Untertitel", name: "untertitel", widget: "string"}
       - {label: "Autor*in", name: "autor_in", widget: "string", required: false}
-      - {label: "Datum", name: "datum", required: false, widget: "string"}
       - {label: "Vorschaubild", name: "vorschaubild", widget: "image", required: false}
       - {label: "Vorschautext", name: "extract", widget: "string", required: false}
       - {label: "Text", name: "body", widget: "markdown", editorComponents: ["abbildung"]}
@@ -307,10 +305,7 @@ collections:
       - label: "Bild"
         name: "bild"
         widget: "image"
-      - label: "Pilz"
+      - label: "Pilz (lateinischer name)"
         name: "pilz"
-        widget: "relation"
+        widget: "string"
         collection: "pilze"
-        valueField: "beschreibung.wissenschaftlich"
-        searchFields: ["beschreibung.wissenschaftlich", "beschreibung.deutsch"]
-        displayFields: ["beschreibung.wissenschaftlich", "beschreibung.deutsch"]

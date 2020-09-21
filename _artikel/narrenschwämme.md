@@ -1,10 +1,10 @@
 ---
 titel: Narrenschwämme
-untertitel: "Der Klassiker der deutschen Psilo-Literatur von Dr. Jochen Gartz (Nachtschattenverlag, ca. 70 €)"
-autor_in: Dieter Gewalt
-datum: August 2007
 published: true
+excerpt: "Schon das brillant formulierte Vorwort von Christian Rätsch ist es wert, sich den schmalen Band vorzunehmen. Es fängt mit der Frage \"Wer war der erste Narr?\" gleich gut an. Hinweise auf die Verwendung psychotroper Pilze sind so alt wie die frühen Zeugnisse menschlicher Kultur. Auf dem afrikanischen Kontinent, der Wiege der Menschheit, reichen sie zurück bis ca. 7000 v. Chr., als die Sahara noch ein blühender Garten war."
 ---
+
+**Der Klassiker der deutschen Psilo-Literatur von Dr. Jochen Gartz (Nachtschattenverlag, ca. 70 €)**
 
 Schon das brillant formulierte Vorwort von Christian Rätsch ist es wert, sich den schmalen Band vorzunehmen. Es fängt mit der Frage "Wer war der erste Narr?" gleich gut an. Hinweise auf die Verwendung psychotroper Pilze sind so alt wie die frühen Zeugnisse menschlicher Kultur. Auf dem afrikanischen Kontinent, der Wiege der Menschheit, reichen sie zurück bis ca. 7000 v. Chr., als die Sahara noch ein blühender Garten war.
 
@@ -22,3 +22,5 @@ Das hier vorgestellte Buch wird allen Aspekten des Themas gerecht. Weder die Che
 Psilocybinhaltige Pilze sind aus allen Kontinenten beschrieben worden und deren Verbreitung und Verwendung wird ausführlich behandelt. So werden auch spezielle Pilz-Omeletts auf der thailändischen Insel Ko Samui erwähnt, denen ich vor 18 Jahren eigene Erfahrungen mit Magic Mushrooms verdanke.
 
 Siehe auch den Bericht über ein massenhaftes Vorkommen von [Psilocybe cyanescens](/pilze/psilocybe-cyanescens-blauender-kahlkopf) in Frankfurt.
+
+(August 2007)

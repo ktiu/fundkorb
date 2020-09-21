@@ -1,10 +1,11 @@
 ---
 titel: "Imperator Terminator"
-autor_in: Dieter Gewalt
-datum: Dezember 2015
 vorschaubild: /bilder/amanita_phalloides_01_dg.jpg
+excerpt: "Bei den Dickröhrlingen, also den Steinpilzen und ihrer vielköpfigen Verwandtschaft, ist nichts mehr wie es einmal war. Wenn die Umbenennungsorgie so weitergeht, wird es bei ihnen bald mehr Gattungen als Arten geben. Aber welcher Teufel hat da gleich ein ganzes Team von 12 Mykologen geritten, einer neu aufgestellten Gattung den Namen \"Imperator\" zu geben?"
 published: true
 ---
+
+*von Dieter Gewalt*
 
 Bei den Dickröhrlingen, also den Steinpilzen und ihrer vielköpfigen Verwandtschaft, ist nichts mehr wie es einmal war. Wenn die Umbenennungsorgie so weitergeht, wird es bei ihnen bald mehr Gattungen als Arten geben. Aber welcher Teufel hat da gleich ein ganzes Team von 12 Mykologen geritten, einer neu aufgestellten Gattung den Namen* "Imperator" *zu geben? Haben die Autoren vielleicht gedacht, wenn man riesengroße Dampfschiffe und protzige Automarken auf eine Bezeichnung für römische Feldherren und Kaiser tauft, warum dann nicht auch eine Pilzgattung, deren Typusart ausgerechnet der* Ochsenröhrling* ist? Etwa weil sie Kaiser und Feldherren, die etwas mit autoritärer bzw. angewandter Politik zu tun haben, mit Ochsen in Verbindung bringen?
 
@@ -16,3 +17,5 @@ Wenn wir schon einen *"Beender"* haben, sollte auch das Gegenteil zugegen sein. 
 
 \*Assyov, Bellanger, Bertéa, Courtec, Koller, Loizides, G. Marques, J. A. Muñoz, N. Oppicelli, D. Puddu, F. Rich & P.-A. Moreau (2015)
 
+
+(Dezember 2015)
