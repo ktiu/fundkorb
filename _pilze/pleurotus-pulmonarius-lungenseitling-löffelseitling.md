@@ -87,5 +87,3 @@ Infos zum Ohrförmigen Seitling:
 
 <https://www.deutschlandfunkkultur.de/speisepilz-wird-giftpilz.993.de.html?dram:article_id=154417> 
 <http://tintling.com/inhalt/2012/Pleurocybella_porrigens.pdf>  
-<[http://tintling.com/pilzbuch/arten/  
-p/Pleurocybella_porrigens.html](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)>
