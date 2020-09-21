@@ -86,4 +86,4 @@ Bei *123pilze* will man mit der höchst merkwürdigen Formulierung „Lamellen u
 Infos zum Ohrförmigen Seitling:
 
 <https://www.deutschlandfunkkultur.de/speisepilz-wird-giftpilz.993.de.html?dram:article_id=154417> 
-<http://tintling.com/inhalt/2012/Pleurocybella_porrigens.pdf>  
+<http://tintling.com/inhalt/2012/Pleurocybella_porrigens.pdf>
