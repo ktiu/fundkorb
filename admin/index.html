@@ -48,7 +48,7 @@ CMS.registerEditorComponent({
     }
     return {
       bilder: bilder,
-      legende: mcopy[3].replace('\\"', '"'),
+      legende: mcopy[3],
       stil: mcopy [1] || "standard",
     };
   },
@@ -62,7 +62,7 @@ CMS.registerEditorComponent({
         var gross = (bild.gross) ? ' gross=true' : '';
         return '\n{% include bild.html datei="' + bild.datei + '"' + unterschrift + nocrop + gross +' %}';
       }).join("");
-    var figcaption = (Boolean(obj.legende)) ? ' legende="' + obj.legende.trim().replace('"', '\\"') +'"' : '';
+    var figcaption = (Boolean(obj.legende)) ? ' legende="' + obj.legende.trim() +'"' : '';
     var stil = (Boolean(obj.stil)) ? ' stil="' + obj.stil.trim() + '"' :  '';
     return '{% include abbildung_start.html' + stil + ' %}' + bilder + '\n{% include abbildung_ende.html' + figcaption + ' %}';
   },
