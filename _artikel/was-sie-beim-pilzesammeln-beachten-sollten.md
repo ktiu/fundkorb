@@ -1,10 +1,11 @@
 ---
 titel: Was Sie beim Pilzesammeln beachten sollten
 published: true
-excerpt: "Sammeln Sie zu Speisezwecken nur Pilze, die Sie hundertprozentig sicher kennen. Lassen Sie in Zweifelsfällen ihre Funde in einer Pilzberatungsstelle oder von einem anerkannten Pilzsachverständigen prüfen."
+excerpt: Sammeln Sie zu Speisezwecken nur Pilze, die Sie hundertprozentig sicher
+  kennen. Lassen Sie in Zweifelsfällen ihre Funde in einer Pilzberatungsstelle
+  oder von einem anerkannten Pilzsachverständigen prüfen.
 ---
-
-*von Dieter Gewalt*
+##### von Dieter Gewalt
 
 **Sammeln Sie zu Speisezwecken nur Pilze, die Sie hundertprozentig sicher kennen.** Lassen Sie in Zweifelsfällen ihre Funde in einer Pilzberatungsstelle oder von einem anerkannten Pilzsachverständigen prüfen. 
 
@@ -23,6 +24,5 @@ excerpt: "Sammeln Sie zu Speisezwecken nur Pilze, die Sie hundertprozentig siche
 **Abschneiden oder Herausdrehen?** Eine häufig gestellte Frage, auf die es eine klare Antwort gibt: wenn Sie den Pilz sicher erkannt haben, abschneiden! Wenn Sie ihn bestimmen oder einem Pilzberater vorlegen wollen, muss er mit allen am Stielgrund vorhandenen Merkmalen sorgfältig aus dem Boden gehoben werden. Herausdrehen macht in keinem Fall Sinn. Pilze haben kein Schraubgewinde.
 
 **Zeckengefahr!** Wer sich in der Natur aufhält, läuft Gefahr, von Zecken befallen zu werden. Die zu den Spinnentieren (Unterklasse: Milben) gehörenden Blutsauger können Krankheiten wie Borreliose und Frühsommer-Meningoenzephalitis (FSME) übertragen. Zecken springen nicht etwa von Bäumen oder Sträuchern auf den Menschen, sondern lauern an Gräsern und anderer niedriger Vegetation. Auf dem Körper ihrer Opfer laufen sie oft stundenlang umher, bis sie sich meist an Weichteilen festsaugen. Zur Vorbeugung empfiehlt sich die Anwendung eines Zeckensprays. Auf jeden Fall sollte man nach einem Aufenthalt in der Natur duschen und seinen Körper nach Zecken absuchen (oder absuchen lassen). Zur Entfernung geeignet sind Pinzetten oder Zeckenkarten. Ein bestens bewährter Zeckenentferner wird bei unseren Wanderungen angeboten. Während man sich gegen FSME impfen lassen kann, ist gegen Borreliose noch kein Impfstoff verfügbar.
-
 
 (September 2016)
