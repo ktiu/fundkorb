@@ -1,12 +1,13 @@
 ---
 titel: Von der Gänsbrüh zum Pilz des Jahres
 published: true
-excerpt: "Die Puppenkernkeule, Cordyceps militaris, ist Pilz des Jahres 2007. Die Begründung dafür kann jeder, der es möchte, auf der Website der Deutschen Gesellschaft für Mykologie nachlesen."
+excerpt: Die Puppenkernkeule, Cordyceps militaris, ist Pilz des Jahres 2007. Die
+  Begründung dafür kann jeder, der es möchte, auf der Website der Deutschen
+  Gesellschaft für Mykologie nachlesen.
 ---
+##### Die Puppenkernkeule im Rampenlicht
 
-**Die Puppenkernkeule im Rampenlicht**
-
-*von Hermine Lotz-Winter*
+##### von Hermine Lotz-Winter
 
 Die Puppenkernkeule, [Cordyceps militaris](/pilze/cordyceps-militaris-puppenkernkeule), ist Pilz des Jahres 2007. Die Begründung dafür kann jeder, der es möchte, auf der [Website der Deutschen Gesellschaft für Mykologie](https://www.dgfm-ev.de/pilz-des-jahres/2007-puppenkernkeule) nachlesen.
 
