@@ -29,5 +29,5 @@ In Frankreich wird er als *"Mousseron"* sehr geschätzt, frisch oder auch getroc
 
 Es gibt weitere nach Knoblauch riechende Schwindlinge, die für den Verzehr völlig ungeeignet sind, ohne jedoch wirklich giftig zu sein. Zu achten ist vor allem auf diese beiden Arten:
 
-**Großer Knoblauch-Schwindling** (Marasmius prasiosmus) Sieht dem Echten Knoblauch-Schwindling sehr ähnlich, schmeckt im Unterschied zu diesem jedoch brennend scharf.\
+**Großer Knoblauch-Schwindling** (Marasmius prasiosmus) Sieht dem Echten Knoblauch-Schwindling sehr ähnlich, schmeckt im Unterschied zu diesem jedoch brennend scharf.  
 **Saitenstieliger Knoblauch-Schwindling** ([Marasmius alliaceus](/pilze/marasmius-alliaceus-saitenstieliger-knoblauchschwindling)) Auch er schmeckt sehr scharf, fällt aber schon optisch durch seinen langen, schwarzbraunen bis schwarzen und auf ganzer Länge bereiften Stiel auf. Er wächst gern auf totem, auch vergrabenen Holz und ist vor allem in Buchenwäldern zu finden. Seinen penetranten Knoblauchgeruch nimmt man oft schon wahr, bevor man die meist gesellig auftretenden Pilze entdeckt.
