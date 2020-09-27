@@ -25,7 +25,7 @@ In Frankreich wird er als *"Mousseron"* sehr geschätzt, frisch oder auch getroc
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/marasmius_scorodonius_-03_dg.jpg" %}
-{% include abbildung_ende.html legende="Auffallend sind die zahlreichen Querverbindungen zwischen den Lamellen" %}
+{% include abbildung_ende.html legende="Auffallend sind die zahlreichen Querverbindungen (Anastomosen) zwischen den Lamellen" %}
 
 Es gibt weitere nach Knoblauch riechende Schwindlinge, die für den Verzehr völlig ungeeignet sind, ohne jedoch wirklich giftig zu sein. Zu achten ist vor allem auf diese beiden Arten:
 
