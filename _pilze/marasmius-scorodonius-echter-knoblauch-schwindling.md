@@ -17,11 +17,6 @@ literatur:
 ---
 Kleiner Blätterpilz (0,5 – 3 cm Hutdurchmesser) mit fleisch- bis rotbräunlicher Hutfarbe, Lamellen weiß bis hellcreme, Stiel recht dünn, rotbraun bis schwärzend, sehr steif. Auffallend ist sein deutlicher Geruch nach Knoblauch! Er kann als Würzpilz verwendet werden, ist in Frankreich unter dem Namen *Mousseron* hoch geschätzt. Wächst im Sommer und Herbst zwischen Gras auf Kulturwiesen, auf grasigen Waldlichtungen, an Waldwegen, in Parkanlagen, Friedhöfen, etc. Nicht selten.
 
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/marasmius_scorodonius_02_dg.jpg" %}
-{% include bild.html datei="/bilder/marasmius_scorodonius_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
 Es gibt weitere nach Knoblauch riechende Schwindlinge, die für den Verzehr völlig ungeeignet sind, ohne jedoch wirklich giftig zu sein. Zu achten ist vor allem auf diese beiden Arten:
 
 **Großer Knoblauch-Schwindling** (Marasmius prasiosmus) Sieht dem Echten Knoblauch-Schwindling sehr ähnlich, schmeckt im Unterschied zu diesem jedoch brennend scharf.  
