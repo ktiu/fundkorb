@@ -1,10 +1,16 @@
 ---
 titel: Narrenschwämme
 published: true
-excerpt: "Schon das brillant formulierte Vorwort von Christian Rätsch ist es wert, sich den schmalen Band vorzunehmen. Es fängt mit der Frage \"Wer war der erste Narr?\" gleich gut an. Hinweise auf die Verwendung psychotroper Pilze sind so alt wie die frühen Zeugnisse menschlicher Kultur. Auf dem afrikanischen Kontinent, der Wiege der Menschheit, reichen sie zurück bis ca. 7000 v. Chr., als die Sahara noch ein blühender Garten war."
+excerpt: Schon das brillant formulierte Vorwort von Christian Rätsch ist es
+  wert, sich den schmalen Band vorzunehmen. Es fängt mit der Frage "Wer war der
+  erste Narr?" gleich gut an. Hinweise auf die Verwendung psychotroper Pilze
+  sind so alt wie die frühen Zeugnisse menschlicher Kultur. Auf dem
+  afrikanischen Kontinent, der Wiege der Menschheit, reichen sie zurück bis ca.
+  7000 v. Chr., als die Sahara noch ein blühender Garten war.
 ---
+##### Der Klassiker der deutschen Psilo-Literatur von Dr. Jochen Gartz (Nachtschattenverlag, ca. 70 €)
 
-**Der Klassiker der deutschen Psilo-Literatur von Dr. Jochen Gartz (Nachtschattenverlag, ca. 70 €)**
+##### gelesen und kommentiert von Dieter Gewalt
 
 Schon das brillant formulierte Vorwort von Christian Rätsch ist es wert, sich den schmalen Band vorzunehmen. Es fängt mit der Frage "Wer war der erste Narr?" gleich gut an. Hinweise auf die Verwendung psychotroper Pilze sind so alt wie die frühen Zeugnisse menschlicher Kultur. Auf dem afrikanischen Kontinent, der Wiege der Menschheit, reichen sie zurück bis ca. 7000 v. Chr., als die Sahara noch ein blühender Garten war.
 

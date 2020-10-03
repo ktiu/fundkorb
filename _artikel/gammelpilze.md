@@ -1,10 +1,11 @@
 ---
-titel: "Gammelpilze"
-excerpt: "Vor Gammelfleisch ekelt sich jeder. Um so mehr erstaunt es, was häufig als Ausbeute von Pilzsammlern in Körben oder gar Plastiktüten nach Hause getragen wird."
+titel: Gammelpilze
+excerpt: Vor Gammelfleisch ekelt sich jeder. Um so mehr erstaunt es, was häufig
+  als Ausbeute von Pilzsammlern in Körben oder gar Plastiktüten nach Hause
+  getragen wird.
 published: true
 ---
-
-*von Dieter Gewalt*
+##### von Dieter Gewalt
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/gammelpilze_01_dg.jpg" %}
@@ -63,6 +64,5 @@ Auch Pilze, die im Regen gestanden sind, können durch einsetzende Eiweißzerset
 > Stellen Sie an selbst gesammelte Pilze die gleichen Qualitätsansprüche, die Sie beim Kauf von Obst und Gemüse im Supermarkt stellen würden! 
 
 Bei allen gesundheitlichen Beeinträchtigungen und Vergiftungssymptomen aufgrund der oben aufgeführten Ursachen handelt es sich nicht um eine Pilzvergiftung.  Da Speisepilze grundsätzlich unbedenkliche Lebensmittel sind, die in einwandfreiem Zustand keine Gifte enthalten, muss von einer "Lebensmittelvergiftung" aufgrund verdorbener Ware gesprochen werden.  Die Symptome können sehr heftig sein, es kann zu Schwindel, Übelkeit, Erbrechen, Durchfall, Fieber, Bauchkolik, Schüttelfrost und Kreislaufkollaps kommen.  Zu beachten sind aber auch individuelle Unverträglichkeiten, wie sie bei nahezu allen Lebensmitteln vorkommen können.
-
 
 (August 2014)

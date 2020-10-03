@@ -1,10 +1,13 @@
 ---
 titel: Von Rindswürsten und Grünlingen
 published: true
-excerpt: "Einmal die Woche gönne ich mir ein Kleinmarkthallenmenü. Dann gehe ich zur immer gleichen Metzgerei und bestelle meinen Klassiker: „Eine Rindswurst ohne Haut mit Brötchen, bitte.“ Und danach, weil sich das schlechte Wurstgewissen wieder gemeldet hat, gibt es zum Nachtisch ein biologisches Mandelhörnchen von „Querbeet“."
+excerpt: "Einmal die Woche gönne ich mir ein Kleinmarkthallenmenü. Dann gehe ich
+  zur immer gleichen Metzgerei und bestelle meinen Klassiker: „Eine Rindswurst
+  ohne Haut mit Brötchen, bitte.“ Und danach, weil sich das schlechte
+  Wurstgewissen wieder gemeldet hat, gibt es zum Nachtisch ein biologisches
+  Mandelhörnchen von „Querbeet“."
 ---
-
-*Ein Erlebnisbeicht von Florian Haas, der zu denken gibt*
+##### Ein Erlebnisbeicht von Florian Haas, der zu denken gibt
 
 Einmal die Woche gönne ich mir ein Kleinmarkthallenmenü. Dann gehe ich zur immer gleichen Metzgerei und bestelle meinen Klassiker: „Eine Rindswurst ohne Haut mit Brötchen, bitte.“ Und danach, weil sich das schlechte Wurstgewissen wieder gemeldet hat, gibt es zum Nachtisch ein biologisches Mandelhörnchen von „Querbeet“.
 

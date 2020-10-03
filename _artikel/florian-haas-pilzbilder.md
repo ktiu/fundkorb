@@ -1,6 +1,6 @@
 ---
 titel: "Florian Haas: Pilzbilder"
-vorschaubild: /bilder/florian_haas_03_fh.jpg
+vorschaubild: ""
 excerpt: Es gibt kaum einen Künstler, der sich so einfühlsam dem Thema Pilze
   gewidmet hat wie der Frankfurter Maler Florian Haas. Manche seiner Bilder
   muten wie naive Malerei an, zeigen aber klarer als die besten Fotos die
@@ -9,10 +9,9 @@ excerpt: Es gibt kaum einen Künstler, der sich so einfühlsam dem Thema Pilze
   Maler mit dem Pinsel eingefangen hat.
 published: true
 ---
+##### von Dieter Gewalt
 
-*von Dieter Gewalt*
-
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/florian_haas_01_fh.jpg" %}
 {% include bild.html datei="/bilder/florian_haas_02_fh.jpg" %}
 {% include abbildung_ende.html legende="Märtyrer (Grünspanträuschling), Maria mit dem Kinde (Fliegenpilz)" %}

@@ -15,12 +15,17 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/m/Marasmius_scorodonius.html
 ---
-Kleiner Blätterpilz (0,5 – 3 cm Hutdurchmesser) mit fleisch- bis rotbräunlicher Hutfarbe, Lamellen weiß bis hellcreme, Stiel recht dünn, rotbraun bis schwärzend, sehr steif. Auffallend ist sein deutlicher Geruch nach Knoblauch! Er kann als Würzpilz verwendet werden, ist in Frankreich unter dem Namen *Mousseron* hoch geschätzt. Wächst im Sommer und Herbst zwischen Gras auf Kulturwiesen, auf grasigen Waldlichtungen, an Waldwegen, in Parkanlagen, Friedhöfen, etc. Nicht selten.
+Kleiner Blätterpilz (0,5 – 2,5 cm Hutdurchmesser) mit fleisch- bis rotbräunlicher Hutfarbe, Lamellen weiß bis hellcreme, Stiel recht dünn, rotbraun bis schwärzend, nach oben hin heller, sehr steif bis fast drahtig. Auffallend ist sein deutlicher Geruch nach Knoblauch! Wächst [saprobiontisch](saprobiontisch "Glossar"), meist gesellig auf Kulturwiesen, grasigen Waldlichtungen, Nadelhumus oder abgestorbenen holzigen Pflanzenresten, an Waldwegen, in Parkanlagen, Friedhöfen, etc. Erscheinungszeit ist Sommer bis Herbst. Nicht selten.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/marasmius_scorodonius_-02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+In Frankreich wird er als *"Mousseron"* sehr geschätzt, frisch oder auch getrocknet auf Märkten angeboten und wegen seines Knoblauchgeschmacks als Würzpilz verwendet. Die zähen Stiele sind zu entfernen.
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/marasmius_scorodonius_02_dg.jpg" %}
-{% include bild.html datei="/bilder/marasmius_scorodonius_03_dg.jpg" %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/marasmius_scorodonius_-03_dg.jpg" %}
+{% include abbildung_ende.html legende="Auffallend sind die zahlreichen Querverbindungen (Anastomosen) zwischen den Lamellen" %}
 
 Es gibt weitere nach Knoblauch riechende Schwindlinge, die für den Verzehr völlig ungeeignet sind, ohne jedoch wirklich giftig zu sein. Zu achten ist vor allem auf diese beiden Arten:
 
