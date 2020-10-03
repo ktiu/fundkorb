@@ -1,9 +1,9 @@
-.nabbildung {
+.abbildung {
   text-align: center;
   width: 100%;
 }
 
-.nabbildung figure {
+.abbildung figure {
   background-color: $figure-background;
   display: inline-table;
   margin: 1rem auto;
@@ -11,7 +11,7 @@
   padding: 5px 5px 0 0;
 }
 
-.nabbildung figcaption {
+.abbildung figcaption {
   display: table-caption;
   background-color: $figure-background;
   caption-side: bottom;
@@ -19,94 +19,79 @@
   font-size: 0.8em;
 }
 
-.nabbildung .bilder {
+.abbildung .bilder {
   display: inline-block;
 }
 
-.nabbildung .bild {
+.abbildung .bild {
   padding: 0 0 5px 5px;
   display: inline-block;
 }
 
-.nabbildung img {
+.abbildung img {
   max-width: 100%;
   height: auto;
   max-height: 98vh !important;
 }
 
-.nabbildung .bild.gross {
+.abbildung .bild.gross {
   flex-base: 100%;
+  height: auto;
 }
-.nabbildung .bild.gross img {
+.abbildung .bild.gross img {
   width: 100%;
   height: auto;
 }
 
-.nabbildung.mittel .bilder,
-.nabbildung.klein .bilder {
-  display: inline-flex;
-  flex-flow: row wrap;
-  justify-content: center;
-  align-items: top;
-}
-
-.nabbildung.klein .bild {
-  flex: 1 1 220px;
-}
-
-.nabbildung.mittel .bild {
-  flex: 1 1 280px;
-}
-
-.nabbildung.mittel img {
-  height: 400px;
-  width: 100%;
-  object-fit: cover;
-}
-.nabbildung.klein img {
-  width: auto;
-  height: 300px;
-  object-fit: cover;
-}
-
-.nabbildung .bild.nocrop img {
-  object-fit: contain;
-}
-
-.nabbildung .unterschrift {
-  display: table-caption;
-  caption-side: bottom;
-}
-
 @media (min-width: 576px) {
-  .nabbildung.fliessend {
+  .abbildung.mittel .bild {
+    flex-shrink: 1;
+    flex-grow: 1;
+  }
+  .abbildung.klein .bild{
+    flex-shrink: 1;
+    flex-grow: 1;
+  }
+  .abbildung.mittel img {
+    height: 300px;
+    width: auto;
+    object-fit: cover;
+  }
+  .abbildung.klein img {
+    height: 200px;
+    width: auto;
+    object-fit: cover;
+  }
+  .abbildung.mittel .bilder,
+  .abbildung.klein .bilder {
+    display: inline-flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: top;
+    width:auto;
+  }
+
+  .abbildung .bild.nocrop img {
+    object-fit: contain;
+  }
+
+  .abbildung.fliessend {
     float: left;
     margin: 0.5rem 1rem 0.5rem 0;
     width: auto;
   }
 
-  .nabbildung.fliessend figure {
+  .abbildung.fliessend figure {
     width: auto;
     max-width: 100%;
     margin: 0;
     clear: both;
   }
 
-  .nabbildung.fliessend img {
+  .abbildung.fliessend img {
     max-height: 350px;
     max-width: 350px;
   }
-}
-
-.thumb {
-  display: block;
-}
-
-.thumb img {
-  height: 120px;
-  width: 120px;
-  background-color: $shadow;
-  object-fit: cover;
 }
 
 #pilzliste .tooltip-inner {

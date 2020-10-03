@@ -1,4 +1,4 @@
-<div class="blaettern">
+<div class="blaettern{% if include.oben %} d-none d-md-flex{% endif %}">
   <div class="zurueck">
   {% if page.previous %}
     <a href="{{ page.previous.url | relative_url }}"><i class="fas fa-arrow-left"></i></a>

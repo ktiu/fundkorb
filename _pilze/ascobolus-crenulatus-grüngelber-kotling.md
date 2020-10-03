@@ -28,9 +28,9 @@ Die [Apothecien](Apothecien "Glossar") des Grüngelben Kotlings erreichen lt. Li
 Die Fruchtkörper wachsen auf Kot verschiedener Tiere wie Rehe, Schafe, Hasen, Kaninchen u. a. und sitzen stiellos auf ihrem Substrat. Erscheinungszeit ist nach Literatur vorwiegend in den Wintermonaten. Bei unserer Kultur erschienen die ersten Apothecien Ende Juni. Die Art gilt als selten.
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/ascobolus_crenulatus_04_fk.jpg" unterschrift="Asci mit unreifen Sporen" %}
-{% include bild.html datei="/bilder/ascobolus_crenulatus_05_fk.jpg" unterschrift="Paraphysen" %}
-{% include bild.html datei="/bilder/ascobolus_crenulatus_06_fk.jpg" unterschrift="Sporen" %}
-{% include abbildung_ende.html legende="3 Mikrofotos von Frank Kaster" %}
+{% include bild.html datei="/bilder/ascobolus_crenulatus_04_fk.jpg" %}
+{% include bild.html datei="/bilder/ascobolus_crenulatus_05_fk.jpg" %}
+{% include bild.html datei="/bilder/ascobolus_crenulatus_06_fk.jpg" %}
+{% include abbildung_ende.html legende="3 Mikrofotos von Frank Kaster: Asci mit unreifen Sporen, Paraphysen, Sporen" %}
 
 Angaben zu den Mikromerkmalen: die achtsporigen Asci messen 135 - 195 x 14 - 19 µm, die schlanken [Paraphysen](Paraphyse "Glossar") sind lt. Literatur septiert (konnte bei dem von Frank Kaster untersuchten Material nicht festgestellt werden), die elliptischen Sporen sind jung hyalin, reif dunkelbraun mit violettlicher Ornamentierung, Maße im Durchschnitt 15 x 8,5
