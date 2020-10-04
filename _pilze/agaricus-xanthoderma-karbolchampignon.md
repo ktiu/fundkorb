@@ -24,7 +24,6 @@ Nicht selten sind enorme Massenvorkommen zu beobachten, wie zum Beispiel in eine
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/agaricus_xanthoderma_03_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/agaricus_xanthoderma_04_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/agaricus_xanthoderma_05_dg-1024x670.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
