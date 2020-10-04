@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: Agaricus xanthoderma
   deutsch: Karbolchampignon
-  referenz: "Genev. 1876"
+  referenz: Genev. 1876
   familie: Agaricaceae
 profil:
   aktualisiert: 2020-07-24
@@ -12,7 +12,6 @@ hauptbild:
   datei: /bilder/agaricus_xanthoderma_01_dg-1024x734.jpg
 published: true
 ---
-
 Die rund 60 in Europa vorkommenden Champignon-Arten sind oft nur schwer voneinander abzugrenzen. Die Wenigsten wissen, dass es unter ihnen auch giftige gibt. Sie sind in der Sektion Karbolchampignons (Xanthodermei) zusammengefasst und zeichnen sich durch starke Gelbverfärbung in Verbindung mit einem typischen Phenolgeruch (Karbol, Tinte, Krankenhaus) aus. Gelbverfärbungen kommen auch bei essbaren Champignons vor, beim Karbolchampignon ist sie besonders in der Stielbasis sehr ausgeprägt und hier ist der unangenehme Karbolgeruch auch am deutlichsten wahrzunehmen. Häufigste Art ist der Karbolchampignon Agaricus xanthoderma (lt. Index fungorum: xanthodermus). Er kommt vor allen auf Grasflächen in Parkanlagen, Gärten und Friedhöfen vor, ist aber auch außerhalb bewohnter Gebiete auf Grasflächen und in Wäldern anzutreffen.
 
 {% include abbildung_start.html stil="fliessend" %}
@@ -24,14 +23,14 @@ Pilzsachverständige werden sehr häufig mit diesem Pilz konfrontiert. In den Sp
 Nicht selten sind enorme Massenvorkommen zu beobachten, wie zum Beispiel in einer Parkanlage in Dietzenbach an der Rodgaustraße. Bereits Ende April 2016 waren hier beim ersten Schub des Jahres weit über tausend Fruchtkörper erschienen. Die hohe Zahl ergab sich aus Hochrechnungen, nachdem einige kleine Flächen ausgezählt waren. Als Beleg füge ich hier einige Fotos an:
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/agaricus_xanthoderma_03_dg.jpg" %}
-{% include bild.html datei="/bilder/agaricus_xanthoderma_04_dg.jpg" %}
-{% include bild.html datei="/bilder/agaricus_xanthoderma_05_dg-1024x670.jpg" gross=true %}
+{% include bild.html datei="/bilder/agaricus_xanthoderma_03_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/agaricus_xanthoderma_04_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/agaricus_xanthoderma_05_dg-1024x670.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
 Solche Massenvorkommen wiederholen sich hier mehrmals im Jahr und wir haben einmal sogar etliche Schnittstellen bemerkt und uns gefragt, ob da jetzt gerade jemand an Durchfall und Bauchschmerzen leidet. Da bei der Zubereitung der Pilze ein aufdringlicher, abstoßender Gestank aus der Pfanne in die Nase steigt, sollte man annehmen, dass sich niemand mehr zum Verzehr entschließen wird. Dennoch kommt es immer wieder zu Vergiftungen. 
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/agaricus_xanthoderma_06_dg-1024x632.jpg" %}
 {% include abbildung_ende.html legende="Hinter Gittern" %}
 
