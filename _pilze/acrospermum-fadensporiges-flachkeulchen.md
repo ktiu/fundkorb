@@ -22,7 +22,7 @@ Acrospermum compressum bildet ca. 3 mm hohe, oliv- bis schwarzbräunliche Keulch
 
 ### Andere auf Brennnesselstängeln wachsende kleine Pilze
 
-* auf vorjährigen, trockenen Stängeln:
+* auf vorjährigen, trockenen Stängeln: 
 
   * Aporythisma urticae (Deutscher Name nicht bekannt)
   * [Belonidium sulphureum](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen) = Schwefelgelbes Haarbecherchen
