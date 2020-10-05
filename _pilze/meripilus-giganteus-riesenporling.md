@@ -21,7 +21,7 @@ Dieser Pilz trägt den Namen *giganteus* (riesig) zurecht. Allein die einzelnen 
 {% include bild.html datei="/bilder/meripilus_giganteus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Der ausgewachsene Pilz besteht aus rosetten- oder dachziegelartig angeordneten dünnen Lappen oder Spateln, deren Oberfläche sich samtig anfühlt und in unterschiedlichen Hellocker- bis Brauntönen gezont ist. Diese Einzelhüte wachsen aus einem gemeinsamen Strunk heraus. Die Unterseite ist hell ocker-gelblich gefärbt und besteht aus winzigen Poren, die mit bloßem Auge kaum sichtbar sind. Auf Druck verfärbt sie sich dunkel und wird langsam schwarz, ein weiteres charakteristisches Kennzeichen des Riesenporlings.
+Der ausgewachsene Pilz besteht aus rosetten- oder dachziegelartig angeordneten dünnen Lappen oder Spateln, deren Oberfläche sich samtig anfühlt und in unterschiedlichen Hellocker- bis Brauntönen gezont ist. Diese 1 bis 2 cm dicken Einzelhüte wachsen aus einem gemeinsamen Strunk heraus. Die Unterseite ist hell ocker-gelblich gefärbt und besteht aus winzigen Poren, die mit bloßem Auge kaum sichtbar sind. Auf Druck verfärbt sie sich dunkel und wird langsam schwarz, ein weiteres charakteristisches Kennzeichen des Riesenporlings.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/meripilus_giganteus_04_dg.jpg" %}
