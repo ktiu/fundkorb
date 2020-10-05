@@ -29,7 +29,7 @@ Der ausgewachsene Pilz besteht aus rosetten- oder dachziegelartig angeordneten d
 
 Der Riesenporling entwickelt im befallenen Holz eine aggressive Weißfäule. Er ist vor allem an Buchen, seltener an anderen Laubhölzern zu finden und sowohl in Wäldern wie auch in Parkanlagen ziemlich häufig. Im Raum Frankfurt gehört er zu den typischen "Stadtwaldpilzen".
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/meripilus_giganteus_06_dg.jpg" %}
 {% include abbildung_ende.html legende="Dieser junge Riesenporling zeigt schon bräunliche Farbtöne, jedoch noch ohne Zonierung" %}
 
