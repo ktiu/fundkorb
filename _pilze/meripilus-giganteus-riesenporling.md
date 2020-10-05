@@ -23,13 +23,13 @@ Dieser Pilz trägt den Namen *giganteus* (riesig) zurecht. Allein die einzelnen 
 
 Der ausgewachsene Pilz besteht aus rosetten- oder dachziegelartig angeordneten dünnen Lappen oder Spateln, deren Oberfläche sich samtig anfühlt und in unterschiedlichen Hellocker- bis Brauntönen gezont ist. Diese 1 bis 2 cm dicken Einzelhüte wachsen aus einem gemeinsamen Strunk heraus. Die Unterseite ist hell ocker-gelblich gefärbt und besteht aus winzigen Poren, die mit bloßem Auge kaum sichtbar sind. Auf Druck verfärben sie sich dunkel und werden langsam schwarz, ein weiteres charakteristisches Kennzeichen des Riesenporlings.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/meripilus_giganteus_04_dg.jpg" %}
 {% include abbildung_ende.html legende="Die Hutunterseiten bestehen aus sehr feinen mit bloßem Auge kaum erkennbaren Poren." %}
 
-Der Riesenporling entwickelt im befallenen Holz eine aggressive Weißfäule. Er ist vor allem an Buchen, seltener an anderen Laubhölzern zu finden und sowohl in Wäldern wie auch in Parkanlagen ziemlich häufig. Im Raum Frankfurt gehört er zu den typischen "Stadtwaldpilzen".
+Der Riesenporling entwickelt im Holz eine aggressive Weißfäule. Damit trägt er dazu bei, dass Totholz zersetzt wird, kann aber auch lebende Bäume schädigen und zum Absterben bringen. Er ist vor allem an Buchen, seltener an anderen Laubhölzern zu finden und sowohl in Wäldern wie auch in Parkanlagen ziemlich häufig. Im Raum Frankfurt gehört er zu den typischen "Stadtwaldpilzen".
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/meripilus_giganteus_06_dg.jpg" %}
 {% include abbildung_ende.html legende="Dieser junge Riesenporling zeigt schon bräunliche Farbtöne, jedoch noch ohne Zonierung" %}
 
