@@ -36,7 +36,7 @@ Flockenstielige Hexenröhrlinge erscheinen oft schon im Frühjahr (Mai) und in m
 {% include bild.html datei="/bilder/boletus_erythropus._02_dg.jpg" %}
 {% include abbildung_ende.html legende="Reiche Ernte im Laubmischwald bei Dietzenbach-Steinbach (Alte Babenhäuser Straße)" %}
 
-Die früher als Hexenwerk interpretierte Blauverfärbung des Fleisches ist auf die Reaktion eines völlig harmlosen Inhaltsstoffes (Variegatsäure) mit dem Sauerstoff der Luft zurückzuführen. 
+Die früher als Hexenwerk interpretierte Blauverfärbung des Fleisches ist auf die Reaktion eines völlig harmlosen Inhaltsstoffes (Variegatsäure) mit dem Sauerstoff der Luft zurückzuführen.
 
 Die Vielzahl der deutschen Artnamen ist enorm und wer weiß schon, in welchem hintersten Winkel der Republik er *Rotstrumpferter* oder *Kohlmucker* genannt wird. Die unübersehbare Flut von Umbenennungen in der wissenschaftlichen Taxonomie ist nicht nur lästig, man fragt sich auch, ob sie wirklich nötig und sinnvoll ist. Hätte es nicht genügt, eine für erforderlich gehaltene Neuordnung auf der Ebene von Untergattungen oder Sektionen zu wählen, als immer neue Gattungen mit fantasielosen Namen zu kreieren? Die nachfolgenden Synonymielisten mit deutschen und wissenschaftlichen Namen stammen von *123pilze*:
 
