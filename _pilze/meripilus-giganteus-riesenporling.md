@@ -1,8 +1,8 @@
 ---
 beschreibung:
   wissenschaftlich: Meripilus giganteus
-  deutsch: "Riesenporling\t"
-  referenz: "(Pers.) P. Karst. 1882 "
+  deutsch: "Riesenporling"
+  referenz: "(Pers.) P. Karst. 1882"
   familie: Meripilaceae
   erlaeuterung: giganteus = riesig, gigantisch
 profil:
