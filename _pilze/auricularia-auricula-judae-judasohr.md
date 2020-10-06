@@ -36,11 +36,11 @@ Jeder Gast von asiatischen Restaurants kennt sie als "Chinamorcheln". Mit echten
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/auricularia_auricula-judae_06_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/auricularia_auricula-judae_07_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Abb. links: Ganz junge \"Judasöhrchen\" -- Abb. rechts: \"Spitzenreiter\"" %}
+{% include abbildung_ende.html legende="Abb. links: Ganz junge "Judasöhrchen" -- Abb. rechts: "Spitzenreiter"" %}
 
 Das Judasohr wurde von der Deutschen Gesellschaft für Mykologie zum [Pilz des Jahres 2017](https://www.dgfm-ev.de/pilz-des-jahres/2017-judasohr) gewählt. In der zu diesem Anlass herausgegebenen Pressemitteilung wird auch auf die Entstehung des deutschen Volksnamens eingegangen. Der Sage nach soll sich Judas Iskariot, der Jesus mit einem Kuss verraten hatte, aus Gram an einem Holunderbaum erhängt haben.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/auricularia_auricula-judae_08_dg.jpg" %}
 {% include abbildung_ende.html %}
 
