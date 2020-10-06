@@ -28,7 +28,7 @@ Verwechselt werden könnte er am ehesten mit dem ebenfalls essbaren und gleichwe
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/boletus_erythropus._03_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/boletus_luridus._01_dg.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Vergleich: links Flockenstieliger Hexenröhrling  --  rechts Netzstieliger Hexenröhrling" %}
 
 Flockenstielige Hexenröhrlinge erscheinen oft schon im Frühjahr (Mai) und in mehreren Schüben bis in den Spätherbst. Bevorzugte Begleitbäume und [Mykorrhizapartner](Mykorrhiza "Glossar") sind Buche und Fichte.
 
