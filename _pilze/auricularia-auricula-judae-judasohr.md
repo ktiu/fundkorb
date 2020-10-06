@@ -26,7 +26,7 @@ Die Chance, solche "Ohren" in der Natur zu entdecken, stehen gut, denn der Pilz 
 {% include bild.html datei="/bilder/auricularia_auricula-judae_03_dg.jpg" %}
 {% include abbildung_ende.html legende="Judasohren am Wollwiesenteich (Dietzenbach" %}
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/auricularia_auricula-judae_04_dg.jpg" %}
 {% include bild.html datei="/bilder/auricularia_auricula-judae_05_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="An dünnen Stängeln bildet das Judasohr auffallend kleine Fruchtkörper aus (hier: an Berberitze)" %}
