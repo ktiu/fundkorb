@@ -7,10 +7,17 @@ header_scripts:
 footer_scripts:
   - assets/js/initializeSearch.js
 ---
-
 {% include pilzsuche.html %}
 
-Unsere nächste pilzkundliche Exkursion ist  - vorausgesetzt, das Wetter spielt mit und es ist nicht zu trocken - am Sonntag, den 23. August 2020. [Mehr Infos >>>](/termine)
+<!--StartFragment-->
+
+##### **Pilzberatung**
+
+In diesem Jahr muss die Pilzberatung im Gesundheitsamt wegen der COVID-19-Pandemie und der damit einhergehenden Arbeitsbelastung im Gesundheitsamt leider ausfallen. Wir hoffen, dass wir die Pilzberatung im nächsten Jahr zusammen mit unserem langjährigen Pilzsachverständigen Dieter Gewalt wie gewohnt wieder anbieten können.
+
+<!--EndFragment-->
+
+###### **Termine für pilzkundliche Führungen** finden Sie hier [\>>>](/termine)
 
 - - -
 
