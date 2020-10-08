@@ -257,7 +257,7 @@ collections:
 
   - name: "rezepte"
     identifier_field: "titel"
-    label: "Rezepte"
+    label: "Fundkorbküche"
     label_singular: "Rezept"
     summary: "{{titel}} – {{filename}}.{{extension}}"
     folder: "_rezepte"
