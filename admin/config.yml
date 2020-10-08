@@ -79,6 +79,12 @@ collections:
         fields:
           - {label: "Überschrift", name: "title", widget: string}
           - {label: "Text", name: "body", widget: markdown}
+      - label: "Disclaimer"
+        name: "disclaimer"
+        file: _pages/60_disclaimer.md
+        fields:
+          - {label: "Überschrift", name: "title", widget: string}
+          - {label: "Text", name: "body", widget: markdown}
 
 #  _____                   _            
 # |_   _|__ _ __ _ __ ___ (_)_ __   ___ 
