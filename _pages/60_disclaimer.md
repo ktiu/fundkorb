@@ -3,7 +3,7 @@ navi: /disclaimer
 title: Disclaimer
 permalink: disclaimer
 ---
-##### Disclaimer / Wichtiger rechtlicher Hinweis
+##### Wichtiger rechtlicher Hinweis
 
 Nach einem Urteil des Landgerichts Hamburg ist der Betreiber einer Website für den Inhalt von Links verantwortlich, sofern er sich deren Inhalt zueigen macht.
 
