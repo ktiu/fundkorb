@@ -9,9 +9,10 @@ Wir sind kein Verein! Bei uns gibt es keinen Vorstand, keine Mitgliederversammlu
 
 Unser Treffpunkt am Kreishaus Dietzenbach (Ost-Seite = Straßenverkehrsamt):
 
-![](/bilder/karte_treffpunkt_kreishaus_01_dg.jpg)
-
-![](/bilder/kreishaus_01_dg.jpg)
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei='/bilder/karte_treffpunkt_kreishaus_01_dg.jpg' %}
+{% include bild.html datei='/bilder/kreishaus_01_dg.jpg' %}
+{% include abbildung_ende.html %}
 
 zentral gelegen
 
