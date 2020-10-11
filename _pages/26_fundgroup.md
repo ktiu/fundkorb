@@ -7,7 +7,7 @@ FundGroup Rhein-Main
 
 Wir sind kein Verein! Bei uns gibt es keinen Vorstand, keine Mitgliederversammlung. Was uns verbindet, ist keine Satzung, sondern die Liebe zur Natur und zu den Pilzen sowie die Freude am Sammeln und Bestimmen. Pilze sind stets eine Herausforderung. Man lernt nie aus. Immer wieder gibt es Neues zu entdecken.
 
-Unser Treffpunkt am Kreishaus Dietzenbach (Ost-Seite = Straßenverkehrsamt)
+Unser Treffpunkt am Kreishaus Dietzenbach (Ost-Seite = Straßenverkehrsamt):
 
 ![](/bilder/karte_treffpunkt_kreishaus_01_dg.jpg)
 
