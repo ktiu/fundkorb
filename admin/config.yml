@@ -49,12 +49,6 @@ collections:
         fields:
           - {label: "Überschrift", name: "title", widget: string}
           - {label: "Text", name: "body", widget: markdown}
-      - label: "Pilzführungen"
-        name: "pilzfuehrungen"
-        file: _pages/24_pilzfuehrungen.md
-        fields:
-          - {label: "Überschrift", name: "title", widget: string}
-          - {label: "Text", name: "body", widget: markdown}
       - label: "FundGroup"
         name: "fundgroup"
         file: _pages/26_fundgroup.md

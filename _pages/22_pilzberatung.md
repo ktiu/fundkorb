@@ -1,5 +1,5 @@
 ---
-title: Pilzberatung
+title: Pilzberatung / Pilzführungen
 permalink: pilzberatung
 navi: pilzberatung
 ---

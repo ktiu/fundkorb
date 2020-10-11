@@ -56,6 +56,10 @@
 }
 
 @media (min-width: 576px) {
+  #navigation.navbar-expand-sm .navbar-nav {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
   #navigation .navbar-logo {
     padding-bottom: 1.1em;
     flex-basis: auto;
@@ -84,11 +88,12 @@
   }
   #navigation.navbar-expand-sm .navbar-nav {
     flex-direction: column;
+    flex-wrap: none;
   }
   #navigation.navbar-expand-sm .navbar-nav .nav-item {
     text-align: left;
     font-size: 1.4em;
-    padding: 0 0 0.5rem 0;
+    padding: 0 3rem 0.5rem 3rem;
   }
   #navigation.navbar .navbar-collapse {
     flex-flow: column;
