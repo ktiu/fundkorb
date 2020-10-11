@@ -5,12 +5,15 @@
 }
 
 #navigation .navbar-logo {
-  flex-basis: 100%;
+  flex-basis: auto;
   text-align: center;
+  padding: 0 0.3em 0 0.3em;
 }
 
 #navigation .navbar-logo > img {
-  width: 175px;
+  height: 5em;
+  width: 5em;
+  object-fit: contain;
 }
 
 #navigation .navbar-brand {
@@ -61,8 +64,14 @@
     justify-content: center;
   }
   #navigation .navbar-logo {
-    padding-bottom: 1.1em;
     flex-basis: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  #navigation .navbar-logo > img {
+    height: 7em;
+    width: 7em;
+    object-fit: contain;
   }
   #navigation .navbar-brand {
     font-size: 4.6em;
@@ -71,6 +80,11 @@
 }
 
 @media (min-width: 992px) {
+  #navigation .navbar-logo > img {
+    height: 10em;
+    width: 10em;
+    object-fit: contain;
+  }
   #navigation.navbar {
     flex-flow: column;
     align-items: stretch;
@@ -79,7 +93,7 @@
   }
   #navigation .navbar-logo {
     text-align: center;
-    padding-bottom: 0;
+    margin: 0;
   }
   #navigation .navbar-brand {
     text-align: center;
@@ -93,7 +107,7 @@
   #navigation.navbar-expand-sm .navbar-nav .nav-item {
     text-align: left;
     font-size: 1.4em;
-    padding: 0 3rem 0.5rem 3rem;
+    padding: 0 5rem 0.5rem 5rem;
   }
   #navigation.navbar .navbar-collapse {
     flex-flow: column;
