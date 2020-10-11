@@ -30,55 +30,55 @@ collections:
         file: index.md
         fields:
           - {label: "Überschrift", name: "title", widget: string}
-          - {label: "Text", name: "body", widget: markdown}
+          - {label: "Text", name: "body", widget: markdown, editorComponents: ["abbildung"]}
       - label: "Termine"
         name: "termine"
         file: _pages/10_termine.md
         fields:
           - {label: "Überschrift", name: "title", widget: string}
-          - {label: "Text", name: "body", widget: markdown}
+          - {label: "Text", name: "body", widget: markdown, editorComponents: ["abbildung"]}
       - label: "Pilzporträts"
         name: "pilze"
         file: _pages/20_pilze.md
         fields:
           - {label: "Überschrift", name: "title", widget: string}
-          - {label: "Text", name: "body", widget: markdown}
+          - {label: "Text", name: "body", widget: markdown, editorComponents: ["abbildung"]}
       - label: "Pilzberatung"
         name: "pilzberatung"
         file: _pages/22_pilzberatung.md
         fields:
           - {label: "Überschrift", name: "title", widget: string}
-          - {label: "Text", name: "body", widget: markdown}
+          - {label: "Text", name: "body", widget: markdown, editorComponents: ["abbildung"]}
       - label: "FundGroup"
         name: "fundgroup"
         file: _pages/26_fundgroup.md
         fields:
           - {label: "Überschrift", name: "title", widget: string}
-          - {label: "Text", name: "body", widget: markdown}
+          - {label: "Text", name: "body", widget: markdown, editorComponents: ["abbildung"]}
       - label: "Artikel"
         name: "artikel"
         file: _pages/30_artikel.md
         fields:
           - {label: "Überschrift", name: "title", widget: string}
-          - {label: "Text", name: "body", widget: markdown}
+          - {label: "Text", name: "body", widget: markdown, editorComponents: ["abbildung"]}
       - label: "Rezepte"
         name: "rezepte"
         file: _pages/40_kueche.md
         fields:
           - {label: "Überschrift", name: "title", widget: string}
-          - {label: "Text", name: "body", widget: markdown}
+          - {label: "Text", name: "body", widget: markdown, editorComponents: ["abbildung"]}
       - label: "Kontakt"
         name: "kontakt"
         file: _pages/50_kontakt.md
         fields:
           - {label: "Überschrift", name: "title", widget: string}
-          - {label: "Text", name: "body", widget: markdown}
+          - {label: "Text", name: "body", widget: markdown, editorComponents: ["abbildung"]}
       - label: "Disclaimer"
         name: "disclaimer"
         file: _pages/60_disclaimer.md
         fields:
           - {label: "Überschrift", name: "title", widget: string}
-          - {label: "Text", name: "body", widget: markdown}
+          - {label: "Text", name: "body", widget: markdown, editorComponents: ["abbildung"]}
 
 #  _____                   _            
 # |_   _|__ _ __ _ __ ___ (_)_ __   ___ 
