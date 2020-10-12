@@ -16,7 +16,7 @@ literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 4 (Blättepilze 2. Teil)
       Nr. 303"
 ---
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/coprinopsis_stercorea_01_dg.jpg" %}
 {% include bild.html datei="/bilder/coprinopsis_stercorea_02_dg.jpg" %}
 {% include bild.html datei="/bilder/coprinopsis_stercorea_03_dg.jpg" %}
