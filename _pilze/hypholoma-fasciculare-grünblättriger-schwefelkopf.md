@@ -33,6 +33,6 @@ Es gibt mehrere Arten. Um sie zu identifizieren, muss man auf individuelle Merkm
 {% include bild.html datei="/bilder/hypholoma_fasciculare_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hypholoma_fasciculare_07_gg.jpg" %}
 {% include abbildung_ende.html legende="Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Hier eine Illustration von Gabriele Gossner (in: Hans Haas – Pilze Mitteleuropas, 1964). Der Grünblättrige Schwefelkopf hieß damals noch Nematoloma fasciculare" %}
