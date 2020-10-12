@@ -32,9 +32,9 @@ In beiden Gruppen spielen Begleitbäume als Mykorrhizapartner eine wichtige Roll
 {% include abbildung_ende.html %}
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/leccinum_aurantiacum_04_dg.jpg" %}
-{% include bild.html datei="/bilder/leccinum_aurantiacum_05_dg.jpg" %}
-{% include bild.html datei="/bilder/leccinum_aurantiacum_06_dg.jpg" %}
+{% include bild.html datei="/bilder/leccinum_aurantiacum_04_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/leccinum_aurantiacum_05_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/leccinum_aurantiacum_06_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Anmerkung zum Foto in der Mitte: Die Schnittstelle zeigt die Verfärbung im Stielfleisch" %}
 
 ##### Aktueller Stand der Taxonomie
