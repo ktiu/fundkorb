@@ -28,3 +28,8 @@ Die obigen Fotos entstanden bei einer Pilzberatung im Frankfurter Gesundheitsamt
 {% include bild.html datei="/bilder/leucoagaricus_badhamii_04_dg.jpg" %}
 {% include bild.html datei="/bilder/leucoagaricus_badhamii_05_dg.jpg" %}
 {% include abbildung_ende.html legende="Auch der junge Fruchtkörper zeigte schon kurz nach der Entnahme deutliche rötlich braune und schwarzbraune Verfärbungen an Hut znd Stiel" %}
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/leucoagaricus_badhamii_06_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/leucoagaricus_badhamii_07_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Ein weiterer Fund zeigt die Art in weniger verfärbtem Zustand" %}
