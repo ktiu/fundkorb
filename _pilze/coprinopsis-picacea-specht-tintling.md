@@ -16,7 +16,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Coprinopsis_picacea.html
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/coprinopsis_-picaceus_01_dg.jpg" %}
 {% include bild.html datei="/bilder/coprinopsis_picaceus_02_dg.jpg" %}
 {% include bild.html datei="/bilder/coprinopsis_picaceus_03_dg.jpg" %}
