@@ -16,7 +16,7 @@ hauptbild:
 ---
 In einem Hybridpappelwäldchen, durchmischt mit einzelnen Erlen und wilden Pflaumenbäumen am Rande eines Wasserlaufs wurden in der Schicht der verrottenden Blätter Furchtkörper der Schneckenbasidie gefunden. Der Standort war von einer das ganze Jahr bestehenden Bodenfeuchtigkeit geprägt (Quellgebiet), der Boden gut mineralisiert, wohl stickstoffreich (Brennesseln). Der Pilz bedeckte als völlig [resupinater](resupinat "Glossar"), etwa 1 mm dicker Überzug in einer Ausehnung von ca. 8 x 2 cm verschiedene Substrate wie Pappelästchen, Brennnesselstängel etc., an denen er lose befestigt war. Die Oberfläche war violett, wellig-höckerig und matt weißlich bereift.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/helicobasidium_purpureum_02_hl.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/helicobasidium_purpureum_03_hl.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Im Mikroskop zeigten sich die typischen spazierstockartigen Basidien, die die ursprüngliche Vermutung sofort bestätigten. Im Feld sehen Tulasnella- oder Exidiopsisarten oft sehr ähnlich aus." %}
