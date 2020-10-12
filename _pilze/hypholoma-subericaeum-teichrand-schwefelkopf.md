@@ -19,7 +19,7 @@ Das Jahr 2018 war im Rhein-Main-Gebiet das trockenste seit Beginn der Wetteraufz
 {% include bild.html datei="/bilder/hypholoma_subericaeum_02.jpg" %}
 {% include abbildung_ende.html %}
 
-Ein solches Beispiel war ein Massenvorkommen des Teichrand-Schwefelkopfes am 17. November am Maunzenweiher im Frankfurter Stadtwald. Es handelt sich um eine sehr seltene Art, die in Roten Listen geführt wird. In der [DGfM-Kartierung für Hessen](http://hessen.pilze-deutschland.de/organismen/hypholoma-subericaeum-fr-k%C3%BChner-1936-1) finden sich lediglich am südlichen Rand in Neckarnähe zwei Fundpunkte. Am Maunzenweiher hatten wir ein Vorkommen, das sich über eine längere Strecke im trocken gefallenen Uferbereich hinzog und mindestens 200 gesellig wachsende Fruchtkörper enthielt. Der Baumbestand in diesem Bereich bestand aus Weiden sowie jungen Eichen und Buchen.
+Ein solches Beispiel war ein Massenvorkommen des Teichrand-Schwefelkopfes am 17. November am Maunzenweiher im Frankfurter Stadtwald. Es handelt sich um eine sehr seltene Art, die in Roten Listen geführt wird. In der [DGfM-Kartierung für Hessen](http://hessen.pilze-deutschland.de/organismen/hypholoma-subericaeum-fr-k%C3%BChner-1936) finden sich lediglich am südlichen Rand in Neckarnähe zwei Fundpunkte. Am Maunzenweiher hatten wir ein Vorkommen, das sich über eine längere Strecke im trocken gefallenen Uferbereich hinzog und mindestens 200 gesellig wachsende Fruchtkörper enthielt. Der Baumbestand in diesem Bereich bestand aus Weiden sowie jungen Eichen und Buchen.
 
 Bei einer gezielten Suche am 28. November 2018 fanden wir die Art auch am Jacobiweiher und bei Hermine Lotz-Winter in Mörfelden-Walldorf wuchsen sie am Rand eines Gartenteiches.
 
