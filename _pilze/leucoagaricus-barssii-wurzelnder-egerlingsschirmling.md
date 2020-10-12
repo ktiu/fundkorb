@@ -26,7 +26,7 @@ Nachtrag: In den Jahren 2019 und 2020 wurde der Wurzelnde Egerlingsschirmling au
 {% include bild.html datei="/bilder/leucoagaricus_barssii_03_dg.jpg" %}
 {% include abbildung_ende.html legende="26.08.2020 Dietzenbach, Carré Rodgaustraße (Foto: Dieter Gewalt)" %}
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/leucoagaricus-barssii_04_fk.jpg" %}
 {% include bild.html datei="/bilder/leucoagaricus_barssii_05-fk.jpg" %}
 {% include abbildung_ende.html legende="Zwei Mikrofotos (Sporen - rechts in Melzers = dextrinoid): Frank Kaster" %}
