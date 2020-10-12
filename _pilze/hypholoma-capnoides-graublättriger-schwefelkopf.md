@@ -35,6 +35,6 @@ Von oben betrachtet sind vor allem Grau- und Grünblättriger Schwefelkopf kaum 
 
 Wer Schwefelköpfe nicht eindeutig von anderen büschelig an Totholz wachsenden Blätterpilzen unterscheiden kann, sollte unbedingt aufs Sammeln verzichten.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hypholoma_capnoides_03_gg.jpg" %}
 {% include abbildung_ende.html legende="Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Hier eine Illustration von Gabriele Gossner (in: Hans Haas – Pilze Mitteleuropas, 1964). Der Graublättrige Schwefelkopf hieß damals noch Nematoloma capnoides" %}
