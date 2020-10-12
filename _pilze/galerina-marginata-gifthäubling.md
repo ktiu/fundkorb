@@ -25,8 +25,8 @@ Die Gefahr erhöht sich noch dramatisch, weil Galerina marginata nicht der einzi
 Der Gifthäubling wächst sowohl im Nadel- wie im Laubwald, nicht selten zusammen mit Stockschwämmchen am gleichen Totholz. Die Haupterscheinungszeit ist September bis November.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/galerina_marginata_02_nk.jpg" %}
-{% include bild.html datei="/bilder/kuehneromyces_mutabilis_05_dg.jpg" %}
+{% include bild.html datei="/bilder/galerina_marginata_02_nk.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/kuehneromyces_mutabilis_05_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Links: Gifthäubling (Foto: Norbert Kühnberger)   /  Rechts: Stockschwämmchen" %}
 
 Unterschiede in der Stielbekleidung können bei untypischer Ausprägung, aber auch alters- und witterungsbedingt undeutlich werden. Erschwerend kommt hinzu, dass der Begriff „Gifthäubling“ als Sammelbezeichnung für mehrere nah verwandte Häublingsarten aufgefasst werden kann, die nur schwer oder mikroskopisch sicher unterscheidbar und ebenfalls tödlich giftig sind, z. B. Galerina autumnalis, G. sideroides, G. badipes. Unter diesen gibt es Arten, die flockig-schuppige Stiele oder glatte Sporen haben können.
