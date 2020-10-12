@@ -14,8 +14,8 @@ hauptbild:
   datei: /bilder/lentinus_strigosus_03_dg.jpg
 ---
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/lentinus_strigosus_06_dg.jpg" %}
-{% include bild.html datei="/bilder/lentinus_strigosus_03_dg.jpg" %}
+{% include bild.html datei="/bilder/lentinus_strigosus_06_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/lentinus_strigosus_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
 Eigentlich könnte Entwarnung gegeben werden: für die Rote-Liste-Art Lentinus strigosus scheint kaum noch eine Bestandsgefährdung zu bestehen. „Schuld“ an dieser für den Pilz erfreulichen Entwicklung ist zum einen die Klima-Erwärmung, die längst zur Bedrohung für unser ökologisches Gleichgewicht geworden ist, und zum anderen, dass in vielen Wäldern Totholz bis zur Verrottung liegen bleiben darf und Holzbewohnern das Substrat anbietet, das sie zum Wachstum benötigen. Das Rhein-Main-Gebiet scheint zu den Verbreitungsschwerpunkten des Pilzes zu gehören, was angesichts der wärmebegünstigten Lage nicht verwunderlich ist. Ein Allerweltspilz ist der Borstige Knäueling jedoch auch hier nicht. Wie etwa der häufige Spaltblättling gehört er zu den Erstbesiedlern von totem Laubholz, bevorzugt sonnenexponierte Standorte und kann längere Trockenperioden schadlos überdauern. Laut Literatur ist die Buche der Haupt-, nach eigener Beobachtung der einzige Wirt. Im Frühjahr 2019 ist der attraktive und nahezu unverwechselbare Pilz an mehreren Standorten in der Rhein-Main-Ebene und dort gleich massenhaft aufgetreten.
@@ -46,6 +46,5 @@ Der vom Habitus ähnliche und häufige Laubholz-Knäueling *Lentinus torulosus* 
 {% include abbildung_ende.html legende="Foto: Harry Regin" %}
 
 Ziemliche Verwirrung herrscht um seinen gültigen Namen. Laut *Index Fungorum* kehrt der Borstige Knäueling wieder in seine frühere Gattung *Panus* zurück, erhält jetzt aber von Drechsler-Santos & Wartschow (2012) den neuen Artnamen *neostrigosus*, während die Fries´sche Art *Panus rudis* von 1838 weiter besteht und ihren Namen beibehält. In der Synonymieliste fehlt allerdings der Name Panus rudis. Bis zur Klärung dieser Ungereimtheiten halte ich mich an das in meiner aktuellen Literatur verwendete Taxon *Lentinus strigosus*, unter dem auch (siehe Großpilze BWs Band 3 S. 17) Panus rudis und Panus lecomtei synonymisiert sind.
-
 
 Andere Länder – andere Sitten: in Thailand ist der bei uns als ungenießbar geltende Borstige Knäueling eine weit verbreitete Art und wird (!) eifrig gesammelt und gegessen. In diesem [Video](https://youtu.be/crYtKSc6yC8) kann man den Thais beim „Ernten“ zuschauen.
