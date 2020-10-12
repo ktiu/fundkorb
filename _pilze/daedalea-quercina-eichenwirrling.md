@@ -17,10 +17,10 @@ literatur:
 ---
 Zu den wenigen Pilzarten, die man mit verbundenen Augen nur durch Ertasten erkennen kann, gehört der Eichenwirrling. Er wächst an totem Eichenholz, an dem er konsolenförmige Fruchtkörper ausbildet, deren korkfarbene Oberflächen sich krustig anfühlen und wenig spektakulär aussehen. Von oben betrachtet könnte es ein x-beliebiger Baumschwamm sein, aber man braucht nur seine Unterseite zu befühlen und weiß: das ist der Eichenwirrling. Gelegenheit dazu hat man fast in jedem Laubwald, in dem es Eichen gibt.
 
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/daedalea_quercina_03_dg.jpg" %}
-{% include bild.html datei="/bilder/daedalea_quercina_04_dg.jpg" %}
-{% include bild.html datei="/bilder/daedalea_quercina_06_dg.jpg" %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/daedalea_quercina_03_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/daedalea_quercina_04_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/daedalea_quercina_06_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
 Das Hymenophor, die sporenbildende Fruchtschicht an der Hutunterseite, ist von lammelig-poriger Struktur von schier unglaublicher Vielfalt und von lederig zäher Konsistenz. Die einzelnen Stege sind wie der gesamte Fruchtkörper biegsam ohne zu brechen.
