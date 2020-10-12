@@ -31,7 +31,7 @@ Um die anderen zu unterscheiden, ist in der Regel Mikroskopieren unverzichtbar. 
 
 Die [Cheilozystiden](Cheilozystiden "Glossar") an den Lamellenschneiden bewirken, dass diese mit der Lupe betrachtet fein weißlich bewimpert erscheinen. Auch dies ist eine Eigenschaft, welche bei der Bestimmung von Stummelfüßchen herangezogen werden kann.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/crepidotus_cesatii_schnallen_08_fk.jpg" %}
 {% include bild.html datei="/bilder/crepidotus_cesatii_cheilocystiden_09_fk.jpg" %}
 {% include abbildung_ende.html legende="2  Mikrofotos von Frank Kaster zeigen Hyphen mit Schnallen (Pfleile, linke Abb.) sowie Cheilozystiden + eine rundliche Spore (rechte Abb.)" %}
