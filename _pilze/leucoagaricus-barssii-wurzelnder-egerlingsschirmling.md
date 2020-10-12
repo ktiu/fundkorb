@@ -32,7 +32,3 @@ Nachtrag: In den Jahren 2019 und 2020 wurde der Wurzelnde Egerlingsschirmling au
 {% include abbildung_ende.html legende="Zwei Mikrofotos (Sporen - rechts in Melzers = dextrinoid): Frank Kaster" %}
 
 Bei der mikroskopischen Sporenuntersuchung durch Frank Kaster fiel auf, dass sehr vereinzelte Sporen einen Keimporus hatten. Die Maße betrugen 6,4 - 7,8 x 4,3 - 5,0.
-
-##### Ab hier erst mal Test:
-
-Einfügen Link zu [Vogelnestpilzen](/admin/#/collections/verwandtsdchaften/entries/vogelnestpilze).
