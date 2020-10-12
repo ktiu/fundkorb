@@ -16,7 +16,7 @@ Wozu in den Wald gehen? Die tollsten Pilze findet man oft mitten in seiner Heima
 
 Die Raustielröhrlinge (Raufüße, Leccinum) lassen sich pauschal in zwei Gruppen und einen Außenseiter einteilen:
 
-**„Birkenpilze“** mit grauen bis graubraunen Hüten, [Trama](Trama "Glossar") nicht oder rosa bis rötlich verfärbend  
+**„Birkenpilze“** mit grauen bis graubraunen Hüten, [Trama](Trama "Glossar") nicht oder rosa bis rötlich verfärbend\
 **„Rotkappen“** mit roten bis rotbraunen Hüten, Trama dunkelgrau bis schwarzviolett verfärbend, sofort oder nach einer anfänglichen rosaroten bis lachsfarbenen Reaktion. Bei ihnen fällt auch die über den Hutrand hinausreichende Huthaut auf, die bis auf die Poren übergreifen kann:
 
 {% include abbildung_start.html stil="standard" %}
@@ -31,7 +31,7 @@ In beiden Gruppen spielen Begleitbäume als Mykorrhizapartner eine wichtige Roll
 {% include bild.html datei="/bilder/leccinum_aurantiacum_03_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/leccinum_aurantiacum_04_dg.jpg" %}
 {% include bild.html datei="/bilder/leccinum_aurantiacum_05_dg.jpg" %}
 {% include bild.html datei="/bilder/leccinum_aurantiacum_06_dg.jpg" %}
