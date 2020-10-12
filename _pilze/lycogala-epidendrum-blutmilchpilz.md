@@ -16,8 +16,8 @@ literatur:
 ---
 Der Blutmilchpilz ist einer der häufigsten Schleimpilze (Myxomyceten). Auffällig sind sie vor allem in ihrem schön rosa gefärbten Frühstadium. Drückt man auf die kugeligen, oft vielfach deformierten Fruchtkörper, platzt die äußere Haut und es spritzt ein ebenfalls rosa gefärbter Schleim heraus. In ihrer weiteren Entwicklung verfärben sie sich grünlich grau, graubraun und zuletzt dunkelbraun. In diesem Stadium sind sie trocken und bei Reife löst sich die Außenhaut am Scheitel auf und lässt die Sporen austreten.
 
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/lycogala_epidendrum_02_dg.jpg" %}
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lycogala_epidendrum_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
 Genau genommen sind Schleimpilze keine Pilze, sondern amöbenartige einzellige Lebewesen, die sich kriechend fortbewegen und wie Tiere fressen. Sie bilden eine riesige schleimige Zelle, die Millionen von Zellkernen enthält und Plasmodium genannt wird. Sie ernähren sich von Bakterien, Hefen, Pilzhyphen, Sporen und vielem mehr, indem sie diese umfließen, sich einverleiben und verdauen. In ihrem letzten Lebensstadium verwandeln sie sich in sporenbildende Fruchtkörper (sogenannte Sporangien), um sich wie Pilze fortzupflanzen. Ihre subtile Schönheit erschließt sich dem Betrachter meist erst mit Hilfe einer Lupe. Sie auf Artebene sicher zu bestimmen ist nicht immer einfach, verändern sie doch in ihrem Lebenszyklus ständig ihr Aussehen, bis sie schließlich ihr Reifestadium erreichen. Oft ist die Bestimmung nur anhand reifer Fruchtkörper möglich. Man kennt heute weltweit rund 900 Arten in 60 Gattungen.
