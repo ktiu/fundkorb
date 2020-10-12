@@ -21,7 +21,7 @@ Einige Literaturangaben zur Abundanz kann ich nicht nachvollziehen. *Breitenbach
 
 Obwohl der Pilz problemlos makroskopisch bestimmbar ist, hat Frank Kaster auch Mikromerkmale überprüft. Seine Fotos zeigen achtsporige Asci und schlangenförmige gelbliche Sporen mit Tropfen und den Maßen 36 - 40 x 4 - 5 µm.
 
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/lasiosphaeria_ovina_02_ascus_fk.jpg" %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/lasiosphaeria_ovina_02_ascus_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/lasiosphaeria_ovina_03_sporen_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: Ascus -- Abb. rechts: Sporen (zwei Mikrofotos: Frank Kaster)" %}
