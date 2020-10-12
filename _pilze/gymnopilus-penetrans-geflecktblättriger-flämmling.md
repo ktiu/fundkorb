@@ -19,9 +19,8 @@ Ein gutes Pilzfoto sollte die typischen Merkmale einer Art möglichst deutlich u
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/gymnopilus_penetrans_03_dg.jpg" %}
 {% include bild.html datei="/bilder/gymnopilus_penetrans_02_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Der Geflecktblättrige Flämmling wächst zwar ganz überwiegend an totem Nadelholz, ist aber gelegentlich auch mal an Laubholz wie hier an Birke zu finden" %}
 
 „Geflecktblättriger Flämmling“ ist zwar ein vielsilbiger und unhandlicher Pilzname, verweist aber auf sein wichtigstes Erkennungmerkmal. Seine orangegelblichen Lamellen (=Blätter) werden im Alter zunehmend rostfleckig. Die ähnlich (gelbfuchsig) gefärbten Hüte erreichen Durchmesser von 5 bis 7 Zentimetern. Auf den ersten Blick wird er manchmal für einen Falschen Pfifferling gehalten, zumal beide Arten nicht selten nahe beieinander gefunden werden. Der Geflecktblättrige Flämmling wächst allerdings nur auf Holz, vor allem auf liegenden, schon angefaulten oder mit Moos bewachsenen Ästen von Nadel-, seltener von Laubbäumen.
-
 
 Alle Flämmlingsarten sind wegen ihrer Bitterkeit ungenießbar.
