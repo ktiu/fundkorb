@@ -15,14 +15,14 @@ hauptbild:
 Ein Aufruf von Helgo Bran an Deutschlands Pilzsachverständige im Jahre 1999, nach einem im Boden eingesenkten kelch- oder becherlingsartigen Pilz bei Zedern zu suchen, war bundesweit von durchschlagendem Erfolg gekrönt. In Hessen war es wahrscheinlich Thomas Lehr, der am 18.02.2005 im Hofheimer Waldfriedhof (TK 5916.2.1) den Pilz durch gezielte Suche erstmals für das Bundesland Hessen nachweisen konnte. Auf dem Gelände sind etliche Libanonzedern angepflanzt und in ihrem gesamten Umfeld wuchsen die Borstlinge in großer Zahl. Zwei Monate später führte er mich zu seiner Fundstelle, wo auch ich den Pilz aus eigener Anschauung kennenlernen und fotografieren konnte. Werner Pohl berichtete später von einem Fund im Frankfurter Grüneburgpark (TK 5817.4.4, 30.04.2006). Hier wuchsen unter einer einzigen Zeder mehrere Dutzend Exemplare. Eine erfolgversprechende Suche nach dem Pilz setzt also voraus, Vorkommen von Zedern ausfindig zu machen, und die sind hierzulande ziemlich dünn gesät.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/zeder_-schlosspark_bad_homburg_01_dg.jpg" %}
-{% include bild.html datei="/bilder/zeder_schlosspark-bad_-homburg_02_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/zeder_-schlosspark_bad_homburg_01_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/zeder_schlosspark-bad_-homburg_02_dg.jpg" %}
 {% include abbildung_ende.html legende="Libanonzeder im Schlosspark Bad Homburg. Typisch: große Zapfen, die nach der Reife schnell zerfallen" %}
 
 Die stiellosen Fruchtkörper des Zedern-Sandborstlings erreichen Durchmesser von etwa 2 bis 7 cm. Sie entwickeln sich kugelförmig unter der Erde und sind zunächst nur als unspezifisches Loch wahrzunehmen. Sie öffnen sich sternförmig, sobald sie an der Oberfläche erscheinen. Die Innenseite der zu den Schlauchpilzen zählenden Art ist grauweißlich bis cremefarben und glatt, die Außenseite borstig und braun. In Verbindung mit ihrem Mykorrhizapartner dürfte sie unverwechselbar sein.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/geopora_sumneriana_08_tl.jpg" %}
+{% include bild.html datei="/bilder/geopora_sumneriana_08_tl.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/geopora_sumneriana_07_tl.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="2 Fotos: Thomas Lehr" %}
 
