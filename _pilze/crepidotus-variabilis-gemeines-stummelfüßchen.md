@@ -12,7 +12,7 @@ hauptbild:
   anzeige: false
   datei: /bilder/crepidotus_variabilis_01_dg.jpg
 ---
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/crepidotus_variabilis_02_dg.jpg" %}
 {% include bild.html datei="/bilder/crepidotus_variabilis_03_dg.jpg" %}
 {% include bild.html datei="/bilder/crepidotus_variabilis_01_dg.jpg" %}
