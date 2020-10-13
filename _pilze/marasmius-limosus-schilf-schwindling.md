@@ -13,11 +13,10 @@ hauptbild:
   anzeige: false
   datei: /bilder/marasmius_limosus_02_hl.jpg
 ---
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/marasmius_limosus_01_hl.jpg" %}
 {% include bild.html datei="/bilder/marasmius_limosus_02_hl.jpg" %}
 {% include abbildung_ende.html legende="Fotos: Hermine Lotz-Winter" %}
-
 
 Die Hütchen dieses Winzlings erreichen kaum einmal Durchmesser von mehr als 3 mm. Sie erinnern im Aussehen an einen Fallschirm. Die wenigen Lamellen (meist sind es zwischen 5 und 10) stehen entfernt und sind ohne den Stiel direkt zu erreichen zu einem Kollar zusammengewachsen. Die rosshaarartigen Stiele sind im Vergleich zur Hutgröße meist sehr lang, dunkelbraun bis schwarz und drahtig starr, oft gekrümmt, an der Spitze heller bis weiß.
 
