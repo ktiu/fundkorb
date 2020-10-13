@@ -27,7 +27,7 @@ Grasschwindlinge sind schon durch ihr Vorkommen an Gras gut gekennzeichnet. Sie 
 {% include bild.html datei="/bilder/marasmius_curreyi_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Die Art gilt als selten. In der aktuellen [DGfM-Kartierung](http://hessen.pilze-deutschland.de/organismen/marasmius-epiphylloides-rea-sacc-trotter-1925) für Hessen sind lediglich 6 Fundpunkte verzeichnet, alle in der Rhein-Main-Ebene.
+Die Art gilt als selten. In der aktuellen [DGfM-Kartierung](http://hessen.pilze-deutschland.de/organismen/?qstring=marasmius+epiphylloides) für Hessen sind lediglich 6 Fundpunkte verzeichnet, alle in der Rhein-Main-Ebene.
 
 Als Synonym für Marasmius curreyi wird vielfach *Marasmius graminum* angegeben; dies ist aber eine eigene Art, die wohl eher an Laubholzästchen als in Rasen vorkommt und kein Kollar ausbildet.
 
