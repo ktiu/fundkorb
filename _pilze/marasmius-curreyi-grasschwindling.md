@@ -22,9 +22,9 @@ Die Gattung Schwindlinge besteht aus überwiegend kleinen dünnfleischigen Pilze
 Grasschwindlinge sind schon durch ihr Vorkommen an Gras gut gekennzeichnet. Sie erscheinen ab Frühsommer in Rasen und Wiesen, gern in Gärten oder Parkanlagen. Zur gleichen Zeit und an gleichen Standorten wächst auch der sehr viel größere und auffälligere Nelkenschwindling *Marasmius oreades*, der gern ausgedehnte Hexenringe bildet und von Kennern als ausgezeichneter Speisepilz geschätzt wird.
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/marasmius_curreyi_02_dg.jpg" %}
-{% include bild.html datei="/bilder/marasmius_curreyi_04_dg.jpg" %}
-{% include bild.html datei="/bilder/marasmius_curreyi_03_dg.jpg" %}
+{% include bild.html datei="/bilder/marasmius_curreyi_02_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/marasmius_curreyi_04_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/marasmius_curreyi_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
 Die Art gilt als selten. In der aktuellen [DGfM-Kartierung](http://hessen.pilze-deutschland.de/organismen/marasmius-curreyi-berk-broome-1879-1) für Hessen sind lediglich 6 Fundpunkte verzeichnet, alle in der Rhein-Main-Ebene.
