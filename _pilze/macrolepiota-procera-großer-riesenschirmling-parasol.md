@@ -16,8 +16,9 @@ literatur:
 ---
 Die Riesenschirmlinge kann man anhand leicht erkennbarer Merkmale in zwei Gruppen einteilen: Nennen wir die erste, die richtig guten, einmal „Echte Parasole“, die zweite, die weniger guten, „Rötende Riesenschirmlinge“ (= Safran-Riesenschirmlinge).
 
-Merkmale der *Echten Parasole*: weißes, nicht verfärbendes Fleisch, genatterter Stiel.  
-Merkmale der *Rötenden Riesenschirmlinge* (auch *Safran-Riesenschirmlinge*): safranfarben oder gelblich/rötlich verfärbendes Fleisch, ungenatterter Stiel.
+**Merkmale der *Echten Parasole*:** weißes, nicht verfärbendes Fleisch, genatterter Stiel.
+
+**Merkmale der *Rötenden Riesenschirmlinge*** (auch *Safran-Riesenschirmlinge*): safranfarben oder gelblich/rötlich verfärbendes Fleisch, ungenatterter Stiel.
 
 Beiden Gruppen gemeinsam ist der dicke, wattige Ring, der sich nach dem Ablösen am Stiel auf- und abbewegen lässt. Dieses Merkmal ist für die Riesenschirmlinge typisch und kommt bei anderen Pilzen nicht vor.
 
