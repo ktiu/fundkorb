@@ -27,7 +27,7 @@ In der Sektion Kammtäublinge werden vier Arten und ein „Phantom“ geführt. 
 
 **Kratzender Kammtäubling** = [Russula pectinatoides](/pilze/russula-pectinatoides-kratzender-kammtäubling): Geruch etwas fischig, Geschmack nicht scharf, aber unangenehm bitterlich, kratzend, zusammenziehend. Vorkommen überwiegend außerhalb geschlossener Wälder (Parkanlagen etc.), gern bei Eichen, auch bei Buchen. Häufig.
 
-**Milder Kammtäubling** = Russula insignis: Geruch obstig, nach Stachelbeeren oder Apfelkompott, Geschmack angenehm mild. Stiele meist auffallend kurz, gedrungen, in der Basis gelblich, dort mit KOH oder Ammoniak feuerrot verfärbend (!). Vorkommen meist außerhalb geschlossener Wälder (Parkanlagen etc.), auf kalkhaltigen oder besseren, nicht zu trockenen Böden. Selten ([DGfM-Kartierung Hessen](http://hessen.pilze-deutschland.de/organismen/russula-insignis-qu%C3%A9l-1888-1): je zwei Fundpunkte ganz im Norden und Süden).
+**Milder Kammtäubling** = Russula insignis: Geruch obstig, nach Stachelbeeren oder Apfelkompott, Geschmack angenehm mild. Stiele meist auffallend kurz, gedrungen, in der Basis gelblich, dort mit KOH oder Ammoniak feuerrot verfärbend (!). Vorkommen meist außerhalb geschlossener Wälder (Parkanlagen etc.), auf kalkhaltigen oder besseren, nicht zu trockenen Böden. Selten ([DGfM-Kartierung Hessen](http://hessen.pilze-deutschland.de/organismen/russula-insignis-qu%C3%A9l-1888): je zwei Fundpunkte ganz im Norden und Süden).
 
 **Großer Kammtäubling** = Russula sororia: Geruch nach Camembert, Geschmack scharf, aber nicht brennend scharf. Habitus ähnlich dem des Camembert-Täublings, aber größer und festfleischiger. Sehr selten (sollte vor einer Fundmeldung zur Absicherung unbedingt mikroskopiert werden).
 

@@ -2,8 +2,8 @@
 beschreibung:
   wissenschaftlich: Marasmius alliaceus
   deutsch: Saitenstieliger Knoblauchschwindling
-  referenz: "(Jacq.) Fr. 1838 "
-  familie: "Tricholomataceae   (neu in: Omphalotaceae)"
+  referenz: "(Jacq.) Fr. 1838"
+  familie: "Tricholomataceae (neu in: Omphalotaceae)"
   erlaeuterung: alliaceus = lauchartig
   synonym: Mycetinis alliaceus
 profil:
