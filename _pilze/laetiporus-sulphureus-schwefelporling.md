@@ -22,7 +22,7 @@ Wir haben die Schwefelporlinge z. B. in dünne Scheiben geschnitten, mit gehobel
 {% include bild.html datei="/bilder/laetiporus_sulphureus_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Ganz wichtig: Um eine recht heftige aber schnell wieder abklingendende Magen-Darmstörung (Durchfall + Erbrechen) zu vermeiden, müssen die Pilze ausreichend erhitzt, also gut durchgebraten sein, was im Prinzip auch für die allermeisten anderen Pilzarten gilt. Dickere Fruchtkörperteile sollten in dünnere Scheiben geschnitten sein. Wenn diese Vorsichtsmaßnahme eingehalten wird, scheint mir ein vorheriges, mehrstündiges Auswässern des Pilzes, wie von einigen Pilzbuchautoren empfohlen, entbehrlich zu sein.
+<ins>Ganz wichtig:</ins> Um eine recht heftige aber schnell wieder abklingendende Magen-Darmstörung (Durchfall + Erbrechen) zu vermeiden, müssen die Pilze ausreichend erhitzt, also gut durchgebraten sein, was im Prinzip auch für die allermeisten anderen Pilzarten gilt. Dickere Fruchtkörperteile sollten in dünnere Scheiben geschnitten sein. Wenn diese Vorsichtsmaßnahme eingehalten wird, scheint mir ein vorheriges, mehrstündiges Auswässern des Pilzes, wie von einigen Pilzbuchautoren empfohlen, entbehrlich zu sein.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/laetiporus_sulphureus_03_dg.jpg" %}

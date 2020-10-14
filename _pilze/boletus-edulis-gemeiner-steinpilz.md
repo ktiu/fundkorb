@@ -31,11 +31,11 @@ published: true
 {% include bild.html datei="/bilder/boletus_edulis_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-Um für klare Verhältmisse zu sorgen: Den Steinpilz gibt es nicht. Vier verschiedene Arten kommen in Mitteleuropa vor, die nicht leicht auseinanderzuhalten sind. Für die Küche ist das ohne Belang. Sie schmecken alle gleich gut. 
+Um für klare Verhältnisse zu sorgen: <ins>Den</ins> Steinpilz gibt es nicht. Vier verschiedene Arten kommen in Mitteleuropa vor, die nicht leicht auseinanderzuhalten sind. Für die Küche ist das ohne Belang. Sie schmecken alle gleich gut. 
 
 Vorbildlich gewachsene Steinpilze zeichnen sich durch dicke, bauchige Stiele aus, die vor allem bei älteren Exemplaren auch schlank sein können. Sie haben nicht verfärbendes weißes Fleisch, die Röhrenschicht unter dem Hut (auch Schwamm genannt) ist jung weiß, beim Reifen wird sie erst gelblich, dann zunehmend olivgrünlich, auf Druck nicht verfärbend.
 
-Ursrpünglich wurde die hier beschriebene Art Fichtensteinpilz genannt. Diese Bezeichnung ist irreführend, weil er nicht nur bei Fichten, sondern auch im Laubwald wächst. In der neueren Literatur hat man ihm daher den Namen Gemeiner Steinpilz gegeben. Sein Hut ist hell bis dunkel-ockerbraun, ganz jung oft nahezu weiß, meist etwas speckig glänzend, zum Rand hin heller. Man achte auf die feine weiße Netzzeichnung am oberen Teil des Stiels. Er wächst von Juni bis November, ist recht häufig, in manchen Jahren sogar Massenpilz.
+Ursprünglich wurde die hier beschriebene Art Fichtensteinpilz genannt. Diese Bezeichnung ist irreführend, weil er nicht nur bei Fichten, sondern auch im Laubwald wächst. In der neueren Literatur hat man ihm daher den Namen Gemeiner Steinpilz gegeben. Sein Hut ist hell bis dunkel-ockerbraun, ganz jung oft nahezu weiß, meist etwas speckig glänzend, zum Rand hin heller. Man achte auf die feine weiße Netzzeichnung am oberen Teil des Stiels. Er wächst von Juni bis November, ist recht häufig, in manchen Jahren sogar Massenpilz.
 
 Merkmale, an denen man die vier mitteleuropäischen Steinpilzarten unterscheiden kann:
 

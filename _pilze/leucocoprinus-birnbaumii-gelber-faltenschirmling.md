@@ -18,7 +18,7 @@ Die 3 – 6 cm breiten mit etwas dunkleren Schüppchen besetzten Hüte sind jung
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/leucocoprinus_birnbaumii_01_mi.jpg" %}
-{% include abbildung_ende.html legende="Baby“-Faltenschirmlinge (Foto: Michael Illig)" %}
+{% include abbildung_ende.html legende="„Baby“-Faltenschirmlinge (Foto: Michael Illig)" %}
 
 Der Pilz ist in den Tropen verbreitet und gelangte vermutlich mit tropischen Pflanzen oder Blumenerde nach Europa. Hier findet man ihn in Warm- und Gewächshäusern, Blumentöpfen und Pflanzenkübeln, selbstverständlich auch hin und wieder im Frankfurter Palmengarten. Unseren Zimmerpflanzen tut der kurzlebige Exot kein Leid an. In Thailand konnte ich den Pilz mehrfach beobachten, aber auch hier nicht in unberührter Natur sondern in Gärtnereien und einmal im Flughafen Bangkok-Suvarnabhumi.
 
