@@ -23,7 +23,7 @@ Dachpilze sind leicht zu erkennen. Sie wachsen alle an oder auf totem, meist mor
 
 Deutlich schwieriger ist es hingegen, die einzelnen Arten sicher gegeneinander abzugrenzen. Oft ist das Mikroskop gefragt. Dabei muss vor allem die Huthaut untersucht werden. Der Löwengelbe Dachpilz gehört da zu den wenigen Ausnahmen, die schon im Feld leicht erkannt werden können. Kein anderer Dachpilz hat eine so auffallende, "löwengelbe" Hutfarbe. 
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pluteus_leoninus_01_mm.jpg" %}
 {% include bild.html datei="/bilder/pluteus_leoninus_04_dg.jpg" %}
 {% include bild.html datei="/bilder/pluteus_leoninus_05_dg.jpg" %}
