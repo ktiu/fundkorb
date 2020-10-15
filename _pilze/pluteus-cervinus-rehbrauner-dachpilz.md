@@ -17,7 +17,7 @@ literatur:
 ---
 Dachpilze sind leicht zu erkennen. Sie wachsen fast alle an totem Holz (einige wenige kommen auch terrestrisch vor), haben einen schlanken, in der Stielbasis knollig verdickten, längsfaserigen Stiel, der nicht mit einer häutigen Scheide versehen ist. Sie haben rosafarbenes Sporenpulver, das bei Sporenreife die Lamellen von weißlich nach rosa verfärben lässt. Die Lamellen sind frei. Sie erreichen den Stiel nicht.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pluteus_cervinus_02_dg.jpg" %}
 {% include bild.html datei="/bilder/pluteus_cervinus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -27,7 +27,7 @@ So einfach die Gattungszugehörigkeit zu erkennen ist, so schwierig ist bis auf 
 Weitere Merkmale: Hut: bis 15 cm Ø, braun, graubraun bis schwarzbraun (je jünger, desto dunkler!), Huthaut eingewachsen faserig bis runzelig. Stiel bis ca. 12 cm lang, schmutzig hell, durch dunklere Längsfasern streifig.
 Die nachfolgenden Fotos zeigen die dünnen, eng stehenden, rosa Lamellen und das Bild eines Sporenabwurfs. Um ein solches Sporenabwurfpräparat herzustellen, legt man den vom Stiel getrennten Hut eines reifen Pilzes auf weißes Papier und erhält nach einiger Zeit ein Abbild des Lamellenmusters, das auch die exakte Sporenstaubfarbe erkennen lässt.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pluteus_cervinus_04_dg.jpg" %}
 {% include bild.html datei="/bilder/pluteus_cervinus_05_dg.jpg" %}
 {% include abbildung_ende.html %}
