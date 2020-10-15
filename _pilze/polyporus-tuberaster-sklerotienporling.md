@@ -30,14 +30,14 @@ literatur:
 
 Dieser Stielporling trägt einen Namen, mit dem Pilznovizen kaum etwas anfangen können. Daher soll zunächst einmal aufgeklärt werden, was Sklerotien sind. Es handelt sich um Überdauerungsorgane des Pilzmyzels von meist kugeliger oder linsenförmiger Gestalt und harter Konsistenz, die im Substrat verborgen sind und es dem Pilz ermöglichen, in Dürreperioden oder bei ungünstigen Fruktifikationsbedingungen viele Jahre zu überleben. Bei ausreichender Feuchtigkeit wachsen aus ihnen dann wieder Pilzfruchtkörper. Die Sklerotien, auch Dauermyzel genannt, sind meist winzig klein und es ist daher nur durch sorgfältiges Bergen möglich, sie an der Stielbasis zu entdecken. In unseren Breiten ist diese Überlebensstrategie nicht unbedingt von Bedeutung und daher nur bei wenigen Arten anzutreffen. Die allermeisten einheimischen Pilze kommen gut ohne sie aus. In einigen Fällen ist das Fehlen oder Vorhandensein ein wichtiges Bestimmungskriterium.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/polyporus_tuberaster_03_dg.jpg" %}
 {% include bild.html datei="/bilder/polyporus_tuberaster_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Bei unserem hübschen Stielporling, der auch „Kleiner Schuppenporling“ genannt wird, weist auch der wissenschaftliche Artname auf diese Besonderheit hin: tuberaster heißt „Abbild der Trüffel“, womit auf die knollige Form seines Sklerotiums hingewiesen wird. Das Erstaunliche an seinem Dauermyzel sind aber seine Ausmaße. Es kann die Größe eines Menschenkopfes erreichen! Im Normalfall ist es etwa faustgroß. Doch wo soll man nach ihm suchen? Offensichtlich ist unser Sklerotienporling eine holzbewohnende Art und selbst bei intensivsten Nachforschungen im Untergrund wird man in Mitteleuropa kaum fündig werden. Tatsache ist: unser Pilz kann ein Sklerotium haben, muss aber nicht. Die Wahrscheinlichkeit, dieses erstaunliche Gebilde zu finden, ist dagegen im Mittelmeerraum wesentlich größer. Verständlich beim dort vorherrschenden eher trockenen Klima. *Pietra fungaja* werden sie in Italien genannt und schon Goethe hat sich sehr für sie interessiert und kluge Vermutungen über das Wesen dieser „Pilzsteine“ angestellt: *„Jenes Naturprodukt scheint nicht dem Mineral- sondern dem Pflanzenreiche anzugehören.“*
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/polyporus_tuberaster_05_dg.jpg" %}
 {% include bild.html datei="/bilder/polyporus_tuberaster_06_dg.jpg" %}
 {% include abbildung_ende.html %}
