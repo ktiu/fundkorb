@@ -29,9 +29,9 @@ Der Ockerrötliche Resupinatstacheling ist ganz überwiegend an toten Ästen und
 {% include bild.html datei="/bilder/steccherinum_ochraceum_04_dg.jpg" %}
 {% include abbildung_ende.html legende="noch nicht voll entwickelte Stacheln beim jungen Pilz -- voll entwickelte Stacheln beim ausgewachsenen Pilz" %}
 
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/steccherinum_ochraceum_09_fk.jpg" %}
-{% include bild.html datei="/bilder/steccherinum_ochraceum_10_fk.jpg" %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/steccherinum_ochraceum_09_fk.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/steccherinum_ochraceum_10_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Skeletozystiden ± zylindrisch, dickwandig, inkrustiert, stumpf endend, 5 – 10 µm dick, > 100 µm lang, zahlreich aus dem Hymenium herausragend (2 Mikrofotos: Frank Kaster)" %}
 
 {% include abbildung_start.html stil="mittel" %}
