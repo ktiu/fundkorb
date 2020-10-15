@@ -35,7 +35,7 @@ Fruchtkörper fadenförmig, gerade aufragend oder mehr oder weniger verbogen, se
 {% include bild.html datei="/bilder/typhula_filiformis-02_dg.jpg" %}
 {% include abbildung_ende.html legende="Mein erster Fund der Binsenkeule: 7. September 1997 auf der Messeler Höhe, auf Eichenblättern" %}
 
-##### 3.Vorkommen
+##### 3. Vorkommen
 
 September bis November auf vermodernden Blättern verschiedener Laubbäume. Eigene Funde ganz überwiegend auf Blättern von Eiche und Buche, aber auch Erle und Birke, meist in großen Scharen von manchmal mehr als tausend auf 2 -3 Quadratmetern.
 
