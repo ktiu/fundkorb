@@ -31,7 +31,7 @@ Der Maximal-Aspekt von allen Funden war jedoch am Wollwiesenteich zu beobachten.
 
 Wichtiger als Rekordmeldungen ist hingegen die Frage: was hat die erstaunliche Ausbreitung von P. multipedata im Rhein-Main-Gebiet verursacht oder begünstigt, für die im Verbreitungsatlas nur drei hessische Fundpunkte und keine südlich der Mainlinie verzeichnet sind? Dies scheint nicht nur ein lokales Phänomen zu sein. Auch *Karin Montag* und *Helgo Bran* haben mir von zunehmend häufigeren Funden in ihren Beobachtungsgebieten (Saarland, Breisgau) berichtet. Von *Manfred Enderle*, einem deutschen Spezialisten für die Gattung Psahyrella, war sogar zu erfahren, es gäbe eindeutige Hinweise auf eine europaweite Zunahme.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/psathyrella_multipedata_04_dg.jpg" %}
 {% include bild.html datei="/bilder/psathyrella_multipedata_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
