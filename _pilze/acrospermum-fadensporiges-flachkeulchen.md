@@ -31,5 +31,6 @@ Acrospermum compressum bildet ca. 3 mm hohe, oliv- bis schwarzbräunliche Keulch
   * Cyathicula cyathoidea = Pokalförmiger Stängelbecherling
   * Hymenoscyphus herbarum = Kraut-Stängelbecherling
   * Leptosphaeria acuta = Zugespitzter Kugelpilz
+
 * auf frischen Brennnesseln, ca. Mai bis Juli:  
   * [Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost) = Brennnesselrost
