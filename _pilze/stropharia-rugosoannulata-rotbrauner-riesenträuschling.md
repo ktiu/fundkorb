@@ -20,11 +20,9 @@ Dieser Pilz ist in Deutschland auch unter dem Namen *Braunkappe* bekannt, was zu
 
 Der Rotbraune Riesenträuschling ist eine relativ leicht kenntliche Art. Typische Merkmale sind die trockene, im Alter kleinfelderig aufreißende Huthaut, die grauvioletten Lamellen und die auffallend grob gezähnelte Stielmanschette. Die Hüte erreichen Durchmesser von bis zu 20 cm, sind grau- bis rotbraun gefärbt und vollfleischig mit auffallend schmalen Lamellen. Verwechselt werden könnte er mit dem noch selteneren Üppigen Träuschling *Stropharia hornemannii*, der eine schmierige Huthaut und einen gerieften und vergänglichen Stielring hat.
 
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/stropharia_rugosoannulata_02_dg.jpg" %}
-{% include bild.html datei="/bilder/stropharia_rugosoannulata_03_dg.jpg" %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/stropharia_rugosoannulata_02_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/stropharia_rugosoannulata_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Überraschung beim Selberpflücken von Erdbeeren: hier haben die Strohunterlagen in den Pflanzenreihen dem Rotbraunen Riesenträuschling ein ideales Substrat geliefert." %}
-
-
 
 Dass es sich um einen beliebten Kulturpilz handeln soll, kann ich kaum nachvollziehen. Ich habe im eigenen Garten eine überaus erfolgreiche Zucht mit zahlreichen prächtig entwickelten Fruchtkörpern erlebt, aber eine Riesenenttäuschung in der Küche. Auch Freunde und Nachbarn, die ich mit meinem Zuchterfolg erfreuen wollte, zeigten sich wenig begeistert. Darüberhinaus kann er sogar noch Unverträglichkeiten Verdauungsbeschwerden verursachen.
