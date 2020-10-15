@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/r/Russula_vesca.html
 ---
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_vesca_01_dg.jpg" %}
 {% include bild.html datei="/bilder/russula_vesca_02_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -27,7 +27,7 @@ Die Farbvariabilität des Speisetäublings lässt Verwechslungen mit mehreren an
 
 Die Huthaut ist etwa zur Hälfte abziehbar. Die Farben werden mit fleisch- bis rosenrot, fleischrosa, fleischbräunlich, trüb rosa oder lilarosa beschrieben. Oft finden sich ockergelbe bis rostfarbene Flecken auf der Huthaut, die sich etwas krustig anfühlen können – ein Merkmal, das auch bei einigen anderen Täublingen vorkommen kann. Im Zweifelsfall schützt eine Geschmacksprobe vor Verwechslungen mit giftigen Täublingsarten. Diese schmecken scharf, der Speisetäubling angenehm nussig und mild.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_vesca_03_dg.jpg" %}
 {% include bild.html datei="/bilder/russula_vesca_04_dg.jpg" %}
 {% include abbildung_ende.html %}
