@@ -27,7 +27,7 @@ Der Kugelschneller gehört zu den Bauchpilzen, die so heißen, weil sie die Spor
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/sphaerobolus_stellatus_02_wiki.jpg" %}
-{% include abbildung_ende.html legende="Abb. links: So funktioniert die „Pilzkanone“ (Quelle:Wikipedia)" %}
+{% include abbildung_ende.html legende="So funktioniert die „Pilzkanone“ (Quelle:Wikipedia)" %}
 
 In Dietzenbach am Steinkautenweg befindet sich zwischen der S-Bahntrasse und dem östlichen Gewerbegebiet eine größere Brachfläche, die 2001 zum Teil mit Holzhäckseln bedeckt war. Diesen Standort teilten sich etliche Orangerote Träuschlinge (Stropharia aurantiaca), Dung-Teuerlinge und Tiegelteuerlinge (Cyathus stercoreus, Crucibulum laeve) sowie jede Menge Kugelschneller. Es mögen einige Tausend gewesen sein, die sich hier gesellig, rasig oder in gedrängten Nestern auf dem vermodernden Substrat angesiedelt hatten. 
 
