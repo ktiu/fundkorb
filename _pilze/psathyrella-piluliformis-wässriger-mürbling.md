@@ -18,7 +18,7 @@ Dieser häufige Pilz gehört zur artenreichen Gattung der Mürblinge/Faserlinge/
 
 Der Wässrige Mürbling wächst meist dicht gedrängt in vielhütigen Büscheln an Totholz. So jung wie auf der Abbildung sehen sie wunderschön aus und geben ein erstklassiges Fotomotiv ab. Die dunkelbraunen, trocken glanzlosen Hüte stehen in auffälligem Kontrast zu den weißen Stielen, weshalb der Pilz auch den Volksnamen *Weißstieliges Stockschwämmchen* erhalten hat. Nachdem Stockschwämmchen wegen Verwechslungsgefahr mit dem tödlichen Gifthäubling nicht mehr oder nur noch von sehr erfahrenen Pilzfreunden gesammelt werden sollten, könnte der Wässrige Mürbling als Ersatz dienen, denn er ist durchaus schmackhaft. Seine dunkelbraune Farbe verliert sich bei Trockenheit und auch schon auf dem Weg von der Fundstelle nach Hause. Die Hüte sind hygrophan, das heißt, sie verändern bei Wasserzufuhr oder -verlust ihre Farbe.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/psathyrella_piluliformis_03_dg.jpg" %}
 {% include bild.html datei="/bilder/psathyrella_piluliformis_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
