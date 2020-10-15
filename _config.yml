@@ -52,6 +52,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+      sidebar: true
   -
     scope:
       type: "artikel"

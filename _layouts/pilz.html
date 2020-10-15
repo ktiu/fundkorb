@@ -19,6 +19,7 @@ footer_scripts:
 
 <section id="pilz">
 
+<div class="kopf">
 <h1>{{ page.beschreibung.wissenschaftlich }}</h1>
 
 {% if page.beschreibung.deutsch %}<h2>{{ page.beschreibung.deutsch }}</h2>{% endif %}
@@ -33,6 +34,7 @@ footer_scripts:
     <div class="synonym col-md{% if page.beschreibung.erlaeuterung and page.beschreibung.erlaeuterung != "" %}-5{% endif %}">{{ page.beschreibung.synonym }}</div>
   {% endif %}
   {% if page.beschreibung.erlaeuterung and page.beschreibung.erlaeuterung != "" %}<div class="erlaeuterung col-md">{{ page.beschreibung.erlaeuterung }}</div>{% endif %}
+</div>
 </div>
 
 {% if page.hauptbild.anzeige and page.hauptbild.datei %}

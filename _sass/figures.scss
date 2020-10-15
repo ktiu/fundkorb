@@ -1,12 +1,12 @@
 .abbildung {
   text-align: center;
   width: 100%;
+  margin: 1rem auto;
 }
 
 .abbildung figure {
   background-color: $figure-background;
   display: inline-table;
-  margin: 1rem auto;
   max-width: 100%;
   padding: 5px 5px 0 0;
 }

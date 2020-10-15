@@ -1,8 +1,8 @@
 ---
-layout: base
+title: Verwandtschaften
+permalink: verwandtschaften
+sidebar: false
 ---
-
-# Verwandtschaften
 
 <ul>
 {% for v in site.verwandtschaften %}

@@ -6,10 +6,10 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <!--<a class="nav-item nav-link {% if page.url == "/" | relative_url %} active {% endif %}" href="{{ "/" | relative_url }}">Startseite</a> //-->
-      {% for node in site.pages %}
+      {% assign = sidebar_pages = site.pages | where: "sidebar", "true" %}
+      {% for node in sidebar_pages %}
         <a class="nav-item nav-link {% if page.navi == node.navi %}active{% endif %}" href="{{ node.permalink | relative_url }}">
-          {{ node.title }}{% if page.navi == node.navi %}<span class="sr-only"> (ausgewählt)</span>{% endif %}
+          {% if node.navistring %}{{ node.navistring }}{% else %}{{ node.title }}{% endif %}{% if page.navi == node.navi %}<span class="sr-only"> (ausgewählt)</span>{% endif %}
         </a>
       {% endfor %}
     </div>

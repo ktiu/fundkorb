@@ -12,6 +12,13 @@ h1, h2 {
   text-shadow: 1.5px 1.5px 2px $shadow;
   text-align: center;
   margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+h1.title,
+#pilz .kopf h1,
+#pilz .kopf h2 {
+  margin-top: 0;
 }
 
 @media (min-width: 992px) {
@@ -34,7 +41,7 @@ h1, h2 {
 blockquote {
   background-color: fade-out($brown, 0.8);
   border-left: 4px solid $muted;
-  padding: 0.5rem 0.5rem;
+  padding: 0.7rem 0.7rem 0.7rem 1rem;
   @include clearfix;
 }
 
@@ -51,3 +58,7 @@ blockquote p {
   display: inline;
 }
 
+hr {
+  margin: 1.5rem auto;
+  border-top: 1px solid $muted;
+}
