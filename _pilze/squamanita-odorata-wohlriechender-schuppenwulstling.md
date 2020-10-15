@@ -18,7 +18,7 @@ literatur:
 ---
 Der triste Hinterhof des Thai-Restaurants Paradise Beach in Dietzenbach-Steinbach ist kein Ort, an dem man eine extrem seltene und auch noch betörend duftende Pilzart vermuten würde. Am Rand der betonierten Fläche auf einem schmalen Streifen mit karger Vegetation wuchsen unauffällige kleine Pilzchen, die erst bei genauerem Hinschauen ihre Gattungszugehörigkeit erkennen ließen. *Schuppenwulstlinge* zeichnen sich durch eine zwiebelig verdickte Stielbasis aus, die in ein [Pseudosklerotium](Pseudosklerotium "Glossar") übergeht, das mehr als die doppelte Größe des Pilzchens und ein Mehrfaches seiner Masse aufweisen kann. Unter den vier in Deutschland nachgewiesenen Arten ist die hier gefundene durch ihren aufdringlich süßlichen Geruch eindeutig gekennzeichnet.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/squamanita_odorata_fundstelle_02_dg.jpg" %}
 {% include bild.html datei="/bilder/squamanita_odorata_03_dg.jpg" %}
 {% include bild.html datei="/bilder/squamanita_odorata_04_dg.jpg" %}
@@ -26,7 +26,7 @@ Der triste Hinterhof des Thai-Restaurants Paradise Beach in Dietzenbach-Steinbac
 
 Schuppenwulstlinge gehören offenbar zu den Mykoparasiten wie z. B. auch der Parasitische Scheidling (*Volvariella surrecta*), die auf Fruchtkörpern oder [Myzelien](Myzel "Glossar") anderer Blätterpilze wachsen. Bei unserem Fund dürfte es sich um den Tonblassen Fälbling (*[Hebeloma crustuliniforme](/pilze/hebeloma-crustuliniforme-tonblasser-fälbling)*) gehandelt haben. Vier Fruchtkörper dieses Pilzes standen in unmittelbarer Nähe. Ein etwa 50 cm entfernter Halskrausenerdstern (*Geastrum triplex*) dürfte kaum etwas mit dem Auftreten der Schuppenwulstlinge zu tun gehabt haben. Fichten und Obstbäume standen in der Nähe hinter dem Zaun mit der hohen Hecke.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/squamanita_odorata_05_dg.jpg" %}
 {% include bild.html datei="/bilder/squamanita_odorata_06_dg.jpg" %}
 {% include abbildung_ende.html %}
