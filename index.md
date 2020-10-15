@@ -35,7 +35,7 @@ Einer unserer schönsten [Fundkorbpilze](AA "Glossar-") ist der Scharlachrote Pr
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/paxillus_involutus_03_bi.jpg" %}
 {% include abbildung_ende.html legende="Wer die passenden Körpermaße hat, kann bei geeigneter Witterung einen Kahlen Krempling zu seiner Badewanne machen und dabei vor Freude quaken. Das originelle Foto gelang Andreas Chrobasik aus Nürnberg und wurde mir freundlicherweise von der BILD-Zeitung zur Veröffentlichung auf www.fundkorb.de zur Verfügung gestellt" %}
-- - -
+
 
 ##### Dietzenbach und Pilze
 
