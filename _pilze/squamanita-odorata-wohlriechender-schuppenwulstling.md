@@ -33,12 +33,12 @@ Schuppenwulstlinge gehören offenbar zu den Mykoparasiten wie z. B. auch der Par
 
 Es wurden mehr als ein Dutzend nahe bis dicht beieinander stehende Pseudosklerotien beobachtet, deren Aussehen an Ginsengknollen erinnerte und an denen jeweils bis zu drei Pilzchen wuchsen. Deren Hüte maßen bis zu 1,8 cm im Durchschnitt, waren jung halbkugelig, später flach konvex ausgebreitet, von grauvioletter Farbe und mit dunkleren Schüppchen besetzt. Die Stiele waren bis zu 2,5 cm lang, einige Millimeter dick, längsfaserig und wie der Hut bzw. etwas heller gefärbt. Unterhalb mehrerer dunkler gefärbter Schuppengürtel geht die verdickte Stielbasis in das im Boden befindliche hellocker bis gelblich gefärbte Pseudosklerotium über.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/squamanita_odorata_07_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Im Verbreitungsatlas der Großpilze Deutschlands (Krieglsteiner 1991) sind lediglich 7 Fundpunkte eingetragen. Zwei befinden sich am Niederrhein, die übrigen im Norden Niedersachsens. Unsere Kollektion könnte also ein Erstfund für Hessen und auch südlich der Mainlinie sein.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/squamanita_odorata_08_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
