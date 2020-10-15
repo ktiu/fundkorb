@@ -16,12 +16,12 @@ literatur:
 ---
 Die Hutfarben dieses stark [hygrophanen](hygrophan "Glossar") Pilzes variieren von beige in feuchtem bis hell creme oder weiß in trockenem Zustand. Recht gute Erkennungsmerkmale sind der mit [Velumresten](Velum "Glossar") behangene Hutrand und die eng stehenden Lamellen, die einen violettgrauen Ton aufweisen können und bei Reife durch ausfallende Sporen schokoladenbraun verfärben.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/psathyrella_candolleana_04_dg.jpg" %}
 {% include bild.html datei="/bilder/psathyrella_candolleana_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/psathyrella_candolleana_05_dg.jpg" %}
 {% include abbildung_ende.html legende="Schön behangen, diese Faserlinge, und man sieht ihnen auch an, was „hygrophan“ bedeutet" %}
 
