@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: "Microsphaera berberidis"
+  wissenschaftlich: Microsphaera berberidis
   deutsch: Mahonien-Mehltau
   familie: Erysiphaceae
   erlaeuterung: berberidis = an Berberitze
@@ -13,7 +13,7 @@ hauptbild:
   datei: /bilder/microsphaera_berberidis_01_dg.jpg
 literatur: []
 ---
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/microsphaera_berberidis_01_dg.jpg" %}
 {% include bild.html datei="/bilder/microsphaera_berberidis_02_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -28,5 +28,5 @@ Es ist nicht leicht, im Internet Informationen zu dieser Art zu finden. Es exist
 {% include bild.html datei="/bilder/microsphaera_berberidis_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Bessere Informationen erhält man auf:  
+Bessere Informationen erhält man auf:\
 <http://www.arbofux.de/echter-mehltau-an-mahonie.html>
