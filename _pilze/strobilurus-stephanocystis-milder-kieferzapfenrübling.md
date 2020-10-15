@@ -24,7 +24,7 @@ Die Gattung Strobilurus (Zapfenrüblinge) besteht in Mitteleuropa aus drei Arten
 
 Ewald Gerhardt (Der große BLV-Pilzführer) gibt die Haupterscheinungszeit für den Milden Kiefernzapfenrübling mit Februar bis April, die des Bitteren mit April bis Juni an, wobei der Bittere Kiefernzapfenrübling die eindeutig häufigere Art zu sein scheint. Dabei ist jedoch davon auszugehen, dass längst nicht alle Vorkommen mikroskopiert worden sind, was bei bitter schmeckenden Zapfenrüblingen auch nicht erforderlich ist. Bei eigenen mild schmeckenden und mikroskopisch geprüften Funden zwischen 22. März und 13. Mai (insgesamt 8) waren alle Strobilurus stephanocystis zuzuordnen.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/strobilurus_stephanocystis_04_dg.jpg" %}
 {% include bild.html datei="/bilder/strobilurus_stephanocystis_02_dg.jpg" %}
 {% include bild.html datei="/bilder/strobilurus_stephanocystis_05_dg.jpg" %}
