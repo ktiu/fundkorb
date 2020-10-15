@@ -20,7 +20,7 @@ Die Vertreter dieser Gattung (in Deutschland 25 Arten) sind nicht immer leicht z
 
 Der Frühlings-Weichritterling ist ein recht stattlicher Pilz. Seine glatten, seidig matten braunen (cognacfarbenen) Hüte erreichen Durchmesser von bis zu 12 cm, die creme bis ockergelblich gefärbten Lamellen stehen gedrängt und sind „burggrabenartig“ am Stiel angewachsen, was bei oberflächlichlicher Betrachtung aussehen kann, als würden sie den Stiel nicht erreichen. Das weiche Hutfleisch ist weißlich bis hellocker, ohne auffallenden Geruch und Geschmack. Man findet die Art in Laub- und Nadelwäldern, gern an Wegrändern und Ruderalstellen, aber gelegentlich auch in Parkanlagen und Gärten.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/melanoleuca_cognata_02_fk.jpg" %}
 {% include bild.html datei="/bilder/melanoleuca_cognata_03_fk.jpg" %}
 {% include abbildung_ende.html legende="Abb. links: Pleuro- und Cheilozystiden vorhanden -- Abb. rechts:  Sporen  Ø 8,6 x 5,4 µm (2 Mikrofotos: Frank Kaster)" %}
