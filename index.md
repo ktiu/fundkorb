@@ -6,6 +6,7 @@ header_scripts:
   - assets/js/simple-jekyll-search/simple-jekyll-search.min.js
 footer_scripts:
   - assets/js/initializeSearch.js
+  - assets/js/shuffleQuiz.js
 ---
 {% include pilzsuche.html %}
 
