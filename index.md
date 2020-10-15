@@ -13,7 +13,7 @@ footer_scripts:
 
 ##### **Pilzberatung**
 
-In diesem Jahr muss die Pilzberatung im Gesundheitsamt wegen der COVID-19-Pandemie und der damit einhergehenden Arbeitsbelastung im Gesundheitsamt leider ausfallen. Wir hoffen, dass wir die Pilzberatung im nächsten Jahr zusammen mit unserem langjährigen Pilzsachverständigen Dieter Gewalt wie gewohnt wieder anbieten können.
+In diesem Jahr muss die Pilzberatung im Gesundheitsamt der Stadt Frankfurt wegen der COVID-19-Pandemie leider ausfallen. Wir hoffen, dass wir die Pilzberatung im nächsten Jahr zusammen mit unserem langjährigen Pilzsachverständigen Dieter Gewalt wie gewohnt wieder anbieten können.
 
 <!--EndFragment-->
 
