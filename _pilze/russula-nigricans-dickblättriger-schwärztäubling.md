@@ -22,7 +22,7 @@ Das obige Foto kann man beim besten Willen nicht als schön bezeichnen. Aber so 
 
 Er gehört zur Sektion der Schwärztäublinge (Nigricantinae), die wiederum zur Untergattung Compactae zählen. Diese ist durch Arten mit weißen, schwarzbraunen oder schwärzenden, dazu festen und kompakten Früchtkörpern mit vielen Zwischenlamellen gekennzeichnet. Mit diesen Merkmalen sind sie leicht von allen übrigen Täublingen zu unterscheiden, die als Bunttäublinge bezeichnet werden. Die verkürzten Zwischenlamellen sind auf der nachfolgenden Abbildung gut zu erkennen.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_nigricans_04_hl.jpg" %}
 {% include abbildung_ende.html %}
 
