@@ -15,7 +15,7 @@ hauptbild:
 ---
 Um dem hier abgebildeten Pilz auf die Spur zu kommen, half es nichts, den ganzen Band 2 von *Breitenbach & Kränzlin: Pilze der Schweiz* durchzublättern und nach einer passenden Abbildung zu suchen. Auch die 236 Fotos im Blog *Aphyllopower* von *Werner Pohl* brachten mich keinen Schritt weiter. Ich hatte nicht den geringsten Zweifel, flächig-[resupinat](resupinat "Glossar") wachsende Pilze mit auffällig gestuften feinen Poren schon mehrfach an liegenden Laubholzstämmen gesehen zu haben. Ich erinnere mich, dass etwas Ähnliches von einem Aphyllophorales-Spezialisten (Günther Sturm) als *Antrodia gossypina* bestimmt worden ist. Das war im Herbst 2001 im Steinberger Wald und der seltene Porling wuchs an Kiefer, während das Substrat des hier abgebildeten ein Buchenstamm war.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/skeletocutis_lenis_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
