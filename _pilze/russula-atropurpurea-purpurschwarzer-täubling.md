@@ -18,7 +18,7 @@ Der Name Purpurschwarzer Täubling weist schon auf sein erstes Erkennungszeichen
 
 Die zunächst weißen Lamellen verfärben sich bald gelblich und täuschen damit eine dazu passende Sporenpulverfarbe vor, die aber rein weiß bis höchstens sehr blass creme ist.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_atropurpurea_02_dg.jpg" %}
 {% include bild.html datei="/bilder/russula_atropurpurea_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
