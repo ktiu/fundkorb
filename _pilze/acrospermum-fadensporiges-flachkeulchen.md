@@ -24,7 +24,7 @@ Acrospermum compressum bildet ca. 3 mm hohe, oliv- bis schwarzbräunliche Keulch
 
 * auf vorjährigen, trockenen Stängeln: 
   * Aporythisma urticae (Deutscher Name nicht bekannt)
-  * [Belonidium sulphureum](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen) = Schwefelgelbes Haarbecherchen
+  * [Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen) = Schwefelgelbes Haarbecherchen
   * Calloria neglecta = Orangerotes Brennnesselbecherchen
   * Calyptella capula = Mützenförmiger Schüsselschwindling
   * Cyathicula coronata = Gekrönter Stängelbecherling
