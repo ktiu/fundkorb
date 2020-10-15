@@ -5,26 +5,25 @@ beschreibung:
   referenz: (Schaeff.) Fr. 1863
   familie: Russulaceae
   erlaeuterung: cyanoxantha = blau und gelb
+profil:
+  aktualisiert: 2020-07-19
+  autor_in: Dieter Gewalt
 hauptbild:
   datei: /bilder/russula_cyanoxantha_03_dg-1536x1123.jpg
   anzeige: false
 literatur:
   - url: https://www.dgfm-ev.de/pilz-des-jahres/1997-frauentaeubling
     text: Der Frauentäubling war 1997 Pilz des Jahres (DGfM)
-profil:
-  aktualisiert: 2020-07-19
-  autor_in: Dieter Gewalt
 published: true
 ---
-
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_cyanoxantha_01_dg.jpg" %}
 {% include bild.html datei="/bilder/russula_cyanoxantha_02_dg.jpg" %}
 {% include abbildung_ende.html %}
- 
+
 Was auf den ersten Blick nicht plausibel zu sein scheint: Täublinge und Milchlinge gehören in der Systematik der Pilze nicht zu den Blätterpilzen, obwohl sie Lamellen besitzen. Weil diese splittern, wenn man mit dem Finger darüber streicht, werden sie Sprödblättler genannt und haben als weiteres gemeinsames Merkmal zerbröckelndes Fruchtkörperfleisch, was auf ihre kugeligen Zellen zurückzuführen ist. Die meisten der ca. 200 in Mitteleuropa vorkommenden Arten sind schwer zu unterscheiden, was u. a. mit der oft enormen Farbvariabilität einzelner Arten zu tun hat. Hier helfen meist nur mikroskopische Untersuchungen und unterschiedliche Farbreaktionen mit chemischen Reagenzien weiter.
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_cyanoxantha_03_dg-1536x1123.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,8 +60,8 @@ Er wächst vor allem in Laubwäldern auf sandigen Böden und ist Mykorrhizapartn
   </table>
 </div>
 
-Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Die Illustration von Gabriele Gossner (in: Hans Haas – Pilze Mitteleuropas, 1964) zeigt sehr schön die Farbvariabilität auf einem einzigen Hut des Frauentäublings.
 
-{% include abbildung_start.html %}
-{% include bild.html datei="/bilder/russula_cyanoxantha_06_gg.jpg" gross=true %}  
-{% include abbildung_ende.html %}
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_cyanoxantha_06_gg.jpg" gross=true %}
+{% include abbildung_ende.html legende="Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Die Illustration von Gabriele Gossner (in: Hans Haas – Pilze Mitteleuropas, 1964) zeigt sehr schön die Farbvariabilität auf einem einzigen Hut des Frauentäublings." %}
