@@ -24,14 +24,14 @@ Lt. Verbreitungsatlas scheint er im Rhein-Main-Gebiet recht gut verbreitet zu se
 
 Auch die Wahl seines Wirtsbaumes kann hier als ungewöhnlich bezeichnet werden. Er wuchs in Augenhöhe am Stamm einer Platane. Dieser Baum gilt als besonders resistent gegen Pilzbefall; allenfalls ist mal ein Zottiger Schillerporling auf seiner Rinde zu entdecken, was auch an den Platanen auf dem Messegelände der Fall gewesen ist.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/volvariella_bombycina_02_dg_-fundstelle.jpg" %}
 {% include bild.html datei="/bilder/volvariella_bombycina_04_dg.jpg" %}
 {% include abbildung_ende.html legende="1. Juli 2016: in einer vermorschten Stammhöhle entdeckte ich eine Gruppe tintlingsähnlicher Pilze" %}
 
 Aber nun zu unserer Geschichte. Am 1. Juli 2016 wären wir im Steinberger Wald bei Dietzenbach fast an einem Stapel lagernder Buchenstämme vorbeigefahren und hätten einen Fund verpasst, der mir zunächst Rätsel aufgab. In der morschen Höhle an einer dem Weg zugewandten Schnittfläche war eine Gruppe ganz junger noch unentwickelter Pilze zu sehen. Da mich ihr Aussehen an Tintlinge erinnerte und ich schon von einem Höhlentintling gehört hatte, der auf solche speziellen Wuchsorte spezialisiert ist, war der Irrtum vorprogrammiert. Ich vermutete, diese sehr seltene Art (*Coprinopsis spelaiophila*) vor mir zu haben und beschloss, die weitere Entwicklung zu beobachten und sie von Tag zu Tag mit Fotos zu dokumentieren.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/volvariella_bombycina_05_dg.jpg" %}
 {% include bild.html datei="/bilder/volvariella_bombycina_03_dg-.jpg" %}
 {% include abbildung_ende.html legende="2. Juli: Die Pilze entwickeln sich nur langsam -- 3. Juli: aufgeschnittenes Exemplar" %}
@@ -40,8 +40,8 @@ Eigentlich hätte mir schon am 2. Juli klar sein müssen, dass ich mich mit mein
 
 Scheidlinge gehören zu den Dachpilzverwandten (Familie Pluteaceae mit den Gattungen Pluteus und Volvariella). Sie alle haben rosafarbenes Sporenpulver und infolgedessen in reifem Stadium rosa gefärbte Lamellen, die den Stiel nicht erreichen. Scheidlinge zeichnen sich durch eine sackartige, häutige Scheide am Stielgrund aus, die den Dachpilzen fehlt. In Mitteleuropa kommen drei Scheidlingsarten vor, die an Holz wachsen und leicht auseinanderzuhalten sind:
 
-Hut 5 – 12 cm Durchmesser, Oberfläche weiß, mitunter gelblich getönt, wollig-filzig = Wolliger Scheidling (Volvariella bombycina)  
-Hut 2 – 5 cm Durchmesser, Oberfläche grau bis graubraun, stets bläulich getönt, feinfilzig mit grob gezähneltem Rand = Blaugrauer Scheidling ([Volvariella caesiotincta](/pilze/volvariella-caesiotincta-blaugrauer-scheidling))  
+Hut 5 – 12 cm Durchmesser, Oberfläche weiß, mitunter gelblich getönt, wollig-filzig = Wolliger Scheidling (Volvariella bombycina)\
+Hut 2 – 5 cm Durchmesser, Oberfläche grau bis graubraun, stets bläulich getönt, feinfilzig mit grob gezähneltem Rand = Blaugrauer Scheidling ([Volvariella caesiotincta](/pilze/volvariella-caesiotincta-blaugrauer-scheidling))\
 Hut 2 – 6 (10) cm Durchmesser, Oberfläche grau bis graubraun, rissig gerieft, nur selten an morschem Holz, meist auf Erde an ruderalen Plätzen und Schutthalden = Braunscheidiger Scheidling (Volvariella taylori)
 
 Der Wollige Scheidling ist die größte dieser drei Arten und häufiger als die beiden anderen. Ich habe ihn im Rhein-Main-Gebiet stets an Buche, lediglich einmal an Platane gefunden. Nicht selten wächst er aus Stammhöhlungen, mitunter in 3 bis 5 Metern Höhe. Andere Scheidlingsarten wachsen auf Erde, nicht an Holz.
