@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Craterellus_tubaeformis.html
 ---
-Mit seinen graubraunen, flatterigen Hüten wird der Trompetenpfifferling kaum in der Verwandtschaft des Echten Pfifferlings vermutet. Dreht man ihn um, erkennt man die Ähnlichkeit. Auch er hat nur wenig erhabene, queraderig verbundene Leisten anstelle von Lamellen. Seine Stiele sind ähnlich gefärbt, trüb oder leuchtend gelb. Exemplare mit leuchtend gelben Stielen werden als Varietät unter dem Namen Gelbstieliger Trompetenpfifferling (*Cantharellus tubaeformis var. lutescens*) aufgefasst.
+Mit seinen graubraunen, flatterigen Hüten wird der Trompetenpfifferling kaum in der Verwandtschaft des [Echten Pfifferlings](/pilze/cantharellus-cibarius-pfifferling) vermutet. Dreht man ihn um, erkennt man die Ähnlichkeit. Auch er hat nur wenig erhabene, queraderig verbundene Leisten anstelle von Lamellen. Seine Stiele sind ähnlich gefärbt, trüb oder leuchtend gelb. Exemplare mit leuchtend gelben Stielen werden als Varietät unter dem Namen Gelbstieliger Trompetenpfifferling (*Cantharellus tubaeformis var. lutescens*) aufgefasst.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/cantharellus_tubaeformis_02_dg.jpg" nocrop=true %}
