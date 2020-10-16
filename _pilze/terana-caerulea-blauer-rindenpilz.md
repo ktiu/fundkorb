@@ -26,4 +26,4 @@ literatur:
 {% include bild.html datei="/bilder/terana_caerulea_03_gb.jpg" %}
 {% include abbildung_ende.html legende="2 Fotos von Günther Breidert" %}
 
-Der Blaue Rindenpilz war 2009 Pilz des Jahres. Es lohnt sich, die aus diesem Anlass [von der DGfM publizierte Darstellung](https://www.dgfm-ev.de/pilz-des-jahres/2009-blauer-rindenpilz) aufzurufen.
+Der Blaue Rindenpilz war 2009 Pilz des Jahres. Es lohnt sich, die aus diesem Anlass [von der DGfM publizierte Darstellung](http://hessen.pilze-deutschland.de/organismen/terana-caerulea-schrad-ex-lam-kuntze-1891-1) aufzurufen.
