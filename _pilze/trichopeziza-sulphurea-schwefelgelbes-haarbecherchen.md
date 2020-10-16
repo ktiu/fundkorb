@@ -24,13 +24,15 @@ Wer das Schwefelgelbe Haarbecherchen auf Brennnesselstängeln sucht, wird auch a
 
 * auf vorjährigen, trockenen Stängeln:
 
+  * [Acrospermum compressum](https://fundkorb.netlify.app/pilze/acrospermum-fadensporiges-flachkeulchen) = Fadensporiges Flachkeulchen 
   * Aporythisma urticae (Deutscher Name nicht bekannt)
-  * Trichopeziza sulphurea = Schwefelgelbes Haarbecherchen
   * Calloria neglecta = Orangerotes Brennnesselbecherchen
   * Calyptella capula = Mützenförmiger Schüsselschwindling
   * Cyathicula coronata = Gekrönter Stängelbecherling
   * Cyathicula cyathoidea = Pokalförmiger Stängelbecherling
   * Hymenoscyphus herbarum = Kraut-Stängelbecherling
-  * Leptosphaeria acuta = Zugespitzter Kugelpilz
+  * Leptosphaeria acuta = Zugespitzter Kugelpilz\
+    &nbsp;
 * auf frischen Brennnesseln, ca. Mai bis Juli:  
-* [Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost) = Brennnesselrost
+
+  * [Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost) = Brennnesselrost

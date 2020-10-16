@@ -18,7 +18,7 @@ Maisfeld in Sicht? Dann sind Ihnen/Euch vielleicht diese merkwürdigen Wucherung
 
 Natürlich würde beim Maisbeulenbrand niemand an ein leckeres Pilzgericht denken, und doch werden infizierte, schwarz verfärbte Maiskörner in der mexikanischen Küche als *Cuitlacoche*, in der asiatischen als *Angkak* (China) oder *Koji* (Japan) geschätzt. 
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/ustilago_maydis_02_xx.jpg" %}
 {% include bild.html datei="/bilder/ustilago_maydis_03_xx.jpg" %}
 {% include abbildung_ende.html %}

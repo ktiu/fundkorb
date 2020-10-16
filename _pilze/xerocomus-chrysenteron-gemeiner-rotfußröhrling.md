@@ -17,9 +17,9 @@ literatur:
 ---
 Der Rotfußröhrling ist ein typischer Filzröhrling, d. h. seine Huthaut fühlt sich filzig oder feinsamtig an. Er ist der wohl häufigste Röhrling überhaupt. Junge Exemplare sind  dunkelbraun, blassen im Alter aus und reißen dann oft felderig auf. Das Fleisch ist gelblich, Fraßstellen, Verletzungen und Partien zwischen aufgerissener Huthaut verfärben sich rot. Die Rottöne am Stiel können bei einigen Varianten, die heute als eigene Arten aufgefasst werden, fehlen. Eine dieser Arten fällt durch ihren stark blauenden Stiel auf (*[Xerocomus cisalpinus](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)*), eine andere ist als Herbstrotfuß (*[Xerocomus pruinatus](/pilze/xerocomus-pruinatus-herbstrotfüßchen)*) beschrieben worden.
 
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/xerocomus_chrysenteron_04_dg.jpg" %}
-{% include bild.html datei="/bilder/xerocomus_chrysenteron_02_dg.jpg" %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/xerocomus_chrysenteron_04_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/xerocomus_chrysenteron_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
 Rotfußröhrlinge werden vor allem bei feuchtem Wetter wie auch andere Röhrlingsarten vom Goldschimmel befallen. Die Infektion beginnt mit kleinen grauen Flecken, die schnell größer werden und bald als weißer, im Endstadium goldgelber Belag den ganzen Fruchtkörper überziehen.
