@@ -2,6 +2,8 @@
   {% assign termine = site.termine | reverse %}
   {% for termin in termine %}
     {% capture datum %}
+    {% assign w = termin.zeit | date: "%u" | minus: 1 %}
+    {{ site.data.wochentage[w] }},
     {{ termin.zeit | date: "%-d." }}
     {% assign m = termin.zeit | date: "%-m" | minus: 1 %}
     {{ site.data.monate[m] }}
@@ -13,8 +15,8 @@
       <div class="details">
         <p class="card-text">Datum:<br /><strong>{{ datum }}</strong></p>
         <p class="card-text">Uhrzeit:<br /><strong>{{ termin.zeit | date: "%H:%M" }}</strong></p>
-        <p class="card-text">Treffpunkt:<br /><strong>{{ termin.treffpunkt }}</strong></p>
-        <p class="card-text">Teilnahmegebühr:<br /><strong>{{ termin.teilnahmegebuehr }}</strong></p>
+        {% if termin.treffpunkt and termin.treffpunkt != "" %}<p class="card-text">Treffpunkt:<br /><strong>{{ termin.treffpunkt }}</strong></p>{% endif %}
+        {% if termin.teilnahmegebuehr and termin.teilnahmegebuehr != "" %}<p class="card-text">Teilnahmegebühr:<br /><strong>{{ termin.teilnahmegebuehr }}</strong></p>{% endif %}
         <p class="card-text">{{ termin.content }}</p>
       </div>
       {% if termin.anmeldung_offen %}
