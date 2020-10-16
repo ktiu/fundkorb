@@ -26,7 +26,7 @@ Trameten (Gattung: Trametes) sind Porlinge aus der Familie der Polyporaceae. Ihr
 
 Zu den häufigeren der in Mitteleuropa vorkommenden 7 Arten gehört die Striegelige Tramete. Im Gegensatz zur Schmetterlingstramete sind ihre Fruchtkörper nicht oder kaum rosetten- bzw. konsolenartig miteinander verwachsen. Die Hutoberseite ist samtig bis striegelig und in weiße bis gelblich bräunliche Zonen geteilt. Zwischen Hutfilz und Trama befindet sich keine schwarze Linie, die feinen Poren auf der Unterseite sind weißlich cremefarben oder mit Grauschimmer, rund bis eckig, etwa 2 – 4 pro Millimeter. Der Pilz wächst ganzjährig an Laubhölzern, überwiegend an Buche.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/trametes_hirsuta_02_dg.jpg" %}
 {% include bild.html datei="/bilder/trametes_hirsuta_03_dg.jpg" %}
 {% include abbildung_ende.html %}
