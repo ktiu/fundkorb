@@ -33,7 +33,7 @@ Zu den häufigeren der in Mitteleuropa vorkommenden 7 Arten gehört die Striegel
 
 Das Adjektiv striegelig existiert nicht im Online-Duden. Lediglich das Substantiv Striegel und das Verb striegeln sind zu finden. Ein Striegel (Schabeisen) ist ein mit Zähnen oder Zacken besetztes Gerät (oder eine harte Bürste) zum Reinigen und Pflegen („Striegeln“) des Fells von Haustieren, zum Beispiel Pferden. Insofern ist die Bezeichnung striegelig im Zusammenhang mit unserer Tramete eher irreführend, fühlt sich ihre Oberfläche doch wunderbar zart samtig an, etwa wie der flauschige Veloursbezug eines Sofas.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/trametes_hirsuta_04_dg.jpg" %}
 {% include abbildung_ende.html legende="Dieses Foto zeigt sehr schön die feinen Härchen auf der Hutoberfläche, die sich ganz und gar nicht striegelig hart sondern samtig zart anfühlen" %}
 
