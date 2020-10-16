@@ -22,15 +22,16 @@ Man findet die kleinen [Ascomyzeten](Ascomyzeten "Glossar") meist am feucht steh
 
 Wer das Schwefelgelbe Haarbecherchen auf Brennnesselstängeln sucht, wird auch anderen auf diesem Substrat wachsenden Pilzen begegnen, von denen ich hier eine Auswahl anfüge:
 
-* auf vorjährigen, trockenen Stängeln:
-
+* auf vorjährigen, trockenen Stängeln: 
   * Aporythisma urticae (Deutscher Name nicht bekannt)
-  * Trichopeziza sulphurea = Schwefelgelbes Haarbecherchen
   * Calloria neglecta = Orangerotes Brennnesselbecherchen
   * Calyptella capula = Mützenförmiger Schüsselschwindling
   * Cyathicula coronata = Gekrönter Stängelbecherling
   * Cyathicula cyathoidea = Pokalförmiger Stängelbecherling
   * Hymenoscyphus herbarum = Kraut-Stängelbecherling
   * Leptosphaeria acuta = Zugespitzter Kugelpilz
+  * [Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen) = Schwefelgelbes Haarbecherchen  
+    &nbsp;
 * auf frischen Brennnesseln, ca. Mai bis Juli:  
-* [Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost) = Brennnesselrost
+  * [Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost) = Brennnesselrost
+
