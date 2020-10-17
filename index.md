@@ -55,3 +55,11 @@ Einer unserer schönsten [Fundkorbpilze](AA "Glossar-") ist der Scharlachrote Pr
 ### Vorsicht Gammelpilze – Ein Leitfaden
 
 Vor Gammelfleisch ekelt sich jeder. Umso mehr erstaunt es, was häufig als Ausbeute von Pilzsammlern in Körben oder gar Plastiktüten nach Hause getragen wird. In Zusammenarbeit mit dem Gesundheitsamt Frankfurt möchten wir Ihnen gerne einen informativen Leitfaden zu diesem wichtigen Thema zum Download und Ausdrucken zur Verfügung stellen – [hier als PDF erhältlich](/assets/docs/Fundkorb.de-Gammelpilze.pdf).
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/amanita_caesarea_02_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+Ein besonderer [Fundkorbpilz](<AA "Glossar-">) ist der Kaiserling. Im Mittelmeerraum recht gut vertreten, in Mitteileuropa eine seltene Rarität, zählt er zu den besten Speisepilzen überhaupt.
