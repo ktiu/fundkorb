@@ -62,4 +62,4 @@ Vor Gammelfleisch ekelt sich jeder. Umso mehr erstaunt es, was häufig als Ausbe
 {% include bild.html datei="/bilder/amanita_caesarea_02_tl.jpg" %}
 {% include abbildung_ende.html %}
 
-Ein besonderer [Fundkorbpilz](<AA "Glossar-">) ist der Kaiserling. Im Mittelmeerraum recht gut vertreten, in Mitteileuropa eine seltene Rarität, zählt er zu den besten Speisepilzen überhaupt.
+Ein besonderer [Fundkorbpilze](AA "Glossar-") ist der Kaiserling. Im Mittelmeerraum recht gut vertreten, in Mitteileuropa eine seltene Rarität, zählt er zu den besten Speisepilzen überhaupt.
