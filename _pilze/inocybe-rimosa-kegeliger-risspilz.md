@@ -5,6 +5,7 @@ beschreibung:
   referenz: "(Bull.) P. Kumm. 1871 "
   familie: Inocybaceae
   erlaeuterung: rimosa = rissig
+  synonym: Inocybe fastigiata
 profil:
   aktualisiert: 2020-10-17
   autor_in: Dieter Gewalt
@@ -15,7 +16,6 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/i/Inocybe_rimosa.html
 ---
 Beschreibung von Fredi Kasparek ([Webseite Natur-in-NRW sehr empfehlenswert](http://www.natur-in-nrw.de/HTML/Pilze/Agaricales/PA-391.html))
-
 
 **Habitus:** Mittelgroßer bis großer Risspilz in ockergelben/-braunen Farben, mit kegelig-geschweiftem Hut, der mit einer radialfaserigen Deckschicht belegt ist und häufig einreißt.
 
@@ -36,6 +36,8 @@ Beschreibung von Fredi Kasparek ([Webseite Natur-in-NRW sehr empfehlenswert](htt
 {% include abbildung_ende.html %}
 
 Der Pilz ist giftig. Er enthält Muscarin, das mit einer Latenzzeit von ¼ bis 4 Stunden wirkt und das sogenannte Muscarin- oder PSL-Syndrom (engl.: perspiration, salivation, lacrimation) verursacht. Symtome sind Schweißausbrüche, Sehstörungen, Tränenfluss, Übelkeit mit Erbrechen, Magen-Darm-Koliken, in schweren Fällen Tod durch Kreislaufversagen. Tradiotionelles Gegenmittel: Atropin, das Gift der Tollkirsche.
+
+Es handelt sich um eine der [häufigsten Risspilzarten](http://www.pilze-deutschland.de/organismen/inocybe-rimosa-agg-1).
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/inocybe_rimosa_03_dg.jpg" %}
