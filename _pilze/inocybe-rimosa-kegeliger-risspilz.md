@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/i/Inocybe_rimosa.html
 ---
-Beschreibung von Fredi Kasparek ([Webseite Natur-in-NRW sehr empfehlenswert](http://www.natur-in-nrw.de/HTML/Pilze/Agaricales/PA-391.html))
+Beschreibung von Fredi Kasparek
 
 **Habitus:** Mittelgroßer bis großer Risspilz in ockergelben/-braunen Farben, mit kegelig-geschweiftem Hut, der mit einer radialfaserigen Deckschicht belegt ist und häufig einreißt.
 
