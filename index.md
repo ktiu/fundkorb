@@ -44,6 +44,8 @@ Einer unserer schönsten [Fundkorbpilze](AA "Glossar-") ist der Scharlachrote Pr
 
 – das hat seit Jahren Tradition und dafür gibt es gute Gründe. Die Kreisstadt liegt mitten im größten zusammenhängenden Waldgebiet der Region und die Volkshochschule Dietzenbach bietet seit 20 Jahren regelmäßig Praktische Pilzseminare an. Die finden nicht etwa in einer Schule statt, sondern da, wo Pilze wachsen – im Wald. Bei fünf Exkursionen lernen die Teilnehmer die wichtigsten Speise- und Giftpilze an ihren natürlichen Wuchsorten kennen und erfahren Wissenswertes zum Thema. Das nächste Seminar wird voraussichtlich im 2. Halbjahr 2021 angeboten.
 
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/helvella_lacunosa_02_gw.jpg" %}
 {% include abbildung_ende.html legende="Ob sich die Biene von der <a href='/pilze/helvella-lacunosa-grubenlorchel'>Grubenlorchel</a> Nektar erhofft?  (Foto: Gerd Wartha)" %}
