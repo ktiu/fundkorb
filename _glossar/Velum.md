@@ -1,6 +1,6 @@
 ---
-schlagwort: "Velum universale"
-synonym: Gesamthülle
+schlagwort: "Velum"
+synonym: "lateinisch: Schleier, Vorhang"
 ---
-Manche Pilzarten (z. B. alle Wulstlinge) sind im jüngsten Stadium von einer häutigen Gesamthülle ummantelt, die bei der Weiterentwicklung des Fruchtkörpers nicht mitwächst und in Form oft arttypischer Hüllreste (Hautfetzen, Pusteln, Warzen) auf der Huthaut und/oder am Stiegrund (an der Stielknolle) zurückbleiben.
+Hülle, die bei huttragenden Pilzen im frühen Entwicklungsstadium die Fruchtkörper oder Teile davon umschließen und bei der weiteren Entwicklung nicht mehr mitwachsen
 

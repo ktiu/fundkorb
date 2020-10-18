@@ -1,4 +1,4 @@
 ---
 schlagwort: AA
 ---
-384 Arten in 190 Gattungen, 2400 Fotos
+390 Arten in 201 Gattungen und 1669 Abbildungen

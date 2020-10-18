@@ -1,6 +1,4 @@
 ---
-schlagwort: "resupinat (effus, krustenförmig)"
+schlagwort: resupinat
 ---
-Fruchtkörper sind meist flächig mit ihrer Rückseite am Substrat (in der Regel Holz oder Rinde) aufgewachsen
----
-
+(effus, krustenförmig) = Fruchtkörper sind meist flächig mit ihrer Rückseite am Substrat (in der Regel Holz oder Rinde) aufgewachsen 
