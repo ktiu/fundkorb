@@ -109,9 +109,9 @@ collections:
       - {label: "Datum und Uhrzeit", name: "zeit", widget: "datetime"}
       - {label: "Treffpunkt", name: "treffpunkt", widget: "string", required: false}
       - {label: "Teilnahmegebühr", name: "teilnahmegebuehr", widget: "string", required: false}
-      - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean"}
+      - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean", default: true}
       - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
-      - {label: "Beschreibung", name: "body", widget: "markdown", editorComponents: []}
+      - {label: "Beschreibung", name: "body", widget: "markdown", editorComponents: ["abbildung"]}
 
 #  ____  _ _         
 # |  _ \(_) |_______ 
