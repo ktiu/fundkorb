@@ -1,6 +1,6 @@
 ---
 aktivitaet: Pilzkundliche Führung im Raum Dietzenbach
-zeit: 2020-11-15T21:00:00.000Z
+zeit: 2020-11-15T09:00:00.000Z
 anmeldung_offen: true
 published: true
 ---
