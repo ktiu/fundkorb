@@ -28,7 +28,7 @@ Man findet den Pilz ganz überwiegend an totem Buchenholz, an stehenden Stämmen
 
 Die Schleimschicht wie auch die sehr dünnfleischigen Hüte und der rettichartige Geschmack verleiten wohl kaum dazu, ihn zu Speisezwecken zu verwenden. Er ist dennoch essbar und es gibt sogar Empfehlungen, ihn einmal zu probieren - ausreichend erhitzt, versteht sich. Er soll sogar als Vitalpilz eingestuft worden sein, aus dem ein Antibiotikum gewonnen werden kann.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/oudemansiella_mucida_03_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/oudemansiella_mucida_04_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/oudemansiella_mucida_05_dg.jpg" nocrop=true %}
