@@ -26,7 +26,9 @@ Man findet den Pilz ganz überwiegend an totem Buchenholz, an stehenden Stämmen
 {% include bild.html datei="/bilder/oudemansiella_mucida_07_fk.jpeg" %}
 {% include abbildung_ende.html legende="Foto: Frank Kaster" %}
 
-Die Schleimschicht wie auch die sehr dünnfleischigen Hüte und der rettichartige Geschmack verleiten wohl kaum dazu, ihn zu Speisezwecken zu verwenden. Er ist dennoch essbar und es gibt sogar Empfehlungen, ihn einmal zu probieren - ausreichend erhitzt, versteht sich. Er soll sogar als Vitalpilz eingestuft worden sein, aus dem ein Antibiotikum gewonnen werden kann.
+Der Pilz ist nicht giftig, aber seine schleimige Konsistenz lädt nicht dazu ein, ihn essen zu wollen.  Im Netz findet man dennoch Empfehlungen, ihn einmal zu probieren - ausreichend erhitzt, versteht sich.
+
+Aus seinem Myzel wird das Antibiotikum Mucidin gewonnen, das gegen Hautpilz wirkt.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/oudemansiella_mucida_03_dg.jpg" nocrop=true %}
