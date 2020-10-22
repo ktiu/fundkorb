@@ -20,7 +20,7 @@ literatur:
 {% include bild.html datei="/bilder/agaricus_campestris_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Foto links: Norbert Kühnberger" %}
 
-Weiße Champignons sind nicht immer leicht zu bestimmen. Es gibt eine ganze Menge davon. Der Wiesenchampignon gehört zu den nicht gilbenden Arten, die nicht nach Anis riechen und außerhalb von Wäldern wachsen.
+Weiße Champignons sind nicht immer leicht zu bestimmen. Es gibt eine ganze Menge davon. Der Wiesenchampignon gehört zu den <ins>nicht</ins> gilbenden Arten, die <ins>nicht</ins> nach Anis riechen und außerhalb von Wäldern wachsen.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/agaricus_campestris_01_dg.jpg" nocrop=true %}
