@@ -14,7 +14,7 @@ hauptbild:
 ---
 Weiße Champignons sind nicht immer leicht zu bestimmen. Es gibt eine ganze Menge davon. Der Schiefknollige Anis-Champignon gehört zu den gilbenden Arten, die nach Anis riechen und in Wäldern (gern bei Fichten) wachsen. Damit ist die Anzahl der in Frage kommenden Kandidaten bereits auf eine überschaubares Maß reduziert.
 
-Wenn er sein namensgebendes Merkmal (die schiefknollige Stielbasis) so deutlich zeigt wie der Pilz oben rechts, ist die Bestimmung bereits gesichert. Dies ist nicht immer der Fall, und dann ist die Unterscheidung vom Dünnfleischigen Anis-Champignon Agaricus silvicola praktisch unmöglich. Nicht umsonst sind viele Mykologen der Meinung, dass es sich bei ihnen um nur eine Art handelt, die im Rahmen ihrer Variabilität sowohl eine gerade als auch schiefknollige Stielbasis haben kann.
+Wenn er sein namensgebendes Merkmal (die schiefknollige Stielbasis) so deutlich zeigt wie der Pilz oben rechts, ist die Bestimmung bereits gesichert. Dies ist nicht immer der Fall, und dann ist die Unterscheidung vom Dünnfleischigen Anis-Champignon *Agaricus silvicola* praktisch unmöglich. Nicht umsonst sind viele Mykologen der Meinung, dass es sich bei ihnen um nur eine Art handelt, die im Rahmen ihrer Variabilität sowohl eine gerade als auch schiefknollige Stielbasis haben kann.
 
 Er riecht nicht nur nach Anis, er schmeckt auch so. Wen das in einem Pilzgericht nicht stört, kann ihn problemlos in der Küche verwenden. Nach meinen Beobachtungen war er in den 50-ger und 60-ziger Jahren im Rhein-Main-Gebiet häufiger als heute, ist über längere Zeiträume sogar gänzlich ausgeblieben, hat sich 2020 in den meisten meiner Pilzwälder aber eindrucksvoll zurückgemeldet.
 
