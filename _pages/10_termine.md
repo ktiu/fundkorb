@@ -9,4 +9,4 @@ footer_scripts:
   - "assets/js/addFormValidation.js"
 ---
 
-{% include terminliste.html %}
+{% include terminliste.md %}

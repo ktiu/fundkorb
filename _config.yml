@@ -2,6 +2,7 @@ url: "https://fundkorb.netlify.app"
 baseurl: ""
 title: "Fundkorb"
 lang: de_DE
+timezone: Europe/Berlin
 form_target: dgewalt@web.de
 
 upload_dir: "bilder/"

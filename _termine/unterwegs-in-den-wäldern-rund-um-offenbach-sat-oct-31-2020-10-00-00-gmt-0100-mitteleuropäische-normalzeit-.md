@@ -1,6 +1,6 @@
 ---
 aktivitaet: Unterwegs in den Wäldern rund um Offenbach
-zeit: 2020-10-31T09:00:00.000Z
+zeit: 2020-10-31T10:00:00.000Z
 anmeldung_offen: true
 published: true
 ---

@@ -1,9 +1,9 @@
 ---
 aktivitaet: Unterwegs in den Wäldern rund um Offenbach
-zeit: 2020-10-30T12:30:00.000Z
-anmeldung_offen: true
+zeit: 2020-10-30T13:30:00.000Z
+anmeldung_offen: false
 published: true
 ---
-Während dieser Führung der vhs Offenbach mit dem Pilzsachverständigen Dieter Gewalt wird Interessantes und Wissenswertes über die Welt der Pilze vermittelt. Gemeinsam wollen wir diese oft gut getarnten, faszinierenden Organismen suchen und aufspüren. Dabei werden auch häufige, leicht erkennbare und besonders essbare Arten sowie ihre Doppelgänger erläutert und ihre Bestimmung geübt. Er werden Kenntnisse über das Vorkommen und die besondere Lebensweise, richtiges Sammeln und den Artenschutz vermittelt. Bitte mitbringen: Körbchen und Küchenmesser. 
+Während dieser Führung der VHS Offenbach mit dem Pilzsachverständigen Dieter Gewalt wird Interessantes und Wissenswertes über die Welt der Pilze vermittelt. Gemeinsam wollen wir diese oft gut getarnten, faszinierenden Organismen suchen und aufspüren. Dabei werden auch häufige, leicht erkennbare und besonders essbare Arten sowie ihre Doppelgänger erläutert und ihre Bestimmung geübt. Er werden Kenntnisse über das Vorkommen und die besondere Lebensweise, richtiges Sammeln und den Artenschutz vermittelt. Bitte mitbringen: Körbchen und Küchenmesser. 
 
 Die Teilnahme ist nur mit Anmeldung bei der [Volkshochschule Offenbach](http://www.vhs-offenbach.de) möglich, auch telefonisch unter 069 8065-3141. Der Treffpunkt wird bei Anmeldung bekannt gegeben. Die Teilnahmegebühr beträgt 15 Euro pro Person, Kinder kostenlos.

@@ -95,7 +95,7 @@ collections:
       preview: false
     folder: "_termine"
     create: true
-    slug: "{{aktivitaet}}-{{zeit}}-{{treffpunkt}}"
+    slug: "{{aktivitaet}}-{{zeit}}"
     sortable_fields: ["zeit", "aktivitaet"]
     view_filters:
       - label: "Anmeldung offen"
@@ -106,7 +106,7 @@ collections:
         pattern: true
     fields:
       - {label: "Aktivität", name: "aktivitaet", widget: "string"}
-      - {label: "Datum und Uhrzeit", name: "zeit", widget: "datetime"}
+      - {label: "Datum und Uhrzeit", name: "zeit", widget: "datetime", picker_utc: true}
       - {label: "Treffpunkt", name: "treffpunkt", widget: "string", required: false}
       - {label: "Teilnahmegebühr", name: "teilnahmegebuehr", widget: "string", required: false}
       - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean", default: true}
