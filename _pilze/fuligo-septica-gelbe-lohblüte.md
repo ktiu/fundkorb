@@ -12,12 +12,11 @@ hauptbild:
   anzeige: true
   datei: /bilder/fuligo_septica_01_dg.jpg
 ---
-Die Gelbe Lohblüte ist der bekannteste, auffälligste und einer der häufigsten Vertreter der sogenannten Schleimpilze (*Myxomyzeten*), einer faszinierenden und mit erstaunlichen Eigenschaften ausgestatteten Lebensform.
+Die Gelbe Lohblüte ist der bekannteste, auffälligste und einer der häufigsten Vertreter der sogenannten Schleimpilze (*Myxomyzeten*), einer faszinierenden und mit erstaunlichen Eigenschaften ausgestatteten Lebensform. 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/fuligo_septica_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Plasmodium, noch im Zustand des "Zusammenfindens"" %}
-
 
 Sie wird auch Hexenbutter genannt, fällt durch ihre lebhaft gelbe Farbe auf und bildet schmierig-schleimige Kissen mit bis zu 20 cm Ausdehnung, die in ihrer weiteren Entwicklung trocknen, sich dabei weißlich verfärben und ihre Sporen freisetzen. Man findet sie an morschem Holz, an Rinde, Moosen, Laubblättern oder Nadeln.  
 
