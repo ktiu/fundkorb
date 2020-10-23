@@ -1,5 +1,5 @@
 <section id="termine">
-  {% assign termine = site.termine | reverse %}
+  {% assign termine = site.termine | sort: 'zeit' %}
   {% for termin in termine %}
     {% capture datum %}
     {% assign w = termin.zeit | date: "%u" | minus: 1 %}

@@ -89,7 +89,7 @@ collections:
   - name: "termine"
     label: "Termine"
     identifier_field: "aktivitaet"
-    summary: "{{aktivitaet}} - {{zeit}} - {{treffpunkt}}"
+    summary: "{{aktivitaet}} - {{zeit}}"
     label_singular: "Termin"
     editor:
       preview: false
