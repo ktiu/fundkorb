@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: /pilzbuch/arten/a/Auricularia_mesenterica.html
 ---
-Wenn man sich einem mit Gezonten Ohrlappenpilzen bewachsenen Stamm oder Stumpf nähert, könnte man glauben, es mit Schmetterlingstrameten zu tun zu haben. Beim Anfassen würde man sich über die elastische Konsistenz wundern und ein Blick auf die Unterseite der konsolenförmigen Hüte lässt die verwandtschaftlichen Beziehungen erahnen. Das sieht so ähnlich aus wie beim Judasohr. Tatsächlich gehören beide zur gleichen Gattung.
+Wenn man sich einem mit Gezonten Ohrlappenpilzen bewachsenen Stamm oder Stumpf nähert, könnte man glauben, es mit Schmetterlingstrameten zu tun zu haben. Beim Anfassen würde man sich über die elastische Konsistenz wundern und ein Blick auf die Unterseite der konsolenförmigen Hüte lässt die verwandtschaftlichen Beziehungen erahnen. Das sieht so ähnlich aus wie beim [Judasohr](/pilze/auricularia-auricula-judae-judasohr). Tatsächlich gehören beide zur gleichen Gattung.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/auricularia_mesenterica_02_dg.jpg" nocrop=true %}
