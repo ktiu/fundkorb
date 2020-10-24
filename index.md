@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ihre Pilzadresse in Rhein-Main
+title: Ihre Pilzadresse im Rhein-Main-Gebiet
 header_scripts:
   - https://identity.netlify.com/v1/netlify-identity-widget.js
   - assets/js/simple-jekyll-search/simple-jekyll-search.min.js
