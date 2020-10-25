@@ -11,8 +11,8 @@ Jürgen Fleßenkämper
 Michael Illig  
 Hermine Lotz-Winter  
 
-Internet: https://fundkorb.de
-Kontakt:  Kontaktformular
+https://fundkorb.de  
+[Kontaktformular]({% link _pages/kontakt.md %})
 
 ## Verantwortlich im Sinne des TeleDienstgesetzes
 
