@@ -3,7 +3,7 @@ baseurl: ""
 title: "Fundkorb"
 lang: de_DE
 timezone: Europe/Berlin
-form_target: dgewalt@web.de
+form_target: fundkorb@ktiu.net
 
 upload_dir: "bilder/"
 
