@@ -12,7 +12,7 @@ Michael Illig
 Hermine Lotz-Winter  
 
 https://fundkorb.de  
-[Kontaktformular]({% link _pages/kontakt.md %})
+[Kontaktformular]({% link _pages/50_kontakt.md %})
 
 ## Verantwortlich im Sinne des TeleDienstgesetzes
 
