@@ -9,12 +9,15 @@
     {{ site.data.monate[m] }}
     {{ termin.zeit | date: "%Y" }}
     {% endcapture %}
+    {% capture uhrzeit %}
+    {{ termin.zeit | date: "%H:%M" }}
+    {% endcapture %}
   <div class="card termin">
     <h5 class="card-header">{{ termin.aktivitaet }}</h5>
     <div class="card-body">
       <div class="details">
         <p class="card-text">Datum:<br /><strong>{{ datum }}</strong></p>
-        <p class="card-text">Uhrzeit:<br /><strong>{{ termin.zeit | date: "%H:%M" }}</strong></p>
+        <p class="card-text">Uhrzeit:<br /><strong>{{ uhrzeit }}</strong></p>
         {% if termin.treffpunkt and termin.treffpunkt != "" %}<p class="card-text">Treffpunkt:<br /><strong>{{ termin.treffpunkt }}</strong></p>{% endif %}
         {% if termin.teilnahmegebuehr and termin.teilnahmegebuehr != "" %}<p class="card-text">Teilnahmegebühr:<br /><strong>{{ termin.teilnahmegebuehr }}</strong></p>{% endif %}
         <p class="card-text">{{ termin.content | markdownify }}</p>
@@ -24,7 +27,7 @@
         <a class="btn btn-lg border-primary mb-1 text-primary" data-toggle="collapse" href="#anmeldeform-{{termin.slug}}" role="button" aria-expanded="false" aria-controls="anmeldeform-{{termin-slug}}"><i class="fas fa-user-edit"></i> Anmelden</a>
         <!-- <a href="#" class="btn border-warning mb-1"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i> In den Kalender eintragen</a> -->
       </div>
-      {% include anmeldung.html termin=termin %}
+      {% include anmeldung.html termin=termin datum=datum uhrzeit=uhrzeit %}
 
       {% endif %}
     </div>

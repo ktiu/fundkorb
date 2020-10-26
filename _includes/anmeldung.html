@@ -3,7 +3,7 @@
   <input type="hidden" name="_cc" value="fundkorb@ktiu.net"> 
   <div class="row">
     <div class="col-sm-4 col-md-3 form-group">
-      <input type="hidden" name="Anmeldung zur Veranstaltung" value="{{ include.termin.aktivtaet }} am {{ include.termin.datum }} um {{ include.termin.uhrzeit }}">
+      <input type="hidden" name="Anmeldung zur Veranstaltung" value="{{ include.termin.aktivitaet }} am {{ include.datum }} um {{ include.uhrzeit }}">
       <input type="number" id="anzahl" name="Anzahl Personen" class="form-control" min="1" max="8" value="1"/>
       <label for="anzahl">Anzahl Personen<span class="text-danger">*</span></label>
     </div>
