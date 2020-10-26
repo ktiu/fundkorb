@@ -9,7 +9,7 @@ profil:
   aktualisiert: 2020-10-26
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/xylaria_hypoxylon_02_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/x/Xylaria_hypoxylon.html
