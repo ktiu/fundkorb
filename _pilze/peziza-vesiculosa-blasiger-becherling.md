@@ -23,7 +23,7 @@ Blasige Becherlinge findet man nicht selten auf Misthaufen, aber auch auf blanke
 
 Einzelne Fruchtkörper können bis zu 10 cm Durchmesser erreichen. Sie sind relativ dickfleischig und hellbräunlich bis beige gefärbt, die Ränder oft eingerissen. Meist treten sie gesellig auf, oft viele ineinander geknäuelt. Der Blasige Becherling ist eine recht häufige Art und vor allem durch gezielte Suche auf geeigneten Substraten zu finden. Mitunter besiedeln sie sogar Champignonkulturen.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/peziza_vesiculosa_03_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/peziza_vesiculosa_04_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/peziza_vesiculosa_05_fk.jpg" nocrop=true %}
