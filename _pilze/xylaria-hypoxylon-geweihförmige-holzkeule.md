@@ -19,7 +19,7 @@ literatur:
 {% include bild.html datei="/bilder/xylaria_hypoxylon_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,6 +35,6 @@ Der Pilz erscheint in zwei unterschiedlichen Stadien. An unscheinscheinbar schwa
 
 Die Geweihförmige Holzkeule ist sehr häufig. Man findet sie vor allem an totem Laubholz, meist auf den Schnittflächen von Stümpfen, die oft rasig bewachsen sind.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
