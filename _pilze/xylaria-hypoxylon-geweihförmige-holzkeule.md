@@ -17,15 +17,12 @@ literatur:
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_02_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/xylaria_hypoxylon_03_dg.jpg" %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
 "Geweihförmig" ist eine wirklich treffende Beschreibung dieser Holzkeule. Zumindest bei einem Teil des enormen Formenreichtums, mit dem dieser zu den [Ascomyzeten](Ascomyzeten "Glossar") gehörige Pilz den Betrachter beeindruckt. Ein anderer Teil ähnelt eher Hörnern, manchmal auch Zungen, Werkzeugen oder Gabeln.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_05_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_06_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_07_dg.jpg" nocrop=true %}
