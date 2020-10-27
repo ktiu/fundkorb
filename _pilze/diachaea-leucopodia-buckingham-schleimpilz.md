@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: "Diachaea leucopodia "
+  wissenschaftlich: "Diachea leucopodia "
   deutsch: Buckingham-Schleimpilz
   referenz: "(Bull.) Rostaf 1874 "
   familie: Didymiaceae (Myxomycota)
@@ -11,7 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/diachea_leucopodia_01_dg.jpg
-  legende: Sporokarpien des Schleimpilzes Diachaea leucopodia; Dietzenbach
+  legende: Sporokarpien des Schleimpilzes Diachea leucopodia; Dietzenbach
     Rodgaustraße am 25.10.2019
 literatur:
   - text: 'Karin Montag in "Der Tintling" Nr. 56 (Heft3 / 2008, S. 13-38):
@@ -23,7 +23,7 @@ Beginnen wir der Reihe nach mit dem Auffinden dieses [Schleimpilzes](Myxomyzet "
 {% include bild.html datei="/bilder/diachea_leucopodia_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Die Gattung *Diachaea* ist in Mitteleuropa mit nur zwei Arten vertreten. Die mit Abstand häufigste ist D. leucopodia. Der markante Habitus ist mit einer starken Lupe gut erkennbar und macht die Art eigentlich unverwechselbar. Die gestielten Sporokarpien werden etwa 1 mm hoch und wachsen in großer Zahl auf ihrem Substrat, das aus toten oder lebenden Pflanzenteilen wie Stängeln, Blättern oder Gräser besteht. Es wurde sogar schon einmal von einem Massenvorkommen auf Erdbeeren berichtet. 
+Die Gattung *Diachea* ist in Mitteleuropa mit nur zwei Arten vertreten. Die mit Abstand häufigste ist D. leucopodia. Der markante Habitus ist mit einer starken Lupe gut erkennbar und macht die Art eigentlich unverwechselbar. Die gestielten Sporokarpien werden etwa 1 mm hoch und wachsen in großer Zahl auf ihrem Substrat, das aus toten oder lebenden Pflanzenteilen wie Stängeln, Blättern oder Gräser besteht. Es wurde sogar schon einmal von einem Massenvorkommen auf Erdbeeren berichtet. 
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/diachea_leucopodia_03_fk.jpg" nocrop=true %}
