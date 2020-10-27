@@ -36,8 +36,8 @@ Wenige Tage nach unserem persönlichen Erstfund fanden wir wenige Meter von der 
 {% include bild.html datei="/bilder/diachea_leucopodia_05_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/diachea_leucopodia_06_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Diesen Anblick bieten die winzigen Myxos aus einem Meter Höhe betrachtet: leicht zu übersehen." %}
+{% include abbildung_ende.html legende="Diesen Anblick bieten die winzigen Myxos aus einem halben Meter Höhe betrachtet: leicht zu übersehen" %}
 
 Laut DGfM-Kartierung für Hessen könnte es ein Erstfund für das Bundesland sein.
