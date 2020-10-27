@@ -27,7 +27,7 @@ Die Gattung *Diachaea* ist in Mitteleuropa mit nur zwei Arten vertreten. Die mit
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/diachea_leucopodia_03_fk.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/diachea_leucopodia_02_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/diachea_leucopodia_04_tnt.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Sporen  8 - 12 µm (Foto: Frank Kaster) -- Sporen mit Capillitiumfäden (Foto: Eye of Sciense, aus *Der Tintling* Nr. 56, Heft 3/2008)" %}
 
 Wenige Tage nach unserem persönlichen Erstfund fanden wir wenige Meter von der ersten Fundstelle entfernt weitere Vorkommen an Gräsern und ca. 100 Meter entfernt auch auf am Boden liegenden Berberitzenblättchen.
