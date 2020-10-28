@@ -20,7 +20,7 @@ In der Gattung Nectria gibt es einige weitere Arten, die alle sehr klein sind, s
 
 Nectria coccinea = Scharlachrotes Pustelpilzchen (an Laubholzästen u. -stämmen, verbreitet)
 Nectria coryli = Hasel-Pustelpilz (selten)
-Nectria episphaeria = Aufsitzender Pustelpilz (auf Pyrenomyzeten, v. a. Diatrype stigma, häufig)
+[Nectria episphaeria = Aufsitzender Pustelpilz](/pilze/nectria-episphaeria-aufsitzender-pustelpilz) (auf Pyrenomyzeten, v. a. Diatrype stigma, häufig)
 Nectria fuckeliana = Nadelholz-Pustelpilz (nicht häufig)
 Nectria galligena = Gallischer Pustelpilz (an Krebsstellen von Eschen, Weiden u. a., selten)
 Nectria punica = Faulbaum-Pustelpilz (selten)
