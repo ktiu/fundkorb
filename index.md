@@ -14,7 +14,7 @@ footer_scripts:
 
 ### Achtung - wichtiger Hinweis:
 
-##### Alle Pilzführungen im November müssen aufgrund der aktuellen Corona-Verordnung abgesagt werden
+##### Alle Pilzführungen im November müssen aufgrund der aktuellen Corona-Situation abgesagt werden
 
 Auch die Pilzberatung im Gesundheitsamt Frankfurt muss leider ausfallen
 
