@@ -21,7 +21,7 @@ literatur:
 
 Der Name Brennender Rübling besagt nicht, dass der Pilz Feuer gefangen hätte und in Flammen steht. Eine Geschmacksprobe verrät, was gemeint ist. Er ist brennend scharf.
 
-Seine trüb ockerbräunlich gefärbten, oft wie mit einem firnisartigen Belag überzogenen Hüte lassen ihn nicht wie einen typischen Rübling aussehen. Unerfahrene Pilzfreunde müssen ihn gezeigt und als gattungszugehörig erklärt bekommen, um ihn richtig einordnen zu können. Die relativ entfernt stehenden und wie der Hut gefärbten Lamellen, die oft wie ein Collar zusam-mengewachsen sind und dann den Stiel nicht erreichen, sind ein gutes Erkennungsmerkmal. Und dann natürlich der brennend scharfe Geschmack, aber der muss nicht immer so markant scharf sein, wie es die Litraturangaben vorgeben.
+Seine trüb ockerbräunlich gefärbten, oft wie mit einem firnisartigen Belag überzogenen Hüte lassen ihn nicht wie einen typischen Rübling aussehen. Unerfahrene Pilzfreunde müssen ihn gezeigt und als gattungszugehörig erklärt bekommen, um ihn richtig einordnen zu können. Die relativ entfernt stehenden und wie der Hut gefärbten Lamellen, die oft wie ein Collar zusammengewachsen sind und dann den Stiel nicht erreichen, sind ein gutes Erkennungsmerkmal. Und dann natürlich der brennend scharfe Geschmack, aber der muss nicht immer so markant scharf sein, wie es die Litraturangaben vorgeben.
 
 Warum er den wissenschaftlichen Artnamen peronatus erhalten hat, entzieht sich meinem Verständnis. Was an ihm soll wie "gestiefelt" aussehen?
 
