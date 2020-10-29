@@ -8,4 +8,4 @@ Bei dieser ca. 3-stündigen Exkursion werden die aktuellen Funde an ihren Stando
 
 Die Teilnahme an dieser Wanderung ist nur bei bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung bekannt gegeben. Die Teilnahmegebühr beträgt 7 Euro pro Person, Kinder kostenlos.
 
-Das Anmeldeformular klappt leider noch nicht so richtig. Bitte per Email an dgewalt@web anmelden.
+**Alle Pilzführungen im November müssen aufgrund der aktuellen Corona-Verordnung abgesagt werden**
