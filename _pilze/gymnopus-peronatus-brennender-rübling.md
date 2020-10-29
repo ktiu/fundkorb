@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/g/Gymnopus_peronatus.html
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/gymnopus_peronatus_01_rdä.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/gymnopus_peronatus_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="So hat Rosemarie Dähncke den Brennenden Rübling fotografiert   ... / ... und ich in Thailand" %}
