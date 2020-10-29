@@ -25,7 +25,7 @@ Er ist gekennzeichnet durch schwärzliche Radialstreifen auf seinem hell bis dun
 
 Der Schwarzfaserige Ritterling wächst ausschließlich unter Nadelbäumen, vor allem unter Kiefern, seltener unter Fichten oder Weißtannen. Meine bisherigen Funde in der Rhein-Main-Ebene waren alle bei Kiefern.
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/tricholoma_portentosum_03_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/tricholoma_portentosum_04_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/tricholoma_portentosum_05_dg.jpg" nocrop=true %}
