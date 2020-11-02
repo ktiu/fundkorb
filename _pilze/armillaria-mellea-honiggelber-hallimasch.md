@@ -2,18 +2,18 @@
 beschreibung:
   wissenschaftlich: Armillaria mellea
   deutsch: Honiggelber Hallimasch
-  referenz: "(Vahl) P. Kumm. 1871"
+  referenz: (Vahl) P. Kumm. 1871
   erlaeuterung: mellea = honigfarben
   familie: Physalariaceae
-hauptbild:
-  anzeige: true
-  datei: /bilder/armillaria_mellea_01_dg.jpg
 profil:
   aktualisiert: 2020-07-23
   autor_in: Dieter Gewalt
+hauptbild:
+  anzeige: true
+  datei: /bilder/armillaria_mellea_01_dg.jpg
 published: true
 ---
-In der Gattung Armillaria gibt es in Mitteleuropa zwei häufige Arten, den Dunklen Hallimasch (A. ostoyae) an Nadel-, selten an Laubholz, und den Honiggelben Hallimasch (A. mellea) an Laubholz. Zur Unterscheidung achte man auf Hutfarben und Stielring. Sie sind beim Honiggelben wie schon der Name besagt meist deutlich gelb bis honig- oder olivgelb. Diese Farbe findet sich auch am flockigen Stielring, vor allem an dessen Unterseite. Solche Gelbtöne fehlen beim Dunklen Hallimasch, der hier fleisch- bis hellbräunliche Farben zeigt.
+In der Gattung Armillaria gibt es in Mitteleuropa zwei häufige Arten, den [Dunklen Hallimasch (A. ostoyae)](https://fundkorb.de/pilze/armillaria-ostoyae-dunkler-hallimasch) an Nadel-, selten an Laubholz, und den Honiggelben Hallimasch (A. mellea) an Laubholz. Zur Unterscheidung achte man auf Hutfarben und Stielring. Sie sind beim Honiggelben wie schon der Name besagt meist deutlich gelb bis honig- oder olivgelb. Diese Farbe findet sich auch am flockigen Stielring, vor allem an dessen Unterseite. Solche Gelbtöne fehlen beim Dunklen Hallimasch, der hier fleisch- bis hellbräunliche Farben zeigt.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/armillaria_mellea_02_dg.jpg" %}
