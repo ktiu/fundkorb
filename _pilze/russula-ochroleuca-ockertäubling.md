@@ -27,3 +27,27 @@ Um Täublinge sicher zu bestimmen, ist die Sporenpulverfarbe ein wichtiges Merkm
 Über seinen Küchentauglichkeit sind sich Pilzfreunde einig. Wenn man ihn als bestenfalls mischpilztauglich bezeichnet, wäre dies fast schon ein unverdientes Lob. Er wird gern auch als Notzeitenpilz bezeichnet und wurde zum Beispiel während der Kriegs- und Nachkriegsjahre gesammelt und gegessen, aber damals ging es oft nur darum, überhaupt etwas für Pfanne oder Kochtopf aufzutreiben.
 
 Ockertäublinge findet man in allen Waldgesellschaften und Höhenlagen bis 1000 m. Die Art ist in der nördlichen Hemisphäre weit verbreitet und wurde sogar schon auf Spitzbergen nachgewiesen.
+
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion</th>
+    </tr>
+    <tr>
+      <th>FeSO4</th>
+      <th>Guajak</th>
+      <th>Phenol</th>
+    </tr>
+    <tr>
+      <td>mild - schärflich</td>
+      <td>weiss</td>
+      <td>bis 1/2</td>
+      <td>sehr hell orangerosa</td>
+      <td>blass blaugrün</td>
+      <td>dunkel weinrot</td>    
+    </tr>
+  </table>
+</div>
