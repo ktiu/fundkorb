@@ -23,7 +23,7 @@ Weiße Champignons sind nicht immer leicht zu bestimmen. Es gibt eine ganze Meng
 {% include bild.html datei="/bilder/agaricus_campestris_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Junge Wiesenchampignons" %}
 
-Junge Exemplare sind rundlich bis halbkugelig, die Huthaut kann bereits feinschuppig aufgerissen sein und der Hutrand ist nach dem Aufschirmen oft mit weißen Velumresten behangen. Der häutige bis feinflockige Stielring ist meist nur schwach ausgebildet und sehr vergänglich. 
+Junge Exemplare sind rundlich bis halbkugelig, die Huthaut kann bereits feinschuppig aufgerissen sein und der Hutrand ist nach dem Aufschirmen oft mit weißen Velumresten behangen. Der häutige bis feinflockige, hängende Stielring ist meist nur schwach ausgebildet und sehr vergänglich. 
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/agaricus_campestris_02_nk.jpg" nocrop=true %}
