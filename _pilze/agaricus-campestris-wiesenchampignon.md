@@ -15,8 +15,6 @@ literatur:
   - url: campestris = auf Feldern wachsend
   - url: /pilzbuch/arten/a/Agaricus_campestris.html
 ---
-
-
 Weiße Champignons sind nicht immer leicht zu bestimmen. Es gibt eine ganze Menge davon. Der Wiesenchampignon gehört zu den <ins>nicht</ins> gilbenden Arten, die <ins>nicht</ins> nach Anis riechen und außerhalb von Wäldern wachsen.
 
 {% include abbildung_start.html stil="standard" %}
@@ -30,7 +28,7 @@ Junge Exemplare sind rundlich bis halbkugelig, die Huthaut kann bereits feinschu
 {% include bild.html datei="/bilder/agaricus_campestris_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Foto links: Norbert Kühnberger" %}
 
-Wer Champignons zu Speisezwecken sammeln will, sollte beachten, dass es unter den rund 50 in Mitteleuropa vorkommenden Arten auch giftige gibt. Sie sind in der Gruppe der Karbolhampignons (*Xanthodermei*) zusammengefasst und an der Merkmalskombination *"in der Stielbasis chromgelblich verfärbend + unangenehm nach Phenol (wie Tinte oder Krankhaus) riechend"* leicht zu erkennen. Rötende, angenehm riechende Champignons sind immer essbar, ebenso alle gilbenden, die nach Anis riechen.
+Wer Champignons zu Speisezwecken sammeln will, sollte beachten, dass es unter den rund 50 in Mitteleuropa vorkommenden Arten auch giftige gibt. Sie sind in der Gruppe der [Karbolhampignons](/pilze/agaricus-xanthoderma-karbolchampignon) (*Xanthodermei*) zusammengefasst und an der Merkmalskombination *"in der Stielbasis chromgelblich verfärbend + unangenehm nach Phenol (wie Tinte oder Krankhaus) riechend"* leicht zu erkennen. Rötende, angenehm riechende Champignons sind immer essbar, ebenso alle gilbenden, die nach Anis riechen.
 
 Der Wiesenchampgnon Agaricus campestris wächst von Mai bis Oktober auf Wiesen, Weiden, in Parkanlagen und Gärten und ist überall recht häufig. Er hat im Verhältnis zum Hutdurchmesser recht gedrungene Stiele, ist in seiner Form aber sehr variabel und kann auch langstielig vorkommen. Verwechselt werden könnte er mit den weißen Formen des Zuchtchampignons (anderer Name: Zweisporiger Champignon), der in freier Natur recht selten ist, oder mit dem sehr kompakten, festfleischigen Stadtchampignon, der an seinem zweigeteilten Ring zu erkennen ist, dessen obere Hälfte trichterig nach oben hin absteht.
 
