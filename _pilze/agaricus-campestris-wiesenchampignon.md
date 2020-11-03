@@ -9,16 +9,13 @@ profil:
   aktualisiert: 2020-10-22
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: false
-  datei: /bilder/agaricus_campestris_03_dg.jpg
+  anzeige: true
+  datei: /bilder/agaricus_campestris_04_dg.jpg
 literatur:
   - url: campestris = auf Feldern wachsend
   - url: /pilzbuch/arten/a/Agaricus_campestris.html
 ---
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/agaricus_campestris_02_nk.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/agaricus_campestris_03_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Foto links: Norbert Kühnberger" %}
+
 
 Weiße Champignons sind nicht immer leicht zu bestimmen. Es gibt eine ganze Menge davon. Der Wiesenchampignon gehört zu den <ins>nicht</ins> gilbenden Arten, die <ins>nicht</ins> nach Anis riechen und außerhalb von Wäldern wachsen.
 
@@ -27,6 +24,11 @@ Weiße Champignons sind nicht immer leicht zu bestimmen. Es gibt eine ganze Meng
 {% include abbildung_ende.html legende="Junge Wiesenchampignons" %}
 
 Junge Exemplare sind rundlich bis halbkugelig, die Huthaut kann bereits feinschuppig aufgerissen sein und der Hutrand ist nach dem Aufschirmen oft mit weißen Velumresten behangen. Der häutige bis feinflockige Stielring ist meist nur schwach ausgebildet und sehr vergänglich. 
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/agaricus_campestris_02_nk.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/agaricus_campestris_03_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Foto links: Norbert Kühnberger" %}
 
 Wer Champignons zu Speisezwecken sammeln will, sollte beachten, dass es unter den rund 50 in Mitteleuropa vorkommenden Arten auch giftige gibt. Sie sind in der Gruppe der Karbolhampignons (*Xanthodermei*) zusammengefasst und an der Merkmalskombination *"in der Stielbasis chromgelblich verfärbend + unangenehm nach Phenol (wie Tinte oder Krankhaus) riechend"* leicht zu erkennen. Rötende, angenehm riechende Champignons sind immer essbar, ebenso alle gilbenden, die nach Anis riechen.
 
