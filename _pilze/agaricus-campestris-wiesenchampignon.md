@@ -14,7 +14,6 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Wiesen-Champignon
   - url: /pilzbuch/arten/a/Agaricus_campestris.html
-  - {}
 ---
 Weiße Champignons sind nicht immer leicht zu bestimmen. Es gibt eine ganze Menge davon. Der Wiesenchampignon gehört zu den <ins>nicht</ins> gilbenden Arten, die <ins>nicht</ins> nach Anis riechen und außerhalb von Wäldern wachsen.
 
