@@ -25,6 +25,9 @@ Diese Holzkeule ist am Substrat, an dem sie wächst, eindeutig zu erkennen. Man 
 {% include bild.html datei="/bilder/xylaria_carpophila_03_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/xylaria_carpophila_04_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/xylaria_carpophila_05_dgxylaria-carpophila.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html %}
+
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/xylaria_carpophila_06_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/xylaria_carpophila_07_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/xylaria_carpophila_08_dg.jpg" nocrop=true gross=true %}
