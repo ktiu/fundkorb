@@ -24,7 +24,7 @@ Beim Mutterkorn, das in den Ähren verschiedener Gräser heranwächst, handelt e
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/claviceps_purpurea_02_frk.jpg" %}
-{% include abbildung_ende.html legende="Auf abgefallenen Mutterkörnern entwickeln sich die winzigen Schlauchpilzchen (Foto: Fredy Kasparek)" %}
+{% include abbildung_ende.html legende="Auf abgefallenen Mutterkörnern entwickeln sich die winzigen Schlauchpilzchen (Foto: Fredi Kasparek)" %}
 
 Gelangen sie jedoch nicht im Feld auf den Erdboden sondern mit den Getreidekörnern ins Erntegut und schließlich ins Brot, können sie enormes Unheil anrichten. Ein Mutterkorn enthält eine beträchtliche Menge giftiger Alkaloide, die eine schwere Erkrankung namens Ergotismus verursacht. Kein anderer Pilz hat in der Geschichte der Menschheit so viele Todesopfer gefordert. Die Symptome einer Mutterkornvergiftung sind vielfältig. Es kann zu Darmkrämpfen und Halluzinationen kommen, Finger und Zehen sterben aufgrund von Durchblutungsstörungen ab, Atemlähmungen und Kreislaufversagen führen zum Tod.
 
@@ -41,7 +41,7 @@ Durch Mutterkorn verunreinigtes Getreide gelangt heute kaum noch ins Brot. Berei
 {% include bild.html datei="/bilder/claviceps_purpurea_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Mutterkorn ist auch an ganz normalen Gräsern zu finden, an denen es schlankere Sklerotien bildet." %}
 
-Tipps zur Anzucht der kopfig-gestielten Fruchtkörper aus Mutterkörnern hat Fredy Kasparek auf <https://www.natur-in-nrw.de/HTML/Pilze/Ascomycota/PAS-56.html> gegeben: 
+Tipps zur Anzucht der kopfig-gestielten Fruchtkörper aus Mutterkörnern hat Fredi Kasparek auf <https://www.natur-in-nrw.de/HTML/Pilze/Ascomycota/PAS-56.html> gegeben: 
 
 > „Nach jahrelanger vergeblicher Suche dieses Keulchens trotz Markierung der einschlägigen Stellen, kam ich auf die Idee, mehrere mit Mutterkörnern besetzte Ähren mit nach Hause zu nehmen und sie in einen Blumenkasten (die Ähren leicht mit Erde bedeckt) im häuslichen Garten unter Brombeergebüsch zu stellen. Bei länger anhaltenden Trockenperioden wurde der Blumenkasten mit Inhalt wie Blumen gewässert. Die Züchtung gelang problemlos wie die Abbildungen der kleinen fotogenen Keulchen zeigen.“
 
