@@ -16,7 +16,7 @@ hauptbild:
 literatur:
   - url: https://asco-sonneberg.de/pages/gallery/chromocyphella-muscicola-121227-01xsjj31851.php
 ---
-Wer diese winzigen Becherchen finden möchte, sollte sie bei ausreichend Luftfeuchtigkeit auf mit Moos bewachsener Rinde von Laubbäumen suchen. Sie erreichen Durchmesser von etwa 1 bis 4 mm. Die Fruchtkörper sind pokal- oder schalenartig geformt, nicht oder nur kurz gestielt und jung rein weiß. Erst bei Sporenreife färbt sich das glatte oder etwas runzelige [Hymenium](Hymenium "Glossar") zimtbraun. Die Außenseite der Becherchen ist flaumig, ihr Rand fein behaart.
+Wer diese winzigen Becherchen finden möchte, sollte sie bei ausreichend Luftfeuchtigkeit auf mit Moos bewachsener Rinde von Laubbäumen suchen. Sie erreichen Durchmesser von etwa 1 bis 4 mm. Die Fruchtkörper sind pokal- oder schalenartig geformt, nicht oder nur kurz gestielt und jung rein weiß. Erst bei Sporenreife färbt sich das glatte oder etwas runzelige [Hymenium](Hymenium "Glossar") zimtbraun. Die Außenseite der Becherchen ist flaumig, ihr Rand fein behaart. 
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/chromocyphella_muscicola_03_dg.jpg" nocrop=true %}
