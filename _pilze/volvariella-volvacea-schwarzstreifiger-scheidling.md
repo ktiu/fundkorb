@@ -24,4 +24,4 @@ Tipp für die deutsche Küche: Der in Asien so beliebte Speisepilz ist auch in M
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/volvariella_volvacea_02_wi.jpg" %}
 {% include bild.html datei="/bilder/volvariella_volvacea_03_xx.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Abbildung links: wikipedia (gemeinfrei: Sowerby 1797  -- rechts: Im Handel erhältliche Konserve" %}
+{% include abbildung_ende.html legende="Abbildung links: wikipedia (gemeinfrei: Sowerby 1797)  -- rechts: Im Handel erhältliche Konserve" %}
