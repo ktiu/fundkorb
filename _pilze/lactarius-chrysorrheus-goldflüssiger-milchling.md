@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/l/Lactarius_chrysorrheus.html
 ---
-Wie der Name schon erahnen lässt: Milchlinge lassen bei Verletzungen vor allem der Lamellen oder des Hutfleisches eine milchige Flüssigkeit austreten. Diese muss nicht unbedingt weiß sein. Ihre Farbe ist ein wichtiges Unterscheidungsmerkmal der etwa 100 mitteleuropäischen Arten. Wichtig ist auch ihr Geschmack. Der kann mild oder scharf sein. Beim Goldflüssigen Milchling ist die Milch bei Austritt weiß, verfärbt sich aber innerhalb weniger Sekunden allmählich oder manchmal auch sehr plötzlich lebhaft schwefelgelb. Ihr Geschmack ist anfangs mild, bald aber brennend scharf. 
+Wie der Name schon erahnen lässt: Milchlinge lassen bei Verletzungen vor allem der Lamellen oder des Hutfleisches eine milchige Flüssigkeit austreten. Diese muss nicht unbedingt weiß sein. Ihre Farbe ist ein wichtiges Unterscheidungsmerkmal der etwa 100 mitteleuropäischen Arten. Wichtig ist auch ihr Geschmack. Der kann mild oder scharf sein. Beim Goldflüssigen Milchling ist die Milch bei Austritt weiß, verfärbt sich aber innerhalb weniger Sekunden allmählich oder manchmal auch sehr plötzlich lebhaft schwefelgelb. Ihr Geschmack ist anfangs mild, bald aber brennend scharf.  
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lactarius_chrysorrheus_02_dg.jpg" %}
