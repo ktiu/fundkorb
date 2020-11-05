@@ -23,7 +23,7 @@ Dieser Rostpilz kommt ausschließlich auf Brombeerblättern vor und ist auf dies
 
 Nur bei sehr starkem Befall kann die Fruchtbildung an Brombeerstauden beeinträchtigt werden.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/phragmidium_violaceum_02_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/phragmidium_violaceum_03_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/phragmidium_violaceum_04_fk.jpg" nocrop=true %}
