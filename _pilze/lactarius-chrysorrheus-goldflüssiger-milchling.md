@@ -23,6 +23,6 @@ Wie der Name schon erahnen lässt: Milchlinge lassen bei Verletzungen vor allem 
 
 **Kurzbeschreibung:** Hut fleischfarben bis orange, mit dunklerer Zonierung oder getropft fleckig, bis 8 cm breit. Bei feuchtem Wetter etwas schmierig. Lamellen creme- bis fleischfarben oder orange. Stiel jung weißlich, dann hutfarben, im Alter hohl werdend.
 
-Der Pilz kann als Typusart unserer Eichenwälder gelten, ist im Rhein-Main-Gebiet weit verbreitet, doch scheinen seine Bestände stark rückläufig zu sein. Die meisten Dundmldungen stammen aus den Jahren 1970 bis 2000.
+Der Pilz kann als Typusart unserer Eichenwälder gelten, ist im Rhein-Main-Gebiet weit verbreitet, doch scheinen seine Bestände stark rückläufig zu sein. Die meisten Fundmeldungen stammen aus den Jahren 1970 bis 2000.
 
 Für die Küche ist der Goldflüssige Milchling nicht geeignet.
