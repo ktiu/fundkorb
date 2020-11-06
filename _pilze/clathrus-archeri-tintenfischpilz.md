@@ -43,7 +43,8 @@ Am 28. September 2014 fanden wir in unmittelbarer Nähe des Frankfurter Stadtwal
 {% include bild.html datei="/bilder/clathrus_archeri_09_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
+Der Tintenfischpilz ist keine indigene (heimische) Art, sondern ein [Neobiont](Neophyt "Glossar"), der aus Neuseeland oder Australien nach Europa gekommen ist. Vermutlich wurden seine Sporen um das Jahr 1914 mit einer Schiffsladung Schafswolle eingeschleppt und kurz darauf die ersten Fruchtkörper im Elsass gesichtet. Da die Ausdehnung seines Areals durch seine Verbeitungsstrategie begrenzt war, konnte er nur sukzessive neue Gebiete erobern. Irgendwann wurde der Rhein überschritten und um das Jahr 1960 herum entdeckte ich an einem Waldwegrand bei Buchschlag meinen ersten Tintenfischpilz. Ich hatte ihn schon erwartet, denn seine Ankunft im Rhein-Main-Gebiet war bereits in der pilzkundlichen Literatur vorausgesagt worden. Inzwischen hat er die Ostsee erreicht und wird sich zweifellos noch weiter ausbreiten.
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/clathrus_archeri_07_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
-
