@@ -29,7 +29,7 @@ Zur Verbreitungsstrategie gehört ein für menschliche Nasen abscheulicher Geruc
 {% include bild.html datei="/bilder/clathrus_archeri_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Aufgeschnitten zeigt das Hexenei bereits die Anlage für den späteren Pilz. In fortgeschrittene-rem Entwicklungsstadium, also kurz bevor die Hülle aufbricht, ist bereits die rote Farbe der Tentakeln zu sehen.
+Aufgeschnitten zeigt das Hexenei bereits die Anlage für den späteren Pilz. In fortgeschrittenerem Entwicklungsstadium, also kurz bevor die Hülle aufbricht, ist bereits die rote Farbe der Tentakeln zu sehen.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/clathrus_archeri_05_dg.jpg" nocrop=true %}
@@ -38,5 +38,12 @@ Aufgeschnitten zeigt das Hexenei bereits die Anlage für den späteren Pilz. In 
 
 Am 28. September 2014 fanden wir in unmittelbarer Nähe des Frankfurter Stadtwaldhauses (wer es noch nicht kennt: ein durchaus lohnendes Ziel) ein in diesem Ausmaß nie zuvor gesehenes Massenvorkommen des Tintenfischpilzes. Unzählige Exemplare befanden sich noch im Hexeneistadium, die voll entwickelten wuchsen zum Teil so dicht gedrängt, dass sie sich ineinander verknäuelten (Fotos unten). In der Regel bildet der Pilz fünf Arme, hier hatten wir einige mit sechs und sogar sieben (Fotos oben). Um dieses ungewöhnliche Ereignis hinreichend dokumentieren zu können, mussten wir für einige Minuten einen schier unerträglichen Gestank ertragen.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/clathrus_archeri_08_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/clathrus_archeri_09_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/clathrus_archeri_07_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
