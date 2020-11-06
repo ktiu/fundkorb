@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Russula vesca
-  deutsch: Frauentäubling
+  deutsch: Speisetäubling
   referenz: "Fr. 1836 "
   familie: Russulaceae
   erlaeuterung: vesca = essbar
