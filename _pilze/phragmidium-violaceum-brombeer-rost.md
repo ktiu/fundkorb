@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://jule.pflanzenbestimmung.de/phragmidium-violaceum/
 ---
-Dieser Rostpilz kommt ausschließlich auf Brombeerblättern vor und ist auf diesem Subtrat die einzige Rostpilzart und daher unverwechselbar. Bei den gelb- bis orangefarbenen Pusteln auf den Blattoberseiten handelt es sich um sogenannte *Uredolager*, in denen die *Uredosporen* gebildet werden. Sie zeigen sich auch auf den Blattoberseiten als dunkeltote Flecken und können im Sommer weitere Brombeerblätter infizieren. Später entstehen zusätzlich schwarze Pusteln auf den Blattunterseiten, die sogenannten *Teleutolager*, in denen *Teliosporen* entstehen, die den Winter überdauern und für den erneuten Zyklus im Folgejahr sorgen. Ein Wirtswechsel wie bei vielen anderen Rostpilzen findet beim Brombeerrost nicht statt.
+Dieser Rostpilz kommt ausschließlich auf Brombeerblättern vor und ist auf diesem Subtrat die einzige Rostpilzart und daher unverwechselbar. Bei den gelb- bis orangefarbenen Pusteln auf den Blattunterseiten handelt es sich um sogenannte *Uredolager*, in denen die *Uredosporen* gebildet werden. Sie zeigen sich auch auf den Blattoberseiten als dunkelrote Flecken und können im Sommer weitere Brombeerblätter infizieren. Später entstehen zusätzlich schwarze Pusteln auf den Blattunterseiten, die sogenannten *Teleutolager*, in denen *Teliosporen* entstehen, die den Winter überdauern und für den erneuten Zyklus im Folgejahr sorgen. Ein Wirtswechsel wie bei vielen anderen Rostpilzen findet beim Brombeerrost nicht statt.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/phragmidium_violaceum_05_dg.jpg" nocrop=true %}
