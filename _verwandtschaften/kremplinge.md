@@ -9,8 +9,8 @@ Der Name Krempling bezieht sich auf den zumindest beim jungen Pilz eingerollten 
 
 Als Kremplinge bezeichnet man im Wesentlichen Arten, die in der Gattung Paxillus vereint waren, heute jedoch taxonomisch getrennt sind. Bei Paxillus (Kremplinge) verblieben sind Arten, die Mykorrhiza mit Bäumen bilden und von denen drei in Deutschland nachgewiesen sind:
 
-Paxillus involutus (Kahler Krempling)\
-Paxillus rubicundulus (Erlenkrempling)\
+[Paxillus involutus (Kahler Krempling)](/pilze/paxillus-involutus-kahler-krempling)\
+[Paxillus rubicundulus (Erlenkrempling)](/pilze/paxillus-rubicundulus-erlenkrempling)\
 Paxillus validus (Kräftiger Krempling), auch als Paxillus ammoniaviescens beschrieben.
 
 {% include abbildung_start.html stil="mittel" %}
@@ -26,9 +26,9 @@ Von diesen ist der Kahle Krempling die mit Abstand häufigste und praktisch lüc
 
 Ausschließlich bei Erlen wächst der Erlenkrempling (Paxillus rubicundulus) und ist damit deutlich seltener als der Kahle. Als sehr selten (oder nicht erkannt) sind die beiden übrigen Arten einzustufen. Der Kräftige Krempling wurde erst 1999 von Christoph Hahn neu beschrieben und zuvor (und auch heute noch!) für einen Kahlen Krempling gehalten. 
 
-Eine grundsätzlich andere Lebensweise zeichnen die Holzkremplinge aus. Sie leben saprobiontisch an totem Holz:
+Eine grundsätzlich andere Lebensweise zeichnen die Holzkremplinge aus. Sie leben [saprobiontisch](saprobiontisch "Glossar") an totem Holz:
 
-Tapinella atrotomentosa (Samtfußkrempling)\
+[Tapinella atrotomentosa (Samtfußkrempling)](/pilze/tapinella-atrotomentosa-samtfußkrempling)\
 Tapinella panuoides (Muschelkrampling)
 
 {% include abbildung_start.html stil="mittel" %}
@@ -40,4 +40,4 @@ Ob sich die neu geprägten deutschen Namen Samtfuß-Holzkrempling und Muschel-Ho
 
 Beide Gattungen (Paxillus und Tomentella) gehören in die Ordnung Boletales (Röhrlingsartige), was bei vielen Pilzfreunden auf Unverständnis stößt - haben sie doch eindeutig Lamellen und kein Röhrenfutter (Schwamm) an der Hutunterseite. Für verwandtschaftliche Beziehungen sind jedoch genetische Übereinstimmungen und nicht optische Ähnlichkeiten maßgelich. Im Fall der Kremplinge könnte man es so formulieren: es handelt sich um Röhrlinge, die sich in der Ausbildung ihrer Röhren ein wenig geirrt haben. Das sich ihre "Lamellen" fast genau so zerdrücken und miteinander verschmieren lassen wie das Röhrenfutter der "echten" Röhrlinge, ist ein nachvollziehbares Indiz für die Zugehörigkeit zu Ordnung der Dickröhrlingsartigen, zu denen nicht nur die dickstieligen gehören.
 
-Dann gibt es noch die Filzkremplinge (Gattung Ripartites), die mit den hier genannten Kremplingen jedoch nicht näher verwandt sind. Sie gehören zu den echten Blätterpilzen (Ordnung Agaricales). 
+Dann gibt es noch die Filzkremplinge (Gattung Ripartites), die mit den hier genannten Kremplingen jedoch nicht näher verwandt sind. Sie gehören zu den echten Blätterpilzen (Ordnung Agaricales).
