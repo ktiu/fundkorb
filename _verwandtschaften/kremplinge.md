@@ -7,7 +7,7 @@ aktualisiert: 2020-11-07
 ---
 Der Name Krempling bezieht sich auf den zumindest beim jungen Pilz eingerollten (eingekrempelten) Hutrand. Dies ist jedoch eine anatomische Eigenschaft, der keine Bedeutung im Hinblick auf verwandtschaftliche Beziehungen zukommt. Arten mit eingerolltem Hutrand gibt es in den unterschiedlichsten Pilzfamilien und Gattungen.
 
-Als Kremplinge bezeichnet man im Wesentlichen Arten, die in der Gattung Paxillus vereint waren, heute jedoch taxonomisch getrennt sind. Bei Paxillus (Kremplinge) verblieben sind Arten, die Mykorrhiza mit Bäumen bilden und von denen drei in Deutschland nachgewiesen sind:
+Als Kremplinge bezeichnet man im Wesentlichen Arten, die in der Gattung Paxillus vereint waren, heute jedoch taxonomisch getrennt sind. Bei Paxillus (Kremplinge) verblieben sind Arten, die [Mykorrhiza](Mykorrhiza "Glossar") mit Bäumen bilden und von denen drei in Deutschland nachgewiesen sind:
 
 [Paxillus involutus (Kahler Krempling)](/pilze/paxillus-involutus-kahler-krempling)\
 [Paxillus rubicundulus (Erlenkrempling)](/pilze/paxillus-rubicundulus-erlenkrempling)\
@@ -38,6 +38,6 @@ Tapinella panuoides (Muschelkrampling)
 
 Ob sich die neu geprägten deutschen Namen Samtfuß-Holzkrempling und Muschel-Holzkrempling bei den Hobby-Pilzfreunden durchsetzen werden, bleibt abzuwarten.
 
-Beide Gattungen (Paxillus und Tomentella) gehören in die Ordnung Boletales (Röhrlingsartige), was bei vielen Pilzfreunden auf Unverständnis stößt - haben sie doch eindeutig Lamellen und kein Röhrenfutter (Schwamm) an der Hutunterseite. Für verwandtschaftliche Beziehungen sind jedoch genetische Übereinstimmungen und nicht optische Ähnlichkeiten maßgelich. Im Fall der Kremplinge könnte man es so formulieren: es handelt sich um Röhrlinge, die sich in der Ausbildung ihrer Röhren ein wenig geirrt haben. Das sich ihre "Lamellen" fast genau so zerdrücken und miteinander verschmieren lassen wie das Röhrenfutter der "echten" Röhrlinge, ist ein nachvollziehbares Indiz für die Zugehörigkeit zur Ordnung der Röhrlingsartigen wie auch die Beschaffenheit der [Trama]Trama "Glossar").
+Beide Gattungen (Paxillus und Tomentella) gehören in die Ordnung Boletales (Röhrlingsartige), was bei vielen Pilzfreunden auf Unverständnis stößt - haben sie doch eindeutig Lamellen und kein Röhrenfutter (Schwamm) an der Hutunterseite. Für verwandtschaftliche Beziehungen sind jedoch genetische Übereinstimmungen und nicht optische Ähnlichkeiten maßgelich. Im Fall der Kremplinge könnte man es so formulieren: es handelt sich um Röhrlinge, die sich in der Ausbildung ihrer Röhren ein wenig geirrt haben. Das sich ihre "Lamellen" fast genau so zerdrücken und miteinander verschmieren lassen wie das Röhrenfutter der "echten" Röhrlinge, ist ein nachvollziehbares Indiz für die Zugehörigkeit zur Ordnung der Röhrlingsartigen wie auch die Beschaffenheit der \[Trama]Trama "Glossar").
 
 Dann gibt es noch die Filzkremplinge (Gattung Ripartites), die mit den hier genannten Kremplingen jedoch nicht näher verwandt sind. Sie gehören zu den echten Blätterpilzen (Ordnung Agaricales).
