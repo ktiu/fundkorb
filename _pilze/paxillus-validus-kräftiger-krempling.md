@@ -12,7 +12,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/paxillus_validus_01_dg.jpg
 ---
-Der Kräftige Krempling (auch Großer Krempling, Paxillus validus) ist eine Pilzart aus der Familie der Kremplingsverwandten. Er ist erst 1999 von Christoph Hahn beschrieben worden und davor für einen Kahlen Krempling gehalten worden. Die Unterschiede zu diesem sind nicht immer leicht auszumachen.
+Der Kräftige Krempling (auch Großer Krempling, Paxillus validus) ist eine Pilzart aus der Familie der [Kremplingsverwandten]({% link _verwandtschaften/kremplinge.md %}). Er ist erst 1999 von Christoph Hahn beschrieben worden und davor für einen Kahlen Krempling gehalten worden. Die Unterschiede zu diesem sind nicht immer leicht auszumachen.
 
 Typische Exemplare fallen durch besonders große robuste Fruchtkörper auf. Ihre Hüte erreichen bis zu 20 (25) cm Durchmesser, sind im Zentrum trichterig vertieft und reißen felderig auf. Die Lamellen stehen dichter als beim Kahlen Krempling, der Stiel ist meist kürzer und im Verhältnis zur Länge dicker.
 
