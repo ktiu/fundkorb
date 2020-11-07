@@ -20,7 +20,7 @@ Paxillus validus (Kräftiger Krempling), auch als Paxillus ammoniaviescens besch
 
 Von diesen ist der Kahle Krempling die mit Abstand häufigste und praktisch lückenlos in Mitteleuropa verbreitete Art.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/paxillus_rubicundulus_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Erlenkrempling Paxillus rubicunsdulus" %}
 
