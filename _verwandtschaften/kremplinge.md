@@ -31,6 +31,13 @@ Eine grundsätzlich andere Lebensweise zeichnen die Holzkremplinge aus. Sie lebe
 Tapinella atrotomentosa (Samtfußkrempling)\
 Tapinella panuoides (Muschelkrampling)
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tapinella_atrotomentosa_04_dg.jpeg" %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/tapinella_panuoides_01_dg.jpeg" nocrop=true %}
+{% include abbildung_ende.html legende="Samtfußkrempling Tapinella atrotomentosa --  Muschelkrempling Tapinella panuoides" %}
+
+Ob sich die neu geprägten deutschen Namen Samtfuß-Holzkrempling und Muschel-Holzkrempling bei den Hobby-Pilzfreunden durchsetzen werden, bleibt abzuwarten.
+
+Beide Gattungen (Paxillus und Tomentella) gehören in die Ordnung Boletales (Röhrlingsartige), was bei vielen Pilzfreunden auf Unverständnis stößt - haben sie doch eindeutig Lamellen und kein Röhrenfutter (Schwamm) an der Hutunterseite. Für verwandtschaftliche Beziehungen sind jedoch genetische Übereinstimmungen und nicht optische Ähnlichkeiten maßgelich. Im Fall der Kremplinge könnte man es so formulieren: es handelt sich um Röhrlinge, die sich in der Ausbildung ihrer Röhren ein wenig geirrt haben. Das sich ihre "Lamellen" fast genau so zerdrücken und miteinander verschmieren lassen wie das Röhrenfutter der "echten" Röhrlinge, ist ein nachvollziehbares Indiz für die Zugehörigkeit zu Ordnung der Dickröhrlingsartigen, zu denen nicht nur die dickstieligen gehören.
+
+Dann gibt es noch die Filzkremplinge (Gattung Ripartites), die mit den hier genannten Kremplingen jedoch nicht näher verwandt sind. Sie gehören zu den echten Blätterpilzen (Ordnung Agaricales). 
