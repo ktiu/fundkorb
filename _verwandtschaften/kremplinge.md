@@ -16,7 +16,7 @@ Als Kremplinge bezeichnet man im Wesentlichen Arten, die in der Gattung Paxillus
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/paxillus_involutus_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/paxillus_validus_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Kahler Krempling Paxillus involutus --Kräftiger Krempling Paxillus validus" %}
+{% include abbildung_ende.html legende="Kahler Krempling Paxillus involutus -- Kräftiger Krempling Paxillus validus" %}
 
 Von diesen ist der Kahle Krempling die mit Abstand häufigste und praktisch lückenlos in Mitteleuropa verbreitete Art.
 
