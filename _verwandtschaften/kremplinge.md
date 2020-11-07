@@ -11,7 +11,7 @@ Als Kremplinge bezeichnet man im Wesentlichen Arten, die in der Gattung Paxillus
 
 [Paxillus involutus (Kahler Krempling)](/pilze/paxillus-involutus-kahler-krempling)\
 [Paxillus rubicundulus (Erlenkrempling)](/pilze/paxillus-rubicundulus-erlenkrempling)\
-Paxillus validus (Kräftiger Krempling), auch als Paxillus ammoniaviescens beschrieben.
+[Paxillus validus (Kräftiger Krempling)](/pilze/paxillus-validus-kräftiger-krempling), auch als Paxillus ammoniaviescens beschrieben.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/paxillus_involutus_02_dg.jpg" nocrop=true %}
