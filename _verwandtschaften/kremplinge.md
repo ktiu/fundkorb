@@ -9,8 +9,8 @@ Der Name Krempling bezieht sich auf den zumindest beim jungen Pilz eingerollten 
 
 Als Kremplinge bezeichnet man im Wesentlichen Arten, die in der Gattung Paxillus vereint waren, heute jedoch taxonomisch getrennt sind. Bei Paxillus (Kremplinge) verblieben sind Arten, die Mykorrhiza mit Bäumen bilden und von denen drei in Deutschland nachgewiesen sind:
 
-[Paxillus involutus (Kahler Krempling)](/pilze/paxillus-involutus-kahler-krempling)\
-[Paxillus rubicundulus (Erlenkrempling)](/pilze/paxillus-rubicundulus-erlenkrempling)\
+[Paxillus involutus (Kahler Krempling)](/pilze/paxillus-involutus-kahler-krempling)  
+[Paxillus rubicundulus (Erlenkrempling)](/pilze/paxillus-rubicundulus-erlenkrempling)  
 [Paxillus validus (Kräftiger Krempling)](/pilze/paxillus-validus-kräftiger-krempling), auch als Paxillus ammoniaviescens beschrieben.
 
 {% include abbildung_start.html stil="mittel" %}
@@ -22,13 +22,13 @@ Von diesen ist der Kahle Krempling die mit Abstand häufigste und praktisch lüc
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/paxillus_rubicundulus_04_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Erlenkrempling Paxillus rubicunsdulus" %}
+{% include abbildung_ende.html legende="Erlenkrempling Paxillus rubicundulus" %}
 
-Ausschließlich bei Erlen wächst der Erlenkrempling (Paxillus rubicundulus) und ist damit deutlich seltener als der Kahle. Als sehr selten (oder nicht erkannt) sind die beiden übrigen Arten einzustufen. Der Kräftige Krempling wurde erst 1999 von Christoph Hahn neu beschrieben und zuvor (und auch heute noch!) für einen Kahlen Krempling gehalten. 
+Ausschließlich bei Erlen wächst der Erlenkrempling (Paxillus rubicundulus) und ist damit deutlich seltener als der Kahle. Als sehr selten (oder nicht erkannt) ist die dritte Art einzustufen. Der Kräftige Krempling wurde erst 1999 von Christoph Hahn neu beschrieben und zuvor (und auch heute noch!) für einen Kahlen Krempling gehalten. 
 
-Eine grundsätzlich andere Lebensweise zeichnen die Holzkremplinge aus. Sie leben [saprobiontisch](saprobiontisch "Glossar") an totem Holz:
+Eine grundsätzlich andere Lebensweise zeichnet die Holzkremplinge aus. Sie leben [saprobiontisch](saprobiontisch "Glossar") an totem Holz:
 
-[Tapinella atrotomentosa (Samtfußkrempling)](/pilze/tapinella-atrotomentosa-samtfußkrempling)\
+[Tapinella atrotomentosa (Samtfußkrempling)](/pilze/tapinella-atrotomentosa-samtfußkrempling)  
 Tapinella panuoides (Muschelkrampling)
 
 {% include abbildung_start.html stil="mittel" %}
