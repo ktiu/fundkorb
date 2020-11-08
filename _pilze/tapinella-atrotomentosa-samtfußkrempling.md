@@ -14,6 +14,8 @@ hauptbild:
   datei: /bilder/tapinella_atrotomentosa_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/t/Tapinella_atrotomentosa.html
+  - text: Kremplinge
+    url: https://fundkorb.de/verwandt/kremplinge
 ---
 Um diesen stattlichen Pilz sicher zu erkennen, muss man keine lange Liste von Merkmalen durchgehen und schon gar nicht mikroskopieren. Er gehört zu den Arten, die durch Vergleich mit einem Foto zweifelsfrei bestimmt und danach problemlos wiedererkannt werden können. Ausschlaggebend ist der kompakte dickfleischige Fruchtkörper, der feinsamtige, dunkelrotbraune Stiel und die für [Kremplinge]({% link _verwandtschaften/kremplinge.md %}) typischen auf Druck oder Reiben braun verfärbenden und zusammenschmierenden Lamellen. Auch der Farbkontrast zwischen Stiel und den bogig herablaufenden Lamellen und der zumindest jung eingerollte Hutrand gehören zu seinen auffälligen Merkmalen.
 
