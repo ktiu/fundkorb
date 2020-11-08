@@ -14,6 +14,8 @@ hauptbild:
   datei: /bilder/tapinella_panuoides_01_dg.jpeg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/t/Tapinella_panuoides.html
+  - text: Kremplinge
+    url: https://fundkorb.de/verwandt/kremplinge
 ---
 Als [Kremplinge]({% link _verwandtschaften/kremplinge.md %}) im weiteren Sinne gelten fünf Arten, die heute in zwei Gattungen und Familien aufgeteilt sind:
 
