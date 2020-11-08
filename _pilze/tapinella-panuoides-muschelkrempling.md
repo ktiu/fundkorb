@@ -20,7 +20,7 @@ Als \[Kremplinge]({% link _verwandtschaften/kremplinge.md %}) im weiteren Sinne 
 Kremplinge (Paxillus, Paxillaceae) = Mykorrhizapilze, die in Symbiose mit Bäumen leben\
 Holzkremplinge (Tapinella, Tapinellaceae) = [saprobiontisch](saprobiontisch "Glossar") lebende Holz zersetzende Arten
 
-Die beiden Holzkremplingsarten sind der häufige Samtfußkrempling und der wesentlich seltenere Muschelkrempling. Beide wachsen ausschließlich an totem Nadelholz, vor allem an Stümpfen oder Wurzelausläufern. Im Gegesatz zum Samtfußkrempling besitzt der Muschelseitling keinen oder einen nur sehr rudimentären Stiel und ist seitlich am Substrat angewachsen.
+Die beiden Holzkremplingsarten sind der häufige [Samtfußkrempling](/pilze/tapinella-atrotomentosa-samtfußkrempling) und der wesentlich seltenere Muschelkrempling. Beide wachsen ausschließlich an totem Nadelholz, vor allem an Stümpfen oder Wurzelausläufern. Im Gegesatz zum Samtfußkrempling besitzt der Muschelseitling keinen oder einen nur sehr rudimentären Stiel und ist seitlich am Substrat angewachsen.
 
 Die muschel- oder fächerförmigen Hüte werden etwa 4 bis 8 cm groß, sind oft wellig verbogen und ockergelb bis hell olivbraun gefärbt. Ihre Oberfläche ist feinfilzig, im Alter verkahlend. Oft sind mehrere Einzelhütchen miteinander verwachsen. Die engstehenden Lamellen sind orange-gelblich gefärbt, lassen sich leicht vom Hutfleisch wegschieben oder schmieren auf Druck zusammen. Von unten betrachtet kann der Pilz dem Falschen Pfifferling ähneln, der jedoch  immer deutlich gestielt ist und auf dem Boden wächst.
 
