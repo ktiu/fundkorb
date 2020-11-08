@@ -14,6 +14,8 @@ hauptbild:
   datei: /bilder/paxillus_rubicundulus_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/p/Paxillus_rubicundulus.html
+  - text: Kremplinge
+    url: https://fundkorb.de/verwandt/kremplinge
 ---
 Der Erlenkrempling gehört zu den Pilzarten, die ihrem Baumpartner treu verbunden sind, und zwar als [Mykorrhizapartner](Mykorrhiza "Glossar") von Schwarz- und Grau-Erlen. Im Unterschied zum sehr viel häufigeren und praktisch überall vorkommenden Kahlen Krempling ist sein Hutrand nur jung und wenig eingerollt, später glatt und nahezu scharfrandig. Außerdem reißt die feinfilzige Huthaut bald kleinfelderig auf. Die Lamellen sind mehr gelblich als ockerfarben wie beim Kahlen Krempling und flecken eher rotbraun als dunkelbraun. Im Zweifelsfall ist auf unterschiedliche Sporenmaße zu achten:
 
