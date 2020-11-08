@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/t/Tapinella_panuoides.html
 ---
-Als Kremplinge im weiteren Sinne gelten fünf Arten, die heute in zwei Gattungen und Familien aufgeteilt sind:
+Als [Kremplinge]({% link _verwandtschaften/kremplinge.md %}) im weiteren Sinne gelten fünf Arten, die heute in zwei Gattungen und Familien aufgeteilt sind:
 
 Kremplinge (Paxillus, Paxillaceae) = Mykorrhizapilze, die in Symbiose mit Bäumen leben  
 Holzkremplinge (Tapinella, Tapinellaceae) = saprobiontisch lebende Holz zersetzende Arten
