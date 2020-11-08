@@ -29,7 +29,7 @@ Ausschließlich bei Erlen wächst der Erlenkrempling (Paxillus rubicundulus) und
 Eine grundsätzlich andere Lebensweise zeichnet die Holzkremplinge aus. Sie leben [saprobiontisch](saprobiontisch "Glossar") an totem Holz:
 
 [Tapinella atrotomentosa (Samtfußkrempling)](/pilze/tapinella-atrotomentosa-samtfußkrempling)\
-Tapinella panuoides (Muschelkrampling)
+[Tapinella panuoides (Muschelkrampling)](/pilze/tapinella-panuoides-muschelkrempling)
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tapinella_atrotomentosa_04_dg.jpeg" %}
