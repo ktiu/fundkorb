@@ -7,6 +7,7 @@ beschreibung:
   erlaeuterung: polygramma = vielstreifig
 profil:
   aktualisiert: 2020-11-08
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/mycena_polygramma_01_hl.jpg
