@@ -13,6 +13,8 @@ hauptbild:
   datei: /bilder/paxillus_involutus_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/p/Paxillus_involutus.html
+  - text: Kremplinge
+    url: https://fundkorb.de/verwandt/kremplinge
 ---
 Wie auf diesem an der Gänsbrüh (Rodgau-Dudenhofen) entstandenen Foto kann der Kahle Krempling auch mal auf stark vermorschtem Holz wachsen. Was Standortansprüche betrifft, ist er ohnehin nicht wählerisch. Er bildet [Mykorrhizapartnerschaften](Mykorrhiza "Glossar") mit einer Vielzahl von Laub- und Nadelbäumen, auch außerhalb von Wäldern, wächst auf feuchten wie trockenen, sauren, neutralen und basischen Böden. Der Name [Krempling]({% link _verwandtschaften/kremplinge.md %}) erklärt sich durch seinen in jungem Zustand deutlich eingerollten Hutrand. Die Hutoberseite ist beim jungen Pilz fein filzig, verkahlt jedoch im Alter und kann bei Nässe schmierig-glitschig sein. Deshalb wird er in der neueren Literatur auch bevorzugt *Verkahlender Krempling* genannt. Die deutlich am Stiel herablaufenden Lamellen sind zunächst ockergelblich, dann olivocker bis -braun, verschmieren auf Druck und färben sich dabei dunkelbraun. Obwohl er Lamellen besitzt, ist er mit den Röhrlingen und nicht mit Blätterpilzen verwandt. Man könnte es so formulieren: Kremplinge sind Röhrlinge, die sich bei der Ausbildung ihrer Röhrenschicht ein wenig geirrt haben.
 
