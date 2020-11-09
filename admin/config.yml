@@ -337,6 +337,7 @@ collections:
                                 
   - name: "archiv"
     label: "Archiv"
+    folder: "_archiv"
     label_singluar: "Archivdatei"
     slug: "{{title}}"
     editor:
