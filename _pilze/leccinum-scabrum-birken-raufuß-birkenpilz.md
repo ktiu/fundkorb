@@ -24,9 +24,9 @@ Raustielröhrlinge mit roten oder rotbraunen Hüten werden Rotkappen genannt. Al
 
 Für den Birken-Raufuß gilt: 
 
-**Farbe der Huthaut:** ziemlich einheitlich hell- bis dunkelbraun, rötlich braun
-**Farbe der Stielflöckchen:** graubräunlich bis schwärzlich
-**Verfärbung des Fleisches:** nicht oder nur schwach und langsam rosarötlich
+**Farbe der Huthaut:** ziemlich einheitlich hell- bis dunkelbraun, rötlich braun  
+**Farbe der Stielflöckchen:** graubräunlich bis schwärzlich  
+**Verfärbung des Fleisches:** nicht oder nur schwach und langsam rosarötlich  
 **Vorkommen bei:** Birken
 
 Vom Birken-Raufuß existieren zwei Varietäten:
