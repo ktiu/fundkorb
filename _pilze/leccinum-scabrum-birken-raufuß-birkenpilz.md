@@ -24,16 +24,16 @@ Raustielröhrlinge mit roten oder rotbraunen Hüten werden Rotkappen genannt. Al
 
 Für den Birken-Raufuß gilt: 
 
-Farbe der Huthaut: ziemlich einheitlich hell- bis dunkelbraun, rötlich braun
-Farbe der Stielflöckchen: graubräunlich bis schwärzlich
-Verfärbung des Fleisches: nicht oder nur schwach und langsam rosarötlich
-Vorkommen bei: Birken
+**Farbe der Huthaut:** ziemlich einheitlich hell- bis dunkelbraun, rötlich braun
+**Farbe der Stielflöckchen:** graubräunlich bis schwärzlich
+**Verfärbung des Fleisches:** nicht oder nur schwach und langsam rosarötlich
+**Vorkommen bei:** Birken
 
 Vom Birken-Raufuß existieren zwei Varietäten:
 
-Schwärzlicher Birkenpilz  (Leccinum scabrum var. melaneum):
-Huthaut schwarzbraun bis grauschwarz, Stielschuppung deutlich kräftiger und nahezu schwarz
-Weißer Birkenpilz  (Leccinum scabrum var. niveum):
+**Schwärzlicher Birkenpilz**  (Leccinum scabrum var. melaneum):
+Huthaut schwarzbraun bis grauschwarz, Stielschuppung deutlich kräftiger und nahezu schwarz  
+**Weißer Birkenpilz**  (Leccinum scabrum var. niveum):
 Huthaut weiß, Stiel einschließlich Flöckchen weißlich
 
 {% include abbildung_start.html stil="mittel" %}
