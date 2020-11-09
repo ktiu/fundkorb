@@ -327,3 +327,28 @@ collections:
         name: "pilz"
         widget: "string"
         collection: "pilze"
+
+
+#     _             _     _       
+#    / \   _ __ ___| |__ (_)_   __
+#   / _ \ | '__/ __| '_ \| \ \ / /
+#  / ___ \| | | (__| | | | |\ V / 
+# /_/   \_\_|  \___|_| |_|_| \_/  
+                                
+  - name: "archive"
+    label: "Archiv"
+    label_singluar: "Archivdatei"
+    slug: "{{title}}"
+    editor:
+      preview: false
+    create: true
+    sortable_fields: ["title"]
+    fields:
+      - label: "Titel"
+        name: "title"
+        widget: "string"
+      - label: "Inhalt"
+        name: "body"
+        widget: "markdown"
+        editorComponents: ["abbildung"]
+
