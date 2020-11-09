@@ -28,6 +28,8 @@ collections:
     output: false
   glossar:
     output: false
+  archiv:
+    output: false
 
 defaults:
   -
