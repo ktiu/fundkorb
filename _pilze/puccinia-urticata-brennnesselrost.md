@@ -19,7 +19,7 @@ literatur:
 {% include bild.html datei="/bilder/puccinia_urticata_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Rostpilze bilden ihre Myzelien in Pflanzenzellen, ohne deren Gewebe und damit ihren Wirt abzutöten, können aber bei Nutzpflanzen wie Getreide Ernteverluste verursachen. Zur Fortpflanzung bilden sie verschiedene Arten von Sporen und entwickeln unterschiedliche Fruchtformen, die bei vielen Arten in spezifischen, aufeinander folgenden Zyklen ihre Wirtspflanzen wechseln.
+Rostpilze bilden ihre [Myzelien](Myzel "Glossar") in Pflanzenzellen, ohne deren Gewebe und damit ihren Wirt abzutöten, können aber bei Nutzpflanzen wie Getreide Ernteverluste verursachen. Zur Fortpflanzung bilden sie verschiedene Arten von Sporen und entwickeln unterschiedliche Fruchtformen, die bei vielen Arten in spezifischen, aufeinander folgenden Zyklen ihre Wirtspflanzen wechseln.
 
 Im Falle des Brennnessel-Rostes wechselt der Pilz von der Brennnessel auf Seggen. Da die zu den Sauergrasgewächsen gehörigen Seggen nasse Standorte bevorzugen, ist Puccinia urticata vor allem an Brennnesseln zu finden, die in der Nähe von Fluss- und Bachläufen oder Seeufern und damit nicht weit von ihrem Zweitwirt entfernt stehen. Zum Auffinden achte man auf kleine helle Flecken auf der Blattoberseite, betrachte die Sporenlager auf der Unterseite und suche dann an Stängeln und Blattstielen, wo wesentlich größere und optisch beeindruckende Wuchsformen zu finden sind.
 
