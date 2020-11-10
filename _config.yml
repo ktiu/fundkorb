@@ -3,7 +3,9 @@ baseurl: ""
 title: "Fundkorb"
 lang: de_DE
 timezone: Europe/Berlin
-form_target: fundkorb@ktiu.net
+mail:
+  contact: kontakt@fundkorb.de
+  signup: anmeldung@fundkorb.de
 
 upload_dir: "bilder/"
 
