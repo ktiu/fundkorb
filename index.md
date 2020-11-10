@@ -20,6 +20,13 @@ Auch die Pilzberatung im Gesundheitsamt Frankfurt muss leider ausfallen
 
 Termine für pilzkundliche Führungen finden Sie [hier >>>](/termine)
 
+- - -
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/physarum_utriculare_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+Begegnungen der besonderen Art: wer so etwas entdeckt, betrachtet sich ungläubig die seltsamen Gebilde, die an schleimigen Fäden zu hängen scheinen. Es ist der Schleimpilz [Physarum utriculare](/pilze/physarum-utriculare-fadenfruchtschleimpilz), der bald seine Farbe verändern wird.
 
 - - -
 
