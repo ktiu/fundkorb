@@ -29,3 +29,8 @@ Puccinia punctiformis ist ein Rostpilz, der als Endoparasit auf der Acker-Kratzd
 {% include abbildung_ende.html legende="Foto rechts: süßlich duftende gelbe Spermogonien auf der Blattunterseite (Julia Krause)" %}
 
 Puccinia punctiformis ist bei Kenntnis seiner Wirtspflanze leicht zu finden. Ein Wirtswechsel findet nicht statt. Die Acker-Kratzdistel gehört zur Familie der Korbblütler und fällt wegen ihrer bedornten Blätter und violetten Blüten auf und kann Wuchshöhen von 30 bis 150 Zentimeter erreichen. Ihre Wuzeln reichen bis in 2.8 Meter Tiefe. Man findet sie an Weg- und Feldrändern, weshalb sie auch als Ackerunkraut bezeichnet wird. Die Blütezeit ist Juli bis Oktober. 
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/puccinia_punctiformis_04.jk.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/puccinia_punctiformis_cirsium_vulgare_05_wi.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Abb. links: Julia Krause -- Abb. rechts: Acker-Kratzdistel Cirsium vulgare (Wikipedia)" %}
