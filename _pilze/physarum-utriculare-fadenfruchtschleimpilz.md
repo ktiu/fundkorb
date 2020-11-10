@@ -22,7 +22,7 @@ Der Fadenfruchtschleimpilz war früher unter dem Namen *Badhamia utricularis* be
 {% include bild.html datei="/bilder/physarum_utriculare_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="In der weiteren Entwicklung sehen die Sporokarpien wie hängende unreife, reife und überreife Heidelbeerchen aus" %}
 
-Schleimpilze sind einzellige Organismen, die weder ein Gehirn noch Augen besitzen, aber über höchst intelligente Fähigkeiten verfügen. Sie bewegen sich scheinbar kriechend, in dem sie das Plasma in ihrer Zelle rhythmisch pulsieren lassen. Sie können sogar in einem Labyrinth Futter auf kürzestem Weg finden. Hier die Links zu zwei Videos, die das eindrucksvoll belegen:
+Schleimpilze sind einzellige Organismen, die weder ein Gehirn noch Augen besitzen, aber über höchst intelligente Fähigkeiten verfügen. Sie bewegen sich scheinbar kriechend, in dem sie das Plasma in ihrer Zelle rhythmisch pulsieren lassen. Sie können sogar in einem Labyrinth Futter auf kürzestem Weg finden. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DF51zfsGz3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
