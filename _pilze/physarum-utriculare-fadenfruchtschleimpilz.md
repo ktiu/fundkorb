@@ -12,7 +12,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/physarum_utriculare_01_dg.jpg
-  legende: Im Anfangsstadium sind die hängende Fadenfrüchtchen gelb
+  legende: Im Anfangsstadium sind die hängenden Fadenfrüchtchen gelb
 ---
 Dass Schleimpilze eine erstaunliche Entwicklung von amöbenartigen, sich kriechend fortbewegenden Tierchen zu pilzartigen und sporenbildenden [Sporokarpien](Sporokarp "Glossar") durchmachen, ist schon bemerkenswert genug. Der hier vorgestellte Fadenfruchtschleimpilz verändert auch noch die Farbe seiner Fruchtkörperchen von gelb über rötlich und blaugrau zu tief dunkelblau. Die unregelmäßig birnen-oder eiförmigen Sporokarpien hängen wie Trauben an ihren fädigen Stielen und erreichen Durchmesser von 1 - 2 mm. Ihre [Peridie](Peridie "Glossar") ist jung glänzend, später blau irisierend oder durch Kalkeinlagerungen weißlich und runzelig rau. An diesen Merkmalen ist dieser [Myxomyzet](Myxomyzeten "Glossar") schon im Feld recht gut zu identifizieren.
 
