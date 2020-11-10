@@ -19,7 +19,7 @@ literatur:
       Wucherlingsverwandte in Mitteleuropa, 1959)"
   - url: http://jule.pflanzenbestimmung.de/puccinia-punctiformis/
 ---
-Puccinia punctiformis ist ein Rostpilz, der als Endoparasit auf der Acker-Kratzdistel (Cirsium arvense) wächst. Symptome des Befalls sind dunkel zimtbraune Rostflecken und Pusteln (Uredien) auf den Blattoberflächen und anderen Teilen der Wirtspflanzen. Er ist weltweit verbreitet. Die Spermogonien wachsen beidseitig auf den Blättern und bilden Insekten-lockstoffe, die den Duft von Fliederblüten imitieren und so Insekten anlocken. Dieser Duft ist vor allem im Frühjahr zu beobachten. Harry Regin hat dazu geschrieben:
+Puccinia punctiformis ist ein Rostpilz, der als Endoparasit auf der Acker-Kratzdistel (Cirsium arvense) wächst. Symptome des Befalls sind dunkel zimtbraune Rostflecken und Pusteln (Uredien) auf den Blattoberflächen und anderen Teilen der Wirtspflanzen. Er ist weltweit verbreitet. Die Spermogonien wachsen beidseitig auf den Blättern und bilden Insektenlockstoffe, die den Duft von Fliederblüten imitieren und so Insekten anlocken. Dieser Duft ist vor allem im Frühjahr zu beobachten. Harry Regin hat dazu geschrieben:
 
 > "Der Geruch ist sehr stark. Er kann schon aus einigen Zentimetern Entfernung wahrgenommen werden. Der Pilz riecht für mich so toll, dass ich mir am liebsten ein Distelblatt unter die Nase binden würde."
 
@@ -33,4 +33,4 @@ Puccinia punctiformis ist bei Kenntnis seiner Wirtspflanze leicht zu finden. Ein
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/puccinia_punctiformis_04.jk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/puccinia_punctiformis_cirsium_vulgare_05_wi.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Abb. links: Julia Krause -- Abb. rechts: Acker-Kratzdistel Cirsium vulgare (Wikipedia)" %}
+{% include abbildung_ende.html legende="Abb. links: Julia Krause -- Abb. rechts: Acker-Kratzdistel Cirsium arvense (Wikipedia)" %}
