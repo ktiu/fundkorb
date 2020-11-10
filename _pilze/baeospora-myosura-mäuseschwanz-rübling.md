@@ -9,7 +9,7 @@ profil:
   aktualisiert: 2020-11-10
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: false
+  anzeige: true
   datei: /bilder/baeospora_myosura_03_dg.jpg
 literatur:
   - url: https://de.wikipedia.org/wiki/M%C3%A4useschwanz-R%C3%BCbling
