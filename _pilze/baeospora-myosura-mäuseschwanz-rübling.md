@@ -15,7 +15,7 @@ literatur:
   - url: https://de.wikipedia.org/wiki/M%C3%A4useschwanz-R%C3%BCbling
   - url: http://tintling.com/pilzbuch/arten/b/Baeospora_myosura.html
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/baeospora_myosura_01_dg.jpeg" nocrop=true %}
 {% include abbildung_ende.html %}
 
