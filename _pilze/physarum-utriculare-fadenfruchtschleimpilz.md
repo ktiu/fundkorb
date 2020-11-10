@@ -26,5 +26,5 @@ Schleimpilze sind einzellige Organismen, die weder ein Gehirn noch Augen besitze
 
 <https://www.youtube.com/watch?v=63ufDBgk_sw>  
 
-Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das Video des US-amerikanischen Technikportals The Verge legt das nahe. Auch selbstfahrende Autos könnten vom intelligenten Verhalten der Schleimpilze etwas lernen. Wie kommen die Autoren zu dieser etwas verblüffenden Ansicht?  
+Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das Video des US-amerikanischen Technikportals *The Verge* legt das nahe. Auch selbstfahrende Autos könnten vom intelligenten Verhalten der Schleimpilze etwas lernen. Wie kommen die Autoren zu dieser etwas verblüffenden Ansicht?\
 <https://www.spektrum.de/video/besitzen-schleimpilze-schwarmintelligenz/1592488>
