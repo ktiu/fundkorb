@@ -21,7 +21,7 @@ literatur:
 
 Die Gattung Dachpilze ist leicht zu erkennen. Alle Arten wachsen auf Holz, die Lamellen sind frei, d. h. sie berühren nicht den Stiel, der am Grund keine häutige Scheide besitzt. Das rosafarbene Sporenpulver färbt die jung weißen Lamellen allmählich rosa. Die sichere Artbestimmung ist dagegen nicht immer leicht, oft nur mikroskopisch möglich.
 
-Der Runzelige Dachpilz hat zwei Merkmale, an denen die Bestimmung zumindest gut eingrenzbar ist: die rot- bis kastanienbraune zur Mitte hin dunklere Hutfarbe und die Runzeln oder Adern (anderer Name: Aderiger Dachpilz), die in der vertieften Hutmitte konzentriert oder fast über den ganzen Hut verteilt sein können. Die Stiele sind grauweißlich bis gelblich. Um wirklich sicher zu gehen, ist eine mikroskopische Prüfung anzuraten.
+Der Runzelige Dachpilz gehört zu den eher kleinen Arten, die an totem Laubholz wachsen. Er hat zwei Merkmale, an denen die Bestimmung zumindest gut eingrenzbar ist: die rot- bis kastanienbraune zur Mitte hin dunklere Hutfarbe und die Runzeln oder Adern (anderer Name: Aderiger Dachpilz), die in der vertieften Hutmitte konzentriert oder fast über den ganzen Hut verteilt sein können. Die Stiele sind grauweißlich bis gelblich. Um wirklich sicher zu gehen, ist eine mikroskopische Prüfung anzuraten.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/pluteus_phlebophorus_06_km.jpg" %}
