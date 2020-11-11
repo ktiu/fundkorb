@@ -36,7 +36,7 @@ Pluteus romellii = Gelbstieliger Dachpilz (mit gelbem Stiel)\
 Pluteus thomsonii = Graustieliger Adern-Dachpilz (Stiel weiß bepudert)
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="" nocrop=true %}
+{% include bild.html datei="/bilder/pluteus_phlebophorus_02_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/pluteus_phlebophorus_chz_03_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/pluteus_phlebophorus_plz_04_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/pluteus_phlebophorus_hds_05_fk.jpg" nocrop=true %}
