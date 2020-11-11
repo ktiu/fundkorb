@@ -23,7 +23,7 @@ Morcheln zählen zu den begehrtesten Speisepilzen. Kleine Tütchen mit wenigen g
 {% include bild.html datei="/bilder/morchella_esculenta_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Seit den 1990er-Jahren besuchen wir in jedem Frühjahr das Naturschutzgebiet Kühkopf bei Stockstadt am Rhein, wo der Pilz regelmäßig und nicht selten in größeren Mengen anzutreffen ist, aber natürlich nicht gesammelt werden darf.
+Seit den 1990er-Jahren besuchen wir in jedem Frühjahr das Naturschutzgebiet Kühkopf bei Stockstadt am Rhein, wo der Pilz regelmäßig und nicht selten in größeren Mengen anzutreffen ist, aber natürlich nicht gesammelt werden darf. 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/morchella_esculenta_05_tl.jpg" nocrop=true %}
