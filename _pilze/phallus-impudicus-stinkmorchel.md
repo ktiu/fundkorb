@@ -35,7 +35,7 @@ Die aufrechte Gestalt der Stinkmorchel ist nahezu jedem Naturfreund bekannt, abe
 {% include bild.html datei="/bilder/phallus_impudicus_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Beim Schnitt durch ein noch vollständig geschlossenes Hexenei wird sichtbar, dass in seinem Inneren bereits der komplette spätere Fruchtkörper angelegt ist. Die vollständige Streckung des porösen weißen Stiels bis zu seiner endgültigen Länge von maximal 20 Zentimetern erfolgt innerhalb weniger Stunden und lässt sich im Zeitraffer sehr schön darstellen.
+Beim Schnitt durch ein noch vollständig geschlossenes Hexenei wird sichtbar, dass in seinem Inneren bereits der komplette spätere Fruchtkörper angelegt ist. Die vollständige Streckung des porösen weißen Stiels bis zu seiner endgültigen Länge von maximal 20 Zentimetern erfolgt innerhalb weniger Stunden und lässt sich im [Zeitraffer](https://www.youtube.com/watch?v=zjao9vx2nN8) sehr schön darstellen.
 
 Mit echten Morcheln ist die Stinkmorchel übrigens nicht verwandt und nicht verschwägert. Dass man sie jedoch trotz aller unappetitlicher Vorzeichen im Hexenei-Stadium sogar roh essen kann, wird ihnen jeder erfahrene Leiter einer pilzkundlichen Wanderung gern vorführen. Wer danach sucht, findet im Internet auch Rezepte, wie man in Scheiben geschnittene Hexeneier in der Pfanne braten kann.
 
@@ -52,6 +52,7 @@ Es gibt einige Stinkmorchelverwandte, die sich ebenfalls aus Hexeneiern entwicke
 > Sie stinkt zum Himmel und ihre Form bringt manche auf unanständige Gedanken. Dabei ist sie auch ein Leckerbissen für Insekten. Geruch und Aussehen haben der Gewöhnlichen Stinkmorchel unschöne Vergleiche eingebracht. Seine Form bescherte dem Pilz seinen lateinischen Namen: "Phallus impudicus" bedeut so viel wie "unzüchtiger Penis".
 
 ##### Phallus impotenta
+
 Freitag, 10. Oktober 2003. Man freut sich immer, wenn im Fernsehen mal wieder das Thema Pilze aufgegriffen wird. Um 17:10 Uhr  habe ich den NDR und die Sendereihe „Das!“ eingeschaltet. Im  angekündigten Beitrag zur Pilzsaison sieht man einen vertrauenswürdigen alten Herrn durch seinen Wald streifen, der vor der Kamera seine Funde erklärt: Steinpilze, Maronen, ein Perlpilz, ein Büschel unverträglicher Schwefelköpfe. Und dann schwenkt die Kamera wieder auf den Waldboden, um auf  eine stolz und aufrecht in der Laubstreu stehende Stinkmorchel zu zoomen. Unser Experte ist bemüht, auch diesen Fund zu benennen. Man sieht ihm an, wie es in seinem Kopf arbeitet, wie er den Namen sucht, der ihm partot nicht einfallen will. Vielleicht spielt da ein wenig Lampenfieber eine verständliche und nachvollziehbare Rolle. Dann hat er ihn gefunden, den vorübergehend in seinen Speicherzellen verschütteten wissenschaftlichen Pilznamen, und er spricht ihn klar und deutlich ins Mikrofon: „Das Ding heißt „Phallus impotenta!“
 
 * Carl von Linné (1707 - 1778) hatte offenbar große Probleme, die Pilze in seinem taxonomischen System einzuordnen. Er wusste sich nicht anders zu helfen, als sie in der Unterkategorie "Chaos" im Tierreich unterzubringen. Damit kommt er der Wahrheit jedoch schon recht nahe, denn nach heutigem Verständnis stehen Pilze den Tieren näher als den Pflanzen, auch wenn er sie dem Sinne nach als "Chaoten" bezeichnet hat.
