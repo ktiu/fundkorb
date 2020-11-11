@@ -23,6 +23,14 @@ Termine für pilzkundliche Führungen finden Sie [hier >>>](/termine)
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+Ein aktueller [Fundkorbpilz](AA "Glossar") ist der [Violette Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling). Man findet ihn zur Zeit vor allem an Waldwegrändern. Wer ihn sicher kennt, kann ihn in der Pfanne braten.
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/physarum_utriculare_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
