@@ -20,7 +20,7 @@ literatur:
 {% include bild.html datei="/bilder/calocera_viscosa_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-08/15-Pilzsammler halten diese hübschen Gebilde für Korallenpilze oder Ziegenbärte. Sie irren sich. Es soll sogar Speisepilzsammler geben, die mit den goldgelben formenreichen Gewächsen ihrer Pilzpfanne einen Farbtupfer verpassen und sie zur Dekoration unter die Steinpilze mischen. Kann man schadlos machen. Die Fruchtkörper mit der gummibärchenartigen Konsistenz passieren den Magen-Darm-Trakt zwar unverdaut und unverändert, richten aber keinen Schaden an.
+Die meisten Pilzsammler halten diese hübschen Gebilde für Korallenpilze oder Ziegenbärte. Sie irren sich. Es soll sogar Speisepilzsammler geben, die mit den goldgelben formenreichen Gewächsen ihrer Pilzpfanne einen Farbtupfer verpassen und sie zur Dekoration unter die Steinpilze mischen. Kann man schadlos machen. Die Fruchtkörper mit der gummibärchenartigen Konsistenz passieren den Magen-Darm-Trakt zwar unverdaut und unverändert, richten aber keinen Schaden an.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/calocera_viscosa_04_dg.jpg" nocrop=true %}
@@ -28,7 +28,7 @@ literatur:
 {% include bild.html datei="/bilder/calocera_viscosa_06_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Die elastischen Fruchtkörper sind an der Spitze spärlich verzweigt, unzerbrechlich und kaum zerreißbar,  fast schon glitschig zäh, und fühlen sich meist deutlich kühler an als die umgebende Luft. Beim Trocknen verfärben sie sich rot-orange.
+Die elastischen Fruchtkörper sind an der Spitze spärlich verzweigt, unzerbrechlich und kaum zerreißbar, fast schon glitschig zäh, und fühlen sich meist deutlich kühler an als die umgebende Luft. Beim Trocknen verfärben sie sich rot-orange. Ihre Konsistenz unterscheidet sie deutlich von Korallenpilzen und Ziegenbärten und nicht nur deshalb sind Hörnlinge eine eigene Gattung. 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/calocera_viscosa_07_dg.jpg" nocrop=true %}
