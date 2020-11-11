@@ -18,13 +18,11 @@ literatur:
 ---
 Morcheln zählen zu den begehrtesten Speisepilzen. Kleine Tütchen mit wenigen getrockneten Exemplaren Inhalt werden im Handel für ca. 20 Euro angeboten. Zu ihnen gehört die Speisemorchel mit rundlichen regellos gekammerten Hüten. Wie auch die nicht näher verwandten Lorcheln gehören sie zu den Schlauchpilzen (Ascomyzeten). In freier Natur findet man die Speisemorchel vor allem in auwaldähnlichen Biotopen und auf kalkhaltigen Böden.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/morchella_esculenta_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/morchella_esculenta_03_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/morchella_esculenta_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
-
- 
 
 Seit den 1990er-Jahren besuchen wir in jedem Frühjahr das [Naturschutzgebiet Kühkopf](https://de.wikipedia.org/wiki/K%C3%BChkopf-Knoblochsaue), wo der Pilz regelmäßig und nicht selten in größeren Mengen anzutreffen ist, aber natürlich nicht gesammelt werden darf.
 
