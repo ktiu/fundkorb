@@ -35,7 +35,7 @@ Die aufrechte Gestalt der Stinkmorchel ist nahezu jedem Naturfreund bekannt, abe
 {% include bild.html datei="/bilder/phallus_impudicus_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Beim Schnitt durch ein noch vollständig geschlossenes Hexenei wird sichtbar, dass in seinem Inneren bereits der komplette spätere Fruchtkörper angelegt ist. Die vollständige Streckung des porösen weißen Stiels bis zu seiner endgültigen Länge von maximal 20 Zentimetern erfolgt innerhalb weniger Stunden und lässt sich im Zeitraffer sehr schön darstellen.
+Beim Schnitt durch ein noch vollständig geschlossenes Hexenei wird sichtbar, dass in seinem Inneren bereits der komplette spätere Fruchtkörper angelegt ist. Die vollständige Streckung des porösen weißen Stiels bis zu seiner endgültigen Länge von maximal 20 Zentimetern erfolgt innerhalb weniger Stunden und lässt sich [im Zeitraffer](https://www.youtube.com/watch?v=ZhpfgODJoA4) sehr schön darstellen.
 
 Mit echten Morcheln ist die Stinkmorchel übrigens nicht verwandt und nicht verschwägert. Dass man sie jedoch trotz aller unappetitlicher Vorzeichen im Hexenei-Stadium sogar roh essen kann, wird ihnen jeder erfahrene Leiter einer pilzkundlichen Wanderung gern vorführen. Wer danach sucht, findet im Internet auch Rezepte, wie man in Scheiben geschnittene Hexeneier in der Pfanne braten kann.
 
