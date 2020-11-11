@@ -28,7 +28,7 @@ Die meisten Pilzsammler halten diese hübschen Gebilde für Korallenpilze oder Z
 {% include bild.html datei="/bilder/calocera_viscosa_06_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Die elastischen Fruchtkörper sind an der Spitze spärlich verzweigt, unzerbrechlich und kaum zerreißbar, fast schon glitschig zäh, und fühlen sich meist deutlich kühler an als die umgebende Luft. Beim Trocknen verfärben sie sich rot-orange. Ihre Konsistenz unterscheidet sie deutlich von Korallenpilzen und Ziegenbärten und nicht nur deshalb sind Hörnlinge eine eigene Gattung. 
+Die elastischen Fruchtkörper sind an der Spitze spärlich verzweigt, unzerbrechlich und kaum zerreißbar, fast schon glitschig zäh und etwas klebrig. Sie fühlen sich meist deutlich kühler an als die umgebende Luft. Beim Trocknen verfärben sie sich rot-orange. Ihre Konsistenz unterscheidet sie deutlich von Korallenpilzen und Ziegenbärten und nicht nur deshalb sind Hörnlinge eine eigene Gattung. 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/calocera_viscosa_07_dg.jpg" nocrop=true %}
