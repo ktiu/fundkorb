@@ -35,13 +35,13 @@ Die aufrechte Gestalt der Stinkmorchel ist nahezu jedem Naturfreund bekannt, abe
 {% include bild.html datei="/bilder/phallus_impudicus_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Beim Schnitt durch ein noch vollständig geschlossenes Hexenei wird sichtbar, dass in seinem Inneren bereits der komplette spätere Fruchtkörper angelegt ist. Die vollständige Streckung des porösen weißen Stiels bis zu seiner endgültigen Länge von maximal 20 Zentimetern erfolgt innerhalb weniger Stunden und lässt sich im [Zeitraffer](https://www.youtube.com/watch?v=zjao9vx2nN8) sehr schön darstellen.
+Beim Schnitt durch ein noch vollständig geschlossenes Hexenei wird sichtbar, dass in seinem Inneren bereits der komplette spätere Fruchtkörper angelegt ist. Die vollständige Streckung des porösen weißen Stiels bis zu seiner endgültigen Länge von maximal 20 Zentimetern erfolgt innerhalb weniger Stunden und lässt sich im Zeitraffer sehr schön darstellen.
 
 Mit echten Morcheln ist die Stinkmorchel übrigens nicht verwandt und nicht verschwägert. Dass man sie jedoch trotz aller unappetitlicher Vorzeichen im Hexenei-Stadium sogar roh essen kann, wird ihnen jeder erfahrene Leiter einer pilzkundlichen Wanderung gern vorführen. Wer danach sucht, findet im Internet auch Rezepte, wie man in Scheiben geschnittene Hexeneier in der Pfanne braten kann.
 
 Stinkmorcheln findet man nicht nur in Wäldern. Sie kommen auch in Parkanlagen und Gärten vor, und das sogar bei trockenem Wetter, wenn kaum andere Arten wachsen. Ich habe schon mehrfach beobachtet, dass sie eine Art Vorhut bilden und bald nach ihrem Erscheinen einsetzendes Pilzwachstum ankündigen.
 
-Es gibt einige Stinkmorchelverwandte, die sich ebenfalls aus Hexeneiern entwickeln und einen unangenehmen Geruch verströmen. In Mitteleuropa sind dies vor allem der Tintenfischpilz und die Hundsrute, deren Hexeneier deutlich kleiner sind. Das nachfolgende Foto zeigt den Unterschied. Links das Frühstadium der Stinkmorchel, rechts daneben ein aufgeschnittenes Hexenei des Tintenfischpilzes (Clathrus archeri), bei dem man schon Spuren der späteren roten Fruchtkörperfarbe erkennen kann.
+Es gibt einige Stinkmorchelverwandte, die sich ebenfalls aus Hexeneiern entwickeln und einen unangenehmen Geruch verströmen. In Mitteleuropa sind dies vor allem der [Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz) und die Hundsrute, deren Hexeneier deutlich kleiner sind. Das nachfolgende Foto zeigt den Unterschied. Links das Frühstadium der Stinkmorchel, rechts daneben ein aufgeschnittenes Hexenei des Tintenfischpilzes (Clathrus archeri), bei dem man schon Spuren der späteren roten Fruchtkörperfarbe erkennen kann.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/phallus_impudicus_vs._clathrus_archeri_dg.jpeg" nocrop=true %}
