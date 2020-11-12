@@ -20,7 +20,7 @@ Das Fadensporige Flachkeulchen gehört zu den winzigen [Ascomyzeten](Ascomyzeten
 
 Acrospermum compressum bildet ca. 3 mm hohe, oliv- bis schwarzbräunliche Keulchen, deren oberer (fertiler) Teil meist abgeflacht ist. Auffälliges Mikromerkmal, nach dem der Pilz benannt ist: die fadenförmigen Sporen sind meist über 400 µ lang, aber nur 1 µ breit.
 
-### Andere auf Brennnesselstängeln wachsende kleine Pilze
+##### Andere auf Brennnesselstängeln wachsende kleine Pilze
 
 * auf vorjährigen, trockenen Stängeln: 
 
