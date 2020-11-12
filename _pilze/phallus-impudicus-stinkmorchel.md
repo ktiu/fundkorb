@@ -49,9 +49,9 @@ Es gibt einige Stinkmorchelverwandte, die sich ebenfalls aus Hexeneiern entwicke
 
 2020 wurde die Stinkmorchel von der DGfM (Deutsche Gesellschaft für Mykologie) zum [Pilz des Jahres](https://www.dgfm-ev.de/pilz-des-jahres/2020-gewoehnliche-stinkmorchel) gekürt und zur Begründung auch anrüchige Fakten genannt: 
 
-> Sie stinkt zum Himmel und ihre Form bringt manche auf unanständige Gedanken. Dabei ist sie auch ein Leckerbissen für Insekten. Geruch und Aussehen haben der Gewöhnlichen Stinkmorchel unschöne Vergleiche eingebracht. Seine Form bescherte dem Pilz seinen lateinischen Namen: "Phallus impudicus" bedeutet so viel wie "unzüchtiger Penis".&nbsp;
+> Sie stinkt zum Himmel und ihre Form bringt manche auf unanständige Gedanken. Dabei ist sie auch ein Leckerbissen für Insekten. Geruch und Aussehen haben der Gewöhnlichen Stinkmorchel unschöne Vergleiche eingebracht. Seine Form bescherte dem Pilz seinen lateinischen Namen: "Phallus impudicus" bedeutet so viel wie "unzüchtiger Penis".
 
-##### Phallus impotenta
+&nbsp;##### Phallus impotenta
 
 Freitag, 10. Oktober 2003. Man freut sich immer, wenn im Fernsehen mal wieder das Thema Pilze aufgegriffen wird. Um 17:10 Uhr  habe ich den NDR und die Sendereihe „Das!“ eingeschaltet. Im  angekündigten Beitrag zur Pilzsaison sieht man einen vertrauenswürdigen alten Herrn durch seinen Wald streifen, der vor der Kamera seine Funde erklärt: Steinpilze, Maronen, ein Perlpilz, ein Büschel unverträglicher Schwefelköpfe. Und dann schwenkt die Kamera wieder auf den Waldboden, um auf  eine stolz und aufrecht in der Laubstreu stehende Stinkmorchel zu zoomen. Unser Experte ist bemüht, auch diesen Fund zu benennen. Man sieht ihm an, wie es in seinem Kopf arbeitet, wie er den Namen sucht, der ihm partot nicht einfallen will. Vielleicht spielt da ein wenig Lampenfieber eine verständliche und nachvollziehbare Rolle. Dann hat er ihn gefunden, den vorübergehend in seinen Speicherzellen verschütteten wissenschaftlichen Pilznamen, und er spricht ihn klar und deutlich ins Mikrofon: „Das Ding heißt „Phallus impotenta!“
 
