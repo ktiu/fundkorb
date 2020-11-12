@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Baeospora myosura
-  deutsch: "Mäuseschwanz-Rübling\t"
+  deutsch: "Mäuseschwanz-Rübling"
   referenz: "(Fr.) Singer 1938 "
   familie: Marasmiaceae
   erlaeuterung: myosurus = Mäuseschwanz
