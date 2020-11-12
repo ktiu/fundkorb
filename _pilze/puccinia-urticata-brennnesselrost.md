@@ -39,7 +39,7 @@ Auf vorjährigen, trockenen Brennnesselstängeln sind u. a. folgende Arten zu fi
 
 [Acrospermum compressum](https://fundkorb.netlify.app/pilze/acrospermum-fadensporiges-flachkeulchen) = Fadensporiges Flachkeulchen\
 Aporythisma urticae (Deutscher Name nicht bekannt)\
-Calloria neglecta = Orangerotes Brennnesselbecherchen\
+[Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen) = Orangerotes Brennnesselbecherchen\
 Calyptella capula = Mützenförmiger Schüsselschwindling\
 Cyathicula coronata = Gekrönter Stängelbecherling\
 Cyathicula cyathoidea = Pokalförmiger Stängelbecherling\
