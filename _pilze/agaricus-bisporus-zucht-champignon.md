@@ -26,4 +26,7 @@ Zu finden ist er in Gärten und Gewächshäusern, auf Kompost und Pferdedung. Wi
 Bevor man sich über einen Freilandfund dieses Champignons freut, sollte man ihn sicherheitshalber mikroskopiert haben. Sein entscheidendes mikroskopisches Merkmal kann ich nach intensiven Literaturstudien nicht anders auslegen als: Agaricus bisporus ist der einzige Champignon mit ausschließlich zweisporigen Basidien. Gleichwohl muss angemerkt werden: es gibt Champignons, die sowohl vier- als auch zweisporige Sporen besitzen. Neben der häufigeren braunschuppigen Form kommt in freier Natur auch eine weiße *var. albidus* vor und es existieren zahlreiche Kultursorten.
 
 {% include abbildung_start.html stil="standard" %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/agaricus_bisporus_02_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Braune Zuchtform" %}
+
+Weltweit werden jährlich rund 3,2 Millionen Tonnen Speisepilze angebaut. In Deutschland lag die Produktion 2008 bei ca. 60.000 Tonnen. Hier war der mit Abstand häufigste Zuchtpilz mit 57.000 Tonnen der Champignon, gefolgt von Austernseitling und Shiitake mit je 500 Tonnen und dem Kräterseitling mit 200 Tonnen.
