@@ -20,6 +20,7 @@ Das Orangerote Brennnesselbecherchen fehlt in keinem Brennnesselbestand und ist 
 Wer das Orangerote Brennnesselbecherchen sucht, wird auch anderen auf diesem Substrat wachsenden Pilzen begegnen, von denen ich hier eine Auswahl anfüge:
 
 auf vorjährigen, trockenen Stängeln:
+
 [Acrospermum compressum](/pilze/acrospermum-fadensporiges-flachkeulchen)  =  Fadensporiges Flachkeulchen  
 Aporythisma urticae  (Deutscher Name nicht bekannt)  
 Calyptella capula  =  Mützenförmiger Schüsselschwindling  
@@ -28,4 +29,5 @@ Hymenoscyphus herbarum  =  Kraut-StäbgelbecherlingLeptosphaeria acuta  = Zugesp
 [Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)  =  Schwefelgelbes Haarbecherchen
 
 auf frischen Brennnesseln, ca. Mai bis Juli
+
 [Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost)  =  Brennnesselrost
