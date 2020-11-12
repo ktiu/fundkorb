@@ -49,9 +49,7 @@ Es gibt einige Stinkmorchelverwandte, die sich ebenfalls aus Hexeneiern entwicke
 
 2020 wurde die Stinkmorchel von der DGfM (Deutsche Gesellschaft für Mykologie) zum [Pilz des Jahres](https://www.dgfm-ev.de/pilz-des-jahres/2020-gewoehnliche-stinkmorchel) gekürt und zur Begründung auch anrüchige Fakten genannt: 
 
-> Sie stinkt zum Himmel und ihre Form bringt manche auf unanständige Gedanken. Dabei ist sie auch ein Leckerbissen für Insekten. Geruch und Aussehen haben der Gewöhnlichen Stinkmorchel unschöne Vergleiche eingebracht. Seine Form bescherte dem Pilz seinen lateinischen Namen: "Phallus impudicus" bedeut so viel wie "unzüchtiger Penis".
->
->
+> Sie stinkt zum Himmel und ihre Form bringt manche auf unanständige Gedanken. Dabei ist sie auch ein Leckerbissen für Insekten. Geruch und Aussehen haben der Gewöhnlichen Stinkmorchel unschöne Vergleiche eingebracht. Seine Form bescherte dem Pilz seinen lateinischen Namen: "Phallus impudicus" bedeut so viel wie "unzüchtiger Penis".&nbsp;
 
 ##### Phallus impotenta
 
