@@ -23,14 +23,16 @@ Acrospermum compressum bildet ca. 3 mm hohe, oliv- bis schwarzbräunliche Keulch
 ### Andere auf Brennnesselstängeln wachsende kleine Pilze
 
 * auf vorjährigen, trockenen Stängeln: 
+
   * Aporythisma urticae (Deutscher Name nicht bekannt)
-  * Calloria neglecta = Orangerotes Brennnesselbecherchen
+  * [Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen) = Orangerotes Brennnesselbecherchen
   * Calyptella capula = Mützenförmiger Schüsselschwindling
   * Cyathicula coronata = Gekrönter Stängelbecherling
   * Cyathicula cyathoidea = Pokalförmiger Stängelbecherling
   * Hymenoscyphus herbarum = Kraut-Stängelbecherling
   * Leptosphaeria acuta = Zugespitzter Kugelpilz
-  * [Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen) = Schwefelgelbes Haarbecherchen  
+  * [Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen) = Schwefelgelbes Haarbecherchen\
     &nbsp;
 * auf frischen Brennnesseln, ca. Mai bis Juli:  
+
   * [Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost) = Brennnesselrost
