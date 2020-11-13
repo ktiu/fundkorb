@@ -23,6 +23,6 @@ Der Pfeffer-Röhrling ist ein recht unscheinbarer Pilz, aber aufgrund seiner Mer
 
 Er wächst vom Sommer bis zum November in Nadelwäldern, gern bei Fichten, im Rhein-Main-Gebiet mäßig häufig.  
 
-Anmerkung:
+##### Anmerkung:
 
 Die in vielen Pilzbüchern verbreitete Information, der Pfeffer-Röhrling könnte als Pfefferersatz zum Würzen verwendet werden, wird von vielen Pilzfreunden bezweifelt. Ob sich der pfeffrige Geschmack tatsächlich beim Braten verliert, bedarf daher noch einer Nachprüfung. Egal ob dann pfeffrig scharf oder nicht: als Mischpilz ist er unauffällig und sicher nicht schlechter im Geschmack als Ziegenlippe oder Rotfußröhrling.
