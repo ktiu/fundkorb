@@ -12,7 +12,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/lachnum_controversum_01_dg.jpg
 literatur:
-  - url: https://asco-sonneberg.de/pages/gallery/lachnum-controversum-cf-versipilos-pudicellum-150629-mcol-03jj38558.php?group_id=38553&position=8
+  - url: https://asco-sonneberg.de/pages/gallery/lachnum-controversum-160529-fpr-fp267-01xsmcoljj39186.php
 ---
 Die Chanchen, dieses winzige Haarbecherchen zu finden, sind am größten, wenn irgendwo an einem Teichrand ein Haufen abgeschnittener vorjähriger oder noch älterer Schilfstängel vor sich hin modert. Sie sorgen mit einer Vielzahl anderer kleiner Helfer dafür, dass dieser "Abfall" verschwindet.
 
