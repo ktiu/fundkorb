@@ -13,8 +13,7 @@ hauptbild:
   datei: /bilder/lachnum_pygmaeum_-_mollisia_hydrophila_01_dg-kopie.jpg
   legende: 06.11.2018 am Anglerteich bei Waldteich, TK 5918.4.4 - Bei den weißen
     Fruchtkörpern auf dem Foto handelt es sich um das Grauweiße
-    Schilf-Weich-becherchen *Mollisia hydrophila*.
+    Schilf-Weichbecherchen *Mollisia hydrophila*.
 ---
-Die winzigen kleinen Becherchen sind gestielt, am Rand kurz behaart. Ihre Größe variiert zwischen 1 und 3 mm Durchmesser, Details sind also nur mit einer guten Lupe zu erkennen. Hermine Lotz-Winter hat sie am 11. Juni 2016 am Anglerteich bei Waldacker massenhaft an vermodernden Schilfstängeln gefunden und mikroskopisch bestimmt. Am 06.11.2016 fanden wir sie an gleicher Stelle und am gleichen Substrat wieder. Über die Häufigkeit finden sich in der Literatur und im Internet widersprüchliche Angaben. Bei *123.pilze* wird die Art als selten bezeichnet, was auch die [DGfM-Verbreitungskarte](http://www.pilze-deutschland.de/organismen/lachnum-pygmaeum-fr-bres-1903) bestätigt. Oder vielleicht doch nur übersehen oder nicht gezielt gesucht? 
+Die gelben, winzigen kleinen Becherchen sind gestielt, am Rand kurz behaart. Ihre Größe variiert zwischen 1 und 3 mm Durchmesser, Details sind also nur mit einer guten Lupe zu erkennen. Hermine Lotz-Winter hat sie am 11. Juni 2016 am Anglerteich bei Waldacker massenhaft an vermodernden Schilfstängeln gefunden und mikroskopisch bestimmt. Am 06.11.2016 fanden wir sie an gleicher Stelle und am gleichen Substrat wieder. Über die Häufigkeit finden sich in der Literatur und im Internet widersprüchliche Angaben. Bei *123.pilze* wird die Art als selten bezeichnet, was auch die [DGfM-Verbreitungskarte](http://www.pilze-deutschland.de/organismen/lachnum-pygmaeum-fr-bres-1903) bestätigt. Oder vielleicht doch nur übersehen oder nicht gezielt gesucht? 
 
-Bei den weißen Fruchtkörpern auf dem Foto handelt es sich um das Grauweiße Schilf-Weich-becherchen *Mollisia hydrophila*.
