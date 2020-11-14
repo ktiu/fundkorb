@@ -9,11 +9,15 @@ profil:
   aktualisiert: 2020-11-14
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/lachnum_controversum_01_dg.jpg
 literatur:
   - url: https://asco-sonneberg.de/pages/gallery/lachnum-controversum-160529-fpr-fp267-01xsmcoljj39186.php
 ---
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/lachnum_controversum_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
 Die Chanchen, dieses winzige Haarbecherchen zu finden, sind am größten, wenn irgendwo an einem Teichrand ein Haufen abgeschnittener vorjähriger oder noch älterer Schilfstängel vor sich hin modert. Sie sorgen mit einer Vielzahl anderer kleiner Helfer dafür, dass dieser "Abfall" verschwindet.
 
 {% include abbildung_start.html stil="standard" %}
