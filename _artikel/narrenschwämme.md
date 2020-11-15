@@ -27,6 +27,6 @@ Das hier vorgestellte Buch wird allen Aspekten des Themas gerecht. Weder die Che
 
 Psilocybinhaltige Pilze sind aus allen Kontinenten beschrieben worden und deren Verbreitung und Verwendung wird ausführlich behandelt. So werden auch spezielle Pilz-Omeletts auf der thailändischen Insel Ko Samui erwähnt, denen ich vor 18 Jahren eigene Erfahrungen mit Magic Mushrooms verdanke.
 
-Siehe auch den Bericht über ein massenhaftes Vorkommen von [Psilocybe cyanescens](/pilze/psilocybe-cyanescens-blauender-kahlkopf) in Frankfurt.
+Siehe auch den Bericht über ein massenhaftes Vorkommen von [Psilocybe cyanescens](/pilze/psilocybe-cyanescens-blauender-kahlkopf) in Frankfurt sowie [Pilzporträt Psilocybe cubensis](/pilze/psilocybe-cubensis-kubanischer-kahlkopf).
 
 (August 2007)
