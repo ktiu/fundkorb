@@ -4,6 +4,7 @@ beschreibung:
   deutsch: Kugelsporiges Stummelfüßchen
   referenz: "(Rabenh.) Sacc. 1877 "
   familie: Inocybaceae
+  synonym: "Synonym: Crepidotus sphaerosporus"
 profil:
   aktualisiert: 2020-07-29
   autor_in: Dieter Gewalt
