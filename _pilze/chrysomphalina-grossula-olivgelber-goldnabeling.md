@@ -19,7 +19,7 @@ Nur wenige Meter von unserem Hauseingang in der Dietzenbacher Rodgaustraße entf
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/chrysomphalina_grossula_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/chrysomphalina_grossula_03_km.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Foto rechts: Karin Montag, Die Fundstelle ähnelt unseren in Dietzenbach und Neu-Isenburg. Die abgebildete Kollektion bildetete - zusammen mit vielen hundert weiteren Individuen  sowie Gifthäublingen, orangeroten Träuschlingen und Flämmlingen  - einen unvergesslich farbenfrohen Pilzteppich im Kiefernrindenmulch einer neu angelegten großen Gartenanlage im Saarland" %}
+{% include abbildung_ende.html legende="Foto rechts: Karin Montag. Die Fundstelle ähnelt unseren in Dietzenbach und Neu-Isenburg. Die abgebildete Kollektion bildetete - zusammen mit vielen hundert weiteren Individuen  sowie Gifthäublingen, orangeroten Träuschlingen und Flämmlingen  - einen unvergesslich farbenfrohen Pilzteppich im Kiefernrindenmulch einer neu angelegten großen Gartenanlage im Saarland" %}
 
 Erscheinungszeit: September bis Dezember.
 Größe: 1 - 4 cm ø, Stiel 2 - 6 x 0,2 - 0,3 cm.
