@@ -20,7 +20,7 @@ Der Brandkrustenpilz ist eine häufige Art, die ganzjährig an Buchenstümpfen z
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/kretschmaria_deusta_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/demarkationslinien_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Abb. links: Perfektes Stadium des Brandkrustenpilzes -- Abb. rechts: Demarkationslinien auf der Schnittfläche eines Buchenstumpfes" %}
+{% include abbildung_ende.html legende="Abb. links: Perfektes Stadium des Brandkrustenpilzes -- Abb. rechts: „Demarkationslinien“ auf der Schnittfläche eines Buchenstumpfes" %}
 
 Das Foto oben rechts zeigt unregelmässige dunkle Linien auf der Schnittfläche eines Buchenstumpfes. Man könnte sie als "Demarkationslinien" bezeichnen, mit denen sich verschiedene Pilzarten im Holz gegeneinander abgrenzen. Zu den im abgebildeten Stubben aktiven Pilzen gehörten auch Fruchtkörper des Brandkrustenpilzes, die im Wurzelbereich zu sehen waren.
 
