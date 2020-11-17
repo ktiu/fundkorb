@@ -34,5 +34,3 @@ Um festzustellen, ob die Huthaut gelatinös ist, zieht man den Pilzhut am Rand a
 {% include abbildung_ende.html legende="Das linke Foto zeigt das gelatinöse Häutchen, das beim Auseinanderziehen der Lamellen sichtbar wird" %}
 
 Die Farbe des Sporenpulvers erkennt man nur an reifen Fruchtkörpern. Hier färben sich die weißen Lamellen bei allen Stummelfüßchen bräunlich.
-
-Die Farbe des Sporenpulvers erkennt man nur an reifen Fruchtkörpern. Hier färben sich die weißen Lamellen bei allen Stummelfüßchen bräunlich.
