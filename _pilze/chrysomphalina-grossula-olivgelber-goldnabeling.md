@@ -21,15 +21,7 @@ Nur wenige Meter von unserem Hauseingang in der Dietzenbacher Rodgaustraße entf
 {% include bild.html datei="/bilder/chrysomphalina_grossula_03_km.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Foto rechts: Karin Montag. Die Fundstelle ähnelt unseren in Dietzenbach und Neu-Isenburg. Die abgebildete Kollektion bildetete - zusammen mit vielen hundert weiteren Individuen  sowie Gifthäublingen, orangeroten Träuschlingen und Flämmlingen  - einen unvergesslich farbenfrohen Pilzteppich im Kiefernrindenmulch einer neu angelegten großen Gartenanlage im Saarland" %}
 
-Erscheinungszeit: September bis Dezember.
-Größe: 1 - 4 cm ø, Stiel 2 - 6 x 0,2 - 0,3 cm.
-Vorkommen: Normalerweise in kleinen Gruppen auf diversen Nadelhölzern.
-Verbreitung: zerstreut, nicht häufig.
-
-Merkmale:  Hut anfangs gewölbt, bald nabelig, zuletzt unregelmäßig hochgeschlagen, dünnfleischig. Oberfläche fettig glänzend, durchscheinend grob gestreift, lebhaft olivgelbgrün. Hutrand scharf, dünn, schartig-gebogt. Lamellen in Hutfarbe oder etwas heller, dicklich, entfernt, aderig verbunden, weit am StieI herablaufend, Schneiden glatt, gleichfarbig. 
-Stiel in Hutfarbe, gleichdick, glatt, glänzend, enghohl werdend.
-Geruch: unauffällig, Geschmack: bitter.
-Sporenpulver weiß.
+Der Pilz scheint eine Art zu sein, die gern spät im Jahr erscheint, etwa September bis Dezember. Die dünnfleischigen Hüte sind anfangs gewölbt, später nabelig mit unregelmäßig aufwärts gebogenen Rändern, von gelbgrüner Farbe und etwa 1 - 4 cm im Durchmesser. Die etwas helleren [anastomisierenden](Anastomosen "Glossar") Lamellen laufen deutlich am Stiel herab. Geruch unauffällig, Geschmack bitter. Kein Speisepilz.   
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/chrysomphalina_grossula_04_dg.jpg" nocrop=true %}
