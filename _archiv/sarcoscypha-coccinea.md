@@ -8,3 +8,5 @@ title: Sarcoscypha coccinea
 {% include abbildung_ende.html %}
 
 Einer unserer schönsten [Fundkorbpilze](AA "Glossar-") ist der Scharlachrote Prachtbecherling (Sarcoscypha coccinea). Thomas Lehr hat ihn am Kalkbruch an der Wiesenmühle bei Flörsheim gefunden und fotografiert. [Mehr lesen...](/pilze/sarcoscypha-coccinea-scharlachroter-kelchbecherling)
+
+Anführungszeichen in Bildunterschrift:  „Demarkationslinien“
