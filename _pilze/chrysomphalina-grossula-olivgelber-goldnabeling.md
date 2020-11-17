@@ -29,4 +29,8 @@ Verbreitung: zerstreut, nicht häufig.
 Merkmale:  Hut anfangs gewölbt, bald nabelig, zuletzt unregelmäßig hochgeschlagen, dünnfleischig. Oberfläche fettig glänzend, durchscheinend grob gestreift, lebhaft olivgelbgrün. Hutrand scharf, dünn, schartig-gebogt. Lamellen in Hutfarbe oder etwas heller, dicklich, entfernt, aderig verbunden, weit am StieI herablaufend, Schneiden glatt, gleichfarbig. 
 Stiel in Hutfarbe, gleichdick, glatt, glänzend, enghohl werdend.
 Geruch: unauffällig, Geschmack: bitter.
-Sporenpulver weiß. 
+Sporenpulver weiß.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/chrysomphalina_grossula_04_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
