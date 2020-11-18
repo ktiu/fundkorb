@@ -35,3 +35,7 @@ Die elastischen Fruchtkörper sind an der Spitze spärlich verzweigt, unzerbrech
 {% include abbildung_ende.html %}
 
 Den Klebrigen Hörnling findet man ausschließlich in Nadelwäldern, wo er auf Stümpfen oder im Boden verborgenem Totholz wächst.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/calocera_viscosa_08_ae.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Foto: Andreas Einbock" %}
