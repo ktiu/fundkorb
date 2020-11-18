@@ -38,4 +38,4 @@ Den Klebrigen Hörnling findet man ausschließlich in Nadelwäldern, wo er auf S
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/calocera_viscosa_08_ae.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Foto: Andreas Einbock" %}
+{% include abbildung_ende.html legende="Foto: Angelika Becker" %}
