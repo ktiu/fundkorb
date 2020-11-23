@@ -16,8 +16,6 @@ hauptbild:
 {% include bild.html datei="/bilder/podoscypha_multizonata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-
-
 Der Gezonte Büschelwärzling (auch Vielgezonter Stielbecher genannt) ist eine sehr seltene Art, für die es in Mitteleuropa nur wenige Nachweise gibt. Sie wurde 1865 erstmals von den englischen Mykologen Berkeley und Broome als *Thelephora multizonata* beschrieben. Diese Zuordnung erscheint durchaus nachvollziehbar, denn der Pilz hat eine gewisse Ähnlichkeit mit den Warzenpilzen. Er gehört zu den gestielten [stereoiden](stereoid "Glossar") [Basidiomyzeten](Basidiomyzeten "Glossar") mit fächer- bzw. kreiselförmigen Fruchtkörpern mit glattem [Hymenium](Hymenium "Glossar") und wird heute in der Familie *Meruliaceae* (Fältlingsverwandte) geführt.
 
 {% include abbildung_start.html stil="mittel" %}
@@ -49,4 +47,4 @@ Der Pilz bildet große einjährige Rosetten aus lederig zähen fächerartigen Bl
 {% include bild.html datei="/bilder/podoscypha_multizonata_07_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Der Gezonte Büschelwärzling wächst auf Wurzeln alter Eichen und kann eindrucksvolle Größen erreichen. In England ist er sogar in Parkanlagen gefunden worden. Aufgrund seiner Seltenheit wurde er als eine von 33 Pilzarten für internationalen Schutz im Rahmen der Berner Konvention vorgeschlagen.
+Der Gezonte Büschelwärzling wächst auf Wurzeln alter Eichen oder Buchen und kann eindrucksvolle Größen erreichen. In England ist er sogar in Parkanlagen gefunden worden. Aufgrund seiner Seltenheit wurde er als eine von 33 Pilzarten für internationalen Schutz im Rahmen der Berner Konvention vorgeschlagen.
