@@ -38,4 +38,4 @@ Für den Leberbraunen Milchling spricht übrigens auch die späte Erscheinungsze
 
 > Infolge N-Überlastung regional stark zurückgehende Bestände."
 
-... und stufte sie als G3 (gefährdet) ein. In den von mir hauptsächlich beobachteten Wäldern konnte ich noch keine Rückgangstendenz feststellen.
+... und stufte sie als G3 (gefährdet) ein. In den von mir hauptsächlich beobachteten Kiefernwäldern konnte ich noch keine rückläufige Tendenz feststellen.
