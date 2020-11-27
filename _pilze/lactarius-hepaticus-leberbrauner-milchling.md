@@ -33,3 +33,9 @@ Da in der Rhein-Main-Ebene die Kiefer gegenüber der Fichte die dominierende Bau
 In Mischwäldern mit eingestreuten Kiefern (seltener Fichten) muss natürlich auch auf die typischerweise in Laubwäldern wachsenden braunen Milchlinge geachtet werden, in erster Linie auf den Süßlichen Milchling Lactarius subdulcis (Milch unveränderlich weißlich, Geschmack mild bis leicht bitterlich, Geruch schwach nach Blattwanzen). Es könnte sich auch mal eine Art der kollinen oder noch höherer Lagen ins Flachland verirren und man kann natürlich auch nicht ausschließen, einmal einer der ganz seltenen Arten zu begegnen. In solchen Fällen kann dann nur noch das Mikroskop weiterhelfen.
 
 Für den Leberbraunen Milchling spricht übrigens auch die späte Erscheinungszeit. Er wird nicht umsonst auch *Später Milchling* genannt. Ich habe ihn schon oft und massenhaft im November und Dezember gefunden, auch nach Nachtfrösten und dann steifgefroren oder mit einer dünnen Eisschicht in der leicht vertieften Hutmitte, in der sich ein unscheinbares Buckelchen befinden kann. Wenn man solche gefrorenen Pilze etwas unsanft berührt, zerbrechen sie wie dünnes Glas.
+
+Über Bestand und Bedrohung der Art in Baden-Württemberg schrieb German J. Krieglsteiner:
+
+> Infolge N-Überlastung regional stark zurückgehende Bestände."
+
+... und stufte sie als G3 (gefährdet) ein. In den von mir hauptsächlich beobachteten Wäldern konnte ich noch keine Rückgangstendenz feststellen.
