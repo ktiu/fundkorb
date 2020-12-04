@@ -10,14 +10,14 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/lepista_nuda_01_dg.jpg
+  datei: /bilder/lepista_nuda_02_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/l/Lepista_nuda.html
 ---
 Zu den auffälligsten Spätherbstpilzen gehören der [Nebelgraue Trichterling](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe) (Nebelkappe) und der Violette Rötelritterling. Man findet die beiden nicht selten einträchtig beieinander stehen. Während die Nebelkappe kaum für eine Verwendung in der Küche empfohlen werden kann, hat der Violette Rötelritterling durchaus seine Fangemeinde, auch wenn der etwas süßliche Geschmack nicht jedermanns Sache ist. Man sollte ihn scharf anbraten und auf jeden Fall ausreichend lange erhitzen, denn wie viele andere Speisepilze ist er roh giftig.
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
+{% include bild.html datei="/bilder/lepista_nuda_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Violett sind bei ihm vor allem die Lamellen und auch am Stiel findet man diese im Pilzreich nicht gerade häufige Farbe. Die bis zu 15 cm Durchmesser erreichenden Hüte sind dagegen eher rotbräunlich gefärbt, violette Töne kommen hier am ehesten noch bei jungen Pilzen vor. 
