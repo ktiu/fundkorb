@@ -16,10 +16,6 @@ footer_scripts:
 
 ##### Aufgrund der aktuellen Corona-Situation wird es bis auf weiteres keine pilzkundlichen Führungen geben.
 
-
-
-
-
 - - -
 
 {% include abbildung_start.html stil="standard" %}
