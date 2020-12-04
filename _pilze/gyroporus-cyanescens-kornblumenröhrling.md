@@ -16,7 +16,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/g/Gyroporus_cyanescens.html
 ---
-Der Kornblumenröhrling gehört wie auch der Hasenröhrling zur Gattung der Blasssporröhrlinge, die durch trockene, flaumig filzige Hüte, sehr festes Fleisch und gelbliches Sporenpulver gekennzeichnet ist. Die Stiele der beiden in Mitteleuropa vorkommenden Arten sind nur jung fest, später watteartig ausgestopft und im Alter gekammert hohl – ein weiteres Merkmal, das sie von anderen Röhrlingen unterscheidet und sie leicht kenntlich macht.
+Der Kornblumenröhrling gehört wie auch der [Hasenröhrling](/pilze/gyroporus-castaneus-hasenröhrling) zur Gattung der Blasssporröhrlinge, die durch trockene, flaumig filzige Hüte, sehr festes Fleisch und gelbliches Sporenpulver gekennzeichnet ist. Die Stiele der beiden in Mitteleuropa vorkommenden Arten sind nur jung fest, später watteartig ausgestopft und im Alter gekammert hohl – ein weiteres Merkmal, das sie von anderen Röhrlingen unterscheidet und sie leicht kenntlich macht.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/gyroporus_cyanescens_03_dg.jpg" nocrop=true %}
