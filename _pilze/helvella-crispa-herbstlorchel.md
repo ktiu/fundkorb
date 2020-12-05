@@ -17,6 +17,8 @@ literatur:
   - text: "Andreas Gminder: Handbuch für Pilzsammler (2008) Kosmos-Verlag, Seite
       346: Hier wird sehr schön und anschaulich ein Überblick über die Lorcheln
       der Gattungen Helvella und Gyromitra gegeben."
+  - text: 'Dieter Gewalt: Kunstwerke der Natur - Herbstlorcheln, in "Der Tintling"
+      Heft 110 (06/2017) Seite 60'
 ---
 Auf einem weißen, längs gerippten, vielfach gefurchten oder gekammerten Stiel sitzt ein zipfeliges, lappiges, teils hirnartig gewundenes Hütchen, das wie der Stiel gefärbt sein kann oder auch grau bis beigefarben und an den Rändern nicht mit dem Stiel verwachsen ist. Das Fleisch ist weiß, im Hut zerbrechlich, im Stiel eher knorpelig zäh, ohne besonderen Geruch und Geschmack.
 
