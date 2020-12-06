@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Kohlenbeeren
 ---
-Wer sich mit Kohlenbeeren befassen will, muss deren Aufbau verstehen. Was wir zum Beispiel bei der Rötlichen Kohlenbeere als Kugel wahrnehmen, ist das sogenannte [Stroma](<Stroma "Glossar">), ein steriles Pilzgeflecht, in das die eigentlichen Fruchtkörper, [Perithezien](<Perithezien "Glossar">) genannt, eingesenkt sind. Die in ihnen gebildeten Sporen werden durch einen engen Kanal nach außen entlassen, dessen Öffnung als Ostiolum bezeichnet wird und nabel- oder papillenartig geformt sein kann. Die Ostiolen sind mit einer guten Lupe zu erkennen.
+Wer sich mit Kohlenbeeren befassen will, muss deren Aufbau verstehen. Was wir zum Beispiel bei der Rötlichen Kohlenbeere als Kugel wahrnehmen, ist das sogenannte [Stroma](Stroma "Glossar"), ein steriles Pilzgeflecht, in das die eigentlichen Fruchtkörper, [Perithezien](Perithezien "Glossar") genannt, eingesenkt sind. Die in ihnen gebildeten Sporen werden durch einen engen Kanal nach außen entlassen, dessen Öffnung als Ostiolum bezeichnet wird und nabel- oder papillenartig geformt sein kann. Die Ostiolen sind mit einer guten Lupe zu erkennen.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/hypoxylon_fragiforme_02_xx.jpg" nocrop=true %}
