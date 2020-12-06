@@ -12,11 +12,11 @@ hauptbild:
   anzeige: true
   datei: /bilder/hypoxylon_howeanum_01_dg.jpg
 ---
-Kohlenbeeren gehören zu den Kernpilzen; das sind perithezienbildende Schlauchpilze von kohliger Substanz und dunklem Aussehen, die auf Holz wachsen. In Mitteleuropa dürfte es mindestens 22 Arten geben (Verbreitungsatlas, Krieglsteiner 1993). Viele von ihnen sind wirtsspezifisch. Zwei ähnliche Arten sind die Rötliche und die Rotbraune Kohlenbeere, die u. a. durch Sporengröße und Substrat unterschieden werden:
+Kohlenbeeren gehören zu den Kernpilzen; das sind [perithezienbildende](Perithezien "Glossar") Schlauchpilze von kohliger Substanz und dunklem Aussehen, die auf Holz wachsen. In Mitteleuropa dürfte es mindestens 22 Arten geben (Verbreitungsatlas, Krieglsteiner 1993). Viele von ihnen sind wirtsspezifisch. Zwei ähnliche Arten sind die Rötliche und die Rotbraune Kohlenbeere, die u. a. durch Sporengröße und Substrat unterschieden werden:
 
-H. howeanum = Zimtbraune Kohlenbeere: Sporenmaße 7 - 7,5  x  3 - 4,5 µm, Substrat Eiche\
-H. fragiforme =	Rötliche Kohlenbeere: Sporenmaße 10,5 - 13,5  x  5 - 6 µm, Substrat Buche\
-H. fuscum = Rotbraune Kohlenbeere: Sporenmaße 12 - 13  x   5 -6	µm, Substrat Hasel, Erle
+**Hypoxylon howeanum** = Zimtbraune Kohlenbeere: Sporenmaße 7 - 7,5  x  3 - 4,5 µm, Substrat Eiche\
+**[Hypoxylon fragiforme](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)** =	Rötliche Kohlenbeere: Sporenmaße 10,5 - 13,5  x  5 - 6 µm, Substrat Buche\
+**Hypoxylon fuscum** = Rotbraune Kohlenbeere: Sporenmaße 12 - 13  x   5 -6	µm, Substrat Hasel, Erle
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/hypoxylon_howeanum_02_xx.jpg" nocrop=true %}
