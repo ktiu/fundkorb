@@ -1,11 +1,7 @@
 ---
 navi: /suche
-title: Suche
+title: Volltextsuche
 permalink: suche
 ---
-
-{% include pilzsuche.html %}
-
-## Volltextsuche
 
 {% include volltextsuche.html %}
