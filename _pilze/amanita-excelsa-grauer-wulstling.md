@@ -38,9 +38,9 @@ Wer zum Beispiel den essbaren und durchaus empfehlenswerten [Perlpilz](/pilze/am
   <thead>
     <tr>
       <th> </th>
-      <th>Perlpilz (Amanita rubescens)</th>
+      <th>[Perlpilz (Amanita rubescens)](/pilze/amanita-rubescens-perlpilz)</th>
       <th>Grauer Wulstling (Amanita excelsa)</th>
-      <th>Pantherpilz (Amanita pantherina)</th>
+      <th>[Pantherpilz (Amanita pantherina)](/pilze/amanita-pantherina-pantherpilz)</th>
     </tr>
   </thead>
   <tbody>
