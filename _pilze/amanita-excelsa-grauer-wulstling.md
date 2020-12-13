@@ -40,7 +40,7 @@ Wer zum Beispiel den essbaren und durchaus empfehlenswerten [Perlpilz](/pilze/am
       <th> </th>
       <th>Perlpilz (Amanita rubescens)</th>
       <th>Grauer Wulstling (Amanita excelsa)</th>
-      <th>[Pantherpilz (Amanita pantherina)</th>
+      <th>Pantherpilz (Amanita pantherina)</th>
     </tr>
   </thead>
   <tbody>
