@@ -40,7 +40,7 @@ Zur Unterscheidung vom manchmal ähnlich aussehenden Zunderschwamm kann man den 
 {% include bild.html datei="/bilder/fomitopsis_pinicola_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Der Rotrandige Baumschwamm wächst an Nadelhölzern, vor allem an Fichte, Tanne und Kiefer, sowie an unterschiedlichsten Laubhözern, am häufigsten an Buche und Birke.
+Der Rotrandige Baumschwamm wächst an Nadelhölzern, vor allem an Fichte, Tanne und Kiefer, sowie an unterschiedlichsten Laubhölzern, am häufigsten an Buche und Birke.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/fomitopsis_pinicola_04_dg.jpg" %}
