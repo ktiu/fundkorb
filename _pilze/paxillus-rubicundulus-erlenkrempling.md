@@ -35,5 +35,3 @@ Möglicherweise handelt es sich bei Paxillus rubicundulus um eine Sammelart. Auf
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/paxillus_rubicundulus_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
-
-Siehe auch "Verwandtschaftsverhältnisse" \[-->]({% link _verwandtschaften/kremplinge.md %})
