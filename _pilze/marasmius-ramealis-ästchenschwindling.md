@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/m/Marasmiellus_ramealis.html
 ---
-Wie hübsch diese kleinen Pilzchen sind, offenbart sich dem Betrachter erst, wenn er sie sich von unten anschaut. Es ist die filigrane Lamellenstruktur, die das Auge erfreut und einmal mehr untersteicht, dass es manche Pilze in ihrer Schönheit durchaus mit Blumen aufnehmen können.
+Wie hübsch diese kleinen Pilzchen sind, offenbart sich dem Betrachter erst, wenn er sie sich von unten anschaut. Es ist die filigrane Lamellenstruktur, die das Auge erfreut und einmal mehr untersteicht, dass es manche Pilze in ihrer Schönheit durchaus mit Blumen aufnehmen können. 
 
 Sie wachsen oft zu Hunderten auf dünnen Ästchen und Zweigen von Laubbäumen, am liebsten von Rotbuchen. Einmal stand ich vor einem Brombeergebüsch, dessen trockene Zweige über und über mit ihnen bewachsen waren. An der Substratunterseite entspringende Pilze krümmen ihre Stiele aufwärts, so dass die sporenbildenden Lamellen stets nach unten gerichtet sind. Dabei orientieren sie sich an der Schwerkraft, ein Phänomen, das unter dem Begriff "Geotropes Wachstum" bekannt ist
 
