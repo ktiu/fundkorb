@@ -49,7 +49,7 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
     <tbody>
       <tr>
         <th>L. acris Rosaanlaufender M.</th>
-        <td>bei Kiefern</td>
+        <td>auf Kalk, bei Buchen</td>
         <td>bei Fichten</td>
       </tr>
       <tr>
