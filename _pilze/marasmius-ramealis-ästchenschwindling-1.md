@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: Marasmius ramealis
+  wissenschaftlich: Marasmiellus ramealis
   deutsch: Ästchenschwindling
   referenz: (Bull.) Singer 1948
 profil:
