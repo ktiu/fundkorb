@@ -36,4 +36,3 @@ Wie die allermeisten Pilze ist er roh giftig, kann aber auch erhitzt auf eine ko
 {% include bild.html datei="/bilder/paxillus_involutus_04_gg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Hier eine Illustration  von Gabriele Gossner (in: Hans Haas - Pilze Mitteleuropas, 1964)" %}
 
-siehe auch *Verwandtschaftsverhältnisse* \[-->]({% link _verwandtschaften/kremplinge.md %})
