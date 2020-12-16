@@ -33,4 +33,48 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
 
 ( die hier folgende Vergleichstablette ist gerade im Entstehen begriffen = vorerst bitte nicht beachten )
 
+<div class="table-responsive">
+  <table class="table">
+    <thead>
+      <tr>
+         <th>Name</th>
+        <th>Ökologie</th>
+        <th>Milchsaft/th>
+        <th>Geruch/th>  
+        <th>Häufigkeit/th>      
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Ökologie </th>
+        <td>bei Kiefern</td>
+        <td>bei Fichten</td>
+      </tr>
+      <tr>
+        <th>Hutschuppen</th>
+        <td>schwarzbraun, am Rand kleiner, in der Hutmitte +/- angedrückt</td>
+        <td>braun, am Rand größer, in der Hutmitte aufgerichtet</td>
+      </tr> 
+      <tr>
+        <th>Stiel</th>
+        <td>kurz, zugespitzt, höchstens so lang wie Hutbreite</td>
+        <td>lang, zylindrisch bis keulig, meist länger als Hutbreite</td>
+      </tr>
+      <tr>
+        <th>Stielfarbe</th>
+        <td>intensiv schwarz</td>
+        <td>heller, mehr dunkelbraun</td>
+      </tr>
+      <tr>
+        <th>Geruch alter bzw. trockener Fruchtkörper</th>
+        <td>aromatisch würzig</td>
+        <td>eher unangenehm</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+		
+		
+
 * enthält Arten, die im Rhein-Main-Gebiet häufig oder gelegentlich vorkommen. Nicht enthalten sind ausgesprochen seltene Arten, die hier noch nicht nachgewiesen wurden. Zu beachten ist auch die Farbvariabilität vieler Pilze, also auch der Milchlinge. Als gelblich oder rötlich beschriebene Arten könnten auch mal als bräunlich interpretiert werden. Sie sind nicht in dieser Auflistung ent¬halten. Farbänderungen der austretenden Milch kann am besten mit einem Papiertashentuch verifiziert werden.
