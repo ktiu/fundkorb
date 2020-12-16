@@ -17,7 +17,7 @@ literatur:
   - text: Kremplinge
     url: https://fundkorb.de/verwandt/kremplinge
 ---
-Der Erlenkrempling gehört zu den Pilzarten, die ihrem Baumpartner treu verbunden sind, und zwar als [Mykorrhizapartner](Mykorrhiza "Glossar") von Schwarz- und Grau-Erlen. Im Unterschied zum sehr viel häufigeren und praktisch überall vorkommenden Kahlen Krempling ist sein Hutrand nur jung und wenig eingerollt, später glatt und nahezu scharfrandig. Außerdem reißt die feinfilzige Huthaut bald kleinfelderig auf. Die Lamellen sind mehr gelblich als ockerfarben wie beim Kahlen Krempling und flecken eher rotbraun als dunkelbraun. Im Zweifelsfall ist auf unterschiedliche Sporenmaße zu achten:
+> Der Erlenkrempling gehört zu den Pilzarten, die ihrem Baumpartner treu verbunden sind, und zwar als [Mykorrhizapartner](Mykorrhiza "Glossar") von Schwarz- und Grau-Erlen. Im Unterschied zum sehr viel häufigeren und praktisch überall vorkommenden [Kahlen Krempling](/pilze/paxillus-involutus-kahler-krempling) ist sein Hutrand nur jung und wenig eingerollt, später glatt und nahezu scharfrandig. Außerdem reißt die feinfilzige Huthaut bald kleinfelderig auf. Die Lamellen sind mehr gelblich als ockerfarben wie beim Kahlen Krempling und flecken eher rotbraun als dunkelbraun. Im Zweifelsfall ist auf unterschiedliche Sporenmaße zu achten:
 
 Erlenkrampling: 6 - 8 x 4 - 6 µm\
 Kahler Krempling: 7 - 11 x 5,5 - 7 µm
@@ -36,4 +36,4 @@ Möglicherweise handelt es sich bei Paxillus rubicundulus um eine Sammelart. Auf
 {% include bild.html datei="/bilder/paxillus_rubicundulus_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Siehe auch "Verwandtschaftsverhältnisse" [-->]({% link _verwandtschaften/kremplinge.md %})
+Siehe auch "Verwandtschaftsverhältnisse" \[-->]({% link _verwandtschaften/kremplinge.md %})
