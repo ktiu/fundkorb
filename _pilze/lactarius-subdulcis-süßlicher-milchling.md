@@ -89,10 +89,10 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
       </tr>
       <tr>
         <th>L. hepaticus Leberbrauner M.</th>
-         <td>bei Nadelbäumen</td>
+         <td>bei Kiefern</td>
        
 <td>weiß</td>
-<td>mild, bald scharf</td>
+<td>mild</td>
 <td>unauffällig</td>
 <td>mäßig häufig</td>
       </tr>
