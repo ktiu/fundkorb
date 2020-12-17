@@ -15,7 +15,7 @@ literatur:
   - url: https://de.wikipedia.org/wiki/S%C3%BC%C3%9Flicher_Buchen-Milchling
   - url: http://tintling.com/pilzbuch/arten/l/Lactarius_subdulcis.html
 ---
-Braune Milchlinge gibt es eine ganze Menge, aber wenn man auf Farbe und Geschmack der austretenden Milch, auf Geruch und Begleitbäume achtet, wird das kompliziert erscheinende Thema ein wenig übersichtlicher. Die mit Abstand häufigste braune Art bei Buchen ist der hier vorgestellte Süßliche Milchling. Es handelt sich um einen mittelgroßen Pilz mit Hutdurchmessern von etwa 3 bis 7 cm.
+Braune Milchlinge gibt es eine ganze Menge, aber wenn man auf Farbe und Geschmack der austretenden Milch, auf Geruch und Begleitbäume achtet, wird das kompliziert erscheinende Thema ein wenig übersichtlicher. Die mit Abstand häufigste braune Art bei Buchen ist der hier vorgestellte Süßliche Milchling. Es handelt sich um einen mittelgroßen Pilz mit Hutdurchmessern von etwa 3 bis 7 cm. 
 
 Die Farbe der Huthaut ist ein eher helles Braun, auch fleisch-, zimt- oder rotbräunlich. Eine Zonierung ist nicht oder nur kontrastarm angedeutet zu erkennen. Der Hutrand ist heller und oft undeutlich streifig gemustert. In der beim ausgewachsenen Pilz vertieften Mitte befindet sich nicht selten ein kleines Buckelchen.
 
