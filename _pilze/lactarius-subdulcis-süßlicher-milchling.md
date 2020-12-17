@@ -31,8 +31,6 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
 
 ##### Auflistung brauner Milchlinge (Lactarius)*
 
-(die hier folgende Vergleichstabelle ist gerade im Entstehen begriffen = vorerst bitte nicht beachten)
-
 <div class="table-responsive">
   <table class="table">
     <thead>
