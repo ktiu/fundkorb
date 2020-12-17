@@ -138,10 +138,19 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
 <th>L. subdulcis Süßlicher M.</th>
          <td>bei Buchen</td>
        
-<td>weißg</td>
+<td>weiß</td>
 <td>mild, bald bitter</td>
 <td>leicht nach Blattwanzen</td>
 <td>sehr häufig</td>
+      </tr>
+ <tr>
+<th>L. volemus Milchbrätling</th>
+         <td>Mischwald höhere Lagen</td>
+       
+<td>weiß</td>
+<td>mild</td>
+<td>Heringslake</td>
+<td>selten</td>
       </tr>
     </tbody>
   </table>
