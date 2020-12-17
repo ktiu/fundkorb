@@ -15,7 +15,7 @@ literatur:
   - url: https://de.wikipedia.org/wiki/S%C3%BC%C3%9Flicher_Buchen-Milchling
   - url: http://tintling.com/pilzbuch/arten/l/Lactarius_subdulcis.html
 ---
-Braune Milchlinge gibt es eine ganze Menge, aber wenn man auf Farbe und Geschmack der austretenden Milch, auf Geruch und Begleitbäume achtet, wird das kompliziert erscheinende Thema ein wenig übersichtlicher. Die mit Abstand häufigste braune Art bei Buchen ist der hier vorgestellte Süßliche Milchling. Es handelt sich um einen mittelgroßen Pilz mit Hutdurchmessern von etwa 3 bis 7 cm. 
+Braune Milchlinge gibt es eine ganze Menge, aber wenn man auf Farbe und Geschmack der austretenden Milch, auf Geruch und Begleitbäume achtet, wird das kompliziert erscheinende Thema ein wenig übersichtlicher. Die mit Abstand häufigste braune Art bei Buchen ist der hier vorgestellte Süßliche Milchling. Es handelt sich um einen mittelgroßen Pilz mit Hutdurchmessern von etwa 3 bis 7 cm.
 
 Die Farbe der Huthaut ist ein eher helles Braun, auch fleisch-, zimt- oder rotbräunlich. Eine Zonierung ist nicht oder nur kontrastarm angedeutet zu erkennen. Der Hutrand ist heller und oft undeutlich streifig gemustert. In der beim ausgewachsenen Pilz vertieften Mitte befindet sich nicht selten ein kleines Buckelchen.
 
@@ -113,6 +113,34 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
 <td>hellgelb</td>
 <td>mild</td>
 <td>Blattwanzen</td>
+<td>sehr häufig</td>
+      </tr>
+ <tr>
+<th>L. rufus Rotbrauner M.</th>
+         <td>bei Nadelbäumen</td>
+       
+<td>weiß</td>
+<td>scharf</td>
+<td>harzig</td>
+<td>häufig</td>
+      </tr>
+      </tr>
+ <tr>
+<th>L. serifluus Wässriger M.</th>
+         <td>bei Eichen</td>
+       
+<td>wässrig</td>
+<td>mild</td>
+<td>Blattwanzen</td>
+<td>mäßig häufig</td>
+      </tr>
+ <tr>
+<th>L. subdulcis Süßlicher M.</th>
+         <td>bei Buchen</td>
+       
+<td>weißg</td>
+<td>mild, bald bitter</td>
+<td>leicht nach Blattwanzen</td>
 <td>sehr häufig</td>
       </tr>
     </tbody>
