@@ -50,7 +50,7 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
       <tr>
         <th>L. acris Rosaanlaufender M.</th>
         <td>auf Kalk, bei Buchen</td>
-        <td>bei Fichten</td>
+        <td>weiß, wird sofort rosa</td>
       </tr>
       <tr>
         <th>Hutschuppen</th>
