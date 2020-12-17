@@ -70,19 +70,41 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
 <td>ziemlich häufig</td>
       </tr> 
       <tr>
-        <th>Stiel</th>
-        <td>kurz, zugespitzt, höchstens so lang wie Hutbreite</td>
-        <td>lang, zylindrisch bis keulig, meist länger als Hutbreite</td>
+        <th>L. fuligunosus Rußfarbener M.</th>
+        <td>bei Buchen und Hasel</td>
+    
+<td>weiß</td>
+<td>mild, bald scharf</td>
+<td>unauffällig bis fruchtig</td>
+<td>selten</td>
       </tr>
       <tr>
-        <th>Stielfarbe</th>
-        <td>intensiv schwarz</td>
-        <td>heller, mehr dunkelbraun</td>
+        <th>L. fuscus Dunkler Duft-M.</th>
+        <td>bei Nadelbäumen</td>
+        
+<td>weiß</td>
+<td>mild, bald scharf</td>
+<td>Kokosflocken</td>
+<td>nicht häufig</td>
       </tr>
       <tr>
-        <th>Geruch alter bzw. trockener Fruchtkörper</th>
-        <td>aromatisch würzig</td>
-        <td>eher unangenehm</td>
+        <th>L. hepaticus Leberbrauner M.</th>
+         <td>bei Nadelbäumen</td>
+       
+<td>weiß</td>
+<td>mild, bald scharf</td>
+<td>unauffällig</td>
+<td>mäßig häufig</td>
+      </tr>
+      </tr>
+<th>L. obscuratus Erlen-M.</th>
+         <td>bei Erlen</td>
+       
+<td>weiß</td>
+<td>mild</td>
+<td>Kokosflocken</td>
+<td>nicht häufig</td>
+      </tr>
       </tr>
     </tbody>
   </table>
