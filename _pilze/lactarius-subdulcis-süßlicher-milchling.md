@@ -51,11 +51,23 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
         <th>L. acris Rosaanlaufender M.</th>
         <td>auf Kalk, bei Buchen</td>
         <td>weiß, wird sofort rosa</td>
+<td>scharf</td>
+<td>unauffällig</td>
+<td>selten</td>
       </tr>
+<th>L. basidiosanguineus Orangeblättriger M.</th>
+       <td>in Nadelwäldern</td>
+        <td>weiß, evtl. etwas gilbend</td>
+<td>mild, bald bitterlich</td>
+<td>Blattwanzen</td>
+<td>selten</td>
       <tr>
-        <th>Hutschuppen</th>
-        <td>schwarzbraun, am Rand kleiner, in der Hutmitte +/- angedrückt</td>
-        <td>braun, am Rand größer, in der Hutmitte aufgerichtet</td>
+        <th>L. camphoratus Kampfer-M.</th>
+        <td>bei Buchen und Fichten</td>
+        <td>weiß</td>
+<td>mild, bald bitter</td>
+<td>Kampfer, Maggi</td>
+<td>ziemlich häufig</td>
       </tr> 
       <tr>
         <th>Stiel</th>
