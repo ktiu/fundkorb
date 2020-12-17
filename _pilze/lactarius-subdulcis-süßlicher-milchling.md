@@ -96,15 +96,24 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
 <td>unauffällig</td>
 <td>mäßig häufig</td>
       </tr>
-      </tr>
+     
+ <tr>
 <th>L. obscuratus Erlen-M.</th>
          <td>bei Erlen</td>
        
 <td>weiß</td>
 <td>mild</td>
-<td>Kokosflocken</td>
-<td>nicht häufig</td>
+<td>unauffällig</td>
+<td>mäßig häufig</td>
       </tr>
+ <tr>
+<th>L. quietus Eichen-M.</th>
+         <td>bei Eichen</td>
+       
+<td>hellgelb</td>
+<td>mild</td>
+<td>Blattwanzen</td>
+<td>sehr häufig</td>
       </tr>
     </tbody>
   </table>
