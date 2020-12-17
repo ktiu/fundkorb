@@ -41,8 +41,8 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
         <th>Name</th>
         <th>Ökologie
         <th>Milchsaft Farbe
-        <th>Milchsaft Geschmack</i></th>
-        <th>Geruch</i></th>
+        <th>Milchsaft Geschmack</th>
+        <th>Geruch</th>
         <th>Häufigkeit</i></th>
       </tr>
     </thead>
