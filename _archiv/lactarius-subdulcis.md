@@ -1,5 +1,5 @@
 ---
-title: Lactarius subdulcis
+title: Lactarius Tabelle
 ---
 ##### Auflistung brauner Milchlinge (Lactarius)*
 
