@@ -17,7 +17,7 @@ literatur:
 ---
 Braune Milchlinge gibt es eine ganze Menge, aber wenn man auf Farbe und Geschmack der austretenden Milch, auf Geruch und Begleitbäume achtet, wird das kompliziert erscheinende Thema ein wenig übersichtlicher. Die mit Abstand häufigste braune Art bei Buchen ist der hier vorgestellte Süßliche Milchling. Es handelt sich um einen mittelgroßen Pilz mit Hutdurchmessern von etwa 3 bis 7 cm.
 
-Die Farbe der Huthaut ist ein eher helles Braun, auch fleisch-, zimt- oder rotbräunlich. Eine Zonierung ist nicht oder nur kontrastarm angedeutet zu erkennen. Der Hutrand ist heller und oft undeutlich streifig gemustert. In der beim ausgewachsenen Pilz vertieften Mitte befindet sich nicht selten ein kleines Buckelchen.
+Die Farbe der Huthaut ist ein eher helles Braun, auch fleisch-, zimt- oder rotbräunlich. Eine Zonierung ist nicht oder nur kontrastarm angedeutet zu erkennen. Der Hutrand ist heller und oft undeutlich streifig gemustert. In der beim ausgewachsenen Pilz vertieften Mitte befindet sich nicht selten ein kleines Buckelchen. 
 
 Die Lamellen sind jung weißlich, später fleischfarben, alt auch braunfleckig. Die beim Anritzen austretende Milch ist unveränderlich weiß und hat einen milden bis etwas bitterlichen Geschmack. Der Geruch (am besten an der Hutunterseite feststellbar) erinnert an Blattwanzen, ist aber z. B. beim ähnlichen Eichen-Milchling Lactarius quietus deutlich stärker.
 
