@@ -136,7 +136,7 @@ Für den Leberbraunen Milchling spricht übrigens auch die späte Erscheinungsze
         <td>mäßig häufig</td>
       </tr>
       <tr>
-        <th><a href="/pilze/lactarius-hepaticus-leberbrauner-milchling">L. subdulcis<br/>Süßlicher M.</<th>
+        <th><a href="/pilze/lactarius-hepaticus-leberbrauner-milchling">L. subdulcis<br/>Süßlicher M.</a><th>
         <td>bei Buchen</td>
         <td>weiß</td>
         <td>mild, bald bitter</td>
