@@ -6,7 +6,7 @@ beschreibung:
   familie: Russulaceae
   erlaeuterung: hepaticus = leberbraun
 profil:
-  aktualisiert: 2020-11-23
+  aktualisiert: 2020-12-19
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
