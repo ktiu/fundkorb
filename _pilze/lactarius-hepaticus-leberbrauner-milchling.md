@@ -96,7 +96,7 @@ Für den Leberbraunen Milchling spricht übrigens auch die späte Erscheinungsze
         <td>nicht häufig</td>
       </tr>
       <tr>
-        <th><a href="/pilze/lactarius-hepaticus-leberbrauner-milchling">L. hepaticus<br/>Leberbrauner M.</a></th>
+        <th>L. hepaticus<br/>Leberbrauner M.</th>
         <td>bei Kiefern</td>
         <td>weiß</td>
         <td>mild</td>
