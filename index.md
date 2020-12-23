@@ -12,6 +12,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/boletus_edulis_weihnachten_10_fk.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+Wir wünschen allen Pilzfreunden und Fundkorb-Besuchern schöne, geruhsame Weihnachtsfeiertage und ein pilzreiches und in Corona-Zeiten vor allem gesundes Neues Jahr.
+
+Ihre Fundkorb-Redaktion
+
+- - -
+
 ### Achtung - wichtiger Hinweis:
 
 ##### Aufgrund der aktuellen Corona-Situation wird es bis auf weiteres keine pilzkundlichen Führungen geben.
