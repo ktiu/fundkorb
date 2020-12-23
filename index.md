@@ -14,7 +14,7 @@ footer_scripts:
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/boletus_edulis_weihnachten_10_fk.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Man könnte ihn Boletus nicolausii kennen - gefunden und fotografiert von Frank Kaster" %}
 
 Wir wünschen allen Pilzfreunden und Fundkorb-Besuchern schöne, geruhsame Weihnachtsfeiertage und ein pilzreiches und in Corona-Zeiten vor allem gesundes Neues Jahr.
 
