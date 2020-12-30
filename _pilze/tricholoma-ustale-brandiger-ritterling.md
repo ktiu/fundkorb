@@ -23,3 +23,9 @@ Es handelt sich um einen stattlichen Pilz mit dickfleischigen, rot- bis kastanie
 Es gibt etliche braune Ritterlinge, die nicht immer leicht zu unterscheiden sind. Eine wichtige Bestimmungshilfe sind ihre [Mykorrhizabäume](Mykorrhiza "Glossar"). Der Brandige Ritterling ist ein in Mitteleuropa weit verbreiteter und fast überall recht häufiger Pilz, der nahezu ausschließlich bei Buchen vorkommt. Verwechslungen sind am ehesten mit dem seltenen Bitteren Eichenritterling Tricholoma ustaloides möglich, der außer durch seinen bitteren Geschmack und dem Vorkommen bei Eichen auch durch einen gerippten Hutrand unterschieden ist. Der "Brandige" gilt als essbar, kann aber kaum für die Küche empfohlen werden.
 
 Wie alle Ritterlinge hat auch der Brandige weißes Sporenpulver. Sporenform und -größe bieten nur selten ein relevantes Unterscheidungsmerkmal. Ein wichtiges mikroskopisches Kennzeichen ist die aus schlanken, inkrustierten [Hyphen](Hyphen "Glossar") bestehende Huthaut.
+
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/tricholoma_ustale_02_fk.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/tricholoma_ustale_03_fk.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/tricholoma_ustale_04_bk.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Abb. links und Mitte: braun inkrustierte Hyphen der Hutdeckschicht, im Foto Mitte ist auch eine Spore zu erkennen (Mikrofotos: Frank Kaster) -- Abb. rechts: zum Vergleich Mikrozeichnungen bei Breitenbach & Kränzlin: Pilze der Schweiz, Band 3, Nr. 439" %}
