@@ -24,7 +24,7 @@ Es gibt etliche braune Ritterlinge, die nicht immer leicht zu unterscheiden sind
 
 Wie alle Ritterlinge hat auch der Brandige weißes Sporenpulver. Sporenform und -größe bieten nur selten ein relevantes Unterscheidungsmerkmal. Ein wichtiges mikroskopisches Kennzeichen ist die aus schlanken, inkrustierten [Hyphen](Hyphen "Glossar") bestehende Huthaut.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tricholoma_ustale_02_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/tricholoma_ustale_03_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/tricholoma_ustale_04_bk.jpg" nocrop=true %}
