@@ -14,6 +14,7 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Brandiger_Ritterling
   - url: http://tintling.com/pilzbuch/arten/t/Tricholoma_ustale.html
+  - text: Breitenbach & Kränzlin (Pilze der Schweiz Band 3 Nr. 439)
 ---
 Bei nassem Wetter sehen sie ganz und gar nicht brandig aus und auch bei Trockenheit fragt man sich, wo diese Ritterlinge ihren seltsam anmutenden Namen her haben. Alle meine Bemühungen, in der Literatur eine Erklärung zu finden, blieben ergebnislos. Vielleicht bezieht er sich auf die cremeweißen Lamellen, die im Alter rostfleckig werden können.
 
