@@ -10,4 +10,4 @@ Die Teilnahme an dieser Wanderung ist nur bei bestätigter Anmeldung möglich. D
 
 **Alle Pilzführungen im November müssen aufgrund der aktuellen Corona-Verordnung abgesagt werden**
 
-**Kontaktformular**
+**[Kontaktformular](/kontakt)**
