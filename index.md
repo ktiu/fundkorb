@@ -22,7 +22,7 @@ footer_scripts:
 
 - - -
 
-Ein aktueller [Fundkorbpilz](AA "Glossar-") ist der [](/pilze/lepista-nuda-violetter-rötelritterling)Frostschneckling Hygrophorus hypothejus. Er gehört wie zum Beispiel auch Austernseitling, Samtfußrübling oder Schwarzstreifiger Ritterling zu den typischen Winterpilzen. Man findet ihn zur Zeit vor allem in Kiefernwäldern. Wer ihn sicher kennt und die Schleimschicht entfernt hat, kann ihn in der Pfanne braten. 
+Ein aktueller [Fundkorbpilz](AA "Glossar-") ist der [](/pilze/lepista-nuda-violetter-rötelritterling)[Frostschneckling Hygrophorus hypothejus](/pilze/hygrophorus-hypothejus-frostschneckling). Er gehört wie zum Beispiel auch Austernseitling, Samtfußrübling oder Schwarzstreifiger Ritterling zu den typischen Winterpilzen. Man findet ihn zur Zeit vor allem in Kiefernwäldern. Wer ihn sicher kennt und die Schleimschicht entfernt hat, kann ihn in der Pfanne braten. 
 
 - - -
 
