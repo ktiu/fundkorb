@@ -8,9 +8,7 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
+
 
 {% include pilzsuche.html %}
 
@@ -21,6 +19,10 @@ footer_scripts:
 ##### Aufgrund der aktuellen Corona-Situation wird es bis auf weiteres keine pilzkundlichen Führungen geben.
 
 - - -
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
 
 Ein aktueller [Fundkorbpilz](AA "Glossar-") ist der [](/pilze/lepista-nuda-violetter-rötelritterling)[Frostschneckling Hygrophorus hypothejus](/pilze/hygrophorus-hypothejus-frostschneckling). Er gehört wie zum Beispiel auch Austernseitling, Samtfußrübling oder Schwarzstreifiger Ritterling zu den typischen Winterpilzen. Man findet ihn zur Zeit vor allem in Kiefernwäldern. Wer ihn sicher kennt und die Schleimschicht entfernt hat, kann ihn in der Pfanne braten. 
 
