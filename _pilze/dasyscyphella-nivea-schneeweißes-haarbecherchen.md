@@ -34,7 +34,7 @@ Makroskopisch nicht zu unterscheiden ist das Weiße Haarbecherchen *Lachnum virg
 
 Wichtigste Mikromerkmale für *Dasyscyphella nivea*: Haare inkrustiert (gekörnt) und septiert, Spitze glatt, Sporen höchstens 10 µm lang. 
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/dasyscyphella_nivea_06_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/dasyscyphella_nivea_05_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/dasyscyphella_nivea_07_fk.jpg" nocrop=true %}
