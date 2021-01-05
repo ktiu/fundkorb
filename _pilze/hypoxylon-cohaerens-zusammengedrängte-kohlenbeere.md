@@ -20,3 +20,5 @@ Wenn man sich die Verbreitungskarte (Kriegsteiner 1993) betrachtet, bietet sich 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hypoxylon_cohaerens_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
+
+Der Name *Zusammengedrängte Kohlenbeere* ist eigentlich schon eine gute Beschreibung des Pilzes, dessen abgeflacht kugelige, krustig harte Fruchtkörper etwa 4 - 7 mm Durchmesser erreichen und dunkel graubraun bis schwarz gefärbt sind. Sie wachsen dicht gedrängt auf der Rinde von toten Laubholzästen und -stämmen (ganz überwiegend Buche) und sind oft zusammenfließend miteinander verbunden. Auf den Oberflächen erkennt man die papillenartigen Sporenauslassöffnungen.
