@@ -32,7 +32,7 @@ Eine grundsätzlich andere Lebensweise zeichnet die Holzkremplinge aus. Sie lebe
 [Tapinella panuoides (Muschelkrampling)](/pilze/tapinella-panuoides-muschelkrempling)
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/tapinella_atrotomentosa_04_dg.jpeg" %}
+{% include bild.html datei="/bilder/tapinella_atrotomentosa_04_dg.jpeg" nocrop=true %}
 {% include bild.html datei="/bilder/tapinella_panuoides_01_dg.jpeg" nocrop=true %}
 {% include abbildung_ende.html legende="Samtfußkrempling Tapinella atrotomentosa --  Muschelkrempling Tapinella panuoides" %}
 
