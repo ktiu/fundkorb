@@ -16,7 +16,7 @@ hauptbild:
 literatur:
   - url: https://www.natur-in-nrw.de/HTML/Pilze/Ascomycota/PAS-151.html
 ---
-Die Fruchtkörper dieses rasig auf feuchtem, morschem Laubholz wachsenden [Ascomyzeten](Ascomyzeten "Glossar") sind unregelmäßig kugelig bis kissenartig geformt und werden bis zu 3 mm groß. Die Oberfläche ist jung hellgelb, später grüngelb verfärbend. Sie erscheint durch die warzigen [Ostiolen](Ostiolum "Glossar) je nach Reifegrad hell bis dunkler grün gefleckt. Auch die Sporen haben eine grünliche Farbe. 
+Die Fruchtkörper dieses rasig auf feuchtem, morschem Laubholz wachsenden [Ascomyzeten](Ascomyzeten "Glossar") sind unregelmäßig kugelig bis kissenartig geformt und werden bis zu 3 mm groß. Die Oberfläche ist jung hellgelb, später grüngelb verfärbend. Sie erscheint durch die warzigen [Ostiolen](Ostiolum "Glossar") je nach Reifegrad hell bis dunkler grün gefleckt. Auch die Sporen haben eine grünliche Farbe. 
 
 Es existieren einige ähnliche Arten, u. a. *Hypocrea aureoviridis*, die wohl sehr selten sind. Bei Breitenbach & Kränzlin (Pilze der Schweiz Band 1) wird auch Hypocrea gelatinosa als selten angegeben, was mir unzutreffend erscheint. Wir haben den Pilz häufig gefunden, ihn aber wie die meisten Kartierer nie mikroskopiert. Lt. DGfM-Online-Kartierung für Hessen ist er im Rhein-Main-Gebiet nahezu flächendeckend vorhanden, Hypocrea aureoviridis jedoch noch nicht nachgewiesen. 
 
