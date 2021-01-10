@@ -26,7 +26,7 @@ Unter den milchenden Helmlingen ist der Purpurschneidige der einzige mit gefärb
 Die in Deutschland vorkommenden milchenden Helmlingsarten sind:
 
 Mycena galopus (Weißmilchender Helmling,inkl. 2 Varietäten)
-Mycena haematopus (Großer Bluthelmling)
-Mycena sanguinolenta (Purpurschneidiger Helmling)
-Mycena crocata (Gelbmilchender Helmling)
-Mycena erubescens (Bitterer Helmling, Weißmilchender Gallenhelmling)
+  [Mycena haematopus](/pilze/mycena-haematopus-großer-bluthelmling) (Großer Bluthelmling)
+  Mycena sanguinolenta (Purpurschneidiger Helmling)
+  [Mycena crocata](/pilze/mycena-crocata-gelbmilchender-helmling) (Gelbmilchender Helmling)
+  Mycena erubescens (Bitterer Helmling, Weißmilchender Gallenhelmling)
