@@ -24,7 +24,7 @@ Diesen winzigen [Ascomyzeten](<Ascomyzeten "Glossar">) muss man gezielt suchen: 
 
 Weitere an Ahornblättern bzw. -stielen wachsende Pilze:
 
-Gnomonia cerastis (Geschnäbelter Ahornkugelpilz)\
-Rhyhtisma acerinum (Ahorn-Runzelschorf)\
+[Gnomonia cerastis](/pilze/gnomonia-cerastis-geschnäbelter-ahornkugelpilz) (Geschnäbelter Ahornkugelpilz)\
+[Rhyhtisma acerinum](/pilze/rhytisma-acerinum-ahorn-runzelschorf) (Ahorn-Runzelschorf)\
 Sawadaea tulasnei (Spitzahorn-Runzelschorf)\
 Typhula erythropus (Rotbraunstieliges Sklerotienkeulchen)
