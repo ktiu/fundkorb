@@ -27,7 +27,7 @@ Bei naturkundlichen Führungen mit Kindern können milchende Helmlinge einen net
 
 Die in Deutschland vorkommenden milchenden Helmlingsarten sind:
 
-[Mycena crocata](/pilze/mycena-crocata-gelbmilchender-helmling) = Gelbmilchender Helmling\
+Mycena crocata = Gelbmilchender Helmling\
 Mycena erubescens = Bitterer Helmling\
 Mycena galopus = Weißmilchender Gallenhelmling (inkl. 2 Varietäten)\
 [Mycena haematopus](/pilze/mycena-haematopus-großer-bluthelmling) = Großer Bluthelmling\
