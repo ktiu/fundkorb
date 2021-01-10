@@ -20,7 +20,7 @@ literatur:
 {% include bild.html datei="/bilder/pyrenopeziza-petiolaris_02_iw.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="2 Fotos: Ingo Wagner (ASCO SONNEBERG)" %}
 
-Diesen winzigen [Ascomyzeten](<Ascomyzeten "Glossar">) muss man gezielt suchen: im Frühjahr zum Beispiel an Blattstielen von vorjährigem Ahorn oder Storchenschnabel. Sie werden nur etwa einen Millimeter groß und entwickeln sich unter der [Epidermis](<Epidermis "Glossar">), die sich aufwölbt, schwärzlich verfärbt, und sich dann durch eine hellere Längsspalte öffnet. Im eingesenkten, noch unreifem Stadium ähneln sie den Spaltlippen, bei voller Reife sind sie oval bis rundlich becherförmig.
+Diesen winzigen [Ascomyzeten](Ascomyzeten "Glossar") muss man gezielt suchen: im Frühjahr zum Beispiel an Blattstielen von vorjährigem Ahorn oder Storchenschnabel. Sie werden nur etwa einen Millimeter groß und entwickeln sich unter der [Epidermis](Epidermis "Glossar"), die sich aufwölbt, schwärzlich verfärbt, und sich dann durch eine hellere Längsspalte öffnet. Im eingesenkten, noch unreifem Stadium ähneln sie den Spaltlippen, bei voller Reife sind sie oval bis rundlich becherförmig.
 
 Weitere an Ahornblättern bzw. -stielen wachsende Pilze:
 
