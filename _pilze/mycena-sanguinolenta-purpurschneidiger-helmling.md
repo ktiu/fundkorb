@@ -1,0 +1,32 @@
+---
+beschreibung:
+  wissenschaftlich: Mycena sanguinolenta
+  deutsch: Purpurschneidiger Helmling
+  referenz: (Alb. & Schwein.) P. Kumm. 1871
+  familie: Mycenaceae
+  erlaeuterung: sanguinolenta = blutend, blutrot
+profil:
+  aktualisiert: 2021-01-10
+  autor_in: Dieter Gewalt
+hauptbild:
+  anzeige: true
+  datei: /bilder/mycena_sanguinolenta_03_dg.jpeg
+  legende: "  Purpurschneidige Helmlinge auf einem Kieferzapfen"
+literatur:
+  - url: https://de.wikipedia.org/wiki/Purpurschneidiger_Blut-Helmling
+  - url: http://tintling.com/pilzbuch/arten/m/Mycena_haematopus.html
+---
+Unter den milchenden Helmlingen ist der Purpurschneidige der einzige mit gefärbter Lamellenschneide und der mit dem wenigsten Milchsaft. Was nicht verwundert, denn er hat sehr dünne Stiele, die aber im Verhältnis zur Hutgröße meist auffallend lang sind. Man findet den Pilz meist gesellig wachsend in Laub- und Nadelwäldern, in denen er gern Blätter, Nadeln, Ästchen, [Cupulen](Cupulen "Glossar") oder Zapfen besiedelt. Die Art ist in ganz Deutschland verbreitet und häufig.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/mycena_sanguinolenta_02_dg.jpeg" nocrop=true %}
+{% include bild.html datei="/bilder/mycena_sanguinolenta_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+Die in Deutschland vorkommenden milchenden Helmlingsarten sind:
+
+Mycena galopus (Weißmilchender Helmling,inkl. 2 Varietäten)
+Mycena haematopus (Großer Bluthelmling)
+Mycena sanguinolenta (Purpurschneidiger Helmling)
+Mycena crocata (Gelbmilchender Helmling)
+Mycena erubescens (Bitterer Helmling, Weißmilchender Gallenhelmling)
