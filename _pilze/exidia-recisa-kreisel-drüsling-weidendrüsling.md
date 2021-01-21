@@ -20,7 +20,7 @@ literatur:
 {% include bild.html datei="/bilder/exidia_recisa_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Der Name Kreisel-Drüsling erscheint mir nicht sehr treffend gewählt. Die kandisbraunen Fruchtkörper sind oft eher scheiben-oder becherförmig, lappig und schwabbelig und können im Extremfall den bekannteren Judasohren ähneln.
+Der Name Kreisel-Drüsling erscheint mir nicht sehr treffend gewählt. Die kandisbraunen Fruchtkörper sind oft eher scheiben-oder becherförmig, lappig und schwabbelig und können im Extremfall den bekannteren Judasohren ähneln. 
 
 Der Name Weidentintling ist dagegen sehr aussagefähig. Man könnte es fast so formulieren: ein Drüsling an Weide kann nur ein Weidendrüsling sein.   
 
