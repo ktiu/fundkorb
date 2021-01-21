@@ -21,4 +21,8 @@ In geschlossenen Wäldern wird man unseren Pilz, den man vielleicht besser als S
 
 Die meisten der in Mitteleuropa vorkommenden 14 Schillerporlingsarten (davon 9 in Deutschland nachgewiesen) sind mehr oder weniger wirtsspezifisch, was ihre Bestimmung durchaus erleichtert. An Apfelbäumen, seinem mit Abstand am häufigsten befallenen Wirt, wird man kaum einen anderen als Inonotus hispidus finden. Seine vorwiegend einzeln wachsenden Fruchtkörper sind konsolenartig [pileat](pileat "Glossar"), die Hüte rostgelb bis rotbraun und filzig-zottig behaart, auf Druck dunkel fleckend. Sie werden bis zu 30 cm breit. Wie alle Schillerporlinge sind seine Fruchtkörper einjährig. Sie erscheinen etwa ab Juni, sind jung sehr saftreich und weichfleischig, werden im Herbst allmählich schwarz und fallen schließlich ab. In jungen wie auch in aktiven Entwicklungsstadien werden aus den Poren der Hutunterseite hell bernsteinfarbene [Guttattionströpfchen](Guttattion "Glossar") ausgeschieden.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/inonotus_hispidus_02_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
 Außer an Apfelbäumen habe ich Inonotus hispidus auch schon mehrfach an Walnuss sowie je einmal an Platane und einem Maulbeerbäumchen gefunden.
