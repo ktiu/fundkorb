@@ -22,6 +22,6 @@ literatur:
 
 Der Name Kreisel-Drüsling erscheint mir nicht sehr treffend gewählt. Die kandisbraunen Fruchtkörper sind oft eher scheiben-oder becherförmig, lappig und schwabbelig und können im Extremfall den bekannteren Judasohren ähneln.
 
-Der Name Weidentintling ist dagegen sehr aussagefähig. Man könnte es fast so formulieren: ein Drüsling an Weide kann nur ein Weidendrüsling sein. 
+Der Name Weidentintling ist dagegen sehr aussagefähig. Man könnte es fast so formulieren: ein Drüsling an Weide kann nur ein Weidendrüsling sein.   
 
 Der Pilz ist ganzjährig zu finden, seine Haupterscheinungszeit ist jedoch Oktober bis Mai, vor allem bei tieferen Temperaturen.
