@@ -14,7 +14,7 @@ footer_scripts:
 
 - - -
 
-### Achtung - wichtiger Hinweis:
+
 
 ##### Aufgrund der aktuellen Corona-Situation wird es bis auf weiteres keine pilzkundlichen Führungen geben.
 
