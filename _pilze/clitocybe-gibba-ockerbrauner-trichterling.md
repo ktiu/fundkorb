@@ -29,4 +29,6 @@ Clitocybe gibba ist ein mittelgroßer fleischiger Pilz mit Hutdurchmessern bis e
 
 Der Ockerbraune Trichterling ist von etwa Juni bis November in allen Waldtypen zu finden und ein typischer Wegrandpilz. Oft sind ganze Wegstrecken von ihnen gesäumt. Am ehesten zu verwechseln ist er mit einem nahen Verwandten, dem Kerbrandigen Trichterling *Clitocybe costata*, dessen Hutränder meist gekerbt oder gelappt und dessen Stiele dunkler als die Lamellen gefärbt und rissig-längsfaserig sind, sowie mit dem [Fuchsigen Röteltrichterling *Lepista flaccida*](/pilze/lepista-flaccida-fuchsiger-röteltrichterling) ohne Buckel in der ebenso vertieften Hutmitte. Beide riechen ebenfalls nach Bittermandel (Blausäure). Ähnlich ist auch der seltene Feinschuppige Trichterling *[Clitocybe squamulosa](/pilze/clitocybe-squamulosa-feinschuppiger-trichterling)*, der mehlartig riecht. Diese drei Arten sind ebenfalls essbar.
 
-Der neue Gattungsname Infundibulicybe bedeutet „Trichterkopf"
+Ein giftiger Doppelgänger aus dem Mittelmeerraum (Clitocybe amoenolens) könnte aufgrund der Klimaveränderung möglicherweise auch in Mitteleuropa auftauchen. Er enthält Acromelsäure, die schmerzhafte Hautausschläge verursachen und unter Umständen sogar tödlich sein kann.
+
+Der neue Gattungsname Infundibulicybe bedeutet „Trichterkopf".
