@@ -23,3 +23,5 @@ Verwechslungen sind möglich u. a. mit dem Wasserfleckigen Röteltrichterling *L
 {% include abbildung_ende.html legende="Frostgeschädigter Fuchsiger Röteltrichterling" %}
 
 Wer nach den ersten Nachtfrösten im Herbst Pilze sammelt, sollte darauf gefasst sein, dass die Minustemperaturen das gewohnte Aussehen vieler Pilzarten stark verändern können. Manche sind kaum wiederzuerkennen. Aber nicht nur die "Optik" wird beeinflusst. Der Frost schädigt auch die Zellen, und das bedeutet: es entstehen gesundheitliche Risiken beim Verzehr. Gefahr für die Gesundheit verursacht auch wiederholtes Gefrieren und Auftauen, zumal man den Pilzen nicht ansieht, wie oft sie bei zurückliegenden Nacht-Tag-Wechseln schon gefroren und wieder aufgetaut sind.
+
+Ein giftiger Doppelgänger aus dem Mittelmeerraum (*Clitocybe amoenolens*) könnte aufgrund der Klimaveränderung möglicherweise auch in Mitteleuropa auftauchen. Er enthält Acromelsäure, die schmerzhafte Hautausschläge verursachen und unter Umständen sogar tödlich sein kann.
