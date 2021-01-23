@@ -25,10 +25,14 @@ Kohlenbeeren gehören zu den sogenannten [Pyrenomyzeten](Pyrenomyzeten "Glossar"
 
 Die Sammelfruchtkörper der Vielgestaltigen Kohlenbeere erreichen eine Dicke von bis zu 1 Zentimeter, sind unregelmäßig kissen- oder polsterförmig, oft zu mehreren zusammengewachsen, wobei sie Längen von 2 bis 3 Zentimeter erreichen und entsprechend große Flächen auf der Rinde bedecken können. Das oben in Nahaufnahme fotografierte Exemplar hatte eine Ausdehnung von ca. 3 X 4 cm. Meine bisherigen Funde waren mit einer Ausnahme (Kirsche) alle an Birke.
 
-Sporenmaße (angegeben von):  
-Breitenbach & Kränzlin: 9 - 11 X 4,5 - 5 µm  
-123pilze: 8,8 - 10,3 X 3,7 - 4,9 µm  
-Ewald Gerhardt: 8,5 - 10,5 X 3,5 - 5 µm  
-von Frank Kaster in den Asci gemessen (daher unreif und etwas kleiner):  8 - 9,4 X 3,4 - 4,4 µm
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/hypoxylon_multiforme_04_fk.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Asci 8-sporig (Mikrofoto: Frank Kaster)" %}
 
-Die Vielgestaltige Kohlenbeere wurde (wie auch Hypoxylon cohaerens) in die neue Gattung Annulohypoxylon überführt. Dieser "Umzug" war jedoch nicht von langer Dauer. Nach "neuesten Erkenntnissen" muss sie nun JACKROGERSELLA MULTIFORMIS heißen. Verbrochen haben dies die Herren L. Wendt, Kuhnert & M. Stadler in Wendt, Sir, Kuhnert, Heitkämper, Lambert, Hladki, Romero, Luangsaard, Srikitikulchai, Peršoh & Stadler, Mycol. Progr.: 10.1007/s 11557-017-1311-3, [24] ((2017)
+Sporenmaße (angegeben von):\
+Breitenbach & Kränzlin: 9 - 11 X 4,5 - 5 µm\
+123pilze: 8,8 - 10,3 X 3,7 - 4,9 µm\
+Ewald Gerhardt: 8,5 - 10,5 X 3,5 - 5 µm\
+Frank Kaster in den Asci gemessen (daher unreif und etwas kleiner; siehe Mikrofoto):  8 - 9,4 X 3,4 - 4,4 µm
+
+Die Vielgestaltige Kohlenbeere wurde (wie auch Hypoxylon cohaerens) in die neue Gattung Annulohypoxylon überführt. Dieser "Umzug" war jedoch nicht von langer Dauer. Nach "neuesten Erkenntnissen" muss sie nun JACKROGERSELLA MULTIFORMIS heißen. Verbrochen haben dies die Herren L. Wendt, Kuhnert & M. Stadler in Wendt, Sir, Kuhnert, Heitkämper, Lambert, Hladki, Romero, Luangsaard, Srikitikulchai, Peršoh & Stadler, Mycol. Progr.: 10.1007/s 11557-017-1311-3, \[24] ((2017)
