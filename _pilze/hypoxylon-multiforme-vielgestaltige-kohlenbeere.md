@@ -16,7 +16,7 @@ literatur:
   - url: https://de.wikipedia.org/wiki/Vielgestaltige_Kohlenbeere
   - url: http://tintling.com/pilzbuch/arten/h/Hypoxylon_multiforme.html
 ---
-Kohlenbeeren gehören zu den sogenannten [Pyrenomyzeten](Pyrenomyzeten "Glossar"). Sie bestehen aus einem [Stroma](Stroma "Glossar"), in das die eigentlichen Fruchtkörper, die [Perithezien](Perithezien "Glossar"), eingebettet sind. Die Abbildung oben zeigt, wie die auf einem toten Birkenast wachsende Vielgestaltige Kohlebeere vom Auge wahrgenommen wird. Das Foto unten links zeigt sie als Nahaufnahme, rechts wie mit einer guten Lupe betrachtet. Hier sind die kugeligen Einzelfruchtkörper zu sehen, auf deren Scheitel als winzige Erhebungen die [Ostiolen](Ostiole "Glossar") genannten Sporenauslassöffnungen erkennbar sind.
+Kohlenbeeren gehören zu den sogenannten [Pyrenomyzeten](Pyrenomyzeten "Glossar"). Sie bestehen aus einem [Stroma](Stroma "Glossar"), in das die eigentlichen Fruchtkörper, die [Perithezien](Perithezien "Glossar"), eingebettet sind. Die Abbildung oben zeigt, wie die auf einem toten Birkenast wachsende Vielgestaltige Kohlebeere vom Auge wahrgenommen wird. Das Foto unten links zeigt sie als Nahaufnahme, rechts wie mit einer guten Lupe betrachtet. Hier sind die kugeligen Einzelfruchtkörper zu sehen, auf deren Scheitel als winzige Erhebungen die [Ostiolen](Ostiolum "Glossar") genannten Sporenauslassöffnungen erkennbar sind.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/hypoxylon_multiforme_02_dg.jpg" nocrop=true %}
