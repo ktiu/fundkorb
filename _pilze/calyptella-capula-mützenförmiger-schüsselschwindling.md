@@ -25,4 +25,4 @@ Die einzelnen Fruchtkörper sind in der Regel mit der Schüsselöffnung nach unt
 
 Erstaunlicherwese gehören sie zur Verwandtschaft der Schwindlinge.
 
-Bei zwei Funden (09.10.2005: Hainer Weg, Frankfurter Stadtwald und 03.07.2011: Buchrainweiher bei Offenbach) wurde ich von Hermine Lotz-Winter auf das Vorkommen aufmerksam gemacht, den Dreieichenhainer Fund (04.08.2019: An der Dampfmühle, an verrottendem Brombeerstängel) verdanken wir dem aufmerksamen Auge von Tui Gewalt.
+Bei zwei Funden (09.10.2005: Hainer Weg, Frankfurter Stadtwald und 03.07.2011: Buchrainweiher bei Offenbach) wurde ich von Hermine Lotz-Winter auf das Vorkommen an modernden Brennnesselstängeln aufmerksam gemacht, den Dreieichenhainer Fund (04.08.2019: An der Dampfmühle, an verrottendem Brombeerstängel) verdanken wir dem aufmerksamen Auge von Tui Gewalt.
