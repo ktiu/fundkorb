@@ -33,6 +33,71 @@ Der Striegelige Schichtpilz ist einer der häufigsten Baumpilze überhaupt. Man 
 {% include bild.html datei="/bilder/stereum_hirsutum_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschnitt mit der Lupe erkennen und zählen kann. Mit etwas Erfahrung sind die Arten der Gattung schon optisch recht gut zu unterscheiden, vorausgesetzt, man hat frisch gewachsene Exemplare zur Verfügung. Im Zweifelsfall hilft eine Lupe weiter, um die Schichten genauer zu differenzieren und zu zählen. 
+Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschnitt mit der Lupe erkennen und zählen kann. Mit etwas Erfahrung sind die Arten der Gattung schon optisch recht gut zu unterscheiden, vorausgesetzt, man hat frisch gewachsene Exemplare zur Verfügung. Im Zweifelsfall hilft eine Lupe weiter, um die Schichten genauer zu differenzieren und zu zählen. Mit dem Schlüssel von Bernd Miggel sollten die sieben in Deutschland vorkommenden Arten gut unterschieden werden können. Das nachfolgende Foto zeigt die Schichtung beim Striegeligen Schichtpilz.
+
+<div class="table-responsive">
+<table class="table">
+<tr>
+  <th>1</th>
+  <td>Fruchtschicht beim Reiben mit feuchtem Finger deutlich blutend (rot, rötlich)</td>
+  <th><i class="fas fa-arrow-right"></i> 2</th>
+</tr>
+<tr>
+  <th>1*</th>
+  <td>Fruchtschicht beim Reiben nicht rötend</td>
+  <th>4</th>
+</tr>
+<tr>
+  <th>2</th>
+  <td>Fruchtkörper auf Laubholz</td>
+  <th>3</th>
+</tr>
+<tr>
+  <th>2*</th>
+  <td>Fruchtkörper auf Nadelholz (meist Fichte)</td>
+  <th><i class="fas fa-arrow-right"></i> Stereum sanguinolentum</th>
+</tr>
+<tr>
+  <th>3</th>
+  <td>Resupinat, mit schmaler, kaum abstehender Hutkante, große Flächen überziehend, bevorzugt an Hasel </td>
+  <th>S. rugosum</th>
+</tr>
+<tr>
+<th>3*</th>
+<td>Effuso-reflex = mit deutlich abstehenden Hutkanten (1-2 cm), auffallend gekräuselt, fast nur an Eiche</td>
+<th><i class="fas fa-arrow-right"></i> S. gausapatum</th>
+</tr>
+<tr>
+<th>4</th>
+<td>Cortex vorhanden (dunkle Linie unter dem Tomentum) </td>
+<th>5</th>
+</tr>
+<tr>
+<th>4*</th>
+<td>Cortex fehlend, Oberseite striegelig, an dünnen Ästchen, meist von EicheFruchtkörper tütenförmig, Peridiolen schwarz </td>
+<th>S. rameale</th>
+</tr>
+<tr>
+<th>5</th>
+<td>Oberseite striegelig, zottig behaart, frisches Hymenium otangegelb, sehr häufige Art, bevorzugt an Eiche und Buche, effuso-reflex </td>
+<th>S. hirsutum</th>
+</tr>
+<tr>
+<th>5*</th>
+<td>Oberseite nicht striegelig, lediglich samtig filzig, frisches Hymenium nicht orangegelb, basal oft stielförmig zusammengezogen, pileat, fächerförmig </td>
+<th>6</th>
+</tr><tr>
+<th>6</th>
+<td>Hutoberfläche braun bis schwarzbraun, ungleichmäßig filzig, mit Acanthozystiden </td>
+<th>S. ostrea (=S. insignitum)</th>
+</tr>
+<tr>
+<th>6*</th>
+<td>Hutoberfläche braun bis schwarzbraun, ungleichmäßig filzig, ohne Acanthozystiden </td>
+<th>S. subtomentosum</th>
+</tr><tr>
+</tr>
+</table>
+</div>
 
 [Nomenklatorisch](Nomenklatur "Glossar") interessant: Der Striegelige Schichtpilz wurde bereits im Jahr 1800 von Christian  Hendrik Persoon mit dem noch heute gültigen Taxon beschrieben. Andere frühe Mykologen hatten ihn danach in Gattungen wie Auricularia, Helvella, Thelephora und sogar bei Boletus unterzubringen versucht, verständlicherweise ohne sich damit durchsetzen zu können.
