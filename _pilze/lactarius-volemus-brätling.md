@@ -8,12 +8,18 @@ beschreibung:
   familie: Russulaceae
 profil:
   aktualisiert: 2021-01-24
+  autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/lactarius_volemus_01_tl.jpg
 literatur:
   - url: https://de.wikipedia.org/wiki/Br%C3%A4tling
 ---
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/lactarius_volemus_01_tl.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/lactarius_volemus_02_tl.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
 Den fast schon legendären Brätling wird man m. E. in der Rhein-Main-Ebene vergeblich suchen, obwohl im Verbreitungsatlas (z. B. MTB 5919 = Seligenstadt) ein Fundpunkt eingetragen ist und er selbst aus dem flachen Schleswig-Holstein angegeben ist. Er benötigt kalkhaltige Böden und ist nach neuerer Literatur eher ab Mittelgebirgslagen als im Flachland zu finden. Seine Vorkommen gelten als stark rückläufig, weshalb er in den Roten Listen als gefährdete Art (RL 3) geführt wird. Ich selbst habe den stattlichen Pilz erst einmal gesehen (mit Walter Pätzold im Schwarzwald). In seinem *Handbuch für Pilzsammler* schreibt *Andreas Gminder*:
 
 > Der Brätling gehört zu den ganz wenigen Pilzarten, die auch roh verzehrt werden können. Wer die allgemeine Fuchs-bandwurmhysterie nicht teilt, kann sich mit leicht gesalzenem Brätling auf Butterbrot ein leckeres Vesper bei der Pilzsuche gönnen.
