@@ -35,6 +35,8 @@ Der Striegelige Schichtpilz ist einer der häufigsten Baumpilze überhaupt. Man 
 
 Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschnitt mit der Lupe erkennen und zählen kann. Mit etwas Erfahrung sind die Arten der Gattung schon optisch recht gut zu unterscheiden, vorausgesetzt, man hat frisch gewachsene Exemplare zur Verfügung. Im Zweifelsfall hilft eine Lupe weiter, um die Schichten genauer zu differenzieren und zu zählen. Mit dem Schlüssel von Bernd Miggel sollten die sieben in Deutschland vorkommenden Arten gut unterschieden werden können. Das nachfolgende Foto zeigt die Schichtung beim Striegeligen Schichtpilz.
 
+**Schlüssel für mitteleuropäische Stereum-Arten von Bernd Miggel**
+
 <div class="table-responsive">
 <table class="table">
 <tr>
@@ -74,12 +76,12 @@ Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschn
 </tr>
 <tr>
 <th>4*</th>
-<td>Cortex fehlend, Oberseite striegelig, an dünnen Ästchen, meist von EicheFruchtkörper tütenförmig, Peridiolen schwarz </td>
+<td>Cortex fehlend, Oberseite striegelig, an dünnen Ästchen, meist von Eiche </td>
 <th>S. rameale</th>
 </tr>
 <tr>
 <th>5</th>
-<td>Oberseite striegelig, zottig behaart, frisches Hymenium otangegelb, sehr häufige Art, bevorzugt an Eiche und Buche, effuso-reflex </td>
+<td>Oberseite striegelig, zottig behaart, frisches Hymenium orangegelb, sehr häufige Art, bevorzugt an Eiche und Buche, effuso-reflex </td>
 <th>S. hirsutum</th>
 </tr>
 <tr>
@@ -93,7 +95,7 @@ Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschn
 </tr>
 <tr>
 <th>6*</th>
-<td>Hutoberfläche braun bis schwarzbraun, ungleichmäßig filzig, ohne Acanthozystiden </td>
+<td>Hutoberfläche jung ockerbraun, gleichmäßig filzig, ohne Acanthozystiden </td>
 <th>S. subtomentosum</th>
 </tr><tr>
 </tr>
