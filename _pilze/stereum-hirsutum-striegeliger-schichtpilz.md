@@ -65,7 +65,7 @@ Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschn
 </tr>
 <tr>
   <th>3</th>
-  <td>Resupinat, mit schmaler, kaum abstehender Hutkante, große Flächen überziehend, bevorzugt an Hasel </td>
+  <td>[Resupinat](resupinat "Glossar"), mit schmaler, kaum abstehender Hutkante, große Flächen überziehend, bevorzugt an Hasel </td>
   <th>S. rugosum</th>
 </tr>
 <tr>
