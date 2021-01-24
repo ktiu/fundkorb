@@ -51,12 +51,12 @@ Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschn
 <tr>
   <th>1*</th>
   <td>Fruchtschicht beim Reiben nicht rötend</td>
-  <th>4</th>
+  <th><i class="fas fa-arrow-right"></i> 4</th>
 </tr>
 <tr>
   <th>2</th>
   <td>Fruchtkörper auf Laubholz</td>
-  <th>3</th>
+  <th><i class="fas fa-arrow-right"></i> 3</th>
 </tr>
 <tr>
   <th>2*</th>
@@ -76,7 +76,7 @@ Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschn
 <tr>
 <th>4</th>
 <td>Cortex vorhanden (dunkle Linie unter dem Tomentum) </td>
-<th>5</th>
+<th><i class="fas fa-arrow-right"></i> 5</th>
 </tr>
 <tr>
 <th>4*</th>
@@ -91,7 +91,7 @@ Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschn
 <tr>
 <th>5*</th>
 <td>Oberseite nicht striegelig, lediglich samtig filzig, frisches Hymenium nicht orangegelb, basal oft stielförmig zusammengezogen, pileat, fächerförmig </td>
-<th>6</th>
+<th><i class="fas fa-arrow-right"></i> 6</th>
 </tr><tr>
 <th>6</th>
 <td>Hutoberfläche braun bis schwarzbraun, ungleichmäßig filzig, mit Acanthozystiden </td>
