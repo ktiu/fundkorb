@@ -22,5 +22,8 @@ Den fast schon legendären Brätling wird man m. E. in der Rhein-Main-Ebene verg
 
 > Der Brätling stellt keine besonderen Ansprüche an Waldart und Boden, wenn er auch den Nadelbäumen weniger zugetan ist als dem Buchenwald. In manchen Gegenden gehört er zu den selteneren Pilzen. Dann werden oft andere rotbraune Arten dafür gehalten. Sie sind aber schmächtiger und haben niemals braun werdende Milch. Das Fleisch hat einen auffälligen, etwas an Hering erinnernden Geruch, dem sich ein widerwärtiger Nebengeruch beigesellt. Der Stiel ist kräftiger als bei allen ähnlich gefärbten Arten.
 
-
 Aus Haas-Gossner (1964) stammt auch das hier gezeigte Aquarell von Gabriele Gossner
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lactarius_volemus_03_gg.jpg" %}
+{% include abbildung_ende.html %}
