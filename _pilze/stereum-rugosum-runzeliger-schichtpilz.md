@@ -18,7 +18,7 @@ literatur:
 {% include bild.html datei="/bilder/stereum_rugosum_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Schichtpilze besitzen ein glattes bis runzeliges Hymenium (Fruchtschicht), sie wachsen resupinat (dem Substrat krustenförmig aufgewachsen) bis pileat (abstehende Hütchen bildend) an Holz, bestehen aus [Skeletthyphen](Skeletthyphen "Glossar") und haben daher eine lederige bis holzig-zähe Konsistenz. Der Runzelige Schichtpilz, auch Rötender Runzel-Schichtpilz genannt, gehört zu den resupinat wachsenden Arten und bildet nur wenig abstehende Hutkanten aus. Die drei Fotos auf dieser Seite wurden bei trockenem Wetter gemacht und zeigen stark eingetrocknete Fruchtkörper.
+Schichtpilze besitzen ein glattes bis runzeliges Hymenium (Fruchtschicht), sie wachsen resupinat (dem Substrat krustenförmig aufgewachsen) bis pileat (abstehende Hütchen bildend) an Holz, bestehen aus [Skeletthyphen](Skeletthyphen "Glossar") und haben daher eine lederige bis holzig-zähe Konsistenz. Der Runzelige Schichtpilz, auch Rötender Runzel-Schichtpilz genannt, gehört zu den resupinat wachsenden Arten und bildet nur wenig abstehende Hutkanten aus. Die drei Fotos auf dieser Seite wurden bei trockenem Wetter gemacht und zeigen stark eingetrocknete Fruchtkörper. 
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/stereum_rugosum_02_dg.jpg" nocrop=true %}
