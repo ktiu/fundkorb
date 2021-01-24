@@ -37,7 +37,7 @@ Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschn
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/stereum_hirsutum_06_bm.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Schichtung im Schnitt: Stereum hirsutum" %}
+{% include abbildung_ende.html legende="Schichtung im Schnitt: Stereum hirsutum (Foto: Bernd Miggel)" %}
 
 **Schlüssel für mitteleuropäische Stereum-Arten von Bernd Miggel**
 
