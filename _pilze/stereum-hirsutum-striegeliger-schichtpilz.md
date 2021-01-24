@@ -66,7 +66,7 @@ Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschn
 <tr>
   <th>3</th>
   <td>Resupinat, mit schmaler, kaum abstehender Hutkante, große Flächen überziehend, bevorzugt an Hasel </td>
-  <th>S. rugosum</th>
+  <th><i class="fas fa-arrow-right"></i> Stereum rugosum</th>
 </tr>
 <tr>
 <th>3*</th>
