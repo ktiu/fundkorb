@@ -22,7 +22,7 @@ literatur:
 
 Den fast schon legendären Brätling wird man m. E. in der Rhein-Main-Ebene vergeblich suchen, obwohl im Verbreitungsatlas (z. B. MTB 5919 = Seligenstadt) ein Fundpunkt eingetragen ist und er selbst aus dem flachen Schleswig-Holstein angegeben ist. Er benötigt kalkhaltige Böden und ist nach neuerer Literatur eher ab Mittelgebirgslagen als im Flachland zu finden. Seine Vorkommen gelten als stark rückläufig, weshalb er in den Roten Listen als gefährdete Art (RL 3) geführt wird. Ich selbst habe den stattlichen Pilz erst einmal gesehen (mit Walter Pätzold im Schwarzwald). In seinem *Handbuch für Pilzsammler* schreibt *Andreas Gminder*:
 
-> Der Brätling gehört zu den ganz wenigen Pilzarten, die auch roh verzehrt werden können. Wer die allgemeine Fuchs-bandwurmhysterie nicht teilt, kann sich mit leicht gesalzenem Brätling auf Butterbrot ein leckeres Vesper bei der Pilzsuche gönnen.
+> Der Brätling gehört zu den ganz wenigen Pilzarten, die auch roh verzehrt werden können. Wer die allgemeine Fuchsbandwurmhysterie nicht teilt, kann sich mit leicht gesalzenem Brätling auf Butterbrot ein leckeres Vesper bei der Pilzsuche gönnen.
 
 *Dr. Hans Haas* schreibt in seinem 1964 in 9. Auflage erschienenen Buch *Pilze Mitteleuropas*: 
 
