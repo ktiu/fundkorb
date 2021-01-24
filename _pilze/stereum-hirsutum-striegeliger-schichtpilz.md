@@ -66,7 +66,7 @@ Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschn
 <tr>
   <th>3</th>
   <td>Resupinat, mit schmaler, kaum abstehender Hutkante, große Flächen überziehend, bevorzugt an Hasel </td>
-  <th><i class="fas fa-arrow-right"></i> Stereum rugosum</th>
+  <th><i class="fas fa-arrow-right"></i> S. rugosum</th>
 </tr>
 <tr>
 <th>3*</th>
@@ -81,12 +81,12 @@ Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschn
 <tr>
 <th>4*</th>
 <td>Cortex fehlend, Oberseite striegelig, an dünnen Ästchen, meist von Eiche </td>
-<th>S. rameale</th>
+<th><i class="fas fa-arrow-right"></i> S. rameale</th>
 </tr>
 <tr>
 <th>5</th>
 <td>Oberseite striegelig, zottig behaart, frisches Hymenium orangegelb, sehr häufige Art, bevorzugt an Eiche und Buche, effuso-reflex </td>
-<th>S. hirsutum</th>
+<th><i class="fas fa-arrow-right"></i> S. hirsutum</th>
 </tr>
 <tr>
 <th>5*</th>
@@ -95,12 +95,12 @@ Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschn
 </tr><tr>
 <th>6</th>
 <td>Hutoberfläche braun bis schwarzbraun, ungleichmäßig filzig, mit Acanthozystiden </td>
-<th>S. ostrea (=S. insignitum)</th>
+<th><i class="fas fa-arrow-right"></i> S. ostrea (= S. insignitum</th>
 </tr>
 <tr>
 <th>6*</th>
 <td>Hutoberfläche jung ockerbraun, gleichmäßig filzig, ohne Acanthozystiden </td>
-<th>S. subtomentosum</th>
+<th><i class="fas fa-arrow-right"></i> S. subtomentosum</th>
 </tr><tr>
 </tr>
 </table>
