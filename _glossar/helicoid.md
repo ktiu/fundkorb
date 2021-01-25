@@ -1,0 +1,4 @@
+---
+schlagwort: helicoid
+---
+schneckenähnlich
