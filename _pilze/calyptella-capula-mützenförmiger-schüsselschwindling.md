@@ -25,7 +25,7 @@ Beim Anblick dieser kleinen Pilze könnte man vermuten, dass es sich um *Ascomyz
 {% include bild.html datei="/bilder/calyptella_capula_03_hl.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/calyptella_capula_04_hl.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/calyptella_capula_05_hl.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="3 Fotos von Hermine Lotz-Winter" %}
+{% include abbildung_ende.html legende="Schüsselschwindlinge in den Farben grau, weiß und gelb (3 Fotos von Hermine Lotz-Winter)" %}
 
 Die einzelnen Fruchtkörper sind in der Regel mit der Schüsselöffnung nach unten am Substrat angewachsen und kommen in den Farbvarianten weiß, zitronengelb (forma campanula) und aschgrau (forma gibbosa) vor. 
 
