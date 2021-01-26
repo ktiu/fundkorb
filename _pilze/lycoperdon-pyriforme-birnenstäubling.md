@@ -16,7 +16,7 @@ literatur:
   - url: https://de.wikipedia.org/wiki/Birnen-St%C3%A4ubling
   - url: http://tintling.com/pilzbuch/arten/l/Lycoperdon_pyriforme.html
 ---
-Der Birnenstäubling gehört zu den sogenannten Bauchpilzen, die ihre Sporen im Inneren ihrer Fruchtkörper bilden. Er ist in Mitteleuropa der einzige Stäubling, der ausschließlich an Holz wächst, das er meist in dichtgedrängten Scharen besiedelt. Man kann ihn daher als unverwechselbar bezeichnen. Im Unterschied zu anderen Lycoperdon-Arten, die eine mit ablösbaren Warzen bedeckte [Exoperidie](Exoperidie "Glossar") besitzen, ist seine Außenhaut lediglich fein kleiig.
+Der Birnenstäubling gehört zu den sogenannten Bauchpilzen, die ihre Sporen im Inneren ihrer Fruchtkörper bilden. Er ist in Mitteleuropa der einzige Stäubling, der ausschließlich an Holz wächst, das er meist in dichtgedrängten Scharen besiedelt. Man kann ihn daher als unverwechselbar bezeichnen. Im Unterschied zu den meisten anderen Lycoperdon-Arten, die eine mit ablösbaren Warzen bedeckte [Exoperidie](Exoperidie "Glossar") besitzen, ist seine Außenhaut lediglich fein kleiig.
 
 Die Fruchtkörper können bis zu 8 cm hoch werden, wobei der fertile rundliche Kopfteil kaum mehr als 4 cm Durchmesser erreicht. Die Farben variieren von hell olivbräunlich bis braun. Die [Gleba](Gleba "Glossar") ist jung weiß, später grüngelb und bei Sporenreife dunkelbraun. Die Stiele sind mit kräftigen [Myzelsträngen](Myzel "Glossar") (Rhizomorphen) mit dem Substrat verbunden.
 
