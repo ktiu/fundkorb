@@ -23,7 +23,7 @@ Am 3. September 2016 fanden wir im Frankfurter Stadtwald in der Nähe der Obersc
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/daldinia_childiae_02_dg.jpg" %}
 {% include bild.html datei="/bilder/daldinia_childiae_05_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Gattungskennzeichen: konzentrische Streifen im Inneren der Fruchtkörper" %}
+{% include abbildung_ende.html legende="Foto links: Gattungskennzeichen: konzentrische Streifen im Inneren der Fruchtkörper" %}
 
 Die Kugelpilze (auch Kohlen- oder Holzkohlenpilze genannt) gehören wie Eckenscheibchen, Kohlenbeeren u. a. zu den [Pyrenomyzeten](Pyrenomyzeten "Glossar"), können jedoch deutlich größere Fruchtkörper bilden wie die genannten typischen Gruppen. Kennzeichnend für alle Daldinia-Arten sind die konzentrischen Zonen im Inneren, die im Schnitt deutlich zu erkennen sind. In Deutschland sind nach dem gegenwärtigen Erkenntnisstand folgende sieben Arten nachgewiesen: 
 
