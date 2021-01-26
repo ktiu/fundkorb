@@ -18,6 +18,3 @@ literatur:
 ---
 Diese Art gehört zur Gruppe der gut abgrenzbaren Rettichhelmlinge, die sich durch für die Gattung relativ große Fruchtkörper und ihren rettichartigen Geruch auszeichnen. Der Schwarzgezähnelte Helmling ist Charakterart [meso](mesophil "Glossar")- und [kalziphiler](calciphil "Glossar") Buchenwälder und in der Rhein-Main-Ebene z. B. im Frankfurter Stadtwald häufig zu finden. Schon mit bloßem Auge, aber viel besser mit der Lupe, sind die schwarzgezähnelten Lamellenschneiden zu erkennen, die dem Pilz seinen Namen gegeben haben.
 
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/mycena_pelianthina_02_dg.jpg" %}
-{% include abbildung_ende.html %}
