@@ -94,7 +94,7 @@ Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschn
 <th><i class="fas fa-arrow-right"></i> 6</th>
 </tr><tr>
 <th>6</th>
-<td>Hutoberfläche braun bis schwarzbraun, ungleichmäßig filzig, mit Acanthozystiden </td>
+<td>Hutoberfläche braun bis schwarzbraun, ungleichmäßig filzig, mit <a href="Acanthozystiden" title="Glossar">Acanthozystiden</a></td>
 <th>S. ostrea (=S. insignitum</th>
 </tr>
 <tr>
