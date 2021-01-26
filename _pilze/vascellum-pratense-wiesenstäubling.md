@@ -31,7 +31,7 @@ Im Tintling-Pilzbuch ist zu lesen:
 
 > "Ein weiterer, früher verwendete Volksname wies treffend auf ein gutes Merkmal hin: Abgeflachter Stäubling. Tatsächlich ist dieser Stäubling meist breiter als hoch und wirkt wie abgestutzt. Das wird noch bei der Sporenreife verstärkt, wenn der  Rand der Scheitelöffnung in sich zusammenfällt und sich dabei weiter auflöst. Zum Schluss bleibt nur noch der sterile, mittlerweile dunkelbraune Basalteil zurück, der dann über die Wintermonate bis zum nächsten Frühjahr ausdauern kann."
 
-Der Wiesenstäubling ist ein durchaus schmackhafter Speisepilz, vergleichbar mit dem Flaschenstäubling, aber ohne dessen spitze Stacheln, die bei der Zubereitung in der Soße schwimmen.
+Der Wiesenstäubling ist ein durchaus schmackhafter Speisepilz, vergleichbar mit dem [Flaschenstäubling](/pilze/lycoperdon-perlatum-flaschenstäubling), aber ohne dessen spitze Stacheln, die bei der Zubereitung in der Soße schwimmen.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/vascellum_pratense_05_dg.jpg" %}
