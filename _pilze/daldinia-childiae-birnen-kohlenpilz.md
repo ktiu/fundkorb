@@ -50,13 +50,10 @@ Die Fruchtkörper von Daldinia childiae sind mit 0,5 bis 3 cm Durchmesser relati
 {% include bild.html datei="/bilder/daldinia_childiae_07_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Die schwarzen Rhizomorphen gehören nicht zu den hier schön birnenförmigen Kohlenpilzen, sondern zum Hallimasch" %}
 
-
-
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/daldinia_childiae_10_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/daldinia_childiae_11_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
-
-
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/daldinia_childiae_09_dg.jpg" nocrop=true %}
