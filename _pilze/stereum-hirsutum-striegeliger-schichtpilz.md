@@ -26,7 +26,7 @@ Schichtpilze besitzen ein glattes bis runzeliges Hymenium (Fruchtschicht), sie w
 {% include bild.html datei="/bilder/stereum_hirsutum_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Zusammen mit Kohlenbeeren an einem Buchenstamm" %}
 
-Der Striegelige Schichtpilz ist einer der häufigsten Baumpilze überhaupt. Man bekommt ihn wohl in jedem Laubwald zu sehen. Er gehört zu den Erstbesiedlern von Totholz, findet sich gern auf der Rinde gefällter Eichenstämme, aber auch an abgestorbenen Ästen und Stümpfen nahezu aller Laubbaumarten wie auch an im Freien verbautem Holz (Zaunpfähle, Waldbänke, etc.). Im befallenen Holz erzeugt er als [Saprobiont](Saprobiont "Glossar") oder Schwächeparasit eine intensive Weißfäule. Der Pilz ist einjährig und kann auch frostige Winter schadlos überstehen.
+Der Striegelige Schichtpilz ist einer der häufigsten Baumpilze überhaupt. Man bekommt ihn wohl in jedem Laubwald zu sehen. Er gehört zu den Erstbesiedlern von Totholz, findet sich gern auf der Rinde gefällter Eichenstämme, aber auch an abgestorbenen Ästen und Stümpfen nahezu aller Laubbaumarten wie auch an im Freien verbautem Holz (Zaunpfähle, Waldbänke, etc.). Im befallenen Holz erzeugt er als [Saprobiont](saprobiontisch "Glossar") oder Schwächeparasit eine intensive Weißfäule. Der Pilz ist einjährig und kann auch frostige Winter schadlos überstehen.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/stereum_hirsutum_05_dg.jpg" nocrop=true %}
@@ -65,7 +65,7 @@ Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschn
 </tr>
 <tr>
   <th>3</th>
-  <td><a href="Resupinat" title="Glossar">Resupinat</a>, mit schmaler, kaum abstehender Hutkante, große Flächen überziehend, bevorzugt an Hasel </td>
+  <td><a href="resupinat" title="Glossar">Resupinat</a>, mit schmaler, kaum abstehender Hutkante, große Flächen überziehend, bevorzugt an Hasel </td>
   <th>S. rugosum</th>
 </tr>
 <tr>
