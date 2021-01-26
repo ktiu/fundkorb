@@ -70,12 +70,12 @@ Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschn
 </tr>
 <tr>
 <th>3*</th>
-<td>Effuso-reflex = mit deutlich abstehenden Hutkanten (1-2 cm), auffallend gekräuselt, fast nur an Eiche</td>
+<td><a href="effuso-reflex" title="Glossar">Effuso-reflex</a> mit deutlich abstehenden Hutkanten (1-2 cm), auffallend gekräuselt, fast nur an Eiche</td>
 <th>S. gausapatum</th>
 </tr>
 <tr>
 <th>4</th>
-<td>Cortex vorhanden (dunkle Linie unter dem Tomentum) </td>
+<td><a href="Cortex" title="Glossar">Cortex</a> vorhanden (dunkle Linie unter dem Tomentum) </td>
 <th><i class="fas fa-arrow-right"></i> 5</th>
 </tr>
 <tr>
