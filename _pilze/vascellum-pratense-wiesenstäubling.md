@@ -20,7 +20,7 @@ Der Wiesenstäubling hat eine recht charakteristische kissenförmige Form. Dazu 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/vascellum_pratense_02_dg.jpeg" nocrop=true %}
-{% include abbildung_ende.html legende="Der linke durchgeschnittene Fruchtkörper zeigt zwar eine einheitlich weiße Farbe, lässt aber eine Trennlinie zwischem dem fertilen Kopf- und sterilen Stielteil erkennen." %}
+{% include abbildung_ende.html legende="Der linke durchgeschnittene Fruchtkörper zeigt zwar eine einheitlich weiße Farbe, lässt aber eine Trennlinie zwischen fertilem Kopf- und sterilem Stielteil erkennen." %}
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/vascellum_pratense_03_dg.jpg" nocrop=true %}
