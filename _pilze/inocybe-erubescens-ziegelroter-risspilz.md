@@ -11,6 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/inocybe_erubescens_01_gsch.jpg
+  legende: Alle Fotos auf dieser Seite von Georg Schabel
 literatur:
   - url: http://tintling.com/pilzbuch/arten/i/Inocybe_erubescens.html
 ---
