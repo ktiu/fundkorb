@@ -15,7 +15,7 @@ literatur:
   - text: "Karin Montag in: Der Tintling Nr. 88 (3/2014), Seite 93 - 99: Mycena Teil
       8: Rindenhelmlinge"
 ---
-Die Gruppe der Rindenhelmlinge, die auch wirklich auf Baumrinde wachsen, ist mit 7 Arten in Deutschland gut überschaubar, auch wenn diese in der Systematik in zwei unterschiedlichen Sektionen zu finden sind: Supinae und  Sacchariferae. Der Blaue Rindenhelmling *Mycena pseudocorticola* scheint durch seine Farbe gut abgrenzbar zu sein, doch wenn diese nicht eindeutig ausgeprägt ist oder altersbedingt verändert erscheint, könnten Verwechslungen mit dem Rötlichen Rindenhelmling *[Mycena meliigena](/pilze/mycena-meliigena-rötlicher-rindenhelmling)* vorkommen. In Zweifelsfällen müssen mikroskopische Merkmale geprüft werden. Beide Arten sind durch die Länge der Endzellen an den [Stielrindenhyphen](Hyphen "Glossar") unterschieden:
+Die Gruppe der Rindenhelmlinge, die auch wirklich auf Baumrinde wachsen, ist mit 7 Arten in Deutschland gut überschaubar, auch wenn diese in der Systematik in zwei unterschiedlichen Sektionen zu finden sind: Supinae und  Sacchariferae. Der Blaue Rindenhelmling *Mycena pseudocorticola* scheint durch seine Farbe gut abgrenzbar zu sein, doch wenn diese nicht eindeutig ausgeprägt ist oder altersbedingt verändert erscheint, könnten Verwechslungen mit dem [Rötlichen Rindenhelmling *Mycena meliigena*](/pilze/mycena-meliigena-rötlicher-rindenhelmling) vorkommen. In Zweifelsfällen müssen mikroskopische Merkmale geprüft werden. Beide Arten sind durch die Länge der Endzellen an den [Stielrindenhyphen](Hyphen "Glossar") unterschieden:
 
 Mycena pseudocorticola: bis 32 µm lang\
 Mycena meliigena: bis 80 µm lang 
