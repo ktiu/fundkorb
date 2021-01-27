@@ -20,7 +20,7 @@ literatur:
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mycena_speirea_01_rm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/mycena_speirea_02_rm.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="2 Fotos von Rudolf Manhart (Rudis Pilzgalerie: http://www.pilzseite.de/Pilzgalerie/Pilzgalerie.htm)" %}
+{% include abbildung_ende.html legende="2 Fotos von Rudi Manhart (Rudis Pilzgalerie: http://www.pilzseite.de/Pilzgalerie/Pilzgalerie.htm)" %}
 
 Bogige Lamellen in Verbindung mit einem etwas krustig wirkenden Buckelchen auf dem Hut sind in dieser Kombination schon ein ziemlich sicheres Indiz, dass es sich um *Mycena speirea* handelt. Die dünnen bis zur Mitte durchscheinend gerieften Hütchen erreichen Durchmesser von 0,5 bis 1,5 cm, sind grau- bis ockerbräunlich gefärbt, zum Rand hin heller. Geruch und Geschmack unauffällig. Die hohlen, elastischen, etwas [hyalinen](hyalin "Glossar") Stiele sind weißlich bis gelblich und zumindest bei jungen Pilzen über die gesamte Länge mehlartig bepudert, an der Basis mit feinen [Myzelsträngen](Myzel "Glossar"). Die Zahl der durchgehenden Lamellen geben *Breitenbach & Kränzlin* mit 10 bis 15 an; sie sind im Alter durch [Anastomosen](Anastomosen "Glossar") verbunden. 
 
