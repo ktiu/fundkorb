@@ -24,7 +24,7 @@ Die Hundsrute gehört in die Verwandtschaft der Stinkmorchelartigen (Phallales),
 {% include bild.html datei="/bilder/mutinus_caninus_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Am 24.06.2016 in einem Park in Dietzenbach" %}
 
-Der wissenschaftliche Name Mutinus caninus bedeutet übersetzt "Kleiner Hundepenis". Ihr Geruch wird als "an Katzenkot erinnernd" beschrieben. Wer würde sich da mehr ärgern, der Hund oder die Katze?
+Der wissenschaftliche Name Mutinus caninus bedeutet übersetzt "Kleiner Hundepenis". Ihr Geruch wird als "an Katzenkot erinnernd" beschrieben, was die Frage aufwirft: wer würde sich da mehr beleidigt fühlen, Katzen oder Hunde?
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mutinus_caninus_03_dg.jpg" nocrop=true %}
