@@ -14,13 +14,11 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Gemeine_Hundsrute
 ---
-
-
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/mutinus_caninus_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Die Hundsrute gehört in die Verwandtschaft der Stinkmorchelartigen (Phallales), ist aber deutlich kleiner als die bestens bekannte und und wegen ihres widerlichen Geruchs berüchtigte Stinkmorchel. Sie stinkt auch längst nicht so unangenehm wie diese, entwickelt sich aber ebenfalls aus einem Hexenei, verliert jedoch nach dem "Schlüpfen" rasch an Standfestigkeit, knickt um oder legt sich flach auf den Waldboden. Dabei wird sie leicht übersehen. Der nicht deutlich abgesetzt Kopfteil ist zunächst von einer olivgrünen schleimigen Sporenmasse überzogen, die von Aasfliegen verzehrt wird. Danach kommt die Orangefarbe zum Vorschein.
+Die Hundsrute gehört in die Verwandtschaft der Stinkmorchelartigen (Phallales), ist aber deutlich kleiner als die bestens bekannte und und wegen ihres widerlichen Geruchs berüchtigte [Stinkmorchel](/pilze/phallus-impudicus-stinkmorchel). Sie stinkt auch längst nicht so unangenehm wie diese, entwickelt sich aber ebenfalls aus einem Hexenei, verliert jedoch nach dem "Schlüpfen" rasch an Standfestigkeit, knickt um oder legt sich flach auf den Waldboden. Dabei wird sie leicht übersehen. Der nicht deutlich abgesetzt Kopfteil ist zunächst von einer olivgrünen schleimigen Sporenmasse überzogen, die von Aasfliegen verzehrt wird. Danach kommt die Orangefarbe zum Vorschein.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/mutinus_caninus_02_dg.jpg" nocrop=true %}
