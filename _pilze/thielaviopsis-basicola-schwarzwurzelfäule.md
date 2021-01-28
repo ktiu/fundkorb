@@ -12,7 +12,6 @@ hauptbild:
   anzeige: true
   datei: /bilder/thielaviopsis_basicola_01_dg.jpg
 literatur:
-  - url: http://www.hortipendium.de/Thielaviopsis_basicola
   - url: https://www.pilzforum.eu/board/thread/22524-schimmelpilze-auf-karotten/
   - url: https://translate.google.de/translate?hl=de&sl=en&u=https://en.wikipedia.org/wiki/Thielaviopsis_basicola&prev=search&pto=aue
 ---
