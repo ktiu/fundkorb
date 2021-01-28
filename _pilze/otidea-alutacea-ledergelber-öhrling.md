@@ -11,9 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/otidea_alutacea_01_dg.jpg
-literatur:
-  - text: ""
-    url: file:///C:/Users/dgewalt/AppData/Local/Temp/Key-EN-Otidea.pdf
+literatur: []
 ---
 Öhrlinge sind mit den Becherlingen (Gattung Peziza) verwandt und unterscheiden sich makroskopisch von diesen durch bis zum Grund eingeschlitzte Fruchtkörper, die bei manchen die Form von Ohren annehmen können (Hasenohr, Eselsohr). Der Ledergelbe Öhrling gehört zu denen, die eine solche Ohrform nur selten ausbilden. Typisch ist die lehm- oder ledergelbe Farbe, die an der Außenseite der Fruchtkörper heller ist. 
 
