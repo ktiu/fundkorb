@@ -21,4 +21,8 @@ In der Literatur wird Otidea alutacea meist als seltene Art bezeichnet, in der R
 
 Die Anzahl der in Deutschland vorkommenden Öhrlingsarten ist überschaubar. Lt. Verbrei-tungsatlas (Krieglsteiner 1993) sind es zehn, von denen vier als extrem selten eingestuft werden können. Ihre Bestimmung ist nicht immer einfach, zur Absicherung sollten mikroskopische Merkmale herangezogen werden. Auch die chemische Reaktion mit KOH (Kaliumhydroxyd) ist zu beachten.
 
-Die Erscheinungszeit wird in der Literatur meist mit August/September bis Oktober angegeben. Mein letzter Fund ist vom 2. Juni 2019, was möglicherweise mit der aktuellen Klimaerwärmung in Zusammenhang gebracht werden kann. Auch zahlreiche andere Pilzarten erscheinen zunehmend früher als gewohnt. 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/otidea_alutacea_asci_02_fk.jpg" %}
+{% include abbildung_ende.html legende="Asci 8-sporig, 250 - 300 µm lang, Sporen mit 2 Tropfen, 13 - 17 x 6 - 8 µm, dazwischen einige Para¬¬physen, deren Spitzen spazierstockartig gebogen sind    (Mikrofoto: Frank Kaster)" %}
+
+Die Erscheinungszeit wird in der Literatur meist mit August/September bis Oktober angegeben. Mein letzter Fund ist vom 2. Juni 2019, was möglicherweise mit der aktuellen Klimaerwärmung in Zusammenhang gebracht werden kann. Auch zahlreiche andere Pilzarten erscheinen zunehmend früher als gewohnt.
