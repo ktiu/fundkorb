@@ -17,6 +17,11 @@ literatur:
 ---
 Der Butter-Röhrling, von Pilzsammlern auch Butterpilz genannt, gehört zur Gattung der Schmierröhrlinge, und das zurecht. Wie die Fotos oben zeigen, haben sie einen deutlich schmierigen Hut. Die Huthaut und der Stiel unterhalb des Stielrings sind von einer vor allem bei Feuchtigkeit recht dicken Schleimschicht überzogen. Der Name Butterpilz hingegen bezieht sich vermutlich auf die Farbe des Fleisches. Es ist hell- bis buttergelb (der wissenschaftliche Artname *luteus* bedeutet gelb!)
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/suillus_luteus_02_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/suillus_luteus_03_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
 In typischer Erscheinungsform sind die Hüte kastanienbraun gefärbt (Foto links), oft mit eingewachsener radialer Maserung. Gelblich braune Farben (Foto rechts) könnten zu Verwechslungen mit dem ebenfalls essbaren [Goldröhrling Suillus grevillei](/pilze/suillus-grevillei-goldröhrling) führen. Hier achte man auf die Begleitbäume. Der Butter-Röhrling wächst bei Kiefern, der Goldröhrling ausschließlich bei Lärchen.
 
 Mitunter findet man Butterpilze, die keinen Ring am Stiel am Stiel haben. Dabei handelt es sich um den [Ringlosen Butter-Röhrling (*Suillus collinitus*)](/pilze/suillus-collinitus-ringloser-butter-röhrling), der ebenfalls bei Kiefern wächst. Im Sandhorst-Wald bei Dietzenbach wuchsen beide Arten jahrelang nahe beieinander - fein säuberlich voneinander getrennt durch einen breiten Waldweg. Auf einer Seite die Ringlosen, auf der anderen die mit Stielring. 
