@@ -34,9 +34,9 @@ Er bildet konsolenförmige (in jungem Stadium rundliche, knubbelige) Fruchtkörp
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tyromyces_kmetii_04_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/tyromyces_kmetii_05_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Die Poren sind sehr fein (3 - 4 pro mm), weißlich bis hellgelb, und unregelmäßig eckig geformt (Lupe!)" %}
 
-Die Poren sind sehr fein (3 - 4 pro mm), weißlich bis hellgelb, und unregelmäßig eckig geformt (Lupe!).
+
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tyromyces_kmetii_02_dg.jpg" nocrop=true %}
