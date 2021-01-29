@@ -21,7 +21,7 @@ literatur:
 
 Bei unserem Erstfund dieses Pilzes an der Rodgaustraße Dietzenbach, waren nahezu alle der dort wachsenden Greiskrautpflanzen mit dem Rost befallen. Um Puccinia lagenophorae von der makro- und mikroskopisch nicht unterscheidbaren P. dioicae zu trennen, ist auf das Vorhandensein von Teleutosporen zu achten. Diese befinden sich als kleine dunkelbraune Pusteln ganz nahe bei den Aecien, auf den Fotos auf den roten Streifen zu sehen.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/puccinia_lagenophorae_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/puccinia_lagenophorae_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
