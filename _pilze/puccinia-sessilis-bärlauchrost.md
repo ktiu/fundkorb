@@ -11,8 +11,7 @@ profil:
 hauptbild:
   anzeige: false
   datei: /bilder/puccinia_sessile_01_dg.jpg
-literatur:
-  - url: ""
+literatur: []
 ---
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/puccinia_sessile_01_dg.jpg" %}
