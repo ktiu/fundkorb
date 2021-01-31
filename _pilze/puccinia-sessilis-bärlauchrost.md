@@ -22,7 +22,7 @@ Rostpilze sind nicht immer leicht zu bestimmen. Oft ist es erforderlich, auch de
 
 Puccinia sessilis findet sich auch auf Maiglöckchen, Aaronstab sowie diversen Liliengewächsen und Gräsern. Auffallend aber nicht unbedingt kennzeichnend ist die kreisförmige Anordnung der Aecienlager.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/puccinia_sessile_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/puccinia_sessile_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
