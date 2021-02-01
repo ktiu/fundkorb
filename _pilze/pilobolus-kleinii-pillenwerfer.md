@@ -32,5 +32,3 @@ Wenn ich die Adresse des Pferdes wüsste, das mir zu meinem ersten gelungenen Ku
 {% include bild.html datei="/bilder/pilobolus_kleinii_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/pilobolus_kleinii_05_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
-
-Video-Empfehlung (unbedingt anschauen): https://av.tib.eu/media/10375
