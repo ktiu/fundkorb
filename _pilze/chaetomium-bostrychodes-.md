@@ -18,9 +18,9 @@ Seit einiger Zeit kultivieren wir Kaninchenkötel in der Hoffnung, den wunderbar
 
 Ich folgte ihrem Hinweis und wurde im Internet fündig. Hier stieß ich auf einen Mönchengladbacher Fund von *Hans Bender*, ebenfalls auf Kaninchendung, der von *Ralf Dahlheuser* als *Chaetomium bostrychodes* identifiziert wurde. Deren Angaben zu den Mikromerkmalen: 
 
-Asci: 8-sp, - 45 x - 10mµ  
-Sporen: 4,8 - 7,2 x 4,5 - 5,6 mµ, zitronenförmig  
-Haare: 120 - 190 mµ lang, an der Basis bis 6 -7 mµ breit, oft septiert, inkrustiert, Spitze verjüngend oder gebogen.
+**Asci:** 8-sp, - 45 x - 10mµ\
+**Sporen:** 4,8 - 7,2 x 4,5 - 5,6 mµ, zitronenförmig\
+**Haare:** 120 - 190 mµ lang, an der Basis bis 6 -7 mµ breit, oft septiert, inkrustiert, Spitze verjüngend oder gebogen.
 
 Sporenform und -maße und auch die spazierstockartige Form der Haare stimmten mit meinen Überprüfungen bestens überein.
 
