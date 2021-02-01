@@ -14,8 +14,6 @@ hauptbild:
 literatur:
   - url: https://www.wissenschaft-aktuell.de/artikel/Das_schnellste_biologische_Geschoss_der_Welt1771015585330.html
   - url: http://tintling.com/pilzbuch/arten/p/Pilobolus_kleinii.html
-  - text: https://av.tib.eu/media/10375ideo-Empfehlung (unbedingt anschauen!)
-    url: https://av.tib.eu/media/10375
 ---
 Sie sind winzig klein, die erstaunlichen Pillenwerfer, und so wie auf den Fotos nur mit einer ausreichend vergrößernden Lupe zu sehen. Dabei muss man ganz nah ran an die Pferdeäpfel! Keine Angst. Pferdeäpfel gehören im Sortiment der Säugetierausscheidungen noch zu den appetitlichsten und stinken kaum. Am besten, man holt sie sich nach Hause in den Garten oder auf den Balkon, verstaut sie in einem geeigneten Behälter und deckt ihn mit einer Glasscheibe oder transparenten Folie ab. Darunter entwickelt sich ein Treibhausklima, das für die Kultivierung der bemerkenswerten Pilzchen bestens geeignet ist. Die Pferdeäpfel sollten nicht zu frisch und nicht zu alt sein, am besten zwei bis drei Tage. Das ist wichtig, denn bei meinen zahllosen bisherigen Kulturversuchen hatte ich nie darauf geachtet und wohl deshalb keinen Erfolg gehabt. Ein einziges Mal habe ich Pillenwerfer in freier Natur entdeckt - ein sicher seltener Glücksfall - und zwar auf Kaninchenköteln.
 
@@ -32,3 +30,6 @@ Wenn ich die Adresse des Pferdes wüsste, das mir zu meinem ersten gelungenen Ku
 {% include bild.html datei="/bilder/pilobolus_kleinii_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/pilobolus_kleinii_05_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
+
+Video-Empfehlung (unbedingt anschauen!)\
+<https://av.tib.eu/media/10375>
