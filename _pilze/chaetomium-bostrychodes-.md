@@ -24,7 +24,7 @@ Haare: 120 - 190 mµ lang, an der Basis bis 6 -7 mµ breit, oft septiert, inkrus
 
 Sporenform und -maße und auch die spazierstockartige Form der Haare stimmten mit meinen Überprüfungen bestens überein.
 
-Beigefügt waren nachfolgende Fotos und der Hinweis, dass die gemessenen Mikromerkmale nahe bei denen für Chaetomium robustum liegen. Allerdings sind dessen [Perithezien](Perithezien "Glossar") deutlich kopfig geformt, was bei unseren Kulturen nicht der Fall war.
+Beigefügt waren nachfolgende Fotos und der Hinweis, dass die gemessenen Mikromerkmale nahe bei denen für Chaetomium robustum liegen, dessen [Perithezien](Perithezien "Glossar") allerdings deutlich kopfig geformt sind, was bei unseren Kulturen nicht der Fall war.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/chaetomium_bostrychodes_02_bd.jpg" nocrop=true %}
