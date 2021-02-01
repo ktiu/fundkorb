@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/pilobolus_kleinii_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Ein besonders faszinierender [Fundkorbpilz](AA "Glossar") ist der *Pillenwerfer (Pilobolus kleinii)*, den man so wie auf dem Foto nur mit einer stark vergrößernden Lupe sehen kann. Trotz seiner Winzigkeit ist er ein bemerkenswerter Rekordhalter. Seine Sporenkapseln sind die schnellsten Flugobjekte in der belebten Natur. [Mehr lesen...](/pilze/pilobolus-kleinii-pillenwerfer)
+Ein besonders faszinierender [Fundkorbpilz](AA "Glossar-") ist der *Pillenwerfer (Pilobolus kleinii)*, den man so wie auf dem Foto nur mit einer stark vergrößernden Lupe sehen kann. Trotz seiner Winzigkeit ist er ein bemerkenswerter Rekordhalter. Seine Sporenkapseln sind die schnellsten Flugobjekte in der belebten Natur. [Mehr lesen...](/pilze/pilobolus-kleinii-pillenwerfer)
 
 - - -
 
