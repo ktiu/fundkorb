@@ -11,6 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/gomphidius_maculatus_01_gsch.jpg
+  legende: "Foto: Georg Schabel"
 literatur:
   - url: https://de.wikipedia.org/wiki/Fleckender_L%C3%A4rchen-Schmierling
 ---
