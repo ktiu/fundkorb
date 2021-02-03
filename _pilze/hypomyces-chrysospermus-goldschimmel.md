@@ -17,4 +17,9 @@ literatur:
 ---
 Vor allem Röhrlinge werden vom Goldschimmel befallen, insbesondere bei feuchtem Wetter. Die Infektion beginnt mit kleinen grauen Flecken, die schnell größer werden und bald als weißer, im Endstadium goldgelber Belag den ganzen Fruchtkörper überziehen. Pilze im oben abgebildeten Zustand werden sicher nicht gesammelt, aber die grauen Flecken werden oft übersehen und können dann ernsthafte gesundheitliche Konsequenzen haben. Wir kennen es aus der Küche. Auch Brot kann von Schimmel befallen werden, oft schon wenige Tage nach dem Kauf. Wir wissen, dass es nicht mehr gegessen werden darf. Es genügt nicht, betroffene Stellen auszuschneiden. Genau so ist es bei Pilzen.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/hypomyces_chrysospermum_03_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/hypomyces_chrysospermus_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
 Über Gefahren beim Verzehr verdorbener Pilze informiert das [Faltbaltt *"Gammelpilze"*](/assets/docs/Fundkorb.de-Gammelpilze.pdf), das 2014 auf Initiative von Dieter Gewalt vom Gesundheitsamt der Stadt Frankfurt herausgegeben worden ist. Siehe auch den [Fundkorb-Artikel](/artikel/gammelpilze.html) zu diesem Thema.
