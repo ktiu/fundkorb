@@ -43,7 +43,7 @@ Beim häufigen Goldschimmel beginnt es mit kleinen grauen Flecken, die schnell g
 {% include bild.html datei="/bilder/gammelpilze_03_dg.jpg" %}
 {% include abbildung_ende.html legende="Eiweißzersetzung im Hutfleisch" %}
 
-Von außen nicht erkennbar ist die Eiweißzersetzung des Pilzfleisches. Dabei entstehen Stoffe, die gesundheitsschädlich sein können. Vor allem bei Röhrlingen achte man auf farbliche Veränderungen im Hutfleisch, die oft nur andeutungsweise zu erkennen sind. Bevor Sie einen Pilz abschneiden: drücken Sie mit dem Finger auf die Hutoberfläche. Sie muss sich fest anfühlen. Lässt sich ohne nennenswerten Kraftaufwand eine Delle hineindrücken, ist der Pilz für Speisezwecke nicht mehr geeignet. Meist ist er auch schon von Maden befallen. Lassen Sie ihn stehen - er ist immer noch in der Lage, seine Sporen freizusetzen und so zum Erhalt seiner Art beitragen.
+Von außen nicht erkennbar ist die Eiweißzersetzung des Pilzfleisches. Dabei entstehen Stoffe, die gesundheitsschädlich sein können. Vor allem bei Röhrlingen achte man auf farbliche Veränderungen im Hutfleisch, die oft nur andeutungsweise zu erkennen sind. Bevor Sie einen Pilz abschneiden: drücken Sie mit dem Finger auf die Hutoberfläche. Sie muss sich fest anfühlen. Lässt sich ohne nennenswerten Kraftaufwand eine Delle hineindrücken, ist der Pilz für Speisezwecke nicht mehr geeignet. Meist ist er auch schon von Maden befallen. Lassen Sie ihn stehen - er ist immer noch in der Lage, seine Sporen freizusetzen und kann so zum Erhalt seiner Art beitragen.
 
 ##### Madenbefall
 
