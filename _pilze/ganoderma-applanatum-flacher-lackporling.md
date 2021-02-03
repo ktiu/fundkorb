@@ -35,7 +35,7 @@ Im Sommer und Herbst produziert der Pilz enorme Mengen von Sporen, die sich in d
 {% include bild.html datei="/bilder/ganoderma_applanatum_07_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Ein wichtiges makroskopisches Kennzeichen des Flachen Lackporlings ist die mit dem Fingernagel eindrückbare graue bis braune Kruste. Beim mitunter recht ähnlichen Wulstigen Lackporling ist diese dicker, härter und nicht eindrückbar. Außerdem unterscheiden sich beide durch deutlich unterschiedliche Sporengrößen (Maßangaben von Hermann Jahn):
+Ein wichtiges makroskopisches Kennzeichen des Flachen Lackporlings ist die mit dem Fingernagel eindrückbare graue bis braune Kruste. Beim mitunter recht ähnlichen [Wulstigen Lackporling Ganoderma adspersum](/pilze/ganoderma-adspersum-wulstiger-lackporling) ist diese dicker, härter und nicht eindrückbar. Außerdem unterscheiden sich beide durch deutlich unterschiedliche Sporengrößen (Maßangaben von Hermann Jahn):
 
 Flacher Lackporling: 6 - 8,5 x 4,5 - 5 µm\
 Wulstiger Lackporling: 9 -11,5 x 6 - 7,5 µm
