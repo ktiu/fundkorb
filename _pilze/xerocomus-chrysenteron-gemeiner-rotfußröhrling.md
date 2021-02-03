@@ -22,7 +22,7 @@ Der Rotfußröhrling ist ein typischer Filzröhrling, d. h. seine Huthaut fühlt
 {% include bild.html datei="/bilder/xerocomus_chrysenteron_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Rotfußröhrlinge werden vor allem bei feuchtem Wetter wie auch andere Röhrlingsarten vom Goldschimmel befallen. Die Infektion beginnt mit kleinen grauen Flecken, die schnell größer werden und bald als weißer, im Endstadium goldgelber Belag den ganzen Fruchtkörper überziehen.
+Rotfußröhrlinge werden vor allem bei feuchtem Wetter wie auch andere Röhrlingsarten vom [Goldschimmel](/pilze/hypomyces-chrysospermus-goldschimmel) befallen. Die Infektion beginnt mit kleinen grauen Flecken, die schnell größer werden und bald als weißer, im Endstadium goldgelber Belag den ganzen Fruchtkörper überziehen.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/xerocomus_chrysenteron_03_goldschimmel_dg.jpg" %}
