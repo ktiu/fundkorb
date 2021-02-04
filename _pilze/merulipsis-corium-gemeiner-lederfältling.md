@@ -10,7 +10,7 @@ profil:
   aktualisiert: 2021-02-04
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/meruliopsis_corium_03_dg.jpg
 ---
 {% include abbildung_start.html stil="standard" %}
