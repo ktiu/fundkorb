@@ -26,7 +26,7 @@ Mit Düngerlingen beschäftigen sich nur wenige Pilzfreunde. Die Gattungszugehö
 {% include bild.html datei="/bilder/panaeolus_olivaceus_07_b-k.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: Sporen Panaeolus foenisecii -- Mitte: Sporen Panaeolus olivaceus (aus: Pilze der Schweiz Band 4, Seite 258)" %}
 
-Diese beiden Arten sind also leicht auseinanderzuhalten, wenn man mikroskopiert. Makrosko-pisch zeichnet sich Panaeolus olivaceus durch ein weiteres Merkmal aus. Seine Hüte verfärben sich beim Trocknen grau, während die anderer Düngerlinge mehr lederbräunlich verblassen.
+Diese beiden Arten sind also leicht auseinanderzuhalten, wenn man mikroskopiert. Makroskopisch zeichnet sich Panaeolus olivaceus durch ein weiteres Merkmal aus. Seine Hüte verfärben sich beim Trocknen grau, während die anderer Düngerlinge mehr lederbräunlich verblassen.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/panaeolus_olivaceus_05_fk.jpg" nocrop=true %}
