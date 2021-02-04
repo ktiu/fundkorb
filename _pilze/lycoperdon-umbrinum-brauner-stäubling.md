@@ -17,8 +17,8 @@ literatur:
 ---
 Die Stäublingsgattung *Lycoperdon* ist mit etwa 15 Arten in Deutschland vertreten, die nicht immer leicht voneinander zu unterscheiden sind. Bei einer systematischen Bestimmung sind Sporenstaubfarbe und einige Mikromerkmale zu beachten.
 
-Die braune Farbe des Braunen Stäublings ist keineswegs für diese Art charakteristisch. Selbst der weiße Flaschenstäubling, der mit Abstand häufigste Verteter der Gattung, färbt sich im Alter braun. Im Unterschied zu diesem und auch zum Stinkenden Stäubling sind die in braunen Grüppchen zusammenstehenden Stacheln nur sehr kurz (bis 1 mm) und hinterlassen nach dem Abfallen kein netzartiges Muster auf der [Endoperidie](<Endoperidie "Glossar">). Außerdem sind die Fruchtkörper im Durchschnitt deutlich kleiner als bei den beiden häufigeren Doppelgängern. Sein Geruch und Geschmack wird als angenehm pilzig beschrieben, als Speisepilz kann er aber keinesfalls empfohlen werden.
+Die braune Farbe des Braunen Stäublings ist keineswegs für diese Art charakteristisch. Selbst der weiße Flaschenstäubling, der mit Abstand häufigste Verteter der Gattung, färbt sich im Alter braun. Im Unterschied zu diesem und auch zum Stinkenden Stäubling sind die in braunen Grüppchen zusammenstehenden Stacheln nur sehr kurz (bis 1 mm) und hinterlassen nach dem Abfallen kein netzartiges Muster auf der [Endoperidie](Endoperidie "Glossar"). Außerdem sind die Fruchtkörper im Durchschnitt deutlich kleiner als bei den beiden häufigeren Doppelgängern. Sein Geruch und Geschmack wird als angenehm pilzig beschrieben, als Speisepilz kann er aber keinesfalls empfohlen werden.
 
-Die rundlichen Sporen messen 3,5 bis 5,5 µm, sind punktiert bis feinwarzig und haben anhaftende kurze Sterigmenreste. Das Sporenpulver ist gelbbräunlich. 
+Die rundlichen Sporen messen 3,5 bis 5,5 µm, sind punktiert bis feinwarzig und haben anhaftende kurze [Sterigmenreste](Sterigmen "Glossar"). Das Sporenpulver ist gelbbräunlich. 
 
 Der Braune Stäubling wächst etwa von August bis September in Nadelwäldern, bevorzugt bei Fichten und in höheren Lagen, lt. Breitenbach & Kränzlin gern in Kahlschägen.
