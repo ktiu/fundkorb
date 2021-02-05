@@ -19,6 +19,6 @@ Die konstant spitz gebuckelte Varietät des Gilbenden Erdritterlings, die wegen 
 
 Nun konnte ich sie auch in Dietzenbach im Carré um unsere Wohnanlage an der Rodgaustraße nachweisen. Sie wuchs unter Hainbuchensträuchern an der Zufahrt zu einer Tiefgarage.
 
-In der [Online-Kartierung der DGfM](http://hessen.pilze-deutschland.de/organismen/tricholoma-inocybeoides-a-pearson-1938) sind 5 hessische Fundpunkte unter dem Namen Tricholoma inocybeoides (Spitzgebuckelter Ritterling) verzeichnet, davon zwei in der Rhein-Main-Ebene (Stand Februar 2021)
+In der [Online-Kartierung der DGfM](http://hessen.pilze-deutschland.de/organismen/tricholoma-inocybeoides-a-pearson-1938) sind 6 hessische Fundpunkte unter dem Namen Tricholoma inocybeoides (Spitzgebuckelter Ritterling) verzeichnet, davon drei in der Rhein-Main-Ebene (Stand: Februar 2021)
 
 Die Eigenständigkeit der Art wird heute nicht mehr von allen Mykologen anerkannt sondern unter *Tricholoma argyraceum* synonymisiert.
