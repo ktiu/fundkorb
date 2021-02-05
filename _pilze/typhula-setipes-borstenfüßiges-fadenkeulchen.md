@@ -22,7 +22,7 @@ Die zahlreichen Arten dieser Gattung zu bestimmen (weltweit über 60, in Europa 
 
 Die Fruchtkörper sind in ein weißes bis cremefarbenes, kopfig bis keulig geformtes Kopfteil und einen meist deutlich längeren Stiel gegliedert. Dieser ist etwas dunkler und fein flaumig. Auf obiger Abbildung erscheint er eher glatt und [hyalin](hyalin "Glossar"), mit Lupe war allerdings die flaumige Bekleidung zu erkennen. Die Art kann mit oder ohne Sklerotium vorkommen.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/typhula_setipes_02_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/typhula_setipes_03_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/typhula_setipes_04_fk.jpg" nocrop=true %}
