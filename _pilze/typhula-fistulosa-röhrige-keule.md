@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: "Typhula fistulosa "
   deutsch: Röhrige Keule
-  referenz: Holmsk.) Olariaga 2013
+  referenz: (Holmsk.) Olariaga 2013
   synonym: "Synonym: Macrotyphula fistulosa"
   erlaeuterung: fistulosa = röhrig
   familie: Typhulaceae
