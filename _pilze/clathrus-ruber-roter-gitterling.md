@@ -33,3 +33,5 @@ Das Rhein-Main-Gebiet und hier speziell der Raum Frankfurt ist laut Verbreiungsa
 Man achte besonders auf die Struktur des Hexeneis, das den Fotografen an die Konturen eines Fußballs erinnert hat. Trefflich beobachtet und schon ein untrügliches Indiz dafür, dass ein Gitterling daraus schlüpfen wird. Beim Vergleich mit dem Fußball muss aber auf die Größenverhältnisse hingewiesen werden. Die Hexeneier erreichen kaum den Durchmesser eines Tischtennisballs und ausgewachsene Fruchtkörper höchstens 10 cm.
 
 Ein weiterer Fund gelang am 11. August 2014: ein „geschlüpfter“ Gitterling und drei Hexeneier am Waldrand des Steinberger Waldes nahe der Alten Babenhäuser Straße, am Zaun einer Schrebergärtenanlage.
+
+Der Gitterling war 2011 [Pilz des Jahres](https://www.dgfm-ev.de/pilz-des-jahres/2011-roter-gitterling).
