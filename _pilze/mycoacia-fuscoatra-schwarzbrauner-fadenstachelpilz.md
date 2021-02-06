@@ -14,7 +14,7 @@ hauptbild:
   legende: Der rotbraune Fleck auf dem Fruchtkörper ganz links ist die
     Farbreaktion mit dem Reagens KOH (Kalilauge)
 literatur:
-  - text: ""
+  - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 2, Nr. 169"
     url: ""
   - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/muda.php
 ---
