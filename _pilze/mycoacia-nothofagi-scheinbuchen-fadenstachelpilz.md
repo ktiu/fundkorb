@@ -12,8 +12,7 @@ profil:
 hauptbild:
   anzeige: false
   datei: /bilder/mycoacia_nothofagi_01_wp.jpg
-literatur:
-  - url: ""
+literatur: []
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mycoacia_nothofagi_01_wp.jpg" nocrop=true %}
