@@ -14,7 +14,6 @@ hauptbild:
   datei: /bilder/blumeria_graminis_01_dg.jpg
 literatur:
   - url: https://de.wikipedia.org/wiki/Mehltau
-  - url: https://www.oekolandbau.de/erzeuger/pflanzenbau/allgemeiner-pflanzenbau/pflanzenschutz/schaderreger/schadorganismen-im-ackerbau/weizen/echter-mehltau-blumeria-graminis-f-sp-tritici-ehem-erysiphe-graminis-f-sp-tritici/
 ---
 Echter Mehltau ist der zu den Schlauchpilzen (Ascomyzeten) gehörende Erreger, der insbesondere auf den Blättern verschiedener Grasarten vorkommt, auf denen er einen weißen, mehligen Belag bildet. Je nach Gras- oder Getreideart werden acht Formen unterschieden.
 
