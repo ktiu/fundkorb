@@ -33,4 +33,4 @@ Bei Mycoacia fuscoatra sind die Hyphenenden in den Stachelspitzen stark inkrusti
 {% include bild.html datei="/bilder/mycoacia_uda_02_b-k.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links:  Sporen  Mycoacia fuscoatra -- rechts: Sporen  Mycoacia uda Sporen  Mycoacia uda (Sporenbilder aus Breitenbach & Kränzlin: Pilze der Schweiz Band 2, Nr. 170 und 169)" %}
 
-Andere [resupinat](resupinat "Glossar") wachsende Stachelpilze sind u. a. in den Gattungen Steccherinum, Hyphodontia, Kavinia, Mucronella oder Sarcodontia zu finden.
+Andere [resupinat](resupinat "Glossar") wachsende Stachelpilze sind u. a. in den Gattungen Steccherinum, Hyphodontia, Phlebia, Kavinia, Mucronella oder Sarcodontia zu finden.
