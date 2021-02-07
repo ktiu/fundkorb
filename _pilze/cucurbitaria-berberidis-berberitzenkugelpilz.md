@@ -19,9 +19,9 @@ hauptbild:
 {% include bild.html datei="/bilder/cucurbitaria_berberidis_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Dieser winzige [Pyrenomyzet](<Pyrenomyzeten "Glossar">) wächst an abgestorbenen Stängeln und Zweigen von Berberitzen und ist wohl überall zu finden, wo Berberitzen stehen. Berberitzen sind dornenbewehrte  Sträucher mit kleinen rundlichen bis ovalen Blättern und als Zierpflanzen weit verbreitet. Alle Teile bis auf die Beeren sind giftig.
+Dieser winzige [Pyrenomyzet](Pyrenomyzeten "Glossar") wächst an abgestorbenen Stängeln und Zweigen von Berberitzen und ist wohl überall zu finden, wo Berberitzen stehen. Berberitzen sind dornenbewehrte  Sträucher mit kleinen rundlichen bis ovalen Blättern und als Zierpflanzen weit verbreitet. Alle Teile bis auf die Beeren sind giftig.
 
-Berberitzenkugelpilze haben eine maulbeerartige Struktur und brechen aus der trockenen Rinde hervor. Oft erscheinen sie als schwarze Spalten, in denen man mit einer Lupe die [Perithecien](<Perithecien "Glossar">) erkennen kann.
+Berberitzenkugelpilze haben eine maulbeerartige Struktur und brechen aus der trockenen Rinde hervor. Oft erscheinen sie als schwarze Spalten, in denen man mit einer Lupe die [Perithecien](Perithecien "Glossar") erkennen kann.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cucurbitaria_berberidis_03_wi.jpg" nocrop=true %}
