@@ -11,6 +11,11 @@ profil:
 hauptbild:
   anzeige: false
   datei: /bilder/podoscypha_multizonata_07_dg.jpg
+literatur:
+  - text: "Dieter Gewalt & Hermine Lotz-Winter: Neufunde von Podoscypha multizonata
+      (Gezonter Büschelwärzling) im Rhein-Main-Gebiet in Hessen und Anmerkungen
+      zu Ökologie, europäischer Verbreitung und Schutzstatus der Art; in Boletus
+      Band 41 - Heft 2/2020, S. 125 - 131"
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/podoscypha_multizonata_01_dg.jpg" %}
