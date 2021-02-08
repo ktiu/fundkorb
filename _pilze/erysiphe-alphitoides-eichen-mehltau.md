@@ -11,6 +11,6 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/abortiporus_biennis_01_dg.jpg
+  datei: /bilder/erysiphe_alphitoides_01_dg.jpg
 ---
 xxx
