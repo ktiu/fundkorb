@@ -17,7 +17,7 @@ literatur:
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/geastrum_rufescens_03_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Pseudoparenchym = gewebeartiges Scheingewebe, bei Erdsternen zwischen Exo- und Endoperidie" %}
+{% include abbildung_ende.html legende="Insgesamt ca. 30 Fruchtkörper am 23. August 2017 auf dem Zeppelinheimer Waldfriedhof  (TK 5917.4.1)" %}
 
 Erdsterne gehören zu den Bauchpilzen, die ihre Sporen im Inneren ihrer Fruchtkörper bilden. Sie bilden zwei Hüllen aus, eine äußere (Exoperidie), die in eine unterschiedliche Anzahl sternförmig abstehender Lappen aufreißt, und eine innere, die eigentliche Sporenkugel. Vor dem Aufreißen der äußeren Hülle haben sie ein zwiebelförmiges Aussehen. Die meisten der etwa 20 in Mitteleuropa vorkommenden Arten sind anhand von makroskopischen Merkmalen bestimmbar unter der Voraussetzung, dass man einen guten Schlüssel zur Verfügung hat. Sporenpulverfarbe und Größe sowie Ornamentation der Sporen sind in wenigen Fällen zu beachten.
 
