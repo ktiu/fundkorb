@@ -18,4 +18,4 @@ Diese winzigen [Ascomyzeten](Ascomyzeten "Glossar") erscheinen auf den Oberseite
 {% include bild.html datei="/bilder/trochila_ilicina_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Es gibt zahlreiche weitere Trochila-Arten, die fast alle auf bestimmte Pflanzenarten spezialisiert  und anhand ihres Substrats leicht zu bestimmen sind, z. B. *Trochila craterium* auf Efeu oder *Trochila leurocerasi* auf Kirschlorbeer.
+Es gibt zahlreiche weitere Trochila-Arten, die fast alle auf bestimmte Pflanzenarten spezialisiert  und anhand ihres Substrats leicht zu bestimmen sind, z. B. *Trochila craterium* auf Efeu oder [*Trochila leurocerasi* auf Kirschlorbeer](/pilze/trochila-laurocerasi-kirschlorbeer-deckelbecherchen).
