@@ -1,0 +1,4 @@
+---
+schlagwort: fimbriat
+---
+gefranst, bewimpert
