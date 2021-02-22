@@ -26,7 +26,7 @@ In *Die Großpilze Baden-Württembergs* (Krieglsteiner, Band 3) werden die beide
 Hutoberfläche dunkelbraun bis schwarz, filzig, striegelig, Lamellen dunkel braun oder graubraun = R . trichotis\
 Hutoberfläche weißlich oder hellbraun, filzig bis fast kahl, dunkel grau oder violettlich, Lamellen blass grau = R. applicatus
 
-Der Borstige Zwergseitling Art Resupinatus trichotis wird allerdings nicht von allen Mykologen als eigenständige Art anerkannt. So schreibt Erhard Ludwig (Pilzkompendium Band 1) in einer Fußnote zu R. applicatus:
+Der Borstige Zwergseitling Resupinatus trichotis wird allerdings nicht von allen Mykologen als eigenständige Art anerkannt. So schreibt Erhard Ludwig (Pilzkompendium Band 1) in einer Fußnote zu R. applicatus:
 
 >  "Im Grad der Behaarung wie auch in deren Farbe finden sich alle möglichen Übergangsstadien, so dass die weitere Aufrechterhaltung von R. trichotis von M. E. Noordeloos (Flora agaricina neederlandica) sicher zurecht abgelehnt wird." 
 
