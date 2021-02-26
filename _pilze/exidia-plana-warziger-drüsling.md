@@ -11,12 +11,12 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/exidia_plana_01_dg.jpeg
+  datei: /bilder/exidia_plana_02_dg.jpg
 ---
 Glibberige Pilze mit gehirnartig geformter Oberfläche findet man u. a. in der Gattung Drüslinge (Exidia), die zu den Ständerpilzen (Basidiomyzeten) gehört. Der Name Drüslinge kommt von drüsenartigen Wärzchen auf der sporenbildenden Fruchtschicht. Die mit Abstand häufigste Art dieser Gattung ist der Warzige Drüsling *Exidia plana*, der auch unter dem Volksnamen „Hexenbutter“ bekannt ist.
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/exidia_plana_02_dg.jpg" %}
+{% include bild.html datei="/bilder/exidia_plana_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
 Dieser bildet auf abgestorbenen Laubholzästen zusammenhängende Flächen, die gänzlich von der Fruchtschicht überzogen sind und deren Ränder dem Substrat aufliegen. Beim Trocknen schrumpfen sie zu einer glänzenden, schwarzen, oft nahezu glatten Kruste zusammen, welche die Äste wie lackiert aussehen lässt. Bei Wiederbefeuchtung quellen sie zur ursprünglichen Größe und Form auf. Der Warzige Drüsling ist ganzjährig zu finden, besonders häufig kommt er im Winter und Frühjahr vor.
