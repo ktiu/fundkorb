@@ -25,7 +25,7 @@ Dieser bildet auf abgestorbenen Laubholzästen zusammenhängende Flächen, die g
 {% include bild.html datei="/bilder/exidia_plana_03_dg.jpg" %}
 {% include abbildung_ende.html legende="Äste mit eingetrockneten Frucktkörpern sehen wie lackiert aus" %}
 
-Um den wissenschaftlichen Namen hat es ein fortwährendes Verwirrspiel gegeben. Das oben als Synonym angegebene Taxon Exidia glandulosa wurde sowohl für den Warzigen als auch für den Abgestutzten Drüsling verwendet. Ungeachtet der oft wechselnden Auffassungen, welcher der Namen der jeweils gültige sein soll, steht im Fundkorb
+Um den wissenschaftlichen Namen hat es ein fortwährendes Verwirrspiel gegeben. Das oben als Synonym angegebene [Taxon](Taxon "Glossar") Exidia glandulosa wurde sowohl für den Warzigen als auch für den Abgestutzten Drüsling verwendet. Ungeachtet der oft wechselnden Auffassungen, welcher der Namen der jeweils gültige sein soll, steht im Fundkorb
 
 Exidia plana für den Warzigen Drüsling\
 Exidia truncata für Abgestutzten Drüsling
