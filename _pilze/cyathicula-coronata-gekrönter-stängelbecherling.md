@@ -19,16 +19,15 @@ Wer diesen Winzling zum ersten Mal auf einem toten Brennnesselstängel mit der L
 
 auf vorjährigen, trockenen Stängeln:
 
-Acrospermum compressum  =  Fadensporiges Flachkeulchen  
-Aporythisma urticae  (Deutscher Name nicht bekannt)  
-Belonidium sulphureum  =  Schwefelgelbes Haarbecherchen  
-Calloria neglecta  =  Orangerotes Brennnesselbecherchen  
-Calyptella capula  =  Mützenförmiger Schüsselschwindling  
-Cyathicula cyathoidea  =  Pokalförmiger Stängelbecherling  
- Hymenoscyphus herbarum  =  Kraut-Stäbgelbecherling  
-Leptosphaeria acuta  = Zugespitzter Kugelpilz
+[Acrospermum compressum](/pilze/acrospermum-fadensporiges-flachkeulchen)  =  Fadensporiges Flachkeulchen\
+Aporythisma urticae  (Deutscher Name nicht bekannt)\
+[Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  =  Orangerotes Brennnesselbecherchen\
+[Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
+Cyathicula cyathoidea  =  Pokalförmiger Stängelbecherling\
+[Hymenoscyphus herbarum](/pilze/hymenoscyhus-herbarum-kraut-stängelbecherling)  =  Kraut-Stäbgelbecherling\
+Leptosphaeria acuta  = Zugespitzter Kugelpilz\
+[Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)  =  Schwefelgelbes Haarbecherchen
 
 auf frischen Brennnesseln, ca. Mai bis Juli:
 
-Puccinia urticata  =  Brennnesselrost
-
+[Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost)  =  Brennnesselrost
