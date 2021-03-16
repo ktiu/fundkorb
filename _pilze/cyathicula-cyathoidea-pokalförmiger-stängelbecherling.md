@@ -16,7 +16,7 @@ literatur:
     text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 1, Nr. 192"
   - url: https://asco-sonneberg.de/pages/gallery/cyathicula-cyathoidea-100724-01xs-col9221.php
 ---
-Die Fruchtkörper dieses kleinen [Ascomyzeten]("Glossar" Ascomyzeten) sind 0,5 bis 1,5 mm groß, jung pokal- bis becherförmig, später flacher und schüssel- bis tellerförmig, deutlich gestielt, und weißlich bis hell cremefarben. Die Ränder sind mitunter fein gekerbt und etwas heller. Die Stiele sind 0,5 bis 1,5 mm lang.
+Die Fruchtkörper dieses kleinen [Ascomyzeten](Ascomyzeten "Glossar") sind 0,5 bis 1,5 mm groß, jung pokal- bis becherförmig, später flacher und schüssel- bis tellerförmig, deutlich gestielt, und weißlich bis hell cremefarben. Die Ränder sind mitunter fein gekerbt und etwas heller. Die Stiele sind 0,5 bis 1,5 mm lang.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/cyathicula_cyathoidea_02_dg.jpg" nocrop=true %}
