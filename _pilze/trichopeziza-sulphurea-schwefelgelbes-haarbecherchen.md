@@ -22,18 +22,16 @@ Man findet die kleinen [Ascomyzeten](Ascomyzeten "Glossar") meist am feucht steh
 
 Wer das Schwefelgelbe Haarbecherchen auf Brennnesselstängeln sucht, wird auch anderen auf diesem Substrat wachsenden Pilzen begegnen, von denen ich hier eine Auswahl anfüge:
 
-* auf vorjährigen, trockenen Stängeln:
+auf vorjährigen, trockenen Stängeln:
 
-  * [Acrospermum compressum](https://fundkorb.netlify.app/pilze/acrospermum-fadensporiges-flachkeulchen) = Fadensporiges Flachkeulchen 
-  * Aporythisma urticae (Deutscher Name nicht bekannt)
-  * [Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen) = Orangerotes Brennnesselbecherchen
-  * Calyptella capula = Mützenförmiger Schüsselschwindling
-  * Cyathicula coronata = Gekrönter Stängelbecherling
-  * Cyathicula cyathoidea = Pokalförmiger Stängelbecherling
-  * Hymenoscyphus herbarum = Kraut-Stängelbecherling
-  * Leptosphaeria acuta = Zugespitzter Kugelpilz\
+[Acrospermum compressum](/pilze/acrospermum-fadensporiges-flachkeulchen)  =  Fadensporiges Flachkeulchen\
+[Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  =  Orangerotes Brennnesselbecherchen\
+[Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
+[Cyathicula cyathoidea](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)  =  Pokalförmiger Stängelbecherling\
+[Hymenoscyphus herbarum](/pilze/hymenoscyhus-herbarum-kraut-stängelbecherling)  =  Kraut-Stängelbecherling\
+Leptosphaeria acuta  = Zugespitzter Kugelpilz\
+[Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)  =  Schwefelgelbes Haarbecherchen
 
-    
-* auf frischen Brennnesseln, ca. Mai bis Juli:  
+auf frischen Brennnesseln, ca. Mai bis Juli:
 
-  * [Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost) = Brennnesselrost
+[Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost)  =  Brennnesselrost
