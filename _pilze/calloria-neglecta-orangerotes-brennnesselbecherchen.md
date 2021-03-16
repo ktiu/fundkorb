@@ -21,11 +21,12 @@ Wer das Orangerote Brennnesselbecherchen sucht, wird auch anderen auf diesem Sub
 
 auf vorjährigen, trockenen Stängeln:
 
-[Acrospermum compressum](/pilze/acrospermum-fadensporiges-flachkeulchen)  =  Fadensporiges Flachkeulchen  
-Aporythisma urticae  (Deutscher Name nicht bekannt)  
-Calyptella capula  =  Mützenförmiger Schüsselschwindling  
-Cyathicula coronata  =  Gekrönter Stängelbecherling  
-Hymenoscyphus herbarum  =  Kraut-StäbgelbecherlingLeptosphaeria acuta  = Zugespitzter Kugelpilz  
+[Acrospermum compressum](/pilze/acrospermum-fadensporiges-flachkeulchen)  =  Fadensporiges Flachkeulchen\
+Aporythisma urticae  (Deutscher Name nicht bekannt)\
+[Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
+[Cyathicula coronata](/pilze/cyathicula-coronata-gekrönter-stängelbecherling)  =  Gekrönter Stängelbecherling\
+[Hymenoscyphus herbarum](/pilze/hymenoscyhus-herbarum-kraut-stängelbecherling)  =  Kraut-Stäbgelbecherling\
+Leptosphaeria acuta  = Zugespitzter Kugelpilz\
 [Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)  =  Schwefelgelbes Haarbecherchen
 
 auf frischen Brennnesseln, ca. Mai bis Juli
