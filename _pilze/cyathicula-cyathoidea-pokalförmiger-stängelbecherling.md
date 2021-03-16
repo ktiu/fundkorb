@@ -34,10 +34,10 @@ Aporythisma urticae  (Deutscher Name nicht bekannt)\
 [Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  =  Orangerotes Brennnesselbecherchen\
 [Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
 [Cyathicula coronata](/pilze/cyathicula-coronata-gekrönter-stängelbecherling)  =  Gekrönter Stängelbecherling\
-Hymenoscyphus herbarum  =  Kraut-Stäbgelbecherling\
+[Hymenoscyphus herbarum](/pilze/hymenoscyhus-herbarum-kraut-stängelbecherling)  =  Kraut-Stäbgelbecherling\
 Leptosphaeria acuta  = Zugespitzter Kugelpilz\
-Trichopeziza sulphurea  =  Schwefelgelbes Haarbecherchen
+[Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)  =  Schwefelgelbes Haarbecherchen
 
 auf frischen Brennnesseln, ca. Mai bis Juli
 
-Puccinia urticata  =  Brennnesselrost
+[Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost)  =  Brennnesselrost
