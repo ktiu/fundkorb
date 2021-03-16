@@ -21,7 +21,7 @@ literatur:
 {% include bild.html datei="/bilder/cortinarius_-orellanus_04_gsch.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Fotos: Georg Schabel" %}
 
-Der Orangefuchsige Raukopf war [Pilz des Jahres 2002](https://www.dgfm-ev.de/pilz-des-jahres/2002-orangefuchsiger-raukopf) und wurde von der DGfM (Deutsche Gesellschaft für Mykologie) mit nachfolgendem Text der Presse vorgestellt:
+Der Orangefuchsige Raukopf war [Pilz des Jahres 2002](https://www.dgfm-ev.de/pilz-des-jahres/2002-orangefuchsiger-raukopf) und wurde von der Deutschen Gesellschaft für Mykologie mit nachfolgendem Text der Presse vorgestellt:
 
 > Er gehört nicht zu den auffälligen Pilzen im Lande, und er kommt auch nicht überall vor. Dennoch sollte ihn jeder kennen, der beim Sammeln von Speisepilzen keine unliebsamen Überraschungen erleben will: Der Orangefuchsige Raukopf  ist einer der gefährlichsten Giftpilze Europas und rangiert auf der Skala der lebensbedrohenden Arten gleichauf mit den gefürchteten Knollenblätterpilzen.
 > Der flach gewölbte, trockene Hut des allenfalls mittelgroßen Pilzes (Durchmesser bis 9 cm) zeigt in allen Teilen ein warmes Orangebraun. Auf der Hutunterseite erkennt man breite, ziemlich entfernt stehende, am Stielansatz gerade angewachsene bis ausgebuchtete Lamellen. Der messing- bis goldgelbe, oft etwas gebogene, bis 10 cm lange Stiel kann am Grund leicht geschwollen, aber auch zugespitzt sein. Spinnwebartige gelbliche Reste einer Cortina (Schleier) verraten zusammen mit dem rostbraunen Sporenpulver den Schleierling (Cortinarius sp.). Diese große Lamellenpilzgattung, zu der auch die Rauköpfe gehören, umfasst allein in Mitteleuropa mehrere hundert Arten.
