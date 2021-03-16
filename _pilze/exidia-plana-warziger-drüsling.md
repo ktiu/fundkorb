@@ -13,7 +13,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/exidia_plana_02_dg.jpg
 ---
-Glibberige Pilze mit gehirnartig geformter Oberfläche findet man u. a. in der Gattung Drüslinge (Exidia), die zu den Ständerpilzen (Basidiomyzeten) gehört. Der Name Drüslinge kommt von drüsenartigen Wärzchen auf der sporenbildenden Fruchtschicht. Die mit Abstand häufigste Art dieser Gattung ist der Warzige Drüsling *Exidia plana*, der auch unter dem Volksnamen „Hexenbutter“ bekannt ist.
+Glibberige Pilze mit gehirnartig geformter Oberfläche findet man u. a. in der Gattung Drüslinge (Exidia), die zu den Ständerpilzen (Basidiomyzeten) gehört. Der Name *Drüslinge* kommt von drüsenartigen Wärzchen auf der sporenbildenden Fruchtschicht. Die mit Abstand häufigste Art dieser Gattung ist der Warzige Drüsling *Exidia plana*, der auch unter dem Volksnamen „Hexenbutter“ bekannt ist.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/exidia_plana_01_dg.jpeg" %}
