@@ -25,7 +25,7 @@ auf vorjährigen, trockenen Stängeln:
 Aporythisma urticae  (Deutscher Name nicht bekannt)\
 [Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
 [Cyathicula coronata](/pilze/cyathicula-coronata-gekrönter-stängelbecherling)  =  Gekrönter Stängelbecherling\
-[Hymenoscyphus herbarum](/pilze/hymenoscyhus-herbarum-kraut-stängelbecherling)  =  Kraut-Stäbgelbecherling\
+[Hymenoscyphus herbarum](/pilze/hymenoscyhus-herbarum-kraut-stängelbecherling)  =  Kraut-Stängelbecherling\
 Leptosphaeria acuta  = Zugespitzter Kugelpilz\
 [Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)  =  Schwefelgelbes Haarbecherchen
 
