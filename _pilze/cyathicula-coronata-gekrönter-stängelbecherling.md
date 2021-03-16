@@ -17,7 +17,7 @@ literatur:
 ---
 Wer diesen Winzling zum ersten Mal auf einem toten Brennnesselstängel mit der Lupe aufgespürt hat, wird sicher bestätigen, dass er seinen Namen verdient hat. Die bis zu 2 mm breiten Becherchen haben einen gezackten Rand, der ihnen das Aussehen einer Krone verleiht. Man findet die bis zu 3 mm lang gestielten [Ascomyzeten]("Glossar" Ascomyzeten) meist am Grund vermodernder Stängel, so dass die gezielte Suche am erfolgreichsten ist, wenn man nass stehende, am Grund bereits vermodernde vorjährige Brennnesselstängel aus dem Boden zieht. Die Art ist nicht häufig und vor allem von August bis November zu finden.
 
-Eine Auswahl anderer, auf Brennnesselstängeln wachsender Pilze füge ich hier an:
+Eine Auswahl anderer, auf Brennnesselstängeln wachsender Pilze füge ich hier an: 
  
 auf vorjährigen, trockenen Stängeln:
 
