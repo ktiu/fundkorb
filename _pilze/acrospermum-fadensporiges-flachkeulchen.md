@@ -20,19 +20,18 @@ Das Fadensporige Flachkeulchen gehört zu den winzigen [Ascomyzeten](Ascomyzeten
 
 Acrospermum compressum bildet ca. 3 mm hohe, oliv- bis schwarzbräunliche Keulchen, deren oberer (fertiler) Teil meist abgeflacht ist. Auffälliges Mikromerkmal, nach dem der Pilz benannt ist: die fadenförmigen Sporen sind meist über 400 µ lang, aber nur 1 µ breit.
 
-##### Andere auf Brennnesselstängeln wachsende kleine Pilze
+Andere auf Brennnesseln wachsende Pilze:
 
-* auf vorjährigen, trockenen Stängeln: 
+auf vorjährigen, trockenen Stängeln:
 
-  * Aporythisma urticae (Deutscher Name nicht bekannt)
-  * [Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen) = Orangerotes Brennnesselbecherchen
-  * Calyptella capula = Mützenförmiger Schüsselschwindling
-  * Cyathicula coronata = Gekrönter Stängelbecherling
-  * Cyathicula cyathoidea = Pokalförmiger Stängelbecherling
-  * Hymenoscyphus herbarum = Kraut-Stängelbecherling
-  * Leptosphaeria acuta = Zugespitzter Kugelpilz
-  * [Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen) = Schwefelgelbes Haarbecherchen\
-    &nbsp;
-* auf frischen Brennnesseln, ca. Mai bis Juli:  
+Acrospermum compressum  =  Fadensporiges Flachkeulchen  
+Aporythisma urticae  (Deutscher Name nicht bekannt)  
+Belonidium sulphureum  =  Schwefelgelbes Haarbecherchen  
+Calloria neglecta  =  Orangerotes Brennnesselbecherchen  
+Calyptella capula  =  Mützenförmiger Schüsselschwindling  
+Cyathicula coronata  =  Gekrönter Stängelbecherling  
+Hymenoscyphus herbarum  =  Kraut-Stängelbecherling  
 
-  * [Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost) = Brennnesselrost
+auf frischen Brennnesseln, ca. Mai bis Juli
+
+Puccinia urticata  =  Brennnesselrost
