@@ -18,3 +18,16 @@ hauptbild:
 Ich habe den winzigen Ascomyzeten bisher vor allem auf Brennnesselstängeln gefunden, aber auch an Goldrute. Die Art ist verbreitet und recht häufig, vor allem von September bis Dezember.
 
 Es gibt viele ähnliche kleine Becherlinge, so dass meist eine mikroskopische Prüfung erforderlich ist.
+
+auf vorjährigen, trockenen Stängeln:
+
+[Acrospermum compressum](/pilze/acrospermum-fadensporiges-flachkeulchen)  =  Fadensporiges Flachkeulchen\
+[Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  =  Orangerotes Brennnesselbecherchen\
+[Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
+[Cyathicula cyathoidea](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)  =  Pokalförmiger Stängelbecherling\
+[Leptosphaeria acuta](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)  = Zugespitzter Kugelpilz\
+[Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)  =  Schwefelgelbes Haarbecherchen
+
+auf frischen Brennnesseln, ca. Mai bis Juli:
+
+[Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost)  =  Brennnesselrost
