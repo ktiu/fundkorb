@@ -32,3 +32,16 @@ Um das Erkennen des Faulbaums zu erleichtern, ist eine Darstellung seiner wichti
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/puccinia_coronata_faulbaum_zweitwirt_05-dg.jpg" %}
 {% include abbildung_ende.html legende="Abbildung links: Wikipedia   --        Foto rechts von Julia Kruse: Puccinia coronata auf Rohrglanzgras" %}
+
+Andere auf Brennnesselstängeln wachsende Pilze:
+
+auf vorjährigen, trockenen Stängeln:
+
+[Acrospermum compressum](/pilze/acrospermum-fadensporiges-flachkeulchen)  =  Fadensporiges Flachkeulchen\
+[Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  =  Orangerotes Brennnesselbecherchen\
+[Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
+[Cyathicula cyathoidea](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)  =  Pokalförmiger Stängelbecherling\
+[Hymenoscyphus herbarum](/pilze/hymenoscyhus-herbarum-kraut-stängelbecherling)  =  Kraut-Stängelbecherling\
+[Leptosphaeria acuta](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)  = Zugespitzter Kugelpilz\
+[Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)  =  Schwefelgelbes Haarbecherchen
+
