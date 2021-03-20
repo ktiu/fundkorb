@@ -32,3 +32,18 @@ Die einzelnen Fruchtkörper sind in der Regel mit der Schüsselöffnung nach unt
 Die Zugehörigkeit zur Familie der der Schwindlingsartigen ist noch ungeklärt.
 
 Bei zwei Funden (09.10.2005: Hainer Weg, Frankfurter Stadtwald und 03.07.2011: Buchrainweiher bei Offenbach) wurde ich von Hermine Lotz-Winter auf das Vorkommen an modernden Brennnesselstängeln aufmerksam gemacht, den Dreieichenhainer Fund (04.08.2019: An der Dampfmühle, an verrottendem Brombeerstängel) verdanken wir dem aufmerksamen Auge von Tui Gewalt.
+
+Andere auf Brennnesselstängeln wachsende Pilzarten:
+
+auf vorjährigen, trockenen Stängeln:
+
+[Acrospermum compressum](/pilze/acrospermum-fadensporiges-flachkeulchen)  =  Fadensporiges Flachkeulchen\
+[Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  =  Orangerotes Brennnesselbecherchen\
+[Cyathicula cyathoidea](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)  =  Pokalförmiger Stängelbecherling\
+[Hymenoscyphus herbarum](/pilze/hymenoscyhus-herbarum-kraut-stängelbecherling)  =  Kraut-Stängelbecherling\
+[Leptosphaeria acuta](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)  = Zugespitzter Kugelpilz\
+[Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)  =  Schwefelgelbes Haarbecherchen
+
+auf frischen Brennnesseln, ca. Mai bis Juli:
+
+[Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost)  =  Brennnesselrost
