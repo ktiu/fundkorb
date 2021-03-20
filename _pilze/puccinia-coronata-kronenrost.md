@@ -37,8 +37,6 @@ Andere auf Brennnesselstängeln wachsende Pilze:
 
 auf vorjährigen, trockenen Stängeln:
 
-auf vorjährigen, trockenen Stängeln:
-
 [Acrospermum compressum](/pilze/acrospermum-fadensporiges-flachkeulchen)  =  Fadensporiges Flachkeulchen\
 [Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  =  Orangerotes Brennnesselbecherchen\
 [Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
