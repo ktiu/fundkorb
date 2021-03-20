@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: Hymenoscyhus herbarum
+  wissenschaftlich: Hymenoscyphus herbarum
   deutsch: Kraut-Stängelbecherling
   referenz: "(Pers.) Dennis 1964 "
   erlaeuterung: herbarum = an Kräutern, Gräsern, etc.
