@@ -20,14 +20,15 @@ Andere auf Brennnesseln wachsende Pilze:
 
 auf vorjährigen, trockenen Stängeln:
 
-Acrospermum compressum  =  Fadensporiges Flachkeulchen  
-Aporythisma urticae  (Deutscher Name nicht bekannt)  
-Belonidium sulphureum  =  Schwefelgelbes Haarbecherchen  
-Calloria neglecta  =  Orangerotes Brennnesselbecherchen  
-Calyptella capula  =  Mützenförmiger Schüsselschwindling  
-Cyathicula coronata  =  Gekrönter Stängelbecherling  
-Hymenoscyphus herbarum  =  Kraut-Stängelbecherling  
+auf vorjährigen, trockenen Stängeln:
 
-auf frischen Brennnesseln, ca. Mai bis Juli
+[Acrospermum compressum](/pilze/acrospermum-fadensporiges-flachkeulchen)  =  Fadensporiges Flachkeulchen\
+[Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  =  Orangerotes Brennnesselbecherchen\
+[Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
+[Cyathicula cyathoidea](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)  =  Pokalförmiger Stängelbecherling\
+[Hymenoscyphus herbarum](/pilze/hymenoscyhus-herbarum-kraut-stängelbecherling)  =  Kraut-Stängelbecherling\
+[Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)  =  Schwefelgelbes Haarbecherchen
 
-Puccinia urticata  =  Brennnesselrost
+auf frischen Brennnesseln, ca. Mai bis Juli:
+
+[Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost)  =  Brennnesselrost
