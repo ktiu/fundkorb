@@ -45,7 +45,5 @@ auf vorjährigen, trockenen Stängeln:
 [Leptosphaeria acuta](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)  = Zugespitzter Kugelpilz\
 [Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)  =  Schwefelgelbes Haarbecherchen
 
-auf frischen Brennnesseln, ca. Mai bis Juli:
 
-[Puccinia urticata](/pilze/puccinia-urticata-brennnesselrost)  =  Brennnesselrost
 
