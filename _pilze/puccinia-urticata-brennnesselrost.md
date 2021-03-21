@@ -37,12 +37,13 @@ Im Bild oben rechts gleicht er einer Raupe, die sich auf ein Brennnesselblatt zu
 
 Auf vorjährigen, trockenen Brennnesselstängeln sind u. a. folgende Arten zu finden:
 
-[Acrospermum compressum](https://fundkorb.netlify.app/pilze/acrospermum-fadensporiges-flachkeulchen) = Fadensporiges Flachkeulchen\
-Aporythisma urticae (Deutscher Name nicht bekannt)\
-[Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen) = Orangerotes Brennnesselbecherchen\
-Calyptella capula = Mützenförmiger Schüsselschwindling\
-Cyathicula coronata = Gekrönter Stängelbecherling\
-Cyathicula cyathoidea = Pokalförmiger Stängelbecherling\
-Hymenoscyphus herbarum = Kraut-Stäbgelbecherling\
-Leptosphaeria acuta = Zugespitzter Kugelpilz\
-[Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen) = Schwefelgelbes Haarbecherchen
+[Acrospermum compressum](/pilze/acrospermum-compressum-fadenförmiges-flachkeulchenchen)  =  Fadenförmiges Flachkeulchen\
+[Aporhytisma urticae](/pilze/aporhytisma-urticae)\
+[Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  =  Orangerotes Brennnesselbecherchen\
+[Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
+[Cyathicula coronata](/pilze/cyathicula-coronata-gekrönter-stängelbecherling)  =  Gekrönter Stängelbecherling\
+[Cyathicula cyathoidea](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)  =  Pokalförmiger Stängelbecherling\
+[Hymenoscyphus herbarum](/pilze/hymenoscyhus-herbarum-kraut-stängelbecherling)  =  Kraut-Stängelbecherling\
+[Leptosphaeria acuta](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)  = Zugespitzter Kugelpilz\
+[Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)  =  Schwefelgelbes Haarbecherchen
+
