@@ -21,4 +21,8 @@ Im Gegensatz zu den Angaben in *Die Großpilze Baden-Württembergs (Krieglsteine
 
 Wegen seines (oft nur schwach) gerieften Hutrandes wird er auch *Gestreifter Frühlingsrötling*, aufgrund seines frühen Wachstums auch *April-Rötling* genannt.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/entoloma_vernum_02_km.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Foto: Karin Montag" %}
+
 Lt. Literatur (Ewald Gerhard: Der große BLV-Pilzführer, 2011 - Breitenbach & Kränzlin: Pilze der Schweiz Bd. 4 Nr. 93) ist der Pilz giftig oder zumindest giftverdächtig. Im Tintling-Pilzbuch wird er als stark giftig bezeichnet.
