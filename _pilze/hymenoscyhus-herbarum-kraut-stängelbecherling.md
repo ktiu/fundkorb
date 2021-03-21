@@ -21,9 +21,11 @@ Es gibt viele ähnliche kleine Becherlinge, so dass meist eine mikroskopische Pr
 
 auf vorjährigen, trockenen Stängeln:
 
-[Acrospermum compressum](/pilze/acrospermum-fadensporiges-flachkeulchen)  =  Fadensporiges Flachkeulchen\
+[Acrospermum compressum](/pilze/acrospermum-compressum-fadenförmiges-flachkeulchenchen)  =  Fadenförmiges Flachkeulchen\
+[Aporhytisma urticae](/pilze/aporhytisma-urticae)\
 [Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  =  Orangerotes Brennnesselbecherchen\
 [Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
+[Cyathicula coronata](/pilze/cyathicula-coronata-gekrönter-stängelbecherling)  =  Gekrönter Stängelbecherling\
 [Cyathicula cyathoidea](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)  =  Pokalförmiger Stängelbecherling\
 [Leptosphaeria acuta](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)  = Zugespitzter Kugelpilz\
 [Trichopeziza sulphurea](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)  =  Schwefelgelbes Haarbecherchen
