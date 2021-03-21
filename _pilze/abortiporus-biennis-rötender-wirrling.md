@@ -45,7 +45,7 @@ Am 9. November 2019 fanden wir den Wirrling im Hainbachtal bei Offenbach seitlic
 auf vorjährigen, trockenen Stängeln:
 
 [Acrospermum compressum](/pilze/acrospermum-compressum-fadenförmiges-flachkeulchenchen)  =  Fadenförmiges Flachkeulchen\
-[Aporhytisma urticar](/pilze/aporhytisma-urticae)  =  \
+[Aporhytisma urticae](/pilze/aporhytisma-urticae)\
 [Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  =  Orangerotes Brennnesselbecherchen\
 [Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
 [Cyathicula cyathoidea](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)  =  Pokalförmiger Stängelbecherling\
