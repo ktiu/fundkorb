@@ -19,7 +19,7 @@ Ich habe den winzigen Ascomyzeten bisher vor allem auf Brennnesselstängeln gefu
 
 Es gibt viele ähnliche kleine Becherlinge, so dass meist eine mikroskopische Prüfung erforderlich ist.
 
-Andere auf Brennnesselstängeln wachsende Pilzartn sind 
+Andere auf Brennnesselstängeln wachsende Pilzarten sind 
 
 auf vorjährigen, trockenen Stängeln:
 
