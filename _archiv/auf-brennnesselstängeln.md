@@ -3,6 +3,8 @@ title: auf Brennnesselstängeln
 ---
 auf vorjährigen, trockenen Stängeln:
 
+[Acrospermum compressum](/pilze/acrospermum-compressum-fadenförmiges-flachkeulchenchen)  =  Fadenförmiges Flachkeulchen\
+
 [Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  =  Orangerotes Brennnesselbecherchen\
 [Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
 [Cyathicula cyathoidea](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)  =  Pokalförmiger Stängelbecherling\
