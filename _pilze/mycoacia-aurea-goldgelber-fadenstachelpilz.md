@@ -18,7 +18,7 @@ literatur:
 {% include bild.html datei="/bilder/mycoacia_aurea_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Bei dem hier abgebildeten Fund muss es sich um einen recht jungen Frchtkörper gehandelt haben, da die Zähnchen noch sehr kurz waren. Sie können lt. Literatur eine Länge von 1 - 2 mm erreichen und sitzen dichtgedrängt auf einem wachsartigen dünnen [Subiculum](Subiculum "Glossar"). Wie auch andere Verteter der Gattung Mycoacia findet man den Goldgelben Fadenstachelpilz vor allem auf der Unterseite abgestorbener Äste. Für eine gezielte Suche ist also fleißiges Stöcke-Umdrehen angesagt.
+Bei dem hier abgebildeten Fund muss es sich um einen recht jungen Frchtkörper gehandelt haben, da die Zähnchen noch sehr kurz waren. Sie können lt. Literatur eine Länge von 1 - 2 mm erreichen und sitzen dichtgedrängt auf einem wachsartigen dünnen [Subikulum](Subikulum "Glossar"). Wie auch andere Verteter der Gattung Mycoacia findet man den Goldgelben Fadenstachelpilz vor allem auf der Unterseite abgestorbener Äste. Für eine gezielte Suche ist also fleißiges Stöcke-Umdrehen angesagt.
 
 Es handelt sich um einen der "bestachelten Rindenpilze" (Formulierung von Hermann Jahn), die unterschiedlichen Gattungen wie Steccherinum, Hyphodontia, Kavinia, Mucronella, Sarcodontia und eben auch Mycoacia angehören. Diese Zugehörigkeit zu klären ist oft schwieriger als innerhalb einer Gattung die Art zu bestimmen. Die vier in Deutschland nachgewiesenen Mycoacia-Arten  sind wie folgt unterschieden:
 
