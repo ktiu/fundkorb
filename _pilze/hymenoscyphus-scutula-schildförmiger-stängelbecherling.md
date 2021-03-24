@@ -16,7 +16,6 @@ literatur:
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/hymenoscyphus_scutula_01_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/hymenoscyphus_scutula_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Dieses winzige Stängelbecherchen ist nur bei gezielter Suche zu finden und nur mit einer guten Lupe gut zu erkennen. Es wächst etwa von Juli bis November an faulenden feucht liegenden Stängeln verschiedener Kräuter, insbesondere von Korbblütlern. Bei der Suche muss man schon einmal in die am Boden liegende Schicht von Pflanzenresten greifen und einiges an moderigem Material hervorholen und wenden. Nicht immer kann dieses Material eindeutig einer bestimmten Pflanze zugeordnet werden. Bei unseren ersten Funden handelte es sich zweifelsfrei um Wasserdost.
