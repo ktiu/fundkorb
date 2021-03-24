@@ -26,6 +26,6 @@ Die Köpfchen des auch recht treffend "Pokalförmiger Stängelbecherling" genann
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/hymenoscyphus_scutula_03_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/hymenoscyphus_scutula_04_b-k.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Mikrofoto links von Frank Kaster: Asci (Schläuche) -- Abb. rechts: Mikromerkmale aus Breitenbach & Kränzlin: Pilze der Schweiz Band 1, Nr. 190" %}
 
 Der Schildförmige Stängelbecherling ist eine weit verbreitete und häufige Art. Lücken in [Verbreitungskarten](http://www.pilze-deutschland.de/organismen/hymenoscyphus-scutula-pers-w-phillips-1887-1) sind damit zu erklären, dass hier nicht gezielt nach ihm gesucht wurde.
