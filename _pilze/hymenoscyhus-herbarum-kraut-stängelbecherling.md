@@ -13,7 +13,7 @@ hauptbild:
   datei: /bilder/hymenoscyphus_herbarum_01_dg.jpg
 ---
 **Kurzbeschreibung:**
-2 - 4 mm große, kurz gestielte, schüssel- bis tellerförmige, hell ocker bis gelb, oft nahezu weiß gefärbte Fruchtkörper, die rasig auf faulenden Kräuterstängeln wachsen.
+2 - 4 mm große, kurz gestielte, schüssel- bis tellerförmige, hell ocker bis gelb, oft nahezu weiß gefärbte Fruchtkörper, die rasig auf faulenden Kräuterstängeln wachsen. 
 
 Ich habe den winzigen Ascomyzeten bisher vor allem auf Brennnesselstängeln gefunden, aber auch an Goldrute. Die Art ist verbreitet und recht häufig, vor allem von September bis Dezember.
 
