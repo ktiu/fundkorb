@@ -10,7 +10,7 @@ profil:
   aktualisiert: 2021-03-30
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/morchella_conica_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/m/Morchella_conica.html
