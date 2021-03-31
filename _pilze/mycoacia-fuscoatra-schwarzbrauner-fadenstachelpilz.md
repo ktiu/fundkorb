@@ -13,10 +13,7 @@ hauptbild:
   datei: /bilder/mycoacia_fuscoatra_01_dg.jpg
   legende: Der rotbraune Fleck auf dem Fruchtkörper ganz links ist die
     Farbreaktion mit dem Reagens KOH (Kalilauge)
-literatur:
-  - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 2, Nr. 169"
-    url: ""
-  - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/mfuscoatra.php
+literatur: []
 ---
 Resupinate Stachelinge gibt es in mehreren Gattungen. Als erstes gilt es zu klären, ob die Stacheln oder Zähnchen bereits problemlos ohne optische Hilfsmittel erkennbar sind. Bei den vier Arten der Gattung *Mycoacia* ist das nicht der Fall. Erst mit der Lupe ist die Struktur wirklich deutlich zu sehen. Beim Schwarzbraunen Fadenstachelpilz sind die einzelnen pfriemförmigen Stacheln 0,2 - 0,4 mm dick, werden maximal 2 mm lang und sitzen auf einem 0,1 - 0,2 mm dicken wachsartigen [Subikulum](Subikulum "Glossar"), das eine Ausdehnung von wenigen Zentimetern bis zu einigen Dezimetern haben kann. Es wächst auf der Unterseite von morschem am Boden liegendem Laubholz. Die Stacheln sind jung weißlich bis cremefarben, später bräunlich, alt nahezu schwarz. Eine sichere Unterscheidung von der ebenfalls mit KOH reagierenden *[Mycoacia uda](/pilze/mycoacia-uda-wachsgelber-fadenstachelpilz)* ist nur mikroskopisch möglich, jedoch kann bei jungen Fruchtkörpern oder frischen Zuwachskanten deren hellgelbe Farbe bereits ein gutes für diese Art sprechendes Indiz  sein. 
 
