@@ -6,7 +6,7 @@ beschreibung:
   familie: Meruliaceae
   synonym: farinosus = mehlig bestäubt
 profil:
-  aktualisiert: 2020-07-26
+  aktualisiert: 2021-04-02
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
