@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/tubaria_furfuracea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Aktueller [Fundkorbpilz](AA "Glossar-") (02.04.2021): [Gemeiner Trompetenschnitzling Tubaria furfuracea](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling) - in der Tat eine "gemeine", fast überall häufige Art, die nahezu ganzjährig saprobiontisch auf Holzhäckseln, Rindenschrot, Sägemehl oder an liegenden toten Zweigen gefunden werden kann. Besonders häufig ist er in den Monaten Oktober bis März.
+Aktueller [Fundkorbpilz](AA "Glossar-") (02.04.2021): [Gemeiner Trompetenschnitzling Tubaria furfuracea](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling) - in der Tat eine "gemeine", fast überall häufige Art, die nahezu ganzjährig [saprobiontisch](saprobiontisch "Glossar") auf Holzhäckseln, Rindenschrot, Sägemehl oder an liegenden toten Zweigen wachsend gefunden werden kann. Besonders häufig ist er in den Monaten Oktober bis März.
 
 - - -
 
