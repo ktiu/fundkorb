@@ -19,3 +19,5 @@ Frühjahrslorcheln wachsen von März bis Mai in sandigen Kiefernwäldern. In den
 {% include abbildung_ende.html legende="Getrocknete Frühjahrslorcheln" %}
 
 D. G. bezeichnet die Pilze als ausgesprochen delikat, angenehm im Biss, im Geschmack mit Speisemorcheln vergleichbar.
+
+(April 2012)
