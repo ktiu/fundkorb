@@ -6,7 +6,7 @@ published: true
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/gyromitra_esculenta_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/gyromitra_esculenta_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Frühjahrslorcheln (Gyromitra esculenta)" %}
 
 **Eindringliche Warnung!! Auch wenn der lateinische Artname *"esculenta"* essbar bedeutet und er in manchen Ländern noch immer auf Märkten angeboten wird, handelt es sich um einen Giftpilz, der Todesfälle verursacht hat. Er enthält das Leber- und Nierengift Gyromitrin. Der nachfolgende Erfahrungsbericht soll keineswegs dazu anregen, Frühjahrslorcheln zu verzehren, auch nicht nach der beschriebenen Vorbehandlung. Insbesondere lehnt die Fundkorb-Redaktion jegliche Verantwortung für gesundheitliche Schäden ab, sollte sich ein Leser entgegen dieser ausdrücklichen Warnung zu Kostversuchen entschließen und auf diese Veröffentlichung berufen.**
 
