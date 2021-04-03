@@ -33,14 +33,6 @@ Ein besonders faszinierender [Fundkorbpilz](AA "Glossar-") ist der *Pillenwerfer
 - - -
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-Ein aktueller [Fundkorbpilz](AA "Glossar-") ist der [](/pilze/lepista-nuda-violetter-rötelritterling)[Frostschneckling Hygrophorus hypothejus](/pilze/hygrophorus-hypothejus-frostschneckling). Er gehört wie zum Beispiel auch Austernseitling, Samtfußrübling oder Schwarzstreifiger Ritterling zu den typischen Winterpilzen. Man findet ihn zur Zeit vor allem in Kiefernwäldern. Wer ihn sicher kennt und die Schleimschicht entfernt hat, kann ihn in der Pfanne braten. 
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/physarum_utriculare_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
@@ -51,12 +43,6 @@ Begegnungen der besonderen Art: wer so etwas entdeckt, betrachtet sich ungläubi
 ### Pilzquiz
 
 {% include quiz.html %}
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/paxillus_involutus_03_bi.jpg" %}
-{% include abbildung_ende.html legende="Wer die passenden Körpermaße hat, kann bei geeigneter Witterung einen Kahlen Krempling zu seiner Badewanne machen und dabei vor Freude quaken. Das originelle Foto gelang Andreas Chrobasik aus Nürnberg und wurde mir freundlicherweise von der BILD-Zeitung zur Veröffentlichung auf www.fundkorb.de zur Verfügung gestellt" %}
 
 - - -
 
