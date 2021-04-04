@@ -17,10 +17,10 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/tubaria_furfuracea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/gyromitra_esculenta_03_ii.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Foto: Inga Illig" %}
 
-Aktueller [Fundkorbpilz](AA "Glossar-") (02.04.2021): [Gemeiner Trompetenschnitzling Tubaria furfuracea](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling) - in der Tat eine "gemeine", fast überall häufige Art, die nahezu ganzjährig [saprobiontisch](saprobiontisch "Glossar") auf Holzhäckseln, Rindenschrot, Sägemehl oder an liegenden toten Zweigen wachsend gefunden werden kann. Besonders häufig ist er in den Monaten Oktober bis März.
+Aktueller [Fundkorbpilz](AA "Glossar-") (04.04.2021) ist die Frühjahrslorchel Gyromitra esculenta. Es gibt da bei Rödermark-Waldacker einen Kiefernwald, in dem die stattlichen Pilze seit Jahren wachsen. Jetzt sind sie wieder erschienen, aber es ist nicht immer leicht, sie zu finden, weil sie regelmäßig ihren Wuchsort ändern. Man könnte sie kurz und bündig als [delikate Giftpilze](/artikel/ein-delikater-giftpilz.html) bezeichnen. Also Finger weg!
 
 - - -
 
