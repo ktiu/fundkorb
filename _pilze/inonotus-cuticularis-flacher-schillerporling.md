@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: Inonotus	cuticularis
   deutsch: Flacher Schillerporling
-  referenz: (Bull.) P. Karst. 1879
+  referenz: (Bull.) P. Karst. 1880
   familie: Hymenochaetaceae
   erlaeuterung: cuticularis = dünnhäutig
 profil:
@@ -37,7 +37,7 @@ Auf dem Porenfoto (stark vergrößert) sind feinste Härchen zu erkennen. Frank 
 {% include bild.html datei="/bilder/inonotus_cuticularis_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Inonotus cuticularis ist ein Wund- oder Schwächeparasit, der im Holz eine Weißfäule erzeugt. Er kann nach dem Absterben seines Wirts noch einige Jahre lang [saprobiontisch](saprobiontisch "Glossar") weiter wachsen. In der Rhein-Main-Ebene scheint er gar nicht so selten zu sein, was auch die Online-Kartierung der DGfM deutlich zeigt.
+Inonotus cuticularis ist ein Wund- oder Schwächeparasit, der im Holz eine Weißfäule erzeugt. Er kann nach dem Absterben seines Wirts noch einige Jahre lang [saprobiontisch](saprobiontisch "Glossar") weiter wachsen. In der Rhein-Main-Ebene scheint er gar nicht so selten zu sein, was auch die [Online-Kartierung der DGfM](http://hessen.pilze-deutschland.de/organismen/inonotus-cuticularis-bull-p-karst-1880-1) deutlich zeigt.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/inonotus_cuticularis_03_dg.jpg" nocrop=true %}
