@@ -17,7 +17,7 @@ literatur:
 ---
 Gestielte Pilze mit Stacheln auf der Hutunterseite sind zumeist leicht zu erkennen. Es gibt nicht so viele. Und beim Ohrlöffelstacheling ist eigentlich schon der Name eine Fruchtkörperbeschreibung: seitlich gestielt, Stacheln auf der Hutunterseite. Nimmt man noch seine sehr spezifische Substratwahl hinzu, gibt es kein Vertun mehr. Er wächst ausschließlich auf Kiefernzapfen. Funde auf Zapfen anderer Koniferen (Fichte oder Tanne) sind extrem seltene Ausnahmen.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/auriscalpium_vulgare_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/auriscalpium_vulgare_03_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/auriscalpium_vulgare_04_dg.jpg" nocrop=true %}
