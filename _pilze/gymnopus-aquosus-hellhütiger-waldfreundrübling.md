@@ -15,7 +15,7 @@ literatur:
   - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/gaquosus.php
   - {}
 ---
-Früher war es recht einfach mit dem Waldfreundrübling. Da gab es nur einen und der hieß *Collybia dryophila*. Heute gibt es den Waldfreundrübling nicht mehr - es gibt mehrere und die natürliche Variabilität dieser Arten macht es nicht leicht, sie auseinanderzuhalten. Gymnopus aquosus hat eher helle als ockerbräunliche Hüte und meist auch blassere Stiele als die anderen, wobei Lamellen- und Stielfarbe kaum oder nur wenig kontrastieren. Der Basalfilz (falls vorhanden) ist ocker-rosa, nicht weißlich.
+Früher war es recht einfach mit dem Waldfreundrübling. Da gab es nur einen und der hieß *Collybia dryophila*. Heute gibt es <ins>den</ins> Waldfreundrübling nicht mehr - es gibt mehrere und die natürliche Variabilität dieser Arten macht es nicht leicht, sie auseinanderzuhalten. Gymnopus aquosus hat eher helle als ockerbräunliche Hüte und meist auch blassere Stiele als die anderen, wobei Lamellen- und Stielfarbe kaum oder nur wenig kontrastieren. Der Basalfilz (falls vorhanden) ist ocker-rosa, nicht weißlich.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/gymnopus_aquosus_02_tl.jpg" %}
