@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/i/Inonotus_cuticularis.html
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/inonotus_cuticularis_01_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/inonotus_cuticularis_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="09.10.2018 an Buche in einem Wald bei Dietzenbach (TK 5918.4.3)" %}
