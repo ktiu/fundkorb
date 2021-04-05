@@ -31,7 +31,7 @@ Er wächst konsolenartig, oft zu mehreren oder vielen dachziegelig übereinander
 {% include bild.html datei="/bilder/inonotus_cuticularis_06_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="von links nach rechts: 1. Poren -- 2. ankerförmige Sete -- 3. Sporen (6,5 - 7 X 4,5 - 5,5 µm  (3 Fotos von Frank Kaster)" %}
 
-Auf dem Porenfoto sind feinste Härchen zu erkennen. Frank Kaster vermutet, dass diese für das Schillern des [Hymeniums](Hymenium "Glossar") verantwortlich sein könnten.
+Auf dem Porenfoto (stark vergrößert) sind feinste Härchen zu erkennen. Frank Kaster vermutet, dass diese für das Schillern des [Hymeniums](Hymenium "Glossar") verantwortlich sein könnten.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/inonotus_cuticularis_04_dg.jpg" %}
