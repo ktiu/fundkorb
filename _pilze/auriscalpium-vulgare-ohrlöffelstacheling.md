@@ -7,6 +7,7 @@ beschreibung:
   erlaeuterung: vulgare = gemein, gewöhnlich, überall vorkommend
 profil:
   aktualisiert: 2021-04-05
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/auriscalpium_vulgare_01_dg.jpeg
