@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Diesen aktuellen [Fundkorbpilz](AA "Glossar-") (06.04.2021) findet man in jedem Kiefernwald und zu jeder Jahreszeit. Der [Bittere Kiefernzapfenrübling Strobilurus tenacellus](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling) wächst auf Zapfen, die meist unter Moos oder Nadelstreu verborgen sind. Schmeckt er bitter, ist der Fall klar. Wenn nicht, könnte es der Milde Kiefernzapfenrübling sein und dann müsste man mikroskopieren, denn optisch gleichen sie sich wie ein Ei dem anderen.
+Diesen aktuellen [Fundkorbpilz](AA "Glossar-") (06.04.2021) findet man in jedem Kiefernwald und zu jeder Jahreszeit. Der [Bittere Kiefernzapfenrübling Strobilurus tenacellus](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling) wächst auf Zapfen, die meist unter Moos oder Nadelstreu verborgen sind. Schmeckt er bitter, ist der Fall klar. Wenn nicht, könnte es auch der Milde Kiefernzapfenrübling sein und dann müsste man mikroskopieren, denn optisch gleichen sie sich wie ein Ei dem anderen.
 
 - - -
 
