@@ -24,7 +24,7 @@ Die Farbe ist nicht unattraktiv - aber der Geruch! Er wird mit dem von Mottenkug
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/scytinostroma_portentosum_03_fk.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="von links nach rechts: Querschnitt-- Basidien -- Sporen -- Generativ- und Skeletthyphe (4 Mikrofotos von Frank Kaster)" %}
+{% include abbildung_ende.html legende="von links nach rechts: Querschnitt -- Basidien -- Sporen -- Generativ- und Skeletthyphe (4 Mikrofotos von Frank Kaster)" %}
 
 Der Pilz ist relativ häufig, bevorzugt tote Weiden-, Buchen- und Eichenstämme und -äste, ist aber auch an anderen Laubhölzern zu finden.
 
