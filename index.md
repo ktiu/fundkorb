@@ -16,8 +16,6 @@ footer_scripts:
 
 - - -
 
-
-
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
