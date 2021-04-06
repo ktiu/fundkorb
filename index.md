@@ -28,7 +28,7 @@ Diesen aktuellen [Fundkorbpilz](AA "Glossar-") (06.04.2021) findet man in jedem 
 {% include bild.html datei="/bilder/gyromitra_esculenta_03_ii.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Schöner Fruchtkörper mit Spinne (Foto: Inga Illig)" %}
 
-Aktueller [Fundkorbpilz](AA "Glossar-") (04.04.2021) ist die Frühjahrslorchel Gyromitra esculenta. Es gibt da bei Rödermark-Waldacker einen Kiefernwald, in dem die stattlichen Pilze seit Jahren wachsen. Jetzt sind sie wieder erschienen, aber es ist nicht immer leicht, sie zu finden, weil sie regelmäßig ihren Wuchsort ändern. Man könnte sie kurz und bündig als delikate Giftpilze[](/artikel/ein-delikater-giftpilz.html) bezeichnen. Also Finger weg! ([Mehr lesen...](/artikel/ein-delikater-giftpilz.html))
+Ein anderer aktueller [Fundkorbpilz](AA "Glossar-") (04.04.2021) ist die Frühjahrslorchel Gyromitra esculenta. Es gibt da bei Rödermark-Waldacker einen Kiefernwald, in dem die stattlichen Pilze seit Jahren wachsen. Jetzt sind sie wieder erschienen, aber es ist nicht immer leicht, sie zu finden, weil sie regelmäßig ihren Wuchsort ändern. Man könnte sie kurz und bündig als delikate Giftpilze[](/artikel/ein-delikater-giftpilz.html) bezeichnen. Also Finger weg! ([Mehr lesen...](/artikel/ein-delikater-giftpilz.html))
 
 - - -
 
