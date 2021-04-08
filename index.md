@@ -17,6 +17,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/leptosphaeria_acuta_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](<AA "Glossar-">) am 08.04.2021: Kleiner Rundgang in der Parkanlage. Nix gefunden - da greift man sich einen trockenen Brennnesselstängel aus dem Vorjahr, und schon hat man was. Mit bloßem Auge sind es nur schwarze Pünktchen, mit der Lupe betrachtet [Leptosphaeria acuta](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz), der Zugespitzte Kugelpilz. Einer von vielen winzigen Ascomyzeten, die dieses banale Substrat in Scharen besiedeln und dafür sorgen, dass es zersetzt wird.
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -28,7 +36,7 @@ Diesen aktuellen [Fundkorbpilz](AA "Glossar-") (06.04.2021) findet man in jedem 
 {% include bild.html datei="/bilder/gyromitra_esculenta_03_ii.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Schöner Fruchtkörper mit Spinne (Foto: Inga Illig)" %}
 
-Ein anderer aktueller [Fundkorbpilz](AA "Glossar-") (04.04.2021) ist die Frühjahrslorchel Gyromitra esculenta. Es gibt da bei Rödermark-Waldacker einen Kiefernwald, in dem die stattlichen Pilze seit Jahren wachsen. Jetzt sind sie wieder erschienen, aber es ist nicht immer leicht, sie zu finden, weil sie regelmäßig ihren Wuchsort ändern. Man könnte sie kurz und bündig als delikate Giftpilze[](/artikel/ein-delikater-giftpilz.html) bezeichnen. Also Finger weg! ([Mehr lesen...](/artikel/ein-delikater-giftpilz.html))
+Zuvor war die Frühjahrslorchel Gyromitra esculenta unser aktueller [Fundkorbpilz](AA "Glossar-") (04.04.2021). Es gibt da bei Rödermark-Waldacker einen Kiefernwald, in dem die stattlichen Pilze seit Jahren wachsen. Jetzt sind sie wieder erschienen, aber es ist nicht immer leicht, sie zu finden, weil sie regelmäßig ihren Wuchsort ändern. Man könnte sie kurz und bündig als delikate Giftpilze[](/artikel/ein-delikater-giftpilz.html) bezeichnen. Also Finger weg! ([Mehr lesen...](/artikel/ein-delikater-giftpilz.html))
 
 - - -
 
@@ -71,4 +79,3 @@ Begegnungen der besonderen Art: wer so etwas entdeckt, betrachtet sich ungläubi
 Vor Gammelfleisch ekelt sich jeder. Umso mehr erstaunt es, was häufig als Ausbeute von Pilzsammlern in Körben oder gar Plastiktüten nach Hause getragen wird. In Zusammenarbeit mit dem Gesundheitsamt Frankfurt möchten wir Ihnen gerne einen informativen Leitfaden zu diesem wichtigen Thema zum Download und Ausdrucken zur Verfügung stellen – [hier als PDF erhältlich](/assets/docs/Fundkorb.de-Gammelpilze.pdf).
 
 - - -
-
