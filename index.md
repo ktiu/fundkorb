@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/leptosphaeria_acuta_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Aktueller [Fundkorbpilz](AA "Glossar-") am 08.04.2021: Kleiner Rundgang in der Parkanlage. Nix gefunden - da greift man sich einen trockenen Brennnesselstängel aus dem Vorjahr, und schon hat man was. Mit bloßem Auge sind es nur schwarze Pünktchen, mit der Lupe betrachtet [Leptosphaeria acuta, der Zugespitzte Kugelpilz](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz). Einer von vielen winzigen Ascomyzeten, die dieses banale Substrat in Scharen besiedeln und dafür sorgen, dass es zersetzt wird.
+Aktueller [Fundkorbpilz](AA "Glossar-") am 08.04.2021: Kleiner Rundgang in der Parkanlage. Nix gefunden - da greift man sich einen trockenen Brennnesselstängel aus dem Vorjahr, und schon hat man was. Mit bloßem Auge sind es nur schwarze Pünktchen, mit der Lupe betrachtet [Leptosphaeria acuta, der Zugespitzte Kugelpilz](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz). Einer von vielen winzigen Ascomyzeten, die dieses banale Substrat in Scharen besiedeln und dafür sorgen, dass es zersetzt wird. 
 
 - - -
 
