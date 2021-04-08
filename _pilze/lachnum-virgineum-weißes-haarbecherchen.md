@@ -34,5 +34,5 @@ Um bei der Bestimmung sicher zu gehen, sollte mikroskopiert werden. Bei Dasyscyp
 
 ##### Weitere auf Bucheckernschalen wachsende Pilzarten:
 
-Xylaria carpophila  =  Bucheckernschalen-Holzkeule  
-Flammulaster carpophilus  =  Buchenwald-Flockenschnitzling
+[Xylaria carpophila](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)  =  Bucheckernschalen-Holzkeule\
+[Flammulaster carpophilus](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)  =  Buchenwald-Flockenschnitzling
