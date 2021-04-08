@@ -24,5 +24,5 @@ Dieser Pilz gehört zu den Ascomyzeten (Schlauchpilzen), das heißt, er bildet s
 
 Die Scheibenlorchel gilt als essbar, ist aber roh giftig. Sie könnte mit dem Morchelbecherling (Disciotis venosa) verwechselt werden, der jedoch einen deutlich aufgebogenen Rand hat, nach Chlor riecht und völlig andere ökologische Ansprüche (auwaldartige Biotope) hat.
 
-Anmerkung zur [Taxonomie](<Taxonomie "Glossar">): 
+Anmerkung zur [Taxonomie](Taxonomie "Glossar"): 
 Laut [Index fungorum](http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=248544) muss der aktuelle Name *Discina ancilis* lauten. Da herrscht also ein ziemliches Wirrwarr, das alle Kombinationen aus *Gyromitra/Discina* und *ancilis/perlata* enthält, mit denen auch die Familienzugehörigkeit zwischen Helvellaceae und Discinaceae hin- und herwechselt. Früher hieß der Pilz auch schon Peziza perlata, Helvella ancilis und Acetabula ancilis. Auch seine Auswahl an deutschen Namen ist beträchtlich.
