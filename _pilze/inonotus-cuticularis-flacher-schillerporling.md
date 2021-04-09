@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: Inonotus	cuticularis
+  wissenschaftlich: Inonotus cuticularis
   deutsch: Flacher Schillerporling
   referenz: (Bull.) P. Karst. 1880
   familie: Hymenochaetaceae
