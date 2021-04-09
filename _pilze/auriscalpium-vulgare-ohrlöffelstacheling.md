@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Auriscalpium vulgare
-  deutsch: "Ohrlöffelstacheling\t"
+  deutsch: "Ohrlöffelstacheling"
   referenz: Gray 1821
   familie: Auriscalpiaceae
   erlaeuterung: vulgare = gemein, gewöhnlich, überall vorkommend
