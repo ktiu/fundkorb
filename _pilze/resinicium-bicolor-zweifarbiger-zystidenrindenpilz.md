@@ -13,7 +13,8 @@ hauptbild:
   datei: /bilder/resinicium_bicolor_01_dg.jpg
 literatur:
   - url: http://aphyllopower.blogspot.com/2008/01/
-    text: Nr. 57
+    text: Aphyllopower Blogspot Nr. 57
+  - {}
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/resinicium_bicolor_02_dg.jpg" nocrop=true %}
