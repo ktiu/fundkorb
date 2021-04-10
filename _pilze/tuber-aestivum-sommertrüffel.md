@@ -28,7 +28,7 @@ Die Sommertrüffel ist gekennzeichnet durch ihre schwarzbraune bis schwarze Rind
 
 Die Sommertrüffel gilt als selten und wird in den Roten Listen in der Kategorie RL=1 (vom Aussterben bedroht) geführt, darf also unter keinen Umständen gesammelt werden. Funde in privaten Grundstücken fallen selbstverständlich nicht unter diesen strengen Schutz. Das Sammelverbot wie auch die Rote-Liste-Einstufung werden allerdings von einigen Pilzsachverständigen als unrealistisch eingeschätzt. Sie gehen davon aus, dass die Sommertrüffel durchaus häufig vorkommt und wegen ihres unterirdischen Wachstums nur nicht gesehen wird. Im Internet ist eine ["alternative" Verbreitungskarte](http://www.trueffelsuche.de/trueffeln-in-deutschland.html) veröffentlicht worden, die ein völlig anderes Bild als das der offiziellen Naturschützer zeigt.
 
-Die Pilzfreunde der FundGroup habe ich mit einer scherzhaft formuierten Mail auf den Fernsehbeitrag mit dem Titel *"Schatz im Garten"* hingewiesen: 
+Die Pilzfreunde der Rhein-Main-FundGroup habe ich mit einer scherzhaft formuierten Mail auf den Fernsehbeitrag mit dem Titel *"Schatz im Garten"* hingewiesen: 
 
 > Liebe Pilzfreunde, unsere nächste Pilzexkursion findet im Garten von Jens Lüders in Frankfurt-Rödelheim statt. Bitte Schaufeln, Hacken und Spaten mitbringen." Doch Spaß beiseite: tatsächlich wird Herr Lüders zum glücklichen Trüffelschwein, als er plötzlich seltsame Knollen im heimischen Garten findet. Es ist nun schon der zweite Trüffelfund im Frankfurter Stadtgebiet, und über beide hat der Hessische Rundfunk in seiner Sendereihe Maintower berichtet."
 
