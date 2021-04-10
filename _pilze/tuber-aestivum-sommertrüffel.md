@@ -30,7 +30,9 @@ Die Sommertrüffel gilt als selten und wird in den Roten Listen in der Kategorie
 
 Die Pilzfreunde der Rhein-Main-FundGroup habe ich mit einer scherzhaft formuierten Mail auf den Fernsehbeitrag mit dem Titel *"Schatz im Garten"* hingewiesen: 
 
-> Liebe Pilzfreunde, unsere nächste Pilzexkursion findet im Garten von Jens Lüders in Frankfurt-Rödelheim statt. Bitte Schaufeln, Hacken und Spaten mitbringen." Doch Spaß beiseite: tatsächlich wird Herr Lüders zum glücklichen Trüffelschwein, als er plötzlich seltsame Knollen im heimischen Garten findet. Es ist nun schon der zweite Trüffelfund im Frankfurter Stadtgebiet, und über beide hat der Hessische Rundfunk in seiner Sendereihe Maintower berichtet."
+> Liebe Pilzfreunde, unsere nächste Pilzexkursion findet im Garten von J. L. in Frankfurt-Rödelheim statt. Bitte Schaufeln, Hacken und Spaten mitbringen." 
+
+Doch Spaß beiseite: tatsächlich wird Herr L. zum glücklichen Trüffelschwein, als er plötzlich seltsame Knollen im heimischen Garten findet. Es ist nun schon der zweite Trüffelfund im Frankfurter Stadtgebiet, und über beide hat der Hessische Rundfunk in seiner Sendereihe Maintower berichtet.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tuber_aestivum_05_dg.jpg" nocrop=true %}
