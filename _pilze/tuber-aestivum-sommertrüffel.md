@@ -48,13 +48,22 @@ Meine Antwort um 23:42 Uhr:
 Montag, 14.07.2014 um 00:48 Uhr:  
 
 > *Danke für die schnelle Antwort. Nein, ein Bovist ist es sicher nicht. Anbei das Bild.*
->
 
 Meine Antwort um 07:08 Uhr:  
 
 > *Wow! Das ist in der Tat eine echte Trüffel, durchaus möglich, dass es sich um die Sommertrüffel handelt. Ich habe bisher noch nie echte Trüffeln gefunden und würde mich gern mit Ihnen telefonisch über den Fund unterhalten. Sie erreichen mich unter ...*
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/tuber_aestivum_07_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/tuber_aestivum_08_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Die Preungesheimer Sommertrüffeln -- Ortstermin mit Herrn P. und dem Hessenfernsehen" %}
+
 Das Telefongespräch fand noch am selben Abend statt und setzte Unvorhergesehenes in Gang. Als ich am Dienstag zum vereinbarten Ortstermin im Garten von J. P. in Frankfurt-Preungesheim erschien, konnte ich nicht nur bestätigen, dass es sich tatsächlich um die Sommertrüffel (Tuber aestivalis) handelt, ich war auch nicht der einzige Besucher. Herr P. fand seinen Fund interessant genug, um den Hessischen Rundfunk zu informieren, der sofort einen Reporter mit Kamerateam losschickte. Noch am selben Abend erschien der Bericht in der aktuellen Sendereihe "Maintower".
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/tuber_aestivum_09_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/tuber_aestivum_10_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Herr P. bei der fürs Fernsehen simulierten Gartenarbeit -- Die Fundstelle" %}
 
 Das TV-Team begleitete Herrn P. noch in die Kleinmarkthalle, um die Expertise einer Fachverkäuferin einzuholen. Deren Urteil: unsere Sommertrüffel gehört nicht zu den wertvollsten. Ihr Kilopreis liegt bei "nur" 1.600 Euro.
 
