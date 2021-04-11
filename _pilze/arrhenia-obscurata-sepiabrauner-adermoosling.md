@@ -8,6 +8,7 @@ beschreibung:
   familie: Hygrophoraceae
 profil:
   aktualisiert: 2021-04-11
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/arrhenia_obscurata_01_dg.jpg
