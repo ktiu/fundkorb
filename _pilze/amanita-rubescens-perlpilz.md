@@ -84,3 +84,7 @@ Wichtiger Hinweis: Der Perpilz ist (wie viele andere Speisepilze auch) roh gifti
 </div>
 
 Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Hier eine Illustration  von Gabriele Gossner (in: Hans Haas - Pilze Mitteleuropas, 1964)
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/amanita_rubescens_08_gg.jpg" %}
+{% include abbildung_ende.html %}
