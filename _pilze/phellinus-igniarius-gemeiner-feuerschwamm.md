@@ -14,6 +14,7 @@ hauptbild:
   datei: /bilder/phellinus_igniarius_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/p/Phellinus_igniarius.html
+  - url: https://de.wikipedia.org/wiki/Gemeiner_Feuerschwamm
 ---
 Die Feuerschwämme gehören zur Familie der *Hymenochaetaceae*. Deren charakteristisches Merkmal ist die braune [Trama](Trama "Glossar"), die sich mit Kalilauge violett-schwarz verfärbt. Die ein- oder mehrjährigen Fruchtkörper sind konsolen-, seltener krustenförmig, ihr [Hymenophor](Hymenophor "Glossar") zur Vergrößerung der fertilen Oberfläche ist glatt oder röhrig. Die wichtigsten Gattungen sind Borstenscheiben (Hymenochaete), Schillerporlinge (Inonotus) und Feuerschwämme (Phellinus).
 
