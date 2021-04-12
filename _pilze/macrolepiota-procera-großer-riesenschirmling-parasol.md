@@ -51,4 +51,5 @@ Diese drei Riesenschirme befinden sich im sogenannten „Paukenschlegel-Stadium�
 Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Hier eine Illustration  von Gabriele Gossner (in: Hans Haas - Pilze Mitteleuropas, 1964)
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/macrolepiota_procera_10_gg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
