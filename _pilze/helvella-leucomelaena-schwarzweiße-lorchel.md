@@ -16,7 +16,7 @@ literatur:
 ---
 Die gestielt becherförmigen Fruchtkörper werden etwa 3 cm hoch und bis zu 4 cm breit. Die Stiele sind kurz gedrungen, faltig längsgerippt und meist im Boden eingesenkt. Die wenigen Rippen gehen kaum oder nur kurz in den Becher über. An den Rändern sind die Becher oft eingerissen. Auffallend ist der "Schwarzweißkontrast". Das Innere des Bechers, in dem die Sporen gebildet werden, ist graubraun bis dunkelbraun gefärbt, ebenso die Außenseite, die zum Stiel hin und am Stiel aber weißliche Farben aufweist.
 
-Verwechslungen wären mit der Hochgerippten Lorchel (Helvella acetabulum; früherer Name: Pokalrippenbecherling) möglich, der jedoch deutlich größer, heller und länger gestielt ist. Auch reichen seine Stielrippen meist deutlicher in den Becher hinein.
+Verwechslungen wären mit der [Hochgerippten Lorchel](/pilze/helvella-acetabulum-hochgerippte-lorchel) (Helvella acetabulum; früherer Name: Pokalrippenbecherling) möglich, der jedoch deutlich größer, heller und länger gestielt ist. Auch reichen seine Stielrippen meist deutlicher in den Becher hinein.
 
 Die Schwarzweiße Lorchel, die zu den Schlauchpilzen gehört, wächst gern in Nadelwäldern, aber auch auf Wiesen- oder Rasenflächen, an Straßen- und Wegrändern. Da sie kalkliebend ist, findet man sie auch auf geschotterten Flächen. Sie gilt als selten (bei *123pilze* sogar als sehr selten), ihre Erscheinungszeit wird mit April bis Juni angegeben.
 
