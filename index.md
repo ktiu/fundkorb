@@ -17,6 +17,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/phellinus_igniarius_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Unser aktueller [Fundkorbpilz](AA "Glossar-") am 12.04.2021 ist ein Baumpilz. Zur Zeit gibt es bei uns im Rhein-Main-Gebiet wegen der anhaltenden Trockenheit keine auf dem Boden wachsenden Arten. Unabhängig von Witterungsverhältnissen sind mehrjährige Porlinge wie der Gemeine oder Weiden-Feuerschwamm Phellinus igniarius. Der wächst an einigen der Weiden in unserer Dietzenbacher Parkanlage - sehr zum Ärger der Gärtner, die den nicht sehr aggressiven Weißfäuleerreger nicht gerne sehen. Sie haben vor vier Jahren die robusten Pilze von den Stämmen abgeschlagen in Unkenntnis der Tatsache, dass die Pilzmyzelien im Holz weiterleben und immer wieder neue Fruchtkörper bilden werden. Das haben sie inzwischen auch getan, wohl aus Verärgerung in noch größerer Zahl als zuvor.
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/leptosphaeria_acuta_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
