@@ -37,3 +37,7 @@ Hinweisen möchte ich auch auf die unterschiedliche Schreibweise des Epithets (=
 {% include abbildung_ende.html %}
 
 Für die Verwendung in der Küche sind Riesenschirmlingsarten wie [Macrolepiota procera](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol) oder [konradii](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling) die eindeutig bessere Wahl.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/mactolepiota_rhacodes_05_gg.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Hier eine Illustration  von Gabriele Gossner (in: Hans Haas - Pilze Mitteleuropas, 1964)" %}
