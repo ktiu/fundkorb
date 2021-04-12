@@ -82,3 +82,5 @@ Wichtiger Hinweis: Der Perpilz ist (wie viele andere Speisepilze auch) roh gifti
     </tbody>
   </table>
 </div>
+
+Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Hier eine Illustration  von Gabriele Gossner (in: Hans Haas - Pilze Mitteleuropas, 1964)
