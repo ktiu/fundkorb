@@ -16,6 +16,15 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/peziza_vesiculosa_06_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/peziza_vesiculosa_07_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+13.04.2021: Endlich hat es auch in Dietzenbach mal wieder geregnet und einen aktuellen [Fundkorbpilz](AA "Glossar-") wachsen lassen. An einer feuchten Stelle auf offensichtlich gut gedüngtem Boden sind massenhaft [Blasige Becherlinge (Peziza vesiculosa)](/pilze/peziza-vesiculosa-blasiger-becherling) erschienen.
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/phellinus_igniarius_05_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -29,14 +38,6 @@ Unser aktueller [Fundkorbpilz](AA "Glossar-") am 12.04.2021 ist ein Baumpilz. Zu
 {% include abbildung_ende.html %}
 
 Aktueller [Fundkorbpilz](AA "Glossar-") am 08.04.2021: Kleiner Rundgang in der Parkanlage. Nix gefunden - da greift man sich einen trockenen Brennnesselstängel aus dem Vorjahr, und schon hat man was. Mit bloßem Auge sind es nur schwarze Pünktchen, mit der Lupe betrachtet [Leptosphaeria acuta, der Zugespitzte Kugelpilz](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz). Einer von vielen winzigen Ascomyzeten, die dieses banale Substrat in Scharen besiedeln und dafür sorgen, dass es zersetzt wird. 
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Diesen aktuellen [Fundkorbpilz](AA "Glossar-") (06.04.2021) findet man in jedem Kiefernwald und zu jeder Jahreszeit. Der [Bittere Kiefernzapfenrübling Strobilurus tenacellus](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling) wächst auf Zapfen, die meist unter Moos oder Nadelstreu verborgen sind. Schmeckt er bitter, ist der Fall klar. Wenn nicht, könnte es auch der Milde Kiefernzapfenrübling sein und dann müsste man mikroskopieren, denn optisch gleichen sie sich wie ein Ei dem anderen.
 
 - - -
 
