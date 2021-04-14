@@ -4,7 +4,7 @@ autor_in: Dieter Gewalt
 published: true
 ---
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/gyromitra_esculenta_fk.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/gyromitra_esculenta_06_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/gyromitra_esculenta_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Frühjahrslorcheln (Gyromitra esculenta)" %}
 
