@@ -32,7 +32,7 @@ Frühjarslorcheln sind in Hut und Stiel gegliedert und werden bis zu 12 cm hoch.
 {% include bild.html datei="/bilder/gyromitra_esculenta_10_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Mikrofoto rechts von Frank Kaster: Asci 8-sporig, Sporen elliptisch mit 2 Tropfen" %}
 
-Es gibt mehrere Verwechlunsmöglichkeiten. Ebenfalls früh im Jahr erscheint die Riesenlorchel *Gyromitra gigas*, die gern in Kahlschlägen oder um Baustümpfe herum wächst. Ihre Stiele sind kurz aber sehr dick (Beschreibung in Breitenbach & Kränzlin, Pilze der Schweiz Band 1:
+Es gibt mehrere Verwechlunsmöglichkeiten. Ebenfalls früh im Jahr erscheint die Riesenlorchel *Gyromitra gigas*, die gern in Kahlschlägen oder um Baustümpfe herum wächst. Ihre Stiele sind kurz aber sehr dick (Beschreibung in Breitenbach & Kränzlin, Pilze der Schweiz Band 1):
 
 > Der ganze Pilz wirkt klumpenförmig." 
 
