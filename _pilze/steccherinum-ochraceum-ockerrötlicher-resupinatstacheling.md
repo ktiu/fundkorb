@@ -42,7 +42,7 @@ Der Ockerrötliche Resupinatstacheling ist ganz überwiegend an toten Ästen und
 
 Ähnlich ist der Rundsporige Resupinatstacheling *Steccherinum bourdotii*. Dieser hat längere Stacheln und etwas größere, vor allem aber anders geformte Sporen.
 
-**Steccherinum bourdotii:** Stacheln bis 2,5 mm und darüber eiförmig – Sporen kugelig 4-5 x 3-4 µm  
+**[Steccherinum bourdotii](/pilze/steccherinum-bourdotii-rundsporiger-resupinatstacheling):** Stacheln bis 2,5 mm und darüber eiförmig – Sporen kugelig 4-5 x 3-4 µm  
 
 **Steccherinum ochraceum:** Stacheln bis 1 mm – Sporen ellipsoidisch 3,2 – 4 x 1,8 – 2,5 µm
 
