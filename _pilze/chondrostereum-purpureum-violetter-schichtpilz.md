@@ -14,6 +14,8 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Violetter_Knorpelschichtpilz
   - url: http://tintling.com/pilzbuch/arten/c/Chondrostereum_purpureum.html
+  - text: Einsatz gegen die Spätblühende Traubenkirsche
+    url: https://www.waldwissen.net/assets/waldwirtschaft/schaden/invasive/lfe_waldschutz_traubenkirsche/download/Der_Violette_Knorpelschichtpilz_als__Bioherbizid__gegen_die_Spatbluhende_Traubenkirsche.pdf
 ---
 Der Violette Schichtpilz ist die einzige Art in seiner Gattung und kaum zu verwechseln, zumindest wenn er so schön abstehende Hütchen bildet wie auf dem Foto. Sie können sowohl dachziegelig übereinander angeordnet als auch in wellig-verbogenen Reihen waagerecht miteinander verbunden sein. Ihre Oberseiten sind striegelig-filzig und grau-weißlich mit violettem Ton, auch dunkler purpurbraun, die glatte bis etwas runzelige Fruchtschicht ist braunviolett.
 
