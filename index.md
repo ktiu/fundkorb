@@ -41,6 +41,10 @@ Unser aktueller [Fundkorbpilz](AA "Glossar-") am 12.04.2021 ist ein Baumpilz. Zu
 
 - - -
 
+[Liste aller aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/pilobolus_kleinii_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
