@@ -16,6 +16,10 @@ literatur:
 ---
 Teuerlinge sind leicht zu bestimmen. Alle Merkmale sind makroskopisch zu erkennen. Die Fruchtkörper bestehen aus napf-, tönnchen-, schüssel- oder tütenförmigen Behältnissen und den darin liegenden Peridiolen, linsenförmige Gebilde von etwa 1 mm Größe, in denen die Sporen gebildet werden. Die Tönnchen, Schüsselchen oder Tütchen sind jung mit einem Häutchen verschlossen, das später aufreißt und den Blick auf die Peridiolen freigibt. Im Falle des Tiegelteuerlings ist dieses Häutchen (Epiphragma) gelb und feinfilzig - und damit ist die Art bereits eindeutig von allen anderen Teuerlingen unterschieden.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/crucibulum_laeve_01_tl.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
 Es ruft immer wieder Erstaunen hervor, wenn man mykologisch weniger erfahrene Naturfreunde auf einen Fund kleiner Teuerlinge aufmerksam macht. "Das sollen Pilze sein?" bekommt man dann desöfteren zu hören und weist an ihrem Beispiel auf den Formenreichtum dieser Organismen hin. Um sie zu finden, muss man nur die Augen offen halten. Sie wachsen auf totem Holz oder Pflanzenresten, gern an Wegrändern oder auf gemulchten Flächen. Noch mit Häutchen verschlossene Fruchtkörper fallen dem Spaziergänger aus Augenhöhe vielleicht als kleine gelbe Knöpfchen auf.
 
 Die Verbreitungsstrategie der Teuerlinge besteht darin, dass die [Peridiolen](Peridiole "Glossar") von auftreffenden Regentropfen aus ihrem Behältnis herauskatapultiert werden. Ihre Hülle zerfällt im Laufe der Zeit und gibt so die einzelnen Sporen frei, die dann vom Wind verfrachtet werden.
