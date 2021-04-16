@@ -16,6 +16,14 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/entoloma_clypeatum_04_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") (16.04.2021) ist der [Schildrötling Entoloma clypeatum](/pilze/entoloma-clypeatum-schildrötling), erschienen in einer Dietzenbacher Parkanlage. Er ist essbar, sollte aber nur von erfahreren Pilzkennern gesammelt werden, da es unter den Rötlingen zahlreiche giftige Arten gibt.
+
+- - -
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/peziza_vesiculosa_06_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/peziza_vesiculosa_07_dg.jpg" nocrop=true %}
@@ -30,14 +38,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 Unser aktueller [Fundkorbpilz](AA "Glossar-") am 12.04.2021 ist ein Baumpilz. Zur Zeit gibt es bei uns im Rhein-Main-Gebiet wegen der anhaltenden Trockenheit keine auf dem Boden wachsenden Arten. Unabhängig von Witterungsverhältnissen sind mehrjährige Porlinge wie der Gemeine oder Weiden-Feuerschwamm Phellinus igniarius. Der wächst an einigen der Weiden in unserer Dietzenbacher Parkanlage - sehr zum Ärger der Gärtner, die den nicht sehr aggressiven Weißfäuleerreger nicht gerne sehen. Sie haben vor vier Jahren die robusten Pilze von den Stämmen abgeschlagen in Unkenntnis der Tatsache, dass die Pilzmyzelien im Holz weiterleben und immer wieder neue Fruchtkörper bilden werden. Das haben sie inzwischen auch getan, wohl aus Verärgerung in noch größerer Zahl als zuvor. [Mehr lesen >>>](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/leptosphaeria_acuta_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 08.04.2021: Kleiner Rundgang in der Parkanlage. Nix gefunden - da greift man sich einen trockenen Brennnesselstängel aus dem Vorjahr, und schon hat man was. Mit bloßem Auge sind es nur schwarze Pünktchen, mit der Lupe betrachtet [Leptosphaeria acuta, der Zugespitzte Kugelpilz](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz). Einer von vielen winzigen Ascomyzeten, die dieses banale Substrat in Scharen besiedeln und dafür sorgen, dass es zersetzt wird. 
 
 - - -
 
