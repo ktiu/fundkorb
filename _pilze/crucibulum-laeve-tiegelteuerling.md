@@ -18,7 +18,7 @@ Teuerlinge sind leicht zu bestimmen. Alle Merkmale sind makroskopisch zu erkenne
 
 Es ruft immer wieder Erstaunen hervor, wenn man mykologisch weniger erfahrene Naturfreunde auf einen Fund kleiner Teuerlinge aufmerksam macht. "Das sollen Pilze sein?" bekommt man dann desöfteren zu hören und weist an ihrem Beispiel auf den Formenreichtum dieser Organismen hin. Um sie zu finden, muss man nur die Augen offen halten. Sie wachsen auf totem Holz oder Pflanzenresten, gern an Wegrändern oder auf gemulchten Flächen. Noch mit Häutchen verschlossene Fruchtkörper fallen dem Spaziergänger aus Augenhöhe vielleicht als kleine gelbe Knöpfchen auf.
 
-Die Verbreitungsstrategie der Teuerlinge besteht darin, dass die [Peridiolen](Peridiolen "Glossar") von auftreffenden Regentropfen aus ihrem Behältnis herauskatapultiert werden. Ihre Hülle zerfällt im Laufe der Zeit und gibt so die einzelnen Sporen frei, die dann vom Wind verfrachtet werden.
+Die Verbreitungsstrategie der Teuerlinge besteht darin, dass die [Peridiolen](Peridiole "Glossar") von auftreffenden Regentropfen aus ihrem Behältnis herauskatapultiert werden. Ihre Hülle zerfällt im Laufe der Zeit und gibt so die einzelnen Sporen frei, die dann vom Wind verfrachtet werden.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/crucibulum_laeve_03_fk.jpg" nocrop=true %}
