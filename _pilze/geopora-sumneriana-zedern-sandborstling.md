@@ -22,15 +22,15 @@ Ein Aufruf von Helgo Bran an Deutschlands Pilzsachverständige im Jahre 1999, na
 Die stiellosen Fruchtkörper des Zedern-Sandborstlings erreichen Durchmesser von etwa 2 bis 7 cm. Sie entwickeln sich kugelförmig unter der Erde und sind zunächst nur als unspezifisches Loch wahrzunehmen. Sie öffnen sich sternförmig, sobald sie an der Oberfläche erscheinen. Die Innenseite der zu den Schlauchpilzen zählenden Art ist grauweißlich bis cremefarben und glatt, die Außenseite borstig und braun. In Verbindung mit ihrem Mykorrhizapartner dürfte sie unverwechselbar sein.
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/geopora_sumneriana_08_tl.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/geopora_sumneriana_07_tl.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/geopora_sumneriana_08_tl.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/geopora_sumneriana_07_tl.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Thomas Lehr" %}
 
 So entwickelt sich der Fruchtkörper des Zedern-Sandborstlings:
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/geopora_sumneriana_06_dg-.jpg" %}
-{% include bild.html datei="/bilder/geopora_sumneriana_04_dg.jpg" %}
+{% include bild.html datei="/bilder/geopora_sumneriana_06_dg-.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/geopora_sumneriana_04_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Zedern-Sandborstlinge im zentralen Park von Dietzenbach" %}
 
 Anmerkungen zu weiteren Funden:  
