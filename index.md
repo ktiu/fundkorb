@@ -16,6 +16,15 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/geopora_sumneriana_05_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/geopora_sumneriana_09_cw.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") (17.04.2021) ist der Zedern-Sandborstling Geopora sumneriana, ein seit vielen Jahren standorttreuer Pilz unter einer Zeder in einer Dietzenbacher Parkanlage. Dieses Jahr mit einer Verspätung von etwa einem Monat erschienen, vermutlich aufgrund der Trockenheit.
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/entoloma_clypeatum_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
@@ -30,14 +39,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") (16.04.2021) ist der [Schildrötling Ent
 {% include abbildung_ende.html %}
 
 13.04.2021: Endlich hat es auch in Dietzenbach mal wieder geregnet und einen aktuellen [Fundkorbpilz](AA "Glossar-") wachsen lassen. An einer feuchten Stelle auf offensichtlich gut gedüngtem Boden sind massenhaft [Blasige Becherlinge (Peziza vesiculosa)](/pilze/peziza-vesiculosa-blasiger-becherling) erschienen.
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/phellinus_igniarius_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Unser aktueller [Fundkorbpilz](AA "Glossar-") am 12.04.2021 ist ein Baumpilz. Zur Zeit gibt es bei uns im Rhein-Main-Gebiet wegen der anhaltenden Trockenheit keine auf dem Boden wachsenden Arten. Unabhängig von Witterungsverhältnissen sind mehrjährige Porlinge wie der Gemeine oder Weiden-Feuerschwamm Phellinus igniarius. Der wächst an einigen der Weiden in unserer Dietzenbacher Parkanlage - sehr zum Ärger der Gärtner, die den nicht sehr aggressiven Weißfäuleerreger nicht gerne sehen. Sie haben vor vier Jahren die robusten Pilze von den Stämmen abgeschlagen in Unkenntnis der Tatsache, dass die Pilzmyzelien im Holz weiterleben und immer wieder neue Fruchtkörper bilden werden. Das haben sie inzwischen auch getan, wohl aus Verärgerung in noch größerer Zahl als zuvor. [Mehr lesen >>>](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
 
 - - -
 
