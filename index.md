@@ -21,7 +21,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/geopora_sumneriana_09_cw.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Aktueller [Fundkorbpilz](AA "Glossar-") (17.04.2021) ist der Zedern-Sandborstling Geopora sumneriana, ein seit vielen Jahren standorttreuer Pilz unter einer Zeder in einer Dietzenbacher Parkanlage. Dieses Jahr mit einer Verspätung von etwa einem Monat erschienen, vermutlich aufgrund der Trockenheit.
+Aktueller [Fundkorbpilz](AA "Glossar-") (17.04.2021) ist der [Zedern-Sandborstling Geopora sumneriana](https://fundkorb.de/pilze/geopora-sumneriana-zedern-sandborstling), ein seit vielen Jahren standorttreuer Pilz unter einer Zeder in einer Dietzenbacher Parkanlage. Dieses Jahr mit einer Verspätung von etwa einem Monat erschienen, vermutlich aufgrund der Trockenheit.
 
 - - -
 
