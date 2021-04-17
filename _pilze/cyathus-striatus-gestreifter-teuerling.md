@@ -14,6 +14,10 @@ hauptbild:
 ---
 Man hat noch keine brütenden Vögel auf ihnen sitzen gesehen, aber es gibt sie wirklich, diese Vogelnestpilze. Während sie im angelsächsischen Sprachraum den schönen und ihr Aussehen bildhaft beschreibenden Namen „Bird´s Nest Fungi“ tragen, werden bei uns zumindest die häufigeren Arten Teuerlinge genannt. Die etwas unverständlich erscheinende Bezeichnung stammt aus dem Mittelalter, als man anhand der Anzahl in ihnen liegender münzenähnlicher Peridiolen glaubte, auf Teuerungszeiten schließen zu können. Waren es wenige, standen schwere Zeiten bevor. Immerhin heißt auch bei uns die Gattung Nidularia „Nestlinge“.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/cyathus_striatus_07_fk.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Foto: Frank Kaster" %}
+
 Die weitaus häufigste Art dieser Gruppe ist der Gestreifte Teuerling. Seine tütenförmigen Fruchtkörper erreichen Durchmesser von etwa einem Zentimeter und werden bis zu 1,5 cm hoch. Obwohl sie oft in Massen auftreten, in keinem Wald fehlen und auch außerhalb z. B. in Parkanlagen zu finden sind, bleiben sie von den meisten Spaziergängern unentdeckt. Macht man auf sie aufmerksam und erklärt, dass es sich um Pilze handelt, erregt man meist ungläubiges Staunen. Sie sind ein schönes Beispiel für die enorme Formenvielfalt im Reich der Pilze, von der die meisten Menschen keine Vorstellung haben.
 
 {% include abbildung_start.html stil="standard" %}
@@ -36,8 +40,7 @@ Die einzelnen Fruchtkörper haben sich inzwischen zu tütenförmigen Behältern 
 
 Gestreifte Teuerlinge wachsen auf einer Vielzahl von Substraten, auf morschem Holz, Zweigen, Zapfen oder Pflanzenresten, besonders gern an Waldwegrändern. Ich habe sie sogar schon auf vermoderndem Karton gefunden.
 
-
-Um Teuerlinge zu bestimmen, bedarf es weder komplizierter Prozeduren noch mikroskopischer Untersuchungen. Da geht wirklich alles mit bloßem Auge und das ist doch mal eine gute Nachricht für alle, die sich angesichts fachsimpelnder [Zystidenjäger](Zystiden "Glossar") ins Abseits gedrängt fühlen. Einen leicht zu handhabender Bestimmungsschlüssel mit allen mitteleuropäischen Teuerlingen (Nestlingen) befindet sich in unserem Beitrag ["Vogelnestpilze"]({% link _verwandtschaften/vogelnestpilze.md %}).
+Um Teuerlinge zu bestimmen, bedarf es weder komplizierter Prozeduren noch mikroskopischer Untersuchungen. Da geht wirklich alles mit bloßem Auge und das ist doch mal eine gute Nachricht für alle, die sich angesichts fachsimpelnder [Zystidenjäger](Zystiden "Glossar") ins Abseits gedrängt fühlen. Einen leicht zu handhabender Bestimmungsschlüssel mit allen mitteleuropäischen Teuerlingen (Nestlingen) befindet sich in unserem Beitrag \["Vogelnestpilze"]({% link _verwandtschaften/vogelnestpilze.md %}).
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cyathus_striatus_-vj.-_07_dg.jpg" %}
