@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/morchella_conica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Auch die [Spitzmorcheln](/pilze/morchella-conica-spitzmorchel), aktueller [Fundkorbpilz](AA "Glossar-") am 19.04.2021, sind trockenheitsbedingt verspätet. In einigen Dietzenbacher sind sie in gemulchten Vorgärten jetzt aber im Kommen. Genug, um das erste Morchelgericht des Jahres zuzubereiten.
+Auch die [Spitzmorcheln](/pilze/morchella-conica-spitzmorchel), aktueller [Fundkorbpilz](AA "Glossar-") am 19.04.2021, sind trockenheitsbedingt verspätet. In Dietzenbacher sind sie in einigen gemulchten Vorgärten jetzt aber im Kommen. Genug, um das erste Morchelgericht des Jahres zuzubereiten.
 
 - - -
 
