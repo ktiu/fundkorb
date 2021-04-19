@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ihre Pilzadresse im Rhein-Main-Gebiet
+title: Ihre Pilzadresse, nicht nur im Rhein-Main-Gebiet
 header_scripts:
   - https://identity.netlify.com/v1/netlify-identity-widget.js
   - assets/js/simple-jekyll-search/simple-jekyll-search.min.js
@@ -13,6 +13,14 @@ footer_scripts:
 - - -
 
 ##### Aufgrund der aktuellen Corona-Situation wird es bis auf weiteres keine pilzkundlichen Führungen geben.
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/morchella_conica_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Auch die [Spitzmorcheln](/pilze/morchella-conica-spitzmorchel), aktueller [Fundkorbpilz](AA "Glossar-") am 19.04.2021, sind trockenheitsbedingt verspätet. In einigen Dietzenbacher sind sie in gemulchten Vorgärten jetzt aber im Kommen. Genug, um das erste Morchelgericht des Jahres zuzubereiten.
 
 - - -
 
