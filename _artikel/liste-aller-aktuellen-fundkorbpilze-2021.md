@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
+21.04.2021  [Morchella esculenta - Speisemorchel](/pilze/morchella-esculenta-speisemorchel)  
 19.04.2021  [Morchella conica - Spitzmorchel](/pilze/morchella-conica-spitzmorchel)  
 17.04.2021  [Geopora sumneriana - Zedern-Sandborstling](/pilze/geopora-sumneriana-zedern-sandborstling)\
 16.04.2021  [Entoloma clypeatum - Schildrötling](/pilze/entoloma-clypeatum-schildrötling)\
