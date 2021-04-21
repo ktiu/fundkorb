@@ -17,6 +17,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/morchella_esculenta_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Zwei Tage nach den Spitzmorcheln sind die [Speisemorcheln](/pilze/morchella-esculenta-speisemorchel) an der Reihe. Eine Pilzfreundin aus Langen hat den Fund aus ihrem Garten gemeldet und wir machen ihn heute (21.04.2021) zum aktuellen [Fundkorbpilz](AA "Glossar-"). Beide Morchelarten gehören zu den begehrtesten Speisepilzen.
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/morchella_conica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -30,23 +38,6 @@ Auch die [Spitzmorcheln](/pilze/morchella-conica-spitzmorchel), aktueller [Fundk
 {% include abbildung_ende.html %}
 
 Aktueller [Fundkorbpilz](AA "Glossar-") (17.04.2021) ist der [Zedern-Sandborstling Geopora sumneriana](https://fundkorb.de/pilze/geopora-sumneriana-zedern-sandborstling), ein seit vielen Jahren standorttreuer Pilz unter einer Zeder in einer Dietzenbacher Parkanlage. Dieses Jahr mit einer Verspätung von etwa einem Monat erschienen, vermutlich aufgrund der Trockenheit.
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/entoloma_clypeatum_04_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") (16.04.2021) ist der [Schildrötling Entoloma clypeatum](/pilze/entoloma-clypeatum-schildrötling), erschienen in einer Dietzenbacher Parkanlage. Er ist essbar, sollte aber nur von erfahreren Pilzkennern gesammelt werden, da es unter den Rötlingen zahlreiche giftige Arten gibt.
-
-- - -
-
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/peziza_vesiculosa_06_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/peziza_vesiculosa_07_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-13.04.2021: Endlich hat es auch in Dietzenbach mal wieder geregnet und einen aktuellen [Fundkorbpilz](AA "Glossar-") wachsen lassen. An einer feuchten Stelle auf offensichtlich gut gedüngtem Boden sind massenhaft [Blasige Becherlinge (Peziza vesiculosa)](/pilze/peziza-vesiculosa-blasiger-becherling) erschienen.
 
 - - -
 
