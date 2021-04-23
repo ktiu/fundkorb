@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 2 Nr. 378"
 ---
-Das Foto mag den Eindruck erwecken, dass die creme-weißliche etwa 5 - 10 mm dicke Schicht eine schwammig weiche Konsistenz besitzt. Das täuscht. In Wahrheit kann Physisporinus vitreus ein ziemlich harter Brocken sein. Seine knotige Oberfläche fühlt sich wachsartig knorpelig an, trocken hornig und hart und dabei glasig spröde. Sie ist feinporig, an den Seiten sind die Poren meist etwas geschlitzt. Auffälliges mikroskopisches Merkmal sind dickwandige Zystidenartige Hyphen mit Kristallen.
+Das Foto mag den Eindruck erwecken, dass die creme-weißliche etwa 5 - 10 mm dicke Schicht eine schwammig weiche Konsistenz besitzt. Das täuscht. In Wahrheit kann Physisporinus vitreus ein ziemlich harter Brocken sein. Seine knotige Oberfläche fühlt sich wachsartig knorpelig an, trocken hornig und hart und dabei glasig spröde. Sie ist feinporig, an den Seiten sind die Poren meist etwas geschlitzt. Auffälliges mikroskopisches Merkmal sind dickwandige [zystidenartige](Zystiden "Glossar") [Hyphen](Hyphen "Glossar") mit Kristallen.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/physisporinus_vitreus_02_dg.jpg" nocrop=true %}
