@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Uromyces ficariae
   deutsch: Rostpilz an Scharbockskraut
   referenz: (Schumach.) Lév. 1860
-  familie: "Familie: Pucciniaceae"
+  familie: Pucciniaceae
   erlaeuterung: ficariae = zur Feige gehörig
 profil:
   aktualisiert: 2021-04-24
