@@ -12,6 +12,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/physisporinus_sanguinolentus_01_dg.jpg
+  legende: "23.04.2021: Fund im Hainbachtal bei Offenbach"
 ---
 Mit bloßem Auge ist kaum mehr als eine [resupinate](resupinat "Glossar"), weiße körnige Fläche auf feucht liegendem Totholz zu sehen, die gern auf die benachbarte Vegetation übergreift. Mit Lupe erkennt man die porige Struktur, wobei die sehr kleinen Poren (bis zu 6 pro mm) rundlich bis eckig geformt sind, bei Reibung und auf Druck rot flecken, im Alter bräunen.
 
