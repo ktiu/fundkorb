@@ -23,4 +23,4 @@ Das Foto mag den Eindruck erwecken, dass die creme-weißliche etwa 5 - 10 mm dic
 
 Der Pilz wächst an Totholz, meist an Stümpfen, und überzieht oft auch Laub, Nadelstreu, Moose oder Zweige in seiner Umgebung. Hauptwirt ist die Buche. Seine Haupterscheinungszeit ist August bis November. Er ist lückig über die gesamte Bundesrepublik verbreitet.
 
-Die Gattung *Physiosporinus* ist in Deutschland mit zwei Arten vertreten. Der Rotfleckende Porling verfärbt sich durch Reiben oder bei Verletzung blutrot. Eine ähnliche Verfärbung tritt auch bei alten Fruchtkörpern auf.
+Die Gattung *Physiosporinus* ist in Deutschland mit zwei Arten vertreten. Der [Rotfleckende Porling Physisporinus sanguilentus](/pilze/physisporinus-sanguinolentus-rotfleckender-porling) verfärbt sich durch Reiben oder bei Verletzung blutrot. Eine ähnliche Verfärbung tritt auch bei alten Fruchtkörpern auf.
