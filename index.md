@@ -16,6 +16,10 @@ footer_scripts:
 
 - - -
 
+Aktueller [Fundkorbpilz](AA "Glossar-") (24.04.2021) ist der [Rotfleckende Porling Pysisporinus sanguilentus](/pilze/physisporinus-sanguinolentus-rotfleckender-porling), eine Pilzart, die auf feucht liegendem Totholz zu finden ist, aber kaum beachtet wird. Die auf dem Foto ersichtlichen Strukturen sind nur mit einer stark vergrößernden Lupe zu erkennen. Nettes Detail: eine kleine Schnecke hat sich auf der Fruchtschicht niedergelassen. Unser Fund stammt aus dem Hainbachtal bei Offenbach.
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/morchella_esculenta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -29,15 +33,6 @@ Zwei Tage nach den Spitzmorcheln sind die [Speisemorcheln](/pilze/morchella-escu
 {% include abbildung_ende.html %}
 
 Auch die [Spitzmorcheln](/pilze/morchella-conica-spitzmorchel), aktueller [Fundkorbpilz](AA "Glossar-") am 19.04.2021, sind trockenheitsbedingt verspätet. In Dietzenbach sind sie in einigen gemulchten Vorgärten jetzt aber im Kommen. Genug, um das erste Morchelgericht des Jahres zuzubereiten.
-
-- - -
-
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/geopora_sumneriana_05_dg.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/geopora_sumneriana_09_cw.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") (17.04.2021) ist der [Zedern-Sandborstling Geopora sumneriana](https://fundkorb.de/pilze/geopora-sumneriana-zedern-sandborstling), ein seit vielen Jahren standorttreuer Pilz unter einer Zeder in einer Dietzenbacher Parkanlage. Dieses Jahr mit einer Verspätung von etwa einem Monat erschienen, vermutlich aufgrund der Trockenheit.
 
 - - -
 
