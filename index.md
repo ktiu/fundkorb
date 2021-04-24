@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/physisporinus_sanguinolentus_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Aktueller [Fundkorbpilz](AA "Glossar-") (24.04.2021) ist der [Rotfleckende Porling Pysisporinus sanguinolentus](/pilze/physisporinus-sanguinolentus-rotfleckender-porling), eine Pilzart, die auf feucht liegendem Totholz zu finden ist, aber kaum beachtet wird. Die auf dem Foto ersichtlichen Strukturen sind nur mit einer stark vergrößernden Lupe zu erkennen. Nettes Detail: eine kleine Schnecke hat sich auf der Fruchtschicht niedergelassen. Unser Fund stammt aus dem Hainbachtal bei Offenbach.
+Aktueller [Fundkorbpilz](AA "Glossar-") (24.04.2021) ist der [Rotfleckende Porling Pysisporinus sanguinolentus](/pilze/physisporinus-sanguinolentus-rotfleckender-porling), eine Pilzart, die auf feucht liegendem Totholz zu finden ist, aber kaum beachtet wird. Die auf dem Foto ersichtlichen Strukturen sind nur mit einer stark vergrößernden Lupe zu erkennen. Nettes Detail: eine winzig kleine Schnecke, die man mit bloßem Auge wohl auch übersehen hätte. Unser Fund stammt aus dem Hainbachtal bei Offenbach.
 
 - - -
 
