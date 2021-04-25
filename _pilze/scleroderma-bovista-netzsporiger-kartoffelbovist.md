@@ -18,6 +18,10 @@ Völlig  problemlos zu erkennen ist unter den 5 deutschen Kartoffelbovistarten n
 
 Die oben abgebildete Kollektion stammt aus dem Carré an der Dietzenbacher Rodgaustraße, das neben dem bebauten Anteil eine großzügige Parkanlage besitzt, die ein artenreiches Biotop darstellt. Hier ist der Netzsporige Kartoffelbovist seit Jahren regelmäßig anzutreffen. Die kartoffelähnlichen Fruchtkörper können bis zu 6 cm breit werden, bleiben aber meist deutlich kleiner.  Sie sind mit einem kurzen Scheinstiel im Boden eingesenkt. Die Schale, mit einem mykologischen Fachbegriff *Peridie* genannt, ist etwa 1 - 1,5 mm dick. Das Innere, *Gleba* genannt, ist beim jungen Pilz fest und schwarz und zerfällt bei der Reife zu dunkelbraunem Staub. Es handelt sich um eine mäßig häufige Art, die mit etwas Erfahrung recht gut zu erkennen ist.
 
+**Vereinfachter Bestimmungsschlüssel der 5 in Deutschland nachgewiesenen Arten:**
+
+
+
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/scleroderma_bovista_05_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/scleroderma_bovista_04_fk.jpg" nocrop=true %}
