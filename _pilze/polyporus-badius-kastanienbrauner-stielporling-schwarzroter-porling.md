@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Kastanienbrauner_Stielporling
 ---
-Als 1979 Hermann Jahns schönes Buch Pilze die an Holz wachsen erschien, bezeichnete der Verfasser den Schwarzroten Porling (auch Kastanienbrauner Porling genannt) noch als seltene Art, die zerstreut vor allem im Mai in auwaldartigen Biotopen an Weiden, Pappeln und Ulmen vorkommt, ansonsten "hier und da in feuchteren Laubwäldern". Ich kann mich noch gut erinnern, dass ich mich über meinen persönlichen Erstfund sehr gefreut und ihn als besonderes Ereignis wahrgenommen habe. Inzwischen ist er, zumindest in der Rhein-Main-Ebene, ein verbreiteter und keineswegs seltener Pilz.
+Als 1979 Hermann Jahns schönes Buch *Pilze die an Holz wachsen* erschien, bezeichnete der Verfasser den Schwarzroten Porling (auch Kastanienbrauner Porling genannt) noch als seltene Art, die zerstreut vor allem im Mai in auwaldartigen Biotopen an Weiden, Pappeln und Ulmen vorkommt, ansonsten "hier und da in feuchteren Laubwäldern". Ich kann mich noch gut erinnern, dass ich mich über meinen persönlichen Erstfund sehr gefreut und ihn als besonderes Ereignis wahrgenommen habe. Inzwischen ist er, zumindest in der Rhein-Main-Ebene, ein verbreiteter und keineswegs seltener Pilz.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/polyporus_badius_02_dg.jpg" nocrop=true %}
