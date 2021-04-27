@@ -23,7 +23,7 @@ literatur:
 {% include bild.html datei="/bilder/lopharia_spadicea_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Man könnte diese Art für einen Schichtpilz der Gattung *Stereum* halten. Von dieser unterscheidet sich Lopharia vor allem durch [inamyloide](<inamyloid "Glossar">) Sporen. Die Oberseite dieses oft in langen Reihen an Laubholz, vor allem Buche, wachsenden [semipileaten](<semipileat "Glossar>) Rindenpilzes ist zoniert, grau- bis olivbraun und zottig filzig, die Unterseite glatt bis etwas höckerig, im Alter etwas rissig und dunkler graubraun. Zu den Mikromerkmalen schreibt Werner Pohl: 
+Man könnte diese Art für einen Schichtpilz der Gattung *Stereum* halten. Von dieser unterscheidet sich Lopharia vor allem durch [inamyloide](inamyloid "Glossar") Sporen. Die Oberseite dieses oft in langen Reihen an Laubholz, vor allem Buche, wachsenden [semipileaten](semipileat "Glossar) Rindenpilzes ist zoniert, grau- bis olivbraun und zottig filzig, die Unterseite glatt bis etwas höckerig, im Alter etwas rissig und dunkler graubraun. Zu den Mikromerkmalen schreibt Werner Pohl: 
 
 > Lopharia spadicea hat mit seinen braunen, dickwandigen und warzigen Zystiden und Pseudozystiden ein interessantes Mikrobild, welches die Art im Zweifelsfall von ähnlichen Rindenpilzen recht gut unterscheidet."
 
