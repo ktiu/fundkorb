@@ -27,4 +27,4 @@ Man könnte diese Art für einen Schichtpilz der Gattung *Stereum* halten. Von d
 
 > Lopharia spadicea hat mit seinen braunen, dickwandigen und warzigen Zystiden und Pseudozystiden ein interessantes Mikrobild, welches die Art im Zweifelsfall von ähnlichen Rindenpilzen recht gut unterscheidet."
 
-In  Deutschland ist die Gattung Lopharia bisher nur mit dieser einen Art vertreten, die vor allem im Süden etwas häufiger ist. Nördlich der Main-Linie wird sie zunehmend seltener.
+In  Deutschland ist die Gattung Lopharia bisher nur mit dieser einen Art vertreten, die vor allem im Süden etwas häufiger ist. Nördlich der Main-Linie wird sie zunehmend seltener. 
