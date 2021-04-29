@@ -16,6 +16,15 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/schizophyllum_commune_03_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/schizophyllum_commune_04_dg-1024x901.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+Unser aktueller Fundkorbpilz (29.04.2021) gehört zu den unscheinbaren Arten, denen man kaum Beachtung schenkt, bei denen es sich aber lohnt, genauer hinzuschauen. Er heißt [Spaltblättling](/pilze/schizophyllum-commune-spaltblättling), mit wissenschaftlichen Namen *Schizophyllum commune*, ist Kosmopolit und bevorzugt bei uns totes, noch berindetes Buchenholz. Um sich an seiner Schönheit zu erfreuen, muss man ihn nur umdrehen und von unten betrachten.
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/physisporinus_sanguinolentus_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
