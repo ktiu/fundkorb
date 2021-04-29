@@ -22,4 +22,4 @@ Mit bloßem Auge ist kaum mehr als eine [resupinate](resupinat "Glossar"), weiß
 
 Zur sicheren Bestimmung sollte mikroskopiert werden, wobei auf diese entscheidenden Merkmale zu achten ist: sehr kleine rundliche Sporen mit Tropfen, 5 - 6 µm groß, Kristalle an den Spitzen der [Zystidiolen](Zystidiolen "Glossar") und an den [Hyphen](Hyphen "Glossar").
 
-Der Pilz ist nicht selten, wird aber wenig beachtet. Im befallenen Laub- oder Nadelholz erzeugt er eine Weißfäule. Der abgebildete Fund stammt von einem in nassem Morast liegenden dicken unberindeten Ast im Hainbachtal bei Offenbach.
+Der Pilz ist nicht selten, wird aber wenig beachtet. Im befallenen Laub- oder Nadelholz erzeugt er eine Weißfäule. Der abgebildete Fund stammt von einem in nassem Morast liegenden dicken unberindeten Ast im Hainbachtal bei Offenbach. [Zystidiolen](Zystidiolen "Glossar")
