@@ -16,6 +16,14 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/calocybe_gambosa_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Am 1. Mai kann unser aktueller [Fundkorbpilz](AA "Glossar-") kein anderer als der [Maipilz (Calocybe gambosa)](/pilze/calocybe-gambosa-maipilz) sein. Sein ranziger Mehlgeruch und -geschmack sagen nicht jedem zu und so ist er als Speisepilz höchst umstritten. Manche mögen, andere verabscheuen ihn. Vielleicht kommt es aber auch auf die richtige Zubereitung an.
+
+- - -
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/schizophyllum_commune_03_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/schizophyllum_commune_04_dg-1024x901.jpg" nocrop=true %}
@@ -30,22 +38,6 @@ Unser aktueller [Fundkorbpilz](AA "Glossar-") (29.04.2021) gehört zu den unsche
 {% include abbildung_ende.html %}
 
 Aktueller [Fundkorbpilz](AA "Glossar-") (24.04.2021) ist der [Rotfleckende Porling Physisporinus sanguinolentus](/pilze/physisporinus-sanguinolentus-rotfleckender-porling), eine Pilzart, die auf feucht liegendem Totholz zu finden ist, aber kaum beachtet wird. Die auf dem Foto ersichtlichen Strukturen sind nur mit einer stark vergrößernden Lupe zu erkennen. Nettes Detail: eine winzig kleine Schnecke, die man mit bloßem Auge wohl auch übersehen hätte. Unser Fund stammt aus dem Hainbachtal bei Offenbach.
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/morchella_esculenta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Zwei Tage nach den Spitzmorcheln sind die [Speisemorcheln](/pilze/morchella-esculenta-speisemorchel) an der Reihe. Eine Pilzfreundin aus Langen hat den Fund aus ihrem Garten gemeldet und wir machen ihn heute (21.04.2021) zum aktuellen [Fundkorbpilz](AA "Glossar-"). Beide Morchelarten gehören zu den begehrtesten Speisepilzen.
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/morchella_conica_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Auch die [Spitzmorcheln](/pilze/morchella-conica-spitzmorchel), aktueller [Fundkorbpilz](AA "Glossar-") am 19.04.2021, sind trockenheitsbedingt verspätet. In Dietzenbach sind sie in einigen gemulchten Vorgärten jetzt aber im Kommen. Genug, um das erste Morchelgericht des Jahres zuzubereiten.
 
 - - -
 
