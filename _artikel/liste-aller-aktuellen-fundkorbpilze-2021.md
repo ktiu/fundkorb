@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-29.04.2021 [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)  
+01.05.2021 [Calocybe gambosa - Maipilz](/pilze/calocybe-gambosa-maipilz)  
+29.04.2021 [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)\
 24.04.2021 [Physisporinus sanguinolentus - Rotfleckender Porling](/pilze/physisporinus-sanguinolentus-rotfleckender-porling)\
 21.04.2021  [Morchella esculenta - Speisemorchel](/pilze/morchella-esculenta-speisemorchel)\
 19.04.2021  [Morchella conica - Spitzmorchel](/pilze/morchella-conica-spitzmorchel)\
