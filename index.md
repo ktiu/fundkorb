@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/inocybe_erubescens_01_gsch.jpg" %}
 {% include abbildung_ende.html %}
 
-Ein Pilzfreund aus dem Süden Deutschlands, einer Region, in der kalkhalige Böden vorherrschen, hat mir gerade das Erscheinen des [Ziegelroten Risspilzes (Inocybe erubescens)](/pilze/inocybe-erubescens-ziegelroter-risspilz) berichtet. Wir haben ihn zum aktuellen [Fundkorbpilz](AA "Glossar-") (04.05.2021) gemacht, weil keiner besser zum vorhergehenden passt. Er ist nämlich der giftige Doppelgänger des Maipilzes, der immer wieder für schwerwiegende Vergiftungen verantwortlich ist. 
+Ein Pilzfreund aus dem Süden Deutschlands, einer Region, in der kalkhalige Böden vorherrschen, hat mir gerade das Erscheinen des [Ziegelroten Risspilzes (Inocybe erubescens)](/pilze/inocybe-erubescens-ziegelroter-risspilz) berichtet. Wir haben ihn zum aktuellen [Fundkorbpilz](AA "Glossar-") (03.05.2021) gemacht, weil keiner besser zum vorhergehenden passt. Er ist nämlich der giftige Doppelgänger des Maipilzes, der immer wieder für schwerwiegende Vergiftungen verantwortlich ist. 
 
 - - -
 
