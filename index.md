@@ -17,6 +17,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/inocybe_erubescens_01_gsch.jpg" %}
+{% include abbildung_ende.html %}
+
+Ein Pilzfreund aus dem Süden Deutschlands, einer Region, in der kalkhalige Böden vorherrschen, hat mir gerade das Erscheinen des [Ziegelroten Risspilzes (Inocybe erubescens)](/pilze/inocybe-erubescens-ziegelroter-risspilz) berichtet. Wir haben ihn zum aktuellen [Fundkorbpilz](AA "Glossar-") (04.05.2021) gemacht, weil keiner besser zum vorhergehenden passt. Er ist nämlich der giftige Doppelgänger des Maipilzes, der immer wieder für schwerwiegende Vergiftungen verantwortlich ist. 
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/calocybe_gambosa_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -30,14 +38,6 @@ Am 1. Mai kann unser aktueller [Fundkorbpilz](AA "Glossar-") kein anderer als de
 {% include abbildung_ende.html %}
 
 Unser aktueller [Fundkorbpilz](AA "Glossar-") (29.04.2021) gehört zu den unscheinbaren Arten, denen man kaum Beachtung schenkt, bei denen es sich aber lohnt, genauer hinzuschauen. Er heißt [Spaltblättling](/pilze/schizophyllum-commune-spaltblättling), mit wissenschaftlichen Namen *Schizophyllum commune*, ist Kosmopolit und bevorzugt bei uns totes, noch berindetes Buchenholz. Um sich an seiner Schönheit zu erfreuen, muss man ihn nur umdrehen und von unten betrachten.
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/physisporinus_sanguinolentus_02_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") (24.04.2021) ist der [Rotfleckende Porling Physisporinus sanguinolentus](/pilze/physisporinus-sanguinolentus-rotfleckender-porling), eine Pilzart, die auf feucht liegendem Totholz zu finden ist, aber kaum beachtet wird. Die auf dem Foto ersichtlichen Strukturen sind nur mit einer stark vergrößernden Lupe zu erkennen. Nettes Detail: eine winzig kleine Schnecke, die man mit bloßem Auge wohl auch übersehen hätte. Unser Fund stammt aus dem Hainbachtal bei Offenbach.
 
 - - -
 
