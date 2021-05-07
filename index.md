@@ -16,6 +16,15 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/reticularia_lycoperdon_01_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/reticularia_lycoperdon_02_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Das Exemplar links ist ein noch junger Fruchtkörper, das rechte ist bereits am Vertrocknen" %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") vom 07.05.2021 ist der Stäublings-Schleimpilz Reticularia lycoperdon. Gefunden haben wir ihn im Hainbachtal bei Offenbach. Sein wissenschaftlicher Name erscheint uns merkwürdig. "lycoperdon" heißt wörtlich übersetzt Wolfsfurz. Das ist aber noch nicht alles. Er ist weder ein Pilz, noch eine Pflanze, noch ein Tier. Mehr erfahren Sie [hier >>>](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/inocybe_erubescens_01_gsch.jpg" %}
 {% include abbildung_ende.html %}
@@ -29,15 +38,6 @@ Ein Pilzfreund aus dem Süden Deutschlands, einer Region, in der kalkhalige Böd
 {% include abbildung_ende.html %}
 
 Am 1. Mai kann unser aktueller [Fundkorbpilz](AA "Glossar-") kein anderer als der [Maipilz (Calocybe gambosa)](/pilze/calocybe-gambosa-maipilz) sein. Sein ranziger Mehlgeruch und -geschmack sagen nicht jedem zu und so ist er als Speisepilz höchst umstritten. Manche mögen, andere verabscheuen ihn. Vielleicht kommt es aber auch auf die richtige Zubereitung an.
-
-- - -
-
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/schizophyllum_commune_03_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/schizophyllum_commune_04_dg-1024x901.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-Unser aktueller [Fundkorbpilz](AA "Glossar-") (29.04.2021) gehört zu den unscheinbaren Arten, denen man kaum Beachtung schenkt, bei denen es sich aber lohnt, genauer hinzuschauen. Er heißt [Spaltblättling](/pilze/schizophyllum-commune-spaltblättling), mit wissenschaftlichen Namen *Schizophyllum commune*, ist Kosmopolit und bevorzugt bei uns totes, noch berindetes Buchenholz. Um sich an seiner Schönheit zu erfreuen, muss man ihn nur umdrehen und von unten betrachten.
 
 - - -
 
