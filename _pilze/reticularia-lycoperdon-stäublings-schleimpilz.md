@@ -22,7 +22,7 @@ literatur:
 
 Schleimpilze werden bei Wikipedia so beschrieben: Sie sind 
 
-> ein Taxon einzelliger Lebewesen, die in ihrer Lebensweise Eigenschaften von Tieren und Pilzen gleichermaßen vereinen, aber zu keiner der beiden Gruppen gehören. Trotz ihres Namens sind sie also keine Pilze."
+> ein [Taxon](Taxon "Glossar") einzelliger Lebewesen, die in ihrer Lebensweise Eigenschaften von Tieren und Pilzen gleichermaßen vereinen, aber zu keiner der beiden Gruppen gehören. Trotz ihres Namens sind sie also keine Pilze."
 
 Sie bewegen sich kriechend fort, ernähren sich wie Tiere, pflanzen sich in ihrem Endstadium jedoch wie Pilze mittels Sporen fort. Weltweit gibt es etwa 1000 Arten. Viele von ihnen sind Kosmopoliten. Ihr Formenreichtum ist erstaunlich und regt immer wieder zum Staunen an.
 
