@@ -16,6 +16,11 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/morchella_gigas_01_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/morchella_gigas_02_vm.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
 Mit etwas Verspätung sind im Dietzenbacher Hessentagspark die [Käppchenmorcheln](/pilze/morchella-gigas-käppchenmorchel) erschienen und aktueller [Fundkorbpilz](AA "Glossar-") (09.05.2021). In der Speisepilzqualität können sie weder mit Spitz- noch mit Speisemorcheln mithalten, die vor kurzem auch schon aktuelle Fundkorbpilze waren.
 
 - - -
