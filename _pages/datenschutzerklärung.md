@@ -10,7 +10,7 @@ footer_scripts:
 
 ### Allgemeiner Hinweis
 
-Wir geben uns Mühe, personenbezogene Daten (d.h. Informationen, die einzelnen Personen zugeordnet werden können) sicher zu behandeln, bzw. am besten gar nicht erst zu erheben. Wir legen deshalb Wert auf verschlüsselte Kommunikation per SSL, um Ihre Daten vor Dritten zu schützen, und verzichten auch auf Cookies, die Informationen auf Ihrem Endgerät speichern und oft für Dritte lesbar sind.
+Wir geben uns Mühe, personenbezogene Daten (d. h. Informationen, die einzelnen Personen zugeordnet werden können) sicher zu behandeln, bzw. am besten gar nicht erst zu erheben. Wir legen deshalb Wert auf verschlüsselte Kommunikation per SSL, um Ihre Daten vor Dritten zu schützen, und verzichten auch auf Cookies, die Informationen auf Ihrem Endgerät speichern und oft für Dritte lesbar sind.
 
 Der Fundkorb ist eine offene, nicht-kommerzielle Seite von und für Pilzfreunde. Deshalb greifen wir auf kostengünstige oder -freie Dienste von Drittparteien zurück, wobei notgedrungen auch Daten weitergegeben werden. Die folgenden Abschnitte beschreiben, welche Daten dabei an wen übermittelt werden und warum.
 
