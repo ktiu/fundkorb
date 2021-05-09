@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Ihre Pilzadresse, nicht nur im Rhein-Main-Gebiet
 header_scripts:
   - https://identity.netlify.com/v1/netlify-identity-widget.js
