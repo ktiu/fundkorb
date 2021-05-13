@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-11.05.2021 [Bovista plumbea - Bleigrauer Zwerg-Bovist](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)  
+13.05.2021 [Psathyrella candolleana - Behangener Faserling](/pilze/psathyrella-candolleana-behangener-faserling)   
+11.05.2021 [Bovista plumbea - Bleigrauer Zwerg-Bovist](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)\
 09.05.2021 [Morchella gigas - Käppchenmorchel](/pilze/morchella-gigas-käppchenmorchel)\
 07.05.2021 [Reticularia lycoperdon - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
 03.05.2021 [Inocybe erubescens - Ziegelroter Rissilz](/pilze/inocybe-erubescens-ziegelroter-risspilz)

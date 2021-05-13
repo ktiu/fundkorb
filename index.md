@@ -17,6 +17,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/psathyrella_candolleana_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+Wer sich nicht bestens mit Pilzen auskennt, sollte solche kleinen Blätterpilze meiden. Erfahrene Pilzfreunde verwenden unseren aktuellen [Fundkorbpilz](AA "Glossar-") ([](/pilze/psathyrella-candolleana-behangener-faserling)[Psathyrella candolleana](/pilze/psathyrella-candolleana-behangener-faserling); 10.05.2021) hin und wieder als Suppenpilz. Auch als Mischpilz ist er geeignet. Mit deutschem Namen heißt er *Behangener Faserling* und gehört zu einer artenreichen Gattung, deren Vertreter auch für Erfahrene nicht immer leicht auseinanderzuhalten sind. 
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/bovista_plumbea_01_mh.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
@@ -30,15 +38,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") (11.05.2021) ist der [Bleigraue Zwerg-Bo
 {% include abbildung_ende.html %}
 
 Mit etwas Verspätung sind im Dietzenbacher Hessentagspark die [Käppchenmorcheln](/pilze/morchella-gigas-käppchenmorchel) erschienen und aktueller [Fundkorbpilz](AA "Glossar-") (09.05.2021). In der Speisepilzqualität können sie weder mit Spitz- noch mit Speisemorcheln mithalten, die vor kurzem auch schon aktuelle Fundkorbpilze waren.
-
-- - -
-
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/reticularia_lycoperdon_01_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/reticularia_lycoperdon_02_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Das Exemplar links ist ein noch junger Fruchtkörper, das rechte ist bereits am Vertrocknen" %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") vom 07.05.2021 ist der Stäublings-Schleimpilz *Reticularia lycoperdon*. Gefunden haben wir ihn im Hainbachtal bei Offenbach. Sein wissenschaftlicher Name erscheint uns merkwürdig, denn *"lycoperdon"* heißt wörtlich übersetzt Wolfsfurz. Das ist aber noch nicht alles. Er ist weder ein Pilz, noch eine Pflanze, noch ein Tier. Mehr erfahren Sie [hier >>>](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)
 
 - - -
 
