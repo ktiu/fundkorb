@@ -2,8 +2,6 @@
 title: Datenschutzerklärung
 permalink: datenschutzerklärung
 sidebar: false
-header_scripts:
-  - assets/js/js.cookie.js
 footer_scripts:
   - assets/js/optOutOfAnalytics.js
 ---
@@ -51,9 +49,8 @@ Uns interessiert natürlich brennend, wie der Fundkorb genutzt wird -- auch dami
 
 Dabei werden notwendigerweise personenbezogene Daten an Google übermittelt. Wir treffen jedoch folgende Vorkehrungen, die die Weiterverwendung Ihrer Daten und ihre Personenbezogenheit stark einschränken:
 
-- Wir haben das Script so eingestellt, dass kein Cookie gesetzt wird, der eine breitere Nachverfolgung des Nutzungsverhaltens ermöglichen würde (["Consent mode"](https://support.google.com/analytics/answer/9976101?hl=en)).
-- Bei der Ausführung des Scripts wird Google verbindlich mitgeteilt, dass die Daten durch Anonymisierung der IP-Adresse entpersonalisiert aufgezeichnet werden sollen (["IP anonymization"](https://developers.google.com/analytics/devguides/collection/gtagjs/ip-anonymization)).
-- Alle Funktionen, die üblicherweise der Schaltung von Werbung dienen, sind ausgeschaltet (["Disable advertizing features"](https://developers.google.com/analytics/devguides/collection/gtagjs/display-features)).
+- Wir haben das Script so eingestellt, dass kein Cookie gesetzt wird, der eine breitere Nachverfolgung des Nutzungsverhaltens ermöglichen würde. ["Disabling cookies"](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id#disabling_cookies)
+- Bei der Ausführung des Scripts wird Google verbindlich mitgeteilt, dass die Daten durch Anonymisierung der IP-Adresse entpersonalisiert aufgezeichnet werden sollen (["IP anonymization"](https://developers.google.com/analytics/devguides/collection/analyticsjs/ip-anonymization)).
 
 Außerdem können Sie mit einem Klick auf die unten angezeigte Schaltfläche Google Analytics komplett ausschalten. Dabei wird in Ihrem Browser ein Cookie gesetzt, der seinerseits nur die Information speichert, dass Ihre Besuchsdaten nicht aufgezeichnet werden sollen.
 
