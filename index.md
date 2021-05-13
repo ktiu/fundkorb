@@ -17,6 +17,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/psathyrella_candolleana_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+Wer sich nicht bestens mit Pilzen auskennt, sollte solche kleinen Blätterpilze meiden. Erfahrene Pilzfreunde verwenden unseren aktuellen [Fundkorbpilz](AA "Glossar-") ([](/pilze/psathyrella-candolleana-behangener-faserling)[Psathyrella candolleana](/pilze/psathyrella-candolleana-behangener-faserling); 10.05.2021) hin und wieder als Suppenpilz. Auch als Mischpilz ist er geeignet. Mit deutschem Namen heißt er *Behangener Faserling* und gehört zu einer artenreichen Gattung, deren Vertreter auch für Erfahrene nicht immer leicht auseinanderzuhalten sind. 
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/bovista_plumbea_01_mh.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
