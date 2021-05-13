@@ -41,15 +41,6 @@ Mit etwas Verspätung sind im Dietzenbacher Hessentagspark die [Käppchenmorchel
 
 - - -
 
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/reticularia_lycoperdon_01_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/reticularia_lycoperdon_02_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Das Exemplar links ist ein noch junger Fruchtkörper, das rechte ist bereits am Vertrocknen" %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") vom 07.05.2021 ist der Stäublings-Schleimpilz *Reticularia lycoperdon*. Gefunden haben wir ihn im Hainbachtal bei Offenbach. Sein wissenschaftlicher Name erscheint uns merkwürdig, denn *"lycoperdon"* heißt wörtlich übersetzt Wolfsfurz. Das ist aber noch nicht alles. Er ist weder ein Pilz, noch eine Pflanze, noch ein Tier. Mehr erfahren Sie [hier >>>](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)
-
-- - -
-
 [Liste aller aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
 
 - - -
