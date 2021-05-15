@@ -27,5 +27,3 @@ An meiner Fundstelle im Oktober 1997 in Frankfurt am Main am Wegrand neben einer
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/coprinopsis_romagnesiana_01_mh.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Foto: Michael Hornung" %}
-
-c
