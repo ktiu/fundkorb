@@ -24,4 +24,4 @@ Wie viele andere Tintlinge ist auch der Faltentintling eine kurzlebige Art. Zwis
 
 Der Faltentintling ist jung essbar, mit Alkohol genossen aber giftig. Hier ist darauf zu achten, dass in einem Zeitraum von zwei Tagen vor bis zwei Tagen nach dem Verzehr kein Alkohol getrunken werden darf. Der Giftstoff *Coprin* verhindert den Alkoholabbau in der Leber und verursacht Symptome wie Gesichtsrötung, Herzrasen, Hitzegefühl, Übelkeit.  
 
-Verwechslungsmöglichkeiten bestehen vor allem mit dem [Braunschuppigen Tintling Coprinopsis romagnesiana](/pilze/coprinopsis-picacea-specht-tintling) und dem [Großen Rausportintling Coprinopsis alopecia](/pilze/coprinopsis-alopecia-großer-rausportintling), zwei seltenen Arten, die ebenfalls in Fundkorb-Porträts beschrieben sind.
+Verwechslungsmöglichkeiten bestehen vor allem mit dem [Braunschuppigen Tintling Coprinopsis romagnesiana](/pilze/coprinopsis-romagnesiana-braunschuppiger-tintling) und dem [Großen Rausportintling Coprinopsis alopecia](/pilze/coprinopsis-alopecia-großer-rausportintling), zwei seltenen Arten, die ebenfalls in Fundkorb-Porträts beschrieben sind.
