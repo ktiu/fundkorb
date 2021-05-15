@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: alopecia = Haarausfall
   synonym: "Synonym: Coprinus insignis "
 profil:
-  aktualisiert: 2020-07-28
+  aktualisiert: 2021-05-15
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
