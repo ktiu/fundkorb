@@ -6,7 +6,7 @@ beschreibung:
   erlaeuterung: crispa = kraus, gekräuselt
   familie: Amylocorticiaceae
 profil:
-  aktualisiert: 2021-04-15
+  aktualisiert: 2021-05-15
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
