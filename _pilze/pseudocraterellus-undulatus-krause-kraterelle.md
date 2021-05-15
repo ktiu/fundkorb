@@ -5,7 +5,7 @@ beschreibung:
   referenz: (Pers.) Rauschert 1987
   familie: "Meruliaceae  (zuvor: Cantharellaceae)"
   synonym: "Synonym: Pseudocraterellus sinuosus"
-  erlaeuterung: sinuosus = gekrümmt, faltenreich
+  erlaeuterung: undulatus = klein gewellt
 profil:
   aktualisiert: 2021-05-15
   autor_in: Dieter Gewalt
