@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: Tricholoma inocybeoides
+  wissenschaftlich: Tricholoma inocyboides
   deutsch: Spitzgebuckelter Ritterling
   referenz: A. Pearson 1938
   familie: Tricholomataceae
