@@ -6,7 +6,7 @@ beschreibung:
   familie: Tricholomataceae
   erlaeuterung: portentosum = wunderbar
 profil:
-  aktualisiert: 2020-10-29
+  aktualisiert: 2021-05-15
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -37,3 +37,5 @@ Die Gattung der Ritterlinge ist in Deutschland mit ca. 50 Arten vertreten, die n
 {% include bild.html datei="/bilder/tricholoma_burggraben_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/tricholoma_burggraben_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
+
+Übrigens... Es wird behauptet, dass Eichhörchen, die neben Nüssen, Früchten, Knospen, etc. auch Pilze verzehren, unter diesen besonders Schwarzstreifige Ritterlinge schätzen. Die wissen, was lecker ist!
