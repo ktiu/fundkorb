@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Coprinopsis romagnesiana
   deutsch: Braunschuppiger Tintling
   referenz: "(Singer) Redhead, Vilgalys & Moncalvo 2001 "
-  synonym: Coprinus romagnesianus
+  synonym: "Synonym: Coprinus romagnesianus"
   erlaeuterung: romagnesiana = zu Ehren des französ. Mykologen Henri Romagnesi
   familie: Psathyrellaceae
 profil:
