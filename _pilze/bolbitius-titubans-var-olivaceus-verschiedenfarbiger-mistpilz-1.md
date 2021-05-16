@@ -13,7 +13,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/bolbitius_titubans_var._olivaceus_01_dg.jpg
 ---
-Vom normalen Goldmistpilz, der vor allem jung durch seine goldgelbe Hutfarbe gekennzeichnet ist, unterscheidet sich diese Varietät durch gelbgrüne bis olive Farben und eine netzaderige Zeichnung auf dem Hutscheitel. Sie gilt als sehr selten, scheint jedoch in der Rhein-Main-Ebene immer wieder und an verschiedenen (grasigen) Standorten zu erscheinen. 
+Vom normalen [Goldmistpilz](/pilze/bolbitius-titubans-goldmistpilz), der vor allem jung durch seine goldgelbe Hutfarbe gekennzeichnet ist, unterscheidet sich diese Varietät durch gelbgrüne bis olive Farben und eine netzaderige Zeichnung auf dem Hutscheitel. Sie gilt als sehr selten, scheint jedoch in der Rhein-Main-Ebene immer wieder und an verschiedenen (grasigen) Standorten zu erscheinen. 
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/bolbitius_titubans_var._olivaceus_02_dg.jpg" nocrop=true %}
