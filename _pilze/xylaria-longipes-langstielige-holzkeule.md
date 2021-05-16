@@ -28,6 +28,8 @@ Die Langstielige Holzkeule gehört zu den Schlauchpilzen und innerhalb dieser gr
 
 Der Pilz wächst ganzjährig an liegenden meist schon entrindeten Laubholzästen und -stämmen. Besonders häufig ist er an Ahorn zu finden. Im Rhein-Main-Gebiet gehört er zu den Charakterpilzen des Frankfurter Stadtwalds.
 
+Eine gewisse Ähnlichkeit kann die [Vielgestaltige Holzkeule Xylaria polymorpha](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule) haben.
+
 Wenn das Holz durch den Pilz schon stark angegriffen ist, entsteht manchmal ein Muster aus dunklen Flecken, das an ein Giraffenfell erinnert. Solche Äste werden als *Giraffenholz* bezeichnet. Dieses Muster kann auch durch andere Pilzarten erzeugt werden, z. B. durch Eutypa maura.
 
 {% include abbildung_start.html stil="standard" %}
