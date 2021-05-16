@@ -6,7 +6,7 @@ beschreibung:
   familie: Xylariaceae
   erlaeuterung: polymorpha = vielgestaltig
 profil:
-  aktualisiert: 2021-01-21
+  aktualisiert: 2021-05-16
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
