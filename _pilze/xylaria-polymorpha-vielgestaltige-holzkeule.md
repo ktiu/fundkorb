@@ -30,7 +30,7 @@ Beim Anblick dieser Vielgestaltigen Holzkeule (Foto links) könnte man auf die I
 {% include bild.html datei="/bilder/xylaria_polymorpha_19_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Verwechseln könnte man die Vielgestaltige mit der Langstieligen Holzkeule *Xylaria longipes*, die stets gleichmäßiger geformte schlanke Fruchtkörper bildet. Sie ist weniger häufig, aber zum Beispiel massenhaft im Frankfurter Stadtwald an liegenden toten Ahornästen zu finden.
+Verwechseln könnte man die Vielgestaltige mit der [Langstieligen Holzkeule *Xylaria longipes*](/pilze/xylaria-longipes-langstielige-holzkeule), die stets gleichmäßiger geformte schlanke Fruchtkörper bildet. Sie ist weniger häufig, aber zum Beispiel massenhaft im Frankfurter Stadtwald an liegenden toten Ahornästen zu finden.
 
 Wie vielfältig der Formenreichtum dieser Art ist, zeigt die folgende Fotosammlung. Hier kann man sagen: kein Fruchtkörper gleicht dem anderen!
 
