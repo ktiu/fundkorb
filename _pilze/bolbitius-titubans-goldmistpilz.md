@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: titubans = schwankend
   familie: Bolbitiaceae
 profil:
-  aktualisiert: 2020-07-25
+  aktualisiert: 2021-05-16
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
