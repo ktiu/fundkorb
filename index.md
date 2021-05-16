@@ -17,6 +17,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Zu den aktuellen [Fundkorbpilzen](AA "Glossar-") (16.05.2021) gehört natürlich auch der [Voreilende Ackerling Agrocybe praecox](/pilze/agrocybe-praecox-voreilender-ackerling). Er wächst meist gesellig ab April/Mai in- und außerhalb von Wäldern, gern an Wegrändern, in Parkanlagen, Gärten etc. Für die Küche ist er wegen seines etwas ranzig-mehligen Geschmacks kaum zu empfehlen.
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/psathyrella_candolleana_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
@@ -29,15 +37,6 @@ Wer sich nicht bestens mit Pilzen auskennt, sollte solche kleinen Blätterpilze 
 {% include abbildung_ende.html %}
 
 Aktueller [Fundkorbpilz](AA "Glossar-") (11.05.2021) ist der [Bleigraue Zwerg-Bovist Bovista plumbea](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist). Die bis zu 4 cm Durchmesser erreichenden weißen Kügelchen wachsen gern auf Rasenflächen wie jetzt in einer Dietzenbacher Parkanlage. Bleigrau werden sie erst im Alter und auch dann nur unter der hellen, felderig aufreißenden Außenhaut. Er ist essbar, aber wegen seiner Marshmellow-artigen Konsistenz nicht jedermanns Geschmack.
-
-- - -
-
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/morchella_gigas_01_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/morchella_gigas_02_vm.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-Mit etwas Verspätung sind im Dietzenbacher Hessentagspark die [Käppchenmorcheln](/pilze/morchella-gigas-käppchenmorchel) erschienen und aktueller [Fundkorbpilz](AA "Glossar-") (09.05.2021). In der Speisepilzqualität können sie weder mit Spitz- noch mit Speisemorcheln mithalten, die vor kurzem auch schon aktuelle Fundkorbpilze waren.
 
 - - -
 
