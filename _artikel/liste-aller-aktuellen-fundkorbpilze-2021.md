@@ -21,4 +21,4 @@ published: true
 08.04.2021  [Leptosphaeria acuta - Zugespitzter Kugelpilz](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)\
 06.04.2021  [Strobilurus tenacellus - Bitterer Kiefernzapfenrübling](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)\
 04.04.2021  [Gyromitra esculenta - Frühjahrslorchel](/pilze/gyromitra-esculenta-frühjahrslorchel)\
-02.04.2021  [Tubaria furfuracea - Gemeiner Trompetenschnitzling](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
+02.04.2021  [Tubaria furfuracea - Gemeiner Trompetenschnitzling](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling) 
