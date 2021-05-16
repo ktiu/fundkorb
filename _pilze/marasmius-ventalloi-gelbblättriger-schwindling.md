@@ -6,7 +6,8 @@ beschreibung:
   familie: Marasmiaceae
   synonym: "Synonym: Marasmius anomalus (?)"
 profil:
-  aktualisiert: 2020-08-09
+  aktualisiert: 2021-05-16
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/marasmius_ventalloi_01_dg.jpg
