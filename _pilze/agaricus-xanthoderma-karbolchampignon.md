@@ -5,7 +5,7 @@ beschreibung:
   referenz: Genev. 1876
   familie: Agaricaceae
 profil:
-  aktualisiert: 2020-07-24
+  aktualisiert: 2021-05-17
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -37,7 +37,7 @@ Solche Massenvorkommen wiederholen sich hier mehrmals im Jahr und wir haben einm
 {% include bild.html datei="/bilder/agaricus_xanthoderma_07_dg-1024x707.jpg" %}
 {% include abbildung_ende.html %}
 
-Farbreaktion und Geruchsentwicklung kann man sehr schön mit einem einfachen Experiment erzeugen. Man lege einige Karbolchampignons in eine weiße Schale und übergieße sie mit kochendem Wasser. Die Verfärbung des Wassers zeigt das Foto, die Geruchsentwicklung ist nicht weniger beeindruckend. 
+Farbreaktion und Geruchsentwicklung kann man sehr schön mit einem einfachen Experiment erzeugen. Man lege einige Karbolchampignons in eine weiße Schale und übergieße sie mit kochendem Wasser. Die Verfärbung des Wassers zeigt das Foto, die Geruchsentwicklung ist nicht weniger beeindruckend.
 
 ### Ein Blick durch die Telefonleitung
 
