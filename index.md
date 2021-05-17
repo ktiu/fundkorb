@@ -17,6 +17,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
+{% include abbildung_ende.html %}
+
+Dieser Champignon (unser aktueller [Fundkorbpilz](AA "Glossar-") am 17.05.2021) ist einer der bemerkenswertesten Pilze überhaupt. Er ist sozusagen der Champion unter den Gewichthebern, ist er doch in der Lage, schwere Gehwegplatten von mehreren Kilogramm Gewicht in die Höhe zu stemmen und dicken Asphaltbelag zu durchbrechen. Er heißt [Stadt-Champignon (Agaricus bitorquis)](/pilze/agaricus-bitorquis-stadt-champignon) und ist ein ausgezeichneter Speisepilz.
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,14 +37,6 @@ Zu den aktuellen [Fundkorbpilzen](AA "Glossar-") (16.05.2021) gehört natürlich
 {% include abbildung_ende.html %}
 
 Wer sich nicht bestens mit Pilzen auskennt, sollte solche kleinen Blätterpilze meiden. Erfahrene Pilzfreunde verwenden unseren aktuellen [Fundkorbpilz](AA "Glossar-") ([](/pilze/psathyrella-candolleana-behangener-faserling)[Psathyrella candolleana](/pilze/psathyrella-candolleana-behangener-faserling); 13.05.2021) hin und wieder als Suppenpilz. Auch als Mischpilz ist er geeignet. Mit deutschem Namen heißt er *Behangener Faserling* und gehört zu einer artenreichen Gattung, deren Vertreter auch für Erfahrene nicht immer leicht auseinanderzuhalten sind. 
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/bovista_plumbea_01_mh.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") (11.05.2021) ist der [Bleigraue Zwerg-Bovist Bovista plumbea](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist). Die bis zu 4 cm Durchmesser erreichenden weißen Kügelchen wachsen gern auf Rasenflächen wie jetzt in einer Dietzenbacher Parkanlage. Bleigrau werden sie erst im Alter und auch dann nur unter der hellen, felderig aufreißenden Außenhaut. Er ist essbar, aber wegen seiner Marshmellow-artigen Konsistenz nicht jedermanns Geschmack.
 
 - - -
 
