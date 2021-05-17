@@ -27,7 +27,7 @@ Das Nestförmige Haarbecherchen wächst an toten (vorjährigen) Stängeln von Sa
 
 **Mikromerkmale:** Sporen zylindrisch bis spindelig, glatt, hyalin, 7-9 x 1,5 µm, Asci 8-sporig, 40-50 x 5 µm, Paraphysen lanzettlich, die Asci überragend, Haare mit vielen Querscheidewänden
 
-Drei der Pflanzengattungen, an deren Stängeln Lasiobelonium nidulum gefunden werden kann:
+Drei der Pflanzengattungen, an deren Stängeln Trichopezizella nidulus gefunden werden kann:
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/mädesüß-salomonsiegel-eisenhut_01_wi.jpg" nocrop=true %}
