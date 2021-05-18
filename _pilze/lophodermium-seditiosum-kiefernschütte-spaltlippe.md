@@ -11,9 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/lophodermium_seditiosum_kiefernschütte-spaltlippe_01_dg.jpg
-literatur:
-  - url: https://www.wsl.ch/forest/wus/diag/show_singlerecord.php?TEXTID=44
-  - url: https://www.pilzforum.eu/board/thread/31662-mikrokosmos-auf-kiefernnadeln/
+literatur: []
 ---
 Auf abgestorbenen Kiefernnadeln finden sich zwei häufige Spaltlippenarten der Gattung Lophodermium. Als Schadpilz ([Phytoparasit](Phytoparasiten "Glossar")) hat L. seditiosum forstwirtschaftliche Bedeutung als Verursacher der sogenannten Kiefernschütte. Die Folgen für befallene Bäume sind Kronenverlichtung, Triebsterben und Anfälligkeiten für andere Schadfaktoren. Als lebensbedrohend wird sie vor allem für Jungpflanzen eingeschätzt.
 
