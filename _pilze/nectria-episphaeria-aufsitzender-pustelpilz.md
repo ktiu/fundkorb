@@ -19,5 +19,5 @@ Eine ähnliche, aber seltene, ebenfalls auf Pyrenomyzeten erscheinende Art ist *
 
 **Weitere auf Pyrenomyzeten wachsende Ascomyzeten:**
 
-Bisporella sulfurina = Schwefelgelbes Kernpilzbecherchen  
-Polydesmia pruinosa = Bereiftes Kernpilzbecherchen
+Bisporella sulfurina = Schwefelgelbes Kernpilzbecherchen\
+[Polydesmia pruinosa = Bereiftes Kernpilzbecherchen](/pilze/polydesmia-pruinosa-bereiftes-kernpilzbecherchen)
