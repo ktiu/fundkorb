@@ -13,7 +13,7 @@ hauptbild:
   anzeige: false
   datei: /bilder/gloeoporus_dichrous_01_dg.jpg
 literatur:
-  - text: "Werner Pohl: Aphyllopower - Gloeoporus dichrous"
+  - text: "Werner Pohl: Aphyllopower - Gloeoporus dichrous (Nr. 25)"
     url: http://aphyllopower.blogspot.com/2006/09/
 ---
 
