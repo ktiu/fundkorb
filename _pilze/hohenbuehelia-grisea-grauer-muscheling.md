@@ -20,7 +20,7 @@ Auf den hier vorgestellten Fund machte mich Daniela Toller aufmerksam, die den P
 
 Die Gattung Hohenbuehelia steht zusammen mit den Seitlingen (z. B. Ausernseitling) in der Familie Pleurotaceae. So jedenfalls nach dem aktuellsten Stand der Taxonomie (2019). Zuvor wurden sie noch bei den Ritterlingsartigen (Tricholomataceae) geführt.
 
-Man kann die Muschelinge in zwei Gruppen einteilen: bodenbewohnende gestielte und an Holz wachsende ungestielte Arten. Wichtigstes gemeinsames Merkmal ist eine gelatinöse Schicht unter der Huthaut, die artcharakteristisch unterschiedlich dick und mit der Lupe zu erkennen ist. Die Sporenpulverfarbe ist weiß bis blass gelblich. Zu den gattungstypischen Mikromerkmalen gehören ferner dickwandige kristalltragende Zystiden
+Man kann die Muschelinge in zwei Gruppen einteilen: bodenbewohnende gestielte und an Holz wachsende ungestielte Arten. Wichtigstes gemeinsames Merkmal ist eine gelatinöse Schicht unter der Huthaut, die artcharakteristisch unterschiedlich dick und mit der Lupe zu erkennen ist. Die Sporenpulverfarbe ist weiß bis blass gelblich. Zu den gattungstypischen Mikromerkmalen gehören ferner dickwandige kristalltragende [Zystiden](Zystiden "Glossar").
 
 Der Graue Muscheling bildet bis zu 5 cm breite muschel- oder nierenförmige Hüte, die mit einer im Alter lückig werdenden Filzschicht überzogen sind. Ganz junge Fruchtkörper erscheinen als flizig-borstige Knöllchen. Die Lamellen laufen an der Anwuchsstelle zusammen, sind jung weißlich, verfärben bald zu ocker bis zuletzt rosabräunlich. Geruch und Geschmack werden als mehlartig beschrieben.
 
