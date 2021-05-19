@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/laetiporus_sulphureus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Wenn unser aktueller [Fundkorbpilz](AA "Glossar-") so früh im Jahr erscheint, ist er in der Regel so zart, dass man einen echten Leckerbissen aus ihm zuzubereiten kann. In England wird der Schwefelporling daher auch "Chicken of the Woods" genannt. Er wächst an Holz und ist schon wegen seiner leuchtend dottergelben Farbe und dem fächerförmigen Wachstum kaum zu übersehen. Aber Vorsicht: nicht ausreichend durchgebraten kann er heftige Magen-/Darmstörungen verursachen. (19.05.2021) [Mehr lesen und schauen...](/pilze/laetiporus-sulphureus-schwefelporling)
+Wenn unser aktueller [Fundkorbpilz](AA "Glossar-") so früh im Jahr erscheint, ist er in der Regel so zart, dass man einen echten Leckerbissen aus ihm zubereiten kann. In England wird der Schwefelporling daher auch "Chicken of the Woods" genannt. Er wächst an Holz und ist schon wegen seiner leuchtend dottergelben Farbe und dem fächerförmigen Wachstum kaum zu übersehen. Aber Vorsicht: nicht ausreichend durchgebraten kann er heftige Magen-/Darmstörungen verursachen. (19.05.2021) [Mehr lesen und schauen...](/pilze/laetiporus-sulphureus-schwefelporling)
 
 - - -
 
