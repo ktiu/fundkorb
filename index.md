@@ -24,6 +24,8 @@ Aktueller [Fundkorbpilz](AA "Glossar-"):
 
 Natürlich ist der [Glimmertintling Coprinellus micaceus](/pilze/coprinellus-micaceus-glimmertintling) jetzt auch schon da. Egal ob irgendwo im Wald oder in einer Parkanlage. Er gehört zu den Arten, die nur bedingt für die Küche geeignet sind. Man darf in Verbindung mit ihm keinen Alkohol trinken, und das gilt für einen Zeitraum von zwei Tagen vor bis zwei Tagen nach dem Verzehr. (20.05.2021)
 
+<div style="clear: both"></div>
+
 - - -
 
 {% include abbildung_start.html stil="standard" %}
