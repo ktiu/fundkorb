@@ -16,6 +16,14 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinellus_micaceus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Natürlich ist der [Glimmertintling Coprinellus micaceus](/pilze/coprinellus-micaceus-glimmertintling) jetzt auch schon da. Egal ob irgendwo im Wald oder in einer Parkanlage. Er gehört zu den Arten, die nur bedingt für die Küche geeignet sind. Man darf in Verbindung mit ihm keinen Alkohol trinken, und das gilt für einen Zeitraum von zwei Tagen vor bis zwei Tagen nach dem Verzehr. (20.05.2021)
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/laetiporus_sulphureus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -29,22 +37,6 @@ Wenn unser aktueller [Fundkorbpilz](AA "Glossar-") so früh im Jahr erscheint, i
 {% include abbildung_ende.html %}
 
 Dieser Champignon (unser aktueller [Fundkorbpilz](AA "Glossar-") am 17.05.2021) ist einer der bemerkenswertesten Pilze überhaupt. Er ist sozusagen der Champion unter den Gewichthebern, ist er doch in der Lage, schwere Gehwegplatten von mehreren Kilogramm Gewicht in die Höhe zu stemmen und dicken Asphaltbelag zu durchbrechen. Er heißt [Stadt-Champignon (Agaricus bitorquis)](/pilze/agaricus-bitorquis-stadt-champignon) und ist ein ausgezeichneter Speisepilz.
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Zu den aktuellen [Fundkorbpilzen](AA "Glossar-") (16.05.2021) gehört natürlich auch der [Voreilende Ackerling Agrocybe praecox](/pilze/agrocybe-praecox-voreilender-ackerling). Er wächst meist gesellig ab April/Mai in- und außerhalb von Wäldern, gern an Wegrändern, in Parkanlagen, Gärten etc. Für die Küche ist er wegen seines etwas ranzig-mehligen Geschmacks kaum zu empfehlen.
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/psathyrella_candolleana_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-Wer sich nicht bestens mit Pilzen auskennt, sollte solche kleinen Blätterpilze meiden. Erfahrene Pilzfreunde verwenden unseren aktuellen [Fundkorbpilz](AA "Glossar-") ([](/pilze/psathyrella-candolleana-behangener-faserling)[Psathyrella candolleana](/pilze/psathyrella-candolleana-behangener-faserling); 13.05.2021) hin und wieder als Suppenpilz. Auch als Mischpilz ist er geeignet. Mit deutschem Namen heißt er *Behangener Faserling* und gehört zu einer artenreichen Gattung, deren Vertreter auch für Erfahrene nicht immer leicht auseinanderzuhalten sind. 
 
 - - -
 
