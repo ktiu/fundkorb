@@ -2,8 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-[21.05.2021 Coprinellus micaceus - Glimmertintling](/pilze/coprinellus-micaceus-glimmertintling)  
-[20.05.2021 Latiporus sulphureus - Schwefelporling](/pilze/laetiporus-sulphureus-schwefelporling)  
+21.05.2021 [Coprinellus micaceus - Glimmertintling](/pilze/coprinellus-micaceus-glimmertintling)  
+20.05.2021 [Latiporus sulphureus - Schwefelporling](/pilze/laetiporus-sulphureus-schwefelporling)  
 17.05.2021 [Agaricus bitorquis - Stadt-Champignon](/pilze/agaricus-bitorquis-stadt-champignon)
 
 16.05.2021 [Agrocybe praecox - Voreilender Ackerling](/pilze/agrocybe-praecox-voreilender-ackerling)\
