@@ -16,6 +16,10 @@ footer_scripts:
 
 - - -
 
+Aktueller [Fundkorbpilz](AA "Glossar-") am 21.05.2021 ist der [Gelbblättrige Rübling Gymnopus ocior](/pilze/gymnopus-ocior-gelbblättriger-rübling). Früher war es mit dem Waldfreundrübling ganz einfach. Da gab es nur einen. Heute unterscheidet man mehrere und müsste, um ganz sicher zu gehen, fast jeden Fund mikroskopieren. Der Gelbblättrige gehört zu den weniger häufigen. Er kann einzeln, gesellig oder büschelig wachsend vorkommen, ist essbar aber nicht gerade eine Delikatesse.
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinellus_micaceus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -33,14 +37,6 @@ Natürlich ist der [Glimmertintling Coprinellus micaceus](/pilze/coprinellus-mic
 {% include abbildung_ende.html %}
 
 Wenn unser aktueller [Fundkorbpilz](AA "Glossar-") so früh im Jahr erscheint, ist er in der Regel so zart, dass man einen echten Leckerbissen aus ihm zubereiten kann. In England wird der Schwefelporling daher auch "Chicken of the Woods" genannt. Er wächst an Holz und ist schon wegen seiner leuchtend dottergelben Farbe und dem fächerförmigen Wachstum kaum zu übersehen. Aber Vorsicht: nicht ausreichend durchgebraten kann er heftige Magen-/Darmstörungen verursachen. (19.05.2021) [Mehr lesen und schauen...](/pilze/laetiporus-sulphureus-schwefelporling)
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
-{% include abbildung_ende.html %}
-
-Dieser Champignon (unser aktueller [Fundkorbpilz](AA "Glossar-") am 17.05.2021) ist einer der bemerkenswertesten Pilze überhaupt. Er ist sozusagen der Champion unter den Gewichthebern, ist er doch in der Lage, schwere Gehwegplatten von mehreren Kilogramm Gewicht in die Höhe zu stemmen und dicken Asphaltbelag zu durchbrechen. Er heißt [Stadt-Champignon (Agaricus bitorquis)](/pilze/agaricus-bitorquis-stadt-champignon) und ist ein ausgezeichneter Speisepilz.
 
 - - -
 
