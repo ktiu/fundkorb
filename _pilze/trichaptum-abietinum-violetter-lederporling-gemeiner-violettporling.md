@@ -40,6 +40,6 @@ Der Pilz ist einjährig und das ganze Jahr über zu finden. Ein mikroskopisches 
 
 
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/trichaptum_abietinum_07_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Zystiden mit Kristallschopf (Foto: Frank Kaster)" %}
