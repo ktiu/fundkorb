@@ -44,4 +44,4 @@ Pholiota jahnii: Hut schleimig, Stiel trocken, Schüppchen pinselartig aufgerich
 {% include bild.html datei="/bilder/pholiota_jahnii_06_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/pholiota_jahnii_07_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/pholiota_jahnii_08_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="18.10.2017: Fund im Lichteichenwald bei Dietzenbach" %}
