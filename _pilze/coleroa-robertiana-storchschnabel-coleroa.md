@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: Coleroa robertiana
+  wissenschaftlich: Coleroa robertiani
   deutsch: Storchschnabel-Coleroa
   referenz: (Fr.) 1823
   familie: Venturiaceae
