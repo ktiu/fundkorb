@@ -32,7 +32,7 @@ Verwechslungsmöglichkeiten: Schleimiger Schüppling Pholiota adiposa, der kalkh
 
 **Makroskopische Unterschiede** (vor allem bei feuchtem Wetter gut zu erkennen):\
 **Pholiota adiposa:** Hut und Stiel schleimig, Schüppchen teilweise aufgerichtet, Geschmack bitter\
-**Pholiota aurivella:** Hut schleimig, Stiel trocken, Schüppchen angedrückt, Geschmack mild\
+**[Pholiota aurivella:](/pilze/pholiota-aurivella-goldfellschüppling)** Hut schleimig, Stiel trocken, Schüppchen angedrückt, Geschmack mild\
 Pholiota jahnii: Hut schleimig, Stiel trocken, Schüppchen pinselartig aufgerichtet, Geschmack mild
 
 **Vergleich der Sporenmaße**:\
