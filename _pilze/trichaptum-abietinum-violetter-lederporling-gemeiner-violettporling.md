@@ -32,6 +32,10 @@ Ein völlig anderes Erscheinungsbild hat der Pilz, wenn er an der Unterseite von
 {% include bild.html datei="/bilder/trichaptum_abietinum_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/trichaptum_abietinum_07_fk.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Zystiden mit Kristallschopf (Foto: Frank Kaster)" %}
+
 Der Pilz ist einjährig und das ganze Jahr über zu finden. Ein mikroskopisches Gattungsmerkmal sind [Zystiden](Zystiden "Glossar") mit Kristallschöpfen. Ähnlich ist der viel seltenere Violettblättling *Trichaptum fuscoviolaceum*, der ebenfalls an Nadelholz wächst und wohl nur in Süddeutschland häufiger ist. Er unterscheidet sich durch ein eher zähnchenförmiges [Hymenophor](Hymenophor "Glossar").
 
 {% include abbildung_start.html stil="standard" %}
@@ -39,7 +43,3 @@ Der Pilz ist einjährig und das ganze Jahr über zu finden. Ein mikroskopisches 
 {% include abbildung_ende.html %}
 
 
-
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/trichaptum_abietinum_07_fk.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Zystiden mit Kristallschopf (Foto: Frank Kaster)" %}
