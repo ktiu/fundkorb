@@ -27,7 +27,7 @@ Der Zunderschwamm bildet an verschiedenen Laubhölzern robuste Fruchtkörper, di
 {% include bild.html datei="/bilder/fomes_fomentarius_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Wenn mit Zunderschwämmen bewachsene noch aufrecht stehende abgestorbene Stämme umfallen, ändert der Pilz seine Wuchsrichtung. Er richtet er seine Porenschicht stets nach unten aus, um das Ausfallen der Sporen zu ermöglichen. Dabei entstehen oft bemerkenswerte Fruchtkörperformen, wie die nachfolgenden Abbildungen zeigen.
+Wenn mit Zunderschwämmen bewachsene noch aufrecht stehende abgestorbene Stämme umfallen, ändert der Pilz seine Wuchsrichtung. Er richtet seine Porenschicht stets nach unten aus, um das Ausfallen der Sporen zu ermöglichen. Dabei entstehen oft bemerkenswerte Fruchtkörperformen, wie die nachfolgenden Abbildungen zeigen.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/fomes_fomentarius_04_dg.jpg" nocrop=true %}
