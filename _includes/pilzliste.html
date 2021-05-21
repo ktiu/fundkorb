@@ -14,7 +14,7 @@
     {% for pilz in letter.items %}
       <p>
         <a id="{{ pilz.slug }}" href="{{ pilz.url | relative_url}}">
-          {{ pilz.beschreibung.wissenschaftlich }}{% if pilz.beschreibung.deutsch %} ({{ pilz.beschreibung.deutsch }}){%endif%}
+          {{ pilz.beschreibung.wissenschaftlich }}{% if pilz.beschreibung.deutsch and pilz.beschreibung.deutsch != "" %} ({{ pilz.beschreibung.deutsch }}){%endif%}
         </a>
       </p>
   {% endfor %}

@@ -1,7 +1,6 @@
 ---
 beschreibung:
   wissenschaftlich: Aporhytisma urticae
-  deutsch: ""
   familie: Diaporthaceae
   referenz: (Fr.) Höhn. 1917
   synonym: Diaportopsis urticae

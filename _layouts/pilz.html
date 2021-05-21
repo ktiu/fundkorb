@@ -22,7 +22,7 @@ footer_scripts:
 <div class="kopf">
 <h1>{{ page.beschreibung.wissenschaftlich }}</h1>
 
-{% if page.beschreibung.deutsch %}<h2>{{ page.beschreibung.deutsch }}</h2>{% endif %}
+{% if page.beschreibung.deutsch and page.beschreibung.deutsch != "" %}<h2>{{ page.beschreibung.deutsch }}</h2>{% endif %}
 
 <div class="anfang row">
 <div class="referenz col-md-5">{{ page.beschreibung.referenz }}</div>
@@ -30,7 +30,7 @@ footer_scripts:
   <div class="autor_in col-sm text-right">&copy; {{ page.profil.autor_in }}</div>
 </div>
 <div class="anfang row mb-4">
-  {% if page.beschreibung.synonym and page.beschreibung.synonym != ""%}
+  {% if page.beschreibung.synonym and page.beschreibung.synonym != "" %}
     <div class="synonym col-md{% if page.beschreibung.erlaeuterung and page.beschreibung.erlaeuterung != "" %}-5{% endif %}">{{ page.beschreibung.synonym }}</div>
   {% endif %}
   {% if page.beschreibung.erlaeuterung and page.beschreibung.erlaeuterung != "" %}<div class="erlaeuterung col-md">{{ page.beschreibung.erlaeuterung }}</div>{% endif %}
