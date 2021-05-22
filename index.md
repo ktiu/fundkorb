@@ -17,6 +17,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/polyporus_tuberaster_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.05.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") heißt Sklerotienporling (auch kleiner Schuppenporling genannt) und ist ein Delikatesspilz erster Güte, auf den man schon in den alten Fürstenhäusern Italiens scharf gewesen ist. Kurz gefasste weitere Informationen machen an dieser Stelle wenig Sinn, weshalb wir auf unser ausführliches Pilzportät verweisen. [Mehr lesen >](/pilze/polyporus-tuberaster-sklerotienporling)
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/gymnopus_ocior_01_hr.jpg" %}
 {% include abbildung_ende.html %}
 
