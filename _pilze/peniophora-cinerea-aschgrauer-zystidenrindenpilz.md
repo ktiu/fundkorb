@@ -6,14 +6,15 @@ beschreibung:
   familie: Peniophoraceae
   erlaeuterung: cinerea = aschgrau
 profil:
-  aktualisiert: 2020-09-17
+  aktualisiert: 2021-05-22
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/peniophora_cinerea_02_dg.jpg
 ---
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/peniophora_cinerea_03_dg.jpg" %}
+{% include bild.html datei="/bilder/peniophora_cinerea_02_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/peniophora_cinerea_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
 Zystiden-Rindenpilze sind Arten, die flächig das Substrat (Holz) überziehen und glatte bis warzige, wachsartige bis ledrige Oberflächen haben. Sie zersetzen das Holz, wobei sie eine Weißfäule verursachen, und entstehen meist an toten Ästen lebender Bäume.
