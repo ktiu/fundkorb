@@ -6,7 +6,7 @@ beschreibung:
   familie: Polyporaceae
   erlaeuterung: tuberaster = knollenförmig
 profil:
-  aktualisiert: 2020-08-13
+  aktualisiert: 2021-05-22
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
@@ -76,5 +76,7 @@ Das obige Foto zeigt den Pilz und die geborgenen Teilstücke, das nachfolgende d
 {% include bild.html datei="/bilder/polyporus_tuberaster_sklerotium_10_dg.jpg" %}
 {% include bild.html datei="/bilder/polyporus_tuberaster_sklerotium_11_dg.jpg" %}
 {% include abbildung_ende.html %}
+
+Der Sklerotienporling wächst fast ausschließlich an totem Laubholz, selten auch mal direkt auf dem Waldboden. Als Substrat werden in der Literatur zahlreiche Baumarten genannt. Ich habe ihn im Rhein-Main-Gebiet durchgängig nur an Buche gefunden, ein einziges Mal an Birke. 
 
 Die Gattung Polyporus ist in Auflösung begriffen, die meisten Arten wie Winter- oder Maiporling sind in die Gattung Lentinus transferiert, für andere sind neue, zum Teil monotypische Gattungen aufgestellt worden. Der Schwarzrote Porling z. B. heißt jetzt Picipes badius, der [Schuppige Porling Cerioporus squamosus](/pilze/polyporus-squamosus-schuppiger-porling). Laut Index fungorum scheint lediglich der Sklerotienporling bei Polyporus verblieben zu sein. Er war die Typusart der Gattung und durfte deshalb seinen angestammten Namen behalten.
