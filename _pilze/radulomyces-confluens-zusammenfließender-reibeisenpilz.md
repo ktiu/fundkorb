@@ -18,7 +18,7 @@ hauptbild:
 {% include bild.html datei="/bilder/radulomyces_confluens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Dieser [resupinate](<resupinat "Glossar">) Rindenpilz gehört zu den Arten, die man besonders in feucht-milden Wintermonaten finden kann. Er wächst fast ausschließlich an totem Laubholz, vor allem an Buche, nur selten an Nadelholz, an Ästen und Stämmen, aber auch auf Schnittflächen von Stümpfen.
+Dieser [resupinate](resupinat "Glossar") Rindenpilz gehört zu den Arten, die man besonders in feucht-milden Wintermonaten finden kann. Er wächst fast ausschließlich an totem Laubholz, vor allem an Buche, nur selten an Nadelholz, an Ästen und Stämmen, aber auch auf Schnittflächen von Stümpfen.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/radulomyces_confluens_03_dg.jpg" nocrop=true %}
