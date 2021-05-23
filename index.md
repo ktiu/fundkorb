@@ -16,6 +16,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/entoloma_sepium_05_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 23.05.2021:
+
+Mit einem nie für möglich gehaltenen Massenvorkommen drängt sich heute der Schlehenrötling Entoloma sepium auf. In und rund um Dietzenbach gibt es zur Zeit etwa ein Dutzend Fundstellen, alle bei Schlehen oder anderen Rosaceae, in Parkanlagen, Fluren und auf einer Streuobstwiese. Einige sind unglaublich dicht bewachsen, in einem einzigen der großen Schlehengestrüppe mögen es weit über 1000 Pilze gewesen sein. [Mehr lesen >](/pilze/entoloma-sepium-schlehenrötling)
+
+<div style="clear: both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/polyporus_tuberaster_03_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -29,26 +41,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 Aktueller [Fundkorbpilz](AA "Glossar-") am 21.05.2021 ist der [Gelbblättrige Rübling Gymnopus ocior](/pilze/gymnopus-ocior-gelbblättriger-rübling). Früher war es mit dem Waldfreundrübling ganz einfach. Da gab es nur einen. Heute unterscheidet man mehrere und müsste, um ganz sicher zu gehen, fast jeden Fund mikroskopieren. Der Gelbblättrige gehört zu den weniger häufigen. Er kann einzeln, gesellig oder büschelig wachsend vorkommen, ist essbar aber nicht gerade eine Delikatesse.
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinellus_micaceus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-"):
-
-Natürlich ist der [Glimmertintling Coprinellus micaceus](/pilze/coprinellus-micaceus-glimmertintling) jetzt auch schon da. Egal ob irgendwo im Wald oder in einer Parkanlage. Er gehört zu den Arten, die nur bedingt für die Küche geeignet sind. Man darf in Verbindung mit ihm keinen Alkohol trinken, und das gilt für einen Zeitraum von zwei Tagen vor bis zwei Tagen nach dem Verzehr. (20.05.2021)
-
-<div style="clear: both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/laetiporus_sulphureus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Wenn unser aktueller [Fundkorbpilz](AA "Glossar-") so früh im Jahr erscheint, ist er in der Regel so zart, dass man einen echten Leckerbissen aus ihm zubereiten kann. In England wird der Schwefelporling daher auch "Chicken of the Woods" genannt. Er wächst an Holz und ist schon wegen seiner leuchtend dottergelben Farbe und dem fächerförmigen Wachstum kaum zu übersehen. Aber Vorsicht: nicht ausreichend durchgebraten kann er heftige Magen-/Darmstörungen verursachen. (19.05.2021) [Mehr lesen und schauen...](/pilze/laetiporus-sulphureus-schwefelporling)
 
 - - -
 
