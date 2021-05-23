@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://www.steinpilz-wismar.de/cms/?cat=818
 ---
-Der Schlehenrötling war mir bisher nur von einem Feldwegrand mit Schlehengebüsch bei Flörsheim bekannt. Um so größer die Freude, am 30. April 2019 sogar ein Massenvorkommen auf einer Streuobstwiese im Gebiet Schilflache bei Dietzenbach zu entdecken. Hier waren offensichtlich Apfelbäume die [Mykorrhizapartner](Mykorrhiza "Glossar") der relativ seltenen Art. Wie die häufigeren [Schildrötlinge](/pilze/entoloma-clypeatum-schildrötling) wachsen sie bei Rosaceen (Rosengewächsen). Zu dieser artenreichen Pflanzenfamilie gehören außer Rosen auch Obstarten wie Apfel, Birne, Brombeere, Erdbeere, Himbeere, Kirsche, Pflaume, Pfirsisch, Schlehe oder Weißdorn.
+Der Schlehenrötling war mir zunächst nur von einem Feldwegrand mit Schlehengebüsch bei Flörsheim bekannt. Um so größer die Freude, am 30. April 2019 sogar ein Massenvorkommen auf einer Streuobstwiese im Gebiet Schilflache bei Dietzenbach zu entdecken. Hier waren offensichtlich Apfelbäume die [Mykorrhizapartner](Mykorrhiza "Glossar") der als relativ selten geltenden Art. Wie die häufigeren [Schildrötlinge](/pilze/entoloma-clypeatum-schildrötling) wachsen sie bei Rosaceen (Rosengewächsen). Zu dieser artenreichen Pflanzenfamilie gehören außer Rosen auch Obstarten wie Apfel, Birne, Brombeere, Erdbeere, Himbeere, Kirsche, Pflaume, Pfirsisch, Schlehe oder Weißdorn.
 
 Rötlinge sind eine artenreiche Gattung in der Familie der Rötlingsverwandten, die alle rosafarbenes bis rosabraunes Sporenpulver haben. Rötlinge unterscheiden sich von anderen Gattungen zudem durch eckige Sporen.
 
@@ -24,4 +24,4 @@ Die meisten der in Mitteleuropa vorkommenden etwa 250 Arten sind schwer und zume
 {% include bild.html datei="/bilder/entoloma_sepium_02_mm.jpg" %}
 {% include abbildung_ende.html legende="Foto: Margret Schwarz-Mohr" %}
 
-Vom Schildrötling unterscheidet sich der Schlehenrötling vor allem durch hellere Hutfarben und nicht [hygrophane](hygrophan "Glossar") Huthaut. Beide riechen nach Mehl oder Gurken und gehören mit Hutdurchmessern bis etwa 10 cm zu den größeren Rötlingsarten.
+Vom Schildrötling unterscheidet sich der Schlehenrötling vor allem durch hellere Hutfarben und nicht [hygrophane](hygrophan "Glossar") Huthaut. Beide riechen nach Mehl oder Gurken und gehören mit Hutdurchmessern bis etwa 10 cm zu den größeren Rötlingsarten. Wer Guajaktinktur oder Anilin zur Verfügung hat, kann mit diesen chemischen Reagenzien einen einfachen Farbtest durchführen, mit dem die beiden Arten sicher und schnell zu trennen sind. Das Fleisch des Schlehenrötlings färbt sich innerhaln von 5 bis 10 Minuten mit Guajak grünblau, mit Anilin rosa. Beim Schildrötling ist der Farbtest negativ. Außerdem sind Madenfraßgänge beim Schlehenrötling orangebräunlich.
