@@ -6,7 +6,7 @@ beschreibung:
   familie: Stereaceae
   erlaeuterung: subtomentosum = schwach filzig
 profil:
-  aktualisiert: 2021-05-22
+  aktualisiert: 2021-05-23
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -24,6 +24,9 @@ Die Fruchtkörper des Samtigen Schichtpilzes sind fächer- bis halbkreisförmig,
 {% include bild.html datei="/bilder/stereum_subtomentosum_03_dg.jpg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Schnitt durch einen Fruchtkörper des Samtigen Schichtpilzes" %}
 
- 
-
 Die sieben in Deutschland vorkommenden Schichtpilzarten sind mit etwas Erfahrung schon optisch recht gut zu unterscheiden, vorausgesetzt, man hat frisch gewachsene Exemplare zur Verfügung. Alte, vertrocknete und vorjährige sind meist kaum noch sicher bestimmbar. Lediglich der hier gezeigte Samtige Schichtpilz hat mit dem Braunsamtigen Schichtpilz einen verwechselbaren Doppelgänger. Hier hilft aber schon eine gute Lupe weiter. Im Schnitt durch den Fruchkörper zeigt Stereum subtomentosum eine helle, gleichmäßige Behaarung, bei S. insignitum ist sie braun und einzelne Haarbüschel sind deutlich voneinander getrennt . Außerdem färbt sich die Unterseite von Stereum subtomentosum beim Reiben mit befeuchtetem Finger gelb, die von Stereum insignitum jedoch nicht. Dieser Test funktioniert nur bei frisch gewachsenen Fruchtkörpern. Sollten immer noch Zweifel bleiben, muss das Mikroskop ran. Im Gegensatz zum Samtigen Schichtpilz besitzt der Braunsamtige sogenannte [Acanthozystiden](Acanthozystiden "Glossar").
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/stereum_subtomentosum_04_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/stereum_insignitum_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Fruchtkörper und Schnitt, links: Stereum subtomentosum -- rechts: Stereum insignitum (2 Fotos: Bernd Miggel)" %}
