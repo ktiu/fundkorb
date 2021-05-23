@@ -6,7 +6,7 @@ beschreibung:
   familie: Stereaceae
   erlaeuterung: hirsutum = striegelig, borstig, rauhaarig
 profil:
-  aktualisiert: 2021-01-24
+  aktualisiert: 2021-05-23
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
@@ -20,7 +20,7 @@ literatur:
 {% include bild.html datei="/bilder/stereum_hirsutum_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Schichtpilze besitzen ein glattes bis runzeliges [Hymenium](Hymenium "Glossar") (Fruchtschicht), sie wachsen resupinat (dem Substrat krustenförmig aufgewachsen) bis pileat (abstehende Hütchen bildend) an Holz, bestehen aus [Skeletthyphen](Skeletthyphen "Glossar") und haben daher eine lederige bis holzig-zähe Konsistenz. Der Striegelige Schichtpilz gehört zu den [effus-reflex](effus-reflex "Glossar") wachsenden Arten und bildet deutlich vom Substrat abstehende Hutkanten, die dachziegelig oder in längeren welligen Reihen angeordnet und gelb bis gelb-orange gefärbt sind. Die Oberseite der Hütchen besteht aus einem Haarfilz aus miteinander verklebten Hyphen, der durch eine im Schnitt mit der Lupe sichtba-ren rotbraunen Linie vom Fruchtfleisch ([Cortex](Cortex "Glossar")) getrennt ist.
+Schichtpilze besitzen ein glattes bis runzeliges [Hymenium](Hymenium "Glossar") (Fruchtschicht), sie wachsen resupinat (dem Substrat krustenförmig aufgewachsen) bis pileat (abstehende Hütchen bildend) an Holz, bestehen aus [Skeletthyphen](Skeletthyphen "Glossar") und haben daher eine lederige bis holzig-zähe Konsistenz. Der Striegelige Schichtpilz gehört zu den [effus-reflex](effus-reflex "Glossar") wachsenden Arten und bildet deutlich vom Substrat abstehende Hutkanten, die dachziegelig oder in längeren welligen Reihen angeordnet und gelb bis gelb-orange gefärbt sind. Die Oberseite der Hütchen besteht aus einem Haarfilz aus miteinander verklebten Hyphen, der durch eine im Schnitt mit der Lupe sichtbaren rotbraunen Linie vom Fruchtfleisch ([Cortex](Cortex "Glossar")) getrennt ist.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/stereum_hirsutum_03_dg.jpg" nocrop=true %}
