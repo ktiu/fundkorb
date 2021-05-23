@@ -6,6 +6,7 @@ published: true
 22.05.2021 [Polyporus tuberaster - Sklerotienporling, Kleiner Schuppenporling](/pilze/polyporus-tuberaster-sklerotienporling)\
 21.05.2021 [Gymnopus ocior - Gelbblättriger Rübling](/gymnopus-ocior-gelbblättriger-rübling)
   
+
 20.05.2021 [Coprinellus micaceus - Glimmertintling](/pilze/coprinellus-micaceus-glimmertintling)\
 19.05.2021 [Laetiporus sulphureus - Schwefelporling](/pilze/laetiporus-sulphureus-schwefelporling)\
 17.05.2021 [Agaricus bitorquis - Stadt-Champignon](/pilze/agaricus-bitorquis-stadt-champignon)  
