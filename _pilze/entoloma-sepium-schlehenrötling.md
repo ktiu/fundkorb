@@ -24,11 +24,11 @@ Die meisten der in Mitteleuropa vorkommenden etwa 250 Arten sind schwer und zume
 {% include bild.html datei="/bilder/entoloma_sepium_02_mm.jpg" %}
 {% include abbildung_ende.html legende="Foto: Margret Schwarz-Mohr" %}
 
-Vom Schildrötling unterscheidet sich der Schlehenrötling vor allem durch hellere Hutfarben und  [hygrophane](hygrophan "Glossar") Huthaut. Beide riechen nach Mehl oder Gurken und gehören mit Hutdurchmessern bis etwa 10 cm zu den größeren Rötlingsarten. Wer Guajaktinktur oder Anilin zur Verfügung hat, kann mit diesen chemischen Reagenzien einen einfachen Farbtest durchführen, mit dem die beiden Arten sicher und schnell zu trennen sind. Das Fleisch des Schlehenrötlings färbt sich innerhaln von 5 bis 10 Minuten mit Guajak grünblau, mit Anilin rosa. Beim Schildrötling ist der Farbtest negativ. Außerdem sind Madenfraßgänge beim Schlehenrötling orangebräunlich.
+Vom Schildrötling unterscheidet sich der Schlehenrötling vor allem durch hellere Hutfarben und  [hygrophane](hygrophan "Glossar") Huthaut. Beide riechen nach Mehl oder Gurken und gehören mit Hutdurchmessern bis etwa 10 cm zu den größeren Rötlingsarten. Wer Guajaktinktur oder Anilin zur Verfügung hat, kann mit diesen chemischen Reagenzien einen einfachen Farbtest durchführen, mit dem die beiden Arten sicher und schnell zu trennen sind. Das Fleisch des Schlehenrötlings färbt sich innerhaln von 5 bis 10 Minuten mit Guajak blaugrün, mit Anilin rosa. Beim Schildrötling ist der Farbtest negativ. Außerdem sind Madenfraßgänge beim Schlehenrötling orangebräunlich.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/entoloma_sepium_03_dg.jpg" %}
-{% include abbildung_ende.html legende="Madenfraßgänge im Stiel orangebräunlich, Hutfleisch mit Guajak grünblau" %}
+{% include abbildung_ende.html legende="Madenfraßgänge im Stiel orangebräunlich, Hutfleisch mit Guajak blaugrün" %}
 
 Im Mai 2021 erlebten wir in und rund um Dietzenbach ein nie für möglich gehaltenes Massenvorkommen von Schlehenrötlingen an ca. einem Dutzend Fundstellen, alle bei Schlehen oder anderen Rosaceae, in Parkanlagen, Fluren und auf einer Streuobstwiese. Allein in einem der großen Schlehengestrüppe dürften es weit über 1000 Pilze gewesen sein.
 
