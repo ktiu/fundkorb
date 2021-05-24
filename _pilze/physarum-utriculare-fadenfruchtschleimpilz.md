@@ -30,6 +30,6 @@ Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das Video des US-amerik
 
 <https://www.spektrum.de/video/besitzen-schleimpilze-schwarmintelligenz/1592488>
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/physarum_utriculare_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="24.05.2021: Fund im Hintermark-Wald bei Dietzenbach" %}
