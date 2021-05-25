@@ -46,14 +46,6 @@ Mit einem nie für möglich gehaltenen Massenvorkommen drängt sich heute der Sc
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/gymnopus_ocior_01_hr.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 21.05.2021 ist der [Gelbblättrige Rübling Gymnopus ocior](/pilze/gymnopus-ocior-gelbblättriger-rübling). Früher war es mit dem Waldfreundrübling ganz einfach. Da gab es nur einen. Heute unterscheidet man mehrere und müsste, um ganz sicher zu gehen, fast jeden Fund mikroskopieren. Der Gelbblättrige gehört zu den weniger häufigen. Er kann einzeln, gesellig oder büschelig wachsend vorkommen, ist essbar aber nicht gerade eine Delikatesse.
-
-- - -
-
 [Liste aller aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
 
 - - -
