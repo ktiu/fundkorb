@@ -17,6 +17,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bulbillomyces_farinosus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+[Fundkorbpilz](AA "Glossar-") am 25.05.2021:
+
+Der Begriff "Rindenpilze" ist eine unspezifische Bezeichnung für meist unscheinbare Arten an Holz, die nahezu ausschließlich mikroskopisch bestimmbar sind. Eine Ausnahme ist der [Körnchen-Rindenpilz Bulbillomyces farinosus](/pilze/bulbillomyces-farinosus-körnchen-rindenpilz), und der überrascht mit einem spektakulären Aussehen, das man allerdings nur mit der Lupe erkennt: sein [Subikulum](Subikulum "Glossar") ist mit unzähligen weißen Kügelchen dicht besetzt. Man findet ihn an feucht oder im Wasser liegendem Laubholz. 
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/entoloma_sepium_05_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
