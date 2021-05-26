@@ -31,7 +31,7 @@ Die sieben in Deutschland vorkommenden Schichtpilzarten sind mit etwas Erfahrung
 {% include bild.html datei="/bilder/stereum_insignitum_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Fruchtkörper und Schnitt, links: Stereum subtomentosum -- rechts: Stereum insignitum (2 Fotos: Bernd Miggel)" %}
 
-**Schlüssel für mitteleuropäische Stereum-Arten von Bernd Miggel**
+[Schlüssel für mitteleuropäische Stereum-Arten von Bernd Miggel](Schlüssel für mitteleuropäische Stereum-Arten von Bernd Miggel "Glossar")
 
 <div class="table-responsive">
 <table class="table">
