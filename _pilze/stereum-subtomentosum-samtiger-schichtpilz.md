@@ -11,6 +11,9 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/stereum_subtomentosum_02_dg.jpg.jpg
+literatur:
+  - text: "MIGGEL, B. (2008): Die Schichtpilze der Gattung Stereum Pers. ex S. F.
+      Gray 1821. Südwestdeutsche Pilzrundschau 44/2, S. 49-60"
 ---
 Von oben betrachtet könnte der Samtige Schichtpilz für eine Schmetterlingstramete gehalten werden. Die Zonierung hat durchaus eine gewisse Ähnlichkeit, aber schon die flatterig dünnen und sehr elastischen lederigen Fruchtkörper unterscheiden ihn deutlich von den Trameten. Ein Blick auf die Fruchtschicht (Unterseite, auch Hymenium genannt) sorgt endgültig für Klarheit. Bei den Schichtpilzen ist sie glatt, höchstens mehr oder weniger runzelig, während sie bei den Trameten deutlich porig ist.
 
