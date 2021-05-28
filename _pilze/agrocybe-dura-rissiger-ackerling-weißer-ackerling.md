@@ -20,7 +20,7 @@ Der Rissige Ackerling ist der Doppelgänger des [Voreilenden Ackerlings *Agrocyb
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/agrocybe_dura_02_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Rissiger Ackerling: Velumreste am Hut, flüchtige (oft auch fehlende) Ringzone am Stiel nahe unter dem Lamellenansatz" %}
+{% include abbildung_ende.html legende="Rissiger Ackerling: Velumreste am Hutrand, flüchtige (oft auch fehlende) Ringzone am Stiel nahe unter dem Lamellenansatz" %}
 
 Betrachten wir nun das [Velum](Velum "Glossar"). Bleibt nach dem Ablösen vom Hutrand ein häutiger Ring in einigem Abstand zum Hut zurück, spricht das für den Voreilenden Ackerling. Bleibt es mehrheitlich in Form häutiger Fetzen am Hutrand hängen bzw. befindet sich eine flüchtige  Ringzone dicht unter dem Hut, spricht das für den Rissigen. Aber auch das sind eher Indizien als wirklich zielführende Unterschiede.
 
@@ -38,8 +38,6 @@ Dass man eventuell auch vetrocknete Pilzhüte als Unterscheidungshilfen heranzie
 {% include bild.html datei="/bilder/agrocybe_dura_03_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/agrocybe_dura_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Rissiger Ackerling: links frischer, rechts vertrockneter Hut" %}
-
-
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/agrocybe_praecox_05_dg.jpg" nocrop=true %}
