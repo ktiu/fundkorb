@@ -6,7 +6,7 @@ beschreibung:
   familie: Strophariaceae
   referenz: (Pers.) Fayod 1889
 profil:
-  aktualisiert: 2021-05-15
+  aktualisiert: 2021-05-28
   autor_in: Dieter Gewalt
 hauptbild:
   datei: /bilder/agrocybe_praecox_01_dg.jpg
@@ -23,6 +23,7 @@ Der Name „voreilend“ bezieht sich auf seine frühe Erscheinungszeit. In manc
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/agrocybe_praecox_03_dg.jpg" %}
-{% include abbildung_ende.html legende="Bei Trockenheit und Sonneneinstrahlung wird die Huthaut schnell rissig." %}
+{% include bild.html datei="/bilder/agrocybe_praecox_04_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Abb. links: bei Trockenheit und Sonneneinstrahlung wird die Huthaut schnell rissig. -- Abb. rechts: Sporenpulverfarbe dunkel tabakbraun" %}
 
 Verwechslungen sind möglich mit dem weniger häufigen [Rissigen Ackerling Agrocybe dura](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling).
