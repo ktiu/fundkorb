@@ -11,6 +11,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/agrocybe_dura_01_dg.jpg
+  legende: Beim liegenden jungen Pilz ist das Häutchen (Velum) unter dem Hut noch
+    verschlossen, die Lamellen daher noch nicht sichtbar
 literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Agrocybe_dura.html
 ---
