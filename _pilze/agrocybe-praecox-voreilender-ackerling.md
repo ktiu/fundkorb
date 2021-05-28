@@ -24,3 +24,5 @@ Der Name „voreilend“ bezieht sich auf seine frühe Erscheinungszeit. In manc
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/agrocybe_praecox_03_dg.jpg" %}
 {% include abbildung_ende.html legende="Bei Trockenheit und Sonneneinstrahlung wird die Huthaut schnell rissig." %}
+
+Verwechslungen sind möglich mit dem weniger häufigen [Rissigen Ackerling Agrocybe dura](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling).
