@@ -16,6 +16,14 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/boletus_erythropus._01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.05.2021: Aktueller [Fundkorbpilz](AA "Glossar-"), gerade in einem Wald bei Langen gefunden, ist der Flockenstielige Hexenröhrling (Neo)Boletus erythropus. Seine intensive Blauverfärbung im Anschnitt verheißt nichts Gutes. Trotzdem: wer ihn noch nie in der Pfanne hatte aber leckere Speisepilze schätzt, sollte sich unbedingt mit ihm befassen. [Mehr lesen >](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bulbillomyces_farinosus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -35,14 +43,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 23.05.2021:
 Mit einem nie für möglich gehaltenen Massenvorkommen drängt sich heute der Schlehenrötling Entoloma sepium auf. In und rund um Dietzenbach gibt es zur Zeit etwa ein Dutzend Fundstellen, alle bei Schlehen oder anderen Rosaceae, in Parkanlagen, Fluren und auf einer Streuobstwiese. Einige sind unglaublich dicht bewachsen, in einem einzigen der großen Schlehengestrüppe mögen es weit über 1000 Pilze gewesen sein. [Mehr lesen >](/pilze/entoloma-sepium-schlehenrötling)
 
 <div style="clear: both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/polyporus_tuberaster_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.05.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") heißt Sklerotienporling (auch kleiner Schuppenporling genannt) und ist ein Delikatesspilz erster Güte, auf den man schon in den alten Fürstenhäusern Italiens scharf gewesen ist. Kurz gefasste weitere Informationen machen an dieser Stelle wenig Sinn, weshalb wir auf unser ausführliches Pilzportät verweisen. [Mehr lesen >](/pilze/polyporus-tuberaster-sklerotienporling)
 
 - - -
 
