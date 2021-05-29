@@ -24,7 +24,9 @@ footer_scripts:
 
 Aktueller [Fundkorbpilz](AA "Glossar-") ist der erste Wulstling des Jahres. Es ist wie fast in jedem Jahr der Narzissengelbe Amanita gemmata. Er ist auch mit ziemlicher Regelmäßigkeit der letzte wie im vergangenen Jahr am 30. Dezember.
 
-[Mehr lesen >](/pilze/amanita-gemmata-narzissengelber-wulstling) 
+[Mehr lesen >](/pilze/amanita-gemmata-narzissengelber-wulstling)
+
+<div class="clear: both"></div>
 
 - - -
 
