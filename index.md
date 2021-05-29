@@ -26,7 +26,7 @@ Aktueller [Fundkorbpilz](AA "Glossar-") ist der erste Wulstling des Jahres. Es i
 
 [Mehr lesen >](/pilze/amanita-gemmata-narzissengelber-wulstling)
 
-<div class="clear: both"></div>
+<div style="clear: both"></div>
 
 - - -
 
