@@ -47,32 +47,6 @@ Mehr lesen >
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bulbillomyces_farinosus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-[Fundkorbpilz](AA "Glossar-") am 25.05.2021:
-
-Der Begriff "Rindenpilze" ist eine unspezifische Bezeichnung für meist unscheinbare Arten an Holz, die nahezu ausschließlich mikroskopisch bestimmbar sind. Eine Ausnahme ist der [Körnchen-Rindenpilz Bulbillomyces farinosus](/pilze/bulbillomyces-farinosus-körnchen-rindenpilz), und der überrascht mit einem spektakulären Aussehen, das man allerdings nur mit der Lupe erkennt: sein [Subikulum](Subikulum "Glossar") ist mit unzähligen weißen Kügelchen dicht besetzt. Man findet ihn an feucht oder im Wasser liegendem Laubholz. 
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/entoloma_sepium_05_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 23.05.2021:
-
-Mit einem nie für möglich gehaltenen Massenvorkommen drängt sich heute der Schlehenrötling Entoloma sepium auf. In und rund um Dietzenbach gibt es zur Zeit etwa ein Dutzend Fundstellen, alle bei Schlehen oder anderen Rosaceae, in Parkanlagen, Fluren und auf einer Streuobstwiese. Einige sind unglaublich dicht bewachsen, in einem einzigen der großen Schlehengestrüppe mögen es weit über 1000 Pilze gewesen sein. [Mehr lesen >](/pilze/entoloma-sepium-schlehenrötling)
-
-<div style="clear: both"></div>
-
-- - -
-
-[Liste aller aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
-
-- - -
-
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/pilobolus_kleinii_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
