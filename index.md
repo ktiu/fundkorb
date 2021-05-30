@@ -16,6 +16,15 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/helvella_lacunosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Unser aktueller [Fundkorbpilz](AA "Glossar-") (30.05.2021) ist die Grubenlorchel Helvella lacunosa, eine häufige Art in unseren Wäldern, die man als typischen Wegrandpilz bezeichnen könnte. Seine charakteristische Form und Farbe machen ihn ziemlich unverwechselbar, aber er weckt nicht unbedingt den Wunsch, ihn essen zu wollen. Sollte man auch nicht.
+[Mehr lesen >](/helvella-lacunosa-grubenlorchel)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_gemmata_02_mm.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
