@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-29.05.2021  [Amanita gemmata - Narzissengelber Wulstling](/pilze/amanita-gemmata-narzissengelber-wulstling)  
+30.05.2021 [Helvella lacunosa - Grubenlorchel](/pilze/helvella-lacunosa-grubenlorchel)  
+29.05.2021 [Amanita gemmata - Narzissengelber Wulstling](/pilze/amanita-gemmata-narzissengelber-wulstling)\
 28.05.2021 [Boletus erythropus - Flockenstieliger Hexenröhrling](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)\
 25.05.2021 [Bulbillomyces farinosus - Körnchen-Rindenpilz](/pilze/bulbillomyces-farinosus-körnchen-rindenpilz)\
 23.05.2021 [Entoloma sepium - Schlehenrötling](/pilze/entoloma-sepium-schlehenrötling)
