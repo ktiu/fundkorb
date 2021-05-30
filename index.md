@@ -47,6 +47,10 @@ Mehr lesen >
 
 - - -
 
+[Liste aller Aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/pilobolus_kleinii_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
