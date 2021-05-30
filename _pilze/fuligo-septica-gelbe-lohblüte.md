@@ -30,7 +30,7 @@ Schleimpilze besitzen zwar kein Gehirn, aber höchst intelligente Fähigkeiten. 
 <https://www.youtube.com/watch?v=63ufDBgk_sw>\
 <https://www.spektrum.de/video/besitzen-schleimpilze-schwarmintelligenz/1592488>
 
-Damit noch nicht genug und man mag es kaum glauben: in Mexiko findet die Lohblüte sogar in der Küche Verwendung. Sie wird gegrillt oder gebraten, das Ergebnis *Caca di luna* ("Mond-kacke") genannt und als Delikatesse verzehrt.
+Damit noch nicht genug und man mag es kaum glauben: in Mexiko findet die Lohblüte sogar in der Küche Verwendung. Sie wird gegrillt oder gebraten, das Ergebnis *Caca di luna* ("Mondkacke") genannt und als Delikatesse verzehrt.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/fuligo_septica_04_aa.jpg" nocrop=true %}
