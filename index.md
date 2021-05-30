@@ -33,7 +33,7 @@ Unser aktueller [Fundkorbpilz](AA "Glossar-") (30.05.2021) ist die Grubenlorchel
 
 Aktueller [Fundkorbpilz](AA "Glossar-") ist der erste Wulstling des Jahres. Es ist wie fast in jedem Jahr der Narzissengelbe Amanita gemmata. Er ist auch mit ziemlicher Regelmäßigkeit der letzte wie im vergangenen Jahr am 30. Dezember.
 
-[Mehr lesen >](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
+[Mehr lesen >](/pilze/amanita-gemmata-narzissengelber-wulstling)
 
 <div style="clear: both"></div>
 
