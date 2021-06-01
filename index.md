@@ -39,13 +39,7 @@ Aktueller [Fundkorbpilz](AA "Glossar-") ist der erste Wulstling des Jahres. Es i
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/boletus_erythropus._01_dg.jpg" %}
-{% include abbildung_ende.html %}
 
-28.05.2021: Aktueller [Fundkorbpilz](AA "Glossar-"), gerade in einem Wald bei Langen gefunden, ist der Flockenstielige Hexenröhrling (Neo)Boletus erythropus. Seine intensive Blauverfärbung im Anschnitt verheißt nichts Gutes. Trotzdem: wer ihn noch nie in der Pfanne hatte aber leckere Speisepilze schätzt, sollte sich unbedingt mit ihm befassen. [Mehr lesen >](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)
-
-- - -
 
 [Liste aller Aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
 
