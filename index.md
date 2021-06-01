@@ -16,6 +16,20 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_cyanoxantha_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+01.06.2021:
+
+Im Rhein-Main-Gebiet scheint das Pilzwachstum gerade sehr ungleich verteilt zu sein. Blätter- und Röhrenpilze sind in den zuletzt besuchten Wäldern für Jahreszeit und Wetterbedingungen extrem rar, um so erfreulicher die Vorkommen in Parkanlagen, Gärten, Friedhöfen, etc. So wurde auch der erste Frauentäubling, unser aktueller [Fundkorbpilz](AA "Glossar-"), nicht im Wald sondern in einer Parkanlage in Heusenstamm gefunden. Er gehört zu den gut kenntlichen Täublingsarten und unter den Speisepilzen zu den absoluten Premium-Arten.
+
+[Mehr lesen > ](/pilze/russula-cyanoxantha-frauentäubling)
+
+<div style="clear: both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/helvella_lacunosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -38,8 +52,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") ist der erste Wulstling des Jahres. Es i
 <div style="clear: both"></div>
 
 - - -
-
-
 
 [Liste aller Aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
 
