@@ -22,7 +22,7 @@ footer_scripts:
 
 01.06.2021:
 
-Im Rhein-Main-Gebiet scheint das Pilzwachstum gerade sehr ungleich verteilt zu sein. Blätter- und Röhrenpilze sind in den zuletzt besuchten Wäldern für Jahreszeit und Wetterbedingungen extrem rar, um so erfreulicher die Vorkommen in Parkanlagen, Gärten, Friedhöfen, etc. So wurde auch der erste Frauentäubling, unser aktueller [Fundkorbpilz](AA "Glossar-"), nicht im Wald sondern in einer Parkanlage in Heusenstamm gefunden. Er gehört zu den gut kenntlichen Täublingsarten und unter den Speisepilzen zu den absoluten Premium-Arten.
+Im Rhein-Main-Gebiet scheint das Pilzwachstum gerade sehr ungleich verteilt zu sein. Blätter- und Röhrenpilze sind in den zuletzt besuchten Wäldern für Jahreszeit und Wetterbedingungen extrem rar. Um so erfreulicher die Vorkommen in Parkanlagen, Gärten, Friedhöfen, etc. So wurde auch der erste Frauentäubling, unser aktueller [Fundkorbpilz](AA "Glossar-"), nicht im Wald sondern in einer Parkanlage in Heusenstamm gefunden. Er gehört zu den gut kenntlichen Täublingsarten und unter den Speisepilzen zu den absoluten Premium-Arten.
 
 [Mehr lesen > ](/pilze/russula-cyanoxantha-frauentäubling)
 
