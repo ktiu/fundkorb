@@ -14,7 +14,7 @@ hauptbild:
 ---
 In einem Fundkorb-Beitrag hat Thomas Lehr über diesen Pilz geschrieben: 
 
-> „Einer der vielen, eher unscheinbaren [Ascomyceten](Ascomyzeten "Glossar"), die man bei gezielter Suche im Frühjahr eigentlich überall entdecken kann, wo es ältere Haselbüsche gibt. Zudem findet man die Fruchtkörper von Encoelia furfuracea auf Erlenästen. Der Pilz ist durch sein Substrat, die büschelige Wuchsweise und die kleiige Außenseite eigentlich unberwechselbar.“
+> „Einer der vielen, eher unscheinbaren [Ascomyceten](Ascomyzeten "Glossar"), die man bei gezielter Suche im Frühjahr eigentlich überall entdecken kann, wo es ältere Haselbüsche gibt. Zudem findet man die Fruchtkörper von Encoelia furfuracea auf Erlenästen. Der Pilz ist durch sein Substrat, die büschelige Wuchsweise und die kleiige Außenseite eigentlich unverwechselbar.“
 
 Dieses Statement deckt sich so gar nicht mit meinen eigenen Beobachtungen (nur zwei Funde! – Stand: 2019). Er scheint mir gezielt aus dem Weg gehen zu wollen. Die Verbeitungskarte für Deutschland (1993) zeigt Ballungsgebiete, in denen er wohl häufig sein muss und flächendeckend verbreitet ist, während er in anderen Regionen, auch im Rhein-Main-Gebiet, nur lückenhaft nachgewiesen ist oder ganz zu fehlen scheint.
 
