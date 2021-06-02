@@ -15,7 +15,7 @@ literatur:
       47(1)"
 published: true
 ---
-Es gibt einige Pilze, an denen man sich leicht die Finger schmutzig machen kann. Dazu gehört zum Beispiel der Schmutzbecherling, aber auch Arten aus der Gattung Daldinia und der hier vorgestellte Kugelschwamm Camarops polysperma. Wir fanden ihn am nördlichen Ausfluss des Königsbaches aus dem Jakobiweiher im Frankfurter Stadtwald, nicht weit vom Gartenrestaurant Oberschweinstiege entfernt, auf einem nahezu völlig entrindeten liegenden Erlenstamm. In unmittelbarer Nähe hatten wir mit *Daldinia childiae* bereits einen bemerkenswerten [Pyrenomyzetenfund](Pyrenomyzeten "Glossar").
+Es gibt einige Pilze, an denen man sich leicht die Finger schmutzig machen kann. Dazu gehört zum Beispiel der Schmutzbecherling, aber auch Arten aus der Gattung Daldinia und der hier vorgestellte Kugelschwamm Camarops polysperma. Wir fanden ihn am nördlichen Ausfluss des Königsbaches aus dem Jacobiweiher im Frankfurter Stadtwald, nicht weit vom Gartenrestaurant Oberschweinstiege entfernt, auf einem nahezu völlig entrindeten liegenden Erlenstamm. In unmittelbarer Nähe hatten wir mit *Daldinia childiae* bereits einen bemerkenswerten [Pyrenomyzetenfund](Pyrenomyzeten "Glossar").
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/camarops_polysperma_02_dg.jpg" %}
