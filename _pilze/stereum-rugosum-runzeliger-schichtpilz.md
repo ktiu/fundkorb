@@ -37,7 +37,7 @@ Die sieben in Deutschland vorkommenden Schichtpilzarten sind mit etwas Erfahrung
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/stereum_rugosum_04_bm.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Abb. links: Fruchtkörper -- rechts: Schnitt quer durch den Fruchtkörper (2 Fotos: Bernd Miggel)" %}
+{% include abbildung_ende.html legende="Schichtung im Schnitt: Stereum rugosum (Foto: Bernd Miggel)" %}
 
 **Schlüssel für mitteleuropäische Stereum-Arten von Bernd Miggel**
 
