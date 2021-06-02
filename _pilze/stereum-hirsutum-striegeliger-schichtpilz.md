@@ -6,14 +6,15 @@ beschreibung:
   familie: Stereaceae
   erlaeuterung: hirsutum = striegelig, borstig, rauhaarig
 profil:
-  aktualisiert: 2021-05-23
+  aktualisiert: 2021-06-02
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/stereum_hirsutum_01_dg.jpg
 literatur:
+  - text: "MIGGEL, B. (2008): Die Schichtpilze der Gattung Stereum Pers. ex S. F.
+      Gray 1821. Südwestdeutsche Pilzrundschau 44/2, S. 49-60"
   - url: https://de.wikipedia.org/wiki/Striegeliger_Schichtpilz
-  - url: http://tintling.com/pilzbuch/arten/s/Stereum_hirsutum.html
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/stereum_hirsutum_01_dg.jpg" nocrop=true %}
