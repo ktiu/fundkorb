@@ -19,7 +19,7 @@ literatur:
 ---
 Der Braunsamtige Schichtpilz ist der makroskopisch kaum zu trennende Doppelgänger des [Samtigen Schichtpilzes Stereum subtomentosum](/pilze/stereum-subtomentosum-samtiger-schichtpilz). Um beide zu unterscheiden, kann immerhin schon eine Lupe weiterhelfen. 
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/stereum_insignitum_03_wp.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/stereum_insignitum_04_wp.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="2 Fotos: Werner Pohl" %}
