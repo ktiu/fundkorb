@@ -6,12 +6,14 @@ beschreibung:
   erlaeuterung: rugosum = runzelig, faltig
   familie: Stereaceae
 profil:
-  aktualisiert: 2021-01-24
+  aktualisiert: 2021-06-02
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/stereum_rugosum_02_dg.jpg
 literatur:
+  - text: "MIGGEL, B. (2008): Die Schichtpilze der Gattung Stereum Pers. ex S. F.
+      Gray 1821. Südwestdeutsche Pilzrundschau 44/2, S. 49-60"
   - url: https://de.wikipedia.org/wiki/R%C3%B6tender_Runzel-Schichtpilz
 ---
 {% include abbildung_start.html stil="standard" %}
@@ -33,9 +35,9 @@ Der Runzelige Schichtpilz kann bis zu 15 Jahre alt werden. Er wächst als [Sapro
 
 Die sieben in Deutschland vorkommenden Schichtpilzarten sind mit etwas Erfahrung schon optisch recht gut zu unterscheiden, vorausgesetzt, man hat frisch gewachsene Exemplare zur Verfügung. Im Zweifelsfall hilft eine Lupe weiter. Im Schnitt durch den Fruchkörper zeigt Stereum rugosum eine dunkelbraune [Cortex](Cortex "Glossar") unter einem bräunlichen, filzigen [Tomentum](Tomentum "Glossar"). Die [Hymenialschicht](Hymenium "Glossar") ist grauocker, glatt oder höckerig.
 
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/stereum_rugosum_04-bm.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Stereum rugosum, rechts: Schnitt durch den Fruchtkörper (Foto: Bernd Miggel)" %}
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/stereum_rugosum_04_bm.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Abb. links: Fruchtkörper -- rechts: Schnitt quer durh den Fruchtkörper (2 Fotos: Bernd Miggel)" %}
 
 **Schlüssel für mitteleuropäische Stereum-Arten von Bernd Miggel**
 
