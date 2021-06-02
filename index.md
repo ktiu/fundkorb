@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinellus_domesticus_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+02.06.2021
+
+Unser heutiger [Fundkorbpilz](AA "Glossar-") ist der [Haustintling Coprinellus domesticus](/pilze/coprinellus-domesticus-haustintling). Wie auch andere Arten der Gattung (z. B. Glimmertintlinge) wächst er an Holz, aber nicht in vielhütigen Büscheln wie diese sondern vereinzelt oder zu wenigen gesellig. Trotzdem muss man sehr genau hinschauen und im Zweifelsfall mikroskopieren, um sie sicher identifizieren zu können. Der Haustintling ist längst nicht so häufig wie der gewöhnliche Glimmertintling, kann aber auch leicht übersehen werden.
+
+<div style="clear: both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_cyanoxantha_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
@@ -36,20 +48,6 @@ Im Rhein-Main-Gebiet scheint das Pilzwachstum gerade sehr ungleich verteilt zu s
 
 Unser aktueller [Fundkorbpilz](AA "Glossar-") (30.05.2021) ist die Grubenlorchel Helvella lacunosa, eine häufige Art in unseren Wäldern, die man als typischen Wegrandpilz bezeichnen könnte. Seine charakteristische Form und Farbe machen ihn ziemlich unverwechselbar, aber er weckt nicht unbedingt den Wunsch, ihn essen zu wollen. Sollte man auch nicht.
 [Mehr lesen >](/pilze/helvella-lacunosa-grubenlorchel)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_gemmata_02_mm.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-29.05.2021
-
-Aktueller [Fundkorbpilz](AA "Glossar-") ist der erste Wulstling des Jahres. Es ist wie fast in jedem Jahr der Narzissengelbe Amanita gemmata. Er ist auch mit ziemlicher Regelmäßigkeit der letzte wie im vergangenen Jahr am 30. Dezember.
-
-[Mehr lesen >](/pilze/amanita-gemmata-narzissengelber-wulstling)
-
-<div style="clear: both"></div>
 
 - - -
 
