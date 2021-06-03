@@ -17,8 +17,8 @@ literatur:
 published: true
 ---
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/coprinellus_domesticus_01_dg.jpg" %}
-{% include bild.html datei="/bilder/coprinellus_domesticus_02_dg.jpg" %}
+{% include bild.html datei="/bilder/coprinellus_domesticus_01_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/coprinellus_domesticus_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
 Der Haustintling wächst einzeln bis büschelig an totem Laubholz, gern am Grund von Stümpfen, allerdings nie mit so zahlreichen Exemplaren wie z. B. der [Glimmertintling](/pilze/coprinellus-micaceus-glimmertintling). Er wird auch größer als dieser, aufgeschirmt 3,5 bis 7 cm breit. Auch Hutfarben und -belag ähneln denen des Glimmertintlings: creme, ockergelb bis ockerbräunlich, von abwischbaren weißlichen bis cremefabrigen Velumflöckchen bedeckt. Die jung hellen Lamellen färben sich bald dunkel und beginnen dann zu schwarzer Tinte zu zerfließen. Die hellen Stiele sind am Grund meist angedeutet knollig verdickt und in ganzer Länge längs gerieft. Sie entspringen oft einem rostfarbenen [Ozonium](Ozonium "Glossar").
