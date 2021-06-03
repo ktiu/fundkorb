@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/marasmius_oreades_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-03.06.2021: Heute ist unser aktueller [Fundkorbpilz](AA "Glossar-") der Nelkenschwindling Marasmius oreades. Witzbolde behaupten, dass der Nelkenschwindling Nelkenschwindling heißt, weil es ein Schwindel sei, dass er nach Nelken riecht. Stimmt. Er riecht nach Bittermadeln oder Cyanid. Tatsächlich enthält Spuren der hochgiftigen Blausäure, die aber so minimal sind, dass Nelkenschwindlinge bedenkenlos verzehrt werden können. Das ist durchaus zu empfehlen, denn sie sind schmackhafte Speisepilze. Man findet sie schon ab Mai auf grasigen Flächen, gern in Hexenringen. [Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
+03.06.2021: Heute ist unser aktueller [Fundkorbpilz](AA "Glossar-") der Nelkenschwindling Marasmius oreades. Witzbolde behaupten, dass der Nelkenschwindling Nelkenschwindling heißt, weil es ein Schwindel sei, dass er nach Nelken riecht. Stimmt. Er riecht nach Bittermadeln oder Cyanid. Tatsächlich enthält er Spuren der hochgiftigen Blausäure, die aber so minimal sind, dass Nelkenschwindlinge bedenkenlos verzehrt werden können. Das ist durchaus zu empfehlen, denn sie sind schmackhafte Speisepilze. Man findet sie schon ab Mai auf grasigen Flächen, gern in Hexenringen. [Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
 
 - - -
 
