@@ -14,8 +14,8 @@ hauptbild:
   datei: /bilder/coprinellus_xanthothrix_03_dg.jpg
 ---
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/coprinellus_xanthothrix_01_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/coprinellus_xanthothrix_02_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/coprinellus_xanthothrix_01_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/coprinellus_xanthothrix_02_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
 25.05.2021: In der Dietzenbacher Parkanlage an der Rodgaustraße erschienen Tintlinge, die mir ziemlich Kopfzerbrechen bereiteten  -  in dieser bekanntlich schwierigen Gruppe nicht verwunderlich. Auf einer teilweise mit polsterartigem Kräuterwachstum durchmischten Rasenfläche wuchsen sie weder büschelig noch dicht gesellig, aber zu vielen über eine größere Fläche verteilt. Die fast bis zur Mitte gerieften Hüte hatten aufgeschirmt Durchmesser bis zu 2,5 cm, ihre Oberfläche war mit vergänglichem, gelblich körnigem [Velum](Velum "Glossar") besetzt. Die weißen dünnen Stiele waren glatt, hohl und bis 6 cm lang, an der Basis mit einem unauffälligen Knöllchen.
