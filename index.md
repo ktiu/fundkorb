@@ -16,6 +16,20 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinellus_xanthothrix_02_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+04.06.2021:
+
+Manchmal ist die Bestimmung eines Fundes problematisch und es empfiehlt sich, die Hilfe eines Spezialisten in Anspruch zu nehmen. In diesem Fall war es Hans Bender aus Mönchengladbach, dem wir den Namen unseres aktuellen [Fundkorbpilz](AA "Glossar-") zu verdanken habe. Er heißt Gelbschuppiger Tintling (Coprinellus xanthothrix), ist ziemlich selten und passte eigentlich so gar nicht in das Biotop einer Rasenfläche in einer Dietzenbacher Parkanlage. Bis dann doch ein wegweisendes Detail entdeckt wurde... 
+
+[Mehr lesen >](https://fundkorb.de/pilze/coprinellus-xanthothrix-gelbschuppiger-tintling) 
+
+<div style="clear: both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/marasmius_oreades_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
