@@ -12,7 +12,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/stereum_insignitum_06_bm.jpg
-  legende: "Foto: Werner Pohl"
+  legende: "Foto: Bernd Miggel"
 literatur:
   - text: "MIGGEL, B. (2008): Die Schichtpilze der Gattung Stereum Pers. ex S. F.
       Gray 1821. Südwestdeutsche Pilzrundschau 44/2, S. 49-60"
