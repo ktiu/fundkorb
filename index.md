@@ -48,28 +48,6 @@ Unser heutiger [Fundkorbpilz](AA "Glossar-") ist der [Haustintling Coprinellus d
 
 <div style="clear: both"></div>
 
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_cyanoxantha_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-01.06.2021:
-
-Im Rhein-Main-Gebiet scheint das Pilzwachstum gerade sehr ungleich verteilt zu sein. Blätter- und Röhrenpilze sind in den zuletzt besuchten Wäldern für Jahreszeit und Wetterbedingungen extrem rar. Um so erfreulicher die Vorkommen in Parkanlagen, Gärten, Friedhöfen, etc. So wurde auch der erste Frauentäubling, unser aktueller [Fundkorbpilz](AA "Glossar-"), nicht im Wald sondern in einer Parkanlage in Heusenstamm gefunden. Er gehört zu den gut kenntlichen Täublingsarten und unter den Speisepilzen zu den absoluten Premium-Arten.
-
-[Mehr lesen > ](/pilze/russula-cyanoxantha-frauentäubling)
-
-<div style="clear: both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/helvella_lacunosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Unser aktueller [Fundkorbpilz](AA "Glossar-") (30.05.2021) ist die Grubenlorchel Helvella lacunosa, eine häufige Art in unseren Wäldern, die man als typischen Wegrandpilz bezeichnen könnte. Seine charakteristische Form und Farbe machen ihn ziemlich unverwechselbar, aber er weckt nicht unbedingt den Wunsch, ihn essen zu wollen. Sollte man auch nicht.
-[Mehr lesen >](/pilze/helvella-lacunosa-grubenlorchel)
 
 - - -
 
