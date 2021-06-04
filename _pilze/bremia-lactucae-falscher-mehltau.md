@@ -24,3 +24,5 @@ Salatpflanzen können während der gesamten Kulturzeit durch die Sporen des Pilz
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/bremia_lactucae_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Sporenlager auf der Blattunterseite" %}
+
+Im ökologischen Anbau verursacht der Falsche Mehltau hohe Ertragsverluste. Es gibt weder Möglichkeiten, die Pflanzen gegen Befall resistent zu machen noch Anbautechniken, die einen Mehltaubefall verhindern. In der industriellen Landwirtschaft kommen Fungizide zum Einsatz, die jedoch unerwünschte Auswirkungen auf die Biodiversität haben und daher bei bio¬logischem Anbau nicht eingesetzt werden dürfen.
