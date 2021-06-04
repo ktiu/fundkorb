@@ -11,7 +11,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/stereum_insignitum_02_wp.jpg
+  datei: /bilder/stereum_insignitum_06_bm.jpg
   legende: "Foto: Werner Pohl"
 literatur:
   - text: "MIGGEL, B. (2008): Die Schichtpilze der Gattung Stereum Pers. ex S. F.
@@ -99,3 +99,10 @@ Außerdem färbt sich die Unterseite von Stereum subtomentosum beim Reiben mit b
 </tr>
 </table>
 </div>
+
+
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/stereum_insignitum_02_wp.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/stereum_insignitum_05_bm.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Foto oben: Werner Pohl -- Foto unten: Bernd Miggel" %}
