@@ -18,6 +18,10 @@ Die Furcht von Hobby-Pilzsammlern vor dem Satansröhrling ist groß aber unter p
 
 Der bisher einzige mir bekannte Standort des Satansröhrlings ist der Park „Unter den Eichen“ in Wiesbaden, in dem auch andere Raritäten wie [Leuchtender Ölbaumpilz,](/pilze/omphalotus-olarius-leuchtender-ölbaumpilz) [Kaiserling](/pilze/amanita-caesarea-kaiserling) und der Falsche Satansröhrling gesichtet wurden. Berichtet wurde er mir auch aus einem Parkgelände in Bad Homburg, vom Maunzenweiher bei Offenbach und aus dem NSG Mönchbruch.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/boletus_satanas_02_bm.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Foto: Bernd Miggel" %}
+
 Die dickfleischigen Hüte des Satansröhrlings erreichen Durchmesser von bis zu 25 cm und sind kalkweiß, bisweilen mit schmutzig grauen bis olivgrauen Tönen. Das weißlich graue bis hellgelbe Fleisch schmeckt mild, riecht neutral oder süßlich bis unangenehm (Bahnhofstoilette!), im Alter aasartig. Es verfärbt auf Druck leicht blaugrün, längst nicht so heftig blau wie bei den Hexenröhrlingen. Die Röhren sind jung gelblich, dann karmin- bis purpurrot und verfärben auf Druck ebenfalls leicht blaugrün. Der bauchige Stiel ist auf gelbem Grund rötlich gefärbt, im oberen Teil fein genetzt.
 
 Satansröhrlinge bevorzugen kalkhaltige Böden an wärmebegünstigten Standorten. [Mykorrhizapartner](Mykorrhiza "Glossar") ist in erster Linie die Buche (Fagus sylvatica). Nachdem die sehr artenreiche Gattung der Dickröhrlinge in zahlreiche kleinere Gattungen aufgesplittet worden ist, gehört der Satansröhrling als Rubroboletus satanas zu den Purpurröhrlingen.
