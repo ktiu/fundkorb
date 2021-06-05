@@ -16,6 +16,10 @@ footer_scripts:
 
 - - -
 
+Aktueller [Fundkorbpilz](AA "Glossar-") am 05.06.2021 ist der [Breitblättrige Holzrübling Megacollybia platyphylla](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling), kurz Breitblatt genannt. Er ist einer der häufigsten Blätterpilze und dürfte in kaum einem Wald fehlen. Seine Beschreibung lautet kurz und bündig "ein Pilz wie Haut und Knochen" und das passt, denn seine Lamellen sind direkt an der Huthaut befestigt. Solche Pilze, an denen praktisch "nix dran ist" taugen natürlich nicht für die Küche. Der Name Holzrübling besagt nicht etwa, dass er hölzern ist. Vielmehr sind seine auffallend dicken [Myzelstränge](Myzel "Glossar") an der Stielbasis stets unterirdisch mit Holz verbunden.
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinellus_xanthothrix_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
@@ -35,19 +39,6 @@ Manchmal ist die Bestimmung eines Fundes problematisch und es empfiehlt sich, di
 {% include abbildung_ende.html %}
 
 03.06.2021: Heute ist unser aktueller [Fundkorbpilz](AA "Glossar-") der Nelkenschwindling Marasmius oreades. Witzbolde behaupten, dass der Nelkenschwindling Nelkenschwindling heißt, weil es ein Schwindel sei, dass er nach Nelken riecht. Stimmt. Er riecht nach Bittermadeln oder Cyanid. Tatsächlich enthält er Spuren der hochgiftigen Blausäure, die aber so minimal sind, dass Nelkenschwindlinge bedenkenlos verzehrt werden können. Das ist durchaus zu empfehlen, denn sie sind schmackhafte Speisepilze. Man findet sie schon ab Mai auf grasigen Flächen, gern in Hexenringen. [Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinellus_domesticus_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-02.06.2021
-
-Unser heutiger [Fundkorbpilz](AA "Glossar-") ist der [Haustintling Coprinellus domesticus](/pilze/coprinellus-domesticus-haustintling). Wie auch andere Arten der Gattung (z. B. Glimmertintlinge) wächst er an Holz, aber nicht in vielhütigen Büscheln wie diese sondern vereinzelt oder zu wenigen gesellig. Trotzdem muss man sehr genau hinschauen und im Zweifelsfall mikroskopieren, um sie sicher identifizieren zu können. Der Haustintling ist längst nicht so häufig wie der gewöhnliche Glimmertintling, kann aber auch leicht übersehen werden.
-
-<div style="clear: both"></div>
-
 
 - - -
 
