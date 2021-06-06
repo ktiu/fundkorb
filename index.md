@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/megacollybia_platyphylla_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Aktueller [Fundkorbpilz](AA "Glossar-") am 05.06.2021 ist der [Breitblättrige Holzrübling Megacollybia platyphylla](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling), kurz Breitblatt genannt. Er ist einer der häufigsten Blätterpilze und dürfte in kaum einem Wald fehlen. Seine Beschreibung lautet kurz und bündig "ein Pilz wie Haut und Knochen" und das passt, denn seine Lamellen sind direkt an der Huthaut befestigt. Solche Pilze, an denen praktisch "nix dran ist" taugen natürlich nicht für die Küche. Der Name Holzrübling besagt nicht etwa, dass er hölzern ist. Vielmehr sind seine auffallend dicken [Myzelstränge](Myzel "Glossar") an der Stielbasis stets unterirdisch mit Holz verbunden.
+Aktueller [Fundkorbpilz](AA "Glossar-") am 05.06.2021 ist der [Breitblättrige Holzrübling Megacollybia platyphylla](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling), kurz Breitblatt genannt. Er ist einer der häufigsten Blätterpilze und dürfte in kaum einem Wald fehlen. Seine Beschreibung lautet kurz und bündig *"ein Pilz wie Haut und Knochen"* und das passt, denn seine Lamellen sind direkt an der Huthaut befestigt. Solche Pilze, an denen praktisch *"nix dran ist"* taugen natürlich nicht für die Küche. Der Name Holzrübling besagt nicht etwa, dass er hölzern ist. Vielmehr sind seine auffallend dicken [Myzelstränge](Myzel "Glossar") an der Stielbasis stets unterirdisch mit Holz verbunden.
 
 - - -
 
