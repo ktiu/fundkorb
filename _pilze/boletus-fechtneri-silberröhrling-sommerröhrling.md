@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Boletus fechtneri
   deutsch: Silberröhrling, Sommerröhrling
   referenz: Velen. 1922
-  erlaeuterung: Boletaceae
+  erlaeuterung: fechtneri = zu Ehren des Biologen František Fechtner
   familie: Boletaceae
   synonym: "Neuer Name: Butyriboletus fechtneri"
 profil:
