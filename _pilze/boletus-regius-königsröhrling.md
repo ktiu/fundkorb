@@ -8,6 +8,7 @@ beschreibung:
   familie: Boletaceae
 profil:
   aktualisiert: 2021-06-07
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/boletus_regius_01_bm.jpg
