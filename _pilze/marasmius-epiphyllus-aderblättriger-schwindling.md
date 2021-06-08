@@ -21,7 +21,7 @@ In der Gattung der *Schwindlinge* gibt es einige sehr kleine weiße Arten mit au
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/marasmius_epiphyllus_02_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/marasmius_epiphyllus_03_fk.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="2 Fotos: FrankKaster" %}
+{% include abbildung_ende.html legende="2 Fotos: Frank Kaster" %}
 
 Beim *Aderblättrigen Schwindling* sind es 5 bis 8, die durchgängig vom Hutrand bis zum Stielansatz reichen, dazwischen einige kürzere. Sie sind [anastomisierend](anastomisierend "Glossar") miteinander verbunden und bilden rund um den Stiel kein [Kollar](Kollar "Glossar"). Die weißen matten Hutoberseiten sind fast bis zur Mitte radial runzelig, wobei die eingesenkten Riefen ein Abbild des Lamellenmusters darstellen. Die dünnen steifen Stiele werden bis 3 cm lang, sind an der Spitze weißlich und werden nach unten sukzessive dunkel rotbraun.
 
