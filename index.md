@@ -17,6 +17,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/volvariella_gloiocephala_04_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+07.06.2021: Scheidenstreiflinge und Scheidlinge haben einiges gemeinsam. Sie haben geriefte Hutränder, keinen Ring am Stiel, dafür eine häutige Scheide am Stielgrund, und es gibt keine giftigen unter ihnen. Sie unterscheiden sich vor allem durch die Sporenpulverfarbe. Bei den Scheidenstreiflingen ist sie weiß. Bei den Scheidlingen rosa und daher färben sich die jung weißen Lamellen bei Sporenreife ebenfalls rosa. So einfach kann Pilzkunde sein! Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist der [Große Scheidling Volvariella gloiocephala](/pilze/volvariella-gloiocephala-großer-scheidling), der gerade Konjunktur zu haben scheint. Bei uns in der Dietzenbacher Parkanlage wächst er gleich an mehreren Stellen.
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/megacollybia_platyphylla_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
