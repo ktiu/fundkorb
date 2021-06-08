@@ -16,7 +16,7 @@ hauptbild:
 literatur:
   - url: https://asco-sonneberg.de/pages/gallery/marasmius-epiphyllus-100928-02xs12311.php
 ---
-In der Gattung der *Schwindlinge* gibt es einige sehr kleine weiße Arten mit auffallend wenigen und gleichzeitig stark reduzierten (d. h. nur wenig erhabenen, leistenartigen) Lamellen. Die Fotos zeigen, was darunter zu verstehen ist.
+In der Gattung der *Schwindlinge* gibt es einige sehr kleine weiße Arten mit auffallend wenigen und gleichzeitig stark reduzierten (d. h. nur wenig erhabenen, leistenartigen) Lamellen. Die Fotos zeigen, was darunter zu verstehen ist. 
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/marasmius_epiphyllus_02_fk.jpg" nocrop=true %}
