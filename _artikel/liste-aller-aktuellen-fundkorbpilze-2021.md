@@ -2,14 +2,14 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-05.06.2021 [Megacollybia platyphylla - Breitblättriger Holzrübling](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)  
+08.06.2021 [Volvarielle gloiocephala - Großer Scheidling](/pilze/volvariella-gloiocephala-großer-scheidling)  
+05.06.2021 [Megacollybia platyphylla - Breitblättriger Holzrübling](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)\
 04.06.2021 [Coprinellus xanthothrix - Gelbschuppiger Tintling](/pilze/coprinellus-xanthothrix-gelbschuppiger-tintling)\
 03.06.2021 [Marasmius oreades - Nelkenschwindling](/pilze/marasmius-oreades-nelkenschwindling)
 
-
 02.06.2021 [Coprinellus domesticus - Haustintling](/pilze/coprinellus-domesticus-haustintling)\
 01.06.2021 [Russula cyanoxantha - Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling)\
-30.05.2021 [Helvella lacunosa - Grubenlorchel](/pilze/helvella-lacunosa-grubenlorchel)  
+30.05.2021 [Helvella lacunosa - Grubenlorchel](/pilze/helvella-lacunosa-grubenlorchel)\
 29.05.2021 [Amanita gemmata - Narzissengelber Wulstling](/pilze/amanita-gemmata-narzissengelber-wulstling)\
 28.05.2021 [Boletus erythropus - Flockenstieliger Hexenröhrling](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)\
 25.05.2021 [Bulbillomyces farinosus - Körnchen-Rindenpilz](/pilze/bulbillomyces-farinosus-körnchen-rindenpilz)\
