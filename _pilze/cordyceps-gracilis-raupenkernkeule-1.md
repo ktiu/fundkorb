@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Raupenkernkeule
   referenz: (Grev.) Durieu & Mont. 1848
   synonym: "Neuer Name: Ophiocordyceps gracilis"
-  erlaeuterung: gracilis = zierlich
+  erlaeuterung: gracilis = schlank, zierlich
   familie: Ophiocordycipitaceae
 profil:
   aktualisiert: 2021-06-09
