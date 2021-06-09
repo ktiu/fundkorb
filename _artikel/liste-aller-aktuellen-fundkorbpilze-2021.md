@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-08.06.2021 [Volvarielle gloiocephala - Großer Scheidling](/pilze/volvariella-gloiocephala-großer-scheidling)  
+09.06.2021 [Hypholoma fasciculare - Grünblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)  
+07.06.2021 [Volvarielle gloiocephala - Großer Scheidling](/pilze/volvariella-gloiocephala-großer-scheidling)\
 05.06.2021 [Megacollybia platyphylla - Breitblättriger Holzrübling](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)\
 04.06.2021 [Coprinellus xanthothrix - Gelbschuppiger Tintling](/pilze/coprinellus-xanthothrix-gelbschuppiger-tintling)\
 03.06.2021 [Marasmius oreades - Nelkenschwindling](/pilze/marasmius-oreades-nelkenschwindling)
