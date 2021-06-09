@@ -17,6 +17,15 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/hypholoma_fasciculare_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.06.2021: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist der Grünfeldrige Schwefelkopf Hypholoma fasciculare. Er ist einer der häufigsten Pilzarten überhaupt und meist an Baumstümpfen oder um sie herum zu finden. An einer einzigen Fundstelle kann man mitunter tausend und mehr Fruchtkörper zählen - ein beeindruckender Anblick. Leider schmeckt er bitter und ist magen-/darmgiftig.
+[Mehr lesen >](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/volvariella_gloiocephala_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
