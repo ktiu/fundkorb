@@ -33,7 +33,7 @@ Auf den obigen Fotos ist die [Roteichencupule](Cupulen "Glossar") kaum noch zu e
 
 (Angaben nach Breitenbach & Kränzlin)
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/arachnopeziza_aurelia_05_dg.jpg" %}
 {% include bild.html datei="/bilder/arachnopeziza_aurelia_04_dg.jpg" %}
 {% include bild.html datei="/bilder/arachnopeziza_aurelia_06_dg.jpg" %}
