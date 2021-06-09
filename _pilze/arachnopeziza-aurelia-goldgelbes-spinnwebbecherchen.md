@@ -28,7 +28,13 @@ Auf den obigen Fotos ist die [Roteichencupule](Cupulen "Glossar") kaum noch zu e
 
 Ähnlich ist das Blassgoldene Spinnwebbecherchen *Arachnopeziza aurata* mit kleineren Apothezien, das sich vor allem durch andere Sporen unterscheidet:
 
-**Arachnopeziza aurelia:** elliptisch, ein- bis dreifach septiert, manchmal mit hyalinen Anhängseln, 17 - 22 x 3,5 - 5 µm  
+**Arachnopeziza aurelia:** elliptisch, ein- bis dreifach septiert, manchmal mit hyalinen Anhängseln, 17 - 22 x 3,5 - 5 µm\
 **Arachnopeziza aurata:** nadelförmig, einseitig zugespitzt, 60 - 75 x 1,5 - 3 µm
 
 (Angaben nach Breitenbach & Kränzlin)
+
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/arachnopeziza_aurelia_05_dg.jpg" %}
+{% include bild.html datei="/bilder/arachnopeziza_aurelia_04_dg.jpg" %}
+{% include bild.html datei="/bilder/arachnopeziza_aurelia_06_dg.jpg" %}
+{% include abbildung_ende.html %}
