@@ -6,7 +6,7 @@ beschreibung:
   referenz: "(Bull.) Quél. 1886 "
   familie: Auriculariaceae
 profil:
-  aktualisiert: 2020-09-11
+  aktualisiert: 2021-06-09
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -31,7 +31,11 @@ Die Chance, solche "Ohren" in der Natur zu entdecken, stehen gut, denn der Pilz 
 {% include bild.html datei="/bilder/auricularia_auricula-judae_05_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="An dünnen Stängeln bildet das Judasohr auffallend kleine Fruchtkörper aus (hier: an Berberitze)" %}
 
-Jeder Gast von asiatischen Restaurants kennt sie als "Chinamorcheln". Mit echten Morcheln sind sie aber nicht im Entferntesten verwandt. Unter dem Namen "Mu-Err" (= Holzohr) werden sie aus China importiert, wo sie eine lange Tradition als Vitalpilz haben. Sie werden auch in Europa erfolgreich gezüchtet und als "Kraftwerk für die Gesundheit" vermarktet. Als Speisepilz wird das Judasohr unterschiedlich bewertet. Einen nennenswerten Geschmack wird man ihm kaum attestieren können, aber wegen seiner besonderen Konsistenz wird er vor allem in asiatischen Gerichten geschätzt. Er lässt sich leicht trocknen. Auch in der Natür können die Fruchtkörper mehrfach komplett austrocknen und wieder aufquellen.
+Jeder Gast von asiatischen Restaurants kennt sie als "Chinamorcheln". Mit echten Morcheln sind sie aber nicht im Entferntesten verwandt. Unter dem Namen "Mu-Err" (= Holzohr) werden sie aus China importiert, wo sie eine lange Tradition als Vitalpilz haben. Sie werden auch in Europa erfolgreich gezüchtet und als "Kraftwerk für die Gesundheit" vermarktet. Als Speisepilz wird das Judasohr unterschiedlich bewertet. Einen nennenswerten Geschmack wird man ihm kaum attestieren können, aber wegen seiner besonderen Konsistenz wird er vor allem in asiatischen Gerichten geschätzt. Karin Montag hat es so formuliert:
+
+> Das Judasohr schmeckt praktisch nach nichts. Wenn man es zu braten versucht, zeigt es eine sprunghafte Tendenz zur Pfannenflucht. Es versucht sich durch einen beherzten Sprung in die Freiheit zu retten."
+
+Es lässt sich leicht trocknen. Auch in der Natür können die Fruchtkörper mehrfach komplett austrocknen und wieder aufquellen.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/auricularia_auricula-judae_06_dg.jpg" nocrop=true %}
