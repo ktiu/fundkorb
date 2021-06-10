@@ -28,4 +28,8 @@ Man findet den Dornigen Stachelbart an totem Laubholz, ganz überwiegend an Buch
 {% include bild.html datei="/bilder/creolophus_cirrhatus_03_dg.jpg" %}
 {% include abbildung_ende.html legende="Foto : Links Michelle Küchemann, rechts Dieter Gewalt" %}
 
-Sämtliche bei uns vorkommenden Stachelbärte sind zwar essbar, werden jedoch in Roten Listen als gefährdete Arten ausgewiesen und dürfen nicht gesammelt werden.
+Sämtliche bei uns vorkommenden Stachelbärte sind zwar essbar, werden jedoch in Roten Listen als gefährdete Arten ausgewiesen und dürfen nicht gesammelt werden. Dies sind neben dem hier beschriebenen Dornigen Stachelbart: 
+
+[Ästiger Stachelbart Hericium coralloides](/pilze/hericium-coralloides-ästiger-stachelbart)  
+[Igel-Stachelbart Hericium erinaceus](/pilze/hericium-erinaceus-hericium-erinaceus)  
+[Tannenstachelbart Hericium flagellum](/pilze/hericium-flagellum-tannenstachelbart)
