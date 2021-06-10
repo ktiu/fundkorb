@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/taphrina_pruni_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-10.06.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal etwas ganz Spezielles. Pflaumen-Narrentasche (Taphrina pruni) heißt das merkwürdige Objekt, das man zur Zeit an manchen Pflaumenbäumen beobachten kann. Ein Pilz ist hier nicht zu sehen, und ist doch vorhanden. Er bildet keine eigenen Fruchtkörper sondern benutzt die Pflaumen, um in ihnen seine Myzelien anzulegen, wobei er sie sichtlich deformiert und ihre weitere Entwicklung zur reifen Frucht verhindert. Im hier gezeigten Fall sind Früchte eines Blutpflaumenbaums (Prunus cistena) infiziert, der direkt vor unserer Haustür steht. Andere Vertreter der Gattung befallen Blätter und Baumkronen und werden Kräuselkrankheiten oder Hexenbesen genannt.
+10.06.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal etwas ganz Spezielles. Pflaumen-Narrentasche (Taphrina pruni) heißt das merkwürdige Objekt, das man zur Zeit an manchen Pflaumenbäumen beobachten kann. Ein Pilz ist hier nicht zu sehen, und ist doch vorhanden. Er bildet keine eigenen Fruchtkörper sondern benutzt die Pflaumen, um in ihnen seine [Myzelien](Myzel "Glossar") anzulegen, wobei er sie sichtlich deformiert und ihre weitere Entwicklung zur reifen Frucht verhindert. Im hier gezeigten Fall sind Früchte eines Blutpflaumenbaums (Prunus cistena) infiziert, der direkt vor unserer Haustür steht. Andere Vertreter der Gattung befallen Blätter und Baumkronen und werden Kräuselkrankheiten oder Hexenbesen genannt.
 [Mehr lesen >](/pilze/taphrina-pruni-pflaumen-narrentasche)
 
 <div style="clear:  both"></div>
