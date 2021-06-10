@@ -20,5 +20,5 @@ Hat man das seltene Glück, einem dieser sehr ästhetisch wirkenden Pilze zu beg
 
 Pilzfreunde in Regionen, in denen [die Weißtanne fehlt](< http://www.pilze-deutschland.de/organismen/hericium-flagellum-scop-pers-1797-1>), werden diesen prächtigen Stachelbart vergeblich suchen. Möglicherweise wird ihnen hier eine der drei an Laubholz wachsenden Arten begegnen:\
 [Ästiger Stachelbart Hericium coralloides](/pilze/hericium-coralloides-ästiger-stachelbart) (sieht dem Tannenstachelbart sehr ähnlich)\
-Igel-Stachelbart Hericium erinaceum (sieht aus wie die Frisur eines Bobtails)\
+[Igel-Stachelbart Hericium erinaceus](/pilze/hericium-erinaceus-hericium-erinaceus) (sieht aus wie die Frisur eines Bobtails)\
 [Dorniger Stachelbart Hericium cirrhatum](https://fundkorb.de/pilze/hericium-cirrhatum-dorniger-stachelbart) (war früher in einer eigenen Gattung)
