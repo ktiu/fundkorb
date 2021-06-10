@@ -44,28 +44,6 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/megacollybia_platyphylla_02_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 05.06.2021 ist der [Breitblättrige Holzrübling Megacollybia platyphylla](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling), kurz Breitblatt genannt. Er ist einer der häufigsten Blätterpilze und dürfte in kaum einem Wald fehlen. Seine Beschreibung lautet kurz und bündig *"ein Pilz wie Haut und Knochen"* und das passt, denn seine Lamellen sind direkt an der Huthaut befestigt. Solche Pilze, an denen praktisch *"nix dran ist"* taugen natürlich nicht für die Küche. Der Name Holzrübling besagt nicht etwa, dass er hölzern ist. Vielmehr sind seine auffallend dicken [Myzelstränge](Myzel "Glossar") an der Stielbasis stets unterirdisch mit Holz verbunden.
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinellus_xanthothrix_02_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-04.06.2021:
-
-Manchmal ist die Bestimmung eines Fundes problematisch und es empfiehlt sich, die Hilfe eines Spezialisten in Anspruch zu nehmen. In diesem Fall war es Hans Bender aus Mönchengladbach, der unserem aktuellen [Fundkorbpilz](AA "Glossar-") einen Namen gegeben hat. Er heißt Gelbschuppiger Tintling (Coprinellus xanthothrix), ist ziemlich selten und passte eigentlich so gar nicht in das Biotop einer Rasenfläche in einer Dietzenbacher Parkanlage. Bis dann doch ein wegweisendes Detail entdeckt wurde... 
-
-[Mehr lesen >](https://fundkorb.de/pilze/coprinellus-xanthothrix-gelbschuppiger-tintling) 
-
-<div style="clear: both"></div>
-
-- - -
-
 [Liste aller Aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
 
 - - -
