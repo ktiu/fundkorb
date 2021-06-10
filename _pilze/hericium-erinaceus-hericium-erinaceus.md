@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Hericium erinaceus
-  deutsch: Hericium erinaceus
+  deutsch: Igel-Stachelbart
   referenz: (Bull.) Pers. 1797
   familie: Hericiaceae
   erlaeuterung: erinaceus = igelstachelig
