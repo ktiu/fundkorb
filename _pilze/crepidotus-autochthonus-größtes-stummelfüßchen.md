@@ -30,7 +30,7 @@ Der hier beschriebene Fund wurde zunächst nach Moser (Kleine Kryptogamenflora B
 
 Es folgte eine mikroskopische Untersuchung durch Frank Kaster, bei der Form und Größe von Sporen und Cheilozystiden mit den Angaben bei E. Ludwig (Pilzkompendium) übereinstimmten.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/crepidotus_autochthonus_03_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/crepidotus_autochthonus_04_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: Sporen 6,5 - 9 x 4,5 - 5,5 µm -- rechts: Cheilozystide (2 Mikrofotos: Frank Kaster)" %}
