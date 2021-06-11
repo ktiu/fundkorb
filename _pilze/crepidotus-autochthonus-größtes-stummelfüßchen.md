@@ -13,7 +13,7 @@ hauptbild:
   datei: /bilder/crepidotus_autochthonus_01_dg.jpg
   legende: 14.11.2020 Gebranntes Loch (Dornsee) bei Dietzenbach, TK 5918.4.1
 ---
-Stummelfüßchen sind nicht leicht zu bestimmen. Sind sie aber ungewöhnlich groß (gleichbedeutend mit Hutdurchmessern von 4 bis 7 cm), mit nicht gelatinöser Huthaut, ineinander verknäueltem Wachstum und Vorkommen auf Erde oder stark vermorschtem Holz, könnte es sich um den seltenen *Crepidotus autochthonus* handeln. Auch die fächerförmige Form der Fruchtkörper spricht dafür. Ein solcher Verdacht sollte aber unbedingt mikroskopisch nachgeprüft werden.
+Stummelfüßchen sind nicht leicht zu bestimmen. Sind sie aber ungewöhnlich groß (gleichbedeutend mit Hutdurchmessern von 4 bis 7 cm), mit nicht gelatinöser Huthaut, ineinander verknäueltem Wachstum und Vorkommen auf Erde oder stark vermorschtem Holz, könnte es sich um den [seltenen](http://hessen.pilze-deutschland.de/organismen/crepidotus-autochthonus-je-lange-1938) *Crepidotus autochthonus* handeln. Auch die fächerförmige Form der Fruchtkörper spricht dafür. Ein solcher Verdacht sollte aber unbedingt mikroskopisch nachgeprüft werden.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/crepidotus_autochthonus_02_dg.jpg" %}
