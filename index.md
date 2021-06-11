@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/amanita_rubescens_08_gg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-11.06.2021: Letztes Jahr hatte sich der überaus häufige Perlpilz überaus rar gemacht. Ich habe kaum mehr als ein Dutzend Exemplare zu Gesicht bekommen und mir schon Sorgen um seinen Fortbestand gemacht. Andere Pilzfreunde berichteten mir von ähnlichen Erfahrungen. Der Perlpilz ein Rote-Liste-Pilz? Nun, so schlimm wird es wohl nicht kommen. Zur Zeit wächst er zu Dutzenden in unserer Parkanlage und versendet Milliarden Sporen.
+11.06.2021: Letztes Jahr hatte sich der überaus häufige [Perlpilz](/pilze/amanita-rubescens-perlpilz) überaus rar gemacht. Ich habe kaum mehr als ein Dutzend Exemplare zu Gesicht bekommen und mir schon Sorgen um seinen Fortbestand gemacht. Andere Pilzfreunde berichteten mir von ähnlichen Erfahrungen. Der Perlpilz ein Rote-Liste-Pilz? Nun, so schlimm wird es wohl nicht kommen. Zur Zeit wächst er zu Dutzenden in unserer Parkanlage und versendet Milliarden Sporen.
 
 <div style="clear:  both"></div>
 
