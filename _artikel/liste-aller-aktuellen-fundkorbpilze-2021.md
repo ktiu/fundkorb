@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-10.06.2021 [Taphrina pruni - Pflaumen-Narrentasche](/pilze/taphrina-pruni-pflaumen-narrentasche)  
+11.06.2021 [Amanita rubescens - Perlpilz](/pilze/amanita-rubescens-perlpilz)  
+10.06.2021 [Taphrina pruni - Pflaumen-Narrentasche](/pilze/taphrina-pruni-pflaumen-narrentasche)\
 09.06.2021 [Hypholoma fasciculare - Grünblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)\
 07.06.2021 [Volvarielle gloiocephala - Großer Scheidling](/pilze/volvariella-gloiocephala-großer-scheidling)\
 05.06.2021 [Megacollybia platyphylla - Breitblättriger Holzrübling](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)\
