@@ -16,6 +16,15 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/cantharellus_cibarius_06_mm.jpg" %}
+{% include abbildung_ende.html %}
+
+12.06.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pfifferling. Für ein Pfannengericht reicht´s noch nicht, aber kleine gelbe Knöpfchen auf dem Waldboden lassen auf zunehmendes Wachstum hoffen. Bei uns in der Rhein-Main-Ebene macht er sich vor allem in Roteichenforsten breit. Geschützt ist er dennoch. Man darf ihn nur zum persönlichen Gebrauch und in begrenzten Mengen sammeln.
+[Mehr lesen >](/pilze/cantharellus-cibarius-pfifferling) 
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_rubescens_08_gg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
