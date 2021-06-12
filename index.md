@@ -48,23 +48,6 @@ Der Perlpilz ein Rote-Liste-Pilz? Nun, so schlimm wird es wohl nicht kommen. Zur
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/hypholoma_fasciculare_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.06.2021: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist der Grünblättrige Schwefelkopf Hypholoma fasciculare. Er ist einer der häufigsten Pilzarten überhaupt und meist an Baumstümpfen oder um sie herum zu finden. An einer einzigen Fundstelle kann man mitunter tausend und mehr Fruchtkörper zählen - ein beeindruckender Anblick. Leider schmeckt er bitter und ist magen-/darmgiftig.
-[Mehr lesen >](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/volvariella_gloiocephala_04_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-07.06.2021: Scheidenstreiflinge und Scheidlinge haben einiges gemeinsam. Sie haben geriefte Hutränder, keinen Ring am Stiel, dafür eine häutige Scheide am Stielgrund, und es gibt keine giftigen unter ihnen. Sie unterscheiden sich vor allem durch die Sporenpulverfarbe. Bei den Scheidenstreiflingen ist sie weiß. Bei den Scheidlingen rosa und daher färben sich die jung weißen Lamellen bei Sporenreife ebenfalls rosa. So einfach kann Pilzkunde sein! Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist der [Große Scheidling Volvariella gloiocephala](/pilze/volvariella-gloiocephala-großer-scheidling), der gerade Konjunktur zu haben scheint. Bei uns in der Dietzenbacher Parkanlage wächst er gleich an mehreren Stellen.
-
-- - -
-
 [Liste aller Aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
 
 - - -
