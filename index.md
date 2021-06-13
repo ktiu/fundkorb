@@ -22,7 +22,7 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cantharellus_cibarius_06_mm.jpg" %}
 {% include abbildung_ende.html %}
 
