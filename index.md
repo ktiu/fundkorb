@@ -8,11 +8,17 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-{% include pilzsuche.html %}
-
 - - -
 
 ##### Aufgrund der aktuellen Corona-Situation wird es bis auf weiteres keine pilzkundlichen Führungen geben.
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/arachnopeziza_aurelia_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.06.2021: Neben Pfifferlingen finden wir in unserem Roteichenforst gerade auch massenhaft winzige kleine Becherpilzchen und eines davon ist unser heutiger [Fundkorbpilz](AA "Glossar-"). Er heißt [Arachnopeziza aurelia (Goldgelbes Spinnwebbecherchen)](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen) und wächst ganzjährig an morschem, feucht liegendem Laubholz, an der Unterseite verrottender Blätter, gern auch auf Cupulen verschiedener Eichenarten. Die Betonung liegt auf: feucht muss es sein! Sobald es trockener wird, vertrocknen auch die kleinen gelblichen Becherchen und verschwinden ganz. Laut Literatur sollen sie selten sein, was ich nicht so sehe.
 
 - - -
 
