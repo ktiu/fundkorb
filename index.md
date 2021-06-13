@@ -20,6 +20,8 @@ footer_scripts:
 
 13.06.2021: Neben Pfifferlingen finden wir in unserem Roteichenforst gerade auch massenhaft winzige kleine Becherpilzchen und eines davon ist unser heutiger [Fundkorbpilz](AA "Glossar-"). Er heißt [Arachnopeziza aurelia (Goldgelbes Spinnwebbecherchen)](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen) und wächst ganzjährig an morschem, feucht liegendem Laubholz, an der Unterseite verrottender Blätter, gern auch auf [Cupulen](Cupulen "Glossar") verschiedener Eichenarten. Die Betonung liegt auf: feucht muss es sein! Sobald es trockener wird, vertrocknen auch die kleinen gelblichen Becherchen und verschwinden ganz. Laut Literatur sollen sie selten sein, was ich nicht so sehe.
 
+<div style="clear:  both"></div>
+
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
@@ -27,7 +29,9 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 12.06.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pfifferling. Für ein Pfannengericht reicht´s noch nicht, aber kleine gelbe Knöpfchen auf dem Waldboden lassen auf zunehmendes Wachstum hoffen. Bei uns in der Rhein-Main-Ebene macht er sich vor allem in Roteichenforsten breit. Geschützt ist er dennoch. Man darf ihn nur zum persönlichen Gebrauch und in begrenzten Mengen sammeln.
-[Mehr lesen >](/pilze/cantharellus-cibarius-pfifferling) 
+[Mehr lesen >](/pilze/cantharellus-cibarius-pfifferling)
+
+<div style="clear:  both"></div>
 
 - - -
 
