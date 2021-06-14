@@ -21,7 +21,7 @@ Fadenstäubchen gehören zu den leicht kenntlichen Gattungen und bestehen aus ei
 
 In Mitteleuropa sind etwa zehn verschiedene Stemonitis-Arten nachgewiesen, die nur anhand mikroskopischer Merkmale sicher zu unterscheiden sind, wozu man auch Zugang zu spezieller Literatur haben muss.
 
-Weitere Schleimpilze im Fundkorb:  
-[Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)  
-[Lycogala epidendrum - Blutmilchpilz](<Lycogala epidendrum - Blutmilchpilz>)  
-[Physarum utriculare - Fadenfruchtschleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)  
+Weitere Schleimpilze im Fundkorb:\
+[Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
+[Lycogala epidendrum - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)  
+[Physarum utriculare - Fadenfruchtschleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)
