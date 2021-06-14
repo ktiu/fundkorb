@@ -18,7 +18,9 @@ footer_scripts:
 {% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-"Zum Verlieben süß", mit diesen Worten hat sich mal eine Teilnehmerin bei einer pilzkundlichen Führung für unseren aktuellen [Fundkorbpilz](AA "Glossar-") begeistert. Das fanden auch die übrigen und fügten hinzu: "Man muss ihn nur vom Boden aufnehmen und aus der Nähe betrachten". Gelegenheiten dazu gibt es reichlich, denn der [Orangerote Heftelnabeling Rickenella fibula](https://fundkorb.de/pilze/rickenella-fibula) wächst überall, wo es Moos gibt, egal ob auf Rasenflächen oder auf Holz. Was ihn so attraktiv macht, ist seine hübsche Farbe und die Lamellen, die in einem elegant geschwungenem Bogen an den Stielen herablaufen. Die genabelten Hütchen werden kaum breiter als 1 cm. 
+"Zum Verlieben süß", mit diesen Worten hat sich mal eine Teilnehmerin bei einer pilzkundlichen Führung für unseren aktuellen [Fundkorbpilz](AA "Glossar-") begeistert. Das fanden auch die übrigen und fügten hinzu: "Man muss ihn nur vom Boden aufnehmen und aus der Nähe betrachten". Gelegenheiten dazu gibt es reichlich, denn der [Orangerote Heftelnabeling Rickenella fibula](https://fundkorb.de/pilze/rickenella-fibula) wächst überall, wo es Moos gibt, egal ob auf Rasenflächen oder auf Holz. Was ihn so attraktiv macht, ist seine hübsche Farbe und die Lamellen, die in einem elegant geschwungenem Bogen an den Stielen herablaufen. Die genabelten Hütchen werden kaum breiter als 1 cm.
+
+<div style="clear:  both"></div>
 
 - - -
 
