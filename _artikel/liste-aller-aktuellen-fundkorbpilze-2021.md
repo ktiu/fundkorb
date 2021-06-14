@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
+14.06.2021 [Rickenella fibula - Orangeroter Heftelnabeling](/pilze/rickenella-fibula)  
 13.06.2021 [Arachnopeziza aurelia - Goldgelbes Spinnwebbecherchen](<13.06.2021  Arachnopeziza aurelia - Goldgelbes Spinnwebbecherchen>)\
 12.06.2021 [Cantharllus cibarius - Pfifferling](/pilze/cantharellus-cibarius-pfifferling)\
 11.06.2021 [Amanita rubescens - Perlpilz](/pilze/amanita-rubescens-perlpilz)\
