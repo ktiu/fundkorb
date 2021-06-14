@@ -33,3 +33,8 @@ Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das Video des US-amerik
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/physarum_utriculare_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="24.05.2021: Fund im Hintermark-Wald bei Dietzenbach" %}
+
+Weitere Schleimpilze im Fundkorb:  
+[Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)  
+[Lycogala epidendrum - Blutmilchpilz](<Lycogala epidendrum - Blutmilchpilz>)  
+[Stemonitis axifera - Gemeines Fadenstäubchen](/pilze/stemonitis-axifera-gemeines-fadenstäubchen)
