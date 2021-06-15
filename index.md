@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phallus_impudicus_03_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+15.06.2021:  Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, den jeder kennt und den man riecht, bevor man ihn sieht. Die Stinkmorchel hat ihren wissenschftlichen Namen Phallus impundicus 1753 vom berühmten schwedischen Naturforscher Carl von Linné erhalten, der sich dabei von der Form des ausgewachsenen Fruchtkörpers hat inspirieren lassen. Der Pilz entwickelt sich aus einem weißen schwabbeligen Hexenei, das noch nicht stinkt und sogar roh essbar ist, zumindest die weißen Teile im Inneren, aus denen dann der Stiel entsteht. Auffallend ist, dass sein erstes Erscheinen als Anzeichen für den Beginn allgemeinen Pilzwachstums gewertet werden kann. In diesem Jahr und im Rhein-Main-Gebiet dürfte das ausnahmsweise nicht zutreffen. Wir stehen gerade am Anfang einer staubtrockenen Hitzewelle, die weder den Pilzen noch dem Wald gut tun wird.
+
+[Mehr lesen >](/pilze/phallus-impudicus-stinkmorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
@@ -29,40 +41,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 13.06.2021: Neben Pfifferlingen finden wir in unserem Roteichenforst gerade auch massenhaft winzige kleine Becherpilzchen und eines davon ist unser heutiger [Fundkorbpilz](AA "Glossar-"). Er heißt [Arachnopeziza aurelia (Goldgelbes Spinnwebbecherchen)](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen) und wächst ganzjährig an morschem, feucht liegendem Laubholz, an der Unterseite verrottender Blätter, gern auch auf [Cupulen](Cupulen "Glossar") verschiedener Eichenarten. Die Betonung liegt auf: feucht muss es sein! Sobald es trockener wird, vertrocknen auch die kleinen gelblichen Becherchen und verschwinden ganz. Laut Literatur sollen sie selten sein, was ich nicht so sehe.
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cantharellus_cibarius_06_mm.jpg" %}
-{% include abbildung_ende.html %}
-
-12.06.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pfifferling. Für ein Pfannengericht reicht´s noch nicht, aber kleine gelbe Knöpfchen auf dem Waldboden lassen auf zunehmendes Wachstum hoffen. Bei uns in der Rhein-Main-Ebene macht er sich vor allem in Roteichenforsten breit. Geschützt ist er dennoch. Man darf ihn nur zum persönlichen Gebrauch und in begrenzten Mengen sammeln.
-[Mehr lesen >](/pilze/cantharellus-cibarius-pfifferling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_rubescens_08_gg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-11.06.2021: Letztes Jahr hatte sich der überaus häufige [Perlpilz](/pilze/amanita-rubescens-perlpilz) überaus rar gemacht. Ich habe kaum mehr als ein Dutzend Exemplare zu Gesicht bekommen und mir schon Sorgen um seinen Fortbestand gemacht. Andere Pilzfreunde berichteten mir von ähnlichen Erfahrungen.
-
-Der Perlpilz ein Rote-Liste-Pilz? Nun, so schlimm wird es wohl nicht kommen. Zur Zeit wächst er zu Dutzenden in unserer Dietzenbacher Parkanlage und versendet Milliarden Sporen.
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/taphrina_pruni_03_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-10.06.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal etwas ganz Spezielles. Pflaumen-Narrentasche (Taphrina pruni) heißt das merkwürdige Objekt, das man zur Zeit an manchen Pflaumenbäumen beobachten kann. Ein Pilz ist hier nicht zu sehen, und ist doch vorhanden. Er bildet keine eigenen Fruchtkörper sondern benutzt die Pflaumen, um in ihnen seine [Myzelien](Myzel "Glossar") anzulegen, wobei er sie sichtlich deformiert und ihre weitere Entwicklung zur reifen Frucht verhindert. Im hier gezeigten Fall sind Früchte eines Blutpflaumenbaums (Prunus cistena) infiziert, der direkt vor unserer Haustür steht. Andere Vertreter der Gattung befallen Blätter und Baumkronen und werden Kräuselkrankheiten oder Hexenbesen genannt.
-[Mehr lesen >](/pilze/taphrina-pruni-pflaumen-narrentasche)
 
 <div style="clear:  both"></div>
 
