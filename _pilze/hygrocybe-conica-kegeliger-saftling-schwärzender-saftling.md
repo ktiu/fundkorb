@@ -31,6 +31,7 @@ Relativ große Art (Hutdurchmesser ausgebreitet ca. 3 - 5 cm), gesamter Fruchtk�
 **Stiel** mit gelben und roten Farbtönen, längsfaserig und trocken
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/hygrocybe_conica_04_mh.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
 {% include abbildung_start.html stil="mittel" %}
