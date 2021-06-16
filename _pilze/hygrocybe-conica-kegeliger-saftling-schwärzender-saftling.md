@@ -40,7 +40,7 @@ Relativ große Art (Hutdurchmesser ausgebreitet ca. 3 - 5 cm), gesamter Fruchtk�
 
 Zu den seit Jahrzehnten zuverlässigen Fundstellen im Rhein-Main-Gebiet gehört der Frankfurter Hauptfriedhof, wo er auf einer Rasenfläche zwischen Kriegsgräbern oft in großer Zahl angetroffen werden kann.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/hygrocybe_conica_07_dt.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/hygrocybe_conica_08_dt.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="13. Juni 2021, massenhaftes Vorkommen auf einer Rasenfläche bei der Evangelischen Markusgemeide in Offenbach, gefunden und fotografiert von © Daniela Toller" %}
