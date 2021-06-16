@@ -8,6 +8,7 @@ beschreibung:
   erlaeuterung: conica = kegelig
 profil:
   aktualisiert: 2021-06-16
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/hygrocybe_conica_01_tl.jpg
