@@ -24,4 +24,4 @@ Die Fruchtkörper des Grauen Langfüßlers sind in allen Teilen grau gefärbt, s
 {% include bild.html datei="/bilder/helvella_macropus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Verwechslungen wären möglich mit dem Filzigen Langfüßler. Die beiden Arten unterscheiden sich vor allem durch andere Sporenform und -maße.
+Verwechslungen wären möglich mit dem seltenen Filzigen Langfüßler *Helvella villosa*. Die beiden Arten unterscheiden sich vor allem durch andere Sporenform und -maße.
