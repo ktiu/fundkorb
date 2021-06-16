@@ -20,8 +20,8 @@ literatur:
 In Deutschland gibt es rund 50 verschiedene Saftlingsarten. Die weitaus meisten sind als selten oder sehr selten einzustufen. Sie sind alle streng geschützt und werden in entsprechenden Gefährungsgraden in Roten Listen geführt. Am häufigsten ist zweifellos der Kegelige Saftling. Auch im Rhein-Main-Gebiet wird er immer wieder auf ungedüngten Rasenflächen in Parkanlagen, Friedhöfen oder Grünstreifen gefunden.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/hygrocybe_conica_02_tl.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/hygrocybe_conica_03_tl.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/hygrocybe_conica_02_tl.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/hygrocybe_conica_03_tl.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos ©:Thomas Lehr" %}
 
 Die Bestimmung des Kegeligen Saftling kann als gesichert gelten, wenn die nachfolgenden Merkmale zutreffen:\
