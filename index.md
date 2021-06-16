@@ -22,6 +22,8 @@ Wenn auf der Rasenfläche bei der Evangelischen Markusgemeinde in Offenbach Pilz
 
 [Mehr lesen >](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling) 
 
+<div style="clear:  both"></div>
+
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
