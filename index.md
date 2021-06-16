@@ -15,6 +15,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrocybe_conica_08_dt.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+Wenn auf der Rasenfläche bei der Evangelischen Markusgemeinde in Offenbach Pilze wachsen, bleibt es Daniela Toller nicht lange verborgen. Jetzt hat sie den Kegeligen Saftling entdeckt und der ist es wert, aktueller [Fundkorbpilz](AA "Glossar-") zu sein. Nicht zuletzt, weil er dort nahezu massenhaft erschienen ist. Fast alle Saftlingsarten sind in ihrem Bestand gefährdet, weil ihre Biotope zerstört werden. Manche flüchten in die Mitte von Großstädten, weil ihnen intensiv betriebene Landwirtschaft dorthin nicht folgen kann.
+
+[Mehr lesen >](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling) 
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phallus_impudicus_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
