@@ -1,4 +1,4 @@
 ---
 schlagwort: AA
 ---
-Fundkorb-Pilzporträts: 624 Arten in 298 Gattungen mit 2081 Abbildungen
+Fundkorb-Pilzporträts: 627 Arten in 300 Gattungen mit 2094 Abbildungen
