@@ -35,7 +35,7 @@ Der Hut ist meist bis 4 cm, maximal 6 cm breit, immer tiefrot, blutrot oder purp
 {% include bild.html datei="/bilder/russula_graveolens_var.purpurata_03_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Die Lamellen sind anfangs weiß und verfärben sich allmählich creme. Sie stehen etwas entfernt, so dass man an ihrem Grund queradrige Verbindungen erkennt. Die Lamellen sind sehr gleichmäßig, die Schneide ist glatt und mit der Fläche gleichfarben. Untermischungen mit Lamelletten gibt es so gut wie nicht, ab und zu allerdings eine Galbelung in Stielnähe.
+Die Lamellen sind anfangs weiß und verfärben sich allmählich creme. Sie stehen etwas entfernt, so dass man an ihrem Grund queradrige Verbindungen erkennt. Die Lamellen sind sehr gleichmäßig, die Schneide ist glatt und mit der Fläche gleichfarben. Untermischungen mit Lamelletten gibt es so gut wie nicht, ab und zu allerdings eine Gabelung in Stielnähe.
 
 Interessant ist der Stiel. In den meisten Jahren meiner Beobachtung war er rein weiß. Aber es gibt auch Jahre, in denen die Stiele überwiegend rosa überhaucht oder geflammt sind. Die Stielrinde ist fest, das Innere jedoch wattig ausgestopft.
 
