@@ -23,25 +23,19 @@ Die zwei mit Abstand häufigsten Vertreter der Kammtäublinge (Sektion *Ingratae
 <div class="table-responsive">
   <table class="table taeubling">
     <tr>
-      <th rowspan="2">Geschmack</th>
-      <th rowspan="2">Sporenpulver</th>
-      <th rowspan="2">Abziehbarkeit der Huthaut</th>
-      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
-    </tr>
-    <tr>
-      
-      
+      <th>Geschmack</th>
+      <th>Sporenpulver</th>
+      <th>Abziehbarkeit der Huthaut</th>
+      <th>Chemische Reaktion mit FeSO4</th>
     </tr>
     <tr>
       <td>scharf</td>
       <td>hellgelb, fast weiß</td>
       <td>bis 1/2</td>
       <td>dunkelbraun</td>
-
     </tr>
   </table>
 </div>
-       
 
 
 Der Camembert-Täubling ist in den Wäldern der Rhein-Main-Ebene wohl der häuftigste Kammtäubling, außerhalb (Parkanlagen etc.) ist es eindeutig der [Kratzende](/pilze/russula-pectinatoides-kratzender-kammtäubling). Beide haben es ganz offensichtlich mit Eichen als [Mykorrhizapartner](Mykorrhiza "Glossar"), beim Kratzenden spielt auch die Buche zumindest eine Nebenrolle. Aufgrund der genannten Merkmale ahnt man es schon: keiner der beiden ist für Speisezwecke geeignet. Aus dieser Täublingsgruppe käme höchstens der Milde Kammtäubling *[Russula insignis](/pilze/russula-insignis-milder-kammtäubling)* für die Küche in Frage, der an helleren Farben und seiner schwefel- bis goldgelben Stielbasis zu erkennen und ziemlich selten ist.

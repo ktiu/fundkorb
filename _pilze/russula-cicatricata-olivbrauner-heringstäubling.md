@@ -38,27 +38,20 @@ Russula cicatricata gehört zu den selteneren Täublingsarten, ist im Verbreitun
 <div class="table-responsive">
   <table class="table taeubling">
     <tr>
-      <th rowspan="2">Geschmack</th>
-      <th rowspan="2">Sporenpulver</th>
-      <th rowspan="2">Abziehbarkeit der Huthaut</th>
-      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+      <th>Geschmack</th>
+      <th>Sporenpulver</th>
+      <th>Abziehbarkeit der Huthaut</th>
+      <th>Chemische Reaktion mit FeSO4</th>
     </tr>
     <tr>
-      
-      
-    </tr>
-    <tr>
-      <td>mild
+      <td>mild</td>
       <td>hellocker</td>
       <td>maximal bis zur Hälfte</td>
       <td>schmutzig grün</td>
-       
     </tr>
   </table>
 </div>
-      
 
- 
 Text
 
 
