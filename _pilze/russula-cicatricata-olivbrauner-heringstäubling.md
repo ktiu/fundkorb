@@ -59,4 +59,4 @@ Russula cicatricata gehört zu den selteneren Täublingsarten, ist im Verbreitun
   </table>
 </div>
 
-Wie bei allen Heringstäublingsarten verfärben sich Stieloberfläche, Lamellen und Fleisch mit Eisensulfat (FeSO4) grün. Der grünen Reaktion geht mitunter ein leichtes Röten voraus.
+
