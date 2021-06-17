@@ -26,8 +26,6 @@ Der Pilz hat keinen deutschen Artnamen, da er und seine Verwandten hierzulande n
 {% include bild.html datei="/bilder/termitomyces_striatus_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Eine äußerst erfolgreiche von Termiten angelegte Pilzzucht in Thailand" %}
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/termitomyces_striatus_02_dg.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="In Thailand ist die Art als "Het Khoon" eine begehrte Delikatesse, wird eifrig gesammelt und auf Märkten verkauft" %}
+
 
 Bei Wikipedia heißt es: alle Termitomyces-Arten *"wachsen ausschließlich aus oder in der Nähe von Termitenhügeln"*. Diese Angabe ist falsch. Unsere thailändische Art "Het Khoon" wird von Termiten kultiviert, die ihre Nester unterirdisch und nicht als Termitenhügel anlegen.
