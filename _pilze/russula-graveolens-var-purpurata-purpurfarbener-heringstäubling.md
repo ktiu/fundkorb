@@ -19,9 +19,9 @@ literatur:
   - text: "MIGGEL, B. (2006): Der Purpurrote Heringstäubling. Südwestdeutsche
       Pilzrundschau, 2006, Heft 2: 37-40"
 ---
-Ein kleines Schmuckstück, dieser Täubling, mit seinem purpurrotem bis blutrotem Hut, seinen ebenmäßigen, blassen Lamellen und seinem gleichmäßig weißem, mitunter rötlich überhauchtem Stiel.
+Ein kleines Schmuckstück, dieser Täubling, mit seinem purpurroten bis blutroten Hut, seinen ebenmäßigen, blassen Lamellen und seinem gleichmäßig weißem, mitunter rötlich überhauchten Stiel.
 
-Die Art fruktifiziert fast in jedem Jahr in meinem Hauswald, einem Orchideen-Buchenwald, direkt auf einem lehmigen Waldpfad (heller Standort) bei einer großen Eiche, mit der er eine Mykorrhiza eingeht. Das Myzel wächst nach der Waldstandortkarte Neuenbürg (Enzkreis, Baden-Württemberg) an der Grenze zwischen basischem und oberflächenversauertem Kalklehm. Das anstehendes Gestein ist Unterer Muschelkalk.
+Die Art fruktifiziert fast in jedem Jahr in meinem Hauswald, einem Orchideen-Buchenwald, direkt auf einem lehmigen Waldpfad (heller Standort) bei einer großen Eiche, mit der er eine [Mykorrhiza](Mykorrhiza "Glossar") eingeht. Das [Myzel](Myzel "Glossar") wächst nach der Waldstandortkarte Neuenbürg (Enzkreis, Baden-Württemberg) an der Grenze zwischen basischem und oberflächenversauertem Kalklehm. Das anstehende Gestein ist Unterer Muschelkalk.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_graveolens_var.purpurata_02_bm.jpg" nocrop=true %}
@@ -39,9 +39,9 @@ Die Lamellen sind anfangs weiß und verfärben sich allmählich creme. Sie stehe
 
 Interessant ist der Stiel. In den meisten Jahren meiner Beobachtung war er rein weiß. Aber es gibt auch Jahre, in denen die Stiele überwiegend rosa überhaucht oder geflammt sind. Die Stielrinde ist fest, das Innere jedoch wattig ausgestopft.
 
-Das Fleisch ist weiß. Fleisch, Stiel und Lamellen bräunen bei Druck, bei Verletzung oder im Anschnitt, wie das für Heringstäubling üblich ist.
+Das Fleisch ist weiß. Fleisch, Stiel und Lamellen bräunen bei Druck, bei Verletzung oder im Anschnitt, wie das für Heringstäublinge üblich ist.
 
-Verwechslungsmöglichkeit: Der Nadelwald-Heringstäubling Russula xerampelina sieht ähnlich aus, geht jedoch eine Mykorrhiza mit Nadelbäumen ein, ist im Allgemeinen größer und besitzt andere Mikromerkmale. Der Speitäubling riecht nicht fischig, und sein Geschmack ist brennend scharf.
+Verwechslungsmöglichkeit: Der Nadelwald-Heringstäubling *Russula xerampelina* sieht ähnlich aus, geht jedoch eine Mykorrhiza mit Nadelbäumen ein, ist im Allgemeinen größer und besitzt andere Mikromerkmale. Der Speitäubling riecht nicht fischig, und sein Geschmack ist brennend scharf.
 
 Wie bei allen Heringstäublingsarten verfärben sich Stieloberfläche, Lamellen und Fleisch mit Eisensulfat (FeSO4) grün. Der grünen Reaktion geht mitunter ein leichtes Röten voraus.
 
@@ -66,6 +66,3 @@ Wie bei allen Heringstäublingsarten verfärben sich Stieloberfläche, Lamellen 
     </tr>
   </table>
 </div>
-
-
-
