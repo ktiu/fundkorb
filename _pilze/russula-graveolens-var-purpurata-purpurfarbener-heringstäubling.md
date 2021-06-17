@@ -45,5 +45,27 @@ Verwechslungsmöglichkeit: Der Nadelwald-Heringstäubling Russula xerampelina si
 
 Wie bei allen Heringstäublingsarten verfärben sich Stieloberfläche, Lamellen und Fleisch mit Eisensulfat (FeSO4) grün. Der grünen Reaktion geht mitunter ein leichtes Röten voraus.
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>mild</td>
+      <td>hellocker</td>
+      <td>bis 1/2</td>
+      <td>schmutzig grün</td>
+       
+    </tr>
+  </table>
+</div>
+
 
 
