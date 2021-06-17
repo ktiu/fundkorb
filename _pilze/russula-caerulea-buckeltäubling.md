@@ -41,20 +41,19 @@ Kennengelernt habe ich diesen Täubling unter seinem wissenschaftlichen Namen ca
       <th rowspan="2">Geschmack</th>
       <th rowspan="2">Sporenpulver</th>
       <th rowspan="2">Abziehbarkeit der Huthaut</th>
-      <th colspan="3" class="text-center">Chemische Reaktion</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
     </tr>
     <tr>
-      <th>FeSO4</th>
-      <th>Guajak</th>
-      <th>Phenol</th>
+      
+      
     </tr>
     <tr>
       <td>mild, Huthaut bitterlich</td>
       <td>satt ocker</td>
       <td>1/3 bis 1/2</td>
       <td>orange, orangerot</td>
-      <td>grün</td>
-      <td>rosa</td>    
+       
     </tr>
   </table>
 </div>
+
