@@ -37,6 +37,10 @@ Die zwei mit Abstand häufigsten Vertreter der Kammtäublinge (Sektion *Ingratae
       <td>hellgelb, fast weiß</td>
       <td>bis 1/2</td>
       <td>dunkelbraun</td>
+
+    </tr>
+  </table>
+</div>
        
 
 
