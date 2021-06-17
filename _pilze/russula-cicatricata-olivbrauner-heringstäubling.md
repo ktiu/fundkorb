@@ -41,20 +41,20 @@ Russula cicatricata gehört zu den selteneren Täublingsarten, ist im Verbreitun
       <th rowspan="2">Geschmack</th>
       <th rowspan="2">Sporenpulver</th>
       <th rowspan="2">Abziehbarkeit der Huthaut</th>
-      <th colspan="3" class="text-center">Chemische Reaktion</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
     </tr>
     <tr>
-      <th>FeSO4</th>
-      <th>Guajak</th>
-      <th>Phenol</th>
+      
+      
     </tr>
     <tr>
-      <td>mild</td>
-      <td>hell bis intensiv ocker</td>
-      <td>bis 1/2</td>
-      <td>graurosa bis orangerot</td>
-      <td>grün bis blaugrün</td>
-      <td>weinbraun bis violettrot</td>    
+      <td>mild
+      <td>hellocker</td>
+      <td>maximal bis zur Hälfte</td>
+      <td>schmutzig grün</td>
+       
     </tr>
   </table>
 </div>
+
+Wie bei allen Heringstäublingsarten verfärben sich Stieloberfläche, Lamellen und Fleisch mit Eisensulfat (FeSO4) grün. Der grünen Reaktion geht mitunter ein leichtes Röten voraus.
