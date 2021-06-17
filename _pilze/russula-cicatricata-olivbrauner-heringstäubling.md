@@ -55,6 +55,11 @@ Russula cicatricata gehört zu den selteneren Täublingsarten, ist im Verbreitun
       <td>maximal bis zur Hälfte</td>
       <td>schmutzig grün</td>
        
+    </tr>
+  </table>
+</div>
+       
+Text
 
 
 
