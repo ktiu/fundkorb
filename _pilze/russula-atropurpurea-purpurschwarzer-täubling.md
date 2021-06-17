@@ -33,20 +33,19 @@ Die Art ist in Mitteleuropa weit verbreitet und ziemlich häufig. Als [Mykorrhiz
       <th rowspan="2">Geschmack</th>
       <th rowspan="2">Sporenpulver</th>
       <th rowspan="2">Abziehbarkeit der Huthaut</th>
-      <th colspan="3" class="text-center">Chemische Reaktion</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
     </tr>
     <tr>
-      <th>FeSO4</th>
-      <th>Guajak</th>
-      <th>Phenol</th>
+      
+      
     </tr>
     <tr>
       <td>schärflich, vergehend</td>
       <td>weiß bis sehr blass creme</td>
       <td>nicht bis max. 1 cm</td>
       <td>rosa - orange</td>
-      <td>bräunlich grün</td>
-      <td>hell rosa</td>    
+       
     </tr>
   </table>
 </div>
+
