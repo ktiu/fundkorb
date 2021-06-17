@@ -42,23 +42,23 @@ Er wächst vor allem in Laubwäldern auf sandigen Böden und ist Mykorrhizapartn
       <th rowspan="2">Geschmack</th>
       <th rowspan="2">Sporenpulver</th>
       <th rowspan="2">Abziehbarkeit der Huthaut</th>
-      <th colspan="3" class="text-center">Chemische Reaktion</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
     </tr>
     <tr>
-      <th>FeSO4</th>
-      <th>Guajak</th>
-      <th>Phenol</th>
+      
+      
     </tr>
     <tr>
-      <td>scharf</td>
-      <td>hellocker</td>
-      <td>nur am Rand</td>
-      <td>fleischrosa</td>
-      <td>blaugrün</td>
-      <td>weinbraun</td>    
+      <td>mild</td>
+      <td>rein weiß</td>
+      <td>nicht</td>
+      <td>keine</td>
+       
     </tr>
   </table>
 </div>
+
+
 
 
 
