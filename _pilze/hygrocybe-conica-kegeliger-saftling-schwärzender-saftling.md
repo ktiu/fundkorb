@@ -30,11 +30,13 @@ Relativ große Art (Hutdurchmesser ausgebreitet ca. 3 - 5 cm), gesamter Fruchtk�
 **Lamellen** gelb oder gelblich, Schneiden etwas dunkler, aufsteigend am Stiel angeheftet\
 **Stiel** mit gelben und roten Farbtönen, längsfaserig und trocken
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/hygrocybe_conica_04_mh.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
 
 {% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/hygrocybe_conica_04_mh.jpg" nocrop=true gross = true %}
+
+</div>
+<div class = "bilder">
+
 {% include bild.html datei="/bilder/hygrocybe_conica_05_mh.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/hygrocybe_conica_06_mh.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="31.07.2014: Hauptfriedhof Frankfurt (3 Fotos © von Michael Hornung)" %}
