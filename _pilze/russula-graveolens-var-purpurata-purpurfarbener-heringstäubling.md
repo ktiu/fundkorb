@@ -19,7 +19,7 @@ literatur:
   - text: "MIGGEL, B. (2006): Der Purpurrote Heringstäubling. Südwestdeutsche
       Pilzrundschau, 2006, Heft 2: 37-40"
 ---
-Ein kleines Schmuckstück, dieser Täubling, mit seinem purpurroten bis blutroten Hut, seinen ebenmäßigen, blassen Lamellen und seinem gleichmäßig weißem, mitunter rötlich überhauchten Stiel.
+Ein kleines Schmuckstück, dieser Täubling, mit seinem purpurroten bis blutroten Hut, seinen ebenmäßigen, blassen Lamellen und seinem gleichmäßig weißen, mitunter rötlich überhauchten Stiel.
 
 Die Art fruktifiziert fast in jedem Jahr in meinem Hauswald, einem Orchideen-Buchenwald, direkt auf einem lehmigen Waldpfad (heller Standort) bei einer großen Eiche, mit der er eine [Mykorrhiza](Mykorrhiza "Glossar") eingeht. Das [Myzel](Myzel "Glossar") wächst nach der Waldstandortkarte Neuenbürg (Enzkreis, Baden-Württemberg) an der Grenze zwischen basischem und oberflächenversauertem Kalklehm. Das anstehende Gestein ist Unterer Muschelkalk.
 
