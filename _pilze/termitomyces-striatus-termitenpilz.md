@@ -9,7 +9,7 @@ profil:
   aktualisiert: 2021-06-17
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/termitomyces_striatus_01.jpg
 literatur:
   - url: https://de.wikipedia.org/wiki/Termitomyces
