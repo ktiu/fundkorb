@@ -35,9 +35,7 @@ Belegmaterial wurde noch am Fundtag an *Reinhold Kärcher* weitergeleitet, der n
 
 Russula cicatricata gehört zu den selteneren Täublingsarten, ist im Verbreitungsatlas von 1991 mit nur einem hessischen Fundpunkt von Reinhold Kärcher vertreten, der auch in der aktuellen [DGfM-Kartierung](http://hessen.pilze-deutschland.de/organismen/russula-cicatricata-romagn-ex-bon-1987) erscheint.
 
-    </tr>
-  </table>
-</div>
+
 
 <div class="table-responsive">
   <table class="table taeubling">
