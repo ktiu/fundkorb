@@ -39,20 +39,20 @@ Dank seines angenehm milden Geschmacks wäre der Milde Kammtäubling die einzige
       <th rowspan="2">Geschmack</th>
       <th rowspan="2">Sporenpulver</th>
       <th rowspan="2">Abziehbarkeit der Huthaut</th>
-      <th colspan="3" class="text-center">Chemische Reaktion</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
     </tr>
     <tr>
-      <th>FeSO4</th>
-      <th>Guajak</th>
-      <th>Phenol</th>
+      
+      
     </tr>
     <tr>
       <td>angenehm mild</td>
       <td>hell ockergelb</td>
       <td>bis 1/2</td>
       <td>hell rosa</td>
-      <td>blaugrün</td>
-      <td>weinrot</td>    
+       
     </tr>
   </table>
 </div>
+
+
