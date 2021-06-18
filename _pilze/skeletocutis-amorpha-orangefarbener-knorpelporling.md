@@ -18,6 +18,7 @@ literatur:
     text: "MIGGEL, B. (2008): Skeletocutis amorpha (Fr.: Fr.) Kotl. et Pouz. –
       Orangefarbener Knorpelporling. – Südwestdeutsche Pilzrundschau, 2008, Heft
       1: 8-12"
+  - url: http://aphyllopower.blogspot.com/2008/06/
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/skeletocutis_amorpha_01_bm.jpg" %}
