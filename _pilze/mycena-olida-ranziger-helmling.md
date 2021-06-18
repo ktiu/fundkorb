@@ -44,9 +44,13 @@ Eine seltene Art, die in der Roten Liste der Pilze Deutschlands mit V (Vorwarnli
 {% include bild.html datei="/bilder/mycena_olida_05_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: Huthauthyphen -- Mitte: Cheilozystiden --  rechts: Caulozystiden" %}
 
-**Mikromerkmale:** Sporen glatt, dünnwandig, hyalin, ellipsoid, im Mittel 6,9-7,2 x 4,9-5,2 µm. Basidien keulig, 2- und 4-sporig
-Cheilozystiden häufig, glatt, keulig bis spindelförmig
-Pleurozystiden seltener, von gleicher Form und Größe
-Huthauthyphen aus glatten, liegenden Hyphen bestehend. Caulozystiden sehr zahlreich, glatt, zylindrisch-keulig, auch kopfig oder korallenartig knollig. Einzelne Septen von Zystiden und Hyphen mit Schnallen.
+**Mikromerkmale:**  
+Sporen glatt, dünnwandig, hyalin, ellipsoid, im Mittel 6,9-7,2 x 4,9-5,2 µm.  
+Basidien keulig, 2- und 4-sporig.  
+Cheilozystiden häufig, glatt, keulig bis spindelförmig;
+Pleurozystiden seltener, von gleicher Form und Größe.  
+Huthauthyphen aus glatten, liegenden Hyphen bestehend.  
+Caulozystiden sehr zahlreich, glatt, zylindrisch-keulig, auch kopfig oder korallenartig knollig.  
+Einzelne Septen von Zystiden und Hyphen mit Schnallen.
 
 **Tipp:** Genügend ausgefallenes Sporenpulver gewinnt man bei Helmlingen und ähnlich kleinen Lamellenpilzen, indem man einen leeren Deckglasbehälter zweckentfremdet: Man legt zuerst ein Deckglas hinein und platziert darauf den Helmlingshut, Lamellen nach unten. Nun verschließt man das Ganze mit dem Behälterdeckel und lässt über Nacht aussporen. – Das war’s auch schon.
