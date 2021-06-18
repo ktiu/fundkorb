@@ -48,20 +48,18 @@ Die allermeisten der rund 150 mitteleuropäischen Täublingsarten sind schwer zu
       <th rowspan="2">Geschmack</th>
       <th rowspan="2">Sporenpulver</th>
       <th rowspan="2">Abziehbarkeit der Huthaut</th>
-      <th colspan="3" class="text-center">Chemische Reaktion</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
     </tr>
     <tr>
-      <th>FeSO4</th>
-      <th>Guajak</th>
-      <th>Phenol</th>
+      
+      
     </tr>
     <tr>
       <td>mild</td>
-      <td>reinweiss</td>
+      <td>rein weiß</td>
       <td>bis 1/2</td>
-      <td>fleischrosa</td>
-      <td>blaugrün</td>
-      <td>rosaorange</td>    
+      <td>keine</td>
+       
     </tr>
   </table>
 </div>
