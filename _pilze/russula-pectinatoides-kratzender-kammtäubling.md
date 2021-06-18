@@ -39,7 +39,7 @@ Der zu den Kammtäublingen (kammartig geriefte Hutränder) gehörige Kratzende K
     <tr>
       <td>mild aber kratzend</td>
       <td>hell ockergelb</td>
-      <td>zu Zweidrittel</td>
+      <td>zu 2/3</td>
       <td>blass rosa</td>
        
     </tr>
