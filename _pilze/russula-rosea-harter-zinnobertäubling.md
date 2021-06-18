@@ -30,20 +30,18 @@ Seine Lamellen verfärben sich durch ausfallendes Sporenpulver cremegelb, die Hu
       <th rowspan="2">Geschmack</th>
       <th rowspan="2">Sporenpulver</th>
       <th rowspan="2">Abziehbarkeit der Huthaut</th>
-      <th colspan="3" class="text-center">Chemische Reaktion</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
     </tr>
     <tr>
-      <th>FeSO4</th>
-      <th>Guajak</th>
-      <th>Phenol</th>
+      
+      
     </tr>
     <tr>
       <td>mild</td>
       <td>blass creme</td>
-      <td>nicht abziehbar</td>
-      <td>lachs-rosa</td>
-      <td>grün</td>
-      <td>blass weinrot</td>    
+      <td>nicht</td>
+      <td>hell lachs-rosa</td>
+       
     </tr>
   </table>
 </div>
