@@ -26,6 +26,8 @@ Er gehört zur Sektion der Schwärztäublinge (Nigricantinae), die wiederum zur 
 {% include bild.html datei="/bilder/russula_nigricans_04_hl.jpg" %}
 {% include abbildung_ende.html %}
 
+Russula nigricans ist eine der drei Schwärztäublingsarten, die beim Anschnitt deutlich röten und bei denen im Verlauf einer halben Stunde das Rot in ein deutliches Schwarz übergeht. Die beiden anderen Arten sind *Russula densifolia* und *Russula acrifolia*.
+
 Wie der Name Dickblättriger Schwärztäubling schon verrät, sind seine Lamellen auffallend dick, dazu extrem spröde. Schon bei leichtem Darüberstreifen mit dem Finger zersplittern sie. Der Pilz hat keinen charakteristischen Geruch, das Fleisch frischer Fruchtkörper rötet im Anschnitt, der Geschmack ist mild. Er kommt in nahezu allen Waldtypen vor, gehört zu den häufigsten Täublingsarten und tritt meist truppweise auf. Mit anderen Täublingen dürfte er kaum zu verwechseln sein, wenn man auf die dicken, etwas entfernt stehenden und stark splitternden Lamellen achtet.
 
 Als Speisepilz wird er wegen seines düsteren Aussehens kaum in Batrcht gezogen und die meisten Pilzbuchautoren bezeichnen ihn als essbar, aber wenig schmackhaft. Andreas Gminder hat dennoch einen Tipp parat: noch junge Pilze mit hellen, noch halbkugeligen Hüten, sollen mit Speck und Zwiebeln scharf angebraten ein deftiges Gericht ergeben, das sicherlich vielen schmecken wird. Mein Kommentar dazu: könnte man mal ausprobieren, aber mit Speck und Zwiebeln kann man viele geschmacklich nicht überzeugende Pilze aufwerten. Das Pilzgericht schmeckt dann eben vor allem nach Speck und Zwiebeln.
@@ -33,7 +35,6 @@ Als Speisepilz wird er wegen seines düsteren Aussehens kaum in Batrcht gezogen 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_nigricans_02_dg.jpg" %}
 {% include abbildung_ende.html legende="Auf diesem Foto sind zwei Fruchtkörper zu sehen, die mit ihrer sternförmig aufgerissenen Huthaut zu keiner Beschreibung des Dickblättrigen Schwärztäublings passen. Ein Beispiel dafür, wie Pilze z. B. durch Wettereinflüsse oder aus anderen Gründen ihr Aussehen verändern können." %}
-
 
 <div class="table-responsive">
   <table class="table taeubling">
