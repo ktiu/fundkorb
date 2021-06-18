@@ -30,20 +30,18 @@ Der zu den Kammtäublingen (kammartig geriefte Hutränder) gehörige Kratzende K
       <th rowspan="2">Geschmack</th>
       <th rowspan="2">Sporenpulver</th>
       <th rowspan="2">Abziehbarkeit der Huthaut</th>
-      <th colspan="3" class="text-center">Chemische Reaktion</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
     </tr>
     <tr>
-      <th>FeSO4</th>
-      <th>Guajak</th>
-      <th>Phenol</th>
+      
+      
     </tr>
     <tr>
-      <td>mild, aber kratzend</td>
+      <td>mild aber kratzend</td>
       <td>hell ockergelb</td>
-      <td>zu 2/3</td>
+      <td>zu Zweidrittel</td>
       <td>blass rosa</td>
-      <td>blaugrün</td>
-      <td>blass weinbraun</td>    
+       
     </tr>
   </table>
 </div>
