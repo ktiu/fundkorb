@@ -31,20 +31,18 @@ Der Geruch ist allerdings nur für geübte Nasen ein gutes Unterscheidungsmerkma
       <th rowspan="2">Geschmack</th>
       <th rowspan="2">Sporenpulver</th>
       <th rowspan="2">Abziehbarkeit der Huthaut</th>
-      <th colspan="3" class="text-center">Chemische Reaktion</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
     </tr>
     <tr>
-      <th>FeSO4</th>
-      <th>Guajak</th>
-      <th>Phenol</th>
+      
+      
     </tr>
     <tr>
       <td>scharf</td>
       <td>hellocker</td>
       <td>nur am Rand</td>
       <td>fleischrosa</td>
-      <td>blaugrün</td>
-      <td>weinbraun</td>    
+       
     </tr>
   </table>
 </div>
