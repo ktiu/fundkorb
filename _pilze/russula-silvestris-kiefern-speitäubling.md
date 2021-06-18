@@ -32,20 +32,18 @@ Die Literaturangaben zur Ökologie sind leider sehr uneinheitlich. Krieglsteiner
       <th rowspan="2">Geschmack</th>
       <th rowspan="2">Sporenpulver</th>
       <th rowspan="2">Abziehbarkeit der Huthaut</th>
-      <th colspan="3" class="text-center">Chemische Reaktion</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
     </tr>
     <tr>
-      <th>FeSO4</th>
-      <th>Guajak</th>
-      <th>Phenol</th>
+      
+      
     </tr>
     <tr>
-      <td>sehr scharf</td>
-      <td>weiss</td>
+      <td>scharf</td>
+      <td>rein weiß</td>
       <td>fast ganz</td>
       <td>rosa</td>
-      <td>hell graugrün</td>
-      <td>rosa</td>    
+       
     </tr>
   </table>
 </div>
