@@ -18,9 +18,11 @@ literatur:
   - text: "ARONSEN, E.  & LÄSSÖE (2016):  The genus Mycena s.l. Fungi of Northern
       Europe, Vol 5. – Svampetryk."
   - text: "LUDWIG, E. (2012): Pilzkompendium, Bd. 3, Nr. 116.54. – Fungicon-Verlag"
-  - url: "MIGGEL, B. (2011): Mycena olida Bres., ein gelblichweißer Helmling,
+  - url: ""
+    text: "MIGGEL, B. (2011): Mycena olida Bres., ein gelblichweißer Helmling,
       gefunden auf alten Rebstöcken. – Südwestdeutsche Pilzrundschau, 2011, Heft
       2: 60-64"
+  - {}
 ---
 Pilze kommen an den ausgefallensten Orten vor. So zeigte mir ein Weinbauer aus der näheren Umgebung (Gemeinde Keltern) Mitte November 2010 kleine, weißliche Pilze, die im Rindenmoos alter Weinstöcke wuchsen. In Bezug auf die Schädlichkeit der Pilze konnte ich ihn schnell beruhigen, denn auf den ersten Blick handelte es sich um Helmlinge, die sich nun mal saprobiontisch und nicht parasitisch ernähren. Die Pilze wirkten im morgendlichen Raureif sehr ästhetisch.
 
