@@ -34,20 +34,20 @@ Ockertäublinge findet man in allen Waldgesellschaften und Höhenlagen bis 1000 
       <th rowspan="2">Geschmack</th>
       <th rowspan="2">Sporenpulver</th>
       <th rowspan="2">Abziehbarkeit der Huthaut</th>
-      <th colspan="3" class="text-center">Chemische Reaktion</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
     </tr>
     <tr>
-      <th>FeSO4</th>
-      <th>Guajak</th>
-      <th>Phenol</th>
+      
+      
     </tr>
     <tr>
-      <td>mild - schärflich</td>
-      <td>weiss</td>
+      <td>mild bis schärflich</td>
+      <td>weiß</td>
       <td>bis 1/2</td>
-      <td>sehr hell orangerosa</td>
-      <td>blass blaugrün</td>
-      <td>dunkel weinrot</td>    
+      <td> sehr hell orangerosa</td>
+       
     </tr>
   </table>
 </div>
+
+Die gelbliche Stielbasis färbt sich beim Betupfen mit Kalilauge (KOH) feuerrot.
