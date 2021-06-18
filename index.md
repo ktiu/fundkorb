@@ -14,6 +14,17 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/gymnopus_dryophilus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.06.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Waldfreundrübling Gymnopus dryophilus. Sein hübsch klingender deutscher Name ist vermutlich die etwas freie Übersetzung seines wissenschaftlichen Artnamens *dryophilus* (baumliebend). *Wer Bäume liebt, ist ein Freund des Waldes.* Für den Pilzfreund ist der Umgang mit ihm nicht mehr so einfach wie es früher einmal war. Da gab es eine einzige wenn auch recht plastische Art unter diesem Namen - heute sind es mehrere, die nicht immer leicht auseinanderzuhalten sind. 
+
+
+[Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)  
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrocybe_conica_08_dt.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
@@ -33,26 +44,6 @@ Wenn auf der Rasenfläche bei der Evangelischen Markusgemeinde in Offenbach Pilz
 15.06.2021:  Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, den jeder kennt und den man riecht, bevor man ihn sieht. Die Stinkmorchel hat ihren wissenschftlichen Namen *Phallus impundicus* 1753 vom berühmten schwedischen Naturforscher Carl von Linné erhalten, der sich dabei von der Form des ausgewachsenen Fruchtkörpers hat inspirieren lassen. Der Pilz entwickelt sich aus einem weißen schwabbeligen Hexenei, das noch nicht stinkt und sogar roh essbar ist, zumindest die weißen Teile im Inneren, aus denen dann der Stiel entsteht. Auffallend ist, dass sein erstes Erscheinen als Anzeichen für den Beginn allgemeinen Pilzwachstums gewertet werden kann. In diesem Jahr und im Rhein-Main-Gebiet dürfte das ausnahmsweise nicht zutreffen. Wir stehen gerade am Anfang einer staubtrockenen Hitzewelle, die weder den Pilzen noch dem Wald gut tun wird.
 
 [Mehr lesen >](/pilze/phallus-impudicus-stinkmorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-"Zum Verlieben süß", mit diesen Worten hat sich mal eine Teilnehmerin bei einer pilzkundlichen Führung für unseren aktuellen [Fundkorbpilz](AA "Glossar-") begeistert. Das fanden auch die übrigen und fügten hinzu: "Man muss ihn nur vom Boden aufnehmen und aus der Nähe betrachten". Gelegenheiten dazu gibt es reichlich, denn der [Orangerote Heftelnabeling Rickenella fibula](https://fundkorb.de/pilze/rickenella-fibula) wächst überall, wo es Moos gibt, egal ob auf Rasenflächen oder auf Holz. Was ihn so attraktiv macht, ist seine hübsche Farbe und die Lamellen, die in einem elegant geschwungenem Bogen an den Stielen herablaufen. Die genabelten Hütchen werden kaum breiter als 1 cm.
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/arachnopeziza_aurelia_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.06.2021: Neben Pfifferlingen finden wir in unserem Roteichenforst gerade auch massenhaft winzige kleine Becherpilzchen und eines davon ist unser heutiger [Fundkorbpilz](AA "Glossar-"). Er heißt [Arachnopeziza aurelia (Goldgelbes Spinnwebbecherchen)](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen) und wächst ganzjährig an morschem, feucht liegendem Laubholz, an der Unterseite verrottender Blätter, gern auch auf [Cupulen](Cupulen "Glossar") verschiedener Eichenarten. Die Betonung liegt auf: feucht muss es sein! Sobald es trockener wird, vertrocknen auch die kleinen gelblichen Becherchen und verschwinden ganz. Laut Literatur sollen sie selten sein, was ich nicht so sehe.
 
 <div style="clear:  both"></div>
 
