@@ -34,26 +34,25 @@ Als Speisepilz wird er wegen seines düsteren Aussehens kaum in Batrcht gezogen 
 {% include bild.html datei="/bilder/russula_nigricans_02_dg.jpg" %}
 {% include abbildung_ende.html legende="Auf diesem Foto sind zwei Fruchtkörper zu sehen, die mit ihrer sternförmig aufgerissenen Huthaut zu keiner Beschreibung des Dickblättrigen Schwärztäublings passen. Ein Beispiel dafür, wie Pilze z. B. durch Wettereinflüsse oder aus anderen Gründen ihr Aussehen verändern können." %}
 
+
 <div class="table-responsive">
   <table class="table taeubling">
     <tr>
       <th rowspan="2">Geschmack</th>
       <th rowspan="2">Sporenpulver</th>
       <th rowspan="2">Abziehbarkeit der Huthaut</th>
-      <th colspan="3" class="text-center">Chemische Reaktion</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
     </tr>
     <tr>
-      <th>FeSO4</th>
-      <th>Guajak</th>
-      <th>Phenol</th>
+      
+      
     </tr>
     <tr>
       <td>mild bis schärflich</td>
-      <td>weiss</td>
+      <td>weiß</td>
       <td>nicht</td>
       <td>hell rosa</td>
-      <td>blaugrün</td>
-      <td>weinbraun</td>    
+       
     </tr>
   </table>
 </div>
