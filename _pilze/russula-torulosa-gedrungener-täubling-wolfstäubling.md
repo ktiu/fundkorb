@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: torulosa = kleinwulstig
 profil:
   aktualisiert: 2021-06-19
-  autor_in: Berns Miggel
+  autor_in: Bernd Miggel
 hauptbild:
   anzeige: true
   datei: /bilder/russula_torulosa_01_bm.jpg
