@@ -2,7 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-19.06.2021 Boletus calopus - Schönfußröhrling  
+19.06.2021 [Boletus calopus - Schönfußröhrling](/pilze/boletus-calopus-schönfußröhrling)\
 18.06.2021 [Gymnopus dryophilus - Waldfreundrübling](/pilze/gymnopus-dryophilus-waldfreundrübling)\
 16.06.2021 [Hygrocybe conica - Kegeliger Saftling](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)\
 15.06.2021 [Phallus impudicus - Stinkmorchel](/pilze/phallus-impudicus-stinkmorchel)\
