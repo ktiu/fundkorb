@@ -28,4 +28,26 @@ Bei *Russula exalbicans* handelt es sich um eine mittelgroße Art mit Hutdurchme
 
 Der Verblassende Täubling ist ein treuer Birkenbegleiter auf nicht zu sauren Böden. Er scheint offene Standorte außerhalb von Wäldern zu bevorzugen und kommt selten allein. Er wächst von Mai bis November und ist mäßig häufig. Als Speisepilz ist er durchaus akzeptabel, auch wenn man ihn kaum zu den Premiumarten zählen kann.
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>erst scharf, dann mild</td>
+      <td>hellocker - ocker</td>
+      <td>kaum</td>
+      <td>fleischrötlich - graulich</td>
+       
+    </tr>
+  </table>
+</div>
+
 Bemerkenswert ist die Tatsache, dass er zusammen mit dem Flaumigen Birkenmilchling (*Lactarius pubescens*) eine Doppel-[Mykorrhiza](Mykorrhiza "Glossar") bildet. Dabei wachsen die [Hyphen](Hyphen "Glossar") interzellulär in die Wurzelrinde, die dann keine Wurzelhaare mehr bildet, und übernehmen den Nährstoffaustausch zwischen Pilz und Baum. Diese Symbiose wird als Ektomykorrhiza bezeichnet. Ich habe mehrfach, unter anderem unmittelbar vor meiner Haustür, das gemeinsame Vorkommen beider Pilzarten beobachten können.
