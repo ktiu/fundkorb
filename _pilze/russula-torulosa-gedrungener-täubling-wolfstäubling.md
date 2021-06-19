@@ -26,18 +26,18 @@ literatur:
 Im Spätherbst 2019 hatte ich das Glück, in meinem Pilzkartierungsgebiet NSG Essigberg den Gedrungenen Täubling *Russula torulosa* mehrfach zu finden. Diese recht seltene Art wuchs an mehreren Stellen in der Wacholderheide und im umgebenden Waldgürtel an hellen, teilweise sonnenbeschienenen Plätzen. Es handelt es sich dort um Pararendzina-Böden über Unterem Muschelkalk, also um gut durchlässige, basenreiche, warme Böden. Am gleichen Standort findet man z.B. den Weinroten Kiefernreizker *Lactarius sanguifluus* und den Satansröhrling *[Boletus satanas](/pilze/boletus-satanas-satansröhrling)*. Der typische Wuchsort unserer Art ist, wenn man diese Funde zu Grunde legt, ein lichter Wald oder eine baumbestandendene Heidelandschaft mit warmen, gut durchlässigen, basenreichen Böden. Als [Mykorrhizapartner](Mykorrhiza "Glossar") ist die Kiefer anzusehen.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/russula_torulosa_02_bm.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/russula_torulosa_03_bm.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/russula_torulosa_02_bm.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/russula_torulosa_03_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Blick auf die recht hellen, sehr gleichmäßigen Lamellen  --  Hutoberseite" %}
 
-Bei Russula torulosa handelt es sich um eine mittelgroße Art. Hüte der vorgefundenen Fruchtkörper ca. 8 cm im Durchmesser, reif ausgebreitet und mittig leicht vertieft, matt glänzend, feucht etwas klebrig, ungezont, Rand ungerieft. Von der Farbe her rotviolett (nach K & W etwa *14A4 purpurrosa*), dabei etwas fleckig und mittig dunkler. Die Huthaut ist nur am Rand dünn abziehbar. Der Stiel ist zylindrisch bis leicht keulig, immer kürzer als der Hutdurchmesser, stämmig, längsadrig, etwa in der Farbe des Hutes, bei den gefundenen Exemplaren jedoch deutlich heller. Die Lamellen sind sehr gleichmäßig, dünn, am Rand zuweilen mit Lamelletten untermischt, in Stielnähe häufig gegabelt, hell cremefarben, am Rand etwas bauchig und am Stielansatz schwach herablaufend. Die Schneide ist gleichfarbig mit der Fläche, glattrandig. Das Fleisch ist fest, weißlich, fast geruchlos, deutlich scharf schmeckend, jedoch nicht brennend scharf.
+Bei *Russula torulosa* handelt es sich um eine mittelgroße Art. Hüte der vorgefundenen Fruchtkörper ca. 8 cm im Durchmesser, reif ausgebreitet und mittig leicht vertieft, matt glänzend, feucht etwas klebrig, ungezont, Rand ungerieft. Von der Farbe her rotviolett (nach K & W etwa *14A4 purpurrosa*), dabei etwas fleckig und mittig dunkler. Die Huthaut ist nur am Rand dünn abziehbar. Der Stiel ist zylindrisch bis leicht keulig, immer kürzer als der Hutdurchmesser, stämmig, längsadrig, etwa in der Farbe des Hutes, bei den gefundenen Exemplaren jedoch deutlich heller. Die Lamellen sind sehr gleichmäßig, dünn, am Rand zuweilen mit Lamelletten untermischt, in Stielnähe häufig gegabelt, hell cremefarben, am Rand etwas bauchig und am Stielansatz schwach herablaufend. Die Schneide ist gleichfarbig mit der Fläche, glattrandig. Das Fleisch ist fest, weißlich, fast geruchlos, deutlich scharf schmeckend, jedoch nicht brennend scharf.
 
 Sporenpulver cremefarben, nach der Farbtafel von Romagnesi etwa IIc.
 
 **Mikromerkmale:**
 Ein Huthaut-Quetschpräparat der Epikutis in Sulfovanillin zeigt unmittelbar die sehr zahlreichen Pileozystiden. Sie sind unizellular, sehr lang, zylindrisch bis schwach keulig und färben sich in diesem Medium deutlich schwarz an.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_torulosa_04_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/russula_torulosa_05_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Sporen -- Pileozystiden der Huthaut" %}
