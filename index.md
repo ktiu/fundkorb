@@ -14,12 +14,21 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_calopus_02_xx.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+19.06.2021: Pilzfreund Bernhard ist heute im Spessart gewesen und hat unseren aktuellen [Fundkorbpilz](AA "Glossar-") gefunden. Der Schönfußröhrling ist wirklich ein schöner, schmeckt aber bitter und ist daher kein Speisepilz. Roh gegessen wäre er sogar giftig und höchst unverträglich. Im Flachland ist er extrem selten, in Mittelgebirgslagen schon eher anzutreffen, im (sub)alpinen Bereich ein ansässiger Bewohner. Seine bevorzugten Baumpartner sind Fichten und Buchen.
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/gymnopus_dryophilus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 18.06.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Waldfreundrübling Gymnopus dryophilus. Sein hübsch klingender deutscher Name ist vermutlich die etwas freie Übersetzung seines wissenschaftlichen Artnamens *dryophilus* (baumliebend). *Wer Bäume liebt, ist ein Freund des Waldes.* Für den Pilzfreund ist der Umgang mit ihm nicht mehr so einfach wie es früher einmal war. Da gab es eine einzige wenn auch recht plastische Art unter diesem Namen - heute sind es mehrere, die nicht immer leicht auseinanderzuhalten sind. 
-
 
 [Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)  
 
@@ -32,18 +41,6 @@ footer_scripts:
 Wenn auf der Rasenfläche bei der Evangelischen Markusgemeinde in Offenbach Pilze wachsen, bleibt es Daniela Toller nicht lange verborgen. Jetzt hat sie den Kegeligen Saftling entdeckt und der ist es wert, aktueller [Fundkorbpilz](AA "Glossar-") zu sein. Nicht zuletzt, weil er dort nahezu massenhaft erschienen ist. Fast alle Saftlingsarten sind in ihrem Bestand gefährdet, weil ihre Biotope zerstört werden. Manche flüchten in die Mitte von Großstädten, weil ihnen intensiv betriebene Landwirtschaft dorthin nicht folgen kann.
 
 [Mehr lesen >](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling) 
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phallus_impudicus_03_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-15.06.2021:  Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, den jeder kennt und den man riecht, bevor man ihn sieht. Die Stinkmorchel hat ihren wissenschftlichen Namen *Phallus impundicus* 1753 vom berühmten schwedischen Naturforscher Carl von Linné erhalten, der sich dabei von der Form des ausgewachsenen Fruchtkörpers hat inspirieren lassen. Der Pilz entwickelt sich aus einem weißen schwabbeligen Hexenei, das noch nicht stinkt und sogar roh essbar ist, zumindest die weißen Teile im Inneren, aus denen dann der Stiel entsteht. Auffallend ist, dass sein erstes Erscheinen als Anzeichen für den Beginn allgemeinen Pilzwachstums gewertet werden kann. In diesem Jahr und im Rhein-Main-Gebiet dürfte das ausnahmsweise nicht zutreffen. Wir stehen gerade am Anfang einer staubtrockenen Hitzewelle, die weder den Pilzen noch dem Wald gut tun wird.
-
-[Mehr lesen >](/pilze/phallus-impudicus-stinkmorchel)
 
 <div style="clear:  both"></div>
 
