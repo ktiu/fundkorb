@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/boletus_calopus_02_xx.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-19.06.2021: Pilzfreund Bernhard ist heute im Spessart gewesen und hat unseren aktuellen [Fundkorbpilz](AA "Glossar-") gefunden. Der Schönfußröhrling ist wirklich ein schöner, schmeckt aber bitter und ist daher kein Speisepilz. Roh gegessen wäre er sogar giftig und höchst unverträglich. Im Flachland ist er extrem selten, in Mittelgebirgslagen schon eher anzutreffen, im (sub)alpinen Bereich ein ansässiger Bewohner. Seine bevorzugten Baumpartner sind Fichten und Buchen.
+19.06.2021: Pilzfreund Bernhard ist heute im Spessart gewesen und hat unseren aktuellen [Fundkorbpilz](AA "Glossar-") gefunden. Der [Schönfußröhrling](/pilze/boletus-calopus-schönfußröhrling) ist wirklich ein schöner, schmeckt aber bitter und ist daher kein Speisepilz. Roh gegessen wäre er sogar giftig und höchst unverträglich. Im Flachland ist er extrem selten, in Mittelgebirgslagen schon eher anzutreffen, im (sub)alpinen Bereich ein ansässiger Bewohner. Seine bevorzugten Baumpartner sind Fichten und Buchen.
 
 <div style="clear:  both"></div>
 
