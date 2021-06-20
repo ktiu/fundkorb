@@ -31,6 +31,16 @@ In der Sektion Kammtäublinge werden vier Arten und ein „Phantom“ geführt. 
 
 **Großer Kammtäubling** = Russula sororia: Geruch nach Camembert, Geschmack scharf, aber nicht brennend scharf. Habitus ähnlich dem des Camembert-Täublings, aber größer und festfleischiger. Sehr selten (sollte vor einer Fundmeldung zur Absicherung unbedingt mikroskopiert werden).
 
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_insignis_03_bm.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Russula insignis = Milder Kammtäubling): KOH-Reaktion amStielgrund (Foto: Bernd Miggel)" %}
+
+Natürlich hat man bei Pilzexkursionen oder Waldspaziergängen nicht jedes Mal chemische Reagenzien dabei, aber sie können in manchen Fällen hilfreich und entscheidend sein, um einen zweifelhaften Fund zu klären. Dies ist auch beim Milden Kammtäubling der Fall. Wenn man bei ihm  Stielbasis oder Hutrand mit Kalilauge (KOH) betupft, entsteht eine spontane Feuerrot-Verfärbung, die schnell verblasst. Damit ist er sicher gegen ähnliche Arten (z. B. Kratzender Kammtäubling oder Camembert-Täubling abzugrenzen. Diese Reaktion ist auch bei zwei weiteren Russula-Arten (Ocker- und  Wieseltäubling) zu beobachtent, so dass diese ebenfalls sicher von verwechselbaren Verwandten unterscheidbar sind. Mit KOH getestete Fruchtkörper sollte man natürlich nicht mehr verzehren.
+
+- - -
+
 Dank seines angenehm milden Geschmacks wäre der Milde Kammtäubling die einzige zu Speisezwecken geeignete Art dieser Gruppe, was aufgrund ihrer Seltenheit aber nicht von praktischer Bedeutung ist.
 
 <div class="table-responsive">
@@ -54,5 +64,3 @@ Dank seines angenehm milden Geschmacks wäre der Milde Kammtäubling die einzige
     </tr>
   </table>
 </div>
-
-
