@@ -31,6 +31,10 @@ Im Schnitt durch den Fruchtkörper zeigt Stereum insignitum eine braune Behaarun
 {% include bild.html datei="/bilder/stereum_subtomentosum_04_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. oben: Stereum insignitum -- unten: Stereum subtomentosum (jeweils rechts: Schichtung im Schnitt; 2 Fotos: Bernd Miggel)" %}
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/stereum_insignitum_07_bm.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Stereum insignitum, Hymenialschicht = Basidien und Cheilozystiden (Mikrofoto: Bernd Miggel)" %}
+
 Außerdem färbt sich die Unterseite von Stereum subtomentosum beim Reiben mit befeuchtetem Finger gelb, die von Stereum insignitum jedoch nicht. Dieser Test funktioniert nur bei frisch gewachsenen Fruchtkörpern.  Sollten immer noch Zweifel bleiben, muss das Mikroskop ran. Im Gegensatz zum Samtigen Schichtpilz besitzt der Braunsamtige sogenannte [Acanthozystiden](Acanthozystiden "Glossar").
 
 **Schlüssel für mitteleuropäische Stereum-Arten von Bernd Miggel**
@@ -99,8 +103,6 @@ Außerdem färbt sich die Unterseite von Stereum subtomentosum beim Reiben mit b
 </tr>
 </table>
 </div>
-
-
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/stereum_insignitum_02_wp.jpg" nocrop=true %}
