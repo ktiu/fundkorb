@@ -39,6 +39,8 @@ In der Sektion Kammtäublinge werden vier Arten und ein „Phantom“ geführt. 
 
 Natürlich hat man bei Pilzexkursionen oder Waldspaziergängen nicht jedes Mal chemische Reagenzien dabei, aber sie können in manchen Fällen hilfreich und entscheidend sein, um einen zweifelhaften Fund zu klären. Dies ist auch beim Milden Kammtäubling der Fall. Wenn man bei ihm  Stielbasis oder Hutrand mit Kalilauge (KOH) betupft, entsteht eine spontane Feuerrot-Verfärbung, die schnell verblasst. Damit ist er sicher gegen ähnliche Arten (z. B. Kratzender Kammtäubling oder Camembert-Täubling abzugrenzen. Diese Reaktion ist auch bei zwei weiteren Russula-Arten (Ocker- und  Wieseltäubling) zu beobachtent, so dass diese ebenfalls sicher von verwechselbaren Verwandten unterscheidbar sind. Mit KOH getestete Fruchtkörper sollte man natürlich nicht mehr verzehren.
 
+<div style="clear:  both"></div>
+
 - - -
 
 Dank seines angenehm milden Geschmacks wäre der Milde Kammtäubling die einzige zu Speisezwecken geeignete Art dieser Gruppe, was aufgrund ihrer Seltenheit aber nicht von praktischer Bedeutung ist.
