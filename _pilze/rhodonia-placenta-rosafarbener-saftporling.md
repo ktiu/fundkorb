@@ -15,11 +15,9 @@ hauptbild:
 literatur:
   - url: https://www.nationalpark-schwarzwald.de/de/nationalpark/blog/2020/pdm/der-rosafarbene-saftporling
 ---
-
-
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/rhodonia_placenta_01_bm.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/rhodonia_placenta_02_bm.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/rhodonia_placenta_01_bm.jpg" gross=true %}
+{% include bild.html datei="/bilder/rhodonia_placenta_02_bm.jpg" gross=true %}
 {% include abbildung_ende.html legende="Das rechte Foto zeit die Poren in starker Vegrößerung" %}
 
 Mitte Oktober 2020 fiel mir im NSG Waldmoor-Torfstich bei Oberreichenbach, Baden-Württemberg, ein Porling mit fast schreiender lachs- bis rosenroter Farbe auf, den ich als Rosafarbenen Saftporling bestimmen konnte.
