@@ -28,7 +28,7 @@ Die Sporen lassen sich leicht gewinnen, indem man ein Stück eines Fruchtkörper
 L x Bav: 5,3-5,7 x 2,3-2,4 µm, Qav: 2,25-2,48 mit Länge L, Breite B, Schlankheitsgrad Q = L/V, av Index für Durchschnitt (average).
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="" nocrop=true %}
+{% include bild.html datei="/bilder/rhodonia_placenta_06_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/rhodonia_placenta_04_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/rhodonia_placenta_05_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: Sporen -- Abb. Mitte: 3 Basidien mit je vier Sterigmen, gefärbt in Kongorot -- Abb. rechts: Hyphensystem monomitisch aus generativen Hyphen; im Bild eine Hyphe mit deutlicher Schnalle (Präparat in SDS-Kongorot)" %}
