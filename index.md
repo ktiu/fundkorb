@@ -14,6 +14,8 @@ footer_scripts:
 
 - - -
 
+
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_calopus_02_xx.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
@@ -31,18 +33,6 @@ footer_scripts:
 18.06.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Waldfreundrübling Gymnopus dryophilus. Sein hübsch klingender deutscher Name ist vermutlich die etwas freie Übersetzung seines wissenschaftlichen Artnamens *dryophilus* (baumliebend). *Wer Bäume liebt, ist ein Freund des Waldes.* Für den Pilzfreund ist der Umgang mit ihm nicht mehr so einfach wie es früher einmal war. Da gab es eine einzige wenn auch recht plastische Art unter diesem Namen - heute sind es mehrere, die nicht immer leicht auseinanderzuhalten sind. 
 
 [Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)  
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrocybe_conica_08_dt.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-Wenn auf der Rasenfläche bei der Evangelischen Markusgemeinde in Offenbach Pilze wachsen, bleibt es Daniela Toller nicht lange verborgen. Jetzt hat sie den Kegeligen Saftling entdeckt und der ist es wert, aktueller [Fundkorbpilz](AA "Glossar-") zu sein. Nicht zuletzt, weil er dort nahezu massenhaft erschienen ist. Fast alle Saftlingsarten sind in ihrem Bestand gefährdet, weil ihre Biotope zerstört werden. Manche flüchten in die Mitte von Großstädten, weil ihnen intensiv betriebene Landwirtschaft dorthin nicht folgen kann.
-
-[Mehr lesen >](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling) 
-
-<div style="clear:  both"></div>
 
 - - -
 
