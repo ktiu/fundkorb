@@ -14,7 +14,15 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/kretschmaria_deusta_03_gb.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
 
+22.06.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") hat weder Lamellen noch Röhren. Die Trockenheit der letzten Woche hat leider das Pilzwachstum so ziemlich auf Null reduziert. Trotzdem geht noch was, wenn man auf Pilze an Holz achtet. Da ist zur Zeit in fast jedem Wald der Brandkrustenpilz zu sehen. Die hellen Zuwachszonen auf schwarzer Kruste stellen das sogenannte Konidienstadium des Pilzes dar, in dem die ungeschlechtlichen Konidiensporen gebildet. Ungeschlechtlich heißt: was daraus entsteht, sind lauter Klone.
+
+[Mehr lesen >](/pilze/kretzschmaria-deusta-brandkrustenpilz)
+
+- - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_calopus_02_xx.jpg" nocrop=true %}
