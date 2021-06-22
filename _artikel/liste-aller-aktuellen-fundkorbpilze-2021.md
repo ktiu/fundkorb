@@ -2,16 +2,17 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
+22.06.2021 [Kretzschmaria deusta - Brandkrustenpilz](/pilze/kretzschmaria-deusta-brandkrustenpilz)  
 19.06.2021 [Boletus calopus - Schönfußröhrling](/pilze/boletus-calopus-schönfußröhrling)\
-18.06.2021 [Gymnopus dryophilus - Waldfreundrübling](/pilze/gymnopus-dryophilus-waldfreundrübling)\
+18.06.2021 [Gymnopus dryophilus - Waldfreundrübling](/pilze/gymnopus-dryophilus-waldfreundrübling)
+
 16.06.2021 [Hygrocybe conica - Kegeliger Saftling](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)\
 15.06.2021 [Phallus impudicus - Stinkmorchel](/pilze/phallus-impudicus-stinkmorchel)\
 14.06.2021 [Rickenella fibula - Orangeroter Heftelnabeling](/pilze/rickenella-fibula)\
 13.06.2021 [Arachnopeziza aurelia - Goldgelbes Spinnwebbecherchen](<13.06.2021  Arachnopeziza aurelia - Goldgelbes Spinnwebbecherchen>)\
 12.06.2021 [Cantharllus cibarius - Pfifferling](/pilze/cantharellus-cibarius-pfifferling)\
 11.06.2021 [Amanita rubescens - Perlpilz](/pilze/amanita-rubescens-perlpilz)\
-10.06.2021 [Taphrina pruni - Pflaumen-Narrentasche](/pilze/taphrina-pruni-pflaumen-narrentasche)
-
+10.06.2021 [Taphrina pruni - Pflaumen-Narrentasche](/pilze/taphrina-pruni-pflaumen-narrentasche)  
 09.06.2021 [Hypholoma fasciculare - Grünblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)\
 07.06.2021 [Volvarielle gloiocephala - Großer Scheidling](/pilze/volvariella-gloiocephala-großer-scheidling)\
 05.06.2021 [Megacollybia platyphylla - Breitblättriger Holzrübling](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)\
