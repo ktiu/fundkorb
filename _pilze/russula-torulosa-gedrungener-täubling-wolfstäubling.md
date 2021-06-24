@@ -42,6 +42,10 @@ Ein Huthaut-Quetschpräparat der Epikutis in Sulfovanillin zeigt unmittelbar die
 {% include bild.html datei="/bilder/russula_torulosa_05_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Sporen -- Pileozystiden der Huthaut" %}
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_torulosa_06_xx.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="REM-Fotos: Stefan Diller (REM = Rasterelektronenmikroskop)" %}
+
 Die Sporen sind ellipsoid, warzig-gratig-teilnetzig, die Ornamentation ist bis 0,55 µm hoch. Ornamentation und Hilarfleck sind stark amyloid, färben sich also in Melzers Reagenz stark blauschwarz bis schwarz an. Mittlere Sporenwerte (es wird das 95 % Vertrauensintervall zu Grunde gelegt): LxB(av) 8.1-8.5 x 6.6-6.8 µm, Q(av) 1.21-1.27, V(av) 183-205 µm3.
 Hierin sind Q = Schlankheitsgrad = Länge / Breite, V = Volumen, av = Durchschnittswert (average).
 
