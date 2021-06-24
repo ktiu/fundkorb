@@ -18,7 +18,7 @@ Im Rhein-Main-Gebiet wird man diesen farbenprächtigen Pilz kaum finden. Seine V
 {% include bild.html datei="/bilder/hymenochaete_cruenta_02_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Foto: Bernd Miggel" %}
 
-Bei einem Ausflug ins Monbachtal im nördlichen Schwarzwald habe ich im Februar 2009 den attraktiven Pilz zum ersten und bisher einzigen Mal gesehen und Günther Breidert hat ihn fotografiert. Solche Glücksfälle erlebt man nur, wenn man zum richtigen Zeitpunkt am richtigen Ort ist. Ein Blick auf die [DGfM-Kartierungskarte](http://www.pilze-deutschland.de/organismen/hymenochaete-cruenta-pers-fr-donk-1959) zeigt jedoch, dass der Schwarzwald reichlich mit Fundnachweisen gesegnet ist. 
+Bei einem Ausflug ins Monbachtal im nördlichen Schwarzwald habe ich im Februar 2009 den attraktiven Pilz zum ersten und bisher einzigen Mal gesehen und Günther Breidert hat ihn fotografiert. Solche Glücksfälle erlebt man nur, wenn man zum richtigen Zeitpunkt am richtigen Ort ist. Ein Blick auf die [DGfM-Kartierungskarte](http://www.pilze-deutschland.de/organismen/hymenochaete-cruenta-pers-donk-1959-1) zeigt jedoch, dass der Schwarzwald reichlich mit Fundnachweisen gesegnet ist. 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hymenochaete_cruenta_03_bm.jpg" nocrop=true %}
