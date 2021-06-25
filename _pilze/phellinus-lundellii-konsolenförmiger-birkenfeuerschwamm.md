@@ -23,7 +23,7 @@ Die Rote Liste gefährdeter Pilze Deutschlands führt die Art in der Kategorie D
 
 Die Fruchtkörperform reicht von konsolenförmig bis [resupinat](resupinat "Glossar"). Auffallend sind die wie schwarz geteert aussehenden Oberseiten der Fruchtkörper. Das [Hymenophor](Hymenophor "Glossar") ist etwa milchkaffeebraun und wirkt aufgrund der Feinporigkeit samtig.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/phellinus_lundellii_02_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/phellinus_lundellii_03_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: Poren ca. 4 pro mm  --  Abb. rechts: 4-sporige Basidien und dornenförmige Hymenialseten" %}
