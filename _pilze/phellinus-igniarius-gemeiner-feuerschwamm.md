@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Gemeiner Feuerschwamm, Weidenfeuerschwamm
   referenz: "(L.) Quél. 1886 "
   erlaeuterung: igniarius = feuerrot, feurig
-  synonym: Phellinus trivialis
+  synonym: "Synonym: Phellinus trivialis"
   familie: Hymenochaetaceae
 profil:
   aktualisiert: 2020-08-11
