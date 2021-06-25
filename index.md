@@ -15,6 +15,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/conocybe_lactea_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 25.06.2021: Nach leichten Regenfällen setzt auch in unserem Carré wieder Pilzwachstum ein. Unter den Schnellstartern auf den Rasenflächen ist neben Düngerlingen, Ackerlingen und kleinen Rötlingen natürlich auch das [Milchweiße Samthäubchen (Conocybe lactea)](/pilze/conocybe-lactea-milchweißes-samthäubchen). Typisch für den zarten Pilz sind Hutform und -farbe, die Gattungszugehörigkeit erahnt man aufgrund der Lamellen- und Sporenpulverfarbe.
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/kretschmaria_deusta_03_gb.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
@@ -31,16 +39,6 @@ footer_scripts:
 19.06.2021: Pilzfreund Bernhard ist heute im Spessart gewesen und hat unseren aktuellen [Fundkorbpilz](AA "Glossar-") gefunden. Der [Schönfußröhrling](/pilze/boletus-calopus-schönfußröhrling) ist wirklich ein schöner, schmeckt aber bitter und ist daher kein Speisepilz. Roh gegessen wäre er sogar giftig und höchst unverträglich. Im Flachland ist er extrem selten, in Mittelgebirgslagen schon eher anzutreffen, im (sub)alpinen Bereich ein ansässiger Bewohner. Seine bevorzugten Baumpartner sind Fichten und Buchen.
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/gymnopus_dryophilus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.06.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Waldfreundrübling Gymnopus dryophilus. Sein hübsch klingender deutscher Name ist vermutlich die etwas freie Übersetzung seines wissenschaftlichen Artnamens *dryophilus* (baumliebend). *Wer Bäume liebt, ist ein Freund des Waldes.* Für den Pilzfreund ist der Umgang mit ihm nicht mehr so einfach wie es früher einmal war. Da gab es eine einzige wenn auch recht plastische Art unter diesem Namen - heute sind es mehrere, die nicht immer leicht auseinanderzuhalten sind. 
-
-[Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)  
 
 - - -
 
