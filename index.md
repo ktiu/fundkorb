@@ -15,6 +15,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/scutellinia_crinita_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Unser aktueller [Fundkorbpilz](AA "Glossar-") ist was für Naturfreunde, die sich gern Objekte mit der Lupe betrachten. Im Falle von Scutellinia crinita (Sumpfschildborstling) mussten wir erstmal im Wasser liegende Holzteile bergen. Die größten der roten Fruchtkörperchen maßen etwa 5 mm im Durchmesser und waren mit bloßem Auge zu erkennen. Ihre wahre Schönheit erschloss sich aber erst bei starker Vergrößerung und dabei fiel auf, dass die dunkle Randbehaarung aus einer Reihe mit kurzen und einer zweiten mit deutlich längeren Borsten besteht. Bei den ganz jungen Schüsselchen waren sie noch nicht aufgerichtet. Es gibt etwa 30 mitteleuropäische Schildborstlinge, die alle nur anhand mikroskopischer Merkmale sicher zu bestimmen sind.
+
+[Mehr lesen und schauen >](/pilze/scutellinia-crinita-bewimperter-schildborstling-sumpfschildborstling)
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/conocybe_lactea_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,16 +39,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 25.06.2021: Nach leichten Regenfälle
 22.06.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") hat weder Lamellen noch Röhren. Die Trockenheit der letzten Woche hat leider das Pilzwachstum so ziemlich auf Null reduziert. Trotzdem geht noch was, wenn man auf Pilze an Holz achtet. Da ist zur Zeit in fast jedem Wald der Brandkrustenpilz zu sehen. Die hellen Zuwachszonen auf schwarzer Kruste stellen das sogenannte Konidienstadium des Pilzes dar, in dem die ungeschlechtlichen Konidiensporen gebildet werden. Ungeschlechtlich heißt: was daraus entsteht, sind lauter Klone.
 
 [Mehr lesen >](/pilze/kretzschmaria-deusta-brandkrustenpilz)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_calopus_02_xx.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-19.06.2021: Pilzfreund Bernhard ist heute im Spessart gewesen und hat unseren aktuellen [Fundkorbpilz](AA "Glossar-") gefunden. Der [Schönfußröhrling](/pilze/boletus-calopus-schönfußröhrling) ist wirklich ein schöner, schmeckt aber bitter und ist daher kein Speisepilz. Roh gegessen wäre er sogar giftig und höchst unverträglich. Im Flachland ist er extrem selten, in Mittelgebirgslagen schon eher anzutreffen, im (sub)alpinen Bereich ein ansässiger Bewohner. Seine bevorzugten Baumpartner sind Fichten und Buchen.
-
-<div style="clear:  both"></div>
 
 - - -
 
