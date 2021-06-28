@@ -19,14 +19,19 @@ hauptbild:
 
 Die Gattung der Schildborstlinge gehört mit etwa 30 mitteleuropäischen Arten zu den Schlauchpilzen (Ascomyzeten). Um sie sicher zu unterscheiden, müssen ökologische und vor allem mikroskopische Merkmale beachtet werden.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/scutellinia_crinita_03_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/scutellinia_crinita_04_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
 Der hier gezeigte Bewimperte Schildborstling wuchs auf im Wasser liegendem Holz. Die tellerförmigen Apothecien hatten etwa 8 mm Durchmesser und waren wie bei allen Vetretern der artenreichen Gattung Scutellinia (z. Zt. weltweit 125 Arten) lebhaft orange bis rot gefärbt. Unsere Kollektion bestand aus etwa einem Dutzend Fruchtkörpern mit unterschiedlich langer Behaarung. Die kürzeren Mittelhaare maßen bis ca. 0,6 mm, die deutlich längeren aufrecht stehenden bis 2 mm.
 
-Entscheidend für die Bestimmung waren die von Hermine Lotz-Winter festegestellten Mikromerkmale:  
-**Sporen** (nicht völlig reif): 18 - 20 x 12 -13 µm, ellipsoid, mit abgerundeten (nicht spitzen) Enden, Warzen unter 0,5 µm hoch, teils zusammenfließend oder mit schmalen Graten  
+Entscheidend für die Bestimmung waren die von Hermine Lotz-Winter festegestellten Mikromerkmale:\
+**Sporen** (nicht völlig reif): 18 - 20 x 12 -13 µm, ellipsoid, mit abgerundeten (nicht spitzen) Enden, Warzen unter 0,5 µm hoch, teils zusammenfließend oder mit schmalen Graten\
 **Haare:** an der Basis mehrfach geteilt, dickwandig, bis 5 µm breit
 
-An Bestimmungsliteratur wurde verwendet:  
-**Trond Schumacher:** The Genus Scutellinia, Opera Botanica 101, Copenhagen 1990  
+An Bestimmungsliteratur wurde verwendet:\
+**Trond Schumacher:** The Genus Scutellinia, Opera Botanica 101, Copenhagen 1990\
 **Henk Huijser:** Het geslacht Wimperzwam \[Scutellinia (Cooke(Lamb.)] in Nederland, Eigenverlag unterstützt durch die Nederlandse Mycologische Vereniging, 2020
 
 Anmerkung von Hermine Lotz-Winter:
