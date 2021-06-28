@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/scutellinia_crinita_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Unser aktueller [Fundkorbpilz](AA "Glossar-") ist was für Naturfreunde, die sich gern Objekte mit der Lupe betrachten. Im Falle von Scutellinia crinita (Sumpfschildborstling) mussten wir erstmal im Wasser liegende Holzteile bergen. Die größten der roten Fruchtkörperchen maßen etwa 5 mm im Durchmesser und waren mit bloßem Auge zu erkennen. Ihre wahre Schönheit erschloss sich aber erst bei starker Vergrößerung und dabei fiel auf, dass die dunkle Randbehaarung aus einer Reihe mit kurzen und einer zweiten mit deutlich längeren Borsten besteht. Bei den ganz jungen Schüsselchen waren sie noch nicht aufgerichtet. Es gibt etwa 30 mitteleuropäische Schildborstlinge, die alle nur anhand mikroskopischer Merkmale sicher zu bestimmen sind.
+Unser aktueller [Fundkorbpilz](AA "Glossar-") ist was für Naturfreunde, die sich gern Objekte mit der Lupe betrachten. Im Falle von Scutellinia crinita (Sumpfschildborstling) mussten wir erstmal im Wasser liegende Holzteile bergen. Die größten der roten Fruchtkörperchen maßen etwa 5 mm im Durchmesser und waren mit bloßem Auge zu erkennen. Ihre wahre Schönheit erschloss sich aber erst bei starker Vergrößerung und dabei fiel auf, dass die dunkle Randbehaarung aus einer Reihe mit kurzen und einer zweiten mit deutlich längeren Borsten besteht. Bei den ganz jungen Schüsselchen waren sie noch nicht aufgerichtet. Es gibt etwa 30 mitteleuropäische Schildborstlinge, die nur anhand mikroskopischer Merkmale sicher zu bestimmen sind.
 
 [Mehr lesen und schauen >](/pilze/scutellinia-crinita-bewimperter-schildborstling-sumpfschildborstling)
 
