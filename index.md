@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_subtomentosus_02_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+30.06.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Ziegenlippe. Für Speisepilzsammler, die es mit der Bestimmung nicht so genau nehmen, landet sie unter dem Sammelbegriff "Marone" im Korb. Sie vertrauen darauf, dass es unter den Röhrlingen keine tödlich giftigen Arten gibt. Die aktuelle Ziegenlippe war allerdings schon vergammelt und blieb im Wald. Das Foto zeigt eine aus meinem Archiv. Übrigens: mit der Speisepilzqualität von Maronen können Ziegenlippen nicht mithalten.
+
+[Mehr lesen >](/pilze/xerocomus-subtomentosus-ziegenlippe) 
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/scutellinia_crinita_03_dg.jpg" %}
 {% include abbildung_ende.html %}
