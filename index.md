@@ -10,7 +10,7 @@ footer_scripts:
 ---
 - - -
 
-##### Aufgrund der aktuellen Corona-Situation wird es bis auf weiteres keine pilzkundlichen Führungen geben.
+##### Corona-Lockerungen und Regen im Rhein-Main-Gebiet machen es möglich: es gibt wieder [Termine für pilzkundlichen Führungen](/termine).
 
 - - -
 
