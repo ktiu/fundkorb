@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/s/Stereum_rameale.html
 ---
-Das Foto zeigt die typische Wuchsweise des Ästchen-Schichtpilzes: reihig an dünneren Eichenästchen und -zweigen, wobei sich Ober- und Unterseite deutlich unterscheiden. Die Oberseite der abstehenden Hutkanten ist weißlich bis gelblich grau gefärbt und fühlt sich filzig bis struppig an. Die Zuwachsränder sind stets weiß. Die glatte aber oft runzelige Unterseite ([Hymenium](Hymenium "Glossar")) ist beige- bis ockerfarben und färbt sich durch Reiben oder Ritzen nicht rot.
+Das Foto zeigt die typische Wuchsweise des Ästchen-Schichtpilzes: reihig an dünneren Eichenästchen und -zweigen, wobei sich Ober- und Unterseite deutlich unterscheiden. Die Oberseite der abstehenden Hutkanten ist weißlich bis gelblich grau gefärbt und fühlt sich filzig bis struppig an. Die Zuwachsränder sind stets weiß. Die glatte aber oft runzelige Unterseite ([Hymenium](Hymenium "Glossar")) ist beige- bis ockerfarben und färbt sich durch Reiben oder Ritzen <ins>nicht</ins> rot.
 
 Um Schichtpilze sicher zu bestimmen, sollte man frisch gewachsene Exemplare zur Verfügung haben und die innere Schichtung durch einen Schnitt sichtbar machen.
 
