@@ -91,3 +91,5 @@ Die Abbildung zeigt, dass zwischen Haarfilz und bräunlicher [Trama](Trama "Glos
 </tr>
 </table>
 </div>
+
+Der Ästchen-Schichtpilz ist eine einjährige aber überwinternde Art und mäßig häufig, nach meiner Beobachtung mit rückläufiger Tendenz. Im befallenen Holz verursacht er eine Weißfäule, das heißt, er zersetzt vor allem Lignin (aber auch teilweise Zellulose) und ist daher entscheidend an einem Recycling-Prozess beteiligt, an dessen Ende das Totholz verschwunden sein wird.
