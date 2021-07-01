@@ -27,8 +27,8 @@ published: true
 {% include abbildung_ende.html %}
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/boletus_edulis_01_dg.jpg" %}
-{% include bild.html datei="/bilder/boletus_edulis_02_dg.jpeg" %}
+{% include bild.html datei="/bilder/boletus_edulis_01_dg.jpg" gross=true %}
+{% include bild.html datei="/bilder/boletus_edulis_02_dg.jpeg" gross=true %}
 {% include abbildung_ende.html %}
 
 Um für klare Verhältnisse zu sorgen: <ins>Den</ins> Steinpilz gibt es nicht. Vier verschiedene Arten kommen in Mitteleuropa vor, die nicht leicht auseinanderzuhalten sind. Für die Küche ist das ohne Belang. Sie schmecken alle gleich gut. 
