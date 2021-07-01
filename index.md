@@ -15,6 +15,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopus_fusipes_03_he.jpg" %}
+{% include abbildung_ende.html %}
+
+01.07.2021: Der [Spindelige Rübling Gymnopus fusipes](/pilze/gymnopus-fusipes-spindeliger-rübling), unser aktueller [Fundkorbpilz](AA "Glossar-"), fällt durch sein meist büscheliges Wachstum am Stammgrund von lebenden oder auch toten Eichen auf. Gelegentlich kommt er an Stümpfen und auch einzeln wachsend oder an anderen Laubbaumarten vor. Sein nicht gerade apptitliches Aussehen lädt kaum zum Pflücken und Braten ein, aber manche behaupten, er schmecke besser als er aussieht, was freilich nicht viel besagen will. Vor allem beim Altern wird er zunehmend fleckiger und unansehnlicher. Die Zeichnung von Heiner Englert stellt ihn so treffend dar, dass man sofort eine Vorstellung davon hat, was mit dem Namen "spindelig" gemeint ist und man den Pilz auf Anhieb wiedererkennen kann.
+
+<div style="clear: both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_subtomentosus_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
@@ -33,24 +43,6 @@ footer_scripts:
 Unser aktueller [Fundkorbpilz](AA "Glossar-") ist was für Naturfreunde, die sich gern Objekte mit der Lupe betrachten. Im Falle von Scutellinia crinita (Sumpfschildborstling) mussten wir erstmal im Wasser liegende Holzteile bergen. Die größten der roten Fruchtkörperchen maßen etwa 5 mm im Durchmesser und waren mit bloßem Auge zu erkennen. Ihre wahre Schönheit erschloss sich aber erst bei starker Vergrößerung und dabei fiel auf, dass die dunkle Randbehaarung aus einer Reihe mit kurzen und einer zweiten mit deutlich längeren Borsten besteht. Bei den ganz jungen Schüsselchen waren sie noch nicht aufgerichtet. Es gibt etwa 30 mitteleuropäische Schildborstlinge, die nur anhand mikroskopischer Merkmale sicher zu bestimmen sind.
 
 [Mehr lesen und schauen >](/pilze/scutellinia-crinita-bewimperter-schildborstling-sumpfschildborstling)
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/conocybe_lactea_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 25.06.2021: Nach leichten Regenfällen setzt auch in unserem Carré wieder Pilzwachstum ein. Unter den Schnellstartern auf den Rasenflächen ist neben Düngerlingen, Ackerlingen und kleinen Rötlingen natürlich auch das [Milchweiße Samthäubchen (Conocybe lactea)](/pilze/conocybe-lactea-milchweißes-samthäubchen). Typisch für den zarten Pilz sind Hutform und -farbe, die Gattungszugehörigkeit erahnt man aufgrund der Lamellen- und Sporenpulverfarbe.
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/kretschmaria_deusta_03_gb.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-22.06.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") hat weder Lamellen noch Röhren. Die Trockenheit der letzten Woche hat leider das Pilzwachstum so ziemlich auf Null reduziert. Trotzdem geht noch was, wenn man auf Pilze an Holz achtet. Da ist zur Zeit in fast jedem Wald der Brandkrustenpilz zu sehen. Die hellen Zuwachszonen auf schwarzer Kruste stellen das sogenannte Konidienstadium des Pilzes dar, in dem die ungeschlechtlichen Konidiensporen gebildet werden. Ungeschlechtlich heißt: was daraus entsteht, sind lauter Klone.
-
-[Mehr lesen >](/pilze/kretzschmaria-deusta-brandkrustenpilz)
 
 - - -
 
