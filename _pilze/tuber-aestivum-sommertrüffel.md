@@ -39,7 +39,7 @@ Doch Spaß beiseite: tatsächlich wird Herr L. zum glücklichen Trüffelschwein,
 {% include bild.html datei="/bilder/tuber_aestivum_06_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Alternative Verbreitungskarte der Sommertrüffel -- Die Rödelheimer Trüffeln" %}
 
-Dies ist übrigens bereits der zweite Trüffelfund im Frankfurter Stadtgebiet, von dem ich Kenntnis habe. Die Geschichte des ersten begann am Sonntag, dem 13. Juli 2014. Die Mail, die ich um 22:38 Uhr erhielt, entpuppte sich schnell als besonderes High Light:
+Die Geschichte des ersten begann am Sonntag, dem 13. Juli 2014. Die Mail, die ich um 22:38 Uhr erhielt, entpuppte sich schnell als besonderes High Light:
 
 > *Sehr geehrter Herr Gewalt, Ihre E-Mail Adresse habe ich aus Ihrer Website. Mit sehr viel Interesse gelesen... Ich benötige Ihr fachkundiges Wissen. Ich habe im Garten meiner Eltern einen Pilz gefunden. Ich vermute, es handelt sich um den 'Sommertrüffel', dennoch benötige ich Ihre fachliche Einschätzung. Wie, wann und wo kann ich bei Ihnen einen Termin erhalten? Kosten für Ihre Beratung? Reicht auch ein Bild aus?    Mit freundlichen Grüßen  J. P."*
 
