@@ -12,7 +12,7 @@ footer_scripts:
 
 ##### Corona-Lockerungen und Regen im Rhein-Main-Gebiet machen es möglich: es gibt wieder [Termine für pilzkundliche Führungen](/termine).
 
-Unser Termin 03.07. 10:00 Uhr ist in Gefahr. Es drohen Gewitter. Ob die Exkursion stattfinden kann, sehen Sie bis spätestens 8:30 Uhr an dieser Stelle.
+Unser heutiger Termin 10:00 Uhr: Die Exkursion findet statt.
 
 - - -
 
