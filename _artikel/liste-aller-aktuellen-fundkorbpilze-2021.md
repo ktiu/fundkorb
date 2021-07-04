@@ -2,14 +2,16 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-01.07.2021 [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)  
+04.07.2021 [Amanita fulva - Rotbrauner (Fuchsiger) Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)  
+01.07.2021 [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)
+
+
 30.06.2021 [Xerocomus subtomentosus - Ziegenlippe](/pilze/xerocomus-subtomentosus-ziegenlippe)\
 28.06.2021 [Scutellinia scutellata - Sumpfschildborstling](/pilze/scutellinia-crinita-bewimperter-schildborstling-sumpfschildborstling)\
 25.06.2021 [Conocybe lactea - Milchweißes Samthäubchen](/pilze/conocybe-lactea-milchweißes-samthäubchen)\
 22.06.2021 [Kretzschmaria deusta - Brandkrustenpilz](/pilze/kretzschmaria-deusta-brandkrustenpilz)\
 19.06.2021 [Boletus calopus - Schönfußröhrling](/pilze/boletus-calopus-schönfußröhrling)\
-18.06.2021 [Gymnopus dryophilus - Waldfreundrübling](/pilze/gymnopus-dryophilus-waldfreundrübling)
-
+18.06.2021 [Gymnopus dryophilus - Waldfreundrübling](/pilze/gymnopus-dryophilus-waldfreundrübling)  
 16.06.2021 [Hygrocybe conica - Kegeliger Saftling](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)\
 15.06.2021 [Phallus impudicus - Stinkmorchel](/pilze/phallus-impudicus-stinkmorchel)\
 14.06.2021 [Rickenella fibula - Orangeroter Heftelnabeling](/pilze/rickenella-fibula)\
