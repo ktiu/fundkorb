@@ -20,7 +20,7 @@ Unser heutiger Termin 10:00 Uhr: Die Exkursion findet statt.
 {% include bild.html datei="/bilder/amanita_fulva_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Unser heutiger [Fundkorbpilz](AA "Glossar-") ist der Rotbraune (Fuchsige) Scheidenstreifling. Die mit Abstand häufigste der ca. 15 in Mitteleuropa vorkommende Arten dieser Gruppe fehlt im Rhein-Main-Gebiet  wohl in keinem Wald und ist auch in Gärten, Parkanlagen und Friedhöfen zu finden. Der Name Scheidenstreifling ist eine Kurzbeschreibung der zu den Wulstlingen gehörigen Sektion Amanitopsis: Scheide = sackartige Reste der häutigen Gesamthülle am Stielgrund, die den ganz jungen Pilz komplett umhüllt + Streifen = kammartige Riefung des Hutrandes. Hinzuzufügen wäre noch, dass Scheidenstreiflinge im Gegensatz zu den übrigen Wulstlingen keinen Stielring tragen.
+Unser heutiger [Fundkorbpilz](AA "Glossar-") ist der Rotbraune (Fuchsige) Scheidenstreifling. Die mit Abstand häufigste der ca. 15 in Mitteleuropa vorkommenden Arten dieser Gruppe fehlt im Rhein-Main-Gebiet  wohl in keinem Wald und ist auch in Gärten, Parkanlagen und Friedhöfen zu finden. Der Name Scheidenstreifling ist eine Kurzbeschreibung der zu den Wulstlingen gehörigen Sektion Amanitopsis: Scheide = sackartige Reste der häutigen Gesamthülle am Stielgrund, die den ganz jungen Pilz komplett umhüllt + Streifen = kammartige Riefung des Hutrandes. Hinzuzufügen wäre noch, dass Scheidenstreiflinge im Gegensatz zu den übrigen Wulstlingen keinen Stielring tragen.
 
 [Mehr lesen >](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)
 
