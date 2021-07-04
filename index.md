@@ -12,8 +12,6 @@ footer_scripts:
 
 ##### Corona-Lockerungen und Regen im Rhein-Main-Gebiet machen es möglich: es gibt wieder [Termine für pilzkundliche Führungen](/termine).
 
-Unser heutiger Termin 10:00 Uhr: Die Exkursion findet statt.
-
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
