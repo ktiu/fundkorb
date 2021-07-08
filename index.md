@@ -14,6 +14,12 @@ footer_scripts:
 
 - - -
 
+08.07.2021: Heute ist Boletus luridus, der Netzstielige Hexenröhrling und Zwillingsbruder des Flockenstieligen, aktueller [Fundkorbpilz](AA "Glossar-"). Von seinen Freunden wird er liebevoll "Netzhexe" genannt. Dass er zusammen mit Alkohol genossen giftig sein soll, ist ein Gerücht. Beide sind gleichermaßen ausgezeichnete Speisepilze, aber das hat sich noch nicht bei allen herumgesprochen. Da sein Wachstum von kalkhaltigen Böden abhängig ist, ist er in den Wäldern des Rhein-Main-Gebiets kaum zu finden. Ganz anders sieht das in Städten und Gemeinden aus, wo Bautätigkeit oder Düngung für Kalkeintrag sorgen. So sind die Netzhexen zum Beispiel mitten in Dietzenbach oder im Frankfurter Hauptfriedhof regelmäßig zu finden.
+
+[Mehr lesen und schauen >](/pilze/boletus-luridus-netzstieliger-hexenröhrling)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trichaptum_abietinum_01_wi.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
