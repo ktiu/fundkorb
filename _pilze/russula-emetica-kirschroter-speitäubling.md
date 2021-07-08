@@ -22,13 +22,35 @@ Huthaut eher matt als glänzend und nur ca. 1 cm weit abziehbar, Charakterart in
 
 Die Fruchtkörper der drei anderen sind sehr zerbrechlich, ihre Huthaut ist eher glänzend als matt, und je nachdem ob feucht oder trocken ganz bzw. gut zur Hälfte abziehbar:
 
-In feuchten Weißtannen- und Fichtenwäldern in Sphagnum-Moosen, überwiegend montan und submontan, Huthaut fettig glänzend, dünn, kaum ausblassend, leicht abziehbar  =  Russula emetica (Kirschroter Spei¬täubling)
+In feuchten Weißtannen- und Fichtenwäldern in Sphagnum-Moosen, überwiegend montan und submontan, Huthaut fettig glänzend, dünn, kaum ausblassend, leicht abziehbar  =  Russula emetica (Kirschroter Speitäubling)
 
-Bei Kiefern, auch unter Laubbäumen, auf trockenen, sandigen Böden, Huthaut dunkelrot, aber oft stark ausblassend  =  Russula silvestris (Kiefern-Speitäubling)
+Bei Kiefern, auch unter Laubbäumen, auf trockenen, sandigen Böden, Huthaut dunkelrot, aber oft stark ausblassend  =  [Russula silvestris (Kiefern-Speitäubling)](/pilze/russula-silvestris-kiefern-speitäubling)
 
-Ausschließlich bei Birken, Huthaut meist lila oder rosalich getönt, oft stark aufhellend  =  Russula betularum (Birken-Speitäubling) 
+Ausschließlich bei Birken, Huthaut meist lila oder rosalich getönt, oft stark aufhellend  =  [Russula betularum (Birken-Speitäubling)](/pilze/russula-betularum-birken-speitäubling) 
 
 Es existiert noch ein weiterer Speitäubling, Russula fragilis, der Wechselfarbige Speitäubling, der eine andere Huthautpigmentierung aufweist und nicht zu den Speitäublingen im engeren Sinne (Sektion Emeticinae) gehört.
+
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>sehr scharf</td>
+      <td>rein weiß</td>
+      <td>fast ganz</td>
+      <td>hell rosa</td>
+       
+    </tr>
+  </table>
+</div>
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_emetica_02_gg.jpg" nocrop=true %}
