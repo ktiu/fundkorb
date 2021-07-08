@@ -20,7 +20,7 @@ Dieser Schillerporling ist leicht zu erkennen - wenn er denn seine heller oder d
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/inonotus_dryadeus_02_wp.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/inonotus_dryadeus_03_.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Abb. links: Werner Pohl hat die Guttationstropfen mit bunten Perlen verglichen -- Abb. rechts: kleine, rundliche Poren auf der Hutunterseite, bis zu 4 pro Millimeter (2 Fotos:Werner Pohl)" %}
+{% include abbildung_ende.html legende="Abb. links: Werner Pohl hat die Guttationstropfen mit bunten Perlen verglichen -- Abb. rechts: kleine, rundliche Poren auf der Hutunterseite, bis zu 4 pro Millimeter (2 Fotos: Werner Pohl)" %}
 
 Der parasitisch lebende Pilz ist einjährig und erzeugt eine Weißfäule, die den befallenen Baum schädigt und sein Absterben beschleunigen kann. Typisch für die globigen Fruchtkörper ist ihr Vorkommen am Stammgrund alter Eichen, mitunter auch an Edelkastanien. Es handelt sich um eine relativ seltene Art, die im Rhein-Main-Gebiet und hier vor allem im Frankfurter Stadtwald immer mal wieder gefunden wird.
 
