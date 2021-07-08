@@ -12,6 +12,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/russula_emetica_01_wi.jpg
+  legende: "Foto: Wikipedia"
 literatur: []
 ---
 Meinen beiden ersten Pilzbücher, die mich bei meinen frühen Exkursionen ins Reich der Pilze begleitet haben, waren Linus Zeitlmayr: Knaurs Pilzbuch (1955) und Haas/Gossner: Pilze Mitteleuropas (1964). Sie enthielten gerade mal 80 Arten und der *"Speiteufel"* wurde als im Aussehen variable Art beschrieben, die in Laub- und Nadelwäldern wächst. Später wurde *Russula emetica* in mehrere Varietäten aufgespalten, um schließlich der heutigen Auffassung Platz zu machen, dass es sich um mindestens vier eigenständige Arten handelt. Der Kirschrote Speitäubling wird nun als Charakterart der kollinen, submontanen und montanen Weißtannen- und Fichtenwälder beschrieben, die feuchte bis moorige Böden und Standorte in Sphagnum-Moospolstern bevorzugt. 
