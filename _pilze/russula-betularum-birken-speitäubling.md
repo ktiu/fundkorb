@@ -36,15 +36,13 @@ Die meisten Speitäublinge fallen durch realtiv kleine, zerbrechliche Fruchtkör
   </table>
 </div>
 
-
-
 Vereinfachter Schlüssel zu den vier im Rhein-Main-Gebiet sicher nachgewiesenen Speitäublingen, die alle sehr scharf sind und weißes Sporenpulver haben:
 
 Huthaut eher matt als glänzend und nur ca. 1 cm weit abziehbar, Charakterart in Buchenwäldern = Russula mairei (Buchen-Speitäubling)
 
 Die Fruchtkörper der drei anderen sind sehr zerbrechlich, ihre Huthaut ist eher glänzend als matt, und je nachdem ob feucht oder trocken ganz bzw. gut zur Hälfte abziehbar:
 
-In feuchten Weißtannen- und Fichtenwäldern in Sphagnum-Moosen, überwiegend montan und submontan, Huthaut fettig glänzend, dünn, kaum ausblassend, leicht abziehbar = Russula emetica (Kirschroter Speitäubling)
+In feuchten Weißtannen- und Fichtenwäldern in Sphagnum-Moosen, überwiegend montan und submontan, Huthaut fettig glänzend, dünn, kaum ausblassend, leicht abziehbar = [Russula emetica (Kirschroter Speitäubling)](/pilze/russula-emetica-kirschroter-speitäubling)
 
 Bei Kiefern, auch unter Laubbäumen, auf trockenen, sandigen Böden, Huthaut dunkelrot, aber oft stark ausblassend = [Russula silvestris](/pilze/russula-silvestris-kiefern-speitäubling) (Kiefern-Speitäubling)
 
