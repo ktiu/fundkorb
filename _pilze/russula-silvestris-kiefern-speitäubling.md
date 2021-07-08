@@ -58,7 +58,9 @@ Huthaut eher matt als glänzend und nur ca. 1 cm weit abziehbar, Charakterart in
 
 Die Fruchtkörper der drei anderen sind sehr zerbrechlich, ihre Huthaut ist eher glänzend als matt, und je nachdem ob feucht oder trocken ganz bzw. gut zur Hälfte abziehbar:
 
-In feuchten Weißtannen- und Fichtenwäldern in Sphagnum-Moosen, überwiegend montan und submontan, Huthaut fettig glänzend, dünn, kaum ausblassend, leicht abziehbar = Russula emetica (Kirschroter Speitäubling)
+In feuchten Weißtannen- und Fichtenwäldern in Sphagnum-Moosen, überwiegend montan und submontan, Huthaut fettig glänzend, dünn, kaum ausblassend, leicht abziehbar = [Russula emetica (Kirschroter Speitäubling)](/pilze/russula-emetica-kirschroter-speitäubling)
+
+
 Bei Kiefern, auch unter Laubbäumen, auf trockenen, sandigen Böden, Huthaut dunkelrot, aber oft stark ausblassend = Russula silvestris (Kiefern-Speitäubling)
 
 Ausschließlich bei Birken, Huthaut meist lila oder rosalich getönt, oft stark aufhellend = [Russula betularum](/pilze/russula-betularum-birken-speitäubling) (Birken-Speitäubling)
