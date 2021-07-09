@@ -38,7 +38,8 @@ Damit noch nicht genug und man mag es kaum glauben: in Mexiko findet die Lohblü
 
 Der Name Lohblüte bezieht sich auf die früher Gerberlohe genannte Rinde von Eichen, auf der dieser Schleimpilz oft zu finden war. Unseren Vorfahren war der Wald ein Ort, in der Hexen ihr Unwesen trieben, und nannten die Gelbe Lohblüte deshalb auch *Hexenbutter*. In England ist sie unter den Namen *Scrambled egg slime* (Rührei-Schleim), *Dog vomit slime* (Hundekotze) und *Flower of sulphu*r (Schwefelblüte) bekannt.
 
-Weitere Schleimpilze im Fundkorb:  
-[Lycogala epidendrum - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)  
-[Physarum utriculare - Fadenfruchtschleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)  
+Weitere Schleimpilze im Fundkorb:\
+[Fuligo muscorum - Moos-Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
+[Lycogala epidendrum - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
+[Physarum utriculare - Fadenfruchtschleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
 [Stemonitis axifera - Gemeines Fadenstäubchen](/pilze/stemonitis-axifera-gemeines-fadenstäubchen)
