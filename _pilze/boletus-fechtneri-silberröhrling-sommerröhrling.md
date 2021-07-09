@@ -17,7 +17,7 @@ literatur:
 ---
 Der Silberröhrling, auch Sommerröhrling genannt, ist eine Dickröhrlingsart, deren Schönheit sich erst beim zweiten Blick offenbart. Man muss ihn umdrehen, um ihn bewundern zu können.
 
-Bisher habe ich diese Art erst zweimal gefunden. Die hier gezeigten Bilder stammen aus einem Kalkbuchenwald-Biotop bei Straubenhardt-Ottenhausen in Baden-Württemberg, der verschiedene Orchideenarten und [thermophile](thermophil "Glossar") Pilzarten wie Königsröhrling, [Satansröhrling](/pilze/boletus-satanas-satansröhrling), Goldporiger Röhrling, [Wurzelnder Bitterröhrling](/pilze/boletus-radicans-wurzelnder-bitterröhrling) beherbergt.
+Bisher habe ich diese Art erst zweimal gefunden. Die hier gezeigten Bilder stammen aus einem Kalkbuchenwald-Biotop bei Straubenhardt-Ottenhausen in Baden-Württemberg, der verschiedene Orchideenarten und [thermophile](thermophil "Glossar") Pilzarten wie [Königsröhrling](/pilze/boletus-regius-königsröhrling), [Satansröhrling](/pilze/boletus-satanas-satansröhrling), Goldporiger Röhrling, [Wurzelnder Bitterröhrling](/pilze/boletus-radicans-wurzelnder-bitterröhrling) beherbergt.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/boletus_fechtneri_bm_02.jpg" nocrop=true %}
