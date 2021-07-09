@@ -12,8 +12,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/boletus_satanas_03_bh.jpg
-  legende: "09.07.2021 Bei Crumstadt (Hessisches Ried), Nähe Kiesgrube (Foto:
-    Babett Hübler)"
+  legende: 09.07.2021 Bei Crumstadt (Hessisches Ried), Nähe Kiesgrube, gefunden
+    von Babett Hübler, fotografiert von Michael Hornung
 published: true
 ---
 Die Furcht von Hobby-Pilzsammlern vor dem Satansröhrling ist groß aber unter praktischen Gesichtspunkten ziemlich unbegründet. Ein Grund: er kann zwar mehr oder weniger heftige Magen-Darmstörungen hervorrufen, hat in Deutschland aber noch keinen umgebracht. Ihn in der populären Pilzliteratur mit einem Totenkopf-Symbol zu versehen, erscheint mir reichlich übertrieben. Ein statistisch noch bedeutsamerer Grund: zu finden ist der Pilz mit dem teuflischen Namen vor allem in Pilzbüchern, in natura haben ihn nur die allerwenigsten schon einmal gesehen. Fundberichte beruhen meist auf Verwechslungen mit ähnlichen oder auch weniger ähnlichen Arten. Immer wieder wird der [Schönfußröhrling (*Boletus calopus*)](/pilze/boletus-calopus-schönfußröhrling) für einen Satansröhrling gehalten, aber auch die essbaren Hexenröhrlinge.
