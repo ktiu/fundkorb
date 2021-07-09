@@ -21,7 +21,7 @@ Der Zottige Eichenschichtpilz gehört zu den drei Schichtpilzarten, deren [Hymen
 {% include bild.html datei="/bilder/stereum_gausapatum_01_bm.jpg" %}
 {% include abbildung_ende.html legende="Foto: Bernd Miggel" %}
 
-Unter den drei rötenden Schichtpilzarten dürfte Stereum gausapatum die am wenigsten häufige sein. Der Runzelige Schichtpilz Stereum rugosum bildet resupinat wachsende Fruchtkörper mit unbehaarten, kaum oder nur wenig vom Substrat abstehenden Hutkanten, bevorzugt tote Haselstämme und -äste, ist aber auch an Erle und mitunter Buche zu finden. Ausschließlich an Nadelholz, vor allem an Fichte, wächst der Blutende Schichtpilz Stereum sanguinolentum.
+Unter den drei rötenden Schichtpilzarten dürfte Stereum gausapatum die am wenigsten häufige sein. Der *[Runzelige Schichtpilz Stereum rugosum](/pilze/stereum-rugosum-runzeliger-schichtpilz)* bildet resupinat wachsende Fruchtkörper mit unbehaarten, kaum oder nur wenig vom Substrat abstehenden Hutkanten, bevorzugt tote Haselstämme und -äste, ist aber auch an Erle und mitunter Buche zu finden. Ausschließlich an Nadelholz, vor allem an Fichte, wächst der *[Blutende Schichtpilz Stereum sanguinolentum](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)*.
 
 **Schlüssel für mitteleuropäische Stereum-Arten von Bernd Miggel**
 
