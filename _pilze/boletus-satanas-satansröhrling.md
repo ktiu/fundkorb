@@ -7,14 +7,20 @@ beschreibung:
   synonym: "Neuer Name: Rubroboletus satanas"
   erlaeuterung: satanas = Teufel
 profil:
-  aktualisiert: 2020-07-26
+  aktualisiert: 2021-07-09
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/boletus_satanas_01_dg.jpg
+  datei: /bilder/boletus_satanas_03_bh.jpg
+  legende: "09.07.2021 Bei Crumstadt (Hessisches Ried), Nähe Kiesgrube (Foto:
+    Babett Hübler)"
 published: true
 ---
 Die Furcht von Hobby-Pilzsammlern vor dem Satansröhrling ist groß aber unter praktischen Gesichtspunkten ziemlich unbegründet. Ein Grund: er kann zwar mehr oder weniger heftige Magen-Darmstörungen hervorrufen, hat in Deutschland aber noch keinen umgebracht. Ihn in der populären Pilzliteratur mit einem Totenkopf-Symbol zu versehen, erscheint mir reichlich übertrieben. Ein statistisch noch bedeutsamerer Grund: zu finden ist der Pilz mit dem teuflischen Namen vor allem in Pilzbüchern, in natura haben ihn nur die allerwenigsten schon einmal gesehen. Fundberichte beruhen meist auf Verwechslungen mit ähnlichen oder auch weniger ähnlichen Arten. Immer wieder wird der Schönfußröhrling (*Boletus calopus*) für einen Satansröhrling gehalten, aber auch die essbaren Hexenröhrlinge.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/boletus_satanas_01_dg.jpg" %}
+{% include abbildung_ende.html %}
 
 Der bisher einzige mir bekannte Standort des Satansröhrlings ist der Park „Unter den Eichen“ in Wiesbaden, in dem auch andere Raritäten wie [Leuchtender Ölbaumpilz,](/pilze/omphalotus-olarius-leuchtender-ölbaumpilz) [Kaiserling](/pilze/amanita-caesarea-kaiserling) und der Falsche Satansröhrling gesichtet wurden. Berichtet wurde er mir auch aus einem Parkgelände in Bad Homburg, vom Maunzenweiher bei Offenbach und aus dem NSG Mönchbruch.
 
