@@ -14,6 +14,14 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lactarius_circellatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.07.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der [Gebänderte Hainbuchenmilchling Lactarius circellatus](/pilze/lactarius-circellatus-gebänderter-hainbuchenmilchling). Man erkennt ihn an der meist deutlichen Zonierung auf dem Hut und seinem Wachstum bei Hainbuchen. In letzter Zeit hat er sich zu einem wahren Massenpilz entwickelt. Selbst vor meiner Haustür und fast überall in Dietzenbach, wo Hainbuchen stehen, ist er erschienen. Mancherorts quasi als Bodenbedecker.  Die ersten des Jahres sind gerade aufgetaucht. Bei Milchlingen macht man die Geschmacksprobe mit der Milch, bei diesem lässt man es lieber bleiben. Anfangs eher mild, dann bitter und zusammenziehend, schließlich mäßig scharf. Nichts für die Pfanne.
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_luridus_04_cc.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
@@ -21,28 +29,6 @@ footer_scripts:
 08.07.2021: Heute ist Boletus luridus, der Netzstielige Hexenröhrling und Zwillingsbruder des Flockenstieligen, aktueller [Fundkorbpilz](AA "Glossar-"). Von seinen Freunden wird er liebevoll "Netzhexe" genannt. Dass er zusammen mit Alkohol genossen giftig sein soll, ist ein Gerücht. Beide sind gleichermaßen ausgezeichnete Speisepilze, aber das hat sich noch nicht bei allen herumgesprochen. Da sein Wachstum von kalkhaltigen Böden abhängig ist, ist er in den Wäldern des Rhein-Main-Gebiets kaum zu finden. Ganz anders sieht das in Städten und Gemeinden aus, wo Bautätigkeit oder Düngung für Kalkeintrag sorgen. So sind die Netzhexen zum Beispiel mitten in Dietzenbach oder im Frankfurter Hauptfriedhof regelmäßig zu finden.
 
 [Mehr lesen und schauen >](/pilze/boletus-luridus-netzstieliger-hexenröhrling)
-
-<div style="clear: both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trichaptum_abietinum_01_wi.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-05.07.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Violette Lederporling *Trichaptum abietinum*, dem man überall begegnet, wo tote Kiefernstämme oder dickere -äste am Waldboden liegen. Auch Fichtenholz wird gern besiedelt. Von oben unscheinbar, offenbart er mit seiner violetten Porenschicht auf der Unterseite immerhin eine hübsche Farbe, die allerdings ins Bräunliche verblasst, wenn die bis zu zwei Zentimeter weit vom Substrat abstehenden Hütchen vetrocknen. Vor allem in den Lücken zwischen den Rindenplatten vereinigen sie sich oft zu langen Reihen. Spannend wird es, wenn man sein Wachstum an Stammunterseiten beobachtet. Hier wächst der Violette Lederporling [resupinat](resupinat "Glossar"), ohne Hütchen auszubilden.
-
-[Mehr lesen und schauen >](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)
-
-<div style="clear: both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_fusipes_03_he.jpg" %}
-{% include abbildung_ende.html %}
-
-01.07.2021: Der [Spindelige Rübling Gymnopus fusipes](/pilze/gymnopus-fusipes-spindeliger-rübling), unser aktueller [Fundkorbpilz](AA "Glossar-"), fällt durch sein meist büscheliges Wachstum am Stammgrund von lebenden oder auch toten Eichen auf. Gelegentlich kommt er an Stümpfen und auch einzeln wachsend oder an anderen Laubbaumarten vor. Sein nicht gerade apptitliches Aussehen lädt kaum zum Pflücken und Braten ein, aber manche behaupten, er schmecke besser als er aussieht, was freilich nicht viel besagen will. Vor allem beim Altern wird er zunehmend fleckiger und unansehnlicher. Die Zeichnung von Heiner Englert stellt ihn so treffend dar, dass man sofort eine Vorstellung davon hat, was mit dem Namen "spindelig" gemeint ist und man den Pilz auf Anhieb wiedererkennen kann.
 
 <div style="clear: both"></div>
 
