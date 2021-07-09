@@ -14,6 +14,10 @@ footer_scripts:
 
 - - -
 
+{% include pilzsuche.html %}
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/lactarius_circellatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
