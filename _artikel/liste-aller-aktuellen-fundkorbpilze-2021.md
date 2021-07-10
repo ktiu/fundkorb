@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-09.07.2021 [Lactarius circellatuns - Gebänderter Hainbuchenmilchling](/lactarius-circellatus-gebänderter-hainbuchenmilchling)  
+10.07.2021 [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)  
+09.07.2021 [Lactarius circellatuns - Gebänderter Hainbuchenmilchling](/lactarius-circellatus-gebänderter-hainbuchenmilchling)\
 08.07.2021 [Boletus luridus - Netzstieliger Hexenröhrling](<08.07.2021  Boletus luridus - Netzstieliger Hexenröhrling>)\
 05.07.2021 [Trichaptum abietinum - Violetter Lederporling](/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)\
 04.07.2021 [Amanita fulva - Rotbrauner (Fuchsiger) Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)\
