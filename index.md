@@ -19,6 +19,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/boletus_satanas_03_bh.jpg" %}
+{% include abbildung_ende.html %}
+
+Wenn sich jemand im Rhein-Main-Gebiet mit einem besonderen Fund an mich wendet, es sich dabei um den Satansröhrling handelt und auch noch ein schönes Foto mitschickt, ist klar, dass daraus ein aktueller [Fundkorbpilz](AA "Glossar-") werden muss. Gefunden wurde er im hessischen Ried von Babett Hübler, das Foto ist von Michael Hornung. Die allermeisten Pilzfreunde kennen den Satansröhrling nur aus ihrem Pilzbuch. Die meisten Funde, die als Satansröhrling gemeldet werden, stellen sich bei einer Nachprüfung als Hexen- oder Schönfußröhrlinge heraus. Diesmal ist er es wirklich. Und gleich sieben Stück davon!
+
+[Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/lactarius_circellatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
