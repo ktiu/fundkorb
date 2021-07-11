@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Phellinus laevigatus
   deutsch: Birken-Feuerschwamm
   referenz: (P. Karst.) Bourdot & Galzin 1928
-  familie: lHymenochaetaceae
+  familie: Hymenochaetaceae
   erlaeuterung: laevigatus = geglättet
 profil:
   aktualisiert: 2021-07-11
