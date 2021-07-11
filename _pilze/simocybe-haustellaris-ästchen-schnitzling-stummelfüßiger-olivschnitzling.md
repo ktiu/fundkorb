@@ -7,6 +7,7 @@ beschreibung:
   familie: Crepidotaceae
 profil:
   aktualisiert: 2021-07-11
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/simocybe_haustellaris_01_dg.jpg
