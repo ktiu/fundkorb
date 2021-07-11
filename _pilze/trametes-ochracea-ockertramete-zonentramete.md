@@ -21,6 +21,6 @@ Die Zonen-Tramete kann man als klassischen Doppelgänger der sehr viel häufiger
 {% include abbildung_ende.html %}
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/trametes_ochracea_04_dgochracea-.jpg" %}
-{% include bild.html datei="/bilder/trametes_ochracea_05_dg.jpg" %}
+{% include bild.html datei="/bilder/trametes_ochracea_04_dgochracea-.jpg" gross=true %}
+{% include bild.html datei="/bilder/trametes_ochracea_05_dg.jpg" gross=true %}
 {% include abbildung_ende.html %}
