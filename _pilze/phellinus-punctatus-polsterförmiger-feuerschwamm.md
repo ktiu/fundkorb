@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Polsterförmiger Feuerschwamm
   referenz: "(P. Karst.) Pilát 1942 "
   familie: Hymenochaetaceae
-  synonym: "Neuer Name: Fomitoporia punctata    "
+  synonym: "Neuer Name: Fomitiporia punctata    "
   erlaeuterung: punctatus = punktiert
 profil:
   aktualisiert: 2020-08-11
