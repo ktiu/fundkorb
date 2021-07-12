@@ -18,6 +18,17 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leccinum_quercinum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.07.2021 - Aktueller [Fundkorbpilz](AA "Glossar-"): Über den Fund von Rotkappen freut sich jeder Pilzfreund. Sie gehören wie die graubraunhütigen Birkenpilze zu den Raufußröhrlingen, die sich durch strenge Bindung an bestimmte Baumpartner auszeichnen, mit denen sie in Symbiose (Mykorrhiza) leben. Allerdings sind sie sehr viel seltener als die überall häufigen Birkenpilze. Fast alle werden als gefährdete Arten in Roten Listen geführt. Dies gilt insbesondere für die Eichenrotkappe, der wir kürzlich mal wieder begegnet sind. Ob Sammelverbote sinnvoll sind und es dem Schutz der Arten dient, wird viel diskutiert. Der Freiburger Biologe Helgo Bran hat seine Meinung in einem lesenswerten [Fundkorb-Artikel](/artikel/über-sinn-und-unsinn-von-sammelverboten.html) kundgetan. Rote Listen sind übrigens keine unverbindlichen Empfehlungen. Ab einem gewissen Gefährungsgrad dürfen darin geführte Pilzarten nicht gesammelt werden, und das gilt auch für die Eichenrotkappe.
+[Zum Pilzporträt >](/pilze/leccinum-quercinum-eichenrotkappe)
+
+<div style="clear: both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/boletus_satanas_03_bh.jpg" %}
 {% include abbildung_ende.html %}
@@ -26,13 +37,6 @@ Wenn sich jemand im Rhein-Main-Gebiet mit einem besonderen Fund an mich wendet, 
 
 [Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
 
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/lactarius_circellatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.07.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der [Gebänderte Hainbuchenmilchling Lactarius circellatus](/pilze/lactarius-circellatus-gebänderter-hainbuchenmilchling). Man erkennt ihn an der meist deutlichen Zonierung auf dem Hut und seinem Wachstum bei Hainbuchen. In letzter Zeit hat er sich zu einem wahren Massenpilz entwickelt. Selbst vor meiner Haustür und fast überall in Dietzenbach, wo Hainbuchen stehen, ist er erschienen. Mancherorts quasi als Bodenbedecker.  Die ersten des Jahres sind gerade aufgetaucht. Bei Milchlingen macht man die Geschmacksprobe mit der Milch, bei diesem lässt man es lieber bleiben. Anfangs eher mild, dann bitter und zusammenziehend, schließlich mäßig scharf. Nichts für die Pfanne.
 
 - - -
 
@@ -46,15 +50,7 @@ Wenn sich jemand im Rhein-Main-Gebiet mit einem besonderen Fund an mich wendet, 
 
 <div style="clear: both"></div>
 
-- - -
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/scutellinia_crinita_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Dieser [Fundkorbpilz](AA "Glossar-") ist was für Naturfreunde, die sich gern Objekte mit der Lupe betrachten. Im Falle von Scutellinia crinita (Sumpfschildborstling) mussten wir erstmal im Wasser liegende Holzteile bergen. Die größten der roten Fruchtkörperchen maßen etwa 5 mm im Durchmesser und waren mit bloßem Auge zu erkennen. Ihre wahre Schönheit erschloss sich aber erst bei starker Vergrößerung und dabei fiel auf, dass die dunkle Randbehaarung aus einer Reihe mit kurzen und einer zweiten mit deutlich längeren Borsten besteht. Bei den ganz jungen Schüsselchen waren sie noch nicht aufgerichtet. Es gibt etwa 30 mitteleuropäische Schildborstlinge, die nur anhand mikroskopischer Merkmale sicher zu bestimmen sind.
-
-[Mehr lesen und schauen >](/pilze/scutellinia-crinita-bewimperter-schildborstling-sumpfschildborstling)
 
 - - -
 
