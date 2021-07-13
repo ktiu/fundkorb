@@ -1,9 +1,9 @@
 ---
-aktivitaet: Der Frankfurter Stadtwald und seine Pilze
+aktivitaet: Der Wald und seine Pilze
 zeit: 2021-07-10T10:00:28.524Z
 anmeldung_offen: true
 published: true
 ---
-Corona-Lockerungen und Regen machen es möglich, vor den Sommerferien noch einen weiteren Exkursionstermin anzubieten, der sich insbesondere an alle Frankfurter richtet, die ihren Stadtwald lieben und schätzen. Leider ist er wie fast alle Wälder in Deutschland von den Folgen des Klimawandels bedroht. Ein Wald ist mehr als eine Ansammlung von Bäumen. Er ist ein vernetztes System, in dem Pilze eine von den meisten unterschätzte Rolle spielen. Speisepilze dürfen selbstverständlich gesammelt werden - wer möchste, bringt Körbchen und Messer mit.
+Ein Wald ist mehr als nur eine großflächige Ansammlung von Bäumen. Er ist ein funktionierendes System von Abhängigkeiten und Wechselwirkungen, in dem Pilze eine besondere Rolle spielen. Den Teilnehmern an dieser Exkursion wird dies vor Augen geführt, es werden aber auch die Gefahren aufgezeigt, die dieses Biotop bedrohen. Wir lernen eine nicht geringe Anzahl an Pilzarten kennen und Speisepilze dürfen natürlich auch gesammelt werden. Wer möchte, bringt Körbchen und Messer mit.
 
 Wir werden in einer kleinen Gruppen (maximal ca. 12 Teilnehmer) unterwegs sein. Die Teilnahmegebühr beträgt 10 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung mitgeteilt. 
