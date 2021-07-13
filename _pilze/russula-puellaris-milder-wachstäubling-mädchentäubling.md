@@ -37,6 +37,28 @@ Bei anderen finden sich noch weitere zuvor nicht genannte Farbbeschreibungen wie
 
 Der Milde Wachstäubling ist eine weit verbreitete relativ häufige Art, die überwiegend in Nadel- aber auch in Laubwäldern und Parkanlagen zu finden ist. Mit Abstand häufigster [Mykorrhizapartner](Mykorrhiza "Glossar") ist die Fichte (Picea abies), Erscheinungszeit Sommer bis Spätherbst.
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>mild</td>
+      <td>creme (IIa-b)</td>
+      <td>bis mindestens 1/2</td>
+      <td>rosabraun</td>
+       
+    </tr>
+  </table>
+</div>
+
 Verwechselt werden könnte er u. a. mit:\
 Milder Glanz-Täubling Russula nitida (Fleisch nicht gilbend)\
 Erlen-Täubling Russula alnetorum (bei Erlen)\
