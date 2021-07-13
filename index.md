@@ -10,7 +10,7 @@ footer_scripts:
 ---
 - - -
 
-##### Corona-Lockerungen und Regen im Rhein-Main-Gebiet machen es möglich: es gibt wieder [Termine für pilzkundliche Führungen](/termine).
+##### ... es gibt wieder [Termine für pilzkundliche Führungen](/termine).
 
 - - -
 
