@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-12.07.2021 [Leccinum quercinum - Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)  
+14.07.2021 [Agaricus augustus - Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon)  
+12.07.2021 [Leccinum quercinum - Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)\
 10.07.2021 [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)\
 09.07.2021 [Lactarius circellatuns - Gebänderter Hainbuchenmilchling](/lactarius-circellatus-gebänderter-hainbuchenmilchling)\
 08.07.2021 [Boletus luridus - Netzstieliger Hexenröhrling](<08.07.2021  Boletus luridus - Netzstieliger Hexenröhrling>)\
