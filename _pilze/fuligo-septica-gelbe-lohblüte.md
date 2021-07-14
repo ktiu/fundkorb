@@ -45,4 +45,4 @@ Weitere Schleimpilze im Fundkorb:[](/pilze/fuligo-septica-gelbe-lohblüte)
 [Lycogala epidendrum - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 [Physarum utriculare - Fadenfruchtschleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
 [Reticularia lycoperdon - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)  
-[Stemonitis axifera - Gemeines Fadenstäubchen](/pilze/stemonitis-axifera-gemeines-fadenstäubchen)
+[Stemonitis fusca - Dunkles Fadenstäubchen](/pilze/stemonitis-fisca-dunkles-fadenstäubchen)
