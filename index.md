@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_augustus_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.07.2021: Gruppenbild mit Riesenchampignons, so möchte ich den aktuellen [Fundkorbpilz](AA "Glossar-") des Tages vorstellen. Schwer zu fotografieren, weil sie unter dicht stehenden Ziersträuchern hinter einem Zaun mit engstehenden Gitterstäben wuchsen. Riesenchampignons sind bei uns in der Dietzenbacher Parkanlage nichts ungewöhnliches. Sie wachsen Jahr für Jahr an etlichen Stellen, aber ein so hübsches Grüppchen habe ich noch nie zuvor gesehen. Der Riesenchampignon (essbar) ist nur eine von mindestens 7 Champignonarten, die hier festgestellt wurden.
+
+[Mehr lesen >](/pilze/agaricus-augustus-riesenchampignon)
+
+<div style="clear: both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leccinum_quercinum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,7 +49,6 @@ Wenn sich jemand im Rhein-Main-Gebiet mit einem besonderen Fund an mich wendet, 
 
 [Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
 
-
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
@@ -49,8 +60,6 @@ Wenn sich jemand im Rhein-Main-Gebiet mit einem besonderen Fund an mich wendet, 
 [Mehr lesen und schauen >](/pilze/boletus-luridus-netzstieliger-hexenröhrling)
 
 <div style="clear: both"></div>
-
-
 
 - - -
 
