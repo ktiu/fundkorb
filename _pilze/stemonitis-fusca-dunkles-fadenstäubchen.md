@@ -16,6 +16,7 @@ literatur:
       angrenzenden Alpenraumes (3-bändiges Standardwerk)"
   - url: https://de.wikipedia.org/wiki/Stemonitis_axifera
 ---
+
 Fadenstäubchen gehören zu den Schleimpilzen (Myxomyceten), die durch ihre erstaunliche Formenvielfalt beeindrucken. Genau genommen sind sie keine Pilze, sondern amöbenartige einzellige Lebewesen, die sich erst in ihrem letzten Lebensabschnitt in Pilze verwandeln, um sich mittels Sporen zu vermehren. Ihr erster Lebensabschnitt, in dem sie sich schleimig kriechend fortbewegen und von diversen Mikroorganismen wie Bakterien, Pilzsporen und anderen ernähren, wird als *Plasmodium* bezeichnet. Die im Endstadium ihrer Entwicklung gebildeten pilzartigen Fruchtkörper werden *Sporokarpien* genannt. Man kennt heute weltweit rund 1000 Arten in mehr als 60 Gattungen.
 
 Fadenstäubchen gehören zu den leicht kenntlichen Gattungen und bestehen aus einem langgezogenen fertilen Kopfteil, das auf einem schwarzen haardünnen Stielchen sitzt. Sie erinnern etwas an verbogene Wunderkerzen, die in Reihen oder Büscheln dicht beieinanderstehen. Da sie winzig klein sind, sind Details und ihre subtile Schönheit allerdings nur mit einer gut vegrößernden Lupe zu erkennen. 
@@ -24,7 +25,7 @@ In Mitteleuropa sind etwa zehn verschiedene Stemonitis-Arten nachgewiese. Stemon
 
 Weitere Schleimpilze im Fundkorb:\
 [Diachea leucopodia - Buckingham-Schleimpilz](/pilze/diachaea-leucopodia-buckingham-schleimpilz)  
-[Fuligo muscorum - Moos-Lohblüte](/pilze/fuligo-muscorum-gelbe-lohblüte)\
+[Fuligo muscorum - Moos-Lohblüte](/pilze/fuligo-muscorum-moos-lohblüte)\
 [Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
 [Lycogala epidendrum - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 [Physarum utriculare - Fadenfruchtschleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
