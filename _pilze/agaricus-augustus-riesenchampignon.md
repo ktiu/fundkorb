@@ -30,4 +30,4 @@ Unter den Champignons mit schuppigem Hut gibt es auch einige giftige Arten, die 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/agaricus_augustus_05_dg.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="14.07.2021: Hübsches Grüppchen im Carré Rodgaustraße, Dietzenbach" %}
