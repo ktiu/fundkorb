@@ -1,11 +1,12 @@
 ---
 beschreibung:
-  wissenschaftlich: Stemonitis axifera
-  deutsch: Gemeines Fadenstäubchen
-  referenz: (Bull.) T. Macbr. 1889
+  wissenschaftlich: Stemonitis fusca
+  deutsch: Dunkles Fadenstäubchen
+  referenz: Willd. 1787
   familie: Stemonitidaceae
+  erlaeuterung: fusca = dunkel, schwärzlich
 profil:
-  aktualisiert: 2021-06-14
+  aktualisiert: 2021-07-14
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -19,7 +20,7 @@ Fadenstäubchen gehören zu den Schleimpilzen (Myxomyceten), die durch ihre erst
 
 Fadenstäubchen gehören zu den leicht kenntlichen Gattungen und bestehen aus einem langgezogenen fertilen Kopfteil, das auf einem schwarzen haardünnen Stielchen sitzt. Sie erinnern etwas an verbogene Wunderkerzen, die in Reihen oder Büscheln dicht beieinanderstehen. Da sie winzig klein sind, sind Details und ihre subtile Schönheit allerdings nur mit einer gut vegrößernden Lupe zu erkennen. 
 
-In Mitteleuropa sind etwa zehn verschiedene Stemonitis-Arten nachgewiesen, die nur anhand mikroskopischer Merkmale sicher zu unterscheiden sind, wozu man auch Zugang zu spezieller Literatur haben muss.
+In Mitteleuropa sind etwa zehn verschiedene Stemonitis-Arten nachgewiese. Stemonitis fusca ist an seiner Farbe und den nach oben hin auseinanderstrebenden Sporocarpien recht gut makroskopisch bestimmbar. 
 
 Weitere Schleimpilze im Fundkorb:\
 [Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
