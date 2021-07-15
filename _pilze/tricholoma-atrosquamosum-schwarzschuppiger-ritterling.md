@@ -29,7 +29,7 @@ Die Lamellen waren bis 12 mm breit und bis 0,7 mm dick, stark mit Lamelletten un
 {% include bild.html datei="/bilder/tricholoma_atrosquamosum_04_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-Der Stiel war weiß, längsadrig, seidig glänzend, glatt, zylindrisch oder zur Basis hin schwach keulig verdickt. Das Basalmyzel war rein weiß. Es wurden keinerlei Hut-, Lamellen, Stiel- oder Fleisch-Verfärbungen beobachtet.
+Der Stiel war weiß, längsadrig, seidig glänzend, glatt, zylindrisch oder zur Basis hin schwach keulig verdickt. Das [Basalmyzel](Myzel "Glossar") war rein weiß. Es wurden keinerlei Hut-, Lamellen, Stiel- oder Fleisch-Verfärbungen beobachtet.
 
 Das Fleisch war weißlich bis grauweiß, im Hut dünnfleischig, im Stiel voll. Der Geruch war angenehm, irgendwie fruchtig; der Geschmack schwach nach Mehl oder durchgeschnittener Gurke. Die Farbe des ausgefallenen Sporenpulvers war rein weiß.
 
@@ -37,7 +37,7 @@ Der Schwarzschuppige Ritterling liebt anscheinend basenreiche, sogar kalkreiche 
 
 ##### Verwechslungsmöglichkeiten:
 
-**Tricholoma basirubens**, der *Rosafüßige Erdritterling*, besitzt einen meist keuligen Stiel; er rötet oft deutlich an der Stielbasis; [Basalmyzel](Myzel "Glossar") weiß.\
+**Tricholoma basirubens**, der *Rosafüßige Erdritterling*, besitzt einen meist keuligen Stiel; er rötet oft deutlich an der Stielbasis; Basalmyzel weiß.\
 **Tricholoma orirubens**, der *Rötende Erdritterling*, rötet nach längerem Liegenlassen in den Lamellen; seine Stielbasis ist oftmals blaugrün gefleckt; das Basalmyzel ist gelblich.\
 **Tricholoma pardinum**, der sehr giftige *Tigerritterling*, ist größer und stämmiger und besitzt größere, anders geformte Schuppen.\
 **Tricholoma squarrulosum**, der *Schuppenstielige Erdritterling*, besitzt einen grauschuppigen Stiel und einen sparrig-schuppigen Hut; Basalmyzel weiß.\
