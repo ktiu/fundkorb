@@ -21,6 +21,6 @@ literatur:
 ---
 Walter Pätzold, langjähriger Leiter der Hornberger Pilzlehrschau, nannte sie scherzhaft „Koksbrocken“, diese stets an älteren Birkenstämmen wachsenden Wucherungen. Es handelt sich um das asyexuelle Stadium des Schiefen Schillerporlings. Diese Knollen können recht groß werden, nach der Fachliteratur bis zu einem halben Meter im Durchmesser.
 
-Das sexuelle Stadium erscheint erst nach dem Absterben des Baumes als [resupinate](<resupinat "Glossar">) , dünne, braune Porenschicht.
+Das sexuelle Stadium erscheint erst nach dem Absterben des Baumes als [resupinate](resupinat "Glossar") , dünne, braune Porenschicht.
 
 Der Pilz lebt als Schwächeparasit und erzeugt im Holz des Substrats eine Weißfäule.
