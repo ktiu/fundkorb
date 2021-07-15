@@ -22,7 +22,7 @@ literatur:
 {% include bild.html datei="/bilder/tulostoma_fimbriatum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Frage an alle Besucher dieser Seite: Würde man in diesem "Biotop" nach Pilzen Ausschau halten? Es handelt sich um eine mit Gittern abgesicherte Baustelle an der Rodgaustraße in Dietzenbach. Schaut man sehr genau hin, ist am unteren Bildrand links neben der Bordsteinkante ein Halbkreis mit helleren Flecken zu erkennen. Das sind einige von mindestens zwei Dutzend Fruchtkörpern des Gewimperten Stielbovists, die sich hier eingefunden haben. Es scheint, als würde unser Pilz gerade solche unwirtlichen Standorte suchen.
+Frage an alle Besucher dieser Seite: Würde man in diesem "Biotop" nach Pilzen Ausschau halten? Es handelt sich um eine mit Gittern abgesicherte Baustelle an der Rodgaustraße in Dietzenbach. Schaut man sehr genau hin, ist am unteren Bildrand links neben der Bordsteinkante ein Halbkreis mit helleren Flecken zu erkennen. Das sind einige von mehr als zwei Dutzend Fruchtkörpern des Gewimperten Stielbovists, die sich hier eingefunden hatten. Es scheint, als würde sich unser Pilz gerade solchen unwirtlichen Standorten wphlfühlen.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/tulostoma_fimbriatum_01_dg.jpg" %}
