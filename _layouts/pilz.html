@@ -54,8 +54,8 @@ footer_scripts:
 {% for item in page.literatur %}
 <li>
   {% if item.url and item.url != "" %}<a href="{{ item.url }}">{% endif %}
-    {% if item.text %}{{ item.text }}{% else %}{{ item.url }}{% endif %}
-  {% if item.url %}</a>{% endif %}
+    {% if item.text and item.text != "" %}{{ item.text }}{% else %}{{ item.url }}{% endif %}
+  {% if item.url and item.url != "" %}</a>{% endif %}
 </li>
 {% endfor %}
 </ul> 
