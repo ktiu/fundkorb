@@ -22,7 +22,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/agaricus_augustus_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-14.07.2021: Gruppenbild mit Riesenchampignons, so möchte ich den aktuellen [Fundkorbpilz](AA "Glossar-") des Tages vorstellen. Schwer zu fotografieren, weil sie unter dicht stehenden Ziersträuchern hinter einem Zaun mit engstehenden Gitterstäben wuchsen. Riesenchampignons sind bei uns in der Dietzenbacher Parkanlage nichts ungewöhnliches. Sie wachsen Jahr für Jahr an etlichen Stellen, aber ein so hübsches Grüppchen habe ich noch nie zuvor gesehen. Der Riesenchampignon (essbar) ist nur eine von mindestens 7 Champignonarten, die hier festgestellt wurden.
+14.07.2021: Gruppenbild mit Riesenchampignons, so möchte ich den aktuellen [Fundkorbpilz](AA "Glossar-") des Tages vorstellen. Schwer zu fotografieren, weil sie unter dicht stehenden Ziersträuchern hinter einem Zaun mit engstehenden Gitterstäben wuchsen. Riesenchampignons sind bei uns in der Dietzenbacher Parkanlage nichts ungewöhnliches. Sie wachsen Jahr für Jahr an etlichen Stellen, aber ein so hübsches Grüppchen habe ich noch nie zuvor gesehen. Der [Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon) (essbar) ist nur eine von mindestens 7 Champignonarten, die hier festgestellt wurden.
 
 [Mehr lesen >](/pilze/agaricus-augustus-riesenchampignon)
 
