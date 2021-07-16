@@ -27,9 +27,9 @@ Der Hut war trocken, stumpf gebuckelt, dicht dunkelgrau bis schwarz beschuppt, w
 Die Lamellen waren bis 12 mm breit und bis 0,7 mm dick, stark mit Lamelletten untermischt, quasi ungegabelt, die Schneide glatt bis grob schartig, ab und zu schwarz gepunktet, außerdem waren die Lamellen am Stiel ausgerandet angeheftet, ein Erscheinungsbild, das von Pilzfreunden als *„Burggraben“* bezeichnet wird. 
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/tricholoma_atrosquamosum_02_bm.jpg" %}
-{% include bild.html datei="/bilder/tricholoma_atrosquamosum_03_bm.jpg" %}
-{% include bild.html datei="/bilder/tricholoma_atrosquamosum_04_bm.jpg" %}
+{% include bild.html datei="/bilder/tricholoma_atrosquamosum_02_bm.jpg" gross=true %}
+{% include bild.html datei="/bilder/tricholoma_atrosquamosum_03_bm.jpg" gross=true %}
+{% include bild.html datei="/bilder/tricholoma_atrosquamosum_04_bm.jpg" gross=true %}
 {% include abbildung_ende.html legende="3 Fotos: Hans Stern" %}
 
 Der Stiel war weiß, längsadrig, seidig glänzend, glatt, zylindrisch oder zur Basis hin schwach keulig verdickt. Das [Basalmyzel](Myzel "Glossar") war rein weiß. Es wurden keinerlei Hut-, Lamellen, Stiel- oder Fleisch-Verfärbungen beobachtet.
@@ -40,10 +40,10 @@ Der Schwarzschuppige Ritterling liebt anscheinend basenreiche, sogar kalkreiche 
 
 ##### Verwechslungsmöglichkeiten:
 
-**Tricholoma argyraceum**, der Gilbende Erdritterling, hat einen konischen oder gebuckelten Hut, mehligen Geruch und bei jungen Fruchtkörpern ein deutlich sichtbares Velum.  
+**Tricholoma argyraceum**, der Gilbende Erdritterling, hat einen konischen oder gebuckelten Hut, mehligen Geruch und bei jungen Fruchtkörpern ein deutlich sichtbares Velum.\
 **Tricholoma basirubens**, der *Rosafüßige Erdritterling*, besitzt einen meist keuligen Stiel; er rötet oft deutlich an der Stielbasis; Basalmyzel weiß.\
 **Tricholoma orirubens**, der *Rötende Erdritterling*, rötet nach längerem Liegenlassen in den Lamellen; seine Stielbasis ist oftmals blaugrün gefleckt; das Basalmyzel ist gelblich.\
 **Tricholoma pardinum**, der sehr giftige *Tigerritterling*, ist größer und stämmiger und besitzt größere, anders geformte Schuppen.\
 **Tricholoma squarrulosum**, der *Schuppenstielige Erdritterling*, besitzt einen grauschuppigen Stiel und einen sparrig-schuppigen Hut; Basalmyzel weiß.\
-**Tricholoma terreum**, der *Gemeine Erdritterling*. Während die vorgenannten drei Arten und auch Tricholoma atrosquamosum irgendwie bitterlich oder nach Mehl schmecken und fruchtig oder nach Mehl riechen, ist Tricholoma terreum völlig mild und geruchlos. Außerdem verfärben sich weder Hut noch Stiel oder Lamellen. Das Basalmyzel ist weiß.  
+**Tricholoma terreum**, der *Gemeine Erdritterling*. Während die vorgenannten drei Arten und auch Tricholoma atrosquamosum irgendwie bitterlich oder nach Mehl schmecken und fruchtig oder nach Mehl riechen, ist Tricholoma terreum völlig mild und geruchlos. Außerdem verfärben sich weder Hut noch Stiel oder Lamellen. Das Basalmyzel ist weiß.\
 **Tricholoma gausapatum** und **T. myomyces** werden von Christensen & Heilmann-Clausen (2013) mit T. terreum synonymisiert
