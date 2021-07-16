@@ -19,6 +19,28 @@ Mit Hutdurchmessern von meist nur 2 - 4 cm gehört dieser Täubling zu den klein
 
 Die Hutfarben sind wie bei den meisten Täublingen ziemlich variabel, und zwar in den Farbtönen weinrötlich, lila, violett bis bräunlich. Der Hutrand ist schwach gerieft. Die Stielbasis neigt zum Gilben.
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>mild</td>
+      <td>ockergelb (IVc)</td>
+      <td>bis fast ganz</td>
+      <td>rosa</td>
+       
+    </tr>
+  </table>
+</div>
+
 Das nachfolgende Foto zeigt einen Fund vom 14. Juli 2021 bei sehr feuchter Wtterung in einem Dietzenbacher Park unter Eiche. Der Hut war bereits zerbrochen. Gut zu erkennen sind die Anastomosen zwischen den etwas entfernter stehenden Lamellen.
 
 {% include abbildung_start.html stil="mittel" %}
