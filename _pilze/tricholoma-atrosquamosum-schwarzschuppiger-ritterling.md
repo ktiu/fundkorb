@@ -11,6 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/tricholoma_atrosquamosum_01_bm.jpg
+  legende: "Foto: Hans Stern"
 literatur:
   - url: https://de.wikipedia.org/wiki/Schwarzschuppiger_Erd-Ritterling
   - url: " http://www.tintling.com/pilzbuch/arten/t/Tricholoma_atrosquamosum.html"
@@ -27,7 +28,7 @@ Die Lamellen waren bis 12 mm breit und bis 0,7 mm dick, stark mit Lamelletten un
 {% include bild.html datei="/bilder/tricholoma_atrosquamosum_02_bm.jpg" %}
 {% include bild.html datei="/bilder/tricholoma_atrosquamosum_03_bm.jpg" %}
 {% include bild.html datei="/bilder/tricholoma_atrosquamosum_04_bm.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="3 Fotos: Hans Stern" %}
 
 Der Stiel war weiß, längsadrig, seidig glänzend, glatt, zylindrisch oder zur Basis hin schwach keulig verdickt. Das [Basalmyzel](Myzel "Glossar") war rein weiß. Es wurden keinerlei Hut-, Lamellen, Stiel- oder Fleisch-Verfärbungen beobachtet.
 
