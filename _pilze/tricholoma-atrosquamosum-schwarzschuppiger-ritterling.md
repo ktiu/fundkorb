@@ -40,8 +40,10 @@ Der Schwarzschuppige Ritterling liebt anscheinend basenreiche, sogar kalkreiche 
 
 ##### Verwechslungsmöglichkeiten:
 
+**Tricholoma argyraceum**, der Gilbende Erdritterling, hat einen konischen oder gebuckelten Hut, mehligen Geruch und bei jungen Fruchtkörpern ein deutlich sichtbares Velum.  
 **Tricholoma basirubens**, der *Rosafüßige Erdritterling*, besitzt einen meist keuligen Stiel; er rötet oft deutlich an der Stielbasis; Basalmyzel weiß.\
 **Tricholoma orirubens**, der *Rötende Erdritterling*, rötet nach längerem Liegenlassen in den Lamellen; seine Stielbasis ist oftmals blaugrün gefleckt; das Basalmyzel ist gelblich.\
 **Tricholoma pardinum**, der sehr giftige *Tigerritterling*, ist größer und stämmiger und besitzt größere, anders geformte Schuppen.\
 **Tricholoma squarrulosum**, der *Schuppenstielige Erdritterling*, besitzt einen grauschuppigen Stiel und einen sparrig-schuppigen Hut; Basalmyzel weiß.\
-**Tricholoma terreum**, der *Gemeine Erdritterling*. Während die vorgenannten drei Arten und auch Tricholoma atrosquamosum irgendwie bitterlich oder nach Mehl schmecken und fruchtig oder nach Mehl riechen, ist Tricholoma terreum völlig mild und geruchlos. Außerdem verfärben sich weder Hut noch Stiel oder Lamellen. Das Basalmyzel ist weiß.
+**Tricholoma terreum**, der *Gemeine Erdritterling*. Während die vorgenannten drei Arten und auch Tricholoma atrosquamosum irgendwie bitterlich oder nach Mehl schmecken und fruchtig oder nach Mehl riechen, ist Tricholoma terreum völlig mild und geruchlos. Außerdem verfärben sich weder Hut noch Stiel oder Lamellen. Das Basalmyzel ist weiß.  
+**Tricholoma gausapatum** und **T. myomyces** werden von Christensen & Heilmann-Clausen (2013) mit T. terreum synonymisiert
