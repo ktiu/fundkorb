@@ -43,7 +43,7 @@ Die Hutfarben sind wie bei den meisten Täublingen ziemlich variabel, und zwar i
 
 Das nachfolgende Foto zeigt einen Fund vom 14. Juli 2021 bei sehr feuchter Wtterung in einem Dietzenbacher Park unter Eiche. Der Hut war bereits zerbrochen. Gut zu erkennen sind die Anastomosen zwischen den etwas entfernter stehenden Lamellen.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_odorata_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
