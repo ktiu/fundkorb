@@ -22,7 +22,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/russula_odorata_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-15.07.2021: Aktueller Fundkorbpilz ist mal wieder ein Täubling. Er gehört zu den kleineren zerbrechlichen Vertretern der Gattung mit buttergelben Lamellen und farbvariablen Hutfarben.  Man findet ihn überwiegend in Nadel- aber auch Laubwäldern. Sein Name: Milder Wachstäubling Russula puellaris. Wie alle nicht scharf schmeckenden Täublinge mit gelblichen Lamellen ist er essbar, aber nicht unbedingt zu den Premiumarten zu zählen.
+15.07.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder ein Täubling. Er gehört zu den kleineren zerbrechlichen Vertretern der Gattung mit buttergelben Lamellen und farbvariablen Hutfarben.  Man findet ihn überwiegend in Nadel- aber auch Laubwäldern. Sein Name: Milder Wachstäubling Russula puellaris. Wie alle nicht scharf schmeckenden Täublinge mit gelblichen Lamellen ist er essbar, aber nicht unbedingt zu den Premiumarten zu zählen.
 
 [Mehr lesen >](/pilze/russula-odorata-duftender-zwergtäubling)
 
