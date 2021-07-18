@@ -18,6 +18,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tapinella_atrotomentosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.07.2021 Aktueller Fundkorbpilz ist der Samtfußkrempling Tapinella atrotomentosa. Wir haben gestern mehrere wunderschöne Exemplare gefunden. Er ist zwar nicht giftig, aber sein Speisewert hält nicht, was das attraktive Aussehen verspricht. Der Geschmack ist mit "exrem muffig" wohl am besten beschrieben. Er wächst an Holz, am liebsten an Stümpfen von Nadelbäumen. Wer ihn einmal gesehen hat, wird ihn immer sicher wiedererkennen - er gehört also zu den praktisch unverwechselbaren Pilzarten. Wer etwas mehr über die Kremplinge im Allgemeinen erfahren möchte: [](/verwandt/kremplinge)[hier](/verwandt/kremplinge) geht´s zu den Informationen.  
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_odorata_01_bm.jpg" %}
 {% include abbildung_ende.html %}
