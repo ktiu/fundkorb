@@ -2,15 +2,16 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-14.07.2021 [Agaricus augustus - Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon)  
+15.07.2021 [Russula puellaris - Milder Wachstäubling](/pilze/russula-puellaris-milder-wachstäubling-mädchentäubling)  
+14.07.2021 [Agaricus augustus - Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon)
+
 12.07.2021 [Leccinum quercinum - Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)\
 10.07.2021 [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)\
 09.07.2021 [Lactarius circellatuns - Gebänderter Hainbuchenmilchling](/lactarius-circellatus-gebänderter-hainbuchenmilchling)\
 08.07.2021 [Boletus luridus - Netzstieliger Hexenröhrling](<08.07.2021  Boletus luridus - Netzstieliger Hexenröhrling>)\
 05.07.2021 [Trichaptum abietinum - Violetter Lederporling](/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)\
 04.07.2021 [Amanita fulva - Rotbrauner (Fuchsiger) Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)\
-01.07.2021 [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)
-
+01.07.2021 [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)  
 30.06.2021 [Xerocomus subtomentosus - Ziegenlippe](/pilze/xerocomus-subtomentosus-ziegenlippe)\
 28.06.2021 [Scutellinia crinita - Sumpfschildborstling](/pilze/scutellinia-crinita-bewimperter-schildborstling-sumpfschildborstling)\
 25.06.2021 [Conocybe lactea - Milchweißes Samthäubchen](/pilze/conocybe-lactea-milchweißes-samthäubchen)\
