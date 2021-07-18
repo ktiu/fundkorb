@@ -47,8 +47,8 @@ Hier eine stichwortartige Zusammenfassung der wichtigsten Eigenschaften und Merk
 **Sporenpulverfarbe:** weiß
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/amanita_phalloides_11_dg.jpg" %}
-{% include bild.html datei="/bilder/amanita_phalloides_10_dg.jpg" %}
+{% include bild.html datei="/bilder/amanita_phalloides_11_dg.jpg" gross=true %}
+{% include bild.html datei="/bilder/amanita_phalloides_10_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Dass ein tödlich giftiger Pilz eine ästhetische Schönheit sein kann, beweist dieses gerade aus der Hülle geschlüpfte Exemplar" %}
 
 Verwechslungen mit essbaren Champignons sind auf fahrlässigen Leichtsinn und Blindheit für eindeutige Merkmale zurückzuführen, etwa so, als könne man einen Apfel nicht von einer Orange unterscheiden. Champignons haben nie rein weiße Lamellen. Diese sind jung zartrosa und verfärben sich zunehmend über braun zu schwarz. Champignons haben niemals eine häutige Scheide am Stielgrund.
