@@ -22,7 +22,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/amanita_phalloides_10_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-19.07.2021: Gerade erschienen und daher aktueller [Fundkorbpilz](AA "Glossar-"): der Grüne Knollenblätterpilz Amanita phalloides. Gerade aus seiner Hülle geschlüpft ist er wunderschön - darin waren sich alle Teilnehmer*innen an der gestrigen Exkursion im Rhein-Main-Gebiet einig. "Verführerisch schön!" meinte einer. Wer auf seine Merkmale achtet, wird sich kaum verführen lassen. In mehr als 20 Jahren Pilzberatung im Frankfurter Gesundheitsamt musste ich noch kein einziges Mal einen aus einem Sammelkorb entfernen.
+19.07.2021: Gerade erschienen und daher aktueller [Fundkorbpilz](AA "Glossar-"): der Grüne Knollenblätterpilz Amanita phalloides. Gerade aus seiner Hülle geschlüpft ist er wunderschön - darin waren sich alle Teilnehmer*innen an der gestrigen Exkursion einig. "Verführerisch schön!" meinte einer. Wer auf seine Merkmale achtet, wird sich kaum verführen lassen, ihn zu essen. In mehr als 20 Jahren Pilzberatung im Frankfurter Gesundheitsamt musste ich noch kein einziges Mal einen aus einem Sammelkorb entfernen. Nicht etwa, weil er so selten wäre - im Rhein-Main-Gebiet gehört er durchaus zu den häufigen Arten.
 
 [Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz) 
 
