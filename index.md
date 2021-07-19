@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_phalloides_10_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.07.2021: Gerade erschienen und daher aktueller [Fundkorbpilz](AA "Glossar-"): der Grüne Knollenblätterpilz Amanita phalloides. Gerade aus seiner Hülle geschlüpft ist er wunderschön - darin waren sich alle Teilnehmer*innen an der gestrigen Exkursion im Rhein-Main-Gebiet einig. "Verführerisch schön!" meinte einer. Wer auf seine Merkmale achtet, wird sich kaum verführen lassen. In mehr als 20 Jahren Pilzberatung im Frankfurter Gesundheitsamt musste ich noch kein einziges Mal einen aus einem Sammelkorb entfernen.
+
+[Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz) 
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tapinella_atrotomentosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,51 +47,6 @@ footer_scripts:
 15.07.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder ein Täubling. Er gehört zu den kleineren zerbrechlichen Vertretern der Gattung mit buttergelben Lamellen und farbvariablen Hutfarben.  Man findet ihn überwiegend in Nadel- aber auch Laubwäldern. Sein Name: Milder Wachstäubling Russula puellaris. Wie alle nicht scharf schmeckenden Täublinge mit gelblichen Lamellen ist er essbar, aber nicht unbedingt zu den Premiumarten zu zählen.
 
 [Mehr lesen >](/pilze/russula-odorata-duftender-zwergtäubling)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_augustus_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.07.2021: Gruppenbild mit Riesenchampignons, so möchte ich den aktuellen [Fundkorbpilz](AA "Glossar-") des Tages vorstellen. Schwer zu fotografieren, weil sie unter dicht stehenden Ziersträuchern hinter einem Zaun mit engstehenden Gitterstäben wuchsen. Riesenchampignons sind bei uns in der Dietzenbacher Parkanlage nichts ungewöhnliches. Sie wachsen Jahr für Jahr an etlichen Stellen, aber ein so hübsches Grüppchen habe ich noch nie zuvor gesehen. Der [Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon) (essbar) ist nur eine von mindestens 7 Champignonarten, die hier festgestellt wurden.
-
-[Mehr lesen >](/pilze/agaricus-augustus-riesenchampignon)
-
-<div style="clear: both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leccinum_quercinum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.07.2021 - Aktueller [Fundkorbpilz](AA "Glossar-"): Über den Fund von Rotkappen freut sich jeder Pilzfreund. Sie gehören wie die graubraunhütigen Birkenpilze zu den Raufußröhrlingen, die sich durch strenge Bindung an bestimmte Baumpartner auszeichnen, mit denen sie in Symbiose (Mykorrhiza) leben. Allerdings sind sie sehr viel seltener als die überall häufigen Birkenpilze. Fast alle werden als gefährdete Arten in Roten Listen geführt. Dies gilt insbesondere für die Eichenrotkappe, der wir kürzlich mal wieder begegnet sind. Ob Sammelverbote sinnvoll sind und es dem Schutz der Arten dient, wird viel diskutiert. Der Freiburger Biologe Helgo Bran hat seine Meinung in einem lesenswerten [Fundkorb-Artikel](/artikel/über-sinn-und-unsinn-von-sammelverboten.html) kundgetan. Rote Listen sind übrigens keine unverbindlichen Empfehlungen. Ab einem gewissen Gefährungsgrad dürfen darin geführte Pilzarten nicht gesammelt werden, und das gilt auch für die Eichenrotkappe.
-[Zum Pilzporträt >](/pilze/leccinum-quercinum-eichenrotkappe)
-
-<div style="clear: both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/boletus_satanas_03_bh.jpg" %}
-{% include abbildung_ende.html %}
-
-Wenn sich jemand im Rhein-Main-Gebiet mit einem besonderen Fund an mich wendet, es sich dabei um den Satansröhrling handelt und auch noch ein schönes Foto mitschickt, ist klar, dass daraus ein aktueller [Fundkorbpilz](AA "Glossar-") werden muss. Gefunden wurde er im hessischen Ried von Babett Hübler, das Foto ist von Michael Hornung. Die allermeisten Pilzfreunde kennen den Satansröhrling nur aus ihrem Pilzbuch. Die meisten Funde, die als Satansröhrling gemeldet werden, stellen sich bei einer Nachprüfung als Hexen- oder Schönfußröhrlinge heraus. Diesmal ist er es wirklich. Und gleich sieben Stück davon!
-
-[Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_luridus_04_cc.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-08.07.2021: Heute ist Boletus luridus, der Netzstielige Hexenröhrling und Zwillingsbruder des Flockenstieligen, aktueller [Fundkorbpilz](AA "Glossar-"). Von seinen Freunden wird er liebevoll "Netzhexe" genannt. Dass er zusammen mit Alkohol genossen giftig sein soll, ist ein Gerücht. Beide sind gleichermaßen ausgezeichnete Speisepilze, aber das hat sich noch nicht bei allen herumgesprochen. Da sein Wachstum von kalkhaltigen Böden abhängig ist, ist er in den Wäldern des Rhein-Main-Gebiets kaum zu finden. Ganz anders sieht das in Städten und Gemeinden aus, wo Bautätigkeit oder Düngung für Kalkeintrag sorgen. So sind die Netzhexen zum Beispiel mitten in Dietzenbach oder im Frankfurter Hauptfriedhof regelmäßig zu finden.
-
-[Mehr lesen und schauen >](/pilze/boletus-luridus-netzstieliger-hexenröhrling)
-
-<div style="clear: both"></div>
 
 - - -
 
