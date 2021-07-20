@@ -19,6 +19,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_virescens_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.07.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der [Grünfeldrige Täubling Russula virescens](/pilze/russula-virescens-grüngefelderter-täubling). Wer ihn in seinem Sammelkorb hat, kann sich glücklich schätzen. Er gehört zu den absoluten Premiumarten und gilt bei vielen Pilzfreunden als bester aller Täublinge. Außerdem hat er mit seiner felderig aufreißenden Huthaut ein Merkmal, an dem er gut zu erkennen ist - vorausgesetzt, man hat seinen Fund zweifelsfrei als Täubling identifiziert. Bei sehr jungen Exemplaren ist die Huthaut noch intakt und ohne Felderung. Er ist sicher kein Massenpilz wie Maronen und Rotfußröhrlinge, aber nach einer ziemlich langen Periode, in der er kaum noch zu finden war, ist er wieder in viele Wälder zurückgekehrt.
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_phalloides_10_dg.jpg" %}
 {% include abbildung_ende.html %}
 
