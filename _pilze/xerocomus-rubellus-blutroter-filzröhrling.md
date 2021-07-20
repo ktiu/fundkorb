@@ -23,11 +23,11 @@ Dies trifft in besonderem Maße auf "Filzröhrlinge" zu, die früher einmal alle
 Aeroboletus: Mährischer Filzröhrling\
 Baorangia: Kirschroter Röhrling\
 Hortiboletus: Blutroter Filzröhrling\
-Irmleria: Maronenröhrling\
-Pseudoboletus: Schmarotzerröhrling\
+Irmleria: [Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)\
+Pseudoboletus: [Schmarotzerröhrling](/pilze/xerocomus-parasiticus-schmarotzer-röhrling)\
 Rheubarbariboletus: Aprikostenfarbiger Röhrling\
-Xerocomellus: Rotfußröhrling\
-Xerocomus: Zigenlippe
+Xerocomellus: [Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)\
+Xerocomus: [Ziegenlippe](/pilze/xerocomus-subtomentosus-ziegenlippe)
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/xerocomus_rubellus_01_dg.jpg" %}
