@@ -18,6 +18,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/gyroporus_castaneus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.07.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Hasenröhrling *Gyroporus castaneus*. Wir fanden ihn gestern auf einem locker mit Buchen und Eichen bestandenen Grillplatz bei Jügesheim (Landkreis Offenbach). Er gehört zusammen mit dem Kornblumenröhrling in die Gattung der Blasssporröhrlinge und ist wie dieser ungewöhnlich festfleischig. Es handelt sich um eine geschützte Art, die in Roten Listen als stark gefährdet ausgewiesen wird. In der Rhein-Main-Ebene scheint er gar nicht so selten zu sein. In manchen Jahren bleibt er aus, in anderen erscheint er hier sogar in beträchtlichen Mengen. Ich habe desöfteren Massenvorkommen mit mehr als 50 Fruchtkörpern auf Flächen von etwa 40 Quadratmetern beobachtet. Dass es sich um einen guten Speisepilz handelt, sollte man angesichts seines Gefährdungsgrades vielleicht gar nicht erwähnen.
+
+[Mehr lesen >](/pilze/gyroporus-castaneus-hasenröhrling) 
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_virescens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -37,26 +49,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz) 
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tapinella_atrotomentosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.07.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Samtfußkrempling Tapinella atrotomentosa. Wir haben gestern mehrere wunderschöne Exemplare gefunden. Er ist zwar nicht giftig, aber sein Speisewert hält nicht, was das attraktive Aussehen verspricht. Der Geschmack ist mit "exrem muffig" wohl am besten beschrieben. Er wächst an Holz, am liebsten an Stümpfen von Nadelbäumen. Wer ihn einmal gesehen hat, wird ihn immer sicher wiedererkennen - er gehört also zu den praktisch unverwechselbaren Pilzarten. Wer etwas mehr über die Kremplinge im Allgemeinen erfahren möchte: hier geht´s zu den [Informationen -->](/verwandt/kremplinge) 
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/russula_odorata_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-15.07.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder ein Täubling. Er gehört zu den kleineren zerbrechlichen Vertretern der Gattung mit buttergelben Lamellen und farbvariablen Hutfarben.  Man findet ihn überwiegend in Nadel- aber auch Laubwäldern. Sein Name: Milder Wachstäubling Russula puellaris. Wie alle nicht scharf schmeckenden Täublinge mit gelblichen Lamellen ist er essbar, aber nicht unbedingt zu den Premiumarten zu zählen.
-
-[Mehr lesen >](/pilze/russula-odorata-duftender-zwergtäubling)
 
 - - -
 
