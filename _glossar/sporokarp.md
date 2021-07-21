@@ -1,4 +1,4 @@
 ---
 schlagwort: Sporokarp
 ---
-Sporokarp (Mz.: Sporokarpien) - sporenbildender Fruchtkörper der Schleimpilze (Myxomyzeten)
+(Mz.: Sporokarpien) - sporenbildender Fruchtkörper der Schleimpilze (Myxomyzeten)
