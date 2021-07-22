@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: vaporarius = rauchig
   synonym: "Neuer Name: Agaricus capellianus"
 profil:
-  aktualisiert: 2021-07-16
+  aktualisiert: 2021-07-22
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -27,3 +27,7 @@ Ein Blick in den Verbreitungsatlas zeigt, dass dieser in der populären Pilzlite
 Die Hüte des robusten Pilzes können bis zu 20 cm Durchmesser erreichen. Jung sind sie von hell- bis mittelbrauner Farbe und glatt, nach dem Aufreißen der Huthaut auf hellerem Grund angedrückt schuppig. Das weißliche Fleisch rötet. 
 
 Nachdem man mit modernsten molekularbiologischen Methoden die genetische Verwandtschaft der Champignons mit anderen Gruppen wie Stäublingen oder dem Schopftintling nachgewiesen hat, ist die Familie der Agaricaceae (Champignonähnliche) beträchtlich angewachsen und enthält jetzt mehr als 2500 Arten in über 100 Gattungen.
+
+Nachtrag zur Küchenmykologie von Hedi Eis, die den Kompostegerling in ihrem Garten geerntet hat:
+
+> In der Pfanne habe ich ein paar Zwiebeln in Butter geröstet. Den Pilz habe ich mit etwas Salz und Pfeffer gewürzt und in einem geschlagenen Ei gewälzt, wie man das auch mit einem Schnitzel macht. Beide Seiten habe ich dann je ca. 2 Minuten gebraten und dann die gerösteten Zwiebel darauf gelegt – Deckel auf die Pfanne und noch ein paar Minuten in der warmen Pfanne ziehen lassen. Der Pilz schmeckt sehr gut und wie Sie sehen, lebe ich noch."
