@@ -8,6 +8,7 @@ beschreibung:
   familie: Boletaceae
 profil:
   aktualisiert: 2021-07-16
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/xerocomus_communis_02_dg.jpg
