@@ -19,6 +19,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calocera_viscosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Heute landet einer in unserem Pilzkorb, der durch seine schöne, leuchtend orangegelbe Farbe auffällt und von Pilzsammern oft für einen Korallenpilz gehalten wird, aber keiner ist. Sein Name: [Klebriger Hörning *Calocera viscosa*](/pilze/calocera-viscosa-klebriger-hörnling). Richtig klebrig ist er nicht, höchstens ein ganz kleines Bisschen. Stattdessen glitscht er einem aus den Fingern, wenn man ihn drückt, und er ist unzerreißbar. Das sind Eigenschaften, mit denen er unmöglich ein Speisepilz sein kann. Trotzdem landet er bei manchen Pilzsammlern in der Pfanne. Und zwar allein aus optischen Gründen. Weil er so schön ist. Verwendet werden meist nur die verzweigten Spitzen. Beißt man drauf, ist es etwa so wie bei Gummibärchen. Zerteilen kann man ihn jedoch kaum. Stattdessen glitscht er zwischen den Zähnen weg. Verdaut wird er wohl auch nicht. Vermutlich passiert er völlig unverändert den Magen-/Darmtrakt. Zu finden ist er in Nadelwäldern, und zwar ziemlich häufig. 
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/strobilomyces_strobilaceus_02_rm.jpg" %}
 {% include abbildung_ende.html %}
 
