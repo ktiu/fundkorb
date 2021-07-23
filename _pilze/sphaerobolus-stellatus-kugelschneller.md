@@ -15,7 +15,7 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/s/Sphaerobolus_stellatus.html
   - url: https://de.wikipedia.org/wiki/Kugelschneller
 ---
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/sphaerobolus_stellatus_01dg.jpg" %}
 {% include abbildung_ende.html %}
 
