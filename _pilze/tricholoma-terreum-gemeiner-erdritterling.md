@@ -13,10 +13,10 @@ hauptbild:
   datei: /bilder/tricholoma_terreum_01_dg.jpg
 literatur:
   - url: http://www.tintling.com/pilzbuch/arten/t/Tricholoma_terreum.html
-  - text: "CHRISTENSEN, M. & HEILMANN-CLAUSEN, J. (2013): The genus Tricholoma. -
-      Fungi of Northern Europe - Vol. 4"
   - text: "Karin Montag: Speisewert strittig - Folge 7: Ritterlinge  (Tintling 95,
       4/2015, S. 53 - 62)"
+  - text: "Chrisstensen, M. & Heilmann-Clausen, J. (2013): The genus Tricholoma. -
+      Fungi of Northern Europe - Vol. 4"
 ---
 Bei den Erdritterlingen hat man es mit einer recht schwierigen Gruppe von Pilzen zu tun, die sich sehr ähnlich sehen. Der Gemeine Erdritterling hat einen filzig radialfaserigen grauen Hut, der bis zu 8 cm Durchmesser erreichen kann. Der Stiel ist ebenfalls grau, aber meist deutlich heller als der Hut. Wichtig ist es, auf Verfärbung sowie Geruch und Geschmack zu achten. Im Unterschied zu einigen ähnlichen Arten verfärbt sich sein Fleisch nicht; der Geruch ist nicht mehlig, der Geschmack weder scharf noch ranzig-mehlartig.
 
