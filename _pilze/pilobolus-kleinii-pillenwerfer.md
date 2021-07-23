@@ -6,7 +6,7 @@ beschreibung:
   familie: Pilobolaceae
   synonym: "Synonym: Pilobolus crystallinus"
 profil:
-  aktualisiert: 2021-02-01
+  aktualisiert: 2021-07-23
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
