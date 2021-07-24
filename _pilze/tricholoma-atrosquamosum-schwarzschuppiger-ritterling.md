@@ -40,9 +40,10 @@ Der Schwarzschuppige Ritterling liebt anscheinend basenreiche, sogar kalkreiche 
 
 ##### Verwechslungsmöglichkeiten:
 
-***Tricholoma argyraceum***, der Gilbende Erdritterling, hat einen konischen oder gebuckelten Hut, mehligen Geruch und bei jungen Fruchtkörpern ein deutlich sichtbares Velum. Er wächst in Mischwäldern, Parkanlagen, etc; gern bei Birken. Selten.\
+***Tricholoma argyraceum***, der *Gilbende Erdritterling*, hat einen konischen oder gebuckelten Hut, mehligen Geruch und bei jungen Fruchtkörpern ein deutlich sichtbares Velum. Er wächst in Mischwäldern, Parkanlagen, etc; gern bei Birken. Selten.\
 ***Tricholoma basirubens***, der *Rosafüßige Erdritterling*, besitzt einen meist keuligen Stiel; er rötet oft deutlich an der Stielbasis; Basalmyzel weiß. Seltene Art, vorwiegend im Laubwald bei Buchen.\
-***Tricholoma cingulatum***, der Beringte Erdritterling, hat einen beringten Stiel, gilbendes Fleisch sowie einen unauffälligen oder schwach mehligen Geruch. Er ist ziemlich selten und wächst bei Laubbäumen, vor allem Birken oder Weiden.\
+***Tricholoma cingulatum***, der *Beringte Erdritterling*, hat einen beringten Stiel, gilbendes Fleisch sowie einen unauffälligen oder schwach mehligen Geruch. Er ist ziemlich selten und wächst bei Laubbäumen, vor allem Birken oder Weiden.\
+***[Tricholoma inocybeoides](/pilze/tricholoma-inocybeoides-spitzgebuckelter-ritterling)***, der *Spitzgebuckelte Erdritterling*, wird z. Zt. meist als Varietät von *Tricholoma argyraceum* aufgefasst.\
 ***Tricholoma orirubens***, der *Rötende Erdritterling*, rötet nach längerem Liegenlassen in den Lamellen; seine Stielbasis ist oftmals blaugrün gefleckt; das Basalmyzel ist gelblich. Er wächst in Laubwäldern auf kalkhaltigen Böden, gern bei Buchen; ebenfalls selten.\
 ***Tricholoma squarrulosum***, der *Schuppenstielige Erdritterling*, besitzt einen grauschuppigen Stiel und einen sparrig-schuppigen Hut; Basalmyzel weiß. In Laub- und Nadelwäldern.\
 ***[Tricholoma terreum](/pilze/tricholoma-terreum-gemeiner-erdritterling)***, der *Gemeine Erdritterling*. Während die vorgenannten drei Arten und auch Tricholoma atrosquamosum irgendwie bitterlich oder nach Mehl schmecken und fruchtig oder nach Mehl riechen, ist Tricholoma terreum völlig mild und geruchlos. Außerdem verfärben sich weder Hut noch Stiel oder Lamellen. Das Basalmyzel ist weiß.\
