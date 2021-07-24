@@ -43,7 +43,9 @@ Seit mehreren Vergiftungsfällen in Frankreich und Polen, darunter einige mit To
 
 ### Zur Giftwirkung des Grünlings
 
-Das Bundesinstitut für Risikobewertung gab 2004 dazu eine Stellungnahme ab: „In sehr seltenen Fällen kann es nach dem Verzehr des Grünlings bei bestimmten empfindlichen Personen zu einem schweren Muskelzellverfall (Rhabdomyolyse) kommen. In Deutschland sind bis heute keine derartigen Fälle beobachtet bzw. gemeldet worden. Aufgrund der unzureichenden Datenlage ist derzeit eine abschließende Risikobewertung nicht möglich. Allerdings ist die Zahl der durch Grünlinge ausgelösten Unverträglichkeitsreaktionen im Vergleich zu anderen Pilzsorten, die ebenfalls Unverträglichkeitsreaktionen hervorrufen können (z. B. roh verzehrter Hallimasch), außerordentlich gering. Damit stellt sich, nach Einschätzung des BfR, auch das Risiko für den Verbraucher als eher gering dar.“
+Das Bundesinstitut für Risikobewertung gab 2004 dazu eine Stellungnahme ab:
+
+> In sehr seltenen Fällen kann es nach dem Verzehr des Grünlings bei bestimmten empfindlichen Personen zu einem schweren Muskelzellverfall (Rhabdomyolyse) kommen. In Deutschland sind bis heute keine derartigen Fälle beobachtet bzw. gemeldet worden. Aufgrund der unzureichenden Datenlage ist derzeit eine abschließende Risikobewertung nicht möglich. Allerdings ist die Zahl der durch Grünlinge ausgelösten Unverträglichkeitsreaktionen im Vergleich zu anderen Pilzsorten, die ebenfalls Unverträglichkeitsreaktionen hervorrufen können (z. B. roh verzehrter Hallimasch), außerordentlich gering. Damit stellt sich, nach Einschätzung des BfR, auch das Risiko für den Verbraucher als eher gering dar.“
 
 Aus Frankreich und Polen sind zwölf Vergiftungsfälle beschrieben worden, bei denen drei Personen starben. In allen diesen Fällen wurde Rhadomyolyse diagnostiziert und es wurde eine weitere Gemeinsamkeit festgestellt: alle betroffenen Personen hatten mehrere üppige Grünlingsmahlzeiten an aufeinanderfolgenden Tagen zu sich genommen. Nach wie vor ist der Wirkmechanismus nicht hinreichend geklärt und es konnte kein verantwortliches Gift identifiziert werden.
 
