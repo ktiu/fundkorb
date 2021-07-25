@@ -19,6 +19,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rhodocybe_gemina_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller Fundkorbpilz am 25.07.2021 ist einer für fortgeschrittene Speisepilzsammler. Der [Würzige Tellerling Rhodocybe gemina](/pilze/rhodocybe-gemina-würziger-tellerling) ist ein Lamellenpilz, der für das ungeübte Anfänger-Pilzauge aussieht wie jeder x-beliebige Lamellenpilz. Er hat keine Merkmale, die ihn auf den ersten Blick von anderen Pilzarten unterscheidet wie zum Beispiel ein Parasol und er ist in kaum einem populären Pilzbuch erwähnt und abgebildet. Außerdem ist er nicht gerade häufig. Es sind vor allem die rosa- bis beigefarbenen Lamellen, die erfahrenere Pilzfreunde auf die richtige Spur führen und die, die ihn sicher identifiziert haben, dürfen sich auf ein schmackhaftes Pilzgericht freuen.
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/calocera_viscosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,40 +45,6 @@ Heute landet einer in unserem Pilzkorb, der durch seine schöne, leuchtend orang
 22.07.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der genau so aussieht wie er heißt: Strubbelkopfröhrling. Den betrachtet man sich immer wieder gern, möchte ihn aber nicht in der Pfanne haben. Giftig ist er nicht. Wer ihn schon mal probiert hat, kommt zu dem Schluss: "Der schmeckt auch so wie er aussieht." Im englischen Sprachraum nennt man ihn "The old man of the woods". Auch das ist nachvollziehbar. Mit seinem grauen Hutrandbehang ist der Vergleich mit einem alten bärtigen Waldstrat naheliegend. Er ist nicht gerade häufig, aber früher oder später ist er wohl jedem passionierten Pilzfreund schon mal begegnet.
 
 [Mehr lesen >](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gyroporus_castaneus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.07.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Hasenröhrling *Gyroporus castaneus*. Wir fanden ihn gestern auf einem locker mit Buchen und Eichen bestandenen Grillplatz bei Jügesheim (Landkreis Offenbach). Er gehört zusammen mit dem Kornblumenröhrling in die Gattung der Blasssporröhrlinge und ist wie dieser ungewöhnlich festfleischig. Es handelt sich um eine geschützte Art, die in Roten Listen als stark gefährdet ausgewiesen wird. In der Rhein-Main-Ebene scheint er gar nicht so selten zu sein. In manchen Jahren bleibt er aus, in anderen erscheint er hier sogar in beträchtlichen Mengen. Ich habe desöfteren Massenvorkommen mit mehr als 50 Fruchtkörpern auf Flächen von etwa 40 Quadratmetern beobachtet. Dass es sich um einen guten Speisepilz handelt, sollte man angesichts seines Gefährdungsgrades vielleicht gar nicht erwähnen. 
-
-[Mehr lesen >](/pilze/gyroporus-castaneus-hasenröhrling) 
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_virescens_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.07.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der [Grünfeldrige Täubling Russula virescens](/pilze/russula-virescens-grüngefelderter-täubling). Wer ihn in seinem Sammelkorb hat, kann sich glücklich schätzen. Er gehört zu den absoluten Premiumarten und gilt bei vielen Pilzfreunden als bester aller Täublinge. Außerdem hat er mit seiner felderig aufreißenden Huthaut ein Merkmal, an dem er gut zu erkennen ist - vorausgesetzt, man hat seinen Fund zweifelsfrei als Täubling identifiziert. Bei sehr jungen Exemplaren ist die Huthaut noch intakt und ohne Felderung. Er ist sicher kein Massenpilz wie Maronen und Rotfußröhrlinge, aber nach einer ziemlich langen Periode, in der er kaum noch zu finden war, ist er wieder in viele Wälder zurückgekehrt.
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_phalloides_10_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.07.2021: Gerade erschienen und daher aktueller [Fundkorbpilz](AA "Glossar-"): der *Grüne Knollenblätterpilz Amanita phalloides*. Gerade aus seiner Hülle geschlüpft ist er wunderschön - darin waren sich alle Teilnehmer*innen an der gestrigen Exkursion einig. "Verführerisch schön!" meinte einer. Wer auf seine Merkmale achtet, wird sich kaum verführen lassen, ihn zu essen.  Nicht etwa, weil er so selten wäre - im Rhein-Main-Gebiet gehört er zu den häufigen Arten. Das ist in der Tat von Vorteil, denn Pilzsammler haben ausreichend Gelegenheit, in gut genug kennenzulernen, um ihn nicht mit anderen Arten zu verwechseln. In mehr als 20 Jahren Pilzberatung im Frankfurter Gesundheitsamt musste ich den tödlich giftigen Pilz kein einziges Mal aus einem Sammelkorb entfernen.
-
-[Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz) 
 
 <div style="clear:  both"></div>
 
