@@ -65,11 +65,12 @@ Die zu den [Bauchpilzen](Bauchpilze "Glossar") gehörige Familie der [Nestlingsa
 {% include bild.html datei="/bilder/crucibulum_laeve_01_tl.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-**Aufgrund eines technischen Fehlers ist die Seite nachfolgend nicht so, wie sie sein sollte. Wir arbeiten daran.**
+
 
 {% include abbildung_start.html stil="mittel" %}
  {% include bild.html datei="bilder/Crucibulum_laeve_01_TL.jpg" zuschneiden="ja" legende="Crucibulum laeve – Tiegelteuerling" %}
   {% include bild.html datei="bilder/Cyathus_olla_01_DG.jpg" zuschneiden="ja" legende="Cyathus olla – Topfteuerling" %}
+
   </div><div class = "bilder">
   {% include bild.html datei="bilder/Cyathus_striatus_05_DG.jpg" zuschneiden="ja" legende="Cyathus striatus – Gestreifter Teuerling" %}
   {% include bild.html datei="bilder/Cyathus_stercoreus_02_DG.jpg
