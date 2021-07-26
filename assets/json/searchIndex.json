@@ -7,7 +7,6 @@ layout: null
     "wissenschaftlich" : "{{ pilz.beschreibung.wissenschaftlich | escape }}",
     "deutsch"          : "{{ pilz.beschreibung.deutsch | escape }}",
     "synonym"          : "{{ pilz.beschreibung.synonym | escape }}",
-    "profilbild"       : "{{ pilz.hauptbild.datei | relative_url | escape }}?nf_resize=smartcrop&w=60&h=60",
     "url"              : "{{ pilz.url | relative_url | escape }}"
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}
