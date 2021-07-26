@@ -22,7 +22,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/rhodocybe_gemina_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Aktueller Fundkorbpilz am 25.07.2021 ist einer für fortgeschrittene Speisepilzsammler. Der [Würzige Tellerling Rhodocybe gemina](/pilze/rhodocybe-gemina-würziger-tellerling) ist ein Lamellenpilz, der für das ungeübte Anfänger-Pilzauge aussieht wie jeder x-beliebige Lamellenpilz. Er hat keine Merkmale, die ihn auf den ersten Blick von anderen Pilzarten unterscheidet wie zum Beispiel ein Parasol und er ist in kaum einem populären Pilzbuch erwähnt und abgebildet. Außerdem ist er nicht gerade häufig. Es sind vor allem die rosa- bis beigefarbenen Lamellen, die erfahrenere Pilzfreunde auf die richtige Spur führen und die, die ihn sicher identifiziert haben, dürfen sich auf ein schmackhaftes Pilzgericht freuen. Der Name *Tellerling* deutet es ja schon an: er ist für den Teller bestimmt.
+Aktueller [Fundkorbpilz](AA "Glossar-") am 25.07.2021 ist einer für fortgeschrittene Speisepilzsammler. Der [Würzige Tellerling Rhodocybe gemina](/pilze/rhodocybe-gemina-würziger-tellerling) ist ein Lamellenpilz, der für das ungeübte Anfänger-Pilzauge aussieht wie jeder x-beliebige Lamellenpilz. Er hat keine Merkmale, die ihn auf den ersten Blick von anderen Pilzarten unterscheidet wie zum Beispiel ein Parasol und er ist in kaum einem populären Pilzbuch erwähnt und abgebildet. Außerdem ist er nicht gerade häufig. Es sind vor allem die rosa- bis beigefarbenen Lamellen, die erfahrenere Pilzfreunde auf die richtige Spur führen und die, die ihn sicher identifiziert haben, dürfen sich auf ein schmackhaftes Pilzgericht freuen. Der Name *Tellerling* deutet es ja schon an: er ist für den Teller bestimmt.
 
 <div style="clear:  both"></div>
 
