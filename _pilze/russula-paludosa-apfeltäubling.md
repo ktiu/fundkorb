@@ -40,6 +40,6 @@ Eine nur schwache Riefung am Hutrand und eine etwas glänzende Huthaut sind weit
   </table>
 </div>
 
-Wenn man auf all diese Merkmale achtet, ist eine Verwechslung am ehesten mit roten *Graustieltäublingen* oder dem *Ziegelroten Täubling Russula velenovskyi* möglich, die ebenfalls essbar sind. Letzterer wächst aber in Laubwäldern und ist deutlich seltener ist. Der Orangerote Graustieltäubling kommt nicht selten zusammen mit Apfeltäublingen vor; bei Verletzung (Anschnitt) rötet sein Fleisch zuerst und verfärbt sich dann zu grau. 
+Wenn man auf all diese Merkmale achtet, ist eine Verwechslung am ehesten mit roten *Graustieltäublingen* oder dem *Ziegelroten Täubling Russula velenovskyi* möglich, die ebenfalls essbar sind. Letzterer wächst aber in Laubwäldern und ist deutlich seltener. Der Orangerote Graustieltäubling kommt öfters zusammen mit Apfeltäublingen vor; bei Verletzung (Anschnitt) rötet sein Fleisch zuerst und verfärbt sich dann zu grau. 
 
 Nach meiner Beobachtung schwanken die Vorkommen des Apfeltäublings beträchtlich. In manchen Jahren findet man sie *en masse*, in anderen nur spärlich, in manchen bleiben sie nahezu aus. Hinweis für die Küche: er ist auf jeden Fall ein sammelwürdiger schmackhafter Speisepilz. Und kann ganz schön groß werden!
