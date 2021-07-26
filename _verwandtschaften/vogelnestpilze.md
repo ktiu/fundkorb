@@ -67,14 +67,14 @@ Die zu den [Bauchpilzen](Bauchpilze "Glossar") gehörige Familie der [Nestlingsa
 
 **Aufgrund eines technischen Fehlers ist die Seite nachfolgend nicht so, wie sie sein sollte. Wir arbeiten daran.**
 
+{% include abbildung_start.html stil="mittel" %}
  {% include bild.html datei="bilder/Crucibulum_laeve_01_TL.jpg" zuschneiden="ja" legende="Crucibulum laeve – Tiegelteuerling" %}
   {% include bild.html datei="bilder/Cyathus_olla_01_DG.jpg" zuschneiden="ja" legende="Cyathus olla – Topfteuerling" %}
+  </div><div class = "bilder">
   {% include bild.html datei="bilder/Cyathus_striatus_05_DG.jpg" zuschneiden="ja" legende="Cyathus striatus – Gestreifter Teuerling" %}
   {% include bild.html datei="bilder/Cyathus_stercoreus_02_DG.jpg
   " zuschneiden="ja" legende="Cyathus stercoreus - Dungteuerling" %}
-
-  <figcaption>(Fotos: Nidularia deformis, Cruibulum laeve von Thomas Lehr; die drei Cyathus-Arten von Dieter Gewalt)</figcaption>
-</figure>
+{% include abbildung_ende.html legende="(Fotos: Nidularia deformis, Cruibulum laeve von Thomas Lehr; die drei Cyathus-Arten von Dieter Gewalt)" %}
 
 Der Tiegelteuerling Crucibulum laeve ist nach dem Gestreiften Teuerling die zweithäufigste Art dieser Gruppe und leicht an ihrem gelben Deckelhäutchen (Epiphragma) zu erkennen. Es reißt im Verlauf des Wachstums auf und gibt den Blick ins Innere der tiegelförmigen Behälter frei. Hier liegen die Peridiolen, in denen die Sporen gebildet werden.
 
