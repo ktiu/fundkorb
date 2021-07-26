@@ -21,7 +21,7 @@ Die scharfrandigen am Hutrand dünnfleischigen Hüte sind weiß, nicht selten et
 {% include bild.html datei="/bilder/clitopilus_prunulus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Der Mehlräsling ist eine nicht seltene [saprobiontisch](<saprobiontisch "Glossar">) lebende Art sowohl in Nadel-, Laub- und Mischwäldern, gelegentlich auch in Parkanlagen. Die Erscheinungszeit ist Juli bis Spätherbst.
+Der Mehlräsling ist eine nicht seltene [saprobiontisch](saprobiontisch "Glossar") lebende Art sowohl in Nadel-, Laub- und Mischwäldern, gelegentlich auch in Parkanlagen. Die Erscheinungszeit ist Juli bis Spätherbst.
 
 Als Speisepilz kann er durchaus empfohlen werden, aber nur erfahrenen Pilzkennern, die es gewohnt sind, genau auf relevante Merkmale zu achten. Ähnlich weiße und stark giftige Trichterlinge haben weiße, nicht rosa verfärbende Lamellen (also auch weißes Sporenpulver) und riechen nicht nach Mehl. Einige wenige mehlig riechende Trichterlinge haben keine weiße Hutfarbe und sind ungiftig, aber ohne kulinarischen Wert.
 
