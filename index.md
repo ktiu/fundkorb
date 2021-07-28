@@ -18,6 +18,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_violeipes_01_dg-.jpg" %}
+{% include abbildung_ende.html %}
+
+28.07.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Violettstielige Brätlingstäubling Russula violeipes. Er scheint zur Zeit in der Rhein-Main-Ebene Hochkonjunktur zu haben, sehr zur Freude von Feinschmeckern, die ihn als Premium-Art unter den Täublingen schätzen. Der Namenszusatz "Brätling" sagt eigentlich schon genug. Seine sehr fein bereifte Huthaut lässt die vorherrschende Gelbfarbe in einer eigenartigen mit Worten kaum zu beschreibenden Nuance erscheinen, an der man mit einiger Erfahrung diesen Täubling erkennen kann. Die Hutfarbe nimmt beim Altern zunehmend Grün- und/oder Violettöne an, die mitunter sogar dominierend werden können. Violetttöne kommen auch an den Stielen vor, können aber auch völlig fehlen oder ebenfalls dominieren. Er wächst in Laubwäldern, nach meiner Beobachtung gern an Wegrändern.
+
+[Mehr lesen >](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rhodocybe_gemina_02_dg.jpg" %}
 {% include abbildung_ende.html %}
