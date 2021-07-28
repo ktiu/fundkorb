@@ -2,16 +2,17 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-25.07.2021 [Rhodocybe gemina - Würziger Tellerling](/pilze/rhodocybe-gemina-würziger-tellerling)  
-23.07.2021 [Calocera viscosa Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)\
+28.07.2021 [Russula violeipes - Violettstieliger Brätlingstäubling](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)  
+25.07.2021 [Rhodocybe gemina - Würziger Tellerling](/pilze/rhodocybe-gemina-würziger-tellerling)\
+23.07.2021 [Calocera viscosa Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)
+
 22.07.2021 [Strobilomyces strobilaceus - Strubbelkopfröhrling](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)\
 21.07.2021 [Gyroporus castaneus - Hasenröhrling](/pilze/gyroporus-castaneus-hasenröhrling)\
 20.07.2021 [Russula virescens - Grüngefelderter Täubling](/pilze/russula-virescens-grüngefelderter-täubling)\
 19.07.2021 [Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)\
 18.07.2021 [Tapinella atrotomentosa - Samtfußkrempling](/pilze/tapinella-atrotomentosa-samtfußkrempling)\
 15.07.2021 [Russula puellaris - Milder Wachstäubling](/pilze/russula-puellaris-milder-wachstäubling-mädchentäubling)\
-14.07.2021 [Agaricus augustus - Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon)
-
+14.07.2021 [Agaricus augustus - Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon)  
 12.07.2021 [Leccinum quercinum - Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)\
 10.07.2021 [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)\
 09.07.2021 [Lactarius circellatuns - Gebänderter Hainbuchenmilchling](/lactarius-circellatus-gebänderter-hainbuchenmilchling)\
