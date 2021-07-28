@@ -20,6 +20,10 @@ literatur:
 
 Dass der Lungenseitling an aufrecht stehenden Bäumen wächst, ist eher die Ausnahme. Am häufigsten findet man ihn an liegenden noch berindeten Buchenstämmen. Dass er von Pilzfliegen besucht wird, habe ich schon oft beobachtet.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/pleurotus_pulmonarius_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 Wenn die Huthaut so deutlich weißlich, höchstens hellgrau gefärbt ist wie auf dem Foto oben, ist die Zuordnung recht problemlos. Das ist nicht immer der Fall, und dann sieht er einem nahen Verwandten, dem bekannteren Austernseitling [Pleurotus ostreatus](/pilze/pleurotus-ostreatus-austernseitling), der an den gleichen Laubholzarten vorkommt, zum Verwechseln ähnlich. Hin und wieder findet man sogar beide am gleichen Stamm.
 
 {% include abbildung_start.html stil="klein" %}
