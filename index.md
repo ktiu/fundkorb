@@ -18,6 +18,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tylopilus_felleus_02_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller Fundkorbpilz am 29.07.2021 und Warnung an alle Steinpilzsammler! Der berüchtigte Gallenröhrling Tylopilus felleus ist in diesem Jahr schon sehr früh da und zumindest im Rhein-Main-Gebiet sogar recht zahlreich. Wer im Nadelwald oder auch in einem Laubwald mit eingestreuten Nadelbäumen Steinpilze sucht, sollte auf der Hut sein. Ganz junge Steinpilze und ebenso junge Gallenröhrlinge sind optisch oft nicht auseinanderzuhalten. Da haben beide noch weiße Poren auf der Hutunterseite. Später ist die Trennung kein Problem. Da wird der Schwamm des Bitterlings rosa, der des Steinpilzes gelblich, grünlich und zuletzt olivgrün. Ein einziger kann ein komplettes Steinpilzgericht ruinieren. Sich vor Vrwechslungen zu schützen ist denkbar einfach. Eine Geschmacksprobe genügt, den Spaßverderber zu entlarven. Oft reicht es schon, am angeschnittenen Pilz zu lecken, was aber im Eifer des Sammelns oft vergessen wird. 
+
+[Mehr lesen >](/artikel/die-invasion-der-bitterlinge.html)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_violeipes_01_dg-.jpg" %}
 {% include abbildung_ende.html %}
