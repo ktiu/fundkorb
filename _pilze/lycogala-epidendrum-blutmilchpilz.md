@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Lycogala epidendrum
   deutsch: Blutmilchpilz
   referenz: "(J.C.Buxb. ex L.) Fr. 1829 "
-  familie: Enteridiidae
+  familie: Enterididae
   erlaeuterung: epidendrum = auf dem Baum sitzend
 profil:
   aktualisiert: 2020-09-20
