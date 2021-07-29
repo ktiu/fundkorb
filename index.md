@@ -60,17 +60,7 @@ Heute landet einer in unserem Pilzkorb, der durch seine schöne, leuchtend orang
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/strobilomyces_strobilaceus_02_rm.jpg" %}
-{% include abbildung_ende.html %}
 
-22.07.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der genau so aussieht wie er heißt: Strubbelkopfröhrling. Den betrachtet man sich immer wieder gern, möchte ihn aber nicht in der Pfanne haben. Giftig ist er nicht. Wer ihn schon mal probiert hat, kommt zu dem Schluss: "Der schmeckt auch so wie er aussieht." Im englischen Sprachraum nennt man ihn "The old man of the woods". Auch das ist nachvollziehbar. Mit seinem grauen Hutrandbehang ist der Vergleich mit einem alten bärtigen Waldstrat naheliegend. Er ist nicht gerade häufig, aber früher oder später ist er wohl jedem passionierten Pilzfreund schon mal begegnet.
-
-[Mehr lesen >](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
 
 [Liste aller Aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
 
