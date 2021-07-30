@@ -26,7 +26,7 @@ Die zu den [Bauchpilzen](Bauchpilze "Glossar") gehörige Familie der [Nestlingsa
 <tr>
   <th>1*</th>
   <td>Fruchtkörper kugelig oder kissenfömig, unregelmäßig aufreißend</td>
-  <th>[Nidularia deformis](/pilze/nidularia-deformis-vollgestopfter-nestling)</th>
+  <th>Nidularia deformis</th>
 </tr>
 <tr>
   <th>2</th>
