@@ -8,9 +8,6 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-- - -
-
-##### ... es gibt wieder [Termine für pilzkundliche Führungen](/termine).
 
 - - -
 
