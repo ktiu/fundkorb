@@ -26,7 +26,7 @@ Die zu den [Bauchpilzen](Bauchpilze "Glossar") gehörige Familie der [Nestlingsa
 <tr>
   <th>1*</th>
   <td>Fruchtkörper kugelig oder kissenfömig, unregelmäßig aufreißend</td>
-  <th>Nidularia deformis</th>
+  <th>[Nidularia deformis](/pilze/nidularia-deformis-vollgestopfter-nestling)</th>
 </tr>
 <tr>
   <th>2</th>
@@ -64,8 +64,6 @@ Die zu den [Bauchpilzen](Bauchpilze "Glossar") gehörige Familie der [Nestlingsa
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/crucibulum_laeve_01_tl.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
-
-
 
 {% include abbildung_start.html stil="mittel" %}
  {% include bild.html datei="bilder/Crucibulum_laeve_01_TL.jpg" zuschneiden="ja" legende="Crucibulum laeve – Tiegelteuerling" %}
