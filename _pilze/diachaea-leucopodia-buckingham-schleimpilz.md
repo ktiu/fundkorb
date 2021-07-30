@@ -41,3 +41,5 @@ Wenige Tage nach unserem persönlichen Erstfund fanden wir wenige Meter von der 
 {% include abbildung_ende.html legende="Diesen Anblick bieten die winzigen Myxos aus einem halben Meter Höhe betrachtet: leicht zu übersehen" %}
 
 Laut DGfM-Kartierung für Hessen könnte es ein Erstfund für das Bundesland sein.
+
+Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum Fundkorb-Artikel [Schleimpilze (Myxomyzeten)](/verwandt/schleimpilze(myxomyzeten))
