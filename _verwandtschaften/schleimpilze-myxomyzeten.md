@@ -1,6 +1,6 @@
 ---
 titel: Schleimpilze (Myxomyzeten)
-autor_in: von Dieter Gewalt
+autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/physarum_cinereum_08_dg.jpg
