@@ -18,7 +18,10 @@
         $("#optOutLabel").text(inString);
       } else {
         console.log('setting cookie');
-        Cookies.set('optOutOfAnalytics', true, { sameSite: 'strict' })
+        Cookies.set('optOutOfAnalytics', true, {
+          sameSite: 'strict',
+          expires: 10 * 365 * 24 * 60 * 60
+        })
         $("#optOutLabel").text(outString);
       }
     });
