@@ -31,7 +31,7 @@ Die zu den [Bauchpilzen](Gasteromyzeten "Glossar") gehörige Familie der Nestlin
 <tr>
   <th>2</th>
   <td>Peridiolen hell bis gelblich braun, Deckelhäutchen gelb</td>
-  <th><a href="../pilze/crucibulum-laeve-tiegelteuerling>Crucibulum laeve</a></th>
+  <th><a href="../pilze/crucibulum-laeve-tiegelteuerling">Crucibulum laeve</a></th>
 </tr>
 <tr>
   <th>2*</th>
