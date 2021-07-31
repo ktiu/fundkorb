@@ -36,6 +36,6 @@ Damit noch nicht genug und man mag es kaum glauben: in Mexiko findet die Lohblü
 {% include bild.html datei="/bilder/fuligo_septica_04_aa.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Foto: Adam Adamowitz" %}
 
-Der Name Lohblüte bezieht sich auf die früher Gerberlohe genannte Rinde von Eichen, auf der dieser Schleimpilz oft zu finden war. Unseren Vorfahren war der Wald ein Ort, in der Hexen ihr Unwesen trieben, und nannten die Gelbe Lohblüte deshalb auch *Hexenbutter*. In England ist sie unter den Namen *Scrambled egg slime* (Rührei-Schleim), *Dog vomit slime* (Hundekotze) und *Flower of sulphu*r (Schwefelblüte) bekannt.
+Der Name Lohblüte bezieht sich auf die früher Gerberlohe genannte Rinde von Eichen, auf der dieser Schleimpilz oft zu finden war. Unseren Vorfahren war der Wald ein Ort, in der Hexen ihr Unwesen trieben, und nannten die Gelbe Lohblüte deshalb auch *Hexenbutter*. In England ist sie unter den Namen *Scrambled egg slime* (Rührei-Schleim), *Dog vomit slime* (Hundekotze) und *Flower of sulphu*r (Schwefelblüte) bekannt. 
 
 Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
