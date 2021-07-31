@@ -33,3 +33,5 @@ Der Stäublings-Schleimpilz kann Größen von 8 bis 10 Zentimeter Länge erreich
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/reticularia_lycoperdon_03_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Foto: Frank Kaster" %}
+
+Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
