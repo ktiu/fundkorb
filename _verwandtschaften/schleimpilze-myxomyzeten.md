@@ -1,5 +1,5 @@
 ---
-titel: Schleimpilze (Myxomyzeten)
+titel: Schleimpilze
 autor_in: von Dieter Gewalt
 hauptbild:
   anzeige: false
