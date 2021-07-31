@@ -8,10 +8,19 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-
 - - -
 
 {% include pilzsuche.html %}
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clathrus_ruber_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.07.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der [Rote Gitterling Clathrus ruber](/pilze/clathrus-ruber-roter-gitterling). Er gehört zu den "Stinkmorchelartigen" (Phallaceae), stinkt aber nicht so penetrant wie eine Stinkmorchel. Es handelt sich um eine seltene Art, die im Rhein-Main-Gebiet einen Verbreitungsschwerpunkt zu haben scheint, ohne hier auch nur annähernd häufig zu sein. Bei uns in Mitteleuropa darf der Rote Gitterling als unverwechselbar gelten, in tropischen und subtropischen Breiten gibt es jedoch ähnliche Arten. Mein aktueller Fund stammt aus dem Götzenhainer Ringwäldchen, einem einst wunderschönen Biotop, das inzwischen total zugewuchert ist. Auch das eine Folge des Klimawandels: durch Trockenheit geschädigte Bäume = Auslichtung im Blätterdach der Baumkronen = Lichteinfall auf den Waldboden, der zu flächendeckendem Wachtum von Pflanzen führt, die in einem gesunden Wald nichts zu suchen haben. Diesen Trend kann man zur Zeit in fast allen Wäldern beobachten.
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -36,28 +45,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 29.07.2021 und Warnung an alle Steinp
 [Mehr lesen >](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)
 
 - - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rhodocybe_gemina_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 25.07.2021 ist einer für fortgeschrittene Speisepilzsammler. Der [Würzige Tellerling Rhodocybe gemina](/pilze/rhodocybe-gemina-würziger-tellerling) ist ein Lamellenpilz, der für das ungeübte Anfänger-Pilzauge aussieht wie jeder x-beliebige Lamellenpilz. Er hat keine Merkmale, die ihn auf den ersten Blick von anderen Pilzarten unterscheidet wie zum Beispiel ein Parasol und er ist in kaum einem populären Pilzbuch erwähnt und abgebildet. Außerdem ist er nicht gerade häufig. Es sind vor allem die rosa- bis beigefarbenen Lamellen, die erfahrenere Pilzfreunde auf die richtige Spur führen und die, die ihn sicher identifiziert haben, dürfen sich auf ein schmackhaftes Pilzgericht freuen. Der Name *Tellerling* deutet es ja schon an: er ist für den Teller bestimmt.
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calocera_viscosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Heute landet einer in unserem Pilzkorb, der durch seine schöne, leuchtend orangegelbe Farbe auffällt und von Pilzsammern oft für einen Korallenpilz gehalten wird, aber keiner ist. Sein Name: [Klebriger Hörning *Calocera viscosa*](/pilze/calocera-viscosa-klebriger-hörnling). Richtig klebrig ist er nicht, höchstens ein ganz kleines Bisschen. Stattdessen glitscht er einem aus den Fingern, wenn man ihn drückt, und er ist unzerreißbar. Das sind Eigenschaften, mit denen er unmöglich ein Speisepilz sein kann. Trotzdem landet er bei manchen Pilzsammlern in der Pfanne. Und zwar allein aus optischen Gründen. Weil er so schön ist. Verwendet werden meist nur die verzweigten Spitzen. Beißt man drauf, ist es etwa so wie bei Gummibärchen. Zerteilen kann man ihn jedoch kaum. Stattdessen glitscht er zwischen den Zähnen weg. Verdaut wird er wohl auch nicht. Vermutlich passiert er völlig unverändert den Magen-/Darmtrakt. Zu finden ist er in Nadelwäldern, und zwar ziemlich häufig. 
-
-<div style="clear:  both"></div>
-
-- - -
-
-
 
 [Liste aller Aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
 
