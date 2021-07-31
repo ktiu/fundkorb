@@ -22,7 +22,4 @@ Der Blutmilchpilz ist einer der häufigsten Schleimpilze (Myxomyceten). Auffäll
 
 Genau genommen sind Schleimpilze keine Pilze, sondern amöbenartige einzellige Lebewesen, die sich kriechend fortbewegen und wie Tiere fressen. Sie bilden eine riesige schleimige Zelle, die Millionen von Zellkernen enthält und Plasmodium genannt wird. Sie ernähren sich von Bakterien, Hefen, Pilzhyphen, Sporen und vielem mehr, indem sie diese umfließen, sich einverleiben und verdauen. In ihrem letzten Lebensstadium verwandeln sie sich in sporenbildende Fruchtkörper (sogenannte Sporangien), um sich wie Pilze fortzupflanzen. Ihre subtile Schönheit erschließt sich dem Betrachter meist erst mit Hilfe einer Lupe. Sie auf Artebene sicher zu bestimmen ist nicht immer einfach, verändern sie doch in ihrem Lebenszyklus ständig ihr Aussehen, bis sie schließlich ihr Reifestadium erreichen. Oft ist die Bestimmung nur anhand reifer Fruchtkörper möglich. Man kennt heute weltweit rund 900 Arten in 60 Gattungen.
 
-Weitere Schleimpilze im Fundkorb:  
-[Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)  
-[Physarum utriculare - Fadenfruchtschleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)  
-[Stemonitis axifera - Gemeines Fadenstäubchen](/pilze/stemonitis-axifera-gemeines-fadenstäubchen)
+Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
