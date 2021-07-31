@@ -20,7 +20,7 @@
         console.log('setting cookie');
         Cookies.set('optOutOfAnalytics', true, {
           sameSite: 'strict',
-          expires: 10 * 365 * 24 * 60 * 60
+          expires: 10 * 365
         })
         $("#optOutLabel").text(outString);
       }
