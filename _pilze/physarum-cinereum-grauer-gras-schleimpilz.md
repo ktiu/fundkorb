@@ -34,4 +34,4 @@ Die einzelnen [Sporokarpien](Sporokarp "Glossar") saßen stiellos und meist dich
 
 Unser Sporenpulverpräparat (dunkel blaugrau) wurde von Frank Kaster untersucht. Er fand rundliche, feinwarzige Sporen mit Durchmessern um die 10 µm.
 
-Die Art dürfte relativ häufig sein und gehört zu den relativ wenigen Myxomyzeten, die an Blättern und Stängeln lebender Pflanzen wachsen.
+Die Art dürfte ziemlich häufig sein und gehört zu den relativ wenigen Myxomyzeten, die an Blättern und Stängeln lebender Pflanzen hochwachsen und dort ihre Sporokarpien ausbilden.
