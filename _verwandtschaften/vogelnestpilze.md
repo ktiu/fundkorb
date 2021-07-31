@@ -26,12 +26,12 @@ Die zu den [Bauchpilzen](Gasteromyzeten "Glossar") gehörige Familie der Nestlin
 <tr>
   <th>1*</th>
   <td>Fruchtkörper kugelig oder kissenfömig, unregelmäßig aufreißend</td>
-  <th>Nidularia deformis</th>
+  <th><a href="../pilze/nidularia-deformis-vollgestopfter-nestling">Nidularia deformis</a></th>
 </tr>
 <tr>
   <th>2</th>
   <td>Peridiolen hell bis gelblich braun, Deckelhäutchen gelb</td>
-  <th>Crucibulum laeve</th>
+  <th><a href="../pilze/crucibulum-laeve-tiegelteuerling>Crucibulum laeve</a></th>
 </tr>
 <tr>
   <th>2*</th>
@@ -41,7 +41,7 @@ Die zu den [Bauchpilzen](Gasteromyzeten "Glossar") gehörige Familie der Nestlin
 <tr>
   <th>3</th>
   <td>Fruchtkörper innen längs gestreift </td>
-  <th>Cyathus striatus</th>
+  <th><a href="../pilze/cyathus-striatus-gestreifter-teuerling">Cyathus striatus</a></th>
 </tr>
 <tr>
 <th>3*</th>
@@ -56,7 +56,7 @@ Die zu den [Bauchpilzen](Gasteromyzeten "Glossar") gehörige Familie der Nestlin
 <tr>
 <th>4*</th>
 <td>Fruchtkörper tütenförmig, Peridiolen schwarz </td>
-<th>Cyathus stercoreus</th>
+<th><a href="../pilze/cyathus-stercoreus-dung-teuerling">Cyathus stercoreus</a></th>
 </tr>
 </table>
 </div>
