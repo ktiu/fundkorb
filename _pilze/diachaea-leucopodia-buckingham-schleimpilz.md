@@ -42,4 +42,4 @@ Wenige Tage nach unserem persönlichen Erstfund fanden wir wenige Meter von der 
 
 Laut DGfM-Kartierung für Hessen könnte es ein Erstfund für das Bundesland sein.
 
-Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum Fundkorb-Artikel ["Schleimpilze(Myxomyzeten)"]({% link _verwandtschaften/schleimpilze(myxomyzeten).md %}) 
+Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum Fundkorb-Artikel ["Schleimpilze"]({% link _verwandtschaften/schleimpilze.md %}) 
