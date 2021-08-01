@@ -21,4 +21,4 @@ In seiner typisch grünen Farbe ist der Papageien-Saftling praktisch unverwechse
 
 Auch die gelbe Lamellenfarbe ist keineswegs konstant. Sie kann auch orangegelb oder grünlich sein.
 
-Der Papageien-Saftling wächst auf ungedüngten Wiesen, auch an grasigen Wegrändern und in nährstoffarmen Parkanlagen. Erscheinungszeit ist der Herbst. Er ist einer der etwas häufigeren aber stark rückläufigen Arten in einer Gattung, die komplett geschützt ist. Er wurde 1958 in die neu aufgestellte Gattung der Schleimsaftlinge (*Gliophorus*) transferiert.
+Der Papageien-Saftling wächst auf ungedüngten Wiesen, auch an grasigen Wegrändern und in nährstoffarmen Parkanlagen. Erscheinungszeit ist der Herbst. Er ist einer der etwas häufigeren aber stark rückläufigen Arten in einer Gattung, die komplett geschützt ist. Er wurde 1958 in die neu aufgestellte Gattung der Schleimsaftlinge (*Gliophorus*) transferiert. 2003 war er [Pilz des Jahres](https://www.dgfm-ev.de/pilz-des-jahres/2003-papageigruener-saftling).
