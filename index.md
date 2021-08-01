@@ -14,6 +14,11 @@ footer_scripts:
 
 - - -
 
+01.08.2021: Aktueller Fundkorbpilz ist ein Porling, der sich hart wie hartes Holz anfühlt und trotzdem mit einer besonderen Eigenschaft auffällt. Die Unterseite der zerklüftet aussehenden Fruchtkörper riechen angenehm aromatisch nach Fenchel. Das hat ihm sowohl seinen deutschen wie den wissenschaftlichen Namen eingebracht: Fenchelporling (Gloeophyllum odoratum.) Aufgrund seines Duftes ist er unverwechselbar. Außerdem zeigen frisch wachsende Fruchtkörper auffällige Farbkontraste. Die Oberseite ist in Teilen, die überwintert haben, schwarz, die Zuwachskanten gelborange bis zimtbraun, die [Trama](Trama "Glossar") dunkelbraun. Die Poren sind jung schön gelb, werden im Alter aber rotbraun und verlieren dann auch ihren typischen Duft. Der Pilz wächst ganz überwiegend an Fichtenstümpfen.
+Mehr lesen >
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clathrus_ruber_05_dg.jpg" %}
 {% include abbildung_ende.html %}
