@@ -27,3 +27,5 @@ Im Laufe der weiteren Entwicklung platzt die [Peridie](Peridie "Glossar") auf un
 {% include abbildung_ende.html %}
 
 Der Rostfarbene Stielschleimpilz besiedelt Totholz und erscheint vom Frühjahr bis in den Spätherbst.
+
+Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
