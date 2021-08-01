@@ -51,7 +51,7 @@ Die zu den [Bauchpilzen](Gasteromyzeten "Glossar") gehörige Familie der Nestlin
 <tr>
 <th>4</th>
 <td>Fruchtkörper schüssel- oder topfförmig, Peridiolen grau </td>
-<th>Cyathus olla</th>
+<th><a href="../pilze/cyathus-olla-topf-teuerling">Cyathus olla</a></th>
 </tr>
 <tr>
 <th>4*</th>
