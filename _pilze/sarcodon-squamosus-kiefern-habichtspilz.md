@@ -20,7 +20,7 @@ literatur:
 ---
 In der Ebene des Rhein-Main-Gebiets einen Habichtspilz zu finden – das ist schon was! Sechs Fruchtkörper wuchsen dicht knäuelig bei Waldacker am steilen Abhang zum Anglersee, z. T. mit annähernd 20 cm Hutdurchmesser. Wenige Schritte entfernt befand sich eine weitere Gruppe. Doch irgendwie entsprachen die Funde nicht so recht der Vorstellung, die ich von diesem Pilz in Erinnerung hatte. Sie waren fast schwarz, auffallend kurz gestielt und die Hutschuppen fast anliegend. Zu Hause ergaben erste Recherchen, dass es mit *Sarcodon scabrosus* einen Doppelgänger des Habichtspilzes gibt, der makroskopisch deutlich besser mit unserem Fund übereinstimmte. Aufgrund vorhandener [Hyphenschnallen](Hyphen "Glossar") musste diese Alternative jedoch ausgeschlossen werden. So stand bis auf weiteres *S. imbricatus* in der Fundliste, auch wenn dieser Name alles andere als überzeugend erschien.
 
-Von *Thomas Lehr* erhielt ich schließlich den entscheidenden Hinweis, der zur Klärung des Falles führte. In einer Arbeit von *Geert Schmidt-Stohn* werden zwei Habichtspilzarten behandelt, die offensichtlich miteinander vermengt wurden und noch werden und die sich durch unterschiedliche ökologische Ansprüche unterscheiden. Hier war u. a. zu lesen, dass der Habichtspilz in Skandinavien nicht nur als Speisepilz sondern auch zum Färben von Wolle verwendet wird. Bei Kiefern gesammelte Exemplare erwiesen sich als wesentlich schmackhafter und lieferten eine deutlich bessere Farbausbeute als Pilze aus Fichtenbeständen. In einem 1999 von *Johannesson et. al.* publizierten Artikel wird auch auf morphologische und molekularbiologische Unterschiede hingewiesen, die ebenfalls darauf hindeuten, dass zwei verschiedene Arten vorliegen. Während beide Sippen mikroskopisch weitgehend übereinstimmen, ergeben sich folgende, auch bei unserer Kollektion von Waldacker festgestellte makroskopische Merkmale im Unterschied zu S. imbricatus:
+Von *Thomas Lehr* erhielt ich schließlich den entscheidenden Hinweis, der zur Klärung des Falles führte. In einer Arbeit von *Geert Schmidt-Stohn* werden zwei Habichtspilzarten behandelt, die offensichtlich miteinander vermengt wurden und noch werden und die sich durch unterschiedliche ökologische Ansprüche unterscheiden. Hier war u. a. zu lesen, dass der Habichtspilz in Skandinavien nicht nur als Speisepilz sondern auch zum Färben von Wolle verwendet wird. Bei Kiefern gesammelte Exemplare erwiesen sich als wesentlich schmackhafter und lieferten eine deutlich bessere Farbausbeute als Pilze aus Fichtenbeständen. In einem 1999 von *Johannesson et. al.* publizierten Artikel wird auch auf morphologische und molekularbiologische Unterschiede hingewiesen, die ebenfalls darauf hindeuten, dass zwei verschiedene Arten vorliegen. Während beide Sippen mikroskopisch weitgehend übereinstimmen, ergaben sich folgende, auch bei unserer Kollektion von Waldacker festgestellte makroskopische Merkmale im Unterschied zu S. imbricatus:
 
 <div class="table-responsive">
   <table class="table">
@@ -50,7 +50,7 @@ Von *Thomas Lehr* erhielt ich schließlich den entscheidenden Hinweis, der zur K
       <tr>
         <th>Stielfarbe</th>
         <td>intensiv schwarz</td>
-        <td>heller, mehr dunkelbraun</td>
+        <td>heller, höcchstens dunkelbraun</td>
       </tr>
       <tr>
         <th>Geruch alter bzw. trockener Fruchtkörper</th>
