@@ -14,12 +14,23 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/fuligo_septica_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist eigentlich gar kein richtiger Pilz. Die Gelbe Lohblüte (Fuligo septica) gehört zu den Schleimpilzen, und das sind Organismen, die Eigenschaften von Tieren und Pilzen in sich vereinen und zu erstaunlichen Leistungen fähig sein. Jeder hat wohl schon mal diese merkwürdigen gelben Kissen auf totem Holz oder auf Moospolstern gesehen und sich gescheut, sie anzufassen. Sie sind tatsächlich schleimig, im Endstadium ihrer Entwicklung aber trocken. Das ist der Zeitpunkt, an dem sie ihre Sporen abgeben, um dann allmählich spurlos zu verschwinden.
+
+[Mehr lesen, schauen und staunen >](/pilze/fuligo-septica-gelbe-lohblüte)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/gloeophyllum_odoratum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 01.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Porling, der sich hart wie hartes Holz anfühlt und trotzdem mit einer besonderen Eigenschaft auffällt. Die Unterseite der zerklüftet aussehenden Fruchtkörper riecht angenehm aromatisch nach Fenchel. Das hat ihm sowohl seinen deutschen wie den wissenschaftlichen Namen eingebracht: *Fenchelporling (Gloeophyllum odoratum)*. Aufgrund seines Duftes ist er unverwechselbar. Außerdem zeigen frisch wachsende Fruchtkörper auffällige Farbkontraste. Die Oberseite ist in Teilen, die überwintert haben, schwarz, die Zuwachskanten gelborange bis zimtbraun, die [Trama](Trama "Glossar") dunkelbraun. Die Poren sind jung schön gelb, werden im Alter aber rotbraun und verlieren dann auch ihren typischen Duft. Der Pilz wächst ganz überwiegend an Fichtenstümpfen.
-
 
 [Mehr lesen >](/pilze/gloeophyllum-odoratum-fenchelporling)
 
@@ -32,28 +43,6 @@ footer_scripts:
 31.07.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der [Rote Gitterling Clathrus ruber](/pilze/clathrus-ruber-roter-gitterling). Er gehört zu den "Stinkmorchelartigen" (Phallaceae), stinkt aber nicht so penetrant wie eine Stinkmorchel. Es handelt sich um eine seltene Art, die im Rhein-Main-Gebiet einen Verbreitungsschwerpunkt zu haben scheint, ohne hier auch nur annähernd häufig zu sein. Bei uns in Mitteleuropa darf der Rote Gitterling als unverwechselbar gelten, in tropischen und subtropischen Breiten gibt es jedoch ähnliche Arten. Mein aktueller Fund stammt aus dem Götzenhainer Ringwäldchen, einem einst wunderschönen Biotop, das inzwischen total zugewuchert ist. Auch das eine Folge des Klimawandels: durch Trockenheit geschädigte Bäume = Auslichtung im Blätterdach der Baumkronen = Lichteinfall auf den Waldboden, der zu flächendeckendem Wachtum von Pflanzen führt, die in einem gesunden Wald nichts zu suchen haben. Diesen Trend kann man zur Zeit in fast allen Wäldern beobachten.
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tylopilus_felleus_02_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 29.07.2021 und Warnung an alle Steinpilzsammler! Der berüchtigte Gallenröhrling Tylopilus felleus ist in diesem Jahr schon sehr früh da und zumindest im Rhein-Main-Gebiet sogar recht zahlreich. Wer im Nadelwald oder auch in einem Laubwald mit eingestreuten Nadelbäumen Steinpilze sucht, sollte auf der Hut sein. Ganz junge Steinpilze und ebenso junge Gallenröhrlinge sind optisch oft nicht auseinanderzuhalten. Da haben beide noch weiße Poren auf der Hutunterseite. Später ist die Trennung kein Problem. Da wird der Schwamm des Bitterlings rosa, der des Steinpilzes gelblich, grünlich und zuletzt olivgrün. Ein einziger Gallenröhrling kann ein komplettes Steinpilzgericht ruinieren. Sich vor Verwechslungen zu schützen ist denkbar einfach. Eine Geschmacksprobe genügt, den Spaßverderber zu entlarven. Oft reicht es schon, am angeschnittenen Pilz zu lecken, was aber im Eifer des Sammelns oft vergessen wird. 
-
-[Mehr lesen >](/artikel/die-invasion-der-bitterlinge.html)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/russula_violeipes_01_dg-.jpg" %}
-{% include abbildung_ende.html %}
-
-28.07.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Violettstielige Brätlingstäubling Russula violeipes. Er scheint zur Zeit in der Rhein-Main-Ebene Hochkonjunktur zu haben, sehr zur Freude von Feinschmeckern, die ihn als Premium-Art unter den Täublingen schätzen. Der Namenszusatz "Brätling" sagt eigentlich schon genug. Seine sehr fein bereifte Huthaut lässt die vorherrschende Gelbfarbe in einer eigenartigen mit Worten kaum zu beschreibenden Nuance erscheinen, an der man mit einiger Erfahrung diesen Täubling erkennen kann. Die Hutfarbe nimmt beim Altern zunehmend Grün- und/oder Violettöne an, die mitunter sogar dominierend werden können. Violetttöne kommen auch an den Stielen vor, können aber auch völlig fehlen oder ebenfalls dominieren. Er wächst in Laubwäldern, nach meiner Beobachtung gern an Wegrändern.
-
-[Mehr lesen >](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)
 
 - - -
 
