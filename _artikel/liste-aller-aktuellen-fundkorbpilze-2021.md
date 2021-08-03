@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-31.07.2021 [Clathrus ruber - Roter Gitterling](/pilze/clathrus-ruber-roter-gitterling)  
+03.08.2021 [Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)  
+01.08.2021 [Gloeophyllum odoratum - Fenchelporling](/pilze/gloeophyllum-odoratum-fenchelporling)  
+31.07.2021 [Clathrus ruber - Roter Gitterling](/pilze/clathrus-ruber-roter-gitterling)\
 29.07.2021 [Tylopilus felleus - Gallenröhrling](/artikel/die-invasion-der-bitterlinge.html)\
 28.07.2021 [Russula violeipes - Violettstieliger Brätlingstäubling](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)\
 25.07.2021 [Rhodocybe gemina - Würziger Tellerling](/pilze/rhodocybe-gemina-würziger-tellerling)\
