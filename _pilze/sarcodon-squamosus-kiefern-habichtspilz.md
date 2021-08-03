@@ -61,8 +61,7 @@ Von *Thomas Lehr* erhielt ich schließlich den entscheidenden Hinweis, der zur K
   </table>
 </div>
 
-		
-		
+	
 
 Mehr noch als die oben angeführten Differenzierungen überzeugte mich das von Geert Schmidt-Stohn beigefügte Foto. Ein Vergleich mit der von mir bei Waldacker gemachten Aufnahme könnte fast zu der Annahme verleiten, es bei dem Motiv mit der gleichen Pilzgruppe zu tun zu haben. Nicht so recht übereinstimmen kann ich mit der Angabe, Sarcodon squamosus habe im Gegensatz zu S. imbricatus ein deutlich am Stiel herablaufendes Hymenophor und kürzere Stacheln (siehe das umgedrehte Exemplar). Absolut zutreffend dagegen die Ökologie: an unserem Fundort standen ausschließlich (junge) Kiefern, weit und breit keine Fichte.
 
