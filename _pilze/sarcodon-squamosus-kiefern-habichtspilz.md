@@ -50,7 +50,7 @@ Von *Thomas Lehr* erhielt ich schließlich den entscheidenden Hinweis, der zur K
       <tr>
         <th>Stielfarbe</th>
         <td>intensiv schwarz</td>
-        <td>heller, höcchstens dunkelbraun</td>
+        <td>heller, höchstens dunkelbraun</td>
       </tr>
       <tr>
         <th>Geruch alter bzw. trockener Fruchtkörper</th>
