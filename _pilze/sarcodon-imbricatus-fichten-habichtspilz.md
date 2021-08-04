@@ -49,7 +49,7 @@ In der Gattung Sarcodon (Fleischstachelinge) fallen vor allem zwei Arten durch i
       <tr>
         <th>Stielfarbe</th>
         <td>intensiv schwarz</td>
-        <td>heller, höcchstens dunkelbraun</td>
+        <td>heller, höchstens dunkelbraun</td>
       </tr>
       <tr>
         <th>Geruch alter bzw. trockener Fruchtkörper</th>
