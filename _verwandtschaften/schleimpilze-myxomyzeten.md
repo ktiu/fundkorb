@@ -33,7 +33,7 @@ Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das Video des US-amerik
 
 <https://www.spektrum.de/video/besitzen-schleimpilze-schwarmintelligenz/1592488>
 
-Bisher 10 Schleimpilzarten aus 7 Gattungen (4 Familien) im Fundkorb. Weitere werden folgen.
+Bisher 11 Schleimpilzarten aus 8 Gattungen (4 Familien) im Fundkorb. Weitere werden folgen.
 
 [](/pilze/diachaea-leucopodia-buckingham-schleimpilz)[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)  
 [Arcyria obvelata (Arcyriaceae) - Nickender Kelchschleimpilz](/pilze/arcyria-obvelata-arcyria-obvelata)  
