@@ -19,7 +19,7 @@ In der Gattung Sarcodon (Fleischstachelinge) fallen vor allem zwei Arten durch i
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/sarcodon_imbricatus_03_dg.jpg" gross=true %}
 {% include bild.html datei="/bilder/sarcodon_squamosus_02_dg.jpg" gross=true %}
-{% include abbildung_ende.html legende="Sarcodon imbricatut -- Sarcodon squamotus (DGfM-Verbreitungskarten Deutschland)" %}
+{% include abbildung_ende.html legende="Sarcodon imbricatus -- Sarcodon squamotus (DGfM-Verbreitungskarten Deutschland)" %}
 
 <div class="table-responsive">
   <table class="table">
