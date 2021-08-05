@@ -41,3 +41,5 @@ Verwechselt werden könnte die Art mit dem Blattstiel-Spaltbecherchen, das auf A
 
 Bei [Wikipedia](https://de.wikipedia.org/wiki/Spaltlippen) findet sich eine Liste von 12 in Europa vorkommenden Spaltlippenarten, in der Lophodermium petiolicola jedoch fehlt. Im Verbreitungsatlas (Krieglsteiner 1993) sind 16 Arten enthalten.
 
+Der Pilz gehört zur [Ordnung der Rhytismatales (Flicklumpenartige)](/verwandt/flicklumpenartige-rhytismatales).
+
