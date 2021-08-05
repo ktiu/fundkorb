@@ -27,3 +27,5 @@ Lophodermium pinastri	Kiefernnadel-Spaltlippe\
 [Lophodermium seditiosum](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe)   Kiefernschütte-Spaltlippe
 
 Hilfreiche Tipps, um die beiden Spaltlippen aufzufinden, zu unterscheiden und zu fotografieren: *Lophodermium pinastri* auf paarweise angeordneten einzelnen Kiefernnadeln am Boden suchen, L. seditiosum findet man eher in den Nadelbüscheln abgefallener Kiefernästchen. Wenn die typische Spaltlippenform nicht deutlich genug ausgebildet ist, zum Beispiel nicht ausreichend geöffnet: über Nacht in Wasser legen, mit Papierserviette trocken tupfen. So lassen sich die Spaltlippen auch schön fotografieren.
+
+Der Pilz gehört zur [Ordnung der Rhytismatales (Flicklumpenartige)](/verwandt/flicklumpenartige-rhytismatales).
