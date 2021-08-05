@@ -18,3 +18,5 @@ Dieser [Ascomyzet](Ascomyzeten "Glossar") (auch Eingesenkter Eichenrinden-Schlau
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/colpoma_quercinum_02_frk.jpg" %}
 {% include abbildung_ende.html legende="Frische Exemplare (Foto: Fredi Kasparek)" %}
+
+Der Pilz gehört zur [Ordnung der Rhytismatales (Flicklumpenartige)](/verwandt/flicklumpenartige-rhytismatales).
