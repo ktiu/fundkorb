@@ -15,6 +15,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coltricia_perennis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Unser aktueller [Fundkorbpilz](AA "Glossar-") am 06.08.2021 ist der [Dauerporling Coltricia perennis](/pilze/coltricia-perennis-gezonter-dauerporling), ein hübscher, den man getrocknet als Dekopilz verwenden kann. Ewald Gerhardt schreibt in seinem Pilzführer, dass ihn früher die Leute sogar in ihre Vitrinen gestellt hätten. Seine Attraktivität beruht auf der eleganten Trichterform, seinen warmen Brauntönen und der ansprechenden Zonierung. Er wächst nicht an Holz wie viele andere Porling sondern auf dem Boden unter Nadelbäumen, am häufigsten bei Kiefern. Meist erscheint er gesellig und oft sind mehrere Exemplare miteinander verwachsen, wie das Foto zeigt. Häufig ist er nicht gerade, im Rhein-Gebiet aber recht gut verbreitet.
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/fuligo_septica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
