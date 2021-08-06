@@ -43,6 +43,24 @@
   height: auto;
 }
 
+.abbildung .bild .modal {
+  display: none;
+  position: fixed;
+  padding: 10px;
+  background-color: fade-out($black, 0.2);
+}
+
+.abbildung .bild .modal .close {
+  color: $white;
+  opacity: 0.9;
+}
+
+.abbildung .bild .modal img {
+  object-fit: contain;
+  height: auto;
+  max-width: 100%;
+}
+
 @media (min-width: 576px) {
   .abbildung.mittel .bild {
     flex-shrink: 1;
@@ -120,3 +138,4 @@
 .table thead th, .table th, .table td {
   border-color: $light;
 }
+

@@ -1,3 +1,9 @@
 <div class="bild{% if include.gross %} gross{% endif %}{% if include.nocrop %} nocrop{% endif %}">
   <img src="{{ include.datei | relative_url }}">
+  <div class="modal" display="none">
+    <span class="close">&times;</span>
+    <div class="d-flex h-100 justify-content-center align-items-center">
+      <img src="{{ include.datei | relative_url }}">
+    </div>
+  </div>
 </div>
