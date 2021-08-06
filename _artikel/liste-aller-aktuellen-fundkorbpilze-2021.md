@@ -4,13 +4,13 @@ published: true
 ---
 06.08.2021 [Coltricia perennis - Dauerporling](/pilze/coltricia-perennis-gezonter-dauerporling)  
 03.08.2021 [Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
-01.08.2021 [Gloeophyllum odoratum - Fenchelporling](/pilze/gloeophyllum-odoratum-fenchelporling)\
+01.08.2021 [Gloeophyllum odoratum - Fenchelporling](/pilze/gloeophyllum-odoratum-fenchelporling)
+
 31.07.2021 [Clathrus ruber - Roter Gitterling](/pilze/clathrus-ruber-roter-gitterling)\
 29.07.2021 [Tylopilus felleus - Gallenröhrling](/artikel/die-invasion-der-bitterlinge.html)\
 28.07.2021 [Russula violeipes - Violettstieliger Brätlingstäubling](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)\
 25.07.2021 [Rhodocybe gemina - Würziger Tellerling](/pilze/rhodocybe-gemina-würziger-tellerling)\
-23.07.2021 [Calocera viscosa Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)
-
+23.07.2021 [Calocera viscosa Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)  
 22.07.2021 [Strobilomyces strobilaceus - Strubbelkopfröhrling](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)\
 21.07.2021 [Gyroporus castaneus - Hasenröhrling](/pilze/gyroporus-castaneus-hasenröhrling)\
 20.07.2021 [Russula virescens - Grüngefelderter Täubling](/pilze/russula-virescens-grüngefelderter-täubling)\
@@ -24,7 +24,8 @@ published: true
 08.07.2021 [Boletus luridus - Netzstieliger Hexenröhrling](<08.07.2021  Boletus luridus - Netzstieliger Hexenröhrling>)\
 05.07.2021 [Trichaptum abietinum - Violetter Lederporling](/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)\
 04.07.2021 [Amanita fulva - Rotbrauner (Fuchsiger) Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)\
-01.07.2021 [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)\
+01.07.2021 [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)
+ 
 30.06.2021 [Xerocomus subtomentosus - Ziegenlippe](/pilze/xerocomus-subtomentosus-ziegenlippe)\
 28.06.2021 [Scutellinia crinita - Sumpfschildborstling](/pilze/scutellinia-crinita-bewimperter-schildborstling-sumpfschildborstling)\
 25.06.2021 [Conocybe lactea - Milchweißes Samthäubchen](/pilze/conocybe-lactea-milchweißes-samthäubchen)\
@@ -44,7 +45,8 @@ published: true
 04.06.2021 [Coprinellus xanthothrix - Gelbschuppiger Tintling](/pilze/coprinellus-xanthothrix-gelbschuppiger-tintling)\
 03.06.2021 [Marasmius oreades - Nelkenschwindling](/pilze/marasmius-oreades-nelkenschwindling)\
 02.06.2021 [Coprinellus domesticus - Haustintling](/pilze/coprinellus-domesticus-haustintling)\
-01.06.2021 [Russula cyanoxantha - Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling)\
+01.06.2021 [Russula cyanoxantha - Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling)
+
 30.05.2021 [Helvella lacunosa - Grubenlorchel](/pilze/helvella-lacunosa-grubenlorchel)\
 29.05.2021 [Amanita gemmata - Narzissengelber Wulstling](/pilze/amanita-gemmata-narzissengelber-wulstling)\
 28.05.2021 [Boletus erythropus - Flockenstieliger Hexenröhrling](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)\
@@ -61,7 +63,8 @@ published: true
 09.05.2021 [Morchella gigas - Käppchenmorchel](/pilze/morchella-gigas-käppchenmorchel)\
 07.05.2021 [Reticularia lycoperdon - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
 03.05.2021 [Inocybe erubescens - Ziegelroter Rissilz](/pilze/inocybe-erubescens-ziegelroter-risspilz)\
-01.05.2021 [Calocybe gambosa - Maipilz](/pilze/calocybe-gambosa-maipilz)\
+01.05.2021 [Calocybe gambosa - Maipilz](/pilze/calocybe-gambosa-maipilz)
+
 29.04.2021 [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)\
 24.04.2021 [Physisporinus sanguinolentus - Rotfleckender Porling](/pilze/physisporinus-sanguinolentus-rotfleckender-porling)\
 21.04.2021  [Morchella esculenta - Speisemorchel](/pilze/morchella-esculenta-speisemorchel)\
