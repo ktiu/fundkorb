@@ -15,6 +15,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_junquilleus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.08.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein Röhrling aus der Verwandtschaft des Steinpilzes oder der Hexenröhrlinge, eine extrem seltene Art, die Lars Bartels bei Bad Orb gefunden hat. Es ist der [Falsche Schwefelröhrling Boletus junquilleus](/pilze/boletus-junquilleus-falscher-schwefelröhrling). Der wissenschaftliche Artname junquilleus bedeutet narzissengelb, weshalb er auch Narzissenröhrling genannt wird. Sein Charakteristikum sind die überwiegend gelblichen Farben. Gelb sind auch die Poren, ein drastischer Unterschied zu den eigentlichen Hexenröhrlingen, mit denen er schon synonymisiert worden ist. Auf Druck oder im Anschnitt verfärbt er sich blau. Aufgrund seiner Seltenheit und des nicht gerade ansprechenden Aussehens dürfte er nur sehr selten einmal in einer Pfanne gelandet sein und entsprechend vage sind seine Beurteilungen. Sie reichen von ungenießbar bis *"so ähnlich wie die Hexen"*. Sein neuer Name ist übrigens *Sutorius junquilleus*.
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coltricia_perennis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,26 +37,6 @@ Unser aktueller [Fundkorbpilz](AA "Glossar-") am 06.08.2021 ist der [Dauerporlin
 02.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist eigentlich gar kein richtiger Pilz. Die Gelbe Lohblüte (Fuligo septica) gehört zu den Schleimpilzen, und das sind Organismen, die Eigenschaften von Tieren und Pilzen in sich vereinen und zu erstaunlichen Leistungen fähig sein. Jeder hat wohl schon mal diese merkwürdigen gelben Kissen auf totem Holz oder auf Moospolstern gesehen und sich gescheut, sie anzufassen. Sie sind tatsächlich schleimig, im Endstadium ihrer Entwicklung aber trocken. Das ist der Zeitpunkt, an dem sie ihre Sporen abgeben, um dann allmählich spurlos zu verschwinden.
 
 [Mehr lesen, schauen und staunen >](/pilze/fuligo-septica-gelbe-lohblüte)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/gloeophyllum_odoratum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Porling, der sich hart wie hartes Holz anfühlt und trotzdem mit einer besonderen Eigenschaft auffällt. Die Unterseite der zerklüftet aussehenden Fruchtkörper riecht angenehm aromatisch nach Fenchel. Das hat ihm sowohl seinen deutschen wie den wissenschaftlichen Namen eingebracht: *Fenchelporling (Gloeophyllum odoratum)*. Aufgrund seines Duftes ist er unverwechselbar. Außerdem zeigen frisch wachsende Fruchtkörper auffällige Farbkontraste. Die Oberseite ist in Teilen, die überwintert haben, schwarz, die Zuwachskanten gelborange bis zimtbraun, die [Trama](Trama "Glossar") dunkelbraun. Die Poren sind jung schön gelb, werden im Alter aber rotbraun und verlieren dann auch ihren typischen Duft. Der Pilz wächst ganz überwiegend an Fichtenstümpfen.
-
-[Mehr lesen >](/pilze/gloeophyllum-odoratum-fenchelporling)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clathrus_ruber_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.07.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der [Rote Gitterling Clathrus ruber](/pilze/clathrus-ruber-roter-gitterling). Er gehört zu den "Stinkmorchelartigen" (Phallaceae), stinkt aber nicht so penetrant wie eine Stinkmorchel. Es handelt sich um eine seltene Art, die im Rhein-Main-Gebiet einen Verbreitungsschwerpunkt zu haben scheint, ohne hier auch nur annähernd häufig zu sein. Bei uns in Mitteleuropa darf der Rote Gitterling als unverwechselbar gelten, in tropischen und subtropischen Breiten gibt es jedoch ähnliche Arten. Mein aktueller Fund stammt aus dem Götzenhainer Ringwäldchen, einem einst wunderschönen Biotop, das inzwischen total zugewuchert ist. Auch das eine Folge des Klimawandels: durch Trockenheit geschädigte Bäume = Auslichtung im Blätterdach der Baumkronen = Lichteinfall auf den Waldboden, der zu flächendeckendem Wachtum von Pflanzen führt, die in einem gesunden Wald nichts zu suchen haben. Diesen Trend kann man zur Zeit in fast allen Wäldern beobachten.
 
 <div style="clear:  both"></div>
 
