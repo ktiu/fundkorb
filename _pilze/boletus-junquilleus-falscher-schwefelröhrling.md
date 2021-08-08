@@ -16,8 +16,8 @@ literatur:
   - url: https://www.zobodat.at/pdf/OestZPilz_20_0053-0072.pdf
 ---
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/boletus_junquilleus_03_dg.jpg" %}
-{% include bild.html datei="/bilder/boletus_junquilleus_02_dg.jpg" %}
+{% include bild.html datei="/bilder/boletus_junquilleus_03_dg.jpg" gross=true %}
+{% include bild.html datei="/bilder/boletus_junquilleus_02_dg.jpg" gross=true %}
 {% include abbildung_ende.html %}
 
 Diesen Dickröhrling als Hexenröhrling oder als Varietät vom [Flockenstieligen (Boletus erythropus)](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling) zu bezeichnen, erscheint mir schwer nachvollziehbar. Mit diesem hat er zwar stark blauendes Fleisch gemein, aber weder rote Poren noch einen braunen Hut. Vorherrschend sind gelbliche oder gelborangene Farben, und das ist wohl sein wichtigstes Erkennungsmerkmal.
