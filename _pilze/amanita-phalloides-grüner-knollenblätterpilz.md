@@ -38,7 +38,7 @@ Knollenblätterpilze enthalten nicht nur einen Giftstoff sondern gleich ein ganz
 
 Hier eine stichwortartige Zusammenfassung der wichtigsten Eigenschaften und Merkmale des Grünen Knollenblätterpilzes:
 
-**Hut:** 3 – 15 cm Ø, grün, olivgrün, bräunlich grün, gelblich, nahezu weiß. Manchmal mit anhaftenden Resten des [Velum universale](Velum universale "Glossar"). Man beachte eine rein weiße Varietät (Foto links). Huthaut häutig dünn und abziehbar\
+**Hut:** 3 – 15 cm Ø, grün, olivgrün, bräunlich grün, gelblich, nahezu weiß. Manchmal mit anhaftenden Resten des \[Velum universale](Velum universale "Glossar"). Man beachte eine rein weiße Varietät (Foto links). Huthaut häutig dünn und abziehbar\
 **Lamellen:** weiß und weiß bleibend, eng stehend, frei = nicht dirket am Stiel angewachsen\
 **Stiel:** 8 – 15 cm lang, 1 – 2 cm dick, weiß, gelbgrünlich, oft genattert, längsfaserig, zwiebelig verdickte Basis in einer häutigen Scheide steckend. Stielring weiß, häutig, hängend, oberseits fein gerieft, leicht vergänglich\
 **Fleisch:** weiß, unter der Huthaut gelbgrünlich\
@@ -56,3 +56,9 @@ Verwechslungen mit essbaren Champignons sind auf fahrlässigen Leichtsinn und Bl
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/amanita_phalloides_04_dg.jpg" %}
 {% include abbildung_ende.html legende="Bemerkenswerter Zufall: die weißen Hüllreste auf der Huthaut haben die Form eines stilisierten Pilzes (Garantiert keine Manipulation)" %}
+
+Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Hier eine Illustration von Gabriele Gossner (in: Hans Haas - Pilze Mitteleuropas, 1964)
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/amanita_phalloides_gg.jpg" %}
+{% include abbildung_ende.html %}
