@@ -20,7 +20,7 @@ footer_scripts:
 
 08.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Goldblatt Phylloporus pelletieri. Trotz seines lamelligen [Hymeniums](Hymenium "Glossar") gehört er zu den Röhrlingen und wegen des Farbkontrasts von braun und goldgelb zu den attraktiven Pilzen. Wenn man Glück hat, findet man ihn hin und wieder in Laub- oder Nadelwäldern; es handelt sich also um eine recht seltene Art. Er ist essbar und in seinem Speisewert mit Ziegenlippe und Rotfußröhrling zu vergleichen.
 
-[Mehr lesen >](/pilze/phylloporus-pellerieri-goldblatt)
+[Mehr lesen >](/pilze/phylloporus-pelletieri-goldblatt)
 
 - - -
 
