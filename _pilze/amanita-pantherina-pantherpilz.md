@@ -87,3 +87,9 @@ Pantherpilze enthalten in stark wechselnden Konzentrationen die Giftstoffe Ibote
   </tbody>
 </table>
 </div>
+
+Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Hier eine Illustration von Gabriele Gossner (in: Hans Haas - Pilze Mitteleuropas, 1964)
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/amanita_pantherina_gg.jpg" %}
+{% include abbildung_ende.html %}
