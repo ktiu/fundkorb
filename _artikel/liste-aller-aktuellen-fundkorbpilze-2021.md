@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-06.08.2021 [Coltricia perennis - Dauerporling](/pilze/coltricia-perennis-gezonter-dauerporling)  
+08.08.2021 [Phylloporus pelletieri - Goldblatt](/pilze/phylloporus-pelletieri-goldblatt)  
+07.08.2021 [Boletus junquilleus - Falscher Schwefelröhrling](/pilze/boletus-junquilleus-falscher-schwefelröhrling)  
+06.08.2021 [Coltricia perennis - Dauerporling](/pilze/coltricia-perennis-gezonter-dauerporling)\
 03.08.2021 [Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
 01.08.2021 [Gloeophyllum odoratum - Fenchelporling](/pilze/gloeophyllum-odoratum-fenchelporling)
 
@@ -10,7 +12,7 @@ published: true
 29.07.2021 [Tylopilus felleus - Gallenröhrling](/artikel/die-invasion-der-bitterlinge.html)\
 28.07.2021 [Russula violeipes - Violettstieliger Brätlingstäubling](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)\
 25.07.2021 [Rhodocybe gemina - Würziger Tellerling](/pilze/rhodocybe-gemina-würziger-tellerling)\
-23.07.2021 [Calocera viscosa Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)  
+23.07.2021 [Calocera viscosa Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)\
 22.07.2021 [Strobilomyces strobilaceus - Strubbelkopfröhrling](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)\
 21.07.2021 [Gyroporus castaneus - Hasenröhrling](/pilze/gyroporus-castaneus-hasenröhrling)\
 20.07.2021 [Russula virescens - Grüngefelderter Täubling](/pilze/russula-virescens-grüngefelderter-täubling)\
@@ -25,7 +27,7 @@ published: true
 05.07.2021 [Trichaptum abietinum - Violetter Lederporling](/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)\
 04.07.2021 [Amanita fulva - Rotbrauner (Fuchsiger) Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)\
 01.07.2021 [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)
- 
+
 30.06.2021 [Xerocomus subtomentosus - Ziegenlippe](/pilze/xerocomus-subtomentosus-ziegenlippe)\
 28.06.2021 [Scutellinia crinita - Sumpfschildborstling](/pilze/scutellinia-crinita-bewimperter-schildborstling-sumpfschildborstling)\
 25.06.2021 [Conocybe lactea - Milchweißes Samthäubchen](/pilze/conocybe-lactea-milchweißes-samthäubchen)\
