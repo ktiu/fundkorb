@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/clathrus_archeri_10_xx.jpg" %}
 {% include abbildung_ende.html %}
 
-10.08.2021 Aktueller [Fundkorbpilz](AA "Glossar-"): heute zur Abwechslung mal ein kleines Rätsel: was ist das auf dieser Abbildung? Erfahrene Pilzkundler werden´s wohl wissen oder haben zumindest einen Verdacht. Wie auch immer: [mehr erfährt und sieht man hier >](/pilze/clathrus-archeri-tintenfischpilz)
+10.08.2021 Aktueller [Fundkorbpilz](AA "Glossar-"): heute zur Abwechslung mal ein kleines Rätsel: was ist das auf dieser Abbildung? Erfahrene Pilzkundler werden's wohl wissen oder haben zumindest einen Verdacht. Wie auch immer: [mehr erfährt und sieht man hier >](/pilze/clathrus-archeri-tintenfischpilz)
 
 <div style="clear:  both"></div>
 
