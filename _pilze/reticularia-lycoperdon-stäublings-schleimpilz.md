@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Reticularia lycoperdon
   deutsch: Stäublings-Schleimpilz
   referenz: Bull. 1791
-  familie: Enterididae
+  familie: Enteridiaceae
   synonym: "Synonym: Enteridium lycoperdon"
   erlaeuterung: lycoperdon = "Wolfsfurz"
 profil:
