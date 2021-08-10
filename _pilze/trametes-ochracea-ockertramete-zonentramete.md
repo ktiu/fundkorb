@@ -19,7 +19,7 @@ hauptbild:
 ---
 
 
-Trameten werden ganz überwiegend nach makroskopischen Merkmalen bestimmt, was in den meisten Fällen auch recht gut funktioniert. Kritisch wird es bei der Unterscheidung von Schmetterlings- und Zonentramete. Die Zonen-Tramete als klassischer Doppelgänger der sehr viel häufigeren Schmetterlingstramete gelten. Nirgends kommt es in dieser Gattung häufiger zu Fehlbestimmungen als zwischen diesen beiden. Hierzu ein die Schmetterlingstramete betreffendes Zitat aus *Krieglsteiner: Die Großpilze Baden-Württembergs*:
+Trameten werden ganz überwiegend nach makroskopischen Merkmalen bestimmt, was in den meisten Fällen auch recht gut funktioniert. Kritisch wird es bei der Unterscheidung von Schmetterlings- und Zonentramete. Die Zonen-Tramete als klassischer Doppelgänger der sehr viel häufigeren [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete) gelten. Nirgends kommt es in dieser Gattung häufiger zu Fehlbestimmungen als zwischen diesen beiden. Hierzu ein die Schmetterlingstramete betreffendes Zitat aus *Krieglsteiner: Die Großpilze Baden-Württembergs*:
 
 > Es handelt sich um eine der plastischsten Porlingsarten Mitteleuropas. Vermengungen und Verwechslungen sind leicht möglich mit Trametes multicolor, teils auch mit Trametes pubescens. Immer wieder kommen Übergangsformen vor, die makro- wie mikroskopisch nur schwer einzuordnen sind."
 
