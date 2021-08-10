@@ -40,3 +40,7 @@ Alle rotmilchenden Reizker-Arten gelten als sogenannte Vitalpilze. Sie wirken an
 {% include abbildung_ende.html legende="Edelreizker: karottenrote Grübchen am Stiel – konzentrische Zonen auf dem Hut – karottenrote Schnittstellen" %}
 
 Was man noch wissen sollte, um beim Gang zur Toilette keinen Schreck zu bekommen: Ein in den Edelreizkern enthaltener Stoff färbt den Urin rot, ist aber völlig ungefährlich.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lactarius_deliciosus_08_gg.jpg" %}
+{% include abbildung_ende.html legende="Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Hier eine Illustration von Gabriele Gossner (in: Hans Haas - Pilze Mitteleuropas, 1964)" %}
