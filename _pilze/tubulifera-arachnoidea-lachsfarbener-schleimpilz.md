@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Tubulifera arachnoidea
   deutsch: Lachsfarbener Schleimpilz
   referenz: Jacq. 1778
-  familie: Reticulariaceae
+  familie: Enteridiaceae
   synonym: "Synonym: Tubifera ferruginosa"
   erlaeuterung: arachnoidea = spinnwebartig
 profil:
@@ -14,7 +14,7 @@ hauptbild:
   datei: /bilder/tubulifera_arachnoidea_01_dg.jpg
   legende: Fruktifikationen des Lachsfarbenen Schleimpilzes
 ---
-Der Lachsfarbene Schleimpilz gehört zu den [Myxomyzeten](Myxomyzeten "Glossar"), die man makroskopisch gut erkennen kann. Er bildet polsterförmige, schön orange- oder lachsrote Fruchtkörper (bei Schleimpilzen Fruktifikationen genannt). Die einzelnen [Sporokarpien](Sporokarp "Glossar") sind glatt und glänzend und je nach Entwicklungsstadium rundlich oder stäbchenförmig. Im rundlichen Stadium könnte man sie tatsächlich für Amphibien- oder Fischeier halten.
+Der Lachsfarbene Schleimpilz gehört zu den [Myxomyzeten](Myxomyzeten "Glossar"), die man makroskopisch gut erkennen kann. Er bildet polsterförmige, schön orange- oder lachsrote Fruchtkörper (bei Schleimpilzen *Fruktifikationen* genannt). Die einzelnen [Sporokarpien](Sporokarp "Glossar") sind glatt und glänzend und je nach Entwicklungsstadium rundlich oder stäbchenförmig. Im rundlichen Stadium könnte man sie tatsächlich für Amphibien- oder Fischeier halten.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/tubulifera_arachnoidea_02_dg.jpg" %}
