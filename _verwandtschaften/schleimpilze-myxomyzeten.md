@@ -48,3 +48,5 @@ Bisher 12 Schleimpilzarten aus 8 Gattungen (4 Familien) im Fundkorb. Weitere wer
 [Reticularia lycoperdon (Enteridiaceae) - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
 [Stemonitis fusca (Stemonitidaceae) - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)  
 [Tubulifera arachnoides (Enteridiaceae) - Lachsfarbener Schleimpilz](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
+
+Übrigens... auf Standorttreue kann man bei Schleimpilzen nicht zählen!
