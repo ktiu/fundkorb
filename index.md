@@ -14,6 +14,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clathrus_archeri_10_xx.jpg" %}
+{% include abbildung_ende.html %}
+
+10.08.2021 Aktueller [Fundkorbpilz](AA "Glossar-"): heute zur Abwechslung mal ein kleines Rätsel: was ist das auf dieser Abbildung? Erfahrene Pilzkundler werden´s wohl wissen oder haben zumindest einen Verdacht. Wie auch immer: [mehr erfährt und sieht man hier >](/pilze/clathrus-archeri-tintenfischpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/phylloporus_pelletieri_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -21,34 +31,6 @@ footer_scripts:
 08.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Goldblatt Phylloporus pelletieri. Trotz seines lamelligen [Hymeniums](Hymenium "Glossar") gehört er zu den Röhrlingen und wegen des Farbkontrasts von braun und goldgelb zu den attraktiven Pilzen. Wenn man Glück hat, findet man ihn hin und wieder in Laub- oder Nadelwäldern; es handelt sich also um eine recht seltene Art. Er ist essbar und in seinem Speisewert mit Ziegenlippe und Rotfußröhrling zu vergleichen.
 
 [Mehr lesen >](/pilze/phylloporus-pelletieri-goldblatt)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_junquilleus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.08.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein Röhrling aus der Verwandtschaft des Steinpilzes oder der Hexenröhrlinge, eine extrem seltene Art, die Lars Bartels bei Bad Orb gefunden hat. Es ist der [Falsche Schwefelröhrling Boletus junquilleus](/pilze/boletus-junquilleus-falscher-schwefelröhrling). Der wissenschaftliche Artname junquilleus bedeutet narzissengelb, weshalb er auch Narzissenröhrling genannt wird. Sein Charakteristikum sind die überwiegend gelblichen Farben. Gelb sind auch die Poren, ein drastischer Unterschied zu den eigentlichen Hexenröhrlingen, mit denen er schon synonymisiert worden ist. Auf Druck oder im Anschnitt verfärbt er sich blau. Aufgrund seiner Seltenheit und des nicht gerade ansprechenden Aussehens dürfte er nur sehr selten einmal in einer Pfanne gelandet sein und entsprechend vage sind seine Beurteilungen. Sie reichen von ungenießbar bis *"so ähnlich wie die Hexen"*. Sein neuer Name ist übrigens *Sutorius junquilleus*.
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coltricia_perennis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Unser aktueller [Fundkorbpilz](AA "Glossar-") am 06.08.2021 ist der [Dauerporling Coltricia perennis](/pilze/coltricia-perennis-gezonter-dauerporling), ein hübscher, den man getrocknet als Dekopilz verwenden kann. Ewald Gerhardt schreibt in seinem Pilzführer, dass ihn früher die Leute sogar in ihre Vitrinen gestellt hätten. Seine Attraktivität beruht auf der eleganten Trichterform, seinen warmen Brauntönen und der ansprechenden Zonierung. Er wächst nicht an Holz wie viele andere Porling sondern auf dem Boden unter Nadelbäumen, am häufigsten bei Kiefern. Meist erscheint er gesellig und oft sind mehrere Exemplare miteinander verwachsen, wie das Foto zeigt. Häufig ist er nicht gerade, im Rhein-Gebiet aber recht gut verbreitet.
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/fuligo_septica_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist eigentlich gar kein richtiger Pilz. Die Gelbe Lohblüte (Fuligo septica) gehört zu den Schleimpilzen, und das sind Organismen, die Eigenschaften von Tieren und Pilzen in sich vereinen und zu erstaunlichen Leistungen fähig sein. Jeder hat wohl schon mal diese merkwürdigen gelben Kissen auf totem Holz oder auf Moospolstern gesehen und sich gescheut, sie anzufassen. Sie sind tatsächlich schleimig, im Endstadium ihrer Entwicklung aber trocken. Das ist der Zeitpunkt, an dem sie ihre Sporen abgeben, um dann allmählich spurlos zu verschwinden.
-
-[Mehr lesen, schauen und staunen >](/pilze/fuligo-septica-gelbe-lohblüte)
-
-<div style="clear:  both"></div>
 
 - - -
 
