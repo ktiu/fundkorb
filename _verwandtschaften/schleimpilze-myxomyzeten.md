@@ -35,15 +35,16 @@ Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das Video des US-amerik
 
 Bisher 12 Schleimpilzarten aus 8 Gattungen (4 Familien) im Fundkorb. Weitere werden folgen.
 
-[](/pilze/diachaea-leucopodia-buckingham-schleimpilz)[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)  
-[Arcyria obvelata (Arcyriaceae) - Nickender Kelchschleimpilz](/pilze/arcyria-obvelata-arcyria-obvelata)  
-[Ceratiomyxa porioides (Ceratiomyxaceae) - Weißes Netzpolster](/pilze/ceratiomyxa-porioides-weißes-netzpolster)  
-[Ceratiomyxa fruticulosa (Ceratiomyxaceae) - Geweihförmiger Schleimpilz](/pilze/ceratiomyxa-fruticulosa-geweihförmiger-schleimpilz)  
+[](/pilze/diachaea-leucopodia-buckingham-schleimpilz)[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
+[Arcyria obvelata (Arcyriaceae) - Nickender Kelchschleimpilz](/pilze/arcyria-obvelata-arcyria-obvelata)\
+[Ceratiomyxa porioides (Ceratiomyxaceae) - Weißes Netzpolster](/pilze/ceratiomyxa-porioides-weißes-netzpolster)\
+[Ceratiomyxa fruticulosa (Ceratiomyxaceae) - Geweihförmiger Schleimpilz](/pilze/ceratiomyxa-fruticulosa-geweihförmiger-schleimpilz)\
 [Diachaea leucopodia (Didymiaceae) - Buckingham-Schleimpilz](/pilze/diachaea-leucopodia-buckingham-schleimpilz)\
 [Fuligo muscorum (Physaridae) - Moos-Lohblüte](/pilze/fuligo-muscorum-moos-lohblüte)\
 [Fuligo septica (Physaridae) - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
-[Lycogala epidendrum (Enterididae) - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
+[Lycogala epidendrum (Enteridiaceae) - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 [Physarum cinereum (Physaridae) - Grauer Gras-Schleimpilz](/pilze/physarum-cinereum-grauer-gras-schleimpilz)\
 [Physarum utriculare (Physaridae) - Fadenfrucht-Schleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
-[Reticularia lycoperdon (Enterididae) - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
-[Stemonitis fusca (Stemonitidaceae) - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)
+[Reticularia lycoperdon (Enteridiaceae) - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
+[Stemonitis fusca (Stemonitidaceae) - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)  
+[Tubulifera arachnoides (Enteridiaceae) - Lachsfarbener Schleimpilz](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
