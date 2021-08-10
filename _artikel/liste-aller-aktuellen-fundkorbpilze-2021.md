@@ -2,8 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-08.08.2021 [Phylloporus pelletieri - Goldblatt](/pilze/phylloporus-pelletieri-goldblatt)  
-07.08.2021 [Boletus junquilleus - Falscher Schwefelröhrling](/pilze/boletus-junquilleus-falscher-schwefelröhrling)  
+10.08.2021 [Clathrus archeri - Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)  
+08.08.2021 [Phylloporus pelletieri - Goldblatt](/pilze/phylloporus-pelletieri-goldblatt)\
+07.08.2021 [Boletus junquilleus - Falscher Schwefelröhrling](/pilze/boletus-junquilleus-falscher-schwefelröhrling)\
 06.08.2021 [Coltricia perennis - Dauerporling](/pilze/coltricia-perennis-gezonter-dauerporling)\
 03.08.2021 [Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
 01.08.2021 [Gloeophyllum odoratum - Fenchelporling](/pilze/gloeophyllum-odoratum-fenchelporling)
