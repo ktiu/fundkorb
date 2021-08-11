@@ -15,6 +15,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_rubellus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der [Blutrote Filzröhrling Xerocomus rubellus](/pilze/xerocomus-rubellus-blutroter-filzröhrling), der so natürlich nicht mehr heißt sondern Hortiboletus rubellus. Zwischendurch wurde er auch schon Tubiporus rubellus und Boletus sanguineus genannt. Für mich gehört er in die Verwandtschaft von Rotfußröhrling und Ziegenlippe und mit diesen teilt er auch meine Bewertung als Speisepilz: ziemlich mittelmäßig. Er ist nicht so häufig wie diese beiden aber auch keine Seltenheit und mit seinem blutroten Hut ein hübsches Kerlchen. Ist es Euch auch schon aufgefallen, dass man ihn besonders häufig an Waldwegrändern findet? 
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clathrus_archeri_10_xx.jpg" %}
 {% include abbildung_ende.html legende="Foto: Jörg Bauer" %}
 
