@@ -28,6 +28,10 @@ Diesen Dickröhrling als Hexenröhrling oder als Varietät vom [Flockenstieligen
 
 Der Falsche Schwefelröhrling ist ein sehr seltener Laubwaldpilz, der bevorzugt bei Buchen wächst. Ich habe ihn nur ein einziges Mal gefunden, am 31. Juli 2011 im Mörsbacher Grund bei Messel (Südhessen). Standortfotos wurden nicht gemacht, auch nicht beim hier abgebildeten Exemplar, einem Fund von Lars Bartels in der Nähe von Bad Orb, das mir am  24 Juli 2021 zur Bestimmung gebracht worden war.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/boletus_junquilleus_04_fk.jpg" %}
+{% include abbildung_ende.html legende="Im Oktober 2018 im Odenwald gefunden und fotografiert von Frank Kaster" %}
+
 Aufgrund seiner Seltenheit und des nicht gerade ansprechenden Aussehens dürfte er nur sehr selten einmal in einer Pfanne gelandet sein und entsprechend vage sind seine Beurteilungen. Sie reichen von ungenießbar bis "so ähnlich wie die Hexen".
 
 Über seine taxonomische Zugehörigkeit wurde viel gestritten. Hier eine Auswahl an Namen, unter denen er schon beschrieben worden ist:\
