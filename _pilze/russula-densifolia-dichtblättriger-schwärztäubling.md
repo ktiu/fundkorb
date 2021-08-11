@@ -10,12 +10,11 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/boletus_junquilleus_04_fk.jpg
+  datei: /bilder/russula_densifolia_01_dg.jpg
 ---
 Schwärztäublinge sind leicht zu erkennen. Ihnen fehlen die bunten Farben, die für die meisten anderen Täublinge so charakteristisch sind. Sie sind weißlich, bräunlich, grau und - was das Wichtigste ist: ihre Fruchtkörper schwärzen. Manche überwintern sogar als komplett schwarze Pilzleichen. Bei manchen rötet das Fleisch, bevor es schwärzt. Ein Merkmal, das für alle zutrifft: die Huthaut lässt sich nicht oder nur sehr wenig abziehen.
 
-Den Dichtblättrigen Schwärztäubling zeichnen sehr schmale, dicht beieinander stehende Lamellen aus. Dieses Merkmal hat er mit dem Scharfblättrigen Schwärztäubling gemeinsam, dessen Lamellen sehr scharf schmecken. Die des Dichtblättrigen sind nicht völlig mild sondern etwas schärflich oder pikant, was besonders als Nachgeschmack zu spüren ist. Geschmacks-proben sind natürlich stets auszuspucken.
-
+Den Dichtblättrigen Schwärztäubling zeichnen sehr schmale, dicht beieinander stehende Lamellen aus. Dieses Merkmal hat er mit dem Scharfblättrigen Schwärztäubling *Russula acrifolia* gemeinsam, dessen Lamellen sehr scharf schmecken. Die des Dichtblättrigen sind nicht völlig mild sondern etwas schärflich oder pikant, was besonders als Nachgeschmack zu spüren ist. Geschmacksproben sind natürlich stets auszuspucken.
 
 <div class="table-responsive">
   <table class="table taeubling">
@@ -38,3 +37,16 @@ Den Dichtblättrigen Schwärztäubling zeichnen sehr schmale, dicht beieinander 
     </tr>
   </table>
 </div>
+
+Er gehört zu den kleineren bis mittelgroßen Täublingen und wächst im Sommer und Herbst in Laub- und Nadelwäldern. In der Laubstreu ist er wegen seiner unauffälligen Farben leicht zu übersehen. Selten ist er nicht, aber längst nicht so häufig wie der [Dickblättrige Schwärztäubling Russula nigricans](/pilze/russula-nigricans-dickblättriger-schwärztäubling), mit dem er manchmal den Standort teilt.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_densifolia_02_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/russula_densifolia_03_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+Der Dichtblättrige Schwärztäubling ist essbar, gehört aber sicher nicht zu den Premium-Arten unter den Täublingen. So ganz abschreiben sollte man aber dennoch nicht. Ich meine, er ist es wert, einmal auf die Probe gestellt zu werden.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_densifolia_04_dg.jpg" %}
+{% include abbildung_ende.html legende="Knusprig gebratene Hüte und Stiele: gar nicht so übel" %}
