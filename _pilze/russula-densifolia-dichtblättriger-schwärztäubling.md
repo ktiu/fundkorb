@@ -45,7 +45,7 @@ Er gehört zu den kleineren bis mittelgroßen Täublingen und wächst im Sommer 
 {% include bild.html datei="/bilder/russula_densifolia_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Der Dichtblättrige Schwärztäubling ist essbar, gehört aber sicher nicht zu den Premium-Arten unter den Täublingen. So ganz abschreiben sollte man aber dennoch nicht. Ich meine, er ist es wert, einmal auf die Probe gestellt zu werden.
+Der Dichtblättrige Schwärztäubling ist essbar, gehört aber sicher nicht zu den Premium-Arten unter den Täublingen. So ganz abschreiben sollte man ihn aber dennoch nicht. Ich meine, er ist es wert, einmal auf die Probe gestellt zu werden.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_densifolia_04_dg.jpg" %}
