@@ -21,6 +21,10 @@ Für viele Pilzfreunde ist es ein bemerkenswertes Ereignis, den Dornigen Stachel
 
 Von den drei anderen europäischen Stachelbärten unterscheidet sich Hericium cirrhatum durch kleinere Sporen (3 x 3,5 – 4 µm), [inamyloide](inamyloid "Glossar") Trama, dünnwandige [Hyphen](Hyphen "Glossar") in den Stacheln und muschel- oder konsolenförmige Fruchtkörper, von denen in der Regel mehrere miteinander verwachsen sind. Deren Unterseiten sind dicht mit dornenartigen Stacheln besetzt. Der Pilz ist jung rein weiß, neigt bei zunehmendem Alter aber zum Gilben und Bräunen. Die Oberseite ist filzig-körnig. Bei den übrigen Hericium-Arten sind die Stacheln sehr viel länger oder an verzweigten Fruchtkörperästen angeheftet.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/creolophus_cirrhatus_04_mi.jpg" %}
+{% include abbildung_ende.html legende="Foto: Michael Illig" %}
+
 Man findet den Dornigen Stachelbart an totem Laubholz, ganz überwiegend an Buche. In der Rhein-Main-Ebene dürfte er der häufigste Stachelbart sein, was allerdings nicht bedeutet, es mit einer häufigen Art zu tun zu haben.
 
 {% include abbildung_start.html stil="mittel" %}
@@ -30,6 +34,6 @@ Man findet den Dornigen Stachelbart an totem Laubholz, ganz überwiegend an Buch
 
 Sämtliche bei uns vorkommenden Stachelbärte sind zwar essbar, werden jedoch in Roten Listen als gefährdete Arten ausgewiesen und dürfen nicht gesammelt werden. Dies sind neben dem hier beschriebenen Dornigen Stachelbart: 
 
-[Ästiger Stachelbart Hericium coralloides](/pilze/hericium-coralloides-ästiger-stachelbart)  
-[Igel-Stachelbart Hericium erinaceus](/pilze/hericium-erinaceus-hericium-erinaceus)  
+[Ästiger Stachelbart Hericium coralloides](/pilze/hericium-coralloides-ästiger-stachelbart)\
+[Igel-Stachelbart Hericium erinaceus](/pilze/hericium-erinaceus-hericium-erinaceus)\
 [Tannenstachelbart Hericium flagellum](/pilze/hericium-flagellum-tannenstachelbart)
