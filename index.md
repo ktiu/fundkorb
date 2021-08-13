@@ -14,6 +14,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_densifolia_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder ein Täubling, und zwar einer von den sogenannten *Compactae*. Der Dichtblättrige Schwärztäubling gehört zu den wenig beachteten Arten und landet kaum einmal in den Sammelkörben von Pilzfreunden. Die düsteren Farben und noch mehr die im Alter eintretende Schwarzverfärbung machen ihn nicht gerade sympathisch. Man findet im Netz immer wieder Hinweise, dass er besser schmecken soll sein Ruf. Also probiert's mal aus, wenn ihr ihn findet. Ich hab's bereits getan. 
+
+[Mehr lesen >](https://fundkorb.de/pilze/russula-densifolia-dichtbl%C3%A4ttriger-schw%C3%A4rzt%C3%A4ubling)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_rubellus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
