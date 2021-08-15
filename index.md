@@ -15,42 +15,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/polyporus_alveolaris_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.08.2021: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") heißt *Polyporus alveolaris* und sein deutscher Name *Wabenporling* ist fast schon eine Fruchtkörperbeschreibung. Auch anhand des obigen Fotos ist eine Bestimmung leicht abzusichern. Kein anderer Porling hat so schöne große und so weit am Stiel herablaufende meist fünfeckige Poren. Seine Größe kann erheblich variieren und hängt meist von der Dicke der Ästchen oder Äste ab, auf denen er wächst. Je dünner diese sind, desto kleiner sind die Fruchtkörper, mitunter geradezu winzig. Daß er inzwischen einen neuen Namen hat, wundert niemanden mehr. Jetzt soll er *Neofalvus alveolaris* heißen.
+
+[Mehr lesen >](/pilze/polyporus-alveolaris-wabenporling)
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_densifolia_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 13.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder ein Täubling, und zwar einer von den sogenannten *Compactae*. Der Dichtblättrige Schwärztäubling gehört zu den wenig beachteten Arten und landet kaum einmal in den Sammelkörben von Pilzfreunden. Die düsteren Farben und noch mehr die im Alter eintretende Schwarzverfärbung machen ihn nicht gerade sympathisch. Man findet im Netz immer wieder Hinweise, dass er besser schmecken soll sein Ruf. Also probiert's mal aus, wenn ihr ihn findet. Ich hab's bereits getan. 
 
 [Mehr lesen >](https://fundkorb.de/pilze/russula-densifolia-dichtbl%C3%A4ttriger-schw%C3%A4rzt%C3%A4ubling)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_rubellus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der [Blutrote Filzröhrling Xerocomus rubellus](/pilze/xerocomus-rubellus-blutroter-filzröhrling), der so natürlich nicht mehr heißt sondern Hortiboletus rubellus. Zwischendurch wurde er auch schon Tubiporus rubellus und Boletus sanguineus genannt. Für mich gehört er in die Verwandtschaft von Rotfußröhrling und Ziegenlippe und mit diesen teilt er auch meine Bewertung als Speisepilz: ziemlich mittelmäßig. Er ist nicht so häufig wie diese beiden aber auch keine Seltenheit und mit seinem blutroten Hut ein hübsches Kerlchen. Ist es Euch auch schon aufgefallen, dass man ihn besonders häufig an Waldwegrändern findet? 
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clathrus_archeri_10_xx.jpg" %}
-{% include abbildung_ende.html legende="Foto: Jörg Bauer" %}
-
-10.08.2021 Aktueller [Fundkorbpilz](AA "Glossar-"): heute zur Abwechslung mal ein kleines Rätsel: was ist das auf dieser Abbildung? Erfahrene Pilzkundler werden's wohl wissen oder haben zumindest einen Verdacht. Wie auch immer: [mehr erfährt und sieht man hier >](/pilze/clathrus-archeri-tintenfischpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/phylloporus_pelletieri_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Goldblatt Phylloporus pelletieri. Trotz seines lamelligen [Hymeniums](Hymenium "Glossar") gehört er zu den Röhrlingen und wegen des Farbkontrasts von braun und goldgelb zu den attraktiven Pilzen. Wenn man Glück hat, findet man ihn hin und wieder in Laub- oder Nadelwäldern; es handelt sich also um eine recht seltene Art. Er ist essbar und in seinem Speisewert mit Ziegenlippe und Rotfußröhrling zu vergleichen.
-
-[Mehr lesen >](/pilze/phylloporus-pelletieri-goldblatt)
 
 - - -
 
