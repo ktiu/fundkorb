@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-11.08.2021 [Xerocomus rubellus - Blutroter Filzröhrling](/pilze/xerocomus-rubellus-blutroter-filzröhrling)  
+15.08.2021 [Polyporus alveolaris - Wabenporling](/pilze/polyporus-alveolaris-wabenporling)  
+13.08.2021 [Russula densifolia - Dichtblättriger Schwärztäubling](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)  
+11.08.2021 [Xerocomus rubellus - Blutroter Filzröhrling](/pilze/xerocomus-rubellus-blutroter-filzröhrling)\
 10.08.2021 [Clathrus archeri - Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)\
 08.08.2021 [Phylloporus pelletieri - Goldblatt](/pilze/phylloporus-pelletieri-goldblatt)\
 07.08.2021 [Boletus junquilleus - Falscher Schwefelröhrling](/pilze/boletus-junquilleus-falscher-schwefelröhrling)\
