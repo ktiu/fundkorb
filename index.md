@@ -15,6 +15,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/geastrum_striatum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.08.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist der *Kragen-Erdstern Geastrum striatum*. Wenn er sich voll entwickelt hat und sein Köpfchen gestielt, mit einem Kragen behangen und die kraterartige Sporenauslassöffnung deutlich gestreift ist, darf man ihn als richtig erkannt betrachten. Keine Selbstverständlichkeit unter den rund 20 in Mitteleuropa vorkommenden Erdstern-Arten. Sie sind recht selten und oft nicht leicht zu bestimmen. Ich sehe in ihnen ein hübsches Beispiel für die Formenvielfalt im Reich der Pilze und freue mich jedesmal, wenn ich einem begegne. 
+
+[Mehr lesen >](/pilze/geastrum-striatum-kragen-erdstern)
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/polyporus_alveolaris_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
