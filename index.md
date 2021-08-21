@@ -15,6 +15,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/kuehneromyces_mutabilis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.08.2021: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist mit einer eindringlichen Warnung verbunden. Das Stockschwämmchen ist ein leckerer Speisepilz und heute bei mir in der Pfanne gelandet. Hat wie immer sehr gut geschmeckt. Das Sammeln sollte aber nur wirklich erfahrenen Pilzsammlern vorbehalten bleiben. Eine leicht mögliche Verwechslung mit dem Gifthäubling könnte schnell auf dem Friedhof enden - zumal es auch immer wieder vorkommt, dass Stockschwämmchen gemeinsam mit ihrem gefährlichen Doppelgänger am selben Holz gefunden werden.
+
+[Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/geastrum_striatum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
