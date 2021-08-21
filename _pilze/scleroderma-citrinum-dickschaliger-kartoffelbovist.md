@@ -24,8 +24,8 @@ Kartoffelboviste gehören zur Gruppe der Bauchpilze (Gasteromyzeten), die ihre S
 
 * ##### Fünf in Deutschland nachgewiesene Scleroderma-Arten:
 
-**Scleroderma areolatum** Gefelderter Kartoffelbovist, Leopardenfell-Hartbovist  
-**Scleroderma bovista** Gelbflockiger Kartoffelbovist  
-**Scleroderma cepa** Zwiebelförmiger Kartoffelbovist  
-**Scleroderma citrinum** Dickschaliger Kartoffelbovist  
+**Scleroderma areolatum** Gefelderter Kartoffelbovist, Leopardenfell-Hartbovist\
+**[Scleroderma bovista](/pilze/scleroderma-bovista-netzsporiger-kartoffelbovist)** Gelbflockiger Kartoffelbovist\
+**Scleroderma cepa** Zwiebelförmiger Kartoffelbovist\
+**Scleroderma citrinum** Dickschaliger Kartoffelbovist\
 **Scleroderma verrucosum** Dünnschaliger Kartoffelbovist
