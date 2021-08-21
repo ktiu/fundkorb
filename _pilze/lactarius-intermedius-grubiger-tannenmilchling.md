@@ -35,7 +35,7 @@ Das Fleisch ist weißlich, fest und im Stiel knorpelig hart. Die Milch quillt be
 
 Die Stiele sind kurz, stämmig und hart, anfangs voll, später ausgehöhlt, weiß und mit gelben bis hellbraunen Gruben versehen.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lactarius_intermedius_05_bm.jpg" %}
 {% include abbildung_ende.html legende="Sporen breitellipsoid, warzig-gratig-teilnetzig, ca. 8,5 x 7,0 µm" %}
 
