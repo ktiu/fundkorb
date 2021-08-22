@@ -26,8 +26,8 @@ Die Hahnenkamm-Koralle ist sehr selten, man sollte sie unbedingt im Wald stehen 
 Die Fruchtkörper können nach CHRISTAN (2008) bis zu 18 cm hoch und 14 cm breit werden. Der Strunk ist kräftig und weiß gefärbt. Die Äste sind anfangs blumenkohlartig, später aufwärtsstrebend und verzweigt, anfangs weiß, später gelbocker. Die Astenden sind rosa und gezähnt. Das Fleisch ist weißlich.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/ramaria_botrytis_03_bm.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/ramaria_botrytis_02_bm.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/ramaria_botrytis_03_bm.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/ramaria_botrytis_02_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
 Die Rosaspitzige Koralle Ramaria rubripermanens unterscheidet sich von der Hahnenkamm-Koralle nur durch Mikromerkmale wie Sporengröße, Kristalle, gelifizierte Hyphen. Rein makroskopisch sind die beiden Arten nicht voneinander unterscheidbar.
