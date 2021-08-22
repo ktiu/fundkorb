@@ -14,9 +14,21 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_rotula_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Halsbandschwindling Marasmius rotula. Ist ein richtiges Schätzchen und einer meiner Lieblinge. Taugt zwar nicht für die Küche (is nix dran!), ist dafür aber was fürs Auge, nämlich bildhübsch. Der Vergleich mit Mini-Fallschirmchen ist absolut zutreffend. Sein wissenschaftlicher Artname ist auch passend gewählt: rotula (lateinisch) bedeutet Rädchen, kleines Rad. Von unten betrachtet sieht er tatsächlich so aus. Er wächst auf dünnen Zweigen und Ästchen und ist wirklich häufig, wird aber meistens übersehen. Sein Markenzeichen ist ein Kollar, das wie ein Halsband den Stiel umgibt und verhindert, dass die Lamellen den Stiel erreichen. Verwechseln könnte man ihn mit den noch kleineren Käsepilzchen, aber die wachsen in der Nadelstreu oder auf vermodernden Laubblättern.
+
+[Mehr lesen >](/pilze/marasmius-rotula-halsbandschwindling)
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/kuehneromyces_mutabilis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
+
+<div style="clear:  both"></div>
 
 21.08.2021: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist mit einer eindringlichen Warnung verbunden. Das Stockschwämmchen ist ein leckerer Speisepilz und heute bei mir in der Pfanne gelandet. Hat wie immer sehr gut geschmeckt. Das Sammeln sollte aber nur wirklich erfahrenen Pilzsammlern vorbehalten bleiben. Eine leicht mögliche Verwechslung mit dem Gifthäubling könnte schnell auf dem Friedhof enden - zumal es auch immer wieder vorkommt, dass Stockschwämmchen gemeinsam mit ihrem gefährlichen Doppelgänger am selben Holz gefunden werden.
 
@@ -31,26 +43,6 @@ footer_scripts:
 19.08.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist der *Kragen-Erdstern Geastrum striatum*. Wenn er sich voll entwickelt hat und sein Köpfchen gestielt, mit einem Kragen behangen und die kraterartige Sporenauslassöffnung deutlich gestreift ist, darf man ihn als richtig erkannt betrachten. Keine Selbstverständlichkeit unter den rund 20 in Mitteleuropa vorkommenden Erdstern-Arten. Sie sind recht selten und oft nicht leicht zu bestimmen. Ich sehe in ihnen ein hübsches Beispiel für die Formenvielfalt im Reich der Pilze und freue mich jedesmal, wenn ich einem begegne. 
 
 [Mehr lesen >](/pilze/geastrum-striatum-kragen-erdstern)
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/polyporus_alveolaris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.08.2021: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") heißt *Polyporus alveolaris* und sein deutscher Name *Wabenporling* ist fast schon eine Fruchtkörperbeschreibung. Auch anhand des obigen Fotos ist eine Bestimmung leicht abzusichern. Kein anderer Porling hat so schöne große und so weit am Stiel herablaufende meist fünfeckige Poren. Seine Größe kann erheblich variieren und hängt meist von der Dicke der Ästchen oder Äste ab, auf denen er wächst. Je dünner diese sind, desto kleiner sind die Fruchtkörper, mitunter geradezu winzig. Daß er inzwischen einen neuen Namen hat, wundert niemanden mehr. Jetzt soll er *Neofalvus alveolaris* heißen.
-
-[Mehr lesen >](/pilze/polyporus-alveolaris-wabenporling)
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/russula_densifolia_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder ein Täubling, und zwar einer von den sogenannten *Compactae*. Der Dichtblättrige Schwärztäubling gehört zu den wenig beachteten Arten und landet kaum einmal in den Sammelkörben von Pilzfreunden. Die düsteren Farben und noch mehr die im Alter eintretende Schwarzverfärbung machen ihn nicht gerade sympathisch. Man findet im Netz immer wieder Hinweise, dass er besser schmecken soll sein Ruf. Also probiert's mal aus, wenn ihr ihn findet. Ich hab's bereits getan. 
-
-[Mehr lesen >](https://fundkorb.de/pilze/russula-densifolia-dichtbl%C3%A4ttriger-schw%C3%A4rzt%C3%A4ubling)
 
 - - -
 
