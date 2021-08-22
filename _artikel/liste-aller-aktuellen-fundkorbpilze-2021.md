@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-21.08.2021 [Kuehneromyces mutabilis - Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen)  
+22.08.2021 [Marasmius rotula - Halsbandschwindling](/pilze/marasmius-rotula-halsbandschwindling)\
+21.08.2021 [Kuehneromyces mutabilis - Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen)\
 19.08.2021 [Geastrum striatum - Kragen-Erdstern](/pilze/geastrum-striatum-kragen-erdstern)\
 15.08.2021 [Polyporus alveolaris - Wabenporling](/pilze/polyporus-alveolaris-wabenporling)\
 13.08.2021 [Russula densifolia - Dichtblättriger Schwärztäubling](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)\
@@ -29,7 +30,7 @@ published: true
 12.07.2021 [Leccinum quercinum - Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)\
 10.07.2021 [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)\
 09.07.2021 [Lactarius circellatuns - Gebänderter Hainbuchenmilchling](/lactarius-circellatus-gebänderter-hainbuchenmilchling)\
-08.07.2021 [Boletus luridus - Netzstieliger Hexenröhrling](<08.07.2021  Boletus luridus - Netzstieliger Hexenröhrling>)\
+08.07.2021 [Boletus luridus - Netzstieliger Hexenröhrling](/pilze/boletus-luridus-netzstieliger-hexenröhrling)\
 05.07.2021 [Trichaptum abietinum - Violetter Lederporling](/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)\
 04.07.2021 [Amanita fulva - Rotbrauner (Fuchsiger) Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)\
 01.07.2021 [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)
