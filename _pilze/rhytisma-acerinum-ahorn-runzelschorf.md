@@ -21,3 +21,5 @@ Die Infektion erfolgt durch Sporen, die von befallenen Blättern des Vorjahrs st
 {% include abbildung_ende.html %}
 
 Andere Runzelschorf-Arten haben sich auf andere Wirtsbäume spezialisiert, z. B. der wesentlich seltenere Weiden-Runzelschorf Rhytisma salicinum. Auf Bergahorn ist mitunter auch Rhytisma punctatum zu finden, dessen schwarze Flecken deutlich kleiner sind.
+
+Der Pilz gehört zur [Ordnung der Rhytismatales (Flicklumpenartige)](/verwandt/flicklumpenartige-rhytismatales).
