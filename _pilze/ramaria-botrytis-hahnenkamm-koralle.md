@@ -30,7 +30,7 @@ Die Fruchtkörper können nach CHRISTAN (2008) bis zu 18 cm hoch und 14 cm breit
 {% include bild.html datei="/bilder/ramaria_botrytis_02_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-Die Rosaspitzige Koralle Ramaria rubripermanens unterscheidet sich von der Hahnenkamm-Koralle nur durch Mikromerkmale wie Sporengröße, Kristalle, gelifizierte Hyphen. Rein makroskopisch sind die beiden Arten nicht voneinander unterscheidbar.
+Die Rosaspitzige Koralle *Ramaria rubripermanens* unterscheidet sich von der Hahnenkamm-Koralle nur durch Mikromerkmale wie Sporengröße, Kristalle, gelifizierte Hyphen. Rein makroskopisch sind die beiden Arten nicht voneinander unterscheidbar.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/ramaria_botrytis_04_bm.jpg" %}
