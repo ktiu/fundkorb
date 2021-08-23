@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Arcyria obvelata
-  deutsch: Arcyria obvelata
+  deutsch: Nickender Kelchschleimpilz
   referenz: (Oeder) Onsberg 1979
   synonym: "Synonym: Arcyria nutans"
   erlaeuterung: obvelata = beschleiert
