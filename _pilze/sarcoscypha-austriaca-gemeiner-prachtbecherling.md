@@ -12,7 +12,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/sarcoscypha_aurantiaca_01_dg.jpg
 ---
-Einen Kelchbecherling zu finden ist immer ein Ausrufungszeichen wert, eine exakte Benennung ohne mikroskopische Überprüfung jedoch stets mit einem Fragezeichen zu versehen. Die drei in Mitteleuropa vorkommenden Arten sind mit bloßem Auge kaum zu unterscheiden. Von diesen ist *Sarcoscyha austriaca* die häufigste, aber keineswegs "gemeine" Art (anderer Name: Gemeiner Kelchbecherling).
+Einen Kelchbecherling zu finden ist immer ein Ausrufungszeichen wert, eine exakte Benennung ohne mikroskopische Überprüfung jedoch stets mit einem Fragezeichen zu versehen. Die drei in Mitteleuropa vorkommenden Arten sind mit bloßem Auge kaum zu unterscheiden. Von diesen ist *Sarcoscyha austriaca* die häufigste, aber keineswegs "gemeine" Art (anderer Name: Österreichischer Kelchbecherling).
 
 Alle drei sind intensiv zinnober- bis karminrot gefärbt, Außenseite deutlich heller, haben einen mit der Lupe erkennbaren haarigen Becherrand, erreichen bis zu 7 (selten mehr) cm Durchmesser und erscheinen in der Zeit zwischen Winter und Mai. Findet man sie in beschneiten Biotopen, bieten sie einen besonders attraktiven konstrastreichen Anblick. Gelegentlich kommt eine blassere, gelb bis gelborange gefärbte Varietät *(var. lutea)* vor.
 
