@@ -39,7 +39,7 @@ Pfifferlinge haben einen Doppelgänger, mit dem sie immer wieder verwechselt wer
 {% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Echte Pfifferlinge haben an der Hutunterseite Leisten (links) -- Falsche Pfifferlinge Lamellen (rechts)" %}
 
-Bei manchen Arten sind die Leisten so weit zurückgebildet, dass man sie nur noch als Runzeln bezeichnen kann. Beispiel: Herbsttrompete.
+> Bei manchen Arten sind die Leisten so weit zurückgebildet, dass man sie nur noch als Runzeln bezeichnen kann. Beispiel: Herbsttrompete.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cantharellus_cibarius_06_mm.jpg" %}
@@ -52,4 +52,4 @@ Verwechselt wird der Pfifferling auch mit dem [Samtigen Pfifferling](/pilze/cant
 {% include bild.html datei="/bilder/cantharellus_friesii_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Samtiger Pfifferling  Cantharellus friesii" %}
 
-Eine Varietät mit weißlicher oder weiß bereifter Hutoberfläche (Cantharellus cibarius var. pallidus) wird inzwischen als eigene gute Art *Cantharellus pallens* (Blasser Pfifferling, Synonym Cantharellus ferruginascens) anerkannt.
+> Eine Varietät mit weißlicher oder weiß bereifter Hutoberfläche (Cantharellus cibarius var. pallidus) wird inzwischen als eigene gute Art *Cantharellus pallens* (Blasser Pfifferling) anerkannt.
