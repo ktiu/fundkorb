@@ -52,4 +52,4 @@ Verwechselt wird der Pfifferling auch mit dem [Samtigen Pfifferling](/pilze/cant
 {% include bild.html datei="/bilder/cantharellus_friesii_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Samtiger Pfifferling  Cantharellus friesii" %}
 
-> Eine Varietät mit weißlicher oder weiß bereifter Hutoberfläche (Cantharellus cibarius var. pallidus) wird inzwischen als eigene gute Art *Cantharellus pallens* (Blasser Pfifferling) anerkannt.
+Eine Varietät mit weißlicher oder weiß bereifter Hutoberfläche (Cantharellus cibarius var. pallidus) wird inzwischen als eigene gute Art [*Cantharellus pallens* (Blasser Laubwaldpfifferling)](/pilze/cantharellus-pallens-blasser-laubwaldpfifferling) anerkannt.
