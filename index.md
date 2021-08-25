@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_fulva_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 25.08.2021 ist der Rotbraune oder Fuchsige Scheidenstreifling. In dieser Gruppe, die zu den Wulstlingen gehört, ist er der mit Abstand häufigste. Er dürfte in kaum einem Wald fehlen. Das abgebildete Exemplar ist gerade aus seinem Ei geschlüpft, zeigt aber schon die charakteristischen Streifen am Hutrand. Als Speisepilz ist er von zweifelhaftem Wert. Er schmeckt muffig. Mit reichlich Pfeffer oder Chilli gewürzt merkt man nicht viel davon.
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_rotula_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,16 +45,6 @@ footer_scripts:
 21.08.2021: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist mit einer eindringlichen Warnung verbunden. Das Stockschwämmchen ist ein leckerer Speisepilz und heute bei mir in der Pfanne gelandet. Hat wie immer sehr gut geschmeckt. Das Sammeln sollte aber nur wirklich erfahrenen Pilzsammlern vorbehalten bleiben. Eine leicht mögliche Verwechslung mit dem Gifthäubling könnte schnell auf dem Friedhof enden - zumal es auch immer wieder vorkommt, dass Stockschwämmchen gemeinsam mit ihrem gefährlichen Doppelgänger am selben Holz gefunden werden.
 
 [Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/geastrum_striatum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.08.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist der *Kragen-Erdstern Geastrum striatum*. Wenn er sich voll entwickelt hat und sein Köpfchen gestielt, mit einem Kragen behangen und die kraterartige Sporenauslassöffnung deutlich gestreift ist, darf man ihn als richtig erkannt betrachten. Keine Selbstverständlichkeit unter den rund 20 in Mitteleuropa vorkommenden Erdstern-Arten. Sie sind recht selten und oft nicht leicht zu bestimmen. Ich sehe in ihnen ein hübsches Beispiel für die Formenvielfalt im Reich der Pilze und freue mich jedesmal, wenn ich einem begegne. 
-
-[Mehr lesen >](/pilze/geastrum-striatum-kragen-erdstern)
 
 - - -
 
