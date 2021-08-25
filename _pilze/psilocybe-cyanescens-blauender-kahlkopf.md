@@ -35,3 +35,5 @@ Eine spätere Begehung des Spielplatzes hat ergeben, dass der vom Gesundheitsamt
 {% include abbildung_ende.html legende="Foto: Gerd Wartha" %}
 
 Anfang November 2006 wurde von Peter Zügel ein weiteres Vorkommen im Frankfurter Stadtgebiet entdeckt: im nördlichen Teil des Palmengartens, ebenfalls auf Rindenmulch nahe einem Kinderspielplatz. Am 12. Oktober 2014 wurde der Kahlkopf nach einer pilzkundlichen Exkursion nahe der Dianaburg auch bei Darmstadt-Arheilgen gefunden. In der Gartenanlage des Ausflugslokals Kalkofen-Biergarten wuchsen einige hundert Fruchtkörper auf einer mit Holzhäckseln gemulchten Fläche.
+
+Mehr über psychotrope (halluzinogen wirkende) Pilze erfahren Sie [hier >](/artikel/narrenschwämme.html)
