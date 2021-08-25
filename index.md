@@ -20,7 +20,7 @@ footer_scripts:
 
 Aktueller [Fundkorbpilz](AA "Glossar-") am 25.08.2021 ist der Rotbraune oder Fuchsige Scheidenstreifling. In dieser Gruppe, die zu den Wulstlingen gehört, ist er der mit Abstand häufigste. Er dürfte in kaum einem Wald fehlen. Das abgebildete Exemplar ist gerade aus seinem Ei geschlüpft, zeigt aber schon die charakteristischen Streifen am Hutrand. Als Speisepilz ist er von zweifelhaftem Wert. Er schmeckt muffig. Mit reichlich Pfeffer oder Chilli gewürzt merkt man nicht viel davon.
 
-Mehr lesen >
+[Mehr lesen >](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)
 
 <div style="clear:  both"></div>
 
