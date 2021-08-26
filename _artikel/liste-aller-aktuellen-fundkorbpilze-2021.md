@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-25.08.2021 [Amanita fulva - Rotbrauner (Fuchsiger) Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)  
+26.08.2021 [Paecilomyces crassipes](/pilze/paecilomyces-crassipes)  
+25.08.2021 [Amanita fulva - Rotbrauner (Fuchsiger) Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)\
 22.08.2021 [Marasmius rotula - Halsbandschwindling](/pilze/marasmius-rotula-halsbandschwindling)\
 21.08.2021 [Kuehneromyces mutabilis - Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen)\
 19.08.2021 [Geastrum striatum - Kragen-Erdstern](/pilze/geastrum-striatum-kragen-erdstern)\
