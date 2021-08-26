@@ -14,6 +14,14 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/paecilomyces_crassipes_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.08.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") heißt [Paecilomyces crassipes](/pilze/paecilomyces-crassipes), ein deutscher Name ist nicht bekannt. Er zeigt sich als violettbraune ovale Flecken mit heller Mitte auf Blättern der Spätblühenden Traubenkirsche, gehört zu den Rostpilzen und der Befall kann zum vorzeitigen Abwurf der geschädigten Blätter führen. Das muss uns nicht traurig stimmen, denn alles, was dieser strauch- bis baumartigen Pflanze schadet, kann dem Wohle unserer Wälder dienen. Prunus serotina ist nämlich eine aus Nordamerika stammende invasive Art, die sich raumgreifend in unseren Wäldern ausbreitet. Wo sie erscheint, verdrängt sie ... unsere einheimische Flora. Leider ist der Rostpilz nicht in der Lage, diese aggressive Invasion mit seiner doch recht harmlosen Attacke auf die Blätter zu bremsen.
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_fulva_04_dg.jpg" %}
 {% include abbildung_ende.html %}
