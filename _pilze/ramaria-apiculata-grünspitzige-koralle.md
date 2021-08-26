@@ -7,6 +7,7 @@ beschreibung:
   erlaeuterung: apiculata = zugespitzt
 profil:
   aktualisiert: 2021-08-26
+  autor_in: Bernd Miggel
 hauptbild:
   anzeige: true
   datei: /bilder/ramaria_apiculata_01_bm.jpg
