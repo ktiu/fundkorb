@@ -15,22 +15,20 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/cortinarius_bolaris_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 27.08.2021 ist der *Rotschuppige Raufuß Cortinarius bolaris*. Er gehört zu den Haarschleierlingen, mit über 500 mitteleuropäischen Arten einer der artenreichsten und schwierigsten Gattungen im Reich der Pilze. Das wichtigste gemeinsame Merkmal der Cortinarien ist der *Cortina* genannte Haarschleier zwischen Hutrand und Stiel, der allerdings nur bei jungen Fruchtkörpern zu sehen ist. Den Rotschuppigen Raufuß erkennt man an seiner rötlichen schuppigen Hutbekleidung. Unter den Haarschleierlingen gibt es nur sehr wenige essbare Arten, aber etliche tödlich giftige. Unser hier vorgestellter Pilz gehört weder zu den essbaren noch zu den tödlich giftigen.
+
+[Mehr lesen >](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/paecilomyces_crassipes_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 26.08.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") heißt [Paecilomyces crassipes](/pilze/paecilomyces-crassipes), ein deutscher Name ist nicht bekannt. Er zeigt sich als violettbraune ovale Flecken mit heller Mitte auf Blättern der Spätblühenden Traubenkirsche, gehört zu den Rostpilzen und der Befall kann zum vorzeitigen Abwurf der geschädigten Blätter führen. Das muss uns nicht traurig stimmen, denn alles, was dieser strauch- bis baumartigen Pflanze schadet, kann dem Wohle unserer Wälder dienen. Prunus serotina ist nämlich eine aus Nordamerika stammende invasive Art, die sich raumgreifend in unseren Wäldern ausbreitet. Wo sie erscheint, verdrängt sie gnadenlos unsere einheimische Flora. Leider ist der Rostpilz nicht in der Lage, diese aggressive Invasion mit seiner doch recht harmlosen Attacke auf die Blätter zu bremsen.
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_fulva_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 25.08.2021 ist der Rotbraune oder Fuchsige Scheidenstreifling. In dieser Gruppe, die zu den Wulstlingen gehört, ist er der mit Abstand häufigste. Er dürfte in kaum einem Wald fehlen. Das abgebildete Exemplar ist gerade aus seinem Ei geschlüpft, zeigt aber schon die charakteristischen Streifen am Hutrand. Als Speisepilz ist er von zweifelhaftem Wert. Er schmeckt muffig. Mit reichlich Pfeffer oder Chilli gewürzt merkt man nicht viel davon.
-
-[Mehr lesen >](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)
-
-<div style="clear:  both"></div>
 
 - - -
 
@@ -41,18 +39,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 25.08.2021 ist der Rotbraune oder Fuc
 22.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Halsbandschwindling Marasmius rotula. Ist ein richtiges Schätzchen und einer meiner Lieblinge. Taugt zwar nicht für die Küche (is nix dran!), ist dafür aber was fürs Auge, nämlich bildhübsch. Der Vergleich mit Mini-Fallschirmchen ist absolut zutreffend. Sein wissenschaftlicher Artname ist auch passend gewählt: rotula (lateinisch) bedeutet Rädchen, kleines Rad. Von unten betrachtet sieht er tatsächlich so aus. Er wächst auf dünnen Zweigen und Ästchen und ist wirklich häufig, wird aber meistens übersehen. Sein Markenzeichen ist ein Kollar, das wie ein Halsband den Stiel umgibt und verhindert, dass die Lamellen den Stiel erreichen. Verwechseln könnte man ihn mit den noch kleineren Käsepilzchen, aber die wachsen in der Nadelstreu oder auf vermodernden Laubblättern.
 
 [Mehr lesen >](/pilze/marasmius-rotula-halsbandschwindling)
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/kuehneromyces_mutabilis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-<div style="clear:  both"></div>
-
-21.08.2021: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist mit einer eindringlichen Warnung verbunden. Das Stockschwämmchen ist ein leckerer Speisepilz und heute bei mir in der Pfanne gelandet. Hat wie immer sehr gut geschmeckt. Das Sammeln sollte aber nur wirklich erfahrenen Pilzsammlern vorbehalten bleiben. Eine leicht mögliche Verwechslung mit dem Gifthäubling könnte schnell auf dem Friedhof enden - zumal es auch immer wieder vorkommt, dass Stockschwämmchen gemeinsam mit ihrem gefährlichen Doppelgänger am selben Holz gefunden werden.
-
-[Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
 
 - - -
 
