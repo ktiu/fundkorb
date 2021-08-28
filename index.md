@@ -20,7 +20,7 @@ footer_scripts:
 
 28.08.2021: Heute begeben wir uns in eine artenreiche und schwierige Gattung, in der ohne Mikroskop nur sehr wenig geht. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-") Ramaria stricta, die Steife Koralle. Immerhin gehört sie zu den etwas häufigen Arten, so dass man sie hin und wieder zu Gesicht bekommt. Sie wächst an am Boden liegenden oder vergrabenen Ästen und Zweigen und wo dies der Fall ist, meist gleich zu mehreren. Nach heutiger Auffassung gibt es keine essbaren Arten unter ihnen, einige sind giftig, fast alle wegen Seltenheit geschützt. Auf jeden Fall erfreuen sie das Auge aller, die sich einen Sinn für die Schönheit der Natur bewahrt haben. Auch die Steife Koralle ist mit ihren eleganten vielfach verzweigten Fruchtkörpern  eine attraktive Gestalt. Eines ihrer Merkmale sind die gelblichen Spitzen der schlanken Verästelungen, aber das alleine reicht nicht aus, um sie sicher zu bestimmen. 
 
-Mehr lesen > 
+[Mehr lesen >](/pilze/ramaria-stricta-steife-koralle) 
 
 - - -
 
@@ -40,15 +40,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 27.08.2021 ist der *Rotschuppige Rauf
 
 26.08.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") heißt [Paecilomyces crassipes](/pilze/paecilomyces-crassipes), ein deutscher Name ist nicht bekannt. Er zeigt sich als violettbraune ovale Flecken mit heller Mitte auf Blättern der Spätblühenden Traubenkirsche, gehört zu den Rostpilzen und der Befall kann zum vorzeitigen Abwurf der geschädigten Blätter führen. Das muss uns nicht traurig stimmen, denn alles, was dieser strauch- bis baumartigen Pflanze schadet, kann dem Wohle unserer Wälder dienen. Prunus serotina ist nämlich eine aus Nordamerika stammende invasive Art, die sich raumgreifend in unseren Wäldern ausbreitet. Wo sie erscheint, verdrängt sie gnadenlos unsere einheimische Flora. Leider ist der Rostpilz nicht in der Lage, diese aggressive Invasion mit seiner doch recht harmlosen Attacke auf die Blätter zu bremsen.
 
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_rotula_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.08.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Halsbandschwindling Marasmius rotula. Ist ein richtiges Schätzchen und einer meiner Lieblinge. Taugt zwar nicht für die Küche (is nix dran!), ist dafür aber was fürs Auge, nämlich bildhübsch. Der Vergleich mit Mini-Fallschirmchen ist absolut zutreffend. Sein wissenschaftlicher Artname ist auch passend gewählt: rotula (lateinisch) bedeutet Rädchen, kleines Rad. Von unten betrachtet sieht er tatsächlich so aus. Er wächst auf dünnen Zweigen und Ästchen und ist wirklich häufig, wird aber meistens übersehen. Sein Markenzeichen ist ein Kollar, das wie ein Halsband den Stiel umgibt und verhindert, dass die Lamellen den Stiel erreichen. Verwechseln könnte man ihn mit den noch kleineren Käsepilzchen, aber die wachsen in der Nadelstreu oder auf vermodernden Laubblättern.
-
-[Mehr lesen >](/pilze/marasmius-rotula-halsbandschwindling)
 
 - - -
 
