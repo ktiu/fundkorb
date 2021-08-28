@@ -14,6 +14,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ramaria_stricta_01_xx.jpg" %}
+{% include abbildung_ende.html %}
+
+28.08.2021: Heute begeben wir uns in eine artenreiche und schwierige Gattung, in der ohne Mikroskop nur sehr wenig geht. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-") Ramaria stricta, die Steife Koralle. Immerhin gehört sie zu den etwas häufigen Arten, so dass man sie hin und wieder zu Gesicht bekommt. Sie wächst an am Boden liegenden oder vergrabenen Ästen und Zweigen und wo dies der Fall ist, meist gleich zu mehreren. Nach heutiger Auffassung gibt es keine essbaren Arten unter ihnen, einige sind giftig, fast alle wegen Seltenheit geschützt. Auf jeden Fall erfreuen sie das Auge aller, die sich einen Sinn für die Schönheit der Natur bewahrt haben. Auch die Steife Koralle ist mit ihren eleganten vielfach verzweigten Fruchtkörpern  eine attraktive Gestalt. Eines ihrer Merkmale sind die gelblichen Spitzen der schlanken Verästelungen, aber das alleine reicht nicht aus, um sie sicher zu bestimmen. 
+
+Mehr lesen > 
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cortinarius_bolaris_01_dg.jpg" %}
 {% include abbildung_ende.html %}
