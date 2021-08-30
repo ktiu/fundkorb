@@ -1,0 +1,4 @@
+---
+schlagwort: Fruktifikation
+---
+Fruchtkörper
