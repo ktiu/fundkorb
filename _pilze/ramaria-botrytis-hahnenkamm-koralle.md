@@ -39,3 +39,5 @@ Die Rosaspitzige Koralle *Ramaria rubripermanens* unterscheidet sich von der Hah
 Sporenmaße:\
 Ramaria botrytis: 12 - 16 x 4 - 5 µm\
 Ramaria rubripermanens: 8 - 13 x 3,5 - 4,5 µm
+
+Bei der Bestimmung von Ramaria-Arten ist zu beachten, dass es sich um eine schwierige Gattung handelt. Ohne mikroskopische Untersuchungen und Beiziehung spezieller Fachliteratur geht da nur wenig.  Nur sehr wenige Arten sind makroskopisch zweifelsfrei zu erkennen.
