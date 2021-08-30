@@ -30,4 +30,5 @@ Die Sporen sind sehr klein, elliptisch, vielfach arttypisch zylindrisch, sehr fe
 Die Myzelkoralle wird in der Roten Liste der gefährdeten Pilze Deutschlands in der Kategotie G (Gefährdung unbekannten Ausmaßes) geführt.
 
 Verwechslungsmöglichkeiten:\
-Es gibt etliche Ramaria-Arten in ähnlicher Größe und Färbung, die sich vor allem in den mikroskopischen Merkmalen von der Myzelkoralle unterscheiden.
+Es gibt etliche Ramaria-Arten in ähnlicher Größe und Färbung, die sich vor allem in den mikroskopischen Merkmalen von der Myzelkoralle unterscheiden.  
+Bei der Bestimmung von Ramaria-Arten ist zu beachten, dass es sich um eine schwierige Gattung handelt. Ohne mikroskopische Untersuchungen und Beiziehung spezieller Fachliteratur geht da nur wenig.  Nur sehr wenige Arten sind makroskopisch zweifelsfrei zu erkennen.
