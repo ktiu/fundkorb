@@ -15,6 +15,17 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/craterellus-cornucopioides_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 30.08.2021 ist die *[Herbsttromete Craterellus cornucopioides](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)*. Weil sie auf kalkhaltige Böden angewiesen ist, wird man sie z. B. in der Rhein-Main-Ebene nur selten finden. Aber auch hier gibt es kleinräumige Kalkinseln, die ihnen ein isoliertes Wachstum ermöglichen. Auch an den Rändern geschotterter Waldwege tauchen sie immer mal wieder auf. Für Pilzsammer ist sie eine leicht kenntliche Art, die sich gut zum Trocknen eignet und ein hervorragendes Würzpulver abgibt. Der Zweitname Totentrompete soll keine Gefahr andeuten. Er bezieht sich auf den Totensonntag im Spätherbst und damit auf die spätere Hälfte seiner Erscheinungszeit. Verwechseln könnte man ihn allenfalls mit dem Grauen Leistling, der ebenfalls essbar ist. 
+
+[Mehr lesen >](https://fundkorb.de/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ramaria_stricta_01_xx.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,7 +50,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 27.08.2021 ist der *Rotschuppige Rauf
 {% include abbildung_ende.html %}
 
 26.08.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") heißt [Paecilomyces crassipes](/pilze/paecilomyces-crassipes), ein deutscher Name ist nicht bekannt. Er zeigt sich als violettbraune ovale Flecken mit heller Mitte auf Blättern der Spätblühenden Traubenkirsche, gehört zu den Rostpilzen und der Befall kann zum vorzeitigen Abwurf der geschädigten Blätter führen. Das muss uns nicht traurig stimmen, denn alles, was dieser strauch- bis baumartigen Pflanze schadet, kann dem Wohle unserer Wälder dienen. Prunus serotina ist nämlich eine aus Nordamerika stammende invasive Art, die sich raumgreifend in unseren Wäldern ausbreitet. Wo sie erscheint, verdrängt sie gnadenlos unsere einheimische Flora. Leider ist der Rostpilz nicht in der Lage, diese aggressive Invasion mit seiner doch recht harmlosen Attacke auf die Blätter zu bremsen.
-
 
 - - -
 
