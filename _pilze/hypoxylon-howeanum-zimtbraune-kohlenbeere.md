@@ -16,7 +16,7 @@ Kohlenbeeren gehören zu den Kernpilzen; das sind [perithezienbildende](Perithez
 
 **Hypoxylon howeanum** = Zimtbraune Kohlenbeere: Sporenmaße 7 - 7,5  x  3 - 4,5 µm, Substrat Eiche\
 **[Hypoxylon fragiforme](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)** =	Rötliche Kohlenbeere: Sporenmaße 10,5 - 13,5  x  5 - 6 µm, Substrat Buche\
-**Hypoxylon fuscum** = Rotbraune Kohlenbeere: Sporenmaße 12 - 13  x   5 -6	µm, Substrat Hasel, Erle
+**[Hypoxylon fuscum](/pilze/hypoxylon-fuscum-rotbraune-kohlenbeere)** = Rotbraune Kohlenbeere: Sporenmaße 12 - 13  x   5 -6	µm, Substrat Hasel, Erle
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/hypoxylon_howeanum_02_xx.jpg" nocrop=true %}
