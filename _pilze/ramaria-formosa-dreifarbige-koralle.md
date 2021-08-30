@@ -27,3 +27,5 @@ Die Frischpilzfarben junger und alter Exemplare sind zur Bestimmung der Ramarien
 Diese prächtige Art geht eine [Mykorrhiza](Mykorrhiza "Glossar") mit Rotbuchen und Eichen ein und liebt wärmebegünstigte Kalklaubwälder.
 
 Zur Ernährungsweise der Ramaria-Arten ist zu sagen, dass die großen, schönfarbigen Arten Mykorrhizapilze sind, während sich der Rest in Holzzersetzer (z.B. die Steife Koralle *Ramaria stricta*) und Streuzersetzer (z.B. die Grünfleckige Koralle *Ramaria abietina*) aufteilt. In diesem Zusammenhang ist die Systematik der Gattung *Ramaria* z.Zt. im Umbruch begriffen.
+
+Bei der Bestimmung von Ramaria-Arten ist zu beachten, dass es sich um eine schwierige Gattung handelt. Ohne mikroskopische Untersuchungen und Beiziehung spezieller Fachliteratur geht da nur wenig.  Nur sehr wenige Arten sind makroskopisch zweifelsfrei zu erkennen.
