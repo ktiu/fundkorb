@@ -20,4 +20,4 @@ Als „Pilzspinnen“ werden diese merkwürdigen Gebilde bezeichnet, die man hä
 {% include bild.html datei="/bilder/isaria_umbrina_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Bei Isaria umbrina handelt es sich um verzweigte [Hyphenbüschel](Hyphen "Glossar") , die sich strahlenförmig nach allen Seiten ausbreiten. Die Konidien (asexuelle Sporen) schnüren sich dabei direkt von den Hyphen ab. Besonders häufig scheint sie in Verbindung mit der Zimtbraunen Kohlenbeere Hypoxylon howeianum vorzukommen.
+Bei Isaria umbrina handelt es sich um verzweigte [Hyphenbüschel](Hyphen "Glossar") , die sich strahlenförmig nach allen Seiten ausbreiten. Die Konidien (asexuelle Sporen) schnüren sich dabei direkt von den Hyphen ab. Besonders häufig scheint sie in Verbindung mit der [Zimtbraunen Kohlenbeere Hypoxylon howeianum](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere) vorzukommen.
