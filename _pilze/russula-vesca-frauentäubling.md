@@ -34,6 +34,10 @@ Die Huthaut ist etwa zur Hälfte abziehbar. Die Farben werden mit fleisch- bis r
 
 Ebenfalls nussig und mild ist das Fleisch des [Harten Zinnobertäublings](/pilze/russula-rosea-harter-zinnobertäubling) (*Russula rosea*), der zubereitet jedoch eine im wahrsten Sinne des Wortes bittere Enttäuschung ist. Seine Lamellen verfärben sich durch ausfallendes Sporenpulver gelblich, die Huthaut ist nicht oder nur ganz am Rand abziehbar und der gesamte Fruchtkörper fühlt sich hammerhart an.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_vesca_08_dg.jpg" %}
+{% include abbildung_ende.html legende="Nicht leicht zuerkennen: Speisetäublinge mit dehr hellen Hutfarben" %}
+
 Ein wichtiges Merkmal bei den Täublingen ist die Sporenpulverfarbe. Beim Speisetäubling ist sie weiß und daher kann das bei Reife abgegebene Sporenpulver die von Natur aus weißen Lamellen auch im Alter nicht verfärben. Sie bleiben weiß.
 
 {% include abbildung_start.html stil="standard" %}
@@ -63,3 +67,10 @@ Die allermeisten der rund 150 mitteleuropäischen Täublingsarten sind schwer zu
     </tr>
   </table>
 </div>
+
+
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_vesca_09_dg.jpg" gross=true %}
+{% include bild.html datei="/bilder/russula_vesca_10_fk.jpeg" gross=true %}
+{% include abbildung_ende.html legende="Rosafärbung durch KOH in der Huthaut -- spitzes Haar in der Huthaut (Mikrofoto: Frank Kaster)" %}
