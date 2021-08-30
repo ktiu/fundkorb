@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-28:08:2021 [Ramaria stricta - Steife Koralle](/pilze/ramaria-stricta-steife-koralle)  
+30.08.2021 [Craterellus cornucopioides - Herbsttrompete, Totentrompete](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)  
+28:08:2021 [Ramaria stricta - Steife Koralle](/pilze/ramaria-stricta-steife-koralle)\
 27.08.2021 [Cortinarius bolaris - Rotschuppiger Raukopf](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)\
 26.08.2021 [Paecilomyces crassipes](/pilze/paecilomyces-crassipes)\
 25.08.2021 [Amanita fulva - Rotbrauner (Fuchsiger) Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)\
