@@ -25,4 +25,4 @@ In der Roten Liste der gefährdeten Pilzarten Deutschlands (2017) wird die Rotbr
 {% include bild.html datei="/bilder/ramaria_rubella_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-Verwechslungsmöglichkeiten mit anderen Korallenpilzarten dürften kaum bestehen.
+Verwechslungsmöglichkeiten mit anderen Korallenpilzarten dürften kaum bestehen. Dennoch ist zu beachten: es handelt sich um eine sehr schwierige Gattung. Ohne mikroskopische Untersuchungen und Beiziehung spezieller Fachliteratur geht da nur wenig.  Nur sehr wenige Arten sind makroskopisch zweifelsfrei zu erkennen.
