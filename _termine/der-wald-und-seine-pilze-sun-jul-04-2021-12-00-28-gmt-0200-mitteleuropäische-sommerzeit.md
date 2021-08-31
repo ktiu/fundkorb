@@ -8,4 +8,4 @@ Ein Wald ist mehr als nur eine großflächige Ansammlung von Bäumen. Er ist ein
 
 Wir werden in einer kleinen Gruppen (maximal ca. 12 Teilnehmer) unterwegs sein. Die Teilnahmegebühr beträgt 10 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung mitgeteilt.
 
-Dieser Termin ist ausgebucht. Anmeldungen nicht mehr möglich.
+**Dieser Termin ist ausgebucht. Anmeldungen nicht mehr möglich.**
