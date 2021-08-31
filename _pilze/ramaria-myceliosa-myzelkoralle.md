@@ -25,10 +25,10 @@ Die [Rhizomorphen](Rhizomorphen "Glossar") (Rh) der Myzelkoralle sind, wie der N
 {% include bild.html datei="/bilder/ramaria_myceliosa_03_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-Die Sporen sind sehr klein, elliptisch, vielfach arttypisch zylindrisch, sehr fein stachelig, meist 4,5 x 2 µm, 5 x 2,5 µm oder 4 x 2,5 µm groß. Die Rhizomorphentrama ist monomitisch mit deutlichen Schnallen (S) an den [Septen](Septen "Glossar") der generativen [Hyphen](Hyphen "Glossar"). Zwischen den Hyphen findet man viele sternförmige Kristalle (Kr), die in polarisiertem Licht hell leuchtend in Erscheinung treten:
+Die Sporen sind sehr klein, elliptisch, vielfach arttypisch zylindrisch, sehr fein stachelig, meist 4,5 x 2 µm, 5 x 2,5 µm oder 4 x 2,5 µm groß. Die Rhizomorphentrama ist [monomitisch](monomitisch "Glossar") mit deutlichen Schnallen (S) an den [Septen](Septen "Glossar") der generativen [Hyphen](Hyphen "Glossar"). Zwischen den Hyphen findet man viele sternförmige Kristalle (Kr), die in polarisiertem Licht hell leuchtend in Erscheinung treten:
 
 Die Myzelkoralle wird in der Roten Liste der gefährdeten Pilze Deutschlands in der Kategotie G (Gefährdung unbekannten Ausmaßes) geführt.
 
 Verwechslungsmöglichkeiten:\
-Es gibt etliche Ramaria-Arten in ähnlicher Größe und Färbung, die sich vor allem in den mikroskopischen Merkmalen von der Myzelkoralle unterscheiden.  
+Es gibt etliche Ramaria-Arten in ähnlicher Größe und Färbung, die sich vor allem in den mikroskopischen Merkmalen von der Myzelkoralle unterscheiden.\
 Bei der Bestimmung von Ramaria-Arten ist zu beachten, dass es sich um eine schwierige Gattung handelt. Ohne mikroskopische Untersuchungen und Beiziehung spezieller Fachliteratur geht da nur wenig.  Nur sehr wenige Arten sind makroskopisch zweifelsfrei zu erkennen.
