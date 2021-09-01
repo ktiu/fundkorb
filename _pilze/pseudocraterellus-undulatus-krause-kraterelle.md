@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Pseudocraterellus undulatus
   deutsch: Krause Kraterelle
   referenz: (Pers.) Rauschert 1987
-  familie: "Meruliaceae  (zuvor: Cantharellaceae)"
+  familie: Cantharellaceae
   synonym: "Synonym: Pseudocraterellus sinuosus"
   erlaeuterung: undulatus = klein gewellt
 profil:
