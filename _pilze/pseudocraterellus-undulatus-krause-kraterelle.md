@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: Pseudocraterellus undulatus
+  wissenschaftlich: Craterellus undulatus
   deutsch: Krause Kraterelle
   referenz: (Pers.) Rauschert 1987
   familie: Cantharellaceae
