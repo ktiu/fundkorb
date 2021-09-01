@@ -20,3 +20,5 @@ Dieser Schleimpilz, der aussieht wie ein poröses schwarzes Kissen, aber auch vi
 Das Sporenpulver ist ocker bis olivbraun, die runden Sporen messen 6 - 8 µm und sind dicht fein warzig ornamentiert. 
 
 Lindbladia tubulina ist offenbar nicht gerade häufig, aber sicher nicht so selten wie die Verbreitungskarte der DGfM den Anschein erweckt. In Hessen (Null Fundpunkte!) ist er bereits von Norbert Kühnberger gefunden und fotografiert worden, lange bevor ich ihm zum ersten Mal und danach noch einige Male begegnet bin. Er ist die einzige Art in einer monotypischen Schleimpilzgattung. Sie wurde nach dem schwedischen Biologen Matts Adolf Lindblad (1821 - 1899) benannt. Übrigens: hübscher Name für einen Biologen: Lindblad = Lindenblatt.
+
+Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
