@@ -15,12 +15,25 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_vaginata_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Graue Scheidenstreifling Amanita vaginata. Er gleicht in seiner Gestalt nahezu 100%-ig dem sehr viel häufigeren Rotbraunen Scheidenstreifling, hat aber einen grauen Hut. Der Name Scheidenstreifling ist eine Kurzbeschreibung der zu den Wulstlingen gehörigen Sektion Amanitopsis: Scheide = sackartige Reste der häutigen Gesamthülle, die den ganz jungen Pilz komplett umhüllt + Streifen = kammartige Riefung des Hutrandes. Im Gegensatz zu den übrigen Wulstlingen haben sie keinen Stielring. Alle Scheidenstreiflinge sind ungiftig, aber wegen ihres muffigen Geschmacks für die Küche nicht zu empfehlen. 
+
+[Mehr lesen >](/pilze/amanita-vaginata-grauer-scheidenstreifling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/craterellus-cornucopioides_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Aktueller [Fundkorbpilz](AA "Glossar-") am 30.08.2021 ist die *[Herbsttromete Craterellus cornucopioides](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)*. Weil sie auf kalkhaltige Böden angewiesen ist, wird man sie z. B. in der Rhein-Main-Ebene nur selten finden. Aber auch hier gibt es kleinräumige Kalkinseln, die ihnen ein isoliertes Wachstum ermöglichen. Auch an den Rändern geschotterter Waldwege tauchen sie immer mal wieder auf. Für Pilzsammer ist sie eine leicht kenntliche Art, die sich gut zum Trocknen eignet und ein hervorragendes Würzpulver abgibt. Der Zweitname Totentrompete soll keine Gefahr andeuten. Er bezieht sich auf den Totensonntag im Spätherbst und damit auf die spätere Hälfte seiner Erscheinungszeit. Verwechseln könnte man ihn allenfalls mit dem Grauen Leistling, der ebenfalls essbar ist. 
 
 [Mehr lesen >](https://fundkorb.de/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
+
 <div style="clear:  both"></div>
 
 - - -
@@ -32,24 +45,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 30.08.2021 ist die *[Herbsttromete Cr
 28.08.2021: Heute begeben wir uns in eine artenreiche und schwierige Gattung, in der ohne Mikroskop nur sehr wenig geht. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-") Ramaria stricta, die Steife Koralle. Immerhin gehört sie zu den etwas häufigen Arten, so dass man sie hin und wieder zu Gesicht bekommt. Sie wächst an am Boden liegenden oder vergrabenen Ästen und Zweigen und wo dies der Fall ist, meist gleich zu mehreren. Nach heutiger Auffassung gibt es keine essbaren Arten unter ihnen, einige sind giftig, fast alle wegen Seltenheit geschützt. Auf jeden Fall erfreuen sie das Auge aller, die sich einen Sinn für die Schönheit der Natur bewahrt haben. Auch die Steife Koralle ist mit ihren eleganten vielfach verzweigten Fruchtkörpern  eine attraktive Gestalt. Eines ihrer Merkmale sind die gelblichen Spitzen der schlanken Verästelungen, aber das alleine reicht nicht aus, um sie sicher zu bestimmen. 
 
 [Mehr lesen >](/pilze/ramaria-stricta-steife-koralle) 
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/cortinarius_bolaris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 27.08.2021 ist der *Rotschuppige Raufuß Cortinarius bolaris*. Er gehört zu den Haarschleierlingen, mit über 500 mitteleuropäischen Arten einer der artenreichsten und schwierigsten Gattungen im Reich der Pilze. Das wichtigste gemeinsame Merkmal der Cortinarien ist der *Cortina* genannte Haarschleier zwischen Hutrand und Stiel, der allerdings nur bei jungen Fruchtkörpern zu sehen ist. Den Rotschuppigen Raufuß erkennt man an seiner rötlichen schuppigen Hutbekleidung. Unter den Haarschleierlingen gibt es nur sehr wenige essbare Arten, aber etliche tödlich giftige. Unser hier vorgestellter Pilz gehört weder zu den essbaren noch zu den tödlich giftigen.
-
-[Mehr lesen >](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/paecilomyces_crassipes_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.08.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") heißt [Paecilomyces crassipes](/pilze/paecilomyces-crassipes), ein deutscher Name ist nicht bekannt. Er zeigt sich als violettbraune ovale Flecken mit heller Mitte auf Blättern der Spätblühenden Traubenkirsche, gehört zu den Rostpilzen und der Befall kann zum vorzeitigen Abwurf der geschädigten Blätter führen. Das muss uns nicht traurig stimmen, denn alles, was dieser strauch- bis baumartigen Pflanze schadet, kann dem Wohle unserer Wälder dienen. Prunus serotina ist nämlich eine aus Nordamerika stammende invasive Art, die sich raumgreifend in unseren Wäldern ausbreitet. Wo sie erscheint, verdrängt sie gnadenlos unsere einheimische Flora. Leider ist der Rostpilz nicht in der Lage, diese aggressive Invasion mit seiner doch recht harmlosen Attacke auf die Blätter zu bremsen.
 
 - - -
 
