@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-30.08.2021 [Craterellus cornucopioides - Herbsttrompete, Totentrompete](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)  
+01.09.2021 [Amanita vaginata - Grauer Scheidenstreifling](/pilze/amanita-vaginata-grauer-scheidenstreifling)
+
+30.08.2021 [Craterellus cornucopioides - Herbsttrompete, Totentrompete](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)\
 28:08:2021 [Ramaria stricta - Steife Koralle](/pilze/ramaria-stricta-steife-koralle)\
 27.08.2021 [Cortinarius bolaris - Rotschuppiger Raukopf](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)\
 26.08.2021 [Paecilomyces crassipes](/pilze/paecilomyces-crassipes)\
@@ -37,7 +39,6 @@ published: true
 09.07.2021 [Lactarius circellatuns - Gebänderter Hainbuchenmilchling](/lactarius-circellatus-gebänderter-hainbuchenmilchling)\
 08.07.2021 [Boletus luridus - Netzstieliger Hexenröhrling](/pilze/boletus-luridus-netzstieliger-hexenröhrling)\
 05.07.2021 [Trichaptum abietinum - Violetter Lederporling](/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)\
-04.07.2021 [Amanita fulva - Rotbrauner (Fuchsiger) Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)\
 01.07.2021 [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)
 
 30.06.2021 [Xerocomus subtomentosus - Ziegenlippe](/pilze/xerocomus-subtomentosus-ziegenlippe)\
