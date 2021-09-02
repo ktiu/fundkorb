@@ -30,6 +30,6 @@ Beim Braunfleckenden Milchling handelt es sich um eine Art mittlerer Größe mit
 Der Braunfleckende Milchling scheint basenreiche Böden zu bevorzugen. Über Buntsandstein findet man ihn nur längs der Waldwege. Als Mykorrhizapartner kommt neben der Rotbuche möglicherweise noch die Hainbuche in Betracht.
 
 **Verwechslungsmöglichkeiten:**\
-Aufgrund der variablen Hutfarbe ist die Art mit einer Vielzahl an Milchlingsarten zu verwechseln. Am ähnlichsten ist der *Graugrüne Milchling Lactarius blennius*. Dieser ist meist deutlicher grün gefärbt, stärker konzentrisch gezont und viel klebriger, der Hutrand ist nicht aufgehellt. Im jungen Zustand besitzt er reinweiße Lamellen und nimmt mit weniger basenreichen Böden vorlieb. Er gehört in ganz Mitteleuropa zu den häufigsten Milchlingsarten.
+Aufgrund der variablen Hutfarbe ist die Art mit einer Vielzahl an Milchlingsarten zu verwechseln. Am ähnlichsten ist der *[Graugrüne Milchling Lactarius blennius](/pilze/lactarius-blennius-graugrüner-milchling)*. Dieser ist meist deutlicher grün gefärbt, stärker konzentrisch gezont und viel klebriger, der Hutrand ist nicht aufgehellt. Im jungen Zustand besitzt er reinweiße Lamellen und nimmt mit weniger basenreichen Böden vorlieb. Er gehört in ganz Mitteleuropa zu den häufigsten Milchlingsarten.
 
 In "Die Großpilze Baden-Württembergs" (Krieglsteiner 2000) wird Lactarius fluens als Varietät zu L. blennius gestellt.
