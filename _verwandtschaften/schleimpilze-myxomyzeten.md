@@ -6,9 +6,9 @@ hauptbild:
   datei: /bilder/physarum_cinereum_08_dg.jpg
 aktualisiert: 2021-07-30
 ---
-Schleimpilze sind keine Pilze sondern Organismen, die Eigenschaften von Tieren und Pilzen in sich vereinen. In ihrem ersten Lebensstadium entstehen aus keimenden Sporen winzige amöbenartige Tiere, die nur einen Zellkern besitzen und sich nach sexueller Paarung zu vielzelligen Lebewesen entwickeln, die sich kriechend fortbewegen und fressen. In diesem Stadium, *Plasmodium* genannt, erreichen sie beachtliche Größen mit Millionen von Zellkernen und sind zu erstaunlichen Leistungen fähig. In Experimenten haben sie bewiesen, dass sie sogar in einem Labyrinth (sie können ja nicht über die Wände schauen!) auf direktem Weg die angebotene Nahrung finden. Sie ernähren sich von organischem Material (Pilzsporen, Bakterien, Pflanzenreste, winzige Lebewesen), das sie mit ihrem Schleimkörper umfließen und verdauen.
+Schleimpilze sind keine Pilze sondern Organismen, die Eigenschaften von Tieren und Pilzen in sich vereinen. In ihrem ersten Lebensstadium entstehen aus keimenden Sporen winzige amöbenartige Tiere, die nur einen Zellkern besitzen und sich nach sexueller Paarung zu vielzelligen Lebewesen entwickeln, die sich kriechend fortbewegen und fressen. In diesem Stadium, *[Plasmodium](Plasmodium "Glossar")* genannt, erreichen sie beachtliche Größen mit Millionen von Zellkernen und sind zu erstaunlichen Leistungen fähig. In Experimenten haben sie bewiesen, dass sie sogar in einem Labyrinth (sie können ja nicht über die Wände schauen!) auf direktem Weg die angebotene Nahrung finden. Sie ernähren sich von organischem Material (Pilzsporen, Bakterien, Pflanzenreste, winzige Lebewesen), das sie mit ihrem Schleimkörper umfließen und verdauen.
 
-Im dritten Lebenszyklus verwandeln sie sich in sogenannte *"Fruktifikationen"* und produzieren Unmengen von Sporen, mit denen sie den Fortbestand ihrer Art sichern. Das Aussehen dieser Fruktifikationen ist sehr vielgestaltig und ändert sich im Laufe der Entwicklung bis zum reifen Fruchtkörper (*Sporokarp*) oft mehrfach. In diesem Stadium sind sie anhand morphologischer Kennzeichen als unterschiedliche Arten erkennbar. Manche lassen sich bereits optisch leicht bestimmen, andere nur mit ausreichend vergrößernder Lupe, in den meisten Fällen müssen auch mikroskopische Merkmale beachtet werden.
+Im dritten Lebenszyklus verwandeln sie sich in sogenannte *[Fruktifikationen](Fruktifikation "Glossar")* und produzieren Unmengen von Sporen, mit denen sie den Fortbestand ihrer Art sichern. Das Aussehen dieser Fruktifikationen ist sehr vielgestaltig und ändert sich im Laufe der Entwicklung bis zum reifen Fruchtkörper (*Sporokarp*) oft mehrfach. In diesem Stadium sind sie anhand [morphologischer]<Morphologie "Glossar") Kennzeichen als unterschiedliche Arten erkennbar. Manche lassen sich bereits optisch leicht bestimmen, andere nur mit ausreichend vergrößernder Lupe, in den meisten Fällen müssen auch mikroskopische Merkmale beachtet werden.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/fuligo_septica_04_aa.jpg" nocrop=true %}
@@ -42,7 +42,7 @@ Bisher 13 Schleimpilzarten aus 8 Gattungen (4 Familien) im Fundkorb. Weitere wer
 [Diachaea leucopodia (Didymiaceae) - Buckingham-Schleimpilz](/pilze/diachaea-leucopodia-buckingham-schleimpilz)\
 [Fuligo muscorum (Physaridae) - Moos-Lohblüte](/pilze/fuligo-muscorum-moos-lohblüte)\
 [Fuligo septica (Physaridae) - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
-[Lindbladia tubulina - Röhriger Schleimpilz](/pilze/lindbladia-tubulina-röhriger-schleimpilz)  
+[Lindbladia tubulina - Röhriger Schleimpilz](/pilze/lindbladia-tubulina-röhriger-schleimpilz)\
 [Lycogala epidendrum (Enteridiaceae) - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 [Physarum cinereum (Physaridae) - Grauer Gras-Schleimpilz](/pilze/physarum-cinereum-grauer-gras-schleimpilz)\
 [Physarum utriculare (Physaridae) - Fadenfrucht-Schleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
