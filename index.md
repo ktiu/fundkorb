@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cortinarius_purpureus_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein seltener Haarschleierling, der durch seine roten Farben auffällt. Er heißt *Purpurroter Hautkopf (Cortinarius purpureus)* und wurde im Ansfeldwald zwischen Dietzenbach und Rodgau gefunden. Besonders beeindruckend sind die blutrot gefärbten Lamellen. Da es in der Untergattung Dermocybe mehrere ähnliche Arten gibt, ist die Bestimmung nicht ganz einfach. In diesem Fall spielen die zweifarbigen Stiele eine wichtige Rolle. Die Farbpigmente der roten Hautköpfe lassen sich zum Färben von Wolle verwenden, wobei je nach Art verschiedene Rottöne entstehen. Sie lassen sich auch mit Alkohol lösen und auf einem Papiertaschentuch sichtbar machen. Für die Küche ist unser Pilz nicht geeignet. Er ist magen-/darmgiftig. 
+
+[Mehr lesen >](/pilze/cortinarius-purpureus-purpurroter-hautkopf)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_vaginata_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
