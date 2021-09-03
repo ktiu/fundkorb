@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
+03.09.2021 [Cortinarius purpureus - Purpurroter Hautkopf](/pilze/cortinarius-purpureus-purpurroter-hautkopf)  
 01.09.2021 [Amanita vaginata - Grauer Scheidenstreifling](/pilze/amanita-vaginata-grauer-scheidenstreifling)
 
 30.08.2021 [Craterellus cornucopioides - Herbsttrompete, Totentrompete](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)\
