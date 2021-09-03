@@ -25,3 +25,22 @@ Im Gegensatz zu dem etwas ähnlichen, in allen besseren Pilzführern abgebildete
 Während im Ansfeld-Wald die Population noch stabil zu sein scheint, ist diese Art im Kronberger Edelkastanienhain (Taunus, TK 5816), wo sie in den 1970er Jahren noch zerstreut vorkam, seit Anfang der 1990er Jahre Jahre verschollen.
 
 Nachtrag von Dieter Gewalt: Der Standort im Ansfeld blieb noch jahrelang erhalten. In meinen Notizen fand ich noch 2011 entsprechende Fundmeldungen und es blieb nicht bei dem einen. Etwa 50 Meter entfernt hatte sich der Pilz ebenfalls angesiedelt. Außerdem konnte er im Gebiet um Hitzberg und Dachsberg bei Darmstadt, im Steinberger Wald bei Dietzenbach, im Hainbachtal und an der Gänsbrüh bei Rodgau-Dudenhofen sicher nachgewiesen werden.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/cortinarius_vibratilis_03_cw.jpg" %}
+{% include abbildung_ende.html legende="Christian Weinkötz hat ihn am 22. August 2012 im Ansfeldwald fotografiert" %}
+
+Weitere im Ansfeldwald nachgewiesene Haarschleierlinge:\
+Cortinarius alboviolaceus - Weißvioletter Dickfuß\
+Cortinarius anomalus - Braunvioletter Dickfuß\
+Cortinarius armillatus - Geschmückter Gürtelfuß\
+[Cortinarius bolaris - Rotschuppiger Raukopf](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)\
+[Cortinarius caperatus - Zigeuner, Reifpilz](/pilze/cortinarius-caperatus-reifpilz-zigeuner)\
+Cortinarius croceus - Zimt-Hautkopf\
+Cortinarius delibutus - Blaublättriger Schleimfuß\
+Cortinarius hemitrichus - Weißflockigr Gürtelfuß\
+[Cortinarius impennis - Weißviolett-gestielter Gürtelfuß](/pilze/cortinarius-impennis-weißviolett-gestielter-gürtelfuß)\
+[Cortinarius mucosus - Heide-Schleimfuß](/pilze/cortinarius-mucosus-heide-schleimfuß)\
+Cortinarius paleaceus - Duftender Gürtelfuß  
+Cortinarius semisanguineus - Blutblättriger Raukopf  
+Cortinarius torvus - Wohlriechender Gürtelfuß
