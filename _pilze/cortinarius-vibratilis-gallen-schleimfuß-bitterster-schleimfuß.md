@@ -30,7 +30,8 @@ Nachtrag von Dieter Gewalt: Der Standort im Ansfeld blieb noch jahrelang erhalte
 {% include bild.html datei="/bilder/cortinarius_vibratilis_03_cw.jpg" %}
 {% include abbildung_ende.html legende="Christian Weinkötz hat ihn am 22. August 2012 im Ansfeldwald fotografiert" %}
 
-Weitere im Ansfeldwald nachgewiesene Haarschleierlinge:\
+##### Weitere im Ansfeldwald nachgewiesene Haarschleierlinge:
+
 Cortinarius alboviolaceus - Weißvioletter Dickfuß\
 Cortinarius anomalus - Braunvioletter Dickfuß\
 Cortinarius armillatus - Geschmückter Gürtelfuß\
@@ -41,6 +42,6 @@ Cortinarius delibutus - Blaublättriger Schleimfuß\
 Cortinarius hemitrichus - Weißflockigr Gürtelfuß\
 [Cortinarius impennis - Weißviolett-gestielter Gürtelfuß](/pilze/cortinarius-impennis-weißviolett-gestielter-gürtelfuß)\
 [Cortinarius mucosus - Heide-Schleimfuß](/pilze/cortinarius-mucosus-heide-schleimfuß)\
-Cortinarius paleaceus - Duftender Gürtelfuß  
-Cortinarius semisanguineus - Blutblättriger Raukopf  
+Cortinarius paleaceus - Duftender Gürtelfuß\
+Cortinarius semisanguineus - Blutblättriger Raukopf\
 Cortinarius torvus - Wohlriechender Gürtelfuß
