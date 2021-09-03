@@ -16,7 +16,7 @@ literatur:
       Northern Europe, Vol. 2.: 44-47"
   - url: http://tintling.com/pilzbuch/arten/l/Lactarius_blennius.html
 ---
-Der Graugrüne Milchling gehört zu den häufigsten Milchlingsarten überhaupt und dürfte in kaum einem Buchenwald fehlen. Die Hüte werden bis etwa 7 cm breit und sind von graugrüner Farbe. Dabei können sowohl graue als auch grüne Farbtöne vorherrschen. Bei feuchter Witterung ist die Huthaut schmierig und glänzend, bei Trockenheit matt. Wichtiges Kennzeichen sind die konzentrisch angeordneteten dunkleren Flecken, die jedoch auch fehlen können. Die dichtstehenden Lamellen sind weißlich, im Alter oder auf Druck bräunlich verfärbend, oft gegabelt und mit kürzeren untermischt. Die Stiele sind meist deutlich heller gefärbt als der Hut.
+Der Graugrüne Milchling gehört zu den häufigsten Milchlingsarten überhaupt und dürfte in kaum einem Buchenwald fehlen. Die Hüte werden bis etwa 7 cm breit und sind von graugrüner Farbe. Dabei können sowohl graue als auch grüne Farbtöne vorherrschen. Bei feuchter Witterung ist die Huthaut schmierig und glänzend, bei Trockenheit matt. Mit KOH färbt sie sich gelblich. Wichtiges Kennzeichen sind die konzentrisch angeordneteten dunkleren Flecken, die jedoch auch fehlen können. Die dichtstehenden Lamellen sind weißlich, im Alter oder auf Druck bräunlich verfärbend, oft gegabelt und mit kürzeren untermischt. Die Stiele sind meist deutlich heller gefärbt als der Hut.
 
 Wie bei allen Milchlingen kommt dem bei Verletzung austretenden Milchsaft besondere Beudeutung zu. Beim Graugrünen Milchling ist sie weiß und hinterlässt beim Trocknen graugrüne Flecken auf den Lamellen. Zuerst ist sie mild, wird nach einigen Sekunden aber brennend scharf. Damit ist sie spürbar schärfer als das Fleisch.
 
