@@ -15,24 +15,24 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cortinarius_purpureus_04_dg.jpg" %}
+{% include bild.html datei="/bilder/cortinarius_vibratilis_03_cw.jpg" %}
 {% include abbildung_ende.html %}
 
-03.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein seltener Haarschleierling, der durch seine roten Farben auffällt. Er heißt *Purpurroter Hautkopf (Cortinarius purpureus)* und wurde im Ansfeldwald zwischen Dietzenbach und Rodgau gefunden. Besonders beeindruckend sind die blutrot gefärbten Lamellen. Da es in der Untergattung Dermocybe mehrere ähnliche Arten gibt, ist die Bestimmung nicht ganz einfach. In diesem Fall spielen die zweifarbigen Stiele eine wichtige Rolle. Die Farbpigmente der roten Hautköpfe lassen sich zum Färben von Wolle verwenden, wobei je nach Art verschiedene Rottöne entstehen. Sie lassen sich auch mit Alkohol lösen und auf einem Papiertaschentuch sichtbar machen. Für die Küche ist unser Pilz nicht geeignet. Er ist magen-/darmgiftig. 
+04.09.2021 Ein weiterer Schleierling, der zur Zeit im Ansfeldwald wächst, ist der heutige [Fundkorbpilz](AA "Glossar-") *Cortinarius vibratilis*. Sein deutscher Name: Bitterster Schleimkopf. Alles Wissenswerte über seine Bitterkeit erfährt man am besten, wenn man die Gesichter von Leuten betrachtet, die gerade eine Kostprobe von ihm machen. Man braucht sie nicht einmal daran zu erinnern, dass Kostproben von rohen Pilzen grundsätzlich auszuspucken sind. Er wird übrigens auch Gallen-Schleimfuß genannt, was uns an den Gallenröhrling denken lässt. Der hat im Vergleich zu unserem Schleimfuß fast schon einen liebenswürdigen Geschmack. Der seltene Cortinarius wurde erstmals am 10. August 2002 hier festgestellt und ist in der Zwischenzeit immer mal wieder erschienen, und das in einem ziemlich ausgedehnten Areal. 
 
-[Mehr lesen >](/pilze/cortinarius-purpureus-purpurroter-hautkopf)
+[Mehr lesen >](/pilze/cortinarius-vibratilis-gallen-schleimfuß-bitterster-schleimfuß)
 
 <div style="clear:  both"></div>
 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_vaginata_02_dg.jpg" %}
+{% include bild.html datei="/bilder/cortinarius_purpureus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-02.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Graue Scheidenstreifling Amanita vaginata. Er gleicht in seiner Gestalt nahezu 100%-ig dem sehr viel häufigeren Rotbraunen Scheidenstreifling, hat aber einen grauen Hut. Der Name Scheidenstreifling ist eine Kurzbeschreibung der zu den Wulstlingen gehörigen Sektion Amanitopsis: Scheide = sackartige Reste der häutigen Gesamthülle, die den ganz jungen Pilz komplett umhüllt + Streifen = kammartige Riefung des Hutrandes. Im Gegensatz zu den übrigen Wulstlingen haben sie keinen Stielring. Alle Scheidenstreiflinge sind ungiftig, aber wegen ihres muffigen Geschmacks für die Küche nicht zu empfehlen. 
+03.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein seltener Haarschleierling, der durch seine roten Farben auffällt. Er heißt *Purpurroter Hautkopf (Cortinarius purpureus)* und wurde im Ansfeldwald zwischen Dietzenbach und Rodgau gefunden. Besonders beeindruckend sind die blutrot gefärbten Lamellen. Da es in der Untergattung Dermocybe mehrere ähnliche Arten gibt, ist die Bestimmung nicht ganz einfach. In diesem Fall spielen die zweifarbigen Stiele eine wichtige Rolle. Die Farbpigmente der roten Hautköpfe lassen sich zum Färben von Wolle verwenden, wobei je nach Art verschiedene Rottöne entstehen. Sie lassen sich auch mit Alkohol lösen und auf einem Papiertaschentuch sichtbar machen. Für die Küche ist unser Pilz nicht geeignet. Er ist magen-/darmgiftig. 
 
-[Mehr lesen >](/pilze/amanita-vaginata-grauer-scheidenstreifling)
+[Mehr lesen >](/pilze/cortinarius-purpureus-purpurroter-hautkopf)
 
 <div style="clear:  both"></div>
 
@@ -47,16 +47,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 30.08.2021 ist die *[Herbsttromete Cr
 [Mehr lesen >](https://fundkorb.de/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ramaria_stricta_01_xx.jpg" %}
-{% include abbildung_ende.html %}
-
-28.08.2021: Heute begeben wir uns in eine artenreiche und schwierige Gattung, in der ohne Mikroskop nur sehr wenig geht. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-") Ramaria stricta, die Steife Koralle. Immerhin gehört sie zu den etwas häufigen Arten, so dass man sie hin und wieder zu Gesicht bekommt. Sie wächst an am Boden liegenden oder vergrabenen Ästen und Zweigen und wo dies der Fall ist, meist gleich zu mehreren. Nach heutiger Auffassung gibt es keine essbaren Arten unter ihnen, einige sind giftig, fast alle wegen Seltenheit geschützt. Auf jeden Fall erfreuen sie das Auge aller, die sich einen Sinn für die Schönheit der Natur bewahrt haben. Auch die Steife Koralle ist mit ihren eleganten vielfach verzweigten Fruchtkörpern  eine attraktive Gestalt. Eines ihrer Merkmale sind die gelblichen Spitzen der schlanken Verästelungen, aber das alleine reicht nicht aus, um sie sicher zu bestimmen. 
-
-[Mehr lesen >](/pilze/ramaria-stricta-steife-koralle) 
 
 - - -
 
