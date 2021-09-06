@@ -35,3 +35,8 @@ Der [Myzelfilz](Myzel "Glossar") breitet sich recht großflächig in Form weiße
 Recht interessant sind die Mikromerkmale der Rhizomorphen: Wir haben es mit einer recht komplexen, [dimitischen](dimitisch "Glossar") [Hyphenstruktur](Hyphen "Glossar") zu tun: zum einen mit dünnwandigen, generativen Hyphen mit Schnallen und ab und mit ampulliformen [Septenübergängen](Septen "Glossar"), zum anderen mit septenlosen [Skeletthyphen](Skeletthyphen "Glossar") und zum dritten mit dickwandigen, braunen, generativen Hyphen mit Schnallen und plattigen Auflagerungen.
 
 Bei der Bestimmung von Ramaria-Arten ist zu beachten, dass es sich um eine schwierige Gattung handelt. Ohne mikroskopische Untersuchungen und Beiziehung spezieller Fachliteratur geht da nur wenig.  Nur sehr wenige Arten sind makroskopisch zweifelsfrei zu erkennen.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/ramaria_stricta_07_dg.jpg" %}
+{% include bild.html datei="/bilder/ramaria_stricta_06_dg.jpg" %}
+{% include abbildung_ende.html legende="2 Fotos: Dieter Gewalt" %}
