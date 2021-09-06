@@ -24,12 +24,12 @@ Die oben abgebildete Kollektion stammt aus dem Carré an der Dietzenbacher Rodga
 <table class="table">
 <tr>
   <th>1</th>
-  <td>Fruchtkörper dickschalig, Peridie 2--3 (4) mm dick</td>
+  <td>Fruchtkörper dickschalig, Peridie 2–3 (4) mm dick</td>
   <th>S. citrinum</th>
 </tr>
 <tr>
   <th>1*</th>
-  <td>Fruchtkörper dünnschalig, Peridie 1--2 mm dick</td>
+  <td>Fruchtkörper dünnschalig, Peridie 1–2 mm dick</td>
   <th><i class="fas fa-arrow-right"></i> 2</th>
 </tr>
 <tr>
