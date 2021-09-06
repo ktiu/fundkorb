@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pleurotus_pulmonarius_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Lungenseitling *Pleurotus pulmonarius*. In der Form gleicht er dem allseits bekannten Austernseitling, mit dem er mitunter sogar den Wuchsort am gleichen Buchenstamm teilt - desöfteren schon im Frankfurter Stadtwald beobachtet. Die beiden sind, sofern sie in typischen Farben erscheinen, gut zu unterscheiden. Der Austernseitling ist grau, der Lungenseitling weißlich. Trifft man aber einen zu hell geratenen Austernseitling oder einen etwas zu dunkel geratenen Lungenseitling an, sind sie kaum noch auseinanderzuhalten. Pilze sind nun mal ziemlich oder auch sehr farbvariabel. Bei den beiden Seitlingen spielt das aus küchenmykologischer Sicht keine Rolle. Beide Seitlinge sind essbar und geschmacklich absolut gleichwertig. Eventuell könnten sie sogar mit dem Rillstieligen Seitling verwechselt werden. Wäre auch kein Beinbruch.
+
+[Mehr lesen >](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cortinarius_vibratilis_03_cw.jpg" %}
 {% include abbildung_ende.html %}
 
