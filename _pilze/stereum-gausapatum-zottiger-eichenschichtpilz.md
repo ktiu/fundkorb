@@ -90,7 +90,6 @@ Unter den drei rötenden Schichtpilzarten dürfte Stereum gausapatum die am weni
 <th>6*</th>
 <td>Hutoberfläche jung ockerbraun, gleichmäßig filzig, ohne Acanthozystiden </td>
 <th>S. subtomentosum</th>
-</tr><tr>
 </tr>
 </table>
 </div>
