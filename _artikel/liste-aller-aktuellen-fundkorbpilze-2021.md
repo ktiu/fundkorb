@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-04.09.2021 [Cortinarius vibratilis - Bitterster Schleimfuß](/pilze/cortinarius-vibratilis-gallen-schleimfuß-bitterster-schleimfuß)  
+06.09.2021 [Pleurotus pulmonarius - Lungenseitling](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)  
+04.09.2021 [Cortinarius vibratilis - Bitterster Schleimfuß](/pilze/cortinarius-vibratilis-gallen-schleimfuß-bitterster-schleimfuß)\
 03.09.2021 [Cortinarius purpureus - Purpurroter Hautkopf](/pilze/cortinarius-purpureus-purpurroter-hautkopf)\
 01.09.2021 [Amanita vaginata - Grauer Scheidenstreifling](/pilze/amanita-vaginata-grauer-scheidenstreifling)
 
