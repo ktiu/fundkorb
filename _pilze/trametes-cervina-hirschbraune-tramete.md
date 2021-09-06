@@ -17,6 +17,8 @@ literatur:
 ---
 Es handelt sich hier um eine offenbar sehr seltene Art, die auch in der Fachliteratur kaum einmal erwähnt wird. Begegenet bin ich dem beeindruckenden Vorkommen am 9. November 2019 im Hainbachtal bei Offenbach, wo auch die beigefügten Fotos entstanden sind. Ein liegender Baumstamm in der späten Initialphase der Vermorschung war ringsum und auch an den Stirnseiten mit einigen hundert Einzelfruchtkörpern der Hirschbraunen Tramete üppig bewachsen. Allein auf dem obigen Foto sind um die 50 zu sehen, das folgende zeigt, wie sie in dicht gedrängten Reihen und dachziegelartig übereinander einen großen Teil des Stamms umrahmten. Wenige hundert Meter entfernt wuchsen sie auch an einem Buchenstumpf.
 
+
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/trametes_cervina_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
