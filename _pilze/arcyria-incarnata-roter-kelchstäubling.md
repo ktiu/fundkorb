@@ -21,4 +21,8 @@ Auf dem Foto sind rechts oben die [Sporokarpien](Sporokarp "Glossar") des Roten 
 
 Arcyria incarnata bildet länglich ei- bis würstchenförmige Sporokarpien, die vor dem Aufplatzen etwa 2,5 mm lang sind, deren freigesetzter rosafarbener Inhalt aber eine netzig-filzige Struktur besitzt, wie auf beiden Fotos gut zu erkennen ist. Man findet die relativ häufige Art vom Frühjahr bis zum Spätherbst an totem Laub- und Nadelholz.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/arcyria_incarnata_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 Der Name "Kelchstäubling" ist insofern irreführend, als man unter Stäublingen normalerweise sehr viel größere kugelige Pilze versteht, die ihre Sporen im Inneren ihrer Fruchtkörper bilden und in Form von braunen Staubwolken freisetzen. Diese werden auch *Boviste* genannt. Hier haben wir es jedoch mit winzigen Schleimpilzen (*Myxomyzeten*) zu tun, von denen die meisten nur mit der Lupe richtig zu sehen sind. Wenn Sie mehr über diese faszinierenden Organismen erfahren möchten: hier geht´s zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller im Fundkorb gezeigten Myxomyzeten enthält.
