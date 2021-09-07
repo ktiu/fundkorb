@@ -29,3 +29,50 @@ Kartoffelboviste gehören zur Gruppe der Bauchpilze (Gasteromyzeten), die ihre S
 **Scleroderma cepa** Zwiebelförmiger Kartoffelbovist\
 **Scleroderma citrinum** Dickschaliger Kartoffelbovist\
 **Scleroderma verrucosum** Dünnschaliger Kartoffelbovist
+
+**Vereinfachter Bestimmungsschlüssel:**
+
+<div class="table-responsive">
+<table class="table">
+<tr>
+  <th>1</th>
+  <td>Fruchtkörper dickschalig, Peridie 2–3 (4) mm dick</td>
+  <th>S. citrinum</th>
+</tr>
+<tr>
+  <th>1*</th>
+  <td>Fruchtkörper dünnschalig, Peridie 1–2 mm dick</td>
+  <th><i class="fas fa-arrow-right"></i> 2</th>
+</tr>
+<tr>
+  <th>2</th>
+  <td>Scheinstiel gut ausgebildet, mit wurzelartigen Myzelsträngen</td>
+  <th><i class="fas fa-arrow-right"></i> 3</th>
+</tr>
+<tr>
+  <th>2*</th>
+  <td>Scheinstiel fehlend oder kurz</td>
+  <th><i class="fas fa-arrow-right"></i> 4</th>
+</tr>
+<tr>
+  <th>3</th>
+  <td>Scheinstiel bis 5 cm lang, Peridie schollig aufreißend</td>
+  <th>S. verrucosum</th>
+</tr>
+<tr>
+  <th>3*</th>
+  <td>Scheinstiel kürzer, Peridie kleinfelderig aufreißend</td>
+  <th>S. areolatum</th>
+</tr>
+<tr>
+  <th>4</th>
+  <td>Scheinstiel kurz oder fehlend, meist ohne wurzelartige Myzelstränge</td>
+  <th>S. bovista</th>
+</tr>
+<tr>
+  <th>4*</th>
+  <td>Scheinstiel fehlend, sehr seltene Art</td>
+  <th>S. cepa</th>
+</tr>
+</table>
+</div>
