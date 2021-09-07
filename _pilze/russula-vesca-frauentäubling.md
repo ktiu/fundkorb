@@ -68,9 +68,9 @@ Die allermeisten der rund 150 mitteleuropäischen Täublingsarten sind schwer zu
   </table>
 </div>
 
-
-
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_vesca_09_dg.jpg" gross=true %}
 {% include bild.html datei="/bilder/russula_vesca_10_fk.jpeg" gross=true %}
-{% include abbildung_ende.html legende="Rosafärbung durch KOH in der Huthaut -- spitzes Haar in der Huthaut (Mikrofoto: Frank Kaster)" %}
+{% include abbildung_ende.html legende="Rosafärbung durch KOH in der Huthaut -- spitzes Haar (Crin) in der Huthaut (Mikrofoto: Frank Kaster)" %}
+
+Ein wichtiges mikroskopische Merkmal sind sogenannte Crins (Haare) in der Huthaut.
