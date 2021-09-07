@@ -35,3 +35,7 @@ Der Grubige Schleimrübling erscheint ab Mai, wird aber erst ab ca. Juli häufig
 {% include abbildung_ende.html legende="aus: Michael, Hennig, Kreisel: Handbuch für Pilzfreunde 1981" %}
 
 Laut Index fungorum soll die Art heute *Hymenopellis radicata* heißen und in der Familie *Physalacriaceae* (zuvor *Tricholomataceae*) geführt werden.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/xerula_radicata_06_fk.jpg" gross=true %}
+{% include abbildung_ende.html legende="Da haben sich zwei gesucht und gefunden: Grubiger Schleimrübling und rechts daneben ein kleiner noch nicht aufgeschirmter Rädchentintling (Foto: Frank Kaster)" %}
