@@ -48,29 +48,7 @@ footer_scripts:
 
 <div style="clear:  both"></div>
 
-- - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cortinarius_purpureus_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein seltener Haarschleierling, der durch seine roten Farben auffällt. Er heißt *Purpurroter Hautkopf (Cortinarius purpureus)* und wurde im Ansfeldwald zwischen Dietzenbach und Rodgau gefunden. Besonders beeindruckend sind die blutrot gefärbten Lamellen. Da es in der Untergattung Dermocybe mehrere ähnliche Arten gibt, ist die Bestimmung nicht ganz einfach. In diesem Fall spielen die zweifarbigen Stiele eine wichtige Rolle. Die Farbpigmente der roten Hautköpfe lassen sich zum Färben von Wolle verwenden, wobei je nach Art verschiedene Rottöne entstehen. Sie lassen sich auch mit Alkohol lösen und auf einem Papiertaschentuch sichtbar machen. Für die Küche ist unser Pilz nicht geeignet. Er ist magen-/darmgiftig. 
-
-[Mehr lesen >](/pilze/cortinarius-purpureus-purpurroter-hautkopf)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/craterellus-cornucopioides_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 30.08.2021 ist die *[Herbsttromete Craterellus cornucopioides](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)*. Weil sie auf kalkhaltige Böden angewiesen ist, wird man sie z. B. in der Rhein-Main-Ebene nur selten finden. Aber auch hier gibt es kleinräumige Kalkinseln, die ihnen ein isoliertes Wachstum ermöglichen. Auch an den Rändern geschotterter Waldwege tauchen sie immer mal wieder auf. Für Pilzsammer ist sie eine leicht kenntliche Art, die sich gut zum Trocknen eignet und ein hervorragendes Würzpulver abgibt. Der Zweitname Totentrompete soll keine Gefahr andeuten. Er bezieht sich auf den Totensonntag im Spätherbst und damit auf die spätere Hälfte seiner Erscheinungszeit. Verwechseln könnte man ihn allenfalls mit dem Grauen Leistling, der ebenfalls essbar ist. 
-
-[Mehr lesen >](https://fundkorb.de/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
-
-<div style="clear:  both"></div>
 
 - - -
 
@@ -102,7 +80,9 @@ Begegnungen der besonderen Art: wer so etwas entdeckt, betrachtet sich ungläubi
 
 ### Dietzenbach und Pilze
 
-– das hat seit Jahren Tradition und dafür gibt es gute Gründe. Die Kreisstadt liegt mitten im größten zusammenhängenden Waldgebiet der Region und die Volkshochschule Dietzenbach bietet seit 20 Jahren regelmäßig Praktische Pilzseminare an. Die finden nicht etwa in einer Schule statt, sondern da, wo Pilze wachsen – im Wald. Bei fünf Exkursionen lernen die Teilnehmer die wichtigsten Speise- und Giftpilze an ihren natürlichen Wuchsorten kennen und erfahren Wissenswertes zum Thema. Das nächste Seminar wird voraussichtlich im 2. Halbjahr 2021 angeboten.
+– das hat seit Jahren Tradition und dafür gibt es gute Gründe. Die Kreisstadt liegt mitten im größten zusammenhängenden Waldgebiet der Region und wir bieten in Kooperation mit der Volkshochschule Dietzenbach seit mehr als 20 Jahren regelmäßig Praktische Pilzseminare an. Die finden nicht etwa in einer Schule statt, sondern da, wo Pilze wachsen – im Wald. Bei fünf Exkursionen lernen die Teilnehmer die wichtigsten Speise- und Giftpilze an ihren natürlichen Wuchsorten kennen und erfahren Wissenswertes zum Thema. Das nächste Seminar beginnt am Samstag, 25. September. Anfragen oder Anmeldungen an:
+
+dgewalt@web.de 
 
 - - -
 
