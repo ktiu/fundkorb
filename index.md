@@ -14,6 +14,14 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/scleroderma_citrinum_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+09.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dickschalige Kartoffelbovist und da genügt es, ein Foto von ihm zu zeigen. Wer trotzdem mehr über ihn und seine nächsten Verwandten wissen möchte: [hier geht's zum ausführlichen Porträt >](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ascobolus_crenulatus_02_fk.jpeg" %}
 {% include abbildung_ende.html %}
@@ -47,8 +55,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/cortinarius-vibratilis-gallen-schleimfuß-bitterster-schleimfuß)
 
 <div style="clear:  both"></div>
-
-
 
 - - -
 
