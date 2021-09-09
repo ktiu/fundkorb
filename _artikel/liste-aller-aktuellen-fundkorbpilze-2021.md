@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-07.09.2021 [Ascobolus crenulatus - Grüngelber Kotling](/pilze/ascobolus-crenulatus-grüngelber-kotling)  
+09.09.2021 [Scleroderma citrinum - Dickschaliger Kartoffelbovist](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)  
+07.09.2021 [Ascobolus crenulatus - Grüngelber Kotling](/pilze/ascobolus-crenulatus-grüngelber-kotling)\
 06.09.2021 [Pleurotus pulmonarius - Lungenseitling](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)\
 04.09.2021 [Cortinarius vibratilis - Bitterster Schleimfuß](/pilze/cortinarius-vibratilis-gallen-schleimfuß-bitterster-schleimfuß)\
 03.09.2021 [Cortinarius purpureus - Purpurroter Hautkopf](/pilze/cortinarius-purpureus-purpurroter-hautkopf)\
