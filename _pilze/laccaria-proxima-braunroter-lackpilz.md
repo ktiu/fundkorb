@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Laccaria proxima
-  deutsch: Braunroter Lackpilz
+  deutsch: Braunroter Lacktrichterling
   referenz: "(Boud.) Pat. 1887 "
   synonym: neu in der Familie Hydnangiaceae
   familie: Tricholomataceae
