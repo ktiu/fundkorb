@@ -28,8 +28,8 @@ Beide dürfen ohne Einschränkung als gute Speisepilze bezeichnet werden und geb
 {% include abbildung_ende.html %}
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/laccaria_laccata_04.jpg" %}
-{% include bild.html datei="/bilder/laccaria_laccata_05_dg.jpg" %}
+{% include bild.html datei="/bilder/laccaria_laccata_04.jpg" gross=true %}
+{% include bild.html datei="/bilder/laccaria_laccata_05_dg.jpg" gross=true %}
 {% include abbildung_ende.html %}
 
 Lacktrichterlinge neigen zu bizarren Missbildungen – hier sind es gekräuselte Lamellen, die sich schon von oben am Hutrand zeigen. Das Loch in der Hutmitte gehört ebensowenig zu einem vorbildlich gewachsenen Fruchtkörper.
