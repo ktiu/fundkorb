@@ -15,6 +15,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/phaeolus_spadiceus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kiefernbraunporling Phaeolus schweinitzii. Für alle, die sich an den wissenschaftlchen Pilznamen orientieren: Dieser Porling hieß früher schweinitzii, dann spadiceus, und jetzt heißt er wieder schweinitzii, benannt nach dem amerikanischen Mykologen *Lewis David von Schweinitz* (1780 - 1834). Er wächst parasitisch am Grund von Nadelbäumen, auch [saprobiontisch](saprobiontisch "Glossar") an deren Stubben, ganz überwiegend an Kiefern. In der Forstwirtschaft ist er als aggressiver Schadpilz und Verursacher einer kräftigen Braunfäule gefürchtet.
+
+[Mehr lesen >](/pilze/phaeolus-spadiceus-kiefernbraunporling)
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/scleroderma_citrinum_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -29,32 +39,6 @@ footer_scripts:
 07.09.2021: Es ist mir jetzt zum zweiten Mal gelungen, auf meinem Balkon Grüngelbe Kotlinge auf Karnickelknöddeln zu kultivieren und deshalb sollen sie heute aktueller [Fundkorbpilz](AA "Glossar-") sein. Man muss sie schon mit der Lupe betrachten, um ihr becherförmiges Aussehen und die granulierten Becherränder zu erkennen. Der Pilz gehört zu den Schlauchpilzen (Ascomyzeten) und seine Schläuche (Asci) ragen so weit aus dem vertilen Becherboden heraus, dass man sie fast schon mit bloßem Auge sehen kann. Mit Lupe sind sie deutlich als strichförmige dunkle Flecken zu erkennen.
 
 [Mehr lesen >](/pilze/ascobolus-crenulatus-grüngelber-kotling)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pleurotus_pulmonarius_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-<div style="clear:  both"></div>
-
-06.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Lungenseitling *Pleurotus pulmonarius*. In der Form gleicht er dem allseits bekannten Austernseitling, mit dem er mitunter sogar den Wuchsort am gleichen Buchenstamm teilt - desöfteren schon im Frankfurter Stadtwald beobachtet. Die beiden sind, sofern sie in typischen Farben erscheinen, gut zu unterscheiden. Der Austernseitling ist grau, der Lungenseitling weißlich. Trifft man aber einen zu hell geratenen Austernseitling oder einen etwas zu dunkel geratenen Lungenseitling an, sind sie kaum noch auseinanderzuhalten. Pilze sind nun mal ziemlich oder auch sehr farbvariabel. Bei den beiden Seitlingen spielt das aus küchenmykologischer Sicht keine Rolle. Beide Seitlinge sind essbar und geschmacklich absolut gleichwertig. Eventuell könnten sie sogar mit dem Rillstieligen Seitling verwechselt werden. Wäre auch kein Beinbruch.
-
-[Mehr lesen >](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cortinarius_vibratilis_03_cw.jpg" %}
-{% include abbildung_ende.html %}
-
-04.09.2021 Ein weiterer Schleierling, der zur Zeit im Ansfeldwald wächst, ist der heutige [Fundkorbpilz](AA "Glossar-") *Cortinarius vibratilis*. Sein deutscher Name: Bitterster Schleimfuß. Alles Wissenswerte über seine Bitterkeit erfährt man am besten, wenn man die Gesichter von Leuten betrachtet, die gerade eine Kostprobe von ihm machen. Man braucht sie nicht einmal daran zu erinnern, dass Kostproben von rohen Pilzen grundsätzlich auszuspucken sind. Er wird übrigens auch Gallen-Schleimfuß genannt, was uns an den Gallenröhrling denken lässt. Der hat im Vergleich zu unserem Schleimfuß fast schon einen liebenswürdigen Geschmack. Der seltene Cortinarius wurde erstmals am 10. August 2002 hier festgestellt und ist in der Zwischenzeit immer mal wieder erschienen, und das in einem ziemlich ausgedehnten Areal. 
-
-[Mehr lesen >](/pilze/cortinarius-vibratilis-gallen-schleimfuß-bitterster-schleimfuß)
-
-<div style="clear:  both"></div>
 
 - - -
 
