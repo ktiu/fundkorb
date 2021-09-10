@@ -23,6 +23,10 @@ Um Boletus radicans sicher zu bestimmen, ist zunächst auf die Merkmalskombinati
 
 zu achten. Das zarte Blau der Verfärbung erinnert sehr an das Blauen des [Kornblumenröhrlings](/pilze/gyroporus-cyanescens-kornblumenröhrling).
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/boletus_radicans_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 Die Anzahl der mitteleuropäischen Dickröhrlinge dürfte bei etwa 30 liegen und unter diesen kommt mit dieser Merkmalskombination nur noch der Schönfußröhrling *Boletus calopus* als Verwechslungsmöglichkeit in Betracht. Der hat einen eher schlanken, walzenförmigen als dicken bauchigen Stiel, der oben gelb, darunter rot und in diesem Bereich mit einem groben helleren Netz überzogen ist und sich so deutlich in Form und Farbe vom Stiel des Wurzelnden Bitterröhrling unterscheidet. Dieser ist globig, creme-gelblich, manchmal rotbräunlich überhaucht und ohne auffällige Netzzeichnung. Zur Basis hin spitzt er meist deutlich zu, worauf sein Namenszusatz *"wurzelnd"* hinweist. Ein anderer bitterer Röhrling, der berühmt berüchtigte [Gallenröhrling](/artikel/die-invasion-der-bitterlinge.html), ist mit den Dickröhrlingen nicht näher verwandt und unterscheidet sich durch rosafarbene Röhrenschicht, nicht blauendes Fleisch und Wachstum bei Nadelbäumen.
 
 {% include abbildung_start.html stil="mittel" %}
