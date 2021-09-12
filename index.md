@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_radicans_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.09.2021: Heutiger [Fundkorbpilz](AA "Glossar-") ist Boletus radicans, der Wurzelnde Bitterröhrling. Das abgebildete "Konglomerat" wuchs in einer Dietzenbacher Parkanlage unter Eichen und kann nur als Prachtexemplar bezeichnet werden. Der Pilz bevorzugt kalkhaltige Böden, was an diesem Standort durch frühere Bautätigkeiten gegeben ist. In unmittelbarer Nähe befindet sich ein mehrstöckiges Schulgebäude.
+
+[Mehr lesen >](/pilze/boletus-radicans-wurzelnder-bitterröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/phaeolus_spadiceus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -70,9 +82,7 @@ Begegnungen der besonderen Art: wer so etwas entdeckt, betrachtet sich ungläubi
 
 ### Dietzenbach und Pilze
 
-– das hat seit Jahren Tradition und dafür gibt es gute Gründe. Die Kreisstadt liegt mitten im größten zusammenhängenden Waldgebiet der Region und wir bieten in Kooperation mit der Volkshochschule Dietzenbach seit mehr als 20 Jahren regelmäßig Praktische Pilzseminare an. Die finden nicht etwa in einer Schule statt, sondern da, wo Pilze wachsen – im Wald. Bei fünf Exkursionen lernen die Teilnehmer die wichtigsten Speise- und Giftpilze an ihren natürlichen Wuchsorten kennen und erfahren Wissenswertes zum Thema. Das nächste Seminar beginnt am Samstag, 25. September. Anfragen oder Anmeldungen an:
-
-dgewalt@web.de 
+– das hat seit Jahren Tradition und dafür gibt es gute Gründe. Die Kreisstadt liegt mitten im größten zusammenhängenden Waldgebiet der Region und wir bieten in Kooperation mit der Volkshochschule Dietzenbach seit mehr als 20 Jahren regelmäßig Praktische Pilzseminare an. Die finden nicht etwa in einer Schule statt, sondern da, wo Pilze wachsen – im Wald. Bei fünf Exkursionen lernen die Teilnehmer die wichtigsten Speise- und Giftpilze an ihren natürlichen Wuchsorten kennen und erfahren Wissenswertes zum Thema. Das nächste Seminar wrd voraussichtlich im Jahr 2022 angeboten.  
 
 - - -
 
