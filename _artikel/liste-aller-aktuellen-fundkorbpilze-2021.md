@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-10.09.2021 [Phaeolus schweinitzii - Kiefernbraunporling](/pilze/phaeolus-spadiceus-kiefernbraunporling)  
+12.09.2021 [Boletus radicans - Wurzelnder Bitterröhrling](/boletus-radicans-wurzelnder-bitterröhrling)  
+10.09.2021 [Phaeolus schweinitzii - Kiefernbraunporling](/pilze/phaeolus-spadiceus-kiefernbraunporling)\
 09.09.2021 [Scleroderma citrinum - Dickschaliger Kartoffelbovist](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)\
 07.09.2021 [Ascobolus crenulatus - Grüngelber Kotling](/pilze/ascobolus-crenulatus-grüngelber-kotling)\
 06.09.2021 [Pleurotus pulmonarius - Lungenseitling](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)\
