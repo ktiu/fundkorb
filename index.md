@@ -38,34 +38,6 @@ Wer mehr über den seltenen Stachelbart sehen und lesen möchte: [hier geht's zu
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/phaeolus_spadiceus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kiefernbraunporling Phaeolus schweinitzii. Für alle, die sich an den wissenschaftlchen Pilznamen orientieren: Dieser Porling hieß früher schweinitzii, dann spadiceus, und jetzt heißt er wieder schweinitzii, benannt nach dem amerikanischen Mykologen *Lewis David von Schweinitz* (1780 - 1834). Er wächst parasitisch am Grund von Nadelbäumen, auch [saprobiontisch](saprobiontisch "Glossar") an deren Stubben, ganz überwiegend an Kiefern. In der Forstwirtschaft ist er als aggressiver Schadpilz und Verursacher einer kräftigen Braunfäule gefürchtet.
-
-[Mehr lesen >](/pilze/phaeolus-spadiceus-kiefernbraunporling)
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/scleroderma_citrinum_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-09.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dickschalige Kartoffelbovist und da genügt es, ein Foto von ihm zu zeigen. Wer trotzdem mehr über ihn und seine nächsten Verwandten wissen möchte: [hier geht's zum ausführlichen Porträt >](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ascobolus_crenulatus_02_fk.jpeg" %}
-{% include abbildung_ende.html %}
-
-07.09.2021: Es ist mir jetzt zum zweiten Mal gelungen, auf meinem Balkon Grüngelbe Kotlinge auf Karnickelknöddeln zu kultivieren und deshalb sollen sie heute aktueller [Fundkorbpilz](AA "Glossar-") sein. Man muss sie schon mit der Lupe betrachten, um ihr becherförmiges Aussehen und die granulierten Becherränder zu erkennen. Der Pilz gehört zu den Schlauchpilzen (Ascomyzeten) und seine Schläuche (Asci) ragen so weit aus dem vertilen Becherboden heraus, dass man sie fast schon mit bloßem Auge sehen kann. Mit Lupe sind sie deutlich als strichförmige dunkle Flecken zu erkennen.
-
-[Mehr lesen >](/pilze/ascobolus-crenulatus-grüngelber-kotling)
-
-- - -
-
 [Liste aller Aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
 
 - - -
