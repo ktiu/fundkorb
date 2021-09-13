@@ -20,7 +20,7 @@ footer_scripts:
 
 13.09.2021: Zum heutigen aktuellen [Fundkorbpilz](AA "Glossar-") gibt es leider einen sehr bedauerlichen Anlass. Bei einer Führung in kleinem Kreis entdeckten wir am Sonntag an gestapelten Buchenstämmen ein noch sehr junges Vorkommen des Igelstachelbartes Hericium erinaceum. Zu jung, um es schon zu fotografieren. Allerdings ließ schon die zum Waldweg hin exponierte Wuchsstelle nichts Gutes für das Überleben des attraktiven Pilzes erahnen. Am heutigen Montag hat sich die Befürchtung dann leider bestätigt. Alle sechs der zum Teil noch sehr kleinen Fruchtkörper waren abgeschlagen und lagen auf dem Boden. Dieser Anblick trieb mir Tränen in die Augen und machte mich gleichzeitig wütend. Was sind das für Menschen, die aus purer Zerstörungswut so etwas tun?
 
-Wer mehr über den seltenen Stachelbart sehen und lesen möchte: [hier geht's zum Porträt >](/pilze/hericium-erinaceus-hericium-erinaceum)
+Wer mehr über den seltenen Stachelbart sehen und lesen möchte: [hier geht's zum Porträt >](/pilze/hericium-erinaceum-igel-stachelbart)
 
 <div style="clear:  both"></div>
 
