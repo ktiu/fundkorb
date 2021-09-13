@@ -16,7 +16,7 @@ literatur:
 ---
 In Mitteleuropa gibt es vier Stachelbart-Arten, die man sehr gut anhand makroskopischer Merkmale auseinanderhalten kann. Ihre Fruchtkörper sind weiß und verfärben im Alter gelblich, orangerötlich bis bräunlich. Die Sporen werden an den stets nach unten gerichteten Stacheln gebildet.
 
-**[Hericium cirrhatum](/pilze/hericium-cirrhatum-dorniger-stachelbart)** (Dorniger Stachelbart): Die kurzen, dornartigen etwa 1 cm langen Stacheln hängen an miteinander verwachsenen dickfleischigen Hüten. An Laubholz, vor allem Buche
+**[Hericium cirrhatum](/pilze/hericium-cirrhatum-dorniger-stachelbart)** (Dorniger Stachelbart): Die kurzen, dornartigen etwa 1 cm langen Stacheln hängen an miteinander verwachsenen dickfleischigen Hüten. An Laubholz, vor allem Buche 
 
 **[Hericium coralloides](/pilze/hericium-coralloides-ästiger-stachelbart)** (Ästiger Stachelbart): Die kurzen bis zu 1,5 cm langen Stacheln hängen in Reihen wie die Zähne eines Kamms an vielfach verzweigten Ästen. An Lauholz, meist an Buche
 
