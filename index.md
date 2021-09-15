@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/oudemansiella_mucida_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 15.09.2021 ist der Beringte Schleimrübling Oudemansiella mucida. Trotz seiner schleimigen Konsistenz ist er eines der schönsten Fotomotive unter den Pilzen, insbesondere, wenn man ihn ihm Gegenlicht fotografiert. Er wird auch Buchenschleimrübling genannt, und das völlig zu Recht. In Baden-Württemberg sind zum Beispiel 396 von 430 Funden an Buche gemeldet worden. An diesem Substrat ist er manchmal in enormen Mengen zu finden. Hundert und mehr Fruchtkörper auf einem einzigen Stamm sind keine Seltenheit.
+
+[Mehr lesen >](/pilze/oudemansiella-mucida-beringter-schleimrübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hericium_erinaceum_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
