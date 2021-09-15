@@ -30,3 +30,5 @@ Die Verbreitungsstrategie der Teuerlinge besteht darin, dass die [Peridiolen](Pe
 {% include abbildung_ende.html legende="Leere Tütchen: hier sind die Peridiolen von Regentropfen bereits herauskatapultiert worden  (2 Fotos: Frank Kaster)" %}
 
 Teuerlinge werden auch "Vogelnestpilze" genannt. Während sie im angelsächsischen Sprachraum den schönen und ihr Aussehen bildhaft beschreibenden Namen "Bird´s Nest Fungi" tragen, werden bei uns zumindest die häufigen Arten Teuerlinge genannt. Die etwas unverständlich erscheinende Bezeichnung stammt aus dem Mittelalter, als man anhand der Anzahl und der Form der münzenähnlichen Peridiolen glaubte, auf Teuerungszeiten schließen zu können. In Schweden nennt man sie "Brötchenkorb-Pilze".
+
+Ein leicht zu handhabender Bestimmungsschlüssel mit allen mitteleuropäischen Arten und Informationen über diese bemerkenswerte Pilzgruppe befinden sich in unserem Beitrag [Vogelnestpilze](/verwandt/vogelnestpilze).
