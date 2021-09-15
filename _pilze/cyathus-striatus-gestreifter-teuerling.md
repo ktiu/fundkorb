@@ -40,7 +40,7 @@ Die einzelnen Fruchtkörper haben sich inzwischen zu tütenförmigen Behältern 
 
 Gestreifte Teuerlinge wachsen auf einer Vielzahl von Substraten, auf morschem Holz, Zweigen, Zapfen oder Pflanzenresten, besonders gern an Waldwegrändern. Ich habe sie sogar schon auf vermoderndem Karton gefunden.
 
-Um Teuerlinge zu bestimmen, bedarf es weder komplizierter Prozeduren noch mikroskopischer Untersuchungen. Da geht wirklich alles mit bloßem Auge und das ist doch mal eine gute Nachricht für alle, die sich angesichts fachsimpelnder [Zystidenjäger](Zystiden "Glossar") ins Abseits gedrängt fühlen. Einen leicht zu handhabender Bestimmungsschlüssel mit allen mitteleuropäischen Teuerlingen (Nestlingen) befindet sich in unserem Beitrag [Vogelnestpilze](/verwandt/vogelnestpilze).
+Um Teuerlinge zu bestimmen, bedarf es weder komplizierter Prozeduren noch mikroskopischer Untersuchungen. Da geht wirklich alles mit bloßem Auge und das ist doch mal eine gute Nachricht für alle, die sich angesichts fachsimpelnder [Zystidenjäger](Zystiden "Glossar") ins Abseits gedrängt fühlen. Ein leicht zu handhabender Bestimmungsschlüssel mit allen mitteleuropäischen Teuerlingen (Nestlingen) und Informationen über diese bemerkenswerte Pilzgruppe befindet sich in unserem Beitrag [Vogelnestpilze](/verwandt/vogelnestpilze).
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cyathus_striatus_-vj.-_07_dg.jpg" %}
