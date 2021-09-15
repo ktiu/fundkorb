@@ -20,14 +20,6 @@ Er ist wohl der häufigste Täubling in unseren Wäldern und wächst von Juni bi
 
 Um Täublinge sicher zu bestimmen, ist die Sporenpulverfarbe ein wichtiges Merkmal. Beim Ockertäubling ist sie weiß. Auch auf die Abziehbarkeit der Huthaut ist zu achten. Beim Ockertäubling lässt sie sich ungefähr zur Hälfte abziehen.
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/russula_ochroleuca_02_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-Über seinen Küchentauglichkeit sind sich Pilzfreunde einig. Wenn man ihn als bestenfalls mischpilztauglich bezeichnet, wäre dies fast schon ein unverdientes Lob. Er wird gern auch als Notzeitenpilz bezeichnet und wurde zum Beispiel während der Kriegs- und Nachkriegsjahre gesammelt und gegessen, aber damals ging es oft nur darum, überhaupt etwas für Pfanne oder Kochtopf aufzutreiben.
-
-Ockertäublinge findet man in allen Waldgesellschaften und Höhenlagen bis 1000 m. Die Art ist in der nördlichen Hemisphäre weit verbreitet und wurde sogar schon auf Spitzbergen nachgewiesen.
-
 <div class="table-responsive">
   <table class="table taeubling">
     <tr>
@@ -50,4 +42,17 @@ Ockertäublinge findet man in allen Waldgesellschaften und Höhenlagen bis 1000 
   </table>
 </div>
 
-Die gelbliche Stielbasis färbt sich beim Betupfen mit Kalilauge (KOH) feuerrot.
+Die gelbliche Stielbasis färbt sich beim Betupfen mit Kalilauge (KOH) feuerrot, weiter oben mit Eisensulfat (FeSO4) rosa. Ein wichtiges Mikromerkmal sind die [Huthauthyphen](Hyphen "Glossar"). Beim Ockertäubling (und nur bei diesem!) sind einige (nicht alle!) gebrötlich gefärbt.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_ochroleuca_03_bm.jpg" %}
+{% include bild.html datei="/bilder/russula_ochroleuca_04_bm.jpg" %}
+{% include abbildung_ende.html legende="Abb. links: Farbreaktion am Stiel: oben mit FeSO4 rosa, mit KOH braunrot (feuerrot) -- Abb. rechts: Huthauthyphen (2 Mikrofotos von Bernd Miggel)" %}
+
+Ockertäublinge findet man in allen Waldgesellschaften und Höhenlagen bis 1000 m. Die Art ist in der nördlichen Hemisphäre weit verbreitet und wurde sogar schon auf Spitzbergen nachgewiesen.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_ochroleuca_02_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+Über seinen Küchentauglichkeit sind sich Pilzfreunde einig. Wenn man ihn als bestenfalls mischpilztauglich bezeichnet, wäre dies fast schon ein unverdientes Lob. Er wird gern auch als Notzeitenpilz bezeichnet und wurde zum Beispiel während der Kriegs- und Nachkriegsjahre gesammelt und gegessen, aber damals ging es oft nur darum, überhaupt etwas für Pfanne oder Kochtopf aufzutreiben.
