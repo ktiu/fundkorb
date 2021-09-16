@@ -16,6 +16,7 @@ literatur:
   - text: "Hermann Jahn: Pilze die an Holz wachsen"
     url: http://tintling.com/pilzbuch/arten/h/Hericium_coralloides.html
 ---
+
 „Da liegt ein Baum und blüht!“ An diesen von Hermann Jahn zitierten Ausruf eines Kindes musste ich am 1. Oktober 2005 bei einer Wanderung durch das Naturschutzgebiet Mönchbruch denken. Bildhafter und treffender hätte man den morschen Buchenstamm mit seinen mehr als 100 (!) nahezu blumenkohlgroßen Ästigen Stachelbärten nicht beschreiben können. Es sah aus, als hätten die prächtigen Pilze das Totholz zu neuem Leben erweckt. Hermine Lotz-Winter hatte das „Naturwunder“ wenige Tage zuvor entdeckt.
 
 {% include abbildung_start.html stil="mittel" %}
@@ -39,7 +40,7 @@ In Mitteleuropa gibt es vier Stachelbart-Arten, die man sehr gut anhand makrosko
 
 **[Hericium cirrhatum](/pilze/hericium-cirrhatum-dorniger-stachelbart)** (Syn.: Creolophus cirrhatus, Dorniger Stachelbart): Die kurzen, dornartigen etwa 1 cm langen Stacheln hängen an miteinander verwachsenen dickfleischigen Hüten. An Laubholz, vor allem Buche\
 **Hericium coralloides** (Ästiger Stachelbart): Die kurzen bis zu 1,5 cm langen Stacheln hängen in Reihen wie die Zähne eines Kamms an vielfach verzweigten Ästen. An Lauholz, meist an Buche\
-**[Hericium erinaceus](/pilze/hericium-erinaceus-hericium-erinaceus)** (Igel-Stachelbart): Die bis zu 3 cm langen Stacheln hängen an Fruchtkörperknollen; ich vergleiche das Aussehen gern mit einem Bobtail. An Laubholz (Buche, Eiche)\
+**[Hericium erinaceum](/pilze/hericium-erinaceum-igel-stachelbart)** (Igel-Stachelbart): Die bis zu 3 cm langen Stacheln hängen an Fruchtkörperknollen; ich vergleiche das Aussehen gern mit einem Bobtail. An Laubholz (Buche, Eiche)\
 **[Hericium flagellum](/pilze/hericium-flagellum-tannenstachelbart)** (Tannen-Stachelbart): Die 0,5 bis 2 cm langen Stacheln hängen büschelig (nicht reihig!) an den verzweigten Ästen. An Weißtanne
 
 Stachelbärte gelten als Vitalpilze, die sich züchten lassen, sind als Rote-Liste-Arten in der Natur aber gesetzlich geschützt. Inwieweit dieser Schutz den betroffenen Arten nützt, ist mit Skepsis zu bewerten. Nicht nur die gefährdeten Arten wären schützenswert, sondern viel mehr die Biotope, die sie für ihr Wachstum benötigen. Der Ästige Stachelbart ist ein exzellentes Beispiel dafür. Seit die Forstwirtschaft in immer mehr Wäldern dazu übergeht, am Boden liegendes Totholz liegen und vermorschen zu lassen, haben Vorkommen dieses Pilzes zumindest im Rhein-Main-Gebiet sichtbar zugenommen.
