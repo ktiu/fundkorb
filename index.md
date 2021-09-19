@@ -14,6 +14,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Büschelrasling *Lyophyllum decastes*. Wenn man ihn sicher kennt ist er ein ausgezeichneter Speisepilz mit Biss, der bei mir praktisch vor der Haustür wächst. Ich nenne ihn Rasen-Rasling, weil er Rasenflächen bevorzugt und sogar mitten in Großstädten in Parkanlagen gefunden werden kann. Ein einziges Büschel kann ein Pilzgericht für zwei Personen liefern. Die zähen Stiele lässt man besser weg.
+
+[Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/oudemansiella_mucida_06_dg.jpg" %}
 {% include abbildung_ende.html %}
