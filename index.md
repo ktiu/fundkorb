@@ -15,12 +15,24 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lactarius_glyciosmus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.09.2021: Es gibt Pilze, die durch ihren speziellen Duft begeistern. Unser aktueller Fundkorbpilz ist so einer und es überrascht, dass ein kleiner Blätterpilz überaus aromatisch nach Kokosflocken riechen kann. Es ist der Blasse Duftmilchling Lactarius glyciosmus, der daher auch Kokosflocken-Milchling genannt wird. Weitere Kennzeichen sind seine scharf schmeckende weiße Milch und sein Vorkommen bei Birken. So verführerisch er auch duften mag, für die Küche ist er völlig ungeeignet. 
+
+[Mehr lesen >](/pilze/lactarius-glyciosmus-blasser-duftmilchling)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 19.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Büschelrasling *Lyophyllum decastes*. Wenn man ihn sicher kennt ist er ein ausgezeichneter Speisepilz mit Biss, der bei mir praktisch vor der Haustür wächst. Ich nenne ihn Rasen-Rasling, weil er Rasenflächen bevorzugt und sogar mitten in Großstädten in Parkanlagen gefunden werden kann. Ein einziges Büschel kann ein Pilzgericht für zwei Personen liefern. Die zähen Stiele lässt man besser weg.
 
 [Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -31,30 +43,6 @@ footer_scripts:
 Aktueller [Fundkorbpilz](AA "Glossar-") am 15.09.2021 ist der Beringte Schleimrübling Oudemansiella mucida. Trotz seiner schleimigen Konsistenz ist er eines der schönsten Fotomotive unter den Pilzen, insbesondere, wenn man ihn ihm Gegenlicht fotografiert. Er wird auch Buchenschleimrübling genannt, und das völlig zu Recht. In Baden-Württemberg sind zum Beispiel 396 von 430 Funden an Buche gemeldet worden. An diesem Substrat ist er manchmal in enormen Mengen zu finden. Hundert und mehr Fruchtkörper auf einem einzigen Stamm sind keine Seltenheit.
 
 [Mehr lesen >](/pilze/oudemansiella-mucida-beringter-schleimrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hericium_erinaceum_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.09.2021: Zum heutigen aktuellen [Fundkorbpilz](AA "Glossar-") gibt es leider einen sehr bedauerlichen Anlass. Bei einer Führung in kleinem Kreis entdeckten wir am Sonntag an gestapelten Buchenstämmen ein noch sehr junges Vorkommen des Igelstachelbartes Hericium erinaceum. Zu jung, um es schon zu fotografieren. Allerdings ließ schon die zum Waldweg hin exponierte Wuchsstelle nichts Gutes für das Überleben des attraktiven Pilzes erahnen. Am heutigen Montag hat sich die Befürchtung dann leider bestätigt. Alle sechs der zum Teil noch sehr kleinen Fruchtkörper waren abgeschlagen und lagen auf dem Boden. Dieser Anblick trieb mir Tränen in die Augen und machte mich gleichzeitig wütend. Was sind das für Menschen, die aus purer Zerstörungswut so etwas tun?
-
-Wer mehr über den seltenen Stachelbart sehen und lesen möchte: [hier geht's zum Porträt >](/pilze/hericium-erinaceum-igel-stachelbart)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_radicans_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.09.2021: Heutiger [Fundkorbpilz](AA "Glossar-") ist Boletus radicans, der Wurzelnde Bitterröhrling. Das abgebildete "Konglomerat" wuchs in einer Dietzenbacher Parkanlage unter Eichen und kann nur als Prachtexemplar bezeichnet werden. Der Pilz bevorzugt kalkhaltige Böden, was an diesem Standort durch frühere Bautätigkeiten gegeben ist. In unmittelbarer Nähe befindet sich ein mehrstöckiges Schulgebäude.
-
-[Mehr lesen >](/pilze/boletus-radicans-wurzelnder-bitterröhrling)
 
 <div style="clear:  both"></div>
 
