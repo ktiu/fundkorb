@@ -15,10 +15,20 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/hebeloma_radicosum_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+21.09.2021: Diesmal haben wir einen besonders kuriosen aktuellen [Fundkorbpilz](AA "Glossar-"). Er hat eine merkwürdige Affinität zu Mäuse-Urin und heißt *Hebeloma radicosum (Wurzelnder Fälbling)*. Man findet ihn in der Regel aus Mauselöchern herauswachsen oder in deren unmittelbaren Nähe. Dass er trotz der nicht ganz stubenreinen Herkunft angenehm nach Bittermandel riecht erscheint ebenso kurios. Da er nicht gerade häufig und ein stattlicher Pilz ist, freue ich mich jedes Mal, wenn ich ihn finde. Mäuse sind übrigens reinliche Tiere und legen die vom Marzipanfälbling bevorzugten Löcher als separate Toiletten an. 
+
+[Mehr lesen >](/pilze/hebeloma-radicosum-wurzelnder-fälbling)
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/lactarius_glyciosmus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-20.09.2021: Es gibt Pilze, die durch ihren speziellen Duft begeistern. Unser aktueller Fundkorbpilz ist so einer und es überrascht, dass ein kleiner Blätterpilz überaus aromatisch nach Kokosflocken riechen kann. Es ist der Blasse Duftmilchling Lactarius glyciosmus, der daher auch Kokosflocken-Milchling genannt wird. Weitere Kennzeichen sind seine scharf schmeckende weiße Milch und sein Vorkommen bei Birken. So verführerisch er auch duften mag, für die Küche ist er völlig ungeeignet. 
+20.09.2021: Es gibt Pilze, die durch ihren speziellen Duft begeistern. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist so einer und es überrascht, dass ein kleiner Blätterpilz überaus aromatisch nach Kokosflocken riechen kann. Es ist der Blasse Duftmilchling Lactarius glyciosmus, der daher auch Kokosflocken-Milchling genannt wird. Weitere Kennzeichen sind seine scharf schmeckende weiße Milch und sein Vorkommen bei Birken. So verführerisch er auch duften mag, für die Küche ist er völlig ungeeignet. 
 
 [Mehr lesen >](/pilze/lactarius-glyciosmus-blasser-duftmilchling)
 
