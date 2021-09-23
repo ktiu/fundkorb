@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinus_comatus_07_gg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schopftintling Coprinus comatus. Kenner schätzen ihn als Makkaroni- oder Spargelpilz, weil er sich samt Stiel wie Spargel zubereiten lässt. Natürlich eignen sich nur solche Exemplare, die noch nicht zu schwarzer Tinte zerfließen. Mit der hat man in früheren Jahrhunderten tatsächlich geschrieben - mit Federkiel versteht sich. Wenn man die Schopftintlinge in der Kücher verwenden will, sollte man sie bald nach dem Ernten zubereiten. Im englischen Sprachraum nennt man sie übrigens "Shaggy Mane" (zottige Mähne).
+
+[Mehr lesen >](/pilze/coprinus-comatus-schopftintling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hebeloma_radicosum_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
@@ -31,30 +43,6 @@ footer_scripts:
 20.09.2021: Es gibt Pilze, die durch ihren speziellen Duft begeistern. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist so einer und es überrascht, dass ein kleiner Blätterpilz überaus aromatisch nach Kokosflocken riechen kann. Es ist der Blasse Duftmilchling Lactarius glyciosmus, der daher auch Kokosflocken-Milchling genannt wird. Weitere Kennzeichen sind seine scharf schmeckende weiße Milch und sein Vorkommen bei Birken. So verführerisch er auch duften mag, für die Küche ist er völlig ungeeignet. 
 
 [Mehr lesen >](/pilze/lactarius-glyciosmus-blasser-duftmilchling)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Büschelrasling *Lyophyllum decastes*. Wenn man ihn sicher kennt ist er ein ausgezeichneter Speisepilz mit Biss, der bei mir praktisch vor der Haustür wächst. Ich nenne ihn Rasen-Rasling, weil er Rasenflächen bevorzugt und sogar mitten in Großstädten in Parkanlagen gefunden werden kann. Ein einziges Büschel kann ein Pilzgericht für zwei Personen liefern. Die zähen Stiele lässt man besser weg.
-
-[Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/oudemansiella_mucida_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 15.09.2021 ist der Beringte Schleimrübling Oudemansiella mucida. Trotz seiner schleimigen Konsistenz ist er eines der schönsten Fotomotive unter den Pilzen, insbesondere, wenn man ihn ihm Gegenlicht fotografiert. Er wird auch Buchenschleimrübling genannt, und das völlig zu Recht. In Baden-Württemberg sind zum Beispiel 396 von 430 Funden an Buche gemeldet worden. An diesem Substrat ist er manchmal in enormen Mengen zu finden. Hundert und mehr Fruchtkörper auf einem einzigen Stamm sind keine Seltenheit.
-
-[Mehr lesen >](/pilze/oudemansiella-mucida-beringter-schleimrübling)
-
-<div style="clear:  both"></div>
 
 - - -
 
