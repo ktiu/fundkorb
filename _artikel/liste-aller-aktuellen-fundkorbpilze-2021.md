@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-23.09.2021 [Coprinus comatus - Schopftintling](/pilze/coprinus-comatus-schopftintling)  
+25.09.2021 [Amanita muscaria - Fliegenpilz ](/pilze/amanita-muscaria-fliegenpilz)  
+23.09.2021 [Coprinus comatus - Schopftintling](/pilze/coprinus-comatus-schopftintling)\
 21.09.2021 [Hebeloma radicosum - Wurzelnder Fälbling](/pilze/hebeloma-radicosum-wurzelnder-fälbling)\
 20.09.2021 [Lactarius glyciosmus - Blasser Duftmilchling](/pilze/lactarius-glyciosmus-blasser-duftmilchling)\
 19.09.2021 [Lyophyllum decastes - Büschelrasling](/pilze/lyophyllum-decastes-büschelrasling)\
