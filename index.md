@@ -14,6 +14,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/leccinum_pseudoscabrum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Hainbuchen-Raufuß *Leccinum pseudoscabrum*, der fast genau so aussieht wie der allseits bekannte und viel gesammelte Birken-Raufuß, auch kurz Birkenpilz genannt. Der auffälligste Unterschied zwischen beiden sind die jeweiligen Begleitbäume und [Mykorrhizapartner](Mykorrhiza "Glossar"). Das hilft überhaupt nicht weiter, wenn der Raufuß genau zwischen einer Hainbuche und einer Birke steht. Was also tun? Genau hinschauen! Der Hainbuchen-Raufuß hat fast immer eine etwas eingedellte, manchmal wie gehämmert aussehende Hutoberfläche. Im Speisewert wird er sogar etwas besser beurteilt als der Birken-Raufuß. Ältere Exemplare, deren Hutfleisch schon sehr weich ist, sollte man besser stehenlassen oder nur die Stiele verwenden. Egal, um welchen der beiden es sich gerade handelt.
+
+Mehr lesen >
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/fistulina_hepatica_02_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -30,43 +40,9 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 26.09.2021 ist der Leberreischling, a
 {% include bild.html datei="/bilder/amanita_muscaria_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-
-
 25.09.2021: Die ersten Fliegenpilze des Jahres habe ich schon letzte Woche gesichtet - jetzt haben wir auch zwei in unserer Dietzenbacher Parkanlage. Sie haben sich unter einer Hecke neben einer Birke versteckt. Dass sie als Inbegriff tödlicher Giftpilze gelten aber noch keinen umgebracht haben, hat sich längst herumgesprochen. Auch über den Witz, dass man im Restaurant ein Fliegenpilzgericht vor dem Verzehr bezahlen müsste, lacht kaum noch jemand. Nicht einmal Fliegen kann er umbringen. Die schlägt man am besten mit der Fliegenklatsche tot, während sie ihren Rausch ausschlafen. Oder lässt sie als engagierter Tierfreund am Leben. 
 
 [Mehr lesen lohnt sich >](/pilze/amanita-muscaria-fliegenpilz)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinus_comatus_07_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schopftintling Coprinus comatus. Kenner schätzen ihn als Makkaroni- oder Spargelpilz, weil er sich samt Stiel wie Spargel zubereiten lässt. Natürlich eignen sich nur solche Exemplare, die noch nicht zu schwarzer Tinte zerfließen. Mit der hat man in früheren Jahrhunderten tatsächlich geschrieben - mit Federkiel versteht sich. Wenn man die Schopftintlinge in der Kücher verwenden will, sollte man sie bald nach dem Ernten zubereiten. Im englischen Sprachraum nennt man sie übrigens "Shaggy Mane" (zottige Mähne).
-
-[Mehr lesen >](/pilze/coprinus-comatus-schopftintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/hebeloma_radicosum_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-21.09.2021: Diesmal haben wir einen besonders kuriosen aktuellen [Fundkorbpilz](AA "Glossar-"). Er hat eine merkwürdige Affinität zu Mäuse-Urin und heißt *Hebeloma radicosum (Wurzelnder Fälbling)*. Man findet ihn in der Regel aus Mauselöchern herauswachsen oder in deren unmittelbaren Nähe. Dass er trotz der nicht ganz stubenreinen Herkunft angenehm nach Bittermandel riecht erscheint ebenso kurios. Da er nicht gerade häufig und ein stattlicher Pilz ist, freue ich mich jedes Mal, wenn ich ihn finde. Mäuse sind übrigens reinliche Tiere und legen die vom Marzipanfälbling bevorzugten Löcher als separate Toiletten an. 
-
-[Mehr lesen >](/pilze/hebeloma-radicosum-wurzelnder-fälbling)
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/lactarius_glyciosmus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.09.2021: Es gibt Pilze, die durch ihren speziellen Duft begeistern. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist so einer und es überrascht, dass ein kleiner Blätterpilz überaus aromatisch nach Kokosflocken riechen kann. Es ist der Blasse Duftmilchling Lactarius glyciosmus, der daher auch Kokosflocken-Milchling genannt wird. Weitere Kennzeichen sind seine scharf schmeckende weiße Milch und sein Vorkommen bei Birken. So verführerisch er auch duften mag, für die Küche ist er völlig ungeeignet. 
-
-[Mehr lesen >](/pilze/lactarius-glyciosmus-blasser-duftmilchling)
 
 - - -
 
