@@ -8,6 +8,7 @@ beschreibung:
   familie: Hymenochaetaceae
 profil:
   aktualisiert: 2021-09-27
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/inonotus_nodulosus_01_dg.jpg
