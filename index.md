@@ -20,7 +20,7 @@ footer_scripts:
 
 27.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Hainbuchen-Raufuß *Leccinum pseudoscabrum*, der fast genau so aussieht wie der allseits bekannte und viel gesammelte Birken-Raufuß, auch kurz Birkenpilz genannt. Der auffälligste Unterschied zwischen beiden sind die jeweiligen Begleitbäume und [Mykorrhizapartner](Mykorrhiza "Glossar"). Das hilft überhaupt nicht weiter, wenn der Raufuß genau zwischen einer Hainbuche und einer Birke steht. Was also tun? Genau hinschauen! Der Hainbuchen-Raufuß hat fast immer eine etwas eingedellte, manchmal wie gehämmert aussehende Hutoberfläche. Im Speisewert wird er sogar etwas besser beurteilt als der Birken-Raufuß. Ältere Exemplare, deren Hutfleisch schon sehr weich ist, sollte man besser stehenlassen oder nur die Stiele verwenden. Egal, um welchen der beiden es sich gerade handelt.
 
-[Mehr lesen >](/leccinum-pseudoscabrum-hainbuchenraufuß)
+[Mehr lesen >](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß)
 
 - - -
 
