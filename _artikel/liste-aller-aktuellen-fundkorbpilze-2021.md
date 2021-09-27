@@ -2,7 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-27.09.2021 [Leccinum pseudoscabrum - Hainbuchen-Raufuß](/leccinum-pseudoscabrum-hainbuchen-raufuß)  
+27.09.2021 [Leccinum pseudoscabrum - Hainbuchen-Raufuß](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß)\
 26.09.2021 [Fistulina hepatica - Ochsenzunge, Leberreischling](/pilze/fistulina-hepatica-ochsenzunge-leberreischling)\
 25.09.2021 [Amanita muscaria - Fliegenpilz ](/pilze/amanita-muscaria-fliegenpilz)\
 23.09.2021 [Coprinus comatus - Schopftintling](/pilze/coprinus-comatus-schopftintling)\
