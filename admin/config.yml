@@ -12,13 +12,12 @@ locale: 'de'
 
 collections:
 
-
-#  ____                       
+#  ____
 # |  _ \ __ _  __ _  ___  ___ 
 # | |_) / _` |/ _` |/ _ \/ __|
 # |  __/ (_| | (_| |  __/\__ \
 # |_|   \__,_|\__, |\___||___/
-#             |___/           
+#             |___/
 
   - name: "pages"
     identifier_field: "title"
@@ -80,12 +79,12 @@ collections:
           - {label: "Überschrift", name: "title", widget: string}
           - {label: "Text", name: "body", widget: markdown, editorComponents: ["abbildung"]}
 
-#  _____                   _            
+#  _____                   _
 # |_   _|__ _ __ _ __ ___ (_)_ __   ___ 
 #   | |/ _ \ '__| '_ ` _ \| | '_ \ / _ \
 #   | |  __/ |  | | | | | | | | | |  __/
 #   |_|\___|_|  |_| |_| |_|_|_| |_|\___|
-                                      
+
   - name: "termine"
     label: "Termine"
     identifier_field: "aktivitaet"
@@ -113,23 +112,31 @@ collections:
       - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
       - {label: "Beschreibung", name: "body", widget: "markdown", editorComponents: []}
 
-#  ____  _ _         
-# |  _ \(_) |_______ 
+#  ____  _ _
+# |  _ \(_) |_______
 # | |_) | | |_  / _ \
 # |  __/| | |/ /  __/
 # |_|   |_|_/___\___|
-                   
-  - name: "pilze"
-    label: "Pilzporträts"
-    label_singular: "Pilzporträt"
+
+  - name:             "pilze"
+    label:            "Pilzporträts"
+    label_singular:   "Pilzporträt"
     identifier_field: "beschreibung.wissenschaftlich"
-    summary: "{{beschreibung.wissenschaftlich}} ({{beschreibung.deutsch}}) – {{filename}}.{{extension}}"
-    folder: "_pilze"
-    create: true
-    slug: "{{slug}}-{{beschreibung.deutsch}}"
+    summary:          "{{beschreibung.wissenschaftlich}} ({{beschreibung.deutsch}}) – {{filename}}.{{extension}}"
+    folder:           "_pilze"
+    create:           true
+    slug:             "{{slug}}-{{beschreibung.deutsch}}"
     editor:
       preview: true
     fields:
+      - name: "permalink"
+        label: "Permalink"
+        widget: "string"
+        required: false
+        hint: "zusätzliche URL für diesen Pilz, z. B. `/pilze/neuer-pilzname`"
+        pattern:
+          - "^\/pilze\/[a-zäöüß-]+$"
+          - "Muss mit `/pilze/` anfangen und darf keine Leer- oder Sonderzeichen haben."
       - name: "beschreibung"
         label: "Beschreibung"
         widget: "object"
