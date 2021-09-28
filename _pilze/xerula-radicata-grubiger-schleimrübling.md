@@ -11,7 +11,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/xerula_radicata_04_dg.bmp
+  datei: /bilder/xerula_radicata_04_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/x/Xerula_radicata.html
 ---

@@ -10,7 +10,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/flammulaster_muricatus_01_dg.bmp
+  datei: /bilder/flammulaster_muricatus_01_dg.jpg
 ---
 Manchmal findet man Pilze, betrachtet sie irritiert und weiß partout nichts mit ihnen anzufangen. Besonders häufig ist das bei kleinen Arten mit bräunlichen Lamellen der Fall, den berüchtigten "little brown mushrooms". Wenn man Schleierlinge der Untergattung Telamonia ausgeschlossen hat, was recht gut gelingen kann, und zum Beispiel so unpopuläre Gruppen wie Flockenschüpplinge in Betracht zieht, kann die Bestimmung manchmal verblüffend einfach sein. 
 

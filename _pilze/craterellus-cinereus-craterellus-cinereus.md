@@ -22,6 +22,6 @@ Die Hüte des dünnfleischigen Pilzes sind schwarzbraun, verfärben beim Trockne
 Der Graue Leistling ist eine seltene Art, die gern bei Buchen wächst ([Mykorrhiza](Mykorrhiza "Glossar")-Pilz) und kalkhaltige Böden bevorzugt. Er gilt als schmackhafter aromatischer Speisepilz, ist aber als Rote-Liste-Art geschützt.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/craterellus_cinereus_02_xx.png" gross=true %}
+{% include bild.html datei="/bilder/craterellus_cinereus_02_xx.jpg" gross=true %}
 {% include bild.html datei="/bilder/craterellus_cinereus_03_xx.jpg" gross=true %}
 {% include abbildung_ende.html legende="Abb. links: Giacomo Bresadola aus : „Iconographia Mycologica, vol. X, Editura Società Botanica Italiana, Milano 1929, tab. 480“ -- Abb. rechts: Marcel Bon" %} 

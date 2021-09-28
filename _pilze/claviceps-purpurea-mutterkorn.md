@@ -55,7 +55,7 @@ Auch ich habe bei mehrfachen Kultivierungsversuchen auf eine „Anzucht“ der K
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/claviceps_purpurea_06_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/claviceps_purpurea_07_xx.png" %}
+{% include bild.html datei="/bilder/claviceps_purpurea_07_xx.jpg" %}
 {% include abbildung_ende.html %}
 
 Die Leiden durch die vom Mutterkorn verursachte Krankheit wird sogar im rechten Flügel des berühmten Isenheimer Altars von Matthias Grünewald aus dem Jahr 1516 dargestellt. Mitglieder des Antoniterordens hatten sich damals schon der Bekämpfung von Seuchen und Krankheiten gewidmet, darunter auch dem als „Antoniusfeuer“ bekannten Ergotismus.

@@ -16,7 +16,7 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/r/Rickenella_fibula
 ---
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/rickenella_x2_03_dg.bmp" %}
+{% include bild.html datei="/bilder/rickenella_x2_03_dg.jpg" %}
 {% include abbildung_ende.html legende="Auch wenn auf diesem Foto der Orangerote Heftelnabeling unter seinen blaustieligen Verwandten eine Minderheit darstellt, ist er die bei weitem häufigere der beiden Arten" %}
 
 Heftelnabelinge gehören zu den Pilzen, an denen sich das Auge erfreuen kann. Man muss sie nur finden und aus der Nähe betrachten. Ihr Appeal besteht nicht zuletzt in den in formvollendeten Bögen am Stiel herablaufenden Lamellen. Zu finden sind die Pilzchen, die Hutdurchmesser von 0,5 bis 1 cm und eine Stiellänge von bis zu 6 cm erreichen, in unterschiedlichen Moosgesellschaften, in und außerhalb von Wäldern, auf bemoostem Holz wie auf moosigen Rasenflächen.

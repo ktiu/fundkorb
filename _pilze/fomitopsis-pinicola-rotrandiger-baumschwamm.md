@@ -10,7 +10,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/fomitopsis_pinicola_01_dg.bmp
+  datei: /bilder/fomitopsis_pinicola_01_dg.jpg
 literatur:
   - text: Empfehlenswerter Link (Werner Pohl) – Pilz Nr.61
     url: http://aphyllopower.blogspot.com/2008/06/

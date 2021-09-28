@@ -14,6 +14,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Crucibulum_laeve.html
 ---
+
 Teuerlinge sind leicht zu bestimmen. Alle Merkmale sind makroskopisch zu erkennen. Die Fruchtkörper bestehen aus napf-, tönnchen-, schüssel- oder tütenförmigen Behältnissen und den darin liegenden Peridiolen, linsenförmige Gebilde von etwa 1 mm Größe, in denen die Sporen gebildet werden. Die Tönnchen, Schüsselchen oder Tütchen sind jung mit einem Häutchen verschlossen, das später aufreißt und den Blick auf die Peridiolen freigibt. Im Falle des Tiegelteuerlings ist dieses Häutchen (Epiphragma) gelb und feinfilzig - und damit ist die Art bereits eindeutig von allen anderen Teuerlingen unterschieden.
 
 {% include abbildung_start.html stil="standard" %}

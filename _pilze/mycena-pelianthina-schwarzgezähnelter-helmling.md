@@ -10,7 +10,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/mycena_pelianthina_01_dg.bmp
+  datei: /bilder/mycena_pelianthina_01_dg.jpg
   legende: Einer der vielen Funde im Frankfurter Stadtwald
 literatur:
   - url: https://de.wikipedia.org/wiki/Schwarzgez%C3%A4hnelter_Rettich-Helmling
