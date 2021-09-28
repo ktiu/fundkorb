@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hebeloma_crustuliniforme_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tonblasse Fälbling Hebeloma crustuliniforme. Er gehört zu einer nicht gerade populären Gattung, in der es keine Speisepilze gibt, aber etliche schwach giftige. Recht interessant sind die Fälblinge wegen ihrer Gerüche. Die meisten riechen mehr oder weniger aufdringlich nach Rettich, andere z. B. nach Kakao, Marzipan, fruchtig-süßlich oder nach Bohnerwachs. Vor allem die nach Rettich riechenden Arten sind oft nur schwer zu bestimmen.
+
+[Mehr lesen >](/pilze/hebeloma-crustuliniforme-tonblasser-fälbling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/leccinum_pseudoscabrum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
