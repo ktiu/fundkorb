@@ -28,7 +28,7 @@
   display: inline-block;
 }
 
-.abbildung img {
+.abbildung .bild > img {
   max-width: 100%;
   height: auto;
   max-height: 98vh !important;
@@ -38,7 +38,8 @@
   flex-base: 100%;
   height: auto;
 }
-.abbildung .bild.gross img {
+
+.abbildung .bild.gross > img {
   width: 100%;
   height: auto;
 }
@@ -51,14 +52,19 @@
 }
 
 .abbildung .bild .modal .close {
+  float: none;
+  position: absolute;
+  right: 0;
+  top: 0;
   color: $white;
+  text-decoration: none;
   opacity: 0.9;
 }
 
 .abbildung .bild .modal img {
   object-fit: contain;
-  height: auto;
-  width: auto;
+  height: 100%;
+  width: 100%;
 }
 
 @media (min-width: 576px) {
@@ -70,12 +76,12 @@
     flex-shrink: 1;
     flex-grow: 1;
   }
-  .abbildung.mittel img {
+  .abbildung.mittel .bild > img {
     height: 300px;
     width: auto;
     object-fit: cover;
   }
-  .abbildung.klein img {
+  .abbildung.klein .bild > img {
     height: 200px;
     width: auto;
     object-fit: cover;
@@ -89,7 +95,7 @@
     width:auto;
   }
 
-  .abbildung .bild.nocrop img {
+  .abbildung .bild.nocrop .bild > img {
     object-fit: contain;
   }
 
@@ -106,7 +112,7 @@
     clear: both;
   }
 
-  .abbildung.fliessend img {
+  .abbildung.fliessend .bild > img {
     max-height: 350px;
     max-width: 350px;
   }

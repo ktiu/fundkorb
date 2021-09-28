@@ -1,14 +1,23 @@
 (function($) {
-  $.fn.randomize = function(childElem) {
-    return this.each(function() {
-      var $this = $(this);
-      var elems = $this.children(childElem);
-      elems.sort(function() { return (Math.round(Math.random())-0.5); });  
-      $this.detach(childElem);  
-      for(var i=0; i < elems.length; i++)
-        $this.append(elems[i]);      
-
-    });    
-  }
+     $.fn.shuffle = function() {
+        var allElems = this.get(),
+            getRandom = function(max) {
+                return Math.floor(Math.random() * max);
+            },
+            shuffled = $.map(allElems, function(){
+                var random = getRandom(allElems.length),
+                    randEl = $(allElems[random]).clone(true)[0];
+                allElems.splice(random, 1);
+                return randEl;
+           });
+        this.each(function(i){
+            $(this).replaceWith($(shuffled[i]));
+        });
+        return $(shuffled);
+    };
 })(jQuery);
 
+$(function() {
+  $("#quiz .carousel-inner > div").shuffle();
+  $("#quiz .carousel-inner > div").first().addClass("active");
+});
