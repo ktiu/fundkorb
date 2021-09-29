@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_solaris_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.09.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist der *Sonnentäubling Russula solaris*, der nach einigen Jahren Abwesenheit zur Zeit in mehreren Wäldern der Rhein-Main-Ebene angetroffen werden kann. Da er schon nach einigen Sekunden deutlich scharf schmeckt, kommt er für Speisezwecke nicht Frage. Immerhin gehört er zu den leicht bestimmbaren Täublingsarten. Bei sorgfältiger Beachtung der Merkmalskombination *"blass gelbe Hutfarbe - sehr zerbrechliche Konsistenz - weißer Stiel - scharfer Geschmack - ockerfarbenes Sporenpulver"* ist er kaum mit anderen Täublingen zu verwechseln.
+
+[Mehr lesen >](/pilze/russula-solaris-sonnentäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hebeloma_crustuliniforme_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
