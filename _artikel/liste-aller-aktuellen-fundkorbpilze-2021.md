@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-28.09.2021 [Hebeloma crustuliniforme - Tonblasser Fälbling](/pilze/hebeloma-crustuliniforme-tonblasser-fälbling)  
+29.09.2021 [Russula solaris - Sonnentäubling](/pilze/russula-solaris-sonnentäubling)  
+28.09.2021 [Hebeloma crustuliniforme - Tonblasser Fälbling](/pilze/hebeloma-crustuliniforme-tonblasser-fälbling)\
 27.09.2021 [Leccinum pseudoscabrum - Hainbuchen-Raufuß](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß)\
 26.09.2021 [Fistulina hepatica - Ochsenzunge, Leberreischling](/pilze/fistulina-hepatica-ochsenzunge-leberreischling)\
 25.09.2021 [Amanita muscaria - Fliegenpilz ](/pilze/amanita-muscaria-fliegenpilz)\
