@@ -9,6 +9,4 @@ Dieter Gewalt, Rhein-Main-Gebiet   dgewalt@web.de   Tel.: 0176 - 22953310
 
 Brigitte Koch, Main-Kinzig-Kreis  koch.birstein@freenet.de      Tel. 06054 907 125
 
-**Kostenlose Pilzberatung** im Gesundheitsamt der Stadt Frankfurt:
-
-In diesem Jahr muss die Pilzberatung im Gesundheitsamt wegen der COVID-19-Pandemie leider ausfallen. Wir hoffen, dass wir die Pilzberatung im nächsten Jahr zusammen mit unserem langjährigen Pilzsachverständigen Dieter Gewalt wie gewohnt wieder anbieten können.
+**Die kostenlose Pilzberatung im Gesundheitsamt der Stadt Frankfurt** wird ab diesem Jahr wieder stattfinden. Unser langjähriger Pilzsachverständige Dieter Gewalt wird vom 10. Oktober bis einschließlich 7. November 2021 jeweils sonntags von 17:00 bis 20:00 Uhr Funde überprüfen und über Sammeln, Zubereitung und Risiken aufklären. Wegen der immer noch geltenden Covid-19-Beschränkungen sind nur Besucher mit G2-Nachweis (geimpft, genesen) zugelassen. Eine vorherige Anmeldung ist nicht erforderlich.
