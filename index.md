@@ -48,28 +48,6 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/fistulina_hepatica_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 26.09.2021 ist der Leberreischling, auch Ochsenzunge genannt. Mit seinen oft dunkelrot blutenden konsolen- oder zungeförmigen Fruchtkörpern, die in ihrer Konsistenz und noch mehr bei der Zubereitung an eine Leber erinnern, ist er eigentlich unverwechselbar. Man findet ihn an totem Laubholz, besonders an Eiche. Im Frankfurter Raum gehört er zu den häufigeren "Stadtwaldpilzen". Geradezu abenteuerlich muten die inneren Strukturen an, die wie angeschnittenes Fleisch aussehen können. Ein schönes Beispiel für den enormen Farben-, Formen- und Strukturenreichtum im immer wieder faszinierenden Reich der Pilze. Als Speisepilz ist er umstritten wie kaum ein anderer. Dass man ihn wie Tierleber braten kann, liegt auf der Hand. Der Geschmack wird von manchen geschätzt, aber die meisten Pilzfreunde, die ihn schon probiert haben, finden ihn abscheulich.
-
-[Mehr schauen und lesen >](/pilze/fistulina-hepatica-ochsenzunge-leberreischling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/amanita_muscaria_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.09.2021: Die ersten Fliegenpilze des Jahres habe ich schon letzte Woche gesichtet - jetzt haben wir auch zwei in unserer Dietzenbacher Parkanlage. Sie haben sich unter einer Hecke neben einer Birke versteckt. Dass sie als Inbegriff tödlicher Giftpilze gelten aber noch keinen umgebracht haben, hat sich längst herumgesprochen. Auch über den Witz, dass man im Restaurant ein Fliegenpilzgericht vor dem Verzehr bezahlen müsste, lacht kaum noch jemand. Nicht einmal Fliegen kann er umbringen. Die schlägt man am besten mit der Fliegenklatsche tot, während sie ihren Rausch ausschlafen. Oder lässt sie als engagierter Tierfreund am Leben. 
-
-[Mehr lesen lohnt sich >](/pilze/amanita-muscaria-fliegenpilz)
-
-- - -
-
 [Liste aller Aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
 
 - - -
