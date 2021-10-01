@@ -1,5 +1,5 @@
 ---
-permalink: /pilze/neuer-name-gemeiner-lederfältling
+permalink: /pilze/neuer-name-meruliopsis-corium-gemeiner-lederfältling
 beschreibung:
   wissenschaftlich: Meruliopsis corium
   deutsch: Gemeiner Lederfältling
