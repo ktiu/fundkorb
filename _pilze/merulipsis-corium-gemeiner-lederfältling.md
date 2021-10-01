@@ -1,6 +1,7 @@
 ---
+permalink: /pilze/neuer-name-gemeiner-lederfältling
 beschreibung:
-  wissenschaftlich: Merulipsis corium
+  wissenschaftlich: Meruliopsis corium
   deutsch: Gemeiner Lederfältling
   referenz: (Pers.) Ginns 1976
   familie: Phaenerochaetaceae
