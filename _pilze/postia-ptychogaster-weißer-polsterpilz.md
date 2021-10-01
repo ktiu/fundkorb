@@ -29,6 +29,6 @@ Es handelt sich hier um die Nebenfruchtform (Anamorphe) des Pilzes, auf oder neb
 
 Übrigens: Den Weißen Polsterpilz hat man sogar schon mal (fälschlicherweise!) verdächtigt, ein [Schleimpilz (Myxomyzet)](Myxomyzeten "Glossar") zu sein.
 
-Weiterere Saftporlinge im Fundkorb sind:
-[Braunfleckender Saftporling Postia fragilis](/pilze/postia-fragilis-braunfleckender-saftporling)
+Weiterere Saftporlinge im Fundkorb sind:  
+[Braunfleckender Saftporling Postia fragilis](/pilze/postia-fragilis-braunfleckender-saftporling)  
 [Orangegelber Saftling Tyromyces kmetii](/pilze/tyromyces-kmetii-orangegelber-saftporling).
