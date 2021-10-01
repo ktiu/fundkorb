@@ -14,6 +14,10 @@ footer_scripts:
 
 - - -
 
+**Ab Sonntag, 10. Oktober 2021, wieder Pilzberatung im Gesundheitsamt der Stadt Frankfurt**  [\>>>](/pilzberatung)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hydnum_repandum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
