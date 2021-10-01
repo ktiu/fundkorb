@@ -20,7 +20,7 @@ footer_scripts:
 
 Aktueller [Fundkorbpilz](AA "Glossar-") am 30.09.2021 ist der Semmelstoppelpilz Hydnum repandum. Wer ihn irrtümlich als Pfifferling gepflückt hat, wird beim Blick auf die Hutunterseite schnell über seinen Irrtum aufgeklärt. Er hat Stoppeln, Stacheln, Zähnchen oder Dornen statt lamellenähnliche Leisten und die brechen bei der geringsten Berührung ab. Trotzdem darf er in den Sammelkorb, denn er gilt als guter Speisepilz. Es gibt ihn auch in eher orangeroten oder weißlichen Farben und wird dann Rotgelber bzw. Weißlicher Semmelstoppelpilz genannt. Ältere Exemplare können etwas bitterlich schmecken und das vor allem im unteren Stielbereich. Dass nach der Zubereitung viele abgebrochene Zähnchen im Pilzgericht schwimmen muss man in Kauf nehmen. 
 
-Mehr lesen >
+[Mehr lesen >](/pilze/hydnum-repandum-semmelstoppelpilz)
 
 <div style="clear:  both"></div>
 
