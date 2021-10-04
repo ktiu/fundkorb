@@ -18,6 +18,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/tyromyces_kmetii_08_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.10.2021:  Wenn man Saftporlinge in die Hand nimmt und das im Fruchtkörper enthaltene Wasser herausdrückt, bekommt man klebrige Finger. Das macht sie unsympathisch, zumal es keine für die Küche taugliche Art unter ihnen gibt. Der *Orangegelbe Saftporling Tyromyces kmetii* ist sicher der farbenfroheste unter ihnen und deshalb nicht unsympathisch und unser aktueller [Fundkorbpilz](AA "Glossar-"). Offensichtlich ist die als selten geltende stets an Totholz wachsende Art in letzter Zeit häufiger geworden und jetzt gleich mehrfach im Frankfurter Stadtwald sowie im Wald rund um den Dornsee bei Dietzenbach erschienen. Immer wieder ein erfreulicher Anblick.
+
+[Mehr schauen und lesen >](/pilze/tyromyces-kmetii-orangegelber-saftporling)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hydnum_repandum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
