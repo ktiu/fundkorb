@@ -18,13 +18,27 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/tyromyces_kmetii_08_dg.jpg" %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinopsis_patouillardii_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 05.10.2021 ist ein kleiner Tintling, der auf meinem Balkon in einem Pflanztopf gewachsen ist. Übrigens nicht zum ersten Mal. Er ist fast genau so schnell wieder verschwunden wie er aufgetaucht ist. Er heißt Eintags-Tintling (Coprinopsis patouillardii) und das nennt seine Kurzlebigkeit beim Namen. Er hat eine Vorliebe für natürlich gedüngte Böden, was durchaus zu unserem Pflanztopf passt. Dessen Erde war mit trockenem Pferdemist angereichert worden. In Thailand habe ich ihn auf Elefantendung gesehen. Mit seinen elegant geschweiften Hütchen ist er ein hübscher Anblick.
+
+[Mehr lesen >](/pilze/coprinopsis-patouillardii-eintags-tintling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tyromyces_kmetii_09_fk.jpg" %}
 {% include abbildung_ende.html %}
 
 04.10.2021:  Wenn man Saftporlinge in die Hand nimmt und das im Fruchtkörper enthaltene Wasser herausdrückt, bekommt man klebrige Finger. Das macht sie unsympathisch, zumal es keine für die Küche taugliche Art unter ihnen gibt. Der *Orangegelbe Saftporling Tyromyces kmetii* ist sicher der farbenfroheste unter ihnen und deshalb nicht unsympathisch und unser aktueller [Fundkorbpilz](AA "Glossar-"). Offensichtlich ist die als selten geltende stets an Totholz wachsende Art in letzter Zeit häufiger geworden und jetzt gleich mehrfach im Frankfurter Stadtwald sowie im Wald rund um den Dornsee bei Dietzenbach erschienen. Immer wieder ein erfreulicher Anblick.
 
 [Mehr schauen und lesen >](/pilze/tyromyces-kmetii-orangegelber-saftporling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -37,40 +51,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 30.09.2021 ist der Semmelstoppelpilz 
 [Mehr lesen >](/pilze/hydnum-repandum-semmelstoppelpilz)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_solaris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.09.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist der *Sonnentäubling Russula solaris*, der nach einigen Jahren Abwesenheit zur Zeit in mehreren Wäldern der Rhein-Main-Ebene angetroffen werden kann. Da er schon nach einigen Sekunden deutlich scharf schmeckt, kommt er für Speisezwecke nicht Frage. Immerhin gehört er zu den leicht bestimmbaren Täublingsarten. Bei sorgfältiger Beachtung der Merkmalskombination *"blass gelbe Hutfarbe - sehr zerbrechliche Konsistenz - weißer Stiel - scharfer Geschmack - ockerfarbenes Sporenpulver"* ist er kaum mit anderen Täublingen zu verwechseln.
-
-[Mehr lesen >](/pilze/russula-solaris-sonnentäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hebeloma_crustuliniforme_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tonblasse Fälbling Hebeloma crustuliniforme. Er gehört zu einer nicht gerade populären Gattung, in der es keine Speisepilze gibt, aber etliche schwach giftige. Recht interessant sind die Fälblinge wegen ihrer Gerüche. Die meisten riechen mehr oder weniger aufdringlich nach Rettich, andere z. B. nach Kakao, Marzipan, fruchtig-süßlich oder nach Bohnerwachs. Vor allem die nach Rettich riechenden Arten sind oft nur schwer zu bestimmen.
-
-[Mehr lesen >](/pilze/hebeloma-crustuliniforme-tonblasser-fälbling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/leccinum_pseudoscabrum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.09.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Hainbuchen-Raufuß *Leccinum pseudoscabrum*, der fast genau so aussieht wie der allseits bekannte und viel gesammelte Birken-Raufuß, auch kurz Birkenpilz genannt. Der auffälligste Unterschied zwischen beiden sind die jeweiligen Begleitbäume und [Mykorrhizapartner](Mykorrhiza "Glossar"). Das hilft überhaupt nicht weiter, wenn der Raufuß genau zwischen einer Hainbuche und einer Birke steht. Was also tun? Genau hinschauen! Der Hainbuchen-Raufuß hat fast immer eine etwas eingedellte, manchmal wie gehämmert aussehende Hutoberfläche. Im Speisewert wird er sogar etwas besser beurteilt als der Birken-Raufuß. Ältere Exemplare, deren Hutfleisch schon sehr weich ist, sollte man besser stehenlassen oder nur die Stiele verwenden. Egal, um welchen der beiden es sich gerade handelt.
-
-[Mehr lesen >](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß)
 
 - - -
 
