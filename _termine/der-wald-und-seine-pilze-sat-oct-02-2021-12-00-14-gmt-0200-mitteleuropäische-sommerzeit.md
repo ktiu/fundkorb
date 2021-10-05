@@ -1,6 +1,6 @@
 ---
 aktivitaet: Der Wald und seine Pilze
-zeit: 2021-10-02T10:00:14.583Z
+zeit: 2021-10-17T10:00:14.583Z
 anmeldung_offen: false
 published: true
 ---
@@ -8,4 +8,4 @@ Ein Wald ist mehr als nur eine großflächige Ansammlung von Bäumen. Er ist ein
 
 Wir werden in einer kleinen Gruppen (maximal ca. 12 Teilnehmer) unterwegs sein. Die Teilnahmegebühr beträgt 10 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung mitgeteilt.
 
-**Dieser Termin ist ausgebucht - keine Anmeldungen mehr möglich**
+**Der Termin ist ausgebucht - Anmeldungen nicht mehr möglich**

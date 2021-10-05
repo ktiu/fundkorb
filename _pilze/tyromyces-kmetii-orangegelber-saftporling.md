@@ -5,7 +5,7 @@ beschreibung:
   referenz: (Bres.) Bondartsev & Singer 1941
   familie: Polyporaceae
 profil:
-  aktualisiert: 2021-01-29
+  aktualisiert: 2021-10-04
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
@@ -36,14 +36,12 @@ Er bildet konsolenförmige (in jungem Stadium rundliche, knubbelige) Fruchtkörp
 {% include bild.html datei="/bilder/tyromyces_kmetii_05_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Foto rechts: Die Poren sind sehr fein (3 - 4 pro mm), weißlich bis hellgelb, und unregelmäßig eckig geformt (Lupe!)" %}
 
-
-
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tyromyces_kmetii_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/tyromyces_kmetii_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Unsere Funde stammen aus dem Hegwald (nahe Kesselbruchweiher) bei Neu-Isenburg und dem Waldgebiet an der Alten Babenhäuser Straße bei Dietzenbach, alle an Rotbuche (Fagus sylvatica). Werner Pohl hat einen Fund aus dem Frankfurter Stadtwald (September 2010) beschrieben und verweist auf eine leicht zunehmende Ausbreitung, die wir mit unseren Funden belegen können. In Baden-Württemberg (Krieglsteiner 2000) ist lediglich ein Fund aus dem Jahr 1995 von Günter Saar bei Freiburg bekannt, zum damaligen Zeitpunkt Erstnachweis für Deutschland.
+Unsere Funde stammen aus dem Hegwald (nahe Kesselbruchweiher) bei Neu-Isenburg und dem Waldgebiet an der Alten Babenhäuser Straße bei Dietzenbach, alle an Rotbuche (Fagus sylvatica). Werner Pohl hat einen Fund aus dem Frankfurter Stadtwald (September 2010) beschrieben und verweist auf eine leicht zunehmende Ausbreitung, die wir mit unseren Funden belegen können. 2021 ist er wieder und gleich mehrfach im Frankfurter Stadtwald sowie in der Nähe des Dornsees bei Dietzenbach erschienen. In Baden-Württemberg (Krieglsteiner 2000) ist lediglich ein Fund aus dem Jahr 1995 von Günter Saar bei Freiburg bekannt, zum damaligen Zeitpunkt Erstnachweis für Deutschland.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tyromyces_kmetii_09_fk.jpg" nocrop=true %}
