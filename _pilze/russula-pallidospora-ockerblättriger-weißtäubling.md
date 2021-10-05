@@ -62,4 +62,4 @@ Der Ockerblättrige Weißtäubling zählt nach der *Sarmari*-Systematik zur Sekt
 {% include abbildung_ende.html legende="Aquarell von E. W. Ricek aus Michael/Hennig/Kreisel: Handbuch für Pilzfreunde Band V" %}
 
 **Ähnliche Arten:**
-Die beiden anderen, bei uns viel häufigeren Weißtäublingsarten *Russula delica* und *Russula chloroides* neigen nicht zum Gilben, ihre Fruchtkörperfarben sind stärker weiß, an der Stielspitze besitzen sie mitunter eine bläulichgrüne Tönung, sie riechen fischig und schmecken leicht scharf. Ihr Sporenpulver ist weiß, und die Ornamente ihrer Sporen sind wesentlich höher.
+Die beiden anderen, bei uns viel häufigeren Weißtäublingsarten *[Russula delica](/pilze/russula-delica-gemeiner-weißtäubling)* und *[Russula chloroides](/pilze/russula-chloroides-schmalblättriger-weißtäubling)* neigen nicht zum Gilben, ihre Fruchtkörperfarben sind stärker weiß, an der Stielspitze besitzen sie mitunter eine bläulichgrüne Tönung, sie riechen fischig und schmecken leicht scharf. Ihr Sporenpulver ist weiß, und die Ornamente ihrer Sporen sind wesentlich höher.
