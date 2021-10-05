@@ -30,5 +30,4 @@ $(function() {
     image.attr('src', image.data('src'));
     image.removeAttr('data-src');
   });
-
 });
