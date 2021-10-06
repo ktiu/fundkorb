@@ -39,10 +39,11 @@ article {
   body {
     background:
         linear-gradient(
-          rgba(0, 0, 0, 0.2), 
-          rgba(0, 0, 0, 0.6)
+          rgba(0, 0, 0, 0.1), 
+          rgba(0, 0, 0, 0.4)
         ),
         url('#{$asset_dir}/img/wald.jpg') no-repeat center fixed;
+    background-attachment: fixed;
     background-size: cover;
   }
   .container {
