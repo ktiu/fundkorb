@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_bernardii_01_dg-.jpg" %}
+{% include abbildung_ende.html %}
+
+06.10.2021: Bei Familie P. in Dietzenbach heißt er Schwimmbad-Champignon, in der Fachliteratur Agaricus bernardii = Salzwiesen-Champignon. Was aber hat unser aktueller [Fundkorbpilz](AA "Glossar-") mit dem Swimminpool der Dietzenbacher Familie zu tun? Logische Erklärung: Der Pool im Garten ist mit Salzwasser gefüllt und wenn da mal was über den Beckenrand schwappt ist die Substratanforderung des Salzwiesen-Champignons gegeben. Der kommt ansonsten in Deutschland im Küstenbereich von Nord- und Ostsee vor aber auch nach winterlicher Salzstreuung an Straßenrändern. Bei Familie P. jetzt schon zum dritten Mal. 
+
+[Mehr lesen >](/pilze/agaricus-bernardii-salzwiesen-egerling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinopsis_patouillardii_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
