@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-05.10.2021 [Coprinopsis patouillardii - Eintags-Tintling](/pilze/coprinopsis-patouillardii-eintags-tintling)  
+06.10.2021 [Agaricus bernardii - Salzwiesen-Champignon](/pilze/agaricus-bernardii-salzwiesen-egerling)  
+05.10.2021 [Coprinopsis patouillardii - Eintags-Tintling](/pilze/coprinopsis-patouillardii-eintags-tintling)\
 04.10.2021 [Hydnum repandum - Semmelstoppelpilz](/pilze/hydnum-repandum-semmelstoppelpilz)
 
 29.09.2021 [Russula solaris - Sonnentäubling](/pilze/russula-solaris-sonnentäubling)\
