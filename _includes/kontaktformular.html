@@ -1,3 +1,21 @@
-Wir arbeiten daran, Ihnen ein sicheres und verlässliches Kontaktformular zur Verfügung zu stellen. In der Zwischenzeit sind wir für Sie gerne per E-Mail erreichbar:
-
-[dgewalt@web.de](mailto:dgewalt@web.de)
+<form id="kontaktformular" class="needs-validation mt-4" action="https://formsubmit.co/{{ site.mail.contact }}" method="POST">
+  <input type="hidden" name="_template" value="box">
+  <div class="row">
+    <div class="col-md-6 form-group">
+      <input type="text" id="name" name="Name" class="form-control">
+      <label for="name">Name</label>
+    </div>
+    <div class="col-md-6 form-group">
+      <input id="email" type="email" name="E-Mail" class="form-control" required>
+      <label for="email">E-Mail*</label>
+    </div>
+    <div class="col-md-12 form-group">
+      <textarea type="text" id="nachricht" name="Nachricht" rows="5" class="form-control md-textarea" required></textarea>
+      <label for="nachricht">Nachricht*</label>
+    </div>
+  </div>
+  <div class="text-center text-md-left d-flex flex-wrap align-items-center justify-content-between">
+    <input class="btn btn-success" type="submit" value="Nachricht senden"/>
+    <label>*) Erforderliche Angaben</label>
+  </div>
+</form>

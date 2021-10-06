@@ -27,8 +27,9 @@
         <a class="btn btn-lg border-primary mb-1 text-primary" data-toggle="collapse" href="#anmeldeform-{{termin.slug}}" role="button" aria-expanded="false" aria-controls="anmeldeform-{{termin-slug}}"><i class="fas fa-user-edit"></i> Anmelden</a>
         <!-- <a href="#" class="btn border-warning mb-1"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i> In den Kalender eintragen</a> -->
       </div>
-      {% include anmeldung.html termin=termin datum=datum uhrzeit=uhrzeit %}
-
+      {% include anmeldung_form.html termin=termin datum=datum uhrzeit=uhrzeit %}
+      {% else %}
+        <p class="card-text"><strong>Der Termin ist ausgebucht – Anmeldungen sind leider nicht mehr möglich.</strong></p>
       {% endif %}
     </div>
   </div>
