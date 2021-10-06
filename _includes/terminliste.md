@@ -7,20 +7,20 @@
     {{ termin.zeit | date: "%-d." }}
     {% assign m = termin.zeit | date: "%-m" | minus: 1 %}
     {{ site.data.monate[m] }}
-    {{ termin.zeit | date: "%Y" }}
+    {{ termin.zeit | date: "%y" }}
     {% endcapture %}
     {% capture uhrzeit %}
-    {{ termin.zeit | date: "%H:%M" }}
+    {{ termin.zeit | date: "%h:%m" }}
     {% endcapture %}
   <div class="card termin">
     <h5 class="card-header">{{ termin.aktivitaet }}</h5>
     <div class="card-body">
       <div class="details">
-        <p class="card-text">Datum:<br /><strong>{{ datum }}</strong></p>
-        <p class="card-text">Uhrzeit:<br /><strong>{{ uhrzeit }}</strong></p>
-        {% if termin.treffpunkt and termin.treffpunkt != "" %}<p class="card-text">Treffpunkt:<br /><strong>{{ termin.treffpunkt }}</strong></p>{% endif %}
+        <p class="card-text">datum:<br /><strong>{{ datum }}</strong></p>
+        <p class="card-text">uhrzeit:<br /><strong>{{ uhrzeit }}</strong></p>
+        {% if termin.treffpunkt and termin.treffpunkt != "" %}<p class="card-text">treffpunkt:<br /><strong>{{ termin.treffpunkt }}</strong></p>{% endif %}
         {% if termin.teilnahmegebuehr and termin.teilnahmegebuehr != "" %}<p class="card-text">Teilnahmegebühr:<br /><strong>{{ termin.teilnahmegebuehr }}</strong></p>{% endif %}
-        <p class="card-text">{{ termin.content | markdownify }}</p>
+        {{ termin.content | markdownify }}
       </div>
       {% if termin.anmeldung_offen %}
       <div class="text-center">
