@@ -18,6 +18,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/clitocybe_nebularis_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+11.12.2021: Es gibt eine ganze Reihe von Pilzen, die anzeigen, dass der Herbst gekommen und die Nächte kälter geworden sind. Ein typischer Vertreter ist der Nebelgraue Trichterling Clitocybe nebularis, kurz auch Nebelkappe genannt. Dass so viele von ihnen in Reihen und Hexenringen an Waldwegrändern herumstehen, besagt schon etwas über ihren kulinarischen Wert. Wären sie leckere Speisepilze, wären sie längst schon weggesammelt. Zudem können sie Magen-Darm-Beschwerden verursachen und sollen sogar genschädigend sein.
+
+[Mehr lesen >](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_bernardii_01_dg-.jpg" %}
 {% include abbildung_ende.html %}
@@ -37,30 +49,6 @@ footer_scripts:
 Aktueller [Fundkorbpilz](AA "Glossar-") am 05.10.2021 ist ein kleiner Tintling, der auf meinem Balkon in einem Pflanztopf gewachsen ist. Übrigens nicht zum ersten Mal. Er ist fast genau so schnell wieder verschwunden wie er aufgetaucht ist. Er heißt Eintags-Tintling (Coprinopsis patouillardii) und das nennt seine Kurzlebigkeit beim Namen. Er hat eine Vorliebe für natürlich gedüngte Böden, was durchaus zu unserem Pflanztopf passt. Dessen Erde war mit trockenem Pferdemist angereichert worden. In Thailand habe ich ihn auf Elefantendung gesehen. Mit seinen elegant geschweiften Hütchen ist er ein hübscher Anblick.
 
 [Mehr lesen >](/pilze/coprinopsis-patouillardii-eintags-tintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tyromyces_kmetii_09_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-04.10.2021:  Wenn man Saftporlinge in die Hand nimmt und das im Fruchtkörper enthaltene Wasser herausdrückt, bekommt man klebrige Finger. Das macht sie unsympathisch, zumal es keine für die Küche taugliche Art unter ihnen gibt. Der *Orangegelbe Saftporling Tyromyces kmetii* ist sicher der farbenfroheste unter ihnen und deshalb nicht unsympathisch und unser aktueller [Fundkorbpilz](AA "Glossar-"). Offensichtlich ist die als selten geltende stets an Totholz wachsende Art in letzter Zeit häufiger geworden und jetzt gleich mehrfach im Frankfurter Stadtwald sowie im Wald rund um den Dornsee bei Dietzenbach erschienen. Immer wieder ein erfreulicher Anblick.
-
-[Mehr schauen und lesen >](/pilze/tyromyces-kmetii-orangegelber-saftporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hydnum_repandum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 30.09.2021 ist der Semmelstoppelpilz Hydnum repandum. Wer ihn irrtümlich als Pfifferling gepflückt hat, wird beim Blick auf die Hutunterseite schnell über seinen Irrtum aufgeklärt. Er hat Stoppeln, Stacheln, Zähnchen oder Dornen statt lamellenähnliche Leisten und die brechen bei der geringsten Berührung ab. Trotzdem darf er in den Sammelkorb, denn er gilt als guter Speisepilz. Es gibt ihn auch in eher orangeroten oder weißlichen Farben und wird dann Rotgelber bzw. Weißlicher Semmelstoppelpilz genannt. Ältere Exemplare können etwas bitterlich schmecken und das vor allem im unteren Stielbereich. Dass nach der Zubereitung viele abgebrochene Zähnchen im Pilzgericht schwimmen muss man in Kauf nehmen. 
-
-[Mehr lesen >](/pilze/hydnum-repandum-semmelstoppelpilz)
 
 <div style="clear:  both"></div>
 
