@@ -1,6 +1,5 @@
 <form id="kontaktformular" class="needs-validation mt-4" action="https://formsubmit.co/{{ site.mail.contact }}" method="POST">
   <input type="hidden" name="_template" value="box">
-  <input type="hidden" name="_subject" value="Neue Nachricht über das kontaktformular">
   <input type="hidden" name="_next" value="https://fundkorb.de/danke_kontakt">
   <div class="row">
     <div class="col-md-6 form-group">
@@ -10,6 +9,10 @@
     <div class="col-md-6 form-group">
       <input id="email" type="email" name="email" class="form-control" required>
       <label for="email">E-Mail*</label>
+    </div>
+    <div class="col-md-12 form-group">
+      <input id="subject" type="hidden" name="_subject">
+      <label for="_subject">Betreff</label>
     </div>
     <div class="col-md-12 form-group">
       <textarea type="text" id="nachricht" name="Nachricht" rows="5" class="form-control md-textarea" required></textarea>

@@ -1,6 +1,6 @@
 <form id="anmeldeform-{{ include.termin.slug }}" class="collapse needs-valdation mt-4" action="https://formsubmit.co/{{ site.mail.signup }}" method="POST">
   <input type="hidden" name="_template" value="box">
-  <input type="hidden" name="_subject" value='Neue Anmeldung: {{include.termin.aktivitaet}}'>
+  <input type="hidden" name="_subject" value='Anmeldung: {{include.termin.aktivitaet}}'>
   <input type="hidden" name="_next" value="https://fundkorb.de/danke_anmeldung">
   <input type="hidden" name="Anmeldung zur Veranstaltung" value='"{{ include.termin.aktivitaet }}" am {{ include.print_time }}'>
   <div class="row">
