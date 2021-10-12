@@ -2,7 +2,7 @@
   <input type="hidden" name="_template" value="box">
   <input type="hidden" name="_subject" value='Neue Anmeldung: {{include.termin.aktivitaet}}'>
   <input type="hidden" name="_next" value="https://fundkorb.de/danke_anmeldung">
-  <input type="hidden" name="Anmeldung zur Veranstaltung" value="{{ include.termin.aktivitaet }} am {{ include.datum }} um {{ include.uhrzeit }}">
+  <input type="hidden" name="Anmeldung zur Veranstaltung" value='"{{ include.termin.aktivitaet }}" am {{ include.print_time }}'>
   <div class="row">
     <div class="col-sm-4 col-md-3 form-group">
       <input type="number" id="anzahl" name="Anzahl Personen" class="form-control" min="1" max="8" value="1"/>
