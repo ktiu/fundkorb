@@ -1,13 +1,10 @@
 <section id="termine">
   {% assign termine = site.termine | sort: 'zeit' %}
   {% for termin in termine %}
-    {% capture datum %}
     {% assign w = termin.zeit | date: "%u" | minus: 1 %}
-    {{ site.data.wochentage[w] }},
-    {{ termin.zeit | date: "%-d." }}
     {% assign m = termin.zeit | date: "%-m" | minus: 1 %}
-    {{ site.data.monate[m] }}
-    {{ termin.zeit | date: "%Y" }}
+    {% capture datum %}
+    {{ site.data.wochentage[w] }}, {{ termin.zeit | date: "%-d." }} {{ site.data.monate[m] }} {{ termin.zeit | date: "%Y" }}
     {% endcapture %}
     {% capture uhrzeit %}
     {{ termin.zeit | date: "%H:%M" }}
