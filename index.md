@@ -14,7 +14,15 @@ footer_scripts:
 
 - - -
 
-**Ab Sonntag, 10. Oktober 2021, wieder Pilzberatung im Gesundheitsamt der Stadt Frankfurt**  [\>>>](/pilzberatung)
+##### **Ab Sonntag, 10. Oktober 2021, wieder Pilzberatung im Gesundheitsamt der Stadt Frankfurt**  [\>>>](/pilzberatung)
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.12.2021: Mit den Nebelkappen kommen auch die Violetten Rötelritterlinge, unser aktueller [Fundkorbpilz](AA "Glossar-"). Oft teilen sie sich ihren Standort an Waldwegrändern. Die Nebelkappen lassen wir stehen, die Rötelritterlinge können wir mitnehmen. Sie sind essbar und gute Speisepilze.
 
 - - -
 
