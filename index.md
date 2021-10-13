@@ -24,6 +24,8 @@ footer_scripts:
 
 12.12.2021: Mit den Nebelkappen kommen auch die Violetten Rötelritterlinge, unser aktueller [Fundkorbpilz](AA "Glossar-"). Oft teilen sie sich ihren Standort an Waldwegrändern. Die Nebelkappen lassen wir stehen, die Rötelritterlinge können wir mitnehmen. Sie sind essbar und gute Speisepilze.
 
+[Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
+
 - - -
 
 {% include abbildung_start.html stil="standard" %}
