@@ -4,7 +4,7 @@ layout: blank
 
 $.getJSON($(location).attr('origin')+"{{ site.basurl }}"+"/assets/json/glossar.json", function(data) {
   $("a[title='Glossar']").add("a[title='Glossar-']").each( function() {
-    var entry = data.find(x => [x.schlagwort, x.synonym].includes($(this).attr("href")));
+    var entry = data.find(x => [x.schlagwort, x.synonym, x.slug].includes($(this).attr("href")));
     if(typeof entry !== 'undefined') {
       var synonym = (typeof entry.synonym !== 'undefined' && entry.synonym != '') ? " (" + entry.synonym + ")" : "";
       var tooltipText = "";
