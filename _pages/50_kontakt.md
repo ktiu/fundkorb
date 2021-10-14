@@ -5,5 +5,4 @@ permalink: kontakt
 footer_scripts:
   - assets/js/addFormValidation.js
 ---
-
-{% include kontaktformular.html %}
+dgewalt@web.de
