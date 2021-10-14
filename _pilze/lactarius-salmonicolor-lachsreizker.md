@@ -29,8 +29,8 @@ literatur:
 Der Lachsreizker ist eine der sechs häufigsten Blutreizkerarten Deutschlands. Ich finde ihn fast in jedem Jahr im Nordschwarzwald zu Hunderten bei Weißtannen auf saurem Boden. Die Art geht eine [Mykorrhiza](Mykorrhiza "Glossar") nur mit Weißtannen ein.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/lactarius_salmonicolor_02_bm.jpg" %}
-{% include bild.html datei="/bilder/lactarius_salmonicolor_03_bm.jpg" %}
+{% include bild.html datei="/bilder/lactarius_salmonicolor_02_bm.jpg" gross=true %}
+{% include bild.html datei="/bilder/lactarius_salmonicolor_03_bm.jpg" gross=true %}
 {% include abbildung_ende.html %}
 
 Er ist meist leicht am Fundort erkennbar durch folgende Merkmale:\
