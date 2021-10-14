@@ -40,7 +40,7 @@ Der Ockerblättrige Weißtäubling zählt nach der *Sarmari*-Systematik zur Sekt
 
 **Fleisch** - cremefarben, fest, über den Lamellen dick.
 
-**Geruch** - stark fruchtig
+**Geruch** - obstig
 
 **Geschmack** - zuerst mild, dann bitterlich und zusammenziehend.
 
