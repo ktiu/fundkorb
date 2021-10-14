@@ -14,7 +14,17 @@ footer_scripts:
 
 - - -
 
-##### **Ab Sonntag, 10. Oktober 2021, wieder Pilzberatung im Gesundheitsamt der Stadt Frankfurt**  [\>>>](/pilzberatung)
+##### **Kostenlose Pilzberatung im Gesundheitsamt der Stadt Frankfurt vom 10. Oktober bis 7. November 2021  [\>>>](/pilzberatung)**
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/mycena_zephirus_04_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+Unser aktueller [Fundkorbpilz](AA "Glossar-") am 14.12.2021 ist der Rostige Helmling Mycena zephirus. Für mich ist er ein zuverlässiger Anzeiger, dass es Herbst geworden ist in unseren Wäldern. Er kann sich zu echten Bodenbedeckern entwickeln und schon das ist eines seiner markanten Merkmale, an denen er gut zu erkennen ist. Manchmal sind 20, 30 oder mehr Quadratmeter Walboden dicht mit ihnen bewachsen. Kein anderer Helmling hat eine vergleichbare Wuchsweise. Ein anderes Merkmal sind die rostfarbenen Flecken auf den Hüten, die sich aber meist erst beim Altern zeigen. Auffällig auch, dass manche Fruchtkörper vom [Helmlings-Schimmel Spinellus fusiger](/pilze/spinellus-fusiger-helmlings-schimmel) befallen sind, die man als bezaubernd schöne Zierde bezeichnen kann. Dass es unter den Helmlingen keine Speisepilze gibt, sei nur am Rande erwähnt.
+
+[Mehr lesen >](/pilze/mycena-zephirus-rostiger-helmling)
 
 - - -
 
@@ -35,32 +45,6 @@ footer_scripts:
 11.12.2021: Es gibt eine ganze Reihe von Pilzen, die anzeigen, dass der Herbst gekommen und die Nächte kälter geworden sind. Ein typischer Vertreter ist der Nebelgraue Trichterling Clitocybe nebularis, kurz auch Nebelkappe genannt. Dass so viele von ihnen in Reihen und Hexenringen an Waldwegrändern herumstehen, besagt schon etwas über ihren kulinarischen Wert. Wären sie leckere Speisepilze, wären sie längst schon weggesammelt. Zudem können sie Magen-Darm-Beschwerden verursachen und sollen sogar genschädigend sein.
 
 [Mehr lesen >](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_bernardii_01_dg-.jpg" %}
-{% include abbildung_ende.html %}
-
-06.10.2021: Bei Familie P. in Dietzenbach heißt er Schwimmbad-Champignon, in der Fachliteratur Agaricus bernardii = Salzwiesen-Champignon. Was aber hat unser aktueller [Fundkorbpilz](AA "Glossar-") mit dem Swimminpool der Dietzenbacher Familie zu tun? Logische Erklärung: Der Pool im Garten ist mit Salzwasser gefüllt und wenn da mal was über den Beckenrand schwappt ist die Substratanforderung des Salzwiesen-Champignons gegeben. Der kommt ansonsten in Deutschland im Küstenbereich von Nord- und Ostsee vor aber auch nach winterlicher Salzstreuung an Straßenrändern. Bei Familie P. jetzt schon zum dritten Mal. 
-
-[Mehr lesen >](/pilze/agaricus-bernardii-salzwiesen-egerling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinopsis_patouillardii_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 05.10.2021 ist ein kleiner Tintling, der auf meinem Balkon in einem Pflanztopf gewachsen ist. Übrigens nicht zum ersten Mal. Er ist fast genau so schnell wieder verschwunden wie er aufgetaucht ist. Er heißt Eintags-Tintling (Coprinopsis patouillardii) und das nennt seine Kurzlebigkeit beim Namen. Er hat eine Vorliebe für natürlich gedüngte Böden, was durchaus zu unserem Pflanztopf passt. Dessen Erde war mit trockenem Pferdemist angereichert worden. In Thailand habe ich ihn auf Elefantendung gesehen. Mit seinen elegant geschweiften Hütchen ist er ein hübscher Anblick.
-
-[Mehr lesen >](/pilze/coprinopsis-patouillardii-eintags-tintling)
-
-<div style="clear:  both"></div>
 
 - - -
 
