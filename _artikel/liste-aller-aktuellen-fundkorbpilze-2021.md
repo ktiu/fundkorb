@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-12.10.2021 [Lepista nuda - Violetter Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling)  
+14.10.2021 [Mycena zephirus - Rostiger Helmling](/pilze/mycena-zephirus-rostiger-helmling)  
+12.10.2021 [Lepista nuda - Violetter Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling)\
 11.10.2021 [Clitocybe nebularis - Nebelgrauer Trichterling, Nebelkappe](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)\
 06.10.2021 [Agaricus bernardii - Salzwiesen-Champignon](/pilze/agaricus-bernardii-salzwiesen-egerling)\
 05.10.2021 [Coprinopsis patouillardii - Eintags-Tintling](/pilze/coprinopsis-patouillardii-eintags-tintling)\
