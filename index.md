@@ -22,9 +22,9 @@ footer_scripts:
 {% include bild.html datei="/bilder/lactarius_deliciosus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-16.10.2012: Aktueller [Fundkorbpilz](AA "Glossar-")  ist einer besten Speisepilze überhaupt: Lactarius deliciosus, der Edelreizker. Darauf weisen schon die Begriffe deliciosus und Edel hin. Man sollte ihn dezent gewürzt und in der Pfanne cross gebraten genießen. Auch für die Fritteuse ist er bestens geeignet. Der Edelreizer ist ein obligater Kiefernbegleiter und in manchen Jahren und manchen Wäldern Massenpilz ohne besondere Ansprüche an die Bodenbeschaffenheit zu stellen. Es gibt einige ähnliche Reizkerarten, die nicht immer leicht zu unterscheiden sind und zum Teil andere Mykorrhizapartner haben. Sie gehören zu den karottenrot milchenden Arten, die jedoch keine Flüssigkeit in Tropfenform abgeben sondern im Anschnitt lediglich etwas nass werden.
+16.10.2012: Aktueller [Fundkorbpilz](AA "Glossar-")  ist einer besten Speisepilze überhaupt: Lactarius deliciosus, der Edelreizker. Darauf weisen schon die Begriffe deliciosus und Edel hin. Man sollte ihn dezent gewürzt und in der Pfanne cross gebraten genießen. Auch für die Fritteuse ist er bestens geeignet. Der Edelreizer ist ein obligater Kiefernbegleiter und in manchen Jahren und manchen Wäldern Massenpilz ohne besondere Ansprüche an die Bodenbeschaffenheit zu stellen. Es gibt einige ähnliche Reizkerarten, die nicht immer leicht zu unterscheiden sind und zum Teil andere [Mykorrhizapartner](Mykorrhiza "Glossar") haben. Sie gehören zu den karottenrot milchenden Arten, die jedoch keine Flüssigkeit in Tropfenform abgeben sondern im Anschnitt lediglich etwas nass werden.
 
-Mehr schauen und lesen >
+[Mehr schauen und lesen >](/pilze/lactarius-deliciosus-edelreizker)
 
 <div style="clear:  both"></div>
 
