@@ -18,11 +18,23 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_deliciosus_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.10.2012: Aktueller [Fundkorbpilz](AA "Glossar-")  ist einer besten Speisepilze überhaupt: Lactarius deliciosus, der Edelreizker. Darauf weisen schon die Begriffe deliciosus und Edel hin. Man sollte ihn dezent gewürzt und in der Pfanne cross gebraten genießen. Auch für die Fritteuse ist er bestens geeignet. Der Edelreizer ist ein obligater Kiefernbegleiter und in manchen Jahren und manchen Wäldern Massenpilz ohne besondere Ansprüche an die Bodenbeschaffenheit zu stellen. Es gibt einige ähnliche Reizkerarten, die nicht immer leicht zu unterscheiden sind und zum Teil andere Mykorrhizapartner haben. Sie gehören zu den karottenrot milchenden Arten, die jedoch keine Flüssigkeit in Tropfenform abgeben sondern im Anschnitt lediglich etwas nass werden.
+
+Mehr schauen und lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/mycena_zephirus_04_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-Unser aktueller [Fundkorbpilz](AA "Glossar-") am 14.10.2021 ist der Rostige Helmling Mycena zephirus. Für mich ist er ein zuverlässiger Anzeiger, dass es Herbst geworden ist in unseren Wäldern. Er kann sich zu echten Bodenbedeckern entwickeln und schon das ist eines seiner markanten Merkmale, an denen er gut zu erkennen ist. Manchmal sind 20, 30 oder mehr Quadratmeter Walboden dicht mit ihnen bewachsen. Kein anderer Helmling hat eine vergleichbare Wuchsweise. Ein anderes Merkmal sind die rostfarbenen Flecken auf den Hüten, die sich aber meist erst beim Altern zeigen. Auffällig auch, dass manche Fruchtkörper vom [Helmlings-Schimmel Spinellus fusiger](/pilze/spinellus-fusiger-helmlings-schimmel) befallen sind, die man als bezaubernd schöne Zierde bezeichnen kann. Dass es unter den Helmlingen keine Speisepilze gibt, sei nur am Rande erwähnt.
+Unser aktueller [Fundkorbpilz](AA "Glossar-") am 14.10.2021 ist der Rostige Helmling Mycena zephirus. Für mich ist er ein zuverlässiger Anzeiger, dass es Herbst geworden ist in unseren Wäldern. Er kann sich zu echten Bodenbedeckern entwickeln und schon das ist eines seiner markanten Merkmale, an denen er gut zu erkennen ist. Manchmal sind 20, 30 oder mehr Quadratmeter Waldboden dicht mit ihnen bewachsen. Kein anderer Helmling hat eine vergleichbare Wuchsweise. Ein anderes Merkmal sind die rostfarbenen Flecken auf den Hüten, die sich aber meist erst beim Altern zeigen. Auffällig auch, dass manche Fruchtkörper vom [Helmlings-Schimmel Spinellus fusiger](/pilze/spinellus-fusiger-helmlings-schimmel) befallen sind, die man als bezaubernd schöne Zierde bezeichnen kann. Dass es unter den Helmlingen keine Speisepilze gibt, sei nur am Rande erwähnt.
 
 [Mehr lesen >](/pilze/mycena-zephirus-rostiger-helmling)
 
