@@ -18,6 +18,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/hebeloma_pallidoluctuosum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.10.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der durch seinen ungewöhnlichen Geruch auffällt: *Hebeloma pallidoluctuosum*, der *Schwärzende Duft-Fälbling*. Der Geruch wird allerdings nicht jedem geläufig sein. Wer hat heutzutage noch Linoleumböden, die mit Bohnerwachs gepflegt werden mussten. Nach Bohnerwachs - das ist genau der typische, unverwechselbare Geruch unseres Pilzes, der dadurch zu den leicht kenntlichen Arten in einer ansonsten schwierigen Gattung zählt, in der es übrigens keine Speisespilze gibt.
+
+[Mehr lesen >](/pilze/hebeloma-pallidoluctuosum-schwärzender-duft-fälbling)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_deliciosus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
