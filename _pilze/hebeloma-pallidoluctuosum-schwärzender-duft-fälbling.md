@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Schwärzender Duft-Fälbling
   referenz: "Gröger & Zschiesch. 1984 "
   familie: Hymenogastraceae
-  synonym: "Synonyme: Hebeloma acchariolens var. pallidoluctuosum, Hebeloma latifolium"
+  synonym: "Synonyme: Hebeloma sacchariolens var. pallidoluctuosum, Hebeloma latifolium"
   erlaeuterung: pallidoluctuosum = blass düster
 profil:
   aktualisiert: 2020-09-07
