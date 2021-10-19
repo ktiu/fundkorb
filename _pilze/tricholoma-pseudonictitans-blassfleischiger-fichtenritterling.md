@@ -30,10 +30,10 @@ Einige Ritterlingsarten fruktifizieren bis in den Spätherbst hinein. So auch de
 
 Die **Hüte** sind fuchsig braun mit hellerem Randbereich, glatt, konvex oder stumpf gebuckelt, am Rand ungerieft und bei nassem Wetter dick verschleimt. Sie erreichen nach BAS, C. et al. (1999) Durchmesser  von bis zu 100 mm. Die **Stiele** sind zylindrisch oder nach unten hin etwas verdickt, alt enghohl, cremefarben mit brauner Überfaserung. Die **Lamellen** sind ausgebuchtet angewachsen ("Burggraben") und im jungen Zustand blass gelblich, werden jedoch bald hell bräunlich und gerne braunfleckig. Das **Fleisch** von Hut und oberem Stielbereich ist cremefarben bis blass gelblich, im jungen Zustand in der Stielrinde auch stärker gelb. Es schmeckt deutlich nach Mehl und riecht im frischen Anschnitt ebenfalls nach Mehl.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tricholoma-pseudonictitans_03_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/tricholoma-pseudonictitans_04_bm.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Abb. links: Sporen (Präparat in Phloxin) -- Abb. rechts: Querschnitt durch die Huthaut (Färbung mit Tannin-Eisen-Toluidinblau)" %}
 
 Die **Sporen** sind breit ellipsoid, glatt, [hyalin](hyalin "Glossar") und mit einem großen Tropfen ausgestattet. Eine Stichprobe von 29 repräsentativen Sporen ergab in der Hochrechnung (95-prozentiges Vertrauensintervall) folgende Mittelwerte: Lav x Bav =  6,6-6,9 x 5,0-5,3 µm; Qav = 1,29-1,35; Vav = 86-100 µm3 (mit L Länge, B Breite, Q Schlankheitsgrad = L/B, V Volumen). Die **Huthaut** besteht, zumindest bei meinen Fund-Exemplaren, aus einer sehr dicken, schleimigen Schicht liegender, etwa 3-4 µm dicker [Hyphen](Hyphen "Glossar") (Ixokutis).
 
