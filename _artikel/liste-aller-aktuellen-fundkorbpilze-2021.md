@@ -2,7 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-19.10.2021 [Hebeloma pallidoluctuosum - Schwärzender Duft-Fälbling](<Hebeloma pallidoluctuosum - Schwärzender Duft-Fälbling>)  
+19.10.2021 [Hebeloma pallidoluctuosum - Schwärzender Duft-Fälbling](/pilze/hebeloma-pallidoluctuosum-schwärzender-duft-fälbling)\
 16.10.2021 [Lactarius deliciosis - Edelreizker](/pilze/lactarius-deliciosus-edelreizker)\
 14.10.2021 [Mycena zephirus - Rostiger Helmling](/pilze/mycena-zephirus-rostiger-helmling)\
 12.10.2021 [Lepista nuda - Violetter Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling)\
