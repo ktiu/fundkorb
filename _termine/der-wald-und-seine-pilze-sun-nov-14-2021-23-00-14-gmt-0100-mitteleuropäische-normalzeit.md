@@ -1,6 +1,6 @@
 ---
 aktivitaet: Der Wald und seine Pilze
-zeit: 2021-11-14T22:00:14.988Z
+zeit: 2021-11-14T10:00:14.988Z
 anmeldung_offen: false
 published: true
 ---
