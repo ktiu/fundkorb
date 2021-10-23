@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
+23.10.2021 [Cantharellus tubaeformis - Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)  
 19.10.2021 [Hebeloma pallidoluctuosum - Schwärzender Duft-Fälbling](/pilze/hebeloma-pallidoluctuosum-schwärzender-duft-fälbling)\
 16.10.2021 [Lactarius deliciosis - Edelreizker](/pilze/lactarius-deliciosus-edelreizker)\
 14.10.2021 [Mycena zephirus - Rostiger Helmling](/pilze/mycena-zephirus-rostiger-helmling)\
