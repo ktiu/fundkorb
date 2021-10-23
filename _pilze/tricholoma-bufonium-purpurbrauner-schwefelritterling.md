@@ -35,7 +35,7 @@ Der ähnliche [Schwefelritterling Tricholoma sulphureum](/pilze/tricholoma-sulph
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/tricholoma_busonium_02_bm.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Fund am Schelmenbusch bei Straubenhardt (Baden-Württemberg)" %}
 
 Die Sporen sind [hyalin](hyalin "Glossar"), dünnwandig, lang ellipsoid bis lang mandelförmig. Aus einer Stichprobe von 27 repräsentativen Sporen des Fundes (95-prozentiges Vertrauensintervall) hochgerechnete Mittelwerte: Lav x Bav = 10,1-10,8 x 5,6-6,0 µm, Qav = 1,77-1,88; Vav = 170-200 µm3
 
