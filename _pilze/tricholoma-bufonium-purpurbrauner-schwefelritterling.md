@@ -27,8 +27,8 @@ starker, unangenehmer Geruch\
 Vorkommen bei Fichten im Bergwald, seltener im Flachland
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/tricholoma_busonium_03_bm.jpg" %}
-{% include bild.html datei="/bilder/tricholoma_busonium_04_bm.jpg" %}
+{% include bild.html datei="/bilder/tricholoma_busonium_03_bm.jpg" gross=true %}
+{% include bild.html datei="/bilder/tricholoma_busonium_04_bm.jpg" gross=true %}
 {% include abbildung_ende.html legende="Stiel: deutlich längsfaserig -- Hut: Lamellen ungegabelt, jedoch stark mit Lamelletten untermischt" %}
 
 Der ähnliche [Schwefelritterling Tricholoma sulphureum](/pilze/tricholoma-sulphureum-schwefelritterling), mit dem er von manchen Autoren synonymisiert wird, hat einen schwefelgelben Hut und ist an Laubbäume gebunden.
