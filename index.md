@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/cantharellus_tubaeformis_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.10.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein typischer Spätherbstpilz, der seit etwa 14 Tagen in manchen Wäldern so massenhaft wächst, dass man ihn mähen könnte. Es ist der Trompetenpfifferling *Cantharellus tubaeformis*, der wegen seiner falten- oder leistenartigen Fruchtschicht (Hutunterseite) den bekannteren Pfifferlingen ähnelt, zu deren engerer Verwandtschaft er gehört. Im Geschmack unterscheidet er sich ebenso deutlich wie in Form und Farbe. Mit tropetenförmig ist er tatsächlich treffend beschrieben und nahezu unverwechselbar, wenn man einmal von seiner gelbstieligen Varietät absieht. Für die Pfanne ist er uneingeschränkt empfehlenswert.
+
+[Mehr schauen und lesen >](/pilze/cantharellus-tubaeformis-trompetenpfifferling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hebeloma_pallidoluctuosum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,36 +49,6 @@ footer_scripts:
 [Mehr schauen und lesen >](/pilze/lactarius-deliciosus-edelreizker)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/mycena_zephirus_04_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-Unser aktueller [Fundkorbpilz](AA "Glossar-") am 14.10.2021 ist der Rostige Helmling Mycena zephirus. Für mich ist er ein zuverlässiger Anzeiger, dass es Herbst geworden ist in unseren Wäldern. Er kann sich zu echten Bodenbedeckern entwickeln und schon das ist eines seiner markanten Merkmale, an denen er gut zu erkennen ist. Manchmal sind 20, 30 oder mehr Quadratmeter Waldboden dicht mit ihnen bewachsen. Kein anderer Helmling hat eine vergleichbare Wuchsweise. Ein anderes Merkmal sind die rostfarbenen Flecken auf den Hüten, die sich aber meist erst beim Altern zeigen. Auffällig auch, dass manche Fruchtkörper vom [Helmlings-Schimmel Spinellus fusiger](/pilze/spinellus-fusiger-helmlings-schimmel) befallen sind, die man als bezaubernd schöne Zierde bezeichnen kann. Dass es unter den Helmlingen keine Speisepilze gibt, sei nur am Rande erwähnt.
-
-[Mehr lesen >](/pilze/mycena-zephirus-rostiger-helmling)
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.10.2021: Mit den Nebelkappen kommen auch die Violetten Rötelritterlinge, unser aktueller [Fundkorbpilz](AA "Glossar-"). Oft teilen sie sich ihren Standort an Waldwegrändern. Die Nebelkappen lassen wir stehen, die Rötelritterlinge können wir mitnehmen. Sie sind essbar und gute Speisepilze.
-
-[Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/clitocybe_nebularis_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-11.10.2021: Es gibt eine ganze Reihe von Pilzen, die anzeigen, dass der Herbst gekommen und die Nächte kälter geworden sind. Ein typischer Vertreter ist der Nebelgraue Trichterling Clitocybe nebularis, kurz auch Nebelkappe genannt. Dass so viele von ihnen in Reihen und Hexenringen an Waldwegrändern herumstehen, besagt schon etwas über ihren kulinarischen Wert. Wären sie leckere Speisepilze, wären sie längst schon weggesammelt. Zudem können sie Magen-Darm-Beschwerden verursachen und sollen sogar genschädigend sein.
-
-[Mehr lesen >](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)
 
 - - -
 
