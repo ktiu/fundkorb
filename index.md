@@ -18,6 +18,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lepiota_oreadiformis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.10.2021:  Aktueller [Fundkorbpilz](AA "Glossar-") ist mit dem Glatten Schirmling *Lepiota oreadiformis* eine eher seltene Art, die ich im Rhein-Main-Gebiet erst zweimal gefunden habe. Wie alle kleinen Schirmlingsarten ist sie auf den ersten Blick kaum sicher zu bestimmen. Er wächst fast ausschließlich auf Wiesen, Weiden und anderen Rasenflächen, und das könnte immerhin ein Hinweis auf diese Art sein. Andere ähnliche Arten sind eher in Wäldern zu finden.
+
+[Mehr lesen >](/pilze/lepiota-oreadiformis-glatter-schirmling)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cantharellus_tubaeformis_03_dg.jpg" %}
 {% include abbildung_ende.html %}
