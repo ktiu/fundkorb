@@ -30,3 +30,7 @@ In Deutschland sind sechs Ganoderma-Arten nachgewiesen. Eine überschaubare Anza
 {% include abbildung_ende.html %}
 
 Der Hutkruste des Wulstigen Lackporlings lässt sich nicht mit dem Fingernagel eindrücken, sie ist auch nicht von einer festen Harzschicht bedeckt, die man mit einer Streichholzflamme zum Schmelzen bringen könnte. Er ist stiellos am Holz angewachsen. Mit dieser Merkmalskombination ist er gut von allen übrigen Lackporlingen zu unterscheiden. Er meidet offenbar schattige Plätze, ist daher in naturnahen Wäldern nur selten zu finden. Eher trifft man ihn an offenen sommerwarmen Standorten an, wo er Laubbäume in Parkanlagen, Gärten, Friedhöfen, aber auch an Straßen- und Wegrändern befällt und eine Weißfäule verursacht. An toten Bäumen oder Stümpfen kann er auch [saprobiontisch](saprobiontisch "Glossar") überleben. Sein Wirtsspektrum ist enorm. Die meisten kartierten Funde stammen von Buche, Eiche und Linde, aber selbst an Obstbäumen kann er angetroffen werden.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/ganoderma_adspersum_05.jpg" %}
+{% include abbildung_ende.html %}
