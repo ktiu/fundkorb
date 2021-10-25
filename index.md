@@ -18,6 +18,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cortinarius_violaceus_04_gs.jpg" %}
+{% include abbildung_ende.html %}
+
+Mein aktueller [Fundkorbpilz](AA "Glossar-") am 25.10.2021 ist der Violette Schleierling *Cortinarius violaceus*. Es handelt sich um einen stattlichen, vor allem aber wegen seiner dunkelvioletten Farbe auffälligen und beeindruckenden Pilz. Dunkelviolett sind nicht nur die Hüte sondern auch Lamellen und Stiele und sogar das Fleisch. Ein weiteres gutes Merkmal ist seine stets trockene körnig raue Huthaut. Er gehört zu den wenigen essbaren Schleierlingen, soll aber ziemlich muffig schmecken. Wie viele andere Arten aus der riesengroßen und schwierigen Gattung der Cortinarien ist er in diesem Jahr im Rhein-Main-Gebiet und wohl auch anderswo ungewöhnlich häufig. Man könnte 2021 vielleicht als *Jahr der Schleierlinge* bezeichnen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cortinarius-violaceus-violetter-schleierling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/lepiota_oreadiformis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
