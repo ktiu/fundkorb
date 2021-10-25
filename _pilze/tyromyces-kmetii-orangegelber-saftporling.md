@@ -32,8 +32,8 @@ Saftporlinge zeichnen sich durch weiche Fruchtkörper mit beachtlichem Wassergeh
 Er bildet konsolenförmige (in jungem Stadium rundliche, knubbelige) Fruchtkörper, die nach unseren Beobachtungen bis zu 12 cm breit werden und bis zu 8 cm vom Substrat abstehen können, wobei sie mitunter einen stielartigen Ansatz ausbilden. Die Oberfläche ist fein filzig bis striegelig, die Farben können erheblich variieren von gelblich, hell orange, blass creme bis rosa oder aprikosenfarben, dazu weißlich überhaucht, und das auf einem einzigen Pilz. Der Rand ist dünn und meist etwas heller. Im Alter schrumpft er zusammen und verliert zunehmend sein schönes Aussehen. Seine attraktiven Pastellfarben machen ihn nahezu unverwechselbar.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/tyromyces_kmetii_04_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/tyromyces_kmetii_05_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/tyromyces_kmetii_04_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/tyromyces_kmetii_05_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Foto rechts: Die Poren sind sehr fein (3 - 4 pro mm), weißlich bis hellgelb, und unregelmäßig eckig geformt (Lupe!)" %}
 
 {% include abbildung_start.html stil="mittel" %}
