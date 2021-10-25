@@ -26,7 +26,7 @@ Alle Haarschleierlinge besitzen ein spinnwebartiges [Velum](Velum "Glossar"), da
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cortinarius_violaceus_03_dg.jpg" %}
-{% include abbildung_ende.html legende="Die „Begleitpilze“ auf diesem Foto sind Öhrlinge (Hasenohren)" %}
+{% include abbildung_ende.html legende="Die „Begleitpilze“ auf diesem Foto sind Öhrlinge (Eselsohren)" %}
 
 Fruchtkörper des Violetten Schleierlings sind völlig trocken, die dunkelviolette, im Alter nahezu schwarzbraune Huthaut ist filzig-schuppig. Auch die Lamellen sind violett, verfärben sich bei der Reife durch ausfallendes Sporenpulver bräunlich. Mit der Lupe erkennt man, dass die Lamellenschneiden etwas flockig sind. Ebenfalls violett ist das Fleisch des Pilzes, dazu marmoriert und mild im Geschmack. Da er der einzige in allen Teilen violett gefärbte Schleierling ist, ist er kaum mit anderen zu verwechseln. Lt. Literatur ist er essbar; ich habe ihn noch nie in der Küche getestet und kenne auch niemanden, der ihn schon probiert hätte.
 
