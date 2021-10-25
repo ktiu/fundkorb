@@ -86,7 +86,6 @@ Kartoffelboviste gehören zur Gruppe der Bauchpilze (Gasteromyzeten), die ihre S
 {% include abbildung_ende.html %}
 
 
-
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/xerocomus_parasiticus_06_dg.jpg" %}
 {% include abbildung_ende.html legende="Bei diesem aufgeschnittenen Kartoffelbovist ist bereits zu sehen, dass er vom Schmarotzerröhrling  befallen ist. Das Foto zeigt die Veränderungen im Inneren des Fruchtkörpers, bevor der parasitierende Pilz die Exoperidie (Außenhaut) durchbricht" %}
