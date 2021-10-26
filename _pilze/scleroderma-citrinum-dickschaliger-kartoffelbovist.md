@@ -81,10 +81,11 @@ Kartoffelboviste gehören zur Gruppe der Bauchpilze (Gasteromyzeten), die ihre S
 </table>
 </div>
 
+Bemerkenswert: Der Dickschalige Kartoffelbovist wird manchmal vom [Schmarotzer-Röhrling](/pilze/xerocomus-parasiticus-schmarotzer-röhrling) parasitiert. Dessen Fruchtkörper wachsen von unten aus dem Bovist heraus und verhindern, dass der befallene Wirt zur Sporenreife gelangt. Dies ist vor allem bei Kartoffelbovisten zu beobachten, die in nicht optimaler Umgebung (feuchte Standorte) wachsen. 
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/xerocomus_parasiticus_05_dg.jpg" %}
 {% include abbildung_ende.html %}
-
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/xerocomus_parasiticus_06_dg.jpg" %}
