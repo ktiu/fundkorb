@@ -18,8 +18,8 @@ Das Foto sagt genug. Unter den Schleimpilzen gibt es keinen, der so oder ähnlic
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/ceratiomyxa-porioides_02_dg.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Das Weiße Netzpolster kann auch mal gelblich sein" %}
 
 Man findet das Weiße Netzpolster recht häufig in Wäldern, wo es sich gern in Spalten morscher Baumstümpfe oder auf blankem Totholz ansiedelt.
 
-Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
+Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht's zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
