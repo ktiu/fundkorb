@@ -24,7 +24,7 @@ Streng an Birke gebunden sind zwei Milchlingsarten, die auch Reizker genannt wer
 
 In typischer Erscheinungsform ist *Lactarius torminosus* dagegen unschwer zu erkennen. Als mittelgroße Art erreichen die Hüte 10 cm Durchmesser, selten auch etwas mehr. Der Rand bleibt lange eingerollt und junge Fruchtkörper bieten mit ihren rundlichen, noch geschlossenen Köpfen und dem fusseligen Haarnetz einen reizvollen Anblick.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lactarius_torminosus_03_nk.jpg" %}
 {% include bild.html datei="/bilder/lactarius_torminosus_04_nk.jpg" %}
 {% include abbildung_ende.html legende="2 Fotos: Norbert Kühnberger" %}
