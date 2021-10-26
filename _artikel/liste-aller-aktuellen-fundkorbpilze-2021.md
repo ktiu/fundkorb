@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-25.10.2021 [Cortinarius violaceus - Violetter Schleierling](<Cortinarius violaceus - Violetter Schleierling>)  
+26.10.2021 [Tricholoma terreum - Gemeiner Erdritterling](/pilze/tricholoma-terreum-gemeiner-erdritterling)  
+25.10.2021 [Cortinarius violaceus - Violetter Schleierling](<Cortinarius violaceus - Violetter Schleierling>)\
 24.10.2021 [Lepiota oreadiformis - Glatter Schirmling](/pilze/lepiota-oreadiformis-glatter-schirmling)\
 23.10.2021 [Cantharellus tubaeformis - Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)\
 19.10.2021 [Hebeloma pallidoluctuosum - Schwärzender Duft-Fälbling](/pilze/hebeloma-pallidoluctuosum-schwärzender-duft-fälbling)\
