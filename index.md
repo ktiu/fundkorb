@@ -18,6 +18,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/tricholoma_terreum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.10.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Erdritterling *Tricholoma terreum*. Auch der hat gerade Hochsaison. Wenn man partout nichts Besseres findet, darf er auch mal in Pfanne. Allerdings gibt es eine größere Anzahl verschiedener Erd- und anderer Ritterlinge, die ähnlich aussehen und grau sind. Wenn sie bei Kiefern wachsen, weder scharf noch mehlig noch ranzig schmecken, nicht unangenehm riechen, wenn das Fleisch weder gilbt noch rötet, der Hut keine abstehenden oder auffälligen Schuppen hat und es kein giftigerTigerritterling ist, spricht nichts gegen den Gemeinen Erdritterling. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tricholoma-terreum-gemeiner-erdritterling)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cortinarius_violaceus_04_gs.jpg" %}
 {% include abbildung_ende.html %}
