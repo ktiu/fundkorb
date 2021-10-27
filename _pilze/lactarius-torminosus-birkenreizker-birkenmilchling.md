@@ -31,4 +31,8 @@ In typischer Erscheinungsform ist *Lactarius torminosus* dagegen unschwer zu erk
 
 Die gedrängt stehenden Lamellen sind weiß bis blass creme gefärbt, die meisten nahe am Stielansatz gegabelt. Das ebenfalls weiß bis hellceme gefärbte Fleisch ist spröde, im Geschmack ebenso scharf wie die bei Verletzung austretende Milch. Diese ist weiß, färbt aber beim Abtupfen ein weißes Taschentuch gelblich. Die walzenförmigen Stiele sind weißlich bzw. hell rosa überhaucht und werden im Alter hohl. Die Sporenpulverfarbe ist rahmweiß, die feinwarzigen, teilweise netzigen Sporen messen 8 - 10 x 6 - 8 µm.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lactarius_torminosus_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 Die Art ist nicht gerade häufig aber in- und außerhalb von Wäldern immer mal wieder anzutreffen. In Deutschland ist sie sicher weiter verbreitet als die aktuelle [Verbreitungskarte der DGfM](https://www.pilze-deutschland.de/organismen/lactarius-torminosulus-knudsen-t-borgen-1996-1) mit nur wenigen Fundmarkierungen vermuten lässt. Die Haupterscheinungszeit ist August bis Oktober. Als Speisepilz kommt der Birkenreizker wie alle scharf schmeckenden Milchlinge und Täublinge nicht in Frage, was manche Pilzfreunde in Osteuropa durchaus anders beurteilen. Dort werden manche scharfen Milchlinge einer speziellen Vorbehandlung unterzogen und gegessen.
