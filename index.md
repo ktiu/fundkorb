@@ -18,6 +18,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_bisporus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.10.2021:  Mein ganz spezieller aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Zuchtchampignon *Agaricus bisporus*. Es gibt ihn nämlich nicht nur im Supermarktregal sondern hin und wieder  auch in freier Natur. Dort wird er nur selten erkannt, weil man ihn da nicht vermutet. Dabei ist die weiße Form leicht von anderen weißen Champignons und die braune ebenso leicht von anderen braunen Champignons zu unterscheiden. Es sind die einzigen mit ausschließlich zweisporigen [Basidien](Basidien "Glossar"). Um die zu sehen, reicht keine Lupe. Da muss man schon mit dem Mikroskop ran. Wegen der zweisporigen Basidien wird der Zuchtchampigon auch Zweisporiger Egerling genannt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agaricus-bisporus-zucht-champignon)
+
+<div style="clear:  both"></div> 
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/tricholoma_terreum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -35,50 +47,6 @@ footer_scripts:
 Mein aktueller [Fundkorbpilz](AA "Glossar-") am 25.10.2021 ist der Violette Schleierling *Cortinarius violaceus*. Es handelt sich um einen stattlichen, vor allem aber wegen seiner dunkelvioletten Farbe auffälligen und beeindruckenden Pilz. Dunkelviolett sind nicht nur die Hüte sondern auch Lamellen und Stiele und sogar das Fleisch. Ein weiteres gutes Merkmal ist seine stets trockene körnig raue Huthaut. Er gehört zu den wenigen essbaren Schleierlingen, soll aber ziemlich muffig schmecken. Wie viele andere Arten aus der riesengroßen und schwierigen Gattung der Cortinarien ist er in diesem Jahr im Rhein-Main-Gebiet und wohl auch anderswo ungewöhnlich häufig. Man könnte 2021 vielleicht als *Jahr der Schleierlinge* bezeichnen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cortinarius-violaceus-violetter-schleierling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/lepiota_oreadiformis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.10.2021:  Aktueller [Fundkorbpilz](AA "Glossar-") ist mit dem Glatten Schirmling *Lepiota oreadiformis* eine eher seltene Art, die ich im Rhein-Main-Gebiet erst zweimal gefunden habe. Wie alle kleinen Schirmlingsarten ist sie auf den ersten Blick kaum sicher zu bestimmen. Er wächst fast ausschließlich auf Wiesen, Weiden und anderen Rasenflächen, und das könnte immerhin ein Hinweis auf diese Art sein. Andere ähnliche Arten sind eher in Wäldern zu finden.
-
-[Mehr lesen >](/pilze/lepiota-oreadiformis-glatter-schirmling)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cantharellus_tubaeformis_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.10.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein typischer Spätherbstpilz, der seit etwa 14 Tagen in manchen Wäldern so massenhaft wächst, dass man ihn mähen könnte. Es ist der Trompetenpfifferling *Cantharellus tubaeformis*, der wegen seiner falten- oder leistenartigen Fruchtschicht (Hutunterseite) den bekannteren Pfifferlingen ähnelt, zu deren engerer Verwandtschaft er gehört. Im Geschmack unterscheidet er sich ebenso deutlich wie in Form und Farbe. Mit tropetenförmig ist er tatsächlich treffend beschrieben und nahezu unverwechselbar, wenn man einmal von seiner gelbstieligen Varietät absieht. Für die Pfanne ist er uneingeschränkt empfehlenswert.
-
-[Mehr schauen und lesen >](/pilze/cantharellus-tubaeformis-trompetenpfifferling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hebeloma_pallidoluctuosum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.10.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der durch seinen ungewöhnlichen Geruch auffällt: *Hebeloma pallidoluctuosum*, der *Schwärzende Duft-Fälbling*. Der Geruch wird allerdings nicht jedem geläufig sein. Wer hat heutzutage noch Linoleumböden, die mit Bohnerwachs gepflegt werden mussten. Nach Bohnerwachs - das ist genau der typische, unverwechselbare Geruch unseres Pilzes, der dadurch zu den leicht kenntlichen Arten in einer ansonsten schwierigen Gattung zählt, in der es übrigens keine Speisespilze gibt.
-
-[Mehr lesen >](/pilze/hebeloma-pallidoluctuosum-schwärzender-duft-fälbling)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_deliciosus_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.10.2012: Aktueller [Fundkorbpilz](AA "Glossar-")  ist einer besten Speisepilze überhaupt: Lactarius deliciosus, der Edelreizker. Darauf weisen schon die Begriffe deliciosus und Edel hin. Man sollte ihn dezent gewürzt und in der Pfanne cross gebraten genießen. Auch für die Fritteuse ist er bestens geeignet. Der Edelreizer ist ein obligater Kiefernbegleiter und in manchen Jahren und manchen Wäldern Massenpilz ohne besondere Ansprüche an die Bodenbeschaffenheit zu stellen. Es gibt einige ähnliche Reizkerarten, die nicht immer leicht zu unterscheiden sind und zum Teil andere [Mykorrhizapartner](Mykorrhiza "Glossar") haben. Sie gehören zu den karottenrot milchenden Arten, die jedoch keine Flüssigkeit in Tropfenform abgeben sondern im Anschnitt lediglich etwas nass werden.
-
-[Mehr schauen und lesen >](/pilze/lactarius-deliciosus-edelreizker)
 
 <div style="clear:  both"></div>
 
