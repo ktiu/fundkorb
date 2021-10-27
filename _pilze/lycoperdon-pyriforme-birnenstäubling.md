@@ -26,6 +26,3 @@ Die Fruchtkörper können bis zu 8 cm hoch werden, wobei der fertile rundliche K
 
 Birnenstäublinge sind in Mitteleuropa recht häufig und vom frühen Sommer bis zum Spätherbst zu finden. Sie gelten zwar als essbar, als schmackhaft kann man sie allerdings nicht bezeichnen.
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/lycoperdon_pyriforme_03_nf.jpg" %}
-{% include abbildung_ende.html legende="Foto: Noel Fleischer" %}
