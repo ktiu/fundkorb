@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tulostoma_fimbriatum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 28.10.2021 ist der Gewimperte Stielbovist *Tulostoma fimbriatum*. Mehr als zwei Dutzend wuchsen vor zwei Jahren in Dietzenbach an einem Straßenrand zwischen Bordsteinkante und einer Baustelle - ein geradezu naturbelassenes Fleckchen Erde! Aber genau solche Biotope scheinen für Stielboviste keineswegs abschreckend zu sein. Jetzt sind wieder einige erschienen, auch wenn die Baustelle längst verschwunden ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tulostoma-fimbriatum-gewimperter-stielbovist)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_bisporus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ footer_scripts:
 26.10.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Erdritterling *Tricholoma terreum*. Auch der hat gerade Hochsaison. Wenn man partout nichts Besseres findet, darf er auch mal in Pfanne. Allerdings gibt es eine größere Anzahl verschiedener Erd- und anderer Ritterlinge, die ähnlich aussehen und grau sind. Wenn sie bei Kiefern wachsen, weder scharf noch mehlig noch ranzig schmecken, nicht unangenehm riechen, wenn das Fleisch weder gilbt noch rötet, der Hut keine abstehenden oder auffälligen Schuppen hat und es kein giftigerTigerritterling ist, spricht nichts gegen den Gemeinen Erdritterling. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tricholoma-terreum-gemeiner-erdritterling)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cortinarius_violaceus_04_gs.jpg" %}
-{% include abbildung_ende.html %}
-
-Mein aktueller [Fundkorbpilz](AA "Glossar-") am 25.10.2021 ist der Violette Schleierling *Cortinarius violaceus*. Es handelt sich um einen stattlichen, vor allem aber wegen seiner dunkelvioletten Farbe auffälligen und beeindruckenden Pilz. Dunkelviolett sind nicht nur die Hüte sondern auch Lamellen und Stiele und sogar das Fleisch. Ein weiteres gutes Merkmal ist seine stets trockene körnig raue Huthaut. Er gehört zu den wenigen essbaren Schleierlingen, soll aber ziemlich muffig schmecken. Wie viele andere Arten aus der riesengroßen und schwierigen Gattung der Cortinarien ist er in diesem Jahr im Rhein-Main-Gebiet und wohl auch anderswo ungewöhnlich häufig. Man könnte 2021 vielleicht als *Jahr der Schleierlinge* bezeichnen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cortinarius-violaceus-violetter-schleierling)
-
-<div style="clear:  both"></div>
 
 - - -
 
