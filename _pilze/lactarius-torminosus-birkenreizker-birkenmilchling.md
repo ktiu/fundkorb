@@ -20,7 +20,7 @@ literatur:
 {% include bild.html datei="/bilder/lactarius_torminosus_02_nk.jpg" %}
 {% include abbildung_ende.html legende="2 Fotos: Norbert Kühnberger" %}
 
-Streng an Birke gebunden sind zwei Milchlingsarten, die auch Reizker genannt werden und mit ihren filzig-zottigen Huträndern ein Merkmal haben, an dem sie leicht zu erkennen sind. Der hier vorgestellte Birkenreizker zeichnet sich durch rosa bis hell rote Hutfarben aus, die eine mehr oder weniger deutliche Zonierung aufweisen. Bei helleren Farben und undeutlicher Zonierung kann es zu Verwechslungen mit der zweiten Art kommen, dem Blassen Birkenreizker *Lactarius pubescens*.
+Streng an Birke gebunden sind zwei Milchlingsarten, die auch Reizker genannt werden und mit ihren filzig-zottigen Huträndern ein Merkmal haben, an dem sie leicht zu erkennen sind. Der hier vorgestellte Birkenreizker zeichnet sich durch rosa bis hell rote Hutfarben aus, die eine mehr oder weniger deutliche Zonierung aufweisen. Bei helleren Farben und undeutlicher Zonierung kann es zu Verwechslungen mit der zweiten Art kommen, dem [Blassen Birkenreizker *Lactarius pubescens*](/pilze/lactarius-pubescens-blasser-birkenreizker-flaumiger-milchling).
 
 In typischer Erscheinungsform ist *Lactarius torminosus* dagegen unschwer zu erkennen. Als mittelgroße Art erreichen die Hüte 10 cm Durchmesser, selten auch etwas mehr. Der Rand bleibt lange eingerollt und junge Fruchtkörper bieten mit ihren rundlichen, noch geschlossenen Köpfen und dem fusseligen Haarnetz einen reizvollen Anblick.
 
