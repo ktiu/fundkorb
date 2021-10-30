@@ -19,12 +19,24 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/xerocomus_pruinatus_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+30.10.2021: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") passt perfekt zur gegenwärtigen Jahreszeit. Es ist das Herbstrotfüßchen *Xerocomus pruinatus*, das jetzt unter Xerocomellus firmiert. In früheren Jahren landete es gewöhnlich als Rotfußröhrling in den Körben der Pilzsammler und das ist bei vielen noch heute so. Was den Geschmackswert betrifft ist das Herbstrotfüßchen gegenüber dem "echten" Rotfüßröhrling sicher die etwas bessere Wahl. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xerocomus-pruinatus-herbstrotfüßchen)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_torminosus_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 29.10.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenreizker Lactarius torminosus. Ein wirklich attraktiver Pilz, zumindest solange er noch jung und der rundliche Kopf noch mit einem fusseligen Haarnetz bedeckt ist. Für die Küche taugt er nicht, zumindest nicht für die mitteleuropäische. Darauf deutet schon der lateinische Artname hin: torminosus bedeutet "Leibschmerzen verursachend". (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/lactarius-torminosus-birkenreizker-birkenmilchling)
+
+<div style="clear:  both"></div> 
 
 - - -
 
