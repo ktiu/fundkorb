@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: fellea = gallenbitter
 profil:
   aktualisiert: 2021-10-31
-  autor_in: Dieter Gewalt
+  autor_in: Bernd Miggel
 hauptbild:
   anzeige: true
   datei: /bilder/russula_fellea_01_bm.jpg
