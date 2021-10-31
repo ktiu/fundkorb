@@ -62,8 +62,8 @@ Will man Täublinge sicher bestimmen, dann sollte man auch bestimmte Huthautelem
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/russula_fellea_06_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/russula_fellea_07_bm.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/russula_fellea_08_bm.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Abb. links: Sporen-Präparat in Melzers Reagenz -- Abb. Mitte: Huthaut-Präparat in NH3-Kongorot, "Haare" und dickere Pileozystiden mit ihrem griesig-grauen Inhalt -- Abb. rechts: Huthaut-Präparat in Sulfovanillin, Latiziferen und Pileozystiden" %}
+{% include bild.html datei="/bilder/russula_fellea_08_bm.jpg" %}
+{% include abbildung_ende.html legende="Abb. links: Sporen-Präparat in Melzers Reagenz -- Abb. Mitte: Huthaut-Präparat in NH3-Kongorot, Haare und dickere Pileozystiden mit ihrem griesig-grauen Inhalt -- Abb. rechts: Huthaut-Präparat in Sulfovanillin, Latiziferen und Pileozystiden" %}
 
 In Sulfovanillin prüft man, ob sich der Inhalt der Pileozystiden schwarz, grau oder gar nicht verfärbt. Die Latiziferen sind als lang geschlängelte, schwarz gefärbte Gebilde zu erkennen, außerdem schwarz gefärbte, schlankkeulige Pileozystiden.
 
