@@ -19,12 +19,24 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/arrhenia-retiruga_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.10.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein Winzling, den man fast schon mit der Lupe suchen muss bzw. erst mit Lupe erkennen kann: Arrhenia retiruga, der Schüsselförmige Adermoosling. Ihre winzigen Fruchtkörperchen werden meist nur 2 - 3 mm groß und erscheinen ausschließlich an Moosen. Der größte, den ich je gesehen habe, brachte es auf sage und schreibe erstaunliche 8 mm! Dass er vor allem in den Spätherbst- und Wintermonaten erscheint, kann ich bestätigen. Dass er selten sein soll, bezweifle ich. Er wird wohl nur übersehen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_pruinatus_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
 30.10.2021: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") passt perfekt zur gegenwärtigen Jahreszeit. Es ist das Herbstrotfüßchen *Xerocomus pruinatus*, das jetzt unter Xerocomellus firmiert. In früheren Jahren landete es gewöhnlich als Rotfußröhrling in den Körben der Pilzsammler und das ist bei vielen noch heute so. Was den Geschmackswert betrifft ist das Herbstrotfüßchen gegenüber dem "echten" Rotfüßröhrling sicher die etwas bessere Wahl. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xerocomus-pruinatus-herbstrotfüßchen)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -36,7 +48,7 @@ footer_scripts:
 
 [Mehr lesen >](/pilze/lactarius-torminosus-birkenreizker-birkenmilchling)
 
-<div style="clear:  both"></div> 
+<div style="clear:  both"></div>
 
 - - -
 
