@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-30.10.2021 [Xerocomus pruinatus - Herbstrotfüßchen](/pilze/xerocomus-pruinatus-herbstrotfüßchen)  
+31.10.2021 [Arrhenia retiruga - Schüsselförmiger Adermoosling](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)  
+30.10.2021 [Xerocomus pruinatus - Herbstrotfüßchen](/pilze/xerocomus-pruinatus-herbstrotfüßchen)\
 29.10.2021 [Lactarius torminosus - Birkenreizker, Birkenmilchling](/pilze/lactarius-torminosus-birkenreizker-birkenmilchling)\
 28.10.2021 [Tulostoma fimbriatum - Gewimperter Stielbovist](/pilze/tulostoma-fimbriatum-gewimperter-stielbovist)\
 27.10.2021 [Agaricus bisporus - Zuchtchampignon](/agaricus-bisporus-zucht-champignon)\
