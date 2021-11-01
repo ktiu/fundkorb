@@ -34,7 +34,9 @@ Die **Hüte** erreichen bis zu 12 cm Durchmesser, sind bei großen Exemplaren sp
 {% include bild.html datei="/bilder/clitocybe_phyllophila_04_bm.jpg" %}
 {% include abbildung_ende.html legende="Hut im Detail – links die sehr dicht stehenden, hellbräunlichen Lamellen, rechts die weiße Hutoberfläche" %}
 
-Die Farbe des ausgefallenen Sporenstaubs ist bei unserer Art creme mit leichtem Rosastich. Die Sporen soll man in Wasser messen. Aber um die bei dieser Art sehr kleinen, dünnwandigen und [hyalinen](hyalin "Glossar") Sporen unter dem Mikroskop überhaupt zu erkennen, fügte ich dem Wasser ein wenig Phloxin hinzu. Die Durchschnittswerte betrugen (95-prozentiges Vertrauensintervall, Stichprobe aus 25 repräsentativen Sporen): Lav x Bav = 4,0-4,1 x 3,1-3,2 µm, Qav = 1,26-1,33, Vav = 20-22 µm3 mit L Länge, B Breite, Q Schlankheitsgrad = L/B, V Volumen, Index av Average (Durchschnitt)
+Den **Geschmack** würde ich beschreiben als mild, etwas ranzig und zusammenziehend und ganz schwacher Anklang an Mehl, später etwas im Hals kratzend. Das unangenehme und leicht kratzende Gefühl in Mund bzw Hals hält noch stundenlang an.
+
+Die Farbe des ausgefallenen **Sporenstaubs** ist bei unserer Art creme mit leichtem Rosastich. Die **Sporen** soll man in Wasser messen. Aber um die bei dieser Art sehr kleinen, dünnwandigen und [hyalinen](hyalin "Glossar") Sporen unter dem Mikroskop überhaupt zu erkennen, fügte ich dem Wasser ein wenig Phloxin hinzu. Die Durchschnittswerte betrugen (95-prozentiges Vertrauensintervall, Stichprobe aus 25 repräsentativen Sporen): Lav x Bav = 4,0-4,1 x 3,1-3,2 µm, Qav = 1,26-1,33, Vav = 20-22 µm3 mit L Länge, B Breite, Q Schlankheitsgrad = L/B, V Volumen, Index av Average (Durchschnitt)
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/clitocybe_phyllophila_05_bm.jpg" %}
