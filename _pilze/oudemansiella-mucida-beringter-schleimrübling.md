@@ -18,6 +18,10 @@ literatur:
 ---
 Es gibt nicht viele Blätterpilze, die man aus 10 m Entfernung sicher erkennen kann. Der Beringte Schleimrübling ist so einer und ein besonders attraktiver. Aus der Nähe betrachtet fällt zunächst die zähe Schleimschicht auf, die den weißen Hut überzieht. Wenn man einen der Pilze anfasst, kann es sein, dass er einem aus den Fingern glitscht. Die Hutdurchmesser erreichen 4 - 8 cm. Die entfernt stehenden Lamellen sind mehrfach mit kürzeren untermischt und im Gegenlicht betrachtet plastisch durchscheinend und wunderschön. Diese kürzeren Lamellen zwischen den durchgehenden werden Lameletten genannt.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/oudemansiella_mucida_08_mhe.jpg" %}
+{% include abbildung_ende.html legende="Foto: Monika Henn" %}
+
 Auch die schlanken Stiele sind unterhalb der Ringzone schmierig-schleimig und zeigen zur Basis hin ein graues natternartiges Muster. Der Ring ist oberseits weiß, unten grau bis grauschwärzlich.
 
 Man findet den Pilz ganz überwiegend an totem Buchenholz, an stehenden Stämmen manchmal in bis zu 5 m Höhe. Er wird auch Buchen-Schleimrübling genannt und kommt vor allem in den Monaten September und Oktober vor, bei milder Witterung auch noch im November. Im Hainbachtal bei Offenbach haben wir einen liegenden Buchenstamm gesehen, der auf rund 10 m Länge über und über mit den Pilzen bewachsen war.

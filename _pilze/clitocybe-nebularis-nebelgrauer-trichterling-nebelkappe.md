@@ -33,7 +33,7 @@ Der Nebelgraue Trichterling ist ein typischer Spätherbstpilz. Er fällt durch s
 {% include bild.html datei="/bilder/clitocybe_nebularis_05_dg.jpg" %}
 {% include abbildung_ende.html legende="Aus dieser Perspektive sind Nebelkappen nicht unbedingt auf Anhieb zu erkennen (02.12.2019, Wald bei Dietzenbach)" %}
 
-
+Nebelkappen können sehr große werden. Mein Rekordexemplar hatte 66 cm Hutdurchmesser, war aber schon so vergammelt, dass ich es nicht angefasst habe.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/clitocybe_nebularis_06_gg.jpg" nocrop=true %}

@@ -27,3 +27,9 @@ Trompetenpfifferlinge findet man vor allem in moosigen Nadelwäldern, manchmal i
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cantharellus_tubaeformis_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="gut mit Trompetenpfifferlingen gefüllter Sammelkorb, angereichert mit Violetten Lacktrichterlingen" %}
+
+cccx
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/cantharellus-tubaeformis_05_dg.jpg" %}
+{% include abbildung_ende.html legende="Bei älteren Fruchtkörpern kann man oft auch zahlreiche Querverbindungen zwischen den Leisten erkennen" %}

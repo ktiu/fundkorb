@@ -7,6 +7,7 @@ beschreibung:
   familie: Chaetomiaceae
 profil:
   aktualisiert: 2021-02-01
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/chaetomium_bostrychodes_01_dg.jpg

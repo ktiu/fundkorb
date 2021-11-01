@@ -2,7 +2,14 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-24.10.2021 [Lepiota oreadiformis - Glatter Schirmling](/pilze/lepiota-oreadiformis-glatter-schirmling)  
+31.10.2021 [Arrhenia retiruga - Schüsselförmiger Adermoosling](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)  
+30.10.2021 [Xerocomus pruinatus - Herbstrotfüßchen](/pilze/xerocomus-pruinatus-herbstrotfüßchen)\
+29.10.2021 [Lactarius torminosus - Birkenreizker, Birkenmilchling](/pilze/lactarius-torminosus-birkenreizker-birkenmilchling)\
+28.10.2021 [Tulostoma fimbriatum - Gewimperter Stielbovist](/pilze/tulostoma-fimbriatum-gewimperter-stielbovist)\
+27.10.2021 [Agaricus bisporus - Zuchtchampignon](/agaricus-bisporus-zucht-champignon)\
+26.10.2021 [Tricholoma terreum - Gemeiner Erdritterling](/pilze/tricholoma-terreum-gemeiner-erdritterling)\
+25.10.2021 [Cortinarius violaceus - Violetter Schleierling](<Cortinarius violaceus - Violetter Schleierling>)\
+24.10.2021 [Lepiota oreadiformis - Glatter Schirmling](/pilze/lepiota-oreadiformis-glatter-schirmling)\
 23.10.2021 [Cantharellus tubaeformis - Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)\
 19.10.2021 [Hebeloma pallidoluctuosum - Schwärzender Duft-Fälbling](/pilze/hebeloma-pallidoluctuosum-schwärzender-duft-fälbling)\
 16.10.2021 [Lactarius deliciosis - Edelreizker](/pilze/lactarius-deliciosus-edelreizker)\
