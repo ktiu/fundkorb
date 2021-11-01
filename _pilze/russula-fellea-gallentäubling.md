@@ -50,7 +50,7 @@ Bei feuchtem Wetter ist die ansonsten trockene und matte Hutoberfläche klebrig 
 
 Die makrochemischen Farbreaktionen mit  Eisensulfat und Guajaktinktur sind beide nahezu null, was bei Täublingen recht selten vorkommt:
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_fellea_04_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/russula_fellea_05_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb.links: Fruchtkörper im Schnitt mit Blick auf das cremefarbene Fleisch (links) sowie auf die ockerfarbene Stieloberfläche (rechts). Auf das obere Stielviertel wurde sowohl links als auch rechts Eisensulfat aufgebracht. Zu sehen ist die äußerst schwach rosa Farbreaktion nach 2 Minuten Einwirkzeit -- Abb. rechts: Der bräunliche Fleck zeigt die quasi negative Guajak-Reaktion (5-prozentige Guajaktinktur nach 10 Sek. Einwirkzeit)" %}
