@@ -97,6 +97,7 @@
 
   .abbildung .bild.nocrop > img {
     object-fit: contain;
+    background-color: fade-out($black, 0.2);
   }
 
   .abbildung.fliessend {
