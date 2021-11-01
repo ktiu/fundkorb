@@ -12,27 +12,11 @@ hauptbild:
   anzeige: true
   datei: /bilder/russula_fellea_01_bm.jpg
 literatur:
-  - text: "In Sulfovanillin prüft man, ob sich der Inhalt der Pileozystiden schwarz,
-      grau oder gar nicht verfärbt. Die Latiziferen sind als lang geschlängelte,
-      schwarz gefärbte Gebilde zu erkennen, außerdem schwarz gefärbte,
-      schlankkeulige Pileozystiden.  Verwechslungsmöglichkeiten mit anderen
-      gelbhütigen Täublingen: Der Ockertäubling Russula ochroleuca besitzt einen
-      weißen Stiel mit schwach gelblich überzogener Basis, weiße Lamellen und
-      weißes Fleisch. Außerdem ist er geruchlos und schmeckt mild oder nur
-      leicht scharf. Der Pfirsichtäubling Russula violeipes besitzt manchmal
-      einen gelben Hut und einen weißen Stiel. Er ist geruchlos und absolut mild
-      schmeckend. Der Gelbe Graustieltäubling Russula claroflava besitzt einen
-      wunderschön kanariengelben oder leicht orangefarbenen Hut. Fleisch und
-      Stiel sind zwar weiß, werden aber bei Verletzung oder längerem
-      Liegenlassen deutlich grau. Er ist geruchlos und schmeckt absolut mild. Er
-      wächst in Mooren oder an Moorrändern und geht eine Mykorrhiza mit
-      Birkenarten ein. Der Sonnentäubling Russula solaris ist mit der
-      Merkmalskombination “blass gelbe Hutfarbe - sehr zerbrechliche Konsistenz
-      - weißer Stiel - scharfer Geschmack - ockerfarbenes Sporenpulver” gut
-      gekennzeichnet; stets bei Buchen"
+  - text: "DÄHNKE, R.M. (2004): 1200 Pilze in Farbfotos: 849"
   - text: "KRÄNZLIN, F. (2005): Pilze der Schweiz Bd. 6: Nr. 132"
   - url: https://de.wikipedia.org/wiki/Gallen-T%C3%A4ubling
   - url: " http://tintling.com/pilzbuch/arten/r/Russula_fellea.html"
+  - {}
 ---
 Eine in Deutschland recht häufig vorkommende Pilzart ist der Gallentäubling, der meist eine [Mykorrhizapilz](Mykorrhiza "Glossar") mit der Rotbuche eingeht und der von August bis zu den ersten Nachtfrösten im November wächst. Der Pilz ist äußerst scharf im Geschmack und riecht deutlich fruchtig, etwa wie Obstkompott.
 
