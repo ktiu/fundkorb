@@ -36,7 +36,7 @@ Ebenfalls nussig und mild ist das Fleisch des [Harten Zinnobertäublings](/pilze
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_vesca_08_dg.jpg" %}
-{% include abbildung_ende.html legende="Nicht leicht zuerkennen: Speisetäublinge mit dehr hellen Hutfarben" %}
+{% include abbildung_ende.html legende="Nicht leicht zuerkennen: Speisetäublinge mit sehr hellen Hutfarben" %}
 
 Ein wichtiges Merkmal bei den Täublingen ist die Sporenpulverfarbe. Beim Speisetäubling ist sie weiß und daher kann das bei Reife abgegebene Sporenpulver die von Natur aus weißen Lamellen auch im Alter nicht verfärben. Sie bleiben weiß.
 
@@ -44,7 +44,7 @@ Ein wichtiges Merkmal bei den Täublingen ist die Sporenpulverfarbe. Beim Speise
 {% include bild.html datei="/bilder/russula_vesca_07_gg.jpg" %}
 {% include abbildung_ende.html legende="Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Die Illustration von Gabriele Gossner (in: Hans Haas – Pilze Mitteleuropas, 1964) zeigt sehr schön den verkürzten Huthautrand und die Farbvariabilität des Speisetäublings." %}
 
-Die allermeisten der rund 150 mitteleuropäischen Täublingsarten sind schwer zu unterscheiden. Ohne Mikroskop geht da nur wenig. Wichtige Merkmale sind Geschmack (mild oder scharf), Sporenpulverfarbe, Abziehbarkeit der Huthaut und chemische Reaktionen. Mit diesen lassen sich die in Frage kommenden Arten zumindest etwas eingrenzen. Die Hutfarben sind sehr variabel und daher kein wirklich brauchbares Unterscheidungsmerkmal. Für Speisezwecke kommen nur mild schmeckende Arten in Frage, unter denen es keine giftigen gibt. Etliche scharf schmeckende sind magen-/darmgiftig!
+Die allermeisten der rund 200 mitteleuropäischen Täublingsarten sind schwer zu unterscheiden. Ohne Mikroskop geht da nur wenig. Wichtige Merkmale sind Geschmack (mild oder scharf), Sporenpulverfarbe, Abziehbarkeit der Huthaut und chemische Reaktionen. Mit diesen lassen sich die in Frage kommenden Arten zumindest etwas eingrenzen. Die Hutfarben sind sehr variabel und daher kein wirklich brauchbares Unterscheidungsmerkmal. Für Speisezwecke kommen nur mild schmeckende Arten in Frage, unter denen es keine giftigen gibt. Etliche scharf schmeckende sind magen-/darmgiftig!
 
 <div class="table-responsive">
   <table class="table taeubling">
