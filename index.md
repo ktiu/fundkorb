@@ -18,13 +18,27 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pseudohydnum_gelatinosum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.11.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Eispilz Pseudohydnum gelatinosum. Schlabberig und eiskalt - so könnte eine Kurzbeschreibung lauten. Auch der Name “Zitterzahn” ist eine perfekte Charakterisierung, verweist er doch auf die Zähnchen der Hutunterseite. Beim Anfassen spürt man die gelatinöse Konsistenz und die Temperatur des Fruchtkörpers, die immer kühler ist als die umgebende Luft. Beim Versuch, die Pilze abzupflücken, glitschen sie einem aus der Hand. Damit noch nicht genug. Er besitzt auch noch die unter Pilzen seltene Eigenschaft, roh essbar zu sein. Ob man ihm einen Genusswert abringen kann, ist jedoch eine andere Frage. Als Pfannengericht taugt er jedenfalls nicht.
+
+[Mehr lesen>](/pilze/pseudohydnum-gelatinosum-eispilz-zitterzahn)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/arrhenia-retiruga_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 31.10.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein Winzling, den man fast schon mit der Lupe suchen muss bzw. erst mit Lupe erkennen kann: Arrhenia retiruga, der Schüsselförmige Adermoosling. Ihre winzigen Fruchtkörperchen werden meist nur 2 - 3 mm groß und erscheinen ausschließlich an Moosen. Der größte, den ich je gesehen habe, brachte es auf sage und schreibe erstaunliche 8 mm! Dass er vor allem in den Spätherbst- und Wintermonaten erscheint, kann ich bestätigen. Dass er selten sein soll, bezweifle ich. Er wird wohl nur übersehen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)
+
+<div style="clear:  both"></div>
 
 - - -
 
