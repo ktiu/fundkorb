@@ -54,7 +54,7 @@ Die Literaturangaben zur Ökologie sind leider sehr uneinheitlich. Krieglsteiner
 
 Vereinfachter Schlüssel zu den vier im Rhein-Main-Gebiet sicher nachgewiesenen Speitäublingen, die alle sehr scharf sind und weißes Sporenpulver haben:
 
-Huthaut eher matt als glänzend und nur ca. 1 cm weit abziehbar, Charakterart in Buchenwäldern = Russula nobilis (Buchen-Speitäubling)
+Huthaut eher matt als glänzend und nur ca. 1 cm weit abziehbar, Charakterart in Buchenwäldern = [Russula nobilis (Buchen-Speitäubling)](/pilze/russula-nobilis-buchen-speitäubling)
 
 Die Fruchtkörper der drei anderen sind sehr zerbrechlich, ihre Huthaut ist eher glänzend als matt, und je nachdem ob feucht oder trocken ganz bzw. gut zur Hälfte abziehbar:
 
