@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-02.11.2021 [Pseudohydnum gelatinosum - Eispilz, Zitterzahn](/pilze/pseudohydnum-gelatinosum-eispilz-zitterzahn)  
+03.11.2021 [Armillaria ostoyae - Dunkler Hallimasch](/pilze/armillaria-ostoyae-dunkler-hallimasch)  
+02.11.2021 [Pseudohydnum gelatinosum - Eispilz, Zitterzahn](/pilze/pseudohydnum-gelatinosum-eispilz-zitterzahn)\  
+
 31.10.2021 [Arrhenia retiruga - Schüsselförmiger Adermoosling](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)\
 30.10.2021 [Xerocomus pruinatus - Herbstrotfüßchen](/pilze/xerocomus-pruinatus-herbstrotfüßchen)\
 29.10.2021 [Lactarius torminosus - Birkenreizker, Birkenmilchling](/pilze/lactarius-torminosus-birkenreizker-birkenmilchling)\
