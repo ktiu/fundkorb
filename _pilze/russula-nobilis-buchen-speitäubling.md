@@ -36,7 +36,7 @@ Die Sporenpulverfarbe ist reinweiß. Die Sporen sind breit ellipsoid mit deutlic
 Die Pileozystiden sind beim Buchen-Speitäubling zylindrisch bis schlankkeulig mit einem Kaliber von  5-8 µm und besitzen 0 - 3 Septen und schwärzen in Sulfovanillin deutlich.
 
 **Verwechslungsmöglichkeiten im Vergleich zu anderen Speitäublingsarten:** Alle hier angeführten Vergleichsarten sind brüchiger als der Buchen-Speitäubling und besitzen eine sehr viel schwächere Guajakreaktion. Weitere Unterschiede:\
-Der **Kirschrote Speitäubling** *Russula emetica* geht eine Mykorrhiza mit Nadelbäumen ein. Die Fruchtkörper sind brüchig. Er besitzt eine komplett abziehbare, immer hochglänzende Huthaut.\
+Der [**Kirschrote Speitäubling** *Russula emetica*](/pilze/russula-emetica-kirschroter-speitäubling) geht eine Mykorrhiza mit Nadelbäumen ein. Die Fruchtkörper sind brüchig. Er besitzt eine komplett abziehbare, immer hochglänzende Huthaut.\
 Der **Grauende Speitäubling** *Russula hydrophila* eine Mykorrhiza mit Nadelbäumen ein und kommt nur in feuchtem bis nassem Milieu in Mooren oder Moorwäldern vor. Er ist sehr brüchig, und der Stiel graut bei ausgewachsenen Exemplaren deutlich.\
 Der [**Kiefern-Speitäubling** *Russula silvestris*](/pilze/russula-silvestris-kiefern-speitäubling) ist kleiner und brüchiger als der Buchen-Speitäubling. Er bleicht auch gerne nach Weiß, Creme oder Gelblich aus.\
 Der [**Birken-Speitäubling** *Russula betularum*](/pilze/russula-betularum-birken-speitäubling) ist sehr klein und gebrechlich und geht eine Mykorrhiza mit Birken ein. Er bleicht meist in Richtung Weiß aus.
