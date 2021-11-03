@@ -18,11 +18,21 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/armillaria_ostoyae_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der bei Forstwirten gar nicht gern gesehen wird. Sein Name: *Armillaria ostoyae*, der *Dunkle Hallimasch*. Mit Borkenkäfern arbeitet er Hand in Hand zusammen, um Fichtenmonokulturen platt zu machen. Die auf schnelle Holzernte zielende Forstwirtschaft hat den beiden die Wege geebnet, in dem sie die jungen Bäumchen dicht an dicht in monotonen Reihen gepflanzt haben. Für Küchenmykologen ist er hingegen ein willkommener Speisepilz - so man ihn denn verträgt. 
+
+[Wie der Hallimasch zu seinem ungewöhnlichen Namen kam, erfahren Sie hier >](/pilze/armillaria-ostoyae-dunkler-hallimasch)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pseudohydnum_gelatinosum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-02.11.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Eispilz Pseudohydnum gelatinosum. Schlabberig und eiskalt - so könnte eine Kurzbeschreibung lauten. Auch der Name “Zitterzahn” ist eine perfekte Charakterisierung, verweist er doch auf die Zähnchen der Hutunterseite. Beim Anfassen spürt man die gelatinöse Konsistenz und die Temperatur des Fruchtkörpers, die immer kühler ist als die umgebende Luft. Beim Versuch, die Pilze abzupflücken, glitschen sie einem aus der Hand. Damit noch nicht genug. Er besitzt auch noch die unter Pilzen seltene Eigenschaft, roh essbar zu sein. Ob man ihm einen Genusswert abringen kann, ist jedoch eine andere Frage. Als Pfannengericht taugt er jedenfalls nicht.
+02.11.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der *Eispilz Pseudohydnum gelatinosum*. Schlabberig und eiskalt - so könnte eine Kurzbeschreibung lauten. Auch der Name “Zitterzahn” ist eine perfekte Charakterisierung, verweist er doch auf die Zähnchen der Hutunterseite. Beim Anfassen spürt man die gelatinöse Konsistenz und die Temperatur des Fruchtkörpers, die immer kühler ist als die umgebende Luft. Beim Versuch, die Pilze abzupflücken, glitschen sie einem aus der Hand. Damit noch nicht genug. Er besitzt auch noch die unter Pilzen seltene Eigenschaft, roh essbar zu sein. Ob man ihm einen Genusswert abringen kann, ist jedoch eine andere Frage. Als Pfannengericht taugt er jedenfalls nicht.
 
 [Mehr lesen>](/pilze/pseudohydnum-gelatinosum-eispilz-zitterzahn)
 
@@ -39,54 +49,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_pruinatus_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-30.10.2021: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") passt perfekt zur gegenwärtigen Jahreszeit. Es ist das Herbstrotfüßchen *Xerocomus pruinatus*, das jetzt unter Xerocomellus firmiert. In früheren Jahren landete es gewöhnlich als Rotfußröhrling in den Körben der Pilzsammler und das ist bei vielen noch heute so. Was den Geschmackswert betrifft ist das Herbstrotfüßchen gegenüber dem "echten" Rotfüßröhrling sicher die etwas bessere Wahl. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xerocomus-pruinatus-herbstrotfüßchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_torminosus_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.10.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenreizker Lactarius torminosus. Ein wirklich attraktiver Pilz, zumindest solange er noch jung und der rundliche Kopf noch mit einem fusseligen Haarnetz bedeckt ist. Für die Küche taugt er nicht, zumindest nicht für die mitteleuropäische. Darauf deutet schon der lateinische Artname hin: torminosus bedeutet "Leibschmerzen verursachend". (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/lactarius-torminosus-birkenreizker-birkenmilchling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tulostoma_fimbriatum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 28.10.2021 ist der Gewimperte Stielbovist *Tulostoma fimbriatum*. Mehr als zwei Dutzend wuchsen vor zwei Jahren in Dietzenbach an einem Straßenrand zwischen Bordsteinkante und einer Baustelle - ein geradezu naturbelassenes Fleckchen Erde! Aber genau solche Biotope scheinen für Stielboviste keineswegs abschreckend zu sein. Jetzt sind wieder einige erschienen, auch wenn die Baustelle längst verschwunden ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tulostoma-fimbriatum-gewimperter-stielbovist)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_bisporus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.10.2021:  Mein ganz spezieller aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Zuchtchampignon *Agaricus bisporus*. Es gibt ihn nämlich nicht nur im Supermarktregal sondern hin und wieder  auch in freier Natur. Dort wird er nur selten erkannt, weil man ihn da nicht vermutet. Dabei ist die weiße Form leicht von anderen weißen Champignons und die braune ebenso leicht von anderen braunen Champignons zu unterscheiden. Es sind die einzigen mit ausschließlich zweisporigen [Basidien](Basidien "Glossar"). Um die zu sehen, reicht keine Lupe. Da muss man schon mit dem Mikroskop ran. Wegen der zweisporigen Basidien wird der Zuchtchampigon auch Zweisporiger Egerling genannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agaricus-bisporus-zucht-champignon)
-
-<div style="clear:  both"></div> 
 
 - - -
 
