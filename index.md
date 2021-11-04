@@ -18,13 +18,27 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/armillaria_mellea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.11.2021: So wie der Dunkle Hallimasch die Nadelbäume attackiert, greift der Honiggelbe (Armillaria mellea) Laubbäume an. In meinem früheren Garten hat er einmal, vom Nachbargrundstück kommend, alle meine Rhodendendronsträucher vernichtet. Vom Dunklen unterscheidet er sich durch honiggelbliche Hutfarben, vor allem aber durch Gelbtöne an der Ringunterseite. Seine Küchentauglickkeit entspricht der des Dunklen Hallimasch: guter Speisepilz, sofern man ihn verträgt. Hallimasche gehören zu den Pilzarten, die am häufigsten für individuelle Unverträglichkeiten verantwortlich sind.
+
+[Mehr lesen >](/pilze/armillaria-mellea-honiggelber-hallimasch)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/armillaria_ostoyae_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 03.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der bei Forstwirten gar nicht gern gesehen wird. Sein Name: *Armillaria ostoyae*, der *Dunkle Hallimasch*. Mit Borkenkäfern arbeitet er Hand in Hand zusammen, um Fichtenmonokulturen platt zu machen. Die auf schnelle Holzernte zielende Forstwirtschaft hat den beiden die Wege geebnet, in dem sie die jungen Bäumchen dicht an dicht in monotonen Reihen gepflanzt haben. Für Küchenmykologen ist er hingegen ein willkommener Speisepilz - so man ihn denn verträgt. 
 
 [Wie der Hallimasch zu seinem ungewöhnlichen Namen kam, erfahren Sie hier >](/pilze/armillaria-ostoyae-dunkler-hallimasch)
+
+<div style="clear:  both"></div>
 
 - - -
 
