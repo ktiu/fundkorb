@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
+04.11.2021 [Armillaria mellea - Honiggelber Hallimasch](/pilze/armillaria-mellea-honiggelber-hallimasch)  
 03.11.2021 [Armillaria ostoyae - Dunkler Hallimasch](/pilze/armillaria-ostoyae-dunkler-hallimasch)\
 02.11.2021 [Pseudohydnum gelatinosum - Eispilz, Zitterzahn](/pilze/pseudohydnum-gelatinosum-eispilz-zitterzahn) 
 
