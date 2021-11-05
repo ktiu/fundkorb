@@ -18,6 +18,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/clitocybe_phyllophila_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+05.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der *Bleiweiße Trichterling Clitocybe phyllophila*, der als typischer Herbstpilz oft zusammen mit allgegenwärtigen Nebelkappen an Waldwegrändern wächst. Wegen seines firnisartigen Huthautbelags wird er auch Bleiweißer Firnistrichterling genannt. Wie mehrere andere weiße Vertreter der Gattung enthält er das Nervengift Muscarin, das Schweißausbrüche, Sehstörungen und Tränenfluß verursacht. Diese Symptome werden auch PSL-Syndrom genannt (englisch: perspiration, salivation, lacrimation), zu denen noch heftige Magen-/Darmstörungen hinzukommen.
+
+[Mehr lesen >](/pilze/clitocybe-phyllophila-bleiweißer-firnistrichterling-bleiweißer-trichterling)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/armillaria_mellea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -37,30 +47,6 @@ footer_scripts:
 03.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der bei Forstwirten gar nicht gern gesehen wird. Sein Name: *Armillaria ostoyae*, der *Dunkle Hallimasch*. Mit Borkenkäfern arbeitet er Hand in Hand zusammen, um Fichtenmonokulturen platt zu machen. Die auf schnelle Holzernte zielende Forstwirtschaft hat den beiden die Wege geebnet, in dem sie die jungen Bäumchen dicht an dicht in monotonen Reihen gepflanzt haben. Für Küchenmykologen ist er hingegen ein willkommener Speisepilz - so man ihn denn verträgt. 
 
 [Wie der Hallimasch zu seinem ungewöhnlichen Namen kam, erfahren Sie hier >](/pilze/armillaria-ostoyae-dunkler-hallimasch)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pseudohydnum_gelatinosum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.11.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der *Eispilz Pseudohydnum gelatinosum*. Schlabberig und eiskalt - so könnte eine Kurzbeschreibung lauten. Auch der Name “Zitterzahn” ist eine perfekte Charakterisierung, verweist er doch auf die Zähnchen der Hutunterseite. Beim Anfassen spürt man die gelatinöse Konsistenz und die Temperatur des Fruchtkörpers, die immer kühler ist als die umgebende Luft. Beim Versuch, die Pilze abzupflücken, glitschen sie einem aus der Hand. Damit noch nicht genug. Er besitzt auch noch die unter Pilzen seltene Eigenschaft, roh essbar zu sein. Ob man ihm einen Genusswert abringen kann, ist jedoch eine andere Frage. Als Pfannengericht taugt er jedenfalls nicht.
-
-[Mehr lesen>](/pilze/pseudohydnum-gelatinosum-eispilz-zitterzahn)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/arrhenia-retiruga_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.10.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein Winzling, den man fast schon mit der Lupe suchen muss bzw. erst mit Lupe erkennen kann: Arrhenia retiruga, der Schüsselförmige Adermoosling. Ihre winzigen Fruchtkörperchen werden meist nur 2 - 3 mm groß und erscheinen ausschließlich an Moosen. Der größte, den ich je gesehen habe, brachte es auf sage und schreibe erstaunliche 8 mm! Dass er vor allem in den Spätherbst- und Wintermonaten erscheint, kann ich bestätigen. Dass er selten sein soll, bezweifle ich. Er wird wohl nur übersehen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)
 
 <div style="clear:  both"></div>
 
