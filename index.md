@@ -18,6 +18,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_meliigena_02_uvs.jpg" %}
+{% include abbildung_ende.html %}
+
+06.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein kleiner Helmling, der gern auf bemooster Baumrinde wächst: *Mycena meliigena*, der Rötliche Rindenhelmling. Er ist so winzig, dass man seine Schönheit erst mit der Lupe erkennt. Seine mützenförmigen gefalteten Hütchen werden etwa 2 - 6 mm groß und sind ziemlich uneinheitlich gefärbt. Wenn rötliche Töne überwiegen, ist das immerhin ein Hinweis auf unsere Art, aber um sicher zu gehen, sollten Rindenhelmlinge grundsätzlich mikroskopiert werden. Manchmal erscheinen sogar zwei oder drei unterschiedliche Arten auf der gleichen Fläche, wobei die einzelnen Populationen meist deutlich voneinander getrennt sind. 
+
+[Mehr lesen >](/pilze/mycena-meliigena-rötlicher-rindenhelmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/clitocybe_phyllophila_02_bm.jpg" %}
 {% include abbildung_ende.html %}
@@ -25,6 +37,8 @@ footer_scripts:
 05.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der *Bleiweiße Trichterling Clitocybe phyllophila*, der als typischer Herbstpilz oft zusammen mit allgegenwärtigen Nebelkappen an Waldwegrändern wächst. Wegen seines firnisartigen Huthautbelags wird er auch Bleiweißer Firnistrichterling genannt. Wie mehrere andere weiße Vertreter der Gattung enthält er das Nervengift Muscarin, das Schweißausbrüche, Sehstörungen und Tränenfluß verursacht. Diese Symptome werden auch PSL-Syndrom genannt (englisch: perspiration, salivation, lacrimation), zu denen noch heftige Magen-/Darmstörungen hinzukommen.
 
 [Mehr lesen >](/pilze/clitocybe-phyllophila-bleiweißer-firnistrichterling-bleiweißer-trichterling)
+
+<div style="clear:  both"></div>
 
 - - -
 
