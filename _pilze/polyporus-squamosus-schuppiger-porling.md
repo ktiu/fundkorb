@@ -23,9 +23,9 @@ In der Gattung *Polyporus* stehen zentral oder exzentrisch gestielte Porlinge, d
 
 Die Haupterscheinungszeit ist von April bis September in boden- und luftfeuchten Laub- und Auwäldern. Bevorzugt werden Eichen, Weiden- und Buchen. Als Wundparasit befällt der Pilz die Stämme lebender Laubbäume und schädigt dabei das Kernholz mit einer Weißfäule, kann aber auch saprobiontisch an Totholz wachsen.
 
-Nahezu vor meiner Haustür in einem Parkgelände im Zentrum Dietzenbachs beobachte ich seit Jahren ihr Wachstum in 1,5 bis 2 Meter Höhe an einer Weide, die keineswegs einen geschädigten Eindruck macht. Im Naturschutzgebiet Kühkopf, in dem ich die Art regelmäßig finde, wächst sie an an zahlreichen Stellen an Eichen und Weiden.
+Nahezu vor meiner Haustür in einem Parkgelände im Zentrum Dietzenbachs beobachte ich seit Jahren ihr Wachstum in 1,5 bis 2 Meter Höhe an einer Weide, die keineswegs einen geschädigten Eindruck macht. Im Naturschutzgebiet Kühkopf, in dem ich die Art regelmäßig finde, wächst sie an zahlreichen Stellen an Eichen und Weiden.
 
-Der Pilz ist essbar solange er jung und zart ist, wird jedoch bald zäh und dann völlig ungenießbar. Verwechselt werden könnte er mit dem deutlich kleineren Sklerotienporling (Polyporus tuberaster), der auch "Kleiner Schuppenporling" genannt wird und wohl ausschließlich an Totholz (Buche!) wächst. Seine Hutschuppen sind kleiner, der Stiel hat niemals eine dunklere Basis. Dieser gilt als ausgezeichneter Speisepilz, aber auch nur solange er jung und zart ist.
+Der Pilz ist essbar solange er jung und zart ist, wird jedoch bald zäh und dann völlig ungenießbar. Verwechselt werden könnte er mit dem deutlich kleineren [Sklerotienporling (Polyporus tuberaster)](/pilze/polyporus-tuberaster-sklerotienporling), der auch "Kleiner Schuppenporling" genannt wird und wohl ausschließlich an Totholz (Buche!) wächst. Seine Hutschuppen sind kleiner, der Stiel hat niemals eine dunklere Basis. Dieser gilt als ausgezeichneter Speisepilz, aber auch nur solange er jung und zart ist.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/polyporus_squamosus_02_dg.jpg" %}
