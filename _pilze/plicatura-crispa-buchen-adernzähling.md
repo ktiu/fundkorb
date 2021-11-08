@@ -22,3 +22,7 @@ literatur:
 Der Buchen-Adernzähling ist ein holzbewohnender Pilz, der leicht und sicher zu erkennen ist. Seine muschelförmigen Fruchtkörper wachsen dicht gedrängt, dachziegelig und miteinander verknäuelt vor allem an toten Laubholzstämmchen und -ästen, am häufigsten an Steinobstgewächsen (Prunus), gefolgt von Birke, Buche, Hasel und Erle. 
 
 Die Hütchen sind stiellos mit dem Scheitel oder seitlich am Substrat angewachsen, ihre Oberseite ist hellbraun, zum Rand hin heller und wellig, die Unterseite lamellig, queraderig und weiß, beim Altern vor allem in der Mitte zuerst gelblich, dann bräunlich verfärbend. Sie erreichen Größen von etwa 1 - 3 cm, fühlen sich samtig weich an, sind sehr dünn und biegsam und leicht vom Substrat abzulösen. Man findet sie vor allem im Winterhalbjahr von Herbst bis Frühling.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/plicatura_crispa_03_dg.jpg" %}
+{% include abbildung_ende.html legende="06.11.2021 Wald bei Dietzenbach, an totem Birkenstamm" %}
