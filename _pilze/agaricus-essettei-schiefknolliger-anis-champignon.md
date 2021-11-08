@@ -25,12 +25,12 @@ Er riecht nicht nur nach Anis, er schmeckt auch so. Wen das in einem Pilzgericht
 Häufige Champignonarten sind:
 
 Agaricus arvensis = Schaf-Chamignon\
-Agaricus augustus = Riesenchampignon\
-Agaricus bitorquis = Stadt-Champignon\
+[Agaricus augustus = Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon)\
+[Agaricus bitorquis = Stadt-Champignon](/pilze/agaricus-bitorquis-stadt-champignon)\
 [Agaricus campestris = Wiesenchampignon](/pilze/agaricus-campestris-wiesenchampignon)\
 Agaricus essettei / silvicola = Schiefknolliger bzw. Dünnfleischiger Anis-Champignon\
-Agaricus semotus = Weinroter Zwergchampignon\
+[Agaricus semotus = Weinroter Zwergchampignon](/pilze/agaricus-semotus-weinrötlicher-zwergchampignon)\
 Agaricus silvaticus = Kleiner Waldchampignon\
-Agaricus xanthoderma = Karbolchampignon
+[Agaricus xanthoderma = Karbolchampignon](/pilze/agaricus-xanthoderma-karbolchampignon)
 
 Einige andere können z. B. in Regionen mit kalkhaltigen Böden durchaus häufig sein.
