@@ -23,7 +23,7 @@ Im Standardwerk *"Die Großpilze Baden-Württembergs"* (Band 5) hat es sich der 
 
 Zu finden ist er in Gärten und Gewächshäusern, auf Kompost und Pferdedung. Wie bei allen Zuchtpilzen kann auch dieser durch Sporenflug oder Entsorgen von ausgedientem Substrat in die Natur gelangen und verwildern.
 
-Bevor man sich über einen Freilandfund dieses Champignons freut, sollte man ihn sicherheitshalber mikroskopiert haben. Sein entscheidendes mikroskopisches Merkmal kann ich nach intensiven Literaturstudien nicht anders auslegen als: Agaricus bisporus ist der einzige Champignon mit ausschließlich zweisporigen Basidien. Gleichwohl muss angemerkt werden: es gibt Champignons, die sowohl vier- als auch zweisporige Sporen besitzen. Neben der häufigeren braunschuppigen Form kommt in freier Natur auch eine weiße *var. albidus* vor und es existieren zahlreiche Kultursorten.
+Bevor man sich über einen Freilandfund dieses Champignons freut, sollte man ihn sicherheitshalber mikroskopiert haben. Sein entscheidendes mikroskopisches Merkmal kann ich nach intensiven Literaturstudien nicht anders auslegen als: Agaricus bisporus ist der einzige Champignon mit ausschließlich zweisporigen [Basidien](Basidien "Glossar"). Gleichwohl muss angemerkt werden: es gibt Champignons, die sowohl vier- als auch zweisporige Basidien besitzen. Neben der häufigeren braunschuppigen Form kommt in freier Natur auch eine weiße *var. albidus* vor und es existieren zahlreiche Kultursorten.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/agaricus_bisporus_02_dg.jpg" nocrop=true %}
