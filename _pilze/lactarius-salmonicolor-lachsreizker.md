@@ -42,7 +42,7 @@ schärflich-bitterlicher und adstringierender Geschmack des Fleisches und der is
 
 Bei einem derartigen Massenvorkommen kann man sehr gut die Variationsbreite der makroskopischen Fruchtkörpermerkmale studieren. Die Hüte besitzen Durchmesser bis zu 150 mm, sind bei feuchter Witterung klebrig bis schleimig, in der Farbe von ganz hell orange über schön lachfarben bis dunkel orange, die stets dunklere Zonierung reicht von kaum erkennbar bis stark ausgeprägt. Sehr viele Fruchtkörper waren überreif und zeigten an einigen Stellen des Hutes oftmals grünliche Farbtöne.
 
-Die Lamellen sind kaum einmal gegabelt, jedoch stark mit Lamelletten untermischt. Die Schneide ist ganzrandig und heller als die Fläche. Die Stiele sind meist hell orange und besitzen fast stets deutliche, große, farbintensivere Gruben. Das Fleisch ist eigentlich weiß, verfärbt sich durch die Milch aber sehr schnell orange. Geschnittenes Fleisch oder isolierte Milch verfärbt sich allmählich dunkler weinrot. Die Stiele sind nur bei jungen Fruchtkörpern vollfleischig und werden im Verlauf des Wachstums hohl. Das [Basalmyzel](Myzel "Glossar") der Art ist rot.
+Die Lamellen sind kaum einmal gegabelt, jedoch stark mit Lamelletten untermischt. Die Schneide ist ganzrandig und heller als die Fläche. Die Stiele sind meist hell orange und besitzen fast stets deutliche, große, farbintensivere Gruben. Das Fleisch ist eigentlich weiß, verfärbt sich durch die Milch aber sehr schnell orange. Geschnittenes Fleisch oder isolierte Milch verfärbt sich allmählich dunkler weinrot. Die Stiele sind nur bei jungen Fruchtkörpern vollfleischig und werden im Verlauf des Wachstums hohl.
 
 **Mikromerkmale:** Die Basidien sind meist schlankkeulig oder zylindrisch und besitzen nach meinen Beobachtungen vier Sterigmen. Die Lamellenschneide ist steril, besitzt also keine Basidien. Die Cheilozystiden (echte Zystiden an der Lamellenschneide) sind unterschiedlich geformt, meist irgendwie spindelförmig, gerne mit aufgesetztem Köpfchen. Die Pleurozystiden (echte Zystiden an der Lamellenfläche) sind meist spindelförmig und fast doppelt so lang wie die Cheilozystiden.
 
@@ -58,7 +58,7 @@ Die Sporen sind ellipsoid bis lang ellipsoid und besitzen bis 0,9 µm (max 1,0 �
 {% include bild.html datei="/bilder/lactarius_salmonicolor_07_bm.jpg" %}
 {% include abbildung_ende.html legende="Sporen in Melzers Reagenz: die Spore oben links zeigt, dass der Hilarfleck nur am entfernten Ende amyloid ist" %}
 
-##### Verwechslungsmöglichkeit mit anderen Blutreizkararten:
+##### Verwechslungsmöglichkeit mit anderen Reizkerarten:
 
 Der *Fichtenreizker Lactarius deterrimus* wächst bei Fichten, der Hut weist neben Orange oft Grüntöne auf, der Stiel hat keine Gruben.\
 Der *Spangrüne Kiefernreizker Lactarius semisanguifluus* wächst bei Kiefern, der Hut weist neben orange oft typisch blaugrüne Farbtöne auf, die Milch schlägt schon nach 3-5 Minuten von Orange nach Weinrot um.\
