@@ -14,7 +14,15 @@ footer_scripts:
 
 - - -
 
-##### **Kostenlose Pilzberatung im Gesundheitsamt der Stadt Frankfurt vom 10. Oktober bis 7. November 2021  [\>>>](/pilzberatung)**
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leotia_lubrica_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Grüngelbe Gallertkäppchen *Leotia lubrica*. Es war am vergangenen Samstag mein persönliches Highlight bei einer pilzkundlichen Exkursion in einem Dietzenbacher Wald, weil ich den bemerkenswerten Pilz seit ca. drei Jahrzehnten erstmals wieder gesehen habe. Auch in der Literatur wird er als stark rückläufig bezeichnet. Seine ungewöhnliche Form und seine gallertartige Konsistenz machen ihn zu einer auffälligen und nahezu unverwechselbaren Erscheinung. Nach neueren Erkenntnissen gilt er als giftverdächtig. Er soll in geringer Konzentration Gyromitrin enthalten, ein Giftstoff, der vor allem durch die Frühjahrslorchel bekannt ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)
+
+<div style="clear:  both"></div>
 
 - - -
 
