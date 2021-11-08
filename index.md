@@ -42,7 +42,7 @@ Mein aktueller [Fundkorbpilz](AA "Glossar-") am 07.11.2021 ist der Buchen-Adernz
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitocybe_phyllophila_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
