@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-08.11.2021 [Leotia lubrica - Grüngelbes Gallertkäppchen](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)  
+09.11.2021 [Pseudoclitocybe cyathiformis - Kaffeebrauner Gabeltrichterling](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)  
+08.11.2021 [Leotia lubrica - Grüngelbes Gallertkäppchen](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)\
 07.11.2021 [Plicatura crispa - Buchen-Adernzähling](/pilze/plicatura-crispa-buchen-adernzähling)\
 06.11.2021 [Mycena meliigena - Rötlicher Rindenhelmling](/pilze/mycena-meliigena-rötlicher-rindenhelmling)\
 05.11.2021 [Clitocybe phyllophila - Bleiweißer Trichterling](/pilze/clitocybe-phyllophila-bleiweißer-firnistrichterling-bleiweißer-trichterling)\
