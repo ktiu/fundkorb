@@ -26,7 +26,7 @@ literatur:
   - text: "VERBEKEN A. et al. (2018): Lactarius Per. In: Flora Agaricina
       Neerlandica, Volume 7: 295-296"
 ---
-Der Lachsreizker ist eine der sechs häufigsten Blutreizkerarten Deutschlands. Ich finde ihn fast in jedem Jahr im Nordschwarzwald zu Hunderten bei Weißtannen auf saurem Boden. Die Art geht eine [Mykorrhiza](Mykorrhiza "Glossar") nur mit Weißtannen ein.
+Der Lachsreizker ist eine der sechs häufigsten Reizkerarten Deutschlands. Ich finde ihn fast in jedem Jahr im Nordschwarzwald zu Hunderten bei Weißtannen auf saurem Boden. Die Art geht eine [Mykorrhiza](Mykorrhiza "Glossar") nur mit Weißtannen ein.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lactarius_salmonicolor_02_bm.jpg" gross=true %}
