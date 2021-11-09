@@ -21,6 +21,10 @@ Die Farbe der Huthaut ist ein eher helles Braun, auch fleisch-, zimt- oder rotbr
 
 Die Lamellen sind jung weißlich, später fleischfarben, alt auch braunfleckig. Die beim Anritzen austretende Milch ist unveränderlich weiß und hat einen milden bis etwas bitterlichen Geschmack. Der Geruch (am besten an der Hutunterseite feststellbar) erinnert an Blattwanzen, ist aber z. B. beim ähnlichen Eichen-Milchling Lactarius quietus deutlich stärker.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lactarius_subdulcis_03_bm.jpg" %}
+{% include abbildung_ende.html legende="Ein ganz typisches Merkmal ist die eine stark striegelige Stielbasis" %}
+
 Besonders in Laubmischwäldern mit Buchen und Eichen könnte der Süßliche mit dem ebenfalls häufigen Eichen-Milchling verwechselt werden, dessen Hüte aber mehr oder weniger deutlich gezont und getropft-fleckig sind.
 
 {% include abbildung_start.html stil="standard" %}
