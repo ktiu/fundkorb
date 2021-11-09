@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pseudoclitocybe_cyathiformis_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kaffeebraune Gabeltrichterling *Pseudoclitocybe cyathiformis*, ein typischer Spätherbstpilz. Er fällt durch seine im Verhältnis zu den langen steifen Stielen kleinen tiefgenabelten Hüten auf. Mit der kaffee- bis graubraunen Hutfarbe ist er gut gekennzeichnet und ein nicht zu verachtender Speisepilz. Da ihn kaum ein Pilzsammler kennt, hat man kaum Konkurrenz zu befürchten, die einem die meist gesellig erscheinenden Pilze wegschnappen. Zur sicheren Bestimmung gehören auch die Lamellen, die mehrheitlich oder auch nur vereinzelt ganz nahe am Stiel gegabelt sind, ein Merkmal, das man am besten mit der Lupe aufsucht. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leotia_lubrica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,42 +57,6 @@ Mein aktueller [Fundkorbpilz](AA "Glossar-") am 07.11.2021 ist der Buchen-Adernz
 06.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein kleiner Helmling, der gern auf bemooster Baumrinde wächst: *Mycena meliigena*, der Rötliche Rindenhelmling. Er ist so winzig, dass man seine Schönheit erst mit der Lupe erkennt. Seine mützenförmigen gefalteten Hütchen werden etwa 2 - 6 mm groß und sind ziemlich uneinheitlich gefärbt. Wenn rötliche Töne überwiegen, ist das immerhin ein Hinweis auf unsere Art, aber um sicher zu gehen, sollten Rindenhelmlinge grundsätzlich mikroskopiert werden. Manchmal erscheinen sogar zwei oder drei unterschiedliche Arten auf der gleichen Fläche, wobei die einzelnen Populationen meist deutlich voneinander getrennt sind. 
 
 [Mehr lesen >](/pilze/mycena-meliigena-rötlicher-rindenhelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_phyllophila_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-05.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der *Bleiweiße Trichterling Clitocybe phyllophila*, der als typischer Herbstpilz oft zusammen mit allgegenwärtigen Nebelkappen an Waldwegrändern wächst. Wegen seines firnisartigen Huthautbelags wird er auch Bleiweißer Firnistrichterling genannt. Wie mehrere andere weiße Vertreter der Gattung enthält er das Nervengift Muscarin, das Schweißausbrüche, Sehstörungen und Tränenfluß verursacht. Diese Symptome werden auch PSL-Syndrom genannt (englisch: perspiration, salivation, lacrimation), zu denen noch heftige Magen-/Darmstörungen hinzukommen.
-
-[Mehr lesen >](/pilze/clitocybe-phyllophila-bleiweißer-firnistrichterling-bleiweißer-trichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/armillaria_mellea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.11.2021: So wie der Dunkle Hallimasch die Nadelbäume attackiert, greift der Honiggelbe (Armillaria mellea) Laubbäume an. In meinem früheren Garten hat er einmal, vom Nachbargrundstück kommend, alle meine Rhodendendronsträucher vernichtet. Vom Dunklen unterscheidet er sich durch honiggelbliche Hutfarben, vor allem aber durch Gelbtöne an der Ringunterseite. Seine Küchentauglickkeit entspricht der des Dunklen Hallimasch: guter Speisepilz, sofern man ihn verträgt. Hallimasche gehören zu den Pilzarten, die am häufigsten für individuelle Unverträglichkeiten verantwortlich sind.
-
-[Mehr lesen >](/pilze/armillaria-mellea-honiggelber-hallimasch)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/armillaria_ostoyae_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der bei Forstwirten gar nicht gern gesehen wird. Sein Name: *Armillaria ostoyae*, der *Dunkle Hallimasch*. Mit Borkenkäfern arbeitet er Hand in Hand zusammen, um Fichtenmonokulturen platt zu machen. Die auf schnelle Holzernte zielende Forstwirtschaft hat den beiden die Wege geebnet, in dem sie die jungen Bäumchen dicht an dicht in monotonen Reihen gepflanzt haben. Für Küchenmykologen ist er hingegen ein willkommener Speisepilz - so man ihn denn verträgt. 
-
-[Wie der Hallimasch zu seinem ungewöhnlichen Namen kam, erfahren Sie hier >](/pilze/armillaria-ostoyae-dunkler-hallimasch)
 
 <div style="clear:  both"></div>
 
