@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_equestre_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grünling *Tricholoma equestre*, eine Ritterlingsart, die seit Jahren stark rückläufig ist und lt. Bundesartenschutzverordnung zu den besonders geschützten Arten zählt. Das heißt: er darf unter keinen Umständen gesammelt werden. Jahrhunderte lang ist der beliebte Speisepilz schadlos verzehrt worden. Auch ich habe ihn in jungen Jahren, als er in den Kieferwäldern im Rhein-Main-Gebiet noch keine Rarität war, desöfteren in der Pfanne (und dann im Magen) gehabt. Seit 2001 ist er jedoch als Verursacher der Muskelerkrankung *Rhabdomyolyse* in Verruf geraten und soll für etliche tödliche Vergiftungen verantwortlich sein. Wie man inzwischen weiß, gingen in allen bekannt gewordenen Fällen mehrere extrem üppige Grünlingsmahlzeiten an mehreren aufeinanderfolgenden Tagen voraus, während der Verzehr in üblicher Menge und Häufigkeit nach wie vor ohne Folgen blieb. Aufgrund neuer Studien wird die generelle Giftigkeit des Grünlings nun wieder in Frage gestellt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tricholoma-equestre-grünling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pseudoclitocybe_cyathiformis_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
