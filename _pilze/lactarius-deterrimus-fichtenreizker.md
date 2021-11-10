@@ -57,13 +57,13 @@ Untersucht man die Lamellenschneide auf das Vorhandensein von [Cheilozystiden](C
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lactarius_deterrimus_09_bm.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/lactarius_deterrimus_11_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Cheilozystiden in SDS-Kongorot" %}
 
 Sucht man hingegen die Lamellenfläche nach [Pleurozystiden](Pleurozystiden "Glossar") ab, so scheinen diese noch wesentlich spärlicher zu sein. Die Lactiferen sind unseptierte [Hyphen](Hyphen "Glossar"), die den Milchsaft enthalten und sich in Sulfovanillin schwarz verfärben.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lactarius_deterrimus_10_bm.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/lactarius_deterrimus_11_bm.jpg" %}
 {% include abbildung_ende.html legende="Pleurozystiden in SDS-Kongorot -- Lactiferen in Sulvovanillin" %}
 
 Bei der Bestimmung von Milchlingen spielt die Huthautstruktur eine wichtige Rolle. Beim Fichtenreizker handelt es sich um eine *Ixokutis*, d.h. eine Schicht liegender Hyphen, die in dicken Schleim eingebettet ist. Um den Schleim sichtbar zu machen, hat sich folgende Methode bewährt: Ein maximal 30 µm dicker Mikrotom- oder Handschnitt wird in Tannin gebeizt, dann in Eisen-3-Chlorid gefärbt, schließlich in Toluidinblau umgefärbt. Hier das Ergebnis eines Handschnittes:
