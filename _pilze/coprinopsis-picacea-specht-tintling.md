@@ -29,3 +29,5 @@ Der Specht-Tintling ist speziell im Frankfurter Stadtwald keine Seltenheit, aber
 {% include abbildung_ende.html %}
 
 Die hellen Hüllreste auf dem schwarzen Hut machen den Pilz praktisch unverwechselbar. Sie können leicht abgewischt werden. Die Hüte beginnen schnell zu schwarzer Tinte zu verfließen, ein biologischer Vorgang, der als Autolyse bekannt ist. Unsere Vorfahren wussten diese spezielle Tintlingseigenschaft zu nutzen und verwendeten die Flüssigkeit zum Schreiben. Mit zugespitztem Gänsefederkiel, versteht sich.
+
+Der Vollständigkeit halber sei noch erwähnt: giftig ist er nicht, wegen seines unangenehm muffigen Geruchs aber völlig ungenießbar.
