@@ -12,7 +12,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/craterellus_cinereus_04_msa.jpeg
-  legende: "Foto: Fredi Kasparek"
+  legende: "Foto: Michaela Sandman"
 literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Craterellus_cinereus.html
 ---
