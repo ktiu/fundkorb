@@ -11,7 +11,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/craterellus_cinereus_01_frk.jpg
+  datei: /bilder/craterellus_cinereus_04_msa.jpeg
   legende: "Foto: Fredi Kasparek"
 literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Craterellus_cinereus.html
