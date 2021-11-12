@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_rorida_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+12.11.2021: Aktueller Fundkorbpilz ist der Schleimfuß-Helmling *Mycena rorida*. Ich habe ihn am vergangenen Samstag wie einen guten alten Bekannten begrüßt, den ich seit Jahren wenn nicht Jahrzehnten nicht mehr gesehen habe. Schon auf den ersten Blick war klar, wen ich da vor mir habe. Sein mit einer dicken transparenten Schleimschicht überzogener Stiel macht ihn unverwechselbar. Darüberhinaus zeichnen ihn noch einige andere Merkmale aus, die eigentlich nicht in die Gattung Mycena passen. Deshalb ist er auch 1994 in die extra für ihn geschaffene Gattung *Roridomyces* gestellt worden.
+
+[Mehr lesen >](/pilze/mycena-rorida-schleimfuß-helmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_equestre_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
