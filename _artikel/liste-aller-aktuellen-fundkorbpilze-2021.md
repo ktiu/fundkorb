@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-10.11.2021 [Tricholoma equestre - Grünling](/pilze/tricholoma-equestre-grünling)  
+12.11.2021 [Mycena rorida - Schleimfuß-Helmling](/pilze/mycena-rorida-schleimfuß-helmling)  
+10.11.2021 [Tricholoma equestre - Grünling](/pilze/tricholoma-equestre-grünling)\
 09.11.2021 [Pseudoclitocybe cyathiformis - Kaffeebrauner Gabeltrichterling](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)\
 08.11.2021 [Leotia lubrica - Grüngelbes Gallertkäppchen](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)\
 07.11.2021 [Plicatura crispa - Buchen-Adernzähling](/pilze/plicatura-crispa-buchen-adernzähling)\
