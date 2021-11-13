@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Es sind die kühlen bis frostig kalten Nächte, die unseren aktuellen [Fundkorbpilz](AA "Glossar-") vom 13.11.2021 zum Wachsen anregen. Niedrige Temperaturen sind quasi die ökologische Nische des Frostschnecklings *Hygrophorus hypothejus*. Er kommt, wenn die meisten anderen gehen. Und das mitunter in enormen Mengen. Schade nur, dass der eigentlich sehr leckere Speisepilz so schleimig ist. Das verleidet das Putzen, das unbedingt erforderlich ist, wenn man die Schlotze nicht im Pilzgericht haben will. Trotz Schleimschicht ist er der Hübschesten einer. Um das zu erkennen, muss man nur die Lamellenseite betrachten.
+
+[Mehr lesen > ](/pilze/hygrophorus-hypothejus-frostschneckling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_rorida_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
