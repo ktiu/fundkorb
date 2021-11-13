@@ -21,7 +21,7 @@ literatur:
 {% include bild.html datei="/bilder/lepista_densifolia_01_bm.jpg" %}
 {% include abbildung_ende.html legende="Fund bei Straubenhatdt, Baden-Württemberg - Nadelmischwald mit eingestreuten Rotbuchen in ca. 500 m Höhe" %}
 
-Der Dichtblättrige Rötelritterling ist eine recht häufige Art, die sowohl in Laub- wie auch Nadelwäldern anzutreffen ist. Als typscher Herbst- und Spätherbstpilz wächst er in Gruppen oder Hexenringen und agiert als Humuszersetzer.
+Der Dichtblättrige Rötelritterling ist ein typischer Herbst- und Spätherbstpilz. Er wächst gern gesellig oder in Hexenringen und agiert als Humuszersetzer.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/lepista_densifolia_02_bm.jpg" %}
