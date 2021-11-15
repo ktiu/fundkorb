@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-13.11.2021 [Hygrophorus hypothejus - Frostschneckling](/pilze/hygrophorus-hypothejus-frostschneckling)  
+15.11.2021 [Lactarius deterrimus - Fichtenreizker](/pilze/lactarius-deterrimus-fichtenreizker)  
+13.11.2021 [Hygrophorus hypothejus - Frostschneckling](/pilze/hygrophorus-hypothejus-frostschneckling)\
 12.11.2021 [Mycena rorida - Schleimfuß-Helmling](/pilze/mycena-rorida-schleimfuß-helmling)\
 10.11.2021 [Tricholoma equestre - Grünling](/pilze/tricholoma-equestre-grünling)\
 09.11.2021 [Pseudoclitocybe cyathiformis - Kaffeebrauner Gabeltrichterling](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)\
