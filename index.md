@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_deterrimus_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+15.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fichtenreizker *Lactarius deterrimus*. Er ist ein Doppelgänger des Edelreizkers, aber längst nicht so lecker wie dieser. Alle 5 karottenrot milchenden Reizkerarten haben Nadelbäume als Mykorrhizapartner, entweder Fichte, Tanne oder Kiefer. Die sichere Unterscheidung ist nicht immer einfach, eine Verwechslung aber ohne gesundheitliche Risiken. Alle sind ungiftig. Für den Fichtenreizker sprechen keine oder nur schwache Zonierung auf der Hutoberfläche, keine oder nur sehr spärliche Grübchen am Stiel, sowie eine beim Anschnitt im Fleisch erkennbare Farbveränderung von karottenrot zu weinrot. Die geht aber nur allmählich vonstatten und kann bis zu 30 Minuten dauern.
+
+[Mehr lesen >](/pilze/lactarius-deterrimus-fichtenreizker) 
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -27,72 +39,12 @@ Es sind die kühlen bis frostig kalten Nächte, die unseren aktuellen [Fundkorbp
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_rorida_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-12.11.2021: Aktueller Fundkorbpilz ist der Schleimfuß-Helmling *Mycena rorida*. Ich habe ihn am vergangenen Samstag wie einen guten alten Bekannten begrüßt, den ich seit Jahren wenn nicht Jahrzehnten nicht mehr gesehen habe. Schon auf den ersten Blick war klar, wen ich da vor mir habe. Sein mit einer dicken transparenten Schleimschicht überzogener Stiel macht ihn unverwechselbar. Darüberhinaus zeichnen ihn noch einige andere Merkmale aus, die eigentlich nicht in die Gattung Mycena passen. Deshalb ist er auch 1994 in die extra für ihn geschaffene Gattung *Roridomyces* gestellt worden.
-
-[Mehr lesen >](/pilze/mycena-rorida-schleimfuß-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_equestre_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 10.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grünling *Tricholoma equestre*, eine Ritterlingsart, die seit Jahren stark rückläufig ist und lt. Bundesartenschutzverordnung zu den besonders geschützten Arten zählt. Das heißt: er darf unter keinen Umständen gesammelt werden. Jahrhunderte lang ist der beliebte Speisepilz schadlos verzehrt worden. Auch ich habe ihn in jungen Jahren, als er in den Kieferwäldern im Rhein-Main-Gebiet noch keine Rarität war, desöfteren in der Pfanne (und dann im Magen) gehabt. Seit 2001 ist er jedoch als Verursacher der Muskelerkrankung *Rhabdomyolyse* in Verruf geraten und soll für etliche tödliche Vergiftungen verantwortlich sein. Wie man inzwischen weiß, gingen in allen bekannt gewordenen Fällen mehrere extrem üppige Grünlingsmahlzeiten an mehreren aufeinanderfolgenden Tagen voraus, während der Verzehr in üblicher Menge und Häufigkeit nach wie vor ohne Folgen blieb. Aufgrund neuer Studien wird die generelle Giftigkeit des Grünlings nun wieder in Frage gestellt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tricholoma-equestre-grünling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pseudoclitocybe_cyathiformis_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kaffeebraune Gabeltrichterling *Pseudoclitocybe cyathiformis*, ein typischer Spätherbstpilz. Er fällt durch seine im Verhältnis zu den langen steifen Stielen kleinen tiefgenabelten Hüten auf. Mit der kaffee- bis graubraunen Hutfarbe ist er gut gekennzeichnet und ein nicht zu verachtender Speisepilz. Da ihn kaum ein Pilzsammler kennt, hat man kaum Konkurrenz zu befürchten, die einem die meist gesellig erscheinenden Pilze wegschnappen. Zur sicheren Bestimmung gehören auch die Lamellen, die mehrheitlich oder auch nur vereinzelt ganz nahe am Stiel gegabelt sind, ein Merkmal, das man am besten mit der Lupe aufsucht. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leotia_lubrica_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Grüngelbe Gallertkäppchen *Leotia lubrica*. Es war am vergangenen Samstag mein persönliches Highlight bei einer pilzkundlichen Exkursion in einem Dietzenbacher Wald, weil ich den bemerkenswerten Pilz seit ca. drei Jahrzehnten erstmals wieder gesehen habe. Auch in der Literatur wird er als stark rückläufig bezeichnet. Seine ungewöhnliche Form und seine gallertartige Konsistenz machen ihn zu einer auffälligen und nahezu unverwechselbaren Erscheinung. Nach neueren Erkenntnissen gilt er als giftverdächtig. Er soll in geringer Konzentration Gyromitrin enthalten, ein Giftstoff, der vor allem durch die Frühjahrslorchel bekannt ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/plicatura_crispa_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Mein aktueller [Fundkorbpilz](AA "Glossar-") am 07.11.2021 ist der Buchen-Adernzähling *Plicatura crispa*. Seine Fruchtkörper sind zwar in der Tat etwas zäh, fühlen sich aber angenehm weich an. Für mich gehört er zu den attraktiven Pilzarten, besonders wenn sie wie aktuell einen toten, am Boden liegenden Birkenstamm in beachtlicher Länge überwachsen haben. Nicht weniger attraktiv sind Vorkommen an noch stehenden Stämmen. Zu seinen Merkmalen gehört auch das reinweiße Hymenophor, das aus filigranen, sehr eng stehenden Falten besteht. Der Name Buchen-Adernzähling erscheint mir nicht sehr treffend gewählt zu sein. Ich habe die recht häufige Art bisher ganz überwiegend an Birke gefunden, was in krassem Gegensatz zu den Angaben in *"Die Großpilze Baden-Württembergs"* steht. Hier liegt die Buche mit 462 Funden ganz klar vor Hasel (143) und Birke (34). Herrschen hier im Rhein-Main-Gebiet eventuell andere Verhältnisse? Welche Erfahrungen haben andere Pilzfreunde in der Region oder anderswo gemacht? (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/plicatura-crispa-buchen-adernzähling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_meliigena_02_uvs.jpg" %}
-{% include abbildung_ende.html %}
-
-06.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein kleiner Helmling, der gern auf bemooster Baumrinde wächst: *Mycena meliigena*, der Rötliche Rindenhelmling. Er ist so winzig, dass man seine Schönheit erst mit der Lupe erkennt. Seine mützenförmigen gefalteten Hütchen werden etwa 2 - 6 mm groß und sind ziemlich uneinheitlich gefärbt. Wenn rötliche Töne überwiegen, ist das immerhin ein Hinweis auf unsere Art, aber um sicher zu gehen, sollten Rindenhelmlinge grundsätzlich mikroskopiert werden. Manchmal erscheinen sogar zwei oder drei unterschiedliche Arten auf der gleichen Fläche, wobei die einzelnen Populationen meist deutlich voneinander getrennt sind. 
-
-[Mehr lesen >](/pilze/mycena-meliigena-rötlicher-rindenhelmling)
 
 <div style="clear:  both"></div>
 
