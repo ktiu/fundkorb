@@ -20,7 +20,7 @@ footer_scripts:
 
 18.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Knotige Schillerporling *Inonotus nodulosus.* Er gehört zu den Porlingen mit brauner [Trama](Trama "Glossar") (Hymenochaetaceae), deren Poren bei schrägem Lichteinfall gattungstypisch "schillern".  Dieses Schillern ist gut zu erkennen, wenn man relativ junge, noch im Wachstum begriffe Fruchtkörper ein wenig hin- und herkippt. Vermutlich entsteht es durch Lichtbrechung an den feinen Härchen, die mit der Lupe auf den Porenwänden sichtbar sind. Der Knotige Schillerporling ist wohl die häufigste Art der Gattung, die in kaum einem älteren Buchenbestand fehlen dürfte, in dem es ausreichend Totholz gibt. Er wächst gern an Schnittflächen, aber auch an  der Rinde noch stehender abgestorbener Stämme.
 
-Mehr lesen >
+[Mehr lesen >](/pilze/inonotus-nodulosus-knotiger-schillerporling)
 
 <div style="clear:  both"></div>
 
