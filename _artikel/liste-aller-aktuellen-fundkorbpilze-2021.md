@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-15.11.2021 [Lactarius deterrimus - Fichtenreizker](/pilze/lactarius-deterrimus-fichtenreizker)  
+18.11.2021 [Inonotus nodulosus - Knotiger Schillerporling](/inonotus-nodulosus-knotiger-schillerporling)  
+15.11.2021 [Lactarius deterrimus - Fichtenreizker](/pilze/lactarius-deterrimus-fichtenreizker)\
 13.11.2021 [Hygrophorus hypothejus - Frostschneckling](/pilze/hygrophorus-hypothejus-frostschneckling)\
 12.11.2021 [Mycena rorida - Schleimfuß-Helmling](/pilze/mycena-rorida-schleimfuß-helmling)\
 10.11.2021 [Tricholoma equestre - Grünling](/pilze/tricholoma-equestre-grünling)\
