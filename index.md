@@ -15,8 +15,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/inonotus_nodulosus_04_dg.jpg" %}
+{% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
 {% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 20.11.2021 ist der Samtfußrübling *Flammulina velutipes*. Nicht ohne Grund wird er auch Winterrübling genannt. Wer auch im Winter nicht auf selbst gesammelte Pilze verzichten möchte, hat in ihm eine schmackhafte und frostunempfindliche Alternative zum Austernseitling. Außerdem ist er ein dankbares Fotomotiv. Er wächst büschelig an totem oder auch lebendem Laubholz und ist an seiner braunsamtigen Stielbekleidung gut zu erkennen. Bei feuchtem Wetter sind die glänzend hell- bis orangegelben Hüte schmierig, bei Trockenheit matt und trocken.
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
 
 18.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Knotige Schillerporling *Inonotus nodulosus.* Er gehört zu den Porlingen mit brauner [Trama](Trama "Glossar") (Hymenochaetaceae), deren Poren bei schrägem Lichteinfall gattungstypisch "schillern".  Dieses Schillern ist gut zu erkennen, wenn man relativ junge, noch im Wachstum begriffe Fruchtkörper ein wenig hin- und herkippt. Vermutlich entsteht es durch Lichtbrechung an den feinen Härchen, die mit der Lupe auf den Porenwänden sichtbar sind. Der Knotige Schillerporling ist wohl die häufigste Art der Gattung, die in kaum einem älteren Buchenbestand fehlen dürfte, in dem es ausreichend Totholz gibt. Er wächst gern an Schnittflächen, aber auch an  der Rinde noch stehender abgestorbener Stämme.
 
