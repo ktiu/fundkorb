@@ -20,7 +20,7 @@ footer_scripts:
 
 Aktueller [Fundkorbpilz](AA "Glossar-") am 20.11.2021 ist der Samtfußrübling *Flammulina velutipes*. Nicht ohne Grund wird er auch Winterrübling genannt. Wer auch im Winter nicht auf selbst gesammelte Pilze verzichten möchte, hat in ihm eine schmackhafte und frostunempfindliche Alternative zum Austernseitling. Außerdem ist er ein dankbares Fotomotiv. Er wächst büschelig an totem oder auch lebendem Laubholz und ist an seiner braunsamtigen Stielbekleidung gut zu erkennen. Bei feuchtem Wetter sind die glänzend hell- bis orangegelben Hüte schmierig, bei Trockenheit matt und trocken.
 
-Mehr lesen >
+[Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
 
 <div style="clear:  both"></div>
 
