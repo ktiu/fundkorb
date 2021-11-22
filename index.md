@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_leptocephala_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der häufige Graue Nitrathelmling *Mycena leptocephala*. Unter den Helmlingen ist er so etwas wie die graue Maus. Das Grau der Hüte ist bei jungen Exemplaren dunkler, bei älteren heller und bei Feuchtigkeit bis fast zur Mitte durchscheinend gerieft. Weißlich grau sind die Lamellen, bräunlich grau die Stiele, unter dem Hut und auch zur Basis hin heller. Ein weiteres Merkmal ist der nitröse Geruch, den man auch „nach Schwimmbad“, also chlorartig, nennen kann. Unter diesen Umständen ist der Name „Grauer Nitrathelmling“ passend. Auffällig ist die striegelige Stielbasis, die von weißen [Rhizomorphen](Rhizomorphen "Glossar") bekleidet ist.
+
+[Mehr lesen >](/pilze/mycena-leptocephala-grauer-nitrathelmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,42 +41,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 20.11.2021 ist der Samtfußrübling *
 18.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Knotige Schillerporling *Inonotus nodulosus.* Er gehört zu den Porlingen mit brauner [Trama](Trama "Glossar") (Hymenochaetaceae), deren Poren bei schrägem Lichteinfall gattungstypisch "schillern".  Dieses Schillern ist gut zu erkennen, wenn man relativ junge, noch im Wachstum begriffe Fruchtkörper ein wenig hin- und herkippt. Vermutlich entsteht es durch Lichtbrechung an den feinen Härchen, die mit der Lupe auf den Porenwänden sichtbar sind. Der Knotige Schillerporling ist wohl die häufigste Art der Gattung, die in kaum einem älteren Buchenbestand fehlen dürfte, in dem es ausreichend Totholz gibt. Er wächst gern an Schnittflächen, aber auch an  der Rinde noch stehender abgestorbener Stämme.
 
 [Mehr lesen >](/pilze/inonotus-nodulosus-knotiger-schillerporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_deterrimus_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-15.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fichtenreizker *Lactarius deterrimus*. Er ist ein Doppelgänger des Edelreizkers, aber längst nicht so lecker wie dieser. Alle 5 karottenrot milchenden Reizkerarten haben Nadelbäume als Mykorrhizapartner, entweder Fichte, Tanne oder Kiefer. Die sichere Unterscheidung ist nicht immer einfach, eine Verwechslung aber ohne gesundheitliche Risiken. Alle sind ungiftig. Für den Fichtenreizker sprechen keine oder nur schwache Zonierung auf der Hutoberfläche, keine oder nur sehr spärliche Grübchen am Stiel, sowie eine beim Anschnitt im Fleisch erkennbare Farbveränderung von karottenrot zu weinrot. Die geht aber nur allmählich vonstatten und kann bis zu 30 Minuten dauern.
-
-[Mehr lesen >](/pilze/lactarius-deterrimus-fichtenreizker) 
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Es sind die kühlen bis frostig kalten Nächte, die unseren aktuellen [Fundkorbpilz](AA "Glossar-") vom 13.11.2021 zum Wachsen anregen. Niedrige Temperaturen sind quasi die ökologische Nische des Frostschnecklings *Hygrophorus hypothejus*. Er kommt, wenn die meisten anderen gehen. Und das mitunter in enormen Mengen. Schade nur, dass der eigentlich sehr leckere Speisepilz so schleimig ist. Das verleidet das Putzen, das unbedingt erforderlich ist, wenn man die Schlotze nicht im Pilzgericht haben will. Trotz Schleimschicht ist er der Hübschesten einer. Um das zu erkennen, muss man nur die Lamellenseite betrachten.
-
-[Mehr lesen > ](/pilze/hygrophorus-hypothejus-frostschneckling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_equestre_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grünling *Tricholoma equestre*, eine Ritterlingsart, die seit Jahren stark rückläufig ist und lt. Bundesartenschutzverordnung zu den besonders geschützten Arten zählt. Das heißt: er darf unter keinen Umständen gesammelt werden. Jahrhunderte lang ist der beliebte Speisepilz schadlos verzehrt worden. Auch ich habe ihn in jungen Jahren, als er in den Kieferwäldern im Rhein-Main-Gebiet noch keine Rarität war, desöfteren in der Pfanne (und dann im Magen) gehabt. Seit 2001 ist er jedoch als Verursacher der Muskelerkrankung *Rhabdomyolyse* in Verruf geraten und soll für etliche tödliche Vergiftungen verantwortlich sein. Wie man inzwischen weiß, gingen in allen bekannt gewordenen Fällen mehrere extrem üppige Grünlingsmahlzeiten an mehreren aufeinanderfolgenden Tagen voraus, während der Verzehr in üblicher Menge und Häufigkeit nach wie vor ohne Folgen blieb. Aufgrund neuer Studien wird die generelle Giftigkeit des Grünlings nun wieder in Frage gestellt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tricholoma-equestre-grünling)
 
 <div style="clear:  both"></div>
 
