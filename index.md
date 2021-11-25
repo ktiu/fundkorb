@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/stereum_sanguinolentum_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-15.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutende Schichtpilz *Stereum sanguinolentum*, den man zur Zeit oft an Nadelholz findet und der in unseren schwer geschädigten Fichtenwäldern reichlich Substrat zur Verfügung hat. Diese Vorliebe macht ihn in Verbindung mit der blutroten Verfärbung, die beim Anritzen eines frischen Fruchtkörpers entsteht, unverwechselbar. In vertrocknetem Zustand sind Schichtpilze nur schwer bestimmbar. Die meisten wachsen *[resupinat](resupinat "Glossar")* und bilden mehr oder weniger deutlich abstehende Hüte aus. (Dieter Gewalt)
+25.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutende Schichtpilz *Stereum sanguinolentum*, den man zur Zeit oft an Nadelholz findet und der in unseren schwer geschädigten Fichtenwäldern reichlich Substrat zur Verfügung hat. Diese Vorliebe macht ihn in Verbindung mit der blutroten Verfärbung, die beim Anritzen eines frischen Fruchtkörpers entsteht, unverwechselbar. In vertrocknetem Zustand sind Schichtpilze nur schwer bestimmbar. Die meisten wachsen *[resupinat](resupinat "Glossar")* und bilden mehr oder weniger deutlich abstehende Hüte aus. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)
 
