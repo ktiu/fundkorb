@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-22.11.2021 [Mycena leptocephala - Grauer Nitrathelmling](/pilze/mycena-leptocephala-grauer-nitrathelmling)  
+25.11.2021 [Stereum sanguinolentum - Blutender Schichtpilz](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)  
+22.11.2021 [Mycena leptocephala - Grauer Nitrathelmling](/pilze/mycena-leptocephala-grauer-nitrathelmling)\
 20.11.2021 [Flammulina velutipes - Samtfußkrempling](/pilze/flammulina-velutipes-samtfußrübling)\
 18.11.2021 [Inonotus nodulosus - Knotiger Schillerporling](/pilze/inonotus-nodulosus-knotiger-schillerporling)\
 15.11.2021 [Lactarius deterrimus - Fichtenreizker](/pilze/lactarius-deterrimus-fichtenreizker)\
