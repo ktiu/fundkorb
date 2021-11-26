@@ -2,7 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-26.11.2021 [Tricholoma sulphureum - Schwefelritterling](/tricholoma-sulphureum-schwefelritterling)  
+26.11.2021 [Tricholoma sulphureum - Schwefelritterling](/pilze/tricholoma-sulphureum-schwefelritterling)  
 25.11.2021 [Stereum sanguinolentum - Blutender Schichtpilz](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)\
 22.11.2021 [Mycena leptocephala - Grauer Nitrathelmling](/pilze/mycena-leptocephala-grauer-nitrathelmling)\
 20.11.2021 [Flammulina velutipes - Samtfußkrempling](/pilze/flammulina-velutipes-samtfußrübling)\
