@@ -15,12 +15,12 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_versicolor_03_dg.jpg" %}
+{% include bild.html datei="/bilder/tricholoma_sulphureum_01_dg-2048x1293.jpeg" %}
 {% include abbildung_ende.html %}
 
-28.11.2021: Mein [Fundkorbpilz](AA "Glossar-") zum 1. Advent ist natürlich die Schmetterlingstramete. Getrocknet eignet sie sich prima zum Schmücken von Adventskränzen. Ich kann mich noch gut daran erinnern, dass ich das in meiner Kindheit gemacht habe. Sie ist ja ein perfekter Dekopilz. Auch als Vitalpilz kann man sie empfehlen. Als Pulver, Kapseln oder Extrakt bekommt man ihn im Internet ab 16 € + 6,95 Versandkosten. Kann man natürlich preiswerter haben und selber herstellen. Schmetterlingstrameten gibt's in jedem Wald. (Dieter Gewalt)
+26.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwefelritterling *Tricholoma sulphureum*.  Unter den rund 60 mitteleuropäischen Ritterlingsarten ist er sicher der am leichtesten bestimmbare. Schwefelgelbe bis grünliche Farben und sein widerlicher Geruch nach Leuchtgas oder Karbid machen ihn unverwechselbar. Er wächst in Nadel- wie auch in Laubwäldern, stellt keine speziellen Ansprüche an die Bodenbeschaffenheit und ist überall häufig. Dass er giftig ist, bedarf keiner besonderen Erwähnung. Sein übler Geruch verhindert, dass er jemals in einer Pfanne landet. (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
+[Mehr lesen >](/pilze/tricholoma-sulphureum-schwefelritterling)
 
 <div style="clear:  both"></div>
 
