@@ -1,8 +1,8 @@
 ---
-permalink: /pilze/craterellus-cinereus-grauer-leistling-krause-kraterelle
+permalink: /pilze/craterellus-cinereus-grauer-leistling
 beschreibung:
   wissenschaftlich: Craterellus cinereus
-  deutsch: Grauer Leistling, Krause Kraterelle
+  deutsch: Grauer Leistling
   referenz: (Pers.) Pers. 1825
   erlaeuterung: cinereus = aschgrau
   familie: Hydnaceae
