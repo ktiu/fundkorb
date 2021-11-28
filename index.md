@@ -36,41 +36,7 @@ Mehr lesen >
 
 <div style="clear:  both"></div>
 
-- - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_sanguinolentum_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutende Schichtpilz *Stereum sanguinolentum*, den man zur Zeit oft an Nadelholz findet und der in unseren schwer geschädigten Fichtenwäldern reichlich Substrat zur Verfügung hat. Diese Vorliebe macht ihn in Verbindung mit der blutroten Verfärbung, die beim Anritzen eines frischen Fruchtkörpers entsteht, unverwechselbar. In vertrocknetem Zustand sind Schichtpilze nur schwer bestimmbar. Die meisten wachsen *[resupinat](resupinat "Glossar")* und bilden mehr oder weniger deutlich abstehende Hüte aus. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_leptocephala_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der häufige Graue Nitrathelmling *Mycena leptocephala*. Unter den Helmlingen ist er so etwas wie die graue Maus. Das Grau der Hüte ist bei jungen Exemplaren dunkler, bei älteren heller und bei Feuchtigkeit bis fast zur Mitte durchscheinend gerieft. Weißlich grau sind die Lamellen, bräunlich grau die Stiele, unter dem Hut und auch zur Basis hin heller. Ein weiteres Merkmal ist der nitröse Geruch, den man auch „nach Schwimmbad“, also chlorartig, nennen kann. Unter diesen Umständen ist der Name „Grauer Nitrathelmling“ passend. Auffällig ist die striegelige Stielbasis, die von weißen [Rhizomorphen](Rhizomorphen "Glossar") bekleidet ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-leptocephala-grauer-nitrathelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 20.11.2021 ist der Samtfußrübling *Flammulina velutipes*. Nicht ohne Grund wird er auch Winterrübling genannt. Wer auch im Winter nicht auf selbst gesammelte Pilze verzichten möchte, hat in ihm eine schmackhafte und frostunempfindliche Alternative zum Austernseitling. Außerdem ist er ein dankbares Fotomotiv. Er wächst büschelig an totem oder auch lebendem Laubholz und ist an seiner braunsamtigen Stielbekleidung gut zu erkennen. Bei feuchtem Wetter sind die glänzend hell- bis orangegelben Hüte schmierig, bei Trockenheit matt und trocken. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
-
-<div style="clear:  both"></div>
 
 - - -
 
