@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_versicolor_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.11.2021: Mein [Fundkorbpilz](AA "Glossar-") zum 1. Advent ist natürlich die Schmetterlingstramete, da sie sich getrocknet zum Schmücken von Adventskränzen eignet. Ich kann mich noch gut daran erinnern, dass ich das in meiner Kindheit gemacht habe. Sie ist ja ein perfekter Dekopilz, den man auch anderweitig verwenden kann. Zum Beispiel als Vitalpilz zu Pulver zermahlen. Kapseln oder Extrakt bekommt man im Internet ab 16 € plus 6,95 Versandkosten. Natürlich kann man es auch preiswerter haben und Pulver oder Extrakt selbst herstellen. Schmetterlingstrameten gibt's kostenlos in jedem Wald. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_sulphureum_01_dg-2048x1293.jpeg" %}
 {% include abbildung_ende.html %}
 
