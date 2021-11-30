@@ -36,7 +36,7 @@ Boden: Braunerde aus sandsteinreichen Fließerden, über Oberem Buntsandstein
 Die **Hüte** sind fuchsig braun mit hellerem Randbereich, glatt, konvex oder stumpf gebuckelt, am Rand ungerieft und bei nassem Wetter dick verschleimt. Sie erreichen nach BAS et al. Durchmesser von bis zu 10 cm. Die **Stiele** sind zylindrisch oder nach unten hin etwas verdickt, alt enghohl, cremefarben mit brauner Überfaserung. Die **Lamellen** sind ausgebuchtet angewachsen ("Burggraben") und in jungem Zustand blass gelblich, werden jedoch bald hell bräunlich und gerne braunfleckig. Das **Fleisch** von Hut und oberem Stielbereich ist cremefarben bis blass gelblich, im jungen Zustand in der Stielrinde auch stärker gelb. Es schmeckt deutlich nach Mehl und riecht im frischen Anschnitt ebenfalls nach Mehl.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/clitocybe_phyllophila_05_bm.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/tricholoma_pseudonictitans_03_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/tricholoma-pseudonictitans_04_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: breit ellipsoide Sporen, Präparat in Phloxin -- Abb. rechts: 30 µm dicker Querschnitt der Huthaut, Färbung mit Tannin–Eisen–Toluidinblau" %}
 
