@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clavulinopsis_helvola_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.12.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist die Goldgelbe Wiesenkeule *Clavulinopsis helvola*. In kurzgehaltenen moosigen Grasflächen fallen sie oft so wenig auf, dass man sie leicht übersieht oder schon mitten in einem großflächigen Massenvorkommen steht, bevor man sie entdeckt. Und das trotz ihrer schönen gelben Farbe. Wenn es sich um unverzweigte gelbe Keulchen handelt, kommen vier Arten in Frage, die nur mikroskopisch sicher zu trennen sind. Clavulinopsis helvola dürfte die häufigste von ihnen sein. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/clavulinopsis-helvola-goldgelbe-wiesenkeule)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_versicolor_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
