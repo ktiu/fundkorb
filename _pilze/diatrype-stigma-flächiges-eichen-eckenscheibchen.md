@@ -41,14 +41,14 @@ Die Sporen sind würstchenförmig (allantoid), dünnwandig, glatt und durchschei
 {% include bild.html datei="/bilder/diatrype_stigma_04_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-Flächige Eckenscheibchen werden häufig vom Aufsitzenden Pustelpilz Nectria episphaeria parasitiert, deren winzige rote [Perithezien](Perithezien "Glossar") nur mit einer gut vergrößernden Lupe zu erkennen sind.
+Flächige Eckenscheibchen werden häufig vom [Aufsitzenden Pustelpilz Nectria episphaeria](/pilze/nectria-episphaeria-aufsitzender-pustelpilz) parasitiert, deren winzige rote [Perithezien](Perithezien "Glossar") nur mit einer gut vergrößernden Lupe zu erkennen sind.
 
 **Die drei Flächigen Eckenscheibchen im Vergleich:**
 
-**Diatrype decorticata** (die hier beschriebene Art): Stroma schmutzig bräunlich, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Rotbuche, Birke
+**[Diatrype decorticata](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen)** (die hier beschriebene Art): Stroma schmutzig bräunlich, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Rotbuche, Birke
 
 **Diatrype stigma:** Stroma rußschwarz, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Eiche
 
-**Diatrype undulata**: Stroma rußschwarz, Rand schwarz. Ostiolen deutlich größer, mit bloßem Auge gerade so erkennbar. Substrat: Birke
+**[Diatrype undulata](/pilze/diatrype-undulata-flaches-birken-eckenscheibchen)**: Stroma rußschwarz, Rand schwarz. Ostiolen deutlich größer, mit bloßem Auge gerade so erkennbar. Substrat: Birke
 
 Es ist davon auszugehen, dass Verbreitungskarten von *Diatrype stigma* und auch Fundlisten häufig fehlerhaft sind, da die Art von Kartierern nicht von den beiden anderen unterschieden worden sind und noch werden. In *Breitenbach & Kränzlin (Pilze der Schweiz, Band 1, Nr. 358)* wird das Flächige Eckenscheibchen als einzige bei uns vorkommende Diatrype-Art benannt, die ein flächiges Stroma bildet, was nicht nur nach neueren Erkenntnissen falsch ist.
