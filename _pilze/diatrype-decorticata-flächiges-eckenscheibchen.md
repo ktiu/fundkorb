@@ -38,7 +38,7 @@ Um an die Schläuche und an die in ihnen enthaltenen Sporen zu gelangen, entnimm
 {% include bild.html datei="/bilder/diatrype_decorticata_06_bm.jpg" %}
 {% include abbildung_ende.html legende="Sehr schwach Jod-positiver, noch unreifer Ascus, gefärbt in Baralscher Lösung" %}
 
-Wichtig sind natürlich noch Sporenzahl und Sporenanordnung im [Ascus](Ascus "Glossar"). Bei der Gattung Diatrype enthalten die Asci generell acht Sporen. Wie das nachfolgende Foto zeigt, haben wir es zudem mit einer einreihigen (uniseriaten) bis unregelmäßig zweireihigen (unregelmäßig biseriaten) Anordnung zu tun.
+Wichtig sind natürlich noch Sporenzahl und Sporenanordnung im [Ascus](Asci "Glossar"). Bei der Gattung Diatrype enthalten die Asci generell acht Sporen. Wie das nachfolgende Foto zeigt, haben wir es zudem mit einer einreihigen (uniseriaten) bis unregelmäßig zweireihigen (unregelmäßig biseriaten) Anordnung zu tun.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/diatrype_decorticata_04_bm.jpg" nocrop=true %}
