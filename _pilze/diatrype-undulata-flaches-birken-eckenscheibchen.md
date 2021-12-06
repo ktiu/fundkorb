@@ -24,7 +24,7 @@ literatur:
 
 Die schwarzen [Stromata](Stroma "Glossar") waren auf den Ästen flächig ausgebreitet, das Substrat auf etliche Dezimeter Länge überziehend. Sie waren schwarz, dicklich-wulstig und querrissig; der Rand steil und geschwungen. Die Perithezien sind kugelig bis oval, nach eigenen Messungen 0,25-0,4 mm im Durchmesser, mit schwarzem Rand. Ostiolen bereits mit bloßem Auge gerade so erkennbar, ca. 150 µm im Durchmesser, sternförmig geschlitzt und deutlich über das Stroma herausragend.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/diatrype_undulata_03_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/diatrype_undulata_04_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: Ascus mit Sporen und Einzelspore -- Abb. rechts: Dporen in Wasser" %}
