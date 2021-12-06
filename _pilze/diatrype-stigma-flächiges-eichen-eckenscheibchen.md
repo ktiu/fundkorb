@@ -45,7 +45,7 @@ Flächige Eckenscheibchen werden häufig vom [Aufsitzenden Pustelpilz Nectria ep
 
 **Die drei Flächigen Eckenscheibchen im Vergleich:**
 
-**[Diatrype decorticata](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen)** (die hier beschriebene Art): Stroma schmutzig bräunlich, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Rotbuche, Birke
+**[Diatrype decorticata](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)**: Stroma schmutzig bräunlich, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Rotbuche, Birke
 
 **Diatrype stigma:** Stroma rußschwarz, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Eiche
 
