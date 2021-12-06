@@ -20,7 +20,7 @@ Beim Bestimmen von Pilzen kommt dem Geruch eine wichtige Rolle zu. Ein sehr häu
 {% include bild.html datei="/bilder/macrocystidia_cucumis_03_tl.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Typisch für Gurkenschnitzlinge sind neben dem Geruch die fein samtigen Hüte und Stiele (2 Fotos: Thomas Lehr)" %}
 
-Die feine Bereifung an Hut und Stiel besteht aus sehr großen 60 bis 90 µm langen lanzettlichen [Zystiden](<Zystiden "Glossar">), die man schon mit einer stark vergrößernden Lupe erkennen kann. Das Sporenpulver ist rostocker bis orangebraun gefärbt, die glatten Sporen sind elliptisch geformt.
+Die feine Bereifung an Hut und Stiel besteht aus sehr großen 60 bis 90 µm langen lanzettlichen [Zystiden](Zystiden "Glossar"), die man schon mit einer stark vergrößernden Lupe erkennen kann. Das Sporenpulver ist rostocker bis orangebraun gefärbt, die glatten Sporen sind elliptisch geformt.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/macrocystidia_cucumis_04_tl.jpg" %}
