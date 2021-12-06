@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/piptoporus_betulinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenporling *Piptoporus betulinus*. Wer ihn in seiner Heimapotheke als Vital- oder Heilpilz gegen seinen nervösen Reizmagen anwenden will, sollte sich mit dem Sammeln beeilen, denn er hat eine begrenzte Lebensdauer. Erste Nachtfröste können ihm schon so zusetzen, dass man nur noch gammelige nicht mehr verwendbare Fruchtkörper findet. Als Tee zubereitet soll er wahre Wunder wirken, was schon unser Eiszeitfreund Ötzi wusste. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/piptoporus-betulinus-birkenporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clavulinopsis_helvola_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 28.11.2021: Mein [Fundkorbpilz](AA "Glossar-") zum 1. Advent ist natürlich die Schmetterlingstramete, da sie sich getrocknet zum Schmücken von Adventskränzen eignet. Ich kann mich noch gut daran erinnern, dass ich das in meiner Kindheit gemacht habe. Sie ist ja ein perfekter Dekopilz, den man auch anderweitig verwenden kann. Zum Beispiel als Vitalpilz zu Pulver zermahlen. Kapseln oder Extrakt bekommt man im Internet ab 16 € plus 6,95 Versandkosten. Natürlich kann man es auch preiswerter haben und Pulver oder Extrakt selbst herstellen. Schmetterlingstrameten gibt's kostenlos in jedem Wald. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_sulphureum_01_dg-2048x1293.jpeg" %}
-{% include abbildung_ende.html %}
-
-26.11.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwefelritterling *Tricholoma sulphureum*.  Unter den rund 60 mitteleuropäischen Ritterlingsarten ist er sicher der am leichtesten bestimmbare. Schwefelgelbe bis grünliche Farben und sein widerlicher Geruch nach Leuchtgas oder Karbid machen ihn unverwechselbar. Er wächst in Nadel- wie auch in Laubwäldern, stellt keine speziellen Ansprüche an die Bodenbeschaffenheit und ist überall häufig. Dass er giftig ist, bedarf keiner besonderen Erwähnung. Sein übler Geruch verhindert, dass er jemals in einer Pfanne landet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tricholoma-sulphureum-schwefelritterling)
 
 <div style="clear:  both"></div>
 
