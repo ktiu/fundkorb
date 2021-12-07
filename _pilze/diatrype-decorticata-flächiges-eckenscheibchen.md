@@ -49,7 +49,7 @@ Wichtig sind natürlich noch Sporenzahl und Sporenanordnung im [Ascus](Asci "Glo
 {% include bild.html datei="/bilder/diatrype_decorticata_05_bm.jpg" %}
 {% include abbildung_ende.html legende="Die Sporen sind allantoid, glatt und hyalin. Beide Präparat in Wasser mit sehr wenig Phloxin" %}
 
-Schließlich kommen wir zu den Sporen. Sie sind würstchenförmig (allantoid), glatt, [hyalin](hyalin "Glossar") und besitzen folgende Maße (Es wird das 95 % Vertrauensintervall zu Grunde gelegt): Lav x Bav = 7,9-8,4 x 1,8-1,9 µm, Qav = 4,3-4,7, Vav = 13-16 µm3 mit L Länge, B Breite, Q Schlankheitsgrad = L/B, V = Volumen, av = Average (Durchschnitt).
+Schließlich kommen wir zu den Sporen. Sie sind würstchenförmig (allantoid), glatt, [hyalin](hyalin "Glossar") und besitzen folgende Maße (Es wird das 95 % Vertrauensintervall zu Grunde gelegt): Lav x Bav = 7,9-8,4 x 1,8-1,9 µm, Qav = 4,3-4,7, Vav = 13-16 µm mit L Länge, B Breite, Q Schlankheitsgrad = L/B, V = Volumen, av = Average (Durchschnitt).
 
 **Die drei Flächigen Eckenscheibchen im Vergleich:**
 
