@@ -27,14 +27,14 @@ Die schwarzen [Stromata](Stroma "Glossar") waren auf den Ästen flächig ausgebr
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/diatrype_undulata_03_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/diatrype_undulata_04_bm.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Abb. links: Ascus mit Sporen und Einzelspore -- Abb. rechts: Dporen in Wasser" %}
+{% include abbildung_ende.html legende="Abb. links: Ascus mit Sporen und Einzelspore -- Abb. rechts: Sporen in Wasser" %}
 
 In Baralscher Kösung färbt sich die Ascusspitze ganz schwach bläulich, d.h. die Asci sind sehr schwach Jod-positiv. Die Sporen sind im Ascus unregelmäßig biseriat angeordnet. Sie  sind [allantoid](allantoid "Glossar"), dünnwandig und [hyalin](hyalin "Glossar"). Die Maße: Lpg x Bpg = 5,2-8,0 x 1-1,8 µm (mit L Länge, B Breite, pg Populationsgrenze).
 
 **Die drei Flächigen Eckenscheibchen im Vergleich:**
 
-**[Diatrype decorticata](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)**: (die hier beschriebene Art): Stroma flach, schmutzig bräunlich, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Rotbuche, Birke
+**[Diatrype decorticata](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)**: (die hier beschriebene Art): Stroma flach, schmutzig bräunlich, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Rotbuche, Birke. Sehr häufig.
 
-**[Diatrype stigma](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen):** Stroma flach, rußschwarz, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Eiche
+**[Diatrype stigma](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen):** Stroma flach, rußschwarz, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Eiche. Nicht häufig.
 
-**Diatrype undulata**: Stroma dicklich-wulstig, rußschwarz, Rand steil und geschwungen, schwarz. Ostiolen deutlich größer, mit bloßem Auge gerade so erkennbar. Substrat: Birke
+**Diatrype undulata** (die hier beschriene Art): Stroma dicklich-wulstig, rußschwarz, Rand steil und geschwungen, schwarz. Ostiolen deutlich größer, mit bloßem Auge gerade so erkennbar. Substrat: Birke. Selten.
