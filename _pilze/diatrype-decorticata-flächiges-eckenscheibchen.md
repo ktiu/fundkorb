@@ -53,8 +53,8 @@ Schließlich kommen wir zu den Sporen. Sie sind würstchenförmig (allantoid), g
 
 **Die drei Flächigen Eckenscheibchen im Vergleich:**
 
-**Diatrype decorticata** (die hier beschriebene Art): Stroma schmutzig bräunlich, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Rotbuche, Birke
+**Diatrype decorticata** (die hier beschriebene Art): Stroma flach, schmutzig bräunlich, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Rotbuche, Birke
 
-**[Diatrype stigma](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen)**: Stroma rußschwarz, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Eiche
+**[Diatrype stigma](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen)**: Stroma flach, rußschwarz, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Eiche
 
-**[Diatrype undulata](/pilze/diatrype-undulata-flaches-birken-eckenscheibchen):** Stroma rußschwarz, Rand schwarz. Ostiolen deutlich größer, mit bloßem Auge gerade so erkennbar. Substrat: Birke
+**[Diatrype undulata](/pilze/diatrype-undulata-flaches-birken-eckenscheibchen):** Stroma dicklich-wulstig, rußschwarz, Rand schwarz. Ostiolen deutlich größer, mit bloßem Auge gerade so erkennbar. Substrat: Birke
