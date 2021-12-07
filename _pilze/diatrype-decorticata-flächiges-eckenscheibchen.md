@@ -57,4 +57,4 @@ Schließlich kommen wir zu den Sporen. Sie sind würstchenförmig (allantoid), g
 
 **[Diatrype stigma](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen)**: Stroma flach, rußschwarz, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Eiche
 
-**[Diatrype undulata](/pilze/diatrype-undulata-flaches-birken-eckenscheibchen):** Stroma dicklich-wulstig, rußschwarz, Rand schwarz. Ostiolen deutlich größer, mit bloßem Auge gerade so erkennbar. Substrat: Birke
+**[Diatrype undulata](/pilze/diatrype-undulata-flaches-birken-eckenscheibchen):** Stroma dicklich-wulstig, rußschwarz, Rand steil und geschwungen, schwarz. Ostiolen deutlich größer, mit bloßem Auge gerade so erkennbar. Substrat: Birke
