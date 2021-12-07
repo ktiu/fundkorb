@@ -29,7 +29,7 @@ Der hier abgebildete Fund vom 19.05.2021 stammt aus einem lichten Traubeneichenb
 {% include bild.html datei="/bilder/diatrype_stigma_05_bm.jpg" %}
 {% include abbildung_ende.html legende="Stroma im Anschnitt. Die Perithecien sind bereits leer, so dass zwar Sporen, jedoch keine Asci mehr gewonnen werden konnten" %}
 
-Nach GÖRKE & LOTZ-WINTER sollen die [Ostiolen](Ostiolum "Glossar") beim Flächigen Eichen-Eckenscheibchen die Form flacher Scheibchen mit vertiefter Mitte besitzen. Wenn man jedoch die obige Abbildung (unteres Teilbild) sehr genau anschaut, erkennt man auch dort sternförmig geschlitzte Ostiolen, so, wie ich es bei meinem eigenen Fund beobachtet habe.
+Nach GÖRKE & LOTZ-WINTER sollen die [Ostiolen](Ostiolum "Glossar") beim Flächigen Eichen-Eckenscheibchen die Form flacher Scheibchen mit vertiefter Mitte besitzen. Wenn man jedoch deren Zeichnung (obige Abbildung, unteres Teilbild) sehr genau anschaut, erkennt man auch dort sternförmig geschlitzte Ostiolen, so, wie ich es bei meinem eigenen Fund beobachtet habe.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/diatrype_stigma_06_bm.jpg" %}
