@@ -51,7 +51,7 @@ Milchlinge mit scharfer Milch gelten bei uns als ungenießbar, werden vor allem 
         <td>selten</td>
       </tr>
       <tr>
-        <th>L. camphoratus<br/>Kampfer-M.</th>
+        <th><a href="/pilze/lactarius-camphoratus-kampfer-milchling">L. camphoratus<br/>Kampfer-M.</a></th>
         <td>bei Buchen und Fichten</td>
         <td>weiß</td>
         <td>mild, bald bitter</td>
@@ -75,7 +75,7 @@ Milchlinge mit scharfer Milch gelten bei uns als ungenießbar, werden vor allem 
         <td>nicht häufig</td>
       </tr>
       <tr>
-        <th><a href="/pilze/lactarius-hepaticus-leberbrauner-milchling">L. hepaticus<br/>Leberbrauner M.</a>.</th>
+        <th><a href="/pilze/lactarius-hepaticus-leberbrauner-milchling">L. hepaticus<br/>Leberbrauner M.</a></th>
         <td>bei Kiefern</td>
         <td>weiß</td>
         <td>mild</td>
