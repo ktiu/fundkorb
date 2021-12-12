@@ -43,5 +43,5 @@ Das [Hyphensystem](Hyphen "Glossar") ist dimitisch, mit 2-4 µm breiten, [hyalin
 
 **Verwechslungsmöglichkeiten:**
 
-Der **Eichen-Feuerschwamm (Phellinus robustus)** wächst an Eiche, wird genauso groß und ist nur über den Wirt zu unterscheiden.
+Der **Eichen-Feuerschwamm (Phellinus robustus)** wächst an Eiche, wird genauso groß und ist nur über den Wirt zu unterscheiden.  
 Der **Sanddorn-Feuerschwamm (Phellinus hippophaicola)** wächst an Sanddorn und bleibt kleiner. In den übrigen Merkmalen unterscheidet er sich nicht.
