@@ -20,7 +20,7 @@ footer_scripts:
 
 12.12.2021: Auch in der kalten Jahreszeit kann man Speisepilze finden. Ein besonders schmackhafter ist der Schwarzfaserige Ritterling Tricholoma portentosum, der ausschließlich in Nadelwäldern zu finden ist. Dennoch spielt er in der Praxis kaum eine Rolle. Vor allem, weil ihn kaum jemand kennt und weil er selten und als bedrohte Art in Deutschland gesetzlich geschützt ist. Wegen seiner späten Erscheinungszeit wird er auch Schneepilz genannt.
 
-Mehr lesen >
+[Mehr lesen >](/pilze/tricholoma-portentosum-schwarzfaseriger-ritterling)
 
 <div style="clear:  both"></div>
 
