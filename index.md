@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/tricholoma_portentosum_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.12.2021: Auch in der kalten Jahreszeit kann man Speisepilze finden. Ein besonders schmackhafter ist der Schwarzfaserige Ritterling Tricholoma portentosum, der ausschließlich in Nadelwäldern zu finden ist. Dennoch spielt er in der Praxis kaum eine Rolle. Vor allem, weil ihn kaum jemand kennt und weil er selten und als bedrohte Art in Deutschland gesetzlich geschützt ist. Wegen seiner späten Erscheinungszeit wird er auch Schneepilz genannt.
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/piptoporus_betulinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -33,18 +45,6 @@ footer_scripts:
 01.12.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist die Goldgelbe Wiesenkeule *Clavulinopsis helvola*. In kurzgehaltenen moosigen Grasflächen fallen sie oft so wenig auf, dass man sie leicht übersieht oder schon mitten in einem großflächigen Massenvorkommen steht, bevor man sie entdeckt. Und das trotz ihrer schönen gelben Farbe. Wenn es sich um unverzweigte gelbe Keulchen handelt, kommen vier Arten in Frage, die nur mikroskopisch sicher zu trennen sind. Clavulinopsis helvola dürfte die häufigste von ihnen sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/clavulinopsis-helvola-goldgelbe-wiesenkeule)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_versicolor_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.11.2021: Mein [Fundkorbpilz](AA "Glossar-") zum 1. Advent ist natürlich die Schmetterlingstramete, da sie sich getrocknet zum Schmücken von Adventskränzen eignet. Ich kann mich noch gut daran erinnern, dass ich das in meiner Kindheit gemacht habe. Sie ist ja ein perfekter Dekopilz, den man auch anderweitig verwenden kann. Zum Beispiel als Vitalpilz zu Pulver zermahlen. Kapseln oder Extrakt bekommt man im Internet ab 16 € plus 6,95 Versandkosten. Natürlich kann man es auch preiswerter haben und Pulver oder Extrakt selbst herstellen. Schmetterlingstrameten gibt's kostenlos in jedem Wald. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
 
 <div style="clear:  both"></div>
 
