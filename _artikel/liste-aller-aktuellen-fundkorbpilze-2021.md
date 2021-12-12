@@ -2,8 +2,10 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-06.12.2021 [Piptoporus betulinus - Birkenporling](/pilze/piptoporus-betulinus-birkenporling)  
-01.12.2021 [Clavulinopsis helvola - Goldgelbe Wiesenkeule](/pilze/clavulinopsis-helvola-goldgelbe-wiesenkeule)\
+12.12.2021 [Tricholoma portentosum - Schwarzfaseriger Ritterling](/tricholoma-portentosum-schwarzfaseriger-ritterling)  
+06.12.2021 [Piptoporus betulinus - Birkenporling](/pilze/piptoporus-betulinus-birkenporling)\
+01.12.2021 [Clavulinopsis helvola - Goldgelbe Wiesenkeule](/pilze/clavulinopsis-helvola-goldgelbe-wiesenkeule)
+
 28.11.2021 [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)\
 26.11.2021 [Tricholoma sulphureum - Schwefelritterling](/pilze/tricholoma-sulphureum-schwefelritterling)\
 25.11.2021 [Stereum sanguinolentum - Blutender Schichtpilz](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)\
