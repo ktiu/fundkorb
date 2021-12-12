@@ -16,7 +16,7 @@ literatur:
 ---
 Es gibt eine recht große Anzahl brauner Milchlinge, die infolgedessen nicht immer leicht auseinanderzuhalten sind. Eine gewisse Vorsortierung kann man aufgrund ihres Vorkommens im Laub- oder Nadelwald treffen. In Nadelwäldern der Tiefebenen sind es vor allem diese Arten:
 
-**Lactarius camphoratus** = Kampfer-Milchling: Milch unveränderlich wässrig weiß, Geschmack mild, Geruch jung nach Blattwanzen, später oder beim Trocknen nach Maggi oder Liebstöckel,  überwiegend bei Fichten, aber auch im Laubwald vorkommend, in höheren Lagen häufiger
+[**Lactarius camphoratus** = Kampfer-Milchling](/pilze/lactarius-camphoratus-kampfermilchling): Milch unveränderlich wässrig weiß, Geschmack mild, Geruch jung nach Blattwanzen, später oder beim Trocknen nach Maggi oder Liebstöckel,  überwiegend bei Fichten, aber auch im Laubwald vorkommend, in höheren Lagen häufiger
 
 **Lactarius fuscus** = Dunkler Duft-Milchling: Milch weißlich, Geschmack scharf, Geruch nach Kokosflocken, überwiegend bei Fichten
 
@@ -154,7 +154,6 @@ Für den Leberbraunen Milchling spricht übrigens auch die späte Erscheinungsze
     </tbody>
   </table>
 </div>
-
 
 \* 
 enthält Arten, die im Rhein-Main-Gebiet häufig oder gelegentlich vorkommen. Nicht enthalten sind ausgesprochen seltene Arten, die hier noch nicht nachgewiesen wurden. Zu beachten ist auch die Farbvariabilität vieler Pilze, also auch der Milchlinge. Als gelblich oder rötlich beschriebene Arten könnten auch mal als bräunlich interpretiert werden. Sie sind nicht in dieser Auflistung enthalten. Farbänderungen der austretenden Milch kann am besten mit einem Papiertaschentuch verifiziert werden.
