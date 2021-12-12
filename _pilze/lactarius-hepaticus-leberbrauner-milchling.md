@@ -22,7 +22,7 @@ Es gibt eine recht große Anzahl brauner Milchlinge, die infolgedessen nicht imm
 
 **Lactarius hepaticus** = Leberbrauner Milchling: Milch weiß, nach wenigen Minuten gelb verfärbend, Geschmack bitter, evtl. etwas schärflich, überwiegend bei Kiefern
 
-**Lactarius rufus** = Rotbrauner Milchling: Milch unveränderlich weiß, Geschmack scharf, Geruch unauffällig, überwiegend bei Fichten, aber auch bei Kiefern
+[**Lactarius rufus** = Rotbrauner Milchling](/pilze/lactarius-rufus-rotbrauner-milchling): Milch unveränderlich weiß, Geschmack scharf, Geruch unauffällig, überwiegend bei Fichten, aber auch bei Kiefern
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/lactarius_hepaticus_02_dg.jpg" nocrop=true %}
