@@ -65,3 +65,7 @@ Außerdem konnten bei der mikroskopischen Untersuchung keine über die [Basidien
 {% include abbildung_ende.html %}
 
 Das Schwärzen der Fruchtkörper beim Trocknen war bei meinen Funden vom Oktober ausgeblieben. Erst die um den 10. November herum entnommenen Exemplare taten mir den Gefallen, das namensgebende Merkmal zu zeigen. Man kann die Fälblinge mit Fug und Recht als Spätherbstpilze bezeichnen.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/hebeloma_pallidoluctuosum_05_dg.jpg" %}
+{% include abbildung_ende.html legende="Das Schwärzen der Fruchtkörper zeigte sich deutlich nach ca. 24 Stunden" %}
