@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-12.12.2021 [Tricholoma portentosum - Schwarzfaseriger Ritterling](/tricholoma-portentosum-schwarzfaseriger-ritterling)  
+13.12.2021 [Phellinus hartigii - Tannen-Feuerschwamm](/pilze/phellinus-hartigii-tannen-feuerschwamm)  
+12.12.2021 [Tricholoma portentosum - Schwarzfaseriger Ritterling](/tricholoma-portentosum-schwarzfaseriger-ritterling)\
 06.12.2021 [Piptoporus betulinus - Birkenporling](/pilze/piptoporus-betulinus-birkenporling)\
 01.12.2021 [Clavulinopsis helvola - Goldgelbe Wiesenkeule](/pilze/clavulinopsis-helvola-goldgelbe-wiesenkeule)
 
