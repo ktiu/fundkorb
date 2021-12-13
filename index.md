@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_hartigii_06_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+13.12.2021: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") kommt aus einem Mischwald über Muschelkalk bei Straubenhardt in Baden-Württemberg, gefunden und fotografiert von Bernd Miggel. Es ist der Tannen-Feuerschwamm *Phellinus hartigii*, den man bei uns in Hessen vergeblich suchen wird. Warum? Bei uns gibt's keine natürlichen Tannenbestände. Der Eichen- und der Sanddorn-Feuerschwamm sehen ihm zum Verwechseln ähnlich. Sie sind nur über ihren Wirt zu unterscheiden und inzwischen in der neuen Gattung *Fomitiporia* zusammengefasst. 
+
+[Mehr lesen >](/pilze/phellinus-hartigii-tannen-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_portentosum_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
