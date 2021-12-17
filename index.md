@@ -14,12 +14,20 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/weihnachtspilz_01_fk.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/weihnachtspilz_03_ii.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Fotos: Frank Kaster - Inga Illig" %}
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_cinerella_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
 17.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Aschgraue Helmling *Mycena cinerella*, ein typischer Spätherbst- und Winterpilz, der vor allem in Nadelwäldern häufig ist. Seine aschgraue Farbe  mit der hellen Bereifung und die in elegantem Bogen am Stiel herablaufenden Lamellen machen ihn ziemlich unverwechselbar. Zu achten wäre auch auf den mehligen Geruch. Sollte der mal kaum wahrnehmbar sein, hilft es, einen Hut zu zerquetschen - ein Trick, der bei unsicheren Geruchsproben und allen Pilzarten angewendet werden kann.
 
-Mehr lesen >
+[Mehr lesen >](/pilze/mycena-cinerella-aschgrauer-helmling)
 
 <div style="clear:  both"></div>
 
