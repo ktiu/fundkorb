@@ -14,6 +14,17 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include abbildung_ende.html %}
+
+17.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Aschgraue Helmling *Mycena cinerella*, ein typischer Spätherbst- und Winterpilz, der vor allem in Nadelwäldern häufig ist. Seine aschgraue Farbe  mit der hellen Bereifung und die in elegantem Bogen am Stiel herablaufenden Lamellen machen ihn ziemlich unverwechselbar. Zu achten wäre auch auf den mehligen Geruch. Sollte der mal kaum wahrnehmbar sein, hilft es, einen Hut zu zerquetschen - ein Trick, der bei unsicheren Geruchsproben und allen Pilzarten angewendet werden kann.
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_hartigii_06_bm.jpg" %}
 {% include abbildung_ende.html %}
@@ -33,30 +44,6 @@ footer_scripts:
 12.12.2021: Auch in der kalten Jahreszeit kann man Speisepilze finden. Ein besonders schmackhafter ist der Schwarzfaserige Ritterling Tricholoma portentosum, der ausschließlich in Nadelwäldern zu finden ist. Dennoch spielt er in der Praxis kaum eine Rolle. Vor allem, weil ihn kaum jemand kennt und weil er selten und als bedrohte Art in Deutschland gesetzlich geschützt ist. Wegen seiner späten Erscheinungszeit wird er auch Schneepilz genannt.
 
 [Mehr lesen >](/pilze/tricholoma-portentosum-schwarzfaseriger-ritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/piptoporus_betulinus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenporling *Piptoporus betulinus*. Wer ihn in seiner Heimapotheke als Vital- oder Heilpilz gegen seinen nervösen Reizmagen anwenden will, sollte sich mit dem Sammeln beeilen, denn er hat eine begrenzte Lebensdauer. Erste Nachtfröste können ihm schon so zusetzen, dass man nur noch gammelige nicht mehr verwendbare Fruchtkörper findet. Als Tee zubereitet soll er wahre Wunder wirken, was schon unser Eiszeitfreund Ötzi wusste. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/piptoporus-betulinus-birkenporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clavulinopsis_helvola_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.12.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist die Goldgelbe Wiesenkeule *Clavulinopsis helvola*. In kurzgehaltenen moosigen Grasflächen fallen sie oft so wenig auf, dass man sie leicht übersieht oder schon mitten in einem großflächigen Massenvorkommen steht, bevor man sie entdeckt. Und das trotz ihrer schönen gelben Farbe. Wenn es sich um unverzweigte gelbe Keulchen handelt, kommen vier Arten in Frage, die nur mikroskopisch sicher zu trennen sind. Clavulinopsis helvola dürfte die häufigste von ihnen sein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/clavulinopsis-helvola-goldgelbe-wiesenkeule)
 
 <div style="clear:  both"></div>
 
