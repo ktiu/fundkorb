@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-17.12.2021 [Mycena cinerella - Aschgrauer Helmling](/pilze/mycena-cinerella-aschgrauer-helmling)  
+18.12.2021 [Chromocyphella muscicola - Moosbewohnendes Braunsporbecherchen](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)  
+17.12.2021 [Mycena cinerella - Aschgrauer Helmling](/pilze/mycena-cinerella-aschgrauer-helmling)\
 13.12.2021 [Phellinus hartigii - Tannen-Feuerschwamm](/pilze/phellinus-hartigii-tannen-feuerschwamm)\
 12.12.2021 [Tricholoma portentosum - Schwarzfaseriger Ritterling](/tricholoma-portentosum-schwarzfaseriger-ritterling)\
 06.12.2021 [Piptoporus betulinus - Birkenporling](/pilze/piptoporus-betulinus-birkenporling)\
