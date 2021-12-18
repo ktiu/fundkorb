@@ -21,6 +21,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/chromocyphella_muscicola_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.12.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein Winzling, der gern Moosflächen auf Baumrinde besiedelt und deshalb Moosbewohnendes Braunsporbecherchen (*Chromocyphella muscicola*) heißt. Man findet es vor allem in den Spätherbst- und Wintermonaten, allerdings ist gezielte Suche angesagt. Dabei habe ich festgestellt, dass der Pilz gar nicht so selten ist, wie in der Literatur angegeben. Was das Auffinden erleichtern könnte: er verursacht eine Bleiche, die im dunkleren Grün der Moosflächen oft schon von Weitem auffällt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_cinerella_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
