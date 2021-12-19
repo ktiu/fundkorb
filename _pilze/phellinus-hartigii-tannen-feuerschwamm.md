@@ -5,6 +5,7 @@ beschreibung:
   referenz: (Allesch. & Schnabl) Pat. 1903
   erlaeuterung: hartigii = zu Ehren des deutschen Botanikers R. Hartig
   familie: Hymenochaetaceae
+  synonym: "Neuer Name: Fomitiporia hartigii"
 profil:
   aktualisiert: 2021-12-12
   autor_in: Bernd Miggel
