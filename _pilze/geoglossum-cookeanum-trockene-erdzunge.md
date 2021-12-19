@@ -25,17 +25,17 @@ Zu den bemerkenswerten Pilzen im Flörsheimer Kalkbruch gehört die Trockene Erd
 
 Fruchtkörper unterschiedlich geformt, häufig mit deutlich unterscheidbarem, zylindrisch-schmalem Stiel- und verbreitertem Kopfteil (nur dort werden Sporen gebildet, der „Stiel“ bleibt steril), aber auch weniger differenziert keulenförmig oder spatelig, oft verdreht oder unregelmäßig verwachsen bis tief gefurcht; jung (dunkel-)braun, bald schwarz werdend; 25 bis 70 mm lang, Kopfteil 7 – 13 mm breit und 2 – 4 mm dick; trocken, glatt, alt oft fein gefurcht und kleiig, am Stielteil auch feinschuppig.
 
-   {% include abbildung_start.html stil="fliessend" %}
-   {% include bild.html datei="/bilder/geoglossum_cookeianum_06_tl.jpg" %}
-   {% include abbildung_ende.html %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/geoglossum_cookeianum_06_tl.jpg" %}
+{% include abbildung_ende.html %}
 
-##### Mikroskopische Beschreibung 
+##### Mikroskopische Beschreibung
 
 Asci 160 – 200 x 15 – 20 µm, achtsporig, lugolpositiv; Sporen glatt, keulig bis wurmförmig, teilweise leicht gebogen, reif fast immer mit sieben Septen, 60 – 85 x 5,4 – 6,8 µm, unreif auch wesntlich kürzer, aber oft sehr breit (30 – 45 x 7,5 – 8,8 µm ) und nur mit fünf oder sechs Septen; jung hyalin, bald braun gefärbt; Paraphysen wenig über die Asci hinausragend, fadenförmig bis zylindrisch, in den Endgliedern mehr oder weniger deutlich braun pigmentiert, diese sehr verschiedenartig geformt, typischerweise aus engseptierten, rundlichen bis blasigen Gliedern bestehend, die wie eine Perlenkette aneinandergereiht sind und an den Septen oft wie eingeschnürt erscheinen, 3 – 10 x 4 – 8 µm (Abb. 4a u. 4b), in der untersuchten Kollektion aber häufiger bizarr geformte „Entenkopfzellen“ mit einer aufgeblasen-bogigen „Scharnierzelle“, an die sich ein oder zwei rundliche, blasige oder längliche „Schnabelzellen“ anschließen, auch bei diesen Endgliedern aber eng septiert, so dass der Abstand zwischen Paraphysenspitze und dritter Septe kaum einmal 40 µm übersteigt, sondern meistens zwischen 15 und 30 µm liegt.
 
 ##### Bestimmung
 
-Alle Erdzungen lassen sich im Grunde genommen nur mikroskopisch bestimmen, auch wenn das äußere Erscheinungsbild gelegentlich bereits gute Hinweise auf die zu bestimmende Art geben kann. So sollte man vor allem die Beschaffenheit der Stieloberfläche beobachten, da etwa auffällige, in Bändern angeordnete Schüppchen auf die Täuschende Erdzunge *Geoglossum fallax* hindeuten oder schmieriger, trocken wie lackiert wirkender Stiel die Klebrige Erdzunge *G. gelatinosum* vermuten lässt. Entscheidend ist aber die Untersuchung der Mikromerkmale, für die man sich einige Zeit nehmen muss, da die Variabilität innerhalb einer Kollektion oft beachtlich ist.
+Alle Erdzungen lassen sich im Grunde genommen nur mikroskopisch bestimmen, auch wenn das äußere Erscheinungsbild gelegentlich bereits gute Hinweise auf die zu bestimmende Art geben kann. So sollte man vor allem die Beschaffenheit der Stieloberfläche beobachten, da etwa auffällige, in Bändern angeordnete Schüppchen auf die [Täuschende Erdzunge *Geoglossum fallax*](/pilze/geoglossum-fallax-täuschende-erdzunge) hindeuten oder schmieriger, trocken wie lackiert wirkender Stiel die Klebrige Erdzunge *G. gelatinosum* vermuten lässt. Entscheidend ist aber die Untersuchung der Mikromerkmale, für die man sich einige Zeit nehmen muss, da die Variabilität innerhalb einer Kollektion oft beachtlich ist.
 
 Zunächst gilt es dabei, die Sporen in den Blick zu nehmen. Hier ist es erstaunlich, wie stark Sporengröße und teilweise auch -form in ein- und demselben Präparat variieren können. Für *G. fallax* etwa hat KASPAREK (1996) hierauf nachdrücklich hingewiesen. Insbesondere wenn man nicht ausgereifte Sporen mit einbezieht, ergibt sich auch, vor allem bei der Sporenlänge, ein breites Spektrum bei *G. cookeianum*, das von 30 bis 85 µm reicht. Immerhin deutet es nach BENKERT (1976) bereits auf *G. cookeianum* hin, dass keine der 30 gemessenen Sporen länger als 90 µm war. Eine wirkliche Zuordnung zu einer Art kann aber nur über die Beobachtung der Paraphysen und ihrer Endglieder erfolgen. Diese sterilen Zellen zwischen den Asci, die im übrigen auch den Stielteil überziehen, können bei den verschiedenen Erdzungen sehr unterschiedlich geformt sein. Die Endglieder können rundlich, birnenförmig, blasig, schneckenförmig oder verschiedenartig gekrümmt sein. Neben der Form darf seit dem Aufsatz von BENKERT auch die Dichte der Septierung als wichtiges Differenzierungsmerkmal gelten. G. cookeianum zeichnet sich – unabhängig davon, ob „Perlenketten“- oder „Entenkopfzellen“ gemessen werden – durch eine sehr enge Septierung aus, wie man sie ansonsten höchstens bei G. simile findet, das sich aber durch charakteristische „Doppelzellen“ unterscheidet, die entstehen, da nur jede zweite Septe eingeschnürt erscheint.
 
@@ -45,9 +45,9 @@ Ganz in Übereinstimmung mit meinen eigenen Beobachtungen schreibt er 1976 über
 
 Die enge Septierung auch dieser Endglieder sowie das vereinzelte Vorkommen typischer Paraphysen verweist letztlich klar auf G. cookeianum. Darüber hinaus lassen sich alle möglichen Mischungsverhältnisse beobachten: Es gibt Kollektionen, bei denen die „Entenköpfe“ überwiegen und nur vereinzelt „Perlenketten“ vorkommen. Es ist aber auch das Gegenteil möglich und alle denkbaren Zwischenstufen. Daher ist davon auszugehen, dass all diese Formen zu der einen, variablen Art G. cookeianum gehören. Auch hier stimmen meine eigenen Beobachtungen im übrigen mit denen BENKERTs (1996) überein. Im Gegensatz zu ihm konnte ich aber nur sehr vereinzelt beobachten, dass die Paraphysen mit „brauner Kittmasse“ verklebt waren, wobei auch hier eine unterschiedliche Intensität von Kollektion zu Kollektion zu konstatieren ist.
 
-   {% include abbildung_start.html stil="standard" %}
-   {% include bild.html datei="/bilder/geoglossum-cookeianum-04.jpg" %}
-   {% include abbildung_ende.html %}
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/geoglossum-cookeianum-04.jpg" %}
+{% include abbildung_ende.html %}
 
 ##### Verbreitung und Ökologie
 
@@ -65,17 +65,17 @@ Interessant ist auch eine Bemerkung von BENKERT, der schreibt: „In den Niederl
 
 ##### Literatur
 
-BENKERT, D. (1976): Bemerkenswerte Ascomyceten der DDR II – Die Gattungen Geoglossum und Trichoglossum in der DDR, in: Myk. Mittlgsbl. 20 S. 47-9  
-BENKERT, D. (1991): Verbreitungskarten von Geoglossaceen in der DDR, in: Gleditschia 19, 1991, 203-234  
-BENKERT, D. (1996): Zur Variabilität der Paraphysen in der Gattung Geoglossum: was ist Geoglossum barlae?, in: Feddes Rep. 107, S. 269-276  
-BREITENBACH, J. & F. KRÄNZLIN (1984): Pilze der Schweiz Bd. 1 – Luzern, S. 130  
-DEUTSCHE GESELLSCHAFT FÜR MYKOLOGIE u. NATURSCHUTZBUND DEUTSCHLAND (Hg.) (1992): Rote Liste der gefährdeten Großpilze Deutschlands – Eching. S. 28  
-IRLET, B. (1984): Ein Beitrag zur Discomycetenflora der alpinen Stufe der Schweizer Alpen, in: Mycologia Helvetica 1, S. 129-143, hier S. 130 f. u. 140  
-KASPAREK, F. (1996): Die täuschende Erdzunge, in: Der Tintling 1,3, S. 17-18  
-KRIEGLSTEINER, G. J. (1993): Verbreitungsatlas der Großpilze Deutschlands (West), Bd. 2: Schlauchpilze – Stuttgart S. 250  
-LEHR, T. (2005): Von Entenköpfen und Perlenketten. Die ungewöhnlichen Paraphysn der Trockenen Erdzunge Geoglossum cookeianum Nannf., in: Südwestdeutsche Pilzrundschau 41/2, S. 42-47 (hier handelt es sich um eine etwas geänderte Fassung des vorliegenden Artikels)  
-LÜDERITZ, M. (2001): Die Großpilze Schleswig-Holsteins – Rote Liste Bd. 1 – Kiel S. 61  
-MAAS-GEESTERANUS, R. A. (1964): De Fungi von Nederland I. Geoglossaceae – aardtongen, in: Wetensch. Med. K. Nederl. Nautur. Ver. 52, S. 1-24  
-NANNFELDT, J. A. (1942): The Geoglossaceae of Sweden (with regard also to the Surrounding Countries), in: Arkiv för Botanik 30 A, S. 1-67  
-SPOONER, B. M. (1987): Helotiales of Australasia: Geoglossaceae, Orbiliaceae, Sclerotiniaceae, Hyaloscyphaceae (Bibliotheca Mycologica 116) – Berlin u. Stuttgart, v. a. S. 82-117  
+BENKERT, D. (1976): Bemerkenswerte Ascomyceten der DDR II – Die Gattungen Geoglossum und Trichoglossum in der DDR, in: Myk. Mittlgsbl. 20 S. 47-9\
+BENKERT, D. (1991): Verbreitungskarten von Geoglossaceen in der DDR, in: Gleditschia 19, 1991, 203-234\
+BENKERT, D. (1996): Zur Variabilität der Paraphysen in der Gattung Geoglossum: was ist Geoglossum barlae?, in: Feddes Rep. 107, S. 269-276\
+BREITENBACH, J. & F. KRÄNZLIN (1984): Pilze der Schweiz Bd. 1 – Luzern, S. 130\
+DEUTSCHE GESELLSCHAFT FÜR MYKOLOGIE u. NATURSCHUTZBUND DEUTSCHLAND (Hg.) (1992): Rote Liste der gefährdeten Großpilze Deutschlands – Eching. S. 28\
+IRLET, B. (1984): Ein Beitrag zur Discomycetenflora der alpinen Stufe der Schweizer Alpen, in: Mycologia Helvetica 1, S. 129-143, hier S. 130 f. u. 140\
+KASPAREK, F. (1996): Die täuschende Erdzunge, in: Der Tintling 1,3, S. 17-18\
+KRIEGLSTEINER, G. J. (1993): Verbreitungsatlas der Großpilze Deutschlands (West), Bd. 2: Schlauchpilze – Stuttgart S. 250\
+LEHR, T. (2005): Von Entenköpfen und Perlenketten. Die ungewöhnlichen Paraphysn der Trockenen Erdzunge Geoglossum cookeianum Nannf., in: Südwestdeutsche Pilzrundschau 41/2, S. 42-47 (hier handelt es sich um eine etwas geänderte Fassung des vorliegenden Artikels)\
+LÜDERITZ, M. (2001): Die Großpilze Schleswig-Holsteins – Rote Liste Bd. 1 – Kiel S. 61\
+MAAS-GEESTERANUS, R. A. (1964): De Fungi von Nederland I. Geoglossaceae – aardtongen, in: Wetensch. Med. K. Nederl. Nautur. Ver. 52, S. 1-24\
+NANNFELDT, J. A. (1942): The Geoglossaceae of Sweden (with regard also to the Surrounding Countries), in: Arkiv för Botanik 30 A, S. 1-67\
+SPOONER, B. M. (1987): Helotiales of Australasia: Geoglossaceae, Orbiliaceae, Sclerotiniaceae, Hyaloscyphaceae (Bibliotheca Mycologica 116) – Berlin u. Stuttgart, v. a. S. 82-117\
 WÖLDECKE, K. (1998): Die Großpilze Niedersachsens und Bremens – Hannover. S. 199
