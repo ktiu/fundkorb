@@ -60,7 +60,7 @@ Die [Asci](Asci "Glossar") der Täuschenden Erdzunge sind biseriat bis multiseri
 {% include bild.html datei="/bilder/geoglossum_fallax_08_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: Die reifen Asci sind 8-fach septiert; im unscharfen Hintergrund sind auch unreife ohne oder mit weniger Septen zu vermuten. Präparat in SDS-Kongorot  --  Abb. rechts: Einzelspore mit 10 Septen" %}
 
-Die [Paraphysen](Paraphysen "Glossar") spielen bei allen Erdzungenarten eine entscheidende Rolle. Bei der Täuschenden Erdzunge kommen sehr unterschiedliche Formen vor. So gibt es zylindrische, kopfige, Krückstock-förmige mit Scharnierzelle, abgerundet Hockeyschläger-förmige, Bischofsstab-förmig  eingerollte und andere Kopfformen. Es kommt sogar vor, dass ein Fruchtkörper eine bestimmte Form stark bevorzugt. Bei den kopfigen Formen hat die [apikale](apikal "Glossar") Zelle 5 - 10 µm, der Halsbereich 2 - 4 µm Durchmesser.
+Die [Paraphysen](Paraphyse "Glossar") spielen bei allen Erdzungenarten eine entscheidende Rolle. Bei der Täuschenden Erdzunge kommen sehr unterschiedliche Formen vor. So gibt es zylindrische, kopfige, Krückstock-förmige mit Scharnierzelle, abgerundet Hockeyschläger-förmige, Bischofsstab-förmig  eingerollte und andere Kopfformen. Es kommt sogar vor, dass ein Fruchtkörper eine bestimmte Form stark bevorzugt. Bei den kopfigen Formen hat die [apikale](apikal "Glossar") Zelle 5 - 10 µm, der Halsbereich 2 - 4 µm Durchmesser.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/geoglossum_fallax_09_bm.jpg" nocrop=true %}
@@ -71,10 +71,10 @@ Die [Paraphysen](Paraphysen "Glossar") spielen bei allen Erdzungenarten eine ent
 {% include bild.html datei="/bilder/geoglossum_fallax_11_bm.jpg" %}
 {% include abbildung_ende.html legende="Zwei Krückstock-ähnliche Formen mit Scharnierzelle sowie eine gerundete Form" %}
 
-**Verwechslungsmöglichkeiten:**  
-Grundsätzlich mit allen in Mitteleuropa vorkommenden Erdzungen (lt. Verbreitungsatlas 1993 in Deutschland West 10 nachgewiesene Arten).  
-Bei der **[Trockenen Erdzunge Geoglossumm cookeanum](/pilze/geoglossum-cookeanum-trockene-erdzunge)** sind die Sporen kürzer und besitzen weniger Septen. Nach LEHR haben sie im reifen Zustand fast immer sieben Septen und messen 60-85 x 5,4-6,8 µm. Außerdem besitzen die Paraphysen oft perlschnurartige Zellstränge  
+**Verwechslungsmöglichkeiten:**\
+Grundsätzlich mit allen in Mitteleuropa vorkommenden Erdzungen (lt. Verbreitungsatlas 1993 in Deutschland West 10 nachgewiesene Arten).\
+Bei der **[Trockenen Erdzunge Geoglossumm cookeanum](/pilze/geoglossum-cookeanum-trockene-erdzunge)** sind die Sporen kürzer und besitzen weniger Septen. Nach LEHR haben sie im reifen Zustand fast immer sieben Septen und messen 60-85 x 5,4-6,8 µm. Außerdem besitzen die Paraphysen oft perlschnurartige Zellstränge\
 Beachtet man lediglich Form und Farbe der Fruchtkörper, sind auch Verwechslungen mit Arten der Gattungen Trichoglossum, Thuemenidium, Microglossum, aber auch mit Holzkeulen (an Totholz wachsend) oder der Zungen-Kernkeule Cordyceps ophioglossoides (auf Hirschtrüffeln parasitierend) möglich.
 
-**Funddaten der hier abgebildeten Kollektion:**  
+**Funddaten der hier abgebildeten Kollektion:**\
 Am 18. und 21.11.2021 auf kurz gehaltener z. T. moosiger Rasenfläche im Campus Heusenstamm (Landkreis Offenbach) TK 5918.2.4 (leg. Dieter Gewalt, det. Bernd Miggel)
