@@ -17,7 +17,7 @@ literatur:
 ---
 Andreas Gminder hat in seinem Handbuch für Pilzsammler ein wichtiges Kennzeichen dieser Art in einer sehr treffenden Formulierung beschrieben, die auch für die meisten Rüblinge der Gattung Gymnopus zutreffend ist: 
 
-"Der Butter-Rübling zeigt eines der Gattungsmerkmale der Rüblinge besonders schön, nämlich den knorpeligen Stiel. Schneidet man diesen auf halber Höhe quer durch, so sieht man auf der Schnitt-fläche sehr deutlich den Unterschied zwischen der gummiartigen Stielrinde und dem wattig-schaumstoffartigen Stielfleisch. Daher fühlt sich der Stiel der Rüblinge beim Zusammendrücken wie ein Fahrradschlauch an." 
+> Der Butter-Rübling zeigt eines der Gattungsmerkmale der Rüblinge besonders schön, nämlich den knorpeligen Stiel. Schneidet man diesen auf halber Höhe quer durch, so sieht man auf der Schnitt-fläche sehr deutlich den Unterschied zwischen der gummiartigen Stielrinde und dem wattig-schaumstoffartigen Stielfleisch. Daher fühlt sich der Stiel der Rüblinge beim Zusammendrücken wie ein Fahrradschlauch an." 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/rhodocollybia_butyracea_02_dg.jpg" %}
