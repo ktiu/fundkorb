@@ -21,13 +21,27 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rhodocollybia_butyracea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Butter-Rübling *Rhodocollybia butyracea*. Er gehört zu den Arten, denen kühle Nächte nichts ausmachen. Deshalb ist er zur Zeit in vielen Wäldern anzutreffen. Rüblinge der Gattungen *Gymnopus* und *Rhodocollybia* zeichnen sich durch knorpelige Stiele mit gummiartiger Stielrinde aus mit der bemerkenswerten Eigenschaft, dass sie sich beim Zusammendrücken wie ein platter Fahrradschlauch anfühlen. In derKüche muss man den Butter-Rübling nicht unbedingt haben. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/rhodocollybia-butyracea-butter-rübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/chromocyphella_muscicola_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 18.12.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein Winzling, der gern Moosflächen auf Baumrinde besiedelt und deshalb Moosbewohnendes Braunsporbecherchen (*Chromocyphella muscicola*) heißt. Man findet es vor allem in den Spätherbst- und Wintermonaten, allerdings ist gezielte Suche angesagt. Dabei habe ich festgestellt, dass der Pilz gar nicht so selten ist, wie in der Literatur angegeben. Was das Auffinden erleichtern könnte: er verursacht eine Bleiche, die im dunkleren Grün der Moosflächen oft schon von Weitem auffällt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -38,30 +52,6 @@ footer_scripts:
 17.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Aschgraue Helmling *Mycena cinerella*, ein typischer Spätherbst- und Winterpilz, der vor allem in Nadelwäldern häufig ist. Seine aschgraue Farbe  mit der hellen Bereifung und die in elegantem Bogen am Stiel herablaufenden Lamellen machen ihn ziemlich unverwechselbar. Zu achten wäre auch auf den mehligen Geruch. Sollte der mal kaum wahrnehmbar sein, hilft es, einen Hut zu zerquetschen - ein Trick, der bei unsicheren Geruchsproben und allen Pilzarten angewendet werden kann.
 
 [Mehr lesen >](/pilze/mycena-cinerella-aschgrauer-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_hartigii_06_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-13.12.2021: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") kommt aus einem Mischwald über Muschelkalk bei Straubenhardt in Baden-Württemberg, gefunden und fotografiert von Bernd Miggel. Es ist der Tannen-Feuerschwamm *Phellinus hartigii*, den man bei uns in Hessen vergeblich suchen wird. Warum? Bei uns gibt's keine natürlichen Tannenbestände. Der Eichen- und der Sanddorn-Feuerschwamm sehen ihm zum Verwechseln ähnlich. Sie sind nur über ihren Wirt zu unterscheiden und inzwischen in der neuen Gattung *Fomitiporia* zusammengefasst. 
-
-[Mehr lesen >](/pilze/phellinus-hartigii-tannen-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_portentosum_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.12.2021: Auch in der kalten Jahreszeit kann man Speisepilze finden. Ein besonders schmackhafter ist der Schwarzfaserige Ritterling Tricholoma portentosum, der ausschließlich in Nadelwäldern zu finden ist. Dennoch spielt er in der Praxis kaum eine Rolle. Vor allem, weil ihn kaum jemand kennt und weil er selten und als bedrohte Art in Deutschland gesetzlich geschützt ist. Wegen seiner späten Erscheinungszeit wird er auch Schneepilz genannt.
-
-[Mehr lesen >](/pilze/tricholoma-portentosum-schwarzfaseriger-ritterling)
 
 <div style="clear:  both"></div>
 
