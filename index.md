@@ -25,7 +25,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/rhodocollybia_butyracea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-20.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Butter-Rübling *Rhodocollybia butyracea*. Er gehört zu den Arten, denen kühle Nächte nichts ausmachen. Deshalb ist er zur Zeit in vielen Wäldern anzutreffen. Rüblinge der Gattungen *Gymnopus* und *Rhodocollybia* zeichnen sich durch knorpelige Stiele mit gummiartiger Stielrinde aus mit der bemerkenswerten Eigenschaft, dass sie sich beim Zusammendrücken wie ein platter Fahrradschlauch anfühlen. In derKüche muss man den Butter-Rübling nicht unbedingt haben. (Dieter Gewalt)
+19.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Butter-Rübling *Rhodocollybia butyracea*. Er gehört zu den Arten, denen kühle Nächte nichts ausmachen. Deshalb ist er zur Zeit in vielen Wäldern anzutreffen. Rüblinge der Gattungen *Gymnopus* und *Rhodocollybia* zeichnen sich durch knorpelige Stiele mit gummiartiger Stielrinde aus mit der bemerkenswerten Eigenschaft, dass sie sich beim Zusammendrücken wie ein platter Fahrradschlauch anfühlen. In derKüche muss man den Butter-Rübling nicht unbedingt haben. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/rhodocollybia-butyracea-butter-rübling)
 
