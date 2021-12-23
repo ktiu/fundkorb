@@ -21,13 +21,15 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/diatrype_stigma_01_bm.jpg" %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/diatrype_decorticata_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
 23.12.2021: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der von vielen Naturfreunden überhaupt nicht als Pilz wahrgenommen wird. Das Flächige Eckenscheibchen *Diatrype decorticata* erscheint als glatte schwarze Fläche auf toten Laubholzästen, die sich unter der Rinde gebildet und diese abgesprengt hat. Erst bei genauem Hinschauen erkennt man, dass die Oberfläche mit winzigen Pusteln besetzt ist, den Auslassöffnungen für die Pilzsporen. Bis vor wenigen Jahren waren alle unter dem deutschen Namen "Flächiges Eckenscheibchen" zusammengefassten Formen als Diatrype stigma bekannt. Heute weiß man, dass es sich um drei unterschiedliche Arten handelt. Was an Buche wächst, ist fast immer Diatrype decorticata. (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen)
+[Mehr lesen >](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)
+
+<div style="clear:  both"></div>
 
 - - -
 
