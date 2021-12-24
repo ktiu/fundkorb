@@ -25,7 +25,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/fomes_fomentarius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-24.12.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") passt perfekt zum heutigen Heiligabend. Es ist der Zunderschwamm *Fomes fomentarius*, der beim Anzünden der Weihnachtsbaumkerzen behilflich sein könnte. Unseren Vorfahren hat er jedenfalls gute Dienste beim Feuermachen geleistet. Zum Beispiel einen Tee aus Birkenporlingen zu kochen, um die von einem nervösen Reizmagen verursachten Beschwerden zu lindern. Der Zunderschwamm bildet große knochenharte und konsolenförmige Fruchtkörper an Laubbäumen, am häufigsten an Buchen. Er ist nicht immer leicht vom Rortandigen Baumschwamm *Fomitopsis pinicola* zu unterscheiden. (Dieter Gewalt)
+24.12.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") passt perfekt zum heutigen Heiligabend. Es ist der Zunderschwamm *Fomes fomentarius*, der beim Anzünden der Weihnachtsbaumkerzen behilflich sein könnte. Unseren Vorfahren hat er jedenfalls gute Dienste beim Feuermachen geleistet. Zum Beispiel einen Tee aus Birkenporlingen zu kochen, um die von einem nervösen Reizmagen verursachten Beschwerden zu lindern. Der Zunderschwamm bildet große knochenharte und konsolenförmige Fruchtkörper an Laubbäumen, am häufigsten an Buchen. Er ist nicht immer leicht vom Rotandigen Baumschwamm *Fomitopsis pinicola* zu unterscheiden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)
 
