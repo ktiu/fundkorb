@@ -22,6 +22,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/fomes_fomentarius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.12.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") passt perfekt zum heutigen Heiligabend. Es ist der Zunderschwamm *Fomes fomentarius*, der beim Anzünden der Weihnachtsbaumkerzen behilflich sein könnte. Unseren Vorfahren hat er jedenfalls gute Dienste beim Feuermachen geleistet. Zum Beispiel einen Tee aus Birkenporlingen zu kochen, um die von einem nervösen Reizmagen verursachten Beschwerden zu lindern. Der Zunderschwamm bildet große knochenharte und konsolenförmige Fruchtkörper an Laubbäumen, am häufigsten an Buchen. Er ist nicht immer leicht vom Rortandigen Baumschwamm *Fomitopsis pinicola* zu unterscheiden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrype_decorticata_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -40,30 +52,6 @@ footer_scripts:
 19.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Butter-Rübling *Rhodocollybia butyracea*. Er gehört zu den Arten, denen kühle Nächte nichts ausmachen. Deshalb ist er zur Zeit in vielen Wäldern anzutreffen. Rüblinge der Gattungen *Gymnopus* und *Rhodocollybia* zeichnen sich durch knorpelige Stiele mit gummiartiger Stielrinde aus mit der bemerkenswerten Eigenschaft, dass sie sich beim Zusammendrücken wie ein platter Fahrradschlauch anfühlen. In der Küche muss man den Butter-Rübling nicht unbedingt haben. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/rhodocollybia-butyracea-butter-rübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chromocyphella_muscicola_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.12.2021 Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein Winzling, der gern Moosflächen auf Baumrinde besiedelt und deshalb Moosbewohnendes Braunsporbecherchen (*Chromocyphella muscicola*) heißt. Man findet es vor allem in den Spätherbst- und Wintermonaten, allerdings ist gezielte Suche angesagt. Dabei habe ich festgestellt, dass der Pilz gar nicht so selten ist, wie in der Literatur angegeben. Was das Auffinden erleichtern könnte: er verursacht eine Bleiche, die im dunkleren Grün der Moosflächen oft schon von Weitem auffällt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_cinerella_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-17.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Aschgraue Helmling *Mycena cinerella*, ein typischer Spätherbst- und Winterpilz, der vor allem in Nadelwäldern häufig ist. Seine aschgraue Farbe  mit der hellen Bereifung und die in elegantem Bogen am Stiel herablaufenden Lamellen machen ihn ziemlich unverwechselbar. Zu achten wäre auch auf den mehligen Geruch. Sollte der mal kaum wahrnehmbar sein, hilft es, einen Hut zu zerquetschen - ein Trick, der bei unsicheren Geruchsproben und allen Pilzarten angewendet werden kann.
-
-[Mehr lesen >](/pilze/mycena-cinerella-aschgrauer-helmling)
 
 <div style="clear:  both"></div>
 
