@@ -26,7 +26,7 @@ Jede Pilzart birgt ihre Besonderheiten, so auch die unauffällige Schüsselförm
 
 Die Fruchtkörper sind schüsselförmig mit cremefarbener oder hellgrauer, kittgrauer, bemehlter Oberfläche. Der Rand ist vom Substrat mitunter etwas abgehoben ([resupinate](resupinat "Glossar") bis [effuso-reflexe](effuso-reflex "Glossar") Wuchsform). Im frischen Zustand sind die Fruchtkörper lappig-weich. Getrocknet werden sie hornartig hart und reißen gerne auf.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/aleurodiscus_disciformis_03_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/aleurodiscus_disciformis_04_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Sporen feinwarzug, amyloid, 15 - 19 x 11 - 15 µm. Bei den gelben Flecken handelt es sich um Kristalle" %}
