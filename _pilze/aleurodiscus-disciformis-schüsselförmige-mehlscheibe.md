@@ -35,6 +35,6 @@ Die Fruchtkörper sind schüsselförmig mit cremefarbener oder hellgrauer, kittg
 {% include bild.html datei="/bilder/aleurodiscus_disciformis_05_bm.jpg" %}
 {% include abbildung_ende.html legende="Das Gewebe der Fruchtkörper ist mit Kristallen übersät, die man mit zwei über Kreuz angeordneten Polarisationsfiltern zum Leuchten bringen kann (gestapelte Aufnahme aus fünf Einzelbildern)" %}
 
-**Ähnliche Arten:**
-Der **Runzelige Schichtpilz Stereum rugosum** wächst ebenfalls an Laubholz und kann ähnlich aussehen. Wenn man die Oberfläche anritzt, rötet die Stelle.
+**Ähnliche Arten:**  
+Der **Runzelige Schichtpilz Stereum rugosum** wächst ebenfalls an Laubholz und kann ähnlich aussehen. Wenn man die Oberfläche anritzt, rötet die Stelle.  
 Der **[Wacholder-Schichtpilz Amylostereum laevigatum](/pilze/amylostereum-laevigatum-wacholder-schichtpilz)** wächst an Wacholder und Eibe.
