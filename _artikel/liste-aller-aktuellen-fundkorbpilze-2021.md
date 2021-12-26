@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-24.12.2021 [Fomes fomentarius - Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)  
+26.12.2021 [Amanita muscaria - Fliegenpilz](/pilze/amanita-muscaria-fliegenpilz)  
+24.12.2021 [Fomes fomentarius - Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)\
 23.12.2021 [Diatrype decorticata - Flächiges Eckenscheibchen](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)\
 19.12.2021 [Rhodocollybia butyracea - Butter-Rübling](/pilze/rhodocollybia-butyracea-butter-rübling)\
 18.12.2021 [Chromocyphella muscicola - Moosbewohnendes Braunsporbecherchen](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)\
