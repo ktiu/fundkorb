@@ -23,7 +23,7 @@ footer_scripts:
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_muscaria_09_gg.jpg" %}
-{% include abbildung_ende.html legende="Aquarell von Gabriele Gossner aus "Pilze Mitteleuropas" von Hans Haas (Kosmos Naturführer 1966)" %}
+{% include abbildung_ende.html %}
 
 26.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fliegenpilz *Amanita muscaria*. Er gilt für viele als Inbegriff eines Giftpilzes, hat aber noch keinen umgebracht. Er schafft es nicht einmal Fliegen zu töten, nach denen er benannt ist. Er versetzt sie, wenn er denn potent genug ist und sie davon naschen, in einen rauschartigen Zustand. Auch der lateinische Pilzname leitet sich von den Fluginsekten ab. *Musca domestica* ist die Stubenfliege. Dass er gerade heute aktueller Fundkorbpilz ist, verdankt er der Tatsache, dass er sogar noch an Weihnachten gefunden werden kann. Er gehört zu den Arten, die vor allem im Herbst und bis in den Winter hinein fruktifizieren. Außerdem hat er im Volksglauben den Ruf, Glück zu bescheren. Allen Glückspilzen und natürlich auch allen Pechvögeln wünscht die Fundkorb-Redaktion ein glückliches, vor allem gesundes und auch pilzreiches Neues Jahr.
 
