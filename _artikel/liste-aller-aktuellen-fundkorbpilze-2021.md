@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
+27.12.2021 [Hygrophoropsis aurantiaca - Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)   
 26.12.2021 [Amanita muscaria - Fliegenpilz](/pilze/amanita-muscaria-fliegenpilz)\
 24.12.2021 [Fomes fomentarius - Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)\
 23.12.2021 [Diatrype decorticata - Flächiges Eckenscheibchen](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)\
