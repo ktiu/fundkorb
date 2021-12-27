@@ -21,6 +21,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+27.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Falscher Pfifferling *Hygrophoropsis aurantiaca*. Er scheint ziemlich kälteresistent zu sein, denn auch während der Wintermonate ist er in Nadelwäldern oft massenhaft anzutreffen. Wer ihn mit dem echten verwechselt, braucht nicht mit ernsthaften Vergiftungssymptomen zu rechnen. Als Speisepilz kann man ihn allerdings auch nicht empfehlen. Um es auf einen kurzen Nenner zu bringen: er ist essbar, aber wenn man ihn nicht isst, hat man nichts versäumt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_muscaria_09_gg.jpg" %}
 {% include abbildung_ende.html %}
@@ -40,30 +52,6 @@ footer_scripts:
 24.12.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") passt perfekt zum heutigen Heiligabend. Es ist der Zunderschwamm *Fomes fomentarius*, der beim Anzünden der Weihnachtsbaumkerzen behilflich sein könnte. Unseren Vorfahren hat er jedenfalls gute Dienste beim Feuermachen geleistet. Zum Beispiel einen Tee aus Birkenporlingen zu kochen, um die von einem nervösen Reizmagen verursachten Beschwerden zu lindern. Der Zunderschwamm bildet große knochenharte und konsolenförmige Fruchtkörper an Laubbäumen, am häufigsten an Buchen. Er ist nicht immer leicht vom Rotrandigen Baumschwamm *Fomitopsis pinicola* zu unterscheiden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diatrype_decorticata_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-23.12.2021: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der von vielen Naturfreunden überhaupt nicht als Pilz wahrgenommen wird. Das Flächige Eckenscheibchen *Diatrype decorticata* erscheint als glatte schwarze Fläche auf toten Laubholzästen, die sich unter der Rinde gebildet und diese abgesprengt hat. Erst bei genauem Hinschauen erkennt man, dass die Oberfläche mit winzigen Pusteln besetzt ist, den Auslassöffnungen für die Pilzsporen. Bis vor wenigen Jahren waren alle unter dem deutschen Namen "Flächiges Eckenscheibchen" zusammengefassten Formen als Diatrype stigma bekannt. Heute weiß man, dass es sich um drei unterschiedliche Arten handelt. Was an Buche wächst, ist fast immer Diatrype decorticata. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rhodocollybia_butyracea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Butter-Rübling *Rhodocollybia butyracea*. Er gehört zu den Arten, denen kühle Nächte nichts ausmachen. Deshalb ist er zur Zeit in vielen Wäldern anzutreffen. Rüblinge der Gattungen *Gymnopus* und *Rhodocollybia* zeichnen sich durch knorpelige Stiele mit gummiartiger Stielrinde aus mit der bemerkenswerten Eigenschaft, dass sie sich beim Zusammendrücken wie ein platter Fahrradschlauch anfühlen. In der Küche muss man den Butter-Rübling nicht unbedingt haben. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/rhodocollybia-butyracea-butter-rübling)
 
 <div style="clear:  both"></div>
 
