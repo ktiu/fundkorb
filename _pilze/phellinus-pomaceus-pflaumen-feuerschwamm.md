@@ -33,8 +33,5 @@ Feuerschwämme sind eine zur Zeit noch nicht genau definierte Gattung in der Fam
 
 Eine erstaunliche Information zum Thema habe ich bei *Wikipedia* gefunden:
 
-> Der Pilz mit dem größten bekannten Fruchtkörper ist ein Feuerschwamm der Art *Phellinus ellipsoideus*, der im Jahr 2010 in der chinesischen Provinz *Hainan* gefunden wurde. Der Fruchtkörper war 10,85 Meter lang, 82 bis 88 Zentimeter breit und 4,6 bis 5,5 Zentimeter dick. Untersuchungen der Dichte des Pilzes ergaben, dass der gesamte Fruchtkörper 400 bis 500 Kilogramm wog. Sein Alter wurde auf etwa 20 Jahre geschätzt." 
+> Der Pilz mit dem größten bekannten Fruchtkörper ist ein Feuerschwamm der Art *Phellinus ellipsoideus*, der im Jahr 2010 in der chinesischen Provinz *Hainan* gefunden wurde. Der Fruchtkörper war 10,85 Meter lang, 82 bis 88 Zentimeter breit und 4,6 bis 5,5 Zentimeter dick. Untersuchungen der Dichte des Pilzes ergaben, dass der gesamte Fruchtkörper 400 bis 500 Kilogramm wog. Sein Alter wurde auf etwa 20 Jahre geschätzt."
 
-**Weiterführende Literatur:**
-
-https://de.wikipedia.org/wiki/Phellinus
