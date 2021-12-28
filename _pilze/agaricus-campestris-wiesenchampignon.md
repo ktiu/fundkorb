@@ -6,7 +6,7 @@ beschreibung:
   familie: Agaricaceae
   erlaeuterung: campestris = auf Feldern wachsend
 profil:
-  aktualisiert: 2020-10-22
+  aktualisiert: 2021-12-28
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -30,7 +30,7 @@ Junge Exemplare sind rundlich bis halbkugelig, die Huthaut kann bereits feinschu
 
 Wer Champignons zu Speisezwecken sammeln will, sollte beachten, dass es unter den rund 50 in Mitteleuropa vorkommenden Arten auch giftige gibt. Sie sind in der Gruppe der [Karbolhampignons](/pilze/agaricus-xanthoderma-karbolchampignon) (*Xanthodermei*) zusammengefasst und an der Merkmalskombination *"in der Stielbasis chromgelblich verfärbend + unangenehm nach Phenol (wie Tinte oder Krankhaus) riechend"* leicht zu erkennen. Rötende, angenehm riechende Champignons sind immer essbar, ebenso alle gilbenden, die nach Anis riechen.
 
-Der Wiesenchampgnon Agaricus campestris wächst von Mai bis Oktober auf Wiesen, Weiden, in Parkanlagen und Gärten und ist überall recht häufig. Er hat im Verhältnis zum Hutdurchmesser recht gedrungene Stiele, ist in seiner Form aber sehr variabel und kann auch langstielig vorkommen. Verwechselt werden könnte er mit den weißen Formen des Zuchtchampignons (anderer Name: Zweisporiger Champignon), der in freier Natur recht selten ist, oder mit dem sehr kompakten, festfleischigen Stadtchampignon, der an seinem zweigeteilten Ring zu erkennen ist, dessen obere Hälfte trichterig nach oben hin absteht.
+Der Wiesenchampgnon *Agaricus campestris* wächst von Mai bis Oktober auf Wiesen, Weiden, in Parkanlagen und Gärten und ist überall recht häufig. Er hat im Verhältnis zum Hutdurchmesser recht gedrungene Stiele, ist in seiner Form aber sehr variabel und kann auch langstielig vorkommen. Verwechselt werden könnte er mit den weißen Formen des [Zuchtchampignons](/pilze/agaricus-bisporus-zucht-champignon) (anderer Name: Zweisporiger Champignon), der in freier Natur recht selten ist, oder mit dem sehr kompakten, festfleischigen [Stadtchampignon](/pilze/agaricus-bitorquis-stadt-champignon), der an seinem zweigeteilten Ring zu erkennen ist, dessen obere Hälfte trichterig nach oben hin absteht.
 
 Da Wiesenchampignons überwiegend an Standorten mit viel Tageslicht wachsen, können sie reich an Vitamin D sein. Außerdem enthalten sie essentielle Amninosäuren und Mineralien. 
 
