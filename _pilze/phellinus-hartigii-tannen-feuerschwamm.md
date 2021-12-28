@@ -46,3 +46,5 @@ Das [Hyphensystem](Hyphen "Glossar") ist dimitisch, mit 2-4 µm breiten, [hyalin
 
 Der **Eichen-Feuerschwamm (Phellinus robustus)** wächst an Eiche, wird genauso groß und ist nur über den Wirt zu unterscheiden.  
 Der **Sanddorn-Feuerschwamm (Phellinus hippophaicola)** wächst an Sanddorn und bleibt kleiner. In den übrigen Merkmalen unterscheidet er sich nicht.
+
+Feuerschwämme sind eine zur Zeit noch nicht genau definierte Gattung in der Familie der Borstenscheiblingsverwandten (Hymenochaetaceae), die so nahe mit den Schillerporlingen (Inonotus) verwandt sind, dass auch die Trennung von diesen schwerfällt und nach wie vor diskutiert wird. Systematik und Artabgrenzung sind daher noch nicht abschließend geklärt und es wurden inzwischen sogar zahlreiche neue Gattungen kreiert wie Fomitiporia, Fomitiporella, Phellinidion, Phellopilus, Phylloporia, u. a.). Feuerschwämme im engeren Sinne (wie z. B. der bekannte Eichen-Feuerschwamm) sind derzeit bei Fomitiporia zusammengefasst.
