@@ -21,7 +21,19 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/galerina_marginata_04_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+28.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein gefährlicher Giftpilz, der Gifthäubling *Galerina marginata*. Er hieß früher einmal Nadelholz-Häubling, aber dieser harmlos klingende Name wurde Ende der 1970-er Jahre aufgegeben, nachdem man auch in Europa die in ihm enthaltenen tödlichen Amanitin-Gifte nachgewiesen hatte. Er ist gerade im Spätherbst und Winter besonders häufig und Pilzfreunde, die Stockschwämmchen sammeln, sollten auf der Hut sein. Verwechslungen können leicht vorkommen, zumal einige weitere Häublingsarten die gleiche Giftwirkung haben. Auch im Rhein-Main-Gebiet ist es zu mindestens einer Vergiftung mit Todesfolge gekommen, über die *Hermine Lotz-Winter* 2012 berichtet hatte. In der Pilzberatung des Frankfurter Gesundheitsamts konnte möglichwerweise eine weitere schwere Vergiftung verhindert werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/galerina-marginata-gifthäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
