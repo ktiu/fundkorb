@@ -35,8 +35,8 @@ Und seinem schwarzen Käppelein\
 Kann nur die Hagebutte sein“
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/amanita_muscaria_-isabelle-_07_dg.jpg" %}
-{% include bild.html datei="/bilder/amanita_muscaria_08_dg.jpg" %}
+{% include bild.html datei="/bilder/amanita_muscaria_-isabelle-_07_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/amanita_muscaria_08_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
 Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Hier eine Illustration von Gabriele Gossner (in: Hans Haas - Pilze Mitteleuropas, 1964)
