@@ -24,7 +24,7 @@ literatur:
 
 Jede Pilzart birgt ihre Besonderheiten, so auch die unauffällige Schüsselförmige Mehlscheibe. Sie ist gar nicht so häufig, denn die Rote Liste von Deutschland führt sie in der Gefährdungsklasse G (Gefährdung unbekannten Ausmaßes). Dieser kleine, meist nur bis 20 mm breite [Saprobiont](saprobiontisch "Glossar"), besiedelt die Rinde alter Eichen. Allerdings benötigt er dabei nach meinen Beobachtungen reine, etwas bewegte Luft und ein schattiges, feuchtes Kleinklima.
 
-Die Fruchtkörper sind schüsselförmig mit cremefarbener oder hellgrauer, kittgrauer, bemehlter Oberfläche. Der Rand ist vom Substrat mitunter etwas abgehoben ([resupinate](resupinat "Glossar") bis [effuso-reflexe](effuso-reflex "Glossar") Wuchsform). Im frischen Zustand sind die Fruchtkörper lappig-weich. Getrocknet werden sie hornartig hart und reißen gerne auf.
+Die Fruchtkörper sind schüsselförmig mit cremefarbener oder hellgrauer, kittgrauer, bemehlter Oberfläche. Der Rand ist vom Substrat mitunter etwas abgehoben ([resupinate](resupinat "Glossar") bis [effuso-reflexe](effus-reflex) Wuchsform). Im frischen Zustand sind die Fruchtkörper lappig-weich. Getrocknet werden sie hornartig hart und reißen gerne auf.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/aleurodiscus_disciformis_03_bm.jpg" nocrop=true %}
@@ -35,6 +35,6 @@ Die Fruchtkörper sind schüsselförmig mit cremefarbener oder hellgrauer, kittg
 {% include bild.html datei="/bilder/aleurodiscus_disciformis_05_bm.jpg" %}
 {% include abbildung_ende.html legende="Das Gewebe der Fruchtkörper ist mit Kristallen übersät, die man mit zwei über Kreuz angeordneten Polarisationsfiltern zum Leuchten bringen kann (gestapelte Aufnahme aus fünf Einzelbildern)" %}
 
-**Ähnliche Arten:**  
-Der **Runzelige Schichtpilz Stereum rugosum** wächst ebenfalls an Laubholz und kann ähnlich aussehen. Wenn man die Oberfläche anritzt, rötet die Stelle.  
+**Ähnliche Arten:**\
+Der **Runzelige Schichtpilz Stereum rugosum** wächst ebenfalls an Laubholz und kann ähnlich aussehen. Wenn man die Oberfläche anritzt, rötet die Stelle.\
 Der **[Wacholder-Schichtpilz Amylostereum laevigatum](/pilze/amylostereum-laevigatum-wacholder-schichtpilz)** wächst an Wacholder und Eibe.
