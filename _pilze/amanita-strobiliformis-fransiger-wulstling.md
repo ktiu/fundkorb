@@ -7,7 +7,7 @@ beschreibung:
   synonym: ""
   erlaeuterung: strobiliformis = zapfenfömig
 profil:
-  aktualisiert: 2020-07-24
+  aktualisiert: 2021-12-30
   autor_in: Dieter Gewalt
 hauptbild:
   datei: /bilder/amanita_strobiliformis_01_dg.jpg
