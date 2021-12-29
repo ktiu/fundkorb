@@ -14,10 +14,15 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/weihnachtspilz_01_fk.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/weihnachtspilz_03_ii.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Fotos: Frank Kaster - Inga Illig" %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phlebia_radiata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 29.12.2021 ist der Orangerote Kammpilz *Phlebia radiata*. Eine wirklich seltsam anmutende Art, die so gar keine Ähnlichkeit mit herkömmlichen Pilzen hat. Auf einer wachsartigen, [merulioiden](merulioid "Glossar"), grauen Basisfläche befinden sich unterschiedlich geformte höckerige Falten und Rippen, die mit ihrer orangeroten Farbe einen auffälligen Kontrast zu ihrer eher tristen Unterlage bilden. Beim Betrachten fragt man sich, was bei diesem Pilz an einen "Kamm" erinnern soll. Der zunächst nicht nachvollziehbar gewählte Name "Kammpilz" macht Sinn, wenn man an einen *Hahnenkamm* denkt. Der Pilz wächst ab etwa Oktober bis in die Wintermonate in Laubwäldern auf Totholz und ist vor allem bei feuchter Witterung recht häufig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phlebia-radiata-orangeroter-kammpilz)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -28,42 +33,6 @@ footer_scripts:
 28.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein gefährlicher Giftpilz, der Gifthäubling *Galerina marginata*. Er hieß früher einmal Nadelholz-Häubling, aber dieser harmlos klingende Name wurde Ende der 1970-er Jahre aufgegeben, nachdem man auch in Europa die in ihm enthaltenen tödlichen Amanitin-Gifte nachgewiesen hatte. Er ist gerade im Spätherbst und Winter besonders häufig und Pilzfreunde, die Stockschwämmchen sammeln, sollten auf der Hut sein. Verwechslungen können leicht vorkommen, zumal einige weitere Häublingsarten die gleiche Giftwirkung haben. Auch im Rhein-Main-Gebiet ist es zu mindestens einer Vergiftung mit Todesfolge gekommen, über die *Hermine Lotz-Winter* 2012 berichtet hatte. In der Pilzberatung des Frankfurter Gesundheitsamts konnte möglichwerweise eine weitere schwere Vergiftung verhindert werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/galerina-marginata-gifthäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-27.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Falscher Pfifferling *Hygrophoropsis aurantiaca*. Er scheint ziemlich kälteresistent zu sein, denn auch während der Wintermonate ist er in Nadelwäldern oft massenhaft anzutreffen. Wer ihn mit dem echten verwechselt, braucht nicht mit ernsthaften Vergiftungssymptomen zu rechnen. Als Speisepilz kann man ihn allerdings auch nicht empfehlen. Um es auf einen kurzen Nenner zu bringen: er ist essbar, aber wenn man ihn nicht isst, hat man nichts versäumt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_muscaria_09_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.12.2021: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fliegenpilz *Amanita muscaria*. Er gilt für viele als Inbegriff eines Giftpilzes, hat aber noch keinen umgebracht. Er schafft es nicht einmal Fliegen zu töten, nach denen er benannt ist. Er versetzt sie, wenn er denn potent genug ist und sie davon naschen, in einen rauschartigen Zustand. Auch der lateinische Pilzname leitet sich von den Fluginsekten ab. *Musca domestica* ist die Stubenfliege. Dass er gerade heute aktueller Fundkorbpilz ist, verdankt er der Tatsache, dass er sogar noch an Weihnachten gefunden werden kann. Er gehört zu den Arten, die vor allem im Herbst und bis in den Winter hinein fruktifizieren. Außerdem hat er im Volksglauben den Ruf, Glück zu bescheren. Allen Glückspilzen und natürlich auch allen Pechvögeln wünscht die Fundkorb-Redaktion ein glückliches, vor allem gesundes und auch pilzreiches Neues Jahr.
-
-[Mehr lesen >](/pilze/amanita-muscaria-fliegenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/fomes_fomentarius_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.12.2021: Unser aktueller [Fundkorbpilz](AA "Glossar-") passt perfekt zum heutigen Heiligabend. Es ist der Zunderschwamm *Fomes fomentarius*, der beim Anzünden der Weihnachtsbaumkerzen behilflich sein könnte. Unseren Vorfahren hat er jedenfalls gute Dienste beim Feuermachen geleistet. Zum Beispiel einen Tee aus Birkenporlingen zu kochen, um die von einem nervösen Reizmagen verursachten Beschwerden zu lindern. Der Zunderschwamm bildet große knochenharte und konsolenförmige Fruchtkörper an Laubbäumen, am häufigsten an Buchen. Er ist nicht immer leicht vom Rotrandigen Baumschwamm *Fomitopsis pinicola* zu unterscheiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)
 
 <div style="clear:  both"></div>
 
