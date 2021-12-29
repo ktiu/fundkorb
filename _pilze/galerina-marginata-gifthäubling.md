@@ -17,6 +17,7 @@ literatur:
       verkannt? von Christoph Hahn, Institut für Systematische Botanik der LMU
       München
   - url: http://tintling.com/inhalt/2001/Gifthaeubling_Galerina_marginata.pdf
+  - url: https://www.dgfm-ev.de/publikationen/giftpilze-aus-den-gattungen-galerina-und-lepiota/download
 ---
 Als Nadelholzhäubling war er kaum jemandem bekannt. Erst als man entdeckte, dass er ein gefährlicher Giftpilz ist und in „Gifthäubling“ umbenannt wurde, gelangte er ins Bewusstsein einiger Pilzfreunde. Selbst heute ist er längst nicht allen bekannt und so werden immer noch achtlos [Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen) (*Kuehneromyces mutabilis*) gesammelt, ohne ihnen die dringend erforderliche Aufmerksamkeit zu widmen. Schon die geringste Unachtsamkeit kann eine Verwechslung mit tödlichem Ausgang zur Folge haben.
 
