@@ -6,7 +6,7 @@ beschreibung:
   familie: Amanitaceae
   erlaeuterung: vaginata = bescheidet, umhüllt
 profil:
-  aktualisiert: 2020-07-24
+  aktualisiert: 2021-12-30
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
