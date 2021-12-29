@@ -4,7 +4,8 @@ beschreibung:
   deutsch: Fransiger Wulstling
   referenz: "(Paulet ex Vittad.) Bertill. 1966 "
   familie: Amanitaceae
-  synonym: strobiliformis = zapfenfömig
+  synonym: ""
+  erlaeuterung: strobiliformis = zapfenfömig
 profil:
   aktualisiert: 2020-07-24
   autor_in: Dieter Gewalt
@@ -16,8 +17,7 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Amanita_strobiliformis.html
 published: true
 ---
-
-Das Rhein-Main-Gebiet ist von sauren Böden geprägt und das zeigt sich allenthalben an den hier vorkommenden Pilzarten. Vereinzelte Kalkinseln sind meist anthprogenen Ursprungs. Oft genügt ein geschotterter Wegrand oder Kalkdüngung in einem Garten, um auch calciphile Pilze anzulocken. Eine solche Kalkinsel ist im Frankfurter Hauptfriedhof zu finden. Zu den kalkfordernden Arten, die hier regelmäßig zu finden sind, gehört auch der hier im Bild vorgestellte Fransige Wulstling. Er wächst seit Jahren standorttreu auf einer Rasenfläche zwischen Sandsteinkreuzen im Bereich der Kriegsgräber. Linden sind hier seine Mykhorrizabäume.
+Das Rhein-Main-Gebiet ist von sauren Böden geprägt und das zeigt sich allenthalben an den hier vorkommenden Pilzarten. Vereinzelte Kalkinseln sind meist [anthprogenen](anthprogen "Glossar") Ursprungs. Oft genügt ein geschotterter Wegrand oder Kalkdüngung in einem Garten, um auch [calciphile](calciphil "Glossar") Pilze anzulocken. Eine solche Kalkinsel ist im Frankfurter Hauptfriedhof zu finden. Zu den kalkfordernden Arten, die hier regelmäßig zu finden sind, gehört auch der hier im Bild vorgestellte Fransige Wulstling. Er wächst seit Jahren standorttreu auf einer Rasenfläche zwischen Sandsteinkreuzen im Bereich der Kriegsgräber. Linden sind hier seine [Mykhorrizabäume](Mykhorriza "Glossar").
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amanita_strobiliformis_02_dg.jpg" %}
@@ -26,7 +26,7 @@ Das Rhein-Main-Gebiet ist von sauren Böden geprägt und das zeigt sich allentha
 
 Über viele Jahre hinweg blieb der Fransige Wulstling ein regelmäßiger Gast im Frankfurter Hauptfriedhof. Auf der Rasenfläche zwischen den Kriegsgräbern war er quasi ein zuverlässig anzutreffender Bestandteil des Biotops. Die oben rechts abgebildeten schon ziemlich mitgenommenen Exemplare wuchsen auf einem normalen Grab.
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/amanita_strobiliformis_04_dg.jpg" %}
 {% include abbildung_ende.html legende="Am 25. Juni 2016 erschien der Fransige Wulstling auch in Dietzenbach neben einer Garageneinfahrt" %}
 
