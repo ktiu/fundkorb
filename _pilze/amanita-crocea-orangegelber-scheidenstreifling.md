@@ -15,7 +15,7 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Amanita_crocea.html
 published: true
 ---
-Der Orangerote Scheidenstreifling gehört zu den etwas größeren und robusteren Arten der Untergattung Amanitopsis und wächst vornehmlich bei Eichen. In Höhenlagen unter 200 m ist er eher selten, im kollinen bis montanen Bereich deutlich häufiger. So habe ich die Art z. B. im Schwarzwald weitaus öfters gesehen als in der Rhein-Main-Ebene, in der man ihr aber auch immer mal wieder begegnet.
+Der Orangerote Scheidenstreifling gehört zu den etwas größeren und robusteren Arten der Untergattung *Amanitopsis* und wächst vornehmlich bei Eichen. In Höhenlagen unter 200 m ist er eher selten, im kollinen bis montanen Bereich deutlich häufiger. So habe ich die Art z. B. im Schwarzwald weitaus öfters gesehen als in der Rhein-Main-Ebene, in der man ihr aber auch immer mal wieder begegnet.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/amanita_crocea_10_gs.jpg" %}
@@ -27,7 +27,7 @@ Der Name Scheidenstreifling ist eigentlich schon eine Fruchtkörperbeschreibung:
 {% include bild.html datei="/bilder/amanita_crocea_09_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Die nachfolgende Fotoserie zeigt die Entwicklung des Pilzes, der als nahezu geschlossenes Ei aus dem Boden hervorbricht. Schließlich reißt die „Eierschale“ (eine häutige Hülle, Velum universale genannt) auf, wobei einige Fetzen mit dem Hut in die Höhe gehoben werden und der Rest als häutige Scheide am Stielgrund zurückbleibt. Die Hüllreste auf dem Hut können leicht abgewischt werden.
+Die nachfolgende Fotoserie zeigt die Entwicklung des Pilzes, der als nahezu geschlossenes Ei aus dem Boden hervorbricht. Schließlich reißt die „Eierschale“ (eine häutige Hülle, *Velum universale* genannt) auf, wobei einige Fetzen mit dem Hut in die Höhe gehoben werden und der Rest als häutige Scheide am Stielgrund zurückbleibt. Die Hüllreste auf dem Hut können leicht abgewischt werden.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/amanita_crocea_02_dg.jpg" %}
