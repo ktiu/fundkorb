@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-28.12.2021 [Galerina marginata - Gifthäubling](/pilze/galerina-marginata-gifthäubling)  
+29.12.2021 [Phlebia radiata - Orangeroter Kammpilz](/pilze/phlebia-radiata-orangeroter-kammpilz)  
+28.12.2021 [Galerina marginata - Gifthäubling](/pilze/galerina-marginata-gifthäubling)\
 27.12.2021 [Hygrophoropsis aurantiaca - Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)\
 26.12.2021 [Amanita muscaria - Fliegenpilz](/pilze/amanita-muscaria-fliegenpilz)\
 24.12.2021 [Fomes fomentarius - Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)\
