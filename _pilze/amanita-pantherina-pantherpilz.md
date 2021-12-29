@@ -5,7 +5,7 @@ beschreibung:
   familie: Amanitaceae
   referenz: (DC.) Krombh. 1846
 profil:
-  aktualisiert: 2020-07-20
+  aktualisiert: 2021-12-30
   autor_in: Dieter Gewalt
 hauptbild:
   datei: /bilder/amanita_pantherina_01_dg.jpg
