@@ -13,7 +13,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/agaricus_vaporarius_01_dg.jpg
 ---
-Ein Blick in den Verbreitungsatlas zeigt, dass dieser in der populären Pilzliteratur kaum einmal erwähnte Champignon nicht zu den häufigen Arten der Gattung Agaricus (Egerlinge = Champignons) zählt. Als Speisepilz hat er nie Beachtung gefunden und sein lakritz- oder zichorienartiger Geruch lädt auch kaum zu Kostversuchen ein. Er bevorzugt nährstoffreiche Standorte meist außerhalbvon Wäldern wie Gärten, Komposthaufen, laut Literatur sogar Schuttplätze. In der Rhein-Main-Ebene habe ich ihn immer mal wieder gefunden, in Dietzenbach in unserem Carré an der Rodgaustraße gleich an mehreren Standorten. Hier ist er aber auch desöfteren über mehrere Jahre hinweg völlig ausgeblieben.
+Ein Blick in den Verbreitungsatlas zeigt, dass dieser in der populären Pilzliteratur kaum einmal erwähnte Champignon nicht zu den häufigen Arten der Gattung Agaricus (Egerlinge = Champignons) zählt. Als Speisepilz hat er nie Beachtung gefunden und sein lakritz- oder zichorienartiger Geruch lädt auch kaum zu Kostversuchen ein. Er bevorzugt nährstoffreiche Standorte meist außerhalb von Wäldern wie Gärten, Komposthaufen, laut Literatur sogar Schuttplätze. In der Rhein-Main-Ebene habe ich ihn immer mal wieder gefunden, in Dietzenbach in unserem Carré an der Rodgaustraße gleich an mehreren Standorten. Hier ist er aber auch desöfteren über mehrere Jahre hinweg völlig ausgeblieben.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/agaricus_vaporarius_02_dg.jpg" %}
