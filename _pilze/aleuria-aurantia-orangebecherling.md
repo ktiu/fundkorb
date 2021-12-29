@@ -2,17 +2,17 @@
 beschreibung:
   wissenschaftlich: Aleuria aurantia
   deutsch: Orangebecherling
-  referenz: "(Pers.) Fuckel 1870"
+  referenz: (Pers.) Fuckel 1870
   erlaeuterung: aurantia = orangefarbig
-  familie: Pyrenomtaceae
+  familie: Pyronemataceae
+profil:
+  aktualisiert: 2020-07-21
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/aleuria_aurantia_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Aleuria_aurantia.html
-profil:
-  aktualisiert: 2020-07-21
-  autor_in: Dieter Gewalt
 published: true
 ---
 
