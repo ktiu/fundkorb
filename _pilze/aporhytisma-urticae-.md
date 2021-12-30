@@ -14,13 +14,13 @@ hauptbild:
 ---
 Dieser [Ascomyzet](Ascomyzeten "Glossar") überzieht als schwarze Beläge (sogenannte [Stromata](Stroma "Glossar")) große Teile vorjähriger, abgestorbener Brennnesselstängel und erscheint in der Regel als Nebenfruchtform *Apomelasmia urticae*. Das Foto zeigt deutlich die aufbrechenden Sporenlager, die in ihrem Aussehen an Spaltlippen erinnern.
 
-Nach meinen Beobachtungen ist der Pilz ganzjährig zu finden und häufig. Die in einem Pilzforum gefundene Angabe, er würde mit dem Abblättern der Stängelrinde im Mai verschwinden, kann ich also nicht bestätigen. In der Pilzliteratur findet er kaum Erwähnung, war aber schon Elias Fries bekannt, der ihn in seinem dreibändigen Werk Systema mycologicum (1821 - 1838) beschrieben hat.
+Nach meinen Beobachtungen ist der Pilz ganzjährig zu finden und häufig. Die in einem Pilzforum gefundene Angabe, er würde mit dem Abblättern der Stängelrinde im Mai verschwinden, kann ich also nicht bestätigen. In der Pilzliteratur findet er kaum Erwähnung, war aber schon *Elias Fries* bekannt, der ihn in seinem dreibändigen Werk *Systema mycologicum (1821 - 1838)* beschrieben hat.
 
 Eine Auswahl anderer, auf Brennnesselstängeln wachsender Pilze füge ich hier an: 
 
 auf vorjährigen, trockenen Stängeln:
 
-[Acrospermum compressum](/pilze/acrospermum-compressum-fadenförmiges-flachkeulchenchen)  =  Fadenförmiges Flachkeulchen\
+[Acrospermum compressum](/pilze/acrospermum-fadensporiges-flachkeulchen)  =  Fadenförmiges Flachkeulchen\
 [Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  =  Orangerotes Brennnesselbecherchen\
 [Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
 [Cyathicula coronata](/pilze/cyathicula-coronata-gekrönter-stängelbecherling)  =  Gekrönter Stängelbecherling\
