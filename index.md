@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/panellus_serotinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 30.12.2021 ist der Gelbstielige Muschelseitling *Panellus serotinus*, ein Blätterpilz, der auf totem Laubholz wächst. Es handelt sich um eine Art, die wie der Austernseitling meist erst spät im Jahr erscheint. Nicht selten kommen beide am selben Stamm vor, doch während der Austernseitling ein ausgezeichneter Speisepilz ist, taugt der Muschelseitling nicht für die Küche. Wirklich giftig ist er nicht, hat aber einen muffigen Geschmack. Wer die beiden miteinander verwechselt, muss sich den Vorwurf gefallen lassen, Tomaten auf den Augen zu haben. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phlebia_radiata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
