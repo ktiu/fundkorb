@@ -17,7 +17,7 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Amanita_strobiliformis.html
 published: true
 ---
-Das Rhein-Main-Gebiet ist von sauren Böden geprägt und das zeigt sich allenthalben an den hier vorkommenden Pilzarten. Vereinzelte Kalkinseln sind meist [anthprogenen](anthprogen "Glossar") Ursprungs. Oft genügt ein geschotterter Wegrand oder Kalkdüngung in einem Garten, um auch [calciphile](calciphil "Glossar") Pilze anzulocken. Eine solche Kalkinsel ist im Frankfurter Hauptfriedhof zu finden. Zu den kalkfordernden Arten, die hier regelmäßig zu finden sind, gehört auch der hier im Bild vorgestellte Fransige Wulstling. Er wächst seit Jahren standorttreu auf einer Rasenfläche zwischen Sandsteinkreuzen im Bereich der Kriegsgräber. Linden sind hier seine [Mykhorrizabäume](Mykhorriza "Glossar").
+Das Rhein-Main-Gebiet ist von sauren Böden geprägt und das zeigt sich allenthalben an den hier vorkommenden Pilzarten. Vereinzelte Kalkinseln sind meist [anthropogenen](anthropogen "Glossar") Ursprungs. Oft genügt ein geschotterter Wegrand oder Kalkdüngung in einem Garten, um auch [calciphile](calciphil "Glossar") Pilze anzulocken. Eine solche Kalkinsel ist im Frankfurter Hauptfriedhof zu finden. Zu den kalkfordernden Arten, die hier regelmäßig zu finden sind, gehört auch der hier im Bild vorgestellte Fransige Wulstling. Er wächst seit Jahren standorttreu auf einer Rasenfläche zwischen Sandsteinkreuzen im Bereich der Kriegsgräber. Linden sind hier seine [Mykhorrizabäume](Mykhorriza "Glossar").
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amanita_strobiliformis_02_dg.jpg" %}
