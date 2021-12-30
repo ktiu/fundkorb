@@ -6,7 +6,7 @@ beschreibung:
   synonym: Diaportopsis urticae
   erlaeuterung: urtica = Brennnessel
 profil:
-  aktualisiert: 2021-03-16
+  aktualisiert: 2021-12-30
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
