@@ -7,7 +7,7 @@ beschreibung:
   synonym: "Neuer Name: Suillus cavipes "
   erlaeuterung: cavipes = hohlfüßig
 profil:
-  aktualisiert: 2020-10-18
+  aktualisiert: 2021-12-31
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
