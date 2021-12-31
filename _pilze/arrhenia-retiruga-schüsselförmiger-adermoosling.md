@@ -2,11 +2,11 @@
 beschreibung:
   wissenschaftlich: Arrhenia retiruga
   deutsch: Schüsselförmiger Adermoosling
-  referenz: "(Fr.) Redheds 1984 "
+  referenz: "(Fr.) Redhead 1984 "
   familie: Tricholomataceae
   erlaeuterung: retiruga = netzig, gerunzelt
 profil:
-  aktualisiert: 2020-07-23
+  aktualisiert: 2021-12-31
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
