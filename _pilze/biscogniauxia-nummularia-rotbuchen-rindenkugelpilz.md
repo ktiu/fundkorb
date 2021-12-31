@@ -4,16 +4,16 @@ beschreibung:
   deutsch: Rotbuchen-Rindenkugelpilz
   referenz: "(Bull.) Kuntze 1891 "
   familie: Xylariaceae
-  synonym: "(Bull.) Kuntze 1891 "
+  synonym: ""
 profil:
-  aktualisiert: 2020-07-25
+  aktualisiert: 2021-12-31
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/biscogniauxia_nummularia_01_dg.jpg
 published: true
 ---
-Die 5 bis 7 cm Ø erreichenden schwarzen Perithezien erscheinen als unregelmäßige krustenartige Flecken auf der Rinde von Ästen und Stämmen von Rotbuchen. Sie könnten mit Diatrype stigma, dem Flächigen Eckenscheibchen, verwechselt werden, das auf gleichen Substraten wächst, ebenfalls sehr häufig ist, sich aber unter der Rinde entwickelt und diese aufplatzen lässt.
+Die 5 bis 7 cm Ø erreichenden schwarzen [Perithezien](Perithezien "Glossar") erscheinen als unregelmäßige krustenartige Flecken auf der Rinde von Ästen und Stämmen von Rotbuchen. Sie könnten mit *[Diatrype decorticata](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)*, dem Flächigen Eckenscheibchen, verwechselt werden, das auf gleichen Substraten wächst, ebenfalls sehr häufig ist, sich aber unter der Rinde entwickelt und diese aufplatzen lässt.
 
 Andere Namen: Münzenförmige Kohlenbeere, Pfennig-Kohlenkruste
 
