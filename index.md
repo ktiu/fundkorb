@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_gemmata_02_mm.jpg" %}
+{% include abbildung_ende.html %}
+
+31.12.2021: Letzter [Fundkorbpilz](AA "Glossar-") des Jahres kann für mich kein anderer als der Narzissengelbe Wulstling *Amanita gemmata* sein. Nach meinen Beobachtungen ist er meist der erste Wulstling, der in unseren Wäldern erscheint (manchmal schon im Mai), und oft auch der letzte (im Dezember). Manchmal ist er auch den Jahreswechsel übergreifend zu finden. An seiner mit wachsgelben, mit häutig-flockigen und rein weißen Hüllresten besetzten, bei Feuchtigkeit etwas schmierigen Huthaut und seiner wulstigen Knolle ist er gut zu erkennen. Hüllreste können abgewaschen oder abgefallen sein. Als Speisepilz kommt er nicht in Frage. In manchen Pilzbüchern wird er als giftverdächtig bezeichnet und könnte das relativ harmlose Krötengift *Bufotenin* enthalten.
+
+[Mehr lesen >](/pilze/amanita-gemmata-narzissengelber-wulstling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/panellus_serotinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
