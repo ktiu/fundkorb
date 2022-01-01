@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_pomaceus_04_dg-.jpg" %}
+{% include abbildung_ende.html %}
+
+01.01.2022: Um den ersten aktuellen [Fundkorbpilz](AA "Glossar-") des neuen Jahres zu fotografieren, brauche ich nur vor unsere Haustür und von da fünf Meter nach rechts zu gehen. Da steht ein Blutpflaumenbaum und an seinem Stamm wächst seit Jahren der Pflaumen-Feuerschwamm *Phellinus pomaceus*. Er ist zwar ein Parasit, der eine Weißfäule im Holz erzeugt, aber nicht sehr aggressiv, so dass der befallene Baum noch eine lange Lebenszeit vor sich hat und weiterhin Früchte trägt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_gemmata_02_mm.jpg" %}
 {% include abbildung_ende.html %}
 
