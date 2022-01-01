@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: calopus = Schönfuß
   familie: Boletaceae
 profil:
-  aktualisiert: 2021-06-19
+  aktualisiert: 2022-01-01
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
