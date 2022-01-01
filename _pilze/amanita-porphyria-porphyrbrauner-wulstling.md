@@ -17,6 +17,6 @@ literatur:
 ---
 Der Porphybraune Wulstling ist ein Pilz der Nadelwälder. Er gehört nicht gerade zu den häufigen Arten, ist in Europa aber weit verbreitet. Sein sicherstes Kennzeichen ist der in der Stielknolle wahrnehmbare Geruch nach Kartoffelkeller oder -keimen, den Pilzfreunde vom [Gelben Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz) zur Genüge kennen dürften. Da sich diese beiden Pilzarten aber nicht im Entferntesten ähnlich sehen, ist der Porphyrbraune Wulstling praktisch unverwechselbar.
 
-Seine Hüte werden bis zu 8 cm breit und sind porphyr-, violett- oder graubraun gefärbt. Auf der Oberfläche bleiben häufig etwa gleichfarbige oder etwas hellere Hautfetzen (Reste des \[Velum universale](Velum universale "Glossar")) zurück. Der bis zu 9 cm lange Stiel ist ähnlich wie der Hut gefärbt und unter dem oberseits glatten Ring genattert. Er endet in einer breiten Knolle, die in einer meist sehr knappen Scheide steckt.
+Seine Hüte werden bis zu 8 cm breit und sind porphyr-, violett- oder graubraun gefärbt. Auf der Oberfläche bleiben häufig etwa gleichfarbige oder etwas hellere Hautfetzen (Reste der [Gesamthülle](Velum "Glossar")) zurück. Der bis zu 9 cm lange Stiel ist ähnlich wie der Hut gefärbt und unter dem oberseits glatten Ring genattert. Er endet in einer breiten Knolle, die in einer meist sehr knappen Scheide steckt.
 
 Der Pilz enthält das ungefährliche Krötengift *Bufotenin* und ist schon deshalb für Speisezwecke ungeeignet.
