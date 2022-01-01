@@ -26,4 +26,4 @@ Bisher habe ich diese Art erst zweimal gefunden. Die hier gezeigten Bilder stamm
 
 Der Silberröhrling ist eine sowohl für Baden-Württemberg als auch für Deutschland sehr seltene Art. In Hessen ist er offenbar noch nicht gefunden worden. Sowohl in der unveröffentlichten Roten List der Pilze Baden-Württembergs von 2005 als auch in der Roten Liste der Pilze Deutschland von 2009 wird er in der Kategorie 2 (stark gefährdet)  geführt. Man sollte ihn daher aus Gründen des Biotopschutzes stehenlassen.
 
-Unsere Art bevorzugt wärmebegünstigte Laub- oder Mischwälder und geht eine Mykorrhiza mit Laubbäumen, vorzugsweise der Rotbuche ein. Er scheint Kalkböden zu bevorzugen.
+Unsere Art bevorzugt wärmebegünstigte Laub- oder Mischwälder und geht eine [Mykorrhiza](Mykorrhiza "Glossar") mit Laubbäumen, vorzugsweise der Rotbuche ein. Er scheint Kalkböden zu bevorzugen.
