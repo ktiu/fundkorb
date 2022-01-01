@@ -25,4 +25,4 @@ Hoher Stickstoffeintrag auf landwirtschaftlich genutzten Flächen erhöht die In
 
 Echter Mehltau ist intakten Ökosystemen ein lebenswichtiger Nahrungslieferant für Marienkäfer.
 
-Andere Mehltaupilze sind zum Beispiel der [Falsche Mehltau (Bremia lactucae),](/pilze/bremia-lactucae-falscher-mehltau) der [Mahonien-Mehltau (Microsphaera berberidis)](/pilze/microsphaera-berberidis-mahonien-mehltau), der Eichen-Mehltau (Microsphaera alphitoides) oder der [Echte Ahorn-Mehltau (Sawadaea tulasnei)](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau).
+Andere Mehltaupilze sind zum Beispiel der [Falsche Mehltau (Bremia lactucae),](/pilze/bremia-lactucae-falscher-mehltau) der [Mahonien-Mehltau (Microsphaera berberidis)](/pilze/microsphaera-berberidis-mahonien-mehltau), der [Eichen-Mehltau (Microsphaera alphitoides)](/pilze/microsphaera-alphitoides-eichenmehltau) oder der [Echte Ahorn-Mehltau (Sawadaea tulasnei)](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau).
