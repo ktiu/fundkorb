@@ -74,6 +74,10 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 29.12.2021 ist der Orangerote Kammpil
 
 - - -
 
+[Liste aller Aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
+
+- - -
+
 [Liste aller Aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
 
 - - -
