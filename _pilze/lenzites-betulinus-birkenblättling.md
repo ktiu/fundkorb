@@ -14,6 +14,10 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Birken-Bl%C3%A4ttling
 ---
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lenzites_betulinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 Sein deutscher Name ist ein wenig irreführend, denn seine Vorkommen sind keineswegs auf die Birke beschränkt wie zum Beispiel beim *[Birkenporling](/pilze/piptoporus-betulinus-birkenporling)*. An Buche ist er sogar noch häufiger. Auch an Erle, Hainbuche, Eiche, Esche und anderen Laubhölzern kann er gefunden werden, ganz selten sogar an Nadelholz. So entfernt wie auf obigem Foto müssen die Lamellen auch nicht stehen. Siehe nachfolgende Abbildung:
 
 {% include abbildung_start.html stil="standard" %}
