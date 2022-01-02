@@ -13,9 +13,9 @@ hauptbild:
   anzeige: true
   datei: /bilder/calloria_neglecta_01_dg.jpg
 ---
-Mit bloßem Auge sieht man an den vorjährigen vertrockneten Brennnesselstängeln nur eine orangefarbene Verfärbung. Mit einer guten Lupe erkennt man, dass diese Verfärbung aus nahe beieinander bis zusammenhängend wachsenden winzigen Becherchen besteht. Es handelt sich um 0,4 bis 1,0 mm große, schön orangerot gefärbte Scheibchen, deren Ränder etwas dunkler sind. Sie gehören zu den Schlauchpilzen (Ascomyzeten) und man findet sie vom Frühjahr bis zum Sommeranfang.
+Mit bloßem Auge sieht man an den vorjährigen vertrockneten Brennnesselstängeln nur eine orangefarbene Verfärbung. Mit einer guten Lupe erkennt man, dass diese Verfärbung aus nahe beieinander bis zusammenhängend wachsenden winzigen Becherchen besteht. Es handelt sich um 0,4 bis 1,0 mm große, schön orangerot gefärbte Scheibchen, deren Ränder etwas dunkler sind. Sie gehören zu den Schlauchpilzen (*Ascomyzeten*) und man findet sie vom Frühjahr bis zum Sommeranfang.
 
-Das Orangerote Brennnesselbecherchen fehlt in keinem Brennnesselbestand und ist dort nach dem Zugespitzten Kugelpilz (Leptosphaeria acuta) die zweithäufigste Art. 
+Das Orangerote Brennnesselbecherchen fehlt in keinem Brennnesselbestand und ist dort nach dem Zugespitzten Kugelpilz (*Leptosphaeria acuta*) die zweithäufigste Art. 
 
 Wer das Orangerote Brennnesselbecherchen sucht, wird auch anderen auf diesem Substrat wachsenden Pilzen begegnen, von denen ich hier eine Auswahl anfüge:
 
