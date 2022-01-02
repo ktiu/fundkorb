@@ -15,13 +15,13 @@ literatur:
       47(1)"
 published: true
 ---
-Es gibt einige Pilze, an denen man sich leicht die Finger schmutzig machen kann. Dazu gehört zum Beispiel der Schmutzbecherling, aber auch Arten aus der Gattung Daldinia und der hier vorgestellte Kugelschwamm Camarops polysperma. Wir fanden ihn am nördlichen Ausfluss des Königsbaches aus dem Jacobiweiher im Frankfurter Stadtwald, nicht weit vom Gartenrestaurant Oberschweinstiege entfernt, auf einem nahezu völlig entrindeten liegenden Erlenstamm. In unmittelbarer Nähe hatten wir mit *Daldinia childiae* bereits einen bemerkenswerten [Pyrenomyzetenfund](Pyrenomyzeten "Glossar").
+Es gibt einige Pilze, an denen man sich leicht die Finger schmutzig machen kann. Dazu gehört zum Beispiel der Schmutzbecherling, aber auch Arten aus der Gattung *Daldinia* und der hier vorgestellte Kugelschwamm *Camarops polysperma*. Wir fanden ihn am nördlichen Ausfluss des Königsbaches aus dem Jacobiweiher im Frankfurter Stadtwald, nicht weit vom Gartenrestaurant Oberschweinstiege entfernt, auf einem nahezu völlig entrindeten liegenden Erlenstamm. In unmittelbarer Nähe hatten wir mit *[Daldinia childiae](/pilze/daldinia-childiae-birnen-kohlenpilz)* bereits einen bemerkenswerten [Pyrenomyzetenfund](Pyrenomyzeten "Glossar").
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/camarops_polysperma_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Camarops polysperma fällt vor allem durch seine für einen Pyrenomyzeten beachtliche Größe auf. Wir haben etwa 20 [Stromata](Stroma "Glossar") von bis zu 12 cm Länge und 3 cm Breite gefunden, mehrere waren gerade dabei, die äußere Schicht des entrindeten Holzes aufzubrechen und die gebrochenen Teile in die Höhe zu heben. Sie waren polsterförmig, schwarz glänzend bzw. körnig matt, wo bereits Sporen ausgetreten waren.
+Camarops polysperma fällt vor allem durch seine für einen [Pyrenomyzeten](Pyrenomyzeten "Glossar") beachtliche Größe auf. Wir haben etwa 20 [Stromata](Stroma "Glossar") von bis zu 12 cm Länge und 3 cm Breite gefunden, mehrere waren gerade dabei, die äußere Schicht des entrindeten Holzes aufzubrechen und die gebrochenen Teile in die Höhe zu heben. Sie waren polsterförmig, schwarz glänzend bzw. körnig matt, wo bereits Sporen ausgetreten waren.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/camarops_polysperma_03_dg.jpg" %}
