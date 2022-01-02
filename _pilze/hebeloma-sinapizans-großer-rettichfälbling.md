@@ -22,7 +22,7 @@ Es gibt etwa 20 nach Rettich riechende Fälblinge und das besagt schon klar und 
 
 Dass *Hebeloma sinapizans* die etwas größere und langstieligere Art ist, reicht natürlich nicht für eine Festlegung auf diese Art aus. Ein Fund muss also auf weitere makro- wie mikroskopische Merkmale untersucht werden:\
 **Hebeloma sinapizans:** Hutdurchmesser 5 - 12 cm, Hutrand ungerieft, Lamellen nicht tränend, Stielspitze weiß bepudert, [Cheilozystiden](Cheilozystiden "Glossar") bauchig oder basal verdickt\
-**Hebeloma crustuliniforme:** Hutdurchmesser 4 - 8 cm, Hutrand unauffällig gerieft, Lamellen tränend (winzige Wassertröpchen, die beim Trocknen braune Flecken hinterlassen), grobflockige Bekleidung der Stielspitze, Cheilozystiden keulenförmig, d. h. [apikal](apikal "Glossar") verbreitert
+**[Hebeloma crustuliniforme](/pilze/hebeloma-crustuliniforme-tonblasser-fälbling):** Hutdurchmesser 4 - 8 cm, Hutrand unauffällig gerieft, Lamellen tränend (winzige Wassertröpchen, die beim Trocknen braune Flecken hinterlassen), grobflockige Bekleidung der Stielspitze, Cheilozystiden keulenförmig, d. h. [apikal](apikal "Glossar") verbreitert
 
 Beide Arten sind leicht giftig. Sie verursachen Magen-/Darmbeschwerden (*Gastrointestinales Syndrom*).
 
@@ -30,8 +30,6 @@ Beide Arten sind leicht giftig. Sie verursachen Magen-/Darmbeschwerden (*Gastroi
 {% include bild.html datei="/bilder/hebeloma_sinapizans_03_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/hebeloma_sinapizans_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
-
-c
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hebeloma_crustuliniforme_sinapizans_04_dg.jpg" %}
