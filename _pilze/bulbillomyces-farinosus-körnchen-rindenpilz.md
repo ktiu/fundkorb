@@ -13,7 +13,7 @@ hauptbild:
   datei: /bilder/bulbillomyces_farinosus_01_dg.jpg
 published: true
 ---
-Rindenpilze, auch Corticiaceae genannt, gehören zum Schwierigsten, was die Mykologie zu bieten hat. Ohne Mikroskop und Spezialliteratur geht da nur wenig. Eine überaus erfreuliche und verblüffend attraktive Ausnahme ist der Körnchen-Rindenpilz. In typischer Wuchsform bildet er graue, fettig glänzende Beläge auf der Unterseite von nass liegendem Laubholz, die dicht mit weißlichen, mit der Lupe gut erkennbaren Kügelchen bedeckt sind und den Pilz unverwechselbar machen. Sie haben übrigens auch eine Funktion, enthalten sie doch die sog. Diasporen, die durch Überflutungswasser verbreitet werden. Ein sehr schönes Foto findet sich bei Breitenbach & Kränzlin: Pilze der Schweiz Band 2, Nr. 119.
+Rindenpilze, auch *Corticiaceae* genannt, gehören zum Schwierigsten, was die Mykologie zu bieten hat. Ohne Mikroskop und Spezialliteratur geht da nur wenig. Eine überaus erfreuliche und verblüffend attraktive Ausnahme ist der Körnchen-Rindenpilz. In typischer Wuchsform bildet er graue, fettig glänzende Beläge auf der Unterseite von nass liegendem Laubholz, die dicht mit weißlichen, mit der Lupe gut erkennbaren Kügelchen bedeckt sind und den Pilz unverwechselbar machen. Sie haben übrigens auch eine Funktion, enthalten sie doch die sog. *Diasporen*, die durch Überflutungswasser verbreitet werden. Ein sehr schönes Foto findet sich bei *Breitenbach & Kränzlin: Pilze der Schweiz* Band 2, Nr. 119.
 
 Die nachfolgenden Fotos zeigen den Fund in zunehmender Vergrößerung, wie man ihn auch in der Natur mit einer guten Lupe sehen könnte. 
 
