@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/plicatura_crispa_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 02.01.2022 ist der Buchen-Adernzähling *Plicatuta crispa*, auch wenn seine Fruchtkörper an einer bekannten Fundstelle nicht mehr die frischesten sind. Kein Wunder, es sind die gleichen, die ich hier Anfang Oktober zum ersten Mal gesehen habe. Jetzt wirken sie schon ziemlich alterschwach und haben viel von ihrer ursprünglichen Attraktivität verloren. Vor allem ist das rein weiße [Hymenophor](Hymenophor "Glossar"), das aus filigranen, sehr eng stehenden Falten bestand, ergraut und unansehnlich geworden. Der Name *Buchen-Adernzähling* erscheint mir nicht sehr treffend gewählt zu sein. Ich habe die recht häufige Art bisher ganz überwiegend an Birke gefunden, was in krassem Gegensatz zu den Angaben in *"Die Großpilze Baden-Württembergs"* steht. Außerdem hat auch ihre Häufigkeit zumindest im Rhein-Main-Gebiet deutlich zugenommen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/plicatura-crispa-buchen-adernzähling) 
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_pomaceus_04_dg-.jpg" %}
 {% include abbildung_ende.html %}
 
