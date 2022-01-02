@@ -24,7 +24,7 @@ Unter Pilzfreunden ist die Gattung nicht besonders populär. Da ihre häufigsten
 
 Ein markantes Merkmal ist sein Geruch nach Rettich, weshalb er auch *Kleiner Rettich-Fälbling* genannt wird, aber dieser Geruch ist auch einer Reihe anderer Fälblingsarten zueigen, sodass er nicht zur Unterscheidung taugt. In *Breitenbach/Kränzlin: Pilze der Schweiz* sind nicht weniger als 20 von insgesamt 30 aufgeführten Fälblingsarten mit Rettichgeruch (von schwach bis stark) angegeben. Andere riechen z. B. nach Kakao, Marzipan, süßlich-fruchtig oder nach Bohnerwachs.
 
-Um den Tonblassen Fälbling sicher von anderen Arten abzugrenzen, ist auf weitere Merkmale zu achten. Schneidet man einen ganzen Fruchtkörper von oben nach unten in der Mitte durch und erkennt man dabei ein vom Hutfleisch ausgehendes in den hohlen Stiel hineinragendes Zäpfchen, kommen nur noch zwei Arten in Frage. Dabei sollte man ein wirklich scharfes Messer oder eine Rasierklinge verwenden und es funktioniert auch nicht bei sehr jungen Pilzen, da deren Stiele noch nicht hohl sind. Dieses Zäpfchen verrät, dass es sich bei dem fraglichen Fund nur um den Tonblassen Fälbling oder seinen nahen Verwandten, den Großen Rettichfälbling *Hebeloma sinapizans*, handeln kann.
+Um den Tonblassen Fälbling sicher von anderen Arten abzugrenzen, ist auf weitere Merkmale zu achten. Schneidet man einen ganzen Fruchtkörper von oben nach unten in der Mitte durch und erkennt man dabei ein vom Hutfleisch ausgehendes in den hohlen Stiel hineinragendes Zäpfchen, kommen nur noch zwei Arten in Frage. Dabei sollte man ein wirklich scharfes Messer oder eine Rasierklinge verwenden und es funktioniert auch nicht bei sehr jungen Pilzen, da deren Stiele noch nicht hohl sind. Dieses Zäpfchen verrät, dass es sich bei dem fraglichen Fund nur um den Tonblassen Fälbling oder seinen nahen Verwandten, den Großen Rettichfälbling *[Hebeloma sinapizans](/pilze/hebeloma-sinapizans-großer-rettichfälbling)*, handeln kann.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/hebeloma_crustuliniforme_02_dg.jpg" %}
@@ -35,7 +35,7 @@ Weitere makroskopische Unterschiede zwischen den beiden Arten:
 
 **Hebeloma crustuliniforme**: Hutdurchmesser 4 - 8 cm, Hutrand unauffällig gerieft, Lamellen tränend (winzige Wassertröpchen, die beim Trocknen braune Flecken hinterlassen), grobflockige Bekleidung der Stielspitze, [Cheilozystiden](Cheilozystiden "Glossar") keulenförmig, d. h. [apikal](apikal "Glossar") verbreitert
 
-**Hebeloma sinapizans**: Hutdurchmesser 5 - 12 cm, Hutrand ungerieft, Lamellen nicht tränend, Stielspitze weiß bepudert, Cheilozysiden bauchig oder basal verdickt
+**[Hebeloma sinapizans](/pilze/hebeloma-sinapizans-großer-rettichfälbling)**: Hutdurchmesser 5 - 12 cm, Hutrand ungerieft, Lamellen nicht tränend, Stielspitze weiß bepudert, Cheilozysiden bauchig oder basal verdickt
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hebeloma_crustuliniforme_sinapizans_04_dg.jpg" %}
