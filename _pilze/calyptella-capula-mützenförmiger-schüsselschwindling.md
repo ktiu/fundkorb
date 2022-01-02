@@ -37,7 +37,7 @@ Andere auf Brennnesselstängeln wachsende Pilzarten:
 
 auf vorjährigen, trockenen Stängeln:
 
-[Acrospermum compressum](/pilze/acrospermum-compressum-fadenförmiges-flachkeulchenchen)  =  Fadenförmiges Flachkeulchen\
+[Acrospermum compressum](/pilze/acrospermum-fadensporiges-flachkeulchen)  =  Fadenförmiges Flachkeulchen\
 [Aporhytisma urticae](/pilze/aporhytisma-urticae)\
 [Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  =  Orangerotes Brennnesselbecherchen\
 [Cyathicula coronata](/pilze/cyathicula-coronata-gekrönter-stängelbecherling)  =  Gekrönter Stängelbecherling\
