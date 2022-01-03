@@ -11,6 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/pycnoporus_sanuineus_01_dg.jpg
+  legende: "05.12.2012: Cha Am Forest Park, Thailand"
 ---
 Diesen wunderschönen Porling habe ich nicht nur im *Cha Am Forest Park* sondern auch in anderen Regionen  Thailands gefunden, einmal sogar in Bangkok. Die Bestimmung bereitete keine Probleme. Ich konnte den Namen von einer Info-Tafel im Besucherzentrum des Naturparks abschreiben.
 
