@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lycoperdon_perlatum_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 04.01.2022 ist der Flaschenstäubling *Lycoperdon perlatum*. Da stehen überall in den Wäldern noch die Leichen aus dem letzten Jahr herum, die gar keine richtigen Leichen sind. Sie sind noch in hohem Grade potent, was man mit einem schnellen Test bestätigt findet. Nur mal kurz draufdrücken und prompt entlassen sie ein Wölkchen Sporenstaub, um auch noch in hohem Alter für Nachwuchs zu sorgen. Bei unserem eigenen Nachwuchs haben Stäublinge übrigens recht originelle Namen. Zum Beispiel *„Puffpilz“* oder *„Staubbombenpilz“* . (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lycoperdon-perlatum-flaschenstäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/strobilurus_esculentus_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
