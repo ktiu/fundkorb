@@ -26,4 +26,6 @@ Heftelnabelinge gehören zu den Pilzen, an denen sich das Auge erfreuen kann. Ma
 {% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" %}
 {% include abbildung_ende.html legende="Mit Moos vergesellschaftete Orangerote Heftelnabelinge (Foto links: Frank Kaster" %}
 
+Ähnlich ist der [Blaustielige Heftelnabeling Rickenella swartzii](/pilze/rickenella-swartzii-blaustieliger-heftelnabeling).
+
 Von den Nabelingen (Gattung Omphalina) unterscheiden sich die Heftelnabelinge vor allem mikroskopisch. Im gesamten Fruchtkörper sind [Zystiden](Zystiden "Glossar") vorhanden.
