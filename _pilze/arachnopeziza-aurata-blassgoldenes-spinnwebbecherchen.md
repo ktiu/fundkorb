@@ -16,7 +16,7 @@ literatur:
   - url: https://asco-sonneberg.de/pages/ueberblick/ascomycetes/helotiales/arachnopezizaceae/arachnopeziza.php
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 1 Nr. 247"
 ---
-Wenn ich mit *Hermine Lotz-Winter* bei feuchter Witterung im Ansfeldwald bei Nieder-Roden (TK. 5919.3.3) unterwegs bin, suchen wir meist auch gezielt nach winzigen Spinnwebbecherchen. Es handelt sich um einen Roteichenforst, der während der Nachkriegsjahre auf einem zuvor landwirtschaftlich genutzten Acker angelegt wurde. Dabei drehen wir fleißig feucht liegende Ästchen um, schauen in die am Boden liegenden Fruchtschalen und finden nahezu regelmäßig zwei Arten: das Blassgoldene Spinnwebbecherchen *Arachnopeziza aurata* und noch häufiger das Goldgelbe *A. aurelia*.
+Wenn ich mit *Hermine Lotz-Winter* bei feuchter Witterung im Ansfeldwald bei Nieder-Roden (TK. 5919.3.3) unterwegs bin, suchen wir meist auch gezielt nach winzigen Spinnwebbecherchen. Es handelt sich um einen Roteichenforst, der während der Nachkriegsjahre auf einem zuvor landwirtschaftlich genutzten Acker angelegt wurde. Dabei drehen wir fleißig feucht liegende Ästchen und Laubschichten um, schauen in die am Boden liegenden Fruchtschalen und finden nahezu regelmäßig zwei Arten: das Blassgoldene Spinnwebbecherchen *Arachnopeziza aurata* und noch häufiger das Goldgelbe *A. aurelia*.
 
 Die [Apothecien](Apothecien "Glossar") des Blassgoldenen Spinnwebbecherchen sind flach schüsselförmig und an den Rändern dicht behaart.  Ihr Durchmesser beträgt 0,2 - 0,5 mm, ihre Farbe ist eher blassgrau als blassgolden, zum Rand hin deutlich heller. Sie sitzen stiellos auf einem hellgrauen bis hell ockerfarbenem spinnwebartigem [Subikulum](Subikulum "Glossar"), das aus [Hyphen](Hyphen "Glossar") besteht. 
 
