@@ -22,6 +22,6 @@ Die [Apothecien](Apothecien "Glossar") des Blassgoldenen Spinnwebbecherchen sind
 
 Das ähnliche Goldgelbe Spinnwebbecherchen *Arachnopeziza aurelia* ist deutlich größer (bis 1 mm Durchmesser) und gelb bis orange gefärbt. Es hat außerdem anders geformte und viel kürzere Sporen:\
 **Arachnopeziza aurata:** nadelförmig, einseitig zugespitzt, 60 - 75 x 1,5 - 3 µm\
-**Arachnopeziza aurelia:** elliptisch, ein- bis dreifach septiert, manchmal mit hyalinen Anhängseln, 17 - 22 x 3,5 - 5 µm
+**[Arachnopeziza aurelia](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen):** elliptisch, ein- bis dreifach septiert, manchmal mit hyalinen Anhängseln, 17 - 22 x 3,5 - 5 µm
 
 (Angaben nach Breitenbach & Kränzlin)
