@@ -23,4 +23,4 @@ Wer diese winzigen Becherchen finden möchte, sollte sie bei ausreichend Luftfeu
 {% include bild.html datei="/bilder/chromocyphella_muscicola_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Fund vom 08.02.2020 im Gebiet Falltorhaus bei Mörfelden, TK 6017.3.1 -- Die winzigen Pilze versursachen das hier gezeigte Schadbild an Rindenmoos" %}
 
-Die Art wird auch Moosiger Fingerhut genannt und gilt als selten, ist allerding auch nur bei gezielter Suche auffindbar. Sie wird, was den Finder überraschen mag, zu den Blätterpilzen und hier zu den Risspilzartigen (*Inocybaceae*) gestellt.
+Die Art wird auch *Moosiger Fingerhut* genannt und gilt als selten, ist allerding auch nur bei gezielter Suche auffindbar. Sie wird, was den Finder überraschen mag, zu den Blätterpilzen und hier zu den Risspilzartigen (*Inocybaceae*) gestellt.
