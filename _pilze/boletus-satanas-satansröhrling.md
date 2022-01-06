@@ -7,7 +7,7 @@ beschreibung:
   synonym: "Neuer Name: Rubroboletus satanas"
   erlaeuterung: satanas = Teufel
 profil:
-  aktualisiert: 2021-07-09
+  aktualisiert: 2022-01-06
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -15,6 +15,8 @@ hauptbild:
   legende: 09.07.2021 Bei Crumstadt (Hessisches Ried), Nähe Kiesgrube, gefunden
     von Babett Hübler, fotografiert von Michael Hornung
 published: true
+literatur:
+  - url: http://tintling.com/pilzbuch/arten/r/Rubroboletus_satanas
 ---
 Die Furcht von Hobby-Pilzsammlern vor dem Satansröhrling ist groß aber unter praktischen Gesichtspunkten ziemlich unbegründet. Ein Grund: er kann zwar mehr oder weniger heftige Magen-Darmstörungen hervorrufen, hat in Deutschland aber noch keinen umgebracht. Ihn in der populären Pilzliteratur mit einem Totenkopf-Symbol zu versehen, erscheint mir reichlich übertrieben. Ein statistisch noch bedeutsamerer Grund: zu finden ist der Pilz mit dem teuflischen Namen vor allem in Pilzbüchern, in natura haben ihn nur die allerwenigsten schon einmal gesehen. Fundberichte beruhen meist auf Verwechslungen mit ähnlichen oder auch weniger ähnlichen Arten. Immer wieder wird der [Schönfußröhrling (*Boletus calopus*)](/pilze/boletus-calopus-schönfußröhrling) für einen Satansröhrling gehalten, aber auch die essbaren Hexenröhrlinge.
 
