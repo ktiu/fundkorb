@@ -15,10 +15,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pleurotus_ostreatus_07_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 06.01.2022 ist der Austernseitling *Pleurotus ostreatus*. Aktuell nicht mit eigenen Augen gesehen, aber von anderen Pilzfreunden gemeldet, die sich über üppige Pilzmahlzeiten freuen können. Ich beschränke mich beim Sammeln auf junge zarte Exemplare und lasse die älteren im Wald. In Pilzzuchtbetrieben werden in Deutschland jährlich rund 500 Tonnen Austernpilze produziert. Was von da in die Regale der Supermärkte gelangt, ist mir zu zäh. Ich bin, was Speisepilze betrifft, schon immer etwas schnäubig gewesen und lasse nur erste Wahl in meine Pfanne. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pleurotus-ostreatus-austernseitling)
+
+<div style="clear:  both"> </div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/exidia_plana_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-Aktueller [Fundkorbpilz](AA "Glossar-") am 05.01.2022 ist der Warzige Drüsling Exidia plana. Mit seinem schwarzen gekröseartig gewundem Glibber, der ganze Äste überziehen kann, ist er nicht nur unverwechselbar sondern auch häufig. Gerade jetzt bei feucht-kühler Witterung wird man ihm bei fast jedem Waldspaziergang begegnen, sofern man auch mal die Wege verlässt. Sein Hauptwirt ist die Buche. Er wird auch Hexenbutter genannt und macht bei Trockenheit eine erstunliche Wandlung durch. Dann bleibt nur eine fast völlig glatte glänzende Haut zurück, die den betroffenen Ast wie schwarz lackiert erscheinen lässt. (Dieter Gewalt)
+Aktueller [Fundkorbpilz](AA "Glossar-") am 05.01.2022 ist der Warzige Drüsling *Exidia plana*. Mit seinem schwarzen gekröseartig gewundem Glibber, der ganze Äste überziehen kann, ist er nicht nur unverwechselbar sondern auch häufig. Gerade jetzt bei feucht-kühler Witterung wird man ihm bei fast jedem Waldspaziergang begegnen, sofern man auch mal die Wege verlässt. Sein Hauptwirt ist die Buche. Er wird auch Hexenbutter genannt und macht bei Trockenheit eine erstunliche Wandlung durch. Dann bleibt nur eine fast völlig glatte glänzende Haut zurück, die den betroffenen Ast wie schwarz lackiert erscheinen lässt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/exidia-plana-warziger-drüsling)
 
@@ -33,42 +45,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 05.01.2022 ist der Warzige Drüsling 
 Aktueller [Fundkorbpilz](AA "Glossar-") am 04.01.2022 ist der Flaschenstäubling *Lycoperdon perlatum*. Da stehen überall in den Wäldern noch die Leichen aus dem letzten Jahr herum, die gar keine richtigen Leichen sind. Sie sind noch in hohem Grade potent, was man mit einem schnellen Test bestätigt findet. Nur mal kurz draufdrücken und prompt entlassen sie ein Wölkchen Sporenstaub, um auch noch in hohem Alter für Nachwuchs zu sorgen. Bei unserem eigenen Nachwuchs haben Stäublinge übrigens recht originelle Namen. Zum Beispiel *„Puffpilz“* oder *„Staubbombenpilz“* . (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lycoperdon-perlatum-flaschenstäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/strobilurus_esculentus_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-03.01.2022: In Mitteleuropa gibt es drei Zapfenrüblingsarten, die sich optisch nicht unterscheiden. Wachsen sie früh im Jahr auf Fichtenzapfen ist es unser aktueller [Fundkorbpilz](AA "Glossar-"), der Fichtenzapfenrübling *Strobilurus esculentus*, der sogar essbar ist. Wenn man Glück hat, kann sich das Sammeln lohnen, auch wenn an einem einzelnen Hütchen nicht viel dran ist und die zähen Stiele weggelassen werden sollten. Auf einem Zapfen können mehrere Pilze erscheinen und in einem ausgedehnten Fichtenbestand kann einiges zusammenkommen. Bei unserer gestrigen Exkursion war es allerdings nicht genug Masse, um an ein Pilzgericht zu denken. Außerdem ist darauf zu achten, dass man nicht den kleineren Mäuseschwanzrübling einsammelt, der zu einer ganz anderen Gattung gehört. Der ist zwar nicht giftig, aber auch nicht schmackhaft. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/strobilurus-esculentus-fichtenzapfenrübling)
-
-<div style="clear:  both"></div> 
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/plicatura_crispa_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 02.01.2022 ist der Buchen-Adernzähling *Plicatuta crispa*, auch wenn seine Fruchtkörper an einer bekannten Fundstelle nicht mehr die frischesten sind. Kein Wunder, es sind die gleichen, die ich hier Anfang Oktober zum ersten Mal gesehen habe. Jetzt wirken sie schon ziemlich alterschwach und haben viel von ihrer ursprünglichen Attraktivität verloren. Vor allem ist das rein weiße [Hymenophor](Hymenophor "Glossar"), das aus filigranen, sehr eng stehenden Falten bestand, ergraut und unansehnlich geworden. Der Name *Buchen-Adernzähling* erscheint mir nicht sehr treffend gewählt zu sein. Ich habe die recht häufige Art bisher ganz überwiegend an Birke gefunden, was in krassem Gegensatz zu den Angaben in *"Die Großpilze Baden-Württembergs"* steht. Außerdem hat auch ihre Häufigkeit zumindest im Rhein-Main-Gebiet deutlich zugenommen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/plicatura-crispa-buchen-adernzähling) 
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_pomaceus_04_dg-.jpg" %}
-{% include abbildung_ende.html %}
-
-01.01.2022: Um den ersten aktuellen [Fundkorbpilz](AA "Glossar-") des neuen Jahres zu fotografieren, brauche ich nur vor unsere Haustür und von da fünf Meter nach rechts zu gehen. Da steht ein Blutpflaumenbaum und an seinem Stamm wächst seit Jahren der Pflaumen-Feuerschwamm *Phellinus pomaceus*. Er ist zwar ein Parasit, der eine Weißfäule im Holz erzeugt, aber nicht sehr aggressiv, so dass der befallene Baum noch eine lange Lebenszeit vor sich hat und weiterhin Früchte trägt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)
 
 <div style="clear:  both"></div>
 
