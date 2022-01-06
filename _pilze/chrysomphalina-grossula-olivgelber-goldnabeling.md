@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Chrysomphalina_grossula.html
 ---
-Nur wenige Meter von unserem Hauseingang in der Dietzenbacher Rodgaustraße entfernt entdeckte Tui Gewalt unter Ziersträuchern auf Holzhäcksel mit Kiefernrindenstücken eine größere Anzahl nabelingsartiger Pilze, die Hermine Lotz-Winter als Olivgelbe Nabelinge (Chrysomphalina grossula) bestimmte. Mir war nicht einmal die Existenz einer solchen Gattung bekannt. Drei Tage später fand ich die ausgesprochen attraktive Art auch in Neu-Isenburg in der Gartenstraße auf ähnlichem Substrat. Auf diesen Pilz sollte man achten. Möglicherweise ist er gar nicht so selten. Auf jeden Fall ist er wunderschön.
+Nur wenige Meter von unserem Hauseingang in der Dietzenbacher Rodgaustraße entfernt entdeckte *Tui Gewalt* unter Ziersträuchern auf Holzhäcksel mit Kiefernrindenstücken eine größere Anzahl nabelingsartiger Pilze, die *Hermine Lotz-Winter* als Olivgelbe Nabelinge (*Chrysomphalina grossula*) bestimmte. Mir war nicht einmal die Existenz einer solchen Gattung bekannt. Drei Tage später fand ich die ausgesprochen attraktive Art auch in Neu-Isenburg in der Gartenstraße auf ähnlichem Substrat. Auf diesen Pilz sollte man achten. Möglicherweise ist er gar nicht so selten. Auf jeden Fall ist er wunderschön.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/chrysomphalina_grossula_02_dg.jpg" nocrop=true %}
