@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-06.01.2021 [Pleurotus ostreatus - Austernseitling](/pilze/pleurotus-ostreatus-austernseitling)  
+07.01.2022 [Hygrophoropsis aurantiaca - Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)  
+06.01.2022 [Pleurotus ostreatus - Austernseitling](/pilze/pleurotus-ostreatus-austernseitling)\
 05.01.2022 [Exidia plana - Warziger Drüsling](/pilze/exidia-plana-warziger-drüsling)\
 04.01.2022 [Lycoperdon perlatum - Flaschenstäubling](/pilze/lycoperdon-perlatum-flaschenstäubling)\
 03.01.2022 [Strobilurus esculentus - Fichtenzapfenrübling](/pilze/strobilurus-esculentus-fichtenzapfenrübling)\
