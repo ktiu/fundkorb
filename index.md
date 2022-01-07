@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 07.01.2022 ist der Falsche Pfifferling *Hygrophoropsis aurantiaca*. Den kann man auch schon mal mitten im Winter und steifgefroren in Nadelwäldern finden. In diesem Januar haben sie bisher keine Frostschäden, dazu ist es noch nicht kalt genug gewesen in Frankfurt und Umgebung. Wie der Name schon vermuten lässt, ist er der klassische Doppelgänger des echten Pfifferlings, obwohl beide Arten nicht einmal näher miteinander verwandt sind. Der "echte" Pfifferling gehört zu den Leistlingen, der "falsche" ist dagegen ein "echter" Blätterpilz. Verwechslungen hätten keine schlimmen Folgen. Auch der Falsche Pfifferling ist essbar, aber im Geschmack längst nicht so gut wie der Echte. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)
+
+<div style="clear:  both"> </div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pleurotus_ostreatus_07_dg.jpg" %}
 {% include abbildung_ende.html %}
 
