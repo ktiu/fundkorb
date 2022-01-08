@@ -14,13 +14,13 @@ hauptbild:
   datei: /bilder/clitocybe_nebularis_01_dg.jpeg
 published: true
 ---
-Schon 1955 hat Linus Zeitlmayr (Knaurs Pilzbuch) die Nebelkappe nur mit Einschränkungen für die Küche empfohlen: 
+Schon 1955 hat *Linus Zeitlmayr* (Knaurs Pilzbuch) die Nebelkappe nur mit Einschränkungen für die Küche empfohlen: 
 
 > „Er ist ein ergiebiger Speisepilz, aber nicht nach jedermanns Geschmack, als Alleingericht in größeren Mengen bisweilen sogar recht unbekömmlich, aber als Mischpilz ganz brauchbar. Hier und dort ist er ein beliebter Marktpilz. Nur junge Stücke sammeln, vor der Zubereitung abbrühen und das Brühwasser wegschütten!“
 
 Bei mir ist er beim ersten Kostversuch mit Pauken und Trompeten durchgefallen. Mein Urteil: ungenießbar, widerwärtig! Schon seinen aufdringlichen mehlig-ranzigen Geruch empfinde ich als unangenehm.
 
-So beliebt das „Herbstblattl“ in Bayern auch gewesen sein mag, inzwischen gilt er zumindest als giftverdächtig und wird von mir in der Pilzberatung nicht mehr zum Verzehr freigegeben. Ein Inhaltsstoff namens Nebularin wird von einigen Autoren sogar als stark giftig eingestuft und soll neben Magen-Darm-Störungen für Lungenödeme und aufgrund mutagener Inhaltsstoffe für Genveränderungen verantwortlich sein.
+So beliebt das *„Herbstblattl“* in Bayern auch gewesen sein mag, inzwischen gilt er zumindest als giftverdächtig und wird von mir in der Pilzberatung nicht mehr zum Verzehr freigegeben. Ein Inhaltsstoff namens Nebularin wird von einigen Autoren sogar als stark giftig eingestuft und soll neben Magen-Darm-Störungen für Lungenödeme und aufgrund mutagener Inhaltsstoffe für Genveränderungen verantwortlich sein.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/clitocybe_nebularis_04_dg.jpg" %}
