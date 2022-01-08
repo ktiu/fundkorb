@@ -19,6 +19,11 @@ literatur:
 ---
 Der Violette Schichtpilz ist die einzige Art in seiner Gattung und kaum zu verwechseln, zumindest wenn er so schön abstehende Hütchen bildet wie auf dem Foto. Sie können sowohl dachziegelig übereinander angeordnet als auch in wellig-verbogenen Reihen waagerecht miteinander verbunden sein. Ihre Oberseiten sind striegelig-filzig und grau-weißlich mit violettem Ton, auch dunkler purpurbraun, die glatte bis etwas runzelige Fruchtschicht ist braunviolett.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/chondrostereum_purpureum_02_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/chondrostereum_purpureum_03_dg.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html %}
+
 Der Pilz wächst an Laubholz, an stehenden wie liegenden oder gestapelten Stämmen, gern an deren Schnittflächen, und ist recht häufig. Er fruktifiziert ganzjährig, vor allem im Herbst und in milden Wintern.
 
 Mit dem Samtfuß- oder Winter-Rübling ([Flammulina velutipes](/pilze/flammulina-velutipes-samtfußrübling)) scheint er sich gut zu vertragen. Ich habe die beiden schon mehrfach einträchtig beieinander an Buchenstämmen erlebt. *Hermann Jahn* berichtet von häufigen gemeinsamen Vorkommen mit dem Ablösenden Rindenpilz (*Cylindrobasidium evolvens*).
