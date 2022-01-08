@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-07.01.2022 [Hygrophoropsis aurantiaca - Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)  
+08.01.2022 [Baeospora myosura - Mäuseschwanz-Rübling](/pilze/baeospora-myosura-mäuseschwanz-rübling)  
+07.01.2022 [Hygrophoropsis aurantiaca - Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)\
 06.01.2022 [Pleurotus ostreatus - Austernseitling](/pilze/pleurotus-ostreatus-austernseitling)\
 05.01.2022 [Exidia plana - Warziger Drüsling](/pilze/exidia-plana-warziger-drüsling)\
 04.01.2022 [Lycoperdon perlatum - Flaschenstäubling](/pilze/lycoperdon-perlatum-flaschenstäubling)\
