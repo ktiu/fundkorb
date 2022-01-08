@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/baeospora_myosura_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mäuseschwanz-Rübling *Baeospora myosura*, eine häufige Art, die auch in den Wintermonaten zu finden ist. Die kleinen dünnstieligen Blätterpilzchen wachsen gesellig auf Koniferenzapfen. Vor allem auf den längeren Fichtenzapfen können es locker mehr als ein Dutzend sein. Sie haben sehr viele sehr dicht stehende schmale Lamellen. Die Stiele sind matt und vor allem jung mehlig bereift. Meist sieht man zwischen den ausgewachsenen Exemplaren winzig kleine Nachkömmlinge. Verwechslungen wären möglich mit den Zapfenrüblingen der Gattung *Strobilurus*, die ich noch nie so zahlreich auf einem Zapfen gesehen habe wie die Mäuseschwänzchen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/baeospora-myosura-mäuseschwanz-rübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -35,30 +47,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 06.01.2022 ist der Austernseitling *P
 [Mehr lesen >](/pilze/pleurotus-ostreatus-austernseitling)
 
 <div style="clear:  both"> </div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/exidia_plana_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 05.01.2022 ist der Warzige Drüsling *Exidia plana*. Mit seinem schwarzen gekröseartig gewundem Glibber, der ganze Äste überziehen kann, ist er nicht nur unverwechselbar sondern auch häufig. Gerade jetzt bei feucht-kühler Witterung wird man ihm bei fast jedem Waldspaziergang begegnen, sofern man auch mal die Wege verlässt. Sein Hauptwirt ist die Buche. Er wird auch Hexenbutter genannt und macht bei Trockenheit eine erstunliche Wandlung durch. Dann bleibt nur eine fast völlig glatte glänzende Haut zurück, die den betroffenen Ast wie schwarz lackiert erscheinen lässt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/exidia-plana-warziger-drüsling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lycoperdon_perlatum_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 04.01.2022 ist der Flaschenstäubling *Lycoperdon perlatum*. Da stehen überall in den Wäldern noch die Leichen aus dem letzten Jahr herum, die gar keine richtigen Leichen sind. Sie sind noch in hohem Grade potent, was man mit einem schnellen Test bestätigt findet. Nur mal kurz draufdrücken und prompt entlassen sie ein Wölkchen Sporenstaub, um auch noch in hohem Alter für Nachwuchs zu sorgen. Bei unserem eigenen Nachwuchs haben Stäublinge übrigens recht originelle Namen. Zum Beispiel *„Puffpilz“* oder *„Staubbombenpilz“* . (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lycoperdon-perlatum-flaschenstäubling)
-
-<div style="clear:  both"></div>
 
 - - -
 
