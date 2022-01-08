@@ -7,6 +7,7 @@ beschreibung:
   familie: Entolomaceae
 profil:
   aktualisiert: 2021-07-26
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/clitopilus_prunulus_01_dg.jpg
@@ -27,4 +28,4 @@ Als Speisepilz kann er durchaus empfohlen werden, aber nur erfahrenen Pilzkenner
 
 An dieser Stelle noch ein Hinweis zum Mehlgeruch: der ist bei trockenem Mehl kaum wahrzunehmen, bei nassem aber recht deutlich. In stärkerer Ausprägung kann man ihn auch als gurkenartig bezeichnen. 
 
-Und noch etwas: ich wüsste zu gern, was den Erstbeschreiber des Mehlräslings veranlasst hat, als Artnamen *prunulus (lat.) = Pfläumchen* zu wählen. Leider kann man ihn nicht mehr fragen, denn der italienische Naturforscher Giovanni Antonio Scopoli ist bereits 1788 verstorben.
+Und noch etwas: ich wüsste zu gern, was den Erstbeschreiber des Mehlräslings veranlasst hat, als Artnamen *prunulus (lat.) = Pfläumchen* zu wählen. Leider kann man ihn nicht mehr fragen, denn der italienische Naturforscher *Giovanni Antonio Scopoli* ist bereits 1788 verstorben.
