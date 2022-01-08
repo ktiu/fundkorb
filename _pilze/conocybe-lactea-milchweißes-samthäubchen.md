@@ -28,7 +28,7 @@ Der Pilz ist von Juni bis September zu finden und gilt als Zeiger für stickstof
 {% include bild.html datei="/bilder/conocybe_lactea_05_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Eine kaum unterscheidbare Form ist als Conocybe albipes beschrieben worden und auch unter diesem Namen bei 123pilze geführt, wird aber von den meisten Autoren (z. B. in Großpilze Baden-Württembergs Bd. 4) und auch im  Index fungorum mit Conocybe lactea synonymisiert, die heute Conocybe apala heißen soll. Mal wieder ein ärgerliches Beispiel für die taxonomische Verwirrung durch ständige Namensänderungen.
+Eine kaum unterscheidbare Form ist als *Conocybe albipes* beschrieben worden und auch unter diesem Namen bei *123pilze* geführt, wird aber von den meisten Autoren (z. B. in Großpilze Baden-Württembergs Bd. 4) und auch im  Index fungorum mit *Conocybe lactea* synonymisiert, die heute *Conocybe apala* heißen soll. Mal wieder ein ärgerliches Beispiel für die [taxonomische](taxonomisch "Glossar") Verwirrung durch ständige Namensänderungen.
 
 Das Milchweiße Samthäubchen ist ein Kosmopolit, also weltweit verbreitet. Ich habe die Art auch mehrfach in Thailand gefunden - siehe die beiden nachfolgenden Fotos.
 
