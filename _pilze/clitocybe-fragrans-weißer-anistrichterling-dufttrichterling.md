@@ -9,7 +9,7 @@ profil:
   aktualisiert: 2022-01-09
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/clitocybe_fragrans_02_fk.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Clitocybe_fragrans.html
