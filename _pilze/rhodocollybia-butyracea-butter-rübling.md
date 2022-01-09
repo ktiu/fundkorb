@@ -27,7 +27,7 @@ Der Name Butter-Rübling (butyracea; auch "Kastanienbrauner Rübling") bezieht s
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/rhodocollybia_butyracea_03_dg.jpg" %}
-{% include bild.html datei="/bilder/rhodocollybia_butyracea_04_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/rhodocollybia_butyracea_04_jm.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
 In allen Merkmalen (bis auf die Farbe!) sehr ähnlich ist der Horngraue Rübling, eine graue Varietät des kastanienbraunen Butter-Rüblings, die weitaus häufiger anzutreffen ist. In manchen Jahren scheinen sich die Häufigkeitsverhälnisse umzukehren (z. B. 2016), was auf den Witterungsverlauf zurückzuführen sein könnte. Beide sind essbar, aber bestenfalls als Mischpilz verwendbar.
