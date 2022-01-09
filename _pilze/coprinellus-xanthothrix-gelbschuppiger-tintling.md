@@ -24,17 +24,17 @@ hauptbild:
 {% include bild.html datei="/bilder/coprinellus_xanthothrix_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Die Bestimmung des Fundes, die sich vor allem auf Sporenform und -größe sowie Strukturen des Velums stützt, verdanke ich Hans Bender. Die Sporenmaße stimmen mit den Angaben bei *Breitenbach & Kränzlin (Pilze der Schweiz Band 4 Nr. 307)* überein, das Velum besteht aus rundlichen, spindeligen, kettenförmig aneinandergereihten, dickwandigen Zellen, die zum Teil braun pigmentiert sind.
+Die Bestimmung des Fundes, die sich vor allem auf Sporenform und -größe sowie Strukturen des Velums stützt, verdanke ich *Hans Bender*. Die Sporenmaße stimmen mit den Angaben bei *Breitenbach & Kränzlin (Pilze der Schweiz Band 4 Nr. 307)* überein, das Velum besteht aus rundlichen, spindeligen, kettenförmig aneinandergereihten, dickwandigen Zellen, die zum Teil braun pigmentiert sind.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/coprinellus_xanthothrix_05_sporen_hb.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/coprinellus_xanthothrix_06_velum_hb.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Sporen -- Velum (2 Mikrofotos: Hans Bender)" %}
 
-Zur Ökologie von Coprinellus xanthothrix wird in der Literatur Wachstum in Wäldern oder an Waldrändern, an toten Laubholzästchen oder im Boden vergrabenem Holz angegeben, was so gar nicht zu dem hier dokumentierten Fund auf einer Rasenfläche passt und zu meiner Ratlosigkeit beigetragen hat. Bei einem weiteren Besuch an der Fundstelle konnten zwischen Gras und Kräutern aber tatsächlich Holzpartikel festgestellt werden, wie das nachfolgende Foto belegt.
+Zur Ökologie von *Coprinellus xanthothrix* wird in der Literatur Wachstum in Wäldern oder an Waldrändern, an toten Laubholzästchen oder im Boden vergrabenem Holz angegeben, was so gar nicht zu dem hier dokumentierten Fund auf einer Rasenfläche passt und zu meiner Ratlosigkeit beigetragen hat. Bei einem weiteren Besuch an der Fundstelle konnten zwischen Gras und Kräutern aber tatsächlich Holzpartikel festgestellt werden, wie das nachfolgende Foto belegt.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/coprinellus_xanthothrix_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Der Pilz scheint relativ selten zu sein und könnte u. a. mit dem [Haustintling Coprinellus domesticus](/pilze/coprinellus-domesticus-haustintling) oder dem Überzuckerten Tintling Coprinellus saccharinus verwechselt werden.
+Der Pilz scheint relativ selten zu sein und könnte u. a. mit dem [Haustintling *Coprinellus domesticus*](/pilze/coprinellus-domesticus-haustintling) oder dem Überzuckerten Tintling *Coprinellus saccharinus* verwechselt werden.
