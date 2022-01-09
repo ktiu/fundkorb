@@ -20,7 +20,7 @@ Im Juli 1998 wiederholte ich den Kultivierungsversuch an anderer Stelle. Da mir 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/coprinopsis_patouillardii_02_dg.jpg" %}
-{% include abbildung_ende.html legende="Anfang Oktober 2021 erschienen diese drei Hübschen als Blumentopfpilze meinem Balkon" %}
+{% include abbildung_ende.html legende="Anfang Oktober 2021 erschienen diese drei Hübschen als Blumentopfpilze auf meinem Balkon" %}
 
 Der Pilz ist in der Tat eine kurzlebige Art. Am Morgen erschienen sie mit länglich eiförmigen Köpfen, die bald aufschirmten, um zuletzt ihre Ränder nach oben zu biegen. Am nächsten Tag waren sie restlos verschwunden. Die zarten Hüte erreichen Durchmesser von 2,5 cm, sind jung weiß, später grauweiß mit gelbbräunlicher Mitte und bis fast zur Mitte deutlich gerieft. Im Laufe ihrer Entwicklung neigen sie kaum zum tintlingsartigen Zerfließen, sie verwelken eher. Die Fruchtkörper erscheinen vom Frühjahr bis in den späten Herbst auf Misthaufen, auf Dung von Pferden und anderen Pflanzenfressern. In Thailand fanden wir ihn mehrfach auf Elefantendung.
 
