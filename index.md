@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_subtomentosum_02_dg.jpg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 09.01.2022 ist der Samtige Schichtpilz *Stereum subtomentosum*. Er ist in der Lage, Totholz in attraktive Kunstwerke zu verwandeln. Seine dicht und üppig über-, neben- und miteinander verknäuelten stiellosen Hüte sind dünn und elastisch und von beeindruckender Schönheit. Im Rahmen der natürlichen Variabilität können auch rote Farben hinzukommen und sogar dominieren. Das Problem für alle, die ihre Funde genau bestimmen wollen: der Samtige ist vom Braunsamtigen Schichtpilz Stereum insignitum optisch kaum zu unterscheiden. Da kommt es auf sogenannte [Zystiden](Zystiden "Glossar") an, die nur mikroskopisch zu beurteilen sind. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stereum-subtomentosum-samtiger-schichtpilz)
+
+<div style="clear:  both"> </div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/baeospora_myosura_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
