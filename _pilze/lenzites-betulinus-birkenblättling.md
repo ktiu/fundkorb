@@ -5,6 +5,7 @@ beschreibung:
   referenz: (L.) Fr. 1838
   familie: Polyporaceae
   erlaeuterung: betulinus = an Birke wachsend
+  synonym: "Synonym: Lenzites betulina"
 profil:
   aktualisiert: 2022-01-02
   autor_in: Dieter Gewalt
