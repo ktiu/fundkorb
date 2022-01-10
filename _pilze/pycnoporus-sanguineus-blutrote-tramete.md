@@ -19,7 +19,7 @@ Diesen wunderschönen Porling habe ich nicht nur im *Cha Am Forest Park* sondern
 {% include bild.html datei="/bilder/pycnoporus_sanuineus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Dass er mit der bei uns vorkommenen Zinnobertramete *Pycnoporus cinnabarinus* nahe verwandt ist, besagt schon einer seiner vielen Synonyme: *Trametes cinnabarina var. sanguinea*.
+Dass er mit der bei uns vorkommenen Zinnobertramete *[Pycnoporus cinnabarinus](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)* nahe verwandt ist, besagt schon einer seiner vielen Synonyme: *Trametes cinnabarina var. sanguinea*.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/pycnoporus_sanuineus_03_dg.jpg" %}
