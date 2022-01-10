@@ -12,7 +12,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/russula_betularum_01_dg.jpeg
 ---
-Die meisten Speitäublinge fallen durch realtiv kleine, zerbrechliche Fruchtkörper und ihre intensiv rote und meist etwas klebrige Huthaut auf. Zu den blassen Arten gehört der Birken-Speitäubling. Er ist zuerst blass rosa gefärbt, die vertiefte Mitte meist etwas dunkler, im Alter blasst er aus und kann nahezu weiß werden, der Hutrand ist mehr oder weniger deutlich gerieft. Er ist ein häufiger Mykorrhizapartner der Birke und bevorzugt feuchte, moosige oder grasige Standorte. Wie alle Speitäublinge ist er giftig und verursacht Magen-/Darmstörungen.
+Die meisten Speitäublinge fallen durch realtiv kleine, zerbrechliche Fruchtkörper und ihre intensiv rote und meist etwas klebrige Huthaut auf. Zu den blassen Arten gehört der Birken-Speitäubling. Er ist zuerst blass rosa gefärbt, die vertiefte Mitte meist etwas dunkler, im Alter blasst er aus und kann nahezu weiß werden, der Hutrand ist mehr oder weniger deutlich gerieft. Er ist ein häufiger [Mykorrhizapartner](Mykorrhiza "Glossar") der Birke und bevorzugt feuchte, moosige oder grasige Standorte. Wie alle Speitäublinge ist er giftig und verursacht Magen-/Darmstörungen.
 
 <div class="table-responsive">
   <table class="table taeubling">
