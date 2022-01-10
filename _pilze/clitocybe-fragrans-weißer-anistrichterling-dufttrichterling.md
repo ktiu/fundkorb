@@ -14,12 +14,17 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Clitocybe_fragrans.html
 ---
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/clitocybe_fragrans_04_hs.jpg" gross=true %}
+{% include bild.html datei="/bilder/clitocybe_fragrans_05_hs.jpg" gross=true %}
+{% include abbildung_ende.html legende="2 Fotos: Hans Stern" %}
+
+Ein Trichterling, dessen Form wie auf den Fotos oben keinerlei Ähnlichkeit mit einem Trichter hat? Habitus und Größe könnten eher an einen Rübling denken lassen. Da er aber auffällig und sehr angenehm nach Anis duftet und es unter Rüblingen keinen mit diesem Geruch gibt, ist es naheliegend, den Weißen Anistrichterling in Betracht zu ziehen. Eigentlich ist die Bestimmung damit schon so gut wie gesichert, wer es aber ganz genau wissen will, sollte mikroskopieren. Es kann aber auch vorkommen, dass der Hut in der Mitte vertieft ist - dann dürfte sich der Mikroskopieraufwand erübrigen. Und rein weiß sind die Fruchtkörper auch nicht immer.
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/clitocybe_fragrans_02_fk.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/clitocybe_fragrans_01_fk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Frank Kaster" %}
-
-Ein Trichterling, dessen Form wie auf den Fotos oben keinerlei Ähnlichkeit mit einem Trichter hat? Habitus und Größe könnten eher an einen Rübling denken lassen. Da er aber auffällig und sehr angenehm nach Anis duftet und es unter Rüblingen keinen mit diesem Geruch gibt, ist es naheliegend, den Weißen Anistrichterling in Betracht zu ziehen. Eigentlich ist die Bestimmung damit schon so gut wie gesichert, wer es aber ganz genau wissen will, sollte mikroskopieren. Es kann aber auch vorkommen, dass der Hut in der Mitte vertieft ist - dann dürfte sich der Mikroskopieraufwand erübrigen. Und rein weiß sind die Fruchtkörper auch nicht immer.
 
 **Kurzbeschreibung:**\
 **Hut:** 2 - 4 cm ∅, Mitte vertieft (oder auch nicht), weißlich horngrau bis ockerfarben, Rand unauffällig gerieft\
