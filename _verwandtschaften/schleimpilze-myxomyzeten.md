@@ -33,23 +33,23 @@ Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das Video des US-amerik
 
 <https://www.spektrum.de/video/besitzen-schleimpilze-schwarmintelligenz/1592488>
 
-Bisher 15 Schleimpilzarten aus 10 Gattungen (4 Familien) im Fundkorb. Weitere werden folgen.
+Bisher 16 Schleimpilzarten aus 10 Gattungen (4 Familien) im Fundkorb. Weitere werden folgen.
 
 [](/pilze/diachaea-leucopodia-buckingham-schleimpilz)[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
 [Arcyria obvelata (Arcyriaceae) - Nickender Kelchschleimpilz](/pilze/arcyria-obvelata-arcyria-obvelata)\
 [Ceratiomyxa porioides (Ceratiomyxaceae) - Weißes Netzpolster](/pilze/ceratiomyxa-porioides-weißes-netzpolster)\
 [Ceratiomyxa fruticulosa (Ceratiomyxaceae) - Geweihförmiger Schleimpilz](/pilze/ceratiomyxa-fruticulosa-geweihförmiger-schleimpilz)\
 [Diachaea leucopodia (Didymiaceae) - Buckingham-Schleimpilz](/pilze/diachaea-leucopodia-buckingham-schleimpilz)\
-[Fuligo muscorum (Physaridae) - Moos-Lohblüte](/pilze/fuligo-muscorum-moos-lohblüte)\
-[Fuligo rufa - Rötende Lohblüte](/pilze/fuligo-rufa-rötliche-lohblüte)\
-[Fuligo septica (Physaridae) - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
-[Lindbladia tubulina - Röhriger Schleimpilz](/pilze/lindbladia-tubulina-röhriger-schleimpilz)\
+[Fuligo muscorum (Physaraceae) - Moos-Lohblüte](/pilze/fuligo-muscorum-moos-lohblüte)\
+[Fuligo rufa (Physaraceae)- Rötende Lohblüte](/pilze/fuligo-rufa-rötliche-lohblüte)\
+[Fuligo septica (Physaraceae) - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
+[Lindbladia tubulina - (Enteridiaceae) Röhriger Schleimpilz](/pilze/lindbladia-tubulina-röhriger-schleimpilz)\
 [Lycogala epidendrum (Enteridiaceae) - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 [Physarum cinereum (Physaridae) - Grauer Gras-Schleimpilz](/pilze/physarum-cinereum-grauer-gras-schleimpilz)\
 [Physarum utriculare (Physaridae) - Fadenfrucht-Schleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
 [Reticularia lycoperdon (Enteridiaceae) - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
-[Stemonitis fusca (Stemonitidaceae) - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen) 
-[Trichia favoginea - Gelber Schleimpilz](/pilze/trichia-favoginea-gelber-schleimpilz)
+[Stemonitis fusca (Stemonitidaceae) - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)\
+[Trichia favoginea (Trichiaceae) - Gelber Schleimpilz](/pilze/trichia-favoginea-gelber-schleimpilz)\
 [Tubulifera arachnoides (Enteridiaceae) - Lachsfarbener Schleimpilz](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
 
 Übrigens... auf Standorttreue kann man bei Schleimpilzen nicht zählen!
