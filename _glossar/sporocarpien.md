@@ -1,4 +1,4 @@
 ---
 schlagwort: Sporocarpien
 ---
-sporenbildende Einzelfruchtkörper der Schleimpilze (Myxomyzeten)
+gestielte oder sitzende sporenbildende Einzelfruchtkörper der Schleimpilze (Myxomyzeten)
