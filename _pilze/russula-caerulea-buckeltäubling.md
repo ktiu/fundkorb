@@ -33,7 +33,7 @@ Der Buckeltäubling ist eine Charakterart sandiger Kiefernwälder und hier oft m
 {% include bild.html datei="/bilder/russula_caerulea_05_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Kennengelernt habe ich diesen Täubling unter seinem wissenschaftlichen Namen caerulea (in manchen Büchern auch coerulea), dann wurde er in amara umbenannt, jetzt heißt er wieder caerulea. Beide Namen sind kaum nachvollziehbar. Der Pilz schmeckt weder bitter, noch ist sein Hut blau gefärbt. Es kann immerhin vorkommen, dass die Huthaut etwas bitter ist und in seltenen Fällen einem Pilzgericht mit Buckeltäublingen einen bitterlichen Beigeschmack gibt. Versuche, sie komplett abzuziehen, sind meist vergeblich.
+Kennengelernt habe ich diesen Täubling unter seinem wissenschaftlichen Namen *caerulea* (in manchen Büchern auch *coerulea*), dann wurde er in *amara* umbenannt, jetzt heißt er wieder *caerulea*. Beide Namen sind kaum nachvollziehbar. Der Pilz schmeckt weder bitter, noch ist sein Hut blau gefärbt. Es kann immerhin vorkommen, dass die Huthaut etwas bitter ist und in seltenen Fällen einem Pilzgericht mit Buckeltäublingen einen bitterlichen Beigeschmack gibt. Versuche, sie komplett abzuziehen, sind meist vergeblich.
 
 <div class="table-responsive">
   <table class="table taeubling">
@@ -56,4 +56,3 @@ Kennengelernt habe ich diesen Täubling unter seinem wissenschaftlichen Namen ca
     </tr>
   </table>
 </div>
-
