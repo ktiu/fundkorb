@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tremella_mesenterica_03_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+10.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldgelbe Zittterling *Tremella mesenterica*. Man erkennt ihn schon aus 10 oder 20 Meter Entfernung, und das ist bei Pilzen alles andere als der Normalfall. Sein leuchtendes Gelb macht ihn unverwechselbar. Er wächst an toten Laubholzästen, auch an noch stehenden Stämmen, gern an Eiche, Buche, Esche oder Hasel. Sein Aussehen lässt schon seine glibberige Konsistenz erahnen. Die kann im Winter gefroren sein und eine feine Reifschicht kann den Pilz noch attraktiver machen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tremella-mesenterica-goldgelber-zitterling)
+
+<div style="clear:  both"> </div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_subtomentosum_02_dg.jpg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,30 +47,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 09.01.2022 ist der Samtige Schichtpil
 [Mehr lesen >](/pilze/baeospora-myosura-mäuseschwanz-rübling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 07.01.2022 ist der Falsche Pfifferling *Hygrophoropsis aurantiaca*. Den kann man auch schon mal mitten im Winter und steifgefroren in Nadelwäldern finden. In diesem Januar haben sie bisher keine Frostschäden, dazu ist es noch nicht kalt genug gewesen in Frankfurt und Umgebung. Wie der Name schon vermuten lässt, ist er der klassische Doppelgänger des echten Pfifferlings, obwohl beide Arten nicht einmal näher miteinander verwandt sind. Der "echte" Pfifferling gehört zu den Leistlingen, der "falsche" ist dagegen ein "echter" Blätterpilz. Verwechslungen hätten keine schlimmen Folgen. Auch der Falsche Pfifferling ist essbar, aber im Geschmack längst nicht so gut wie der Echte. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)
-
-<div style="clear:  both"> </div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pleurotus_ostreatus_07_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 06.01.2022 ist der Austernseitling *Pleurotus ostreatus*. Aktuell nicht mit eigenen Augen gesehen, aber von anderen Pilzfreunden gemeldet, die sich über üppige Pilzmahlzeiten freuen können. Ich beschränke mich beim Sammeln auf junge zarte Exemplare und lasse die älteren im Wald. In Pilzzuchtbetrieben werden in Deutschland jährlich rund 500 Tonnen Austernpilze produziert. Was von da in die Regale der Supermärkte gelangt, ist mir zu zäh. Ich bin, was Speisepilze betrifft, schon immer etwas schnäubig gewesen und lasse nur erste Wahl in meine Pfanne. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pleurotus-ostreatus-austernseitling)
-
-<div style="clear:  both"> </div>
 
 - - -
 
