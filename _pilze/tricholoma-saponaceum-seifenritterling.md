@@ -17,7 +17,7 @@ literatur:
 Der Seifenritterling ist eine relativ häufige Art und an der Merkmalskombination ***grauer zum Rand hin hellerer Hut und deutlicher Seifen- oder Waschküchengeruch*** zu erkennen. Er kommt in Laub- und Nadelwäldern vor ohne besondere Ansprüche an die Bodenbeschaffenheit zu stellen. Buche und Fichte sind seine häufigsten [Mykorrhizapartner](Mykorrhiza "Glossar").
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/tricholoma_saponaceum_03_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/tricholoma_saponaceum_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/tricholoma_saponaceum_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
