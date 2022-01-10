@@ -15,7 +15,7 @@ hauptbild:
   legende: "Foto: Wikipedia"
 literatur: []
 ---
-Meinen beiden ersten Pilzbücher, die mich bei meinen frühen Exkursionen ins Reich der Pilze begleitet haben, waren Linus Zeitlmayr: Knaurs Pilzbuch (1955) und Haas/Gossner: Pilze Mitteleuropas (1964). Sie enthielten gerade mal 80 Arten und der *"Speiteufel"* wurde als im Aussehen variable Art beschrieben, die in Laub- und Nadelwäldern wächst. Später wurde *Russula emetica* in mehrere Varietäten aufgespalten, um schließlich der heutigen Auffassung Platz zu machen, dass es sich um mindestens vier eigenständige Arten handelt. Der Kirschrote Speitäubling wird nun als Charakterart der kollinen, submontanen und montanen Weißtannen- und Fichtenwälder beschrieben, die feuchte bis moorige Böden und Standorte in Sphagnum-Moospolstern bevorzugt. 
+Meine beiden ersten Pilzbücher, die mich bei meinen frühen Exkursionen ins Reich der Pilze begleitet haben, waren *Linus Zeitlmayr: Knaurs Pilzbuch* (1955) und *Haas/Gossner: Pilze Mitteleuropas* (1964). Sie enthielten gerade mal 80 Arten und der *"Speiteufel"* wurde als im Aussehen variable Art beschrieben, die in Laub- und Nadelwäldern wächst. Später wurde *Russula emetica* in mehrere Varietäten aufgespalten, um schließlich der heutigen Auffassung Platz zu machen, dass es sich um mindestens vier eigenständige Arten handelt. Der Kirschrote Speitäubling wird nun als Charakterart der kollinen, submontanen und montanen Weißtannen- und Fichtenwälder beschrieben, die feuchte bis moorige Böden und Standorte in Sphagnum-Moospolstern bevorzugt. 
 
 **Vereinfachter Schlüssel zu den vier im Rhein-Main-Gebiet sicher nachgewiesenen Speitäublingen, die alle sehr scharf sind und weißes Sporenpulver haben:**
 
@@ -29,7 +29,7 @@ Bei Kiefern, auch unter Laubbäumen, auf trockenen, sandigen Böden, Huthaut dun
 
 Ausschließlich bei Birken, Huthaut meist lila oder rosalich getönt, oft stark aufhellend  =  [Russula betularum (Birken-Speitäubling)](/pilze/russula-betularum-birken-speitäubling) 
 
-Es existiert noch ein weiterer Speitäubling, Russula fragilis, der Wechselfarbige Speitäubling, der eine andere Huthautpigmentierung aufweist und nicht zu den Speitäublingen im engeren Sinne (Sektion Emeticinae) gehört.
+Es existiert noch ein weiterer Speitäubling, *[Russula fragilis](/pilze/russula-fragilis-wechselfarbiger-speitäubling)*, der Wechselfarbige Speitäubling, der eine andere Huthautpigmentierung aufweist und nicht zu den Speitäublingen im engeren Sinne (Sektion *Emeticinae*) gehört.
 
 <div class="table-responsive">
   <table class="table taeubling">
