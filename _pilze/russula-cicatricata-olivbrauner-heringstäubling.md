@@ -33,7 +33,7 @@ Belegmaterial wurde noch am Fundtag an *Reinhold Kärcher* weitergeleitet, der n
 {% include bild.html datei="/bilder/russula_cicatricata_05_rk.jpg" %}
 {% include abbildung_ende.html legende="Aquarelle von Reinhold Kärcher aus dem unten genannten Beitrag in der Zeitschrift für Mykologie" %}
 
-Russula cicatricata gehört zu den selteneren Täublingsarten, ist im Verbreitungsatlas von 1991 mit nur einem hessischen Fundpunkt von Reinhold Kärcher vertreten, der auch in der aktuellen [DGfM-Kartierung](http://hessen.pilze-deutschland.de/organismen/russula-cicatricata-romagn-ex-bon-1987) erscheint.
+Russula cicatricata gehört zu den selteneren Täublingsarten, ist im Verbreitungsatlas von 1991 mit nur einem hessischen Fundpunkt von Reinhold Kärcher vertreten, der auch in der aktuellen [DGfM-Kartierung](https://www.pilze-deutschland.de/organismen/russula-cicatricata-romagn-ex-bon-1987-1) erscheint.
 
 <div class="table-responsive">
   <table class="table taeubling">
@@ -51,8 +51,3 @@ Russula cicatricata gehört zu den selteneren Täublingsarten, ist im Verbreitun
     </tr>
   </table>
 </div>
-
-Text
-
-
-
