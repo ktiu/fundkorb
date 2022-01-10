@@ -48,7 +48,8 @@ Bisher 15 Schleimpilzarten aus 10 Gattungen (4 Familien) im Fundkorb. Weitere we
 [Physarum cinereum (Physaridae) - Grauer Gras-Schleimpilz](/pilze/physarum-cinereum-grauer-gras-schleimpilz)\
 [Physarum utriculare (Physaridae) - Fadenfrucht-Schleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
 [Reticularia lycoperdon (Enteridiaceae) - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
-[Stemonitis fusca (Stemonitidaceae) - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)\
+[Stemonitis fusca (Stemonitidaceae) - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen) 
+[Trichia favoginea - Gelber Schleimpilz](/pilze/trichia-favoginea-gelber-schleimpilz)
 [Tubulifera arachnoides (Enteridiaceae) - Lachsfarbener Schleimpilz](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
 
 Übrigens... auf Standorttreue kann man bei Schleimpilzen nicht zählen!
