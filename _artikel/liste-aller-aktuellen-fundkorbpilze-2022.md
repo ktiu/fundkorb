@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
+11.01.2022 Haareis - ein ganz spezielles Phänomen  
 10.01.2022 [Tremella mesenterica - Goldgelber Zitterling](/pilze/tremella-mesenterica-goldgelber-zitterling)  
 09.01.2022 [Stereum subtomentosum - Samtiger Schichtpilz](/pilze/stereum-subtomentosum-samtiger-schichtpilz)\
 08.01.2022 [Baeospora myosura - Mäuseschwanz-Rübling](/pilze/baeospora-myosura-mäuseschwanz-rübling)\
