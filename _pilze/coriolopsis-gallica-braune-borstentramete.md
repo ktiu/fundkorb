@@ -16,7 +16,7 @@ literatur:
   - text: "Werner Pohl: Apyllopower (Pilz Nr. 18)"
     url: http://aphyllopower.blogspot.com/2006/08/
 ---
-Der hier abgebildete Fruchtkörper stammt von einer Exkursion im Frankfurter Stadtwald nahe dem Maunzenweiher. Er wuchs [semipileat](semipileat "Glossar") (effus-reflex) an einem toten, noch berindeten Buchenstamm, an dem er die Unterseite auf einer Länge von ca. 50 cm [resupinat](resupinat "Glossar") überzog und an der Stammseite abstehende Hutkanten bildete. Die Braune Borstentramete gilt als wärmeliebende Art, die in Deutschland vor allem in Auwäldern zu finden ist. Lt. Breitenbach & Kränzlin bevorzugt sie Esche.
+Der hier abgebildete Fruchtkörper stammt von einer Exkursion im Frankfurter Stadtwald nahe dem Maunzenweiher. Er wuchs [semipileat](semipileat "Glossar") (effus-reflex) an einem toten, noch berindeten Buchenstamm, an dem er die Unterseite auf einer Länge von ca. 50 cm [resupinat](resupinat "Glossar") überzog und an der Stammseite abstehende Hutkanten bildete. Die Braune Borstentramete gilt als wärmeliebende Art, die in Deutschland vor allem in Auwäldern zu finden ist. Lt. *Breitenbach & Kränzlin* bevorzugt sie Esche.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/coriolopsis_gallica_01_dg.jpg" %}
