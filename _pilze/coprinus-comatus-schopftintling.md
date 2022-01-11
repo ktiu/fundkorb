@@ -13,10 +13,8 @@ hauptbild:
   datei: /bilder/coprinus_comatus_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Coprinus_comatus.html
-    text: Wald & Wiesen Pilze – Das Kochbuch (S. 68 – 75)
-  - url: http://tintling.com/pilzbuch/arten/c/Coprinus_comatus.html
 ---
-Der einzige Tintling, der uneingeschränkt als Speisepilz zu empfehlen ist. Er liebt stickstoffreiche Standorte wie gedüngte Wiesen, Felder, Gärten und ist auch häufig an ruderalen oder grasigen Waldwegrändern anzutreffen. Für die Küche ist die gut kenntliche und kaum verwechselbare Art nur im Jugendstadium geeignet, so lange die ei- bis walzenförmigen Hüte weiß und am unteren Rand noch durch den Stielring verschlossen sind. Pilze, deren Hüte und Lamellen sich bereits schwärzlich zu verfärben beginnen und alsbald zu schwarzer Tinte zerfließen, lässt man am besten stehen. Im Gegensatz zu vielen anderen Arten sind auch die hohlen Stiele verwendbar. Man kann sie wie Spargel zubereiten (weshalb die Art von manchen Pilzfreunden auch Spargelpilz genannt wird) oder als Einlage in Fleischbrühe oder Bouillon verwenden. 
+Der einzige Tintling, der uneingeschränkt als Speisepilz zu empfehlen ist. Er liebt stickstoffreiche Standorte wie gedüngte Wiesen, Felder, Gärten und ist auch häufig an ruderalen oder grasigen Waldwegrändern anzutreffen. Für die Küche ist die gut kenntliche und kaum verwechselbare Art nur im Jugendstadium geeignet, so lange die ei- bis walzenförmigen Hüte weiß und am unteren Rand noch durch den Stielring verschlossen sind. Pilze, deren Hüte und Lamellen sich bereits schwärzlich zu verfärben beginnen und alsbald zu schwarzer Tinte zerfließen, lässt man am besten stehen. Im Gegensatz zu vielen anderen Arten sind auch die hohlen Stiele verwendbar. Man kann sie wie Spargel zubereiten (weshalb die Art von manchen Pilzfreunden auch *Spargelpilz* genannt wird) oder als Einlage in Fleischbrühe oder Bouillon verwenden. 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/coprinus_comatus_02_dg.jpg" %}
