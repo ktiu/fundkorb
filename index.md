@@ -14,6 +14,14 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/haareis-01-bg.jpeg" %}
+{% include abbildung_ende.html %}
+
+11.01.2022: Den aktuellen [Fundkorbpilz](AA "Glossar-") kann ich leider nicht benennen, denn man weiß noch nicht so genau, welcher das hier gezeigte Phänomen verursacht. Es heißt *Haareis* und kann sich unter sehr speziellen Bedingungen an Totholz bilden. Bis 2008 war nicht einmal geklärt, wie es entsteht. Heute weiß man, dass [Pilzmyzelien](Myzel "Glossar") im Holz dafür verantwortlich sind. Die Lufttemperatur muss dabei knapp unter 0°C betragen, so dass Wasser im Holz noch nicht gefroren ist aber beim Austreten gefriert. Haareis ist ein sehr kurzfristiges Phänomen und es gehört viel Glück dazu, es zu erleben. (Dieter Gewalt)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tremella_mesenterica_03_nk.jpg" %}
 {% include abbildung_ende.html %}
