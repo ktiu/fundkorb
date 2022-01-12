@@ -42,7 +42,8 @@ Cortinarius delibutus - Blaublättriger Schleimfuß\
 Cortinarius hemitrichus - Weißflockigr Gürtelfuß\
 [Cortinarius impennis - Weißviolett-gestielter Gürtelfuß](/pilze/cortinarius-impennis-weißviolett-gestielter-gürtelfuß)\
 [Cortinarius mucosus - Heide-Schleimfuß](/pilze/cortinarius-mucosus-heide-schleimfuß)\
-Cortinarius paleaceus - Duftender Gürtelfuß  
-[Cortinarius purpureus - Purpurroter Hautkopf](/pilze/cortinarius-purpureus-purpurroter-hautkopf)  
+Cortinarius paleaceus - Duftender Gürtelfuß\
+[Cortinarius purpureus - Purpurroter Hautkopf](/pilze/cortinarius-purpureus-purpurroter-hautkopf)\
 Cortinarius semisanguineus - Blutblättriger Raukopf\
-Cortinarius torvus - Wohlriechender Gürtelfuß
+Cortinarius torvus - Wohlriechender Gürtelfuß  
+[Cortinarius violaceus - Violetter Schleierling](/pilze/cortinarius-violaceus-violetter-schleierling)
