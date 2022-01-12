@@ -31,6 +31,6 @@ Der Purpurrote Hautkopf (auch Rotbeschleierter oder Purpurbrauner Hautkopf genan
 
 Der Purpurrote Hautkopf ist offenbar eine recht seltene Art, die in Laub- und Nadelwäldern auf neutralen bis schwach sauren Sand- und Lehmböden vorkommt. In den meisten Bundesländern wird er in Roten Listen als stark gefährdete Art (G2) gelistet.  Die übliche Erscheinungszeit ist von August bis Oktober. 
 
-Hautköpfe (Dermocybe) und Rauköpfe (Leprocybe) lassen sich durch einen Alkoholtest leicht und sicher unterscheiden. Die Farbstoffe der Hautköpfe lösen sich und lassen sich mit einem Papiertaschentuch sichtbar machen, die der Rauköpfe dagegen nicht. Sie können auch zum Färben von Wolle verwendet werden.
+Hautköpfe (*Dermocybe*) und Rauköpfe (*Leprocybe*) lassen sich durch einen Alkoholtest leicht und sicher unterscheiden. Die Farbstoffe der Hautköpfe lösen sich und lassen sich mit einem Papiertaschentuch sichtbar machen, die der Rauköpfe dagegen nicht. Sie können auch zum Färben von Wolle verwendet werden.
 
 Hautköpfe sind magen-/darmgiftig bzw. giftverdächtig, also auf gar keinen Fall für die Küche geeignet.
