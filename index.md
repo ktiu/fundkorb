@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lophodermium_-pinastri_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.01.2022:  Wenn man sonst nichts findet und gerade ein paar Kiefernnadeln auf dem Waldboden herumliegen, könnten sie das passende Substrat für einen aktuellen [Fundkorbpilz](AA "Glossar-") sein. Da habe ich selbst in unserer Parkanlage nicht lange suchen müssen, um die Kiefernnadel-Spaltlippe *Lophodermium pinastri* zu finden. Um mehr als nur länglich- ovale dunkle Flecken zwischen dünnen Trennlinien zu erkennen, muss man schon mit der Lupe schauen. Dann erkennt man, wenn die winzigen Fruchtkörperchen denn geöffnet sind, die typische Lippenform. Sind keine Trennlinien vorhanden, könnte es sich auch um die *Kiefernschütte-Spaltlippe* handeln. Die entsteht hoch oben in den Baumkronen und ist nicht so harmlos wie die mit den Querstrichen, die auf am Boden liegenden Nadeln erscheint. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)
+
+<div style="clear:  both"> </div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/haareis-01-bg.jpeg" %}
 {% include abbildung_ende.html %}
