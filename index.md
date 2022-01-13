@@ -20,7 +20,7 @@ footer_scripts:
 
 13.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weiße Anistrichterling *Clitocybe fragrans*, der sich gerade wieder in einem moosigen Fichtenbestand gezeigt hat. Offensichtlich ist er widerstandsfähiger als die umgebenden Bäume, die einen todkranken Eindruck machen. Es handelt sich um einen recht kleinen Pilz, der so gar nicht wie ein richtiger Trichterling aussieht. Von seinem Aussehen her ist er auf Anhieb auch kaum richtig einzuordnen. Erst wenn man ihn unter die Nase hält, beginnt sich der Fall zu klären. Es gibt nur wenige Pilzarten, die so angenehm und deutlich nach Anis riechen und alle anderen unterscheiden sich in Form und Größe deutlich vom Weißen Anistrichterling, der nicht unbedingt rein weiß sein muss. Für die Küche kommt er nicht in Frage. Er ist giftig. (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/clitocybe-acicola-ockerbrauner-anistrichterling)
+[Mehr lesen >](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)
 
 <div style="clear:  both"></div>
 
