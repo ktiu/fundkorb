@@ -4,7 +4,7 @@ published: true
 ---
 13.01.2022 [Clitocybe fragrans - Weißer Anistrichterling](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)  
 12.01.2022 [Lophodermium pinastri - Kiefernnadel-Spaltlippe](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)\
-11.01.2022 [Haareis](/pilze/haareis)\
+11.01.2022 [Haareis](/artikel/haareis)\
 10.01.2022 [Tremella mesenterica - Goldgelber Zitterling](/pilze/tremella-mesenterica-goldgelber-zitterling)\
 09.01.2022 [Stereum subtomentosum - Samtiger Schichtpilz](/pilze/stereum-subtomentosum-samtiger-schichtpilz)\
 08.01.2022 [Baeospora myosura - Mäuseschwanz-Rübling](/pilze/baeospora-myosura-mäuseschwanz-rübling)\
