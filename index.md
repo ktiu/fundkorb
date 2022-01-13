@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitocybe_fragrans_02_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+13.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weiße Anistrichterling *Clitocybe fragrans*, der sich gerade wieder in einem moosigen Fichtenbestand gezeigt hat. Offensichtlich ist er widerstandsfähiger als die umgebenden Bäume, die einen todkranken Eindruck machen. Es handelt sich um einen recht kleinen Pilz, der so gar nicht wie ein richtiger Trichterling aussieht. Von seinem Aussehen her ist er auf Anhieb auch kaum richtig einzuordnen. Erst wenn man ihn unter die Nase hält, beginnt sich der Fall zu klären. Es gibt nur wenige Pilzarten, die so angenehm und deutlich nach Anis riechen und alle anderen unterscheiden sich in Form und Größe deutlich vom Weißen Anistrichterling, der nicht unbedingt rein weiß sein muss. Für die Küche kommt er nicht in Frage. Er ist giftig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/clitocybe-acicola-ockerbrauner-anistrichterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lophodermium_-pinastri_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,42 +43,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 11.01.2022: Den aktuellen [Fundkorbpilz](AA "Glossar-") kann ich leider nicht benennen, denn man weiß noch nicht so genau, welcher für das hier gezeigte Phänomen verantwortlich ist. Es heißt *Haareis* und kann sich unter sehr speziellen Bedingungen an Totholz bilden. Bis 2008 war nicht einmal geklärt, wie es entsteht. Heute weiß man, dass [Pilzmyzelien](Myzel "Glossar") im Holz dafür verantwortlich sind. Die Lufttemperatur muss dabei knapp unter 0°C betragen, so dass Wasser im Holz noch nicht gefroren ist aber beim Austreten gefriert. Haareis ist ein sehr kurzfristiges Phänomen und es gehört viel Glück dazu, es zu erleben. (Dieter Gewalt)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tremella_mesenterica_03_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-10.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldgelbe Zittterling *Tremella mesenterica*. Man erkennt ihn schon aus 10 oder 20 Meter Entfernung, und das ist bei Pilzen alles andere als der Normalfall. Sein leuchtendes Gelb macht ihn unverwechselbar. Er wächst an toten Laubholzästen, auch an noch stehenden Stämmen, gern an Eiche, Buche, Esche oder Hasel. Sein Aussehen lässt schon seine glibberige Konsistenz erahnen. Die kann im Winter gefroren sein und eine feine Reifschicht kann den Pilz noch attraktiver machen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tremella-mesenterica-goldgelber-zitterling)
-
-<div style="clear:  both"> </div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_subtomentosum_02_dg.jpg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 09.01.2022 ist der Samtige Schichtpilz *Stereum subtomentosum*. Er ist in der Lage, Totholz in attraktive Kunstwerke zu verwandeln. Seine dicht und üppig über-, neben- und miteinander verknäuelten stiellosen Hüte sind dünn und elastisch und von beeindruckender Schönheit. Im Rahmen der natürlichen Variabilität können auch rote Farben hinzukommen und sogar dominieren. Das Problem für alle, die ihre Funde genau bestimmen wollen: der Samtige ist vom Braunsamtigen Schichtpilz Stereum insignitum optisch kaum zu unterscheiden. Da kommt es auf sogenannte [Zystiden](Zystiden "Glossar") an, die nur mikroskopisch zu beurteilen sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/stereum-subtomentosum-samtiger-schichtpilz)
-
-<div style="clear:  both"> </div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/baeospora_myosura_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mäuseschwanz-Rübling *Baeospora myosura*, eine häufige Art, die auch in den Wintermonaten zu finden ist. Die kleinen dünnstieligen Blätterpilzchen wachsen gesellig auf Koniferenzapfen. Vor allem auf den längeren Fichtenzapfen können es locker mehr als ein Dutzend sein. Sie haben sehr viele sehr dicht stehende schmale Lamellen. Die Stiele sind matt und vor allem jung mehlig bereift. Meist sieht man zwischen den ausgewachsenen Exemplaren winzig kleine Nachkömmlinge. Verwechslungen wären möglich mit den Zapfenrüblingen der Gattung *Strobilurus*, die ich noch nie so zahlreich auf einem Zapfen gesehen habe wie die Mäuseschwänzchen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/baeospora-myosura-mäuseschwanz-rübling)
-
-<div style="clear:  both"></div>
 
 - - -
 
