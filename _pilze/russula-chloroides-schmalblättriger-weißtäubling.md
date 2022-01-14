@@ -44,6 +44,28 @@ Ab und zu besitzt ein Exemplar eine bläulichgrün getönte Stielspitze, mitunte
 {% include bild.html datei="/bilder/russula_chloroides_06_bm.jpg" %}
 {% include abbildung_ende.html %}
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>mild, Lamellen scharf</td>
+      <td>weiß</td>
+      <td>nur wenig</td>
+      <td>orangerosa</td>
+       
+    </tr>
+  </table>
+</div>
+
 Das Sporenpulver ist weißlich, etwa Ib nach der Farbtabelle in MARXMÜLLER (2014). Zu guter Letzt ist es wichtig, sich die Sporen unter dem Mikroskop anzusehen und die Höhe der Ornamente zu bestimmen.
 
 {% include abbildung_start.html stil="mittel" %}
