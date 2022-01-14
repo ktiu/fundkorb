@@ -40,13 +40,13 @@ Der Sonnentäubling gehört zu den kleineren Arten, die kaum mehr als 5 cm Hutdu
   </table>
 </div>
 
-Zu den mikroskopischen Merkmalen gehören elliptische bis rundlich, isoliert spitzwarzige Sporen mit den Maßen 6,5 - 9 x 5 - 8 µm.
+Zu den mikroskopischen Merkmalen gehören elliptische bis rundliche, isoliert spitzwarzige Sporen mit den Maßen 6,5 - 9 x 5 - 8 µm.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_solaris_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-**Ähnliche Arten:**  
-Gelber Haseltäubling Russula acetolens: Geschmack mild  
-Blassgelber Täubling Russula raoultii: Sporenpulver rein weiß, Sporen warzig netzig  
+**Ähnliche Arten:**\
+Gelber Haseltäubling Russula acetolens: Geschmack mild\
+Blassgelber Täubling Russula raoultii: Sporenpulver rein weiß, Sporen warzig netzig\
 Scharfer Gelbtäubling Russula dissidens: Sporenpulver weiß
