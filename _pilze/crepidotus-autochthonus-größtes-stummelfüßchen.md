@@ -6,7 +6,7 @@ beschreibung:
   erlaeuterung: autochthonus = eingeboren, heimisch
   familie: Crepidotaceae
 profil:
-  aktualisiert: 2021-06-11
+  aktualisiert: 2022-01-15
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
