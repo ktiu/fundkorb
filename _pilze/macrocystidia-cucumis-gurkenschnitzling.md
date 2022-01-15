@@ -12,6 +12,8 @@ hauptbild:
   anzeige: true
   datei: /bilder/macrocystidia_cucumis_01_tl.jpg
   legende: "Foto: Thomas Lehr"
+literatur:
+  - url: http://tintling.com/pilzbuch/arten/m/Macrocystidia_cucumis.html
 ---
 Beim Bestimmen von Pilzen kommt dem Geruch eine wichtige Rolle zu. Ein sehr häufiger ist der Mehlgeruch, der auch an den von Gurken erinnert. Er kommt bei Ritterlingen, Trichterlingen, Rötlingen, Helmlingen, Häublingen u. a. vor.  Am bekanntesten ist er wohl beim [Maipilz](/pilze/calocybe-gambosa-maipilz) und beim [Mehlräsling](/pilze/clitopilus-prunulus-mehlräsling),  bei denen man fast schon von ranzigem Mehl sprechen muss. Tendiert der Duft sehr eindeutig in Richtung Gurken und hat man einen nicht sehr großen braunhütigen Blätterpilz mit weißen, später hellbraunen Lamellen und einem steifen, fein bereiften braunen Stiel gefunden, dürfte es der Gurkenschnitzling sein. Mit anderen Pilzen, die *"Schnitzling"* im Namen tragen, ist er nicht verwandt oder verschwägert.
 
