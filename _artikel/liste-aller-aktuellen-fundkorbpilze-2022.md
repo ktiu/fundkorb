@@ -2,8 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-15.01.2022 [Peniophora cinerea - Aschgrauer Zystidenrindenpilz] 
-(/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)  
+15.01.2022 [Peniophora cinerea - Aschgrauer Zystidenrindenpilz](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)  
 14.01.2022 [Auricularia auricula-judae - Judasohr](/pilze/auricularia-auricula-judae-judasohr)\
 13.01.2022 [Clitocybe fragrans - Weißer Anistrichterling](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)\
 12.01.2022 [Lophodermium pinastri - Kiefernnadel-Spaltlippe](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)\
