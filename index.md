@@ -14,6 +14,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/peniophora_cinerea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Aschgraue Zystidenrindenpilz *Peniophora cinerea*. Selbst wenn bei Pilzen Wachstumsflaute herrscht - an Totholz findet man immer was. Zystidenrindenpilze entwickeln sich unter der Rinde von abgestorbenen Ästen und sprengen diese auf, oft schon, solange diese noch am Baum hängen. Sie bilden flache Überzüge, die glatt oder warzig sein können. Den Aschgraue Zystidenrindenpilz findet man an Ästen verschiedener Laubbaumarten, vor allem an Buche, Hainbuche, Hasel und Weide. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/auricularia_auricula-judae_02_dg.jpg" %}
 {% include abbildung_ende.html %}
