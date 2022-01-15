@@ -22,7 +22,7 @@ Die Herbst- oder Totentrompete ist die Typusart der Gattung *Craterellus* (deuts
 
 Herbsttrompeten können gut 10 cm hoch werden und am oberen Trichterrand einen Durchmesser von 8 cm erreichen. Die Außenseite (die Bezeichnung *Stiel* möchte ich hier nicht verwenden) ist glatt bis runzelig und hellgrau, zur Basis hin dunkler. Da der Pilz kalkhaltige Böden benötigt, ist er leider nicht überall zu finden, aber auch in bodensauren Regionen hat er seine ökologischen Nischen. Geschotterte Waldwege zum Beispiel können an ihren Rändern den erforderlichen Kalkeintrag aufweisen und isolierte Kalkinseln kann es überall geben. 
 
-Verwechselt werden könnte er eventuell mit dem Grauen Leistling Craterellus cinereus, der an gleichen Standorten und mitunter sogar zusammen mit Herbsttrompeten vorkommen kann, jedoch an der Außenseite vielfach gegabelte hellgraue Leisten hat.
+Verwechselt werden könnte er eventuell mit dem [Grauen Leistling Craterellus cinereus](/pilze/craterellus-cinereus-grauer-leistling), der an gleichen Standorten und mitunter sogar zusammen mit Herbsttrompeten vorkommen kann, jedoch an der Außenseite vielfach gegabelte hellgraue Leisten hat.
 
 Herbsttrompeten sind nicht nur ausgezeichnete aromatische Speisepilze sondern auch bestens zum Trocknen oder Einfrieren geeignet. Mit ihnen lassen sich auch etwas fade Pilzgerichte geschmacklich aufwerten, wozu schon wenige, dann aber klein geschnittene Exemplare genügen.
 
