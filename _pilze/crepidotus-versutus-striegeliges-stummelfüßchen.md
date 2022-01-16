@@ -23,4 +23,4 @@ Die weißen, alt schmutzig cremefarbenen, filzigen Hüte erreichen Durchmesser v
 {% include bild.html datei="/bilder/crepidotus_versutus_02_fk.jpeg" %}
 {% include abbildung_ende.html legende="Cheilozystiden (Foto: Frank Kaster)" %}
 
-Eine sichere Bestimmung ist nur mikroskopisch möglich. Die [Hyphen](Hyphen "Glossar") sind schnallenlos, die Sporen ellipsoid bis mandelförmig und punktiert, die [Cheilozystiden](Cheilozystiden "Glossar") schlank und meist mehr oder weniger verbogen. Der oben abgebildete Fund wurde mit dem Schlüssel nach Senn-Irlet (1995) bestimmt.
+Eine sichere Bestimmung ist nur mikroskopisch möglich. Die [Hyphen](Hyphen "Glossar") sind schnallenlos, die Sporen ellipsoid bis mandelförmig und punktiert, die [Cheilozystiden](Cheilozystiden "Glossar") schlank und meist mehr oder weniger verbogen. Der oben abgebildete Fund wurde mit dem Schlüssel nach *Senn-Irlet (1995)* bestimmt.
