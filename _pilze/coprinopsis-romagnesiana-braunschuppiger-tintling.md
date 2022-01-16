@@ -16,7 +16,7 @@ hauptbild:
 ---
 Den Braunschuppigen Tintling könnte man als Doppelgänger des allseits bekannten und überall häufigen [Faltentintlings](/pilze/coprinopsis-atramentaria-faltentintling) bezeichnen. Im Gegensatz zu diesem ist er nur wenigen Pilzfreunden bekannt und Literaturangaben zufolge sehr selten. In Habitus und Erscheinungsbild sieht er in der Tat dem Faltentintling täuschend ähnlich. Seine wichtigsten Unterscheidungsmerkmale sind seine bräunlichen Hutfarben und die Schüppchen vor allem auf der Hutmitte.
 
-Ich kenne ihn bisher lediglich von einer einzigen Fundstelle im Stadtgebiet von Frankfurt am Main und konnte ihn dank Karin Montag sofort zuordnen. Sie hatte ihn kurz zuvor in der ersten Ausgabe ihrer Pilzzeitschrift "Der Tintling" in Wort und Bild vorgestellt. Zu Standort und Ökologie stellte sie damals fest: 
+Ich kenne ihn bisher lediglich von einer einzigen Fundstelle im Stadtgebiet von Frankfurt am Main und konnte ihn dank *Karin Montag* sofort zuordnen. Sie hatte ihn kurz zuvor in der ersten Ausgabe ihrer Pilzzeitschrift *"Der Tintling"* in Wort und Bild vorgestellt. Zu Standort und Ökologie stellte sie damals fest: 
 
 > Der Pilz wuchs in der Ortsmitte auf einem vollsonnigen Parkplatz im Hochsommer nach einer Regenperiode in mäßig verkrauteter Roter Erde in unmittelbarer  Nähe einer Laterne. Bei der Laterne handelt es sich um das zentrale öffentliche Hunde-WC."
 
