@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laccaria_laccata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 16.01.2022 ist einer, den man im Januar eigentlich nicht erwartet: *Laccaria laccata*, der Rötliche Lacktrichterling. Es war zwar nur einer, aber der war überdurchschnittlich groß. Unter Pilzfreunden ist sein wissenschaftlicher Name unter der Abkürzung "Lac lac" bekannt. Manche nennen ihn auch L² (sprich: L-Quadrat). Essbar ist er auch, und gar nicht mal so übel. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/laccaria-laccata-rötlicher-lacktrichterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/peniophora_cinerea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -31,30 +43,6 @@ footer_scripts:
 14.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der das ganze Jahr über und nicht nur an Holunder wächst. In unserer Dietzenbacher Parkanlage haben wir **Judasohren** zur Zeit bis zu drei Meter hoch an einer Linde und einen halben Meter über dem Boden an Berberitzen gesehen. Es gibt kaum eine Laubbaumart, die er verschmäht. An liegenden Buchenstämmen sind die Fruchtkörper besonders groß. An den dünnen Berberitzenstämmchen dagegen  fast schon winzig. Besonders häufig findet man sie auf Speisekarten in China-Restaurants. Da werden sie China-Morcheln genannt, obwohl sie mit Morcheln so wenig verwandt sind wie ein Sperling mit einer Klapperschlange. In China heißen sie *Mu-err*, was wörtlich übersetzt *Baumohr* bedeutet. Wer mehr über diese Ohren erfahren möchte: [hier geht's zum Porträt >](/pilze/auricularia-auricula-judae-judasohr)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_fragrans_02_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-13.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weiße Anistrichterling *Clitocybe fragrans*, der sich gerade wieder in einem moosigen Fichtenbestand gezeigt hat. Offensichtlich ist er widerstandsfähiger als die umgebenden Bäume, die einen todkranken Eindruck machen. Es handelt sich um einen recht kleinen Pilz, der so gar nicht wie ein richtiger Trichterling aussieht. Von seinem Aussehen her ist er auf Anhieb auch kaum richtig einzuordnen. Erst wenn man ihn unter die Nase hält, beginnt sich der Fall zu klären. Es gibt nur wenige Pilzarten, die so angenehm und deutlich nach Anis riechen und alle anderen unterscheiden sich in Form und Größe deutlich vom Weißen Anistrichterling, der nicht unbedingt rein weiß sein muss. Für die Küche kommt er nicht in Frage. Er ist giftig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lophodermium_-pinastri_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.01.2022:  Wenn man sonst nichts findet und gerade ein paar Kiefernnadeln auf dem Waldboden herumliegen, könnten sie das passende Substrat für einen aktuellen [Fundkorbpilz](AA "Glossar-") sein. Da habe ich selbst in unserer Parkanlage nicht lange suchen müssen, um die Kiefernnadel-Spaltlippe *Lophodermium pinastri* zu finden. Um mehr als nur länglich- ovale dunkle Flecken zwischen dünnen Trennlinien zu erkennen, muss man schon mit der Lupe schauen. Dann erkennt man, wenn die winzigen Fruchtkörperchen denn geöffnet sind, die typische Lippenform. Sind keine Trennlinien vorhanden, könnte es sich auch um die *Kiefernschütte-Spaltlippe* handeln. Die entsteht hoch oben in den Baumkronen und ist nicht so harmlos wie die mit den Querstrichen, die auf am Boden liegenden Nadeln erscheint. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)
-
-<div style="clear:  both"> </div>
 
 - - -
 
