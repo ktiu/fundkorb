@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/p/Piptoporus_betulinus.html
 ---
-Es gibt nur wenige holzbewohnende Pilze, denen man eine bedingungslose Wirtstreue attestieren kann. Der Birkenporling ist einer von ihnen. Im Gegensatz zu den ebenfalls an Birkenstämmen vorkommenden Zunder- und Rotrandigen Baumschwämmen (*Fomes fomentarius, Fomitopsis pinicola*) ist unser Pilz einjährig und die Konsistenz seiner Fruchtkörper sehr viel weicher. Die Poren auf der Hutunterseite sind so klein, dass sie mit bloßem Auge nicht zu erkennen sind. Seine heilsame Wirkung bei Magen-Darm-Beschwerden ist zwar wissenschaftlich noch nicht erwiesen, aber es gibt eine Vielzahl glaubhafter Berichte von Probanten, die ihn erfolgreich angewandt haben.
+Es gibt nur wenige holzbewohnende Pilze, denen man eine bedingungslose Wirtstreue attestieren kann. Der Birkenporling ist einer von ihnen. Im Gegensatz zu den ebenfalls an Birkenstämmen vorkommenden Zunder- und Rotrandigen Baumschwämmen (*[Fomes fomentarius](/pilze/fomes-fomentarius-zunderschwamm), [Fomitopsis pinicola](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)*) ist unser Pilz einjährig und die Konsistenz seiner Fruchtkörper sehr viel weicher. Die Poren auf der Hutunterseite sind so klein, dass sie mit bloßem Auge nicht zu erkennen sind. Seine heilsame Wirkung bei Magen-Darm-Beschwerden ist zwar wissenschaftlich noch nicht erwiesen, aber es gibt eine Vielzahl glaubhafter Berichte von Probanten, die ihn erfolgreich angewandt haben.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/piptoporus_betulinus_02_dg.jpg" %}
