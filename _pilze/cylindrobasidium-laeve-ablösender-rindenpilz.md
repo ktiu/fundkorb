@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/claeve.php
 ---
-Dies ist wahrscheinlich der häufigste Rindenpilz Deutschlands. Wo in [Verbreitungskarten](http://www.pilze-deutschland.de/organismen/cylindrobasidium-laeve-pers-chamuris-1984-1) Lücken zu sehen sind, hat man vermutlich nicht alle Funde gemeldet oder es mangelt an Kartierern, die sich mit so "unattraktiven" und zudem noch schwer bestimmbaren Arten befassen.
+Dies ist wahrscheinlich der häufigste Rindenpilz Deutschlands. Wo in [Verbreitungskarten](https://www.pilze-deutschland.de/organismen/cylindrobasidium-laeve-pers-chamuris-1984) Lücken zu sehen sind, hat man vermutlich nicht alle Funde gemeldet oder es mangelt an Kartierern, die sich mit so "unattraktiven" und zudem noch schwer bestimmbaren Arten befassen.
 
 So "unattraktiv" ist der Ablösende Rindenpilz meines Erachtens nicht und anhand charakteristischer Merkmale auch leicht bestimmbar. *Breitenbach & Kränzlin (Pilze der Schweiz Band 2, Nr. 92)* haben es so formuliert:
 
@@ -27,4 +27,4 @@ Der Pilz gehört zu den Weißfäule erzeugenden Erstbesiedlern von Totholz in de
 
 Typische Mikromerkmale sind die tropfen- oder birnenförmigen Sporen und die mit Öltröpfchen gefüllten Hyphen.
 
-Zur Gattung *Cylindrobasidium* gehören weltweit nur zwei Arten, von denen in Europa nur eine heimisch ist. Der Ablösende Rindenpilz wurde früher auch schon so unterschiedlichen Gattungen wie Corticium, Peniophora, Thelephora und Terana zugeordnet.
+Zur Gattung *Cylindrobasidium* gehören weltweit nur zwei Arten, von denen in Europa nur eine heimisch ist. Der Ablösende Rindenpilz wurde früher auch schon so unterschiedlichen Gattungen wie *Corticium*, *Peniophora*, *Thelephora* und *Terana* zugeordnet.
