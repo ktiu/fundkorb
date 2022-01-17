@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-17.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelrasling *Lyophyllum decastes*. Zugegeben: die auf einer Rasenfläche in unserer Parkanlage gefundenen Pilze waren nicht mehr taufrisch und sahen schon sehr mitgenommen aus. Für die Küche also nicht mehr geeignet. Schade. Ein paar Tage zuvor hätten sie noch ein leckeres Gericht abgegeben. Diesen büschelig wachsenden und daher auch ergiebigen Pilz kann man nur empfehlen. Kaum jemand kennt ihn und daher hat man kaum sammelnde Konkurrenz zu befürchten. Selbst in Großstädten wie Frankfurt ist er auf in Parkanlagen keine Seltenheit. Das Foto zeigt übrigens ein optimal entwickeltes Büschel, das ich vor ein paar Jahren fotografiert habe. Da läuft mir jetzt noch das Wasser im Mund zusammen, wenn ich es betrachte. (Dieter Gewalt)
+17.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelrasling *Lyophyllum decastes*. Zugegeben: die auf einer Rasenfläche in unserer Parkanlage gefundenen Pilze waren nicht mehr taufrisch und sahen schon sehr mitgenommen aus. Für die Küche also nicht mehr geeignet. Schade. Ein paar Tage zuvor hätten sie noch ein leckeres Gericht abgegeben. Diesen büschelig wachsenden und daher auch ergiebigen Pilz kann man nur empfehlen. Kaum jemand kennt ihn und daher hat man kaum sammelnde Konkurrenz zu befürchten. Selbst in Großstädten wie Frankfurt ist er in Parkanlagen keine Seltenheit. Das Foto zeigt übrigens ein optimal entwickeltes Büschel, das ich vor ein paar Jahren fotografiert habe. Da läuft mir jetzt noch das Wasser im Mund zusammen, wenn ich es betrachte. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
 
