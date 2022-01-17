@@ -12,13 +12,13 @@ hauptbild:
   anzeige: true
   datei: /bilder/cyathus_striatus_01_dg.jpg
 ---
-Man hat noch keine brütenden Vögel auf ihnen sitzen gesehen, aber es gibt sie wirklich, diese Vogelnestpilze. Während sie im angelsächsischen Sprachraum den schönen und ihr Aussehen bildhaft beschreibenden Namen „Bird´s Nest Fungi“ tragen, werden bei uns zumindest die häufigeren Arten Teuerlinge genannt. Die etwas unverständlich erscheinende Bezeichnung stammt aus dem Mittelalter, als man anhand der Anzahl in ihnen liegender münzenähnlicher Peridiolen glaubte, auf Teuerungszeiten schließen zu können. Waren es wenige, standen schwere Zeiten bevor. Immerhin heißt auch bei uns die Gattung Nidularia „Nestlinge“.
+Man hat noch keine brütenden Vögel auf ihnen sitzen gesehen, aber es gibt sie wirklich, diese *Vogelnestpilze*. Während sie im angelsächsischen Sprachraum den schönen und ihr Aussehen bildhaft beschreibenden Namen *„Bird´s Nest Fungi“* tragen, werden bei uns zumindest die häufigeren Arten *Teuerlinge* genannt. Die etwas unverständlich erscheinende Bezeichnung stammt aus dem Mittelalter, als man anhand der Anzahl in ihnen liegender münzenähnlicher [Peridiolen](Peridiole "Glossar") glaubte, auf Teuerungszeiten schließen zu können. Waren es wenige, standen schwere Zeiten bevor. Immerhin heißt auch bei uns die Gattung *Nidularia* „Nestlinge“.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cyathus_striatus_07_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Foto: Frank Kaster" %}
 
-Die weitaus häufigste Art dieser Gruppe ist der Gestreifte Teuerling. Seine tütenförmigen Fruchtkörper erreichen Durchmesser von etwa einem Zentimeter und werden bis zu 1,5 cm hoch. Obwohl sie oft in Massen auftreten, in keinem Wald fehlen und auch außerhalb z. B. in Parkanlagen zu finden sind, bleiben sie von den meisten Spaziergängern unentdeckt. Macht man auf sie aufmerksam und erklärt, dass es sich um Pilze handelt, erregt man meist ungläubiges Staunen. Sie sind ein schönes Beispiel für die enorme Formenvielfalt im Reich der Pilze, von der die meisten Menschen keine Vorstellung haben.
+Die weitaus häufigste Art dieser Gruppe ist der *Gestreifte Teuerling*. Seine tütenförmigen Fruchtkörper erreichen Durchmesser von etwa einem Zentimeter und werden bis zu 1,5 cm hoch. Obwohl sie oft in Massen auftreten, in keinem Wald fehlen und auch außerhalb z. B. in Parkanlagen zu finden sind, bleiben sie von den meisten Spaziergängern unentdeckt. Macht man auf sie aufmerksam und erklärt, dass es sich um Pilze handelt, erregt man meist ungläubiges Staunen. Sie sind ein schönes Beispiel für die enorme Formenvielfalt im Reich der Pilze, von der die meisten Menschen keine Vorstellung haben.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cyathus_striatus_02_dg.jpg" %}
@@ -31,7 +31,7 @@ Die Gestreiften Teuerlinge beginnen ihren Lebenszyklus als rundum struppig bekle
 {% include bild.html datei="/bilder/cyathus_striatus_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Die einzelnen Fruchtkörper haben sich inzwischen zu tütenförmigen Behältern entwickelt, auf deren Boden sich bis zu 15 etwa 1 bis 2 mm große linsen- oder münzenförmige [Peridiolen](Peridiole "Glossar") befinden, in denen die Sporen heranreifen. Jede dieser Peridiolen bleibt zunächst mit einer Art Nabelschnur mit dem Grund der Tütchen verbunden. Bei Reife werden sie durch auftreffende Regentropfen hinauskatapultiert, wobei sie Entfernungen von bis zu 50 cm überwinden können. Da sie eine klebrige Oberfläche besitzen, können sie an in der Nähe stehenden Pflanzen haften bleiben und haben so eine passende Höhe, um die austretenden Sporen vom Wind weiter transporteren zu lassen. Da die Sporen im Inneren („im Bauch“) der Peridiolen gebildet werden, zählen die Teuerlinge zu den Bauchpilzen.
+Die einzelnen Fruchtkörper haben sich inzwischen zu tütenförmigen Behältern entwickelt, auf deren Boden sich bis zu 15 etwa 1 bis 2 mm große linsen- oder münzenförmige [Peridiolen](Peridiole "Glossar") befinden, in denen die Sporen heranreifen. Jede dieser Peridiolen bleibt zunächst mit einer Art Nabelschnur mit dem Grund der Tütchen verbunden. Bei Reife werden sie durch auftreffende Regentropfen hinauskatapultiert, wobei sie Entfernungen von bis zu 50 cm überwinden können. Da sie eine klebrige Oberfläche besitzen, können sie an in der Nähe stehenden Pflanzen haften bleiben und haben so eine passende Höhe, um die austretenden Sporen vom Wind weiter transporteren zu lassen. Auch Tiere könnten die Pflanzen fressen und auf dem Weg über ihre Verdauung für Verbreitung sorgen. Da die Sporen im Inneren („im Bauch“) der Peridiolen gebildet werden, zählen die Teuerlinge zu den *Bauchpilzen*.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/cyathus_striatus_04_dg.jpg" %}
