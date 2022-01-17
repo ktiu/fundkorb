@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelrasling *Lyophyllum decastes*. Zugegeben: die auf einer Rasenfläche in unserer Parkanlage gefundenen Pilze waren nicht mehr taufrisch und sahen schon sehr mitgenommen aus. Für die Küche also nicht mehr geeignet. Schade. Ein paar Tage zuvor hätten sie noch ein leckeres Gericht abgegeben. Diesen büschelig wachsenden und daher auch ergiebigen Pilz kann man nur empfehlen. Kaum jemand kennt ihn und daher hat man kaum sammelnde Konkurrenz zu befürchten. Selbst in Großstädten wie Frankfurt ist er auf in Parkanlagen keine Seltenheit. Das Foto zeigt übrigens ein optimal entwickeltes Büschel, das ich vor ein paar Jahren fotografiert habe. Da läuft mir jetzt noch das Wasser im Mund zusammen, wenn ich es betrachte. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/laccaria_laccata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -23,16 +35,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 16.01.2022 ist einer, den man im Janu
 [Mehr lesen >](/pilze/laccaria-laccata-rötlicher-lacktrichterling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/peniophora_cinerea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Aschgraue Zystidenrindenpilz *Peniophora cinerea*. Selbst wenn bei Pilzen Wachstumsflaute herrscht - an Totholz findet man immer was. Zystidenrindenpilze entwickeln sich unter der Rinde von abgestorbenen Ästen und sprengen diese auf, oft schon, solange diese noch am Baum hängen. Sie bilden flache Überzüge, die glatt oder warzig sein können. Den Aschgraue Zystidenrindenpilz findet man an Ästen verschiedener Laubbaumarten, vor allem an Buche, Hainbuche, Hasel und Weide. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
 
 - - -
 
