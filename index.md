@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/crepidotus_cesatii_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Kugelsporige Stummelfüßchen *Crepidotus cesatii*, gefunden an einem dünnen Laubholzästchen. Da die kleinen hübschen Pilzchen mit dem Hutscheitel am Substrat angewachsen sind, benötigen sie keine Stiele. Evolutionär bedingt ist manchmal noch ein stummeliger Rest davon zu erkennen, etwa so, wie manche Tiere am derzeitigen Ende ihrer Entwicklungsgeschichte noch ein kleines Stummelschwänzchen haben. Die kleinen Blätterpilzchen der Gattung *Crepidotus* werden auch Krüppelfüßchen genannt. Am häufigsten ist wohl die hier vorgestellte Art. Sie ist von einigen nahe verwandten optisch kaum zu unterscheiden. Um sicher zu gehen, ist ein wenig Mikroskopieraufwand erforderlich. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -48,21 +60,21 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 16.01.2022 ist einer, den man im Janu
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/haareis-01-bg.jpeg" %}
-{% include abbildung_ende.html %}
-
-11.01.2022: Den aktuellen [Fundkorbpilz](AA "Glossar-") kann ich leider nicht benennen, denn man weiß noch nicht so genau, welcher für das hier gezeigte Phänomen verantwortlich ist. Es heißt *Haareis* und kann sich unter sehr speziellen Bedingungen an Totholz bilden. Bis 2008 war nicht einmal geklärt, wie es entsteht. Heute weiß man, dass [Pilzmyzelien](Myzel "Glossar") im Holz dafür verantwortlich sind. Die Lufttemperatur muss dabei knapp unter 0°C betragen, so dass Wasser im Holz noch nicht gefroren ist aber beim Austreten gefriert. Haareis ist ein sehr kurzfristiges Phänomen und es gehört viel Glück dazu, es zu erleben. (Dieter Gewalt)
-
-[Mehr lesen >](/artikel/haareis)
-
-- - -
-
 [Liste aller Aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
 
 - - -
 
 [Liste aller Aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/haareis-01-bg.jpeg" %}
+{% include abbildung_ende.html %}
+
+Dieses faszinierende Phänomen wird *Haareis* oder auch Eiswolle genannt. Es kann sich nur unter sehr speziellen Bedingungen an Totholz bilden und ist daher nur selten zu beobachten. Bis 2008 war nicht einmal geklärt, wie es entsteht. Heute weiß man, dass [Pilzmyzelien](Myzel "Glossar") im Holz dafür verantwortlich sind. Die Lufttemperatur muss dabei knapp unter 0°C betragen, so dass Wasser im Holz <ins>noch nicht</ins> gefroren ist sondern erst beim Austreten gefriert. Haareis ist ein sehr kurzfristiges Phänomen und es gehört viel Glück dazu, es zu erleben. (Dieter Gewalt)
+
+[Mehr lesen >](/artikel/haareis)
 
 - - -
 
