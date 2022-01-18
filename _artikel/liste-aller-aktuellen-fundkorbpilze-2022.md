@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-17.01.2022 [Lyophyllum decastes - Büschelrasling](/pilze/lyophyllum-decastes-büschelrasling)  
+18.01.2022 [Crepidotus cesatii - Kugelsporiges Stummelfüßchen](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)  
+17.01.2022 [Lyophyllum decastes - Büschelrasling](/pilze/lyophyllum-decastes-büschelrasling)\
 16.01.2022 [Laccaria laccata - Rötlicher Lackpilz](/pilze/laccaria-laccata-rötlicher-lacktrichterling)\
 15.01.2022 [Peniophora cinerea - Aschgrauer Zystidenrindenpilz ](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)\
 14.01.2022 [Auricularia auricula-judae - Judasohr](/pilze/auricularia-auricula-judae-judasohr)\
