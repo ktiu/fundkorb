@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/trametes_hirsuta_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-19.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Striegelige Tramete *Trametes hirsuta*. Das Adjektiv "striegelig" hört sich viel zu rau an, um der samtig zarten Oberfläche gerecht zu werden. Da sollte man mal mit dem Finger drüberstreicheln um zu erfahren, wie toll sich dieser Pilz anfühlt. Er gehört zu den häufigeren Arten der Gattung *Trametes* und wächst an totem Laubholz, ganz überwiegend an Buche. (Dieter Gewalt)
+19.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Striegelige Tramete *Trametes hirsuta*. Das Adjektiv "striegelig" hört sich viel zu rau an, um der samtig zarten Oberfläche gerecht zu werden. Da sollte man mal mit dem Finger drüberstreicheln um zu erfahren, wie toll sich dieser Pilz anfühlt. Er gehört zu den häufigeren Arten der Gattung *Trametes* und wächst an totem Laubholz, ganz überwiegend an Buche. Die grüne Farbe hat er durch Algenbewuchs erhalten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/trametes-hirsuta-striegelige-tramete)
 
