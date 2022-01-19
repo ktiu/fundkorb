@@ -4,7 +4,8 @@ beschreibung:
   deutsch: Striegelige Tramete
   referenz: "(Wulfen) Lloyd 1924 "
   familie: Polyporaceae
-  erlaeuterung: Polyporaceae
+  erlaeuterung: hirsuta =  striegelig, rauhaarig
+  synonym: ""
 profil:
   aktualisiert: 2020-08-19
   autor_in: Dieter Gewalt
