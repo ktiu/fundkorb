@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_hirsuta_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Striegelige Tramete *Trametes hirsuta*. Das Adjektiv "striegelig" hört sich viel zu rau an, um der samtig zarten Oberfläche gerecht zu werden. Da sollte man mal mit dem Finger drüberstreicheln um zu erfahren, wie toll sich dieser Pilz anfühlt. Er gehört zu den häufigeren Arten der Gattung *Trametes* und wächst an totem Laubholz, ganz überwiegend an Buche. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/trametes-hirsuta-striegelige-tramete)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/crepidotus_cesatii_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,28 +45,6 @@ footer_scripts:
 17.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelrasling *Lyophyllum decastes*. Zugegeben: die auf einer Rasenfläche in unserer Parkanlage gefundenen Pilze waren nicht mehr taufrisch und sahen schon sehr mitgenommen aus. Für die Küche also nicht mehr geeignet. Schade. Ein paar Tage zuvor hätten sie noch ein leckeres Gericht abgegeben. Diesen büschelig wachsenden und daher auch ergiebigen Pilz kann man nur empfehlen. Kaum jemand kennt ihn und daher hat man kaum sammelnde Konkurrenz zu befürchten. Selbst in Großstädten wie Frankfurt ist er in Parkanlagen keine Seltenheit. Das Foto zeigt übrigens ein optimal entwickeltes Büschel, das ich vor ein paar Jahren fotografiert habe. Da läuft mir jetzt noch das Wasser im Mund zusammen, wenn ich es betrachte. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/laccaria_laccata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 16.01.2022 ist einer, den man im Januar eigentlich nicht erwartet: *Laccaria laccata*, der Rötliche Lacktrichterling. Es war zwar nur einer, aber der war überdurchschnittlich groß. Unter Pilzfreunden ist sein wissenschaftlicher Name unter der Abkürzung "Lac lac" bekannt. Manche nennen ihn auch L² (sprich: L-Quadrat). Essbar ist er auch, und gar nicht mal so übel. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/laccaria-laccata-rötlicher-lacktrichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/auricularia_auricula-judae_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der das ganze Jahr über und nicht nur an Holunder wächst. In unserer Dietzenbacher Parkanlage haben wir **Judasohren** zur Zeit bis zu drei Meter hoch an einer Linde und einen halben Meter über dem Boden an Berberitzen gesehen. Es gibt kaum eine Laubbaumart, die er verschmäht. An liegenden Buchenstämmen sind die Fruchtkörper besonders groß. An den dünnen Berberitzenstämmchen dagegen  fast schon winzig. Besonders häufig findet man sie auf Speisekarten in China-Restaurants. Da werden sie China-Morcheln genannt, obwohl sie mit Morcheln so wenig verwandt sind wie ein Sperling mit einer Klapperschlange. In China heißen sie *Mu-err*, was wörtlich übersetzt *Baumohr* bedeutet. Wer mehr über diese Ohren erfahren möchte: [hier geht's zum Porträt >](/pilze/auricularia-auricula-judae-judasohr)
 
 <div style="clear:  both"></div>
 
