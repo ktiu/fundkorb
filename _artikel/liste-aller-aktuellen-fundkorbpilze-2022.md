@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-19.01.2022 [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)  
+20.01.2022 [Schizopora paradoxa - Veränderlicher Spaltporling](/pilze/schizopora-paradoxa-veränderlicher-spaltporling)  
+19.01.2022 [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)\
 18.01.2022 [Crepidotus cesatii - Kugelsporiges Stummelfüßchen](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)\
 17.01.2022 [Lyophyllum decastes - Büschelrasling](/pilze/lyophyllum-decastes-büschelrasling)\
 16.01.2022 [Laccaria laccata - Rötlicher Lackpilz](/pilze/laccaria-laccata-rötlicher-lacktrichterling)\
