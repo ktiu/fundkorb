@@ -15,10 +15,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/galerina_subclavata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 21.01.2022 ist der Zweisporige Winterhäubling *Galerina subclavata*. "Zweisporig" besagt zweierlei. Erstens dass an seinen [Basidien](<Basidien "Glossar">) nur jeweils zwei Sporen heranreifen und dass man ihn zweitens mikroskopieren muss, um dieses entscheidende Merkmal zu erkennen. Dass er auch in den Wintermonaten zu finden ist, worauf sein Name hinweist, ist für Häublinge nichts Besonderes. Vermutlich ist er gar nicht so selten wie vielfach in der Literatur angegeben wird. Wichtig zu wissen: es gibt tödlich giftige Galerina-Arten, die vor allem leichtsinnigen Sammlern von Stockschwämmchen zum Verhängnis werden können. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/schizopora_paradoxa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-21.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Veränderliche Spaltporling *Schizopora paradoxa*. Den Beinamen *"veränderlich"* trägt dieser häufige, geradezu allgegenwärtige Pilz völlig zurecht. Er ist so veränderlich, dass es schon paradox erscheint. Sein [Hymenium](Hymenium "Glossar") kann porig, [daedaloid](daedaloid "Glossar") lamellig oder so irregulär zerschlitzt sein, dass es fast schon stachelig aussieht und man glauben könnte, einen nicht bestimmbaren Resupinatporling vor sich zu haben. Er wächst auf toten Laubholzzweigen, -ästen oder -stämmen und verursacht im befallenen Holz eine Weißfäule. (Dieter Gewalt)
+20.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Veränderliche Spaltporling *Schizopora paradoxa*. Den Beinamen *"veränderlich"* trägt dieser häufige, geradezu allgegenwärtige Pilz völlig zurecht. Er ist so veränderlich, dass es schon paradox erscheint. Sein [Hymenium](Hymenium "Glossar") kann porig, [daedaloid](daedaloid "Glossar") lamellig oder so irregulär zerschlitzt sein, dass es fast schon stachelig aussieht und man glauben könnte, einen nicht bestimmbaren Resupinatporling vor sich zu haben. Er wächst auf toten Laubholzzweigen, -ästen oder -stämmen und verursacht im befallenen Holz eine Weißfäule. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/schizopora-paradoxa-veränderlicher-spaltporling)
 
@@ -45,18 +57,6 @@ footer_scripts:
 18.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Kugelsporige Stummelfüßchen *Crepidotus cesatii*, gefunden an einem dünnen Laubholzästchen. Da die kleinen hübschen Pilzchen mit dem Hutscheitel am Substrat angewachsen sind, benötigen sie keine Stiele. Evolutionär bedingt ist manchmal noch ein stummeliger Rest davon zu erkennen, etwa so, wie manche Tiere am derzeitigen Ende ihrer Entwicklungsgeschichte noch ein kleines Stummelschwänzchen haben. Die kleinen Blätterpilzchen der Gattung *Crepidotus* werden auch Krüppelfüßchen genannt. Am häufigsten ist wohl die hier vorgestellte Art. Sie ist von einigen nahe verwandten optisch kaum zu unterscheiden. Um sicher zu gehen, ist ein wenig Mikroskopieraufwand erforderlich. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelrasling *Lyophyllum decastes*. Zugegeben: die auf einer Rasenfläche in unserer Parkanlage gefundenen Pilze waren nicht mehr taufrisch und sahen schon sehr mitgenommen aus. Für die Küche also nicht mehr geeignet. Schade. Ein paar Tage zuvor hätten sie noch ein leckeres Gericht abgegeben. Diesen büschelig wachsenden und daher auch ergiebigen Pilz kann man nur empfehlen. Kaum jemand kennt ihn und daher hat man kaum sammelnde Konkurrenz zu befürchten. Selbst in Großstädten wie Frankfurt ist er in Parkanlagen keine Seltenheit. Das Foto zeigt übrigens ein optimal entwickeltes Büschel, das ich vor ein paar Jahren fotografiert habe. Da läuft mir jetzt noch das Wasser im Mund zusammen, wenn ich es betrachte. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
 
 <div style="clear:  both"></div>
 
