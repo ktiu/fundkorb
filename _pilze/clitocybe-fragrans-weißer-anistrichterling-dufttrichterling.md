@@ -39,3 +39,7 @@ Ein Trichterling, dessen Form wie auf den Fotos oben keinerlei Ähnlichkeit mit 
 Eine ähnliche, offenbar sehr seltene und ebenfalls nach Anis riechende Art ist der [Ockerbraune Anistrichterling *Clitocybe acicola*](/pilze/clitocybe-acicola-ockerbrauner-anistrichterling).
 
 Der Weiße Anistrichterling wächst im Herbst und Spätherbst, bei milden Temperaturen auch noch den Winter über im Laub- und Nadelwald ohne besondere Bodenansprüche, gern an moosigen Stellen. Er ist giftig, enthält das Nervengift *Muscarin*, das Symptome wie Schweiß-ausbruch, Speichel- und Tränenfluss, Magen- Darmstörungen, Pupillenverengung u. a. erzeugt (englisch: *PSL-Syndrom* = perspiration, salivation, lacrimation).
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/clitocybe_fragrans_06_dg.jpg" %}
+{% include abbildung_ende.html %}
