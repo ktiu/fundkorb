@@ -36,3 +36,7 @@ Problematisch ist hier, bei eckig-labyrinthischen Poren deren Anzahl pro mm zu e
 Die Variabilität des Veränderlichen Spaltporlings hat dazu geführt, dass sich selbst die Wissenschaft lange nicht über seine systematische Zugehörigkeit einigen konnte. Er wurde schon als krustenförmiger Porling in die Gattung Poria gestellt oder als zähnchentragender Stachelpilz bei Hydnum oder Irpex untergebracht. Die [Synonymieliste im Index fungorum](http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=338860) ist eine lange Latte und enthält weitere Gattungsnamen wie Hyphodontia, Kneiffiella, Lenzites, Oxyporus, Polyporus und Xylodon, er wurde sogar schon mit dem Eichenwirrling Daedalea quercina in Verbindung gebracht.
 
 Man findet ihn praktisch in jedem Wald an Laubholz, in dem er eine kräftige Weißfäule erzeugt, gelegentlich auch als Übersteiger an Nadelholz.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/schizopora_paradoxa_04_dg.jpg" %}
+{% include abbildung_ende.html legende="Dieser Veränderliche Spaltporling hat möglicherweise einen Frostschaden abbekommen" %}
