@@ -20,7 +20,7 @@ footer_scripts:
 
 22.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Goldgelbe Spinnwebbecherchen *Arachnopeziza aurelia*, ein winziger [Ascomyzet](Ascomyzeten "Glossar") , den man mit der Lupe suchen muss. Seine maximale Größe von etwa 1 mm wird nur selten erreicht. Er wächst zu vielen gesellig oder dicht gedrängt auf einem meist kaum erkennbaren spinnwebartigen [Hyphengewebe](Hyphen "Glossar") (Subikulum). Wir finden die schön orangefarbenen Becherchen oft in einem Roteichenforst in am Boden liegenden Fruchtschalen, gelegentlich auch auf Blättern. Als Substrat kommen noch Totholz und sonstige Pflanzenreste in Frage. Die ganzjährig vorkommende Art gilt als selten, wird wohl aber leicht übersehen oder nicht beachtet. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen)
 
 <div style="clear:  both"></div>
 
