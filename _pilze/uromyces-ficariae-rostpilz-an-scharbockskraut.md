@@ -21,7 +21,7 @@ Uromyces ficariae ist gekennzeichnet durch dunkelbraune, pulverige Sporenlager a
 {% include bild.html datei="/bilder/uromyces_ficariae_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Nicht selten kommt er zusammen mit einem anderen Rostpilz (*Uromyces rumicis*) am gleichen Blatt vor. Dieser bildet orangefarbene Aeziensporenlager auf schwielig deformierten Flecken und wechselt zum Überwintern auf Ampferarten.
+Nicht selten kommt er zusammen mit einem anderen Rostpilz (*[Aecidium ranunculi-acris](/pilze/aecidium-ranunculi-acris-hahnenfußrost)*) am gleichen Blatt vor. Dieser bildet orangefarbene Aeziensporenlager auf schwielig deformierten Flecken und wechselt zum Überwintern auf Süßgräser.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/uromyces_ficariae_04_dg.jpg" nocrop=true %}
