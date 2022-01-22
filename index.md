@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/arachnopeziza_aurelia_03_iw.jpg" %}
+{% include abbildung_ende.html %}
+
+22.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Goldgelbe Spinnwebbecherchen *Arachnopeziza aurelia*, ein winziger [Ascomyzet](Ascomyzeten "Glossar") , den man mit der Lupe suchen muss. Seine maximale Größe von etwa 1 mm wird nur selten erreicht. Er wächst zu vielen gesellig oder dicht gedrängt auf einem meist kaum erkennbaren spinnwebartigen [Hyphengewebe](Hyphen "Glossar") (Subikulum). Wir finden die schön orangefarbenen Becherchen oft in einem Roteichenforst in am Boden liegenden Fruchtschalen, gelegentlich auch auf Blättern. Als Substrat kommen noch Totholz und sonstige Pflanzenreste in Frage. Die ganzjährig vorkommende Art gilt als selten, wird wohl aber leicht übersehen oder nicht beachtet. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/galerina_subclavata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,18 +57,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 21.01.2022 ist der Zweisporige Winter
 19.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Striegelige Tramete *Trametes hirsuta*. Das Adjektiv "striegelig" hört sich viel zu rau an, um der samtig zarten Oberfläche gerecht zu werden. Da sollte man mal mit dem Finger drüberstreicheln um zu erfahren, wie toll sich dieser Pilz anfühlt. Er gehört zu den häufigeren Arten der Gattung *Trametes* und wächst an totem Laubholz, ganz überwiegend an Buche. Die grüne Farbe hat er durch Algenbewuchs erhalten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/trametes-hirsuta-striegelige-tramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/crepidotus_cesatii_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Kugelsporige Stummelfüßchen *Crepidotus cesatii*, gefunden an einem dünnen Laubholzästchen. Da die kleinen hübschen Pilzchen mit dem Hutscheitel am Substrat angewachsen sind, benötigen sie keine Stiele. Evolutionär bedingt ist manchmal noch ein stummeliger Rest davon zu erkennen, etwa so, wie manche Tiere am derzeitigen Ende ihrer Entwicklungsgeschichte noch ein kleines Stummelschwänzchen haben. Die kleinen Blätterpilzchen der Gattung *Crepidotus* werden auch Krüppelfüßchen genannt. Am häufigsten ist wohl die hier vorgestellte Art. Sie ist von einigen nahe verwandten optisch kaum zu unterscheiden. Um sicher zu gehen, ist ein wenig Mikroskopieraufwand erforderlich. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
 
 <div style="clear:  both"></div>
 
