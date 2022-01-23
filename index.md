@@ -14,9 +14,13 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_gibbosa_07_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 23.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Buckeltramete Trametes gibbosa. Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche, und dürfte in kaum einem Laubwald fehlen. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren Schmetterlingstramete zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/trametes-gibbosa-buckeltramete)
 
 <div style="clear:  both"></div>
 
