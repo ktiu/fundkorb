@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-22.01.2022 [Arachnopeziza aurelia - Goldgelbes Spinnwebbecherchen](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen)  
+23.01.2022 [Trametes gibbosa - Buckeltramete](/pilze/trametes-gibbosa-buckeltramete)  
+22.01.2022 [Arachnopeziza aurelia - Goldgelbes Spinnwebbecherchen](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen)\
 21.01.2022 [Galerina subclavata - Zweisporiger Winterhäubling](/pilze/galerina-subclavata-zweisporiger-winterhäubling)\
 20.01.2022 [Schizopora paradoxa - Veränderlicher Spaltporling](/pilze/schizopora-paradoxa-veränderlicher-spaltporling)\
 19.01.2022 [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)\
