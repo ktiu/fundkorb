@@ -15,10 +15,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 24.01.2022 ist der Samtfußrübling *Flammulina velutipes*. Nicht ohne Grund wird er auch Winterrübling genannt. Wer auch im Winter nicht auf selbst gesammelte Pilze verzichten möchte, hat in ihm eine schmackhafte und frostunempfindliche Alternative zum Austernseitling. Außerdem ist er ein dankbares Fotomotiv. Er wächst büschelig an totem oder auch lebendem Laubholz und ist an seiner braunsamtigen Stielbekleidung gut zu erkennen. Bei feuchtem Wetter sind die glänzend hell- bis orangegelben Hüte schmierig, bei Trockenheit matt und trocken. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_gibbosa_07_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-23.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Buckeltramete Trametes gibbosa. Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche, und dürfte in kaum einem Laubwald fehlen. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren Schmetterlingstramete zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind. (Dieter Gewalt)
+23.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Buckeltramete *Trametes gibbosa.* Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche, und dürfte in kaum einem Laubwald fehlen. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren Schmetterlingstramete zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/trametes-gibbosa-buckeltramete)
 
