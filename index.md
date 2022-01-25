@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bispora_antennata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 25.01.2022 ist der Tintenstrahlpilz *Bispora antennata*. Solche Muster auf glatten Baumstumpfflächen hat bestimmt jeder schon mal gesehen. Ist auch ein Pilz, wohl ein imperfekter. Einen deutschen Namen hat er erst in neuerer Zeit erhalten. Frühestens, seit es Tintenstrahldrucker gibt, und das ist noch nicht sooo lange her. Wer sich für kleine Ascomyzeten-Becherchen interessiert, wirft schon mal einen forschenden Blick auf die schwarzen Strahlen. Man könnte mit etwas Glück *Bisporella pallescens* auf ihnen finden, das Blasse Buchenbecherchen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/bispora-antennata-tintenstrahlpilz)
+
+<div style="clear:  both"></div> 
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,54 +45,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 24.01.2022 ist der Samtfußrübling *
 23.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Buckeltramete *Trametes gibbosa.* Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche, und dürfte in kaum einem Laubwald fehlen. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren Schmetterlingstramete zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/trametes-gibbosa-buckeltramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/arachnopeziza_aurelia_03_iw.jpg" %}
-{% include abbildung_ende.html %}
-
-22.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Goldgelbe Spinnwebbecherchen *Arachnopeziza aurelia*, ein winziger [Ascomyzet](Ascomyzeten "Glossar") , den man mit der Lupe suchen muss. Seine maximale Größe von etwa 1 mm wird nur selten erreicht. Er wächst zu vielen gesellig oder dicht gedrängt auf einem meist kaum erkennbaren spinnwebartigen [Hyphengewebe](Hyphen "Glossar") (Subikulum). Wir finden die schön orangefarbenen Becherchen oft in einem Roteichenforst in am Boden liegenden Fruchtschalen, gelegentlich auch auf Blättern. Als Substrat kommen noch Totholz und sonstige Pflanzenreste in Frage. Die ganzjährig vorkommende Art gilt als selten, wird wohl aber leicht übersehen oder nicht beachtet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/galerina_subclavata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 21.01.2022 ist der Zweisporige Winterhäubling *Galerina subclavata*. "Zweisporig" besagt zweierlei. Erstens dass an seinen [Basidien](<Basidien "Glossar">) nur jeweils zwei Sporen heranreifen und dass man ihn zweitens mikroskopieren muss, um dieses entscheidende Merkmal zu erkennen. Dass er auch in den Wintermonaten zu finden ist, worauf sein Name hinweist, ist für Häublinge nichts Besonderes. Vermutlich ist er gar nicht so selten wie vielfach in der Literatur angegeben wird. Wichtig zu wissen: es gibt tödlich giftige Galerina-Arten, die vor allem leichtsinnigen Sammlern von Stockschwämmchen zum Verhängnis werden können. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/galerina-subclavata-zweisporiger-winterhäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/schizopora_paradoxa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Veränderliche Spaltporling *Schizopora paradoxa*. Den Beinamen *"veränderlich"* trägt dieser häufige, geradezu allgegenwärtige Pilz völlig zurecht. Er ist so veränderlich, dass es schon paradox erscheint. Sein [Hymenium](Hymenium "Glossar") kann porig, [daedaloid](daedaloid "Glossar") lamellig oder so irregulär zerschlitzt sein, dass es fast schon stachelig aussieht und man glauben könnte, einen nicht bestimmbaren Resupinatporling vor sich zu haben. Er wächst auf toten Laubholzzweigen, -ästen oder -stämmen und verursacht im befallenen Holz eine Weißfäule. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/schizopora-paradoxa-veränderlicher-spaltporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_hirsuta_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Striegelige Tramete *Trametes hirsuta*. Das Adjektiv "striegelig" hört sich viel zu rau an, um der samtig zarten Oberfläche gerecht zu werden. Da sollte man mal mit dem Finger drüberstreicheln um zu erfahren, wie toll sich dieser Pilz anfühlt. Er gehört zu den häufigeren Arten der Gattung *Trametes* und wächst an totem Laubholz, ganz überwiegend an Buche. Die grüne Farbe hat er durch Algenbewuchs erhalten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/trametes-hirsuta-striegelige-tramete)
 
 <div style="clear:  both"></div>
 
