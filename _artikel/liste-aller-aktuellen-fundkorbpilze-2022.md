@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-25.01.2022 [Bispora antennata - Tintenstrahlpilz](/pilze/bispora-antennata-tintenstrahlpilz)  
+26.01.2022 [Gloeoporus dichrous - Zweifarbiger Knorpelporling](/pilze/gloeoporus-dichrous-zweifarbiger-knorpelporling)  
+25.01.2022 [Bispora antennata - Tintenstrahlpilz](/pilze/bispora-antennata-tintenstrahlpilz)\
 24.01.2022 [Flammulina velutipes - Samtfußrübling](/pilze/flammulina-velutipes-samtfußrübling)\
 23.01.2022 [Trametes gibbosa - Buckeltramete](/pilze/trametes-gibbosa-buckeltramete)\
 22.01.2022 [Arachnopeziza aurelia - Goldgelbes Spinnwebbecherchen](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen)\
