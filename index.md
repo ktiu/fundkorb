@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/gloeoporus_dichrous_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute *Gloeoporus dichrous*, der Zweifarbige Knorpelporling. Ein wirklich attraktiver Laubholzbewohner, wenn man genauer hinschaut. An Asträndern bildet er konsolenförmige Hüte, an Flächen wächst er resupinat mit Knötchen, die sich zu abstehenden Hutkanten entwickeln können. Seine Poren sind sehr fein und überwiegend eckig gerandet, was mit einer guten Lupe gut zu sehen ist. Der Pilz gilt als selten, scheint in der Rhein-Main-Ebene aber etwas häufiger zu sein. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gloeoporus-dichrous-zweifarbiger-knorpelporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bispora_antennata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
