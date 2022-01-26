@@ -11,6 +11,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/encoelia_furfuracea_01_tl.jpg
+literatur:
+  - url: https://www.natur-in-nrw.de/HTML/Pilze/Ascomycota/PAS-93.html
 ---
 In einem Fundkorb-Beitrag hat Thomas Lehr über diesen Pilz geschrieben: 
 
