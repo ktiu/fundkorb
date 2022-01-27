@@ -14,9 +14,11 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/exidia_truncata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
 
-
-26.01.2022: Aktueller Fundkorbpilz ist heute *Gloeoporus dichrous*, der Zweifarbige Knorpelporling. Ein wirklich attraktiver Laubholzbewohner, wenn man genauer hinschaut. An Asträndern bildet er konsolenförmige Hüte, an Flächen wächst er resupinat mit Knötchen, die sich zu abstehenden Hutkanten entwickeln können. Seine Poren sind sehr fein und überwiegend eckig gerandet, was mit einer guten Lupe gut zu sehen ist. Der Pilz gilt als selten, scheint in der Rhein-Main-Ebene aber etwas häufiger zu sein. (Dieter Gewalt)
+27.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Abgestutzte Drüsling *Exidia truncata*, dem Winterkälte oder Frostnächte wenig anhaben können. Diese schwarzen Glibber gefrieren  und tauen wieder auf und da ihn eh keiner essen will, hat selbst x-mal wiederholtes Gefrieren und Wiederauftauen keine Auswirkungen auf unsere Gesundheit. Anfassen ist okay. Man bekommt nicht einmal schwarze Finger. Er wächst am liebsten auf toten Eichenästen. 
 
 [Mehr lesen >](/pilze/exidia-truncata-abgestutzter-drüsling)
 
