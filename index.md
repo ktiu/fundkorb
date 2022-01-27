@@ -14,7 +14,17 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+
+
+26.01.2022: Aktueller Fundkorbpilz ist heute *Gloeoporus dichrous*, der Zweifarbige Knorpelporling. Ein wirklich attraktiver Laubholzbewohner, wenn man genauer hinschaut. An Asträndern bildet er konsolenförmige Hüte, an Flächen wächst er resupinat mit Knötchen, die sich zu abstehenden Hutkanten entwickeln können. Seine Poren sind sehr fein und überwiegend eckig gerandet, was mit einer guten Lupe gut zu sehen ist. Der Pilz gilt als selten, scheint in der Rhein-Main-Ebene aber etwas häufiger zu sein. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/exidia-truncata-abgestutzter-drüsling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gloeoporus_dichrous_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,30 +45,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 25.01.2022 ist der Tintenstrahlpilz *
 [Mehr lesen >](/pilze/bispora-antennata-tintenstrahlpilz)
 
 <div style="clear:  both"></div> 
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 24.01.2022 ist der Samtfußrübling *Flammulina velutipes*. Nicht ohne Grund wird er auch Winterrübling genannt. Wer auch im Winter nicht auf selbst gesammelte Pilze verzichten möchte, hat in ihm eine schmackhafte und frostunempfindliche Alternative zum Austernseitling. Außerdem ist er ein dankbares Fotomotiv. Er wächst büschelig an totem oder auch lebendem Laubholz und ist an seiner braunsamtigen Stielbekleidung gut zu erkennen. Bei feuchtem Wetter sind die glänzend hell- bis orangegelben Hüte schmierig, bei Trockenheit matt und trocken. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_gibbosa_07_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Buckeltramete *Trametes gibbosa.* Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche, und dürfte in kaum einem Laubwald fehlen. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren Schmetterlingstramete zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/trametes-gibbosa-buckeltramete)
-
-<div style="clear:  both"></div>
 
 - - -
 
