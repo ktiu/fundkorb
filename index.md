@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tubaria_furfuracea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.01.2022: Aktueller Fundkorbpilz ist der Gemeine Trompetenschnitzling *Tubaria furfuracea*. Man kann ihn zur Zeit fast überall finden. Und nicht nur zur Zeit. Es gibt tatsächlich keinen Monat, in dem der kleine Blätterpilz nicht schon nachgewiesen worden ist. Früher hat man die Funde während der kalten Jahreszeit Wintertrompetenschnitzlinge genannt, *Tubaria hiemalis*. Sie sind makroskopisch nicht von den *"Sommertrompetenschnitzlingen"* zu unterscheiden. Auch die mikroskopischen Merkmale überlappen sich, so dass eine Aufsplittung in zwei Arten nicht gerechtfertig ist. Der Pilz ist in- und außerhalb von Wäldern häufig und wächst auf Holzrückständen jeder Art. (Dieter Gewalt)
+
+Mehr erfahren >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/exidia_truncata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/gloeoporus-dichrous-zweifarbiger-knorpelporling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bispora_antennata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 25.01.2022 ist der Tintenstrahlpilz *Bispora antennata*. Solche Muster auf glatten Baumstumpfflächen hat bestimmt jeder schon mal gesehen. Ist auch ein Pilz, wohl ein imperfekter. Einen deutschen Namen hat er erst in neuerer Zeit erhalten. Frühestens, seit es Tintenstrahldrucker gibt, und das ist noch nicht sooo lange her. Wer sich für kleine Ascomyzeten-Becherchen interessiert, wirft schon mal einen forschenden Blick auf die schwarzen Strahlen. Man könnte mit etwas Glück *Bisporella pallescens* auf ihnen finden, das Blasse Buchenbecherchen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/bispora-antennata-tintenstrahlpilz)
-
-<div style="clear:  both"></div> 
 
 - - -
 
