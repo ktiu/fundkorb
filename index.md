@@ -20,7 +20,7 @@ footer_scripts:
 
 28.01.2022: Aktueller Fundkorbpilz ist der Gemeine Trompetenschnitzling *Tubaria furfuracea*. Man kann ihn zur Zeit fast überall finden. Und nicht nur zur Zeit. Es gibt tatsächlich keinen Monat, in dem der kleine Blätterpilz nicht schon nachgewiesen worden ist. Früher hat man die Funde während der kalten Jahreszeit Wintertrompetenschnitzlinge genannt, *Tubaria hiemalis*. Sie sind makroskopisch nicht von den *"Sommertrompetenschnitzlingen"* zu unterscheiden. Auch die mikroskopischen Merkmale überlappen sich, so dass eine Aufsplittung in zwei Arten nicht gerechtfertig ist. Der Pilz ist in- und außerhalb von Wäldern häufig und wächst auf Holzrückständen jeder Art. (Dieter Gewalt)
 
-Mehr erfahren >
+[Mehr erfahren >](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
 
 <div style="clear:  both"></div>
 
