@@ -15,10 +15,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_polygonia_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Espen-Zystidenrindenpilz *Peniophora polygonia*, eine Art, die auch für Kenner dieser Gattung nicht unbedingt geläufig ist. Er bildet wachsartige dünne Beläge auf der Rinde von Zweigen und Ästen, die sich noch am Baum befinden. Im Anfangsstadium sind es weiße bis grauweißliche Flecken, die zu größeren Flächen zusammenwachsen. Im Alter werden sie hart und rissig und könen auch fleischrötliche Farben annehmen. Diese Art wächst nahezu ausschließlich auf verschiedenen Pappelarten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tubaria_furfuracea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-28.01.2022: Aktueller Fundkorbpilz ist der Gemeine Trompetenschnitzling *Tubaria furfuracea*. Man kann ihn zur Zeit fast überall finden. Und nicht nur zur Zeit. Es gibt tatsächlich keinen Monat, in dem der kleine Blätterpilz nicht schon nachgewiesen worden ist. Früher hat man die Funde während der kalten Jahreszeit Wintertrompetenschnitzlinge genannt, *Tubaria hiemalis*. Sie sind makroskopisch nicht von den *"Sommertrompetenschnitzlingen"* zu unterscheiden. Auch die mikroskopischen Merkmale überlappen sich, so dass eine Aufsplittung in zwei Arten nicht gerechtfertig ist. Der Pilz ist in- und außerhalb von Wäldern häufig und wächst auf Holzrückständen jeder Art. (Dieter Gewalt)
+28.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Trompetenschnitzling *Tubaria furfuracea*. Man kann ihn zur Zeit fast überall finden. Und nicht nur zur Zeit. Es gibt tatsächlich keinen Monat, in dem der kleine Blätterpilz nicht schon nachgewiesen worden ist. Früher hat man die Funde während der kalten Jahreszeit Wintertrompetenschnitzlinge genannt, *Tubaria hiemalis*. Sie sind makroskopisch nicht von den *"Sommertrompetenschnitzlingen"* zu unterscheiden. Auch die mikroskopischen Merkmale überlappen sich, so dass eine Aufsplittung in zwei Arten nicht gerechtfertig ist. Der Pilz ist in- und außerhalb von Wäldern häufig und wächst auf Holzrückständen jeder Art. (Dieter Gewalt)
 
 [Mehr erfahren >](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
 
@@ -33,18 +45,6 @@ footer_scripts:
 27.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Abgestutzte Drüsling *Exidia truncata*, dem Winterkälte oder Frostnächte wenig anhaben können. Diese schwarzen Glibber gefrieren  und tauen wieder auf und da ihn eh keiner essen will, hat selbst x-mal wiederholtes Gefrieren und Wiederauftauen keine Auswirkungen auf unsere Gesundheit. Anfassen ist okay. Man bekommt nicht einmal schwarze Finger. Er wächst am liebsten auf toten Eichenästen. 
 
 [Mehr lesen >](/pilze/exidia-truncata-abgestutzter-drüsling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gloeoporus_dichrous_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute *Gloeoporus dichrous*, der Zweifarbige Knorpelporling. Ein wirklich attraktiver Laubholzbewohner, wenn man genauer hinschaut. An Asträndern bildet er konsolenförmige Hüte, an Flächen wächst er resupinat mit Knötchen, die sich zu abstehenden Hutkanten entwickeln können. Seine Poren sind sehr fein und überwiegend eckig gerandet, was mit einer guten Lupe gut zu sehen ist. Der Pilz gilt als selten, scheint in der Rhein-Main-Ebene aber etwas häufiger zu sein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gloeoporus-dichrous-zweifarbiger-knorpelporling)
 
 <div style="clear:  both"></div>
 
