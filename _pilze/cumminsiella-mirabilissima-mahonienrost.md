@@ -24,6 +24,6 @@ Dieser Rostpilz ist ein [Endoparasit](Endoparasit "Glossar") auf Mahonienblätte
 {% include bild.html datei="/bilder/cumminsiella_mirabilissima_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Die Gewöhnliche Mahonie (Mahonia aquifolium) ist ein ursprünglich im westlichen Nordamerika beheimatetes Berberitzengewächs und als [Neophyt](Neophyt "Glossar") in Mitteleuropa ein weitverbreiteter Zierstrauch in Parks und Gärten. 
+Die Gewöhnliche Mahonie (*Mahonia aquifolium*) ist ein ursprünglich im westlichen Nordamerika beheimatetes Berberitzengewächs und als [Neophyt](Neophyt "Glossar") in Mitteleuropa ein weitverbreiteter Zierstrauch in Parks und Gärten. 
 
 Rostpilze sind eine Ordnung der Ständerpilze ([Basidiomyzeten](Basidiomyzeten "Glossar")).
