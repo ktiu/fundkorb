@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-29.01.2022 [Peniophora polygonia - Espen-Zystidenrindenpilz](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)  
+30.01.2022 [Ciboria amentacea - Erlenkätzchen-Becherling](/pilze/ciboria-amentacea-erlenkätzchen-becherling)  
+29.01.2022 [Peniophora polygonia - Espen-Zystidenrindenpilz](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)\
 28.01.2022 [Tubaria furfuracea - Trompetenschnitzling](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)\
 27.01.2022 [Exidia truncata - Abgestutzter Drüsling](/pilze/exidia-truncata-abgestutzter-drüsling)\
 26.01.2022 [Gloeoporus dichrous - Zweifarbiger Knorpelporling](/pilze/gloeoporus-dichrous-zweifarbiger-knorpelporling)\
