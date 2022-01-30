@@ -5,6 +5,7 @@ beschreibung:
   referenz: "(Scop.) Fayod 1889 "
   familie: Agaricaceae
   erlaeuterung: amianthinum= asbestfarben
+  synonym: "Andere Schreibweise: Cystoderma amiantinum"
 profil:
   aktualisiert: 2020-11-12
   autor_in: Dieter Gewalt
