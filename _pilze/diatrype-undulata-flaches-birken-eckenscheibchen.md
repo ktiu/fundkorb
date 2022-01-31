@@ -22,7 +22,7 @@ literatur:
 {% include bild.html datei="/bilder/diatrype_undulata_02_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Fund vom 24.04.2017 an am Boden liegenden morschen Birkenästen (lichter Mischwald unter Hängebirke im Walddistrikt Oberwald der Gemeinde Straubenhardt-Ottenhausen, Enzkreis, Baden-Württemberg" %}
 
-Die schwarzen [Stromata](Stroma "Glossar") waren auf den Ästen flächig ausgebreitet, das Substrat auf etliche Dezimeter Länge überziehend. Sie waren schwarz, dicklich-wulstig und querrissig; der Rand steil und geschwungen. Die Perithezien sind kugelig bis oval, nach eigenen Messungen 0,25-0,4 mm im Durchmesser, mit schwarzem Rand. Ostiolen bereits mit bloßem Auge gerade so erkennbar, ca. 150 µm im Durchmesser, sternförmig geschlitzt und deutlich über das Stroma herausragend.
+Die schwarzen [Stromata](Stroma "Glossar") waren auf den Ästen flächig ausgebreitet, das Substrat auf etliche Dezimeter Länge überziehend. Sie waren schwarz, dicklich-wulstig und querrissig; der Rand steil und geschwungen. Die [Perithezien](Perithezien "Glossar") sind kugelig bis oval, nach eigenen Messungen 0,25-0,4 mm im Durchmesser, mit schwarzem Rand. [Ostiolen](Ostiolum "Glossar") bereits mit bloßem Auge gerade so erkennbar, ca. 150 µm im Durchmesser, sternförmig geschlitzt und deutlich über das Stroma herausragend.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/diatrype_undulata_03_bm.jpg" nocrop=true %}
