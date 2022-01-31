@@ -20,7 +20,7 @@ footer_scripts:
 
 31.01.2022: Um einen aktuellen [Fundkorbpilz](AA "Glossar-") zu finden, brauche ich diesmal nicht einmal aus dem Haus zu gehen. Auf einigen etwas zu lange gelagerten Karotten sind schwärzliche Verfärbungen nicht zu übersehen. Es sind die [Chlamydosporen](Chlamydosporen "Glossar") eines [phytopathogenen](phytopathogen "Glossar") Schimmelpilzes aus der Ordnung *Microscales*, der sogenannten Schwarzwurzelfäule *Thielaviopsis basicola*. Zu ihrem weiten Wirtsspektrum gehören außer Schwarzwurzeln und Karotten zahlreiche weitere Nutzpflanzen. Versteht sich von selbst, dass befallene Gemüsewurzeln nicht mehr zum Verzehr geeignet sind. (Dieter Gewalt)
 
-Siehe auch >
+[Siehe auch >](/pilze/thielaviopsis-basicola-schwarzwurzelfäule)
 
 <div style="clear:  both"></div>
 
