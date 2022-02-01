@@ -21,7 +21,7 @@ Auf dieser Abbildung erinnern die [Apothecien](Apothecien "Glosssar") ein wenig 
 
 Auffallend ist die Anordnung der Becherchen auf den langen lanzettlichen Wegerichblättern. Sie erscheinen in Reihen in den schwarz stromatisierten Blattnerven, kommen aber auch in geringerer Zahl auf dem Blattgewebe dazwischen vor. Hier erkennt man auch punkt- und strichförmige Zeichnungen, die teilweise wie Hieroglyphen aussehen. Dabei handelt sich um den asexuellen Pilz *Phoma polygramma*.
 
-Der vermutlich [phytopathogene](phytopathogen "Glossar")[](Phytoparasiten "Glossar") [Ascomyzet](Ascomyzeten "Glossar") erscheint vom Spätherbst bis in die Wintermonate. Befallene Wegerichblätter verblassen und werden grau bis graubräunlich.
+Der vermutlich [phytopathogene](phytopathogen "Glossar") [Ascomyzet](Ascomyzeten "Glossar") erscheint vom Spätherbst bis in die Wintermonate. Befallene Wegerichblätter verblassen und werden grau bis graubräunlich.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/spilopodia_nervisequa_05_hl.jpg" nocrop=true gross=true %}
