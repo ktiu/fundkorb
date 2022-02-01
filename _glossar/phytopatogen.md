@@ -1,5 +1,5 @@
 ---
-schlagwort: "phytopatogen"
+schlagwort: phytopathogen
 ---
 Pflanzenkrankheiten verursachend
 
