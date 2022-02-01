@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/spilopodia_nervisequa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-01.02.2022: Es herrscht gerade eine Jahreszeit, die man nicht unbedngt als optimale Pilzsaison bezeichnen kann. Mangels "richtiger Pilze" haben daher auch kleine Ascomyzeten, die man mit bloßem Auge entweder übersieht oder nur mit einer Lupe erkennen kann, eine Chance, aktueller [Fundkorbpilz](AA "Glossar-") zu werden. Heute ist es *Spilopodia nervisequa*, der Wegerich-Schwarzaderpilz, der während der Wintermonate auf den Blättern von Spitzwegerich wächst. Er bildet seine winzigen Becherchen vor allem auf den durchgängigen Blattnerven. Auf der Blattfläche findet man häufig noch eine andere ebenfalls phytopathogene Pilzart. (Dieter Gewalt)
+01.02.2022: Es herrscht gerade eine Jahreszeit, die man nicht unbedngt als optimale Pilzsaison bezeichnen kann. Mangels "richtiger Pilze" haben daher auch kleine Ascomyzeten, die man mit bloßem Auge entweder übersieht oder nur mit einer Lupe erkennen kann, eine Chance, aktueller [Fundkorbpilz](AA "Glossar-") zu werden. Heute ist es *Spilopodia nervisequa*, der Wegerich-Schwarzaderpilz, der während der Wintermonate auf den Blättern von Spitzwegerich wächst. Er bildet seine winzigen Becherchen vor allem auf den durchgängigen Blattnerven. Auf der Blattfläche findet man häufig noch eine andere ebenfalls [phytopathogene](phytopathogen "Glossar") Pilzart. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz)
 
