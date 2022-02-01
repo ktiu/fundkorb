@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-31.01.2022 [Thielaviopsis basicola - Schwarzwurzelfäule](/pilze/thielaviopsis-basicola-schwarzwurzelfäule)  
+01.02.2022 [Spilopodia nervisequa - Wegerich-Schwarzaderpilz](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz)
+
+31.01.2022 [Thielaviopsis basicola - Schwarzwurzelfäule](/pilze/thielaviopsis-basicola-schwarzwurzelfäule)\
 30.01.2022 [Ciboria amentacea - Erlenkätzchen-Becherling](/pilze/ciboria-amentacea-erlenkätzchen-becherling)\
 29.01.2022 [Peniophora polygonia - Espen-Zystidenrindenpilz](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)\
 28.01.2022 [Tubaria furfuracea - Trompetenschnitzling](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)\
