@@ -1,0 +1,4 @@
+---
+schlagwort: phythopathogen
+---
+Pflanzenkrankheiten verursachend
