@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/spilopodia_nervisequa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.02.2022: Es herrscht gerade eine Jahreszeit, die man nicht unbedngt als optimale Pilzsaison bezeichnen kann. Mangels "richtiger Pilze" haben daher auch kleine Ascomyzeten, die man mit bloßem Auge entweder übersieht oder nur mit einer Lupe erkennen kann, eine Chance, aktueller [Fundkorbpilz](AA "Glossar-") zu werden. Heute ist es *Spilopodia nervisequa*, der Wegerich-Schwarzaderpilz, der während der Wintermonate auf den Blättern von Spitzwegerich wächst. Er bildet seine winzigen Becherchen vor allem auf den durchgängigen Blattnerven. Auf der Blattfläche findet man häufig noch eine andere ebenfalls phytopathogene Pilzart. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/thielaviopsis_basicola_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 30.01.2022: Unseren aktuellen [Fundkorbpilz](AA "Glossar-") *Ciboria amentacea* kann man schon im Frühjahr nach der Schneeschmelze suchen und finden. Aber wann haben wir hier im Flachland noch Schnee, der schmelzen könnte? Jedenfalls sind Erlenkätzchen-Becherlinge in diesem Jahr schon gefunden worden. Ich nenne sie "Schätzchen auf Kätzchen". Weil sie so hübsch sind und auf vorjährigen vermoderten Erlenkätzchen wachsen. Die Becherchen erreichen maximal 1 cm Durchmesser. Im Vergleich dazu sind die Stiele oft auffallend lang. Makroskopisch kaum zu unterscheiden ist der Haselkätzchen-Becherling *Ciboria coryli*, wobei zu bedenken ist, dass der hier gezeigte Erlenkätzchen-Becherling auch auf Haselkätzchen wächst. Um sicher zu gehen, ist also ein wenig Mikroskopieraufwand erforderlich. Die Sporen der beiden Arten unterscheiden sich deutlich in ihrer Größe. Mehr dazu [finden Sie hier >](/pilze/ciboria-amentacea-erlenkätzchen-becherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_polygonia_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Espen-Zystidenrindenpilz *Peniophora polygonia*, eine Art, die auch für Kenner dieser Gattung nicht unbedingt geläufig ist. Er bildet wachsartige dünne Beläge auf der Rinde von Zweigen und Ästen, die sich noch am Baum befinden. Im Anfangsstadium sind es weiße bis grauweißliche Flecken, die zu größeren Flächen zusammenwachsen. Im Alter werden sie hart und rissig und könen auch fleischrötliche Farben annehmen. Diese Art wächst nahezu ausschließlich auf verschiedenen Pappelarten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tubaria_furfuracea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.01.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Trompetenschnitzling *Tubaria furfuracea*. Man kann ihn zur Zeit fast überall finden. Und nicht nur zur Zeit. Es gibt tatsächlich keinen Monat, in dem der kleine Blätterpilz nicht schon nachgewiesen worden ist. Früher hat man die Funde während der kalten Jahreszeit Wintertrompetenschnitzlinge genannt, *Tubaria hiemalis*. Sie sind makroskopisch nicht von den *"Sommertrompetenschnitzlingen"* zu unterscheiden. Auch die mikroskopischen Merkmale überlappen sich, so dass eine Aufsplittung in zwei Arten nicht gerechtfertig ist. Der Pilz ist in- und außerhalb von Wäldern häufig und wächst auf Holzrückständen jeder Art. (Dieter Gewalt)
-
-[Mehr erfahren >](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
 
 <div style="clear:  both"></div>
 
