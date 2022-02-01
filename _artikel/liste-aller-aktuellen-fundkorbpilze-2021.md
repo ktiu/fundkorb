@@ -2,8 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2021
 published: true
 ---
-31.12.2021 [Amanita gemmata - Narzissengelber Wulstling](/pilze/amanita-gemmata-narzissengelber-wulstling)  
-30.12.2021 [Panellus serotinus - Gelbstieliger Muschelseitling](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)  
+31.12.2021 [Amanita gemmata - Narzissengelber Wulstling](/pilze/amanita-gemmata-narzissengelber-wulstling)\
+30.12.2021 [Panellus serotinus - Gelbstieliger Muschelseitling](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)\
 29.12.2021 [Phlebia radiata - Orangeroter Kammpilz](/pilze/phlebia-radiata-orangeroter-kammpilz)\
 28.12.2021 [Galerina marginata - Gifthäubling](/pilze/galerina-marginata-gifthäubling)\
 27.12.2021 [Hygrophoropsis aurantiaca - Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)\
@@ -32,7 +32,6 @@ published: true
 08.11.2021 [Leotia lubrica - Grüngelbes Gallertkäppchen](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)\
 07.11.2021 [Plicatura crispa - Buchen-Adernzähling](/pilze/plicatura-crispa-buchen-adernzähling)\
 06.11.2021 [Mycena meliigena - Rötlicher Rindenhelmling](/pilze/mycena-meliigena-rötlicher-rindenhelmling)\
-05.11.2021 [Clitocybe phyllophila - Bleiweißer Trichterling](/pilze/clitocybe-phyllophila-bleiweißer-firnistrichterling-bleiweißer-trichterling)\
 04.11.2021 [Armillaria mellea - Honiggelber Hallimasch](/pilze/armillaria-mellea-honiggelber-hallimasch)\
 03.11.2021 [Armillaria ostoyae - Dunkler Hallimasch](/pilze/armillaria-ostoyae-dunkler-hallimasch)\
 02.11.2021 [Pseudohydnum gelatinosum - Eispilz, Zitterzahn](/pilze/pseudohydnum-gelatinosum-eispilz-zitterzahn) 
