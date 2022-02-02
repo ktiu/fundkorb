@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: https://www.natur-in-nrw.de/HTML/Pilze/Ascomycota/PAS-93.html
 ---
-In einem Fundkorb-Beitrag hat Thomas Lehr über diesen Pilz geschrieben: 
+In einem Fundkorb-Beitrag hat *Thomas Lehr* über diesen Pilz geschrieben: 
 
 > „Einer der vielen, eher unscheinbaren [Ascomyceten](Ascomyzeten "Glossar"), die man bei gezielter Suche im Frühjahr eigentlich überall entdecken kann, wo es ältere Haselbüsche gibt. Zudem findet man die Fruchtkörper von Encoelia furfuracea auf Erlenästen. Der Pilz ist durch sein Substrat, die büschelige Wuchsweise und die kleiige Außenseite eigentlich unverwechselbar.“
 
