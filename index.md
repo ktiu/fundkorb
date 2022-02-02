@@ -15,34 +15,24 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/heterobasidion_annosum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.02.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wurzelschwamm *Heterobasidion annosum*. Bei Forstleuten ist er nicht gern gesehen. Als gefürchteter Baumschädling kann er Millionenschäden anrichten. Er befällt vor allem Fichten, Tannen und Kiefern und verursacht eine intensive Weißfäule, die nicht selten mit starkem Harzfluss verbunden ist. Die Infektion erfolgt meist über die Baumwurzeln. Neuerdings werden wirtsabhängig drei europäische Arten unterschieden, die sich morphologisch nur unwesentlich unterscheiden. Auch die Sporenmaße sind nahezu identisch. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/heterobasidion-annosum-wurzelschwamm)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/spilopodia_nervisequa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 01.02.2022: Es herrscht gerade eine Jahreszeit, die man nicht unbedngt als optimale Pilzsaison bezeichnen kann. Mangels "richtiger Pilze" haben daher auch kleine Ascomyzeten, die man mit bloßem Auge entweder übersieht oder nur mit einer Lupe erkennen kann, eine Chance, aktueller [Fundkorbpilz](AA "Glossar-") zu werden. Heute ist es *Spilopodia nervisequa*, der Wegerich-Schwarzaderpilz, der während der Wintermonate auf den Blättern von Spitzwegerich wächst. Er bildet seine winzigen Becherchen vor allem auf den durchgängigen Blattnerven. Auf der Blattfläche findet man häufig noch eine andere ebenfalls [phytopathogene](phytopathogen "Glossar") Pilzart. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/thielaviopsis_basicola_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.01.2022: Um einen aktuellen [Fundkorbpilz](AA "Glossar-") zu finden, brauche ich diesmal nicht einmal aus dem Haus zu gehen. Auf einigen etwas zu lange gelagerten Karotten sind schwärzliche Verfärbungen nicht zu übersehen. Es sind die [Chlamydosporen](Chlamydosporen "Glossar") eines [phytopathogenen](phytopathogen "Glossar") Schimmelpilzes aus der Ordnung *Microscales*, der sogenannten Schwarzwurzelfäule *Thielaviopsis basicola*. Zu ihrem weiten Wirtsspektrum gehören außer Schwarzwurzeln und Karotten zahlreiche weitere Nutzpflanzen. Versteht sich von selbst, dass befallene Gemüsewurzeln nicht mehr zum Verzehr geeignet sind. (Dieter Gewalt)
-
-[Siehe auch >](/pilze/thielaviopsis-basicola-schwarzwurzelfäule)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ciboria_amentacea_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.01.2022: Unseren aktuellen [Fundkorbpilz](AA "Glossar-") *Ciboria amentacea* kann man schon im Frühjahr nach der Schneeschmelze suchen und finden. Aber wann haben wir hier im Flachland noch Schnee, der schmelzen könnte? Jedenfalls sind Erlenkätzchen-Becherlinge in diesem Jahr schon gefunden worden. Ich nenne sie "Schätzchen auf Kätzchen". Weil sie so hübsch sind und auf vorjährigen vermoderten Erlenkätzchen wachsen. Die Becherchen erreichen maximal 1 cm Durchmesser. Im Vergleich dazu sind die Stiele oft auffallend lang. Makroskopisch kaum zu unterscheiden ist der Haselkätzchen-Becherling *Ciboria coryli*, wobei zu bedenken ist, dass der hier gezeigte Erlenkätzchen-Becherling auch auf Haselkätzchen wächst. Um sicher zu gehen, ist also ein wenig Mikroskopieraufwand erforderlich. Die Sporen der beiden Arten unterscheiden sich deutlich in ihrer Größe. Mehr dazu [finden Sie hier >](/pilze/ciboria-amentacea-erlenkätzchen-becherling)
 
 <div style="clear:  both"></div>
 
