@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-02.02.2022 [Heterobasidion annosum - Wurzelschwamm](/pilze/heterobasidion-annosum-wurzelschwamm)  
+03.02.2022 [Lepista nuda - Violetter Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling)  
+02.02.2022 [Heterobasidion annosum - Wurzelschwamm](/pilze/heterobasidion-annosum-wurzelschwamm)\
 01.02.2022 [Spilopodia nervisequa - Wegerich-Schwarzaderpilz](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz)
 
 31.01.2022 [Thielaviopsis basicola - Schwarzwurzelfäule](/pilze/thielaviopsis-basicola-schwarzwurzelfäule)\
