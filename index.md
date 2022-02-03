@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.02.20222: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Violette Rötelritterling *Lepista nuda*! Mal wieder ein "richtiger" Pilz, und das Anfang Februar!  Erfahrene Pilzfreunde wissen, dass er nicht nur im Spätherbst zu finden ist sondern auch im Fühjahr eine allerdings sehr viel bescheidenere Wachstumsphase hat. Violett sind bei ihm vor allem die Lamellen und auch am Stiel findet man diese im Pilzreich nicht gerade häufige Farbe. Er ist ein kompakter, fleischiger Pilz mit gedrängt stehenden, am Stiel ausgebuchtet angewachsenen Lamellen und angenehm würzigem Geruch. Er wächst in Laub- und Nadelwäldern, gern an Wegrändern, auch in Parks und Gärten und ist nahezu überall häufig. Ihn im Februar zu finden ist allerdings eine seltene Ausnahme und der ungewöhnlich milden Witterung zu verdanken. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/heterobasidion_annosum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
