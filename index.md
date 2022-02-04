@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 04.02.2022 ist die Geweihförmige Holzkeule Xylaria hypoxylon, eine unverwechselbare Art, die das ganze Jahr über an totem Lauholz zu finden ist. Am häufigsten besiedelt sie scharenweise die Schnittflächen von Buchenstümpfen. Der zierliche Pilz zeigt sich in zwei unterschiedlichen Stadien. Als komplett schwarze Keulchen oder mit weißen, beim Anschnippen stäubenden Spitzen. Diese sind so vielgestaltig, dass kaum einmal eine einer anderen gleicht. Der weiße Staub besteht aus ungeschlechlichen Sporen, die komplett schwarzen Fruchtkörper produzieren dagegen die sexuellen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
