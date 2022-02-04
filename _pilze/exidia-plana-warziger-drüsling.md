@@ -13,7 +13,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/exidia_plana_02_dg.jpg
 ---
-Glibberige Pilze mit gehirnartig geformter Oberfläche findet man u. a. in der Gattung Drüslinge (Exidia), die zu den Ständerpilzen (Basidiomyzeten) gehört. Der Name *Drüslinge* kommt von drüsenartigen Wärzchen auf der sporenbildenden Fruchtschicht. Die mit Abstand häufigste Art dieser Gattung ist der Warzige Drüsling *Exidia plana*, der auch unter dem Volksnamen „Hexenbutter“ bekannt ist.
+Glibberige Pilze mit gehirnartig geformter Oberfläche findet man u. a. in der Gattung Drüslinge (*Exidia*), die zu den Ständerpilzen (Basidiomyzeten) gehört. Der Name *Drüslinge* kommt von drüsenartigen Wärzchen auf der sporenbildenden Fruchtschicht. Die mit Abstand häufigste Art dieser Gattung ist der Warzige Drüsling *Exidia plana*, der auch unter dem Volksnamen *„Hexenbutter“* bekannt ist.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/exidia_plana_01_dg.jpeg" %}
@@ -25,7 +25,7 @@ Dieser bildet auf abgestorbenen Laubholzästen zusammenhängende Flächen, die g
 {% include bild.html datei="/bilder/exidia_plana_03_dg.jpg" %}
 {% include abbildung_ende.html legende="Äste mit eingetrockneten Frucktkörpern sehen wie lackiert aus" %}
 
-Um den wissenschaftlichen Namen hat es ein fortwährendes Verwirrspiel gegeben. Das oben als Synonym angegebene [Taxon](Taxon "Glossar") Exidia glandulosa wurde sowohl für den Warzigen als auch für den Abgestutzten Drüsling verwendet. Ungeachtet der oft wechselnden Auffassungen, welcher der Namen der jeweils gültige sein soll, steht im Fundkorb
+Um den wissenschaftlichen Namen hat es ein fortwährendes Verwirrspiel gegeben. Das oben als Synonym angegebene [Taxon](Taxon "Glossar") *Exidia glandulosa* wurde sowohl für den Warzigen als auch für den Abgestutzten Drüsling verwendet. Ungeachtet der oft wechselnden Auffassungen, welcher der Namen der jeweils gültige sein soll, steht im Fundkorb
 
 Exidia plana für den Warzigen Drüsling\
-Exidia truncata für Abgestutzten Drüsling
+[Exidia truncata](/pilze/exidia-truncata-abgestutzter-drüsling) für Abgestutzten Drüsling
