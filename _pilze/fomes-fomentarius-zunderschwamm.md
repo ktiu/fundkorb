@@ -6,7 +6,7 @@ beschreibung:
   familie: Polyporaceae
   erlaeuterung: fomentarius = zum Zunder gehörig
 profil:
-  aktualisiert: 2021-05-21
+  aktualisiert: 2022-02-04
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -15,7 +15,7 @@ literatur:
   - url: https://de.wikipedia.org/wiki/Zunderschwamm
   - url: http://www.tintling.com/pilzbuch/arten/f/Fomes_fomentarius.html
 ---
-Den Namen Zunderschwamm trägt dieser auffällige Porling zu Recht. Unsere Vorfahren benutzten ihn tatsächlich zum Feuermachen und gingen dabei wie folgt vor: man trennte einen Fruchtkörper vom Stamm und schlug mit Feuersteinen Funken in seinen Myzelialkern, die darin ein kurzzeitiges Glimmen auslösten. Ein Kollege stand bereits mit trockenen Grashalmen bereit, hielten diese an den glimmenden [Myzelialkern](Myzelialkern "Glossar") und entfachte durch leichtes Blasen das gewünschte Feuer.
+Den Namen Zunderschwamm trägt dieser auffällige Porling zu Recht. Unsere Vorfahren benutzten ihn tatsächlich zum Feuermachen und gingen dabei wie folgt vor: man trennte einen Fruchtkörper vom Stamm und schlug mit Feuersteinen Funken in seinen [Myzelialkern](Myzelialkern "Glossar"), die darin ein kurzzeitiges Glimmen auslösten. Ein Kollege stand bereits mit trockenen Grashalmen bereit, hielten diese an den glimmenden Myzelialkern und entfachte durch leichtes Blasen das gewünschte Feuer.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/fomes_fomentarius_02_dg.jpg" nocrop=true %}
