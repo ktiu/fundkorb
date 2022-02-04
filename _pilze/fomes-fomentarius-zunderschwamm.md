@@ -14,6 +14,7 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Zunderschwamm
   - url: http://www.tintling.com/pilzbuch/arten/f/Fomes_fomentarius.html
+  - {}
 ---
 Den Namen Zunderschwamm trägt dieser auffällige Porling zu Recht. Unsere Vorfahren benutzten ihn tatsächlich zum Feuermachen und gingen dabei wie folgt vor: man trennte einen Fruchtkörper vom Stamm und schlug mit Feuersteinen Funken in seinen [Myzelialkern](Myzelialkern "Glossar"), die darin ein kurzzeitiges Glimmen auslösten. Ein Kollege stand bereits mit trockenen Grashalmen bereit, hielten diese an den glimmenden Myzelialkern und entfachte durch leichtes Blasen das gewünschte Feuer.
 
