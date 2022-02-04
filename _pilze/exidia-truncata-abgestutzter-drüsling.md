@@ -24,4 +24,4 @@ Der Abgestutzte Drüsling kann unterschiedlich geformt sein, abhängig davon, ob
 
 *Exidia truncata* ist eine ganzjährige recht häufige und Feuchtigkeit liebende Art an Laubholz, nach eigener Beobachtung ganz überwiegend an Eiche. Die unregelmäßig geformten Einzelfruchtkörper können bis zu 5 cm Durchmesser erreichen und sind dunkelbraun bis schwarz gefärbt. Sie sind elastisch und von gallertiger Konsistenz, beim Vetrocknen bilden sie schwarze Krusten. 
 
-Ähnlich ist der [Kreisel-Drüsling *Exidia recisa*](/pilze/exidia-recisa-kreisel-drüsling-weidendrüsling), der an Weiden wächst.
+Ähnlich ist der [Kreisel-Drüsling *Exidia recisa*](/pilze/exidia-recisa-kreisel-drüsling-weidendrüsling), der an Weiden wächst.  Häufigste Art der Gattung ist der [Warzige Drüsling Exidia plana](/pilze/exidia-plana-warziger-drüsling).
