@@ -33,7 +33,7 @@ Diese beiden Abbildungen zeigen, woher der Pilz seinen Namen hat, doch der Hutra
 {% include bild.html datei="/bilder/fomitopsis_pinicola_07_dg.jpg" %}
 {% include abbildung_ende.html legende="Diese Abbildung zeigt die hell olivgelbe Trama und die hellgelbe Röhrenschicht im Anschnitt" %}
 
-Zur Unterscheidung vom manchmal ähnlich aussehenden Zunderschwamm kann man den seit alters her bekannten Streichholztest anwenden. Die Flamme lässt die trockene Kruste des Rotrandigen Baumschwamms klebrig werden. Die zähe holzige [Trama](Trama "Glossar") und die geschichteten Röhren sind blaßgelblich bis gelblich-bräunlich. Die Poren sind rundlich und sehr fein, etwa 3 – 6 pro Millimeter. Frische Pilze riechen unangenehm säuerlich.
+Zur Unterscheidung vom manchmal ähnlich aussehenden [Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm) kann man den seit alters her bekannten Streichholztest anwenden. Die Flamme lässt die trockene Kruste des Rotrandigen Baumschwamms klebrig werden. Die zähe holzige [Trama](Trama "Glossar") und die geschichteten Röhren sind blaßgelblich bis gelblich-bräunlich. Die Poren sind rundlich und sehr fein, etwa 3 – 6 pro Millimeter. Frische Pilze riechen unangenehm säuerlich.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/fomitopsis_pinicola_11_dg.jpg" %}
