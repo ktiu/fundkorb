@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-04.02.2022 [Xylaria hypoxylon - Geweihförmige Holzkeule](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)  
+05.02.2022 [Geastrum striatum - Kragenerdstern](/pilze/geastrum-striatum-kragen-erdstern)  
+04.02.2022 [Xylaria hypoxylon - Geweihförmige Holzkeule](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)\
 03.02.2022 [Lepista nuda - Violetter Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling)\
 02.02.2022 [Heterobasidion annosum - Wurzelschwamm](/pilze/heterobasidion-annosum-wurzelschwamm)\
 01.02.2022 [Spilopodia nervisequa - Wegerich-Schwarzaderpilz](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz)
