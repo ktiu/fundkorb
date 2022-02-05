@@ -14,6 +14,12 @@ footer_scripts:
 
 - - -
 
+05.02.20222: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kragenerdstern Geastrum striatum. Zugegeben: schön sehen die fotografierten Exemplare nicht mehr aus. Sie sind auch nicht mehr die jüngsten. Vermutlich stammen die beiden in frischem Zustand durchaus attraktiven Exemplare aus dem Herbst des vergangenen Jahres. Gut zu erkennen ist noch die deutlich gestreifte Sporenauslassöffnung. Auf leichten Druck hat sich sogar noch ein weißliches Sporenwölkchen entlocken lassen. Auch der typische Kragen an der Unterseite der Sporenkugel (auf dem Foto nicht zu sehen) war vorhanden. Der Pilz gilt als selten, ist in Dietzenbach aber Jahr für Jahr an mehreren Fundstellen präsent. Wie er in perfektem Zustand auszusehen hat, ist im Pilzporträt zu sehen > (Dieter Gewalt)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -33,30 +39,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 04.02.2022 ist die Geweihförmige Hol
 03.02.20222: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Violette Rötelritterling *Lepista nuda*! Mal wieder ein "richtiger" Pilz, und das Anfang Februar!  Erfahrene Pilzfreunde wissen, dass er nicht nur im Spätherbst zu finden ist sondern auch im Fühjahr eine allerdings sehr viel bescheidenere Wachstumsphase hat. Violett sind bei ihm vor allem die Lamellen und auch am Stiel findet man diese im Pilzreich nicht gerade häufige Farbe. Er ist ein kompakter, fleischiger Pilz mit gedrängt stehenden, am Stiel ausgebuchtet angewachsenen Lamellen und angenehm würzigem Geruch. Er wächst in Laub- und Nadelwäldern, gern an Wegrändern, auch in Parks und Gärten und ist nahezu überall häufig. Ihn im Februar zu finden ist allerdings eine seltene Ausnahme und der ungewöhnlich milden Witterung zu verdanken. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/heterobasidion_annosum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.02.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wurzelschwamm *Heterobasidion annosum*. Bei Forstleuten ist er nicht gern gesehen. Als gefürchteter Baumschädling kann er Millionenschäden anrichten. Er befällt vor allem Fichten, Tannen und Kiefern und verursacht eine intensive Weißfäule, die nicht selten mit starkem Harzfluss verbunden ist. Die Infektion erfolgt meist über die Baumwurzeln. Neuerdings werden wirtsabhängig drei europäische Arten unterschieden, die sich morphologisch nur unwesentlich unterscheiden. Auch die Sporenmaße sind nahezu identisch. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/heterobasidion-annosum-wurzelschwamm)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/spilopodia_nervisequa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.02.2022: Es herrscht gerade eine Jahreszeit, die man nicht unbedngt als optimale Pilzsaison bezeichnen kann. Mangels "richtiger Pilze" haben daher auch kleine Ascomyzeten, die man mit bloßem Auge entweder übersieht oder nur mit einer Lupe erkennen kann, eine Chance, aktueller [Fundkorbpilz](AA "Glossar-") zu werden. Heute ist es *Spilopodia nervisequa*, der Wegerich-Schwarzaderpilz, der während der Wintermonate auf den Blättern von Spitzwegerich wächst. Er bildet seine winzigen Becherchen vor allem auf den durchgängigen Blattnerven. Auf der Blattfläche findet man häufig noch eine andere ebenfalls [phytopathogene](phytopathogen "Glossar") Pilzart. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz)
 
 <div style="clear:  both"></div>
 
