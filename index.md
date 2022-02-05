@@ -8,13 +8,19 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
+
+
 - - -
 
 {% include pilzsuche.html %}
 
 - - -
 
-05.02.20222: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kragenerdstern Geastrum striatum. Zugegeben: schön sehen die fotografierten Exemplare nicht mehr aus. Sie sind auch nicht mehr die jüngsten. Vermutlich stammen die beiden in frischem Zustand durchaus attraktiven Exemplare aus dem Herbst des vergangenen Jahres. Gut zu erkennen ist noch die deutlich gestreifte Sporenauslassöffnung. Auf leichten Druck hat sich sogar noch ein weißliches Sporenwölkchen entlocken lassen. Auch der typische Kragen an der Unterseite der Sporenkugel (auf dem Foto nicht zu sehen) war vorhanden. Der Pilz gilt als selten, ist in Dietzenbach aber Jahr für Jahr an mehreren Fundstellen präsent. Wie er in perfektem Zustand auszusehen hat, ist im Pilzporträt zu sehen > (Dieter Gewalt)
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/geastrum_striatum_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.02.20222: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kragenerdstern *Geastrum striatum*. Zugegeben: schön sehen die fotografierten Exemplare nicht mehr aus. Sie sind auch nicht mehr die jüngsten. Vermutlich stammen die beiden in frischem Zustand durchaus attraktiven Exemplare aus dem Herbst des vergangenen Jahres. Gut zu erkennen ist noch die deutlich gestreifte Sporenauslassöffnung. Auf leichten Druck hat sich sogar noch ein weißliches Sporenwölkchen entlocken lassen. Auch der typische Kragen an der Unterseite der Sporenkugel (auf dem Foto nicht zu sehen) war vorhanden. Der Pilz gilt als selten, ist in Dietzenbach aber Jahr für Jahr an mehreren Fundstellen präsent. Wie er in perfektem Zustand auszusehen hat, [zeigt unser Pilzporträt >](/pilze/geastrum-striatum-kragen-erdstern) (Dieter Gewalt)
 
 <div style="clear:  both"></div>
 
