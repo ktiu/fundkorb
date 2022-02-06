@@ -65,7 +65,7 @@ published: true
 19.09.2021 [Lyophyllum decastes - Büschelrasling](/pilze/lyophyllum-decastes-büschelrasling)\
 15.09.2021 [Oudemansiella mucida - Beringter Schleimrübling](/pilze/oudemansiella-mucida-beringter-schleimrübling)\
 13.09.2021 [Hericium erinaceum - Igel-Stachelbart](/pilze/hericium-erinaceum-igel-stachelbart)\
-12.09.2021 [Boletus radicans - Wurzelnder Bitterröhrling](/boletus-radicans-wurzelnder-bitterröhrling)\
+12.09.2021 [Boletus radicans - Wurzelnder Bitterröhrling](/pilze/boletus-radicans-wurzelnder-bitterröhrling)\
 10.09.2021 [Phaeolus schweinitzii - Kiefernbraunporling](/pilze/phaeolus-spadiceus-kiefernbraunporling)\
 09.09.2021 [Scleroderma citrinum - Dickschaliger Kartoffelbovist](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)\
 07.09.2021 [Ascobolus crenulatus - Grüngelber Kotling](/pilze/ascobolus-crenulatus-grüngelber-kotling)\
