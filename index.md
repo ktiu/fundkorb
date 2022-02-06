@@ -8,11 +8,22 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-
-
 - - -
 
 {% include pilzsuche.html %}
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/meruliopsis_corium_02_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/meruliopsis_corium_03_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+06.02.2022: Aktueller Fundkorbpilz ist der Gemeine Lederfältling *Meruliopsis corium.* An abgestorbenen Ästen verschiedener Laubhölzer bildet er bis zu 1 mm dicke, häutige, lange Überzüge, die sich lederartig weich anfühlen und leicht ablösen lassen. Man findet sie an am Boden liegenden oder noch am Baum befindlichen Ästen und Zweigen. Die Hutkanten an den Rändern können ein bis zwei Zentimeter abstehen. Im Alter oder bei Trockenheit färben sie sich hellbraun und werden rissig. Der Pilz ist ganzjährig zu finden und besonders in den Wintermonaten sehr häufig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/neuer-name-meruliopsis-corium-gemeiner-lederfältling)
+
+<div style="clear:  both"></div>
 
 - - -
 
