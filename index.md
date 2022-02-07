@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/coprinellus_micaceus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-07.02.2022: Aktueller Fundkorbpilz ist der Glimmertintling *Coprinellus micaceus*. Zu seinen Merkmalen gehört büscheliges Wachstum in Verbindung mit Holz und die glimmerige Hutbekleidung. Von ähnlichen Arten unterscheidet er sich durch seine auf ganzer Länge bereiften Stiele, was mit Lupe gut erkennbar ist. Der Glimmertintlinge ist einer der häufigsten Pilze überhaupt und das ganze frostfreie Jahr über zu finden, in Wäldern ebenso wie außerhalb. (Dieter Gewalt) 
+07.02.2022: Aktueller Fundkorbpilz ist der Glimmertintling *Coprinellus micaceus*. Zu seinen Merkmalen gehört büscheliges Wachstum in Verbindung mit Holz und die glimmerige Hutbekleidung. Diese Eigenschaften weisen auch andere sogenannte *"Flockentintlinge"* auf, so dass eine sichere  Unterscheidung schwierig ist. Klassischer Doppelgänger ist der Weidentintling, der keinesfalls nur bei Weiden wächst. Der Glimmertintling ist einer der häufigsten Pilze überhaupt und das ganze Jahr über zu finden, in Wäldern ebenso wie außerhalb. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/coprinellus-micaceus-glimmertintling)
 
