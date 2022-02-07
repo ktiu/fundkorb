@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinellus_micaceus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.02.2022: Aktueller Fundkorbpilz ist der Glimmertintling *Coprinellus micaceus*. Zu seinen Merkmalen gehört büscheliges Wachstum in Verbindung mit Holz und die glimmerige Hutbekleidung. Von ähnlichen Arten unterscheidet er sich durch seine auf ganzer Länge bereiften Stiele, was mit Lupe gut erkennbar ist. Der Glimmertintlinge ist einer der häufigsten Pilze überhaupt und das ganze frostfreie Jahr über zu finden, in Wäldern ebenso wie außerhalb. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/coprinellus-micaceus-glimmertintling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/meruliopsis_corium_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/meruliopsis_corium_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
@@ -22,40 +34,6 @@ footer_scripts:
 06.02.2022: Aktueller Fundkorbpilz ist der Gemeine Lederfältling *Meruliopsis corium.* An abgestorbenen Ästen verschiedener Laubhölzer bildet er bis zu 1 mm dicke, häutige, lange Überzüge, die sich lederartig weich anfühlen und leicht ablösen lassen. Man findet sie an am Boden liegenden oder noch am Baum befindlichen Ästen und Zweigen. Die Hutkanten an den Rändern können ein bis zwei Zentimeter abstehen. Im Alter oder bei Trockenheit färben sie sich hellbraun und werden rissig. Der Pilz ist ganzjährig zu finden und besonders in den Wintermonaten sehr häufig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/neuer-name-meruliopsis-corium-gemeiner-lederfältling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/geastrum_striatum_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.02.20222: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kragenerdstern *Geastrum striatum*. Zugegeben: schön sehen die fotografierten Exemplare nicht mehr aus. Sie sind auch nicht mehr die jüngsten. Vermutlich stammen die beiden in frischem Zustand durchaus attraktiven Exemplare aus dem Herbst des vergangenen Jahres. Gut zu erkennen ist noch die deutlich gestreifte Sporenauslassöffnung. Auf leichten Druck hat sich sogar noch ein weißliches Sporenwölkchen entlocken lassen. Auch der typische Kragen an der Unterseite der Sporenkugel (auf dem Foto nicht zu sehen) war vorhanden. Der Pilz gilt als selten, ist in Dietzenbach aber Jahr für Jahr an mehreren Fundstellen präsent. Wie er in perfektem Zustand auszusehen hat, [zeigt unser Pilzporträt >](/pilze/geastrum-striatum-kragen-erdstern) (Dieter Gewalt)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 04.02.2022 ist die Geweihförmige Holzkeule Xylaria hypoxylon, eine unverwechselbare Art, die das ganze Jahr über an totem Lauholz zu finden ist. Am häufigsten besiedelt sie scharenweise die Schnittflächen von Buchenstümpfen. Der zierliche Pilz zeigt sich in zwei unterschiedlichen Stadien. Als komplett schwarze Keulchen oder mit weißen, beim Anschnippen stäubenden Spitzen. Diese sind so vielgestaltig, dass kaum einmal eine einer anderen gleicht. Der weiße Staub besteht aus ungeschlechtlichen Sporen, die komplett schwarzen Fruchtkörper produzieren dagegen die sexuellen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.02.20222: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Violette Rötelritterling *Lepista nuda*! Mal wieder ein "richtiger" Pilz, und das Anfang Februar!  Erfahrene Pilzfreunde wissen, dass er nicht nur im Spätherbst zu finden ist sondern auch im Fühjahr eine allerdings sehr viel bescheidenere Wachstumsphase hat. Violett sind bei ihm vor allem die Lamellen und auch am Stiel findet man diese im Pilzreich nicht gerade häufige Farbe. Er ist ein kompakter, fleischiger Pilz mit gedrängt stehenden, am Stiel ausgebuchtet angewachsenen Lamellen und angenehm würzigem Geruch. Er wächst in Laub- und Nadelwäldern, gern an Wegrändern, auch in Parks und Gärten und ist nahezu überall häufig. Ihn im Februar zu finden ist allerdings eine seltene Ausnahme und der ungewöhnlich milden Witterung zu verdanken. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
 
 <div style="clear:  both"></div>
 
