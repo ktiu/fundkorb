@@ -25,4 +25,4 @@ Wenn man so etwas an einem am Boden liegenden berindeten Eichenstamm sieht und b
 {% include bild.html datei="/bilder/bulgaria_inquinans_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Ähnliche Fruchtkörper bildet der Abgstutzte Drüsling *Exidia truncata*, der jedoch kein schwarzes Sporenpulver produziert  und beim Anfassen keine Finger schmutzig macht. Ihn findet man auch an Eichen, aber eher an dünneren Ästen und Zweigen.
+Ähnliche Fruchtkörper bildet der [Abgstutzte Drüsling *Exidia truncata*](/pilze/exidia-truncata-abgestutzter-drüsling), der jedoch kein schwarzes Sporenpulver produziert  und beim Anfassen keine Finger schmutzig macht. Ihn findet man auch an Eichen, aber eher an dünneren Ästen und Zweigen.
