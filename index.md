@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phlebia_tremellosa_01_cw.jpg" %}
+{% include abbildung_ende.html %}
+
+07.02.2022: Aktueller Fundkorbpilz ist der Gallertfleischige Fältling *Phlebia tremellosa*. Eine wenig beachtete aber leicht kenntliche Art. Dabei lohnt es sich durchaus, sich diesen merkwürdigen von oben unauffälligen Pilz näher zu betrachten. Es ist seine Unterseite, die durch ihre vielfälige Faltenstruktur überrascht. Hinzu kommt noch die gallertige Beschaffenheit und die Eigenschaft, dass sich die Fruchtkörper kälter anfühlen als die umgebende Luft. Manche gewinnen ihm sogar Speisepilzqualitäten ab, was ich für meinen Geschmack nicht bestätigen kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinellus_micaceus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
