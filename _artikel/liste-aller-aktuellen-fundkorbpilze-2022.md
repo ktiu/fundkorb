@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-08.02.2022 [Phlebia tremellosa - Gallertfleischiger Fältling](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)  
+09.02.2022 [Nectria cinnabarina - Zinnoberroter Pustelpilz](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)  
+08.02.2022 [Phlebia tremellosa - Gallertfleischiger Fältling](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)\
 07.02.2022 [Coprinellus micaceus - Glimmertintling](/pilze/coprinellus-micaceus-glimmertintling)\
 06.02.2022 [Meruliopsis corium - Gemeiner Lederfältling](/pilze/neuer-name-meruliopsis-corium-gemeiner-lederfältling)\
 05.02.2022 [Geastrum striatum - Kragenerdstern](/pilze/geastrum-striatum-kragen-erdstern)\
