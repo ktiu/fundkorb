@@ -14,9 +14,15 @@ footer_scripts:
 
 - - -
 
+09.02.2022: Aktueller Fundkorbpilz ist der Zinnoberrote Pustelpilz Nectria cinnabarina. Er gehört zu den Ascomyzeten (Schlauchpilzen) und erscheint in einer seltenen Haupt- und einer sehr häufigen Nebenfruchform. Abgebildet ist letztere, die als hell-oranges bis rosafarbenes Konidienstadium erscheint und berindete Laubholzäste und -zweige in ganzer Länge besiedeln kann. Die einzelnen Pusteln haben Durchmesser von 0,2 bis 1 mm Durchmesser. Die sexuelle Hauptfruchtform wird nur wenig größer und erinnert im Aussehen an winzige Himbeeren. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phlebia_tremellosa_01_cw.jpg" %}
 {% include abbildung_ende.html %}
+
+
 
 07.02.2022: Aktueller Fundkorbpilz ist der Gallertfleischige Fältling *Phlebia tremellosa*. Eine wenig beachtete aber leicht kenntliche Art. Dabei lohnt es sich durchaus, sich diesen merkwürdigen von oben unauffälligen Pilz näher zu betrachten. Es ist seine Unterseite, die durch ihre vielfälige Faltenstruktur überrascht. Hinzu kommt noch die gallertige Beschaffenheit und die Eigenschaft, dass sich die Fruchtkörper kälter anfühlen als die umgebende Luft. Manche gewinnen ihm sogar Speisepilzqualitäten ab, was ich für meinen Geschmack nicht bestätigen kann. (Dieter Gewalt)
 
@@ -33,19 +39,6 @@ footer_scripts:
 07.02.2022: Aktueller Fundkorbpilz ist der Glimmertintling *Coprinellus micaceus*. Zu seinen Merkmalen gehört büscheliges Wachstum in Verbindung mit Holz und die glimmerige Hutbekleidung. Diese Eigenschaften weisen auch andere sogenannte *"Flockentintlinge"* auf, so dass eine sichere  Unterscheidung schwierig ist. Klassischer Doppelgänger ist der Weidentintling, der keinesfalls nur bei Weiden wächst. Der Glimmertintling ist einer der häufigsten Pilze überhaupt und das ganze Jahr über zu finden, in Wäldern ebenso wie außerhalb. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/coprinellus-micaceus-glimmertintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/meruliopsis_corium_02_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/meruliopsis_corium_03_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-06.02.2022: Aktueller Fundkorbpilz ist der Gemeine Lederfältling *Meruliopsis corium.* An abgestorbenen Ästen verschiedener Laubhölzer bildet er bis zu 1 mm dicke, häutige, lange Überzüge, die sich lederartig weich anfühlen und leicht ablösen lassen. Man findet sie an am Boden liegenden oder noch am Baum befindlichen Ästen und Zweigen. Die Hutkanten an den Rändern können ein bis zwei Zentimeter abstehen. Im Alter oder bei Trockenheit färben sie sich hellbraun und werden rissig. Der Pilz ist ganzjährig zu finden und besonders in den Wintermonaten sehr häufig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/neuer-name-meruliopsis-corium-gemeiner-lederfältling)
 
 <div style="clear:  both"></div>
 
