@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_igniarius_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.02.2022:  Aktueller [Fundkorbpilz](AA "Glossar") ist einer, den man jederzeit in unserer Dietzenbacher Parkanlage antreffen kann. Direkt am Kinderspielplatz stehen drei Weiden, an deren Stämmen in unterschiedlichen Höhen die Gemeinen Feuerschwämme (*Phellinus igniarius*) wachsen. Die Gärtner haben sie schon mehrfach abgeschlagen, mit dem Ergebnis, dass sie um so reichlicher nachwachsen. Eine absolut kontraproduktive Maßnahme. Im Zweifelsfall haben sie den Tod der Weiden damit nur beschleunigt, denn irgendwann werden die Pilze ihren Wirt zum Absterben gebracht haben. Das kann noch Jahre dauern, denn unsere Feuerschwämme sind sanfte Killer. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/nectria_cinnabarina_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 07.02.2022: Aktueller Fundkorbpilz ist der Gallertfleischige Fältling *Phlebia tremellosa*. Eine wenig beachtete aber leicht kenntliche Art. Dabei lohnt es sich durchaus, sich diesen merkwürdigen von oben unauffälligen Pilz näher zu betrachten. Es ist seine Unterseite, die durch ihre vielfälige Faltenstruktur überrascht. Hinzu kommt noch die gallertige Beschaffenheit und die Eigenschaft, dass sich die Fruchtkörper kälter anfühlen als die umgebende Luft. Manche gewinnen ihm sogar Speisepilzqualitäten ab, was ich für meinen Geschmack nicht bestätigen kann. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinellus_micaceus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.02.2022: Aktueller Fundkorbpilz ist der Glimmertintling *Coprinellus micaceus*. Zu seinen Merkmalen gehört büscheliges Wachstum in Verbindung mit Holz und die glimmerige Hutbekleidung. Diese Eigenschaften weisen auch andere sogenannte *"Flockentintlinge"* auf, so dass eine sichere  Unterscheidung schwierig ist. Klassischer Doppelgänger ist der Weidentintling, der keinesfalls nur bei Weiden wächst. Der Glimmertintling ist einer der häufigsten Pilze überhaupt und das ganze Jahr über zu finden, in Wäldern ebenso wie außerhalb. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/coprinellus-micaceus-glimmertintling)
 
 <div style="clear:  both"></div>
 
