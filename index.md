@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/fomes_fomentarius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.02.2022:  Aktueller [Fundkorbpilz](AA "Glossar") ist der Zunderschwamm *Fomes fomentarius*. Seinen Namen trägt der auffällige Pilz völlig zu Recht. Unsere Vorfahren benutzten ihn tatsächlich zum Feuermachen und gingen dabei wie folgt vor: man trennte einen Fruchtkörper vom Stamm und schlug mit Feuersteinen Funken in seinen [Myzelialkern](Myzel "Glossar"), die darin ein kurzzeitiges Glimmen auslösten. Ein Kollege stand bereits mit trockenen Grashalmen bereit, hielten diese an den glimmenden Myzelialkern und entfachte durch leichtes Blasen das gewünschte Feuer. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_igniarius_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
