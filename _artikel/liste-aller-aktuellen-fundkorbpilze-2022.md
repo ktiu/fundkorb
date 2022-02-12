@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-11.02.2022 [Fomes fomentarius - Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)  
+12.02.2022 [Arrhenia spathulata - Spatelförmiger Adermoosling](/pilze/arrhenia-spathulata-spatelförmiger-adermoosling)  
+11.02.2022 [Fomes fomentarius - Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)\
 10.02.2022 [Phellinus igniarius - Gemeiner Feuerschwamm](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)\
 09.02.2022 [Nectria cinnabarina - Zinnoberroter Pustelpilz](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)\
 08.02.2022 [Phlebia tremellosa - Gallertfleischiger Fältling](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)\
