@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/bjerkandera_adusta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-14.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Angebrannte Rauchporling *Bjerkandera adusta*. An seinem feinporigen aschgrauen Hymenium, das auf Druck oder Reiben schwärzlich verfärbt, ist er leicht zu erkennen. Diesem Merkmal verdankt er auch seinen Namen. Die filzige Oberseite ist hell- bis rußbraun gefärbt. Der Pilz wächst an totem Laubholz, vor allem Buche, und ist sehr häufig. (Dieter Gewalt)
+14.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Angebrannte Rauchporling *Bjerkandera adusta*. An seinem feinporigen aschgrauen [Hymenium](Hymenium "Glossar"), das auf Druck oder Reiben schwärzlich verfärbt, ist er leicht zu erkennen. Diesem Merkmal verdankt er auch seinen Namen. Die filzige Oberseite ist hell- bis rußbraun gefärbt. Der Pilz wächst an totem Laubholz, vor allem Buche, und ist sehr häufig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/bjerkandera-adusta-angebrannter-rauchporling)
 
