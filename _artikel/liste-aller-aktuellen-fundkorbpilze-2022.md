@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-13.02.2022 [Trochila ilicina - Stechpalmen-Deckelbecherchen](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen)  
+14.02.2022 [Bjerkandera adusta - Angebrannter Rauchporling](/pilze/bjerkandera-adusta-angebrannter-rauchporling)  
+13.02.2022 [Trochila ilicina - Stechpalmen-Deckelbecherchen](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen)\
 12.02.2022 [Arrhenia spathulata - Spatelförmiger Adermoosling](/pilze/arrhenia-spathulata-spatelförmiger-adermoosling)\
 11.02.2022 [Fomes fomentarius - Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)\
 10.02.2022 [Phellinus igniarius - Gemeiner Feuerschwamm](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)\
