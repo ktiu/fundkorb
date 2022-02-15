@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/blumeria_graminis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Echte Mehltau *Blumeria graminis* (Synonym: *Erysiphe graminis*). Er erscheint als weißer mehliger Belag auf verschiedenen Gräsern und ist zur Zeit auf fast jeder Rasenfläche zu beobachten. Je nach Gras- oder Getreideart werden verschiedene Formen unterschieden. Hoher Stickstoffeintrag auf landwirtschaftlich genutzten Flächen erhöht die Infektionsgefahr und kann, wenn auch die Ähren befallen werden, zu Ertragsverlusten führen. Echter Mehltau ist intakten Ökosystemen ein lebenswichtiger Nahrungslieferant für Marienkäfer. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/blumeria-graminis-echter-mehltau)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bjerkandera_adusta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,30 +45,6 @@ footer_scripts:
 13.02.2022: Der aktuelle [Fundkorbpilz](AA "Glossar") von heute ist noch winziger als der von gestern. Den muss man wirklich mit der Lupe suchen, ist aber überall häufig, wo es Stechpalmen gibt. Es ist das Stechpalmen-Deckelbecherchen *Trochila ilicina*. Man muss es auf abgefallenen vetrockneten Stechpalmenblättern suchen. Mit bloßem Auge erkennt man nur über die gesamte Blattoberseite verteilte schwarze Punkte. Um sie genauer zu betrachten, bedarf es schon einer mindestens 20-fach vergrößernden Lupe. Die im Blattgewebe eingesenkten becherförmigen Fruchtkörper werden 0,3 bis 0,5 mm groß und sind mit einem Deckelchen verschlossen, das bei Reife aufreißt, um die Sporen freizusetzen. Übrigens: sobald es wieder richtige Pilze gibt, werde ich Euch nicht mehr so oft mit solchem Kleinkram belästigen, aber vielleicht findet's der eine oder andere auch gar nicht so uninteressant. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/arrhenia_spathulata_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.02.2022: Den heutigen [Fundkorbpilz](AA "Glossar") hätte man ohne gezieltes Suchen vermutlich gar nicht entdeckt. Zu winzig sind die kleinen Fruchtkörperchen des Spatelförmigen Adermooslings, die zudem in den Mosspolstern verborgen sind. Das Foto zeigt *Arrhenia spathulata* stark vergrößert. Sie werden etwa 0,5 bis 1,5 cm groß. Laut Literatur soll es sich um eine seltene Art handeln. Ich würde diese Behauptung mit einem Fragezeichen versehen und sie eher als "übersehen" bezeichnen. In unserer Dietzenbacher Parkanlage ist sie jedenfalls an mehreren Stellen präsent, und zwar besonders während der Wintermonate in frostfreien Phasen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/arrhenia-spathulata-spatelförmiger-adermoosling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/fomes_fomentarius_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.02.2022:  Aktueller [Fundkorbpilz](AA "Glossar") ist der Zunderschwamm *Fomes fomentarius*. Seinen Namen trägt der auffällige Pilz völlig zu Recht. Unsere Vorfahren benutzten ihn tatsächlich zum Feuermachen und gingen dabei wie folgt vor: man trennte einen Fruchtkörper vom Stamm und schlug mit Feuersteinen Funken in seinen [Myzelialkern](Myzel "Glossar"), die darin ein kurzzeitiges Glimmen auslösten. Ein Kollege stand bereits mit trockenen Grashalmen bereit, hielten diese an den glimmenden Myzelialkern und entfachte durch leichtes Blasen das gewünschte Feuer. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)
 
 <div style="clear:  both"></div>
 
