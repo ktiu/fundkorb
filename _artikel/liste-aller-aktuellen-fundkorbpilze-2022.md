@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-15.02.2022 [Blumeria graminis - Echter Mehltau](/pilze/blumeria-graminis-echter-mehltau)  
+16.02.2022 [Encoelia furfuracea - Haselbecherling](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)  
+15.02.2022 [Blumeria graminis - Echter Mehltau](/pilze/blumeria-graminis-echter-mehltau)\
 14.02.2022 [Bjerkandera adusta - Angebrannter Rauchporling](/pilze/bjerkandera-adusta-angebrannter-rauchporling)\
 13.02.2022 [Trochila ilicina - Stechpalmen-Deckelbecherchen](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen)\
 12.02.2022 [Arrhenia spathulata - Spatelförmiger Adermoosling](/pilze/arrhenia-spathulata-spatelförmiger-adermoosling)\
