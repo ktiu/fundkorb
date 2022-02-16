@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/encoelia_furfuracea_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
-16.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Haselbecherling *Encoelia furfuracea*. Ich musste ziemlich lange suchen am Dietzenbacher Wollwiesenteich, um die kleinen Ascomyzeten zu finden. Es war dann gleich ein ganzes Nest. Die büschelige Wuchsweise und ihre kleiige Außenseite machn sie in Verbindung mit ihrem Hauptwirt (Hasel) unverwechselbar. Die einzelnen Fruchtkörper werden eta 0,5 - maximal 2 cm groß.  (Dieter Gewalt)
+16.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Haselbecherling *Encoelia furfuracea*. Ich musste ziemlich lange suchen am Dietzenbacher Wollwiesenteich, um die kleinen [Ascomyzeten](Ascomyzeten "Glossar") zu finden. Es war dann gleich ein ganzes Nest. Die büschelige Wuchsweise und ihre kleiige Außenseite machen sie in Verbindung mit ihrem Hauptwirt (Hasel) unverwechselbar. Die einzelnen Fruchtkörper werden etwa 0,5 - maximal 2 cm groß.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)
 
