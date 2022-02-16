@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/encoelia_furfuracea_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+16.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Haselbecherling *Encoelia furfuracea*. Ich musste ziemlich lange suchen am Dietzenbacher Wollwiesenteich, um die kleinen Ascomyzeten zu finden. Es war dann gleich ein ganzes Nest. Die büschelige Wuchsweise und ihre kleiige Außenseite machn sie in Verbindung mit ihrem Hauptwirt (Hasel) unverwechselbar. Die einzelnen Fruchtkörper werden eta 0,5 - maximal 2 cm groß.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/blumeria_graminis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 14.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Angebrannte Rauchporling *Bjerkandera adusta*. An seinem feinporigen aschgrauen [Hymenium](Hymenium "Glossar"), das auf Druck oder Reiben schwärzlich verfärbt, ist er leicht zu erkennen. Diesem Merkmal verdankt er auch seinen Namen. Die filzige Oberseite ist hell- bis rußbraun gefärbt. Der Pilz wächst an totem Laubholz, vor allem Buche, und ist sehr häufig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/bjerkandera-adusta-angebrannter-rauchporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trochila_ilicina_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.02.2022: Der aktuelle [Fundkorbpilz](AA "Glossar") von heute ist noch winziger als der von gestern. Den muss man wirklich mit der Lupe suchen, ist aber überall häufig, wo es Stechpalmen gibt. Es ist das Stechpalmen-Deckelbecherchen *Trochila ilicina*. Man muss es auf abgefallenen vetrockneten Stechpalmenblättern suchen. Mit bloßem Auge erkennt man nur über die gesamte Blattoberseite verteilte schwarze Punkte. Um sie genauer zu betrachten, bedarf es schon einer mindestens 20-fach vergrößernden Lupe. Die im Blattgewebe eingesenkten becherförmigen Fruchtkörper werden 0,3 bis 0,5 mm groß und sind mit einem Deckelchen verschlossen, das bei Reife aufreißt, um die Sporen freizusetzen. Übrigens: sobald es wieder richtige Pilze gibt, werde ich Euch nicht mehr so oft mit solchem Kleinkram belästigen, aber vielleicht findet's der eine oder andere auch gar nicht so uninteressant. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen)
 
 <div style="clear:  both"></div>
 
