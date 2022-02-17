@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/colpoma_quercinum_02_frk.jpg" %}
+{% include abbildung_ende.html %}
+
+16.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Eichen-Schildbecherling *Colpoma quercinum*.  Der [Ascomyzet](Ascomyzeten "Glossar") bildet bildet seine schiffchenförmigen Fruchtkörperchen meist an noch hängenden Ästen und Zweigen. Sie entwickeln sich unter der Rinde und sprengen sie auf, wobei sie meist quer zur Längsrichtung des Astes angeordnet sind. Frisch gewachsene Exemplare zeigen ein graugrünes [Hymenium](Hymenium "Glossar") von etwa 5 - 15 x 3 - 8 mm Ausdehnung. Im Alter verkrusten sie und werden schwarz. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/colpoma-quercinum-eichen-schildbecherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/encoelia_furfuracea_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 15.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Echte Mehltau *Blumeria graminis* (Synonym: *Erysiphe graminis*). Er erscheint als weißer mehliger Belag auf verschiedenen Gräsern und ist zur Zeit auf fast jeder Rasenfläche zu beobachten. Je nach Gras- oder Getreideart werden verschiedene Formen unterschieden. Hoher Stickstoffeintrag auf landwirtschaftlich genutzten Flächen erhöht die Infektionsgefahr und kann, wenn auch die Ähren befallen werden, zu Ertragsverlusten führen. Echter Mehltau ist intakten Ökosystemen ein lebenswichtiger Nahrungslieferant für Marienkäfer. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/blumeria-graminis-echter-mehltau)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bjerkandera_adusta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Angebrannte Rauchporling *Bjerkandera adusta*. An seinem feinporigen aschgrauen [Hymenium](Hymenium "Glossar"), das auf Druck oder Reiben schwärzlich verfärbt, ist er leicht zu erkennen. Diesem Merkmal verdankt er auch seinen Namen. Die filzige Oberseite ist hell- bis rußbraun gefärbt. Der Pilz wächst an totem Laubholz, vor allem Buche, und ist sehr häufig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/bjerkandera-adusta-angebrannter-rauchporling)
 
 <div style="clear:  both"></div>
 
