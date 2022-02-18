@@ -14,11 +14,29 @@ footer_scripts:
 
 - - -
 
+##### **Unser Termin "Der Wald und seine Pilze" am 20. Februar muss wegen beträchtlicher Sturmgefahr leider ausfallen.**
+
+Er wird zu einem späteren Datum nachgeholt.
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/serpula_himantioides_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Wilde Hausschwamm *Serpula himantioides*. Er bildet kleinere bis ausgedehnte, leicht vom Substrat ablösbare Beläge auf totem Nadel-, seltener Laubholz. Diese [resupinat](resupinat "Glossar") wachsende netzartige (merulioide) Porenschicht ist hell bis dunkler braun gefärbt und geht an den Rändern in einen weißlichen Filz über. Der Pilz verursacht im befallenen Holz eine intensive Braunfäule. Ein ähnliches Erscheinungsbild hat der berüchtigte Echte Hausschwamm *Serpula lacrymans*, der in Gebäuden verbautem Holz beträchtliche Schäden anrichtet kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/serpula-himantioides-wilder-hausschwamm)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/colpoma_quercinum_02_frk.jpg" %}
 {% include abbildung_ende.html %}
 
-16.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Eichen-Schildbecherling *Colpoma quercinum*.  Der [Ascomyzet](Ascomyzeten "Glossar") bildet bildet seine schiffchenförmigen Fruchtkörperchen meist an noch hängenden Ästen und Zweigen. Sie entwickeln sich unter der Rinde und sprengen sie auf, wobei sie meist quer zur Längsrichtung des Astes angeordnet sind. Frisch gewachsene Exemplare zeigen ein graugrünes [Hymenium](Hymenium "Glossar") von etwa 5 - 15 x 3 - 8 mm Ausdehnung. Im Alter verkrusten sie und werden schwarz. (Dieter Gewalt)
+17.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Eichen-Schildbecherling *Colpoma quercinum*.  Der [Ascomyzet](Ascomyzeten "Glossar") bildet bildet seine schiffchenförmigen Fruchtkörperchen meist an noch hängenden Ästen und Zweigen. Sie entwickeln sich unter der Rinde und sprengen sie auf, wobei sie meist quer zur Längsrichtung des Astes angeordnet sind. Frisch gewachsene Exemplare zeigen ein graugrünes [Hymenium](Hymenium "Glossar") von etwa 5 - 15 x 3 - 8 mm Ausdehnung. Im Alter verkrusten sie und werden schwarz. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/colpoma-quercinum-eichen-schildbecherling)
 
