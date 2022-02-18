@@ -14,7 +14,7 @@ hauptbild:
   datei: /bilder/galerina_clavata_01_dg.jpg
   legende: 28.04.2016 Rasenfläche über einer Tiefgarage, Dietzenbach
 ---
-Ich habe die hübschen kleinen Pilzchen zuerst für Samthäubchen (Gattung Conocybe) gehalten. Für Aufklärung sorgte die mikroskopische Nachprüfung. Samthäubchen haben glatte Sporen, Häublinge warzige. Die Artbestimmung übernahm Hermine Lotz-Winter, die auch das Mikrofoto lieferte.
+Ich habe die hübschen kleinen Pilzchen zuerst für Samthäubchen (Gattung *Conocybe*) gehalten. Für Aufklärung sorgte die mikroskopische Nachprüfung. Samthäubchen haben glatte Sporen, Häublinge warzige. Die Artbestimmung übernahm *Hermine Lotz-Winter*, die auch das Mikrofoto lieferte.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/galerina_clavata_02_hl.jpg" %}
