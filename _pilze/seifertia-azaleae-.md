@@ -21,7 +21,7 @@ Wer betrachtet sich schon bei der Suche nach Pilzen Rhododendronknospen mit der 
 
 Überhaupt ist es nicht einfach, Informationen über die Art einzuholen. Auf der [Arbofox-Internetseite](https://www.arbofux.de/knospensterben-bei-rhododendron.html) findet man  die Beschreibung des Schadbildes, das der Pilz an den Rhododendronknospen verursacht: 
 
-> "Die Blütenknospen der Rhododendren sind im Laufe des Winters und Frühjahrs verbräunt bis schwarz gefärbt, abgestorben, und öffnen sich nicht. Auf der Knospenoberfläche finden sich dunkle, etwa 1 bis 2 mm lange haarartige Pilzstrukturen (Koremium bzw. Synnema), die an den Enden kugelig auslaufen. Verursacht wird das Knospensterben durch einen Pilz (Seifertia azaleae), der ins-besondere bei der Eiablage der Rhododendronzikade (*Graphocephala coccinea*) und der damit auftretenden Wunden übertragen wird."
+> "Die Blütenknospen der Rhododendren sind im Laufe des Winters und Frühjahrs verbräunt bis schwarz gefärbt, abgestorben, und öffnen sich nicht. Auf der Knospenoberfläche finden sich dunkle, etwa 1 bis 2 mm lange haarartige Pilzstrukturen (Koremium bzw. Synnema), die an den Enden kugelig auslaufen. Verursacht wird das Knospensterben durch einen Pilz (Seifertia azaleae), der insbesondere bei der Eiablage der Rhododendronzikade (*Graphocephala coccinea*) und der damit auftretenden Wunden übertragen wird."
 
 Der Rhododendronbusch, an dem wir die befallenen Knospen gefunden haben, steht unmittelbar vor der Haustür unserer Wohnanlage in Dietzenbach im Carré Rodgaustraße. Näheres zur Einordnung hat Hermine Lotz-Winter wie folgt zusammengefasst:
 
