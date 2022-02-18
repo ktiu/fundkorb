@@ -4,9 +4,10 @@ beschreibung:
   deutsch: Blutroter Borstenscheibling
   referenz: "(Pers.) Donk 1959 "
   erlaeuterung: cruenta = blutrot
+  familie: Hymenochaetaceae
 profil:
-  aktualisiert: 2020-09-06
-  autor_in: Hymenochaetaceae
+  aktualisiert: 2022-02-18
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/hymenochaete_cruenta_01_gb.jpg
