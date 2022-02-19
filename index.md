@@ -21,6 +21,18 @@ Er wird zu einem späteren Datum nachgeholt.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gloeophyllum_odoratum_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Fenchelporling *Gloeophyllum odoratum*. Er bildet mehrjährige dicke, wulstige oder klumpige, konsolenförmige Fruchtkörper an totem Fichtenholz. Oft findet man ihn auf den Schnittflächen, auf denen er zu umfangreichen Konglomeraten zusammenwachsen kann. Frische Fruchtkörper wie auch die Zuwachskanten älterer Exemplare sind gelborange bis zimtbraun gefärbt. In Verbindung mit seinem typischen Fenchelgeruch (von manchen auch als anisartig wahrgenommen) machen ihn diese Eigenschaften unverwechselbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gloeophyllum-odoratum-fenchelporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/serpula_himantioides_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,30 +51,6 @@ Er wird zu einem späteren Datum nachgeholt.
 17.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Eichen-Schildbecherling *Colpoma quercinum*.  Der [Ascomyzet](Ascomyzeten "Glossar") bildet bildet seine schiffchenförmigen Fruchtkörperchen meist an noch hängenden Ästen und Zweigen. Sie entwickeln sich unter der Rinde und sprengen sie auf, wobei sie meist quer zur Längsrichtung des Astes angeordnet sind. Frisch gewachsene Exemplare zeigen ein graugrünes [Hymenium](Hymenium "Glossar") von etwa 5 - 15 x 3 - 8 mm Ausdehnung. Im Alter verkrusten sie und werden schwarz. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/colpoma-quercinum-eichen-schildbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/encoelia_furfuracea_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-16.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Haselbecherling *Encoelia furfuracea*. Ich musste ziemlich lange suchen am Dietzenbacher Wollwiesenteich, um die kleinen [Ascomyzeten](Ascomyzeten "Glossar") zu finden. Es war dann gleich ein ganzes Nest. Die büschelige Wuchsweise und ihre kleiige Außenseite machen sie in Verbindung mit ihrem Hauptwirt (Hasel) unverwechselbar. Die einzelnen Fruchtkörper werden etwa 0,5 - maximal 2 cm groß.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/blumeria_graminis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Echte Mehltau *Blumeria graminis* (Synonym: *Erysiphe graminis*). Er erscheint als weißer mehliger Belag auf verschiedenen Gräsern und ist zur Zeit auf fast jeder Rasenfläche zu beobachten. Je nach Gras- oder Getreideart werden verschiedene Formen unterschieden. Hoher Stickstoffeintrag auf landwirtschaftlich genutzten Flächen erhöht die Infektionsgefahr und kann, wenn auch die Ähren befallen werden, zu Ertragsverlusten führen. Echter Mehltau ist intakten Ökosystemen ein lebenswichtiger Nahrungslieferant für Marienkäfer. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/blumeria-graminis-echter-mehltau)
 
 <div style="clear:  both"></div>
 
