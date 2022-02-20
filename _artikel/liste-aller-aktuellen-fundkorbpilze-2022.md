@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-19.02.2022 [Gloeophyllum odoratum - Fenchelporling](/pilze/gloeophyllum-odoratum-fenchelporling)  
+20.02.2022 [Psathyrella spadiceogrisea - Schmalblättriger Faserling, Früher Mürbling](/pilze/psathyrella-spadiceogrisea-schmalblättriger-faserling-früher-mürbling)  
+19.02.2022 [Gloeophyllum odoratum - Fenchelporling](/pilze/gloeophyllum-odoratum-fenchelporling)\
 18.02.2022 [Serpula himantioides - Wilder Hausschwamm](/pilze/serpula-himantioides-wilder-hausschwamm)\
 17.02.2022 [Colpoma quercinum - Eichen-Schildbecherling](/pilze/colpoma-quercinum-eichen-schildbecherling)\
 16.02.2022 [Encoelia furfuracea - Haselbecherling](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)\
