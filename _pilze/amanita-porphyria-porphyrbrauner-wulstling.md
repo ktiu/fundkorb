@@ -20,7 +20,7 @@ Der Porphybraune Wulstling ist ein Pilz der Nadelwälder. Er gehört nicht gerad
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amanita_porphyria_03_hs.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/amanita_porphyria_04_hs.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="2 Fotos:Hans Stern" %}
+{% include abbildung_ende.html legende="2 Fotos: Hans Stern" %}
 
 Seine Hüte werden bis zu 8 cm breit und sind porphyr-, violett- oder graubraun gefärbt. Auf der Oberfläche bleiben häufig etwa gleichfarbige oder etwas hellere Hautfetzen (Reste der [Gesamthülle](Velum "Glossar")) zurück. Der bis zu 9 cm lange Stiel ist ähnlich wie der Hut gefärbt und unter dem oberseits glatten Ring genattert. Er endet in einer breiten Knolle, die in einer meist sehr knappen Scheide steckt.
 
