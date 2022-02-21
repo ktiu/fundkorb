@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/polyporus_brumalis_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
-21.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Winterporling *Polyporus brumalis*, eine häufige Art, die [saprobiontisch](<saprobiontisch "Glossar">) an Ästen, Zweigen oder Stubben von Laubhölzern wächst. Ab März/April, wenn auch der *Maiporling* erscheint, könnte man ihn mit diesem verwechseln. Genaues Hinschauen hilft, dies zu vermeiden. Der Winterporling hat deutlich größere Poren als der Maiporling, dessen Poren so winzig sind, dass sie mit bloßem Auge kaum zu erkennen sind. Beide sind sehr zäh und kommen daher als Speisepilze nicht in Frage. (Dieter Gewalt)
+21.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Winterporling *Polyporus brumalis*, eine häufige Art, die [saprobiontisch](saprobiontisch "Glossar") an Ästen, Zweigen oder Stubben von Laubhölzern wächst. Ab März/April, wenn auch der *Maiporling* erscheint, könnte man ihn mit diesem verwechseln. Genaues Hinschauen hilft, dies zu vermeiden. Der Winterporling hat deutlich größere Poren als der Maiporling, dessen Poren so winzig sind, dass sie mit bloßem Auge kaum zu erkennen sind. Beide sind sehr zäh und kommen daher als Speisepilze nicht in Frage. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
 
