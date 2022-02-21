@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_brumalis_03_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+21.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Winterporling *Polyporus brumalis*, eine häufige Art, die [saprobiontisch](<saprobiontisch "Glossar">) an Ästen, Zweigen oder Stubben von Laubhölzern wächst. Ab März/April, wenn auch der *Maiporling* erscheint, könnte man ihn mit diesem verwechseln. Genaues Hinschauen hilft, dies zu vermeiden. Der Winterporling hat deutlich größere Poren als der Maiporling, dessen Poren so winzig sind, dass sie mit bloßem Auge kaum zu erkennen sind. Beide sind sehr zäh und kommen daher als Speisepilze nicht in Frage. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/psathyrella_spadiceogrisea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 19.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Fenchelporling *Gloeophyllum odoratum*. Er bildet mehrjährige dicke, wulstige oder klumpige, konsolenförmige Fruchtkörper an totem Fichtenholz. Oft findet man ihn auf den Schnittflächen, auf denen er zu umfangreichen Konglomeraten zusammenwachsen kann. Frische Fruchtkörper wie auch die Zuwachskanten älterer Exemplare sind gelborange bis zimtbraun gefärbt. In Verbindung mit seinem typischen Fenchelgeruch (von manchen auch als anisartig wahrgenommen) machen ihn diese Eigenschaften unverwechselbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gloeophyllum-odoratum-fenchelporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/serpula_himantioides_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Wilde Hausschwamm *Serpula himantioides*. Er bildet kleinere bis ausgedehnte, leicht vom Substrat ablösbare Beläge auf totem Nadel-, seltener Laubholz. Diese [resupinat](resupinat "Glossar") wachsende netzartige (merulioide) Porenschicht ist hell bis dunkler braun gefärbt und geht an den Rändern in einen weißlichen Filz über. Der Pilz verursacht im befallenen Holz eine intensive Braunfäule. Ein ähnliches Erscheinungsbild hat der berüchtigte Echte Hausschwamm *Serpula lacrymans*, der in Gebäuden verbautem Holz beträchtliche Schäden anrichtet kann. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/serpula-himantioides-wilder-hausschwamm)
 
 <div style="clear:  both"></div>
 
