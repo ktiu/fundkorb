@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/p/Polyporus_brumalis.html
 ---
-Zwei Stielporlingsarten geben sich im pilzkundlichen Jahreskalender kurzzeitig die Hand. Der Winterporling *Polyporus brumalis* erscheint Ende September, wird im Oktober häufig, hält die Wintermonate über durch und beendet sein Wachstum üblicherweise im März/April. Dies ist die Zeit, in welcher der Maiporling *Polyporus ciliatus* seine bis Sommeranfang dauernde Vegetationsperiode beginnt, so dass man beide kurzzeitig gemeinsam beobachten kann, manchmal sogar nebeneinander am gleichen Holz.
+Zwei Stielporlingsarten geben sich im pilzkundlichen Jahreskalender kurzzeitig die Hand. Der Winterporling *Polyporus brumalis* erscheint Ende September, wird im Oktober häufig, hält die Wintermonate über durch und beendet sein Wachstum üblicherweise im März/April. Dies ist die Zeit, in welcher der [Maiporling *Polyporus ciliatus*](/pilze/polyporus-ciliatus-maiporling) seine bis Sommeranfang dauernde Vegetationsperiode beginnt, so dass man beide kurzzeitig gemeinsam beobachten kann, manchmal sogar nebeneinander am gleichen Holz.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/polyporus_brumalis_02_dg.jpg" nocrop=true gross=true %}
