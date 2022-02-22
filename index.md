@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/penicillium_digitatum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Grüne Schimmelpilz *Penicilium digitatum*. Zu dieser Jahreszeit ist es nicht immer leicht, täglich über einen Fund zu berichten. Doch selbst wenn man mal nicht draußen ist, kann man sogar im Haushalt fündig werden. Natürlich sollten Schimmelpilze, egal ob an Lebensmitteln oder Wänden, unbedingt vermieden oder schnellstens entsorgt werden. Wie zum Beispiel das hier gezeigte *Penicillium digitatum*, das vor allem an Zitrusfrüchten vorkommt. Ein wahrer Segen für die Menschheit ist dagegen der Schimmelpilz *Penicillium chrysogenum*, in dem *Alexander Fleming* 1928 den *Penicillin* genannten Wirkstoff entdeckt hat. Ohne dieses *Antibiotikum* gäbe es heute längst nicht so viele Menschen auf unserem Planeten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/penicillium-digitatum-grüner-schimmelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_brumalis_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
