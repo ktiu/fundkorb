@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/daedaleopsis_confragosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Rötende Tramete *Daedaleopsis confragosa*. Egal zu welcher Jahreszeit, in geeigneten Biotopen ist dieser häufige Pilz immer an totem Holz zu finden, vor allem an Weide, Birke oder Erle. Um ihn sicher zu erkennen, muss man auf dem porigen [Hymenophor](Hymenophor "Glossar") der sporenbildenden Unterseite reiben, wobei sich eine deutliche Rotfärbung zeigt. Das funktioniert natürlich nur bei frischen Fruchtkörpern. Die Oberseiten sind oft konzentrisch gezont, können aber auch ziemlich einheitlich strukturiert sein. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/daedaleopsis-confragosa-rötende-tramete)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/penicillium_digitatum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,30 +45,6 @@ footer_scripts:
 21.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Winterporling *Polyporus brumalis*, eine häufige Art, die [saprobiontisch](saprobiontisch "Glossar") an Ästen, Zweigen oder Stubben von Laubhölzern wächst. Ab März/April, wenn auch der *Maiporling* erscheint, könnte man ihn mit diesem verwechseln. Genaues Hinschauen hilft, dies zu vermeiden. Der Winterporling hat deutlich größere Poren als der Maiporling, dessen Poren so winzig sind, dass sie mit bloßem Auge kaum zu erkennen sind. Beide sind sehr zäh und kommen daher als Speisepilze nicht in Frage. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/psathyrella_spadiceogrisea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Schmalblättrige Faserling *Psathyrella spadiceogrisea*. Wegen seiner frühen Erscheinungszeit wird er auch Früher Mürbling genannt.  In diesem Jahr ist er besonders früh - kein Wunder bei derart milden Temperaturen! Im Gegensatz zu seinem Doppelgänger, dem Behangenen Faserling *Psathyrella candolleana*, ist er für die Küche kaum zu empfehlen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/psathyrella-spadiceogrisea-schmalblättriger-faserling-früher-mürbling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gloeophyllum_odoratum_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Fenchelporling *Gloeophyllum odoratum*. Er bildet mehrjährige dicke, wulstige oder klumpige, konsolenförmige Fruchtkörper an totem Fichtenholz. Oft findet man ihn auf den Schnittflächen, auf denen er zu umfangreichen Konglomeraten zusammenwachsen kann. Frische Fruchtkörper wie auch die Zuwachskanten älterer Exemplare sind gelborange bis zimtbraun gefärbt. In Verbindung mit seinem typischen Fenchelgeruch (von manchen auch als anisartig wahrgenommen) machen ihn diese Eigenschaften unverwechselbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gloeophyllum-odoratum-fenchelporling)
 
 <div style="clear:  both"></div>
 
