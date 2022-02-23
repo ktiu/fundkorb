@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-22.02.2022 [Penicillium digitatum - Grüner Schimmelpilz](/pilze/penicillium-digitatum-grüner-schimmelpilz)  
+23.02.2022 [Daedaleopsis confragosa - Rötende Tramete](/pilze/daedaleopsis-confragosa-rötende-tramete)  
+22.02.2022 [Penicillium digitatum - Grüner Schimmelpilz](/pilze/penicillium-digitatum-grüner-schimmelpilz)\
 21.02.2022 [Polyporus brumalis - Winterporling](/pilze/polyporus-brumalis-winterporling)\
 20.02.2022 [Psathyrella spadiceogrisea - Schmalblättriger Faserling, Früher Mürbling](/pilze/psathyrella-spadiceogrisea-schmalblättriger-faserling-früher-mürbling)\
 19.02.2022 [Gloeophyllum odoratum - Fenchelporling](/pilze/gloeophyllum-odoratum-fenchelporling)\
