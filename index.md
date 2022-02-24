@@ -15,36 +15,24 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypholoma_fasciculare.jpg" %}
+{% include abbildung_ende.html %}
+
+24.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Grünblättrige Schwefelkopf *Hypholoma fasciculare*. Mit drei kleinen Büscheln ist er in unserer Dietzenbacher Parkanlage aufgetaucht. Ermöglicht wurde das Wachstum durch eine anhaltend milde, frostfreie Periode. Wegen der ungewöhnlichen Erscheinungszeit wurden auch Mikromerkmale und der bittere Geschmack überprüft. Das Foto zeigt das Grüppchen mit den größten Fruchtkörpern. Es wurde am 23.02. aufgenommen. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/daedaleopsis_confragosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 23.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Rötende Tramete *Daedaleopsis confragosa*. Egal zu welcher Jahreszeit, in geeigneten Biotopen ist dieser häufige Pilz immer an totem Holz zu finden, vor allem an Weide, Birke oder Erle. Um ihn sicher zu erkennen, muss man auf dem porigen [Hymenophor](Hymenophor "Glossar") der sporenbildenden Unterseite reiben, wobei sich eine deutliche Rotfärbung zeigt. Das funktioniert natürlich nur bei frischen Fruchtkörpern. Die Oberseiten sind oft konzentrisch gezont, können aber auch ziemlich einheitlich strukturiert sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/daedaleopsis-confragosa-rötende-tramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/penicillium_digitatum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Grüne Schimmelpilz *Penicilium digitatum*. Zu dieser Jahreszeit ist es nicht immer leicht, täglich über einen Fund zu berichten. Doch selbst wenn man mal nicht draußen ist, kann man sogar im Haushalt fündig werden. Natürlich sollten Schimmelpilze, egal ob an Lebensmitteln oder Wänden, unbedingt vermieden oder schnellstens entsorgt werden. Wie zum Beispiel das hier gezeigte *Penicillium digitatum*, das vor allem an Zitrusfrüchten vorkommt. Ein wahrer Segen für die Menschheit ist dagegen der Schimmelpilz *Penicillium chrysogenum*, in dem *Alexander Fleming* 1928 den *Penicillin* genannten Wirkstoff entdeckt hat. Ohne dieses *Antibiotikum* gäbe es heute längst nicht so viele Menschen auf unserem Planeten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/penicillium-digitatum-grüner-schimmelpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_brumalis_03_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-21.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Winterporling *Polyporus brumalis*, eine häufige Art, die [saprobiontisch](saprobiontisch "Glossar") an Ästen, Zweigen oder Stubben von Laubhölzern wächst. Ab März/April, wenn auch der *Maiporling* erscheint, könnte man ihn mit diesem verwechseln. Genaues Hinschauen hilft, dies zu vermeiden. Der Winterporling hat deutlich größere Poren als der Maiporling, dessen Poren so winzig sind, dass sie mit bloßem Auge kaum zu erkennen sind. Beide sind sehr zäh und kommen daher als Speisepilze nicht in Frage. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
 
 <div style="clear:  both"></div>
 
