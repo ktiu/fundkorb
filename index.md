@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/ganoderma_adspersum_05.jpg" %}
 {% include abbildung_ende.html %}
 
-25.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist Wulsige Lackporling *Ganoderma adspersum.* Wir beobachten ihn schon seit gut einem Jahr am Fuß eines lebenden Ahornbaums. Da er schattige Wuchsorte meidet, passt er natürlich gut in unsere Dietzenbacher Parkanlage. Inwieweit er den betroffenen Baum schädigen wird, bleibt abzuwarten. Von einer seit ca. 20 Jahren befallenen Linde wissen wir, dass sie noch immer einen gesunden Eindruck macht. Im Gegensatz zum wesentlich häufigeren Flachen Lackporling lässt sich beim Wulstigen die Hutkruste nicht mit dem Fingernagel eindrücken. (Dieter Gewalt) 
+25.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Wulstige Lackporling *Ganoderma adspersum.* Wir beobachten ihn schon seit gut einem Jahr am Fuß eines lebenden Ahornbaums. Da er schattige Wuchsorte meidet, passt er natürlich gut in unsere Dietzenbacher Parkanlage. Inwieweit er den betroffenen Baum schädigen wird, bleibt abzuwarten. Von einer seit ca. 20 Jahren befallenen Linde wissen wir, dass sie noch immer einen gesunden Eindruck macht. Im Gegensatz zum wesentlich häufigeren Flachen Lackporling lässt sich beim Wulstigen die Hutkruste nicht mit dem Fingernagel eindrücken. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/ganoderma-adspersum-wulstiger-lackporling)
 
