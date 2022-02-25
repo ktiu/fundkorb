@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-24.02.2024 [Hypholoma fasciculare - Grünbblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)  
+25.02.2022 [Ganoderma adspersum - Wulstiger Lackporling](/pilze/ganoderma-adspersum-wulstiger-lackporling)  
+24.02.2024 [Hypholoma fasciculare - Grünbblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)\
 23.02.2022 [Daedaleopsis confragosa - Rötende Tramete](/pilze/daedaleopsis-confragosa-rötende-tramete)\
 22.02.2022 [Penicillium digitatum - Grüner Schimmelpilz](/pilze/penicillium-digitatum-grüner-schimmelpilz)\
 21.02.2022 [Polyporus brumalis - Winterporling](/pilze/polyporus-brumalis-winterporling)\
