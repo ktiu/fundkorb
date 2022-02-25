@@ -14,12 +14,12 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Habichtspilz
 ---
-In der Gattung Sarcodon (Fleischstachelinge) fallen vor allem zwei Arten durch ihre grobwarzigen und abstehenden Hutschuppen auf, die nicht leicht auseinanderzuhalten sind: der Fichten- und der [Kiefern-Habichtspilz](/pilze/sarcodon-squamosus-kiefern-habichtspilz). Die Begleitbäume spielen sicher mehr als nur eine hinweisgebende Rolle. Das zeigt auch ein Blick auf die Verbreitungskarten. Der Fichten-Habichtspilz bevorzugt wohl eindeutig Fichten und Tannen und ist vor allem [kollin](kollin "Glossar") bis [montan](montan "Glossar") verbreitet, kann aber durchaus auch in der Ebene und bei Kiefern erscheinen. Der sehr viel seltenere Gallenstacheling Sarcodon scabrosus hat meist einen feinfilzigen, erst im Alter und dann vorwiegend in der Mitte schuppigen Hut und ist aufgrund seines bitteren und gleichzeitig sehr scharfen Geschmacks bestens charakterisiert.
+In der Gattung *Sarcodon* (Fleischstachelinge) fallen vor allem zwei Arten durch ihre grobwarzigen und abstehenden Hutschuppen auf, die nicht leicht auseinanderzuhalten sind: der Fichten- und der [Kiefern-Habichtspilz](/pilze/sarcodon-squamosus-kiefern-habichtspilz). Die Begleitbäume spielen sicher mehr als nur eine hinweisgebende Rolle. Das zeigt auch ein Blick auf die Verbreitungskarten. Der Fichten-Habichtspilz bevorzugt wohl eindeutig Fichten und Tannen und ist vor allem [kollin](kollin "Glossar") bis [montan](montan "Glossar") verbreitet, kann aber durchaus auch in der Ebene und bei Kiefern erscheinen. Der sehr viel seltenere Gallenstacheling Sarcodon scabrosus hat meist einen feinfilzigen, erst im Alter und dann vorwiegend in der Mitte schuppigen Hut und ist aufgrund seines bitteren und gleichzeitig sehr scharfen Geschmacks bestens charakterisiert.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/sarcodon_imbricatus_03_dg.jpg" gross=true %}
 {% include bild.html datei="/bilder/sarcodon_squamosus_02_dg.jpg" gross=true %}
-{% include abbildung_ende.html legende="Sarcodon imbricatus -- Sarcodon squamotus (DGfM-Verbreitungskarten Deutschland)" %}
+{% include abbildung_ende.html legende="Sarcodon imbricatus -- Sarcodon squamosus (DGfM-Verbreitungskarten Deutschland)" %}
 
 <div class="table-responsive">
   <table class="table">
