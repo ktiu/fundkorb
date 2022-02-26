@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cyclaneusma_minus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.02.2022: Um einen aktuellen [Fundkorbpilz](AA "Glossar") zu finden, genügt mir ein kurzer Ausflug in den Park, den ich praktisch vor der Haustür habe. Ich brauche nur ein paar Kiefernnadeln aufzuheben, um fündig zu werden. Um das Kiefernnadel-Polsterbecherchen *Cyclaneusma minus* so zu sehen wie auf dem Foto, bedarf es allerdings schon einer gut vergrößernden Lupe. Es gehört zu den Schlauchpilzen (Ascomyzeten), ähnelt im Aussehen einer Spaltlippe (Gattung Lophodermium) und verursacht ein als Kiefernnadelbräune (auch Naemacyclus-Nadelschütte) bekanntes Schadbild, das vor allen an Nadeln der Schwarzkiefer zu beobachten ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ganoderma_adspersum_05.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 24.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Grünblättrige Schwefelkopf *Hypholoma fasciculare*. Mit drei kleinen Büscheln ist er in unserer Dietzenbacher Parkanlage aufgetaucht. Ermöglicht wurde das Wachstum durch eine anhaltend milde, frostfreie Periode. Wegen der ungewöhnlichen Erscheinungszeit wurden auch Mikromerkmale und der bittere Geschmack überprüft. Das Foto zeigt das Grüppchen mit den größten Fruchtkörpern. Es wurde am 23.02. aufgenommen. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/daedaleopsis_confragosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Rötende Tramete *Daedaleopsis confragosa*. Egal zu welcher Jahreszeit, in geeigneten Biotopen ist dieser häufige Pilz immer an totem Holz zu finden, vor allem an Weide, Birke oder Erle. Um ihn sicher zu erkennen, muss man auf dem porigen [Hymenophor](Hymenophor "Glossar") der sporenbildenden Unterseite reiben, wobei sich eine deutliche Rotfärbung zeigt. Das funktioniert natürlich nur bei frischen Fruchtkörpern. Die Oberseiten sind oft konzentrisch gezont, können aber auch ziemlich einheitlich strukturiert sein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/daedaleopsis-confragosa-rötende-tramete)
 
 <div style="clear:  both"></div>
 
