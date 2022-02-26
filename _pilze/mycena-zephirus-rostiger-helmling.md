@@ -34,6 +34,6 @@ Für mich ist der Rostige Helmling der zuverlässige Anzeiger für einen Wandel 
 
 Manchmal werden Helmlinge von einem Schimmelpilz befallen, der Rostige besonders oft. Es ist der Helmlingsschimmel [Spinellus fusiger](/pilze/spinellus-fusiger-helmlings-schimmel).
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/mycena_zephirus_-_spinellus_fusiger_01_dg-kopie.jpg" %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/spinellus_fusiger_-_mycena_zephirus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
