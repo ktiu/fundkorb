@@ -36,4 +36,4 @@ Manchmal werden Helmlinge von einem Schimmelpilz befallen, der Rostige besonders
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/spinellus_fusiger_-_mycena_zephirus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Helmlings-Schimmel Spinellus fusiger" %}
