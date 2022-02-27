@@ -14,6 +14,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/trametes_versicolor_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Schmetterlingstramete *Trametes versicolor*, einer der häufigsten Porlinge überhaupt und flächendeckend in ganz Mitteleuropa nachgewiesen. Der Pilz hat ein breites ökologisches Spektrum und kommt vor allem an toten Laubhözern vor. Wegen seiner attraktiven Zonierung wird er gern als Dekopilz oder für Gestecke verwendet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cyclaneusma_minus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -33,18 +43,6 @@ footer_scripts:
 25.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Wulstige Lackporling *Ganoderma adspersum.* Wir beobachten ihn schon seit gut einem Jahr am Fuß eines lebenden Ahornbaums. Da er schattige Wuchsorte meidet, passt er natürlich gut in unsere Dietzenbacher Parkanlage. Inwieweit er den betroffenen Baum schädigen wird, bleibt abzuwarten. Von einer seit ca. 20 Jahren befallenen Linde wissen wir, dass sie noch immer einen gesunden Eindruck macht. Im Gegensatz zum wesentlich häufigeren Flachen Lackporling lässt sich beim Wulstigen die Hutkruste nicht mit dem Fingernagel eindrücken. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/ganoderma-adspersum-wulstiger-lackporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypholoma_fasciculare.jpg" %}
-{% include abbildung_ende.html %}
-
-24.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Grünblättrige Schwefelkopf *Hypholoma fasciculare*. Mit drei kleinen Büscheln ist er in unserer Dietzenbacher Parkanlage aufgetaucht. Ermöglicht wurde das Wachstum durch eine anhaltend milde, frostfreie Periode. Wegen der ungewöhnlichen Erscheinungszeit wurden auch Mikromerkmale und der bittere Geschmack überprüft. Das Foto zeigt das Grüppchen mit den größten Fruchtkörpern. Es wurde am 23.02. aufgenommen. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)
 
 <div style="clear:  both"></div>
 
