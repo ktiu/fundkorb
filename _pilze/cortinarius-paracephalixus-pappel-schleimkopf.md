@@ -19,6 +19,7 @@ literatur:
   - text: "BRANDRUD, T.E. et al. (1989-2014): Cortinarius, Flora Photographica I-V:
       Nr. D04"
   - text: "LUDWIG, E. (2017): Pilzkompendium Bd. 4: Nr. 136.102, Tafel 915"
+  - url: https://www.mikroskopie-forum.de/index.php?topic=42205.msg311106#msg311106
 ---
 Eigentlich müsste der Pilz „Pappel-und-Weide-Schleimkopf“ heißen, denn zumindest in unserem Garten wächst er alljährlich im Oktober unter einer großen Salweide. Es handelt sich um eine sehr seltene Haarschleierlingsart, die in der Roten Liste von Deutschland in der Gefährdungsklasse D (Daten unzureichend), in der Roten Listen Baden-Württembergs (2005) mit R (extrem selten) und in derjenigen Bayerns (2010) überhaupt nicht geführt wird. Die Untergattung *Schleimköpfe (Phlegmacium)*, zu der auch der Pappel-Schleimkopf gehört, zeichnet sich durch Arten mit klebrigen bis schleimigen Hüten und trockenen Stielen aus.
 
