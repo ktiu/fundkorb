@@ -21,6 +21,7 @@ literatur:
       274-275"
   - text: "JAHN, H. (1979): Pilze die an Holz wachsen: Nr. 140"
   - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/phartigii.php
+  - url: https://www.mikroskopie-forum.de/index.php?topic=42629.msg314275#msg314275
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/phellinus_hartigii_02_bm.jpg" %}
