@@ -15,6 +15,7 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Geb%C3%A4nderter_Hainbuchen-Milchling
   - text: "German J. Krieglsteiner: Die Großpilze Baden-Württembergs Band 2, S. 399"
+  - url: https://www.mikroskopie-forum.de/index.php?topic=39135.msg287853#msg287853
 ---
 Für mich ist unter diesem Namen ein Pilz zu verstehen, der offenbar ausschließlich unter Hainbuchen wächst und wie auf dem Foto zu sehen eine konzentrisch gebänderte Hutzeichnung und dicht stehende Lamellen aufweist. Die weiße Milch verfärbt allmählich zu blass gelbgrün, ihr Geschmack wird als bitter schärflich beschrieben.  
 
