@@ -16,6 +16,7 @@ literatur:
       Nichtblätterpilze: Nr. 318. - Verlag Mykologia, Luzern"
   - text: "KRIEGLSTEINER, G.J. (2000): Die Großpilze Baden-Württembergs Band 1:
       458-459. – Verlag Eugen Ulmer, Stuttgart"
+  - url: Phellinus lundellii
 ---
 Bei dieser Feuerschwammart handelt sich um einen parasitisch lebenden Porling der borealen Klimazone, also z.B. der skandinavischen Waldgürtel. In unserer gemäßigten Zone kommt er nur sehr selten vor, und wenn, dann in höher gelegenen Moorwäldern. Unser Fund stammt aus einem Kiefern-Moorrandwald des Nordschwarzwaldes in knapp 700 m Höhe. Die Fruchtkörper wachsen an einer morschen, liegenden Moorbirke, ihrem typischen Substrat.
 
