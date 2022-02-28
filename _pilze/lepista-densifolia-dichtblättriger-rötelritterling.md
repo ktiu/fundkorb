@@ -16,6 +16,7 @@ literatur:
   - text: "BREITENBACH, J. & KRÄNZLIN, F. (1990): Pilze der Schweiz Bd. 3: Nr. 242"
   - text: "LUDWIG, E. (2001): Pilzkompendium Bd. 1: Nr. 40.6"
   - url: https://www.interhias.de/schwammerlseiten/bestimmungen/2014/tricholomataceae/fotoseiten/foto-125.html
+  - url: https://www.mikroskopie-forum.de/index.php?topic=42262.msg311530#msg311530
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/lepista_densifolia_01_bm.jpg" %}
