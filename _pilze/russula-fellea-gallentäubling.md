@@ -17,6 +17,7 @@ literatur:
   - url: https://de.wikipedia.org/wiki/Gallen-T%C3%A4ubling
   - url: " http://tintling.com/pilzbuch/arten/r/Russula_fellea.html"
   - {}
+  - url: https://www.mikroskopie-forum.de/index.php?topic=42277.msg311597#msg311597
 ---
 Eine in Deutschland recht häufig vorkommende Pilzart ist der Gallentäubling, der meist eine [Mykorrhizapilz](Mykorrhiza "Glossar") mit der Rotbuche eingeht und der von August bis zu den ersten Nachtfrösten im November wächst. Der Pilz ist äußerst scharf im Geschmack und riecht deutlich fruchtig, etwa wie Obstkompott.
 
