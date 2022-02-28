@@ -12,6 +12,8 @@ hauptbild:
   anzeige: true
   datei: /bilder/clavulinopsis_helvola_01_dg.jpg
   legende: '21.11.2021: Parkgelände "Campus" Heusenstamm (TK 5918.2.4)'
+literatur:
+  - url: https://www.mikroskopie-forum.de/index.php?topic=42737.msg315239#msg315239
 ---
 Unter den fünf in Deutschland nachgewiesenen gelben Wiesenkeulen der Gattung *Clavulinopsis* dürfte die *Goldgelbe* die häufigste mit unverzweigten Fruchtkörpern sein. Sie ist vor allem auf kurzgehaltenen moosigen Grasflächen zu finden. Bei unserem Fund in Heusenstamm waren sie auf einer Fläche von mindestens 50 m² in ungeheuren Mengen vorhanden. Ihre Erscheinungszeit ist September bis November.
 
