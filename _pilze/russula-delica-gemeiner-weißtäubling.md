@@ -21,6 +21,7 @@ literatur:
       V: Nr. 67a"
   - text: SCHWÖBEL, H. (1974):Die Täublinge. Beiträge zu ihrer Kenntnis und
       Verbreitung II. Z. Pilzk. 39:175ff.
+  - url: https://www.mikroskopie-forum.de/index.php?topic=41656.msg307187#msg307187
 ---
 Auf einer Wiese bei Keltern-Ellmendingen, Baden-Württemberg, fand ich Mitte Juli 2021 unter einer Birke mehrere reife Fruchtkörper des Gemeinen Weißtäublings. Diese recht häufige Pilzart findet man in Laub-, Misch- und Nadelwäldern, aber auch an Waldrändern oder außerhalb des Waldes, auf Lichtungen oder in Parks, wo sie eine [Mykorrhiza](Mykorrhiza "Glossar") mit Laubbäumen, ausnahmsweise mit Nadelbäumen, eingeht.
 
