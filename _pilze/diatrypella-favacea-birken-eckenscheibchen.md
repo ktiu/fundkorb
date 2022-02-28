@@ -10,8 +10,7 @@ profil:
 hauptbild:
   anzeige: false
   datei: /bilder/diatrypella_favacea_01_dg.jpg
-literatur:
-  - url: https://www.pilzforum.eu/board/thread/36257-diatrypella-favacea-an-erlenast-pp-0000/
+literatur: []
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/diatrypella_favacea_01_dg.jpg" nocrop=true %}
