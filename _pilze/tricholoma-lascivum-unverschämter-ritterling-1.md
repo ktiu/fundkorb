@@ -20,6 +20,7 @@ literatur:
   - text: "KIBBY, G. (2017): The genus Tricholoma in Britain. Geoffrey Kibby"
   - url: https://de.wikipedia.org/wiki/Unversch%C3%A4mter_Ritterling
   - url: http://tintling.com/pilzbuch/arten/t/Tricholoma_lascivum.html
+  - url: https://www.mikroskopie-forum.de/index.php?topic=39075.msg287445#msg287445
 ---
 Mitte Oktober 2021 fand ich in Schiltach im mittleren Schwarzwald auf einem alten Bahndamm unter Birke und Salweide eine größere Gruppe eines mittelgroßen Ritterlings mit weißem, mittig hellbräunlichem Hut und unangenehmem Geruch. Es handelte sich um den Unverschämten Ritterling.
 
