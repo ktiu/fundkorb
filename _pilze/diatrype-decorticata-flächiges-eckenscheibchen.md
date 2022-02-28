@@ -16,6 +16,7 @@ literatur:
       Deutschland. Südwestdeutsche Pilzrundschau, 51. Jg. Heft 2: 40-45"
   - text: "RAPPAZ, F. (1987): Taxonomie et nomenclature des Diatrypacées a asques
       octosporés. Mycologia Helvetica 2: 285-648"
+  - url: https://www.mikroskopie-forum.de/index.php?topic=41119.msg302935#msg302935
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/diatrype_decorticata_01_bm.jpg" %}
