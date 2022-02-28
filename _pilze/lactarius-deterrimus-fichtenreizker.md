@@ -19,6 +19,7 @@ literatur:
       2-7"
   - url: https://de.wikipedia.org/wiki/Fichten-Reizker
   - url: http://tintling.com/pilzbuch/arten/l/Lactarius_deterrimus.html
+  - url: https://www.mikroskopie-forum.de/index.php?topic=42361.msg312092#msg312092
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lactarius_deterrimus_01_nk.jpg" nocrop=true %}
