@@ -17,6 +17,7 @@ literatur:
   - url: " http://www.tintling.com/pilzbuch/arten/t/Tricholoma_atrosquamosum.html"
   - text: "CHRISTENSEN, M. & HEILMANN-CLAUSEN, J. (2013): The genus Tricholoma. -
       Fungi of Northern Europe - Vol. 4"
+  - url: https://www.mikroskopie-forum.de/index.php?topic=39325.msg289584#msg289584
 ---
 Mein Pilzfreund Hans Stern schickte mir im November 2020 ein [Exsikkat](Exsikkat "Glossar") des Schwarzschuppigen Ritterlings und bat mich um eine Nachbestimmung. Er hatte die Fruchtkörper auf Lehmboden bei Fichten und Kiefern gefunden und als *Tricholoma atrosquamosum* bestimmt. Meine sorgfältige Nachbestimmung führte ebenfalls eindeutig zum Schwarzschuppigen Ritterling.
 
