@@ -27,6 +27,7 @@ literatur:
   - text: "ROOBEEK, K. (2009): Aardtongen in de duinen van Noord-Kennemerland. 2005
       T/M 2008"
   - url: https://de.wikipedia.org/wiki/Erdzungenverwandte
+  - url: https://www.mikroskopie-forum.de/index.php?topic=42716.msg315054#msg315054
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/geoglossum_fallax_01_dg.jpg" nocrop=true %}
