@@ -18,6 +18,7 @@ literatur:
       V: Nr. 68"
   - text: "SCHWÖBEL, H. (1974): Die Täublinge. Beiträge zu ihrer Kenntnis und
       Verbreitung II. Z. Pilzk. 39:175-189"
+  - url: https://www.mikroskopie-forum.de/index.php?topic=42072.msg310182#msg310182
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_pallidospora_02_bm.jpg" %}
