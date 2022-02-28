@@ -22,6 +22,7 @@ literatur:
       – Centro de Estudios Micólogicos de Euskadi"
   - text: "SARNARI, M. (1998): Monografia illustrata del Genere Russula in Europa,
       Tomo Primo: 645-650. – AMB, Terni"
+  - url: https://www.mikroskopie-forum.de/index.php?topic=40951.msg301659#msg301659
 ---
 Im Spätherbst 2019 hatte ich das Glück, in meinem Pilzkartierungsgebiet NSG Essigberg den Gedrungenen Täubling *Russula torulosa* mehrfach zu finden. Diese recht seltene Art wuchs an mehreren Stellen in der Wacholderheide und im umgebenden Waldgürtel an hellen, teilweise sonnenbeschienenen Plätzen. Es handelt es sich dort um Pararendzina-Böden über Unterem Muschelkalk, also um gut durchlässige, basenreiche, warme Böden. Am gleichen Standort findet man z.B. den Weinroten Kiefernreizker *Lactarius sanguifluus* und den Satansröhrling *[Boletus satanas](/pilze/boletus-satanas-satansröhrling)*. Der typische Wuchsort unserer Art ist, wenn man diese Funde zu Grunde legt, ein lichter Wald oder eine baumbestandendene Heidelandschaft mit warmen, gut durchlässigen, basenreichen Böden. Als [Mykorrhizapartner](Mykorrhiza "Glossar") ist die Kiefer anzusehen.
 
