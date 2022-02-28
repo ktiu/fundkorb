@@ -12,10 +12,12 @@ hauptbild:
   anzeige: false
   datei: /bilder/diatrype_undulata_01_bm.jpg
 literatur:
+  - text: ""
+    url: https://www.pilzforum.eu/board/thread/58355-bestimmungshilfe-diatrype-undulata-kann-es-eigentlich-nicht-sein/?postID=558712#post558712
   - text: "GÖRKE, C. & LOTZ-WINTER, H. (2015): Reflektionen zur Gattung Diatrype in
-      Deutschland. Südwestdeutsche Pilzrundschau, 51. Jg. Heft 2: 40-45"
+      Deutschland. Südwestdeutsche Pilzrundschau, 51. Jg. Heft 2: 40-45 - "
   - text: "RAPPAZ, F. (1987): Taxonomie et nomenclature des Diatrypacées a asques
-      octosporés. Mycologia Helvetica 2: 285-648"
+      octosporés. Mycologia Helvetica 2: 285-648 - "
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/diatrype_undulata_01_bm.jpg" nocrop=true gross=true %}
