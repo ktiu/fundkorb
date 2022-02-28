@@ -16,6 +16,7 @@ literatur:
       Nichtblätterpilze: Nr. 46"
   - text: "JAHN, H. (1979): Pilze die an Holz wachsen: Nr. 62 "
   - url: https://de.wikipedia.org/wiki/Sch%C3%BCsself%C3%B6rmige_Mehlscheibe
+  - url: https://www.mikroskopie-forum.de/index.php?topic=42758.msg315362#msg315362
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/aleurodiscus_disciformis_01_bm.jpg" nocrop=true %}
