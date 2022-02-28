@@ -14,6 +14,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/g/Ganoderma_lucidum.html
   - text: "Terry Willard: Reishi, der Wunderpilz der alten Chinesen (Heyne, 1999)"
+  - url: https://www.mikroskopie-forum.de/index.php?topic=38095.msg280072#msg280072
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/ganoderma_lucidum_01_dg.jpg" %}
