@@ -13,6 +13,7 @@ hauptbild:
   datei: /bilder/lactarius_hepaticus_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/l/Lactarius_hepaticus.html
+  - url: https://www.mikroskopie-forum.de/index.php?topic=39054.msg287269#msg287269
 ---
 Es gibt eine recht große Anzahl brauner Milchlinge, die infolgedessen nicht immer leicht auseinanderzuhalten sind. Eine gewisse Vorsortierung kann man aufgrund ihres Vorkommens im Laub- oder Nadelwald treffen. In Nadelwäldern der Tiefebenen sind es vor allem diese Arten:
 
