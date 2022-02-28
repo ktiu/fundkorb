@@ -15,6 +15,7 @@ hauptbild:
   legende: "Foto: Bernd Miggel"
 literatur:
   - url: https://de.wikipedia.org/wiki/Verblassender_T%C3%A4ubling
+  - url: https://www.mikroskopie-forum.de/index.php?topic=41596.msg306596#msg306596
 ---
 Bei diesem Täubling "verblasst" nicht nur die Farbe, sondern auch der Geschmack. Der ist vor allem in den Lamellen zunächst deutlich aber erträglich zu spüren, doch die Schärfe lässt allmählich nach und verschwindet schließlich ganz. 
 
