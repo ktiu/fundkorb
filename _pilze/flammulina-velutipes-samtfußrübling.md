@@ -14,6 +14,7 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Gemeiner_Samtfu%C3%9Fr%C3%BCbling
   - url: http://tintling.com/pilzbuch/arten/c/Collybia_velutipes.html
+  - url: https://www.mikroskopie-forum.de/index.php?topic=39418.msg290382#msg290382
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
