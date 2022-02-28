@@ -16,6 +16,7 @@ literatur:
   - text: "KRÄNZLIN, F. (2005): Pilze der Schweiz Band 6: Nr. 31"
   - text: "KRIEGLSTEINER, G.J. (2000): Die Großpilze Baden-Württembergs Band 2:
       369-370"
+  - url: https://www.mikroskopie-forum.de/index.php?topic=41840.msg308620#msg308620
 ---
 Beim Grubigen Tannenmilchling handelt es sich um eine Art, die wir ausschließlich bei Weißtannen auf Kalkboden finden. Schaut man sich die Verbreitungskarte der DGFM für diese Art an, so erkennt man, dass der Schwarzwald einen ihrer Verbreitungsschwerpunkte darstellt. In der Roten Liste gefährdeter Pilze Deutschlands (2016) wird die Art als sogen. „Verantwortungsart“ ausgewiesen.
 
