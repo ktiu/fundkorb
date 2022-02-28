@@ -14,6 +14,7 @@ hauptbild:
 literatur:
   - url: http://aphyllopower.blogspot.com/2006/09/climacocystis-borealis-nrdlicher.html
   - url: https://de.wikipedia.org/wiki/Nordischer_Porling
+  - url: https://www.mikroskopie-forum.de/index.php?topic=41652.msg307111#msg307111
 ---
 Dieser auffällige Porling wuchs im Sommer 2017 in großer Zahl am Stamm einer morschen Tanne, und zwar am Rande des NSG Waldmoor-Torfstich bei Oberreichenbach in Baden-Württemberg. Man findet ihn recht häufig, und zwar überwiegend an alten Tannen oder Fichten, wo er als Schwächeparasit oder [Saprobiont](saprobiontisch "Glossar") eine Weißfäule erzeugt.
 
