@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_acetabulum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Hochgerippte Lorchel *Helvella acetabulum*. Wir sind ihr gestern an einem Waldwegrand begegnet, an dem wir sie seit drei Jahrzehnten an haargenau der gleichen Stelle finden. So früh wie in diesem Jahr haben wir sie allerdings noch nie gesehen. Üblicherweise erscheint sie ab März/April, aber der Klimawandel sorgt nun für signifikante Veränderungen. Es handelt sich um einen sehr attraktiven Pilz, der bis zu 8 cm hoch werden kann. Er wird auch Pokal-Rippenbecherling genannt. Er gilt zwar als essbar, ist aber ziemlich zähfleischig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/helvella-acetabulum-hochgerippte-lorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/trametes_versicolor_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -31,18 +43,6 @@ footer_scripts:
 26.02.2022: Um einen aktuellen [Fundkorbpilz](AA "Glossar") zu finden, genügt mir ein kurzer Ausflug in den Park, den ich praktisch vor der Haustür habe. Ich brauche nur ein paar Kiefernnadeln aufzuheben, um fündig zu werden. Um das Kiefernnadel-Polsterbecherchen *Cyclaneusma minus* so zu sehen wie auf dem Foto, bedarf es allerdings schon einer gut vergrößernden Lupe. Es gehört zu den Schlauchpilzen (Ascomyzeten), ähnelt im Aussehen einer Spaltlippe (Gattung Lophodermium) und verursacht ein als Kiefernnadelbräune (auch Naemacyclus-Nadelschütte) bekanntes Schadbild, das vor allen an Nadeln der Schwarzkiefer zu beobachten ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ganoderma_adspersum_05.jpg" %}
-{% include abbildung_ende.html %}
-
-25.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Wulstige Lackporling *Ganoderma adspersum.* Wir beobachten ihn schon seit gut einem Jahr am Fuß eines lebenden Ahornbaums. Da er schattige Wuchsorte meidet, passt er natürlich gut in unsere Dietzenbacher Parkanlage. Inwieweit er den betroffenen Baum schädigen wird, bleibt abzuwarten. Von einer seit ca. 20 Jahren befallenen Linde wissen wir, dass sie noch immer einen gesunden Eindruck macht. Im Gegensatz zum wesentlich häufigeren Flachen Lackporling lässt sich beim Wulstigen die Hutkruste nicht mit dem Fingernagel eindrücken. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/ganoderma-adspersum-wulstiger-lackporling)
 
 <div style="clear:  both"></div>
 
