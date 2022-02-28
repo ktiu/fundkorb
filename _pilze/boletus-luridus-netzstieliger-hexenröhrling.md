@@ -14,6 +14,7 @@ hauptbild:
   datei: /bilder/boletus_luridus_02_dg.jpg
 literatur:
   - url: https://de.wikipedia.org/wiki/Netzstieliger_Hexen-R%C3%B6hrling
+  - url: https://www.mikroskopie-forum.de/index.php?topic=43177.msg318484#msg318484
 ---
 Bei diesem Anblick musste ich einfach scharf bremsen und vom Fahrrad absteigen. Mitten in Dietzenbach in einem kleinen Vorgarten mit einer noch kleineren Rasenfläche tummelten sich mehr als ein Dutzend Dickröhrlinge, die auf den ersten Blick als *Netzstielige Hexenröhrlinge* auszumachen waren. Ungehinderte Zugangsmöglichkeit erlaubte es, dises Ensemble für ein erstes Foto zu arrangieren. Das Pärchen rechts wurde dann noch einmal für eine Porträtaufnahme anvisiert.
 
