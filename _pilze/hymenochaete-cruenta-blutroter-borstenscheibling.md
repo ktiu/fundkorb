@@ -12,6 +12,8 @@ hauptbild:
   anzeige: true
   datei: /bilder/hymenochaete_cruenta_01_gb.jpg
   legende: "Foto: Günther Breidert"
+literatur:
+  - url: https://www.mikroskopie-forum.de/index.php?topic=41254.msg303810#msg303810
 ---
 Im Rhein-Main-Gebiet wird man diesen farbenprächtigen Pilz kaum finden. Seine Vorkommen sind auf den natürlichen Lebensraum der Weißtanne beschränkt, und die fehlt im Flachland und ist auch im nahen Taunus nicht anzutreffen. Ganz anders ist die Situation im Schwarzwald oder Voralpenland, doch selbst hier wird man ihn nicht alle Tage zu Gesicht bekommen, obwohl er ganzjährig fruktifiziert. Welcher Pilzfreund streift schon in Höhen zwischen 15 und 30 Metern durch einen Weißtannenwald? Die da oben an Stämmen und Ästen wachsenden Pilze müssen schon durch Windbruch oder wenn ein altersschwacher Baum zusammenbricht auf den Boden gelangen, um überhaupt bemerkt zu werden. Hier verlieren sie schnell ihre Farbenpracht, weil sich das [Hymenium](Hymenium "Glossar") in kurzer Zeit zersetzt und die braune [Trama](Trama "Glossar") zum Vorschein kommt.
 
