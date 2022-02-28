@@ -16,6 +16,7 @@ literatur:
   - text: "KRÄNZLIN, F. (2005): Pilze der Schweiz Bd. 6: Nr. 132"
   - url: https://de.wikipedia.org/wiki/Buchen-Spei-T%C3%A4ubling
   - url: http://tintling.com/pilzbuch/arten/r/Russula_nobilis
+  - url: https://www.mikroskopie-forum.de/index.php?topic=42291.msg311676#msg311676
 ---
 Buchen-Speitäublinge erscheinen vom Spätsommer an als dekorative rote Farbtupfer im braunen Buchenlaub. Sie gehen eine [Mykorrhiza](Mykorrhiza "Glossar") mit der Rotbuche ein und wachsen bis in den November hinein. Sie haben einen sehr scharfen Geschmack und einen deutlich fruchtigen Geruch. Die Fruchtkörper sind festfleischig und relativ groß. Die Hüte sind bis 8 cm breit, klebrig und je nach Wetterlage matt bis glänzend. Die blutrote Huthaut ist höchstens bis zur Hälfte abziehbar, das zum Vorschein kommende Fleisch rötlich durchgefärbt. Der Hutrand ist glatt und nur bei älteren Fruchtkörpern kurz gerieft. Die leicht splitternden Lamellen, der Stiel und das Fleisch sind reinweiß. Dreht man einen Hut um und schaut in die Lamellentiefe hinein, kann man bei manchem Exemplaren einen ganz schwach bläulichen Schimmer wahrnehmen.
 
