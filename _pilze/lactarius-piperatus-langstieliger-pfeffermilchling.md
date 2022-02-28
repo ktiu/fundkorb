@@ -21,6 +21,7 @@ literatur:
   - text: "VERBEKEN, A. et al. (2018): Lactarius Pers. In Flora Agaricina
       Neerlandica Vol 7.: 349"
   - url: https://de.wikipedia.org/wiki/Langstieliger_Pfeffer-Milchling
+  - url: https://www.mikroskopie-forum.de/index.php?topic=41673.msg307367#msg307367
 ---
 Mitte Juli ist bei uns die Zeit, in der die Pfeffermilchlinge in großer Menge erscheinen. Es handelt sich um häufige Sommerpilze, die eine Mykorrhiza mit Laubbäumen eingehen und die an den Boden keine besonderen Ansprüche stellen. Der hier beschriebene Fund stammt aus einem Kalkbuchenwald (Vogelsang-Biotop) bei Straubenhardt in Baden-Württemberg.
 
