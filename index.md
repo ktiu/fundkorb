@@ -14,6 +14,14 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/waldsterben_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Was man hier sieht, sind Teile eines Waldstücks, das vor den letzten Stürmen noch aufrecht stand. Auch in der Rhein-Man-Ebene sind die Wälder in beklagenswertem Zustand. Bilder wie dieses zeigen sich entlang der Ränder von Wegen, die bis vor wenigen Tagen noch Waldwege waren, jetzt aber eine chaotische Landschaft durchziehen.
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_acetabulum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
