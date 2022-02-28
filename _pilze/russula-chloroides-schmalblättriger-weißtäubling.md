@@ -17,6 +17,7 @@ literatur:
   - text: "MARXMÜLLER, H. (2014): Russularum Icones: 86-89"
   - text: "MICHAEL, E., HENNIG, B. KREISEL, H. (1983): Handbuch für Pilzfreunde Band
       V: Nr. 67b"
+  - url: https://www.mikroskopie-forum.de/index.php?topic=42137.msg310598#msg310598
 ---
 Auf den ersten Blick könnte man vermuten, einen Wolligen Milchling ("Erdschieber" = Lactarius vellereus) vor sich zu haben. Der Irrtum ist schnell aufgeklärt. Der Pilz lässt keine wässrige Milch austreten. Es muss also ein Täubling sein. Und zwar einer der drei Weißtäublinge, die zu den sogenannten *Compactae* gehören.
 
