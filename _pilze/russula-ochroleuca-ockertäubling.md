@@ -15,6 +15,7 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Zitronen-T%C3%A4ubling
   - url: http://tintling.com/pilzbuch/arten/r/Russula_ochroleuca.html
+  - url: https://www.mikroskopie-forum.de/index.php?topic=41980.msg309647#msg309647
 ---
 Er ist wohl der häufigste Täubling in unseren Wäldern und wächst von Juni bis November. Die Hutfarben dieser mittelgroßen Art variieren relativ wenig von zitronengelb bis gelbocker, die Lamellen sind jung rein weiß, im Alter etwas schmutzig cremefarben. Die Stiele sind jung weiß, später leicht grauend und der Pilz könnte dann leicht mit dem Gelben Graustiel-Täubling *Russula claroflava* verwechselt werden. Sein Fleisch wird bald auffallend weich, vor allem im Stiel. Er wird zwar zu den milden Täublingsarten gezählt, doch ist er oft etwas schärflich, besonders in den Lamellen, eine Nuance, die auch als "pikant" bezeichnet wird. Der Geruch ist uncharakteristisch.
 
