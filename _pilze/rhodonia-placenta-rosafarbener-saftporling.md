@@ -14,6 +14,7 @@ hauptbild:
   datei: /bilder/rhodonia_placenta_01_bm.jpg
 literatur:
   - url: https://www.nationalpark-schwarzwald.de/de/nationalpark/blog/2020/pdm/der-rosafarbene-saftporling
+  - url: https://www.mikroskopie-forum.de/index.php?topic=38769.msg285046#msg285046
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/rhodonia_placenta_01_bm.jpg" gross=true %}
