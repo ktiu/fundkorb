@@ -17,6 +17,7 @@ literatur:
   - text: "CHRISTENSEN, M., HEILMANN-CLAUSEN, J. (2013): The genus Tricholoma. Fungi
       of Northern Europe, Vol. 4: 194-197"
   - text: "RIVA, A. (1988): Tricholoma (Fr.) Staude. Fungi Europaei 3: Nr. 12"
+  - url: https://www.mikroskopie-forum.de/index.php?topic=42219.msg311223#msg311223
 ---
 Der Violettbraune Schwefelritterling, auch Kröten-Ritterling genannt, ist vor allem in Bergnadelwäldern anzutreffen, wo er eine [Mykorrhiza](Mykorrhiza "Glossar") mit Fichten eingeht. Ich habe ihn in großer Zahl gemeinsam mit Lachsreizkern (Lactarius salmonicolor) in 550 Metern Höhe in einem Nadelmischwald auf saurem Boden gefunden. Er ist durch folgende Merkmale unverkennbar festgelegt:
 
