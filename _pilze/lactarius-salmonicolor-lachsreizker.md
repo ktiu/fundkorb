@@ -25,6 +25,7 @@ literatur:
       2-7"
   - text: "VERBEKEN A. et al. (2018): Lactarius Per. In: Flora Agaricina
       Neerlandica, Volume 7: 295-296"
+  - url: https://www.mikroskopie-forum.de/index.php?topic=42171.msg310870#msg310870
 ---
 Der Lachsreizker ist eine der sechs häufigsten Reizkerarten Deutschlands. Ich finde ihn fast in jedem Jahr im Nordschwarzwald zu Hunderten bei Weißtannen auf saurem Boden. Die Art geht eine [Mykorrhiza](Mykorrhiza "Glossar") nur mit Weißtannen ein.
 
