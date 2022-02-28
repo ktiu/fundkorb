@@ -14,6 +14,7 @@ hauptbild:
 literatur:
   - url: "Krieglsteiner, G.J. (2000): Die Großpilze Baden-Württembergs, Bd. 1: Seite
       457-458"
+  - url: https://www.mikroskopie-forum.de/index.php?topic=41576.msg306421#msg306421
 ---
 Diese in Deutschland seltene Feuerschwammart fand ich schon mehrere Male in einem Moorrandwald auf morschen, am Boden liegenden Birkenästen, sowohl am Holz der Hängebirke *Betula pendula* als auch dem der Moorbirke *Betula pubescens*. Was den Verbreitungsschwerpunkt und die Lebensweise betrifft, gleicht er dem bereits beschriebenen Konsolenförmigen Birkenfeuerschwamm Phellinus lundellii.
 
