@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-27.02.2022 [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)  
+28.02.2022 [Helvella acetabulum - Hochgerippte Lorchel](/pilze/helvella-acetabulum-hochgerippte-lorchel)  
+27.02.2022 [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)\
 26.02.2022 [Cyclaneusma minus - Kiefernnadel-Polsterbecherchen](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen)\
 25.02.2022 [Ganoderma adspersum - Wulstiger Lackporling](/pilze/ganoderma-adspersum-wulstiger-lackporling)\
 24.02.2024 [Hypholoma fasciculare - Grünbblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)\
