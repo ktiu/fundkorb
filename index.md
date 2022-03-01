@@ -23,6 +23,18 @@ Was man hier sieht, sind Teile eines Waldstücks, das vor den letzten Stürmen n
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calloria_neglecta_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist das Orangerote Brennnesselbecherchen *Calloria neglecta*. Auf vetrockneten vorjährigen Brennnesselstängeln kann es zu Hunderten wachsen. Es fehlt in keinem Brennnesselbestand. Oft wird es vom [Zugespitzten Kugelpilz *Leptosphaeria acuta*](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz) begleitet, der sich dem bloßen Auge als winzige schwarze Pünktchen zeigt und erst mit Lupe in seiner wahren Gestalt sichtbar ist. Dies gilt auch für Calloria neglecta. Daneben gibt es noch zahlreiche weitere sehr kleine [Ascomyzeten](Ascomyzeten "Glossar"), die auf vorjährigen Brennnesselstängeln wachsen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_acetabulum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -41,18 +53,6 @@ Was man hier sieht, sind Teile eines Waldstücks, das vor den letzten Stürmen n
 27.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Schmetterlingstramete *Trametes versicolor*, einer der häufigsten Porlinge überhaupt und flächendeckend in ganz Mitteleuropa nachgewiesen. Der Pilz hat ein breites ökologisches Spektrum und kommt vor allem an toten Laubhözern vor. Wegen seiner attraktiven Zonierung wird er gern als Dekopilz oder für Gestecke verwendet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cyclaneusma_minus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.02.2022: Um einen aktuellen [Fundkorbpilz](AA "Glossar") zu finden, genügt mir ein kurzer Ausflug in den Park, den ich praktisch vor der Haustür habe. Ich brauche nur ein paar Kiefernnadeln aufzuheben, um fündig zu werden. Um das Kiefernnadel-Polsterbecherchen *Cyclaneusma minus* so zu sehen wie auf dem Foto, bedarf es allerdings schon einer gut vergrößernden Lupe. Es gehört zu den Schlauchpilzen (Ascomyzeten), ähnelt im Aussehen einer Spaltlippe (Gattung Lophodermium) und verursacht ein als Kiefernnadelbräune (auch Naemacyclus-Nadelschütte) bekanntes Schadbild, das vor allen an Nadeln der Schwarzkiefer zu beobachten ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen)
-
-<div style="clear:  both"></div>
 
 - - -
 
