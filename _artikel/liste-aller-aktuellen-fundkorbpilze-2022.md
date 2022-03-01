@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-28.02.2022 [Helvella acetabulum - Hochgerippte Lorchel](/pilze/helvella-acetabulum-hochgerippte-lorchel)  
+01.03.2022 [Calloria neglecta - Orangerotes Brennnesselbecherchen](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)
+
+28.02.2022 [Helvella acetabulum - Hochgerippte Lorchel](/pilze/helvella-acetabulum-hochgerippte-lorchel)\
 27.02.2022 [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)\
 26.02.2022 [Cyclaneusma minus - Kiefernnadel-Polsterbecherchen](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen)\
 25.02.2022 [Ganoderma adspersum - Wulstiger Lackporling](/pilze/ganoderma-adspersum-wulstiger-lackporling)\
