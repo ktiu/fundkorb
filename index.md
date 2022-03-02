@@ -14,11 +14,15 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/waldsterben_01_dg.jpg" %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tyromyces_kmetii_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Was man hier sieht, sind Teile eines Waldstücks, das vor den letzten Stürmen noch aufrecht stand. Auch in der Rhein-Man-Ebene sind die Wälder in beklagenswertem Zustand. Bilder wie dieses zeigen sich entlang der Ränder von Wegen, die bis vor wenigen Tagen noch Waldwege waren, jetzt aber eine chaotische Landschaft durchziehen.
+02.03.2022: Aktueller Fundkorbpilz ist der an Totholz wachsende Orangegelbe Saftporling *Tyromyces kmetii*, dessen feinfilzige Fruchtkörper bis zu 12 cm breit werden und bis zu 8 cm vom Substrat abstehen. Seine attraktiven Pastellfarben, die von weißlich, gelblich, hell orange, blass creme bis rosa oder aprikosenfarben variieren, machen ihn nahezu unverwechselbar. Der Pilz gilt als selten, ist in der Rhein-Main-Ebene aber mehrfach gefunden worden und möglicherweise in Ausbreitung begriffen. Saftporlinge enthalten in frischem Zustand viel Wasser, das man zum Ausfließen bringen kann, indem man sie in der Hand zerdrückt. Bei seltenen Arten sollte man dies natürlich unterlassen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tyromyces-kmetii-orangegelber-saftporling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -46,16 +50,6 @@ Was man hier sieht, sind Teile eines Waldstücks, das vor den letzten Stürmen n
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/trametes_versicolor_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Schmetterlingstramete *Trametes versicolor*, einer der häufigsten Porlinge überhaupt und flächendeckend in ganz Mitteleuropa nachgewiesen. Der Pilz hat ein breites ökologisches Spektrum und kommt vor allem an toten Laubhözern vor. Wegen seiner attraktiven Zonierung wird er gern als Dekopilz oder für Gestecke verwendet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
-
-- - -
-
 [Liste aller Aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
 
 - - -
@@ -65,12 +59,10 @@ Was man hier sieht, sind Teile eines Waldstücks, das vor den letzten Stürmen n
 - - -
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/haareis-01-bg.jpeg" %}
+{% include bild.html datei="/bilder/waldsterben_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Dieses faszinierende Phänomen wird *Haareis* oder auch Eiswolle genannt. Es kann sich nur unter sehr speziellen Bedingungen an Totholz bilden und ist daher nur selten zu beobachten. Bis 2008 war nicht einmal geklärt, wie es entsteht. Heute weiß man, dass [Pilzmyzelien](Myzel "Glossar") im Holz dafür verantwortlich sind. Die Lufttemperatur muss dabei knapp unter 0°C betragen, so dass Wasser im Holz <ins>noch nicht</ins> gefroren ist sondern erst beim Austreten gefriert. Haareis ist ein sehr kurzfristiges Phänomen und es gehört viel Glück dazu, es zu erleben. (Dieter Gewalt)
-
-[Mehr lesen >](/artikel/haareis)
+Was man hier sieht, sind Teile eines Waldstücks, das vor den letzten Stürmen noch aufrecht stand. Auch in der Rhein-Man-Ebene sind die Wälder in beklagenswertem Zustand. Bilder wie dieses zeigen sich entlang der Ränder von Wegen, die bis vor wenigen Tagen noch Waldwege waren, jetzt aber eine chaotische Landschaft durchziehen.
 
 - - -
 
