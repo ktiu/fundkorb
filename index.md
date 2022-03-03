@@ -15,10 +15,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_hirsutum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Striegelige Schichtpilz *Stereum hirsutum*. Er wächst vor allem an totem Eichenholz, egal ob Stümpfe, Stämme oder Äste. Es gibt insgesamt sieben mitteleuropäische Arten, die alle mit einem Porträt im Fundkorb vertreten sind. Dazu auch einen leicht zu handhabenden Bestimmungsschlüssel von Pilzfreund *Bernd Miggel*. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stereum-hirsutum-striegeliger-schichtpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tyromyces_kmetii_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-02.03.2022: Aktueller Fundkorbpilz ist der an Totholz wachsende Orangegelbe Saftporling *Tyromyces kmetii*, dessen feinfilzige Fruchtkörper bis zu 12 cm breit werden und bis zu 8 cm vom Substrat abstehen. Seine attraktiven Pastellfarben, die von weißlich, gelblich, hell orange, blass creme bis rosa oder aprikosenfarben variieren, machen ihn nahezu unverwechselbar. Der Pilz gilt als selten, ist in der Rhein-Main-Ebene aber mehrfach gefunden worden und möglicherweise in Ausbreitung begriffen. Saftporlinge enthalten in frischem Zustand viel Wasser, das man zum Ausfließen bringen kann, indem man sie in der Hand zerdrückt. Bei seltenen Arten sollte man dies natürlich unterlassen. (Dieter Gewalt)
+02.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der an Totholz wachsende Orangegelbe Saftporling *Tyromyces kmetii*, dessen feinfilzige Fruchtkörper bis zu 12 cm breit werden und bis zu 8 cm vom Substrat abstehen. Seine attraktiven Pastellfarben, die von weißlich, gelblich, hell orange, blass creme bis rosa oder aprikosenfarben variieren, machen ihn nahezu unverwechselbar. Der Pilz gilt als selten, ist in der Rhein-Main-Ebene aber mehrfach gefunden worden und möglicherweise in Ausbreitung begriffen. Saftporlinge enthalten in frischem Zustand viel Wasser, das man zum Ausfließen bringen kann, indem man sie in der Hand zerdrückt. Bei seltenen Arten sollte man dies natürlich unterlassen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tyromyces-kmetii-orangegelber-saftporling)
 
