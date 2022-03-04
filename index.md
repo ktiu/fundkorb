@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lopharia_spadicea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Rußbraune Schichtpilz *Lopharia spadicea*. Auf den ersten Blick könnte man ihn für einen Schichtpilz der Gattung *Stereum* halten. Von dieser unterscheidet sich *Lopharia* vor allem durch [inamyloide](inamyloid "Glossar") Sporen. Die Oberseite dieses oft in langen Reihen an Laubholz (vor allem Buche) wachsenden [semipileaten](semipileat "Glossar") Rindenpilzes ist zoniert, grau- bis olivbraun und zottig filzig, die Unterseite glatt bis etwas höckerig. Es handelt sich um eine relativ häufige, aber nur wenig bekannte Art. Das Foto zeigt die glatte Unterseite des Pilzes. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lopharia-spadicea-rußbrauner-schichtpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_hirsutum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,30 +45,6 @@ footer_scripts:
 02.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der an Totholz wachsende Orangegelbe Saftporling *Tyromyces kmetii*, dessen feinfilzige Fruchtkörper bis zu 12 cm breit werden und bis zu 8 cm vom Substrat abstehen. Seine attraktiven Pastellfarben, die von weißlich, gelblich, hell orange, blass creme bis rosa oder aprikosenfarben variieren, machen ihn nahezu unverwechselbar. Der Pilz gilt als selten, ist in der Rhein-Main-Ebene aber mehrfach gefunden worden und möglicherweise in Ausbreitung begriffen. Saftporlinge enthalten in frischem Zustand viel Wasser, das man zum Ausfließen bringen kann, indem man sie in der Hand zerdrückt. Bei seltenen Arten sollte man dies natürlich unterlassen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tyromyces-kmetii-orangegelber-saftporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calloria_neglecta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist das Orangerote Brennnesselbecherchen *Calloria neglecta*. Auf vetrockneten vorjährigen Brennnesselstängeln kann es zu Hunderten wachsen. Es fehlt in keinem Brennnesselbestand. Oft wird es vom [Zugespitzten Kugelpilz *Leptosphaeria acuta*](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz) begleitet, der sich dem bloßen Auge als winzige schwarze Pünktchen zeigt und erst mit Lupe in seiner wahren Gestalt sichtbar ist. Dies gilt auch für Calloria neglecta. Daneben gibt es noch zahlreiche weitere sehr kleine [Ascomyzeten](Ascomyzeten "Glossar"), die auf vorjährigen Brennnesselstängeln wachsen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_acetabulum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.02.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Hochgerippte Lorchel *Helvella acetabulum*. Wir sind ihr gestern an einem Waldwegrand begegnet, an dem wir sie seit drei Jahrzehnten an haargenau der gleichen Stelle finden. So früh wie in diesem Jahr haben wir sie allerdings noch nie gesehen. Üblicherweise erscheint sie ab März/April, aber der Klimawandel sorgt nun für signifikante Veränderungen. Es handelt sich um einen sehr attraktiven Pilz, der bis zu 8 cm hoch werden kann. Er wird auch Pokal-Rippenbecherling genannt. Er gilt zwar als essbar, ist aber ziemlich zähfleischig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/helvella-acetabulum-hochgerippte-lorchel)
 
 <div style="clear:  both"></div>
 
