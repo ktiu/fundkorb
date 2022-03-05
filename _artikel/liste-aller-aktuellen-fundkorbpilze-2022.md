@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-04.03.2022 [Lopharia spadicea - Rußbrauner Schichtpilz](/pilze/lopharia-spadicea-rußbrauner-schichtpilz)  
+05.03.2022 [Kretzschmaria deusta - Brandkrustenpilz](/pilze/kretzschmaria-deusta-brandkrustenpilz)  
+04.03.2022 [Lopharia spadicea - Rußbrauner Schichtpilz](/pilze/lopharia-spadicea-rußbrauner-schichtpilz)\
 03.03.2022 [Stereum hirsutum - Striegeliger Schichtpilz](/pilze/stereum-hirsutum-striegeliger-schichtpilz)\
 02.03.2022 [Tyromyces kmetii - Orangegelber Saftporling](/pilze/tyromyces-kmetii-orangegelber-saftporling)\
 01.03.2022 [Calloria neglecta - Orangerotes Brennnesselbecherchen](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)
