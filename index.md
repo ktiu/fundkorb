@@ -15,36 +15,36 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/dasyscyphella_nivea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.03.2022: Als aktuellen [Fundkorbpilz](AA "Glossar") habe ich diesmal ein kleines Becherchen aus der Abteilung der Schlauchpilze (Ascomyzeten) gewählt. Die Schönheit des Schneeweißen Haarbecherchens *Dasyscyphella nivea* erschließt sich dem Betrachter erst mit einer stark vergrößernden Lupe. Dann erkennt man den feinen Haarkranz am Becherrand, der besonders attraktiv erscheint, wenn er mit winzigsten im Licht glänzenden Wassertröpfchen besetzt ist. Fundstelle war vermutlich ein Eichenstumpf. Die Nachtfröste der vergangenen Tage haben den üppig wachsenden Pilzchen nichts anhaben können, da sie unter einer Mossdecke wuchsen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cumminsiella_mirabilissima_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Mahonienrost *Cumminsiella mirabilissima*. Was an diesem Rostpilz *mirabilissima* (= am bewundernswertesten) sein soll, dürfte sich kaum einem Betrachter erschließen. Die Sporenlager entstehen in Nestern, die als gelbliche bis orangefarbene Flecken auf der Oberseite der Blätter zu sehen sind und auch auf unreifen Früchten erscheinen können. Sie verraten sich auch durch gleichfarbige Flecken auf der Blattunterseite, die muldenförmigen Vertiefungen gleichen und den Erhebungen der Sporenlager auf den Blattoberseiten entsprechen. Der Rostpilz ernährt sich vom Speichergewebe der Pflanze und macht keinen Wirtswechsel durch. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cumminsiella-mirabilissima-mahonienrost)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/kretschmaria_deusta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 05.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Brandkrustenpilz *Kretzschmaria deusta*. Zur Zeit fällt er durch sein hellgraues Konidienstadium mit weißen Rändern auf. In diesem imperfekten Stadium werden ungeschlechtliche Sporen gebildet, die ausschließlich Klone erzeugen. Später verwandelt sich der an Totholz (vor allem an Stümpfen von Buchen) wachsende Pilz in sein perfektes Stadium, in dem sexuelle Ascosporen in sogenannten Schläuchen (Asci) gebildet werden. Die kissen- oder krustenförmigen Fruchtkörper sind dann schwarz.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/kretzschmaria-deusta-brandkrustenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lopharia_spadicea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Rußbraune Schichtpilz *Lopharia spadicea*. Auf den ersten Blick könnte man ihn für einen Schichtpilz der Gattung *Stereum* halten. Von dieser unterscheidet sich *Lopharia* vor allem durch [inamyloide](inamyloid "Glossar") Sporen. Die Oberseite dieses oft in langen Reihen an Laubholz (vor allem Buche) wachsenden [semipileaten](semipileat "Glossar") Rindenpilzes ist zoniert, grau- bis olivbraun und zottig filzig, die Unterseite glatt bis etwas höckerig. Es handelt sich um eine relativ häufige, aber nur wenig bekannte Art. Das Foto zeigt die glatte Unterseite des Pilzes. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lopharia-spadicea-rußbrauner-schichtpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_hirsutum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Striegelige Schichtpilz *Stereum hirsutum*. Er wächst vor allem an totem Eichenholz, egal ob Stümpfe, Stämme oder Äste. Es gibt insgesamt sieben mitteleuropäische Arten, die alle mit einem Porträt im Fundkorb vertreten sind. Dazu auch einen leicht zu handhabenden Bestimmungsschlüssel von Pilzfreund *Bernd Miggel*. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/stereum-hirsutum-striegeliger-schichtpilz)
 
 <div style="clear:  both"></div>
 
