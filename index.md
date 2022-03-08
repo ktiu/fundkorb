@@ -14,6 +14,16 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/sarcoscypha_austriaca_04_ms.jpeg" %}
+{% include abbildung_ende.html %}
+
+08.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist ein Highlight des bisherigen Jahres und ein Ausrufungszeichen wert. Der Gemeine Prachtbecherling *Sarcoscypha austriaca* ist längst nicht so gemein wie der deutsche Name vermuten lässt. Von den drei mitteleuropäischen sehr seltenen Prachtbecherlingsarten ist er wahrscheinlich der am wenigsten seltene. Gefunden wurde er von *Michaela Sandmann* in der Nähe von Ingelheim. Die drei sehen sich sehr ähnlich und sind sicher nur mikroskopisch voneinander zu trennen.
+
+[Mehr lesen >](/pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/dasyscyphella_nivea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -33,18 +43,6 @@ footer_scripts:
 06.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Mahonienrost *Cumminsiella mirabilissima*. Was an diesem Rostpilz *mirabilissima* (= am bewundernswertesten) sein soll, dürfte sich kaum einem Betrachter erschließen. Die Sporenlager entstehen in Nestern, die als gelbliche bis orangefarbene Flecken auf der Oberseite der Blätter zu sehen sind und auch auf unreifen Früchten erscheinen können. Sie verraten sich auch durch gleichfarbige Flecken auf der Blattunterseite, die muldenförmigen Vertiefungen gleichen und den Erhebungen der Sporenlager auf den Blattoberseiten entsprechen. Der Rostpilz ernährt sich vom Speichergewebe der Pflanze und macht keinen Wirtswechsel durch. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cumminsiella-mirabilissima-mahonienrost)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/kretschmaria_deusta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Brandkrustenpilz *Kretzschmaria deusta*. Zur Zeit fällt er durch sein hellgraues Konidienstadium mit weißen Rändern auf. In diesem imperfekten Stadium werden ungeschlechtliche Sporen gebildet, die ausschließlich Klone erzeugen. Später verwandelt sich der an Totholz (vor allem an Stümpfen von Buchen) wachsende Pilz in sein perfektes Stadium, in dem sexuelle Ascosporen in sogenannten Schläuchen (Asci) gebildet werden. Die kissen- oder krustenförmigen Fruchtkörper sind dann schwarz.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/kretzschmaria-deusta-brandkrustenpilz)
 
 <div style="clear:  both"></div>
 
