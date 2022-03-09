@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/flammulaster_carpophilus_01_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+09.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Buchenwald-Flockenschüppling *Flammulaster carpophilus*. Ein winziges Blätterpilzchen, das mit Vorliebe auf vorjährigen Bucheckernschalen wächst. Auch auf Blättern und Ästchen ist er mitunter zu finden. Seine Hütchen erreichen nur selten Durchmesser von mehr als 1 cm, seine Stiele können bis zu 6 cm lang werden. Bei gezielter Suche wird man vermutlich in jedem Buchenwald fündig werden, auch schon früh im Jahr.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/sarcoscypha_austriaca_04_ms.jpeg" %}
 {% include abbildung_ende.html %}
@@ -36,31 +48,11 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cumminsiella_mirabilissima_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Mahonienrost *Cumminsiella mirabilissima*. Was an diesem Rostpilz *mirabilissima* (= am bewundernswertesten) sein soll, dürfte sich kaum einem Betrachter erschließen. Die Sporenlager entstehen in Nestern, die als gelbliche bis orangefarbene Flecken auf der Oberseite der Blätter zu sehen sind und auch auf unreifen Früchten erscheinen können. Sie verraten sich auch durch gleichfarbige Flecken auf der Blattunterseite, die muldenförmigen Vertiefungen gleichen und den Erhebungen der Sporenlager auf den Blattoberseiten entsprechen. Der Rostpilz ernährt sich vom Speichergewebe der Pflanze und macht keinen Wirtswechsel durch. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cumminsiella-mirabilissima-mahonienrost)
-
-<div style="clear:  both"></div>
-
-- - -
-
 [Liste aller Aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
 
 - - -
 
 [Liste aller Aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/waldsterben_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Was man hier sieht, sind Teile eines Waldstücks, das vor den letzten Stürmen noch aufrecht stand. Auch in der Rhein-Man-Ebene sind die Wälder in beklagenswertem Zustand. Bilder wie dieses zeigen sich entlang der Ränder von Wegen, die bis vor wenigen Tagen noch Waldwege waren, jetzt aber eine chaotische Landschaft durchziehen.
 
 - - -
 
