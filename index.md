@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/schizophyllum_commune_04_dg-1024x901.jpg" %}
 {% include abbildung_ende.html %}
 
-10.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Spaltblättling *Schizophyllum commune,* ein überhaus häufiger kosmopolitischer Pilz, der in unseren Breiten vor allem totes Buchenholz besiedelt. Er wächst sogar bei anhaltender Trockenheit und selbst sonnenexponierte Standorte werden toleriert. So ist er oft an in freiem Gelände lagernden, noch berindeten Buchenstämmen zu finden. Seine weißfilzige Oberseite ist recht unscheinbar. Um seine erstaunliche Schönheit zu bewundern, muss man seine Unterseite betrachten. (Dieter Gewalt)
+10.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Spaltblättling *Schizophyllum commune,* ein überaus häufiger kosmopolitischer Pilz, der in unseren Breiten vor allem totes Buchenholz besiedelt. Er wächst sogar bei anhaltender Trockenheit und selbst sonnenexponierte Standorte werden toleriert. So ist er oft an in freiem Gelände lagernden, noch berindeten Buchenstämmen zu finden. Seine weißfilzige Oberseite ist recht unscheinbar. Um seine erstaunliche Schönheit zu bewundern, muss man seine Unterseite betrachten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/schizophyllum-commune-spaltblättling)
 
