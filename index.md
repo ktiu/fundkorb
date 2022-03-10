@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/schizophyllum_commune_04_dg-1024x901.jpg" %}
+{% include abbildung_ende.html %}
+
+10.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Spaltblättling *Schizophyllum commune,* ein überhaus häufiger kosmopolitischer Pilz, der in unseren Breiten vor allem totes Buchenholz besiedelt. Er wächst sogar bei anhaltender Trockenheit und selbst sonnenexponierte Standorte werden toleriert. So ist er oft an in freiem Gelände lagernden, noch berindeten Buchenstämmen zu finden. Seine weißfilzige Oberseite ist recht unscheinbar. Um seine erstaunliche Schönheit zu bewundern, muss man seine Unterseite betrachten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/schizophyllum-commune-spaltblättling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/flammulaster_carpophilus_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 08.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist ein Highlight des bisherigen Jahres und ein Ausrufungszeichen wert. Der Gemeine Prachtbecherling *Sarcoscypha austriaca* ist längst nicht so gemein wie der deutsche Name vermuten lässt. Von den drei mitteleuropäischen sehr seltenen Prachtbecherlingsarten ist er wahrscheinlich der am wenigsten seltene. Gefunden wurde er von *Michaela Sandmann* in der Nähe von Ingelheim. Die drei sehen sich sehr ähnlich und sind sicher nur mikroskopisch voneinander zu trennen.
 
 [Mehr lesen >](/pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/dasyscyphella_nivea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.03.2022: Als aktuellen [Fundkorbpilz](AA "Glossar") habe ich diesmal ein kleines Becherchen aus der Abteilung der Schlauchpilze (Ascomyzeten) gewählt. Die Schönheit des Schneeweißen Haarbecherchens *Dasyscyphella nivea* erschließt sich dem Betrachter erst mit einer stark vergrößernden Lupe. Dann erkennt man den feinen Haarkranz am Becherrand, der besonders attraktiv erscheint, wenn er mit winzigsten im Licht glänzenden Wassertröpfchen besetzt ist. Fundstelle war vermutlich ein Eichenstumpf. Die Nachtfröste der vergangenen Tage haben den üppig wachsenden Pilzchen nichts anhaben können, da sie unter einer Mossdecke wuchsen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)
-
-<div style="clear:  both"></div>
 
 - - -
 
