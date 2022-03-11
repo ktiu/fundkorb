@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-10.03.2022: [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)  
+11.03.2022: [Chromocyphella muscicola - Moosbewohnendes Braunsporbecherchen](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)  
+10.03.2022: [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)\
 09.03.2022 [Flammulaster carpophilus - Buchenwald-Flockenschüppling](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)\
 08.03.2022 [Sarcoscypha austriaca - Gemeiner Prachtbecherling](/pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)\
 07.03.2022 [Dasyscyphella nivea - Schneeweißes Haarbecherchen](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)\
