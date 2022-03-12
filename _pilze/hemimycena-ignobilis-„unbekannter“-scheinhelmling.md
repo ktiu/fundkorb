@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Hemimycena ignobilis
-  deutsch: „Unbekannter“ Scheinhelmling
+  deutsch: Feinhaariger Scheinhelmling
   referenz: "Joss. ex. Bon 1983 "
   familie: Mycenaceae
   erlaeuterung: "ignobilis = unbekannt  "
