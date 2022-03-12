@@ -14,6 +14,14 @@ footer_scripts:
 
 - - -
 
+12.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Petiolen-Spaltlippe *Lophodermium petiolicola*. Man findet die schiffchen- oder lippenförmigen Fruchtkörper schon früh im Jahr auf Blattstielen (Petiolen) von vorjährigen Roteichenblättern. Wie alle Spaltlippen wachsen sie gesellig und sind winzig klein, bis ca. 2 mm lang. Bei der hier gezeigten Art sind oft mehrere miteinander verbunden und können längere Ketten bilden. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/chromocyphella_muscicola_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -35,28 +43,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/schizophyllum-commune-spaltblättling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/flammulaster_carpophilus_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-09.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Buchenwald-Flockenschüppling *Flammulaster carpophilus*. Ein winziges Blätterpilzchen, das mit Vorliebe auf vorjährigen Bucheckernschalen wächst. Auch auf Blättern und Ästchen ist er mitunter zu finden. Seine Hütchen erreichen nur selten Durchmesser von mehr als 1 cm, seine Stiele können bis zu 6 cm lang werden. Bei gezielter Suche wird man vermutlich in jedem Buchenwald fündig werden, auch schon früh im Jahr.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/sarcoscypha_austriaca_04_ms.jpeg" %}
-{% include abbildung_ende.html %}
-
-08.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist ein Highlight des bisherigen Jahres und ein Ausrufungszeichen wert. Der Gemeine Prachtbecherling *Sarcoscypha austriaca* ist längst nicht so gemein wie der deutsche Name vermuten lässt. Von den drei mitteleuropäischen sehr seltenen Prachtbecherlingsarten ist er wahrscheinlich der am wenigsten seltene. Gefunden wurde er von *Michaela Sandmann* in der Nähe von Ingelheim. Die drei sehen sich sehr ähnlich und sind sicher nur mikroskopisch voneinander zu trennen.
-
-[Mehr lesen >](/pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)
 
 - - -
 
