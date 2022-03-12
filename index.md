@@ -14,11 +14,16 @@ footer_scripts:
 
 - - -
 
+<figure class="figure">
+<video controls width="100%">
+  <source src="/bilder/lophodermium_petiolicola_04_14-sec.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</figure>
+
 12.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Petiolen-Spaltlippe *Lophodermium petiolicola*. Man findet die schiffchen- oder lippenförmigen Fruchtkörper schon früh im Jahr auf Blattstielen (Petiolen) von vorjährigen Roteichenblättern. Wie alle Spaltlippen wachsen sie gesellig und sind winzig klein, bis ca. 2 mm lang. Bei der hier gezeigten Art sind oft mehrere miteinander verbunden und können längere Ketten bilden. (Dieter Gewalt)
 
-Mehr lesen >
-
-<div style="clear:  both"></div>
+[Mehr lesen >](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)
 
 - - -
 
