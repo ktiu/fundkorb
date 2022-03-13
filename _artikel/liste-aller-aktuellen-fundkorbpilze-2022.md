@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-12.03.2022: [Lophodermium petiolicola - Petiolen-Spaltlippe](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)  
+13.03.2022: [Daedalea quercina - Eichenwirrling](/pilze/daedalea-quercina-eichenwirrling)
+12.03.2022: [Lophodermium petiolicola - Petiolen-Spaltlippe](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)\
 11.03.2022: [Chromocyphella muscicola - Moosbewohnendes Braunsporbecherchen](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)\
 10.03.2022: [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)\
 09.03.2022 [Flammulaster carpophilus - Buchenwald-Flockenschüppling](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)\
