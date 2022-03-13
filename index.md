@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/daedalea_quercina_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-13.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Eichenwirrling  *Daedalea quercina*. Er gehört zu den wenigen Pilzarten, die man mit verbundenen Augen erkennen kann. Gefragt it der Tastsinn. Das labyrinthische zäh-elastische [Hymenophor](Hymenophor "Glossar") der Unterseite (Foto) ist ein Alleinstellungsmerkmal. Der Eichenwirrling ist nahezu 100-prozentig wirtstreu. Er wächst an Stümpfen und am Boden liegenden Ästen und ist überall häufig, wo es Eichen gibt. (Dieter Gewalt)
+13.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Eichenwirrling  *Daedalea quercina*. Er gehört zu den wenigen Pilzarten, die man mit verbundenen Augen erkennen kann. Gefragt ist der Tastsinn. Das labyrinthische zäh-elastische [Hymenophor](Hymenophor "Glossar") der Unterseite (Foto) ist ein Alleinstellungsmerkmal. Der Eichenwirrling ist nahezu 100-prozentig wirtstreu. Er wächst an Stümpfen und am Boden liegenden Ästen und ist überall häufig, wo es Eichen gibt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/daedalea-quercina-eichenwirrling)
 
