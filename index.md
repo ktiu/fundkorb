@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/daedalea_quercina_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Eichenwirrling  *Daedalea quercina*. Er gehört zu den wenigen Pilzarten, die man mit verbundenen Augen erkennen kann. Gefragt it der Tastsinn. Das labyrinthische zäh-elastische [Hymenophor](Hymenophor "Glossar") der Unterseite (Foto) ist ein Alleinstellungsmerkmal. Der Eichenwirrling ist nahezu 100-prozentig wirtstreu. Er wächst an Stümpfen und am Boden liegenden Ästen und ist überall häufig, wo es Eichen gibt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/daedalea-quercina-eichenwirrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 <figure class="figure">
 <video controls width="100%">
   <source src="/bilder/lophodermium_petiolicola_04_14-sec.mp4" type="video/mp4">
@@ -34,18 +46,6 @@ footer_scripts:
 11.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist das Moosbewohnnde Braunsporbecherchen *Chromocyphella muscicola*, ein Winzling, der meist nur 1 bis 2 mm groß wird, maximal ca. 4 mm. Er gilt als selten, was aber bezweifelt werden darf. Bei gezielter Suche achte man auf bemooste Stämme lebender Bäume, und hier besonders auf ausgebleichte Stellen. Dieses auffällige Schadbild wird durch den Pilz verursacht. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/schizophyllum_commune_04_dg-1024x901.jpg" %}
-{% include abbildung_ende.html %}
-
-10.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Spaltblättling *Schizophyllum commune,* ein überaus häufiger kosmopolitischer Pilz, der in unseren Breiten vor allem totes Buchenholz besiedelt. Er wächst sogar bei anhaltender Trockenheit und selbst sonnenexponierte Standorte werden toleriert. So ist er oft an in freiem Gelände lagernden, noch berindeten Buchenstämmen zu finden. Seine weißfilzige Oberseite ist recht unscheinbar. Um seine erstaunliche Schönheit zu bewundern, muss man seine Unterseite betrachten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/schizophyllum-commune-spaltblättling)
 
 <div style="clear:  both"></div>
 
