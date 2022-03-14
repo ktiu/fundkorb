@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-13.03.2022: [Daedalea quercina - Eichenwirrling](/pilze/daedalea-quercina-eichenwirrling)
+14.03.2022: [Lachnella alboviolascens - Weißvioletter Schüsselseitling](/pilze/lachnella-alboviolascens-weißvioletter-schüsselseitling)  
+13.03.2022: [Daedalea quercina - Eichenwirrling](/pilze/daedalea-quercina-eichenwirrling)  
 12.03.2022: [Lophodermium petiolicola - Petiolen-Spaltlippe](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)\
 11.03.2022: [Chromocyphella muscicola - Moosbewohnendes Braunsporbecherchen](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)\
 10.03.2022: [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)\
