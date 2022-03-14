@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lachnella_alboviolascens_02_iw.jpg" %}
+{% include abbildung_ende.html %}
+
+13.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Weißviolette Schüsselseitling Lachnella alboviolascens. Auf den ersten Blick könnte man einen Ascomyzeten vermuten, er gehört aber zu den Ständerpilzen (Basidiomyzeten). Die einzelnen Fruchtkörperchen sind winzig klein ( max. 1,5 mm), aber da sie meist zu vielen und dicht gedrängt auf ihrem Substrat sitzen, durchaus zu entdecken. Man findet ihn an am Boden liegenden oder noch am Baum oder Strauch hängenden abgestorbenen Ästen von Laubgehölzen wie Holunder, Weide, Erle, Esche und viele andere. Der Pilz scheint da nicht sehr wählerisch zu sein. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lachnella-alboviolascens-weißvioletter-schüsselseitling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/daedalea_quercina_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ footer_scripts:
 12.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Petiolen-Spaltlippe *Lophodermium petiolicola*. Man findet die schiffchen- oder lippenförmigen Fruchtkörper schon früh im Jahr auf Blattstielen (Petiolen) von vorjährigen Roteichenblättern. Wie alle Spaltlippen wachsen sie gesellig und sind winzig klein, bis ca. 2 mm lang. Bei der hier gezeigten Art sind oft mehrere miteinander verbunden und können längere Ketten bilden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chromocyphella_muscicola_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist das Moosbewohnnde Braunsporbecherchen *Chromocyphella muscicola*, ein Winzling, der meist nur 1 bis 2 mm groß wird, maximal ca. 4 mm. Er gilt als selten, was aber bezweifelt werden darf. Bei gezielter Suche achte man auf bemooste Stämme lebender Bäume, und hier besonders auf ausgebleichte Stellen. Dieses auffällige Schadbild wird durch den Pilz verursacht. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)
-
-<div style="clear:  both"></div>
 
 - - -
 
