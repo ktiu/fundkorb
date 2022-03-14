@@ -23,7 +23,7 @@ Bei diesem Fund könnte man auf den ersten Blick einen [Ascomyzeten](Ascomyzeten
 {% include bild.html datei="/bilder/lachnella_alboviolascens_02_iw.jpg" %}
 {% include abbildung_ende.html legende="Foto: Ingo Wagner" %}
 
-Die Gattung *Lachnella*, von manchen auch "Zwergschälchen" genannt, ist in Deutschland mit zwei Arten vertreten, deren Bestimmung innerhalb dieser Gattung recht problemlos und makroskpoisch möglich ist. Verwechselt werden können sie aber leicht mit Becherchen, die zu den Ascomyzeten gehören. Aus diesem Grund sollte zunächst die Gattungszugehörigkeit eines Fundes geklärt werden. Dazu muss mikroskopisch unterschieden werden, ob sich die Sporen an *Basidien* (Ständern) oder in *Asci* (Schläuchen) befinden.
+Die Gattung *Lachnella*, von manchen auch "Zwergschälchen" genannt, ist in Deutschland mit zwei Arten vertreten, deren Bestimmung innerhalb dieser Gattung recht problemlos und makroskopisch möglich ist. Verwechselt werden können sie aber leicht mit Becherchen, die zu den Ascomyzeten gehören. Aus diesem Grund sollte zunächst die Gattungszugehörigkeit eines Fundes geklärt werden. Dazu muss mikroskopisch unterschieden werden, ob sich die Sporen an *Basidien* (Ständern) oder in *Asci* (Schläuchen) befinden.
 
 Die beiden Lachnella-Arten  sind wie folgt zu trennen: Hymenium relativ düster gefärbt = L. alboviolaceus, Hymenium weiß = L. villosa.
 
