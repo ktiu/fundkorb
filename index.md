@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/lachnella_alboviolascens_02_iw.jpg" %}
 {% include abbildung_ende.html %}
 
-13.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Weißviolette Schüsselseitling Lachnella alboviolascens. Auf den ersten Blick könnte man einen Ascomyzeten vermuten, er gehört aber zu den Ständerpilzen (Basidiomyzeten). Die einzelnen Fruchtkörperchen sind winzig klein ( max. 1,5 mm), aber da sie meist zu vielen und dicht gedrängt auf ihrem Substrat sitzen, durchaus zu entdecken. Man findet ihn an am Boden liegenden oder noch am Baum oder Strauch hängenden abgestorbenen Ästen von Laubgehölzen wie Holunder, Weide, Erle, Esche und viele andere. Der Pilz scheint da nicht sehr wählerisch zu sein. (Dieter Gewalt)
+14.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Weißviolette Schüsselseitling *Lachnella alboviolascens*. Auf den ersten Blick könnte man einen Ascomyzeten vermuten, er gehört aber zu den Ständerpilzen (Basidiomyzeten). Die einzelnen Fruchtkörperchen sind winzig klein ( max. 1,5 mm), aber da sie meist zu vielen und dicht gedrängt auf ihrem Substrat sitzen, durchaus zu entdecken. Man findet ihn an am Boden liegenden oder noch am Baum oder Strauch hängenden abgestorbenen Ästen von Laubgehölzen wie Holunder, Weide, Erle, Esche und vielen anderen Der Pilz scheint da nicht sehr wählerisch zu sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lachnella-alboviolascens-weißvioletter-schüsselseitling)
 
