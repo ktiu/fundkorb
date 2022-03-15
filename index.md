@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/trichaptum_abietinum_01_wi.jpg" %}
 {% include abbildung_ende.html %}
 
-15.03.2022: Aktueller Fundkorbpilz ist der Gemeine Violettporling *Trichaptum abietinum*. Fehlt in keinem Kiefernbestand, in dem Totholz herumliegt. Am üppisten wächst er an liegenden Stämmen, oft in mehrere Meter langen Reihen. Seitlich bildet er abstehende Hütchen, an frei liegenden Unterseiten [resupinate](resupinat "Glossar") Beläge. Von oben betrachtet ist er unscheinbar, die porige Unterseite ist, solange die Fruchtkörper frisch sind, schön violett.  (Dieter Gewalt)
+15.03.2022: Aktueller Fundkorbpilz ist der Gemeine Violettporling *Trichaptum abietinum*. Fehlt in keinem Kiefernbestand, in dem Totholz herumliegt. Am üppigsten wächst er an liegenden Stämmen, oft in mehrere Meter langen Reihen. Seitlich bildet er abstehende Hütchen, an frei liegenden Unterseiten [resupinate](resupinat "Glossar") Beläge. Von oben betrachtet ist er unscheinbar, die porige Unterseite ist, solange die Fruchtkörper frisch sind, schön violett.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)
 
