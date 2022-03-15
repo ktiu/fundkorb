@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trichaptum_abietinum_01_wi.jpg" %}
+{% include abbildung_ende.html %}
+
+15.03.2022: Aktueller Fundkorbpilz ist der Gemeine Violettporling *Trichaptum abietinum*. Fehlt in keinem Kiefernbestand, in dem Totholz herumliegt. Am üppisten wächst er an liegenden Stämmen, oft in mehrere Meter langen Reihen. Seitlich bildet er abstehende Hütchen, an frei liegenden Unterseiten [resupinate](resupinat "Glossar") Beläge. Von oben betrachtet ist er unscheinbar, die porige Unterseite ist, solange die Fruchtkörper frisch sind, schön violett.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lachnella_alboviolascens_02_iw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,19 +47,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/daedalea-quercina-eichenwirrling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-<figure class="figure">
-<video controls width="100%">
-  <source src="/bilder/lophodermium_petiolicola_04_14-sec.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</figure>
-
-12.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Petiolen-Spaltlippe *Lophodermium petiolicola*. Man findet die schiffchen- oder lippenförmigen Fruchtkörper schon früh im Jahr auf Blattstielen (Petiolen) von vorjährigen Roteichenblättern. Wie alle Spaltlippen wachsen sie gesellig und sind winzig klein, bis ca. 2 mm lang. Bei der hier gezeigten Art sind oft mehrere miteinander verbunden und können längere Ketten bilden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)
 
 - - -
 
