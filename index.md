@@ -15,10 +15,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cucurbitaria_berberidis_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Berberitzenkugelpilz *Cucurbitaria berberidis.* Die winzigen [Pyrenomyzeten](Pyrenomyzeten "Glossar") wachsen ganzjährig an abgestorbenen Stängeln und Zweigen von Berberitzen und sind wohl überall zu finden, wo Berberitzen stehen. Sie haben eine maulbeerartige Struktur und brechen aus der trockenen Rinde hervor. Oft erscheinen sie als schwarze Spalten, in denen man mit einer guten Lupe die Details erkennen kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trichaptum_abietinum_01_wi.jpg" %}
 {% include abbildung_ende.html %}
 
-15.03.2022: Aktueller Fundkorbpilz ist der Gemeine Violettporling *Trichaptum abietinum*. Fehlt in keinem Kiefernbestand, in dem Totholz herumliegt. Am üppigsten wächst er an liegenden Stämmen, oft in mehrere Meter langen Reihen. Seitlich bildet er abstehende Hütchen, an frei liegenden Unterseiten [resupinate](resupinat "Glossar") Beläge. Von oben betrachtet ist er unscheinbar, die porige Unterseite ist, solange die Fruchtkörper frisch sind, schön violett.  (Dieter Gewalt)
+15.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Gemeine Violettporling *Trichaptum abietinum*. Fehlt in keinem Kiefernbestand, in dem Totholz herumliegt. Am üppigsten wächst er an liegenden Stämmen, oft in mehrere Meter langen Reihen. Seitlich bildet er abstehende Hütchen, an frei liegenden Unterseiten [resupinate](resupinat "Glossar") Beläge. Von oben betrachtet ist er unscheinbar, die porige Unterseite ist, solange die Fruchtkörper frisch sind, schön violett.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)
 
@@ -33,18 +45,6 @@ footer_scripts:
 14.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Weißviolette Schüsselseitling *Lachnella alboviolascens*. Auf den ersten Blick könnte man einen Ascomyzeten vermuten, er gehört aber zu den Ständerpilzen (Basidiomyzeten). Die einzelnen Fruchtkörperchen sind winzig klein ( max. 1,5 mm), aber da sie meist zu vielen und dicht gedrängt auf ihrem Substrat sitzen, durchaus zu entdecken. Man findet ihn an am Boden liegenden oder noch am Baum oder Strauch hängenden abgestorbenen Ästen von Laubgehölzen wie Holunder, Weide, Erle, Esche und vielen anderen Der Pilz scheint da nicht sehr wählerisch zu sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lachnella-alboviolascens-weißvioletter-schüsselseitling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/daedalea_quercina_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Eichenwirrling  *Daedalea quercina*. Er gehört zu den wenigen Pilzarten, die man mit verbundenen Augen erkennen kann. Gefragt ist der Tastsinn. Das labyrinthische zäh-elastische [Hymenophor](Hymenophor "Glossar") der Unterseite (Foto) ist ein Alleinstellungsmerkmal. Der Eichenwirrling ist nahezu 100-prozentig wirtstreu. Er wächst an Stümpfen und am Boden liegenden Ästen und ist überall häufig, wo es Eichen gibt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/daedalea-quercina-eichenwirrling)
 
 <div style="clear:  both"></div>
 
