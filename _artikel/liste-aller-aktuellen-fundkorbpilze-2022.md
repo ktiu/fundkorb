@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-16.02.2022: [Cucurbitaria berberidis - Berberitzenkugelpilz](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)  
+17.03.2022: [Ganoderma applanatum - Flacher Lackporling](/pilze/ganoderma-applanatum-flacher-lackporling)  
+16.03.2022: [Cucurbitaria berberidis - Berberitzenkugelpilz](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)\
 15.03.2022: [Trichaptum abietinum - Gemeiner Violettporling](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)\
 14.03.2022: [Lachnella alboviolascens - Weißvioletter Schüsselseitling](/pilze/lachnella-alboviolascens-weißvioletter-schüsselseitling)\
 13.03.2022: [Daedalea quercina - Eichenwirrling](/pilze/daedalea-quercina-eichenwirrling)\
