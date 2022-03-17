@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ganoderma_applanatum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Flache Lackporling *Ganoderma applanatum*. Er gehört zu den häufigsten großen holzbewohnenden Pilzarten und dürfte in kaum einen Laubwald fehlen. Zu seinen Merkmalen gehört die braune Kruste der Oberfläche, die sich mit dem Fingernagel eindrücken lässt. Die helle Hutunterseite lässt sich ebenfalls mit dem Fingernagel oder anderen spitzen Gegenständen ritzen. Manche Pilzfreunde malen so Bildchen auf die Porenschicht. Häufig ist sie mit Zitzengallen einer Pilzfliege besetzt, ein weiteres untrügliches Kennzeichen. Im Sommer und Herbst produziert der Pilz enorme Mengen von Sporen, die sich in der Umgebung (auf Blättern, Moos, etc.) und erstaunlicherweise auch auf der Hutoberfläche ablagern. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ganoderma-applanatum-flacher-lackporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cucurbitaria_berberidis_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 15.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Gemeine Violettporling *Trichaptum abietinum*. Fehlt in keinem Kiefernbestand, in dem Totholz herumliegt. Am üppigsten wächst er an liegenden Stämmen, oft in mehrere Meter langen Reihen. Seitlich bildet er abstehende Hütchen, an frei liegenden Unterseiten [resupinate](resupinat "Glossar") Beläge. Von oben betrachtet ist er unscheinbar, die porige Unterseite ist, solange die Fruchtkörper frisch sind, schön violett.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lachnella_alboviolascens_02_iw.jpg" %}
-{% include abbildung_ende.html %}
-
-14.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Weißviolette Schüsselseitling *Lachnella alboviolascens*. Auf den ersten Blick könnte man einen Ascomyzeten vermuten, er gehört aber zu den Ständerpilzen (Basidiomyzeten). Die einzelnen Fruchtkörperchen sind winzig klein ( max. 1,5 mm), aber da sie meist zu vielen und dicht gedrängt auf ihrem Substrat sitzen, durchaus zu entdecken. Man findet ihn an am Boden liegenden oder noch am Baum oder Strauch hängenden abgestorbenen Ästen von Laubgehölzen wie Holunder, Weide, Erle, Esche und vielen anderen Der Pilz scheint da nicht sehr wählerisch zu sein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lachnella-alboviolascens-weißvioletter-schüsselseitling)
 
 <div style="clear:  both"></div>
 
