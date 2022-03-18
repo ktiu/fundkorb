@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lenzites_betulinus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Birkenblättling *Lenzites betulinus*, der keineswegs nur an totem Birkenholz vorkommt. Nach meinen Beobachtungen hat er ein ziemlich weites Wirtsspektrum und ist am häufigsten an Buche zu finden. Die rosetten- oder fächerförmigen Pilze erscheinen meist zu mehreren über- und nebeneinander auf oder seitlich an ihrem Substrat. Die filzige Oberfläche ist konzentrisch gezont, die Farben variieren dabei von hell- oder grauocker bis hellbraun, Teile der Fruchtkörper können durch Algenbewuchs grün gefärbt sein. Das [Hymenophor](Hymenophor "Glossar") an der Unterseite ist lamellig, manchmal stellenweise porig oder [daedaloid](daedaloid "Glossar"). (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lenzites-betulinus-birkenblättling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ganoderma_applanatum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -33,18 +45,6 @@ footer_scripts:
 16.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Berberitzenkugelpilz *Cucurbitaria berberidis.* Die winzigen [Pyrenomyzeten](Pyrenomyzeten "Glossar") wachsen ganzjährig an abgestorbenen Stängeln und Zweigen von Berberitzen und sind wohl überall zu finden, wo Berberitzen stehen. Sie haben eine maulbeerartige Struktur und brechen aus der trockenen Rinde hervor. Oft erscheinen sie als schwarze Spalten, in denen man mit einer guten Lupe die Details erkennen kann. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trichaptum_abietinum_01_wi.jpg" %}
-{% include abbildung_ende.html %}
-
-15.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Gemeine Violettporling *Trichaptum abietinum*. Fehlt in keinem Kiefernbestand, in dem Totholz herumliegt. Am üppigsten wächst er an liegenden Stämmen, oft in mehrere Meter langen Reihen. Seitlich bildet er abstehende Hütchen, an frei liegenden Unterseiten [resupinate](resupinat "Glossar") Beläge. Von oben betrachtet ist er unscheinbar, die porige Unterseite ist, solange die Fruchtkörper frisch sind, schön violett.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)
 
 <div style="clear:  both"></div>
 
