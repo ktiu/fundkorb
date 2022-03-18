@@ -8,6 +8,10 @@ aktualisiert: 2021-07-30
 ---
 Schleimpilze sind keine Pilze sondern Organismen, die Eigenschaften von Tieren und Pilzen in sich vereinen. In ihrem ersten Lebensstadium entstehen aus keimenden Sporen winzige amöbenartige Tiere, die nur einen Zellkern besitzen und sich nach sexueller Paarung zu vielzelligen Lebewesen entwickeln, die sich kriechend fortbewegen und fressen. In diesem Stadium, *[Plasmodium](Plasmodium "Glossar")* genannt, erreichen sie beachtliche Größen mit Millionen von Zellkernen und sind zu erstaunlichen Leistungen fähig. In Experimenten haben sie bewiesen, dass sie sogar in einem Labyrinth (sie können ja nicht über die Wände schauen!) auf direktem Weg die angebotene Nahrung finden. Sie ernähren sich von organischem Material (Pilzsporen, Bakterien, Pflanzenreste, winzige Lebewesen), das sie mit ihrem Schleimkörper umfließen und verdauen.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/myxomyzet_plasmodium_01_br.jpg" %}
+{% include abbildung_ende.html legende="Plasmodium eines Schleimpilzes, der in diesem Stadium nicht sicher identifizierbar ist (Foto: Brigitte Rothermel; Info: https://www.schleimpilz-liz.de/24-plasmodium.php)" %}
+
 Im dritten Lebenszyklus verwandeln sie sich in sogenannte *[Fruktifikationen](Fruktifikation "Glossar")* und produzieren Unmengen von Sporen, mit denen sie den Fortbestand ihrer Art sichern. Das Aussehen dieser Fruktifikationen ist sehr vielgestaltig und ändert sich im Laufe der Entwicklung bis zum reifen Fruchtkörper (*Sporokarp*) oft mehrfach. In diesem Stadium sind sie anhand [morphologischer](Morphologie "Glossar") Kennzeichen als unterschiedliche Arten erkennbar. Manche lassen sich bereits optisch leicht bestimmen, andere nur mit ausreichend vergrößernder Lupe, in den meisten Fällen müssen auch mikroskopische Merkmale beachtet werden.
 
 {% include abbildung_start.html stil="mittel" %}
@@ -57,4 +61,5 @@ Bisher 16 Schleimpilzarten aus 10 Gattungen (4 Familien) im Fundkorb. Weitere we
 ##### Weiterführende Literatur:
 
 Hermann Neubert, Wolfgang Nowotny, Karlheinz Baumann: Die Myxomyceten (3 Bände)\
-Marion Geib: Myxomycezen - Kleiner Führer für Exkursionen
+Marion Geib: Myxomycezen - Kleiner Führer für Exkursionen  
+https://www.schleimpilz-liz.de/24-plasmodium.php
