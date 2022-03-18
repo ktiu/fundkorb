@@ -1,7 +1,7 @@
 ---
 aktivitaet: Pilz- und naturkundliche Exkursion im NSG Kühkopf
 zeit: 2022-04-03T10:30:07.022Z
-anmeldung_offen: false
+anmeldung_offen: true
 published: true
 ---
 Der Kühkopf ist Teil des 440 ha großen Naturreservats *Kühkopf-Knoblochsaue* auf einer vom Altrhein gebildeten Insel und eine der bedeutendsten Auenlandschaften in Deutschland.
