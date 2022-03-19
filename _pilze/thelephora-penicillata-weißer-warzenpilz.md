@@ -25,8 +25,8 @@ Die Art ist sehr selten. Der einzige hessische Nachweis im Verbreitungsatlas bef
 
 ##### Die fünf in Deutschland nachgewiesenen Thelephora-Arten:
 
-Thelephora anthocephala = Blumen-Warzenpilz  
-Thelephora caryophyllea = Nelkenförmiger Warzenpilz  
-Thelephora palmata = Stinkender Warzenpilz  
-Thelephora penicillata = Weißer Warzenpilz  
+Thelephora anthocephala = Blumen-Warzenpilz\
+[Thelephora caryophyllea = Nelkenförmiger Warzenpilz](/pilze/thelephora-caryophyllea-nelkenförmiger-warzenpilz)\
+[Thelephora palmata = Stinkender Warzenpilz](/pilze/thelephora-palmata-stinkender-warzenpilz)\
+Thelephora penicillata = Weißer Warzenpilz\
 [Thelephora terrestris = Erdwarzenpilz](/pilze/thelephora-terrestris-erdwarzenpilz)
