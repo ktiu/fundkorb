@@ -12,6 +12,8 @@ hauptbild:
   anzeige: true
   datei: /bilder/sarcoscypha_coccinea_02_tl.jpg
 published: true
+literatur:
+  - url: http://tintling.com/pilzbuch/arten/s/Sarcoscypha_coccinea
 ---
 ### Funddaten der beschriebenen Kollektion
 
