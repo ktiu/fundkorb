@@ -20,7 +20,7 @@ Der seltene Bittere Eichenritterling ist der Doppelgänger des häufigeren [Bran
 Der Bittere Eichenritterling wird auch *Braun-weiß gestielter Ritterling* genannt, womit der oft sehr deutlich kontrastierende Unterschied zwischen weißer Stielspitze und dem braunen längsfaserigen Teil des Stiels gemeint ist, der zur Basis hin meist deutlich zugespitzt ist. Diese Merkmale können, wenn sie gut ausgeprägt sind, immerhin tendenziell für *Tricholoma ustaloides* sprechen. Als Schwierigkeit kommen noch die zum Teil enorme Variabilität bei vielen Pilzarten und die oft widersprüchlichen und unpräzisen Angaben in der Literatur hinzu. *Karin Montag* bezeichnet den Bitteren Eichenritterling als schleimigsten aller braunen Ritterlinge und weist auch auf die Problematik beim Bestimmen hin:
 
 > Sind außer Eichen noch andere Bäume am Standort, oder hat trockene Witterung die Huthaut mattiert, oder ist die Ringzone mal nicht so markant, kann man sich stunden- und tagelang mit der Problematik der braunen Ritterlinge beschäftigen. Zur Auswahl stehen hier bisher: Weißbrauner Ritterling Tricholoma albobrunneum, Fastberingter Ritterling  Tricholoma fracticum, Gelbblättriger Ritterling Tricholoma fulvum, [Feinschuppiger Ritterling Tricholoma imbricatum](/pilze/tricholoma-imbricatum-feinschuppiger-ritterling),  [Pappel-Ritterling Tricholoma populinum](/pilze/tricholoma-populinum-pappelritterling)  und [Brandiger Ritterling Tricholoma ustale](/pilze/tricholoma-ustale-brandiger-ritterling). Und denken Sie jetzt bloß nicht, dass das schon alle wären..."
->
-> {% include abbildung_start.html stil="standard" %}
-> {% include bild.html datei="/bilder/tricholoma_ustaloides_02_dg.jpg" %}
-> {% include abbildung_ende.html %}
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/tricholoma_ustaloides_02_dg.jpg" %}
+{% include abbildung_ende.html %}
