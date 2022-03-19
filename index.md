@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phleogena_faginea_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Buchen-Hütchenträger *Phleogena faginea*, ein Minipilzchen, dessen gestielte Fruchtkörper oft massenhaft aus Rindenlücken hervorbrechen. Ihre runden Köpfchen erreichen gerade mal 1 bis 3 mm Durchmesser, sind von hellgrauer Farbe und körneliger Oberfläche, was natürlich nur mit einer guten Lupe zu erkennen ist. Er wird oft für einen Schleimpilz gehalten, gehört jedoch zu den Ständerpilzen (*Basidiomyzeten*): (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phleogena-faginea-buchen-hütchenträger)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lenzites_betulinus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 17.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Flache Lackporling *Ganoderma applanatum*. Er gehört zu den häufigsten großen holzbewohnenden Pilzarten und dürfte in kaum einen Laubwald fehlen. Zu seinen Merkmalen gehört die braune Kruste der Oberfläche, die sich mit dem Fingernagel eindrücken lässt. Die helle Hutunterseite lässt sich ebenfalls mit dem Fingernagel oder anderen spitzen Gegenständen ritzen. Manche Pilzfreunde malen so Bildchen auf die Porenschicht. Häufig ist sie mit Zitzengallen einer Pilzfliege besetzt, ein weiteres untrügliches Kennzeichen. Im Sommer und Herbst produziert der Pilz enorme Mengen von Sporen, die sich in der Umgebung (auf Blättern, Moos, etc.) und erstaunlicherweise auch auf der Hutoberfläche ablagern. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/ganoderma-applanatum-flacher-lackporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cucurbitaria_berberidis_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Berberitzenkugelpilz *Cucurbitaria berberidis.* Die winzigen [Pyrenomyzeten](Pyrenomyzeten "Glossar") wachsen ganzjährig an abgestorbenen Stängeln und Zweigen von Berberitzen und sind wohl überall zu finden, wo Berberitzen stehen. Sie haben eine maulbeerartige Struktur und brechen aus der trockenen Rinde hervor. Oft erscheinen sie als schwarze Spalten, in denen man mit einer guten Lupe die Details erkennen kann. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)
 
 <div style="clear:  both"></div>
 
