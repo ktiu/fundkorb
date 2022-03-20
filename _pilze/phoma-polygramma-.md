@@ -21,3 +21,8 @@ Gleich zwei [Ascomyzeten](Ascomyzeten "Glossar") sind auf diesem Spitzwegerichbl
 {% include abbildung_ende.html %}
 
 Man muss schon mit der Lupe suchen, um sie während der Wintermonate auf den Wegerichblättern zu entdecken, auf denen sie meist gleichzeitig mit *[Spilopodia nervisequa](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz)* wachsen. Mit ihrem Erscheinen beginnen die Blätter zu welken und sich grau oder graurosa zu verfärben.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/spilopodia_nervisequa_05_hl.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/phoma_polygramma_01_hl.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Abb. links: Spilopodia nervisequa -- Abb. rechts: Phoma polygramma     (2 Fotos: Hermine Lotz-Winter)" %}
