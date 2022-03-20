@@ -13,7 +13,7 @@ hauptbild:
   datei: /bilder/tricholoma_ustaloides_01_dg.jpeg
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz, Band 3, Nr. 440"
-  - url: "Breitenbach & Kränzlin: Pilze der Schweiz, Band 3, Nr. 440"
+  - url: http://tintling.com/pilzbuch/arten/t/Tricholoma_ustaloides.html
 ---
 Der seltene Bittere Eichenritterling ist der Doppelgänger des häufigeren [Brandigen Ritterlings *Tricholoma ustale*](/pilze/tricholoma-ustale-brandiger-ritterling). Große Ähnlichkeit hat auch der Fastberingte Ritterling *Tricholoma fracticum*, der auf kalkhaltigen Böden in Nadelwäldern vor allem unter Kiefern wächst. Die beiden anderen bevorzugen nicht zu trockene, saure sandige Böden in Laubwäldern, *Tricholoma ustaloides* offenbar Eichen als Begleitbaum. Sie gehören alle zu einer nicht geringen Anzahl von braunen Ritterlingen, die nicht leicht zu unterscheiden sind. 
 
