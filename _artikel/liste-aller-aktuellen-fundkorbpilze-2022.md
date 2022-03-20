@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-19.03.2022: [Phleogena faginea - Buchen-Hütchenträger](/pilze/phleogena-faginea-buchen-hütchenträger)  
+20.03.2022: [Lophodermium seditiosum - Kiefernschütte-Spaltlippe](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe)  
+19.03.2022: [Phleogena faginea - Buchen-Hütchenträger](/pilze/phleogena-faginea-buchen-hütchenträger)\
 18.03.2022: [Lenzites betulinus - Birkenblättling](/pilze/lenzites-betulinus-birkenblättling)\
 17.03.2022: [Ganoderma applanatum - Flacher Lackporling](/pilze/ganoderma-applanatum-flacher-lackporling)\
 16.03.2022: [Cucurbitaria berberidis - Berberitzenkugelpilz](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)\
