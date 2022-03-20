@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lophodermium_seditiosum_kiefernschütte-spaltlippe_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Kiefernschütte-Spaltlippe *Lophodermium seditiosum*. Sie entwickelt sich an Nadeln in den Kronen von Kiefern und ist Verursacher der sogenannten Kiefernschütte. Die Folgen für befallene Bäume sind Kronenverlichtung, Triebsterben und Anfälligkeiten für andere Schadfaktoren. An abgefallenen Ästchen sind die Spaltlippen dann auch am Boden zu finden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phleogena_faginea_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
