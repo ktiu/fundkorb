@@ -116,6 +116,10 @@ collections:
       - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean", default: true}
       - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
       - {label: "Bild", name: "bild", widget: "image", required: false}
+      - label: "Bilder"
+        name: "bilder"
+        widget: "list"
+        field: {label: "Bild", name: "bild", widget: "image"}
       - {label: "Beschreibung", name: "body", widget: "markdown", editorComponents: []}
 
 #  ____  _ _
