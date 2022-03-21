@@ -18,8 +18,8 @@
 {% if termin.bilder %}
 {% capture imgs %}{{ termin.bilder | size | minus:1 }}{% endcapture %}
 {% unless imgs contains '-' %}
-<div class="abbildung"><figure class="figure"><div class="bild">
-{% for bild in page.bilder %}
+<div class="abbildung"><figure class="figure"><div class="bilder">
+{% for bild in termin.bilder %}
 <div class="bild"><img src="{{ bild.bild }}"></div>
 {% endfor %}
 </div></figure></div> 
