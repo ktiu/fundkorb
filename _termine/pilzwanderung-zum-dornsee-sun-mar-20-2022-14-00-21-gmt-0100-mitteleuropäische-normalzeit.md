@@ -3,7 +3,6 @@ aktivitaet: Zu den Frühjahrslorcheln bei Waldacker
 zeit: 2022-03-27T10:00:21.743Z
 anmeldung_offen: true
 published: true
-bild: /bilder/exkursion_lorcheln.jpg
 bilder:
   - /bilder/gyromitra_esculenta_03_ii.jpg
   - /bilder/gyromitra_esculenta_07_dg.jpg

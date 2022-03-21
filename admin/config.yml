@@ -115,7 +115,6 @@ collections:
       - {label: "Teilnahmegebühr", name: "teilnahmegebuehr", widget: "string", required: false}
       - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean", default: true}
       - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
-      - {label: "Bild", name: "bild", widget: "image", required: false}
       - label: "Bilder"
         name: "bilder"
         widget: "list"
