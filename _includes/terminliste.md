@@ -20,7 +20,7 @@
 {% unless imgs contains '-' %}
 <div class="abbildung"><figure class="figure"><div class="bilder">
 {% for bild in termin.bilder %}
-<div class="bild"><img src="{{ bild.bild }}"></div>
+<div class="bild"><img src="{{ bild }}"></div>
 {% endfor %}
 </div></figure></div> 
 {% endunless %}
