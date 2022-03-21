@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/gyromitra_esculenta_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Frühjahrslorchel *Gyromitra esculenta*, gestern von *Inga Illig* aus dem Kiefernwald bei Waldacker gemeldet. Diese auffällige Art ist als delikater Giftpilz bekannt und berüchtigt und Anlass für uns, gleich einen [Exkursionstermin](/termine) anzubieten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gyromitra-esculenta-frühjahrslorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lophodermium_seditiosum_kiefernschütte-spaltlippe_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -33,30 +45,6 @@ footer_scripts:
 19.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Buchen-Hütchenträger *Phleogena faginea*, ein Minipilzchen, dessen gestielte Fruchtkörper oft massenhaft aus Rindenlücken hervorbrechen. Ihre runden Köpfchen erreichen gerade mal 1 bis 3 mm Durchmesser, sind von hellgrauer Farbe und körneliger Oberfläche, was natürlich nur mit einer guten Lupe zu erkennen ist. Er wird oft für einen Schleimpilz gehalten, gehört jedoch zu den Ständerpilzen (*Basidiomyzeten*): (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phleogena-faginea-buchen-hütchenträger)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lenzites_betulinus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Birkenblättling *Lenzites betulinus*, der keineswegs nur an totem Birkenholz vorkommt. Nach meinen Beobachtungen hat er ein ziemlich weites Wirtsspektrum und ist am häufigsten an Buche zu finden. Die rosetten- oder fächerförmigen Pilze erscheinen meist zu mehreren über- und nebeneinander auf oder seitlich an ihrem Substrat. Die filzige Oberfläche ist konzentrisch gezont, die Farben variieren dabei von hell- oder grauocker bis hellbraun, Teile der Fruchtkörper können durch Algenbewuchs grün gefärbt sein. Das [Hymenophor](Hymenophor "Glossar") an der Unterseite ist lamellig, manchmal stellenweise porig oder [daedaloid](daedaloid "Glossar"). (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lenzites-betulinus-birkenblättling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ganoderma_applanatum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Flache Lackporling *Ganoderma applanatum*. Er gehört zu den häufigsten großen holzbewohnenden Pilzarten und dürfte in kaum einen Laubwald fehlen. Zu seinen Merkmalen gehört die braune Kruste der Oberfläche, die sich mit dem Fingernagel eindrücken lässt. Die helle Hutunterseite lässt sich ebenfalls mit dem Fingernagel oder anderen spitzen Gegenständen ritzen. Manche Pilzfreunde malen so Bildchen auf die Porenschicht. Häufig ist sie mit Zitzengallen einer Pilzfliege besetzt, ein weiteres untrügliches Kennzeichen. Im Sommer und Herbst produziert der Pilz enorme Mengen von Sporen, die sich in der Umgebung (auf Blättern, Moos, etc.) und erstaunlicherweise auch auf der Hutoberfläche ablagern. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ganoderma-applanatum-flacher-lackporling)
 
 <div style="clear:  both"></div>
 
