@@ -4,6 +4,10 @@ zeit: 2022-03-27T10:00:21.743Z
 anmeldung_offen: true
 published: true
 bild: /bilder/exkursion_lorcheln.jpg
+bilder:
+  - /bilder/gyromitra_esculenta_03_ii.jpg
+  - /bilder/gyromitra_esculenta_07_dg.jpg
+  - /bilder/gyromitra_esculenta_08_dg.jpg
 ---
 
 Sie sind im Kommen, die delikaten Giftpilze! Bei unserer Exkursion durch den Kiefernwald bei Waldacker wird der scheinbare Widerspruch aufgeklärt, der zwischen *delikat* und *potentiell tödlich giftig* besteht. Wer es vorher schon wissen will: unser Fundkorb-Artikel gibt Auskunft ([\> mehr lesen](/artikel/ein-delikater-giftpilz.html)).
