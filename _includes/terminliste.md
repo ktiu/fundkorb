@@ -14,7 +14,7 @@
         <p class="card-text">Uhrzeit:<br /><strong>{{ uhrzeit }}</strong></p>
         {% if termin.treffpunkt and termin.treffpunkt != "" %}<p class="card-text">Treffpunkt:<br /><strong>{{ termin.treffpunkt }}</strong></p>{% endif %}
         {% if termin.teilnahmegebuehr and termin.teilnahmegebuehr != "" %}<p class="card-text">Teilnahmegebühr:<br /><strong>{{ termin.teilnahmegebuehr }}</strong></p>{% endif %}
-        {{ termin.content }}
+        {{ termin.content | markdownify }}
       </div>
       {% if termin.anmeldung_offen %}
       <div class="text-center">
