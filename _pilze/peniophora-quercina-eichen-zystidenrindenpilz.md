@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Eichen-Zystidenrindenpilz
   referenz: (Pers.) Cooke 1879
   erlaeuterung: quercina = an Eiche
-  familie: Peniophoracea
+  familie: Peniophoraceae
 profil:
   aktualisiert: 2022-03-22
   autor_in: Dieter Gewalt
