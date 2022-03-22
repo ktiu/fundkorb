@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-21.03.2022: [Gyromitra esculenta - Frühjahrslorchel](/pilze/gyromitra-esculenta-frühjahrslorchel)  
+22.03.2022: [Geopora sumneriana - Zedern-Sandborstling](/pilze/geopora-sumneriana-zedern-sandborstling)  
+21.03.2022: [Gyromitra esculenta - Frühjahrslorchel](/pilze/gyromitra-esculenta-frühjahrslorchel)\
 20.03.2022: [Lophodermium seditiosum - Kiefernschütte-Spaltlippe](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe)\
 19.03.2022: [Phleogena faginea - Buchen-Hütchenträger](/pilze/phleogena-faginea-buchen-hütchenträger)\
 18.03.2022: [Lenzites betulinus - Birkenblättling](/pilze/lenzites-betulinus-birkenblättling)\
