@@ -4,9 +4,10 @@ beschreibung:
   deutsch: Runzelige Koralle
   referenz: (Bull.) J. Schröt. 1888
   erlaeuterung: rugosa = runzelig
+  familie: Hydnaceae
 profil:
   aktualisiert: 2022-03-22
-  autor_in: Hydnaceae
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/clavulina_rugosa_01_nk.jpg
@@ -27,7 +28,7 @@ Clavulina coralloides:  7 - 9 x 6 - 7,5 µm
 
 Als Speisepilze haben die Korallen der Gattung *Clavulina* in Deutschland keine nenneswerte Bedeutung, gelten aber als essbar. In Frankreich soll sich vor allem die Kammkoralle großer Beliebtheit erfreuen. Die Runzelige Koralle habe ich einmal in der Küche getestet - mit sehr mittelmäßiger Bewertung. Das soll andere Küchenmykologen nicht von einen eigenen Versuchen abhalten. Geschmäcker sind nun mal verschieden.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/clavulina_rugosa_01_nk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/clavulina_coralloides_04_nk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Zum Vergleich: Clavulina rugosa = Astspitzen nicht oder wenig und stumpf verzweigt -- Clavulina coralloides = Astspitzen immer und oft vielfach spitz verzweigt  (2 Fotos: Norbert Kühnberger)" %}
