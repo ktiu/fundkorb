@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/geopora_sumneriana_06_dg-.jpg" %}
+{% include abbildung_ende.html %}
+
+22.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Zedern-Sandborstling *Geopora sumneriana*. Standorttreu und etwas verfrüht sind die ersten bei unserer Zeder in einem Dietzenbacher Park erschienen. Die meisten seiner Fruchtkörper waren noch geschlossen und sahen von oben wie Minimauselöcher aus. Bei zwei von ihnen war immerhin schon das glatte grauweiße Innenleben des [Hymeniums](Hymenium "Glossar") zu erkennen. Zweifel waren ohnehin nicht angebracht. Man kennt ja die zuverlässigen Standorte seiner Schätzchen aus vielen vergangenen Jahren. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/geopora-sumneriana-zedern-sandborstling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gyromitra_esculenta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 20.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Kiefernschütte-Spaltlippe *Lophodermium seditiosum*. Sie entwickelt sich an Nadeln in den Kronen von Kiefern und ist Verursacher der sogenannten Kiefernschütte. Die Folgen für befallene Bäume sind Kronenverlichtung, Triebsterben und Anfälligkeiten für andere Schadfaktoren. An abgefallenen Ästchen sind die Spaltlippen dann auch am Boden zu finden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phleogena_faginea_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Buchen-Hütchenträger *Phleogena faginea*, ein Minipilzchen, dessen gestielte Fruchtkörper oft massenhaft aus Rindenlücken hervorbrechen. Ihre runden Köpfchen erreichen gerade mal 1 bis 3 mm Durchmesser, sind von hellgrauer Farbe und körneliger Oberfläche, was natürlich nur mit einer guten Lupe zu erkennen ist. Er wird oft für einen Schleimpilz gehalten, gehört jedoch zu den Ständerpilzen (*Basidiomyzeten*): (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phleogena-faginea-buchen-hütchenträger)
 
 <div style="clear:  both"></div>
 
