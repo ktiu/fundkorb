@@ -224,6 +224,15 @@ collections:
         format: "YYYY-MM-DD"
         dateFormat: "DD.MM.YYYY"
         timeFormat: false
+      - label: "Weiterführende Literatur"
+        label_singular: "Literatureintrag"
+        name: "literatur"
+        widget: "list"
+        minimize_collapsed: true
+        summary: "{{fields.text}} - {{fields.url}}"
+        fields:
+          - {label: "Anzeigetext", name: "text", widget: "string", required: false}
+          - {label: "Link", name: "url", widget: "string", required: false}
       - name: "body"
         label: "Text"
         widget: "markdown"
