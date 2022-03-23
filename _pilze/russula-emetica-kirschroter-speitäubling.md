@@ -53,6 +53,8 @@ Es existiert noch ein weiterer Speitäubling, *[Russula fragilis](/pilze/russula
   </table>
 </div>
 
+Der Kirschrote Speitäubling ist erstaunlicherweise die Typusart für die gesamte Gattung *Russula*.
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_emetica_02_gg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Die Illustration von Gabriele Gossner (in: Hans Haas – Pilze Mitteleuropas, 1964) zeigt, wie man sich damals den Kirschroten Speitäubling vorgestellt hat" %}
