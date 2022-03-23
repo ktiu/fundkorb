@@ -5,12 +5,12 @@ hauptbild:
   anzeige: false
   datei: /bilder/physarum_cinereum_08_dg.jpg
 aktualisiert: 2021-07-30
-Hermann Neubert, Wolfgang Nowotny, Karlheinz Baumann: Die Myxomyceten (3 Bände)\
-Marion Geib: Myxomycezen - Kleiner Führer für Exkursionen  
+"Hermann Neubert, Wolfgang Nowotny, Karlheinz Baumann": Die Myxomyceten (3 Bände)\
+Marion Geib: Myxomycezen - Kleiner Führer für Exkursionen
 literatur:
-  - text: | 
-      | Hermann Neubert, Wolfgang Nowotny, Karlheinz Baumann: Die Myxomyceten (3 Bände)
-      | Marion Geib: Myxomycezen - Kleiner Führer für Exkursionen  
+  - text: "Marion Geib: Myxomycezen: Kleiner Führer für Exkursionen. In: Hermann
+      Neubert, Wolfgang Nowotny, Karlheinz Baumann (Hrsg.). Die Myxomyceten (3
+      Bände)"
     url: https://www.schleimpilz-liz.de/24-plasmodium.php
 ---
 
