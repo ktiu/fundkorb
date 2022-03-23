@@ -8,10 +8,11 @@ aktualisiert: 2021-07-30
 "Hermann Neubert, Wolfgang Nowotny, Karlheinz Baumann": Die Myxomyceten (3 Bände)\
 Marion Geib: Myxomycezen - Kleiner Führer für Exkursionen
 literatur:
-  - text: "Marion Geib: Myxomycezen: Kleiner Führer für Exkursionen. In: Hermann
-      Neubert, Wolfgang Nowotny, Karlheinz Baumann (Hrsg.). Die Myxomyceten (3
+  - text: "Marion Geib: Myxomycezen: Kleiner Führer für Exkursionen"
+    url: ""
+  - text: "Hermann Neubert, Wolfgang Nowotny, Karlheinz Baumann: Die Myxomyceten (3
       Bände)"
-    url: https://www.schleimpilz-liz.de/24-plasmodium.php
+  - url: https://www.schleimpilz-liz.de/24-plasmodium.php
 ---
 
 Schleimpilze sind keine Pilze sondern Organismen, die Eigenschaften von Tieren und Pilzen in sich vereinen. In ihrem ersten Lebensstadium entstehen aus keimenden Sporen winzige amöbenartige Tiere, die nur einen Zellkern besitzen und sich nach sexueller Paarung zu vielzelligen Lebewesen entwickeln, die sich kriechend fortbewegen und fressen. In diesem Stadium, *[Plasmodium](Plasmodium "Glossar")* genannt, erreichen sie beachtliche Größen mit Millionen von Zellkernen und sind zu erstaunlichen Leistungen fähig. In Experimenten haben sie bewiesen, dass sie sogar in einem Labyrinth (sie können ja nicht über die Wände schauen!) auf direktem Weg die angebotene Nahrung finden. Sie ernähren sich von organischem Material (Pilzsporen, Bakterien, Pflanzenreste, winzige Lebewesen), das sie mit ihrem Schleimkörper umfließen und verdauen.
