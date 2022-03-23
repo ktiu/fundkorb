@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/piptoporus_betulinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Birkenporling *Piptoporus betulinus*. Mitte März wird man nur noch überständige Exemplare aus dem Vorjahr sehen, die man besser nicht mehr als Heilpilz bei Magen-/Darmbeschwerden verwenden sollte. Im Spätsommer beginnt seine Fruktifikationsperiode und er ist tatsächlich nur an Birken zu finden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/piptoporus-betulinus-birkenporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/geopora_sumneriana_06_dg-.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 21.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Frühjahrslorchel *Gyromitra esculenta*, gestern von *Inga Illig* aus dem Kiefernwald bei Waldacker gemeldet. Diese auffällige Art ist als delikater Giftpilz bekannt und berüchtigt und Anlass für uns, gleich einen [Exkursionstermin](/termine) anzubieten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gyromitra-esculenta-frühjahrslorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lophodermium_seditiosum_kiefernschütte-spaltlippe_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Kiefernschütte-Spaltlippe *Lophodermium seditiosum*. Sie entwickelt sich an Nadeln in den Kronen von Kiefern und ist Verursacher der sogenannten Kiefernschütte. Die Folgen für befallene Bäume sind Kronenverlichtung, Triebsterben und Anfälligkeiten für andere Schadfaktoren. An abgefallenen Ästchen sind die Spaltlippen dann auch am Boden zu finden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe)
 
 <div style="clear:  both"></div>
 
