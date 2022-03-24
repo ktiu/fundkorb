@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-23.03.2022: [Piptopotus betulinus - Birkenporling](/pilze/piptoporus-betulinus-birkenporling)  
+24.03.2022: [Merismodes confusa - Braunes Hängebecherchen](/pilze/merismodes-confusa-braunes-hängebecherchen)  
+23.03.2022: [Piptopotus betulinus - Birkenporling](/pilze/piptoporus-betulinus-birkenporling)\
 22.03.2022: [Geopora sumneriana - Zedern-Sandborstling](/pilze/geopora-sumneriana-zedern-sandborstling)\
 21.03.2022: [Gyromitra esculenta - Frühjahrslorchel](/pilze/gyromitra-esculenta-frühjahrslorchel)\
 20.03.2022: [Lophodermium seditiosum - Kiefernschütte-Spaltlippe](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe)\
@@ -30,7 +31,7 @@ published: true
 27.02.2022 [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)\
 26.02.2022 [Cyclaneusma minus - Kiefernnadel-Polsterbecherchen](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen)\
 25.02.2022 [Ganoderma adspersum - Wulstiger Lackporling](/pilze/ganoderma-adspersum-wulstiger-lackporling)\
-24.02.2024 [Hypholoma fasciculare - Grünbblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)\
+24.02.2022 [Hypholoma fasciculare - Grünbblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)\
 23.02.2022 [Daedaleopsis confragosa - Rötende Tramete](/pilze/daedaleopsis-confragosa-rötende-tramete)\
 22.02.2022 [Penicillium digitatum - Grüner Schimmelpilz](/pilze/penicillium-digitatum-grüner-schimmelpilz)\
 21.02.2022 [Polyporus brumalis - Winterporling](/pilze/polyporus-brumalis-winterporling)\
