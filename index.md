@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/merismodes_confusa_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist das Braune Hängebecherchen *Merismodes confusa*. Es handelt sich um gezielt gesuchte Objekte für passionierte Stöckchendreher. Auf den Unterseiten von am Boden liegenden toten Ästen und Zweigen finden sich erstaunlich viele Pilzarten, darunter viele Winzlinge, deren erstaunlich attraktives oder bemerkenswertes Aussehen sich erst mit einer guten Lupe erschließt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/merismodes-confusa-braunes-hängebecherchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/piptoporus_betulinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 22.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Zedern-Sandborstling *Geopora sumneriana*. Standorttreu und etwas verfrüht sind die ersten bei unserer Zeder in einem Dietzenbacher Park erschienen. Die meisten seiner Fruchtkörper waren noch geschlossen und sahen von oben wie Minimauselöcher aus. Bei zwei von ihnen war immerhin schon das glatte grauweiße Innenleben des [Hymeniums](Hymenium "Glossar") zu erkennen. Zweifel waren ohnehin nicht angebracht. Man kennt ja die zuverlässigen Standorte seiner Schätzchen aus vielen vergangenen Jahren. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/geopora-sumneriana-zedern-sandborstling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gyromitra_esculenta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Frühjahrslorchel *Gyromitra esculenta*, gestern von *Inga Illig* aus dem Kiefernwald bei Waldacker gemeldet. Diese auffällige Art ist als delikater Giftpilz bekannt und berüchtigt und Anlass für uns, gleich einen [Exkursionstermin](/termine) anzubieten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gyromitra-esculenta-frühjahrslorchel)
 
 <div style="clear:  both"></div>
 
