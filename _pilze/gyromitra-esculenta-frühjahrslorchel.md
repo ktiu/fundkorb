@@ -32,13 +32,13 @@ Frühjarslorcheln sind in Hut und Stiel gegliedert und werden bis zu 12 cm hoch.
 {% include bild.html datei="/bilder/gyromitra_esculenta_10_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Mikrofoto rechts von Frank Kaster: Asci 8-sporig, Sporen elliptisch mit 2 Tropfen" %}
 
-Es gibt mehrere Verwechlunsmöglichkeiten. Ebenfalls früh im Jahr erscheint die Riesenlorchel *Gyromitra gigas*, die gern in Kahlschlägen oder um Baustümpfe herum wächst. Ihre Stiele sind kurz aber sehr dick (Beschreibung in Breitenbach & Kränzlin, Pilze der Schweiz Band 1):
+Es gibt mehrere Verwechlunsmöglichkeiten. Ebenfalls früh im Jahr erscheint die *Riesenlorchel Gyromitra gigas*, die gern in Kahlschlägen oder um Baustümpfe herum wächst. Ihre Stiele sind kurz aber sehr dick (Beschreibung in Breitenbach & Kränzlin, Pilze der Schweiz Band 1):
 
 > Der ganze Pilz wirkt klumpenförmig." 
 
 Seine bei Reife warzigen Sporen sind größer (10 - 12,5 x 23 - 28 µm) und haben an den Polen stumpfe Anhängsel.  
 
-Die Bischofsmütze *Gyromitra infula* wächst von September bis November und unterscheidet sich habituell durch ihren zipfelmützig lappigen Hut. Auch sie bevorzugt Standorte bei Stümpfen oder vergrabenem Holz. Ihre Sporen sind lang-elliptsch und messen 7 - 8,5 x 19 - 20 µm.
+Die [*Bischofsmütze* *Gyromitra infula*](/pilze/gyromitra-infula-bischofsmütze) wächst von September bis November und unterscheidet sich habituell durch ihren zipfelmützig lappigen Hut. Auch sie bevorzugt Standorte bei Stümpfen oder vergrabenem Holz. Ihre Sporen sind lang-elliptsch und messen 7 - 8,5 x 19 - 20 µm.
 
 Diese beiden Arten sind deutlich seltener als die Frühjahrslorchel, aber ebenso giftig.
 
