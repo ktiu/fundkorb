@@ -7,7 +7,7 @@ beschreibung:
   synonym: "Neuer Name: Suillellus luridus"
   familie: Boletaceae
 profil:
-  aktualisiert: 2021-07-08
+  aktualisiert: 2022-03-24
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
