@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: anomala = ungewöhnlich
   familie: Niaceae
 profil:
-  aktualisiert: 2021-01-25
+  aktualisiert: 2022-03-24
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -17,6 +17,6 @@ Die einzelnen Fruchtkörper sind zwar winzig klein, 0,2 bis 0,8 mm, aber da sie 
 
 Unsere Funde (und das sind nicht wenige) waren dagegen ausschließlich an der Unterseite von feucht liegendem Holz, das wir erst umdrehen mussten, um die Pilzrasen zu entdecken, was auch wesentlich besser zum Namen "Hängebecherchen" passt. Die Art scheint ausschließlich an Laubholz zu wachsen, mit Abstand am häufigsten an Buche.
 
-Nahezu identisch, jedoch mit kleineren Sporen, ist Merismodes fasciculata (Braunes Hängebecherchen). Diese möglicherweise sehr seltene, übersehene oder mit M. anomala verwechselte Art wächst jedoch vereinzelt, nicht rasig, und vorzusweise an Erle. 
+Nahezu identisch, jedoch mit kleineren Sporen, ist [Merismodes confusa (Braunes Hängebecherchen)](/pilze/merismodes-confusa-braunes-hängebecherchen). Diese möglicherweise sehr seltene, übersehene oder mit M. anomala verwechselte Art wächst jedoch vereinzelt, nicht rasig, und vorzusweise an Erle. 
 
 Aufgrund der Form und des Namens "Becherchen" ist man versucht, die Art bei den Schlauchpilzen zu vermuten. Es handelt sich jedoch um einen Ständerpilz (Basidiomyzeten). Uneinig ist sich die Fachwelt, ob in Verbindung mit der Gattungsbezeichnung Merismodes der Artname anomala oder anomalus heißen muss.
