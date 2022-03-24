@@ -19,4 +19,4 @@ Unsere Funde (und das sind nicht wenige) waren dagegen ausschließlich an der Un
 
 Nahezu identisch, jedoch mit kleineren Sporen, ist [Merismodes confusa (Braunes Hängebecherchen)](/pilze/merismodes-confusa-braunes-hängebecherchen). Diese möglicherweise sehr seltene, übersehene oder mit M. anomala verwechselte Art wächst jedoch vereinzelt, nicht rasig, und vorzusweise an Erle. 
 
-Aufgrund der Form und des Namens "Becherchen" ist man versucht, die Art bei den Schlauchpilzen zu vermuten. Es handelt sich jedoch um einen Ständerpilz (Basidiomyzeten). Uneinig ist sich die Fachwelt, ob in Verbindung mit der Gattungsbezeichnung Merismodes der Artname anomala oder anomalus heißen muss.
+Aufgrund der Form und des Namens "Becherchen" ist man versucht, die Art bei den Schlauchpilzen zu vermuten. Es handelt sich jedoch um einen Ständerpilz (Basidiomyzeten). Uneinig ist sich die Fachwelt, ob in Verbindung mit der Gattungsbezeichnung Merismodes der Artname *anomala* oder *anomalus* heißen muss.
