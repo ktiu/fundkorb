@@ -16,7 +16,7 @@ literatur:
   - url: https://de.wikipedia.org/wiki/Flacher_Lackporling
   - url: http://tintling.com/pilzbuch/arten/g/Ganoderma_applanatum.html
 ---
-Die Fruchtkörper des Flachen Lackporling sind stets so hart wie das Holz, an dem sie konsolenartig wachsen. Die helle Porenschicht frisch wachsender Exemplare (der Pilz ist mehrjährig, was an den geschichteten Röhren gut zu erkennen ist) lässt sich mit dem Fingernagel oder spitzen Ästchen ritzen, sodass man auf ihr schreiben oder malen kann. In England wird er daher auch "Artist´s Fungus" genannt. Bei einer unserer vhs-Wanderungen an der Gänsbrüh haben wir etliche von ihnen gefunden und darauf gekritzelt. Im Gegensatz zu unserem dilettantischen Versuch kann man die Malereien begabterer Pilzfreunde fast schon als Kunstwerke bezeichnen. 
+Die Fruchtkörper des Flachen Lackporling sind stets so hart wie das Holz, an dem sie konsolenartig wachsen. Die helle Porenschicht frisch wachsender Exemplare (der Pilz ist mehrjährig, was an den geschichteten Röhren gut zu erkennen ist) lässt sich mit dem Fingernagel oder spitzen Ästchen ritzen, sodass man auf ihr schreiben oder malen kann. In England wird er daher auch *"Artist´s Fungus"* genannt. Bei einer unserer vhs-Wanderungen an der Gänsbrüh bei Rodgau-Dudenhofen haben wir etliche von ihnen gefunden und darauf gekritzelt. Im Gegensatz zu unserem dilettantischen Versuch kann man die Malereien begabterer Pilzfreunde fast schon als Kunstwerke bezeichnen. 
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/ganoderma_applanatum_02_dg.jpg" nocrop=true %}
@@ -35,7 +35,7 @@ Im Sommer und Herbst produziert der Pilz enorme Mengen von Sporen, die sich in d
 {% include bild.html datei="/bilder/ganoderma_applanatum_07_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Ein wichtiges makroskopisches Kennzeichen des Flachen Lackporlings ist die mit dem Fingernagel eindrückbare graue bis braune Kruste. Beim mitunter recht ähnlichen [Wulstigen Lackporling Ganoderma adspersum](/pilze/ganoderma-adspersum-wulstiger-lackporling) ist diese dicker, härter und nicht eindrückbar. Außerdem unterscheiden sich beide durch deutlich unterschiedliche Sporengrößen (Maßangaben von Hermann Jahn):
+Ein wichtiges makroskopisches Kennzeichen des Flachen Lackporlings ist die mit dem Fingernagel eindrückbare graue bis braune Kruste. Beim mitunter recht ähnlichen [Wulstigen Lackporling Ganoderma adspersum](/pilze/ganoderma-adspersum-wulstiger-lackporling) ist diese dicker, härter und nicht eindrückbar. Außerdem unterscheiden sich beide durch deutlich unterschiedliche Sporengrößen (Maßangaben von *Hermann Jahn*):
 
 Flacher Lackporling: 6 - 8,5 x 4,5 - 5 µm\
 Wulstiger Lackporling: 9 -11,5 x 6 - 7,5 µm
@@ -59,4 +59,4 @@ Die nachfolgenden Fotos zeigen den Flachen Lackporling ohne aufliegendes Sporenp
 
 Sehr häufig ist die Unterseite des Pilzes mit sogenannten Zitzengallen besetzt. In ihnen wachsen die Maden der Pilzfliege *Agathomyia wankowiczi* heran, die bei Reife die Gallen durchbohren, zu Boden fallen und sich dort verpuppen. Auch dies kann als Alleinstellungsmerkmal für den Flachen Lackporling gelten, denn die Gallen kommen ausschließlich an dieser Pilzart vor.
 
-In Deutschland sind sechs Ganoderma-Arten nachgewiesen. Eine überschaubare Anzahl, aber nur eine von ihnen, der Flache Lackporling, ist häufig und weit verbreitet. Unter den anderen befinden sich mit G. carnosum und G. resinaceum zwei, deren Artrang nicht von allen Mykologen anerkannt wird.
+In Deutschland sind sechs Ganoderma-Arten nachgewiesen. Eine überschaubare Anzahl, aber nur eine von ihnen, der Flache Lackporling, ist häufig und weit verbreitet. Unter den anderen befinden sich mit *G. carnosum* und *G. resinaceum* zwei, deren Artrang nicht von allen Mykologen anerkannt wird.
