@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-24.03.2022: [Merismodes confusa - Braunes Hängebecherchen](/pilze/merismodes-confusa-braunes-hängebecherchen)  
+25.03.2022: [Cheilymenia crucipila - Sternhaariger Erdborstling](/pilze/cheilymenia-crucipila-sternhaariger-erdborstling)  
+24.03.2022: [Merismodes confusa - Braunes Hängebecherchen](/pilze/merismodes-confusa-braunes-hängebecherchen)\
 23.03.2022: [Piptopotus betulinus - Birkenporling](/pilze/piptoporus-betulinus-birkenporling)\
 22.03.2022: [Geopora sumneriana - Zedern-Sandborstling](/pilze/geopora-sumneriana-zedern-sandborstling)\
 21.03.2022: [Gyromitra esculenta - Frühjahrslorchel](/pilze/gyromitra-esculenta-frühjahrslorchel)\
