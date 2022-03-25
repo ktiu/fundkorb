@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cheiymenia_crucipila_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Sternhaarige Erdborstling *Cheilymenia crucipila*. Wir konnten das in einem Dietzenbacher Park unter einer Zeder gefundene Ensemble auf unseren Balkon umsiedeln und dort bei sorgfältiger Hege und Pflege gut 2 Monate lang am Leben erhalten. Die für die Bestimmung unverzichtbaren Mikromerkmale wurden von Bernd Miggel dokumentiert. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cheilymenia-crucipila-sternhaariger-erdborstling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/merismodes_confusa_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
