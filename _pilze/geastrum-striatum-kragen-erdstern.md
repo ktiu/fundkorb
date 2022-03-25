@@ -16,6 +16,6 @@ Erdsterne werden primär anhand makroskopischer Merkmale bestimmt, wobei die Fru
 
 Der hier vorgestellte Kragen-Erdstern ist durch folgende Merkmale gekennzeichnet:
 
-Mittelgroße Art; [Exoperidie](Exoperidie "Glossar") in 6 – 10 Lappen aufgespalten, unterseits mit anhaftenden Substratpartikeln, nicht [hygrometrisch](hygrometrisch "Glossar"); Peristom spitzkegelig, gerieft, ohne Hof; [Endoperidie](Endoperidie "Glossar") 1 – 2,5 cm Durchmesser, trocken deutlich gestielt, an der Unterseite mit charakteristischem hängenden Kragen, der auf dem linken Fruchtkörper der Abbildung gut zu erkennen ist.
+Mittelgroße Art; [Exoperidie](Exoperidie "Glossar") in 6 – 10 Lappen aufgespalten, unterseits mit anhaftenden Substratpartikeln, nicht [hygrometrisch](hygrometrisch "Glossar"); [Peristom](Peristom "Glossar") spitzkegelig, gerieft, ohne [Hof](Hof "Glossar"); [Endoperidie](Endoperidie "Glossar") 1 – 2,5 cm Durchmesser, trocken deutlich gestielt, an der Unterseite mit charakteristischem hängenden Kragen, der auf dem linken Fruchtkörper der Abbildung gut zu erkennen ist.
 
 Die Art gilt als selten, ist aber allein in Dietzenbach an mindestens sechs verschiedenen Standorten gefunden worden.
