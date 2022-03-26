@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ischnoderma_benzoinum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Gebänderte Harzporling *Ischnoderma benzoinum*. An ihrer oft harzigen Kruste sind die Vertreter dieser Gattung meist leicht zu erkennen. Die beiden in Mitteleuropa vorkommenden Arten sind ebenfalls leicht zu unterscheiden. Der Gebänderte Harzporling hat eine konzentrisch gezonte Oberfläche und wächst an Nadelholz. Dem Laubholz-Harzporling fehlt die Zonierung, er ist wesentlich seltener und wächst vor allem an totem Buchenholz. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ischnoderma-benzoinum-gebänderter-harzporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cheiymenia_crucipila_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,30 +45,6 @@ footer_scripts:
 24.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist das Braune Hängebecherchen *Merismodes confusa*. Es handelt sich um gezielt gesuchte Objekte für passionierte Stöckchendreher. Auf den Unterseiten von am Boden liegenden toten Ästen und Zweigen finden sich erstaunlich viele Pilzarten, darunter viele Winzlinge, deren erstaunlich attraktives oder bemerkenswertes Aussehen sich erst mit einer guten Lupe erschließt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/merismodes-confusa-braunes-hängebecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/piptoporus_betulinus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Birkenporling *Piptoporus betulinus*. Mitte März wird man nur noch überständige Exemplare aus dem Vorjahr sehen, die man besser nicht mehr als Heilpilz bei Magen-/Darmbeschwerden verwenden sollte. Im Spätsommer beginnt seine Fruktifikationsperiode und er ist tatsächlich nur an Birken zu finden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/piptoporus-betulinus-birkenporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/geopora_sumneriana_06_dg-.jpg" %}
-{% include abbildung_ende.html %}
-
-22.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Zedern-Sandborstling *Geopora sumneriana*. Standorttreu und etwas verfrüht sind die ersten bei unserer Zeder in einem Dietzenbacher Park erschienen. Die meisten seiner Fruchtkörper waren noch geschlossen und sahen von oben wie Minimauselöcher aus. Bei zwei von ihnen war immerhin schon das glatte grauweiße Innenleben des [Hymeniums](Hymenium "Glossar") zu erkennen. Zweifel waren ohnehin nicht angebracht. Man kennt ja die zuverlässigen Standorte seiner Schätzchen aus vielen vergangenen Jahren. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/geopora-sumneriana-zedern-sandborstling)
 
 <div style="clear:  both"></div>
 
