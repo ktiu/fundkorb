@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/chlorociboria_aeruginascens_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.03.2022: Aktueller Fundkorbpilz ist der Kleinsporige Grünspanbecherling *Chlorociboria aeruginascens*. Zwei Besonderheiten zeichnen ihn aus. Zum einen seine im Pilzreich seltene blaugrüne Farbe. Nicht nur die kleinen Becherchen sind so gefärbt, sondern auch das Holz, in dem seine [Myzelien](Myzel "Glossar") wuchern, und das sogar an dessen Oberfläche. Grünspanbecherlinge wachsen nahezu ganzjährig an toten Laubholzästen, vor allem Buche. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/chlorociboria-aeruginascens-kleinsporiger-grünspanbecherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ischnoderma_benzoinum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 25.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Sternhaarige Erdborstling *Cheilymenia crucipila*. Wir konnten das in einem Dietzenbacher Park unter einer Zeder gefundene Ensemble auf unseren Balkon umsiedeln und dort bei sorgfältiger Hege und Pflege gut 2 Monate lang am Leben erhalten. Die für die Bestimmung unverzichtbaren Mikromerkmale wurden von Bernd Miggel dokumentiert. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cheilymenia-crucipila-sternhaariger-erdborstling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/merismodes_confusa_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist das Braune Hängebecherchen *Merismodes confusa*. Es handelt sich um gezielt gesuchte Objekte für passionierte Stöckchendreher. Auf den Unterseiten von am Boden liegenden toten Ästen und Zweigen finden sich erstaunlich viele Pilzarten, darunter viele Winzlinge, deren erstaunlich attraktives oder bemerkenswertes Aussehen sich erst mit einer guten Lupe erschließt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/merismodes-confusa-braunes-hängebecherchen)
 
 <div style="clear:  both"></div>
 
