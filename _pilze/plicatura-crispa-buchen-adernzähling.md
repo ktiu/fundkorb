@@ -6,7 +6,7 @@ beschreibung:
   erlaeuterung: crispa = kraus, gekräuselt
   familie: Amylocorticiaceae
 profil:
-  aktualisiert: 2021-05-15
+  aktualisiert: 2022-03-29
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
@@ -26,3 +26,5 @@ Die Hütchen sind stiellos mit dem Scheitel oder seitlich am Substrat angewachse
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/plicatura_crispa_03_dg.jpg" %}
 {% include abbildung_ende.html legende="06.11.2021 Wald bei Dietzenbach, an totem Birkenstamm" %}
+
+Der Name *Buchen-Adernzähling* impliziert ein Vorkommen hauptsächlich an Buchen. Nach meinen Beobachtungen im Rhein-Main-Gebiet ist Birkenholz sein bevorzugtes Substrat und er scheint während der letzten 10 bis 15 Jahre deutlich häufiger geworden zu sein.
