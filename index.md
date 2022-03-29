@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_fragiforme_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Rötliche Kohlenbeere Hypoxylon fragiforme. Dieser von Speisepilzsammlern kaum beachtete [Pyrenomyzet](Pyrenomyzeten "Glossar") ist ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gyromitra_ancilis_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 27.03.2022: Aktueller Fundkorbpilz ist der Kleinsporige Grünspanbecherling *Chlorociboria aeruginascens*. Zwei Besonderheiten zeichnen ihn aus. Zum einen seine im Pilzreich seltene blaugrüne Farbe. Nicht nur die kleinen Becherchen sind so gefärbt, sondern auch das Holz, in dem seine [Myzelien](Myzel "Glossar") wuchern, und das sogar an dessen Oberfläche. Grünspanbecherlinge wachsen nahezu ganzjährig an toten Laubholzästen, vor allem Buche. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/chlorociboria-aeruginascens-kleinsporiger-grünspanbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ischnoderma_benzoinum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Gebänderte Harzporling *Ischnoderma benzoinum*. An ihrer oft harzigen Kruste sind die Vertreter dieser Gattung meist leicht zu erkennen. Die beiden in Mitteleuropa vorkommenden Arten sind ebenfalls leicht zu unterscheiden. Der Gebänderte Harzporling hat eine konzentrisch gezonte Oberfläche und wächst an Nadelholz. Dem Laubholz-Harzporling fehlt die Zonierung, er ist wesentlich seltener und wächst vor allem an totem Buchenholz. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ischnoderma-benzoinum-gebänderter-harzporling)
 
 <div style="clear:  both"></div>
 
