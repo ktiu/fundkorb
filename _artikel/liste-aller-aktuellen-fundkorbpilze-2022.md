@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-28.03.2022: [Gyromitra ancilis - Scheibenlorchel](/pilze/discina-ancilis-scheibenlorchel-größter-scheibling)  
+29.03.2022: [Hypoxylon fragiforme - Rötliche Kohlenbeere](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)  
+28.03.2022: [Gyromitra ancilis - Scheibenlorchel](/pilze/discina-ancilis-scheibenlorchel-größter-scheibling)\
 27.03.2022: [Chlorociboria aeruginascens - Kleinsporiger Grünspanbecherling](/pilze/chlorociboria-aeruginascens-kleinsporiger-grünspanbecherling)\
 26.03.2022: [Ischnoderma benzoinum - Gebänderter Harzporling](/pilze/ischnoderma-benzoinum-gebänderter-harzporling)\
 25.03.2022: [Cheilymenia crucipila - Sternhaariger Erdborstling](/pilze/cheilymenia-crucipila-sternhaariger-erdborstling)\
