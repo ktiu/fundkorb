@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: gelatinosus = gallertartig
   familie: Hypocreaceae
 profil:
-  aktualisiert: 2021-01-06
+  aktualisiert: 2022-03-30
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
