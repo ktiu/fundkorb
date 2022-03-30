@@ -15,6 +15,19 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypocrea_gelatinosa_01_dt.jpg" %}
+{% include abbildung_ende.html %}
+
+30.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Gelatinöser Kugelpustelpilz *Hypocrea gelatinosa.* Trotz Trockenheit finden sich in unseren Wäldern noch feuchte Stellen, an denen kleine [Ascomyzeten](Ascomyzeten "Glossar") an morschem Holz wachsen. Die hier gezeigte Art ist keineswegs selten, wenn man gezielt geeignete Substrate absucht. Eine Lupe sollte man aber schon dabei haben. (Dieter Gewalt)
+
+
+[Mehr lesen >](/pilze/hypocrea-gelatinosa-gelatinöser-kugelpustelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_fragiforme_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +46,6 @@ footer_scripts:
 28.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Scheibenlorchel *Gyromitra ancilis* (Anderer Name: *Discina ancilis*). Dieser Pilz ist eigentlich in Berg- und Hügellagen zu Hause, im Flachland laut Literatur dagegen sehr selten. Unser Vorkommen in einem Kiefernwald bei Waldacker (Rhein-Main-Ebene) ist immerhin schon die zweite Fundstelle in diesem Gebiet. An einem Waldwegrand wuchsen ca. 10 Fruchtkörper auf blanker sandiger Erde. Verwechselt werden könnte er mit dem deutlich größeren Morchelbecherling *Disciotis venosa*, der jedoch nach Chlor riecht. Beide Arten sind essbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/discina-ancilis-scheibenlorchel-größter-scheibling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chlorociboria_aeruginascens_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.03.2022: Aktueller Fundkorbpilz ist der Kleinsporige Grünspanbecherling *Chlorociboria aeruginascens*. Zwei Besonderheiten zeichnen ihn aus. Zum einen seine im Pilzreich seltene blaugrüne Farbe. Nicht nur die kleinen Becherchen sind so gefärbt, sondern auch das Holz, in dem seine [Myzelien](Myzel "Glossar") wuchern, und das sogar an dessen Oberfläche. Grünspanbecherlinge wachsen nahezu ganzjährig an toten Laubholzästen, vor allem Buche. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/chlorociboria-aeruginascens-kleinsporiger-grünspanbecherling)
 
 <div style="clear:  both"></div>
 
