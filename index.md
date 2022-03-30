@@ -30,7 +30,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/hypoxylon_fragiforme_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-29.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Rötliche Kohlenbeere Hypoxylon fragiforme. Dieser von Speisepilzsammlern kaum beachtete [Pyrenomyzet](Pyrenomyzeten "Glossar") ist ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt)
+29.03.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rötliche Kohlenbeere Hypoxylon fragiforme. Dieser von Speisepilzsammlern kaum beachtete [Pyrenomyzet](Pyrenomyzeten "Glossar") ist ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)
 
@@ -42,7 +42,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/gyromitra_ancilis_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-28.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist die Scheibenlorchel *Gyromitra ancilis* (Anderer Name: *Discina ancilis*). Dieser Pilz ist eigentlich in Berg- und Hügellagen zu Hause, im Flachland laut Literatur dagegen sehr selten. Unser Vorkommen in einem Kiefernwald bei Waldacker (Rhein-Main-Ebene) ist immerhin schon die zweite Fundstelle in diesem Gebiet. An einem Waldwegrand wuchsen ca. 10 Fruchtkörper auf blanker sandiger Erde. Verwechselt werden könnte er mit dem deutlich größeren Morchelbecherling *Disciotis venosa*, der jedoch nach Chlor riecht. Beide Arten sind essbar. (Dieter Gewalt)
+28.03.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Scheibenlorchel *Gyromitra ancilis* (Anderer Name: *Discina ancilis*). Dieser Pilz ist eigentlich in Berg- und Hügellagen zu Hause, im Flachland laut Literatur dagegen sehr selten. Unser Vorkommen in einem Kiefernwald bei Waldacker (Rhein-Main-Ebene) ist immerhin schon die zweite Fundstelle in diesem Gebiet. An einem Waldwegrand wuchsen ca. 10 Fruchtkörper auf blanker sandiger Erde. Verwechselt werden könnte er mit dem deutlich größeren Morchelbecherling *Disciotis venosa*, der jedoch nach Chlor riecht. Beide Arten sind essbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/discina-ancilis-scheibenlorchel-größter-scheibling)
 
