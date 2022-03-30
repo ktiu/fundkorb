@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/hypocrea_gelatinosa_01_dt.jpg" %}
 {% include abbildung_ende.html %}
 
-30.03.2022: Aktueller [Fundkorbpilz](AA "Glossar") ist der Gelatinöser Kugelpustelpilz *Hypocrea gelatinosa.* Trotz Trockenheit finden sich in unseren Wäldern noch feuchte Stellen, an denen kleine [Ascomyzeten](Ascomyzeten "Glossar") an morschem Holz wachsen. Die hier gezeigte Art ist keineswegs selten, wenn man gezielt geeignete Substrate absucht. Eine Lupe sollte man aber schon dabei haben. (Dieter Gewalt)
+30.03.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelatinöser Kugelpustelpilz *Hypocrea gelatinosa.* Trotz Trockenheit finden sich in unseren Wäldern noch feuchte Stellen, an denen kleine [Ascomyzeten](Ascomyzeten "Glossar") an morschem Holz wachsen. Die hier gezeigte Art ist keineswegs selten, wenn man gezielt geeignete Substrate absucht. Eine Lupe sollte man aber schon dabei haben. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypocrea-gelatinosa-gelatinöser-kugelpustelpilz)
 
