@@ -20,4 +20,4 @@ Die Fruchtkörper dieses rasig auf feuchtem, morschem Laubholz wachsenden [Ascom
 
 Es existieren einige ähnliche Arten, u. a. *Hypocrea aureoviridis*, die wohl sehr selten sind. Bei Breitenbach & Kränzlin (Pilze der Schweiz Band 1) wird auch Hypocrea gelatinosa als selten angegeben, was mir unzutreffend erscheint. Wir haben den Pilz häufig gefunden, ihn aber wie die meisten Kartierer nie mikroskopiert. Lt. [DGfM-Online-Kartierung für Hessen](http://hessen.pilze-deutschland.de/organismen/hypocrea-gelatinosa-agg-1) ist er im Rhein-Main-Gebiet nahezu flächendeckend vorhanden, Hypocrea aureoviridis jedoch noch nicht nachgewiesen. 
 
-Die winzigen, schätzungsweise 0,1 mm großen Becherchen wurden erst auf dem Foto bemerkt und nicht untersucht.
+Die winzigen, schätzungsweise 0,1 mm großen Becherchen wurden erst auf dem Foto bemerkt und nicht untersucht. Zwischen ihnen sind noch winzigere Becherchen zu sehen.
