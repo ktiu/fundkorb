@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_hirsuta_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.03.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Striegelige Tramete (*Trametes hirsuta*), ein häufiger Porling, der in kaum einem Laub- oder Mischwald fehlen dürfte. Seine feinfilzige oder auch gröber borstige Oberfläche ist häufig von Grünalgen bewachsen. Bei jungen Exemplaren lohnt es sich, mit dem Finger darüber zu streicheln. Man wird überrascht sein, wie angenehm samtig sie sich anfühlt. Die Fruchtkörper wachsen meist gesellig in Reihen an ihrem Substrat und stehen bis zu 5 cm von der Anwuchsstelle ab.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/trametes-hirsuta-striegelige-tramete)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypocrea_gelatinosa_01_dt.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 29.03.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rötliche Kohlenbeere Hypoxylon fragiforme. Dieser von Speisepilzsammlern kaum beachtete [Pyrenomyzet](Pyrenomyzeten "Glossar") ist ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gyromitra_ancilis_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.03.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Scheibenlorchel *Gyromitra ancilis* (Anderer Name: *Discina ancilis*). Dieser Pilz ist eigentlich in Berg- und Hügellagen zu Hause, im Flachland laut Literatur dagegen sehr selten. Unser Vorkommen in einem Kiefernwald bei Waldacker (Rhein-Main-Ebene) ist immerhin schon die zweite Fundstelle in diesem Gebiet. An einem Waldwegrand wuchsen ca. 10 Fruchtkörper auf blanker sandiger Erde. Verwechselt werden könnte er mit dem deutlich größeren Morchelbecherling *Disciotis venosa*, der jedoch nach Chlor riecht. Beide Arten sind essbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/discina-ancilis-scheibenlorchel-größter-scheibling)
 
 <div style="clear:  both"></div>
 
