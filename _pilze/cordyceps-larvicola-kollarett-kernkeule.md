@@ -7,11 +7,14 @@ beschreibung:
   synonym: "Neuer Name: Ophiocordyceps larvicola "
   erlaeuterung: larvicola = an Larven
 profil:
-  aktualisiert: 2020-07-28
+  aktualisiert: 2022-04-01
   autor_in: Hermine Lotz-Winter & Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/cordyceps_larvicola_01_dg.jpg
+literatur:
+  - text: "Dieter Gewalt & Hermine Lotz-Winter: Die Kollarett-Kernkeule
+      Ophiocordyceps larvicola in: Tintling Nr. 65 (4/2010) S. 31 - 33"
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/cordyceps_larvicola_04_hl.jpg" %}
