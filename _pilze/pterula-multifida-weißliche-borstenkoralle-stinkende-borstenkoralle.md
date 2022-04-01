@@ -14,7 +14,9 @@ hauptbild:
 literatur:
   - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Band 2,
       S. 59"
-  - url: "Breitenbach & Kränzlin: Pilze der Schweiz Band 2, Nr. 477"
+  - url: ""
+    text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 2, Nr. 477"
+  - {}
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/pterula_multifida_02_dg.jpg" nocrop=true %}
