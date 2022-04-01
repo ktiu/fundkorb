@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylaria_carpophila_07_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Bucheckernschalen-Holzkeule *Xylaria carpophila*. Ein ziemlich kompliziert klingender deutscher Name für einen Pilz, der ihn aber treffend beschreibt. Es sind zwar sehr zierliche, fast schon filigrane Keulchen, die sich durch ihr Vorkommen auf Bucheckernschalen (-cupulen) zweifelsfrei erkennen lassen. Die Art ist wohl in jedem Buchenwald häufig, aber leicht zu übersehen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_hirsuta_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 30.03.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelatinöser Kugelpustelpilz *Hypocrea gelatinosa.* Trotz Trockenheit finden sich in unseren Wäldern noch feuchte Stellen, an denen kleine [Ascomyzeten](Ascomyzeten "Glossar") an morschem Holz wachsen. Die hier gezeigte Art ist keineswegs selten, wenn man gezielt geeignete Substrate absucht. Eine Lupe sollte man aber schon dabei haben. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypocrea-gelatinosa-gelatinöser-kugelpustelpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_fragiforme_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.03.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rötliche Kohlenbeere Hypoxylon fragiforme. Dieser von Speisepilzsammlern kaum beachtete [Pyrenomyzet](Pyrenomyzeten "Glossar") ist ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)
 
 <div style="clear:  both"></div>
 
