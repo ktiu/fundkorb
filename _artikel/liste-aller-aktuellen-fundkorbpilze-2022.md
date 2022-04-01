@@ -2,7 +2,11 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-31.03.2022: [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)  
+
+
+01.04.2022: [Xylaria carpophila - Bucheckernschalen-Holzkeule](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)
+
+31.03.2022: [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)\
 30.03.2022: [Hypocrea gelatinosa - Gelatinöser Kugelpustelpilz](/pilze/hypocrea-gelatinosa-gelatinöser-kugelpustelpilz)\
 29.03.2022: [Hypoxylon fragiforme - Rötliche Kohlenbeere](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)\
 28.03.2022: [Gyromitra ancilis - Scheibenlorchel](/pilze/discina-ancilis-scheibenlorchel-größter-scheibling)\
