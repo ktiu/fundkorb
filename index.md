@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/puccinia_sessile_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bärlauchrost *Puccinia sessilis*. Zur Zeit aus dem Frankfurter Stadtwald gemeldet könnte er uns auch auf unserer heutigen Kühkopf-Exkursion begleiten. Bärlauch gibt's da ja mehr als genug. Puccinia sessilis gehört zu den Rostpilzen, die einen Wirtswechsel vollziehen. In ihrem Fall sind es Weiden, auf die sie im Sommer wechseln, und die sind am Kühkopf ebenfalls reichlich vertreten. Den Bärlauchrost findet man mitunter auch auf Maiglöckchen, Aaronstab sowie diversen Liliengewächsen und Gräsern. Auffallend aber nicht unbedingt kennzeichnend ist die kreisförmige Anordnung der [Aecienlager](Aecien "Glossar"). (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/puccinia-sessilis-bärlauchrost)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/reticularia_lycoperdon_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
