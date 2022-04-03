@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-02.04.2022: [Reticularia lycoperdon - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)  
+03.04.2022: [Puccinia sessilis - Bärlauchrost](/pilze/puccinia-sessilis-bärlauchrost)  
+02.04.2022: [Reticularia lycoperdon - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
 01.04.2022: [Xylaria carpophila - Bucheckernschalen-Holzkeule](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)
 
 31.03.2022: [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)\
