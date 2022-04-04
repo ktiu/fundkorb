@@ -69,6 +69,14 @@ Das Telefongespräch fand noch am selben Abend statt und setzte Unvorhergesehene
 
 Das TV-Team begleitete Herrn P. noch in die Kleinmarkthalle, um die Expertise einer Fachverkäuferin einzuholen. Deren Urteil: unsere Sommertrüffel gehört nicht zu den wertvollsten. Ihr Kilopreis liegt bei "nur" 1.600 Euro.
 
+Die Geschichte der Frankfurter Trüffelfunde ist damit noch nicht zu Ende. Am 2. April 2022 entdeckte auch Hendrik Cremer in seinem Vorgarten im Stadtteil Eschersheim die begehrten Knollen. Wenn man bedenkt, dass es sich in allen drei dokumentierten Fällen um Zufallsfunde handelt und die Finder auch noch den richtigen Verdacht hatten, darf man vermuten, dass es in Frankfurts Untergrund sehr viele Sommertrüffeln geben könnte.
+
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/tuber_aestivum-12_hc.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/tuber_aestivum-11_hc.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/tuber_aestivum-13_hc.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Fotos: Hendrik Cremer" %}
+
 Zum Thema Trüffel ist auch eine grammatikalische Besonderheit erwähnenswert: Bei ihm oder ihr ist sowohl das maskuline wie das feminine Geschlecht zulässig, also *der* oder *die* Trüffel.
 
 Und noch eine Meldung, die ich im Internet gefunden habe: In der chinesischen Sonderverwaltungszone Macau hat Kasino-Tycoon Stanley Ho für den Rekordpreis von 250 000 Euro zwei weiße Trüffeln aus Italien ersteigert: Die eine wog fast ein Kilo, die andere ein halbes.
