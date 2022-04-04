@@ -14,6 +14,10 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tuber_aestivum-13_hc.jpg" %}
+{% include abbildung_ende.html %}
+
 04.04.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-") verdient ein dickes Ausrufungszeichen! Es ist der inzwischen dritte Fund der Sommertrüffel *Tuber aestivum* im Stadtgebiet von Frankfurt am Main. Hendrik Cremer hat sie bei Arbeiten in seinem Vorgarten im Stadtteil Eschersheim entdeckt. Wenn man bedenkt, dass es sich in allen drei dokumentierten Fällen (zuvor in den Stadtteilen Preungesheim und Rödelheim) um Zufallsfunde handelt und die Finder auch noch den richtigen Verdacht hatten, darf man vermuten, dass es in Frankfurts Untergrund von teuren Delikatessen wimmeln könnte. Die Sommertrüffel gehört dabei mit einem Kilopreis um die 1500 Euro zu den "billigen" Arten. Alle Infos über die Frankfurter Trüffelfunde [finden Sie hier >](/pilze/tuber-aestivum-sommertrüffel)
 
 <div style="clear:  both"></div>
