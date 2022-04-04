@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-03.04.2022: [Puccinia sessilis - Bärlauchrost](/pilze/puccinia-sessilis-bärlauchrost)  
+04.04.2022: [Tuber aestivum - Sommertrüffel](/pilze/tuber-aestivum-sommertrüffel)  
+03.04.2022: [Puccinia sessilis - Bärlauchrost](/pilze/puccinia-sessilis-bärlauchrost)\
 02.04.2022: [Reticularia lycoperdon - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
 01.04.2022: [Xylaria carpophila - Bucheckernschalen-Holzkeule](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)
 
