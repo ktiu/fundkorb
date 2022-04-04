@@ -14,6 +14,14 @@ footer_scripts:
 
 - - -
 
+04.04.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-") verdient ein dickes Ausrufungszeichen! Es ist der inzwischen dritte Fund der Sommertrüffel *Tuber aestivum* im Stadtgebiet von Frankfurt am Main. Hendrik Cremer hat sie bei Arbeiten in seinem Vorgarten im Stadtteil Eschersheim entdeckt. Wenn man bedenkt, dass es sich in allen drei dokumentierten Fällen (zuvor in den Stadtteilen Preungesheim und Rödelheim) um Zufallsfunde handelt und die Finder auch noch den richtigen Verdacht hatten, darf man vermuten, dass es in Frankfurts Untergrund von teuren Delikatessen wimmeln könnte. Die Sommertrüffel gehört dabei mit einem Kilopreis um die 1500 Euro zu den "billigen" Arten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tuber-aestivum-sommertrüffel)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/puccinia_sessile_02_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -33,30 +41,6 @@ footer_scripts:
 02.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Stäublings-Schleimpilz *Reticularia lycoperdon*. Diese polsterförmigen Gebilde sind kurz nach ihrem Entstehen schmierig schleimig und bekommen bald graue allmählich dunkler werdende Flecken, die dem Fruchtkörper ein marmoriertes Aussehen verleihen. Schließlich verhärtet sich die Außenhaut  und platzt auf, die Sporen können austreten und werden durch Wind verbreitet. Der Stäublings-Schleimpilz kann Größen von 8 bis 10 Zentimeter Länge erreichen und entwickelt sich auf der Rinde oder dem Holz verschiedener Baumarten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_carpophila_07_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Bucheckernschalen-Holzkeule *Xylaria carpophila*. Ein ziemlich kompliziert klingender deutscher Name für einen Pilz, der ihn aber treffend beschreibt. Es sind zwar sehr zierliche, fast schon filigrane Keulchen, die sich durch ihr Vorkommen auf Bucheckernschalen (-cupulen) zweifelsfrei erkennen lassen. Die Art ist wohl in jedem Buchenwald häufig, aber leicht zu übersehen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_hirsuta_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.03.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Striegelige Tramete (*Trametes hirsuta*), ein häufiger Porling, der in kaum einem Laub- oder Mischwald fehlen dürfte. Seine feinfilzige oder auch gröber borstige Oberfläche ist häufig von Grünalgen bewachsen. Bei jungen Exemplaren lohnt es sich, mit dem Finger darüber zu streicheln. Man wird überrascht sein, wie angenehm samtig sie sich anfühlt. Die Fruchtkörper wachsen meist gesellig in Reihen an ihrem Substrat und stehen bis zu 5 cm von der Anwuchsstelle ab.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/trametes-hirsuta-striegelige-tramete)
 
 <div style="clear:  both"></div>
 
