@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/morchella_esculenta_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Speisemorchel *Morchella esculenta*, vor zwei Tagen bei einer pilzkundlichen Führung am Kühkopf bei Stockstadt am Rhein gefunden. Also endlich mal was für den Speisepilzsammler mit der Einschränkung, dass im Naturschutzschutzgebiet natürlich nichts entnommen sondern nur betrachtet werden darf. Die Speisemorchel liebt Auwälder, kommt aber auch in anderen Biotopen vor, wenn sie denn kalkhaltige Böden besitzen. Mitunter sogar mitten in Großstädten! (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/morchella-esculenta-speisemorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tuber_aestivum-13_hc.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 03.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bärlauchrost *Puccinia sessilis*. Zur Zeit aus dem Frankfurter Stadtwald gemeldet könnte er uns auch auf unserer heutigen Kühkopf-Exkursion begleiten. Bärlauch gibt's da ja mehr als genug. Puccinia sessilis gehört zu den Rostpilzen, die einen Wirtswechsel vollziehen. In ihrem Fall sind es Weiden, auf die sie im Sommer wechseln, und die sind am Kühkopf ebenfalls reichlich vertreten. Den Bärlauchrost findet man mitunter auch auf Maiglöckchen, Aaronstab sowie diversen Liliengewächsen und Gräsern. Auffallend aber nicht unbedingt kennzeichnend ist die kreisförmige Anordnung der [Aecienlager](Aecien "Glossar"). (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/puccinia-sessilis-bärlauchrost)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/reticularia_lycoperdon_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Stäublings-Schleimpilz *Reticularia lycoperdon*. Diese polsterförmigen Gebilde sind kurz nach ihrem Entstehen schmierig schleimig und bekommen bald graue allmählich dunkler werdende Flecken, die dem Fruchtkörper ein marmoriertes Aussehen verleihen. Schließlich verhärtet sich die Außenhaut  und platzt auf, die Sporen können austreten und werden durch Wind verbreitet. Der Stäublings-Schleimpilz kann Größen von 8 bis 10 Zentimeter Länge erreichen und entwickelt sich auf der Rinde oder dem Holz verschiedener Baumarten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)
 
 <div style="clear:  both"></div>
 
