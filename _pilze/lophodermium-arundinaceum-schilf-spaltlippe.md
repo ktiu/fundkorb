@@ -21,6 +21,6 @@ Eine Spaltlippe an abgestorbenen Schilfstängeln kann nach meinem Wissensstand n
 {% include bild.html datei="/bilder/lophodermium_arundinaceum_02_hl.jpg" %}
 {% include abbildung_ende.html %}
 
-Die schwarzen kaffeebohnenförmigen Hysterothezien werden maximal 1 mm lang und ca. 0,4 mm breit. Sie sind in Längsrichtung entlang der Längsachse der Schilfstängel ausgerichtet, entwickeln sich unter der Epidermis und brechen diese auf.
+Die schwarzen kaffeebohnenförmigen [Hysterothezien](Hysterothezien "Glossar") werden maximal 1 mm lang und ca. 0,4 mm breit. Sie sind in Längsrichtung entlang der Längsachse der Schilfstängel ausgerichtet, entwickeln sich unter der Epidermis und brechen diese auf.
 
 Spaltlippen sind eine artenreiche Gattung in der Familie der [Runzelschorf- oder Flicklumpenartigen (*Rhytismataceae*)](/verwandt/flicklumpenartige-rhytismatales). Weltweit gibt es ca. 145 Arten.
