@@ -20,11 +20,11 @@ Der wohl häufigste unter diesen kleinen Schirmlingen ist der Stink-Schirmling L
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/lepiota_cristata_02_dg.jpeg" nocrop=true %}
-{% include abbildung_ende.html legende="Junge Stink-Schirmlinge, bei denen das Auf- reißen der Hutdeckschicht gerade beginnt" %}
+{% include abbildung_ende.html legende="Junge Stink-Schirmlinge, bei denen das Aufreißen der Hutdeckschicht gerade beginnt" %}
 
 Auffälligstes Merkmal des Pilzes ist sein stechender metallischer Geruch, der auch als leuchtgasähnlich oder mit einem Fachbegriff als *cristatoid* beschrieben wird. Es wäre zu schön, wenn diese Eigenschaft das entscheidende Kriterium für seine sichere Bestimmung wäre. Leider gibt es mehrere kleine Schirmlinge mit diesem Geruch und etwa 60 Lepiota-Arten in Deutschland. Weder in der aktuellen Literatur noch im Internet findet sich ein Hinweis darauf, wieviele und welche sich durch diesen Geruch auszeichnen. Es war eine mühsame und aufwendige Arbeit, sie zu ermitteln. Es sind neben dem Stink-Schirmling Lepiota cristata diese fünf Arten, von denen nur *Lepiota ignivolvata* etwas häufiger ist und die sich wie folgt vom Stink-Schirmling unterscheiden:
 
-**Lepiota felina** = Schwarzschuppiger Schirmling: u. a. durch schwarz punktierten Rand am Stielring  
+**Lepiota felina** = Schwarzschuppiger Schirmling: u. a. durch schwarz punktierten Rand am Stielring\
 **Lepiota grangei** = Grünspan-Schirmling: u. a. durch düster grüne Hutfarben\
 **Lepiota griseovirens** = Graugrüner Schirmling: u. a. durch graugrüne Hutfarben\
 **Lepiota ignivolvata** = Beschuhter Schirmling: u. a. durch deutlich größere Fruchtkörper, schräg hängenden, braun gerandeten Stielring und größere Sporen\
