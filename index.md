@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/dumontinia_tuberosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Anemonenbecherling *Dumontinia tuberosa*. Ein hübscher kleiner Becherling mit einem meist recht langen Stiel. Am Kühkopf wächst er zur Zeit geradezu massenhaft ganz nah am Wegrand. Trotzdem ist er mit seiner unauffälligen braunen Farbe leicht zu übersehen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/morchella_esculenta_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 04.04.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-") verdient ein dickes Ausrufungszeichen! Es ist der inzwischen dritte Fund der Sommertrüffel *Tuber aestivum* im Stadtgebiet von Frankfurt am Main. Hendrik Cremer hat sie bei Arbeiten in seinem Vorgarten im Stadtteil Eschersheim entdeckt. Wenn man bedenkt, dass es sich in allen drei dokumentierten Fällen (zuvor in den Stadtteilen Preungesheim und Rödelheim) um Zufallsfunde handelt und die Finder auch noch den richtigen Verdacht hatten, darf man vermuten, dass es in Frankfurts Untergrund von teuren Delikatessen wimmeln könnte. Die Sommertrüffel gehört dabei mit einem Kilopreis um die 1500 Euro zu den "billigen" Arten. Alle Infos über die Frankfurter Trüffelfunde [finden Sie hier >](/pilze/tuber-aestivum-sommertrüffel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/puccinia_sessile_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bärlauchrost *Puccinia sessilis*. Zur Zeit aus dem Frankfurter Stadtwald gemeldet könnte er uns auch auf unserer heutigen Kühkopf-Exkursion begleiten. Bärlauch gibt's da ja mehr als genug. Puccinia sessilis gehört zu den Rostpilzen, die einen Wirtswechsel vollziehen. In ihrem Fall sind es Weiden, auf die sie im Sommer wechseln, und die sind am Kühkopf ebenfalls reichlich vertreten. Den Bärlauchrost findet man mitunter auch auf Maiglöckchen, Aaronstab sowie diversen Liliengewächsen und Gräsern. Auffallend aber nicht unbedingt kennzeichnend ist die kreisförmige Anordnung der [Aecienlager](Aecien "Glossar"). (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/puccinia-sessilis-bärlauchrost)
 
 <div style="clear:  both"></div>
 
