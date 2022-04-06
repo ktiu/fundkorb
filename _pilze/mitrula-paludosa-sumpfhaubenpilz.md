@@ -7,7 +7,7 @@ beschreibung:
   synonym: neu in der Familie Hemiphadiaceae
   erlaeuterung: paludosa = zum Sumpf gehörig
 profil:
-  aktualisiert: 2020-09-19
+  aktualisiert: 2022-04-06
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
