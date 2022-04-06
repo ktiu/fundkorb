@@ -33,6 +33,3 @@ Die Oberseite des Pilzes ist grob striegelig bis borstig und grau, ocker oder he
 {% include bild.html datei="/bilder/coriolopsis_gallica_04_dg.jpg" %}
 {% include abbildung_ende.html legende="Bei einer Exkursion auf der Messeler Höhe zwischen Messel und Rödermark-Urberach am 7. Juni 2019 fanden wir dieses schöne Exemplar der Braunen Borstentramete. Auch hier zeigte die KOH-Probe eine sofortige schwarzbraune Verfärbung." %}
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/coriolopsis_gallica_06_dg.jpg" %}
-{% include abbildung_ende.html legende="Der Schnitt durch den Fruchtkörper zeigt die rostbraune Trama zwischen Hutfilz und Poren" %}
