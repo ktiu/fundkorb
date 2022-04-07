@@ -7,6 +7,7 @@ beschreibung:
   erlaeuterung: cupularis = napfartig
 profil:
   aktualisiert: 2022-04-06
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/tarzetta_cupularis_01_dg.jpeg
