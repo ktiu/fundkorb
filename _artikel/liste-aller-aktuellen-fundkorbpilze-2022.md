@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-06.04.2022: [Dumontinia tuberosa - Anemonenbecherling](/pilze/dumontinia-tuberosa-anemonenbecherling)  
+07.04.2022: [Disciotis venosa - Morchelbecherling](/pilze/disciotis-venosa-morchelbecherling)  
+06.04.2022: [Dumontinia tuberosa - Anemonenbecherling](/pilze/dumontinia-tuberosa-anemonenbecherling)\
 05.04.2022: [Morchella esculenta - Speisemorchel](/pilze/morchella-esculenta-speisemorchel)\
 04.04.2022: [Tuber aestivum - Sommertrüffel](/pilze/tuber-aestivum-sommertrüffel)\
 03.04.2022: [Puccinia sessilis - Bärlauchrost](/pilze/puccinia-sessilis-bärlauchrost)\
