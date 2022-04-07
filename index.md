@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/disciotis_venosa_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Morchelbecherling *Disciotis venosa*. Auch er ist zur Zeit am Kühkopf zu finden, zwischen Bärlauch und Buschwindröschen jedoch meist gut getarnt. Für Kenner ist der mit den Morcheln verwandte [Ascomyzet](Ascomyzeten "Glossar") ein ausgezeichneter Speisepilz. Sein untrügliches Kennzeichen ist sein Chlorgeruch, der beim Erhitzen verschwindet und den Pilzgenuss in keiner Weise beeinträchtigt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/disciotis-venosa-morchelbecherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/dumontinia_tuberosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
