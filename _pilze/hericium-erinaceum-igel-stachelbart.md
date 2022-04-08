@@ -13,6 +13,7 @@ hauptbild:
   datei: /bilder/hericium_erinaceum_01_dg.jpg
 literatur:
   - url: https://de.wikipedia.org/wiki/Igel-Stachelbart
+  - url: http://tintling.com/pilzbuch/arten/h/Hericium_erinaceus.html
 ---
 
 In Mitteleuropa gibt es vier Stachelbart-Arten, die man sehr gut anhand makroskopischer Merkmale auseinanderhalten kann. Ihre Fruchtkörper sind weiß und verfärben im Alter gelblich, orangerötlich bis bräunlich. Die Sporen werden an den stets nach unten gerichteten Stacheln gebildet.
