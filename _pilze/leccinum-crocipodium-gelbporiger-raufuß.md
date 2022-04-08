@@ -4,10 +4,11 @@ beschreibung:
   deutsch: Gelbporiger Raufuß
   referenz: "(Letell.) Watling 1961 "
   familie: Boletaceae
-  synonym: "Synonyme: Leccinum nigrescens, L. tessellatum    "
+  synonym: "Synonyme: Leccinum nigrescens, Leccinum tessellatum    "
   erlaeuterung: crocipodium = gelbfüßig
 profil:
   aktualisiert: 2020-08-07
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/leccinum_crocipodium_01_dg.jpg
