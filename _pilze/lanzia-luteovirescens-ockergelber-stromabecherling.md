@@ -21,8 +21,8 @@ Fruchtkörper 2 - 3 mm, flach schüssel- bis tellerförmig, gestielt, einzeln od
 
 ##### Weitere auf Ahornblättern vorkommende Pilze:
 
-[Gnomonia cerastis](/pilze/gnomonia-cerastis-geschnäbelter-ahornkugelpilz) = Geschnäbelter Ahornkugelpilz  
-Pyrenopeziza petiolaris  =  Blattstiel-Spaltbecherchen  
-[Rhytisma acerinum](/pilze/rhytisma-acerinum-ahorn-runzelschorf)	=  Ahorn-Runzelschorf  
-Sawadaea tulasnei  =  Spitzahorn-Mehltau  
-Typhula erythropus  =  Rotbraunstieliges Sklerotienkeulchen
+[Gnomonia cerastis](/pilze/gnomonia-cerastis-geschnäbelter-ahornkugelpilz) = Geschnäbelter Ahornkugelpilz\
+[Pyrenopeziza petiolaris](/pilze/pyrenopeziza-petiolaris-blattstiel-spaltbecherchen)  =  Blattstiel-Spaltbecherchen\
+[Rhytisma acerinum](/pilze/rhytisma-acerinum-ahorn-runzelschorf)	=  Ahorn-Runzelschorf\
+[Sawadaea tulasnei](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau)  =  Spitzahorn-Mehltau\
+[Typhula erythropus](/pilze/typhula-erythropus-rotbraunstieliges-sklerotienkeulchen)  =  Rotbraunstieliges Sklerotienkeulchen
