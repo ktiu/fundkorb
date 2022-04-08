@@ -6,7 +6,7 @@ beschreibung:
   familie: Hericiaceae
   erlaeuterung: erinaceum = igelstachelig
 profil:
-  aktualisiert: 2021-06-10
+  aktualisiert: 2022-04-08
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
