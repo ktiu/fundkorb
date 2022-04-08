@@ -7,7 +7,7 @@ beschreibung:
   synonym: "Synonyme: Leccinum nigrescens, Leccinum tessellatum    "
   erlaeuterung: crocipodium = gelbfüßig
 profil:
-  aktualisiert: 2020-08-07
+  aktualisiert: 2022-04-08
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
