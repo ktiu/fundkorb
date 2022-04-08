@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tarzetta_cupularis_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+08.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kerbrandige Napfbecherling *Tarzetta cupularis*. Der kleine [Ascomyzet](Ascomyzeten "Glossar"), dessen Becherchen maximal 1,5 cm Durchmesser erreichen, wächst gerade in unserer Dietzenbacher Parkanlage am Rand einer schütteren Rasenfläche. Wer sich sein Aussehen eingeprägt hat, wird ihn leicht wiedererkennen, höchstens mit seinem sehr ähnlichen Gattungsgenossen Tarzetta catinus verwechseln. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tarzetta-cupularis-kerbrandiger-napfbecherling)
+
+<div style="clear: both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/disciotis_venosa_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,28 +45,6 @@ footer_scripts:
 06.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Anemonenbecherling *Dumontinia tuberosa*. Ein hübscher kleiner Becherling mit einem meist recht langen Stiel. Am Kühkopf wächst er zur Zeit geradezu massenhaft ganz nah am Wegrand. Trotzdem ist er mit seiner unauffälligen braunen Farbe leicht zu übersehen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/morchella_esculenta_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Speisemorchel *Morchella esculenta*, vor zwei Tagen bei einer pilzkundlichen Führung am Kühkopf bei Stockstadt am Rhein gefunden. Also endlich mal was für den Speisepilzsammler mit der Einschränkung, dass im Naturschutzschutzgebiet natürlich nichts entnommen sondern nur betrachtet werden darf. Die Speisemorchel liebt Auwälder, kommt aber auch in anderen Biotopen vor, wenn sie denn kalkhaltige Böden besitzen. Mitunter sogar mitten in Großstädten! (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/morchella-esculenta-speisemorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tuber_aestivum-13_hc.jpg" %}
-{% include abbildung_ende.html %}
-
-04.04.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-") verdient ein dickes Ausrufungszeichen! Es ist der inzwischen dritte Fund der Sommertrüffel *Tuber aestivum* im Stadtgebiet von Frankfurt am Main. Hendrik Cremer hat sie bei Arbeiten in seinem Vorgarten im Stadtteil Eschersheim entdeckt. Wenn man bedenkt, dass es sich in allen drei dokumentierten Fällen (zuvor in den Stadtteilen Preungesheim und Rödelheim) um Zufallsfunde handelt und die Finder auch noch den richtigen Verdacht hatten, darf man vermuten, dass es in Frankfurts Untergrund von teuren Delikatessen wimmeln könnte. Die Sommertrüffel gehört dabei mit einem Kilopreis um die 1500 Euro zu den "billigen" Arten. Alle Infos über die Frankfurter Trüffelfunde [finden Sie hier >](/pilze/tuber-aestivum-sommertrüffel)
 
 <div style="clear:  both"></div>
 
