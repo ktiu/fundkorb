@@ -7,7 +7,7 @@ beschreibung:
   synonym: "Synonym: Rutstroemia luteovirescens"
   erlaeuterung: luteovirescens = gelbgrün werdend
 profil:
-  aktualisiert: 2021-01-07
+  aktualisiert: 2022-04-08
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
