@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-08.04.2022: [Tarzetta cupularis - Kerbrandiger Napfbecherling](/pilze/tarzetta-cupularis-kerbrandiger-napfbecherling)  
+09.04.2022: [Coriolopsis trogii - Blasse Borstentramete](/pilze/coriolopsis-trogii-blasse-borstentramete)  
+08.04.2022: [Tarzetta cupularis - Kerbrandiger Napfbecherling](/pilze/tarzetta-cupularis-kerbrandiger-napfbecherling)\
 07.04.2022: [Disciotis venosa - Morchelbecherling](/pilze/disciotis-venosa-morchelbecherling)\
 06.04.2022: [Dumontinia tuberosa - Anemonenbecherling](/pilze/dumontinia-tuberosa-anemonenbecherling)\
 05.04.2022: [Morchella esculenta - Speisemorchel](/pilze/morchella-esculenta-speisemorchel)\
