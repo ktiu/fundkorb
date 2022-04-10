@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/parasola_leiocephala_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-10.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Scheibchentintling *Parasola leiocephala*, den wir schon vor einer Woche bei unserer Kühkopf-Exkursion an einem Wegrand gefunden haben. Wie so viele andere Pilzarten ist er früher präsent als in vergangenen Jahren. Scheibchen- oder auch Rädchentintlinge sind Tintlinge, die im Reifezustand nicht zu schwarzer Tinte zerfließen und für die daher eine eigene Gattung geschaffen wurde, deren Arten nur schwer zu unterscheiden sind. (Dieter Gewalt)
+10.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kahlköpfige Scheibchentintling *Parasola leiocephala*, den wir schon vor einer Woche bei unserer Kühkopf-Exkursion an einem Wegrand gefunden haben. Wie so viele andere Pilzarten ist er früher präsent als in vergangenen Jahren. Scheibchen- oder auch Rädchentintlinge sind Tintlinge, die im Reifezustand nicht zu schwarzer Tinte zerfließen und für die daher eine eigene Gattung geschaffen wurde, deren Arten nur schwer zu unterscheiden sind. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)
 
