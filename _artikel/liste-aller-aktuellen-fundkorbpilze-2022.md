@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-10.04.2022: [Parasola leiocephala - Kahlköpfiger Scheibchentintling](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)  
+11.04.2022: [Epichloe typhina - Gras-Kernpilz](/pilze/epichloe-typhina-gras-kernpilz)  
+10.04.2022: [Parasola leiocephala - Kahlköpfiger Scheibchentintling](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)\
 09.04.2022: [Coriolopsis trogii - Blasse Borstentramete](/pilze/coriolopsis-trogii-blasse-borstentramete)\
 08.04.2022: [Tarzetta cupularis - Kerbrandiger Napfbecherling](/pilze/tarzetta-cupularis-kerbrandiger-napfbecherling)\
 07.04.2022: [Disciotis venosa - Morchelbecherling](/pilze/disciotis-venosa-morchelbecherling)\
