@@ -13,8 +13,8 @@ hauptbild:
   datei: /bilder/epichloe_typhina_01_dg.jpg
 ---
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/epichloe_typhina_01_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/epichloe_typhina_-02_dg.jpg" %}
+{% include bild.html datei="/bilder/epichloe_typhina_01_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/epichloe_typhina_-02_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
 Über den Sinn von Verbreitungskarten wird oft mit dem Argument gespottet, dass Pilze dort vorkommen, wo Mykologen häufig nach ihnen suchen. Da scheint was dran zu sein und der hier vorgestellte [endophytische](Endophyt "Glossar") [Ascomyzet](Ascomyzeten "Glossar") kann als Musterbeispiel dienen. Seit wir in der zweiten Maihälfte 2008 mit gezielter Suche begannen, sind wir innerhalb weniger Tage vielfach fündig geworden. So selten, wie zum Beispiel von *Breitenbach & Kränzlin* angegeben (nur einmal in der Schweiz gefunden!), dürfte die Art also kaum sein. Sie scheint, um eine von *German J. Krieglsteiner* oft verwendete Formulierung zu gebrauchen, ein *„banales Florenelement“* zu sein.
