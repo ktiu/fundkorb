@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/epichloe_typhina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Graskernpilz Epichloe typhina. Wir haben ihn gerstern bei unserer Kühkopf-Exkursion mehrfach gefunden. Er bildet an lebenden Gräsern weißliche bis hellgrüne manschettenartige Überzüge, die sich später goldgelb bis orange verfärben. Passend zu diesen Eigenschaften wird er auch Orangefarbener Manschettenpilz genannt. Von seinen Sporen und [Hyphen](Hyphen "Glossar") ernähren sich kleine Fliegen und deren Larven. Wer auf ihn achtet, wird diesen Pilz vermutlich fast überall finden können. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/epichloe-typhina-gras-kernpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/parasola_leiocephala_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,42 +45,6 @@ footer_scripts:
 09.04.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Blasse Borstentramete *Coriolopsis trogii*, gehört zu einer Porlingsgattung, mit der nicht jeder Pilzfreund vertraut ist. Wenn die Blasse Borstentramete uns aber so vor Augen kommt wie auf diesem Foto, wird sicher keiner eine "echte" Tramete vermuten. Sie wächst seit über einem Jahr in unserem Dietzenbach Carré an einer Weide und hat inzwischen ihre besten Tage hinter sich. Am häufigsten ist sie in auwaldartigen Biotopen und an Pappeln zu finden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/coriolopsis-trogii-blasse-borstentramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tarzetta_cupularis_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-08.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kerbrandige Napfbecherling *Tarzetta cupularis*. Der kleine [Ascomyzet](Ascomyzeten "Glossar"), dessen Becherchen maximal 1,5 cm Durchmesser erreichen, wächst gerade in unserer Dietzenbacher Parkanlage am Rand einer schütteren Rasenfläche. Wer sich sein Aussehen eingeprägt hat, wird ihn leicht wiedererkennen, höchstens mit seinem sehr ähnlichen Gattungsgenossen Tarzetta catinus verwechseln. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tarzetta-cupularis-kerbrandiger-napfbecherling)
-
-<div style="clear: both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/disciotis_venosa_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Morchelbecherling *Disciotis venosa*. Auch er ist zur Zeit am Kühkopf zu finden, zwischen Bärlauch und Buschwindröschen jedoch meist gut getarnt. Für Kenner ist der mit den Morcheln verwandte [Ascomyzet](Ascomyzeten "Glossar") ein ausgezeichneter Speisepilz. Sein untrügliches Kennzeichen ist sein Chlorgeruch, der beim Erhitzen verschwindet und den Pilzgenuss in keiner Weise beeinträchtigt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/disciotis-venosa-morchelbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/dumontinia_tuberosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Anemonenbecherling *Dumontinia tuberosa*. Ein hübscher kleiner Becherling mit einem meist recht langen Stiel. Am Kühkopf wächst er zur Zeit geradezu massenhaft ganz nah am Wegrand. Trotzdem ist er mit seiner unauffälligen braunen Farbe leicht zu übersehen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
 
 <div style="clear:  both"></div>
 
