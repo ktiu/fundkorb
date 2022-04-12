@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/morchella_gigas_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Käppchenmorchel Mochella gigas. Keine Überraschung, sie zu dieser Jahreszeit im NSG Kühkopf zu finden. Wir haben ein gutes Dutzend von ihnen gesehen und natürlich stehen lassen, wie es sich in einem Naturschutzgebiet gehört. Ihre Speisepilzqualität wird nicht ganz so hoch eingeschätzt wie die der Speise- und Sitzmorcheln. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/morchella-gigas-käppchenmorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/epichloe_typhina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 10.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kahlköpfige Scheibchentintling *Parasola leiocephala*, den wir schon vor einer Woche bei unserer Kühkopf-Exkursion an einem Wegrand gefunden haben. Wie so viele andere Pilzarten ist er früher präsent als in vergangenen Jahren. Scheibchen- oder auch Rädchentintlinge sind Tintlinge, die im Reifezustand nicht zu schwarzer Tinte zerfließen und für die daher eine eigene Gattung geschaffen wurde, deren Arten nur schwer zu unterscheiden sind. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coriolopsis_trogii_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.04.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Blasse Borstentramete *Coriolopsis trogii*, gehört zu einer Porlingsgattung, mit der nicht jeder Pilzfreund vertraut ist. Wenn die Blasse Borstentramete uns aber so vor Augen kommt wie auf diesem Foto, wird sicher keiner eine "echte" Tramete vermuten. Sie wächst seit über einem Jahr in unserem Dietzenbach Carré an einer Weide und hat inzwischen ihre besten Tage hinter sich. Am häufigsten ist sie in auwaldartigen Biotopen und an Pappeln zu finden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coriolopsis-trogii-blasse-borstentramete)
 
 <div style="clear:  both"></div>
 
