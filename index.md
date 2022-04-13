@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lycogala_epidendrum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutmilchpilz *Lycogala epidendrum*. Er gehört zu den häufigen Schleimpilzen (*Myxomyzeten)*, die makroskopisch (also vom Anschauen) sicher erkannt werden können. Die kleinen kugeligen Fruchtkörper, die auf dem Foto rosa gefärbt sind, werden bald grün und bei Sporenreife braun. Man findet sie fast das ganze Jahr über an totem Holz. (Dieter Gewalt
+
+[Mehr lesen >](/pilze/lycogala-epidendrum-blutmilchpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/morchella_gigas_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 11.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Graskernpilz Epichloe typhina. Wir haben ihn gerstern bei unserer Kühkopf-Exkursion mehrfach gefunden. Er bildet an lebenden Gräsern weißliche bis hellgrüne manschettenartige Überzüge, die sich später goldgelb bis orange verfärben. Passend zu diesen Eigenschaften wird er auch Orangefarbener Manschettenpilz genannt. Von seinen Sporen und [Hyphen](Hyphen "Glossar") ernähren sich kleine Fliegen und deren Larven. Wer auf ihn achtet, wird diesen Pilz vermutlich fast überall finden können. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/epichloe-typhina-gras-kernpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/parasola_leiocephala_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kahlköpfige Scheibchentintling *Parasola leiocephala*, den wir schon vor einer Woche bei unserer Kühkopf-Exkursion an einem Wegrand gefunden haben. Wie so viele andere Pilzarten ist er früher präsent als in vergangenen Jahren. Scheibchen- oder auch Rädchentintlinge sind Tintlinge, die im Reifezustand nicht zu schwarzer Tinte zerfließen und für die daher eine eigene Gattung geschaffen wurde, deren Arten nur schwer zu unterscheiden sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)
 
 <div style="clear:  both"></div>
 
