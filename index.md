@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_leucomelaena_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.04.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist die Schwarzweiße Lorchel *Helvella leucomelaena.* Der [Ascomyzet](Ascomyzeten "Glossar") gehört zu den Pilzen, die schon im Frühjahr erscheinen, in unserer Dietzenbacher Parkanlage sogar an mehreren Standorten. Die gestielten Becher erreichen Durchmesser von etwa 3 Zentimeter. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lycogala_epidendrum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 12.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Käppchenmorchel Mochella gigas. Keine Überraschung, sie zu dieser Jahreszeit im NSG Kühkopf zu finden. Wir haben ein gutes Dutzend von ihnen gesehen und natürlich stehen lassen, wie es sich in einem Naturschutzgebiet gehört. Ihre Speisepilzqualität wird nicht ganz so hoch eingeschätzt wie die der Speise- und Sitzmorcheln. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/morchella-gigas-käppchenmorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/epichloe_typhina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Graskernpilz Epichloe typhina. Wir haben ihn gerstern bei unserer Kühkopf-Exkursion mehrfach gefunden. Er bildet an lebenden Gräsern weißliche bis hellgrüne manschettenartige Überzüge, die sich später goldgelb bis orange verfärben. Passend zu diesen Eigenschaften wird er auch Orangefarbener Manschettenpilz genannt. Von seinen Sporen und [Hyphen](Hyphen "Glossar") ernähren sich kleine Fliegen und deren Larven. Wer auf ihn achtet, wird diesen Pilz vermutlich fast überall finden können. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/epichloe-typhina-gras-kernpilz)
 
 <div style="clear:  both"></div>
 
