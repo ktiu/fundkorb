@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-14.04.2022: [Helvella leucomelaena - Schwarzweiße Lorchel](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)  
+15.04.2022: [Strobilurus tenacellus - Bitterer Kiefernzapfenrübling](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)  
+14.04.2022: [Helvella leucomelaena - Schwarzweiße Lorchel](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)\
 13.04.2022: [Lycogala epidendrum - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 12.04.2022: [Morchella gigas - Käppchenmorchel](/pilze/morchella-gigas-käppchenmorchel)\
 11.04.2022: [Epichloe typhina - Gras-Kernpilz](/pilze/epichloe-typhina-gras-kernpilz)\
