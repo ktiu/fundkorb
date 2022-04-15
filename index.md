@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bittere Kieferzapfenrübling *Strobilurus tenacellus*, ein sehr häufiger Pilz, der in keinem Kiefernwald fehlen dürfte und stets auf Kiefernzapfen wächst. Meist ist er an seinem bitteren Geschmack zu erkennen, kann aber auch mild sein. Dann wäre eine Verwechslung mit dem Milden Kiefernzapfenrübling möglich, der genau so aussieht wie der Bittere. Sie sind nur mikroskopisch zu unterscheiden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_leucomelaena_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
