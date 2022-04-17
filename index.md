@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/morchella_conica_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Spitzmorchel *Morchella conica*. Es hat sich längst unter Pilzfreunden herumgesprochen, dass man diese begehrten Speisepilze in jeder Groß- oder Kleinstadt finden kann, mit anderen Worten: überall dort, wo Flächen mit Kiefernrindenmulch belegt worden sind. Seine Zeit ist jetzt gekommen und man kann an zahlreichen Fundstellen reiche Beute machen. Wer einen eigenen Garten hat, kann ohne Mühe seine eigene Pilzzucht anlegen. Es muss jedoch von Jahr zu Jahr neu gemulcht werden. Ich schätze die Erfolgsaussicht auf ca. 70%. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/morchella-conica-spitzmorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/steccherinum_ochraceum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
