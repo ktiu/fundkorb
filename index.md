@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/steccherinum_ochraceum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ockerrötliche Resupinatstecheling *Steccherinum ochraceum*. Ein äußerst attraktiver Pilz, über den ich mich jedes Mal freue, wenn ich ihn zu sehen bekomme. Wer ihn gezielt suchen möchte, sollte möglichst viele am Boden liegende Äste umdrehen. Die sollten nicht zu dünn und schon etwas angemorscht sein, am besten von Buchen (was in unberindetem Zustand schwer zu erkennen ist). Verwechselt werden könnte er mit dem Rundsporigen Resupinatstacheling *Steccherinum bourdotii*. Der hat deutlich längere Stacheln.  (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -33,18 +45,6 @@ footer_scripts:
 14.04.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist die Schwarzweiße Lorchel *Helvella leucomelaena.* Der [Ascomyzet](Ascomyzeten "Glossar") gehört zu den Pilzen, die schon im Frühjahr erscheinen, in unserer Dietzenbacher Parkanlage sogar an mehreren Standorten. Die gestielten Becher erreichen Durchmesser von etwa 3 Zentimeter. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lycogala_epidendrum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutmilchpilz *Lycogala epidendrum*. Er gehört zu den häufigen Schleimpilzen (*Myxomyzeten)*, die makroskopisch (also vom Anschauen) sicher erkannt werden können. Die kleinen kugeligen Fruchtkörper, die auf dem Foto rosa gefärbt sind, werden bald grün und bei Sporenreife braun. Man findet sie fast das ganze Jahr über an totem Holz. (Dieter Gewalt
-
-[Mehr lesen >](/pilze/lycogala-epidendrum-blutmilchpilz)
 
 <div style="clear:  both"></div>
 
