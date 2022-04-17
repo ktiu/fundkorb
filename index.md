@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/steccherinum_ochraceum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-16.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ockerrötliche Resupinatstecheling *Steccherinum ochraceum*. Ein äußerst attraktiver Pilz, über den ich mich jedes Mal freue, wenn ich ihn zu sehen bekomme. Wer ihn gezielt suchen möchte, sollte möglichst viele am Boden liegende Äste umdrehen. Die sollten nicht zu dünn und schon etwas angemorscht sein, am besten von Buchen (was in unberindetem Zustand schwer zu erkennen ist). Verwechselt werden könnte er mit dem Rundsporigen Resupinatstacheling *Steccherinum bourdotii*. Der hat deutlich längere Stacheln.  (Dieter Gewalt)
+16.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ockerrötliche Resupinatstecheling *Steccherinum ochraceum*. Ein äußerst attraktiver Pilz, über den ich mich jedes Mal freue, wenn ich ihn zu sehen bekomme. Wer ihn gezielt suchen möchte, sollte möglichst viele am Boden liegende Äste umdrehen. Die sollten nicht zu dünn und schon etwas angemorscht sein, am besten von Buchen (was in unberindetem Zustand schwer zu erkennen ist). Verwechselt werden könnte er mit dem [Rundsporigen Resupinatstacheling *Steccherinum bourdotii*](/pilze/steccherinum-bourdotii-rundsporiger-resupinatstacheling). Der hat deutlich längere Stacheln. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling)
 
