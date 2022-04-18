@@ -12,6 +12,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/hygrocybe_persistens_01_dg.jpeg
+literatur:
+  - url: http://tintling.com/pilzbuch/arten/h/Hygrocybe_persistens.html
 ---
 Der Safrangelbe Saftling gehört zu den etwas häufigeren, aber rückläufigen Saftlingsarten, die außer auf Wiesen auch an Wegrändern, Böschungen, in Wacholderheiden und anderen Biotopen vorkommen. Kein Speisepilz.
 
