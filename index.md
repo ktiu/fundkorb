@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hymenochaete_rubiginosa_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Umberbraune Borstenscheibe *Hymenochaete rubiginosa*. Im Habitus ähneln sie Schichtpilzen, sind mit diesen aber nicht im Entferntesten verwandt. Sie wachsen als dünne, fächerförmige Hütchen an totem Holz, wobei die glatte bis runzelige Fruchtschicht (Hymenium) die Unterseite bildet und zum Teil als krustige, resupinate Schicht mit dem Holz verbunden ist. Die Fruchtkörper sind frisch lederig zäh, trocken steif und brüchig und können mehrere Jahre alt werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/morchella_conica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,42 +45,6 @@ footer_scripts:
 16.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ockerrötliche Resupinatstecheling *Steccherinum ochraceum*. Ein äußerst attraktiver Pilz, über den ich mich jedes Mal freue, wenn ich ihn zu sehen bekomme. Wer ihn gezielt suchen möchte, sollte möglichst viele am Boden liegende Äste umdrehen. Die sollten nicht zu dünn und schon etwas angemorscht sein, am besten von Buchen (was in unberindetem Zustand schwer zu erkennen ist). Verwechselt werden könnte er mit dem [Rundsporigen Resupinatstacheling *Steccherinum bourdotii*](/pilze/steccherinum-bourdotii-rundsporiger-resupinatstacheling). Der hat deutlich längere Stacheln. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bittere Kieferzapfenrübling *Strobilurus tenacellus*, ein sehr häufiger Pilz, der in keinem Kiefernwald fehlen dürfte und stets auf Kiefernzapfen wächst. Meist ist er an seinem bitteren Geschmack zu erkennen, kann aber auch mild sein. Dann wäre eine Verwechslung mit dem Milden Kiefernzapfenrübling möglich, der genau so aussieht wie der Bittere. Sie sind nur mikroskopisch zu unterscheiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_leucomelaena_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.04.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist die Schwarzweiße Lorchel *Helvella leucomelaena.* Der [Ascomyzet](Ascomyzeten "Glossar") gehört zu den Pilzen, die schon im Frühjahr erscheinen, in unserer Dietzenbacher Parkanlage sogar an mehreren Standorten. Die gestielten Becher erreichen Durchmesser von etwa 3 Zentimeter. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/morchella_gigas_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Käppchenmorchel Mochella gigas. Keine Überraschung, sie zu dieser Jahreszeit im NSG Kühkopf zu finden. Wir haben ein gutes Dutzend von ihnen gesehen und natürlich stehen lassen, wie es sich in einem Naturschutzgebiet gehört. Ihre Speisepilzqualität wird nicht ganz so hoch eingeschätzt wie die der Speise- und Sitzmorcheln. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/morchella-gigas-käppchenmorchel)
 
 <div style="clear:  both"></div>
 
