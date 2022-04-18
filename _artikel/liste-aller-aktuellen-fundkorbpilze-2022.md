@@ -2,8 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-17.04.2022: [Morchella conica - Spitzmorchel](/pilze/morchella-conica-spitzmorchel)  
-16.04.2022: [Steccherinum ochraceum - Ockerrötlicher Resupinatstacheling](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling)  
+18.04.2022: [Hymenochaete rubiginosa - Umberbraune Borstenscheibe](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)  
+17.04.2022: [Morchella conica - Spitzmorchel](/pilze/morchella-conica-spitzmorchel)\
+16.04.2022: [Steccherinum ochraceum - Ockerrötlicher Resupinatstacheling](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling)\
 15.04.2022: [Strobilurus tenacellus - Bitterer Kiefernzapfenrübling](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)\
 14.04.2022: [Helvella leucomelaena - Schwarzweiße Lorchel](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)\
 13.04.2022: [Lycogala epidendrum - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
