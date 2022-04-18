@@ -37,7 +37,7 @@ In dieser Familie sind insgesamt 43 Gattungen zusammengefasst, unter denen die S
 {% include bild.html datei="/bilder/lophodermium_-pinastri_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: Ahorn-Runzelschorf (Rhytisma acerinum) -- rechts: Kiefernnadel-Spaltlippe (Lophodermium pinastri)" %}
 
-**Spaltlippen** (*Lophodermium*) sind mit über 140 Arten weltweit die größte Gattung der Rhytismatales. Sie wachsen saprobiontisch oder parasitisch auf toten oder lebenden Pflanzenteilen (z. B. Stängel, Blätter oder Blattstiele). Ihre Fruchtkörper ([Hysterothezien](Hysterothezien "Glossar")) sind in das Wirtsgewebe eingebettet und öffnen sich mit einem lippenförmigen Spalt. Im Fundkorb sind folgende 3 Arten beschrieben und abgebildet:
+**Spaltlippen** (*Lophodermium*) sind mit über 140 Arten weltweit die größte Gattung der Rhytismatales. Sie wachsen saprobiontisch oder parasitisch auf toten oder lebenden Pflanzenteilen (z. B. Stängel, Blätter oder Blattstiele). Ihre Fruchtkörper ([Hysterothezien](Hysterothezien "Glossar")) sind in das Wirtsgewebe eingebettet und öffnen sich mit einem lippenförmigen Spalt. Im Fundkorb sind folgende 5 Arten beschrieben und abgebildet:
 
 [Lophodermium arundinaceum](/pilze/lophodermium-arundinaceum-schilf-spaltlippe) - [Schilf-Spaltlippe ](/pilze/lophodermium-arundinaceum-schilf-spaltlippe)\
 [Lophodermium gramineum - Gras-Spaltlippe](/pilze/lophodermium-gramineum-gras-spaltlippe)\
