@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pluteus_cervinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rehbraune Dachpilz *Pluteus cervinus*. Keine Überraschung zu diesem Zeitpunkt, denn er gehört zu den schon früh im Jahr erscheinenden Blätterpilzen. Dachpilze sind leicht zu erkennen. Sie haben freie Lamellen, die nicht bis an den Stiel heranreichen, rosa verfärbende Lamellen, jedoch keine häutige Scheide am Stiel. Die meisten Arten wachsen an Holz, sind aber nicht immer leicht zu unterscheiden. Der Rehbraune ist jedenfalls der mit Abstand häufigste. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pluteus-cervinus-rehbrauner-dachpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hymenochaete_rubiginosa_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 17.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Spitzmorchel *Morchella conica*. Es hat sich längst unter Pilzfreunden herumgesprochen, dass man diese begehrten Speisepilze in jeder Groß- oder Kleinstadt finden kann, mit anderen Worten: überall dort, wo Flächen mit Kiefernrindenmulch belegt worden sind. Seine Zeit ist jetzt gekommen und man kann an zahlreichen Fundstellen reiche Beute machen. Wer einen eigenen Garten hat, kann ohne Mühe seine eigene Pilzzucht anlegen. Es muss jedoch von Jahr zu Jahr neu gemulcht werden. Ich schätze die Erfolgsaussicht auf ca. 70%. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/morchella-conica-spitzmorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/steccherinum_ochraceum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ockerrötliche Resupinatstecheling *Steccherinum ochraceum*. Ein äußerst attraktiver Pilz, über den ich mich jedes Mal freue, wenn ich ihn zu sehen bekomme. Wer ihn gezielt suchen möchte, sollte möglichst viele am Boden liegende Äste umdrehen. Die sollten nicht zu dünn und schon etwas angemorscht sein, am besten von Buchen (was in unberindetem Zustand schwer zu erkennen ist). Verwechselt werden könnte er mit dem [Rundsporigen Resupinatstacheling *Steccherinum bourdotii*](/pilze/steccherinum-bourdotii-rundsporiger-resupinatstacheling). Der hat deutlich längere Stacheln. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling)
 
 <div style="clear:  both"></div>
 
