@@ -37,12 +37,13 @@ In dieser Familie sind insgesamt 43 Gattungen zusammengefasst, unter denen die S
 {% include bild.html datei="/bilder/lophodermium_-pinastri_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: Ahorn-Runzelschorf (Rhytisma acerinum) -- rechts: Kiefernnadel-Spaltlippe (Lophodermium pinastri)" %}
 
-**Spaltlippen** (*Lophodermium*) sind mit über 140 Arten weltweit die größte Gattung der Rhytismatales. Sie wachsen saprobiontisch oder parasitisch auf toten oder lebenden Pflanzenteilen (z. B. Stängel, Blätter oder Blattstiele). Ihre Fruchtkörper ([Hysterothezien](Hysterothezien "Glossar")) sind in das Wirtsgewebe eingebettet und öffnen sich mit einem lippenförmigen Spalt. Im Fundkorb sind folgende 5 Arten beschrieben und abgebildet:
+**Spaltlippen** (*Lophodermium*) sind mit über 140 Arten weltweit die größte Gattung der Rhytismatales. Sie wachsen saprobiontisch oder parasitisch auf toten oder lebenden Pflanzenteilen (z. B. Stängel, Blätter oder Blattstiele). Ihre Fruchtkörper ([Hysterothezien](Hysterothezien "Glossar")) sind in das Wirtsgewebe eingebettet und öffnen sich mit einem lippenförmigen Spalt. Im Fundkorb sind folgende 6 Arten beschrieben und abgebildet:
 
 [Lophodermium arundinaceum](/pilze/lophodermium-arundinaceum-schilf-spaltlippe) - [Schilf-Spaltlippe ](/pilze/lophodermium-arundinaceum-schilf-spaltlippe)\
 [Lophodermium gramineum - Gras-Spaltlippe](/pilze/lophodermium-gramineum-gras-spaltlippe)\
 [Lophodermium petiolicola](/pilze/lophodermium-petiolicola-petiolen-spaltlippe) - [Petiolen-Spaltlippe ](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)\
+[Lophodermium piceae - Fichtennadel-Spaltlippe](/pilze/lophodermium-piceae-fichtennadel-spaltlippe-fichtennadelröte)  
 [Lophodermium pinastri - ](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)[Kiefernnadelspaltlippe](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)\
-[Lophodermium seditiosum](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe) - [Kiefernschütte-Spaltlippe ](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe)[](/pilze/lophodermium-arundinaceum-schilf-spaltlippe)
-
+[Lophodermium seditiosum](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe) - [Kiefernschütte-Spaltlippe ](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe)
+  
 **Schildbecherlinge** (*Colpoma*) bilden eine Gattung mit wenigen an Baumästen wachsenden becher- oder schiffchenförmigen Arten wie dem [Eichen-Schildbecherling Colpoma quercinum](/pilze/colpoma-quercinum-eichen-schildbecherling). Bekanntester Verteter der **Runzelschorfe** ist der bereits erwähnte [Ahorn-Runzelschorf Rhytisma acerinum](/pilze/rhytisma-acerinum-ahorn-runzelschorf).
