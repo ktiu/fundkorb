@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: villosa = zottig behaart
   familie: Niaceae
 profil:
-  aktualisiert: 2020-09-05
+  aktualisiert: 2022-04-19
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
