@@ -25,11 +25,11 @@ Beim Anblick solcher Becherchen, was dem Betrachter nur mit einer gut vergröße
 {% include bild.html datei="/bilder/lachnun_villosa_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Die becherförmigen Fruchtkörper dieser beiden Arten erreichen nur selten Durchmesser von mehr als einem Millimeter und unterscheiden sich in der Farbe ihres [Hymeniums](Hymenium "Glossar") und der Randhaare. Bei Lachnella villosa ist die Fruchtschicht weiß bis hellgrau, die Randhaare weißlich bis farlos [hyalin](hyalin "Glossar"), bei Lachnella alboviolascens ist das Hymenium grau bis düster violettbraun gefärbt, die Randhaare bräunlich. Beide Arten ziehen sich bei Trockenheit kugelig zusammen, nur feucht öffnen sie sich.
+Die becherförmigen Fruchtkörper dieser beiden Arten erreichen nur selten Durchmesser von mehr als einem Millimeter und unterscheiden sich in der Farbe ihres [Hymeniums](Hymenium "Glossar") und der Randhaare. Bei *Lachnella villosa* ist die Fruchtschicht weiß bis hellgrau, die Randhaare weißlich bis farlos [hyalin](hyalin "Glossar"), bei *[Lachnella alboviolascens](/pilze/lachnella-alboviolascens-weißvioletter-schüsselseitling)* ist das Hymenium grau bis düster violettbraun gefärbt, die Randhaare bräunlich. Beide Arten ziehen sich bei Trockenheit kugelig zusammen, nur feucht öffnen sie sich.
 
 Um sicher zu gehen, sollte neben makroskopischen Merkmalen auch die Sporengröße geprüft werden, die deutliche Unterschiede aufweisen:
 
-Lachnum villosa: 10 - 14 x 7 - 9 µm  
+Lachnum villosa: 10 - 14 x 7 - 9 µm\
 Lachnum alboviolascens: 14 - 17 x 9 - 12 µm
 
 {% include abbildung_start.html stil="klein" %}
