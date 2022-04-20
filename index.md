@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_pubescens_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Samtige Tramete (*Trametes pubescens*), gefunden an einem liegenden Birkenstamm in einem Wald bei Rödermark-Waldacker. Dieser nicht sehr häufige Porling bevorzugt schattig feuchte oder auwaldartige Biotope und ist leicht mit der häufigen Striegeligen Tramete (*Trametes hirsuta*) zu verwechseln, die deutlicher gezont ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/trametes-pubescens-samtige-tramete)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_cervinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
