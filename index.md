@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_orirubens_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 21.04.2022 ist der Rötende Erdritterling *Tricholoma orirubens*. Erdritterlinge erwartet man eher im Herbst oder Spätherbst. Auch in anderer Hinsicht ist dieser aktuelle Fund etwas Besonderes. Erdritterlinge findet man nicht unbedingt im Zentrum einer Stadt, aber die Dietzenbacher Parkanlage hat mich schon desöfteren mit besonderen Pilzvorkommen überrascht. Im Fall von *Tricholoma orirubens* ist es sogar ein persönlicher Erstfund. Um das namensgebende Röten zu sehen muss man allerdings etwas Geduld haben. Es zeigt sich meist erst bei älteren Fruchtkörpern oder nach längerem Liegenlassen entnommener Exemplare. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tricholoma-orirubens-rötender-erdritterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_pubescens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
