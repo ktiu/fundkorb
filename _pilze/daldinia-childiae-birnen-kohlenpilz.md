@@ -5,7 +5,7 @@ beschreibung:
   referenz: J.D.Rogers & Y.M. Ju 1999
   familie: Hypoxylaceae
 profil:
-  aktualisiert: 2021-01-26
+  aktualisiert: 2022-04-21
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
