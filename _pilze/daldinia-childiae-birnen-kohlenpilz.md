@@ -58,3 +58,22 @@ Die Fruchtkörper von *Daldinia childiae* sind mit 0,5 bis 3 cm Durchmesser rela
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/daldinia_childiae_09_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
+
+10.04.2022: Daldinia childiae jetzt auch im NSG Kühkopf (TK 6116.4.4) gefunden. Ein massenhaftes Vorkommen an zwei liegenden Rosskastanienstämmen, besonders eindrucksvoll auf einer der Schnittflächen.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/daldinia_childiae_12_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/daldinia_childiae_13_dg.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Daldinia childiae im NSG Kühkopf bei Stockstadt am Rhein" %}
+
+Die definitive Bestimmung verdanke ich *Bernd Miggel*. Mit dem Schlüssel von Wollweber & Stadler und den Merkmalen
+
+**Exostroma** mit KOH 10% = orangebraun\
+**Ascosporen** asymmetrisch, ellipsoid, schwarzbraun, mit Keimspalte, Perispor vielfach ablösend, 11,5 - 15,5 x 6 - 7,5 µm, durchschnittlicher Schlankheitsgrad 1,95-2,05
+
+gelangte er in drei Schritten zu *Daldinia childiae.*
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/daldinia_childiae_14_bm.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/daldinia_childiae_15_bm.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Foto links: Exostroma mit KOH 10%  --  Foto rechts: Sporen (beide von Bernd Miggel)" %}
