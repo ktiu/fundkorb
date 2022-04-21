@@ -13,6 +13,8 @@ hauptbild:
 literatur:
   - url: http://aphyllopower.blogspot.com/2009/07/
     text: "Werner Pohl: Aphyllopower (Internet-Blog)"
+  - text: "Wollweber & Stadler: Zur Kenntnis der Gattung Daldinia in Deutschland und
+      Europa in ZMycol Band 67/ 1.2001"
 ---
 Am 3. September 2016 fanden wir im Frankfurter Stadtwald in der Nähe der Oberschweinstiege an drei Stellen kohlige knollenförmige Pilze, die aufgrund ihrer inneren Struktur leicht der Gattung *Daldinia* zuzuordnen waren, alle an toten Ahornstämmen und -stümpfen. Mehr war mit meinen Mitteln nicht zu konkretisieren. Die Bestimmung von Pilzen ist oft abhängig von der Literatur, die man zur Verfügung hat bzw. im Internet zu finden ist. Bei *Breitenbach & Kränzlin* (Pilze der Schweiz Band 1) war lediglich *[Daldinia concentrica](/pilze/daldinia-concentrica-kohlen-kugelpilz)* beschrieben und abgebildet, doch die konnte ausgeschlossen werden, da unser Fund gestielte Fruchtkörper hatte. *Hermine Lotz-Winter*, die über einen in der Zeitschrift für Mykologie publizierten Bestimmungsschlüssel von *H. Wollweber und M. Stadler* verfügte, konnte die Art schließlich benennen. Es handelte sich um den Birnen-Kohlenpilz *Daldinia childiae*. 
 
