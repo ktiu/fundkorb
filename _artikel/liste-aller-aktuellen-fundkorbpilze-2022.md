@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-21.04.2022: [Tricholoma orirubens - Rötender Erdritterling](/pilze/tricholoma-orirubens-rötender-erdritterling)  
+22.04.2022: [Daldinia childiae - Birnen-Kohlenpilz](/pilze/daldinia-childiae-birnen-kohlenpilz)  
+21.04.2022: [Tricholoma orirubens - Rötender Erdritterling](/pilze/tricholoma-orirubens-rötender-erdritterling)\
 20.04.2022: [Trametes pubescens - Samtige Tramete](/pilze/trametes-pubescens-samtige-tramete)\
 19.04.2022: [Pluteus cervinus - Rehbrauner Dachpilz](/pilze/pluteus-cervinus-rehbrauner-dachpilz)\
 18.04.2022: [Hymenochaete rubiginosa - Umberbraune Borstenscheibe](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)\
