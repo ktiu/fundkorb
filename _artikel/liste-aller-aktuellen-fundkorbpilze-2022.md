@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-23.04.2022: [Leucogyrophana mollusca - Kiefernfältling](/pilze/leucogyrophana-mollusca-kiefernfältling)  
+24.04.2022: [Rhopographus filicinus - Adlerfarn-Fleckenpilz](/pilze/rhopographus-filicinus-adlerfarn-fleckenpilz)  
+23.04.2022: [Leucogyrophana mollusca - Kiefernfältling](/pilze/leucogyrophana-mollusca-kiefernfältling)\
 22.04.2022: [Daldinia childiae - Birnen-Kohlenpilz](/pilze/daldinia-childiae-birnen-kohlenpilz)\
 21.04.2022: [Tricholoma orirubens - Rötender Erdritterling](/pilze/tricholoma-orirubens-rötender-erdritterling)\
 20.04.2022: [Trametes pubescens - Samtige Tramete](/pilze/trametes-pubescens-samtige-tramete)\
