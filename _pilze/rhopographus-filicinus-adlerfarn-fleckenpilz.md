@@ -18,4 +18,4 @@ Beim Betrachten von vetrockneten vorjährigen Adlerfarnstängeln könnten schiff
 {% include bild.html datei="/bilder/rhopographus_filicinus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Die einzelnen *Stromata* (Fruchtkörper) bilden sich unter der Stielrinde und brechen aus ihr hervor. Mit der Lupe betrachtet erscheint ihre Oberfläche aufgeraut. Verwechslungen können bei Beachtung des Substrats ausgeschlossen werden.
+Die einzelnen *Stromata* (Fruchtkörper) bilden sich unter der Stielrinde und brechen aus ihr hervor. Mit der Lupe betrachtet erscheint ihre etwas erhabene Oberfläche aufgeraut. Verwechslungen können bei Beachtung des Substrats ausgeschlossen werden.
