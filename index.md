@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/rhopographus_filicinus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-24.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Adlerfarn-Fleckenpilz *Rhopographus filicinus*. Er ist in jedem Adlerfarnbestand zu finden, allerdings nur an vorjährigen abgestorbenen Stängeln. Der kaum beachtete [Ascomyzet](Ascomyzet "Glossar") verrät sich durch schwarze, strichartige Zeichnungen, die in ihrer Gesamtheit oft ein interessantes Muster bilden. Mit der Lupe betrachtet erscheint ihre Oberfläche aufgeraut. Verwechslungen können bei Beachtung des speziellen Substrats ausgeschlossen werden. (Dieter Gewalt)
+24.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Adlerfarn-Fleckenpilz *Rhopographus filicinus*. Er ist in jedem Adlerfarnbestand zu finden, allerdings nur an vorjährigen abgestorbenen Stängeln. Der kaum beachtete [Ascomyzet](Ascomyzeten "Glossar") verrät sich durch schwarze, strichartige Zeichnungen, die in ihrer Gesamtheit oft ein interessantes Muster bilden. Mit der Lupe betrachtet erscheint ihre Oberfläche aufgeraut. Verwechslungen können bei Beachtung des speziellen Substrats ausgeschlossen werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/rhopographus-filicinus-adlerfarn-fleckenpilz)
 
