@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calocybe_gambosa_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maipilz *Calocybe gambosa*. Im Zuge der Klimaveränderung hält auch er sich nicht mehr an die in seinem Namen vorgegebene Erscheinungszeit. Die Exemplare, die wir am Dietzenbacher Wollwiesenteich gefunden haben, waren bereits angetrocknet, immerhin eines war noch geeignet, für einen Küchentest mitgenommen zu werden. Es gibt nur wenige Pilzarten, die so kontrovers bewertet werden wie der Maipilz. Manche mögen ihn, andere verabscheuen ihn. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/calocybe-gambosa-maipilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/rhopographus_filicinus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -33,30 +45,6 @@ footer_scripts:
 23.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kiefernfältling *Leucogyrophana mollusca*. Er fällt durch sein formenreich gestaltetes orangegelbes Hymenium auf. Allzu häufig wird man diesem schönen stets [resupinat](resupinat "Glossar") wachsenden Pilz nicht begegnen. In der Rhein-Main-Ebene ist er mir von mehreren Wuchsorten bekannt. Der aktuelle Fund stammt von einem Kiefernstumpf in einem Wald nahe der Thomasütte bei Eppertshausen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/leucogyrophana-mollusca-kiefernfältling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/daldinia_childiae_13_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birnen-Kohlenpilz *Daldinia childiae*. Nach mehreren Aufsammlungen im Frankfurter Stadtwald haben wir ihn jetzt auch im Naturschutzgebiet Kühkopf bei Stockstadt am Rhein gefunden. Und zwar massenhaft und dicht zusammengedrängt an zwei toten Rosskastanienstämmen. Am beeindruckendsten war die Agglomeration auf der Schnittfläche. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/daldinia-childiae-birnen-kohlenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_orirubens_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 21.04.2022 ist der Rötende Erdritterling *Tricholoma orirubens*. Erdritterlinge erwartet man eher im Herbst oder Spätherbst. Auch in anderer Hinsicht ist dieser aktuelle Fund etwas Besonderes. Erdritterlinge findet man nicht unbedingt im Zentrum einer Stadt, aber die Dietzenbacher Parkanlage hat mich schon desöfteren mit besonderen Pilzvorkommen überrascht. Im Fall von *Tricholoma orirubens* ist es sogar ein persönlicher Erstfund. Um das namensgebende Röten zu sehen muss man allerdings etwas Geduld haben. Es zeigt sich meist erst bei älteren Fruchtkörpern oder nach längerem Liegenlassen entnommener Exemplare. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tricholoma-orirubens-rötender-erdritterling)
 
 <div style="clear:  both"></div>
 
