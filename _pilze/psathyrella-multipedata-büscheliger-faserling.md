@@ -6,7 +6,7 @@ beschreibung:
   familie: Psathyrellaceae
   erlaeuterung: multipedata = vielfüßig
 profil:
-  aktualisiert: 2020-08-13
+  aktualisiert: 2022-04-26
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
