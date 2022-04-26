@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/psathyrella_multipedata_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelige Faserling *Psathyrella multipedata*. Ebenfalls am Dietzenbacher Wollwiesenteich gefunden, wo er seit Jahrzehnten einen Stammplatz zwischen dicht stehenden Kräutern am Wegrand hat. Solche Standorte sind nicht unbedingt sein bevorzugtes Revier. Er scheint eher Rasenflächen zu bevorzugen, sogar mitten in Großstädten, kann aber über Jahre oder Jahrzehnte ausbleiben. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/psathyrella-multipedata-büscheliger-faserling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/calocybe_gambosa_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 24.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Adlerfarn-Fleckenpilz *Rhopographus filicinus*. Er ist in jedem Adlerfarnbestand zu finden, allerdings nur an vorjährigen abgestorbenen Stängeln. Der kaum beachtete [Ascomyzet](Ascomyzeten "Glossar") verrät sich durch schwarze, strichartige Zeichnungen, die in ihrer Gesamtheit oft ein interessantes Muster bilden. Mit der Lupe betrachtet erscheint ihre Oberfläche aufgeraut. Verwechslungen können bei Beachtung des speziellen Substrats ausgeschlossen werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/rhopographus-filicinus-adlerfarn-fleckenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leucogyrophana_mollusca_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kiefernfältling *Leucogyrophana mollusca*. Er fällt durch sein formenreich gestaltetes orangegelbes Hymenium auf. Allzu häufig wird man diesem schönen stets [resupinat](resupinat "Glossar") wachsenden Pilz nicht begegnen. In der Rhein-Main-Ebene ist er mir von mehreren Wuchsorten bekannt. Der aktuelle Fund stammt von einem Kiefernstumpf in einem Wald nahe der Thomasütte bei Eppertshausen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leucogyrophana-mollusca-kiefernfältling)
 
 <div style="clear:  both"></div>
 
