@@ -22,7 +22,7 @@ Aschgraue Weichbecherchen wachsen ganzjährig auf der Unterseite von faulendem, 
 {% include bild.html datei="/bilder/mollisia_cinerea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Die becherförmigen [Apothecien](Apothecien "Glossar") sind jung nahezu weiß, später hell- bis dunkelgrau. Der Becherrand ist heller, oft verbogen oder gekräuselt, die Außenseite fein flaumig mit eher graubräunlichen Farben. Ein deutlicher [Subikulumfilz](Subikulum "Glossar") fehlt.
+Die becherförmigen [Apothezien](Apothecien "Glossar") sind jung nahezu weiß, später hell- bis dunkelgrau. Der Becherrand ist heller, oft verbogen oder gekräuselt, die Außenseite fein flaumig mit eher graubräunlichen Farben. Ein deutlicher [Subikulumfilz](Subikulum "Glossar") fehlt.
 
 **Mikroskopische Merkmale:** Asci 8-sporig, 50 -70 x 5 - 6 µm, mit negativer KOH-Raektion, Sporen uniseriat (in einer Reihe) angeordnet; Sporen elliptisch, mitunter etwas gebogen, glatt, 7 - 11 x 2,2 - 2,9 µm; Paraphysen zylindrisch mit stumpfen Enden
 
