@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-28.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Voreilende Ackerling *Agrocybe praecox*. Sein Name (*"voreilend"*) besagt schon etwas über seine Erscheinungszeit. Er ist aber keineswegs nur ein typischer Frühjahrspilz. Man kann ihn durchaus bis in den Herbst hinein finden. Er bevorzugt offenes Gelände wie Parkanlagen oder Wegränder. Gilt als essbar, schmeckt aber etwas bitter. (Dieter Gewalt)
+27.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Voreilende Ackerling *Agrocybe praecox*. Sein Name (*"voreilend"*) besagt schon etwas über seine Erscheinungszeit. Er ist aber keineswegs nur ein typischer Frühjahrspilz. Man kann ihn durchaus bis in den Herbst hinein finden. Er bevorzugt offenes Gelände wie Parkanlagen oder Wegränder. Gilt als essbar, schmeckt aber etwas bitter. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agrocybe-praecox-voreilender-ackerling)
 
