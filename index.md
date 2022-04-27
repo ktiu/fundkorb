@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Voreilende Ackerling *Agrocybe praecox*. Sein Name (*"voreilend"*) besagt schon etwas über seine Erscheinungszeit. Er ist aber keineswegs nur ein typischer Frühjahrspilz. Man kann ihn durchaus bis in den Herbst hinein finden. Er bevorzugt offenes Gelände wie Parkanlagen oder Wegränder. Gilt als essbar, schmeckt aber etwas bitter. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agrocybe-praecox-voreilender-ackerling)
+
+<div style="clear: both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/psathyrella_multipedata_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 25.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maipilz *Calocybe gambosa*. Im Zuge der Klimaveränderung hält auch er sich nicht mehr an die in seinem Namen vorgegebene Erscheinungszeit. Die Exemplare, die wir am Dietzenbacher Wollwiesenteich gefunden haben, waren bereits angetrocknet, immerhin eines war noch geeignet, für einen Küchentest mitgenommen zu werden. Es gibt nur wenige Pilzarten, die so kontrovers bewertet werden wie der Maipilz. Manche mögen ihn, andere verabscheuen ihn. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/calocybe-gambosa-maipilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/rhopographus_filicinus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Adlerfarn-Fleckenpilz *Rhopographus filicinus*. Er ist in jedem Adlerfarnbestand zu finden, allerdings nur an vorjährigen abgestorbenen Stängeln. Der kaum beachtete [Ascomyzet](Ascomyzeten "Glossar") verrät sich durch schwarze, strichartige Zeichnungen, die in ihrer Gesamtheit oft ein interessantes Muster bilden. Mit der Lupe betrachtet erscheint ihre Oberfläche aufgeraut. Verwechslungen können bei Beachtung des speziellen Substrats ausgeschlossen werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/rhopographus-filicinus-adlerfarn-fleckenpilz)
 
 <div style="clear:  both"></div>
 
