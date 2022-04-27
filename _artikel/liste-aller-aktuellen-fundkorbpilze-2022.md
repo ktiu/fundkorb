@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-26.04.2022: [Psathyrella multipedata - Büscheliger Faserling](/pilze/psathyrella-multipedata-büscheliger-faserling)  
+27.04.2022: [Agrocybe praecox - Voreilender Ackerling](/pilze/agrocybe-praecox-voreilender-ackerling)  
+26.04.2022: [Psathyrella multipedata - Büscheliger Faserling](/pilze/psathyrella-multipedata-büscheliger-faserling)\
 25.04.2022: [Calocybe gambosa - Maipilz](/pilze/calocybe-gambosa-maipilz)\
 24.04.2022: [Rhopographus filicinus - Adlerfarn-Fleckenpilz](/pilze/rhopographus-filicinus-adlerfarn-fleckenpilz)\
 23.04.2022: [Leucogyrophana mollusca - Kiefernfältling](/pilze/leucogyrophana-mollusca-kiefernfältling)\
