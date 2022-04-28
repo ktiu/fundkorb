@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/uromyces_ficariae_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Scharbockskraut-Rostpilz *Uromyces ficariae*. Er ist gekennzeichnet durch dunkelbraune, pulverige Sporenlager auf Blättern und Blattstielen von Scharbockskraut (*Ranunculus ficaria*). Man findet den Rostpilz vor allem von April bis Mai. Er gehört zu den Rostpilzarten, die keinen Wirtswechsel vollziehen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/uromyces-ficariae-rostpilz-an-scharbockskraut)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 26.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelige Faserling *Psathyrella multipedata*. Ebenfalls am Dietzenbacher Wollwiesenteich gefunden, wo er seit Jahrzehnten einen Stammplatz zwischen dicht stehenden Kräutern am Wegrand hat. Solche Standorte sind nicht unbedingt sein bevorzugtes Revier. Er scheint eher Rasenflächen zu bevorzugen, sogar mitten in Großstädten, kann aber über Jahre oder Jahrzehnte ausbleiben. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/psathyrella-multipedata-büscheliger-faserling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calocybe_gambosa_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maipilz *Calocybe gambosa*. Im Zuge der Klimaveränderung hält auch er sich nicht mehr an die in seinem Namen vorgegebene Erscheinungszeit. Die Exemplare, die wir am Dietzenbacher Wollwiesenteich gefunden haben, waren bereits angetrocknet, immerhin eines war noch geeignet, für einen Küchentest mitgenommen zu werden. Es gibt nur wenige Pilzarten, die so kontrovers bewertet werden wie der Maipilz. Manche mögen ihn, andere verabscheuen ihn. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/calocybe-gambosa-maipilz)
 
 <div style="clear:  both"></div>
 
