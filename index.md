@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/entoloma_clypeatum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schildrötling *Entoloma clypeatum*. Diese schon früh im Jahr erscheinde Art gehört zu den ersten küchentauglichen Blätterpilzen, kann allerdings nur erfahrenen Pilzsammlern zum Verzehr empfohlen werden. Unter den Rötlingen gibt es etliche nicht ganz ungefährliche Giftpilze. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/entoloma-clypeatum-schildrötling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/uromyces_ficariae_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
