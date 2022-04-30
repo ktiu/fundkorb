@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/melanoleuca_cognata_01_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+30.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Frühlings-Weichritterling *Melanoleuca cognata*, gerade an einem Waldwegrand im Raum Dietzenbach (Rhein-Main-Gebiet) gefunden wurde. Auch er ist ein typischer Frühjahrspilz, gehört aber zu einer Gattung, die den meisten Pilzsammlern nicht geläufig ist. Im Erscheinungsbild ähnelt er den Dachpilzen, wächst jedoch niemals an Holz. Als Speisepilz ist er durchaus zu empfehlen, vorausgesetzt, man hat ihn sicher erkannt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/melanoleuca-cognata-frühlings-weichritterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/entoloma_clypeatum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,30 +45,6 @@ footer_scripts:
 28.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Scharbockskraut-Rostpilz *Uromyces ficariae*. Er ist gekennzeichnet durch dunkelbraune, pulverige Sporenlager auf Blättern und Blattstielen von Scharbockskraut (*Ranunculus ficaria*). Man findet den Rostpilz vor allem von April bis Mai. Er gehört zu den Rostpilzarten, die keinen Wirtswechsel vollziehen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/uromyces-ficariae-rostpilz-an-scharbockskraut)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Voreilende Ackerling *Agrocybe praecox*. Sein Name (*"voreilend"*) besagt schon etwas über seine Erscheinungszeit. Er ist aber keineswegs nur ein typischer Frühjahrspilz. Man kann ihn durchaus bis in den Herbst hinein finden. Er bevorzugt offenes Gelände wie Parkanlagen oder Wegränder. Gilt als essbar, schmeckt aber etwas bitter. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agrocybe-praecox-voreilender-ackerling)
-
-<div style="clear: both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/psathyrella_multipedata_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelige Faserling *Psathyrella multipedata*. Ebenfalls am Dietzenbacher Wollwiesenteich gefunden, wo er seit Jahrzehnten einen Stammplatz zwischen dicht stehenden Kräutern am Wegrand hat. Solche Standorte sind nicht unbedingt sein bevorzugtes Revier. Er scheint eher Rasenflächen zu bevorzugen, sogar mitten in Großstädten, kann aber über Jahre oder Jahrzehnte ausbleiben. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/psathyrella-multipedata-büscheliger-faserling)
 
 <div style="clear:  both"></div>
 
