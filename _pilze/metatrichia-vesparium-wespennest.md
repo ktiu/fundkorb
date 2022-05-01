@@ -31,3 +31,5 @@ Im Reifezustand platzen die Sporocarpien auf und entlassen ein wolliges Gespinst
 {% include abbildung_ende.html %}
 
 Ähnliche Formen kann  ein *"Wollschopf"* genannter Verwandter (*Metatrichia floriformis*) bilden, der jedoch eher einzeln stehende Sporokarpien bildet.
+
+Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum Fundkorb-Beitrag Schleimpilze, der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
