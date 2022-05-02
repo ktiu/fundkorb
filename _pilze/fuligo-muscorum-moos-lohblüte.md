@@ -29,6 +29,6 @@ Um zumindest einen vorläufigen deutschen Namen anzugeben, habe ich mich für Mo
 
 Die [DGfM-Kartierung](http://hessen.pilze-deutschland.de/organismen/fuligo-muscorum-alb-schwein-1805) weist lediglich zwei Fundpunkte für Hessen auf (Stand: Juli 2021). So selten wird die Moos-Lohblüte wohl nicht sein. Ich selbst bin sicher, sie schon einige Male gesehen zu haben, bevor mir ihr Name bekannt geworden ist, und werde künftig verstärkt auf sie achten.
 
-Siehe auch: [Fuligo septica (Gelbe Lohblüte)](/pilze/fuligo-septica-gelbe-lohblüte)
+Weitere Lohblüte-Arten sind [Fuligo rufa](/pilze/fuligo-rufa-rötliche-lohblüte) und [Fuligo septica (Gelbe Lohblüte)](/pilze/fuligo-septica-gelbe-lohblüte).
 
 Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
