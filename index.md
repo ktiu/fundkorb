@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
+{% include abbildung_ende.html %}
+
+02.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Stadt-Champignon *Agaricus bitorquis.* Viele glauben, die Champignons seien eine Gruppe leicht kenntlicher Pilzarten. Weit gefehlt! Gerade die weißen, von denen es eine Vielzahl gibt, sind oft nur schwer zu bestimmen. Zwei Ausnahmen: Was wir in Supermarktregalen finden, sind zweifelsfrei [Zuchtchampignons (*Agaricus bisporus*)](/pilze/agaricus-bisporus-zucht-champignon). Was in Städten wächst und Asphaltdecken sprengen und Gehwegplatten hochstemmen kann, ist mit ziemlicher Sicherheit der Stadt-Champignon. Ihn erkennt man auch an seinem doppelten nach unten und oben abstehenden Stielring. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agaricus-bitorquis-stadt-champignon)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mollisia_cinerea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
