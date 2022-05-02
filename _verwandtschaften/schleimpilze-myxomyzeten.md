@@ -14,7 +14,6 @@ literatur:
       Bände)"
   - url: https://www.schleimpilz-liz.de/index.php
 ---
-
 Schleimpilze sind keine Pilze sondern Organismen, die Eigenschaften von Tieren und Pilzen in sich vereinen. In ihrem ersten Lebensstadium entstehen aus keimenden Sporen winzige amöbenartige Tiere, die nur einen Zellkern besitzen und sich nach sexueller Paarung zu vielzelligen Lebewesen entwickeln, die sich kriechend fortbewegen und fressen. In diesem Stadium, *[Plasmodium](Plasmodium "Glossar")* genannt, erreichen sie beachtliche Größen mit Millionen von Zellkernen und sind zu erstaunlichen Leistungen fähig. In Experimenten haben sie bewiesen, dass sie sogar in einem Labyrinth (sie können ja nicht über die Wände schauen!) auf direktem Weg die angebotene Nahrung finden. Sie ernähren sich von organischem Material (Pilzsporen, Bakterien, Pflanzenreste, winzige Lebewesen), das sie mit ihrem Schleimkörper umfließen und verdauen.
 
 {% include abbildung_start.html stil="standard" %}
@@ -46,7 +45,7 @@ Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das Video des US-amerik
 
 <https://www.spektrum.de/video/besitzen-schleimpilze-schwarmintelligenz/1592488>
 
-Bisher 16 Schleimpilzarten aus 10 Gattungen (4 Familien) im Fundkorb. Weitere werden folgen.
+Bisher 17 Schleimpilzarten aus 11 Gattungen (4 Familien) im Fundkorb. Weitere werden folgen.
 
 [](/pilze/diachaea-leucopodia-buckingham-schleimpilz)[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
 [Arcyria obvelata (Arcyriaceae) - Nickender Kelchschleimpilz](/pilze/arcyria-obvelata-arcyria-obvelata)\
@@ -58,6 +57,7 @@ Bisher 16 Schleimpilzarten aus 10 Gattungen (4 Familien) im Fundkorb. Weitere we
 [Fuligo septica (Physaraceae) - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
 [Lindbladia tubulina - (Enteridiaceae) Röhriger Schleimpilz](/pilze/lindbladia-tubulina-röhriger-schleimpilz)\
 [Lycogala epidendrum (Enteridiaceae) - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
+[Metatrichia vesparium (Trichiaceae) - Wespennest](/pilze/metatrichia-vesparium-wespennest)  
 [Physarum cinereum (Physaridae) - Grauer Gras-Schleimpilz](/pilze/physarum-cinereum-grauer-gras-schleimpilz)\
 [Physarum utriculare (Physaridae) - Fadenfrucht-Schleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
 [Reticularia lycoperdon (Enteridiaceae) - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
@@ -66,4 +66,3 @@ Bisher 16 Schleimpilzarten aus 10 Gattungen (4 Familien) im Fundkorb. Weitere we
 [Tubulifera arachnoides (Enteridiaceae) - Lachsfarbener Schleimpilz](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
 
 Übrigens... auf Standorttreue kann man bei Schleimpilzen nicht zählen!
-
