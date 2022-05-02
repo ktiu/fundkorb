@@ -18,7 +18,7 @@ literatur:
   - text: "Marion Geib: Myxomycezen: Kleiner Führer für Exkursionen"
   - url: https://www.schleimpilz-liz.de/index.php
 ---
-Dieser weltweit vorkommende und häufige [Myxomycet](Myxomyceten "Glossar") (lt. Index fungorum *Metatrichia vesparia*) wächst ganzjährig als dichtes maulbeerartiges Knäuel auf  morschem Totholz. Die einzelnen [Sporocarpien](Sporocarpien "Glossar") sind rundlich bis keulenförmig, kurz gestielt und messen etwa 0,2 bis 0,8 mm im Durchmesser. Ihre Außenhaut ist rötlich bis rotbräunlich oder schwärzlich gefärbt.
+Dieser weltweit vorkommende und häufige [Myxomyzet](Myxomyzeten "Glossar") (lt. Index fungorum *Metatrichia vesparia*) wächst ganzjährig als dichtes maulbeerartiges Knäuel auf  morschem Totholz. Die einzelnen [Sporocarpien](Sporocarpien "Glossar") sind rundlich bis keulenförmig, kurz gestielt und messen etwa 0,2 bis 0,8 mm im Durchmesser. Ihre Außenhaut ist rötlich bis rotbräunlich oder schwärzlich gefärbt.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/metatrichia_vesparium_02_dg.jpg" %}
