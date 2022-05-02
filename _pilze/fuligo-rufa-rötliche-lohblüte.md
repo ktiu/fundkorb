@@ -24,4 +24,6 @@ Die Gattung besteht zur Zeit aus 9 Arten, die alle unregelmäßig gestaltete kis
 
 Die Rötliche Lohblüte ist sehr viel seltener als die weltweit verbreitete Gelbe Lohblüte und besiedelt vor allem Totholz oder Rindenmulch. Meinen persönlichen Erstfund hatte ich auf dem Weg zum Einkaufen an der Sanddüne in Heusenstamm auf einem älteren entrindeten Baumstammm.
 
+Weitere Lohblüten-Arten sind [Fuligo muscorum](/pilze/fuligo-muscorum-moos-lohblüte) und [Fuligo septica](/pilze/fuligo-septica-gelbe-lohblüte).
+
 Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
