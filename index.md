@@ -15,6 +15,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/metatrichia_vesparium_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein *"Wespennest"* genannter Schleimpilz (*Metatrichia vesparium*). Sobald dieser seine Sporen entlassen hat, bleibt ein skelettartiges Gebilde zurück, das tatsächlich Wespennestern gleicht. Schleimpilze (*Myxomyceten*) gehören zu den faszinierendsten Lebensformen überhaupt, von deren Existenz nur die Wenigsten wissen. Es lohnt sich durchaus, [mehr über sie zu erfahren >](/pilze/metatrichia-vesparium-wespennest)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,30 +43,6 @@ footer_scripts:
 01.05.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder einer, den man mit der Lupe suchen muss. Und zwar an Unterseiten von vermoderndem feuchtem Totholz. Daran ist das häufige Aschgraue Weichbecherchen *Mollisia cinerea* zu finden, das maximal 2 mm groß werden kann und stiellos auf seinem Substrat sitzt, meist in dichtgedrängten Rasen. Da es zahlreiche ebenfalls graue Becherchen in dieser und in verwandten Gattungen gibt, ist die sichere Bestimmung nicht einfach. Ohne Mikroskop geht da nur wenig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/melanoleuca_cognata_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-30.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Frühlings-Weichritterling *Melanoleuca cognata*, gerade an einem Waldwegrand im Raum Dietzenbach (Rhein-Main-Gebiet) gefunden wurde. Auch er ist ein typischer Frühjahrspilz, gehört aber zu einer Gattung, die den meisten Pilzsammlern nicht geläufig ist. Im Erscheinungsbild ähnelt er den Dachpilzen, wächst jedoch niemals an Holz. Als Speisepilz ist er durchaus zu empfehlen, vorausgesetzt, man hat ihn sicher erkannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/melanoleuca-cognata-frühlings-weichritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/entoloma_clypeatum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.04.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schildrötling *Entoloma clypeatum*. Diese schon früh im Jahr erscheinde Art gehört zu den ersten küchentauglichen Blätterpilzen, kann allerdings nur erfahrenen Pilzsammlern zum Verzehr empfohlen werden. Unter den Rötlingen gibt es etliche nicht ganz ungefährliche Giftpilze. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/entoloma-clypeatum-schildrötling)
 
 <div style="clear:  both"></div>
 
