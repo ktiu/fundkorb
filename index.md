@@ -14,11 +14,21 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/laetiporus_sulphureus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der weltweit vorkommende Schwefelporling *Laetiporus sulphureus*. Da er lebende Laubbäume befallen kann, muss er als Schadpilz eingestuft werden, hält an abgestorbenem Holz aber noch jahrelang aus. Ich konnte das über einen längeren Zeitraum an einem Kirschbaum beobachten, der selbst im Endstadium noch massenhaft Früchte trug. Der aktuelle Fund stammt aus Frankfurt von einer am Mainufer stehenden Weide. Unter Kennern gilt der Schwefelporling als hervorragender Speisepilz, der so gar nicht wie die üblichen Pilzarten schmeckt. Daher wird er im englischen Sprachraum auch *"Chicken of the woods"* genannt. Nicht ausreichend erhitzt kann er erhebliche Magen-/Darmstörungen verursachen. (Adam Adamowicz)
+
+[Mehr lesen >](/pilze/laetiporus-sulphureus-schwefelporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bolbitius_titubans_01_dg.jpg" %}
 {% include abbildung_ende.html %}
-
-
 
 04.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldmistpilz *Bolbitius titubans*. Er wächst auf Rinder- und Pferdemist, auf Äckern, Wiesen und Weiden. An der goldgelben Farbe und im Jugendstadium charakteristischen Hutform sind die bildhübschen und häufigen Pilzchen leicht zu erkennen. Nur selten erscheinen sie allein, meist treten sie zu wenigen gesellig auf. (Dieter Gewalt)
 
