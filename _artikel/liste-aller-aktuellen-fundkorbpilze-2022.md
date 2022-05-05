@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-04.05.2022: [Bolbitius titubans - Goldmistpilz](/pilze/bolbitius-titubans-goldmistpilz)  
+05.05.2022: [Laetiporus sulphureus - Schwefelporling](/pilze/laetiporus-sulphureus-schwefelporling)  
+04.05.2022: [Bolbitius titubans - Goldmistpilz](/pilze/bolbitius-titubans-goldmistpilz)\
 03.05.2022: [Metatrichia vesparium - Wespennest](/pilze/metatrichia-vesparium-wespennest)\
 02.05.2022: [Agaricus bitorquis - Stadt-Champignon](/pilze/agaricus-bitorquis-stadt-champignon)\
 01.05.2022: [Mollisia cinerea - Aschgraues Weichbecherchen](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)
