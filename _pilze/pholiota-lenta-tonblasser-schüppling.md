@@ -17,7 +17,7 @@ literatur:
 ---
 Der Gattungsname *"Schüppling"* scheint auf diese Art nicht so recht zu passen, da seine vor allem bei feuchtem Wetter dicke Schleimschicht auffälliger ist als die wenigen hellen, dazu noch vergänglichen Schüppchen, die darin schwimmen. Dies sind jedoch zusammen mit der fleisch- bis tonbräunlichen Huthaut charakteristische Merkmale, an denen der Pilz gut erkennbar ist. Er wächst meist erst spät im Jahr, etwa von September bis Dezember, an toten Laubholzästen, überwiegend an Buche.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pholiota_lenta_02_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/pholiota_lenta_03_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
