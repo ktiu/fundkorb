@@ -40,4 +40,4 @@ Die von *Frank Kaster* fotografierten Sporen (Mikrofoto) waren 8- 11 x 6,5 -9 µ
 {% include bild.html datei="/bilder/entoloma_clypeatum_07_dg.jpg" %}
 {% include abbildung_ende.html legende="Guajak-Reaktion beim Schildrötling: rotbräunlich" %}
 
-Im Gegensatz zu dem ebenfalls im Frühjahr erscheinenden, meist deutlich schmächtigeren und geruchsneutralen Frühlingsrötling *[Entoloma vernum](/pilze/entoloma-vernum-frühlings-rötling)* riecht der Schildrötling nach Mehl oder Gurken. Im Zweifelsfall ist der Geruch durch Zerquetschen eines Hutes deutlich zu machen, was übrigens auch für den Schlehenrötling gilt.
+Im Gegensatz zum ebenfalls im Frühjahr erscheinenden, meist deutlich schmächtigeren und geruchsneutralen Frühlingsrötling *[Entoloma vernum](/pilze/entoloma-vernum-frühlings-rötling)* riecht der Schildrötling nach Mehl oder Gurken. Im Zweifelsfall ist der Geruch durch Zerquetschen eines Hutes deutlich zu machen, was übrigens auch für den Schlehenrötling gilt.
