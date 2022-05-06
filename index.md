@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/kuehneromyces_mutabilis_06_gg.jpg" %}
 {% include abbildung_ende.html %}
 
-06.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Stockschwämmchen *Kuehneromyces mutabilis,* bei vielen Pilzfreunden ein beliebter Speisepilz. Doch Achtung! Trotz seines hohen kulinarischen Wertes ist das Ernten nur erfahrenen Sammlern zu empfehlen. Verwechslungen mit ähnlichen *[Gifthäublingen](/pilze/galerina-marginata-gifthäubling)*, die mitunter am selben Holz zusammen mit Stockschwämmchen vorkommen, können tödlich enden!  Sie enthalten die gleichen Giftstoffe wie der Grüne Knollenblätterpilz. (Adam Adamowics)
+06.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Stockschwämmchen *Kuehneromyces mutabilis,* bei vielen Pilzfreunden ein beliebter Speisepilz. Doch Achtung! Trotz seines hohen kulinarischen Wertes ist das Ernten nur erfahrenen Sammlern zu empfehlen. Verwechslungen mit ähnlichen *[Gifthäublingen](/pilze/galerina-marginata-gifthäubling)*, die mitunter am selben Holz zusammen mit Stockschwämmchen vorkommen, können tödlich enden!  Sie enthalten die gleichen Giftstoffe wie der Grüne Knollenblätterpilz. (Adam Adamowicz)
 
 [Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
 
