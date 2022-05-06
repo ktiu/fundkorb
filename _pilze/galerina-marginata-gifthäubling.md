@@ -23,7 +23,7 @@ Als *Nadelholzhäubling* war er kaum jemandem bekannt. Erst als man entdeckte, d
 
 Die Gefahr erhöht sich noch dramatisch, weil Galerina marginata nicht der einzige tödlich giftige Häubling ist. Von einigen dieser Arten wurden sogar Massenvorkommen auf Holzhäcksel- und Rindenmulchflächen beobachtet. In der Frankfurter Pilzberatung konnte möglicherweise eine Vergiftung durch eine giftige Galerina-Art verhindert werden. Zwei Pilzsammlerinnen hatten einen ganzen Korb voller vermeintlicher Stockschwämmchen in die Sprechstunde mitgebracht, die sich als Gifthäublinge (*Galerina sp.*) herausstellten.
 
-Der Gifthäubling wächst sowohl im Nadel- wie im Laubwald, nicht selten zusammen mit Stockschwämmchen am gleichen Totholz. Die Haupterscheinungszeit ist September bis Dezember.
+Der Gifthäubling wächst sowohl im Nadel- wie im Laubwald, nicht selten zusammen mit Stockschwämmchen am gleichen Totholz. Die Haupterscheinungszeit ist September bis Dezember. Meine Beobachtung: je später im Jahr, desto häufiger wird er.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/galerina_marginata_02_nk.jpg" nocrop=true %}
