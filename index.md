@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/kuehneromyces_mutabilis_06_gg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Stockschwämmchen *Kuehneromyces mutabilis,* bei vielen Pilzfreunden ein beliebter Speisepilz. Doch Achtung! Trotz seines hohen kulinarischen Wertes ist das Ernten nur erfahrenen Sammlern zu empfehlen. Verwechslungen mit ähnlichen *[Gifthäublingen](/pilze/galerina-marginata-gifthäubling)*, die mitunter am selben Holz zusammen mit Stockschwämmchen vorkommen, können tödlich enden!  Sie enthalten die gleichen Giftstoffe wie der Grüne Knollenblätterpilz. (Adam Adamowics)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/laetiporus_sulphureus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,28 +45,6 @@ footer_scripts:
 04.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldmistpilz *Bolbitius titubans*. Er wächst auf Rinder- und Pferdemist, auf Äckern, Wiesen und Weiden. An der goldgelben Farbe und im Jugendstadium charakteristischen Hutform sind die bildhübschen und häufigen Pilzchen leicht zu erkennen. Nur selten erscheinen sie allein, meist treten sie zu wenigen gesellig auf. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/bolbitius-titubans-goldmistpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/metatrichia_vesparium_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein *"Wespennest"* genannter Schleimpilz (*Metatrichia vesparium*). Sobald dieser seine Sporen entlassen hat, bleibt ein skelettartiges Gebilde zurück, das tatsächlich Wespennestern gleicht. Schleimpilze (*Myxomyceten*) gehören zu den faszinierendsten Lebensformen überhaupt, von deren Existenz nur die Wenigsten wissen. Es lohnt sich durchaus, [mehr über sie zu erfahren >](/pilze/metatrichia-vesparium-wespennest)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
-{% include abbildung_ende.html %}
-
-02.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Stadt-Champignon *Agaricus bitorquis.* Viele glauben, die Champignons seien eine Gruppe leicht kenntlicher Pilzarten. Weit gefehlt! Gerade die weißen, von denen es eine Vielzahl gibt, sind oft nur schwer zu bestimmen. Zwei Ausnahmen: Was wir in Supermarktregalen finden, sind zweifelsfrei [Zuchtchampignons (*Agaricus bisporus*)](/pilze/agaricus-bisporus-zucht-champignon). Was in Städten wächst und Asphaltdecken sprengen und Gehwegplatten hochstemmen kann, ist mit ziemlicher Sicherheit der Stadt-Champignon. Ihn erkennt man auch an seinem doppelten nach unten und oben abstehenden Stielring. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agaricus-bitorquis-stadt-champignon)
 
 <div style="clear:  both"></div>
 
