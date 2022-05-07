@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/taphrina_pruni_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist eine verkümmerte und gekrümmte kleine Pflaume, die ich von einem Blutpflaumenbaum direkt vor unserer Haustür gepflückt habe. Derart deformierte Früchte, die niemand mehr essen möchte, nennt man Narrentaschen. Verunstaltet wurde sie von einem Pilz, den man Pflaumen-Narrentasche (*Taphrina pruni*) nennt. Andere Pilze dieser Gattung verursachen Kräuselkrankheiten an Blättern oder Hexenbesen an Birken ohne eigene Fruchtkörper zu bilden. Eine verrückte Welt, dieses Reich der Pilze! (Dieter Gewalt)
+
+ [Mehr lesen >](/pilze/taphrina-pruni-pflaumen-narrentasche)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/kuehneromyces_mutabilis_06_gg.jpg" %}
 {% include abbildung_ende.html %}
 
