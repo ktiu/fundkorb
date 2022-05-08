@@ -11,6 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/bolbitius_coprophilus_01_dg.jpg
+  legende: "Abbildung nach einem Dia von Dieter Gewalt "
 literatur:
   - url: http://tintling.com/pilzbuch/arten/b/Bolbitius_coprophilus.html
 published: true
