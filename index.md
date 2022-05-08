@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pholiota_aurivella_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der relativ häufige in Laubwäldern verbreitete Goldfellschüppling *Pholiota aurivella*. Man findet ihn oft an Waldwegrändern an gestapelten Buchenstämmen oder hoch oben an stehenden Bäumen, wo sie dem Spaziergänger oft schon von Weitem büschelweise entgegenleuchten. Seine vor allem bei feuchtem Wetter sehr schleimigen Hüte machen ihn für Pilzsammler unattraktiv, er soll diversen Beurteilungen zufolge aber gar nicht so übel schmecken. (Adam Adamowicz)
+
+[Mehr lesen >](/pilze/pholiota-aurivella-goldfellschüppling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/taphrina_pruni_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,30 +45,6 @@ footer_scripts:
 06.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Stockschwämmchen *Kuehneromyces mutabilis,* bei vielen Pilzfreunden ein beliebter Speisepilz. Doch Achtung! Trotz seines hohen kulinarischen Wertes ist das Ernten nur erfahrenen Sammlern zu empfehlen. Verwechslungen mit ähnlichen *[Gifthäublingen](/pilze/galerina-marginata-gifthäubling)*, die mitunter am selben Holz zusammen mit Stockschwämmchen vorkommen, können tödlich enden!  Sie enthalten die gleichen Giftstoffe wie der Grüne Knollenblätterpilz. (Adam Adamowicz)
 
 [Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/laetiporus_sulphureus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der weltweit vorkommende Schwefelporling *Laetiporus sulphureus*. Da er lebende Laubbäume befallen kann, muss er als Schadpilz eingestuft werden, hält an abgestorbenem Holz aber noch jahrelang aus. Ich konnte das über einen längeren Zeitraum an einem Kirschbaum beobachten, der selbst im Endstadium noch massenhaft Früchte trug. Der aktuelle Fund stammt aus Frankfurt von einer am Mainufer stehenden Weide. Unter Kennern gilt der Schwefelporling als hervorragender Speisepilz, der so gar nicht wie die üblichen Pilzarten schmeckt. Daher wird er im englischen Sprachraum auch *"Chicken of the woods"* genannt. Nicht ausreichend erhitzt kann er erhebliche Magen-/Darmstörungen verursachen. (Adam Adamowicz)
-
-[Mehr lesen >](/pilze/laetiporus-sulphureus-schwefelporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bolbitius_titubans_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldmistpilz *Bolbitius titubans*. Er wächst auf Rinder- und Pferdemist, auf Äckern, Wiesen und Weiden. An der goldgelben Farbe und im Jugendstadium charakteristischen Hutform sind die bildhübschen und häufigen Pilzchen leicht zu erkennen. Nur selten erscheinen sie allein, meist treten sie zu wenigen gesellig auf. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/bolbitius-titubans-goldmistpilz)
 
 <div style="clear:  both"></div>
 
