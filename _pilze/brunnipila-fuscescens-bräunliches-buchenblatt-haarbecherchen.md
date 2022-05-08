@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: https://asco-sonneberg.de/pages/gallery/brunnipila-fuscescens-110611-01xs22121.php
 ---
-Auf vermodernden oder feucht liegenden vorjährigen Buchenblättern ist dieser winzige [Ascomyzet](Ascomyzet "Glossar") keine Seltenheit. Die 0,2 - 0,8 mm großen [Apothezien](Apothezien "Glossar") erscheinen meist konzentriert um die Mittelrippe herum. Sie sind kurz gestielt und an der Außenseite bis zum Becherrand dicht mit hellbraunen Haaren besetzt. Die innere Fruchtschicht ist weiß bis hellocker und glatt. Bei Trockenheit verschließen sich die Becherchen. Wegen ihrer Winzigkeit werden sie leicht übersehen und ihre Struktir ist nur mit einer stark vergrößernden Lupe zu erkennen. Auf jeden Fall sollte man bei gezielter Suche auch auf die Blattunterseite schauen. Auch Vorkommen auf Bucheckernschalen werden berichtet.
+Auf vermodernden oder feucht liegenden vorjährigen Buchenblättern ist dieser winzige [Ascomyzet](Ascomyzet "Glossar") keine Seltenheit. Die 0,2 - 0,8 mm großen [Apothezien](Apothezien "Glossar") erscheinen meist konzentriert um die Mittelrippe herum. Sie sind kurz gestielt und an der Außenseite bis zum Becherrand dicht mit hellbraunen Haaren besetzt. Die innere Fruchtschicht ist weiß bis hellocker und glatt. Bei Trockenheit verschließen sich die Becherchen. Wegen ihrer Winzigkeit werden sie leicht übersehen und ihre Struktur ist nur mit einer stark vergrößernden Lupe zu erkennen. Auf jeden Fall sollte man bei gezielter Suche auch auf die Blattunterseite schauen. Auch Vorkommen auf Bucheckernschalen werden berichtet.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/brunnipila_fuscescens_02_dg.jpg" %}
