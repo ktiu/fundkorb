@@ -21,6 +21,6 @@ Auf vermodernden oder feucht liegenden vorjährigen Buchenblättern ist dieser w
 {% include bild.html datei="/bilder/brunnipila_fuscescens_02_dg.jpg" %}
 {% include abbildung_ende.html legende="Die Winzigkeit der Becherchen lässt sich ermessen, wenn man die beachtliche Vergrößerung des Buchenblattes bedenkt. Der Abstand zwischen den abzweigenden Blattadern beträgt real 0,8 cm" %}
 
-Über die Häufigkeit von *Brunnipila fuscescensdes* Pilzes hat *Ingo Wagner* (ASCO Sonneberg) einmal angemerkt:
+Über die Häufigkeit von *Brunnipila fuscescens* hat *Ingo Wagner* (ASCO Sonneberg) einmal angemerkt:
 
 > In Sonneberg sehr häufige Art. In manchen Jahren ist es eine Kunst, ein Buchenblatt zu finden, das die Art nicht besiedelt."
