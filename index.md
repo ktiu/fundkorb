@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/paxillus_involutus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kahle Krempling *Paxillus involutus*. Auch der ist eigentlich ein klassischer Herbstpilz, aber in diesem Jahr schon ungewöhnlich früh erschienen. Es handelt sich um eine auf ziemlich komplizierte Weise potentiell aber keineswegs obligatorisch tödlich giftige Art, die jeder Pilzsammler kennen und meiden sollte. Ihn sicher kennenzulernen ist kein Problem. Er gehört zu den häufigsten Pilzarten überhaupt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pholiota_aurivella_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 07.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist eine verkümmerte und gekrümmte kleine Pflaume, die ich von einem Blutpflaumenbaum direkt vor unserer Haustür gepflückt habe. Derart deformierte Früchte, die niemand mehr essen möchte, nennt man Narrentaschen. Verunstaltet wurde sie von einem Pilz, den man Pflaumen-Narrentasche (*Taphrina pruni*) nennt. Andere Pilze dieser Gattung verursachen Kräuselkrankheiten an Blättern oder Hexenbesen an Birken ohne eigene Fruchtkörper zu bilden. Eine verrückte Welt, dieses Reich der Pilze! (Dieter Gewalt)
 
  [Mehr lesen >](/pilze/taphrina-pruni-pflaumen-narrentasche)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/kuehneromyces_mutabilis_06_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Stockschwämmchen *Kuehneromyces mutabilis,* bei vielen Pilzfreunden ein beliebter Speisepilz. Doch Achtung! Trotz seines hohen kulinarischen Wertes ist das Ernten nur erfahrenen Sammlern zu empfehlen. Verwechslungen mit ähnlichen *[Gifthäublingen](/pilze/galerina-marginata-gifthäubling)*, die mitunter am selben Holz zusammen mit Stockschwämmchen vorkommen, können tödlich enden!  Sie enthalten die gleichen Giftstoffe wie der Grüne Knollenblätterpilz. (Adam Adamowicz)
-
-[Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
 
 <div style="clear:  both"></div>
 
