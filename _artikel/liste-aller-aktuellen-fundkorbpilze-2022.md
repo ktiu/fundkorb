@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-08.05.2022: [Pholiota aurivella - Goldfellschüppling](/pilze/pholiota-aurivella-goldfellschüppling)  
+09.05.2022: [Paxillus involutus - Kahler Krempling](/pilze/paxillus-involutus-kahler-krempling)  
+08.05.2022: [Pholiota aurivella - Goldfellschüppling](/pilze/pholiota-aurivella-goldfellschüppling)\
 07.05.2022: [Taphrina pruni - Pflaumen-Narrentasche](/pilze/taphrina-pruni-pflaumen-narrentasche)\
 06.05.2022: [Kuehneromyces mutabilis - Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen)\
 05.05.2022: [Laetiporus sulphureus - Schwefelporling](/pilze/laetiporus-sulphureus-schwefelporling)\
