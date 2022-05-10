@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cyathicula_cyathoidea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pokalförmige Stängelbecherling *Cyathicula cyathoidea*. Um den zu finden, muss man vetrocknete vorjährige Brennnesselstängel mit der Lupe absuchen. Er kommt aber auch an anderen Pflanzen wie Doldenblütlern, Him- oder Brombeeren vor, um nur einige zu nennen. Die gestielten Becherchen erreichen Durchmsesser von 0,5 bis 1,5 mm. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/paxillus_involutus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 08.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der relativ häufige in Laubwäldern verbreitete Goldfellschüppling *Pholiota aurivella*. Man findet ihn oft an Waldwegrändern an gestapelten Buchenstämmen oder hoch oben an stehenden Bäumen, wo sie dem Spaziergänger oft schon von Weitem büschelweise entgegenleuchten. Seine vor allem bei feuchtem Wetter sehr schleimigen Hüte machen ihn für Pilzsammler unattraktiv, er soll diversen Beurteilungen zufolge aber gar nicht so übel schmecken. (Adam Adamowicz)
 
 [Mehr lesen >](/pilze/pholiota-aurivella-goldfellschüppling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/taphrina_pruni_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist eine verkümmerte und gekrümmte kleine Pflaume, die ich von einem Blutpflaumenbaum direkt vor unserer Haustür gepflückt habe. Derart deformierte Früchte, die niemand mehr essen möchte, nennt man Narrentaschen. Verunstaltet wurde sie von einem Pilz, den man Pflaumen-Narrentasche (*Taphrina pruni*) nennt. Andere Pilze dieser Gattung verursachen Kräuselkrankheiten an Blättern oder Hexenbesen an Birken ohne eigene Fruchtkörper zu bilden. Eine verrückte Welt, dieses Reich der Pilze! (Dieter Gewalt)
-
- [Mehr lesen >](/pilze/taphrina-pruni-pflaumen-narrentasche)
 
 <div style="clear:  both"></div>
 
