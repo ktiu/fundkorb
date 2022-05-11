@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/inocybe_geophylla_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Seidige Risspilz *Inocybe geophylla*. In dieser artenreichen und recht schwierigen Gattung gehört er wegen seiner Form und der weißen Farbe  zu den leicht kenntlichen Arten. Eigentlich sieht er gar nicht wie ein typischer Risspilz aus, aber man muss ihn nur an die Nase halten, um ihn als Vertreter seiner Gattung zu verdächtigen. Er hat wie die meisten anderen Risspilze einen deutlich spermatischen Geruch. Sein aktuelles Vorkommen in einer Dietzenbacher Parkanlage darf man durchaus als *"frühzeitig"* bezeichnen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/inocybe-geophylla-seidiger-risspilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cyathicula_cyathoidea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 09.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kahle Krempling *Paxillus involutus*. Auch der ist eigentlich ein klassischer Herbstpilz, aber in diesem Jahr schon ungewöhnlich früh erschienen. Es handelt sich um eine auf ziemlich komplizierte Weise potentiell aber keineswegs obligatorisch tödlich giftige Art, die jeder Pilzsammler kennen und meiden sollte. Ihn sicher kennenzulernen ist kein Problem. Er gehört zu den häufigsten Pilzarten überhaupt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pholiota_aurivella_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der relativ häufige in Laubwäldern verbreitete Goldfellschüppling *Pholiota aurivella*. Man findet ihn oft an Waldwegrändern an gestapelten Buchenstämmen oder hoch oben an stehenden Bäumen, wo sie dem Spaziergänger oft schon von Weitem büschelweise entgegenleuchten. Seine vor allem bei feuchtem Wetter sehr schleimigen Hüte machen ihn für Pilzsammler unattraktiv, er soll diversen Beurteilungen zufolge aber gar nicht so übel schmecken. (Adam Adamowicz)
-
-[Mehr lesen >](/pilze/pholiota-aurivella-goldfellschüppling)
 
 <div style="clear:  both"></div>
 
