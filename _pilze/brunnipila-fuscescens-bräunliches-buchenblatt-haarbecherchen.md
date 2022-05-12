@@ -30,7 +30,7 @@ Größe, Form, Substrat und Häufigkeit sind in dieser Kombination ein Indiz fü
 
 **Mikromerkmale** (nach Jürgen Marqua, Pilzflora Ehingen):
 
-**Sporen**: spindelförmig, langellipsoid bis fast zylindrisch, hyalin, glatt;1-7,9-9,7 x 1,4-1,8-2,3 µm;  
-**Asci**: keulig - zylindrisch, 8-sporig, mit Haken, J+ (blau), 49-50 x 4-5 µm  
+**Sporen**: spindelförmig, langellipsoid bis fast zylindrisch, hyalin, glatt; 1 - <ins>7,9</ins> - 9,7 x 1,4 - <ins>1,8</ins> - 2,3 µm;  
+**Asci**: keulig - zylindrisch, 8-sporig, mit Haken, J  (blau), 49 -50  x 4 - 5 µm  
 **Paraphysen**: die Asci überragend, septiert, hyalin, lanzett-förmig, apikal zugespitzt, inamyloid  
 **Randhaare**: relativ dickwandig mit rauhem Ornament, septiert, zylindrisch, apikal etwas kopfig, Apikalzelle hyalin mit Kristallauflagerung
