@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-11.05.2022: [Inocybe geophylla - Seidiger Risspilz](/pilze/inocybe-geophylla-seidiger-risspilz)  
+12.05.2022: [Brunnipila fuscescens - Bräunliches Buchenblatt-Haarbecherchen](/pilze/brunnipila-fuscescens-bräunliches-buchenblatt-haarbecherchen)  
+11.05.2022: [Inocybe geophylla - Seidiger Risspilz](/pilze/inocybe-geophylla-seidiger-risspilz)\
 10.05.2022: [Cyathicula cyathoidea - Pokalförmiger Stängelbecherling](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)\
 09.05.2022: [Paxillus involutus - Kahler Krempling](/pilze/paxillus-involutus-kahler-krempling)\
 08.05.2022: [Pholiota aurivella - Goldfellschüppling](/pilze/pholiota-aurivella-goldfellschüppling)\
