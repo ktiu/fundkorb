@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/brunnipila_fuscescens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-12.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Bräunliche Buchenblatt-Haarbecherchen Brunnipila fuscescens. Die abgebildeten [Apothezien](Apothezien "Glossar") hatten Durchmesser von unter 0,5 mm. Hier sind Größe, Form, Substrat und Häufigkeit ein Indiz für die Richtigkeit der Bestimmung. Ein Indiz, aber auch nicht mehr. Um wirklich sicher zu gehen, sollte mikroskopiert werden. (Dieter Gewalt)
+12.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Bräunliche Buchenblatt-Haarbecherchen Brunnipila fuscescens. Die abgebildeten [Apothecien](Apothecien "Glossar") hatten Durchmesser von unter 0,5 mm. Hier sind Größe, Form, Substrat und Häufigkeit ein Indiz für die Richtigkeit der Bestimmung. Ein Indiz, aber auch nicht mehr. Um wirklich sicher zu gehen, sollte mikroskopiert werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/brunnipila-fuscescens-bräunliches-buchenblatt-haarbecherchen)
 
