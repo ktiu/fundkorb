@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/psathyrella_candolleana_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Behangene Faserling Psathyrella candolleana. Bei Kennern ein beliebter Suppenpilz, der schon früh im Jahr erscheint und bis in den Spätherbst zu finden ist. Er wächst stets an Holz, auch an vergrabenem, was ein Vorkommen auf Erde vortäuschen kann. Am einzelnen Pilz ist nicht viel dran, aber sein meist geselliges Erscheinen lohnt das Einsammeln. Aber bitte nur, wenn man sich seiner Sache wirklich sicher ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/psathyrella-candolleana-behangener-faserling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/brunnipila_fuscescens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,30 +45,6 @@ footer_scripts:
 11.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Seidige Risspilz *Inocybe geophylla*. In dieser artenreichen und recht schwierigen Gattung gehört er wegen seiner Form und der weißen Farbe  zu den leicht kenntlichen Arten. Eigentlich sieht er gar nicht wie ein typischer Risspilz aus, aber man muss ihn nur an die Nase halten, um ihn als Vertreter seiner Gattung zu verdächtigen. Er hat wie die meisten anderen Risspilze einen deutlich spermatischen Geruch. Sein aktuelles Vorkommen in einer Dietzenbacher Parkanlage darf man durchaus als *"frühzeitig"* bezeichnen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/inocybe-geophylla-seidiger-risspilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cyathicula_cyathoidea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pokalförmige Stängelbecherling *Cyathicula cyathoidea*. Um den zu finden, muss man vetrocknete vorjährige Brennnesselstängel mit der Lupe absuchen. Er kommt aber auch an anderen Pflanzen wie Doldenblütlern, Him- oder Brombeeren vor, um nur einige zu nennen. Die gestielten Becherchen erreichen Durchmsesser von 0,5 bis 1,5 mm. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/paxillus_involutus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kahle Krempling *Paxillus involutus*. Auch der ist eigentlich ein klassischer Herbstpilz, aber in diesem Jahr schon ungewöhnlich früh erschienen. Es handelt sich um eine auf ziemlich komplizierte Weise potentiell aber keineswegs obligatorisch tödlich giftige Art, die jeder Pilzsammler kennen und meiden sollte. Ihn sicher kennenzulernen ist kein Problem. Er gehört zu den häufigsten Pilzarten überhaupt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
 
 <div style="clear:  both"></div>
 
