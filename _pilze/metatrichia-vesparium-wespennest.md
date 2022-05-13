@@ -12,6 +12,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/metatrichia_vesparium_01_dg.jpg
+  legende: Alle Fotos dieser Seite von Norbert Kühnberger
 literatur:
   - text: "Hermann Neubert, Wolfgang Nowotny, Karlheinz Baumann: Die Myxomyceten (3
       Bände)"
