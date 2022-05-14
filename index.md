@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bulbillomyces_farinosus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.05.2022: Rindenpilze sind, was ihre Bestimmung betrifft, keine einfachen Objekte. Ganz anders der Körnchen-Rindenpilz *Bulbillomyces farinosus*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Der ist unverwechselbar. Was sich dem bloßen Auge als körniger weißer Belag auf nass liegendem Holz darbietet, ist mit der Lupe betrachtetet eine großflächige Ansammlung winziger Kügelchen, die sich abhängig vom Entwicklungsstadium in ihrer Größe unterscheiden. Dieser bemerkenswerte Pilz gilt als selten, ist aber bei gezielter Suche an Gewässerrändern immer mal wieder zu entdecken. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/bulbillomyces-farinosus-körnchen-rindenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/psathyrella_candolleana_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
