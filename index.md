@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/megacollybia_platyphylla_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Breitblättrige Holzrübling *Megacollybia platyphylla*, kurz Breitblatt genannt. Zwei Exemplare bei unserer Exkursion im Frankfurter Stadtwald gefunden. Diese sehr häufige Art wächst stets in Verbindung zu Holz. Um das nachzuprüfen, braucht man nur die [Myzelstränge](Myzel "Glossar") von der Stielbasis bis zu ihrem Ursprung zu verfolgen. Man könnte die Art kurz und treffend als *"Pilz wie Haut und Knochen"* beschreiben. Die Lamellen hängen praktisch direkt an der Huthaut. Seine Speisepilzqualität wird meist als sehr mäßig beurteilt und es wird sogar von Unverträglichkeiten berichtet. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bulbillomyces_farinosus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -33,30 +45,6 @@ footer_scripts:
 13.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Behangene Faserling Psathyrella candolleana. Bei Kennern ein beliebter Suppenpilz, der schon früh im Jahr erscheint und bis in den Spätherbst zu finden ist. Er wächst stets an Holz, auch an vergrabenem, was ein Vorkommen auf Erde vortäuschen kann. Am einzelnen Pilz ist nicht viel dran, aber sein meist geselliges Erscheinen lohnt das Einsammeln. Aber bitte nur, wenn man sich seiner Sache wirklich sicher ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/psathyrella-candolleana-behangener-faserling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/brunnipila_fuscescens_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Bräunliche Buchenblatt-Haarbecherchen Brunnipila fuscescens. Die abgebildeten [Apothecien](Apothecien "Glossar") hatten Durchmesser von unter 0,5 mm. Hier sind Größe, Form, Substrat und Häufigkeit ein Indiz für die Richtigkeit der Bestimmung. Ein Indiz, aber auch nicht mehr. Um wirklich sicher zu gehen, sollte mikroskopiert werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/brunnipila-fuscescens-bräunliches-buchenblatt-haarbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/inocybe_geophylla_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Seidige Risspilz *Inocybe geophylla*. In dieser artenreichen und recht schwierigen Gattung gehört er wegen seiner Form und der weißen Farbe  zu den leicht kenntlichen Arten. Eigentlich sieht er gar nicht wie ein typischer Risspilz aus, aber man muss ihn nur an die Nase halten, um ihn als Vertreter seiner Gattung zu verdächtigen. Er hat wie die meisten anderen Risspilze einen deutlich spermatischen Geruch. Sein aktuelles Vorkommen in einer Dietzenbacher Parkanlage darf man durchaus als *"frühzeitig"* bezeichnen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/inocybe-geophylla-seidiger-risspilz)
 
 <div style="clear:  both"></div>
 
