@@ -9,6 +9,7 @@ footer_scripts:
   - assets/js/addFormValidation.js
 ---
 Die zur Zeit durch den Klimawandel verursachte extreme Trockenheit schränkt das Wachstum von Pilzen so stark ein, dass es wenig Sinn macht, pilzkundliche Exkursionen anzubieten. Bei besseren Bedingungen wird es weitere Termine geben.
+
 .
 
 {% include terminliste.md %}
