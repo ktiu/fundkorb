@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-14.05.2022: [Bulbillomyces farinosus - Körnchen-Rindenpilz](/pilze/bulbillomyces-farinosus-körnchen-rindenpilz)  
+15.05.2022: [Megacollybia platyphylla - Breitblättriger Holzrübling](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)  
+14.05.2022: [Bulbillomyces farinosus - Körnchen-Rindenpilz](/pilze/bulbillomyces-farinosus-körnchen-rindenpilz)\
 13.05.2022: [Psathyrella candolleana - Behangener Faserling](/pilze/psathyrella-candolleana-behangener-faserling)\
 12.05.2022: [Brunnipila fuscescens - Bräunliches Buchenblatt-Haarbecherchen](/pilze/brunnipila-fuscescens-bräunliches-buchenblatt-haarbecherchen)\
 11.05.2022: [Inocybe geophylla - Seidiger Risspilz](/pilze/inocybe-geophylla-seidiger-risspilz)\
