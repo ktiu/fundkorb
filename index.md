@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/megacollybia_platyphylla_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-15.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Breitblättrige Holzrübling *Megacollybia platyphylla*, kurz Breitblatt genannt. Zwei Exemplare bei unserer Exkursion im Frankfurter Stadtwald gefunden. Diese sehr häufige Art wächst stets in Verbindung zu Holz. Um das nachzuprüfen, braucht man nur die [Myzelstränge](Myzel "Glossar") von der Stielbasis bis zu ihrem Ursprung zu verfolgen. Man könnte die Art kurz und treffend als *"Pilz wie Haut und Knochen"* beschreiben. Die Lamellen hängen praktisch direkt an der Huthaut. Seine Speisepilzqualität wird meist als sehr mäßig beurteilt und es wird sogar von Unverträglichkeiten berichtet. (Dieter Gewalt)
+15.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Breitblättrige Holzrübling *Megacollybia platyphylla*, kurz Breitblatt genannt. Zwei Exemplare bei unserer Exkursion im Frankfurter Stadtwald gefunden. Dieser sehr häufige Pilz wächst stets in Verbindung zu Holz. Um das nachzuprüfen, braucht man nur die [Myzelstränge](Myzel "Glossar") von der Stielbasis bis zu ihrem Ursprung zu verfolgen. Man könnte die Art kurz und treffend als *"Pilz wie Haut und Knochen"* beschreiben. Die Lamellen hängen praktisch direkt an der Huthaut. Seine Speisepilzqualität wird meist als sehr mäßig beurteilt und es wird sogar von Unverträglichkeiten berichtet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)
 
