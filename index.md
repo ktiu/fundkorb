@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/oudemansiella_mucida_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Beringte Schleimrübling *Oudemansiella (Mucidula) mucida*. Ein einziges und schon etwas angetrocknetes Exemplar haben wir bei unserer Exkursion im Frankfurter Stadtwald an einem liegenden Buchenstamm gefunden. Extreme Trockenheit verhinderte reichlicheres Pilzwachstum. In frischem Zustand ist der Beringte Schleimrübling ein attraktives Fotomotiv. Er ist sogar essbar, dürfte wegen seiner schleimigen Hutbekleidung aber nur selten in einer Pfanne landen.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/oudemansiella-mucida-beringter-schleimrübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/megacollybia_platyphylla_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 14.05.2022: Rindenpilze sind, was ihre Bestimmung betrifft, keine einfachen Objekte. Ganz anders der Körnchen-Rindenpilz *Bulbillomyces farinosus*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Der ist unverwechselbar. Was sich dem bloßen Auge als körniger weißer Belag auf nass liegendem Holz darbietet, ist mit der Lupe betrachtetet eine großflächige Ansammlung winziger Kügelchen, die sich abhängig vom Entwicklungsstadium in ihrer Größe unterscheiden. Dieser bemerkenswerte Pilz gilt als selten, ist aber bei gezielter Suche an Gewässerrändern immer mal wieder zu entdecken. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/bulbillomyces-farinosus-körnchen-rindenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/psathyrella_candolleana_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Behangene Faserling Psathyrella candolleana. Bei Kennern ein beliebter Suppenpilz, der schon früh im Jahr erscheint und bis in den Spätherbst zu finden ist. Er wächst stets an Holz, auch an vergrabenem, was ein Vorkommen auf Erde vortäuschen kann. Am einzelnen Pilz ist nicht viel dran, aber sein meist geselliges Erscheinen lohnt das Einsammeln. Aber bitte nur, wenn man sich seiner Sache wirklich sicher ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/psathyrella-candolleana-behangener-faserling)
 
 <div style="clear:  both"></div>
 
