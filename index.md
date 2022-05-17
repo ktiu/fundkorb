@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/entoloma_sepium_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schlehenrötling *Entoloma sepium*. Es ist die zweite Rötlingsart, die wir in diesem Jahr gesichtet haben (nach seinem Doppelgänger, dem Schildrötling, Ende April). Wir fanden ihn am Geschichtspfad bei Dietzenbach am Rand eines ausgedehnten Schlehengestrüpps, in dem wir im vergangenen Jahr ein Vorkommen von mehreren hundert entdeckt hatten. Es handelt sich um einen ausgezeichneten Speisepilz, den zu sammeln man aber nur erfahrenen Pilzfreunden empfehlen kann. Unter den Rötlingen gibt es viele giftige. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/entoloma-sepium-schlehenrötling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/oudemansiella_mucida_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 15.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Breitblättrige Holzrübling *Megacollybia platyphylla*, kurz Breitblatt genannt. Zwei Exemplare bei unserer Exkursion im Frankfurter Stadtwald gefunden. Dieser sehr häufige Pilz wächst stets in Verbindung zu Holz. Um das nachzuprüfen, braucht man nur die [Myzelstränge](Myzel "Glossar") von der Stielbasis bis zu ihrem Ursprung zu verfolgen. Man könnte die Art kurz und treffend als *"Pilz wie Haut und Knochen"* beschreiben. Die Lamellen hängen praktisch direkt an der Huthaut. Seine Speisepilzqualität wird meist als sehr mäßig beurteilt und es wird sogar von Unverträglichkeiten berichtet. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bulbillomyces_farinosus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.05.2022: Rindenpilze sind, was ihre Bestimmung betrifft, keine einfachen Objekte. Ganz anders der Körnchen-Rindenpilz *Bulbillomyces farinosus*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Der ist unverwechselbar. Was sich dem bloßen Auge als körniger weißer Belag auf nass liegendem Holz darbietet, ist mit der Lupe betrachtetet eine großflächige Ansammlung winziger Kügelchen, die sich abhängig vom Entwicklungsstadium in ihrer Größe unterscheiden. Dieser bemerkenswerte Pilz gilt als selten, ist aber bei gezielter Suche an Gewässerrändern immer mal wieder zu entdecken. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/bulbillomyces-farinosus-körnchen-rindenpilz)
 
 <div style="clear:  both"></div>
 
