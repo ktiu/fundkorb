@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-16.05.2022: [Oudemansiella mucida - Beringter Schleimrübling](/pilze/oudemansiella-mucida-beringter-schleimrübling)  
+17.05.2022: [Entoloma sepium - Schlehenrötling](/pilze/entoloma-sepium-schlehenrötling)  
+16.05.2022: [Oudemansiella mucida - Beringter Schleimrübling](/pilze/oudemansiella-mucida-beringter-schleimrübling)\
 15.05.2022: [Megacollybia platyphylla - Breitblättriger Holzrübling](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)\
 14.05.2022: [Bulbillomyces farinosus - Körnchen-Rindenpilz](/pilze/bulbillomyces-farinosus-körnchen-rindenpilz)\
 13.05.2022: [Psathyrella candolleana - Behangener Faserling](/pilze/psathyrella-candolleana-behangener-faserling)\
