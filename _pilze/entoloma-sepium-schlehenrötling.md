@@ -24,7 +24,7 @@ Die meisten der in Mitteleuropa vorkommenden etwa 250 Arten sind schwer und zume
 {% include bild.html datei="/bilder/entoloma_sepium_02_mm.jpg" %}
 {% include abbildung_ende.html legende="Foto: Margret Schwarz-Mohr" %}
 
-Vom Schildrötling unterscheidet sich der Schlehenrötling vor allem durch hellere Hutfarben und  [hygrophane](hygrophan "Glossar") Huthaut. Beide riechen nach Mehl oder Gurken und gehören mit Hutdurchmessern bis etwa 10 cm zu den größeren Rötlingsarten. Wer Guajaktinktur oder Anilin zur Verfügung hat, kann mit diesen chemischen Reagenzien einen einfachen Farbtest durchführen, mit dem die beiden Arten sicher und schnell zu trennen sind. Das Fleisch des Schlehenrötlings färbt sich innerhalb von 2 Minuten mit Guajak blaugrün, mit Anilin rosa. Beim Schildrötling ist der Farbtest negativ bzw. nur blass blaugrün. Außerdem sind Madenfraßgänge beim Schlehenrötling orangebräunlich.
+Vom Schildrötling unterscheidet sich der Schlehenrötling vor allem durch hellere Hutfarben und  [hygrophane](hygrophan "Glossar") Huthaut. Beide riechen nach Mehl oder Gurken und gehören mit Hutdurchmessern bis etwa 10 cm zu den größeren Rötlingsarten. Wer Guajaktinktur zur Verfügung hat, kann mit diesem chemischen Reagenz einen einfachen Farbtest durchführen, mit dem die beiden Arten sicher und schnell zu trennen sind. Das Fleisch des Schlehenrötlings färbt sich innerhalb von 2 Minuten mit Guajak kräftig blaugrün. Beim Schildrötling ist die Farbreaktion rotbräunlich. Außerdem sind Madenfraßgänge beim Schlehenrötling orangebräunlich.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/entoloma_sepium_03_dg.jpg" %}
