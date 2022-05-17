@@ -6,7 +6,7 @@ beschreibung:
   familie: Entolomataceae
   erlaeuterung: sepium = zum Zaun gehörig (bei Hecken wachsend)
 profil:
-  aktualisiert: 2021-05-23
+  aktualisiert: 2022-05-17
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
