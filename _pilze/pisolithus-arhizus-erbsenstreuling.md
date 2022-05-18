@@ -6,7 +6,7 @@ beschreibung:
   familie: Sclerodermataceae
   erlaeuterung: arhizus = ohne Wurzel
 profil:
-  aktualisiert: 2020-08-12
+  aktualisiert: 2022-05-18
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
@@ -17,7 +17,7 @@ hauptbild:
 {% include bild.html datei="/bilder/pisolithus_arhizus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Um den Erbsenstreuling erstmals zu sehen, musste ich in Thailand in der Provinz Phetchaburi einen Ausflug in eine unwegsame Wildnis unternehmen. Okay, ganz so unwegsam war sie doch nicht. Immerhin führte eine sandige Buckelpiste in eine Gegend, in der ein thailändischer Freund Land erworben und begonnen hatte, als Nebenerwerb Landwirtschaft mit Ananas- und Teakbaumplantagen zu betreiben. Was ich dort an Pilzen fand, ließ mich vor Freunde jubeln. Es begann mit dem Schwarzstreifigen Scheidling *Volvariella volvacea*, der auch in Thailand in freier Natur ziemlich selten ist, aber massenhaft gezüchtet und als *„Reisstrohpilz“* auf Märkten verkauft und als Konserven exportiert wird. Unter einem Haufen gelagerter Bretter und Balken entdeckte ich den stinkenden aber äußerst formschönen roten Faltigen Gitterling *[Colus hirudinosus](/pilze/colus-hirudinosus-faltiger-gitterling)*, der in Europa auch schon im Mittelmeerraum aufgetaucht ist. Den hier vorgestellten Fund hielt ich zunächst für eine Schleimtrüffel, erst der Anschnitt sorgte für Klarheit.
+Um den Erbsenstreuling erstmals zu sehen, musste ich in Thailand in der Provinz Phetchaburi einen Ausflug in eine unwegsame Wildnis unternehmen. Okay, ganz so unwegsam war sie doch nicht. Immerhin führte eine sandige Buckelpiste in eine Gegend, in der ein thailändischer Freund Land erworben und begonnen hatte, als Nebenerwerb Landwirtschaft mit Ananas- und Teakbaumplantagen zu betreiben. Was ich dort an Pilzen fand, ließ mich vor Freunde jubeln. Es begann mit dem Schwarzstreifigen Scheidling *[Volvariella volvacea](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)*, der auch in Thailand in freier Natur ziemlich selten ist, aber massenhaft gezüchtet und als *„Reisstrohpilz“* auf Märkten verkauft und als Konserven exportiert wird. Unter einem Haufen gelagerter Bretter und Balken entdeckte ich den stinkenden aber äußerst formschönen roten Faltigen Gitterling *[Colus hirudinosus](/pilze/colus-hirudinosus-faltiger-gitterling)*, der in Europa auch schon im Mittelmeerraum aufgetaucht ist. Den hier vorgestellten Fund hielt ich zunächst für eine Schleimtrüffel, erst der Anschnitt sorgte für Klarheit.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/pisolithus_arhizus_03_dg.jpg" %}
