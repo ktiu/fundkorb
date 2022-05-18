@@ -6,7 +6,7 @@ beschreibung:
   familie: Hygrophoraceae
   erlaeuterung: miniata = mennigfarben
 profil:
-  aktualisiert: 2021-12-31
+  aktualisiert: 2022-05-18
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -21,7 +21,7 @@ Dies ist vermutlich der bekannteste (und häufigste?) unter den kleinen roten Sa
 {% include bild.html datei="/bilder/hygrocybe_miniata_03_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-Als Standort werden grasige oder moosige Flächen angegeben, beim hier fotografierten Fund war es ein kurz gehaltener mit Moos durchmischter Rasen in der Parkanlage am Campus Heusenstamm. *Kriegsteiner* (Großpilze Baden-Württembergs Band 3, 2001) zählt eine ganze Reihe bevorzugter Biotope auf: Zwischen- und Hochmoore, nasse Staudenfluren, Quell- und Bachfluren, Gräben, Pfeifengraswiesen, moosige Kurzgras- und Magerwiesen, Sandrasen, Wacholderheiden, Waldlichtungen und -ränder, etc.; strikt sticksoffarme, aber saure Böden. 
+Als Standort werden grasige oder moosige Flächen angegeben, beim hier fotografierten Fund war es ein kurz gehaltener mit Moos durchmischter Rasen in der Parkanlage am Campus Heusenstamm, in dem gleichzeitig auch üppige Vorkommen von [Geoglossum fallax (Täuschende Erdzunge)](/pilze/geoglossum-fallax-täuschende-erdzunge) und [Clavulinopsis helvola (Goldgelbe Wiesenkeule)](/pilze/clavulinopsis-helvola-goldgelbe-wiesenkeule) beobachtet wurden. *Kriegsteiner* (Großpilze Baden-Württembergs Band 3, 2001) zählt eine ganze Reihe bevorzugter Biotope auf: Zwischen- und Hochmoore, nasse Staudenfluren, Quell- und Bachfluren, Gräben, Pfeifengraswiesen, moosige Kurzgras- und Magerwiesen, Sandrasen, Wacholderheiden, Waldlichtungen und -ränder, etc.; strikt sticksoffarme, aber saure Böden. 
 
 **Kurzbeschreibung:**\
 **Hut:** 1 - 3 cm breit, mennig- bis leuchtend zinnoberrot, orangerot verblassend, Huthaut trocken, fein filzig schorfig\
