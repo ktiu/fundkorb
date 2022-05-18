@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopus_dryophilus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Waldfreundrübling *Gymnopus dryophilus*. Er gehört zu den Streuzersetzern und ist einer der häufigsten Blätterpilze überhaupt, der in keinem Wald fehlen dürfte. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht ganz einfach. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/entoloma_sepium_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 16.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Beringte Schleimrübling *Oudemansiella (Mucidula) mucida*. Ein einziges und schon etwas angetrocknetes Exemplar haben wir bei unserer Exkursion im Frankfurter Stadtwald an einem liegenden Buchenstamm gefunden. Extreme Trockenheit verhinderte reichlicheres Pilzwachstum. In frischem Zustand ist der Beringte Schleimrübling ein attraktives Fotomotiv. Er ist sogar essbar, dürfte wegen seiner schleimigen Hutbekleidung aber nur selten in einer Pfanne landen.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/oudemansiella-mucida-beringter-schleimrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/megacollybia_platyphylla_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Breitblättrige Holzrübling *Megacollybia platyphylla*, kurz Breitblatt genannt. Zwei Exemplare bei unserer Exkursion im Frankfurter Stadtwald gefunden. Dieser sehr häufige Pilz wächst stets in Verbindung zu Holz. Um das nachzuprüfen, braucht man nur die [Myzelstränge](Myzel "Glossar") von der Stielbasis bis zu ihrem Ursprung zu verfolgen. Man könnte die Art kurz und treffend als *"Pilz wie Haut und Knochen"* beschreiben. Die Lamellen hängen praktisch direkt an der Huthaut. Seine Speisepilzqualität wird meist als sehr mäßig beurteilt und es wird sogar von Unverträglichkeiten berichtet. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)
 
 <div style="clear:  both"></div>
 
