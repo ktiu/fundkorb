@@ -15,6 +15,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_tuberaster_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kleine Schuppenporling *Polyporus tuberaster*. Man kann ihn als Geheimtip für Gourmets bezeichnen, leider mit einem Haken. Nur junge Exemplare sind zart genug, um als Leckerbissen in der Pfanne zu landen. Er wird auch *Sklerotienporling* genannt. Was ein *Sklerotium* ist und einiges mehr über diesen interessanten Pilz [erfahren Sie hier >](/pilze/polyporus-tuberaster-sklerotienporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/fuligo_septica_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,30 +43,6 @@ footer_scripts:
 18.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Waldfreundrübling *Gymnopus dryophilus*. Er gehört zu den Streuzersetzern und ist einer der häufigsten Blätterpilze überhaupt, der in keinem Wald fehlen dürfte. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht ganz einfach. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/entoloma_sepium_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schlehenrötling *Entoloma sepium*. Es ist die zweite Rötlingsart, die wir in diesem Jahr gesichtet haben (nach seinem Doppelgänger, dem Schildrötling, Ende April). Wir fanden ihn am Geschichtspfad bei Dietzenbach am Rand eines ausgedehnten Schlehengestrüpps, in dem wir im vergangenen Jahr ein Vorkommen von mehreren hundert entdeckt hatten. Es handelt sich um einen ausgezeichneten Speisepilz, den zu sammeln man aber nur erfahrenen Pilzfreunden empfehlen kann. Unter den Rötlingen gibt es viele giftige. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/entoloma-sepium-schlehenrötling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/oudemansiella_mucida_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Beringte Schleimrübling *Oudemansiella (Mucidula) mucida*. Ein einziges und schon etwas angetrocknetes Exemplar haben wir bei unserer Exkursion im Frankfurter Stadtwald an einem liegenden Buchenstamm gefunden. Extreme Trockenheit verhinderte reichlicheres Pilzwachstum. In frischem Zustand ist der Beringte Schleimrübling ein attraktives Fotomotiv. Er ist sogar essbar, dürfte wegen seiner schleimigen Hutbekleidung aber nur selten in einer Pfanne landen.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/oudemansiella-mucida-beringter-schleimrübling)
 
 <div style="clear:  both"></div>
 
