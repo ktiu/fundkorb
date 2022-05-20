@@ -1,12 +1,12 @@
 ---
 beschreibung:
   wissenschaftlich: Polyporus tuberaster
-  deutsch: Sklerotienporling
+  deutsch: Sklerotienporling, Kleiner Schuppenporling
   referenz: "(Jacq. ex Pers.) Fr. 1821 "
   familie: Polyporaceae
   erlaeuterung: tuberaster = knollenförmig
 profil:
-  aktualisiert: 2021-05-22
+  aktualisiert: 2022-05-20
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
