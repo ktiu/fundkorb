@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopilus_junonius_01_nko.jpg" %}
+{% include abbildung_ende.html %}
+
+21.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Beringte Flämmling *Gymnopilus junonius*. Gefunden wurden zwei Exemplare an einem liegenden Buchenstamm, an dem sie aus einer Höhlung herauswuchsen. Die Stiele waren, so weit sichtbar, mindestens 15 cm lang, die Hüte noch schön kugelig und flammend orangegelb. Am häufigsten findet man diese beeindruckenden Pilze in vielhütigen Büscheln am Fuß lebender Eichen. Wegen Bitterkeit ist die Art für die Küche unbrauchbar, soll außerdem halluzinogen wirkende Stoffe enthalten. (Adam Adamowicz)
+
+[Mehr lesen >](/pilze/gymnopilus-junonius-beringter-flämmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_tuberaster_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 19.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Gelbe Lohblüte *Fuligo septica*. Die leuchtend gelben Kissen, die man nicht selten auf morschem Holz oder modernden Blättern sieht, machen sie unverwechselbar. Man sieht diesen Kissen schon ihre Schleimigkeit an und hütet sich, sie anzufassen. Nicht umsonst werden die Vertreter dieser bemerkenswerten Organismen *["Schleimpilze"](/verwandt/schleimpilze-myxomyzeten)* genannt. An eine Verwendung in der Küche denkt da keiner, und doch wird er zum Beispiel in Mexiko gegessen. Und ist unter dem Namen *"Caca di Luna"* sogar marktfähig! (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/fuligo-septica-gelbe-lohblüte)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_dryophilus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Waldfreundrübling *Gymnopus dryophilus*. Er gehört zu den Streuzersetzern und ist einer der häufigsten Blätterpilze überhaupt, der in keinem Wald fehlen dürfte. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht ganz einfach. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)
 
 <div style="clear:  both"></div>
 
