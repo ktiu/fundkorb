@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-20.05.2022: [Polyporus tuberaster - Kleiner Schuppenporling](/pilze/polyporus-tuberaster-sklerotienporling)  
+21.05.2022: [Gymnopilus junonius - Beringter Flämmling](/pilze/gymnopilus-junonius-beringter-flämmling)  
+20.05.2022: [Polyporus tuberaster - Kleiner Schuppenporling](/pilze/polyporus-tuberaster-sklerotienporling)\
 19.05.2022: [Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
 18.05.2022: [Gymnopus dryophilus - Waldfreundrübling](/pilze/gymnopus-dryophilus-waldfreundrübling)\
 17.05.2022: [Entoloma sepium - Schlehenrötling](/pilze/entoloma-sepium-schlehenrötling)\
