@@ -21,4 +21,4 @@ Der Löwengelbe Porling gehört zu den gestielten auf Totholz wachsenden Porligs
 {% include bild.html datei="/bilder/polyporus_varius_02_nk.jpg" %}
 {% include abbildung_ende.html legende="Foto: Norbert Kühnberger" %}
 
-*Polyporus varius* ist eine häufige in Laubwäldern verbreitete Art, die ganz überwiegend auf Buchenholz wächst und ganzjährig zu finden ist. Der Braunfuß-Stielporling *Polyporus melanopus* bildet fleischigere Fruchtkörper, die stämmigeren Stiele sind eher braun als schwarz gefärbt, die Poren größer und am Stiel herablaufend.
+*Polyporus varius* ist eine häufige in Laubwäldern verbreitete Art, die ganz überwiegend auf Buchenholz wächst und ganzjährig zu finden ist. Der Braunfuß-Stielporling *Polyporus melanopus* wächst in der Regel an vergrabenen Holzteilen, also scheinbar am Boden. Er bildet fleischigere Fruchtkörper, die stämmigeren Stiele sind meist runzelig oder längs gerillt, eher braun als schwarz gefärbt, die Poren größer und am Stiel herablaufend.
