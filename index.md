@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_erythropus._01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.05.2022: **Die ersten Röhrlinge sind da!** Damit haben wir mit dem Flockenstieligen Hexenröhrling *Boletus erythropus* einen aktuellen Fundkorbpilz, über den sich viele freuen. Im Gebiet Hainbachtal bei Offenbach hat sie Adam Adamovicz gefunden und zu Hause lecker zubereitet.
+
+[Mehr lesen >](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gymnopilus_junonius_01_nko.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 20.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kleine Schuppenporling *Polyporus tuberaster*. Man kann ihn als Geheimtip für Gourmets bezeichnen, leider mit einem Haken. Nur junge Exemplare sind zart genug, um als Leckerbissen in der Pfanne zu landen. Er wird auch *Sklerotienporling* genannt. Was ein *Sklerotium* ist und einiges mehr über diesen interessanten Pilz [erfahren Sie hier >](/pilze/polyporus-tuberaster-sklerotienporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/fuligo_septica_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Gelbe Lohblüte *Fuligo septica*. Die leuchtend gelben Kissen, die man nicht selten auf morschem Holz oder modernden Blättern sieht, machen sie unverwechselbar. Man sieht diesen Kissen schon ihre Schleimigkeit an und hütet sich, sie anzufassen. Nicht umsonst werden die Vertreter dieser bemerkenswerten Organismen *["Schleimpilze"](/verwandt/schleimpilze-myxomyzeten)* genannt. An eine Verwendung in der Küche denkt da keiner, und doch wird er zum Beispiel in Mexiko gegessen. Und ist unter dem Namen *"Caca di Luna"* sogar marktfähig! (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/fuligo-septica-gelbe-lohblüte)
 
 <div style="clear:  both"></div>
 
