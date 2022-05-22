@@ -19,4 +19,14 @@ In der Gattung *Parasola* sind Tintlinge zusammengefasst, die kein *[Velum](Velu
 {% include bild.html datei="/bilder/parasola_leiocephala_02_dg.jpg" %}
 {% include abbildung_ende.html legende="Nur zwei Tage alt und schon nicht mehr der Jüngste: Kahlköpfiger Scheibchentintling mit vertrocknetem Hut" %}
 
-Der Hut des Kahlköpfigen Scheibchentintlings hat eine orange- bis rotbraune Mitte, die von einem helleren Hof umgeben ist. Man findet die Art meist zu mehreren gesellig beieinander wachsend in Wäldern, Parkanlagen, an Wegrändern, vom Frühjahr bis in den Herbst. Sehr ähnlich sind der häufige [Gemeine Scheibchentintling *Parasola plicatilis*](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling) mit etwas größeren Sporen, bei dem eher graue Farbtöne überwiegen, sowie der seltene [Kleinsporige Scheibchentintling *Parasola kuehneri*](/pilze/parasola-kuehneri-kleinsporiger-scheibchentling). Auch mit den übrigen Arten der Gattung sind wegen oft fließender Übergänge Verwechslungen nicht auszuschließen. Sie sind alle für Speisezwecke völlig ungeeignet.
+Der Hut des Kahlköpfigen Scheibchentintlings hat eine orange- bis rotbraune Mitte, die von einem helleren Hof umgeben ist. Man findet die Art meist zu mehreren gesellig beieinander wachsend in Wäldern, Parkanlagen, an Wegrändern, vom Frühjahr bis in den Herbst. Sehr ähnlich sind der häufige [Gemeine Scheibchentintling *Parasola plicatilis*](/pilze/parasola-plicatilis-gemeiner-scheibchentintling) mit etwas größeren Sporen, bei dem eher graue Farbtöne überwiegen, sowie der seltene [Kleinsporige Scheibchentintling *Parasola kuehneri*](/pilze/parasola-kuehneri-kleinsporiger-scheibchentling).
+
+Zu unterscheiden sind die drei in der Größe der Sporen (Angaben lt. Breitenbach & Kränzlin: Pilze der Schweiz Band 1)
+
+**Parasola kuehneri**: 6 -10,3 x 5,1 -6,2 x 7 - 8,3 µm
+
+**Parasola leiocephala**: 9,4 - 11,9 x 4,9 - 7,2 x 6,7 - 9 µm
+
+**Parasola plicatilis**: 9,6 - 13,3 x 5.9 - 8,4 x 8,5 - 10,3 µm
+
+Auch mit den übrigen Arten der Gattung sind wegen oft fließender Übergänge Verwechslungen nicht auszuschließen. Sie sind alle für Speisezwecke völlig ungeeignet.
