@@ -15,10 +15,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agrocybe_dura_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rissige Ackerling *Agrocybe dura*. Er ist längst nicht so häufig wie der meist noch früher erscheinende Voreilende Ackerling Agrocybe praecox. Als Rarität kann man ihn aber auch nicht bezeichnen. Es ist nicht ganz einfach, die beiden im Feld sicher voneinander zu unterscheiden. Um Zweifel auszuräumen, sollte mikroskopiert werden. Sie unterscheiden sich deutlich in der Größe ihrer Sporen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_erythropus._01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-22.05.2022: **Die ersten Röhrlinge sind da!** Damit haben wir mit dem Flockenstieligen Hexenröhrling *Boletus erythropus* einen aktuellen Fundkorbpilz, über den sich viele freuen. Im Gebiet Hainbachtal bei Offenbach hat sie Adam Adamovicz gefunden und zu Hause lecker zubereitet.
+22.05.2022: **Die ersten Röhrlinge sind da!** Damit haben wir mit dem Flockenstieligen Hexenröhrling *Boletus erythropus* einen aktuellen [Fundkorbpilz](AA "Glossar-"), über den sich viele freuen. Im Gebiet Hainbachtal bei Offenbach hat sie Adam Adamovicz gefunden und zu Hause lecker zubereitet.
 
 [Mehr lesen >](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)
 
@@ -33,16 +45,6 @@ footer_scripts:
 21.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Beringte Flämmling *Gymnopilus junonius*. Gefunden wurden zwei Exemplare an einem liegenden Buchenstamm, an dem sie aus einer Höhlung herauswuchsen. Die Stiele waren, so weit sichtbar, mindestens 15 cm lang, die Hüte noch schön kugelig und flammend orangegelb. Am häufigsten findet man diese beeindruckenden Pilze in vielhütigen Büscheln am Fuß lebender Eichen. Wegen Bitterkeit ist die Art für die Küche unbrauchbar, soll außerdem halluzinogen wirkende Stoffe enthalten. (Adam Adamowicz)
 
 [Mehr lesen >](/pilze/gymnopilus-junonius-beringter-flämmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_tuberaster_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kleine Schuppenporling *Polyporus tuberaster*. Man kann ihn als Geheimtip für Gourmets bezeichnen, leider mit einem Haken. Nur junge Exemplare sind zart genug, um als Leckerbissen in der Pfanne zu landen. Er wird auch *Sklerotienporling* genannt. Was ein *Sklerotium* ist und einiges mehr über diesen interessanten Pilz [erfahren Sie hier >](/pilze/polyporus-tuberaster-sklerotienporling)
 
 <div style="clear:  both"></div>
 
