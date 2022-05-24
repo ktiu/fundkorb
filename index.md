@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/boletus_reticularis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-24.05.2022: Aktueller Fundkorbpilz[Fundkorbpilz](AA "Glossar-") ist der Sommersteinpilz *Boletus reticulatus*, der bei geeigneten Bedingungen schon Ende Mai zu finden ist. So auch dieses Jahr, dem Trend folgend, dass aufgrund der Klimaveränderung fast alles früher erscheint als zuvor. Mir liegen zwei Fundmeldungen aus Heusenstamm und Buchschlag vor. (Dieter Gewalt)
+24.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sommersteinpilz *Boletus reticulatus*, der bei geeigneten Bedingungen schon Ende Mai zu finden ist. So auch dieses Jahr, dem Trend folgend, dass aufgrund der Klimaveränderung fast alles früher erscheint als zuvor. Mir liegen zwei Fundmeldungen aus Heusenstamm und Buchschlag vor. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/boletus-reticulatus-sommersteinpilz)
 
