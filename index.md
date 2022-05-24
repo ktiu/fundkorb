@@ -15,6 +15,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_reticularis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.05.2022: Aktueller Fundkorbpilz[Fundkorbpilz](AA "Glossar-") ist der Sommersteinpilz *Boletus reticulatus*, der bei geeigneten Bedingungen schon Ende Mai zu finden ist. So auch dieses Jahr, dem Trend folgend, dass aufgrund der Klimaveränderung fast alles früher erscheint als zuvor. Mir liegen zwei Fundmeldungen aus Heusenstamm und Buchschlag vor. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/boletus-reticulatus-sommersteinpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agrocybe_dura_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 22.05.2022: **Die ersten Röhrlinge sind da!** Damit haben wir mit dem Flockenstieligen Hexenröhrling *Boletus erythropus* einen aktuellen [Fundkorbpilz](AA "Glossar-"), über den sich viele freuen. Im Gebiet Hainbachtal bei Offenbach hat sie Adam Adamovicz gefunden und zu Hause lecker zubereitet.
 
 [Mehr lesen >](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopilus_junonius_01_nko.jpg" %}
-{% include abbildung_ende.html %}
-
-21.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Beringte Flämmling *Gymnopilus junonius*. Gefunden wurden zwei Exemplare an einem liegenden Buchenstamm, an dem sie aus einer Höhlung herauswuchsen. Die Stiele waren, so weit sichtbar, mindestens 15 cm lang, die Hüte noch schön kugelig und flammend orangegelb. Am häufigsten findet man diese beeindruckenden Pilze in vielhütigen Büscheln am Fuß lebender Eichen. Wegen Bitterkeit ist die Art für die Küche unbrauchbar, soll außerdem halluzinogen wirkende Stoffe enthalten. (Adam Adamowicz)
-
-[Mehr lesen >](/pilze/gymnopilus-junonius-beringter-flämmling)
 
 <div style="clear:  both"></div>
 
