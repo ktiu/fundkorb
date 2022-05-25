@@ -14,9 +14,13 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopus_ocior_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 25.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelbblättrige Rübling *Gymnopus ocior*. Er gehört zum Formenkreis der Waldfreundrüblinge, wächst meist in vielhütigen Büscheln und unterscheidet sich vom häufigeren, eher einzeln oder auch gesellig erscheinenden Waldfreundrübling *Gymnopus dryophilus* durch dunklere Hutfarben und gelbliche Lamellen. Letzteres Merkmal kann sehr unauffällig ausgeprägt sein, was die sichere Bestimmung erschwert. Im Zweifelsfall heißt das: mikroskopieren. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/gymnopus-ocior-gelbblättriger-rübling)
 
 <div style="clear:  both"></div>
 
