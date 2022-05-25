@@ -8,7 +8,6 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-[Fundkorbpilz](AA "Glossar-")- - -
 
 {% include pilzsuche.html %}
 
