@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-24.02.2022: [Boletus reticulatus - Sommersteinpilz](/pilze/boletus-reticulatus-sommersteinpilz)  
+25.02.2022: [Gymnopus ocior - Gelbblättriger Rübling](/pilze/gymnopus-ocior-gelbblättriger-rübling)  
+24.02.2022: [Boletus reticulatus - Sommersteinpilz](/pilze/boletus-reticulatus-sommersteinpilz)\
 23.05.2022: [Agrocybe praecox - Rissiger Ackerling](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling)\
 22.05.2022: [Boletus erythropus - Flockenstieliger Hexenröhrling](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)\
 21.05.2022: [Gymnopilus junonius - Beringter Flämmling](/pilze/gymnopilus-junonius-beringter-flämmling)\
