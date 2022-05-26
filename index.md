@@ -8,8 +8,19 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-
 {% include pilzsuche.html %}
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/volvariella_bombycina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wollige Scheidling *Volvariella bombycina*. Adam Adamovicz hat ihn an einem liegenden Buchenstamm in Heusenstamm gefunden. Er ist der beeindruckendste Vereter einer Gattung, die nahe mit den Dachpilzen verwandt ist, sich von diesen aber durch eine häutige Scheide am Stielgrund unterscheidet. In der Rhein-Main-Ebene ist die Art recht gut verbreitet und immer mal wieder zu sehen. Manchmal in zwei oder drei Metern Höhe am Stamm einer Buche. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/volvariella-bombycina-wolliger-scheidling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -32,30 +43,6 @@ footer_scripts:
 24.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sommersteinpilz *Boletus reticulatus*, der bei geeigneten Bedingungen schon Ende Mai zu finden ist. So auch dieses Jahr, dem Trend folgend, dass aufgrund der Klimaveränderung fast alles früher erscheint als zuvor. Mir liegen zwei Fundmeldungen aus Heusenstamm und Buchschlag vor. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/boletus-reticulatus-sommersteinpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agrocybe_dura_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rissige Ackerling *Agrocybe dura*. Er ist längst nicht so häufig wie der meist noch früher erscheinende Voreilende Ackerling Agrocybe praecox. Als Rarität kann man ihn aber auch nicht bezeichnen. Es ist nicht ganz einfach, die beiden im Feld sicher voneinander zu unterscheiden. Um Zweifel auszuräumen, sollte mikroskopiert werden. Sie unterscheiden sich deutlich in der Größe ihrer Sporen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_erythropus._01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.05.2022: **Die ersten Röhrlinge sind da!** Damit haben wir mit dem Flockenstieligen Hexenröhrling *Boletus erythropus* einen aktuellen [Fundkorbpilz](AA "Glossar-"), über den sich viele freuen. Im Gebiet Hainbachtal bei Offenbach hat sie Adam Adamovicz gefunden und zu Hause lecker zubereitet.
-
-[Mehr lesen >](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)
 
 <div style="clear:  both"></div>
 
