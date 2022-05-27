@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-26.05.2022: [Volvariella bombycina - Wolliger Scheidling](/pilze/volvariella-bombycina-wolliger-scheidling)  
+27.05.2022: [Lentinus lepideus - Schuppiger Sägeblättling](/pilze/lentinus-lepideus-schuppiger-sägeblättling)  
+26.05.2022: [Volvariella bombycina - Wolliger Scheidling](/pilze/volvariella-bombycina-wolliger-scheidling)\
 25.02.2022: [Gymnopus ocior - Gelbblättriger Rübling](/pilze/gymnopus-ocior-gelbblättriger-rübling)\
 24.02.2022: [Boletus reticulatus - Sommersteinpilz](/pilze/boletus-reticulatus-sommersteinpilz)\
 23.05.2022: [Agrocybe praecox - Rissiger Ackerling](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling)\
