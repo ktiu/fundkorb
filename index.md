@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_augustus_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+28.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenchampignon *Agaricus augustus*. In der artenreichen Gattung der Champignons ist er einer der wenigen, die leicht kenntlich sind. Kennzeichen: stattlicher großer Pilz mit gelb-bräunlicher Hutbeschuppung und Geruch nach Anis. Vorkommen: gern in halb-offenen Biotopen wie Parkanlagen, recht häufig. Verwendung: wen der süßliche Anisgeschmack im Pilzgericht nicht stört, wird ihn sicherlich zu schätzen wissen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agaricus-augustus-riesenchampignon)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lentinus_lepideus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 26.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wollige Scheidling *Volvariella bombycina*. Adam Adamovicz hat ihn an einem liegenden Buchenstamm in Heusenstamm gefunden. Er ist der beeindruckendste Vereter einer Gattung, die nahe mit den Dachpilzen verwandt ist, sich von diesen aber durch eine häutige Scheide am Stielgrund unterscheidet. In der Rhein-Main-Ebene ist die Art recht gut verbreitet und immer mal wieder zu sehen. Manchmal in zwei oder drei Metern Höhe am Stamm einer Buche. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/volvariella-bombycina-wolliger-scheidling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_ocior_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelbblättrige Rübling *Gymnopus ocior*. Er gehört zum Formenkreis der Waldfreundrüblinge, wächst meist in vielhütigen Büscheln und unterscheidet sich vom häufigeren, eher einzeln oder auch gesellig erscheinenden Waldfreundrübling *Gymnopus dryophilus* durch dunklere Hutfarben und gelbliche Lamellen. Letzteres Merkmal kann sehr unauffällig ausgeprägt sein, was die sichere Bestimmung erschwert. Im Zweifelsfall heißt das: mikroskopieren. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gymnopus-ocior-gelbblättriger-rübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_reticularis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sommersteinpilz *Boletus reticulatus*, der bei geeigneten Bedingungen schon Ende Mai zu finden ist. So auch dieses Jahr, dem Trend folgend, dass aufgrund der Klimaveränderung fast alles früher erscheint als zuvor. Mir liegen zwei Fundmeldungen aus Heusenstamm und Buchschlag vor. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-reticulatus-sommersteinpilz)
 
 <div style="clear:  both"></div>
 
