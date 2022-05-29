@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-28.05.2022: [Agaricus augustus - Riesenschampignon](/pilze/agaricus-augustus-riesenchampignon)  
+29.05.2022: [Fomitopsis pinicola - Rotrandiger Baumschwamm](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)  
+28.05.2022: [Agaricus augustus - Riesenschampignon](/pilze/agaricus-augustus-riesenchampignon)\
 27.05.2022: [Lentinus lepideus - Schuppiger Sägeblättling](/pilze/lentinus-lepideus-schuppiger-sägeblättling)\
 26.05.2022: [Volvariella bombycina - Wolliger Scheidling](/pilze/volvariella-bombycina-wolliger-scheidling)\
 25.02.2022: [Gymnopus ocior - Gelbblättriger Rübling](/pilze/gymnopus-ocior-gelbblättriger-rübling)\
