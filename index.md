@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/fomitopsis_pinicola_02_bz.jpg" %}
+{% include abbildung_ende.html %}
+
+29.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotrandige Baumschwamm *Fomitopsis pinicola*. Der Artname *pinicola* besagt, dass es sich um eine an Kiefern wachsende Art handelt. Das stimmt so nicht. Die Liste seiner Wirtsbäume, an denen er sowohl parasitisch als auch saprobiontisch wächst, liest sich fast wie eine Aufzählung aller in Mitteleuropa vorkommenden Baumarten. Manchmal erscheinen die Farben auf seiner Oberfläche in der Reihenfolge schwarz-rot-gold. Während der Fußballweltmeisterschaft 2006, als Deutschland als Gastgeber des unvergesslichen *"Sommermärchens"* WM-Dritter wurde, zeigte ein in der BILD-Zeitung publiziertes Foto des Rotrandigen Baumschwamms unsere Nationalfarben in richtiger Reihenfolge! (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_augustus_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 27.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schuppige Sägeblättling *Lentinus lepideus*. Er wächst vor allem an Totholz der Kiefer, gern an Stümpfen. Neben seinem schuppig aufgerissenen Hut sind die gesägten Lamellenschneiden ein wichtiges Kennzeichen. Da er auch verbautes Nadelholz befallen kann, ist er als Schadpilz einzustufen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lentinus-lepideus-schuppiger-sägeblättling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/volvariella_bombycina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wollige Scheidling *Volvariella bombycina*. Adam Adamovicz hat ihn an einem liegenden Buchenstamm in Heusenstamm gefunden. Er ist der beeindruckendste Vereter einer Gattung, die nahe mit den Dachpilzen verwandt ist, sich von diesen aber durch eine häutige Scheide am Stielgrund unterscheidet. In der Rhein-Main-Ebene ist die Art recht gut verbreitet und immer mal wieder zu sehen. Manchmal in zwei oder drei Metern Höhe am Stamm einer Buche. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/volvariella-bombycina-wolliger-scheidling)
 
 <div style="clear:  both"></div>
 
