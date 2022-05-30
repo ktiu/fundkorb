@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_oreades_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Nelkenschwindling *Marasmius oreades*. Bei uns in Dietzenbach hat es zwar seit langem nicht geregnet, aber einige Rasenflächen in unserer Parkanlage haben noch genügend Feuchtigkeit gespeichert, um Pilzwachstum zu ermöglichen. Die hat auch der Nelkenschwindling genutzt, um einige Fruchtkörper zu bilden. Es handelt sich übrigens um einen ausgezeichneten Speisepilz, den man sicher erkannt haben sollte, bevor man ihn für die Küche pflückt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/fomitopsis_pinicola_02_bz.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 28.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenchampignon *Agaricus augustus*. In der artenreichen Gattung der Champignons ist er einer der wenigen, die leicht kenntlich sind. Kennzeichen: stattlicher großer Pilz mit gelb-bräunlicher Hutbeschuppung und Geruch nach Anis. Vorkommen: gern in halb-offenen Biotopen wie Parkanlagen, recht häufig. Verwendung: wen der süßliche Anisgeschmack im Pilzgericht nicht stört, wird ihn sicherlich zu schätzen wissen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agaricus-augustus-riesenchampignon)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lentinus_lepideus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schuppige Sägeblättling *Lentinus lepideus*. Er wächst vor allem an Totholz der Kiefer, gern an Stümpfen. Neben seinem schuppig aufgerissenen Hut sind die gesägten Lamellenschneiden ein wichtiges Kennzeichen. Da er auch verbautes Nadelholz befallen kann, ist er als Schadpilz einzustufen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lentinus-lepideus-schuppiger-sägeblättling)
 
 <div style="clear:  both"></div>
 
