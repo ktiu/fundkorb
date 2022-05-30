@@ -8,6 +8,7 @@ beschreibung:
   erlaeuterung: americanus = amerikanisch
 profil:
   aktualisiert: 2020-08-08
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/leucoagaricus_americanus_02_hl.jpg
