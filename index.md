@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/scytinostroma_portentosum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Stinkende Lederrindenpilz *Scytinostroma portentosum*. Rindenpilze werden von den meisten Pilzfreunden kaum wahrgenommen und sind dazu auch noch schwer zu bestimmen. Ohne Mikroskop und entsprechender Literatur geht da nur wenig. Der hier vorgestellte Stinkende Lederrindenpilz bildet da eine bemerkenswerte Ausnahme. Sein widerwärtig penetranter Geruch macht ihn unverwechselbar, weshalb er auch *Mottenkugelpilz* genannt wird. Manchmal verrät ihn schon die Nase, bevor man ihn gesehen hat. (Dieter Gewalt
+
+ Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_oreades_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 29.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotrandige Baumschwamm *Fomitopsis pinicola*. Der Artname *pinicola* besagt, dass es sich um eine an Kiefern wachsende Art handelt. Das stimmt so nicht. Die Liste seiner Wirtsbäume, an denen er sowohl parasitisch als auch saprobiontisch wächst, liest sich fast wie eine Aufzählung aller in Mitteleuropa vorkommenden Baumarten. Manchmal erscheinen die Farben auf seiner Oberfläche in der Reihenfolge schwarz-rot-gold. Während der Fußballweltmeisterschaft 2006, als Deutschland als Gastgeber des unvergesslichen *"Sommermärchens"* WM-Dritter wurde, zeigte ein in der BILD-Zeitung publiziertes Foto des Rotrandigen Baumschwamms unsere Nationalfarben in richtiger Reihenfolge! (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_augustus_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-28.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenchampignon *Agaricus augustus*. In der artenreichen Gattung der Champignons ist er einer der wenigen, die leicht kenntlich sind. Kennzeichen: stattlicher großer Pilz mit gelb-bräunlicher Hutbeschuppung und Geruch nach Anis. Vorkommen: gern in halb-offenen Biotopen wie Parkanlagen, recht häufig. Verwendung: wen der süßliche Anisgeschmack im Pilzgericht nicht stört, wird ihn sicherlich zu schätzen wissen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agaricus-augustus-riesenchampignon)
 
 <div style="clear:  both"></div>
 
