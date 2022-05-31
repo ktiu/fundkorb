@@ -18,7 +18,7 @@ literatur:
 {% include bild.html datei="/bilder/scytinostroma_portentosum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Die Farbe ist nicht unattraktiv - aber der Geruch! Er wird mit dem von Mottenkugeln verglichen oder einfach als widerwärtig bezeichnet. Manchmal ist er so stark, dass man den Pilz mit der Nase erkennt bevor man ihn gesehen hat. Die Enzwicklung des Pilzes beginnt mit kleineren Flecken, die im Verlauf seines Wachstums zusammenfließen.
+Die Farbe ist nicht unattraktiv - aber der Geruch! Er wird mit dem von Mottenkugeln verglichen oder einfach als widerwärtig bezeichnet. Manchmal ist er so stark, dass man den Pilz mit der Nase erkennt bevor man ihn gesehen hat. Die Entwicklung des Pilzes beginnt mit kleineren Flecken, die im Verlauf seines Wachstums zusammenfließen.
 
 Ähnliche [resupinat](resupinat "Glossar") wachsende Rindenpilze ohne spezielle Oberflächenstruktur wie Falten, Zähnchen oder Poren gibt es in zahlreichen Gattungen. Sie sind nicht leicht zu bestimmen. Im Fall des Stinkenden Lederrindenpilzes ist die Merkmalskombination creme- bis ockerfarbige glatte Oberfläche + übler Geruch ein sicheres Indiz für die Bestimmung. Charakteristische Mikromerkmale sind kleine, runde, [amyloide](amyloid "Glossar") Sporen (5-5,5 µm) sowie das [dimitische](dimitisch "Glossar") [Hyphensystem](Hyphen "Glossar") mit [dextrinoiden](dextrinoid "Glossar") Skeletthyphen.
 
