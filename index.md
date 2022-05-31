@@ -18,7 +18,7 @@ footer_scripts:
 
 31.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Stinkende Lederrindenpilz *Scytinostroma portentosum*. Rindenpilze werden von den meisten Pilzfreunden kaum wahrgenommen und sind dazu auch noch schwer zu bestimmen. Ohne Mikroskop und entsprechender Literatur geht da nur wenig. Der hier vorgestellte Stinkende Lederrindenpilz bildet da eine bemerkenswerte Ausnahme. Sein widerwärtig penetranter Geruch macht ihn unverwechselbar, weshalb er auch *Mottenkugelpilz* genannt wird. Manchmal verrät ihn schon die Nase, bevor man ihn gesehen hat. (Dieter Gewalt
 
- Mehr lesen >
+ [Mehr lesen >](/pilze/scytinostroma-portentosum-stinkender-lederrindenpilz)
 
 <div style="clear:  both"></div>
 
