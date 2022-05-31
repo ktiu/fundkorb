@@ -10,7 +10,7 @@ profil:
   aktualisiert: 2022-05-31
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/pholiota_populnea_01_dg.jpg
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 4, Nr. 437"
