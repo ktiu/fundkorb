@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/puccinia_urticata_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-01.06.2022: Aktueller Fundkorbpilz ist der Brennnesselrost *Puccinia urticata*. Er ist ein schönes Beispiel dafür, dass unauffällige Rindenpilze, winzige [Ascomyzeten](<Ascomyzeten "Glossar">), mit negativen Assoziationen behaftete Rostpilze oder andere wenig beachtete Arten ausgesprochen attraktiv sein können. Um das zu erkennen, muss man den hier gezeigten Brennnesselrost nur mit der Lupe betrachten. Aber Vorsicht beim Anfassen! Brennnesseln brennen! (Dieter Gewalt)
+01.06.2022: Aktueller Fundkorbpilz ist der Brennnesselrost *Puccinia urticata*. Er ist ein schönes Beispiel dafür, dass unauffällige Rindenpilze, winzige [Ascomyzeten](Ascomyzeten "Glossar"), mit negativen Assoziationen behaftete Rostpilze oder andere wenig beachtete Arten ausgesprochen attraktiv sein können. Um das zu erkennen, muss man den hier gezeigten Brennnesselrost nur mit der Lupe betrachten. Aber Vorsicht beim Anfassen! Brennnesseln brennen! (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/puccinia-urticata-brennnesselrost)
 
