@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-31.05.2022: [Scytinostroma portentosum - Stinkender Lederrindenpilz](/pilze/scytinostroma-portentosum-stinkender-lederrindenpilz)  
+01.06.2022: [Puccinia urticata - Brennnesselrost](/pilze/puccinia-urticata-brennnesselrost)
+
+31.05.2022: [Scytinostroma portentosum - Stinkender Lederrindenpilz](/pilze/scytinostroma-portentosum-stinkender-lederrindenpilz)\
 30.05.2022:[ Marasmius oreades - Nelkenschwindling](/pilze/marasmius-oreades-nelkenschwindling)\
 29.05.2022: [Fomitopsis pinicola - Rotrandiger Baumschwamm](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)\
 28.05.2022: [Agaricus augustus - Riesenschampignon](/pilze/agaricus-augustus-riesenchampignon)\
