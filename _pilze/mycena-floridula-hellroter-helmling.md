@@ -5,6 +5,7 @@ beschreibung:
   referenz: "(Fr.) P. Karst. 1877 "
   familie: Mycenaceae
   erlaeuterung: floridula = schön blühend
+  synonym: "Neuer Name: Atheniella adonis"
 profil:
   aktualisiert: 2020-10-26
   autor_in: Dieter Gewalt
