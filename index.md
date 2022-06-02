@@ -12,11 +12,21 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/diatrype_decorticata_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+02.06.2022: Wenn es zu trocken ist für *"richtige Pilze"*, müssen andere, weniger populäre Arten die Lücke füllen, um einen aktuellen [Fundkorbpilz](AA "Glossar-") präsentieren zu können. Zum Beispiel *Diatrype decorticata*, das Flächige Eckenscheibchen. Es bildet flache Beläge auf abgestorbenen Ästen von Laubbäumen (vor allem Rotbuche und Birke) und wurde lange Zeit fälschlich als *Diatrype stigma* bestimmt. Wie es zu diesen fehlerhaften Diagnosen kommen konnte, [ist hier zu lesen >](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/puccinia_urticata_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-01.06.2022: Aktueller Fundkorbpilz ist der Brennnesselrost *Puccinia urticata*. Er ist ein schönes Beispiel dafür, dass unauffällige Rindenpilze, winzige [Ascomyzeten](Ascomyzeten "Glossar"), mit negativen Assoziationen behaftete Rostpilze oder andere wenig beachtete Arten ausgesprochen attraktiv sein können. Um das zu erkennen, muss man den hier gezeigten Brennnesselrost nur mit der Lupe betrachten. Aber Vorsicht beim Anfassen! Brennnesseln brennen! (Dieter Gewalt)
+01.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brennnesselrost *Puccinia urticata*. Er ist ein schönes Beispiel dafür, dass unauffällige Rindenpilze, winzige [Ascomyzeten](Ascomyzeten "Glossar"), mit negativen Assoziationen behaftete Rostpilze oder andere wenig beachtete Arten ausgesprochen attraktiv sein können. Um das zu erkennen, muss man den hier gezeigten Brennnesselrost nur mit der Lupe betrachten. Aber Vorsicht beim Anfassen! Brennnesseln brennen! (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/puccinia-urticata-brennnesselrost)
 
@@ -43,18 +53,6 @@ footer_scripts:
 30.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Nelkenschwindling *Marasmius oreades*. Bei uns in Dietzenbach hat es zwar seit langem nicht geregnet, aber einige Rasenflächen in unserer Parkanlage haben noch genügend Feuchtigkeit gespeichert, um Pilzwachstum zu ermöglichen. Die hat auch der Nelkenschwindling genutzt, um einige Fruchtkörper zu bilden. Es handelt sich übrigens um einen ausgezeichneten Speisepilz, den man sicher erkannt haben sollte, bevor man ihn für die Küche pflückt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/fomitopsis_pinicola_02_bz.jpg" %}
-{% include abbildung_ende.html %}
-
-29.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotrandige Baumschwamm *Fomitopsis pinicola*. Der Artname *pinicola* besagt, dass es sich um eine an Kiefern wachsende Art handelt. Das stimmt so nicht. Die Liste seiner Wirtsbäume, an denen er sowohl parasitisch als auch saprobiontisch wächst, liest sich fast wie eine Aufzählung aller in Mitteleuropa vorkommenden Baumarten. Manchmal erscheinen die Farben auf seiner Oberfläche in der Reihenfolge schwarz-rot-gold. Während der Fußballweltmeisterschaft 2006, als Deutschland als Gastgeber des unvergesslichen *"Sommermärchens"* WM-Dritter wurde, zeigte ein in der BILD-Zeitung publiziertes Foto des Rotrandigen Baumschwamms unsere Nationalfarben in richtiger Reihenfolge! (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)
 
 <div style="clear:  both"></div>
 
