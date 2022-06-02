@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
+02.06.2022: [Diatrype decorticata - Flächiges Eckenscheibchen](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)  
 01.06.2022: [Puccinia urticata - Brennnesselrost](/pilze/puccinia-urticata-brennnesselrost)
 
 31.05.2022: [Scytinostroma portentosum - Stinkender Lederrindenpilz](/pilze/scytinostroma-portentosum-stinkender-lederrindenpilz)\
