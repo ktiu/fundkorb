@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrype_decorticata_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
