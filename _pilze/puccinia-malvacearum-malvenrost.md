@@ -6,7 +6,7 @@ beschreibung:
   familie: Pucciniaceae
   erlaeuterung: malvasearum = an Malven
 profil:
-  aktualisiert: 2021-01-31
+  aktualisiert: 2022-06-03
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
@@ -19,4 +19,6 @@ literatur:
 {% include bild.html datei="/bilder/puccinia_malvacearum_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Blattoberseite -- Blattunterseite" %}
 
-Zur Bestimmung dieses Rostpilzes genügt es, die Malvenpflanze zu kennen, auf deren Blättern er als gelbliche bis braune Pusteln erscheint. Da er keine [Aecien](Aecien "Glossar") und [Uredien](Uredien "Glossar") bildet, findet bei diesem Rost kein Wirtswechsel statt. Die Art ist weltweit vertreten.
+Zur Bestimmung dieses Rostpilzes genügt es, die Malvenpflanze zu kennen, auf deren Blättern er gelbliche bis braune Pusteln bildet, die sowohl auf der Blattober- wie auch der Blattunterseite erscheinen. Da er keine Aecien und Uredien bildet, findet bei diesem Rost kein Wirtswechsel statt.
+
+Weltweit existieren etwa 7000 Rostpilzarten in ca. 115 Gattungen.
