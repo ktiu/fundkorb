@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/puccinia_malvacearum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Malvenrost Puccinia malvacearum. Zur Bestimmung dieses Rostpilzes genügt es, die Malvenpflanze zu kennen, auf deren Blättern er als gelbliche bis braune Pusteln erscheint. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/puccinia-malvacearum-malvenrost)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrype_decorticata_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,30 +41,6 @@ footer_scripts:
 01.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brennnesselrost *Puccinia urticata*. Er ist ein schönes Beispiel dafür, dass unauffällige Rindenpilze, winzige [Ascomyzeten](Ascomyzeten "Glossar"), mit negativen Assoziationen behaftete Rostpilze oder andere wenig beachtete Arten ausgesprochen attraktiv sein können. Um das zu erkennen, muss man den hier gezeigten Brennnesselrost nur mit der Lupe betrachten. Aber Vorsicht beim Anfassen! Brennnesseln brennen! (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/puccinia-urticata-brennnesselrost)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/scytinostroma_portentosum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Stinkende Lederrindenpilz *Scytinostroma portentosum*. Rindenpilze werden von den meisten Pilzfreunden kaum wahrgenommen und sind dazu auch noch schwer zu bestimmen. Ohne Mikroskop und entsprechender Literatur geht da nur wenig. Der hier vorgestellte Stinkende Lederrindenpilz bildet da eine bemerkenswerte Ausnahme. Sein widerwärtig penetranter Geruch macht ihn unverwechselbar, weshalb er auch *Mottenkugelpilz* genannt wird. Manchmal verrät ihn schon die Nase, bevor man ihn gesehen hat. (Dieter Gewalt
-
- [Mehr lesen >](/pilze/scytinostroma-portentosum-stinkender-lederrindenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_oreades_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.05.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Nelkenschwindling *Marasmius oreades*. Bei uns in Dietzenbach hat es zwar seit langem nicht geregnet, aber einige Rasenflächen in unserer Parkanlage haben noch genügend Feuchtigkeit gespeichert, um Pilzwachstum zu ermöglichen. Die hat auch der Nelkenschwindling genutzt, um einige Fruchtkörper zu bilden. Es handelt sich übrigens um einen ausgezeichneten Speisepilz, den man sicher erkannt haben sollte, bevor man ihn für die Küche pflückt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
 
 <div style="clear:  both"></div>
 
