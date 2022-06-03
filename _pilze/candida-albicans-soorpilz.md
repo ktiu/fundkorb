@@ -14,7 +14,7 @@ hauptbild:
   datei: /bilder/candida-albicans_01_xx.jpg
   legende: "Mikrofoto: © Dr_Microbe/Stock/Getty Images Plus"
 ---
-Vermutlich haben wir ihn alle in uns, den Hefepilz *Candida albicans*. Normalerweise ist er als Bestandteil unserer Darmflora äußerst nützlich und hilft dabei, die zu uns genommene Nahrung zu verdauen oder Krankheiten vorzubeugen. Wenn er aber bei einem geschwächten Immunsystem eine invasive und aggressive Form annimmt, kann es zu Überwucherungen auf der Zunge oder Entzündungen in der Speiseröhre oder im Magen-Darm-Trakt kommen. Beeinträchtigungen des Immunsystems können z. B. durch Allergien oder cortisonhaltige Medikamente verursacht werden. Zur Heilung oder Vorbeugung stehen wirksame Medikamente zur Verfügung. Infektionen mit bestimmten Hefepilzen werden *"Soor"* genannt.
+Vermutlich haben wir ihn alle in uns, den Hefepilz *Candida albicans*. Normalerweise ist er als Bestandteil unserer Darmflora äußerst nützlich und hilft dabei, die zu uns genommene Nahrung zu verdauen oder Krankheiten vorzubeugen. Wenn er aber bei einem geschwächten Immunsystem eine [invasive](invasiv "Glossar") und aggressive Form annimmt, kann es zu Überwucherungen auf der Zunge oder Entzündungen in der Speiseröhre oder im Magen-Darm-Trakt kommen. Beeinträchtigungen des Immunsystems können z. B. durch Allergien oder cortisonhaltige Medikamente verursacht werden. Zur Heilung oder Vorbeugung stehen wirksame Medikamente zur Verfügung. Infektionen mit bestimmten Hefepilzen werden *"Soor"* genannt.
 
 Ein Team der *University of Utah* hat sich genauer mit Pilzen im Darm auseinandergesetzt und wichtige Erkenntnisse gewonnen:
 
