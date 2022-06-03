@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/puccinia_malvacearum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-03.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Malvenrost Puccinia malvacearum. Zur Bestimmung dieses Rostpilzes genügt es, die Malvenpflanze zu kennen, auf deren Blättern er als gelbliche bis braune Pusteln erscheint. (Dieter Gewalt)
+03.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Malvenrost *Puccinia malvacearum*. Zur Bestimmung dieses Rostpilzes genügt es, die Malvenpflanze zu kennen, auf deren Blättern er als gelbliche bis braune Pusteln erscheint. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/puccinia-malvacearum-malvenrost)
 
