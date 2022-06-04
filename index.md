@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/candida-albicans_01_xx.jpg" %}
+{% include abbildung_ende.html %}
+
+04.06.2022: Wie schon gesagt: Trockenheit ist normalem Pilzwachstum in Wald und Flur äußerst unzuträglich. Weil in freier Natur zur Zeit kaum Pilze zu finden sind, greife ich heute auf einen zurück, den wir wohl alle in uns haben: Candida albicans, der Soorpilz. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist so winzig, dass man ihn nur mit dem Mikroskop sehen kann. Er hilft uns bei der Verdauung, kann aber auch Entzündungen im Magen-Darm-Trakt oder Überwucherungen auf der Zunge verursachen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/candida-albicans-soorpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/puccinia_malvacearum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,18 +41,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 02.06.2022: Wenn es zu trocken ist für *"richtige Pilze"*, müssen andere, weniger populäre Arten die Lücke füllen, um einen aktuellen [Fundkorbpilz](AA "Glossar-") präsentieren zu können. Zum Beispiel *Diatrype decorticata*, das Flächige Eckenscheibchen. Es bildet flache Beläge auf abgestorbenen Ästen von Laubbäumen (vor allem Rotbuche und Birke) und wurde lange Zeit fälschlich als *Diatrype stigma* bestimmt. Wie es zu diesen fehlerhaften Diagnosen kommen konnte, [ist hier zu lesen >](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/puccinia_urticata_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brennnesselrost *Puccinia urticata*. Er ist ein schönes Beispiel dafür, dass unauffällige Rindenpilze, winzige [Ascomyzeten](Ascomyzeten "Glossar"), mit negativen Assoziationen behaftete Rostpilze oder andere wenig beachtete Arten ausgesprochen attraktiv sein können. Um das zu erkennen, muss man den hier gezeigten Brennnesselrost nur mit der Lupe betrachten. Aber Vorsicht beim Anfassen! Brennnesseln brennen! (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/puccinia-urticata-brennnesselrost)
 
 <div style="clear:  both"></div>
 
