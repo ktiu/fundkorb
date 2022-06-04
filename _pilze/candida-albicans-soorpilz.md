@@ -20,4 +20,4 @@ Ein Team der *University of Utah* hat sich genauer mit Pilzen im Darm auseinande
 
 > Das Immunsystem zwingt *Candida albicans* zu seiner am wenigsten pathogenen Form. Das zeigt uns, dass die Kommunikation zwischen Wirt und Mikrobe nicht immer antagonistisch (feindlich) ist, sondern auch freundlich sein kann und beiden nutzt.“
 
-*Candida albicans* ist ein [Ascomyzet](Ascomyzet "Glossar") in der Ordnung der "Echten Hefen" (*Saccharomycetales*) sowie in der Familie der Zuckerhefen (*Saccharomyces*) und damit mit so bekannten Arten wie Back- oder Bierhefe verwandt. Er bildet rundliche Zellen, die einen Durchmesser von wenigen Tausendstel Millimeter haben.
+*Candida albicans* ist ein [Ascomyzet](Ascomyzeten "Glossar") in der Ordnung der "Echten Hefen" (*Saccharomycetales*) sowie in der Familie der Zuckerhefen (*Saccharomyces*) und damit mit so bekannten Arten wie Back- oder Bierhefe verwandt. Er bildet rundliche Zellen, die einen Durchmesser von wenigen Tausendstel Millimeter haben.
