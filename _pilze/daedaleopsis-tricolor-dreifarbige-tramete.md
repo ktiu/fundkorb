@@ -19,6 +19,6 @@ Von oben betrachtet sieht dieser Porling aus wie eine [Rötende Tramete (Daedale
 {% include bild.html datei="/bilder/daedaleopsis_confragosa_var._tricolor_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Auch Mikroskopieren verhilft nicht zu klaren Positionen. Beide Arten sind in ihren Mikromerkmalen identisch. German J. Kriegsteiner hat in der Beschreibung von *Daedaleopsis confragosa* angeführt: 
+Auch Mikroskopieren verhilft nicht zu klaren Positionen. Beide Arten sind in ihren Mikromerkmalen identisch. *German J. Kriegsteiner* hat in der Beschreibung von *Daedaleopsis confragosa* angeführt: 
 
 > Variiert stark in Größe und Farbe, vor allem aber im Hymenophor. Am selben Substrat können ausgewachsene große und kleine, dunkel- und hell weinrote, braunrote, rotbraune, hell braunbeige, orangeockerliche Exemplare auftreten, rein porige, rein lamellige und dazwischen Exemplare, die alle Übergänge zeigen; selbst am selben Basidiocarpium (Fruchtkörper) treten Übergänge des Hymenophortyps auf, so dass es nicht selten unmöglich erscheint, eine Kollektion einer der beiden Varianten zuzuordnen."
