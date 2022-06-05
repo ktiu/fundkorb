@@ -13,6 +13,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/daedaleopsis_confragosa_var._tricolor_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Dreifarbige Tramete *Daedaleopsis tricolor*. Sie unterscheidet auf den ersten Blick deutlich von der Rötenden Tramete *Daedaleopsis confragosa* durch ein lamelliges Hymenophor. Ein wirklich zuverlässiges Merkmal ist das aber leider nicht. Weshalb, das erfahren Sie [hier >](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/candida-albicans_01_xx.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,16 +41,6 @@ footer_scripts:
 03.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Malvenrost *Puccinia malvacearum*. Zur Bestimmung dieses Rostpilzes genügt es, die Malvenpflanze zu kennen, auf deren Blättern er als gelbliche bis braune Pusteln erscheint. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/puccinia-malvacearum-malvenrost)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diatrype_decorticata_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-02.06.2022: Wenn es zu trocken ist für *"richtige Pilze"*, müssen andere, weniger populäre Arten die Lücke füllen, um einen aktuellen [Fundkorbpilz](AA "Glossar-") präsentieren zu können. Zum Beispiel *Diatrype decorticata*, das Flächige Eckenscheibchen. Es bildet flache Beläge auf abgestorbenen Ästen von Laubbäumen (vor allem Rotbuche und Birke) und wurde lange Zeit fälschlich als *Diatrype stigma* bestimmt. Wie es zu diesen fehlerhaften Diagnosen kommen konnte, [ist hier zu lesen >](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)
 
 <div style="clear:  both"></div>
 
