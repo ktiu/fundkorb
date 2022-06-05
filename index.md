@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/daedaleopsis_confragosa_var._tricolor_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-05.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Dreifarbige Tramete *Daedaleopsis tricolor*. Sie unterscheidet auf den ersten Blick deutlich von der Rötenden Tramete *Daedaleopsis confragosa* durch ein lamelliges Hymenophor. Ein wirklich zuverlässiges Merkmal ist das aber leider nicht. Weshalb, das erfahren Sie [hier >](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)
+05.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Dreifarbige Tramete *Daedaleopsis tricolor*. Sie unterscheidet auf den ersten Blick deutlich von der Rötenden Tramete *Daedaleopsis confragosa* durch ein lamelliges [Hymenophor](Hymenophor "Glossar"). Ein wirklich zuverlässiges Merkmal ist das aber leider nicht. Weshalb, das erfahren Sie [hier >](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)
 
 <div style="clear:  both"></div>
 
