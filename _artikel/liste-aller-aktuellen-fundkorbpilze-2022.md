@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-05.06.2022: [Daedaleopsis tricolor - Dreifarbige Tramete](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)  
+06.06.2022: [Inonotus hispidus - Zottiger Schillerporling](/pilze/inonotus-hispidus-zottiger-schillerporling)  
+05.06.2022: [Daedaleopsis tricolor - Dreifarbige Tramete](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)\
 04.05.2022: [Candida albicans - Soorpilz](/pilze/candida-albicans-soorpilz)\
 03.05.2022: [Puccinia malvacearum - Malvenrost](/pilze/puccinia-malvacearum-malvenrost)\
 02.06.2022: [Diatrype decorticata - Flächiges Eckenscheibchen](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)\
