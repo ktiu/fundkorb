@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/inonotus_hispidus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.06.2022: Irgendwann erwischt es so ziemlich jeden Apfelbaum, meist auf seine alten Tage. Er wird von unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Zottigen Schillerporling *Inonotus hispidus* (auch Pelzporling genannt) befallen und damit ist sein Schicksal besiegelt. Der mordende Parasit ist immerhin ein rücksichtsvoller Killer. Er lässt dem Gartenbesitzer Zeit, ein junges Bäumchen zu pflanzen und dessen Ertragsreife abzuwarten. So lange trägt der Patient noch Früchte. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/inonotus-hispidus-zottiger-schillerporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/daedaleopsis_confragosa_var._tricolor_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,18 +41,6 @@ footer_scripts:
 04.06.2022: Wie schon gesagt: Trockenheit ist normalem Pilzwachstum in Wald und Flur äußerst unzuträglich. Weil in freier Natur zur Zeit kaum Pilze zu finden sind, greife ich heute auf einen zurück, den wir wohl alle in uns haben: Candida albicans, der Soorpilz. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist so winzig, dass man ihn nur mit dem Mikroskop sehen kann. Er hilft uns bei der Verdauung, kann aber auch Entzündungen im Magen-Darm-Trakt oder Überwucherungen auf der Zunge verursachen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/candida-albicans-soorpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/puccinia_malvacearum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Malvenrost *Puccinia malvacearum*. Zur Bestimmung dieses Rostpilzes genügt es, die Malvenpflanze zu kennen, auf deren Blättern er als gelbliche bis braune Pusteln erscheint. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/puccinia-malvacearum-malvenrost)
 
 <div style="clear:  both"></div>
 
