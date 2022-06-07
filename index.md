@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinopsis_cinerea_01_km.jpg" %}
+{% include abbildung_ende.html %}
+
+07.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Struppige Tintling *Coprinopsis cinerea*. Sein spezielles Biotop sind mit Stroh und Pferdedung angereicherte Misthaufen, die so gerne angenommen werden, dass kaum einer unbesiedelt bleibt. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/inonotus_hispidus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,18 +41,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 05.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Dreifarbige Tramete *Daedaleopsis tricolor*. Sie unterscheidet auf den ersten Blick deutlich von der Rötenden Tramete *Daedaleopsis confragosa* durch ein lamelliges [Hymenophor](Hymenophor "Glossar"). Ein wirklich zuverlässiges Merkmal ist das aber leider nicht. Weshalb, das erfahren Sie [hier >](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/candida-albicans_01_xx.jpg" %}
-{% include abbildung_ende.html %}
-
-04.06.2022: Wie schon gesagt: Trockenheit ist normalem Pilzwachstum in Wald und Flur äußerst unzuträglich. Weil in freier Natur zur Zeit kaum Pilze zu finden sind, greife ich heute auf einen zurück, den wir wohl alle in uns haben: Candida albicans, der Soorpilz. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist so winzig, dass man ihn nur mit dem Mikroskop sehen kann. Er hilft uns bei der Verdauung, kann aber auch Entzündungen im Magen-Darm-Trakt oder Überwucherungen auf der Zunge verursachen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/candida-albicans-soorpilz)
 
 <div style="clear:  both"></div>
 
