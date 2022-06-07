@@ -18,7 +18,7 @@ footer_scripts:
 
 07.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Struppige Tintling *Coprinopsis cinerea*. Sein spezielles Biotop sind mit Stroh und Pferdedung angereicherte Misthaufen, die so gerne angenommen werden, dass kaum einer unbesiedelt bleibt. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/coprinopsis-cinerea-struppiger-tintling)
 
 <div style="clear:  both"></div>
 
