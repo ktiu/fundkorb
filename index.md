@@ -18,7 +18,7 @@ footer_scripts:
 
 08.06.2022: Kein anderer Pilz hat mehr Todesopfer gefordert als der aktuelle [Fundkorbpilz](AA "Glossar-") *Claviceps purpurea*. Als Mutterkorn und [Sklerotium](Sklerotium "Glossar") eines kleinen [Ascomyzeten](Ascomyzeten "Glossar") erscheint es in Gras- und Getreideähren. Allein im Jahr 922 sollen europaweit (vorwiegend in Frankreich und Spanien) 40.000 Menschen an Mutterkornvergiftung gestorben sein. Damals war die Erkrankung als Antoniusfeuer oder heiliges Feuer bekannt. Seine Alkaloide haben aber noch ganz andere Symptome erzeugt... (Dieter Gewalt)
 
-Mehr lesen lohnt sich >
+[Mehr lesen lohnt sich >](/pilze/claviceps-purpurea-mutterkorn)
 
 <div style="clear:  both"></div>
 
