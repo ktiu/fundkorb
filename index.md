@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/claviceps_purpurea_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.06.2022: Kein anderer Pilz hat mehr Todesopfer gefordert als der aktuelle [Fundkorbpilz](AA "Glossar-") *Claviceps purpurea*. Als Mutterkorn und [Sklerotium](Sklerotium "Glossar") eines kleinen [Ascomyzeten](Ascomyzeten "Glossar") erscheint es in Gras- und Getreideähren. Allein im Jahr 922 sollen europaweit (vorwiegend in Frankreich und Spanien) 40.000 Menschen an Mutterkornvergiftung gestorben sein. Damals war die Erkrankung als Antoniusfeuer oder heiliges Feuer bekannt. Seine Alkaloide haben aber noch ganz andere Symptome erzeugt... (Dieter Gewalt)
+
+Mehr lesen lohnt sich >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinopsis_cinerea_01_km.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,16 +43,6 @@ footer_scripts:
 06.06.2022: Irgendwann erwischt es so ziemlich jeden Apfelbaum, meist auf seine alten Tage. Er wird von unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Zottigen Schillerporling *Inonotus hispidus* (auch Pelzporling genannt) befallen und damit ist sein Schicksal besiegelt. Der mordende Parasit ist immerhin ein rücksichtsvoller Killer. Er lässt dem Gartenbesitzer Zeit, ein junges Bäumchen zu pflanzen und dessen Ertragsreife abzuwarten. So lange trägt der Patient noch Früchte. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/inonotus-hispidus-zottiger-schillerporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/daedaleopsis_confragosa_var._tricolor_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Dreifarbige Tramete *Daedaleopsis tricolor*. Sie unterscheidet auf den ersten Blick deutlich von der Rötenden Tramete *Daedaleopsis confragosa* durch ein lamelliges [Hymenophor](Hymenophor "Glossar"). Ein wirklich zuverlässiges Merkmal ist das aber leider nicht. Weshalb, das erfahren Sie [hier >](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)
 
 <div style="clear:  both"></div>
 
