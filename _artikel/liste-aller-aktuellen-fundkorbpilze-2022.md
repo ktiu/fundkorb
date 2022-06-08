@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-07.06.2022: [Coprinopsis cinerea - Struppiger Tintling](/pilze/coprinopsis-cinerea-struppiger-tintling)  
+08.06.2022: [Claviceps purpurea - Mutterkorn](/pilze/claviceps-purpurea-mutterkorn)  
+07.06.2022: [Coprinopsis cinerea - Struppiger Tintling](/pilze/coprinopsis-cinerea-struppiger-tintling)\
 06.06.2022: [Inonotus hispidus - Zottiger Schillerporling](/pilze/inonotus-hispidus-zottiger-schillerporling)\
 05.06.2022: [Daedaleopsis tricolor - Dreifarbige Tramete](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)\
 04.05.2022: [Candida albicans - Soorpilz](/pilze/candida-albicans-soorpilz)\
