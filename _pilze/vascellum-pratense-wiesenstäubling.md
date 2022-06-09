@@ -7,6 +7,7 @@ beschreibung:
   erlaeuterung: pratense = auf Wiesen vorkommend
 profil:
   aktualisiert: 2021-01-26
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/vascellum_pratense_01_dg.jpg
