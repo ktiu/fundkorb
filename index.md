@@ -12,6 +12,10 @@ footer_scripts:
 
 - - -
 
+#### **[Neuer Exkursionstermin >>>](/termine)**
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cantharellus_cibarius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
