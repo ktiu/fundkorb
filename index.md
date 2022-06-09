@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cantharellus_cibarius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.06.2022: Ein Bisschen Regen und schon melden sich Pilze in unseren Wäldern. Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, den jeder kennt und gern in der Pfanne hat - der Pfifferling *Cantharellus cibariu*s.
+
+[Mehr lesen >](/pilze/cantharellus-cibarius-pfifferling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/claviceps_purpurea_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
