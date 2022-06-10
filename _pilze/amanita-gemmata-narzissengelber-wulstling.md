@@ -6,7 +6,7 @@ beschreibung:
   familie: Amanitaceae
   erlaeuterung: gemmata = mit Edelsteinen besetzt
 profil:
-  aktualisiert: 2020-07-24
+  aktualisiert: 2022-06-10
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -21,7 +21,7 @@ Er ist meist der erste Wulstling, der in unseren Wäldern erscheint (manchmal sc
 {% include bild.html datei="/bilder/amanita_gemmata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Der Narzissengelbe Wulstling ist im Rhein-Main-Gebiet gut verbreitet und relativ häufig. Ich habe den [Mykorrhizapilz](Mykorrhiza "Glossar") meist bei Kiefern, aber auch bei Fichten und in Laubwäldern gefunden. Er gilt als giftverdächtig, soll u. a. das hitzeinstabile Bufotenin enthalten.
+Der Narzissengelbe Wulstling ist im Rhein-Main-Gebiet gut verbreitet und relativ häufig. Ich habe den [Mykorrhizapilz](Mykorrhiza "Glossar") meist bei Kiefern, aber auch bei Fichten und in Laubwäldern gefunden. Er gilt als giftverdächtig, soll u. a. das hitzeinstabile Bufotenin und möglicherweise auch halluzinogene Stoffe enthalten.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amanita_gemmata_03_dg.jpg" %}
