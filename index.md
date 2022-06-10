@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_gemmata_04_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+10.06.2022: Die ersten Wulstlinge sind gesichtet oder gemeldet worden. Wieder mal der erste im Jahr und aktueller [Fundkorbpilz](AA "Glossar-") ist der Narzissengelbe Wulstling *Amanita gemmata*. Er war übrigens auch der letzte im vergangenen Jahr, am 31. Dezember! Es handelt sich um eine der kleineren Wulstlingsarten, die sich aber durch ein attraktives Erscheinungsbild auszeichnet. Für die Küche sollte man ihn besser nicht verwenden. Er soll das Krötengift Bufotenin, möglicherweise sogar halluzinogene Stoffe enthalten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-gemmata-narzissengelber-wulstling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cantharellus_cibarius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,30 +47,6 @@ footer_scripts:
 08.06.2022: Kein anderer Pilz hat mehr Todesopfer gefordert als der aktuelle [Fundkorbpilz](AA "Glossar-") *Claviceps purpurea*. Als Mutterkorn und [Sklerotium](Sklerotium "Glossar") eines kleinen [Ascomyzeten](Ascomyzeten "Glossar") erscheint es in Gras- und Getreideähren. Allein im Jahr 922 sollen europaweit (vorwiegend in Frankreich und Spanien) 40.000 Menschen an Mutterkornvergiftung gestorben sein. Damals war die Erkrankung als Antoniusfeuer oder heiliges Feuer bekannt. Seine Alkaloide haben aber noch ganz andere Symptome erzeugt... (Dieter Gewalt)
 
 [Mehr lesen lohnt sich >](/pilze/claviceps-purpurea-mutterkorn)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinopsis_cinerea_01_km.jpg" %}
-{% include abbildung_ende.html %}
-
-07.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Struppige Tintling *Coprinopsis cinerea*. Sein spezielles Biotop sind mit Stroh und Pferdedung angereicherte Misthaufen, die so gerne angenommen werden, dass kaum einer unbesiedelt bleibt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coprinopsis-cinerea-struppiger-tintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/inonotus_hispidus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.06.2022: Irgendwann erwischt es so ziemlich jeden Apfelbaum, meist auf seine alten Tage. Er wird von unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Zottigen Schillerporling *Inonotus hispidus* (auch Pelzporling genannt) befallen und damit ist sein Schicksal besiegelt. Der mordende Parasit ist immerhin ein rücksichtsvoller Killer. Er lässt dem Gartenbesitzer Zeit, ein junges Bäumchen zu pflanzen und dessen Ertragsreife abzuwarten. So lange trägt der Patient noch Früchte. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/inonotus-hispidus-zottiger-schillerporling)
 
 <div style="clear:  both"></div>
 
