@@ -16,6 +16,16 @@ footer_scripts:
 
 - - -
 
+
+
+11.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Perlpilz *Amanita rubescens*. Dieser sehr häufige Wulstling ist während der letzten trockenen Jahren zumindest in der Rhein-Main-Ebene unglaublich selten geworden. Eigene Funde wie auch zahlreiche Fundmeldungen lassen darauf schließen, dass er 2022 wieder häufiger wird. Und dass leider bisher alle madig sind. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_gemmata_04_dg.jpeg" %}
 {% include abbildung_ende.html %}
