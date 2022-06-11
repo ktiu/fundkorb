@@ -37,8 +37,8 @@ Medizinische Bedeutung hat das Mutterkorn dagegen in der Geburtsheilkunde erfahr
 Durch Mutterkorn verunreinigtes Getreide gelangt heute kaum noch ins Brot. Bereits vor der Ernte sorgt der Einsatz von Fungiziden für die Eindämmung des Mutterkornpilzes. Nach der Ernte werden die schwarzen Sklerotien durch Siebe, Aspiration und Auslesen entfernt, neuerdings sind auch Farben erkennende Auslesegeräte im Einsatz.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/claviceps_purpurea_03_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/claviceps_purpurea_04_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/claviceps_purpurea_03_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/claviceps_purpurea_04_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Mutterkorn ist auch an ganz normalen Gräsern zu finden, an denen es schlankere Sklerotien bildet." %}
 
 Tipps zur Anzucht der kopfig-gestielten Fruchtkörper aus Mutterkörnern hat Fredi Kasparek auf <https://www.natur-in-nrw.de/HTML/Pilze/Ascomycota/PAS-56.html> gegeben: 
@@ -54,8 +54,8 @@ Auch ich habe bei mehrfachen Kultivierungsversuchen auf eine „Anzucht“ der K
 19.07.2019, Gebiet Schlosskaute zwischen Dietzenbach und Jügesheim,  ein Roggenfeld am Waldrand: hier waren die Getreideähren so stark mit Mutterkörnern „verseucht“ wie ich es noch nie gesehen habe. Innerhalb weniger Minuten hatten wir die nachfolgend abgebildeten Ähren und Sklerotien eingesammelt. Entlang des Roggenfeldes hätten wir mühelos ein ganzes Säckchen mit den hochgiftigen Mutterkörnern füllen können. In diesem Zusammenhang sei auf eine etwa zeitgleiche Rückrufaktion der Lebensmittelhandelsketten REWE und Edeka hingewiesen. Sie betraf Roggenmehl der Marke „Mehlzauber“, in dem erhöhte Mengen an Ergot-Alkaloiden festgestellt worden waren.
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/claviceps_purpurea_06_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/claviceps_purpurea_07_xx.jpg" %}
+{% include bild.html datei="/bilder/claviceps_purpurea_06_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/claviceps_purpurea_07_xx.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
 Die Leiden durch die vom Mutterkorn verursachte Krankheit wird sogar im rechten Flügel des berühmten Isenheimer Altars von Matthias Grünewald aus dem Jahr 1516 dargestellt. Mitglieder des Antoniterordens hatten sich damals schon der Bekämpfung von Seuchen und Krankheiten gewidmet, darunter auch dem als „Antoniusfeuer“ bekannten Ergotismus.
