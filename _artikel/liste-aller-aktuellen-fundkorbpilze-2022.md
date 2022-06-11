@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-10.06.2022: [Amanita gemmata - Narzissengelber Wulstling](/pilze/amanita-gemmata-narzissengelber-wulstling)  
+11.06.2022: [Amanita rubescens - Perlpilz](/pilze/amanita-rubescens-perlpilz)  
+10.06.2022: [Amanita gemmata - Narzissengelber Wulstling](/pilze/amanita-gemmata-narzissengelber-wulstling)\
 09.06.2022: [Cantharellus cibarius - Pfifferling](/pilze/cantharellus-cibarius-pfifferling)\
 08.06.2022: [Claviceps purpurea - Mutterkorn](/pilze/claviceps-purpurea-mutterkorn)\
 07.06.2022: [Coprinopsis cinerea - Struppiger Tintling](/pilze/coprinopsis-cinerea-struppiger-tintling)\
