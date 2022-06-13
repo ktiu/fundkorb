@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/agaricus_vaporarius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-13.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kompostegerling *Agaricus vaporarius*. Er ist ein regelmäßiger Gast in unserer Dietzenbacher Parkanlage, in der er an diversen Stellen erscheint und auch durch vielhütige Vorkommen auffällt. Als Speisepilz hat er kaum eine Bedeutung, soll aber gar nicht so übel schmecken. (Dieter Gewalt)
+13.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kompostegerling *Agaricus vaporarius*. Er ist ein regelmäßiger Gast in unserer Dietzenbacher Parkanlage, in der er an diversen Stellen erscheint und auch durch vielhütige Vorkommen auffällt. Als Speisepilz hat er kaum eine Bedeutung, soll aber gar nicht so übel schmecken. - Anmerkung zum Namen: Egerling ist das deutsche Wort für Champignon. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agaricus-vaporarius-kompostegerling)
 
