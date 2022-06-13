@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_vaporarius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kompostegerling *Agaricus vaporarius*. Er ist ein regelmäßiger Gast in unserer Dietzenbacher Parkanlage, in der er an diversen Stellen erscheint und auch durch vielhütige Vorkommen auffällt. Als Speisepilz hat er kaum eine Bedeutung, soll aber gar nicht so übel schmecken. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agaricus-vaporarius-kompostegerling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_virescens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 11.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Perlpilz *Amanita rubescens*. Dieser sehr häufige Wulstling ist während der letzten trockenen Jahren zumindest in der Rhein-Main-Ebene unglaublich selten geworden. Eigene Funde wie auch zahlreiche Fundmeldungen lassen darauf schließen, dass er 2022 wieder häufiger wird. Und dass leider bisher alle madig sind. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-rubescens-perlpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_gemmata_04_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-10.06.2022: Die ersten Wulstlinge sind gesichtet oder gemeldet worden. Wieder mal der erste im Jahr und aktueller [Fundkorbpilz](AA "Glossar-") ist der Narzissengelbe Wulstling *Amanita gemmata*. Er war übrigens auch der letzte im vergangenen Jahr, am 31. Dezember! Es handelt sich um eine der kleineren Wulstlingsarten, die sich aber durch ein attraktives Erscheinungsbild auszeichnet. Für die Küche sollte man ihn besser nicht verwenden. Er soll das Krötengift Bufotenin, möglicherweise sogar halluzinogene Stoffe enthalten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-gemmata-narzissengelber-wulstling)
 
 <div style="clear:  both"></div>
 
