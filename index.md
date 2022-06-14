@@ -13,10 +13,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ganoderma_lucidum_06_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+14.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Glänzende Lackporling *Ganoderma* *lucidum*. Das hier abgebildete noch sehr junge Exemplar wurde von *Frank Kaster* an einem Weg am Nordrand von Neu-Isenburg gefunden und fotografiert. Als *Reishi* gilt er vor allem in Asien als Vital- und Heilpilz, der ca. 400 nachgewiesene bio-aktive Wirkstoffe enthalten soll. Chinesen sagen ihm sogar einen Anti-Aging-Effekt nach und nennen ihn daher *"Pilz der Unsterblichkeit".*
+
+[Mehr lesen >](/pilze/ganoderma-lucidum-glänzender-lackporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_vaporarius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-13.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kompostegerling *Agaricus vaporarius*. Er ist ein regelmäßiger Gast in unserer Dietzenbacher Parkanlage, in der er an diversen Stellen erscheint und auch durch vielhütige Vorkommen auffällt. Als Speisepilz hat er kaum eine Bedeutung, soll aber gar nicht so übel schmecken. - Anmerkung zum Namen: Egerling ist das deutsche Wort für Champignon. (Dieter Gewalt)
+13.06.2022: Aktueller [Fundkorbpilz](AA "Glossar -") ist der Kompostegerling *Agaricus vaporarius*. Er ist ein regelmäßiger Gast in unserer Dietzenbacher Parkanlage, in der er an diversen Stellen erscheint und auch durch vielhütige Vorkommen auffällt. Als Speisepilz hat er kaum eine Bedeutung, soll aber gar nicht so übel schmecken. - Anmerkung zum Namen: Egerling ist das deutsche Wort für Champignon. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agaricus-vaporarius-kompostegerling)
 
@@ -28,7 +40,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/russula_virescens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-12.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüngefelderte Täubling *Amanita virescens*. Er ist unser erster Täubling des Jahres und ein hervorragender Speisepilz. Kenner schätzen ihn mehr als Steinpilz, Pfifferling & Co. Um so erfreulcher, dass es sich um einen gut kenntlichen Pilz handelt. In typischer Ausprägung (mit felderig aufgerissener Huthaut) ist er kaum zu verwechseln.  (Dieter Gewalt)
+12.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüngefelderte Täubling *Russula virescens*. Er ist unser erster Täubling des Jahres und ein hervorragender Speisepilz. Kenner schätzen ihn mehr als Steinpilz, Pfifferling & Co. Um so erfreulcher, dass es sich um einen gut kenntlichen Pilz handelt. In typischer Ausprägung (mit felderig aufgerissener Huthaut) ist er kaum zu verwechseln.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-virescens-grüngefelderter-täubling)
 
