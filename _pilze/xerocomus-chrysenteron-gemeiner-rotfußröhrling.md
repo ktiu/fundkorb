@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Xerocomus chrysenteron
-  synonym: "Neuer Name: Xeroocomellus chrysenteron"
+  synonym: "Neuer Name: Xerocomellus chrysenteron"
   referenz: "(Bull.) Quél. 1888 "
   familie: Boletaceae
   erlaeuterung: "chrysenteron = goldgelbfleischig "
