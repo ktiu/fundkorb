@@ -12,9 +12,13 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/xerocomus_chrysenteron_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 15.06.2022: Aktueller [Fundkorbpilz](AA "Glossar -") ist der Rotfußröhrling *Xerocomus chrysenteron*. Man findet ihn in den Körben der meisten Pilzsammler. Einige halten ihn sogar für einen Maronenröhrling. Selbst wer ihn richtig benannt hat, kann sich seiner Sache nicht mehr sicher sein. Dank der modernen Gentechnologie wissen die Mykologen inzwischen, dass es mehrere Rotfußröhrlingsarten gibt, die alle essbar sind. Zu den Delikatessen würde ich keinen von ihnen zählen. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)
 
 <div style="clear:  both"></div>
 
