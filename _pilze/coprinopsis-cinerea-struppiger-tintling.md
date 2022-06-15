@@ -11,8 +11,8 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/coprinopsis_cinerea_01_km.jpg
-  legende: "Foto: Karin Montag"
+  datei: /bilder/coprinnopsis_cinerius_01_id.jpg
+  legende: "Foto: Ingeborg Dittrich"
 literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Coprinopsis_cinereus.html
   - url: http://tintling.com/inhalt/2001/Der_Struppige_Tintling_2.pdf
