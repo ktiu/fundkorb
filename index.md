@@ -12,11 +12,19 @@ footer_scripts:
 
 - - -
 
+15.06.2022: Aktueller [Fundkorbpilz](AA "Glossar -") ist der Rotfußröhrling *Xerocomus chrysenteron*. Man findet ihn in den Körben der meisten Pilzsammler. Einige halten ihn sogar für einen Maronenröhrling. Selbst wer ihn richtig benannt hat, kann sich seiner Sache nicht mehr sicher sein. Dank der modernen Gentechnologie wissen die Mykologen inzwischen, dass es mehrere Rotfußröhrlingsarten gibt, die alle essbar sind. Zu den Delikatessen würde ich keinen von ihnen zählen. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ganoderma_lucidum_06_fk.jpg" %}
 {% include abbildung_ende.html %}
 
-14.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Glänzende Lackporling *Ganoderma* *lucidum*. Das hier abgebildete noch sehr junge Exemplar wurde von *Frank Kaster* an einem Weg am Nordrand von Neu-Isenburg gefunden und fotografiert. Als *Reishi* gilt er vor allem in Asien als Vital- und Heilpilz, der ca. 400 nachgewiesene bio-aktive Wirkstoffe enthalten soll. Chinesen sagen ihm sogar einen Anti-Aging-Effekt nach und nennen ihn daher *"Pilz der Unsterblichkeit".*
+14.06.2022: Aktueller [Fundkorbpilz](AA "Glossar -") ist der Glänzende Lackporling *Ganoderma* *lucidum*. Das hier abgebildete noch sehr junge Exemplar wurde von *Frank Kaster* an einem Weg am Nordrand von Neu-Isenburg gefunden und fotografiert. Als *Reishi* gilt er vor allem in Asien als Vital- und Heilpilz, der ca. 400 nachgewiesene bio-aktive Wirkstoffe enthalten soll. Chinesen sagen ihm sogar einen Anti-Aging-Effekt nach und nennen ihn daher *"Pilz der Unsterblichkeit".*
 
 [Mehr lesen >](/pilze/ganoderma-lucidum-glänzender-lackporling)
 
@@ -31,30 +39,6 @@ footer_scripts:
 13.06.2022: Aktueller [Fundkorbpilz](AA "Glossar -") ist der Kompostegerling *Agaricus vaporarius*. Er ist ein regelmäßiger Gast in unserer Dietzenbacher Parkanlage, in der er an diversen Stellen erscheint und auch durch vielhütige Vorkommen auffällt. Als Speisepilz hat er kaum eine Bedeutung, soll aber gar nicht so übel schmecken. - Anmerkung zum Namen: Egerling ist das deutsche Wort für Champignon. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agaricus-vaporarius-kompostegerling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_virescens_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüngefelderte Täubling *Russula virescens*. Er ist unser erster Täubling des Jahres und ein hervorragender Speisepilz. Kenner schätzen ihn mehr als Steinpilz, Pfifferling & Co. Um so erfreulcher, dass es sich um einen gut kenntlichen Pilz handelt. In typischer Ausprägung (mit felderig aufgerissener Huthaut) ist er kaum zu verwechseln.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-virescens-grüngefelderter-täubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_rubescens_01_dg-1536x1102.jpg" %}
-{% include abbildung_ende.html %}
-
-11.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Perlpilz *Amanita rubescens*. Dieser sehr häufige Wulstling ist während der letzten trockenen Jahren zumindest in der Rhein-Main-Ebene unglaublich selten geworden. Eigene Funde wie auch zahlreiche Fundmeldungen lassen darauf schließen, dass er 2022 wieder häufiger wird. Und dass leider bisher alle madig sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-rubescens-perlpilz)
 
 <div style="clear:  both"></div>
 
