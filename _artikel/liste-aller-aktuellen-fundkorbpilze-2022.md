@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-15.06.2022: [Xerocomus chrysenteron - Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)  
+16.06.2022: [Amanita pantherina - Pantherpilz](/pilze/amanita-pantherina-pantherpilz)  
+15.06.2022: [Xerocomus chrysenteron - Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)\
 14.06.2022: [Ganoderma lucidum - Glänzender Lackporling](/pilze/ganoderma-lucidum-glänzender-lackporling)\
 13.06.2022: [Agaricus vaporarius - Kompostegerling](/pilze/agaricus-vaporarius-kompostegerling)\
 12.06.2022: [Russula virescens - Grüngefelderter Täubling](/pilze/russula-virescens-grüngefelderter-täubling)\
