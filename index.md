@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_pantherina_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.06.2022: Aktueller [Fundkorbpilz](AA "Glossar -") ist der Pantherpilz *Amanita pantherina*, gefunden von *Adam Adamovicz* im Stadtgebiet von Neu-Isenburg. Der nicht ganz ungefährliche Doppelgänger des Perlpilzes enthält die vom Fliegenpilz bekannten Giftstoffe Ibotensäure und Muszimol, darüberhinaus auch Bufotenin. Die rauschähnlichen Symptome und Halluzinationen sind jedoch stärker als bei diesem und können bei Personen mit Kreislauf- oder Herzerkrankungen unter Umständen tödlich sein. Der Pantherpilz ist längst nicht so häufig wie Perl- oder Fliegenpilz, im Rhein-Main-Gebiet aber nicht selten. Sein häufigster [Mykorrhizapartner](Mykorrhiza "Glossar") ist die Eiche, gefolgt von Buche und Kiefer. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-pantherina-pantherpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_chrysenteron_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 14.06.2022: Aktueller [Fundkorbpilz](AA "Glossar -") ist der Glänzende Lackporling *Ganoderma* *lucidum*. Das hier abgebildete noch sehr junge Exemplar wurde von *Frank Kaster* an einem Weg am Nordrand von Neu-Isenburg gefunden und fotografiert. Als *Reishi* gilt er vor allem in Asien als Vital- und Heilpilz, der ca. 400 nachgewiesene bio-aktive Wirkstoffe enthalten soll. Chinesen sagen ihm sogar einen Anti-Aging-Effekt nach und nennen ihn daher *"Pilz der Unsterblichkeit".*
 
 [Mehr lesen >](/pilze/ganoderma-lucidum-glänzender-lackporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_vaporarius_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.06.2022: Aktueller [Fundkorbpilz](AA "Glossar -") ist der Kompostegerling *Agaricus vaporarius*. Er ist ein regelmäßiger Gast in unserer Dietzenbacher Parkanlage, in der er an diversen Stellen erscheint und auch durch vielhütige Vorkommen auffällt. Als Speisepilz hat er kaum eine Bedeutung, soll aber gar nicht so übel schmecken. - Anmerkung zum Namen: Egerling ist das deutsche Wort für Champignon. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agaricus-vaporarius-kompostegerling)
 
 <div style="clear:  both"></div>
 
