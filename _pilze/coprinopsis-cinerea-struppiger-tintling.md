@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: cinerea = aschgrau
   familie: Psathyrellaceae
 profil:
-  aktualisiert: 2022-06-06
+  aktualisiert: 2022-06-16
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
