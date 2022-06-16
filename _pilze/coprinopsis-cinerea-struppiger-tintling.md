@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Coprinopsis cinerea
-  deutsch: "Struppiger Tintling\t"
+  deutsch: Struppiger Tintling
   referenz: (Schaeff.) Redhead, Vilgalys & Moncalvo 2001
   synonym: "Synonym: Coprinus cinereus"
   erlaeuterung: cinerea = aschgrau
