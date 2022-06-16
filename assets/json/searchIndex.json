@@ -4,10 +4,10 @@ layout: null
 [
 {% for pilz in site.pilze %}
   {
-    "wissenschaftlich" : "{{ pilz.beschreibung.wissenschaftlich | escape }}",
-    "deutsch"          : "{{ pilz.beschreibung.deutsch | escape }}",
-    "synonym"          : "{{ pilz.beschreibung.synonym | escape }}",
-    "url"              : "{{ pilz.url | relative_url | escape }}"
+    "wissenschaftlich" : "{{ pilz.beschreibung.wissenschaftlich | escape | strip }}",
+    "deutsch"          : "{{ pilz.beschreibung.deutsch | escape | strip }}",
+    "synonym"          : "{{ pilz.beschreibung.synonym | escape | strip }}",
+    "url"              : "{{ pilz.url | relative_url | escape | strip }}"
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}
 ]
