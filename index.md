@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/conocybe_lactea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-17.06.2022: Auch wenn's trocken ist... selbst wo nur ein kleines Stück Rasen feucht gahlten wird, können über Nacht Pilze wie das Milchweiße Samthäubchen *Conocybe lactea* erscheinen. Deshalb ist es heute unser aktueller Fundkorbpilz, und zwar ein recht hübscher, dem hier Gänseblümchen Konkurrenz machen. Aber bitte nicht anfassen! Seine dünnen Stiele sind wie der gesamte Pilz sehr zerbrechlich. (Dieter Gewalt)
+17.06.2022: Auch wenn's trocken ist... selbst wo nur ein kleines Stück Rasen feucht gahlten wird, können über Nacht Pilze wie das Milchweiße Samthäubchen *Conocybe lactea* erscheinen. Deshalb ist es heute unser aktueller [Fundkorbpilz](AA "Glossar-"), und zwar ein recht hübscher, dem hier Gänseblümchen Konkurrenz machen. Aber bitte nicht anfassen! Seine dünnen Stiele sind wie der gesamte Pilz sehr zerbrechlich. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/conocybe-lactea-milchweißes-samthäubchen)
 
