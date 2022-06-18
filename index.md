@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pleurotus_pulmonarius_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Lungen-Seitling *Pleurotus pulmonarius*, gefunden von *Graziano und Franziska Archetti*. Fundort war ein Mischwald nahe Darmstadt-Kranichstein. Die Büschel wuchsen auf einem toten, aber noch berindeten Buchenstamm und waren nahezu weiß, weshalb eine Verwechslung mit dem Austernseitling ausgeschlossen werden konnte. Beide gelten, wenn sie noch jung und zart sind, als ausgezeichnete Speisepilze, die auch gut fürs menschliche Immunsystem sind.
+
+[Mehr lesen >](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/conocybe_lactea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 16.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pantherpilz *Amanita pantherina*, gefunden von *Adam Adamovicz* im Stadtgebiet von Neu-Isenburg. Der nicht ganz ungefährliche Doppelgänger des Perlpilzes enthält die vom Fliegenpilz bekannten Giftstoffe Ibotensäure und Muszimol, darüberhinaus auch Bufotenin. Die rauschähnlichen Symptome und Halluzinationen sind jedoch stärker als bei diesem und können bei Personen mit Kreislauf- oder Herzerkrankungen unter Umständen tödlich sein. Der Pantherpilz ist längst nicht so häufig wie Perl- oder Fliegenpilz, im Rhein-Main-Gebiet aber nicht selten. Sein häufigster [Mykorrhizapartner](Mykorrhiza "Glossar") ist die Eiche, gefolgt von Buche und Kiefer. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-pantherina-pantherpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_chrysenteron_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotfußröhrling *Xerocomus chrysenteron*. Man findet ihn in den Körben der meisten Pilzsammler. Einige halten ihn sogar für einen Maronenröhrling. Selbst wer ihn richtig benannt hat, kann sich seiner Sache nicht mehr sicher sein. Dank der modernen Gentechnologie wissen die Mykologen inzwischen, dass es mehrere Rotfußröhrlingsarten gibt, die alle essbar sind. Zu den Delikatessen würde ich keinen von ihnen zählen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ganoderma_lucidum_06_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-14.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Glänzende Lackporling *Ganoderma* *lucidum*. Das hier abgebildete noch sehr junge Exemplar wurde von *Frank Kaster* an einem Weg am Nordrand von Neu-Isenburg gefunden und fotografiert. Als *Reishi* gilt er vor allem in Asien als Vital- und Heilpilz, der ca. 400 nachgewiesene bio-aktive Wirkstoffe enthalten soll. Chinesen sagen ihm sogar einen Anti-Aging-Effekt nach und nennen ihn daher *"Pilz der Unsterblichkeit".*
-
-[Mehr lesen >](/pilze/ganoderma-lucidum-glänzender-lackporling)
 
 <div style="clear:  both"></div>
 
