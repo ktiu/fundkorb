@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-18.06.2022: [Pleurotus pulmonarius - Lungenseitling](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)  
+19.06.2022: [Russula ionochlora - Papageitäubling](/pilze/russula-ionochlora-papagei-täubling)  
+18.06.2022: [Pleurotus pulmonarius - Lungenseitling](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)\
 17.06.2022: [Conocybe lactea - Milchweißes Samthäubchen](/pilze/conocybe-lactea-milchweißes-samthäubchen)\
 16.06.2022: [Amanita pantherina - Pantherpilz](/pilze/amanita-pantherina-pantherpilz)\
 15.06.2022: [Xerocomus chrysenteron - Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)\
