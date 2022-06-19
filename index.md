@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_ionochlora_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Papageitäubling *Russula ionochlora*. Man könnte ihn auf den ersten Blick für einen schmächtigen Frauentäubling halten, dessen biegsame Lamellen aber <ins>nicht</ins> splittern. Der Papageitäubling ist ein guter Speisepilz, den ich wegen seines etwas festeren Fleisches mehr schätze als die üblichen Röhrlinge. Innerhalb der Täublinge bestehen Verwechslungsmöglichkeiten mit ebenfalls essbaren Arten, z. B. mit Reiftäublingen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pleurotus_pulmonarius_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 17.06.2022: Auch wenn's trocken ist... selbst wo nur ein kleines Stück Rasen feucht gahlten wird, können über Nacht Pilze wie das Milchweiße Samthäubchen *Conocybe lactea* erscheinen. Deshalb ist es heute unser aktueller [Fundkorbpilz](AA "Glossar-"), und zwar ein recht hübscher, dem hier Gänseblümchen Konkurrenz machen. Aber bitte nicht anfassen! Seine dünnen Stiele sind wie der gesamte Pilz sehr zerbrechlich. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/conocybe-lactea-milchweißes-samthäubchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_pantherina_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pantherpilz *Amanita pantherina*, gefunden von *Adam Adamovicz* im Stadtgebiet von Neu-Isenburg. Der nicht ganz ungefährliche Doppelgänger des Perlpilzes enthält die vom Fliegenpilz bekannten Giftstoffe Ibotensäure und Muszimol, darüberhinaus auch Bufotenin. Die rauschähnlichen Symptome und Halluzinationen sind jedoch stärker als bei diesem und können bei Personen mit Kreislauf- oder Herzerkrankungen unter Umständen tödlich sein. Der Pantherpilz ist längst nicht so häufig wie Perl- oder Fliegenpilz, im Rhein-Main-Gebiet aber nicht selten. Sein häufigster [Mykorrhizapartner](Mykorrhiza "Glossar") ist die Eiche, gefolgt von Buche und Kiefer. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-pantherina-pantherpilz)
 
 <div style="clear:  both"></div>
 
