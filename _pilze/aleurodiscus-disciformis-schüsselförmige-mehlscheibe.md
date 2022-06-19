@@ -20,8 +20,8 @@ literatur:
   - {}
 ---
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/aleurodiscus_disciformis_01_bm.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/aleurodiscus_disciformis_02_bm.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/aleurodiscus_disciformis_01_bm.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/aleurodiscus_disciformis_02_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="13.12.2021: an Traubeneiche in einem Mischwald bei Straubenhardt (Baden-Württemberg)" %}
 
 Jede Pilzart birgt ihre Besonderheiten, so auch die unauffällige Schüsselförmige Mehlscheibe. Sie ist gar nicht so häufig, denn die Rote Liste von Deutschland führt sie in der Gefährdungsklasse G (Gefährdung unbekannten Ausmaßes). Dieser kleine, meist nur bis 20 mm breite [Saprobiont](saprobiontisch "Glossar"), besiedelt die Rinde alter Eichen. Allerdings benötigt er dabei nach meinen Beobachtungen reine, etwas bewegte Luft und ein schattiges, feuchtes Kleinklima.
