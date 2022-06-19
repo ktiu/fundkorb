@@ -45,6 +45,11 @@ Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das Video des US-amerik
 
 <https://www.spektrum.de/video/besitzen-schleimpilze-schwarmintelligenz/1592488>
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/tubulifera_arachnoidea_01_dg.jpg" %}
+{% include bild.html datei="/bilder/arcyria_incarnata_02_wi.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Lachsfarbener Schleimpilz Tubulifera arachnoidea -- Roter Kelchstäubling Arcyria incarnata" %}
+
 Bisher 18 Schleimpilzarten aus 11 Gattungen (4 Familien) im Fundkorb. Weitere werden folgen.
 
 [](/pilze/diachaea-leucopodia-buckingham-schleimpilz)[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
@@ -63,7 +68,7 @@ Bisher 18 Schleimpilzarten aus 11 Gattungen (4 Familien) im Fundkorb. Weitere we
 [Reticularia lycoperdon (Enteridiaceae) - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
 [Stemonitis fusca (Stemonitidaceae) - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)\
 [Trichia favoginea (Trichiaceae) - Gelber Schleimpilz](/pilze/trichia-favoginea-gelber-schleimpilz)\
-[Trichia persimilis (Trichiaceae) - Ockerfarbener Neststäubling](/pilze/trichia-persimilis-ockerfarbener-neststäubling)  
+[Trichia persimilis (Trichiaceae) - Ockerfarbener Neststäubling](/pilze/trichia-persimilis-ockerfarbener-neststäubling)\
 [Tubulifera arachnoides (Enteridiaceae) - Lachsfarbener Schleimpilz](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
 
 Übrigens... auf Standorttreue kann man bei Schleimpilzen nicht zählen!
