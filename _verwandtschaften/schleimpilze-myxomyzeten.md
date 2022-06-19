@@ -4,7 +4,7 @@ autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/physarum_cinereum_08_dg.jpg
-aktualisiert: 2021-07-30
+aktualisiert: 2022-06-19
 "Hermann Neubert, Wolfgang Nowotny, Karlheinz Baumann": Die Myxomyceten (3 Bände)\
 Marion Geib: Myxomycezen - Kleiner Führer für Exkursionen
 literatur:
@@ -46,7 +46,7 @@ Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das Video des US-amerik
 <https://www.spektrum.de/video/besitzen-schleimpilze-schwarmintelligenz/1592488>
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/tubulifera_arachnoidea_01_dg.jpg" %}
+{% include bild.html datei="/bilder/tubulifera_arachnoidea_01_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/arcyria_incarnata_02_wi.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Lachsfarbener Schleimpilz Tubulifera arachnoidea -- Roter Kelchstäubling Arcyria incarnata" %}
 
