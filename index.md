@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_fulva_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-")ist der Fuchsige oder Rotbraune Scheidenstreifling *Amanita fulva*. Er gehört zu den häufigsten Wulstlingen und dürfte in kaum einem mitteleuropäischen Wald fehlen. Scheidenstreiflinge unterscheiden sich von den übrigen Wulstlingen durch die Merkmalskombination *"häutige Scheide an der Stielbasis + kein Ring im oberen Stielbereich"*. Er ist essbar, wegen seines muffigen Geschmacks aber mit Sicherheit keine Delikatesse. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_ionochlora_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
