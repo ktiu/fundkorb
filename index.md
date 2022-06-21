@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bovista_plumbea_01_mh.jpg" %}
+{% include abbildung_ende.html %}
+
+21.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bleigraue Zwergbovist *Bovista plumbea*. Er ist einer der häufigsten Pilzarten auf Rasenflächen und mit etwas Erfahrung kaum zu verwechseln. Bei reifen Fruchtkörpern zerplatzt die Haut wie bei einer Eierschale. Wie alle weißen Boviste (Stäublinge) ist er essbar. Wenn man ihn nicht isst, hat man allerdings nichts versäumt. (Dieter Gewalt)
+
+[Mehr Lesen >](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_fulva_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 19.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Papageitäubling *Russula ionochlora*. Man könnte ihn auf den ersten Blick für einen schmächtigen Frauentäubling halten, dessen biegsame Lamellen aber <ins>nicht</ins> splittern. Der Papageitäubling ist ein guter Speisepilz, den ich wegen seines etwas festeren Fleisches mehr schätze als die üblichen Röhrlinge. Innerhalb der Täublinge bestehen Verwechslungsmöglichkeiten mit ebenfalls essbaren Arten, z. B. mit Reiftäublingen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pleurotus_pulmonarius_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Lungen-Seitling *Pleurotus pulmonarius*, gefunden von *Graziano und Franziska Archetti*. Fundort war ein Mischwald nahe Darmstadt-Kranichstein. Die Büschel wuchsen auf einem toten, aber noch berindeten Buchenstamm und waren nahezu weiß, weshalb eine Verwechslung mit dem Austernseitling ausgeschlossen werden konnte. Beide gelten, wenn sie noch jung und zart sind, als ausgezeichnete Speisepilze, die auch gut fürs menschliche Immunsystem sind.
-
-[Mehr lesen >](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/conocybe_lactea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.06.2022: Auch wenn's trocken ist... selbst wo nur ein kleines Stück Rasen feucht gahlten wird, können über Nacht Pilze wie das Milchweiße Samthäubchen *Conocybe lactea* erscheinen. Deshalb ist es heute unser aktueller [Fundkorbpilz](AA "Glossar-"), und zwar ein recht hübscher, dem hier Gänseblümchen Konkurrenz machen. Aber bitte nicht anfassen! Seine dünnen Stiele sind wie der gesamte Pilz sehr zerbrechlich. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/conocybe-lactea-milchweißes-samthäubchen)
 
 <div style="clear:  both"></div>
 
