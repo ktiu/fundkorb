@@ -18,7 +18,7 @@ footer_scripts:
 
 21.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bleigraue Zwergbovist *Bovista plumbea*. Er ist einer der häufigsten Pilzarten auf Rasenflächen und mit etwas Erfahrung kaum zu verwechseln. Bei reifen Fruchtkörpern zerplatzt die Haut wie bei einer Eierschale. Wie alle weißen Boviste (Stäublinge) ist er essbar. Wenn man ihn nicht isst, hat man allerdings nichts versäumt. (Dieter Gewalt)
 
-[Mehr Lesen >](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)
+[Mehr lesen >](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)
 
 <div style="clear:  both"></div>
 
