@@ -50,7 +50,7 @@ Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das Video des US-amerik
 {% include bild.html datei="/bilder/arcyria_incarnata_02_wi.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Lachsfarbener Schleimpilz Tubulifera arachnoidea -- Roter Kelchstäubling Arcyria incarnata" %}
 
-Bisher 19 Schleimpilzarten aus 11 Gattungen (4 Familien) im Fundkorb. Weitere werden folgen.
+Bisher 19 Schleimpilzarten aus 12 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
 
 [](/pilze/diachaea-leucopodia-buckingham-schleimpilz)[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)  
 [Arcyria incarnata (Arcyriaceae) - Roter Kelchstäubling](/pilze/arcyria-incarnata-roter-kelchst%C3%A4ubling)  
