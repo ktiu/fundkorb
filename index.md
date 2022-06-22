@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_ciliatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maiporling *Polyporus ciliatus*. Während der Frühjahrsmonate könnte er bei flüchtiger Betrachtung mit dem zeitgleich vorkommenden Winterporling verwechselt werden. Im Juni ist mit diesem aber nicht mehr zu rechnen. Außerdem unterscheidet sich der Maiporling durch sehr feine Poren, die mit bloßem Auge kaum auszumachen sind. Beim Winterporling sind sie dagegen nicht zu übersehen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/polyporus-ciliatus-maiporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bovista_plumbea_01_mh.jpg" %}
 {% include abbildung_ende.html %}
 
