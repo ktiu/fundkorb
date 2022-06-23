@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopus_fusipes_03_he.jpg" %}
+{% include abbildung_ende.html %}
+
+23.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Spindelige Rübling *Gymnopus fusipes*. Er wächst meist dichtbüschelig am Grund von lebenden Eichen oder Eichenstubben. Seine stark knorpeligen verdrehten, längsrilligen und spindelförmigen Stiele, die zur Basis hin rostbraun gefärbt sind, lassen ihn leicht erkennen. Rostfarbige Flecken finden sich oft auch auf der Huthaut. Er ist zwar essbar, aber mit Sicherheit kein Leckerbissen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gymnopus-fusipes-spindeliger-r%C3%BCbling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_ciliatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 21.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bleigraue Zwergbovist *Bovista plumbea*. Er ist einer der häufigsten Pilzarten auf Rasenflächen und mit etwas Erfahrung kaum zu verwechseln. Bei reifen Fruchtkörpern zerplatzt die Haut wie bei einer Eierschale. Wie alle weißen Boviste (Stäublinge) ist er essbar. Wenn man ihn nicht isst, hat man allerdings nichts versäumt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_fulva_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fuchsige oder Rotbraune Scheidenstreifling *Amanita fulva*. Er gehört zu den häufigsten Wulstlingen und dürfte in kaum einem mitteleuropäischen Wald fehlen. Scheidenstreiflinge unterscheiden sich von den übrigen Wulstlingen durch die Merkmalskombination *"häutige Scheide an der Stielbasis + kein Ring im oberen Stielbereich"*. Er ist essbar, wegen seines muffigen Geschmacks aber mit Sicherheit keine Delikatesse. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_ionochlora_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Papageitäubling *Russula ionochlora*. Man könnte ihn auf den ersten Blick für einen schmächtigen Frauentäubling halten, dessen biegsame Lamellen aber <ins>nicht</ins> splittern. Der Papageitäubling ist ein guter Speisepilz, den ich wegen seines etwas festeren Fleisches mehr schätze als die üblichen Röhrlinge. Innerhalb der Täublinge bestehen Verwechslungsmöglichkeiten mit ebenfalls essbaren Arten, z. B. mit Reiftäublingen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
 
 <div style="clear:  both"></div>
 
