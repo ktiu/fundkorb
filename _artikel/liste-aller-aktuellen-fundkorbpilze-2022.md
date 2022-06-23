@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-22.06.2022: [Polyporus ciliatus - Maiporling](/pilze/polyporus-ciliatus-maiporling)  
+23.06.2022: [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-r%C3%BCbling)  
+22.06.2022: [Polyporus ciliatus - Maiporling](/pilze/polyporus-ciliatus-maiporling)\
 21.06.2022: [Bovista plumbea - Bleigrauer Zwergbovist](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)\
 20.06.2022: [Amanita fulva - Rotbrauner Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)\
 19.06.2022: [Russula ionochlora - Papageitäubling](/pilze/russula-ionochlora-papagei-täubling)\
