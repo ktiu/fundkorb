@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_arcularius_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weitlöcherige Stielporling *Polyporus arcularius*. Er ist zweifellos eine schönsten Arten unter den Stielporlingen, was auf die länglich wabenartigen, am Stiel herablaufenden Poren und den zart bewimperten Hutrand zurückzuführen ist. Er gilt als selten, ist im Rhein-Main-Gebeiet aber durchaus häufig. Dass die Stielporlinge neuerdings in der Gattung Lentinus (Sägeblättlinge) angesiedelt sind, löst bei den meisten Pilzfreunden nicht mehr nachvollziehbares Unverständnis aus, denn mit gesägten Lamellen hat ihr *[Hymenophor](Hymenophor "Glossar")* nicht die geringste Ähnlichkeit. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/polyporus-arcularius-weitl%C3%B6cheriger-stielporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gymnopus_fusipes_03_he.jpg" %}
 {% include abbildung_ende.html %}
 
