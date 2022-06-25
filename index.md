@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ramularia_rubella_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.06.2022: Kein einziger Pilz mit Hut und Stiel in unserer Parkanlage, aber trotzdem kein Problem, einen aktuellen [Fundkorbpilz](AA "Glossar-") aufzuspüren. Den Ampfer-Rost *Ramularia rubella* findet man an fast jeder Ampferpflanze, an deren Blätter er rundliche weinrötliche Flecken mit gelber Mitte bildet. Da auf dem gleichen Substrat mehrere Rostpilzarten vorkommen, ist auch auf Mikromerkmale zu achten, um die Bestimmung abzusichern. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ramularia-rubella-ampfer-rost)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_arcularius_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 23.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Spindelige Rübling *Gymnopus fusipes*. Er wächst meist dichtbüschelig am Grund von lebenden Eichen oder Eichenstubben. Seine stark knorpeligen verdrehten, längsrilligen und spindelförmigen Stiele, die zur Basis hin rostbraun gefärbt sind, lassen ihn leicht erkennen. Rostfarbige Flecken finden sich oft auch auf der Huthaut. Er ist zwar essbar, aber mit Sicherheit kein Leckerbissen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gymnopus-fusipes-spindeliger-r%C3%BCbling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_ciliatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maiporling *Polyporus ciliatus*. Während der Frühjahrsmonate könnte er bei flüchtiger Betrachtung mit dem zeitgleich vorkommenden Winterporling verwechselt werden. Im Juni ist mit diesem aber nicht mehr zu rechnen. Außerdem unterscheidet sich der Maiporling durch sehr feine Poren, die mit bloßem Auge kaum auszumachen sind. Beim Winterporling sind sie dagegen nicht zu übersehen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/polyporus-ciliatus-maiporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bovista_plumbea_01_mh.jpg" %}
-{% include abbildung_ende.html %}
-
-21.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bleigraue Zwergbovist *Bovista plumbea*. Er ist einer der häufigsten Pilzarten auf Rasenflächen und mit etwas Erfahrung kaum zu verwechseln. Bei reifen Fruchtkörpern zerplatzt die Haut wie bei einer Eierschale. Wie alle weißen Boviste (Stäublinge) ist er essbar. Wenn man ihn nicht isst, hat man allerdings nichts versäumt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)
 
 <div style="clear:  both"></div>
 
