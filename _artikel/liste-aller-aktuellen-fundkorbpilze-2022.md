@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-26.06.2022: [Coprinellus disseminatus - Gesäter Tintling](/pilze/coprinellus-disseminatus-gesäter-tintling)  
+27.06.2022: [Russula cyanoxantha - Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling)  
+26.06.2022: [Coprinellus disseminatus - Gesäter Tintling](/pilze/coprinellus-disseminatus-gesäter-tintling)\
 25.06.2022: [Ramularia rubella - Ampfer-Rost](/pilze/ramularia-rubella-ampfer-rost)\
 24.06.2022: [Polyporus arcularius - Weitlöcheriger Stielporling](/pilze/polyporus-arcularius-weitl%C3%B6cheriger-stielporling)\
 23.06.2022: [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-r%C3%BCbling)\
