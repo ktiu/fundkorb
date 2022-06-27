@@ -30,7 +30,7 @@ footer_scripts:
 
 26.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gesäte Tintling *Coprinellus disseminatus*. So schnell er nach einem Regenguss erscheint, so schnell kann er auch wieder verschwunden sein. Er könnte als Symbol für Vergänglichkeit gelten. Beeindruckend und kennzeichnend zugleich ist sein massenhaftes Vorkommen. Zu Hunderten ist der Normalfall, zu Tausenden keine Ausnahme. Nicht selten wachsen sie *"wie gesät"* am Rand von Bürgersteigen oder zwängen ihre zahlreichen Fruchtkörper zwischen Gehwegplatten hervor. Auch auf Rasenflächen sind sie zu finden. (Dieter Gewalt)
 
-[Mehr lese](/pilze/russula-cyanoxantha-frauentäubling)[n>](/pilze/russula-cyanoxantha-frauentäubling)
+[Mehr lesen >](/pilze/coprinellus-disseminatus-gesäter-tintling)
 
 <div style="clear:  both"></div>
 
