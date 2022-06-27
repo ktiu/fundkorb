@@ -13,12 +13,24 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_cyanoxantha_06_gg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Frauentäubling Russula cyanoxantha. Erfahrene Pilzsammler schätzen ihn mehr als Steinpilz oder Pfifferling. Täublinge zeichnen sich innerhalb ihrer Gattung durch eine zum Teil enorme Variabilität aus, was ihre exakte Bestimmung erschwert. Der Frauentäubling ist eine besonders farbvariable Art, an einem Alleinstellungsmerkmal aber gut zu erkennen. Im Gegensatz zu allen anderen Täublingen hat er <ins>nicht</ins> splitternde Lamellen. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/russula-cyanoxantha-frauentäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinellus_disseminatus_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
 26.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gesäte Tintling *Coprinellus disseminatus*. So schnell er nach einem Regenguss erscheint, so schnell kann er auch wieder verschwunden sein. Er könnte als Symbol für Vergänglichkeit gelten. Beeindruckend und kennzeichnend zugleich ist sein massenhaftes Vorkommen. Zu Hunderten ist der Normalfall, zu Tausenden keine Ausnahme. Nicht selten wachsen sie *"wie gesät"* am Rand von Bürgersteigen oder zwängen ihre zahlreichen Fruchtkörper zwischen Gehwegplatten hervor. Auch auf Rasenflächen sind sie zu finden. (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/coprinellus-disseminatus-gesäter-tintling)
+[Mehr lese](/pilze/russula-cyanoxantha-frauentäubling)[n>](/pilze/russula-cyanoxantha-frauentäubling)
 
 <div style="clear:  both"></div>
 
@@ -31,18 +43,6 @@ footer_scripts:
 25.06.2022: Kein einziger Pilz mit Hut und Stiel in unserer Parkanlage, aber trotzdem kein Problem, einen aktuellen [Fundkorbpilz](AA "Glossar-") aufzuspüren. Den Ampfer-Rost *Ramularia rubella* findet man an fast jeder Ampferpflanze, an deren Blätter er rundliche weinrötliche Flecken mit gelber Mitte bildet. Da auf dem gleichen Substrat mehrere Rostpilzarten vorkommen, ist auch auf Mikromerkmale zu achten, um die Bestimmung abzusichern. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/ramularia-rubella-ampfer-rost)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_arcularius_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weitlöcherige Stielporling *Polyporus arcularius*. Er ist zweifellos eine schönsten Arten unter den Stielporlingen, was auf die länglich wabenartigen, am Stiel herablaufenden Poren und den zart bewimperten Hutrand zurückzuführen ist. Er gilt als selten, ist im Rhein-Main-Gebeiet aber durchaus häufig. Dass die Stielporlinge neuerdings in der Gattung Lentinus (Sägeblättlinge) angesiedelt sind, löst bei den meisten Pilzfreunden nicht mehr nachvollziehbares Unverständnis aus, denn mit gesägten Lamellen hat ihr *[Hymenophor](Hymenophor "Glossar")* nicht die geringste Ähnlichkeit. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/polyporus-arcularius-weitl%C3%B6cheriger-stielporling)
 
 <div style="clear:  both"></div>
 
