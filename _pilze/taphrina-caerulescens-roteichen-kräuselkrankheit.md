@@ -17,8 +17,10 @@ hauptbild:
 {% include bild.html datei="/bilder/taphrina_caerulescens_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Die zu den [Ascomyzeten](Ascomyzeten "Glossar") gehörige Gattung Taphrina enthält [phytoparasitische](Phytoparasiten "Glossar") Pilzarten, die unter den deutschen Namen Narrentaschen, Hexenbesen und Kräuselkranheiten bekannt sind. Man könnte sie auch als Parasiten bezeichnen, Lebewesen, die auf Kosten anderer leben, obwohl sie ihrer Wirtspflanze nicht schaden sondern nur deren Blätter deformieren. Diese mehr oder weniger auffälligen Wucherungen sind meist blasen- oder beulenförmig und unterscheiden sich manchmal auch farblich vom Blattgrün.
+Die zu den [Ascomyzeten](Ascomyzeten "Glossar") gehörige Gattung Taphrina enthält [phytoparasitische](Phytoparasiten "Glossar") Pilzarten, die unter den deutschen Namen Narrentaschen, Hexenbesen und Kräuselkranheiten bekannt sind. Man könnte sie auch als Parasiten bezeichnen, Lebewesen, die auf Kosten anderer leben, obwohl sie ihrer Wirtspflanze nicht schaden sondern nur deren Blätter deformieren. Diese mehr oder weniger auffälligen Wucherungen sind meist blasen- oder beulenförmig und unterscheiden sich auch farblich vom Blattgrün. Sie sind deutlich heller. Von Wolfgang Lißner erhielt ich den wertvollen Hinweis, dass sich bei Sporenreife ein bläulicher Schimmer auf den befallenen Blattunterseiten einstellt.
 
-Ich habe *Taphrina caerulescens* bisher nur auf Blättern von Roteichen gesehen. Lt. Literatur soll sie auch auf Blättern unserer einheimischen Eichenarten vorkommen. Den lateinischen Artnamen *caerulescens* vermag ich nicht nachzuvollziehen. Die Blasen, die ich bisher auf Roteichenblättern gesehen habe, waren ausnahmlos hellgrün ohne eine Spur von blau.
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/taphrina_caerulescens_03_wl.jpg" %}
+{% include abbildung_ende.html legende="Foto: Wolfgang Lißner" %}
 
 Im Englischen heißt dieser Pilz Oak Leave Blister  (blister = Blase. Beule)
