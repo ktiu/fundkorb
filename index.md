@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinus_strigosus_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Borstige Knäueling *Lentinus strigosus*. Bei den Begriffen *"borstig"* und *"Knäueling"* erwartet man nicht gerade einen besonders attraktiven Pilz, aber genau das ist er oder kann es im perfekten Wachstumsstadium zumindest sein. Dabei fühlt er sich keineswegs borstig sondern samtig zart an. Er wächst an toten Stämmen und Stümpfen von Laubbäumen und wird als seltene Art in Roten Listen geführt. In den Wäldern bei Dietzenbach ist er seit einigen Jahren an mehreren Stellen zu finden, meist zu vielen gesellig und bisher ausschließlich an Buche. Selbst sonnenexponierte Standorte scheint er problemlos zu tolerieren. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lentinus-strigosus-borstiger-knäueling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_cyanoxantha_06_gg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 26.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gesäte Tintling *Coprinellus disseminatus*. So schnell er nach einem Regenguss erscheint, so schnell kann er auch wieder verschwunden sein. Er könnte als Symbol für Vergänglichkeit gelten. Beeindruckend und kennzeichnend zugleich ist sein massenhaftes Vorkommen. Zu Hunderten ist der Normalfall, zu Tausenden keine Ausnahme. Nicht selten wachsen sie *"wie gesät"* am Rand von Bürgersteigen oder zwängen ihre zahlreichen Fruchtkörper zwischen Gehwegplatten hervor. Auch auf Rasenflächen sind sie zu finden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/coprinellus-disseminatus-gesäter-tintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ramularia_rubella_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.06.2022: Kein einziger Pilz mit Hut und Stiel in unserer Parkanlage, aber trotzdem kein Problem, einen aktuellen [Fundkorbpilz](AA "Glossar-") aufzuspüren. Den Ampfer-Rost *Ramularia rubella* findet man an fast jeder Ampferpflanze, an deren Blätter er rundliche weinrötliche Flecken mit gelber Mitte bildet. Da auf dem gleichen Substrat mehrere Rostpilzarten vorkommen, ist auch auf Mikromerkmale zu achten, um die Bestimmung abzusichern. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ramularia-rubella-ampfer-rost)
 
 <div style="clear:  both"></div>
 
