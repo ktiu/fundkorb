@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-28.06.2022: [Lentinus strigosus - Borstiger Knäueling](/pilze/lentinus-strigosus-borstiger-knäueling)  
+29.06.2022: [Russula pectinatoides - Kratzender Kammtäubling](/pilze/russula-pectinatoides-kratzender-kammtäubling)  
+28.06.2022: [Lentinus strigosus - Borstiger Knäueling](/pilze/lentinus-strigosus-borstiger-knäueling)\
 27.06.2022: [Russula cyanoxantha - Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling)\
 26.06.2022: [Coprinellus disseminatus - Gesäter Tintling](/pilze/coprinellus-disseminatus-gesäter-tintling)\
 25.06.2022: [Ramularia rubella - Ampfer-Rost](/pilze/ramularia-rubella-ampfer-rost)\
