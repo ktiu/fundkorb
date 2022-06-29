@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_pectinatoides_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kratzende Kammtäubling *Russula pectinatoides*. Es handelt sich um eine häufige Art in einer überschaubaren Gruppe von Täublingen, die durch kammartig geriefte Hutränder gekennzeichnet ist. Sein Doppelgänger ist der scharf schmeckende Camembert-Täubling *Russula amoenolens*. Der Kratzende ist zwar nicht scharf, aber keineswegs angenehm im Geschmack. Bei einer Probe bewirkt er ein kratzendes Gefühl auf der Zunge oder im Rachen. Für Speisezwecke kommt er nicht in Frage. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-pectinatoides-kratzender-kammtäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lentinus_strigosus_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
