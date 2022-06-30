@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agrocybe_pediades_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+30.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Halbkugelige Ackerling *Agrocybe pediades*, ein häufiger kleiner Blätterpilz, der gewöhnlich auf Wiesen, Weiden und anderen grasigen Stellen wächst. Zur Zeit ist er in passenden Biotopen fast überall zu finden, aber leicht zu übersehen. Wegen seiner ockergelblichen Hutfarbe und den bei Reife rostbraunen Lamellen könnte man ihn bei den *"little brown mushrooms"* einordnen, die wenig Beachtung finden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agrocybe-pediades-halbkugeliger-ackerling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_pectinatoides_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 28.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Borstige Knäueling *Lentinus strigosus*. Bei den Begriffen *"borstig"* und *"Knäueling"* erwartet man nicht gerade einen besonders attraktiven Pilz, aber genau das ist er oder kann es im perfekten Wachstumsstadium zumindest sein. Dabei fühlt er sich keineswegs borstig sondern samtig zart an. Er wächst an toten Stämmen und Stümpfen von Laubbäumen und wird als seltene Art in Roten Listen geführt. In den Wäldern bei Dietzenbach ist er seit einigen Jahren an mehreren Stellen zu finden, meist zu vielen gesellig und bisher ausschließlich an Buche. Selbst sonnenexponierte Standorte scheint er problemlos zu tolerieren. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lentinus-strigosus-borstiger-knäueling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_cyanoxantha_06_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Frauentäubling Russula cyanoxantha. Erfahrene Pilzsammler schätzen ihn mehr als Steinpilz oder Pfifferling. Täublinge zeichnen sich innerhalb ihrer Gattung durch eine zum Teil enorme Variabilität aus, was ihre exakte Bestimmung erschwert. Der Frauentäubling ist eine besonders farbvariable Art, an einem Alleinstellungsmerkmal aber gut zu erkennen. Im Gegensatz zu allen anderen Täublingen hat er <ins>nicht</ins> splitternde Lamellen. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/russula-cyanoxantha-frauentäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinellus_disseminatus_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-26.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gesäte Tintling *Coprinellus disseminatus*. So schnell er nach einem Regenguss erscheint, so schnell kann er auch wieder verschwunden sein. Er könnte als Symbol für Vergänglichkeit gelten. Beeindruckend und kennzeichnend zugleich ist sein massenhaftes Vorkommen. Zu Hunderten ist der Normalfall, zu Tausenden keine Ausnahme. Nicht selten wachsen sie *"wie gesät"* am Rand von Bürgersteigen oder zwängen ihre zahlreichen Fruchtkörper zwischen Gehwegplatten hervor. Auch auf Rasenflächen sind sie zu finden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coprinellus-disseminatus-gesäter-tintling)
 
 <div style="clear:  both"></div>
 
