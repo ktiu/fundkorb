@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-30.06.2022: [Agrocybe pediades - Halbkugeliger Ackerling](/pilze/agrocybe-pediades-halbkugeliger-ackerling)  
+01.07.2022: [Scleroderma bovista - Netzsporiger Kartoffelbovist](/pilze/scleroderma-bovista-netzsporiger-kartoffelbovist)
+
+30.06.2022: [Agrocybe pediades - Halbkugeliger Ackerling](/pilze/agrocybe-pediades-halbkugeliger-ackerling)\
 29.06.2022: [Russula pectinatoides - Kratzender Kammtäubling](/pilze/russula-pectinatoides-kratzender-kammtäubling)\
 28.06.2022: [Lentinus strigosus - Borstiger Knäueling](/pilze/lentinus-strigosus-borstiger-knäueling)\
 27.06.2022: [Russula cyanoxantha - Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling)\
