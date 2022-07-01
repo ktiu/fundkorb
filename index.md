@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/scleroderma_bovista_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.07.2022: Dass es sich bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") um einen Kartoffelbovist handelt, ist wegen der glatten Außenhaut nicht auf den ersten Blick ersichtlich. Im Alter oder angeschnitten zeigt der Netzsporige Kartoffelbovist *Scleroderma bovista* jedoch seine wahre Natur. Dann wird die Außenhaut rissig, die [Gleba](Gleba "Glossar") schwarz. Um die Art sicher von anderen Kartoffelbovisten zu unterscheiden, sollte mikroskopiert werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/scleroderma-bovista-netzsporiger-kartoffelbovist)
+
+<div style="clear:  both"></div> Aktueller Fundkorbpilz
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agrocybe_pediades_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 29.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kratzende Kammtäubling *Russula pectinatoides*. Es handelt sich um eine häufige Art in einer überschaubaren Gruppe von Täublingen, die durch kammartig geriefte Hutränder gekennzeichnet ist. Sein Doppelgänger ist der scharf schmeckende Camembert-Täubling *Russula amoenolens*. Der Kratzende ist zwar nicht scharf, aber keineswegs angenehm im Geschmack. Bei einer Probe bewirkt er ein kratzendes Gefühl auf der Zunge oder im Rachen. Für Speisezwecke kommt er nicht in Frage. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-pectinatoides-kratzender-kammtäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lentinus_strigosus_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Borstige Knäueling *Lentinus strigosus*. Bei den Begriffen *"borstig"* und *"Knäueling"* erwartet man nicht gerade einen besonders attraktiven Pilz, aber genau das ist er oder kann es im perfekten Wachstumsstadium zumindest sein. Dabei fühlt er sich keineswegs borstig sondern samtig zart an. Er wächst an toten Stämmen und Stümpfen von Laubbäumen und wird als seltene Art in Roten Listen geführt. In den Wäldern bei Dietzenbach ist er seit einigen Jahren an mehreren Stellen zu finden, meist zu vielen gesellig und bisher ausschließlich an Buche. Selbst sonnenexponierte Standorte scheint er problemlos zu tolerieren. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lentinus-strigosus-borstiger-knäueling)
 
 <div style="clear:  both"></div>
 
