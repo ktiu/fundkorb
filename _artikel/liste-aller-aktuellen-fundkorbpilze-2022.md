@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
+02.07.2022: [Lactarius subdulcis - Süßlicher Milchling](/pilze/lactarius-subdulcis-süßlicher-milchling)  
 01.07.2022: [Scleroderma bovista - Netzsporiger Kartoffelbovist](/pilze/scleroderma-bovista-netzsporiger-kartoffelbovist)
 
 30.06.2022: [Agrocybe pediades - Halbkugeliger Ackerling](/pilze/agrocybe-pediades-halbkugeliger-ackerling)\
