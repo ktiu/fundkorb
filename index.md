@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_subdulcis_03_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+02.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Süßliche Milchling *Lactarius subdulcis*. Weshalb er *"süßlich"* genannt wird, entzieht sich meinem Veständnis. Er riecht nach Blattwanzen und seine weiße Milch hat einen zwar milden, aber leicht bitteren Geschmack. Als Speisepilz kann er bei üblicher Zubereitung also kaum empfohlen werden. Er gehört zu den häufigsten Milchlingsarten, ist in Laubwäldern und hier insbesondere bei Buchen eine allgegenwärtige Art. Da es zahlreiche braune Milchlinge gibt, ist es nicht immer leicht, sie sicher zu unterscheiden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lactarius-subdulcis-süßlicher-milchling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/scleroderma_bovista_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
