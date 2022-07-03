@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_vesca_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Speisetäubling *Russula vesca*. Er gehört zweifellos zu den Premiumarten unter den Täublingen, ist von Anfängern aber nicht ganz einfach von anderen roten oder rötlichen Täublingen zu unterscheiden. Wenn er ein wichtiges Merkmal, die etwas zu kurz geratene Huthaut, deutlich zeigt und einen milden, angenehm nussigen Geschmack hat, darf man ihn getrost in der Küche verwenden. Er ist relativ häufig und vom Sommer bis in den Herbst in Laub- und Mischwäldern zu finden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-vesca-frauentäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_subdulcis_03_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 01.07.2022: Dass es sich bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") um einen Kartoffelbovist handelt, ist wegen der glatten Außenhaut nicht auf den ersten Blick ersichtlich. Im Alter oder angeschnitten zeigt der Netzsporige Kartoffelbovist *Scleroderma bovista* jedoch seine wahre Natur. Dann wird die Außenhaut rissig, die [Gleba](Gleba "Glossar") schwarz. Um die Art sicher von anderen Kartoffelbovisten zu unterscheiden, sollte mikroskopiert werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/scleroderma-bovista-netzsporiger-kartoffelbovist)
-
-<div style="clear:  both"></div> Aktueller Fundkorbpilz
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agrocybe_pediades_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-30.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Halbkugelige Ackerling *Agrocybe pediades*, ein häufiger kleiner Blätterpilz, der gewöhnlich auf Wiesen, Weiden und anderen grasigen Stellen wächst. Zur Zeit ist er in passenden Biotopen fast überall zu finden, aber leicht zu übersehen. Wegen seiner ockergelblichen Hutfarbe und den bei Reife rostbraunen Lamellen könnte man ihn bei den *"little brown mushrooms"* einordnen, die wenig Beachtung finden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agrocybe-pediades-halbkugeliger-ackerling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_pectinatoides_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.06.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kratzende Kammtäubling *Russula pectinatoides*. Es handelt sich um eine häufige Art in einer überschaubaren Gruppe von Täublingen, die durch kammartig geriefte Hutränder gekennzeichnet ist. Sein Doppelgänger ist der scharf schmeckende Camembert-Täubling *Russula amoenolens*. Der Kratzende ist zwar nicht scharf, aber keineswegs angenehm im Geschmack. Bei einer Probe bewirkt er ein kratzendes Gefühl auf der Zunge oder im Rachen. Für Speisezwecke kommt er nicht in Frage. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-pectinatoides-kratzender-kammtäubling)
 
 <div style="clear:  both"></div>
 
