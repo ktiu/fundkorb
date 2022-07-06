@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/taphrina_farlowii_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Verursacher der Traubenkirschen-Kräuselkrankheit *Taphrina farlowii*. Klingt dramatisch, ist aber halb so wild. Der Pilz deformiert lediglich die Blätter und fügt der Pflanze keinen nachhaltigen Schaden zu. Das Schadbild besteht aus beulen- oder blasenförmigen Wucherungen, die sich farblich vom Blattgrün unterscheiden können. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/taphrina-farlowii-traubenkirschen-kräuselkrankheit)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinellus_domesticus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -28,33 +40,9 @@ footer_scripts:
 {% include bild.html datei="/bilder/cyathus_striatus_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-04.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gestreifte Teuerling *Cyathus striatus*. Sie sehen aus wie struppige Tütchen, die anfangs mit einem hellen Häutchen verschlossen sind, das bald aufreißt und den Blick ins Innere freigibt. Darin liegen winzige münzenförmige Gebilde, in denen der Pilz, der gar nicht wie ein Pilz aussieht, seine Sporen bildet. Sind es wenige Münzen, stehen teure Zeiten an. Sind es viele, leiden wir keinen Mangel. So einfach ist das und deshalb heißen die Tütchen auch Teuerlinge. Zur Zeit sollten sie also nur ganz wenige Münzen enthalten, die von Mykologen *[Peridiolen](<Peridiole "Glossar">)* genannt werden. (Dieter Gewalt)
+04.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gestreifte Teuerling *Cyathus striatus*. Sie sehen aus wie struppige Tütchen, die anfangs mit einem hellen Häutchen verschlossen sind, das bald aufreißt und den Blick ins Innere freigibt. Darin liegen winzige münzenförmige Gebilde, in denen der Pilz, der gar nicht wie ein Pilz aussieht, seine Sporen bildet. Sind es wenige Münzen, stehen teure Zeiten an. Sind es viele, leiden wir keinen Mangel. So einfach ist das und deshalb heißen die Tütchen auch Teuerlinge. Zur Zeit sollten sie also nur ganz wenige Münzen enthalten, die von Mykologen *[Peridiolen](Peridiole "Glossar")* genannt werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cyathus-striatus-gestreifter-teuerling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_vesca_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Speisetäubling *Russula vesca*. Er gehört zweifellos zu den Premiumarten unter den Täublingen, ist von Anfängern aber nicht ganz einfach von anderen roten oder rötlichen Täublingen zu unterscheiden. Wenn er ein wichtiges Merkmal, die etwas zu kurz geratene Huthaut, deutlich zeigt und einen milden, angenehm nussigen Geschmack hat, darf man ihn getrost in der Küche verwenden. Er ist relativ häufig und vom Sommer bis in den Herbst in Laub- und Mischwäldern zu finden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-vesca-frauentäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_subdulcis_03_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-02.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Süßliche Milchling *Lactarius subdulcis*. Weshalb er *"süßlich"* genannt wird, entzieht sich meinem Veständnis. Er riecht nach Blattwanzen und seine weiße Milch hat einen zwar milden, aber leicht bitteren Geschmack. Als Speisepilz kann er bei üblicher Zubereitung also kaum empfohlen werden. Er gehört zu den häufigsten Milchlingsarten, ist in Laubwäldern und hier insbesondere bei Buchen eine allgegenwärtige Art. Da es zahlreiche braune Milchlinge gibt, ist es nicht immer leicht, sie sicher zu unterscheiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lactarius-subdulcis-süßlicher-milchling)
 
 <div style="clear:  both"></div>
 
