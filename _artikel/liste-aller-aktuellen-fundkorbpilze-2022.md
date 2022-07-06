@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-05.07.2022: [Coprinellus domesticus - Haustintling](/pilze/coprinellus-domesticus-haustintling)  
+06.07.2022: [Taphrina farlowii - Traubenkirschen-Kräuselkrankheit](/pilze/taphrina-farlowii-traubenkirschen-kräuselkrankheit)  
+05.07.2022: [Coprinellus domesticus - Haustintling](/pilze/coprinellus-domesticus-haustintling)\
 04.07.2022: [Cyathus striatus - Gestreifter Teuerling](/pilze/cyathus-striatus-gestreifter-teuerling)\
 03.07.2022: [Russula vesca - Speisetäubling](/pilze/russula-vesca-frauentäubling)\
 02.07.2022: [Lactarius subdulcis - Süßlicher Milchling](/pilze/lactarius-subdulcis-süßlicher-milchling)\
