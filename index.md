@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_insignitum_02_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+07.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze zeichnen sich durch ungestielte meist flache Fruchtkörper und ein glattes, höchstens runzeliges [Hymenophor](Hymenophor "Glossar") aus. Der Braunsamtige gehört zweifellos zu den attraktivsten, hat mit dem Samtigen Schichtpilz *Stereum subtomentosum* aber einen Doppelgänger, mit dem er leicht verwechselt werden kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/taphrina_farlowii_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 05.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haustintling *Coprinellus domesticus*. Er ähnelt dem sehr viel häufigeren Glimmertintling, ist aber größer und wächst eher einzeln oder zu wenigen an totem oder auch im Boden vergrabenem Holz, das er manchmal mit einem rostfarbenen *[Ozonium](Ozonium "Glossar")* überzieht. Vor allem ist sein Stiel auf ganzer Länge gerieft, ein Alleinstellungsmerkmal, das ihn von allen ähnlichen Tintlingen unterscheidet. Seinen Namen hat er erhalten, weil er tatsächlich an altem verbautem Holz in Häusern vorkommen kann. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/coprinellus-domesticus-haustintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cyathus_striatus_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gestreifte Teuerling *Cyathus striatus*. Sie sehen aus wie struppige Tütchen, die anfangs mit einem hellen Häutchen verschlossen sind, das bald aufreißt und den Blick ins Innere freigibt. Darin liegen winzige münzenförmige Gebilde, in denen der Pilz, der gar nicht wie ein Pilz aussieht, seine Sporen bildet. Sind es wenige Münzen, stehen teure Zeiten an. Sind es viele, leiden wir keinen Mangel. So einfach ist das und deshalb heißen die Tütchen auch Teuerlinge. Zur Zeit sollten sie also nur ganz wenige Münzen enthalten, die von Mykologen *[Peridiolen](Peridiole "Glossar")* genannt werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cyathus-striatus-gestreifter-teuerling)
 
 <div style="clear:  both"></div>
 
