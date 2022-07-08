@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phaeolus_spadiceus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kiefernbraunporling *Phaeolus schweinitzii*. Hermann Jahn hat ihn einmal so charakterisiert: *"Forstpathologen ist er als übler Stammfäuleerreger bekannt, der vor allem die Kiefer angreift, aber auch Fichte, Douglasie, Tanne und Lärche..."* Eshandelt sich um eine einjährige unregelmäßig kreiselförmige Art von dunkelbrauner Farbe, deren Zuwachszonen lebhaft gelb oder grüngelblich gefärbt sind. In der Rhein-Main-Ebene ist sie in fast jedem Kiefernbestand zu finden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phaeolus-spadiceus-kiefernbraunporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_insignitum_02_wp.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 06.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Verursacher der Traubenkirschen-Kräuselkrankheit *Taphrina farlowii*. Klingt dramatisch, ist aber halb so wild. Der Pilz deformiert lediglich die Blätter und fügt der Pflanze keinen nachhaltigen Schaden zu. Das Schadbild besteht aus beulen- oder blasenförmigen Wucherungen, die sich farblich vom Blattgrün unterscheiden können. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/taphrina-farlowii-traubenkirschen-kräuselkrankheit)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinellus_domesticus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haustintling *Coprinellus domesticus*. Er ähnelt dem sehr viel häufigeren Glimmertintling, ist aber größer und wächst eher einzeln oder zu wenigen an totem oder auch im Boden vergrabenem Holz, das er manchmal mit einem rostfarbenen *[Ozonium](Ozonium "Glossar")* überzieht. Vor allem ist sein Stiel auf ganzer Länge gerieft, ein Alleinstellungsmerkmal, das ihn von allen ähnlichen Tintlingen unterscheidet. Seinen Namen hat er erhalten, weil er tatsächlich an altem verbautem Holz in Häusern vorkommen kann. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coprinellus-domesticus-haustintling)
 
 <div style="clear:  both"></div>
 
