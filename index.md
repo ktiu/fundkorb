@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_galericulata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.07.2022: Zur Zeit ist es zwar knochentrocken in unseren Wäldern im Rhein-Main-Gebiet, aber Pilze, die an Holz oder auch an vergrabenen Holzresten im Boden wachsen, sind immer mal wieder zu finden. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rosablättrige Helmling *Mycena galericulata*. Er ist ausgesprochen häufig und erscheint meist gesellig bis büschelig wie hier abgebildet. Seinen deutschen Namen muss man nicht allzu wörtlich nehmen, denn rosa sind seine Lamellen meist nicht sondern weiß. Erst im Alter zeigen sie diese Farbe und das auch oft nur blass angehaucht. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-galericulata-rosablättriger-helmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phaeolus_spadiceus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 07.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze zeichnen sich durch ungestielte meist flache Fruchtkörper und ein glattes, höchstens runzeliges [Hymenophor](Hymenophor "Glossar") aus. Der Braunsamtige gehört zweifellos zu den attraktivsten, hat mit dem Samtigen Schichtpilz *Stereum subtomentosum* aber einen Doppelgänger, mit dem er leicht verwechselt werden kann. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/taphrina_farlowii_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Verursacher der Traubenkirschen-Kräuselkrankheit *Taphrina farlowii*. Klingt dramatisch, ist aber halb so wild. Der Pilz deformiert lediglich die Blätter und fügt der Pflanze keinen nachhaltigen Schaden zu. Das Schadbild besteht aus beulen- oder blasenförmigen Wucherungen, die sich farblich vom Blattgrün unterscheiden können. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/taphrina-farlowii-traubenkirschen-kräuselkrankheit)
 
 <div style="clear:  both"></div>
 
