@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/protomyces_macrosporus_02_wl.jpg" %}
+{% include abbildung_ende.html %}
+
+10.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Doldenblütler-Schwielenpilz *Protomyces macrosporus*. Dieser an verschiedenen Doldenblüten-Gewächsen, in diesem Fall an Giersch (*Aegopodium podagraria*) vorkommende Pilz gehört zu den Wucherlingen und ist ein [Ascomyzet](Ascomyzeten "Glossar"). In der Vegetationszeit von April bis November ist er häufig an seinen Wirtspflanzen anzutreffen. Er bildet keine Fruchtkörper aus, sondern verursacht nach Infektion der Pflanze schwielenförmige Wucherungen.  (Wolfgang Lißner)
+
+[Mehr lesen >](/pilze/protomyces-macrosporus-doldenblütler-schwielenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_galericulata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 08.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kiefernbraunporling *Phaeolus schweinitzii*. Hermann Jahn hat ihn einmal so charakterisiert: *"Forstpathologen ist er als übler Stammfäuleerreger bekannt, der vor allem die Kiefer angreift, aber auch Fichte, Douglasie, Tanne und Lärche..."* Eshandelt sich um eine einjährige unregelmäßig kreiselförmige Art von dunkelbrauner Farbe, deren Zuwachszonen lebhaft gelb oder grüngelblich gefärbt sind. In der Rhein-Main-Ebene ist sie in fast jedem Kiefernbestand zu finden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phaeolus-spadiceus-kiefernbraunporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_insignitum_02_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-07.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze zeichnen sich durch ungestielte meist flache Fruchtkörper und ein glattes, höchstens runzeliges [Hymenophor](Hymenophor "Glossar") aus. Der Braunsamtige gehört zweifellos zu den attraktivsten, hat mit dem Samtigen Schichtpilz *Stereum subtomentosum* aber einen Doppelgänger, mit dem er leicht verwechselt werden kann. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
 
 <div style="clear:  both"></div>
 
