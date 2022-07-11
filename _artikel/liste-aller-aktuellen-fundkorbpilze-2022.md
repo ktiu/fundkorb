@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-10.07.2022: [Protomyces macrosporus - Doldenblütler-Schwielenpilz](/pilze/protomyces-macrosporus-doldenblütler-schwielenpilz)  
+11.07.2022: [Amanita strobiliformis - Fransiger Wulstling](/pilze/amanita-strobiliformis-fransiger-wulstling)  
+10.07.2022: [Protomyces macrosporus - Doldenblütler-Schwielenpilz](/pilze/protomyces-macrosporus-doldenblütler-schwielenpilz)\
 09.07.2022: [Mycena galericulata - Rosablättriger Helmling](/pilze/mycena-galericulata-rosablättriger-helmling)\
 08.07.2022: [Phaeolus schweinitzii - Kiefernbraunporling](/pilze/phaeolus-spadiceus-kiefernbraunporling)\
 07.07.2022: [Stereum insignitum - Braunsamtiger Schichtpilz](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)\
