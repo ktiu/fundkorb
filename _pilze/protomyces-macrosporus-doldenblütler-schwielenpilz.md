@@ -43,5 +43,8 @@ Die großen runden Zellen sind aber keine Ascosporen. Deshalb ist „großsporig
 >
 > Der Erstbeschreiber der Gattung Protomyces, Unger, hat 1833 das Epithet macrosporus an die Protomyces-Art auf Aegopodium vergeben, weil die von ihm gesehenen Dauerstadien einen viel größeren Durchmesser hatten, als die eines anderen von ihm als Protomyces-Art eingestuften Parasiten auf Ranunculus repens – diese heißt dann bei Unger Protomyces microsporus. Reddy und Cramer (1975) haben aber diese Art aus der Gattung ausgeschlossen, es handelt sich dabei um einen Brandpilz der Gattung Entyloma, der auch seine Sporen – in diesem Fall sind es tatsächlich Sporen – im Gewebe des Wirts bildet."
 >
-> {% include abbildung_start.html stil="standard" %}
-> {% include abbildung_ende.html %}
+> {% include abbildung_start.html stil="klein" %}
+> {% include bild.html datei="/bilder/protomyces_macrosporus_06_hl.png" nocrop=true gross=true %}
+> {% include bild.html datei="/bilder/protomyces_macrosporus_04_hl.jpg" nocrop=true gross=true %}
+> {% include bild.html datei="/bilder/protomyces_macrosporus_05_hl.jpg" nocrop=true gross=true %}
+> {% include abbildung_ende.html legende="Abbildung De Bary - 2 Mikrofotos: Hermine Lotz-Winter" %}
