@@ -11,6 +11,16 @@ profil:
 hauptbild:
   anzeige: false
   datei: /bilder/protomyces_macrosporus_01_wl.jpg
+literatur:
+  - text: De Bary A (1884) Vergleichende Morphologie und Biologie der Pilze
+      Mycetozoen und Bacterien. Engelmann, Leipzig, 558 S
+  - text: "Kurtzman CP (2011) Protomyces Unger (1833) In: Kurtzman CP, Fell JW,
+      Boekhout T (ed) The Yeasts, 5th edn. Elsevier, St. Louis, pp 725–731"
+  - text: "Reddy S, Kramer CL (1975) A taxonomic revision oft he Protomycetales.
+      Mycotaxon 3: 1–50¬"
+  - text: "Unger F (1833): Die Exantheme der Pflanzen und einige mit diesen
+      verwandte Krankheiten der Gewächse. Gerold, Wien, 422 p"
+  - url: https://jule.pflanzenbestimmung.de/protomyces-macrosporus/
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/protomyces_macrosporus_01_wl.jpg" nocrop=true gross=true %}
