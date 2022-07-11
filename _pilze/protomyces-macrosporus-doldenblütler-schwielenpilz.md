@@ -47,4 +47,4 @@ Die großen runden Zellen sind aber keine Ascosporen. Deshalb ist „großsporig
 {% include bild.html datei="/bilder/protomyces_macrosporus_06_hl.png" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/protomyces_macrosporus_04_hl.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/protomyces_macrosporus_05_hl.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Abbildung links: De Bary -- 2 Mikrofotos: Hermine Lotz-Winter" %}
