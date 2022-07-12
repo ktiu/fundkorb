@@ -12,6 +12,10 @@ footer_scripts:
 
 - - -
 
+12.07.2022: Nachricht aus Wiesbaden: "Gestern aufgenommen, 18:00 Uhr. Drei Satansröhrlinge direkt bei uns hinter dem Haus auf der Wiese. Viele Grüße Thomas Lamberty" Klarer Fall - das muss der aktuelle Fundkorbpilz des Tages werden, auch wenn die drei total vermadet waren. Kein Problem. Die hätte man auch madenfrei nicht gegessen. Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_strobiliformis_04_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -31,18 +35,6 @@ footer_scripts:
 10.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Doldenblütler-Schwielenpilz *Protomyces macrosporus*. Dieser an verschiedenen Doldenblüten-Gewächsen, in diesem Fall an Giersch (*Aegopodium podagraria*) vorkommende Pilz gehört zu den Wucherlingen und ist ein [Ascomyzet](Ascomyzeten "Glossar"). In der Vegetationszeit von April bis November ist er häufig an seinen Wirtspflanzen anzutreffen. Er bildet keine Fruchtkörper aus, sondern verursacht nach Infektion der Pflanze schwielenförmige Wucherungen.  (Wolfgang Lißner)
 
 [Mehr lesen >](/pilze/protomyces-macrosporus-doldenblütler-schwielenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_galericulata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.07.2022: Zur Zeit ist es zwar knochentrocken in unseren Wäldern im Rhein-Main-Gebiet, aber Pilze, die an Holz oder auch an vergrabenen Holzresten im Boden wachsen, sind immer mal wieder zu finden. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rosablättrige Helmling *Mycena galericulata*. Er ist ausgesprochen häufig und erscheint meist gesellig bis büschelig wie hier abgebildet. Seinen deutschen Namen muss man nicht allzu wörtlich nehmen, denn rosa sind seine Lamellen meist nicht sondern weiß. Erst im Alter zeigen sie diese Farbe und das auch oft nur blass angehaucht. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-galericulata-rosablättriger-helmling)
 
 <div style="clear:  both"></div>
 
