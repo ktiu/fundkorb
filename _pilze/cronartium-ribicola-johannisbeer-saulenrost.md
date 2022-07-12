@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Cronartium ribicola
-  deutsch: Johannisbeer-Saulenrost
+  deutsch: Johannisbeer-Säulenrost
   referenz: J.C. Fisch. 1872
   erlaeuterung: ribicola = Ribes bewohnend
   familie: Cronartiaceae
