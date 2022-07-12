@@ -12,7 +12,15 @@ footer_scripts:
 
 - - -
 
-12.07.2022: Nachricht aus Wiesbaden: "Gestern aufgenommen, 18:00 Uhr. Drei Satansröhrlinge direkt bei uns hinter dem Haus auf der Wiese. Viele Grüße Thomas Lamberty" Klarer Fall - das muss der aktuelle Fundkorbpilz des Tages werden, auch wenn die drei total vermadet waren. Kein Problem. Die hätte man auch madenfrei nicht gegessen. Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_satanas_fundkorbpilz.jpg" %}
+{% include abbildung_ende.html %}
+
+12.07.2022: Nachricht aus Wiesbaden: *"Gestern aufgenommen, 18:00 Uhr. Drei Satansröhrlinge direkt bei uns hinter dem Haus auf der Wiese. Viele Grüße Thomas Lamberty"* Klarer Fall - das muss der aktuelle [Fundkorbpilz](AA "Glossar-") des Tages werden, auch wenn die drei total vermadet waren. Kein Problem. Die hätte man auch madenfrei nicht gegessen.
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
 
 - - -
 
