@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/scutellinia_crinita_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.07.2022: Auch bei Trockenheit hat man an Gewässerufern eine Chance, fündig zu werden. Gezielt gesucht und gefunden wurde unser aktueller [Fundkorbpilz](AA "Glossar-") an einem der Seen nahe der Eppertshausener Thomashütte. Es ist der Bewimperte Schildborsling  *Scutellinia crinita*. Nicht zuletzt wegen seines bevorzugten Vorkommens an nass liegendem Holz wird er auch *Sumpfschildborstling* genannt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/scutellinia-crinita-bewimperter-schildborstling-sumpfschildborstling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_satanas_fundkorbpilz.jpg" %}
 {% include abbildung_ende.html %}
 
