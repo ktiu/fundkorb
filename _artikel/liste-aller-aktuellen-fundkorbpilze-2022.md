@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-12.07.2022: [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)  
+13.07.2022: [Scutellinia crinita - Bewimperter Schildborstling](/pilze/scutellinia-crinita-bewimperter-schildborstling-sumpfschildborstling)  
+12.07.2022: [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)\
 11.07.2022: [Amanita strobiliformis - Fransiger Wulstling](/pilze/amanita-strobiliformis-fransiger-wulstling)\
 10.07.2022: [Protomyces macrosporus - Doldenblütler-Schwielenpilz](/pilze/protomyces-macrosporus-doldenblütler-schwielenpilz)\
 09.07.2022: [Mycena galericulata - Rosablättriger Helmling](/pilze/mycena-galericulata-rosablättriger-helmling)\
