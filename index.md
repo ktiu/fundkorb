@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tapinella_atrotomentosa_04_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+14.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der  Samtfußkrempling *Tapinella atrotomentosa*. Da er ausschließlich an Holz wächst, ist er nicht so vom Wetter abhängig und  auch bei Trockenheit zu finden. Sein Wachstum an Holz ist auch der Grund, weshalb er nicht mehr zur Verwandtschaft des Kahlen Kremplings zählt und als *"Holzkrempling"* in die neue Gattung *Tapinella* gestellt wurde. Er sieht zwar sympathisch und appetitlich aus, aber sein muffiger Geschmack macht ihn leider ungenießbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tapinella-atrotomentosa-samtfußkrempling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/scutellinia_crinita_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 12.07.2022: Nachricht aus Wiesbaden: *"Gestern aufgenommen, 18:00 Uhr. Drei Satansröhrlinge direkt bei uns hinter dem Haus auf der Wiese. Viele Grüße Thomas Lamberty"* Klarer Fall - das muss der aktuelle [Fundkorbpilz](AA "Glossar-") des Tages werden, auch wenn die drei total vermadet waren. Kein Problem. Die hätte man auch madenfrei nicht gegessen.
 
 [Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_strobiliformis_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fransige Wulstling *Amanita strobiliformis*. *Daniela Toller* hat ihn im Stadtgebiet von Offenbach gefunden. Hier erfüllt der durch Bautätigkeit verursachte Kalkeintrag in den Boden einen wichtigen ökologische Anspruch von Pilzen, die saure Böden meiden. An solchen Standorten ist der ansonsten seltene Fransige Wulstling immer mal wieder zu finden. Er ist essbar und soll sogar recht schmackhaft sein.
-
-[Mehr lesen >](/pilze/amanita-strobiliformis-fransiger-wulstling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/protomyces_macrosporus_02_wl.jpg" %}
-{% include abbildung_ende.html %}
-
-10.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Doldenblütler-Schwielenpilz *Protomyces macrosporus*. Dieser an verschiedenen Doldenblüten-Gewächsen, in diesem Fall an Giersch (*Aegopodium podagraria*) vorkommende Pilz gehört zu den Wucherlingen und ist ein [Ascomyzet](Ascomyzeten "Glossar"). In der Vegetationszeit von April bis November ist er häufig an seinen Wirtspflanzen anzutreffen. Er bildet keine Fruchtkörper aus, sondern verursacht nach Infektion der Pflanze schwielenförmige Wucherungen.  (Wolfgang Lißner)
-
-[Mehr lesen >](/pilze/protomyces-macrosporus-doldenblütler-schwielenpilz)
 
 <div style="clear:  both"></div>
 
