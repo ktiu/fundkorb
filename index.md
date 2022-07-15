@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_queletii_02_cw.jpeg" %}
+{% include abbildung_ende.html %}
+
+15.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist noch mal einer aus Wiesbaden, diesmal von *Christian Weinkötz*, der den Glattstieligen Hexenröhrling *Suillellus queletii* im Park unter den Eichen gefunden und fotografiert hat. Es handelt sich um den seltensten der drei Hexenröhrlinge, der offensichtlich [anthroprogene](<anthroprogen "Glossar">) Biotope bevorzugt. Um die Bestimmung abzusichern, sollte man auf die wein- oder rhabarberrote Fleischverfärung in der Stielbasis achten.
+
+[Mehr lesen >](/pilze/boletus-queletii-glattstieliger-hexenröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tapinella_atrotomentosa_04_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 13.07.2022: Auch bei Trockenheit hat man an Gewässerufern eine Chance, fündig zu werden. Gezielt gesucht und gefunden wurde unser aktueller [Fundkorbpilz](AA "Glossar-") an einem der Seen nahe der Eppertshausener Thomashütte. Es ist der Bewimperte Schildborsling  *Scutellinia crinita*. Nicht zuletzt wegen seines bevorzugten Vorkommens an nass liegendem Holz wird er auch *Sumpfschildborstling* genannt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/scutellinia-crinita-bewimperter-schildborstling-sumpfschildborstling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_satanas_fundkorbpilz.jpg" %}
-{% include abbildung_ende.html %}
-
-12.07.2022: Nachricht aus Wiesbaden: *"Gestern aufgenommen, 18:00 Uhr. Drei Satansröhrlinge direkt bei uns hinter dem Haus auf der Wiese. Viele Grüße Thomas Lamberty"* Klarer Fall - das muss der aktuelle [Fundkorbpilz](AA "Glossar-") des Tages werden, auch wenn die drei total vermadet waren. Kein Problem. Die hätte man auch madenfrei nicht gegessen.
-
-[Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
 
 <div style="clear:  both"></div>
 
