@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/boletus_queletii_02_cw.jpeg" %}
 {% include abbildung_ende.html %}
 
-15.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist noch mal einer aus Wiesbaden, diesmal von *Christian Weinkötz*, der den Glattstieligen Hexenröhrling *Suillellus queletii* im Park unter den Eichen gefunden und fotografiert hat. Es handelt sich um den seltensten der drei Hexenröhrlinge, der offensichtlich [anthroprogene](<anthroprogen "Glossar">) Biotope bevorzugt. Um die Bestimmung abzusichern, sollte man auf die wein- oder rhabarberrote Fleischverfärung in der Stielbasis achten.
+15.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist noch mal einer aus Wiesbaden, diesmal von *Christian Weinkötz*, der den Glattstieligen Hexenröhrling *Suillellus queletii* im Park unter den Eichen gefunden und fotografiert hat. Es handelt sich um den seltensten der drei Hexenröhrlinge, der offensichtlich [anthroprogene](anthroprogen "Glossar") Biotope bevorzugt. Um die Bestimmung abzusichern, sollte man auf die wein- oder rhabarberrote Fleischverfärung in der Stielbasis achten.
 
 [Mehr lesen >](/pilze/boletus-queletii-glattstieliger-hexenröhrling)
 
