@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/erysiphe_alphitoides_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.07.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Mehltau *Erysiphe alphitoides*. Er ist unübersehbar und häufig. Auffällig ist er besonders an dicht stehenden Jungpflanzen. Er kann ganze Bestände von Sämlingen befallen und zum Absterben bringen. In Baumschulen ist er als Schädling gefürchtet und kann erhebliche Schäden anrichten. Das filigrane Pilzmyzel überwächst die Blätter, durch Zerfall der [Hyphen](Hyphen "Glossar") entstehen Konidien (asexuelle Sporen) und bilden den mehligen weißen, abwischbaren Belag. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/erysiphe-alphitoides-eichen-mehltau)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_queletii_02_cw.jpeg" %}
 {% include abbildung_ende.html %}
 
