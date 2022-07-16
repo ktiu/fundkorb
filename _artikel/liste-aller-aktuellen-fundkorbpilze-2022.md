@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-15.07.2022: [Boletus queletii - Glattstieliger Hexenröhrling](/pilze/boletus-queletii-glattstieliger-hexenröhrling)  
+16.07.2022: [Erysiphe alphitoides - Eichen-Mehltau](/pilze/erysiphe-alphitoides-eichen-mehltau)  
+15.07.2022: [Boletus queletii - Glattstieliger Hexenröhrling](/pilze/boletus-queletii-glattstieliger-hexenröhrling)\
 14.07.2022: [Tapinella atrotomentosa - Samtfußkrempling](/pilze/tapinella-atrotomentosa-samtfußkrempling)\
 13.07.2022: [Scutellinia crinita - Bewimperter Schildborstling](/pilze/scutellinia-crinita-bewimperter-schildborstling-sumpfschildborstling)\
 12.07.2022: [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)\
