@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/meripilus_giganteus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenporling *Meripilus giganteus*. Er ist ein wahrer Gigant unter den heimischen Pilzen. Wenn er rund um einen mächtigen Baumstumpf wächst und auch noch in Form von Ausläufern in seine Umgebung streut, kann er schon mal zwei Quadratmeter Fläche einnehmen. Was dabei an Pilzmasse zusammenkommt, kann einen Zentner wiegen. Allein diese schiere Größe ist schon ein gutes Bestimmungsmerkmal. So lange er jung und zart ist, kann man ihn sogar essen. Mein persönliches Urteil: Wenn man ihn nicht isst, hat man nichts versäumt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/meripilus-giganteus-riesenporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/erysiphe_alphitoides_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 15.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist noch mal einer aus Wiesbaden, diesmal von *Christian Weinkötz*, der den Glattstieligen Hexenröhrling *Suillellus queletii* im Park unter den Eichen gefunden und fotografiert hat. Es handelt sich um den seltensten der drei Hexenröhrlinge, der offensichtlich [anthropogene](anthropogen "Glossar") Biotope bevorzugt. Um die Bestimmung abzusichern, sollte man auf die wein- oder rhabarberrote Fleischverfärung in der Stielbasis achten.
 
 [Mehr lesen >](/pilze/boletus-queletii-glattstieliger-hexenröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tapinella_atrotomentosa_04_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-14.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der  Samtfußkrempling *Tapinella atrotomentosa*. Da er ausschließlich an Holz wächst, ist er nicht so vom Wetter abhängig und  auch bei Trockenheit zu finden. Sein Wachstum an Holz ist auch der Grund, weshalb er nicht mehr zur Verwandtschaft des Kahlen Kremplings zählt und als *"Holzkrempling"* in die neue Gattung *Tapinella* gestellt wurde. Er sieht zwar sympathisch und appetitlich aus, aber sein muffiger Geschmack macht ihn leider ungenießbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tapinella-atrotomentosa-samtfußkrempling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/scutellinia_crinita_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.07.2022: Auch bei Trockenheit hat man an Gewässerufern eine Chance, fündig zu werden. Gezielt gesucht und gefunden wurde unser aktueller [Fundkorbpilz](AA "Glossar-") an einem der Seen nahe der Eppertshausener Thomashütte. Es ist der Bewimperte Schildborsling  *Scutellinia crinita*. Nicht zuletzt wegen seines bevorzugten Vorkommens an nass liegendem Holz wird er auch *Sumpfschildborstling* genannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/scutellinia-crinita-bewimperter-schildborstling-sumpfschildborstling)
 
 <div style="clear:  both"></div>
 
