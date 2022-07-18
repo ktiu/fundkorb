@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/taphrina_deformans_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Pfirsisch-Kräuselkrankheit *Taphrina deformans*. Sie erzeugt meist blasen- oder beulenförmige Wucherungen auf den Blättern, die sich farblich vom Blattgrün unterscheiden. Bei der Pfirsisch-Kräuselkrankheit sind sie gelblich bis rot. Befallene Blätter vetrocknen und fallen vorzeitig ab. Auch die Früchte können infiziert werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/meripilus_giganteus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 16.07.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Mehltau *Erysiphe alphitoides*. Er ist unübersehbar und häufig. Auffällig ist er besonders an dicht stehenden Jungpflanzen. Er kann ganze Bestände von Sämlingen befallen und zum Absterben bringen. In Baumschulen ist er als Schädling gefürchtet und kann erhebliche Schäden anrichten. Das filigrane Pilzmyzel überwächst die Blätter, durch Zerfall der [Hyphen](Hyphen "Glossar") entstehen Konidien (asexuelle Sporen) und bilden den mehligen weißen, abwischbaren Belag. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/erysiphe-alphitoides-eichen-mehltau)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_queletii_02_cw.jpeg" %}
-{% include abbildung_ende.html %}
-
-15.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist noch mal einer aus Wiesbaden, diesmal von *Christian Weinkötz*, der den Glattstieligen Hexenröhrling *Suillellus queletii* im Park unter den Eichen gefunden und fotografiert hat. Es handelt sich um den seltensten der drei Hexenröhrlinge, der offensichtlich [anthropogene](anthropogen "Glossar") Biotope bevorzugt. Um die Bestimmung abzusichern, sollte man auf die wein- oder rhabarberrote Fleischverfärung in der Stielbasis achten.
-
-[Mehr lesen >](/pilze/boletus-queletii-glattstieliger-hexenröhrling)
 
 <div style="clear:  both"></div>
 
