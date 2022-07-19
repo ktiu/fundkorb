@@ -3,6 +3,8 @@ aktivitaet: Essbar oder nicht? Kostenlose Pilzberatung im Gesundheitsamt Frankfu
 zeit: 2022-09-18T17:00:27.675Z
 anmeldung_offen: false
 published: true
+bilder:
+  - /bilder/pilzberatung_01_dg.jpg
 ---
 Im Herbst nach Pilzen suchen macht Freude. Aber: Welcher Pilz darf in die Pfanne und später auf den Teller? Von welchem sollte man besser die Finger lassen? Welcher könnte gar gefährlich werden? Dieter Gewalt, langjähriger Pilzsachverständiger, weiß es und überprüft Ihre Pilzfunde im Auftrag des Gesundheitsamtes Frankfurt, gibt Tipps zum Sammeln und Zubereiten von Pilzen und klärt über Risiken auf. Die Beratung findet von 17:00 bis 20:00 Uhr in den Räumen des Gesundheitsamtes in der Breite Gasse 28 statt. Eine vorherige Anmeldung ist nicht erforderlich. Aktuell geltende Coronaregeln sind einzuhalten.
 
