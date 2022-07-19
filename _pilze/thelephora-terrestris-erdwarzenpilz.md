@@ -6,7 +6,7 @@ beschreibung:
   familie: Thelephoraceae
   erlaeuterung: terrestris = irdisch
 profil:
-  aktualisiert: 2020-08-18
+  aktualisiert: 2022-07-19
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
