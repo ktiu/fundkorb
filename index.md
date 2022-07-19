@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_quercina_03_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+19.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der  ist der Eichen-Zystidenrindenpilz *Peniophora quercina*. Er entsteht auf der Rinde von noch am Baum befindlichen abgestorbenen Ästen aus kleineren Flecken, die sich bald zu ausgedehnten Flächen vereinigen. In frischem Zustand sind sie violett-rosa und aufgequollen, trocken grau und rissig. Der Pilz ist sehr häufig und kaum eine Eiche dürfte von ihm verschont bleiben. Da er nur tote Äste und Zweige befällt, richtet er keinen Schaden an. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/taphrina_deformans_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 17.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenporling *Meripilus giganteus*. Er ist ein wahrer Gigant unter den heimischen Pilzen. Wenn er rund um einen mächtigen Baumstumpf wächst und auch noch in Form von Ausläufern in seine Umgebung streut, kann er schon mal zwei Quadratmeter Fläche einnehmen. Was dabei an Pilzmasse zusammenkommt, kann einen Zentner wiegen. Allein diese schiere Größe ist schon ein gutes Bestimmungsmerkmal. So lange er jung und zart ist, kann man ihn sogar essen. Mein persönliches Urteil: Wenn man ihn nicht isst, hat man nichts versäumt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/meripilus-giganteus-riesenporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/erysiphe_alphitoides_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.07.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Mehltau *Erysiphe alphitoides*. Er ist unübersehbar und häufig. Auffällig ist er besonders an dicht stehenden Jungpflanzen. Er kann ganze Bestände von Sämlingen befallen und zum Absterben bringen. In Baumschulen ist er als Schädling gefürchtet und kann erhebliche Schäden anrichten. Das filigrane Pilzmyzel überwächst die Blätter, durch Zerfall der [Hyphen](Hyphen "Glossar") entstehen Konidien (asexuelle Sporen) und bilden den mehligen weißen, abwischbaren Belag. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/erysiphe-alphitoides-eichen-mehltau)
 
 <div style="clear:  both"></div>
 
