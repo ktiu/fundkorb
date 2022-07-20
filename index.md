@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/thelephora_terrestris_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Erdwarzenpilz *Thelephora terrestris*. Der deutsche Name erweckt wegen der "Warzen" nicht gerade positive Assoziationen, aber bei genauerem Hinschauen ist er für mich ein attraktiver Pilz. Man findet ihn vor allem in der Umgebung von Nadelbäumen, wo er Jungpflanzen umwachsen und durch Ersticken zum Absterben bringen kann. Andererseits ist er als [Mykorrhizapilz](Mykorrhiza "Glossar") aber durchaus ein Freund der Bäume und hilft sogar den Baumschulen bei der Aufzucht ihrer Schützlinge. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/thelephora-terrestris-erdwarzenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peniophora_quercina_03_bm.jpg" %}
 {% include abbildung_ende.html %}
 
