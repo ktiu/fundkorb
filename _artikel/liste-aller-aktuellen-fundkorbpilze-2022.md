@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-19.07.2022: [Peniophora quercina - Eichen-Zystidenrindenpilz](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)  
+20.07.2022: [Thelephora terrestris - Erdwarzenpilz](/pilze/thelephora-terrestris-erdwarzenpilz)  
+19.07.2022: [Peniophora quercina - Eichen-Zystidenrindenpilz](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)\
 18.07.2022: [Taphrina deformans - Pfirsisch-Kräuselkrankheit](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)\
 17.07.2022: [Meripilus giganteus - Riesenporling](/pilze/meripilus-giganteus-riesenporling)\
 16.07.2022: [Erysiphe alphitoides - Eichen-Mehltau](/pilze/erysiphe-alphitoides-eichen-mehltau)\
