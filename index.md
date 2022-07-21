@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_cohaerens_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zusammengedrängte Kohlenbeere *Hypoxylon cohaerens*. Der deutsche Name ist schon eine recht gute Beschreibung des recht häufigen *[Pyrenomyzeten](Pyrenomyzeten "Glossar")*. Die abgeflacht kugeligen, krustig harten Fruchtkörper erreichen etwa 4 - 7 mm Durchmesser und sind dunkel graubraun bis schwarz gefärbt sind. Sie wachsen dicht gedrängt auf der Rinde von toten Laubholzästen und -stämmen (ganz überwiegend Buche) und sind oft zusammenfließend miteinander verbunden. Auf den Oberflächen erkennt man die papillenartigen Sporenauslassöffnungen. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/thelephora_terrestris_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 19.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Zystidenrindenpilz *Peniophora quercina*. Er entsteht auf der Rinde von noch am Baum befindlichen abgestorbenen Ästen aus kleineren Flecken, die sich bald zu ausgedehnten Flächen vereinigen. In frischem Zustand sind sie violett-rosa und aufgequollen, trocken grau und rissig. Der Pilz ist sehr häufig und kaum eine Eiche dürfte von ihm verschont bleiben. Da er nur tote Äste und Zweige befällt, richtet er keinen Schaden an. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/taphrina_deformans_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Pfirsisch-Kräuselkrankheit *Taphrina deformans*. Sie erzeugt meist blasen- oder beulenförmige Wucherungen auf den Blättern, die sich farblich vom Blattgrün unterscheiden. Bei der Pfirsisch-Kräuselkrankheit sind sie gelblich bis rot. Befallene Blätter vetrocknen und fallen vorzeitig ab. Auch die Früchte können infiziert werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/meripilus_giganteus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenporling *Meripilus giganteus*. Er ist ein wahrer Gigant unter den heimischen Pilzen. Wenn er rund um einen mächtigen Baumstumpf wächst und auch noch in Form von Ausläufern in seine Umgebung streut, kann er schon mal zwei Quadratmeter Fläche einnehmen. Was dabei an Pilzmasse zusammenkommt, kann einen Zentner wiegen. Allein diese schiere Größe ist schon ein gutes Bestimmungsmerkmal. So lange er jung und zart ist, kann man ihn sogar essen. Mein persönliches Urteil: Wenn man ihn nicht isst, hat man nichts versäumt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/meripilus-giganteus-riesenporling)
 
 <div style="clear:  both"></div>
 
