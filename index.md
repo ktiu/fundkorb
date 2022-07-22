@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_varius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Löwengelbe Porling *Polyporus varius*, der jetzt *Cerioporus leptocephalus* heißen soll. Er ist einer der häufigsten mehr oder weniger zentral gestielten Porlinge und besiedelt gern dünnere Ästchen.  Löwengelber Hut und schlanker zum Teil schwarz gefärbter Stiel sind die Merkmale dieser recht kleinen Pilzart.  Die Poren sind sehr fein und mit bloßem Auge kaum wahrnehmbar. Gelegentlich findet man Fruchtkörper mit verzweigten Stielen und mehreren teilweise zusammengewachsenen Hütchen. (Dieter Gewalt)
+
+[ Mehr lesen >](/pilze/polyporus-varius-löwengelber-porling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_cohaerens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 20.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Erdwarzenpilz *Thelephora terrestris*. Der deutsche Name erweckt wegen der "Warzen" nicht gerade positive Assoziationen, aber bei genauerem Hinschauen ist er für mich ein attraktiver Pilz. Man findet ihn vor allem in der Umgebung von Nadelbäumen, wo er Jungpflanzen umwachsen und durch Ersticken zum Absterben bringen kann. Andererseits ist er als [Mykorrhizapilz](Mykorrhiza "Glossar") aber durchaus ein Freund der Bäume und hilft sogar den Baumschulen bei der Aufzucht ihrer Schützlinge. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/thelephora-terrestris-erdwarzenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_quercina_03_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-19.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Zystidenrindenpilz *Peniophora quercina*. Er entsteht auf der Rinde von noch am Baum befindlichen abgestorbenen Ästen aus kleineren Flecken, die sich bald zu ausgedehnten Flächen vereinigen. In frischem Zustand sind sie violett-rosa und aufgequollen, trocken grau und rissig. Der Pilz ist sehr häufig und kaum eine Eiche dürfte von ihm verschont bleiben. Da er nur tote Äste und Zweige befällt, richtet er keinen Schaden an. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)
 
 <div style="clear:  both"></div>
 
