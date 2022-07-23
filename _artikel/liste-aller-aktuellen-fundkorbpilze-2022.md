@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-22.07.2022: [Polyporus varius - Löwengelber Porling](/pilze/polyporus-varius-löwengelber-porling)  
+23.07.2022: [Seifertia azaleae](/pilze/seifertia-azaleae)  
+22.07.2022: [Polyporus varius - Löwengelber Porling](/pilze/polyporus-varius-löwengelber-porling)\
 21.07.2022: [Hypoxylon cohaerens - Zusammengedrängte Kohlenbeere](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)\
 20.07.2022: [Thelephora terrestris - Erdwarzenpilz](/pilze/thelephora-terrestris-erdwarzenpilz)\
 19.07.2022: [Peniophora quercina - Eichen-Zystidenrindenpilz](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)\
