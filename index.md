@@ -13,7 +13,7 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/physarum_cinereum_03_dg.jpg" %}
+{% include bild.html datei="/bilder/physarum_cinereum_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 24.07.2022: Bei einem Rundgang durch eine Dietzenbacher Parkanlage fiel uns an einigen Spitzwegerichblättern ein körniger blaugrauer bis weißlicher Belag auf - ein Schleimpilz, den ich hier schon im vergangenen Jahr gefunden hatte. Obwohl er ziemlich vertrocknet war, mache ich ihn mangels besserer Funde zu unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Der  Graue Gras-Schleimpilz *Physarum cinereum* ist keineswegs allein auf Gräser oder Spitzwegerich angewiesen. Ich habe ihn auch an Schafgarbe, Gemüseportulak und anderen Pflanzen gefunden. (Dieter Gewalt)
