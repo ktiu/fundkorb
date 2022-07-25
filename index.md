@@ -12,11 +12,25 @@ footer_scripts:
 
 - - -
 
+
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerula_radicata_03_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+25.07.2022: In Dürreperioden wie der jetzigen sind Pilzfreunde außer sich vor Freude, wenn sie irgendwo einen Grubigen Schleimrübling (*Xerula radicata*) entdecken. Den machen wir natürlich gleich zum [Fundkorbpilz](AA "Glossar-") des Tages. Eine häufige Art, die auch bei Trockenheit wächst, weil moosbewachsene morsche Baumstümpfe oder Holzreste im Boden auch bei Dürre noch etwas Feuchtigkeit speichern können. Dies sind die bevorzugten Wuchsorte unseres Pilzes, der sogar essbar ist, aber sicher nicht zu den Delikatessen zählt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xerula-radicata-grubiger-schleimrübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/physarum_cinereum_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-24.07.2022: Bei einem Rundgang durch eine Dietzenbacher Parkanlage fiel uns an einigen Spitzwegerichblättern ein körniger blaugrauer bis weißlicher Belag auf - ein Schleimpilz, den ich hier schon im vergangenen Jahr gefunden hatte. Obwohl er ziemlich vertrocknet war, mache ich ihn mangels besserer Funde zu unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Der  Graue Gras-Schleimpilz *Physarum cinereum* ist keineswegs allein auf Gräser oder Spitzwegerich angewiesen. Ich habe ihn auch an Schafgarbe, Gemüseportulak und anderen Pflanzen gefunden. (Dieter Gewalt)
+24.07.2022: Bei einem Rundgang durch eine Dietzenbacher Parkanlage fiel uns an einigen Spitzwegerichblättern ein körniger blaugrauer bis weißlicher Belag auf - ein Schleimpilz, den ich hier schon im vergangenen Jahr gefunden hatte. Obwohl er ziemlich vertrocknet war, mache ich ihn mangels besserer Funde zu unserem aktuellen  Der  Graue Gras-Schleimpilz *Physarum cinereum* ist keineswegs allein auf Gräser oder Spitzwegerich angewiesen. Ich habe ihn auch an Schafgarbe, Gemüseportulak und anderen Pflanzen gefunden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/physarum-cinereum-grauer-gras-schleimpilz)
 
@@ -31,18 +45,6 @@ footer_scripts:
 23.07.2022: Dass dem Fundkorb die aktuell wachsenden Fundkorbpilze nicht ausgehen, dafür sorgen zahlreiche kaum beachtete Arten. *Seifertia azaleae*, auch *Pycnostysanus azaleae* genannt, ist so eine. Sie hat nicht einmal einen deutschen Namen. Ich hätte Euch gern etwas Handfesteres wie einen Steinpilz oder Täubling angeboten, aber an solchen mangelt es zur Zeit wegen anhaltender Trockenheit. Um unseren heutigen [Fundkorbpilz](AA "Glossar-") zu finden, bedarf es einer Lupe, mit der man sich einem Rhododendronstrauch nähert. Wenn dessen Blütenknospen schwärzlich verfärbt sind, entdeckt man an ihnen vielleicht 1 - maximal 2 mm lange Härchen mit einem winzigen Köpfchen. Das ist unsere *Seifertia*, und die sorgt dafür, dass aus der Knospe keine Blüte wird. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/seifertia-azaleae)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_varius_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Löwengelbe Porling *Polyporus varius*, der jetzt *Cerioporus leptocephalus* heißen soll. Er ist einer der häufigsten mehr oder weniger zentral gestielten Porlinge und besiedelt gern dünnere Ästchen.  Löwengelber Hut und schlanker zum Teil schwarz gefärbter Stiel sind die Merkmale dieser recht kleinen Pilzart.  Die Poren sind sehr fein und mit bloßem Auge kaum wahrnehmbar. Gelegentlich findet man Fruchtkörper mit verzweigten Stielen und mehreren teilweise zusammengewachsenen Hütchen. (Dieter Gewalt)
-
-[ Mehr lesen >](/pilze/polyporus-varius-löwengelber-porling)
 
 <div style="clear:  both"></div>
 
