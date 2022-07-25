@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-24.07.2022: [Physarum cinereum - Gras-Schleimpilz](/pilze/physarum-cinereum-grauer-gras-schleimpilz)  
+25.07.2022: [Xerula radicata - Grubiger Schleimrübling](/pilze/xerula-radicata-grubiger-schleimrübling)  
+24.07.2022: [Physarum cinereum - Gras-Schleimpilz](/pilze/physarum-cinereum-grauer-gras-schleimpilz)\
 23.07.2022: [Seifertia azaleae](/pilze/seifertia-azaleae)\
 22.07.2022: [Polyporus varius - Löwengelber Porling](/pilze/polyporus-varius-löwengelber-porling)\
 21.07.2022: [Hypoxylon cohaerens - Zusammengedrängte Kohlenbeere](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)\
