@@ -12,6 +12,10 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/diatrypella_favacea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 26.07.2022: Selbst wenn es noch so trocken ist - Kleinzeug an Holz findet man immer. Allein an Kohlenbeeren und Eckenscheibchen gibt es mindestens 20 verschiedene Arten in unseren Wäldern. Wo totes Birkenholz am Boden liegt, ist mit dem Birken-Eckenscheibchen *Diatrypella favacea* zu rechnen, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Wer sich nicht damit auskennt, hält die schwarzen quer zur Ast- oder Stammlänge angeordneten [Pyrenomyzeten](Pyrenomyzeten "Glossar") möglicherweise für typische Muster der Birkenrinde. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/diatrypella-favacea-birken-eckenscheibchen)
