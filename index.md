@@ -12,7 +12,13 @@ footer_scripts:
 
 - - -
 
+26.07.2022: Selbst wenn es noch so trocken ist - Kleinzeug an Holz findet man immer. Allein an Kohlenbeeren und Eckenscheibchen gibt es mindestens 20 verschiedene Arten in unseren Wäldern. Wo totes Birkenholz am Boden liegt, ist mit dem Birken-Eckenscheibchen *Diatrypella favacea* zu rechnen, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Wer sich nicht damit auskennt, hält die schwarzen quer zur Ast- oder Stammlänge angeordneten [Pyrenomyzeten](Pyrenomyzeten "Glossar") möglicherweise für typische Muster der Birkenrinde. (Dieter Gewalt)
 
+[Mehr lesen >](/pilze/diatrypella-favacea-birken-eckenscheibchen)
+
+<div style="clear:  both"></div>
+
+- - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerula_radicata_03_dg.jpeg" %}
@@ -33,18 +39,6 @@ footer_scripts:
 24.07.2022: Bei einem Rundgang durch eine Dietzenbacher Parkanlage fiel uns an einigen Spitzwegerichblättern ein körniger blaugrauer bis weißlicher Belag auf - ein Schleimpilz, den ich hier schon im vergangenen Jahr gefunden hatte. Obwohl er ziemlich vertrocknet war, mache ich ihn mangels besserer Funde zu unserem aktuellen  Der  Graue Gras-Schleimpilz *Physarum cinereum* ist keineswegs allein auf Gräser oder Spitzwegerich angewiesen. Ich habe ihn auch an Schafgarbe, Gemüseportulak und anderen Pflanzen gefunden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/physarum-cinereum-grauer-gras-schleimpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/seifertia_azaleae_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.07.2022: Dass dem Fundkorb die aktuell wachsenden Fundkorbpilze nicht ausgehen, dafür sorgen zahlreiche kaum beachtete Arten. *Seifertia azaleae*, auch *Pycnostysanus azaleae* genannt, ist so eine. Sie hat nicht einmal einen deutschen Namen. Ich hätte Euch gern etwas Handfesteres wie einen Steinpilz oder Täubling angeboten, aber an solchen mangelt es zur Zeit wegen anhaltender Trockenheit. Um unseren heutigen [Fundkorbpilz](AA "Glossar-") zu finden, bedarf es einer Lupe, mit der man sich einem Rhododendronstrauch nähert. Wenn dessen Blütenknospen schwärzlich verfärbt sind, entdeckt man an ihnen vielleicht 1 - maximal 2 mm lange Härchen mit einem winzigen Köpfchen. Das ist unsere *Seifertia*, und die sorgt dafür, dass aus der Knospe keine Blüte wird. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/seifertia-azaleae)
 
 <div style="clear:  both"></div>
 
