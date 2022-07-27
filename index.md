@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phragmidium_violaceum_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brombeer-Rost *Phragmidium violaceum*. Er befällt die Blätter der Pflanzen und dürfte in keinem Brombeerbestand fehlen. Man erkennt den Rost, der zwei unterschiedliche Sporentypen bildet, an den dunkelroten Flecken auf der Blattoberseite. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phragmidium-violaceum-brombeer-rost)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrypella_favacea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 25.07.2022: In Dürreperioden wie der jetzigen sind Pilzfreunde außer sich vor Freude, wenn sie irgendwo einen Grubigen Schleimrübling (*Xerula radicata*) entdecken. Den machen wir natürlich gleich zum [Fundkorbpilz](AA "Glossar-") des Tages. Eine häufige Art, die auch bei Trockenheit wächst, weil moosbewachsene morsche Baumstümpfe oder Holzreste im Boden auch bei Dürre noch etwas Feuchtigkeit speichern können. Dies sind die bevorzugten Wuchsorte unseres Pilzes, der sogar essbar ist, aber sicher nicht zu den Delikatessen zählt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xerula-radicata-grubiger-schleimrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/physarum_cinereum_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.07.2022: Bei einem Rundgang durch eine Dietzenbacher Parkanlage fiel uns an einigen Spitzwegerichblättern ein körniger blaugrauer bis weißlicher Belag auf - ein Schleimpilz, den ich hier schon im vergangenen Jahr gefunden hatte. Obwohl er ziemlich vertrocknet war, mache ich ihn mangels besserer Funde zu unserem aktuellen  Der  Graue Gras-Schleimpilz *Physarum cinereum* ist keineswegs allein auf Gräser oder Spitzwegerich angewiesen. Ich habe ihn auch an Schafgarbe, Gemüseportulak und anderen Pflanzen gefunden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/physarum-cinereum-grauer-gras-schleimpilz)
 
 <div style="clear:  both"></div>
 
