@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sphaerobolus_stellatus_01dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.07.2022: Pilzfreund *Bodo Herrlich* hat mir gerade eine Fundmeldung zukommen lassen, die ich gern zum [Fundkorbpilz](AA "Glossar-") des Tages ernenne: *"In meinem kleinen Komposthaufen im Garten landen immer mal Holzreste und auf einem davon habe ich jetzt den Kugelschneller entdeckt, den ich zuvor noch nie gefunden hatte."* Bodos Freude über seinen Erstfund kann ich gut nachvollziehen. So selten, wie manche glauben, ist der Kugelschneller (*Sphaerobolus stellatus*) aber gar nicht. Solche Winzlinge sind leicht zu übersehen. Er ist übrigens zu erstaunlichen Leistungen fähig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/sphaerobolus-stellatus-kugelschneller)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phragmidium_violaceum_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
