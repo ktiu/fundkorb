@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clathrus_archeri_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.07.2022: *Frank Kaster* hat es nicht weit von Neu-Isenburg zum Frankfurter Stadtwald. Da hat er gestern den Tintenfischpilz *Clathrus archeri* gefunden und als aktuellen [Fundkorbpilz](AA "Glossar-") vorgeschlagen. Danke, Frank. In dürren Zeiten ist man für jede Fundmeldung dankbar. Manche nennen den Tintenfischpilz übrigens *Stinkfisch*, und das aus gutem Grund.
+
+[Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/sphaerobolus_stellatus_01dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 27.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brombeer-Rost *Phragmidium violaceum*. Er befällt die Blätter der Pflanzen und dürfte in keinem Brombeerbestand fehlen. Man erkennt den Rost, der zwei unterschiedliche Sporentypen bildet, an den dunkelroten Flecken auf der Blattoberseite. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phragmidium-violaceum-brombeer-rost)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diatrypella_favacea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.07.2022: Selbst wenn es noch so trocken ist - Kleinzeug an Holz findet man immer. Allein an Kohlenbeeren und Eckenscheibchen gibt es mindestens 20 verschiedene Arten in unseren Wäldern. Wo totes Birkenholz am Boden liegt, ist mit dem Birken-Eckenscheibchen *Diatrypella favacea* zu rechnen, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Wer sich nicht damit auskennt, hält die schwarzen quer zur Ast- oder Stammlänge angeordneten [Pyrenomyzeten](Pyrenomyzeten "Glossar") möglicherweise für typische Muster der Birkenrinde. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/diatrypella-favacea-birken-eckenscheibchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerula_radicata_03_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-25.07.2022: In Dürreperioden wie der jetzigen sind Pilzfreunde außer sich vor Freude, wenn sie irgendwo einen Grubigen Schleimrübling (*Xerula radicata*) entdecken. Den machen wir natürlich gleich zum [Fundkorbpilz](AA "Glossar-") des Tages. Eine häufige Art, die auch bei Trockenheit wächst, weil moosbewachsene morsche Baumstümpfe oder Holzreste im Boden auch bei Dürre noch etwas Feuchtigkeit speichern können. Dies sind die bevorzugten Wuchsorte unseres Pilzes, der sogar essbar ist, aber sicher nicht zu den Delikatessen zählt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xerula-radicata-grubiger-schleimrübling)
 
 <div style="clear:  both"></div>
 
