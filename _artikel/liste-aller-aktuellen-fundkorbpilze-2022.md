@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-29.07.2022: [Clathrus archeri - Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)  
+30.07.2022: [Stereum sanguinolentum - Blutender Nadelholzschichtpilz](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)  
+29.07.2022: [Clathrus archeri - Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)\
 28.07.2022: [Sphaerobolus stellatus - Kugelschneller](/pilze/sphaerobolus-stellatus-kugelschneller)\
 27.07.2022: [Phragmidium violaceum - Brombeer-Rost](/pilze/phragmidium-violaceum-brombeer-rost)\
 26.07.2022: [Diatrypella favacea - Birken-Eckenscheibchen](/pilze/diatrypella-favacea-birken-eckenscheibchen)\
