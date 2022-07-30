@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_sanguinolentum_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der  Blutende Nadelholzschichtpilz *Stereum sanguinolentum*. Totes Fichtenholz, an dem er seine Fruchtkörper bilden kann, gibt es zur Zeit ja zur Genüge. Die gefundenen Fruchtkörper waren zwar so trocken, dass ich ihre [stereoiden](stereoid "Glossar") [Hymenien](Hymenium "Glossar") nicht zum Bluten bringen konnte, aber an der Bestimmung gab es schon wegen des Substrats keine Zweifel. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clathrus_archeri_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 28.07.2022: Pilzfreund *Bodo Herrlich* hat mir gerade eine Fundmeldung zukommen lassen, die ich gern zum [Fundkorbpilz](AA "Glossar-") des Tages ernenne: *"In meinem kleinen Komposthaufen im Garten landen immer mal Holzreste und auf einem davon habe ich jetzt den Kugelschneller entdeckt, den ich zuvor noch nie gefunden hatte."* Bodos Freude über seinen Erstfund kann ich gut nachvollziehen. So selten, wie manche glauben, ist der Kugelschneller (*Sphaerobolus stellatus*) aber gar nicht. Solche Winzlinge sind leicht zu übersehen. Er ist übrigens zu erstaunlichen Leistungen fähig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/sphaerobolus-stellatus-kugelschneller)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phragmidium_violaceum_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brombeer-Rost *Phragmidium violaceum*. Er befällt die Blätter der Pflanzen und dürfte in keinem Brombeerbestand fehlen. Man erkennt den Rost, der zwei unterschiedliche Sporentypen bildet, an den dunkelroten Flecken auf der Blattoberseite. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phragmidium-violaceum-brombeer-rost)
 
 <div style="clear:  both"></div>
 
