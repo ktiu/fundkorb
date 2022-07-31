@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/biscogniauxia_nummularia_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotbuchen- Rindenkugelpilz *Biscogniauxia nummularia*. Seine schwarzen [Perithezien](Perithezien "Glossar") erscheinen als unregelmäßige krusten¬artige Flecken auf der Rinde von Ästen und Stämmen von Rotbuchen. Sie könnten mit einigen Eckenscheibchen der Gattung *Diatrype* verwechselt werden, die sich aber unter der Rinde entwickeln und diese aufplatzen lassen.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/biscogniauxia-nummularia-rotbuchen-rindenkugelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_sanguinolentum_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 29.07.2022: *Frank Kaster* hat es nicht weit von Neu-Isenburg zum Frankfurter Stadtwald. Da hat er gestern den Tintenfischpilz *Clathrus archeri* gefunden und als aktuellen [Fundkorbpilz](AA "Glossar-") vorgeschlagen. Danke, Frank. In dürren Zeiten ist man für jede Fundmeldung dankbar. Manche nennen den Tintenfischpilz übrigens *Stinkfisch*, und das aus gutem Grund.
 
 [Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/sphaerobolus_stellatus_01dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.07.2022: Pilzfreund *Bodo Herrlich* hat mir gerade eine Fundmeldung zukommen lassen, die ich gern zum [Fundkorbpilz](AA "Glossar-") des Tages ernenne: *"In meinem kleinen Komposthaufen im Garten landen immer mal Holzreste und auf einem davon habe ich jetzt den Kugelschneller entdeckt, den ich zuvor noch nie gefunden hatte."* Bodos Freude über seinen Erstfund kann ich gut nachvollziehen. So selten, wie manche glauben, ist der Kugelschneller (*Sphaerobolus stellatus*) aber gar nicht. Solche Winzlinge sind leicht zu übersehen. Er ist übrigens zu erstaunlichen Leistungen fähig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/sphaerobolus-stellatus-kugelschneller)
 
 <div style="clear:  both"></div>
 
