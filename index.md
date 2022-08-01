@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ascobolus_crenulatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.08.2022: Kaninchenköteln findet man auch bei Trockenheit und mit ihnen lassen sich recht zuverlässig funktionierende Pilzkulturen auf dem Balkon oder im Vorgarten anlegen. Bei mir hat sich gerade mal wieder etwas getan und einen aktuellen [Fundkorbpilz](AA "Glossar-") geliefert: *Ascobolus crenulatus*, der Grüngelbe Kotling. Er zeichnet sich sogar durch eine Besonderheit aus, die man im Reich der Pilze höchst selten antrifft. Eines seiner Mikromerkmale, die man üblicherweise nur mit dem Mikroskop sehen kann, lassen sich mit bloßem Auge erkennen: die aus dem [Hymenium](Hymenium "Glossar") herausragenden [Asci](Asci "Glossar"). Neben den Köteln warten übrigens auch Pferdeäpfel auf meinem Balkon auf Pilzzuchterfolge. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ascobolus-crenulatus-grüngelber-kotling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/biscogniauxia_nummularia_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,20 +43,6 @@ footer_scripts:
 30.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der  Blutende Nadelholzschichtpilz *Stereum sanguinolentum*. Totes Fichtenholz, an dem er seine Fruchtkörper bilden kann, gibt es zur Zeit ja zur Genüge. Die gefundenen Fruchtkörper waren zwar so trocken, dass ich ihre [stereoiden](stereoid "Glossar") [Hymenien](Hymenium "Glossar") nicht zum Bluten bringen konnte, aber an der Bestimmung gab es schon wegen des Substrats keine Zweifel. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clathrus_archeri_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.07.2022: *Frank Kaster* hat es nicht weit von Neu-Isenburg zum Frankfurter Stadtwald. Da hat er gestern den Tintenfischpilz *Clathrus archeri* gefunden und als aktuellen [Fundkorbpilz](AA "Glossar-") vorgeschlagen. Danke, Frank. In dürren Zeiten ist man für jede Fundmeldung dankbar. Manche nennen den Tintenfischpilz übrigens *Stinkfisch*, und das aus gutem Grund.
-
-[Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz)
-
-<div style="clear:  both"></div>
 
 - - -
 
