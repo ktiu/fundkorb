@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-31.07.2022: [Biscogniauxia nummularia - Rotbuchen-Rindenkugelpilz](/pilze/biscogniauxia-nummularia-rotbuchen-rindenkugelpilz)  
+01.08.2022: [Ascobolus crenulatus - Grüngelber Kotling](/pilze/ascobolus-crenulatus-grüngelber-kotling)
+
+31.07.2022: [Biscogniauxia nummularia - Rotbuchen-Rindenkugelpilz](/pilze/biscogniauxia-nummularia-rotbuchen-rindenkugelpilz)\
 30.07.2022: [Stereum sanguinolentum - Blutender Nadelholzschichtpilz](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)\
 29.07.2022: [Clathrus archeri - Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)\
 28.07.2022: [Sphaerobolus stellatus - Kugelschneller](/pilze/sphaerobolus-stellatus-kugelschneller)\
