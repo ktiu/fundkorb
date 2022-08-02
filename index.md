@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gnomonia_cerastis_01_uvs.jpg" %}
+{% include abbildung_ende.html %}
+
+02.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der eher wie Dornen aussieht als wie ein Pilz und schon gar nicht wie das, was man sich unter einem "Kugelpilz" vorstellen könnte. Er heißt Geschnäbelter Ahornkugelpilz (*Gnomonia cerastis*) und dürfte in keinem Spitzahornbestand fehlen, wo er an den Stielen abgefallener Vorjahresblätter wächst und am besten mit einer Lupe betrachtet wird. Ich habe ziemlich lange suchen müssen, bis ich ihn in unteren noch etwas feuchten Schichten der Laubstreu aufgespürt hatte. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gnomonia-cerastis-geschnäbelter-ahornkugelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ascobolus_crenulatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,16 +45,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/biscogniauxia-nummularia-rotbuchen-rindenkugelpilz)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_sanguinolentum_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der  Blutende Nadelholzschichtpilz *Stereum sanguinolentum*. Totes Fichtenholz, an dem er seine Fruchtkörper bilden kann, gibt es zur Zeit ja zur Genüge. Die gefundenen Fruchtkörper waren zwar so trocken, dass ich ihre [stereoiden](stereoid "Glossar") [Hymenien](Hymenium "Glossar") nicht zum Bluten bringen konnte, aber an der Bestimmung gab es schon wegen des Substrats keine Zweifel. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)
 
 - - -
 
