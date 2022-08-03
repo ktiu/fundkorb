@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-02.08.2022: [Gnomonia cerastis - Geschnäbelter Ahornkugelpilz](/pilze/gnomonia-cerastis-geschnäbelter-ahornkugelpilz)  
+03.07.2022: [Suillus placidus - Elfenbeinröhrling](/pilze/suillus-placidus-elfenbeinröhrling)  
+02.08.2022: [Gnomonia cerastis - Geschnäbelter Ahornkugelpilz](/pilze/gnomonia-cerastis-geschnäbelter-ahornkugelpilz)\
 01.08.2022: [Ascobolus crenulatus - Grüngelber Kotling](/pilze/ascobolus-crenulatus-grüngelber-kotling)
 
 31.07.2022: [Biscogniauxia nummularia - Rotbuchen-Rindenkugelpilz](/pilze/biscogniauxia-nummularia-rotbuchen-rindenkugelpilz)\
