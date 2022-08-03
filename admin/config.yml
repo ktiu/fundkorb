@@ -97,6 +97,9 @@ collections:
     slug: "{{aktivitaet}}-{{zeit}}"
     sortable_fields: ["zeit", "aktivitaet"]
     view_filters:
+      - label: "Anmeldung nötig"
+        field: "anmeldung_noetig"
+        pattern: true
       - label: "Anmeldung offen"
         field: "anmeldung_offen"
         pattern: true
@@ -114,6 +117,7 @@ collections:
       - {label: "Treffpunkt", name: "treffpunkt", widget: "string", required: false}
       - {label: "Teilnahmegebühr", name: "teilnahmegebuehr", widget: "string", required: false}
       - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean", default: true}
+      - {label: "Anmeldung nötig", name: "anmeldung_noetig", widget: "boolean", default: true}
       - {label: "Sichtbar", name: "published", widget: "boolean", default: true}
       - label: "Bilder"
         name: "bilder"

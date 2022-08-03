@@ -32,7 +32,7 @@
         <!-- <a href="#" class="btn border-warning mb-1"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i> In den Kalender eintragen</a> -->
       </div>
       {% include anmeldung_form.html termin=termin print_time=print_time %}
-      {% else %}
+      {% elseif termin.anmeldung_noetig %}
         <p class="card-text"><strong>Der Termin ist ausgebucht – Anmeldungen sind leider nicht mehr möglich.</strong></p>
       {% endif %}
     </div>
