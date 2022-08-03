@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/suillus_placidus_02_cw.jpg" %}
+{% include abbildung_ende.html %}
+
+03.08.2022: Bei dieser Dürre schon eine echte Sensation: Christian Weinkötz hat bei Taunusstein in einem kleinen NSG mit Bachlauf Elfenbeinröhrlinge (Suillus placidus) gefunden! Mit seinem Einverständnis ist diese ausschließlich bei fünfnadeligen Pinus-Arten wachsende Art jetzt aktueller [Fundkorbpilz](AA "Glossar-"). Die Weymouthskiefer Pinus strobus ist einst aus Nordamerika nach Europa gekommen und mit der im Alpenraum vorkommenden Zirbelkiefer (Pinus cembra) [Mykorrhiza](Mykorrhiza "Glossar")-Partner des Elfenbeinröhrlings. 
+
+[Mehr lesen >](/pilze/suillus-placidus-elfenbeinröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gnomonia_cerastis_01_uvs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 01.08.2022: Kaninchenköteln findet man auch bei Trockenheit und mit ihnen lassen sich recht zuverlässig funktionierende Pilzkulturen auf dem Balkon oder im Vorgarten anlegen. Bei mir hat sich gerade mal wieder etwas getan und einen aktuellen [Fundkorbpilz](AA "Glossar-") geliefert: *Ascobolus crenulatus*, der Grüngelbe Kotling. Er zeichnet sich sogar durch eine Besonderheit aus, die man im Reich der Pilze höchst selten antrifft. Eines seiner Mikromerkmale, die man üblicherweise nur mit dem Mikroskop sehen kann, lassen sich mit bloßem Auge erkennen: die aus dem [Hymenium](Hymenium "Glossar") herausragenden [Asci](Asci "Glossar"). Neben den Köteln warten übrigens auch Pferdeäpfel auf meinem Balkon auf Pilzzuchterfolge. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/ascobolus-crenulatus-grüngelber-kotling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/biscogniauxia_nummularia_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.07.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotbuchen- Rindenkugelpilz *Biscogniauxia nummularia*. Seine schwarzen [Perithezien](Perithezien "Glossar") erscheinen als unregelmäßige krusten¬artige Flecken auf der Rinde von Ästen und Stämmen von Rotbuchen. Sie könnten mit einigen Eckenscheibchen der Gattung *Diatrype* verwechselt werden, die sich aber unter der Rinde entwickeln und diese aufplatzen lassen.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/biscogniauxia-nummularia-rotbuchen-rindenkugelpilz)
 
 <div style="clear:  both"></div>
 
