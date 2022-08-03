@@ -116,6 +116,7 @@ collections:
         time_format: "HH:mm"
       - label: "Datum und Uhrzeit (bis)"
         name: "bis"
+        default: ""
         widget: "datetime"
         picker_utc: true
         date_format: "DD.MM.YYYY"
