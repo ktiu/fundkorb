@@ -2,6 +2,7 @@
 aktivitaet: Der Wald und seine Pilze
 zeit: 2022-07-24T10:00:08.566Z
 anmeldung_offen: true
+anmeldung_noetig: true
 published: true
 bilder:
   - /bilder/jacobiweiher_oberschweinstige_01_dg.jpg
