@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/suillus_placidus_02_cw.jpg" %}
 {% include abbildung_ende.html %}
 
-03.08.2022: Bei dieser Dürre schon eine echte Sensation: Christian Weinkötz hat in Österreich bei Lungau in 1700 m Höhe diese Elfenbeinröhrlinge (Suillus placidus) gefunden! Mit seinem Einverständnis ist diese ausschließlich bei fünfnadeligen Pinus-Arten wachsende Art jetzt aktueller [Fundkorbpilz](AA "Glossar-"). Die Weymouthskiefer Pinus strobus ist einst aus Nordamerika nach Europa gekommen und mit der im Alpenraum vorkommenden Zirbelkiefer (Pinus cembra) [Mykorrhiza](Mykorrhiza "Glossar")-Partner des Elfenbeinröhrlings. 
+03.08.2022: Bei dieser Dürre schon eine echte Sensation: Christian Weinkötz hat in Österreich bei Lungau (Bundesland Salzburg) in 1700 m Höhe diese Elfenbeinröhrlinge (Suillus placidus) gefunden! Mit seinem Einverständnis ist diese ausschließlich bei fünfnadeligen Pinus-Arten wachsende Art jetzt aktueller [Fundkorbpilz](AA "Glossar-"). Die Weymouthskiefer Pinus strobus ist einst aus Nordamerika nach Europa gekommen und mit der im Alpenraum vorkommenden Zirbelkiefer (Pinus cembra) [Mykorrhiza](Mykorrhiza "Glossar")-Partner des Elfenbeinröhrlings. 
 
 [Mehr lesen >](/pilze/suillus-placidus-elfenbeinröhrling)
 
