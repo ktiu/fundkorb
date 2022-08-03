@@ -108,12 +108,19 @@ collections:
         pattern: true
     fields:
       - {label: "Aktivität", name: "aktivitaet", widget: "string"}
-      - label: "Datum und Uhrzeit"
+      - label: "Datum und Uhrzeit (von)"
         name: "zeit"
         widget: "datetime"
         picker_utc: true
         date_format: "DD.MM.YYYY"
         time_format: "HH:mm"
+      - label: "Datum und Uhrzeit (bis)"
+        name: "bis"
+        widget: "datetime"
+        picker_utc: true
+        date_format: "DD.MM.YYYY"
+        time_format: "HH:mm"
+        required: false
       - {label: "Treffpunkt", name: "treffpunkt", widget: "string", required: false}
       - {label: "Teilnahmegebühr", name: "teilnahmegebuehr", widget: "string", required: false}
       - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean", default: true}

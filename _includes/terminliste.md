@@ -5,13 +5,18 @@
     {% assign m = termin.zeit | date: "%-m" | minus: 1 %}
     {% capture datum %}{{ site.data.wochentage[w] }}, {{ termin.zeit | date: "%-d." }} {{ site.data.monate[m] }} {{ termin.zeit | date: "%Y" }}{% endcapture %}
     {% capture uhrzeit %}{{ termin.zeit | date: "%H:%M" }}{% endcapture %}
+    {% capture bis %}{{ termin.bis | date: "%H:%M" }}{% endcapture %}
     {% capture print_time %}{{ datum }} um {{ uhrzeit }}{% endcapture %}
   <div class="card termin">
     <h5 class="card-header">{{ termin.aktivitaet }}</h5>
     <div class="card-body">
       <div class="details">
         <p class="card-text">Datum:<br /><strong>{{ datum }}</strong></p>
-        <p class="card-text">Uhrzeit:<br /><strong>{{ uhrzeit }}</strong></p>
+        {% if termin.bis and termin.bis != "" %}
+          <p class="card-text">Uhrzeit:<br /><strong>{{ uhrzeit }}&endash;{{ bis }}</strong></p>
+        {% else %}
+          <p class="card-text">Uhrzeit:<br /><strong>{{ uhrzeit }}</strong></p>
+        {% endif %}
         {% if termin.treffpunkt and termin.treffpunkt != "" %}<p class="card-text">Treffpunkt:<br /><strong>{{ termin.treffpunkt }}</strong></p>{% endif %}
         {% if termin.teilnahmegebuehr and termin.teilnahmegebuehr != "" %}<p class="card-text">Teilnahmegebühr:<br /><strong>{{ termin.teilnahmegebuehr }}</strong></p>{% endif %}
 {% if termin.bilder %}
@@ -32,7 +37,7 @@
         <!-- <a href="#" class="btn border-warning mb-1"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i> In den Kalender eintragen</a> -->
       </div>
       {% include anmeldung_form.html termin=termin print_time=print_time %}
-      {% elseif termin.anmeldung_noetig %}
+      {% elsif termin.anmeldung_noetig %}
         <p class="card-text"><strong>Der Termin ist ausgebucht – Anmeldungen sind leider nicht mehr möglich.</strong></p>
       {% endif %}
     </div>
