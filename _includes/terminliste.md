@@ -13,7 +13,7 @@
       <div class="details">
         <p class="card-text">Datum:<br /><strong>{{ datum }}</strong></p>
         {% if termin.bis and termin.bis != "" %}
-          <p class="card-text">Uhrzeit:<br /><strong>{{ uhrzeit }}&endash;{{ bis }}</strong></p>
+          <p class="card-text">Uhrzeit:<br /><strong>{{ uhrzeit }}–{{ bis }}</strong></p>
         {% else %}
           <p class="card-text">Uhrzeit:<br /><strong>{{ uhrzeit }}</strong></p>
         {% endif %}
