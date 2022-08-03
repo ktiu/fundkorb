@@ -1,6 +1,7 @@
 ---
 aktivitaet: "Praktisches Pilzseminar "
 zeit: 2022-09-03T10:00:05.314Z
+bis: ""
 anmeldung_offen: false
 anmeldung_noetig: false
 published: true
