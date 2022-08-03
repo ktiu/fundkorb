@@ -1,6 +1,7 @@
 ---
 aktivitaet: Der Wald und seine Pilze
 zeit: 2022-07-24T10:00:08.566Z
+bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
 published: true
