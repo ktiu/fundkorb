@@ -6,7 +6,7 @@ beschreibung:
   familie: Suillaceae
   erlaeuterung: placidus = friedlich, ruhig
 profil:
-  aktualisiert: 2022-08-03
+  aktualisiert: 2022-08-04
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -21,6 +21,6 @@ Mit nur zwei für das Rhein-Main-Gebiet im Verbreitungsatlas eingetragenen Fundp
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/suillus_placidus_02_cw.jpg" %}
-{% include abbildung_ende.html legende="02.08.2022: Christian Weinkötz hat bei Taunusstein in einem kleinen NSG mit Bachlauf diese Elfenbeinröhrlinge gefunden - und das in einem Dürresommer" %}
+{% include abbildung_ende.html legende="02.08.2022: Christian Weinkötz hat in Österreich bei Lungau (Bundesland Salzburg) in 1700 m Höhe diese Elfenbeinröhrlinge gefunden - und das in einem Dürresommer" %}
 
 Amüsant finde ich den wissenschaftlichen Artnamen *placidus*, der darauf verweist, dass es sich um einen friedlichen, ruhigen Pilz handelt – im Unterschied zu den kriegerischen (solche gib´s: z. B. *[Cordyceps militaris](/pilze/cordyceps-militaris-puppenkernkeule)*, die Puppenkernkeule) und den lauten oder unruhigen (die gibt´s nicht).
