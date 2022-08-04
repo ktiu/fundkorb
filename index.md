@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/diatrype_disciformis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Buchen-Eckenscheibchen *Diatrype disciformis*. Auf abgefallenen Buchenzweigen und -ästen sind sie oft zu Hunderten zu sehen. Sie entwickeln sich unter der Rinde, die sie dann an ihren Rändern aufsprengen. Die einzelnen Fruchtkörper (*Perithezien* genannt) werden bis zu 4 mm groß, die abgeflachten Oberflächen erscheinen durch die Sporenaustrittsöffnungen punktiert. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/diatrype-disciformis-buchen-eckenscheibchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/suillus_placidus_02_cw.jpg" %}
 {% include abbildung_ende.html %}
 
