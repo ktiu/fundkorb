@@ -12,6 +12,18 @@ footer_scripts:
 
 - - -
 
+05.08.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-") muss nicht zwangsläufig eine einheimische Art sein. Den Schwarzstreifigen Scheidling *Volvariella volvacea* gibt's zwar auch bei uns, es handelt sich aber um einen seltenen und bei der gegenwärtigen Trockenheit kaum auffindbaren Pilz. Ganz anders in Thailand. Dort wird er das ganze Jahr über in allen Landesteilen auf Reisstroh gezüchtet und ist allgegenwärtiger Marktpilz. Als *Reisstrohpilz* ist er auch als Konserve in deutschen Asia-Shops erhältlich. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/volvariella_volvacea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrype_disciformis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -31,30 +43,6 @@ footer_scripts:
 03.08.2022: Bei dieser Dürre schon eine echte Sensation: Christian Weinkötz hat in Österreich bei Lungau (Bundesland Salzburg) in 1700 m Höhe diese Elfenbeinröhrlinge (Suillus placidus) gefunden! Mit seinem Einverständnis ist diese ausschließlich bei fünfnadeligen Pinus-Arten wachsende Art jetzt aktueller [Fundkorbpilz](AA "Glossar-"). Die Weymouthskiefer Pinus strobus ist einst aus Nordamerika nach Europa gekommen und mit der im Alpenraum vorkommenden Zirbelkiefer (Pinus cembra) [Mykorrhiza](Mykorrhiza "Glossar")-Partner des Elfenbeinröhrlings. 
 
 [Mehr lesen >](/pilze/suillus-placidus-elfenbeinröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gnomonia_cerastis_01_uvs.jpg" %}
-{% include abbildung_ende.html %}
-
-02.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der eher wie Dornen aussieht als wie ein Pilz und schon gar nicht wie das, was man sich unter einem "Kugelpilz" vorstellen könnte. Er heißt Geschnäbelter Ahornkugelpilz (*Gnomonia cerastis*) und dürfte in keinem Spitzahornbestand fehlen, wo er an den Stielen abgefallener Vorjahresblätter wächst und am besten mit einer Lupe betrachtet wird. Ich habe ziemlich lange suchen müssen, bis ich ihn in unteren noch etwas feuchten Schichten der Laubstreu aufgespürt hatte. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gnomonia-cerastis-geschnäbelter-ahornkugelpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ascobolus_crenulatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.08.2022: Kaninchenköteln findet man auch bei Trockenheit und mit ihnen lassen sich recht zuverlässig funktionierende Pilzkulturen auf dem Balkon oder im Vorgarten anlegen. Bei mir hat sich gerade mal wieder etwas getan und einen aktuellen [Fundkorbpilz](AA "Glossar-") geliefert: *Ascobolus crenulatus*, der Grüngelbe Kotling. Er zeichnet sich sogar durch eine Besonderheit aus, die man im Reich der Pilze höchst selten antrifft. Eines seiner Mikromerkmale, die man üblicherweise nur mit dem Mikroskop sehen kann, lassen sich mit bloßem Auge erkennen: die aus dem [Hymenium](Hymenium "Glossar") herausragenden [Asci](Asci "Glossar"). Neben den Köteln warten übrigens auch Pferdeäpfel auf meinem Balkon auf Pilzzuchterfolge. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ascobolus-crenulatus-grüngelber-kotling)
 
 <div style="clear:  both"></div>
 
