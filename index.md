@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hyphodontia_sambuci_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Holunder-Rindenpilz *Hyphodontia sambuci*. Diese häufige Art dürfte in keinem Holunderbestand fehlen, wird aber von den meisten Naturfreunden gar nicht als Pilz erkannt. Verständlich – sehen die befallenen Stammteile oder Äste doch eher aus, als seien sie mit weißer Farbe oder Kalk angestrichen worden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hyphodontia-sambuci-holunder-rindenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/volvariella_volvacea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
