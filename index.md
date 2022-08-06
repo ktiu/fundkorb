@@ -18,7 +18,7 @@ footer_scripts:
 
 05.08.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-") muss nicht zwangsläufig eine einheimische Art sein. Den Schwarzstreifigen Scheidling *Volvariella volvacea* gibt's zwar auch bei uns, es handelt sich aber um einen seltenen und bei der gegenwärtigen Trockenheit kaum auffindbaren Pilz. Ganz anders in Thailand. Dort wird er das ganze Jahr über in allen Landesteilen auf Reisstroh gezüchtet und ist allgegenwärtiger Marktpilz. Als *Reisstrohpilz* ist er auch als Konserve in deutschen Asia-Shops erhältlich. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)
 
 <div style="clear:  both"></div>
 
