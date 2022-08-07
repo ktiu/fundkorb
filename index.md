@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/diatrype_bullata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Blasige Eckenscheibchen *Diatrype bullata*, das vor allem bei gezielter Suche an abgestorbenen, noch berindeten Ästen von Weiden und Erlen zu finden ist. Es handelt sich um schwarze kissenförmige Sammelfruchtkörper, die bis zu 3 mm Durchmesser erreichen und einzeln oder zu mehreren zusammenfließend aus der Rinde hervorbrechen.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/diatrype-bullata-blasiges-eckenscheibchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hyphodontia_sambuci_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 05.08.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-") muss nicht zwangsläufig eine einheimische Art sein. Den Schwarzstreifigen Scheidling *Volvariella volvacea* gibt's zwar auch bei uns, es handelt sich aber um einen seltenen und bei der gegenwärtigen Trockenheit kaum auffindbaren Pilz. Ganz anders in Thailand. Dort wird er das ganze Jahr über in allen Landesteilen auf Reisstroh gezüchtet und ist allgegenwärtiger Marktpilz. Als *Reisstrohpilz* ist er auch als Konserve in deutschen Asia-Shops erhältlich. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diatrype_disciformis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Buchen-Eckenscheibchen *Diatrype disciformis*. Auf abgefallenen Buchenzweigen und -ästen sind sie oft zu Hunderten zu sehen. Sie entwickeln sich unter der Rinde, die sie dann an ihren Rändern aufsprengen. Die einzelnen Fruchtkörper (*Perithezien* genannt) werden bis zu 4 mm groß, die abgeflachten Oberflächen erscheinen durch die Sporenaustrittsöffnungen punktiert. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/diatrype-disciformis-buchen-eckenscheibchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/suillus_placidus_02_cw.jpg" %}
-{% include abbildung_ende.html %}
-
-03.08.2022: Bei dieser Dürre schon eine echte Sensation: Christian Weinkötz hat in Österreich bei Lungau (Bundesland Salzburg) in 1700 m Höhe diese Elfenbeinröhrlinge (Suillus placidus) gefunden! Mit seinem Einverständnis ist diese ausschließlich bei fünfnadeligen Pinus-Arten wachsende Art jetzt aktueller [Fundkorbpilz](AA "Glossar-"). Die Weymouthskiefer Pinus strobus ist einst aus Nordamerika nach Europa gekommen und mit der im Alpenraum vorkommenden Zirbelkiefer (Pinus cembra) [Mykorrhiza](Mykorrhiza "Glossar")-Partner des Elfenbeinröhrlings. 
-
-[Mehr lesen >](/pilze/suillus-placidus-elfenbeinröhrling)
 
 <div style="clear:  both"></div>
 
