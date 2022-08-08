@@ -16,7 +16,7 @@ literatur:
   - text: "Stille, G.: Krankheit und Arznei: Die Geschichte der Medikamente
       (Springer-Verlag 1994)"
 ---
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/elaphomyces_granulatus_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
