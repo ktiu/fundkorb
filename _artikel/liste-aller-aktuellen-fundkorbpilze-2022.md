@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-07.08.2022: [Diatrype bullata - Blasiges Eckenscheibchen](/pilze/diatrype-bullata-blasiges-eckenscheibchen)  
+08.08.2022: [Elaphomyces granulatus - Kleinwarzige Hirschtrüffel](/pilze/elaphomyces-granulatus-kleinwarzige-hirschtrüffel)  
+07.08.2022: [Diatrype bullata - Blasiges Eckenscheibchen](/pilze/diatrype-bullata-blasiges-eckenscheibchen)\
 06.08.2022: [Hyphodontia sambuci - Holunder-Rindenpilz](/pilze/hyphodontia-sambuci-holunder-rindenpilz)\
 05.08.2022: [Volvariella volvacea - Schwarzstreifiger Scheidling](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)\
 04.08.2022: [Diatrype disciformis - Buchen-Eckenscheibchen](/pilze/diatrype-disciformis-buchen-eckenscheibchen)\
