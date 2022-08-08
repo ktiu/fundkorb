@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/elaphomyces_granulatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Kleinwarzige Hirschtrüffel *Elaphomyces granulatus*. Wem beim Lesen des Wortes *"Trüffel"*  schon das Wasser im Mund zusammenläuft, der hat sich zu früh gefreut. Für unseren Geschmack ist sie ungenießbar. Es freuen sich neben Rotwild vor allem Wildschweine, die auf der Suche nach ihnen ganze Wälder umgraben. Unseren aufmerksamen Pilzsucher-Augen bleiben sie wegen ihres unterirdischen Wachstums verborgen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/elaphomyces-granulatus-kleinwarzige-hirschtrüffel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrype_bullata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
