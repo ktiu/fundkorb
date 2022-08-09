@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cordyceps_ophioglossoides_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+09.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zungenkernkeule *Cordyceps ophioglossoides*, die jetzt *Tolypocladium ophioglossoides* heißen soll. Sie hat eine gewisse Ähnlichkeit mit Erdzungen (Gattung *Geoglossum*). Zur Abgrenzung braucht man jedoch nur einen Fruchtkörper mit etwas Sorgfalt aus dem Boden ziehen. Der Stiel entspringt einem gelben [Myzelstrang](Myzel "Glossar"), den man bis zu seinem im Substrat verborgenen Ursprung verfolgen kann. Er endet an einer Hirschtrüffel, unserem gestrigen Fundkorbpilz. Damit ist der Fall geklärt. Auch für die Hirschtrüffel, auf der die Zungenkernkeule parasitiert. Sie wird sich nicht mehr zu einem reifen Pilz entwickeln. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cordyceps-ophioglossoides-zungenkernkeule)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/elaphomyces_granulatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 07.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Blasige Eckenscheibchen *Diatrype bullata*, das vor allem bei gezielter Suche an abgestorbenen, noch berindeten Ästen von Weiden und Erlen zu finden ist. Es handelt sich um schwarze kissenförmige Sammelfruchtkörper, die bis zu 3 mm Durchmesser erreichen und einzeln oder zu mehreren zusammenfließend aus der Rinde hervorbrechen.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/diatrype-bullata-blasiges-eckenscheibchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hyphodontia_sambuci_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Holunder-Rindenpilz *Hyphodontia sambuci*. Diese häufige Art dürfte in keinem Holunderbestand fehlen, wird aber von den meisten Naturfreunden gar nicht als Pilz erkannt. Verständlich – sehen die befallenen Stammteile oder Äste doch eher aus, als seien sie mit weißer Farbe oder Kalk angestrichen worden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hyphodontia-sambuci-holunder-rindenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/volvariella_volvacea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.08.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-") muss nicht zwangsläufig eine einheimische Art sein. Den Schwarzstreifigen Scheidling *Volvariella volvacea* gibt's zwar auch bei uns, es handelt sich aber um einen seltenen und bei der gegenwärtigen Trockenheit kaum auffindbaren Pilz. Ganz anders in Thailand. Dort wird er das ganze Jahr über in allen Landesteilen auf Reisstroh gezüchtet und ist allgegenwärtiger Marktpilz. Als *Reisstrohpilz* ist er auch als Konserve in deutschen Asia-Shops erhältlich. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)
 
 <div style="clear:  both"></div>
 
