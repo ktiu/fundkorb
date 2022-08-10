@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/eutypella_quaternata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Vierfrüchtige Quaternaria *Eutypella quaternata*, ein unscheinbares Pilzchen, das zu Tausenden einen einzigen Buchenast überziehen kann, der dann ein pockennarbiges oder pickeliges Aussehen bekommt. Im Anschnitt ist das aus vier [Perithezien](Perithezien "Glossar") bestehende Nest zu erkennen. Am besten mit einer gut vergrößernden Lupe. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cordyceps_ophioglossoides_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 08.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Kleinwarzige Hirschtrüffel *Elaphomyces granulatus*. Wem beim Lesen des Wortes *"Trüffel"*  schon das Wasser im Mund zusammenläuft, der hat sich zu früh gefreut. Für unseren Geschmack ist sie ungenießbar. Es freuen sich neben Rotwild vor allem Wildschweine, die auf der Suche nach ihnen ganze Wälder umgraben. Unseren aufmerksamen Pilzsucher-Augen bleiben sie wegen ihres unterirdischen Wachstums verborgen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/elaphomyces-granulatus-kleinwarzige-hirschtrüffel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diatrype_bullata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Blasige Eckenscheibchen *Diatrype bullata*, das vor allem bei gezielter Suche an abgestorbenen, noch berindeten Ästen von Weiden und Erlen zu finden ist. Es handelt sich um schwarze kissenförmige Sammelfruchtkörper, die bis zu 3 mm Durchmesser erreichen und einzeln oder zu mehreren zusammenfließend aus der Rinde hervorbrechen.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/diatrype-bullata-blasiges-eckenscheibchen)
 
 <div style="clear:  both"></div>
 
