@@ -16,7 +16,7 @@ literatur:
   - text: "Dieter Gewalt & Hermine Lotz-Winter: Die Kollarett-Kernkeule
       Ophiocordyceps larvicola in: Tintling Nr. 65 (4/2010) S. 31 - 33"
 ---
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cordyceps_larvicola_04_hl.jpg" %}
 {% include bild.html datei="/bilder/cordyceps_larvicola_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -29,7 +29,7 @@ Bereits beim ersten Blick ins Mikroskop fallen die charakteristischen, [monilifo
 
 Nach unserem Wissenstand stammt die erste Fundmeldung für Deutschland von *Georg Müller* aus dem Jahr 2002 (Forum pilzepilze). In der Schweiz gab es 2006 einen Fund bei Basel, aus Frankreich wurden etliche Funde gemeldet, ein weiterer aus der Slowakei berichtet (Juni 2010). Es handelt sich also um eine wirkliche Rarität, wobei jedoch nicht auszuschließen ist, dass unser Pilzchen auch übersehen wird.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cordyceps_larvicola_03_hl.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/cordyceps_larvicola_02_hl.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
