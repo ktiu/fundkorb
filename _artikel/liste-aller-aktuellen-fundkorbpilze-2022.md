@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-09.08.2020: [Cordyceps ophioglossoides - Zungenkernkeule](/pilze/cordyceps-ophioglossoides-zungenkernkeule)  
+10.08.2022: [Eutypella quaternata - Vierfrüchtige Quaternaria](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)  
+09.08.2020: [Cordyceps ophioglossoides - Zungenkernkeule](/pilze/cordyceps-ophioglossoides-zungenkernkeule)\
 08.08.2022: [Elaphomyces granulatus - Kleinwarzige Hirschtrüffel](/pilze/elaphomyces-granulatus-kleinwarzige-hirschtrüffel)\
 07.08.2022: [Diatrype bullata - Blasiges Eckenscheibchen](/pilze/diatrype-bullata-blasiges-eckenscheibchen)\
 06.08.2022: [Hyphodontia sambuci - Holunder-Rindenpilz](/pilze/hyphodontia-sambuci-holunder-rindenpilz)\
