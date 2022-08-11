@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/inonotus_cuticularis_05_km.jpg" %}
+{% include abbildung_ende.html %}
+
+11.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Flache Schillerporling *Inonotus cuticularis*, der nicht unbedingt sehr flach sein muss. Vor allem jung ist er total knubbelig. Besonders gern wächst er aus Stammwunden stehender Laubbäume heraus. Sämtliche Arten der Gattung Inonotus sind einjährig. Im Sommer beginnen sie, ihre Fruchtkörper zu bilden, die im Spätherbst oder Winter absterben und dabei schwarz werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/inonotus-cuticularis-flacher-schillerporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/eutypella_quaternata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
