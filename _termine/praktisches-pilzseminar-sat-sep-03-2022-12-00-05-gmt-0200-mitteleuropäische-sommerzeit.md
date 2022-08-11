@@ -11,3 +11,5 @@ Dieses Angebot hat bereits eine mehr als 20-jährige Tradition und bietet eine u
 Von den fünf Exkursionsterminen ist der erste fest terminiert. Die weiteren werden abhängig von Wetter- und Wachstumsbedingungen bestimmt. Es macht wenig Sinn, bei anhaltender Trockenheit durch den Wald zu streifen. 
 
 Die Teilnahmegebühr für das komplette Seminar beträgt 120 Euro. Die Teilnahme ist nur nach bestätigter Anmeldung möglich.
+
+**Dieser Termin ist ausgebucht. Anmeldugen sind leider nicht mehr möglich.**
