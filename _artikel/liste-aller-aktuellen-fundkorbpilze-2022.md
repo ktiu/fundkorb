@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-12.08.2022: [Phallus indusiatus - Tropische Schleierdame](/pilze/phallus-indusiatus-tropische-schleierdame)  
+13.08.2022: [Staheliomyces cinctus - Strangulierte Stinkmorchel](/pilze/staheliomyces-cinctus-strangulierte-stinkmorchel)  
+12.08.2022: [Phallus indusiatus - Tropische Schleierdame](/pilze/phallus-indusiatus-tropische-schleierdame)\
 11.08.2022: [Inonotus cuticularis - Flacher Schillerporling](/pilze/inonotus-cuticularis-flacher-schillerporling)\
 10.08.2022: [Eutypella quaternata - Vierfrüchtige Quaternaria](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)\
 09.08.2020: [Cordyceps ophioglossoides - Zungenkernkeule](/pilze/cordyceps-ophioglossoides-zungenkernkeule)\
