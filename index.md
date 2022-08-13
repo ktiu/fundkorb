@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phallus_indusiatus_01_hs.jpg" %}
+{% include abbildung_ende.html %}
+
+12.08.2022: Da wegen der noch nie erlebten Dürre in großen Teilen Europas kaum noch *"richtige"* Pilze wachsen, freuen wir uns ganz besonders über einige Fundmeldungen, die uns aus dem Nationalpark Pico Bonito in Honduras erreicht haben. Mit der Tropischen Schleierdame *Phallus indusiatus* haben wir zudem eine äußerst attraktive wenn auch ziemlich "anrüchige" Art als aktuellen [Fundkorbpilz](AA "Glossar-"). Vor allem der zarte Schleier ist extrem kurzlebig und erfreut nur kurze Zeit das Auge des staunenden Betrachters. Morgen gibt's eine weitere ebenso exotische und geruchsintensive Pilzart aus dem mittelamerikanischen Urwald.
+
+[Mehr lesen >](/pilze/phallus-indusiatus-tropische-schleierdame)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/inonotus_cuticularis_05_km.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 10.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Vierfrüchtige Quaternaria *Eutypella quaternata*, ein unscheinbares Pilzchen, das zu Tausenden einen einzigen Buchenast überziehen kann, der dann ein pockennarbiges oder pickeliges Aussehen bekommt. Im Anschnitt ist das aus vier [Perithezien](Perithezien "Glossar") bestehende Nest zu erkennen. Am besten mit einer gut vergrößernden Lupe. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cordyceps_ophioglossoides_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-09.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zungenkernkeule *Cordyceps ophioglossoides*, die jetzt *Tolypocladium ophioglossoides* heißen soll. Sie hat eine gewisse Ähnlichkeit mit Erdzungen (Gattung *Geoglossum*). Zur Abgrenzung braucht man jedoch nur einen Fruchtkörper mit etwas Sorgfalt aus dem Boden ziehen. Der Stiel entspringt einem gelben [Myzelstrang](Myzel "Glossar"), den man bis zu seinem im Substrat verborgenen Ursprung verfolgen kann. Er endet an einer Hirschtrüffel, unserem gestrigen Fundkorbpilz. Damit ist der Fall geklärt. Auch für die Hirschtrüffel, auf der die Zungenkernkeule parasitiert. Sie wird sich nicht mehr zu einem reifen Pilz entwickeln. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cordyceps-ophioglossoides-zungenkernkeule)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/elaphomyces_granulatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Kleinwarzige Hirschtrüffel *Elaphomyces granulatus*. Wem beim Lesen des Wortes *"Trüffel"*  schon das Wasser im Mund zusammenläuft, der hat sich zu früh gefreut. Für unseren Geschmack ist sie ungenießbar. Es freuen sich neben Rotwild vor allem Wildschweine, die auf der Suche nach ihnen ganze Wälder umgraben. Unseren aufmerksamen Pilzsucher-Augen bleiben sie wegen ihres unterirdischen Wachstums verborgen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/elaphomyces-granulatus-kleinwarzige-hirschtrüffel)
 
 <div style="clear:  both"></div>
 
