@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/staheliomyces_cinctus_01_hs.jpg" %}
+{% include abbildung_ende.html %}
+
+13.08.2022: Es gibt einige Pilzarten, deren Name allein schon eine gelungene Fruchtkörperbeschreibung ist. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Strangulierte Stinkmorchel *Staheliomyces cinctus*. Ungeklärt bleibt, wer der "Halstuchmörder" gewesen ist oder ob es Selbstmord war. *Hans Stern* hat den bemerkenswerten Pilz wie auch schon den gestrigen nahen Verwandten im *Pico Bonito Nationalpark* in Honduras gefunden und fotografiert.
+
+[Mehr lesen >](/pilze/staheliomyces-cinctus-strangulierte-stinkmorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phallus_indusiatus_01_hs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 11.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Flache Schillerporling *Inonotus cuticularis*, der nicht unbedingt sehr flach sein muss. Vor allem jung ist er total knubbelig. Besonders gern wächst er aus Stammwunden stehender Laubbäume heraus. Sämtliche Arten der Gattung Inonotus sind einjährig. Im Sommer beginnen sie, ihre Fruchtkörper zu bilden, die im Spätherbst oder Winter absterben und dabei schwarz werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/inonotus-cuticularis-flacher-schillerporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/eutypella_quaternata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Vierfrüchtige Quaternaria *Eutypella quaternata*, ein unscheinbares Pilzchen, das zu Tausenden einen einzigen Buchenast überziehen kann, der dann ein pockennarbiges oder pickeliges Aussehen bekommt. Im Anschnitt ist das aus vier [Perithezien](Perithezien "Glossar") bestehende Nest zu erkennen. Am besten mit einer gut vergrößernden Lupe. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)
 
 <div style="clear:  both"></div>
 
