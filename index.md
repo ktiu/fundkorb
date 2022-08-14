@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ascodichaena_rugosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchen-Rindenschorf *Ascodichaena rugosa*. Das Bemerkenswerte an dieser häufigen Art, die in keinem Buchenwald fehlt, ist die Tatsache, dass sie erst 1977 beschrieben worden ist. Zuvor hat man wohl geglaubt, dass es sich bei dem schorfartigen Belag um einen normalen Bestandteil oder eine krankhafte Veränderung der Rinde handelt und niemand hat ihn näher untersucht. Er gehört zur Ordnung der *Rhytismatales*, die tatsächlich den deutschen Namen ["Flicklumpenartige"](/verwandt/flicklumpenartige-rhytismatales) trägt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ascodichaena-rugosa-buchen-rindenschorf)
+
+<div style clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/staheliomyces_cinctus_01_hs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 12.08.2022: Da wegen der noch nie erlebten Dürre in großen Teilen Europas kaum noch *"richtige"* Pilze wachsen, freuen wir uns ganz besonders über einige Fundmeldungen, die uns aus dem Nationalpark Pico Bonito in Honduras erreicht haben. Mit der Tropischen Schleierdame *Phallus indusiatus* haben wir zudem eine äußerst attraktive wenn auch ziemlich "anrüchige" Art als aktuellen [Fundkorbpilz](AA "Glossar-"). Vor allem der zarte Schleier ist extrem kurzlebig und erfreut nur kurze Zeit das Auge des staunenden Betrachters. Morgen gibt's eine weitere ebenso exotische und geruchsintensive Pilzart aus dem mittelamerikanischen Urwald.
 
 [Mehr lesen >](/pilze/phallus-indusiatus-tropische-schleierdame)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/inonotus_cuticularis_05_km.jpg" %}
-{% include abbildung_ende.html %}
-
-11.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Flache Schillerporling *Inonotus cuticularis*, der nicht unbedingt sehr flach sein muss. Vor allem jung ist er total knubbelig. Besonders gern wächst er aus Stammwunden stehender Laubbäume heraus. Sämtliche Arten der Gattung Inonotus sind einjährig. Im Sommer beginnen sie, ihre Fruchtkörper zu bilden, die im Spätherbst oder Winter absterben und dabei schwarz werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/inonotus-cuticularis-flacher-schillerporling)
 
 <div style="clear:  both"></div>
 
