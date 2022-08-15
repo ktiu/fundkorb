@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/fuligo_rufa_01_aa.jpg" %}
+{% include abbildung_ende.html %}
+
+15.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rötliche Lohblüte *Fuligo rufa*. Sie wurde von *Adam Adamovicz* im Stadtgebiet von Heusenstamm gefunden - am gleichen Baumstamm wie schon vor einem Jahr. Wie es scheint, sind diverse Schleimpilzarten ziemlich resistent gegen Trockenperioden. Bei einem Spaziergang in einem nahen Waldgebiet ist er einem weiteren [Myxomyzeten](Myxomyzeten "Glossar") begegnet, den wir morgen an dieser Stelle zeigen werden.
+
+[Mehr lesen >](/pilze/fuligo-rufa-rötliche-lohblüte)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ascodichaena_rugosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
