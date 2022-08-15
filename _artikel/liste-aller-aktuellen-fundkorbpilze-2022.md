@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-14.08.2022: [Ascodichaena rugosa - Buchen-Rindenschorf](/pilze/ascodichaena-rugosa-buchen-rindenschorf)  
+15.08.2022: [Fuligo rufa - Rötliche Lohblüte](/pilze/fuligo-rufa-rötliche-lohblüte)  
+14.08.2022: [Ascodichaena rugosa - Buchen-Rindenschorf](/pilze/ascodichaena-rugosa-buchen-rindenschorf)\
 13.08.2022: [Staheliomyces cinctus - Strangulierte Stinkmorchel](/pilze/staheliomyces-cinctus-strangulierte-stinkmorchel)\
 12.08.2022: [Phallus indusiatus - Tropische Schleierdame](/pilze/phallus-indusiatus-tropische-schleierdame)\
 11.08.2022: [Inonotus cuticularis - Flacher Schillerporling](/pilze/inonotus-cuticularis-flacher-schillerporling)\
