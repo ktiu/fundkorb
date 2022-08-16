@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tubulifera_arachnoidea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.08.2022: Wie gestern angekündigt, ist auch unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ein [Myxomyzet](/verwandt/schleimpilze-myxomyzeten), und zwar der Lachsfarbene Schleimpilz *Tubulifera arachnoidea*. In seinem rundlichen Stadium könnte man ihn für Amphibien- oder Fischeier halten, weshalb die Art auch *“Fischeier-Schleimpilz”* genannt wird. Sie gehört zu den wenigen Schleimpilzarten, die problemlos an ihrer besonderen Struktur erkannt werden können. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/fuligo_rufa_01_aa.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,30 +45,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/ascodichaena-rugosa-buchen-rindenschorf)
 
 <div style clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/staheliomyces_cinctus_01_hs.jpg" %}
-{% include abbildung_ende.html %}
-
-13.08.2022: Es gibt einige Pilzarten, deren Name allein schon eine gelungene Fruchtkörperbeschreibung ist. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Strangulierte Stinkmorchel *Staheliomyces cinctus*. Ungeklärt bleibt, wer der "Halstuchmörder" gewesen ist oder ob es Selbstmord war. *Hans Stern* hat den bemerkenswerten Pilz wie auch schon den gestrigen nahen Verwandten im *Pico Bonito Nationalpark* in Honduras gefunden und fotografiert.
-
-[Mehr lesen >](/pilze/staheliomyces-cinctus-strangulierte-stinkmorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phallus_indusiatus_01_hs.jpg" %}
-{% include abbildung_ende.html %}
-
-12.08.2022: Da wegen der noch nie erlebten Dürre in großen Teilen Europas kaum noch *"richtige"* Pilze wachsen, freuen wir uns ganz besonders über einige Fundmeldungen, die uns aus dem Nationalpark Pico Bonito in Honduras erreicht haben. Mit der Tropischen Schleierdame *Phallus indusiatus* haben wir zudem eine äußerst attraktive wenn auch ziemlich "anrüchige" Art als aktuellen [Fundkorbpilz](AA "Glossar-"). Vor allem der zarte Schleier ist extrem kurzlebig und erfreut nur kurze Zeit das Auge des staunenden Betrachters. Morgen gibt's eine weitere ebenso exotische und geruchsintensive Pilzart aus dem mittelamerikanischen Urwald.
-
-[Mehr lesen >](/pilze/phallus-indusiatus-tropische-schleierdame)
-
-<div style="clear:  both"></div>
 
 - - -
 
