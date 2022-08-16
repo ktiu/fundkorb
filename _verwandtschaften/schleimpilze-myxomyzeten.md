@@ -8,7 +8,7 @@ aktualisiert: 2022-06-19
 "Hermann Neubert, Wolfgang Nowotny, Karlheinz Baumann": Die Myxomyceten (3 Bände)\
 Marion Geib: Myxomycezen - Kleiner Führer für Exkursionen
 literatur:
-  - text: "Marion Geib: Myxomycezen: Kleiner Führer für Exkursionen"
+  - text: "Marion Geib: Myxomyceten: Kleiner Führer für Exkursionen"
     url: ""
   - text: "Hermann Neubert, Wolfgang Nowotny, Karlheinz Baumann: Die Myxomyceten (3
       Bände)"
