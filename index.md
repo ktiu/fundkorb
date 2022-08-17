@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/diatrypella_quercina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Eichen-Eckenscheibchen *Diatryplla quercina*. Auf diesen überaus häufigen [Pyrenomyzeten](Pyrenomyzeten "Glossar") scheint der Name *"Eckenscheibchen"* überhaupt nicht zu passen. Seine Fruchtkörper sind keineswegs flach wie eine Scheibe sondern rundlich geformt und brechen die Rinde von Eichenästen und -zweigen pockenartig auf. Bei der Unterscheidung von Pilzarten kommt es eben nicht immer auf die offensichtlich auffallenden und in einem Pilznamen manifestierten Merkmale an! (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/diatrypella-quercina-eichen-eckenscheibchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tubulifera_arachnoidea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/fuligo-rufa-rötliche-lohblüte)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ascodichaena_rugosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchen-Rindenschorf *Ascodichaena rugosa*. Das Bemerkenswerte an dieser häufigen Art, die in keinem Buchenwald fehlt, ist die Tatsache, dass sie erst 1977 beschrieben worden ist. Zuvor hat man wohl geglaubt, dass es sich bei dem schorfartigen Belag um einen normalen Bestandteil oder eine krankhafte Veränderung der Rinde handelt und niemand hat ihn näher untersucht. Er gehört zur Ordnung der *Rhytismatales*, die tatsächlich den deutschen Namen ["Flicklumpenartige"](/verwandt/flicklumpenartige-rhytismatales) trägt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ascodichaena-rugosa-buchen-rindenschorf)
-
-<div style clear:  both"></div>
 
 - - -
 
