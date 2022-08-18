@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-17.08.2022: [Diatrypella quercina - Eichen-Eckenscheibchen](/pilze/diatrypella-quercina-eichen-eckenscheibchen)  
+18.08.2022: [Trametes ochracea - Zonentramete](/pilze/trametes-ochracea-ockertramete-zonentramete)  
+17.08.2022: [Diatrypella quercina - Eichen-Eckenscheibchen](/pilze/diatrypella-quercina-eichen-eckenscheibchen)\
 16.08.2022: [Tubulifera arachnoidea - Lachsfarbener Schleimpilz](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)\
 15.08.2022: [Fuligo rufa - Rötliche Lohblüte](/pilze/fuligo-rufa-rötliche-lohblüte)\
 14.08.2022: [Ascodichaena rugosa - Buchen-Rindenschorf](/pilze/ascodichaena-rugosa-buchen-rindenschorf)\
