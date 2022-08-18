@@ -28,10 +28,10 @@ literatur:
 {% include abbildung_ende.html legende="2 Fotos: Hans Stern" %}
 
 Ursprünglich beinhaltete die Gattung *Chlorophyllum* nur eine einzige Art, den Grünsporigen Riesenschirmling *Chlorophyllum molybdites*. Etwa ab dem Jahr 2002 wurden aufgrund zahlreicher Arbeiten, insbesondere der niederländischen Mykologin *Else C. Vellinga*, sämtliche rötenden Riesenschirmlinge der Gattung *Macrolepiota* nach Chlorophyllum transferiert. Aktuell enthält die Gattung Chlorophyllum folgende u.a. in Europa vorkommende Arten:\
-Gerandetknolliger Garten- Safranschirmling (C. brunneum)
-Grünsporiger Safranschirmling (C. molybdites)
-Olivbrauner Safranschirmling (C. olivieri)
-Gemeiner Safranschirmling (C. rhacodes)
+Gerandetknolliger Garten- Safranschirmling (C. brunneum)\
+Grünsporiger Safranschirmling (C. molybdites)\
+Olivbrauner Safranschirmling (C. olivieri)\
+[Gemeiner Safranschirmling (C. rhacodes)](/pilze/macrolepiota-rhacodes-safran-riesenschirmling)
 
 Der hier beschriebene Grünsporige Riesenschirmling ist eine Art der Tropen und Subtropen. Funde in Mittel- oder Nordeuropa stammen offensichtlich aus Gewächshäusern oder Botanischen Gärten.
 
