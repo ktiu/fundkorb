@@ -12,13 +12,24 @@ profil:
 hauptbild:
   anzeige: false
   datei: /bilder/chlorophyllum_molybdites_01_hs.jpg
+literatur:
+  - text: "Frank, D. (2008) – Die neue Gattung Chlorophyllum nach VELLINGA –
+      Seltsame Intoxikationssymtome. DGFM-Mitteilungen 2008/2: 51-55"
+  - text: "Friebes, G. (2013) – Über die komplizierte Gruppe der Safran- und
+      Riesenschirmlinge: Die Gattungen Chlorophyllum und Macrolepiota. Tintling
+      2013/3, Innenseiten"
+  - url: https://de.wikipedia.org/wiki/Chlorophyllum_molybdites
+  - url: https://wiki.edu.vn/wiki22/2020/12/30/chlorophyllum-molybdites-wikipedia/
+  - url: https://dewiki.de/Lexikon/Chlorophyllum_molybdites
 ---
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/chlorophyllum_molybdites_01_hs.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/chlorophyllum_molybdites_02_hs.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="2 Fotos: Hans Stern" %}
+Ursprünglich beinhaltete die Gattung *Chlorophyllum* nur eine einzige Art, den Grünsporigen Riesenschirmling *Chlorophyllum molybdites*. Etwa ab dem Jahr 2002 wurden aufgrund zahlreicher Arbeiten, insbesondere der niederländischen Mykologin *Else C. Vellinga*, sämtliche rötenden Riesenschirmlinge der Gattung *Macrolepiota* nach Chlorophyllum transferiert. Aktuell enthält die Gattung Chlorophyllum folgende u.a. in Europa vorkommende Arten:  
+Gerandetknolliger Garten- Safranschirmling (C. brunneum)
+Grünsporiger Safranschirmling (C. molybdites)
+Olivbrauner Safranschirmling (C. olivieri)
+Gemeiner Safranschirmling (C. rhacodes)
 
-Die Riesenschirmlinge wurden etwa 2003 in die beiden Gattungen Macrolepiota  (nicht rötende Arten) und Chlorophyllum (rötende Arten) aufgeteilt. Einige Arten zählen zu den größten Lamellenpilzen überhaupt. Der hier beschriebene Grünsporige Riesenschirmling ist eine Art der Tropen und Subtropen. Funde in Mittel- oder Nordeuropa stammen offensichtlich aus Gewächshäusern oder Botanischen Gärten.
+
+Der hier beschriebene Grünsporige Riesenschirmling ist eine Art der Tropen und Subtropen. Funde in Mittel- oder Nordeuropa stammen offensichtlich aus Gewächshäusern oder Botanischen Gärten.
 
 Pilzfreund *Hans Stern* fand die Art im Norden von Honduras auf dem Gelände der Omega Lodge im Nationalpark *„Pico Bonito“*, in der Nähe des Cangrejal Rivers (Krebsfluss), 15 km entfernt von der Küstenstadt La Ceiba. Die Art fruktifiziert dort mehrmals im  Jahr, auch in größeren Stückzahlen. Sie bevorzugt von Menschen beeinflusste Standorte wie Urwaldpfade, Sattelplätze, Rastplätze etc.
 
