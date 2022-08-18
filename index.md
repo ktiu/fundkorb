@@ -12,6 +12,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/trametes_ochracea_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zonen-Tramete *Trametes ochracea*. Sie gilt als Doppelgänger der sehr viel häufigeren Schmetterlingstramete. Die Zonen-Tramete zeichnet sich durch eher braune Farbtöne aus. Ihr fehlen die bei Schmetterlingstrameten typischen schwärzlichen Glanzzonen. Bei untypisch gefärbten Fruchtkörpern kann es problematisch werden. Es kommen immer wieder Übergangsformen vor, die sich makro- wie mikroskopisch nicht eindeutig unterscheiden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/trametes-ochracea-ockertramete-zonentramete)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrypella_quercina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -31,18 +43,6 @@ footer_scripts:
 16.08.2022: Wie gestern angekündigt, ist auch unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ein [Myxomyzet](/verwandt/schleimpilze-myxomyzeten), und zwar der Lachsfarbene Schleimpilz *Tubulifera arachnoidea*. In seinem rundlichen Stadium könnte man ihn für Amphibien- oder Fischeier halten, weshalb die Art auch *“Fischeier-Schleimpilz”* genannt wird. Sie gehört zu den wenigen Schleimpilzarten, die problemlos an ihrer besonderen Struktur erkannt werden können. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/fuligo_rufa_01_aa.jpg" %}
-{% include abbildung_ende.html %}
-
-15.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rötliche Lohblüte *Fuligo rufa*. Sie wurde von *Adam Adamovicz* im Stadtgebiet von Heusenstamm gefunden - am gleichen Baumstamm wie schon vor einem Jahr. Wie es scheint, sind diverse Schleimpilzarten ziemlich resistent gegen Trockenperioden. Bei einem Spaziergang in einem nahen Waldgebiet ist er einem weiteren [Myxomyzeten](Myxomyzeten "Glossar") begegnet, den wir morgen an dieser Stelle zeigen werden.
-
-[Mehr lesen >](/pilze/fuligo-rufa-rötliche-lohblüte)
 
 <div style="clear:  both"></div>
 
