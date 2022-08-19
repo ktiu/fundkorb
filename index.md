@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylaria_longipes_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Langstielige Holzkeule *Xylaria longipes*. Sie ist zwar nicht aus Holz geschnitzt, ist aber mindestens genau so hart wie das tote Holz, auf dem sie wächst. Dabei hat sie zumindest im Rhein-Main-Gebiet eine auffallende Vorliebe für Ahornäste. Auffallend ist auch der extreme Schwarz-Weiß-Kontrast beim An- oder Durchschneiden der länglichen Keulen. Auf die Idee, sie essen zu wollen, ist bisher noch niemand gekommen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xylaria-longipes-langstielige-holzkeule)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_ochracea_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 17.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Eichen-Eckenscheibchen *Diatryplla quercina*. Auf diesen überaus häufigen [Pyrenomyzeten](Pyrenomyzeten "Glossar") scheint der Name *"Eckenscheibchen"* überhaupt nicht zu passen. Seine Fruchtkörper sind keineswegs flach wie eine Scheibe sondern rundlich geformt und brechen die Rinde von Eichenästen und -zweigen pockenartig auf. Bei der Unterscheidung von Pilzarten kommt es eben nicht immer auf die offensichtlich auffallenden und in einem Pilznamen manifestierten Merkmale an! (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/diatrypella-quercina-eichen-eckenscheibchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tubulifera_arachnoidea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.08.2022: Wie gestern angekündigt, ist auch unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ein [Myxomyzet](/verwandt/schleimpilze-myxomyzeten), und zwar der Lachsfarbene Schleimpilz *Tubulifera arachnoidea*. In seinem rundlichen Stadium könnte man ihn für Amphibien- oder Fischeier halten, weshalb die Art auch *“Fischeier-Schleimpilz”* genannt wird. Sie gehört zu den wenigen Schleimpilzarten, die problemlos an ihrer besonderen Struktur erkannt werden können. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
 
 <div style="clear:  both"></div>
 
