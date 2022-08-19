@@ -7,6 +7,7 @@ beschreibung:
   familie: Diatrypaceae
 profil:
   aktualisiert: 2021-01-21
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/diatrypella_quercina_01_dg.jpg
