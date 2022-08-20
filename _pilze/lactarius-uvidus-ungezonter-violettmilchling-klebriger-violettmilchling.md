@@ -34,7 +34,7 @@ Der **Hut** kann bis 130 mm breit werden. Er besitzt eine glatte, bei Feuchtigke
 Der **Stiel** wird bis 105 mm lang, er ist bis 25 mm breit und bei feuchtem Wetter klebrig, farblich weißlich bis blass creme, blass rosalich grau oder lederfarben/gelbbraun mit Graustich.\
 Das **Fleisch** ist fest, im Stiel hohl, weißlich bis blass lederfarben/gelbbraun mit einem Graustich. Bei Anschnitt oder Verletzung färbt es sich blass lila. Der Geschmack ist zuerst mild, wird dann bitter oder scharf. Der Geruch ist schwach fruchtig.\
 Die **Milch** kommt bei Verletzung oder im Schnitt ziemlich üppig, ist zuerst weiß und verfärbt sich im Kontakt mit Fleisch oder Lamellen langsam lila. Sie schmeckt sofort bitter.\
-Die **Sporen** messen im Mittel 8,9-9,8 x 7,3-7,9 µm, der mittlere Schlankheitsgrad beträgt 1,2-1,32. Die Ornamentation ist stark amyloid, bis zu 0,7 (-1) µm hoch und besteht aus gerundeten Warzen und breiten Graten, die ein unvollständiges Netz bilden. Der [Hilarfleck](Hilarfleck "Glossar") ist [inamyloid](inamyloid "Glossar"), färbt sich also mit Melzers Reagenz nicht.
+Die **Sporen** messen im Mittel 8,9-9,8 x 7,3-7,9 µm, der mittlere Schlankheitsgrad beträgt 1,2-1,32. Die Ornamentation ist stark [amyloid](amyloid "Glossar"), bis zu 0,7 (-1) µm hoch und besteht aus gerundeten Warzen und breiten Graten, die ein unvollständiges Netz bilden. Der [Hilarfleck](Hilarfleck "Glossar") ist [inamyloid](inamyloid "Glossar"), färbt sich also mit Melzers Reagenz nicht.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lactarius_uvidus_03_bm.jpg" nocrop=true %}
@@ -46,12 +46,12 @@ Der Ungezonte oder Klebrige Violettmilchling *Lactarius uvidus* ist eine Art feu
 ***Lactarius luridus*** besitzt eine wesentlich dünnere Schleimschicht, der Hut ist mithin im feuchten Zustand nur leicht klebrig. Außerdem ist der Hut dunkler und durch Wasserflecken konzentrisch gezont.\
 ***Lactarius violascens*** wächst bei Quercus (Eiche) und Carpinus (Hainbuche) und ist eine Art der Kalklaubwälder. Sein Hut ist mitunter konzentrisch gezont und bei feuchtem Wetter nur klebrig. Bei Verletzung werden die Fruchtkörper dunkel purpurfarben, also viel dunkler als die von L. uvidus.
 
-Die **Rote Liste gefährdeter Pilze Deutschlands** (2016) führt acht violett milchende Lactarius-Arten auf. Die in Klammern angegebenen Gäfährdungskategorien bedeuten: vom Aussterben bedroht =1, stark gefährdet = 2, gefährdet = 3, Gefährdung unbekannten Ausmaßes = G, Daten unzureichend = D, extrem selten = R. Wie man erkennt, sind sämtliche Arten in Deutschland als selten bis sehr selten anzusehen:
-Blasser Violettmilchling L. aspideus (2)
-Silberwurz-Milchling L. dryadophilus (R)
-Birken-Violettmilchling L. flavidus (2)
-Fahler Milchling L. luridus (G)
-Zottiger Violettmilchling L. repraesentaneus (2)
-Netzweiden-Milchling L. salicis-reticulatae (D)
-Klebriger oder Ungezonter Violettmilchling L. uvidus (3)
+Die **Rote Liste gefährdeter Pilze Deutschlands** (2016) führt acht violett milchende Lactarius-Arten auf. Die in Klammern angegebenen Gefährdungskategorien bedeuten: vom Aussterben bedroht =1, stark gefährdet = 2, gefährdet = 3, Gefährdung unbekannten Ausmaßes = G, Daten unzureichend = D, extrem selten = R. Wie man erkennt, sind sämtliche Arten in Deutschland als selten bis sehr selten anzusehen:
+Blasser Violettmilchling L. aspideus (2)  
+Silberwurz-Milchling L. dryadophilus (R)  
+Birken-Violettmilchling L. flavidus (2)  
+Fahler Milchling L. luridus (G)  
+Zottiger Violettmilchling L. repraesentaneus (2)  
+Netzweiden-Milchling L. salicis-reticulatae (D)  
+Klebriger oder Ungezonter Violettmilchling L. uvidus (3)  
 Trockener oder Gezonter Violettmilchling L. violascens (1)
