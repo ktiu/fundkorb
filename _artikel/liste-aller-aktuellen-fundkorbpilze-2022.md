@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-19.08.2022: [Xylaria longipes - Langstielige Holzkeule](/pilze/xylaria-longipes-langstielige-holzkeule)  
+20.08.2022: [Pluteus nigrofloccosus - Schwarzschneidiger Dachpilz](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)  
+19.08.2022: [Xylaria longipes - Langstielige Holzkeule](/pilze/xylaria-longipes-langstielige-holzkeule)\
 18.08.2022: [Trametes ochracea - Zonentramete](/pilze/trametes-ochracea-ockertramete-zonentramete)\
 17.08.2022: [Diatrypella quercina - Eichen-Eckenscheibchen](/pilze/diatrypella-quercina-eichen-eckenscheibchen)\
 16.08.2022: [Tubulifera arachnoidea - Lachsfarbener Schleimpilz](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)\
