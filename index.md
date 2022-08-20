@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pluteus_nigrofloccosus_01_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+20.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwarzschneidige Dachpilz *Pluteus nigrofloccosus*. Gefunden wurden die zwei Fruchtkörper auf einem mit Moos überwachsenen Fichten-Holzstumpf in einem Graben der Endmoränenlandschaft bei Moosach (Nähe München). Durch die anhaltende Trockenheit sind solche Pilzfunde eher rar geworden. Verwechselt werden könnte er mit dem Schwarzflockigen Dachpilz *Pluteus umbrosus*, der ebenfalls schwarze Lamellenschneiden hat. (Johann Rejek)
+
+[Mehr lesen >](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_longipes_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 18.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zonen-Tramete *Trametes ochracea*. Sie gilt als Doppelgänger der sehr viel häufigeren Schmetterlingstramete. Die Zonen-Tramete zeichnet sich durch eher braune Farbtöne aus. Ihr fehlen die bei Schmetterlingstrameten typischen schwärzlichen Glanzzonen. Bei untypisch gefärbten Fruchtkörpern kann es problematisch werden. Es kommen immer wieder Übergangsformen vor, die sich makro- wie mikroskopisch nicht eindeutig unterscheiden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/trametes-ochracea-ockertramete-zonentramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diatrypella_quercina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Eichen-Eckenscheibchen *Diatryplla quercina*. Auf diesen überaus häufigen [Pyrenomyzeten](Pyrenomyzeten "Glossar") scheint der Name *"Eckenscheibchen"* überhaupt nicht zu passen. Seine Fruchtkörper sind keineswegs flach wie eine Scheibe sondern rundlich geformt und brechen die Rinde von Eichenästen und -zweigen pockenartig auf. Bei der Unterscheidung von Pilzarten kommt es eben nicht immer auf die offensichtlich auffallenden und in einem Pilznamen manifestierten Merkmale an! (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/diatrypella-quercina-eichen-eckenscheibchen)
 
 <div style="clear:  both"></div>
 
