@@ -1,6 +1,7 @@
 ---
+permalink: ""
 beschreibung:
-  wissenschaftlich: Hypoxylon howeanum
+  wissenschaftlich: Hypoxylon howeianum
   deutsch: Zimtbraune Kohlenbeere
   referenz: Peck 1872
   familie: Hypoxylaceae
