@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_uvidus_01_bm.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+21.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ungezonte Violettmilchling *Lactarius uvidus*. Er wurde von *Bernd Miggel* in einem sauren Moor bei Schonach im Schwarzwald gefunden. Hier standen im Schatten von Fichten  zwei an der Stielbasis miteinander verwachsene Exemplare, die sorgfältig mikroskopiert und bestimmt wurden. Es handelt sich um eine seltene Rote-Liste-Art der Gefährdungsstufe G (= Gefährdung unbekannten Ausmaßes).
+
+[Mehr lesen >](/pilze/lactarius-uvidus-ungezonter-violettmilchling-klebriger-violettmilchling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_nigrofloccosus_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 19.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Langstielige Holzkeule *Xylaria longipes*. Sie ist zwar nicht aus Holz geschnitzt, ist aber mindestens genau so hart wie das tote Holz, auf dem sie wächst. Dabei hat sie zumindest im Rhein-Main-Gebiet eine auffallende Vorliebe für Ahornäste. Auffallend ist auch der extreme Schwarz-Weiß-Kontrast beim An- oder Durchschneiden der länglichen Keulen. Auf die Idee, sie essen zu wollen, ist bisher noch niemand gekommen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xylaria-longipes-langstielige-holzkeule)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_ochracea_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zonen-Tramete *Trametes ochracea*. Sie gilt als Doppelgänger der sehr viel häufigeren Schmetterlingstramete. Die Zonen-Tramete zeichnet sich durch eher braune Farbtöne aus. Ihr fehlen die bei Schmetterlingstrameten typischen schwärzlichen Glanzzonen. Bei untypisch gefärbten Fruchtkörpern kann es problematisch werden. Es kommen immer wieder Übergangsformen vor, die sich makro- wie mikroskopisch nicht eindeutig unterscheiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/trametes-ochracea-ockertramete-zonentramete)
 
 <div style="clear:  both"></div>
 
