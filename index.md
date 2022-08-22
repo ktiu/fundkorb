@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/perenniporia_fraxinea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eschen-Baumschwamm *Perenniporia fraxinea*. Es gehört schon zur Routine, dass ich ihn an seinem seit Jahren bekannten Standort besuche, wenn ich im Frankfurter Stadtwald in seine Nähe komme. Treuen Weggefährten macht man gerne seine Aufwartung. Der klobige Porling, der gern am Stammgrund von Laubbäumen wächst, ist im Rhein-Main-recht gut verbreitet. Sein Baumpartner muss übrigens nicht unbedingt die Esche sein. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/perenniporia-fraxinea-eschen-baumschwamm)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_uvidus_01_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 20.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwarzschneidige Dachpilz *Pluteus nigrofloccosus*. Gefunden wurden die zwei Fruchtkörper auf einem mit Moos überwachsenen Fichten-Holzstumpf in einem Graben der Endmoränenlandschaft bei Moosach (Nähe München). Durch die anhaltende Trockenheit sind solche Pilzfunde eher rar geworden. Verwechselt werden könnte er mit dem Schwarzflockigen Dachpilz *Pluteus umbrosus*, der ebenfalls schwarze Lamellenschneiden hat. (Johann Rejek)
 
 [Mehr lesen >](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_longipes_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Langstielige Holzkeule *Xylaria longipes*. Sie ist zwar nicht aus Holz geschnitzt, ist aber mindestens genau so hart wie das tote Holz, auf dem sie wächst. Dabei hat sie zumindest im Rhein-Main-Gebiet eine auffallende Vorliebe für Ahornäste. Auffallend ist auch der extreme Schwarz-Weiß-Kontrast beim An- oder Durchschneiden der länglichen Keulen. Auf die Idee, sie essen zu wollen, ist bisher noch niemand gekommen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xylaria-longipes-langstielige-holzkeule)
 
 <div style="clear:  both"></div>
 
