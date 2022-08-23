@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-22.08.2022: [Perenniporia fraxinea - Eschen-Baumschwamm](/pilze/perenniporia-fraxinea-eschen-baumschwamm)  
+23.08.2022: [Leucocoprinus birnbaumii - Gelber Faltenschirmling](/pilze/leucocoprinus-birnbaumii-gelber-faltenschirmling)  
+22.08.2022: [Perenniporia fraxinea - Eschen-Baumschwamm](/pilze/perenniporia-fraxinea-eschen-baumschwamm)\
 21.08.2022: [Lactarius uvidus - Ungezonter Violettmilchling](/pilze/lactarius-uvidus-ungezonter-violettmilchling-klebriger-violettmilchling)\
 20.08.2022: [Pluteus nigrofloccosus - Schwarzschneidiger Dachpilz](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)\
 19.08.2022: [Xylaria longipes - Langstielige Holzkeule](/pilze/xylaria-longipes-langstielige-holzkeule)\
