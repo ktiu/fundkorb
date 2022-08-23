@@ -12,6 +12,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/leucocoprinus_birnbaumii_05_yk.jpg" %}
+{% include abbildung_ende.html %}
+
+23.08.2022: Den aktuellen [Fundkorbpilz](AA "Glossar-") auf dem Foto erkennen erfahrene Pilzfreunde auf den ersten Blick. Meine Tochter entdeckte ihn in einem Pflanztopf in ihrer Wohnung und fragte mich, ob ich ihn kenne. "Das ist *Leucocoprinus birnbaumii*," klärte ich sie auf, worauf sie ungläubig meinte, ich wolle sie veräppeln. Was hat der Pilz mit einem Birnbaum zu tun? Natürlich verriet ich ihr auch den deutschen Namen: *Gelber Faltentintling*. Und dass es eine tropische Art ist, die bei uns nicht selten in Gewächshäusern und Blumentöpfen auftaucht.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leucocoprinus-birnbaumii-gelber-faltenschirmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/perenniporia_fraxinea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
