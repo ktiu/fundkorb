@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Phellinus robustus
   deutsch: Eichen-Feuerschwamm
   referenz: (P. Karst.) Bourdot & Galzin 1928
-  synonym: "Neuer Name: Fomotipora robusta"
+  synonym: "Neuer Name: Fomitipora robusta"
   erlaeuterung: robustus = kräftig, fest
   familie: Hymenochaetaceae
 profil:
