@@ -5,9 +5,10 @@ beschreibung:
   referenz: (P. Karst.) Bourdot & Galzin 1928
   synonym: "Neuer Name: Fomotipora robusta"
   erlaeuterung: robustus = kräftig, fest
+  familie: Hymenochaetaceae
 profil:
   aktualisiert: 2022-08-23
-  autor_in: Hymenochaetaceae
+  autor_in: Bernd Miggel
 hauptbild:
   anzeige: true
   datei: /bilder/phellinus_robustus_01_bm.jpg
