@@ -24,7 +24,7 @@ literatur:
 
 Um das in hohem Gras stehende Kahlkopfbüschel abzulichten, musste man erst einmal den Blick auf das Motiv freischnipseln. Das ging zunächst ganz flott. Je näher man den zerbrechlichen Pilzen kam, desto behutsamer musste vorgegangen werden. Bei der geringsten Berührung mit der Schere knickten die fragilen Stiele ein. Oder ein fallender Grashalm riss gleich mehrere mit sich um. Das gekappte Material musste natürlich aus dem Bildausschnitt entfernt werden, wobei es weitere Opfer gab. Schließlich waren nur noch unansehnliche Relikte eines zuvor vielhütigen Pilzstraußes übrig. So erging es *Thomas Lehr* am 12.05.2005 auf einer Kuhweide bei Hofheim am Taunus.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/psilocybe_semilanceata_03_cw.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/psilocybe_semilanceata_04_cw.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/psilocybe_semilanceata_05_cw.jpg" nocrop=true %}
