@@ -21,4 +21,8 @@ Erfahrungen mit psychotropen Pilzen der Gattung *Psilocybe* habe ich auf der ind
 {% include bild.html datei="/bilder/psilocybe_cubensis_02_wi.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Zuchtpilze Psilocybe cubensis (Foto: Wikipedia CC BY-SA 3.0)" %}
 
+Weitere Kahlkopfarten im Fundkorb:\
+[Psilocybe cyanescens - Blauernder Kahlkopf](/pilze/psilocybe-cyanescens-blauender-kahlkopf)  
+[Psilocybe semilanceata - Spitzkegeliger Kahlkopf](/pilze/psilocybe-semilanceata-spitzkegeliger-kahlkopf)
+
 Wer sich für Magic Mushrooms interessiert, dem sei das Buch ["Narrenschwämme" von Jochen Gartz](/artikel/narrenschwämme.html) empfohlen.
