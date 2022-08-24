@@ -12,6 +12,23 @@ footer_scripts:
 
 - - -
 
+##### Kostenlose Pilzführung im Frankfurter Stadtwald am Samstag, 17. September 2022  
+[Hier geht's zur Info und Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_howeanum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zimtbraune Kohlenbeere Hypoxylon howeianum. In Mitteleuropa gibt es mehr als 20 verschiedene Kohlenbeeren, die sich zum Teil sehr ähneln und nur mikroskopisch sicher zu unterscheiden sind. Das Substrat, auf sie wachsen, ist immerhin eine Bestimmungshilfe. Die Zimtbraune wächst auf toten am Boden liegenden Eichenästen (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypoxylon-howeianum-zimtbraune-kohlenbeere)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leucocoprinus_birnbaumii_05_yk.jpg" %}
 {% include abbildung_ende.html %}
@@ -36,35 +53,7 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_uvidus_01_bm.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-21.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ungezonte Violettmilchling *Lactarius uvidus*. Er wurde von *Bernd Miggel* in einem sauren Moor bei Schonach im Schwarzwald gefunden. Hier standen im Schatten von Fichten  zwei an der Stielbasis miteinander verwachsene Exemplare, die sorgfältig mikroskopiert und bestimmt wurden. Es handelt sich um eine seltene Rote-Liste-Art der Gefährdungsstufe G (= Gefährdung unbekannten Ausmaßes).
-
-[Mehr lesen >](/pilze/lactarius-uvidus-ungezonter-violettmilchling-klebriger-violettmilchling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pluteus_nigrofloccosus_01_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-20.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwarzschneidige Dachpilz *Pluteus nigrofloccosus*. Gefunden wurden die zwei Fruchtkörper auf einem mit Moos überwachsenen Fichten-Holzstumpf in einem Graben der Endmoränenlandschaft bei Moosach (Nähe München). Durch die anhaltende Trockenheit sind solche Pilzfunde eher rar geworden. Verwechselt werden könnte er mit dem Schwarzflockigen Dachpilz *Pluteus umbrosus*, der ebenfalls schwarze Lamellenschneiden hat. (Johann Rejek)
-
-[Mehr lesen >](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
 [Liste aller Aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
-
-- - -
-
-[Liste aller Aktuellen Fundkorbpilze 2021](/artikel/liste-aller-aktuellen-fundkorbpilze-2021.html)
 
 - - -
 
