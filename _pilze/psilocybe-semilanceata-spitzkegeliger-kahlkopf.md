@@ -25,9 +25,9 @@ literatur:
 Um das in hohem Gras stehende Kahlkopfbüschel abzulichten, musste man erst einmal den Blick auf das Motiv freischnipseln. Das ging zunächst ganz flott. Je näher man den zerbrechlichen Pilzen kam, desto behutsamer musste vorgegangen werden. Bei der geringsten Berührung mit der Schere knickten die fragilen Stiele ein. Oder ein fallender Grashalm riss gleich mehrere mit sich um. Das gekappte Material musste natürlich aus dem Bildausschnitt entfernt werden, wobei es weitere Opfer gab. Schließlich waren nur noch unansehnliche Relikte eines zuvor vielhütigen Pilzstraußes übrig. So erging es *Thomas Lehr* am 12.05.2005 auf einer Kuhweide bei Hofheim am Taunus.
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/psilocybe_semilanceata_03_cw.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/psilocybe_semilanceata_04_cw.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/psilocybe_semilanceata_05_cw.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/psilocybe_semilanceata_03_cw.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/psilocybe_semilanceata_04_cw.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/psilocybe_semilanceata_05_cw.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="3 Fotos: Christian Weinkötz" %}
 
 Ähnliche Erfahrungen machte auch *Christian Weinkötz* am 13.11.2021 beim Versuch, eine mehrhütige Gruppe auf einer Wiese bei Langenhain zu fotografieren. Was dabei auffällt: alle Fotos, die bei diesen Gelegenheiten aufgenommen wurden, zeigen glatte ocker- bis braunrötliche Stiele, während in Literaturangaben oft nur von (Zitat: Pilzkompendium E. Ludwig)
