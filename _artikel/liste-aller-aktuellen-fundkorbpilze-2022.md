@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-24.08.2022: [Hypoxylon howeianum - Zimtbraune Kohlenbeere](/pilze/hypoxylon-howeianum-zimtbraune-kohlenbeere)  
+25.07.2022: [Phellinus robustus = Eichen-Feuerschwamm](/pilze/phellinus-robustus-eichen-feuerschwamm)  
+24.08.2022: [Hypoxylon howeianum - Zimtbraune Kohlenbeere](/pilze/hypoxylon-howeianum-zimtbraune-kohlenbeere)\
 23.08.2022: [Leucocoprinus birnbaumii - Gelber Faltenschirmling](/pilze/leucocoprinus-birnbaumii-gelber-faltenschirmling)\
 22.08.2022: [Perenniporia fraxinea - Eschen-Baumschwamm](/pilze/perenniporia-fraxinea-eschen-baumschwamm)\
 21.08.2022: [Lactarius uvidus - Ungezonter Violettmilchling](/pilze/lactarius-uvidus-ungezonter-violettmilchling-klebriger-violettmilchling)\
