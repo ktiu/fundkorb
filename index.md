@@ -12,8 +12,19 @@ footer_scripts:
 
 - - -
 
-##### Kostenlose Pilzführung im Frankfurter Stadtwald am Samstag, 17. September 2022  
+##### Kostenlose Pilzführung im Frankfurter Stadtwald am Samstag, 17. September 2022
+
 [Hier geht's zur Info und Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_robustus_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+25.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Feuerschwamm Phellinus robustus. Er gehört zur Familie der Borstenscheiblingsverwandten mit brauner [Trama](Trama "Glossar"). Seine mehrjährigen Fruchtkörper sitzen meist zu mehreren auf der Rinde von Eichen, selten auch anderer Laubbaumarten. Seine [Myzelien](Myzel "Glossar") verursachen eine Weißfäule, wobei sie sowohl das Splint- und Kernholz wie auch das Kambium schädigen. Wie sich die Eiche erfolgreich gegen den Schmarotzer wehrt, beschreibt Bernd Miggel [hier >](/pilze/phellinus-robustus-eichen-feuerschwamm)
+
+<div style="clear:  both"></div>
 
 - - -
 
