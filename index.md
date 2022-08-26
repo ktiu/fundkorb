@@ -18,13 +18,13 @@ footer_scripts:
 
 - - -
 
-26.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maisbeulenbrand *Ustilago maydis*. Um ihn kennenzulernen, braucht man nur mal beim Vorbeifahren an einem Maisfeld einen Kurzstopp einzulegen. Meist muss man dann nicht lange suchen, um einen Kolben mit auffälligen schwarzweißen Wucherungen zu entdecken. Sie sehen aus wie ein Krebsgeschwür, aber es handelt sich um einen parasitischen Brandpilz, der seine Wirtspflanze schädigt. Für Mensch und Tier ist er ungefährlich. In manchen Ländern wird er sogar gegessen oder als homöopathisches Heilmittel verwendet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ustilago-maydis-maisbeulenbrand)
-
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ustilago_maydis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
+
+26.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maisbeulenbrand *Ustilago maydis*. Um ihn kennenzulernen, braucht man nur mal beim Vorbeifahren an einem Maisfeld einen Kurzstopp einzulegen. Meist muss man dann nicht lange suchen, um einen Kolben mit auffälligen schwarzweißen Wucherungen zu entdecken. Sie sehen aus wie ein Krebsgeschwür, aber es handelt sich um einen parasitischen Brandpilz, der seine Wirtspflanze schädigt. Für Mensch und Tier ist er ungefährlich. In manchen Ländern wird er sogar gegessen oder als homöopathisches Heilmittel verwendet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ustilago-maydis-maisbeulenbrand)
 
 <div style="clear:  both"></div>
 
