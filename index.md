@@ -18,6 +18,18 @@ footer_scripts:
 
 - - -
 
+26.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maisbeulenbrand *Ustilago maydis*. Um ihn kennenzulernen, braucht man nur mal beim Vorbeifahren an einem Maisfeld einen Kurzstopp einzulegen. Meist muss man dann nicht lange suchen, um einen Kolben mit auffälligen schwarzweißen Wucherungen zu entdecken. Sie sehen aus wie ein Krebsgeschwür, aber es handelt sich um einen parasitischen Brandpilz, der seine Wirtspflanze schädigt. Für Mensch und Tier ist er ungefährlich. In manchen Ländern wird er sogar gegessen oder als homöopathisches Heilmittel verwendet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ustilago-maydis-maisbeulenbrand)
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ustilago_maydis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_robustus_02_bm.jpg" %}
 {% include abbildung_ende.html %}
@@ -35,30 +47,6 @@ footer_scripts:
 24.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zimtbraune Kohlenbeere Hypoxylon howeianum. In Mitteleuropa gibt es mehr als 20 verschiedene Kohlenbeeren, die sich zum Teil sehr ähneln und nur mikroskopisch sicher zu unterscheiden sind. Das Substrat, auf sie wachsen, ist immerhin eine Bestimmungshilfe. Die Zimtbraune wächst auf toten am Boden liegenden Eichenästen (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypoxylon-howeianum-zimtbraune-kohlenbeere)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leucocoprinus_birnbaumii_05_yk.jpg" %}
-{% include abbildung_ende.html %}
-
-23.08.2022: Den aktuellen [Fundkorbpilz](AA "Glossar-") auf dem Foto erkennen erfahrene Pilzfreunde auf den ersten Blick. Meine Tochter entdeckte ihn in einem Pflanztopf in ihrer Wohnung und fragte mich, ob ich ihn kenne. "Das ist *Leucocoprinus birnbaumii*," klärte ich sie auf, worauf sie ungläubig meinte, ich wolle sie veräppeln. Was hat der Pilz mit einem Birnbaum zu tun? Natürlich verriet ich ihr auch den deutschen Namen: *Gelber Faltenschirmling*. Und dass es eine tropische Art ist, die bei uns nicht selten in Gewächshäusern und Blumentöpfen auftaucht.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leucocoprinus-birnbaumii-gelber-faltenschirmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/perenniporia_fraxinea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eschen-Baumschwamm *Perenniporia fraxinea*. Es gehört schon zur Routine, dass ich ihn an seinem seit Jahren bekannten Standort besuche, wenn ich im Frankfurter Stadtwald in seine Nähe komme. Treuen Weggefährten macht man gerne seine Aufwartung. Der klobige Porling, der gern am Stammgrund von Laubbäumen wächst, ist im Rhein-Main-recht gut verbreitet. Sein Baumpartner muss übrigens nicht unbedingt die Esche sein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/perenniporia-fraxinea-eschen-baumschwamm)
 
 <div style="clear:  both"></div>
 
