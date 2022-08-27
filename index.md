@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/isaria_umbrina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.08.2022:  Kein Insekt sondern unser aktueller [Fundkorbpilz](AA "Glossar-") ist die Pilzspinne *Isaria umbrina*. Dieses merkwürdige Gebilde besteht aus verzweigten [Hyphenbüscheln](Hyphen "Glossar"), die nicht selten auf Kohlenbeeren oder in deren unmittelbaren Umgebung zu finden sind. Es handelt sich bei ihnen um asexuelle Nebenfruchtformen, auch *Anamorphe* oder *Konidienform* genannt. *Isaria umbrina* scheint besonders häufig in Verbindung mit der [Zimtbraunen Kohlenbeere *Hypoxylon howeianum*](/pilze/hypoxylon-howeianum-zimtbraune-kohlenbeere) vorzukommen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/isaria-umbrina-pilzspinne)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ustilago_maydis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 25.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Feuerschwamm Phellinus robustus. Er gehört zur Familie der Borstenscheiblingsverwandten mit brauner [Trama](Trama "Glossar"). Seine mehrjährigen Fruchtkörper sitzen meist zu mehreren auf der Rinde von Eichen, selten auch anderer Laubbaumarten. Seine [Myzelien](Myzel "Glossar") verursachen eine Weißfäule, wobei sie sowohl das Splint- und Kernholz wie auch das Kambium schädigen. Wie sich die Eiche erfolgreich gegen den Schmarotzer wehrt, beschreibt Bernd Miggel [hier >](/pilze/phellinus-robustus-eichen-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_howeanum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zimtbraune Kohlenbeere Hypoxylon howeianum. In Mitteleuropa gibt es mehr als 20 verschiedene Kohlenbeeren, die sich zum Teil sehr ähneln und nur mikroskopisch sicher zu unterscheiden sind. Das Substrat, auf sie wachsen, ist immerhin eine Bestimmungshilfe. Die Zimtbraune wächst auf toten am Boden liegenden Eichenästen (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypoxylon-howeianum-zimtbraune-kohlenbeere)
 
 <div style="clear:  both"></div>
 
