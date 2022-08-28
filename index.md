@@ -22,7 +22,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/fistulina_hepatica_05_gb.jpg" %}
 {% include abbildung_ende.html %}
 
-28.08.2022:  Alltäglich ist das besonders in Dürrezeiten nicht: eine Offenbacherin findet in Frankurt den aktuellen [Fundkorbpilz](AA "Glossar-") des Tages! Im Stadtteil Fechenheim im Heinrich-Kraft-Park entdeckte *Daniela Toller* einen blutroten Leberreischling alias Ochsenzunge (*Fistulina hepatica*). Vermutlich am Fuß einer Linde. Ob er in der Pfanne gelandet ist, wurde nicht nachgefragt.
+28.08.2022:  Alltäglich ist das besonders in Dürrezeiten nicht: eine Offenbacherin findet in Frankurt den aktuellen [Fundkorbpilz](AA "Glossar-") des Tages! Im Stadtteil Fechenheim im Heinrich-Kraft-Park entdeckte *Daniela Toller* einen blutroten Leberreischling alias Ochsenzunge (*Fistulina hepatica*). Vermutlich am Fuß einer Linde. Ob er in der Pfanne gelandet ist, wurde nicht nachgefragt. Der Gattungsname *Fistulina* hat übrigens was mit *"Röhrchen"* zu tun.
 
 [Mehr lesen >](/pilze/fistulina-hepatica-ochsenzunge-leberreischling)
 
