@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2022
 published: true
 ---
-27.08.2022: [Isaria umbrina - Pilzspinne](/pilze/isaria-umbrina-pilzspinne)  
+28.08.2022: [Fistulina hepatica - Ochsenzunge, Leberreischling](/pilze/fistulina-hepatica-ochsenzunge-leberreischling)
+27.08.2022: [Isaria umbrina - Pilzspinne](/pilze/isaria-umbrina-pilzspinne)\
 26.08.2022: [Ustilago maydis - Maisbeulenbrand](/pilze/ustilago-maydis-maisbeulenbrand)\
 25.07.2022: [Phellinus robustus = Eichen-Feuerschwamm](/pilze/phellinus-robustus-eichen-feuerschwamm)\
 24.08.2022: [Hypoxylon howeianum - Zimtbraune Kohlenbeere](/pilze/hypoxylon-howeianum-zimtbraune-kohlenbeere)\
