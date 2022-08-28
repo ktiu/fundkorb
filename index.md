@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/fistulina_hepatica_05_gb.jpg" %}
+{% include abbildung_ende.html %}
+
+28.08.2022:  Alltäglich ist das besonders in Dürrezeiten nicht: eine Offenbacherin findet in Frankurt den aktuellen [Fundkorbpilz](AA "Glossar-") des Tages! Im Stadtteil Fechenheim im Heinrich-Kraft-Park entdeckte *Daniela Toller* einen blutroten Leberreischling alias Ochsenzunge (*Fistulina hepatica*). Vermutlich am Fuß einer Linde. Ob er in der Pfanne gelandet ist, wurde nicht nachgefragt.
+
+[Mehr lesen >](/pilze/fistulina-hepatica-ochsenzunge-leberreischling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/isaria_umbrina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,16 +49,6 @@ footer_scripts:
 26.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maisbeulenbrand *Ustilago maydis*. Um ihn kennenzulernen, braucht man nur mal beim Vorbeifahren an einem Maisfeld einen Kurzstopp einzulegen. Meist muss man dann nicht lange suchen, um einen Kolben mit auffälligen schwarzweißen Wucherungen zu entdecken. Sie sehen aus wie ein Krebsgeschwür, aber es handelt sich um einen parasitischen Brandpilz, der seine Wirtspflanze schädigt. Für Mensch und Tier ist er ungefährlich. In manchen Ländern wird er sogar gegessen oder als homöopathisches Heilmittel verwendet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/ustilago-maydis-maisbeulenbrand)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_robustus_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-25.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Feuerschwamm Phellinus robustus. Er gehört zur Familie der Borstenscheiblingsverwandten mit brauner [Trama](Trama "Glossar"). Seine mehrjährigen Fruchtkörper sitzen meist zu mehreren auf der Rinde von Eichen, selten auch anderer Laubbaumarten. Seine [Myzelien](Myzel "Glossar") verursachen eine Weißfäule, wobei sie sowohl das Splint- und Kernholz wie auch das Kambium schädigen. Wie sich die Eiche erfolgreich gegen den Schmarotzer wehrt, beschreibt Bernd Miggel [hier >](/pilze/phellinus-robustus-eichen-feuerschwamm)
 
 <div style="clear:  both"></div>
 
