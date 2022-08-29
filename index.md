@@ -22,7 +22,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/cryptostroma_corticale_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-29.08.2022:  In Dietzenbach hat es mal wieder einen Ahornbaum erwischt. Das Umweltamt ist bereits informiert, um ihn schnellstmöglich zu entfernen. Der Grund: die Rinde des Baumd ist von unserem aktuellen [Fundkorbpilz](AA "Glossar-") *Cryptostroma corticale*  befallen, der sogenannten Rußrindenkrankheit. Und das hat Folgen. Nicht nur der Baum ist verloren, auch wer mit seiner Rinde in Berührung kommt oder zu viele Pilzsporen einatmet hat, könnte gesundheitliche Probleme bekommen. Darum lohnt es sich, mehr über diesen tückischen Schädling zu erfahren, und zwar [hier >>>](/pilze/cryptostroma-corticale-rußrindenkrankheit)
+29.08.2022:  In Dietzenbach hat es mal wieder einen Ahornbaum erwischt. Das Umweltamt ist bereits informiert, um ihn schnellstmöglich zu entfernen. Der Grund: die Rinde des Baums ist von unserem aktuellen [Fundkorbpilz](AA "Glossar-") *Cryptostroma corticale*  befallen, der sogenannten Rußrindenkrankheit. Und das hat Folgen. Nicht nur der Baum ist verloren, auch wer mit seiner Rinde in Berührung kommt oder zu viele Pilzsporen eingeatmet hat, könnte gesundheitliche Probleme bekommen. Darum lohnt es sich, mehr über diesen tückischen Schädling zu erfahren, und zwar [hier >>>](/pilze/cryptostroma-corticale-rußrindenkrankheit)
 
  <div style="clear:  both"></div>
 
