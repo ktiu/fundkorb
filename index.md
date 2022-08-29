@@ -19,6 +19,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cryptostroma_corticale_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.08.2022:  In Dietzenbach hat es mal wieder einen Ahornbaum erwischt. Das Umweltamt ist bereits informiert, um ihn schnellstmöglich zu entfernen. Der Grund: die Rinde des Baumd ist von unserem aktuellen [Fundkorbpilz](AA "Glossar-") *Cryptostroma corticale*  befallen, der sogenannten Rußrindenkrankheit. Und das hat Folgen. Nicht nur der Baum ist verloren, auch wer mit seiner Rinde in Berührung kommt oder zu viele Pilzsporen einatmet hat, könnte gesundheitliche Probleme bekommen. Darum lohnt es sich, mehr über diesen tückischen Schädling zu erfahren, und zwar [hier >>>](/pilze/cryptostroma-corticale-rußrindenkrankheit)
+
+ <div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/fistulina_hepatica_05_gb.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +47,6 @@ footer_scripts:
 27.08.2022:  Kein Insekt sondern unser aktueller [Fundkorbpilz](AA "Glossar-") ist die Pilzspinne *Isaria umbrina*. Dieses merkwürdige Gebilde besteht aus verzweigten [Hyphenbüscheln](Hyphen "Glossar"), die nicht selten auf Kohlenbeeren oder in deren unmittelbaren Umgebung zu finden sind. Es handelt sich bei ihnen um asexuelle Nebenfruchtformen, auch *Anamorphe* oder *Konidienform* genannt. *Isaria umbrina* scheint besonders häufig in Verbindung mit der [Zimtbraunen Kohlenbeere *Hypoxylon howeianum*](/pilze/hypoxylon-howeianum-zimtbraune-kohlenbeere) vorzukommen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/isaria-umbrina-pilzspinne)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ustilago_maydis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.08.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maisbeulenbrand *Ustilago maydis*. Um ihn kennenzulernen, braucht man nur mal beim Vorbeifahren an einem Maisfeld einen Kurzstopp einzulegen. Meist muss man dann nicht lange suchen, um einen Kolben mit auffälligen schwarzweißen Wucherungen zu entdecken. Sie sehen aus wie ein Krebsgeschwür, aber es handelt sich um einen parasitischen Brandpilz, der seine Wirtspflanze schädigt. Für Mensch und Tier ist er ungefährlich. In manchen Ländern wird er sogar gegessen oder als homöopathisches Heilmittel verwendet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ustilago-maydis-maisbeulenbrand)
 
 <div style="clear:  both"></div>
 
