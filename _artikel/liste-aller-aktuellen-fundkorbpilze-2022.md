@@ -1,5 +1,6 @@
 ---
 titel: Liste aller aktuellen Fundkorbpilze 2022
+vorschaubild: null
 published: true
 ---
 29.08.2022: [Cryptostroma corticale - Rußrindenkrankheit](/pilze/cryptostroma-corticale-rußrindenkrankheit)  
