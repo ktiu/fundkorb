@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lasiosphaeria_ovina_01_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+30.08.2022:  Unter den winzigen Ascomyzeten gibt es nur wenige, die mit einem Blick durch die Lupe sicher erkannt werden können. Zu diesen gehört der aktuelle [Fundkorbpilz](AA "Glossar-"), der Eiförmige Kohlenkugelpilz *Lasiosphaeria ovina*. Die kugeligen bis eiförmigen Fruchtkörper sind weniger als 1 mm groß und ganzjährig auf morschem Holz zu finden. Der Name Kohlenkugelpilz passt so gar nicht auf diese Art, ist sie doch komplett von einem weißlich grauen filzigen [Hyphengewebe](Hyphen "Glossar") eingekleidet, in dem lediglich die am Scheitel befindliche Sporenauslassöffnung durch eine dunklere Farbe auffällt. Die einzelnen Fruchtkörper wachsen gesellig bis dicht gedrängt auf ihrem Substrat. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cryptostroma_corticale_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 28.08.2022:  Alltäglich ist das besonders in Dürrezeiten nicht: eine Offenbacherin findet in Frankurt den aktuellen [Fundkorbpilz](AA "Glossar-") des Tages! Im Stadtteil Fechenheim im Heinrich-Kraft-Park entdeckte *Daniela Toller* einen blutroten Leberreischling alias Ochsenzunge (*Fistulina hepatica*). Vermutlich am Fuß einer Linde. Ob er in der Pfanne gelandet ist, wurde nicht nachgefragt. Der Gattungsname *Fistulina* hat übrigens was mit *"Röhrchen"* zu tun.
 
 [Mehr lesen >](/pilze/fistulina-hepatica-ochsenzunge-leberreischling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/isaria_umbrina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.08.2022:  Kein Insekt sondern unser aktueller [Fundkorbpilz](AA "Glossar-") ist die Pilzspinne *Isaria umbrina*. Dieses merkwürdige Gebilde besteht aus verzweigten [Hyphenbüscheln](Hyphen "Glossar"), die nicht selten auf Kohlenbeeren oder in deren unmittelbaren Umgebung zu finden sind. Es handelt sich bei ihnen um asexuelle Nebenfruchtformen, auch *Anamorphe* oder *Konidienform* genannt. *Isaria umbrina* scheint besonders häufig in Verbindung mit der [Zimtbraunen Kohlenbeere *Hypoxylon howeianum*](/pilze/hypoxylon-howeianum-zimtbraune-kohlenbeere) vorzukommen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/isaria-umbrina-pilzspinne)
 
 <div style="clear:  both"></div>
 
