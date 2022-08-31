@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_multiforme_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.08.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist die Vielgestaltige Kohlenbeere *Hypoxylon multiforme*. Sie dürfte überall zu finden sein, wo tote Birkenäste auf dem Waldboden liegen. Mit der Lupe betrachtet erkennt man, dass es sich um einen Sammelfruchtkörper handelt. Dessen kugelige [Perithezien](Perithezien "Glossar") haben am Scheitel winzige Erhebungen mit einer Sporenauslassöffnung. Der Pilz hat inzwischen den neuen Namen *Jackrogersella multiformis* erhalten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lasiosphaeria_ovina_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ footer_scripts:
 29.08.2022:  In Dietzenbach hat es mal wieder einen Ahornbaum erwischt. Das Umweltamt ist bereits informiert, um ihn schnellstmöglich zu entfernen. Der Grund: die Rinde des Baums ist von unserem aktuellen [Fundkorbpilz](AA "Glossar-") *Cryptostroma corticale*  befallen, der sogenannten Rußrindenkrankheit. Und das hat Folgen. Nicht nur der Baum ist verloren, auch wer mit seiner Rinde in Berührung kommt oder zu viele Pilzsporen eingeatmet hat, könnte gesundheitliche Probleme bekommen. Darum lohnt es sich, mehr über diesen tückischen Schädling zu erfahren, und zwar [hier >>>](/pilze/cryptostroma-corticale-rußrindenkrankheit)
 
  <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/fistulina_hepatica_05_gb.jpg" %}
-{% include abbildung_ende.html %}
-
-28.08.2022:  Alltäglich ist das besonders in Dürrezeiten nicht: eine Offenbacherin findet in Frankurt den aktuellen [Fundkorbpilz](AA "Glossar-") des Tages! Im Stadtteil Fechenheim im Heinrich-Kraft-Park entdeckte *Daniela Toller* einen blutroten Leberreischling alias Ochsenzunge (*Fistulina hepatica*). Vermutlich am Fuß einer Linde. Ob er in der Pfanne gelandet ist, wurde nicht nachgefragt. Der Gattungsname *Fistulina* hat übrigens was mit *"Röhrchen"* zu tun.
-
-[Mehr lesen >](/pilze/fistulina-hepatica-ochsenzunge-leberreischling)
-
-<div style="clear:  both"></div>
 
 - - -
 
