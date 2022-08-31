@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-30.08.2022: [Lasiosphaeria ovina - Eiförmiger Kohlenkugelpilz](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)  
+31.08.2022: [Hypoxylon multiforme - Vielgestaltige Kohlenbeere](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)  
+30.08.2022: [Lasiosphaeria ovina - Eiförmiger Kohlenkugelpilz](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)\
 29.08.2022: [Cryptostroma corticale - Rußrindenkrankheit](/pilze/cryptostroma-corticale-rußrindenkrankheit)\
 28.08.2022: [Fistulina hepatica - Ochsenzunge, Leberreischling](/pilze/fistulina-hepatica-ochsenzunge-leberreischling)\
 27.08.2022: [Isaria umbrina - Pilzspinne](/pilze/isaria-umbrina-pilzspinne)\
