@@ -3,7 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-31.08.2022: [Hypoxylon multiforme - Vielgestaltige Kohlenbeere](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)  
+01.09.2022: [Inonotus nodulosus - Knotiger Schillerporling](/pilze/inonotus-nodulosus-knotiger-schillerporling)
+
+31.08.2022: [Hypoxylon multiforme - Vielgestaltige Kohlenbeere](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)\
 30.08.2022: [Lasiosphaeria ovina - Eiförmiger Kohlenkugelpilz](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)\
 29.08.2022: [Cryptostroma corticale - Rußrindenkrankheit](/pilze/cryptostroma-corticale-rußrindenkrankheit)\
 28.08.2022: [Fistulina hepatica - Ochsenzunge, Leberreischling](/pilze/fistulina-hepatica-ochsenzunge-leberreischling)\
