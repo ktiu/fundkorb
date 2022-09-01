@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/inonotus_nodulosus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Knotige Schillerporling *Inonotus nodulosus*. Er ist weit verbreitet und relativ häufig, wächst an toten, berindeten Buchenstämmen- und ästen, sowohl an noch am Baum befindlichen wie auch am Boden liegenden, auf denen er [resupinate](resupinat "Glossar") Fruchtkörper mit abstehenden Hutkanten bildet. Die Hütchen sind im Schnitt oft dreieckig geformt und mit abwärts gerichteten Poren in Reihen oder Gruppen miteinander verwachsen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/inonotus-nodulosus-knotiger-schillerporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_multiforme_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,16 +51,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cryptostroma_corticale_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.08.2022:  In Dietzenbach hat es mal wieder einen Ahornbaum erwischt. Das Umweltamt ist bereits informiert, um ihn schnellstmöglich zu entfernen. Der Grund: die Rinde des Baums ist von unserem aktuellen [Fundkorbpilz](AA "Glossar-") *Cryptostroma corticale*  befallen, der sogenannten Rußrindenkrankheit. Und das hat Folgen. Nicht nur der Baum ist verloren, auch wer mit seiner Rinde in Berührung kommt oder zu viele Pilzsporen eingeatmet hat, könnte gesundheitliche Probleme bekommen. Darum lohnt es sich, mehr über diesen tückischen Schädling zu erfahren, und zwar [hier >>>](/pilze/cryptostroma-corticale-rußrindenkrankheit)
-
- <div style="clear:  both"></div>
 
 - - -
 
