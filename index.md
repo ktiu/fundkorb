@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gloeoporus_dichrous_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zweifarbige Knorpelporling *Gloeoporus dichrous*. So schön und taufrisch wie auf dem Foto war mein gestriger Fund im Frankfurter Stadtwald allerdings nicht. Bei der anhaltenden Trockenheit war das auch nicht zu erwarten. Bei besseren Bedingungen ist das ein äußerst attraktiver und gut kenntlicher aber ziemlich seltener Pilz, der im Rhein-Main-Gebet immer mal wieder an totem Laubholz zu finden ist. Seine bevorzugte Baumart ist die Eiche.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gloeoporus-dichrous-zweifarbiger-knorpelporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/inonotus_nodulosus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ footer_scripts:
 31.08.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist die Vielgestaltige Kohlenbeere *Hypoxylon multiforme*. Sie dürfte überall zu finden sein, wo tote Birkenäste auf dem Waldboden liegen. Mit der Lupe betrachtet erkennt man, dass es sich um einen Sammelfruchtkörper handelt. Dessen kugelige [Perithezien](Perithezien "Glossar") haben am Scheitel winzige Erhebungen mit einer Sporenauslassöffnung. Der Pilz hat inzwischen den neuen Namen *Jackrogersella multiformis* erhalten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lasiosphaeria_ovina_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-30.08.2022:  Unter den winzigen Ascomyzeten gibt es nur wenige, die mit einem Blick durch die Lupe sicher erkannt werden können. Zu diesen gehört der aktuelle [Fundkorbpilz](AA "Glossar-"), der Eiförmige Kohlenkugelpilz *Lasiosphaeria ovina*. Die kugeligen bis eiförmigen Fruchtkörper sind weniger als 1 mm groß und ganzjährig auf morschem Holz zu finden. Der Name Kohlenkugelpilz passt so gar nicht auf diese Art, ist sie doch komplett von einem weißlich grauen filzigen [Hyphengewebe](Hyphen "Glossar") eingekleidet, in dem lediglich die am Scheitel befindliche Sporenauslassöffnung durch eine dunklere Farbe auffällt. Die einzelnen Fruchtkörper wachsen gesellig bis dicht gedrängt auf ihrem Substrat. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)
 
 <div style="clear:  both"></div>
 
