@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stemonitis_axifera_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist das Dunkle Fadenstäubchen *Stemonitis fusca*. Es ist schon beachtlich, wie gut manche Schleimpilzarten (die gar keine richtigen Pilze sind) mit der Trockenheit klarkommen. Gleich mehrere Kolonien hatten sich auf einem stark vermorschten Ast eingefunden. Einige waren schon bis zur Sporenreife entwickelt, sodass sich beim Antippen eine dunkle Sporenwolke löste. So etwas demonstrieren zu können macht sich bei einer Waldführung immer gut. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gloeoporus_dichrous_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ footer_scripts:
 01.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Knotige Schillerporling *Inonotus nodulosus*. Er ist weit verbreitet und relativ häufig, wächst an toten, berindeten Buchenstämmen- und ästen, sowohl an noch am Baum befindlichen wie auch am Boden liegenden, auf denen er [resupinate](resupinat "Glossar") Fruchtkörper mit abstehenden Hutkanten bildet. Die Hütchen sind im Schnitt oft dreieckig geformt und mit abwärts gerichteten Poren in Reihen oder Gruppen miteinander verwachsen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/inonotus-nodulosus-knotiger-schillerporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_multiforme_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.08.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist die Vielgestaltige Kohlenbeere *Hypoxylon multiforme*. Sie dürfte überall zu finden sein, wo tote Birkenäste auf dem Waldboden liegen. Mit der Lupe betrachtet erkennt man, dass es sich um einen Sammelfruchtkörper handelt. Dessen kugelige [Perithezien](Perithezien "Glossar") haben am Scheitel winzige Erhebungen mit einer Sporenauslassöffnung. Der Pilz hat inzwischen den neuen Namen *Jackrogersella multiformis* erhalten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)
 
 <div style="clear:  both"></div>
 
