@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-02.09.2022: [Gloeoporus dichrous - Zweifarbiger Knorpelporling](/pilze/gloeoporus-dichrous-zweifarbiger-knorpelporling)  
+03.09.2022: [Stemonitis fusca - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)  
+02.09.2022: [Gloeoporus dichrous - Zweifarbiger Knorpelporling](/pilze/gloeoporus-dichrous-zweifarbiger-knorpelporling)\
 01.09.2022: [Inonotus nodulosus - Knotiger Schillerporling](/pilze/inonotus-nodulosus-knotiger-schillerporling)
 
 31.08.2022: [Hypoxylon multiforme - Vielgestaltige Kohlenbeere](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)\
