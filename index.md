@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinus_strigosus_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Borstige Knäueling *Lentinus strigosus*. Bei unserem Fund in einem Wald bei Dietzenbach konnte man wirklich von knäueligem Wachstum sprechen. Es waren wohl mehr als 100 Fruchtkörper auf einem großen Buchenstumpf, leider schon ziemlich vetrocknet. In frischem Zustand sind es ausgesprochen attraktive Pilze, wegen ihrer zähen Konsistenz nicht für die Küche geeignet. Die Art git als selten, scheint während der letzten Jahre aber im Rhein-Main-Gebiet in Zunahme begriffen zu sein. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lentinus-strigosus-borstiger-knäueling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stemonitis_axifera_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ footer_scripts:
 02.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zweifarbige Knorpelporling *Gloeoporus dichrous*. So schön und taufrisch wie auf dem Foto war mein gestriger Fund im Frankfurter Stadtwald allerdings nicht. Bei der anhaltenden Trockenheit war das auch nicht zu erwarten. Bei besseren Bedingungen ist das ein äußerst attraktiver und gut kenntlicher aber ziemlich seltener Pilz, der im Rhein-Main-Gebet immer mal wieder an totem Laubholz zu finden ist. Seine bevorzugte Baumart ist die Eiche.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gloeoporus-dichrous-zweifarbiger-knorpelporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/inonotus_nodulosus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Knotige Schillerporling *Inonotus nodulosus*. Er ist weit verbreitet und relativ häufig, wächst an toten, berindeten Buchenstämmen- und ästen, sowohl an noch am Baum befindlichen wie auch am Boden liegenden, auf denen er [resupinate](resupinat "Glossar") Fruchtkörper mit abstehenden Hutkanten bildet. Die Hütchen sind im Schnitt oft dreieckig geformt und mit abwärts gerichteten Poren in Reihen oder Gruppen miteinander verwachsen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/inonotus-nodulosus-knotiger-schillerporling)
 
 <div style="clear:  both"></div>
 
