@@ -2,7 +2,7 @@
 aktivitaet: Essbar oder nicht? Kostenlose Pilzführung im Frankfurter Stadtwald
 zeit: 2022-09-17T10:00:56.203Z
 bis: ""
-anmeldung_offen: true
+anmeldung_offen: false
 anmeldung_noetig: true
 published: true
 bilder:
