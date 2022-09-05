@@ -12,12 +12,6 @@ footer_scripts:
 
 - - -
 
-##### Kostenlose Pilzführung im Frankfurter Stadtwald am Samstag, 17. September 2022
-
-[Hier geht's zur Info und Anmeldung >](/termine)
-
-- - -
-
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_fuscum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
