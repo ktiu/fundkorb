@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_fuscum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rotbraune Kohlenbeere *Hypoxylon fuscum*. Der kleine [Pyrenomyzet](Pyrenomyzeten "Glossar") ist ganzjährig vor allem auf der Rinde toter Äste von Hasel und Erle zu finden, seltener an anderen Laubhölzern. Das Substrat ist zumindest eine wichtige Bestimmungshilfe, wenngleich manche Kohlenbeeren nur anhand mikroskopischer Merkmale sicher zu identifizieren sind. Hypoxylon fuscum hat glatte, seitlich abgeflachte Sporen mit den Maßen 12 - 15 x 5 - 7 µm. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypoxylon-fuscum-rotbraune-kohlenbeere)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lentinus_strigosus_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ footer_scripts:
 03.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist das Dunkle Fadenstäubchen *Stemonitis fusca*. Es ist schon beachtlich, wie gut manche Schleimpilzarten (die gar keine richtigen Pilze sind) mit der Trockenheit klarkommen. Gleich mehrere Kolonien hatten sich auf einem stark vermorschten Ast eingefunden. Einige waren schon bis zur Sporenreife entwickelt, sodass sich beim Antippen eine dunkle Sporenwolke löste. So etwas demonstrieren zu können macht sich bei einer Waldführung immer gut. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gloeoporus_dichrous_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zweifarbige Knorpelporling *Gloeoporus dichrous*. So schön und taufrisch wie auf dem Foto war mein gestriger Fund im Frankfurter Stadtwald allerdings nicht. Bei der anhaltenden Trockenheit war das auch nicht zu erwarten. Bei besseren Bedingungen ist das ein äußerst attraktiver und gut kenntlicher aber ziemlich seltener Pilz, der im Rhein-Main-Gebet immer mal wieder an totem Laubholz zu finden ist. Seine bevorzugte Baumart ist die Eiche.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gloeoporus-dichrous-zweifarbiger-knorpelporling)
 
 <div style="clear:  both"></div>
 
