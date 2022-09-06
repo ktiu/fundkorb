@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_haematopus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.09.2022:  Heute kommt der aktuelle [Fundkorbpilz](AA "Glossar-") aus dem Raum München. Es ist der Große Bluthelmling *Mycena haematopus*, gefunden am letzten Samstag an einem mit Moos bewachsenen liegenden Stamm in einem kleinen Auwald (Esche, Erle, Ahorn, Weide) bei Ismaning. Er blutete üppig, sowohl an der Stielbasis als auch an der Stielspitze beim Abtrennen des Hutes. Die Helmlinge sind hier gerade ziemlich präsent und morgen folgt schon der nächste. (Johann Rejek)
+
+[Mehr lesen >](/pilze/mycena-haematopus-großer-bluthelmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_fuscum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 04.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Borstige Knäueling *Lentinus strigosus*. Bei unserem Fund in einem Wald bei Dietzenbach konnte man wirklich von knäueligem Wachstum sprechen. Es waren wohl mehr als 100 Fruchtkörper auf einem großen Buchenstumpf, leider schon ziemlich vetrocknet. In frischem Zustand sind es ausgesprochen attraktive Pilze, wegen ihrer zähen Konsistenz nicht für die Küche geeignet. Die Art git als selten, scheint während der letzten Jahre aber im Rhein-Main-Gebiet in Zunahme begriffen zu sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lentinus-strigosus-borstiger-knäueling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stemonitis_axifera_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist das Dunkle Fadenstäubchen *Stemonitis fusca*. Es ist schon beachtlich, wie gut manche Schleimpilzarten (die gar keine richtigen Pilze sind) mit der Trockenheit klarkommen. Gleich mehrere Kolonien hatten sich auf einem stark vermorschten Ast eingefunden. Einige waren schon bis zur Sporenreife entwickelt, sodass sich beim Antippen eine dunkle Sporenwolke löste. So etwas demonstrieren zu können macht sich bei einer Waldführung immer gut. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)
 
 <div style="clear:  both"></div>
 
