@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_inclinata_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buntstielige Helmling *Mycena inclinata*, gefunden am vergangenen Sonntag bei einer Vereinswanderung im Grünwalder Forst südlich von München. An seinem Stumpf war er in verschiedenen Entwicklungsstadien zu sehen. Auffallend war eine Gruppe mit besonders hellen Hüten. (Johann Rejek)
+
+[Mehr lesen >](/pilze/mycena-inclinata-buntstieliger-helmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_haematopus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 05.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rotbraune Kohlenbeere *Hypoxylon fuscum*. Der kleine [Pyrenomyzet](Pyrenomyzeten "Glossar") ist ganzjährig vor allem auf der Rinde toter Äste von Hasel und Erle zu finden, seltener an anderen Laubhölzern. Das Substrat ist zumindest eine wichtige Bestimmungshilfe, wenngleich manche Kohlenbeeren nur anhand mikroskopischer Merkmale sicher zu identifizieren sind. Hypoxylon fuscum hat glatte, seitlich abgeflachte Sporen mit den Maßen 12 - 15 x 5 - 7 µm. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypoxylon-fuscum-rotbraune-kohlenbeere)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lentinus_strigosus_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Borstige Knäueling *Lentinus strigosus*. Bei unserem Fund in einem Wald bei Dietzenbach konnte man wirklich von knäueligem Wachstum sprechen. Es waren wohl mehr als 100 Fruchtkörper auf einem großen Buchenstumpf, leider schon ziemlich vetrocknet. In frischem Zustand sind es ausgesprochen attraktive Pilze, wegen ihrer zähen Konsistenz nicht für die Küche geeignet. Die Art git als selten, scheint während der letzten Jahre aber im Rhein-Main-Gebiet in Zunahme begriffen zu sein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lentinus-strigosus-borstiger-knäueling)
 
 <div style="clear:  both"></div>
 
