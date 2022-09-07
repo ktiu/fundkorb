@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-06.09.2022: [Mycena haematopus - Großer Bluthelmling](/pilze/mycena-haematopus-großer-bluthelmling)  
+07.09.2022: [Mycena inclinata - Buntstieliger Hlmling](/pilze/mycena-inclinata-buntstieliger-helmling)  
+06.09.2022: [Mycena haematopus - Großer Bluthelmling](/pilze/mycena-haematopus-großer-bluthelmling)\
 05.09.2022: [Hypoxylon fuscum - Rotbraune Kohlenbeere](/pilze/hypoxylon-fuscum-rotbraune-kohlenbeere)\
 04.09.2022: [Lentinus strigosus - Borstiger Knäueling](/pilze/lentinus-strigosus-borstiger-knäueling)\
 03.09.2022: [Stemonitis fusca - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)\
