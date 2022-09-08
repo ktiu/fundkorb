@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/macrolepiota_procera_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+08.09.2022:  Wir Münchner haben, was Ihr im Rhein-Main-Gebiet nicht habt. Richtige Pilze und auch solche, die man essen kann. Deshalb ist mein aktueller [Fundkorbpilz](AA "Glossar-") diesmal der Große Riesenschirmling *Macrolepiota procera*, auch als *Parasol* bekannt.  Im westlichen Ebersberger Forst bei München fand ich ein halbes Dutzend von ihnen bei Fichten. Sie standen alle recht nahe beeinander und ich hatte endlich mal wieder leckere Pilzschnitzel in der Pfanne. (Johann Rejek)
+
+[Mehr lesen >](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_inclinata_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 06.09.2022:  Heute kommt der aktuelle [Fundkorbpilz](AA "Glossar-") aus dem Raum München. Es ist der Große Bluthelmling *Mycena haematopus*, gefunden am letzten Samstag an einem mit Moos bewachsenen liegenden Stamm in einem kleinen Auwald (Esche, Erle, Ahorn, Weide) bei Ismaning. Er blutete üppig, sowohl an der Stielbasis als auch an der Stielspitze beim Abtrennen des Hutes. Die Helmlinge sind hier gerade ziemlich präsent und morgen folgt schon der nächste. (Johann Rejek)
 
 [Mehr lesen >](/pilze/mycena-haematopus-großer-bluthelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_fuscum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rotbraune Kohlenbeere *Hypoxylon fuscum*. Der kleine [Pyrenomyzet](Pyrenomyzeten "Glossar") ist ganzjährig vor allem auf der Rinde toter Äste von Hasel und Erle zu finden, seltener an anderen Laubhölzern. Das Substrat ist zumindest eine wichtige Bestimmungshilfe, wenngleich manche Kohlenbeeren nur anhand mikroskopischer Merkmale sicher zu identifizieren sind. Hypoxylon fuscum hat glatte, seitlich abgeflachte Sporen mit den Maßen 12 - 15 x 5 - 7 µm. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypoxylon-fuscum-rotbraune-kohlenbeere)
 
 <div style="clear:  both"></div>
 
