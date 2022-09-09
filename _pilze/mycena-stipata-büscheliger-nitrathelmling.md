@@ -28,7 +28,7 @@ Der Büschelige Nitrathelmling ist eine Charakterart der Fichtenwälder, aber au
 {% include bild.html datei="/bilder/mycena_stipata_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Der Nitratgeruch ist unter den Helmlingen kein Alleinstellungsmerkmal. Er kommt zum Beispiel auch beim Grauen Nitrathelmling *Mycena leptocephala* vor, der aber nicht büschelig an Strünken sondern vereinzelt oder gesellig auf am oder im Boden befindlichen Holzresten wächst. Ein wichtiges mikroskopisches Merkmal sind die viersporigien [Basidien](<Basidien "Glossar">), durch die der Büschelige Nitrathelmling vom Zweisporigen Nitrathelmling *Mycena silvae-nigrae* unterschieden ist, der eher einzeln oder gesellig fruktifiziert. Von vielen Autoren wird diese Art nur als Varietät von Mycena stipata angesehen oder sogar mit dieser synonymisiert.
+Der Nitratgeruch ist unter den Helmlingen kein Alleinstellungsmerkmal. Er kommt zum Beispiel auch beim Grauen Nitrathelmling *Mycena leptocephala* vor, der aber nicht büschelig an Strünken sondern vereinzelt oder gesellig auf am oder im Boden befindlichen Holzresten wächst. Ein wichtiges mikroskopisches Merkmal sind die viersporigien [Basidien](<Basidien "Glossar">), durch die der Büschelige Nitrathelmling vom Zweisporigen Nitrathelmling *Mycena silvae-nigrae* unterschieden ist, der eher einzeln oder gesellig fruktifiziert. Von vielen Autoren wird diese Art nur als Varietät von *Mycena stipata* angesehen oder sogar mit dieser synonymisiert.
 
 Liste büschelig wachsender Helmlinge (von denen einige aber auch gesellig oder vereinzelt vorkommen können):\
 Mycena alnetorum = Grünerlen-Helmling\
@@ -36,5 +36,5 @@ Mycena alnetorum = Grünerlen-Helmling\
 [Mycena haematopus](https://fundkorb.netlify.app/pilze/mycena-haematopus-gro%C3%9Fer-bluthelmling) = Bluthelmling\
 [Mycena inclinata](https://fundkorb.netlify.app/pilze/mycena-inclinata-buntstieliger-helmling) = Bunstieliger Helmling\
 Mycena maculata = Gefleckter Helmling\
-Mycena renati = Gelbstieliger Helmling\
+[Mycena renati](/pilze/mycena-renati-gelbstieliger-nitrathelmling) = Gelbstieliger Helmling\
 [Mycena tintinnabulum](https://fundkorb.netlify.app/pilze/mycena-tintinnabulum-winterhelmling) = Winterhelmling
