@@ -20,9 +20,9 @@ footer_scripts:
 {% include bild.html datei="/bilder/rhytisma_acerinum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-09.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ahorn-Runzelschorf *Rhytisma acerinum*. Befallene Blätter sehen aus, als wären sie mit Teerflecken übersät. Am häufigsten sind sie an Spitzahorn. Es handelt sich um Schlauchpilze der Ordnung *Rhytismatales*, die auch *"Flicklumpenartige"* genannt wird. (Dieter Gewalt)
+09.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ahorn-Runzelschorf *Rhytisma acerinum*. Befallene Blätter sehen aus, als wären sie mit Teerflecken übersät. Am häufigsten sind sie an Spitzahorn. Es handelt sich um Schlauchpilze der Ordnung *[Rhytismatales](/verwandt/flicklumpenartige-rhytismatales)*, die auch *["Flicklumpenartige"](/verwandt/flicklumpenartige-rhytismatales)* genannt wird. (Dieter Gewalt)
 
-[Mehr lesen >](/verwandt/flicklumpenartige-rhytismatales) 
+[Mehr lesen >](/pilze/rhytisma-acerinum-ahorn-runzelschorf) 
 
  <div style="clear:  both"></div>
 
