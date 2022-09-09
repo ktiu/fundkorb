@@ -14,6 +14,8 @@ footer_scripts:
 
 ##### Sonntag, 11. September 10:00 Uhr: Exkursion im Raum Rodgau/Dietzenbach ( [\--> Termine](/termine) )
 
+##### 16. bis 18. September: Große Pilzausstellung in München ( [\--> Termine](/Termine) )
+
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
