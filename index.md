@@ -8,7 +8,7 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-[/termine](/termine){% include pilzsuche.html %}
+[](/termine){% include pilzsuche.html %}
 
 - - -
 
