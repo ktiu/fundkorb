@@ -8,11 +8,11 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-[](/termine){% include pilzsuche.html %}
+{% include pilzsuche.html %}
 
 - - -
 
-##### Sonntag, 11. September 9:00 Uhr: Exkusion im Raum Rodgau/Dietzenbach ( [\--> Termine](/termine) )
+##### Sonntag, 11. September 9:00 Uhr: Exkursion im Raum Rodgau/Dietzenbach ( [\--> Termine](/termine) )
 
 - - -
 
