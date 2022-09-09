@@ -19,7 +19,7 @@ Unter der Vielzahl der Helmlinge ist der gelbstielige Nitrathelmling einer, den 
 {% include bild.html datei="/bilder/mycena_renati_02_jr.jpg" %}
 {% include abbildung_ende.html %}
 
-Weitere Merkmale sind ein rosabräunlicher Hut (am Rand etwas heller und gerieft) und breite weiße Lamellen mit leichten Zähnchen am Stiel. Eine andere, ebenfalls büschelig wachsende Art mit nitrösem Geruch ist der Büschelige Nitrathelmling Mycena stipata. Er hat jedoch graubraune bis bräunliche Stiele und wächst an Nadelholz, vor allem an Fichte.
+Weitere Merkmale sind ein rosabräunlicher Hut (am Rand etwas heller und gerieft) und breite weiße Lamellen mit leichten Zähnchen am Stiel. Eine andere, ebenfalls büschelig wachsende Art mit nitrösem Geruch ist der [Büschelige Nitrathelmling *Mycena stipata*](/pilze/mycena-stipata-büscheliger-nitrathelmling). Er hat jedoch graubraune bis bräunliche Stiele und wächst an Nadelholz, vor allem an Fichte.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/mycena_renati_03_jr.jpg" %}
