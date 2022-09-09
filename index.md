@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-##### Sonntag, 11. September 9:00 Uhr: Exkursion im Raum Rodgau/Dietzenbach ( [\--> Termine](/termine) )
+##### Sonntag, 11. September 10:00 Uhr: Exkursion im Raum Rodgau/Dietzenbach ( [\--> Termine](/termine) )
 
 - - -
 
