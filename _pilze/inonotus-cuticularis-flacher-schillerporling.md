@@ -50,6 +50,8 @@ Die Verfasser nennen als Wirtsbäume Ahorn, Edelkastanie, Eiche und Ulme, nicht 
 {% include bild.html datei="/bilder/inonotus_cuticularis_09_dg.jpg" %}
 {% include abbildung_ende.html legende="Ganz junge Fruchtkörper" %}
 
+
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/inonotus_cuticularis_08_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/inonotus_cuticularis_07_dg.jpg" nocrop=true gross=true %}
