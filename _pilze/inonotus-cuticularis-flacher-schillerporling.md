@@ -43,17 +43,14 @@ Auf dem Porenfoto (stark vergrößert) sind feinste Härchen zu erkennen. *Frank
 {% include bild.html datei="/bilder/inonotus_cuticularis_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Nach dem Überwintern und auch am Exsikkat verliert die Hutoberseite oft ihre bräunliche Farbe und auch das Schillern der Porenschicht lässt nach. Mit der Lupe sind dann kaum noch die feinen Härchen an den Poren zu erkennen" %}
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/inonotus_cuticularis_09_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/inonotus_cuticularis_08_dg.jpg" %}
-{% include bild.html datei="/bilder/inonotus_cuticularis_07_dg.jpg" %}
-{% include abbildung_ende.html legende="15.07.2020 Bremenbuschschneise bei Neu-Isenburg TK 5918.3.2" %}
-
 An dieser Stelle noch eine Anmerkung zu *Breitenbach/Kränzlin: Pilze der Schweiz* Band 2 Nr. 301:
 Die Verfasser nennen als Wirtsbäume Ahorn, Edelkastanie, Eiche und Ulme, nicht aber die Buche. Der Flache Schillerporling mag ausnahmsweise an den genannten Baumarten vorkommen, doch findet er sich ganz überwiegend an Buche. So stammen meine Funde fast ausnahmslos von diesem Wirt, im Frankfurter Stadtwald auch an Ahorn.
 
 {% include abbildung_start.html stil="standard" %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/inonotus_cuticularis_09_dg.jpg" %}
+{% include abbildung_ende.html legende="Ganz junge Fruchtkörper" %}
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/inonotus_cuticularis_08_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/inonotus_cuticularis_07_dg.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="15.07.2020 Bremenbuschschneise bei Neu-Isenburg TK 5918.3.2" %}
