@@ -12,6 +12,18 @@ footer_scripts:
 
 - - -
 
+##### Sonntag, 11. September 9:00 Uhr: Exkusion im Raum Rodgau/Dietzenbach ( [\--> Termine](/fundkorb.de/termine) )
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rhytisma_acerinum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ahorn-Runzelschorf *Rhytisma acerinum*. Befallene Blätter sehen aus, als wären sie mit Teerflecken übersät. Am häufigsten sind sie an Spitzahorn. Es handelt sich um Schlauchpilze der Ordnung *[Rhytismatales](/verwandt/flicklumpenartige-rhytismatales)*, die auch *"Flicklumpenartige"* genannt wird. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/macrolepiota_procera_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
