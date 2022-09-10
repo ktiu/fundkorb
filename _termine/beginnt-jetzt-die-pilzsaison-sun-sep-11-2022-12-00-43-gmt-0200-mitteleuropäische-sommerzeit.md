@@ -2,7 +2,7 @@
 aktivitaet: Beginnt jetzt die Pilzsaison?
 zeit: 2022-09-11T10:00:53.663Z
 bis: ""
-anmeldung_offen: true
+anmeldung_offen: false
 anmeldung_noetig: true
 published: true
 ---
