@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_campestris_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.09.2022:  Auch in großen Teilen Baden-Württembergs herrschte monatelange Dürre. Jetzt endlich wurde bei Straubenhardt mal wieder ein "richtiger" und sogar essbarer Pilz gefunden:  der Wiesenchampignon *Agaricus campestris* . Bernd Miggel hat ihn als aktuellen [Fundkorbpilz](AA "Glossar-") des Tages  gemeldet.
+
+[Mehr lesen >](/pilze/agaricus-campestris-wiesenchampignon)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rhytisma_acerinum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,30 +49,6 @@ footer_scripts:
 08.09.2022:  Wir Münchner haben, was Ihr im Rhein-Main-Gebiet nicht habt. Richtige Pilze und auch solche, die man essen kann. Deshalb ist mein aktueller [Fundkorbpilz](AA "Glossar-") diesmal der Große Riesenschirmling *Macrolepiota procera*, auch als *Parasol* bekannt.  Im westlichen Ebersberger Forst bei München fand ich ein halbes Dutzend von ihnen bei Fichten. Sie standen alle recht nahe beeinander und ich hatte endlich mal wieder leckere Pilzschnitzel in der Pfanne. (Johann Rejek)
 
 [Mehr lesen >](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_inclinata_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buntstielige Helmling *Mycena inclinata*, gefunden am vergangenen Sonntag bei einer Vereinswanderung im Grünwalder Forst südlich von München. An seinem Stumpf war er in verschiedenen Entwicklungsstadien zu sehen. Auffallend war eine Gruppe mit besonders hellen Hüten. (Johann Rejek)
-
-[Mehr lesen >](/pilze/mycena-inclinata-buntstieliger-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_haematopus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.09.2022:  Heute kommt der aktuelle [Fundkorbpilz](AA "Glossar-") aus dem Raum München. Es ist der Große Bluthelmling *Mycena haematopus*, gefunden am letzten Samstag an einem mit Moos bewachsenen liegenden Stamm in einem kleinen Auwald (Esche, Erle, Ahorn, Weide) bei Ismaning. Er blutete üppig, sowohl an der Stielbasis als auch an der Stielspitze beim Abtrennen des Hutes. Die Helmlinge sind hier gerade ziemlich präsent und morgen folgt schon der nächste. (Johann Rejek)
-
-[Mehr lesen >](/pilze/mycena-haematopus-großer-bluthelmling)
 
 <div style="clear:  both"></div>
 
