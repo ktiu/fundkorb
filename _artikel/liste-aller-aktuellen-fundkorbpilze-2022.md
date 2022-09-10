@@ -3,7 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-08.09.2022: [Macrolepiota procera - Großer Riesenschirmling, Parasol](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)  
+10.09.2022: [Agaricus campestris - Wiesenchampignon](/pilze/agaricus-campestris-wiesenchampignon)  
+09.09.2022: [Rhytisma acerinum - Ahorn-Runzelschorf](/pilze/rhytisma-acerinum-ahorn-runzelschorf)  
+08.09.2022: [Macrolepiota procera - Großer Riesenschirmling, Parasol](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)\
 07.09.2022: [Mycena inclinata - Buntstieliger Hlmling](/pilze/mycena-inclinata-buntstieliger-helmling)\
 06.09.2022: [Mycena haematopus - Großer Bluthelmling](/pilze/mycena-haematopus-großer-bluthelmling)\
 05.09.2022: [Hypoxylon fuscum - Rotbraune Kohlenbeere](/pilze/hypoxylon-fuscum-rotbraune-kohlenbeere)\
