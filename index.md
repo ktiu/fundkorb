@@ -12,9 +12,19 @@ footer_scripts:
 
 - - -
 
-##### Sonntag, 11. September 10:00 Uhr: Exkursion im Raum Rodgau/Dietzenbach ( [\--> Termine](/termine) )
-
 ##### 16. bis 18. September: Große Pilzausstellung in München ( [\--> Termine](/Termine) )
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_radicans_06_wf.jpg" %}
+{% include abbildung_ende.html %}
+
+11.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wurzelnde Bitterröhrling *Boletus radicans*. Er wurde von *Wolfgang Fedyszin* in einem Frankfurter Parkgelände an der der Fritz-Tarnow-Straße gefunden und fotografiert. Begleitbäume waren Birken. Es handelt sich um eine auf kalkhaltigen Böden relativ häufige Art, die mit der Merkmalskombination *"Poren der Röhrenschicht gelb - Geschmack bitter - Fleisch im Anschnitt blauend "* gut gekennzeichnet ist. Sie wird neuerdings in der Gattung *Caloboletus* geführt.
+
+[Mehr lesen >](/pilze/boletus-radicans-wurzelnder-bitterröhrling)
+
+<div style="clear:  both"></div>
 
 - - -
 
