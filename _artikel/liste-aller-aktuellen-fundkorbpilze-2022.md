@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-11.09.2022: [Boletus radicans - Wurzelnder Bitterröhrling](/pilze/boletus-radicans-wurzelnder-bitterröhrling)  
+12.09.2022: [Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)  
+11.09.2022: [Boletus radicans - Wurzelnder Bitterröhrling](/pilze/boletus-radicans-wurzelnder-bitterröhrling)\
 10.09.2022: [Agaricus campestris - Wiesenchampignon](/pilze/agaricus-campestris-wiesenchampignon)\
 09.09.2022: [Rhytisma acerinum - Ahorn-Runzelschorf](/pilze/rhytisma-acerinum-ahorn-runzelschorf)\
 08.09.2022: [Macrolepiota procera - Großer Riesenschirmling, Parasol](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)\
