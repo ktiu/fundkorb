@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sparassis_crispa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist die Krause Glucke *Sparassis crispa*. Ein beliebter, begehrter und ergiebiger Speisepilz, der erst mal geputzt sein will bevor er in die Pfanne kommt. Wenn man ihn gezielt suchen möchte, macht es keinen Sinn, in Laubwäldern unterwegs zu sein. Er wächst nahezu ausschließlich an Kiefern, sowohl direkt am Stammgrund oder nicht weit davon entfernt, auch mal direkt auf totem Kiefernholz. Wir haben ihn bei unserer gestrigen [FundGroup](/fundgroup)-Wanderung gefunden, und zwar ein ganz junges nur etwa faustgroßes Exemplar. Das abgebildete Exemplar ist in perfektem Wachstumsstadium und ein Idealfall für die Küche. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/sparassis-crispa-krause-glucke)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_radicans_06_wf.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,30 +47,6 @@ footer_scripts:
 10.09.2022:  Auch in großen Teilen Baden-Württembergs herrschte monatelange Dürre. Jetzt endlich wurde bei Straubenhardt mal wieder ein "richtiger" und sogar essbarer Pilz gefunden:  der Wiesenchampignon *Agaricus campestris* . Bernd Miggel hat ihn als aktuellen [Fundkorbpilz](AA "Glossar-") des Tages  gemeldet.
 
 [Mehr lesen >](/pilze/agaricus-campestris-wiesenchampignon)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rhytisma_acerinum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ahorn-Runzelschorf *Rhytisma acerinum*. Befallene Blätter sehen aus, als wären sie mit Teerflecken übersät. Am häufigsten sind sie an Spitzahorn. Es handelt sich um Schlauchpilze der Ordnung *[Rhytismatales](/verwandt/flicklumpenartige-rhytismatales)*, die auch *["Flicklumpenartige"](/verwandt/flicklumpenartige-rhytismatales)* genannt wird. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/rhytisma-acerinum-ahorn-runzelschorf) 
-
- <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/macrolepiota_procera_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-08.09.2022:  Wir Münchner haben, was Ihr im Rhein-Main-Gebiet nicht habt. Richtige Pilze und auch solche, die man essen kann. Deshalb ist mein aktueller [Fundkorbpilz](AA "Glossar-") diesmal der Große Riesenschirmling *Macrolepiota procera*, auch als *Parasol* bekannt.  Im westlichen Ebersberger Forst bei München fand ich ein halbes Dutzend von ihnen bei Fichten. Sie standen alle recht nahe beeinander und ich hatte endlich mal wieder leckere Pilzschnitzel in der Pfanne. (Johann Rejek)
-
-[Mehr lesen >](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)
 
 <div style="clear:  both"></div>
 
