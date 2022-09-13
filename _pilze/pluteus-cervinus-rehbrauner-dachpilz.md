@@ -22,9 +22,10 @@ Dachpilze sind leicht zu erkennen. Sie wachsen fast alle an totem Holz (einige w
 {% include bild.html datei="/bilder/pluteus_cervinus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-So einfach die Gattungszugehörigkeit zu erkennen ist, so schwierig ist bis auf wenige Ausnahmen die exakte Bestimmung der etwa 30 mitteleuropäischen Arten. Ohne Mikroskop geht da nur wenig. Unter anderem muss die Struktur der Huthaut untersucht werden. Unter etlichen braun oder bräunlich gefärbten Arten ist der Rehbraune Dachpilz an seinem am angebrochenen Stiel wahrnehmbaren Rettichgeruch zu erkennen.
+So einfach die Gattungszugehörigkeit zu erkennen ist, so schwierig ist bis auf wenige Ausnahmen die exakte Bestimmung der etwa 30 mitteleuropäischen Arten. Ohne Mikroskop geht da nur wenig.
 
-Weitere Merkmale: Hut: bis 15 cm Ø, braun, graubraun bis schwarzbraun (je jünger, desto dunkler!), Huthaut eingewachsen faserig bis runzelig. Stiel bis ca. 12 cm lang, schmutzig hell, durch dunklere Längsfasern streifig.
+**Makroskopische Merkmale des Rehbraunen Dachpilzes:** Hut: bis 15 cm Ø, braun, graubraun bis schwarzbraun (je jünger, desto dunkler!), Huthaut eingewachsen faserig bis runzelig. Stiel bis ca. 12 cm lang, schmutzig hell, durch dunklere Längsfasern streifig.
+
 Die nachfolgenden Fotos zeigen die dünnen, eng stehenden, rosa Lamellen und das Bild eines Sporenabwurfs. Um ein solches Sporenabwurfpräparat herzustellen, legt man den vom Stiel getrennten Hut eines reifen Pilzes auf weißes Papier und erhält nach einiger Zeit ein Abbild des Lamellenmusters, das auch die exakte Sporenstaubfarbe erkennen lässt.
 
 {% include abbildung_start.html stil="mittel" %}
@@ -38,4 +39,7 @@ Das linke Foto zeigt außerdem deutlich, dass die Lamellen nicht am Stiel angewa
 {% include bild.html datei="/bilder/pluteus_cervinus_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Der Rehbraune Dachpilz ist der mit Abstand häufigste Vertreter seiner Gattung und besiedelt sowohl Laub- als auch Nadelhölzer.
+Der Rehbraune Dachpilz ist der mit Abstand häufigste Vertreter seiner Gattung und besiedelt sowohl Laub- als auch Nadelhölzer. Allerdings gibt es einige Arten, mit denen er verwechselt werden könnte. Zuerst achte man auf die Lamellenschneiden. Es gibt zwei Arten mit dunklen Schneiden, die schon mit bloßem Auge, mit Lupe aber noch deutlicher erkennbar sind:\
+[*Pluteus nigrofloccosus* = Schwarzschneidiger Dachpilz](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)\
+[*Pluteus umbrosus* = Schwarzflockiger Dachpilz](/pilze/pluteus-umbrosus-schwarzflockiger-dachpilz)\
+Der Rehbraune Dachpilz hat keine abweichend gefärbten Lamellenschneiden. Einige andere Dachpilzarten mit ähnlichen Hutfarben unterscheiden sich vor allem durch Unterschiede in der Huthautstruktur und in der Form der Zystiden. Der Rehbraune hat keulen- oder birnenförmige Cheilozystiden (an den Lamellenschneiden) und Hakenzystiden (an den Lamellenflächen).
