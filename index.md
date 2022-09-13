@@ -17,6 +17,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calocera_viscosa_08_ae.jpg" %}
+{% include abbildung_ende.html %}
+
+13.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Klebrige Hörnling *Calocera viscosa*. Er ist bildhübsch, wozu seine formenreiche korallenartige Form und die schöne Orangefarbe beitragen. Mit den echten Korallenpilzen ist er nicht verwandt. Er ist zwar zäh oder von Gummibärchen-artiger Konsistenz, aber ungiftig. Was man in der Küche mit ihm anstellen kann, erfährt man [hier >](/pilze/calocera-viscosa-klebriger-hörnling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/sparassis_crispa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +45,6 @@ footer_scripts:
 11.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wurzelnde Bitterröhrling *Boletus radicans*. Er wurde von *Wolfgang Fedyszin* in einem Frankfurter Parkgelände an der der Fritz-Tarnow-Straße gefunden und fotografiert. Begleitbäume waren Birken. Es handelt sich um eine auf kalkhaltigen Böden relativ häufige Art, die mit der Merkmalskombination *"Poren der Röhrenschicht gelb - Geschmack bitter - Fleisch im Anschnitt blauend "* gut gekennzeichnet ist. Sie wird neuerdings in der Gattung *Caloboletus* geführt.
 
 [Mehr lesen >](/pilze/boletus-radicans-wurzelnder-bitterröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_campestris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.09.2022:  Auch in großen Teilen Baden-Württembergs herrschte monatelange Dürre. Jetzt endlich wurde bei Straubenhardt mal wieder ein "richtiger" und sogar essbarer Pilz gefunden:  der Wiesenchampignon *Agaricus campestris* . Bernd Miggel hat ihn als aktuellen [Fundkorbpilz](AA "Glossar-") des Tages  gemeldet.
-
-[Mehr lesen >](/pilze/agaricus-campestris-wiesenchampignon)
 
 <div style="clear:  both"></div>
 
