@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_androsaceus_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+14.09.2022:  Aktueller Fundkorbpilz ist der Rosshaarschwindling *Marasmius androsaceus*. Er besiedelt oft scharenweise die Nadelstreu, bevorzugt die von Kiefern. Seine schwarzen steifen Stiele sind sehr lang und dünn und erinnern so an ein Pferdehaar. Verwechseln könnte man ihn mit dem Nadel-Stinkschwindling, der Fichtennadeln bevorzugt und nach faulem Kohl riecht. Für die Küche kommt keiner der beiden in Frage. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/marasmius-androsaceus-rosshaarschwindling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/calocera_viscosa_08_ae.jpg" %}
 {% include abbildung_ende.html %}
 
