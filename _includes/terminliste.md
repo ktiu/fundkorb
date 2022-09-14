@@ -11,11 +11,15 @@
     <h5 class="card-header">{{ termin.aktivitaet }}</h5>
     <div class="card-body">
       <div class="details">
-        <p class="card-text">Datum:<br /><strong>{{ datum }}</strong></p>
-        {% if termin.bis and termin.bis != "" %}
-          <p class="card-text">Uhrzeit:<br /><strong>{{ uhrzeit }}–{{ bis }}</strong></p>
+        {% if termin.customdate and termin.customdate != "" %}
+         <p class="card-text">Datum:<br /><strong>{{ termin.customdate }}</strong></p>
         {% else %}
-          <p class="card-text">Uhrzeit:<br /><strong>{{ uhrzeit }}</strong></p>
+          <p class="card-text">Datum:<br /><strong>{{ datum }}</strong></p>
+          {% if termin.bis and termin.bis != "" %}
+            <p class="card-text">Uhrzeit:<br /><strong>{{ uhrzeit }}–{{ bis }}</strong></p>
+          {% else %}
+            <p class="card-text">Uhrzeit:<br /><strong>{{ uhrzeit }}</strong></p>
+          {% endif %}
         {% endif %}
         {% if termin.treffpunkt and termin.treffpunkt != "" %}<p class="card-text">Treffpunkt:<br /><strong>{{ termin.treffpunkt }}</strong></p>{% endif %}
         {% if termin.teilnahmegebuehr and termin.teilnahmegebuehr != "" %}<p class="card-text">Teilnahmegebühr:<br /><strong>{{ termin.teilnahmegebuehr }}</strong></p>{% endif %}

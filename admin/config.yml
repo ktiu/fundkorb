@@ -122,6 +122,7 @@ collections:
         date_format: "DD.MM.YYYY"
         time_format: "HH:mm"
         required: false
+      - {label: "Datum und Uhrzeit (freie Eingabe)", name: "customdate", widget: "string", required: false}
       - {label: "Treffpunkt", name: "treffpunkt", widget: "string", required: false}
       - {label: "Teilnahmegebühr", name: "teilnahmegebuehr", widget: "string", required: false}
       - {label: "Anmeldung offen", name: "anmeldung_offen", widget: "boolean", default: true}

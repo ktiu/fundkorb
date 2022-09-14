@@ -1,5 +1,5 @@
 ---
-aktivitaet: Der Wald und seine Pilze -  Exkursion in den Wäldern rund um Offenbach
+aktivitaet: Der Wald und seine Pilze - Exkursion in den Wäldern rund um Offenbach
 zeit: 2022-10-01T10:00:28.210Z
 bis: ""
 anmeldung_offen: false

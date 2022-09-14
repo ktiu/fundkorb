@@ -5,3 +5,5 @@ _site/
 workbench
 node_modules
 .netlify
+vendor
+.bundle
