@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-13.09.2022: [Calocera viscosa - Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)  
+14.09.2022: [Marasmius androsaceus - Rosshaarschwindling](/pilze/marasmius-androsaceus-rosshaarschwindling)  
+13.09.2022: [Calocera viscosa - Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)\
 12.09.2022: [Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)\
 11.09.2022: [Boletus radicans - Wurzelnder Bitterröhrling](/pilze/boletus-radicans-wurzelnder-bitterröhrling)\
 10.09.2022: [Agaricus campestris - Wiesenchampignon](/pilze/agaricus-campestris-wiesenchampignon)\
