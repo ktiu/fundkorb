@@ -34,7 +34,7 @@ Die elastischen Fruchtkörper sind an der Spitze spärlich verzweigt, unzerbrech
 {% include bild.html datei="/bilder/calocera_viscosa_07_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Den Klebrigen Hörnling findet man ausschließlich in Nadelwäldern, wo er auf Stümpfen oder im Boden verborgenem Totholz wächst.
+Den Klebrigen Hörnling findet man ausschließlich in Nadelwäldern, wo er auf Stümpfen oder im Boden verborgenem Totholz wächst. Ausschließlich an totem Laubholz ist der gleichfarbige aber viel kleinere [Pfriemförmige Hörnling Calocera cornea](/pilze/calocera-cornea-pfriemförmiger-hörnling) zu finden.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/calocera_viscosa_08_ae.jpg" nocrop=true %}
