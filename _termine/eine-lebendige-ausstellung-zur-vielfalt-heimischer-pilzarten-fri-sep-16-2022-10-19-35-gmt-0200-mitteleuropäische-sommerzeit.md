@@ -1,7 +1,7 @@
 ---
 aktivitaet: Eine lebendige Ausstellung zur Vielfalt heimischer Pilzarten
-zeit: 2022-09-16T00:00:35.773Z
-bis: 2022-09-18T00:00:00.000Z
+zeit: 2022-09-16T09:00:35.773Z
+bis: 2022-09-18T17:30:00.000Z
 anmeldung_offen: false
 anmeldung_noetig: false
 published: true
