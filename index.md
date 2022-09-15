@@ -17,10 +17,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/panus_conchatus_01_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+15.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Laubholzknäueling *Panus conchatus*. Meist erscheint er allein oder zu wenigen auf morsch werdenden oder mit Moos bewachsenen Baumstümpfen, vor allem von Buchen. Manchmal trifft man auch auf Massenansammlungen wie die hier von Frank Kaster fotografierte. Wegen seiner zähen Konsistenz gilt er als ungenießbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/panus-conchatus-laubholzknäueling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_androsaceus_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-14.09.2022:  Aktueller Fundkorbpilz ist der Rosshaarschwindling *Marasmius androsaceus*. Er besiedelt oft scharenweise die Nadelstreu, bevorzugt die von Kiefern. Seine schwarzen steifen Stiele sind sehr lang und dünn und erinnern so an ein Pferdehaar. Verwechseln könnte man ihn mit dem Nadel-Stinkschwindling, der Fichtennadeln bevorzugt und nach faulem Kohl riecht. Für die Küche kommt keiner der beiden in Frage. (Dieter Gewalt)
+14.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosshaarschwindling *Marasmius androsaceus*. Er besiedelt oft scharenweise die Nadelstreu, bevorzugt die von Kiefern. Seine schwarzen steifen Stiele sind sehr lang und dünn und erinnern so an ein Pferdehaar. Verwechseln könnte man ihn mit dem Nadel-Stinkschwindling, der Fichtennadeln bevorzugt und nach faulem Kohl riecht. Für die Küche kommt keiner der beiden in Frage. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/marasmius-androsaceus-rosshaarschwindling)
 
@@ -33,30 +45,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 13.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Klebrige Hörnling *Calocera viscosa*. Er ist bildhübsch, wozu seine formenreiche korallenartige Form und die schöne Orangefarbe beitragen. Mit den echten Korallenpilzen ist er nicht verwandt. Er ist zwar zäh oder von Gummibärchen-artiger Konsistenz, aber ungiftig. Was man in der Küche mit ihm anstellen kann, erfährt man [hier >](/pilze/calocera-viscosa-klebriger-hörnling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/sparassis_crispa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist die Krause Glucke *Sparassis crispa*. Ein beliebter, begehrter und ergiebiger Speisepilz, der erst mal geputzt sein will bevor er in die Pfanne kommt. Wenn man ihn gezielt suchen möchte, macht es keinen Sinn, in Laubwäldern unterwegs zu sein. Er wächst nahezu ausschließlich an Kiefern, sowohl direkt am Stammgrund oder nicht weit davon entfernt, auch mal direkt auf totem Kiefernholz. Wir haben ihn bei unserer gestrigen [FundGroup](/fundgroup)-Wanderung gefunden, und zwar ein ganz junges nur etwa faustgroßes Exemplar. Das abgebildete Exemplar ist in perfektem Wachstumsstadium und ein Idealfall für die Küche. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/sparassis-crispa-krause-glucke)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_radicans_06_wf.jpg" %}
-{% include abbildung_ende.html %}
-
-11.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wurzelnde Bitterröhrling *Boletus radicans*. Er wurde von *Wolfgang Fedyszin* in einem Frankfurter Parkgelände an der der Fritz-Tarnow-Straße gefunden und fotografiert. Begleitbäume waren Birken. Es handelt sich um eine auf kalkhaltigen Böden relativ häufige Art, die mit der Merkmalskombination *"Poren der Röhrenschicht gelb - Geschmack bitter - Fleisch im Anschnitt blauend "* gut gekennzeichnet ist. Sie wird neuerdings in der Gattung *Caloboletus* geführt.
-
-[Mehr lesen >](/pilze/boletus-radicans-wurzelnder-bitterröhrling)
 
 <div style="clear:  both"></div>
 
