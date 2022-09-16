@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/crucibulum_laeve_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+16.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tiegelteuerling *Crucibulum laeve*. Seine Fruchtkörper bestehen aus  tönnchen- oder schüsselförmigen Behältnissen, in denen linsen- oder münzenförmige Gebilde von etwa 1 mm Größe liegen. Aus ihrer Anzahl glaubten unsere abergläubischen Vorfahren, Schlüsse auf Wohlstand oder Notzeiten schließen zu können. Je weniger dieser [Peridiolen](Peridiole "Glossar") es waren, desto schlechtere Zeiten standen bevor.  Wieviele mögen es wohl heutzutage sein, da uns eine Hyperinflation erwartet? (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/crucibulum-laeve-tiegelteuerling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/panus_conchatus_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,16 +47,6 @@ footer_scripts:
 14.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosshaarschwindling *Marasmius androsaceus*. Er besiedelt oft scharenweise die Nadelstreu, bevorzugt die von Kiefern. Seine schwarzen steifen Stiele sind sehr lang und dünn und erinnern so an ein Pferdehaar. Verwechseln könnte man ihn mit dem Nadel-Stinkschwindling, der Fichtennadeln bevorzugt und nach faulem Kohl riecht. Für die Küche kommt keiner der beiden in Frage. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/marasmius-androsaceus-rosshaarschwindling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calocera_viscosa_08_ae.jpg" %}
-{% include abbildung_ende.html %}
-
-13.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Klebrige Hörnling *Calocera viscosa*. Er ist bildhübsch, wozu seine formenreiche korallenartige Form und die schöne Orangefarbe beitragen. Mit den echten Korallenpilzen ist er nicht verwandt. Er ist zwar zäh oder von Gummibärchen-artiger Konsistenz, aber ungiftig. Was man in der Küche mit ihm anstellen kann, erfährt man [hier >](/pilze/calocera-viscosa-klebriger-hörnling)
 
 <div style="clear:  both"></div>
 
