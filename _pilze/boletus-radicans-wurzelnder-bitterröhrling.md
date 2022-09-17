@@ -42,4 +42,4 @@ Als [Mykorrhizapartner](Mykorrhiza "Glossar") des Wurzelnden Bitterröhrlings we
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/boletus_radicans_06_wf.jpg" %}
-{% include abbildung_ende.html legende="09.09.2022 in einer Frankfurter Parkanlage bei Birken (Foto: Wlfgang Fedyszin)" %}
+{% include abbildung_ende.html legende="09.09.2022 in einer Frankfurter Parkanlage bei Birken (Foto: Gerhard Lux)" %}
