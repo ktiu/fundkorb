@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_phalloides_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.09.2022:  Ein Blickfang der Münchner Frischpilzausstellung ist der Grüne Knollenblätterpilz *Amanita phalloides* und deshalb auch unser aktueller [Fundkorbpilz](AA "Glossar-"). Versteht sich von selbst, dass man ihn mit einem Totenkopfsymbol versehen hat. Zweifellos wird er in Kürze auch im Rhein-Main-Gebiet auftauchen. Vielleicht schon heute bei unserer Exkursion im Frankfurter Stadtwald? (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/crucibulum_laeve_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 15.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Laubholzknäueling *Panus conchatus*. Meist erscheint er allein oder zu wenigen auf morsch werdenden oder mit Moos bewachsenen Baumstümpfen, vor allem von Buchen. Manchmal trifft man auch auf Massenansammlungen wie die hier von Frank Kaster fotografierte. Wegen seiner zähen Konsistenz gilt er als ungenießbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/panus-conchatus-laubholzknäueling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_androsaceus_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-14.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosshaarschwindling *Marasmius androsaceus*. Er besiedelt oft scharenweise die Nadelstreu, bevorzugt die von Kiefern. Seine schwarzen steifen Stiele sind sehr lang und dünn und erinnern so an ein Pferdehaar. Verwechseln könnte man ihn mit dem Nadel-Stinkschwindling, der Fichtennadeln bevorzugt und nach faulem Kohl riecht. Für die Küche kommt keiner der beiden in Frage. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/marasmius-androsaceus-rosshaarschwindling)
 
 <div style="clear:  both"></div>
 
