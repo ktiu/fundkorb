@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-16.09.2022: [Crucibulum laeve - Tiegelteuerling](/pilze/crucibulum-laeve-tiegelteuerling)  
+17.09.2022: [Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)  
+16.09.2022: [Crucibulum laeve - Tiegelteuerling](/pilze/crucibulum-laeve-tiegelteuerling)\
 15.09.2022: [Panus conchatus - Laubholzknäueling](/pilze/panus-conchatus-laubholzknäueling)\
 14.09.2022: [Marasmius androsaceus - Rosshaarschwindling](/pilze/marasmius-androsaceus-rosshaarschwindling)\
 13.09.2022: [Calocera viscosa - Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)\
