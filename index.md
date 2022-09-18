@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_stipata_-01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelige Nitrathelmhelmling *Mycena stipata*. Er ist nahezu ausschließlich an toten Nadelhölzern zu finden und recht häufig. An totem Laubholz, vor allem Buche, wächst der in den meisten Regionen Deutschlands seltene Gelbstielige Nitrathelmling *[Mycena renati](/pilze/mycena-renati-gelbstieliger-nitrathelmling)*. Dessen gelbe Stiele genügen, um die beiden ansonsten ähnliche Arten voneinander zu unterscheiden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-stipata-büscheliger-nitrathelmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_phalloides_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 16.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tiegelteuerling *Crucibulum laeve*. Seine Fruchtkörper bestehen aus  tönnchen- oder schüsselförmigen Behältnissen, in denen linsen- oder münzenförmige Gebilde von etwa 1 mm Größe liegen. Aus ihrer Anzahl glaubten unsere abergläubischen Vorfahren, Schlüsse auf Wohlstand oder Notzeiten schließen zu können. Je weniger dieser [Peridiolen](Peridiole "Glossar") es waren, desto schlechtere Zeiten standen bevor.  Wieviele mögen es wohl heutzutage sein, da uns eine Hyperinflation erwartet? (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/crucibulum-laeve-tiegelteuerling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/panus_conchatus_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-15.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Laubholzknäueling *Panus conchatus*. Meist erscheint er allein oder zu wenigen auf morsch werdenden oder mit Moos bewachsenen Baumstümpfen, vor allem von Buchen. Manchmal trifft man auch auf Massenansammlungen wie die hier von Frank Kaster fotografierte. Wegen seiner zähen Konsistenz gilt er als ungenießbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/panus-conchatus-laubholzknäueling)
 
 <div style="clear:  both"></div>
 
