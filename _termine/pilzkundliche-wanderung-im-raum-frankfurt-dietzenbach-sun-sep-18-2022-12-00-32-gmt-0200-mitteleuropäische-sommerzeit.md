@@ -1,6 +1,6 @@
 ---
 aktivitaet: Pilzkundliche Wanderung im Raum Frankfurt / Dietzenbach
-zeit: 2022-09-18T10:00:32.063Z
+zeit: 2022-09-25T10:00:32.063Z
 bis: ""
 anmeldung_offen: true
 anmeldung_noetig: false
