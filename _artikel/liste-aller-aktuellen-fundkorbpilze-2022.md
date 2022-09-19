@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-18.09.2022: [Mycena stipata: Büscheliger Nitrathelmling](/pilze/mycena-stipata-büscheliger-nitrathelmling)  
+19.09.2022: [Boletus appendiculatus - Anhängselröhrling](/pilze/boletus-appendiculatus-anhängselröhrling)  
+18.09.2022: [Mycena stipata: Büscheliger Nitrathelmling](/pilze/mycena-stipata-büscheliger-nitrathelmling)\
 17.09.2022: [Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)\
 16.09.2022: [Crucibulum laeve - Tiegelteuerling](/pilze/crucibulum-laeve-tiegelteuerling)\
 15.09.2022: [Panus conchatus - Laubholzknäueling](/pilze/panus-conchatus-laubholzknäueling)\
