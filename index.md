@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_appendiculatus_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+19.09.2022:  Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") ist nichts Alltägliches. Gleich mehrere Exemplare des Anhängselröhrlings *Boletus appendiculatus* habe ich im Gebiet „Terra Levis“ in Wiesbaden gefunden. Obwohl dieser seltene Röhrling keine besonders markanten Merkmale besitzt, gelingt die Bestimmung recht gut. Entscheidend sind die gelben, auf Druck blauenden Poren, der genetzte Stiel (manchmal nur im obersten Stielbereich), das milde Fleisch, der braune Hut ohne Rottöne, der meist wurzelnde Stiel und das meist leicht blauende Fleisch. (Thomas Lamberty)
+
+[Mehr lesen >](/pilze/boletus-appendiculatus-anhängselröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_stipata_-01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
