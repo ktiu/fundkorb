@@ -15,9 +15,9 @@ Unter Berücksichtigung aller weiteren Nebenkosten, die für ein Fahrzeug anfall
 
 Es kommt noch schlimmer. Während meine Rentner auf ihrem Nachhauseweg sind, setzt sich eine zweite „Pilzsammlerwelle“ aus dem Aargau und Zürich in Bewegung, um die Rüttewies heimzusuchen. Ebenfalls mit dem obligatorischen Pilzstock, Outdoorkleidung und Korb ausgerüstet geht es zur Nachsuche und das genau an den Plätzen, die kurz zuvor meine Rentner geräumt haben. Auf meinen Recherchen zu dem Artikel habe ich Fotos von Pilzsuchern mit Stöcken gemacht. Persönlich auf den Bildern zu erkennen ist dabei keiner der Goldsucher.
 
-xxxxx
-
-xxxxx
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/rüttewies_01_fh.jpg" %}
+{% include abbildung_ende.html %}
 
 Ein Ehepaar fühlte sich von mir belästigt und fragte mich, was ich da mache. Worauf ich antwortete, Bilder für eine Recherche zu sammeln. Hierauf erwiderte der ältere Pilzsammler in Schweizerdeutsch zu mir: „Sie dürfen keine Fotos machen. Ich zeige sie an.“ Ich bin verwundert, wo will mich der Goldgräber denn anzeigen? „Geben sie mir sofort ihre Kamera!“, rief er mir gebieterischer Stimme zu. Der Mann machte das nicht zum ersten Mal, der wusste, wie man mit Subalternen umzugehen hatte. Aber zum wundern blieb mir nicht viel Zeit, denn der Mann drohte mir: „Dich hau ich mit dem Stock auf den Kopf“. Gesagt getan - stockschwingend wurde ich unter unflätigen Fäkal-Beschimpfungen verfolgt. Mein einziger Vorteil war, dass ich durch meine Waldläufe fit genug war, um mir den Herren vom Hals zu schaffen.
 
