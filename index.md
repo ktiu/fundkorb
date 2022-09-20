@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calvatia_gigantea_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+20.09.2022:  Bei einem Spaziergang während einer Regenpause sah ich von Weitem auf einer Wiese im südlichen Vogelsberg zwei weiße Bälle, die vermutlich Kinder dort vergessen hatten. Beim Näherkommen entpuppten sie sich als Riesenboviste *Calvatia gigantea*, dem heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Meine Vorfreude auf ein vegetarisches Schnitzel hielt leider nicht lange an, da mich ein Zaun von meinem Abendessen trennte. Außerdem wurden die Riesenboviste von Gänsen bewacht. (Brigitte Koch)
+
+[Mehr lesen >](/pilze/calvatia-gigantea-riesenbovist)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_appendiculatus_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,30 +47,6 @@ footer_scripts:
 18.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelige Nitrathelmhelmling *Mycena stipata*. Er ist nahezu ausschließlich an toten Nadelhölzern zu finden und recht häufig. An totem Laubholz, vor allem Buche, wächst der in den meisten Regionen Deutschlands seltene Gelbstielige Nitrathelmling *[Mycena renati](/pilze/mycena-renati-gelbstieliger-nitrathelmling)*. Dessen gelbe Stiele genügen, um die beiden ansonsten ähnliche Arten voneinander zu unterscheiden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycena-stipata-büscheliger-nitrathelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_phalloides_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.09.2022:  Ein Blickfang der Münchner Frischpilzausstellung ist der Grüne Knollenblätterpilz *Amanita phalloides* und deshalb auch unser aktueller [Fundkorbpilz](AA "Glossar-"). Versteht sich von selbst, dass man ihn mit einem Totenkopfsymbol versehen hat. Zweifellos wird er in Kürze auch im Rhein-Main-Gebiet auftauchen. Vielleicht schon heute bei unserer Exkursion im Frankfurter Stadtwald? (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/crucibulum_laeve_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-16.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tiegelteuerling *Crucibulum laeve*. Seine Fruchtkörper bestehen aus  tönnchen- oder schüsselförmigen Behältnissen, in denen linsen- oder münzenförmige Gebilde von etwa 1 mm Größe liegen. Aus ihrer Anzahl glaubten unsere abergläubischen Vorfahren, Schlüsse auf Wohlstand oder Notzeiten schließen zu können. Je weniger dieser [Peridiolen](Peridiole "Glossar") es waren, desto schlechtere Zeiten standen bevor.  Wieviele mögen es wohl heutzutage sein, da uns eine Hyperinflation erwartet? (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/crucibulum-laeve-tiegelteuerling)
 
 <div style="clear:  both"></div>
 
