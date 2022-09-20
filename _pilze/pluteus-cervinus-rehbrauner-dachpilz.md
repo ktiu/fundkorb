@@ -44,7 +44,7 @@ Der Rehbraune Dachpilz ist der mit Abstand häufigste Vertreter seiner Gattung u
 [*Pluteus umbrosus* = Schwarzflockiger Dachpilz](/pilze/pluteus-umbrosus-schwarzflockiger-dachpilz)\
 Der Rehbraune Dachpilz hat keine abweichend gefärbten Lamellenschneiden. Einige andere Dachpilzarten mit ähnlichen Hutfarben unterscheiden sich vor allem durch Unterschiede in der Huthautstruktur und in der Form der [Zystiden](Zystiden "Glossar"). Der Rehbraune hat keulen- oder birnenförmige Cheilozystiden (an den Lamellenschneiden) und Hakenzystiden (an den Lamellenflächen).
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pluteus_cervinus_07_fk.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/pluteus_cervinus_08_fk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Hakenzystiden (2 Mikrofotos: Frank Kaster)" %}
