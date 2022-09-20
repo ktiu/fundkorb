@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/gymnopus_peronatus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-21.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brennende Rübling *Gymnopus peronatus*. Mit "brennend" ist natürlich nicht gemeint, dass er Feuer fängt, sondern brennend scharf schmeckt. So schlimm ist es nun auch wieder nicht, aber scharf ist er schon. Außerdem ist seine Schärfe mehr eine Bestimmungshilfe als eine Geschmacksnote in einem Pilzgericht, denn als Speisepilz kommt er nicht in Frage. Meines Wissens ist er der einzige Rübling der Gattung *Gymnopus* scharfem Geschmack. (Dieter Gewalt)
+21.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brennende Rübling *Gymnopus peronatus*. Mit *"brennend"* ist natürlich nicht gemeint, dass er Feuer fängt, sondern brennend scharf schmecken soll. So schlimm ist es nun auch wieder nicht, aber scharf ist er schon. Außerdem ist seine Schärfe mehr eine Bestimmungshilfe als eine Geschmacksnote in einem Pilzgericht, denn als Speisepilz kommt er nicht in Frage. Meines Wissens ist er der einzige Rübling der Gattung *Gymnopus* mit scharfem Geschmack. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gymnopus-peronatus-brennender-rübling)
 
