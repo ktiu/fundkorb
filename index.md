@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-##### 25. September, 17:00 bis 20:00 Uhr: Pilzberatung im Frankfurter Gesundheitsamt ( [\--> Termine](/Termine) )
+##### 25. September, 17:00 bis 20:00 Uhr: Pilzberatung im Gesundheitsamt Frankfurt am Main ( [\--> Termine](/Termine) )
 
 - - -
 
