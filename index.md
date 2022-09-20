@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopus_peronatus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brennende Rübling *Gymnopus peronatus*. Mit "brennend" ist natürlich nicht gemeint, dass er Feuer fängt, sondern brennend scharf schmeckt. So schlimm ist es nun auch wieder nicht, aber scharf ist er schon. Außerdem ist seine Schärfe mehr eine Bestimmungshilfe als eine Geschmacksnote in einem Pilzgericht, denn als Speisepilz kommt er nicht in Frage. Meines Wissens ist er der einzige Rübling der Gattung *Gymnopus* scharfem Geschmack. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gymnopus-peronatus-brennender-rübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/calvatia_gigantea_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 19.09.2022:  Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") ist nichts Alltägliches. Gleich mehrere Exemplare des Anhängselröhrlings *Boletus appendiculatus* habe ich im Gebiet „Terra Levis“ in Wiesbaden gefunden. Obwohl dieser seltene Röhrling keine besonders markanten Merkmale besitzt, gelingt die Bestimmung recht gut. Entscheidend sind die gelben, auf Druck blauenden Poren, der genetzte Stiel (manchmal nur im obersten Stielbereich), das milde Fleisch, der braune Hut ohne Rottöne, der meist wurzelnde Stiel und das meist leicht blauende Fleisch. (Thomas Lamberty)
 
 [Mehr lesen >](/pilze/boletus-appendiculatus-anhängselröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_stipata_-01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelige Nitrathelmhelmling *Mycena stipata*. Er ist nahezu ausschließlich an toten Nadelhölzern zu finden und recht häufig. An totem Laubholz, vor allem Buche, wächst der in den meisten Regionen Deutschlands seltene Gelbstielige Nitrathelmling *[Mycena renati](/pilze/mycena-renati-gelbstieliger-nitrathelmling)*. Dessen gelbe Stiele genügen, um die beiden ansonsten ähnliche Arten voneinander zu unterscheiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-stipata-büscheliger-nitrathelmling)
 
 <div style="clear:  both"></div>
 
