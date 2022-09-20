@@ -49,7 +49,7 @@ Der Rehbraune Dachpilz hat keine abweichend gefärbten Lamellenschneiden. Einige
 {% include bild.html datei="/bilder/pluteus_cervinus_08_fk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Hakenzystiden (2 Mikrofotos: Frank Kaster)" %}
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pluteus_cervinus_09_fk.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/pluteus_cervinus_10_fk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Cheilozystiden keulig / birnenförmig -- Sporen (2 Mikrofotos: Frank Kaster)" %}
