@@ -30,7 +30,8 @@ Xerocomellus: [Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußr
 Xerocomus: [Ziegenlippe](/pilze/xerocomus-subtomentosus-ziegenlippe)
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/xerocomus_rubellus_01_dg.jpg" %}
+{% include bild.html datei="/bilder/xerocomus_rubellus_01_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/xerocomus_rubellus_03_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
 Der Blutrote Filzröhrling ist längst nicht so häufig wie der Rotfußröhrling aber keineswegs selten. Man kann ihn als typischen Wegrandpilz bezeichnen, was natürlich nicht ausschließt, dass er auch abseits von Wegen oder in Parkanlagen wächst. Seine Speisepilzqualität ist als mittelmäßig einzustufen, ähnlich der des Rotfußröhrlings.
