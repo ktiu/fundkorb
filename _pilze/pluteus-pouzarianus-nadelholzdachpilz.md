@@ -24,9 +24,9 @@ Braunhütige Dachpilze gibt es etliche. Haben sie dunkle Lamellenschneiden, komm
 
 Am häufigsten ist der [Rehbraune Dachpilz *Pluteus cervinus*](/pilze/pluteus-cervinus-rehbrauner-dachpilz). Er hat keine abweichend gefärbten Lamellenschneiden und wächst an totem Laubholz, seltener auch an Nadelholz. Um ihn 100%-ig sicher zu bestimmen bzw. von ähnlichen Arten abzugrenzen, müssen Mikromerkmale beachtet werden. Sie unterscheiden sich in der Huthautstruktur und in der Form der [Zystiden](Zystiden "Glossar"). Diese vier Arten sind unter den braunhütigen Dachpilzen die einzigen mit Hakenzystiden an den Lamellenflächen:
 
-[Pluteus cervinus = Rehbrauner Dachpilz](/pilze/pluteus-cervinus-rehbrauner-dachpilz)  
-Pluteus brunneoradiatus = Braunfaseriger Dachpilz (sehr seltene Art)  
-Pluteus pouzarianus = Nadelholz-Dachpilz  
-Pluteus primus = Voreilender Dachpilz
+[Pluteus cervinus = Rehbrauner Dachpilz](/pilze/pluteus-cervinus-rehbrauner-dachpilz)\
+Pluteus brunneoradiatus = Braunfaseriger Dachpilz (sehr seltene Art)\
+Pluteus pouzarianus = Nadelholz-Dachpilz\
+[Pluteus primus = Voreilender Dachpilz](/pilze/pluteus-primus-voreilender-dachpilz)
 
 Sporenform und -größe unterscheiden sich bei diesen Arten nur unwesentlich, sind also für die Bestimmung nicht maßgeblich. Unter den hellhütigen Dachpilzen haben einige ebenfalls Hakenzystiden an den Lamellenschneiden.
