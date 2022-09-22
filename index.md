@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_rubellus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.09.2022 Am Schloßpark in Heusenstamm auf dem Weg zum Zahnarzt überraschten mich ein gutes Dutzend Blutroter Filzröhrlinge (*Xerocomus rubellus*). Klarer Fall: das muss der aktuelle [Fundkorbpilz](AA "Glossar-") des Tages werden. Die hübsche Gruppe wuchs auf einer kleinen Rasenfläche unter Linden. Für alle, die es unbedingt wissen wollen: der Zahnarzt hat weder gebohrt noch Zähne gezogen.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xerocomus-rubellus-blutroter-filzröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gymnopus_peronatus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 20.09.2022:  Bei einem Spaziergang während einer Regenpause sah ich von Weitem auf einer Wiese im südlichen Vogelsberg zwei weiße Bälle, die vermutlich Kinder dort vergessen hatten. Beim Näherkommen entpuppten sie sich als Riesenboviste *Calvatia gigantea*, dem heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Meine Vorfreude auf ein vegetarisches Schnitzel hielt leider nicht lange an, da mich ein Zaun von meinem Abendessen trennte. Außerdem wurden die Riesenboviste von Gänsen bewacht. (Brigitte Koch)
 
 [Mehr lesen >](/pilze/calvatia-gigantea-riesenbovist)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_appendiculatus_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-19.09.2022:  Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") ist nichts Alltägliches. Gleich mehrere Exemplare des Anhängselröhrlings *Boletus appendiculatus* habe ich im Gebiet „Terra Levis“ in Wiesbaden gefunden. Obwohl dieser seltene Röhrling keine besonders markanten Merkmale besitzt, gelingt die Bestimmung recht gut. Entscheidend sind die gelben, auf Druck blauenden Poren, der genetzte Stiel (manchmal nur im obersten Stielbereich), das milde Fleisch, der braune Hut ohne Rottöne, der meist wurzelnde Stiel und das meist leicht blauende Fleisch. (Thomas Lamberty)
-
-[Mehr lesen >](/pilze/boletus-appendiculatus-anhängselröhrling)
 
 <div style="clear:  both"></div>
 
