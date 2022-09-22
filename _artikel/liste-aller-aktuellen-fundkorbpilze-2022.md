@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-21.09.2022: [Gymnopus peronatus - Brennender Rübling](/pilze/gymnopus-peronatus-brennender-rübling)  
+22.09.2022: [Xerocomus rubellus - Blutroter Filzröhrling](/pilze/xerocomus-rubellus-blutroter-filzröhrling)  
+21.09.2022: [Gymnopus peronatus - Brennender Rübling](/pilze/gymnopus-peronatus-brennender-rübling)\
 20.09.2022: [Calvatia gigantea - Riesenbovist](/pilze/calvatia-gigantea-riesenbovist)\
 19.09.2022: [Boletus appendiculatus - Anhängselröhrling](/pilze/boletus-appendiculatus-anhängselröhrling)\
 18.09.2022: [Mycena stipata: Büscheliger Nitrathelmling](/pilze/mycena-stipata-büscheliger-nitrathelmling)\
