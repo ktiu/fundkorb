@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leucoagaricus_leucithites_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.09.2022: Wenn man glaubt, einen Champignon gefunden zu haben, wegen der hellen Lamellen aber Zweifel aufkommen, könnte es sich um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Rosablättrigen Egerlingsschirmling *Leucoagaricus leucothites* handeln. Seine Lamellen verfärben sich zwar auch, aber nur zart rosa und erst in einem Alter, in dem Champignons schon braune oder gar schwarze haben. Er ist zwar auch essbar, aber keineswegs von Champignon-Qualität. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leucoagaricus-leucothites-rosablättriger-egerlingsschirmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_rubellus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
