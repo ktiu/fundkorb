@@ -30,3 +30,5 @@ Pluteus pouzarianus = Nadelholz-Dachpilz\
 [Pluteus primus = Voreilender Dachpilz](/pilze/pluteus-primus-voreilender-dachpilz)
 
 Sporenform und -größe unterscheiden sich bei diesen Arten nur unwesentlich, sind also für die Bestimmung nicht maßgeblich. Unter den hellhütigen Dachpilzen haben einige ebenfalls Hakenzystiden an den Lamellenschneiden.
+
+Die nachfolgende Tabelle zeigt die für eine Unterscheidung relevanten Merkmale der vier Dachpilzarten mit Hakenzystiden auf:
