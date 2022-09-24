@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinopsis_picaceus_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Spechttintling *Coprinopsis picacea*, der sich zur Zeit im Frankfurter Stadtwald breit macht. Er gleicht in der Gestalt einem Schopftintling, aber unter der schuppig aufreißenden hellen Haut wird es schwarz. Dabei entsteht ein Muster, das an ein Spechtgefieder erinnert. Daher der Name. Manche vergleichen ihn wgen des Schwarzweißkontrasts auch mit einer Elster. Im Gegensatz zum Schopftintling taugt der Spechttintling nicht für die Küche. Sein Geruch und Geschmack wird als muffig oder wie Mottenpulver beschrieben. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/coprinopsis-picacea-specht-tintling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leucoagaricus_leucithites_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,30 +47,6 @@ footer_scripts:
 22.09.2022 Am Schloßpark in Heusenstamm auf dem Weg zum Zahnarzt überraschten mich ein gutes Dutzend Blutroter Filzröhrlinge (*Xerocomus rubellus*). Klarer Fall: das muss der aktuelle [Fundkorbpilz](AA "Glossar-") des Tages werden. Die hübsche Gruppe wuchs auf einer kleinen Rasenfläche unter Linden. Für alle, die es unbedingt wissen wollen: der Zahnarzt hat weder gebohrt noch Zähne gezogen.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xerocomus-rubellus-blutroter-filzröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_peronatus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.09.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brennende Rübling *Gymnopus peronatus*. Mit *"brennend"* ist natürlich nicht gemeint, dass er Feuer fängt, sondern brennend scharf schmecken soll. So schlimm ist es nun auch wieder nicht, aber scharf ist er schon. Außerdem ist seine Schärfe mehr eine Bestimmungshilfe als eine Geschmacksnote in einem Pilzgericht, denn als Speisepilz kommt er nicht in Frage. Meines Wissens ist er der einzige Rübling der Gattung *Gymnopus* mit scharfem Geschmack. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gymnopus-peronatus-brennender-rübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calvatia_gigantea_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-20.09.2022:  Bei einem Spaziergang während einer Regenpause sah ich von Weitem auf einer Wiese im südlichen Vogelsberg zwei weiße Bälle, die vermutlich Kinder dort vergessen hatten. Beim Näherkommen entpuppten sie sich als Riesenboviste *Calvatia gigantea*, dem heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Meine Vorfreude auf ein vegetarisches Schnitzel hielt leider nicht lange an, da mich ein Zaun von meinem Abendessen trennte. Außerdem wurden die Riesenboviste von Gänsen bewacht. (Brigitte Koch)
-
-[Mehr lesen >](/pilze/calvatia-gigantea-riesenbovist)
 
 <div style="clear:  both"></div>
 
