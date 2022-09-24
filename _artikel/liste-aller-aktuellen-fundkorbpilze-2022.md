@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-23.09.2022: [Leucoagarichus leucothites - Rosablättriger Egerlingssschirmling](/pilze/leucoagaricus-leucothites-rosablättriger-egerlingsschirmling)  
+24.09.2022: [Coprinopsis picacea - Spechttintling](/pilze/coprinopsis-picacea-specht-tintling)  
+23.09.2022: [Leucoagarichus leucothites - Rosablättriger Egerlingssschirmling](/pilze/leucoagaricus-leucothites-rosablättriger-egerlingsschirmling)\
 22.09.2022: [Xerocomus rubellus - Blutroter Filzröhrling](/pilze/xerocomus-rubellus-blutroter-filzröhrling)\
 21.09.2022: [Gymnopus peronatus - Brennender Rübling](/pilze/gymnopus-peronatus-brennender-rübling)\
 20.09.2022: [Calvatia gigantea - Riesenbovist](/pilze/calvatia-gigantea-riesenbovist)\
