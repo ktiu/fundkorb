@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bovistella_utriformis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Hasenbovist *Bovistella utriformis*. Er gehört zu den großen Stäublingen und ist vor allem auf Weiden und grasigen Flächen zu finden. Die Größe des Riesenbovists erreicht er freilich nicht und auch nicht dessen Speisepilzqualität. Weshalb er Hasenbovist heißt, kann vermutlich niemand erklären.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/bovistella-utriformis-hasenbovist)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinopsis_picaceus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 23.09.2022: Wenn man glaubt, einen Champignon gefunden zu haben, wegen der hellen Lamellen aber Zweifel aufkommen, könnte es sich um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Rosablättrigen Egerlingsschirmling *Leucoagaricus leucothites* handeln. Seine Lamellen verfärben sich zwar auch, aber nur zart rosa und erst in einem Alter, in dem Champignons schon braune oder gar schwarze haben. Er ist zwar auch essbar, aber keineswegs von Champignon-Qualität. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/leucoagaricus-leucothites-rosablättriger-egerlingsschirmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_rubellus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.09.2022 Am Schloßpark in Heusenstamm auf dem Weg zum Zahnarzt überraschten mich ein gutes Dutzend Blutroter Filzröhrlinge (*Xerocomus rubellus*). Klarer Fall: das muss der aktuelle [Fundkorbpilz](AA "Glossar-") des Tages werden. Die hübsche Gruppe wuchs auf einer kleinen Rasenfläche unter Linden. Für alle, die es unbedingt wissen wollen: der Zahnarzt hat weder gebohrt noch Zähne gezogen.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xerocomus-rubellus-blutroter-filzröhrling)
 
 <div style="clear:  both"></div>
 
