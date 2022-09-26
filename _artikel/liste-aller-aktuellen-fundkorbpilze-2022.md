@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-25.09.2022: [Bovistella utriformis - Hasenbovist](/pilze/bovistella-utriformis-hasenbovist)  
+26.09.2022: [Boletus impolitus - Fahler Röhrling](/pilze/boletus-impolitus-fahler-röhrling)  
+25.09.2022: [Bovistella utriformis - Hasenbovist](/pilze/bovistella-utriformis-hasenbovist)\
 24.09.2022: [Coprinopsis picacea - Spechttintling](/pilze/coprinopsis-picacea-specht-tintling)\
 23.09.2022: [Leucoagarichus leucothites - Rosablättriger Egerlingssschirmling](/pilze/leucoagaricus-leucothites-rosablättriger-egerlingsschirmling)\
 22.09.2022: [Xerocomus rubellus - Blutroter Filzröhrling](/pilze/xerocomus-rubellus-blutroter-filzröhrling)\
