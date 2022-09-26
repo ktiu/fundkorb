@@ -12,7 +12,19 @@ footer_scripts:
 
 - - -
 
-##### 25. September, 17:00 bis 20:00 Uhr: Pilzberatung im Gesundheitsamt Frankfurt am Main ( [\--> Termine](/Termine) )
+##### Sonntag, 2. Oktober, 17:00 bis 20:00 Uhr: Pilzberatung im Gesundheitsamt Frankfurt am Main ( [\--> Termine](/Termine) )
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_impolitus_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+26.10.2022 Ein Prachtexemplar des Fahlen Röhrlings *Boletus impolitus* wurde mir gestern in der Frankfurter Pilzberatung vorgelegt und zum aktuellen [Fundkorbpilz](AA "Glossar-") ernannt. Er ist an der Merkmalskombination *"stämmiger Habitus + fahlbraune Hutfarbe + gelbe Poren + nicht genetzter Stiel + Karbolgeruch vor allem im Stiel"* recht gut gekennzeichnet. Mit dem Gefleckt-hütigen Röhrling (*Boletus depilatus*), hat er allerdings einen verwechselbaren Doppelgänger. Der Pilz ist zwar essbar, sollte aber wegen seiner Seltenheit geschont werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/boletus-impolitus-fahler-röhrling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -35,18 +47,6 @@ footer_scripts:
 24.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Spechttintling *Coprinopsis picacea*, der sich zur Zeit im Frankfurter Stadtwald breit macht. Er gleicht in der Gestalt einem Schopftintling, aber unter der schuppig aufreißenden hellen Haut wird es schwarz. Dabei entsteht ein Muster, das an ein Spechtgefieder erinnert. Daher der Name. Manche vergleichen ihn wgen des Schwarzweißkontrasts auch mit einer Elster. Im Gegensatz zum Schopftintling taugt der Spechttintling nicht für die Küche. Sein Geruch und Geschmack wird als muffig oder wie Mottenpulver beschrieben. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/coprinopsis-picacea-specht-tintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leucoagaricus_leucithites_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.09.2022: Wenn man glaubt, einen Champignon gefunden zu haben, wegen der hellen Lamellen aber Zweifel aufkommen, könnte es sich um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Rosablättrigen Egerlingsschirmling *Leucoagaricus leucothites* handeln. Seine Lamellen verfärben sich zwar auch, aber nur zart rosa und erst in einem Alter, in dem Champignons schon braune oder gar schwarze haben. Er ist zwar auch essbar, aber keineswegs von Champignon-Qualität. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leucoagaricus-leucothites-rosablättriger-egerlingsschirmling)
 
 <div style="clear:  both"></div>
 
