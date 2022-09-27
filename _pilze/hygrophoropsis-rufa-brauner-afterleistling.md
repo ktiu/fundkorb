@@ -20,8 +20,10 @@ Dieser Pilz wird zweifellos von den meisten Pilzfreunden und -sammlern für eine
 
 > Es sind etliche Formen und Varietäten (vom Falschen Pfifferling) beschrieben worden, die sich jedoch als zufällige oder witterungsbedingte Farbabweichungen herausgestellt haben."
 
+Inzwischen ist *Hygrophoropsis rufa* als gute Art anerkannt. Sie unterscheidet sich vom häufigen Falschen Pfifferling optisch durch einen braunen oder braunorangen, also dunkleren Hut  und einen etwas dickeren Stiel.  Außerdem sollen die Sporen etwas kleiner sein als bei *Hygrophoropsis aurantiaca.*
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hygrophoropsis_rufa_03_mb.jpg" %}
 {% include abbildung_ende.html legende="Foto: Marion Bertram" %}
 
-Inzwischen ist *Hygrophoropsis rufa* als gute Art anerkannt. Sie unterscheidet sich vom häufigen Falschen Pfifferling optisch durch einen braunen oder braunorangen, also dunkleren Hut  und einen etwas dickeren Stiel. Zu finden ist die Art vom Sommer bis Spätherbst im Nadelwald, außerhalb auch gern auf Holzhäcksel. Da nur selten vom Falschen Pfifferling unterschieden, ist über ihre wahre Häufigkeit zur Zeit nur wenig zu sagen. Bei *123pilze* meint man, sie sei sehr selten.
+Zu finden ist die Art vom Sommer bis Spätherbst im Nadelwald, außerhalb auch gern auf Holzhäcksel. Da nur selten vom Falschen Pfifferling unterschieden, ist über ihre wahre Häufigkeit zur Zeit nur wenig zu sagen. Bei *123pilze* meint man, sie sei sehr selten.
