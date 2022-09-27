@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_xanthoderma_01_dg-1024x734.jpg" %}
+{% include abbildung_ende.html %}
+
+27.09.2022 In den vergangenen Jahren wuchs er wahrhaftig zu Tausenden in einer Dietzenbacher Parkanlage. Jetzt sind es nur ganz wenige, aber trotzdem macht es Sinn, den Karbolchamignon *Agaricus xanthoderma* als aktuellen [Fundkorbpilz](AA "Glossar-") zu wählen. Wird er doch immer wieder mit essbaren Wiesenchampignons verwechselt und hat nach dem Verzehr Bauchweh, Übelkeit und Durchfall erzeugt. (Dieter Gewalt)
+
+Wie solche Unpässlichkeiten vermieden werden können, [erfährt man hier >](/pilze/agaricus-xanthoderma-karbolchampignon)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_impolitus_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
