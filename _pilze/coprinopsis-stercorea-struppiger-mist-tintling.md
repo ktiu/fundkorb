@@ -13,7 +13,7 @@ hauptbild:
   anzeige: false
   datei: /bilder/coprinopsis_stercorea_01_dg.jpg
 literatur:
-  - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 4 (Blättepilze 2. Teil)
+  - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 4 (Blätterpilze 2. Teil)
       Nr. 303"
 ---
 {% include abbildung_start.html stil="mittel" %}
