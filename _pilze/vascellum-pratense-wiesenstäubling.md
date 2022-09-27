@@ -5,6 +5,7 @@ beschreibung:
   referenz: (Pers.) Kreisel 1962
   familie: Agaricaceae
   erlaeuterung: pratense = auf Wiesen vorkommend
+  synonym: "Neuer Name: Lycoperdon pratense"
 profil:
   aktualisiert: 2021-01-26
   autor_in: Dieter Gewalt
