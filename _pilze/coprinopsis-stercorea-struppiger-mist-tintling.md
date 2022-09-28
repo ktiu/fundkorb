@@ -30,7 +30,7 @@ Eigentlich ist der Struppige Mist-Tintling aufgrund seiner geringen Größe und 
 
 Die Köttel waren auf dem Waldfreizeitgelände Jügesheim aufgesammelt worden. In freier Natur wird man den Pilzchen schon deshalb nur selten begegnen, weil sie eine extrem kurze Lebensdauer haben und wegen ihrer Winzigkeit übersehen werden. Die Kultivierung scheint bei ausreichender Feuchtigkeit problemlos zu gelingen, jedoch haben wir beobachtet, dass sich nicht alle auf dem Dung erscheinenden Filzbällchen zu ausgewachsenen Hut-Stiel-Pilzen entwickeln. Allerdings ist Geduld gefragt. Bis zur Fruchtkörperbildung kann es Monate dauern, sie ist aber von der Jahreszeit unabhängig. Außer auf Hasen- und Kaninchenkötteln wächst der Pilz laut Literatur auch auf Exkrementen von Rehen, Schafen, Pferden, etc.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/coprinopsis_stercorea_04_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/coprinopsis_stercorea_05_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/coprinopsis_stercorea_06_dg.jpg" nocrop=true gross=true %}
