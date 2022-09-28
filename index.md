@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gyromitra_infula_04_ii.jpg" %}
+{% include abbildung_ende.html %}
+
+28.09.2022 Zu unserem heutigen aktuellen [Fundkorbpilz](AA "Glossar-") schreibt *Johann Rejek:* "Die Bischofsmütze (*Gyromitra infula*) habe ich bislang nur wenige Male zu Gesicht bekommen. Und wenn, dann als große Einzelfruchtkörper. Um so größer war die Freude über meinen Fund in einem noch jungen Mischwald an der Stadtgrenze im Münchner Osten. Auf einigen morschen vermoosten Baumstämmen zeigten sich gut ein Dutzend junger Fruchtkörper. Ich werde sie im Auge behalten. Sollten sie noch ungehindert weiter wachsen, dann könnte es eine stattliche Galerie von ähnlich aussehenden, aber doch unterschiedlichen „Mützen“ werden."
+
+[Mehr lesen >](/pilze/gyromitra-infula-bischofsmütze)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_xanthoderma_01_dg-1024x734.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,18 +59,6 @@ Wie solche Unpässlichkeiten vermieden werden können, [erfährt man hier >](/pi
 25.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Hasenbovist *Bovistella utriformis*. Er gehört zu den großen Stäublingen und ist vor allem auf Weiden und grasigen Flächen zu finden. Die Größe des Riesenbovists erreicht er freilich nicht und auch nicht dessen Speisepilzqualität. Weshalb er Hasenbovist heißt, kann vermutlich niemand erklären.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/bovistella-utriformis-hasenbovist)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinopsis_picaceus_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Spechttintling *Coprinopsis picacea*, der sich zur Zeit im Frankfurter Stadtwald breit macht. Er gleicht in der Gestalt einem Schopftintling, aber unter der schuppig aufreißenden hellen Haut wird es schwarz. Dabei entsteht ein Muster, das an ein Spechtgefieder erinnert. Daher der Name. Manche vergleichen ihn wgen des Schwarzweißkontrasts auch mit einer Elster. Im Gegensatz zum Schopftintling taugt der Spechttintling nicht für die Küche. Sein Geruch und Geschmack wird als muffig oder wie Mottenpulver beschrieben. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coprinopsis-picacea-specht-tintling)
 
 <div style="clear:  both"></div>
 
