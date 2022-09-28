@@ -62,3 +62,49 @@ Unter den mitteleuropäischen braunhütigen Dachpilzarten gibt es neben dem sehr
 Unter diesen ist der Rehbraune Dachpilz *Pluteus cervinus* durch die Merkmalskombination *"glatte Huthaut + Hakenzystiden + ohne Schnallen an den Hyphen"* gekennzeichnet. *Pluteus brunneoradiatus* hat eine auf hellerem Grund radialfaserige Huthaut.
 
 Sporenform und -größe unterscheiden sich bei diesen Arten nur unwesentlich, sind also für die Bestimmung nicht maßgeblich.
+
+Die nachfolgende Tabelle zeigt die für eine Unterscheidung relevanten Merkmale der vier Dachpilzarten mit Hakenzystiden auf:
+
+<div class="table-responsive">
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Ökologie</th>
+        <th>Hutoberfläche</th>        
+        <th>Geruch</th>
+        <th>Schnallen an den Huthauthyphen</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Pluteus cervinus<br />Rehbrauner Dachpilz</th>
+        <td>an Laub- und Nadelholz</td>
+        <td>glatt</td>
+        <td>schwach nach Rettich</td>
+        <td>keine</td>        
+      </tr>
+      <tr>
+        <th>Pluteus pozarianus<br />Nadelholzdachpilz</th>
+        <td>an Nadelholz</td>
+        <td>glatt</td>
+        <td>geruchlos</td>
+        <td>an 10 - 40% der Septen</td>        
+      </tr>
+      <tr>
+        <th>Pluteus primus<br />Voreilender Dachpilz</th>
+        <td>an Nadelholz</td>
+        <td>glatt</td>
+        <td>nach Rettich</td>
+        <td>an allen Septen</td>        
+      </tr>
+      <tr>
+        <th>Pluteus brunneoradiatus<br />Braunfaseriger Dachpilz</th>
+        <td>an Laubholz</td>
+        <td>deutlich radialfaserig</td>
+        <td>unangenehm ranzig</td>
+        <td>keine</td>        
+      </tr>
+    </tbody>
+  </table>
+</div>
