@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_aereus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bronzeröhrling oder Schwarzhütige Steinpilz *Boletus aereus*. Unter den vier in Mitteleuropa heimischen Steinpilzarten gehört er zu den zwei seltenen, die als Rote-Liste-Arten nicht gesammelt werden dürfen. Seine wesentlichen Merkmale sind: schwarzbrauner, fein samtiger, am Rand oft weißlich überhauchter und wie bronziert wirkender Hut + fehlende oder nur undeutlich wahrnehmbare Netzzeichnung am Stiel. Ihn wirksam zu schützen dürfte schwerfallen, weil die meisten Pilzsammler gar nicht wissen, dass es vier verschiedene Steinpilzarten gibt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/boletus-aereus-bronzeröhrling-schwarzhütiger-steinpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gyromitra_infula_04_ii.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,18 +59,6 @@ Wie solche Unpässlichkeiten vermieden werden können, [erfährt man hier >](/pi
 26.10.2022 Ein Prachtexemplar des Fahlen Röhrlings *Boletus impolitus* wurde mir gestern in der Frankfurter Pilzberatung vorgelegt und zum aktuellen [Fundkorbpilz](AA "Glossar-") ernannt. Er ist an der Merkmalskombination *"stämmiger Habitus + fahlbraune Hutfarbe + gelbe Poren + nicht genetzter Stiel + Karbolgeruch vor allem im Stiel"* recht gut gekennzeichnet. Mit dem Gefleckt-hütigen Röhrling (*Boletus depilatus*), hat er allerdings einen verwechselbaren Doppelgänger. Der Pilz ist zwar essbar, sollte aber wegen seiner Seltenheit geschont werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/boletus-impolitus-fahler-röhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bovistella_utriformis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Hasenbovist *Bovistella utriformis*. Er gehört zu den großen Stäublingen und ist vor allem auf Weiden und grasigen Flächen zu finden. Die Größe des Riesenbovists erreicht er freilich nicht und auch nicht dessen Speisepilzqualität. Weshalb er Hasenbovist heißt, kann vermutlich niemand erklären.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/bovistella-utriformis-hasenbovist)
 
 <div style="clear:  both"></div>
 
