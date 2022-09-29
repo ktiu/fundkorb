@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-28.09.2022: [Gyromitra infula - Bischofsmütze](/pilze/gyromitra-infula-bischofsmütze)  
+29.09.2022: [Boletus aereus - Bronzeröhrling, Schwarzhütiger Steinpilz](/pilze/boletus-aereus-bronzeröhrling-schwarzhütiger-steinpilz)  
+28.09.2022: [Gyromitra infula - Bischofsmütze](/pilze/gyromitra-infula-bischofsmütze)\
 27.09.2022: [Agaricus xanthoderma - Karbolchampignon](/pilze/agaricus-xanthoderma-karbolchampignon)\
 26.09.2022: [Boletus impolitus - Fahler Röhrling](/pilze/boletus-impolitus-fahler-röhrling)\
 25.09.2022: [Bovistella utriformis - Hasenbovist](/pilze/bovistella-utriformis-hasenbovist)\
