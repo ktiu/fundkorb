@@ -19,22 +19,10 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_cisalpinus_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-30.09.2022 Früher gab es mal einen ziemlich variablen Rotfüßröhrling, der in fast jedem Sammelkorb zu finden war. Inzwischen ist er in mehrere neue Arten aufgesplittet worden, darunter unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Starkblauenden Rotfußröhrling *Xerocomus cisalpinus*. Der ist an seinem stark blauenden Fleisch in der Stielbasis eigentlich gut von den anderen zu unterscheiden, schmeckt aber auch nicht besser als diese. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stropharia_coronilla_03_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-29.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Krönchenträuschling *Stropharia coronilla*. Er ist mäßig häufig, aber zur Zeit in geeigneten Biotopen wie in unserer Dietzenbacher Parkanlage vielfach anzutreffen. Es handelt sich um ein hübsches Pilzchen, das für die Küche jedoch nicht geeignet ist. (Dieter Gewalt)
+30.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Krönchenträuschling *Stropharia coronilla*. Er ist mäßig häufig, aber zur Zeit in geeigneten Biotopen wie in unserer Dietzenbacher Parkanlage vielfach anzutreffen. Es handelt sich um ein hübsches Pilzchen, das für die Küche jedoch nicht geeignet ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/stropharia-coronilla-krönchen-träuschling)
 
@@ -46,7 +34,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/boletus_aereus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-28.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bronzeröhrling oder Schwarzhütige Steinpilz *Boletus aereus*. Unter den vier in Mitteleuropa heimischen Steinpilzarten gehört er zu den zwei seltenen, die als Rote-Liste-Arten nicht gesammelt werden dürfen. Seine wesentlichen Merkmale sind: schwarzbrauner, fein samtiger, am Rand oft weißlich überhauchter und wie bronziert wirkender Hut + fehlende oder nur undeutlich wahrnehmbare Netzzeichnung am Stiel. Ihn wirksam zu schützen dürfte schwerfallen, weil die meisten Pilzsammler gar nicht wissen, dass es vier verschiedene Steinpilzarten gibt. (Dieter Gewalt)
+29.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bronzeröhrling oder Schwarzhütige Steinpilz *Boletus aereus*. Unter den vier in Mitteleuropa heimischen Steinpilzarten gehört er zu den zwei seltenen, die als Rote-Liste-Arten nicht gesammelt werden dürfen. Seine wesentlichen Merkmale sind: schwarzbrauner, fein samtiger, am Rand oft weißlich überhauchter und wie bronziert wirkender Hut + fehlende oder nur undeutlich wahrnehmbare Netzzeichnung am Stiel. Ihn wirksam zu schützen dürfte schwerfallen, weil die meisten Pilzsammler gar nicht wissen, dass es vier verschiedene Steinpilzarten gibt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/boletus-aereus-bronzeröhrling-schwarzhütiger-steinpilz)
 
