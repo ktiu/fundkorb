@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-##### Samstag, 1. Oktober, 10:00 Uhr: Regen und böiger Wind zwingt uns, die pilzkundliche Führung der vhs Offenbach abzusagen.
+##### Samstag, 1. Oktober, 10:00 Uhr: Regen und böiger Wind zwingen uns, die pilzkundliche Führung der vhs Offenbach abzusagen.
 
 ##### Auch die Pilzberatung im Gesundheitsamt Frankfurt am Main am Sonntag, 2. Oktober, muss leider ausfallen.
 
