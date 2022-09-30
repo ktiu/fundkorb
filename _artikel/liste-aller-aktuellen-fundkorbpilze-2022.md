@@ -3,7 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-30.09.2022: [Stropharia coronilla - Krönchenträuschling](/pilze/stropharia-coronilla-krönchenträuschling)  
+30.09.2022: [Stropharia coronilla - Krönchenträuschling](/pilze/stropharia-coronilla-krönchen-träuschling)  
 29.09.2022: [Boletus aereus - Bronzeröhrling, Schwarzhütiger Steinpilz](/pilze/boletus-aereus-bronzeröhrling-schwarzhütiger-steinpilz)\
 28.09.2022: [Gyromitra infula - Bischofsmütze](/pilze/gyromitra-infula-bischofsmütze)\
 27.09.2022: [Agaricus xanthoderma - Karbolchampignon](/pilze/agaricus-xanthoderma-karbolchampignon)\
