@@ -24,7 +24,7 @@ footer_scripts:
 
 29.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Krönchenträuschling *Stropharia coronilla*. Er ist mäßig häufig, aber zur Zeit in geeigneten Biotopen wie in unserer Dietzenbacher Parkanlage vielfach anzutreffen. Es handelt sich um ein hübsches Pilzchen, das für die Küche jedoch nicht geeignet ist. (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/stropharia-coronilla-krönchenträuschling)
+[Mehr lesen >](/pilze/stropharia-coronilla-krönchenträuschling)[/pilze/stropharia-coronilla-krönchen-träuschling](/pilze/stropharia-coronilla-krönchen-träuschling)
 
 <div style="clear:  both"></div>
 
