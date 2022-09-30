@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stropharia_coronilla_03_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+29.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Krönchenträuschling *Stropharia coronilla*. Er ist mäßig häufig, aber zur Zeit in geeigneten Biotopen wie in unserer Dietzenbacher Parkanlage vielfach anzutreffen. Es handelt sich um ein hübsches Pilzchen, das für die Küche nicht geeignet ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stropharia-coronilla-krönchenträuschling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_aereus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,18 +59,6 @@ footer_scripts:
 27.09.2022 In den vergangenen Jahren wuchs er wahrhaftig zu Tausenden in einer Dietzenbacher Parkanlage. Jetzt sind es nur ganz wenige, aber trotzdem macht es Sinn, den Karbolchamignon *Agaricus xanthoderma* als aktuellen [Fundkorbpilz](AA "Glossar-") zu wählen. Wird er doch immer wieder mit essbaren Wiesenchampignons verwechselt und hat nach dem Verzehr Bauchweh, Übelkeit und Durchfall erzeugt. (Dieter Gewalt)
 
 Wie solche Unpässlichkeiten vermieden werden können, [erfährt man hier >](/pilze/agaricus-xanthoderma-karbolchampignon)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_impolitus_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-26.10.2022 Ein Prachtexemplar des Fahlen Röhrlings *Boletus impolitus* wurde mir gestern in der Frankfurter Pilzberatung vorgelegt und zum aktuellen [Fundkorbpilz](AA "Glossar-") ernannt. Er ist an der Merkmalskombination *"stämmiger Habitus + fahlbraune Hutfarbe + gelbe Poren + nicht genetzter Stiel + Karbolgeruch vor allem im Stiel"* recht gut gekennzeichnet. Mit dem Gefleckt-hütigen Röhrling (*Boletus depilatus*), hat er allerdings einen verwechselbaren Doppelgänger. Der Pilz ist zwar essbar, sollte aber wegen seiner Seltenheit geschont werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-impolitus-fahler-röhrling)
 
 <div style="clear:  both"></div>
 
