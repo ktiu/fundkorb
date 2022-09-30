@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_cisalpinus_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+30.09.2022 Früher gab es mal einen ziemlich variablen Rotfüßröhrling, der in fast jedem Sammelkorb zu finden war. Inzwischen ist er in mehrere neue Arten aufgesplittet worden, darunter unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Starkblauenden Rotfußröhrling *Xerocomus cisalpinus*. Der ist an seinem stark blauenden Fleisch in der Stielbasis eigentlich gut von den anderen zu unterscheiden, schmeckt aber auch nicht besser als diese. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stropharia_coronilla_03_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -49,18 +61,6 @@ footer_scripts:
 28.09.2022 Zu unserem heutigen aktuellen [Fundkorbpilz](AA "Glossar-") schreibt *Johann Rejek:* "Die Bischofsmütze (*Gyromitra infula*) habe ich bislang nur wenige Male zu Gesicht bekommen. Und wenn, dann als große Einzelfruchtkörper. Um so größer war die Freude über meinen Fund in einem noch jungen Mischwald an der Stadtgrenze im Münchner Osten. Auf einigen morschen vermoosten Baumstämmen zeigten sich gut ein Dutzend junger Fruchtkörper. Ich werde sie im Auge behalten. Sollten sie noch ungehindert weiter wachsen, dann könnte es eine stattliche Galerie von ähnlich aussehenden, aber doch unterschiedlichen „Mützen“ werden."
 
 [Mehr lesen >](/pilze/gyromitra-infula-bischofsmütze)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_xanthoderma_01_dg-1024x734.jpg" %}
-{% include abbildung_ende.html %}
-
-27.09.2022 In den vergangenen Jahren wuchs er wahrhaftig zu Tausenden in einer Dietzenbacher Parkanlage. Jetzt sind es nur ganz wenige, aber trotzdem macht es Sinn, den Karbolchamignon *Agaricus xanthoderma* als aktuellen [Fundkorbpilz](AA "Glossar-") zu wählen. Wird er doch immer wieder mit essbaren Wiesenchampignons verwechselt und hat nach dem Verzehr Bauchweh, Übelkeit und Durchfall erzeugt. (Dieter Gewalt)
-
-Wie solche Unpässlichkeiten vermieden werden können, [erfährt man hier >](/pilze/agaricus-xanthoderma-karbolchampignon)
 
 <div style="clear:  both"></div>
 
