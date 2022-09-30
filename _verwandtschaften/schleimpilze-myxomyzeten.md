@@ -39,7 +39,7 @@ Bis jetzt sind knapp über 1000 Arten beschrieben worden, jedoch werden laufend 
 {% include bild.html datei="/bilder/stemonitis_axifera_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: Fadenfrucht-Schleimpilz (Physarum utruculare) -- rechts: Dunkles Fadenstäubchen (Stemonitis fusca)" %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DF51zfsGz3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=f2cSz14Y_wY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Teilen wir uns die Erde mit intelligenten Schleimpilzen? Neueste Forschungsergebnisse legen das nahe. Auch selbstfahrende Autos könnten vom intelligenten Verhalten der Schleimpilze etwas lernen. Wie kommen die Autoren dieses Videos zu dieser etwas verblüffenden Ansicht?  
 
