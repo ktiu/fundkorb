@@ -12,7 +12,9 @@ footer_scripts:
 
 - - -
 
-##### Sonntag, 2. Oktober, 17:00 bis 20:00 Uhr: Pilzberatung im Gesundheitsamt Frankfurt am Main ( [\--> Termine](/Termine) )
+##### Samstag, 1. Oktober, 10:00 Uhr: Regen und böiger Wind zwingt uns, die pilzkundliche Führung der vhs Offenbach abzusagen.
+
+##### Auch die Pilzberatung im Gesundheitsamt Frankfurt am Main am Sonntag, 2. Oktober, muss leider ausfallen.
 
 - - -
 
