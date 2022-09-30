@@ -41,9 +41,9 @@ Bis jetzt sind knapp über 1000 Arten beschrieben worden, jedoch werden laufend 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DF51zfsGz3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das Video des US-amerikanischen Technikportals *The Verge* legt das nahe. Auch selbstfahrende Autos könnten vom intelligenten Verhalten der Schleimpilze etwas lernen. Wie kommen die Autoren zu dieser etwas verblüffenden Ansicht?  
+Teilen wir uns die Erde mit intelligenten Schleimpilzen? Neueste Forschungsergebnisse legen das nahe. Auch selbstfahrende Autos könnten vom intelligenten Verhalten der Schleimpilze etwas lernen. Wie kommen die Autoren dieses Videos zu dieser etwas verblüffenden Ansicht?  
 
-<https://www.spektrum.de/video/besitzen-schleimpilze-schwarmintelligenz/1592488>
+https://www.youtube.com/watch?v=f2cSz14Y_wY
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tubulifera_arachnoidea_01_dg.jpg" nocrop=true gross=true %}
@@ -52,8 +52,8 @@ Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das Video des US-amerik
 
 Bisher 19 Schleimpilzarten aus 12 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
 
-[](/pilze/diachaea-leucopodia-buckingham-schleimpilz)[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)  
-[Arcyria incarnata (Arcyriaceae) - Roter Kelchstäubling](/pilze/arcyria-incarnata-roter-kelchst%C3%A4ubling)  
+[](/pilze/diachaea-leucopodia-buckingham-schleimpilz)[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
+[Arcyria incarnata (Arcyriaceae) - Roter Kelchstäubling](/pilze/arcyria-incarnata-roter-kelchst%C3%A4ubling)\
 [Arcyria obvelata (Arcyriaceae) - Nickender Kelchschleimpilz](/pilze/arcyria-obvelata-arcyria-obvelata)\
 [Ceratiomyxa porioides (Ceratiomyxaceae) - Weißes Netzpolster](/pilze/ceratiomyxa-porioides-weißes-netzpolster)\
 [Ceratiomyxa fruticulosa (Ceratiomyxaceae) - Geweihförmiger Schleimpilz](/pilze/ceratiomyxa-fruticulosa-geweihförmiger-schleimpilz)\
