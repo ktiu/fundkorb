@@ -43,8 +43,6 @@ Bis jetzt sind knapp über 1000 Arten beschrieben worden, jedoch werden laufend 
 
 Teilen wir uns die Erde mit intelligenten Schleimpilzen? Neueste Forschungsergebnisse legen das nahe. Auch selbstfahrende Autos könnten vom intelligenten Verhalten der Schleimpilze etwas lernen. Wie kommen die Autoren dieses Videos zu dieser etwas verblüffenden Ansicht?  
 
-https://www.youtube.com/watch?v=f2cSz14Y_wY
-
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tubulifera_arachnoidea_01_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/arcyria_incarnata_02_wi.jpg" nocrop=true gross=true %}
