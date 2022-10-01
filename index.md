@@ -22,9 +22,9 @@ footer_scripts:
 {% include bild.html datei="/bilder/hebeloma_sinapizans_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-01.10.2022 Bei unserem heutigen aktuellen [Fundkorbpilz](AA "Glossar-") spielen Zäpfchen eine besondere Rolle. Sie betreffen den Großen Rettichfälbling *Hebeloma sinapizans*, der gerade in unserer Dietzenbacher Parkanlage erschienen ist. Er ist leicht giftig und kann Magen-/Darmbeschwerden verursachen. Bei ihm ist der Geruch nach Rettich kein artkennzeichnendes Merkmal. In der Gattung *Hebeloma* gibt es zahlreiche Arten mit diesem leicht identifizierbaren Duft. Was es mit den Zäpfchen auf sich hat, erfahren interessierte Pilzfreund*innen hier >
+01.10.2022 Bei unserem heutigen aktuellen [Fundkorbpilz](AA "Glossar-") spielen Zäpfchen eine besondere Rolle. Sie betreffen den Großen Rettichfälbling *Hebeloma sinapizans*, der gerade in unserer Dietzenbacher Parkanlage erschienen ist. Er ist leicht giftig und kann Magen-/Darmbeschwerden verursachen. Bei ihm ist der Geruch nach Rettich kein artkennzeichnendes Merkmal. In der Gattung *Hebeloma* gibt es zahlreiche Arten mit diesem leicht identifizierbaren Duft. 
 
-[Mehr lesen >](/pilze/hebeloma-sinapizans-großer-rettichfälbling)
+Was es mit den Zäpfchen auf sich hat, erfahren interessierte Pilzfreund*innen [hier >](/pilze/hebeloma-sinapizans-großer-rettichfälbling)
 
 <div style="clear:  both"></div>
 
