@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-##### Die Pilzberatung im Gesundheitsamt Frankfurt am Main am heutigen Sonntag, 2. Oktober, muss leider ausfallen.
+##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 9. Oktober, 17 - 20 Uhr
 
 - - -
 
