@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_alveolaris_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wabenporling *Polyporus alveolaris*. Der ist im Rhein-Main-Gebiet schon seit Wochen so häufig wie noch nie. Und manchmal auch noch deutlich größer als gewohnt. Pilzfreunde müssen sich damit begnügen, seine wunderschön geformten Poren zu betrachten. Wegen seines zähen Fleisches ist er ungenießbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/polyporus-alveolaris-wabenporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_cisalpinus_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,30 +59,6 @@ Was es mit den Zäpfchen auf sich hat, erfahren interessierte Pilzfreund*innen [
 30.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Krönchenträuschling *Stropharia coronilla*. Er ist mäßig häufig, aber zur Zeit in geeigneten Biotopen wie in unserer Dietzenbacher Parkanlage vielfach anzutreffen. Es handelt sich um ein hübsches Pilzchen, das für die Küche jedoch nicht geeignet ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/stropharia-coronilla-krönchen-träuschling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_aereus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bronzeröhrling oder Schwarzhütige Steinpilz *Boletus aereus*. Unter den vier in Mitteleuropa heimischen Steinpilzarten gehört er zu den zwei seltenen, die als Rote-Liste-Arten nicht gesammelt werden dürfen. Seine wesentlichen Merkmale sind: schwarzbrauner, fein samtiger, am Rand oft weißlich überhauchter und wie bronziert wirkender Hut + fehlende oder nur undeutlich wahrnehmbare Netzzeichnung am Stiel. Ihn wirksam zu schützen dürfte schwerfallen, weil die meisten Pilzsammler gar nicht wissen, dass es vier verschiedene Steinpilzarten gibt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-aereus-bronzeröhrling-schwarzhütiger-steinpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gyromitra_infula_04_ii.jpg" %}
-{% include abbildung_ende.html %}
-
-28.09.2022 Zu unserem heutigen aktuellen [Fundkorbpilz](AA "Glossar-") schreibt *Johann Rejek:* "Die Bischofsmütze (*Gyromitra infula*) habe ich bislang nur wenige Male zu Gesicht bekommen. Und wenn, dann als große Einzelfruchtkörper. Um so größer war die Freude über meinen Fund in einem noch jungen Mischwald an der Stadtgrenze im Münchner Osten. Auf einigen morschen vermoosten Baumstämmen zeigten sich gut ein Dutzend junger Fruchtkörper. Ich werde sie im Auge behalten. Sollten sie noch ungehindert weiter wachsen, dann könnte es eine stattliche Galerie von ähnlich aussehenden, aber doch unterschiedlichen „Mützen“ werden."
-
-[Mehr lesen >](/pilze/gyromitra-infula-bischofsmütze)
 
 <div style="clear:  both"></div>
 
