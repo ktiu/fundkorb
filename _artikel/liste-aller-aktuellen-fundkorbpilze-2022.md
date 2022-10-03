@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-02.10.2022: [Xerocomus cisalpinus - Starkblauender Rotfußröhrling](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)  
+03.10.2022: [Polyporus alveolaris - Wabenporling](/pilze/polyporus-alveolaris-wabenporling)  
+02.10.2022: [Xerocomus cisalpinus - Starkblauender Rotfußröhrling](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)\
 01.10.2022: [Hebeloma sinapizans: Großer Rettichfälbling](/pilze/hebeloma-sinapizans-großer-rettichfälbling)
 
 30.09.2022: [Stropharia coronilla - Krönchenträuschling](/pilze/stropharia-coronilla-krönchen-träuschling)\
