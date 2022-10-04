@@ -2,7 +2,7 @@
 aktivitaet: Pilze im Frankfurter Stadtwald
 zeit: 2022-10-07T13:00:19.201Z
 bis: ""
-anmeldung_offen: true
+anmeldung_offen: false
 anmeldung_noetig: false
 published: true
 ---
