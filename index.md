@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/paxillus_involutus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kahle Krempling *Paxillus involutus*, den jeder Pilzsammler genau kennen sollte. Roh gegessen ist er immer stark giftig, aber auch gut gegart kann er im Blut die Bildung von Antikörpern verursachen, was zu einer tödlichen Antigen-Antikörper-Reaktion führen kann. Vor ca. 60 Jahren und davor galt er noch als schmackhafter Speisepilz, aber schon damals wurde dringend empfohlen, ihn nur ausreichend erhitzt zu genießen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_alveolaris_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,18 +59,6 @@ footer_scripts:
 01.10.2022 Bei unserem heutigen aktuellen [Fundkorbpilz](AA "Glossar-") spielen Zäpfchen eine besondere Rolle. Sie betreffen den Großen Rettichfälbling *Hebeloma sinapizans*, der gerade in unserer Dietzenbacher Parkanlage erschienen ist. Er ist leicht giftig und kann Magen-/Darmbeschwerden verursachen. Bei ihm ist der Geruch nach Rettich kein artkennzeichnendes Merkmal. In der Gattung *Hebeloma* gibt es zahlreiche Arten mit diesem leicht identifizierbaren Duft. 
 
 Was es mit den Zäpfchen auf sich hat, erfahren interessierte Pilzfreund*innen [hier >](/pilze/hebeloma-sinapizans-großer-rettichfälbling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stropharia_coronilla_03_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-30.09.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Krönchenträuschling *Stropharia coronilla*. Er ist mäßig häufig, aber zur Zeit in geeigneten Biotopen wie in unserer Dietzenbacher Parkanlage vielfach anzutreffen. Es handelt sich um ein hübsches Pilzchen, das für die Küche jedoch nicht geeignet ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/stropharia-coronilla-krönchen-träuschling)
 
 <div style="clear:  both"></div>
 
