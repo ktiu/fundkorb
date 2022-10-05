@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leucoagaricus_americanus_04-_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelige Egerlingsschirmling *Leucoagaricus americanus*. Die abgebildeten Exemplare wuchsen in Dietzenbach auf dem Grünstreifen neben einer Hauptverkehrsstraße. Man achte auf das wunderschöne Muster, das die Schüppchen auf der Hutoberseite vor allem zum Rand hin zeigen lassen. Am besten vergrößert anschauen (einfach aufs Bild klicken). Der Pilz könnte bei oberflächlicher Betrachtung für einen Riesenschirmling gehalten werden, ist aber kein Speisepilz sondern giftverdächtig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leucoagaricus-americanus-büscheliger-egerlingsschirmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/paxillus_involutus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,18 +61,6 @@ footer_scripts:
 [Mehr lesen](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling) 
 
  <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hebeloma_sinapizans_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-01.10.2022 Bei unserem heutigen aktuellen [Fundkorbpilz](AA "Glossar-") spielen Zäpfchen eine besondere Rolle. Sie betreffen den Großen Rettichfälbling *Hebeloma sinapizans*, der gerade in unserer Dietzenbacher Parkanlage erschienen ist. Er ist leicht giftig und kann Magen-/Darmbeschwerden verursachen. Bei ihm ist der Geruch nach Rettich kein artkennzeichnendes Merkmal. In der Gattung *Hebeloma* gibt es zahlreiche Arten mit diesem leicht identifizierbaren Duft. 
-
-Was es mit den Zäpfchen auf sich hat, erfahren interessierte Pilzfreund*innen [hier >](/pilze/hebeloma-sinapizans-großer-rettichfälbling)
-
-<div style="clear:  both"></div>
 
 - - -
 
