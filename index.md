@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phaeolepiota_aurea_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+06.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist ein bemerkenswerter Fund aus dem schönen Kupferbachtal südöstlich von München. In diesem Landschaftsschutzgebiet fand  *Johann Rejek* einen mehrköpfigen Trupp des Goldfarbenen Glimmerschüpplings *Phaeolepiota aurea*. Während dieser Pilz im südlichen Bayern ziemlich flächendeckend verbreitet zu sein scheint,  ist er lt. [Verbreitungskarte der DGfM](https://www.pilze-deutschland.de/organismen/phaeolepiota-aurea-matt-maire-ex-konrad-maubl-1928-1) in Hessen wohl erst einmal gemeldet worden.
+
+[Mehr lesen >](/pilze/phaeolepiota-aurea-goldfarbener-glimmerschüppling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leucoagaricus_americanus_04-_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,18 +61,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/polyporus-alveolaris-wabenporling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_cisalpinus_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-02.10.2022 Früher gab es mal einen ziemlich variablen Rotfüßröhrling, der in fast jedem Sammelkorb zu finden war. Inzwischen ist er in mehrere neue Arten aufgesplittet worden, darunter unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Starkblauenden Rotfußröhrling *Xerocomus cisalpinus*. Der ist an seinem stark blauenden Fleisch in der Stielbasis eigentlich gut von den anderen zu unterscheiden, schmeckt aber auch nicht besser als diese. (Dieter Gewalt)
-
-[Mehr lesen](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling) 
-
- <div style="clear:  both"></div>
 
 - - -
 
