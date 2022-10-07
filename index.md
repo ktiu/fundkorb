@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/suillus_grevillei_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+07.10.2022 Aktueller Fundkorbpilz ist der Goldröhrling *Suillus grevillei*. Seine goldgelbe Farbe und die in feuchtem Zustand schmierige Hutoberfläche machen ihn eigentlich schon unverwechselbar. Beachtet man noch das Vorkommen ausschließlich bei Lärchen, sollte die Bestimmung gesichert sein. Der Golröhrling ist ein recht schmackhafter Speisepilz, wenn auch das Putzen wegen der schleimigen Hüte wenig Spaß macht. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/suillus-grevillei-goldröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phaeolepiota_aurea_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,18 +59,6 @@ footer_scripts:
 04.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kahle Krempling *Paxillus involutus*, den jeder Pilzsammler genau kennen sollte. Roh gegessen ist er immer stark giftig, aber auch gut gegart kann er im Blut die Bildung von Antikörpern verursachen, was zu einer tödlichen Antigen-Antikörper-Reaktion führen kann. Vor ca. 60 Jahren und davor galt er noch als schmackhafter Speisepilz, aber schon damals wurde dringend empfohlen, ihn nur ausreichend erhitzt zu genießen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_alveolaris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wabenporling *Polyporus alveolaris*. Der ist im Rhein-Main-Gebiet schon seit Wochen so häufig wie noch nie. Und manchmal auch noch deutlich größer als gewohnt. Pilzfreunde müssen sich damit begnügen, seine wunderschön geformten Poren zu betrachten. Wegen seines zähen Fleisches ist er ungenießbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/polyporus-alveolaris-wabenporling)
 
 <div style="clear:  both"></div>
 
