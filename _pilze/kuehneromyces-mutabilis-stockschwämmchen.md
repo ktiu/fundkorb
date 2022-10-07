@@ -74,7 +74,7 @@ Unterschiede in der Stielbekleidung können bei untypischer Ausprägung, aber au
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/kuehneromyces_mutabilis_03_dg.jpg" %}
-{% include abbildung_ende.html legende="Ohne oder nur mit teilweise vorhandenen Stielen gesammelte Stockschwämmchen - in der Pilzberatung ein kaum unlösbares Problem" %}
+{% include abbildung_ende.html legende="Ohne oder nur mit teilweise vorhandenen Stielen gesammelte Stockschwämmchen - in der Pilzberatung ein kaum lösbares Problem" %}
 
 In der Pilzberatung können Stockschwämmchen nur bestimmt werden, wenn sie mit komplett vorhandenen Stielen vorgelegt werden. Selbst dann ist es bei einem Sammelumfang von oft mehreren hundert Fruchtkörpern in der Praxis unmöglich, jeden einzelnen Pilz genau und zuverlässig zu begutachten. Da Stockschwämmchen und Gifthäublinge gemeinsam am gleichen Holz vorkommen können, ist auch nicht mit Sicherheit davon auszugehen, dass an einer Fundstelle gefundene Fruchtkörper nur einer Art zuzordnen sind.
 
