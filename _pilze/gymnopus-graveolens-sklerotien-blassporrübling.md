@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Gymnopus graveolens
-  deutsch: Sklerotien-Blassporrübling
+  deutsch: Sklerotien-Blasssporrübling
   referenz: (G. Poirault ex Boud.) Antonín & Noordeloos 1997
   familie: Omphalotaceae
   synonym: "Synonym: Gymnopus impudicus"
