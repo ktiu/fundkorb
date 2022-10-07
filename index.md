@@ -12,6 +12,8 @@ footer_scripts:
 
 - - -
 
+##### Zwei pilzkundliche Exkursionen am 8. und am 15. Oktober [\--> Termine](/termine)
+
 ##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 9. Oktober, 17 - 20 Uhr
 
 - - -
