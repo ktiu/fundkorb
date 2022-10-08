@@ -19,10 +19,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypsizygus_ulmarius_01_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+08.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ulmenrasling *Hypsizygus ulmarius*, gefunden bei unserer gestrigen Führung im Frankfurter Stadtwald. Ein bezaubernd schönes Büschel wuchs etwa in Augenhöhe am Stamm einer Ulme - und wurde in Unkenntnis der Art und ihrer Schutzwürdigkeit gepflückt. Die hier abgebildeten Exemplare stammen ebenfalls aus dem Stadtwald (26.09.2018). Als Rote-Liste-Art wurde sie damals geschont. Dass der Pilz essbar ist, sollte man eigentlich gar nicht erwähnen. Da er aber auch in Zuchtbetrieben kultiviert wird, gelangt er immer mal wieder in den Handel. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypsizygus-ulmarius)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/suillus_grevillei_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
-07.10.2022 Aktueller Fundkorbpilz ist der Goldröhrling *Suillus grevillei*. Seine goldgelbe Farbe und die in feuchtem Zustand schmierige Hutoberfläche machen ihn eigentlich schon unverwechselbar. Beachtet man noch das Vorkommen ausschließlich bei Lärchen, sollte die Bestimmung gesichert sein. Der Golröhrling ist ein recht schmackhafter Speisepilz, wenn auch das Putzen wegen der schleimigen Hüte wenig Spaß macht. (Dieter Gewalt)
+07.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldröhrling *Suillus grevillei*. Seine goldgelbe Farbe und die in feuchtem Zustand schmierige Hutoberfläche machen ihn eigentlich schon unverwechselbar. Beachtet man noch das Vorkommen ausschließlich bei Lärchen, sollte die Bestimmung gesichert sein. Der Golröhrling ist ein recht schmackhafter Speisepilz, wenn auch das Putzen wegen der schleimigen Hüte wenig Spaß macht. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/suillus-grevillei-goldröhrling)
 
@@ -49,18 +61,6 @@ footer_scripts:
 05.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelige Egerlingsschirmling *Leucoagaricus americanus*. Die abgebildeten Exemplare wuchsen in Dietzenbach auf dem Grünstreifen neben einer Hauptverkehrsstraße. Man achte auf das wunderschöne Muster, das die Schüppchen auf der Hutoberseite vor allem zum Rand hin zeigen lassen. Am besten vergrößert anschauen (einfach aufs Bild klicken). Der Pilz könnte bei oberflächlicher Betrachtung für einen Riesenschirmling gehalten werden, ist aber kein Speisepilz sondern giftverdächtig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/leucoagaricus-americanus-büscheliger-egerlingsschirmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/paxillus_involutus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kahle Krempling *Paxillus involutus*, den jeder Pilzsammler genau kennen sollte. Roh gegessen ist er immer stark giftig, aber auch gut gegart kann er im Blut die Bildung von Antikörpern verursachen, was zu einer tödlichen Antigen-Antikörper-Reaktion führen kann. Vor ca. 60 Jahren und davor galt er noch als schmackhafter Speisepilz, aber schon damals wurde dringend empfohlen, ihn nur ausreichend erhitzt zu genießen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
 
 <div style="clear:  both"></div>
 
