@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-07.10.2022: [Suillus grevillei - Goldröhrling](/pilze/suillus-grevillei-goldröhrling)  
+08.10.2022: [Hypsizygus ulmarius - Ulmenrasling](/pilze/hypsizygus-ulmarius)  
+07.10.2022: [Suillus grevillei - Goldröhrling](/pilze/suillus-grevillei-goldröhrling)\
 06.10.2022: [Phaeolepiota aurea - Goldfarbener Glimmerschüppling](/pilze/phaeolepiota-aurea-goldfarbener-glimmerschüppling)\
 05.10.2022: [Leucoagaricus americanus - Büscheliger Egerlingsschirmling](/pilze/leucoagaricus-americanus-büscheliger-egerlingsschirmling)\
 04.10.2022: [Paxillus involutus - Kahler Krempling](/pilze/paxillus-involutus-kahler-krempling)\
