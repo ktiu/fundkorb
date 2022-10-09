@@ -12,9 +12,19 @@ footer_scripts:
 
 - - -
 
-##### Pilzkundliche Exkursionen am 15. Oktober [\--> Termine](/termine)
-
 ##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 9. Oktober, 17 - 20 Uhr
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/psathyrella_piluliformis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.10.2022 Die herbstliche Pilzsaison scheint begonnen zu haben. In unserem gestrigen Exkursionsgebiet gab es Krause Glucken wie Sand am Meer, aber die hatten wir schon am 12. September als aktuellen [Fundkorbpilz](AA "Glossar-"). So habe ich mich für den Wässrigen Mürbling *Psathyrella piluliformis* entschieden, der nicht umsonst auch *Weißstieliges Stockschwämmchen* genannt wird. Er ist ein guter Speisepilz, kann aber nur erfahrenen Pilzsammlern empfohlen werden, was wegen der Verwechslungsgefahr mit den tödlich giftigen *Gifthäublingen* auch für die Stockschwämmchen gilt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/psathyrella-piluliformis-wässriger-mürbling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -49,18 +59,6 @@ footer_scripts:
 06.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist ein bemerkenswerter Fund aus dem schönen Kupferbachtal südöstlich von München. In diesem Landschaftsschutzgebiet fand  *Johann Rejek* einen mehrköpfigen Trupp des Goldfarbenen Glimmerschüpplings *Phaeolepiota aurea*. Während dieser Pilz im südlichen Bayern ziemlich flächendeckend verbreitet zu sein scheint,  ist er lt. [Verbreitungskarte der DGfM](https://www.pilze-deutschland.de/organismen/phaeolepiota-aurea-matt-maire-ex-konrad-maubl-1928-1) in Hessen wohl erst einmal gemeldet worden.
 
 [Mehr lesen >](/pilze/phaeolepiota-aurea-goldfarbener-glimmerschüppling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leucoagaricus_americanus_04-_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelige Egerlingsschirmling *Leucoagaricus americanus*. Die abgebildeten Exemplare wuchsen in Dietzenbach auf dem Grünstreifen neben einer Hauptverkehrsstraße. Man achte auf das wunderschöne Muster, das die Schüppchen auf der Hutoberseite vor allem zum Rand hin zeigen lassen. Am besten vergrößert anschauen (einfach aufs Bild klicken). Der Pilz könnte bei oberflächlicher Betrachtung für einen Riesenschirmling gehalten werden, ist aber kein Speisepilz sondern giftverdächtig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leucoagaricus-americanus-büscheliger-egerlingsschirmling)
 
 <div style="clear:  both"></div>
 
