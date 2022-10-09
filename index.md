@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/psathyrella_piluliformis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-09.10.2022 Die herbstliche Pilzsaison scheint begonnen zu haben. In unserem gestrigen Exkursionsgebiet gab es Krause Glucken wie Sand am Meer, aber die hatten wir schon am 12. September als aktuellen [Fundkorbpilz](AA "Glossar-"). So habe ich mich für den Wässrigen Mürbling *Psathyrella piluliformis* entschieden, der nicht umsonst auch *Weißstieliges Stockschwämmchen* genannt wird. Er ist ein guter Speisepilz, kann aber nur erfahrenen Pilzsammlern empfohlen werden, was wegen der Verwechslungsgefahr mit den tödlich giftigen *Gifthäublingen* auch für die Stockschwämmchen gilt. (Dieter Gewalt)
+09.10.2022 Die herbstliche Pilzsaison scheint begonnen zu haben. In unserem gestrigen Exkursionsgebiet gab es Krause Glucken wie Sand am Meer, aber die hatten wir schon am 12. September als aktuellen [Fundkorbpilz](AA "Glossar-"). So habe ich mich für den Wässrigen Mürbling *Psathyrella piluliformis* entschieden, der nicht umsonst auch *Weißstieliges Stockschwämmchen* genannt wird. Er ist ein guter Speisepilz, kann aber nur erfahrenen Pilzsammlern empfohlen werden, was wegen der Verwechslungsgefahr mit den tödlich giftigen *Gifthäublingen* auch für die "richtigen" Stockschwämmchen gilt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/psathyrella-piluliformis-wässriger-mürbling)
 
