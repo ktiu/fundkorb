@@ -12,7 +12,19 @@ footer_scripts:
 
 - - -
 
-##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 9. Oktober, 17 - 20 Uhr
+##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 16. Oktober, 17 - 20 Uhr
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/oudemansiella_mucida_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Beringte Schleimrübling *Oudemansiella mucida*, der auch als Buchen-Schleimrübling bekannt ist. Er hat gerade Hochsaison im Rhein-Main-Gebiet. Als einer der fotogensten Pilze überhaupt animiert er Naturfreunde immer wieder, zur Kamera zu greifen. Aber auch Gourmets sollten ihn nicht grundsätzlich links liegen lassen. Er schmeckt gar nicht so übel und das trotz seiner schleimigen Konsistenz. Dazu ist er auch noch so gut wie unverwechselbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/oudemansiella-mucida-beringter-schleimrübling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -47,18 +59,6 @@ footer_scripts:
 07.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldröhrling *Suillus grevillei*. Seine goldgelbe Farbe und die in feuchtem Zustand schmierige Hutoberfläche machen ihn eigentlich schon unverwechselbar. Beachtet man noch das Vorkommen ausschließlich bei Lärchen, sollte die Bestimmung gesichert sein. Der Golröhrling ist ein recht schmackhafter Speisepilz, wenn auch das Putzen wegen der schleimigen Hüte wenig Spaß macht. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/suillus-grevillei-goldröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phaeolepiota_aurea_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-06.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist ein bemerkenswerter Fund aus dem schönen Kupferbachtal südöstlich von München. In diesem Landschaftsschutzgebiet fand  *Johann Rejek* einen mehrköpfigen Trupp des Goldfarbenen Glimmerschüpplings *Phaeolepiota aurea*. Während dieser Pilz im südlichen Bayern ziemlich flächendeckend verbreitet zu sein scheint,  ist er lt. [Verbreitungskarte der DGfM](https://www.pilze-deutschland.de/organismen/phaeolepiota-aurea-matt-maire-ex-konrad-maubl-1928-1) in Hessen wohl erst einmal gemeldet worden.
-
-[Mehr lesen >](/pilze/phaeolepiota-aurea-goldfarbener-glimmerschüppling)
 
 <div style="clear:  both"></div>
 
