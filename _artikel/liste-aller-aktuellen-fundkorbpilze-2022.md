@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-10.10.2022: [Oudemansiella mucida - Beringter Schleimrübling](/pilze/oudemansiella-mucida-beringter-schleimrübling)  
+11.10.2022: [Physisporinus vitreus - Glasigweißer Porling](/pilze/physisporinus-vitreus-glasigweißer-porling)  
+10.10.2022: [Oudemansiella mucida - Beringter Schleimrübling](/pilze/oudemansiella-mucida-beringter-schleimrübling)\
 09.10.2022: [Psathyrella piluliformis - Wässriger Mürbling](/pilze/psathyrella-piluliformis-wässriger-mürbling)\
 08.10.2022: [Hypsizygus ulmarius - Ulmenrasling](/pilze/hypsizygus-ulmarius)\
 07.10.2022: [Suillus grevillei - Goldröhrling](/pilze/suillus-grevillei-goldröhrling)\
