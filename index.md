@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/physisporinus_vitreus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Glasigweiße Porling *Physisporinus vitreus*. Das Foto mag den Eindruck erwecken, dass die creme-weißliche etwa 5 - 10 mm dicke Schicht eine schwammig weiche Konsistenz besitzt. Das täuscht. In Wahrheit kann die lückig in ganz Deutschland verbreitete Art ein ziemlich harter Brocken sein. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/physisporinus-vitreus-glasigweißer-porling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/oudemansiella_mucida_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,18 +61,6 @@ footer_scripts:
 08.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ulmenrasling *Hypsizygus ulmarius*, gefunden bei unserer gestrigen Führung im Frankfurter Stadtwald. Ein bezaubernd schönes Büschel wuchs etwa in Augenhöhe am Stamm einer Ulme - und wurde in Unkenntnis der Art und ihrer Schutzwürdigkeit gepflückt. Die hier abgebildeten Exemplare stammen ebenfalls aus dem Stadtwald (26.09.2018). Als Rote-Liste-Art wurde sie damals geschont. Dass der Pilz essbar ist, sollte man eigentlich gar nicht erwähnen. Da er aber auch in Zuchtbetrieben kultiviert wird, gelangt er immer mal wieder in den Handel. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypsizygus-ulmarius)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/suillus_grevillei_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-07.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldröhrling *Suillus grevillei*. Seine goldgelbe Farbe und die in feuchtem Zustand schmierige Hutoberfläche machen ihn eigentlich schon unverwechselbar. Beachtet man noch das Vorkommen ausschließlich bei Lärchen, sollte die Bestimmung gesichert sein. Der Golröhrling ist ein recht schmackhafter Speisepilz, wenn auch das Putzen wegen der schleimigen Hüte wenig Spaß macht. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/suillus-grevillei-goldröhrling)
 
 <div style="clear:  both"></div>
 
