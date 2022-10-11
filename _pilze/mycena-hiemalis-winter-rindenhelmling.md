@@ -18,7 +18,7 @@ literatur:
 ---
 Diese Helmlinge fanden wir auf einem toten Laubholzstamm im Frankfurter Stadtwald. Er war in voller Länge dicht mit gesellig stehenden Fruchtkörpern bewachsen. Es mögen einige hundert, vermutlich mehr als tausend gewesen sein. Der Fund wurde makro- und mikroskopisch untersucht und als Winter-Rindenhelmling *Mycena hiemalis* bestimmt, der jetzt *Phloeomana hiemalis* heißen soll.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mycena_hiemalis_02_fk.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/mycena_hiemalis_03_fk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Frank Kaster" %}
