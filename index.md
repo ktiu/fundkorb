@@ -19,6 +19,19 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_edulis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist aus aktuellem Anlass der Gemeine Steinpilz Boletus edulis. Bei der letzten Pilzberatung landeten einige Kilogramm Steinpilz im Biomüllsack, weil es sich um offensichtlich verdorbene und folglich gesundheitsgefährdende Lebensmittel handelte. So groß die Freude über den Fund riesengroßer Exemplare auch gewesen sein mag, ein Blick auf den Zustand der schweren Fruchtkörper hätte genügen sollen, um sich vor ihnen zu ekeln. Mein Rat: bevor man einen Steinpilz abschneidet, der sich knackig fest anfühlen sollte, mal mit dem Finger auf seine Oberfläche drücken. Wenn man ohne großen Kraftaufwand eine Delle in den Pilzhut drücken kann: stehen lassen! Oder anders formuliert: Stellt beim Sammeln von Pilzen die gleichen Ansprüche, die ihr beim Kauf von Obst und Gemüse im Supermarkt stellen würdet!  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/boletus-edulis-gemeiner-steinpilz)  
+Siehe auch unseren Fundkorb-Ratgeber ["Gammelpilze"](/assets/docs/Fundkorb.de-Gammelpilze.pdf) zum Ausdrucken.
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/physisporinus_vitreus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,18 +62,6 @@ footer_scripts:
 09.10.2022 Die herbstliche Pilzsaison scheint begonnen zu haben. In unserem gestrigen Exkursionsgebiet gab es Krause Glucken wie Sand am Meer, aber die hatten wir schon am 12. September als aktuellen [Fundkorbpilz](AA "Glossar-"). So habe ich mich für den Wässrigen Mürbling *Psathyrella piluliformis* entschieden, der nicht umsonst auch *Weißstieliges Stockschwämmchen* genannt wird. Er ist ein guter Speisepilz, kann aber nur erfahrenen Pilzsammlern empfohlen werden, was wegen der Verwechslungsgefahr mit den tödlich giftigen *Gifthäublingen* auch für die "richtigen" Stockschwämmchen gilt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/psathyrella-piluliformis-wässriger-mürbling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypsizygus_ulmarius_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-08.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ulmenrasling *Hypsizygus ulmarius*, gefunden bei unserer gestrigen Führung im Frankfurter Stadtwald. Ein bezaubernd schönes Büschel wuchs etwa in Augenhöhe am Stamm einer Ulme - und wurde in Unkenntnis der Art und ihrer Schutzwürdigkeit gepflückt. Die hier abgebildeten Exemplare stammen ebenfalls aus dem Stadtwald (26.09.2018). Als Rote-Liste-Art wurde sie damals geschont. Dass der Pilz essbar ist, sollte man eigentlich gar nicht erwähnen. Da er aber auch in Zuchtbetrieben kultiviert wird, gelangt er immer mal wieder in den Handel. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypsizygus-ulmarius)
 
 <div style="clear:  both"></div>
 
