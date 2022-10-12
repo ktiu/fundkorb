@@ -22,9 +22,9 @@ footer_scripts:
 {% include bild.html datei="/bilder/boletus_edulis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-12.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist aus aktuellem Anlass der Gemeine Steinpilz Boletus edulis. Bei der letzten Pilzberatung landeten einige Kilogramm Steinpilz im Biomüllsack, weil es sich um offensichtlich verdorbene und folglich gesundheitsgefährdende Lebensmittel handelte. So groß die Freude über den Fund riesengroßer Exemplare auch gewesen sein mag, ein Blick auf den Zustand der schweren Fruchtkörper hätte genügen sollen, um sich vor ihnen zu ekeln. Mein Rat: bevor man einen Steinpilz abschneidet, der sich knackig fest anfühlen sollte, mal mit dem Finger auf seine Oberfläche drücken. Wenn man ohne großen Kraftaufwand eine Delle in den Pilzhut drücken kann: stehen lassen! Oder anders formuliert: Stellt beim Sammeln von Pilzen die gleichen Ansprüche, die ihr beim Kauf von Obst und Gemüse im Supermarkt stellen würdet!  (Dieter Gewalt)
+12.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist aus aktuellem Anlass der Gemeine Steinpilz *Boletus edulis*. Bei der letzten Pilzberatung landeten einige Kilogramm Steinpilz im Biomüllsack, weil es sich um offensichtlich verdorbene und folglich gesundheitsgefährdende Lebensmittel handelte. So groß die Freude über den Fund riesengroßer Exemplare auch gewesen sein mag, ein Blick auf den Zustand der schweren Fruchtkörper hätte genügen sollen, um sich vor ihnen zu ekeln. Mein Rat: bevor man einen Steinpilz abschneidet, der sich knackig fest anfühlen sollte, mal mit dem Finger auf seine Oberfläche drücken. Wenn man ohne großen Kraftaufwand eine Delle in den Pilzhut drücken kann: stehen lassen! Oder anders formuliert: Stellt beim Sammeln von Pilzen die gleichen Ansprüche, die ihr beim Kauf von Obst und Gemüse im Supermarkt stellen würdet!  (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/boletus-edulis-gemeiner-steinpilz)  
+[Mehr lesen >](/pilze/boletus-edulis-gemeiner-steinpilz)\
 Siehe auch unseren Fundkorb-Ratgeber ["Gammelpilze"](/assets/docs/Fundkorb.de-Gammelpilze.pdf) zum Ausdrucken.
 
 <div style="clear:  both"></div>
