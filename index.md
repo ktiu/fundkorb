@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_silwoodensis_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+13.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Purpurbraune Filzröhrling *Xerocomus silwoodensis*. Es handelt sich offenbar um eine sehr seltene Art, die erst 2007 der wissenschaftlichen Öffentlichkeit vorgestellt wurde. In diesem Jahr wurde sie auch erstmals in Deutschland gefunden. Der Pilz gehört zum Verwandtschaftskreis der bekannten Ziegenlippe und ist wie diese essbar. Möglicherweise handelt es sich um einen obligaten [Mykorrhizapartner](Mykorrhiza "Glossar") der Pappel. (Bernd Miggel)
+
+[Mehr lesen >](/pilze/xerocomus-silwoodensis-purpurbrauner-filzröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_edulis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -50,18 +62,6 @@ Siehe auch unseren Fundkorb-Ratgeber ["Gammelpilze"](/assets/docs/Fundkorb.de-Ga
 10.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Beringte Schleimrübling *Oudemansiella mucida*, der auch als Buchen-Schleimrübling bekannt ist. Er hat gerade Hochsaison im Rhein-Main-Gebiet. Als einer der fotogensten Pilze überhaupt animiert er Naturfreunde immer wieder, zur Kamera zu greifen. Aber auch Gourmets sollten ihn nicht grundsätzlich links liegen lassen. Er schmeckt gar nicht so übel und das trotz seiner schleimigen Konsistenz. Dazu ist er auch noch so gut wie unverwechselbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/oudemansiella-mucida-beringter-schleimrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/psathyrella_piluliformis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.10.2022 Die herbstliche Pilzsaison scheint begonnen zu haben. In unserem gestrigen Exkursionsgebiet gab es Krause Glucken wie Sand am Meer, aber die hatten wir schon am 12. September als aktuellen [Fundkorbpilz](AA "Glossar-"). So habe ich mich für den Wässrigen Mürbling *Psathyrella piluliformis* entschieden, der nicht umsonst auch *Weißstieliges Stockschwämmchen* genannt wird. Er ist ein guter Speisepilz, kann aber nur erfahrenen Pilzsammlern empfohlen werden, was wegen der Verwechslungsgefahr mit den tödlich giftigen *Gifthäublingen* auch für die "richtigen" Stockschwämmchen gilt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/psathyrella-piluliformis-wässriger-mürbling)
 
 <div style="clear:  both"></div>
 
