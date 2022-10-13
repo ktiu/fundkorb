@@ -32,7 +32,7 @@ literatur:
 {% include bild.html datei="/bilder/xerocomus_silwoodensis_02_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-Nach der Neuordnung der Filzröhrlinge sind Rotfuß-, Maronen-, Schmarotzer- und andere verwandte Röhrlingsarten in neue Gattungen überführt worden und nur noch die engsten Verwandten der Ziegenlippe bei *Xerocomus* verblieben. In Europa sind es vier Arten, von denen die Ziegenlippe und der Braune Filzröhrling verbreitet und recht häufig sind.
+Nach der Neuordnung der Filzröhrlinge sind Rotfuß-, Maronen-, Schmarotzer- und andere verwandte Röhrlingsarten in neue Gattungen überführt worden und nur noch die engsten Verwandten der Ziegenlippe bei *Xerocomus* verblieben. In Europa sind es vier Arten, von denen die [Ziegenlippe](/pilze/xerocomus-subtomentosus-ziegenlippe) und der [Braune Filzröhrling](/pilze/xerocomus-ferrugineus-brauner-filzröhrling) verbreitet und recht häufig sind.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/xerocomus_silwoodensis_03_bm.jpg" nocrop=true gross=true %}
@@ -57,7 +57,7 @@ Das Fleisch ist über den Röhren etwa so dick wie die Röhren lang sind. Beim g
 {% include bild.html datei="/bilder/xerocomus_silwoodensis_08_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Basidien (links) und Hymenialzystiden (rechts) in SDS-Kongorot" %}
 
-Mikroskopische Merkmale:  
+Mikroskopische Merkmale:\
 Der Hymenialbereich setzt sich aus keuligen, 4-sporigen Basidien und zylindrischen bis keuligen, septierten, dünnwandigen Zystiden zusammen.
 
 {% include abbildung_start.html stil="mittel" %}
