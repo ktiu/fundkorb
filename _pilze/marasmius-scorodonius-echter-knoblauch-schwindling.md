@@ -27,7 +27,7 @@ In Frankreich wird er als *"Mousseron"* sehr geschätzt, frisch oder auch getroc
 {% include bild.html datei="/bilder/marasmius_scorodonius_-03_dg.jpg" %}
 {% include abbildung_ende.html legende="Auffallend sind die zahlreichen Querverbindungen (Anastomosen) zwischen den Lamellen" %}
 
-Es gibt weitere nach Knoblauch riechende Schwindlinge, die für den Verzehr völlig ungeeignet sind, ohne jedoch wirklich giftig zu sein. Zu achten ist vor allem auf diese beiden Arten:
+Es gibt weitere nach Knoblauch riechende Schwindlinge, die für den Verzehr ungeeignet sind, ohne jedoch wirklich giftig zu sein. Zu achten ist vor allem auf diese beiden Arten:
 
 **Großer Knoblauch-Schwindling** (Marasmius prasiosmus) Sieht dem Echten Knoblauch-Schwindling sehr ähnlich, schmeckt im Unterschied zu diesem jedoch (Lt. Literaturangaben) brennend scharf, was ich nach eigenen Erfahrungen nicht immer bestätigen kann.  
 
