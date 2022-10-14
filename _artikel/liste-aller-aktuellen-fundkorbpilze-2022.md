@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-13.10.2022: [Xerocomus silwoodensis - Purpurbrauner Filzröhrling](/pilze/xerocomus-silwoodensis-purpurbrauner-filzröhrling)  
+14.10.2022: [Clitocybe odora - Grüner Anistrichterling](/pilze/clitocybe-odora-grüner-anistrichterling)  
+13.10.2022: [Xerocomus silwoodensis - Purpurbrauner Filzröhrling](/pilze/xerocomus-silwoodensis-purpurbrauner-filzröhrling)\
 12.10.2022: [Boletus edulis - Gemeiner Steinpilz](/pilze/boletus-edulis-gemeiner-steinpilz)\
 11.10.2022: [Physisporinus vitreus - Glasigweißer Porling](/pilze/physisporinus-vitreus-glasigweißer-porling)\
 10.10.2022: [Oudemansiella mucida - Beringter Schleimrübling](/pilze/oudemansiella-mucida-beringter-schleimrübling)\
