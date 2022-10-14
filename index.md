@@ -12,8 +12,6 @@ footer_scripts:
 
 - - -
 
-##### Pilzlehrwanderung im nördlichen Spessart am 15. Oktober [\--> Termine](/termine)
-
 ##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 16. Oktober, 17 - 20 Uhr
 
 - - -
