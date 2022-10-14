@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitocybe_odora_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüne Anistrichterling *Clitocybe odora*. Mit der Merkmalskombination *"graugrüner bis blaugrauer Hut + Geruch nach Anis"* ist er für alle, die den speziellen Duft zweifelsfrei identifizieren können, so gut wie unverwechselbar. Er ist sogar essbar, schmeckt aber auch nach Anis und nicht jeder schätzt diesen Geschmack in einem Pilzgericht. Nach meinen Beobachtungen wächst er gerne an Waldwegrändern. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/clitocybe-odora-grüner-anistrichterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_silwoodensis_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -50,18 +62,6 @@ Siehe auch unseren Fundkorb-Ratgeber ["Gammelpilze"](/assets/docs/Fundkorb.de-Ga
 11.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Glasigweiße Porling *Physisporinus vitreus*. Das Foto mag den Eindruck erwecken, dass die creme-weißliche etwa 5 - 10 mm dicke Schicht eine schwammig weiche Konsistenz besitzt. Das täuscht. In Wahrheit kann die lückig in ganz Deutschland verbreitete Art ein ziemlich harter Brocken sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/physisporinus-vitreus-glasigweißer-porling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/oudemansiella_mucida_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Beringte Schleimrübling *Oudemansiella mucida*, der auch als Buchen-Schleimrübling bekannt ist. Er hat gerade Hochsaison im Rhein-Main-Gebiet. Als einer der fotogensten Pilze überhaupt animiert er Naturfreunde immer wieder, zur Kamera zu greifen. Aber auch Gourmets sollten ihn nicht grundsätzlich links liegen lassen. Er schmeckt gar nicht so übel und das trotz seiner schleimigen Konsistenz. Dazu ist er auch noch so gut wie unverwechselbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/oudemansiella-mucida-beringter-schleimrübling)
 
 <div style="clear:  both"></div>
 
