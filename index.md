@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_scorodonius_-02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.10.2022: Es gibt drei Knoblauchschwindlinge, von denen nur einer für die Küche interessant ist, und der ist heute aktueller [Fundkorbpilz](AA "Glossar-"). Der Echte Knoblauchschwindling *Marasmius scorodonius* wächst gesellig in- und außerhalb von Wäldern an Nadelhumus oder abgestorbenen holzigen Pflanzenresten. In unserer Dietzenbacher Parkanlage ist er zur Zeit in Massen vertreten, allerdings an verborgenen Stellen unter Gestrüpp, so dass er kaum auffällt und man ihn mühsam suchen muss. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitocybe_odora_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -48,18 +60,6 @@ footer_scripts:
 
 [Mehr lesen >](/pilze/boletus-edulis-gemeiner-steinpilz)\
 Siehe auch unseren Fundkorb-Ratgeber ["Gammelpilze"](/assets/docs/Fundkorb.de-Gammelpilze.pdf) zum Ausdrucken.
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/physisporinus_vitreus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Glasigweiße Porling *Physisporinus vitreus*. Das Foto mag den Eindruck erwecken, dass die creme-weißliche etwa 5 - 10 mm dicke Schicht eine schwammig weiche Konsistenz besitzt. Das täuscht. In Wahrheit kann die lückig in ganz Deutschland verbreitete Art ein ziemlich harter Brocken sein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/physisporinus-vitreus-glasigweißer-porling)
 
 <div style="clear:  both"></div>
 
