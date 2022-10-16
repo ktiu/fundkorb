@@ -7,6 +7,7 @@ beschreibung:
   familie: Hygrophoropsidaceae
 profil:
   aktualisiert: 2022-09-27
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/hygrophoropsis_rufa_02_cw.jpg
