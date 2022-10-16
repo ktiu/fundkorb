@@ -17,6 +17,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_deliciosus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.10.2022: Putzreste eines unbekannten Pilzsammlers haben uns auf ein Vorkommen einer wahren Premiumart unter den Speisepilzen aufmerksam gemacht. An einem Waldwegrand zwischen Dietzenbach und Rodgau-Dudenhofen fanden wir bei Kiefern etwa ein Dutzend Edelreizker (*Lactarius deliciosus*). Ganz klar: das muss unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") werden. Er gehört wie die Täublinge zu den Sprödblättlern und fällt durch seine karottenrote Milch auf, die zwar nicht wie eine Flüssigkeit aus dem Fruchtfleisch tropft, es aber immerhin ein wenig nass erscheinen lässt. Mehr Infos und auch Tipps zur Zubereitung [gibt es hier >](/pilze/lactarius-deliciosus-edelreizker)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_scorodonius_-02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,19 +57,6 @@ footer_scripts:
 13.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Purpurbraune Filzröhrling *Xerocomus silwoodensis*. Es handelt sich offenbar um eine sehr seltene Art, die erst 2007 der wissenschaftlichen Öffentlichkeit vorgestellt wurde. In diesem Jahr wurde sie auch erstmals in Deutschland gefunden. Der Pilz gehört zum Verwandtschaftskreis der bekannten Ziegenlippe und ist wie diese essbar. Möglicherweise handelt es sich um einen obligaten [Mykorrhizapartner](Mykorrhiza "Glossar") der Pappel. (Bernd Miggel)
 
 [Mehr lesen >](/pilze/xerocomus-silwoodensis-purpurbrauner-filzröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_edulis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.10.2022 Aktueller [Fundkorbpilz](AA "Glossar-") ist aus aktuellem Anlass der Gemeine Steinpilz *Boletus edulis*. Bei der letzten Pilzberatung landeten einige Kilogramm Steinpilz im Biomüllsack, weil es sich um offensichtlich verdorbene und folglich gesundheitsgefährdende Lebensmittel handelte. So groß die Freude über den Fund riesengroßer Exemplare auch gewesen sein mag, ein Blick auf den Zustand der schweren Fruchtkörper hätte genügen sollen, um sich vor ihnen zu ekeln. Mein Rat: bevor man einen Steinpilz abschneidet, der sich knackig fest anfühlen sollte, mal mit dem Finger auf seine Oberfläche drücken. Wenn man ohne großen Kraftaufwand eine Delle in den Pilzhut drücken kann: stehen lassen! Oder anders formuliert: Stellt beim Sammeln von Pilzen die gleichen Ansprüche, die ihr beim Kauf von Obst und Gemüse im Supermarkt stellen würdet!  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-edulis-gemeiner-steinpilz)\
-Siehe auch unseren Fundkorb-Ratgeber ["Gammelpilze"](/assets/docs/Fundkorb.de-Gammelpilze.pdf) zum Ausdrucken.
 
 <div style="clear:  both"></div>
 
