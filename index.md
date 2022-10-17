@@ -12,7 +12,19 @@ footer_scripts:
 
 - - -
 
-##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 16. Oktober, 17 - 20 Uhr
+##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 23. Oktober, 17 - 20 Uhr
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cortinarius_mucosus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.10.2022: In einem Roteichenforst bei Rodgau-Nieder-Roden genügen ein paar eingestreute mickrige Kiefern, um unseren aktuellen [Fundkorbpilz](AA "Glossar-") wachsen zu lassen. Der Heideschleimfuß *Cortinarius mucosus* erscheint hier standorttreu schon seit vielen Jahren.  Wenn man die schleimige Huthaut abzieht und vielleicht noch den etwas schleimigen Stiel ein wenig abschabt, hat man einen wohlschmeckenden Pilz in der Pfanne. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cortinarius-mucosus-heide-schleimfuß)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -45,18 +57,6 @@ footer_scripts:
 14.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüne Anistrichterling *Clitocybe odora*. Mit der Merkmalskombination *"graugrüner bis blaugrauer Hut + Geruch nach Anis"* ist er für alle, die den speziellen Duft zweifelsfrei identifizieren können, so gut wie unverwechselbar. Er ist sogar essbar, schmeckt aber auch nach Anis und nicht jeder schätzt diesen Geschmack in einem Pilzgericht. Nach meinen Beobachtungen wächst er gerne an Waldwegrändern. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/clitocybe-odora-grüner-anistrichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_silwoodensis_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-13.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Purpurbraune Filzröhrling *Xerocomus silwoodensis*. Es handelt sich offenbar um eine sehr seltene Art, die erst 2007 der wissenschaftlichen Öffentlichkeit vorgestellt wurde. In diesem Jahr wurde sie auch erstmals in Deutschland gefunden. Der Pilz gehört zum Verwandtschaftskreis der bekannten Ziegenlippe und ist wie diese essbar. Möglicherweise handelt es sich um einen obligaten [Mykorrhizapartner](Mykorrhiza "Glossar") der Pappel. (Bernd Miggel)
-
-[Mehr lesen >](/pilze/xerocomus-silwoodensis-purpurbrauner-filzröhrling)
 
 <div style="clear:  both"></div>
 
