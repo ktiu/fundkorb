@@ -1,7 +1,7 @@
 ---
 aktivitaet: Essbar oder nicht? Kostenlose Pilzberatung im Gesundheitsamt Frankfurt
-zeit: 2022-10-16T17:00:56.203Z
-bis: 2022-10-16T20:00:00.000Z
+zeit: 2022-10-30T17:00:56.203Z
+bis: 2022-10-30T20:00:00.000Z
 anmeldung_offen: false
 anmeldung_noetig: false
 published: true
