@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_chrysorrheus_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+18.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldflüssige Milchling *Lactarius chrysorrheus*, einer der attraktivsten Vertreter seiner Gattung. Die beim Anschneiden des Fruchtkörpers oder Anritzen der Lamellen austretende Milch ist zuerst weiß, verfärbt sich dann aber innerhalb weniger Sekunden gold- oder schwefelgelb. Diese Verfärbung kann auch sehr plötzlich eintreten. Die Milch ist anfangs mild, wird aber bald brennend scharf. Der Goldflüssige Milchling ist [Mykorrhizapartner](Mykorrhiza "Glossar") von Eichen, in unserem Fall waren es Roteichen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lactarius-chrysorrheus-goldflüssiger-milchling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cortinarius_mucosus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,18 +57,6 @@ footer_scripts:
 15.10.2022: Es gibt drei Knoblauchschwindlinge, von denen nur einer für die Küche interessant ist, und der ist heute aktueller [Fundkorbpilz](AA "Glossar-"). Der Echte Knoblauchschwindling *Marasmius scorodonius* wächst gesellig in- und außerhalb von Wäldern an Nadelhumus oder abgestorbenen holzigen Pflanzenresten. In unserer Dietzenbacher Parkanlage ist er zur Zeit in Massen vertreten, allerdings an verborgenen Stellen unter Gestrüpp, so dass er kaum auffällt und man ihn mühsam suchen muss. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_odora_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüne Anistrichterling *Clitocybe odora*. Mit der Merkmalskombination *"graugrüner bis blaugrauer Hut + Geruch nach Anis"* ist er für alle, die den speziellen Duft zweifelsfrei identifizieren können, so gut wie unverwechselbar. Er ist sogar essbar, schmeckt aber auch nach Anis und nicht jeder schätzt diesen Geschmack in einem Pilzgericht. Nach meinen Beobachtungen wächst er gerne an Waldwegrändern. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/clitocybe-odora-grüner-anistrichterling)
 
 <div style="clear:  both"></div>
 
