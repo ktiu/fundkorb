@@ -6,7 +6,7 @@ beschreibung:
   familie: Hymenochaetaceae
   erlaeuterung: hispidus = zottig, struppig
 profil:
-  aktualisiert: 2021-01-21
+  aktualisiert: 2022-10-18
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
