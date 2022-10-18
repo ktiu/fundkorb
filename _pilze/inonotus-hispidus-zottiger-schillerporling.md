@@ -26,3 +26,8 @@ Die meisten der in Mitteleuropa vorkommenden 14 Schillerporlingsarten (davon 9 i
 {% include abbildung_ende.html %}
 
 Außer an Apfelbäumen habe ich Inonotus hispidus auch schon mehrfach an Walnuss sowie je einmal an Platane und einem Maulbeerbäumchen gefunden.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/inonotus_hispidus_03_rs.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/inonotus_hispidus_03_rs.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Auf einer Streuobstwiese von Ralf Schmitt fotogrfiert" %}
