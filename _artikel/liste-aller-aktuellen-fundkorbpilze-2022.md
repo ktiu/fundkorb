@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-17.10.2022: [Cortinarius mucosus - Heideschleimfuß](/pilze/cortinarius-mucosus-heide-schleimfuß)  
+18.10.2022: [Lactarius chrysorrheus - Goldflüssiger Milchling](/pilze/lactarius-chrysorrheus-goldflüssiger-milchling)  
+17.10.2022: [Cortinarius mucosus - Heideschleimfuß](/pilze/cortinarius-mucosus-heide-schleimfuß)\
 16.10.2022: [Lactarius deliciosus - Edelreizker](/pilze/lactarius-deliciosus-edelreizker)\
 15.10.2022: [Marasmius scorodonius - Echter Knoblauchschwindling](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling)\
 14.10.2022: [Clitocybe odora - Grüner Anistrichterling](/pilze/clitocybe-odora-grüner-anistrichterling)\
