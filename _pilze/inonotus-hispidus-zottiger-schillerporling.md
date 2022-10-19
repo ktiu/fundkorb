@@ -29,5 +29,5 @@ Außer an Apfelbäumen habe ich Inonotus hispidus auch schon mehrfach an Walnuss
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/inonotus_hispidus_03_rs.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/inonotus_hispidus_03_rs.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/inonotus_hispidus_04_rs.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Auf einer Streuobstwiese von Ralf Schmitt fotogrfiert" %}
