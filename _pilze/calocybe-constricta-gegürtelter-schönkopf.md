@@ -38,4 +38,4 @@ Es gibt noch eine weitere Pilzart, die *"Hundetoiletten"* liebt: der [Braunschup
 
 > Der Pilz wuchs (...) in unmittelbarer  Nähe einer Laterne. Bei der Laterne handelt es sich um das zentrale öffentliche Hunde-WC."
 
-Der Vollständigkeit halber sollte auch auf eine Pilzart hingewiesen, die sich auf Mäuseurin spezielisiert hat: der [Wurzelnde Fälbling *Hebeloma radicosum*](/pilze/hebeloma-radicosum-wurzelnder-fälbling).
+Der Vollständigkeit halber sollte auch auf eine Pilzart hingewiesen, die sich auf Mäuseurin spezialisiert hat: der [Wurzelnde Fälbling *Hebeloma radicosum*](/pilze/hebeloma-radicosum-wurzelnder-fälbling).
