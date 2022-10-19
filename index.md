@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_integra_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+19.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braune Ledertäubling *Russula integra*, endlich mal wieder gefunden am Rand eines geschotterten Waldwegs bei Dietzenbach. Ledertäublinge zeichnen sich durch buttergelbe bis wildlederfarbene Lamellen, milden Geschmack und große Fruchtkörper aus und sind alle essbar und wohlschmeckend. Der Braune ist wohl der häufigste dieser Gruppe, vor allem in höheren Lagen und bei Fichten; im Flachland ist er eher selten und nimmt auch mal mit Kiefern vorlieb. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-integra-brauner-ledertäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_chrysorrheus_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -45,18 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 16.10.2022: Putzreste eines unbekannten Pilzsammlers haben uns auf ein Vorkommen einer wahren Premiumart unter den Speisepilzen aufmerksam gemacht. An einem Waldwegrand zwischen Dietzenbach und Rodgau-Dudenhofen fanden wir bei Kiefern etwa ein Dutzend Edelreizker (*Lactarius deliciosus*). Ganz klar: das muss unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") werden. Er gehört wie die Täublinge zu den Sprödblättlern und fällt durch seine karottenrote Milch auf, die zwar nicht wie eine Flüssigkeit aus dem Fruchtfleisch tropft, es aber immerhin ein wenig nass erscheinen lässt. Mehr Infos und auch Tipps zur Zubereitung [gibt es hier >](/pilze/lactarius-deliciosus-edelreizker)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_scorodonius_-02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.10.2022: Es gibt drei Knoblauchschwindlinge, von denen nur einer für die Küche interessant ist, und der ist heute aktueller [Fundkorbpilz](AA "Glossar-"). Der Echte Knoblauchschwindling *Marasmius scorodonius* wächst gesellig in- und außerhalb von Wäldern an Nadelhumus oder abgestorbenen holzigen Pflanzenresten. In unserer Dietzenbacher Parkanlage ist er zur Zeit in Massen vertreten, allerdings an verborgenen Stellen unter Gestrüpp, so dass er kaum auffällt und man ihn mühsam suchen muss. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling)
 
 <div style="clear:  both"></div>
 
