@@ -57,7 +57,7 @@ Die Hüte erreichen bis zu 18 cm Ø, sind vor allem älter in der Mitte vertieft
 {% include bild.html datei="/bilder/russula_integra_05_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Hutdeckschicht mit inkrustierten Primordialhyphen und Pileozystiden  (2 Mikrofotos: Bernd Miggel) Sporen ellipsoidisch, 9 -12 x 8 - 10 µm mit länglich-spitzen isolierten Stacheln" %}
 
-Verwechslungen wären möglich mit dem Weißstieligen Ledertäubling *Russula romellii*, der in der Sektion *Integriforminae* steht, ebenfalls kalkliebend und überwiegend bei Buchen zu finden. Er ist im Geschmackswert dem Braunen Ledertäubling ebenbürtig. Ein ähnliches Aussehen kann auch der Zedernholztäubling Russula badia haben, dessen Geschmack sich jedoch von abfänglich mild zu sehr scharf verändert.
+Verwechslungen wären möglich mit dem Weißstieligen Ledertäubling *Russula romellii*, der in der Sektion *Integriforminae* steht, ebenfalls kalkliebend und überwiegend bei Buchen zu finden. Er ist im Geschmackswert dem Braunen Ledertäubling ebenbürtig. Ein ähnliches Aussehen kann auch der Zedernholztäubling *Russula badia* haben, dessen Geschmack sich jedoch von abfänglich mild zu sehr scharf verändert.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_integra_07_gg.jpg" %}
