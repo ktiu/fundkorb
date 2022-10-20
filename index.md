@@ -16,6 +16,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/calocybe_constricta_02_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+20.10.2022: Man könnte ihn *"Hundepinkelpilz"* nennen, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Es ist der Gegürtelte Schönkopf *Calocybe constricta*, der jetzt *Tricholomella constricta* heißt. In der Umgebung sogenannter *“Markierungslaternen”* in einem Parkgelände am Dietzenbacher Kreishaus sind einige Dutzend Fruchtkörper dieser wohl oft verkannten Art erschienen. Sie sehen einigen weißen Trichterlingen sehr ähnlich, sind aber auf eine sehr spezielle *"Bodenbeschaffenheit"* angewiesen. Der Untergrund muss mit Hundeurin angereichert sein. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_integra_01_bm.jpg" %}
 {% include abbildung_ende.html %}
@@ -47,16 +59,6 @@ footer_scripts:
 17.10.2022: In einem Roteichenforst bei Rodgau-Nieder-Roden genügen ein paar eingestreute mickrige Kiefern, um unseren aktuellen [Fundkorbpilz](AA "Glossar-") wachsen zu lassen. Der Heideschleimfuß *Cortinarius mucosus* erscheint hier standorttreu schon seit vielen Jahren.  Wenn man die schleimige Huthaut abzieht und vielleicht noch den etwas schleimigen Stiel ein wenig abschabt, hat man einen wohlschmeckenden Pilz in der Pfanne. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cortinarius-mucosus-heide-schleimfuß)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_deliciosus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.10.2022: Putzreste eines unbekannten Pilzsammlers haben uns auf ein Vorkommen einer wahren Premiumart unter den Speisepilzen aufmerksam gemacht. An einem Waldwegrand zwischen Dietzenbach und Rodgau-Dudenhofen fanden wir bei Kiefern etwa ein Dutzend Edelreizker (*Lactarius deliciosus*). Ganz klar: das muss unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") werden. Er gehört wie die Täublinge zu den Sprödblättlern und fällt durch seine karottenrote Milch auf, die zwar nicht wie eine Flüssigkeit aus dem Fruchtfleisch tropft, es aber immerhin ein wenig nass erscheinen lässt. Mehr Infos und auch Tipps zur Zubereitung [gibt es hier >](/pilze/lactarius-deliciosus-edelreizker)
 
 <div style="clear:  both"></div>
 
