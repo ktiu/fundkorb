@@ -19,7 +19,7 @@ literatur:
       V: Nr. 67b"
   - url: https://www.mikroskopie-forum.de/index.php?topic=42137.msg310598#msg310598
 ---
-Auf den ersten Blick könnte man vermuten, einen Wolligen Milchling ("Erdschieber" = Lactarius vellereus) vor sich zu haben. Der Irrtum ist schnell aufgeklärt. Der Pilz lässt keine wässrige Milch austreten. Es muss also ein Täubling sein. Und zwar einer der drei Weißtäublinge, die zu den sogenannten *Compactae* gehören.
+Auf den ersten Blick könnte man vermuten, einen Wolligen Milchling (["Erdschieber" = *Lactarius vellereus*](/pilze/lactarius-vellereus-wolliger-milchling-erdschieber)) vor sich zu haben. Der Irrtum ist schnell aufgeklärt. Der Pilz lässt keine wässrige Milch austreten. Es muss also ein Täubling sein. Und zwar einer der drei Weißtäublinge, die zu den sogenannten *Compactae* gehören.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_chloroides_02_bm.jpg" %}
