@@ -22,7 +22,7 @@ footer_scripts:
 
 20.10.2022: Man könnte ihn *"Hundepinkelpilz"* nennen, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Es ist der Gegürtelte Schönkopf *Calocybe constricta*, der jetzt *Tricholomella constricta* heißt. In der Umgebung sogenannter *“Markierungslaternen”* in einem Parkgelände am Dietzenbacher Kreishaus sind einige Dutzend Fruchtkörper dieser wohl oft verkannten Art erschienen. Sie sehen einigen weißen Trichterlingen sehr ähnlich, sind aber auf eine sehr spezielle *"Bodenbeschaffenheit"* angewiesen. Der Untergrund muss mit Hundeurin angereichert sein. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/calocybe-constricta-gegürtelter-schönkopf)
 
 <div style="clear:  both"></div>
 
