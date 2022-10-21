@@ -21,6 +21,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_citrina_gg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.10.2022: Der Name Knollenblätterpilz ist nicht automatisch gleichbedeutend mit "tödlich giftig". Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gelbe Knollenblätterpilz *Amanita citrina*, ist nur leicht giftig und sein Wirkstoff *Bufotenin* würde auch noch beim Erhitzen zerstört. Hitzeinstabile Gifte sind in vielen Speisepilzen enthalten, aber sein widerwärtige Geschmack macht den Gelben Knollenblätterpilz absolut ungenießbar. Er gehört zu den häufigsten Pilzarten in unseren Wäldern und ist u. a. am Kartoffelgeruch in seiner Stielknolle zu erkennen. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/calocybe_constricta_02_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,22 +65,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/lactarius-chrysorrheus-goldflüssiger-milchling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cortinarius_mucosus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.10.2022: In einem Roteichenforst bei Rodgau-Nieder-Roden genügen ein paar eingestreute mickrige Kiefern, um unseren aktuellen [Fundkorbpilz](AA "Glossar-") wachsen zu lassen. Der Heideschleimfuß *Cortinarius mucosus* erscheint hier standorttreu schon seit vielen Jahren.  Wenn man die schleimige Huthaut abzieht und vielleicht noch den etwas schleimigen Stiel ein wenig abschabt, hat man einen wohlschmeckenden Pilz in der Pfanne. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cortinarius-mucosus-heide-schleimfuß)
-
-<div style="clear:  both"></div>
-
-- - -
-
-[Liste aller Aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
 
 - - -
 
