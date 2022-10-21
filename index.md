@@ -24,7 +24,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/amanita_citrina_gg.jpg" %}
 {% include abbildung_ende.html %}
 
-21.10.2022: Der Name Knollenblätterpilz ist nicht automatisch gleichbedeutend mit "tödlich giftig". Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gelbe Knollenblätterpilz *Amanita citrina*, ist nur leicht giftig und sein Wirkstoff *Bufotenin* würde auch noch beim Erhitzen zerstört. Hitzeinstabile Gifte sind in vielen Speisepilzen enthalten, aber sein widerwärtige Geschmack macht den Gelben Knollenblätterpilz absolut ungenießbar. Er gehört zu den häufigsten Pilzarten in unseren Wäldern und ist u. a. am Kartoffelgeruch in seiner Stielknolle zu erkennen. (Dieter Gewalt)
+21.10.2022: Der Name Knollenblätterpilz ist nicht automatisch gleichbedeutend mit *"tödlich giftig"*. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gelbe Knollenblätterpilz *Amanita citrina*, ist nur leicht giftig und sein Wirkstoff *Bufotenin* würde auch noch beim Erhitzen zerstört. Hitzeinstabile Gifte sind in vielen Speisepilzen enthalten, aber sein widerwärtiger Geschmack macht den Gelben Knollenblätterpilz absolut ungenießbar. Er gehört zu den häufigsten Pilzarten in unseren Wäldern und ist u. a. am Kartoffelgeruch in seiner Stielknolle zu erkennen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-citrina-gelber-knollenblätterpilz)
 
