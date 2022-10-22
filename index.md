@@ -21,6 +21,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_caerulea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buckeltäubling *Russula caerulea*. Er gehört zu der sehr überschaubaren Anzahl von Täublingen, die unterwegs im Wald einigermaßen sicher erkannt werden können. Seine Kennzeichen sind der Buckel in der Hutmitte in Verbindung mit der violett- bis purpurbraunen oder weinroten, glänzenden Huthaut, die sich maximal bis zur Hälfte abziehen lässt, und die jung blass gelblichen, später dottergelben Lamellen. Er ist eine Charakterart sandiger Kiefernwälder und hier oft massenhaft anzutreffen. Entgegen mancher Literaturangaben ist er ein guter und empfehlenswerter Speisepilz. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-caerulea-buckeltäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_citrina_gg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,15 +68,7 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_chrysorrheus_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-18.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldflüssige Milchling *Lactarius chrysorrheus*, einer der attraktivsten Vertreter seiner Gattung. Die beim Anschneiden des Fruchtkörpers oder Anritzen der Lamellen austretende Milch ist zuerst weiß, verfärbt sich dann aber innerhalb weniger Sekunden gold- oder schwefelgelb. Diese Verfärbung kann auch sehr plötzlich eintreten. Die Milch ist anfangs mild, wird aber bald brennend scharf. Der Goldflüssige Milchling ist [Mykorrhizapartner](Mykorrhiza "Glossar") von Eichen, in unserem Fall waren es Roteichen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lactarius-chrysorrheus-goldflüssiger-milchling)
-
-<div style="clear:  both"></div>
+[Liste aller aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
 
 - - -
 
