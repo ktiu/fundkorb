@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 23. Oktober, 17 - 20 Uhr
+##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 23. Oktober, 17 - 20 Uhr [\-->](/termine)
 
 - - -
 
