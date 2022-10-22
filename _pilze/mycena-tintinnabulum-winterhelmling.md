@@ -7,6 +7,7 @@ beschreibung:
   erlaeuterung: tintinnabulum = Klingel, Schelle, Glocke
 profil:
   aktualisiert: 2020-08-10
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/mycena_tintinnabulum_01_dg.jpg
