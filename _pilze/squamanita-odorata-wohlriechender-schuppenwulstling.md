@@ -16,7 +16,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/inhalt/2002/squamanita_odorata.pdf
 ---
-Der triste Hinterhof des Thai-Restaurants Paradise Beach in Dietzenbach-Steinbach ist kein Ort, an dem man eine extrem seltene und auch noch betörend duftende Pilzart vermuten würde. Am Rand der betonierten Fläche auf einem schmalen Streifen mit karger Vegetation wuchsen unauffällige kleine Pilzchen, die erst bei genauerem Hinschauen ihre Gattungszugehörigkeit erkennen ließen. *Schuppenwulstlinge* zeichnen sich durch eine zwiebelig verdickte Stielbasis aus, die in ein [Pseudosklerotium](Pseudosklerotium "Glossar") übergeht, das mehr als die doppelte Größe des Pilzchens und ein Mehrfaches seiner Masse aufweisen kann. Unter den vier in Deutschland nachgewiesenen Arten ist die hier gefundene durch ihren aufdringlich süßlichen Geruch eindeutig gekennzeichnet.
+Der triste Hinterhof des Thai-Restaurants Paradise Beach in Dietzenbach-Steinberg ist kein Ort, an dem man eine extrem seltene und auch noch betörend duftende Pilzart vermuten würde. Am Rand der betonierten Fläche auf einem schmalen Streifen mit karger Vegetation wuchsen unauffällige kleine Pilzchen, die erst bei genauerem Hinschauen ihre Gattungszugehörigkeit erkennen ließen. *Schuppenwulstlinge* zeichnen sich durch eine zwiebelig verdickte Stielbasis aus, die in ein [Pseudosklerotium](Pseudosklerotium "Glossar") übergeht, das mehr als die doppelte Größe des Pilzchens und ein Mehrfaches seiner Masse aufweisen kann. Unter den vier in Deutschland nachgewiesenen Arten ist die hier gefundene durch ihren aufdringlich süßlichen Geruch eindeutig gekennzeichnet.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/squamanita_odorata_fundstelle_02_dg.jpg" %}
