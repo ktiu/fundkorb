@@ -21,7 +21,7 @@ Der Gelbe Knollenblätterpilz dürfte der häufigste Wulstling im Rhein-Main-Geb
 {% include bild.html datei="/bilder/amanita_citrina_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Wichtigstes Kennzeichen ist die scharf gerandete Knolle an der Stielbasis, die angeschnitten oder aufgebrochen deutlich nach Kartoffelkeller riecht. Die Hutfarben variieren von gelblich grün über blass gelb bis weiß, die scholligen Velumreste auf der Huthaut können fehlen oder abgewaschen sein. Ebenfalls nach Kartoffelkeimen riecht der in Nadelwäldern wachsende Porphyrbraune Wulstling (*Amanita porphyria*), dessen Huthaut (wie der Name besagt) porphyrbraun gefärbt ist.
+Wichtigstes Kennzeichen ist die scharf gerandete Knolle an der Stielbasis, die angeschnitten oder aufgebrochen deutlich nach Kartoffelkeller riecht. Die Hutfarben variieren von gelblich grün über blass gelb bis weiß, die scholligen Velumreste auf der Huthaut können fehlen oder abgewaschen sein. Ebenfalls nach Kartoffelkeimen riecht der in Nadelwäldern wachsende [Porphyrbraune Wulstling (*Amanita porphyria*)](/pilze/amanita-citrina-gelber-knollenblätterpilz), dessen Huthaut (wie der Name besagt) porphyrbraun gefärbt ist.
 
 Nicht selten hat man den Eindruck, dass der Gelbe Knollenblätterpilz einen irreführenden Namen trägt. Tatsächlich findet man oft weit mehr oder fast nur Exemplare, die eher rein weiß als gelb sind.
 
