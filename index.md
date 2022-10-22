@@ -14,10 +14,6 @@ footer_scripts:
 
 ##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 23. Oktober, 17 - 20 Uhr
 
-##### Pilzkundliche Führung für Einsteiger am 30. September [\--> Termine](/termine)
-
-##### Saison der Spätherbstpilze (Pilzkundliche Führung) [\--> Termine](/termine)
-
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
