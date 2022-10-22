@@ -6,7 +6,7 @@ beschreibung:
   familie: Russulaceae
   erlaeuterung: vesca = essbar
 profil:
-  aktualisiert: 2020-08-16
+  aktualisiert: 2022-10-22
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
@@ -25,7 +25,7 @@ Die Farbvariabilität des Speisetäublings lässt Verwechslungen mit mehreren an
 {% include bild.html datei="/bilder/russula_vesca_05_dg-gerhard-schuster-.jpg" %}
 {% include abbildung_ende.html legende="Ein sehr schönes Foto (©: Gerhard Schuster) zeigt einen Speisetäubling, der einiges an  Material aus dem Erdreich emporgehoben hat und extrem deutlich sein wichtigstes Merkmal zeigt: die zu kurz geratene Huthaut, die die Lamellen deutlich hervortreten lässt." %}
 
-Die Huthaut ist etwa zur Hälfte abziehbar. Die Farben werden mit fleisch- bis rosenrot, fleischrosa, fleischbräunlich, trüb rosa oder lilarosa beschrieben. Oft finden sich ockergelbe bis rostfarbene Flecken auf der Huthaut, die sich etwas krustig anfühlen können – ein Merkmal, das auch bei einigen anderen Täublingen vorkommen kann. Im Zweifelsfall schützt eine Geschmacksprobe vor Verwechslungen mit giftigen Täublingsarten. Diese schmecken scharf, der Speisetäubling angenehm nussig und mild.
+Die Huthaut ist etwa zur Hälfte abziehbar. Die Farben werden mit fleisch- bis rosenrot, fleischrosa, fleischbräunlich, trüb rosa oder lilarosa beschrieben. Oft finden sich ockergelbe bis rostfarbene Flecken auf der Huthaut, die sich etwas krustig anfühlen können – ein Merkmal, das auch bei einigen anderen Täublingen vorkommen kann. Im Zweifelsfall schützt eine Geschmacksprobe vor Verwechslungen mit giftigen Täublingsarten. Diese schmecken scharf, der Speisetäubling angenehm nussig und mild. Zu beachten wäre auch der [Verblassende Täubling *Russula exalbicans*](/pilze/russula-exalbicans-verblassender-täubling), der manchmal wie der Speisetäubling eine etwas verkürzte Huthaut haben kann, aber erträglich scharf schmeckt, die Schärfe allerdings recht bald wieder verliert. Er wächst bei Birken und ist ebenfalls essbar, ohne jedoch die Qualität des Speisetäublings zu erreichen. 
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_vesca_03_dg.jpg" %}
