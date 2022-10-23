@@ -17,8 +17,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_caerulea_01_dg.jpg" %}
+{% include bild.html datei="/bilder/phlebia_centrifuga_01_dg.jpg" %}
 {% include abbildung_ende.html %}
+
+23.10.2022: Wenn man eine sehr seltene Pilzart gefunden hat und die Bestimmung dank Mitwirkung mehrerer Akteure gelungen ist, dann ist das ein guter Grund, sie hier als aktuellen [Fundkorbpilz](AA "Glossar-") vorzustellen. Es handelt sich um den Heidelbeer-Kammpilz *Phlebia centrifuga*, der wegen seiner nur kurzfristig sichtbaren inkarnatroten Farben auch noch besonders aufgefallen ist. Die war bereits über Nacht komplett verschwunden. Verwundert bin ich auch über den deutschen Namen. Weder Form noch Farbe und schon gar nicht der Geschmack haben etwas mit Heidelbeeren zu tun. Die Farbe würde noch ehesten zu Himbeeren passen.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phlebia-centrifuga-heidelbeer-kammpilz)
+
+<div style="clear:  both"></div>
+
+- - -
 
 22.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buckeltäubling *Russula caerulea*. Er gehört zu der sehr überschaubaren Anzahl von Täublingen, die unterwegs im Wald einigermaßen sicher erkannt werden können. Seine Kennzeichen sind der Buckel in der Hutmitte in Verbindung mit der violett- bis purpurbraunen oder weinroten, glänzenden Huthaut, die sich maximal bis zur Hälfte abziehen lässt, und die jung blass gelblichen, später dottergelben Lamellen. Er ist eine Charakterart sandiger Kiefernwälder und hier oft massenhaft anzutreffen. Entgegen mancher Literaturangaben ist er ein guter und empfehlenswerter Speisepilz. (Dieter Gewalt)
 
@@ -47,18 +55,6 @@ footer_scripts:
 20.10.2022: Man könnte ihn *"Hundepinkelpilz"* nennen, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Es ist der Gegürtelte Schönkopf *Calocybe constricta*, der jetzt *Tricholomella constricta* heißt. In der Umgebung sogenannter *“Markierungslaternen”* in einem Parkgelände am Dietzenbacher Kreishaus sind einige Dutzend Fruchtkörper dieser wohl oft verkannten Art erschienen. Sie sehen einigen weißen Trichterlingen sehr ähnlich, sind aber auf eine sehr spezielle *"Bodenbeschaffenheit"* angewiesen. Der Untergrund muss mit Hundeurin angereichert sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/calocybe-constricta-gegürtelter-schönkopf)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_integra_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-19.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braune Ledertäubling *Russula integra*, endlich mal wieder gefunden am Rand eines geschotterten Waldwegs bei Dietzenbach. Ledertäublinge zeichnen sich durch buttergelbe bis wildlederfarbene Lamellen, milden Geschmack und große Fruchtkörper aus und sind alle essbar und wohlschmeckend. Der Braune ist wohl der häufigste dieser Gruppe, vor allem in höheren Lagen und bei Fichten; im Flachland ist er eher selten und nimmt auch mal mit Kiefern vorlieb. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-integra-brauner-ledertäubling)
 
 <div style="clear:  both"></div>
 
