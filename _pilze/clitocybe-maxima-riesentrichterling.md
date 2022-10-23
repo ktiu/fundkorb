@@ -17,7 +17,7 @@ literatur:
       Zeitschr. f. Mykol. 5: 1-302"
   - url: https://www.pilz-baden.ch/galerie/deutsch/trichterling-22/riesentrichterling-72
 ---
-Der Mönchskopf Clitocybe geotropa hat eine so markante und auch kaum verwechselbare Gestalt, dass sie mit dem hier beschriebenen Fund kaum Ähnlichkeiten aufzuweisen hat. Dass letzterer eine Varietät des Mönchkopfs sein soll, hätte ich weder beim ersten Blick noch nach genauerem Hinschauen in Betracht gezogen. Die auffälligsten Unterschiede waren: Hüte weiß bis blass beigefarben, mit radial angeordneten lilavioletten Flecken und Streifen,  ohne Buckel; Stiele im Verhältnis zur Hutgröße (bis 25 cm) auffallend kurz.
+Der Mönchskopf *Clitocybe geotropa* hat eine so markante und auch kaum verwechselbare Gestalt, dass sie mit dem hier beschriebenen Fund kaum Ähnlichkeiten aufzuweisen hat. Dass letzterer eine Varietät des Mönchkopfs sein soll, hätte ich weder beim ersten Blick noch nach genauerem Hinschauen in Betracht gezogen. Die auffälligsten Unterschiede waren: Hüte weiß bis blass beigefarben, mit radial angeordneten lilavioletten Flecken und Streifen, <ins>ohne</ins> Buckel; Stiele im Verhältnis zur Hutgröße (bis 25 cm) auffallend kurz.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/clitocybe_maxima_02_dg.jpg" %}
