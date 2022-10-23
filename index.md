@@ -20,13 +20,17 @@ footer_scripts:
 {% include bild.html datei="/bilder/phlebia_centrifuga_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-23.10.2022: Wenn man eine sehr seltene Pilzart gefunden hat und die Bestimmung dank Mitwirkung mehrerer Akteure gelungen ist, dann ist das ein guter Grund, sie hier als aktuellen [Fundkorbpilz](AA "Glossar-") vorzustellen. Es handelt sich um den Heidelbeer-Kammpilz *Phlebia centrifuga*, der wegen seiner nur kurzfristig sichtbaren inkarnatroten Farben auch noch besonders aufgefallen ist. Die war bereits über Nacht komplett verschwunden. Verwundert bin ich auch über den deutschen Namen. Weder Form noch Farbe und schon gar nicht der Geschmack haben etwas mit Heidelbeeren zu tun. Die Farbe würde noch ehesten zu Himbeeren passen.  (Dieter Gewalt)
+23.10.2022: Wenn man eine sehr seltene Pilzart gefunden hat und die Bestimmung dank Mitwirkung mehrerer Akteure gelungen ist, dann ist das ein guter Grund, sie hier als aktuellen [Fundkorbpilz](AA "Glossar-") vorzustellen. Es handelt sich um den Heidelbeer-Kammpilz *Phlebia centrifuga*, der wegen seiner nur kurzfristig sichtbaren inkarnatroten Farben auch noch besonders aufgefallen ist. Die war bereits über Nacht komplett verschwunden. Verwundert bin ich auch über den deutschen Namen. Weder Form noch Farbe und schon gar nicht der Geschmack haben etwas mit Heidelbeeren zu tun. Die Farbe würde noch ehesten zu Himbeeren passen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phlebia-centrifuga-heidelbeer-kammpilz)
 
 <div style="clear:  both"></div>
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_caerulea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
 
 22.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buckeltäubling *Russula caerulea*. Er gehört zu der sehr überschaubaren Anzahl von Täublingen, die unterwegs im Wald einigermaßen sicher erkannt werden können. Seine Kennzeichen sind der Buckel in der Hutmitte in Verbindung mit der violett- bis purpurbraunen oder weinroten, glänzenden Huthaut, die sich maximal bis zur Hälfte abziehen lässt, und die jung blass gelblichen, später dottergelben Lamellen. Er ist eine Charakterart sandiger Kiefernwälder und hier oft massenhaft anzutreffen. Entgegen mancher Literaturangaben ist er ein guter und empfehlenswerter Speisepilz. (Dieter Gewalt)
 
