@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-22.10.2022: [Russula caerulea - Buckeltäubling](/pilze/russula-caerulea-buckeltäubling)  
+23.10.2023: [Phlebia centrifuga - Heidelbeer-Kammpilz](/pilze/phlebia-centrifuga-heidelbeer-kammpilz)  
+22.10.2022: [Russula caerulea - Buckeltäubling](/pilze/russula-caerulea-buckeltäubling)\
 21.10.2022: [Amanita citrina - Gelber Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz)\
 20.10.2022: [Calocybe constricta - Gegürtelter Schönkopf](/pilze/calocybe-constricta-gegürtelter-schönkopf)\
 19.10.2022: [Russula integra - Brauner Ledertäubling](/pilze/russula-integra-brauner-ledertäubling)\
