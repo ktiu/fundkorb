@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/resupinatus_applicatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Zwerg, der leicht zu übersehen bzw. nur bei gezielter Suche zu finden ist. Darauf weist schon sein deutscher Name hin. Außerdem muss man fleißig feucht liegende Laubholzästchen umdrehen, um den Flaumigen Zwergseitling *Resupinatus applicatus* zu entdecken. Wenn viele Zwerge eng beieinander stehen, kann das die Suche natürlich etwas erleichtern. Die kleinen Pilzchen werden auch Liliputseitlinge genannt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/resupinatus-applicatus-flaumiger-zwergseitling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phlebia_centrifuga_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,18 +59,6 @@ footer_scripts:
 21.10.2022: Der Name Knollenblätterpilz ist nicht automatisch gleichbedeutend mit *"tödlich giftig"*. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gelbe Knollenblätterpilz *Amanita citrina*, ist nur leicht giftig und sein Wirkstoff *Bufotenin* würde auch noch beim Erhitzen zerstört. Hitzeinstabile Gifte sind in vielen Speisepilzen enthalten, aber sein widerwärtiger Geschmack macht den Gelben Knollenblätterpilz absolut ungenießbar. Er gehört zu den häufigsten Pilzarten in unseren Wäldern und ist u. a. am Kartoffelgeruch in seiner Stielknolle zu erkennen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-citrina-gelber-knollenblätterpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calocybe_constricta_02_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-20.10.2022: Man könnte ihn *"Hundepinkelpilz"* nennen, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Es ist der Gegürtelte Schönkopf *Calocybe constricta*, der jetzt *Tricholomella constricta* heißt. In der Umgebung sogenannter *“Markierungslaternen”* in einem Parkgelände am Dietzenbacher Kreishaus sind einige Dutzend Fruchtkörper dieser wohl oft verkannten Art erschienen. Sie sehen einigen weißen Trichterlingen sehr ähnlich, sind aber auf eine sehr spezielle *"Bodenbeschaffenheit"* angewiesen. Der Untergrund muss mit Hundeurin angereichert sein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/calocybe-constricta-gegürtelter-schönkopf)
 
 <div style="clear:  both"></div>
 
