@@ -12,7 +12,19 @@ footer_scripts:
 
 - - -
 
-##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 23. Oktober, 17 - 20 Uhr [\-->](/termine)
+##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 30. Oktober, 17 - 20 Uhr [\-->](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/craterellus-cornucopioides_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+25.10.2022: Pilze sucht man nicht, man findet sie. So erging es uns bei der Wanderung des Münchner Pilzvereins. Am Randbereich eines Buchenwaldes bei Wolfratshausen fanden wir eine Vielzahl wunderschöner Exemplare der Totentrompete *Craterellus cornucopioides* = aktueller [Fundkorbpilz](AA "Glossar-"). Gut getarnt im Buchenlaub waren sie nicht leicht erkennbar.  Auch wenn die dunkle Farbe nicht sehr einladend ausschaut – die Totentrompete ist ein sehr guter Speisepilz. Wegen ihrer späten Erscheinungszeit wird sie auch Herbsttrompete genannt. (Johann Rejek)
+
+[Mehr lesen >](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -47,18 +59,6 @@ footer_scripts:
 22.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buckeltäubling *Russula caerulea*. Er gehört zu der sehr überschaubaren Anzahl von Täublingen, die unterwegs im Wald einigermaßen sicher erkannt werden können. Seine Kennzeichen sind der Buckel in der Hutmitte in Verbindung mit der violett- bis purpurbraunen oder weinroten, glänzenden Huthaut, die sich maximal bis zur Hälfte abziehen lässt, und die jung blass gelblichen, später dottergelben Lamellen. Er ist eine Charakterart sandiger Kiefernwälder und hier oft massenhaft anzutreffen. Entgegen mancher Literaturangaben ist er ein guter und empfehlenswerter Speisepilz. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-caerulea-buckeltäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_citrina_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.10.2022: Der Name Knollenblätterpilz ist nicht automatisch gleichbedeutend mit *"tödlich giftig"*. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gelbe Knollenblätterpilz *Amanita citrina*, ist nur leicht giftig und sein Wirkstoff *Bufotenin* würde auch noch beim Erhitzen zerstört. Hitzeinstabile Gifte sind in vielen Speisepilzen enthalten, aber sein widerwärtiger Geschmack macht den Gelben Knollenblätterpilz absolut ungenießbar. Er gehört zu den häufigsten Pilzarten in unseren Wäldern und ist u. a. am Kartoffelgeruch in seiner Stielknolle zu erkennen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-citrina-gelber-knollenblätterpilz)
 
 <div style="clear:  both"></div>
 
