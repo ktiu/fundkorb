@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-25.10.2022: [Craterellus cornucopioides - Totentrompete, Herbsttrompete](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)  
+26.10.2022: [Stropharia aurantiaca - Orangeroter Träuschling](/pilze/stropharia-aurantiaca-orangeroter-träuschling)  
+25.10.2022: [Craterellus cornucopioides - Totentrompete, Herbsttrompete](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)\
 24.10.2022: [Resupinatus applicatus - Flaumiger Zwergseitling](/pilze/resupinatus-applicatus-flaumiger-zwergseitling)\
 23.10.2023: [Phlebia centrifuga - Heidelbeer-Kammpilz](/pilze/phlebia-centrifuga-heidelbeer-kammpilz)\
 22.10.2022: [Russula caerulea - Buckeltäubling](/pilze/russula-caerulea-buckeltäubling)\
