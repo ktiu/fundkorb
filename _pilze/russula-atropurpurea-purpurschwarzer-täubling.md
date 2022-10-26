@@ -42,10 +42,9 @@ Die Art ist in Mitteleuropa weit verbreitet und ziemlich häufig. Als [Mykorrhiz
     <tr>
       <td>schärflich, vergehend</td>
       <td>weiß bis sehr blass creme</td>
-      <td>nicht bis max. 1 cm</td>
+      <td>bis zur Hälfte</td>
       <td>rosa - orange</td>
        
     </tr>
   </table>
 </div>
-
