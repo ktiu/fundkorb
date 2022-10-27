@@ -32,7 +32,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/stropharia_aurantiaca_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-26.10.2022: Dass es sich bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") um einen attraktiven Blätterpilz handelt, dafür sorgt schon die auffällige Hutfarbe des Orangeroten Träuschlings *Stropharia aurantiaca*. Leider bekommt man ihn in Deutschland nur selten zu sehen und das auch erst seit 1968. Vermutlich ist er aus dem Mittelmeerraum über England nach Miteleuropa eingewandert. Wer seine bevorzugten Biotope kennt, hat allerdings gute Chancen, ihn zu finden. Es sind [anthropogene](anthropogen "Glossar") Standorte wie Parkanlagen oder Gärten, in denen er gern auf Holzabfällen und Rindenmulch erscheint, oft in größeren Scharen. (Dieter Gewalt) 
+26.10.2022: Dass es sich bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") um einen attraktiven Blätterpilz handelt, dafür sorgt schon die auffällige Hutfarbe des Orangeroten Träuschlings *Stropharia aurantiaca*. Leider bekommt man ihn in Deutschland nur selten zu sehen und das auch erst seit 1968. Vermutlich ist er aus dem Mittelmeerraum über England nach Mitteleuropa eingewandert. Wer seine bevorzugten Biotope kennt, hat allerdings gute Chancen, ihn zu finden. Es sind [anthropogene](anthropogen "Glossar") Standorte wie Parkanlagen oder Gärten, in denen er gern auf Holzabfällen und Rindenmulch erscheint, oft in größeren Scharen. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/stropharia-aurantiaca-orangeroter-träuschling)
 
