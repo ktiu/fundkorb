@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/echinoderma_asperum_04_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+27.10.2022: Es gibt viele Pilzgattungen mit dem Namen -schirmling und keineswegs alle sind essbar. Im Gegenteil. So ist zum Beispiel unser aktueller [Fundkorbpilz](AA "Glossar-"), der Raue Schirmling *Echinoderma aspera*, magen-/darmgiftig. Schon sein widerwärtiger Geruch verhindert, dass er in einem Sammelkorb landet und wenn nicht, wird er spätestens zu Hause aussortiert. Sollte man zumindest annehmen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/echinoderma-asperum-rauer-schirmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stropharia_aurantiaca_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,18 +59,6 @@ footer_scripts:
 24.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Zwerg, der leicht zu übersehen bzw. nur bei gezielter Suche zu finden ist. Darauf weist schon sein deutscher Name hin. Außerdem muss man fleißig feucht liegende Laubholzästchen umdrehen, um den Flaumigen Zwergseitling *Resupinatus applicatus* zu entdecken. Wenn viele Zwerge eng beieinander stehen, kann das die Suche natürlich etwas erleichtern. Die kleinen Pilzchen werden auch Liliputseitlinge genannt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/resupinatus-applicatus-flaumiger-zwergseitling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phlebia_centrifuga_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.10.2022: Wenn man eine sehr seltene Pilzart gefunden hat und die Bestimmung dank Mitwirkung mehrerer Akteure gelungen ist, dann ist das ein guter Grund, sie hier als aktuellen [Fundkorbpilz](AA "Glossar-") vorzustellen. Es handelt sich um den Heidelbeer-Kammpilz *Phlebia centrifuga*, der wegen seiner nur kurzfristig sichtbaren inkarnatroten Farben auch noch besonders aufgefallen ist. Die war bereits über Nacht komplett verschwunden. Verwundert bin ich auch über den deutschen Namen. Weder Form noch Farbe und schon gar nicht der Geschmack haben etwas mit Heidelbeeren zu tun. Die Farbe würde noch ehesten zu Himbeeren passen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phlebia-centrifuga-heidelbeer-kammpilz)
 
 <div style="clear:  both"></div>
 
