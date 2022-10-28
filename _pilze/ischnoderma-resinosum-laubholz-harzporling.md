@@ -29,7 +29,7 @@ literatur:
 
 In der Gattung *Ischnoderma* sind derzeit nur zwei Arten bekannt, die von einigen Autoren sogar wechselseitig [synonymisiert](Synonym "Glossar") werden. Dabei wird von manchen dem Namen *benzoinum*, von anderen dem Namen *resinosum* Priorität zuerkannt:
 
-**Ischnoderma benzoinum** = Gebänderter Harzporling, auch Schwarzgebänderter oder Nadelholzporling, an Nadelholz, besonders Fichte.\
+**[Ischnoderma benzoinum](/pilze/ischnoderma-benzoinum-gebänderter-harzporling)** = Gebänderter Harzporling, auch Schwarzgebänderter oder Nadelholzporling, an Nadelholz, besonders Fichte.\
 **Ischnoderma resinosum** = Laubholz-Harzporling, an Laubolz
 
 {% include abbildung_start.html stil="standard" %}
