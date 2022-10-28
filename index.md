@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/russula_cyanoxantha_04_dg-1536x1197.jpg" %}
 {% include abbildung_ende.html %}
 
-28.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Frauentäubling *Russula cyanoxantha*, unbestritten eine Premiumart, die von Kennern mehr geschätzt wird als Steinpilz, Pfifferling & Co. Allerdings sind die Täublinge mit rund 200 mitteleuropäischen Arten nicht nur eine besonders große sondern auch recht schwierige Gattung. Die meisten Arten sind nur anhand mikroskopischer Merkmale und chemischer Reaktionen sicher zu bestimmen. Wie man die Premiumart Frauentäubling dennoch leicht erkennen kann, erfährt man hier >
+28.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Frauentäubling *Russula cyanoxantha*, unbestritten eine Premiumart, die von Kennern mehr geschätzt wird als Steinpilz, Pfifferling & Co. Allerdings sind die Täublinge mit rund 200 mitteleuropäischen Arten nicht nur eine besonders große sondern auch recht schwierige Gattung. Die meisten Arten sind nur anhand mikroskopischer Merkmale und chemischer Reaktionen sicher zu bestimmen. Wie man die Premiumart Frauentäubling dennoch leicht erkennen kann, erfährt man [hier >](/pilze/russula-cyanoxantha-frauentäubling)
 
 <div style="clear:  both"></div>
 
