@@ -18,7 +18,7 @@ literatur:
 {% include bild.html datei="/bilder/ischnoderma_benzoinum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Wenn man Vertreter der Gattung Harzporlinge ein paar Mal gesehen hat, sind sie leicht wiederzuerkennen und die beiden in Europa vorkommenden Arten leicht auseinanderzuhalten. Der gebänderte Harzporling wächst überwiegend an Nadelholz und zeichnet sich durch ein zumindest angedeutetes gebändertes Muster auf dem feinfilzigen Hut aus. Dem Laubholz-Harzporling *Ischnoderma resinosum* fehlt diese Bänderung und er wächst überwiegend an Laubholz. In neuerer Zeit (z. B. Krieglsteiner: Großpilze Baden-Württembergs) werden beide Arten sogar unter dem Namen Ischnoderma resinosum synonymisiert.
+Wenn man Vertreter der Gattung Harzporlinge ein paar Mal gesehen hat, sind sie leicht wiederzuerkennen und die beiden in Europa vorkommenden Arten leicht auseinanderzuhalten. Der gebänderte Harzporling wächst überwiegend an Nadelholz und zeichnet sich durch ein zumindest angedeutetes gebändertes Muster auf dem feinfilzigen Hut aus. Dem [Laubholz-Harzporling *Ischnoderma resinosum*](/pilze/ischnoderma-resinosum-gebänderter-harzporling) fehlt diese Bänderung und er wächst überwiegend an Laubholz. In neuerer Zeit (z. B. Krieglsteiner: Großpilze Baden-Württembergs) werden beide Arten sogar unter dem Namen Ischnoderma resinosum synonymisiert.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/ischnoderma_benzoinum_03_dg.jpg" %}
