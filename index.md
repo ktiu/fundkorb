@@ -17,6 +17,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_cyanoxantha_04_dg-1536x1197.jpg" %}
+{% include abbildung_ende.html %}
+
+28.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Frauentäubling *Russula cyanoxantha*, unbestritten eine Premiumart, die von Kennern mehr geschätzt wird als Steinpilz, Pfifferling & Co. Allerdings sind die Täublinge mit rund 200 mitteleuropäischen Arten nicht nur eine besonders große sondern auch recht schwierige Gattung. Die meisten Arten sind nur anhand mikroskopischer Merkmale und chemischer Reaktionen sicher zu bestimmen. Wie man die Premiumart Frauentäubling dennoch leicht erkennen kann, erfährt man hier >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/echinoderma_asperum_04_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -47,18 +57,6 @@ footer_scripts:
 25.10.2022: Pilze sucht man nicht, man findet sie. So erging es uns bei der Wanderung des Münchner Pilzvereins. Am Randbereich eines Buchenwaldes bei Wolfratshausen fanden wir eine Vielzahl wunderschöner Exemplare der Totentrompete *Craterellus cornucopioides* = aktueller [Fundkorbpilz](AA "Glossar-"). Gut getarnt im Buchenlaub waren sie nicht leicht erkennbar.  Auch wenn die dunkle Farbe nicht sehr einladend ausschaut – die Totentrompete ist ein sehr guter Speisepilz. Wegen ihrer späten Erscheinungszeit wird sie auch Herbsttrompete genannt. (Johann Rejek)
 
 [Mehr lesen >](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/resupinatus_applicatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Zwerg, der leicht zu übersehen bzw. nur bei gezielter Suche zu finden ist. Darauf weist schon sein deutscher Name hin. Außerdem muss man fleißig feucht liegende Laubholzästchen umdrehen, um den Flaumigen Zwergseitling *Resupinatus applicatus* zu entdecken. Wenn viele Zwerge eng beieinander stehen, kann das die Suche natürlich etwas erleichtern. Die kleinen Pilzchen werden auch Liliputseitlinge genannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/resupinatus-applicatus-flaumiger-zwergseitling)
 
 <div style="clear:  both"></div>
 
