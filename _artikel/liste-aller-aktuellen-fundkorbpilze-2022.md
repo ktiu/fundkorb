@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-28.10.2022: [Mycena epipterygia - Dehnbarer Helmling](/pilze/mycena-epipterygia-dehnbarer-helmling)  
+29.10.2022: [Suillus luteus - Butter-Röhrling](/pilze/suillus-luteus-butter-röhrling)  
+28.10.2022: [Mycena epipterygia - Dehnbarer Helmling](/pilze/mycena-epipterygia-dehnbarer-helmling)\
 27.10.2022: [Echinoderma aspera - Rauer Schirmling](/pilze/echinoderma-asperum-rauer-schirmling)\
 26.10.2022: [Stropharia aurantiaca - Orangeroter Träuschling](/pilze/stropharia-aurantiaca-orangeroter-träuschling)\
 25.10.2022: [Craterellus cornucopioides - Totentrompete, Herbsttrompete](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)\
