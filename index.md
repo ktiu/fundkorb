@@ -16,7 +16,7 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/suillus_luteus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
