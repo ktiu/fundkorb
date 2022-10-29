@@ -17,10 +17,10 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_cyanoxantha_04_dg-1536x1197.jpg" %}
+{% include bild.html datei="/bilder/mycena_epipterygia_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-28.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Frauentäubling *Russula cyanoxantha*, unbestritten eine Premiumart, die von Kennern mehr geschätzt wird als Steinpilz, Pfifferling & Co. Allerdings sind die Täublinge mit rund 200 mitteleuropäischen Arten nicht nur eine besonders große sondern auch recht schwierige Gattung. Die meisten Arten sind nur anhand mikroskopischer Merkmale und chemischer Reaktionen sicher zu bestimmen. Wie man die Premiumart *Frauentäubling* dennoch leicht erkennen kann, erfährt man [hier >](/pilze/russula-cyanoxantha-frauentäubling)
+28.10.2022: Aktueller Fundkorbpilz ist der Dehnbare Helmling *Mycena epipterygia*. Seine erste herausragende Eigenschaft besteht darin, dass man seinen Stiel brechen und danach trotzdem in die Länge ziehen kann. Seine zweite erstaunliche Eigenschaft: er überwindet die Schwerkraft. Er bleibt an der Seite eines Fingers haften ohne herunterzufallen. Wie er das macht, erfährt der interessierte Pilzfreund [hier >](/pilze/mycena-epipterygia-dehnbarer-helmling)
 
 <div style="clear:  both"></div>
 
@@ -45,18 +45,6 @@ footer_scripts:
 26.10.2022: Dass es sich bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") um einen attraktiven Blätterpilz handelt, dafür sorgt schon die auffällige Hutfarbe des Orangeroten Träuschlings *Stropharia aurantiaca*. Leider bekommt man ihn in Deutschland nur selten zu sehen und das auch erst seit 1968. Vermutlich ist er aus dem Mittelmeerraum über England nach Mitteleuropa eingewandert. Wer seine bevorzugten Biotope kennt, hat allerdings gute Chancen, ihn zu finden. Es sind [anthropogene](anthropogen "Glossar") Standorte wie Parkanlagen oder Gärten, in denen er gern auf Holzabfällen und Rindenmulch erscheint, oft in größeren Scharen. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/stropharia-aurantiaca-orangeroter-träuschling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/craterellus-cornucopioides_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-25.10.2022: Pilze sucht man nicht, man findet sie. So erging es uns bei der Wanderung des Münchner Pilzvereins. Am Randbereich eines Buchenwaldes bei Wolfratshausen fanden wir eine Vielzahl wunderschöner Exemplare der Totentrompete *Craterellus cornucopioides* = aktueller [Fundkorbpilz](AA "Glossar-"). Gut getarnt im Buchenlaub waren sie nicht leicht erkennbar.  Auch wenn die dunkle Farbe nicht sehr einladend ausschaut – die Totentrompete ist ein sehr guter Speisepilz. Wegen ihrer späten Erscheinungszeit wird sie auch Herbsttrompete genannt. (Johann Rejek)
-
-[Mehr lesen >](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
 
 <div style="clear:  both"></div>
 
