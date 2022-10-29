@@ -16,11 +16,23 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/suillus_luteus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.10.2022: Zu den wenigen Röhrlingen, die einen Ring am Stiel haben, gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Butter-Röhrling *Suillus luteus*. Man findet ihn in der Nähe von Kiefern, mit denen er eine Mykorrhiza eingeht, eine Lebensgemeinschaft zum beiderseitigen Vorteil. Er ist zwar ein recht schmackhafter und viel gesammelter Speisepilz, aber nicht immer leicht von seiner unsympathischen Schleimschicht zu befreien.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/suillus-luteus-butter-röhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_epipterygia_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-28.10.2022: Aktueller Fundkorbpilz ist der Dehnbare Helmling *Mycena epipterygia*. Seine erste herausragende Eigenschaft besteht darin, dass man seinen Stiel brechen und danach trotzdem in die Länge ziehen kann. Seine zweite erstaunliche Eigenschaft: er überwindet die Schwerkraft. Er bleibt an der Seite eines Fingers haften ohne herunterzufallen. Wie er das macht, erfährt der interessierte Pilzfreund [hier >](/pilze/mycena-epipterygia-dehnbarer-helmling)
+28.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dehnbare Helmling *Mycena epipterygia*. Seine erste herausragende Eigenschaft besteht darin, dass man seinen Stiel brechen und danach trotzdem in die Länge ziehen kann. Seine zweite erstaunliche Eigenschaft: er überwindet die Schwerkraft. Er bleibt an der Seite eines Fingers haften ohne herunterzufallen. Wie er das macht, erfährt der interessierte Pilzfreund [hier >](/pilze/mycena-epipterygia-dehnbarer-helmling)
 
 <div style="clear:  both"></div>
 
