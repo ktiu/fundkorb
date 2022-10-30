@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinopsis_atramentaria_01_km.jpg" %}
+{% include abbildung_ende.html %}
+
+30.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der häufige Faltentintling *Coprinopsis atramentaria*. Er wächst zur Zeit gleich an mehreren Stellen in unserer Dietzenbacher Parkanlage. Manche Büschel sind gerade erst an der Oberfläche erschienen, andere zerfließen schon zu schwarzer Tinte. An ihren aschgrauen, faltig längsgestreiften Hüten sind sie gut zu erkennen. Ganz jung sind sie eiförmig, im Alter können die größten Exemplare bis zu 20 cm hoch werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/coprinopsis-atramentaria-faltentintling)
+
+<div style="clear:  both"></div> 
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/suillus_luteus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,18 +57,6 @@ footer_scripts:
 27.10.2022: Es gibt viele Pilzgattungen mit dem Namen -schirmling und keineswegs alle sind essbar. Im Gegenteil. So ist zum Beispiel unser aktueller [Fundkorbpilz](AA "Glossar-"), der Raue Schirmling *Echinoderma aspera*, magen-/darmgiftig. Schon sein widerwärtiger Geruch verhindert, dass er in einem Sammelkorb landet und wenn nicht, wird er spätestens zu Hause aussortiert. Sollte man zumindest annehmen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/echinoderma-asperum-rauer-schirmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stropharia_aurantiaca_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.10.2022: Dass es sich bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") um einen attraktiven Blätterpilz handelt, dafür sorgt schon die auffällige Hutfarbe des Orangeroten Träuschlings *Stropharia aurantiaca*. Leider bekommt man ihn in Deutschland nur selten zu sehen und das auch erst seit 1968. Vermutlich ist er aus dem Mittelmeerraum über England nach Mitteleuropa eingewandert. Wer seine bevorzugten Biotope kennt, hat allerdings gute Chancen, ihn zu finden. Es sind [anthropogene](anthropogen "Glossar") Standorte wie Parkanlagen oder Gärten, in denen er gern auf Holzabfällen und Rindenmulch erscheint, oft in größeren Scharen. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/stropharia-aurantiaca-orangeroter-träuschling)
 
 <div style="clear:  both"></div>
 
