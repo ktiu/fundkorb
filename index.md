@@ -12,7 +12,19 @@ footer_scripts:
 
 - - -
 
-##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 30. Oktober, 17 - 20 Uhr [\-->](/termine)
+##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 06. November, 17 - 20 Uhr [\-->](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mutinus_caninus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Hundsrute *Mutinus caninus*. Was mit dem deutschen Namen gemeint ist, soll hier aus nachvollziehbaren Gründen nicht erläutert werden.  Der Pilz mit diesem Namen gehört zu den Stinkmorchelartigen, die auch als *Phallales* bekannt sind und durch ihren Geruch auffallen, bevor man sie gesehen hat. Im Vergleich zur Stinkmorchel oder zum Tintenfischpilz ist der Geruch der Hundsrute eher unauffällig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mutinus-caninus-hundsrute)
+
+<div style="clear:  both"></div> 
 
 - - -
 
@@ -45,18 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 28.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dehnbare Helmling *Mycena epipterygia*. Seine erste herausragende Eigenschaft besteht darin, dass man seinen Stiel brechen und danach trotzdem in die Länge ziehen kann. Seine zweite erstaunliche Eigenschaft: er überwindet die Schwerkraft. Er bleibt an der Seite eines Fingers haften ohne herunterzufallen. Wie er das macht, erfährt der interessierte Pilzfreund [hier >](/pilze/mycena-epipterygia-dehnbarer-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/echinoderma_asperum_04_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-27.10.2022: Es gibt viele Pilzgattungen mit dem Namen -schirmling und keineswegs alle sind essbar. Im Gegenteil. So ist zum Beispiel unser aktueller [Fundkorbpilz](AA "Glossar-"), der Raue Schirmling *Echinoderma aspera*, magen-/darmgiftig. Schon sein widerwärtiger Geruch verhindert, dass er in einem Sammelkorb landet und wenn nicht, wird er spätestens zu Hause aussortiert. Sollte man zumindest annehmen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/echinoderma-asperum-rauer-schirmling)
 
 <div style="clear:  both"></div>
 
