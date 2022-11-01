@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tapinella_panuoides_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+01.11.2022:  Unser aktueller [Fundkorbpilz](AA "Glossar-") gehört zu den Kremplingen, die [saprobiontisch](saprobiontisch "Glossar") an Holz wachsen und für die deshalb eine eigene Gattung geschaffen worden ist: die Holzkremplinge. Zu ihnen gehören gerade mal zwei Arten, von denen der Muschelkrempling *Tapinella panuides* die weitaus seltenere ist und sich aufgrund ihrer muschelförmigen Hüte und nahezu fehlenden Stiele deutlich vom häufigen [Samtfußkrempling](/pilze/tapinella-atrotomentosa-samtfußkrempling) unterscheidet. Nach der Umgruppierung sollte er jetzt Muschelholzkrempling heißen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tapinella-panuoides-muschelkrempling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mutinus_caninus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,16 +59,6 @@ footer_scripts:
 29.10.2022: Zu den wenigen Röhrlingen, die einen Ring am Stiel haben, gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Butter-Röhrling *Suillus luteus*. Man findet ihn in der Nähe von Kiefern, mit denen er eine Mykorrhiza eingeht, eine Lebensgemeinschaft zum beiderseitigen Vorteil. Er ist zwar ein recht schmackhafter und viel gesammelter Speisepilz, aber nicht immer leicht von seiner unsympathischen Schleimschicht zu befreien.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/suillus-luteus-butter-röhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_epipterygia_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dehnbare Helmling *Mycena epipterygia*. Seine erste herausragende Eigenschaft besteht darin, dass man seinen Stiel brechen und danach trotzdem in die Länge ziehen kann. Seine zweite erstaunliche Eigenschaft: er überwindet die Schwerkraft. Er bleibt an der Seite eines Fingers haften ohne herunterzufallen. Wie er das macht, erfährt der interessierte Pilzfreund [hier >](/pilze/mycena-epipterygia-dehnbarer-helmling)
 
 <div style="clear:  both"></div>
 
