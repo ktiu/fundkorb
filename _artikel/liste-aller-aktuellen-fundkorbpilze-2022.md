@@ -3,7 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-31.10.2022: [Mutinus caninus - Hundsrute](/pilze/mutinus-caninus-hundsrute)  
+01.11.2022: [Tapinella panuoides - Muschelkrempling](/pilze/tapinella-panuoides-muschelkrempling)
+
+31.10.2022: [Mutinus caninus - Hundsrute](/pilze/mutinus-caninus-hundsrute)\
 30.10.2022: [Coprinopsis atramentaria - Faltentintling](/pilze/coprinopsis-atramentaria-faltentintling)\
 29.10.2022: [Suillus luteus - Butter-Röhrling](/pilze/suillus-luteus-butter-röhrling)\
 28.10.2022: [Mycena epipterygia - Dehnbarer Helmling](/pilze/mycena-epipterygia-dehnbarer-helmling)\
