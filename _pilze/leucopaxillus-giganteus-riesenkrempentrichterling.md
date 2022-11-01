@@ -45,7 +45,7 @@ Betrachtet man die Abbildungen in der Literatur und im Internet, so sieht man ga
 {% include bild.html datei="/bilder/leucopaxillus_-giganteus_06_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-Zur Klärung mussten also Mikromerkmale herangezogen werden, die von Frank Kaster und Bernd Miggel ermittelt wurden: Sporen ellipsoid, dünnwandig, glatt, hyalin, amyloid, 6,5 - 6,8 x 3,9 - 4,1 µm, Q = 1,6 - 1,7 (Miggel) bzw. "innerhalb der von Erhard Ludwig angegebenen Maße von 6 - 8,5 x 4 - 5,5 µm" (Kaster). Basidien 4-sporig, Lamellentrama regulär, Septen vereinzelt mit Schnallen. Hutdeckschicht eine Kutis, Hyphen dünnwandig mit Schnallen, ∅ 3 - 10 µm, zahlreich vorhanden. Zystiden: keine gesehen.
+Zur Klärung mussten also Mikromerkmale herangezogen werden, die von *Frank Kaster* und *Bernd Miggel* ermittelt wurden: Sporen ellipsoid, dünnwandig, glatt, hyalin, amyloid, 6,5 - 6,8 x 3,9 - 4,1 µm, Q = 1,6 - 1,7 (*Miggel*) bzw. *"innerhalb der von Erhard Ludwig angegebenen Maße von 6 - 8,5 x 4 - 5,5 µm"* (*Kaster*). Basidien 4-sporig, Lamellentrama regulär, Septen vereinzelt mit Schnallen. Hutdeckschicht eine [Kutis](Kutis "Glossar"), Hyphen dünnwandig mit Schnallen, ∅ 3 - 10 µm, zahlreich vorhanden. Zystiden: keine gesehen.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/leucopaxillus_-giganteus_10_bm.jpg" %}
@@ -56,7 +56,7 @@ Zur Klärung mussten also Mikromerkmale herangezogen werden, die von Frank Kaste
 {% include bild.html datei="/bilder/leucopaxillus_-giganteus_12_fk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Basidien -- Sporen in Melzers Reagens (2 Mikrofotos: Frank Kaster)" %}
 
-Die festgestellten Mikromerkmale sprechen also durchaus für Leucopaxillis giganteus, der angesichts des beeindruckenden Vorkommens bei Heusenstamm-Rembrücken die Namen "gigantisch" und "Riesen-" wahrlich verdient.
+Die festgestellten Mikromerkmale sprechen also durchaus für *Leucopaxillis giganteus*, der angesichts des beeindruckenden Vorkommens bei Heusenstamm-Rembrücken die Namen "gigantisch" und "Riesen-" wahrlich verdient.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/leucopaxillus_-giganteus_08_dg.jpg" nocrop=true gross=true %}
