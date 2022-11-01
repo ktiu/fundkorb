@@ -32,13 +32,13 @@ Beim Ortstermin fiel mir sofort auf, dass die Pilze in einem ausgedehnten Hexenr
 {% include bild.html datei="/bilder/leucopaxillus_-giganteus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Die Hüte waren weiß, cremefarben bis hell bräunlich mit braunen, oft radial angeordneten Flecken. Die Lamellen waren weiß bis cremefarben, dicht gedrängt stehend, mitunter gegabelt und mit kürzeren untermischt und weit an den überwiegend sehr kurzen, knollig verdickten Stielen herablaufend, die meist mit weißem Myzelfilz überzogen waren. Sporenpulver weiß.
+Die Hüte waren weiß, cremefarben bis hell bräunlich mit braunen, oft radial angeordneten Flecken. Die Lamellen waren weiß bis cremefarben, dicht gedrängt stehend, mitunter gegabelt und mit kürzeren untermischt und weit an den überwiegend sehr kurzen, knollig verdickten Stielen herablaufend, die meist mit weißem [Myzelfilz](Myzel "Glossar") überzogen waren. Sporenpulver weiß.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/leucopaxillus_-giganteus_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Betrachtet man sich die Abbildungen in der Literatur und im Internet, so sieht man ganz überwiegend Fotos von Pilzen mit geraden Rändern, mitunter auch mit relativ langen Stielen. Dazu den Hinweis, dass sich der Riesenkrempling vor allem durch einen deutlichen Buckel in der trichterig vertieften Hutmitte vom Mönchskopf Clitocybe (Infundibulicybe) geotropa unterscheidet. Das passt nun so gar nicht zu unserem Fund und lässt die Frage aufkommen, ob es sich hier tatsächlich um Riesenkrempentrichterlinge gehandelt hat.
+Betrachtet man die Abbildungen in der Literatur und im Internet, so sieht man ganz überwiegend Fotos von Pilzen mit geraden Rändern, mitunter auch mit relativ langen Stielen. Dazu den Hinweis, dass sich der Riesenkrempling vor allem durch einen deutlichen Buckel in der trichterig vertieften Hutmitte vom Mönchskopf [Clitocybe (Infundibulicybe) geotropa](/pilze/clitocybe-geotropa-mönchskopf) unterscheidet. Das passt nun so gar nicht zu unserem Fund und lässt die Frage aufkommen, ob es sich hier tatsächlich um Riesenkrempentrichterlinge gehandelt hat.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/leucopaxillus_-giganteus_07_dg.jpg" nocrop=true gross=true %}
