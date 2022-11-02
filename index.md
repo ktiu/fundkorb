@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leucopaxillus_-giganteus_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.11.2022:  *Dietrich Schiebler* hat uns auf einen Fund bei Heusenstamm-Rembrücken aufmerksam gemacht, der alle Beteiligten in wahre Begeisterung versetzte und deshalb aktueller [Fundkorbpilz](AA "Glossar-") werden muss. Auf einer sattgrünen Wiese im Osten der Gemeinde wuchsen in einem Hexenring von 55 m Durchmesser ca. 60 riesige in kleineren Gruppen zusammengeknäuelte weißliche Blätterpilze mit wahrhaft gigantischen Ausmaßen. Der Verdacht, es könnte sich um ein reichliches Vorkommen des Riesenkrempentrichterlings *Leucopaxillus giganteus* handeln, konnte durch mikroskopische Überprüfung bestätigt werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leucopaxillus-giganteus-riesenkrempentrichterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tapinella_panuoides_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -49,18 +61,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/coprinopsis-atramentaria-faltentintling)
 
 <div style="clear:  both"></div> 
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/suillus_luteus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.10.2022: Zu den wenigen Röhrlingen, die einen Ring am Stiel haben, gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Butter-Röhrling *Suillus luteus*. Man findet ihn in der Nähe von Kiefern, mit denen er eine Mykorrhiza eingeht, eine Lebensgemeinschaft zum beiderseitigen Vorteil. Er ist zwar ein recht schmackhafter und viel gesammelter Speisepilz, aber nicht immer leicht von seiner unsympathischen Schleimschicht zu befreien.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/suillus-luteus-butter-röhrling)
-
-<div style="clear:  both"></div>
 
 - - -
 
