@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
+02.11.2022: [Leucopaxillus giganteus - Riesenkrempentrichterling](/pilze/leucopaxillus-giganteus-riesenkrempentrichterling)  
 01.11.2022: [Tapinella panuoides - Muschelkrempling](/pilze/tapinella-panuoides-muschelkrempling)
 
 31.10.2022: [Mutinus caninus - Hundsrute](/pilze/mutinus-caninus-hundsrute)\
