@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-03.11.2022:  Auf einen riesengroßen folgt nun ein zierlich kleiner aktueller [Fundkorbpilz](AA "Glossar-"), der Orangegelbe Heftelnabeling *Rickenella fibula*. Manche meinen, es sei eine Art, in die man sich verlieben könne. Dazu tragen neben der attraktiven Farbe auch die in einem eleganten Bogen am Stiel herablaufenden Lamellen bei. Wenn man die Augen offen hält, kann man ihn vom Frühsommer bis in den Spätherbst zwischen Moosen finden, egal, ob sich diese in Rasenflächen oder auf Totholz befinden. (Dieter Gewalt)
+03.11.2022:  Auf einen riesengroßen folgt nun ein zierlich kleiner aktueller [Fundkorbpilz](AA "Glossar-"), der Orangegerote Heftelnabeling *Rickenella fibula*. Manche meinen, es sei eine Art, in die man sich verlieben könne. Dazu tragen neben der attraktiven Farbe auch die in einem eleganten Bogen am Stiel herablaufenden Lamellen bei. Wenn man die Augen offen hält, kann man ihn vom Frühsommer bis in den Spätherbst zwischen Moosen finden, egal, ob sich diese in Rasenflächen oder auf Totholz befinden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/rickenella-fibula)
 
