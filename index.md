@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.11.2022:  Auf einen riesengroßen folgt nun ein zierlich kleiner aktueller [Fundkorbpilz](AA "Glossar-"), der Orangegelbe Heftelnabeling *Rickenella fibula*. Manche meinen, es sei eine Art, in die man sich verlieben könne. Dazu tragen neben der attraktiven Farbe auch die in einem eleganten Bogen am Stiel herablaufenden Lamellen bei. Wenn man die Augen offen hält, kann man ihn vom Frühsommer bis in den Spätherbst zwischen Moosen finden, egal, ob sich diese in Rasenflächen oder auf Totholz befinden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/rickenella-fibula)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leucopaxillus_-giganteus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,18 +59,6 @@ footer_scripts:
 31.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Hundsrute *Mutinus caninus*. Was mit dem deutschen Namen gemeint ist, soll hier aus nachvollziehbaren Gründen nicht erläutert werden.  Der Pilz mit diesem Namen gehört zu den Stinkmorchelartigen, die auch als *Phallales* bekannt sind und durch ihren Geruch auffallen, bevor man sie gesehen hat. Im Vergleich zur Stinkmorchel oder zum Tintenfischpilz ist der Geruch der Hundsrute eher unauffällig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mutinus-caninus-hundsrute)
-
-<div style="clear:  both"></div> 
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinopsis_atramentaria_01_km.jpg" %}
-{% include abbildung_ende.html %}
-
-30.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der häufige Faltentintling *Coprinopsis atramentaria*. Er wächst zur Zeit gleich an mehreren Stellen in unserer Dietzenbacher Parkanlage. Manche Büschel sind gerade erst an der Oberfläche erschienen, andere zerfließen schon zu schwarzer Tinte. An ihren aschgrauen, faltig längsgestreiften Hüten sind sie gut zu erkennen. Ganz jung sind sie eiförmig, im Alter können die größten Exemplare bis zu 20 cm hoch werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coprinopsis-atramentaria-faltentintling)
 
 <div style="clear:  both"></div> 
 
