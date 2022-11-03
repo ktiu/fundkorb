@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pholiota_squarrosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist mit dem Sparrigen Schüppling *Pholiota squarrosa* einer der fotogensten Pilze. Trockener schuppiger Hut und ebenso trockener schuppiger Stiel sind seine markanten Kennzeichen. Er wächst parasitisch an Laub- und Nadelbäumen, in Streuobstwiesen gern an Obstbäumen, an denen er eine intensive Weißfäule erzeugt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pholiota-squarrosa-sparriger-schüppling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,18 +61,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/tapinella-panuoides-muschelkrempling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mutinus_caninus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.10.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Hundsrute *Mutinus caninus*. Was mit dem deutschen Namen gemeint ist, soll hier aus nachvollziehbaren Gründen nicht erläutert werden.  Der Pilz mit diesem Namen gehört zu den Stinkmorchelartigen, die auch als *Phallales* bekannt sind und durch ihren Geruch auffallen, bevor man sie gesehen hat. Im Vergleich zur Stinkmorchel oder zum Tintenfischpilz ist der Geruch der Hundsrute eher unauffällig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mutinus-caninus-hundsrute)
-
-<div style="clear:  both"></div> 
 
 - - -
 
