@@ -76,4 +76,4 @@ Hierin sind Q = Schlankheitsgrad = Länge / Breite, V = Volumen, av = Durchschni
 *Russula torulosa* ist ein mittelgroßer, scharf schmeckender, obstig riechender Täubling bei Kiefern auf basenreichen, warmen Böden, mit violettem Hut, hellcremefarbenen Lamellen und violettem Stiel. NH3-Reaktion negativ. Sporenpulver creme. Sporen ellipsoid, gratig-teilnetzig.
 
 **Ähnliche Arten:** 
-*Russula queletii* (Stachelbeertäubling) und *[Russula sardonia](/pilze/russula-sardonia-zitronenblättriger-täubling)* (Zitronenblättriger Täubling) sind ebenfalls scharf schmeckende Arten bei Nadelbäumen mit violettem Hut und Stiel.
+*[Russula queletii](/pilze/russula-queletii-stachelbeertäubling)* (Stachelbeertäubling) und *[Russula sardonia](/pilze/russula-sardonia-zitronenblättriger-täubling)* (Zitronenblättriger Täubling) sind ebenfalls scharf schmeckende Arten bei Nadelbäumen mit violettem Hut und Stiel.
