@@ -26,7 +26,7 @@ Betritt man im Spätherbst nach lang anhaltender, feuchtwarmer Witterung einen L
 {% include bild.html datei="/bilder/amanita_ceciliae_02_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-Der Doppeltbescheidete oder Riesen-Scheidenstreifling liebt basenreiche Böden, z.B. Lehmböden über Muschelkalk, und geht eine [Mykorrhiza](<Mykorrhiza "Glossar">) überwiegend mit Laubbäumen, wie z.B. Eichen, Rotbuchen, Hainbuchen, ein.
+Der Doppeltbescheidete oder Riesen-Scheidenstreifling liebt basenreiche Böden, z.B. Lehmböden über Muschelkalk, und geht eine [Mykorrhiza](Mykorrhiza "Glossar") überwiegend mit Laubbäumen, wie z.B. Eichen, Rotbuchen, Hainbuchen, ein.
 
 Was beim Anblick eines Fruchtkörpers ins Auge fällt, ist die für einen Scheidenstreifling beträchtliche Größe. Ähnlich den Riesenschirmlingen entwickelt sich der Fruchtkörper aus einem anfänglichen *„Paukenschlegel-Stadium“* und schirmt dann weit auf. Dabei können die Hüte durchaus 15 cm Hutdurchmesser erreichen. Die Fruchtkörper saßen nur sehr locker im Boden, so dass sie fast schon bei Berührung umfielen. Die Stiele sind bis 20 x 3 cm groß und stämmig. Die Hutfarbe reicht von gelbbraun über graubraun und olivbraun bis olivgelb, olivgrün und erinnert farblich an Grüne Knollenblätterpilze. Die Hüte sind mit plackenartigen Hüllresten bedeckt, die anfangs weißlich sind und sich später grau bis dunkelgrau verfärben. Die Stiele sind genattert, anfangs hell bräunlich, später grau. Sie sind typischerweise basal mit mehreren grauen Volvabändern versehen. Daher rührt auch der Name *„Doppeltbescheideter Riesenstreifling"*. Die Lamellen sind weiß, breit, dünn, dichtstehend, weich und am Stiel schmal angeheftet.
 
