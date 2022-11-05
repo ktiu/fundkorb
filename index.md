@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_ceciliae_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+05.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesen-Scheidenstreifling *Amanita ceciliae*. Bei einer Exkursion des Mykologischen Arbeitskreises Hornberg im südlichen Kraichgau gehörte er schon wegen seiner Größe zu den beeindruckendsten Funden. Hutdurchmesser von 15 cm waren hier keine Seltenheit. Manche der zahlreichen schweren Fruchtkörper saßen so locker im Boden, dass sie schon bei leichter Berührung umfielen. (Bernd Miggel)
+
+[Mehr lesen >](/pilze/amanita-ceciliae-riesen-scheidenstreifling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pholiota_squarrosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,18 +59,6 @@ footer_scripts:
 02.11.2022:  *Dietrich Schiebler* hat uns auf einen Fund bei Heusenstamm-Rembrücken aufmerksam gemacht, der alle Beteiligten in wahre Begeisterung versetzte und deshalb aktueller [Fundkorbpilz](AA "Glossar-") werden muss. Auf einer sattgrünen Wiese im Osten der Gemeinde wuchsen in einem Hexenring von 55 m Durchmesser ca. 60 riesige in kleineren Gruppen zusammengeknäuelte weißliche Blätterpilze mit wahrhaft gigantischen Ausmaßen. Der Verdacht, es könnte sich um ein reichliches Vorkommen des Riesenkrempentrichterlings *Leucopaxillus giganteus* handeln, konnte durch mikroskopische Überprüfung bestätigt werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/leucopaxillus-giganteus-riesenkrempentrichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tapinella_panuoides_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-01.11.2022:  Unser aktueller [Fundkorbpilz](AA "Glossar-") gehört zu den Kremplingen, die [saprobiontisch](saprobiontisch "Glossar") an Holz wachsen und für die deshalb eine eigene Gattung geschaffen worden ist: die Holzkremplinge. Zu ihnen gehören gerade mal zwei Arten, von denen der Muschelkrempling *Tapinella panuides* die weitaus seltenere ist und sich aufgrund ihrer muschelförmigen Hüte und nahezu fehlenden Stiele deutlich vom häufigen [Samtfußkrempling](/pilze/tapinella-atrotomentosa-samtfußkrempling) unterscheidet. Nach der Umgruppierung sollte er jetzt Muschelholzkrempling heißen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tapinella-panuoides-muschelkrempling)
 
 <div style="clear:  both"></div>
 
