@@ -7,7 +7,7 @@ navi: pilzberatung
 
 Dieter Gewalt, Rhein-Main-Gebiet   dgewalt@web.de   Tel.: 0176 - 22953310
 
-Brigitte Koch, Main-Kinzig-Kreis  koch.birstein@freenet.de      Tel. 06054 907 125
+Brigitte Koch, Main-Kinzig-Kreis  koch.birstein@freenet.de      Tel.: 06054 907 125
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/pilzberatung_01_dg.jpg" %}
