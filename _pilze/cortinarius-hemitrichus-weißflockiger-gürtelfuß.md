@@ -5,6 +5,7 @@ beschreibung:
   referenz: (Pers.) Fr. 1838
   erlaeuterung: hemitrichus = halb behaart
   familie: Cortinariaceae
+  synonym: "Untergattung: Telamonia"
 profil:
   aktualisiert: 2022-11-04
   autor_in: Dieter Gewalt
