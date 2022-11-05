@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-04.11.2022: [Pholiota squarrosa - Sparriger Schüppling](/pilze/pholiota-squarrosa-sparriger-schüppling)  
+05.11.2022: [Amanita cecilia - Riesen-Scheidenstreifling](/pilze/amanita-ceciliae-riesen-scheidenstreifling)  
+04.11.2022: [Pholiota squarrosa - Sparriger Schüppling](/pilze/pholiota-squarrosa-sparriger-schüppling)\
 03.11.2022: [Rickenella fibula - Orangeroter Heftelnabeling](/pilze/rickenella-fibula)\
 02.11.2022: [Leucopaxillus giganteus - Riesenkrempentrichterling](/pilze/leucopaxillus-giganteus-riesenkrempentrichterling)\
 01.11.2022: [Tapinella panuoides - Muschelkrempling](/pilze/tapinella-panuoides-muschelkrempling)
