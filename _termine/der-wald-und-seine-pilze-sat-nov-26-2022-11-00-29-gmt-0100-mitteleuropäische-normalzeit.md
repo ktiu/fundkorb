@@ -1,6 +1,6 @@
 ---
 aktivitaet: Der Wald und seine Pilze
-zeit: 2022-11-26T10:00:29.551Z
+zeit: 2022-11-20T10:00:29.551Z
 bis: ""
 anmeldung_offen: true
 anmeldung_noetig: false
