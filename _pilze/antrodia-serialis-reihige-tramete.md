@@ -33,6 +33,6 @@ Manche Vorkommen, die man als Konglomerat bezeichnen könnte, bedecken mitunter 
 {% include bild.html datei="/bilder/antrodia_serialis_04_wp.jpg" %}
 {% include abbildung_ende.html legende="Foto: Werner Pohl" %}
 
-Der ein- oder auch mehrjährige Pilz ist ausschließlich an totem Nadelholz, ganz überwiegend an Fichte zu finden. Er lebt [saprophytisch](saprophytisch "Glossar") und verursacht eine Braunfäule im Holz. Frische Fruchtkörper erscheinen ab Frühsommer.
+Der ein- oder auch mehrjährige Pilz ist ausschließlich an totem Nadelholz, ganz überwiegend an Fichte zu finden. Er lebt [saprobiontisch](<saprobiontisch "Glossar">) und verursacht eine Braunfäule im Holz. Frische Fruchtkörper erscheinen ab Frühsommer.
 
 Die Gattung *Antrodia* ist in Deutschland mit acht Arten vertreten, von denen die Reihige Tramete die mit Abstand häufigste, aber keinesfall sehr häufig ist.
