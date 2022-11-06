@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/armillaria_ostoyae_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.11.2022:  Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus dem Taunus. Ein mit Fichten bestandener Hang bei Arnoldshain (in der Tat: die Bäume standen noch!) war, wie meine dort lebende Tochter berichtete, übersät mit üppigen Vorkommen des Dunklen Hallimasch *Armillaria ostoyae*. Es ist damit zu rechnen, dass die Pilze gerade dabei waren, Hand in Hand mit Borkenkäfern auch diesen Fichtenbestand zu zerstören. Speisepilzsammler mögen sich an den noch jungen Fruchtkörpern erfreuen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/armillaria-ostoyae-dunkler-hallimasch)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_ceciliae_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
