@@ -17,7 +17,9 @@ literatur:
 ---
 Die Untergattung *Telamonia* (Gürtelfüße) gilt innerhalb der Haarschleierlinge als besonders schwierig, aber auch in ihr gibt es gut charakterisierte Arten, die makroskopisch bestimmbar sind. Zu diesen zählt der hier gezeigte Weißflockige Gürtelfuß - vorausgesetzt, man hat junge Fruchtkörper zur Verfügung. Entscheidend ist die Merkmalskombination *"abstehende weißliche Hutschüppchen + Vorkommen bei Birken + kein auffälliger Geruch"*. Bei älteren Exemplaren sind die Schüppchen nicht mehr hell oder fehlen; dann hilft nur Mikroskopieren weiter. Oder sie riechen nach Pelargonienblätter (Balkongeranien), dann haben wir es mit *Cortinarius flexipes*, dem Pelargonien-Gürtelfuß zu tun, der Standorte in Fichtenwäldern bevorzugt.
 
-
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/cortinarius_hemitrichus_03_bm.jpg" %}
+{% include abbildung_ende.html legende="Foto: Bernd Miggel" %}
 
 Die Hüte sind jung kegelig, später abgeflacht und bis zu 4 cm breit, mit stumpfem oder spitzem Buckelchen in der Mitte. Die Lamellen sind jung graulila mit etwas helleren Schneiden, verfärben durch ausfallenden Sporenstaub tabakbraun. Bräunlich ist auch das dünne Hutfleisch, das schwach würzig riecht und mild schmeckt. Die schlanken Stiele werden 3 bis 5 cm lang, erscheinen durch weiße Velumreste mehr oder weniger genattert, verkahlen aber im Alter. Erscheinungszeit ist Herbst bis Spätherbst.
 
