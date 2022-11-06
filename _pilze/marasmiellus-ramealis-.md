@@ -6,7 +6,7 @@ beschreibung:
   familie: Omphalotaceae
   erlaeuterung: ramealis = auf Ästen oder Zweigen
 profil:
-  aktualisiert: 2020-12-16
+  aktualisiert: 2022-11-06
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
