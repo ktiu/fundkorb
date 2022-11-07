@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cortinarius_hemitrichus_03_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+07.11.2022:  Beim Anblick dieser Pilze dachte ich sofort an einen kleinen Haarschleierling der Untergattung *Telamonia*, den Pelargonien-Gürtelfuß, der deutlich nach Geranienblättern riecht. Die Nase klärte mich über meinen Irrtum auf. Kein Geruch - also konnte es nur der Weißflockige Gürtelfuß *Cortinarius hemitrichus* sein. Zu diesem aktuellen [Fundkorbpilz](AA "Glossar-") passte auch der Standort unter Birken und ein Sporencheck bestätigte meine Schlußfolgerung. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cortinarius-hemitrichus-weißflockiger-gürtelfuß)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/armillaria_ostoyae_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,30 +59,6 @@ footer_scripts:
 04.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist mit dem Sparrigen Schüppling *Pholiota squarrosa* einer der fotogensten Pilze. Trockener schuppiger Hut und ebenso trockener schuppiger Stiel sind seine markanten Kennzeichen. Er wächst parasitisch an Laub- und Nadelbäumen, in Streuobstwiesen gern an Obstbäumen, an denen er eine intensive Weißfäule erzeugt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/pholiota-squarrosa-sparriger-schüppling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.11.2022:  Auf einen riesengroßen folgt nun ein zierlich kleiner aktueller [Fundkorbpilz](AA "Glossar-"), der Orangegerote Heftelnabeling *Rickenella fibula*. Manche meinen, es sei eine Art, in die man sich verlieben könne. Dazu tragen neben der attraktiven Farbe auch die in einem eleganten Bogen am Stiel herablaufenden Lamellen bei. Wenn man die Augen offen hält, kann man ihn vom Frühsommer bis in den Spätherbst zwischen Moosen finden, egal, ob sich diese in Rasenflächen oder auf Totholz befinden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/rickenella-fibula)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leucopaxillus_-giganteus_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.11.2022:  *Dietrich Schiebler* hat uns auf einen Fund bei Heusenstamm-Rembrücken aufmerksam gemacht, der alle Beteiligten in wahre Begeisterung versetzte und deshalb aktueller [Fundkorbpilz](AA "Glossar-") werden muss. Auf einer sattgrünen Wiese im Osten der Gemeinde wuchsen in einem Hexenring von 55 m Durchmesser ca. 60 riesige in kleineren Gruppen zusammengeknäuelte weißliche Blätterpilze mit wahrhaft gigantischen Ausmaßen. Der Verdacht, es könnte sich um ein reichliches Vorkommen des Riesenkrempentrichterlings *Leucopaxillus giganteus* handeln, konnte durch mikroskopische Überprüfung bestätigt werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leucopaxillus-giganteus-riesenkrempentrichterling)
 
 <div style="clear:  both"></div>
 
