@@ -19,7 +19,7 @@ Unter den drei häufigen und büschelig an totem Holz wachsenden Schwefelkopfart
 
 Falls Unsicherheit bei der Beurteilung der Lamellenfarbe besteht, hilft eine Geschmacksprobe (immer ausspucken!) weiter. Der Graublättrige Schwefelkopf wächst ausschließlich an totem Nadelholz, der Ziegelrote an Laubholz, der Grünblättrige sowohl an Laub- wie an Nadelholz.
 
-Von oben betrachtet sind vor allem Grau- und Grünblättriger Schwefelkopf kaum sicher auseinanderzuhalten. Der Grünblättrige hat jung oft rote Farbtöne auf dem Hut, der Graublättrige nicht.
+Von oben betrachtet sind vor allem Grau- und Grünblättriger Schwefelkopf kaum sicher auseinanderzuhalten. Der Grünblättrige hat jung oft rote Farbtöne auf dem Hut, der Graublättrige nicht. Außerdem soll der Graublättrige leicht nach Bittermandel oder Marzipan riechen. Dieser Geruch deutet auf einen Gehalt an Blausäure hin, der jedoch wie beim Nelkenschwindlung keine Beeinträchtigung seiner Essbarkeit darstellt, sofern die Pilze ausreichend erhitzt worden sind.
 
 ##### Kurzbeschreibung:
 
