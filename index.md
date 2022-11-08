@@ -12,6 +12,22 @@ footer_scripts:
 
 - - -
 
+Exkursion "Der Wald und seine Pilze" am 20. November 2022 [\--> Termine](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stropharia_caerulea_01_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+09.11.2022:  Es gibt nur wenige Pilze mit blaugrüner Hutfarbe. Der bekannteste ist wohl der Grünspanträuschling. Sein Doppelgänger, der Blaue Träuschling  *Stropharia caerulea*, ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). In manchen Wäldern, zum Beispiel in der Umgebung von München, ist er gerade häufig anzutreffen. In der Rhein-Main-Ebene eher Fehlanzeige. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stropharia-caerulea-blauer-träuschling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_excelsa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -31,18 +47,6 @@ footer_scripts:
 07.11.2022:  Beim Anblick dieser Pilze dachte ich sofort an einen kleinen Haarschleierling der Untergattung *Telamonia*, den Pelargonien-Gürtelfuß, der deutlich nach Geranienblättern riecht. Die Nase klärte mich über meinen Irrtum auf. Kein Geruch - also konnte es nur der Weißflockige Gürtelfuß *Cortinarius hemitrichus* sein. Zu diesem aktuellen [Fundkorbpilz](AA "Glossar-") passte auch der Standort unter Birken und ein Sporencheck bestätigte meine Schlußfolgerung. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cortinarius-hemitrichus-weißflockiger-gürtelfuß)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/armillaria_ostoyae_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.11.2022:  Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus dem Taunus. Ein mit Fichten bestandener Hang bei Arnoldshain (in der Tat: die Bäume standen noch!) war, wie meine dort lebende Tochter berichtete, übersät mit üppigen Vorkommen des Dunklen Hallimasch *Armillaria ostoyae*. Es ist damit zu rechnen, dass die Pilze gerade dabei waren, Hand in Hand mit Borkenkäfern auch diesen Fichtenbestand zu zerstören. Speisepilzsammler mögen sich an den noch jungen Fruchtkörpern erfreuen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/armillaria-ostoyae-dunkler-hallimasch)
 
 <div style="clear:  both"></div>
 
