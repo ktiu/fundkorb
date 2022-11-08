@@ -63,5 +63,5 @@ Bei meinen Recherchen zu einem anderen Pilz (*Dendrocollybia racemosa*) bin ich 
 Aus der Gruppe der Schwärztäublinge sind im Fundkorb außerdem beschrieben:
 
 [Dichtblättriger Schwärztäubling = Russula densifolia](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)
-[Scharfblättriger Schwärztäubling = Russula nigricans](/pilze/russula-nigricans-scharfblättriger-schwärztäubling)
+[Scharfblättriger Schwärztäubling = Russula nigricans](/pilze/russula-nigricans-scharfblättriger-schwärztäubling)  
 [Menthol-Schwärztäubling = Russula albonigra](/pilze/russula-albonigra-menthol-schwärztäubling)
