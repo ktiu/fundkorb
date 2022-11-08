@@ -12,7 +12,15 @@ footer_scripts:
 
 - - -
 
-##### Nächster Pilzberatungstermin im Gesundheitsamt Frankfurt am Main: Sonntag, 06. November, 17 - 20 Uhr [\-->](/termine)
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_excelsa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Graue Wulstling *Amanita excelsa*. Er gilt als harmloser Doppelgänger des Perlpilzes, den man aber wegen seines muffigen Geschmacks nicht auf dem Teller haben möchte. Was relativ leicht zu vermeiden ist. Im Gegensatz zum Perlpilz zeigt er nie und nirgendwo rötliche Farbtöne. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-excelsa-grauer-wulstling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -35,30 +43,6 @@ footer_scripts:
 06.11.2022:  Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus dem Taunus. Ein mit Fichten bestandener Hang bei Arnoldshain (in der Tat: die Bäume standen noch!) war, wie meine dort lebende Tochter berichtete, übersät mit üppigen Vorkommen des Dunklen Hallimasch *Armillaria ostoyae*. Es ist damit zu rechnen, dass die Pilze gerade dabei waren, Hand in Hand mit Borkenkäfern auch diesen Fichtenbestand zu zerstören. Speisepilzsammler mögen sich an den noch jungen Fruchtkörpern erfreuen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/armillaria-ostoyae-dunkler-hallimasch)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_ceciliae_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-05.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesen-Scheidenstreifling *Amanita ceciliae*. Bei einer Exkursion des Mykologischen Arbeitskreises Hornberg im südlichen Kraichgau gehörte er schon wegen seiner Größe zu den beeindruckendsten Funden. Hutdurchmesser von 15 cm waren hier keine Seltenheit. Manche der zahlreichen schweren Fruchtkörper saßen so locker im Boden, dass sie schon bei leichter Berührung umfielen. (Bernd Miggel)
-
-[Mehr lesen >](/pilze/amanita-ceciliae-riesen-scheidenstreifling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pholiota_squarrosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist mit dem Sparrigen Schüppling *Pholiota squarrosa* einer der fotogensten Pilze. Trockener schuppiger Hut und ebenso trockener schuppiger Stiel sind seine markanten Kennzeichen. Er wächst parasitisch an Laub- und Nadelbäumen, in Streuobstwiesen gern an Obstbäumen, an denen er eine intensive Weißfäule erzeugt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pholiota-squarrosa-sparriger-schüppling)
 
 <div style="clear:  both"></div>
 
