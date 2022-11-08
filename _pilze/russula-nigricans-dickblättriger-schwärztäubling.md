@@ -59,3 +59,9 @@ Als Speisepilz wird er wegen seines düsteren Aussehens kaum in Batrcht gezogen 
 </div>
 
 Bei meinen Recherchen zu einem anderen Pilz (*Dendrocollybia racemosa*) bin ich übrigens auf einen amüsanten Druckfehler gestoßen. In *Die Großpilze Baden-Württembergs* Band 3 Seite 201 (*Collybia racemosa*) wird der wissenschaftliche Name des Dickblättrigen Schwärztäublings mit Russula nigri**gans** angegeben. Gehört er jetzt als *"schwarze Gans"* in die Verwandtschaft der Entenvögel?
+
+Aus der Gruppe der Schwärztäublinge sind im Fundkorb außerdem beschrieben:
+
+[Dichtblättriger Schwärztäubling = Russula densifolia](/pilze/russul-densifolia-dichtblättriger-schwärztäubling)
+[Scharfblättriger Schwärztäubling = Russula nigricans](/pilze/russula-nigricans-scharfblättriger-schwärztäubling)
+[Menthol-Schwärztäubling = Russula albonigra](/pilze/russula-albonigra-menthol-schwärztäubling)
