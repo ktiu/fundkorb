@@ -53,5 +53,5 @@ Der Scharfblättrige Schwärztäubling wächst vom Sommer bis in den Spätherbst
 Aus der Gruppe der Schwärztäublinge sind im Fundkorb außerdem beschrieben:
 
 [Dickblättriger Schwärztäubling = Russula nigricans](/pilze/russula-nigricans-dickblättriger-schwärztäubling)
-[Dichtblättriger Schwärztäubling = Russula densifolia](/pilze/lepista-densifolia-dichtblättriger-rötelritterling)
+[Dichtblättriger Schwärztäubling = Russula densifolia](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)
 [Menthol-Schwärztäubling = Russula albonigra](/pilze/russula-albonigra-menthol-schwärztäubling)
