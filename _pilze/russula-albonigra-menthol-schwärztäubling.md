@@ -51,3 +51,9 @@ Eine solche Gelegenheit könnte auf sich warten lassen, denn der Menthol-Schwär
     </tr>
   </table>
 </div>
+
+Aus der Gruppe der Schwärztäublinge sind im Fundkorb außerdem beschrieben:
+
+[Dickblättriger Schwärztäubling = Russula nigricans](/pilze/russula-nigricans-dickblättriger-schwärztäubling)  
+[Dichtblättriger Schwärztäubling = Russula densifolia](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)
+[Scharfblättriger Schwärztäubling = Russula acrifolia](/pilze/russula-acrifolia-scharfblättriger-schwärztäubling)
