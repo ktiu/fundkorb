@@ -54,5 +54,5 @@ Der Dichtblättrige Schwärztäubling ist essbar, gehört aber sicher nicht zu d
 Aus der Gruppe der Schwärztäublinge sind im Fundkorb außerdem beschrieben:
 
 [Dickblättriger Schwärztäubling = Russula nigricans](/pilze/russula-nigricans-dickblättriger-schwärztäubling)
-[Scharfblättriger Schwärztäubling = Russula densifolia](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)
+[Scharfblättriger Schwärztäubling = Russula acrifolia](/pilze/russula-acrifolia-scharfblättriger-schwärztäubling)
 [Menthol-Schwärztäubling = Russula albonigra](/pilze/russula-albonigra-menthol-schwärztäubling)
