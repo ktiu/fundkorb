@@ -13,7 +13,7 @@ hauptbild:
   datei: /bilder/russula_acrifolia_04_hs.jpg
   legende: "Foto: Hans Stern"
 ---
-Die hier vorgestellte Art gehört zu den Schwärztäublingen, einer gut überschaubaren Gruppe von Täublingen. Wie der Name schon sagt, sind die dicht stehenden Lamellen scharf, das Fleisch in Hut und Stiel aber mild oder höchstens etwas pikant. Mit der Merkmalskombination *"scharfe Lamellen + Huthaut etwas speckig glänzend und klebrig"* ist der Pilz innerhalb der Gruppe gut gekennzeichnet.
+Die hier vorgestellte Art gehört zu den Schwärztäublingen (Nigricantinae), einer gut überschaubaren Gruppe von Täublingen. Wie der Name schon sagt, sind die dicht stehenden Lamellen scharf, das Fleisch in Hut und Stiel aber mild oder höchstens etwas pikant. Mit der Merkmalskombination *"scharfe Lamellen + Huthaut etwas speckig glänzend und klebrig"* ist der Pilz innerhalb der Gruppe gut gekennzeichnet.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_acrifolia_01_dg.jpg" nocrop=true gross=true %}
