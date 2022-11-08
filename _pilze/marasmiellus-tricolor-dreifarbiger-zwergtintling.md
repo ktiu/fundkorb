@@ -17,7 +17,7 @@ literatur:
 ---
 Diesen seltenen Zwergschwindling fand ich bei einer Kartierungstour mit Michael Hornung am 11. August 2010 auf euber Grasfläche im Friedhof Egelsbach. Die Bestimmung gelang damals mühelos mit dem Moser in nur drei Schritten:
 
-1. Stiel von Anfang an oder später in der unteren Hälfte graubraun, rußbraun, olivschwärzlich, blaugrau. Lamellen entfernt, bisweile fehlend --> 2 (die Alternative 1 *\--> 6 führte zu keiner passenden Art)\
+1. Stiel von Anfang an oder später in der unteren Hälfte graubraun, rußbraun, olivschwärzlich, blaugrau. Lamellen entfernt, bisweilend fehlend --> 2 (die Alternative 1 *\--> 6 führte zu keiner passenden Art)\
    2*. Größere Fruchtkörper, Stiel meist über 5 mm lang, Hut mindestens 5 mm breit --> 3\
    3*. Auf faulenden Gräsern oder Pflanzenresten, nicht auf Zweigen. Lmellen ± herablaufend, Huthauthyphen bürstenförmig -->5  
 2. Hut weiß bis creme, 0,6 - 1 cm, Basis angeschwollen, berührt grau oder rußig, Spitze weiß. Lamellen creme mit leicht fleischfarbenem Ton. An faulenden Grasresten = **M. tricolor**
