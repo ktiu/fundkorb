@@ -17,6 +17,18 @@ Exkursion "Der Wald und seine Pilze" am 20. November 2022 [\--> Termine](/termin
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmiellus_vaillantii_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Matte Zwergschwindling *Marasmiellus vaillantii*. Seine wattig weichen, äußerst elastischen und flatterigen Hüte werden maximal 1,5 cm breit, die dünnen, hell rotbraunen, nur an der Spitze weißen Stiele werden bis zu 3 cm lang. Vetrocknete Zwergschwindlinge leben im Gegensatz zu den echten Schwindlingen nach erneuter Befeuchtung nicht wieder auf. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/marasmiellus-vaillantii-matter-zwergschwindling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stropharia_caerulea_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
