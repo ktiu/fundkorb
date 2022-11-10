@@ -12,10 +12,6 @@ footer_scripts:
 
 - - -
 
-Exkursion "Der Wald und seine Pilze" am 20. November 2022 [\--> Termine](/termine)
-
-- - -
-
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmiellus_vaillantii_01_dg.jpg" %}
 {% include abbildung_ende.html %}
