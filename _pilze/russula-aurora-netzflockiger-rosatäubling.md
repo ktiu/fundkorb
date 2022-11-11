@@ -22,8 +22,7 @@ literatur:
   - text: "MICHAEL, M., Hennig, B. & Kreisel, H. (1983): Handbuch für Pilzfreunde
       Band V Blätterpilze – Milchlinge und Täublinge: Nr. 102"
   - url: https://de.wikipedia.org/wiki/Netzflockiger_Rosa-T%C3%A4ubling
-  - url: https://maps.lgrb-bw.de/
-    text: LGRB-Kartenviewer
+  - {}
 ---
 **Kurzbeschreibung:** Mittelgroßer, mit Laubbäumen vergesellschafteter, milder, geruchloser Täubling mit rotem Hut, weißen Lamellen, weißem, oben netzig gepudertem Stiel, zu einem Drittel abziehbarer Huthaut, roter Sulfovanillin-Reaktion, weißem Sporenstaub und in der Huthaut inkrustierten [Primordialhyphen](Hyphen "Glossar").
 
