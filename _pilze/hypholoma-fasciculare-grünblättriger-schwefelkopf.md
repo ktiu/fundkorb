@@ -14,6 +14,7 @@ hauptbild:
   datei: /bilder/hypholoma_fasciculare_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/h/Hypholoma_fasciculare.html
+  - url: http://tintling.com/pilzbuch/arten/h/Hypholoma_fasciculare.html
 ---
 Kein Waldspaziergänger, der diese Pilze nicht schon gesehen hat! An einem einzigen Baumstumpf und am Boden dem Wurzelverlauf folgend sind sie manchmal zu Hunderten zu sehen. Die Hüte sind von schwefelgelber Farbe, und daher haben sie ihren Namen: Schwefelköpfe!
 
