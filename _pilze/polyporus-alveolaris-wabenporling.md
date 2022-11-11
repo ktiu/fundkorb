@@ -25,7 +25,7 @@ Dass es sich bei dem hier abgebildeten Fund um ein sehr kleines Exemplar handelt
 {% include bild.html datei="/bilder/polyporus_alveolaris_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-*Polyporus alveolaris* ist eine wärmeliebende Art mit südlich orientierter Verbreitung. Nördlich der Mainlinie (ca. 50. Breitengrad) befinden sich im Verbreitungsatlas (Krieglsteiner, 1991) nur drei Fundpunkte. Nach meinen Beobachtungen ist sie zumindest im Rhein-Main-Gebiet deutlich in Zunahme begriffen.
+*Polyporus alveolaris* ist eine wärmeliebende Art mit südlich orientierter Verbreitung. Nördlich der Mainlinie (ca. 50. Breitengrad) befinden sich im Verbreitungsatlas (Krieglsteiner, 1991) nur drei Fundpunkte. Nach meinen Beobachtungen ist sie zumindest im Rhein-Main-Gebiet deutlich in Zunahme begriffen, inzwischen wohl auch nördlich der Mainlinie.
 
 Die Synonymieliste im Index Fungorum zeigt, dass sich frühere Mykologen über seine Gattungszugehörigkeit sehr uneinig waren. Unter den verschiedensten [Epitheta](Epithet "Glossar") ist er zu Boletus, Cantharellus, Daedalea, Favolus, Hexagonia und Merulius gestellt worden, obwohl die Gattung *Polyporus* schon seit 1763 besteht. Neue DNA-Forschungen zeigen, dass *Polyporus mori* und *P. alveolaris* identisch sind. Die meisten heutigen Autoren (Index Fungorum, Krieglsteiner 2000) geben P. alveolaris den Vorrang, bei *Gerhardt* (2011) ist *alveolaris* Synonym von *mori*. Neuerdings soll er *Neofavolus alveolaris (DC.) Sotome & T. Hatt (2016*) heißen. Dann wären in der einst riesigen Gattung Polyporus nur noch zwei europäische Arten verblieben: [Polyporus tuberaster, der Sklerotienporling](/pilze/polyporus-tuberaster-sklerotienporling) und [Polyporus umbellatus, der Eichhase](/pilze/polyporus-umbellatus-eichhase).
 
