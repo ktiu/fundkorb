@@ -12,6 +12,21 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include abbildung_ende.html %}
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_luridus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Netzstielige Hexenröhrling  *Boletus luridus*, den man in den Wäldern des Rhein-Main-Gebiets nur selten findet, in bebauten Gebieten dagegen um so häufiger. Hier haben oft Bautätigkeiten, auch länger zurückliegende, für einen Kalkeintrag in die Böden gesorgt und damit beste Voraussetzungen für das Wachstum kalkliebender Pilzarten wie unsere *"Netzhexen"* geschaffen. In Dietzenbach standen sie gestern noch gut sichtbar in einem Kita-Gelände, wo man sie inzwischen in Sorge um die lieben Kleinen, die ja gern mal was in den Mund stecken, entfernt hat. Sie sind wie fast alle Pilze roh giftig, ausreichend erhitzt aber lecker und gut verträglich. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/boletus-luridus-netzstieliger-hexenröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmiellus_vaillantii_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -43,18 +58,6 @@ footer_scripts:
 08.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Graue Wulstling *Amanita excelsa*. Er gilt als harmloser Doppelgänger des Perlpilzes, den man aber wegen seines muffigen Geschmacks nicht auf dem Teller haben möchte. Was relativ leicht zu vermeiden ist. Im Gegensatz zum Perlpilz zeigt er nie und nirgendwo rötliche Farbtöne. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-excelsa-grauer-wulstling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cortinarius_hemitrichus_03_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-07.11.2022:  Beim Anblick dieser Pilze dachte ich sofort an einen kleinen Haarschleierling der Untergattung *Telamonia*, den Pelargonien-Gürtelfuß, der deutlich nach Geranienblättern riecht. Die Nase klärte mich über meinen Irrtum auf. Kein Geruch - also konnte es nur der Weißflockige Gürtelfuß *Cortinarius hemitrichus* sein. Zu diesem aktuellen [Fundkorbpilz](AA "Glossar-") passte auch der Standort unter Birken und ein Sporencheck bestätigte meine Schlußfolgerung. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cortinarius-hemitrichus-weißflockiger-gürtelfuß)
 
 <div style="clear:  both"></div>
 
