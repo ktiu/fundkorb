@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-10.11.2022: [Marasmiellus vaillantii - Matter Zwergschirmling](/pilze/marasmiellus-vaillantii-matter-zwergschwindling)  
+11.11.2022: [Boletus luridus - Netzstieliger Hexenröhrling](/pilze/boletus-luridus-netzstieliger-hexenröhrling)  
+10.11.2022: [Marasmiellus vaillantii - Matter Zwergschirmling](/pilze/marasmiellus-vaillantii-matter-zwergschwindling)\
 09.11.2022: [Stropharia caerulea - Blauer Träuschling](/pilze/stropharia-caerulea-blauer-träuschling)\
 08.11.2022: [Amanita excelsa - Grauer Wulstling](/pilze/amanita-excelsa-grauer-wulstling)\
 07.11.2022: [Cortinarius hemitrichus - Weißflockiger Gürtelfuß](/pilze/cortinarius-hemitrichus-weißflockiger-gürtelfuß)\
