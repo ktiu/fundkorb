@@ -14,7 +14,6 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/h/Hypholoma_capnoides.html
 ---
-
 Unter den drei häufigen und büschelig an totem Holz wachsenden Schwefelkopfarten gibt es zwei grünblättrige mit bitterem oder zumindest bitterlichem Geschmack (*[Hypholoma fasciculare](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)* und *[H. lateritium](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)*) und einen mit grauen Lamellen und nicht bitterem Geschmack (*Hypholoma capnoides*). Nur letztere ist für die Küche geeignet und sogar ausdrücklich zu empfehlen, die beiden anderen sind magen-/darmgiftig bzw. giftverdächtig, auf jeden Fall ungenießbar. Weil die graue Lamellenfarbe an Zigarettenrauch erinnert, wird der Pilz auch *Rauchblättriger* oder *Rauchgraublättriger* Schwefelkopf genannt.
 
 Falls Unsicherheit bei der Beurteilung der Lamellenfarbe besteht, hilft eine Geschmacksprobe (immer ausspucken!) weiter. Der Graublättrige Schwefelkopf wächst ausschließlich an totem Nadelholz, der Ziegelrote an Laubholz, der Grünblättrige sowohl an Laub- wie an Nadelholz.
@@ -34,7 +33,7 @@ Von oben betrachtet sind vor allem Grau- und Grünblättriger Schwefelkopf kaum 
 {% include bild.html datei="/bilder/hypholoma_capnoides_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Wer Schwefelköpfe nicht eindeutig von anderen büschelig an Totholz wachsenden Blätterpilzen unterscheiden kann, sollte unbedingt aufs Sammeln verzichten.
+Wer Schwefelköpfe und den *[Gifthäubling](/pilze/galerina-marginata-gifthäubling)* nicht eindeutig von anderen büschelig an Totholz wachsenden Blätterpilzen unterscheiden kann, sollte unbedingt aufs Sammeln verzichten.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hypholoma_capnoides_03_gg.jpg" %}
