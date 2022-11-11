@@ -12,8 +12,6 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
-{% include abbildung_ende.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_luridus_01_dg.jpg" %}
