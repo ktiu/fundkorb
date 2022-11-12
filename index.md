@@ -12,6 +12,17 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_aurora_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+12.11.2022:  Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist nach der römischen Göttin der Morgenröte benannt, vermutlich wegen seiner rötlichen Hutfarbe. Es handelt sich um den Netzflockigen Rosatäubling *Russula aurora*. *Bernd Miggel* hat ihn bei Keltern im baden-württembergischen Enzkreis gefunden und nach allen Regeln der Mikroskopierkunst bestimmt. Täublingskennern ist er auch unter dem Namen *Russula velutipes* bekannt, was auf einen samtigen Fuß hindeutet. *"Netzflockig"* scheint mir aber die etwas passendere Beschreibung seiner Stielbekleidung zu sein.
+
+[Mehr lesen >](/pilze/russula-aurora-netzflockiger-rosatäubling)
+
+<div style="clear:  both"></div>
+
+- - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_luridus_01_dg.jpg" %}
@@ -44,18 +55,6 @@ footer_scripts:
 09.11.2022:  Es gibt nur wenige Pilze mit blaugrüner Hutfarbe. Der bekannteste ist wohl der Grünspanträuschling. Sein Doppelgänger, der Blaue Träuschling  *Stropharia caerulea*, ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). In manchen Wäldern, zum Beispiel in der Umgebung von München, ist er gerade häufig anzutreffen. In der Rhein-Main-Ebene eher Fehlanzeige. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/stropharia-caerulea-blauer-träuschling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_excelsa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Graue Wulstling *Amanita excelsa*. Er gilt als harmloser Doppelgänger des Perlpilzes, den man aber wegen seines muffigen Geschmacks nicht auf dem Teller haben möchte. Was relativ leicht zu vermeiden ist. Im Gegensatz zum Perlpilz zeigt er nie und nirgendwo rötliche Farbtöne. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-excelsa-grauer-wulstling)
 
 <div style="clear:  both"></div>
 
