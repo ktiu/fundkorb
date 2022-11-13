@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rhodocybe_gemina_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Würzige Tellerling *Rhodocybe gemina*, den wir gestern am Dornsee bei Dietzenbach gefunden haben. Ein guter Speisepilz, den kaum einer kennt. Man ist in der Regel ziemlich ratlos, wenn man ihm zum ersten Mal begegnet. Hat man aber die Sporenpulverfarbe ermittelt, kommt man der Problemlösung näher. Bei rosa denkt man an Rötlinge. Wie ein typischer Rötling sieht er aber nicht aus und bei der Suche nach anderen Rosasporern kommt die Gattung *Rhodocybe* ins Spiel, in der man zwangsläufig auf den Würzigen Tellerling stößt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/rhodocybe-gemina-würziger-tellerling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_aurora_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 11.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Netzstielige Hexenröhrling  *Boletus luridus*, den man in den Wäldern des Rhein-Main-Gebiets nur selten findet, in bebauten Gebieten dagegen um so häufiger. Hier haben oft Bautätigkeiten, auch länger zurückliegende, für einen Kalkeintrag in die Böden gesorgt und damit beste Voraussetzungen für das Wachstum kalkliebender Pilzarten wie unsere *"Netzhexen"* geschaffen. In Dietzenbach standen sie gestern noch gut sichtbar in einem Kita-Gelände, wo man sie inzwischen in Sorge um die lieben Kleinen, die ja gern mal was in den Mund stecken, entfernt hat. Sie sind wie fast alle Pilze roh giftig, ausreichend erhitzt aber lecker und gut verträglich. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/boletus-luridus-netzstieliger-hexenröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmiellus_vaillantii_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Matte Zwergschwindling *Marasmiellus vaillantii*. Seine wattig weichen, äußerst elastischen und flatterigen Hüte werden maximal 1,5 cm breit, die dünnen, hell rotbraunen, nur an der Spitze weißen Stiele werden bis zu 3 cm lang. Vetrocknete Zwergschwindlinge leben im Gegensatz zu den echten Schwindlingen nach erneuter Befeuchtung nicht wieder auf. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/marasmiellus-vaillantii-matter-zwergschwindling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stropharia_caerulea_01_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-09.11.2022:  Es gibt nur wenige Pilze mit blaugrüner Hutfarbe. Der bekannteste ist wohl der Grünspanträuschling. Sein Doppelgänger, der Blaue Träuschling  *Stropharia caerulea*, ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). In manchen Wäldern, zum Beispiel in der Umgebung von München, ist er gerade häufig anzutreffen. In der Rhein-Main-Ebene eher Fehlanzeige. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/stropharia-caerulea-blauer-träuschling)
 
 <div style="clear:  both"></div>
 
