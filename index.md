@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/volvariella_surrecta_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.11.2022:  Nicht alle Tage zu finden und daher aktueller [Fundkorbpilz](AA "Glossar-"): der Parasitische Scheidling *Volvariella surrecta*. Im Wald zwischen Heusenstamm und Dietzenbach haben sich seine Fruchtkörper prächtig entwickelt und die befallenen Nebelkappen übel zugerichtet. Mit seiner wollig-filzigen Hutoberseite ähnelt er dem [Wolligen Scheidling *Volvariella bombycina*](/pilze/volvariella-bombycina-wolliger-scheidling), der aber an Laubbäumen wächst.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/volvariella-surrecta-parasitischer-scheidling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rhodocybe_gemina_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
