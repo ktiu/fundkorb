@@ -18,7 +18,7 @@ literatur:
 ---
 Wenn im Herbst die herabgefallenen Blätter den Waldboden bedecken, sind Pilze im Allgemeinen und braunhütige im Besonderen leicht zu übersehen. Nicht so Träuschlinge mit blauen und grünblauen Hüten. Die fallen im braunen Laub wegen ihrer im Pilzreich ungewöhnlichen Farbe auf.
 
-Bei der Bestimmung ist es nicht ganz so einfach. Oft wird der Blaue Träuschling *Stropharia caerulea* mit dem Grünspanträuschling *Stropharia aeruginosa* verwechselt. Von oben betrachtet sehen die beiden recht ähnlich aus. Der schmierig schleimige Hut des Blauen Träuschlings erreicht einen Durchmesser von 4 cm. Die Farbe ist nie ganz einheitlich. Der Grundton ist bläulich mit grünen, cremefarbenen und blass gelblichen Anteilen. Der Hutrand ist oft mit Velumflocken besetzt.
+Bei der Bestimmung ist es nicht ganz so einfach. Oft wird der Blaue Träuschling *Stropharia caerulea* mit dem [Grünspanträuschling *Stropharia aeruginosa*](/pilze/stropharia-aeruginosa-grünspanträuschling) verwechselt. Von oben betrachtet sehen die beiden recht ähnlich aus. Der schmierig schleimige Hut des Blauen Träuschlings erreicht einen Durchmesser von 4 cm. Die Farbe ist nie ganz einheitlich. Der Grundton ist bläulich mit grünen, cremefarbenen und blass gelblichen Anteilen. Der Hutrand ist oft mit Velumflocken besetzt.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/stropharia_caerulea_02_jr.jpg" nocrop=true gross=true %}
