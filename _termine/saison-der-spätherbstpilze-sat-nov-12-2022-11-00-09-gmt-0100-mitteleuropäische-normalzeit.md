@@ -1,6 +1,6 @@
 ---
 aktivitaet: Saison der Spätherbstpilze
-zeit: 2022-11-12T10:00:09.897Z
+zeit: 2022-12-03T10:00:09.897Z
 bis: ""
 anmeldung_offen: false
 anmeldung_noetig: false
