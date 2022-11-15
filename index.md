@@ -14,9 +14,9 @@ footer_scripts:
 
 ##### [Neue Exkursionstermine >](/termine)
 
-3\. Dezember: Saison der Spätherbst- und Winterpilze  
-11\. Dezember: Pilzführung für Einsteiger  
-25\. Dezember: Der Weihnachtswald und seine Pilze
+3. Dezember: Saison der Spätherbst- und Winterpilze\
+11. Dezember: Pilzführung für Einsteiger\
+25. Dezember: Der Weihnachtswald und seine Pilze
 
 - - -
 
@@ -24,7 +24,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/lacrymaria_lacrymabunda_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-15.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tränender Saumpilz *Lacrymaria lacrymabunda*. Es handelt sich um eine gut kenntliche Art, die durch die Merkmalskombination *dunkel violettbraune Lamellen mit helleren Schneiden, die beim jungen Pilz oder bei feuchter Witterung winzige wasserklare Tröpfchen absondern, schwarzem Sporenpulver und angedeuteter Ringzone am Stiel* gekennzeichnet ist. Wenn man noch beachtet, dass der Pilz relativ groß und langstielig ist, die filzigen zimtbräunlichen Hüte bis zu 8 cm Durchmesser erreichen und der Hutrand mit [Velumresten](Velum "Glossar") behangen ist, sollte die Bestimmung gesichert sein. (Dieter Gewalt)
+15.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tränende Saumpilz *Lacrymaria lacrymabunda*. Es handelt sich um eine gut kenntliche Art, die durch die Merkmalskombination *dunkel violettbraune Lamellen mit helleren Schneiden, die beim jungen Pilz oder bei feuchter Witterung winzige wasserklare Tröpfchen absondern, schwarzem Sporenpulver und angedeuteter Ringzone am Stiel* gekennzeichnet ist. Wenn man noch beachtet, dass der Pilz relativ groß und langstielig ist, die filzigen zimtbräunlichen Hüte bis zu 8 cm Durchmesser erreichen und der Hutrand mit [Velumresten](Velum "Glossar") behangen ist, sollte die Bestimmung gesichert sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lacrymaria-lacrymabunda-tränender-saumpilz)
 
