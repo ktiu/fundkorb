@@ -12,6 +12,26 @@ footer_scripts:
 
 - - -
 
+##### Neue Exkursionstermine >
+
+3. Dezember: Saison der Spätherbst- und Winterpilze\
+4. Dezember: Pilzführung für Einsteiger\
+5. Dezember: Der Weihnachtswald und seine Pilze
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lacrymaria_lacrymabunda_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+15.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tränender Saumpilz *Lacrymaria lacrymabunda*. Es handelt sich um eine gut kenntliche Art, die durch die Merkmalskombination *dunkel violettbraune Lamellen mit helleren Schneiden, die beim jungen Pilz oder bei feuchter Witterung winzige wasserklare Tröpfchen absondern, schwarzem Sporenpulver und angedeuteter Ringzone am Stiel* gekennzeichnet ist. Wenn man noch beachtet, dass der Pilz relativ groß und langstielig ist, die filzigen zimtbräunlichen Hüte bis zu 8 cm Durchmesser erreichen und der Hutrand mit [Velumresten](Velum "Glossar") behangen ist, sollte die Bestimmung gesichert sein. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lacrymaria-lacrymabunda-tränender-saumpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/volvariella_surrecta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -43,18 +63,6 @@ footer_scripts:
 12.11.2022:  Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist nach der römischen Göttin der Morgenröte benannt, vermutlich wegen seiner rötlichen Hutfarbe. Es handelt sich um den Netzflockigen Rosatäubling *Russula aurora*. *Bernd Miggel* hat ihn bei Keltern im baden-württembergischen Enzkreis gefunden und nach allen Regeln der Mikroskopierkunst bestimmt. Täublingskennern ist er auch unter dem Namen *Russula velutipes* bekannt, was auf einen samtigen Fuß hindeutet. *"Netzflockig"* scheint mir aber die etwas passendere Beschreibung seiner Stielbekleidung zu sein.
 
 [Mehr lesen >](/pilze/russula-aurora-netzflockiger-rosatäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_luridus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Netzstielige Hexenröhrling  *Boletus luridus*, den man in den Wäldern des Rhein-Main-Gebiets nur selten findet, in bebauten Gebieten dagegen um so häufiger. Hier haben oft Bautätigkeiten, auch länger zurückliegende, für einen Kalkeintrag in die Böden gesorgt und damit beste Voraussetzungen für das Wachstum kalkliebender Pilzarten wie unsere *"Netzhexen"* geschaffen. In Dietzenbach standen sie gestern noch gut sichtbar in einem Kita-Gelände, wo man sie inzwischen in Sorge um die lieben Kleinen, die ja gern mal was in den Mund stecken, entfernt hat. Sie sind wie fast alle Pilze roh giftig, ausreichend erhitzt aber lecker und gut verträglich. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-luridus-netzstieliger-hexenröhrling)
 
 <div style="clear:  both"></div>
 
