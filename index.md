@@ -14,9 +14,21 @@ footer_scripts:
 
 ##### [Neue Exkursionstermine >](/termine)
 
-3\. Dezember: Saison der Spätherbst- und Winterpilze\
-11\. Dezember: Pilzführung für Einsteiger\
-25\. Dezember: Der Weihnachtswald und seine Pilze
+3. Dezember: Saison der Spätherbst- und Winterpilze\
+11. Dezember: Pilzführung für Einsteiger\
+25. Dezember: Der Weihnachtswald und seine Pilze
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/eriopezia_caesia_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist das auf dem Foto stark vergrößerte Schwarze Spinnwebbecherchen *Eriopezia caesia*. Mit bloßem Auge ist kaum mehr als ein grauer Belag auf Totholz zu erkennen. Die einzelnen in einen weißen spinnwebartigen Filz eingebetteten Becherchen erreichen bestenfalls einen Millimeter Durchmesser. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -51,18 +63,6 @@ footer_scripts:
 13.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Würzige Tellerling *Rhodocybe gemina*, den wir gestern am Dornsee bei Dietzenbach gefunden haben. Ein guter Speisepilz, den kaum einer kennt. Man ist in der Regel ziemlich ratlos, wenn man ihm zum ersten Mal begegnet. Hat man aber die Sporenpulverfarbe ermittelt, kommt man der Problemlösung näher. Bei rosa denkt man an Rötlinge. Wie ein typischer Rötling sieht er aber nicht aus und bei der Suche nach anderen Rosasporern kommt die Gattung *Rhodocybe* ins Spiel, in der man zwangsläufig auf den Würzigen Tellerling stößt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/rhodocybe-gemina-würziger-tellerling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_aurora_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-12.11.2022:  Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist nach der römischen Göttin der Morgenröte benannt, vermutlich wegen seiner rötlichen Hutfarbe. Es handelt sich um den Netzflockigen Rosatäubling *Russula aurora*. *Bernd Miggel* hat ihn bei Keltern im baden-württembergischen Enzkreis gefunden und nach allen Regeln der Mikroskopierkunst bestimmt. Täublingskennern ist er auch unter dem Namen *Russula velutipes* bekannt, was auf einen samtigen Fuß hindeutet. *"Netzflockig"* scheint mir aber die etwas passendere Beschreibung seiner Stielbekleidung zu sein.
-
-[Mehr lesen >](/pilze/russula-aurora-netzflockiger-rosatäubling)
 
 <div style="clear:  both"></div>
 
