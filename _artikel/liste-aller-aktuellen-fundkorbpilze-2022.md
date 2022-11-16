@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-15.11.2022: [Lacrymaria lacrymabunda - Tränender Saumpilz](/pilze/lacrymaria-lacrymabunda-tränender-saumpilz)  
+16.11.2022: [Eriopezia caesia - Schwarzes Spinnwebbecherchen](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)  
+15.11.2022: [Lacrymaria lacrymabunda - Tränender Saumpilz](/pilze/lacrymaria-lacrymabunda-tränender-saumpilz)\
 14.11.2022: [Volvariella surrecta - Parasitischer Scheidling](/pilze/volvariella-surrecta-parasitischer-scheidling)\
 13.11.2022: [Rhodocybe gemina - Würziger Tellerling](/pilze/rhodocybe-gemina-würziger-tellerling)\
 12.11.2022: [Russula aurora - Netzflockiger Rosatäubling](/pilze/russula-aurora-netzflockiger-rosatäubling)\
