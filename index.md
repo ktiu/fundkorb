@@ -66,12 +66,6 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rhodocybe_gemina_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-- - -
-
 [Liste aller aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
 
 - - -
