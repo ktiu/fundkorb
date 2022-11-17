@@ -16,7 +16,7 @@ literatur:
 ---
 Die kleinen Schirmlinge aus der Gattung Lepiota haben nichts zu tun mit den bekannteren Riesenschirmlingen oder Parasolen (Gattung Macrolepiota). Sie unterscheiden sich nicht nur durch ihre Größe sondern auch durch ihre Stielmanschetten. Während Parasole einen wattigen Ring haben, der sich lösen und am Stiel auf- und abbewegen lässt, haben Schirmlinge der Gattung Lepiota dünne häutige Ringe, die auch noch vergänglich sind. Mnache Arten sind tödlich giftig!
 
-Der wohl häufigste unter diesen kleinen Schirmlingen ist der Stink-Schirmling Lepiota cristata. Seine Fruchtkörper erreichen. Seine Hüte erreichen Durchmesser von 2 bis 5 cm. Die Hüte sind beim jungen Pilz rotbraun und beginnen schon früh in kleine konzentrisch angeordnete Schüppchen aufzureißen, wobei zwischen ihnen das weiße Hutfleisch sichtbar wird. Der Scheitel reißt nicht auf und behält seine dunklere Farbe. Die weißen Lamellen sind frei, also nicht am Stiel angewachsen. 
+Der wohl häufigste unter diesen kleinen Schirmlingen ist der Stink-Schirmling Lepiota cristata. Seine Hüte erreichen Durchmesser von 2 bis 5 cm. Die Hüte sind beim jungen Pilz rotbraun und beginnen schon früh in kleine konzentrisch angeordnete Schüppchen aufzureißen, wobei zwischen ihnen das weiße Hutfleisch sichtbar wird. Der Scheitel reißt nicht auf und behält seine dunklere Farbe. Die weißen Lamellen sind frei, also nicht am Stiel angewachsen. 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/lepiota_cristata_02_dg.jpeg" nocrop=true %}
