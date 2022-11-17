@@ -14,9 +14,19 @@ footer_scripts:
 
 ##### [Neue Exkursionstermine >](/termine)
 
-3\. Dezember: Saison der Spätherbst- und Winterpilze\
-11\. Dezember: Pilzführung für Einsteiger\
-25\. Dezember: Der Weihnachtswald und seine Pilze
+3. Dezember: Saison der Spätherbst- und Winterpilze\
+11. Dezember: Pilzführung für Einsteiger\
+25. Dezember: Der Weihnachtswald und seine Pilze
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_muscaria_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+17.11.2022:  Aktueller Fundkorbpilz ist einer, den jeder kennt. Dem Fliegenpilz *Amanita muscaria* sagt man nach, der Inbegriff eines Giftpilzes zu sein. Tatsache ist: er hat wohl noch niemanden umgebracht. Er ist nicht einmal in der Lage, einer Fliege etwas zuleide zu tun. Ob er ein Glückspilz oder das berühmte Männlein im Walde ist und was es wirklich mit ihm auf sich hat, erfährt man [hier  >](/pilze/amanita-muscaria-fliegenpilz)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -59,12 +69,6 @@ footer_scripts:
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rhodocybe_gemina_03_dg.jpg" %}
 {% include abbildung_ende.html %}
-
-13.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Würzige Tellerling *Rhodocybe gemina*, den wir gestern am Dornsee bei Dietzenbach gefunden haben. Ein guter Speisepilz, den kaum einer kennt. Man ist in der Regel ziemlich ratlos, wenn man ihm zum ersten Mal begegnet. Hat man aber die Sporenpulverfarbe ermittelt, kommt man der Problemlösung näher. Bei rosa denkt man an Rötlinge. Wie ein typischer Rötling sieht er aber nicht aus und bei der Suche nach anderen Rosasporern kommt die Gattung *Rhodocybe* ins Spiel, in der man zwangsläufig auf den Würzigen Tellerling stößt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/rhodocybe-gemina-würziger-tellerling)
-
-<div style="clear:  both"></div>
 
 - - -
 
