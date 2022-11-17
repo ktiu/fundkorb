@@ -14,9 +14,9 @@ footer_scripts:
 
 ##### [Neue Exkursionstermine >](/termine)
 
-3. Dezember: Saison der Spätherbst- und Winterpilze\
-11. Dezember: Pilzführung für Einsteiger\
-25. Dezember: Der Weihnachtswald und seine Pilze
+Saison der Spätherbst- und Winterpilze (3. Dezember)  
+Pilzführung für Einsteiger (11. Dezember)  
+Der Weihnachtswald und seine Pilze (25. Dezember)
 
 - - -
 
