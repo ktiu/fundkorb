@@ -13,7 +13,8 @@ hauptbild:
   datei: /bilder/amanita_muscaria_01_dg.jpg
 published: true
 literatur:
-  - url: "Andreas Gminder: Handbuch für Pilzsammler, S. 180"
+  - url: ""
+    text: "Andreas Gminder: Handbuch für Pilzsammler, S. 180"
   - url: http://tintling.com/pilzbuch/arten/a/Amanita_muscaria.html
 ---
 Zwei der bei pilzkundlichen Führungen am häufigsten gestellten Fragen bekommt man bei diesem Pilz praktisch nie gestellt, nämlich: „Kann man den essen?“ und „Kann man den verwechseln?“ Kein Wunder. Jeder kennt ihn. Jeder weiß, dass er giftig ist. Er gilt als Inbegriff eines Giftpilzes, obwohl er noch niemanden umgebracht hat. Die üblichen Witze, dass alle Pilze essbar seien, einige jedoch nur einmal, oder dass man im Restaurant ein Fliegenpilzgericht vor dem Verzehr bezahlen muss, sind also beim Fliegenpilz völlig unangebracht. Und mit der vermeintlichen psychedelischen Wirkung ist es (zumindest in Mitteleuropa) meist auch nicht weit her. Andreas Gminder schreibt dazu (Handbuch für Pilzsammler, 2008):
