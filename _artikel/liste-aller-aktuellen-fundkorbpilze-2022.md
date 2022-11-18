@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-17.11.2022: [Amanita muscaria - Fliegenpilz](/pilze/amanita-muscaria-fliegenpilz)  
+18.11.2022: [Tricholoma sulphureum - Schwefelritterling](/pilze/tricholoma-sulphureum-schwefelritterling)  
+17.11.2022: [Amanita muscaria - Fliegenpilz](/pilze/amanita-muscaria-fliegenpilz)\
 16.11.2022: [Eriopezia caesia - Schwarzes Spinnwebbecherchen](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)\
 15.11.2022: [Lacrymaria lacrymabunda - Tränender Saumpilz](/pilze/lacrymaria-lacrymabunda-tränender-saumpilz)\
 14.11.2022: [Volvariella surrecta - Parasitischer Scheidling](/pilze/volvariella-surrecta-parasitischer-scheidling)\
