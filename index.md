@@ -14,9 +14,21 @@ footer_scripts:
 
 ##### [Neue Exkursionstermine >](/termine)
 
-Saison der Spätherbst- und Winterpilze (3. Dezember)  
-Pilzführung für Einsteiger (11. Dezember)  
+Saison der Spätherbst- und Winterpilze (3. Dezember)\
+Pilzführung für Einsteiger (11. Dezember)\
 Der Weihnachtswald und seine Pilze (25. Dezember)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laccaria_amethystina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.11.2022: Nicht nur violett sondern auch essbar und durchaus wohlschmeckend ist unser heutiger aktueller Fundkorbpilz. Der Violette Lacktrichterling *Laccaria amethystina* wächst gerade herdenweise in der Laub- oder Nadelstreu. An einzelnen Hütchen ist zwar nicht viel dran, aber bei reichlichen Vorkommen macht's die Masse. Die zähen Stiele lässt man besser im Wald. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/laccaria-amethystina-violetter-lacktrichterling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -49,18 +61,6 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 15.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tränende Saumpilz *Lacrymaria lacrymabunda*. Es handelt sich um eine gut kenntliche Art, die durch die Merkmalskombination *dunkel violettbraune Lamellen mit helleren Schneiden, die beim jungen Pilz oder bei feuchter Witterung winzige wasserklare Tröpfchen absondern, schwarzem Sporenpulver und angedeuteter Ringzone am Stiel* gekennzeichnet ist. Wenn man noch beachtet, dass der Pilz relativ groß und langstielig ist, die filzigen zimtbräunlichen Hüte bis zu 8 cm Durchmesser erreichen und der Hutrand mit [Velumresten](Velum "Glossar") behangen ist, sollte die Bestimmung gesichert sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lacrymaria-lacrymabunda-tränender-saumpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/volvariella_surrecta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.11.2022:  Nicht alle Tage zu finden und daher aktueller [Fundkorbpilz](AA "Glossar-"): der Parasitische Scheidling *Volvariella surrecta*. Im Wald zwischen Heusenstamm und Dietzenbach haben sich seine Fruchtkörper prächtig entwickelt und die befallenen Nebelkappen übel zugerichtet. Mit seiner wollig-filzigen Hutoberseite ähnelt er dem [Wolligen Scheidling *Volvariella bombycina*](/pilze/volvariella-bombycina-wolliger-scheidling), der aber an Laubbäumen wächst.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/volvariella-surrecta-parasitischer-scheidling)
 
 <div style="clear:  both"></div>
 
