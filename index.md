@@ -20,7 +20,19 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lepiota_cristata_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+19.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Stink-Schirmling *Lepiota cristata*. Er stinkt nicht ganz so schlimm wie der Schwefelritterling, aber zum Naserümpfen reicht's. Man findet ihn nicht selten gesellig an Waldwegrändern wachsend. Sein stechend metallischer Geruch wird auch als leuchtgasähnlich oder *cristatoid* (also wie *Lepiota cristata*) beschrieben. Und er ist nicht der einzige Stinker unter den kleinen nicht immer leicht zu unterscheidenden Schirmlingen, zu denen auch tödlich giftige gehören. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lepiota-cristata-stink-schirmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_sulphureum_01_dg-2048x1293.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -49,18 +61,6 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 16.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist das auf dem Foto stark vergrößerte Schwarze Spinnwebbecherchen *Eriopezia caesia*. Mit bloßem Auge ist kaum mehr als ein grauer Belag auf Totholz zu erkennen. Die einzelnen in einen weißen spinnwebartigen Filz eingebetteten Becherchen erreichen bestenfalls einen Millimeter Durchmesser. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lacrymaria_lacrymabunda_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-15.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tränende Saumpilz *Lacrymaria lacrymabunda*. Es handelt sich um eine gut kenntliche Art, die durch die Merkmalskombination *dunkel violettbraune Lamellen mit helleren Schneiden, die beim jungen Pilz oder bei feuchter Witterung winzige wasserklare Tröpfchen absondern, schwarzem Sporenpulver und angedeuteter Ringzone am Stiel* gekennzeichnet ist. Wenn man noch beachtet, dass der Pilz relativ groß und langstielig ist, die filzigen zimtbräunlichen Hüte bis zu 8 cm Durchmesser erreichen und der Hutrand mit [Velumresten](Velum "Glossar") behangen ist, sollte die Bestimmung gesichert sein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lacrymaria-lacrymabunda-tränender-saumpilz)
 
 <div style="clear:  both"></div>
 
