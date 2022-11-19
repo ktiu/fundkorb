@@ -40,3 +40,4 @@ Beide dürfen ohne Einschränkung als gute Speisepilze bezeichnet werden und geb
 Lacktrichterlinge neigen zu bizarren Missbildungen – hier sind es gekräuselte Lamellen, die sich schon von oben am Hutrand zeigen. Das Loch in der Hutmitte gehört ebensowenig zu einem vorbildlich gewachsenen Fruchtkörper.
 
 Wegen seines wissenschaftlichen Namens *Laccaria laccata* haben Spaßvögel zwei nette Spitznamen für den Pilz kreiert: Lac lac und L²
+
