@@ -20,8 +20,6 @@ Laccaria bicolor = Zweifarbiger Lacktrichterling\
 [Laccaria proxima = Braunroter Lacktrichterling](/pilze/laccaria-proxima-braunroter-lackpilz)\
 [Laccaria tortilis = Zwerg-Lacktrichterling](/pilze/laccaria-tortilis-zwerg-lacktrichterling)
 
-Unter diesen fällt der Zweifarbige aufgrund seiner Farbverteilung besonders auf. Die [hygrophane](hygrophan "Glossar") Hutoberfläche ist rötlich, bei Trockenheit stark ausblassend, die Lamellen eher fleischrosa bis lila-violettlich. Ein wichtiges Unterscheidungsmerkmal ist auch die violettliche Stielbasis.
-
-Der Zweifarbige Lacktrichterling ist längst nicht so häufig wie seine beiden Gattungsgenossen *amethystina* und *laccata*. Bei Nadelbäumen ist er eher anzutreffen als im Laubwald. Wie alle Lacktrichterlinge ist er essbar und ein durchaus sammelwürdiger Speisepilz.
+Unter diesen fällt der Zweifarbige aufgrund seiner Farbverteilung besonders auf. Die [hygrophane](hygrophan "Glossar") Hutoberfläche ist rötlich, bei Trockenheit stark ausblassend, die Lamellen eher fleischrosa bis lila-violettlich. Ein wichtiges Unterscheidungsmerkmal ist auch die violettliche Stielbasis. Er ist längst nicht so häufig wie seine beiden Gattungsgenossen *amethystina* und *laccata*. Bei Nadelbäumen ist er eher anzutreffen als im Laubwald. Wie alle Lacktrichterlinge ist er essbar und ein durchaus sammelwürdiger Speisepilz.
 
 Weitgehend ungeklärte Arten sind *Laccaria purpureobadia*, *fraterna* und *pumila*. Auch bei *Laccaria proxima* ist sich die Fachwelt noch nicht darüber einig, ob es eine gute Art oder nur eine Varietät von L. laccata ist.
