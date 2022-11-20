@@ -21,6 +21,18 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_badius_04_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+20.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist endlich mal wieder einer, den man essen kann: der schmackhafte und viel gesammelte Maronenröhrling *Xerocomus badius*, der inzwischen *Imleria badia* heißt. Wenn man in die Körbe mancher Sammler schaut, die glauben, Maronenröhrlinge gefunden zu haben, sieht man oft eine bunte Mischung verschiedener Filzröhrlinge, darunter  auch wahrhaftige Maronenröhrlinge, manchmal aber auch keinen einzigen. Solche Verwechslungen sind in der Regel harmlos, vorausgesetzt, man hat keine vergammelten im Korb und später auf dem Teller. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xerocomus-badius-maronenröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lepiota_cristata_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -49,18 +61,6 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 {% include abbildung_ende.html %}
 
 17.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, den jeder kennt. Dem Fliegenpilz *Amanita muscaria* sagt man nach, der Inbegriff eines Giftpilzes zu sein. Tatsache ist: er hat wohl noch niemanden umgebracht. Er ist nicht einmal in der Lage, einer Fliege etwas zuleide zu tun. Ob er ein Glückspilz oder das berühmte Männlein im Walde ist und was es wirklich mit ihm auf sich hat, erfährt man [hier  >](/pilze/amanita-muscaria-fliegenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/eriopezia_caesia_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist das auf dem Foto stark vergrößerte Schwarze Spinnwebbecherchen *Eriopezia caesia*. Mit bloßem Auge ist kaum mehr als ein grauer Belag auf Totholz zu erkennen. Die einzelnen in einen weißen spinnwebartigen Filz eingebetteten Becherchen erreichen bestenfalls einen Millimeter Durchmesser. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)
 
 <div style="clear:  both"></div>
 
