@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-19.11.2022: [Lepiota cristata - Stinkschirmling](/pilze/lepiota-cristata-stink-schirmling)  
+20.11.2022: [Xerocomus badius - Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)  
+19.11.2022: [Lepiota cristata - Stinkschirmling](/pilze/lepiota-cristata-stink-schirmling)\
 18.11.2022: [Tricholoma sulphureum - Schwefelritterling](/pilze/tricholoma-sulphureum-schwefelritterling)\
 17.11.2022: [Amanita muscaria - Fliegenpilz](/pilze/amanita-muscaria-fliegenpilz)\
 16.11.2022: [Eriopezia caesia - Schwarzes Spinnwebbecherchen](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)\
