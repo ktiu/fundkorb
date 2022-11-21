@@ -21,6 +21,18 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laccaria_amethystina_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.11.2022:  Nicht nur violett sondern auch essbar und durchaus wohlschmeckend ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Der Violette Lacktrichterling *Laccaria amethystina* wächst gerade herdenweise in der Laub- oder Nadelstreu unserer Wälder. An einzelnen Hütchen ist zwar nicht viel dran, aber bei reichlichen Vorkommen macht's die Masse. Die zähen Stiele lässt man besser im Wald. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_badius_04_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -51,16 +63,6 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 18.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwefelritterling *Tricholoma sulphureum*. Bei pilzkundlichen Führungen ist es immer sehenswert, die Reaktionen der Teilnehmer(innen) zu beobachten. Die sind sowohl optisch wie auch akkustisch eklatant. Kinder rennen schreiend davon. Eine junge Frau meinte, nachdem sie sich von ihrem Geruchserlebnis erholt hatte: "Der stinkt ja noch fürchterlicher als die Stinkmorchel." Er hat übrigens einen genau so stinkenden purpurbraunen Verwandten: *[Tricholoma bufonium](/pilze/tricholoma-bufonium-purpurbrauner-schwefelritterling)*. Und morgen gibt's an dieser Stelle den nächsten Stinker. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tricholoma-sulphureum-schwefelritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_muscaria_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-17.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, den jeder kennt. Dem Fliegenpilz *Amanita muscaria* sagt man nach, der Inbegriff eines Giftpilzes zu sein. Tatsache ist: er hat wohl noch niemanden umgebracht. Er ist nicht einmal in der Lage, einer Fliege etwas zuleide zu tun. Ob er ein Glückspilz oder das berühmte Männlein im Walde ist und was es wirklich mit ihm auf sich hat, erfährt man [hier  >](/pilze/amanita-muscaria-fliegenpilz)
 
 <div style="clear:  both"></div>
 
