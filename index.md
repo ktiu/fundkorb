@@ -26,7 +26,7 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 
 21.11.2022:  Nicht nur violett sondern auch essbar und durchaus wohlschmeckend ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Der Violette Lacktrichterling *Laccaria amethystina* wächst gerade herdenweise in der Laub- oder Nadelstreu unserer Wälder. An einzelnen Hütchen ist zwar nicht viel dran, aber bei reichlichen Vorkommen macht's die Masse. Die zähen Stiele lässt man besser im Wald. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/laccaria-amethystina-violetter-lacktrichterling)
 
 <div style="clear:  both"></div>
 
