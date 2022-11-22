@@ -25,8 +25,8 @@ Der lateinische Artname *gloiocephala* (schleimköpfig) erscheint mir etwas übe
 Der Große Scheidling erreicht Hutdurchmesser von bis zu 15 cm. Die leicht abziehbare Huthaut ist weißlich bis rußig grau und dann meist etwas radialstreifig. Die schlanken, hell grauweißen Stiele werden bis zu 18 cm lang. Besonders lang werden sie, wenn die Pilze in höherem Gras wachsen. Geruch und Geschmack sind leicht rettichartig.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/volvariella_gloiocephala_01_dg.jpeg" nocrop=true %}
-{% include bild.html datei="/bilder/volvariella_gloiocephala_02_dg.jpeg" nocrop=true %}
+{% include bild.html datei="/bilder/volvariella_gloiocephala_01_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/volvariella_gloiocephala_02_dg.jpeg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
 Vergleichbare Größen erreicht wohl nur der ziemlich seltene Wollige Scheidling [Volvariella bombycina](/pilze/volvariella-bombycina-wolliger-scheidling), der jedoch nur an Holz wächst, oft an Stämmen in mehreren Metern Höhe. Der Große Scheidling dagegen ist auf Äckern, Wiesen, nicht selten in Parkanlagen oder Gärten zu finden, etwa ab Mai und bis in den November hinein. Es dürfte sich um die häufigste Scheidlingsart in Europa handeln.
