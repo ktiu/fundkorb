@@ -21,6 +21,18 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_equestre_05_dg-1536x1152.jpg" %}
+{% include abbildung_ende.html %}
+
+22.11.2022:  Ob der Grünling *Tricholoma equestre* ein problemloser guter Speisepilz oder ein gefährlicher Giftpilz ist, weiß zur Zeit wohl niemand verbindlich einzuschätzen. Er ist jedenfalls unser aktueller [Fundkorbpilz](AA "Glossar-") und lt. *German J. Krieglsteiner* in ganz Mitteleuropa eine stark gefährdete Art (G2). Um so erfreulicher seine seit mehreren Jahren massenhaften Vorkommen in einem Kiefernareal bei Rödermark-Waldacker. Speisepilzsammler werden wegen der Panikmache um seine lebensbedrohliche Giftigkeit (Verursacher von *Rhabdomyolyse*) sicher nicht zu seiner Ausrottung beitragen. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/tricholoma-equestre-grünling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/laccaria_amethystina_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -51,18 +63,6 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 19.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Stink-Schirmling *Lepiota cristata*. Er stinkt nicht ganz so schlimm wie der Schwefelritterling, aber zum Naserümpfen reicht's. Man findet ihn nicht selten gesellig an Waldwegrändern wachsend. Sein stechend metallischer Geruch wird auch als leuchtgasähnlich oder *cristatoid* (also wie *Lepiota cristata*) beschrieben. Und er ist nicht der einzige Stinker unter den kleinen nicht immer leicht zu unterscheidenden Schirmlingen, zu denen auch tödlich giftige gehören. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lepiota-cristata-stink-schirmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_sulphureum_01_dg-2048x1293.jpeg" %}
-{% include abbildung_ende.html %}
-
-18.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwefelritterling *Tricholoma sulphureum*. Bei pilzkundlichen Führungen ist es immer sehenswert, die Reaktionen der Teilnehmer(innen) zu beobachten. Die sind sowohl optisch wie auch akkustisch eklatant. Kinder rennen schreiend davon. Eine junge Frau meinte, nachdem sie sich von ihrem Geruchserlebnis erholt hatte: "Der stinkt ja noch fürchterlicher als die Stinkmorchel." Er hat übrigens einen genau so stinkenden purpurbraunen Verwandten: *[Tricholoma bufonium](/pilze/tricholoma-bufonium-purpurbrauner-schwefelritterling)*. Und morgen gibt's an dieser Stelle den nächsten Stinker. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tricholoma-sulphureum-schwefelritterling)
 
 <div style="clear:  both"></div>
 
