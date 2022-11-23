@@ -21,6 +21,18 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_hepaticus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.11.2022: Es gibt etliche braune Milchlinge und die sind nicht auf den ersten Blick zu unterscheiden. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist so einer und in manchen Kiefernwäldern der Rhein-Main-Ebene gerade massenhaft zu finden. Weiße milde Milch und kein auffälliger Geruch sind schon mal gute Indizien, dass es sich um den Leberbraunen Milchling *Lactarius hepaticus* handeln könnte. Das Wachstum bei Kiefern und die späte Erscheinungszeit unterstreichen diesen Verdacht. Für hundertprozentige Sicherheit sollte man mikroskopieren. In der Küche wird er in Mitteleuropa eher nicht geschätzt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lactarius-hepaticus-leberbrauner-milchling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_equestre_05_dg-1536x1152.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -51,18 +63,6 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 20.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist endlich mal wieder einer, den man essen kann: der schmackhafte und viel gesammelte Maronenröhrling *Xerocomus badius*, der inzwischen *Imleria badia* heißt. Wenn man in die Körbe mancher Sammler schaut, die glauben, Maronenröhrlinge gefunden zu haben, sieht man oft eine bunte Mischung verschiedener Filzröhrlinge, darunter  auch wahrhaftige Maronenröhrlinge, manchmal aber auch keinen einzigen. Solche Verwechslungen sind in der Regel harmlos, vorausgesetzt, man hat keine vergammelten im Korb und später auf dem Teller. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xerocomus-badius-maronenröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lepiota_cristata_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-19.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Stink-Schirmling *Lepiota cristata*. Er stinkt nicht ganz so schlimm wie der Schwefelritterling, aber zum Naserümpfen reicht's. Man findet ihn nicht selten gesellig an Waldwegrändern wachsend. Sein stechend metallischer Geruch wird auch als leuchtgasähnlich oder *cristatoid* (also wie *Lepiota cristata*) beschrieben. Und er ist nicht der einzige Stinker unter den kleinen nicht immer leicht zu unterscheidenden Schirmlingen, zu denen auch tödlich giftige gehören. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lepiota-cristata-stink-schirmling)
 
 <div style="clear:  both"></div>
 
