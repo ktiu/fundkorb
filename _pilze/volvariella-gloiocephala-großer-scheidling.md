@@ -31,4 +31,4 @@ Der Große Scheidling erreicht Hutdurchmesser von bis zu 15 cm. Die leicht abzie
 
 Vergleichbare Größen erreicht wohl nur der ziemlich seltene Wollige Scheidling [Volvariella bombycina](/pilze/volvariella-bombycina-wolliger-scheidling), der jedoch nur an Holz wächst, oft an Stämmen in mehreren Metern Höhe. Der Große Scheidling dagegen ist auf Äckern, Wiesen, nicht selten in Parkanlagen oder Gärten zu finden, etwa ab Mai und bis in den November hinein. Es dürfte sich um die häufigste Scheidlingsart in Europa handeln.
 
-Die in Miteleuropa vorkommenden Scheidlinge können kaum als Speisepilze empfohlen werden, am ehesten noch der sehr seltene Schwarzstreifige Scheidling *Volvariella volvacea*, der in einigen asiatischen Ländern auch als "Reisstrohpilz" kultiviert wird.
+Die in Miteleuropa vorkommenden Scheidlinge können kaum als Speisepilze empfohlen werden, am ehesten noch der sehr seltene [Schwarzstreifige Scheidling *Volvariella volvacea*](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling), der in einigen asiatischen Ländern auch als "Reisstrohpilz" kultiviert wird.
