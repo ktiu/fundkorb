@@ -20,12 +20,16 @@ literatur:
 ---
 Unsere Exkursion auf dem Campus Heusenstamm war von Nieselregen begleitet, daher die vor Nässe glänzenden Hutoberflächen des an mehreren Stellen gesellig wachsenden Helmlings. Die Bestimmung bereitete keine Schwierigkeiten. Richtungsweisendes Merkmal waren die mit Lupe gut erkennbaren hellbraunen Lamellenschneiden (siehe Foto unten links).
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mycena_olivaceomarginata_02_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/mycena_olivaceomarginata_03_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
 Da auch der zwar schwache, aber wahrnehmbare Geruch nach Meerrettich (von einigen Exkursionsteilnehmern als nitrös empfunden), die langen hellocker, im mittleren Bereich meist dunkler gefärbten und an der Basis weißfilzigen Stiele sowie das Wachstum auf Grasland bestens zu *Mycena olivaceomarginata* passten, konnte die Bestimmung als gesichert gelten.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/mycena_olivaceomarginata_04_dg.jpg" %}
+{% include abbildung_ende.html %}
 
 Die stets stumpf gebuckelten Hüte des Braunschneidigen Helmlings sind fast bis zur dunkleren Mitte deutlich gerieft und bis zu 2 cm breit. Ihre Farben variieren von hell oliv, hellcreme  bis grau- oder rotbraun. Die Lamellen sind ausgebuchtet am Stiel angeheftet und weißlich bis weißgrau. Es ist uns aufgefallen, dass nicht immer sämtliche Schneiden die charakteristische bräunliche Farbe haben und dass die Färbung manchmal auch wie punktiert erscheint. Die bis zu 6 cm langen Stiele sind zäh und steif, auf ganzer Länge gleich dick und hohl.
 
