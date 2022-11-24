@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-23.11.2022: [Lactarius hepaticus - Leberbrauner Milchling](/pilze/lactarius-hepaticus-leberbrauner-milchling)  
+24.11.2022: [Laccaria bicolor - Zweifarbiger Lacktrichterling](/pilze/laccaria-bicolor-zweifarbiger-lacktrichterling)  
+23.11.2022: [Lactarius hepaticus - Leberbrauner Milchling](/pilze/lactarius-hepaticus-leberbrauner-milchling)\
 22.11.2022: [Tricholoma equestre - Grünling](/pilze/tricholoma-equestre-grünling)\
 21.11.2022: [Laccaria amethystina - Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)\
 20.11.2022: [Xerocomus badius - Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)\
