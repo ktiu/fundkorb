@@ -21,6 +21,18 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laccaria_bicolor_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.11.2022:  Die Lacktrichterlinge sind eine sehr übersichtliche Gattung. In Mitteleuropa sind fünf Arten verbreitet. Alle fünf sind essbar und gute Speisepilze. Der  Zweifarbige Lacktrichterling *Laccaria bicolor*, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), ist durch rötliche Hutoberflächen und violettliche Lamellen gekennzeichnet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/laccaria-bicolor-zweifarbiger-lacktrichterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_hepaticus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,30 +51,6 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 22.11.2022:  Ob der Grünling *Tricholoma equestre* ein problemloser guter Speisepilz oder ein gefährlicher Giftpilz ist, weiß zur Zeit wohl niemand verbindlich einzuschätzen. Er ist jedenfalls unser aktueller [Fundkorbpilz](AA "Glossar-") und lt. *German J. Krieglsteiner* in ganz Mitteleuropa eine stark gefährdete Art (G2). Um so erfreulicher seine seit mehreren Jahren massenhaften Vorkommen in einem Kiefernareal bei Rödermark-Waldacker. Speisepilzsammler werden wegen der Panikmache um seine lebensbedrohliche Giftigkeit (Verursacher von *Rhabdomyolyse*) sicher nicht zu seiner Ausrottung beitragen. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/tricholoma-equestre-grünling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/laccaria_amethystina_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.11.2022:  Nicht nur violett sondern auch essbar und durchaus wohlschmeckend ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Der Violette Lacktrichterling *Laccaria amethystina* wächst gerade herdenweise in der Laub- oder Nadelstreu unserer Wälder. An einzelnen Hütchen ist zwar nicht viel dran, aber bei reichlichen Vorkommen macht's die Masse. Die zähen Stiele lässt man besser im Wald. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/laccaria-amethystina-violetter-lacktrichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_badius_04_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-20.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist endlich mal wieder einer, den man essen kann: der schmackhafte und viel gesammelte Maronenröhrling *Xerocomus badius*, der inzwischen *Imleria badia* heißt. Wenn man in die Körbe mancher Sammler schaut, die glauben, Maronenröhrlinge gefunden zu haben, sieht man oft eine bunte Mischung verschiedener Filzröhrlinge, darunter  auch wahrhaftige Maronenröhrlinge, manchmal aber auch keinen einzigen. Solche Verwechslungen sind in der Regel harmlos, vorausgesetzt, man hat keine vergammelten im Korb und später auf dem Teller. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xerocomus-badius-maronenröhrling)
 
 <div style="clear:  both"></div>
 
