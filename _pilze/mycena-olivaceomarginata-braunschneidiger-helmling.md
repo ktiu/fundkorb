@@ -18,7 +18,7 @@ literatur:
       S.459 - 460"
   - url: http://tintling.com/pilzbuch/arten/m/Mycena_olivaceomarginata.html
 ---
-Unsere Exkursion auf dem Campus Heusenstamm war von Nieselregen begleitet, daher die vor Nässe glänzenden Hutoberflächen des an mehreren Stellen gesellig wachsenden Helmlings. Die Bestimmung bereitete keine Schwierigkeiten. Richtungsweisendes Merkmal waren die mit Lupe gut erkennbaren hellbraunen Lamellenschneiden (siehe Foto unten links).
+Unsere Exkursion auf dem Campus Heusenstamm war von Nieselregen begleitet, daher die vor Nässe glänzenden Hutoberflächen des an mehreren Stellen gesellig wachsenden Helmlings. Die Bestimmung bereitete keine Schwierigkeiten. Richtungsweisendes Merkmal waren die mit Lupe gut erkennbaren hellbraunen Lamellenschneiden (siehe Foto unten rechts).
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mycena_olivaceomarginata_02_dg.jpg" nocrop=true gross=true %}
