@@ -36,7 +36,7 @@ Der Hut ist zu 12 cm breit, intensiv karminrot (auch weinrot, purpurrot, blutrot
 Die Lamellen sind anfangs cremefarben und werden bei reifen Fruchtkörpern ockerlich bis gelblich. Sie sind nicht untermischt und nur wenig gegabelt, die Schneiden oft rötlich überhaucht.\
 Der Stiel ist weiß oder rot geflammt, manchmal sogar komplett rot gefärbt.\
 Das Fleisch ist im Schnitt weiß, bräunt jedoch an der Luft, wie das auch bei den anderen Heringstäublingsarten der Fall ist.\
-Das Sporenpulver ist dunkel ocker, IIIc-IIId nach der Farbtafel von Romagnesi.
+Das Sporenpulver ist dunkel ocker, IIIc-IIId nach der Farbtafel von *Romagnesi*.
 
 <div class="table-responsive">
   <table class="table taeubling">
