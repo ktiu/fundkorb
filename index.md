@@ -21,10 +21,22 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_olivaceomarginata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunschneidige Helmling *Mycena olivaceomarginata*. Er gehört zu den nicht sehr zahlreichen Helmlingen, die man typischerweise auf Grasfächen findet wie hier auf dem Campus Heusenstamm. Er ist an seinen hellbraunen Lamellenschneiden (Lupe!) und dem meist sehr geselligen Auftreten gut zu erkennen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/laccaria_bicolor_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-25.11.2022:  Die Lacktrichterlinge sind eine sehr übersichtliche Gattung. In Mitteleuropa sind fünf Arten verbreitet. Alle fünf sind essbar und gute Speisepilze. Der  Zweifarbige Lacktrichterling *Laccaria bicolor*, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), ist durch rötliche Hutoberflächen und violettliche Lamellen gekennzeichnet. (Dieter Gewalt)
+24.11.2022:  Die Lacktrichterlinge sind eine sehr übersichtliche Gattung. In Mitteleuropa sind fünf Arten verbreitet. Alle fünf sind essbar und gute Speisepilze. Der  Zweifarbige Lacktrichterling *Laccaria bicolor*, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), ist durch rötliche Hutoberflächen und violettliche Lamellen gekennzeichnet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/laccaria-bicolor-zweifarbiger-lacktrichterling)
 
