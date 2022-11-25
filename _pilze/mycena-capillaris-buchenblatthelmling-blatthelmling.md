@@ -11,7 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/mycena_capillaris_04_pk.jpg
-  legende: "Foto: Peter Kerschner"
+  legende: "Foto: Peter Keschner"
 literatur:
   - url: https://asco-sonneberg.de/pages/gallery/mycena-capillaris-111106-01xs25281.php
 ---
