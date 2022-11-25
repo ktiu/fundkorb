@@ -31,6 +31,10 @@ Beim Roten Heringstäubling handelt es sich um eine der eindrucksvollsten Täubl
 
 Geruch und Geschmack spielen bei der Täublingsbestimmung eine hervorragende Rolle. Unsere Art riecht, wie alle Heringstäublinge, deutlich nach Heringslake und schmeckt mild. Auch chemische Reagenzien können wichtige Hinweise geben. Darum haben manche Täublingskenner im Wald Eisensulfat (FeSO4) in wässriger Form oder als Kristall dabei, das bei Heringstäublingen eine grünliche Farbreaktion am Fleisch oder an der Stielrinde bewirkt. Da die meisten anderen Täublingsarten überhaupt nicht ([Frauentäubling](/pilze/russula-vesca-frauentäubling)) oder rosa reagieren, hat man mit diesem Reagenz ein wertvolles Bestimmungs-Hilfsmittel zur Hand.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_xerampelina_03_nk.jpg" %}
+{% include abbildung_ende.html legende="Foto: Norbert Kühnberger" %}
+
 **Makroskopische Merkmale:**\
 Der Hut ist zu 12 cm breit, intensiv karminrot (auch weinrot, purpurrot, blutrot) gefärbt und besitzt ein fast schwarzrotes Zentrum. Der Hutrand ist glatt oder schwach gerieft, die Huthaut bei feuchtem Wetter klebrig bis schleimig und etwa bis zur Hälfte des Radius abziehbar.\
 Die Lamellen sind anfangs cremefarben und werden bei reifen Fruchtkörpern ockerlich bis gelblich. Sie sind nicht untermischt und nur wenig gegabelt, die Schneiden oft rötlich überhaucht.\
