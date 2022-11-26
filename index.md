@@ -21,6 +21,18 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Frostschneckling *Hygrophorus hypothejus*. Er ist gerade wieder dabei, den Kiefernhang am Anglerteich bei Waldacker zu besiedeln. Abgesehen von seiner Schleimigkeit ist er ein äußerst attraktiver und fotogener Pilz. Recht lecker ist er auch, dazu noch nahezu unverwechselbar. Einziger Nachteil ist seine Schleimigkeit, die ihn für die Verwendung in der Küche eher unattraktiv macht.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hygrophorus-hypothejus-frostschneckling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_olivaceomarginata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,30 +51,6 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 24.11.2022:  Die Lacktrichterlinge sind eine sehr übersichtliche Gattung. In Mitteleuropa sind fünf Arten verbreitet. Alle fünf sind essbar und gute Speisepilze. Der  Zweifarbige Lacktrichterling *Laccaria bicolor*, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), ist durch rötliche Hutoberflächen und violettliche Lamellen gekennzeichnet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/laccaria-bicolor-zweifarbiger-lacktrichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_hepaticus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.11.2022: Es gibt etliche braune Milchlinge und die sind nicht auf den ersten Blick zu unterscheiden. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist so einer und in manchen Kiefernwäldern der Rhein-Main-Ebene gerade massenhaft zu finden. Weiße milde Milch und kein auffälliger Geruch sind schon mal gute Indizien, dass es sich um den Leberbraunen Milchling *Lactarius hepaticus* handeln könnte. Das Wachstum bei Kiefern und die späte Erscheinungszeit unterstreichen diesen Verdacht. Für hundertprozentige Sicherheit sollte man mikroskopieren. In der Küche wird er in Mitteleuropa eher nicht geschätzt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lactarius-hepaticus-leberbrauner-milchling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_equestre_05_dg-1536x1152.jpg" %}
-{% include abbildung_ende.html %}
-
-22.11.2022:  Ob der Grünling *Tricholoma equestre* ein problemloser guter Speisepilz oder ein gefährlicher Giftpilz ist, weiß zur Zeit wohl niemand verbindlich einzuschätzen. Er ist jedenfalls unser aktueller [Fundkorbpilz](AA "Glossar-") und lt. *German J. Krieglsteiner* in ganz Mitteleuropa eine stark gefährdete Art (G2). Um so erfreulicher seine seit mehreren Jahren massenhaften Vorkommen in einem Kiefernareal bei Rödermark-Waldacker. Speisepilzsammler werden wegen der Panikmache um seine lebensbedrohliche Giftigkeit (Verursacher von *Rhabdomyolyse*) sicher nicht zu seiner Ausrottung beitragen. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/tricholoma-equestre-grünling)
 
 <div style="clear:  both"></div>
 
