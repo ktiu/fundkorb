@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-25.11.2022: [Mycena olivaceomarginata - Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)  
+26.11.2022: [Hygrophorus hypothejus - Frostschneckling](/pilze/hygrophorus-hypothejus-frostschneckling)  
+25.11.2022: [Mycena olivaceomarginata - Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)\
 24.11.2022: [Laccaria bicolor - Zweifarbiger Lacktrichterling](/pilze/laccaria-bicolor-zweifarbiger-lacktrichterling)\
 23.11.2022: [Lactarius hepaticus - Leberbrauner Milchling](/pilze/lactarius-hepaticus-leberbrauner-milchling)\
 22.11.2022: [Tricholoma equestre - Grünling](/pilze/tricholoma-equestre-grünling)\
