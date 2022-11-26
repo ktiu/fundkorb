@@ -20,6 +20,10 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 
 - - -
 
+##### [Pilzkurs für Anfänger (1)](/artikel/pilzkurs-für-einsteiger-1.html)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
