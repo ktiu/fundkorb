@@ -20,7 +20,7 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 
 - - -
 
-##### [Pilzkurs für Anfänger (1)](/artikel/pilzkurs-für-einsteiger-1.html)
+##### [Pilzkurs für Einsteiger (1)](/artikel/pilzkurs-für-einsteiger-1.html)
 
 - - -
 
