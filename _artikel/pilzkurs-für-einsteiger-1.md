@@ -20,7 +20,7 @@ Unter ihnen gibt es winzig kleine, die man gerade noch so erkennen kann, aber au
 {% include bild.html datei="/bilder/einsteiger_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Unter den Blätterpilzen gibt es essbare, giftige und vor allem aber solche, die wegen des Geschmacks, ihrer Konsistenz, ihrer geringen Größe oder aus anderen Gründen nicht für die Pfanne taugen. Manche wie der Grüne Knollenblätterpilz sind sogar tödlich giftig. Das ist für viele Pilzsammler ein guter und durchaus vernünftiger Grund, Blätterpilze zu meiden.
+Unter den Blätterpilzen gibt es essbare, giftige und vor allem aber solche, die wegen des Geschmacks, ihrer Konsistenz, ihrer geringen Größe oder aus anderen Gründen nicht für die Pfanne taugen. Manche wie der [Grüne Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz) sind sogar tödlich giftig. Das ist für viele Pilzsammler ein guter und durchaus vernünftiger Grund, Blätterpilze zu meiden.
 
 Andere Hut-Stiel-Pilze haben statt Lamellen einen Schwamm an der Hutunterseite. Der besteht aus eng aneinander gedrängten länglichen Röhrchen, von denen man nur die mehr oder weniger runden Öffnungen wahrnimmt, die deutlich sichtbar aber auch sehr fein sein können. Daher nennt man Pilze mit diesem Merkmal *"Röhrlinge"*.
 
@@ -46,12 +46,12 @@ Es gibt einen guten Grund, warum viele Pilzsammler, vor allem Anfänger, ausschl
 
 Während unserer Exkursion im Gebiet Dornsee am 26. November 2022 haben wir diese 7 gut kenntlichen Kurspilze gefunden und mit ihren Merkmalen vorgestellt:
 
-[Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)  
-[Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)  
-[Schopftintling](/pilze/coprinus-comatus-schopftintling)  
-[Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)  
-[Birkenporling](/pilze/piptoporus-betulinus-birkenporling)  
-[Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)  
+[Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)\
+[Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)\
+[Schopftintling](/pilze/coprinus-comatus-schopftintling)\
+[Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)\
+[Birkenporling](/pilze/piptoporus-betulinus-birkenporling)\
+[Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)\
 [Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)
 
 (Pilzname anklicken --> Ausführliches Pilzartporträt)
