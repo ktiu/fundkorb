@@ -25,6 +25,30 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrophorus_eburneus_01_mg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.11.2022:  Ein *"Schleimi"* jagt den anderen, denn auch unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist mit dem Elfenbeinschneckling *Hygrophorus eburneus* einer, dessen Hüte zur Zeit vor Schleim nur so triefen. Er gehört zu den rein weißen Vertretern seiner Gattung, die im Zweifelsfall durch seine gelbe bis ockerliche Farbreaktion (Kalilauge an der Stielbasis) von ähnlichen zu unterscheiden ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hygrophorus-eburneus-elfenbeinschneckling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stropharia_aeruginosa_01_mg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grünspanträuschling *Stropharia aeruginosa*. Auch er fällt durch seinen zumindest bei feuchtem Wetter schleimigen Hut und mehr noch durch seine im Pilzreich sehr seltene blaugrüne oder grünspanartige Farbe auf. Zu beachten wäre allerdings sein Doppelgänger, der [Blaue Träuschling *Stropharia caerulea*](/pilze/stropharia-caerulea-blauer-träuschling), der jedoch eine nur schwach ausgeprägte oder fehlende Ringzone am Stiel und keine weißen Lamellenschneiden hat. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stropharia-aeruginosa-grünspanträuschling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -43,18 +67,6 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 25.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunschneidige Helmling *Mycena olivaceomarginata*. Er gehört zu den nicht sehr zahlreichen Helmlingen, die man typischerweise auf Grasfächen findet wie hier auf dem Campus Heusenstamm. Er ist an seinen hellbraunen Lamellenschneiden (Lupe!) und dem meist sehr geselligen Auftreten gut zu erkennen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/laccaria_bicolor_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.11.2022:  Die Lacktrichterlinge sind eine sehr übersichtliche Gattung. In Mitteleuropa sind fünf Arten verbreitet. Alle fünf sind essbar und gute Speisepilze. Der  Zweifarbige Lacktrichterling *Laccaria bicolor*, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), ist durch rötliche Hutoberflächen und violettliche Lamellen gekennzeichnet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/laccaria-bicolor-zweifarbiger-lacktrichterling)
 
 <div style="clear:  both"></div>
 
