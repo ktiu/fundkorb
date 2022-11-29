@@ -21,9 +21,9 @@ Unter den scharf schmeckenden Täublingen ist er einer der schärfsten – und n
 {% include bild.html datei="/bilder/russula_sardonia_03_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-Verwechselt werden kann er vor allem mit dem ebenso scharfen *[Stachelbeer-Täubling Russula queletii](/pilze/russula-queletii-stachelbeertäubling)*. Diesen zeichnet, wie der Name schon vermuten lässt, sein süßlich-fruchtiger Geruch nach Stachelbeeren, besser: Stachelbeerkompott, aus. Er liebt im Gegensatz zur *„Säufernase“* kalkhaltige Böden und Fichtenwälder und ist in der Rhein-Main-Ebene recht selten.
+Verwechselt werden kann er vor allem mit dem ebenso scharfen *[Stachelbeer-Täubling Russula queletii](/pilze/russula-queletii-stachelbeertäubling)*. Diesen zeichnet, wie der Name schon vermuten lässt, sein süßlich-fruchtiger Geruch nach Stachelbeeren, besser: Stachelbeerkompott, aus. Er liebt im Gegensatz zur *„Säufernase“* kalkhaltige Böden und Fichtenwälder und ist in der Rhein-Main-Ebene recht selten. Ebenfalls scharf im Geschmack und kalkliebend ist der ähnliche, aber nahezu geruchlose [Gedrungene Täubling *Russula torulosa*](/pilze/russula-torulosa-gedrungener-täubling-wolfstäubling), auch Wolfstäubling genannt.
 
-Der Geruch ist allerdings nur für geübte Nasen ein gutes Unterscheidungsmerkmal, da auch der Zitronenblättrige einen leicht obstartigen Geruch aufweist. Zur Trennung der beiden Arten ist die unterschiedliche Abziehbarkeit der Huthaut besser geeignet. Beim Stachelbeer-Täubling lässt sie sich zu 2/3, beim Zitronenblättrigen nur am Rand abziehen.
+Der Geruch des Stachelbeertäublings ist allerdings nur für geübte Nasen ein gutes Unterscheidungsmerkmal, da auch der Zitronenblättrige einen leicht obstartigen Geruch aufweist. Zur Trennung der beiden Arten ist die unterschiedliche Abziehbarkeit der Huthaut besser geeignet. Beim Stachelbeer-Täubling lässt sie sich zu 2/3, beim Zitronenblättrigen wie auch beim Gedrungenen Täubling jedoch nur am Rand abziehen.
 
 <div class="table-responsive">
   <table class="table taeubling">
