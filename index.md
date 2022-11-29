@@ -20,7 +20,16 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 
 - - -
 
-##### [Pilzkurs für Einsteiger (1)](/artikel/pilzkurs-für-einsteiger-1.html)
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cantharellus-tubaeformis_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.11.2022:  Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") wird ausnahmsweise als Bilderrätsel vorgestellt. Welcher Pilz ist hier zu sehen? Erkannt?\
+Es sind die Leisten mit vielen Querverbindungen, die diesen Trompetenpfifferling (*Cantharellus tubaeformis*) fast zum Kunstwerk  machen. Seine ganz besondere Schönheit hat ihm dennoch nicht genutzt. Er ist zusammen mit einem Körbchen voller Gattungsgenossen in einer Pfanne und anschließend in einem Magen gelandet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cantharellus-tubaeformis-trompetenpfifferling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -55,18 +64,6 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 26.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Frostschneckling *Hygrophorus hypothejus*. Er ist gerade wieder dabei, den Kiefernhang am Anglerteich bei Waldacker zu besiedeln. Abgesehen von seiner Schleimigkeit ist er ein äußerst attraktiver und fotogener Pilz. Recht lecker ist er auch, dazu noch nahezu unverwechselbar. Einziger Nachteil ist seine Schleimigkeit, die ihn für die Verwendung in der Küche eher unattraktiv macht.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hygrophorus-hypothejus-frostschneckling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_olivaceomarginata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunschneidige Helmling *Mycena olivaceomarginata*. Er gehört zu den nicht sehr zahlreichen Helmlingen, die man typischerweise auf Grasfächen findet wie hier auf dem Campus Heusenstamm. Er ist an seinen hellbraunen Lamellenschneiden (Lupe!) und dem meist sehr geselligen Auftreten gut zu erkennen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)
 
 <div style="clear:  both"></div>
 
