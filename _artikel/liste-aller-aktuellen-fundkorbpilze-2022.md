@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-28.11.2022: [Hygrophorus eburneus - Elfenbeinschneckling](/pilze/hygrophorus-eburneus-elfenbeinschneckling)  
-27.11.2022: [Stropharia aeruginosa - Grünspanträuschling](/pilze/stropharia-aeruginosa-grünspanträuschling)  
+29.11.2022: [Cantharellus tubaeformis - Trometenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)  
+28.11.2022: [Hygrophorus eburneus - Elfenbeinschneckling](/pilze/hygrophorus-eburneus-elfenbeinschneckling)\
+27.11.2022: [Stropharia aeruginosa - Grünspanträuschling](/pilze/stropharia-aeruginosa-grünspanträuschling)\
 26.11.2022: [Hygrophorus hypothejus - Frostschneckling](/pilze/hygrophorus-hypothejus-frostschneckling)\
 25.11.2022: [Mycena olivaceomarginata - Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)\
 24.11.2022: [Laccaria bicolor - Zweifarbiger Lacktrichterling](/pilze/laccaria-bicolor-zweifarbiger-lacktrichterling)\
