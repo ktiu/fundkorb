@@ -3,7 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-30.11.2022: [Typhula phacorrhiza - Linsen-Fadenkeulchen](/pilze/typhula-phacorrhiza-linsen-fadenkeulchen)  
+01.12.2022: [Amylostereum areolatum - Braunfilziger Schichtpilz](/pilze/amylostereum-areolatum-braunfilziger-schichtpilz)
+
+30.11.2022: [Typhula phacorrhiza - Linsen-Fadenkeulchen](/pilze/typhula-phacorrhiza-linsen-fadenkeulchen)\
 29.11.2022: [Cantharellus tubaeformis - Trometenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)\
 28.11.2022: [Hygrophorus eburneus - Elfenbeinschneckling](/pilze/hygrophorus-eburneus-elfenbeinschneckling)\
 27.11.2022: [Stropharia aeruginosa - Grünspanträuschling](/pilze/stropharia-aeruginosa-grünspanträuschling)\
