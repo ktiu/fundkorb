@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Amylostereum laevigatum
   deutsch: Wacholder-Schichtpilz
   referenz: (Fr.) Boidin 1958
-  familie: Amylostereaceae
+  familie: Echinodontiaceae
   erlaeuterung: laevigatum = geglättet, geebnet
 profil:
   aktualisiert: 2020-07-23
