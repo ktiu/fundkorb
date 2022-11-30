@@ -21,6 +21,18 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amylostereum_areolatum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.12.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Schichtpilz, der <ins>nicht</ins> in der Schichtpilzgattung *Stereum* steht. Der Grund: weil er [amyloide](amyloid "Glossar") Sporen hat, muss der Braunfilzige Schichtpilz *Amylostereum areolatum* heißen. Er gilt als seltene Art und ist mir wissentlich noch nie begegnet. Dieses Jahr hat sich das gründlich geändert. In der vergangenen Woche habe ich die durchaus attraktive Art gleich viermal an drei verschiedenen Stellen gefunden. Vielleicht sollte man etwas mehr auf diesen m. E. gut kenntlichen Pilz achten.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amylostereum-areolatum-braunfilziger-schichtpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/typhula_phacorrhiza_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -40,30 +52,6 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 Es sind die Leisten mit vielen Querverbindungen, die diesen Trompetenpfifferling (*Cantharellus tubaeformis*) fast zum Kunstwerk  machen. Seine ganz besondere Schönheit hat ihm dennoch nicht genutzt. Er ist zusammen mit einem Körbchen voller Gattungsgenossen in einer Pfanne und anschließend in einem Magen gelandet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cantharellus-tubaeformis-trompetenpfifferling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrophorus_eburneus_01_mg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.11.2022:  Ein *"Schleimi"* jagt den anderen, denn auch unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist mit dem Elfenbeinschneckling *Hygrophorus eburneus* einer, dessen Hüte zur Zeit vor Schleim nur so triefen. Er gehört zu den rein weißen Vertretern seiner Gattung, die im Zweifelsfall durch seine gelbe bis ockerliche Farbreaktion (Kalilauge an der Stielbasis) von ähnlichen zu unterscheiden ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hygrophorus-eburneus-elfenbeinschneckling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stropharia_aeruginosa_01_mg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grünspanträuschling *Stropharia aeruginosa*. Auch er fällt durch seinen zumindest bei feuchtem Wetter schleimigen Hut und mehr noch durch seine im Pilzreich sehr seltene blaugrüne oder grünspanartige Farbe auf. Zu beachten wäre allerdings sein Doppelgänger, der [Blaue Träuschling *Stropharia caerulea*](/pilze/stropharia-caerulea-blauer-träuschling), der jedoch eine nur schwach ausgeprägte oder fehlende Ringzone am Stiel und keine weißen Lamellenschneiden hat. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/stropharia-aeruginosa-grünspanträuschling)
 
 <div style="clear:  both"></div>
 
