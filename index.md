@@ -21,6 +21,18 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/typhula_phacorrhiza_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.11.2022: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist das Linsen-Fadenkeulchen *Typhula phacorrhiza*. Der Namensbestandteil *"Linsen"* sagt bereits etwas über ihn aus. Gemeint ist ein linsenförmiges, ca. 2 – 4 mm langes, bräunliches [Sklerotium](Sklerotium "Glossar") an der Basis der Fruchtkörper, aus dem die fädigen bis zu 10 cm langen Keulchen wachsen. Man findet sie auf faulenden Blättern oder Stängeln verschiedener Laubbäume, aber längst nicht so häufig wie die [Binsenkeulen *Typhula filiformis*](/pilze/typhula-filiformis-binsenkeule), die meist herdenweise in der Laubstreu erscheinen. Beide sind leicht zu übersehen und werden daher kaum beachtet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/typhula-phacorrhiza-linsen-fadenkeulchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cantharellus-tubaeformis_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -52,18 +64,6 @@ Es sind die Leisten mit vielen Querverbindungen, die diesen Trompetenpfifferling
 27.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grünspanträuschling *Stropharia aeruginosa*. Auch er fällt durch seinen zumindest bei feuchtem Wetter schleimigen Hut und mehr noch durch seine im Pilzreich sehr seltene blaugrüne oder grünspanartige Farbe auf. Zu beachten wäre allerdings sein Doppelgänger, der [Blaue Träuschling *Stropharia caerulea*](/pilze/stropharia-caerulea-blauer-träuschling), der jedoch eine nur schwach ausgeprägte oder fehlende Ringzone am Stiel und keine weißen Lamellenschneiden hat. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/stropharia-aeruginosa-grünspanträuschling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.11.2022:  Aktueller [Fundkorbpilz](AA "Glossar-") ist der Frostschneckling *Hygrophorus hypothejus*. Er ist gerade wieder dabei, den Kiefernhang am Anglerteich bei Waldacker zu besiedeln. Abgesehen von seiner Schleimigkeit ist er ein äußerst attraktiver und fotogener Pilz. Recht lecker ist er auch, dazu noch nahezu unverwechselbar. Einziger Nachteil ist seine Schleimigkeit, die ihn für die Verwendung in der Küche eher unattraktiv macht.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hygrophorus-hypothejus-frostschneckling)
 
 <div style="clear:  both"></div>
 
