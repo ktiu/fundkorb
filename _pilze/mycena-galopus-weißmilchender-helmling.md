@@ -22,8 +22,8 @@ Der Weißmilchende Helmling wird von *German J. Kriegsteiner* als *"banales Elem
 
 **Kurzbeschreibung:**
 
-**Hut:** kegelig, glockig, 1 - 2 cm breit, hell graubräunlich, zur Mitte hin dunkler, deutlich gerieft
-**Lamellen:** ausgebuchtet am Stiel angewachsen, weißlich bis hellgrau
-**Stiel:** graubraun, zur Basis hin dunkler, bis 8 cm lang, dünn, glatt, hohl 
-**Milch:** reinweiß, nicht wässrig, mild, vor allem im unteren Stielbereich bei Verletzung austretend
+**Hut:** kegelig, glockig, 1 - 2 cm breit, hell graubräunlich, zur Mitte hin dunkler, deutlich gerieft  
+**Lamellen:** ausgebuchtet am Stiel angewachsen, weißlich bis hellgrau  
+**Stiel:** graubraun, zur Basis hin dunkler, bis 8 cm lang, dünn, glatt, hohl  
+**Milch:** reinweiß, nicht wässrig, mild, vor allem im unteren Stielbereich bei Verletzung austretend  
 **Geruch und Geschmack:** unauffällig, leicht rettichartig
