@@ -17,7 +17,7 @@ literatur:
 ---
 Dieser häufige Pilz gehört zur artenreichen Gattung der Mürblinge/Faserlinge/Zärtlinge. Die drei Namen stehen dafür, dass es sich um zerbrechliche, zarte Arten mit mürbem Fleisch handelt, deren Stiele leicht brechen und sich gleichzeitig der Länge nach auffasern lassen.
 
-Der Wässrige Mürbling wächst meist dicht gedrängt in vielhütigen Büscheln an Totholz. So jung wie auf der Abbildung sehen sie wunderschön aus und geben ein erstklassiges Fotomotiv ab. Die dunkelbraunen, trocken glanzlosen Hüte stehen in auffälligem Kontrast zu den weißen Stielen, weshalb der Pilz auch den Volksnamen *Weißstieliges Stockschwämmchen* erhalten hat. Nachdem Stockschwämmchen wegen Verwechslungsgefahr mit dem tödlichen Gifthäubling nicht mehr oder nur noch von sehr erfahrenen Pilzfreunden gesammelt werden sollten, könnte der Wässrige Mürbling als Ersatz dienen, denn er ist durchaus schmackhaft. Seine dunkelbraune Farbe verliert sich bei Trockenheit und auch schon auf dem Weg von der Fundstelle nach Hause. Die Hüte sind hygrophan, das heißt, sie verändern bei Wasserzufuhr oder -verlust ihre Farbe.
+Der Wässrige Mürbling wächst meist dicht gedrängt in vielhütigen Büscheln an Totholz. So jung wie auf der Abbildung sehen sie wunderschön aus und geben ein erstklassiges Fotomotiv ab. Die dunkelbraunen, trocken glanzlosen Hüte stehen in auffälligem Kontrast zu den weißen Stielen, weshalb der Pilz auch den Volksnamen *Weißstieliges Stockschwämmchen* erhalten hat. Nachdem Stockschwämmchen wegen Verwechslungsgefahr mit dem tödlichen Gifthäubling nicht mehr oder nur noch von sehr erfahrenen Pilzfreunden gesammelt werden sollten, könnte der Wässrige Mürbling als Ersatz dienen, denn er ist durchaus schmackhaft. Seine dunkelbraune Farbe verliert sich bei Trockenheit und auch schon auf dem Weg von der Fundstelle nach Hause. Die Hüte sind [hygrophan](hygrophan "Glossar"), das heißt, sie verändern bei Wasserzufuhr oder -verlust ihre Farbe.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/psathyrella_piluliformis_03_dg.jpg" %}
@@ -31,4 +31,4 @@ Wie diese und die nächsten Fotos zeigen, ändert sich die Form der Hüte von ku
 {% include bild.html datei="/bilder/psathyrella_piluliformis_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Es soll nicht unerwähnt bleiben, dass der Wässrige Mürbling ein wohlschmeckender Speisepilz ist, den zu sammeln sich wegen des büscheligen Wachstums durchaus lohnt.
+Es soll nicht unerwähnt bleiben, dass der Wässrige Mürbling ein wohlschmeckender Speisepilz ist, den zu sammeln sich wegen des büscheligen Wachstums durchaus lohnt. Verwechselt werden könnte er mit dem wesentlich selteneren und etwas größeren Schokoladenbraunen Mürbling [Psathyrella spadicea](/pilze/psathyrella-spadicea-schokoladenbrauner-mürbling), der ebenfalls essbar aber weniger schmackhaft ist.
