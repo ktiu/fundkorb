@@ -21,6 +21,18 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_populinum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.12.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pappelritterling *Tricholoma populinum*, der wieder spät im Jahr im Campus Heusenstamm erschienen ist. Er ist an seinen obligatorischen Begleitbäumen (Pappelarten), mit denen er eine [Mykorrhiza](Mykorrhiza "Glossar") eingeht, und den fleckigen, schmutzbraunen Hutfarben gut zu erkennen. Er riecht mehlig, was bei Ritterlingen keine Seltenheit ist, und auch der Geschmack ist mehlig bis bitter, weshalb er als Speisepilz nicht in Frage kommt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tricholoma-populinum-pappelritterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amylostereum_areolatum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,19 +51,6 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 30.11.2022: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist das Linsen-Fadenkeulchen *Typhula phacorrhiza*. Der Namensbestandteil *"Linsen"* sagt bereits etwas über ihn aus. Gemeint ist ein linsenförmiges, ca. 2 – 4 mm langes, bräunliches [Sklerotium](Sklerotium "Glossar") an der Basis der Fruchtkörper, aus dem die fädigen bis zu 10 cm langen Keulchen wachsen. Man findet sie auf faulenden Blättern oder Stängeln verschiedener Laubbäume, aber längst nicht so häufig wie die [Binsenkeulen *Typhula filiformis*](/pilze/typhula-filiformis-binsenkeule), die meist herdenweise in der Laubstreu erscheinen. Beide sind leicht zu übersehen und werden daher kaum beachtet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/typhula-phacorrhiza-linsen-fadenkeulchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cantharellus-tubaeformis_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.11.2022:  Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") wird ausnahmsweise als Bilderrätsel vorgestellt. Welcher Pilz ist hier zu sehen? Erkannt?\
-Es sind die Leisten mit vielen Querverbindungen, die diesen Trompetenpfifferling (*Cantharellus tubaeformis*) fast zum Kunstwerk  machen. Seine ganz besondere Schönheit hat ihm dennoch nicht genutzt. Er ist zusammen mit einem Körbchen voller Gattungsgenossen in einer Pfanne und anschließend in einem Magen gelandet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cantharellus-tubaeformis-trompetenpfifferling)
 
 <div style="clear:  both"></div>
 
