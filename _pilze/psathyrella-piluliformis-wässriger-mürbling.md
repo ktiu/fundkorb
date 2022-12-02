@@ -5,8 +5,9 @@ beschreibung:
   referenz: "(Bull.) P.D.Orton 1969 "
   familie: Psathyrellaceae
   erlaeuterung: piluliformis = pillenförmig
+  synonym: "Synonym: Psathyrella hydrophila"
 profil:
-  aktualisiert: 2020-08-13
+  aktualisiert: 2022-12-02
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
