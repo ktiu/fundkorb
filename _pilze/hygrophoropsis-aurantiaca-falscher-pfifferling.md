@@ -27,6 +27,6 @@ Leisten sind faltenartige Ausbuchtungen des Hutfleisches, in ihrem Inneren entsp
 
 Auch ohne Lupe und ohne sich mit strukturellen Unterschieden auseinanderzusetzen sind die beiden meist gut auseinanderzuhalten. Der Falsche Pfifferling hat einen flatterigen Hutrand, die Farben sind mehr orange als gelb, vor allem an den Lamellen, und der ganze Pilz ist elastisch und lässt sich verbiegen. 
 
-Er wächst überwiegend in Nadelwäldern, ist aber auch in Misch- und Laubwäldern zu Hause. Er ist nicht giftig, kann jedoch bei Personen mit empfindlichem Magen oder in großen Mengen Verdauungsstörungen hervorrufen. Im Gegensatz zum echten Pfifferling, der ein [Mykorrhizapilz](Mykorrhiza "Glossar") ist, ist der Falsche ein [Saprobiont](saprobiontisch "Glossar").
+Er wächst überwiegend in Nadelwäldern, ist aber auch in Misch- und Laubwäldern zu Hause. Er ist nicht giftig, kann jedoch bei Personen mit empfindlichem Magen oder in großen Mengen Verdauungsstörungen hervorrufen. Im Gegensatz zum echten Pfifferling, der ein [Mykorrhizapilz](Mykorrhiza "Glossar") ist, ist der Falsche ein [Saprobiont](saprobiontisch "Glossar"). Auch das ist ein wesentlicher Unterschied.
 
 Der Falsche Pfifferling wurde früher in die Verwandtschaft der Kremplinge (Familie *Paxillaceae*) gestellt. Die 1980 neu aufgestellte Familie *Hygrophoropsidaceae* enthält nur diese eine Gattung. Für sie wurde der deutsche Name *Afterleistlinge* geprägt.
