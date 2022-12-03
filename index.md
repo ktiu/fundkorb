@@ -21,6 +21,18 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_leucogala_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.12.2022: Obwohl es nicht geklärt erscheint, ob der Weißmilchende Schwarzhelmling *Mycena leucogala* als gute Art anerkannt ist, mache ich ihn heute zum aktuellen [Fundkorbpilz](AA "Glossar-"). Oder gerade deshalb, um eine Diskussion anzuregen. Mikroskopisch ist er offenbar kaum vom [Weißmilchenden Helmling *Mycena galopus*](/pilze/mycena-galopus-weißmilchender-helmling) zu trennen, der deutlich hellere Hüte hat. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-leucogala-weißmilchender-schwarzhelmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_populinum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
