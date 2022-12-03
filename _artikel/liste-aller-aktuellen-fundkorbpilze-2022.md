@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-02.12.2022: [Tricholoma populinum - Pappelritterling](/pilze/tricholoma-populinum-pappelritterling)  
+03.12.2022: [Mycena leucogala - Weißmilchender Schwarzhelmling](/pilze/mycena-leucogala-weißmilchender-schwarzhelmling)  
+02.12.2022: [Tricholoma populinum - Pappelritterling](/pilze/tricholoma-populinum-pappelritterling)\
 01.12.2022: [Amylostereum areolatum - Braunfilziger Schichtpilz](/pilze/amylostereum-areolatum-braunfilziger-schichtpilz)
 
 30.11.2022: [Typhula phacorrhiza - Linsen-Fadenkeulchen](/pilze/typhula-phacorrhiza-linsen-fadenkeulchen)\
