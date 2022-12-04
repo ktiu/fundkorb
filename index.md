@@ -21,6 +21,18 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/postia_ptychogaster_03_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+04.12.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weiße Polsterpilz *Postia ptychogaster*. Manche nennen ihn auch *"Wuschelkopf"*, was diesen an Nadelholz wachsenden Pilz treffend beschreibt. Er ist reinweiß und seine filzig zottige Oberflächenbekleidung machen ihn unverwechselbar. Auf dem Foto haben sich noch zwei Schleimpilze zu ihm gesellt. (Frank Kaster) 
+
+[Mehr lesen >](/pilze/postia-ptychogaster-weißer-polsterpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_leucogala_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -51,18 +63,6 @@ Der Weihnachtswald und seine Pilze (25. Dezember)
 01.12.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Schichtpilz, der <ins>nicht</ins> in der Schichtpilzgattung *Stereum* steht. Der Grund: weil er [amyloide](amyloid "Glossar") Sporen hat, muss der Braunfilzige Schichtpilz *Amylostereum areolatum* heißen. Er gilt als seltene Art und ist mir wissentlich noch nie begegnet. Dieses Jahr hat sich das gründlich geändert. In der vergangenen Woche habe ich die durchaus attraktive Art gleich viermal an drei verschiedenen Stellen gefunden. Vielleicht sollte man etwas mehr auf diesen m. E. gut kenntlichen Pilz achten.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amylostereum-areolatum-braunfilziger-schichtpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/typhula_phacorrhiza_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.11.2022: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist das Linsen-Fadenkeulchen *Typhula phacorrhiza*. Der Namensbestandteil *"Linsen"* sagt bereits etwas über ihn aus. Gemeint ist ein linsenförmiges, ca. 2 – 4 mm langes, bräunliches [Sklerotium](Sklerotium "Glossar") an der Basis der Fruchtkörper, aus dem die fädigen bis zu 10 cm langen Keulchen wachsen. Man findet sie auf faulenden Blättern oder Stängeln verschiedener Laubbäume, aber längst nicht so häufig wie die [Binsenkeulen *Typhula filiformis*](/pilze/typhula-filiformis-binsenkeule), die meist herdenweise in der Laubstreu erscheinen. Beide sind leicht zu übersehen und werden daher kaum beachtet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/typhula-phacorrhiza-linsen-fadenkeulchen)
 
 <div style="clear:  both"></div>
 
