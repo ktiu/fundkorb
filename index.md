@@ -12,14 +12,6 @@ footer_scripts:
 
 - - -
 
-##### [Neue Exkursionstermine >](/termine)
-
-Saison der Spätherbst- und Winterpilze (3. Dezember)\
-Pilzführung für Einsteiger (11. Dezember)\
-Der Weihnachtswald und seine Pilze (25. Dezember)
-
-- - -
-
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/postia_ptychogaster_03_fk.jpg" %}
 {% include abbildung_ende.html %}
