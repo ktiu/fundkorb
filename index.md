@@ -25,12 +25,12 @@ An einem etwa 50 Zentimeter hohen Buchenstumpf sind 4 Tänzerinnen dargestellt, 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_gemmata_02_mm.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/gyromitra_infula_02_ii.jpg" %}
 {% include abbildung_ende.html %}
 
-29.05.2021
+29.05.2021: 
 
-Aktueller [Fundkorbpilz](AA "Glossar-") ist der erste Wulstling des Jahres. Es ist wie fast in jedem Jahr der Narzissengelbe Amanita gemmata. Er ist auch mit ziemlicher Regelmäßigkeit der letzte wie im vergangenen Jahr am 30. Dezember.
+Aktueller [Fundkorbpilz](AA "Glossar-") ist einer der beeindruckendsten Pilze überhaupt. Die Bischofsmütze Gyromitra infula ist ein typischer Spätherbstpilz, der bis in den Dezember und ins neue Jahr hinein gefunden werden kann. In diesem Winter war sie in der Rhein-Main-Ebene so häufig und verbreitet wie nie zuvor. Sie kommt vorwiegend in Nadelwäldern vor, manchmal auch im Laubwald, gern an morschem Holz oder auf Holzlagerplätzen. Mit bis zu 30 cm Höhe kann sie beachtliche Größen erreichen. Am ehesten könnte die Bischofsmütze mit der Vielgestaltigen Lorchel Gyromitra ambigua verwechselt werden, wegen ihrer Gestalt aber auch mit der Frühjahrslorchel Gyromitra esculenta, was aber wegen der unterschiedlichen Erscheinungszeit auszuschließen ist. Wie alle Arten der Gattung Gyromitra enthält die Bischofsmütze den Giftstoff Gyromitrin, jedoch in geringerer Konzentration als z. B. in der Frühjahrslorchel. Als Speisepilz kommt sie daher grundsätzlich nicht in Frage (siehe auch: Ein delikater Giftpilz).
 
 [Mehr lesen >](/pilze/amanita-gemmata-narzissengelber-wulstling)
 
