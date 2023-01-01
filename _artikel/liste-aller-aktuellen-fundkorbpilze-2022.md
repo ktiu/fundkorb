@@ -12,9 +12,9 @@ published: true
 25.12.2022: [Mycena meliigena - Rötlicher Rindenhelmling](/pilze/mycena-meliigena-rötlicher-rindenhelmling)\
 24.12.2022: [Dacrymyces stillatus - Zerfließende Gallertträne](/pilze/dacrymyces-stillatus-zerfließende-gallertträne)\
 23.12.2022: [Mycena corynephora - Flockiger Rindenhelmling](/pilze/mycena-corynephora-flockiger-rindenhelmling)\
-22.12.2022: [Laccaria proxima - Braunroter Lacktrichterling](/pilze/laccaria-proxima-braunroter-lackpilz)  
+22.12.2022: [Laccaria proxima - Braunroter Lacktrichterling](/pilze/laccaria-proxima-braunroter-lackpilz)\
 21.12.2022: [Pseudoclitocybe cyathiformis - Kaffeebrauner Gabeltrichterling](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)\
-20.12.2022: Suillus bovinus - 
+20.12.2022: [Suillus bovinus - Kuhröhrling](/pilze/suillus-bovinus-kuhröhrling)  
 19.12.2022: [Tricholoma cingulatum - Beringter Erdritterling](/pilze/tricholoma-cingulatum-beringter-erdritterling)\
 18.12.2022: [Hericium cirrhatum - Dorniger Stachelbart](/pilze/hericium-cirrhatum-dorniger-stachelbart)\
 17.12.2022: [Macrolepiota rhacodes - Safran-Riesenschirmling](/pilze/macrolepiota-rhacodes-safran-riesenschirmling)\
