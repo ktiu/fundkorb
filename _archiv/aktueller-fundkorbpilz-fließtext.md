@@ -15,8 +15,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") ist der erste Wulstling des Jahres. Es i
 
 <div style="clear: both"></div>
 
-
-
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
