@@ -12,51 +12,15 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/postia_ptychogaster_03_fk.jpg" %}
+Vom Waldparkplatz an der B459 im Kreis Offenbach führt ein von Spaziergängern viel begangener Weg in Richtung Osten nach Dietzenbach-Steinberg. Pilzfreunde sind hier überrascht stehen geblieben und haben sich entzückt ein kleines Kunstwerk betrachtet, das bald als Ballerina-Ballett einen gewissen Bekanntheitsgrad erlangte.
+
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/ballerina_01_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/ballerina_03_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/ballerina_02_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-04.12.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weiße Polsterpilz *Postia ptychogaster*. Manche nennen ihn auch *"Wuschelkopf"*, was diesen an Nadelholz wachsenden Pilz treffend beschreibt. Er ist reinweiß und seine filzig zottige Oberflächenbekleidung machen ihn unverwechselbar. Auf dem Foto haben sich noch zwei Schleimpilze zu ihm gesellt. (Frank Kaster) 
-
-[Mehr lesen >](/pilze/postia-ptychogaster-weißer-polsterpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_leucogala_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.12.2022: Obwohl es nicht geklärt erscheint, ob der Weißmilchende Schwarzhelmling *Mycena leucogala* als gute Art anerkannt ist, mache ich ihn heute zum aktuellen [Fundkorbpilz](AA "Glossar-"). Oder gerade deshalb, um eine Diskussion anzuregen. Mikroskopisch ist er offenbar kaum vom [Weißmilchenden Helmling *Mycena galopus*](/pilze/mycena-galopus-weißmilchender-helmling) zu trennen, der deutlich hellere Hüte hat. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-leucogala-weißmilchender-schwarzhelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_populinum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.12.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pappelritterling *Tricholoma populinum*, der wieder spät im Jahr im Campus Heusenstamm erschienen ist. Er ist an seinen obligatorischen Begleitbäumen (Pappelarten), mit denen er eine [Mykorrhiza](Mykorrhiza "Glossar") eingeht, und den fleckigen, schmutzbraunen Hutfarben gut zu erkennen. Er riecht mehlig, was bei Ritterlingen keine Seltenheit ist, und auch der Geschmack ist mehlig bis bitter, weshalb er als Speisepilz nicht in Frage kommt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tricholoma-populinum-pappelritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amylostereum_areolatum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.12.2022: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Schichtpilz, der <ins>nicht</ins> in der Schichtpilzgattung *Stereum* steht. Der Grund: weil er [amyloide](amyloid "Glossar") Sporen hat, muss der Braunfilzige Schichtpilz *Amylostereum areolatum* heißen. Er gilt als seltene Art und ist mir wissentlich noch nie begegnet. Dieses Jahr hat sich das gründlich geändert. In der vergangenen Woche habe ich die durchaus attraktive Art gleich viermal an drei verschiedenen Stellen gefunden. Vielleicht sollte man etwas mehr auf diesen m. E. gut kenntlichen Pilz achten.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amylostereum-areolatum-braunfilziger-schichtpilz)
-
-<div style="clear:  both"></div>
+An einem etwa 50 Zentimeter hohen Buchenstumpf sind 4 Tänzerinnen dargestellt, und zwar im wahrsten Sinne des Wortes dreidimensional: vier junge Porlingsfruchtkörper, vermutlich Zunderschwämme, sind als Bestandteil der Bekleidung in das Kunstwerk einbezogen worden. Trotz intensiver Recherchen konnte nicht ermittelt werden, wem wir das reizende Ballett zu verdanken haben. Wer glaubt, etwas an der Qualität der Gemälde mäkeln zu müssen, sollte bedenken, dass es schwieriger ist, Farbe auf raue Buchenrinde aufzutragen als Öl auf Leinwand.
 
 - - -
 
