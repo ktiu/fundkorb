@@ -7,9 +7,9 @@ published: true
 30.12.2022: [Phyllotopsis nidulans - Orangeseitling](/pilze/phyllotopsis-nidulans-orangeseitling)\
 29.12.2022: [Mycoacia uda - Wachsgelber Fadenstacheling](/pilze/mycoacia-uda-wachsgelber-fadenstachelpilz)\
 28.12.2022: [Panellus serotinus - Gelbstieliger Muschelseitling](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)\
-27.12.2022: [Calocera cornea - Pfriemförmiger Hörnling](/pilze/calocera-cornea-pfriemförmiger-hörnling)  
-26.12.2022: [Retiarius superficiaris - Pollenfänger](/pilze/retiarius-superficiaris-pollenfänger)
-25.12.2022:
+27.12.2022: [Calocera cornea - Pfriemförmiger Hörnling](/pilze/calocera-cornea-pfriemförmiger-hörnling)\
+26.12.2022: [Retiarius superficiaris - Pollenfänger](/pilze/retiarius-superficiaris-pollenfänger)  
+25.12.2022: [Mycena meliigena - Rötlicher Rindenhelmling](/pilze/mycena-meliigena-rötlicher-rindenhelmling)
 24.12.2022:
 23.12.2022:
 22.12.2022:
@@ -24,7 +24,7 @@ published: true
 13.12.2022:
 12.12.2022:
 11.12.2022:
-10.12.2022:
+10.12.2022: [Physarum utriculare - Fadenfruchtschleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
 09.12.2022: [Macrolepiota konradii - Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)\
 08.12.2022: [Hypholoma marginatum - Geselliger Schwefelkopf](/pilze/hypholoma-marginatum-geselliger-schwefelkopf)\
 07.12.2022: [Marasmius curreyi - Grasschwindling](/pilze/marasmius-curreyi-grasschwindling)\
@@ -34,7 +34,6 @@ published: true
 03.12.2022: [Mycena leucogala - Weißmilchender Schwarzhelmling](/pilze/mycena-leucogala-weißmilchender-schwarzhelmling)\
 02.12.2022: [Tricholoma populinum - Pappelritterling](/pilze/tricholoma-populinum-pappelritterling)\
 01.12.2022: [Amylostereum areolatum - Braunfilziger Schichtpilz](/pilze/amylostereum-areolatum-braunfilziger-schichtpilz)
-
 
 30.11.2022: [Typhula phacorrhiza - Linsen-Fadenkeulchen](/pilze/typhula-phacorrhiza-linsen-fadenkeulchen)\
 29.11.2022: [Cantharellus tubaeformis - Trometenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)\
