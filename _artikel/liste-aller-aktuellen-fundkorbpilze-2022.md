@@ -8,28 +8,28 @@ published: true
 29.12.2022: [Mycoacia uda - Wachsgelber Fadenstacheling](/pilze/mycoacia-uda-wachsgelber-fadenstachelpilz)\
 28.12.2022: [Panellus serotinus - Gelbstieliger Muschelseitling](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)\
 27.12.2022: [Calocera cornea - Pfriemförmiger Hörnling](/pilze/calocera-cornea-pfriemförmiger-hörnling)\
-26.12.2022: [Retiarius superficiaris - Pollenfänger](/pilze/retiarius-superficiaris-pollenfänger)  
-25.12.2022: [Mycena meliigena - Rötlicher Rindenhelmling](/pilze/mycena-meliigena-rötlicher-rindenhelmling)
-24.12.2022:
-23.12.2022:
-22.12.2022:
-21.12.2022:
-20.12.2022:
+26.12.2022: [Retiarius superficiaris - Pollenfänger](/pilze/retiarius-superficiaris-pollenfänger)\
+25.12.2022: [Mycena meliigena - Rötlicher Rindenhelmling](/pilze/mycena-meliigena-rötlicher-rindenhelmling)\
+24.12.2022: [Dacrymyces stillatus - Zerfließende Gallertträne](/pilze/dacrymyces-stillatus-zerfließende-gallertträne)\
+23.12.2022: [Mycena corynephora - Flockiger Rindenhelmling](/pilze/mycena-corynephora-flockiger-rindenhelmling)\
+22.12.2022: [Laccaria proxima - Braunroter Lacktrichterling](/pilze/laccaria-proxima-braunroter-lackpilz)  
+21.12.2022: [Pseudoclitocybe cyathiformis - Kaffeebrauner Gabeltrichterling](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)\
+20.12.2022: Suillus bovinus - 
 19.12.2022: [Tricholoma cingulatum - Beringter Erdritterling](/pilze/tricholoma-cingulatum-beringter-erdritterling)\
 18.12.2022: [Hericium cirrhatum - Dorniger Stachelbart](/pilze/hericium-cirrhatum-dorniger-stachelbart)\
 17.12.2022: [Macrolepiota rhacodes - Safran-Riesenschirmling](/pilze/macrolepiota-rhacodes-safran-riesenschirmling)\
 16.12.2022: [Tricholoma imbricatum - Feinschuppiger Ritterling](/pilze/tricholoma-imbricatum-feinschuppiger-ritterling)\
 15.12.2022: [Chondrostereum purpureum - Violetter Schichtpilz](/pilze/chondrostereum-purpureum-violetter-schichtpilz)\
-14.12.2022: [Chlorophyllum molybdites - Grünsporiger Riesenschirmling](/pilze/macrolepiota-molybdites-grünsporiger-riesenschirmling)
-13.12.2022:
-12.12.2022:
-11.12.2022:
+14.12.2022: [Chlorophyllum molybdites - Grünsporiger Riesenschirmling](/pilze/macrolepiota-molybdites-grünsporiger-riesenschirmling)\
+13.12.2022: [Stereum sanguinolentum - Blutender Nadelholzschichtpilz](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)\
+12.12.2022: [Mycena cinerella - Aschgrauer Helmling](/pilze/mycena-cinerella-aschgrauer-helmling)\
+11.12.2022: [Crepidotus variabilis - Gemeines Stummelfüßchen](/pilze/crepidotus-variabilis-gemeines-stummelfüßchen)\
 10.12.2022: [Physarum utriculare - Fadenfruchtschleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
 09.12.2022: [Macrolepiota konradii - Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)\
 08.12.2022: [Hypholoma marginatum - Geselliger Schwefelkopf](/pilze/hypholoma-marginatum-geselliger-schwefelkopf)\
 07.12.2022: [Marasmius curreyi - Grasschwindling](/pilze/marasmius-curreyi-grasschwindling)\
 06.12.2022: [Russula ochroleuca - Ockertäubling](/pilze/russula-ochroleuca-ockertäubling)\
-05.12.2022: [Mycena cinerella - Aschgrauer Helmling](/pilze/mycena-cinerella-aschgrauer-helmling)\
+05.12.2022: [Agaricus essettei - Schiefknolliger Anis-Champignon](/pilze/agaricus-essettei-schiefknolliger-anis-champignon)\
 04.12.2022: [Postia ptychogaster - Weißer Polsterpilz](/pilze/postia-ptychogaster-weißer-polsterpilz)\
 03.12.2022: [Mycena leucogala - Weißmilchender Schwarzhelmling](/pilze/mycena-leucogala-weißmilchender-schwarzhelmling)\
 02.12.2022: [Tricholoma populinum - Pappelritterling](/pilze/tricholoma-populinum-pappelritterling)\
