@@ -24,6 +24,10 @@ An einem etwa 50 Zentimeter hohen Buchenstumpf sind 4 Tänzerinnen dargestellt, 
 
 - - -
 
+[Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
+
+- - -
+
 [Liste aller aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
 
 - - -
