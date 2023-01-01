@@ -24,9 +24,15 @@ An einem etwa 50 Zentimeter hohen Buchenstumpf sind 4 Tänzerinnen dargestellt, 
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/piptoporus_betulinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 02.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenporling *Piptoporus betulinus*. Im Januar wird man überwiegend nur noch überständige Exemplare aus dem Vorjahr sehen, die man besser nicht mehr als Heilpilz bei Magen-/Darmbeschwerden verwenden sollte. Seine Vegetationsperiode beginnt meist im August und er ist tatsächlich nur an Birken zu finden, oft gemeinsam mit holzharten Pilzen wie dem [Rotrandigen Baumschwamm *Fomitopsis pinicola*](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm). Im Gegensatz zu diesem ist der Birkenporling etwas elastisch und biegsam und ist auch mit einem scharfen Messer gut in Scheiben zu schneiden, aus denen man dann seinen magen-/darmfreundlichen Tee zubereiten kann. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/piptoporus-betulinus-birkenporling)
+
+<div style="clear: both"></div>
 
 - - -
 
@@ -43,6 +49,30 @@ An einem etwa 50 Zentimeter hohen Buchenstumpf sind 4 Tänzerinnen dargestellt, 
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ascocoryne_cylichnium_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+31.12.2022: Letzter aktueller [Fundkorbpilz](AA "Glossar-") des Jahres ist der Großsporige Gallertbecher *Ascocoryne cylichnium*. Er hat einen ebenso häufigen Doppelgänger, von dem er optisch kaum zu unterscheiden ist, den Fleischroten Gallertbecher *Ascocoryne sarcoides*. Da sich die Sporen recht deutlich unterscheiden, ist die mikrskopische Trennung eine recht einfache Lösung, zu der man allerdings reife Sporen benötigt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ascocoryne-cylichnium-großsporiger-gallertbecher)
+
+<div style="clear: both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phyllotopsis_nidulans_01_pz.jpg" %}
+{% include abbildung_ende.html %}
+
+30.12.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Orangeseitling *Phyllotopsis nidulans*, konnte spät im Jahr gleich an mehreren Stellen in der Umgebung von Dietzenbach beobachtet werden. Es handelt sich um eine wunderschöne farbenprächige Art, deren Fruchtkörper stiellos mit ihrer Hutoberseite oder seitlich am Substrat angewachsen sind. Sie bevorzugt Nadelholz, unsere Funde in der Rhein-Main-Ebene stammen ganz überwiegend von Fichte oder Kiefer, es wurden aber auch schon Vorkommen an Buche und Kirsche notiert. Form und Farbe machen den Orangeseitling nahezu unverwechselbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phyllotopsis-nidulans-orangeseitling)
+
+<div style="clear: both"></div>
 
 - - -
 
