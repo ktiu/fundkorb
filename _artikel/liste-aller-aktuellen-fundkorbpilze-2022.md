@@ -3,10 +3,38 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
-04.12.2022: [Postia ptychogaster - Weißer Polsterpilz](/pilze/postia-ptychogaster-weißer-polsterpilz)  
+31.12.2022: [Ascocoryne cylichnium - Großsporiger Gallertbecher](/pilze/ascocoryne-cylichnium-großsporiger-gallertbecher)\
+30.12.2022: [Phyllotopsis nidulans - Orangeseitling](/pilze/phyllotopsis-nidulans-orangeseitling)\
+29.12.2022: [Mycoacia uda - Wachsgelber Fadenstacheling](/pilze/mycoacia-uda-wachsgelber-fadenstachelpilz)\
+28.12.2022: [Panellus serotinus - Gelbstieliger Muschelseitling](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)\
+27.12.2022: [Calocera cornea - Pfriemförmiger Hörnling](/pilze/calocera-cornea-pfriemförmiger-hörnling)  
+26.12.2022: [Retiarius superficiaris - Pollenfänger](/pilze/retiarius-superficiaris-pollenfänger)
+25.12.2022:
+24.12.2022:
+23.12.2022:
+22.12.2022:
+21.12.2022:
+20.12.2022:
+19.12.2022: [Tricholoma cingulatum - Beringter Erdritterling](/pilze/tricholoma-cingulatum-beringter-erdritterling)\
+18.12.2022: [Hericium cirrhatum - Dorniger Stachelbart](/pilze/hericium-cirrhatum-dorniger-stachelbart)\
+17.12.2022: [Macrolepiota rhacodes - Safran-Riesenschirmling](/pilze/macrolepiota-rhacodes-safran-riesenschirmling)\
+16.12.2022: [Tricholoma imbricatum - Feinschuppiger Ritterling](/pilze/tricholoma-imbricatum-feinschuppiger-ritterling)\
+15.12.2022: [Chondrostereum purpureum - Violetter Schichtpilz](/pilze/chondrostereum-purpureum-violetter-schichtpilz)\
+14.12.2022: [Chlorophyllum molybdites - Grünsporiger Riesenschirmling](/pilze/macrolepiota-molybdites-grünsporiger-riesenschirmling)
+13.12.2022:
+12.12.2022:
+11.12.2022:
+10.12.2022:
+09.12.2022: [Macrolepiota konradii - Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)\
+08.12.2022: [Hypholoma marginatum - Geselliger Schwefelkopf](/pilze/hypholoma-marginatum-geselliger-schwefelkopf)\
+07.12.2022: [Marasmius curreyi - Grasschwindling](/pilze/marasmius-curreyi-grasschwindling)\
+06.12.2022: [Russula ochroleuca - Ockertäubling](/pilze/russula-ochroleuca-ockertäubling)\
+05.12.2022: [Mycena cinerella - Aschgrauer Helmling](/pilze/mycena-cinerella-aschgrauer-helmling)\
+04.12.2022: [Postia ptychogaster - Weißer Polsterpilz](/pilze/postia-ptychogaster-weißer-polsterpilz)\
 03.12.2022: [Mycena leucogala - Weißmilchender Schwarzhelmling](/pilze/mycena-leucogala-weißmilchender-schwarzhelmling)\
 02.12.2022: [Tricholoma populinum - Pappelritterling](/pilze/tricholoma-populinum-pappelritterling)\
 01.12.2022: [Amylostereum areolatum - Braunfilziger Schichtpilz](/pilze/amylostereum-areolatum-braunfilziger-schichtpilz)
+
 
 30.11.2022: [Typhula phacorrhiza - Linsen-Fadenkeulchen](/pilze/typhula-phacorrhiza-linsen-fadenkeulchen)\
 29.11.2022: [Cantharellus tubaeformis - Trometenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)\
