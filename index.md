@@ -10,7 +10,7 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-- - -
+
 
 Vom Waldparkplatz an der B459 im Kreis Offenbach führt ein von Spaziergängern viel begangener Weg in Richtung Osten nach Dietzenbach-Steinberg. Pilzfreunde sind hier überrascht stehen geblieben und haben sich entzückt ein kleines Kunstwerk betrachtet, das bald als Ballerina-Ballett einen gewissen Bekanntheitsgrad in der Region erlangte.
 
