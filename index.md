@@ -10,17 +10,15 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-
-
-Vom Waldparkplatz an der B459 im Kreis Offenbach führt ein von Spaziergängern viel begangener Weg in Richtung Osten nach Dietzenbach-Steinberg. Pilzfreunde sind hier überrascht stehen geblieben und haben sich entzückt ein kleines Kunstwerk betrachtet, das bald als Ballerina-Ballett einen gewissen Bekanntheitsgrad in der Region erlangte.
-
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/ballerina_01_dg.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/ballerina_03_dg.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/ballerina_02_dg.jpg" nocrop=true gross=true %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tubaria_furfuracea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-An einem etwa 50 Zentimeter hohen Buchenstumpf sind 4 Tänzerinnen dargestellt, und zwar im wahrsten Sinne des Wortes dreidimensional: vier junge Porlingsfruchtkörper, vermutlich Zunderschwämme, sind als Bestandteil der Bekleidung in das Kunstwerk einbezogen worden. Trotz intensiver Recherchen konnte nicht ermittelt werden, wem wir das reizende Ballett zu verdanken haben. Wer glaubt, etwas an der Qualität der Gemälde mäkeln zu müssen, sollte bedenken, dass es schwieriger ist, Farbe auf raue Buchenrinde aufzutragen als Öl auf Leinwand.
+03.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Trompetenschnitzling *Tubaria furfuracea*. Man kann ihn zur Zeit fast überall finden. Und nicht nur zur Zeit. Es gibt tatsächlich keinen Monat, in dem der kleine Blätterpilz nicht schon nachgewiesen worden ist. Früher hat man die Funde während der kalten Jahreszeit Wintertrompetenschnitzlinge genannt, *Tubaria hiemalis*. Sie sind makroskopisch nicht von den "Sommertrompetenschnitzlingen" zu unterscheiden. Auch die mikroskopischen Merkmale überlappen sich, so dass eine Aufsplittung in zwei Arten nicht gerechtfertigt ist. Der Pilz ist in- und außerhalb von Wäldern häufig und wächst auf Holzrückständen jeder Art. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -64,19 +62,19 @@ An einem etwa 50 Zentimeter hohen Buchenstumpf sind 4 Tänzerinnen dargestellt, 
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phyllotopsis_nidulans_01_pz.jpg" %}
-{% include abbildung_ende.html %}
-
-30.12.2022: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Orangeseitling *Phyllotopsis nidulans*, konnte spät im Jahr gleich an mehreren Stellen in der Umgebung von Dietzenbach beobachtet werden. Es handelt sich um eine wunderschöne farbenprächige Art, deren Fruchtkörper stiellos mit ihrer Hutoberseite oder seitlich am Substrat angewachsen sind. Sie bevorzugt Nadelholz, unsere Funde in der Rhein-Main-Ebene stammen ganz überwiegend von Fichte oder Kiefer, es wurden aber auch schon Vorkommen an Buche und Kirsche notiert. Form und Farbe machen den Orangeseitling nahezu unverwechselbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phyllotopsis-nidulans-orangeseitling)
-
-<div style="clear: both"></div>
+[Liste aller aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
 
 - - -
 
-[Liste aller aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
+Vom Waldparkplatz an der B459 im Kreis Offenbach führt ein von Spaziergängern viel begangener Weg in Richtung Osten nach Dietzenbach-Steinberg. Pilzfreunde sind hier überrascht stehen geblieben und haben sich entzückt ein kleines Kunstwerk betrachtet, das bald als Ballerina-Ballett einen gewissen Bekanntheitsgrad in der Region erlangte.
+
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/ballerina_01_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/ballerina_03_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/ballerina_02_dg.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html %}
+
+An einem etwa 50 Zentimeter hohen Buchenstumpf sind 4 Tänzerinnen dargestellt, und zwar im wahrsten Sinne des Wortes dreidimensional: vier junge Porlingsfruchtkörper, vermutlich Zunderschwämme, sind als Bestandteil der Bekleidung in das Kunstwerk einbezogen worden. Trotz intensiver Recherchen konnte nicht ermittelt werden, wem wir das reizende Ballett zu verdanken haben. Wer glaubt, etwas an der Qualität der Gemälde mäkeln zu müssen, sollte bedenken, dass es schwieriger ist, Farbe auf raue Buchenrinde aufzutragen als Öl auf Leinwand.
 
 - - -
 
