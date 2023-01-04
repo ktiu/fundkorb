@@ -10,6 +10,10 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tremella_mesenterica_02_jr.jpg" %}
+{% include abbildung_ende.html %}
+
 04.01.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus der Umgebung von Marburg, genauer gesagt: aus einem Buchenwald westlich von Elnhausen. Zur gegenwärtigen Jahreszeit findet man den Goldgelben Zitterling *Tremella mesenterica* in fast jedem Laubwald.  Dank seiner leuchtend gelben Farbe (hier ist der deutsche Name wirklich zutreffend) ist er schon aus einiger Entfernung zu erkennen. Beim näheren Betrachten zeigt sich der Fruchtkörper als gallertartige glibberige Masse mit unregelmäßigen Windungen. Er fruktifiziert an toten Laubholzästen, mit Vorliebe an Buche. (Johann Rejek)
 
 [Mehr lesen >](/pilze/tremella-mesenterica-goldgelber-zitterling)
