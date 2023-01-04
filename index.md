@@ -10,6 +10,14 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
+04.01.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus der Umgebung von Marburg, genauer gesagt: aus einem Buchenwald westlich von Elnhausen. Zur gegenwärtigen Jahreszeit findet man den Goldgelben Zitterling *Tremella mesenterica* in fast jedem Laubwald.  Dank seiner leuchtend gelben Farbe (hier ist der deutsche Name wirklich zutreffend) ist er schon aus einiger Entfernung zu erkennen. Beim näheren Betrachten zeigt sich der Fruchtkörper als gallertartige glibberige Masse mit unregelmäßigen Windungen. Er fruktifiziert an toten Laubholzästen, mit Vorliebe an Buche. (Johann Rejek)
+
+[Mehr lesen >](/pilze/tremella-mesenterica-goldgelber-zitterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tubaria_furfuracea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -47,20 +55,6 @@ footer_scripts:
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ascocoryne_cylichnium_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-31.12.2022: Letzter aktueller [Fundkorbpilz](AA "Glossar-") des Jahres ist der Großsporige Gallertbecher *Ascocoryne cylichnium*. Er hat einen ebenso häufigen Doppelgänger, von dem er optisch kaum zu unterscheiden ist, den Fleischroten Gallertbecher *Ascocoryne sarcoides*. Da sich die Sporen recht deutlich unterscheiden, ist die mikrskopische Trennung eine recht einfache Lösung, zu der man allerdings reife Sporen benötigt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ascocoryne-cylichnium-großsporiger-gallertbecher)
-
-<div style="clear: both"></div>
-
-- - -
 
 [Liste aller aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
 
