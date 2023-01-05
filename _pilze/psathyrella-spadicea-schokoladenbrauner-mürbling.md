@@ -32,3 +32,8 @@ Man achte vor allem auf den Hutrand. Er ist bei *Psathyrella spadicea* nicht ode
 **Sporenpulverfarbe:** rotbraun
 
 Der Schokoladenbraune Mürbling ist eine in ganz Mitteleuropa verbreitete, aber keine häufige Art, die zu wenigen oder vielen büschelig an totem Laubholz wächst. Vorkommen Mai - Dezember. Ähnlich aber deutlich zierlicher ist der sehr häufige [Wässrige Mürbling *Psathyrella piluliformis*](/pilze/psathyrella-piluliformis-wässriger-mürbling), der ebenfalls büschelig an totem Laubholz wächst und liegende Stämme mitunter in voller Länge mit mehreren hundert dicht an dicht stehenden Einzelfruchtkörpern besiedeln kann. Seine Stiele sind im Verhältnis zur Hutgröße länger und weiß, weshalb er auch *Weißstieliges Stockschwämmchen* genannt wird. Offenbar sind diese beiden Mürblinge nicht einmal näher miteinander verwandt, denn der Schokoladenbraune soll jetzt *Homophron spadiceum* heißen.
+
+Nur durch mikroskopische Merkmale sicher unterscheidbar sind vor allem folgende Arten:\
+*Psathyrella senex* = Gewöhnlicher Faserling\
+*Psathyrella fusca* = Schwarzbrauner Mürbling\
+[*Psathyrella spadicea* = Schokoladenbrauner Mürbling](/pilze/psathyrella-tephrophylla-graublättriger-mürbling)
