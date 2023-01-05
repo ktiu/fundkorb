@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+05.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Falsche Pfifferling *Hygrophoropsis aurantiaca*. Den kann man auch schon mal mitten im Winter und steifgefroren in Nadelwäldern finden. In diesem bisher frühlingshaften Januar haben sie keine Frostschäden und sind sogar besonders zahlreich. Wie der Name schon vermuten lässt, ist er der klassische Doppelgänger des [echten Pfifferlings](/pilze/cantharellus-cibarius-pfifferling), obwohl beide Arten nicht einmal näher miteinander verwandt sind. Der "echte" Pfifferling gehört zu den Leistlingen, der "falsche" ist dagegen ein "echter" Blätterpilz. Verwechslungen hätten keine schlimmen Folgen. Auch der Falsche Pfifferling ist essbar, aber im Geschmack längst nicht so gut wie der Echte. (Dieter Gewalt)
+
+[Mehr lesen](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling) 
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tremella_mesenterica_02_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/piptoporus_betulinus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenporling *Piptoporus betulinus*. Im Januar wird man überwiegend nur noch überständige Exemplare aus dem Vorjahr sehen, die man besser nicht mehr als Heilpilz bei Magen-/Darmbeschwerden verwenden sollte. Seine Vegetationsperiode beginnt meist im August und er ist tatsächlich nur an Birken zu finden, oft gemeinsam mit holzharten Pilzen wie dem [Rotrandigen Baumschwamm *Fomitopsis pinicola*](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm). Im Gegensatz zu diesem ist der Birkenporling etwas elastisch und biegsam und ist auch mit einem scharfen Messer gut in Scheiben zu schneiden, aus denen man dann seinen magen-/darmfreundlichen Tee zubereiten kann. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/piptoporus-betulinus-birkenporling)
-
-<div style="clear: both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gyromitra_infula_02_ii.jpg" %}
-{% include abbildung_ende.html %}
-
-01.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer der beeindruckendsten Pilze überhaupt. Die Bischofsmütze *Gyromitra infula* ist ein typischer Spätherbstpilz, der bis in den Dezember und ins neue Jahr hinein gefunden werden kann. In diesem Winter war sie in der Rhein-Main-Ebene so häufig und verbreitet wie nie zuvor. Sie kommt vorwiegend in Nadelwäldern vor, manchmal auch im Laubwald, gern an morschem Holz oder auf Holzlagerplätzen. Mit bis zu 30 cm Höhe kann sie beachtliche Größen erreichen. Am ehesten könnte die Bischofsmütze mit der Vielgestaltigen Lorchel *Gyromitra ambigua* verwechselt werden, wegen ihrer Gestalt aber auch mit der [Frühjahrslorchel *Gyromitra esculenta*](/pilze/gyromitra-esculenta-frühjahrslorchel), was aber wegen der unterschiedlichen Erscheinungszeit auszuschließen ist. Wie alle Arten der Gattung *Gyromitra* enthält die Bischofsmütze den potentiell tödlichen Giftstoff *Gyromitrin*, jedoch in geringerer Konzentration als z. B. in der Frühjahrslorchel. Als Speisepilz kommt sie daher grundsätzlich nicht in Frage. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gyromitra-infula-bischofsmütze)
-
-<div style="clear: both"></div>
 
 - - -
 
