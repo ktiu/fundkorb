@@ -6,7 +6,8 @@ beschreibung:
   familie: Hypocreaceae
   erlaeuterung: aurantius = orangefarben, orangerot
 profil:
-  aktualisiert: 2021-01-06
+  aktualisiert: 2023-01-06
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/hypomyces_aurantius_auf_-polyporus-badius_01_dg.jpg
