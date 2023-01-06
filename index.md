@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/galerina_marginata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gifthäubling *Galerina marginata*. Auch er ist zur Zeit in den Nadelwäldern der Rhein-Main-Ebene keine Seltenheit. Leichter Frost kann ihm wenig anhaben, aber auch die derzeit milden Temperaturen kommen ihm nicht ungelegen. Sammler von Stockschwämmchen sollten ihm unbedingt Beachtung schenken. Eine Verwechslung kann tödlich enden. Auch wer glaubt, die beiden Arten sicher auseinanderhalten zu können, sollte auf der Hut sein. In der Verwandtschaft von Galerina marginata gibt es weitere tödliche Arten, die dem Stockschwämmchen ähneln. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/kuehneromyces_mutabilis_06_gg.jpg" %}
 {% include abbildung_ende.html %}
 
