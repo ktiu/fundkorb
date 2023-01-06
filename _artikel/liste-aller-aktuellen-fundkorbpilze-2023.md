@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-06.01.2023: [Kuehneromyces mutablilis - Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen)  
+07.01.2023: [Galerina marginata - Gifthäubling](/pilze/galerina-marginata-gifthäubling)  
+06.01.2023: [Kuehneromyces mutablilis - Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen)\
 05.01.2023: [Hygrophoropsis aurantiaca - Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)\
 04.01.2023: [Tremella mesenterica - Goldgelber Zitterling](/pilze/tremella-mesenterica-goldgelber-zitterling)\
 03.01.2023: [Tubaria furfuracea - Gemeiner Trompetenschnitzling](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)\
