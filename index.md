@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/kuehneromyces_mutabilis_06_gg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.01.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-"), das bei vielen Speisepilzsammlern hochgeschätzte Stockschwämmchen *Kuehneromces mutabilis*, ist längst nicht mehr so unbedenklich wie zu Großmutters Zeiten. Verwechslungen mit ähnlichen Gifthäublingen, die mitunter am selben Holz vorkommen, können tödlich enden!  Sie enthalten die gleichen Giftstoffe wie der Grüne Knollenblätterpilz. Das Sammeln und Verspeisen von Stockschwämmchen kann daher nur noch Pilzfreunden empfohlen werden, die sich wirklich sehr gut auskennen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -29,18 +41,6 @@ footer_scripts:
 04.01.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus der Umgebung von Marburg, genauer gesagt: aus einem Buchenwald westlich von Elnhausen. Zur gegenwärtigen Jahreszeit findet man den Goldgelben Zitterling *Tremella mesenterica* in fast jedem Laubwald.  Dank seiner leuchtend gelben Farbe (hier ist der deutsche Name wirklich zutreffend) ist er schon aus einiger Entfernung zu erkennen. Beim näheren Betrachten zeigt sich der Fruchtkörper als gallertartige glibberige Masse mit unregelmäßigen Windungen. Er fruktifiziert an toten Laubholzästen, mit Vorliebe an Buche. (Johann Rejek)
 
 [Mehr lesen >](/pilze/tremella-mesenterica-goldgelber-zitterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tubaria_furfuracea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Trompetenschnitzling *Tubaria furfuracea*. Man kann ihn zur Zeit fast überall finden. Und nicht nur zur Zeit. Es gibt tatsächlich keinen Monat, in dem der kleine Blätterpilz nicht schon nachgewiesen worden ist. Früher hat man die Funde während der kalten Jahreszeit Wintertrompetenschnitzlinge genannt, *Tubaria hiemalis*. Sie sind makroskopisch nicht von den "Sommertrompetenschnitzlingen" zu unterscheiden. Auch die mikroskopischen Merkmale überlappen sich, so dass eine Aufsplittung in zwei Arten nicht gerechtfertigt ist. Der Pilz ist in- und außerhalb von Wäldern häufig und wächst auf Holzrückständen jeder Art. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
 
 <div style="clear:  both"></div>
 
