@@ -37,5 +37,5 @@ An den weißen Spitzen erkennt man das Konidienstadium, in dem asexuelle Sporen 
 
 Andere auf Bucheckernschalen wachsende Pilzarten:
 
-Flammulaster carpophilus\
-Lachnum virgineum
+[Flammulaster carpophilus](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)\
+[Lachnum virgineum](/pilze/lachnum-virgineum-weißes-haarbecherchen)
