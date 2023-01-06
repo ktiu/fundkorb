@@ -24,3 +24,8 @@ Wie ich den 1980er Jahren auf das Minipilzchen aufmerksam geworden bin, sei hier
 {% include abbildung_ende.html legende="Foto links: zwei ganz junge Fruchtkörper -- Mitte: ausgewachsen --- rechts: Habituszeichnung aus Moser: Kleine Kryptogamenflora (Röhrlinge und Blätterpilze, 1983)" %}
 
 In diesem Zusammenhang möchte ich einmal wieder darauf hinweisen, dass Angaben in den Pilzportäts von *123pilze* vielfach nicht ernst zu nehmen sind. *Flammulaster carpophilus* wird da als "extrem selten" bezeichnet und als "Verwechslungsgefahr" der vergleichsweise riesige [Gummischüppling *Pholiota gummosa*](/pilze/pholiota-gummosa-strohblasser-schüppling) angeführt. Auch der deutsche Gattungsname *Schnitzlinge* ist verkehrt. Die Gattung heißt *Flockenschnitzlinge* und hat nichts mit anderen Gattungen zu tun, die ebenfalls den Namensbestandteil "...schnitzling" tragen.
+
+##### Weitere auf Bucheckernschalen wachsende Pilzarten:
+
+[Xylaria carpophila = Bucheckernschalen-Holzkeule](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)\
+[Flammulaster carpophilus = Buchenwald-Flockenschnitzling](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)
