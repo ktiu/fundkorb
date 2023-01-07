@@ -24,13 +24,13 @@ literatur:
 
 Das typische Substrat des Rasig-krustigen Buchenkugelpilzes ist die Stammbasis verdorrter, junger Rotbuchen. Hier kann man regelrechte [Stromata](Stroma "Glossar")-Rasen dieses Kernpilzes finden, die auch auf freiliegende Wurzeln übergreifen können. Sie sitzen einzeln oder zu mehreren zusammen, meist dicht an dicht, brechen unter der Rinde hervor und drücken diese dabei kragenartig hoch. Die einzelnen Stromata sind außen schwarz, innen grau, halbkugelig bis polsterförmig und besitzen eine unregelmäßige Oberfläche. Der Durchmesser einzelner Stromata beträgt 1,5 - 3 mm.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/melogramma_spiniferum_03_bm.jpg" %}
 {% include abbildung_ende.html legende="Angeschnittene Perithezien" %}
 
 Die Perithezien (Einzelfruchtkörper innerhalb des Stromas) sind kugelig, dunkelgrau und messen 0,4 - 0,5 mm im Durchmesser. Das obige Foto zeigt mehrere Stomata mit ihren Perithezien. Man erkennt deutlich die Ostiolen (Auslassöffnungen für die Sporen). Die angeschnittenen Stromata im unteren Bildteil  zeigen das graue Innere der Perithezien. Hier befinden sich die [Asci](Asci "Glossar") mit ihren Sporen.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/melogramma_spiniferum_04_bm.jpg" %}
 {% include abbildung_ende.html legende="Ascus (in Baral'scher Lösung)" %}
 
