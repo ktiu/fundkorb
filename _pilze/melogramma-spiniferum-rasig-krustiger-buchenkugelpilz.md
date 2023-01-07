@@ -36,7 +36,7 @@ Die Perithezien (Einzelfruchtkörper innerhalb des Stromas) sind kugelig, dunkel
 
 Junge Asci färben sich in Baral'scher Lösung rotbräunlich. Links oben im Bild befindet sich der Porus, die Auslassöffnung für die Sporen. Er verfärbt sich in Baral'scher Lösung nicht oder so gut wie nicht (das nennt man *„IKI-negativ“*), ein wichtiges Bestimmungsmerkmal. Die Asci sind 8-sporig, die Sporen im Ascus liegen unregelmäßig in 2 bis 3 Lagen.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/melogramma_spiniferum_05_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/melogramma_spiniferum_06_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/melogramma_spiniferum_07_bm.jpg" nocrop=true gross=true %}
