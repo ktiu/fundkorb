@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Marasmiellus tricolor
-  deutsch: Dreifarbiger Zwergtintling
+  deutsch: Dreifarbiger Zwergschwindling
   referenz: (Alb. & Schwein.) Singer 1948
   synonym: "Synonym: Marasmiellus languidus "
   erlaeuterung: tricolor = dreifarbig
