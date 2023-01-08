@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: Hemitricha serpula
+  wissenschaftlich: Hemitrichia serpula
   deutsch: Netzschleimpilz
   referenz: (Scop.) Rostaf.
   erlaeuterung: serpula = kleine Schlange
