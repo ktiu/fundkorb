@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pleurotus_ostreatus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.01.2023: Aus mehreren Regionen Deutschlands erreichen uns zur Zeit Fundmeldungen des Austernseitlings *Pleurotus ostreatus*. Zum Teil illustriert mit Fotos, auf denen man sie in diversen Pfannen bruzzeln oder auf Tellern angerichtet sieht. Grund genug, den beliebten Speisepilz zum aktuellen [Fundkorbpilz](AA "Glossar-") zum machen, obwohl er keiner näheren Vorstellung bedarf. Man kennt ihn ja aus den Regalen der Supermärkte. Die schmecken natürlich längst nicht so gut wie die selbst gesammelten, ein Phänomen, das auch für andere Pilzarten gilt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pleurotus-ostreatus-austernseitling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/galerina_marginata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,30 +41,6 @@ footer_scripts:
 06.01.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-"), das bei vielen Speisepilzsammlern hochgeschätzte Stockschwämmchen *Kuehneromces mutabilis*, ist längst nicht mehr so unbedenklich wie zu Großmutters Zeiten. Verwechslungen mit ähnlichen Gifthäublingen, die mitunter am selben Holz vorkommen, können tödlich enden!  Sie enthalten die gleichen Giftstoffe wie der Grüne Knollenblätterpilz. Das Sammeln und Verspeisen von Stockschwämmchen kann daher nur noch Pilzfreunden empfohlen werden, die sich wirklich sehr gut auskennen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-05.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Falsche Pfifferling *Hygrophoropsis aurantiaca*. Den kann man auch schon mal mitten im Winter und steifgefroren in Nadelwäldern finden. In diesem bisher frühlingshaften Januar haben sie keine Frostschäden und sind sogar besonders zahlreich. Wie der Name schon vermuten lässt, ist er der klassische Doppelgänger des [echten Pfifferlings](/pilze/cantharellus-cibarius-pfifferling), obwohl beide Arten nicht einmal näher miteinander verwandt sind. Der "echte" Pfifferling gehört zu den Leistlingen, der "falsche" ist dagegen ein "echter" Blätterpilz. Verwechslungen hätten keine schlimmen Folgen. Auch der Falsche Pfifferling ist essbar, aber im Geschmack längst nicht so gut wie der Echte. (Dieter Gewalt)
-
-[Mehr lesen](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling) 
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tremella_mesenterica_02_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-04.01.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus der Umgebung von Marburg, genauer gesagt: aus einem Buchenwald westlich von Elnhausen. Zur gegenwärtigen Jahreszeit findet man den Goldgelben Zitterling *Tremella mesenterica* in fast jedem Laubwald.  Dank seiner leuchtend gelben Farbe (hier ist der deutsche Name wirklich zutreffend) ist er schon aus einiger Entfernung zu erkennen. Beim näheren Betrachten zeigt sich der Fruchtkörper als gallertartige glibberige Masse mit unregelmäßigen Windungen. Er fruktifiziert an toten Laubholzästen, mit Vorliebe an Buche. (Johann Rejek)
-
-[Mehr lesen >](/pilze/tremella-mesenterica-goldgelber-zitterling)
 
 <div style="clear:  both"></div>
 
