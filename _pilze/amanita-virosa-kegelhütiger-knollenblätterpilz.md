@@ -16,15 +16,26 @@ literatur:
 ---
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_virosa_01_us.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Foto: Udo Schäfer" %}
 
-Von den vier tödlich giftigen Knollenblätterpilzarten sind drei von weißer Farbe, wobei der Frühlings- oder Weiße Knollenblätterpilz (*Amanita verna*) lange Zeit auch als weiße Varietät des Grünen (*Amanita phalloides var. verna* bzw. *var. alba*) angesehen wurde. Der Name "kegelhütig" von *Amanita virosa* bezieht sich vor allem auf junge Pilze, deren Hüte sich im Alter mehr oder weniger ausbreiten und verflachen. Ein nicht immer gut ausgeprägtes  Unterscheidungsmerkmal ist sein schuppig-flockig genatterter Stiel, der bei den anderen Arten glatt bzw. genattert aber ohne abstehende Schüppchen ist. Vergleicht man die Literaturangaben, so muss man zwangsläufig zu dem Schluss kommen, dass wirklich zuverlässige optische Unterschiede kaum auszumachen sind. Auch die ökologischen Ansprüche lassen keine eindeutigen Rückschlüsse zu. Zwar gilt der Kegelhütige Knollenblätterpilz als Fichtenbegleiter, aber mit dem Hinweis, dass er, zwar selten, aber doch auch bei Laubbäumen gefunden werden kann. Beim Weißen Knollenblätterpilz verhält es sich genau umgekehrt: bei Laubbäumen (Eiche, Buche u. a.), selten auch bei Nadelbäumen. Allen gemeinsam ist eine häutige Scheide an der Stielbasis.
+Von den vier tödlich giftigen Knollenblätterpilzarten sind drei von weißer Farbe, wobei der Frühlings- oder Weiße Knollenblätterpilz (*Amanita verna*) lange Zeit auch als weiße Varietät des Grünen (*Amanita phalloides var. verna* bzw. *var. alba*) angesehen wurde. Der Name "kegelhütig" von *Amanita virosa* bezieht sich vor allem auf junge Pilze, deren Hüte sich im Alter mehr oder weniger ausbreiten und verflachen. Ein nicht immer gut ausgeprägtes  Unterscheidungsmerkmal ist sein schuppig-flockig genatterter Stiel, der bei den anderen Arten glatt bzw. genattert aber ohne abstehende Schüppchen ist.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/amanita_virosa_02_ar.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/amanita_virosa_03_pr.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="2 x Amanita virosa: links abstehende Schüppchen (Foto: Alexander Reichert) -- rechts: anliegende Schüppchen (Foto: Peter Reil)" %}
+
+Vergleicht man die Literaturangaben, so muss man zwangsläufig zu dem Schluss kommen, dass wirklich zuverlässige optische Unterschiede kaum auszumachen sind. Auch die ökologischen Ansprüche lassen keine eindeutigen Rückschlüsse zu. Zwar gilt der Kegelhütige Knollenblätterpilz als Fichtenbegleiter, aber mit dem Hinweis, dass er, zwar selten, aber doch auch bei Laubbäumen gefunden werden kann. Beim Weißen Knollenblätterpilz verhält es sich genau umgekehrt: bei Laubbäumen (Eiche, Buche u. a.), selten auch bei Nadelbäumen. Allen gemeinsam ist eine häutige Scheide an der Stielbasis.
 
 Muss man also mikroskopieren oder mit Reagenzien hantieren?  *Amanita virosa* und *Amanita verna* färben sich auf der Huthaut mit KOH chrom-, gold- bis orangegelb, *Amanita phalloides var. verna* nicht.
 
-Die Sporen lassen auch keine eindeutige Differenzierung zu, weder nach Form noch Größe.  
-Amanita virosa: rundlich bis breit elliptisch, 8 - 11 x 7 - 10 µm  
+Die Sporen lassen auch keine eindeutige Differenzierung zu, weder nach Form noch Größe.\
+Amanita virosa: rundlich bis breit elliptisch, 8 - 11 x 7 - 10 µm\
 Amanita phalloides var. verna:  elliptisch, 8 - 11 x 6 - 9 µm
 Amanita verna: elliptisch, 8 - 12 x 6 - 8,5 µm
 
 Der Geruch wird für die drei Arten uneinheitlich aber als irgendwie aufdringlich beschrieben: unangenehm süßlich, aasartig, muffig. Geschmacksproben wollen wir geflissentlich unterlassen!!!
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/amanita_virosa_04_-ar.jpg" %}
+{% include abbildung_ende.html legende="Foto: Alexander Reichert" %}
