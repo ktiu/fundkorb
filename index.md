@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholomopsis_rutilans_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Purpurfilzige Holzritterling *Tricholomopsis rutilans*. Auch er profitiert von dem für Januar ungewöhnlich warmen Wetter. An einem seit Jahren bekannten Standort nahe Dietzenbach ist er an seinem Kiefernstumpf erschienen. Nicht wie sonst in einer kleinen Gruppe (siehe Foto), sondern als Einzelgänger. Er macht einen überaus appetitlichen Eindruck, hält aber leider nicht, was sein attraktives Aussehen verspricht. Er ist zwar nicht giftig, aber sein Geschmack ist so muffig, dass man ihn nicht auf dem Teller haben möchte. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pleurotus_ostreatus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,18 +41,6 @@ footer_scripts:
 07.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gifthäubling *Galerina marginata*. Auch er ist zur Zeit in den Nadelwäldern der Rhein-Main-Ebene keine Seltenheit. Leichter Frost kann ihm wenig anhaben, aber auch die derzeit milden Temperaturen kommen ihm nicht ungelegen. Sammler von Stockschwämmchen sollten ihm unbedingt Beachtung schenken. Eine Verwechslung kann tödlich enden. Auch wer glaubt, die beiden Arten sicher auseinanderhalten zu können, sollte auf der Hut sein. In der Verwandtschaft von Galerina marginata gibt es weitere tödliche Arten, die dem Stockschwämmchen ähneln. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/galerina-marginata-gifthäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/kuehneromyces_mutabilis_06_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.01.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-"), das bei vielen Speisepilzsammlern hochgeschätzte Stockschwämmchen *Kuehneromces mutabilis*, ist längst nicht mehr so unbedenklich wie zu Großmutters Zeiten. Verwechslungen mit ähnlichen Gifthäublingen, die mitunter am selben Holz vorkommen, können tödlich enden!  Sie enthalten die gleichen Giftstoffe wie der Grüne Knollenblätterpilz. Das Sammeln und Verspeisen von Stockschwämmchen kann daher nur noch Pilzfreunden empfohlen werden, die sich wirklich sehr gut auskennen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
 
 <div style="clear:  both"></div>
 
