@@ -26,4 +26,9 @@ Der Violette Schichtpilz ist die einzige Art in seiner Gattung und kaum zu verwe
 
 Der Pilz wächst an Laubholz, an stehenden wie liegenden oder gestapelten Stämmen, gern an deren Schnittflächen, und ist recht häufig. Er fruktifiziert ganzjährig, vor allem im Herbst und in milden Wintern.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/chondrostereum_purpureum_04_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/chondrostereum_purpureum_05_dg.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Mitunter kommen Formen mit ausgeblassten Farben vor, die eher an Stereum-Arten erinnern und daher leicht verkannt werden" %}
+
 Mit dem Samtfuß- oder Winter-Rübling ([Flammulina velutipes](/pilze/flammulina-velutipes-samtfußrübling)) scheint er sich gut zu vertragen. Ich habe die beiden schon mehrfach einträchtig beieinander an Buchenstämmen erlebt. *Hermann Jahn* berichtet von häufigen gemeinsamen Vorkommen mit dem [Ablösenden Rindenpilz (*Cylindrobasidium laeve*)](/pilze/cylindrobasidium-laeve-ablösender-rindenpilz).
