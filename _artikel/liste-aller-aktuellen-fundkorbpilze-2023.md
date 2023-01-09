@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-08.01.2023: [Pleurotus ostreatus - Austernseitling](/pilze/pleurotus-ostreatus-austernseitling)  
+09.01.2023: [Tricholomopsis rutilans - Purpurfilziger Holzritterling](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)  
+08.01.2023: [Pleurotus ostreatus - Austernseitling](/pilze/pleurotus-ostreatus-austernseitling)\
 07.01.2023: [Galerina marginata - Gifthäubling](/pilze/galerina-marginata-gifthäubling)\
 06.01.2023: [Kuehneromyces mutablilis - Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen)\
 05.01.2023: [Hygrophoropsis aurantiaca - Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)\
