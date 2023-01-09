@@ -39,14 +39,12 @@ Bis jetzt sind knapp über 1000 Arten beschrieben worden, jedoch werden laufend 
 {% include bild.html datei="/bilder/stemonitis_axifera_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: Fadenfrucht-Schleimpilz (Physarum utriculare) -- rechts: Dunkles Fadenstäubchen (Stemonitis fusca)" %}
 
-
-
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tubulifera_arachnoidea_01_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/arcyria_incarnata_02_wi.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Lachsfarbener Schleimpilz Tubulifera arachnoidea -- Roter Kelchstäubling Arcyria incarnata" %}
 
-Bisher 19 Schleimpilzarten aus 12 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
+Bisher 20 Schleimpilzarten aus 13 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
 
 [](/pilze/diachaea-leucopodia-buckingham-schleimpilz)[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
 [Arcyria incarnata (Arcyriaceae) - Roter Kelchstäubling](/pilze/arcyria-incarnata-roter-kelchst%C3%A4ubling)\
@@ -57,7 +55,7 @@ Bisher 19 Schleimpilzarten aus 12 Gattungen (7 Familien) im Fundkorb. Weitere we
 [Fuligo muscorum (Physaraceae) - Moos-Lohblüte](/pilze/fuligo-muscorum-moos-lohblüte)\
 [Fuligo rufa (Physaraceae)- Rötende Lohblüte](/pilze/fuligo-rufa-rötliche-lohblüte)\
 [Fuligo septica (Physaraceae) - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
-Hemitrichia serpula - Netzschleimpilz  
+[Hemitrichia serpula - Netzschleimpilz](/verwandt/schleimpilze-myxomyzeten)\
 [Lindbladia tubulina - (Enteridiaceae) Röhriger Schleimpilz](/pilze/lindbladia-tubulina-röhriger-schleimpilz)\
 [Lycogala epidendrum (Enteridiaceae) - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 [Metatrichia vesparium (Trichiaceae) - Wespennest](/pilze/metatrichia-vesparium-wespennest)\
