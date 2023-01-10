@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_igniarius_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.01.2023: In unserer Parkanlage an der Dietzenbacher Rodgaustraße ist er seit Jahren nicht zu übersehen und daher unser aktueller [Fundkorbpilz](AA "Glossar-"): der Gemeine Feuerschwamm *Phellinus igniarius*. Die ahnungslosen Gärtner der Anlage haben die auffälligen Fruchtkörper mit brutaler Gewalt abgeschlagen und damit die Situation der befallenen Weiden nur noch verschlimmert. Die unbehandelten Wunden in der Rinde sind zu Einfallstoren für weitere Schadpilze geworden. Die Feuerschwämme haben natürlich innerhalb kurzer Zeit neue Fruchtkörper gebildet, die sich prächtig entwickeln und die Lebenserwartung der Bäume weiter verkürzen. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholomopsis_rutilans_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,18 +41,6 @@ footer_scripts:
 08.01.2023: Aus mehreren Regionen Deutschlands erreichen uns zur Zeit Fundmeldungen des Austernseitlings *Pleurotus ostreatus*. Zum Teil illustriert mit Fotos, auf denen man sie in diversen Pfannen bruzzeln oder auf Tellern angerichtet sieht. Grund genug, den beliebten Speisepilz zum aktuellen [Fundkorbpilz](AA "Glossar-") zum machen, obwohl er keiner näheren Vorstellung bedarf. Man kennt ihn ja aus den Regalen der Supermärkte. Die schmecken natürlich längst nicht so gut wie die selbst gesammelten, ein Phänomen, das auch für andere Pilzarten gilt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/pleurotus-ostreatus-austernseitling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/galerina_marginata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gifthäubling *Galerina marginata*. Auch er ist zur Zeit in den Nadelwäldern der Rhein-Main-Ebene keine Seltenheit. Leichter Frost kann ihm wenig anhaben, aber auch die derzeit milden Temperaturen kommen ihm nicht ungelegen. Sammler von Stockschwämmchen sollten ihm unbedingt Beachtung schenken. Eine Verwechslung kann tödlich enden. Auch wer glaubt, die beiden Arten sicher auseinanderhalten zu können, sollte auf der Hut sein. In der Verwandtschaft von Galerina marginata gibt es weitere tödliche Arten, die dem Stockschwämmchen ähneln. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/galerina-marginata-gifthäubling)
 
 <div style="clear:  both"></div>
 
