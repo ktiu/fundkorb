@@ -16,7 +16,7 @@ footer_scripts:
 
 10.01.2023: In unserer Parkanlage an der Dietzenbacher Rodgaustraße ist er seit Jahren nicht zu übersehen und daher unser aktueller [Fundkorbpilz](AA "Glossar-"): der Gemeine Feuerschwamm *Phellinus igniarius*. Die ahnungslosen Gärtner der Anlage haben die auffälligen Fruchtkörper mit brutaler Gewalt abgeschlagen und damit die Situation der befallenen Weiden nur noch verschlimmert. Die unbehandelten Wunden in der Rinde sind zu Einfallstoren für weitere Schadpilze geworden. Die Feuerschwämme haben natürlich innerhalb kurzer Zeit neue Fruchtkörper gebildet, die sich prächtig entwickeln und die Lebenserwartung der Bäume weiter verkürzen. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
 
 <div style="clear:  both"></div>
 
