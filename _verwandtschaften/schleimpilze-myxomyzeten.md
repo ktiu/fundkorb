@@ -55,7 +55,7 @@ Bisher 20 Schleimpilzarten aus 13 Gattungen (7 Familien) im Fundkorb. Weitere we
 [Fuligo muscorum (Physaraceae) - Moos-Lohblüte](/pilze/fuligo-muscorum-moos-lohblüte)\
 [Fuligo rufa (Physaraceae)- Rötende Lohblüte](/pilze/fuligo-rufa-rötliche-lohblüte)\
 [Fuligo septica (Physaraceae) - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
-[Hemitrichia serpula - Netzschleimpilz](/verwandt/schleimpilze-myxomyzeten)\
+[Hemitrichia serpula - Netzschleimpilz](/pilze/hemitrichia-serpula-netzschleimpilz)\
 [Lindbladia tubulina - (Enteridiaceae) Röhriger Schleimpilz](/pilze/lindbladia-tubulina-röhriger-schleimpilz)\
 [Lycogala epidendrum (Enteridiaceae) - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 [Metatrichia vesparium (Trichiaceae) - Wespennest](/pilze/metatrichia-vesparium-wespennest)\
