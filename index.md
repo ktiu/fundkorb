@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laccaria_proxima_01_frk.jpg" %}
+{% include abbildung_ende.html %}
+
+11.01.2023: Wenn im Januar Gänseblümchen und Forsythien blühen, warum sollen dann nicht auch Blätterpilze wachsen? Zum Beispiel der Braunrote Lacktrichterling *Laccaria proxima*. Gerade gefunden und daher aktueller [Fundkorbpilz](AA "Glossar-"). Man hätte ihn sogar essen können, aber wegen einem Hütchen macht man keine Pfanne heiß. Übrigens: alle fünf bei uns vorkommenden Lacktrichterlingsarten sind essebar und gar nicht übel. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/laccaria-proxima-braunroter-lackpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_igniarius_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,18 +41,6 @@ footer_scripts:
 09.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Purpurfilzige Holzritterling *Tricholomopsis rutilans*. Auch er profitiert von dem für Januar ungewöhnlich warmen Wetter. An einem seit Jahren bekannten Standort nahe Dietzenbach ist er an seinem Kiefernstumpf erschienen. Nicht wie sonst in einer kleinen Gruppe (siehe Foto), sondern als Einzelgänger. Er macht einen überaus appetitlichen Eindruck, hält aber leider nicht, was sein attraktives Aussehen verspricht. Er ist zwar nicht giftig, aber sein Geschmack ist so muffig, dass man ihn nicht auf dem Teller haben möchte. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pleurotus_ostreatus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.01.2023: Aus mehreren Regionen Deutschlands erreichen uns zur Zeit Fundmeldungen des Austernseitlings *Pleurotus ostreatus*. Zum Teil illustriert mit Fotos, auf denen man sie in diversen Pfannen bruzzeln oder auf Tellern angerichtet sieht. Grund genug, den beliebten Speisepilz zum aktuellen [Fundkorbpilz](AA "Glossar-") zum machen, obwohl er keiner näheren Vorstellung bedarf. Man kennt ihn ja aus den Regalen der Supermärkte. Die schmecken natürlich längst nicht so gut wie die selbst gesammelten, ein Phänomen, das auch für andere Pilzarten gilt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pleurotus-ostreatus-austernseitling)
 
 <div style="clear:  both"></div>
 
