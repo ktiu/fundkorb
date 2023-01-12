@@ -14,7 +14,7 @@ published: true
 23.12.2022: [Mycena corynephora - Flockiger Rindenhelmling](/pilze/mycena-corynephora-flockiger-rindenhelmling)\
 22.12.2022: [Laccaria proxima - Braunroter Lacktrichterling](/pilze/laccaria-proxima-braunroter-lackpilz)\
 21.12.2022: [Pseudoclitocybe cyathiformis - Kaffeebrauner Gabeltrichterling](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)\
-20.12.2022: [Suillus bovinus - Kuhröhrling](/pilze/suillus-bovinus-kuhröhrling)  
+20.12.2022: [Suillus bovinus - Kuhröhrling](/pilze/suillus-bovinus-kuhröhrling)\
 19.12.2022: [Tricholoma cingulatum - Beringter Erdritterling](/pilze/tricholoma-cingulatum-beringter-erdritterling)\
 18.12.2022: [Hericium cirrhatum - Dorniger Stachelbart](/pilze/hericium-cirrhatum-dorniger-stachelbart)\
 17.12.2022: [Macrolepiota rhacodes - Safran-Riesenschirmling](/pilze/macrolepiota-rhacodes-safran-riesenschirmling)\
@@ -33,7 +33,7 @@ published: true
 04.12.2022: [Postia ptychogaster - Weißer Polsterpilz](/pilze/postia-ptychogaster-weißer-polsterpilz)\
 03.12.2022: [Mycena leucogala - Weißmilchender Schwarzhelmling](/pilze/mycena-leucogala-weißmilchender-schwarzhelmling)\
 02.12.2022: [Tricholoma populinum - Pappelritterling](/pilze/tricholoma-populinum-pappelritterling)\
-01.12.2022: [Amylostereum areolatum - Braunfilziger Schichtpilz](/pilze/amylostereum-areolatum-braunfilziger-schichtpilz)
+01.12.2022: [Nectria cinnabarina - Zinnoberroter Pustelpilz](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)
 
 30.11.2022: [Typhula phacorrhiza - Linsen-Fadenkeulchen](/pilze/typhula-phacorrhiza-linsen-fadenkeulchen)\
 29.11.2022: [Cantharellus tubaeformis - Trometenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)\
