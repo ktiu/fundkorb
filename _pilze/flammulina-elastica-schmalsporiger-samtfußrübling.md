@@ -9,7 +9,7 @@ profil:
   aktualisiert: 2023-01-11
   autor_in: Bernd Miggel
 hauptbild:
-  anzeige: false
+  anzeige: true
   datei: /bilder/flammulina-eleastica_01_bm.jpg
   legende: "07.01.2023, Fundort: Naturdenkmal Kuhbrunnenwiesen bei Karlsbad,
     Baden-Württemberg; Substrat: vitaler, aber teilweise vermorschter Weidenast
