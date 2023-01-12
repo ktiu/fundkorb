@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitocybe_fragrans_05_hs.jpg" %}
+{% include abbildung_ende.html %}
+
+12.01.2023: Die Zahl nach Anis riechender Blätterpilze ist sehr überschaubar, weshalb sie auch leicht zu identifizieren sind. Zur Zeit findet man nicht selten einen relativ kleinen weißlich bis ockergrau gefärbten trichterlingsartigen Pilz mit diesem auffälligen Duft, der daher unser heutiger [Fundkorbpilz](AA "Glossar-") ist: der Weiße Anistrichterling *Clitocybe fragrans*. Offensichtlich ist er widerstandsfähiger als die umgebenden Fichten, die einen todkranken Eindruck machen. Für die Küche kommt er nicht in Frage. Er enthält Muscarin und ist daher giftig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/laccaria_proxima_01_frk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,18 +41,6 @@ footer_scripts:
 10.01.2023: In unserer Parkanlage an der Dietzenbacher Rodgaustraße ist er seit Jahren nicht zu übersehen und daher unser aktueller [Fundkorbpilz](AA "Glossar-"): der Gemeine Feuerschwamm *Phellinus igniarius*. Die ahnungslosen Gärtner der Anlage haben die auffälligen Fruchtkörper mit brutaler Gewalt abgeschlagen und damit die Situation der befallenen Weiden nur noch verschlimmert. Die unbehandelten Wunden in der Rinde sind zu Einfallstoren für weitere Schadpilze geworden. Die Feuerschwämme haben natürlich innerhalb kurzer Zeit neue Fruchtkörper gebildet, die sich prächtig entwickeln und die Lebenserwartung der Bäume weiter verkürzen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholomopsis_rutilans_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Purpurfilzige Holzritterling *Tricholomopsis rutilans*. Auch er profitiert von dem für Januar ungewöhnlich warmen Wetter. An einem seit Jahren bekannten Standort nahe Dietzenbach ist er an seinem Kiefernstumpf erschienen. Nicht wie sonst in einer kleinen Gruppe (siehe Foto), sondern als Einzelgänger. Er macht einen überaus appetitlichen Eindruck, hält aber leider nicht, was sein attraktives Aussehen verspricht. Er ist zwar nicht giftig, aber sein Geschmack ist so muffig, dass man ihn nicht auf dem Teller haben möchte. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)
 
 <div style="clear:  both"></div>
 
