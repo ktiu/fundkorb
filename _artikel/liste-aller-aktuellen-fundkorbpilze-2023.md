@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-11.01.2023: [Laccaria proxima - Braunroter Lacktrichterling](/pilze/laccaria-proxima-braunroter-lackpilz)  
+12.01.2023: [Clitocybe fragrans - Weißer Anistrichterling](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)  
+11.01.2023: [Laccaria proxima - Braunroter Lacktrichterling](/pilze/laccaria-proxima-braunroter-lackpilz)\
 10.01.2023: [Phellinus igniarius - Gemeiner Feuerschwamm](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)\
 09.01.2023: [Tricholomopsis rutilans - Purpurfilziger Holzritterling](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)\
 08.01.2023: [Pleurotus ostreatus - Austernseitling](/pilze/pleurotus-ostreatus-austernseitling)\
