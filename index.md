@@ -14,7 +14,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/hygrophoropsis_-aurantiaca_fm.albida_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-13.01.2023: Dem ganz normalen Falschen Pfifferling begegnet man zur Zeit wohl in jedem Nadelwald. Manchmal reibt man sich verwundert die Augen, wenn ganz offensichtlich die gewohnten Farben nicht stimmen, wenn er weiße Lamellen und vielleicht sogar noch einen dunkelbraunen Stiel hat. Dann handelt es sich um unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Weißblättrigen Afterleistling *Hygrophoropsis aurantiaca fm. albida*, der allerdings keine eigene Art sondern nur eine abwechende Form des normalen Falschen Pfifferlings ist. (Dieter Gewalt)
+13.01.2023: Dem ganz normalen Falschen Pfifferling begegnet man zur Zeit wohl in jedem Nadelwald. Manchmal reibt man sich verwundert die Augen, wenn ganz offensichtlich die gewohnten Farben nicht stimmen, wenn er weiße Lamellen und vielleicht sogar noch einen dunkelbraunen Stiel hat. Dann handelt es sich um unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Weißblättrigen Afterleistling *Hygrophoropsis aurantiaca fm. albida*, der allerdings keine eigene Art sondern nur eine abwechende Form des normalen [Falschen Pfifferlings](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling) ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hygrophoropsis-aurantiaca-fm-albida-weißblättriger-afterleistling)
 
