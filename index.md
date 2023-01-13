@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrophoropsis_-aurantiaca_fm.albida_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.01.2023: Dem ganz normalen Falschen Pfifferling begegnet man zur Zeit wohl in jedem Nadelwald. Manchmal reibt man sich verwundert die Augen, wenn ganz offensichtlich die gewohnten Farben nicht stimmen, wenn er weiße Lamellen und vielleicht sogar noch einen dunkelbraunen Stiel hat. Dann handelt es sich um unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Weißblättrigen Afterleistling *Hygrophoropsis aurantiaca fm. albida*, der allerdings keine eigene Art sondern nur eine abwechende Form des normalen Falschen Pfifferlings ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hygrophoropsis-aurantiaca-fm-albida-weißblättriger-afterleistling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitocybe_fragrans_05_hs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,18 +41,6 @@ footer_scripts:
 11.01.2023: Wenn im Januar Gänseblümchen und Forsythien blühen, warum sollen dann nicht auch Blätterpilze wachsen? Zum Beispiel der Braunrote Lacktrichterling *Laccaria proxima*. Gerade gefunden und daher aktueller [Fundkorbpilz](AA "Glossar-"). Man hätte ihn sogar essen können, aber wegen einem Hütchen macht man keine Pfanne heiß. Übrigens: alle fünf bei uns vorkommenden Lacktrichterlingsarten sind essebar und gar nicht übel. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/laccaria-proxima-braunroter-lackpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_igniarius_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.01.2023: In unserer Parkanlage an der Dietzenbacher Rodgaustraße ist er seit Jahren nicht zu übersehen und daher unser aktueller [Fundkorbpilz](AA "Glossar-"): der Gemeine Feuerschwamm *Phellinus igniarius*. Die ahnungslosen Gärtner der Anlage haben die auffälligen Fruchtkörper mit brutaler Gewalt abgeschlagen und damit die Situation der befallenen Weiden nur noch verschlimmert. Die unbehandelten Wunden in der Rinde sind zu Einfallstoren für weitere Schadpilze geworden. Die Feuerschwämme haben natürlich innerhalb kurzer Zeit neue Fruchtkörper gebildet, die sich prächtig entwickeln und die Lebenserwartung der Bäume weiter verkürzen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
 
 <div style="clear:  both"></div>
 
