@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clavulina_rugosa_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+14.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Runzelige Koralle *Clavulina rugosa*. Zur Zeit ist sie wohl dank der milden Witterung recht häufig in unseren Wäldern zu finden. Auffällig ist, dass sie Waldwegränder bevorzugt, an denen man ihr mitunter in größeren Kolonien begegnet. Sie hat eine gewisse Ähnlichkeit mit der [Kammkoralle *Clavulina coralloides*](/pilze/clavulina-coralloides-kammkoralle), ist jedoch schlanker und länger sowie an den Spitzen nicht oder weniger stark verzweigt. Beide gelten als essbar, werden aber offenbar nicht sehr geschätzt. Auf jeden Fall würden sich einige Exemplare schon aus optischen Gründen ganz gut in einem Pilzgericht machen. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/clavulina-rugosa-runzelige-koralle)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrophoropsis_-aurantiaca_fm.albida_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
