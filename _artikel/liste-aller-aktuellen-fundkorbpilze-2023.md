@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-14.01.2023: [Clavulina rugosa - Runzelige Koralle](/pilze/clavulina-rugosa-runzelige-koralle)  
+15.01.2023: [Tremella foliacea - Rotbrauner Zitterling](/pilze/tremella-foliacea-rotbrauner-zitterlling)  
+14.01.2023: [Clavulina rugosa - Runzelige Koralle](/pilze/clavulina-rugosa-runzelige-koralle)\
 13.01.2023: [Hygrophoropsis aurantiaca fm. albida - Weißblättriger Afterleistling](/pilze/hygrophoropsis-aurantiaca-fm-albida-weißblättriger-afterleistling)\
 12.01.2023: [Clitocybe fragrans - Weißer Anistrichterling](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)\
 11.01.2023: [Laccaria proxima - Braunroter Lacktrichterling](/pilze/laccaria-proxima-braunroter-lackpilz)\
