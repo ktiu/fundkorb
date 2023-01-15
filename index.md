@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tremella_foliacea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotbraune Zitterling *Tremella foliacea*. Seine Fruchtkörper bestehen aus wellig verbogenen abgerundeten Lappen, die jung ockergelblich oder ähnlich wie Bernstein gefärbt sind und im Alter dunkler rotbraun bis nahezu schwarzbraun werden. Er ist ganzjährig an verschiedenen Laubhölzern zu finden und auf allen Kontinenten mit Ausnahme der Antarktis verbreitet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tremella-foliacea-rotbrauner-zitterlling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clavulina_rugosa_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,30 +41,6 @@ footer_scripts:
 13.01.2023: Dem ganz normalen Falschen Pfifferling begegnet man zur Zeit wohl in jedem Nadelwald. Manchmal reibt man sich verwundert die Augen, wenn ganz offensichtlich die gewohnten Farben nicht stimmen, wenn er weiße Lamellen und vielleicht sogar noch einen dunkelbraunen Stiel hat. Dann handelt es sich um unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Weißblättrigen Afterleistling *Hygrophoropsis aurantiaca fm. albida*, der allerdings keine eigene Art sondern nur eine abwechende Form des normalen [Falschen Pfifferlings](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling) ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hygrophoropsis-aurantiaca-fm-albida-weißblättriger-afterleistling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_fragrans_05_hs.jpg" %}
-{% include abbildung_ende.html %}
-
-12.01.2023: Die Zahl nach Anis riechender Blätterpilze ist sehr überschaubar, weshalb sie auch leicht zu identifizieren sind. Zur Zeit findet man nicht selten einen relativ kleinen weißlich bis ockergrau gefärbten trichterlingsartigen Pilz mit diesem auffälligen Duft, der daher unser heutiger [Fundkorbpilz](AA "Glossar-") ist: der Weiße Anistrichterling *Clitocybe fragrans*. Offensichtlich ist er widerstandsfähiger als die umgebenden Fichten, die einen todkranken Eindruck machen. Für die Küche kommt er nicht in Frage. Er enthält Muscarin und ist daher giftig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/laccaria_proxima_01_frk.jpg" %}
-{% include abbildung_ende.html %}
-
-11.01.2023: Wenn im Januar Gänseblümchen und Forsythien blühen, warum sollen dann nicht auch Blätterpilze wachsen? Zum Beispiel der Braunrote Lacktrichterling *Laccaria proxima*. Gerade gefunden und daher aktueller [Fundkorbpilz](AA "Glossar-"). Man hätte ihn sogar essen können, aber wegen einem Hütchen macht man keine Pfanne heiß. Übrigens: alle fünf bei uns vorkommenden Lacktrichterlingsarten sind essebar und gar nicht übel. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/laccaria-proxima-braunroter-lackpilz)
 
 <div style="clear:  both"></div>
 
