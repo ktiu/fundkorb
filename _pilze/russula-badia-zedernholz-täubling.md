@@ -43,7 +43,7 @@ Die Stiele sind weiß oder auch rosa überhaucht, 1 - 3 cm dick und bis 10 cm la
     <tr>
       <td>erst mild, dann sehr scharf</td>
       <td>hell ocker - ocker</td>
-      <td>trocken nicht, dann bis 2/3</td>
+      <td>trocken nicht, feucht bis 2/3</td>
       <td>rosa</td>
        
     </tr>
