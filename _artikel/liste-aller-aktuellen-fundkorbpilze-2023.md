@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-16.01.2023: [Mycena meliigena - Rötlicher Rindenhelmling](/pilze/mycena-meliigena-rötlicher-rindenhelmling)  
+17.01.2023: [Chromocyphella muscicola - Moosbewohnendes Braunsporbecherchen](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)  
+16.01.2023: [Mycena meliigena - Rötlicher Rindenhelmling](/pilze/mycena-meliigena-rötlicher-rindenhelmling)\
 15.01.2023: [Tremella foliacea - Rotbrauner Zitterling](/pilze/tremella-foliacea-rotbrauner-zitterlling)\
 14.01.2023: [Clavulina rugosa - Runzelige Koralle](/pilze/clavulina-rugosa-runzelige-koralle)\
 13.01.2023: [Hygrophoropsis aurantiaca fm. albida - Weißblättriger Afterleistling](/pilze/hygrophoropsis-aurantiaca-fm-albida-weißblättriger-afterleistling)\
