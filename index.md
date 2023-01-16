@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_meliigena_02_uvs.jpg" %}
+{% include abbildung_ende.html %}
+
+16.01.2023: Wenn man an geeigneten Substraten (bemooste oder unbemooste Rinde von Laubbäumen) gezielt nach Rindenhelmlingen sucht, hat man in den Wintermonaten gute Chancen, unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu finden. Besonders gern wächst der Rötliche Rindenhelmling *Mycene meliigena* bei uns in Dietzenbach an Weiden, meist in kleinen Gruppen oder auch größere Flächen bevölkernd. Es handelt sich um kleine Pilzchen mit Hutdurchmessern von meist weniger als einem Zentimeter, aber es sind hübsche Kerlchen und es lohnt sich, genauer hinzuschauen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-meliigena-rötlicher-rindenhelmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tremella_foliacea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,18 +41,6 @@ footer_scripts:
 14.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Runzelige Koralle *Clavulina rugosa*. Zur Zeit ist sie wohl dank der milden Witterung recht häufig in unseren Wäldern zu finden. Auffällig ist, dass sie Waldwegränder bevorzugt, an denen man ihr mitunter in größeren Kolonien begegnet. Sie hat eine gewisse Ähnlichkeit mit der [Kammkoralle *Clavulina coralloides*](/pilze/clavulina-coralloides-kammkoralle), ist jedoch schlanker und länger sowie an den Spitzen nicht oder weniger stark verzweigt. Beide gelten als essbar, werden aber offenbar nicht sehr geschätzt. Auf jeden Fall würden sich einige Exemplare schon aus optischen Gründen ganz gut in einem Pilzgericht machen. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/clavulina-rugosa-runzelige-koralle)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrophoropsis_-aurantiaca_fm.albida_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.01.2023: Dem ganz normalen Falschen Pfifferling begegnet man zur Zeit wohl in jedem Nadelwald. Manchmal reibt man sich verwundert die Augen, wenn ganz offensichtlich die gewohnten Farben nicht stimmen, wenn er weiße Lamellen und vielleicht sogar noch einen dunkelbraunen Stiel hat. Dann handelt es sich um unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Weißblättrigen Afterleistling *Hygrophoropsis aurantiaca fm. albida*, der allerdings keine eigene Art sondern nur eine abwechende Form des normalen [Falschen Pfifferlings](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling) ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hygrophoropsis-aurantiaca-fm-albida-weißblättriger-afterleistling)
 
 <div style="clear:  both"></div>
 
