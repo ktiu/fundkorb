@@ -16,7 +16,7 @@ footer_scripts:
 
 17.01.203: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Moosbewohnnde Braunsporbecherchen *Chromocyphella muscicola*, ein Winzling, der meist nur 1 bis 2 mm groß wird, maximal ca. 4 mm. Er gilt als selten, was aber bezweifelt werden darf. Nach meinen Erfahrungen ist er bei feuchter Witterung während der Wintermonate in Laubwäldern sogar recht häufig. Bei gezielter Suche achte man auf bemooste Stämme lebender Bäume, und hier besonders auf ausgebleichte Stellen. Dieses auffällige Schadbild wird durch den Pilz verursacht. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)
 
 <div style="clear:  both"></div>
 
