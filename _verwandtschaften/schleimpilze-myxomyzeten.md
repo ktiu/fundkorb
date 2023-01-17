@@ -44,7 +44,7 @@ Bis jetzt sind knapp über 1000 Arten beschrieben worden, jedoch werden laufend 
 {% include bild.html datei="/bilder/arcyria_incarnata_02_wi.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Lachsfarbener Schleimpilz Tubulifera arachnoidea -- Roter Kelchstäubling Arcyria incarnata" %}
 
-Bisher 20 Schleimpilzarten aus 13 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
+Bisher 21 Schleimpilzarten aus 14 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
 
 [](/pilze/diachaea-leucopodia-buckingham-schleimpilz)[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
 [Arcyria incarnata (Arcyriaceae) - Roter Kelchstäubling](/pilze/arcyria-incarnata-roter-kelchst%C3%A4ubling)\
@@ -53,12 +53,13 @@ Bisher 20 Schleimpilzarten aus 13 Gattungen (7 Familien) im Fundkorb. Weitere we
 [Ceratiomyxa fruticulosa (Ceratiomyxaceae) - Geweihförmiger Schleimpilz](/pilze/ceratiomyxa-fruticulosa-geweihförmiger-schleimpilz)\
 [Diachaea leucopodia (Didymiaceae) - Buckingham-Schleimpilz](/pilze/diachaea-leucopodia-buckingham-schleimpilz)\
 [Fuligo muscorum (Physaraceae) - Moos-Lohblüte](/pilze/fuligo-muscorum-moos-lohblüte)\
-[Fuligo rufa (Physaraceae)- Rötende Lohblüte](/pilze/fuligo-rufa-rötliche-lohblüte)\
+[Fuligo rufa (Physaraceae) - Rötende Lohblüte](/pilze/fuligo-rufa-rötliche-lohblüte)\
 [Fuligo septica (Physaraceae) - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
-[Hemitrichia serpula - Netzschleimpilz](/pilze/hemitrichia-serpula-netzschleimpilz)\
-[Lindbladia tubulina - (Enteridiaceae) Röhriger Schleimpilz](/pilze/lindbladia-tubulina-röhriger-schleimpilz)\
+[Hemitrichia serpula (Trichiaceae) - Netzschleimpilz](/pilze/hemitrichia-serpula-netzschleimpilz)\
+[Lindbladia tubulina (Enteridiaceae) Röhriger Schleimpilz](/pilze/lindbladia-tubulina-röhriger-schleimpilz)\
 [Lycogala epidendrum (Enteridiaceae) - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 [Metatrichia vesparium (Trichiaceae) - Wespennest](/pilze/metatrichia-vesparium-wespennest)\
+Mucilago crustacea (Didymiaceae) - Schaumpilz, Grubiges Polsterkissen  
 [Physarum cinereum (Physaridae) - Grauer Gras-Schleimpilz](/pilze/physarum-cinereum-grauer-gras-schleimpilz)\
 [Physarum utriculare (Physaridae) - Fadenfrucht-Schleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
 [Reticularia lycoperdon (Enteridiaceae) - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
