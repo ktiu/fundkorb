@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sarcoscypha_aurantiaca_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.01.2013: Gleich an zwei Standorten konnte mit dem Gemeinen Prachtbecherling *Sarcoscypha austriaca* ein besonders attraktiver aktueller [Fundkorbpilz](AA "Glossar-") gefunden werden: in einem Auwald am Isarufer nördlich von München und im Zenger Moos bei Ismaning. So gemein wie sein deutscher Name vermuten lässt, ist der Pilz allerdings nicht. Man wird ihm nur selten begegnen, meist nach der Schneeschmelze oder im zeitigen Frühjahr. Er wird auch Österreichischer Prachtbecherling genannt. Wir fanden ca. 20 zum Teil noch sehr junge Fruchtkörper, die auf Holzästen wuchsen und aus dunkler Erde leuchtend rot hervorblitzten. Natürlich mussten die Funde mikroskopisch verifiziert werden, was anhand der Sporen und korkenzieherartig verschlungener Haare auch zweifelsfrei gelang. (Johann Rejek)
+
+[Mehr lesen >](/pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/chromocyphella_muscicola_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,30 +41,6 @@ footer_scripts:
 16.01.2023: Wenn man an geeigneten Substraten (bemooste oder unbemooste Rinde von Laubbäumen) gezielt nach Rindenhelmlingen sucht, hat man in den Wintermonaten gute Chancen, unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu finden. Besonders gern wächst der Rötliche Rindenhelmling *Mycene meliigena* bei uns in Dietzenbach an Weiden, meist in kleinen Gruppen oder auch größere Flächen bevölkernd. Es handelt sich um kleine Pilzchen mit Hutdurchmessern von meist weniger als einem Zentimeter, aber es sind hübsche Kerlchen und es lohnt sich, genauer hinzuschauen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycena-meliigena-rötlicher-rindenhelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tremella_foliacea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotbraune Zitterling *Tremella foliacea*. Seine Fruchtkörper bestehen aus wellig verbogenen abgerundeten Lappen, die jung ockergelblich oder ähnlich wie Bernstein gefärbt sind und im Alter dunkler rotbraun bis nahezu schwarzbraun werden. Er ist ganzjährig an verschiedenen Laubhölzern zu finden und auf allen Kontinenten mit Ausnahme der Antarktis verbreitet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tremella-foliacea-rotbrauner-zitterlling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clavulina_rugosa_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-14.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Runzelige Koralle *Clavulina rugosa*. Zur Zeit ist sie wohl dank der milden Witterung recht häufig in unseren Wäldern zu finden. Auffällig ist, dass sie Waldwegränder bevorzugt, an denen man ihr mitunter in größeren Kolonien begegnet. Sie hat eine gewisse Ähnlichkeit mit der [Kammkoralle *Clavulina coralloides*](/pilze/clavulina-coralloides-kammkoralle), ist jedoch schlanker und länger sowie an den Spitzen nicht oder weniger stark verzweigt. Beide gelten als essbar, werden aber offenbar nicht sehr geschätzt. Auf jeden Fall würden sich einige Exemplare schon aus optischen Gründen ganz gut in einem Pilzgericht machen. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/clavulina-rugosa-runzelige-koralle)
 
 <div style="clear:  both"></div>
 
