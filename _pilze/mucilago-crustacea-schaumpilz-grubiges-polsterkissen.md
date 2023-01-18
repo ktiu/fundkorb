@@ -21,16 +21,16 @@ literatur:
 
 *Mucilago crustacea* gehört zu den Schleimpilzen, die sich in ihrem ersten amöbenartigen Lebensstadium kriechend und fressend fortbewegen und je nachdem, an welchem Substrat sie sich in pilzartige [Fruktifikationen](Fruktifikation "Glossar") verwandeln, unterschiedliche Erscheinungsformen ausbilden und diese bis zur Sporenreife auch noch mehrfach und signifikant verändern können. An morschem Holz bildet der Schaumpilz zum Beispiel kissenartige Strukturen, an Gräsern kann er hochklettern und kugelige oder beutelartige Formen entwickeln.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mucilago_crustacea_02_nk.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/mucilago_crustacea_03_nk.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/mucilago_crustacea_03_nk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Norbert Kühnberger" %}
 
 Diese Fruktifikationen sind weißlich bis cremefarbig und können bis zu 10 cm lang und 3 cm breit werden. Damit sind sie im Gegesatz zu vielen anderen Schleimpilzen recht auffällig. Die warzigen bis stacheligen Sporen sind in Masse schwarz und messen 10 x 18 µm.
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/mucilago_crustacea_04_nk.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/mucilago_crustacea_05_nk.jpg" nocrop=true %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/mucilago_crustacea_04_nk.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/mucilago_crustacea_05_nk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Norbert Kühnberger" %}
 
 Ähnliche Schleimpilze an Totholz sind u. a. *Sebacina incrustata*, *Fuligo candida*, *Fuligo cinerea* und *[Fuligo rufa](/pilze/fuligo-rufa-rötliche-lohblüte)*. Vorkommen an Gras dürften als unverwechselbar gelten.
