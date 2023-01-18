@@ -20,7 +20,7 @@ Andere auf Brennnesseln wachsende Pilze:
 
 auf vorjährigen, trockenen Stängeln:
 
-[Acrospermum compressum](/pilze/acrospermum-compressum-fadenförmiges-flachkeulchenchen)  =  Fadenförmiges Flachkeulchen\
+[Acrospermum compressum](/pilze/acrospermum-compressum-fadenförmiges-flachkeulchen)  =  Fadenförmiges Flachkeulchen\
 [Aporhytisma urticae](/pilze/aporhytisma-urticae)\
 [Calloria neglecta](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  =  Orangerotes Brennnesselbecherchen\
 [Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
