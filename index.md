@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/auricularia_auricula-judae_01_rd.jpg" %}
+{% include abbildung_ende.html %}
+
+19.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Judasohr *Auricularia auricula-judae*, das vielen auch als China-Morchel bekannt ist. Die ohrförmigen bis lappigen Pilze haben kaum einen Eigengeschmack, aber einen speziellen Biss, der nicht nur asiatischen Gerichten eine spezielle Note gibt. Das Judasohr ist überaus häufig und ganzjährig zu finden. Erfahrene Sammler wissen, dass es eine Vorliebe für tote Holunderstämme und -äste hat, andererseits ist es jedoch eine Art mit einem enormen Wirtsspektrum. Die Liste der Hölzer, an denen Judasohren wachsen können, liest sich wie ein Verzeichnis aller in Mitteleuropa vorkommenden Baumarten, die Blätter haben. Sogar an Waldreben habe ich sie schon gesehen, die bekanntlich zu den Lianen gehören. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/auricularia-auricula-judae-judasohr)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/sarcoscypha_aurantiaca_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
