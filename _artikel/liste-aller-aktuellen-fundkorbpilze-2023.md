@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-18.01.2023: [Sarcoscypha austriaca - Gemeiner Prachtbecherling](/pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)  
+19.01.2023: [Auricularia auricula-judae - Judasohr](/pilze/auricularia-auricula-judae-judasohr)  
+18.01.2023: [Sarcoscypha austriaca - Gemeiner Prachtbecherling](/pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)\
 17.01.2023: [Chromocyphella muscicola - Moosbewohnendes Braunsporbecherchen](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)\
 16.01.2023: [Mycena meliigena - Rötlicher Rindenhelmling](/pilze/mycena-meliigena-rötlicher-rindenhelmling)\
 15.01.2023: [Tremella foliacea - Rotbrauner Zitterling](/pilze/tremella-foliacea-rotbrauner-zitterlling)\
