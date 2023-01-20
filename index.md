@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trichaptum_abietinum_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.01.2023: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist mit ziemlicher Sicherheit überall zu finden, wo totes Nadelholz herumliegt, und das auch noch zu jeder beliebigen Jahreszeit. Da er kaum zu verwechseln ist, gehört der Violette Lederporling Trichaptum abietinum zu den am flächendeckendsten kartierten Pilzarten überhaupt. Um die violette Farbe zu erkennen, muss man die Fruchtkörper allerdings umdrehen. Oder die wie auf dem Foto [resupinat](resupinat "Glossar") wachsenden Anfangsstadien an den Holzunterseiten betrachten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/auricularia_auricula-judae_01_rd.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,30 +41,6 @@ footer_scripts:
 18.01.2013: Gleich an zwei Standorten konnte mit dem Gemeinen Prachtbecherling *Sarcoscypha austriaca* ein besonders attraktiver aktueller [Fundkorbpilz](AA "Glossar-") gefunden werden: in einem Auwald am Isarufer nördlich von München und im Zenger Moos bei Ismaning. So gemein wie sein deutscher Name vermuten lässt, ist der Pilz allerdings nicht. Man wird ihm nur selten begegnen, meist nach der Schneeschmelze oder im zeitigen Frühjahr. Er wird auch Österreichischer Prachtbecherling genannt. Wir fanden ca. 20 zum Teil noch sehr junge Fruchtkörper, die auf Holzästen wuchsen und aus dunkler Erde leuchtend rot hervorblitzten. Natürlich mussten die Funde mikroskopisch verifiziert werden, was anhand der Sporen und korkenzieherartig verschlungener Haare auch zweifelsfrei gelang. (Johann Rejek)
 
 [Mehr lesen >](/pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chromocyphella_muscicola_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.01.203: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Moosbewohnnde Braunsporbecherchen *Chromocyphella muscicola*, ein Winzling, der meist nur 1 bis 2 mm groß wird, maximal ca. 4 mm. Er gilt als selten, was aber bezweifelt werden darf. Nach meinen Erfahrungen ist er bei feuchter Witterung während der Wintermonate in Laubwäldern sogar recht häufig. Bei gezielter Suche achte man auf bemooste Stämme lebender Bäume, und hier besonders auf ausgebleichte Stellen. Dieses auffällige Schadbild wird durch den Pilz verursacht. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_meliigena_02_uvs.jpg" %}
-{% include abbildung_ende.html %}
-
-16.01.2023: Wenn man an geeigneten Substraten (bemooste oder unbemooste Rinde von Laubbäumen) gezielt nach Rindenhelmlingen sucht, hat man in den Wintermonaten gute Chancen, unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu finden. Besonders gern wächst der Rötliche Rindenhelmling *Mycene meliigena* bei uns in Dietzenbach an Weiden, meist in kleinen Gruppen oder auch größere Flächen bevölkernd. Es handelt sich um kleine Pilzchen mit Hutdurchmessern von meist weniger als einem Zentimeter, aber es sind hübsche Kerlchen und es lohnt sich, genauer hinzuschauen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-meliigena-rötlicher-rindenhelmling)
 
 <div style="clear:  both"></div>
 
