@@ -5,14 +5,15 @@ beschreibung:
   erlaeuterung: commune = gewöhnlich, gemein, überall vorkommend
   referenz: Fr. 1815
   familie: Schizophyllaceae
+profil:
+  autor_in: Dieter Gewalt
+  aktualisiert: 2023-01-20
 hauptbild:
   datei: /bilder/schizophyllum_commune_02_tl-1.jpg
   anzeige: true
   legende: "Foto: Thomas Lehr"
-profil:
-  autor_in: Dieter Gewalt
-  aktualisiert: 2018-03-18
 literatur:
+  - url: https://de.wikipedia.org/wiki/Gemeiner_Spaltbl%C3%A4ttling
   - url: http://tintling.com/pilzbuch/arten/s/Schizophyllum_commune.html
 published: true
 ---
@@ -25,6 +26,10 @@ Der Spaltblättling ist ein Kosmopolit mit einem schier unüberschaubaren Wirtss
 
 Der deutsche Name Spaltblättling beschreibt zwar überzeugend das Aussehen der Lamellen, ist aber irreführend. Studien der Fruchtkörperentwicklung haben gezeigt, dass es sich nicht um gespaltene Lamellen handelt. Was wir für Lamellen halten, sind die aneinanderliegenden, miteinander verwachsenen Außenseiten von länglichen becherförmigen Einzelfruchtkörpern, die sich beim radialen Wachstum gestreckt haben. Der Pilz stellt also eine Art Sammelfruchtkörper dar.
 
-{% include abbildung_start.html %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/schizophyllum_commune_01_dg-1536x795.jpeg" %}
 {% include abbildung_ende.html %}
+
+Spaltblättlinge erscheinen meist in Scharen, oft auch dicht gedrängt. Sie sind stiellos am Substrat angewachsen, ihre weißgraue Oberseite ist zottig filzig. Überaus attraktiv ist dagegen die lamellige Unterseite, wie die hier gezeigten Fotos erkennen lassen. Genauer hinzuschauen lohnt sich also und erfreut das Auge.
+
+Schizophyllum ist eine [monotypische](monotypisch "Glossar") Gattung in einer eigenen Familie, so dass der Spaltblättling eine ziemlich isolierte Stellung im Reich der Pilze einnimmt und keine näheren Verwandten hat.
