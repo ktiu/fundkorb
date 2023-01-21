@@ -19,7 +19,7 @@ Dieser Pilz ist leicht durch den Vergleich mit seiner Abbildung in einem Pilzbuc
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/spathularia_flavida_02_dg.jpg" %}
 {% include bild.html datei="/bilder/spathularia_flavida_03_dg.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Manche Fruchtkörper sehen aus wie Tischtennisschläger in Miniaturformat" %}
 
 In der DGfM-Kartierung ist für Hessen nur ein Fund eingetragen. Er stammt von Harald Zühlsdorf und wurde aus dem Raum Wetzlar gemeldet. Nachgetragen werden müsste ein weiterer Nachweis aus dem Landkreis Dieburg in einem Nadelwald nahe der Grenze zu Bayern (TK 6120.1.4). Margarethe Mohr führte mich am 1. November 2015 zur Fundstelle, an der ich die obigen Aufnahmen machen konnte.
 
