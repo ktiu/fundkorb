@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-20.01.2023: [Trichaptum abietinum - Violetter Lederporling](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)  
+21.01.2023 [Lepista sordida - Schmutziger Rötelritterling](/pilze/lepista-sordida-schmutziger-rötelritterling)  
+20.01.2023: [Trichaptum abietinum - Violetter Lederporling](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)\
 19.01.2023: [Auricularia auricula-judae - Judasohr](/pilze/auricularia-auricula-judae-judasohr)\
 18.01.2023: [Sarcoscypha austriaca - Gemeiner Prachtbecherling](/pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)\
 17.01.2023: [Chromocyphella muscicola - Moosbewohnendes Braunsporbecherchen](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)\
