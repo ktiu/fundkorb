@@ -14,7 +14,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/lepista_sordida_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-21.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schmutzige Rötelritterling *Lepista sordida*, der zur Zeit trotz frostiger Nächte in der Grünanlage an der Dietzenbacher Rodgaustraße wohlzufühlen scheint. "Schmutzig" bezieht sich auf die Farbe, die nicht so schön violett ist wie beim Violetten Rötelritterling. Auch im Speisewert kann er mit diesem nicht mithalten. (Dieter Gewalt)
+21.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schmutzige Rötelritterling *Lepista sordida*, der sich zur Zeit trotz frostiger Nächte in der Grünanlage an der Dietzenbacher Rodgaustraße wohlzufühlen scheint. "Schmutzig" bezieht sich auf die Farbe, die nicht so schön violett ist wie beim Violetten Rötelritterling. Auch im Speisewert kann er mit diesem nicht mithalten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lepista-sordida-schmutziger-rötelritterling)
 
