@@ -31,4 +31,4 @@ Der ein- oder auch mehrjährige Pilz ist ausschließlich an totem Nadelholz, gan
 {% include bild.html datei="/bilder/antrodia_serialis_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Die Gattung *Antrodia* ist in Deutschland mit acht Arten vertreten, von denen die Reihige Tramete die mit Abstand häufigste, aber keinesfall sehr häufig ist. Verwechselt werden könnte sie vor allem mit der [Gelben Braunfäuletramete Antrodia xantha](/pilze/antrodia-serialis-reihige-tramete).
+Die Gattung *Antrodia* ist in Deutschland mit acht Arten vertreten, von denen die Reihige Tramete die mit Abstand häufigste, aber keinesfall sehr häufig ist. Verwechselt werden könnte sie vor allem mit der [Gelben Braunfäuletramete Antrodia xantha](/pilze/antrodia-xantha-gelbe-braunfäuletramete-gelblicher-resupinatporling).
