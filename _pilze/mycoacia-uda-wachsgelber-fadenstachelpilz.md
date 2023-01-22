@@ -17,6 +17,10 @@ literatur:
 ---
 Wer im Wald regelmäßig feucht am Boden liegende Laubholzäste und -ästchen umdreht, die sich in der späten Initial- oder frühen Finalphase der Vermorschung befinden, wird früher oder später auf flächig wachsende Stachelpilzchen stoßen, deren Stacheln meist nur mit der Lupe gut sichtbar werden. Wenn diese auf einem [Subikulum](Subikulum "Glossar") sitzen, könnte es eine von vier *Mycoacia*-Arten sein.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/mycoacia_uda_03_dg.jpg" %}
+{% include abbildung_ende.html legende="Myoacia uda: die Stacheln können mehrere Millimeter lang werden und sich dabei an der Spitze aufspalten" %}
+
 Pilzfreunde, die sich auf eine solche akribische Suche begeben, sind in der Regel mit einigen chemischen Reagenzien ausgestattet und im Besitz von Kalilauge (genauer gesagt: Kaliumhydroxid = KOH). Bei Kontakt mit dieser Chemikalie verfärbt sich die Fruchtschicht von zwei Mycoacia-Arten: purpurrot bei *Mycoacia uda*, dunkelbraun bei *[Mycoacia fuscoatra](/pilze/mycoacia-fuscoatra-schwarzbrauner-fadenstachelpilz)*. Die etwas häufigere Art ist Mycoacia uda, die schon im Wald an ihrer gelbgrünlichen bis ockergelben Farbe zu erkennen ist. Ganz jung ist das [Hymenium](Hymenium "Glossar") zitronengelb wie auf dem Foto oben rechts. Die Stacheln von Mycoacia fuscoatra sind dagegen hell bräunlich gefärbt.  
 
 {% include abbildung_start.html stil="mittel" %}
