@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_pomaceus_01_dg-.jpg" %}
+{% include abbildung_ende.html %}
+
+22.01.2022: Um den heutigen aktuellen [Fundkorbpilz](AA "Glossar-") zu fotografieren, brauche ich nur vor unsere Haustür und von da fünf Meter nach rechts zu gehen. Da steht ein Blutpflaumenbaum und an seinem Stamm wächst seit Jahren der Pflaumen-Feuerschwamm *Phellinus pomaceus*. Er ist zwar ein Parasit, der eine Weißfäule im Holz erzeugt, aber nicht sehr aggressiv, so dass der befallene Baum noch eine lange Lebenszeit vor sich hat und weiterhin Früchte trägt.
+
+[Mehr lesen >](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lepista_sordida_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,30 +41,6 @@ footer_scripts:
 20.01.2023: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist mit ziemlicher Sicherheit überall zu finden, wo totes Nadelholz herumliegt, und das auch noch zu jeder beliebigen Jahreszeit. Da er kaum zu verwechseln ist, gehört der Violette Lederporling Trichaptum abietinum zu den am flächendeckendsten kartierten Pilzarten überhaupt. Um die violette Farbe zu erkennen, muss man die Fruchtkörper allerdings umdrehen. Oder die wie auf dem Foto [resupinat](resupinat "Glossar") wachsenden Anfangsstadien an den Holzunterseiten betrachten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/auricularia_auricula-judae_01_rd.jpg" %}
-{% include abbildung_ende.html %}
-
-19.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Judasohr *Auricularia auricula-judae*, das vielen auch als China-Morchel bekannt ist. Die ohrförmigen bis lappigen Pilze haben kaum einen Eigengeschmack, aber einen speziellen Biss, der nicht nur asiatischen Gerichten eine spezielle Note gibt. Das Judasohr ist überaus häufig und ganzjährig zu finden. Erfahrene Sammler wissen, dass es eine Vorliebe für tote Holunderstämme und -äste hat, andererseits ist es jedoch eine Art mit einem enormen Wirtsspektrum. Die Liste der Hölzer, an denen Judasohren wachsen können, liest sich wie ein Verzeichnis aller in Mitteleuropa vorkommenden Baumarten, die Blätter haben. Sogar an Waldreben habe ich sie schon gesehen, die bekanntlich zu den Lianen gehören. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/auricularia-auricula-judae-judasohr)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/sarcoscypha_aurantiaca_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.01.2013: Gleich an zwei Standorten konnte mit dem Gemeinen Prachtbecherling *Sarcoscypha austriaca* ein besonders attraktiver aktueller [Fundkorbpilz](AA "Glossar-") gefunden werden: in einem Auwald am Isarufer nördlich von München und im Zenger Moos bei Ismaning. So gemein wie sein deutscher Name vermuten lässt, ist der Pilz allerdings nicht. Man wird ihm nur selten begegnen, meist nach der Schneeschmelze oder im zeitigen Frühjahr. Er wird auch Österreichischer Prachtbecherling genannt. Wir fanden ca. 20 zum Teil noch sehr junge Fruchtkörper, die auf Holzästen wuchsen und aus dunkler Erde leuchtend rot hervorblitzten. Natürlich mussten die Funde mikroskopisch verifiziert werden, was anhand der Sporen und korkenzieherartig verschlungener Haare auch zweifelsfrei gelang. (Johann Rejek)
-
-[Mehr lesen >](/pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)
 
 <div style="clear:  both"></div>
 
