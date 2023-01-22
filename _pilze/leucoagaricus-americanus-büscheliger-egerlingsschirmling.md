@@ -36,9 +36,9 @@ Wer den Dietzenbacher Standort an der Offenbacher Straße aufsuchen möchte: Die
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/leucoagaricus_americanus_04-_dg.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="29.09.2022: Dietzenbach, Grünstreifen an der Offenbacher Straße" %}
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/leucoagaricus_americanus_05-_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/leucoagaricus_americanus_06-_dg.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="29.09.2022: Dietzenbach, Grünstreifen an der Offenbacher Straße" %}
+{% include abbildung_ende.html legende="Die Stielringe sind nach oben abziehbar" %}
