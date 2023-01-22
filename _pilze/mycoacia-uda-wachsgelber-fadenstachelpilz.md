@@ -15,7 +15,7 @@ literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 2, Nr. 170 "
   - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/muda.php
 ---
-Wer im Wald regelmäßig feucht am Boden liegende Laubholzäste und -ästchen umdreht, die sich in der späten Initial- oder frühen Finalphase der Vermorschung befinden, wird früher oder später auf flächig wachsende Stachelpilzchen stoßen, deren Stacheln meist nur mit der Lupe gut sichtbar werden. Wenn diese auf einem [Subikulum](Subikulum "Glossar") sitzen, könnte es eine von vier *Mycoacia*-Arten sein.
+Wer im Wald regelmäßig feucht am Boden liegende Laubholzäste und -ästchen umdreht, die sich in der späten Initial- oder frühen Finalphase der Vermorschung befinden, wird früher oder später auf flächig wachsende Stachelpilzchen stoßen, deren Stacheln meist nur mit der Lupe gut sichtbar werden. Wenn diese auf einem [Subikulum](Subikulum "Glossar") sitzen, könnte es eine von vier *Mycoacia*-Arten sein. 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/mycoacia_uda_03_dg.jpg" %}
