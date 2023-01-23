@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Geweihförmige Holzkeule *Xylaria hypoxylon*, eine unverwechselbare Art, die das ganze Jahr über an totem Lauholz zu finden ist. Am häufigsten besiedelt sie scharenweise die Schnittflächen von Buchenstümpfen. Der zierliche Pilz zeigt sich in zwei unterschiedlichen Stadien. Als komplett schwarze Keulchen oder mit weißen, beim Anschnippen stäubenden Spitzen. Diese sind so vielgestaltig, dass kaum einmal eine einer anderen gleicht. Der weiße Staub besteht aus ungeschlechlichen Sporen, die komplett schwarzen Fruchtkörper produzieren dagegen die sexuellen. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_pomaceus_01_dg-.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,18 +41,6 @@ footer_scripts:
 21.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schmutzige Rötelritterling *Lepista sordida*, der sich zur Zeit trotz frostiger Nächte in der Grünanlage an der Dietzenbacher Rodgaustraße wohlzufühlen scheint. "Schmutzig" bezieht sich auf die Farbe, die nicht so schön violett ist wie beim Violetten Rötelritterling. Auch im Speisewert kann er mit diesem nicht mithalten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lepista-sordida-schmutziger-rötelritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trichaptum_abietinum_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.01.2023: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist mit ziemlicher Sicherheit überall zu finden, wo totes Nadelholz herumliegt, und das auch noch zu jeder beliebigen Jahreszeit. Da er kaum zu verwechseln ist, gehört der Violette Lederporling Trichaptum abietinum zu den am flächendeckendsten kartierten Pilzarten überhaupt. Um die violette Farbe zu erkennen, muss man die Fruchtkörper allerdings umdrehen. Oder die wie auf dem Foto [resupinat](resupinat "Glossar") wachsenden Anfangsstadien an den Holzunterseiten betrachten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)
 
 <div style="clear:  both"></div>
 
