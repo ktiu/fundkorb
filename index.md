@@ -54,10 +54,8 @@ footer_scripts:
 
 Vom Waldparkplatz an der B459 im Kreis Offenbach führt ein von Spaziergängern viel begangener Weg in Richtung Osten nach Dietzenbach-Steinberg. Pilzfreunde sind hier überrascht stehen geblieben und haben sich entzückt ein kleines Kunstwerk betrachtet, das bald als Ballerina-Ballett einen gewissen Bekanntheitsgrad in der Region erlangte.
 
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/ballerina_01_dg.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/ballerina_03_dg.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/ballerina_02_dg.jpg" nocrop=true gross=true %}
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
 An einem etwa 50 Zentimeter hohen Buchenstumpf sind 4 Tänzerinnen dargestellt, und zwar im wahrsten Sinne des Wortes dreidimensional: vier junge Porlingsfruchtkörper, vermutlich Zunderschwämme, sind als Bestandteil der Bekleidung in das Kunstwerk einbezogen worden. Trotz intensiver Recherchen konnte nicht ermittelt werden, wem wir das reizende Ballett zu verdanken haben. Wer glaubt, etwas an der Qualität der Gemälde mäkeln zu müssen, sollte bedenken, dass es schwieriger ist, Farbe auf raue Buchenrinde aufzutragen als Öl auf Leinwand.
