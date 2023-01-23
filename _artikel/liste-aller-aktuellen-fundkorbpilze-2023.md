@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-22.01.2023: [Phellinus pomaceus - Pflaumen-Feuerschwamm](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)  
+23.01.2023: [Xylaria hypoxylon - Geweihförmige Holzkeule](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)  
+22.01.2023: [Phellinus pomaceus - Pflaumen-Feuerschwamm](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)\
 21.01.2023 [Lepista sordida - Schmutziger Rötelritterling](/pilze/lepista-sordida-schmutziger-rötelritterling)\
 20.01.2023: [Trichaptum abietinum - Violetter Lederporling](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)\
 19.01.2023: [Auricularia auricula-judae - Judasohr](/pilze/auricularia-auricula-judae-judasohr)\
