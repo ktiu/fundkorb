@@ -14,7 +14,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/exidia_recisa_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-24.01.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Abgestutzte Drüsling *Exidia recisa*. Er wächst zur Zeit an toten Weidenästen am Rand einer Dietzenbacher Streuobstwiese. Das Substrat ist typisch für ihn, weshalb er auch Weidendrüsling genannt wird. Auch sein Erscheinen während der kalten Jahreszeit ist charakteristisch. Dann können seine kandisbraunen muschel- oder lappenförmigen Fruchtkörper steif gefroren sein und nach dem Auftauen weiterwachsen. Er wird zwar als essbar bezeichnet, aber wer ihn nicht isst, hat nichts versäumt. (Dieter Gewalt)
+24.01.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Kreisel-Drüsling *Exidia recisa*. Er wächst zur Zeit an toten Weidenästen am Rand einer Dietzenbacher Streuobstwiese. Das Substrat ist typisch für ihn, weshalb er auch Weidendrüsling genannt wird. Auch sein Erscheinen während der kalten Jahreszeit ist charakteristisch. Dann können seine kandisbraunen muschel- oder lappenförmigen Fruchtkörper steif gefroren sein und nach dem Auftauen weiterwachsen. Er wird zwar als essbar bezeichnet, aber wer ihn nicht isst, hat nichts versäumt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/exidia-recisa-kreisel-drüsling-weidendrüsling)
 
