@@ -11,6 +11,18 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/exidia_recisa_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.01.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Abgestutzte Drüsling *Exidia recisa*. Er wächst zur Zeit an toten Weidenästen am Rand einer Dietzenbacher Streuobstwiese. Das Substrat ist typisch für ihn, weshalb er auch Weidendrüsling genannt wird. Auch sein Erscheinen während der kalten Jahreszeit ist charakteristisch. Dann können seine kandisbraunen muschel- oder lappenförmigen Fruchtkörper steif gefroren sein und nach dem Auftauen weiterwachsen. Er wird zwar als essbar bezeichnet, aber wer ihn nicht isst, hat nichts versäumt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/exidia-recisa-kreisel-drüsling-weidendrüsling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,18 +41,6 @@ footer_scripts:
 22.01.2022: Um den heutigen aktuellen [Fundkorbpilz](AA "Glossar-") zu fotografieren, brauche ich nur vor unsere Haustür und von da fünf Meter nach rechts zu gehen. Da steht ein Blutpflaumenbaum und an seinem Stamm wächst seit Jahren der Pflaumen-Feuerschwamm *Phellinus pomaceus*. Er ist zwar ein Parasit, der eine Weißfäule im Holz erzeugt, aber nicht sehr aggressiv, so dass der befallene Baum noch eine lange Lebenszeit vor sich hat und weiterhin Früchte trägt.
 
 [Mehr lesen >](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lepista_sordida_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schmutzige Rötelritterling *Lepista sordida*, der sich zur Zeit trotz frostiger Nächte in der Grünanlage an der Dietzenbacher Rodgaustraße wohlzufühlen scheint. "Schmutzig" bezieht sich auf die Farbe, die nicht so schön violett ist wie beim Violetten Rötelritterling. Auch im Speisewert kann er mit diesem nicht mithalten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lepista-sordida-schmutziger-rötelritterling)
 
 <div style="clear:  both"></div>
 
