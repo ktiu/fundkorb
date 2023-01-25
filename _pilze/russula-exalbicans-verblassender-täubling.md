@@ -19,7 +19,7 @@ literatur:
 ---
 Bei diesem Täubling "verblasst" nicht nur die Farbe, sondern auch der Geschmack. Der ist vor allem in den Lamellen zunächst deutlich aber erträglich zu spüren, doch die Schärfe lässt allmählich nach und verschwindet schließlich ganz. 
 
-Ob scharf oder nicht ist ein wichtiges Unterscheidungskriterium in der artenreichen Gattung der Täublinge. Wenn diese anfangs festgestellte Schärfe beim Kauen sukzessive nachlässt, ist das bereits ein sehr deutlicher Hinweis auf *Russula exalbicans*, eigentlich schon ein Alleinstellungsmerkmal. Es gibt auch die umgekehrte Entwicklung. Der Zedernholztäubling *Russula badia* ist zunächst mild, wird dann allmählich schärfer und schließlich fast unerträglich scharf. Es gilt die praktisch anwendbare Regel: milde Täublinge sind ungiftig, unter den scharfen gibt es giftige und unbekömmliche. Natürlich sind Geschmacksproben stets auszuspucken.
+Ob scharf oder nicht ist ein wichtiges Unterscheidungskriterium in der artenreichen Gattung der Täublinge. Wenn diese anfangs festgestellte Schärfe beim Kauen sukzessive nachlässt, ist das bereits ein sehr deutlicher Hinweis auf *Russula exalbicans*, eigentlich schon ein Alleinstellungsmerkmal. Es gibt auch die umgekehrte Entwicklung. Der *[Zedernholztäubling Russula badia ](/pilze/russula-badia-zedernholz-täubling)*ist zunächst mild, wird dann allmählich schärfer und schließlich fast unerträglich scharf. Es gilt die praktisch anwendbare Regel: milde Täublinge sind ungiftig, unter den scharfen gibt es giftige und unbekömmliche. Natürlich sind Geschmacksproben stets auszuspucken.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_exalbicans_02_bm.jpg" %}
