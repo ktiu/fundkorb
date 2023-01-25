@@ -16,7 +16,7 @@ footer_scripts:
 
 Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt/Offenbach:
 *"Wir besuchen die Ballerina-Pilze"*\
-Mehr lesen >
+[Mehr lesen >](/termine)
 
 - - -
 
