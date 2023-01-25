@@ -10,6 +10,28 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt/Offenbach:
+*"Wir besuchen die Ballerina-Pilze"*\
+Mehr lesen >
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.01.2023: Funde des Samtfußrüblings *Flammulina velutipes* werden mir zur Zeit aus einigen Regionen und auch aus dem Frankfurter Stadtwald gemeldet. Das ist für die Jahreszeit und die gegenwärtigen Temperaturen nichts Außergewöhnliches, und deshalb ist dieser Winterpilz (wie er ganz offiziell auch genannt wird) unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Es hat sich längst unter den Küchenmykologen herumgesprochen, dass es sich um einen ausgezeichneten Speisepilz handelt. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/exidia_recisa_02_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -34,31 +56,9 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_pomaceus_01_dg-.jpg" %}
-{% include abbildung_ende.html %}
-
-22.01.2022: Um den heutigen aktuellen [Fundkorbpilz](AA "Glossar-") zu fotografieren, brauche ich nur vor unsere Haustür und von da fünf Meter nach rechts zu gehen. Da steht ein Blutpflaumenbaum und an seinem Stamm wächst seit Jahren der Pflaumen-Feuerschwamm *Phellinus pomaceus*. Er ist zwar ein Parasit, der eine Weißfäule im Holz erzeugt, aber nicht sehr aggressiv, so dass der befallene Baum noch eine lange Lebenszeit vor sich hat und weiterhin Früchte trägt.
-
-[Mehr lesen >](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-- - -
-
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
 
 [Liste aller aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
-
-- - -
-
-Vom Waldparkplatz an der B459 im Kreis Offenbach führt ein von Spaziergängern viel begangener Weg in Richtung Osten nach Dietzenbach-Steinberg. Pilzfreunde sind hier überrascht stehen geblieben und haben sich entzückt ein kleines Kunstwerk betrachtet, das bald als Ballerina-Ballett einen gewissen Bekanntheitsgrad in der Region erlangte.
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html %}
-
-An einem etwa 50 Zentimeter hohen Buchenstumpf sind 4 Tänzerinnen dargestellt, und zwar im wahrsten Sinne des Wortes dreidimensional: vier junge Porlingsfruchtkörper, vermutlich Zunderschwämme, sind als Bestandteil der Bekleidung in das Kunstwerk einbezogen worden. Trotz intensiver Recherchen konnte nicht ermittelt werden, wem wir das reizende Ballett zu verdanken haben. Wer glaubt, etwas an der Qualität der Gemälde mäkeln zu müssen, sollte bedenken, dass es schwieriger ist, Farbe auf raue Buchenrinde aufzutragen als Öl auf Leinwand.
 
 - - -
 
