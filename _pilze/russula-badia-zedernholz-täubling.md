@@ -18,7 +18,7 @@ Der Zedernholz-Täubling ist eine recht häufige Art in Kiefernwäldern, kommt a
 
 > Geschmacksproben niemals runterschlucken, immer ausspucken"
 
-Am besten zerkaut man ein kleines Stückchen Hutfleisch mit Lamellen. Erster Eindruck: der Geschmack ist angenehm mild. Schlussfolgerung: der Pilz ist essbar, auf jeden Fall ungiftig. Mit der Zeit macht sich jedoch eine leichte Schärfe bemerkbar. Die nimmt kontinuierlich zu und wird nahezu unerträglich. Damit ist der Zedernholz-Täubling einer der schärfsten Täublinge überhaupt und wird, da er seine Schärfe erst allmählich offenbart, auch *"Heimtückischer Täubling"* genannt.
+Am besten zerkaut man ein kleines Stückchen Hutfleisch mit Lamellen. Erster Eindruck: der Geschmack ist angenehm mild. Schlussfolgerung: der Pilz ist essbar, auf jeden Fall ungiftig. Mit der Zeit macht sich jedoch eine leichte Schärfe bemerkbar. Die nimmt kontinuierlich zu und wird nahezu unerträglich. Damit ist der Zedernholz-Täubling einer der schärfsten Täublinge überhaupt und wird, da er seine Schärfe erst allmählich offenbart, auch *"Heimtückischer Täubling"* genannt. Es gibt übrigens auch die umgekehrte Entwicklung. Der [Verblassende Täubling *Russula exalbicans*](/pilze/russula-exalbicans-verblassender-täubling) ist zunächst scharf, doch die Schärfe lässt kontinuierlich nach und verschwindet schließlich ganz.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_badia_02_dg.jpg" %}
@@ -49,8 +49,6 @@ Die Stiele sind weiß oder auch rosa überhaucht, 1 - 3 cm dick und bis 10 cm la
     </tr>
   </table>
 </div>
-
-
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_badia_03_mhk.jpg" %}
