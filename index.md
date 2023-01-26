@@ -21,6 +21,18 @@ Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lopharia_spadicea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rußbraune Schichtpilz *Lopharia spadicea*. Auf den ersten Blick könnte man ihn für einen Schichtpilz der Gattung *Stereum* halten. Von dieser unterscheidet sich *Lopharia* vor allem durch [inamyloide](inamyloid "Glossar") Sporen. Die Oberseite dieses oft in langen Reihen an Laubholz (vor allem Buche) wachsenden [semipileaten](semipileat "Glossar") Rindenpilzes ist zoniert, grau- bis olivbraun und zottig filzig, die Unterseite glatt bis etwas höckerig. Es handelt sich um eine relativ häufige, aber nur wenig bekannte Art. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/lopharia-spadicea-rußbrauner-schichtpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/arrhenia-retiruga_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt
 25.01.2023: Funde des Samtfußrüblings *Flammulina velutipes* werden mir zur Zeit aus einigen Regionen und auch aus dem Frankfurter Stadtwald gemeldet. Das ist für die Jahreszeit und die gegenwärtigen Temperaturen nichts Außergewöhnliches, und deshalb ist dieser Winterpilz (wie er ganz offiziell auch genannt wird) unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Es hat sich längst unter den Küchenmykologen herumgesprochen, dass es sich um einen ausgezeichneten Speisepilz handelt. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/exidia_recisa_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.01.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Kreisel-Drüsling *Exidia recisa*. Er wächst zur Zeit an toten Weidenästen am Rand einer Dietzenbacher Streuobstwiese. Das Substrat ist typisch für ihn, weshalb er auch Weidendrüsling genannt wird. Auch sein Erscheinen während der kalten Jahreszeit ist charakteristisch. Dann können seine kandisbraunen muschel- oder lappenförmigen Fruchtkörper steif gefroren sein und nach dem Auftauen weiterwachsen. Er wird zwar als essbar bezeichnet, aber wer ihn nicht isst, hat nichts versäumt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/exidia-recisa-kreisel-drüsling-weidendrüsling)
 
 <div style="clear:  both"></div>
 
