@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-25.01.2023: [Flammulina velitipes - Samtfußrübling](/pilze/flammulina-velutipes-samtfußrübling)  
+26.01.2023: [Arrhenia retiruga - Schüsselförmiger Adermoosling](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)  
+25.01.2023: [Flammulina velitipes - Samtfußrübling](/pilze/flammulina-velutipes-samtfußrübling)\
 24.01.2023: [Exidia recisa - Kreisel-Drüsling (Weidendrüsling)](/pilze/exidia-recisa-kreisel-drüsling-weidendrüsling)\
 23.01.2023: [Xylaria hypoxylon - Geweihförmige Holzkeule](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)\
 22.01.2023: [Phellinus pomaceus - Pflaumen-Feuerschwamm](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)\
