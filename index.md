@@ -21,6 +21,18 @@ Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/arrhenia-retiruga_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Winzling, den man bei gezielter Suche vor allem in Moosflächen am Boden finden kann. Sein Name: Schüsselförmiger Adermoosling *Arrhenia retiruga*. Im Anfangsstadium sind es nur punktförmige helle Fleckchen am Moos, die ausgewachsen bestenfalls 8 mm Durchmesser erreichen. Ein wichtiges Kennzeichen neben der hellgrauen Farbe und der papierdünnen schalenförmigen Fruchtkörper: die Unterseiten sind glatt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt
 24.01.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Kreisel-Drüsling *Exidia recisa*. Er wächst zur Zeit an toten Weidenästen am Rand einer Dietzenbacher Streuobstwiese. Das Substrat ist typisch für ihn, weshalb er auch Weidendrüsling genannt wird. Auch sein Erscheinen während der kalten Jahreszeit ist charakteristisch. Dann können seine kandisbraunen muschel- oder lappenförmigen Fruchtkörper steif gefroren sein und nach dem Auftauen weiterwachsen. Er wird zwar als essbar bezeichnet, aber wer ihn nicht isst, hat nichts versäumt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/exidia-recisa-kreisel-drüsling-weidendrüsling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Geweihförmige Holzkeule *Xylaria hypoxylon*, eine unverwechselbare Art, die das ganze Jahr über an totem Lauholz zu finden ist. Am häufigsten besiedelt sie scharenweise die Schnittflächen von Buchenstümpfen. Der zierliche Pilz zeigt sich in zwei unterschiedlichen Stadien. Als komplett schwarze Keulchen oder mit weißen, beim Anschnippen stäubenden Spitzen. Diese sind so vielgestaltig, dass kaum einmal eine einer anderen gleicht. Der weiße Staub besteht aus ungeschlechlichen Sporen, die komplett schwarzen Fruchtkörper produzieren dagegen die sexuellen. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)
 
 <div style="clear:  both"></div>
 
