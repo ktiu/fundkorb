@@ -10,13 +10,25 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt/Offenbach:
 *"Wir besuchen die Ballerina-Pilze"*\
 [Mehr lesen >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/isaria_umbrina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.01.2023: Was auf dieser Abbildung zu sehen ist, sind nicht etwa krabbelnde Insekten. Es ist unser aktueller [Fundkorbpilz](AA "Glossar-"), die Pilzspinne *Isaria umbrina*. Die merkwürdigen Gebilde bestehen aus verzweigten [Hyphenbüscheln](Hyphen "Glossar"), die nicht selten auf Kohlenbeeren oder in deren unmittelbaren Umgebung zu finden sind. Es handelt sich bei ihnen um asexuelle Nebenfruchtformen, auch Anamorphe oder Konidienformen genannt. *Isaria umbrina* scheint besonders häufig in Verbindung mit der [Zimtbraunen Kohlenbeere *Hypoxylon howeanum*](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere) vorzukommen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/isaria-umbrina-pilzspinne)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -39,30 +51,6 @@ Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt
 27.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rußbraune Schichtpilz *Lopharia spadicea*. Auf den ersten Blick könnte man ihn für einen Schichtpilz der Gattung *Stereum* halten. Von dieser unterscheidet sich *Lopharia* vor allem durch [inamyloide](inamyloid "Glossar") Sporen. Die Oberseite dieses oft in langen Reihen an Laubholz (vor allem Buche) wachsenden [semipileaten](semipileat "Glossar") Rindenpilzes ist zoniert, grau- bis olivbraun und zottig filzig, die Unterseite glatt bis etwas höckerig. Es handelt sich um eine relativ häufige, aber nur wenig bekannte Art. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/lopharia-spadicea-rußbrauner-schichtpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/arrhenia-retiruga_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Winzling, den man bei gezielter Suche vor allem in Moosflächen am Boden finden kann. Sein Name: Schüsselförmiger Adermoosling *Arrhenia retiruga*. Im Anfangsstadium sind es nur punktförmige helle Fleckchen am Moos, die ausgewachsen bestenfalls 8 mm Durchmesser erreichen. Ein wichtiges Kennzeichen neben der hellgrauen Farbe und der papierdünnen schalenförmigen Fruchtkörper: die Unterseiten sind glatt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.01.2023: Funde des Samtfußrüblings *Flammulina velutipes* werden mir zur Zeit aus einigen Regionen und auch aus dem Frankfurter Stadtwald gemeldet. Das ist für die Jahreszeit und die gegenwärtigen Temperaturen nichts Außergewöhnliches, und deshalb ist dieser Winterpilz (wie er ganz offiziell auch genannt wird) unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Es hat sich längst unter den Küchenmykologen herumgesprochen, dass es sich um einen ausgezeichneten Speisepilz handelt. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
 
 <div style="clear:  both"></div>
 
