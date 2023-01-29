@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-29.01.2023: [Isaria umbrina - Pilzspinne](/pilze/isaria-umbrina-pilzspinne)  
+30.01.2023: [Arcyria ferruginea - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)  
+29.01.2023: [Isaria umbrina - Pilzspinne](/pilze/isaria-umbrina-pilzspinne)\
 28.01.2023: [Tramtes gibbosa - Buckeltramete](/pilze/trametes-gibbosa-buckeltramete)\
 27.01.2023: [Lopharia spadicea - Rußbrauner Schichtpilz](/pilze/lopharia-spadicea-rußbrauner-schichtpilz)\
 26.01.2023: [Arrhenia retiruga - Schüsselförmiger Adermoosling](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)\
