@@ -21,6 +21,18 @@ Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/arcyria_ferruginea_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+30.01.2023: Auch in pilzarmen Zeiten können sich Ausflüge in den Wald lohnen. Schleimpilze zum Beispiel sind zu jeder Jahreszeit zu finden und daher ist einer von ihnen unserer heutiger aktueller [Fundkorbpilz](AA "Glossar-"): der Rostfarbene Stielschleimpilz *Arcyria ferruginea*. Seine [Fruktifikationen](Fruktifikation "Glossar") bestehen aus gestielten unterschiedlich geformten [Sporocarpien](Sporocarpien "Glossar"), die pink- bis ziegelrot gefärbt sind und im Reifestadium aufplatzen, wobei deren schleimiger Inhalt in wollige Knäuel zerfällt. Am Substrat bleiben dann gestielte Schälchen zurück. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/isaria_umbrina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt
 28.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Buckeltramete *Trametes gibbosa*. Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche, und dürfte in kaum einem Laubwald fehlen. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren Schmetterlingstramete zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/trametes-gibbosa-buckeltramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lopharia_spadicea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rußbraune Schichtpilz *Lopharia spadicea*. Auf den ersten Blick könnte man ihn für einen Schichtpilz der Gattung *Stereum* halten. Von dieser unterscheidet sich *Lopharia* vor allem durch [inamyloide](inamyloid "Glossar") Sporen. Die Oberseite dieses oft in langen Reihen an Laubholz (vor allem Buche) wachsenden [semipileaten](semipileat "Glossar") Rindenpilzes ist zoniert, grau- bis olivbraun und zottig filzig, die Unterseite glatt bis etwas höckerig. Es handelt sich um eine relativ häufige, aber nur wenig bekannte Art. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/lopharia-spadicea-rußbrauner-schichtpilz)
 
 <div style="clear:  both"></div>
 
