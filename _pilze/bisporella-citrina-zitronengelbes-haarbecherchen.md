@@ -21,4 +21,4 @@ Wer sich schon ein wenig mit kleinen [Ascomyzeten](Ascomyzeten "Glossar") ausken
 {% include bild.html datei="/bilder/bisporella_citrina_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-So winzige Pilzchen werden im Allgemeinen leicht übersehen, was auf unsere hier gezeigte Art aber kaum zutrifft. Ihre leuchtend gelbe Farbe lässt sie trotz ihrer Kleinheit leicht erkennen. Zu achten ist allerdings auf das Substrat, das sie massenhaft und dicht gedrängt besiedeln: unberindete abgestorbene Laubholzäste, ganz überwiegend Buche. Sie haben keine oder nur ansatzweise ausgebildete Stielchn.
+So winzige Pilzchen werden im Allgemeinen leicht übersehen, was auf unsere hier gezeigte Art aber kaum zutrifft. Ihre leuchtend gelbe Farbe lässt sie trotz ihrer Kleinheit leicht erkennen. Zu achten ist allerdings auf das Substrat, das sie massenhaft und dicht gedrängt besiedeln: unberindete abgestorbene Laubholzäste, ganz überwiegend Buche. Sie haben keine oder nur ansatzweise ausgebildete Stielchen.
