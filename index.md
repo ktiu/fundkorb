@@ -21,6 +21,18 @@ Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_quercina_03_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+31.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der  ist der Eichen-Zystidenrindenpilz *Peniophora quercina*. Er entsteht auf der Rinde von noch am Baum befindlichen abgestorbenen Ästen aus kleineren Flecken, die sich bald zu ausgedehnten Flächen vereinigen. In frischem Zustand sind sie violett-rosa und aufgequollen, trocken grau und rissig. Der Pilz ist sehr häufig und kaum eine Eiche dürfte von ihm verschont bleiben. Da er nur tote Äste und Zweige befällt, richtet er keinen Schaden an. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/arcyria_ferruginea_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt
 29.01.2023: Was auf dieser Abbildung zu sehen ist, sind nicht etwa krabbelnde Insekten. Es ist unser aktueller [Fundkorbpilz](AA "Glossar-"), die Pilzspinne *Isaria umbrina*. Die merkwürdigen Gebilde bestehen aus verzweigten [Hyphenbüscheln](Hyphen "Glossar"), die nicht selten auf Kohlenbeeren oder in deren unmittelbaren Umgebung zu finden sind. Es handelt sich bei ihnen um asexuelle Nebenfruchtformen, auch Anamorphe oder Konidienformen genannt. *Isaria umbrina* scheint besonders häufig in Verbindung mit der [Zimtbraunen Kohlenbeere *Hypoxylon howeanum*](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere) vorzukommen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/isaria-umbrina-pilzspinne)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_gibbosa_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Buckeltramete *Trametes gibbosa*. Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche, und dürfte in kaum einem Laubwald fehlen. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren Schmetterlingstramete zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/trametes-gibbosa-buckeltramete)
 
 <div style="clear:  both"></div>
 
