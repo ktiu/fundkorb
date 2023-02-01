@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-31.01.2023: [Peniophora quercina - Eichen-Zystidenrindenpilz](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)  
+01.02.2023: [Exidia plana - Warziger Drüsling](<[Fundkorbpilz](AA "Glossar-")>)
+
+31.01.2023: [Peniophora quercina - Eichen-Zystidenrindenpilz](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)\
 30.01.2023: [Arcyria ferruginea - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
 29.01.2023: [Isaria umbrina - Pilzspinne](/pilze/isaria-umbrina-pilzspinne)\
 28.01.2023: [Tramtes gibbosa - Buckeltramete](/pilze/trametes-gibbosa-buckeltramete)\
