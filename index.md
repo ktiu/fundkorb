@@ -21,6 +21,18 @@ Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/exidia_plana_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Warzige Drüsling *Exidia plana*. Mit seinem schwarzen gekröseartig gewundem Glibber, der ganze Äste überziehen kann, ist er nicht nur unverwechselbar sondern auch häufig. Gerade jetzt bei feucht-kühler Witterung wird man ihm bei fast jedem Waldspaziergang begegnen, sofern man auch mal die Wege verlässt. Sein Hauptwirt ist die Buche. Er wird auch Hexenbutter genannt und macht bei Trockenheit eine erstunliche Wandlung durch. Dann bleibt nur eine fast völlig glatte glänzende Haut zurück, die den betroffenen Ast wie schwarz lackiert erscheinen lässt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/exidia-plana-warziger-drüsling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peniophora_quercina_03_bm.jpg" %}
 {% include abbildung_ende.html %}
 
