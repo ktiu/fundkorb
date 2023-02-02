@@ -21,6 +21,18 @@ Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ascodichaena_rugosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein auffälliges schorfartiges Muster an Baumstämmen, das von Waldspaziergängern wahrscheinlich für eine krankhafte Veränderung der Buchenrinde gehalten wird. Dieser Rindenschorf ist in Wahrheit ein Schlauchpilz (*Ascomyzet*), der *Ascodichaena rugosa* heißt und zu einer Ordnung gehört, die tatsächlich *[Flicklumpenartige](/verwandt/flicklumpenartige-rhytismatales)* genannt wird. Er fehlt in keinem Rotbuchenbestand und wurde trotz seiner Häufigkeit erst im Jahre 1977 von der Wissenschaft als Pilz erkannt und beschrieben. Die Flicklumpenartigen werden auch Runzelschorfartige (*Rhytismatales*) genannt und stellen eine ziemlich heterogene Gruppierung dar, der nur wenig Beachtung geschenkt wird. (Dieter Gewalt)
+
+*[Mehr lesen >](/pilze/ascodichaena-rugosa-buchen-rindenschorf)*
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/exidia_plana_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,30 +51,6 @@ Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt
 31.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Zystidenrindenpilz *Peniophora quercina*. Er entsteht auf der Rinde von noch am Baum befindlichen abgestorbenen Ästen aus kleineren Flecken, die sich bald zu ausgedehnten Flächen vereinigen. In frischem Zustand sind sie violett-rosa und aufgequollen, trocken grau und rissig. Der Pilz ist sehr häufig und kaum eine Eiche dürfte von ihm verschont bleiben. Da er nur tote Äste und Zweige befällt, richtet er keinen Schaden an. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/arcyria_ferruginea_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-30.01.2023: Auch in pilzarmen Zeiten können sich Ausflüge in den Wald lohnen. Schleimpilze zum Beispiel sind zu jeder Jahreszeit zu finden und daher ist einer von ihnen unserer heutiger aktueller [Fundkorbpilz](AA "Glossar-"): der Rostfarbene Stielschleimpilz *Arcyria ferruginea*. Seine [Fruktifikationen](Fruktifikation "Glossar") bestehen aus gestielten unterschiedlich geformten [Sporocarpien](Sporocarpien "Glossar"), die pink- bis ziegelrot gefärbt sind und im Reifestadium aufplatzen, wobei deren schleimiger Inhalt in wollige Knäuel zerfällt. Am Substrat bleiben dann gestielte Schälchen zurück. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/isaria_umbrina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.01.2023: Was auf dieser Abbildung zu sehen ist, sind nicht etwa krabbelnde Insekten. Es ist unser aktueller [Fundkorbpilz](AA "Glossar-"), die Pilzspinne *Isaria umbrina*. Die merkwürdigen Gebilde bestehen aus verzweigten [Hyphenbüscheln](Hyphen "Glossar"), die nicht selten auf Kohlenbeeren oder in deren unmittelbaren Umgebung zu finden sind. Es handelt sich bei ihnen um asexuelle Nebenfruchtformen, auch Anamorphe oder Konidienformen genannt. *Isaria umbrina* scheint besonders häufig in Verbindung mit der [Zimtbraunen Kohlenbeere *Hypoxylon howeanum*](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere) vorzukommen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/isaria-umbrina-pilzspinne)
 
 <div style="clear:  both"></div>
 
