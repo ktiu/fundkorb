@@ -24,7 +24,7 @@ Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt
 {% include bild.html datei="/bilder/phlebiopsis_gigantea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-03.02.2023: Ein ganzjährig häufiger [Fundkorbpilz](AA "Glossar-") in Nadelwäldern ist der Große Zystidenrindenpilz *Phlebiopsis gigantea*. In der Rhein-Mian-Ebene ist er vor allem an totem Kiefernholz zu finden, an Stümpfen oder lagernden Stämmen, an deren Schnitt- oder Seitenflächen, egal ob berindet oder nicht. Er sieht aus wie eine vielgestaltige mit Wachs betropfte Fläche und geht dabei auch weit über das bewachsene Holz hinaus auf die Umgebung über, wobei er Blätter, Nadeln, Ästchen und was immer auf dem Boden liegen mag mit seiner weißlich grauen Haut überzieht. (Dieter Gewalt)
+03.02.2023: Ein ganzjährig häufiger [Fundkorbpilz](AA "Glossar-") in Nadelwäldern ist der Große Zystidenkammpilz *Phlebiopsis gigantea*. In der Rhein-Mian-Ebene ist er vor allem an totem Kiefernholz zu finden, an Stümpfen oder lagernden Stämmen, an deren Schnitt- oder Seitenflächen, egal ob berindet oder nicht. Er sieht aus wie eine vielgestaltige mit Wachs betropfte Fläche und geht dabei auch weit über das bewachsene Holz hinaus auf die Umgebung über, wobei er Blätter, Nadeln, Ästchen und was immer auf dem Boden liegen mag mit seiner weißlich grauen Haut überzieht. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phlebiopsis-gigantea-großer-zystidenkammpilz)
 
