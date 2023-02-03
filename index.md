@@ -21,6 +21,18 @@ Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phlebiopsis_gigantea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.02.2023: Ein ganzjährig häufiger [Fundkorbpilz](AA "Glossar-") in Nadelwäldern ist der Große Zystidenrindenpilz *Phlebiopsis gigantea*. In der Rhein-Mian-Ebene ist er vor allem an totem Kiefernholz zu finden, an Stümpfen oder lagernden Stämmen, an deren Schnitt- oder Seitenflächen, egal ob berindet oder nicht. Er sieht aus wie eine vielgestaltige mit Wachs betropfte Fläche und geht dabei auch weit über das bewachsene Holz hinaus auf die Umgebung über, wobei er Blätter, Nadeln, Ästchen und was immer auf dem Boden liegen mag mit seiner weißlich grauen Haut überzieht. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phlebiopsis-gigantea-großer-zystidenkammpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ascodichaena_rugosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Pilzkundliche Führung am Sonntag, 5. Februar 2023 im Raum Dietzenbach/Frankfurt
 01.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Warzige Drüsling *Exidia plana*. Mit seinem schwarzen gekröseartig gewundem Glibber, der ganze Äste überziehen kann, ist er nicht nur unverwechselbar sondern auch häufig. Gerade jetzt bei feucht-kühler Witterung wird man ihm bei fast jedem Waldspaziergang begegnen, sofern man auch mal die Wege verlässt. Sein Hauptwirt ist die Buche. Er wird auch Hexenbutter genannt und macht bei Trockenheit eine erstunliche Wandlung durch. Dann bleibt nur eine fast völlig glatte glänzende Haut zurück, die den betroffenen Ast wie schwarz lackiert erscheinen lässt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/exidia-plana-warziger-drüsling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_quercina_03_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-31.01.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Zystidenrindenpilz *Peniophora quercina*. Er entsteht auf der Rinde von noch am Baum befindlichen abgestorbenen Ästen aus kleineren Flecken, die sich bald zu ausgedehnten Flächen vereinigen. In frischem Zustand sind sie violett-rosa und aufgequollen, trocken grau und rissig. Der Pilz ist sehr häufig und kaum eine Eiche dürfte von ihm verschont bleiben. Da er nur tote Äste und Zweige befällt, richtet er keinen Schaden an. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)
 
 <div style="clear:  both"></div>
 
