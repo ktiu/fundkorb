@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-03.02.2023: [Phlebiopsis gigantea - Großer Zystidenkammpilz](/pilze/phlebiopsis-gigantea-großer-zystidenkammpilz)  
+04.02.2023: [Fomes fomentarius - Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)  
+03.02.2023: [Phlebiopsis gigantea - Großer Zystidenkammpilz](/pilze/phlebiopsis-gigantea-großer-zystidenkammpilz)\
 02.02.2023: [Ascodichaena rugosa - Buchen-Rindenschorf](/pilze/ascodichaena-rugosa-buchen-rindenschorf)\
 01.02.2023: [Exidia plana - Warziger Drüsling](/pilze/exidia-plana-warziger-drüsling)
 
