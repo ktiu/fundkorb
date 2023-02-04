@@ -1,5 +1,5 @@
 ---
-aktivitaet: Wir besuchen die Ballerinapilze bei Dietzenbach
+aktivitaet: Wir besuchen die Ballerinapilze
 zeit: 2023-02-05T10:00:20.990Z
 bis: ""
 anmeldung_offen: true
