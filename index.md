@@ -14,11 +14,10 @@ footer_scripts:
 {% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-04.02.2023:  Unseren Vorfahren diente er zum Feuermachen, morgen werden wir den Feuerschwamm *Fomes fomentarius* als Bestandteil einer künstlerischen Darstellung bewundern können. An unserer FundGroup-Exkursion zu den "Ballerina"-Pilzen im Raum Frankfurt/Offenbach können Sie gern teilnehmen und sich noch kuzfristig anmelden. Natürlich werden wir uns auch mit allen anderen Pilzen befassen, denen wir begegnen. (Dieter Gewalt)
+04.02.2023:  Unseren Vorfahren diente er zum Feuermachen, morgen werden wir den Zunderschwamm *Fomes fomentarius* als Bestandteil einer künstlerischen Darstellung bewundern können. An unserer FundGroup-Exkursion zu den "Ballerina"-Pilzen im Raum Frankfurt/Offenbach können Sie gern teilnehmen und sich noch kuzfristig anmelden. Natürlich werden wir uns auch mit allen anderen Pilzen befassen, denen wir begegnen. (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm) 
-
-Zur Anmeldung >
+[Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)  
+[Zur Anmeldung >](/termine)
 
 - - -
 
