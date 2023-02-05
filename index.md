@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/auriscalpium_vulgare_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-05.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ohrlöffelstacheling *Auriscalpium vulgare*. Es handelt sich um eine unverwechselbare Gestalt auf einem unverwechselbaren Substrat: ein seitlich gestieltes braunes Pilzchen mit einer stacheligen Unterseite (dem Hymenium), das ausschließlich auf Kiefernzapfen wächst und in keinem Kiefernwald fehlen dürfte. Könnte allerdings sein, dass der Zapfen im Boden vergraben liegt und nicht sofort sichtbar ist. (Dieter Gewalt)
+05.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ohrlöffelstacheling *Auriscalpium vulgare*. Es handelt sich um eine unverwechselbare Gestalt auf einem unverwechselbaren Substrat: ein seitlich gestieltes braunes Pilzchen mit einer stacheligen Unterseite (dem [Hymenium](Hymenium "Glossar")), das ausschließlich auf Kiefernzapfen wächst und in keinem Kiefernwald fehlen dürfte. Könnte allerdings sein, dass der Zapfen im Boden vergraben liegt und nicht sofort sichtbar ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)
 
