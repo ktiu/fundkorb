@@ -14,9 +14,9 @@ Natürlich waren die *"Ballerina"*-Pilze das High-Light der Führung. Sie machte
 
 Die nachfolgende Auflistung erhebt keinen Anspruch auf Vollständigkeit. Sie enthält nur eine bescheidene Auswahl an Funden, darunter einige auffällige und triviale Arten an Holz, die zu jeder Jahreszeit und in jedem Wald zu erwarten sind. Es sind aber auch weniger geläufige darunter sowie winzig kleine, deren Attraktivität sich erst mit einem Blick durch die Lupe erschließt.
 
-[Bjerkandera adusta = Angebrannter Rauchporling](/pilze/bjerkandera-adusta-angebrannter-rauchporling)
-[Clavulina rugosa = Runzelige Koralle](/pilze/clavulina-rugosa-runzelige-koralle)
-[Dasyscyphella nivea = Schneeweißes Haarbecherchen](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)
+[Bjerkandera adusta = Angebrannter Rauchporling](/pilze/bjerkandera-adusta-angebrannter-rauchporling)  
+[Clavulina rugosa = Runzelige Koralle](/pilze/clavulina-rugosa-runzelige-koralle)  
+Dasyscyphella nivea = Schneeweißes Haarbecherchen](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)  
 [Fomes fomentarius = Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)
 [Lycogala epidendrum = Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)
 [Phleogena faginea = Buchen-Hütchenträger](/pilze/phleogena-faginea-buchen-hütchenträger)
