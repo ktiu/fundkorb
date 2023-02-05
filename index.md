@@ -10,13 +10,27 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/auriscalpium_vulgare_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+05.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ohrlöffelstacheling *Auriscalpium vulgare*. Es handelt sich um eine unverwechselbare Gestalt auf einem unverwechselbaren Substrat: ein seitlich gestieltes braunes Pilzchen mit einer stacheligen Unterseite (dem Hymenium), das ausschließlich auf Kiefernzapfen wächst und in keinem Kiefernwald fehlen dürfte. Könnte allerdings sein, dass der Zapfen im Boden vergraben liegt und nicht sofort sichtbar ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-04.02.2023:  Unseren Vorfahren diente er zum Feuermachen, morgen werden wir den Zunderschwamm *Fomes fomentarius* als Bestandteil einer künstlerischen Darstellung bewundern können. An unserer FundGroup-Exkursion zu den "Ballerina"-Pilzen im Raum Frankfurt/Offenbach können Sie gern teilnehmen und sich noch kuzfristig anmelden. Natürlich werden wir uns auch mit allen anderen Pilzen befassen, denen wir begegnen. (Dieter Gewalt)
+05.02.2023:  Unseren Vorfahren diente er zum Feuermachen, heute werden wir den Zunderschwamm *Fomes fomentarius* als Bestandteil einer künstlerischen Darstellung bewundern können. Bei unserer FundGroup-Exkursion werden wir die "Ballerina"-Pilze in einem Wald nahe Dietzenbach besuchen und danach in einem kurzen Rückblick über unsere Pilzfunde berichten. (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)  
+[Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)\
 [Zur Anmeldung >](/termine)
 
 - - -
@@ -28,30 +42,6 @@ footer_scripts:
 03.02.2023: Ein ganzjährig häufiger [Fundkorbpilz](AA "Glossar-") in Nadelwäldern ist der Große Zystidenkammpilz *Phlebiopsis gigantea*. In der Rhein-Mian-Ebene ist er vor allem an totem Kiefernholz zu finden, an Stümpfen oder lagernden Stämmen, an deren Schnitt- oder Seitenflächen, egal ob berindet oder nicht. Er sieht aus wie eine vielgestaltige mit Wachs betropfte Fläche und geht dabei auch weit über das bewachsene Holz hinaus auf die Umgebung über, wobei er Blätter, Nadeln, Ästchen und was immer auf dem Boden liegen mag mit seiner weißlich grauen Haut überzieht. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phlebiopsis-gigantea-großer-zystidenkammpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ascodichaena_rugosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein auffälliges schorfartiges Muster an Baumstämmen, das von Waldspaziergängern wahrscheinlich für eine krankhafte Veränderung der Buchenrinde gehalten wird. Dieser Rindenschorf ist in Wahrheit ein Schlauchpilz (*Ascomyzet*), der *Ascodichaena rugosa* heißt und zu einer Ordnung gehört, die tatsächlich *[Flicklumpenartige](/verwandt/flicklumpenartige-rhytismatales)* genannt wird. Er fehlt in keinem Rotbuchenbestand und wurde trotz seiner Häufigkeit erst im Jahre 1977 von der Wissenschaft als Pilz erkannt und beschrieben. Die Flicklumpenartigen werden auch Runzelschorfartige (*Rhytismatales*) genannt und stellen eine ziemlich heterogene Gruppierung dar, der nur wenig Beachtung geschenkt wird. (Dieter Gewalt)
-
-*[Mehr lesen >](/pilze/ascodichaena-rugosa-buchen-rindenschorf)*
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/exidia_plana_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Warzige Drüsling *Exidia plana*. Mit seinem schwarzen gekröseartig gewundem Glibber, der ganze Äste überziehen kann, ist er nicht nur unverwechselbar sondern auch häufig. Gerade jetzt bei feucht-kühler Witterung wird man ihm bei fast jedem Waldspaziergang begegnen, sofern man auch mal die Wege verlässt. Sein Hauptwirt ist die Buche. Er wird auch Hexenbutter genannt und macht bei Trockenheit eine erstunliche Wandlung durch. Dann bleibt nur eine fast völlig glatte glänzende Haut zurück, die den betroffenen Ast wie schwarz lackiert erscheinen lässt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/exidia-plana-warziger-drüsling)
 
 <div style="clear:  both"></div>
 
