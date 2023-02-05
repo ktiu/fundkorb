@@ -16,7 +16,6 @@ Die nachfolgende Auflistung erhebt keinen Anspruch auf Vollständigkeit. Sie ent
 
 [Bjerkandera adusta = Angebrannter Rauchporling](/pilze/bjerkandera-adusta-angebrannter-rauchporling)  
 [Clavulina rugosa = Runzelige Koralle](/pilze/clavulina-rugosa-runzelige-koralle)  
- 
 Dasyscyphella nivea = Schneeweißes Haarbecherchen](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)  
 [Fomes fomentarius = Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)  
 [Lycogala epidendrum = Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)  
