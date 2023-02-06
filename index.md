@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phyllotopsis_nidulans_01_pz.jpg" %}
+{% include abbildung_ende.html %}
+
+06.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Orangeseitling *Phyllotopsis nidulans*. Wir haben ihn gestern auf dem Weg zu den *"Ballerina"*-Pilzen an einem Kiefernstumpf gesehen. Er gehört sicher zu den schönsten Pilzarten, die man während der kalten Jahreszeit finden kann. An seinen striegelig-filzigen, stiellosen Hüten und den schön orangefarbenen Lamellen ist er gut zu erkennen, allerdings ist er nicht gerade häufig. Für die Küche kommt er nicht in Betracht. Er gilt als ungnießbar. (Dieter Gewalt)
+
+[Mehr lesen >](de/pilze/phyllotopsis-nidulans-orangeseitling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/auriscalpium_vulgare_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -28,10 +40,10 @@ footer_scripts:
 {% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-05.02.2023:  Unseren Vorfahren diente er zum Feuermachen, heute werden wir den Zunderschwamm *Fomes fomentarius* als Bestandteil einer künstlerischen Darstellung bewundern können. Bei unserer FundGroup-Exkursion werden wir die "Ballerina"-Pilze in einem Wald nahe Dietzenbach besuchen und danach in einem kurzen Rückblick über unsere Pilzfunde berichten. (Dieter Gewalt)
+04.02.2023:  Unseren Vorfahren diente er zum Feuermachen, heute werden wir den Zunderschwamm *Fomes fomentarius* als Bestandteil einer künstlerischen Darstellung bewundern können. Bei unserer FundGroup-Exkursion werden wir die "Ballerina"-Pilze in einem Wald nahe Dietzenbach besuchen und danach in einem kurzen Rückblick über unsere Pilzfunde berichten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)\
-[Zur Anmeldung >](/termine)
+[Zum Rückblick >](/termine)
 
 - - -
 
