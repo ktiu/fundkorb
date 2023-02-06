@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/phyllotopsis_nidulans_01_pz.jpg" %}
 {% include abbildung_ende.html %}
 
-06.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Orangeseitling *Phyllotopsis nidulans*. Wir haben ihn gestern auf dem Weg zu den *"Ballerina"*-Pilzen an einem Kiefernstumpf gesehen. Er gehört sicher zu den schönsten Pilzarten, die man während der kalten Jahreszeit finden kann. An seinen striegelig-filzigen, stiellosen Hüten und den schön orangefarbenen Lamellen ist er gut zu erkennen, allerdings ist er nicht gerade häufig. Für die Küche kommt er nicht in Betracht. Er gilt als ungnießbar. (Dieter Gewalt)
+06.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Orangeseitling *Phyllotopsis nidulans*. Wir haben ihn gestern auf dem Weg zu den [*"Ballerina"*-Pilzen](/termine) an einem Kiefernstumpf gesehen. Er gehört sicher zu den schönsten Pilzarten, die man während der kalten Jahreszeit finden kann. An seinen striegelig-filzigen, stiellosen Hüten und den schön orangefarbenen Lamellen ist er gut zu erkennen, allerdings ist er nicht gerade häufig. Für die Küche kommt er nicht in Betracht. Er gilt als ungnießbar. (Dieter Gewalt)
 
 [Mehr lesen >](de/pilze/phyllotopsis-nidulans-orangeseitling)
 
