@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypholoma_lateritium_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ziegelrote Schwefelkopf Hypholoma lateritium. Ein vereinzeltes aber bestens erhaltenes Exemplar hat *Graziano Archetti* in der Nähe von Darmstadt gefunden und zu unserer Pilzführung am Sonntag mitgebracht. Die Art ist einer von drei Schwefelköpfen, die man zwar leicht verwechseln, bei genauerem Hinschauen oder durch eine Geschmacksprobe aber ganz gut auseinanderhalten kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phyllotopsis_nidulans_01_pz.jpg" %}
 {% include abbildung_ende.html %}
 
