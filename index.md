@@ -88,7 +88,7 @@ Begegnungen der besonderen Art: wer so etwas entdeckt, betrachtet sich ungläubi
 
 ### Dietzenbach und Pilze
 
-– das hat seit Jahren Tradition und dafür gibt es gute Gründe. Die Kreisstadt liegt mitten im größten zusammenhängenden Waldgebiet der Region und wir bieten seit mehr als 20 Jahren regelmäßig Praktische Pilzseminare an. Die finden nicht etwa in einer Schule statt, sondern da, wo Pilze wachsen – im Wald. Bei fünf Exkursionen lernen die Teilnehmer die wichtigsten Speise- und Giftpilze an ihren natürlichen Wuchsorten kennen und erfahren Wissenswertes zum Thema. Das nächste Seminar wird voraussichtlich im Jahr 2023 angeboten.  
+– das hat seit Jahren Tradition und dafür gibt es gute Gründe. Die Kreisstadt liegt mitten im größten zusammenhängenden Waldgebiet der Region und wir bieten seit mehr als 20 Jahren regelmäßig Praktische Pilzseminare an. Die finden nicht etwa in einer Schule statt, sondern da, wo Pilze wachsen – im Wald. Bei fünf Exkursionen lernen die Teilnehmer die wichtigsten Speise- und Giftpilze an ihren natürlichen Wuchsorten kennen und erfahren Wissenswertes zum Thema. Das nächste Seminar wird im zweiten Halbjahr 2023 stattfinden.
 
 - - -
 
