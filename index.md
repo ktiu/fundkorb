@@ -42,30 +42,7 @@ footer_scripts:
 
 05.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ohrlöffelstacheling *Auriscalpium vulgare*. Es handelt sich um eine unverwechselbare Gestalt auf einem unverwechselbaren Substrat: ein seitlich gestieltes braunes Pilzchen mit einer stacheligen Unterseite (dem [Hymenium](Hymenium "Glossar")), das ausschließlich auf Kiefernzapfen wächst und in keinem Kiefernwald fehlen dürfte. Könnte allerdings sein, dass der Zapfen im Boden vergraben liegt und nicht sofort sichtbar ist. (Dieter Gewalt)
 
-Mehr lesen >
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.02.2023:  Unseren Vorfahren diente er zum Feuermachen, heute werden wir den Zunderschwamm *Fomes fomentarius* als Bestandteil einer künstlerischen Darstellung bewundern können. Bei unserer FundGroup-Exkursion werden wir die "Ballerina"-Pilze in einem Wald nahe Dietzenbach besuchen und danach in einem kurzen Rückblick über unsere Pilzfunde berichten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)\
-[Zum Rückblick >](/termine)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phlebiopsis_gigantea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.02.2023: Ein ganzjährig häufiger [Fundkorbpilz](AA "Glossar-") in Nadelwäldern ist der Große Zystidenkammpilz *Phlebiopsis gigantea*. In der Rhein-Mian-Ebene ist er vor allem an totem Kiefernholz zu finden, an Stümpfen oder lagernden Stämmen, an deren Schnitt- oder Seitenflächen, egal ob berindet oder nicht. Er sieht aus wie eine vielgestaltige mit Wachs betropfte Fläche und geht dabei auch weit über das bewachsene Holz hinaus auf die Umgebung über, wobei er Blätter, Nadeln, Ästchen und was immer auf dem Boden liegen mag mit seiner weißlich grauen Haut überzieht. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phlebiopsis-gigantea-großer-zystidenkammpilz)
+[Mehr lesen >](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)
 
 <div style="clear:  both"></div>
 
@@ -74,6 +51,16 @@ Mehr lesen >
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
 
 [Liste aller aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
+
+- - -
+
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Dieses bezaubernde kleine Kunstwerk hat Pilzfreunde im Raum Frankfurt/Offenbach als *"Ballerina"-Pilze* begeistert. Die Künstlerin wollte unbedingt inkognito bleiben, aber es ist zumindest anerkennend festzuhalten: da muss man erst mal drauf kommen, beim Anblick von Zunderschwämmen an Tänzerinnen zu denken und die Fruchtkörper als Röcke in die Darstellung einzubeziehen.
+
+[Mehr lesen >](/termine)
 
 - - -
 
