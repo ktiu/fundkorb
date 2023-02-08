@@ -12,7 +12,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/ciboria_batschiana_01_tl.jpg
   legende: "09.10.2004 TK 5915.1.2 Wiesbaden, Parkanlage Unter den Eichen, auf
-    vergrabenen, mumifizierten Eicheln "
+    vergrabenen, mumifizierten Eicheln (Foto: Thomas Lehr)"
 published: true
 ---
 Diesen recht großen Stromabecherling muss man – wie so viele [Ascomyzeten](Ascomyzeten "Glossar") – gezielt suchen, sonst übersieht man ihn leicht. Da ich im Wiesbadener Park *Unter den Eichen* regelmäßig auch die Streuschicht absuche, konnte mir der Pilz, der dort sehr häufig ist, aber kaum entgehen. Die gestielten Becherchen können Durchmesser von bis zu 2 cm erreichen und sind an ihrer braunen Farbe und dem Wuchssubstrat meist schon makroskopisch problemlos zu bestimmen.
