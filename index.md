@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bisporella_citrina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.02.2023: Winzige, höchstens 1 - 3 mm Größe erreichende Pilzchen werden leicht übersehen, was auf unseren aktuellen [Fundkorbpilz](AA "Glossar-") allerdings nicht zutrifft. Die leuchtend gelbe Farbe und massenhaftes, dicht gedrängtes Wachstum auf abgestorbenen Laubholzästen machen das Zitronengelbe Holzbecherchen *Bisporella citrina* zu einer auffälligen Erscheinung. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/bisporella-citrina-zitronengelbes-haarbecherchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypholoma_lateritium_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
