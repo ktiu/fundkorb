@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Bisporella citrina
-  deutsch: Zitronengelbes Haarbecherchen
+  deutsch: Zitronengelbes Holzbecherchen
   referenz: "(Batsch) Korf & S.D.Carp. 1974 "
   erlaeuterung: citrina = zitronengelb
   familie: Helotiaceae
