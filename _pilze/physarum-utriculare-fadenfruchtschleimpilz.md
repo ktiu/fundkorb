@@ -22,9 +22,7 @@ Der Fadenfruchtschleimpilz war früher unter dem Namen *Badhamia utricularis* be
 {% include bild.html datei="/bilder/physarum_utriculare_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="In der weiteren Entwicklung sehen die Sporokarpien wie hängende unreife, reife und überreife Heidelbeerchen aus" %}
 
-Schleimpilze sind einzellige Organismen, die weder ein Gehirn noch Augen besitzen, aber über höchst intelligente Fähigkeiten verfügen. Sie bewegen sich scheinbar kriechend, in dem sie das Plasma in ihrer Zelle rhythmisch pulsieren lassen. Sie können sogar in einem Labyrinth ausgelegtes Futter auf kürzestem Weg finden. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DF51zfsGz3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Schleimpilze sind einzellige Organismen, die weder ein Gehirn noch Augen besitzen, aber über höchst intelligente Fähigkeiten verfügen. Sie bewegen sich scheinbar kriechend, in dem sie das Plasma in ihrer Zelle rhythmisch pulsieren lassen. Sie können sogar in einem Labyrinth ausgelegtes Futter auf kürzestem Weg finden. Bei *YouTube* sind mehrere Videos zu finden, die diese Fähigkeit eindrucksvoll zeigen.  
 
 Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das Video des US-amerikanischen Technikportals *The Verge* legt das nahe. Auch selbstfahrende Autos könnten vom intelligenten Verhalten der Schleimpilze etwas lernen. Wie kommen die Autoren zu dieser etwas verblüffenden Ansicht?  
 
