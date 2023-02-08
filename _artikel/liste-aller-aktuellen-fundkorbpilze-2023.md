@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-07.02.2023: [Hypholoma lateritium - Ziegelroter Schwefelkopf](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)  
+08.02.2023: [Bisporella citrina - Zitronengelbes Holzbecherchen](https://fundkorb.de/pilze/bisporella-citrina-zitronengelbes-haarbecherchen)  
+07.02.2023: [Hypholoma lateritium - Ziegelroter Schwefelkopf](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)\
 06.02.2023: [Phyllotopsis nidulans - Orangeseitling](de/pilze/phyllotopsis-nidulans-orangeseitling)\
 05.02.2023: [Auriscalpium vulgare - Ohrlöffelstacheling](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)\
 04.02.2023: [Fomes fomentarius - Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)\
