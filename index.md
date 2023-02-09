@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/dasyscyphella_nivea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein winziger [Ascomyzet](Ascomyzet "Glossar"), den man nur mit der Lupe erkennen kann: das Schneeweiße Haarbecherchen *Dasyscyphella nivea*. Die Ränder der becher-, kelch- oder tellerförmigen relativ lang gestielten Fruchtkörper sind behaart, was ihnen ein attraktives Aussehen verleiht. Die Teilnehmer an unserer letzten Exkursion waren alle begeistert, die scharenweise auf totem Eichenholz wachsenden Pilzchen etwa 30-fach vergrößert sehen zu können, zumal sie auch noch mit winzigen Wassertröpfchen behangen waren. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_tintinnabulum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
