@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_tintinnabulum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.02.2023: Ob in kleineren Grüppchen oder vielhütigen Büscheln -  der Winterhelmling *Mycena tintinnabulum* hat gerade Saison ist deshalb aktueller [Fundkorbpilz](AA "Glossar-"). Selbst Fröste können ihm nicht viel anhaben. Dann sieht man die hübschen Pilzchen steif gefroren. Der botanische Artname *tintinnabulum* ist lateinisch und bedeutet Glocke oder Klingel. Da denkt man, wenn man dem Winterhelmling zur Weihnachtszeit begegnet, doch gleich an *“Kling Glöckchen klingelingeling”*. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-tintinnabulum-winterhelmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bisporella_citrina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 07.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ziegelrote Schwefelkopf *Hypholoma lateritium*. Ein vereinzeltes aber bestens erhaltenes Exemplar hat *Graziano Archetti* in der Nähe von Darmstadt gefunden und zu unserer Pilzführung am Sonntag mitgebracht. Die Art ist einer von drei Schwefelköpfen, die man zwar leicht verwechseln, bei genauerem Hinschauen oder durch eine Geschmacksprobe aber ganz gut auseinanderhalten kann. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phyllotopsis_nidulans_01_pz.jpg" %}
-{% include abbildung_ende.html %}
-
-06.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Orangeseitling *Phyllotopsis nidulans*. Wir haben ihn gestern auf dem Weg zu den [*"Ballerina"*-Pilzen](/termine) an einem Kiefernstumpf gesehen. Er gehört sicher zu den schönsten Pilzarten, die man während der kalten Jahreszeit finden kann. An seinen striegelig-filzigen, stiellosen Hüten und den schön orangefarbenen Lamellen ist er gut zu erkennen, allerdings ist er nicht gerade häufig. Für die Küche kommt er nicht in Betracht. Er gilt als ungnießbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phyllotopsis-nidulans-orangeseitling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/auriscalpium_vulgare_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-05.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ohrlöffelstacheling *Auriscalpium vulgare*. Es handelt sich um eine unverwechselbare Gestalt auf einem unverwechselbaren Substrat: ein seitlich gestieltes braunes Pilzchen mit einer stacheligen Unterseite (dem [Hymenium](Hymenium "Glossar")), das ausschließlich auf Kiefernzapfen wächst und in keinem Kiefernwald fehlen dürfte. Könnte allerdings sein, dass der Zapfen im Boden vergraben liegt und nicht sofort sichtbar ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)
 
 <div style="clear:  both"></div>
 
