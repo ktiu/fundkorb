@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-09.02.2023: [Mycena tantinnabulum - Winterhelmling](/pilze/mycena-tintinnabulum-winterhelmling)  
+10.02.2023: [Dasyscyphella nivea - Schneeweißes Haarbecherchen](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)  
+09.02.2023: [Mycena tantinnabulum - Winterhelmling](/pilze/mycena-tintinnabulum-winterhelmling)\
 08.02.2023: [Bisporella citrina - Zitronengelbes Holzbecherchen](https://fundkorb.de/pilze/bisporella-citrina-zitronengelbes-haarbecherchen)\
 07.02.2023: [Hypholoma lateritium - Ziegelroter Schwefelkopf](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)\
 06.02.2023: [Phyllotopsis nidulans - Orangeseitling](de/pilze/phyllotopsis-nidulans-orangeseitling)\
