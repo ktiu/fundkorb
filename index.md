@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phleogena_faginea_02_hl.jpg" %}
+{% include abbildung_ende.html %}
+
+11.02.2023: Aktueller Fundkorbpilz ist der Buchen-Hütchenträger *Phleogena faginea*, den man zwar mit bloßem Auge erkennen aber nur mit Lupe sicher identifizieren kann. Viele halten ihn auf den ersten Blick für einen Schleimpilz, es ist jedoch ein [Basidiomyzet (Ständerpilz)](Basidiomyzeten "Glossar"), der aus der Rinde lebender Laubbäume oft massenhaft hervorbricht. Dabei ist er keineswegs auf Buchen beschränkt. Er wird als selten bezeichnet und wird in Roten Listen sogar als „stark gefährdet“ geführt. In der Rhein-Main-Ebene ist er zur Zeit in fast jedem Wald zu finden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phleogena-faginea-buchen-hütchenträger)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/dasyscyphella_nivea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 09.02.2023: Ob in kleineren Grüppchen oder vielhütigen Büscheln -  der Winterhelmling *Mycena tintinnabulum* hat gerade Saison ist deshalb aktueller [Fundkorbpilz](AA "Glossar-"). Selbst Fröste können ihm nicht viel anhaben. Dann sieht man die hübschen Pilzchen steif gefroren. Der botanische Artname *tintinnabulum* ist lateinisch und bedeutet Glocke oder Klingel. Da denkt man, wenn man dem Winterhelmling zur Weihnachtszeit begegnet, doch gleich an *“Kling Glöckchen klingelingeling”*. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycena-tintinnabulum-winterhelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bisporella_citrina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.02.2023: Winzige, höchstens 1 - 3 mm Größe erreichende Pilzchen werden leicht übersehen, was auf unseren aktuellen [Fundkorbpilz](AA "Glossar-") allerdings nicht zutrifft. Die leuchtend gelbe Farbe und massenhaftes, dicht gedrängtes Wachstum auf abgestorbenen Laubholzästen machen das Zitronengelbe Holzbecherchen *Bisporella citrina* zu einer auffälligen Erscheinung. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/bisporella-citrina-zitronengelbes-haarbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypholoma_lateritium_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ziegelrote Schwefelkopf *Hypholoma lateritium*. Ein vereinzeltes aber bestens erhaltenes Exemplar hat *Graziano Archetti* in der Nähe von Darmstadt gefunden und zu unserer Pilzführung am Sonntag mitgebracht. Die Art ist einer von drei Schwefelköpfen, die man zwar leicht verwechseln, bei genauerem Hinschauen oder durch eine Geschmacksprobe aber ganz gut auseinanderhalten kann. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)
 
 <div style="clear:  both"></div>
 
