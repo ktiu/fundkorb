@@ -28,5 +28,33 @@ Der Gelbe Graustieltäubling ist eine mittelgroße Art mit Hutdurchmessern von 4
 
 Verwechslungen sind mit anderen gelbhütigen Täublingen möglich, vor allem mit dem überall häufigen Ockertäubling Russula ochroleuca, dessen Stiele im Alter ebenfalls grauen.
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>mild</td>
+      <td>hell ockergelb</td>
+      <td>nur am Rand</td>
+      <td>weinrot - rosa</td>
+       
+    </tr>
+  </table>
+</div>
 
+Alle Graustieltäublinge sind essbar. Dies sind:\
+**Russula claroflava** = Gelber Graustieltäubling\
+**Russula decolorans** = Orangeroter Graustieltäubling\
+**Russula vinosa** = Weinroter Graustieltäubling
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_claroflava_03_mhk.jpg" %}
+{% include abbildung_ende.html legende="Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V" %}
