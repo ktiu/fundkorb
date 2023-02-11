@@ -13,10 +13,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_versicolor_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Schmetterlingstramete *Trametes versicolor*, einer der häufigsten Porlinge überhaupt und flächendeckend in ganz Mitteleuropa nachgewiesen. Der Pilz hat ein breites ökologisches Spektrum und kommt vor allem an toten Laubhözern vor. Wegen seiner attraktiven Zonierung wird er gern als Dekopilz oder für Gestecke verwendet. Auch als Heil- oder Vitalpilz findet er bei diversen Therapien Anwendung, u. a. zur Stärkung des Immunsystems. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phleogena_faginea_02_hl.jpg" %}
 {% include abbildung_ende.html %}
 
-11.02.2023: Aktueller Fundkorbpilz ist der Buchen-Hütchenträger *Phleogena faginea*, den man zwar mit bloßem Auge erkennen aber nur mit Lupe sicher identifizieren kann. Viele halten ihn auf den ersten Blick für einen Schleimpilz, es ist jedoch ein [Basidiomyzet (Ständerpilz)](Basidiomyzeten "Glossar"), der aus der Rinde lebender Laubbäume oft massenhaft hervorbricht. Dabei ist er keineswegs auf Buchen beschränkt. Er wird als selten bezeichnet und wird in Roten Listen sogar als „stark gefährdet“ geführt. In der Rhein-Main-Ebene ist er zur Zeit in fast jedem Wald zu finden. (Dieter Gewalt)
+11.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchen-Hütchenträger *Phleogena faginea*, den man zwar mit bloßem Auge erkennen aber nur mit Lupe sicher identifizieren kann. Viele halten ihn auf den ersten Blick für einen Schleimpilz, es ist jedoch ein [Basidiomyzet (Ständerpilz)](Basidiomyzeten "Glossar"), der aus der Rinde lebender Laubbäume oft massenhaft hervorbricht. Dabei ist er keineswegs auf Buchen beschränkt. Er wird als selten bezeichnet und wird in Roten Listen sogar als „stark gefährdet“ geführt. In der Rhein-Main-Ebene ist er zur Zeit in fast jedem Wald zu finden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phleogena-faginea-buchen-hütchenträger)
 
