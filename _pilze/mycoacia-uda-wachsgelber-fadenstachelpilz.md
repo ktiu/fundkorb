@@ -30,6 +30,6 @@ Pilzfreunde, die sich auf eine solche akribische Suche begeben, sind in der Rege
 
 Beide Arten sind mikroskopisch gut zu unterscheiden. Bei *Mycoacia fuscoatra* sind die [Hyphenenden](Hyphen "Glossar") der Stachelspitzen stark inkrustiert, bei *Mycoacia uda* sind sie glatt. Außerdem sind die winzigen Sporen unterschiedlich geformt. 
 
-Die Gattung Mycoacia ist in Deutschland mit vier Arten vertreten. *Mycoacia aurea* hat spitzere Stacheln, mit KOH tritt keine Verfärbung ein. Extrem selten ist [Mycoacia nothofagi](http://aphyllopower.blogspot.com/2010/07/), die im Rhein-Main-Gebiet von *Werner Pohl* gefunden worden ist. Sie ist an ihrem aufdringlichen Geruch nach alkoholischer Gärung leicht zu erkennen, der auch einen anderen an Apfelbäumen vorkommenden [resupinaten](<resupinat "Glossar">) Stachelpilz (*Sarcodontia setosa*) auszeichnet.
+Die Gattung Mycoacia ist in Deutschland mit vier Arten vertreten. *Mycoacia aurea* hat spitzere Stacheln, mit KOH tritt keine Verfärbung ein. Extrem selten ist [Mycoacia nothofagi](http://aphyllopower.blogspot.com/2010/07/), die im Rhein-Main-Gebiet von *Werner Pohl* gefunden worden ist. Sie ist an ihrem aufdringlichen Geruch nach alkoholischer Gärung leicht zu erkennen, der auch einen anderen an Apfelbäumen vorkommenden [resupinaten](resupinat "Glossar") Stachelpilz (*Sarcodontia setosa*) auszeichnet.
 
 Andere resupinat wachsende Stachelpilze sind u. a. in den Gattungen Steccherinum, Hyphodontia, Phlebia, Kavinia, Mucronella oder Sarcodontia zu finden.
