@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-12.02.2023: [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)  
+13.02.2023: [Mycoacia uda - Wachsgelber Fadenstachelpilz](/pilze/mycoacia-uda-wachsgelber-fadenstachelpilz)  
+12.02.2023: [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)\
 11.02.2023: [Phleogena faginea - Buchen-Hütchenträger](/pilze/phleogena-faginea-buchen-hütchenträger)\
 10.02.2023: [Dasyscyphella nivea - Schneeweißes Haarbecherchen](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)\
 09.02.2023: [Mycena tantinnabulum - Winterhelmling](/pilze/mycena-tintinnabulum-winterhelmling)\
