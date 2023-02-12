@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycoacia_uda_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.02.2023: Pilzarten mit einem [Hymenophor](Hymenophor "Glossar") aus Zähnchen oder Stacheln gibt es jede Menge und sie sind auf unglaublich viele Familien und Gattungen verteilt. Einer davon, der Wachsgelbe Fadenstachelpilz Mycoacia uda ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Er wächst an Totholz, manchmal an sichtbaren Flächen, aber auch an den Unterseiten von am Boden liegendem Holz. Infolgedessen ist er ein gesuchtes Objekt für passionierte Stöckchendreher. Solche Pilze sicher zu bestimmen ist nicht ganz einfach. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycoacia-uda-wachsgelber-fadenstachelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_versicolor_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 11.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchen-Hütchenträger *Phleogena faginea*, den man zwar mit bloßem Auge erkennen aber nur mit Lupe sicher identifizieren kann. Viele halten ihn auf den ersten Blick für einen Schleimpilz, es ist jedoch ein [Basidiomyzet (Ständerpilz)](Basidiomyzeten "Glossar"), der aus der Rinde lebender Laubbäume oft massenhaft hervorbricht. Dabei ist er keineswegs auf Buchen beschränkt. Er wird als selten bezeichnet und wird in Roten Listen sogar als „stark gefährdet“ geführt. In der Rhein-Main-Ebene ist er zur Zeit in fast jedem Wald zu finden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phleogena-faginea-buchen-hütchenträger)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/dasyscyphella_nivea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein winziger [Ascomyzet](Ascomyzet "Glossar"), den man nur mit der Lupe erkennen kann: das Schneeweiße Haarbecherchen *Dasyscyphella nivea*. Die Ränder der becher-, kelch- oder tellerförmigen relativ lang gestielten Fruchtkörper sind behaart, was ihnen ein attraktives Aussehen verleiht. Die Teilnehmer an unserer letzten Exkursion waren alle begeistert, die scharenweise auf totem Eichenholz wachsenden Pilzchen etwa 30-fach vergrößert sehen zu können, zumal sie auch noch mit winzigen Wassertröpfchen behangen waren. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_tintinnabulum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.02.2023: Ob in kleineren Grüppchen oder vielhütigen Büscheln -  der Winterhelmling *Mycena tintinnabulum* hat gerade Saison ist deshalb aktueller [Fundkorbpilz](AA "Glossar-"). Selbst Fröste können ihm nicht viel anhaben. Dann sieht man die hübschen Pilzchen steif gefroren. Der botanische Artname *tintinnabulum* ist lateinisch und bedeutet Glocke oder Klingel. Da denkt man, wenn man dem Winterhelmling zur Weihnachtszeit begegnet, doch gleich an *“Kling Glöckchen klingelingeling”*. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-tintinnabulum-winterhelmling)
 
 <div style="clear:  both"></div>
 
