@@ -24,9 +24,9 @@ Die 3 in Mitteleuropa vorkommenden Graustieltäublinge sind  in den Sektionen In
 {% include bild.html datei="/bilder/russula_claroflava_02_hs.jpg" %}
 {% include abbildung_ende.html legende="Foto: Hans Stern" %}
 
-Der Gelbe Graustieltäubling ist eine mittelgroße Art mit Hutdurchmessern von 4 bis 8, maximal 12 cm. Die Hüte sind matt chromgelb, am Rand jung eingerollt, später flach ausgebreitet bis trichterig vertieft, ohne Buckel. Die nur jung weißen, später buttergelben, dicht stehenden Lamellen sind am Stiel paarweise miteinander verbunden und werden im Alter grau. Auch Stiel und Fleisch grauen, das mild schmeckende Fleisch kann sogar schwärzlich verfärben. Am Stiel geht dem Grauen bei Reibung oder Anschneiden oft ein leichtes Röten voraus. Wichtigster Mykorrhizapartner ist die Birke. 
+Der Gelbe Graustieltäubling ist eine mittelgroße Art mit Hutdurchmessern von 4 bis 8, maximal 12 cm. Die Hüte sind matt chromgelb, am Rand jung eingerollt, später flach ausgebreitet bis trichterig vertieft, ohne Buckel. Die nur jung weißen, später buttergelben, dicht stehenden Lamellen sind am Stiel paarweise miteinander verbunden und werden im Alter grau. Auch Stiel und Fleisch grauen, das mild schmeckende Fleisch kann sogar schwärzlich verfärben. Am Stiel geht dem Grauen bei Reibung oder Anschneiden oft ein leichtes Röten voraus. Wichtigster [Mykorrhizapartner](Mykorrhiza "Glossar") ist die Birke. 
 
-Verwechslungen sind mit anderen gelbhütigen Täublingen möglich, vor allem mit dem überall häufigen Ockertäubling Russula ochroleuca, dessen Stiele im Alter ebenfalls grauen.
+Verwechslungen sind mit anderen gelbhütigen Täublingen möglich, vor allem mit dem überall häufigen [Ockertäubling Russula ochroleuca](/pilze/russula-ochroleuca-ockertäubling), dessen Stiele im Alter ebenfalls grauen.
 
 <div class="table-responsive">
   <table class="table taeubling">
