@@ -63,3 +63,25 @@ Es handelt sich um einen extrem seltenen, in Laub- und Nadelwäldern vorkommende
 {% include abbildung_ende.html legende="Foto links: Verschleimte Hutdeckschicht, 300 - 400 µm dick, darunter die aus Sphaerozysten bestehende Huttrama -- Foto rechts: Zupf-/Quetschpräparat der Hutdeckschicht in NH3-Kongorot" %}
 
 Verwechslungen sind aufgrund der ungewöhnlichen Beschaffenheit (Habitus und Farbe) dieses Täublings durchaus mit dem [Trockenen Schneckling *Hygrophorus penarius*](/pilze/hygrophorus-penarius-trockener-schneckling) denkbar. Eine Überprüfung der typischen Täublingseigenschaften (brüchiges Fleisch, splitternde Lamellen) würde allerdings leicht für Klärung sorgen.
+
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>mild</td>
+      <td>weiß</td>
+      <td>nur wenig</td>
+      <td>am Stiel orangerosa</td>
+       
+    </tr>
+  </table>
+</div>
