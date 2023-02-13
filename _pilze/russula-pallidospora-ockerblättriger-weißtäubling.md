@@ -47,6 +47,28 @@ Der Ockerblättrige Weißtäubling zählt nach der *Sarmari*-Systematik zur Sekt
 
 **Sporenpulver** – ein mitteres Creme
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>mild, dann bitterlich</td>
+      <td>creme</td>
+      <td>nur wenig</td>
+      <td>blass rosa</td>
+       
+    </tr>
+  </table>
+</div>
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_pallidospora_03_bm.jpg" %}
 {% include bild.html datei="/bilder/russula_pallidospora_05_bm.jpg" %}
