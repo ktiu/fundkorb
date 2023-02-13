@@ -29,6 +29,11 @@ literatur:
 
 **Lebensweise:** Der Netzflockige Rosatäubling ist ein Pilz unserer Laubwälder. Er geht eine [Mykorrhiza](Mykorrhiza "Glossar") mit Rot- und Hainbuchen, Eichen, aber auch Fichten ein. An die Bodenbeschaffenheit stellt er keine besonderen Ansprüche, man findet ihn sowohl über Buntsandstein als auch über Muschelkalk.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_aurora-velutipes_09_hs.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/russula_aurora-velutipes_10_hs.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="2 Fotos: Hans Stern" %}
+
 **Makroskopische Merkmale:**\
 Rothütige Täublinge gibt es viele, ca. dreißig Arten in Mitteleuropa. Beim Netzflockigen Rosatäubling handelt es sich um eine mittelgroße Art mit einem etwa bis 10 cm breiten Hut. Man findet Exemplare in himbeerrot, rosa, orange, auch intensiv rosenrot, wobei die Hutmitte gerne in Richtung orange, gelb oder creme ausblasst. Nuancen in Richtung violett gibt es nicht. Die Huthaut ist je nach Witterung zu einem Drittel bis zur Hälfte des Radius abziehbar. Die Lamellen sind anfangs weißlich, nehmen während des Wachstums aber rasch einen Cremeton an, der gegen das reinweiße Fleisch stark kontrastiert. Sie sind dichtstehend, in Stielnähe vielfach gegabelt, jedoch kaum mit verkürzten Lamellen untermischt.
 
