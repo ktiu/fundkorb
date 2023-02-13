@@ -5,6 +5,7 @@ beschreibung:
   referenz: Krombh. 1836
   erlaeuterung: aurora = Morgenröte
   familie: Russulaceae
+  synonym: "Synonym: Russula velutipes"
 profil:
   aktualisiert: 2022-11-11
   autor_in: Bernd Miggel
