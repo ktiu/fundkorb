@@ -24,7 +24,7 @@ Am besten zerkaut man ein kleines Stückchen Hutfleisch mit Lamellen. Erster Ein
 {% include bild.html datei="/bilder/russula_badia_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Seine Hüte sind dunkel rotbraun, oft mit weinroter Komponente und helleren Flecken, in der Mitte vertieft. Sie erreichen 5 - 10 cm Durchmesser. Die Huthaut ist glatt mit mattem Glanz, feucht klebrig bis schmierig und dann bis über die Hälfte abziehbar. Bei Trockenheit lässt sie sich kaum oder gar nicht abziehen. Der Hutrand ist erst im Alter leicht höckerig gerippt. Die Lamellen sind jung weißlich bis hellcreme, später hell ocker, an den Schneiden oft rosa. Am Stiel sind sie schwach ausgebuchtet angewachsen. Das Fleisch ist weiß und fest.
+Seine Hüte sind dunkel rotbraun, oft mit weinroter Komponente und helleren Flecken, auch purpur- oder blutrot mit bräunlichem Einschlag, in der Mitte vertieft. Sie erreichen 5 - 10 cm Durchmesser. Die Huthaut ist glatt mit mattem Glanz, feucht klebrig bis schmierig und dann bis über die Hälfte abziehbar. Bei Trockenheit lässt sie sich kaum oder gar nicht abziehen. Der Hutrand ist erst im Alter leicht höckerig gerippt. Die Lamellen sind jung weißlich bis hellcreme, später hell ocker, an den Schneiden oft rosa. Am Stiel sind sie schwach ausgebuchtet angewachsen. Das Fleisch ist weiß und fest.
 
 Die Stiele sind weiß oder auch rosa überhaucht, 1 - 3 cm dick und bis 10 cm lang, im Alter schwammig bis krümelig ausgestopft.
 
