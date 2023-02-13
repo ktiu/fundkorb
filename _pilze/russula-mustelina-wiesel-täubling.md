@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Russula mustelina
   deutsch: Wiesel-Täubling
   referenz: Fr. 1838
-  synonym: "Synonym: Russula elefantina"
+  synonym: "Synonym: Russula elephantina"
   erlaeuterung: mustelina = wie ein Wiesel
   familie: Russulaceae
 profil:
@@ -18,7 +18,7 @@ literatur:
 ---
 Dieser Täubling steht in der Untergattung *Heterophyllae* und damit in der Verwandtschaft der Frauen- und Speisetäublinge und ist wie diese ein ausgezeichneter Speisepilz. Als Fichtenbegleiter ist er vor allem in Mittelgebirgslagen und auf sauren Böden zu finden, lt. Michael/Hennig/Kreisel oft als Massenpilz. Im Flachland wird man ihn meist vergeblich suchen. Ich habe ihn zum Beispiel desöfteren im Schwarzwald sowie nur wenige Male im Taunus angetroffen. In neuerer Zeit scheint er stark rückläufig zu sein.
 
-Mit Hutdurchmessern bis zu 15 cm gehört er zu den großen festfleischigen Täublingsarten. Die Hutfarben variieren in verschiedenen Brauntönen, in der Literatur als gelb-, ocker-, rot-, nussbraun, wiesel-, zimt-, lederfarben, rostgelb, umbra- oder dunkelbraun angegeben. Die relativ dicht stehenden Lamellen sind blass gelblich und können bei älteren Fruchtkörpern braunfleckig werden. Die Stiele sind weißlich bis gelbbräunlich überhaucht, jung sehr fest, im Alter schwammig.
+Mit Hutdurchmessern bis zu 15 cm gehört er zu den großen festfleischigen Täublingsarten. Die Hutfarben variieren in verschiedenen Brauntönen, in der Literatur als gelb-, ocker-, rot-, nussbraun, wiesel-, zimt-, lederfarben, rostgelb, umbra- oder dunkelbraun angegeben. Der Synonym-Name *elephantina* ist ein Hinweis auf die kräftige Huthaut, die an die derbe lederartige Elefantenhaut erinnert und sich am Rand in einem Zug rundherum abziehen lässt. Die relativ dicht stehenden Lamellen sind blass gelblich und können bei älteren Fruchtkörpern braunfleckig werden. Die Stiele sind weißlich bis gelbbräunlich überhaucht, jung sehr fest, im Alter schwammig.
 
 Wieseltäublinge tragen oft Erde, Humuspartikel oder Fichtennadeln aus dem Untergrund nach oben und machen dann einen verschmutzten Eindruck. Sie sind vom Sommer bis zum Herbst zu finden.
 
@@ -37,7 +37,7 @@ Wieseltäublinge tragen oft Erde, Humuspartikel oder Fichtennadeln aus dem Unter
     <tr>
       <td>mild, nussig</td>
       <td>creme</td>
-      <td>nicht oder nur wenig</td>
+      <td>nur am Rand</td>
       <td>orangerosa</td>
        
     </tr>
