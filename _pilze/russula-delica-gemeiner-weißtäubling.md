@@ -29,6 +29,28 @@ Der Fruchtkörper ist im jungen Zustand weißlich bis cremefarben, verfärbt sic
 
 Die Hutoberfläche ist, zumindest anfangs, flaumig-schorfig-filzig. Man kann diese dickfleischige Art - ebenso wie den Wolligen Milchling und den Rosascheckigen Milchling - durchaus als "Erdschieber" bezeichnen.  Im folgenden Bild ist deutlich zu sehen, was der Hut beim Herauskommen aus der Erde alles mitnimmt.
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>schärflich</td>
+      <td>weiß</td>
+      <td>nur wenig</td>
+      <td>rotrosa bis blass rosa</td>
+       
+    </tr>
+  </table>
+</div>
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_delica_02_bm.jpg" %}
 {% include bild.html datei="/bilder/russula_delica_05_bm.jpg" %}
