@@ -20,6 +20,28 @@ literatur:
 ---
 Buchen-Speitäublinge erscheinen vom Spätsommer an als dekorative rote Farbtupfer im braunen Buchenlaub. Sie gehen eine [Mykorrhiza](Mykorrhiza "Glossar") mit der Rotbuche ein und wachsen bis in den November hinein. Sie haben einen sehr scharfen Geschmack und einen deutlich fruchtigen Geruch. Die Fruchtkörper sind festfleischig und relativ groß. Die Hüte sind bis 8 cm breit, klebrig und je nach Wetterlage matt bis glänzend. Die blutrote Huthaut ist höchstens bis zur Hälfte abziehbar, das zum Vorschein kommende Fleisch rötlich durchgefärbt. Der Hutrand ist glatt und nur bei älteren Fruchtkörpern kurz gerieft. Die leicht splitternden Lamellen, der Stiel und das Fleisch sind reinweiß. Dreht man einen Hut um und schaut in die Lamellentiefe hinein, kann man bei manchem Exemplaren einen ganz schwach bläulichen Schimmer wahrnehmen.
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>sehr scharf</td>
+      <td>weiß</td>
+      <td>nur am Rand</td>
+      <td>schwach rosa</td>
+       
+    </tr>
+  </table>
+</div>
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_nobilis_02_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/russula_nobilis_03_bm.jpg" nocrop=true %}
