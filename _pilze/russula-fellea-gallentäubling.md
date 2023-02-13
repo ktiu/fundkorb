@@ -22,6 +22,28 @@ Eine in Deutschland recht häufig vorkommende Pilzart ist der Gallentäubling, d
 
 Nimmt man einen Fruchtkörper in die Hand, so stellt man fest: der gesamte Fruchtkörper ist irgendwie creme bis ocker gefärbt. Sogar die Lamellen sind hellockerfarben, obwohl das Sporenpulver weiß ist! Im Bereich der Hutmitte ist die Färbung intensiver, etwa honigfarben oder in der Farbe kross gebackener Brötchen. Die Hüte dieses Täublings waren am Fundort bis zu 7 cm breit. Eine Ausnahme bildete ein wahres Riesenexemplar mit einem Hutdurchmesser von 11 cm, einer Stiellänge von 9 cm und einem Stieldurchmesser von 3 cm.
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>sehr scharf</td>
+      <td>weiß</td>
+      <td>nur am Rand</td>
+      <td>hell rosa</td>
+       
+    </tr>
+  </table>
+</div>
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_fellea_02_bm.jpg" %}
 {% include abbildung_ende.html %}
@@ -51,8 +73,8 @@ Will man Täublinge sicher bestimmen, dann sollte man auch bestimmte Huthautelem
 
 In Sulfovanillin prüft man, ob sich der Inhalt der Pileozystiden schwarz, grau oder gar nicht verfärbt. Die Latiziferen sind als lang geschlängelte, schwarz gefärbte Gebilde zu erkennen, außerdem schwarz gefärbte, schlankkeulige Pileozystiden.
 
-Verwechslungsmöglichkeiten mit anderen gelbhütigen Täublingen:
-Der [**Ockertäubling** *Russula ochroleuc*a](/pilze/russula-ochroleuca-ockertäubling) besitzt einen weißen Stiel mit schwach gelblich überzogener Basis, weiße Lamellen und weißes Fleisch. Außerdem ist er geruchlos und schmeckt mild oder nur leicht scharf.
-Der [**Pfirsichtäubling** *Russula violeipes*](/pilze/russula-violeipes-violettstieliger-brätlingstäubling) besitzt manchmal einen gelben Hut und einen weißen Stiel. Er ist geruchlos und absolut mild schmeckend.
-Der **Gelbe Graustieltäubling** *Russula claroflava* besitzt einen wunderschön kanariengelben oder leicht orangefarbenen Hut. Fleisch und Stiel sind zwar weiß, werden aber bei Verletzung oder längerem Liegenlassen deutlich grau. Er ist geruchlos und schmeckt absolut mild. Er wächst in Mooren oder an Moorrändern und geht eine Mykorrhiza mit Birkenarten ein.
+Verwechslungsmöglichkeiten mit anderen gelbhütigen Täublingen:  
+Der [**Ockertäubling** *Russula ochroleuc*a](/pilze/russula-ochroleuca-ockertäubling) besitzt einen weißen Stiel mit schwach gelblich überzogener Basis, weiße Lamellen und weißes Fleisch. Außerdem ist er geruchlos und schmeckt mild oder nur leicht scharf.  
+Der [**Pfirsichtäubling** *Russula violeipes*](/pilze/russula-violeipes-violettstieliger-brätlingstäubling) besitzt manchmal einen gelben Hut und einen weißen Stiel. Er ist geruchlos und absolut mild schmeckend.  
+Der [**Gelbe Graustieltäubling** *Russula claroflava*](/pilze/russula-claroflava-gelber-graustieltäubling) besitzt einen wunderschön kanariengelben oder leicht orangefarbenen Hut. Fleisch und Stiel sind zwar weiß, werden aber bei Verletzung oder längerem Liegenlassen deutlich grau. Er ist geruchlos und schmeckt absolut mild. Er wächst in Mooren oder an Moorrändern und geht eine Mykorrhiza mit Birkenarten ein.  
 Der [**Sonnentäubling** *Russula solaris*](/pilze/russula-solaris-sonnentäubling) ist mit der Merkmalskombination *“blass gelbe Hutfarbe - sehr zerbrechliche Konsistenz - weißer Stiel - scharfer Geschmack - ockerfarbenes Sporenpulver”* gut gekennzeichnet; stets bei Buchen
