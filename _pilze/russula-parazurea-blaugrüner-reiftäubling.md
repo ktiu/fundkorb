@@ -19,6 +19,28 @@ Unter den rund 200 mitteleuropäischen Täublingsarten werden zwei als Reiftäub
 
 Der Blaugrüne Reiftäubling ist eine mittelgroße Art mit Hutdurchmessern von meist 4 bis 7 cm. Die Hutfarbe variiert von  trüb blaugrün bis grauviolett oder grau. Die Stiele sind weiß oder auch rosa überhaucht. Die Lamellen sind jung weiß, später durch ausfallendes Sporenpulver cremefarben. Die Sporen sind relativ klein (6 - 8 x 5 - 6,5 µm) mit netzig verbundenen Warzen.
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>mild</td>
+      <td>weiß</td>
+      <td>bis 1/2</td>
+      <td>hell rostrot</td>
+       
+    </tr>
+  </table>
+</div>
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_parazurea_02_nk.jpg" %}
 {% include bild.html datei="/bilder/russula_parazurea_03_nk.jpg" %}
