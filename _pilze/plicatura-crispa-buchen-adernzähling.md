@@ -5,6 +5,7 @@ beschreibung:
   referenz: (Pers.) Rea 1922
   erlaeuterung: crispa = kraus, gekräuselt
   familie: Amylocorticiaceae
+  synonym: "Neuer Name: Plicaturopsis crispa"
 profil:
   aktualisiert: 2022-03-29
   autor_in: Dieter Gewalt
