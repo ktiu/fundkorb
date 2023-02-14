@@ -26,8 +26,51 @@ Was die Bestimmung von Täublingen so schwierig oder aufwendig macht, ist die en
 {% include bild.html datei="/bilder/russula_romellii_03_hs.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="2 Fotos: Hans Stern" %}
 
-Russula romellii gehört mit Hutdurchmessern von bis zu 15 cm zu den großen Täublingsarten.  Einheitlich bei allen Ledertäublingen sind gelbe Lamellen, die jung allerdings nur blass gefärbt sind. Beim Weißstieligen Ledertäubling sind sie in reifem Zustand satt ocker- bis dottergelb, was auf die dottergelbe Sporenstaubfarbe zurückzuführen ist. In seltenen Fällen können sie eine rote Schneide haben. Mit Anilin färben sich die Lamellen schön zitronengelb, mit Eisensulfat fleischrosa. Der Geruch ist unauffällig, der Geschmack mild und etas nussig.
+*Russula romellii* gehört mit Hutdurchmessern von bis zu 15 cm zu den großen Täublingsarten.  Einheitlich bei allen Ledertäublingen sind gelbe Lamellen, die jung allerdings nur blass gefärbt sind. Beim Weißstieligen Ledertäubling sind sie in reifem Zustand satt ocker- bis dottergelb, was auf die dottergelbe Sporenstaubfarbe zurückzuführen ist. In seltenen Fällen können sie eine rote Schneide haben. Mit Anilin färben sich die Lamellen schön zitronengelb, mit Eisensulfat fleischrosa. Der Geruch ist unauffällig, der Geschmack mild und etwas nussig.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_romellii_04_hs.jpg" %}
 {% include abbildung_ende.html legende="Foto: Hans Stern" %}
+
+Der Weißstielige Ledertäubling ist ein guter Speisepilz, der vor allem bei Rotbuchen auf frischen, schwach saueren bis alkalischen Böden vorkommt. Auffälig ist, dass man ihn oft mit dem Rotstieligen Ledertäubling *Russula olivacea* vergesellschaftet antrifft.
+
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>mild</td>
+      <td>dottergelb</td>
+      <td>bis 1/2</td>
+      <td>auf den Lamellen fleischrot</td>
+       
+    </tr>
+  </table>
+</div>
+
+Man könnte aufgrund des Namens annehmen, dass die 8 in Deutschland nachgewiesenen Ledertäublinge einer homogenen Gruppe angehören. Das ist leider nicht der Fall. Man findet sie in 4 unterschiedlichen Sektionen, die in 2 Untergattungen stehen.  
+
+In der Sektion *Integriforminae* (Subgenus *Paraincrustatula*):\
+**Russula romellii** = Weißstieliger Ledertäubling\
+In der Sektion *Integrinae* (Subgenus *Polychromodia*):\
+**Russula carminipes** = Bereifter Ledertäubling\
+[**Russula integra** = Braunroter Ledertäubling](/pilze/russula-integra-brauner-ledertäubling)\
+**Russula melitodes** = Kleiner Ledertäubling, Palisander-Täubling\
+In der Sektion *Laeticolorinae* (Subgenus *Polychromodia*):\
+**Russula curtipes** = Kurzstiliger Ledertäubling\
+In der Sektion *Olivaceinae* (Subgenus *Polychromodia*):\
+**Russula alutacea** = Glänzender Ledertäubling\
+**Russula olivacea** = Rotsieliger (Wechselfarbiger) Ledertäubling\
+**Russula vinosobrunnea** = Purpurbrauner Ledertäubling
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_romellii_05_mhk.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V" %}
