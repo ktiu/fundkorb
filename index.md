@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/galerina_subclavata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.02.2023: Aktueller 16.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein kleiner Blätterpilz, der Zweisporige Winterhäubling *Galerina subclavata*. Er wächst zur Zeit in der Moosschicht eines Fichtenbestandes in der Nähe von Dietzenbach, übrigens nicht weit von den "Ballerina-Pilzen" entfernt. Habituell ist er kaum von einigen anderen Häublingsarten zu unterscheiden, aber er zeichnet sich eindeutig durch seine Mikromerkmale aus. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/galerina-subclavata-zweisporiger-winterhäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/sphaeropsis_visci_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 Aktueller [Fundkorbpilz](AA "Glossar-") am 14.02.2023 ist der Buchen-Adernzähling *Plicatuta crispa*, auch wenn seine Fruchtkörper an einer bekannten Fundstelle nicht mehr die frischesten sind. Kein Wunder, es sind die gleichen, die ich hier Anfang Oktober zum ersten Mal gesehen habe. Jetzt wirken sie schon ziemlich alterschwach und haben viel von ihrer ursprünglichen Attraktivität verloren. Vor allem ist das rein weiße Hymenophor, das aus filigranen, sehr eng stehenden Falten bestand, ergraut und unansehnlich geworden. Der Name Buchen-Adernzähling erscheint mir nicht sehr treffend gewählt zu sein. Ich habe die recht häufige Art bisher ganz überwiegend an Birke gefunden, was in krassem Gegensatz zu den Angaben in *"Die Großpilze Baden-Württembergs"* steht. Außerdem hat auch ihre Häufigkeit zumindest im Rhein-Main-Gebiet deutlich zugenommen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/plicatura-crispa-buchen-adernzähling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycoacia_uda_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.02.2023: Pilzarten mit einem [Hymenophor](Hymenophor "Glossar") aus Zähnchen oder Stacheln gibt es jede Menge und sie sind auf unglaublich viele Familien und Gattungen verteilt. Einer davon, der Wachsgelbe Fadenstachelpilz Mycoacia uda ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Er wächst an Totholz, manchmal an sichtbaren Flächen, aber auch an den Unterseiten von am Boden liegendem Holz. Infolgedessen ist er ein gesuchtes Objekt für passionierte Stöckchendreher. Solche Pilze sicher zu bestimmen ist nicht ganz einfach. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycoacia-uda-wachsgelber-fadenstachelpilz)
 
 <div style="clear:  both"></div>
 
