@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/galerina_subclavata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-16.02.2023: Aktueller 16.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein kleiner Blätterpilz, der Zweisporige Winterhäubling *Galerina subclavata*. Er wächst zur Zeit in der Moosschicht eines Fichtenbestandes in der Nähe von Dietzenbach, übrigens nicht weit von den ["Ballerina-Pilzen"](/termine) entfernt. Habituell ist er kaum von einigen anderen Häublingsarten zu unterscheiden, aber er zeichnet sich eindeutig durch seine Mikromerkmale aus. (Dieter Gewalt)
+16.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein kleiner Blätterpilz, der Zweisporige Winterhäubling *Galerina subclavata*. Er wächst zur Zeit in der Moosschicht eines Fichtenbestandes in der Nähe von Dietzenbach, übrigens nicht weit von den ["Ballerina-Pilzen"](/termine) entfernt. Habituell ist er kaum von einigen anderen Häublingsarten zu unterscheiden, aber er zeichnet sich eindeutig durch seine Mikromerkmale aus. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/galerina-subclavata-zweisporiger-winterhäubling)
 
