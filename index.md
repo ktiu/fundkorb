@@ -65,6 +65,14 @@ Dieses bezaubernde kleine Kunstwerk hat Pilzfreunde im Raum Frankfurt/Offenbach 
 - - -
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/alloclavaria_purpurea_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+Eine seltene und bemerkenswerte Pilzart ist das Purpurfarbene Zystidenkeulchen Alloclavaria purpurea. Thomas Lehr berichtet über seinen Fund im Bayerischen Wald und weshalb er die Hosen runterlassen musste >
+
+- - -
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/pilobolus_kleinii_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
