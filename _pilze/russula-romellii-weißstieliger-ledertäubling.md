@@ -73,4 +73,4 @@ In der Sektion *Olivaceinae* (Subgenus *Polychromodia*):\
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_romellii_05_mhk.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V" %}
+{% include abbildung_ende.html legende="Russula romellii - Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V" %}
