@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sphaeropsis_visci_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.02.2023: Es gibt in der belebten Natur kaum ein Substrat, das nicht von einem Pilz besiedelt wird. So haben natürlich auch Misteln einen, und der ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Man nennt ihn Mistelbefall, lateinisch *Sphaeropsis visci*. Allerdings muss man ihn mit der Lupe suchen, so klein ist er, so um die 0,3 mm bis maximal 1 mm. Die winzigen Fruchtkörperchen sehen aus wie Mini-Maulbeeren. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/sphaeropsis-visci-mistelbefall)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/plicatura_crispa_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 14.02.2023 ist der Buchen-Adernzähli
 13.02.2023: Pilzarten mit einem [Hymenophor](Hymenophor "Glossar") aus Zähnchen oder Stacheln gibt es jede Menge und sie sind auf unglaublich viele Familien und Gattungen verteilt. Einer davon, der Wachsgelbe Fadenstachelpilz Mycoacia uda ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Er wächst an Totholz, manchmal an sichtbaren Flächen, aber auch an den Unterseiten von am Boden liegendem Holz. Infolgedessen ist er ein gesuchtes Objekt für passionierte Stöckchendreher. Solche Pilze sicher zu bestimmen ist nicht ganz einfach. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycoacia-uda-wachsgelber-fadenstachelpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_versicolor_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Schmetterlingstramete *Trametes versicolor*, einer der häufigsten Porlinge überhaupt und flächendeckend in ganz Mitteleuropa nachgewiesen. Der Pilz hat ein breites ökologisches Spektrum und kommt vor allem an toten Laubhözern vor. Wegen seiner attraktiven Zonierung wird er gern als Dekopilz oder für Gestecke verwendet. Auch als Heil- oder Vitalpilz findet er bei diversen Therapien Anwendung, u. a. zur Stärkung des Immunsystems. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
 
 <div style="clear:  both"></div>
 
