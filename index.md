@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/galerina_subclavata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-16.02.2023: Aktueller 16.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein kleiner Blätterpilz, der Zweisporige Winterhäubling *Galerina subclavata*. Er wächst zur Zeit in der Moosschicht eines Fichtenbestandes in der Nähe von Dietzenbach, übrigens nicht weit von den "Ballerina-Pilzen" entfernt. Habituell ist er kaum von einigen anderen Häublingsarten zu unterscheiden, aber er zeichnet sich eindeutig durch seine Mikromerkmale aus. (Dieter Gewalt)
+16.02.2023: Aktueller 16.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein kleiner Blätterpilz, der Zweisporige Winterhäubling *Galerina subclavata*. Er wächst zur Zeit in der Moosschicht eines Fichtenbestandes in der Nähe von Dietzenbach, übrigens nicht weit von den ["Ballerina-Pilzen"](/termine) entfernt. Habituell ist er kaum von einigen anderen Häublingsarten zu unterscheiden, aber er zeichnet sich eindeutig durch seine Mikromerkmale aus. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/galerina-subclavata-zweisporiger-winterhäubling)
 
@@ -28,7 +28,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/sphaeropsis_visci_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-15.02.2023: Es gibt in der belebten Natur kaum ein Substrat, das nicht von einem Pilz besiedelt wird. So haben natürlich auch Misteln einen, und der ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Man nennt ihn Mistelbefall, lateinisch *Sphaeropsis visci*. Allerdings muss man ihn mit der Lupe suchen, so klein ist er, so um die 0,3 mm bis maximal 1 mm. Die winzigen Fruchtkörperchen sehen aus wie Mini-Maulbeeren. (Dieter Gewalt)
+15.02.2023: Es gibt in der belebten Natur kaum ein Substrat, das nicht von einem Pilz besiedelt wird. So haben natürlich auch Misteln einen, und der ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Man nennt ihn Mistelbefall, lateinisch *Sphaeropsis visci*. Allerdings muss man ihn mit der Lupe suchen, so klein ist er, so um die 0,3 bis maximal 1,0 mm. Die winzigen Fruchtkörperchen sehen aus wie Mini-Maulbeeren. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/sphaeropsis-visci-mistelbefall)
 
