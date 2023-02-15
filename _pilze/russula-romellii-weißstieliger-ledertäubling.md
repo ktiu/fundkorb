@@ -21,7 +21,7 @@ literatur:
 ---
 Was die Bestimmung von Täublingen so schwierig oder aufwendig macht, ist die enorme Farbvariabilität vieler Arten. Wie die Fotos dieser Seite zeigen, macht es uns in dieser Beziehung auch der Weißstielige Ledertäubling nicht leicht. Seine Hüte können braun-, wein- oder zinnoberrot, oliv oder ocker, aber auch grün- oder ledergelb gefärbt sein. Immerhin sind die Stiele ziemlich einheitlich weiß, ausnahmsweise rosa überhaucht.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_romellii_02_hs.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/russula_romellii_03_hs.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="2 Fotos: Hans Stern" %}
