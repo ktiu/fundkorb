@@ -33,7 +33,7 @@ An vielen Stellen war das Wasser freilich deutlich tiefer als auf der Fotoserie.
 {% include bild.html datei="/bilder/alloclavaria_purpurea_04_tl.jpg" %}
 {% include abbildung_ende.html legende="Wie man sich denken kann, macht ein solcher Ort das Fotografieren nicht gerade leichter. Das eiskalte Bergwasser tat in der Augusthitze aber eigentlich ganz gut" %}
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/alloclavaria_purpurea_05_tl.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/alloclavaria_purpurea_06_tl.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Keulchen knapp über und unter der Wasseroberfläche" %}
