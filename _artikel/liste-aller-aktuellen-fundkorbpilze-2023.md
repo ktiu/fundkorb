@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-15.02.2023: [Sphaeropsis visci - Mistelbefall](/pilze/sphaeropsis-visci-mistelbefall)  
+16.03.2023: [Galerina subclavata - Zweisporiger Winterhäubling](/pilze/galerina-subclavata-zweisporiger-winterhäubling)  
+15.02.2023: [Sphaeropsis visci - Mistelbefall](/pilze/sphaeropsis-visci-mistelbefall)\
 14.02.2023: [Plicatura crispa - Buchen-Adernzähling](/pilze/plicatura-crispa-buchen-adernzähling)\
 13.02.2023: [Mycoacia uda - Wachsgelber Fadenstachelpilz](/pilze/mycoacia-uda-wachsgelber-fadenstachelpilz)\
 12.02.2023: [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)\
