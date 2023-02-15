@@ -44,3 +44,5 @@ Die Bestimmung macht dann immerhin keine allzu großen Probleme. Es gibt zwar no
 {% include bild.html datei="/bilder/alloclavaria_purpurea_07_tl.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/alloclavaria_purpurea_08_tl.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
+
+Nicht für jeden nachvollziehbar: Das Purpurfarbene Zystidenkeulchen ist mit Blätterpilzen verwandt, und zwar mit den [Heftelnabelingen](/pilze/rickenella-fibula).
