@@ -36,7 +36,7 @@ An vielen Stellen war das Wasser freilich deutlich tiefer als auf der Fotoserie.
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/alloclavaria_purpurea_05_tl.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/alloclavaria_purpurea_06_tl.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Keulchen knapp über und unter der Wasseroberfläche" %}
+{% include abbildung_ende.html %}
 
 Die Bestimmung macht dann immerhin keine allzu großen Probleme. Es gibt zwar noch ein paar andere keulen- oder korallenartige Pilze mit violetten Farben (z.B. [Ramariopsis pulchella](/pilze/ramariopsis-pulchella-lilafarbene-wiesenkoralle)), die sind aber deutlich kleiner und/oder verzweigt. Im Zweifelsfall hilft ein Blick durchs Mikroskop. Die Sporen sind noch relativ unauffällig und messen 7 - 10 x 3 - 4,5 µm. Aber die schon bei 100facher Vergrößerung gut zu sehenden, großen [Zystiden](Zystiden "Glossar") sind einzigartig innerhalb der Keulchen:
 
