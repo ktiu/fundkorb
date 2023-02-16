@@ -57,3 +57,5 @@ Ockertäublinge findet man in allen Waldgesellschaften und Höhenlagen bis 1000 
 {% include abbildung_ende.html %}
 
 Über seine Küchentauglichkeit sind sich Pilzfreunde einig. Wenn man ihn bestenfalls als mischpilztauglich bezeichnet, wäre dies fast schon ein unverdientes Lob. Er wird gern auch als Notzeitenpilz bezeichnet und wurde zum Beispiel während der Kriegs- und Nachkriegsjahre gesammelt und gegessen, aber damals ging es oft nur darum, überhaupt etwas für Pfanne oder Kochtopf aufzutreiben.
+
+Verwechseln könnte man den Ockertäubling mit anderen gelbhütigen Täublingen wie z. B. dem [Gelben Graustieltäubling *Russula claroflava*](/pilze/russula-claroflava-gelber-graustieltäubling).
