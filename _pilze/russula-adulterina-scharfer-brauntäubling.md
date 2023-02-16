@@ -47,16 +47,14 @@ Umstritten ist der Scharfe Brauntäubling, weil er von ähnlichen Arten nur schw
   </table>
 </div>
 
-##### Mikroskopische Merkmale
+**Mikroskopische Merkmale:**
 
-(lt. Michael / Hennig / Kreisel):\
-**Sporen:** kurz eiförmig, isoliert grobstachelig, 7,5 - 15 x 7 - 11,5 µm\
-**Zystiden:** spindelförmig zugespitzt, weit hervorragend; Huthaut mit zahlreichen Dermatozystiden
+**Sporen:** ziemlich heterogen, mit 10 - 14 x 8,5 - 11,5 µm sehr groß, breit ellipsoid, mit isoliert stehenden bis zu 2 µm langen Stacheln besetzt
 
-(lt. Wikipdia):\
-**Sporen:** ziemlich heterogen, (7,5) 8 - 11 (15) x 7 - 9,2 (11,5) µm, mit isoliert stehenden 1,5 - 2 µm langen Dornen besetzt\
-**Basidien:** 52 - 60 x 13,2 x 16,5 µm, mit vier Sterigmen\
-**Pleurozystiden:** zahlreich, zugespitzt oder konisch, weit aus dem Gewebeverband herausragend, 100 - 130 x 10 - 15 (18) µm, lassen sich in Sulvovanillin unterschiedlich gut anfärben
+**Verwechslungsmöglichkeiten:**
+
+Der Scharfe Glanztäubling *Russula firmula* hat ähnliches Aussehen und vergleichbare Fruchtkörpergröße, schmeckt ebenfalls scharf, riecht ebenfalls obstig und besitzt ebenfalls dottergelbes Sporenpulver. Seine Sporen sind jedoch deutlich kleiner, im Durchschnitt 8 x 7 µm.\
+Der [Zedernholztäubling *Russula badia*](/pilze/russula-badia-zedernholz-täubling) hat helleres Sporenpulver, es ist intensiv ocker bis hellgelb.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_adulterina_02_mhk.jpg" %}
