@@ -57,7 +57,19 @@ Die Hüte erreichen bis zu 18 cm Ø, sind vor allem älter in der Mitte vertieft
 {% include bild.html datei="/bilder/russula_integra_05_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Hutdeckschicht mit inkrustierten Primordialhyphen und Pileozystiden  (2 Mikrofotos: Bernd Miggel) Sporen ellipsoidisch, 9 -12 x 8 - 10 µm mit länglich-spitzen isolierten Stacheln" %}
 
-Verwechslungen wären möglich mit dem Weißstieligen Ledertäubling *Russula romellii*, der in der Sektion *Integriforminae* steht, ebenfalls kalkliebend und überwiegend bei Buchen zu finden. Er ist im Geschmackswert dem Braunen Ledertäubling ebenbürtig. Ein ähnliches Aussehen kann auch der Zedernholztäubling *Russula badia* haben, dessen Geschmack sich jedoch von abfänglich mild zu sehr scharf verändert.
+Verwechslungen wären möglich mit dem Weißstieligen Ledertäubling *Russula romellii*, der in der Sektion *Integrinae* steht, ebenfalls kalkliebend und überwiegend bei Buchen zu finden. Er ist im Geschmackswert dem Braunen Ledertäubling ebenbürtig. Ein ähnliches Aussehen kann auch der Zedernholztäubling *Russula badia* haben, dessen Geschmack sich jedoch von abfänglich mild zu sehr scharf verändert.
+
+Aufgrund des Namens könnte man vermuten, dass die 8 in Deutschland nachgewiesenen Ledertäublinge einer homogenen Gruppe angehören. Das ist leider nicht der Fall. Man findet sie je nach Autor in verschiedenen Untergattungen und unterschiedlichen Sektionen. Unsere Artenliste folgt der Systematik von Romagnesi (1987):\
+In der Sektion *Integrinae*:\
+**Russula carminipes** = Bereifter Ledertäubling\
+**Russula curtipes** = Kurzstieliger Ledertäubling\
+**Russula integra** = Braunroter Ledertäubling\
+**Russula melitodes** = Kleiner Ledertäubling, Palisander-Täubling\
+**[Russula romellii](/pilze/russula-romellii-weißstieliger-ledertäubling)** = Weißstieliger Ledertäubling\
+In der Sektion *Olivaceinae*:\
+**Russula alutacea** = Glänzender Ledertäubling\
+**[Russula olivacea](/pilze/russula-olivacea-rotstieliger-ledertäubling)** = Rotstieliger (Wechselfarbiger) Ledertäubling\
+**Russula vinosobrunnea** = Purpurbrauner Ledertäubling
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_integra_07_gg.jpg" %}
