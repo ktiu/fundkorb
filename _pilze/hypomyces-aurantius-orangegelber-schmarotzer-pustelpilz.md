@@ -23,6 +23,7 @@ Wir fanden diesen Pilz als orangegelben bis orangeroten Belag auf dem [Hymenium]
 Der Belag setzt sich aus zahllosen Einzelfruchtkörpern zusammen, die etwa 0,3 bis 0,4 mm groß, von kugeliger Gestalt mit einer Papille und orangegelb gefärbt sind. Sie sind in einem goldgelben [Hyphenfilz](Hyphen "Glossar") eingebettet. Breitenbach & Kränzlin geben als Erscheinungzeit Frühling an, bei 123pilze geht man von ganzjährigem Vorkommen aus. Beide bezeichnen ihn als selten oder extrem selten, was ich nicht bestätigen möchte. Ich habe ihn im Rhein-Main-Gebiet vor allem während der Wintermonate recht häufig gesehen. Der Pilz gehört zu den Schlauchpilzen (Ascomyzeten).
 
 {% include abbildung_start.html stil="standard" %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/hypomyces_aurantius_03_dg.jpg" %}
+{% include abbildung_ende.html legende="Hypomyces aurantius auf Fruchtkörpern des Zweifarbigen Krustenschichtpilzes Laxitextum bicolor" %}
 
 Ein anderer Vertreter der Gattung,  *Hypomyces chrysospermus*, ist den meisten Pilzsammlern als Goldschimmel bekannt, der u. a. Röhrlinge befällt und sie ungenießbar und gesundheitsschädigend macht.
