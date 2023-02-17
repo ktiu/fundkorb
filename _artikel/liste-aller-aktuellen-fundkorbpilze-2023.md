@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-17.03.2023: [Phlebia tremellosus - Gallertfleischiger Fältling](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)  
+18.02.2023: [Laxitextum bicolor - Zweifarbiger Krustenschichtpilz](/pilze/laxitextum-bicolor-zweifarbiger-krustenschichtpilz)  
+17.03.2023: [Phlebia tremellosus - Gallertfleischiger Fältling](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)\
 16.03.2023: [Galerina subclavata - Zweisporiger Winterhäubling](/pilze/galerina-subclavata-zweisporiger-winterhäubling)\
 15.02.2023: [Sphaeropsis visci - Mistelbefall](/pilze/sphaeropsis-visci-mistelbefall)\
 14.02.2023: [Plicatura crispa - Buchen-Adernzähling](/pilze/plicatura-crispa-buchen-adernzähling)\
