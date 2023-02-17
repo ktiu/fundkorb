@@ -60,7 +60,7 @@ Für Speisepilzsammler bleibt die tröstliche Feststellung: was so aussieht wie 
       <td>mild</td>
       <td>weißlich-gelblich</td>
       <td>bis 1/2</td>
-      <td>rosa, orangerosa</td>
+      <td>stark orangerosa</td>
        
     </tr>
   </table>
