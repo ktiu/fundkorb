@@ -45,14 +45,25 @@ Die Lamellen des Rotstieligen Ledertäublings sind hell gelb und verfärben sich
   </table>
 </div>
 
-Mikromerkmale:
-Sporen breitellipsoid, mit zumeist isoliert stehenden aber auch gratig verbundenden bis 1,5 mm hohen Stacheln, 8 - 12 x 7 -10 µm
-Zystiden an Lamellenflächen und -schneiden massenhaft, weit herausragend, spindelig bis lanzettlich geformt 
+Mikromerkmale:\
+**Sporen** breitellipsoid, mit zumeist isoliert stehenden aber auch gratig verbundenden bis 1,5 mm hohen Stacheln, 8 - 12 x 7 -10 µm\
+**Zystiden** an Lamellenflächen und -schneiden massenhaft, weit herausragend, spindelig bis lanzettlich geformt 
 
-Vorkommen: vor allem in Süddeutschland vom Flachland bis in Hochgebirgslagen, in manchen Mittelgebirgen Massenpilz. Bevorzugt kalkhaltige, fehlt auf sandigen Böden. Mykorrhizapilz vor allem bei Buchen, aber auch Fichten und Tannen.
+Vorkommen:\
+vor allem in Süddeutschland vom Flachland bis in Hochgebirgslagen, in manchen Mittelgebirgen Massenpilz. Bevorzugt kalkhaltige, fehlt auf sandigen Böden. Mykorrhizapilz vor allem bei Buchen, aber auch Fichten und Tannen.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_olivacea_02_mhk.jpg" %}
 {% include abbildung_ende.html legende="Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V" %}
 
-Aufgrund des Namens könnte man vermuten, dass die 8 in Deutschland nachgewiesenen Ledertäublinge einer homogenen Gruppe angehören. Das ist leider nicht der Fall. Man findet sie je nach Autor in verschiedenen Untergattungen und unterschiedlichen Sektionen. Unsere Aufstellung folgt der Systematik von Romagnesi (1987):
+Aufgrund des Namens könnte man vermuten, dass die 8 in Deutschland nachgewiesenen Ledertäublinge einer homogenen Gruppe angehören. Das ist leider nicht der Fall. Man findet sie je nach Autor in verschiedenen Untergattungen und unterschiedlichen Sektionen. Unsere Artenliste folgt der Systematik von Romagnesi (1987):\
+In der Sektion *Integrinae*:\
+**Russula carminipes** = Bereifter Ledertäubling\
+**Russula curtipes** = Kurzstieliger Ledertäubling\
+**[Russula integra](/pilze/russula-integra-brauner-ledertäubling)** = Braunroter Ledertäubling\
+**Russula melitodes** = Kleiner Ledertäubling, Palisander-Täubling\
+**[Russula romellii](/pilze/russula-romellii-weißstieliger-ledertäubling)** = Weißstieliger Ledertäubling\
+In der Sektion *Olivaceinae*:\
+**Russula alutacea** = Glänzender Ledertäubling\
+**Russula olivacea** = Rotsieliger (Wechselfarbiger) Ledertäubling\
+**Russula vinosobrunnea** = Purpurbrauner Ledertäubling
