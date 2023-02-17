@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/phlebia_tremellosa_02_cw.jpg" %}
 {% include abbildung_ende.html %}
 
-17.02.2023: Der Gallertfleischige Fältling *Phlebia tremellosus* ist ein typischer Winterpilz und daher auch unser aktueller Fundkorbpilz. Wer um diese Zeit mit offenen Augen in einem Buchenwald unterwegs ist, wird ihn nicht vergeblich suchen. Vor allem aber auch problemlos erkennen. Er ist unverwechselbar. Man braucht ihn nur anzufassen, um seine gallertige Struktur zu erfühlen. In Verbindung mit dem reibeisenartigen Muster der Unterseite und der ockergelblichen hellen Farbe ist die Bestimmung damit so gut wie wasserdicht. (Dieter Gewalt)
+17.02.2023: Der Gallertfleischige Fältling *Phlebia tremellosus* ist ein typischer Winterpilz und daher auch unser aktueller [Fundkorbpilz](AA "Glossar-"). Wer um diese Zeit mit offenen Augen in einem Buchenwald unterwegs ist, wird ihn nicht vergeblich suchen. Vor allem aber auch problemlos erkennen. Er ist unverwechselbar. Man braucht ihn nur anzufassen, um seine gallertige Struktur zu erfühlen. In Verbindung mit dem reibeisenartigen Muster der Unterseite und der ockergelblichen hellen Farbe ist die Bestimmung damit so gut wie wasserdicht. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
 
