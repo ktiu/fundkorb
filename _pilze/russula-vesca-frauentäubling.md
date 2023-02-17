@@ -62,7 +62,7 @@ Die allermeisten der rund 200 mitteleuropäischen Täublingsarten sind schwer zu
       <td>mild</td>
       <td>rein weiß</td>
       <td>bis 1/2</td>
-      <td>keine</td>
+      <td>orangerosa</td>
        
     </tr>
   </table>
