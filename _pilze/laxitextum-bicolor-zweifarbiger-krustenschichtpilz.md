@@ -20,7 +20,7 @@ Der Zweifarbige Schichtpilz wächst im Gebiet zerstreut an liegenden Laubholzst�
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/laxitextum_bicolor_02_wp.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Die abgebildeten Fruchtkörper stammen von 2 Aufsammlungen an liegenden Ästen von Buche und Birke vom Herbst 2010 und 2011 aus dem Frankfurter Stadtwald" %}
 
 Sie ähnelt sehr stark den Stereumarten (z.B. [S. subtomentosum](/pilze/stereum-subtomentosum-samtiger-schichtpilz) oder [S. insignitum](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)), hat durch das [monomitische](monomitisch "Glossar") [Hyphensystem](Hyphen "Glossar") im frischen Zustand aber eine viel weichere, lederartige Konsistenz als die festen, [dimitischen](dimitisch "Glossar") und schnallenlosen *Stereum*-Arten. Ein gutes Bestimmungsmerkmal ist der starke Kontrast zwischen der tabak- bis rotbraunen, filzigen Hutoberfläche und der hellen, anfangs kalkweißen dann cremefarbenen Unterseite.
 
@@ -34,4 +34,6 @@ Aufgrund der Elastizität sind [Exsikkate](Exsikkat "Glossar") leicht zu schneid
 
 Die Gattung *Laxitextum*, welche früher wegen ihrem äußerlichen [Habitus](Habitus "Glossar") zur Familie der *Stereaceae* gerechnet wurde, ist mit den Stereumarten nicht näher verwandt. Sie steht heute in der Familie *Hericiaceae*, welche inzwischen zu den *Russulales* gehört. Weltweit enthält die Gattung derzeit 3 Arten. In Europa gibt es mit *Laxitextum bicolor* nur eine Art, welche auch aus Nord- und Mittelamerika, Asien und Afrika bekannt ist. Die beiden weitere Arten, *L. incrustatum* und *L. lutescens*, wurden aus Afrika und den Vereinigten Staaten beschrieben.
 
-Die abgebildeten Fruchtkörper stammen von 2 Aufsammlungen an liegenden Ästen von Buche und Birke vom Herbst 2010 und 2011 aus dem Frankfurter Stadtwald.
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/laxitextum_bicolor_04_dg.jpg" %}
+{% include abbildung_ende.html legende="16.02.2023: Steinberger Wald bei Dietzenbach, reichliche Vorkommen an Buche (Foto: Dieter Gewalt)" %}
