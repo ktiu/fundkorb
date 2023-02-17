@@ -56,16 +56,16 @@ Der Weißstielige Ledertäubling ist ein guter Speisepilz, der vor allem bei Rot
   </table>
 </div>
 
-Man könnte aufgrund des Namens annehmen, dass die 8 in Deutschland nachgewiesenen Ledertäublinge einer homogenen Gruppe angehören. Das ist leider nicht der Fall. Man findet sie je nach Autor in verschiedenen Untergattungen und unterschiedlichen Sektionen. Unsere Aufstellung folgt der Systematik von Romagnesi (1987):  
-In der Sektion *Integrinae*:  
-**Russula carminipes** = Bereifter Ledertäubling  
-**Russula curtipes** = Kurzstieliger Ledertäubling  
-**Russula integra** = Braunroter Ledertäubling  
-**Russula melitodes** = Kleiner Ledertäubling, Palisander-Täubling  
-**Russula romellii** = Weißstieliger Ledertäubling  
-In der Sektion *Olivaceinae*:  
-**Russula alutacea** = Glänzender Ledertäubling  
-**Russula olivacea** = Rotsieliger (Wechselfarbiger) Ledertäubling  
+Man könnte aufgrund des Namens annehmen, dass die 8 in Deutschland nachgewiesenen Ledertäublinge einer homogenen Gruppe angehören. Das ist leider nicht der Fall. Man findet sie je nach Autor in verschiedenen Untergattungen und unterschiedlichen Sektionen. Unsere Aufstellung folgt der Systematik von Romagnesi (1987):\
+In der Sektion *Integrinae*:\
+**Russula carminipes** = Bereifter Ledertäubling\
+**Russula curtipes** = Kurzstieliger Ledertäubling\
+**[Russula integra](/pilze/russula-integra-brauner-ledertäubling)** = Braunroter Ledertäubling\
+**Russula melitodes** = Kleiner Ledertäubling, Palisander-Täubling\
+**Russula romellii** = Weißstieliger Ledertäubling\
+In der Sektion *Olivaceinae*:\
+**Russula alutacea** = Glänzender Ledertäubling\
+**[Russula olivacea](/pilze/russula-olivacea-rotstieliger-ledertäubling)** = Rotsieliger (Wechselfarbiger) Ledertäubling\
 **Russula vinosobrunnea** = Purpurbrauner Ledertäubling
 
 {% include abbildung_start.html stil="standard" %}
