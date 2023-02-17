@@ -33,7 +33,7 @@ In Baralscher Kösung färbt sich die Ascusspitze ganz schwach bläulich, d.h. d
 
 **Die drei Flächigen Eckenscheibchen im Vergleich:**
 
-**[Diatrype decorticata](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)**: (die hier beschriebene Art): Stroma flach, schmutzig bräunlich, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Rotbuche, Birke. Sehr häufig.
+**[Diatrype decorticata](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)**: Stroma flach, schmutzig bräunlich, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Rotbuche, Birke. Sehr häufig.
 
 **[Diatrype stigma](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen):** Stroma flach, rußschwarz, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Eiche. Nicht häufig.
 
