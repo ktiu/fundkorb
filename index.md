@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laxitextum_bicolor_01_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+18.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zweifarbige Krustenschichtpilz *Laxitextum bicolor*. Man könnte ihn auf den ersten Blick für einen Schichtpilz der Gattung *Stereum halten*, in der er ursprünglich auch einmal geführt wurde, hat durch das monomitische Hyphensystem in frischem Zustand aber eine viel weichere, lederartige Konsistenz als die festen, dimitischen und schnallenlosen Stereum-Arten. Trotzdem ist die recht häufige Art, wenn man sie einmal kennengelernt hat, auch optisch recht gut zu identifizieren. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/laxitextum-bicolor-zweifarbiger-krustenschichtpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phlebia_tremellosa_02_cw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 16.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein kleiner Blätterpilz, der Zweisporige Winterhäubling *Galerina subclavata*. Er wächst zur Zeit in der Moosschicht eines Fichtenbestandes in der Nähe von Dietzenbach, übrigens nicht weit von den ["Ballerina-Pilzen"](/termine) entfernt. Habituell ist er kaum von einigen anderen Häublingsarten zu unterscheiden, aber er zeichnet sich eindeutig durch seine Mikromerkmale aus. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/galerina-subclavata-zweisporiger-winterhäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/sphaeropsis_visci_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.02.2023: Es gibt in der belebten Natur kaum ein Substrat, das nicht von einem Pilz besiedelt wird. So haben natürlich auch Misteln einen, und der ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Man nennt ihn Mistelbefall, lateinisch *Sphaeropsis visci*. Allerdings muss man ihn mit der Lupe suchen, so klein ist er, so um die 0,3 bis maximal 1,0 mm. Die winzigen Fruchtkörperchen sehen aus wie Mini-Maulbeeren. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/sphaeropsis-visci-mistelbefall)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/plicatura_crispa_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Aktueller [Fundkorbpilz](AA "Glossar-") am 14.02.2023 ist der Buchen-Adernzähling *Plicatuta crispa*, auch wenn seine Fruchtkörper an einer bekannten Fundstelle nicht mehr die frischesten sind. Kein Wunder, es sind die gleichen, die ich hier Anfang Oktober zum ersten Mal gesehen habe. Jetzt wirken sie schon ziemlich alterschwach und haben viel von ihrer ursprünglichen Attraktivität verloren. Vor allem ist das rein weiße Hymenophor, das aus filigranen, sehr eng stehenden Falten bestand, ergraut und unansehnlich geworden. Der Name Buchen-Adernzähling erscheint mir nicht sehr treffend gewählt zu sein. Ich habe die recht häufige Art bisher ganz überwiegend an Birke gefunden, was in krassem Gegensatz zu den Angaben in *"Die Großpilze Baden-Württembergs"* steht. Außerdem hat auch ihre Häufigkeit zumindest im Rhein-Main-Gebiet deutlich zugenommen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/plicatura-crispa-buchen-adernzähling)
 
 <div style="clear:  both"></div>
 
