@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypomyces_aurantius_auf_-polyporus-badius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Orangegelbe Schmarotzer-Pustelpilz *Hypomyces aurantius*. Die Pusteln sind seine zahllosen Einzelfruchtkörper, die mit einer guten Lupe als kleine Kügelchen erkennbar sind. Er parasitiert diverse Pilzarten, am häufigsten vermutlich Porlingsarten. Er gehört zu den Schlauchpilzen (*Ascomyzeten*) und wird in der Literatur meist als selten angegeben. Ich habe ihn diesen Winter schon häufiger, bei meinem gestrigen Waldspaziergang zum Beispiel zweimal gesehen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypomyces-aurantius-orangegelber-schmarotzer-pustelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/laxitextum_bicolor_01_wp.jpg" %}
 {% include abbildung_ende.html %}
 
