@@ -39,7 +39,7 @@ Die Lamellen des Rotstieligen Ledertäublings sind hell gelb und verfärben sich
       <td>mild</td>
       <td>dottergelb</td>
       <td>bis 1/2</td>
-      <td>auf den Lamellen fleischrot</td>
+      <td>rosa</td>
        
     </tr>
   </table>
