@@ -11,7 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/russula_azurea_01_hs.jpg
-  legende: Foto:Hans Stern
+  legende: "Foto: Hans Stern"
 literatur:
   - text: "Michael / Hennig / Kreisel: Handbuch für Pilzfreunde V, Nr. 96"
   - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Band 2
