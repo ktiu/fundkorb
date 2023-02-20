@@ -13,10 +13,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylaria_longipes_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Langstielige Holzkeule *Xylaria longipes*. Wer diese vor allem an abgestorbenen Ahornästen vorkommende Art noch nicht so genau kennt, sollte sie mal anschneiden. Am besten mit einem scharfen Messer, denn ihre schlanken Fruchtkörper sind so hart wie das Holz, an dem sie wachsen. Was dabei zum Vorschein kommt, ist ein Schwarzweißkontrast, wie man sich ihn besser nicht vorstellen kann. Das gilt übrigens für alle *Xylaria*-Arten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xylaria-longipes-langstielige-holzkeule)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypomyces_aurantius_auf_-polyporus-badius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-19.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Orangegelbe Schmarotzer-Pustelpilz *Hypomyces aurantius*. Die Pusteln sind seine zahllosen Einzelfruchtkörper, die mit einer guten Lupe als kleine Kügelchen erkennbar sind. Er parasitiert diverse Pilzarten, am häufigsten vermutlich Porlingsarten. Er gehört zu den Schlauchpilzen (*Ascomyzeten*) und wird in der Literatur meist als selten angegeben. Ich habe ihn diesen Winter schon häufiger, bei meinem gestrigen Waldspaziergang zum Beispiel zweimal gesehen. (Dieter Gewalt)
+19.02.2023: Aktueller 20.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Langstielige Holzkeule Xylaria longipes. Wer diese vor allem an abgestorbenen Ahornästen vorkommende Art noch nicht so genau kennt, sollte sie mal anschneiden. Am besten mit einem scharfen Messer, denn ihre schlanken Fruchtkörper sind so hart wie das Holz, an dem sie wachsen. Was dabei zum Vorschein kommt, ist ein Schwarzweißkontrast, wie man sich ihn besser nicht vorstellen kann. Das gilt übrigens für alle Xylaria.Arten. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div> ist der Orangegelbe Schmarotzer-Pustelpilz *Hypomyces aurantius*. Die Pusteln sind seine zahllosen Einzelfruchtkörper, die mit einer guten Lupe als kleine Kügelchen erkennbar sind. Er parasitiert diverse Pilzarten, am häufigsten vermutlich Porlingsarten. Er gehört zu den Schlauchpilzen (*Ascomyzeten*) und wird in der Literatur meist als selten angegeben. Ich habe ihn diesen Winter schon häufiger, bei meinem gestrigen Waldspaziergang zum Beispiel zweimal gesehen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypomyces-aurantius-orangegelber-schmarotzer-pustelpilz)
 
@@ -31,30 +43,6 @@ footer_scripts:
 18.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zweifarbige Krustenschichtpilz *Laxitextum bicolor*. Man könnte ihn auf den ersten Blick für einen Schichtpilz der Gattung *Stereum halten*, in der er ursprünglich auch einmal geführt wurde, hat durch das monomitische Hyphensystem in frischem Zustand aber eine viel weichere, lederartige Konsistenz als die festen, dimitischen und schnallenlosen Stereum-Arten. Trotzdem ist die recht häufige Art, wenn man sie einmal kennengelernt hat, auch optisch recht gut zu identifizieren. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/laxitextum-bicolor-zweifarbiger-krustenschichtpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phlebia_tremellosa_02_cw.jpg" %}
-{% include abbildung_ende.html %}
-
-17.02.2023: Der Gallertfleischige Fältling *Phlebia tremellosus* ist ein typischer Winterpilz und daher auch unser aktueller [Fundkorbpilz](AA "Glossar-"). Wer um diese Zeit mit offenen Augen in einem Buchenwald unterwegs ist, wird ihn nicht vergeblich suchen. Vor allem aber auch problemlos erkennen. Er ist unverwechselbar. Man braucht ihn nur anzufassen, um seine gallertige Struktur zu erfühlen. In Verbindung mit dem reibeisenartigen Muster der Unterseite und der ockergelblichen hellen Farbe ist die Bestimmung damit so gut wie wasserdicht. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/galerina_subclavata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein kleiner Blätterpilz, der Zweisporige Winterhäubling *Galerina subclavata*. Er wächst zur Zeit in der Moosschicht eines Fichtenbestandes in der Nähe von Dietzenbach, übrigens nicht weit von den ["Ballerina-Pilzen"](/termine) entfernt. Habituell ist er kaum von einigen anderen Häublingsarten zu unterscheiden, aber er zeichnet sich eindeutig durch seine Mikromerkmale aus. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/galerina-subclavata-zweisporiger-winterhäubling)
 
 <div style="clear:  both"></div>
 
