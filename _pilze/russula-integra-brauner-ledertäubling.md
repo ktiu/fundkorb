@@ -46,7 +46,7 @@ Die Hüte erreichen bis zu 18 cm Ø, sind vor allem älter in der Mitte vertieft
       <td>mild, nussig</td>
       <td>satt ockerfarben</td>
       <td>zur Hälfte</td>
-      <td>graurosa bis orangerot</td>
+      <td>rosa</td>
        
     </tr>
   </table>
