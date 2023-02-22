@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-21.02.2023: [Strobilurus esculentus - Fichtenzapfenrübling](/pilze/strobilurus-esculentus-fichtenzapfenrübling)  
+22.02.2023: [Steccherinum ochraceum - Ockerrötlicher Resupinatstacheling](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling)  
+21.02.2023: [Strobilurus esculentus - Fichtenzapfenrübling](/pilze/strobilurus-esculentus-fichtenzapfenrübling)\
 20.02.2023: [Xylaria longipes - Langstielige Holzkeule](/pilze/xylaria-longipes-langstielige-holzkeule)\
 19.02.2023: [Hypomyces aurantius - Orangegelber Schmarotzer-Pustelpilz](/pilze/hypomyces-aurantius-orangegelber-schmarotzer-pustelpilz)\
 18.02.2023: [Laxitextum bicolor - Zweifarbiger Krustenschichtpilz](/pilze/laxitextum-bicolor-zweifarbiger-krustenschichtpilz)\
