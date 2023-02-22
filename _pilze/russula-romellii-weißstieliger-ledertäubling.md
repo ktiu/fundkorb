@@ -50,7 +50,7 @@ Der Weißstielige Ledertäubling ist ein guter Speisepilz, der vor allem bei Rot
       <td>mild</td>
       <td>dottergelb</td>
       <td>bis 1/2</td>
-      <td>auf den Lamellen fleischrot</td>
+      <td>rosa</td>
        
     </tr>
   </table>
