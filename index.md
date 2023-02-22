@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/steccherinum_ochraceum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.02.2023: Bei den [resupinat](<resupinat "Glossar">) an Holz wachsenden Pilzen mit stacheligen [Hymenophor ](<Hymenophor "Glossar">)denken Kenner zuerst an die Gattung *Steccherinum*. In ihr ist unser aktueller Fundkorbpilz, der Ockerrötliche Resupinatporling *Steccherinum ochraceum*, die häufigste Art. Um sie zu finden, empfiehlt es sich, möglichst viele auf dem Waldboden liegende Äste umzudrehen, die schon etwas angemorscht sind. Auf ihnen beginnt das Wachstum mit einer größeren Anzahl kleiner heller Flecken, in deren Zentrum sich die ersten Stacheln bilden und die dann zu einer größeren Fläche zusammenwachsen. Für begeisterungsfähige Naturfreunde sind das Schönheiten, die im Verborgenen blühen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/strobilurus_esculentus_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 20.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Langstielige Holzkeule *Xylaria longipes*. Wer diese vor allem an abgestorbenen Ahornästen vorkommende Art noch nicht so genau kennt, sollte sie mal anschneiden. Am besten mit einem scharfen Messer, denn ihre schlanken Fruchtkörper sind so hart wie das Holz, an dem sie wachsen. Was dabei zum Vorschein kommt, ist ein Schwarzweißkontrast, wie man sich ihn besser nicht vorstellen kann. Das gilt übrigens für alle *Xylaria*-Arten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xylaria-longipes-langstielige-holzkeule)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypomyces_aurantius_auf_-polyporus-badius_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.02.2023: Aktueller 20.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Langstielige Holzkeule Xylaria longipes. Wer diese vor allem an abgestorbenen Ahornästen vorkommende Art noch nicht so genau kennt, sollte sie mal anschneiden. Am besten mit einem scharfen Messer, denn ihre schlanken Fruchtkörper sind so hart wie das Holz, an dem sie wachsen. Was dabei zum Vorschein kommt, ist ein Schwarzweißkontrast, wie man sich ihn besser nicht vorstellen kann. Das gilt übrigens für alle Xylaria.Arten. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div> ist der Orangegelbe Schmarotzer-Pustelpilz *Hypomyces aurantius*. Die Pusteln sind seine zahllosen Einzelfruchtkörper, die mit einer guten Lupe als kleine Kügelchen erkennbar sind. Er parasitiert diverse Pilzarten, am häufigsten vermutlich Porlingsarten. Er gehört zu den Schlauchpilzen (*Ascomyzeten*) und wird in der Literatur meist als selten angegeben. Ich habe ihn diesen Winter schon häufiger, bei meinem gestrigen Waldspaziergang zum Beispiel zweimal gesehen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypomyces-aurantius-orangegelber-schmarotzer-pustelpilz)
 
 <div style="clear:  both"></div>
 
