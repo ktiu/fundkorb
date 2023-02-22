@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/steccherinum_ochraceum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-22.02.2023: Bei den [resupinat](<resupinat "Glossar">) an Holz wachsenden Pilzen mit stacheligen [Hymenophor ](<Hymenophor "Glossar">)denken Kenner zuerst an die Gattung *Steccherinum*. In ihr ist unser aktueller Fundkorbpilz, der Ockerrötliche Resupinatporling *Steccherinum ochraceum*, die häufigste Art. Um sie zu finden, empfiehlt es sich, möglichst viele auf dem Waldboden liegende Äste umzudrehen, die schon etwas angemorscht sind. Auf ihnen beginnt das Wachstum mit einer größeren Anzahl kleiner heller Flecken, in deren Zentrum sich die ersten Stacheln bilden und die dann zu einer größeren Fläche zusammenwachsen. Für begeisterungsfähige Naturfreunde sind das Schönheiten, die im Verborgenen blühen. (Dieter Gewalt)
+22.02.2023: Bei den \[resupinat](<resupinat "Glossar") an Holz wachsenden Pilzen mit stacheligen [Hymenophor ](Hymenophor "Glossar")denken Kenner zuerst an die Gattung *Steccherinum*. In ihr ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Ockerrötliche Resupinatporling *Steccherinum ochraceum*, die häufigste Art. Um sie zu finden, empfiehlt es sich, möglichst viele auf dem Waldboden liegende Äste umzudrehen, die schon etwas angemorscht sind. Auf ihnen beginnt das Wachstum mit einer größeren Anzahl kleiner heller Flecken, in deren Zentrum sich die ersten Stacheln bilden und die dann zu einer größeren Fläche zusammenwachsen. Für begeisterungsfähige Naturfreunde sind das Schönheiten, die im Verborgenen blühen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling)
 
