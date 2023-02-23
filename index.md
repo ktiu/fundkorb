@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_fragiforme_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rötliche Kohlenbeere *Hypoxylon fragiforme*. Dieser von Speisepilzsammlern kaum beachtete [Pyrenomyzet](Pyrenomyzeten "Glossar") ist ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/steccherinum_ochraceum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 21.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist endlich mal wieder einer, den man essen kann. Allerdings müsste man sehr lange suchen und pflücken, denn der Fichtenzapfenrübling *Strobilurus esculentus* ist ein Winzling. Da hilft es auch nicht wirklich weiter, dass auf einem einzigen Zapfen mehr als ein Dutzend Pilzchen wachsen können. Wenn man nicht so genau hinschaut, könnte man ihn mit dem Mäuseschwanz-Rübling verwechseln. Wäre kein Problem. Auch der ist essbar, wenn auch von minderer Qualität. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/strobilurus-esculentus-fichtenzapfenrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_longipes_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Langstielige Holzkeule *Xylaria longipes*. Wer diese vor allem an abgestorbenen Ahornästen vorkommende Art noch nicht so genau kennt, sollte sie mal anschneiden. Am besten mit einem scharfen Messer, denn ihre schlanken Fruchtkörper sind so hart wie das Holz, an dem sie wachsen. Was dabei zum Vorschein kommt, ist ein Schwarzweißkontrast, wie man sich ihn besser nicht vorstellen kann. Das gilt übrigens für alle *Xylaria*-Arten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xylaria-longipes-langstielige-holzkeule)
 
 <div style="clear:  both"></div>
 
