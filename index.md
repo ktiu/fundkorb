@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/nectria_cinnabarina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zinnoberrote Pustelpilz *Nectria cinnabarina*. Er gehört zu den Ascomyzeten (Schlauchpilzen) und erscheint in einer seltenen Haupt- und einer sehr häufigen Nebenfruchform. Abgebildet ist letztere, die als hell-oranges bis rosafarbenes Konidienstadium erscheint und berindete Laubholzäste und -zweige in ganzer Länge besiedeln kann. Die einzelnen Pusteln haben Durchmesser von 0,2 bis 1 mm Durchmesser. Die sexuelle Hauptfruchtform wird nur wenig größer und erinnert im Aussehen an winzige Himbeeren. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_fragiforme_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 22.02.2023: Bei den [resupinat](resupinat "Glossar") an Holz wachsenden Pilzen mit stacheligen [Hymenophor ](Hymenophor "Glossar")denken Kenner zuerst an die Gattung *Steccherinum*. In ihr ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Ockerrötliche Resupinatporling *Steccherinum ochraceum*, die häufigste Art. Um sie zu finden, empfiehlt es sich, möglichst viele auf dem Waldboden liegende Äste umzudrehen, die schon etwas angemorscht sind. Auf ihnen beginnt das Wachstum mit einer größeren Anzahl kleiner heller Flecken, in deren Zentrum sich die ersten Stacheln bilden und die dann zu einer größeren Fläche zusammenwachsen. Für begeisterungsfähige Naturfreunde sind das Schönheiten, die im Verborgenen blühen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/strobilurus_esculentus_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-21.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist endlich mal wieder einer, den man essen kann. Allerdings müsste man sehr lange suchen und pflücken, denn der Fichtenzapfenrübling *Strobilurus esculentus* ist ein Winzling. Da hilft es auch nicht wirklich weiter, dass auf einem einzigen Zapfen mehr als ein Dutzend Pilzchen wachsen können. Wenn man nicht so genau hinschaut, könnte man ihn mit dem Mäuseschwanz-Rübling verwechseln. Wäre kein Problem. Auch der ist essbar, wenn auch von minderer Qualität. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/strobilurus-esculentus-fichtenzapfenrübling)
 
 <div style="clear:  both"></div>
 
