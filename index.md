@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coriolopsis_trogii_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.02.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Blasse Borstentramete *Coriolopsis trogii*, gehört zu einer Porlingsgattung, mit der nicht jeder Pilzfreund vertraut ist. Wenn die Blasse Borstentramete uns aber so vor Augen kommt wie auf diesem Foto, wird sicher keiner eine "echte" Tramete vermuten. Sie wächst seit über einem Jahr in unserem Dietzenbach Carré an einer Weide und hat inzwischen ihre besten Tage hinter sich. Am häufigsten ist sie in auwaldartigen Biotopen und an Pappeln zu finden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/coriolopsis-trogii-blasse-borstentramete)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/nectria_cinnabarina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
