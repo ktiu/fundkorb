@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lycogala_epidendrum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutmilchpilz *Lycogala epidendrum*. Er gehört zu den häufigen [Schleimpilzen (Myxomyzeten)](/verwandt/schleimpilze-myxomyzeten), die makroskopisch (also vom Anschauen) sicher erkannt werden können. Die kleinen kugeligen Fruchtkörper, die auf dem Foto rosa gefärbt sind, werden bald grün und bei Sporenreife braun. Man findet sie fast das ganze Jahr über an totem Holz. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lycogala-epidendrum-blutmilchpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_robustus_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 25.02.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Blasse Borstentramete *Coriolopsis trogii*, gehört zu einer Porlingsgattung, mit der nicht jeder Pilzfreund vertraut ist. Wenn die Blasse Borstentramete uns aber so vor Augen kommt wie auf diesem Foto, wird sicher keiner eine "echte" Tramete vermuten. Sie wächst seit über einem Jahr in unserem Dietzenbach Carré an einer Weide und hat inzwischen ihre besten Tage hinter sich. Am häufigsten ist sie in auwaldartigen Biotopen und an Pappeln zu finden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/coriolopsis-trogii-blasse-borstentramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/nectria_cinnabarina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zinnoberrote Pustelpilz *Nectria cinnabarina*. Er gehört zu den Ascomyzeten (Schlauchpilzen) und erscheint in einer seltenen Haupt- und einer sehr häufigen Nebenfruchform. Abgebildet ist letztere, die als hell-oranges bis rosafarbenes Konidienstadium erscheint und berindete Laubholzäste und -zweige in ganzer Länge besiedeln kann. Die einzelnen Pusteln haben Durchmesser von 0,2 bis 1 mm Durchmesser. Die sexuelle Hauptfruchtform wird nur wenig größer und erinnert im Aussehen an winzige Himbeeren. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)
 
 <div style="clear:  both"></div>
 
