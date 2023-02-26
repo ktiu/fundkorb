@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_robustus_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+26.02.2023: Ich würde Euch an dieser Stelle lieber "richtige" Pilze zeigen, solche mit Lamellen oder essbare Röhrlinge, aber an diesen mangelt es in der gegenwärtigen Jahreszeit. Pilze an Holz findet man dagegen das ganze Jahr über. Zum Beispiel unser aktueller [Fundkorbpilz](AA "Glossar-"), der Eichen-Feuerschwamm *Phellinus robustus*, der problemlos 15 Jahre alt werden kann. Er wächst oft viele Meter hoch an den Stämmen, wo man beobachten kann, wie Spechte in ihrer Nähe ihre Höhlen zimmern. Das vom Pilz geschwächte Holz erleichtert ihnen die Arbeit. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phellinus-robustus-eichen-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coriolopsis_trogii_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 24.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zinnoberrote Pustelpilz *Nectria cinnabarina*. Er gehört zu den Ascomyzeten (Schlauchpilzen) und erscheint in einer seltenen Haupt- und einer sehr häufigen Nebenfruchform. Abgebildet ist letztere, die als hell-oranges bis rosafarbenes Konidienstadium erscheint und berindete Laubholzäste und -zweige in ganzer Länge besiedeln kann. Die einzelnen Pusteln haben Durchmesser von 0,2 bis 1 mm Durchmesser. Die sexuelle Hauptfruchtform wird nur wenig größer und erinnert im Aussehen an winzige Himbeeren. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_fragiforme_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rötliche Kohlenbeere *Hypoxylon fragiforme*. Dieser von Speisepilzsammlern kaum beachtete [Pyrenomyzet](Pyrenomyzeten "Glossar") ist ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/steccherinum_ochraceum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.02.2023: Bei den [resupinat](resupinat "Glossar") an Holz wachsenden Pilzen mit stacheligen [Hymenophor ](Hymenophor "Glossar")denken Kenner zuerst an die Gattung *Steccherinum*. In ihr ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Ockerrötliche Resupinatporling *Steccherinum ochraceum*, die häufigste Art. Um sie zu finden, empfiehlt es sich, möglichst viele auf dem Waldboden liegende Äste umzudrehen, die schon etwas angemorscht sind. Auf ihnen beginnt das Wachstum mit einer größeren Anzahl kleiner heller Flecken, in deren Zentrum sich die ersten Stacheln bilden und die dann zu einer größeren Fläche zusammenwachsen. Für begeisterungsfähige Naturfreunde sind das Schönheiten, die im Verborgenen blühen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling)
 
 <div style="clear:  both"></div>
 
