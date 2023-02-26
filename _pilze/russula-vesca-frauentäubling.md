@@ -1,4 +1,5 @@
 ---
+permalink: /pilze/russula-vesca-speisetäubling
 beschreibung:
   wissenschaftlich: Russula vesca
   deutsch: Speisetäubling
