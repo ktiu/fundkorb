@@ -27,7 +27,7 @@ Der Blutrote Täubling (kurz: Bluttäubling) ist eine mittelgroße Art mit Hutdu
 {% include bild.html datei="/bilder/russula_sanguinaria_02_uwi.jpg" %}
 {% include abbildung_ende.html legende="Foto: Uwe Winkler" %}
 
-Die Lamellen sind konkav geschwungen sowie gerade oder etwas abgesetzt am Stiel angewachsen. Sie sind jung blass weißlich und werden durch ausfallendes Sporenpulver bald creme bis graugelblich. Der Stiel ist auf weißem Grund meist rosarötlich überhaucht, mitunter aber auch so kräftig, dass er an den "Säufernasen"-Stiel des Zitronenblättrigen Täublings erinnert. Außerdem neigt er zum Gilben. 
+Die Lamellen sind konkav geschwungen sowie gerade oder etwas abgesetzt am Stiel angewachsen. Sie sind jung blass weißlich und werden durch ausfallendes Sporenpulver bald creme bis hellocker. Der Stiel ist auf weißem Grund meist rosarötlich überhaucht, mitunter aber auch so kräftig, dass er an den "Säufernasen"-Stiel des Zitronenblättrigen Täublings erinnert. Außerdem neigt er zum Gilben. 
 
 <div class="table-responsive">
   <table class="table taeubling">
