@@ -23,7 +23,7 @@ literatur:
 {% include bild.html datei="/bilder/russula_luteotacta_02_hs.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="2 Fotos: Hans Stern" %}
 
-Bei diesen hier abgebildeten noch sehr jungen Fruchtkörpern sind die typischen schön zinnoberroten Farben noch nicht voll entwickelt und es sind auch keine gelben Flecken zu sehen. Seinen wissenschaftlichen Artnamen (luteotacta = gelb bei Berührung) trägt er trotzdem zu Recht. Die weißen Lamellen und Stiele verfärben auf Druck oder schon bei Berührung und auch nach längerem Liegenlassen chromgelb.
+Bei diesen hier abgebildeten noch sehr jungen Fruchtkörpern sind die typischen schön zinnoberroten Farben noch nicht voll entwickelt und es sind auch keine gelben Flecken zu sehen. Seinen wissenschaftlichen Artnamen (luteotacta = gelb bei Berührung) trägt er trotzdem zu Recht. Die weißen ziemlich entfernt stehenden Lamellen und auch sie Stiele verfärben auf Druck oder schon bei Berührung und auch nach längerem Liegenlassen chromgelb.
 
 *Russula luteotacta* gehört zu den kleineren Täublingen, deren Hüte kaum einmal mehr als 5 cm breit werden. Die roten Hutfarben blassen im Alter aus, sind aber unabhängig davon meist weißfleckig. Das Sporenpulver ist weiß. Bei Beachtung der genannten Merkmale und Eigenschaften sollte die Art makroskopisch gut erkennbar sein. Zur Absicherung könnten noch die Sporen untersucht werden. Sie sind eiförmig bis ellipsoid, isoliert warzig, kaum oder nur mit flachen Graten verbunden und messen 7 - 9 x 5,7 - 7,5 µm.
 
