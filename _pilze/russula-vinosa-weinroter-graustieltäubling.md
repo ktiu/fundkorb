@@ -22,5 +22,26 @@ Die 3 in Mitteleuropa vorkommenden Graustieltäublinge sind  in den Sektionen In
 
 Der Weinrote Graustieltäubling ist eine mittelgroße Art mit Hutdurchmessern von 4 bis 8, maximal 12 cm. Die Hüte sind trüb weinrot bis blutrot oder dunkel purpurn, jung glockig, später flach ausgebreitet bis trichterig vertieft, ohne Buckel. Die nur jung weißen, später buttergelben, dicht stehenden Lamellen haben mitunter rötliche Schneiden. Stiel und Fleisch sind stark grauend.
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>mild</td>
+      <td>hell ocker</td>
+      <td>zur Hälfte</td>
+      <td>rosa</td>
+       
+    </tr>
+  </table>
+</div>
 
-
+Verwechslungen sind mit anderen rothütigen Täublingen möglich, vor allem
