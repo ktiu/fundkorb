@@ -43,7 +43,7 @@ Der Hut wird 6 bis 12 cm breit, ist jung halbkugelig, später meist trichterig v
       <td>mild, nussig</td>
       <td>rein weiß</td>
       <td>nicht</td>
-      <td>rosa</td>
+      <td>stark orangerosa</td>
        
     </tr>
   </table>
