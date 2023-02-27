@@ -38,7 +38,7 @@ Wieseltäublinge tragen oft Erde, Humuspartikel oder Fichtennadeln aus dem Unter
       <td>mild, nussig</td>
       <td>creme</td>
       <td>nur am Rand</td>
-      <td>orangerosa</td>
+      <td>stark orangerosa</td>
        
     </tr>
   </table>
