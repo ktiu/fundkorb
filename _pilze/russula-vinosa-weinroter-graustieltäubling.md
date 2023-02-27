@@ -44,4 +44,4 @@ Der Weinrote Graustieltäubling ist eine mittelgroße Art mit Hutdurchmessern vo
   </table>
 </div>
 
-Verwechslungen sind mit anderen rothütigen Täublingen möglich, vor allem mit dem Orangeroten Graustieltäubling Russula decolorans und dem sehr seltenen Wechselfarbigen Graustieltäubling Russula seperina.
+Verwechslungen sind mit anderen rothütigen Täublingen möglich, vor allem mit dem Orangeroten Graustieltäubling *Russula decolorans*.
