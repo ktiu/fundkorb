@@ -49,3 +49,7 @@ Der Weinrote Graustieltäubling ist eine mittelgroße Art mit Hutdurchmessern vo
 </div>
 
 *Russula vinosa* ist vor allem bei Fichten auf sandigen und sauren Böden zu finden. Verwechslungen sind mit anderen rothütigen Täublingen möglich, vor allem mit dem Orangeroten Graustieltäubling *Russula decolorans*.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_vinosa_03_mhk.jpg" %}
+{% include abbildung_ende.html legende="Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V" %}
