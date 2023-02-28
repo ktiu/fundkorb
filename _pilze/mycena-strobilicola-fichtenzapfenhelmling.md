@@ -20,6 +20,6 @@ Unter der Vielzahl der Helmlinge ist der Fichtenzapfenhelmling *Mycena strobilic
 {% include bild.html datei="/bilder/mycena_strobilicola_02_jr.jpg" %}
 {% include abbildung_ende.html %}
 
-Zu verwechseln wäre *Mycena strobilicola* allenfalls mit *[Strobilurus esculentus](/pilze/strobilurus-esculentus-fichtenzapfenrübling)*, dem Fichten-Zapfenrübling, der zur gleichen Zeit fruktifiziert. Neben der unterschiedlichen Stielfarbe – leicht gelblich beim Fichtenzapfenhelmling - die für mich ein deutliches Unterscheidungsmerkamal ist, hilft die Geruchsprobe. Der Fichtenzapfenhelmling hat einen deutlichen Chlorgeruch (Schwimmbad).
+Zu verwechseln wäre *Mycena strobilicola* allenfalls mit *[Strobilurus esculentus](/pilze/strobilurus-esculentus-fichtenzapfenrübling)*, dem Fichten-Zapfenrübling, der zur gleichen Zeit fruktifiziert. Neben der unterschiedlichen Stielfarbe – grau beim Fichtenzapfenhelmling - die für mich ein deutliches Unterscheidungsmerkamal ist, hilft die Geruchsprobe. Der Fichtenzapfenhelmling hat einen deutlichen Chlorgeruch (Schwimmbad).
 
 In Deutschland gibt es bezüglich der Verbreitung ein deutliches Nord-Süd-Gefälle. Im Norden selten oder fehlend, im Süden häufig. Die hier gezeigten Pilze stammen aus Fichtenwäldern nordöstlich von München im Februar 2023.
