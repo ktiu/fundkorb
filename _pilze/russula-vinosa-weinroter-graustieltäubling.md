@@ -20,6 +20,10 @@ literatur:
 ---
 Die 3 in Mitteleuropa vorkommenden Graustieltäublinge sind  in den Sektionen *Integroidinae* und *Decolorantinae* zu finden und keinesfalls eine homogene Gruppe nahe verwandter Arten. Täublinge mit grauen oder grauverfärbenden Stielen und/oder Fleisch gibt es auch in anderen Sektionen. Eines ist den 3 Graustieltäublingen aber gemeinsam: sie bevorzugen moorige oder feuchte Standorte. Keiner von ihnen kann als häufig bezeichnet werden.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_vinosa_02_uwi.jpg" %}
+{% include abbildung_ende.html legende="Foto: Uwe Winkler" %}
+
 Der Weinrote Graustieltäubling ist eine mittelgroße Art mit Hutdurchmessern von 4 bis 8, maximal 12 cm. Die Hüte sind trüb weinrot bis blutrot oder dunkel purpurn, jung glockig, später flach ausgebreitet bis trichterig vertieft, ohne Buckel. Die nur jung weißen, später buttergelben, dicht stehenden Lamellen haben mitunter rötliche Schneiden. Stiel und Fleisch sind stark grauend.
 
 <div class="table-responsive">
