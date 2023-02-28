@@ -46,9 +46,9 @@ Dieser Täubling wird auch Chamäleons-oder Aprikosen-Täubling genannt und das 
     </tr>
     <tr>
       <td>mild</td>
-      <td>dottergelb</td>
+      <td>hell ocker</td>
       <td>wenig bis 1/2</td>
-      <td>hell rosa</td>
+      <td>rosa</td>
        
     </tr>
   </table>
