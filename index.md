@@ -11,13 +11,14 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 - - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ischnoderma_resinosum_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
 Ein Waldwegrand nahe Dietzenbach. An einem liegenden Buchenstamm im Optimalstadium der Vermorschung wächst seit vielen Monaten der Laubholz-Harzporling *Ischnoderma resinosum*, unser aktueller [Fundkorbpilz](AA "Glossar-") am 28.02.2023. Wir begrüßen ihn bei jedem Vorbeigehen wie einen guten alten Bekannten. *Hermann Jahn* hielt ihn noch für eine in Europa sehr seltene Art. In der Rhein-Main-Ebene ist er (und das schon seit Jahren) ganz und gar keine Rarität. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/ischnoderma-resinosum-laubholz-harzporling)
 
 <div style="clear:  both"></div>
 
