@@ -7,7 +7,7 @@ beschreibung:
   synonym: "Synonym: Russula chamaeleontina, Russula lutea"
   erlaeuterung: risigallina = lachendes Huhn (?)
 profil:
-  aktualisiert: 2020-08-15
+  aktualisiert: 2023-02-28
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
