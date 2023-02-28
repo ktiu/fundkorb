@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-28.02.2023: [Ischnoderma resinosum - Laubholz-Harzporling](/pilze/ischnoderma-resinosum-laubholz-harzporling)  
+01.03.2023: [Mycena strobilicola - Fichtenzapfenhelmling](/pilze/mycena-strobilicola-fichtenzapfenhelmling)
+
+28.02.2023: [Ischnoderma resinosum - Laubholz-Harzporling](/pilze/ischnoderma-resinosum-laubholz-harzporling)\
 27.02.2023: [Lycogala epidendrum - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 26.02.2023: [Phellinus robustus - Eichen-Feuerschwamm](/pilze/phellinus-robustus-eichen-feuerschwamm)\
 25.02.2023: [Coriolopsis trogii - Blasse Borstentramete](/pilze/coriolopsis-trogii-blasse-borstentramete)\
