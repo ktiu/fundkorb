@@ -6,7 +6,7 @@ beschreibung:
   familie: Physalacriaceae
   erlaeuterung: esculentus = essbar
 profil:
-  aktualisiert: 2020-08-18
+  aktualisiert: 2023-02-28
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -24,6 +24,6 @@ Alle drei Zapfenrüblinge sind kleine Pilzchen, deren Hüte maximal 2 – 3 Zent
 
 Der wissenschaftliche Artname *esculentus* verrät schon, dass der Fichtenzapfenrübling essbar ist. Es liegt natürlich auf der Hand, dass das Sammeln so kleiner und dünnfleischiger Pilze eine mühsame Arbeit ist. Da manchmal bis zu einem Dutzend Fruchtkörper auf einem einzigen Zapfen wachsen können, mag es sich dennoch lohnen, zumal sie in einer pilzarmen Zeit erscheinen. Die zähen Stiele werden nicht verwendet.
 
-Verwechseln könnte man den Fichtenzapfenrübling vielleicht auch mit dem Fichtenzapfen-Helmling, der zur gleichen Zeit auf vergrabenen Fichtenzapfen vorkommt. Er unterscheidet sich durch glockig bis kegelig geformte Hüte, brüchigen Stiel und Chlorgeruch. Wer sich bei *123pilze* über „Verwechslungsgefahren“ dieser beiden Arten informiert, wird mit Erstaunen lesen, dass man den Fichtenzapfen-Helmling zwar mit dem Fichtenzapfenrübling verwechseln kann, den Fichtenzapfenrübling aber nicht mit dem Fichtenzapfen-Helmling.
+Verwechseln könnte man den Fichtenzapfenrübling vielleicht auch mit dem [Fichtenzapfen-Helmling *Mycena strobilicola*](/pilze/mycena-strobilicola-fichtenzapfenhelmling), der zur gleichen Zeit auf vergrabenen Fichtenzapfen vorkommt. Er unterscheidet sich durch glockig bis kegelig geformte Hüte, brüchigen Stiel und Chlorgeruch. Wer sich bei *123pilze* über „Verwechslungsgefahren“ dieser beiden Arten informiert, wird mit Erstaunen lesen, dass man den Fichtenzapfen-Helmling zwar mit dem Fichtenzapfenrübling verwechseln kann, den Fichtenzapfenrübling aber nicht mit dem Fichtenzapfen-Helmling.
 
 Übrigens… Zapfenrübline (auch Nagelschwämme genannt) sorgen dafür, dass die am Boden liegenden Zapfen, die ihren Zweck erfüllt haben, verschwinden. Sie bewirken, dass die Zapfen verfaulen, indem sie abgestorbenes organisches Material in anorganisches zurückverwandeln und so einen Kreislauf schließen.
