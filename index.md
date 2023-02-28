@@ -11,6 +11,17 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ischnoderma_resinosum_01_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+Ein Waldwegrand nahe Dietzenbach. An einem liegenden Buchenstamm im Optimalstadium der Vermorschung wächst seit vielen Monaten der Laubholz-Harzporling *Ischnoderma resinosum*, unser aktueller [Fundkorbpilz](AA "Glossar-") am 28.02.2023. Wir begrüßen ihn bei jedem Vorbeigehen wie einen guten alten Bekannten. *Hermann Jahn* hielt ihn noch für eine in Europa sehr seltene Art. In der Rhein-Main-Ebene ist er (und das schon seit Jahren) ganz und gar keine Rarität. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lycogala_epidendrum_01_dg.jpg" %}
@@ -31,18 +42,6 @@ footer_scripts:
 26.02.2023: Ich würde Euch an dieser Stelle lieber "richtige" Pilze zeigen, solche mit Lamellen oder essbare Röhrlinge, aber an diesen mangelt es in der gegenwärtigen Jahreszeit. Pilze an Holz findet man dagegen das ganze Jahr über. Zum Beispiel unser aktueller [Fundkorbpilz](AA "Glossar-"), der Eichen-Feuerschwamm *Phellinus robustus*, der problemlos 15 Jahre alt werden kann. Er wächst oft viele Meter hoch an den Stämmen, wo man beobachten kann, wie Spechte in ihrer Nähe ihre Höhlen zimmern. Das vom Pilz geschwächte Holz erleichtert ihnen die Arbeit. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phellinus-robustus-eichen-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coriolopsis_trogii_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.02.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Blasse Borstentramete *Coriolopsis trogii*, gehört zu einer Porlingsgattung, mit der nicht jeder Pilzfreund vertraut ist. Wenn die Blasse Borstentramete uns aber so vor Augen kommt wie auf diesem Foto, wird sicher keiner eine "echte" Tramete vermuten. Sie wächst seit über einem Jahr in unserem Dietzenbach Carré an einer Weide und hat inzwischen ihre besten Tage hinter sich. Am häufigsten ist sie in auwaldartigen Biotopen und an Pappeln zu finden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coriolopsis-trogii-blasse-borstentramete)
 
 <div style="clear:  both"></div>
 
