@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_strobilicola_01_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+01.03.2023: Heute hat unser aktueller [Fundkorbpilz](AA "Glossar-") wieder einen Hut und einen Stiel! Es ist der Fichtenzapfenhelmling *Mycena strobilicola*. Es gehört schon ein wenig Glück dazu, die richtigen Zapfen zu finden, an denen dieser Helmling fruktifiziert. Weitaus häufiger an diesem Substrat ist der [Fichtenzapfenrübling *Strobilurus esculentus*](/pilze/strobilurus-esculentus-fichtenzapfenrübling). Fundort ist das Zengermoos nordöstlich von München. Obwohl es eines der größten zusammenhängenden Birkenwald-Ökosysteme in Bayern vorweisen kann, haben doch einige Fichten im südlichen Teil für das Helmlingsvorkommen gesorgt. (Johann Rejek)
+
+*[Mehr lesen >](/pilze/mycena-strobilicola-fichtenzapfenhelmling)*
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ischnoderma_resinosum_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ Ein Waldwegrand nahe Dietzenbach. An einem liegenden Buchenstamm im Optimalstadi
 27.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutmilchpilz *Lycogala epidendrum*. Er gehört zu den häufigen [Schleimpilzen (Myxomyzeten)](/verwandt/schleimpilze-myxomyzeten), die makroskopisch (also vom Anschauen) sicher erkannt werden können. Die kleinen kugeligen Fruchtkörper, die auf dem Foto rosa gefärbt sind, werden bald grün und bei Sporenreife braun. Man findet sie fast das ganze Jahr über an totem Holz. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lycogala-epidendrum-blutmilchpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_robustus_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-26.02.2023: Ich würde Euch an dieser Stelle lieber "richtige" Pilze zeigen, solche mit Lamellen oder essbare Röhrlinge, aber an diesen mangelt es in der gegenwärtigen Jahreszeit. Pilze an Holz findet man dagegen das ganze Jahr über. Zum Beispiel unser aktueller [Fundkorbpilz](AA "Glossar-"), der Eichen-Feuerschwamm *Phellinus robustus*, der problemlos 15 Jahre alt werden kann. Er wächst oft viele Meter hoch an den Stämmen, wo man beobachten kann, wie Spechte in ihrer Nähe ihre Höhlen zimmern. Das vom Pilz geschwächte Holz erleichtert ihnen die Arbeit. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phellinus-robustus-eichen-feuerschwamm)
 
 <div style="clear:  both"></div>
 
