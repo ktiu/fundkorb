@@ -23,7 +23,7 @@ Graustieltäublinge haben ein gemeinsames Merkmale: ihre Stiele und ihr Fleisch 
 
 *Russula decolorans* ist wahrscheinlich der häufigste Graustieltäubling in Deutschland, aber längst nicht überall verbreitet und häufig, da er höhere Lagen zwischen 400 und 1000 m bevorzugt. Allerdings ist in jüngerer Zeit eine deutliche Rückgangstendenz zu beobachten. Seine Begleitbäume und [Mykorrhizapartner](Mykorrhiza "Glossar") sind vorwiegend Fichten, Tannen und Kiefern.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_decolorans_02_ar.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/russula_decolorans_03_ar.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Alexander Reichert" %}
