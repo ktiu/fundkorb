@@ -20,7 +20,15 @@ literatur:
 ---
 Der Violette Reiftäuling ist eine Art höherer Gebirgslagen, im Flachland sehr selten. Die meisten deutschen Vorkommen sind aus dem Schwarzwald, den Alpen und dem Bayerischen Wald bekannt, wo er als [Mykorrhizapilz](Mykorrhiza "Glossar") bei Fichten oder Tannen wächst. In Roten Listen wird er als gefährdete Art geführt.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_azurea_02_hs.jpg" %}
+{% include abbildung_ende.html legende="Foto: Hans Stern" %}
+
 Es handelt sich um einen relativ kleinen Pilz mit Hutdurchmessern von 3 bis 8 cm. Wie für Reiftäublinge typisch, ist die blauviolette Huthaut mit einer feinen hellen Reifschicht bedeckt, die bei Nässe verschwindet. Die Lamellen sind weiß, ebenso das Fleisch und die Stiele. Weiß ist auch die Farbe des Sporenpulvers.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_azurea_03_ar.jpg" %}
+{% include abbildung_ende.html legende="Foto: Alexander Reichert" %}
 
 <div class="table-responsive">
   <table class="table taeubling">
