@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.03.2023:  Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Kiefernzapfenrübling *Strobilurus tenacellus*, wächst ausschließlich auf Kiefernzapfen. Um ihn sicher zu erkennen, ist eine Geschmacksprobe (immer ausspucken!) erforderlich. Wenn bitter, ist der Fall klar. Er muss allerdings nicht unbedingt bitter schmecken. Er kann auch mild sein, und dann ist eine mikroskopische Prüfung unerlässlich, um ihn vom [Milden Kiefernzapfenrübling *Strobilurus stephanocystis*](/pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling) zu unterscheiden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/physisporinus_sanguinolentus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 01.03.2023: Heute hat unser aktueller [Fundkorbpilz](AA "Glossar-") wieder einen Hut und einen Stiel! Es ist der Fichtenzapfenhelmling *Mycena strobilicola*. Es gehört schon ein wenig Glück dazu, die richtigen Zapfen zu finden, an denen dieser Helmling fruktifiziert. Weitaus häufiger an diesem Substrat ist der [Fichtenzapfenrübling *Strobilurus esculentus*](/pilze/strobilurus-esculentus-fichtenzapfenrübling). Fundort ist das Zengermoos nordöstlich von München. Obwohl es eines der größten zusammenhängenden Birkenwald-Ökosysteme in Bayern vorweisen kann, haben doch einige Fichten im südlichen Teil für das Helmlingsvorkommen gesorgt. (Johann Rejek)
 
 *[Mehr lesen >](/pilze/mycena-strobilicola-fichtenzapfenhelmling)*
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ischnoderma_resinosum_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-Ein Waldwegrand nahe Dietzenbach. An einem liegenden Buchenstamm im Optimalstadium der Vermorschung wächst seit vielen Monaten der Laubholz-Harzporling *Ischnoderma resinosum*, unser aktueller [Fundkorbpilz](AA "Glossar-") am 28.02.2023. Wir begrüßen ihn bei jedem Vorbeigehen wie einen guten alten Bekannten. *Hermann Jahn* hielt ihn noch für eine in Europa sehr seltene Art. In der Rhein-Main-Ebene ist er (und das schon seit Jahren) ganz und gar keine Rarität. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ischnoderma-resinosum-laubholz-harzporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lycogala_epidendrum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.02.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutmilchpilz *Lycogala epidendrum*. Er gehört zu den häufigen [Schleimpilzen (Myxomyzeten)](/verwandt/schleimpilze-myxomyzeten), die makroskopisch (also vom Anschauen) sicher erkannt werden können. Die kleinen kugeligen Fruchtkörper, die auf dem Foto rosa gefärbt sind, werden bald grün und bei Sporenreife braun. Man findet sie fast das ganze Jahr über an totem Holz. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lycogala-epidendrum-blutmilchpilz)
 
 <div style="clear:  both"></div>
 
