@@ -52,7 +52,7 @@ Der Kohlentäubling ist eine seltene auf kalkhatigen Böden vorkommende Art. In 
 
 Mikromerkmale: 
 
-**Sporen**: rundlich, feinwarzig bis punktiert, feingratig netzig miteinander verbunden, 6 - 10,5 x 6,5 - 8,5 µm 
+**Sporen**: rundlich, feinwarzig bis punktiert, feingratig netzig miteinander verbunden, 6 - 10,5 x 6,5 - 8,5 µm  
 **Hutdeckschicht** aus langen, 5 - 10 µm dicken zylindrischen [Hyphen](Hyphen "Glossar"), die sowohl farblos als auch mit perlschnurartig angeordneten, dunklen, runden oder länglichen "Tupfern" (Vakuolen) versehen sind.
 
 {% include abbildung_start.html stil="standard" %}
