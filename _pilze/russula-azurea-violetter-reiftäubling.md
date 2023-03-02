@@ -46,7 +46,7 @@ Es handelt sich um einen relativ kleinen Pilz mit Hutdurchmessern von 3 bis 8 cm
       <td>mild</td>
       <td>weiß</td>
       <td>ganz</td>
-      <td>orangerosa</td>
+      <td>rosa</td>
        
     </tr>
   </table>
