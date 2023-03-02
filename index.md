@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/physisporinus_sanguinolentus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.03.2023: Mit bloßem Auge betrachtet ist unser aktueller [Fundkorbpilz](AA "Glossar-") kaum mehr als eine [resupinate](resupinat "Glossar"), weiße körnige Fläche auf feucht liegendem Totholz, die gern auch auf die benachbarte Vegetation übergreift. Mit einer guten Lupe erkennt man die porige Struktur, wobei die sehr kleinen Poren (bis zu 6 pro mm) rundlich bis eckig geformt sind und bei Reibung und auf Druck rot flecken. Das ist der Rotfleckende Porling Physisporinus sanguinolentus oder eine verwandte Art. Zur sicheren Bestimmung sollte mikroskopiert werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/physisporinus-sanguinolentus-rotfleckender-porling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_strobilicola_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
