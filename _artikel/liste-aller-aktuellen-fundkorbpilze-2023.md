@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
+02.03.2023: [Physisporinus sanguinolentum - Rotfleckender Porling](/pilze/physisporinus-sanguinolentus-rotfleckender-porling)  
 01.03.2023: [Mycena strobilicola - Fichtenzapfenhelmling](/pilze/mycena-strobilicola-fichtenzapfenhelmling)
 
 28.02.2023: [Ischnoderma resinosum - Laubholz-Harzporling](/pilze/ischnoderma-resinosum-laubholz-harzporling)\
