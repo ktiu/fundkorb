@@ -39,9 +39,9 @@ Das Schwärzen in und an allen Fruchtkörperteilen ist ein wichtiges, aber kein 
       
     </tr>
     <tr>
-      <td>mild</td>
+      <td>mild bis schärflich</td>
       <td>weiß</td>
-      <td>nicht</td>
+      <td>nur wenig am Rand</td>
       <td>rosa</td>
        
     </tr>
