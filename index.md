@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_hirsutum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.03.2023 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Striegelige Schichtpilz *Stereum hirsutum*. Er ist sehr häufig, wächst vor allem an totem Eichenholz, egal ob Stümpfe, Stämme oder Äste, und fällt durch seine kräftig gelbe Farbe schon von Weitem auf. Es gibt insgesamt sieben mitteleuropäische Stereum-Arten, die alle mit einem Porträt im Fundkorb vertreten sind. Dazu auch einen leicht zu handhabenden Bestimmungsschlüssel von Pilzfreund *Bernd Miggel*. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stereum-hirsutum-striegeliger-schichtpilz) 
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
