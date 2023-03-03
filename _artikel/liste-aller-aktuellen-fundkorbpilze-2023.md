@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-03.03.2023: [Strobilurus tenacellus - Kiefernzapfenrübling](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)  
+04.03.2023: [Stereum hirsutum - Striegeliger Schichtpilz](/pilze/stereum-hirsutum-striegeliger-schichtpilz)  
+03.03.2023: [Strobilurus tenacellus - Kiefernzapfenrübling](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)\
 02.03.2023: [Physisporinus sanguinolentum - Rotfleckender Porling](/pilze/physisporinus-sanguinolentus-rotfleckender-porling)\
 01.03.2023: [Mycena strobilicola - Fichtenzapfenhelmling](/pilze/mycena-strobilicola-fichtenzapfenhelmling)
 
