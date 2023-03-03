@@ -43,7 +43,7 @@ Zur Farbvariabilität: Die Hutfarben können violett, lila, fleischrötlich bis 
       <td>mild, seifig</td>
       <td>hell dottergelb</td>
       <td>fast ganz</td>
-      <td>rosa - hellrosa</td>
+      <td>rosa</td>
        
     </tr>
   </table>
