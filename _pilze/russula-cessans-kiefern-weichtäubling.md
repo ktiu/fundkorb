@@ -17,7 +17,7 @@ literatur:
       S. 511 - 512"
   - url: http://tintling.com/pilzbuch/arten/r/Russula_cessans.html
 ---
-Der Kiefern-Weichtäubling ist der seltene Doppelgänger des Gerieften Weichtäublings *Russula nauseosa*. Beide sind kleine weichfleischige Arten, die bei Nadelbäumen vorkommen. Der Kiefern-Weichtäubling, wie der Name schon vermuten lässt, bei Kiefern, der Geriefte bei Fichten. Da, wo Kiefern und Fichten beieinander stehen, wird es nur schwer gelingen, die beiden Arten auseinanderzuhalten. Ob Angaben zur Ökologie wie zum Beispiel
+Der Kiefern-Weichtäubling ist der seltene Doppelgänger des [Gerieften Weichtäublings *Russula nauseosa*](/pilze/russula-nauseosa-geriefter-weichtäubling). Beide sind kleine weichfleischige Arten, die bei Nadelbäumen vorkommen. Der Kiefern-Weichtäubling, wie der Name schon vermuten lässt, bei Kiefern, der Geriefte bei Fichten. Da, wo Kiefern und Fichten beieinander stehen, wird es nur schwer gelingen, die beiden Arten auseinanderzuhalten. Ob Angaben zur Ökologie wie zum Beispiel
 
 > Honiggras-Birken-Stieleichenwald mit Waldkiefern, Salbeigamander-Eichen-und Hagemoos-Waldkiefernwälder, Kiefern- und Robinien-Waldkiefern-Mischforste auf entkalkten Binnendünen, Schwemm- und Flugsand, bodensaure Fichten-Tannen- und Fichtenwälder mit autochthonen wie forstlich eingebrachten Waldkiefern, auf trockenen bis mäßig frischen, stark bis schwach saueren, humosen, gewöhnlich basen- und nährstoffarmen Rankern, Regosolen sowie degradierten Rendzinen, Parabraunerden und Podsolen"
 
@@ -54,4 +54,4 @@ Auf Rückfrage haben fast alle von mir angesprochenen Täublingskenner allerding
   </table>
 </div>
 
-Einen vielleicht brauchbaren Hinweis auf einen makroskopischen Unterschied zwischen den beiden Arten scheint es immerhin zu geben: Der seltene Kiefern-Weichtäubling *Russula cessans* hat fast immer einen ungerieften Hutrand, der Griefte Weichtäubling *Russula nauseosa* dagegen in der Regel einen mehr oder weniger deutlich gerieften. Beide sind ungiftig, aber wegen ihres zwar milden, aber unangenehmen Geschmacks für die Küche ungeeignet.
+Einen vielleicht brauchbaren Hinweis auf einen makroskopischen Unterschied zwischen den beiden Arten scheint es immerhin zu geben: Der seltene Kiefern-Weichtäubling *Russula cessans* hat fast immer einen ungerieften Hutrand, der Griefte Weichtäubling *Russula nauseosa* dagegen in der Regel einen mehr oder weniger deutlich gerieften. Außerdem ist R. cessans gegenüber *R. nauseosa* die stabilere Art mit Hutfarben, die mehr zu violett und purpur tendieren.  Beide sind ungiftig, aber wegen ihres zwar milden, aber unangenehmen Geschmacks für die Küche ungeeignet.
