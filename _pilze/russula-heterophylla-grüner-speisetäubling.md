@@ -22,10 +22,11 @@ literatur:
 Am Beispiel des Grünen Speisetäublings kann man exemplarisch aufzeigen, dass die Farbe Grün in der Pilzkunde ein dehnbarer Begriff ist. In der Literatur finden sich auf unseren Pilz bezogene Bezeichnungen wie grünlich, blaugrün, gelbgrün, graugrün, lebhaft grün oder grasgrün. Dabei ist grün in welcher Nuance auch immer nicht unbedingt die vorherrschende Hutfarbe bei unserem Pilz. Häufiger noch sollen Oliv- und Brauntöne vorkommen, die sich auch noch mit weinroten vermischen können. Um ihn vom [Speisetäubling *Russula vesca*](https://fundkorb.de/pilze/russula-vesca-speiset%C3%A4ubling) zu unterscheiden, achte man auf den Hutrand. Bei diesem ist die Huthaut etwas zu kurz geraten, so dass die Lamellen von oben betrachtet am Hutrand vorstehend sichtbar sind. Farblich kann er mit dem [Frauentäubling *Russula cyanoxantha*](/pilze/russula-cyanoxantha-frauentäubling) übereinstimmen, der jedoch als einziger in der Gattung biegsame Lamellen hat, die nicht splittern sondern beim Darüberstreichen miteinander verschmieren. Beim Speise- und beim Frauentäubling ist die Huthaut etwa zu einem Drittel oder zur Hälfte abziehbar, beim Grünen Speisetäubling dagegen überhaupt nicht.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/russula_heterophylla_02_uwi.jpg" %}
-{% include abbildung_ende.html legende="Foto: Uwe Winkler" %}
+{% include bild.html datei="/bilder/russula_heterophylla_02_uwi.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/russula_heterophylla_04_bm.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Foto links: Uwe Winkler -- Foto rechts von Bernd Miggel: gegabelte Lamellen" %}
 
-Der Hut wird 6 bis 12 cm breit, ist jung halbkugelig, später meist trichterig vertieft. Die blassen Lamellen sind zum Hutrand hin oft gegabelt. Der meist relativ kurze Stiel ist häufig rostfleckig.
+Der Hut wird 6 bis 12 cm breit, ist jung halbkugelig, später meist trichterig vertieft. Die blassen Lamellen sind zum Hutrand hin oft gegabelt, was zum Artnamen *"heterophylla"* geführt hat. Der meist relativ kurze Stiel ist häufig rostfleckig.
 
 <div class="table-responsive">
   <table class="table taeubling">
@@ -43,7 +44,7 @@ Der Hut wird 6 bis 12 cm breit, ist jung halbkugelig, später meist trichterig v
       <td>mild, nussig</td>
       <td>rein weiß</td>
       <td>nicht</td>
-      <td>stark orangerosa</td>
+      <td>rosa</td>
        
     </tr>
   </table>
