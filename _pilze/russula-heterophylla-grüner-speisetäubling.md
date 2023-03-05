@@ -26,7 +26,7 @@ Am Beispiel des Grünen Speisetäublings kann man exemplarisch aufzeigen, dass d
 {% include bild.html datei="/bilder/russula_heterophylla_04_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Foto links: Uwe Winkler -- Foto rechts von Bernd Miggel: gegabelte Lamellen" %}
 
-Der Hut wird 6 bis 12 cm breit, ist jung halbkugelig, später meist trichterig vertieft. Die blassen Lamellen sind zum Hutrand hin oft gegabelt, was zum Artnamen *"heterophylla"* geführt hat. Der meist relativ kurze Stiel ist häufig rostfleckig.
+Der Hut wird 6 bis 12 cm breit, ist jung halbkugelig, später meist trichterig vertieft. Die blassen Lamellen sind zum Hutrand hin oft gegabelt und queraderig verbunden, was zum Artnamen *"heterophylla"* geführt hat. Der meist relativ kurze Stiel ist häufig rostfleckig.
 
 <div class="table-responsive">
   <table class="table taeubling">
