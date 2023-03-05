@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/hymenochaete_rubiginosa_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-05.03.2023 Aktueller Fundkorbpilz ist Umberbraune Borstenscheibe *Hymenochaete rubiginosa*. Im Habitus ähnelt sie den Schichtpilzen, sind mit diesen aber nicht im Entferntesten verwandt. Sie wachsen als dünne, fächerförmige Hütchen an totem Holz, wobei die glatte bis runzelige Fruchtschicht (*Hymenium*) die Unterseite bildet und zum Teil als krustige, *[resupinate](resupinat "Glossar")* Schicht mit dem Holz verbunden ist. Die Fruchtkörper sind frisch lederig zäh, trocken steif und brüchig und können mehrere Jahre alt werden. (Dieter Gewalt)
+05.03.2023 Aktueller [Fundkorbpilz](AA "Glossar-") ist Umberbraune Borstenscheibe *Hymenochaete rubiginosa*. Im Habitus ähnelt sie den Schichtpilzen, sind mit diesen aber nicht im Entferntesten verwandt. Sie wachsen als dünne, fächerförmige Hütchen an totem Holz, wobei die glatte bis runzelige Fruchtschicht (*Hymenium*) die Unterseite bildet und zum Teil als krustige, *[resupinate](resupinat "Glossar")* Schicht mit dem Holz verbunden ist. Die Fruchtkörper sind frisch lederig zäh, trocken steif und brüchig und können mehrere Jahre alt werden. (Dieter Gewalt)
 
 [Mehr lesen > ](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)
 
