@@ -52,8 +52,8 @@ Verwechslungen sind mit anderen gelbhütigen Täublingen möglich, vor allem mit
 
 Alle Graustieltäublinge sind essbar. Dies sind:\
 **Russula claroflava** = Gelber Graustieltäubling\
-**Russula decolorans** = Orangeroter Graustieltäubling\
-**Russula vinosa** = Weinroter Graustieltäubling
+[**Russula decolorans** = Orangeroter Graustieltäubling](/pilze/russula-decolorans-orangeroter-graustieltäubling)\
+[**Russula vinosa** = Weinroter Graustieltäubling](/pilze/russula-vinosa-weinroter-graustieltäubling)
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_claroflava_03_mhk.jpg" %}
