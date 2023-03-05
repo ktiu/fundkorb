@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hymenochaete_rubiginosa_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.03.2023 Aktueller Fundkorbpilz ist Umberbraune Borstenscheibe *Hymenochaete rubiginosa*. Im Habitus ähnelt sie den Schichtpilzen, sind mit diesen aber nicht im Entferntesten verwandt. Sie wachsen als dünne, fächerförmige Hütchen an totem Holz, wobei die glatte bis runzelige Fruchtschicht (*Hymenium*) die Unterseite bildet und zum Teil als krustige, *[resupinate](resupinat "Glossar")* Schicht mit dem Holz verbunden ist. Die Fruchtkörper sind frisch lederig zäh, trocken steif und brüchig und können mehrere Jahre alt werden. (Dieter Gewalt)
+
+[Mehr lesen > ](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_hirsutum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 03.03.2023:  Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Kiefernzapfenrübling *Strobilurus tenacellus*, wächst ausschließlich auf Kiefernzapfen. Um ihn sicher zu erkennen, ist eine Geschmacksprobe (immer ausspucken!) erforderlich. Wenn bitter, ist der Fall klar. Er muss allerdings nicht unbedingt bitter schmecken. Er kann auch mild sein, und dann ist eine mikroskopische Prüfung unerlässlich, um ihn vom [Milden Kiefernzapfenrübling *Strobilurus stephanocystis*](/pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling) zu unterscheiden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/physisporinus_sanguinolentus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.03.2023: Mit bloßem Auge betrachtet ist unser aktueller [Fundkorbpilz](AA "Glossar-") kaum mehr als eine [resupinate](resupinat "Glossar"), weiße körnige Fläche auf feucht liegendem Totholz, die gern auch auf die benachbarte Vegetation übergreift. Mit einer guten Lupe erkennt man die porige Struktur, wobei die sehr kleinen Poren (bis zu 6 pro mm) rundlich bis eckig geformt sind und bei Reibung und auf Druck rot flecken. Das ist der Rotfleckende Porling Physisporinus sanguinolentus oder eine verwandte Art. Zur sicheren Bestimmung sollte mikroskopiert werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/physisporinus-sanguinolentus-rotfleckender-porling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_strobilicola_01_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-01.03.2023: Heute hat unser aktueller [Fundkorbpilz](AA "Glossar-") wieder einen Hut und einen Stiel! Es ist der Fichtenzapfenhelmling *Mycena strobilicola*. Es gehört schon ein wenig Glück dazu, die richtigen Zapfen zu finden, an denen dieser Helmling fruktifiziert. Weitaus häufiger an diesem Substrat ist der [Fichtenzapfenrübling *Strobilurus esculentus*](/pilze/strobilurus-esculentus-fichtenzapfenrübling). Fundort ist das Zengermoos nordöstlich von München. Obwohl es eines der größten zusammenhängenden Birkenwald-Ökosysteme in Bayern vorweisen kann, haben doch einige Fichten im südlichen Teil für das Helmlingsvorkommen gesorgt. (Johann Rejek)
-
-*[Mehr lesen >](/pilze/mycena-strobilicola-fichtenzapfenhelmling)*
 
 <div style="clear:  both"></div>
 
