@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-06.03.2023: [Phragmidium violaceum - Brombeer-Rost](/pilze/phragmidium-violaceum-brombeer-rost)  
+07.03.2023: [Encoelia furfuracea - Haselbecherling](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)  
+06.03.2023: [Phragmidium violaceum - Brombeer-Rost](/pilze/phragmidium-violaceum-brombeer-rost)\
 05.03.2023: [Hymenochaete rubiginosa - Umberbraune Borstenscheibe](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)\
 04.03.2023: [Stereum hirsutum - Striegeliger Schichtpilz](/pilze/stereum-hirsutum-striegeliger-schichtpilz)\
 03.03.2023: [Strobilurus tenacellus - Kiefernzapfenrübling](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)\
