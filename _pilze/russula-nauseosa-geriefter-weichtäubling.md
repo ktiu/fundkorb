@@ -51,7 +51,7 @@ Zur Farbvariabilität: Die Hutfarben können violett, lila, fleischrötlich bis 
 
 Der wissenschaftliche Artname *nauseosa* (= Ekel erregend) sagt alles über seinen Speisewert aus. Der Geschmack ist zwar mild, wird aber als seifig beschrieben, und seifenartig ist auch sein Geruch. Giftig ist er nicht.
 
-Verwechselt werden könnte er mit dem Kiefern-Weichtäubling *Russula cessans*, der ebenfalls recht farbvariabel ist und in allen Höhenlagen bei Kiefern vorkommt.
+Verwechselt werden könnte er mit dem [Kiefern-Weichtäubling *Russula cessans*](/pilze/russula-cessans-kiefern-weichtäubling), der ebenfalls recht farbvariabel ist und in allen Höhenlagen bei Kiefern vorkommt.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_nauseosa_03_mhk.jpg" %}
