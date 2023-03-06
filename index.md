@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phragmidium_violaceum_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.03.2023 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brombeerrost *Phragmidium violaceum*. Er befällt die Blätter der Pflanzen und dürfte in keinem Brombeerbestand fehlen. Man erkennt den Rost, der zwei unterschiedliche Sporentypen bildet, an den dunkelroten Flecken auf der Blattoberseite, die ganzjährig zu beobachten sind. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phragmidium-violaceum-brombeer-rost)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hymenochaete_rubiginosa_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 04.03.2023 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Striegelige Schichtpilz *Stereum hirsutum*. Er ist sehr häufig, wächst vor allem an totem Eichenholz, egal ob Stümpfe, Stämme oder Äste, und fällt durch seine kräftig gelbe Farbe schon von Weitem auf. Es gibt insgesamt sieben mitteleuropäische Stereum-Arten, die alle mit einem Porträt im Fundkorb vertreten sind. Dazu auch einen leicht zu handhabenden Bestimmungsschlüssel von Pilzfreund *Bernd Miggel*. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/stereum-hirsutum-striegeliger-schichtpilz) 
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.03.2023:  Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Kiefernzapfenrübling *Strobilurus tenacellus*, wächst ausschließlich auf Kiefernzapfen. Um ihn sicher zu erkennen, ist eine Geschmacksprobe (immer ausspucken!) erforderlich. Wenn bitter, ist der Fall klar. Er muss allerdings nicht unbedingt bitter schmecken. Er kann auch mild sein, und dann ist eine mikroskopische Prüfung unerlässlich, um ihn vom [Milden Kiefernzapfenrübling *Strobilurus stephanocystis*](/pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling) zu unterscheiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)
 
 <div style="clear:  both"></div>
 
