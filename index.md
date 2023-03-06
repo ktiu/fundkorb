@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/encoelia_furfuracea_02_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+07.03.2023 Ein Pilzfund in Augenhöhe. Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haselbecherling *Encoelia furfuracea*. Beim Durchstreifen eines hügeligen, mit Gräben durchzogen Mischwaldes bei Freising war unser Blick hauptsächlich auf bemooste liegende Baumstämme und Baumstümpfe gerichtet. Hier hält sich die Feuchtigkeit und Pilzfunde sind zu erwarten. An einer lichten Stelle im Wald säumten einige Holunder- und Haselgehölze den Wegrand. Auf einem der Äste - quasi in Augenhöhe – zeigte sich eine kleine Gruppe von Pilzen, die sich als Haselbecherlinge entpuppten. (Johann Rejek)
+
+[Mehr lesen >](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phragmidium_violaceum_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 05.03.2023 Aktueller [Fundkorbpilz](AA "Glossar-") ist Umberbraune Borstenscheibe *Hymenochaete rubiginosa*. Im Habitus ähnelt sie den Schichtpilzen, sind mit diesen aber nicht im Entferntesten verwandt. Sie wachsen als dünne, fächerförmige Hütchen an totem Holz, wobei die glatte bis runzelige Fruchtschicht (*Hymenium*) die Unterseite bildet und zum Teil als krustige, *[resupinate](resupinat "Glossar")* Schicht mit dem Holz verbunden ist. Die Fruchtkörper sind frisch lederig zäh, trocken steif und brüchig und können mehrere Jahre alt werden. (Dieter Gewalt)
 
 [Mehr lesen > ](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_hirsutum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.03.2023 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Striegelige Schichtpilz *Stereum hirsutum*. Er ist sehr häufig, wächst vor allem an totem Eichenholz, egal ob Stümpfe, Stämme oder Äste, und fällt durch seine kräftig gelbe Farbe schon von Weitem auf. Es gibt insgesamt sieben mitteleuropäische Stereum-Arten, die alle mit einem Porträt im Fundkorb vertreten sind. Dazu auch einen leicht zu handhabenden Bestimmungsschlüssel von Pilzfreund *Bernd Miggel*. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/stereum-hirsutum-striegeliger-schichtpilz) 
 
 <div style="clear:  both"></div>
 
