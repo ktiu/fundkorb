@@ -44,7 +44,7 @@ Makroskopische Merkmale:\
     </tr>
     <tr>
       <td>scharf</td>
-      <td>weiß/td>
+      <td>weiß</td>
       <td>wenig bis 1/2</td>
       <td>rosa</td>
        
@@ -52,9 +52,9 @@ Makroskopische Merkmale:\
   </table>
 </div>
 
-Mikroskopische Merkmale:\
-**Sporen:** rund bis elliptisch, mit kleinen, isoliert stehenden oder gratig verbundenen Stacheln, 6 - 8 x 5 - 7 µm\
-**Huthaut** mit vielen langen, spindelförmigen Pileozystiden\
+Mikroskopische Merkmale:  
+**Sporen:** rund bis elliptisch, mit kleinen, isoliert stehenden oder gratig verbundenen Stacheln, 6 - 8 x 5 - 7  
+**Huthaut** mit vielen langen, spindelförmigen Pileozystiden  
 **Zystiden** an  Lamellenflächen und -schneiden wie auch am Stiel dicht gedrängt
 
 Wie alle scharf schmeckenden Täublinge ist auch *Russula farinipes* für Speisezwecke völlig ungeeignet.
