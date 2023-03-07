@@ -13,10 +13,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bulbillomyces_farinosus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Körnchen-Rindenpilz *Bulbillomyces farinosus*. Man kann ihn vom Herbst bis ins Frühjahr an nass liegendem Laubholz finden, zum Beispiel an Teich- oder Bachufern. Auf den ersten Blick bietet er einen Anblick, als sei das Holz mit Grieß bestreut. Mit der Lupe betrachtet zeigt sich seine wahre Struktur: weißliche Kügelchen in unterschiedlicher Größe, je nach Entwicklungsstadium. Mitunter sehen sie aus, als würden sie in Wasser schwimmen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/bulbillomyces-farinosus-körnchen-rindenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/encoelia_furfuracea_02_jr.jpg" %}
 {% include abbildung_ende.html %}
 
-07.03.2023 Ein Pilzfund in Augenhöhe. Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haselbecherling *Encoelia furfuracea*. Beim Durchstreifen eines hügeligen, mit Gräben durchzogen Mischwaldes bei Freising war unser Blick hauptsächlich auf bemooste liegende Baumstämme und Baumstümpfe gerichtet. Hier hält sich die Feuchtigkeit und Pilzfunde sind zu erwarten. An einer lichten Stelle im Wald säumten einige Holunder- und Haselgehölze den Wegrand. Auf einem der Äste - quasi in Augenhöhe – zeigte sich eine kleine Gruppe von Pilzen, die sich als Haselbecherlinge entpuppten. (Johann Rejek)
+07.03.2023: Ein Pilzfund in Augenhöhe. Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haselbecherling *Encoelia furfuracea*. Beim Durchstreifen eines hügeligen, mit Gräben durchzogen Mischwaldes bei Freising war unser Blick hauptsächlich auf bemooste liegende Baumstämme und Baumstümpfe gerichtet. Hier hält sich die Feuchtigkeit und Pilzfunde sind zu erwarten. An einer lichten Stelle im Wald säumten einige Holunder- und Haselgehölze den Wegrand. Auf einem der Äste - quasi in Augenhöhe – zeigte sich eine kleine Gruppe von Pilzen, die sich als Haselbecherlinge entpuppten. (Johann Rejek)
 
 [Mehr lesen >](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)
 
@@ -28,21 +40,9 @@ footer_scripts:
 {% include bild.html datei="/bilder/phragmidium_violaceum_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-06.03.2023 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brombeer-Rost *Phragmidium violaceum*. Er befällt die Blätter der Pflanzen und dürfte in keinem Brombeerbestand fehlen. Man erkennt den Rost, der zwei unterschiedliche Sporentypen bildet, an den dunkelroten Flecken auf der Blattoberseite, die ganzjährig zu beobachten sind. (Dieter Gewalt)
+06.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brombeer-Rost *Phragmidium violaceum*. Er befällt die Blätter der Pflanzen und dürfte in keinem Brombeerbestand fehlen. Man erkennt den Rost, der zwei unterschiedliche Sporentypen bildet, an den dunkelroten Flecken auf der Blattoberseite, die ganzjährig zu beobachten sind. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phragmidium-violaceum-brombeer-rost)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hymenochaete_rubiginosa_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.03.2023 Aktueller [Fundkorbpilz](AA "Glossar-") ist Umberbraune Borstenscheibe *Hymenochaete rubiginosa*. Im Habitus ähnelt sie den Schichtpilzen, sind mit diesen aber nicht im Entferntesten verwandt. Sie wachsen als dünne, fächerförmige Hütchen an totem Holz, wobei die glatte bis runzelige Fruchtschicht (*Hymenium*) die Unterseite bildet und zum Teil als krustige, *[resupinate](resupinat "Glossar")* Schicht mit dem Holz verbunden ist. Die Fruchtkörper sind frisch lederig zäh, trocken steif und brüchig und können mehrere Jahre alt werden. (Dieter Gewalt)
-
-[Mehr lesen > ](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)
 
 <div style="clear:  both"></div>
 
