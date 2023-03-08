@@ -49,7 +49,11 @@ Umstritten ist der Scharfe Brauntäubling, weil er von ähnlichen Arten nur schw
 
 **Mikroskopische Merkmale:**
 
-**Sporen:** ziemlich heterogen, mit 10 - 14 x 8,5 - 11,5 µm sehr groß, breit ellipsoid, mit isoliert stehenden bis zu 2 µm langen Stacheln besetzt
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_adulterina_03_bm.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Mikrofoto Sporen: Bernd Miggel" %}
+
+**Sporen:** ziemlich heterogen, mit 10 - 15 x 8,5 - 11,5 µm sehr groß, breit ellipsoid, mit isoliert stehenden bis zu 2 µm langen Stacheln besetzt
 
 **Verwechslungsmöglichkeiten:**
 
