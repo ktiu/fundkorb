@@ -32,10 +32,10 @@ Die Hüte erreichen 3 bis 6 cm Durchmesser. Sie sind jung kugelig, später abgef
       <th>Chemische Reaktion mit FeSO4</th>
     </tr>
     <tr>
-      <td>mild</td>
-      <td>dunkel ocker</td>
-      <td>bis 1/2</td>
-      <td>grünlich</td>
+      <td>scharf</td>
+      <td>dottergelb</td>
+      <td>fast bis 1/2</td>
+      <td>rosa</td>
     </tr>
   </table>
 </div>
