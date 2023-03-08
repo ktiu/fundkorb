@@ -66,3 +66,7 @@ Die Sporen sind mit 8-10 x 7-8 µm recht groß. Die Ornamentierung zeigt bei Anf
 **Verwechslungsmöglichkeiten:**\
 Den [Purpurfarbenen Heringstäubling (Russula graveolens var. purpurata)](/pilze/russula-graveolens-var-purpurata-purpurfarbener-heringstäubling) könnte man als *„Zwergausführung“* unserer Art ansehen, denn in Bezug auf [Habitus](Habitus "Glossar") und Färbung ist er nahezu identisch, mit maximal 5 cm Hutdurchmesser jedoch wesentlich kleiner. Außerdem geht er eine Mykorrhiza mit Laubbäumen, vorzugsweise Eichen, ein.\
 Der [Kirschrote Speitäubling (Russula emetica)](/pilze/russula-emetica-kirschroter-speitäubling) besitzt ebenfalls einen roten Hut, doch sind Lamellen und Stiel reinweiß, und seine Huthaut ist komplett abziehbar Außerdem ist er wesentlich kleiner, riecht nicht nach Heringslake und schmeckt äußerst scharf.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_xerampelina_04_hmk.jpg" %}
+{% include abbildung_ende.html legende="Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V" %}
