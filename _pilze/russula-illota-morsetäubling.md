@@ -31,7 +31,7 @@ Zu beachten ist auch, dass sich der durchaus angenehme Marzipan- oder Bittermand
 {% include bild.html datei="/bilder/russula_illota_02_bm.jpg" %}
 {% include abbildung_ende.html legende="Foto: Bernd Miggel, aufgenommen in einem Kalkbuchenwald" %}
 
-Sein Hut wird 6 - 16 cm breit, ist jung kugelig, dann ausgebreitet und am Rand gerieft. Die Farben variieren von strohgelblich, ockerbraun bis violettlich braun und wirken verwaschen. Die Lamellenflächen sind weißlich bis gelblich. Das ebenfalls weißliche Fleisch bräunt im Alter. Der Geschmack ist mild, aber widerwärtig wie beim Stinktäubling *Russula foetens*, in den Lamellen schärflich. Der Stiel wird bis zu 15 cm lang, ist weißlich, oft braun punktiert sowie gilbend oder bräunend. Die Sporen sind rundlich bis leicht oval, 7 - 8,5 x 6 - 7,5 µm, Warzen zum Teil gratig verbunden.
+Sein Hut wird 6 - 16 cm breit, ist jung kugelig, dann ausgebreitet und am Rand gerieft, bei Feuchtigkeit stark schleimig. Die Farben variieren von strohgelblich, ockerbraun bis violettlich braun und wirken verwaschen. Die Lamellenflächen sind weißlich bis gelblich. Das ebenfalls weißliche Fleisch bräunt im Alter. Der Geschmack ist mild, aber widerwärtig wie beim Stinktäubling *Russula foetens*, in den Lamellen schärflich. Der Stiel wird bis zu 15 cm lang, ist weißlich, oft braun punktiert sowie gilbend oder bräunend. Die Sporen sind rundlich bis leicht oval, 7 - 8,5 x 6 - 7,5 µm, Warzen zum Teil gratig verbunden.
 
 <div class="table-responsive">
   <table class="table taeubling">
@@ -59,9 +59,9 @@ Sein Hut wird 6 - 16 cm breit, ist jung kugelig, dann ausgebreitet und am Rand g
 
 Der Morsetäubling ist in Deutschland mäßig verbreitet, im Norden nahezu fehlend, im Süden häufiger. Er bevorzugt ärmere, aber kalkhaltige Böden und ist von Juli bis Oktober in Laubwäldern überwiegend bei Buchen, sehr selten auch in Nadelwäldern zu finden.
 
-Andere Stinktäublinge sind:  
-[Russula  farinpes = Mehlstieltäubling](/pilze/russula-farinipes-mehlstieltäubling)  
-Russula  foetens = Stinktäubling  
-Russula  subfoetens = Gilbender Stinktäubling  
-Russula  fragrantissima = Anistäubling  
+Andere Stinktäublinge sind:\
+[Russula  farinpes = Mehlstieltäubling](/pilze/russula-farinipes-mehlstieltäubling)\
+Russula  foetens = Stinktäubling\
+Russula  subfoetens = Gilbender Stinktäubling\
+Russula  fragrantissima = Anistäubling\
 [Russula  grata = Mandeltäubling](/pilze/russula-grata-mandeltäubling)
