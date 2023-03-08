@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gloeophyllum_sepiarium_01_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+09.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zaunblättling *Gloeophyllum sepiarium*, eine ein- bis mehrjährige Art, die [saprobiontisch](saprobiontisch "Glossar") an Nadelholz wächst, überwiegend Fichte. Um den Pilz sicher zu bestimmen und gegenüber ähnlichen Arten am gleichen Substrat abzugrenzen, muss man am Hutrand auf einem Zentimeter Länge die Lamellen zählen. Sind es um die 20, ist es der Zaunblättling, sind es nur um die 10, ist es der Tannenblättling. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gloeophyllum-sepiarium-zaunblättling)
+
+div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bulbillomyces_farinosus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 07.03.2023: Ein Pilzfund in Augenhöhe. Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haselbecherling *Encoelia furfuracea*. Beim Durchstreifen eines hügeligen, mit Gräben durchzogen Mischwaldes bei Freising war unser Blick hauptsächlich auf bemooste liegende Baumstämme und Baumstümpfe gerichtet. Hier hält sich die Feuchtigkeit und Pilzfunde sind zu erwarten. An einer lichten Stelle im Wald säumten einige Holunder- und Haselgehölze den Wegrand. Auf einem der Äste - quasi in Augenhöhe – zeigte sich eine kleine Gruppe von Pilzen, die sich als Haselbecherlinge entpuppten. (Johann Rejek)
 
 [Mehr lesen >](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phragmidium_violaceum_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brombeer-Rost *Phragmidium violaceum*. Er befällt die Blätter der Pflanzen und dürfte in keinem Brombeerbestand fehlen. Man erkennt den Rost, der zwei unterschiedliche Sporentypen bildet, an den dunkelroten Flecken auf der Blattoberseite, die ganzjährig zu beobachten sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phragmidium-violaceum-brombeer-rost)
 
 <div style="clear:  both"></div>
 
