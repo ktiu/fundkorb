@@ -40,6 +40,8 @@ Die Hüte erreichen 3 bis 6 cm Durchmesser. Sie sind jung kugelig, später abgef
   </table>
 </div>
 
-Die Sporen sind rundlich mit überwiegend isoliert stehenden Stacheln, 8 - 13 x 8 - 12 µm groß.
+Die Sporen sind ellisoid undl 10,5 x 6,8 - 8,4 µm groß.
 
 Der Scharfe Glanztäubling ist eine kalkliebende Art, die vor allem bei Fichten in höheren Lagen bis 1500 m, in der Ebene dagegen nur sehr selten vorkommt. Sie galt zum Beispiel im Schwarzwald und in den Alpen lange Zeit als häufig, ist aber durch zunehmende Eutrophierung deutlich rückläufig.
+
+Ein sehr ähnlicher Doppelgänger in vergleichbaren Habitaten ist der Scharfe Brauntäubling *[Russula adulterina](/pilze/russula-adulterina-scharfer-brauntäubling)*. Die einzigen Unterschiede zu *R. firmula*: Die Fruchtkörper sind mit 7 - 11 cm Hutbreite durchschnittlich größer, ebenso die Sporen, die zudem eine deutlich höhere Ornamentation besitzen.
