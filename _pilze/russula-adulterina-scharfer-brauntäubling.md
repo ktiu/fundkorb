@@ -19,9 +19,9 @@ literatur:
   - text: "Michael / Hennig / Kreisel: Handbuch für Pilzfreunde V, Nr.151"
   - url: https://de.wikipedia.org/wiki/Scharfer_Braun-T%C3%A4ubling
 ---
-Der Scharfe Brauntäubling ist eine mittelgroße, unter Mykologen aber auch umstrittene Art, die fast ausschließlich auf kalkhaltigen Böden in Gebirgslagen um 600 bis 800 m gefunden werden kann. [Mykorrhizapartner](Mykorrhiza "Glossar") sind vor allem Fichten, aber auch Tannen. Funde sind vor allem aus dem Schwarzwald bekannt. Die Art gilt als selten. Sie muss inzwischen wohl sogar als sehr selten und gefährdet eingestuft werden.
+Der Scharfe Brauntäubling ist eine relativ kleine, unter Mykologen aber auch umstrittene Art, die fast ausschließlich auf kalkhaltigen Böden in Gebirgslagen um 600 bis 800 m gefunden werden kann. [Mykorrhizapartner](Mykorrhiza "Glossar") sind vor allem Fichten, aber auch Tannen. Funde sind vor allem aus dem Schwarzwald bekannt. Die Art gilt als selten. Sie muss inzwischen wohl sogar als sehr selten und gefährdet eingestuft werden.
 
-Die Hüte sind ocker- bis rötlich braun, im Alter ausblassend, in der Mitte meist deutlich vertieft. Sie können bis zu 12 cm Durchmesser erreichen. Am Rand sind sie zumindest im Alter leicht gerieft. Die Lamellen stehen relativ dicht und sind blass bis ockerfarben. Die weißen Stiele sind im Alter oft bräunlich oder rötlich überhaucht. Der Pilz gehört zu den scharfschmeckenden Täublingen, jedoch ist der Geschmack zunächst mild und wird kontinuierlich schärfer wie beim häufigen [Zedernholztäubling *Russula badia*](/pilze/russula-badia-zedernholz-täubling). Der Geruch ist obstig. Wie alle scharf schmeckenden Täublingsarten kommt er für Speisezwecke nicht in Frage.
+Die Hüte sind ocker- bis rötlich braun, im Alter ausblassend, in der Mitte meist deutlich vertieft. Sie können bis zu 6 cm Durchmesser erreichen. Am Rand sind sie zumindest im Alter leicht gerieft. Die Lamellen stehen relativ dicht und sind blass bis ockerfarben. Die weißen Stiele sind im Alter oft bräunlich oder rötlich überhaucht. Der Pilz gehört zu den scharfschmeckenden Täublingen, jedoch ist der Geschmack zunächst mild und wird kontinuierlich schärfer wie beim häufigen [Zedernholztäubling *Russula badia*](/pilze/russula-badia-zedernholz-täubling). Der Geruch ist obstig. Wie alle scharf schmeckenden Täublingsarten kommt er für Speisezwecke nicht in Frage.
 
 Umstritten ist der Scharfe Brauntäubling, weil er von ähnlichen Arten nur schwer abgrenzbar ist und von Täublingskennern auch unterschiedlich interpretiert wird. Verwechslungen sind u. a. leicht möglich mit dem Zedernholz-Täubling *Russula badia*, auch mit dem [Braunen Ledertäubling R. integra](/pilze/russula-integra-brauner-ledertäubling), der allerdings mild schmeckt. Für eine wirklich sichere Bestimmung sind chemische Reaktionen und Mikromerkmale zu beachten.
 
@@ -57,7 +57,7 @@ Umstritten ist der Scharfe Brauntäubling, weil er von ähnlichen Arten nur schw
 
 **Verwechslungsmöglichkeiten:**
 
-Der Scharfe Glanztäubling *Russula firmula* hat ähnliches Aussehen und vergleichbare Fruchtkörpergröße, schmeckt ebenfalls scharf, riecht ebenfalls obstig und besitzt ebenfalls dottergelbes Sporenpulver. Seine Sporen sind jedoch deutlich kleiner, im Durchschnitt 8 x 7 µm.\
+Der [Scharfe Glanztäubling *Russula firmula*](/pilze/russula-firmula-scharfer-glanztäubling) hat ähnliches Aussehen, hat aber größere Fruchtkörper, schmeckt ebenfalls scharf, riecht ebenfalls obstig und besitzt ebenfalls dottergelbes Sporenpulver. Seine Sporen sind jedoch deutlich kleiner, im Durchschnitt 10,5 x 7 - 8 µm.\
 Der [Zedernholztäubling *Russula badia*](/pilze/russula-badia-zedernholz-täubling) hat helleres Sporenpulver, es ist intensiv ocker bis hellgelb.
 
 {% include abbildung_start.html stil="standard" %}
