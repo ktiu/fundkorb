@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-10.03.2023: [Daedaleopsis confragosa - Dreifarbige Tramete](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)  
+11.03.2023: [Bjerkandera adusta - Angebrannter Rauchporling](/pilze/bjerkandera-adusta-angebrannter-rauchporling)  
+10.03.2023: [Daedaleopsis confragosa - Dreifarbige Tramete](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)\
 09.03.2023: [Gloeophyllum sepiarium - Zaunblättling](/pilze/gloeophyllum-sepiarium-zaunblättling)\
 08.03.2023: [Bulbillomyces farinosus - Körnchen-Rindenpilz](/pilze/bulbillomyces-farinosus-körnchen-rindenpilz)\
 07.03.2023: [Encoelia furfuracea - Haselbecherling](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)\
