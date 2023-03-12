@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ciboria_amentacea_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+12.03.2023: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Erlenkätzchen-Becherling *Ciboria amentacea*, kann man schon im Frühjahr nach der Schneeschmelze suchen und finden. Ich nenne sie *"Schätzchen auf Kätzchen"*. Weil sie so hübsch sind und auf vorjährigen vermoderten Erlenkätzchen wachsen. Die Becherchen erreichen maximal 1 cm Durchmesser. Im Vergleich dazu sind die Stiele oft auffallend lang. Makroskopisch kaum zu unterscheiden ist der Haselkätzchen-Becherling *Ciboria coryli*, wobei zu bedenken ist, dass der hier gezeigte Erlenkätzchen-Becherling auch auf Haselkätzchen wächst. Um sicher zu gehen, ist also ein wenig Mikroskopieraufwand erforderlich. Die Sporen der beiden Arten unterscheiden sich deutlich in ihrer Größe.
+
+[Mehr lesen >](/pilze/ciboria-amentacea-erlenkätzchen-becherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bjerkandera_adusta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 10.03.2023 Aktueller [Fundkorbpilz](AA "Glossar-") ist die Dreifarbige Tramete *Daedaleopsis tricolor*. Sie unterscheidet auf den ersten Blick deutlich von der Rötenden Tramete *Daedaleopsis confragosa* durch ein lamelliges [Hymenophor](Hymenophor "Glossar"). Ein wirklich zuverlässiges Merkmal ist das aber leider nicht. Es können Übergangsformen vorkommen, die man keiner der beiden Arten sicher zuordnen kann. Selbst Mikroskopieren hilft da nicht weiter. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gloeophyllum_sepiarium_01_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-09.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zaunblättling *Gloeophyllum sepiarium*, eine ein- bis mehrjährige Art, die [saprobiontisch](saprobiontisch "Glossar") an Nadelholz wächst, überwiegend Fichte. Um den Pilz sicher zu bestimmen und gegenüber ähnlichen Arten am gleichen Substrat abzugrenzen, muss man am Hutrand auf einem Zentimeter Länge die Lamellen zählen. Sind es um die 20, ist es der Zaunblättling, sind es nur um die 10, ist es der Tannenblättling. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gloeophyllum-sepiarium-zaunblättling)
-
-div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bulbillomyces_farinosus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Körnchen-Rindenpilz *Bulbillomyces farinosus*. Man kann ihn vom Herbst bis ins Frühjahr an nass liegendem Laubholz finden, zum Beispiel an Teich- oder Bachufern. Auf den ersten Blick bietet er einen Anblick, als sei das Holz mit Grieß bestreut. Mit der Lupe betrachtet zeigt sich seine wahre Struktur: weißliche Kügelchen in unterschiedlicher Größe, je nach Entwicklungsstadium. Mitunter sehen sie aus, als würden sie in Wasser schwimmen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/bulbillomyces-farinosus-körnchen-rindenpilz)
 
 <div style="clear:  both"></div>
 
