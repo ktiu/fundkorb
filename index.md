@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/illosporiopsis_christiansenii_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.03.2023: Über unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Rosa Kissenpilz *Illosporiopsis christiansenii*, ist bisher noch wenig bekannt. Immerhin weiß oder vermutet man, dass es sich um eine Nebenfruchtform einer noch nicht identifizierten *Hypocreales*-Art handelt. Um den rosaroten Winzling zu finden, sollte man die mit Flechten bewachsene Rinde von Laubbäumen mit der Lupe absuchen. Meine Erfahrung: Mit etwas Geduld wird man früher oder später fündig werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/illosporiopsis-christiansenii-rosa-kissenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ciboria_amentacea_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 11.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Angebrannte Rauchporling *Bjerkandera adusta*. An seinem feinporigen aschgrauen [Hymenium](Hymenium "Glossar"), das auf Druck oder Reiben schwärzlich verfärbt, ist er leicht zu erkennen. Diesem Merkmal (*"wie angebrannt"*) verdankt er auch seinen Namen. Die filzige Oberseite ist hell- bis rußbraun gefärbt. Der Pilz wächst an totem Laubholz, vor allem Buche, und ist sehr häufig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/bjerkandera-adusta-angebrannter-rauchporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/daedaleopsis_confragosa_var._tricolor_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.03.2023 Aktueller [Fundkorbpilz](AA "Glossar-") ist die Dreifarbige Tramete *Daedaleopsis tricolor*. Sie unterscheidet auf den ersten Blick deutlich von der Rötenden Tramete *Daedaleopsis confragosa* durch ein lamelliges [Hymenophor](Hymenophor "Glossar"). Ein wirklich zuverlässiges Merkmal ist das aber leider nicht. Es können Übergangsformen vorkommen, die man keiner der beiden Arten sicher zuordnen kann. Selbst Mikroskopieren hilft da nicht weiter. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)
 
 <div style="clear:  both"></div>
 
