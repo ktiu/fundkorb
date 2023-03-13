@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-12.03.2023: [Ciboria amentacea - Erlenkätzchen-Becherling](/pilze/ciboria-amentacea-erlenkätzchen-becherling)  
+13.03.2023: [Illosporiopsis christiansenii - Rosa Kissenpilz](/pilze/illosporiopsis-christiansenii-rosa-kissenpilz)  
+12.03.2023: [Ciboria amentacea - Erlenkätzchen-Becherling](/pilze/ciboria-amentacea-erlenkätzchen-becherling)\
 11.03.2023: [Bjerkandera adusta - Angebrannter Rauchporling](/pilze/bjerkandera-adusta-angebrannter-rauchporling)\
 10.03.2023: [Daedaleopsis confragosa - Dreifarbige Tramete](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)\
 09.03.2023: [Gloeophyllum sepiarium - Zaunblättling](/pilze/gloeophyllum-sepiarium-zaunblättling)\
