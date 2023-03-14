@@ -21,7 +21,7 @@ Der Weiße Polsterpilz gehört zu den Saftporlingen, die früher in den Gattunge
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/postia_ptychogaster_03_fk.jpg" %}
-{% include abbildung_ende.html legende="Zu dem Weißenpolsterpilz haben sich auf dem Foto von Frank Kaster noch zwei Schleimpilze gesellt" %}
+{% include abbildung_ende.html legende="PZu dem Weißen Polsterpilz haben sich auf dem Foto von Frank Kaster noch zwei Schleimpilze gesellt" %}
 
 Aus einer makroskopisch übersichtlichen Gruppe mit einheitlich saftreichen Fruchtkörpern sind inzwischen mehrere Gattungen geworden, die keineswegs mehr nur aus Saftporlingen im herkömmlichen Sinne besteht. Der Weiße Polsterpilz  dürfte unter diesen die am leichtesten, praktisch auf den ersten Blick erkennbare Art sein. Manche Pilzfreunde nennen ihn auch Wuschelkopf - auch eine zutreffende Fruchtkörperbeschreibung. Sein ausschlaggebendes Kennzeichen ist die filzig zottige Oberflächenbekleidung der halbkugeligen oder kissenförmigen Fruchtkörper. Diese sind jung weiß bis gelblich oder rosa, später ocker- bis rotbraun. Das jung weiche und saftreiche Fleisch zeigt im Anschnitt eine konzentrisch gezonte Struktur, wird im Alter aber korkig zäh.
 
