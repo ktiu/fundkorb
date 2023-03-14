@@ -19,6 +19,13 @@ literatur:
   - text: "WESTPHAL, B. (1994): Boletus, Jahrg. 18, 1994, Heft 2, S. 61-63, Pithya
       cupressina, ein häufiger Becherling in Grünanlagen und Gärten von
       Mecklenburg"
+  - text: "KUMMER, V. (1998): Boletus, Jahrg. 22, 1998, Heft 2, S. 97-106,
+      Beobachtungen zu Pithya cupressina und Chloroscypha alutipes"
+  - text: BREITENBACH, J. & F. KRÄNZLIN (1984):Pilze der Schweiz. Band 1. A
+      scomyceten (Schlauchpilze). Luzern
+  - text: "URBASCH, I. (1995): Nachrichtenbl. Deut. Pflanzenschutzd., 47 (2), S.
+      51-53, 1995, ISSN 0027-7479, Schäden durch Pithya cupressina, dem Erreger
+      eines Cupressaceen-Zweigsterbens"
 ---
 Am 15. Januar 2023 fand ich in der näheren Umgebung vom Freizeitgelände Sophienland, Delkenheim, an einem nicht näher bestimmten Wacholder-Gebüsch (Juniperus sp.) mehrere orangene Becherchen an bereits abgestorbenen aber noch ansitzenden Trieben. Zuhause stellte sich der Fund dann als *Pithya cupressina* heraus, obwohl die Fruchtkörper keine reifen Sporen hergaben. Die Art ist aber anhand von Habitus, Farbe, Substrat und [Apotheciengröße](Apothecien "Glossar") eindeutig und gut bestimmbar.
 
