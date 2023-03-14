@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_cinerea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Aschgraue Zystidenrindenpilz *Peniophora cinerea*. Selbst wenn bei Pilzen Wachstumsflaute herrscht - an Totholz findet man immer was. Zystidenrindenpilze entwickeln sich unter der Rinde von abgestorbenen Ästen und sprengen diese auf, oft schon, solange diese noch am Baum hängen. Sie bilden flache Überzüge, die glatt oder warzig sein können. Den Aschgraue Zystidenrindenpilz findet man an Ästen verschiedener Laubbaumarten, vor allem an Buche, Hainbuche, Hasel und Weide. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/illosporiopsis_christiansenii_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 12.03.2023: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Erlenkätzchen-Becherling *Ciboria amentacea*, kann man schon im Frühjahr nach der Schneeschmelze suchen und finden. Ich nenne sie *"Schätzchen auf Kätzchen"*. Weil sie so hübsch sind und auf vorjährigen vermoderten Erlenkätzchen wachsen. Die Becherchen erreichen maximal 1 cm Durchmesser. Im Vergleich dazu sind die Stiele oft auffallend lang. Makroskopisch kaum zu unterscheiden ist der Haselkätzchen-Becherling *Ciboria coryli*, wobei zu bedenken ist, dass der hier gezeigte Erlenkätzchen-Becherling auch auf Haselkätzchen wächst. Um sicher zu gehen, ist also ein wenig Mikroskopieraufwand erforderlich. Die Sporen der beiden Arten unterscheiden sich deutlich in ihrer Größe.
 
 [Mehr lesen >](/pilze/ciboria-amentacea-erlenkätzchen-becherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bjerkandera_adusta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Angebrannte Rauchporling *Bjerkandera adusta*. An seinem feinporigen aschgrauen [Hymenium](Hymenium "Glossar"), das auf Druck oder Reiben schwärzlich verfärbt, ist er leicht zu erkennen. Diesem Merkmal (*"wie angebrannt"*) verdankt er auch seinen Namen. Die filzige Oberseite ist hell- bis rußbraun gefärbt. Der Pilz wächst an totem Laubholz, vor allem Buche, und ist sehr häufig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/bjerkandera-adusta-angebrannter-rauchporling)
 
 <div style="clear:  both"></div>
 
