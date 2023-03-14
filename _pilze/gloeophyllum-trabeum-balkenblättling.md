@@ -20,7 +20,7 @@ literatur:
 {% include bild.html datei="/bilder/gloeophyllum_trabeum_02_nk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Norbert Kühnberger" %}
 
-Der in Deutschland recht seltene Balkenblättling *Gloeophyllum trabeum* ist, sofern er ein rein poriges [Hymenium ](Hymenium "Glossar")hat, leicht von seinen beiden Doppelgängern zu unterscheiden, die eine lamellige Hutunterseite besitzen (siehe unten). Pilzfreunde schätzen es, wenn zur Abgrenzung eindeutige Merkmale vorhanden sind, das ist jedoch beim Balkenblättling nicht immer eindeutig der Fall. Sein Hymenium kann neben porigen und länglich porigen auch [daedaolid](daedaolid "Glossar") lamellige Zonen haben. Die vier in Mitteleuropa vorkommenden Gloeophyllum-Arten sind jedoch meist gut auseinanderzuhalten, wenn man systematisch wie folgt vorgeht:
+Der in Deutschland recht seltene Balkenblättling *Gloeophyllum trabeum* ist, sofern er ein rein poriges [Hymenium ](Hymenium "Glossar")hat, leicht von seinen beiden Doppelgängern zu unterscheiden, die eine lamellige Hutunterseite besitzen (siehe unten). Pilzfreunde schätzen es, wenn zur Abgrenzung eindeutige Merkmale vorhanden sind, das ist jedoch beim Balkenblättling nicht immer eindeutig der Fall. Sein Hymenium kann neben porigen und länglich porigen auch [daedaloid](daedaloid "Glossar") lamellige Zonen haben. Die vier in Mitteleuropa vorkommenden Gloeophyllum-Arten sind jedoch meist gut auseinanderzuhalten, wenn man systematisch wie folgt vorgeht:
 
 1 Klobige Fruchtkörper mit deutlichem Fenchel- oder Anisgeruch, Unterseite mit rundlichen oder eckigen Poren = [Fenchelporling *Gloeophyllum odoratum*](/pilze/gloeophyllum-odoratum-fenchelporling)\
 1+ Eher flachhütige Fruchtkörper ohne auffälligen Geruch -> 2\
