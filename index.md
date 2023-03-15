@@ -12,6 +12,12 @@ footer_scripts:
 
 - - -
 
+Sonntag, 2. April 2023: Unsere traditionelle Pilz- und naturkundliche Exkursion im NSG Kühkopf findet auch in diesem Jahr wieder statt. 
+
+[Hier geht's zur Info und Anmeldung >](/termine) 
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_leucomelaena_03_dg.jpg" %}
 {% include abbildung_ende.html %}
