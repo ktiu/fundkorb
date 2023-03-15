@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_leucomelaena_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.03.2023: Frühlingserwachen im Rhein-Main-Gebiet. An zwei bekannten Standorten in Heusenstamm und Dietzenbach sind die ersten Schwarzweißen Lorcheln *Helvella leucomelaena* erschienen und damit aktueller [Fundkorbpilz](AA "Glossar-"). Der [Ascomyzet](Ascomyzeten "Glossar") bildet gesellig wachsende gestielte Becher, die Durchmesser von etwa 3 Zentimeter erreichen. Wir finden sie vor allem an Waldwegrändern oder in Parkanlagen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/schizophyllum_commune_04_dg-1024x901.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 14.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Aschgraue Zystidenrindenpilz *Peniophora cinerea*. Selbst wenn bei Pilzen Wachstumsflaute herrscht - an Totholz findet man immer was. Zystidenrindenpilze entwickeln sich unter der Rinde von abgestorbenen Ästen und sprengen diese auf, oft schon, solange diese noch am Baum hängen. Sie bilden flache Überzüge, die glatt oder warzig sein können. Den Aschgraue Zystidenrindenpilz findet man an Ästen verschiedener Laubbaumarten, vor allem an Buche, Hainbuche, Hasel und Weide. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/illosporiopsis_christiansenii_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.03.2023: Über unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Rosa Kissenpilz *Illosporiopsis christiansenii*, ist bisher noch wenig bekannt. Immerhin weiß oder vermutet man, dass es sich um eine Nebenfruchtform einer noch nicht identifizierten *Hypocreales*-Art handelt. Um den rosaroten Winzling zu finden, sollte man die mit Flechten bewachsene Rinde von Laubbäumen mit der Lupe absuchen. Meine Erfahrung: Mit etwas Geduld wird man früher oder später fündig werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/illosporiopsis-christiansenii-rosa-kissenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ciboria_amentacea_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-12.03.2023: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Erlenkätzchen-Becherling *Ciboria amentacea*, kann man schon im Frühjahr nach der Schneeschmelze suchen und finden. Ich nenne sie *"Schätzchen auf Kätzchen"*. Weil sie so hübsch sind und auf vorjährigen vermoderten Erlenkätzchen wachsen. Die Becherchen erreichen maximal 1 cm Durchmesser. Im Vergleich dazu sind die Stiele oft auffallend lang. Makroskopisch kaum zu unterscheiden ist der Haselkätzchen-Becherling *Ciboria coryli*, wobei zu bedenken ist, dass der hier gezeigte Erlenkätzchen-Becherling auch auf Haselkätzchen wächst. Um sicher zu gehen, ist also ein wenig Mikroskopieraufwand erforderlich. Die Sporen der beiden Arten unterscheiden sich deutlich in ihrer Größe.
-
-[Mehr lesen >](/pilze/ciboria-amentacea-erlenkätzchen-becherling)
 
 <div style="clear:  both"></div>
 
