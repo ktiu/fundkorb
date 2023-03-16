@@ -21,3 +21,5 @@ Andere Namen: Münzenförmige Kohlenbeere, Pfennig-Kohlenkruste
 {% include bild.html datei="/bilder/biscogniauxia_nummularia_02_dg.jpg" %}
 {% include bild.html datei="/bilder/biscogniauxia_nummularia_03_dg.jpg" %}
 {% include abbildung_ende.html legende="Diese beiden Bilder zeigen das Konidienstadium des Rindenkugelpilzes" %}
+
+Eine weitere, allerdings seltenere Art der Gattung ist der [Gerandete Rindenkugelpilz *Biscogniauxia marginata*](/pilze/biscogniauxia-marginata-gerandeter-rindenkugelpilz).
