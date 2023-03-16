@@ -13,7 +13,7 @@ hauptbild:
   datei: /bilder/russula_pectinatoides_01_dg.jpg
   legende: 27.05.2018 Parkanlage Dietzenbach Rodgaustraße, unter Trauerbuche
 ---
-Der zu den Kammtäublingen (kammartig geriefte Hutränder) gehörige Kratzende Kammtäubling zeichnet sich durch einen ranzig-tranigen Geruch aus, der auch an Fisch erinnern kann. Im Gegensatz zu ähnlichen Arten, vor allem dem [Camembert-Täubling](/pilze/russula-amoenolens-camembert-täubling), schmeckt er nicht scharf, erzeugt aber im Nachgeschmack ein kratzendes Gefühl im Hals. In Parkanlagen und Gärten ist er nicht selten, Buche und Eiche sind seine bevorzugten Baumpartner.
+Der zu den Kammtäublingen (kammartig geriefte Hutränder) gehörige Kratzende Kammtäubling zeichnet sich durch einen ranzig-tranigen Geruch aus, der auch an Fisch erinnern kann. Im Gegensatz zu ähnlichen Arten, vor allem dem [Camembert-Täubling](/pilze/russula-amoenolens-camembert-täubling), schmeckt er nicht scharf, erzeugt aber im Nachgeschmack ein kratzendes Gefühl im Hals. Ein wichtiges optisches Kennzeichen sind häufig vorkommende kupferrote Flecken oder Fasern im unteren Stielbereich. In Parkanlagen und Gärten ist er nicht selten, Buche und Eiche sind seine bevorzugten Baumpartner.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_pectinatoides_04_dg.jpg" %}
