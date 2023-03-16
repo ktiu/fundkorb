@@ -12,6 +12,12 @@ hauptbild:
   anzeige: true
   datei: /bilder/russula_violeipes_01_dg-.jpg
 literatur:
+  - text: KÄRCHER, R. & D. SEIBT(1991) Beitrag zur Kenntnis der Täublinge, Russula
+      Studien Teil 1. - Beiträge z. Kenntnis der Pilze Mitteleuropas ( AMO ) IV
+  - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Band 2
+      S. 447 -448"
+  - text: "Michael / Hennig / Kreisel: Handbuch für Pilzfreunde V, Nr. 94"
+    url: ""
   - url: https://de.wikipedia.org/wiki/Violettstieliger_T%C3%A4ubling
 ---
 Die Schwierigkeit beim Erkennen der verschiedenen Täublingsarten ist ihre Farbvariabilität. Nur wenige zeigen zuverlässig konstante Farben. Beim Violettstieligen Täubling beginnt das Problem schon beim namensgebenden violetten Stiel. Manchmal hat er diese Farbe, manchmal erscheint sie nur als zarter Hauch oder auch satt aufgetragen, meistens aber sind die Stiele von oben bis unten rein weiß. Die Hutfarbe ist meistens gelb. Dabei handelt es sich um ein sehr eigenartiges Gelb, das mit Worten schwer zu beschreiben ist. Es ist ein leicht trüber Farbton, wie er bei anderen gelben Täublingen so nicht vorkommt. Markant ist dabei, dass die Hüte feinmehlig bereift erscheinen, was sie matt und glanzlos macht und beim Anfassen ein eigenartiges fettig-seifiges Gefühl vermittelt. Mit der Stereolupe sind auf der Huthaut winzige gekräuselte Härchen zu erkennen. Junge Fruchtkörper haben fast immer völlig gelbe Hüte. Beim Wachsen kann die Farbe dann in ein helles Oliv oder Gelbgrün umschlagen und sogar purpur-violett werden. Oft findet man mehrere Farbtöne nebeneinander. Die Huthaut ist etwa zur Hälfte abziehbar und relativ dick. Der Geruch ist schwach krebs- oder heringsartig.
