@@ -24,15 +24,9 @@ Die nachfolgenden Fotos zeigen die Farbvariabilität, wie man sie an Hüten und 
 {% include bild.html datei="/bilder/russula_violeipes_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Sofern die Hutfarbe rot bis violett ausfällt, kann der Violettstielige Brätlingstäubling mit der ebenfalls essbaren *Russula amoena* verwechselt werden. 
+Sofern die Hutfarbe rot bis violett ausfällt, kann der Violettstielige Brätlingstäubling mit der ebenfalls essbaren *[Russula amoena](/pilze/russula-amoena-samtiger-brätlingstäubling)* verwechselt werden.
 
 Der Name „Brätlingstäubling“ verrät schon etwas über seinen Speisewert. Er eigenet sich vorzüglich zum Braten und darf mit Fug und Recht als Premium-Art unter den Täublingen bezeichnet werden. Nützlicher Hinweis: alle nach Fisch (Hering) riechenden Täublinge sind essbar, schmecken nach der Zubereitung aber nicht fischartig.
-
-Man findet ihn vor allem von Ende Juni bis September bei Buchen. Im Rhein-Main-Gebiet scheint die früher recht seltene Art deutlich in Zunahme und Ausbreitung begriffen zu sein. Wir beobachten diese Entwicklung seit etwa 2010, während der letzten Jahre (2017 und 2018) haben wir sogar ausgesprochen üppige Vorkommen erlebt. Er scheint die Wärme zu mögen.
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/russula_violeipes_05_dg.jpeg" %}
-{% include abbildung_ende.html %}
 
 <div class="table-responsive">
   <table class="table taeubling">
@@ -55,6 +49,23 @@ Man findet ihn vor allem von Ende Juni bis September bei Buchen. Im Rhein-Main-G
     </tr>
   </table>
 </div>
+
+Man findet ihn vor allem von Ende Juni bis September bei Buchen. Im Rhein-Main-Gebiet scheint die früher recht seltene Art deutlich in Zunahme und Ausbreitung begriffen zu sein. Wir beobachten diese Entwicklung seit etwa 2010, während der letzten Jahre (2017 und 2018) haben wir sogar ausgesprochen üppige Vorkommen erlebt. Er scheint die Wärme zu mögen.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_violeipes_05_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+Neben dem Violettstieligen gibt es einen weiteren Brätlingstäubling, den ["Samtigen" Russula amoena](/pilze/russula-amoena-samtiger-brätlingstäubling). Beide Arten sind nachfolgend mit Aquarellen von *Reinhold Kärcher* gegenübergestellt. Sie zeigen deutliche Farbunterschiede, die Verwechslungen als undenkbar erscheinen lassen.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_violeipes_08_rk.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/russula_amoena_05_rk.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="links: Russula violeipes -- rechts: Russula amoena (2 Aquarelle von Reinhold Kärcher)" %}
+
+Das trifft jedoch nur zu, wenn der Violettstielige in seiner häufigsten gelben Farbvariante gefunden wird. Sobald sich die Hutfarbe beim Wachsen von gelb in ein helles Oliv oder Gelbgrün verwandelt und sogar purpur-violett wird, können sich beide Arten zum Verwechseln ähnlich sehen, worauf auch in der Literatur immer wieder hingewiesen wird. *Reinhold Kärcher* hat dazu angemerkt:
+
+> Beide Arten lassen sich recht gut makroskopisch und makrochemisch voneinander trennen. Bei *R. violeipes* verspürt man schon beim Anfassen des Pilzes zwischen den Fingern bei der Entnahme des Pilzes aus dem Boden ein eigenartiges fettiges (seifiges) Gefühl, das recht konstant auftritt. Das hat mich dazu veranlasst, *R. violeipes* als *„Seifigen Brätlingstäubling“* anzusprechen und nicht wie es häufig der Fall ist „Pfirsischfarbener- oder Violettstieliger Brätlingstäubling“ zu nennen. Diese Eigenschaft ist bei *R. amoena* nicht erkennbar. Zudem ... empfehle ich beide Arten durch ihre chemische Reaktion auf Phenol auseinander zu halten: *R. violeipes* reagiert auf 2%-ige Phenollösung auf der Stieloberfläche mehr oder minder lebhaft bräunlich, während diese Reaktion bei R. amoena lebhaft purpurkarminrot ausfällt. Damit sind gleichzeitig die mitunter farblich sehr ähnlichen *„Heringstäublinge“* ausgegrenzt, die auf dieses chemische Hilfsmittel nicht oder farblich anders reagieren."
 
 Noch eine Anmerkung zum Schluss: den Violettstieligen Brätlingstäubling gibt es auch in Thailand, wo er viel gesammelt und auch an Straßenständen zum Kauf angeboten wird. Bei den Thais ist er unter zwei Namen bekannt. 1. Het Horm = Duftpilz 2. Het Khai = Eierpilz. Das nachfolgende Foto hat mir die Schwester meiner Frau geschickt. Es wurde in der Provinz Kanchanaburi aufgenommen.
 
