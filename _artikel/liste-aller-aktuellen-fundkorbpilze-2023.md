@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-16.03.2023: [Helvella leucomelaena - Schwarzweiße Lorchel](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)  
+17.03.2023: [Biscogniauxia nummularia - Rotbuchen-Rindenkugelpilz](/pilze/biscogniauxia-nummularia-rotbuchen-rindenkugelpilz)  
+16.03.2023: [Helvella leucomelaena - Schwarzweiße Lorchel](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)\
 15.03.2023: [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)\
 14.03.2023: [Peniophora cinerea - Aschgrauer Zystidenrindenpilz](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)\
 13.03.2023: [Illosporiopsis christiansenii - Rosa Kissenpilz](/pilze/illosporiopsis-christiansenii-rosa-kissenpilz)\
