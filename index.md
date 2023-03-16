@@ -12,9 +12,19 @@ footer_scripts:
 
 - - -
 
-Sonntag, 2. April 2023: Unsere traditionelle Pilz- und naturkundliche Exkursion im NSG Kühkopf findet auch in diesem Jahr wieder statt. 
+**Sonntag, 2. April 2023:** Unsere traditionelle Pilz- und naturkundliche Exkursion im NSG Kühkopf findet auch in diesem Jahr wieder statt. 
 
 [Hier geht's zur Info und Anmeldung >](/termine) 
+
+- - -
+
+
+
+17.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotbuchen- Rindenkugelpilz *Biscogniauxia nummularia*. Seine schwarzen [Perithezien](Perithezien "Glossar") erscheinen als unregelmäßige krustenartige Flecken auf der Rinde von Ästen und Stämmen von Rotbuchen. Sie könnten mit einigen Eckenscheibchen der Gattung Diatrype verwechselt werden, die sich aber unter der Rinde entwickeln und diese aufplatzen lassen. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -42,18 +52,6 @@ Sonntag, 2. April 2023: Unsere traditionelle Pilz- und naturkundliche Exkursion 
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_cinerea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Aschgraue Zystidenrindenpilz *Peniophora cinerea*. Selbst wenn bei Pilzen Wachstumsflaute herrscht - an Totholz findet man immer was. Zystidenrindenpilze entwickeln sich unter der Rinde von abgestorbenen Ästen und sprengen diese auf, oft schon, solange diese noch am Baum hängen. Sie bilden flache Überzüge, die glatt oder warzig sein können. Den Aschgraue Zystidenrindenpilz findet man an Ästen verschiedener Laubbaumarten, vor allem an Buche, Hainbuche, Hasel und Weide. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
 
 [Liste aller aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
@@ -64,7 +62,7 @@ Sonntag, 2. April 2023: Unsere traditionelle Pilz- und naturkundliche Exkursion 
 {% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Dieses bezaubernde kleine Kunstwerk hat Pilzfreunde im Raum Frankfurt/Offenbach als *"Ballerina"-Pilze* begeistert. Die Künstlerin wollte unbedingt inkognito bleiben, aber es ist zumindest anerkennend festzuhalten: da muss man erst mal drauf kommen, beim Anblick von Zunderschwämmen an Tänzerinnen zu denken und die Fruchtkörper als Röcke in die Darstellung einzubeziehen. Bei einer unseren Exkursionen hat ein Junge einen Blick unter die Röcke der Ballerinas riskiert und dabei die Erkenntnis gewonnen, dass Zunderschwämme Porlinge sind.
+Dieses bezaubernde kleine Kunstwerk hat Pilzfreunde im Raum Frankfurt/Offenbach als *"Ballerina"-Pilze* begeistert. Die Künstlerin wollte unbedingt inkognito bleiben, aber es ist zumindest anerkennend festzuhalten: da muss man erst mal drauf kommen, beim Anblick von Zunderschwämmen an Tänzerinnen zu denken und die Fruchtkörper als Röcke in die Darstellung einzubeziehen. Bei einer unseren Exkursionen hat ein Junge einen indiskreten Blick unter die Röcke der Ballerinas riskiert und dabei die Erkenntnis gewonnen, dass Zunderschwämme Porlinge sind.
 
 [Mehr lesen >](/termine)
 
