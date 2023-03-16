@@ -26,3 +26,5 @@ Die Art gilt als selten. In *Manfred Enderle*: Die Pilzflora des Ulmer Raumes is
 {% include bild.html datei="/bilder/biscogniauxia_marginata_02_dg.jpg" %}
 {% include bild.html datei="/bilder/biscogniauxia_marginata_03_dg.jpg" %}
 {% include abbildung_ende.html legende="Wie Pockennarben erscheinen die durch die Rinde brechenden Perithezien" %}
+
+Eine andere, weitaus häufigere Art der Gattung ist der [Rotbuchen-Rindenkugelpilz *Biscogniauxia nummularia*](/pilze/biscogniauxia-nummularia-rotbuchen-rindenkugelpilz).
