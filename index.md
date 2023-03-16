@@ -18,11 +18,13 @@ footer_scripts:
 
 - - -
 
-
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/biscogniauxia_nummularia_01_dg.jpg" %}
+{% include abbildung_ende.html %}
 
 17.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotbuchen- Rindenkugelpilz *Biscogniauxia nummularia*. Seine schwarzen [Perithezien](Perithezien "Glossar") erscheinen als unregelmäßige krustenartige Flecken auf der Rinde von Ästen und Stämmen von Rotbuchen. Sie könnten mit einigen Eckenscheibchen der Gattung Diatrype verwechselt werden, die sich aber unter der Rinde entwickeln und diese aufplatzen lassen. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/biscogniauxia-nummularia-rotbuchen-rindenkugelpilz)
 
 <div style="clear:  both"></div>
 
