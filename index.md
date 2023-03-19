@@ -66,7 +66,7 @@ footer_scripts:
 
 Dieses bezaubernde kleine Kunstwerk hat Pilzfreunde im Raum Frankfurt/Offenbach als *"Ballerina"-Pilze* begeistert. Die Künstlerin wollte unbedingt inkognito bleiben, aber es ist zumindest anerkennend festzuhalten: da muss man erst mal drauf kommen, beim Anblick von Zunderschwämmen an Tänzerinnen zu denken und die Fruchtkörper als Röcke in die Darstellung einzubeziehen. Bei einer unseren Exkursionen hat ein Junge einen indiskreten Blick unter die Röcke der Ballerinas riskiert und dabei die Erkenntnis gewonnen, dass Zunderschwämme Porlinge sind.
 
-[Mehr lesen >](/termine)
+[Mehr lesen >](/artikel/besuch-bei-den-ballerina-pilzen.html)
 
 - - -
 
