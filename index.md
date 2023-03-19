@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/seifertia_azaleae_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.03.2023: Direkt vor unserer Haustür ist unser aktueller [Fundkorbpilz](AA "Glossar-") schon seit vielen Wochen und in großer Zahl gegenwärtig. Er heißt *Seifertia azaleae*; ein deutscher Name ist nicht bekannt. Um ihn zu betrachten braucht man sich nicht einmal zu bücken, eine Lupe wäre aber nicht verkehrt. In Augenhöhe hat der Pilz etliche Blütenknospen der Rhododendronbüsche befallen, die hier stehen. Die Folge: aus den befallenen Knospen werden sich keine Blüten mehr entwickeln. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/seifertia-azaleae)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/brunnipila_fuscescens_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ footer_scripts:
 18.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Weiße Haarbecherchen *Lachnum virgineum*. Weil es aber eine Menge solcher winziger weißer becherförmiger Pilze gibt, ist eine Bestimmung auf den ersten Blick kaum möglich. Das Substrat spielt eine Rolle. In unserem Fall ist es eine Bucheckernschale. Wirklich Klarheit ist aber nur durch eine mikroskopische Prüfung zu gewinnen. Ohne solchen Aufwand zu betreiben, kann man sich immerhin an der Schönheit solcher Pilzvorkommen erfreuen, wozu allerdings eine gut vergrößernde Lupe erforderlich ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lachnum-virgineum-weißes-haarbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/biscogniauxia_nummularia_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotbuchen- Rindenkugelpilz *Biscogniauxia nummularia*. Seine schwarzen [Perithezien](Perithezien "Glossar") erscheinen als unregelmäßige krustenartige Flecken auf der Rinde von Ästen und Stämmen von Rotbuchen. Sie könnten mit einigen Eckenscheibchen der Gattung Diatrype verwechselt werden, die sich aber unter der Rinde entwickeln und diese aufplatzen lassen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/biscogniauxia-nummularia-rotbuchen-rindenkugelpilz)
 
 <div style="clear:  both"></div>
 
