@@ -9,8 +9,11 @@ Natürlich waren bei unserer Exkursion am 5. Februar 2023 in einem Wald bei Diet
 Aufmerksamkeit erregten auch die Orangeseitlinge gleich zu Beginn unserer Wanderung. Die nachfolgende Auflistung erhebt keinen Anspruch auf Vollständigkeit. Sie enthält nur eine bescheidene Auswahl an Funden, darunter einige auffällige und triviale Arten an Holz, die zu jeder Jahreszeit und in jedem Wald zu erwarten sind. Es sind aber auch weniger geläufige darunter sowie winzig kleine, deren Attraktivität sich erst mit einem Blick durch die Lupe erschließt:
 
 [Bjerkandera adusta = Angebrannter Rauchporling](/pilze/bjerkandera-adusta-angebrannter-rauchporling)\
+[Brunnipila fuscescens - Bräunliches Buchenblatt-Haarbecherchen](/pilze/brunnipila-fuscescens-bräunliches-buchenblatt-haarbecherchen)\
 [Clavulina rugosa = Runzelige Koralle](/pilze/clavulina-rugosa-runzelige-koralle)\
-[Fomes fomentarius = Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)\
+[Dasyscyphella nivea - Schneeweißes Haarbecherchen](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)\
+[Fomes fomentarius = Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)  
+[Galerina subclavata = Zweisporiger Winterhäubling](/pilze/galerina-subclavata-zweisporiger-winterhäubling)  
 [Lycogala epidendrum = Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 [Phleogena faginea = Buchen-Hütchenträger](/pilze/phleogena-faginea-buchen-hütchenträger)\
 [Phyllotopsis nidulans = Orangeseitling](/pilze/phyllotopsis-nidulans-orangeseitling)\
@@ -19,7 +22,4 @@ Aufmerksamkeit erregten auch die Orangeseitlinge gleich zu Beginn unserer Wander
 [Stereum hisutum = Striegeliger Schichtpilz](/pilze/stereum-hirsutum-striegeliger-schichtpilz)\
 [Trametes versicolor = Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)\
 [Tubaria furfuracea = Gemeiner Trompetenschnitzling](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
-
- 
-[Dasyscyphella nivea - Schneeweißes Haarbecherchen](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)
 
