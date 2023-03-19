@@ -26,3 +26,5 @@ Aufmerksamkeit erregten auch die Orangeseitlinge gleich zu Beginn unserer Wander
 [Stereum hisutum = Striegeliger Schichtpilz](/pilze/stereum-hirsutum-striegeliger-schichtpilz)\
 [Trametes versicolor = Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)\
 [Tubaria furfuracea = Gemeiner Trompetenschnitzling](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
+
+(Pilzname anklicken –> Ausführliches Pilzartporträt)
