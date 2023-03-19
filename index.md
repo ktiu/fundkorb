@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/brunnipila_fuscescens_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.03.2023: Kommen wir noch einmal auf den gestrigen aktuellen [Fundkorbpilz](AA "Glossar-") zurück. Ich brauchte meine Lupe gar nicht aus der Hand zu geben, um wenige Zentimeter neben der Bucheckernschale mit den Weißen Haarbecherchen auf einem feucht liegenden Buchenblatt einige mir gut bekannte noch winzigere [Ascomyzeten](Ascomyzeten "Glossar") zu finden. Ich konnte sie auf Anhieb als Bräunliche Buchenblatt-Becherchen *Brunnipila fuscescens* identifizieren. Über seine Häufigkeit hat *Ingo Wagner (ASCO Sonneberg)* einmal angemerkt: "In manchen Jahren ist es eine Kunst, ein Buchenblatt zu finden, das die Art nicht besiedelt." (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/brunnipila-fuscescens-bräunliches-buchenblatt-haarbecherchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lachnum_virgineum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,30 +49,6 @@ footer_scripts:
 17.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotbuchen- Rindenkugelpilz *Biscogniauxia nummularia*. Seine schwarzen [Perithezien](Perithezien "Glossar") erscheinen als unregelmäßige krustenartige Flecken auf der Rinde von Ästen und Stämmen von Rotbuchen. Sie könnten mit einigen Eckenscheibchen der Gattung Diatrype verwechselt werden, die sich aber unter der Rinde entwickeln und diese aufplatzen lassen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/biscogniauxia-nummularia-rotbuchen-rindenkugelpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_leucomelaena_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.03.2023: Frühlingserwachen im Rhein-Main-Gebiet. An zwei bekannten Standorten in Heusenstamm und Dietzenbach sind die ersten Schwarzweißen Lorcheln *Helvella leucomelaena* erschienen und damit aktueller [Fundkorbpilz](AA "Glossar-"). Der [Ascomyzet](Ascomyzeten "Glossar") bildet gesellig wachsende gestielte Becher, die Durchmesser von etwa 3 Zentimeter erreichen. Wir finden sie vor allem an Waldwegrändern oder in Parkanlagen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/schizophyllum_commune_04_dg-1024x901.jpg" %}
-{% include abbildung_ende.html %}
-
-15.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Spaltblättling *Schizophyllum commune*, ein überaus häufiger kosmopolitischer Pilz, der in unseren Breiten vor allem totes Buchenholz besiedelt. Er wächst sogar bei anhaltender Trockenheit und selbst sonnenexponierte Standorte werden toleriert. So ist er oft an in freiem Gelände lagernden, noch berindeten Buchenstämmen zu finden. Seine weißfilzige Oberseite ist recht unscheinbar. Um seine erstaunliche Schönheit zu bewundern, muss man seine Unterseite betrachten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/schizophyllum-commune-spaltblättling)
 
 <div style="clear:  both"></div>
 
