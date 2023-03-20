@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/morchella_conica_09_uvs.jpg" %}
+{% include abbildung_ende.html %}
+
+21.03.2023: Fundmeldungen der Spitzmorchel *Morchella conica* kommen gerade von allen Seiten und damit haben wir einen sehr aktuellen neuen [Fundkorbpilz](AA "Glossar-"). Das Erfreuliche dabei: es ist endlich mal wieder ein richtiger Pilz und dazu noch ein leckerer. Wie kaum anders zu erwarten, bezogen sich sämtliche Fundmeldungen auf Vorkommen auf Kiefernrindenmulch. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/morchella-conica-spitzmorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/seifertia_azaleae_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ footer_scripts:
 19.03.2023: Kommen wir noch einmal auf den gestrigen aktuellen [Fundkorbpilz](AA "Glossar-") zurück. Ich brauchte meine Lupe gar nicht aus der Hand zu geben, um wenige Zentimeter neben der Bucheckernschale mit den Weißen Haarbecherchen auf einem feucht liegenden Buchenblatt einige mir gut bekannte noch winzigere [Ascomyzeten](Ascomyzeten "Glossar") zu finden. Ich konnte sie auf Anhieb als Bräunliche Buchenblatt-Becherchen *Brunnipila fuscescens* identifizieren. Über seine Häufigkeit hat *Ingo Wagner (ASCO Sonneberg)* einmal angemerkt: "In manchen Jahren ist es eine Kunst, ein Buchenblatt zu finden, das die Art nicht besiedelt." (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/brunnipila-fuscescens-bräunliches-buchenblatt-haarbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lachnum_virgineum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Weiße Haarbecherchen *Lachnum virgineum*. Weil es aber eine Menge solcher winziger weißer becherförmiger Pilze gibt, ist eine Bestimmung auf den ersten Blick kaum möglich. Das Substrat spielt eine Rolle. In unserem Fall ist es eine Bucheckernschale. Wirklich Klarheit ist aber nur durch eine mikroskopische Prüfung zu gewinnen. Ohne solchen Aufwand zu betreiben, kann man sich immerhin an der Schönheit solcher Pilzvorkommen erfreuen, wozu allerdings eine gut vergrößernde Lupe erforderlich ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lachnum-virgineum-weißes-haarbecherchen)
 
 <div style="clear:  both"></div>
 
