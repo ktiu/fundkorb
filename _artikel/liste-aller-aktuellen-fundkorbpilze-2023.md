@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-20.03.2023: [Seifertia azaleae - deutscher Name nicht bekannt](/pilze/seifertia-azaleae)  
+21.03.2023: [Morchella conica - Spitzmorchel](/pilze/morchella-conica-spitzmorchel)  
+20.03.2023: [Seifertia azaleae - deutscher Name nicht bekannt](/pilze/seifertia-azaleae)\
 19.03.2023: [Brunnipila fuscescens - Bräunliches Buchenblatt-Haarbecherchen](/pilze/brunnipila-fuscescens-bräunliches-buchenblatt-haarbecherchen)\
 18.03.2023: [Lachnum virgineum - Weißes Haarbecherchen](/pilze/lachnum-virgineum-weißes-haarbecherchen)\
 17.03.2023: [Biscogniauxia nummularia - Rotbuchen-Rindenkugelpilz](/pilze/biscogniauxia-nummularia-rotbuchen-rindenkugelpilz)\
