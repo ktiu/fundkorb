@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/disciotis_venosa_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.03.2023: ... und gleich noch einer, der für die Küche taugt. Diesmal ist der Morchelbecherling *Diciotis venosa* aktueller [Fundkorbpilz](AA "Glossar-"). In unserer Dietzenbacher Parkanlage entdeckten wir gleich mehrere, leider unerreichbar auf eingezäuntem Gelände. Nur einer war nahe genug, um ihn mit einem Stock heranzuholen und seinen charakteristischen Chlorgeruch zu erschnüffeln. Der vergeht bei der späteren Zubereitung. Viele schätzen seine Qualität als mit echten Morcheln vergleichbar ein, was ich aus eigener Küchenerfahrung bestätigen kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/disciotis-venosa-morchelbecherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/morchella_conica_09_uvs.jpg" %}
 {% include abbildung_ende.html %}
 
