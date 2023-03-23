@@ -64,7 +64,7 @@ Das Fleisch ist weiß, im Geschmack bitter mit schärflichem Nachgeschmack. Mit 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_pseudointegra_04_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/russula_pseudointegra_05_bm.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="-- Primordialhyphen der Huthaut in Karbolfuchsin (2 Mikrofotos: Bernd Miggel)" %}
+{% include abbildung_ende.html legende="Sporen -- Primordialhyphen der Huthaut in Karbolfuchsin (2 Mikrofotos: Bernd Miggel)" %}
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_pseudointegra_06_ar.jpg" nocrop=true gross=true %}
