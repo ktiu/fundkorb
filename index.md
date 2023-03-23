@@ -19,6 +19,19 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gyromitra_esculenta_03_ii.jpg" %}
+{% include abbildung_ende.html %}
+
+23.03.2023: Aktuellster [Fundkorbpilz](AA "Glossar-") ist ein delikater Giftpilz, die Frühjahrslorchel *Gyromitra esculenta*. Der Pilz wird in der populären Pilzliteratur völlig zu Recht mit einem Totenkopfsymbol versehen, obwohl der wissenschaftliche Artname *"esculenta"* essbar bedeutet und er in manchen Ländern noch immer Marktpilz ist. Der Fundkorb informiert genauestens über diesen offensichtlichen und lebensgefährlichen Widerspruch. (Dieter Gewalt)
+
+[Mehr lesen > (1.)](/pilze/gyromitra-esculenta-frühjahrslorchel)\
+[Mehr lesen > (2.)](/artikel/ein-delikater-giftpilz.html)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/disciotis_venosa_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,30 +50,6 @@ footer_scripts:
 21.03.2023: Fundmeldungen der Spitzmorchel *Morchella conica* kommen gerade von allen Seiten und damit haben wir einen sehr aktuellen neuen [Fundkorbpilz](AA "Glossar-"). Das Erfreuliche dabei: es ist endlich mal wieder ein richtiger Pilz und dazu noch ein leckerer. Wie kaum anders zu erwarten, bezogen sich sämtliche Fundmeldungen auf Vorkommen auf Kiefernrindenmulch. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/morchella-conica-spitzmorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/seifertia_azaleae_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.03.2023: Direkt vor unserer Haustür ist unser aktueller [Fundkorbpilz](AA "Glossar-") schon seit vielen Wochen und in großer Zahl gegenwärtig. Er heißt *Seifertia azaleae*; ein deutscher Name ist nicht bekannt. Um ihn zu betrachten braucht man sich nicht einmal zu bücken, eine Lupe wäre aber nicht verkehrt. In Augenhöhe hat der Pilz etliche Blütenknospen der Rhododendronbüsche befallen, die hier stehen. Die Folge: aus den befallenen Knospen werden sich keine Blüten mehr entwickeln. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/seifertia-azaleae)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/brunnipila_fuscescens_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.03.2023: Kommen wir noch einmal auf den gestrigen aktuellen [Fundkorbpilz](AA "Glossar-") zurück. Ich brauchte meine Lupe gar nicht aus der Hand zu geben, um wenige Zentimeter neben der Bucheckernschale mit den Weißen Haarbecherchen auf einem feucht liegenden Buchenblatt einige mir gut bekannte noch winzigere [Ascomyzeten](Ascomyzeten "Glossar") zu finden. Ich konnte sie auf Anhieb als Bräunliche Buchenblatt-Becherchen *Brunnipila fuscescens* identifizieren. Über seine Häufigkeit hat *Ingo Wagner (ASCO Sonneberg)* einmal angemerkt: "In manchen Jahren ist es eine Kunst, ein Buchenblatt zu finden, das die Art nicht besiedelt." (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/brunnipila-fuscescens-bräunliches-buchenblatt-haarbecherchen)
 
 <div style="clear:  both"></div>
 
