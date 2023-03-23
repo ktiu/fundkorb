@@ -61,12 +61,12 @@ Das Fleisch ist weiß, im Geschmack bitter mit schärflichem Nachgeschmack. Mit 
   </table>
 </div>
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_pseudointegra_04_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/russula_pseudointegra_05_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="-- Primordialhyphen der Huthaut in Karbolfuchsin (2 Mikrofotos: Bernd Miggel)" %}
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_pseudointegra_06_ar.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/russula_pseudointegra_07_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Huthaut: Haare in Kongorot -- Pleurozystiden in Kresylblau (2 Mikrofotos: Bernd Miggel)" %}
