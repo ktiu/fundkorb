@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_brumalis_03_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+25.03.2023: Aktueller Fundkorbpilz ist der Winterporling *Polyporus brumalis*, eine häufige Art, die saprobiontisch an Ästen, Zweigen oder Stubben von Laubhölzern wächst. Ab März/April, wenn auch der *[Maiporling](/pilze/polyporus-ciliatus-maiporling)* erscheint, könnte man ihn mit diesem verwechseln. Genaues Hinschauen hilft, dies zu vermeiden. Der Winterporling hat deutlich größere Poren als der Maiporling, dessen Poren so winzig sind, dass sie mit bloßem Auge kaum zu erkennen sind. Beide sind sehr zäh und kommen daher als Speisepilze nicht in Frage. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bulgaria_inquinans_01_mi.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,30 +50,6 @@ footer_scripts:
 
 [Mehr lesen > (1.)](/pilze/gyromitra-esculenta-frühjahrslorchel)\
 [Mehr lesen > (2.)](/artikel/ein-delikater-giftpilz.html)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/disciotis_venosa_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.03.2023: ... und gleich noch einer, der für die Küche taugt. Diesmal ist der Morchelbecherling *Diciotis venosa* aktueller [Fundkorbpilz](AA "Glossar-"). In unserer Dietzenbacher Parkanlage entdeckten wir gleich mehrere, leider unerreichbar auf eingezäuntem Gelände. Nur einer war nahe genug, um ihn mit einem Stock heranzuholen und seinen charakteristischen Chlorgeruch zu erschnüffeln. Der vergeht bei der späteren Zubereitung. Viele schätzen seine Qualität als mit echten Morcheln vergleichbar ein, was ich aus eigener Küchenerfahrung bestätigen kann. In Hessen wird er übrigens auch Flatschmorchel genannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/disciotis-venosa-morchelbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/morchella_conica_09_uvs.jpg" %}
-{% include abbildung_ende.html %}
-
-21.03.2023: Fundmeldungen der Spitzmorchel *Morchella conica* kommen gerade von allen Seiten und damit haben wir einen sehr aktuellen neuen [Fundkorbpilz](AA "Glossar-"). Das Erfreuliche dabei: es ist endlich mal wieder ein richtiger Pilz und dazu noch ein leckerer. Wie kaum anders zu erwarten, bezogen sich sämtliche Fundmeldungen auf Vorkommen auf Kiefernrindenmulch. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/morchella-conica-spitzmorchel)
 
 <div style="clear:  both"></div>
 
