@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-24.03.2023: [Bulgaria inquinans - Schmutzbecherling](/pilze/bulgaria-inquinans-schmutzbecherling)  
+25.03.2023: [Polyporus brumalis - Winterporling](/pilze/polyporus-brumalis-winterporling)  
+24.03.2023: [Bulgaria inquinans - Schmutzbecherling](/pilze/bulgaria-inquinans-schmutzbecherling)\
 23.03.2023: [Gyromitra esculenta - Frühjahrslorchel](/pilze/gyromitra-esculenta-frühjahrslorchel)\
 22.03.2023: [Disciotis venosa - Morchelbecherling](/pilze/disciotis-venosa-morchelbecherling)\
 21.03.2023: [Morchella conica - Spitzmorchel](/pilze/morchella-conica-spitzmorchel)\
