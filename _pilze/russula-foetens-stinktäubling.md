@@ -50,7 +50,7 @@ Der Stinktäubling gehört mit Hutdurchmessern von bis zu 15 cm zu den großen T
   </table>
 </div>
 
-Der Stinktäubling stellt keine besonderen Ansprüche an den Boden, was zu seiner weiten Verbreitung und Häufigkit beiträgt. In Süddeutschland ist er allerdings häufiger als in den nördlichen Landesteilen. Seine Haupterscheinungszeit sind die Sommer- und Frühherbstmonate.
+Der Stinktäubling stellt keine besonderen Ansprüche an den Boden, was zu seiner weiten Verbreitung und Häufigkeit beiträgt. In Süddeutschland ist er allerdings häufiger als in den nördlichen Landesteilen. Seine Haupterscheinungszeit sind die Sommer- und Frühherbstmonate.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_foetens_04_bm.jpg" %}
@@ -58,7 +58,7 @@ Der Stinktäubling stellt keine besonderen Ansprüche an den Boden, was zu seine
 
 **Mikromerkmale:**\
 **Sporen**: rundlich, isoliert grobwarzig, 8 - 10 x 7 - 8 µm, Ornamente in Melzers Reagenz stark schwärzend\
-**Huthaut**: Haare dünn, geschlängelt, ab und zu verzweigt, 2 - 3 µm dick; Dermatozystiden ohne oder mit nur einer Septe, in Sulfobenzaldehydrid deutlich schärzend, 3 - 6 mm dick; Latifizeren zahlreich, lang geschlängelt, in Sulvovanillin deutlich schwärzend, 3 - 7 µm dick
+**Huthaut**: *Haare* dünn, geschlängelt, ab und zu verzweigt, 2 - 3 µm dick; *Dermatozystiden* ohne oder mit nur einer Septe, in Sulfobenzaldehydrid deutlich schärzend, 3 - 6 mm dick; *Latifizeren* zahlreich, lang geschlängelt, in Sulvovanillin deutlich schwärzend, 3 - 7 µm dick
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_foetens_08_bm.jpg" nocrop=true gross=true %}
@@ -74,9 +74,9 @@ Der Stinktäubling stellt keine besonderen Ansprüche an den Boden, was zu seine
 {% include bild.html datei="/bilder/russula_foetens_09_mhk.jpg" %}
 {% include abbildung_ende.html legende="Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V" %}
 
-Andere Stinktäublinge (*Foetentinae*) sind:  
-[*Russula  farinipes* = Mehlstieltäubling](/pilze/russula-farinipes-mehlstieltäubling) (der nicht so recht in diese Gruppe passt sondern isoliert in der Untersektion *Farinipedes* geführt wird)  
-[*Russula  illota* = Morsetäubling](/pilze/russula-illota-morsetäubling)  
-*Russula  subfoetens* = Gilbender Stinktäubling  
-*Russula  fragrantissima* = Anistäubling  
+Andere Stinktäublinge (*Foetentinae*) sind:\
+[*Russula  farinipes* = Mehlstieltäubling](/pilze/russula-farinipes-mehlstieltäubling) (der nicht so recht in diese Gruppe passt sondern isoliert in der Untersektion *Farinipedes* geführt wird)\
+[*Russula  illota* = Morsetäubling](/pilze/russula-illota-morsetäubling)\
+*Russula  subfoetens* = Gilbender Stinktäubling\
+*Russula  fragrantissima* = Anistäubling\
 [*Russula  grata* = Mandeltäubling](/pilze/russula-grata-mandeltäubling)
