@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bulgaria_inquinans_01_mi.jpg" %}
+{% include abbildung_ende.html %}
+
+24.03.2023: Wenn man so etwas an einem am Boden liegenden berindeten Eichenstamm sieht und beim Anfassen schmutzige Finger bekommt, ist der Fall so gut wie geklärt. Das kann kaum etwas anderes sein als unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schmutzbecherling *Bulgaria inquinans*. Die teller- oder kreiselförmigen Fruchtkörper werden etwa 3 cm groß und können zu Hunderten auf einem einzigen Stamm vorkommen. Ihre übliche Vegetationsperiode geht jetzt allmählich zu Ende. Mit dem schwarzen Schmutz kann man übrigens Wolle färben. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/bulgaria-inquinans-schmutzbecherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gyromitra_esculenta_03_ii.jpg" %}
 {% include abbildung_ende.html %}
 
