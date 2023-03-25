@@ -19,10 +19,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/dacrymyces_stillatus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.03.2023: Wenn es feucht ist in den Wäldern, wird man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Zerfließende Gallertträne *Dacrymyces stillatus*, nicht vergeblich suchen. Die bis zu 10 mm großen knopfförmigen Fruchtkörper erscheinen ganzjährig auf totem Nadel- und Laubholz, auf Stämmen, Ästen, Zweigen oder an Stümpfen. Beim Aufquellen fließen sie zusammen und bilden gern gelatinöse Massenvorkommen von gelblicher Farbe. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/dacrymyces-stillatus-zerfließende-gallertträne)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_brumalis_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
-25.03.2023: Aktueller Fundkorbpilz ist der Winterporling *Polyporus brumalis*, eine häufige Art, die saprobiontisch an Ästen, Zweigen oder Stubben von Laubhölzern wächst. Ab März/April, wenn auch der *[Maiporling](/pilze/polyporus-ciliatus-maiporling)* erscheint, könnte man ihn mit diesem verwechseln. Genaues Hinschauen hilft, dies zu vermeiden. Der Winterporling hat deutlich größere Poren als der Maiporling, dessen Poren so winzig sind, dass sie mit bloßem Auge kaum zu erkennen sind. Beide sind sehr zäh und kommen daher als Speisepilze nicht in Frage. (Dieter Gewalt)
+25.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Winterporling *Polyporus brumalis*, eine häufige Art, die saprobiontisch an Ästen, Zweigen oder Stubben von Laubhölzern wächst. Ab März/April, wenn auch der *[Maiporling](/pilze/polyporus-ciliatus-maiporling)* erscheint, könnte man ihn mit diesem verwechseln. Genaues Hinschauen hilft, dies zu vermeiden. Der Winterporling hat deutlich größere Poren als der Maiporling, dessen Poren so winzig sind, dass sie mit bloßem Auge kaum zu erkennen sind. Beide sind sehr zäh und kommen daher als Speisepilze nicht in Frage. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
 
