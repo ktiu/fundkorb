@@ -19,4 +19,4 @@ literatur:
 ---
 Durch gezielte Suche auf Anhieb gefunden - die Fichtennadel-Spaltlippe fehlt in keinem Fichtenwald oder -forst. Die Suche könnte sich als schwierig erweisen, denn mit bloßem Auge sind die winzigen *[Hysterothezien](Hysterothezien "Glossar")* nicht gerade auffällig. Sie werden bis zu 1,3 mm lang und 0,6 mm breit, entwickeln sich als im Substrat eingewachsene, längliche Flecken, die sich in Längsrichtung öffnen und ein lippenähnliches Aussehen bekommen. Zwischen diesen sind dunkle Querlinien zu erkennen, die stark ausblassen können (im Foto auf der oberen Nadel).
 
-Lophodermium piceae verursacht die Fichennadelröte, die zum Gilben und Absterben der Nadeln führt und zur Ordnung der Rhytismatales (Flicklumpenartige) gehört.
+*Lophodermium piceae* verursacht die Fichennadelröte, die zum Gilben und Absterben der Nadeln führt und zur Ordnung der [*Rhytismatales* (Flicklumpenartige)](/verwandt/flicklumpenartige-rhytismatales) gehört.
