@@ -2,7 +2,7 @@
 aktivitaet: Pilz- und naturkundliche Exkursion im NSG Kühkopf
 zeit: 2023-04-02T10:30:52.226Z
 bis: ""
-anmeldung_offen: true
+anmeldung_offen: false
 anmeldung_noetig: false
 published: true
 bilder:
