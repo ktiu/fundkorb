@@ -21,7 +21,9 @@ literatur:
 ---
 Dies ist ein Täubling, den jeder Pilzfreund kennen sollte und ziemlich problemlos kennenlernen kann, denn er hat nicht nur markante Merkmale sondern ist auch in ganz Deutschland verbreitet und fast überall häufig. Zumindest da, wo es Buchen, Eichen oder Fichten gibt. Sein Geruch wird verschieden interpretiert als tranig, ölig, ranzig, nach vergammeltem Fisch oder verbranntem Horn, aber auch als undefinierbar widerwärtig. Immerhin gibt es in dieser Beziehung einen kleinsten gemeinsamen Nenner und der lautet: <ins>er stinkt, und zwar ekelhaft!</ins>  
 
-Der Stinktäubling gehört mit Hutdurchmessern von bis zu 15 cm zu den großen Täublingsarten. Die Hutfarbe ist mit semmelartig gut beschrieben. Junge Hüte sind glattrandig, zeigen aber bald eine deutliche zum Teil höckerige Riefung. Bei feuchtem Wetter ist die Huthaut aufgequollen und sehr schleimig. Sie lässt sich etwa zur Hälfte abziehen. Die Stiele sind von blasser Farbe, jung festfleischig, dann gekammert hohl und bräunend.
+Der Stinktäubling gehört mit Hutdurchmessern von bis zu 15 cm zu den großen Täublingsarten. Die Hutfarbe ist mit semmelartig gut beschrieben. Junge Hüte sind glattrandig, zeigen aber bald eine deutliche zum Teil höckerige Riefung. Bei feuchtem Wetter ist die Huthaut aufgequollen und sehr schleimig. Sie lässt sich etwa zur Hälfte abziehen. Die blassen Lamellen neigen beim jungen Pilz und auch bei Feuchtigkeit zum Tränen. Die Stiele sind von heller Farbe, jung festfleischig, dann gekammert hohl und bräunend.
+
+Optisch kaum zu unterscheiden ist der Gilbende Stinktäubling *Russula subfoetens*, der daher auch von vielen Mykologen nicht als eigene gute Art anerkannt sondern nur als Varietät von *Russula foetens* gesehen wird.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_foetens_02_bm.jpg" nocrop=true gross=true %}
