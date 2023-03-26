@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_rugosum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.03.2023: An Hasel in unserem Dietzenbacher Carré ist das ganze Jahr über unser aktueller [Fundkorbpilz](AA "Glossar-") zu finden, der Runzelige Schichtpilz Stereum rugosum. Er hat hier schon etliche Jahre Lebensdauer hinter und wohl auch noch einige vor sich. Mal zeigt er sich vertrocknet, mal vital und "blutend" (bei Feuchtigkeit). Dann lässt sich die Fläche mit dem Fingernagel ritzen, wobei sie sich rot verfärbt. Sieben Schichtpilzarten gibt es in Deutschland, die mit dem Fundkorb-Schlüssel von *Bernd Miggel* recht gut zu bestimmen sind. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/stereum-rugosum-runzeliger-schichtpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/dacrymyces_stillatus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,31 +49,6 @@ footer_scripts:
 25.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Winterporling *Polyporus brumalis*, eine häufige Art, die saprobiontisch an Ästen, Zweigen oder Stubben von Laubhölzern wächst. Ab März/April, wenn auch der *[Maiporling](/pilze/polyporus-ciliatus-maiporling)* erscheint, könnte man ihn mit diesem verwechseln. Genaues Hinschauen hilft, dies zu vermeiden. Der Winterporling hat deutlich größere Poren als der Maiporling, dessen Poren so winzig sind, dass sie mit bloßem Auge kaum zu erkennen sind. Beide sind sehr zäh und kommen daher als Speisepilze nicht in Frage. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bulgaria_inquinans_01_mi.jpg" %}
-{% include abbildung_ende.html %}
-
-24.03.2023: Wenn man so etwas an einem am Boden liegenden berindeten Eichenstamm sieht und beim Anfassen schmutzige Finger bekommt, ist der Fall so gut wie geklärt. Das kann kaum etwas anderes sein als unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schmutzbecherling *Bulgaria inquinans*. Die teller- oder kreiselförmigen Fruchtkörper werden etwa 3 cm groß und können zu Hunderten auf einem einzigen Stamm vorkommen. Ihre übliche Vegetationsperiode geht jetzt allmählich zu Ende. Mit dem schwarzen Schmutz kann man übrigens Wolle färben. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/bulgaria-inquinans-schmutzbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gyromitra_esculenta_03_ii.jpg" %}
-{% include abbildung_ende.html %}
-
-23.03.2023: Aktuellster [Fundkorbpilz](AA "Glossar-") ist ein delikater Giftpilz, die Frühjahrslorchel *Gyromitra esculenta*. Der Pilz wird in der populären Pilzliteratur völlig zu Recht mit einem Totenkopfsymbol versehen, obwohl der wissenschaftliche Artname *"esculenta"* essbar bedeutet und er in manchen Ländern noch immer Marktpilz ist. Der Fundkorb informiert genauestens über diesen offensichtlichen und lebensgefährlichen Widerspruch. (Dieter Gewalt)
-
-[Mehr lesen > (1.)](/pilze/gyromitra-esculenta-frühjahrslorchel)\
-[Mehr lesen > (2.)](/artikel/ein-delikater-giftpilz.html)
 
 <div style="clear:  both"></div>
 
