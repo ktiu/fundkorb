@@ -79,6 +79,6 @@ Der Stinktäubling stellt keine besonderen Ansprüche an den Boden, was zu seine
 Andere Stinktäublinge (*Foetentinae*) sind:\
 [*Russula  farinipes* = Mehlstieltäubling](/pilze/russula-farinipes-mehlstieltäubling) (der nicht so recht in diese Gruppe passt sondern isoliert in der Untersektion *Farinipedes* geführt wird)\
 [*Russula  illota* = Morsetäubling](/pilze/russula-illota-morsetäubling)\
-*Russula  subfoetens* = Gilbender Stinktäubling\
+[*Russula  subfoetens* = Gilbender Stinktäubling](/pilze/russula-subfoetens-gilbender-stinktäubling)\
 *Russula  fragrantissima* = Anistäubling\
 [*Russula  grata* = Mandeltäubling](/pilze/russula-grata-mandeltäubling)
