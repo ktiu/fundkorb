@@ -62,6 +62,6 @@ Der Morsetäubling ist in Deutschland mäßig verbreitet, im Norden nahezu fehle
 Andere Stinktäublinge (*Foetentinae*) sind:\
 [Russula  farinipes = Mehlstieltäubling](/pilze/russula-farinipes-mehlstieltäubling) (der nicht so recht in diese Gruppe passt sondern isoliert in der Untersektion *Farinipedes* geführt wird)\
 [Russula  foetens = Stinktäubling](/pilze/russula-foetens-stinktäubling)\
-Russula  subfoetens = Gilbender Stinktäubling\
+[Russula  subfoetens = Gilbender Stinktäubling](/pilze/russula-subfoetens-gilbender-stinktäubling)\
 Russula  fragrantissima = Anistäubling\
 [Russula  grata = Mandeltäubling](/pilze/russula-grata-mandeltäubling)
