@@ -40,7 +40,7 @@ Selbst erfahrene Täublingskenner sind sich nicht darin einig, ob es sich bei *[
   </table>
 </div>
 
-Etwas verlässlicher wenn auch nicht sehr signifikant sind mikroskopische Unterschiede. Die Sporen von *[Russula foetens](/pilze/russula-foetens-stinktäubling)* sind rundlich, isoliert grobwarzig und messen 8 - 10 x 7 - 8 µm, die von *Russula subfoetens* sind etwas kleiner und länglicher mit den Maßen 7 - 10 x 5,5 - 7,5 µm, die Warzen zum Teil gratig miteinander verbunden.
+Etwas verlässlicher wenn auch nicht sehr signifikant sind mikroskopische Unterschiede. Die Sporen von *[Russula foetens](/pilze/russula-foetens-stinktäubling)* sind rundlich, isoliert grobwarzig und messen 8 - 10 x 7 - 8 µm, die von *Russula subfoetens* sind etwas kleiner und länglicher mit den Maßen 7 - 9 x 6 - 7 µm, die Warzen zum Teil gratig miteinander verbunden.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_subfoetens_02_bm.jpg" nocrop=true gross=true %}
