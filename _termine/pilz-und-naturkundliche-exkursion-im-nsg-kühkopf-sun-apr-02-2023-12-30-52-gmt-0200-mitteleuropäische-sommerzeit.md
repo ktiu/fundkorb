@@ -15,3 +15,5 @@ Der Kühkopf ist Teil des 440 ha großen Naturreservats *Kühkopf-Knoblochsaue* 
 **Was uns am Kühkopf erwartet:** Frühlingserwachen in der Natur. Ein Wald voller Bärlauch. Vogelgezwitscher, vielleicht sogar der Gesang einer Nachtigall. Kuckucksrufe, das Hämmern der Spechte. Und Fühjahrspilze, mit einiger Wahrscheinlichkeit sogar Morcheln und Morchelbecherlinge. Aber noch keine Stechmücken, die dort später zur unerträglichen Plage werden.
 
 **Wir treffen uns** bis spätstens 9:15 Uhr zur gemeinsamen Anfahrt in Dietzenbach oder um 10:30 Uhr in Stockstadt am Rhein. Voraussichtliche Dauer der Wanderung ca. 3 Stunden. Möglich ist eine Einkehr nach der Exkursion in einem  einfachen Gartenrestaurant, das am Ende unserer Route liegt. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich, in der auch die genauen Treffpunkte mitgeteilt werden. Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos.
+
+**Dieser Termin ist ausgebucht. Anmeldungen sind leider nicht mehr möglich.**
