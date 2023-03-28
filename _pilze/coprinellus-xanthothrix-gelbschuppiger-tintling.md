@@ -7,7 +7,7 @@ beschreibung:
   familie: Psathyrellaceae
   erlaeuterung: xanthothrix = Gelbhaar
 profil:
-  aktualisiert: 2021-06-03
+  aktualisiert: 2023-03-28
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
