@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-27.03.2023: [Stereum rugosum - Runzeliger Schichtpilz](/pilze/stereum-rugosum-runzeliger-schichtpilz)  
+28.03.2023: [Geopora sumneriana - Zedern-Sandborstling](/pilze/geopora-sumneriana-zedern-sandborstling)  
+27.03.2023: [Stereum rugosum - Runzeliger Schichtpilz](/pilze/stereum-rugosum-runzeliger-schichtpilz)\
 26.03.2023: [Dacrymyces stillatus - Zerfließende Gallertträne](/pilze/dacrymyces-stillatus-zerfließende-gallertträne)\
 25.03.2023: [Polyporus brumalis - Winterporling](/pilze/polyporus-brumalis-winterporling)\
 24.03.2023: [Bulgaria inquinans - Schmutzbecherling](/pilze/bulgaria-inquinans-schmutzbecherling)\
