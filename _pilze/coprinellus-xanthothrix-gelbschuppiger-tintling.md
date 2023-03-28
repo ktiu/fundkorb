@@ -13,6 +13,10 @@ hauptbild:
   anzeige: false
   datei: /bilder/coprinellus_xanthothrix_03_dg.jpg
 ---
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/coprinellus_xanthothrix_07_fk.jpg" %}
+{% include abbildung_ende.html legende="25.03.2023: Ortsausgang Neu-Isenburg am Gravenbruchring (Foto: Frank Kaster)" %}
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/coprinellus_xanthothrix_01_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/coprinellus_xanthothrix_02_dg.jpg" nocrop=true gross=true %}
