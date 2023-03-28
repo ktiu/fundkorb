@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinellus_xanthothrix_07_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+29.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelbschuppige Tintling *Coprinellus xanthothrix*, gefunden von *Frank Kaster* in Neu-Isenburg am Gravenbruchring. In diesem wunderschönen, perfekten Entwicklungsstadium ist er relativ gut zu erkennen. Um ganz sicher zu gehen, sollte aber mikroskopiert werden. Es entscheiden Sporenform und -größe sowie das aus rundlichen, kettenförmig aneinandergereihten dickwandigen Zellen bestehende [Velum](Velum "Glossar").
+
+[Mehr lesen >](/pilze/coprinellus-xanthothrix-gelbschuppiger-tintling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/geopora_sumneriana_06_dg-.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ footer_scripts:
 27.03.2023: An Hasel in unserem Dietzenbacher Carré ist das ganze Jahr über unser aktueller [Fundkorbpilz](AA "Glossar-") zu finden, der Runzelige Schichtpilz Stereum rugosum. Er hat hier schon etliche Jahre Lebensdauer hinter und wohl auch noch einige vor sich. Mal zeigt er sich vertrocknet, mal vital und "blutend" (bei Feuchtigkeit). Dann lässt sich die Fläche mit dem Fingernagel ritzen, wobei sie sich rot verfärbt. Sieben Schichtpilzarten gibt es in Deutschland, die mit dem Fundkorb-Schlüssel von *Bernd Miggel* recht gut zu bestimmen sind. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/stereum-rugosum-runzeliger-schichtpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/dacrymyces_stillatus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.03.2023: Wenn es feucht ist in den Wäldern, wird man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Zerfließende Gallertträne *Dacrymyces stillatus*, nicht vergeblich suchen. Die bis zu 10 mm großen knopfförmigen Fruchtkörper erscheinen ganzjährig auf totem Nadel- und Laubholz, auf Stämmen, Ästen, Zweigen oder an Stümpfen. Beim Aufquellen fließen sie zusammen und bilden gern gelatinöse Massenvorkommen von gelblicher Farbe. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/dacrymyces-stillatus-zerfließende-gallertträne)
 
 <div style="clear:  both"></div>
 
