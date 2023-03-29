@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/steccherinum_bourdotii_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rundsporige Resupinatstacheling *Steccherinum bourdotii*, der sich vom wesentlich häufigeren [Ockerrötlichen Resupinatstacheling *Steccherinum ochraceum*](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling) durch längere Stacheln unterscheidet. Auch seine Sopren sind anders geformt und größer: eiförmig bis kugelig, 4 -5 x 3 - 4 µm. Beide Arten wachsen vorwiegend an toten Laubholzästen, sind also etwas für passionierte "Stöckchendreher". (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/steccherinum-bourdotii-rundsporiger-resupinatstacheling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinellus_xanthothrix_07_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ footer_scripts:
 28.03.2023: Zwei für jeden erreichbare Zedernstandorte in Dietzenbach garantieren seit Jahren das Wachstum eines typischen Begleiters. Es handelt sich um den Zedern-Sandborstling *Geopora sumneriana*, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Bevor sich die Fruchtkörper geöffnet und in vollem Umfang ausgebreitet haben sind sie als von Spinnweben gesäumte Mauselöcher im Boden erkennbar. Voll entwickelt können sie Durchmesser von 7 Zentimetern erreichen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/geopora-sumneriana-zedern-sandborstling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_rugosum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.03.2023: An Hasel in unserem Dietzenbacher Carré ist das ganze Jahr über unser aktueller [Fundkorbpilz](AA "Glossar-") zu finden, der Runzelige Schichtpilz Stereum rugosum. Er hat hier schon etliche Jahre Lebensdauer hinter und wohl auch noch einige vor sich. Mal zeigt er sich vertrocknet, mal vital und "blutend" (bei Feuchtigkeit). Dann lässt sich die Fläche mit dem Fingernagel ritzen, wobei sie sich rot verfärbt. Sieben Schichtpilzarten gibt es in Deutschland, die mit dem Fundkorb-Schlüssel von *Bernd Miggel* recht gut zu bestimmen sind. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/stereum-rugosum-runzeliger-schichtpilz)
 
 <div style="clear:  both"></div>
 
