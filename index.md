@@ -19,6 +19,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/parasola_leiocephala_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kahlköpfige Scheibchentintling *Parasola leiocephala*. Wir haben ihn immer mal wieder in unserem Dietzenbacher Carré an der Rodgaustraße und das auch schon früh im Jahr. In der Gattung *Parasola* stehen Tintlinge, die kein [Velum](Velum "Glossar") besitzen und im Alter nicht zu schwarzer Tinte zerfließen, sondern lediglich verwelken. Sie werden auch Rädchentintlinge genannt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/steccherinum_bourdotii_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
