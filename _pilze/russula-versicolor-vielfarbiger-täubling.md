@@ -56,8 +56,8 @@ Die weißen Stiele werden etwa 6 cm lang, sind schmächtig dünn oder auch zur B
   </table>
 </div>
 
-**Mikromerkmale:**  
-**Sporen:** ellipsoid, dicht mit zarten Stacheln besetzt, 6 - 9 x 5 - 7 µm  
+**Mikromerkmale:**\
+**Sporen:** ellipsoid, warzig-teilnetzig, 6 - 9 x 5 - 7 µm\
 **Huthaut** mit schlank keulenförmigen 5 - 7 µm breiten Pileozystiden
 
 *Russula versicolor* ist eine zerstreut auf sandigen, zumindest oberflächlich versauerten Böden vorkommende Art. Ihre [Mykorrhizapartner](Mykorrhiza "Glossar") sind ganz überwiegend Birken. In der Systematik lt. *Romagnesi* steht sie in der Untergattung *Tenellula*, ist also mit dem [Milden Wachstäubling Russula puellaris](/pilze/russula-puellaris-milder-wachstäubling-mädchentäubling) oder dem [Duftenden Zwergtäubling *Russula odorata*](/pilze/russula-odorata-duftender-zwergtäubling) näher verwandt.
