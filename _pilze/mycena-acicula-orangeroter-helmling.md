@@ -25,8 +25,8 @@ Einer meiner Pilzfreunde hat einmal gesagt: "In die Helmlinge könnte ich mich v
 
 Andere Helmlinge mit orangefarbenen oder orangeroten Hüten sind in der Sektion *Adonidae* zu finden, und zwar
 
-*Mycena adonis* = Korallenroter Helmlig
-[*Mycena floridula* = Hellroter Helmling](/pilze/mycena-floridula-hellroter-helmling)
+*Mycena adonis* = Korallenroter Helmlig  
+[*Mycena floridula* = Hellroter Helmling](/pilze/mycena-floridula-hellroter-helmling)  
 *Mycena leptophylla* = Aprikosenfarbener Helmling
 
 Es sind seltene bis sehr seltene Arten, die auch nicht immer leicht zu unterscheiden sind. Funde sollten auf jeden Fall mikroskopiert und gut dokumentiert werden. Nach heutigem Stand der Dinge (*Index fungorum*) wurden die *Adonidae* in die 2012 neu installierte Gattung *Atheniella* transferiert. Damit verbunden wäre auch die neue Einordnung in die Familie der *Marasmiaceae*. Der Orangerote Helmling *Mycena acicula* ist dagegen weiterhin bei den Helmlingen beheimatet und steht in der monotypischen Sektion *Aciculae*.
