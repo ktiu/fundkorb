@@ -17,6 +17,8 @@ literatur:
   - text: "Michael / Hennig / Kreisel: Handbuch für Pilzfreunde V, Nr. 148"
   - url: http://tintling.com/pilzbuch/arten/r/Russula_versicolor.html
   - url: https://de.wikipedia.org/wiki/Vielfarbiger_T%C3%A4ubling
+  - text: "MARXMÜLLER, H. (2014): Russularum Icones Bd. I und II. – Anatis-Verlag,
+      München"
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_versicolor_01_nk.jpg" nocrop=true gross=true %}
@@ -56,9 +58,14 @@ Die weißen Stiele werden etwa 6 cm lang, sind schmächtig dünn oder auch zur B
   </table>
 </div>
 
-**Mikromerkmale:**\
-**Sporen:** ellipsoid, warzig-teilnetzig, 6 - 9 x 5 - 7 µm\
-**Huthaut** mit schlank keulenförmigen 5 - 7 µm breiten Pileozystiden
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_versicolor_06_hm.jpg" %}
+{% include abbildung_ende.html %}
+
+**Mikromerkmale** zum Vergleich die Zeichnung von Helga Marxmüller, aus ihrem Buch S. 454:\
+**Sporen:** länglich-eiförmig und in der Größe mit 6-9 x 5-7 µm sehr variabel. Die Ornamentation ist warzig-teilnetzig\
+Die **Huthaut** besteht aus reich verzweigten, stumpf endenden Epikutishaaren (oben rechts im Bild). Außerdem aus langgestreckten, zylindrischen, vielfach septierten, kurzgliedrigen Pileozystiden (im Bild die sehr langen Elemente)  
+Die **Hymenialzystiden** sind unten links im Bild zu sehen
 
 *Russula versicolor* ist eine zerstreut auf sandigen, zumindest oberflächlich versauerten Böden vorkommende Art. Ihre [Mykorrhizapartner](Mykorrhiza "Glossar") sind ganz überwiegend Birken. In der Systematik lt. *Romagnesi* steht sie in der Untergattung *Tenellula*, ist also mit dem [Milden Wachstäubling Russula puellaris](/pilze/russula-puellaris-milder-wachstäubling-mädchentäubling) oder dem [Duftenden Zwergtäubling *Russula odorata*](/pilze/russula-odorata-duftender-zwergtäubling) näher verwandt.
 
