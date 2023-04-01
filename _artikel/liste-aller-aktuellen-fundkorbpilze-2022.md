@@ -3,6 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2022
 vorschaubild: null
 published: true
 ---
+01.04.2023: [Trichophytum rubrum - Nagelpilz](/pilze/trichophytum-rubrum-fußpilz-nagelpilz)
+
 31.12.2022: [Ascocoryne cylichnium - Großsporiger Gallertbecher](/pilze/ascocoryne-cylichnium-großsporiger-gallertbecher)\
 30.12.2022: [Phyllotopsis nidulans - Orangeseitling](/pilze/phyllotopsis-nidulans-orangeseitling)\
 29.12.2022: [Mycoacia uda - Wachsgelber Fadenstacheling](/pilze/mycoacia-uda-wachsgelber-fadenstachelpilz)\
