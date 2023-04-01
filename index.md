@@ -12,9 +12,19 @@ footer_scripts:
 
 - - -
 
-**Sonntag, 2. April 2023:** Unsere traditionelle Pilz- und naturkundliche Exkursion im NSG Kühkopf findet auch in diesem Jahr wieder statt. 
+**Am Karfreitag zu den Lorcheln!** - unsere nächste pilzkundliche Führung. [Hier geht's zur Info und Anmeldung >](/termine) 
 
-[Hier geht's zur Info und Anmeldung >](/termine) 
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trichophytum_rubrum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.04.2023: Kein Aprilscherz ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") - zumindest nicht für die Betroffenen. Es ist der Nagelpilz *Trichophytum rubrum*, der weiter verbreitet ist als die meisten ahnen. Ich kann mir gut vorstellen, dass so manche/mancher beim Blick auf das beigefügte Foto ein angeekeltes "Iiieh!" nicht unterdrücken kann. Mein Tipp: beim ersten Anzeichen Diagnose sichern und mit der Behandlung beginnen. Ohne geeignete Gegenmaßnahmen zerbröselt die hochansteckende Pilzinfektion den gesamten befallenen Fuß- oder Fingernagel und steckt auch noch die benachbarten sowie sämtliche Familienmitglieder an. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/trichophytum-rubrum-fußpilz-nagelpilz)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -37,30 +47,6 @@ footer_scripts:
 30.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rundsporige Resupinatstacheling *Steccherinum bourdotii*, der sich vom wesentlich häufigeren [Ockerrötlichen Resupinatstacheling *Steccherinum ochraceum*](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling) durch längere Stacheln unterscheidet. Auch seine Sopren sind anders geformt und größer: eiförmig bis kugelig, 4 -5 x 3 - 4 µm. Beide Arten wachsen vorwiegend an toten Laubholzästen, sind also etwas für passionierte "Stöckchendreher". (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/steccherinum-bourdotii-rundsporiger-resupinatstacheling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinellus_xanthothrix_07_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-29.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelbschuppige Tintling *Coprinellus xanthothrix*, gefunden von *Frank Kaster* in Neu-Isenburg am Gravenbruchring. In diesem wunderschönen, perfekten Entwicklungsstadium ist er relativ gut zu erkennen. Um ganz sicher zu gehen, sollte aber mikroskopiert werden. Es entscheiden Sporenform und -größe sowie das aus rundlichen, kettenförmig aneinandergereihten dickwandigen Zellen bestehende [Velum](Velum "Glossar").
-
-[Mehr lesen >](/pilze/coprinellus-xanthothrix-gelbschuppiger-tintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/geopora_sumneriana_06_dg-.jpg" %}
-{% include abbildung_ende.html %}
-
-28.03.2023: Zwei für jeden erreichbare Zedernstandorte in Dietzenbach garantieren seit Jahren das Wachstum eines typischen Begleiters. Es handelt sich um den Zedern-Sandborstling *Geopora sumneriana*, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Bevor sich die Fruchtkörper geöffnet und in vollem Umfang ausgebreitet haben sind sie als von Spinnweben gesäumte Mauselöcher im Boden erkennbar. Voll entwickelt können sie Durchmesser von 7 Zentimetern erreichen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/geopora-sumneriana-zedern-sandborstling)
 
 <div style="clear:  both"></div>
 
