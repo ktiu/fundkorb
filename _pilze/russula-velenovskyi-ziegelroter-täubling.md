@@ -28,3 +28,43 @@ Der Ziegelrote Täubling gehört mit Hutdurchmessern von 4 bis 8 cm zu den klein
 {% include abbildung_ende.html legende="Hofgarten, Bayreuth (Foto: Werner Jurkeit)" %}
 
 Die Hutfarben variieren in verschiedenen Rottönen mit meist aufgehellter, orangegelblicher Mitte. Die Lamellen sind jung weißlich, später durch ausfallendes Sporenpulver ockergelb, die Schneiden können zum Rand hin rötlich gefärbt sein. Das Fleisch ist weiß, manchmal leicht gelblich oder rosa getönt, der Geschmack mild. Die Stiele sind schlank, bis 8 cm lang, meist weiß, aber auch rosa überhaucht. Der Geruch ist unauffällig.
+
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>mild</td>
+      <td>ocker</td>
+      <td>1/2</td>
+      <td>rosa</td>
+       
+    </tr>
+  </table>
+</div>
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_velenovskyi-_04_hmx.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+**Mikromerkmale** zum Vergleich die Zeichnung von Helga Marxmüller, aus ihrem Buch S. 608:
+
+**Sporen:** eiförmig, 6,5-8,5 x 5,5-6,5 µm. Die Ornamentation ist im Wesentlichen isoliert-warzig mit wenigen, dünnen Verbindungen zwischen zwei oder mehr Warzen.\
+Die **Huthaut** besteht aus dünnen, apikal verschmälerten, oft verzweigten Epikutishaaren (oben im Bild). Außerdem aus langgestreckten, zylindrischen, vielfach septierten, langgliedrigen Pileozystiden (die sehr langen Elemente, rechts und diagonal im Bild). Die Pileozystiden sind mehr oder weniger stark inkrustiert (außen an den Wandungen befindliche Tröpfchen).\
+Die **Hymenialzystiden** sind unten links im Bild zu sehen.
+
+Der Ziegelrote Täubling ist essbar und recht wohlschmeckend, aber aufgrund seiner relativen Seltenheit und des unregelmäßig zerstreuten Vorkommens als Speisepilz ohne nennenswerte Bedeutung. Als Verwechslungsmöglichkeit wird vor allem eine Art genannt: der [Apfeltäubling *Russula paludosa*](/pilze/russula-paludosa-apfeltäubling), der jedoch deutlich größer ist und in Nadelwäldern bei Kiefern oder Fichten wächst.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_velenovskyi-_03_thg.jpg" %}
+{% include abbildung_ende.html legende="Fund in einem anmmorigen Wald bei Birken und Fichten (Foto: Thomas Glaser)" %}
+
+Anmerkung zum wissenschaftlichen Artnamen: *Josef Velenovský* (1858 - 1949) war ein böhmischer, österreichischer und tschechoslowakischer Botaniker und Mykologe. In seinen 2000 Seiten umfassenden mykologischen Werken beschrieb er 2727 neue Pilzarten, von denen noch heute 190 als gute Arten gelten. Erstaunlicherweise lehnte er mikroskopische Untersuchungsmethoden kategorisch ab. Sein Autorenkürzel lautet Velen.
