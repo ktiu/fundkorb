@@ -20,8 +20,6 @@ footer_scripts:
 {% include bild.html datei="/bilder/psathyrella_spadiceogrisea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-
-
 02.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schmalblättrige Faserling *Psathyrella spadiceogrisea*. Wegen seiner frühen Erscheinungszeit wird er auch Früher Mürbling genannt.  In diesem Jahr ist er besonders früh - kein Wunder bei derart milden Temperaturen! Im Gegensatz zu seinem Doppelgänger, dem [Behangenen Faserling *Psathyrella candolleana*](/pilze/psathyrella-candolleana-behangener-faserling), ist er für die Küche kaum zu empfehlen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/psathyrella-spadiceogrisea-schmalblättriger-faserling-früher-mürbling)
@@ -34,7 +32,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/trichophytum_rubrum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-01.04.2023: Kein Aprilscherz ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") - zumindest nicht für die Betroffenen. Es ist der Nagelpilz *Trichophytum rubrum*, der weiter verbreitet ist als die meisten ahnen. Ich kann mir gut vorstellen, dass so manche/mancher beim Blick auf das beigefügte Foto ein angeekeltes "Iiieh!" nicht unterdrücken kann. Mein Tipp: beim ersten Anzeichen Diagnose durch einen Hautarzt sichern und mit der Behandlung beginnen. Ohne geeignete Gegenmaßnahmen zerbröselt die hochansteckende Pilzinfektion den gesamten befallenen Fuß- oder Fingernagel und steckt auch noch die benachbarten Nägel sowie sämtliche Familienmitglieder an. (Dieter Gewalt)
+01.04.2023: Kein Aprilscherz ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") - zumindest nicht für die Betroffenen. Es ist der Nagel- oder Fußpilz *Trichophytum rubrum*, der weiter verbreitet ist als die meisten ahnen. Ich kann mir gut vorstellen, dass so manche/mancher beim Blick auf das beigefügte Foto ein angeekeltes "Iiieh!" nicht unterdrücken kann. Mein Tipp: beim ersten Anzeichen Diagnose durch einen Hautarzt sichern und mit der Behandlung beginnen. Ohne geeignete Gegenmaßnahmen zerbröselt die hochansteckende Pilzinfektion den gesamten befallenen Fuß- oder Fingernagel und steckt auch noch die benachbarten Nägel sowie sämtliche Familienmitglieder an. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/trichophytum-rubrum-fußpilz-nagelpilz)
 
