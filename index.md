@@ -17,6 +17,20 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/psathyrella_spadiceogrisea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+
+
+02.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schmalblättrige Faserling *Psathyrella spadiceogrisea*. Wegen seiner frühen Erscheinungszeit wird er auch Früher Mürbling genannt.  In diesem Jahr ist er besonders früh - kein Wunder bei derart milden Temperaturen! Im Gegensatz zu seinem Doppelgänger, dem [Behangenen Faserling *Psathyrella candolleana*](/pilze/psathyrella-candolleana-behangener-faserling), ist er für die Küche kaum zu empfehlen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/psathyrella-spadiceogrisea-schmalblättriger-faserling-früher-mürbling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trichophytum_rubrum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +49,6 @@ footer_scripts:
 31.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kahlköpfige Scheibchentintling *Parasola leiocephala*. Wir haben ihn immer mal wieder in unserem Dietzenbacher Carré an der Rodgaustraße und das auch schon früh im Jahr. In der Gattung *Parasola* stehen Tintlinge, die kein [Velum](Velum "Glossar") besitzen und im Alter nicht zu schwarzer Tinte zerfließen, sondern lediglich verwelken. Sie werden auch Rädchentintlinge genannt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/steccherinum_bourdotii_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.03.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rundsporige Resupinatstacheling *Steccherinum bourdotii*, der sich vom wesentlich häufigeren [Ockerrötlichen Resupinatstacheling *Steccherinum ochraceum*](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling) durch längere Stacheln unterscheidet. Auch seine Sopren sind anders geformt und größer: eiförmig bis kugelig, 4 -5 x 3 - 4 µm. Beide Arten wachsen vorwiegend an toten Laubholzästen, sind also etwas für passionierte "Stöckchendreher". (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/steccherinum-bourdotii-rundsporiger-resupinatstacheling)
 
 <div style="clear:  both"></div>
 
