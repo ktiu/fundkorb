@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinellus_disseminatus_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+03.04.2023: Immer wieder ein beeindruckender Anblick, einem Baumstumpf zu begegnen, der so üppig oder wie gesät mit kleinen Blätterpilzchen überwachsen ist. "Wie gesät" (lateinisch: disseminatus) - das ist auch der Name unseres aktuellen [Fundkorbpilz](AA "Glossar-"), des Gesäten Tintlings *Coprinellus disseminatus*, den wir gestern bei unserer Kühkopf-Exkursion bestaunen konnten. Er ist auch häufig in Parkanlagen auf grasigen Flächen zu finden und sogar auf Bürgersteigen, wo er sich an den Rändern zwischen Gehwegplatten hervorzwängt. Es handelt sich um eine sehr kurzlebige Art, die schon bald nach ihrem Erscheinen wieder verschwunden ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/coprinellus-disseminatus-gesäter-tintling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/psathyrella_spadiceogrisea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
