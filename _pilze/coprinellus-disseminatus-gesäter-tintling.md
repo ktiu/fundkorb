@@ -11,6 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/coprinellus_disseminatus_01_dg.jpeg
+  legende: "Versuchen Sie mal, die hier abgebildeten Pilzfurchtkörper zu zählen! "
 literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Coprinellus_disseminatus.html
 published: true
