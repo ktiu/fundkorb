@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-02.04.2023: [Psathyrella spadiceogrisea - Schmalblättriger Faserling](/pilze/psathyrella-spadiceogrisea-schmalblättriger-faserling-früher-mürbling)  
+03.04.2023: [Coprinellus disseminatus - Gesäter Tintling](/pilze/coprinellus-disseminatus-gesäter-tintling)  
+02.04.2023: [Psathyrella spadiceogrisea - Schmalblättriger Faserling](/pilze/psathyrella-spadiceogrisea-schmalblättriger-faserling-früher-mürbling)\
 01.04.2023: [Trichophytum rubrum - Fußpilz, Nagelpilz](/pilze/trichophytum-rubrum-fußpilz-nagelpilz)
 
 31.03.2023: [Parasola leiocephala - Kahlköpfiger Scheibchentintling](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)\
