@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/auricularia_mesenterica_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.04.2023: Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") durchaus für eine [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete) halten. Anfassen genügt aber schon, um den Irrtum festzustellen. Er fühlt sich elastisch gelatinös an und seine grauliche Unterseite ist auf glattem Grund unregelmäßig faltig und könnte uns an ein [Judasohr](/pilze/auricularia-auricula-judae-judasohr) erinnern. In der Tat ist der Gezonte Ohrlappenpilz *Auricularia mesenterica* mit diesem nahe verwandt, aber im Gegensatz zu ihm für die Küche völlig ungeeignet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 03.04.2023: Immer wieder ein beeindruckender Anblick, einem Baumstumpf zu begegnen, der so üppig oder wie gesät mit kleinen Blätterpilzchen überwachsen ist. "Wie gesät" (lateinisch: disseminatus) - das ist auch der Name, unter dem unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gesäte Tintling *Coprinellus disseminatus* bekannt ist, den wir gestern bei unserer Kühkopf-Exkursion bestaunen konnten. Er ist auch häufig in Parkanlagen auf grasigen Flächen zu finden und sogar auf Bürgersteigen, wo er sich an den Rändern zwischen Gehwegplatten hervorzwängt. Es handelt sich um eine sehr kurzlebige Art, die schon bald nach ihrem Erscheinen wieder verschwunden ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/coprinellus-disseminatus-gesäter-tintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/psathyrella_spadiceogrisea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schmalblättrige Faserling *Psathyrella spadiceogrisea*. Wegen seiner frühen Erscheinungszeit wird er auch Früher Mürbling genannt.  In diesem Jahr ist er besonders früh - kein Wunder bei derart milden Temperaturen! Im Gegensatz zu seinem Doppelgänger, dem [Behangenen Faserling *Psathyrella candolleana*](/pilze/psathyrella-candolleana-behangener-faserling), ist er für die Küche kaum zu empfehlen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/psathyrella-spadiceogrisea-schmalblättriger-faserling-früher-mürbling)
 
 <div style="clear:  both"></div>
 
