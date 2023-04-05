@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/dumontinia_tuberosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Anemonenbecherling *Dumontinia tuberosa*. Ein hübscher kleiner Becherling mit einem meist recht langen Stiel. Am Kühkopf haben wir ihn vergangenen Sonntag an mehreren Stellen ganz nah am Wegrand gesehen. Wegen seiner unauffälligen braunen Farbe ist er leicht zu übersehen, weshalb man ihn oft erst nach gezielter Suche wahrnimmt. Optisch kaum zu unterscheiden ist der Scharbockskrautbecherling *Sclerotinia binucleata*. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/auricularia_mesenterica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
