@@ -51,3 +51,7 @@ Russula cicatricata gehört zu den selteneren Täublingsarten, ist im Verbreitun
     </tr>
   </table>
 </div>
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_cicatricata_06_fk.jpg" %}
+{% include abbildung_ende.html legende="Foto: Fredi Kasparek" %}
