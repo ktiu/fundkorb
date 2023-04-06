@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_gemmata_02_mm.jpg" %}
+{% include abbildung_ende.html %}
+
+07.04.2023: In der Nähe von Heusenstamm gesehen: Narzissengelber Wulstling *Amanita gemmata*. Unser aktueller [Fundkorbpilz](AA "Glossar-") war mal wieder der erste Wulstling des Jahres. Es handelt sich um eine der kleineren Wulstlingsarten, die sich aber durch ein attraktives Erscheinungsbild auszeichnet. Für die Küche sollte man ihn besser nicht verwenden. Er soll das Krötengift *Bufotenin*, möglicherweise sogar halluzinogene Stoffe enthalten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-gemmata-narzissengelber-wulstling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/dumontinia_tuberosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,30 +47,6 @@ footer_scripts:
 05.04.2023: Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") durchaus für eine [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete) halten. Anfassen genügt aber schon, um den Irrtum festzustellen. Er fühlt sich elastisch gelatinös an und seine grauliche Unterseite ist auf glattem Grund unregelmäßig faltig und könnte uns an ein [Judasohr](/pilze/auricularia-auricula-judae-judasohr) erinnern. In der Tat ist der Gezonte Ohrlappenpilz *Auricularia mesenterica* mit diesem nahe verwandt, aber im Gegensatz zu ihm für die Küche völlig ungeeignet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder ein richtig guter Speisepilz, allerdings nur für Pilzfreunde, die sich auskennen. Er heißt Büschelrasling, auf schlau *Lyophyllum decastes*, hat Biss und einen angenehmen Pilzgeschmack. Sein büscheliges Wachstum vornehmlich auf grasigen Flächen ist zwar ein wichtiges Merkmal, kommt aber bei Pilzen häufig vor. Wir haben ihn schon oft mitten in Frankfurt in Parkanlagen gefunden, auch schon früh im Jahr. Ein einziges Büschel kann ein ordentliches Pilzgericht liefern, hin und wieder kommt er aber auch vereinzelt oder zu wenigen gesellig vor. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinellus_disseminatus_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-03.04.2023: Immer wieder ein beeindruckender Anblick, einem Baumstumpf zu begegnen, der so üppig oder wie gesät mit kleinen Blätterpilzchen überwachsen ist. "Wie gesät" (lateinisch: disseminatus) - das ist auch der Name, unter dem unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gesäte Tintling *Coprinellus disseminatus* bekannt ist, den wir gestern bei unserer Kühkopf-Exkursion bestaunen konnten. Er ist auch häufig in Parkanlagen auf grasigen Flächen zu finden und sogar auf Bürgersteigen, wo er sich an den Rändern zwischen Gehwegplatten hervorzwängt. Es handelt sich um eine sehr kurzlebige Art, die schon bald nach ihrem Erscheinen wieder verschwunden ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coprinellus-disseminatus-gesäter-tintling)
 
 <div style="clear:  both"></div>
 
