@@ -8,7 +8,7 @@ beschreibung:
   synonym: Omphalotus illudens
 profil:
   autor_in: Dieter Gewalt
-  aktualisiert: 2021-10-03
+  aktualisiert: 2023-04-06
 hauptbild:
   datei: /bilder/omphalotus_olearius_01_dg.jpg
   anzeige: true
