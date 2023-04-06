@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-06.04.2023: [Dumontinia tuberosa - Anemonenbecherling](/pilze/dumontinia-tuberosa-anemonenbecherling)  
+07.04.2023: [Amanita gemmata - Narzissengelber Wulstling](/pilze/amanita-gemmata-narzissengelber-wulstling)  
+06.04.2023: [Dumontinia tuberosa - Anemonenbecherling](/pilze/dumontinia-tuberosa-anemonenbecherling)\
 05.04.2023: [Auricularia mesenterica - Gezonter Ohrlappenpilz](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)\
 04.04.2023: [Lyophyllum decastes - Büschelrasling](/pilze/lyophyllum-decastes-büschelrasling)\
 03.04.2023: [Coprinellus disseminatus - Gesäter Tintling](/pilze/coprinellus-disseminatus-gesäter-tintling)\
