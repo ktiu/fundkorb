@@ -5,6 +5,7 @@ beschreibung:
   erlaeuterung: olearius = zum Ölbaum gehörend
   referenz: (DC.) Singer 1948
   familie: Omphalotaceae
+  synonym: Omphalotus illudens
 profil:
   autor_in: Dieter Gewalt
   aktualisiert: 2021-10-03
