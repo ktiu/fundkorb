@@ -6,7 +6,7 @@ beschreibung:
   familie: Russulaceae
   erlaeuterung: cicatricata = genarbt
 profil:
-  aktualisiert: 2020-08-15
+  aktualisiert: 2023-04-06
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
