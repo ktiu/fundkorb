@@ -1,5 +1,5 @@
 ---
-aktivitaet: Kostenlose Pilzberatung im Frankfurter Gesundhitsamt
+aktivitaet: Kostenlose Pilzberatung im Frankfurter Gesundheitsamt
 zeit: 2023-10-01T17:00:44.522Z
 bis: 2023-10-01T20:00:00.000Z
 anmeldung_offen: false
