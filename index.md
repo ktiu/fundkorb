@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-**Am Karfreitag zu den Lorcheln!** - unsere nächste pilzkundliche Führung. [Hier geht's zur Info und Anmeldung >](/termine) 
+**Wir suchen den Maipilz** am 30. April - [Hier geht's zur Info und Anmeldung >](/termine) 
 
 - - -
 
