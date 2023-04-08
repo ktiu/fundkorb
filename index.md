@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/paxillus_involutus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.04.2023: Auch der Kahle Krempling *Paxillus involutus* gehört zu den nun früher als gewohnt erscheinenden Arten und ist deshalb unser aktueller [Fundkorbpilz](AA "Glossar-"). Neben mehr als hundert [Frühjahrslorcheln](/pilze/gyromitra-esculenta-frühjahrslorchel) war er bei unserer gestrigen Exkursion in einem Kiefernwald bei Waldacker einer von zwei potentiell tödlich giftigen Pilzen. Wir fanden drei Fruchtkörper, von denen zwei schon ziemlich angegammelt und folglich nicht mehr die jüngsten waren.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_gemmata_02_mm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 06.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Anemonenbecherling *Dumontinia tuberosa*. Ein hübscher kleiner Becherling mit einem meist recht langen Stiel. Am Kühkopf haben wir ihn vergangenen Sonntag an mehreren Stellen ganz nah am Wegrand gesehen. Wegen seiner unauffälligen braunen Farbe ist er leicht zu übersehen, weshalb man ihn oft erst nach gezielter Suche wahrnimmt. Optisch kaum zu unterscheiden ist der [Scharbockskrautbecherling *Sclerotinia binucleata*](/pilze/sclerotinia-binucleata-scharbockskrautbecherling). (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/auricularia_mesenterica_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.04.2023: Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") durchaus für eine [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete) halten. Anfassen genügt aber schon, um den Irrtum festzustellen. Er fühlt sich elastisch gelatinös an und seine grauliche Unterseite ist auf glattem Grund unregelmäßig faltig und könnte uns an ein [Judasohr](/pilze/auricularia-auricula-judae-judasohr) erinnern. In der Tat ist der Gezonte Ohrlappenpilz *Auricularia mesenterica* mit diesem nahe verwandt, aber im Gegensatz zu ihm für die Küche völlig ungeeignet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)
 
 <div style="clear:  both"></div>
 
