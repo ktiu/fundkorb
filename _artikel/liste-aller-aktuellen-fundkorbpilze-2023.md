@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-09.04.2023: [Coprinus comatus - Schopftintling](/pilze/coprinus-comatus-schopftintling)  
+10.04.2023: [Calocybe gambosa - Maipilz](/pilze/calocybe-gambosa-maipilz)  
+09.04.2023: [Coprinus comatus - Schopftintling](/pilze/coprinus-comatus-schopftintling)\
 08.04.2023: [Paxillus involutus - Kahler Krempling](/pilze/paxillus-involutus-kahler-krempling)\
 07.04.2023: [Amanita gemmata - Narzissengelber Wulstling](/pilze/amanita-gemmata-narzissengelber-wulstling)\
 06.04.2023: [Dumontinia tuberosa - Anemonenbecherling](/pilze/dumontinia-tuberosa-anemonenbecherling)\
