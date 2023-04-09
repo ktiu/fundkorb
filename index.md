@@ -12,6 +12,7 @@ footer_scripts:
 
 - - -
 
+**Besuch bei den Ballerina-Pilzen** am 16. April  
 **Wir suchen den Maipilz** am 30. April - [Hier geht's zur Info und Anmeldung >](/termine) 
 
 - - -
