@@ -64,6 +64,6 @@ In der Sektion *Integrinae*:\
 **Russula melitodes** = Kleiner Ledertäubling, Palisander-Täubling\
 **[Russula romellii](/pilze/russula-romellii-weißstieliger-ledertäubling)** = Weißstieliger Ledertäubling\
 In der Sektion *Olivaceinae*:\
-**Russula alutacea** = Glänzender Ledertäubling\
+**[Russula alutacea](/pilze/russula-alutacea-glänzender-ledertäubling)** = Glänzender Ledertäubling\
 **Russula olivacea** = Rotsieliger (Wechselfarbiger) Ledertäubling\
 **Russula vinosobrunnea** = Purpurbrauner Ledertäubling
