@@ -8,5 +8,7 @@ published: true
 bilder:
   - /bilder/ballerina-pilze_01_dg.jpg
 ---
-Am 5. Februar hatten wir sie schon einmal mit einer kleinen Gruppe Pilzfreunde besucht und die Begeisterung war groß. Wir möchten allen, die sich diesen Anblick nicht entgehen lassen wollen, eine Gelegenheit bieten, dies nachzuholen. Natürlich werden wir auch nach Pilzen Ausschau halten, die sich jetzt schon blicken lassen. Das sind nicht wenige wie die aktuellen Erfahrungen zeigen.
+Am 5. Februar hatten wir sie schon einmal mit einer kleinen Gruppe besucht und die Begeisterung war groß. Wir möchten allen Pilzfreund*innen, die sich diesen Anblick nicht entgehen lassen wollen, eine Gelegenheit bieten, dies nachzuholen. Natürlich werden wir auch nach Pilzen Ausschau halten, die sich jetzt schon blicken lassen. Das sind nicht wenige wie die aktuellen Erfahrungen zeigen.
+
+Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Unser Treffpunkt wird mit der Teilnahmebestätigung mitgeteilt.
 
