@@ -16,11 +16,13 @@ footer_scripts:
 
 - - -
 
-
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calocybe_gambosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
 
 10.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maipilz *Calocybe gambosa*, der üblicherweise im April erscheint aber nicht unbedingt schon in der ersten Aprilwoche. Es gibt wohl kaum einen anderen Speisepilz, der so konträr beurteilt wird wie dieser. Manche mögen ihn, andere verabscheuen ihn oder finden ihn gar zum Kotzen. Sein aufdringlicher Geruch nach ranzigem Mehl verdirbt schon vielen den Appetit und ich persönlich finde, er schmeckt auch so wie er riecht. Da kommt's wohl auf das Würzen an. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/calocybe-gambosa-maipilz)
 
 <div style="clear:  both"></div>
 
