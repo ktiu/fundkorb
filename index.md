@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinus_comatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.04.2023: Auch der Schopftintling *Coprinus comatus* ist ein Frühchen. Grund genug, ihn zum aktuellen [Fundkorbpilz](AA "Glossar-") zu erklären. Er gehört zu den wenigen Arten, die von Pilz-Apps auf Anhieb erkannt werden. Und zu denen, die es lohnt, gesammelt zu werden. Als Spargel- oder Suppenpilz oder für die Pfanne ist er bestens geeignet, solange er noch komplett weiß ist. Wenn er anfängt zu zerfließen, kann man ihn nur noch wie schwarze Tinte zum Schreiben verwenden. In England wird er *"Shaggy Mane"* genannt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/coprinus-comatus-schopftintling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/paxillus_involutus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 07.04.2023: In der Nähe von Heusenstamm gesehen: Narzissengelber Wulstling *Amanita gemmata*. Unser aktueller [Fundkorbpilz](AA "Glossar-") war mal wieder der erste Wulstling des Jahres. Es handelt sich um eine der kleineren Wulstlingsarten, die sich aber durch ein attraktives Erscheinungsbild auszeichnet. Für die Küche sollte man ihn besser nicht verwenden. Er soll das Krötengift *Bufotenin*, möglicherweise sogar halluzinogene Stoffe enthalten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-gemmata-narzissengelber-wulstling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/dumontinia_tuberosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Anemonenbecherling *Dumontinia tuberosa*. Ein hübscher kleiner Becherling mit einem meist recht langen Stiel. Am Kühkopf haben wir ihn vergangenen Sonntag an mehreren Stellen ganz nah am Wegrand gesehen. Wegen seiner unauffälligen braunen Farbe ist er leicht zu übersehen, weshalb man ihn oft erst nach gezielter Suche wahrnimmt. Optisch kaum zu unterscheiden ist der [Scharbockskrautbecherling *Sclerotinia binucleata*](/pilze/sclerotinia-binucleata-scharbockskrautbecherling). (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
 
 <div style="clear:  both"></div>
 
