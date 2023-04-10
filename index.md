@@ -12,8 +12,20 @@ footer_scripts:
 
 - - -
 
-**Besuch bei den Ballerina-Pilzen** am 16. April  
+**Besuch bei den Ballerina-Pilzen** am 16. April\
 **Wir suchen den Maipilz** am 30. April - [Hier geht's zur Info und Anmeldung >](/termine) 
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/puccinia_sessile_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.04.2023: Wo immer zur Zeit der Bärlauch wächst, ist auf seinen Blättern auch sein persönlicher Rostpilz zu finden, der Bärlauchrost *Puccinia sessilis*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Um ihm optisch etwas abzugewinnen, muss man die rötlichen Flecken mit einer gut vergrößernden Lupe betrachten. Dann erkennt man einen hübschen Kranz rötlicher Pusteln. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/puccinia-sessilis-bärlauchrost)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -36,30 +48,6 @@ footer_scripts:
 09.04.2023: Auch der Schopftintling *Coprinus comatus* ist ein Frühchen. Grund genug, ihn zum aktuellen [Fundkorbpilz](AA "Glossar-") zu erklären. Er gehört zu den wenigen Arten, die von Pilz-Apps auf Anhieb erkannt werden. Und zu denen, die es lohnt, gesammelt zu werden. Als Spargel- oder Suppenpilz oder für die Pfanne ist er bestens geeignet, solange er noch komplett weiß ist. Wenn er anfängt zu zerfließen, kann man ihn nur noch wie schwarze Tinte zum Schreiben verwenden. In England wird er *"Shaggy Mane"* genannt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/coprinus-comatus-schopftintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/paxillus_involutus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.04.2023: Auch der Kahle Krempling *Paxillus involutus* gehört zu den nun früher als gewohnt erscheinenden Arten und ist deshalb unser aktueller [Fundkorbpilz](AA "Glossar-"). Neben mehr als hundert [Frühjahrslorcheln](/pilze/gyromitra-esculenta-frühjahrslorchel) war er bei unserer gestrigen Exkursion in einem Kiefernwald bei Waldacker einer von zwei potentiell tödlich giftigen Pilzen. Wir fanden drei Fruchtkörper, von denen zwei schon ziemlich angegammelt und folglich nicht mehr die jüngsten waren.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_gemmata_02_mm.jpg" %}
-{% include abbildung_ende.html %}
-
-07.04.2023: In der Nähe von Heusenstamm gesehen: Narzissengelber Wulstling *Amanita gemmata*. Unser aktueller [Fundkorbpilz](AA "Glossar-") war mal wieder der erste Wulstling des Jahres. Es handelt sich um eine der kleineren Wulstlingsarten, die sich aber durch ein attraktives Erscheinungsbild auszeichnet. Für die Küche sollte man ihn besser nicht verwenden. Er soll das Krötengift *Bufotenin*, möglicherweise sogar halluzinogene Stoffe enthalten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-gemmata-narzissengelber-wulstling)
 
 <div style="clear:  both"></div>
 
