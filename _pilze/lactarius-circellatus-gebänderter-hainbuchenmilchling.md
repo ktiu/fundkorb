@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Gebänderter Hainbuchenmilchling
   referenz: Fr. 1838
   familie: Russulaceae
-  synonym: Lactarius pyrogalus
+  synonym: "Synonym: Lactarius pyrogalus"
   erlaeuterung: pyrogalus = feuermilchig, circellatus = geringelt
 profil:
   aktualisiert: 2021-07-08
