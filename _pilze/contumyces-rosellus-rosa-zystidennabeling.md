@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: Contumyces rosellus
   deutsch: Rosa Zystidennabeling
-  referenz: (M.M. Moser) Redhead, MOncalvo & Lutzoni 2002
+  referenz: (M.M. Moser) Redhead, Moncalvo & Lutzoni 2002
   synonym: "Synonyme: Omphalina rosella, Marasmiellus rosellus"
   erlaeuterung: rosellus = rosenrötlich
   familie: Rickenellaceae
