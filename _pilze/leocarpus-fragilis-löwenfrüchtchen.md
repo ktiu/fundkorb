@@ -21,7 +21,7 @@ Löwenfrüchtchen gehören zu den gut makroskopisch erkennbaren Schleimpilzen. S
 
 Kurzbeschreibung von *Hermann Jahn*:
 
-> Die braunen, kurz-zylindrischen, eingedrückt fast bohnenförmigen [Sporangien](Sporocarpien "Glossar"), mit Stielchen einem [Hypothallus](Hypothallus "Glossar") entspringend, werden bis 2 mm lang. Die [Peridie](Peridie "Glossar") ist glatt, glänzend und zerbrechlich, die schwarzen Sporen kugelig und grob warzig."
+> Die braunen, kurz-zylindrischen, eingedrückt fast bohnenförmigen [Sporangien](Sporokarp "Glossar"), mit Stielchen einem [Hypothallus](Hypothallus "Glossar") entspringend, werden bis 2 mm lang. Die [Peridie](Peridie "Glossar") ist glatt, glänzend und zerbrechlich, die schwarzen Sporen kugelig und grob warzig."
 
 Dem wäre hinzuzufügen, dass ihre Farbe von gelbbraun bis dunkel rotbraun variiert und die Sporangien eingedellt sein können.
 
