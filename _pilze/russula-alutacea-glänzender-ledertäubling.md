@@ -31,6 +31,28 @@ Die Stiele sind stämmig, zylindrisch bis keulig, meist bis zu 25 mm dick, läng
 
 **Makrochemische Farbreaktionen** auf der weißen Stielhaut: Eisensulfat hinterlässt einen blass rosa Fleck. Phenol reagiert verzögert, jedoch stark rotviolett (Farbe von Heidelbeer- oder Brombeerflecken).
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>mild</td>
+      <td>dottergelb</td>
+      <td>ca. 1/2</td>
+      <td>rosa</td>
+       
+    </tr>
+  </table>
+</div>
+
 **Mikroskopische Merkmale:**\
 Die Sporen der Funde sind breitellipsoid, das Ornament besteht aus isolierten, reihig verbundenen und teilnetzigen Warzen, die Maße sind 8,3 - 10,3 x 6,8 - 8,8 µm. Die Warzen sind mit meist 0,5 µm, maximal 0,8 µm, nicht sehr hoch. Ornament und Hilarfleck sind stark amyloid, d.h. sie färben sich in Melzers Reagenz deutlich schwarz.\
 Die Huthaut des Glänzenden Ledertäublings besteht aus zwei unterschiedlichen [Hyphenarten](<Hyphen "Glossar">), aus Epikutishaaren und wenigen  *„Pseudoprimordialhyphen“*, auch *„nicht inkrustierte Primordialhyphen“* genannt (siehe SARNARI 2005). Während sich die dünnwandigen Epikutishaare dünnwandig in NH3-Kongorot gut anfärben lassen und 2-3 µm breit sind, sind die *„Pseudoprimordialhyphen“* langgliedriger, dickwandiger, starrer und besitzen eine lichtbrechende Wandung. Sie sind etwa 3 - 4 µm dick und färben sich in NH3-Kongorot kaum an. Auf dem nachfolgenden Mikrofoto ist letztere mit einem gelben Pfeil gekennzeichnet. Bei allen anderen Hyphen handelt es sich um Epikutishaare. Direkt im Mikroskop springen die Unterschiede zwischen den beiden Hyphenarten wesentlich deutlicher als auf den Fotos ins Auge!
