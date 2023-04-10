@@ -1,4 +1,4 @@
 ---
 schlagwort: Sporokarp
 ---
-(Mz.: Sporokarpien) - gestielte oder sitzende sporenbildende Einzelfruktifikationen der Schleimpilze (Myxomyzeten)
+(Mz.: Sporokarpien, auch **Sporangien** genannt) - gestielte oder sitzende sporenbildende Einzelfruktifikationen der Schleimpilze (Myxomyzeten)
