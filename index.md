@@ -21,7 +21,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/puccinia_sessile_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-11.04.2023: Wo immer zur Zeit der Bärlauch wächst, ist auf seinen Blättern auch sein persönlicher Rostpilz zu finden, der Bärlauchrost *Puccinia sessilis*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Um ihm optisch etwas abzugewinnen, muss man die rötlichen Flecken mit einer gut vergrößernden Lupe betrachten. Dann erkennt man hübsche Ansammlungen winziger rötlicher Töpfchen. (Dieter Gewalt) 
+11.04.2023: Wo immer zur Zeit der Bärlauch wächst, ist auf seinen Blättern auch sein persönlicher Rostpilz zu finden, der Bärlauchrost *Puccinia sessilis*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Um ihm optisch etwas abzugewinnen, muss man die rötlichen Flecken mit einer gut vergrößernden Lupe betrachten. Dann erkennt man hübsche Ansammlungen winziger Töpfchen. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/puccinia-sessilis-bärlauchrost)
 
