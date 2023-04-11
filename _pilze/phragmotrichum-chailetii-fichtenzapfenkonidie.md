@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: Phragmotrichum chailetii
+  wissenschaftlich: Phragmotrichum chailletii
   deutsch: Fichtenzapfenkonidie
   referenz: Kunze 1823
   familie: Anamorphic Pezizomycotina
