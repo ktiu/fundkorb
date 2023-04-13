@@ -18,6 +18,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
+{% include abbildung_ende.html %}
+
+13.04.2023: Viele glauben, Champignons seien eine Gruppe leicht kenntlicher Pilzarten. Weit gefehlt! Gerade die weißen, von denen es eine Vielzahl gibt, sind oft nur schwer zu bestimmen. Zwei Ausnahmen: Was wir in Supermarktregalen finden, sind zweifelsfrei Zuchtchampignons (Agaricus bisporus). Was in Städten wächst und Asphaltdecken sprengen und Gehwegplatten hochstemmen kann, ist mit ziemlicher Sicherheit der Stadt-Champignon *Agaricus bitorquis* und der ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Ihn erkennt man auch an seinem doppelten nach unten und oben abstehenden Stielring. (Dieter Gewalt)
+
+[Mehr lesen](/pilze/agaricus-bitorquis-stadt-champignon) 
+
+ <div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/melanoleuca_cognata_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ footer_scripts:
 11.04.2023: Wo immer zur Zeit der Bärlauch wächst, ist auf seinen Blättern auch sein persönlicher Rostpilz zu finden, der Bärlauchrost *Puccinia sessilis*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Um ihm optisch etwas abzugewinnen, muss man die rötlichen Flecken mit einer gut vergrößernden Lupe betrachten. Dann erkennt man hübsche Ansammlungen winziger Töpfchen. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/puccinia-sessilis-bärlauchrost)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calocybe_gambosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maipilz *Calocybe gambosa*, der üblicherweise im April erscheint aber nicht unbedingt schon in der ersten Aprilwoche. Es gibt wohl kaum einen anderen Speisepilz, der so konträr beurteilt wird wie dieser. Manche mögen ihn, andere verabscheuen ihn oder finden ihn gar zum Kotzen. Sein aufdringlicher Geruch nach ranzigem Mehl verdirbt schon vielen den Appetit und ich persönlich finde, er schmeckt auch so wie er riecht. Da kommt's wohl auf das Würzen an. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/calocybe-gambosa-maipilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinus_comatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.04.2023: Auch der Schopftintling *Coprinus comatus* ist ein Frühchen. Grund genug, ihn zum aktuellen [Fundkorbpilz](AA "Glossar-") zu erklären. Er gehört zu den wenigen Arten, die von Pilz-Apps auf Anhieb erkannt werden. Und zu denen, die es lohnt, gesammelt zu werden. Als Spargel- oder Suppenpilz oder für die Pfanne ist er bestens geeignet, solange er noch komplett weiß ist. Wenn er anfängt zu zerfließen, kann man ihn nur noch wie schwarze Tinte zum Schreiben verwenden. In England wird er *"Shaggy Mane"* genannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coprinus-comatus-schopftintling)
 
 <div style="clear:  both"></div>
 
