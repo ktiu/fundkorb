@@ -21,7 +21,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
 {% include abbildung_ende.html %}
 
-13.04.2023: Viele glauben, Champignons seien eine Gruppe leicht kenntlicher Pilzarten. Weit gefehlt! Gerade die weißen, von denen es eine Vielzahl gibt, sind oft nur schwer zu bestimmen. Zwei Ausnahmen: Was wir in Supermarktregalen finden, sind zweifelsfrei Zuchtchampignons (Agaricus bisporus). Was in Städten wächst und Asphaltdecken sprengen und Gehwegplatten hochstemmen kann, ist mit ziemlicher Sicherheit der Stadt-Champignon *Agaricus bitorquis* und der ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Ihn erkennt man auch an seinem doppelten nach unten und oben abstehenden Stielring. (Dieter Gewalt)
+13.04.2023: Viele glauben, Champignons seien eine Gruppe leicht kenntlicher Pilzarten. Weit gefehlt! Gerade die weißen, von denen es eine Vielzahl gibt, sind oft nur schwer zu bestimmen. Zwei Ausnahmen: Was wir in Supermarktregalen finden, sind zweifelsfrei Zuchtchampignons ([Agaricus bisporus](/pilze/agaricus-bisporus-zucht-champignon)). Was in Städten wächst und Asphaltdecken sprengen und Gehwegplatten hochstemmen kann, ist mit ziemlicher Sicherheit der Stadt-Champignon *Agaricus bitorquis* und der ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Ihn erkennt man auch an seinem doppelten nach unten und oben abstehenden Stielring. (Dieter Gewalt)
 
 [Mehr lesen](/pilze/agaricus-bitorquis-stadt-champignon) 
 
