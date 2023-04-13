@@ -21,7 +21,7 @@ Wer das Orangerote Brennnesselbecherchen sucht, wird auch anderen auf diesem Sub
 
 auf vorjährigen, trockenen Stängeln:
 
-[Acrospermum compressum](/pilze/acrospermum-compressum-fadenförmiges-flachkeulchen)  =  Fadenförmiges Flachkeulchen\
+[Acrospermum compressum](/pilze/acrospermum-compressum-fadensporiges-flachkeulchen)  =  Fadensporiges Flachkeulchen\
 [Aporhytisma urticae](/pilze/aporhytisma-urticae)\
 [Calyptella capula](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  =  Mützenförmiger Schüsselschwindling\
 [Cyathicula coronata](/pilze/cyathicula-coronata-gekrönter-stängelbecherling)  =  Gekrönter Stängelbecherling\
