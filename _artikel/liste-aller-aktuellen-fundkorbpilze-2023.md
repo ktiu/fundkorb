@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-13.04.2023: [Agaricus bitorquis - Stadt-Champignon](/pilze/agaricus-bitorquis-stadt-champignon)  
+14.04.2023: [Crepidotus mollis - Gallertfleischiges Stummelfüßchen](/pilze/crepidotus-mollis-gallertfleischiges-stummelfüßchen)
+13.04.2023: [Agaricus bitorquis - Stadt-Champignon](/pilze/agaricus-bitorquis-stadt-champignon)\
 12.04.2023: [Melanoleuca cognata - Frühlings-Weichritterling](/pilze/melanoleuca-cognata-frühlings-weichritterling)\
 11.04.2023: [Puccinia sessilis - Bärlauchrost](/pilze/puccinia-sessilis-bärlauchrost)\
 10.04.2023: [Calocybe gambosa - Maipilz](/pilze/calocybe-gambosa-maipilz)\
