@@ -18,6 +18,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/crepidotus_mollis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Gallertfleischige Stummelfüßchen *Crepidotus mollis*. Es ist eine von mehreren an Holz wachsenden Arten mit weißen oder weißlichen Fruchtkörpern und verkümmerten oder fehlenden Stielen, die sich sehr ähneln und nicht leicht voneinander zu unterscheiden sind. Crepidotus mollis ist eine Ausnahme. Zieht man seinen Hut am Rand vorsichtig auseinander, erscheint zwischen den Lamellen ein gelatinöses transparentes Häutchen - ein zuverlässiges Alleinstellungsmerkmal für diese Art. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/crepidotus-mollis-gallertfleischiges-stummelfüßchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ footer_scripts:
 12.04.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") passt perfekt zur Jahreszeit. Der Frühlings-Weichritterling *Melanoleuca cognata* kann aber auch im Herbst erscheinen oder je nach Witterungsverlauf über das gesamte Jahr verteilt. Er gehört zu einer Gattung, die den meisten Pilzsammlern nicht geläufig ist. Im Erscheinungsbild ähnelt er den Dachpilzen, wächst jedoch niemals an Holz. Als Speisepilz ist er durchaus zu empfehlen, vorausgesetzt, man hat ihn sicher erkannt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/melanoleuca-cognata-frühlings-weichritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/puccinia_sessile_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.04.2023: Wo immer zur Zeit der Bärlauch wächst, ist auf seinen Blättern auch sein persönlicher Rostpilz zu finden, der Bärlauchrost *Puccinia sessilis*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Um ihm optisch etwas abzugewinnen, muss man die rötlichen Flecken mit einer gut vergrößernden Lupe betrachten. Dann erkennt man hübsche Ansammlungen winziger Töpfchen. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/puccinia-sessilis-bärlauchrost)
 
 <div style="clear:  both"></div>
 
