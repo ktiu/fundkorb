@@ -5,7 +5,7 @@ beschreibung:
   referenz: "Maas Geest. 1983 "
   familie: Mycenaceae
   erlaeuterung: corynephorus = Silbergras (bezieht sich vermutlich auf die feine
-    Stielbeaarung)
+    Stielbehaarung)
 profil:
   aktualisiert: 2020-08-10
   autor_in: Dieter Gewalt
