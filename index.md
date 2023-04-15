@@ -18,6 +18,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/thelephora_terrestris_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Erdwarzenpilz *Telephora terrestris*. Seine struppige Behaarung und dunkelbraune Farbe erscheinen auf den ersten Blick nicht gerade anziehend, auf den zweiten ist ihm aber eine gewisse Attraktivität nicht abzusprechen. Dazu ist er als [Mykorrhizapartner](Mykorrhiza "Glossar") von Nadelbäumen insbesondere für Baumschulen ein nützlicher Helfer bei der Aufzucht ihrer Schützlinge. Er ist die häufigste unter fünf in Deutschland nachgwiesenen Warzenpilzarten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/thelephora-terrestris-erdwarzenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/morchella_gigas_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
