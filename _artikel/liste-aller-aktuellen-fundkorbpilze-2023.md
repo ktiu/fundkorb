@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2023
 published: true
 ---
-15.04.2023: [Morchella gigas - Käppchenmorchel](/pilze/morchella-gigas-käppchenmorchel)  
+16.04.2023: [Thelephora terrestris - Erdwarzenpilz](/pilze/thelephora-terrestris-erdwarzenpilz)  
+15.04.2023: [Morchella gigas - Käppchenmorchel](/pilze/morchella-gigas-käppchenmorchel)\
 14.04.2023: [Crepidotus mollis - Gallertfleischiges Stummelfüßchen](/pilze/crepidotus-mollis-gallertfleischiges-stummelfüßchen)\
 13.04.2023: [Agaricus bitorquis - Stadt-Champignon](/pilze/agaricus-bitorquis-stadt-champignon)\
 12.04.2023: [Melanoleuca cognata - Frühlings-Weichritterling](/pilze/melanoleuca-cognata-frühlings-weichritterling)\
