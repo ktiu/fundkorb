@@ -18,6 +18,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/morchella_gigas_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.04.2023: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist die Käppchenmorchel *Morchella gigas*. Wir finden sie regelmäßig im NSG Kühkopf, in Dietzenbach am Bachlauf der Bieber und an einem Waldwegrand in der Nähe von Erlen. Wie andere Morcheln ist sie ein gesuchter Seisepilz, hat jedoch nicht so ganz die Qualität von Speise- und Spitzmorcheln. Man erkennt sie daran, dass die Hutkanten nicht mit dem Stiel verwachsen sind, weshalb sie auch *"Halbfreie Morchel"* genannt wird. (Dieter Gewalt
+
+ [Mehr lesen >](/pilze/morchella-gigas-käppchenmorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/crepidotus_mollis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,20 +50,6 @@ footer_scripts:
 [Mehr lesen](/pilze/agaricus-bitorquis-stadt-champignon) 
 
  <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/melanoleuca_cognata_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-12.04.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") passt perfekt zur Jahreszeit. Der Frühlings-Weichritterling *Melanoleuca cognata* kann aber auch im Herbst erscheinen oder je nach Witterungsverlauf über das gesamte Jahr verteilt. Er gehört zu einer Gattung, die den meisten Pilzsammlern nicht geläufig ist. Im Erscheinungsbild ähnelt er den Dachpilzen, wächst jedoch niemals an Holz. Als Speisepilz ist er durchaus zu empfehlen, vorausgesetzt, man hat ihn sicher erkannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/melanoleuca-cognata-frühlings-weichritterling)
-
-<div style="clear:  both"></div>
-
-- - -
 
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
 
