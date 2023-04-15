@@ -3,6 +3,8 @@ title: Pilzberatung / Pilzführungen
 permalink: pilzberatung
 navi: pilzberatung
 ---
+**Offene pilzkundliche Führungen** [\-> Termine](/termine)
+
 **Individuelle Pilzführungen** mit geprüften Sachverständigen können gebucht werden bei:
 
 Dieter Gewalt, Rhein-Main-Gebiet   dgewalt@web.de   Tel.: 0176 - 22953310
