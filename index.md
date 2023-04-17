@@ -12,8 +12,19 @@ footer_scripts:
 
 - - -
 
-**Besuch bei den Ballerina-Pilzen** am 16. April\
 **Wir suchen den Maipilz** am 30. April - [Hier geht's zur Info und Anmeldung >](/termine) 
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_stipata_-01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.04.2023: Es gibt eine ganze Anzahl nitrös oder ähnlich riechender Helmlinge und einer davon ist heute aktueller [Fundkorbpilz](AA "Glossar-"). Es ist der Büschelige Nitrathelmling *Mycena stipata*, der in vielhütigen Büscheln an totem Nadelholz erscheint und in entsprechenden Wäldern ziemlich häufig ist. Wenn die Hutfarbe in etwa mit der unserer abgebildeten Gruppe übereinstimmt, ist zumindest die Wahrscheinlichkeit einer korrekten Bestimmung hoch. Um ganz sicher zu gehen muss mikroskopiert werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-stipata-büscheliger-nitrathelmling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -38,30 +49,6 @@ footer_scripts:
  [Mehr lesen >](/pilze/morchella-gigas-käppchenmorchel)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/crepidotus_mollis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Gallertfleischige Stummelfüßchen *Crepidotus mollis*. Es ist eine von mehreren an Holz wachsenden Arten mit weißen oder weißlichen Fruchtkörpern und verkümmerten oder fehlenden Stielen, die sich sehr ähneln und nicht leicht voneinander zu unterscheiden sind. Crepidotus mollis ist eine Ausnahme. Zieht man seinen Hut am Rand vorsichtig auseinander, erscheint zwischen den Lamellen ein gelatinöses transparentes Häutchen - ein zuverlässiges Alleinstellungsmerkmal für diese Art. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/crepidotus-mollis-gallertfleischiges-stummelfüßchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
-{% include abbildung_ende.html %}
-
-13.04.2023: Viele glauben, Champignons seien eine Gruppe leicht kenntlicher Pilzarten. Weit gefehlt! Gerade die weißen, von denen es eine Vielzahl gibt, sind oft nur schwer zu bestimmen. Zwei Ausnahmen: Was wir in Supermarktregalen finden, sind zweifelsfrei Zuchtchampignons ([Agaricus bisporus](/pilze/agaricus-bisporus-zucht-champignon)). Was in Städten wächst und Asphaltdecken sprengen und Gehwegplatten hochstemmen kann, ist mit ziemlicher Sicherheit der Stadt-Champignon *Agaricus bitorquis* und der ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Ihn erkennt man auch an seinem doppelten nach unten und oben abstehenden Stielring. (Dieter Gewalt)
-
-[Mehr lesen](/pilze/agaricus-bitorquis-stadt-champignon) 
-
- <div style="clear:  both"></div>
 
 - - -
 
