@@ -16,7 +16,9 @@ footer_scripts:
 
 - - -
 
-
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
+{% include abbildung_ende.html %}
 
 18.04.2023: So voreilend ist unser aktueller [Fundkorbpilz](AA "Glossar-") in der zweiten Aprilhälfte eigentlich nicht. Ich hab ihn schon voreilender erlebt, den Voreilenden Ackerling *Agrocybe praecox*. In Dietzenbach ist er zur Zeit an mehreren Stellen präsent. Er gilt als essbar, soll gelegentlich gastrointestinale Beschwerden verursachen, ist aber vom Geschmack so minderwertig, dass man ihn aus der Küche fernhalten sollte. (Dieter Gewalt) 
 
