@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_arcularius_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weitlöcherige Stielporling *Polyporus arcularius*. Er ist zweifellos eine schönsten Arten unter den Stielporlingen, was auf die länglich wabenartigen, mehr oder weniger am Stiel herablaufenden Poren und den zart bewimperten Hutrand zurückzuführen ist. Er gilt als selten, ist im Rhein-Main-Gebiet aber durchaus häufig. Dass die Stielporlinge neuerdings in der Gattung Lentinus (Sägeblättlinge) angesiedelt sind, löst bei den meisten Pilzfreunden Unverständnis aus, denn mit gesägten Lamellen hat ihr [Hymenophor](Hymenophor "Glossar") nicht die geringste Ähnlichkeit. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/polyporus-arcularius-weitlöcheriger-stielporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,30 +47,6 @@ footer_scripts:
 17.04.2023: Es gibt eine ganze Anzahl nitrös oder ähnlich riechender Helmlinge und einer davon ist heute aktueller [Fundkorbpilz](AA "Glossar-"). Es ist der Büschelige Nitrathelmling *Mycena stipata*, der in vielhütigen Büscheln an totem Nadelholz erscheint und in entsprechenden Wäldern ziemlich häufig ist. Wenn die Hutfarbe in etwa mit der unserer abgebildeten Gruppe übereinstimmt, ist zumindest die Wahrscheinlichkeit einer korrekten Bestimmung hoch. Um ganz sicher zu gehen muss mikroskopiert werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycena-stipata-büscheliger-nitrathelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/thelephora_terrestris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Erdwarzenpilz *Telephora terrestris*. Seine struppige Behaarung und dunkelbraune Farbe erscheinen auf den ersten Blick nicht gerade anziehend, auf den zweiten ist ihm aber eine gewisse Attraktivität nicht abzusprechen. Dazu ist er als [Mykorrhizapartner](Mykorrhiza "Glossar") von Nadelbäumen insbesondere für Baumschulen ein nützlicher Helfer bei der Aufzucht ihrer Schützlinge. Er ist die häufigste unter fünf in Deutschland nachgwiesenen Warzenpilzarten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/thelephora-terrestris-erdwarzenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/morchella_gigas_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.04.2023: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist die Käppchenmorchel *Morchella gigas*. Wir finden sie regelmäßig im NSG Kühkopf, in Dietzenbach am Bachlauf der Bieber und an einem Waldwegrand in der Nähe von Erlen. Wie andere Morcheln ist sie ein gesuchter Seisepilz, hat jedoch nicht so ganz die Qualität von Speise- und Spitzmorcheln. Man erkennt sie daran, dass die Hutkanten nicht mit dem Stiel verwachsen sind, weshalb sie auch *"Halbfreie Morchel"* genannt wird. (Dieter Gewalt
-
- [Mehr lesen >](/pilze/morchella-gigas-käppchenmorchel)
 
 <div style="clear:  both"></div>
 
