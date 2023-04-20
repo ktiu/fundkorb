@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lachnellula_occidentalis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.04.2023: Hübsche kleine Haarbecherchen an toten Lärchenzweigen, deren Schönheit erst mit einer gut vegrößernden Lupe zu erkennen ist, sind mit hoher statistischer Wahrscheinlichkeit Lärchen-Haarbecherchen (*Lachnellula occidentalis*) und aktueller [Fundkorbpilz](AA "Glossar-") des Tages. Sie sind sehr häufig und wohl in jedem Lärchenbestand zu finden, sofern es nicht zu trocken ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_arcularius_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 18.04.2023: So voreilend ist unser aktueller [Fundkorbpilz](AA "Glossar-") in der zweiten Aprilhälfte eigentlich nicht. Ich hab ihn schon voreilender erlebt, den Voreilenden Ackerling *Agrocybe praecox*. In Dietzenbach ist er zur Zeit an mehreren Stellen präsent. Er gilt als essbar, soll gelegentlich gastrointestinale Beschwerden verursachen, ist aber vom Geschmack so minderwertig, dass man ihn aus der Küche fernhalten sollte. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/agrocybe-praecox-voreilender-ackerling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_stipata_-01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.04.2023: Es gibt eine ganze Anzahl nitrös oder ähnlich riechender Helmlinge und einer davon ist heute aktueller [Fundkorbpilz](AA "Glossar-"). Es ist der Büschelige Nitrathelmling *Mycena stipata*, der in vielhütigen Büscheln an totem Nadelholz erscheint und in entsprechenden Wäldern ziemlich häufig ist. Wenn die Hutfarbe in etwa mit der unserer abgebildeten Gruppe übereinstimmt, ist zumindest die Wahrscheinlichkeit einer korrekten Bestimmung hoch. Um ganz sicher zu gehen muss mikroskopiert werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-stipata-büscheliger-nitrathelmling)
 
 <div style="clear:  both"></div>
 
