@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-19.04.2023: [Polyporus arcularius - Weitlöcheriger Stielporling](/pilze/polyporus-arcularius-weitlöcheriger-stielporling)  
+20.04.2023: [Lachnellula occidentalis - Lärchen-Haarbecherchen](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)  
+19.04.2023: [Polyporus arcularius - Weitlöcheriger Stielporling](/pilze/polyporus-arcularius-weitlöcheriger-stielporling)\
 18.04.2023: [Agrocybe praecox - Voreilender Ackerling](/pilze/agrocybe-praecox-voreilender-ackerling)\
 17.04.2023: [Mycena stipata - Büscheliger Nitrathelmling](/pilze/mycena-stipata-büscheliger-nitrathelmling)\
 16.04.2023: [Thelephora terrestris - Erdwarzenpilz](/pilze/thelephora-terrestris-erdwarzenpilz)\
