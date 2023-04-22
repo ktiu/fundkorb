@@ -17,36 +17,36 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinellus_micaceus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Glimmertintling *Coprinellus micaceus*. Zu seinen Merkmalen gehört büscheliges Wachstum in Verbindung mit Holz und die glimmerige Hutbekleidung. Diese Eigenschaften weisen auch andere sogenannte "Flockentintlinge" auf, so dass eine sichere  Unterscheidung schwierig ist. Klassischer Doppelgänger ist der seltene Weidentintling, der keinesfalls nur bei Weiden wächst. Der Glimmertintling ist einer der häufigsten Pilze überhaupt und das ganze Jahr über zu finden, in Wäldern ebenso wie außerhalb. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/datronia_mollis_01_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+21.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein recht auffälliger und relativ leicht bestimmbarer Porling, die Großsporige Datronie *Datronia mollis*, die auch Weicher Resupinatporling genannt wird. Zur sicheren Identifizierung müssen drei Merkmale zutreffen: 1. Fruchtkörper flächig bis hütchenbildend an totem Laubholz + 2. Poren relativ groß (1 bis 2 pro mm), grau bis graubraun, irregulär eckig bis labyrinthisch, auch zähnchenartig zerschlitzt + 3. mit Lupe sichtbare schwarze Linie zwischen [Context](Context "Glossar") und [Tomentum](Tomentum "Glossar"). (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lachnellula_occidentalis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 20.04.2023: Hübsche kleine Haarbecherchen an toten Lärchenzweigen, deren Schönheit erst mit einer gut vegrößernden Lupe zu erkennen ist, sind mit hoher statistischer Wahrscheinlichkeit Lärchen-Haarbecherchen (*Lachnellula occidentalis*) und aktueller [Fundkorbpilz](AA "Glossar-") des Tages. Sie sind sehr häufig und wohl in jedem Lärchenbestand zu finden, sofern es nicht zu trocken ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_arcularius_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weitlöcherige Stielporling *Polyporus arcularius*. Er ist zweifellos eine schönsten Arten unter den Stielporlingen, was auf die länglich wabenartigen, mehr oder weniger am Stiel herablaufenden Poren und den zart bewimperten Hutrand zurückzuführen ist. Er gilt als selten, ist im Rhein-Main-Gebiet aber durchaus häufig. Dass die Stielporlinge neuerdings in der Gattung Lentinus (Sägeblättlinge) angesiedelt sind, löst bei den meisten Pilzfreunden Unverständnis aus, denn mit gesägten Lamellen hat ihr [Hymenophor](Hymenophor "Glossar") nicht die geringste Ähnlichkeit. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/polyporus-arcularius-weitlöcheriger-stielporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.04.2023: So voreilend ist unser aktueller [Fundkorbpilz](AA "Glossar-") in der zweiten Aprilhälfte eigentlich nicht. Ich hab ihn schon voreilender erlebt, den Voreilenden Ackerling *Agrocybe praecox*. In Dietzenbach ist er zur Zeit an mehreren Stellen präsent. Er gilt als essbar, soll gelegentlich gastrointestinale Beschwerden verursachen, ist aber vom Geschmack so minderwertig, dass man ihn aus der Küche fernhalten sollte. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/agrocybe-praecox-voreilender-ackerling)
 
 <div style="clear:  both"></div>
 
