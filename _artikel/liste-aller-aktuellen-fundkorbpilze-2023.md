@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-21.04.2023: Datronia mollis - Großsporige Datronie, Weicher Resupinatporling
-20.04.2023: [Lachnellula occidentalis - Lärchen-Haarbecherchen](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)  
+22.04.2023: [Coprinellus micaceus - Glimmertintling](/pilze/coprinellus-micaceus-glimmertintling)  
+21.04.2023: [Datronia mollis - Großsporige Datronie, Weicher Resupinatporling](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)  
+20.04.2023: [Lachnellula occidentalis - Lärchen-Haarbecherchen](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)\
 19.04.2023: [Polyporus arcularius - Weitlöcheriger Stielporling](/pilze/polyporus-arcularius-weitlöcheriger-stielporling)\
 18.04.2023: [Agrocybe praecox - Voreilender Ackerling](/pilze/agrocybe-praecox-voreilender-ackerling)\
 17.04.2023: [Mycena stipata - Büscheliger Nitrathelmling](/pilze/mycena-stipata-büscheliger-nitrathelmling)\
