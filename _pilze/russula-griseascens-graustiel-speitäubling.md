@@ -74,7 +74,7 @@ Das Betupfen der weißen Lamellen mit Eisensulfat ergibt einen deutlichen Rosato
 **Mikromerkmale:**\
 Die Sporen der Funde sind ellipsoid und besitzen ein Ornament aus bis zu 0,7 µm hohen Warzen, die teilnetzig bis netzig miteinander verbunden sind. Das Ornament inklusive [Hilarfleck](Hilarfleck "Glossar") färbt sich in Melzers Reagenz schwarz, d.h. es ist stark amyloid. Die ermittelten Sporenmaße waren 6,9 - 9,1 x 5,5 - 7,2 µm.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_griseascens_08_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/russula_griseascens_09_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Sporen -- Pileozystiden (2 Mikrofotos: Bernd Miggel)" %}
