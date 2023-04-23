@@ -24,7 +24,7 @@ literatur:
 {% include bild.html datei="/bilder/russula_griseascens_02_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-Der Graustiel-Speitäubling *Russula griseascens* ist eine nicht sehr häuftige Art, die in der Roten Liste Pilze Deutschlands (2016) als gefährdet geführt wird. Er gehört als mittelgroße, scharf schmeckende Art mit rotem Hut, weißen Lamellen und in jungem Zustand weißem Stiel in den Verwandschaftskreis des Kirschroten Speitäublings *[Russula emetica](/pilze/russula-emetica-kirschroter-speitäubling)*. Er geht eine [Mykorrhiza](Mykorrhiza "Glossar") mit Birken und Nadelbäumen, insbesondere Kiefern oder Fichten, ein. Er wächst auf sauren Böden, besonders gerne in feuchtem bis nassem Milieu, tief ins Moos eingesenkt, z.B. in Mooren, zwischen Torfmoosen oder Goldenem Frauenhaarmoos.
+Der Graustiel-Speitäubling *Russula griseascens* ist eine nicht sehr häufige Art, die in der Roten Liste Pilze Deutschlands (2016) als gefährdet geführt wird. Er gehört als mittelgroße, scharf schmeckende Art mit rotem Hut, weißen Lamellen und in jungem Zustand weißem Stiel in den Verwandschaftskreis des Kirschroten Speitäublings *[Russula emetica](/pilze/russula-emetica-kirschroter-speitäubling)*. Er geht eine [Mykorrhiza](Mykorrhiza "Glossar") mit Birken und Nadelbäumen, insbesondere Kiefern oder Fichten, ein. Er wächst auf sauren Böden, besonders gerne in feuchtem bis nassem Milieu, tief ins Moos eingesenkt, z.B. in Mooren, zwischen Torfmoosen oder Goldenem Frauenhaarmoos.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_griseascens_03_ar.jpg" nocrop=true gross=true %}
