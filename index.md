@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/entoloma_clypeatum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.04.2023: Zu den typischen Frühjahrspilzen gehört der Schildrötling *Entoloma clypeatum*, unser aktueller [Fundkorbpilz](AA "Glossar-"). In und um Dietzenbach gibt es mehrere standorttreue Vorkommen, unter anderem auf zwei Streuobstwiesen. Hier kann auch mit seinem optisch oft kaum unterscheidbaren Doppelgänger, dem [Schlehenrötling *Entoloma sepium*](/pilze/entoloma-sepium-schlehenrötling), gerechnet werden. Beide sind gute Speisepilze, Pilzsammler sollten jedoch auf der Hut sein. Unter den Rötlingen gibt es etliche giftige. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/entoloma-clypeatum-schildrötling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinellus_micaceus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 21.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein recht auffälliger und relativ leicht bestimmbarer Porling, die Großsporige Datronie *Datronia mollis*, die auch Weicher Resupinatporling genannt wird. Zur sicheren Identifizierung müssen drei Merkmale zutreffen: 1. Fruchtkörper flächig bis hütchenbildend an totem Laubholz + 2. Poren relativ groß (1 bis 2 pro mm), grau bis graubraun, irregulär eckig bis labyrinthisch, auch zähnchenartig zerschlitzt + 3. mit Lupe sichtbare schwarze Linie zwischen [Context](Context "Glossar") und [Tomentum](Tomentum "Glossar"). (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lachnellula_occidentalis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.04.2023: Hübsche kleine Haarbecherchen an toten Lärchenzweigen, deren Schönheit erst mit einer gut vegrößernden Lupe zu erkennen ist, sind mit hoher statistischer Wahrscheinlichkeit Lärchen-Haarbecherchen (*Lachnellula occidentalis*) und aktueller [Fundkorbpilz](AA "Glossar-") des Tages. Sie sind sehr häufig und wohl in jedem Lärchenbestand zu finden, sofern es nicht zu trocken ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)
 
 <div style="clear:  both"></div>
 
