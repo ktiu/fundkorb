@@ -17,6 +17,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agrocybe_dura_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.04.2023: Den aktuellen [Fundkorbpilz](AA "Glossar-") meldet Benedict Vierneisel von der Gärtnerei Bienenweide. In Kleinheubach bei Miltenberg hat er auf Rindenmulch eine Vielzahl ihm unbekannter Pilze gefunden, die nach einer Anfrage bei der Fundkorb-Redaktion als Rissige Ackerlinge (*Agrocybe dura*) erkannt wurden. Wie man sie von den häufigeren Voreilenden Ackerlingen (Agrocybe praecox) unterscheiden kann, [lesen Sie hier >](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling) 
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/entoloma_clypeatum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +45,6 @@ footer_scripts:
 22.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Glimmertintling *Coprinellus micaceus*. Zu seinen Merkmalen gehört büscheliges Wachstum in Verbindung mit Holz und die glimmerige Hutbekleidung. Diese Eigenschaften weisen auch andere sogenannte *"Flockentintlinge"* auf, so dass eine sichere  Unterscheidung schwierig ist. Klassischer Doppelgänger ist der seltene Weidentintling, der keinesfalls nur bei Weiden wächst. Der Glimmertintling ist einer der häufigsten Pilze überhaupt und das ganze Jahr über zu finden, in Wäldern ebenso wie außerhalb. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/coprinellus-micaceus-glimmertintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/datronia_mollis_01_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-21.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein recht auffälliger und relativ leicht bestimmbarer Porling, die Großsporige Datronie *Datronia mollis*, die auch Weicher Resupinatporling genannt wird. Zur sicheren Identifizierung müssen drei Merkmale zutreffen: 1. Fruchtkörper flächig bis hütchenbildend an totem Laubholz + 2. Poren relativ groß (1 bis 2 pro mm), grau bis graubraun, irregulär eckig bis labyrinthisch, auch zähnchenartig zerschlitzt + 3. mit Lupe sichtbare schwarze Linie zwischen [Context](Context "Glossar") und [Tomentum](Tomentum "Glossar"). (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)
 
 <div style="clear:  both"></div>
 
