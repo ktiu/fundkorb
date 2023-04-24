@@ -17,7 +17,7 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agrocybe_dura_01_dg.jpg" %}
+{% include bild.html datei="/bilder/pholiota_aurivella_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 25.04.2023: Gefunden wurde der aktuelle [Fundkorbpilz](AA "Glossar-") an einem Waldwegrand in der Nähe der Grube Messel. Es handelt sich um junge Goldfellschüpplinge (*Pholiota aurivella*), die einen liegenden Stamm auf beträchtlicher Länge besiedelt hatten. Die Fruchtkörper schienen recht klein zu sein, hatten aber immerhin 6 - 7 cm Durchmesser. Insgesamt mögen sie 2 kg gewogen haben. Weil sie so schön und irgendwie lecker aussahen, habe ich einige nach Hause mitgenommen. Sie sollen ja sogar essbar sein, aber ihre schleimigen Hüte sind sicher nicht nach Jedermanns Geschmack (Wolfgang Fedyszin)
