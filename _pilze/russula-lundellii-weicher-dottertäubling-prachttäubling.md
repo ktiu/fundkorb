@@ -53,7 +53,11 @@ Betupft man die weiße Stielhaut mit Eisensulfat, nimmt der Fleck einen Rosaton 
   </table>
 </div>
 
-
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/russula_lundellii_05_bm.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/russula_lundellii_06_bm.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/russula_lundellii_07_bm.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Sporen in Melzers Reagenz -- Epikutishaare in Kongorot -- Pileozystiden in Sulfovanillin" %}
 
 **Mikroskopische Merkmale:**\
 Die **Sporen** der Funde sind rundlich, nicht sehr groß, mit einem aus Warzen bestehenden, bis zu 0,8 µm hohen Ornament, wobei die Warzen teils isoliert stehen, teils jedoch reihig zusammenfließen oder durch feine Linien verbunden sind. Ornament und Hilarfleck sind stark amyloid, d.h. sie färben sich in Melzers Reagenz deutlich schwarz. Die ermittelten Maße sind 6,3 - 7,6 x 5,9 - 6,8 µm.\
