@@ -67,3 +67,7 @@ Die **Huthaut** setzt sich aus zweierlei Elementen zusammen, zum einen aus dünn
 Ein ebenfalls bei Birken in offenem Gelände wachsender, recht groß werdender Täubling ist der [**Verblassende Täubling** (*Russula exalbicans*)](/pilze/russula-exalbicans-verblassender-täubling). Er kann ebenfalls eine rötlich Hutfarbe aufweisen. Im Gegensatz zur hier beschriebenen Art ist er jedoch im Hut festfleischig und seine Lamellen werden höchstens creme bis ockerlich. Außerdem ist der Sporenstaub nur hellocker.\
 Der [**Apfeltäubling** (*Russula paludosa*)](/pilze/russula-paludosa-apfeltäubling) kann ähnlich aussehen. Doch findet man ihn normalerweise auf feuchten, sauren Böden (gerne im Moor). Auch ist es fast mild im Geschmack. Seine Lamellen sind oft rotschneidig, und sein Stiel oft rosa überhaucht.\
 Der [**Orangefarbige Graustieltäubling** (*Russula decolorans*)](/pilze/russula-decolorans-orangeroter-graustieltäubling) kann ebenfalls ähnlich aussehen. Er ist jedoch völlig mild im Geschmack, und sein Fleisch graut meist deutlich.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_lundellii_08_mhk.jpg" %}
+{% include abbildung_ende.html legende="Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V" %}
