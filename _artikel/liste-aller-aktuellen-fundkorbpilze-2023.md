@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-24.04.2023: [Agrocybe dura - Rissiger Ackerling, Weißer Ackerling](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling)  
+25.04.2023: [Pholiota aurivella - Goldfellschüppling](/pilze/pholiota-aurivella-goldfellschüppling)  
+24.04.2023: [Agrocybe dura - Rissiger Ackerling, Weißer Ackerling](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling)\
 23.04.2023: [Entoloma clypeatum - Schildrötling](/pilze/entoloma-clypeatum-schildrötling)\
 22.04.2023: [Coprinellus micaceus - Glimmertintling](/pilze/coprinellus-micaceus-glimmertintling)\
 21.04.2023: [Datronia mollis - Großsporige Datronie, Weicher Resupinatporling](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)\
