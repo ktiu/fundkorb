@@ -11,6 +11,8 @@ profil:
 hauptbild:
   anzeige: false
   datei: /bilder/agaricus_arvensis_04_cc.jpg
+literatur:
+  - text: "German J. Krieglsteiner: Die Großpilze Baden-Württembergs Band 4, S. 498"
 ---
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/agaricus_arvensis_01_nk.jpg" nocrop=true gross=true %}
