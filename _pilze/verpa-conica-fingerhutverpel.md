@@ -7,7 +7,7 @@ beschreibung:
   synonym: "Synonym: verpa digitaliformis  "
   erlaeuterung: conica = kegelig, konisch
 profil:
-  aktualisiert: 2020-08-20
+  aktualisiert: 2023-04-25
   autor_in: Thomas Lehr
 hauptbild:
   anzeige: true
@@ -17,5 +17,4 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/v/Verpa_digitaliformis.html
 ---
-Die Fingerhutverpel mit ihrem schwach runzeligen Hut gehört zu den gut kenntlichen Schlauchpilzen, die im Frühjahr wachsen. Man findet sie – wie auch bei dem hier angezeigten Fund – oft auf besseren, kalkhaltigen Böden zusammen mit dem Aderigen Morchelbecherling Disciotis venosa und der Käppchenmorchel Morchella gigas, wobei die Böden auch einigermaßen stickstoffreich sein können. Verwechslungen wären allenfalls mit der noch wesentlich selteneren Runzelverpel Verpa bohemica möglich, die aber einen viel stärker runzeligen, geradezu morchelartigen Hut und viel größere Sporen hat.
-
+Die Fingerhutverpel mit ihrem schwach runzeligen Hut gehört zu den gut kenntlichen Schlauchpilzen, die im Frühjahr wachsen. Man findet sie – wie auch bei dem hier angezeigten Fund – oft auf besseren, kalkhaltigen Böden zusammen mit dem [Aderigen Morchelbecherling Disciotis venosa](/pilze/disciotis-venosa-morchelbecherling) und der [Käppchenmorchel Morchella gigas](/pilze/morchella-gigas-käppchenmorchel), wobei die Böden auch einigermaßen stickstoffreich sein können. Verwechslungen wären allenfalls mit der noch wesentlich selteneren Runzelverpel Verpa bohemica möglich, die aber einen viel stärker runzeligen, geradezu morchelartigen Hut und viel größere Sporen hat.
