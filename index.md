@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/verpa_conica_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+26.04.2023: Den heutigen [Fundkorbpilz](AA "Glossar-") meldete *Adam Adamovicz* aus der Umgebung von Heusenstamm. Die Fingerhutverpel *Verpa conica* zu finden ist schon etwas Besonderes. Sie gehört zu den Schlauchpilzen, wächst im Frühjahr und bevorzugt bessere Böden. Im Gegensatz zu anderen morchelartigen Pilzen ist ihr Hut nur schwach runzelig.
+
+[Mehr lesen >](/pilze/verpa-conica-fingerhutverpel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pholiota_aurivella_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
