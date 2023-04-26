@@ -13,7 +13,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/pycnoporus_cinnabarinus_01_dg.jpg
 ---
-Es ist allein die rote Farbe, die sie von den Trameten der Gattung *Trametes* unterscheidet. Sie ist sogar in der Lage, das bewachsene Holz rötlich zu färben. Sie ist der einzige europäische Verteter der Gattung *Pycnoporus*, in der es weltweit zwei weitere in den Tropen beheimatete Arten gibt, zum Beispiel *[Pycnoporus sanguineus](/pilze/pycnoporus-sanguineus-blutrote-tramete)*[](/pilze/pycnoporus-sanguineus-blutrote-tramete), die "Blutrote Tramete").
+Es ist allein die rote Farbe, die sie von den Trameten der Gattung *Trametes* unterscheidet. Sie ist sogar in der Lage, das bewachsene Holz rötlich zu färben. Sie ist der einzige europäische Verteter der Gattung *Pycnoporus*, in der es weltweit zwei weitere in den Tropen beheimatete Arten gibt, zum Beispiel *[Pycnoporus sanguineus](/pilze/pycnoporus-sanguineus-blutrote-tramete)*[](/pilze/pycnoporus-sanguineus-blutrote-tramete), die "Blutrote Tramete".
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pycnoporus_cinnabarinus_02_nk.jpg" nocrop=true gross=true %}
