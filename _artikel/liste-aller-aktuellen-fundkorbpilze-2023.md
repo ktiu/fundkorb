@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-27.04.2023: [Pycnoporus cinnabarinus - Zinnobertramete](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)  
+28.04.2023: [Entoloma sepium - Schlehenrötling](/pilze/entoloma-sepium-schlehenrötling)  
+27.04.2023: [Pycnoporus cinnabarinus - Zinnobertramete](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)\
 26.04.2023: [Verpa conica - Fingerhutverpel](/pilze/verpa-conica-fingerhutverpel)\
 25.04.2023: [Pholiota aurivella - Goldfellschüppling](/pilze/pholiota-aurivella-goldfellschüppling)\
 24.04.2023: [Agrocybe dura - Rissiger Ackerling, Weißer Ackerling](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling)\
