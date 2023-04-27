@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pycnoporus_cinnabarinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zinnobertramete *Pycnoporus cinnabarinus*. Es ist allein die rote Farbe, die sie von den Trameten der Gattung Trametes unterscheidet. Sie ist sogar in der Lage, das bewachsene Holz rötlich zu färben und der einzige europäische Verteter dieser Gattung, in der es weltweit zwei weitere in den Tropen beheimatete Arten gibt. *Pycnoporus cinnabarinus* gehört zu den Erstbesiedlern von totem Laubholz, ganz überwiegend Buche. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/verpa_conica_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,28 +47,6 @@ footer_scripts:
 25.04.2023: Gefunden wurde der aktuelle [Fundkorbpilz](AA "Glossar-") an einem Waldwegrand in der Nähe der Grube Messel. Es handelt sich um junge Goldfellschüpplinge (*Pholiota aurivella*), die einen liegenden Stamm auf beträchtlicher Länge besiedelt hatten. Die Fruchtkörper schienen recht klein zu sein, hatten aber immerhin 6 - 7 cm Durchmesser. Insgesamt mögen sie 2 kg gewogen haben. Weil sie so schön und irgendwie lecker aussahen, habe ich einige nach Hause mitgenommen. Sie sollen ja sogar essbar sein, aber ihre schleimigen Hüte sind sicher nicht nach Jedermanns Geschmack (Wolfgang Fedyszin)
 
 [Mehr lesen >](/pilze/pholiota-aurivella-goldfellschüppling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agrocybe_dura_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.04.2023: Den aktuellen [Fundkorbpilz](AA "Glossar-") meldet Benedict Vierneisel von der Gärtnerei Bienenweide. In Kleinheubach bei Miltenberg hat er auf Rindenmulch eine Vielzahl ihm unbekannter Pilze gefunden, die nach einer Anfrage bei der Fundkorb-Redaktion als Rissige Ackerlinge (*Agrocybe dura*) erkannt wurden. Wie man sie von den häufigeren Voreilenden Ackerlingen (Agrocybe praecox) unterscheiden kann, [lesen Sie hier >](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling) 
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/entoloma_clypeatum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.04.2023: Zu den typischen Frühjahrspilzen gehört der Schildrötling *Entoloma clypeatum*, unser aktueller [Fundkorbpilz](AA "Glossar-"). In und um Dietzenbach gibt es mehrere standorttreue Vorkommen, unter anderem auf zwei Streuobstwiesen. Hier kann auch mit seinem optisch oft kaum unterscheidbaren Doppelgänger, dem [Schlehenrötling *Entoloma sepium*](/pilze/entoloma-sepium-schlehenrötling), gerechnet werden. Beide sind gute Speisepilze, Pilzsammler sollten jedoch auf der Hut sein. Unter den Rötlingen gibt es etliche giftige. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/entoloma-clypeatum-schildrötling)
 
 <div style="clear:  both"></div>
 
