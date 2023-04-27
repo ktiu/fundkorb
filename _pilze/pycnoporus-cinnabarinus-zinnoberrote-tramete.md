@@ -21,3 +21,7 @@ Es ist allein die rote Farbe, die sie von den Trameten der Gattung *Trametes* un
 {% include abbildung_ende.html legende="2 Fotos: Norbert Kühnberger" %}
 
 Unsere heimische Zinnoberrote Tramete ist eine häufige, in Laubwäldern verbreitete Art. Ihr mit Abstand bevorzugter Wirt ist die Buche. Sie gehört zu den Erstbesiedlern an Totholz, in dem sie eine Weißfäule verursacht.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/pycnoporus_cinnabarinus_04_fk.jpg" %}
+{% include abbildung_ende.html legende="Am 5. Dezember 2012 fand Frank Kaster in der Nähe des Friedhofs Frankfurt-Oberrad dieses beeindruckende Vorkommen der Zinnobertramete an einem stark geschädigten Kirschbaum" %}
