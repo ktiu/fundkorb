@@ -2,7 +2,7 @@
 aktivitaet: Wir suchen den Maipilz im April
 zeit: 2023-04-30T10:00:53.054Z
 bis: ""
-anmeldung_offen: true
+anmeldung_offen: false
 anmeldung_noetig: false
 published: true
 bilder:
@@ -12,3 +12,4 @@ Diese pilzkundliche Frühjahrsexkursion hat bereits eine lange Tradition und ist
 
 Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Unser Treffpunkt wird mit der Teilnahmebestätigung mitgeteilt.
 
+**Dieser Termin ist leider ausgebucht**
