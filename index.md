@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/entoloma_sepium_07_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-28.04.2023: Zu den typischen Frühjahrspilzen gehört der Schlehenrötling *Entoloma sepium*, unser aktueller [Fundkorbpilz](AA "Glossar-"). In und um Dietzenbach gibt es mehrere standorttreue Vorkommen, unter anderem auf zwei Streuobstwiesen. Hier kann auch mit seinem optisch oft kaum unterscheidbaren Doppelgänger, dem Schildrötling *Entoloma clypeatum*, gerechnet werden. Beide sind gute Speisepilze. Um sie sicher auseinanderzuhalten, sollte man etwas Kalilauge für einen Farbtest dabei haben. Wie das funktioniert, [erfahren Sie hier >](/pilze/entoloma-sepium-schlehenrötling) <div style="clear:  both"></div>
+28.04.2023: Zu den typischen Frühjahrspilzen gehört der Schlehenrötling *Entoloma sepium*, unser aktueller [Fundkorbpilz](AA "Glossar-"). In und um Dietzenbach gibt es mehrere standorttreue Vorkommen, unter anderem auf zwei Streuobstwiesen. Hier kann auch mit seinem optisch oft kaum unterscheidbaren Doppelgänger, dem [Schildrötling *Entoloma clypeatum*](/pilze/entoloma-clypeatum-schildrötling), gerechnet werden. Beide sind gute Speisepilze. Um sie sicher auseinanderzuhalten, sollte man etwas *Guajaktinktur* für einen Farbtest dabei haben. Wie das funktioniert, [erfahren Sie hier >](/pilze/entoloma-sepium-schlehenrötling) <div style="clear:  both"></div>
 
 - - -
 
