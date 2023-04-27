@@ -38,7 +38,7 @@ So entwickelt sich der Fruchtkörper des Zedern-Sandborstlings:
 
 Anmerkungen zu weiteren Funden:  
 
-Im Frankfurter Hauptfriedhof stehen zahlreiche Zedern in einer langen Reihe entlang der südlichen Grenzmauer. Dieses Vorkommen, auf das mich *Dr. Ulrich van Schoor* aufmerksam gemacht hat, ist als „Zedernallee“ bekannt. Es handelt sich um noch recht junge Bäume und nur bei wenigen fanden sich bei einem ersten Besuch am 23.03.2019 seine unauffälligen Begleitpilze, die beim ersten Rundgang übersehen wurden.
+Im Frankfurter Hauptfriedhof stehen zahlreiche Zedern in einer langen Reihe entlang der südlichen Grenzmauer. Dieses Vorkommen, auf das mich *Dr. Ulrich van Schoor* aufmerksam gemacht hat, ist als „Zedernallee“ bekannt. Es handelt sich um noch recht junge Bäume und nur bei wenigen fanden sich bei einem ersten Besuch am 23.03.2019 seine unauffälligen Begleitpilze, die beim ersten Rundgang übersehen wurden. In unserer Verbreitungskarte ist auch ein Fund von *Fr. Schermek* vom 29.04.2012 in Egelsbach (Ringelnatzstraße, TK 6018.1.3) eingetragen. Am 26.04.2023 meldete *Heike Weidmann* einen weiteren Fund im Schulgarten der Marienschule in Offenbach.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/geopora_sumneriana_02_dg.jpg" %}
