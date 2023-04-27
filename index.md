@@ -17,6 +17,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/entoloma_sepium_07_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.04.2023: Zu den typischen Frühjahrspilzen gehört der Schlehenrötling *Entoloma sepium*, unser aktueller [Fundkorbpilz](AA "Glossar-"). In und um Dietzenbach gibt es mehrere standorttreue Vorkommen, unter anderem auf zwei Streuobstwiesen. Hier kann auch mit seinem optisch oft kaum unterscheidbaren Doppelgänger, dem Schildrötling *Entoloma clypeatum*, gerechnet werden. Beide sind gute Speisepilze. Um sie sicher auseinanderzuhalten, sollte man etwas Kalilauge für einen Farbtest dabei haben. Wie das funktioniert, [erfahren Sie hier >](/pilze/entoloma-sepium-schlehenrötling) <div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pycnoporus_cinnabarinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +43,6 @@ footer_scripts:
 26.04.2023: Den heutigen [Fundkorbpilz](AA "Glossar-") meldete *Adam Adamovicz* aus der Umgebung von Heusenstamm. Die Fingerhutverpel *Verpa conica* zu finden ist schon etwas Besonderes. Sie gehört zu den Schlauchpilzen, wächst im Frühjahr und bevorzugt bessere Böden. Im Gegensatz zu anderen morchelartigen Pilzen ist ihr Hut nur schwach runzelig.
 
 [Mehr lesen >](/pilze/verpa-conica-fingerhutverpel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pholiota_aurivella_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.04.2023: Gefunden wurde der aktuelle [Fundkorbpilz](AA "Glossar-") an einem Waldwegrand in der Nähe der Grube Messel. Es handelt sich um junge Goldfellschüpplinge (*Pholiota aurivella*), die einen liegenden Stamm auf beträchtlicher Länge besiedelt hatten. Die Fruchtkörper schienen recht klein zu sein, hatten aber immerhin 6 - 7 cm Durchmesser. Insgesamt mögen sie 2 kg gewogen haben. Weil sie so schön und irgendwie lecker aussahen, habe ich einige nach Hause mitgenommen. Sie sollen ja sogar essbar sein, aber ihre schleimigen Hüte sind sicher nicht nach Jedermanns Geschmack (Wolfgang Fedyszin)
-
-[Mehr lesen >](/pilze/pholiota-aurivella-goldfellschüppling)
 
 <div style="clear:  both"></div>
 
