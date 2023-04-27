@@ -6,7 +6,7 @@ beschreibung:
   erlaeuterung: primus = der Erste
   familie: Pluteaceae
 profil:
-  aktualisiert: 2022-09-22
+  aktualisiert: 2023-04-27
   autor_in: Dieter Gewalt & Bernd Miggel
 hauptbild:
   anzeige: true
@@ -16,7 +16,7 @@ literatur:
   - text: "BREITENBACH, J. & KRÄNZLIN F. (1995): Pilze der Schweiz Bd. 4: Nr. 122 -
       Verlag Mykologia, Luzern"
 ---
-der  Sein deutscher Name verrät schon etwas über ihn. Er erscheint bereits früh im Jahr. Funde von braunhütigen Dachpilzen im Frühjahr müssen allerding nicht unbedingt Voreilende Dachpilze sein und diese können auch noch im Herbst erscheinen. Braunhütige Dachpilze müssen also sorgfältig unter Berücksichtigung nicht ganz unkomplizierter Kriterien bestimmt werden. Um den häufigen [Rehbraunen Dachpilz *Pluteus cervinus*](/pilze/pluteus-cervinus-rehbrauner-dachpilz) von seinen Doppelgängern 100%-ig sicher zu unterscheiden ist Mikroskopieren unerlässlich.
+Sein deutscher Name verrät schon etwas über ihn. Er erscheint bereits früh im Jahr. Funde von braunhütigen Dachpilzen im Frühjahr müssen allerding nicht unbedingt Voreilende Dachpilze sein und diese können auch noch im Herbst erscheinen. Braunhütige Dachpilze müssen also sorgfältig unter Berücksichtigung nicht ganz unkomplizierter Kriterien bestimmt werden. Um den häufigen [Rehbraunen Dachpilz *Pluteus cervinus*](/pilze/pluteus-cervinus-rehbrauner-dachpilz) von seinen Doppelgängern 100%-ig sicher zu unterscheiden ist Mikroskopieren unerlässlich.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/pluteus_primus_02_rm.jpg" %}
@@ -54,7 +54,7 @@ Die nachfolgende Tabelle zeigt die für eine Unterscheidung relevanten Merkmale 
         <td>keine</td>        
       </tr>
       <tr>
-        <th>Pluteus pozarianus<br />Nadelholzdachpilz</th>
+        <th>Pluteus pouzarianus<br />Nadelholzdachpilz</th>
         <td>an Nadelholz</td>
         <td>glatt</td>
         <td>geruchlos</td>
