@@ -24,4 +24,4 @@ Unsere heimische Zinnoberrote Tramete ist eine häufige, in Laubwäldern verbrei
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/pycnoporus_cinnabarinus_04_fk.jpg" %}
-{% include abbildung_ende.html legende="Am 5. Dezember 2012 fand Frank Kaster in der Nähe des Friedhofs Frankfurt-Oberrad dieses beeindruckende Vorkommen der Zinnobertramete an einem stark geschädigten Kirschbaum" %}
+{% include abbildung_ende.html legende="Am 5. Dezember 2012 fand Frank Kaster in der Nähe von Neu-Anspach (Taunus)dieses beeindruckende Vorkommen der Zinnobertramete an einem stark geschädigten Kirschbaum" %}
