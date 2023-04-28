@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinopsis_atramentaria_01_km.jpg" %}
+{% include abbildung_ende.html %}
+
+29.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der häufige Faltentintling *Coprinopsis atramentaria*. Er wächst zur Zeit gleich an mehreren Stellen in Dietzenbach. Manche Büschel sind gerade erst an der Oberfläche erschienen, andere zerfließen schon zu schwarzer Tinte. An ihren aschgrauen, faltig längsgestreiften Hüten sind sie gut zu erkennen. Ganz jung sind sie eiförmig, im Alter können die größten Exemplare bis zu 20 cm hoch werden.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/coprinopsis-atramentaria-faltentintling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/entoloma_sepium_07_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 27.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zinnobertramete *Pycnoporus cinnabarinus*. Es ist allein die rote Farbe, die sie von den Trameten der Gattung Trametes unterscheidet. Sie ist sogar in der Lage, das bewachsene Holz rötlich zu färben und der einzige europäische Verteter dieser Gattung, in der es weltweit zwei weitere in den Tropen beheimatete Arten gibt. *Pycnoporus cinnabarinus* gehört zu den Erstbesiedlern von totem Laubholz, ganz überwiegend Buche. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/verpa_conica_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-26.04.2023: Den heutigen [Fundkorbpilz](AA "Glossar-") meldete *Adam Adamovicz* aus der Umgebung von Heusenstamm. Die Fingerhutverpel *Verpa conica* zu finden ist schon etwas Besonderes. Sie gehört zu den Schlauchpilzen, wächst im Frühjahr und bevorzugt bessere Böden. Im Gegensatz zu anderen morchelartigen Pilzen ist ihr Hut nur schwach runzelig.
-
-[Mehr lesen >](/pilze/verpa-conica-fingerhutverpel)
 
 <div style="clear:  both"></div>
 
