@@ -7,7 +7,7 @@ beschreibung:
   synonym: "Synonym: Trametes cinnabarina"
   erlaeuterung: cinnabarinus = zinnoberrot
 profil:
-  aktualisiert: 2022-01-07
+  aktualisiert: 2023-04-28
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
