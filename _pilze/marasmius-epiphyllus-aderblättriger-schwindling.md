@@ -34,4 +34,4 @@ Für die Bestimmung kleiner weißer Schwindlingsarten können ökologische Aspek
 **[Marasmius epiphylloides](/pilze/marasmius-epiphylloides-efeublatt-schwindling)** auf Efeublättern\
 **Marasmius setosus** auf Blättern und Blattstielen von Eiche und Buche\
 **[Marasmius limosus](/pilze/marasmius-limosus-schilf-schwindling)** (mit [Kollar](Kollar "Glossar")!) an Schilf\
-**Marasmius rotula** (Halsband-Schwindling) ist eine etwas größere Art mit Hutdurchmessern bis 1,5 cm und hat zwischen 16 und 22 Lamellen, die zu einem Kollar zusammengewachsen sind; Vorkommen an toten am Boden liegenden Ästchen und Zweigen
+**[Marasmius rotula](/pilze/marasmius-rotula-halsbandschwindling)** (Halsband-Schwindling) ist eine etwas größere Art mit Hutdurchmessern bis 1,5 cm und hat zwischen 16 und 22 Lamellen, die zu einem Kollar zusammengewachsen sind; Vorkommen an toten am Boden liegenden Ästchen und Zweigen
