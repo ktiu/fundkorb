@@ -9,9 +9,9 @@ profil:
   aktualisiert: 2023-04-25
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: false
+  anzeige: true
   datei: /bilder/agaricus_arvensis_05_hs.jpg
-  legende: "      3 Fotos: Norbert Kühnberger"
+  legende: "      Foto: Hans Stern"
 literatur:
   - text: "German J. Krieglsteiner: Die Großpilze Baden-Württembergs Band 4, S. 498"
 ---
