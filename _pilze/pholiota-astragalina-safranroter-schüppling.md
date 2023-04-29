@@ -35,6 +35,6 @@ Da er Nadelholzstümpfe in fortgeschrittenem Verrottungsstadium bevorzugt, ist s
 Kurzbeschreibung:\
 Hut: jung halbkugelig, dann verflachend und am Rand wellig, safrangelb bis orangerot, im Alter verblassend, Durchmesser 3 - 6 cm\
 Lamellen: schmal, eng stehend, jung blass ockergelb, durch ausfallendes Sporenpulver roströtlich verfärbend\
-Fleisch: gelblich, am Rand dunkler, alt und bei Verletzung schwärzend, Geruch unauffällig, Geschmack bitter\
+Fleisch: gelblich, am Rand dunkler, alt und bei Verletzung schwärzend, Geruch deutlich nach Jod, Geschmack bitter\
 Stiel: schlank, bis 10 cm lang, vor allem jung im unteren Bereich schuppig genattert\
 Sporenpulver: rostbraun; Sporen elliptisch, bohnenförmig, glatt, 6 - 8 x 3,5 - 5 µm
