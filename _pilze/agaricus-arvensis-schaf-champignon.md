@@ -6,7 +6,7 @@ beschreibung:
   familie: Agaricaceae
   erlaeuterung: arvensis = auf Äckern
 profil:
-  aktualisiert: 2023-04-25
+  aktualisiert: 2023-04-29
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
