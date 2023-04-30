@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cyathus_striatus_-vj.-_07_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gestreifte Teuerling *Cyathus striatus*. Sie sehen aus wie struppige Tütchen, die anfangs mit einem hellen Häutchen verschlossen sind, das bald aufreißt und den Blick ins Innere freigibt. Darin liegen winzige münzenförmige Gebilde, in denen der Pilz, der gar nicht wie ein Pilz aussieht, seine Sporen bildet. Sind es wenige Münzen, stehen teure Zeiten an. Sind es viele, leiden wir keinen Mangel. Deshalb heißen die Tütchen auch Teuerlinge. Sollten gar keine in den Tütchen sein, handelt es sich um alte Fruchtkörper aus dem vergangenen Jahr, die den Winter unbeschadet überstanden haben. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cyathus-striatus-gestreifter-teuerling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinopsis_atramentaria_01_km.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 28.04.2023: Zu den typischen Frühjahrspilzen gehört der Schlehenrötling *Entoloma sepium*, unser aktueller [Fundkorbpilz](AA "Glossar-"). In und um Dietzenbach gibt es mehrere standorttreue Vorkommen, unter anderem auf zwei Streuobstwiesen. Hier kann auch mit seinem optisch oft kaum unterscheidbaren Doppelgänger, dem [Schildrötling *Entoloma clypeatum*](/pilze/entoloma-clypeatum-schildrötling), gerechnet werden. Beide sind gute Speisepilze. Um sie sicher auseinanderzuhalten, sollte man etwas *Guajaktinktur* für einen Farbtest dabei haben. Wie das funktioniert, [erfahren Sie hier >](/pilze/entoloma-sepium-schlehenrötling) <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pycnoporus_cinnabarinus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zinnobertramete *Pycnoporus cinnabarinus*. Es ist allein die rote Farbe, die sie von den Trameten der Gattung Trametes unterscheidet. Sie ist sogar in der Lage, das bewachsene Holz rötlich zu färben und der einzige europäische Verteter dieser Gattung, in der es weltweit zwei weitere in den Tropen beheimatete Arten gibt. *Pycnoporus cinnabarinus* gehört zu den Erstbesiedlern von totem Laubholz, ganz überwiegend Buche. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)
-
-<div style="clear:  both"></div>
 
 - - -
 
