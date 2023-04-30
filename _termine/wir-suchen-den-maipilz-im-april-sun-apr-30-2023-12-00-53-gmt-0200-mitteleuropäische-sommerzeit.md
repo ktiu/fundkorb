@@ -15,7 +15,7 @@ Bei dieser tradionellen Frühjahrswanderung hat uns der [Maipilz (Calocybe gambo
 [Frühlings-Glockenschüppling Conocybe aporos](/pilze/conocybe-aporos-frühlings-glockenschüppling)\
 [Glimmertintling Coprinellus micaceus](/pilze/coprinellus-micaceus-glimmertintling)\
 [Getigerter Knäueling Lentinus tigrinus](/pilze/lentinus-tigrinus-getigerter-knäueling)\
-[Borstiger Knäueling Lentinus strigosus](/pilze/lentinus-strigosus-borstiger-knäueling)
+[Borstiger Knäueling Lentinus strigosus](/pilze/lentinus-strigosus-borstiger-knäueling)\
 [Maiporling Polyporus ciliatus](/pilze/polyporus-ciliatus-maiporling)\
 [Rehbrauner Dachpilz Pluteus cervinus](/pilze/pluteus-cervinus-rehbrauner-dachpilz)\
 Riesenbecherling Peziza varia\
