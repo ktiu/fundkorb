@@ -12,9 +12,9 @@ bilder:
 
 Bei dieser tradionellen Frühjahrswanderung hat uns der [Maipilz (Calocybe gambosa)](/pilze/calocybe-gambosa-maipilz) noch nie im Stich gelassen. Er war auch in diesem Jahr reichlich vorhanden, im Dietzenbacher Hessentagspark mit nur wenigen Exemplaren, am nahen Wollwiesenteich dagegen umso üppiger. Genug, um allen Teilnehmern Gelegenheit zu geben, diesen im Geschmackswert höchst umstrittenen Pilz in der eigenen Küche zu erproben. Wir fanden auch etliche andere Frühjahrspilze, von denen hier einige aufgeführt sind:
 
-[Frühlings-Glockenschüppling Conocybe aporos](/pilze/conocybe-aporos-frühlings-glockenschüppling)  
-[Glimmertintling Coprinellus micaceus](/pilze/coprinellus-micaceus-glimmertintling)  
-Getigerter Knäueling Lentinus tigrinus](/pilze/lentinus-tigrinus-getigerter-knäueling)
+[Frühlings-Glockenschüppling Conocybe aporos](/pilze/conocybe-aporos-frühlings-glockenschüppling)\
+[Glimmertintling Coprinellus micaceus](/pilze/coprinellus-micaceus-glimmertintling)\
+[Getigerter Knäueling Lentinus tigrinus](/pilze/lentinus-tigrinus-getigerter-knäueling)
 [Borstiger Knäueling Lentinus strigosus](/pilze/lentinus-strigosus-borstiger-knäueling)
 [Maiporling Polyporus ciliatus](/pilze/lentinus-strigosus-borstiger-knäueling)
 [Rehbrauner Dachpilz Pluteus cervinus](/pilze/pluteus-cervinus-rehbrauner-dachpilz)
