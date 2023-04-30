@@ -14,11 +14,11 @@ Bei dieser tradionellen Frühjahrswanderung hat uns der [Maipilz (Calocybe gambo
 
 [Frühlings-Glockenschüppling Conocybe aporos](/pilze/conocybe-aporos-frühlings-glockenschüppling)\
 [Glimmertintling Coprinellus micaceus](/pilze/coprinellus-micaceus-glimmertintling)\
-[Getigerter Knäueling Lentinus tigrinus](/pilze/lentinus-tigrinus-getigerter-knäueling)  
-Borstiger Knäueling Lentinus strigosus](/pilze/lentinus-strigosus-borstiger-knäueling)  
-Maiporling Polyporus ciliatus](/pilze/lentinus-strigosus-borstiger-knäueling)  
-[Rehbrauner Dachpilz Pluteus cervinus](/pilze/pluteus-cervinus-rehbrauner-dachpilz)  
-Riesenbecherling Peziza varia  
+[Getigerter Knäueling Lentinus tigrinus](/pilze/lentinus-tigrinus-getigerter-knäueling)\
+[Borstiger Knäueling Lentinus strigosus](/pilze/lentinus-strigosus-borstiger-knäueling)
+[Maiporling Polyporus ciliatus](/pilze/polyporus-ciliatus-maiporling)\
+[Rehbrauner Dachpilz Pluteus cervinus](/pilze/pluteus-cervinus-rehbrauner-dachpilz)\
+Riesenbecherling Peziza varia\
 [Ampfer-Rost Ramularia rubella](/pilze/ramularia-rubella-ampfer-rost)
 
 Außerdem hat uns *Brigitte Koch* einen Fund aus ihrem Garten mitgebracht und gezeigt, die [Frühjahrslorchel Gyromitra esculenta](/pilze/gyromitra-esculenta-frühjahrslorchel). Über diesen [delikaten Giftpilz](/artikel/ein-delikater-giftpilz.html) sollten Pilzfreunde sehr genau Bescheid wissen.
