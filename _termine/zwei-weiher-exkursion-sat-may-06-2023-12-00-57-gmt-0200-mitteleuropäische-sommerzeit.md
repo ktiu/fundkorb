@@ -5,6 +5,8 @@ bis: ""
 anmeldung_offen: true
 anmeldung_noetig: false
 published: true
+bilder:
+  - /bilder/buchrainweiher_01_dg.jpg
 ---
 Pilz- und naturkundliche Wanderung am Maunzen- und Buchrainweiher bei Offenbach
 
