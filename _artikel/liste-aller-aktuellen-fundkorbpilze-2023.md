@@ -3,7 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-30.04.2023: [Cyathus striatus - Gestreifter Teuerling](/pilze/cyathus-striatus-gestreifter-teuerling)  
+01.05.2023: [Polyporus ciliatus - Maiporling](/pilze/polyporus-ciliatus-maiporling)
+
+30.04.2023: [Cyathus striatus - Gestreifter Teuerling](/pilze/cyathus-striatus-gestreifter-teuerling)\
 29.04.2023: [Coprinopsis atramentaria - Faltenschirmling](/pilze/coprinopsis-atramentaria-faltentintling)\
 28.04.2023: [Entoloma sepium - Schlehenrötling](/pilze/entoloma-sepium-schlehenrötling)\
 27.04.2023: [Pycnoporus cinnabarinus - Zinnobertramete](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)\
