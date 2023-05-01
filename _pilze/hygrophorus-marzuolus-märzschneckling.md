@@ -27,10 +27,10 @@ literatur:
 Wer den Märzschneckling finden will, sollte im Frühjahr artenreiche Bergmischwälder aufsuchen. So ist es bei *Wikipedia* zu lesen. Der [Mykorrhizapilz](<Mykorrhiza "Glossar">)  erscheint schon früh im Jahr, was unschwer am Namen zu erkennen ist. Wobei er durchaus auch noch Ende April zu finden ist. Häufigster Baumpartner ist die Weißtanne. Er zählt zu den wohlschmeckenden Speisepilzen, was jedoch wegen seiner Seltenheit kaum von Bedeutung ist. Er ist streng geschützt, das Sammeln in Deutschland verboten. *German J. Krieglsteiner* schreibt dazu: 
 
 > Die meisten Bestände gingen ab Mitte der 70er-Jahre infolge saurer Niederschläge exorbitant zurück. Gegen 1987 wurde er selbst an Fundstellen, wo der Pilz früher zuverlässig und üppig fruktifiziert hatte, kaum noch angetroffen, so dass das baldige Erlöschen zu befürchten war."
->
-> {% include abbildung_start.html stil="standard" %}
-> {% include bild.html datei="/bilder/hygrophorus_marzuolus_03_hml.jpg" %}
-> {% include abbildung_ende.html legende="Foto: Helmut Lamparter" %}
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/hygrophorus_marzuolus_03_hml.jpg" %}
+{% include abbildung_ende.html legende="Foto: Helmut Lamparter" %}
 
 Makroskopische Kurzbeschreibung:\
 Mittelgroßer Pilz (unsere Funde hatten Hüte bis ca. 10 cm Durchmesser und oft verbogene Fruchtkörper), einzeln oder büschelig wachsend.\
