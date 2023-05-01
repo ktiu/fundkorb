@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/polyporus_ciliatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-01.05.2023: Passend zum heutigen Datum ist der Maiporling *Polyporus ciliatus* aktueller [Fundkorbpilz](AA "Glossar-"). An seinen sehr feinen, mit bloßem Auge kaum erkennbaren Poren ist er gut vom Winterporling zu unterscheiden, dessen Vegetationsperiode nun allmählich zu Ende geht, während die des Maiporlings gerade begonnen hat. Wie die meisten Stielporlinge sind die Fruchtkörper auch dieser beiden Arten knorpelig zäh und für die Küche ungeeignet. (Dieter Gewalt)
+01.05.2023: Passend zum heutigen Datum ist der Maiporling *Polyporus ciliatus* aktueller [Fundkorbpilz](AA "Glossar-"). An seinen sehr feinen, mit bloßem Auge kaum erkennbaren Poren ist er gut vom [Winterporling](/pilze/polyporus-brumalis-winterporling) zu unterscheiden, dessen Vegetationsperiode nun allmählich zu Ende geht, während die des Maiporlings gerade begonnen hat. Wie die meisten Stielporlinge sind die Fruchtkörper auch dieser beiden Arten knorpelig zäh und für die Küche ungeeignet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/polyporus-ciliatus-maiporling)
 
