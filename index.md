@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-**Wir suchen den Maipilz** am 30. April - [Hier geht's zur Info und Anmeldung >](/termine) 
+**Zwei-Weiher-Exkursion** am 6. Mai - [Hier geht's zur Info und Anmeldung >](/termine) 
 
 - - -
 
