@@ -1,8 +1,7 @@
 ---
-title: Fundkorbküche
+title: "-"
 navi: /rezepte
 regenerate: true
 permalink: rezepte
 ---
-
-{% include rezeptliste.html %}
+\-
