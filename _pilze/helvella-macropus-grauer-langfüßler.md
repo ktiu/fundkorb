@@ -20,7 +20,7 @@ literatur:
 {% include bild.html datei="/bilder/helvella_macropus_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Die Fruchtkörper des Grauen Langfüßlers sind in allen Teilen grau gefärbt, selten graubraun, etwa 3 - 7 cm hoch und bis auf die [fertile](<fertil "Glossar">) Innenseite des becher- oder schalenförmigen Hutes flockig-filzig. Der Stiel kann manchmal etwas grubig sein. [Saprobiont](<saprobiontisch "Glossar">) in Laub- und Mischwäldern. Wir finden ihn immer wieder im Ansfeldwald bei Roteichen. 
+Die Fruchtkörper des Grauen Langfüßlers sind in allen Teilen grau gefärbt, selten graubraun, etwa 3 - 7 cm hoch und bis auf die [fertile](fertil "Glossar") Innenseite des becher- oder schalenförmigen Hutes flockig-filzig. Der Stiel kann manchmal etwas grubig sein. [Saprobiont](saprobiontisch "Glossar") in Laub- und Mischwäldern. Wir finden ihn immer wieder im Ansfeldwald bei Roteichen. 
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/helvella_macropus_03_dg.jpg" %}
