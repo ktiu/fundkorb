@@ -16,13 +16,13 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/conocybe_aporos_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 02.05.2023: Den aktuellen [Fundkorbpilz](AA "Glossar-") haben wir bei unserer Maipilz-Exkursion am Dietzenbacher Wollwiesenteich gefunden. Es ist der Frühlings-Glockenschüppling *Conocybe aporos*, der hier seit Jahren schon ab März und bis Juni zu finden ist. Unter den Arten mit beringtem Stiel gibt es nur eine, deren Sporen keinen Keimporus besitzen. Der Pilz ist also leicht von ähnlichen Arten zu trennen – man muss nur mikroskopieren! Einen gewissen Verdachtsmoment liefert die frühe Erscheinungszeit und die Tatsache, dass er Wegränder, Parkanlagen, offene und grasige Stellen sowie stickstoffreiche Plätze unter Kräutern bevorzugt. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/conocybe-aporos-frühlings-glockenschüppling)
 
 <div style="clear:  both"></div>
 
