@@ -16,6 +16,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/conocybe_aporos_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.05.2023: Den aktuellen [Fundkorbpilz](AA "Glossar-") haben wir bei unserer Maipilz-Exkursion am Dietzenbacher Wollwiesenteich gefunden. Es ist der Frühlings-Glockenschüppling *Conocybe aporos*, der hier seit Jahren schon ab März und bis Juni zu finden ist. Unter den Arten mit beringtem Stiel gibt es nur eine, deren Sporen keinen Keimporus besitzen. Der Pilz ist also leicht von ähnlichen Arten zu trennen – man muss nur mikroskopieren! Einen gewissen Verdachtsmoment liefert die frühe Erscheinungszeit und die Tatsache, dass er Wegränder, Parkanlagen, offene und grasige Stellen sowie stickstoffreiche Plätze unter Kräutern bevorzugt. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_ciliatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -37,26 +49,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/cyathus-striatus-gestreifter-teuerling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinopsis_atramentaria_01_km.jpg" %}
-{% include abbildung_ende.html %}
-
-29.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der häufige Faltentintling *Coprinopsis atramentaria*. Er wächst zur Zeit gleich an mehreren Stellen in Dietzenbach. Manche Büschel sind gerade erst an der Oberfläche erschienen, andere zerfließen schon zu schwarzer Tinte. An ihren aschgrauen, faltig längsgestreiften Hüten sind sie gut zu erkennen. Ganz jung sind sie eiförmig, im Alter können die größten Exemplare bis zu 20 cm hoch werden.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coprinopsis-atramentaria-faltentintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/entoloma_sepium_07_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.04.2023: Zu den typischen Frühjahrspilzen gehört der Schlehenrötling *Entoloma sepium*, unser aktueller [Fundkorbpilz](AA "Glossar-"). In und um Dietzenbach gibt es mehrere standorttreue Vorkommen, unter anderem auf zwei Streuobstwiesen. Hier kann auch mit seinem optisch oft kaum unterscheidbaren Doppelgänger, dem [Schildrötling *Entoloma clypeatum*](/pilze/entoloma-clypeatum-schildrötling), gerechnet werden. Beide sind gute Speisepilze. Um sie sicher auseinanderzuhalten, sollte man etwas *Guajaktinktur* für einen Farbtest dabei haben. Wie das funktioniert, [erfahren Sie hier >](/pilze/entoloma-sepium-schlehenrötling) <div style="clear:  both"></div>
 
 - - -
 
