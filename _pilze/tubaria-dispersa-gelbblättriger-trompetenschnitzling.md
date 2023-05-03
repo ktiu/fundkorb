@@ -17,4 +17,8 @@ literatur:
 ---
 Der Gelbblättrige Trompetenschnitzling ist recht gut vom sehr viel häufigeren Gemeinen Trompetenschnitzling *Tubaria furfuracea* zu unterscheiden. Er ist vor allem heller: Hut weißlich bis ockergelb, Mitte etwas dunkler. Der Gemeine Trompetenschnitzling hat einen rotbraunen Hut, der aufgrund seiner [Hygrophanität](<hygrophan "Glossar">) aber stark ausblassen kann.  Auch die Lamellen sind beim Gelbblättrigen etwas heller. Wichtiger noch mögen seine Standortansprüche sein. Ich habe ihn bisher ausschließlich bei Weißdorn, einem der zahlreichen Rosengewächse, gefunden.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/tubaria_dispersa_02_nk.jpg" %}
+{% include abbildung_ende.html legende="Foto: Norbert Kühnberger" %}
+
 Es handelt sich um eine recht kleine Art mit Hutdurchmessern von meist nur 1 bis 1,5 cm. Die schlanken, etwa hutfarbenen Stiele sind stets länger als die Hutbreite, bis zu 6 cm. Geruch und Geschmack unauffällig.
