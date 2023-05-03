@@ -25,7 +25,7 @@ An Zapfen unserer heimischen Nadelhölzer finden sich Blätterpilze vor allem zw
 
 Wesentlich seltener sind Helmlinge auf Koniferenzapfen. Erst kürzlich habe ich *[Mycena strobilicola](/pilze/mycena-strobilicola-fichtenzapfenhelmling)*, den Fichtenzapfenhelmling, erstmals gefunden, und noch aktueller einen weiteren Helmling auf Kiefernzapfen (*Pinus nigra*), bei dem es sich um die erst wenige Male in Deutschland nachgewiesene *Mycena seynii* handelt.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mycena_seynii_11_fk.jpg" %}
 {% include abbildung_ende.html legende="Zweiter Fruchtkörper auf dem Zapfen (Foto: Frank Kaster)" %}
 
