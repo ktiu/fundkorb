@@ -3,11 +3,11 @@ beschreibung:
   wissenschaftlich: Tubaria furfuracea
   deutsch: Gemeiner Trompetenschnitzling
   referenz: "(Pers.) Gillet 1876 "
-  familie: Strophariaceae
-  synonym: neu in der Familie Tubariaceae
+  familie: Tubariaceae
+  synonym: ""
   erlaeuterung: furfuracea = kleieartig
 profil:
-  aktualisiert: 2020-08-19
+  aktualisiert: 2023-05-03
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
