@@ -11,7 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/tubaria_dispersa_01_fk.jpeg
-  legende: ".05.2023: Kesselbruchweiher im Frankfurter Stadtwald (Foto: Frank Kaster)"
+  legende: "02.05.2023: Kesselbruchweiher im Frankfurter Stadtwald (Foto: Frank Kaster)"
 literatur:
   - url: http://tintling.com/pilzbuch/arten/t/Tubaria_dispersa.html
 ---
