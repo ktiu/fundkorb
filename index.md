@@ -12,6 +12,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cyclaneusma_minus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.05.2023: Um einen aktuellen [Fundkorbpilz](AA "Glossar-") zu finden, genügt mir ein kurzer Ausflug in den Park, den ich praktisch vor der Haustür habe. Ich brauche nur ein paar Kiefernnadeln aufzuheben, um fündig zu werden. Um das Kiefernnadel-Polsterbecherchen *Cyclaneusma minus* so zu sehen wie auf dem Foto, bedarf es allerdings schon einer gut vergrößernden Lupe. Es gehört zu den Schlauchpilzen (*Ascomyzeten*), ähnelt im Aussehen einer Spaltlippe (Gattung *Lophodermium*) und verursacht ein als Kiefernnadelbräune (auch *Naemacyclus-Nadelschütte*) bekanntes Schadbild, das vor allen an Nadeln der Schwarzkiefer zu beobachten ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
 **Zwei-Weiher-Exkursion** am 6. Mai - [Hier geht's zur Info und Anmeldung >](/termine) 
 
 - - -
@@ -35,18 +47,6 @@ footer_scripts:
 02.05.2023: Den aktuellen [Fundkorbpilz](AA "Glossar-") haben wir bei unserer Maipilz-Exkursion am Dietzenbacher Wollwiesenteich gefunden. Es ist der Frühlings-Glockenschüppling *Conocybe aporos*, der hier seit Jahren schon ab März und bis Juni zu finden ist. Unter den Arten mit beringtem Stiel gibt es nur eine, deren Sporen keinen Keimporus besitzen. Der Pilz ist also leicht von ähnlichen Arten zu trennen – man muss nur mikroskopieren! Einen gewissen Verdachtsmoment liefert die frühe Erscheinungszeit und die Tatsache, dass er Wegränder, Parkanlagen, offene und grasige Stellen sowie stickstoffreiche Plätze unter Kräutern bevorzugt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/conocybe-aporos-frühlings-glockenschüppling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_ciliatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.05.2023: Passend zum heutigen Datum ist der Maiporling *Polyporus ciliatus* aktueller [Fundkorbpilz](AA "Glossar-"). An seinen sehr feinen, mit bloßem Auge kaum erkennbaren Poren ist er gut vom [Winterporling](/pilze/polyporus-brumalis-winterporling) zu unterscheiden, dessen Vegetationsperiode nun allmählich zu Ende geht, während die des Maiporlings gerade begonnen hat. Wie die meisten Stielporlinge sind die Fruchtkörper auch dieser beiden Arten knorpelig zäh und für die Küche ungeeignet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/polyporus-ciliatus-maiporling)
 
 <div style="clear:  both"></div>
 
