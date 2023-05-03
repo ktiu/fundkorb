@@ -8,7 +8,7 @@ profil:
   aktualisiert: 2023-05-03
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/mycena_seynii_02_dg.jpg
 ---
 {% include abbildung_start.html stil="mittel" %}
