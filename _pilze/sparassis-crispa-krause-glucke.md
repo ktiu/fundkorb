@@ -26,7 +26,7 @@ Pilze, die lecker schmecken und die man kaum verwechseln kann – das ist der Id
 
 Sieht aus wie ein Badeschwamm, wird bis zu 2 Kilogramm schwer, entspringt einem dickfleischigem Strunk, der sich verästelt und außen in vielfach gewundenen und gekräuselten Lappen endet. Beim jungen Pilz sind diese so eng zusammengedrängt, dass man das Innere beim Putzen kaum von eingeschlossenen Fremdpartikeln befreien kann. Der Fruchtkörper ist fleischfarben bis ockergelblich, im Alter mit braun verfärbenden Rändern und hat einen sehr spezifischen Geruch, zu dem sich kein mir bekannter Pilzbuchautor näher zu äußern wagt. Wenn Angaben gemacht werden, dann mit so pauschalen Begriffen wie aromatisch oder würzig. Wer einmal an einer Krausen Glucke gerochen hat, wird sie mit verbundenen Augen an ihrem Geruch wiedererkennen.
 
-Vorkommen: an Kiefern, oft über Jahre hinweg am selben Baum erscheinend, auch an Stümpfen oder am Boden in Baumnähe. August bis November.
+Vorkommen: an Kiefern, oft über Jahre hinweg am selben Baum erscheinend, auch an Stümpfen oder am Boden in Baumnähe. August bis Dezember. Im Jahr 2022 gab es zumindest im Rhein-Main-Gebiet so viele Krause Glucken wie nie zuvor. Kein gutes Zeichen für den Zustand unserer Wälder. *Sparassis crispa* ist ein parasitischer Pilze, der bei vorgeschädigten Kiefern leichtes Spiel hat, sie anzugreifen. Gesunde Kiefern besitzen Abwehrkräfte, mit denen sie zumindest lange Zeit Infektionen abwehren können.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/sparassis_crispa_02_dg.jpg" %}
