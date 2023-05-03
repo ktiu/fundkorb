@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-02.05.2023: [Conocybe aporos - Frühlings-Glockenschüppling](/pilze/conocybe-aporos-frühlings-glockenschüppling)  
+03.05.2023: [Pluteus cervinus - Rehbrauner Dachpilz](/pilze/pluteus-cervinus-rehbrauner-dachpilz)  
+02.05.2023: [Conocybe aporos - Frühlings-Glockenschüppling](/pilze/conocybe-aporos-frühlings-glockenschüppling)\
 01.05.2023: [Polyporus ciliatus - Maiporling](/pilze/polyporus-ciliatus-maiporling)
 
 30.04.2023: [Cyathus striatus - Gestreifter Teuerling](/pilze/cyathus-striatus-gestreifter-teuerling)\
