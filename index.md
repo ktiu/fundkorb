@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pluteus_cervinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rehbraune Dachpilz *Pluteus cervinus*. Keine Überraschung zu diesem Zeitpunkt, denn er gehört zu den schon früh im Jahr erscheinenden Blätterpilzen. Dachpilze sind leicht zu erkennen. Sie haben freie Lamellen, die nicht bis an den Stiel heranreichen, rosa verfärbende Lamellen, jedoch keine häutige Scheide am Stiel. Die meisten Arten wachsen an Holz und sind nicht immer leicht zu unterscheiden. Der Rehbraune ist jedenfalls der mit Abstand häufigste. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pluteus-cervinus-rehbrauner-dachpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/conocybe_aporos_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 01.05.2023: Passend zum heutigen Datum ist der Maiporling *Polyporus ciliatus* aktueller [Fundkorbpilz](AA "Glossar-"). An seinen sehr feinen, mit bloßem Auge kaum erkennbaren Poren ist er gut vom [Winterporling](/pilze/polyporus-brumalis-winterporling) zu unterscheiden, dessen Vegetationsperiode nun allmählich zu Ende geht, während die des Maiporlings gerade begonnen hat. Wie die meisten Stielporlinge sind die Fruchtkörper auch dieser beiden Arten knorpelig zäh und für die Küche ungeeignet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/polyporus-ciliatus-maiporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cyathus_striatus_-vj.-_07_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.04.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gestreifte Teuerling *Cyathus striatus*. Sie sehen aus wie struppige Tütchen, die anfangs mit einem hellen Häutchen verschlossen sind, das bald aufreißt und den Blick ins Innere freigibt. Darin liegen winzige münzenförmige Gebilde, in denen der Pilz, der gar nicht wie ein Pilz aussieht, seine Sporen bildet. Sind es wenige Münzen, stehen teure Zeiten an. Sind es viele, leiden wir keinen Mangel. Deshalb heißen die Tütchen auch Teuerlinge. Sollten gar keine in den Tütchen sein, handelt es sich um alte Fruchtkörper aus dem vergangenen Jahr, die den Winter unbeschadet überstanden haben. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cyathus-striatus-gestreifter-teuerling)
 
 <div style="clear:  both"></div>
 
