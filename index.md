@@ -11,6 +11,9 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 - - -
+**Zwei-Weiher-Exkursion** am 6. Mai - [Hier geht's zur Info und Anmeldung >](/termine) 
+
+- - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cyclaneusma_minus_01_dg.jpg" %}
@@ -21,10 +24,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen)
 
 <div style="clear:  both"></div>
-
-- - -
-
-**Zwei-Weiher-Exkursion** am 6. Mai - [Hier geht's zur Info und Anmeldung >](/termine) 
 
 - - -
 
