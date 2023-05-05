@@ -20,7 +20,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/lentinus_tigrinus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-05.05.2023: Wo es Weiden gibt, könnte man auch den Getigerten Knäueling *Lentinus tigrinus* finden. Unser aktueller [Fundkorbpilz](AA "Glossar-") besiedelt aber auch Totholz anderer Laubbaumarten. Bei dem uns vom Mainufer bei Hanau gemeldeten Fund blieb die Baumart unbenannt. Er ist ein typischer Pilz in auwaldartigen Biotopen, insbesondere der großen Stromtäler. Der auf den ersten Blick ähnliche [Schuppige Sägeblättling](/pilze/lentinus-lepideus-schuppiger-sägeblättling) hat gesägte Lamellen und wächst an totem Nadelholz. (Dieter Gewalt)
+05.05.2023: Wo es Weiden gibt, könnte man auch den Getigerten Knäueling *Lentinus tigrinus* finden. Unser aktueller [Fundkorbpilz](AA "Glossar-") besiedelt aber auch Totholz anderer Laubbaumarten. Bei dem uns vom Mainufer bei Hanau gemeldeten Fund blieb die Baumart unbenannt. Er ist ein typischer Pilz in auwaldartigen Biotopen, insbesondere der großen Stromtäler. Der auf den ersten Blick ähnliche [Schuppige Sägeblättling](/pilze/lentinus-lepideus-schuppiger-sägeblättling) hat deutlicher gesägte Lamellen und wächst an totem Nadelholz. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lentinus-tigrinus-getigerter-knäueling)
 
