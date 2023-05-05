@@ -11,7 +11,20 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 - - -
+
 **Zwei-Weiher-Exkursion** am 6. Mai - [Hier geht's zur Info und Anmeldung >](/termine) 
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinus_tigrinus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.05.2023: Wo es Weiden gibt, könnte man auch den Getigerten Knäueling *Lentinus tigrinus* finden. Unser aktueller [Fundkorbpilz](AA "Glossar-") besiedelt aber auch Totholz anderer Laubbaumarten. Bei dem uns vom Mainufer bei Hanau gemeldeten Fund blieb die Baumart unbenannt. Er ist ein typischer Pilz in auwaldartigen Biotopen, insbesondere der großen Stromtäler. Der auf den ersten Blick ähnliche [Schuppige Sägeblättling](/pilze/lentinus-lepideus-schuppiger-sägeblättling) hat gesägte Lamellen und wächst an totem Nadelholz. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lentinus-tigrinus-getigerter-knäueling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -34,18 +47,6 @@ footer_scripts:
 03.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rehbraune Dachpilz *Pluteus cervinus*. Keine Überraschung zu diesem Zeitpunkt, denn er gehört zu den schon früh im Jahr erscheinenden Blätterpilzen. Dachpilze sind leicht zu erkennen. Sie haben freie Lamellen, die nicht bis an den Stiel heranreichen, rosa verfärbende Lamellen, jedoch keine häutige Scheide am Stiel. Die meisten Arten wachsen an Holz und sind nicht immer leicht zu unterscheiden. Der Rehbraune ist jedenfalls der mit Abstand häufigste. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/pluteus-cervinus-rehbrauner-dachpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/conocybe_aporos_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.05.2023: Den aktuellen [Fundkorbpilz](AA "Glossar-") haben wir bei unserer Maipilz-Exkursion am Dietzenbacher Wollwiesenteich gefunden. Es ist der Frühlings-Glockenschüppling *Conocybe aporos*, der hier seit Jahren schon ab März und bis Juni zu finden ist. Unter den Arten mit beringtem Stiel gibt es nur eine, deren Sporen keinen Keimporus besitzen. Der Pilz ist also leicht von ähnlichen Arten zu trennen – man muss nur mikroskopieren! Einen gewissen Verdachtsmoment liefert die frühe Erscheinungszeit und die Tatsache, dass er Wegränder, Parkanlagen, offene und grasige Stellen sowie stickstoffreiche Plätze unter Kräutern bevorzugt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/conocybe-aporos-frühlings-glockenschüppling)
 
 <div style="clear:  both"></div>
 
