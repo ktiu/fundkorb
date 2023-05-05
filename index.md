@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tubaria_dispersa_01_fk.jpeg" %}
+{% include abbildung_ende.html %}
+
+06.05.2023: Mit Schnitzlingen haben die wenigsten Pilzsammler was am Hut. Gibt meines Wissens auch keinen küchentauglichen unter ihnen. Trotzdem ist heute der Gelbblättrige Trompetenschnitzling *Tubaria dispersa* unser aktueller [Fundkorbpilz](AA "Glossar-"). *Frank Kaster* hat ihn im Frankfurter Stadtwald am Kesselbruchweiher gefunden und fotografiert. Tipp für gezielte Suche: er hat eine ausgeprägte Vorliebe für Weißdorn. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lentinus_tigrinus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
