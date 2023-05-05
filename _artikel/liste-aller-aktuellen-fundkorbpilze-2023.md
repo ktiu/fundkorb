@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-05.05.2023: [Lentinus tigrinus - Getigerter Knäueling](/pilze/lentinus-tigrinus-getigerter-knäueling)  
+06.05.2023: [Tubaria dispersa - Gelbblättriger Trompetenschnitzling](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)  
+05.05.2023: [Lentinus tigrinus - Getigerter Knäueling](/pilze/lentinus-tigrinus-getigerter-knäueling)\
 04.05.2023: [Cyclaneusma minus - Helles Kiefernnadel-Polsterbecherchen](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen)\
 03.05.2023: [Pluteus cervinus - Rehbrauner Dachpilz](/pilze/pluteus-cervinus-rehbrauner-dachpilz)\
 02.05.2023: [Conocybe aporos - Frühlings-Glockenschüppling](/pilze/conocybe-aporos-frühlings-glockenschüppling)\
