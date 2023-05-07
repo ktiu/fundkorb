@@ -12,10 +12,6 @@ footer_scripts:
 
 - - -
 
-**Zwei-Weiher-Exkursion** am 6. Mai - [Hier geht's zur Info und Anmeldung >](/termine) 
-
-- - -
-
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/reticularia_lycoperdon_01_dg.jpg" %}
 {% include abbildung_ende.html %}
