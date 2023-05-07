@@ -17,6 +17,16 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/reticularia_lycoperdon_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der eigentlich gar kein richtiger Pilz ist: der [Stäublings-Schleimpilz *Reticularia lycoperdon*](https://fundkorb.de/pilze/reticularia-lycoperdon-st%C3%A4ublings-schleimpilz). Frisch gewachsene Fruchtkörper fühlen sich schleimig an, reife zerstäuben auf Druck. Beide Stadien hatten wir gestern bei unserer Zwei-Weiher-Exkursion mehrfach erlebt. Weshalb der Stäublings-Schleimpilz kein richtiger Pilz ist [erfahren Sie hier >](/verwandt/schleimpilze-myxomyzeten) 
+
+div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tubaria_dispersa_01_fk.jpeg" %}
 {% include abbildung_ende.html %}
 
