@@ -13,6 +13,20 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopus_fusipes_03_he.jpg" %}
+{% include abbildung_ende.html %}
+
+
+
+08.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Spindelige Rübling *Gymnopus fusipes*. Er wächst meist dichtbüschelig am Grund von lebenden Eichen oder Eichenstubben. Seine stark knorpeligen verdrehten, längsrilligen und spindelförmigen Stiele, die zur Basis hin rostbraun gefärbt sind, lassen ihn leicht erkennen. Rostfarbige Flecken finden sich oft auch auf der Huthaut. Er ist zwar essbar, aber mit Sicherheit kein Leckerbissen.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gymnopus-fusipes-spindeliger-rübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/reticularia_lycoperdon_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,42 +43,6 @@ div style="clear:  both"></div>
 06.05.2023: Mit Schnitzlingen haben die wenigsten Pilzsammler was am Hut. Gibt meines Wissens auch keinen küchentauglichen unter ihnen. Trotzdem ist heute der Gelbblättrige Trompetenschnitzling *Tubaria dispersa* unser aktueller [Fundkorbpilz](AA "Glossar-"). *Frank Kaster* hat ihn im Frankfurter Stadtwald am Kesselbruchweiher gefunden und fotografiert. Tipp für gezielte Suche: er hat eine ausgeprägte Vorliebe für Weißdorn. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lentinus_tigrinus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.05.2023: Wo es Weiden gibt, könnte man auch den Getigerten Knäueling *Lentinus tigrinus* finden. Unser aktueller [Fundkorbpilz](AA "Glossar-") besiedelt aber auch Totholz anderer Laubbaumarten. Bei dem uns vom Mainufer bei Hanau gemeldeten Fund blieb die Baumart unbenannt. Er ist ein typischer Pilz in auwaldartigen Biotopen, insbesondere der großen Stromtäler. Der auf den ersten Blick ähnliche [Schuppige Sägeblättling](/pilze/lentinus-lepideus-schuppiger-sägeblättling) hat deutlicher gesägte Lamellen und wächst an totem Nadelholz. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lentinus-tigrinus-getigerter-knäueling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cyclaneusma_minus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.05.2023: Um einen aktuellen [Fundkorbpilz](AA "Glossar-") zu finden, genügt mir ein kurzer Ausflug in den Park, den ich praktisch vor der Haustür habe. Ich brauche nur ein paar Kiefernnadeln aufzuheben, um fündig zu werden. Um das Kiefernnadel-Polsterbecherchen *Cyclaneusma minus* so zu sehen wie auf dem Foto, bedarf es allerdings schon einer gut vergrößernden Lupe. Es gehört zu den Schlauchpilzen (*Ascomyzeten*), ähnelt im Aussehen einer Spaltlippe (Gattung *Lophodermium*) und verursacht ein als Kiefernnadelbräune (auch *Naemacyclus-Nadelschütte*) bekanntes Schadbild, das vor allen an Nadeln der Schwarzkiefer zu beobachten ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pluteus_cervinus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rehbraune Dachpilz *Pluteus cervinus*. Keine Überraschung zu diesem Zeitpunkt, denn er gehört zu den schon früh im Jahr erscheinenden Blätterpilzen. Dachpilze sind leicht zu erkennen. Sie haben freie Lamellen, die nicht bis an den Stiel heranreichen, rosa verfärbende Lamellen, jedoch keine häutige Scheide am Stiel. Die meisten Arten wachsen an Holz und sind nicht immer leicht zu unterscheiden. Der Rehbraune ist jedenfalls der mit Abstand häufigste. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pluteus-cervinus-rehbrauner-dachpilz)
 
 <div style="clear:  both"></div>
 
