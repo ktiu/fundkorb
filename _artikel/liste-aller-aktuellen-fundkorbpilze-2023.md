@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-07.05.2023: [Reticularia lycoperdon - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)  
+08.05.2023: [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)  
+07.05.2023: [Reticularia lycoperdon - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
 06.05.2023: [Tubaria dispersa - Gelbblättriger Trompetenschnitzling](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)\
 05.05.2023: [Lentinus tigrinus - Getigerter Knäueling](/pilze/lentinus-tigrinus-getigerter-knäueling)\
 04.05.2023: [Cyclaneusma minus - Helles Kiefernnadel-Polsterbecherchen](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen)\
