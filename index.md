@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopus_dryophilus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Waldfreundrübling *Gymnopus dryophilus*, der vereinzelt schon seit März/April zu sehen war. Er gehört zu den Streuzersetzern und ist einer der häufigsten Blätterpilze überhaupt, der in keinem Wald fehlen dürfte. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht mehr ganz so einfach wie früher. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypocrea_pulvinata_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,16 +45,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/gymnopus-fusipes-spindeliger-rübling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/reticularia_lycoperdon_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der eigentlich gar kein richtiger Pilz ist: der [Stäublings-Schleimpilz *Reticularia lycoperdon*](https://fundkorb.de/pilze/reticularia-lycoperdon-st%C3%A4ublings-schleimpilz). Frisch gewachsene Fruchtkörper fühlen sich schleimig an, reife zerstäuben auf Druck. Beide Stadien hatten wir gestern bei unserer Zwei-Weiher-Exkursion mehrfach erlebt. Weshalb der Stäublings-Schleimpilz kein richtiger Pilz ist [erfahren Sie hier >](/verwandt/schleimpilze-myxomyzeten) 
-
-div style="clear:  both"></div>
 
 - - -
 
