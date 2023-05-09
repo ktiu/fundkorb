@@ -13,10 +13,20 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_fusipes_03_he.jpg" %}
+{% include bild.html datei="/bilder/hypocrea_pulvinata_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
+09.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenporling-Kissenpilz *Hypocrea pulvinata*. Er erscheint auf der Unterseite seines Wirts, dem [Birkenporling *Piptoporus betulinus*](/pilze/piptoporus-betulinus-birkenporling), wenn dieser seine besten Tage längst hinter sich hat und am Vergammeln ist, also im Winter oder darauffolgenden Frühjahr. Die herdenweise auftretenden kleinen gelben Polster oder Kissen sind sehr auffällig und praktisch unverwechselbar. (Dieter Gewalt)
 
+[Mehr lesen >](/pilze/hypocrea-pulvinata-birkenporling-kissenpustelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopus_fusipes_03_he.jpg" %}
+{% include abbildung_ende.html %}
 
 08.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Spindelige Rübling *Gymnopus fusipes*. Er wächst meist dichtbüschelig am Grund von lebenden Eichen oder Eichenstubben. Seine stark knorpeligen verdrehten, längsrilligen und spindelförmigen Stiele, die zur Basis hin rostbraun gefärbt sind, lassen ihn leicht erkennen. Rostfarbige Flecken finden sich oft auch auf der Huthaut. Er ist zwar essbar, aber mit Sicherheit kein Leckerbissen.  (Dieter Gewalt)
 
@@ -33,18 +43,6 @@ footer_scripts:
 07.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der eigentlich gar kein richtiger Pilz ist: der [Stäublings-Schleimpilz *Reticularia lycoperdon*](https://fundkorb.de/pilze/reticularia-lycoperdon-st%C3%A4ublings-schleimpilz). Frisch gewachsene Fruchtkörper fühlen sich schleimig an, reife zerstäuben auf Druck. Beide Stadien hatten wir gestern bei unserer Zwei-Weiher-Exkursion mehrfach erlebt. Weshalb der Stäublings-Schleimpilz kein richtiger Pilz ist [erfahren Sie hier >](/verwandt/schleimpilze-myxomyzeten) 
 
 div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tubaria_dispersa_01_fk.jpeg" %}
-{% include abbildung_ende.html %}
-
-06.05.2023: Mit Schnitzlingen haben die wenigsten Pilzsammler was am Hut. Gibt meines Wissens auch keinen küchentauglichen unter ihnen. Trotzdem ist heute der Gelbblättrige Trompetenschnitzling *Tubaria dispersa* unser aktueller [Fundkorbpilz](AA "Glossar-"). *Frank Kaster* hat ihn im Frankfurter Stadtwald am Kesselbruchweiher gefunden und fotografiert. Tipp für gezielte Suche: er hat eine ausgeprägte Vorliebe für Weißdorn. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)
-
-<div style="clear:  both"></div>
 
 - - -
 
