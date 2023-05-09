@@ -71,5 +71,5 @@ Bei der Bestimmung der Gattung unseres Fundes hatte man zu beantworten, ob die B
 
 **Anmerkungen von Bernd Miggel:**\
 Die siderophile Granulation in den Basidien und Basidiolen war mir bisher für Arten der Gattung Gymnopus nicht bekannt.\
-Beim Trocknen dunkeln die Fruchtkörper stark nach, insbesondere die Lamellen, so dass man, im Zusammenhang mit der Siderophilie der Basidien, den Eindruck einer schwärzenden *Lyumphyllum*art haben könnte.\
+Beim Trocknen dunkeln die Fruchtkörper stark nach, insbesondere die Lamellen, so dass man, im Zusammenhang mit der Siderophilie der Basidien, den Eindruck einer schwärzenden *Lyophyllum*art haben könnte.\
 Das Vorhandensein von Sklerotien konnte leider nicht untersucht werden, da zum Zeitpunkt der Artbestimmung keine Fruchtkörper mehr am Fundort aufzufinden waren.
