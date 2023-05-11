@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_ochracea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zonen-Tramete *Trametes ochracea*. Sie gilt als Doppelgänger der sehr viel häufigeren [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete). Die Zonen-Tramete zeichnet sich durch eher braune Farbtöne aus. Ihr fehlen die bei Schmetterlingstrameten typischen schwärzlichen Glanzzonen. Bei untypisch gefärbten Fruchtkörpern kann es problematisch werden. Es kommen immer wieder Übergangsformen vor, die sich makro- wie mikroskopisch nicht eindeutig unterscheiden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/trametes-ochracea-ockertramete-zonentramete)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gymnopus_dryophilus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 09.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenporling-Kissenpustelpilz *Hypocrea pulvinata*. Er erscheint auf der Unterseite seines Wirts, dem [Birkenporling *Piptoporus betulinus*](/pilze/piptoporus-betulinus-birkenporling), wenn dieser seine besten Tage längst hinter sich hat und am Vergammeln ist, also im Winter oder darauffolgenden Frühjahr. Die herdenweise auftretenden kleinen gelben Polster oder Kissen sind sehr auffällig und praktisch unverwechselbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypocrea-pulvinata-birkenporling-kissenpustelpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_fusipes_03_he.jpg" %}
-{% include abbildung_ende.html %}
-
-08.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Spindelige Rübling *Gymnopus fusipes*. Er wächst meist dichtbüschelig am Grund von lebenden Eichen oder Eichenstubben. Seine stark knorpeligen verdrehten, längsrilligen und spindelförmigen Stiele, die zur Basis hin rostbraun gefärbt sind, lassen ihn leicht erkennen. Rostfarbige Flecken finden sich oft auch auf der Huthaut. Er ist zwar essbar, aber mit Sicherheit kein Leckerbissen.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gymnopus-fusipes-spindeliger-rübling)
 
 <div style="clear:  both"></div>
 
