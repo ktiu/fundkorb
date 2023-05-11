@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-10.05.2023: [Gymnopus dryophilus - Waldfreundrübling](/pilze/gymnopus-dryophilus-waldfreundrübling)  
+11.05.2023: [Trametes ochracea - Zonentramete](/pilze/trametes-ochracea-ockertramete-zonentramete)  
+10.05.2023: [Gymnopus dryophilus - Waldfreundrübling](/pilze/gymnopus-dryophilus-waldfreundrübling)\
 09.05.2023: [Hypocrea pulvinata - Birkenporling-Kissenpustelpilz](/pilze/hypocrea-pulvinata-birkenporling-kissenpustelpilz)\
 08.05.2023: [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)\
 07.05.2023: [Reticularia lycoperdon - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
