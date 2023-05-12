@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gloeophyllum_odoratum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.05.2023: Es gibt nur wenige Pilze, die man mit verbundenen Augen erkennen kann. Einer von ihnen ist unser heutiger [Fundkorbpilz](AA "Glossar-"), der Fenchelporling *Gloeophyllum odoratum*. Er fühlt sich hart und klobig an und riecht intensiv nach Fenchel. Der mehrjährige Pilz wächst an totem Fichtenholz und bevorzugt die Schnittflächen von Stümpfen. Oft wachsen mehrere Exemplare zu umfangreichen Konglomeraten zusammen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gloeophyllum-odoratum-fenchelporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_ochracea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 10.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Waldfreundrübling *Gymnopus dryophilus*, der vereinzelt schon seit März/April zu sehen war. Er gehört zu den Streuzersetzern und ist einer der häufigsten Blätterpilze überhaupt, der in keinem Wald fehlen dürfte. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht mehr ganz so einfach wie früher. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypocrea_pulvinata_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenporling-Kissenpustelpilz *Hypocrea pulvinata*. Er erscheint auf der Unterseite seines Wirts, dem [Birkenporling *Piptoporus betulinus*](/pilze/piptoporus-betulinus-birkenporling), wenn dieser seine besten Tage längst hinter sich hat und am Vergammeln ist, also im Winter oder darauffolgenden Frühjahr. Die herdenweise auftretenden kleinen gelben Polster oder Kissen sind sehr auffällig und praktisch unverwechselbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypocrea-pulvinata-birkenporling-kissenpustelpilz)
 
 <div style="clear:  both"></div>
 
