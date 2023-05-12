@@ -36,4 +36,4 @@ Der Schokoladenbraune Mürbling ist eine in ganz Mitteleuropa verbreitete, aber 
 Nur durch mikroskopische Merkmale sicher unterscheidbar sind vor allem folgende Arten:\
 *Psathyrella senex* = Gewöhnlicher Faserling\
 *Psathyrella fusca* = Schwarzbrauner Mürbling\
-[*Psathyrella spadicea* = Schokoladenbrauner Mürbling](/pilze/psathyrella-tephrophylla-graublättriger-mürbling)
+[Psathyrella tephrophylla](/pilze/psathyrella-tephrophylla-graublättriger-mürbling) = Graublättriger Mürbling
