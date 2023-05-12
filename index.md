@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/taphrina_pruni_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.05.2023: Wenige Meter von meinem Hauseingang entfernt steht ein Blutpflaumenbaum, an dem bereits die ersten noch unreifen Früchtchen hängen. Wie in jedem Jahr sind viele von einem Pilz befallen, der sie deformiert ohne eigene Fruchtkörper zu bilden. Es handelt sich um die Pflaumen-Narrentasche *Taphrina pruni*, unseren heutigen [Fundkorbpilz](AA "Glossar-"). Befallene Pflaumen gelangen nicht mehr zur Reife und bilden auch keine Kerne. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/taphrina-pruni-pflaumen-narrentasche)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gloeophyllum_odoratum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
