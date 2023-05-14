@@ -10,6 +10,8 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
+Nächster Exkursionstermin: Sonntag, 21.05.2023 - [Zur Info ->](/termine)
+
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
