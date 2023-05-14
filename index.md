@@ -15,6 +15,18 @@ Nächster Exkursionstermin: Sonntag, 21.05.2023 - [Zur Info ->](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bolbitius_titubans_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.05.2023: Ein bildhübscher Pilz und Dung oder Mist müssen nicht unbedingt unvereinbar sein. Es gibt so viele Pilze, die dieses etwas anrüchige Substrat bevorzugen und trotzdem gefallen. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Goldmistpilz *Bolbitius titubans*. Seine anmutige Gestalt und die goldgelbe Farbe machen ihn zu einer attraktiven Erscheinung, die besonders an Wegrändern immer wieder auffällt. Schon nach wenigen Tagen verblasst seine Schönheit, aber das ist nicht nur bei den Pilzen ein Symptom des Alterns. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/bolbitius-titubans-goldmistpilz)
+
+ <div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_acetabulum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ Nächster Exkursionstermin: Sonntag, 21.05.2023 - [Zur Info ->](/termine)
 13.05.2023: Wenige Meter von meinem Hauseingang entfernt steht ein Blutpflaumenbaum, an dem bereits die ersten noch unreifen Früchtchen hängen. Wie in jedem Jahr sind viele von einem Pilz befallen, der sie deformiert ohne eigene Fruchtkörper zu bilden. Es handelt sich um die Pflaumen-Narrentasche *Taphrina pruni*, unseren heutigen [Fundkorbpilz](AA "Glossar-"). Befallene Pflaumen gelangen nicht mehr zur Reife und bilden auch keine Kerne. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/taphrina-pruni-pflaumen-narrentasche)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gloeophyllum_odoratum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.05.2023: Es gibt nur wenige Pilze, die man mit verbundenen Augen erkennen kann. Einer von ihnen ist unser heutiger [Fundkorbpilz](AA "Glossar-"), der Fenchelporling *Gloeophyllum odoratum*. Er fühlt sich hart und klobig an und riecht intensiv nach Fenchel. Der mehrjährige Pilz wächst an totem Fichtenholz und bevorzugt die Schnittflächen von Stümpfen. Oft wachsen mehrere Exemplare zu umfangreichen Konglomeraten zusammen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gloeophyllum-odoratum-fenchelporling)
 
 <div style="clear:  both"></div>
 
