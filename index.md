@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_acetabulum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Hochgerippte Lorchel *Helvella acetabulum*.  Mir persönlich gefällt der deutsche Name Pokalrippenbecherling besser. Perfekt geformte Fruchtkörper haben in der Tat die Gestalt eines Pokals. Die Sporen werden im Inneren des Kelches gebildet. Wenn man reife Fruchtkörper aus dem Schatten ins Sonnenlicht bewegt, kann man sehr schön beobachten, wie nahezu explosionsartig eine Sporenstaubwolke freigesetzt wird. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/helvella-acetabulum-hochgerippte-lorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/taphrina_pruni_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 12.05.2023: Es gibt nur wenige Pilze, die man mit verbundenen Augen erkennen kann. Einer von ihnen ist unser heutiger [Fundkorbpilz](AA "Glossar-"), der Fenchelporling *Gloeophyllum odoratum*. Er fühlt sich hart und klobig an und riecht intensiv nach Fenchel. Der mehrjährige Pilz wächst an totem Fichtenholz und bevorzugt die Schnittflächen von Stümpfen. Oft wachsen mehrere Exemplare zu umfangreichen Konglomeraten zusammen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gloeophyllum-odoratum-fenchelporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_ochracea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zonen-Tramete *Trametes ochracea*. Sie gilt als Doppelgänger der sehr viel häufigeren [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete). Die Zonen-Tramete zeichnet sich durch eher braune Farbtöne aus. Ihr fehlen die bei Schmetterlingstrameten typischen schwärzlichen Glanzzonen. Bei untypisch gefärbten Fruchtkörpern kann es problematisch werden. Es kommen immer wieder Übergangsformen vor, die sich makro- wie mikroskopisch nicht eindeutig unterscheiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/trametes-ochracea-ockertramete-zonentramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_dryophilus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Waldfreundrübling *Gymnopus dryophilus*, der vereinzelt schon seit März/April zu sehen war. Er gehört zu den Streuzersetzern und ist einer der häufigsten Blätterpilze überhaupt, der in keinem Wald fehlen dürfte. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht mehr ganz so einfach wie früher. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)
 
 <div style="clear:  both"></div>
 
