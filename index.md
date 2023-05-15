@@ -14,7 +14,7 @@ Nächster Exkursionstermin (mit Speisepilzen ist zu rechnen): Sonntag, 21.05.202
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_petasatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
