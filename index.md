@@ -10,7 +10,7 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-Nächster Exkursionstermin: Sonntag, 21.05.2023 - [Zur Info ->](/termine)
+Nächster Exkursionstermin (mit Speisepilzen ist zu rechnen): Sonntag, 21.05.2023 - [Zur Info ->](/termine)
 
 - - -
 
