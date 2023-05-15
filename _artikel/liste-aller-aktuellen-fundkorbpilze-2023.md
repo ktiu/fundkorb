@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-15.05.2023: [Bolbitius titubans - Goldmistpilz](/pilze/bolbitius-titubans-goldmistpilz)  
+16.05.2023: [Pluteus petasatus - Seidiger Dachpilz](/pilze/pluteus-petasatus-seidiger-dachpilz)  
+15.05.2023: [Bolbitius titubans - Goldmistpilz](/pilze/bolbitius-titubans-goldmistpilz)\
 14.05.2023: [Helvella acetabulum - Hochgerippte Lorchel](/pilze/helvella-acetabulum-hochgerippte-lorchel)\
 13.05.2023: [Taphrina pruni - Pflaumen-Narrentaschen](/pilze/taphrina-pruni-pflaumen-narrentasche)\
 12.05.2023: [Gloeophyllum odoratum - Fenchelporling](/pilze/gloeophyllum-odoratum-fenchelporling)\
