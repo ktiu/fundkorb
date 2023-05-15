@@ -38,31 +38,21 @@ Nächster Exkursionstermin: Sonntag, 21.05.2023 - [Zur Info ->](/termine)
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/taphrina_pruni_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.05.2023: Wenige Meter von meinem Hauseingang entfernt steht ein Blutpflaumenbaum, an dem bereits die ersten noch unreifen Früchtchen hängen. Wie in jedem Jahr sind viele von einem Pilz befallen, der sie deformiert ohne eigene Fruchtkörper zu bilden. Es handelt sich um die Pflaumen-Narrentasche *Taphrina pruni*, unseren heutigen [Fundkorbpilz](AA "Glossar-"). Befallene Pflaumen gelangen nicht mehr zur Reife und bilden auch keine Kerne. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/taphrina-pruni-pflaumen-narrentasche)
-
-<div style="clear:  both"></div>
-
-- - -
-
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
 
 [Liste aller aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
 
 - - -
 
+##### Helmlinge - Die Gattung *Mycena* im Fundkorb
+
+Insgesamt 40 Helmlinge sind bisher mit einem Porträt im Fundkorb vertreten. Die allermeisten von ihnen wachsen an Holz. Drei Arten verdienen aufgrund ihrer Seltenheit und Substratwahl Beachtung. [Mycena filopes](/pilze/mycena-filopes-zerbrechlicher-fadenhelmling) wächst in Augenhöhe auf Fichtenzweigen, [Mycena strobilicola](/pilze/mycena-strobilicola-fichtenzapfenhelmling) auf Fichtenzapfen, und die in Mitteleuropa extrem seltene [Mycena seynii](/pilze/mycena-seynii-mediterraner-kiefernzapfenhelmling) auf Kiefernzapfen.
+
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Dieses bezaubernde kleine Kunstwerk hat Pilzfreunde im Raum Frankfurt/Offenbach als *"Ballerina"-Pilze* begeistert. Die Künstlerin wollte unbedingt inkognito bleiben, aber es ist zumindest anerkennend festzuhalten: da muss man erst mal drauf kommen, beim Anblick von Zunderschwämmen an Tänzerinnen zu denken und die Fruchtkörper als Röcke in die Darstellung einzubeziehen. Bei einer unseren Exkursionen hat ein Junge einen indiskreten Blick unter die Röcke der Ballerinas riskiert und dabei die Erkenntnis gewonnen, dass Zunderschwämme Porlinge sind.
-
-[Mehr lesen >](/artikel/besuch-bei-den-ballerina-pilzen.html)
+{% include bild.html datei="/bilder/mycena_filopes_11_hes.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/mycena_strobilicola_01_jr.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/mycena_seynii_02_dg.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Mycena filopes - Mycena strobilicola - Mycena seynii" %}
 
 - - -
 
