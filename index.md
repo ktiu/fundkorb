@@ -14,6 +14,18 @@ Nächster Exkursionstermin: Sonntag, 21.05.2023 - [Zur Info ->](/termine)
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/pluteus_petasatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.05.2023: Dachpilze gehören zu den Blätterpilzarten, die oft schon früh im Jahr erscheinen. So auch der Seidige Dachpilz *Pluteus petasatus*, unser heutiger [Fundkorbpilz](AA "Glossar-"). Wir haben ihn allerdings in einer sehr untypischen Form gefunden, nämlich mit einem schuppig aufgerissenen Hut. Da denkt man zuerst an *Lentinus*-Arten wie den [Getigerten Knäueling](/pilze/lentinus-tigrinus-getigerter-knäueling), was wegen der rosa Lamellen unseres Fundes aber nicht in Frage kam. Substrat war ein stark vermorschter Baumstumpf. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pluteus-petasatus-seidiger-dachpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bolbitius_titubans_01_dg.jpg" %}
 {% include abbildung_ende.html %}
