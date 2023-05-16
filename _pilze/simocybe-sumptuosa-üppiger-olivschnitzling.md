@@ -24,8 +24,8 @@ Der Üppige Olivschnitzling dürfte mit Hutdurchmessern bis zu 5 cm die größte
 
 Vorkommen: einzeln oder zu wenigen gesellig an morschen Stümpfen, Stämmen und Ästen verschiedener Laubbäume, Frühsommer bis Herbst.
 
-Ähnlich ist der Kleinsporige Olivschnitzling *Simocybe centunculus*, der sich durch kleinere Sporen unterscheidet:  
-Simocybe sumptuosa:  7 - 10 x 4,5 - 6 µm\
-Simocybe centunculus:  6 - 7,5 x 4 - 5 µm
+Ähnlich ist der Kleinsporige Olivschnitzling *Simocybe centunculus*, der sich durch kleinere Sporen unterscheidet:\
+*Simocybe sumptuosa*:  7 - 10 x 4,5 - 6 µm\
+*Simocybe centunculus*:  6 - 7,5 x 4 - 5 µm
 
 Eine weitere im Fundkorb vertetene Art der Gattung ist der [Stummelfüßige Olivschnitzling *Simocybe haustellaris*](/pilze/simocybe-haustellaris-ästchen-schnitzling-stummelfüßiger-olivschnitzling), auch Ästchen-Schnitzling genannt.
