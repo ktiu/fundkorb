@@ -18,7 +18,7 @@ Nächster Exkursionstermin (mit Speisepilzen ist zu rechnen): Sonntag, 21.05.202
 {% include bild.html datei="/bilder/amanita_rubescens_01_dg-1536x1102.jpg" %}
 {% include abbildung_ende.html %}
 
-17.05.2023: In unserer Dietzenbacher Parkanlage ist gerade der erste Perlpilz (*Amanita rubescens*) erschienen und soll natürlich auch der aktuelle [Fundkorbpilz](AA "Glossar-") des heutigen Tages sein. Erfahrene Pilzsammler haben keine Probleme ihn sicher zu erkennen. Einsteiger sollten sich vor dem ersten Perlpilzgericht jedoch gründlich über die Verwechslungsmöglichkeiten informieren. Den [Pantherpilz](/pilze/amanita-pantherina-pantherpilz) sollte man besser nicht in der Pfanne bzw. im Magen haben (Dieter Gewalt)
+17.05.2023: In unserer Dietzenbacher Parkanlage ist gerade der erste Perlpilz (*Amanita rubescens*) erschienen und soll natürlich auch der aktuelle [Fundkorbpilz](AA "Glossar-") des heutigen Tages sein. Erfahrene Pilzsammler haben keine Probleme ihn sicher zu erkennen. Einsteiger sollten sich vor dem ersten Perlpilzgericht jedoch gründlich über die Verwechslungsmöglichkeiten informieren. Den [Pantherpilz](/pilze/amanita-pantherina-pantherpilz) sollte man besser nicht in der Pfanne bzw. im Magen haben. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-rubescens-perlpilz)
 
