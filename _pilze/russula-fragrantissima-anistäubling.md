@@ -20,7 +20,6 @@ literatur:
   - text: "SCHWÖBEL, H. (1974): Die Täublinge. Beiträge zu ihrer Kenntnis und
       Verbreitung (III). – Z. Pilzkd. 40: 150 - 151"
   - url: https://de.wikipedia.org/wiki/Starkduftender_Stink-T%C3%A4ubling
-  - url: Ein Feldschlüssel für Täublinge
 ---
 Beim Anistäubling *Russula fragrantissima* handelt es sich um eine Art, die sich allein  schon durch ihren intensiven und anhaltenden Geruch nach Anis zu erkennen gibt. Diese sehr seltene Art wird in der Roten Liste (2016) in der Kategorie „2“ (stark gefährdet) aufgeführt. Sie kommt in wärmebegünstigten Lagen Süddeutschlands vor. [Mykorrhizapartner](Mykorrhiza "Glossar") sind Laub- und Nadelbäume wie z.B. Hainbuchen, Eichen oder Rotbuchen, Fichten oder Kiefern. Aus [taxonomischer](Taxonomie "Glossar") Sicht fügt sich der  Anistäubling gut in die Gruppe der *„Stinktäublinge“ (Foetentinae)* ein, auch wenn sein Anisgeruch kaum als "stinkend" bezeichnet werden kann.
 
