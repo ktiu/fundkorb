@@ -15,6 +15,18 @@ Nächster Exkursionstermin (mit Speisepilzen ist zu rechnen): Sonntag, 21.05.202
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_rubescens_01_dg-1536x1102.jpg" %}
+{% include abbildung_ende.html %}
+
+17.05.2023: In unserer Dietzenbacher Parkanlage ist gerade der erste Perlpilz (*Amanita rubescens*) erschienen und soll natürlich auch der aktuelle [Fundkorbpilz](AA "Glossar-") des heutigen Tages sein. Erfahrene Pilzsammler haben keine Probleme ihn sicher zu erkennen. Einsteiger sollten sich vor dem ersten Perlpilzgericht jedoch gründlich über die Verwechslungsmöglichkeiten informieren. Den [Pantherpilz](/pilze/amanita-pantherina-pantherpilz) sollte man besser nicht in der Pfanne bzw. und im Magen haben (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-rubescens-perlpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_petasatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Nächster Exkursionstermin (mit Speisepilzen ist zu rechnen): Sonntag, 21.05.202
 [Mehr lesen >](/pilze/bolbitius-titubans-goldmistpilz)
 
  <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_acetabulum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Hochgerippte Lorchel *Helvella acetabulum*.  Mir persönlich gefällt der deutsche Name Pokalrippenbecherling besser. Perfekt geformte Fruchtkörper haben in der Tat die Gestalt eines Pokals. Die Sporen werden im Inneren des Kelches gebildet. Wenn man reife Fruchtkörper aus dem Schatten ins Sonnenlicht bewegt, kann man sehr schön beobachten, wie nahezu explosionsartig eine Sporenstaubwolke freigesetzt wird. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/helvella-acetabulum-hochgerippte-lorchel)
-
-<div style="clear:  both"></div>
 
 - - -
 
