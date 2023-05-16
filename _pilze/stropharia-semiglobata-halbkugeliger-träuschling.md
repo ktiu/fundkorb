@@ -24,3 +24,5 @@ Der Halbkugelige Träuschling ist ein Pilz, der gedüngte Standorte liebt. Die F
 {% include abbildung_ende.html %}
 
 Die Hüte erreichen Durchmesser von etwa 4 cm, sind jung und noch relativ lange halbkugelig, später verflachend mit stumpfem Buckel. Ihre Farbe variiert von hell bis dunkel ockergelb. Die Lamellen sind jung, bald grauend, zuletzt fast schwarz mit violettlichem Hauch; die Schneiden bleiben weiß. Die auffalend langen und schlanken Stiele sind hohl und sehr brüchig, der dünnhäutige Stielring sehr vergänglich. Geschmack und Geruch unauffällig. Der ganze Pilz ist bei Feuchtigkeit stark schleimig, bei Trockenheit klebrig.
+
+*Stropharia semiglobata* ist eine makroskopisch gut erkennbare Art, insbesondere wenn sie bei Feuchtigkeit mit einer dicken Schleimschicht überzogen ist. Dann glitschen einem beim Entnehmen die Fruchtkörper sofort aus den Fingern. Der [Halbkugelige Ackerling *Agrocybe pediades*](/pilze/agrocybe-pediades-halbkugeliger-ackerling) (Synonym: *A. semiorbicularis*) ist dem Halbkugeligen Träuschling nicht nur vom Namen her sondern auch aufgrund seiner Gestalt sehr ähnlich, ist aber völlig trocken.
