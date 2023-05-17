@@ -15,6 +15,18 @@ Nächster Exkursionstermin (mit Speisepilzen ist zu rechnen): Sonntag, 21.05.202
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stropharia_semiglobata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Halbkugelige Träuschling *Stropharia semiglobata*. Er gehört zu den Arten, die gedüngte Böden bevorzugen und ist an seiner bei Feuchtigkeit enormen Schleimigkeit gut zu erkennen. Beim Anfassen glitscht er einem sofort aus den Fingern. Auch seine ockergelben halbkugeligen Hüte und die überproportional langen aber dünnen Stiele sind gute Merkmale. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stropharia-semiglobata-halbkugeliger-träuschling)
+
+ <div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_rubescens_01_dg-1536x1102.jpg" %}
 {% include abbildung_ende.html %}
 
