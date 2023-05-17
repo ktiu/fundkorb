@@ -45,6 +45,6 @@ Möglicherweise ist die Einstufung des Scharfen Rötelritterlings als extrem sel
 Verwechslungsmöglichkeiten mit anderen weißhütigen Lamellenpilzen
 Der [Dichtblättrige Rötelritterling Lepista densifolia](/pilze/lepista-densifolia-dichtblättriger-rötelritterling) ist ein Pilz des Spätherbstes, der Hut reifer Exemplare ist trichterartig vertieft, und der Geschmack ist mehr oder weniger mild, jedenfalls nicht scharf.
 Der Laubfreund-Trichterling Clitocybe phyllophila ist unserer Art ebenfalls sehr ähnlich. Er wächst allerdings im Herbst und seine Lamellen stehen nicht so dicht beieinander wie beim Scharfen Rötelritterling. Außerdem sind beim Laubfreund-Trichterling die Lamellen mit dem Hutfleisch verwachsen, und die Sporen völlig glatt.
-Der [Mehlräsling Clitopilus prunulus](/pilze/clitopilus-prunulus-mehlräsling) riecht und schmeckt stark nach Mehl bzw. geschnittener Gurke. Seine Lamellen stehen ebenfalls nicht sehr dicht und sind bei reifen Fruchtkörpern rosa.
+Der [Mehlräsling Clitopilus prunulus](/pilze/clitopilus-prunulus-mehlräsling) riecht und schmeckt stark nach Mehl bzw. geschnittener Gurke. Seine Lamellen stehen ebenfalls sehr dicht und sind bei reifen Fruchtkörpern rosa.
 
 Rötelritterlinge (Gattung *Lepista*) sind [saprobiontisch](<saprobiontisch "Glossar">) lebende Lamellenpilze mit Ritterlings- oder Trichterlings-Habitus, vom Hutfleisch leicht ablösbaren Lamellen, weißem, cremefarbenem bis rosalichem Sporenpulver, feinwarzigen, nicht amyloiden, jedoch cyanophilen Sporen. An den Hyphensepten und an der Basidienbasis sind Schnallen vorhanden.
