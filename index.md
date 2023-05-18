@@ -15,6 +15,18 @@ Nächster Exkursionstermin (mit Speisepilzen ist zu rechnen): Sonntag, 21.05.202
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_arvensis_05_hs.jpg" %}
+{% include abbildung_ende.html %}
+
+19.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schaf-Champignon *Agaricus arvensis*, gefunden auf einem Grasstreifen am Stadtrand von Dietzenbach. Er gehört zu den gilbenden und (leicht) nach Anis riechenden Vertretern der Gattung. Sie wachsen auf Wiesen und Weiden und können recht groß werden. Ein gutes aber nicht immer deutliches Merkmal befindet sich am Stielring. Vor oder kurz nach dem Abreißen vom Hutrand ist an seiner Unterseite ein flockiges zahnradartiges Muster zu erkennen. Schaf-Champignongs sind gute Speisepilze, aber leider längst nicht mehr so häufig wie in früheren Zeiten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agaricus-arvensis-schaf-champignon)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stropharia_semiglobata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,30 +47,6 @@ Nächster Exkursionstermin (mit Speisepilzen ist zu rechnen): Sonntag, 21.05.202
 [Mehr lesen >](/pilze/amanita-rubescens-perlpilz)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pluteus_petasatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.05.2023: Dachpilze gehören zu den Blätterpilzarten, die oft schon früh im Jahr erscheinen. So auch der Seidige Dachpilz *Pluteus petasatus*, unser heutiger [Fundkorbpilz](AA "Glossar-"). Wir haben ihn allerdings in einer sehr untypischen Form gefunden, nämlich mit einem schuppig aufgerissenen Hut. Da denkt man zuerst an *Lentinus*-Arten wie den [Getigerten Knäueling](/pilze/lentinus-tigrinus-getigerter-knäueling), was wegen der rosa Lamellen unseres Fundes aber nicht in Frage kam. Substrat war ein stark vermorschter Baumstumpf. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pluteus-petasatus-seidiger-dachpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bolbitius_titubans_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.05.2023: Ein bildhübscher Pilz und Dung oder Mist müssen nicht unbedingt unvereinbar sein. Es gibt so viele Pilze, die dieses etwas anrüchige Substrat bevorzugen und trotzdem gefallen. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Goldmistpilz *Bolbitius titubans*. Seine anmutige Gestalt und die goldgelbe Farbe machen ihn zu einer attraktiven Erscheinung, die besonders an Wegrändern immer wieder auffällt. Schon nach wenigen Tagen verblasst seine Schönheit, aber das ist nicht nur bei den Pilzen ein Symptom des Alterns. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/bolbitius-titubans-goldmistpilz)
-
- <div style="clear:  both"></div>
 
 - - -
 
