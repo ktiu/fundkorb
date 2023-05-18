@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-18.05.2023: [Stropharia semiglobata - Halbkugeliger Träuschling](/pilze/stropharia-semiglobata-halbkugeliger-träuschling)  
+19.05.2023: [Agaricus arvensis - Schaf-Champignon](/pilze/agaricus-arvensis-schaf-champignon)  
+18.05.2023: [Stropharia semiglobata - Halbkugeliger Träuschling](/pilze/stropharia-semiglobata-halbkugeliger-träuschling)\
 17.05.2023: [Amanita rubescens - Perlpilz](/pilze/amanita-rubescens-perlpilz)\
 16.05.2023: [Pluteus petasatus - Seidiger Dachpilz](/pilze/pluteus-petasatus-seidiger-dachpilz)\
 15.05.2023: [Bolbitius titubans - Goldmistpilz](/pilze/bolbitius-titubans-goldmistpilz)\
