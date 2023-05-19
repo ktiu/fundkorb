@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Birkenporling-Kissenpustelpilz
 ---
-Der überaus unhandliche deutsche Name verweist darauf, wo er zu finden ist und wie er aussieht. Er besiedelt die Unterseite von Birkenporlingen, seltener auch dessen Oberseite, und hat ein pustel- oder polsterförmiges Aussehen. Der Birkenporling ist eine einjährige Art, auf der der Pustelpilz allerdings erst dann erscheint, wenn der Porling seine besten Tage hinter sich hat, also im Winter oder darauffolgenden Frühjahr. Auf bereits faulenden Birkenporlingen kann man ihn bis in den Sommer beobachten und bei gezielter Suche an toten Birkenstämmen auch finden.
+Der überaus unhandliche deutsche Name verweist darauf, wo er zu finden ist und wie er aussieht. Er besiedelt die Unterseite von Birkenporlingen, seltener auch dessen Oberseite, und hat ein pustel- oder polsterförmiges Aussehen. Der Birkenporling ist eine einjährige Art, auf der der Pustelpilz allerdings erst dann erscheint, wenn der Porling seine besten Tage hinter sich hat, also im Winter oder darauffolgenden Frühjahr. Auf bereits faulenden Birkenporlingen kann man ihn bis in den Sommer beobachten und bei gezielter Suche an toten Birkenstämmen auch finden. Er kommt mitunter auch an anderen Porlingsarten vor.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hypocrea_pulvinata_02_dg.jpg" %}
