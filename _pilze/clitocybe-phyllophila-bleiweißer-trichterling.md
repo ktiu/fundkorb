@@ -25,7 +25,7 @@ Diese Art ist wohl die größte innerhalb einer kleinen Gruppe von Trichterlinge
 {% include bild.html datei="/bilder/clitocybe_phyllophila_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
-Die Hüte können bis zu 10 cm breit werden. Der Hutrand kann bei jungen Exemplaren schmal eingerollt sein. Wichtig ist auf den glanzlosen firnisartigen Belag zu achten, unter dem eine cremegraue bis cremebraune Grundfarbe erscheint. Die Lamellen sind zunächst weiß, verfärben sich durch ausfallendes Sporenpulver rosa-creme. Das dünne Fleisch ist weißlich, der Geschmack mild, der Geruch süßsäuerlich. Die hellen schlanken Stiele werden bis zu 10 cm lang; an der Basis sind sie weißfilzig.
+Die Hüte können bis zu 10 cm breit werden. Der Hutrand kann bei jungen Exemplaren schmal eingerollt sein. Wichtig ist auf den glanzlosen firnisartigen Belag zu achten, unter dem eine cremegraue bis cremebraune Grundfarbe erscheint, wie auf beiden Fotos gut zu erkennen ist. Die Lamellen sind zunächst weiß, verfärben sich durch ausfallendes Sporenpulver rosa-creme. Das dünne Fleisch ist weißlich, der Geschmack mild, der Geruch süßsäuerlich. Die hellen schlanken Stiele werden bis zu 10 cm lang; an der Basis sind sie weißfilzig.
 
 Bleiweiße Trichterlinge wachsen [saprobiotisch](saprobiotisch "Glossar") und meist gesellig in Laub-, Nadel-, und Mischwäldern, am häufigsten unter Fichten und Buchen, weniger häufig bei Kiefern, Tannen, Hainbuchen und Eichen. Die beiden Fotos wurden in unterschiedlichen Wäldern aufgenommen. Das Foto oben zeigt ein Vorkommen bei Kiefern, das untere bei Fichten. Erscheinungszeit ist August bis Dezember.
 
