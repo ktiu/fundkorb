@@ -23,6 +23,6 @@ Unübersehbar, unverwechselbar, schmackhaft - mit diesen Eigenschaften würden s
 
 Manchmal sind sie so groß, dass ein einziges Exemplar nicht in den Sammelkorb passt. Sie erreichen Durchmesser von einem halben Meter und es sind sogar noch größere gefunden worden, die dann eher wie ein Sofakissen als wie eine Kugel aussehen. Solange sie innen und außen weiß sind und sich prall anfühlen, eignen sie sich bestens für die Küche. Die Außenhaut lässt sich wie Eierschalen pellen. Die Qualität nimmt rapide ab, sobald ihr Fleisch an Festigkeit verliert und weich wird. Bald verfärbt es sich  grünlich, dann braun, um schließlich zu Sporenpulver zu zerfallen. Ich schätze, ein einziger Riesenbovist könnte viele Milliarden Sporen produzieren.
 
-Verwechselt werden könnten sie allenfalls  mit Hasenbovisten (*Calvatia utriformis*), die aber längst nicht so groß werden und eine kleinfelderige Haut besitzen. Auch sie wachsen auf Wiesen und sind ebenfalls essbar.
+Verwechselt werden könnten sie allenfalls  mit [Hasenbovisten (*Bovistella utriformis*)](/pilze/bovistella-utriformis-hasenbovist), die aber längst nicht so groß werden und eine kleinfelderige Haut besitzen. Auch sie wachsen auf Wiesen und sind ebenfalls essbar.
 
 Rezeptvorschlag für Riesenboviste: in relativ dünne Scheiben schneiden, mit gehobelten Mandeln spicken, jeweils zwei mit den Mandeln nach innen zusammenklappen, panieren und nach persönlichem Geschmack gewürzt braten. Die Mandeln geben dem Pilzschnitzel einen angenehmen Biss.
