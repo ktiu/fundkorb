@@ -13,7 +13,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/bovistella_utriformis_01_dg.jpg
 ---
-Unter den Bovisten (Stäublingen) gibt es drei ungewöhnlich große Arten, die Durchmesser von mehr als 10 und bis zu 50 cm erreichen können. Am bekanntesten ist der [Riesenbovist *Calvatia gigantea*](/pilze/bovistella-utriformis-hasenbovist), der im Extremfall nahezu einen Meter Duchmesser haben kann und dann eher kissen- als kugelförmig aussieht.
+Unter den Bovisten (Stäublingen) gibt es drei ungewöhnlich große Arten, die Durchmesser von mehr als 10 und bis zu 50 cm erreichen können. Am bekanntesten ist der [Riesenbovist *Calvatia gigantea*](/pilze/calvatia-gigantea-riesenbovist), der im Extremfall nahezu einen Meter Duchmesser haben kann und dann eher kissen- als kugelförmig aussieht.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/bovistella_utriformis_02_dg.jpg" %}
