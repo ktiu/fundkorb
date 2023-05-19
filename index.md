@@ -15,6 +15,18 @@ Nächster Exkursionstermin (mit Speisepilzen ist zu rechnen): Sonntag, 21.05.202
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/kretschmaria_deusta_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brandkrustenpilz *Kretzschmaria deusta*. Zur Zeit ist er vor allem in seinem hellgrauen Konidienstadium ziemlich häufig an Laubholzstümpfen zu finden, das der asexuellen Vermehrung dient. Aus den Konidiensporen entstehen ausschließlich Klone. Fertile Sporen werden in einem späteren Entwicklungsstadium gebildet, wenn die Fruchtkörper ihre graue Farbe verloren haben und schwarz geworden sind. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/kretzschmaria-deusta-brandkrustenpilz)
+
+<div style="clear:  both"></div> 
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_arvensis_05_hs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Nächster Exkursionstermin (mit Speisepilzen ist zu rechnen): Sonntag, 21.05.202
 [Mehr lesen >](/pilze/stropharia-semiglobata-halbkugeliger-träuschling)
 
  <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_rubescens_01_dg-1536x1102.jpg" %}
-{% include abbildung_ende.html %}
-
-17.05.2023: In unserer Dietzenbacher Parkanlage ist gerade der erste Perlpilz (*Amanita rubescens*) erschienen und soll natürlich auch der aktuelle [Fundkorbpilz](AA "Glossar-") des heutigen Tages sein. Erfahrene Pilzsammler haben keine Probleme ihn sicher zu erkennen. Einsteiger sollten sich vor dem ersten Perlpilzgericht jedoch gründlich über die Verwechslungsmöglichkeiten informieren. Den [Pantherpilz](/pilze/amanita-pantherina-pantherpilz) sollte man besser nicht in der Pfanne bzw. im Magen haben. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-rubescens-perlpilz)
-
-<div style="clear:  both"></div>
 
 - - -
 
