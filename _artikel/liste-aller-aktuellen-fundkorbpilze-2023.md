@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-20.05.2023: [Kretzschmaria deusta - Brandkrustenpilz](/pilze/kretzschmaria-deusta-brandkrustenpilz)  
+21.05.2023: [Arachnopeziza aurelia - Goldgelbes Spinnwebbecherchen](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen)  
+20.05.2023: [Kretzschmaria deusta - Brandkrustenpilz](/pilze/kretzschmaria-deusta-brandkrustenpilz)\
 19.05.2023: [Agaricus arvensis - Schaf-Champignon](/pilze/agaricus-arvensis-schaf-champignon)\
 18.05.2023: [Stropharia semiglobata - Halbkugeliger Träuschling](/pilze/stropharia-semiglobata-halbkugeliger-träuschling)\
 17.05.2023: [Amanita rubescens - Perlpilz](/pilze/amanita-rubescens-perlpilz)\
