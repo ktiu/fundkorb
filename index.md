@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cantharellus_cibarius_06_mm.jpg" %}
+{% include abbildung_ende.html %}
+
+23.05.2023: Bei unserer Pilzwanderung am Sonntag haben wir auch einige Pfifferlinge (*Cantharellus cibarius*) gefunden. Sie waren noch sehr klein und haben wegen der schon wieder einsetzenden Trockenheit wohl keine Chance, sich zu ausgewachsenen Pilzen zu entwickeln. Vor 5 oder 6 Jahren sah das um diese Zeit noch ganz anders aus. Da konnte man wie das Foto zeigt noch sein Sammelkörbchen füllen. Aktueller [Fundkorbpilz](AA "Glossar-") sollte das aktuelle nicht sammelwürdige Vorkommen trotzdem sein. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cantharellus-cibarius-pfifferling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_reticularis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/kretschmaria_deusta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brandkrustenpilz *Kretzschmaria deusta*. Zur Zeit ist er vor allem in seinem hellgrauen Konidienstadium ziemlich häufig an Laubholzstümpfen zu finden, das der asexuellen Vermehrung dient. Aus den Konidiensporen entstehen ausschließlich Klone. Fertile Sporen werden in einem späteren Entwicklungsstadium gebildet, wenn die Fruchtkörper ihre graue Farbe verloren haben und schwarz geworden sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/kretzschmaria-deusta-brandkrustenpilz)
-
-<div style="clear:  both"></div> 
 
 - - -
 
