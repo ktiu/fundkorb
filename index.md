@@ -10,7 +10,17 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-Nächster Exkursionstermin (mit Speisepilzen ist zu rechnen): Sonntag, 21.05.2023 - [Zur Info ->](/termine)
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_reticularis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sommersteinpilz *Boletus reticulatus*, der bei geeigneten Bedingungen schon im Mai zu finden ist. So auch in diesem Jahr, dem Trend folgend, dass aufgrund der Klimaveränderung fast alles in der Natur früher erwacht als zuvor. Zum Schluss unserer Exkursion im Ansfeldwald bei Rodgau-Dudenhofen fanden wir ein ausgewachsenes Exemplar am  Parkplatz unter einer alten Eiche. Es war total von Maden zerfressen, was bei früh erscheinenden Sommersteinpilzen eher die Regel als die Ausnahme zu sein scheint. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/boletus-reticulatus-sommersteinpilz)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -35,30 +45,6 @@ Nächster Exkursionstermin (mit Speisepilzen ist zu rechnen): Sonntag, 21.05.202
 [Mehr lesen >](/pilze/kretzschmaria-deusta-brandkrustenpilz)
 
 <div style="clear:  both"></div> 
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_arvensis_05_hs.jpg" %}
-{% include abbildung_ende.html %}
-
-19.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schaf-Champignon *Agaricus arvensis*, gefunden auf einem Grasstreifen am Stadtrand von Dietzenbach. Er gehört zu den gilbenden und (leicht) nach Anis riechenden Vertretern der Gattung. Sie wachsen auf Wiesen und Weiden und können recht groß werden. Ein gutes aber nicht immer deutliches Merkmal befindet sich am Stielring. Vor oder kurz nach dem Abreißen vom Hutrand ist an seiner Unterseite ein flockiges zahnradartiges Muster zu erkennen. Schaf-Champignongs sind gute Speisepilze, aber leider längst nicht mehr so häufig wie in früheren Zeiten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agaricus-arvensis-schaf-champignon)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stropharia_semiglobata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Halbkugelige Träuschling *Stropharia semiglobata*. Er gehört zu den Arten, die gedüngte Böden bevorzugen und ist an seiner bei Feuchtigkeit enormen Schleimigkeit gut zu erkennen. Beim Anfassen glitscht er einem sofort aus den Fingern. Auch seine ockergelben halbkugeligen Hüte und die überproportional langen aber dünnen Stiele sind gute Merkmale. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/stropharia-semiglobata-halbkugeliger-träuschling)
-
- <div style="clear:  both"></div>
 
 - - -
 
