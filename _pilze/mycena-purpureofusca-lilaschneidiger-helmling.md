@@ -33,3 +33,9 @@ Der Lilaschneidige Helmling wächst als Folgezersetzer in Nadelwäldern, auf mod
 {% include bild.html datei="/bilder/mycena_purpureofusca_02_dg.jpg" %}
 {% include bild.html datei="/bilder/mycena_purpureofusca_03_dg.jpg" %}
 {% include abbildung_ende.html legende="Gut zu erkennen: die gefärbten Lamellenschneiden (30.03.2019 TK 5918.4.3 Dietzenbach, Carré Rodgaustraße)" %}
+
+Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:  
+[Mycena olivaceomarginata = Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)  
+[Mycena pelianthina = Schwarzgezähnlter Helmling](/pilze/mycena-pelianthina-schwarzgezähnelter-helmling)  
+[Mycena sanguinolenta = Purpurschneidiger Helmllng, Kleiner Bluthelmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)  
+[Mycena viridimarginata = Grünschneidiger Helmling](/pilze/mycena-viridimarginata-grünschneidiger-helmling)
