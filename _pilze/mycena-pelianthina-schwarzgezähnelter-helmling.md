@@ -25,3 +25,9 @@ Diese Art gehört zur Gruppe der gut abgrenzbaren Rettichhelmlinge, die sich dur
 {% include abbildung_ende.html %}
 
 Schon mit bloßem Auge, aber viel besser mit der Lupe, sind die schwarzgezähnelten Lamellenschneiden zu erkennen, die dem Pilz seinen Namen gegeben haben. Er ist der Doppelgänger des [Gemeinen Rettich-Helmlings Mycena pura](/pilze/mycena-pura-gemeiner-rettich-helmling), der keine schwarzgezähnelten Lamellen hat. Beide sind leicht magen-/darmgiftig.
+
+Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:
+[Mycena olivaceomarginata = Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)
+[Mycena purpureofusca = Lilaschneidiger Helmling](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)
+[Mycena sanguinolenta = Purpurschneidiger Helmllng, Kleiner Bluthelmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)
+[Mycena viridimarginata = Grünschneidiger Helmling](/pilze/mycena-viridimarginata-grünschneidiger-helmling)
