@@ -38,5 +38,5 @@ Die stets stumpf gebuckelten Hüte des Braunschneidigen Helmlings sind fast bis 
 Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:\
 [Mycena pelianthina =  Schwarzgezähnelter Helmling](/pilze/mycena-pelianthina-schwarzgezähnelter-helmling)\
 [Mycena purpureofusca = Lilaschneidiger Helmling](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)\
-[Mycena sanguinolenta = Purpurschneidiger Helmllng, Kleiner Bluthelmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)\
+[Mycena sanguinolenta = Purpurschneidiger Helmling, Kleiner Bluthelmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)\
 [Mycena viridimarginata = Grünschneidiger Helmling](/pilze/mycena-viridimarginata-grünschneidiger-helmling)
