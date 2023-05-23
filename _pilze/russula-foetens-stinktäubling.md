@@ -80,5 +80,5 @@ Andere Stinktäublinge (*Foetentinae*) sind:\
 [*Russula  farinipes* = Mehlstieltäubling](/pilze/russula-farinipes-mehlstieltäubling) (der nicht so recht in diese Gruppe passt sondern isoliert in der Untersektion *Farinipedes* geführt wird)\
 [*Russula  illota* = Morsetäubling](/pilze/russula-illota-morsetäubling)\
 [*Russula  subfoetens* = Gilbender Stinktäubling](/pilze/russula-subfoetens-gilbender-stinktäubling)\
-*Russula  fragrantissima* = Anistäubling\
+[*Russula  fragrantissima* = Anistäubling](/pilze/russula-fragrantissima-anistäubling)\
 [*Russula  grata* = Mandeltäubling](/pilze/russula-grata-mandeltäubling)
