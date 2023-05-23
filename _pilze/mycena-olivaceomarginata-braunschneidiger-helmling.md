@@ -34,3 +34,10 @@ Da auch der zwar schwache, aber wahrnehmbare Geruch nach Meerrettich (von einige
 Die stets stumpf gebuckelten Hüte des Braunschneidigen Helmlings sind fast bis zur dunkleren Mitte deutlich gerieft und bis zu 2 cm breit. Ihre Farben variieren von hell oliv, hellcreme  bis grau- oder rotbraun. Die Lamellen sind ausgebuchtet am Stiel angeheftet und weißlich bis weißgrau. Es ist uns aufgefallen, dass nicht immer sämtliche Schneiden die charakteristische bräunliche Farbe haben und dass die Färbung manchmal auch wie punktiert erscheint. Die bis zu 6 cm langen Stiele sind zäh und steif, auf ganzer Länge gleich dick und hohl.
 
 *Mycena olivaceomarginata* ist vermutlich eine typische Art der späteren Herbstmonate, worauf auf unser Funddatum hindeutet. Selbst für die Wintermonate Dezember und Januar liegen Fundmeldungen vor.
+
+Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:  
+Mycena olivaceomarginata = Braunschneidiger Helmling  
+[Mycena pelianthina =  Schwarzgezähnelter Helmling](/pilze/mycena-pelianthina-schwarzgezähnelter-helmling)  
+[Mycena purpureofusca = Lilaschneidiger Helmling](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)  
+[Mycena sanguinolenta = Purpurschneidiger Helmllng, Kleiner Bluthelmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)  
+[Mycena viridifusca = Grünschneidiger Helmling](/pilze/mycena-viridimarginata-grünschneidiger-helmling)
