@@ -40,4 +40,4 @@ Mycena olivaceomarginata = Braunschneidiger Helmling
 [Mycena pelianthina =  Schwarzgezähnelter Helmling](/pilze/mycena-pelianthina-schwarzgezähnelter-helmling)  
 [Mycena purpureofusca = Lilaschneidiger Helmling](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)  
 [Mycena sanguinolenta = Purpurschneidiger Helmllng, Kleiner Bluthelmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)  
-[Mycena viridifusca = Grünschneidiger Helmling](/pilze/mycena-viridimarginata-grünschneidiger-helmling)
+[Mycena viridimarginata = Grünschneidiger Helmling](/pilze/mycena-viridimarginata-grünschneidiger-helmling)
