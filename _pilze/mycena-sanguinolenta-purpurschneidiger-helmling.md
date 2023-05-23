@@ -16,7 +16,7 @@ literatur:
   - url: https://de.wikipedia.org/wiki/Purpurschneidiger_Blut-Helmling
   - url: http://tintling.com/pilzbuch/arten/m/Mycena_haematopus.html
 ---
-Unter den milchenden Helmlingen ist der Purpurschneidige der einzige mit gefärbter Lamellenschneide und der mit dem wenigsten Milchsaft. Was nicht verwundert, denn er hat sehr dünne Stiele, die aber im Verhältnis zur Hutgröße meist auffallend lang sind. Man findet den Pilz meist gesellig wachsend in Laub- und Nadelwäldern, in denen er gern Blätter, Nadeln, Ästchen, [Cupulen](Cupulen "Glossar") oder Zapfen besiedelt. Die Art ist in ganz Deutschland verbreitet und häufig.
+Unter den milchenden Helmlingen ist der Purpurschneidige der einzige mit gefärbter Lamellenschneide und der mit dem wenigsten Milchsaft. Was nicht verwundert, denn er hat sehr dünne Stiele, die aber im Verhältnis zur Hutgröße meist auffallend lang sind. Er wird auch Kleiner Bluthelmling genannt. Man findet den Pilz meist gesellig wachsend in Laub- und Nadelwäldern, in denen er gern Blätter, Nadeln, Ästchen, [Cupulen](Cupulen "Glossar") oder Zapfen besiedelt. Die Art ist in ganz Deutschland verbreitet und häufig.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mycena_sanguinolenta_02_dg.jpeg" nocrop=true %}
@@ -25,8 +25,14 @@ Unter den milchenden Helmlingen ist der Purpurschneidige der einzige mit gefärb
 
 Die in Deutschland vorkommenden milchenden Helmlingsarten sind:
 
-Mycena galopus (Weißmilchender Helmling,inkl. 2 Varietäten)  
-[Mycena haematopus](/pilze/mycena-haematopus-großer-bluthelmling) (Großer Bluthelmling)  
-Mycena sanguinolenta (Purpurschneidiger Helmling)  
-[Mycena crocata](/pilze/mycena-crocata-gelbmilchender-helmling) (Gelbmilchender Helmling)  
+Mycena galopus (Weißmilchender Helmling,inkl. 2 Varietäten)\
+[Mycena haematopus](/pilze/mycena-haematopus-großer-bluthelmling) (Großer Bluthelmling)\
+Mycena sanguinolenta (Purpurschneidiger Helmling)\
+[Mycena crocata](/pilze/mycena-crocata-gelbmilchender-helmling) (Gelbmilchender Helmling)\
 Mycena erubescens (Bitterer Helmling, Weißmilchender Gallenhelmling)
+
+Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:  
+[Mycena olivaceomarginata = Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)  
+[Mycena pelianthina =  Schwarzgezähnelter Helmling](/pilze/mycena-pelianthina-schwarzgezähnelter-helmling)  
+[Mycena purpureofusca = Lilaschneidiger Helmling](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)  
+[Mycena viridimarginata = Grünschneidiger Helmling](/pilze/mycena-viridimarginata-grünschneidiger-helmling)
