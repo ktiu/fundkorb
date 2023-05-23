@@ -23,7 +23,9 @@ Der gezeigte Fund (Mai 2023) stammt aus der Nähe von Allershausen (nördl. von 
 Die Sporen sind dünnwandig, glatt und hyalin. Außerdem sind sie
 amyloid, was man an der dunklen Wandung in Melzers Reagenz erkennen kann. Gemessene Werte: 8,5 - 11 x 6,1 - 7,1 µm; Quotient = 1,4 - 1,5
 
-
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/mycena_viridimarginata_03_bm.jpg" %}
+{% include abbildung_ende.html %}
 
 Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:\
 [*Mycena olivaceomarginata* = Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)\
