@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_viridimarginata_01_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+24.05.2023: Wieder einmal kommt der aktuelle [Fundkorbpilz](AA "Glossar-") aus Bayern. Es ist eine in diesem Bundesland häufige Art an meist finalmorschen und bemoosten Nadelholzstümpfen: der Grünschneidige Helmling *Mycena viridimarginata*. An mehreren Stümpfen konnten wir vereinzelte, aber auch gesellig wachsende Fruchtkörper finden. Besonders bei einem Exemplar waren die namensgebenden gefärbten Lamellenschneiden schön zu sehen. Wobei „grün“ nicht wirklich grün ist, und auch selten die Schneide über die gesamte Länge gefärbt ist. Meist ist es nur der Bereich zum Hutrand hin. (Johann Rejek)
+
+[Mehr lesen >](/pilze/mycena-viridimarginata-grünschneidiger-helmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cantharellus_cibarius_06_mm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 22.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sommersteinpilz *Boletus reticulatus*, der bei geeigneten Bedingungen schon im Mai zu finden ist. So auch in diesem Jahr, dem Trend folgend, dass aufgrund der Klimaveränderung fast alles in der Natur früher erwacht als zuvor. Zum Schluss unserer Exkursion im Ansfeldwald bei Rodgau-Dudenhofen fanden wir ein ausgewachsenes Exemplar am  Parkplatz unter einer alten Eiche. Es war total von Maden zerfressen, was bei früh erscheinenden Sommersteinpilzen eher die Regel als die Ausnahme zu sein scheint. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/boletus-reticulatus-sommersteinpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/arachnopeziza_aurelia_03_iw.jpg" %}
-{% include abbildung_ende.html %}
-
-21.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Goldgelbe Spinnwebbecherchen *Arachnopeziza aurelia*, ein winziger [Ascomyzet](Ascomyzeten "Glossar"), den man mit der Lupe suchen muss. Seine maximale Größe von etwa 1 mm wird nur selten erreicht. Er wächst zu vielen gesellig oder dicht gedrängt auf einem meist kaum erkennbaren spinnwebartigen Hyphengewebe (Subikulum). Wir fanden die schön orangefarbenen Becherchen in einem Roteichenforst bei Dietzenbach gleich mehrfach an am Boden liegenden Fruchtschalen und einmal an Blattresten. Als Substrat kommen noch Totholz und sonstige Pflanzenreste in Frage. Die ganzjährig vorkommende Art gilt als selten, wird wohl aber leicht übersehen oder nicht beachtet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen)
 
 <div style="clear:  both"></div>
 
