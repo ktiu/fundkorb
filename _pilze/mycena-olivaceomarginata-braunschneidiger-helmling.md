@@ -35,9 +35,8 @@ Die stets stumpf gebuckelten Hüte des Braunschneidigen Helmlings sind fast bis 
 
 *Mycena olivaceomarginata* ist vermutlich eine typische Art der späteren Herbstmonate, worauf auf unser Funddatum hindeutet. Selbst für die Wintermonate Dezember und Januar liegen Fundmeldungen vor.
 
-Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:  
-Mycena olivaceomarginata = Braunschneidiger Helmling  
-[Mycena pelianthina =  Schwarzgezähnelter Helmling](/pilze/mycena-pelianthina-schwarzgezähnelter-helmling)  
-[Mycena purpureofusca = Lilaschneidiger Helmling](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)  
-[Mycena sanguinolenta = Purpurschneidiger Helmllng, Kleiner Bluthelmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)  
+Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:\
+[Mycena pelianthina =  Schwarzgezähnelter Helmling](/pilze/mycena-pelianthina-schwarzgezähnelter-helmling)\
+[Mycena purpureofusca = Lilaschneidiger Helmling](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)\
+[Mycena sanguinolenta = Purpurschneidiger Helmllng, Kleiner Bluthelmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)\
 [Mycena viridimarginata = Grünschneidiger Helmling](/pilze/mycena-viridimarginata-grünschneidiger-helmling)
