@@ -23,16 +23,15 @@ Unter den milchenden Helmlingen ist der Purpurschneidige der einzige mit gefärb
 {% include bild.html datei="/bilder/mycena_sanguinolenta_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Die in Deutschland vorkommenden milchenden Helmlingsarten sind:
-
-Mycena galopus (Weißmilchender Helmling,inkl. 2 Varietäten)\
+Die in Deutschland vorkommenden milchenden Helmlingsarten sind:  
+[Mycena galopus](/pilze/mycena-galopus-weißmilchender-helmling) (Weißmilchender Helmling,inkl. 2 Varietäten)\
 [Mycena haematopus](/pilze/mycena-haematopus-großer-bluthelmling) (Großer Bluthelmling)\
-Mycena sanguinolenta (Purpurschneidiger Helmling)\
+[Mycena sanguinolenta](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling) (Purpurschneidiger Helmling)\
 [Mycena crocata](/pilze/mycena-crocata-gelbmilchender-helmling) (Gelbmilchender Helmling)\
 Mycena erubescens (Bitterer Helmling, Weißmilchender Gallenhelmling)
 
-Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:  
-[Mycena olivaceomarginata = Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)  
-[Mycena pelianthina =  Schwarzgezähnelter Helmling](/pilze/mycena-pelianthina-schwarzgezähnelter-helmling)  
-[Mycena purpureofusca = Lilaschneidiger Helmling](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)  
+Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:\
+[Mycena olivaceomarginata = Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)\
+[Mycena pelianthina =  Schwarzgezähnelter Helmling](/pilze/mycena-pelianthina-schwarzgezähnelter-helmling)\
+[Mycena purpureofusca = Lilaschneidiger Helmling](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)\
 [Mycena viridimarginata = Grünschneidiger Helmling](/pilze/mycena-viridimarginata-grünschneidiger-helmling)
