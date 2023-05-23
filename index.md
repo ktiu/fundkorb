@@ -36,18 +36,6 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_reticularis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sommersteinpilz *Boletus reticulatus*, der bei geeigneten Bedingungen schon im Mai zu finden ist. So auch in diesem Jahr, dem Trend folgend, dass aufgrund der Klimaveränderung fast alles in der Natur früher erwacht als zuvor. Zum Schluss unserer Exkursion im Ansfeldwald bei Rodgau-Dudenhofen fanden wir ein ausgewachsenes Exemplar am  Parkplatz unter einer alten Eiche. Es war total von Maden zerfressen, was bei früh erscheinenden Sommersteinpilzen eher die Regel als die Ausnahme zu sein scheint. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-reticulatus-sommersteinpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
 
 [Liste aller aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
