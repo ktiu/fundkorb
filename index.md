@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tubaria_conspersa_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+25.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein recht unscheinbarer Vertreter einer wenig beachteten Gattung, der Flockige Trompetenschnitzling *Tubaria conspersa*. Doch sooo unauffällig ist er bei genauerem Hinschauen gar nicht und eigentlich sogar recht hübsch. Wichtigstes Merkmal ist der vor allem am Rand feinflockige Hut. Man findet ihn in Wäldern an abgestorbenen Ästchen oder am Boden auf vergrabenen Holz. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tubaria-conspersa-flockiger-trompetenschnitzling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_viridimarginata_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
