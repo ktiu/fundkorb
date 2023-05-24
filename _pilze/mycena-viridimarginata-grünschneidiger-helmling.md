@@ -25,7 +25,7 @@ amyloid, was man an der dunklen Wandung in Melzers Reagenz erkennen kann. Gemess
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mycena_viridimarginata_03_bm.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Mikrofoto: Bernd Miggel" %}
 
 Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:\
 [*Mycena olivaceomarginata* = Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)\
