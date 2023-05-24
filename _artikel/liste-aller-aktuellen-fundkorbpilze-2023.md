@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-24.05.2023: [Mycena viridimarginata - Grünschneidiger Helmling](/pilze/mycena-viridimarginata-grünschneidiger-helmling)  
+25.05.2023: [Tubaria conspersa - Flockiger Trompetenschnitzling](/pilze/tubaria-conspersa-flockiger-trompetenschnitzling)  
+24.05.2023: [Mycena viridimarginata - Grünschneidiger Helmling](/pilze/mycena-viridimarginata-grünschneidiger-helmling)\
 23.05.2023: [Cantharellus cibarius - Pfifferling](/pilze/cantharellus-cibarius-pfifferling)\
 22.05.2023: [Boletus reticulatus - Sommersteinpilz](/pilze/boletus-reticulatus-sommersteinpilz)\
 21.05.2023: [Arachnopeziza aurelia - Goldgelbes Spinnwebbecherchen](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen)\
