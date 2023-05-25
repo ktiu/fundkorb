@@ -46,6 +46,10 @@ Die 2 - 3 cm breiten Hüte waren in der Mitte zumeist etwas vertieft, ihre schok
 
 Bemerkenswert sind Geruch und Geschmack. Erfahrungsgemäß nehmen unterschiedliche Nasen einen Geruch recht unterschiedlich wahr, im Falle von *Gymnopus graveolens* teils knoblauchartig, teils fischig. Auf dem Postweg verschickte Fruchtkörper, die vier Tage lang (!) unterwegs waren, rochen penetrant nach Knoblauch. *Dieter Gewalt* beschrieb den Geschmack frischer Pilze so: zuerst muffig, nach gründlichem Zerkauen bitter, nach dem Ausspucken anhaltend und ekelhaft bitter, wobei sich der üble Gescmack selbst bei mehrfachem Mundspülen mit Wasser nur langsam verflüchtigte.
 
+
+
+Im Mai des folgenden Jahres erschienen die Pilze wieder an der gleichen Stelle, wiederum in großer Zahl. Diesmal konnte auch die harte Sklerotienknolle an der Stielbasis erkannt werden (siehe 2. Foto oben).
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/gymnopus_graveolens_05_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/gymnopus_graveolens_06_bm.jpg" nocrop=true gross=true %}
