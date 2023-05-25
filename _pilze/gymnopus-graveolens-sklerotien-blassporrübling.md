@@ -7,7 +7,7 @@ beschreibung:
   synonym: "Synonym: Gymnopus impudicus"
   erlaeuterung: graveolens = stark riechend
 profil:
-  aktualisiert: 2022-10-07
+  aktualisiert: 2023-05-25
   autor_in: Dieter Gewalt & Bernd Miggel
 hauptbild:
   anzeige: true
