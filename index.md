@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopus_graveolens_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.05.2023: Eine der Raritäten in unserem Dietzenbacher Carré, die hier letztes Jahr erstmals aufgetaucht und jetzt wieder exakt am alten Standort erschienen ist: der Sklerotien-Blasssporrübling *Gymnopus graveolens*. Natürlich muss er heute unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Es sind wieder mehr als zwei Dutzend Fruchtkörper zwischen Sträuchern und einem Apfelbaum. Dieses Wiedererscheinen ist insofern erfreulich, als jetzt auch die Sklerotienknolle an der Stielbasis erkannt werden konnte. Sie ist neben dem unangenehmen Geruch ein wesentliches Merkmal, um Gymnopus graveolens von ähnlichen Arten zu unterscheiden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gymnopus-graveolens-sklerotien-blassporrübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tubaria_conspersa_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 24.05.2023: Wieder einmal kommt der aktuelle [Fundkorbpilz](AA "Glossar-") aus Bayern. Es ist eine in diesem Bundesland häufige Art an meist finalmorschen und bemoosten Nadelholzstümpfen: der Grünschneidige Helmling *Mycena viridimarginata*. An mehreren Stümpfen konnten wir vereinzelte, aber auch gesellig wachsende Fruchtkörper finden. Besonders bei einem Exemplar waren die namensgebenden gefärbten Lamellenschneiden schön zu sehen. Wobei „grün“ nicht wirklich grün ist, und auch selten die Schneide über die gesamte Länge gefärbt ist. Meist ist es nur der Bereich zum Hutrand hin. (Johann Rejek)
 
 [Mehr lesen >](/pilze/mycena-viridimarginata-grünschneidiger-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cantharellus_cibarius_06_mm.jpg" %}
-{% include abbildung_ende.html %}
-
-23.05.2023: Bei unserer Pilzwanderung am Sonntag haben wir auch einige Pfifferlinge (*Cantharellus cibarius*) gefunden. Sie waren noch sehr klein und haben wegen der schon wieder einsetzenden Trockenheit wohl keine Chance, sich zu ausgewachsenen Pilzen zu entwickeln. Vor 5 oder 6 Jahren sah das um diese Zeit noch ganz anders aus. Da konnte man wie das Foto zeigt noch sein Sammelkörbchen füllen. Aktueller [Fundkorbpilz](AA "Glossar-") sollte das aktuelle nicht sammelwürdige Vorkommen trotzdem sein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cantharellus-cibarius-pfifferling)
 
 <div style="clear:  both"></div>
 
