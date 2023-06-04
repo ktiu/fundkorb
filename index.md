@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/gymnopus_graveolens_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-26.05.2023: Eine der Raritäten in unserem Dietzenbacher Carré, die hier letztes Jahr erstmals aufgetaucht und jetzt wieder exakt am alten Standort erschienen ist: der Sklerotien-Blasssporrübling *Gymnopus graveolens*. Natürlich muss er heute unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Es sind wieder mehr als zwei Dutzend Fruchtkörper zwischen Sträuchern und einem Apfelbaum. Dieses Wiedererscheinen ist insofern erfreulich, als jetzt auch die Sklerotienknolle an der Stielbasis erkannt werden konnte. Sie ist neben dem unangenehmen Geruch ein wesentliches Merkmal, um Gymnopus graveolens von ähnlichen Arten zu unterscheiden. (Dieter Gewalt)
+26.05.2023: Eine der Raritäten in unserem Dietzenbacher Carré, die hier letztes Jahr erstmals aufgetaucht und jetzt wieder exakt am alten Standort erschienen ist: der Sklerotien-Blasssporrübling *Gymnopus graveolens*. Natürlich muss er heute unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Es sind wieder mehr als zwei Dutzend Fruchtkörper zwischen Sträuchern und einem Apfelbaum.. Dieses Wiedererscheinen ist insofern erfreulich, als jetzt auch die Sklerotienknolle an der Stielbasis erkannt werden konnte. Sie ist neben dem unangenehmen Geruch ein wesentliches Merkmal, um Gymnopus graveolens von ähnlichen Arten zu unterscheiden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gymnopus-graveolens-sklerotien-blassporrübling)
 
