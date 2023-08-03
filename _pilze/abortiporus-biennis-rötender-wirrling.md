@@ -11,6 +11,7 @@ profil:
 hauptbild:
   datei: /bilder/abortiporus_biennis_01_dg.jpg
   anzeige: true
+  legende: ""
 literatur:
   - text: "Werner Pohl: Aphyllopower (Pilz Nr. 10)"
     url: http://aphyllopower.blogspot.com/2006/08/
