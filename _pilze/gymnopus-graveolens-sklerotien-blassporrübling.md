@@ -12,8 +12,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/gymnopus_graveolens_01_dg.jpg
-  legende: 20. September 2022, Parkanlage in Dietzenbach ("Carré Rodgaustraße"),
-    TK 5948.4.3
+  legende: "20. September 2022, Parkanlage in Dietzenbach (Carré Rodgaustraße), TK 5948.4.3"
 literatur:
   - text: "ANTONIN, V. & NOORDELOOS, M.E. (2010): A monograph of marasmioid and
       collybioid fungi in Europe: 226-230. – IHW-Verlag, Eching"
@@ -49,7 +48,7 @@ Bemerkenswert sind Geruch und Geschmack. Erfahrungsgemäß nehmen unterschiedlic
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/gymnopus_graveolens_10_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/gymnopus_graveolens_11_dg.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="24. Mai 2023, Parkanlage in Dietzenbach ("Carré Rodgaustraße") -- Foto rechts: Fruchtkörper mit Sklerotienknolle" %}
+{% include abbildung_ende.html legende="24. Mai 2023, Parkanlage in Dietzenbach (Carré Rodgaustraße) -- Foto rechts: Fruchtkörper mit Sklerotienknolle" %}
 
 Im Mai des folgenden Jahres erschienen die Pilze wieder an der gleichen Stelle, wiederum in großer Zahl. Diesmal konnte auch die harte Sklerotienknolle an der Stielbasis erkannt werden (siehe 2. Foto oben).
 
