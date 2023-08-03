@@ -22,7 +22,7 @@ Eine seiner markanten Eigenschaften ist seine Variabilität. Der Rötende Wirrli
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/abortiporus_biennis_02_dg.jpg" %}
-{% include abbildung_ende.html legende=""fdsafdsa" %}
+{% include abbildung_ende.html %}
 
 Am häufigsten findet man Fruchtkörper, die unregelmäßig trichterig geformt sind und sich zur Basis hin stielartig verjüngen. Sie erreichen Durchmesser von bis zu 15 cm. Wachsen mehrere zusammen an einem Standort, können sie rosettenartig miteinander verwachsen sein. Es kommen aber auch knollige Fruchtkörper vor, die an den Seiten lamellige Poren haben. Die Konsistenz des Pilzes ist lederig zäh. Er wächst meist scheinbar auf dem Waldboden, hat aber stets Kontakt mit unterirdischen Baumwurzeln oder totem im Substrat verborgenen Holz.
 
