@@ -18,12 +18,11 @@ literatur:
     url: http://tintling.com/pilzbuch/arten/a/Abortiporus_biennis.html
 published: true
 ---
-
 Eine seiner markanten Eigenschaften ist seine Variabilität. Der Rötende Wirrling kann höchst unterschiedliche Wuchsformen annehmen und ist doch leicht zu erkennen, da es nur wenige Pilzarten mit einem [daedaloiden](daedaloid "Glossar") [Hymenium](Hymenium "Glossar") gibt. Wie ein solches gestaltet ist, zeigt die nachfolgende Abbildung. Es ähnelt dem eines Eichenwirrlings, ist aber sehr viel feiner ausgebildet. Bei frischen Fruchtkörpern rötet es auf Druck oder Reiben. Eine Besonderheit ist die Bildung von ungeschlechtlichen [Chlamydosporen](Chlamydosporen "Glossar") in fast allen Teilen des Fruchtkörpers. 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/abortiporus_biennis_02_dg.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende=""fdsafdsa" %}
 
 Am häufigsten findet man Fruchtkörper, die unregelmäßig trichterig geformt sind und sich zur Basis hin stielartig verjüngen. Sie erreichen Durchmesser von bis zu 15 cm. Wachsen mehrere zusammen an einem Standort, können sie rosettenartig miteinander verwachsen sein. Es kommen aber auch knollige Fruchtkörper vor, die an den Seiten lamellige Poren haben. Die Konsistenz des Pilzes ist lederig zäh. Er wächst meist scheinbar auf dem Waldboden, hat aber stets Kontakt mit unterirdischen Baumwurzeln oder totem im Substrat verborgenen Holz.
 
@@ -42,4 +41,3 @@ Am 9. November 2019 fanden wir den Wirrling im Hainbachtal bei Offenbach seitlic
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/abortiporus_biennis_05_dg.jpg" %}
 {% include abbildung_ende.html %}
-
