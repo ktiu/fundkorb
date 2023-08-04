@@ -14,7 +14,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/agrocybe_pediades_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-27.05.2023: Aktueller Fundkorbpilz ist der Halbkugelige Ackerling Agrocybe pediades. Man kann ihn fast überall außerhalb von Wäldern finden, auf Wiesen, an Feldrändern, etc. Zur Zeit wächst er in unserer Dietzenbacher Parkanlage gleich an mhreren Stellen. Man achte auf den ringlosen dünnen Stiel und den ranzigen Mehlgeruch und -geschmack. (Dieter Gewalt)
+27.05.2023: Aktueller Fundkorbpilz ist der Halbkugelige Ackerling *Agrocybe pediades*. Man kann ihn fast überall außerhalb von Wäldern finden, auf Wiesen, an Feldrändern, etc. Zur Zeit wächst er in unserer Dietzenbacher Parkanlage gleich an mhreren Stellen. Man achte auf den ringlosen dünnen Stiel und den ranzigen Mehlgeruch und -geschmack. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agrocybe-pediades-halbkugeliger-ackerling) 
 
