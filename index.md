@@ -10,6 +10,30 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_badius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.05.2023: Aktueller Fundkorbpilz ist der Kastanienbraune Stielporling *Polyporus badius*. Typisch für ihn sind die elastischen am Rand sehr dünnen, auf der Oberfläche glatten, fettig glänzenden, dunkel- bis schwarzbraunen Hüte sowie die sehr feinen Poren. Mit dieser Merkmalskombination ist der auf Totholz wachsende Pilz praktisch unverwechselbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/polyporus-badius-kastanienbrauner-stielporling-schwarzroter-porling)
+
+<div style="clear:  both"></div>
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/panaeolus_foenisecii_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.05.2023: Aktueller Fundkorbpilz ist der Heu-Düngerling *Panaeolus foenisecii*. Eine wegen ihrer 1- und 4-jährigen Kinder besorgte Mutter aus Frankfurt hatte mich kontaktiert, als auf ihrem neu ausgelegten Rollrasen kleine Pilze erschienen sind. Aufgrund ihrer Fotos konnten sie als Heu-Düngerlinge identifiziert werden. Da sie das Halluzinogen *Psilocybin* enthalten können, ist gerade bei Kleinkindern größte Vorsicht geboten. Empfehlung: den Rasen im Auge behalten und die Pilze entfernen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/panaeolus-foenisecii-heu-düngerling)
+
+<div style="clear:  both"></div>
+
 _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 {% include abbildung_start.html stil="fliessend" %}
@@ -22,7 +46,7 @@ _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <div style="clear:  both"></div>
 
-________________________________________________________________
+- - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gymnopus_graveolens_04_dg.jpg" %}
