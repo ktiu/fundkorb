@@ -29,7 +29,7 @@ literatur:
   - url: https://de.wikipedia.org/wiki/Bitterer_Zinnober-T%C3%A4ubling (abgerufen am
       19.6.2023)
 ---
-Der Bittere Zinnobertäubling ist meines Wissens  der einzige Täubling mit stark bitterem Geschmack. In der Roten Liste der Pilze Deutschlands (2016) wird er in der Gefährdungskategorie „R“ (extrem selten) geführt. Als Standort gelten rotbuchenreiche Wälder des Hügel- und Berglandes. Dabei werden frische bis feuchte, basenreiche Böden über Kalk, Granit, Gneis und Basalt bevorzugt. Die Art ist ein Mykorrhiza-Pilz und streng an die Rotbuche gebunden.
+Der Bittere Zinnobertäubling ist meines Wissens  der einzige Täubling mit stark bitterem Geschmack. In der Roten Liste der Pilze Deutschlands (2016) wird er in der Gefährdungskategorie „R“ (extrem selten) geführt. Als Standort gelten rotbuchenreiche Wälder des Hügel- und Berglandes. Dabei werden frische bis feuchte, basenreiche Böden über Kalk, Granit, Gneis und Basalt bevorzugt. Die Art ist ein [Mykorrhiza](Mykorrhiza "Glossar")-Pilz und streng an die Rotbuche gebunden.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_amarissima_02_ch.jpg" %}
@@ -71,6 +71,7 @@ Frisch ausgefallener Sporenstaub ist weißlich bis hellcreme, etwa Ib bis IIa na
     </tr>
   </table>
 </div>
+
 
 **Makrochemische Farbreaktionen:**
 
