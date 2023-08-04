@@ -31,11 +31,24 @@ literatur:
 ---
 Der Bittere Zinnobertäubling ist meines Wissens  der einzige Täubling mit stark bitterem Geschmack. In der Roten Liste der Pilze Deutschlands (2016) wird er in der Gefährdungskategorie „R“ (extrem selten) geführt. Als Standort gelten rotbuchenreiche Wälder des Hügel- und Berglandes. Dabei werden frische bis feuchte, basenreiche Böden über Kalk, Granit, Gneis und Basalt bevorzugt. Die Art ist ein Mykorrhiza-Pilz und streng an die Rotbuche gebunden.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_amarissima_02_ch.jpg" %}
+{% include abbildung_ende.html legende="Blick auf die Lamellen (Foto: Claus Heckwolf)" %}
+
 Wir haben es mit einem mittelgroßen bis sehr großen Pilz zu tun, der Hutbreiten von 8 bis 13 (maximal 16 cm) erreicht. Der Hut ist zuerst halbkugelig, später flach ausgebreitet, die Hutoberfläche trocken, matt, samtig, ungerieft und bei Trockenheit gerne schuppig oder rissig aufbrechend. Die Huthaut ist nur am Rand abziehbar, das Fleisch darunter erscheint bräunlich oder rötlich. Die Farbe ist meist dunkel und gesättigt und reicht von zinnoberrot über weinrot, purpurrot, purpurbraun bis braunrot, rotbraun, mahagonibraun. Die Hutmitte ist manchmal gelbfleckig und verfärbt sich bei älteren Exemplaren auch schon einmal komplett gelb.
 
 Den Stiel kann man als stämmig, zylindrisch bis keulig, cremefarben und manchmal rötlich überlaufen beschreiben. Die Lamellen stehen sehr dicht, sind spröde, kaum untermischt, doch oft in Stielnähe gegabelt, cremefarben, glattrandig, oft mit rötlicher Schneide, besonders zum Hutrand hin. Das Fleisch in Hut und Stiel ist hart. Lamellen, Stieloberfläche und Fleisch neigen zum Gilben oder Bräunen. Der Geruch wird als unauffällig bis deutlich fruchtig, der Geschmack mit mäßig bis oder extrem bitter beschrieben. Auch die Huthaut ist bitter.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_amarissima_03_kw.jpg" %}
+{% include abbildung_ende.html legende="Kollektion 2: In einem dichten Buchenwald gefunden (Foto: Karl Wehr)" %}
+
 Frisch ausgefallener Sporenstaub ist weißlich bis hellcreme, etwa Ib bis IIa nach der Farbtabelle von Helga Marxmüller.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_amarissima_04_ch.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/russula_amarissima_05_ch.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Abbildung links: abgezogene Huthaut -- rechts: bräunendes Fleisch (2 Fotos: Claus Heckwolf)" %}
 
 <div class="table-responsive">
   <table class="table taeubling">
@@ -65,17 +78,29 @@ Mit FeSO4 färben sich Fleisch und Stielhaut rosa.
 Sulfovanillin verursacht am Exsikkat am Fleisch einen rotbraunen, an der Stielrinde einen roten Farbton.
 Mit Phenol erfolgt nur eine banale, braune Reaktion.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_amarissima_06_ch.jpg" %}
+{% include abbildung_ende.html legende="Lamellen und Fleisch nach einem Tag Liegezeit (Foto: Claus Heckwolf)" %}
+
 Mikroskopische Merkmale:
 
 Die Epikutis (oberste Lage der Huthaut) besteht aus zwei Elementtypen:
 Aus schlanken, ab und zu verzweigten „Haaren“, deren Glieder meist 3 µm breit und 30-40 µm lang sind und deren Terminalglied stumpf gerundet, aber mitunter keulig verdickt ist. In Kongorot lassen sie sich gut anfärben.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_amarissima_07_ch.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/russula_amarissima_08_ch.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Epikutis in Kongorot und Karbolfuchsin (alle Mikrofotos von Claus Heckwolf)" %}
+
 Außerdem aus  zylindrischen bis schlankkeuligen, unseptierten, 3-4 µm breiten Pileozystiden, deren gelbliche Eigenfarbe sowohl bei Färbung in Kongorot als auch in Sulfovanillin bestehen bleibt Die typische Schwarz- oder Grauverfärbung von Pileozystiden ist bei dieser Art nicht vorhanden!
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_amarissima_09_ch.jpg" %}
+{% include abbildung_ende.html legende="Sporen in Wasser" %}
 
 Die Sporen sind rundlich und messen 7,0 - 8,3 x 6,3 - 7,6 um, bei einem Schlankheitsgrad Q = 1,0 - 1,2. Die Ornamentation ist bis 1,0 um hoch und besteht aus Warzen oder kurzen Graten, die isoliert stehenden oder reihig bis teilnetzig miteinander verbundenen sind. Geschlossene Netzmaschen kommen nicht vor. Warzen und Grate sind vielfach durch feine Linien verbunden.
 
-Verwechslungsmöglichkeiten mit ähnlich gefärbten, großen, stabilen Arten:  
-Der Harte Zinnobertäubling (*Russula lepida*) ist geruchlos und mild, nie deutlich bitter.  
-Der Ockerblättrige Zinnobertäubling (*Russula pseudointegra*) ist Eichenbegleiter. Reife Exemplare besitzen gelbliche Lamellen und riechen stark fruchtig. Sulfovanillin hinterlässt am Exsikkat einen auffallenden, eosinroten Fleck. Die Epikutis besitzt keine Pileozystiden, dagegen deutliche, säureresistente Primordialhyphen.  
-Der Rotstielige Ledertäubling (*Russula olivacea*) ist geruchlos und mild; er reagiert mit Phenol stark rotviolett; in der Epikutis besitzt er keine Pileozystiden.  
-
+Verwechslungsmöglichkeiten mit ähnlich gefärbten, großen, stabilen Arten:\
+Der [Harte Zinnobertäubling (*Russula rosea*)](/pilze/russula-rosea-harter-zinnobertäubling) ist geruchlos und mild, nie deutlich bitter.\
+Der [Ockerblättrige Zinnobertäubling (*Russula pseudointegra*)](/pilze/russula-pseudointegra-ockerblättriger-zinnobertäubling) ist Eichenbegleiter. Reife Exemplare besitzen gelbliche Lamellen und riechen stark fruchtig. Sulfovanillin hinterlässt am Exsikkat einen auffallenden, eosinroten Fleck. Die Epikutis besitzt keine Pileozystiden, dagegen deutliche, säureresistente Primordialhyphen.\
+Der [Rotstielige Ledertäubling (*Russula olivacea*)](/pilze/russula-olivacea-rotstieliger-ledertäubling) ist geruchlos und mild; er reagiert mit Phenol stark rotviolett; in der Epikutis besitzt er keine Pileozystiden.
