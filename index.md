@@ -12,7 +12,11 @@ footer_scripts:
 
 - - -
 
-30.05.2023: Aktueller Fundkorbpilz ist das Blassgoldene Spinnwebbecherchen *Arachnopeziza aurata*. Seine Farbe ist jedoch meist eher blassgrau wie das Foto von Ingo Wagner als golden.  Wir finden es immer mal wieder im Ansfeldwald bei Dudenhofen an feucht liegenden Roteichenästchen und -cupulen. (Dieter Gewalt)
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/arachnopeziza_aurata_01_iw.jpg" %}
+{% include abbildung_ende.html %}
+
+30.05.2023: Aktueller Fundkorbpilz ist das Blassgoldene Spinnwebbecherchen *Arachnopeziza aurata*. Seine Farbe ist jedoch meist eher blassgrau wie auf dem Foto von Ingo Wagner als golden.  Wir finden es immer mal wieder im Ansfeldwald bei Dudenhofen an feucht liegenden Roteichenästchen und -cupulen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/arachnopeziza-aurata-blassgoldenes-spinnwebbecherchen)
 
