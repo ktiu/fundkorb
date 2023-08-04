@@ -34,7 +34,7 @@ footer_scripts:
 
 <div style="clear:  both"></div>
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+- - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/panaeolus_foenisecii_01_dg.jpg" %}
@@ -46,7 +46,7 @@ footer_scripts:
 
 <div style="clear:  both"></div>
 
-_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+- - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agrocybe_pediades_01_dg.jpeg" %}
