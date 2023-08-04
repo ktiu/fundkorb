@@ -74,5 +74,8 @@ Außerdem aus  zylindrischen bis schlankkeuligen, unseptierten, 3-4 µm breiten 
 
 Die Sporen sind rundlich und messen 7,0 - 8,3 x 6,3 - 7,6 um, bei einem Schlankheitsgrad Q = 1,0 - 1,2. Die Ornamentation ist bis 1,0 um hoch und besteht aus Warzen oder kurzen Graten, die isoliert stehenden oder reihig bis teilnetzig miteinander verbundenen sind. Geschlossene Netzmaschen kommen nicht vor. Warzen und Grate sind vielfach durch feine Linien verbunden.
 
-Verwechslungsmöglichkeiten mit ähnlich gefärbten, großen, stabilen Arten: Der Harte Zinnobertäubling (*Russula lepida*) ist geruchlos und mild, nie deutlich bitter. Der Ockerblättrige Zinnobertäubling (*Russula pseudointegra*) ist Eichenbegleiter. Reife Exemplare besitzen gelbliche Lamellen und riechen stark fruchtig. Sulfovanillin hinterlässt am Exsikkat einen auffallenden, eosinroten Fleck. Die Epikutis besitzt keine Pileozystiden, dagegen deutliche, säureresistente Primordialhyphen. Der Rotstielige Ledertäubling (*Russula olivacea*) ist geruchlos und mild; er reagiert mit Phenol stark rotviolett; in der Epikutis besitzt er keine Pileozystiden.  
+Verwechslungsmöglichkeiten mit ähnlich gefärbten, großen, stabilen Arten:  
+Der Harte Zinnobertäubling (*Russula lepida*) ist geruchlos und mild, nie deutlich bitter.  
+Der Ockerblättrige Zinnobertäubling (*Russula pseudointegra*) ist Eichenbegleiter. Reife Exemplare besitzen gelbliche Lamellen und riechen stark fruchtig. Sulfovanillin hinterlässt am Exsikkat einen auffallenden, eosinroten Fleck. Die Epikutis besitzt keine Pileozystiden, dagegen deutliche, säureresistente Primordialhyphen.  
+Der Rotstielige Ledertäubling (*Russula olivacea*) ist geruchlos und mild; er reagiert mit Phenol stark rotviolett; in der Epikutis besitzt er keine Pileozystiden.  
 
