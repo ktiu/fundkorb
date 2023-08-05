@@ -93,9 +93,9 @@ Die Epikutis setzt sich aus Epikutishaaren und Pileozystiden zusammen. Die Epiku
 
 **Auswahl ähnlicher Arten:**\
 Die Arten der Gruppe der Speitäublinge besitzen allesamt keine dunklere Hutmitte. Außerdem besitzen ihre Pileozystiden eine andere Form.\
-Kirschroter Speitäubling (*Russula emetica*): Ähnlicher Standort, doch Hut lebhafter und reiner rot gefärbt, sehr scharfer Geschmack, höhere Sporenornamentation.\
-Grauender Speitäubling (*Russula grisescens*, Syn.: *R. intermedia*): etwas lebhafter, gleichmäßiger gefärbter roter Hut, grauendes Fleisch.\
-Birken-Speitäubling (*Russula betulatum*): kleiner, gebrechlicher, Hut nach Weiß oder Elfenbein entfärbend, immer scharfer Geschmack.\
-Kiefern-Speitäubling (Russula silvestris): unter Kiefern auf trockenen Böden, Hut lebhafter und reiner rot, sehr scharfer Geschmack.\
-Buchen-Speitäubling (Russula nobilis, Syn.: R. mairei): unter Rotbuchen auf trockenem Boden, Hut gleichmäßig rot, Huthaut nur wenig abziehbar, immer scharfer Geschmack.\
-Starkgilbender Täubling (Russula luteotacta): unter Rotbuchen auf trockenem Boden, Hut gleichmäßig rot, sehr scharfer Geschmack, länger liegende Exemplare stark gilbend.
+[Kirschroter Speitäubling (*Russula emetica*)](/pilze/russula-emetica-kirschroter-speitäubling): Ähnlicher Standort, doch Hut lebhafter und reiner rot gefärbt, sehr scharfer Geschmack, höhere Sporenornamentation.\
+[Grauender Speitäubling (*Russula griseascens)*](/pilze/russula-griseascens-graustiel-speitäubling): etwas lebhafter, gleichmäßiger gefärbter roter Hut, grauendes Fleisch.\
+[Birken-Speitäubling (*Russula betulatum*)](/pilze/russula-betularum-birken-speitäubling): kleiner, gebrechlicher, Hut nach Weiß oder Elfenbein entfärbend, immer scharfer Geschmack.\
+[Kiefern-Speitäubling (Russula silvestris)](/pilze/russula-silvestris-kiefern-speitäubling): unter Kiefern auf trockenen Böden, Hut lebhafter und reiner rot, sehr scharfer Geschmack.\
+[Buchen-Speitäubling (Russula nobilis, Syn.: R. mairei)](/pilze/russula-nobilis-buchen-speitäubling): unter Rotbuchen auf trockenem Boden, Hut gleichmäßig rot, Huthaut nur wenig abziehbar, immer scharfer Geschmack.\
+[Gelbfleckender Täubling (Russula luteotacta)](/pilze/russula-luteotacta-gelbfleckender-täubling): unter Rotbuchen auf trockenem Boden, Hut gleichmäßig rot, sehr scharfer Geschmack, länger liegende Exemplare stark gilbend.
