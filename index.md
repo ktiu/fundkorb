@@ -18,7 +18,7 @@ footer_scripts:
 
 31.05.2023: Aktueller Fundkorbpilz ist der Dunkelflockige Weichritterling *Melanoleuca verrucipes*, gemeldet von *Johann Rejek* aus der Umgebung von München. Er gehört zu den wenigen leicht kenntlichen Arten in der schwierigen und nicht sehr populären Pilzgattung *Melanoleuca*. Aufgrund seiner hellen im Zentrum gebuckelten Hüte und den weißlichen, dunkel beschuppten Stielen ist er nahezu unverwechselbar, aber nicht gerade häufig. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/melanoleuca-verrucipes-dunkelflockiger-weichritterling)
 
 <div style="clear:  both"></div>
 
