@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/melanoleuca_verrucipes_01_jh.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+31.05.2023: Aktueller Fundkorbpilz ist der Dunkelflockige Weichritterling *Melanoleuca verrucipes*, gemeldet von *Johann Rejek* aus der Umgebung von München. Er gehört zu den wenigen leicht kenntlichen Arten in der schwierigen und nicht sehr populären Pilzgattung *Melanoleuca*. Aufgrund seiner hellen im Zentrum gebuckelten Hüte und den weißlichen, dunkel beschuppten Stielen ist er nahezu unverwechselbar, aber nicht gerade häufig. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/arachnopeziza_aurata_01_iw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,30 +79,6 @@ footer_scripts:
 26.05.2023: Eine der Raritäten in unserem Dietzenbacher Carré, die hier letztes Jahr erstmals aufgetaucht und jetzt wieder exakt am alten Standort erschienen ist: der Sklerotien-Blasssporrübling *Gymnopus graveolens*. Natürlich muss er heute unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Es sind wieder mehr als zwei Dutzend Fruchtkörper zwischen Sträuchern und einem Apfelbaum.. Dieses Wiedererscheinen ist insofern erfreulich, als jetzt auch die Sklerotienknolle an der Stielbasis erkannt werden konnte. Sie ist neben dem unangenehmen Geruch ein wesentliches Merkmal, um Gymnopus graveolens von ähnlichen Arten zu unterscheiden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gymnopus-graveolens-sklerotien-blassporrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tubaria_conspersa_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-25.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein recht unscheinbarer Vertreter einer wenig beachteten Gattung, der Flockige Trompetenschnitzling *Tubaria conspersa*. Doch sooo unauffällig ist er bei genauerem Hinschauen gar nicht und eigentlich sogar recht hübsch. Wichtigstes Merkmal ist der vor allem am Rand feinflockige Hut. Man findet ihn in Wäldern an abgestorbenen Ästchen oder am Boden auf vergrabenen Holz. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tubaria-conspersa-flockiger-trompetenschnitzling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_viridimarginata_01_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-24.05.2023: Wieder einmal kommt der aktuelle [Fundkorbpilz](AA "Glossar-") aus Bayern. Es ist eine in diesem Bundesland häufige Art an meist finalmorschen und bemoosten Nadelholzstümpfen: der Grünschneidige Helmling *Mycena viridimarginata*. An mehreren Stümpfen konnten wir vereinzelte, aber auch gesellig wachsende Fruchtkörper finden. Besonders bei einem Exemplar waren die namensgebenden gefärbten Lamellenschneiden schön zu sehen. Wobei „grün“ nicht wirklich grün ist, und auch selten die Schneide über die gesamte Länge gefärbt ist. Meist ist es nur der Bereich zum Hutrand hin. (Johann Rejek)
-
-[Mehr lesen >](/pilze/mycena-viridimarginata-grünschneidiger-helmling)
 
 <div style="clear:  both"></div>
 
