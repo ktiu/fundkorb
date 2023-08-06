@@ -3,7 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-31.05.2023: [Melanoleuca verrucipes - Dunkelflockiger Weichritterling](/pilze/melanoleuca-verrucipes-dunkelflockiger-weichritterling)  
+01.06.2023: [Aecidium ranunculi-acris - Hahnenfußrost](/pilze/aecidium-ranunculi-acris-hahnenfußrost)
+
+31.05.2023: [Melanoleuca verrucipes - Dunkelflockiger Weichritterling](/pilze/melanoleuca-verrucipes-dunkelflockiger-weichritterling)\
 30.05.2023: [Arachnopeziza aurata - Blassgoldenes Spinnwebbecherchen](/pilze/arachnopeziza-aurata-blassgoldenes-spinnwebbecherchen)\
 29.05.2023: [Polyporus badius - Kastanienbrauner Porling](/pilze/polyporus-badius-kastanienbrauner-stielporling-schwarzroter-porling)\
 28.05.2023: [Panaeolus foenisecii - Heu-Düngerling](/pilze/panaeolus-foenisecii-heu-düngerling)\
