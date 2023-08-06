@@ -25,7 +25,15 @@ Neuer Exkursionstermin am Sonntag, 13. August 2023 10:00 Uhr\
 
 - - -
 
-07.06.2023: Aktueller Fundkorbpilz ist der Mennigfarbene Borstling Melastiza chateri. Das Foto zeigt, das er auf einem für Pilzwachstum eher ungeeignet erscheinenden Untergrund erscheinen kann, z. B. auf nackter oder kieshaltiger Erde. Seine roten scheiben- oder schalenförmigen Fruchtkörper werden 1 bis 2 cm groß und sind nahezu ganzjährig zu finden, aber relativ selten. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/melastiza_chateri_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.06.2023: Aktueller Fundkorbpilz ist der Mennigfarbene Borstling *Melastiza chateri*. Das Foto zeigt, das er auf einem für Pilzwachstum eher ungeeignet erscheinenden Untergrund erscheinen kann, z. B. auf nackter oder kieshaltiger Erde. Seine roten scheiben- oder schalenförmigen Fruchtkörper werden 1 bis 2 cm groß und sind nahezu ganzjährig zu finden, aber relativ selten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/melastiza-chateri-mennigfarbiger-borstling)
+
+<div style="clear:  both"></div>
 
 - - -
 
