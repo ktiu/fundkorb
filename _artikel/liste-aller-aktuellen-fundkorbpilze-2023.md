@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-03.06.2023: [Volvariella bombycina - Wolliger Scheidling](/pilze/volvariella-bombycina-wolliger-scheidling)  
-02.06.2023: [Stemonitis fusca - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)  
+04.06.2023: [Agaricus augustus - Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon)  
+03.06.2023: [Volvariella bombycina - Wolliger Scheidling](/pilze/volvariella-bombycina-wolliger-scheidling)\
+02.06.2023: [Stemonitis fusca - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)\
 01.06.2023: [Aecidium ranunculi-acris - Hahnenfußrost](/pilze/aecidium-ranunculi-acris-hahnenfußrost)
 
 31.05.2023: [Melanoleuca verrucipes - Dunkelflockiger Weichritterling](/pilze/melanoleuca-verrucipes-dunkelflockiger-weichritterling)\
