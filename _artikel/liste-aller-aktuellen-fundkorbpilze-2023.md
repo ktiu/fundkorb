@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-06.06.2023: [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)  
+07.06.2023: [Melastiza chateri - Mennigfarbiger Borstling](/pilze/melastiza-chateri-mennigfarbiger-borstling)  
+06.06.2023: [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)\
 05.06.2023: [Diatrype stigma - Flächiges Eckenscheibchen](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen)\
 04.06.2023: [Agaricus augustus - Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon)\
 03.06.2023: [Volvariella bombycina - Wolliger Scheidling](/pilze/volvariella-bombycina-wolliger-scheidling)\
