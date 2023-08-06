@@ -33,7 +33,7 @@ Neuer Exkursionstermin am Sonntag, **13. August 2023** 10:00 Uhr\
 {% include bild.html datei="/bilder/diatrype_decorticata_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-08.06.2023: Wenn es zu trocken ist für "richtige Pilze", müssen andere, weniger populäre Arten die Lücke füllen, um einen aktuellen Fundkorbpilz präsentieren zu können. Zum Beispiel *Diatrype decorticata*, das Flächige Eckenscheibchen. Es bildet flache Beläge auf abgestorbenen Ästen von Laubbäumen (vor allem Rotbuche und Birke) und wurde lange Zeit fälschlich als *Diatrype stigma* bestimmt. Wie es zu diesen fehlerhaften Diagnosen kommen konnte, ist [hier zu lesen >](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)
+08.06.2023: Wenn es zu trocken ist für „richtige Pilze“, müssen andere, weniger populäre Arten die Lücke füllen, um einen aktuellen Fundkorbpilz präsentieren zu können. Zum Beispiel *Diatrype decorticata*, das Flächige Eckenscheibchen. Es bildet flache Beläge auf abgestorbenen Ästen von Laubbäumen (vor allem Rotbuche und Birke) und wurde lange Zeit fälschlich als *Diatrype stigma* bestimmt. Wie es zu diesen fehlerhaften Diagnosen kommen konnte, ist [hier zu lesen >](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)
 
 <div style="clear:  both"></div>
 
