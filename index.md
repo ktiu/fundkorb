@@ -12,11 +12,23 @@ footer_scripts:
 
 - - -
 
-03.06.2023: Aktueller Fundkorbpilz ist der Wollige Scheidling Volvariella bombycina.  Er wurde von Adam Adamowicz am Frankfurter Mainufer gefunden. Es handelt sich um eine nicht gerade häufige Art, die vor allem an Buchen vorkommt. Meines Wissens ist es die einzige Scheidlingsart an Holz, die zudem an ihrer beachtlichen Größe und dem wollig-filzigen Hutbelag gut zu erkennen ist. Mehr lesen > <div style="clear:  both"></div>
+03.06.2023: Aktueller Fundkorbpilz ist der Wollige Scheidling *Volvariella bombycina*.  Er wurde von *Adam Adamowicz* am Frankfurter Mainufer gefunden. Es handelt sich um eine nicht gerade häufige Art, die vor allem an Buchen vorkommt. Meines Wissens ist es die einzige Scheidlingsart an Holz, die zudem an ihrer beachtlichen Größe und dem wollig-filzigen Hutbelag gut zu erkennen ist.
+
+[Mehr lesen >](/pilze/volvariella-bombycina-wolliger-scheidling)
+
+<div style="clear:  both"></div>
 
 - - -
 
-02.06.2023: Aktueller Fundkorbpilz ist mal wieder ein Schleimpilz (Myxomyzet), das Dunkle Fadenstäubchen Stemonitis fusca. Um es so zu sehen wie auf unserem Foto muss man es schon mit der Lupe betrachten, und dann bietet es durchaus einen faszinierenden Anblick. Wie bei vielen anderen Schleimpilzen auch. Es gehört zu den häufigeren Arten, kann aber leicht mit dem ähnlichen Gemeinen Fadenstäubchen Stemonitis axifera verwechselt werden. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stemonitis_axifera_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.06.2023: Aktueller Fundkorbpilz ist mal wieder ein Schleimpilz (*Myxomyzet*), das Dunkle Fadenstäubchen *Stemonitis fusca*. Um es so zu sehen wie auf unserem Foto muss man es schon mit der Lupe betrachten, und dann bietet es durchaus einen faszinierenden Anblick. Wie bei vielen anderen Schleimpilzen auch. Es gehört zu den häufigeren Arten, kann aber leicht mit dem ähnlichen Gemeinen Fadenstäubchen *Stemonitis axifera* verwechselt werden. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/stemonitis-fusca-dunkles-fadenstäubchen) 
+
+<div style="clear:  both"></div>
 
 - - -
 
