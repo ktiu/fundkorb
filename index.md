@@ -12,6 +12,10 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/volvariella_bombycina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 03.06.2023: Aktueller Fundkorbpilz ist der Wollige Scheidling *Volvariella bombycina*.  Er wurde von *Adam Adamowicz* am Frankfurter Mainufer gefunden. Es handelt sich um eine nicht gerade häufige Art, die vor allem an Buchen vorkommt. Meines Wissens ist es die einzige Scheidlingsart an Holz, die zudem an ihrer beachtlichen Größe und dem wollig-filzigen Hutbelag gut zu erkennen ist.
 
 [Mehr lesen >](/pilze/volvariella-bombycina-wolliger-scheidling)
