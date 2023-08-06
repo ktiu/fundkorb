@@ -17,6 +17,30 @@ Neuer Exkursionstermin am Sonntag, 13. August 2023 10:00 Uhr\
 
 - - -
 
+09.06.2023: Aktueller Fundkorbpilz ist der Braunsamtige Schichtpilz Stereum insignitum. Schichtpilze zeichnen sich durch ungestielte meist flache Fruchtkörper und ein glattes, höchstens runzeliges Hymenophor aus. Der Braunsamtige gehört zweifellos zu den attraktivsten, hat mit dem Samtigen Schichtpilz Stereum subtomentosum aber einen Doppelgänger, mit dem er leicht verwechselt werden kann. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+08.06.2023: Wenn es zu trocken ist für "richtige Pilze", müssen andere, weniger populäre Arten die Lücke füllen, um einen aktuellen Fundkorbpilz präsentieren zu können. Zum Beispiel Diatrype decorticata, das Flächige Eckenscheibchen. Es bildet flache Beläge auf abgestorbenen Ästen von Laubbäumen (vor allem Rotbuche und Birke) und wurde lange Zeit fälschlich als Diatrype stigma bestimmt. Wie es zu diesen fehlerhaften Diagnosen kommen konnte, ist hier zu lesen > <div style="clear:  both"></div>
+
+- - -
+
+07.06.2023: Aktueller Fundkorbpilz ist der Mennigfarbene Borstling Melastiza chateri. Das Foto zeigt, das er auf einem für Pilzwachstum eher ungeeignet erscheinenden Untergrund erscheinen kann, z. B. auf nackter oder kieshaltiger Erde. Seine roten scheiben- oder schalenförmigen Fruchtkörper werden 1 bis 2 cm groß und sind nahezu ganzjährig zu finden, aber relativ selten. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+06.06.2023: Es ist bereits in vielen Gegenden schon wieder sehr trocken und aktueller Fundkorbpilz kann nur einer sein, den man zum Beispiel auch in Dürrezeiten finden kann. Es ist die Striegelige Tramete (Trametes hirsuta). Sie gehört zu den Pilzen, die es sich lohnt zu streicheln. Ihre Oberfläche fühlt sich angenehm flauschig an und ist häufig mit grünem Algenwuchs befallen. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+05.06.2023: Aktueller Fundkorbpilz ist das Flächige Eichen-Eckenscheibchen *Diatrype stigma*. Der hier abgebildete Fund stammt aus einem lichten Traubeneichenbestand im Vogelsang-Biotop bei Straubenhardt (Baden-Württemberg). Die rußschwarzen Sammelfruchtkörper (*Stromata*) überzogen hier zahlreiche am Boden liegende morsche Eichenäste. Es ist davon auszugehen, dass Verbreitungskarten von *Diatrype stigma* und auch Fundlisten häufig fehlerhaft sind, da die Art von Kartierern nicht von anderen unterschieden worden sind und noch werden. (Bernd Miggel)
+
+[Mehr lesen >](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_augustus_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
@@ -72,66 +96,6 @@ Neuer Exkursionstermin am Sonntag, 13. August 2023 10:00 Uhr\
 31.05.2023: Aktueller Fundkorbpilz ist der Dunkelflockige Weichritterling *Melanoleuca verrucipes*, gemeldet von *Johann Rejek* aus der Umgebung von München. Er gehört zu den wenigen leicht kenntlichen Arten in der schwierigen und nicht sehr populären Pilzgattung *Melanoleuca*. Aufgrund seiner hellen im Zentrum gebuckelten Hüte und den weißlichen, dunkel beschuppten Stielen ist er nahezu unverwechselbar, aber nicht gerade häufig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/melanoleuca-verrucipes-dunkelflockiger-weichritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/arachnopeziza_aurata_01_iw.jpg" %}
-{% include abbildung_ende.html %}
-
-30.05.2023: Aktueller Fundkorbpilz ist das Blassgoldene Spinnwebbecherchen *Arachnopeziza aurata*. Seine Farbe ist jedoch meist eher blassgrau wie auf dem Foto von Ingo Wagner als golden.  Wir finden es immer mal wieder im Ansfeldwald bei Dudenhofen an feucht liegenden Roteichenästchen und -cupulen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/arachnopeziza-aurata-blassgoldenes-spinnwebbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_badius_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.05.2023: Aktueller Fundkorbpilz ist der Kastanienbraune Stielporling *Polyporus badius*. Typisch für ihn sind die elastischen am Rand sehr dünnen, auf der Oberfläche glatten, fettig glänzenden, dunkel- bis schwarzbraunen Hüte sowie die sehr feinen Poren. Mit dieser Merkmalskombination ist der auf Totholz wachsende Pilz praktisch unverwechselbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/polyporus-badius-kastanienbrauner-stielporling-schwarzroter-porling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/panaeolus_foenisecii_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.05.2023: Aktueller Fundkorbpilz ist der Heu-Düngerling *Panaeolus foenisecii*. Eine wegen ihrer 1- und 4-jährigen Kinder besorgte Mutter aus Frankfurt hatte mich kontaktiert, als auf ihrem neu ausgelegten Rollrasen kleine Pilze erschienen sind. Aufgrund ihrer Fotos konnten sie als Heu-Düngerlinge identifiziert werden. Da sie das Halluzinogen *Psilocybin* enthalten können, ist gerade bei Kleinkindern größte Vorsicht geboten. Empfehlung: den Rasen im Auge behalten und die Pilze entfernen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/panaeolus-foenisecii-heu-düngerling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agrocybe_pediades_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-27.05.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist  der Halbkugelige Ackerling *Agrocybe pediades*. Man kann ihn fast überall außerhalb von Wäldern finden, auf Wiesen, an Feldrändern, etc. Zur Zeit wächst er in unserer Dietzenbacher Parkanlage gleich an mhreren Stellen. Man achte auf den ringlosen dünnen Stiel und den ranzigen Mehlgeruch und -geschmack. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agrocybe-pediades-halbkugeliger-ackerling) 
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_graveolens_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.05.2023: Eine der Raritäten in unserem Dietzenbacher Carré, die hier letztes Jahr erstmals aufgetaucht und jetzt wieder exakt am alten Standort erschienen ist: der Sklerotien-Blasssporrübling *Gymnopus graveolens*. Natürlich muss er heute unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Es sind wieder mehr als zwei Dutzend Fruchtkörper zwischen Sträuchern und einem Apfelbaum.. Dieses Wiedererscheinen ist insofern erfreulich, als jetzt auch die Sklerotienknolle an der Stielbasis erkannt werden konnte. Sie ist neben dem unangenehmen Geruch ein wesentliches Merkmal, um Gymnopus graveolens von ähnlichen Arten zu unterscheiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gymnopus-graveolens-sklerotien-blassporrübling)
 
 <div style="clear:  both"></div>
 
