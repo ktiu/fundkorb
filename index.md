@@ -17,7 +17,15 @@ Neuer Exkursionstermin am Sonntag, 13. August 2023 10:00 Uhr\
 
 - - -
 
-09.06.2023: Aktueller Fundkorbpilz ist der Braunsamtige Schichtpilz Stereum insignitum. Schichtpilze zeichnen sich durch ungestielte meist flache Fruchtkörper und ein glattes, höchstens runzeliges Hymenophor aus. Der Braunsamtige gehört zweifellos zu den attraktivsten, hat mit dem Samtigen Schichtpilz Stereum subtomentosum aber einen Doppelgänger, mit dem er leicht verwechselt werden kann. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_insignitum_02_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+09.06.2023: Aktueller Fundkorbpilz ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze zeichnen sich durch ungestielte meist flache Fruchtkörper und ein glattes, höchstens runzeliges Hymenophor aus. Der Braunsamtige gehört zweifellos zu den attraktivsten, hat mit dem Samtigen Schichtpilz Stereum subtomentosum aber einen Doppelgänger, mit dem er leicht verwechselt werden kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
+
+<div style="clear:  both"></div>
 
 - - -
 
