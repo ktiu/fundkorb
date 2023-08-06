@@ -29,9 +29,21 @@ Neuer Exkursionstermin am Sonntag, 13. August 2023 10:00 Uhr\
 
 - - -
 
-06.06.2023: Es ist bereits in vielen Gegenden schon wieder sehr trocken und aktueller Fundkorbpilz kann nur einer sein, den man zum Beispiel auch in Dürrezeiten finden kann. Es ist die Striegelige Tramete (Trametes hirsuta). Sie gehört zu den Pilzen, die es sich lohnt zu streicheln. Ihre Oberfläche fühlt sich angenehm flauschig an und ist häufig mit grünem Algenwuchs befallen. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_hirsuta_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.06.2023: Es ist bereits in vielen Gegenden schon wieder sehr trocken und aktueller Fundkorbpilz kann nur einer sein, den man zum Beispiel auch in Dürrezeiten finden kann. Es ist die Striegelige Tramete (*Trametes hirsuta*). Sie gehört zu den Pilzen, die es sich lohnt zu streicheln. Ihre Oberfläche fühlt sich angenehm flauschig an und ist häufig mit grünem Algenwuchs befallen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/trametes-hirsuta-striegelige-tramete)
+
+<div style="clear:  both"></div>
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/diatrype_stigma_01_bm.jpg" %}
+{% include abbildung_ende.html %}
 
 05.06.2023: Aktueller Fundkorbpilz ist das Flächige Eichen-Eckenscheibchen *Diatrype stigma*. Der hier abgebildete Fund stammt aus einem lichten Traubeneichenbestand im Vogelsang-Biotop bei Straubenhardt (Baden-Württemberg). Die rußschwarzen Sammelfruchtkörper (*Stromata*) überzogen hier zahlreiche am Boden liegende morsche Eichenäste. Es ist davon auszugehen, dass Verbreitungskarten von *Diatrype stigma* und auch Fundlisten häufig fehlerhaft sind, da die Art von Kartierern nicht von anderen unterschieden worden sind und noch werden. (Bernd Miggel)
 
