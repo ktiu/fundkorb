@@ -7,7 +7,7 @@ published: true
 08.06.2023: [Diatrype decorticata - Flächiges Eckenscheibchen](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)\
 07.06.2023: [Melastiza chateri - Mennigfarbiger Borstling](/pilze/melastiza-chateri-mennigfarbiger-borstling)\
 06.06.2023: [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)\
-05.06.2023: [Diatrype stigma - Flächiges Eckenscheibchen](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen)\
+05.06.2023: [Diatrype stigma - Flächiges Eichen-Eckenscheibchen](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen)\
 04.06.2023: [Agaricus augustus - Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon)\
 03.06.2023: [Volvariella bombycina - Wolliger Scheidling](/pilze/volvariella-bombycina-wolliger-scheidling)\
 02.06.2023: [Stemonitis fusca - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)\
