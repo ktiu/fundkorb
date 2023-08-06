@@ -12,6 +12,23 @@ footer_scripts:
 
 - - -
 
+Neuer Exkursionstermin am Sonntag, 13. August 2023 10:00 Uhr\
+[Hier geht's zur Anmeldung -->](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_augustus_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+04.06.2023: Aktueller Fundkorbpilz ist der Riesenchampignon *Agaricus augustus*. In der artenreichen Gattung der Champignons ist er einer der wenigen, die leicht kenntlich sind. Kennzeichen: stattlicher großer Pilz mit gelb-bräunlicher Hutbeschuppung und Geruch nach Anis. Vorkommen: gern in halb-offenen Biotopen wie zur Zeit in unserer Dietzenbacher Parkanlage, wo er häufig erscheint. Verwendung: wen der süßliche Anisgeschmack im Pilzgericht nicht stört, wird ihn sicherlich zu schätzen wissen. (Dieter Gewalt)
+
+[Mehr lesen ](/pilze/agaricus-augustus-riesenchampignon)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/volvariella_bombycina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
