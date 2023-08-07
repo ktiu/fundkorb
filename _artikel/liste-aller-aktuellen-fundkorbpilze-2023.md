@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-13.06.2023: [Microsphaera berberidis - Mahonien-Mehltau](/pilze/microsphaera-berberidis-mahonien-mehltau)  
+14.06.2023: [Melogramma spiniferum - Rasig-krustiger Buchenkugelpilz ](/pilze/melogramma-spiniferum-rasig-krustiger-buchenkugelpilz)  
+13.06.2023: [Microsphaera berberidis - Mahonien-Mehltau](/pilze/microsphaera-berberidis-mahonien-mehltau)\
 12.06.2023: [Tapinella atrotomentosus - Samtfußkrempling](/pilze/tapinella-atrotomentosa-samtfußkrempling)\
 11.06.2023: [Pleurotus pulmonarius - Lungenseitling](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)\
 10.06.2023: [Diatrypella quercina - Eichen-Eckenscheibchen](/pilze/diatrypella-quercina-eichen-eckenscheibchen)\
