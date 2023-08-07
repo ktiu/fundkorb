@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin am Sonntag, **13. August 2023** 10:00 Uhr\
+Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (ausgebucht) jeweils 10:00 Uhr\
 [Hier geht's zur Anmeldung -->](/termine)
 
 - - -
