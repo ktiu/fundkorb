@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-09.06.2023: [Stereum insignitum - Braunsamtiger Schichtpilz](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)  
+10.06.2023: [Diatrypella quercina - Eichen-Eckenscheibchen](/pilze/diatrypella-quercina-eichen-eckenscheibchen)  
+09.06.2023: [Stereum insignitum - Braunsamtiger Schichtpilz](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)\
 08.06.2023: [Diatrype decorticata - Flächiges Eckenscheibchen](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)\
 07.06.2023: [Melastiza chateri - Mennigfarbiger Borstling](/pilze/melastiza-chateri-mennigfarbiger-borstling)\
 06.06.2023: [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)\
