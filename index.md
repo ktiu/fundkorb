@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/melogramma_spiniferum_03_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+14.06.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rasig-krustige Buchenkugelpilz *Melogramma spiniferum*. Vor allem an der Stammbasis verdorrter junger Rotbuchen kann man ausgedehnte Rasen dieses Kernpilzes finden, die auch auf freiliegende Wurzeln übergreifen können. Kernpilze, auch Pyrenomyzeten genannt, sind meist auf Totholz wachsende [Ascomyzeten](Ascomyzeten "Glossar") von kohlig-schwarzem Aussehen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/melogramma-spiniferum-rasig-krustiger-buchenkugelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/microsphaera_berberidis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
