@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pleurotus_pulmonarius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.06.20233: Aktueller Fundkorbpilz ist der Lungenseitling *Pleurotus pulmonarius*, gefunden von *Bulee Schmidt* nahe Patershäuser Hof (Heusenstamm). Wenn die Hüte deutlich weißlich, höchstens hellgrau gefärbt sind, macht die richtige Zuordnung keine Probleme. Das ist nicht immer der Fall, und dann sieht er einem nahen Verwandten, dem bekannteren [Austernseitling *Pleurotus ostreatus*](/pilze/pleurotus-ostreatus-austernseitling), der an den gleichen Laubholzarten vorkommt, zum Verwechseln ähnlich. Für die Küche ist das ohne Belang. Beide sind gleichwertige ausgezeichnete Speise- und auch Vitalpilze. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrypella_quercina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
