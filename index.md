@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/microsphaera_berberidis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.06.2023: Überall wo Mahonien stehen, ein häufig angepflanztes Berberitzengewächs, ist auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der auffällige Mahonien-Mehltau *Microsphaera berberidis*, zu finden. Der Befall beginnt mit weißen Flecken auf den Blattoberseiten, die bald zu einem mehligen Überzug zusammenfließen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/microsphaera-berberidis-mahonien-mehltau)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tapinella_atrotomentosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
