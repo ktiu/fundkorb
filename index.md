@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lophodermium_-pinastri_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.06.2023: Es gibt tatsächlich eine Gruppe von Pilzen, die *„Flicklumpenartige“* genannt wird! Zu ihnen gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Kiefernnadel-Spaltlippe *Lophodermium pinastri*. Die Bezeichnung *„Spaltlippe“* beschreibt sehr schön das Aussehen dieser schwarzen Fruchtkörperchen, die in langen Reihen auf den Innenseiten der Nadeln zu sehen sind. Sie sind stets durch eine dünne dunkle Linie voneinander getrennt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/melogramma_spiniferum_03_bm.jpg" %}
 {% include abbildung_ende.html %}
 
