@@ -8,7 +8,7 @@ beschreibung:
   erlaeuterung: candida = rein weiß
 profil:
   aktualisiert: 2023-08-05
-  autor_in: Berns Miggel
+  autor_in: Bernd Miggel
 hauptbild:
   anzeige: true
   datei: /bilder/russula_candida_01_has.jpg
