@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sawadaea_tulasnei_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.06.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Echte Ahorn-Mehltau *Sawadaea tulasnei.* Befallen werden vor allem junge Bäume des Spitzahorns, so dass die weiß bereiften Blätter in Augenhöhe oder darunter schon von Weitem auffallen. Der Schaden ist lediglich optischer Natur. Auf Berg- und Feldahorn findet man meist den Mehltaupilz *Sawadaea bicornis*, dessen Erscheinungsbild weniger auffällig ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_robustus_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
