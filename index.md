@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_robustus_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+17.06.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Feuerschwamm *Phellinus robustus*. Mit seiner sogenannten Simultanfäule bringt er befallene Bäume langsam zum Absterben. Manchmal findet man ihn am Fuß alter Eichen, mal entdeckt man seine klobigen Fruchtkörper am Stamm in luftiger Höhe, manchmal sieht man in seiner unmittelbaren Nähe Spechthöhlen. Die cleveren Vögel wissen genau, wo sie diese mit dem geringsten Aufwand anlegen können. Da, wo der Pilz das Kernholz mürbe gemacht hat. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phellinus-robustus-eichen-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrype_undulata_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
