@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-15.06.2023: [Lophodermium pinastri - Kiefernnadel-Spaltlippe](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)  
+16.06.2023: [Diatrype undulata - Flaches Birkeneckenscheibchen](/pilze/diatrype-undulata-flaches-birken-eckenscheibchen)
+15.06.2023: [Lophodermium pinastri - Kiefernnadel-Spaltlippe](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)\
 14.06.2023: [Melogramma spiniferum - Rasig-krustiger Buchenkugelpilz ](/pilze/melogramma-spiniferum-rasig-krustiger-buchenkugelpilz)\
 13.06.2023: [Microsphaera berberidis - Mahonien-Mehltau](/pilze/microsphaera-berberidis-mahonien-mehltau)\
 12.06.2023: [Tapinella atrotomentosus - Samtfußkrempling](/pilze/tapinella-atrotomentosa-samtfußkrempling)\
