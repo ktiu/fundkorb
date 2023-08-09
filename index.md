@@ -12,6 +12,23 @@ footer_scripts:
 
 - - -
 
+Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (ausgebucht) jeweils 10:00 Uhr\
+[Hier geht's zur Anmeldung -->](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/taphrina_caerulescens_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.06.2023: Wenn in einem Pilznamen der Bergriff *„Krankheit“* enthalten ist, verheißt das nichts Gutes. Es gibt allerdings auch recht harmlose wie unser heutiger [Fundkorbpilz](AA "Glossar-"), der überhaupt nicht wie ein Pilz aussieht. Es ist die Roteichen-Kräuselkrankheit *Taphrina caerulescens*. Sie entwickelt keine Fruchtkörper sondern deformiert lediglich die befallenen Blätter oder Früchte. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/schizopora_paradoxa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -21,11 +38,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/schizopora-paradoxa-veränderlicher-spaltporling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (ausgebucht) jeweils 10:00 Uhr\
-[Hier geht's zur Anmeldung -->](/termine)
 
 - - -
 
