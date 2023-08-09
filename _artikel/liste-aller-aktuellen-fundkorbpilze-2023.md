@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-20.06.2023: [Hypoxylon howeanum - Zimtbraune Kohlenbeere](/hypoxylon-howeanum-zimtbraune-kohlenbeere)
+21.06.2023: [Schizopora paradoxa - Veränderlicher Spaltporling](/pilze/schizopora-paradoxa-veränderlicher-spaltporling)  
+20.06.2023: [Hypoxylon howeanum - Zimtbraune Kohlenbeere](/hypoxylon-howeanum-zimtbraune-kohlenbeere)\
 19.06.2023: [Epichloe typhina - Gras-Kernpilz](/pilze/epichloe-typhina-gras-kernpilz)\
 18.06.2023: [Sawadaea tulasnei - Echter Ahorn-Mehltau](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau)\
 17.06.2023: [Phellinus robustus - Eichen-Feuerschwamm](/pilze/phellinus-robustus-eichen-feuerschwamm)\
