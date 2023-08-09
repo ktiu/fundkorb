@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_howeanum_02_xx.jpg" %}
+{% include abbildung_ende.html %}
+
+20.06.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zimtbraune Kohlenbeere *Hypoxylon howeianum*. In Mitteleuropa gibt es mehr als 20 verschiedene Kohlenbeeren, die sich zum Teil sehr ähneln und nur mikroskopisch sicher zu unterscheiden sind. Das Substrat, auf dem sie wachsen, ist immerhin eine Bestimmungshilfe. Die Zimtbraune wächst auf toten am Boden liegenden Eichenästen. (Dieter Gewalt)
+
+[Mehr lesen >](/hypoxylon-howeanum-zimtbraune-kohlenbeere)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/epichloe_typhina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
