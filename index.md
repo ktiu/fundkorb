@@ -12,6 +12,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/schizopora_paradoxa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.06.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Veränderliche Spaltporling *Schizopora paradoxa*. Den Beinamen *"veränderlich"* trägt dieser häufige, geradezu allgegenwärtige Pilz zurecht. Er ist so veränderlich, dass es schon paradox erscheint. Sein [Hymenium](Hymenium "Glossar") kann porig, daedaloid lamellig oder so irregulär zerschlitzt sein, dass es fast schon stachelig aussieht und man glauben könnte, einen nicht bestimmbaren [Resupinatporling](resupinat "Glossar") vor sich zu haben. Er wächst auf toten Laubholzzweigen, -ästen oder -stämmen und verursacht im befallenen Holz eine Weißfäule. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/schizopora-paradoxa-veränderlicher-spaltporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (ausgebucht) jeweils 10:00 Uhr\
 [Hier geht's zur Anmeldung -->](/termine)
 
