@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ganoderma_lucidum_06_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+26.06.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Glänzende Lackporling *Ganoderma lucidum*. Er ist auch in diesem Jahr wieder an seinem angestammten Standort an einem Wegrand an der Nordgrenze von Neu-Isenburg erschienen. In seinem jetzigen Entwicklungsstadium sieht er aus wie ein in die Höhe gestreckter schlanker Finger. ln Ost- und Südostasien ist er seit Jahrtausenden ein viel gepriesener Heilpilz und gilt als *„Pilz der Unsterblickeit“*.  Das ist sicher etwas übertrieben, aber sein therapeutischer Nutzen ist längst auch im Westen wissenschaftlich anerkannt. (Frank Kaster)
+
+[Mehr lesen >](/pilze/ganoderma-lucidum-glänzender-lackporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/laetiporus_sulphureus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
