@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/chondrostereum_purpureum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.06.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der durch seine schöne violette Farbe auffällt. Der Violette Schichtpilz *Chondrostereum purpureum* ist ganzjährig an Laubhölzern zu finden, mit Abstand am häufigsten an Rotbuche. In unserer Dietzenbacher Parkanlage wächst er gerade am Stammgrund einer noch lebenden Birke. Das hier gezeigte Foto stammt von einem Stapel lagernder Buchenstämme. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/chondrostereum-purpureum-violetter-schichtpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lophodermium_arundinaceum_01_hl.jpg" %}
 {% include abbildung_ende.html %}
 
