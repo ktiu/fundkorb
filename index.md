@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/isaria_umbrina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.06.2023:  Diese merkwürdigen Gebilde auf toten Laubholzästen werden als Pilzspinnen (*Isaria umbrina*) bezeichnet. Bei diesem aktuellen [Fundkorbpilz](AA "Glossar-") handelt es sich um eine Nebenfruchtform, die besonders häufig auf der [Zimtbraunen Kohlenbeere *Hypoxylon howeanum*](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere) vorzukommen scheint. Als Nebenfruchtform, auch Anamorphe oder Konidienform genannt, bezeichnet man das asexuelle Entwicklungsstadium eines Pilzes, in dem er sich ungeschlechtlich durch Knospung oder Zellteilung fortpflanzt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/isaria-umbrina-pilzspinne)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_subtomentosum_02_dg.jpg.jpg" %}
 {% include abbildung_ende.html %}
 
