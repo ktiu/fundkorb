@@ -17,6 +17,21 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include abbildung_ende.html %}
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cumminsiella_mirabilissima_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.06.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mahonienrost *Cumminsiella mirabilissima*, der häufig gemeinsam mit dem [Mahonien-Mehltau *Microsphaera berberidis* ](/pilze/microsphaera-berberidis-mahonien-mehltau)auf den stacheligen Blättern der Mahonie zu sehen ist. Er gehört zu den Endoparasiten, das sind Organismen, die im Inneren ihres Wirtes leben, ihre Sporenlager aber außerhalb bilden. Er ist überall in Parkanlagen und Gärten zu finden, wo die Gewöhnliche Mahonie (*Mahonia aquifolium*) angepflanzt ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cumminsiella-mirabilissima-mahonienrost)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ganoderma_lucidum_06_fk.jpg" %}
 {% include abbildung_ende.html %}
