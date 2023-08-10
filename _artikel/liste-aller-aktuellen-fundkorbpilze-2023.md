@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
+24.06.2023: [Isaria umbrinum - Pilzspinne](/pilze/isaria-umbrina-pilzspinne)  
 23.06.2023: [Stereum insignitum - Braunsamtiger Schichtpilz](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)\
 22.06.2023: [Taphrina caerulescens - Roteichen-Kräuselkrankheit](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit)\
 21.06.2023: [Schizopora paradoxa - Veränderlicher Spaltporling](/pilze/schizopora-paradoxa-veränderlicher-spaltporling)\
