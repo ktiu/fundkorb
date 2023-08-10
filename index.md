@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laetiporus_sulphureus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.06.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der weltweit vorkommende Schwefelporling *Laetiporus sulphureus*. Da er lebende Laubbäume befallen kann, muss er als Schadpilz eingestuft werden, hält an abgestorbenem Holz aber noch jahrelang aus. Ich konnte das über einen längeren Zeitraum an einem Kirschbaum beobachten, der selbst im Endstadium noch massenhaft Früchte trug. Der aktuelle Fund stammt aus Frankfurt von einer am Mainufer stehenden Weide. Unter Kennern gilt der Schwefelporling als hervorragender Speisepilz, der so gar nicht wie die üblichen Pilzarten schmeckt. Daher wird er im englischen Sprachraum auch *"Chicken of the woods"* genannt. Nicht ausreichend erhitzt kann er erhebliche Magen-/Darmstörungen verursachen. (Adam Adamovicz)
+
+[Mehr lesen >](/pilze/laetiporus-sulphureus-schwefelporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/isaria_umbrina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
