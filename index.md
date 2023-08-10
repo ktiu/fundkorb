@@ -17,8 +17,17 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lophodermium_arundinaceum_01_hl.jpg" %}
 {% include abbildung_ende.html %}
+
+28.06.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Schilf-Spaltlippe *Lophodermium arundinaceum*. Ihre schwarzen kaffeebohnenförmigen Fruchtkörper werden etwa 1 mm lang und ca. 0,4 mm breit. Sie sind in Längsrichtung entlang der Längsachse der Schilfstängel ausgerichtet, entwickeln sich unter der Epidermis (Außenhaut) und brechen diese auf und dürften in kaum einem Schilfbestand fehlen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lophodermium-arundinaceum-schilf-spaltlippe)
+
+<div style="clear:  both"></div>
+
+- - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cumminsiella_mirabilissima_01_dg.jpg" %}
