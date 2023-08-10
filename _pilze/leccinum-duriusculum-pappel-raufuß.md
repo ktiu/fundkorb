@@ -58,6 +58,7 @@ Die schleimige Huthaut setzt sich im Wesentlichen aus schräg nach oben verlaufe
 {% include bild.html datei="/bilder/leccinum_duriusculum_06_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-**Ähnliche Raustielröhrlinge mit braunem Hut:**
-Der [Birkenpilz *Leccinum scabrum*](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz) geht eine Mykorrhiza mit Birken ein. Sein Fleisch verfärbt sich weder an der Luft noch im Schnitt.
-Der [Hainbuchen-Raufuß *Leccinum pseudoscabrum*](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß)(Synonym: *Leccinum carpini*) verfärbt sich nicht blaugrün und geht keine Mykorrhiza mit Pappeln ein.
+**Ähnliche Raustielröhrlinge mit braunem Hut:**\
+Der [Birkenpilz *Leccinum scabrum*](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz) geht eine Mykorrhiza mit Birken ein. Sein Fleisch verfärbt sich weder an der Luft noch im Schnitt.\
+Der [Hainbuchen-Raufuß *Leccinum pseudoscabrum*](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß) (Synonym: *Leccinum carpini*) bleibt meist kleiner, verfärbt sich nicht blaugrün und geht keine Mykorrhiza mit Pappeln ein.\
+Der Vielverfärbende Raufuß *Leccinum variicolor* bleibt in der Regel ebenfalls kleiner und sein Fleisch verfärbt sich nicht grau bis schwarz. Er wächst bei Birken.
