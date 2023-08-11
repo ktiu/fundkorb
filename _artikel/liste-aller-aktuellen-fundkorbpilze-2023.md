@@ -3,7 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-30.06.2023: [Hypoxylon multiforme - Vielgestaltige Kohlenbeere](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)  
+01.07.2023: [Hypoxylon cohaerens - Zusammengedrängte Kohlenbeere](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
+
+30.06.2023: [Hypoxylon multiforme - Vielgestaltige Kohlenbeere](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)\
 29.06.2023: [Chondrostereum purpureum - Violetter Schichtpilz](/pilze/chondrostereum-purpureum-violetter-schichtpilz)\
 28.06.2023: [Lophodermium arundinaceum - Schilf-Spaltlippe](/pilze/lophodermium-arundinaceum-schilf-spaltlippe)\
 27.06.2023: [Cumminsiella mirabilissima - Mahonien-Rost](/pilze/cumminsiella-mirabilissima-mahonienrost)\
