@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/fomitopsis_pinicola_02_bz.jpg" %}
+{% include abbildung_ende.html %}
+
+04.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotrandige Baumschwamm *Fomitopsis pinicola*. Der Artname pinicola besagt, dass es sich um eine an Kiefern wachsende Art handelt. Das stimmt so nicht. Die Liste seiner Wirtsbäume, an denen er sowohl parasitisch als auch [saprobiontisch](saprobiontisch "Glossar") wächst, liest sich fast wie eine Aufzählung aller in Mitteleuropa vorkommenden Baumarten. Manchmal erscheinen die Farben auf seiner Oberfläche in der Reihenfolge schwarz-rot-gold. Während der Fußballweltmeisterschaft 2006, als Deutschland als Gastgeber des unvergesslichen "Sommermärchens" WM-Dritter wurde, zeigte ein in der BILD-Zeitung publiziertes Foto des Rotrandigen Baumschwamms unsere Nationalfarben in richtiger Reihenfolge (!). (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/conocybe_aurea_01_fk.jpeg" %}
 {% include abbildung_ende.html %}
 
