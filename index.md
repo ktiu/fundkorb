@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_pectinatoides_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.07.2023: Die klimabedingte Trockenheit hat dazu geführt, dass in den Wäldern des Rhein-Main-Gebiets kein einziger der üblichen frühen Täublingsarten zu finden war. In unserer pilzreichen Dietzenbacher Parkanlage ist jetzt immerhin der Kratzende Kammtaubling *Russula pectinatoides* erschienen, der natürlich auch unser aktueller [Fundkorbpilz](AA "Glossar-") ist. Das Adjektiv „kratzend“ in seinem Namen bezieht sich auf das unangenehme adstringierende Gefühl, das man bei einer Geschmacksprobe im Rachen verspürt. Mit ein Grund, weshalb er nicht für die Küche taugt. Giftig ist er nicht. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-pectinatoides-kratzender-kammtäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/fomitopsis_pinicola_02_bz.jpg" %}
 {% include abbildung_ende.html %}
 
