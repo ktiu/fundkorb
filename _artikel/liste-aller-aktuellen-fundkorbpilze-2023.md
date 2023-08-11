@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-04.07.2023: [Fomitopsis pinicola - Rotrandiger Baumschwamm](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)  
+05.07.2023: [Russula pectinatoides - Kratzender Kammtäubling](/pilze/russula-pectinatoides-kratzender-kammtäubling)  
+04.07.2023: [Fomitopsis pinicola - Rotrandiger Baumschwamm](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)\
 03.07.2023: [Conocybe aurea - Goldsamthäubchen](/pilze/conocybe-aurea-goldsamthäubchen)\
 02.07.2023: [Xylaria carpophila - Bucheckernschalen-Holzkeule](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)\
 01.07.2023: [Hypoxylon cohaerens - Zusammengedrängte Kohlenbeere](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
