@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylaria_carpophila_07_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Bucheckernschalen-Holzkeule *Xylaria carpophila*. Ein ziemlich kompliziert klingender deutscher Name für einen Pilz, der ihn aber treffend beschreibt. Es sind zwar sehr zierliche, fast schon filigrane Keulchen, die sich durch ihr Vorkommen auf Bucheckernschalen (-cupulen) zweifelsfrei erkennen lassen. Die Art ist wohl in jedem Buchenwald häufig, aber leicht zu übersehen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_cohaerens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
