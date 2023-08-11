@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_cohaerens_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.07.2023: Bei der zur Zeit herrschenden Trockenheit sind fast nur noch an Holz wachsende Pilze zu finden. Das trifft auch auf die Zusammengedrängte Kohlenbeere *Hypoxylon cohaerens*, unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu. Der deutsche Name ist schon eine recht gute Beschreibung des recht häufigen [Pyrenomyzeten](Pyrenomyzeten "Glossar"). Die abgeflacht kugeligen, krustig harten Fruchtkörper erreichen etwa 4 - 7 mm Durchmesser und sind dunkel graubraun bis schwarz gefärbt. Sie wachsen dicht gedrängt auf der Rinde von toten Laubholzästen und -stämmen (ganz überwiegend Buche) und sind oft zusammenfließend miteinander verbunden. Auf den Oberflächen erkennt man die papillenartigen Sporenauslassöffnungen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_multiforme_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
