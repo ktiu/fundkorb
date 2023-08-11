@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/conocybe_aurea_01_fk.jpeg" %}
+{% include abbildung_ende.html %}
+
+03.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Goldsamthäubchen *Conocybe aurea*, das in einem Blumentopf auf meinem Balkon gewachsen ist. Die Bestimmung war nicht ganz einfach, da es einige sehr ähnliche Arten gibt. Pilze der Gattung *Conocybe* (Samthäubchen und Glockenschüpplinge) sind an den lecythiformen [Kaulo- und Cheilozystiden](Zystiden "Glossar") zu erkennen, die aussehen wie kleine Männchen aus dem Mensch-ärgere-dich-nicht-Spiel. (Frank Kaster)
+
+[Mehr lesen >](/pilze/conocybe-aurea-goldsamthäubchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_carpophila_07_dg.jpg" %}
 {% include abbildung_ende.html %}
 
