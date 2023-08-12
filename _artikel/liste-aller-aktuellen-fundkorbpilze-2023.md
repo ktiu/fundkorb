@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-07.07.2023: [Eutypella quaternata - Vierfrüchtige Quaternaria](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)  
+08.07.2023: [Xylaria hypoxylon - Geweihförmige Holzkeule](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)  
+07.07.2023: [Eutypella quaternata - Vierfrüchtige Quaternaria](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)\
 06.07.2023: [Daedalea quercina - Eichenwirrling](/pilze/daedalea-quercina-eichenwirrling)\
 05.07.2023: [Russula pectinatoides - Kratzender Kammtäubling](/pilze/russula-pectinatoides-kratzender-kammtäubling)\
 04.07.2023: [Fomitopsis pinicola - Rotrandiger Baumschwamm](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)\
