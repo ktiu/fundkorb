@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/eutypella_quaternata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Vierfrüchtige Quaternaria *Eutypella quaternata*, ein unscheinbares Pilzchen, das zu Tausenden einen einzigen Buchenast überziehen kann, der dann ein pockennarbiges oder pickeliges Aussehen bekommt. Im Anschnitt ist das aus vier [Perithezien](Perithezien "Glossar") bestehende Nest zu erkennen. Am besten mit einer gut vergrößernden Lupe. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/daedalea_quercina_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
