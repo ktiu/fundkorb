@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Geweihförmige Holzkeule *Xylaria hypoxylon*, eine unverwechselbare Art, die das ganze Jahr über an totem Lauholz zu finden ist. Am häufigsten besiedelt sie scharenweise die Schnittflächen von Buchenstümpfen. Der zierliche Pilz zeigt sich in zwei unterschiedlichen Stadien. Als komplett schwarze Keulchen oder mit weißen, beim Anschnippen stäubenden Spitzen. Diese sind so vielgestaltig, dass kaum einmal eine einer anderen gleicht. Der weiße Staub besteht aus ungeschlechlichen Sporen, die komplett schwarzen Fruchtkörper produzieren dagegen die sexuellen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/eutypella_quaternata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -28,8 +40,6 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 <div style="clear:  both"></div>
 
 - - -
-
-
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/daedalea_quercina_03_dg.jpg" %}
