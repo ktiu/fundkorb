@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/candida-albicans_01_xx.jpg" %}
+{% include abbildung_ende.html %}
+
+10.07.2023: Wie schon gesagt: Trockenheit ist normalem Pilzwachstum in Wald und Flur äußerst unzuträglich. Weil in freier Natur zur Zeit kaum Pilze zu finden sind, greife ich heute auf einen zurück, den wir wohl alle in uns haben: *Candida albicans*, der Soorpilz. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist so winzig, dass man ihn nur mit dem Mikroskop sehen kann. Er hilft uns bei der Verdauung, kann aber auch Entzündungen im Magen-Darm-Trakt oder Überwucherungen auf der Zunge verursachen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/candida-albicans-soorpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_sanguinolentum_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
