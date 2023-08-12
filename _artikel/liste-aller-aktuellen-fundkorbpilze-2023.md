@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-08.07.2023: [Xylaria hypoxylon - Geweihförmige Holzkeule](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)  
+09.07.2023: [Stereum sanguinolentum - Blutender Nadelholzschichtpilz](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)  
+08.07.2023: [Xylaria hypoxylon - Geweihförmige Holzkeule](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)\
 07.07.2023: [Eutypella quaternata - Vierfrüchtige Quaternaria](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)\
 06.07.2023: [Daedalea quercina - Eichenwirrling](/pilze/daedalea-quercina-eichenwirrling)\
 05.07.2023: [Russula pectinatoides - Kratzender Kammtäubling](/pilze/russula-pectinatoides-kratzender-kammtäubling)\
