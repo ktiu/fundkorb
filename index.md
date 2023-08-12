@@ -18,6 +18,18 @@ Neue Exkursionstermine am **Samstag, 12. August** und Sonntag, 13. August 2023 (
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_sanguinolentum_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutende Nadelholzschichtpilz *Stereum sanguinolentum*. Totes Fichtenholz, an dem er seine Fruchtkörper bilden kann, gibt es zur Zeit ja zur Genüge. Die gefundenen Fruchtkörper waren zwar so trocken, dass ich ihre [stereoiden](stereoid "Glossar") [Hymenien](Hymenium "Glossar") nicht zum Bluten bringen konnte, aber an der Bestimmung gab es schon wegen des Substrats keine Zweifel. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
