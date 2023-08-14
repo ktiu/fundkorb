@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin am Sonntag, 13. August 2023 10:00 Uhr: **Der Wald und seine Pilze**\
+Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und seine Pilze**\
 [Hier geht's zur Anmeldung -->](/termine)
 
 - - -
