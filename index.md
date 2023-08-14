@@ -17,6 +17,34 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
+20.07.2023: Bei Hornberg im Schwarzwald wurde auch eine Täublingsart gefunden, die feuchte Standorte liebt. Bei diesem aktuellen [Fundkorbpilz](AA "Glossar-") handelt es sich um den Graustiel-Speitäubling Russula griseascens, der leicht mit anderen rothütigen Speitäublingen verwechselt werden kann. Speitäublinge sind recht kleine zerbrechliche Pilze mit scharfem Geschmack, die Magen-/Darmbeschwerden (Bauchweh, Durchfall, Erbrechen) verursachen und daher als Giftpilze gelten. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+19.07.2023: Ein weiterer aus dem Schwarzwald gemeldeter aktueller [Fundkorbpilz](AA "Glossar-") ist der Amethyst-Täubling Russula amethystina, der nicht leicht vom ähnlichen Jodoformtäubling Russula turci zu unterscheiden ist und nicht von allen Autoren als gute Art anerkannt wird. Beide sind nicht selten, absolut mild im Geschmack und am typischen Jodoformgeruch zu erkennen, den geübte Nasen beim Anschnitt der Spielbasis feststellen können. Er wird auch als „Krankenhausgeruch“ bezeichnet. Eine Verwechslung wäre gefahrlos, denn beide gelten als gute Speisepilze. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+18.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mohrenkopf Lactarius lignyotus, ein auffälliger und gut kenntlicher Milchling. Auch er wurde bei einer Exkursion im Schwarzwald gefunden. Es handelt sich um einen ausgezeichneten Speisepilz, der sogar roh essbar sein soll, aber ziemlich selten und in seinen Vorkommen deutlich rückläufig ist. Im Flachland unter 300 m NN wird man ihn kaum einmal zu Gesicht bekommen. Sein Mykorrhizapartner ist die Fichte. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+17.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Graue Wulstling Amanita excelsa, gefunden von Ulrich Blasel in den Pyrenäen. Wer Perlpilze für Speisezecke sammelt, sollte ihn kennen. Er ist zwar nicht giftig wie der Pantherpilz, aber unangenehm muffig im Geschmack. Im Gegensatz zum Perlpilz hat er nirgendwo rötliche Farbtöne, weder unter der Huthaut noch an der Stielbasis noch im angefressenen oder von Maden befallenen Fleisch.  (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sphagnurus_paluster_01_th.jpg" %}
+{% include abbildung_ende.html %}
+
+16.07.2023:  Mit dem Sumpf-Graublatt *Sphagnurus paluster* ist eine weitere bemerkenswerte Art unser aktueller [Fundkorbpilz](AA "Glossar-"). Sie wurde von *Alexander Reichert* im Raum Hornberg im Schwarzwald gemeldet. Mehrere Exemplare wuchsen in Sphagnum-Moosen am Rand eines Moorgebiets. Sie zu fotografieren ist nicht immer komfortabel. Mitunter holt man sich nasse Füße.
+
+[Mehr lesen >](/pilze/sphagnurus-paluster-sumpf-graublatt)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_uvidus_02_bm.jpg" %}
 {% include abbildung_ende.html %}
