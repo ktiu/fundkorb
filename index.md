@@ -17,6 +17,34 @@ Neuer Exkursionstermin am Sonntag, 13. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
+15.07.2023: Pilzfreunde aus dem Schwarzwald berichten von Funden, von denen wir im Rhein-Main-Gebiet nur träumen können. Zu diesen gehört der Ungezonte Violettmilchling Lactarius uvidus, unser heutiger [Fundkorbpilz](AA "Glossar-"). Er wurde in einem sauren Moor bei Schonach gefunden. Die beim Austritt oder Anschnitt violett verfärbende Flüssigkeit ist noch kein verlässliches Unterscheidungsmerkmal. Es gibt einige wenige Arten mit der gleichen Eigenschaft. Sie sind alle selten. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+14.07.2023: Heute ist die Bayerische Landesanstalt für Wald und Forstwirtschaft für den aktuellen [Fundkorbpilz](AA "Glossar-") verantwortlich. Sie warnt vor der Ausbreitung einer gefährlichen Pilzinfektion: „Immer häufiger bricht bei Ahornbäumen die sogenannte Rußrindenkrankheit Cryptostroma corticale aus – begünstigt durch den Klimawandel. Nicht nur für die Baumbestände, sondern auch für den Menschen kann das Folgen haben.“ Im Fundkorb wurde schon vor Jahren auf diese Gefahr hingewiesen und ausführlich über den phytoparasitischen Pilz informiert. Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+13.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Verursacher der Traubenkirschen-Kräuselkrankheit Taphrina farlowii. Klingt dramatisch, ist aber halb so wild. Der Pilz deformiert lediglich die Blätter und fügt der Pflanze keinen nachhaltigen Schaden zu. Das Schadbild besteht aus beulen- oder blasenförmigen Wucherungen, die sich farblich vom Blattgrün unterscheiden können. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+12.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Berberitzenkugelpilz Cucurbitaria berberidis. Die winzigen Pyrenomyzeten wachsen ganzjährig an abgestorbenen Stängeln und Zweigen von Berberitzen und sind wohl überall und zu jeder Jahreszeit zu finden, wo Berberitzen stehen. Sie haben eine maulbeerartige Struktur und brechen aus der trockenen Rinde hervor. Oft erscheinen sie als schwarze Spalten, in denen man mit einer guten Lupe die Details erkennen kann. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/chaetomium_bostrychodes_02_bd.jpg" %}
+{% include abbildung_ende.html %}
+
+11.07.2023: Pilzwachstum kann man auch in Dürreperioden auf dem eigenen Balkon züchten, indem man zum Beispiel eingesammelte Kaninchenkötel in einem geeigneten Behältnis unter Glas feucht hält. Im so erzeugten feuchtwarmen Kleinklima ist bei uns jetzt zum wiederholten Mal der winzige nur mit der Lupe erkennbare Schimmelpilz *Chaetomium bostrychodes* erschienen, unser aktueller [Fundkorbpilz](AA "Glossar-"). (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/chaetomium-bostrychodes)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/candida-albicans_01_xx.jpg" %}
 {% include abbildung_ende.html %}
