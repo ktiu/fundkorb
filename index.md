@@ -21,7 +21,15 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-19.07.2023: Ein weiterer aus dem Schwarzwald gemeldeter aktueller [Fundkorbpilz](AA "Glossar-") ist der Amethyst-Täubling Russula amethystina, der nicht leicht vom ähnlichen Jodoformtäubling Russula turci zu unterscheiden ist und nicht von allen Autoren als gute Art anerkannt wird. Beide sind nicht selten, absolut mild im Geschmack und am typischen Jodoformgeruch zu erkennen, den geübte Nasen beim Anschnitt der Spielbasis feststellen können. Er wird auch als „Krankenhausgeruch“ bezeichnet. Eine Verwechslung wäre gefahrlos, denn beide gelten als gute Speisepilze. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_amethystina_01_hs.jpg" %}
+{% include abbildung_ende.html %}
+
+19.07.2023: Ein weiterer aus dem Schwarzwald gemeldeter aktueller [Fundkorbpilz](AA "Glossar-") ist der Amethyst-Täubling *Russula amethystina*, der nicht leicht vom ähnlichen [Jodoformtäubling Russula turci](/pilze/russula-turci-jodoformtäubling) zu unterscheiden ist und nicht von allen Autoren als gute Art anerkannt wird. Beide sind nicht selten, absolut mild im Geschmack und am typischen Jodoformgeruch zu erkennen, den geübte Nasen beim Anschnitt der Spielbasis feststellen können. Er wird auch als *„Krankenhausgeruch“* bezeichnet. Eine Verwechslung wäre gefahrlos, denn beide gelten als gute Speisepilze. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-amethystina-amethyst-täubling)
+
+<div style="clear:  both"></div>
 
 - - -
 
