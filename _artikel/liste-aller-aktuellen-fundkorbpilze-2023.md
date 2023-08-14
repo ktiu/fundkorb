@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-15.07.2023: [Lactarius uvidus - Ungezonter Violettmilchling](/pilze/lactarius-uvidus-ungezonter-violettmilchling-klebriger-violettmilchling)  
+16.07.2023: [Sphagnurus paluster - Sumpf-Graublatt](/pilze/sphagnurus-paluster-sumpf-graublatt)  
+15.07.2023: [Lactarius uvidus - Ungezonter Violettmilchling](/pilze/lactarius-uvidus-ungezonter-violettmilchling-klebriger-violettmilchling)\
 14.07.2023: [Cryptostroma corticale - Rußrindenkrankheit](/pilze/cryptostroma-corticale-rußrindenkrankheit)\
 13.07.2023: [Taphrina farlowii - Traubenkirschen-Kräuselkrankheit](/pilze/taphrina-farlowii-traubenkirschen-kräuselkrankheit)\
 12.07.2023: [Cucurbitaria berberidis - Berberitzen-Kugelpilz](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)\
