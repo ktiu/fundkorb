@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-12.07.2023: [Cucurbitaria berberidis - Berberitzen-Kugelpilz](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)  
+13.07.2023: [Taphrina farlowii - Traubenkirschen-Kräuselkrankheit](/pilze/taphrina-farlowii-traubenkirschen-kräuselkrankheit)  
+12.07.2023: [Cucurbitaria berberidis - Berberitzen-Kugelpilz](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)\
 11.07.2023: [Chaetomium bostrychodes (ein Schimmelpilz)](/pilze/chaetomium-bostrychodes)\
 10.07.2023: [Candida albicans - Soorpilz](/pilze/candida-albicans-soorpilz)\
 09.07.2023: [Stereum sanguinolentum - Blutender Nadelholzschichtpilz](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)\
