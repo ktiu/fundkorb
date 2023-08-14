@@ -25,7 +25,15 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-18.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mohrenkopf Lactarius lignyotus, ein auffälliger und gut kenntlicher Milchling. Auch er wurde bei einer Exkursion im Schwarzwald gefunden. Es handelt sich um einen ausgezeichneten Speisepilz, der sogar roh essbar sein soll, aber ziemlich selten und in seinen Vorkommen deutlich rückläufig ist. Im Flachland unter 300 m NN wird man ihn kaum einmal zu Gesicht bekommen. Sein Mykorrhizapartner ist die Fichte. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_lignyotus_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+18.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mohrenkopf *Lactarius lignyotus*, ein auffälliger und gut kenntlicher Milchling. Auch er wurde bei einer Exkursion im Schwarzwald gefunden. Es handelt sich um einen ausgezeichneten Speisepilz, der sogar roh essbar sein soll, aber ziemlich selten und in seinen Vorkommen deutlich rückläufig ist. Im Flachland unter 300 m NN wird man ihn kaum einmal zu Gesicht bekommen. Sein [Mykorrhizapartner](Mykorrhiza "Glossar") ist die Fichte. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lactarius-lignyotus-mohrenkopf)
+
+<div style="clear:  both"></div>
 
 - - -
 
