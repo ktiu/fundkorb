@@ -17,7 +17,15 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-20.07.2023: Bei Hornberg im Schwarzwald wurde auch eine Täublingsart gefunden, die feuchte Standorte liebt. Bei diesem aktuellen [Fundkorbpilz](AA "Glossar-") handelt es sich um den Graustiel-Speitäubling Russula griseascens, der leicht mit anderen rothütigen Speitäublingen verwechselt werden kann. Speitäublinge sind recht kleine zerbrechliche Pilze mit scharfem Geschmack, die Magen-/Darmbeschwerden (Bauchweh, Durchfall, Erbrechen) verursachen und daher als Giftpilze gelten. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_griseascens_04_ar.jpg" %}
+{% include abbildung_ende.html %}
+
+20.07.2023: Bei Hornberg im Schwarzwald wurde auch eine Täublingsart gefunden, die feuchte Standorte liebt. Bei diesem aktuellen [Fundkorbpilz](AA "Glossar-") handelt es sich um den Graustiel-Speitäubling *Russula griseascens*, der leicht mit anderen rothütigen Speitäublingen verwechselt werden kann. Speitäublinge sind recht kleine zerbrechliche Pilze mit scharfem Geschmack, die Magen-/Darmbeschwerden (Bauchweh, Durchfall, Erbrechen) verursachen und daher als Giftpilze gelten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-griseascens-graustiel-speitäubling)
+
+<div style="clear:  both"></div>
 
 - - -
 
