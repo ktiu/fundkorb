@@ -29,7 +29,15 @@ Neuer Exkursionstermin am Sonntag, 13. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-12.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Berberitzenkugelpilz Cucurbitaria berberidis. Die winzigen Pyrenomyzeten wachsen ganzjährig an abgestorbenen Stängeln und Zweigen von Berberitzen und sind wohl überall und zu jeder Jahreszeit zu finden, wo Berberitzen stehen. Sie haben eine maulbeerartige Struktur und brechen aus der trockenen Rinde hervor. Oft erscheinen sie als schwarze Spalten, in denen man mit einer guten Lupe die Details erkennen kann. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cucurbitaria_berberidis_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Berberitzenkugelpilz *Cucurbitaria berberidis*. Die winzigen [Pyrenomyzeten](<Pyrenomyzeten "Glossar">) wachsen ganzjährig an abgestorbenen Stängeln und Zweigen von Berberitzen und sind wohl überall und zu jeder Jahreszeit zu finden, wo Berberitzen stehen. Sie haben eine maulbeerartige Struktur und brechen aus der trockenen Rinde hervor. Oft erscheinen sie als schwarze Spalten, in denen man mit einer guten Lupe die Details erkennen kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)
+
+<div style="clear:  both"></div>
 
 - - -
 
