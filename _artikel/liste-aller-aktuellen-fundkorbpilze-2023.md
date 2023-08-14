@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-18.07.2023: [Lactarius lignyotis - Mohrenkopf](/pilze/lactarius-lignyotus-mohrenkopf)  
+19.07.2023: [Russula amethystina - Amethyst-Täubling](/pilze/russula-amethystina-amethyst-täubling)  
+18.07.2023: [Lactarius lignyotis - Mohrenkopf](/pilze/lactarius-lignyotus-mohrenkopf)\
 17.07.2023: [Amanita excelsa - Grauer Wulstling](/pilze/amanita-excelsa-grauer-wulstling)\
 16.07.2023: [Sphagnurus paluster - Sumpf-Graublatt](/pilze/sphagnurus-paluster-sumpf-graublatt)\
 15.07.2023: [Lactarius uvidus - Ungezonter Violettmilchling](/pilze/lactarius-uvidus-ungezonter-violettmilchling-klebriger-violettmilchling)\
