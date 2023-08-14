@@ -29,7 +29,15 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-17.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Graue Wulstling Amanita excelsa, gefunden von Ulrich Blasel in den Pyrenäen. Wer Perlpilze für Speisezecke sammelt, sollte ihn kennen. Er ist zwar nicht giftig wie der Pantherpilz, aber unangenehm muffig im Geschmack. Im Gegensatz zum Perlpilz hat er nirgendwo rötliche Farbtöne, weder unter der Huthaut noch an der Stielbasis noch im angefressenen oder von Maden befallenen Fleisch.  (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_excelsa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Graue Wulstling *Amanita excelsa*, gefunden von *Ulrich Blasel* in den Pyrenäen. Wer Perlpilze für Speisezecke sammelt, sollte ihn kennen. Er ist zwar nicht giftig wie der Pantherpilz, aber unangenehm muffig im Geschmack. Im Gegensatz zum Perlpilz hat er nirgendwo rötliche Farbtöne, weder unter der Huthaut noch an der Stielbasis noch im angefressenen oder von Maden befallenen Fleisch.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-excelsa-grauer-wulstling)
+
+<div style="clear:  both"></div>
 
 - - -
 
