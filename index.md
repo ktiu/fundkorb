@@ -21,7 +21,15 @@ Neuer Exkursionstermin am Sonntag, 13. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-14.07.2023: Heute ist die Bayerische Landesanstalt für Wald und Forstwirtschaft für den aktuellen [Fundkorbpilz](AA "Glossar-") verantwortlich. Sie warnt vor der Ausbreitung einer gefährlichen Pilzinfektion: „Immer häufiger bricht bei Ahornbäumen die sogenannte Rußrindenkrankheit Cryptostroma corticale aus – begünstigt durch den Klimawandel. Nicht nur für die Baumbestände, sondern auch für den Menschen kann das Folgen haben.“ Im Fundkorb wurde schon vor Jahren auf diese Gefahr hingewiesen und ausführlich über den phytoparasitischen Pilz informiert. Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cryptostroma_corticale_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.07.2023: Heute ist die Bayerische Landesanstalt für Wald und Forstwirtschaft für den aktuellen [Fundkorbpilz](AA "Glossar-") verantwortlich. Sie warnt vor der Ausbreitung einer gefährlichen Pilzinfektion: „Immer häufiger bricht bei Ahornbäumen die sogenannte Rußrindenkrankheit *Cryptostroma corticale* aus – begünstigt durch den Klimawandel. Nicht nur für die Baumbestände, sondern auch für den Menschen kann das Folgen haben.“ Im Fundkorb wurde schon vor Jahren auf diese Gefahr hingewiesen und ausführlich über den [phytoparasitischen](<Phytoparasiten "Glossar">) Pilz informiert
+
+[Mehr lesen >](/pilze/cryptostroma-corticale-rußrindenkrankheit)
+
+<div style="clear:  both"></div>
 
 - - -
 
