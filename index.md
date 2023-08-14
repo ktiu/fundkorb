@@ -17,7 +17,15 @@ Neuer Exkursionstermin am Sonntag, 13. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-15.07.2023: Pilzfreunde aus dem Schwarzwald berichten von Funden, von denen wir im Rhein-Main-Gebiet nur träumen können. Zu diesen gehört der Ungezonte Violettmilchling Lactarius uvidus, unser heutiger [Fundkorbpilz](AA "Glossar-"). Er wurde in einem sauren Moor bei Schonach gefunden. Die beim Austritt oder Anschnitt violett verfärbende Flüssigkeit ist noch kein verlässliches Unterscheidungsmerkmal. Es gibt einige wenige Arten mit der gleichen Eigenschaft. Sie sind alle selten. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_uvidus_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+15.07.2023: Pilzfreunde aus dem Schwarzwald berichten von Funden, von denen wir im Rhein-Main-Gebiet nur träumen können. Zu diesen gehört der Ungezonte Violettmilchling *Lactarius uvidus*, unser heutiger [Fundkorbpilz](AA "Glossar-"). Er wurde in einem sauren Moor bei Schonach gefunden. Die beim Austritt oder Anschnitt violett verfärbende Flüssigkeit ist noch kein verlässliches Unterscheidungsmerkmal. Es gibt einige wenige Arten mit der gleichen Eigenschaft. Sie sind alle selten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lactarius-uvidus-ungezonter-violettmilchling-klebriger-violettmilchling)
+
+<div style="clear:  both"></div>
 
 - - -
 
