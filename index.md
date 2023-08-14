@@ -25,7 +25,15 @@ Neuer Exkursionstermin am Sonntag, 13. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-13.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Verursacher der Traubenkirschen-Kräuselkrankheit Taphrina farlowii. Klingt dramatisch, ist aber halb so wild. Der Pilz deformiert lediglich die Blätter und fügt der Pflanze keinen nachhaltigen Schaden zu. Das Schadbild besteht aus beulen- oder blasenförmigen Wucherungen, die sich farblich vom Blattgrün unterscheiden können. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/taphrina_farlowii_-02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Verursacher der Traubenkirschen-Kräuselkrankheit *Taphrina farlowii*. Klingt dramatisch, ist aber halb so wild. Der Pilz deformiert lediglich die Blätter und fügt der Pflanze keinen nachhaltigen Schaden zu. Das Schadbild besteht aus beulen- oder blasenförmigen Wucherungen, die sich farblich vom Blattgrün unterscheiden können. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/taphrina-farlowii-traubenkirschen-kräuselkrankheit)
+
+<div style="clear:  both"></div>
 
 - - -
 
