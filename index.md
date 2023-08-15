@@ -25,7 +25,15 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-23.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gesäumte Häubling Galerina paludosa. Er wird auch Weißflockiger Sumpfhäubling genannt. Häublinge sind eine schwierige Gattung. Ihre Bestimmung ist oft nur anhand mikroskopischer Merkmale möglich. Galerina paludosa macht da eine Ausnahme. In typischer Erscheinungsform und wenn man das Vorkommen in moorigen Biotopen bei Torfmoosen beachtet, ist sie gut kenntlich.   (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/galerina_paludosa_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+23.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gesäumte Häubling *Galerina paludosa*. Er wird auch Weißflockiger Sumpfhäubling genannt. Häublinge sind eine schwierige Gattung. Ihre Bestimmung ist oft nur anhand mikroskopischer Merkmale möglich. *Galerina paludosa* macht da eine Ausnahme. In typischer Erscheinungsform und wenn man das Vorkommen in moorigen Biotopen bei Torfmoosen beachtet, ist sie gut kenntlich. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/galerina-paludosa-gesäumter-häubling-weißflockiger-sumpfhäubling)
+
+<div style="clear:  both"></div>
 
 - - -
 
