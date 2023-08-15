@@ -19,7 +19,7 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Cortinarius_rubellus.html
   - url: https://flexikon.doccheck.com/de/Orellana-Syndrom
 ---
-Die wichtigste Information zu diesem Pilz gleich zu Anfang: Er ist tödlich giftig. Sein Wirkstoff *Orellanin*, nach seinem Doppelgänger *Cortinarius orellanus* benannnt, greft Nieren und Leber an. Besonders tückisch ist seine lange Latenzzeit. Bei schweren Vergiftungungen beträgt sie  2 - 3 Tage. Es droht Nierenversagen und ohne Notfalltherapie der Tod. Bei leichteren Vergiftungen kann es bis zu 17 Tage dauern, bis sich Symptome zeigen.
+Die wichtigste Information zu diesem Pilz gleich zu Anfang: Er ist tödlich giftig. Sein Wirkstoff *Orellanin*, nach seinem Doppelgänger *Cortinarius orellanus* benannnt, greift Nieren und Leber an. Besonders tückisch ist seine lange Latenzzeit. Bei schweren Vergiftungungen beträgt sie  2 - 3 Tage. Es droht Nierenversagen und ohne Notfalltherapie der Tod. Bei leichteren Vergiftungen kann es bis zu 17 Tage dauern, bis sich Symptome zeigen.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/cortinarius_rubellus_04_us.jpg" %}
