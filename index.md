@@ -17,6 +17,34 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
+25.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Behangene Faserling Psathyrella candolleana. Drei Tage mit etwas Regen haben auch in der Rhein-Main-Ebene und in unserer Dietzenbacher Parkanlage ausgereicht, um ihn gleich an mehreren Stellen sprießen zu lassen. Ein bisschen Totholz, am Boden oder vergraben, gehören neben etwas Feuchtigkeit zu den Bedingungen, die er zum Wachstum benötigt. Wer ihn sicher kennt, kann ihn in der Küche verwenden. Er eignet sich ganz gut als Suppeneinlage. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+24.07.2023: Um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Zugespitzten Kugelpilz Leptosphaeria acuta, zu finden, muss man trockene Brennnesselstängel aus dem Vorjahr in Augenschein nehmen. Mit einer gut vergrößernden Lupe muss man da nicht lange suchen. An den meisten Stängeln wird man fündig werden. Die winzigen Ascomyzeten werden gerade mal 0,3 bis 0,5 mm groß. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+23.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gesäumte Häubling Galerina paludosa. Er wird auch Weißflockiger Sumpfhäubling genannt. Häublinge sind eine schwierige Gattung. Ihre Bestimmung ist oft nur anhand mikroskopischer Merkmale möglich. Galerina paludosa macht da eine Ausnahme. In typischer Erscheinungsform und wenn man das Vorkommen in moorigen Biotopen bei Torfmoosen beachtet, ist sie gut kenntlich.   (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+22.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weißmilchende Helmling Mycena galopus, der ebenfalls im Schwarzwald gefunden wurde. Bei ihm tritt die weiße Milch bei Verletzung des unteren Stielbereichs aus, ein gutes Erkennungsmerkmal, das er allerdings mit dem Weißmilchenden Schwarzhelmling Mycena leucogala teilt. Beide sind häufige Arten, die jedoch wenig Beachtung finden. Helmlinge sind hübsch anzuschauen, für die Küche aber ungeeignet. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cortinarius_rubellus_04_us.jpg" %}
+{% include abbildung_ende.html %}
+
+21.07.2023: Ebenfalls im Schwarzwald in der Nähe von Hornberg wurde der Spitzgebuckelte Raukopf *Cortinarius rubellus* gefunden. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") wuchs zwischen Torfmoosen unter Fichten. Er gehört zu den Schleierlingen der Untergattung *Leprocybe* (neu: *Orellani*). Wer sich mit Schleierlingen nicht sehr gut auskennt, sollte Pilze aus dieser schwierigen und artenreichen Gattung unbedingt meiden. Nur wenige sind essbar, aber einige tödlich giftig wie auch der hier gezeigte Spitzgebuckelte Raukopf. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/cortinarius-rubellus-spitzgebuckelter-raukopf)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_griseascens_04_ar.jpg" %}
 {% include abbildung_ende.html %}
