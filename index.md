@@ -17,6 +17,20 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
+
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/psathyrella_candolleana_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Behangene Faserling *Psathyrella candolleana*. Drei Tage mit etwas Regen haben auch in der Rhein-Main-Ebene und in unserer Dietzenbacher Parkanlage ausgereicht, um ihn gleich an mehreren Stellen sprießen zu lassen. Ein bisschen Totholz, am Boden oder vergraben, gehören neben etwas Feuchtigkeit zu den Bedingungen, die er zum Wachstum benötigt. Wer ihn sicher kennt, kann ihn in der Küche verwenden. Er eignet sich ganz gut als Suppeneinlage. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/psathyrella-candolleana-behangener-faserling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leptosphaeria_acuta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
