@@ -25,7 +25,7 @@ Die wichtigste Information zu diesem Pilz gleich zu Anfang: Er ist tödlich gift
 {% include bild.html datei="/bilder/cortinarius_rubellus_04_us.jpg" %}
 {% include abbildung_ende.html %}
 
-Der Spitzgebuckelte Raukopf ist ein relativ kleiner bis mittelgroßer Pilz mit Hutdurchmessern von 3 bis 8 cm. Die Hüte sind braun, orangebräunlich, rost- bis zimtorange gefärbt sowie trocken matt bis schorfig und nicht [hygrophan](hygrophan "Glossar"), feucht jedoch glatt und durchscheinend gerieft. Auffälligstes Merkmal ist seine spitzgebuckelte Hutmitte, die aber auch abgerundet sein kann. Die Lamellen sind zimt- bis orangebraun und ausgebuchtet am Stiel angewachsen. Der Stiel ist keulig, zur Basis hin verdickt, im Durchschnitt um die 10 cm lang und bis zu 1,5 cm dick. Er ist ähnlich wie der Hut gefärbt, jedoch durch gelbliche [Velumreste](Velum "Glossar") mehr oder weniger deutlich gegürtelt oder genattert. Der Geruch ist schwach rettichartig. Das Sporenpulver ist rostbraun.
+Der Spitzgebuckelte Raukopf ist ein relativ kleiner bis mittelgroßer Pilz mit Hutdurchmessern von 3 bis 8 cm. Die Hüte sind braun, orangebräunlich, rost- bis zimtorange gefärbt sowie trocken, matt bis schorfig, und [hygrophan](hygrophan "Glossar"). Auffälligstes Merkmal ist seine spitzgebuckelte Hutmitte, die aber auch abgerundet sein kann. Die Lamellen sind zimt- bis orangebraun und ausgebuchtet am Stiel angewachsen. Der Stiel ist keulig, zur Basis hin verdickt, im Durchschnitt um die 10 cm lang und bis zu 1,5 cm dick. Er ist ähnlich wie der Hut gefärbt, jedoch durch gelbliche [Velumreste](Velum "Glossar") mehr oder weniger deutlich gegürtelt oder genattert. Der Geruch ist schwach rettichartig. Das Sporenpulver ist rostbraun.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/cortinarius_rubellus_02_us.jpg" nocrop=true gross=true %}
@@ -38,5 +38,5 @@ Der Pilz gehört zu den Schleierlingen und wurde in der Untergattung *Leprocybe*
 
 Ein naher ebenfalls tödlich giftiger Verwandter ist der wärmeliebende [Orangefuchsige Raukopf *Cortinarius orellanus*](/pilze/cortinarius-orellanus-orangefuchsiger-raukopf). Seine Hüte sind ähnlich gefärbt, jedoch nicht spitz sondern eher flach oder breit gebuckelt, seine Stiele gelblich, ungenattert, an der Basis nicht verdickt. Er kommt sowohl in Laub- wie in Nadelwäldern vor, gern bei Eichen. Verwechslungen könnten auch mit dem Goldgelben Raukopf *Cortinarius gentilis* vorkommen.
 
-**Anmerkungen zum Giftstoff Orellanin:**  
+**Anmerkungen zum Giftstoff Orellanin:**\
 Die Symptome beginnen nach der oft langen Latenzzeit mit Übelkeit und Erbrechen. Es folgen Schmerzen im Lendenbereich infolge der beginnenden Nierenschädigung, Kopf-, Gelenk- und Muskelschmerzen sowie starkes Durstgefühl, eventuell auch Schüttelfrost. Nach einer  rechtzeitigen Intensivtherapie bessert sich bei 50% der Betroffenen die Nierenfunktion innerhalb einiger Wochen ohne weitere Nachbehandlung. Bei den anderen 50% ist eine *Hämodialyse* (Blutreinigung außerhalb des Körpers) über einen begrenzten Zeitraum oder auch dauerhaft erforderlich.
