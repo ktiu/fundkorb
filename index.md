@@ -29,7 +29,15 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-22.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weißmilchende Helmling Mycena galopus, der ebenfalls im Schwarzwald gefunden wurde. Bei ihm tritt die weiße Milch bei Verletzung des unteren Stielbereichs aus, ein gutes Erkennungsmerkmal, das er allerdings mit dem Weißmilchenden Schwarzhelmling Mycena leucogala teilt. Beide sind häufige Arten, die jedoch wenig Beachtung finden. Helmlinge sind hübsch anzuschauen, für die Küche aber ungeeignet. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_galopus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weißmilchende Helmling *Mycena galopus*, der ebenfalls im Schwarzwald gefunden wurde. Bei ihm tritt die weiße Milch bei Verletzung des unteren Stielbereichs aus, ein gutes Erkennungsmerkmal, das er allerdings mit dem [Weißmilchenden Schwarzhelmling *Mycena leucogala*](/pilze/mycena-leucogala-weißmilchender-schwarzhelmling) teilt. Beide sind häufige Arten, die jedoch wenig Beachtung finden. Helmlinge sind hübsch anzuschauen, für die Küche aber ungeeignet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-galopus-weißmilchender-helmling)
+
+<div style="clear:  both"></div>
 
 - - -
 
