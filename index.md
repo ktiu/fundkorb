@@ -21,7 +21,15 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-24.07.2023: Um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Zugespitzten Kugelpilz *Leptosphaeria acuta*, zu finden, muss man trockene Brennnesselstängel aus dem Vorjahr in Augenschein nehmen. Mit einer gut vergrößernden Lupe braucht man da nicht lange suchen. An den meisten Stängeln wird man fündig werden. Die winzigen [Ascomyzeten](Ascomyzeten "Glossar") werden gerade mal 0,3 bis 0,5 mm groß. (Dieter Gewalt)Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leptosphaeria_acuta_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.07.2023: Um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Zugespitzten Kugelpilz *Leptosphaeria acuta*, zu finden, muss man trockene Brennnesselstängel aus dem Vorjahr in Augenschein nehmen. Mit einer gut vergrößernden Lupe braucht man da nicht lange suchen. An den meisten Stängeln wird man fündig werden. Die winzigen [Ascomyzeten](Ascomyzeten "Glossar") werden gerade mal 0,3 bis 0,5 mm groß. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)
+
+<div style="clear:  both"></div>
 
 - - -
 
