@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-22.07.2023: [Mycena galopus - Weißmilchender Helmling](/pilze/mycena-galopus-weißmilchender-helmling)  
+23.07.2023: [Galerina paludosa - Gesäumter Häubling](/pilze/galerina-paludosa-gesäumter-häubling-weißflockiger-sumpfhäubling)  
+22.07.2023: [Mycena galopus - Weißmilchender Helmling](/pilze/mycena-galopus-weißmilchender-helmling)\
 21.07.2023: [Cortinarius rubellus - Spitzgebuckelter Raukopf](/pilze/cortinarius-rubellus-spitzgebuckelter-raukopf)\
 20.07.2023: [Russula griseascens - Graustiel-Speitäubling](/pilze/russula-griseascens-graustiel-speitäubling)\
 19.07.2023: [Russula amethystina - Amethyst-Täubling](/pilze/russula-amethystina-amethyst-täubling)\
