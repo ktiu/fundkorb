@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-25.07.2023: [Psathyrella candolleana - Behangener Faserling](/pilze/psathyrella-candolleana-behangener-faserling)  
+26.07.2023: [Daedaleopsis confragosa - Rötende Tramete](/pilze/daedaleopsis-confragosa-rötende-tramete)  
+25.07.2023: [Psathyrella candolleana - Behangener Faserling](/pilze/psathyrella-candolleana-behangener-faserling)\
 24.07.2023: [Leptosphaeria acuta - Zugespitzter Kugelpilz](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)\
 23.07.2023: [Galerina paludosa - Gesäumter Häubling](/pilze/galerina-paludosa-gesäumter-häubling-weißflockiger-sumpfhäubling)\
 22.07.2023: [Mycena galopus - Weißmilchender Helmling](/pilze/mycena-galopus-weißmilchender-helmling)\
