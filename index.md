@@ -33,9 +33,13 @@ Mehr lesen >
 
 - - -
 
-28.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Nelkenschwindling Marasmius oreades. Bei uns in Dietzenbach hat es zwar nur wenig geregnet, aber einige Rasenflächen in unserer Parkanlage haben Feuchtigkeit abgekriegt, um Pilzwachstum zu ermöglichen. Die hat auch der Nelkenschwindling genutzt, um einige Fruchtkörper zu bilden. Es handelt sich übrigens um einen ausgezeichneten Speisepilz, den man sicher erkannt haben sollte, bevor man ihn für die Küche pflückt. (Dieter Gewalt)
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_oreades_01_dg.jpg" %}
+{% include abbildung_ende.html %}
 
-Mehr lesen >
+28.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Nelkenschwindling *Marasmius oreades*. Bei uns in Dietzenbach hat es zwar nur wenig geregnet, aber einige Rasenflächen in unserer Parkanlage haben genug Feuchtigkeit abgekriegt, um Pilzwachstum zu ermöglichen. Die hat auch der Nelkenschwindling genutzt, um einige Fruchtkörper zu bilden. Es handelt sich übrigens um einen ausgezeichneten Speisepilz, den man sicher erkannt haben sollte, bevor man ihn für die Küche pflückt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
 
 <div style="clear:  both"></div>
 
