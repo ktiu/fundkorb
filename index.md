@@ -25,9 +25,13 @@ Mehr lesen >
 
 - - -
 
-29.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fahle Röhrling Boletus impolitus. Auf dem Friedhof Westhausen in Frankfurt ist er seit vielen Jahren ein treuer Gast, aber so häufig wie heute habe ich ihn dort noch nie gesehen. Es waren wenigstens zwei Dutzend Fruchtkörper, darunter auch einige recht große. An der Merkmalskombination stämmiger Habitus + fahlbraune Hutfarbe + gelbe Poren + nicht genetzter Stiel + ausgeprägter Karbolgeruch ist er recht gut zu erkennen, könnte allerdings mit dem Gefleckthütigen Röhrling Boletus depilatus verwechselt werden. (Frank Kaster)
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_impolitus_01_tl.jpg" %}
+{% include abbildung_ende.html %}
 
-Mehr lesen >
+29.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fahle Röhrling *Boletus impolitus*. Auf dem Friedhof Westhausen in Frankfurt ist er seit vielen Jahren ein treuer Gast, aber so häufig wie heute habe ich ihn dort noch nie gesehen. Es waren wenigstens zwei Dutzend Fruchtkörper, darunter auch einige recht große. An der Merkmalskombination stämmiger *Habitus + fahlbraune Hutfarbe + gelbe Poren + nicht genetzter Stiel + ausgeprägter Karbolgeruch* ist er recht gut zu erkennen, könnte allerdings mit dem Gefleckthütigen Röhrling *Boletus depilatus* verwechselt werden. (Frank Kaster)
+
+[Mehr lesen >](/pilze/boletus-impolitus-fahler-röhrling)
 
 <div style="clear:  both"></div>
 
