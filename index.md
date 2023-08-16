@@ -17,9 +17,13 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-30.07.2023: In unserer Dietzenbacher Parkanlage ist der erste frisch geschlüpfte Rotfußröhrling (Xerocomus chrysenteron) erschienen und darum auch aktueller [Fundkorbpilz](AA "Glossar-"). Er ist der wohl häufigste aller Röhrlinge und wird viel gesammelt und gegessen. In vielen Pilzkörben ist er überwiegender Bestandteil eines Konglomerats, das von den Findern pauschal für Maronen gehalten wird, aber aus mehreren unterschiedlichen Pilzarten besteht. (Dieter Gewalt)
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_chrysenteron_01_dg.jpg" %}
+{% include abbildung_ende.html %}
 
-Mehr lesen >
+30.07.2023: In unserer Dietzenbacher Parkanlage ist der erste frisch geschlüpfte Rotfußröhrling (*Xerocomus chrysenteron*) erschienen und darum auch aktueller [Fundkorbpilz](AA "Glossar-"). Er ist der wohl häufigste aller Röhrlinge und wird viel gesammelt und gegessen. In vielen Pilzkörben ist er überwiegender Bestandteil eines Konglomerats, das von den Findern pauschal für Maronen gehalten wird, aber aus mehreren unterschiedlichen Pilzarten besteht. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)
 
 <div style="clear:  both"></div>
 
