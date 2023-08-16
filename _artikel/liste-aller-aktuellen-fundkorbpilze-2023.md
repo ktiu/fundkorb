@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-28.07.2023: [Marasmius oreades - Nelkenschwindling](/pilze/marasmius-oreades-nelkenschwindling)  
+29.07.2023: [Boletus impolitus - Fahler Röhrling](/pilze/boletus-impolitus-fahler-röhrling)  
+28.07.2023: [Marasmius oreades - Nelkenschwindling](/pilze/marasmius-oreades-nelkenschwindling)\
 27.07.2023: [Bovista plumbea - Bleigrauer Zwergbovist](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)\
 26.07.2023: [Daedaleopsis confragosa - Rötende Tramete](/pilze/daedaleopsis-confragosa-rötende-tramete)\
 25.07.2023: [Psathyrella candolleana - Behangener Faserling](/pilze/psathyrella-candolleana-behangener-faserling)\
