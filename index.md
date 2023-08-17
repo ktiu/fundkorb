@@ -25,7 +25,15 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-02.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Gelbe Lohblüte Fuligo septica. Die leuchtend gelben Kissen, die man nicht selten auf morschem Holz oder modernden Blättern sieht, machen sie unverwechselbar. Man sieht diesen Kissen schon ihre Schleimigkeit an und hütet sich, sie anzufassen. Nicht umsonst werden die Vertreter dieser bemerkenswerten Organismen „Schleimpilze“ genannt. An eine Verwendung in der Küche denkt da keiner, und doch wird er zum Beispiel in Mexiko gegessen. Und ist unter dem Namen „Caca di Luna“ sogar marktfähig! (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/fuligo_septica_04_aa.jpg" %}
+{% include abbildung_ende.html %}
+
+02.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Gelbe Lohblüte *Fuligo septica*. Die leuchtend gelben Kissen, die man nicht selten auf morschem Holz oder modernden Blättern sieht, machen sie unverwechselbar. Man sieht diesen Kissen schon ihre Schleimigkeit an und hütet sich, sie anzufassen. Nicht umsonst werden die Vertreter dieser bemerkenswerten Organismen *[„Schleimpilze“](/verwandt/schleimpilze-myxomyzeten)* genannt. An eine Verwendung in der Küche denkt da keiner, und doch wird er zum Beispiel in Mexiko gegessen. Und ist unter dem Namen *„Caca di Luna“* sogar marktfähig! (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/fuligo-septica-gelbe-lohblüte)
+
+<div style="clear:  both"></div>
 
 - - -
 
