@@ -21,7 +21,13 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-03.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Klebrige Hörnling Calocera viscosa. Er ist bildhübsch, wozu seine formenreiche korallenartige Form und die schöne Orangefarbe beitragen. Mit den echten Korallenpilzen ist er nicht verwandt. Er ist zwar zäh oder von Gummibärchen-artiger Konsistenz und ohne jede Geschmackswert, aber ungiftig. Was man dennoch in der Küche mit ihm anstellen kann, erfährt man hier ><div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calocera_viscosa_08_ae.jpg" %}
+{% include abbildung_ende.html %}
+
+03.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Klebrige Hörnling *Calocera viscosa*. Er ist bildhübsch, wozu seine formenreiche korallenartige Form und die schöne Orangefarbe beitragen. Mit den echten Korallenpilzen ist er nicht verwandt. Er ist zwar zäh oder von Gummibärchen-artiger Konsistenz und ohne jede Geschmackswert, aber ungiftig. Was man dennoch in der Küche mit ihm anstellen kann, [erfährt man hier >](/pilze/calocera-viscosa-klebriger-hörnling)
+
+div style="clear:  both"></div>
 
 - - -
 
