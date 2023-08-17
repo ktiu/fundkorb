@@ -4,7 +4,7 @@ zeit: 2023-08-26T10:00:39.250Z
 bis: ""
 anmeldung_offen: false
 anmeldung_noetig: false
-published: true
+published: false
 ---
 Ein Wald ist mehr als nur ein Areal voller Bäume. Er ist ein funktionierendes System von Abhängigkeiten und Wechselwirkungen, in dem Pilze eine besondere Rolle spielen. Dies erfahren die Teilnehmenden bei der Exkursion in einem Wald bei Offenbach vom Pilzsachverständigen Dieter Gewalt.
 
