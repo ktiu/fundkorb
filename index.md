@@ -17,6 +17,30 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
+04.08.2023: Aktueller Fundkorbpilz[Fundkorbpilz](AA "Glossar-") ist der Grubige Schleimrübling Xerula radicata. Der deutsche Name bezieht sich auf die radial grubig-runzelige Struktur der Hutoberseite, die bei feuchtem Wetter schleimig glänzt und sich schleimig anfühlt. Bei Trockenheit wirkt die Huthaut glanzlos, man kann aber das Vorhandensein der schmierigen Schicht überprüfen, indem man mit einem Finger etwas Speichel auf der Hutoberfläche verreibt. Beim Loslassen spürt man dann ein typisches Zupfen. Die Stiele sind glatt, manchmal etwas verdreht, und sehr sehr lang. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+03.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Klebrige Hörnling Calocera viscosa. Er ist bildhübsch, wozu seine formenreiche korallenartige Form und die schöne Orangefarbe beitragen. Mit den echten Korallenpilzen ist er nicht verwandt. Er ist zwar zäh oder von Gummibärchen-artiger Konsistenz und ohne jede Geschmackswert, aber ungiftig. Was man dennoch in der Küche mit ihm anstellen kann, erfährt man hier ><div style="clear:  both"></div>
+
+- - -
+
+02.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Gelbe Lohblüte Fuligo septica. Die leuchtend gelben Kissen, die man nicht selten auf morschem Holz oder modernden Blättern sieht, machen sie unverwechselbar. Man sieht diesen Kissen schon ihre Schleimigkeit an und hütet sich, sie anzufassen. Nicht umsonst werden die Vertreter dieser bemerkenswerten Organismen „Schleimpilze“ genannt. An eine Verwendung in der Küche denkt da keiner, und doch wird er zum Beispiel in Mexiko gegessen. Und ist unter dem Namen „Caca di Luna“ sogar marktfähig! (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tapinella_panuoides_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+01.08.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") gehört zu den Kremplingen, die [saprobiontisch](saprobiontisch "Glossar") an Holz wachsen und für die deshalb eine eigene Gattung geschaffen worden ist: die Holzkremplinge. Zu ihnen gehören gerade mal zwei Arten, von denen der Muschelkrempling *Tapinella panuoides*[](/pilze/tapinella-panuoides-muschelkrempling) die weitaus seltenere ist und sich aufgrund ihrer muschelförmigen Hüte und nahezu fehlenden Stiele deutlich vom häufigen [Samtfußkrempling](/pilze/tapinella-atrotomentosa-samtfußkrempling) unterscheidet. Nach der Umgruppierung sollte er jetzt *Muschelholzkrempling* heißen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tapinella-panuoides-muschelkrempling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_amoenolens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
