@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
+02.08.2023: [Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)  
 01.08.2023: [Tapinella panoides - Muschelkrempling](/pilze/tapinella-panuoides-muschelkrempling)  
 
 31.07.2023: [Russula amoenolens - Camembert-Täubling](/pilze/russula-amoenolens-camembert-täubling)\
