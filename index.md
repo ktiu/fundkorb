@@ -18,6 +18,18 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_amoenolens_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.07.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Camembert-Täubling *Russula amoenolens*. Er gehört zu den Kammtäublingen, die einen kammartig gerieften Hutrand haben und in der Sektion *Ingratae* (die „Unangenehmen“) zusammengefasst sind. Seine Kennzeichen sind der Geruch nach Camembert und sein scharf schmeckendes Fleisch. Für die Küche ist er nicht geeignet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-amoenolens-camembert-täubling)[](/pilze/russula-amoenolens-camembert-täubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_chrysenteron_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
