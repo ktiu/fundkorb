@@ -17,7 +17,15 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-04.08.2023: Aktueller Fundkorbpilz[Fundkorbpilz](AA "Glossar-") ist der Grubige Schleimrübling Xerula radicata. Der deutsche Name bezieht sich auf die radial grubig-runzelige Struktur der Hutoberseite, die bei feuchtem Wetter schleimig glänzt und sich schleimig anfühlt. Bei Trockenheit wirkt die Huthaut glanzlos, man kann aber das Vorhandensein der schmierigen Schicht überprüfen, indem man mit einem Finger etwas Speichel auf der Hutoberfläche verreibt. Beim Loslassen spürt man dann ein typisches Zupfen. Die Stiele sind glatt, manchmal etwas verdreht, und sehr sehr lang. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerula_radicata_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grubige Schleimrübling *Xerula radicata*. Der deutsche Name bezieht sich auf die radial grubig-runzelige Struktur der Hutoberseite, die bei feuchtem Wetter schleimig glänzt und sich schleimig anfühlt. Bei Trockenheit wirkt die Huthaut glanzlos, man kann aber das Vorhandensein der schmierigen Schicht überprüfen, indem man mit einem Finger etwas Speichel auf der Hutoberfläche verreibt. Beim Loslassen spürt man dann ein typisches Zupfen. Die Stiele sind glatt, manchmal etwas verdreht, und sehr sehr lang. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xerula-radicata-grubiger-schleimrübling)
+
+<div style="clear:  both"></div>
 
 - - -
 
