@@ -3,6 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
+01.08.2023: 
+
 31.07.2023: [Russula amoenolens - Camembert-Täubling](/pilze/russula-amoenolens-camembert-täubling)  
 30.07.2023: [Xerocomus chrysenteron - Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)\
 29.07.2023: [Boletus impolitus - Fahler Röhrling](/pilze/boletus-impolitus-fahler-röhrling)\
