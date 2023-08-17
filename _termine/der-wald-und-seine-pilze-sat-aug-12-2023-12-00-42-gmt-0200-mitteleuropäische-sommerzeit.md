@@ -4,7 +4,7 @@ zeit: 2023-08-20T10:00:42.478Z
 bis: ""
 anmeldung_offen: false
 anmeldung_noetig: false
-published: false
+published: true
 bilder:
   - /bilder/jacobiweiher_oberschweinstige_01_dg.jpg
 ---
