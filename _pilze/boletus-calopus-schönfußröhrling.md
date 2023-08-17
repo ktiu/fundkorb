@@ -22,4 +22,4 @@ Der Schönfußröhrling hat in der Tat einen schönen Fuß. Die Netzzeichnung is
 {% include bild.html datei="/bilder/boletus_calopus_03_xx.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Bernhard Richard (im Spessart gefunden; mit besonders attraktiver Netzzeichnung)" %}
 
-Im Flachland ist der Schönfußröhrling extrem selten, in Mittelgebirgslagen schon eher anzutreffen, im subalpnen bis alpinen Bereich ein ansässiger Bewohner. Im Bayerischen Wald soll er sogar schon den Gallenröhrling verdrängt haben. Seine bevorzugten Baumpertner sind Fichten und Buchen.
+Im Flachland ist der Schönfußröhrling extrem selten, in Mittelgebirgslagen schon eher anzutreffen, im subalpinen bis alpinen Bereich ein ansässiger Bewohner. Im Bayerischen Wald soll er sogar schon den Gallenröhrling verdrängt haben. Seine bevorzugten Baumpartner sind Fichten und Buchen.
