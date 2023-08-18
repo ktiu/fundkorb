@@ -17,6 +17,26 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
+07.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotstielige Ledertäubling Russula olivacea. Wir haben es hier mit einem überdurchschnittlich großen Täubling zu tun, dessen Hüte bis 20 cm Durchmesser erreichen. Die Hutfarben sind wie bei allen Ledertäublingen sehr variabel, was die Trennung der einzelnen Arten sehr erschwert. Für die Küche ist das ohne Belang. Alle Ledertäublinge sind essbar. Gefunden wurde die Art bei Dießen am Ammersee. (Johann Rejek) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+06.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüngefelderte Täubling Russula virescens, den man zu Recht als Premiumart bezeichnen darf. Gourmets wissen seine festfleischige Konsistenz und den nussigen Geschmack zu schätzen. Ein weiterer Vorteil: er ist einer der wenigen leicht kenntlichen Täublingsarten, allerdings erst, wenn seine grünliche Huthaut bereits felderig aufgerissen ist. Gefunden habe ich ihn im Rhein-Main-Gebiet in einem Wald westlich von Buchschlag bei Eichen. (Till Straube) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypomyces_chrysospermus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldschimmel *Hypomyces chryspspermus*. Vor allem Röhrlinge werden von ihm befallen, insbesondere bei feuchtem Wetter. Die Infektion beginnt mit kleinen grauen Flecken, die schnell größer werden und bald als weißer, im Endstadium goldgelber Belag den ganzen Fruchtkörper überziehen. Schon bei ersten Anzeichen eines Befalls dürfen Röhrlinge auf keinen Fall mehr gesammelt und möglichst auch nicht angefasst werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypomyces-chrysospermus-goldschimmel)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerula_radicata_04_dg.jpg" %}
 {% include abbildung_ende.html %}
