@@ -17,7 +17,15 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-07.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotstielige Ledertäubling Russula olivacea. Wir haben es hier mit einem überdurchschnittlich großen Täubling zu tun, dessen Hüte bis 20 cm Durchmesser erreichen. Die Hutfarben sind wie bei allen Ledertäublingen sehr variabel, was die Trennung der einzelnen Arten sehr erschwert. Für die Küche ist das ohne Belang. Alle Ledertäublinge sind essbar. Gefunden wurde die Art bei Dießen am Ammersee. (Johann Rejek) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_olivacea_01_uwi.jpg" %}
+{% include abbildung_ende.html %}
+
+07.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotstielige Ledertäubling *Russula olivacea*. Wir haben es hier mit einem überdurchschnittlich großen Täubling zu tun, dessen Hüte bis 20 cm Durchmesser erreichen. Die Hutfarben sind wie bei allen Ledertäublingen sehr variabel, was die Trennung der einzelnen Arten sehr erschwert. Für die Küche ist das ohne Belang. Alle Ledertäublinge sind essbar. Gefunden wurde die Art bei Dießen am Ammersee. (Johann Rejek)
+
+[Mehr lesen >](/pilze/russula-olivacea-rotstieliger-ledertäubling)
+
+<div style="clear:  both"></div>
 
 - - -
 
