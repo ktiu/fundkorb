@@ -21,7 +21,15 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 - - -
 
-06.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüngefelderte Täubling Russula virescens, den man zu Recht als Premiumart bezeichnen darf. Gourmets wissen seine festfleischige Konsistenz und den nussigen Geschmack zu schätzen. Ein weiterer Vorteil: er ist einer der wenigen leicht kenntlichen Täublingsarten, allerdings erst, wenn seine grünliche Huthaut bereits felderig aufgerissen ist. Gefunden habe ich ihn im Rhein-Main-Gebiet in einem Wald westlich von Buchschlag bei Eichen. (Till Straube) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_virescens_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüngefelderte Täubling *Russula virescens*, den man zu Recht als Premiumart bezeichnen darf. Gourmets wissen seine festfleischige Konsistenz und den nussigen Geschmack zu schätzen. Ein weiterer Vorteil: er ist einer der wenigen leicht kenntlichen Täublingsarten, allerdings erst, wenn seine grünliche Huthaut bereits felderig aufgerissen ist. Gefunden habe ich ihn im Rhein-Main-Gebiet in einem Wald westlich von Buchschlag bei Eichen. (Till Straube) 
+
+[Mehr lesen >](/pilze/russula-virescens-grüngefelderter-täubling)
+
+<div style="clear:  both"></div>
 
 - - -
 
