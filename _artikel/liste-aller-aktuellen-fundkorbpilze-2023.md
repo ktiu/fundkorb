@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-04.08.2023: [Xerula radicata - Grubiger Schleimrübling](/pilze/xerula-radicata-grubiger-schleimrübling)  
+05.08.2023: [Hypomyces chrysospermus - Goldschimmel](/pilze/hypomyces-chrysospermus-goldschimmel)  
+04.08.2023: [Xerula radicata - Grubiger Schleimrübling](/pilze/xerula-radicata-grubiger-schleimrübling)\
 03.08.2023: [Calocera viscosa - Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)\
 02.08.2023: [Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
 01.08.2023: [Tapinella panoides - Muschelkrempling](/pilze/tapinella-panuoides-muschelkrempling)  
