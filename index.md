@@ -18,6 +18,18 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_calopus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schönfußröhrling *Boletus calopus*, den wir bei einer Exkursion im Raum Murnau am Staffelsee gefunden haben. Er hat in der Tat einen schönen Fuß. Die Netzzeichnung ist der Stielfarbe angepasst, im oberen Teil gelb, im unteren rot. Die matte trockene Hutoberfläche ist lehmgrau bis graubräunlich, die Röhren sind gelb und auf Druck blauend. Das hellgelbliche Fleisch blaut im Anschnitt ebenfalls und schmeckt bitter. Schon deshalb kommt er als Speisepilz nicht in Frage. (Johann Rejek)
+
+[Mehr lesen >](/pilze/boletus-calopus-schönfußröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_olivacea_01_uwi.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,7 +57,7 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 {% include bild.html datei="/bilder/hypomyces_chrysospermus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-05.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldschimmel *Hypomyces chryspspermus*. Vor allem Röhrlinge werden von ihm befallen, insbesondere bei feuchtem Wetter. Die Infektion beginnt mit kleinen grauen Flecken, die schnell größer werden und bald als weißer, im Endstadium goldgelber Belag den ganzen Fruchtkörper überziehen. Schon bei ersten Anzeichen eines Befalls dürfen Röhrlinge auf keinen Fall mehr gesammelt und möglichst auch nicht angefasst werden. (Dieter Gewalt)
+05.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldschimmel *Hypomyces chrysospermus*. Vor allem Röhrlinge werden von ihm befallen, insbesondere bei feuchtem Wetter. Die Infektion beginnt mit kleinen grauen Flecken, die schnell größer werden und bald als weißer, im Endstadium goldgelber Belag den ganzen Fruchtkörper überziehen. Schon bei ersten Anzeichen eines Befalls dürfen Röhrlinge auf keinen Fall mehr gesammelt und möglichst auch nicht angefasst werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypomyces-chrysospermus-goldschimmel)
 
