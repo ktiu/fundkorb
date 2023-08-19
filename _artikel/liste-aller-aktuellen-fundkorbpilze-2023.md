@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-07.08.2023: [Russula olivacea - Rotstieliger Ledertäubling](/pilze/russula-olivacea-rotstieliger-ledertäubling)  
+08.08.2023: [Boletus calopus - Schönfußröhrling](/pilze/boletus-calopus-schönfußröhrling)  
+07.08.2023: [Russula olivacea - Rotstieliger Ledertäubling](/pilze/russula-olivacea-rotstieliger-ledertäubling)\
 06.08.2023: [Russula virescens - Grüngefelderter Täubling](/pilze/russula-virescens-grüngefelderter-täubling)\
 05.08.2023: [Hypomyces chrysospermus - Goldschimmel](/pilze/hypomyces-chrysospermus-goldschimmel)\
 04.08.2023: [Xerula radicata - Grubiger Schleimrübling](/pilze/xerula-radicata-grubiger-schleimrübling)\
