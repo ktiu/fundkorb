@@ -23,7 +23,7 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 
 10.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die bei vielen Pilzfreunden äußerst beliebte Krause Glucke *Sparassis crispa*, die in diesem Jahr schon recht früh erschienen ist. Sie wird nicht nur wegen ihres Geschmacks geschätzt, sondern auch weil sie nahezu unverwechselbar ist. Zu finden ist sie nahezu ausschließlich bei Kiefern oder deren Stümpfe. Forstwirte sehen sie weniger gern, denn die *Fette Henne*, wie sie auch genannt wird, ist ein Schwächeparasit, der befallene Bäume schädigt. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/sparassis-crispa-krause-glucke)
 
 <div style="clear:  both"></div>
 
