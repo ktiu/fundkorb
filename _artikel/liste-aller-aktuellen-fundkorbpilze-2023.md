@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-09.08.2023: [Gymnopus confluens - Knopfstieliger Rübling](/pilze/gymnopus-confluens-knopfstieliger-rübling)  
+10.08.2023: [Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)  
+09.08.2023: [Gymnopus confluens - Knopfstieliger Rübling](/pilze/gymnopus-confluens-knopfstieliger-rübling)\
 08.08.2023: [Boletus calopus - Schönfußröhrling](/pilze/boletus-calopus-schönfußröhrling)\
 07.08.2023: [Russula olivacea - Rotstieliger Ledertäubling](/pilze/russula-olivacea-rotstieliger-ledertäubling)\
 06.08.2023: [Russula virescens - Grüngefelderter Täubling](/pilze/russula-virescens-grüngefelderter-täubling)\
