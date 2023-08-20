@@ -26,7 +26,7 @@ literatur:
 {% include bild.html datei="/bilder/mucilago_crustacea_03_nk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Norbert Kühnberger" %}
 
-Diese Fruktifikationen sind weißlich bis cremefarbig und können bis zu 10 cm lang und 3 cm breit werden. Damit sind sie im Gegesatz zu vielen anderen Schleimpilzen recht auffällig. Die warzigen bis stacheligen Sporen sind in Masse schwarz und messen 10 x 18 µm.
+Diese Fruktifikationen sind weißlich bis cremefarbig und können bis zu 10 cm lang und 3 cm breit werden. Damit sind sie im Gegensatz zu vielen anderen Schleimpilzen recht auffällig. Die warzigen bis stacheligen Sporen sind in Masse schwarz und messen 10 x 18 µm.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mucilago_crustacea_04_nk.jpg" nocrop=true gross=true %}
