@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-10.08.2023: [Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)  
+11.08.2023: [Calvatia gigantea - Riesenbovist](/pilze/calvatia-gigantea-riesenbovist)  
+10.08.2023: [Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)\
 09.08.2023: [Gymnopus confluens - Knopfstieliger Rübling](/pilze/gymnopus-confluens-knopfstieliger-rübling)\
 08.08.2023: [Boletus calopus - Schönfußröhrling](/pilze/boletus-calopus-schönfußröhrling)\
 07.08.2023: [Russula olivacea - Rotstieliger Ledertäubling](/pilze/russula-olivacea-rotstieliger-ledertäubling)\
@@ -12,7 +13,7 @@ published: true
 04.08.2023: [Xerula radicata - Grubiger Schleimrübling](/pilze/xerula-radicata-grubiger-schleimrübling)\
 03.08.2023: [Calocera viscosa - Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)\
 02.08.2023: [Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
-01.08.2023: [Tapinella panoides - Muschelkrempling](/pilze/tapinella-panuoides-muschelkrempling)  
+01.08.2023: [Tapinella panuoides - Muschelkrempling](/pilze/tapinella-panuoides-muschelkrempling)  
 
 31.07.2023: [Russula amoenolens - Camembert-Täubling](/pilze/russula-amoenolens-camembert-täubling)\
 30.07.2023: [Xerocomus chrysenteron - Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)\
