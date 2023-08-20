@@ -18,6 +18,18 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calvatia_gigantea_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+11.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenbovist *Calvatia gigantea*. Er ist der größte unter den Stäublingen und ohne Zeifel auch der leckerste. Natürlich nur, solange er noch fest und sein Inneres noch rein weiß ist. Zu finden sind die riesigen Kugeln vor allem auf Weiden und Wiesen, aber auch in Parkanlagen und Gärten, an Straßenrändern und Böschungen. Da sie schon aus großen Entfernungen auffallen, werden sie vor allem in Parkanlagen schnell Opfer von Kids, die Fußball mit ihnen spielen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/calvatia-gigantea-riesenbovist)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/sparassis_crispa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
