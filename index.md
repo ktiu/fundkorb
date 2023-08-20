@@ -18,6 +18,30 @@ Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und sei
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sparassis_crispa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die bei vielen Pilzfreunden äußerst beliebte Krause Glucke *Sparassis crispa*, die in diesem Jahr schon recht früh erschienen ist. Sie wird nicht nur wegen ihres Geschmacks geschätzt, sondern auch weil sie nahezu unverwechselbar ist. Zu finden ist sie nahezu ausschließlich bei Kiefern oder deren Stümpfe. Forstwirte sehen sie weniger gern, denn die *Fette Henne*, wie sie auch genannt wird, ist ein Schwächeparasit, der befallene Bäume schädigt. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopus_confluens_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.08.2023: Ebenfalls im Raum Murnau am Staffelsee haben wir einen weiteren und recht häufigen aktuellen [Fundkorbpilz](AA "Glossar-") gefunden, den Knopfstieligen Rübling *Gymnopus confluens*. Es wäre schön, wenn jeder Pilz ein so perfektes Erkennungsmerkmal hätte wie er. Man nehme ein Exemplar in die Hand, umfasse den Hut mit drei Fingern und ziehe die Hand ruckartig nach oben. So lassen sich Hut und Stiel perfekt voneinander trennen und am oberen Stielende bleibt das namensgebende Knöpfchen zurück, wie auf dem Foto schön zu sehen ist. Der Hut selbst hat danach das passende Knopfloch. (Johann Rejek)
+
+[Mehr lesen >](/pilze/gymnopus-confluens-knopfstieliger-rübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_calopus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
