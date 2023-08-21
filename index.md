@@ -59,7 +59,7 @@ Mehr lesen >
 
 12.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüne Knollenblätterpilz *Amanita phalloides*. In einem Roteichenforst zwischen Dietzenbach und Rodgau ist er zur Zeit zwischen Sommersteinpilzen, Perlpilzen und Pfifferlingen eine der häufigsten Arten und eine Mahnung an alle Hobbypilzsammler, Vorsicht walten zu lassen. Ein einziges Exemplar kann tödlich sein, wenn in der Intensivstation der Klinik nicht rechtzeitig eine Spenderleber zur Verfügung steht. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz)
 
 <div style="clear:  both"></div>
 
