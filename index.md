@@ -12,10 +12,13 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin am Samstag, 26. August 2023 10:00 Uhr: **Der Wald und seine Pilze**\
+Neue Exkursionstermine: Samstag, 26. August 2023 10:00 Uhr: **Der Wald und seine Pilze**\
+Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Führung für Einsteiger**
 [Hier geht's zur Anmeldung -->](/termine)
 
 - - -
+
+
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/humaria_hemisphaerica_01_dg.jpg" %}
