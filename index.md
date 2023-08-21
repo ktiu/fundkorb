@@ -23,7 +23,7 @@ Neuer Exkursionstermin am Samstag, 26. August 2023 10:00 Uhr: **Der Wald und sei
 
 15.08.2023: Die ungestielten becherförmigen Fruchtkörper unseres heutigen [Fundkorbpilzes](AA "Glossar-") wachsen ungestielt auf blanker Erde, zwischen Moosen oder auf vermorschtem nassen Holz. Der Halbkugelige Borstlings *Humaria hemisphaerica* gehört zu den Schlauchpilzen (*Ascomyzeten*) und bildet ungestielte becherförmige Fruchtkörper mit bis zu 3 cm Durchmesser. Seine Innneseite ist weißlich bis hellgrau, glatt oder etwas faltig, die Außenseite mit borstigen rostbraunen Haaren bekleidet. Dadurch erscheint der Becherrand wie bewimpert. Der Pilz war früher relativ häufig, ist trockenheitsbedingt aber deutlich rückläufig. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/humaria-hemisphaerica-halbkugeliger-borstling)
 
 <div style="clear:  both"></div>
 
