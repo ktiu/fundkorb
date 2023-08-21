@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-11.08.2023: [Calvatia gigantea - Riesenbovist](/pilze/calvatia-gigantea-riesenbovist)  
+12.08.2023: [Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)  
+11.08.2023: [Calvatia gigantea - Riesenbovist](/pilze/calvatia-gigantea-riesenbovist)\
 10.08.2023: [Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)\
 09.08.2023: [Gymnopus confluens - Knopfstieliger Rübling](/pilze/gymnopus-confluens-knopfstieliger-rübling)\
 08.08.2023: [Boletus calopus - Schönfußröhrling](/pilze/boletus-calopus-schönfußröhrling)\
