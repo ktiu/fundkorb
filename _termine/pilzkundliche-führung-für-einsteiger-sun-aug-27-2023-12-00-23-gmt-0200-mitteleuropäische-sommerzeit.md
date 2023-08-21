@@ -12,4 +12,6 @@ Pilzesammeln liegt im Trend und bereitet Freude. Aber: Welcher Pilz darf in die 
 
 Bei dieser Exkursion in einem Waldgebiet nahe Dietzenbach lernen wir alles über richtiges Pilzesammeln und wie man Verwechslungen mit giftigen Arten vermeiden kann. Besonders intensiv befassen wir uns mit einigen wichtigen und gut kenntlichen Arten. Bitte Messer und Körbchen mitbringen. Plastiktüten sind fürs Pilzesammeln völlig ungeeignet.
 
+Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung mitgeteilt.
+
  
