@@ -12,8 +12,56 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin am Sonntag, 20. August 2023 10:00 Uhr: **Der Wald und seine Pilze**\
+Neuer Exkursionstermin am Samstag, 26. August 2023 10:00 Uhr: **Der Wald und seine Pilze**\
 [Hier geht's zur Anmeldung -->](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/humaria_hemisphaerica_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.08.2023: Die ungestielten becherförmigen Fruchtkörper unseres heutigen [Fundkorbpilzes](AA "Glossar-") wachsen ungestielt auf blanker Erde, zwischen Moosen oder auf vermorschtem nassen Holz. Der Halbkugelige Borstlings *Humaria hemisphaerica* gehört zu den Schlauchpilzen (*Ascomyzeten*) und bildet ungestielte becherförmige Fruchtkörper mit bis zu 3 cm Durchmesser. Seine Innneseite ist weißlich bis hellgrau, glatt oder etwas faltig, die Außenseite mit borstigen rostbraunen Haaren bekleidet. Dadurch erscheint der Becherrand wie bewimpert. Der Pilz war früher relativ häufig, ist trockenheitsbedingt aber deutlich rückläufig. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mucilago_crustacea_03_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+14.08.2023: Schleimpilze (*Myxomyzeten*) sind zwar keine richtigen Pilze aber einer von ihnen ist trotzdem unser aktueller [Fundkorbpilz](AA "Glossar-"). Der Schaumpilz, auch Grubiges Schaumkissen (*Mucilago crustacea*) genannt, bildet zum Beispiel an morschem Holz kissenartige Strukturen, kann aber auch an Gräsern oder dünnen Stängeln hochklettern und kugelige oder beutelartige Formen entwickeln. Diese [Fruktifikationen](Fruktifikation "Glossar") sind weißlich bis cremefarbig und werden bis zu 10 cm lang und 3 cm breit. Damit sind sie im Gegensatz zu vielen anderen Schleimpilzen recht auffällig.  (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.08.2023: Auf einen recht großen folgt nun ein zierlich kleiner aktueller [Fundkorbpilz](AA "Glossar-"), der Orangerote Heftelnabeling Rickenella fibula. Manche meinen, es sei eine Art, in die man sich verlieben könnte. Dazu tragen neben der attraktiven Farbe auch die in einem eleganten Bogen am Stiel herablaufenden Lamellen bei. Wenn man die Augen offen hält, kann man ihn vom Frühsommer bis in den Spätherbst zwischen Moosen finden, egal, ob sich diese in Rasenflächen oder auf Totholz befinden. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_phalloides_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüne Knollenblätterpilz *Amanita phalloides*. In einem Roteichenforst zwischen Dietzenbach und Rodgau ist er zur Zeit zwischen Sommersteinpilzen, Perlpilzen und Pfifferlingen eine der häufigsten Arten und eine Mahnung an alle Hobbypilzsammler, Vorsicht walten zu lassen. Ein einziges Exemplar kann tödlich sein, wenn in der Intensivstation der Klinik nicht rechtzeitig eine Spenderleber zur Verfügung steht. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
 
 - - -
 
