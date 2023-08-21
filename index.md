@@ -35,7 +35,7 @@ Mehr lesen >
 
 14.08.2023: Schleimpilze (*Myxomyzeten*) sind zwar keine richtigen Pilze aber einer von ihnen ist trotzdem unser aktueller [Fundkorbpilz](AA "Glossar-"). Der Schaumpilz, auch Grubiges Schaumkissen (*Mucilago crustacea*) genannt, bildet zum Beispiel an morschem Holz kissenartige Strukturen, kann aber auch an Gräsern oder dünnen Stängeln hochklettern und kugelige oder beutelartige Formen entwickeln. Diese [Fruktifikationen](Fruktifikation "Glossar") sind weißlich bis cremefarbig und werden bis zu 10 cm lang und 3 cm breit. Damit sind sie im Gegensatz zu vielen anderen Schleimpilzen recht auffällig.  (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/mucilago-crustacea-schaumpilz-grubiges-polsterkissen)
 
 <div style="clear:  both"></div>
 
