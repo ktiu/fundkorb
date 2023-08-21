@@ -3,7 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-14.08.2023: [Mucilago crustacea - Schaumpilz, Grubiges Polsterkissen](/pilze/mucilago-crustacea-schaumpilz-grubiges-polsterkissen)
+14.08.2023: [Mucilago crustacea - Schaumpilz, Grubiges Polsterkissen](/pilze/mucilago-crustacea-schaumpilz-grubiges-polsterkissen)  
 13.08.2023: [Rickenella fibula - Orangeroter Heftelnabeling](/pilze/rickenella-fibula)\
 12.08.2023: [Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)\
 11.08.2023: [Calvatia gigantea - Riesenbovist](/pilze/calvatia-gigantea-riesenbovist)\
