@@ -22,9 +22,9 @@ Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Führung für Einsteiger**
 {% include bild.html datei="/bilder/tylopilus_felleus_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
-18.08.2023: Auf diesen aktuellen [Fundkorbpilzes](AA "Glossar-") sind schon viele Pilzsammler hereingefallen. Es ist der berüchtigt Gallenröhrling Tylopilus felleus, der schon zahllose Steinpilzgerichte ruiniert hat. Solange er jung ist und seine Poren auf der Hutuntrseite noch weiß sind, ist er optisch kaum von einem jungen Steinpilz zu unterscheiden. Da hilft eine Geschmacksprobe. Oft genügt es schon, am angeschnittenen Fleisch zu lecken, um seinen gallenbitteren Geschmack festzustellen. Man achte auch auf den Standort. Er wächst ausschließlich bei Nadelbäumen. (Dieter Gewalt)
+18.08.2023: Auf diesen aktuellen [Fundkorbpilz](AA "Glossar-") sind schon viele Pilzsammler hereingefallen. Es ist der berüchtigte Gallenröhrling *Tylopilus felleus*, der schon zahllose Steinpilzgerichte ruiniert hat. Solange er jung ist und seine Poren auf der Hutuntrseite noch weiß sind, ist er optisch kaum von einem jungen Steinpilz zu unterscheiden. Da hilft eine Geschmacksprobe. Oft genügt es schon, am angeschnittenen Fleisch zu lecken, um seinen gallenbitteren Geschmack festzustellen. Man achte auch auf den Standort. Er wächst ausschließlich bei Nadelbäumen. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/tylopilus-felleus-gallenröhrling-bitterling)
 
 <div style="clear:  both"></div>
 
@@ -34,7 +34,7 @@ Mehr lesen >
 {% include bild.html datei="/bilder/russula_cyanoxantha_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-17.08.2023: Aktueller [Fundkorbpilzes](AA "Glossar-") ist eine weitere Premiumart, der Frauentäubling *Russula cyanoxantha*. Erfahrene Pilzsammler schätzen ihn mehr als Steinpilz oder Pfifferling. Er ist eine besonders farbvariable Art, das Spektrum reicht von gelb, grünlich, schmutzig graugrün, schiefergrau, grauviolett, rosalila bis zu einem wunderschönen Lilaviolett. An einem besonderen Alleinstellungsmerkmal ist er aber immer gut zu erkennen. Im Gegensatz zu allen anderen Täublingen hat er <ins>nicht</ins> splitternde Lamellen. Er wächst vor allem in Laubwäldern auf sandigen Böden und ist [Mykorrhizapartner](Mykorrhiza "Glossar") von Rotbuchen und Eichen. In der Rhein-Main-Ebene gehört er zu den häufigen Arten. (Dieter Gewalt)
+17.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist eine weitere Premiumart, der Frauentäubling *Russula cyanoxantha*. Erfahrene Pilzsammler schätzen ihn mehr als Steinpilz oder Pfifferling. Er ist eine besonders farbvariable Art, das Spektrum reicht von gelb, grünlich, schmutzig graugrün, schiefergrau, grauviolett, rosalila bis zu einem wunderschönen Lilaviolett. An einem besonderen Alleinstellungsmerkmal ist er aber immer gut zu erkennen. Im Gegensatz zu allen anderen Täublingen hat er <ins>nicht</ins> splitternde Lamellen. Er wächst vor allem in Laubwäldern auf sandigen Böden und ist [Mykorrhizapartner](Mykorrhiza "Glossar") von Rotbuchen und Eichen. In der Rhein-Main-Ebene gehört er zu den häufigen Arten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-cyanoxantha-frauentäubling)
 
@@ -46,7 +46,7 @@ Mehr lesen >
 {% include bild.html datei="/bilder/russula_violeipes_01_dg-.jpg" %}
 {% include abbildung_ende.html %}
 
-16.08.2023: Aktueller [Fundkorbpilzes](AA "Glossar-") ist der Violettstielige Brätlingstäubling *Russula violeipes*, eine der Premiumarten unter den Täublingen, die auch Pfirsischtäubling genannt wird. Die Schwierigkeit beim Erkennen der zahlreichen Täublingsarten ist ihre Farbvariabilität. Nur wenige zeigen zuverlässig konstante Farben. Beim Violettstieligen Täubling beginnt das Problem schon beim namensgebenden violetten Stiel. Manchmal hat er diese Farbe, manchmal erscheint sie als zarter Hauch oder auch satt aufgetragen, meistens ist sie aber weiß. (Dieter Gewalt)
+16.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Violettstielige Brätlingstäubling *Russula violeipes*, eine der Premiumarten unter den Täublingen, die auch Pfirsischtäubling genannt wird. Die Schwierigkeit beim Erkennen der zahlreichen Täublingsarten ist ihre Farbvariabilität. Nur wenige zeigen zuverlässig konstante Farben. Beim Violettstieligen Täubling beginnt das Problem schon beim namensgebenden violetten Stiel. Manchmal hat er diese Farbe, manchmal erscheint sie als zarter Hauch oder auch satt aufgetragen, meistens ist sie aber weiß. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)
 
@@ -58,7 +58,7 @@ Mehr lesen >
 {% include bild.html datei="/bilder/humaria_hemisphaerica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-15.08.2023: Die ungestielten becherförmigen Fruchtkörper unseres heutigen [Fundkorbpilzes](AA "Glossar-") wachsen ungestielt auf blanker Erde, zwischen Moosen oder auf vermorschtem nassen Holz. Der Halbkugelige Borstlings *Humaria hemisphaerica* gehört zu den Schlauchpilzen (*Ascomyzeten*) und bildet ungestielte becherförmige Fruchtkörper mit bis zu 3 cm Durchmesser. Seine Innneseite ist weißlich bis hellgrau, glatt oder etwas faltig, die Außenseite mit borstigen rostbraunen Haaren bekleidet. Dadurch erscheint der Becherrand wie bewimpert. Der Pilz war früher relativ häufig, ist trockenheitsbedingt aber deutlich rückläufig. (Dieter Gewalt)
+15.08.2023: Die ungestielten becherförmigen Fruchtkörper unseres heutigen [Fundkorbpilz](AA "Glossar-") wachsen ungestielt auf blanker Erde, zwischen Moosen oder auf vermorschtem nassen Holz. Der Halbkugelige Borstlings *Humaria hemisphaerica* gehört zu den Schlauchpilzen (*Ascomyzeten*) und bildet ungestielte becherförmige Fruchtkörper mit bis zu 3 cm Durchmesser. Seine Innneseite ist weißlich bis hellgrau, glatt oder etwas faltig, die Außenseite mit borstigen rostbraunen Haaren bekleidet. Dadurch erscheint der Becherrand wie bewimpert. Der Pilz war früher relativ häufig, ist trockenheitsbedingt aber deutlich rückläufig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/humaria-hemisphaerica-halbkugeliger-borstling)
 
@@ -70,7 +70,7 @@ Mehr lesen >
 {% include bild.html datei="/bilder/mucilago_crustacea_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
-14.08.2023: Schleimpilze (*Myxomyzeten*) sind zwar keine richtigen Pilze aber einer von ihnen ist trotzdem unser aktueller [Fundkorbpilz](AA "Glossar-"). Der Schaumpilz, auch Grubiges Schaumkissen (*Mucilago crustacea*) genannt, bildet zum Beispiel an morschem Holz kissenartige Strukturen, kann aber auch an Gräsern oder dünnen Stängeln hochklettern und kugelige oder beutelartige Formen entwickeln. Diese [Fruktifikationen](Fruktifikation "Glossar") sind weißlich bis cremefarbig und werden bis zu 10 cm lang und 3 cm breit. Damit sind sie im Gegensatz zu vielen anderen Schleimpilzen recht auffällig.  (Dieter Gewalt)
+14.08.2023: Schleimpilze (*Myxomyzeten*) sind zwar keine richtigen Pilze aber einer von ihnen ist trotzdem unser aktueller [Fundkorbpilzes](AA "Glossar-"). Der Schaumpilz, auch Grubiges Schaumkissen (*Mucilago crustacea*) genannt, bildet zum Beispiel an morschem Holz kissenartige Strukturen, kann aber auch an Gräsern oder dünnen Stängeln hochklettern und kugelige oder beutelartige Formen entwickeln. Diese [Fruktifikationen](Fruktifikation "Glossar") sind weißlich bis cremefarbig und werden bis zu 10 cm lang und 3 cm breit. Damit sind sie im Gegensatz zu vielen anderen Schleimpilzen recht auffällig.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mucilago-crustacea-schaumpilz-grubiges-polsterkissen)
 
