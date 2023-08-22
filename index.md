@@ -102,54 +102,6 @@ Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Führung für Einsteiger**
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calvatia_gigantea_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-11.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenbovist *Calvatia gigantea*. Er ist der größte unter den Stäublingen und ohne Zeifel auch der leckerste. Natürlich nur, solange er noch fest und sein Inneres noch rein weiß ist. Zu finden sind die riesigen Kugeln vor allem auf Weiden und Wiesen, aber auch in Parkanlagen und Gärten, an Straßenrändern und Böschungen. Da sie schon aus großen Entfernungen auffallen, werden sie vor allem in Parkanlagen schnell Opfer von Kids, die Fußball mit ihnen spielen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/calvatia-gigantea-riesenbovist)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/sparassis_crispa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die bei vielen Pilzfreunden äußerst beliebte Krause Glucke *Sparassis crispa*, die in diesem Jahr schon recht früh erschienen ist. Sie wird nicht nur wegen ihres Geschmacks geschätzt, sondern auch weil sie nahezu unverwechselbar ist. Zu finden ist sie nahezu ausschließlich bei Kiefern oder deren Stümpfe. Forstwirte sehen sie weniger gern, denn die *Fette Henne*, wie sie auch genannt wird, ist ein Schwächeparasit, der befallene Bäume schädigt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/sparassis-crispa-krause-glucke)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_confluens_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.08.2023: Ebenfalls im Raum Murnau am Staffelsee haben wir einen weiteren und recht häufigen aktuellen [Fundkorbpilz](AA "Glossar-") gefunden, den Knopfstieligen Rübling *Gymnopus confluens*. Es wäre schön, wenn jeder Pilz ein so perfektes Erkennungsmerkmal hätte wie er. Man nehme ein Exemplar in die Hand, umfasse den Hut mit drei Fingern und ziehe die Hand ruckartig nach oben. So lassen sich Hut und Stiel perfekt voneinander trennen und am oberen Stielende bleibt das namensgebende Knöpfchen zurück, wie auf dem Foto schön zu sehen ist. Der Hut selbst hat danach das passende Knopfloch. (Johann Rejek)
-
-[Mehr lesen >](/pilze/gymnopus-confluens-knopfstieliger-rübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_calopus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schönfußröhrling *Boletus calopus*, den wir bei einer Exkursion im Raum Murnau am Staffelsee gefunden haben. Er hat in der Tat einen schönen Fuß. Die Netzzeichnung ist der Stielfarbe angepasst, im oberen Teil gelb, im unteren rot. Die matte trockene Hutoberfläche ist lehmgrau bis graubräunlich, die Röhren sind gelb und auf Druck blauend. Das hellgelbliche Fleisch blaut im Anschnitt ebenfalls und schmeckt bitter. Schon deshalb kommt er als Speisepilz nicht in Frage. (Johann Rejek)
-
-[Mehr lesen >](/pilze/boletus-calopus-schönfußröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
 
 [Liste aller aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
