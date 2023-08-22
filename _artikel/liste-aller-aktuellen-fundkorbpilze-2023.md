@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-17.08.2023: [Russula cyanoxantha - Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling)  
+18.08.2023: [Tylopilus felleus - Gallenröhrling](/pilze/tylopilus-felleus-gallenröhrling-bitterling)  
+17.08.2023: [Russula cyanoxantha - Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling)\
 16.08.2023: [Russula violeipes - Violettstieliger Brätlingstäubling](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)\
 15.08.2023: [Humaria hemisphaerica - Halbkugeliger Borstling](/pilze/humaria-hemisphaerica-halbkugeliger-borstling)\
 14.08.2023: [Mucilago crustacea - Schaumpilz, Grubiges Polsterkissen](/pilze/mucilago-crustacea-schaumpilz-grubiges-polsterkissen)\
