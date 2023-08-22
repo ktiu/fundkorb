@@ -34,9 +34,9 @@ Mehr lesen >
 {% include bild.html datei="/bilder/russula_cyanoxantha_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-17.08.2023: Aktueller [Fundkorbpilzes](AA "Glossar-") ist eine weitere Premiumart, der Frauentäubling Russula cyanoxantha. Erfahrene Pilzsammler schätzen ihn mehr als Steinpilz oder Pfifferling. Er ist eine besonders farbvariable Art, das Spektrum reicht von gelb, grünlich, schmutzig graugrün, schiefergrau, grauviolett, rosalila bis zu einem wunderschönen Lilaviolett. An einem besonderen Alleinstellungsmerkmal ist er aber immer gut zu erkennen. Im Gegensatz zu allen anderen Täublingen hat er <ins>nicht</ins> nicht splitternde Lamellen. Er wächst vor allem in Laubwäldern auf sandigen Böden und ist Mykorrhizapartner von Rotbuchen und Eichen. In der Rhein-Main-Ebene gehört er zu den häufigen Arten. (Dieter Gewalt)
+17.08.2023: Aktueller [Fundkorbpilzes](AA "Glossar-") ist eine weitere Premiumart, der Frauentäubling *Russula cyanoxantha*. Erfahrene Pilzsammler schätzen ihn mehr als Steinpilz oder Pfifferling. Er ist eine besonders farbvariable Art, das Spektrum reicht von gelb, grünlich, schmutzig graugrün, schiefergrau, grauviolett, rosalila bis zu einem wunderschönen Lilaviolett. An einem besonderen Alleinstellungsmerkmal ist er aber immer gut zu erkennen. Im Gegensatz zu allen anderen Täublingen hat er <ins>nicht</ins> splitternde Lamellen. Er wächst vor allem in Laubwäldern auf sandigen Böden und ist [Mykorrhizapartner](Mykorrhiza "Glossar") von Rotbuchen und Eichen. In der Rhein-Main-Ebene gehört er zu den häufigen Arten. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/russula-cyanoxantha-frauentäubling)
 
 <div style="clear:  both"></div>
 
@@ -46,7 +46,7 @@ Mehr lesen >
 {% include bild.html datei="/bilder/russula_violeipes_01_dg-.jpg" %}
 {% include abbildung_ende.html %}
 
-16.08.2023: Aktueller [Fundkorbpilzes](AA "Glossar-") ist der Violettstielige Täubling *Russula violeipes*, eine der Premiumarten unter den Täublingen, die auch Pfirsischtäubling genannt wird. Die Schwierigkeit beim Erkennen der zahlreichen Täublingsarten ist ihre Farbvariabilität. Nur wenige zeigen zuverlässig konstante Farben. Beim Violettstieligen Täubling beginnt das Problem schon beim namensgebenden violetten Stiel. Manchmal hat er diese Farbe, manchmal erscheint sie als zarter Hauch oder auch satt aufgetragen, meistens ist sie aber weiß. (Dieter Gewalt)
+16.08.2023: Aktueller [Fundkorbpilzes](AA "Glossar-") ist der Violettstielige Brätlingstäubling *Russula violeipes*, eine der Premiumarten unter den Täublingen, die auch Pfirsischtäubling genannt wird. Die Schwierigkeit beim Erkennen der zahlreichen Täublingsarten ist ihre Farbvariabilität. Nur wenige zeigen zuverlässig konstante Farben. Beim Violettstieligen Täubling beginnt das Problem schon beim namensgebenden violetten Stiel. Manchmal hat er diese Farbe, manchmal erscheint sie als zarter Hauch oder auch satt aufgetragen, meistens ist sie aber weiß. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)
 
