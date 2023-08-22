@@ -19,6 +19,38 @@ Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Führung für Einsteiger**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laccaria_amethystina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.2023: Nicht nur violett sondern auch essbar und durchaus wohlschmeckend ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") . Der Violette Lacktrichterling *Laccaria amethystina* beginnt gerade seine Saison in den Wäldern bei Dietzenbach, wo er im Herbst vermutlich herdenweise die Laub- oder Nadelstreu besiedeln wird. Dann lohnt sich das Sammeln. An einzelnen Hütchen ist zwar nicht viel dran, aber bei reichlichen Vorkommen macht's die Masse. Die zähen Stiele lässt man besser im Wald. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholomopsis_rutilans_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.08.2023: Vor allem an Stümpfen von Kiefern aber auch an anderen Nadelhölzern ist unser aktueller [Fundkorbpilz](AA "Glossar-") zu finden, der Purpurfilzige Holzritterling *Tricholomopsis rutilans*. Dank seines attraktiven und appetitlichen Erscheinungsbildes könnte man sich ihn durchaus auf dem Teller vorstellen, was allerdings eine herbe Enttäuschung wäre. Er ist zwar nicht giftig, aber von total muffigem Geschmack. Mit seiner schönen Hutfarbe und den dazu kontrastierenden gelben Lamellen ist er nahezu unverwechselbar. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/delicatula_integrella_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weiße Adernabeling *Delicatula integrella*. Er ist zwar winzig, aber mit seiner alabasterweißen Farbe durchaus auffällig und attraktiv. Man kann ihn vom Frühjahr bis in den Spätherbst an feuchtem totem Holz finden, mitunter in enormen Mengen. Seine Lamellen sind zu flach erhabenen Äderchen reduziert. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tylopilus_felleus_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
