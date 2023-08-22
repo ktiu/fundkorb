@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-15.08.2023: [Humaria hemisphaerica - Halbkugeliger Borstling](/pilze/humaria-hemisphaerica-halbkugeliger-borstling)  
+16.08.2023: [Russula violeipes - Violettstieliger Brätlingstäubling](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)  
+15.08.2023: [Humaria hemisphaerica - Halbkugeliger Borstling](/pilze/humaria-hemisphaerica-halbkugeliger-borstling)\
 14.08.2023: [Mucilago crustacea - Schaumpilz, Grubiges Polsterkissen](/pilze/mucilago-crustacea-schaumpilz-grubiges-polsterkissen)\
 13.08.2023: [Rickenella fibula - Orangeroter Heftelnabeling](/pilze/rickenella-fibula)\
 12.08.2023: [Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)\
