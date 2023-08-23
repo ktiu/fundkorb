@@ -19,10 +19,34 @@ Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Führung für Einsteiger**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_erythropus._02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.08.2023: Pilzsammler, die zum ersten Mal mit unserem aktuellen [Fundkorbpilz](AA "Glossar-") Bekanntschaft machen, sind entsetzt, wenn sie beim Anschneiden die schockierende Farbveränderung beobachten. Das gelbe Fleisch des Flockenstieligen Hexenröhrlings Boletus erythropus wird im Nu dunkelblau. Dass dieses Anlaufen in früheren Jahrhunderten für Hexenwerk gehalten wurde, ist verständlich, aber in der aufgeklärten Gegenwart sollten wir uns von solchen Vorstellungen verabschieden. Kenner wissen es schon lange: der Flockenstielige Hexenröhrling ist ein ausgezeichneter Speisepilz und wer ihn schon mal in der Pfanne hatte, weiß auch, dass die nicht gerade sympathische Verfärbung bei der Zubereitung wieder verschwindet. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gomphus_clavatus_02_hs.jpg" %}
+{% include abbildung_ende.html %}
+
+22.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Schweinsohr *Gomphus clavatus*, das wir gestern in einem Bergmischwald im Karwendelgebirge auf 1100 m Höhe bei Fichten gefunden haben. Dieser ungewöhnlich geformte Rote Liste-Pilz (RL3 = im Bestand gefährdet) ist streng geschützt und darf nicht gesammelt werden. Auf der Kartierungsseite (Pilzkartierung online) sind in Deutschland 80 Funde vermerkt, die meisten im südlichen Bayern. (Johann Rejek)
+
+[Mehr lesen >](/pilze/gomphus-clavatus-schweinsohr)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/laccaria_amethystina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-21.2023: Nicht nur violett sondern auch essbar und durchaus wohlschmeckend ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") . Der Violette Lacktrichterling *Laccaria amethystina* beginnt gerade seine Saison in den Wäldern bei Dietzenbach, wo er im Herbst vermutlich herdenweise die Laub- oder Nadelstreu besiedeln wird. Dann lohnt sich das Sammeln. An einzelnen Hütchen ist zwar nicht viel dran, aber bei reichlichen Vorkommen macht's die Masse. Die zähen Stiele lässt man besser im Wald. (Dieter Gewalt)
+21.2023: Nicht nur violett sondern auch essbar und durchaus wohlschmeckend ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Der Violette Lacktrichterling *Laccaria amethystina* beginnt gerade seine Saison in den Wäldern bei Dietzenbach, wo er im Herbst vermutlich herdenweise die Laub- oder Nadelstreu besiedeln wird. Dann lohnt sich das Sammeln. An einzelnen Hütchen ist zwar nicht viel dran, aber bei reichlichen Vorkommen macht's die Masse. Die zähen Stiele lässt man besser im Wald. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/laccaria-amethystina-violetter-lacktrichterling)
 
