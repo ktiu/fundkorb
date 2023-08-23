@@ -3,9 +3,10 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-21.08.2023: [Laccaria amethystina - Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)  
-20.08.2023: [Tricholomopsis rutilans - Purpurfilziger Holzritterling](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)  
-29.08.2023: [Delicatula integrella - Weißer Adernabeling](/pilze/delicatula-integrella-weißer-adernabeling)  
+22.08.2023: [Gomphus clavatus - Schweinsohr](/pilze/gomphus-clavatus-schweinsohr)  
+21.08.2023: [Laccaria amethystina - Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)\
+20.08.2023: [Tricholomopsis rutilans - Purpurfilziger Holzritterling](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)\
+29.08.2023: [Delicatula integrella - Weißer Adernabeling](/pilze/delicatula-integrella-weißer-adernabeling)\
 18.08.2023: [Tylopilus felleus - Gallenröhrling](/pilze/tylopilus-felleus-gallenröhrling-bitterling)\
 17.08.2023: [Russula cyanoxantha - Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling)\
 16.08.2023: [Russula violeipes - Violettstieliger Brätlingstäubling](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)\
