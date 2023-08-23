@@ -7,9 +7,12 @@ beschreibung:
   familie: Sclerodermataceae
 profil:
   aktualisiert: 2023-08-22
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/scleroderma_areolatum_02_nk.jpg
+literatur:
+  - url: https://de.wikipedia.org/wiki/Kartoffelboviste
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/scleroderma_areolatum_01_dg.jpg" %}
