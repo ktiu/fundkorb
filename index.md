@@ -22,9 +22,9 @@ Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Führung für Einsteiger**
 {% include bild.html datei="/bilder/boletus_erythropus._02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-23.08.2023: Pilzsammler, die zum ersten Mal mit unserem aktuellen [Fundkorbpilz](AA "Glossar-") Bekanntschaft machen, sind entsetzt, wenn sie beim Anschneiden die schockierende Farbveränderung beobachten. Das gelbe Fleisch des Flockenstieligen Hexenröhrlings Boletus erythropus wird im Nu dunkelblau. Dass dieses Anlaufen in früheren Jahrhunderten für Hexenwerk gehalten wurde, ist verständlich, aber in der aufgeklärten Gegenwart sollten wir uns von solchen Vorstellungen verabschieden. Kenner wissen es schon lange: der Flockenstielige Hexenröhrling ist ein ausgezeichneter Speisepilz und wer ihn schon mal in der Pfanne hatte, weiß auch, dass die nicht gerade sympathische Verfärbung bei der Zubereitung wieder verschwindet. (Dieter Gewalt)
+23.08.2023: Pilzsammler, die zum ersten Mal mit unserem aktuellen [Fundkorbpilz](AA "Glossar-") Bekanntschaft machen, sind entsetzt, wenn sie beim Anschneiden die schockierende Farbveränderung beobachten. Das gelbe Fleisch des Flockenstieligen Hexenröhrlings *Boletus erythropus* wird im Nu dunkelblau. Dass dieses Anlaufen in früheren Jahrhunderten für Hexenwerk gehalten wurde, ist verständlich, aber in der aufgeklärten Gegenwart sollten wir uns von solchen Vorstellungen verabschieden. Kenner wissen es schon lange: der Flockenstielige Hexenröhrling ist ein ausgezeichneter Speisepilz und wer ihn schon mal in der Pfanne hatte, weiß auch, dass die nicht gerade sympathische Verfärbung bei der Zubereitung wieder verschwindet. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)
 
 <div style="clear:  both"></div>
 
