@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-23.08.2023: [Boletus erythropus - Flockenstieliger Hexenröhrling](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)  
+24.08.2023: [Laccaria laccata - Rötlicher Lacktrichterling](/pilze/laccaria-laccata-rötlicher-lacktrichterling)  
+23.08.2023: [Boletus erythropus - Flockenstieliger Hexenröhrling](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)\
 22.08.2023: [Gomphus clavatus - Schweinsohr](/pilze/gomphus-clavatus-schweinsohr)\
 21.08.2023: [Laccaria amethystina - Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)\
 20.08.2023: [Tricholomopsis rutilans - Purpurfilziger Holzritterling](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)\
