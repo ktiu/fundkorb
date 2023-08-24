@@ -19,6 +19,18 @@ Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Führung für Einsteiger**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laccaria_laccata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.08.2023: Der Violette Lacktrichterling verlässt nur selten seine Wälder (es sei denn, er landet in Sammelkörben); der Rötliche (*Laccaria laccata*) tut's dagegen gern. Auch in Wäldern scheint er grasige Stellen zu bevorzugen. Wie der violette ist er bestens für die Pfanne geeignet und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Er ist überall in Mitteleuropa häufig und unter Pilzkennern auch als *„Lac lac“* oder *„L²“* bekannt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/laccaria-laccata-rötlicher-lacktrichterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_erythropus._02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
