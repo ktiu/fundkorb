@@ -68,6 +68,7 @@ defaults:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - gemset.nix
   - vendor
   - LICENSE
   - README.md
