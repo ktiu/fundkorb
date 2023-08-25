@@ -10,4 +10,4 @@ Ein Wald ist mehr als nur ein Areal voller Bäume. Er ist ein funktionierendes S
 
 Es werden aber auch die Gefahren aufgezeigt, die dieses Biotop bedrohen. Dabei lernt man eine nicht geringe Anzahl an Pilzarten kennen und Speisepilze dürfen natürlich auch gesammelt werden. Wer möchte, bringt Körbchen und Messer mit.
 
-Die Teilnahme ist nur mit Anmeldung möglich. Der Treffpunkt wird bei Anmeldung bekannt gegeben. Anmeldung per Mail an [vhs Offenbach](https://www.offenbach.de/vhs):  oder telefonisch: +49 69 8065-3135vhs
+Die Teilnahme ist nur mit Anmeldung möglich. Der Treffpunkt wird bei Anmeldung bekannt gegeben. Anmeldung per Mail an vhs Offenbach (<https://vhskurse.offenbach.de/webbasys/index.php>) oder telefonisch: +49 69 8065-3135
