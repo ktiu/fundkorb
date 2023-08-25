@@ -31,7 +31,7 @@ Die einzelnen Fruchtkörper sind in der Regel mit der Schüsselöffnung nach unt
 
 Die Zugehörigkeit zur Familie der der Schwindlingsartigen ist noch ungeklärt.
 
-Bei zwei Funden (09.10.2005, Hainer Weg, Frankfurter Stadtwald und 03.07.2011, Buchrainweiher bei Offenbach) wurde ich von *Hermine Lotz-Winter* auf das Vorkommen an modernden Brennnesselstängel aufmerksam gemacht. Einen weiteren Fund (04.08.2019, Dreieichenhain der Dampfmühle, an verrottendem Brombeerstängel) verdanken wir dem aufmerksamen Auge von *Tui Gewalt*.
+Bei zwei Funden (09.10.2005, Hainer Weg, Frankfurter Stadtwald und 03.07.2011, Buchrainweiher bei Offenbach) wurde ich von *Hermine Lotz-Winter* auf das Vorkommen an modernden Brennnesselstängeln aufmerksam gemacht. Einen weiteren Fund (04.08.2019, Dreieichenhain der Dampfmühle, an verrottendem Brombeerstängel) verdanken wir dem aufmerksamen Auge von *Tui Gewalt*.
 
 Andere auf Brennnesselstängeln wachsende Pilzarten:
 
