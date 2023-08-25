@@ -22,7 +22,7 @@ Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Führung für Einsteiger**
 {% include bild.html datei="/bilder/mutinus_ravenelii_02_ac.jpg" %}
 {% include abbildung_ende.html %}
 
-25.08.2023: Den aktuellen [Fundkorbpilz](AA "Glossar-"), die Himbeerrote Hundsrute *Mutinus ravenelii*, hat mir *Andreas Conrad* aus Kemberg in Sachsen-Anhalt gemeldet. Das nebenstehende Bild zeigt die zum Teil zerstörten Fruchtkörper auf seinem Grundstück. Die Himbeerrote Hundsrute ähnelt der *„gemeinen“ (Mutinus caninus*), ist jedoch durch die rote Farbe des Kopfteils und den intensiveren Geruch unterschieden. Außerdem ist sie wesentlich seltener, scheint sich aber inzwischen in Deutschland weiter auszubreiten. (Dieter Gewalt)
+25.08.2023: Den aktuellen [Fundkorbpilz](AA "Glossar-"), die Himbeerrote Hundsrute *Mutinus ravenelii*, hat mir *Andreas Conrad* aus Kemberg in Sachsen-Anhalt gemeldet. Das nebenstehende Bild zeigt die zum Teil zerstörten Fruchtkörper auf seinem Grundstück. Die Himbeerrote Hundsrute ähnelt der *„gemeinen“ ([Mutinus caninus](/pilze/mutinus-caninus-hundsrute)*), ist jedoch durch die rote Farbe des Kopfteils und den intensiveren Geruch unterschieden. Außerdem ist sie wesentlich seltener, scheint sich aber inzwischen in Deutschland weiter auszubreiten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)
 
