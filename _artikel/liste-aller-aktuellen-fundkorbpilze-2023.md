@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-25.04.2023: [Mutinus ravenelii - Himbeerrote Hundsrute](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)  
+26.04.2023: [Calocybe ionides - Veilchenblauer Schnönkopf](/pilze/calocybe-ionides-veilchenblauer-schönkopf)  
+25.04.2023: [Mutinus ravenelii - Himbeerrote Hundsrute](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)\
 24.08.2023: [Laccaria laccata - Rötlicher Lacktrichterling](/pilze/laccaria-laccata-rötlicher-lacktrichterling)\
 23.08.2023: [Boletus erythropus - Flockenstieliger Hexenröhrling](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)\
 22.08.2023: [Gomphus clavatus - Schweinsohr](/pilze/gomphus-clavatus-schweinsohr)\
