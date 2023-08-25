@@ -19,6 +19,18 @@ Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Führung für Einsteiger**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calocybe_ionides_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.08.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist einer, den man nicht alle Tage zu sehen bekommt: der Veilchenblaue Schönkopf *Calocybe ionides*, der inzwischen in Rugosomyces ionides umbenannt worden ist. Er ist in Laub-, Nadel- und Mischwäldern zu finden, gern an Waldwegrändern. Im Frankfurter Stadtwald habe ich ihn mehrfach in der Nähe vom Stadtwaldhaus gefunden, in der Umgebung des Jacobiweihers wurde er mir gestern von einem Frankfurter Pilzfreund gemeldet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/calocybe-ionides-veilchenblauer-schönkopf)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mutinus_ravenelii_02_ac.jpg" %}
 {% include abbildung_ende.html %}
 
