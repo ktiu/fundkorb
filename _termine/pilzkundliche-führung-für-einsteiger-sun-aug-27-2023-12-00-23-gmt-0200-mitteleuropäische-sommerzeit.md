@@ -2,7 +2,7 @@
 aktivitaet: Pilzkundliche Führung für Einsteiger
 zeit: 2023-08-27T10:00:23.801Z
 bis: ""
-anmeldung_offen: true
+anmeldung_offen: false
 anmeldung_noetig: false
 published: true
 bilder:
@@ -14,4 +14,4 @@ Bei dieser Exkursion in einem Waldgebiet nahe Dietzenbach lernen wir alles über
 
 Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung mitgeteilt.
 
- 
+**Dieser Termin ist ausgebucht. Anmeldungen sind leider nicht mehr möglich.**
