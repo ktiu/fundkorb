@@ -1,5 +1,5 @@
 ---
-aktivitaet: Lust auf Pilze
+aktivitaet: Lust auf Pilze?
 zeit: 2023-09-03T10:00:46.540Z
 bis: ""
 anmeldung_offen: true
