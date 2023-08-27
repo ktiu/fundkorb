@@ -18,6 +18,18 @@ Neuer Exkursionstermine: Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Fü
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_pulverulentus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwarzblauende Röhrling *Boletus pulverulentus,* der seit 2014 *Cyanoboletus* heißen muss. Er fällt durch eine Eigenschaft auf, die man von den Hexenröhrlingen her kennt. Er verfärbt sich dunkelblau, was unerfahrene Pilzsammler enorm verunsichert. Diese Verfärbung tritt beim Starkblauenden Röhrling nicht nur auf Druck oder beim Anschneiden auf sondern erfolgt auch ganz von selbst. Trotzdem galt er lange als guter Speisepilz, vor dessen Verzehr aber inzwischen gewarnt wird. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/boletus-pulverulentus-schwarzblauender-röhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/calocybe_ionides_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
