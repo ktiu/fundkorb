@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-Neue Exkursionstermine: Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Führung für Einsteiger**
+Neue Exkursionstermine: Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Führung für Einsteiger**  
 Sonntag, 3. September 2023 10:00 Uhr: **Lust auf Pilze?**
 [Hier geht's zur Anmeldung -->](/termine)
 
