@@ -44,14 +44,14 @@ Es gibt einen guten Grund, warum viele Pilzsammler, vor allem Anfänger, ausschl
 
 - - -
 
-Während unserer Exkursion im Gebiet Dornsee am 26. November 2022 haben wir diese 7 gut kenntlichen Kurspilze gefunden und mit ihren Merkmalen vorgestellt:
+Während unserer Exkursion in einem Dietzenbacher Wald am 27. September 2023 haben wir diese 5 gut kenntlichen Kurspilze gefunden und mit ihren Merkmalen vorgestellt:
 
-[Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)\
-[Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)\
-[Schopftintling](/pilze/coprinus-comatus-schopftintling)\
-[Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)\
-[Birkenporling](/pilze/piptoporus-betulinus-birkenporling)\
-[Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)\
-[Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)
+[Calocera viscosa - Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)
+[Xerocomus subtomentosus - Ziegenlippe](/pilze/xerocomus-subtomentosus-ziegenlippe)
+[Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)
+[Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz) (tödlich giftig!!!)
+[Tylopilus felleus - Gallenröhrling](/pilze/tylopilus-felleus-gallenröhrling-bitterling)
+
+Außerdem haben wir zahlreiche Täublinge gefunden, deren Fruchtkörper aus rundlichen Zellen bestehen, so dass man sie wie Styropor zerbröseln und ihre Lamellen beim Darüberstreichen zersplittern lassen kann. Vor allem hatten wir den [Frauentäubling Russula cyanoxantha](/pilze/russula-cyanoxantha-frauentäubling) kennengelernt, den einzigen unter den Täublingen mit <ins>nicht</ins>  splitternden Lamellen. An diesem Merkmal ist er, sofern man den Pilz sicher als Täubling ausgemacht hat, immer und unverwechselbar zu erkennen. Der Frauentäubling ist ein hervorragener Speisepilz.
 
 (Pilzname anklicken --> Ausführliches Pilzartporträt)
