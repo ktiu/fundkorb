@@ -18,6 +18,18 @@ Neuer Exkursionstermin: Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Füh
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tyromyces_kmetii_09_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+29.08.2023: Saftporlinge gibt es einige, auf verschiedene Gattungen verteilt. Die meisten sind weiß und ziemlich langweilig. Einer ist besonders schön und deshalb unser heutiger Fundkorbpilz: der Orangegelbe Saftporling Tyromyces kmetii. Er wächst gerade auf Totholz in einem Dietzenbacher Wald am Weg zu unseren Ballerinapilzen, die allmählich verblassen.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tyromyces-kmetii-orangegelber-saftporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/strobilomyces_strobilaceus_04_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ Neuer Exkursionstermin: Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Füh
 27.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwarzblauende Röhrling *Boletus pulverulentus,* der seit 2014 *Cyanoboletus* heißen muss. Er fällt durch eine Eigenschaft auf, die man von den Hexenröhrlingen her kennt. Er verfärbt sich dunkelblau, was unerfahrene Pilzsammler enorm verunsichert. Diese Verfärbung tritt beim Starkblauenden Röhrling nicht nur auf Druck oder beim Anschneiden auf sondern erfolgt auch ganz von selbst. Trotzdem galt er lange als guter Speisepilz, vor dessen Verzehr aber inzwischen gewarnt wird. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/boletus-pulverulentus-schwarzblauender-röhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calocybe_ionides_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.08.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist einer, den man nicht alle Tage zu sehen bekommt: der Veilchenblaue Schönkopf *Calocybe ionides*, der inzwischen in Rugosomyces ionides umbenannt worden ist. Er ist in Laub-, Nadel- und Mischwäldern zu finden, gern an Waldwegrändern. Im Frankfurter Stadtwald habe ich ihn mehrfach in der Nähe vom Stadtwaldhaus gefunden, in der Umgebung des Jacobiweihers wurde er mir gestern von einem Frankfurter Pilzfreund gemeldet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/calocybe-ionides-veilchenblauer-schönkopf)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mutinus_ravenelii_02_ac.jpg" %}
-{% include abbildung_ende.html %}
-
-25.08.2023: Den aktuellen [Fundkorbpilz](AA "Glossar-"), die Himbeerrote Hundsrute *Mutinus ravenelii*, hat mir *Andreas Conrad* aus Kemberg in Sachsen-Anhalt gemeldet. Das nebenstehende Bild zeigt die zum Teil zerstörten Fruchtkörper auf seinem Grundstück. Die Himbeerrote Hundsrute ähnelt der *„gemeinen“ ([Mutinus caninus](/pilze/mutinus-caninus-hundsrute)*), ist jedoch durch die rote Farbe des Kopfteils und den intensiveren Geruch unterschieden. Außerdem ist sie wesentlich seltener, scheint sich aber inzwischen in Deutschland weiter auszubreiten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)
 
 <div style="clear:  both"></div>
 
