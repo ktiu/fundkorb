@@ -21,7 +21,7 @@ Neuer Exkursionstermin: Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Füh
 {% include bild.html datei="/bilder/tyromyces_kmetii_09_fk.jpg" %}
 {% include abbildung_ende.html %}
 
-29.08.2023: Saftporlinge gibt es einige, auf verschiedene Gattungen verteilt. Die meisten sind weiß und ziemlich langweilig. Einer ist besonders schön und deshalb unser heutiger Fundkorbpilz: der Orangegelbe Saftporling Tyromyces kmetii. Er wächst gerade auf Totholz in einem Dietzenbacher Wald am Weg zu unseren [Ballerinapilzen](/artikel/besuch-bei-den-ballerina-pilzen), die allmählich verblassen.  (Dieter Gewalt)
+29.08.2023: Saftporlinge gibt es einige, auf verschiedene Gattungen verteilt. Die meisten sind weiß und ziemlich langweilig. Einer ist besonders schön und deshalb unser heutiger Fundkorbpilz: der Orangegelbe Saftporling *Tyromyces kmetii*. Er wächst gerade auf Totholz in einem Dietzenbacher Wald am Weg zu unseren [Ballerinapilzen](/artikel/besuch-bei-den-ballerina-pilzen), die allmählich verblassen.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tyromyces-kmetii-orangegelber-saftporling)
 
