@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-28.08.2023: [Strobilomyces strobilaceus - Strubbelkopfröhrling](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)  
+29.08.2023: [Tyromyces kmetii - Orangegelber Saftporling](/pilze/tyromyces-kmetii-orangegelber-saftporling)  
+28.08.2023: [Strobilomyces strobilaceus - Strubbelkopfröhrling](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)\
 27.08.2023: [Boletus pulverulentus - Starkblauener Röhrling](/pilze/boletus-pulverulentus-schwarzblauender-röhrling)\
 26.04.2023: [Calocybe ionides - Veilchenblauer Schnönkopf](/pilze/calocybe-ionides-veilchenblauer-schönkopf)\
 25.04.2023: [Mutinus ravenelii - Himbeerrote Hundsrute](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)\
