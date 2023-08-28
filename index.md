@@ -17,9 +17,15 @@ Neuer Exkursionstermin: Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Füh
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/strobilomyces_strobilaceus_04_nk.jpg" %}
+{% include abbildung_ende.html %}
+
 28.08.2023: *„The old Man of the Woods“* - so wird unser aktueller [Fundkorbpilz](AA "Glossar-"), der Strubbelkopfröhrling *Strobilomyces strobilaceus*, in England genannt. Das passt und auch der deutsche Artname ist eigentlich schon eine treffende Beschreibung dieses in allen Teilen grauen Pilzes. Gefunden hat ihn *Brigitte Koch* in einem Wäldchen nahe Birstein bei Gelnhausen. Seine Küchentauglichkeit pflege ich so zu umschreiben: „Er schmeckt etwa so wie er aussieht.“ Giftig ist er nicht, ihn anschauen und stehen lassen die beste Entscheidung. (Dieter Gewalt)
 
-Mehr lesen ><div style="clear:  both"></div>
+[Mehr lesen >](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)
+
+<div style="clear:  both"></div>
 
 - - -
 
