@@ -12,9 +12,14 @@ footer_scripts:
 
 - - -
 
-Neue Exkursionstermine: Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Führung für Einsteiger**  
-Sonntag, 3. September 2023 10:00 Uhr: **Lust auf Pilze?**
+Neuer Exkursionstermin: Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Führung für Einsteiger**\
 [Hier geht's zur Anmeldung -->](/termine)
+
+- - -
+
+28.08.2023: *„The old Man of the Woods“* - so wird unser aktueller [Fundkorbpilz](AA "Glossar-"), der Strubbelkopfröhrling *Strobilomyces strobilaceus*, in England genannt. Das passt und auch der deutsche Artname ist eigentlich schon eine treffende Beschreibung dieses in allen Teilen grauen Pilzes. Gefunden hat ihn *Brigitte Koch* in einem Wäldchen nahe Birstein bei Gelnhausen. Seine Küchentauglichkeit pflege ich so zu umschreiben: „Er schmeckt etwa so wie er aussieht.“ Giftig ist er nicht, ihn anschauen und stehen lassen die beste Entscheidung. (Dieter Gewalt)
+
+Mehr lesen ><div style="clear:  both"></div>
 
 - - -
 
@@ -49,30 +54,6 @@ Sonntag, 3. September 2023 10:00 Uhr: **Lust auf Pilze?**
 25.08.2023: Den aktuellen [Fundkorbpilz](AA "Glossar-"), die Himbeerrote Hundsrute *Mutinus ravenelii*, hat mir *Andreas Conrad* aus Kemberg in Sachsen-Anhalt gemeldet. Das nebenstehende Bild zeigt die zum Teil zerstörten Fruchtkörper auf seinem Grundstück. Die Himbeerrote Hundsrute ähnelt der *„gemeinen“ ([Mutinus caninus](/pilze/mutinus-caninus-hundsrute)*), ist jedoch durch die rote Farbe des Kopfteils und den intensiveren Geruch unterschieden. Außerdem ist sie wesentlich seltener, scheint sich aber inzwischen in Deutschland weiter auszubreiten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/laccaria_laccata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.08.2023: Der Violette Lacktrichterling verlässt nur selten seine Wälder (es sei denn, er landet in Sammelkörben); der Rötliche (*Laccaria laccata*) tut's dagegen gern. Auch in Wäldern scheint er grasige Stellen zu bevorzugen. Wie der violette ist er bestens für die Pfanne geeignet und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Er ist überall in Mitteleuropa häufig und unter Pilzkennern auch als *„Lac lac“* oder *„L²“* bekannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/laccaria-laccata-rötlicher-lacktrichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_erythropus._02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.08.2023: Pilzsammler, die zum ersten Mal mit unserem aktuellen [Fundkorbpilz](AA "Glossar-") Bekanntschaft machen, sind entsetzt, wenn sie beim Anschneiden die schockierende Farbveränderung beobachten. Das gelbe Fleisch des Flockenstieligen Hexenröhrlings *Boletus erythropus* wird im Nu dunkelblau. Dass dieses Anlaufen in früheren Jahrhunderten für Hexenwerk gehalten wurde, ist verständlich, aber in der aufgeklärten Gegenwart sollten wir uns von solchen Vorstellungen verabschieden. Kenner wissen es schon lange: der Flockenstielige Hexenröhrling ist ein ausgezeichneter Speisepilz und wer ihn schon mal in der Pfanne hatte, weiß auch, dass die nicht gerade sympathische Verfärbung bei der Zubereitung wieder verschwindet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)
 
 <div style="clear:  both"></div>
 
