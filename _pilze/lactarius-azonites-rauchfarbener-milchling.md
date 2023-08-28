@@ -53,7 +53,7 @@ Der Pilz gilt wegen seines unangenehmen Geschmacks als ungenießbar.
 
 Der Rauchfarbene Milchling besitzt die für die Korallenreizker typischen, hochgratigen Sporen. Sie sind bei ihm rundlich und besitzen eine vorwiegend aus bis zu 1,5 µm hohen Graten mit aus offenen und geschlossenen Maschen bestehender Ornamentation. Isolierte Warzen sind nur wenige vorhanden. Die Ornamente sind amyloid, am Hilarfleck ist das nur am äußeren Ende der Fall. Die Maße sind 6,3 - 8,0 x 6,1 - 7,3 µm, der Schlankheitsgrad Q beträgt 1,05 - 1,09. Die Sporen des Fotos sind mit Melzers Reagenz angefärbt.
 
-Mikroskopiert man die Lamellen, wird man weder an der Lamellenschneide noch an der Lamellenfläche echte Zystiden (*„Makrozystiden“*) finden. An der Lamellenschneide sind lediglich dünnwandige Marginalzellen vorhanden. Nach der Fachliteratur sollte die Lamellenschneide steril sein. Das scheint aber aus meiner Sicht nur bedingt zu stimmen: Einige wenige Basidien können immer mal sichtbar sein.
+Mikroskopiert man die Lamellen, wird man weder an der Lamellenschneide noch an der Lamellenfläche echte Zystiden (*„Makrozystiden“*) finden. An der Lamellenschneide sind lediglich dünnwandige Marginalzellen vorhanden. Nach der Fachliteratur sollte die Lamellenschneide steril sein. Das scheint aber aus meiner Sicht nur bedingt zu stimmen: Einige wenige Basidien können immer mal sichtbar sein. Sie sind zwei- oder viersporig.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/lactarius_azonites_04_bm.jpg" nocrop=true gross=true %}
