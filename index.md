@@ -18,10 +18,22 @@ Neuer Exkursionstermin: Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Füh
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/creolophus_cirrhatus_04_mi.jpg" %}
+{% include abbildung_ende.html %}
+
+30.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dornige Stachelbart *Hericium cirrhatum*. Stechelbärte sind nicht nur schön anzuschauen, sondern gelten auch als gesundheitsförderliche Vitalpilze. Sammeln darf man sie nicht. Sie sind alle mehr oder weniger streng geschützt. Da auf den Waldböden infolge des Klimawandels und des damit verbundenen Baumsterbens jede Menge Totholz liegt, erholen sich mittlerweile ihre Bestände. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hericium-cirrhatum-dorniger-stachelbart)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tyromyces_kmetii_09_fk.jpg" %}
 {% include abbildung_ende.html %}
 
-29.08.2023: Saftporlinge gibt es einige, auf verschiedene Gattungen verteilt. Die meisten sind weiß und ziemlich langweilig. Einer ist besonders schön und deshalb unser heutiger Fundkorbpilz: der Orangegelbe Saftporling *Tyromyces kmetii*. Er wächst gerade auf Totholz in einem Dietzenbacher Wald am Weg zu unseren [Ballerinapilzen](/artikel/besuch-bei-den-ballerina-pilzen), die allmählich verblassen.  (Dieter Gewalt)
+29.08.2023: Saftporlinge gibt es einige, auf verschiedene Gattungen verteilt. Die meisten sind weiß und ziemlich langweilig. Einer ist besonders schön und deshalb unser heutiger [Fundkorbpilz](AA "Glossar-"): der Orangegelbe Saftporling *Tyromyces kmetii*. Er wächst gerade auf Totholz in einem Dietzenbacher Wald am Weg zu unseren [Ballerinapilzen](/artikel/besuch-bei-den-ballerina-pilzen), die allmählich verblassen.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tyromyces-kmetii-orangegelber-saftporling)
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Füh
 28.08.2023: *„The old Man of the Woods“* - so wird unser aktueller [Fundkorbpilz](AA "Glossar-"), der Strubbelkopfröhrling *Strobilomyces strobilaceus*, in England genannt. Das passt und auch der deutsche Artname ist eigentlich schon eine treffende Beschreibung dieses in allen Teilen grauen Pilzes. Gefunden hat ihn *Brigitte Koch* in einem Wäldchen nahe Birstein bei Gelnhausen. Seine Küchentauglichkeit pflege ich so zu umschreiben: „Er schmeckt etwa so wie er aussieht.“ Giftig ist er nicht, ihn anschauen und stehen lassen die beste Entscheidung. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_pulverulentus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwarzblauende Röhrling *Boletus pulverulentus,* der seit 2014 *Cyanoboletus* heißen muss. Er fällt durch eine Eigenschaft auf, die man von den Hexenröhrlingen her kennt. Er verfärbt sich dunkelblau, was unerfahrene Pilzsammler enorm verunsichert. Diese Verfärbung tritt beim Starkblauenden Röhrling nicht nur auf Druck oder beim Anschneiden auf sondern erfolgt auch ganz von selbst. Trotzdem galt er lange als guter Speisepilz, vor dessen Verzehr aber inzwischen gewarnt wird. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-pulverulentus-schwarzblauender-röhrling)
 
 <div style="clear:  both"></div>
 
