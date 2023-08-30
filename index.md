@@ -12,8 +12,20 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin: Sonntag, 27. August 2023 10:00 Uhr: **Pilzkundliche Führung für Einsteiger**\
+Neuer Exkursionstermin: Sonntag, 03. September 2023 10:00 Uhr: **Lust auf Pilze?**\
 [Hier geht's zur Anmeldung -->](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_citrina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Der Name *Knollenblätterpilz* ist nicht automatisch gleichbedeutend mit „tödlich giftig“. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gelbe Knollenblätterpilz *Amanita citrina*, ist nur leicht giftig und sein Wirkstoff *Bufotenin* würde auch noch beim Erhitzen zerstört. Hitzeinstabile Gifte sind in vielen Speisepilzen enthalten, aber sein widerwärtiger Geschmack macht den Gelben Knollenblätterpilz absolut ungenießbar. Er gehört zu den häufigsten Pilzarten in unseren Wäldern und ist u. a. am Kartoffelgeruch in seiner Stielknolle zu erkennen. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/amanita-citrina-gelber-knollenblätterpilz)
+
+<div style="clear:  both"></div>
 
 - - -
 
