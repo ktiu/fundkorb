@@ -10,4 +10,4 @@ bilder:
 ---
 Im Herbst nach Pilzen suchen macht Freude. Aber: Welcher Pilz darf in die Pfanne und später auf den Teller? Von welchem sollte man besser die Finger lassen? Welcher könnte gar gefährlich werden? Mit dem langjährigen Leiter der Pilzberatung im Frankfurter Gesundheitsamt, Dieter Gewalt, sind wir etwa drei Stunden im Frankfurter Stadtwald unterwegs, um Wissenswertes über die faszinierende Welt der Pilze wie auch das Sammeln und Verwerten zu erfahren. Auch die Rolle, die Pilze im komplexen Ökosystem Wald spielen, wird unser Thema sein. Speisepilze dürfen selbstverständlich gesammelt werden. Wer möchte, bringt Messer und Körbchen mit (bitte keine Plastiktüten!).
 
-**Der Button für Anmeldungen wird Anfang September freigeschaltet**
+**Der Button für Anmeldungen wird in Kürze freigeschaltet**
