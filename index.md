@@ -18,6 +18,18 @@ Neuer Exkursionstermin: Sonntag, 03. September 2023 10:00 Uhr: **Lust auf Pilze?
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_ionochlora_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Papageitäubling *Russula ionochlora*. Man könnte ihn auf den ersten Blick für einen schmächtigen Frauentäubling halten, dessen biegsame Lamellen aber nicht splittern. Der Papageitäubling ist ein guter Speisepilz, den ich wegen seines etwas festeren Fleisches mehr schätze als die üblichen Röhrlinge. Innerhalb der Täublinge bestehen Verwechslungsmöglichkeiten mit ebenfalls essbaren Arten, z. B. mit Reiftäublingen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_citrina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ Der Name *Knollenblätterpilz* ist nicht automatisch gleichbedeutend mit „töd
 30.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dornige Stachelbart *Hericium cirrhatum*. Stechelbärte sind nicht nur schön anzuschauen, sondern gelten auch als gesundheitsförderliche Vitalpilze. Sammeln darf man sie nicht. Sie sind alle mehr oder weniger streng geschützt. Da auf den Waldböden infolge des Klimawandels und des damit verbundenen Baumsterbens jede Menge Totholz liegt, erholen sich mittlerweile ihre Bestände. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hericium-cirrhatum-dorniger-stachelbart)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tyromyces_kmetii_09_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-29.08.2023: Saftporlinge gibt es einige, auf verschiedene Gattungen verteilt. Die meisten sind weiß und ziemlich langweilig. Einer ist besonders schön und deshalb unser heutiger [Fundkorbpilz](AA "Glossar-"): der Orangegelbe Saftporling *Tyromyces kmetii*. Er wächst gerade auf Totholz in einem Dietzenbacher Wald am Weg zu unseren [Ballerinapilzen](/artikel/besuch-bei-den-ballerina-pilzen), die allmählich verblassen.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tyromyces-kmetii-orangegelber-saftporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/strobilomyces_strobilaceus_04_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-28.08.2023: *„The old Man of the Woods“* - so wird unser aktueller [Fundkorbpilz](AA "Glossar-"), der Strubbelkopfröhrling *Strobilomyces strobilaceus*, in England genannt. Das passt und auch der deutsche Artname ist eigentlich schon eine treffende Beschreibung dieses in allen Teilen grauen Pilzes. Gefunden hat ihn *Brigitte Koch* in einem Wäldchen nahe Birstein bei Gelnhausen. Seine Küchentauglichkeit pflege ich so zu umschreiben: „Er schmeckt etwa so wie er aussieht.“ Giftig ist er nicht, ihn anschauen und stehen lassen die beste Entscheidung. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)
 
 <div style="clear:  both"></div>
 
