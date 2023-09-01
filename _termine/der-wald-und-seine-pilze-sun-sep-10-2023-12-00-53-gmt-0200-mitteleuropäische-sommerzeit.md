@@ -1,7 +1,7 @@
 ---
 aktivitaet: Der Wald und seine Pilze
 zeit: 2023-09-10T10:00:53.489Z
-bis: 2023-09-01T10:00:00.000Z
+bis: ""
 anmeldung_offen: true
 anmeldung_noetig: false
 published: true
