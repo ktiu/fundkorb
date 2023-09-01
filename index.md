@@ -12,7 +12,9 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin: Sonntag, 03. September 2023 10:00 Uhr: **Lust auf Pilze?**\
+Neue Exkursionstermine:  
+Sonntag, 03. September 2023 10:00 Uhr: **Lust auf Pilze?**  
+Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und seine Pilze**  
 [Hier geht's zur Anmeldung -->](/termine)
 
 - - -
