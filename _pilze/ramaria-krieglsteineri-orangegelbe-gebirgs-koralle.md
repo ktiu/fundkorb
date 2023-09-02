@@ -48,7 +48,7 @@ Die Basidien sind schlankkeulig und besitzen vier Sterigmen. An den Basidienbase
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/ramaria_krieglsteineri_09_bm.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Basalmyzel, der Pfeil zeigt auf einen ampulliformen Septenübergang" %}
 
 Der einzige Unterschied, der mir gegenüber der Originalbeschreibung in SCHILD, E. (1997) auffällt: *Ramaria krieglsteineri Schild* soll in keinem der Gewebeteile Schnallen haben, während der hier beschriebene Fund Schnallen im Bereich der Basidienbasis und des Basalmyzels aufweist.
 
