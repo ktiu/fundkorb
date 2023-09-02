@@ -12,10 +12,22 @@ footer_scripts:
 
 - - -
 
-Neue Exkursionstermine:  
-Sonntag, 03. September 2023 10:00 Uhr: **Lust auf Pilze?**  
-Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und seine Pilze**  
+Neue Exkursionstermine:\
+Sonntag, 03. September 2023 10:00 Uhr: **Lust auf Pilze?**\
+Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und seine Pilze**\
 [Hier geht's zur Anmeldung -->](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laccaria_bicolor_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.09.2023: Die Lacktrichterlinge sind eine sehr übersichtliche Gattung. In Mitteleuropa sind fünf Arten verbreitet. Alle fünf sind essbar und gute Speisepilze. Der Zweifarbige Lacktrichterling *Laccaria bicolor*, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), ist durch den Kontrast zwischen rötlicher Hutoberfläche und violettlichen Lamellen bestens gekennzeichnet. Er ist längst nicht so häufig wie der Violette und der Rötliche. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/laccaria-bicolor-zweifarbiger-lacktrichterling)
+
+<div style="clear:  both"></div>
 
 - - -
 
