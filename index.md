@@ -20,6 +20,18 @@ Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und seine Pilze**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitocybe_odora_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.09.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus Hanau. *Martina Urich* hat einen Fund des Grünen Anistrichterlings *Clitocybe odora* in einem Wäldchen am Stadtrand gemeldet. Die Hüte dieses Pilzes müssen übrigens nicht immer schön grün gefärbt sein. Nicht umsonst wird er auch Grünblauer Anistrichterling genannt. Zwei andere nach Anis riechende Arten der Gattung haben andere Farben.
+
+[Mehr lesen >](/pilze/clitocybe-odora-grüner-anistrichterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/laccaria_bicolor_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,30 +50,6 @@ Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und seine Pilze**\
 01.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Papageitäubling *Russula ionochlora*. Man könnte ihn auf den ersten Blick für einen schmächtigen Frauentäubling halten, dessen biegsame Lamellen aber nicht splittern. Der Papageitäubling ist ein guter Speisepilz, den ich wegen seines etwas festeren Fleisches mehr schätze als die üblichen Röhrlinge. Innerhalb der Täublinge bestehen Verwechslungsmöglichkeiten mit ebenfalls essbaren Arten, z. B. mit Reiftäublingen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_citrina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Der Name *Knollenblätterpilz* ist nicht automatisch gleichbedeutend mit „tödlich giftig“. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gelbe Knollenblätterpilz *Amanita citrina*, ist nur leicht giftig und sein Wirkstoff *Bufotenin* würde auch noch beim Erhitzen zerstört. Hitzeinstabile Gifte sind in vielen Speisepilzen enthalten, aber sein widerwärtiger Geschmack macht den Gelben Knollenblätterpilz absolut ungenießbar. Er gehört zu den häufigsten Pilzarten in unseren Wäldern und ist u. a. am Kartoffelgeruch in seiner Stielknolle zu erkennen. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/amanita-citrina-gelber-knollenblätterpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/creolophus_cirrhatus_04_mi.jpg" %}
-{% include abbildung_ende.html %}
-
-30.08.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dornige Stachelbart *Hericium cirrhatum*. Stechelbärte sind nicht nur schön anzuschauen, sondern gelten auch als gesundheitsförderliche Vitalpilze. Sammeln darf man sie nicht. Sie sind alle mehr oder weniger streng geschützt. Da auf den Waldböden infolge des Klimawandels und des damit verbundenen Baumsterbens jede Menge Totholz liegt, erholen sich mittlerweile ihre Bestände. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hericium-cirrhatum-dorniger-stachelbart)
 
 <div style="clear:  both"></div>
 
