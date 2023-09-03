@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-02.09.2023: [Laccaria bicolor - Zweifarbiger Lacktrichterling](/pilze/laccaria-bicolor-zweifarbiger-lacktrichterling)  
+03.09.2023: [Clitocybe odora - Grüner Anistrichterling](/pilze/clitocybe-odora-grüner-anistrichterling)  
+02.09.2023: [Laccaria bicolor - Zweifarbiger Lacktrichterling](/pilze/laccaria-bicolor-zweifarbiger-lacktrichterling)\
 01.09.2023: [Russula ionochlora - Papageitäubling](/pilze/russula-ionochlora-papagei-täubling)
 
 31.08.2023: [Amanita citrina - Gelber Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz)\
