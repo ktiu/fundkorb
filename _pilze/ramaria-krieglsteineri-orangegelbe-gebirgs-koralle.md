@@ -40,7 +40,7 @@ Die Sporen besitzen eine langgestreckt zylindrisch bis ellipsoide Form, die Orna
 
 Die Basidien sind schlankkeulig und besitzen vier Sterigmen. An den Basidienbasen fand ich vereinzelt Schnallen (Pfeile). Die Asttrama besteht aus hyalinen, dünnwandigen generativen Hyphen mit einer Breite von 4-8 µm. Schnallen konnte ich hier keine beobachten. Das Basalmyzel besteht ebenfalls aus hyalinen, dünnwandigen generativen Hyphen. Sie sind 2 bis 4 µm breit und besitzen vereinzelt Schnallen sowie ampulliforme Septenübergänge.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/ramaria_krieglsteineri_06_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/ramaria_krieglsteineri_07_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/ramaria_krieglsteineri_08_bm.jpg" nocrop=true gross=true %}
