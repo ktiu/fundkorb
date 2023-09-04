@@ -52,3 +52,5 @@ Die für die Artbestimmung wichtigen **Sporen** waren braun, rundlich bis breit 
 Die **Huthaut** ist zweischichtig: Zuoberst eine ca. 20 µm dicke Epikutis, bestehend aus 3-8 µm breiten, liegenden Hyphen (eine [Kutis](Kutis "Glossar")) und darunter eine ca. 100 µm dicke Schicht [Hyphen](Hyphen "Glossar"), deren Abschnitte fast isodiametrisch oder wurstförmig sind (ein Hypoderm). Einen der Hypoderm-Hyphenabschnitte habe ich schraffiert und mit 15,2 x 27 µm bemaßt. Die Hyphen besitzen an ihren Septen Schnallen.
 
 Es gibt weitere ähnliche Schleierlinge, die zum Teil am gleichen Standort vorkommen können (zum Beispiel *Cortinarius malachius* oder *C. caninus*).
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
