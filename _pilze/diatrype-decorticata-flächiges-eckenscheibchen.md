@@ -61,3 +61,5 @@ Schließlich kommen wir zu den Sporen. Sie sind würstchenförmig (allantoid), g
 **[Diatrype undulata](/pilze/diatrype-undulata-flaches-birken-eckenscheibchen):** Stroma dicklich-wulstig, rußschwarz, Rand steil und geschwungen, schwarz. Ostiolen deutlich größer, mit bloßem Auge gerade so erkennbar. Substrat: Birke. Selten.
 
 Als 1981 der erste Band von *Pilze der Schweiz (Ascomyceten)* erschien, wußte man noch nicht so genau um die Vielfalt flächig wachsender Eckenscheibchen. Für *Diatrype stigma*, das Flächige Eckenscheibchen, wurden verschiedene Laubhölzer als Substrat angegeben, u. a. auch die Buche. Heute weiß man, dass diese Art fast ausschließlich auf Eiche vorkommt. Flächige Eckenscheibchen auf Buchenästen sind fast immer *Diatrype decorticata*!
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
