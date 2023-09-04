@@ -40,3 +40,5 @@ Die Fruchtkörper sind schüsselförmig mit cremefarbener oder hellgrauer, kittg
 **Ähnliche Arten:**\
 Der **Runzelige Schichtpilz Stereum rugosum** wächst ebenfalls an Laubholz und kann ähnlich aussehen. Wenn man die Oberfläche anritzt, rötet die Stelle.\
 Der **[Wacholder-Schichtpilz Amylostereum laevigatum](/pilze/amylostereum-laevigatum-wacholder-schichtpilz)** wächst an Wacholder und Eibe.
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
