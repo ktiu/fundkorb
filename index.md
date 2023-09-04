@@ -12,10 +12,22 @@ footer_scripts:
 
 - - -
 
-Neue Exkursionstermine:\
-Sonntag, 03. September 2023 10:00 Uhr: **Lust auf Pilze?**\
+Neuer Exkursionstermine:\
+
 Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und seine Pilze**\
 [Hier geht's zur Anmeldung -->](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_azonites_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rauchfarbene Milchling *Lactarius azonitis*. Wir haben ihn im Gebiet Kochseeschlag östlich von Neu-Isenburg gefunden, wo etliche Fruchtkörper an einem Wegrand bei Buchen standen. Die Bestimmung war nicht ganz einfach, schon weil uns die Bezeichnung „rauchfarben“ irritiert hat. Wenn man an Zigarettenrauch denkt, hätte sie wohl gepasst. *Bernd Miggel* hat unseren Fund umfassend mikroskopisch dokumentiert und alle Zweifel beseitigt. (Frank Kaster + Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lactarius-azonites-rauchfarbener-milchling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -38,18 +50,6 @@ Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und seine Pilze**\
 02.09.2023: Die Lacktrichterlinge sind eine sehr übersichtliche Gattung. In Mitteleuropa sind fünf Arten verbreitet. Alle fünf sind essbar und gute Speisepilze. Der Zweifarbige Lacktrichterling *Laccaria bicolor*, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), ist durch den Kontrast zwischen rötlicher Hutoberfläche und violettlichen Lamellen bestens gekennzeichnet. Er ist längst nicht so häufig wie der Violette und der Rötliche. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/laccaria-bicolor-zweifarbiger-lacktrichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_ionochlora_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Papageitäubling *Russula ionochlora*. Man könnte ihn auf den ersten Blick für einen schmächtigen Frauentäubling halten, dessen biegsame Lamellen aber nicht splittern. Der Papageitäubling ist ein guter Speisepilz, den ich wegen seines etwas festeren Fleisches mehr schätze als die üblichen Röhrlinge. Innerhalb der Täublinge bestehen Verwechslungsmöglichkeiten mit ebenfalls essbaren Arten, z. B. mit Reiftäublingen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
 
 <div style="clear:  both"></div>
 
