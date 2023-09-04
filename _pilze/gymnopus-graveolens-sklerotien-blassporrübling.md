@@ -12,7 +12,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/gymnopus_graveolens_01_dg.jpg
-  legende: "20. September 2022, Parkanlage in Dietzenbach (Carré Rodgaustraße), TK 5948.4.3"
+  legende: 20. September 2022, Parkanlage in Dietzenbach (Carré Rodgaustraße), TK
+    5948.4.3
 literatur:
   - text: "ANTONIN, V. & NOORDELOOS, M.E. (2010): A monograph of marasmioid and
       collybioid fungi in Europe: 226-230. – IHW-Verlag, Eching"
@@ -79,3 +80,5 @@ Bei der Bestimmung der Gattung unseres Fundes hatte man zu beantworten, ob die B
 Die siderophile Granulation in den Basidien und Basidiolen war mir bisher für Arten der Gattung Gymnopus nicht bekannt.\
 Beim Trocknen dunkeln die Fruchtkörper stark nach, insbesondere die Lamellen, so dass man, im Zusammenhang mit der Siderophilie der Basidien, den Eindruck einer schwärzenden *Lyophyllum*art haben könnte.\
 Das Vorhandensein von Sklerotien konnte leider nicht untersucht werden, da zum Zeitpunkt der Artbestimmung keine Fruchtkörper mehr am Fundort aufzufinden waren.
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
