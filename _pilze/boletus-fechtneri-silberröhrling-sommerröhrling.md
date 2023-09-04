@@ -28,4 +28,4 @@ Der Silberröhrling ist eine sowohl für Baden-Württemberg als auch für Deutsc
 
 Unsere Art bevorzugt wärmebegünstigte Laub- oder Mischwälder und geht eine [Mykorrhiza](Mykorrhiza "Glossar") mit Laubbäumen, vorzugsweise der Rotbuche ein. Er scheint Kalkböden zu bevorzugen.
 
-Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
