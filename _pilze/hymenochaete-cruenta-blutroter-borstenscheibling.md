@@ -34,4 +34,6 @@ Der Blutrote Borstenscheibling erscheint zunächst in Form kleiner Flecken, die 
 {% include bild.html datei="/bilder/hymenochaete_cruenta_05_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Mikromerkmale Hymenochaete cruenta: links Sporen (in Phloxin, 7 x 2,5 µm) --  rechts Seten   (2 Mikrofotos: Bernd Miggel)" %}
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+
 Der bekannteste und mit Abstand häufigste Vertreter der Gattung Hymenochaete ist die [Umberbraune Borstenscheibe](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe), die überall vorkommt, wo es Eichen gibt.
