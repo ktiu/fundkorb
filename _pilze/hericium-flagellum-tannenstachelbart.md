@@ -23,3 +23,5 @@ Pilzfreunde in Regionen, in denen [die Weißtanne fehlt](< http://www.pilze-deut
 [Ästiger Stachelbart Hericium coralloides](/pilze/hericium-coralloides-ästiger-stachelbart) (sieht dem Tannenstachelbart sehr ähnlich)\
 [Igel-Stachelbart Hericium erinaceum](/pilze/hericium-erinaceum-igel-stachelbart) (sieht aus wie die Frisur eines Bobtails)\
 [Dorniger Stachelbart Hericium cirrhatum](https://fundkorb.de/pilze/hericium-cirrhatum-dorniger-stachelbart) (war früher in einer eigenen Gattung)
+
+Belege (Exsikkate) des Tannenstachelbarts sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
