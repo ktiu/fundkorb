@@ -44,3 +44,5 @@ Die Sporen sind kugelig, glatt, dünnwandig und mit kurzen [Sterigmen](Sterigmen
 {% include abbildung_ende.html legende="Sporen, präpariert in Phloxin" %}
 
 Verwechslungsmöglichkeiten: Der Ockergraue Riesenstreifling *Amanita lividopallescens* ist in der Fruchtkörpergröße und auch im Habitat vergleichbar. Seine Volva ist allerding wesentlich fester. Sie präsentiert sich als bis zu 6 cm hohe, lappige, weißliche bis hellbräunliche, mitunter rostfleckige Scheide, in die der Stiel wie eingepfropft erscheint. Mikroskopisch besteht die Volva überwiegend aus Hyphen; Sphärozysten sind anteilig weniger vorhanden.
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
