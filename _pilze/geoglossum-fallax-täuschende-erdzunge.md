@@ -79,3 +79,5 @@ Beachtet man lediglich Form und Farbe der Fruchtkörper, sind auch Verwechslunge
 
 **Funddaten der hier abgebildeten Kollektion:**\
 Am 18. und 21.11.2021 auf kurz gehaltener z. T. moosiger Rasenfläche im Campus Heusenstamm (Landkreis Offenbach) TK 5918.2.4 (leg. Dieter Gewalt, det. Bernd Miggel)
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
