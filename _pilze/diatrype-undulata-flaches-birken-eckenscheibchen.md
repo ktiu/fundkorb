@@ -38,3 +38,5 @@ In Baralscher Kösung färbt sich die Ascusspitze ganz schwach bläulich, d.h. d
 **[Diatrype stigma](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen):** Stroma flach, rußschwarz, Rand schwarz. Ostiolen klein, mit bloßem Auge nicht erkennbar. Substrat: Eiche. Nicht häufig.
 
 **Diatrype undulata** (die hier beschriene Art): Stroma dicklich-wulstig, rußschwarz, Rand steil und geschwungen, schwarz. Ostiolen deutlich größer, mit bloßem Auge gerade so erkennbar. Substrat: Birke. Selten.
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
