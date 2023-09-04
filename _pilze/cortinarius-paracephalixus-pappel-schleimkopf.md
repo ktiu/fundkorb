@@ -49,3 +49,5 @@ Die Sporen sind groß, bräunlich, im Umriss mandelförmig und mittelstark warzi
 {% include bild.html datei="/bilder/cortinarius_paracephalixus_05_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/cortinarius_paracephalixus_06_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Foto links: Lichtmikroskopische Aufnahme der im Umriss mandelförmigen Sporen  --  rechts: REM-Aufnahme von Sporen mit ca. 11,5 µm Länge" %}
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
