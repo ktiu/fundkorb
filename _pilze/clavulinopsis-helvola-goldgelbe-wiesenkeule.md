@@ -34,3 +34,5 @@ Für eine sichere Bestimmung ist Mikroskopieren unerlässlich. Die [Basidien](Ba
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/clavulinopsis_helvola_06_bm.jpg" %}
 {% include abbildung_ende.html legende="Hyphen mit Schnallen  (3 Mikrofotos von Bernd Miggel)" %}
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
