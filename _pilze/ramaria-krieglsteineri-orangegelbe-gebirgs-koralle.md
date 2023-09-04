@@ -46,7 +46,7 @@ Die Basidien sind schlankkeulig und besitzen vier Sterigmen. An den Basidienbase
 {% include bild.html datei="/bilder/ramaria_krieglsteineri_08_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Basidien und Basidiolen -- Hyphen der Asttrama -- Basalmyzel (Die Pfleile zeigen auf Schnallen)" %}
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/ramaria_krieglsteineri_09_bm.jpg" %}
 {% include abbildung_ende.html legende="Basalmyzel, der Pfeil zeigt auf einen ampulliformen Septenübergang" %}
 
