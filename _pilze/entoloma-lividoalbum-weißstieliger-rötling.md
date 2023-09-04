@@ -33,3 +33,5 @@ Maße von 41 repräsentativen Sporen bei 95 prozentiger Wahrscheinlichkeit: L x 
 Hinweis zum Ausmessen von Rötlings-Sporen: Man legt von außen ein gedachtes Rechteck an die jeweilige Spore und misst die Seitenlängen des Rechtecks. 
 
 **Ähnliche Arten:** Der [Schildrötling *Entoloma clypeatum*](/pilze/entoloma-clypeatum-schildrötling) wächst im Frühjahr und pflegt eine Mykorrhiza mit Obstbäumen oder -sträuchern. Ansonsten gibt es keine wesentlichen Unterschiede. Ähnlich ist auch der [Schlehenrötling *Entoloma sepium*](/pilze/entoloma-sepium-schlehenrötling).
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
