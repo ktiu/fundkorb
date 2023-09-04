@@ -53,3 +53,5 @@ Flächige Eckenscheibchen werden häufig vom [Aufsitzenden Pustelpilz Nectria ep
 **[Diatrype undulata](/pilze/diatrype-undulata-flaches-birken-eckenscheibchen)**: Stroma dicklich-wulstig, rußschwarz, Rand steil und geschwungen, schwarz. Ostiolen deutlich größer, mit bloßem Auge gerade so erkennbar. Substrat: Birke. Selten.
 
 Es ist davon auszugehen, dass Verbreitungskarten von *Diatrype stigma* und auch Fundlisten häufig fehlerhaft sind, da die Art von Kartierern nicht von den beiden anderen unterschieden worden sind und noch werden. In *Breitenbach & Kränzlin (Pilze der Schweiz, Band 1, Nr. 358)* wird das Flächige Eckenscheibchen als einzige bei uns vorkommende Diatrype-Art benannt, die ein flächiges Stroma bildet, was nicht nur nach neueren Erkenntnissen falsch ist.
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
