@@ -18,7 +18,7 @@ Das Foto zeigt die Nebenfruchtform des Zinnoberroten Pustelpilzes. In oder an ih
 
 In der Gattung Nectria gibt es einige weitere Arten, die alle sehr klein sind, sich aber durch ihre Form und Substratbindung unterscheiden. Bei Breitenbach & Kränzlin sind folgende sieben Arten beschrieben:
 
-Nectria coccinea = Scharlachrotes Pustelpilzchen (an Laubholzästen u. -stämmen, verbreitet)\
+[Nectria coccinea = Scharlachrotes Pustelpilzchen](/pilze/nectria-coccinea-scharlachrotes-pustelpilzchen) (an Laubholzästen u. -stämmen, verbreitet)\
 Nectria coryli = Hasel-Pustelpilz (selten)\
 [Nectria episphaeria = Aufsitzender Pustelpilz](/pilze/nectria-episphaeria-aufsitzender-pustelpilz) (auf Pyrenomyzeten, v. a. Diatrype stigma, häufig)\
 Nectria fuckeliana = Nadelholz-Pustelpilz (nicht häufig)\
