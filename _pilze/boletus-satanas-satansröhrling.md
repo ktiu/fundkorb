@@ -35,3 +35,5 @@ Die dickfleischigen Hüte des Satansröhrlings erreichen Durchmesser von bis zu 
 Satansröhrlinge bevorzugen kalkhaltige Böden an wärmebegünstigten Standorten. [Mykorrhizapartner](Mykorrhiza "Glossar") ist in erster Linie die Buche (Fagus sylvatica). Nachdem die sehr artenreiche Gattung der Dickröhrlinge in zahlreiche kleinere Gattungen aufgesplittet worden ist, gehört der Satansröhrling als Rubroboletus satanas zu den Purpurröhrlingen.
 
 Der Satansröhrling war Pilz des Jahres 1999. Es lohnt sich, die aus diesem Anlass von der DGfM publizierte Darstellung aufzurufen. Link: <https://www.dgfm-ev.de/pilz-des-jahres/1999-satansroehrling>
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
