@@ -34,9 +34,9 @@ Unter den Champignons mit schuppigem Hut gibt es auch einige giftige Arten, die 
 
 **Andere braunschuppige Champignons:**
 
-Agaricus fuscofibrillosus = Braunstieliger Blut-Egerling, Großer Laubwaldegerling  
-Agaricus langei = Großer Waldchampignon  
-[Agaricus moelleri](/pilze/agaricus-moelleri-perlhuhn-egerling) = Perlhuhnegerling (gehört zu den giftigen Karbolchampignons)  
-Agaricus phaeolepidotus = Rebhuhnegerling (gehört zu den giftigen Karbolchampignons)  
-Agaricus silvaticus = Waldchampignon, Kleiner Blut-Egerling  
-Agaricus subperonatus = Gegürtelter Champignon  
+Agaricus fuscofibrillosus = Braunstieliger Blut-Egerling, Großer Laubwaldegerling\
+Agaricus langei = Großer Waldchampignon\
+[Agaricus moelleri](/pilze/agaricus-moelleri-perlhuhn-egerling) = Perlhuhnegerling (gehört zu den giftigen Karbolchampignons)\
+Agaricus phaeolepidotus = Rebhuhnegerling (gehört zu den giftigen Karbolchampignons)\
+[Agaricus silvaticus](/pilze/agaricus-silvaticus-waldchampignon-kleiner-blut-egerling) = Waldchampignon, Kleiner Blut-Egerling\
+Agaricus subperonatus = Gegürtelter Champignon
