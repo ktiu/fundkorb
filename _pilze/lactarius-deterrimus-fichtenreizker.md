@@ -73,4 +73,6 @@ Bei der Bestimmung von Milchlingen spielt die Huthautstruktur eine wichtige Roll
 {% include bild.html datei="/bilder/lactarius_deterrimus_12_bm.jpg" %}
 {% include abbildung_ende.html %}
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+
 **Wichtig zu wissen:** Der Fichtenreizker wurde erstmalig 1968 von F. Gröger gültig beschrieben. Erst seine Arbeit schaffte Klarheit in den  Abgrenzungen der bei uns fünf häufigsten Reizkerarten  ([L. deliciosus](/pilze/lactarius-deliciosus-edelreizker), L. deterrimus, L. sanguifluus, L. semisanguifluus, [L. salmonicolor](/pilze/lactarius-salmonicolor-lachsreizker)).
