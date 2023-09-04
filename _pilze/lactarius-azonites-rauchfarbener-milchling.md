@@ -67,6 +67,8 @@ Die Huthaut besteht aus einer Schicht sogenannter *„pseudoparenchymatischer Hy
 {% include bild.html datei="/bilder/lactarius_azonites_07_hmk.jpg" %}
 {% include abbildung_ende.html legende="Aquarell von E. W. Ricek aus Michael/Hennig/Kreisel: Handbuch für Pilzfreunde Band V" %}
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 **Änliche Arten:**
 
 **Rosaanlaufender Milchling** (*Lactarius acris*). Der Hut ist sehr schleimig, die Milch verzögert sehr scharf und verfärbt sich auch ohne Kontakt mit dem Fleisch rosa.\
