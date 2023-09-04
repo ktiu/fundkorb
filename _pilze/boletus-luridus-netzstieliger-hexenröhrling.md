@@ -40,3 +40,5 @@ Dass nahezu alle Pilze roh giftig sind (als Ausnahmen merke man sich Zuchtchampi
 {% include abbildung_ende.html legende="Sporen des Netzstieligen Hexenröhrlings (REM-Foto: Stefan Diller)" %}
 
 Zum Schluss noch eine Anmerkung zur Taxonomie. Vorerst belasse ich es im *Fundkorb* bei den traditionell für *Boleten* gebräuchlichen Namen, hier also *Boletus luridus*. Beim neuen Gattungsnamen *Suillellus* bekomme ich schon beim Lesen einen Knoten in die Zunge und muss unwillkürlich an Röhrlinge mit schmierigen Hüten denken, was bei den Netzhexen gewiss nicht der Fall ist. Den meisten Pilzfreunden ist es auch schwerlich zu vermitteln, dass sein Zwillingsbruder, der Flockenstielige Hexenröhrling, jetzt nicht mehr zur näheren Verwandtschaft gehören soll. Dieser wird jetzt *Neoboletus erythropus* genannt.
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
