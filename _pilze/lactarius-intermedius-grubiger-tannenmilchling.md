@@ -40,6 +40,8 @@ Die Stiele sind kurz, stämmig und hart, anfangs voll, später ausgehöhlt, wei�
 {% include bild.html datei="/bilder/lactarius_intermedius_05_bm.jpg" %}
 {% include abbildung_ende.html legende="Sporen breitellipsoid, warzig-gratig-teilnetzig, ca. 8,5 x 7,0 µm" %}
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+
 **Ähnliche Arten:**
 
 Der *Grubige Milchling Lactarius scrobiculatus (Scop.) Fr.* besitzt einen konzentrisch gezonten, am Rand zottig behaarten Hut. Durch die dunkleren, angedrückten Schuppen wirkt der Hut insgesamt dunkler. Auch die Lamellen sind deutlich dunkler als bei der hier vorgestellten Art. Schließlich geht  der Grubige Milchling eine [Mykorrhiza](Mykorrhiza "Glossar") mit der Fichte ein.
