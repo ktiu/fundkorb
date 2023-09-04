@@ -12,8 +12,20 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin: Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und seine Pilze**  
+Neuer Exkursionstermin: Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und seine Pilze**\
 [Hier geht's zur Anmeldung -->](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/psathyrella_piluliformis_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wässrige Mürbling *Psathyrella piluliformis*, der nicht umsonst auch Weißstieliges Stockschwämmchen genannt wird. Erstens, weil er stets ein weißes Stielchen hat. Zweitens, weil er ein guter Speisepilz ist. Ihn zu sammeln kann aber nur erfahrenen Pilzsammlern empfohlen werden. Sie erkennen ihn auch an den glanzlosen dunkelbraunen Hüten, die aber stark [hygrophan](hygrophan "Glossar") sind. Und an seinem meist massenhaft dichtbüscheligen Vorkommen an Totholz. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/psathyrella-piluliformis-wässriger-mürbling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und se
 03.09.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus Hanau. *Martina Urich* hat einen Fund des Grünen Anistrichterlings *Clitocybe odora* in einem Wäldchen am Stadtrand gemeldet. Die Hüte dieses Pilzes müssen übrigens nicht immer schön grün gefärbt sein. Nicht umsonst wird er auch Grünblauer Anistrichterling genannt. Zwei andere nach Anis riechende Arten der Gattung haben andere Farben.
 
 [Mehr lesen >](/pilze/clitocybe-odora-grüner-anistrichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/laccaria_bicolor_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.09.2023: Die Lacktrichterlinge sind eine sehr übersichtliche Gattung. In Mitteleuropa sind fünf Arten verbreitet. Alle fünf sind essbar und gute Speisepilze. Der Zweifarbige Lacktrichterling *Laccaria bicolor*, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), ist durch den Kontrast zwischen rötlicher Hutoberfläche und violettlichen Lamellen bestens gekennzeichnet. Er ist längst nicht so häufig wie der Violette und der Rötliche. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/laccaria-bicolor-zweifarbiger-lacktrichterling)
 
 <div style="clear:  both"></div>
 
