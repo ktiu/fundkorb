@@ -55,3 +55,5 @@ Im Frankfurter Hauptfriedhof stehen zahlreiche Zedern in einer langen Reihe entl
 {% include abbildung_ende.html legende="Ascus und Spore 35 x 15 µm (2 Mikrofotos von Bernd Miggel)" %}
 
 Anfang April 2022 meldete *Adam Adamomicz* den Fund eines Sandborstlings in einem parkähnlichen Gelände im Gewerbegebiet von Heusenstamm (TK 5918.2.4) und gab als einzigen Begleitbaum eine nicht näher identifizirte Zierfichte an. Der entnommene Fruchtkörper wurde von *Bernd Miggel* untersucht, der ihn mit dem Schlüssel von *ASCOfrance* in wenigen Schritten als *Geopora sumneriana* bestimmen konnte. Maßgeblich waren die großen Sporen mit 2 Tropfen und die Größe der [Apothezien](Apothezien "Glossar"). Da sich in Fundnähe definitiv keine Zeder befindet, musste es es sich bei der vermeintlichen Zierfichte um eine Eibe gehandelt haben. Damit ist mir im Rhein-Main-Gebiet nach inzwischen zahlreichen Funden bei *Cedrus* erstmals ein Vorkommen bei *Taxus* bekannt geworden.
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
