@@ -79,3 +79,5 @@ gelangte er in drei Schritten zu *Daldinia childiae.*
 {% include bild.html datei="/bilder/daldinia_childiae_14_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/daldinia_childiae_15_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Foto links: Exostroma mit KOH 10%  --  Foto rechts: Sporen (beide von Bernd Miggel)" %}
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
