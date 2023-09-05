@@ -31,6 +31,8 @@ Die innere Porenwand ist von zahllosen, dicht an dicht liegenden, spitzen Dornen
 {% include bild.html datei="/bilder/phellinus_laevigatus_04_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Abb. links: Hymenial-Setae -- Abb. rechts: Schnitt durch eine Porenwand" %}
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+
 **Ähnliche Feuerschwammarten:**\
 Der [Polsterförmige Feuerschwamm Fomitiporia punctata](/pilze/phellinus-punctatus-polsterförmiger-feuerschwamm) sieht vergleichbar aus, wächst jedoch an Weide.\
 Der [Konsolenförmige Birkenfeuerschwamm Phellinus lundellii](/pilze/phellinus-lundellii-konsolenförmiger-birkenfeuerschwamm) wächst zwar ebenfalls an Birkenholz, besitzt jedoch einen von der Porenschicht abgesetzten, schwarzen Hutbereich.
