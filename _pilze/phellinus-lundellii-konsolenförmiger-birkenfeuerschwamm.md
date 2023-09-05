@@ -31,4 +31,6 @@ Die Fruchtkörperform reicht von konsolenförmig bis [resupinat](resupinat "Glos
 
 Die Poren sind mit 4 Poren pro mm recht klein; sie sind rundlich und gleichmäßig verteilt. Ein Schnitt durch das [Hymenium](Hymenium "Glossar") und die darunter liegende [Hyphenschicht](Hyphen "Glossar") zeigt oben die Hymenialschicht mit 4-sporigen [Basidien](Basidien "Glossar") und dornenförmigen [Hymenialseten](Seten "Glossar"). Darunter die [Trama](Trama "Glossar") mit parallel bis schräg verlaufenden, dickwandigen Skeletthyphen.
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart)
+
 Ebenfalls an Birke wächst der [Birken-Feurschwamm Phellinus laevigatus](/pilze/phellinus-laevigatus-birken-feuerschwamm).
