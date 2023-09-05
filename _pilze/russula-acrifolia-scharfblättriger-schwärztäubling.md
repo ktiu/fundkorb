@@ -50,6 +50,8 @@ Der Scharfblättrige Schwärztäubling wächst vom Sommer bis in den Spätherbst
 {% include bild.html datei="/bilder/russula_acrifolia_03_mhk.jpg" %}
 {% include abbildung_ende.html legende="Russula acrifolia, Tafel aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V, VEB Gustav Fischer Verlag - Jena (1983)" %}
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 Aus der Gruppe der Schwärztäublinge sind im Fundkorb außerdem beschrieben:
 
 [Dickblättriger Schwärztäubling = Russula nigricans](/pilze/russula-nigricans-dickblättriger-schwärztäubling)  
