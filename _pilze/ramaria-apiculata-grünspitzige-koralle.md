@@ -24,6 +24,8 @@ Die Fruchtkörper waren bis zu 5 cm hoch, die Äste cremefarben, hellbräunlich,
 {% include bild.html datei="/bilder/ramaria_apiculata_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 Ähnliche Arten:\
 Die Grünfleckige Fichtenkoralle *Ramaria abietina* besitzt eine ähnliche Größe, ist allerdings komplett gelbgrün bis grüngelb gefärbt und wächst nicht an Holz, sondern in der Nadelstreu.  
 Bei der Bestimmung von Ramaria-Arten ist zu beachten, dass es sich um eine schwierige Gattung handelt. Ohne mikroskopische Untersuchungen und Beiziehung spezieller Fachliteratur geht da nur wenig.  Nur sehr wenige Arten sind makroskopisch zweifelsfrei zu erkennen.
