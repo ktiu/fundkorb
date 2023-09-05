@@ -59,6 +59,8 @@ Mikroskopische Merkmale:
 
 Wie alle scharf schmeckenden Täublinge ist auch *Russula farinipes* für Speisezwecke völlig ungeeignet.
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_farinipes_03_mhk.jpg" %}
 {% include abbildung_ende.html legende="Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V" %}
