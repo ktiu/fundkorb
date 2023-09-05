@@ -108,3 +108,5 @@ Außerdem färbt sich die Unterseite von Stereum subtomentosum beim Reiben mit b
 {% include bild.html datei="/bilder/stereum_insignitum_02_wp.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/stereum_insignitum_05_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Foto oben: Werner Pohl -- Foto unten: Bernd Miggel" %}
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
