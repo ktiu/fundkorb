@@ -37,3 +37,5 @@ An Bestimmungsliteratur wurde verwendet:\
 Anmerkung von Hermine Lotz-Winter:
 
 > Lt. Schumacher hat Scutellinia scutellata länglichere und gröber warzige Sporen. Bei Huijser und auch Schumacher wird diskutiert, ob S. crinita eventuell nur eine Form von S. scutellata ist. Die derzeit verfügbaren molekularen Daten legen nahe, dass es sich um zwei verschiedene Arten handelt."
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
