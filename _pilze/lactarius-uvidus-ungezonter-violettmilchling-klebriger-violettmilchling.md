@@ -42,6 +42,8 @@ Die **Sporen** messen im Mittel 8,9-9,8 x 7,3-7,9 µm, der mittlere Schlankheits
 
 Der Ungezonte oder Klebrige Violettmilchling *Lactarius uvidus* ist eine Art feuchter bis nasser, saurer Standorte. Man findet ihn insbesondere in sauren Mooren. Seine [Mykorrhizapartner](Mykorrhiza "Glossar") sind Fichten, Birken und möglicherweise Weiden.
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+
 **Verwechslungsmöglichkeiten** mit violett milchenden Arten mit ähnlich gefärbten Fruchtkörpern:\
 ***Lactarius luridus*** besitzt eine wesentlich dünnere Schleimschicht, der Hut ist mithin im feuchten Zustand nur leicht klebrig. Außerdem ist der Hut dunkler und durch Wasserflecken konzentrisch gezont.\
 ***Lactarius violascens*** wächst bei Quercus (Eiche) und Carpinus (Hainbuche) und ist eine Art der Kalklaubwälder. Sein Hut ist mitunter konzentrisch gezont und bei feuchtem Wetter nur klebrig. Bei Verletzung werden die Fruchtkörper dunkel purpurfarben, also viel dunkler als die von L. uvidus.
