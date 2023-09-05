@@ -48,4 +48,6 @@ Der Sporenstaub ist olivbraun. Die Sporen sind spindelförmig mit subapikaler De
 {% include bild.html datei="/bilder/xerocomus-ferrugineus_07_bm.jpg" %}
 {% include abbildung_ende.html %}
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+
 Der wesentliche Unterschied zur Ziegenlippe besteht im deutlich grob genetzten Stiel. Bei der Ziegenlippe ist die Netzzeichnung nur schwach angedeutet. Ihr Fleisch ist nicht weiß oder weißlich, sondern deutlich gelb oder gelblich. Beim Zusammendrücken oder im Schnitt blauen Fleisch und Röhren der Ziegenlippe beim Braunen Filzröhrling nicht.
