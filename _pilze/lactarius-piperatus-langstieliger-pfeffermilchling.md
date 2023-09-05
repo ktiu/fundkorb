@@ -40,6 +40,8 @@ Die Pfeffermilchlinge sind von mittlerer Größe. Ihre Hüte werden allenfalls 1
 
 Die oberste Schicht der Huthaut besteht bei einem ausgewachsenen Fruchtkörper aus einem nur 10 - 30 µm dicken [Hyphoepithelium](Hyphoepithelium "Glossar"). Die Sporen sind ellipsoid, einige deutlich länglich, andere geradezu abgerundet rechteckig. Sie besitzen ein sehr niedriges, warzig-gratig-teilnetziges Ornament. Der [Hilarfleck](Hilarfleck "Glossar") ist nicht [amyloid](amyloid "Glossar"). Messwerte: Länge x Breite 7,7-8,0 x 5,5-5,8 µm;  Schlankheitsgrad = Länge / Breite = 1,36 -1,44.
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+
 Ähnliche Arten:
 Die beiden Wollmilchlings-Arten *[Lactarius vellereus](/pilze/lactarius-vellereus-wolliger-milchling-erdschieber)* und *Lactarius bertillonii* besitzen etwa die gleiche Farbe, werden jedoch deutlich größer. Außerdem sind ihre Lamellen breiter, dicker und stehen weiter entfernt.\
 Beim Grünenden Pfeffermilchling Lactarius pergamenus ist die oberste Schicht der Huthaut mit 60-90 µm wesentlich dicker. Nach der gängigen Fachliteratur verfärbt sich das Fleisch von Lactarius pergamenus an der Luft grünlich, und die Milch wird mit Kalilauge orangegelb. Siehe dazu jedoch die Zusatznotiz weiter unten!\
