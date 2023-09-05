@@ -23,4 +23,6 @@ Bei der Bestimmung der gelblichen, fleisch- oder lachsfarbenen Korallenpilzarten
 {% include bild.html datei="/bilder/ramaria_flavescens_03_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Sporen der mit wulstig-warzigem Ornament, präpariert in Baumwollblau  --  Generative Hyphen mit Schnallen, präpariert in Kongorot; an vielen Septen der generativen Hyphen befinden sich Schnallen (Übergänge zwischen zwei benachbarten Hyphenabschnitten), ein wichtiges Merkmal der Gelblichen Koralle" %}
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 Bei der Bestimmung von Ramaria-Arten ist zu beachten, dass es sich um eine schwierige Gattung handelt. Ohne mikroskopische Untersuchungen und Beiziehung spezieller Fachliteratur geht da nur wenig.  Nur sehr wenige Arten sind makroskopisch zweifelsfrei zu erkennen.
