@@ -59,6 +59,8 @@ Sein Hut wird 6 - 16 cm breit, ist jung kugelig, dann ausgebreitet und am Rand g
 
 Der Morsetäubling ist in Deutschland mäßig verbreitet, im Norden nahezu fehlend, im Süden häufiger. Er bevorzugt ärmere, aber kalkhaltige Böden und ist von Juli bis Oktober in Laubwäldern überwiegend bei Buchen, sehr selten auch in Nadelwäldern zu finden.
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+
 Andere Stinktäublinge (*Foetentinae*) sind:\
 [Russula  farinipes = Mehlstieltäubling](/pilze/russula-farinipes-mehlstieltäubling) (der nicht so recht in diese Gruppe passt sondern isoliert in der Untersektion *Farinipedes* geführt wird)\
 [Russula  foetens = Stinktäubling](/pilze/russula-foetens-stinktäubling)\
