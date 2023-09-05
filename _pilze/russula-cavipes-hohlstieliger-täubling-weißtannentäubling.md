@@ -46,4 +46,6 @@ Mit Hutduchmessern von normalerweise 2 bis 7 cm gehört er zu den eher kleineren
   </table>
 </div>
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 Sehr scharfe Fruchtkörper könnte man leicht für den Wechselfarbigen Speitäubling *Russula fragilis* halten, der jedoch saure und sandige Böden in Mischwäldern bevorzugt. Bei mildem Geschmack sind auch Verwechslungen mit anderen ähnlich gefärbten Täublingen möglich, z. B. mit *Russula amthystina* oder *Russula amoena*.
