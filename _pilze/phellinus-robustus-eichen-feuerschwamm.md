@@ -39,6 +39,8 @@ Die Fruchtkörper des Eichen-Feuerschwamms sind mehrjährig und sehr hart. Solan
 Sporen ließen sich leider keine gewinnen. Das lag wohl daran, dass es über viele Wochen hinweg bei hoher Temperatur nicht geregnet hatte. Da die Sporen mit denen des Tannen-Feuerschwamms in Form und Größe jedoch nahezu identisch sind, kann man sich hier informieren:  
 <https://www.mikroskopie-forum.de/index.php?topic=42629.msg314275#msg314275>
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+
 **Verwechslungsmöglichkeiten:**\
 Der [**Tannen-Feuerschwamm** (*Phellinus hartigii*)](/pilze/phellinus-hartigii-tannen-feuerschwamm) wächst an Weißtanne, wird genauso groß und ist nur über den Wirt zu unterscheiden.
 Der **Sanddorn-Feuerschwamm** (*Phellinus hippophaicola*) wächst an Sanddorn und bleibt kleiner. In den sonstigen Merkmalen unterscheidet er sich ebenfalls nicht.
