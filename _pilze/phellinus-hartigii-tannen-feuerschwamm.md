@@ -43,6 +43,8 @@ Das [Hyphensystem](Hyphen "Glossar") ist dimitisch, mit 2-4 µm breiten, [hyalin
 {% include bild.html datei="/bilder/phellinus_hartigii_05_bm.jpg" %}
 {% include abbildung_ende.html legende="Abb. links: Poren rundlich-eckig, sehr fein, 4 - 5 pro mm -- Abb. rechts: Porenauskleidung mit dünnwandigen, hyalinen generativen Hyphen sowie englumige braune Skeletthyphen; Präparat in SDS-Kongorot" %}
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+
 **Verwechslungsmöglichkeiten:**
 
 Der **[Eichen-Feuerschwamm (Phellinus robustus)](/pilze/phellinus-robustus-eichen-feuerschwamm)** wächst an Eiche, wird genauso groß und ist nur über den Wirt zu unterscheiden.\
