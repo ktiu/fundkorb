@@ -50,6 +50,8 @@ Verwechslungen sind mit anderen gelbhütigen Täublingen möglich, vor allem mit
   </table>
 </div>
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 Alle Graustieltäublinge sind essbar. Dies sind:\
 **Russula claroflava** = Gelber Graustieltäubling\
 [**Russula decolorans** = Orangeroter Graustieltäubling](/pilze/russula-decolorans-orangeroter-graustieltäubling)\
