@@ -59,6 +59,8 @@ Der Goldtäubling ist eine seltene und streng geschützte Art, die von Juli bis 
 
 Der Goldröhrling steht als einzige Art in der monotypischen Sektion *Aurantinae* (der "Orangefarbigen"), jedoch scheint hier die Systematik noch nicht endgültig geklärt zu sein. Zu erwähnen wäre eine von *Romagnesi* beschriebene Form (*f. axantha*), die keine Gelbtöne am Hut, vor allem aber auch keine gelb gefärbten Lamellenschneiden hat.
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_aurea_04_mhk.jpg" %}
 {% include abbildung_ende.html legende="Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V" %}
