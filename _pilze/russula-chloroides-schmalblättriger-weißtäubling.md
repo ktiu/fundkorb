@@ -73,6 +73,8 @@ Das Sporenpulver ist weißlich, etwa Ib nach der Farbtabelle in MARXMÜLLER (201
 {% include bild.html datei="/bilder/russula_chloroides_07_bm.jpg" %}
 {% include abbildung_ende.html legende="Die höchsten Warzen und Grate erreichen 1,3 - 1,5 µm" %}
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 **Verwechslungsmöglichkeiten:**
 
 Der **[Gemeine Weißtäubling Russula delica](/pilze/russula-delica-gemeiner-weißtäubling)** wächst gerne außerhalb des Waldes, ist größer, besitzt entfernter stehende, breitere Lamellen, die meines Wissens nie einen bläulichgrünen Schimmer aufweisen. Zudem sind die Sporenornamente deutlich niedriger.\
