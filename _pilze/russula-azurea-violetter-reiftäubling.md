@@ -52,4 +52,6 @@ Es handelt sich um einen relativ kleinen Pilz mit Hutdurchmessern von 3 bis 8 cm
   </table>
 </div>
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 Verwechselt werden könnte er mit einem weiteren Reiftäubling, dem sehr viel häufigeren vor allem in Laubwäldern vorkommenden [Blaugrünen Reiftäubling Russula parazurea](/pilze/russula-parazurea-blaugrüner-reiftäubling) oder mit dem noch häufigeren [Papageitäubling Russula ionochlora](/pilze/russula-ionochlora-papagei-täubling). Verwechslungen wären unbedenklich, da es sich bei allen drei Arten um ausgezeichnete Speisepilze handelt.
