@@ -94,5 +94,7 @@ Vorgehensweise: Ein winziges Huthautfragment wird für 2 Min. in Karbolfuchsin g
 Sporen von Täublingen und Milchlingen untersucht man in Melzers Reagenz.  Diese Flüssigkeit ist jodhaltig und färbt die stärkehaltigen Sporenornamente blauschwarz. Die Sporen unserer Art sind ellipsoid, teils isoliert warzig, teils gratig, teils sind die Warzen duch Grate oder schmale Linien verbunden. Auch findet man Bereiche mit zebraartig gestreifter Ornamentation. Ornamente und [Hilarfleck](Hilarfleck "Glossar") sind stark [amyloid](amyloid "Glossar"). Gemessen werden die Sporen ohne ihre Ornamente.\
 Es ergaben sich mit 95-prozentiger Wahrscheinlichkeit für 22 zufällig ausgewählte, repräsentative Sporen folgende Hochrechnungen: L x B = 6,9-8,5 x 5,2-6,5 µm (Qav = 1,28 - 1,35); Lav x Bav = 7,5-7,8 x 5,7-6,0 µm (Vav = 128-146 µm3)
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+
 **Verwechslungsmöglichkeiten:**\
 In Mitteleuropa und wahrscheinlich auch in Deutschland gibt es etwa dreißig rothütige Täublingsarten. Sehr ähnlich, man könnte sagen „eine Zwergausgabe“ der hier beschriebenen Art, ist der Kleine Rosatäubling (*Russula minutula*). Verwechselbar wären wohl auch der Rotbereifte Täubling (*Russula roseipes*) und der Rubinrote Täubling (*Russula zvarae*), zwei offenbar sehr seltene Arten.
