@@ -39,6 +39,8 @@ Das Fleisch war weißlich bis grauweiß, im Hut dünnfleischig, im Stiel voll. D
 
 Der Schwarzschuppige Ritterling liebt anscheinend basenreiche, sogar kalkreiche Böden und geht eine [Mykorrhiza](Mykorrhiza "Glossar") sowohl mit Laub- als auch mit Nadelbäumen ein.
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 ##### Verwechslungsmöglichkeiten:
 
 ***Tricholoma argyraceum***, der *Gilbende Erdritterling*, hat einen konischen oder gebuckelten Hut, mehligen Geruch und bei jungen Fruchtkörpern ein deutlich sichtbares Velum. Er wächst in Mischwäldern, Parkanlagen, etc; gern bei Birken. Selten.\
