@@ -36,3 +36,5 @@ Das Hyphensystem ist monomitisch, die Hyphen sind glattwandig, hyalin, dünn bis
 {% include abbildung_ende.html legende="Monomitisches Hyphensystem mit einer Schnalle an jeder Septe" %}
 
 *Phlebia centrifuga* wird in Roten Listen als vom Aussterben bedroht geführt. In der [Verbreitungskarte der Deutschen Gesellschaft für Mykologie](https://www.pilze-deutschland.de/organismen/phlebia-centrifuga-p-karst-1881) sind nur sehr wenige Funde vermerkt, etwas gehäuft lediglich im Bayerischen Wald. Der deutsche Pilzname *Heidelbeer-Kammpilz* erscheint mir kaum nachvollziehabr zu sein. Weder Form noch Farbe und schon gar nicht der Geschmack haben etwas mit Heidelbeeren zu tun.
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
