@@ -59,6 +59,8 @@ Mikromerkmale:
 {% include bild.html datei="/bilder/russula_anthracina_03_ar.jpg" %}
 {% include abbildung_ende.html legende="Hutdeckschicht (in Wasser, Foto: Alexander Reichert)" %}
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 Andere Schwärztäublinge:\
 [**Dickblättriger Schwärztäubling** *Russula nigricans*](/pilze/russula-nigricans-dickblättriger-schwärztäubling): mit Abstand der häufigste Schwärztäubling, große Art mit auffallend dicken, breiten, entfernt stehenden und stark splitternden Lamellen\
 [**Rauchbrauner Schwärztäubling** *Rusula adusta*](/pilze/russula-adusta-rauchbrauner-täubling): mittelgroße bis große Art mit speckig glänzendem oder schmierigem Hut, die eher bräunt als schwärzt\
