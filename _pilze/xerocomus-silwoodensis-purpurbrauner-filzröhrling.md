@@ -68,3 +68,5 @@ Der Hymenialbereich setzt sich aus keuligen, 4-sporigen Basidien und zylindrisch
 Die Sporen sind glatt, relativ dickwandig, spindelförmig bis ellipsoid und besitzen eine mehr oder weniger stark ausgeprägte subapikale Depression. In Wasser erkennt man, dass sie ganz schwach gelblich sind.\
 Abgesehen von der oben erwähnten Fleischverfärbung sind zur Unterscheidung von den restlichen Xerocomusarten die genauen Sporenmaße wichtig. Eine statistische Auswertung von 50 repräsentativen Sporen, gemessen in Wasser, ergab mit einer 95-Prozent-Sicherheit: L x B = 10 - 13 x 4,3 - 5,4 µm; Lav x Bav = 11,3 - 11,7 x 4,8 - 4,9 µm; Qav = 2,23 - 2,21; Vav = 136 - 141 µm3. (L Länge, B Breite (im Profil), Q Schlankheitsgrad = L / B, V Volumen, av Mittelwert (average).\
 Die Hutdeckschicht besteht aus Ketten rundlicher, nicht ornamentierter Zellen von 5,5 - 18,5 µm Durchmesser und 19 - 110 µm Länge und oft kugeliger Terminalzelle.
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
