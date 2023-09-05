@@ -40,3 +40,5 @@ Bei der Bestimmung von Ramaria-Arten ist zu beachten, dass es sich um eine schwi
 {% include bild.html datei="/bilder/ramaria_stricta_07_dg.jpg" %}
 {% include bild.html datei="/bilder/ramaria_stricta_06_dg.jpg" %}
 {% include abbildung_ende.html legende="2 Fotos: Dieter Gewalt" %}
+
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
