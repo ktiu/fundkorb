@@ -46,7 +46,9 @@ Die Farbe des ausgefallenen **Sporenstaubs** ist bei unserer Art creme mit leich
 {% include bild.html datei="/bilder/lepista_densifolia_05_bm.jpg" %}
 {% include abbildung_ende.html legende="Sporen in KOH 3%" %}
 
-Der Dichtblättrige Rötelritterling ist eine seltene Art, die in Deutschland nur sehr zerstreut vorkommt. Sie könnte allerdings auch häufig verkannt und mit dem Laubfreund-Trichterling verwechselt worden sein. Wegen seines unangenehmen Geschmacks und weil er leicht mit giftigen Trichterlingen verwechselt werden könnte, kommt er als Speisepilz nicht in Betracht. Über seine Gattungszugehörigkeit gab es zahlreiche kontroverse Diskussionen. So war er u. a. schon bei Paxillus und Clitocybe zu finden. 
+Der Dichtblättrige Rötelritterling ist eine seltene Art, die in Deutschland nur sehr zerstreut vorkommt. Sie könnte allerdings auch häufig verkannt und mit dem Laubfreund-Trichterling verwechselt worden sein. Wegen seines unangenehmen Geschmacks und weil er leicht mit giftigen Trichterlingen verwechselt werden könnte, kommt er als Speisepilz nicht in Betracht. Über seine Gattungszugehörigkeit gab es zahlreiche kontroverse Diskussionen. So war er u. a. schon bei Paxillus und Clitocybe zu finden.
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland) 
 
 **Verwechslungsmöglichkeiten:**\
 Der Laubfreund-Trichterling (*Clitocybe phyllophila*) ist unserer Art zum Verwechseln ähnlich. Auch Erscheinungszeit und Habitat sind vergleichbar. Jedoch sind beim Laubfreund-Trichterling die Lamellen mit dem Hutfleisch verwachsen und die Sporen sind völlig glatt.\
