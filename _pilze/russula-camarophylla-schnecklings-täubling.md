@@ -62,6 +62,8 @@ Es handelt sich um einen extrem seltenen, in Laub- und Nadelwäldern vorkommende
 {% include bild.html datei="/bilder/russula_camarophylla_06_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Foto links: Verschleimte Hutdeckschicht, 300 - 400 µm dick, darunter die aus Sphaerozysten bestehende Huttrama -- Foto rechts: Zupf-/Quetschpräparat der Hutdeckschicht in NH3-Kongorot" %}
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 Verwechslungen sind aufgrund der ungewöhnlichen Beschaffenheit (Habitus und Farbe) dieses Täublings durchaus mit dem [Trockenen Schneckling *Hygrophorus penarius*](/pilze/hygrophorus-penarius-trockener-schneckling) denkbar. Eine Überprüfung der typischen Täublingseigenschaften (brüchiges Fleisch, splitternde Lamellen) würde allerdings leicht für Klärung sorgen.
 
 <div class="table-responsive">
