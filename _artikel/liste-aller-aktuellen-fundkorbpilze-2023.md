@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-05.09.2023: [Psathyrella piluliformis - Wässriger Mürbling](/pilze/psathyrella-piluliformis-wässriger-mürbling)  
+06.09.2023: [Leccinum quercinum - Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)  
+05.09.2023: [Psathyrella piluliformis - Wässriger Mürbling](/pilze/psathyrella-piluliformis-wässriger-mürbling)\
 04.09.2023: [Lactarius azonites - Rauchfarbener Milchling](/pilze/lactarius-azonites-rauchfarbener-milchling)\
 03.09.2023: [Clitocybe odora - Grüner Anistrichterling](/pilze/clitocybe-odora-grüner-anistrichterling)\
 02.09.2023: [Laccaria bicolor - Zweifarbiger Lacktrichterling](/pilze/laccaria-bicolor-zweifarbiger-lacktrichterling)\
