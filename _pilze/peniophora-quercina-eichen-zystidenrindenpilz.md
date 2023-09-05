@@ -23,6 +23,8 @@ Zystiden-Rindenpilze sind Arten, die flächig das Substrat (Holz) überziehen un
 {% include bild.html datei="/bilder/peniophora_quercina_03_bm.jpg" %}
 {% include abbildung_ende.html legende="Foto: Bernd Miggel" %}
 
-Der Eichen-Zystidenrindenpilz entsteht <ins>auf</ins> der Rinde der Äste aus kleineren Flecken, die sich bald zu ausgedehnten Flächen vereinigen. In frischem Zustand sind sie violett-rosa und aufgequollen, trocken eher grau und rissig, an den Rändern oft aufgebogen. Der Pilz ist sehr häufig und kaum eine Eiche dürfte von ihm verschont bleiben. Da er nur tote Äste und Zweige befällt, richtet er keinen Schaden an. Die Eiche ist mit Abstand der Hauptwirt, es sind aber auch Funde auf Buche und anderen Laubbaumarten dokumentiert.  
+Der Eichen-Zystidenrindenpilz entsteht <ins>auf</ins> der Rinde der Äste aus kleineren Flecken, die sich bald zu ausgedehnten Flächen vereinigen. In frischem Zustand sind sie violett-rosa und aufgequollen, trocken eher grau und rissig, an den Rändern oft aufgebogen. Der Pilz ist sehr häufig und kaum eine Eiche dürfte von ihm verschont bleiben. Da er nur tote Äste und Zweige befällt, richtet er keinen Schaden an. Die Eiche ist mit Abstand der Hauptwirt, es sind aber auch Funde auf Buche und anderen Laubbaumarten dokumentiert.
+
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
 
 Ein ähnliches Aussehen kann der [Rindensprenger Vuilleminia comedens](/pilze/vuilleminia-comedens-gemeiner-rindensprenger) haben, der sich jedoch  <ins>unter</ins> der Rinde entwickelt, diese aufsprengt und dadurch leicht zu unterscheiden ist.
