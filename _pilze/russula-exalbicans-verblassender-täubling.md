@@ -54,3 +54,5 @@ Der Verblassende Täubling ist ein treuer Birkenbegleiter auf nicht zu sauren B�
 &nbsp;
 
 Bemerkenswert ist die Tatsache, dass er zusammen mit dem [Flaumigen Birkenmilchling (*Lactarius pubescens*)](/pilze/lactarius-pubescens-blasser-birkenreizker-flaumiger-milchling) eine Doppel-[Mykorrhiza](Mykorrhiza "Glossar") bildet. Dabei wachsen die [Hyphen](Hyphen "Glossar") interzellulär in die Wurzelrinde, die dann keine Wurzelhaare mehr bildet, und übernehmen den Nährstoffaustausch zwischen Pilz und Baum. Diese Symbiose wird als Ektomykorrhiza bezeichnet. Ich habe mehrfach, unter anderem unmittelbar vor meiner Haustür, das gemeinsame Vorkommen beider Pilzarten beobachten können.
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
