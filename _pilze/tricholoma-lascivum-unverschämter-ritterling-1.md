@@ -47,6 +47,8 @@ Mitte Oktober 2021 fand ich in Schiltach im mittleren Schwarzwald auf einem alte
 **Sporen** – relativ klein, ellipsoid bis mandelförmig, [hyalin](hyalin "Glossar"), glatt, dünnwandig, mit mittigem Tropfen. Als Maße gebe ich hier von einer 37 Sporen umfassenden Probe die 95-prozentige Schätzung der Durchschnittswerte an (L = Länge, B = Breite, Q = Schlankheitsgrad = L/B, V = Volumen = 0,523 x L x B2): L x B = 6,1-6,4 x 3,8-4,0 µm, Q = 1,57-1,65, V = 48-52 µm3\
 Die **Huthaut** bildet eine Schicht unverschleimter, liegender [Hyphen](Hyphen "Glossar") (eine Kutis), bestehend aus Abschnitten von z.B. 60 x 8 µm
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart)
+
 **Verwechslungsmöglichkeiten:**\
 Der **Lästige Ritterling *Tricholoma inamoenum*** hat ein ähnliches Aussehen und einen ähnlichen Geruch, wächst jedoch unter Nadelbäumen und besitzt deutlich größere Sporen.\
 Der **Strohblasse Ritterling *Tricholoma album*** sieht ähnlich aus und wächst in einem vergleichbaren Habitat. Er riecht allerdings (lt. Zeitschrift Tintling) aufdringlich rübenartig, erdig mit Mehlkomponente und schmeckt erst bitter, dann brennend scharf.\
