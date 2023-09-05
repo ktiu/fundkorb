@@ -73,6 +73,8 @@ Will man Täublinge sicher bestimmen, dann sollte man auch bestimmte Huthautelem
 
 In Sulfovanillin prüft man, ob sich der Inhalt der Pileozystiden schwarz, grau oder gar nicht verfärbt. Die Latiziferen sind als lang geschlängelte, schwarz gefärbte Gebilde zu erkennen, außerdem schwarz gefärbte, schlankkeulige Pileozystiden.
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+
 Verwechslungsmöglichkeiten mit anderen gelbhütigen Täublingen:  
 Der [**Ockertäubling** *Russula ochroleuc*a](/pilze/russula-ochroleuca-ockertäubling) besitzt einen weißen Stiel mit schwach gelblich überzogener Basis, weiße Lamellen und weißes Fleisch. Außerdem ist er geruchlos und schmeckt mild oder nur leicht scharf.  
 Der [**Pfirsichtäubling** *Russula violeipes*](/pilze/russula-violeipes-violettstieliger-brätlingstäubling) besitzt manchmal einen gelben Hut und einen weißen Stiel. Er ist geruchlos und absolut mild schmeckend.  
