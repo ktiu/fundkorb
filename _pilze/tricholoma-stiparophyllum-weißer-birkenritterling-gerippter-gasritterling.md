@@ -29,4 +29,6 @@ Interessanterweise wuchsen in unmittelbarer Nähe einige Fruchtkörper des Mehlr
 {% include bild.html datei="/bilder/tricholoma_stiparophyllum-clitopilus_prunulus-_02_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Bei den beiden Fruchtkörpern rechts handelt es um den Mehlräsling, der dem Lästigen Ritterling ähnlich sieht, aber einen ranzigen Geruch nach Mehl hat" %}
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart)
+
 **Verwechslungsmöglichkeiten:** Es existieren etliche ähnlich aussehende, weiße Pilzarten, beispielsweise mehrere Ritterlingsarten. Außerdem existieren weiße Farbformen von Pilzen, die normalerweise nicht weiß sind. Als Beispiel seien hier die weiße Form des Seifenritterlings und des [Grünen Knollenblätterpilzes](/pilze/amanita-phalloides-grüner-knollenblätterpilz) genannt. Meist muss man zur Unterscheidung zusätzlich das Mikroskop zu Hilfe nehmen!
