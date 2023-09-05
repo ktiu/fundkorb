@@ -68,6 +68,8 @@ Bei den Weißtäublingen zählt man die Lamellen pro cm in 1 cm Abstand vom Hutr
 Die Sporen sind ellipsoid, warzig-gratig mit durch feine Linien oder kurze Grate verbundenen Warzen.Die Ornamenthöhe reicht bis zu 1 µm. Die Ornamente sind stark [amyloid](amyloid "Glossar"); der [Hilarfleck](Hilarfleck "Glossar") nur an seinem Rand. 
 Sporengröße: L x B = 9,4-9,9 x 7,4-7,8 µm; Q = 1,24-1,30; V = 275-315 µm3. (Länge L; Breite B; Schlankheitsgrad Q = L/B; Volumen V).
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+
 **Ähnliche Arten:**\
 Der *[Schmalblättrige Weißtäubling Russula chloroides](/pilze/russula-chloroides-schmalblättriger-weißtäubling)* ist sehr ähnlich, unterscheidet sich aber: Er wächst eher im Waldesinneren; sein Hut bleibt meist etwas kleiner, die Lamellen sind weniger breit, weniger dick und stehen mit 8-14 Lamellen pro cm auch gedrängter. Was auch immer mal wieder auffällt. Schließlich besitzen seine Sporen ein höheres Ornament bis 1,5 µm.\
 Der *[Ockerblättrige Weißtäubling](/pilze/russula-pallidospora-ockerblättriger-weißtäubling)* *Russula pallidospora* wird nur sehr selten gefunden. Von den beiden anderen genannten Weißtäublingsarten unterscheidet er sich wie folgt:  er riecht nicht fischig, sondern deutlich obstartig; er schmeckt nicht scharf, sondern etwas bitterlich; sein Sporenpulver ist nicht weißlich, sondern dunkel cremefarben; die Ornamenthöhe der Sporen ist mit 0,5 µm noch geringer.\
