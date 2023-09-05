@@ -18,6 +18,18 @@ Neuer Exkursionstermin: Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leccinum_quercinum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Eichenrotkappe *Leccinum quercinum*. Bei der exakten Bestimmung von Rotkappen kommt ist auch auf seine [Mykorrhizapartner](Mykorrhiza "Glossar"), also seine Begleitbäume, zu achten. In einem Mischwald ist das oft nicht einfach. Für die Küche spielt das keine Rolle. Alle Rotkappen sind gute Speisepilze, aber nicht überall häufig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leccinum-quercinum-eichenrotkappe)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/psathyrella_piluliformis_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und se
 04.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rauchfarbene Milchling *Lactarius azonitis*. Wir haben ihn im Gebiet Kochseeschlag östlich von Neu-Isenburg gefunden, wo etliche Fruchtkörper an einem Wegrand bei Buchen standen. Die Bestimmung war nicht ganz einfach, schon weil uns die Bezeichnung „rauchfarben“ irritiert hat. Wenn man an Zigarettenrauch denkt, hätte sie wohl gepasst. *Bernd Miggel* hat unseren Fund umfassend mikroskopisch dokumentiert und alle Zweifel beseitigt. (Frank Kaster + Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lactarius-azonites-rauchfarbener-milchling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_odora_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.09.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus Hanau. *Martina Urich* hat einen Fund des Grünen Anistrichterlings *Clitocybe odora* in einem Wäldchen am Stadtrand gemeldet. Die Hüte dieses Pilzes müssen übrigens nicht immer schön grün gefärbt sein. Nicht umsonst wird er auch Grünblauer Anistrichterling genannt. Zwei andere nach Anis riechende Arten der Gattung haben andere Farben.
-
-[Mehr lesen >](/pilze/clitocybe-odora-grüner-anistrichterling)
 
 <div style="clear:  both"></div>
 
