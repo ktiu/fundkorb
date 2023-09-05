@@ -35,3 +35,5 @@ L x Bav: 5,3-5,7 x 2,3-2,4 µm, Qav: 2,25-2,48 mit Länge L, Breite B, Schlankhe
 {% include abbildung_ende.html legende="Abb. links: Sporen -- Abb. Mitte: 3 Basidien mit je vier Sterigmen, gefärbt in Kongorot -- Abb. rechts: Hyphensystem monomitisch aus generativen Hyphen; im Bild eine Hyphe mit deutlicher Schnalle (Präparat in SDS-Kongorot)" %}
 
 In der Roten Liste der gefährdeten Pilze Deutschland 2017 ist die Art in der Gefährdungskategorie D (Daten unzureichend) angegeben. Die Art ist also recht selten.
+
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart)
