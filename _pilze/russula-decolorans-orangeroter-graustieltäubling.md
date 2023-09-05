@@ -55,6 +55,8 @@ Die Hüte sind meist etwas schmierig und werden bis zu 12 cm breit. Sie sind ora
 {% include bild.html datei="/bilder/russula_decolorans_04_ar.jpg" %}
 {% include abbildung_ende.html legende="Foto: Alexander Reichert" %}
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 Alle Graustieltäublinge sind essbar. Dies sind:\
 [**Russula claroflava** = Gelber Graustieltäubling](/pilze/russula-claroflava-gelber-graustieltäubling)\
 **Russula decolorans** = Orangeroter Graustieltäubling\
