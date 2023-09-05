@@ -62,5 +62,7 @@ Die Huthaut des Glänzenden Ledertäublings besteht aus zwei unterschiedlichen [
 {% include bild.html datei="/bilder/russula_alutacea_04_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Sporen in Melzers Reagenz -- Huthaut in NH3-Kongo" %}
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 **Verwechslungsmöglichkeiten:**\
 Der [Rotstielige Ledertäubling (Russula olivacea)](/pilze/russula-olivacea-rotstieliger-ledertäubling) ist in Habitus und Färbung zum Verwechseln ähnlich. Er unterscheidet sich vor allem im mikroskopischen Bereich: seine Sporen sind isoliert warzig mit 1,0 - 1,5 µm hohen Warzen. Seine Epikutishyphen sind 3 - 5 µm breit, allerdings immer wieder einmal mit bis zu 12 µm breit angeschwollen Abschnitten.
