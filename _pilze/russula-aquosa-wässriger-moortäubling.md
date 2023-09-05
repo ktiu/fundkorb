@@ -91,6 +91,8 @@ Die Sporen sind nicht besonders groß. Sie sind breitellipsoid mit warzig-teilne
 
 Die Epikutis setzt sich aus Epikutishaaren und Pileozystiden zusammen. Die Epikutishaare sind wenig aufsehenerregend: Sie sind etwa 2 - 4 µm breit, zylindrisch, apikal gerundet und oft verzweigt, im Foto mit „eh“ gekennzeichnet. Die Pileozystiden besitzen einen gelblichen Inhalt. Sie sind mit „pz“ gekennzeichnet. Sie schwärzen deutlich in Sulfovanillin und verlangen besondere Aufmerksamkeit: außer langgestreckt spindeligen oder auch zylindrischen existieren bei *Russula aquosa* immer zahlreiche mit einem fast kaulquappenförmigem Umriss: Aus einer schlanken Basis entspringt fast abrupt eine bis 10 µm dicke, recht kurze Keule. Die Pileozystiden sind nach eigener Beobachtung ein- bis vierzellig. Epikutishaare und Pileozystiden sind in eine zähschleimige Huthautmasse eingebettet.
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 **Auswahl ähnlicher Arten:**\
 Die Arten der Gruppe der Speitäublinge besitzen allesamt keine dunklere Hutmitte. Außerdem besitzen ihre Pileozystiden eine andere Form.\
 [Kirschroter Speitäubling (*Russula emetica*)](/pilze/russula-emetica-kirschroter-speitäubling): Ähnlicher Standort, doch Hut lebhafter und reiner rot gefärbt, sehr scharfer Geschmack, höhere Sporenornamentation.\
