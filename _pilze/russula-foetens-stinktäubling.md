@@ -72,6 +72,8 @@ Der Stinktäubling stellt keine besonderen Ansprüche an den Boden, was zu seine
 {% include bild.html datei="/bilder/russula_foetens_06_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Dermatozystiden der Huthaut in Sulfobenzaldehydrid -- Latiziferen der Huthaut in Sulvovanillin  (4 Mikrofotos: Bernd Miggel)" %}
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_foetens_09_mhk.jpg" %}
 {% include abbildung_ende.html legende="Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V" %}
