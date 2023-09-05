@@ -53,4 +53,6 @@ Huthauthyphen aus glatten, liegenden Hyphen bestehend.
 Caulozystiden sehr zahlreich, glatt, zylindrisch-keulig, auch kopfig oder korallenartig knollig.  
 Einzelne Septen von Zystiden und Hyphen mit Schnallen.
 
+Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 **Tipp:** Genügend ausgefallenes Sporenpulver gewinnt man bei Helmlingen und ähnlich kleinen Lamellenpilzen, indem man einen leeren Deckglasbehälter zweckentfremdet: Man legt zuerst ein Deckglas hinein und platziert darauf den Helmlingshut, Lamellen nach unten. Nun verschließt man das Ganze mit dem Behälterdeckel und lässt über Nacht aussporen. – Das war’s auch schon.
