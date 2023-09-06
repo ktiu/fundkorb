@@ -56,6 +56,8 @@ Der Weißstielige Ledertäubling ist ein guter Speisepilz, der vor allem bei Rot
   </table>
 </div>
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 Man könnte aufgrund des Namens annehmen, dass die 8 in Deutschland nachgewiesenen Ledertäublinge einer homogenen Gruppe angehören. Das ist leider nicht der Fall. Man findet sie je nach Autor in verschiedenen Untergattungen und unterschiedlichen Sektionen. Unsere Aufstellung folgt der Systematik von Romagnesi (1987):\
 In der Sektion *Integrinae*:\
 **Russula carminipes** = Bereifter Ledertäubling\
