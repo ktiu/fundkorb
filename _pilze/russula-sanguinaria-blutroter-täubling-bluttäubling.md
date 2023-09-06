@@ -51,6 +51,8 @@ Die Lamellen sind konkav geschwungen sowie gerade oder etwas abgesetzt am Stiel 
   </table>
 </div>
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 Der Bluttäubling ist [Mykorrhizapartner](Mykorrhiza "Glossar") der Kiefer, vor allem im südlichen Drittel Deutschlands verbreitet und dort nicht selten. Sein Verbreitungsareal ist in etwa deckungsgleich mit dem des Zitronenblättrigen Täublings *Russula sardonia* mit dem Unterschied, dass dieser die wesentlich häufigere Art ist. Im Rahmen ihrer Variabilität können beide miteinander sowie mit dem Stachelbeertaubling *Russula queletii* verwechselt werden.
 
 Zusammenfassung der wichtigsten Unterscheidungsmerkmale:\
