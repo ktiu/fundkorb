@@ -34,6 +34,8 @@ Der Striegelige Schichtpilz ist einer der häufigsten Baumpilze überhaupt. Man 
 {% include bild.html datei="/bilder/stereum_hirsutum_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschnitt mit der Lupe erkennen und zählen kann. Mit etwas Erfahrung sind die Arten der Gattung schon optisch recht gut zu unterscheiden, vorausgesetzt, man hat frisch gewachsene Exemplare zur Verfügung. Im Zweifelsfall hilft eine Lupe weiter, um die Schichten genauer zu differenzieren und zu zählen. Mit dem Schlüssel von Bernd Miggel sollten die sieben in Deutschland vorkommenden Arten gut unterschieden werden können. Das nachfolgende Foto zeigt die Schichtung beim Striegeligen Schichtpilz.
 
 {% include abbildung_start.html stil="standard" %}
