@@ -80,6 +80,8 @@ Der Ockerblättrige Weißtäubling zählt nach der *Sarmari*-Systematik zur Sekt
 {% include bild.html datei="/bilder/russula_pallidospora_04_bm.jpg" %}
 {% include abbildung_ende.html legende="Vergleicht man die Fruchtkörper von Russula pallidospora (im Bild rechts) mit denen des Schmalblättrigen Weißtäublings Russula chloroides (im Bild links), so springt die Robustheit des noch jungen Exemplars von Russula pallidospora sowie seine creme bis gelbbräunliche Färbung ins Auge" %}
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_pallidospora_06_mhk.jpg" %}
 {% include abbildung_ende.html legende="Aquarell von E. W. Ricek aus Michael/Hennig/Kreisel: Handbuch für Pilzfreunde Band V" %}
