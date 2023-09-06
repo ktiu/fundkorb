@@ -51,7 +51,9 @@ Um ganz sicher zu gehen, sollten Mikromerkmale beachtet werden. Der Stachelbeert
 {% include bild.html datei="/bilder/russula_sardonia_04_mg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Sporen Russula queletii (2 Mikrofotos: Bernd Miggel) Sporen Russula sardonia" %}
 
-Unterschiede bestehen auch in der Ökologie der beiden Arten. Während *Russula queletii* kalkhaltige Böden und Fichtenbestände bevorzugt, ist *Russula sardonia* eher ein Charakterpilz sandiger Kiefernwälder.  
+Unterschiede bestehen auch in der Ökologie der beiden Arten. Während *Russula queletii* kalkhaltige Böden und Fichtenbestände bevorzugt, ist *Russula sardonia* eher ein Charakterpilz sandiger Kiefernwälder.
+
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
 
 Verwechselt werden könnten die beiden "Säufernasen" auch mit dem [Wolfstäubling Russula torulosa](/pilze/russula-torulosa-gedrungener-täubling-wolfstäubling) und dem Blutroten Täubling Russula sanguinaria, die beide ebenfalls scharf schmecken.
 
