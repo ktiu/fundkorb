@@ -52,6 +52,8 @@ Mikromerkmale:\
 Vorkommen:\
 vor allem in Süddeutschland vom Flachland bis in Hochgebirgslagen, in manchen Mittelgebirgen Massenpilz. Bevorzugt kalkhaltige, fehlt auf sandigen Böden. Mykorrhizapilz vor allem bei Buchen, aber auch Fichten und Tannen.
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_olivacea_02_mhk.jpg" %}
 {% include abbildung_ende.html legende="Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V" %}
