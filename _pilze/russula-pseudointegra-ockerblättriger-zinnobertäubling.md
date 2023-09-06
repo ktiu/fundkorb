@@ -78,6 +78,8 @@ In der **Huthaut** finden sich außer den Haaren noch schlanke, inkrustierte Pri
 
 Der Ockerblättrige Zinnobertäubling ist eine eher seltene, zerstreut in Laubwäldern vorkommende Art, die vor allem die Eiche zum [Mykorrhizapartner](Mykorrhiza "Glossar") hat. Als Begleitbäume werden auch Rotbuchen und Edelkastanien genannt. Er bevorzugt kalkhaltige Böden und scheint seit den 1970-er Jahren in seinem Bestand rückläufig zu sein und wird inzwischen in Roten Listen als "gefährdet" geführt.
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_pseudointegra_11_mhk.jpg" %}
 {% include abbildung_ende.html legende="Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V" %}
