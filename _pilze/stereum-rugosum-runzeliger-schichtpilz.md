@@ -31,7 +31,9 @@ Die Abbildung links lässt einen roten Fleck erkennen, der durch Reiben mit eine
 
 Der Name Schichtpilz erklärt sich durch die Zuwachsschichten, die man im Anschnitt mit der Lupe erkennen und zählen kann.
 
-Der Runzelige Schichtpilz kann bis zu 15 Jahre alt werden. Er wächst als [Saprobiont](Saprobiont "Glossar") oder Schwächeparasit an Laubholz, gern an Hasel, Buche oder Erle, an toten stehenden oder liegenden Stämmen wie an Ästen und Zweigen und dehnt sich dabei oft auf mehrere Meter Länge aus.  
+Der Runzelige Schichtpilz kann bis zu 15 Jahre alt werden. Er wächst als [Saprobiont](Saprobiont "Glossar") oder Schwächeparasit an Laubholz, gern an Hasel, Buche oder Erle, an toten stehenden oder liegenden Stämmen wie an Ästen und Zweigen und dehnt sich dabei oft auf mehrere Meter Länge aus.
+
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
 
 Die sieben in Deutschland vorkommenden Schichtpilzarten sind mit etwas Erfahrung schon optisch recht gut zu unterscheiden, vorausgesetzt, man hat frisch gewachsene Exemplare zur Verfügung. Im Zweifelsfall hilft eine Lupe weiter. Im Schnitt durch den Fruchkörper zeigt Stereum rugosum eine dunkelbraune [Cortex](Cortex "Glossar") unter einem bräunlichen, filzigen [Tomentum](Tomentum "Glossar"). Die [Hymenialschicht](Hymenium "Glossar") ist grauocker, glatt oder höckerig.
 
