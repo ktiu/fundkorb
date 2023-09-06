@@ -52,6 +52,8 @@ Der Hut wird 6 bis 12 cm breit, ist jung halbkugelig, später meist trichterig v
 
 Der Grüne Speisetäubling *Russula heterophylla* ist wie der nahe verwandte "normale" Speisetäubling *Russula vesca* ein ausgezeichneter Speisepilz, aber deutlich seltener. Er ist in Laub- und Mischwäldern sowie Parkanlagen vor allem bei Buchen zu finden, wo er von Frühsommer bis Herbst erscheint. Es wurden einige Varietäten beschrieben, u. a. die *var. galochroa*, die auch als eigene Art *Russula galochroa* (Cremeweißer Täubling) aufgefasst wird.
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_heterophylla_03_mhk.jpg" %}
 {% include abbildung_ende.html legende="Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V" %}
