@@ -36,6 +36,8 @@ Unter den Nadelbäumen ist die Fichte der mit Abstand häufigste Wirt. Im Holz v
 {% include bild.html datei="/bilder/stereum_sanguinolentum_01_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Schichtung im Schnitt: Stereum sanguinolentum (Foto: Bernd Miggel)" %}
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 **Schlüssel für mitteleuropäische Stereum-Arten von Bernd Miggel**
 
 <div class="table-responsive">
