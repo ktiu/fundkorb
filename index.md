@@ -18,6 +18,18 @@ Neuer Exkursionstermin: Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopus_luxurians_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.09.2023: Einige Jahre lang hat er sich in Dietzenbach nicht blicken lassen, jetzt ist er wieder da, der Üppige Rübling *Gymnopus luxurians*, und darum auch unser aktueller [Fundkorbpilz](AA "Glossar-"). Nicht wie gewohnt in üppigen sondern eher in kleinen Büscheln oder auch nur gesellig über eine größere gemulchte Fläche verteilt. Sie wuchsen in Zierstrauchrabatten unter Sträuchern und Zierpflanzen verborgen und wurden nur zufällig entdeckt. Es dürften mehrere hundert Fruchtkörper gewesen sein. Die Art stammt aus Nordamerika, hat es 1989 über den großen Teich geschafft und ist 1997 erstmals in Deutschland gesichtet worden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gymnopus-luxurians-üppiger-rübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leccinum_quercinum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
