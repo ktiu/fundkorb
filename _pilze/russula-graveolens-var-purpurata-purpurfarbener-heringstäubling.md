@@ -66,3 +66,5 @@ Wie bei allen Heringstäublingsarten verfärben sich Stieloberfläche, Lamellen 
     </tr>
   </table>
 </div>
+
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
