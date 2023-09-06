@@ -63,6 +63,8 @@ Betupft man die weiße Stielhaut mit Eisensulfat, nimmt der Fleck einen Rosaton 
 Die **Sporen** der Funde sind rundlich, nicht sehr groß, mit einem aus Warzen bestehenden, bis zu 0,8 µm hohen Ornament, wobei die Warzen teils isoliert stehen, teils jedoch reihig zusammenfließen oder durch feine Linien verbunden sind. Ornament und Hilarfleck sind stark amyloid, d.h. sie färben sich in Melzers Reagenz deutlich schwarz. Die ermittelten Maße sind 6,3 - 7,6 x 5,9 - 6,8 µm.\
 Die **Huthaut** setzt sich aus zweierlei Elementen zusammen, zum einen aus dünnwandigen, schlanken, apikal gerundeten, ca. 2 µm breiten Epikustishaaren und zum anderen aus zylindrischen bis schlankkeuligen, gestreckten oder geschlängelten, 6-8 µm breiten Pileozystiden.
 
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
 **Verwechslungsmöglichkeiten:**\
 Ein ebenfalls bei Birken in offenem Gelände wachsender, recht groß werdender Täubling ist der [**Verblassende Täubling** (*Russula exalbicans*)](/pilze/russula-exalbicans-verblassender-täubling). Er kann ebenfalls eine rötlich Hutfarbe aufweisen. Im Gegensatz zur hier beschriebenen Art ist er jedoch im Hut festfleischig und seine Lamellen werden höchstens creme bis ockerlich. Außerdem ist der Sporenstaub nur hellocker.\
 Der [**Apfeltäubling** (*Russula paludosa*)](/pilze/russula-paludosa-apfeltäubling) kann ähnlich aussehen. Doch findet man ihn normalerweise auf feuchten, sauren Böden (gerne im Moor). Auch ist es fast mild im Geschmack. Seine Lamellen sind oft rotschneidig, und sein Stiel oft rosa überhaucht.\
