@@ -21,7 +21,7 @@ Neuer Exkursionstermin: Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und se
 {% include bild.html datei="/bilder/artomyces_pyxidatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-08.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die beeindruckende Becherkoralle *Artomyces pyxidatus*. An seinen verzweigten Astspitzen, die in einem kleinen mit aufrechten Zacken geschmücktem Becher enden, ist er leicht zu erkennen. Er wächst an totem Laubholz, mitunter in langen Reihen an liegenden Stämmen, kann weiß oder hell gelblich, im Alter gelbbräunlich gefärbt sein. Mit den Korallenpilzen der Gattung *Ramaria* ist sie nicht näher verwandt. (Dieter Gewalt)
+08.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die beeindruckende Becherkoralle *Artomyces pyxidatus*. An ihren verzweigten Astspitzen, die in einem kleinen mit aufrechten Zacken geschmücktem Becher enden, ist sie leicht zu erkennen. Sie wächst an totem Laubholz, mitunter in langen Reihen an liegenden Stämmen, kann weiß oder hell gelblich, im Alter gelbbräunlich gefärbt sein. Mit den Korallenpilzen der Gattung *Ramaria* ist sie nicht näher verwandt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/artomyces-pyxidatus-becherkoralle)
 
