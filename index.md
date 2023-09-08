@@ -18,6 +18,18 @@ Neuer Exkursionstermin: Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/artomyces_pyxidatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die beeindruckende Becherkoralle *Artomyces pyxidatus*. An seinen verzweigten Astspitzen, die in einem kleinen mit aufrechten Zacken geschmücktem Becher enden, ist er leicht zu erkennen. Er wächst an totem Laubholz, mitunter in langen Reihen an liegenden Stämmen, kann weiß oder hell gelblich, im Alter gelbbräunlich gefärbt sein. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/artomyces-pyxidatus-becherkoralle)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gymnopus_luxurians_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ Neuer Exkursionstermin: Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und se
 06.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Eichenrotkappe *Leccinum quercinum*. Bei der exakten Bestimmung von Rotkappen kommt ist auch auf seine [Mykorrhizapartner](Mykorrhiza "Glossar"), also seine Begleitbäume, zu achten. In einem Mischwald ist das oft nicht einfach. Für die Küche spielt das keine Rolle. Alle Rotkappen sind gute Speisepilze, aber nicht überall häufig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/leccinum-quercinum-eichenrotkappe)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/psathyrella_piluliformis_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wässrige Mürbling *Psathyrella piluliformis*, der nicht umsonst auch Weißstieliges Stockschwämmchen genannt wird. Erstens, weil er stets ein weißes Stielchen hat. Zweitens, weil er ein guter Speisepilz ist. Ihn zu sammeln kann aber nur erfahrenen Pilzsammlern empfohlen werden. Sie erkennen ihn auch an den glanzlosen dunkelbraunen Hüten, die aber stark [hygrophan](hygrophan "Glossar") sind. Und an seinem meist massenhaft dichtbüscheligen Vorkommen an Totholz. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/psathyrella-piluliformis-wässriger-mürbling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_azonites_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rauchfarbene Milchling *Lactarius azonitis*. Wir haben ihn im Gebiet Kochseeschlag östlich von Neu-Isenburg gefunden, wo etliche Fruchtkörper an einem Wegrand bei Buchen standen. Die Bestimmung war nicht ganz einfach, schon weil uns die Bezeichnung „rauchfarben“ irritiert hat. Wenn man an Zigarettenrauch denkt, hätte sie wohl gepasst. *Bernd Miggel* hat unseren Fund umfassend mikroskopisch dokumentiert und alle Zweifel beseitigt. (Frank Kaster + Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lactarius-azonites-rauchfarbener-milchling)
 
 <div style="clear:  both"></div>
 
