@@ -63,7 +63,7 @@ Frisch ausgefallenes Sporenpulver ist intensiv creme, IIc-d nach der Farbtafel i
     <tr>
       <td>sehr scharf</td>
       <td>intensiv creme</td>
-      <td>maximal 1 cm/td>
+      <td>maximal 1 cm</td>
       <td>rosa</td>
        
     </tr>
