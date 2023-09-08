@@ -18,6 +18,18 @@ Neuer Exkursionstermin: Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/macrolepiota_rhacodes_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+09.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Safran-Riesenschirmling *Macrolepiota rhacodes*, der mit einigen nahen Verwandten in die neue Gattung *Chlorophyllum* transferiert worden ist. Vom Großen Riesenschirmling oder Parasol unterscheidet er sich durch rötendes Fleisch und die glatte, nicht genatterte Stielrinde. Auch geschmacklich kann er mit den „echten“ Parasolen nicht mithalten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/macrolepiota-rhacodes-safran-riesenschirmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/artomyces_pyxidatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und se
 07.09.2023: Einige Jahre lang hat er sich in Dietzenbach nicht blicken lassen, jetzt ist er wieder da, der Üppige Rübling *Gymnopus luxurians*, und darum auch unser aktueller [Fundkorbpilz](AA "Glossar-"). Nicht wie gewohnt in üppigen sondern eher in kleinen Büscheln oder auch nur gesellig über eine größere gemulchte Fläche verteilt. Sie wuchsen in Zierstrauchrabatten unter Sträuchern und Zierpflanzen verborgen und wurden nur zufällig entdeckt. Es dürften mehrere hundert Fruchtkörper gewesen sein. Die Art stammt aus Nordamerika, hat es 1989 über den großen Teich geschafft und ist 1997 erstmals in Deutschland gesichtet worden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gymnopus-luxurians-üppiger-rübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leccinum_quercinum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Eichenrotkappe *Leccinum quercinum*. Bei der exakten Bestimmung von Rotkappen kommt ist auch auf seine [Mykorrhizapartner](Mykorrhiza "Glossar"), also seine Begleitbäume, zu achten. In einem Mischwald ist das oft nicht einfach. Für die Küche spielt das keine Rolle. Alle Rotkappen sind gute Speisepilze, aber nicht überall häufig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leccinum-quercinum-eichenrotkappe)
 
 <div style="clear:  both"></div>
 
