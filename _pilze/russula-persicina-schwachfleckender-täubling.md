@@ -44,4 +44,42 @@ Die Lamellen sind brüchig, am Stiel breit angewachsen, engstehend, je nach Exem
 
 Sporenstaubfarbe: frisch ausgefallenes Sporenpulver ist intensiv creme, IIc-d nach der Farbtafel in MARXMÜLLER, H. (2014).
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>scharf</td>
+      <td>intensiv creme</td>
+      <td>maximal 1 cm/td>
+      <td>rosa</td>
+       
+    </tr>
+  </table>
+</div>
+
+Mikroskopische Merkmale:
+
+Die Sporen sind rundlich bis ellipsoid, mit isoliertwarzigem oder kurzgratigem Ornament, wobei die Warzen oft zu mehreren oder zu kompletten Reihen zusammenlaufen oder duch feine Linien verbunden sind. Oft macht das Ornament einen geradezu zebrierten Eindruck. Ornament und Hilarfleck sind deutlich amyloid. Die Sporengröße beträgt nach eigenen Messungen 7,5 - 8,0 x 6,5 - 7,0 µm, der Schlankheitsgrad Q ist 1,14. Das Ornament ist meist bis 0,5 µm (max. 0,7 µm) hoch.
+
+Die Huthaut setzt sich aus Epikutishaaren und Pileozystiden zusammen. Die Die Pileozystiden sind langgestreckt, zylindrisch oder geschlängelt, apikal gerundet oder mit einer Ausstülpung versehen, 5-10 µm dick und in Sulfovanillin grauend bis schwärzend.
+
+Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe).
+
+ROMAGNESI, H. (1985) unterscheidet mehrere Typen dieser Art, die sich vor allem durch unterschiedliche Sporenform und -größe unterscheiden. 
+
+Ähnliche Arten mit scharfem Geschmack:
+
+Der Gelbfleckende Täubling (Russula luteotacta) besiedelt vergleichbare Habitate, besitzt aber reinweiße Lamellen und weißes Sporenpulver. Außerdem fleckt er bei Berührung oder Liegenlassen wesentlich stärker chromgelb.
+Der Bluttäubling (Russula sanguinaria) ist Kiefernbegleiter; er ist dickfleischiger und besitzt deutlicher sichelförmige, oft regelrecht herablaufende Lamellen.
+Der Buchen-Speitäubling (Russula nobilis/mairei) ist wie unsere Art Laubbaumbegleiter, besitzt aber weiße Lamellen und weißes Sporenpulver.
+
 
