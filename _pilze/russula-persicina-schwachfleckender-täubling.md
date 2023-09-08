@@ -85,11 +85,9 @@ Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkun
 
 ROMAGNESI, H. (1985) unterscheidet mehrere Typen dieser Art, die sich vor allem durch unterschiedliche Sporenform und -größe unterscheiden.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_persicina_05_mhk.jpg" %}
 {% include abbildung_ende.html legende="Abbildung aus Michael / Hennig / Kreisel: Handbuch für Pilzfreunde Band V, aus dem wie folgt zitiert wird:" %}
-
-
 
 „Durch die Härte und Festigkeit des Fleisches sowie die Hutfarbe erinnert dieser Täubling an [Russula rosea](/pilze/russula-rosea-harter-zinnobertäubling)" (der jedoch mild schmeckt).
 
