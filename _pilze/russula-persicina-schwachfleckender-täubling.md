@@ -91,7 +91,7 @@ ROMAGNESI, H. (1985) unterscheidet mehrere Typen dieser Art, die sich vor allem 
 
 
 
-„Durch die Härte und Festigkeit des Fleisches sowie die Hutfarbe erinnert dieser Täubling an [Russula rosea](/pilze/russula-rosea-harter-zinnobertäubling)" (der jedoch mild schmeckt.
+„Durch die Härte und Festigkeit des Fleisches sowie die Hutfarbe erinnert dieser Täubling an [Russula rosea](/pilze/russula-rosea-harter-zinnobertäubling)" (der jedoch mild schmeckt).
 
 **Ähnliche Arten mit scharfem Geschmack:**
 
