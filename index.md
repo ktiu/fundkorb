@@ -18,6 +18,18 @@ Neuer Exkursionstermin: Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lacrymaria_lacrymabunda_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+10.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tränende Saumpilz *Lacrymaria lacrymabunda*. Es handelt sich um eine gut kenntliche Art, die durch die Merkmalskombination *„dunkel violettbraune Lamellen mit helleren Schneiden, die beim jungen Pilz oder bei feuchter Witterung winzige wasserklare Tröpfchen absondern, schwarzem Sporenpulver und angedeuteter Ringzone am Stiel“* gekennzeichnet ist. Wenn man noch beachtet, dass der Pilz relativ groß und langstielig ist, die filzigen zimtbräunlichen Hüte bis zu 8 cm Durchmesser erreichen und der Hutrand mit Velumresten behangen ist, sollte die Bestimmung gesichert sein. Man findet ihn vor allem außerhalb von Wäldern. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lacrymaria-lacrymabunda-tränender-saumpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/macrolepiota_rhacodes_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und se
 08.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die beeindruckende Becherkoralle *Artomyces pyxidatus*. An ihren verzweigten Astspitzen, die in einem kleinen mit aufrechten Zacken geschmücktem Becher enden, ist sie leicht zu erkennen. Sie wächst an totem Laubholz, mitunter in langen Reihen an liegenden Stämmen, kann weiß oder hell gelblich, im Alter gelbbräunlich gefärbt sein. Mit den Korallenpilzen der Gattung *Ramaria* ist sie nicht näher verwandt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/artomyces-pyxidatus-becherkoralle)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_luxurians_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.09.2023: Einige Jahre lang hat er sich in Dietzenbach nicht blicken lassen, jetzt ist er wieder da, der Üppige Rübling *Gymnopus luxurians*, und darum auch unser aktueller [Fundkorbpilz](AA "Glossar-"). Nicht wie gewohnt in üppigen sondern eher in kleinen Büscheln oder auch nur gesellig über eine größere gemulchte Fläche verteilt. Sie wuchsen in Zierstrauchrabatten unter Sträuchern und Zierpflanzen verborgen und wurden nur zufällig entdeckt. Es dürften mehrere hundert Fruchtkörper gewesen sein. Die Art stammt aus Nordamerika, hat es 1989 über den großen Teich geschafft und ist 1997 erstmals in Deutschland gesichtet worden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gymnopus-luxurians-üppiger-rübling)
 
 <div style="clear:  both"></div>
 
