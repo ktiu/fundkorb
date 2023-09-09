@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-09.09.2023: [Macrolepiota rhacodes - Safran-Riesenschirmling](/pilze/macrolepiota-rhacodes-safran-riesenschirmling)  
+10.09.2023: [Lacrymaria lacrymabunda - Tränender Saumpilz](/pilze/lacrymaria-lacrymabunda-tränender-saumpilz)
+09.09.2023: [Macrolepiota rhacodes - Safran-Riesenschirmling](/pilze/macrolepiota-rhacodes-safran-riesenschirmling)\
 08.09.2023: [Artomyces pyxidatus - Becherkoralle](/pilze/artomyces-pyxidatus-becherkoralle)\
 07.09.2023: [Gymnopus luxurians - Üppiger Rübling](/pilze/gymnopus-luxurians-üppiger-rübling)\
 06.09.2023: [Leccinum quercinum - Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)\
