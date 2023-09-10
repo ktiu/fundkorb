@@ -12,8 +12,15 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin: Sonntag, 10. September 2023 10:00 Uhr: **Der Wald und seine Pilze**\
-[Hier geht's zur Anmeldung -->](/termine)
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_rotula_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.09.2023: Es gibt viele kleine Pilzchen, die kaum auffallen, in die man sich bei genauerem Betrachten aber verlieben könnte. Zu diesen bezaubernden Geschöpfen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Halsbandschwindling *Marasmius rotula*. Sie sind rein weiß, ihre Hütchen erreichen kaum mehr als 1 cm Durchmesser, und sie sehen aus wie winzige Fallschirmchen. Sie erscheinen gern an Wegrändern auf Laubstreu oder morschen Zweigen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/marasmius-rotula-halsbandschwindling)
+
+<div style="clear:  both"></div>
 
 - - -
 
