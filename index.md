@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gyroporus_castaneus_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.09.2023: Nicht alle Jahre häufig, aber wenn er kommt, dann meist in großer Zahl. Und das scheint in diesem Jahr bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Hasenröhrling *Gyroporus castaneus*, mal wieder der Fall zu sein. Wie sein Gattungskollege, der *[Kornblumenröhrling](/pilze/gyroporus-cyanescens-kornblumenröhrling)*, ist er ungwöhnlich festfleischig, was ihn zu einem ausgezeichneten Speisepilz macht. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gyroporus-castaneus-hasenröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_rotula_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 10.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tränende Saumpilz *Lacrymaria lacrymabunda*. Es handelt sich um eine gut kenntliche Art, die durch die Merkmalskombination *„dunkel violettbraune Lamellen mit helleren Schneiden, die beim jungen Pilz oder bei feuchter Witterung winzige wasserklare Tröpfchen absondern, schwarzem Sporenpulver und angedeuteter Ringzone am Stiel“* gekennzeichnet ist. Wenn man noch beachtet, dass der Pilz relativ groß und langstielig ist, die filzigen zimtbräunlichen Hüte bis zu 8 cm Durchmesser erreichen und der Hutrand mit Velumresten behangen ist, sollte die Bestimmung gesichert sein. Man findet ihn vor allem außerhalb von Wäldern. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lacrymaria-lacrymabunda-tränender-saumpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/macrolepiota_rhacodes_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-09.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Safran-Riesenschirmling *Macrolepiota rhacodes*, der mit einigen nahen Verwandten in die neue Gattung *Chlorophyllum* transferiert worden ist. Vom Großen Riesenschirmling oder Parasol unterscheidet er sich durch rötendes Fleisch und die glatte, nicht genatterte Stielrinde. Auch geschmacklich kann er mit den „echten“ Parasolen nicht mithalten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/macrolepiota-rhacodes-safran-riesenschirmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/artomyces_pyxidatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die beeindruckende Becherkoralle *Artomyces pyxidatus*. An ihren verzweigten Astspitzen, die in einem kleinen mit aufrechten Zacken geschmücktem Becher enden, ist sie leicht zu erkennen. Sie wächst an totem Laubholz, mitunter in langen Reihen an liegenden Stämmen, kann weiß oder hell gelblich, im Alter gelbbräunlich gefärbt sein. Mit den Korallenpilzen der Gattung *Ramaria* ist sie nicht näher verwandt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/artomyces-pyxidatus-becherkoralle)
 
 <div style="clear:  both"></div>
 
