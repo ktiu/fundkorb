@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-12.09.2023: [Gyroporus castaneus - Hasenröhrling](/pilze/gyroporus-castaneus-hasenröhrling)  
+13.09.2023: [Craterellus cornucopioides - Herbsttrompete, Totentrompete](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)  
+12.09.2023: [Gyroporus castaneus - Hasenröhrling](/pilze/gyroporus-castaneus-hasenröhrling)\
 11.09.2023: [Marasmius rotula - Halsbandschwindling](/pilze/marasmius-rotula-halsbandschwindling)\
 10.09.2023: [Lacrymaria lacrymabunda - Tränender Saumpilz](/pilze/lacrymaria-lacrymabunda-tränender-saumpilz)\
 09.09.2023: [Macrolepiota rhacodes - Safran-Riesenschirmling](/pilze/macrolepiota-rhacodes-safran-riesenschirmling)\
