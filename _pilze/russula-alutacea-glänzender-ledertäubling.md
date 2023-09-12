@@ -64,5 +64,6 @@ Die Huthaut des Glänzenden Ledertäublings besteht aus zwei unterschiedlichen [
 
 Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
 
-**Verwechslungsmöglichkeiten:**\
-Der [Rotstielige Ledertäubling (Russula olivacea)](/pilze/russula-olivacea-rotstieliger-ledertäubling) ist in Habitus und Färbung zum Verwechseln ähnlich. Er unterscheidet sich vor allem im mikroskopischen Bereich: seine Sporen sind isoliert warzig mit 1,0 - 1,5 µm hohen Warzen. Seine Epikutishyphen sind 3 - 5 µm breit, allerdings immer wieder einmal mit bis zu 12 µm breit angeschwollen Abschnitten.
+**Eng verwandte Täublinge mit ebenfalls heidelbeer- oder brombeerfarbener Phenol-Reaktion:**\
+Der [Rotstielige Ledertäubling (Russula olivacea)](/pilze/russula-olivacea-rotstieliger-ledertäubling) ist in Habitus und Färbung recht ähnlich. Bei ihm ist der Hut oft typisch radial gerunzelt, wie Wellen um einen ins Wasser geworfenen Stein. Auch besitzt der Stiel oben meist einen roten, ringförmigen Bereich. Er unterscheidet sich auch im mikroskopischen Bereich: seine Sporen sind isoliert warzig mit 1,0 - 1,5 µm hohen Warzen.\
+Der seltene [Purpurbraune Ledertäubling (*Russula vinosobrunnea*)](/pilze/russula-vinosobrunnea-purpurbrauner-ledertäubling) ist vom Glänzenden Ledertäubling makroskopisch so gut wie nicht unterscheidbar. Allerdings ist seine Sporenornamentik niemals netzig, sondern isoliert warzig mit einzeknen kurzen Verbindungen.
