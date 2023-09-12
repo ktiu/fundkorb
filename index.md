@@ -12,7 +12,8 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin: 
+Neuer Exkursionstermin: Samstag, 30. September 2023, 10:00 Uhr - **Pilze im Frankfurter Stadtwald**\
+[Hier geht's zur Anmeldung ->](/fundkorb.de/termine)
 
 - - -
 
