@@ -68,4 +68,4 @@ In der Sektion *Integrinae*:\
 In der Sektion *Olivaceinae*:\
 **[Russula alutacea](/pilze/russula-alutacea-glänzender-ledertäubling)** = Glänzender Ledertäubling\
 **Russula olivacea** = Rotsieliger (Wechselfarbiger) Ledertäubling\
-**Russula vinosobrunnea** = Purpurbrauner Ledertäubling
+**[Russula vinosobrunnea](/pilze/russula-vinosobrunnea-purpurbrauner-ledertäubling)** = Purpurbrauner Ledertäubling
