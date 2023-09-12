@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/craterellus-cornucopioides_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+13.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Totentrompete *Craterellus cornucopioides*. Sie benötigt kalkhaltige Böden und ist daher z. B. in der Rhein-Main-Ebene ausgesprochen selten, aber an Rändern von geschotterten Waldwegen immer mal wieder zu finden. Hier sorgt der Schotter für den notwendigen Kalkeintrag . Herbsttrompeten sind nicht nur ausgezeichnete aromatische Speisepilze sondern auch bestens zum Trocknen oder Einfrieren geeignet. Mit ihnen lassen sich auch etwas fade Pilzgerichte geschmacklich aufwerten, wozu schon wenige, dann aber klein geschnittene Exemplare genügen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gyroporus_castaneus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 11.09.2023: Es gibt viele kleine Pilzchen, die kaum auffallen, in die man sich bei genauerem Betrachten aber verlieben könnte. Zu diesen bezaubernden Geschöpfen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Halsbandschwindling *Marasmius rotula*. Sie sind rein weiß, ihre Hütchen erreichen kaum mehr als 1 cm Durchmesser, und sie sehen aus wie winzige Fallschirmchen. Sie erscheinen gern an Wegrändern auf Laubstreu oder morschen Zweigen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/marasmius-rotula-halsbandschwindling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lacrymaria_lacrymabunda_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-10.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tränende Saumpilz *Lacrymaria lacrymabunda*. Es handelt sich um eine gut kenntliche Art, die durch die Merkmalskombination *„dunkel violettbraune Lamellen mit helleren Schneiden, die beim jungen Pilz oder bei feuchter Witterung winzige wasserklare Tröpfchen absondern, schwarzem Sporenpulver und angedeuteter Ringzone am Stiel“* gekennzeichnet ist. Wenn man noch beachtet, dass der Pilz relativ groß und langstielig ist, die filzigen zimtbräunlichen Hüte bis zu 8 cm Durchmesser erreichen und der Hutrand mit Velumresten behangen ist, sollte die Bestimmung gesichert sein. Man findet ihn vor allem außerhalb von Wäldern. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lacrymaria-lacrymabunda-tränender-saumpilz)
 
 <div style="clear:  both"></div>
 
