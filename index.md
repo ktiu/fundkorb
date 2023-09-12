@@ -12,6 +12,10 @@ footer_scripts:
 
 - - -
 
+Neuer Exkursionstermin: 
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/craterellus-cornucopioides_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
