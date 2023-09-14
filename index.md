@@ -12,6 +12,10 @@ footer_scripts:
 
 - - -
 
+Unser Exkursionstermin am Samstag, 30. September 2023, 10:00 Uhr - **Pilze im Frankfurter Stadtwald** ist leider schon ausgebucht.
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_subtomentosus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -21,11 +25,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/xerocomus-subtomentosus-ziegenlippe)
 
 <div style="clear:  both"></div>
-
-- - -
-
-Neuer Exkursionstermin: Samstag, 30. September 2023, 10:00 Uhr - **Pilze im Frankfurter Stadtwald**\
-[Hier geht's zur Anmeldung >](/termine)
 
 - - -
 
