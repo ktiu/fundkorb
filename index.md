@@ -12,6 +12,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_subtomentosus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Ziegenlippe *Xerocomus subtomentosus*. Bei weniger gut informierten Pilzsammlern landet sie oft zusammen mit anderen  Filzröhrlingen als „Maronen“ im Sammelkorb. Solche „Ungenauigkeiten“oder Verwechslungen bleiben im Normalfall ohne negative Folgen. Risiken bestehen meist nur beim Verzehr vergammelter „Maronen“. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xerocomus-subtomentosus-ziegenlippe)
+
+<div style="clear:  both"></div>
+
+- - -
+
 Neuer Exkursionstermin: Samstag, 30. September 2023, 10:00 Uhr - **Pilze im Frankfurter Stadtwald**\
 [Hier geht's zur Anmeldung >](/termine)
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: Samstag, 30. September 2023, 10:00 Uhr - **Pilze im Fran
 12.09.2023: Nicht alle Jahre häufig, aber wenn er kommt, dann meist in großer Zahl. Und das scheint in diesem Jahr bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Hasenröhrling *Gyroporus castaneus*, mal wieder der Fall zu sein. Wie sein Gattungskollege, der *[Kornblumenröhrling](/pilze/gyroporus-cyanescens-kornblumenröhrling)*, ist er ungwöhnlich festfleischig, was ihn zu einem ausgezeichneten Speisepilz macht. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gyroporus-castaneus-hasenröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_rotula_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.09.2023: Es gibt viele kleine Pilzchen, die kaum auffallen, in die man sich bei genauerem Betrachten aber verlieben könnte. Zu diesen bezaubernden Geschöpfen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Halsbandschwindling *Marasmius rotula*. Sie sind rein weiß, ihre Hütchen erreichen kaum mehr als 1 cm Durchmesser, und sie sehen aus wie winzige Fallschirmchen. Sie erscheinen gern an Wegrändern auf Laubstreu oder morschen Zweigen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/marasmius-rotula-halsbandschwindling)
 
 <div style="clear:  both"></div>
 
