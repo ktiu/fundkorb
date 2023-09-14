@@ -17,6 +17,18 @@ Unser Exkursionstermin am Samstag, 30. September 2023, 10:00 Uhr - **Pilze im Fr
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_vesca_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Speisetäubling *Russula vesca*. Er gehört zweifellos zu den Premiumarten unter den Täublingen, ist von Anfängern aber nicht ganz einfach von anderen roten oder rötlichen Täublingen zu unterscheiden. Wenn er ein wichtiges Merkmal (die etwas zu kurz geratene Huthaut!) deutlich zeigt und einen milden, angenehm nussigen Geschmack hat, darf man ihn getrost in der Küche verwenden. Er ist relativ häufig und vom Sommer bis in den Herbst in Laub- und Mischwäldern zu finden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-vesca-speisetäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_subtomentosus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
