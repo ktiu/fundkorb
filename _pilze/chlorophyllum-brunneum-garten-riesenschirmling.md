@@ -19,7 +19,7 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Chlorophyllum_brunneum.html
   - url: https://de.wikipedia.org/wiki/Gemeiner_Safranschirmling
 ---
-Unter den Hobbypilzsammlern gibt es bis heute einige, die noch nichts von der Existenz einer in Deutschland vorkommenden giftigen Riesenschirmlingsart gehört haben. *Karin Montag*, die Herausgeberin der Pilzzeitschrift *„Der Tintling“* hat ihre [gastrointenstinale](gastrointenstinal "Glossar") Wirkung so beschrieben:
+Unter den Hobbypilzsammlern gibt es bis heute einige, die noch nichts von der Existenz einer in Deutschland vorkommenden giftigen Riesenschirmlingsart gehört haben. *Karin Montag*, die Herausgeberin der Pilzzeitschrift *„Der Tintling“* hat ihre [gastrointestinale](gastrointestinal "Glossar") Wirkung so beschrieben:
 
 > Obwohl man in diesem Pilz bisher keinerlei Giftstoffe gefunden hat, gibt er sich als Giftpilz dadurch zu erkennen, dass er nach Genuss - meist infolge Verwechslung mit dem Parasol - den Körper baldmöglichst wieder verlassen möchte.“
 
