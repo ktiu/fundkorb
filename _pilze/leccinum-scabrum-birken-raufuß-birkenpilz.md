@@ -24,21 +24,21 @@ Raustielröhrlinge mit roten oder rotbraunen Hüten werden Rotkappen genannt. Al
 
 Für den Birken-Raufuß gilt: 
 
-**Farbe der Huthaut:** ziemlich einheitlich hell- bis dunkelbraun, rötlich braun  
-**Farbe der Stielflöckchen:** graubräunlich bis schwärzlich  
-**Verfärbung des Fleisches:** nicht oder nur schwach und langsam rosarötlich  
+**Farbe der Huthaut:** ziemlich einheitlich hell- bis dunkelbraun, rötlich braun\
+**Farbe der Stielflöckchen:** graubräunlich bis schwärzlich\
+**Verfärbung des Fleisches:** nicht oder nur schwach und langsam rosarötlich\
 **Vorkommen bei:** Birken
 
 Vom Birken-Raufuß existieren zwei Varietäten:
 
 **Schwärzlicher Birkenpilz**  (Leccinum scabrum var. melaneum):
-Huthaut schwarzbraun bis grauschwarz, Stielschuppung deutlich kräftiger und nahezu schwarz  
+Huthaut schwarzbraun bis grauschwarz, Stielschuppung deutlich kräftiger und nahezu schwarz\
 **Weißer Birkenpilz**  (Leccinum scabrum var. niveum):
 Huthaut weiß, Stiel einschließlich Flöckchen weißlich
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/leccinum_scabrum_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/leccinum_scabrum_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Verwechseln könnte man den Birken-Raufuß mit dem Hainbuchen-Raufuß oder dem seltenen Vielverfärbenden Birkenpilz. Alle Raustiel-Röhrlinge sind in Deutschland geschützt und dürfen nur in geringen Mengen gesammelt werden. Für den häufigen Birkenpilz erscheint diese Einstufung nicht nachvollziehbar, für alle anderen Arten der Gattung durchaus berechtigt.
+Verwechseln könnte man den Birken-Raufuß mit dem [Hainbuchen-Raufuß *Leccinum pseudoscabrum*](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß) oder dem seltenen [Vielverfärbenden Birkenpilz *Leccinum variicolor*](/pilze/leccinum-variicolor-vielverfärbenden-birkenpilz). Alle Raustiel-Röhrlinge sind in Deutschland geschützt und dürfen nur in geringen Mengen gesammelt werden. Für den häufigen Birkenpilz erscheint diese Einstufung nicht nachvollziehbar, für alle anderen Arten der Gattung durchaus berechtigt.
