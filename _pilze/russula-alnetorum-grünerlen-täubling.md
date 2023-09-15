@@ -73,6 +73,10 @@ Frisch ausgefallenes Sporenpulver ist weiß bis weißlich, Ia-b nach der Farbtaf
 
 Sporen („sp“ in der Abbildung): ellipsoid mit bis zu 0,7 µm hohen Warzen, die durch Grate oder feine Verbindungen teilnetzig bis netzig verbunden sind. Sporengröße: 7 - 9 x 6 - 7 µm (zum Vergleich bei R. pumila:  7 - 11,2 (-13) x (6-) 7 - 8 (-9))
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_alnetorum-pumila_01_hmx.jpg" %}
+{% include abbildung_ende.html legende="Abbildung Helga Marxmüller (links R. alnetorum, rechts R. pumila)" %}
+
 Die Epikutis besteht aus Epikutishaaren und Pileozystiden. Die Epikutishaare („eh“) sind kurz- bis mittellanggliedrig, teils gewellt und bis etwa 5 µm breit. Die Pileozystiden („pz“) sind ein- bis dreizellig, bis 8 µm breit und in Sulvobenzolaldehyd (SBA) grauend.
 
 **Zusammenfassung der Unterschiede zwischen
