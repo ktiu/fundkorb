@@ -26,11 +26,11 @@ literatur:
   - url: https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=305347
       (abgerufen am 13.9.2023)
 ---
-Nach meiner Kenntnis gibt es nur zwei Täublingsarten, die eine Mykorrhiza mit Erlen eingehen. Beim Gilbenden Erlentäubling Russula pumila, der nahezu ausschließlich in der Ebene auf feuchten Böden vorkommt, sind es Grauerlen (Alnus incana) und Schwarzerlen (Alnus glutinosa), während der Grünerlen-Täubling Russula alnetorum in höheren Lagen bei Grünerlen (Alnus viridis) wächst. In der Roten Liste Deutschlands (2016) wird der Gilbende Erlentäubling in der Kategorie * (ungefährdet) eingestuft.
+Nach meiner Kenntnis gibt es nur zwei Täublingsarten, die eine [Mykorrhiza](Mykorrhiza "Glossar") mit Erlen eingehen. Beim Gilbenden Erlentäubling *Russula pumila*, der nahezu ausschließlich in der Ebene auf feuchten Böden vorkommt, sind es Grauerlen (*Alnus incana*) und Schwarzerlen (*Alnus glutinosa*), während der Grünerlen-Täubling *Russula alnetorum* in höheren Lagen bei Grünerlen (*Alnus viridis*) wächst. In der Roten Liste Deutschlands (2016) wird der Gilbende Erlentäubling in der Kategorie * (ungefährdet) eingestuft.
 
-Makroskopische Merkmale
+**Makroskopische Merkmale:**
 
-Der Grünerlen-Täublings ist ein kleiner gebrechlicher Pilz, dessen Hüte maximal 6 cm Durchmesser erreichen können. Die Hutfarbe ist dunkel weinrot, violettrot, dunkelviolett bis fast schwarz, in der Mitte stets dunkler als am Rand. Auch ausgeblasste Formen kommen vor. Der Hutrand ist nicht oder nur kurz gerieft, die Huthaut feucht glänzend und bis zur Hälfte des Radius abziehbar. Die Lamellen sind weiß, im Alter grauend, und stark brüchig. Sie stehen entfernt und weisen kaum Gabelungen oder Anastomosen auf. Verkürzte Zwischenlamellen sind so gut wie nicht vorhanden. Der Stiel ist fragil, zylindrisch, weiß, später gilbend und im Alter stark grauend. Bei älteren Fruchtkörpern ist er ausgehöhlt (kaverniert). Das Fleisch in Hut und Stiel ist sehr porös, anfangs weiß, später grauend und zusätzlich etwas gilbend. Der Geruch ist unauffällig, der Geschmack vergehend schärflich bis deutlich scharf.
+Der Grünerlen-Täublings ist ein kleiner gebrechlicher Pilz, dessen Hüte maximal 6 cm Durchmesser erreichen können. Die Hutfarbe ist dunkel weinrot, violettrot, dunkelviolett bis fast schwarz, in der Mitte stets dunkler als am Rand. Auch ausgeblasste Formen kommen vor. Der Hutrand ist nicht oder nur kurz gerieft, die Huthaut feucht glänzend und bis zur Hälfte des Radius abziehbar. Die Lamellen sind weiß, im Alter grauend, und stark brüchig. Sie stehen entfernt und weisen kaum Gabelungen oder [Anastomosen](Anastomosen "Glossar") auf. Verkürzte Zwischenlamellen sind so gut wie nicht vorhanden. Der Stiel ist fragil, zylindrisch, weiß, später gilbend und im Alter stark grauend. Bei älteren Fruchtkörpern ist er ausgehöhlt (kaverniert). Das Fleisch in Hut und Stiel ist sehr porös, anfangs weiß, später grauend und zusätzlich etwas gilbend. Der Geruch ist unauffällig, der Geschmack vergehend schärflich bis deutlich scharf.
 
 Frisch ausgefallenes Sporenpulver ist weiß bis weißlich, Ia-b nach der Farbtafel in MARXMÜLLER, H. (2014).
 
@@ -56,7 +56,7 @@ Frisch ausgefallenes Sporenpulver ist weiß bis weißlich, Ia-b nach der Farbtaf
   </table>
 </div>
 
-Mikroskopische Merkmale (weitgehend nach MARXMÜLLER, H. (2014))
+**Mikroskopische Merkmale** (weitgehend nach MARXMÜLLER, H. (2014)):
 
 Sporen („sp“ in der Abbildung): ellipsoid mit bis zu 0,7 µm hohen Warzen, die durch Grate oder feine Verbindungen teilnetzig bis netzig verbunden sind. Sporengröße: 7 - 11,2 (-13) x (6-) 7 - 8 (-9) - (zum Vergleich R. pumila: 7 - 9 x 6 - 7 µm).
 
@@ -66,25 +66,25 @@ Sporen („sp“ in der Abbildung): ellipsoid mit bis zu 0,7 µm hohen Warzen, d
 
 Die Epikutis besteht aus Epikutishaaren und Pileozystiden. Die Epikutishaare („eh“) sind kurz- bis mittellanggliedrig, teils gewellt und bis etwa 5 µm breit. Die Pileozystiden („pz“) sind ein- bis dreizellig, bis 8 µm breit und in Sulvobenzaldehyd (SBA) grauend.
 
-Zusammenfassung der Unterschiede zwischen
-Grünerlen-Täubling (R. alnetorum) und Gilbendem Erlentäubling (R. pumila):
+**Zusammenfassung der Unterschiede zwischen
+Grünerlen-Täubling (*R. alnetorum*) und Gilbendem Erlentäubling (*R. pumila*):**
 
-Habitat: 
-R. alnetorum: feuchte Grünerlengebüsche der Hochlagen
-R. pumila: feuchte Zonen bei Grau- oder Schwarzerlen der Ebene
+Habitat:\
+*R. alnetorum*: feuchte Grünerlengebüsche der Hochlagen\
+*R. pumila*: feuchte Zonen bei Grau- oder Schwarzerlen der Ebene
 
-Grauen und Gilben der Fruchtkörper:
-R. alnetorum: nur Grauen
-R. pumila: Grauen und gleichzeitig Gilben
+Grauen und Gilben der Fruchtkörper:\
+*R. alnetorum*: nur Grauen\
+*R. pumila*: Grauen und gleichzeitig Gilben
 
-Sporengröße:
-R. alnetorum: 7-9 x 6-7 µm
-R. pumila: 7-11,2 (-13) x (6-) 7-8 (-9) µm
+Sporengröße:\
+*R. alnetorum*: 7-9 x 6-7 µm\
+*R. pumila*: 7-11,2 (-13) x (6-) 7-8 (-9) µm
 
-Notizen:
-Einige Autoren wie auch das Index Fungorum synonymisieren Russula pumila mit Russula alnetorum. Ich bin hier der Auffassung von EINHELLINGER, A. (1985), Jahn, H. (1976), MARXMÜLLER, H. (2014), ROMAGNESI, H. (1985) sowie der Roten Liste Pilze Deutschlands (2016) gefolgt, die Russula pumila als eigenständigem Art anerkennen.
-Aus molekularbiologischer Sicht lassen sich nach Ansicht von Felix Hampe (private Mitteilung) die beiden Taxa Russula alnetorum und Russula pumila klar auseinanderhalten, was auch in MARXMÜLLER, H. (2014) auf Seite 681 zum Ausdruck gebracht wird.
+**Anmerkungen:**\
+Einige Autoren wie auch das *Index Fungorum* synonymisieren *Russula pumila* mit *Russula alnetorum*. Ich bin hier der Auffassung von EINHELLINGER, A. (1985), Jahn, H. (1976), MARXMÜLLER, H. (2014), ROMAGNESI, H. (1985) sowie der Roten Liste Pilze Deutschlands (2016) gefolgt, die *Russula pumila* als eigenständigem Art anerkennen.\
+Aus molekularbiologischer Sicht lassen sich nach Ansicht von *Felix Hampe* (private Mitteilung) die beiden Taxa *Russula alnetorum* und *Russula pumila* klar auseinanderhalten, was auch in MARXMÜLLER, H. (2014) auf Seite 681 zum Ausdruck gebracht wird.
 
-Ähnliche Täublinge:
-Der Milde Wachstäubling (Russula puellaris) ist ebenfalls klein und gebrechlich. Doch bei ihm gilbt der gesamte Fruchtkörper, die Hutfarbe enthält keine Violettanteile, der im Geschmack ist völlig mild und er geht keine Mykorrhiza mit Erlen ein.
-Der Wechselfarbige Speitäubling (Russula fragilis) ist ebenfalls klein, jedoch nicht derart gebrechlich wie die Erlentäublinge. Außerdem riecht er deutlich nach Früchtebonbons, schmeckt immer deutlich scharf und geht keine Mykorrhiza mit Erlen ein.
+**Ähnliche Täublinge:**  
+Der [Milde Wachstäubling (*Russula puellaris*)](/pilze/russula-puellaris-milder-wachstäubling-mädchentäubling) ist ebenfalls klein und gebrechlich. Doch bei ihm gilbt der gesamte Fruchtkörper, die Hutfarbe enthält keine Violettanteile, der im Geschmack ist völlig mild und er geht keine Mykorrhiza mit Erlen ein.  
+Der [Wechselfarbige Speitäubling (*Russula fragilis*)](/pilze/russula-fragilis-wechselfarbiger-speitäubling) ist ebenfalls klein, jedoch nicht derart gebrechlich wie die Erlentäublinge. Außerdem riecht er deutlich nach Früchtebonbons, schmeckt immer deutlich scharf und geht keine Mykorrhiza mit Erlen ein.
