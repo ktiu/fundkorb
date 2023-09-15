@@ -17,6 +17,18 @@ Unser Exkursionstermin am Samstag, 30. September 2023, 10:00 Uhr - **Pilze im Fr
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leccinum_pseudoscabrum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Hainbuchen-Raufuß *Leccinum pseudoscabrum*. Er sieht dem Birken-Raufuß zum Verwechseln ähnlich. Den Hainbuchen-Raufuß erkennt man an der meist eingedellten, manchmal wie gehämmert aussehenden Hutoberfläche, was sehr schön auf dem beigefügten Foto zu erkennen ist. Beide sind essbar, dem Hainbuchen-Raufuß attestieren Kenner allerdings die bessere Speisepilzqualität. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_vesca_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,30 +47,6 @@ Unser Exkursionstermin am Samstag, 30. September 2023, 10:00 Uhr - **Pilze im Fr
 14.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Ziegenlippe *Xerocomus subtomentosus*. Bei weniger gut informierten Pilzsammlern landet sie oft zusammen mit anderen  Filzröhrlingen als „Maronen“ im Sammelkorb. Solche „Ungenauigkeiten“oder Verwechslungen bleiben im Normalfall ohne negative Folgen. Risiken bestehen meist nur beim Verzehr vergammelter „Maronen“. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xerocomus-subtomentosus-ziegenlippe)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/craterellus-cornucopioides_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-13.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Totentrompete *Craterellus cornucopioides*. Sie benötigt kalkhaltige Böden und ist daher z. B. in der Rhein-Main-Ebene ausgesprochen selten, aber an Rändern von geschotterten Waldwegen immer mal wieder zu finden. Hier sorgt der Schotter für den notwendigen Kalkeintrag . Herbsttrompeten sind nicht nur ausgezeichnete aromatische Speisepilze sondern auch bestens zum Trocknen oder Einfrieren geeignet. Mit ihnen lassen sich auch etwas fade Pilzgerichte geschmacklich aufwerten, wozu schon wenige, dann aber klein geschnittene Exemplare genügen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gyroporus_castaneus_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.09.2023: Nicht alle Jahre häufig, aber wenn er kommt, dann meist in großer Zahl. Und das scheint in diesem Jahr bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Hasenröhrling *Gyroporus castaneus*, mal wieder der Fall zu sein. Wie sein Gattungskollege, der *[Kornblumenröhrling](/pilze/gyroporus-cyanescens-kornblumenröhrling)*, ist er ungwöhnlich festfleischig, was ihn zu einem ausgezeichneten Speisepilz macht. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gyroporus-castaneus-hasenröhrling)
 
 <div style="clear:  both"></div>
 
