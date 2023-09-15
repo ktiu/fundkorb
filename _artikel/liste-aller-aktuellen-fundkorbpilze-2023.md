@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-15.09.2023: [Russula vesca - Speisetäubling](/pilze/russula-vesca-speisetäubling)  
-14.09.2023: [Xerocomus subtomentosum - Ziegenlippe](/pilze/xerocomus-subtomentosus-ziegenlippe)  
+16.09.2023: [Leccinum pseudoscabrum - Hainbuchen-Raufuß](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß)  
+15.09.2023: [Russula vesca - Speisetäubling](/pilze/russula-vesca-speisetäubling)\
+14.09.2023: [Xerocomus subtomentosum - Ziegenlippe](/pilze/xerocomus-subtomentosus-ziegenlippe)\
 13.09.2023: [Craterellus cornucopioides - Herbsttrompete, Totentrompete](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)\
 12.09.2023: [Gyroporus castaneus - Hasenröhrling](/pilze/gyroporus-castaneus-hasenröhrling)\
 11.09.2023: [Marasmius rotula - Halsbandschwindling](/pilze/marasmius-rotula-halsbandschwindling)\
