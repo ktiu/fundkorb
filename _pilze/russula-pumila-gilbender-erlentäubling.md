@@ -26,7 +26,7 @@ literatur:
   - url: https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=305347
       (abgerufen am 13.9.2023)
 ---
-Nach meiner Kenntnis gibt es nur zwei Täublingsarten, die eine [Mykorrhiza](Mykorrhiza "Glossar") mit Erlen eingehen. Beim Gilbenden Erlentäubling *Russula pumila*, der nahezu ausschließlich in der Ebene auf feuchten Böden vorkommt, sind es Grauerlen (*Alnus incana*) und Schwarzerlen (*Alnus glutinosa*), während der Grünerlen-Täubling *Russula alnetorum* in höheren Lagen bei Grünerlen (*Alnus viridis*) wächst. In der Roten Liste Deutschlands (2016) wird der Gilbende Erlentäubling in der Kategorie * (ungefährdet) eingestuft.
+Nach meiner Kenntnis gibt es nur zwei Täublingsarten, die eine [Mykorrhiza](Mykorrhiza "Glossar") mit Erlen eingehen. Beim Gilbenden Erlentäubling *Russula pumila*, der nahezu ausschließlich in der Ebene auf feuchten Böden vorkommt, sind es Grauerlen (*Alnus incana*) und Schwarzerlen (*Alnus glutinosa*), während der [Grünerlen-Täubling *Russula alnetorum*](/pilze/russula-alnetorum-grünerlen-täubling) in höheren Lagen bei Grünerlen (*Alnus viridis*) wächst. In der Roten Liste Deutschlands (2016) wird der Gilbende Erlentäubling in der Kategorie * (ungefährdet) eingestuft.
 
 **Makroskopische Merkmale:**
 
@@ -85,6 +85,6 @@ Sporengröße:\
 Einige Autoren wie auch das *Index Fungorum* synonymisieren *Russula pumila* mit *Russula alnetorum*. Ich bin hier der Auffassung von EINHELLINGER, A. (1985), Jahn, H. (1976), MARXMÜLLER, H. (2014), ROMAGNESI, H. (1985) sowie der Roten Liste Pilze Deutschlands (2016) gefolgt, die *Russula pumila* als eigenständigem Art anerkennen.\
 Aus molekularbiologischer Sicht lassen sich nach Ansicht von *Felix Hampe* (private Mitteilung) die beiden Taxa *Russula alnetorum* und *Russula pumila* klar auseinanderhalten, was auch in MARXMÜLLER, H. (2014) auf Seite 681 zum Ausdruck gebracht wird.
 
-**Ähnliche Täublinge:**  
-Der [Milde Wachstäubling (*Russula puellaris*)](/pilze/russula-puellaris-milder-wachstäubling-mädchentäubling) ist ebenfalls klein und gebrechlich. Doch bei ihm gilbt der gesamte Fruchtkörper, die Hutfarbe enthält keine Violettanteile, der im Geschmack ist völlig mild und er geht keine Mykorrhiza mit Erlen ein.  
+**Ähnliche Täublinge:**\
+Der [Milde Wachstäubling (*Russula puellaris*)](/pilze/russula-puellaris-milder-wachstäubling-mädchentäubling) ist ebenfalls klein und gebrechlich. Doch bei ihm gilbt der gesamte Fruchtkörper, die Hutfarbe enthält keine Violettanteile, der im Geschmack ist völlig mild und er geht keine Mykorrhiza mit Erlen ein.\
 Der [Wechselfarbige Speitäubling (*Russula fragilis*)](/pilze/russula-fragilis-wechselfarbiger-speitäubling) ist ebenfalls klein, jedoch nicht derart gebrechlich wie die Erlentäublinge. Außerdem riecht er deutlich nach Früchtebonbons, schmeckt immer deutlich scharf und geht keine Mykorrhiza mit Erlen ein.
