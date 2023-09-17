@@ -17,6 +17,18 @@ Unser Exkursionstermin am Samstag, 30. September 2023, 10:00 Uhr - **Pilze im Fr
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_alliaceus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Saitenstielige Knoblauchschwindling *Marasmius alliaceus*. Wer eine gute Nase hat, kann ihn schon wahrnehmen bevor er ihn sieht. Mit seinen langen steifen schwarzbraunen Stielen fällt er als häufiger Wegrandpilz auf, der vor allem dünnere Laubholzästchen besiedelt. Er schmeckt (nicht immer) scharf und ist im Gegensatz zum echten Knoblauchschwindling  nicht küchentauglich.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/marasmius-alliaceus-saitenstieliger-knoblauchschwindling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leccinum_pseudoscabrum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Unser Exkursionstermin am Samstag, 30. September 2023, 10:00 Uhr - **Pilze im Fr
 15.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Speisetäubling *Russula vesca*. Er gehört zweifellos zu den Premiumarten unter den Täublingen, ist von Anfängern aber nicht ganz einfach von anderen roten oder rötlichen Täublingen zu unterscheiden. Wenn er ein wichtiges Merkmal (die etwas zu kurz geratene Huthaut!) deutlich zeigt und einen milden, angenehm nussigen Geschmack hat, darf man ihn getrost in der Küche verwenden. Er ist relativ häufig und vom Sommer bis in den Herbst in Laub- und Mischwäldern zu finden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-vesca-speisetäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_subtomentosus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Ziegenlippe *Xerocomus subtomentosus*. Bei weniger gut informierten Pilzsammlern landet sie oft zusammen mit anderen  Filzröhrlingen als „Maronen“ im Sammelkorb. Solche „Ungenauigkeiten“oder Verwechslungen bleiben im Normalfall ohne negative Folgen. Risiken bestehen meist nur beim Verzehr vergammelter „Maronen“. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xerocomus-subtomentosus-ziegenlippe)
 
 <div style="clear:  both"></div>
 
