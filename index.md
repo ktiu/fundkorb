@@ -17,6 +17,14 @@ Neuer Exkursionstermin: Sonntag, 24. September 2023, 10:00 Uhr - **Herbstanfang 
 
 - - -
 
+20.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Raue Wulstling  *Amanita franchetii*, der zu den seltenen Arten seiner Gattung gehört, möglichweise auch oft verkannt wird. Wir haben ihn jetzt wieder im Wald am Dornsee bei Dietzenbach gefunden. Man könnte ihn für einen Perlpilz halten, der jedoch nirgendwo rötet. Stattdessen zeigt er mehr oder weniger deutliche Gelbtöne an den Gürtelzonen der Stielbasis. Gelblich sind auch die meist kleinen Flöckchen auf der Huthaut. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-franchetii-rauer-wulstling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/chlorophyllum_brunneum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -36,30 +44,6 @@ Neuer Exkursionstermin: Sonntag, 24. September 2023, 10:00 Uhr - **Herbstanfang 
 18.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wabenporling Polyporus alveolaris. Der ist im Rhein-Main-Gebiet schon seit Wochen so häufig wie noch nie. Und manchmal auch noch deutlich größer als gewohnt. Pilzfreunde müssen sich damit begnügen, seine wunderschön geformten weit am Stiel herablaufenden Poren zu betrachten. Wegen seines zähen Fleisches ist er ungenießbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/polyporus-alveolaris-wabenporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_alliaceus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Saitenstielige Knoblauchschwindling *Marasmius alliaceus*. Wer eine gute Nase hat, kann ihn schon wahrnehmen bevor er ihn sieht. Mit seinen langen steifen schwarzbraunen Stielen fällt er als häufiger Wegrandpilz auf, der vor allem dünnere Laubholzästchen besiedelt. Er schmeckt (nicht immer) scharf und ist im Gegensatz zum echten Knoblauchschwindling  nicht küchentauglich.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/marasmius-alliaceus-saitenstieliger-knoblauchschwindling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leccinum_pseudoscabrum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Hainbuchen-Raufuß *Leccinum pseudoscabrum*. Er sieht dem Birken-Raufuß zum Verwechseln ähnlich. Den Hainbuchen-Raufuß erkennt man an der meist eingedellten, manchmal wie gehämmert aussehenden Hutoberfläche, was sehr schön auf dem beigefügten Foto zu erkennen ist. Beide sind essbar, dem Hainbuchen-Raufuß attestieren Kenner allerdings die bessere Speisepilzqualität. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß)
 
 <div style="clear:  both"></div>
 
