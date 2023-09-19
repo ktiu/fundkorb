@@ -12,7 +12,8 @@ footer_scripts:
 
 - - -
 
-Unser Exkursionstermin am Samstag, 30. September 2023, 10:00 Uhr - **Pilze im Frankfurter Stadtwald** ist leider schon ausgebucht.
+Neuer Exkursionstermin: Sonntag, 24. September 2023, 10:00 Uhr - **Herbstanfang und Pilze**\
+[Hier geht's zur Anmeldung >](/termine)
 
 - - -
 
