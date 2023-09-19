@@ -17,6 +17,18 @@ Unser Exkursionstermin am Samstag, 30. September 2023, 10:00 Uhr - **Pilze im Fr
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/chlorophyllum_brunneum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Garten-Riesenschirmling *Chlorophyllum brunneum*, vor dem sich Pilzfreunde in Acht nehmen sollten. Im Wald wird man ihn allerdings kaum einmal antreffen und das ist gut so. Er liebt Kompostansammlungen sowie stark gedüngte Biotope und hat schon manche Magen-/Darm-Verstimmung verursacht, obwohl man bisher noch keinen verantwortlichen Inhaltsstoff hat finden können. Empfehlung: Meidet rötende Riesenschirmlinge, auch als Safranriesenschirmlinge bekannt, die außerhalb von Wäldern wachsen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/chlorophyllum-brunneum-garten-riesenschirmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_alveolaris_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
