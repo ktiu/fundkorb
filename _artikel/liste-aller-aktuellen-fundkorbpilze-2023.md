@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-19.09.2023: [Chlorophyllum brunneum - Garten-Riesenschirmling](/pilze/chlorophyllum-brunneum-garten-riesenschirmling)  
+20.09.2023: [Amanita franchetii - Rauer Wulstling](/pilze/amanita-franchetii-rauer-wulstling)  
+19.09.2023: [Chlorophyllum brunneum - Garten-Riesenschirmling](/pilze/chlorophyllum-brunneum-garten-riesenschirmling)\
 18.09.2023: [Polyporus alveolaris - Wabenporling](/pilze/polyporus-alveolaris-wabenporling)\
 17.09.2023: [Marasmius alliaceus - Saitenstieliger Knoblauchschwindling](/pilze/marasmius-alliaceus-saitenstieliger-knoblauchschwindling)\
 16.09.2023: [Leccinum pseudoscabrum - Hainbuchen-Raufuß](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß)\
