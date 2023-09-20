@@ -27,7 +27,7 @@ Graustieltäublinge haben ein gemeinsames Merkmale: ihre Stiele und ihr Fleisch 
 {% include bild.html datei="/bilder/russula_decolorans_06_us.jpg" %}
 {% include abbildung_ende.html legende="Foto: Udo Schäfer" %}
 
-*Russula decolorans* ist ein mittelgroßer, geruchloser, mild schmeckender Täubling mit meist orangefarbenem Hut, der feuchte, saure Standorte bevorzugt. Die Hutoberfläche ist etwas höckerig, matt oder mattglänzend, bei feuchtem Wetter klebrig oder etwas schmierig und werden bis zu 12 cm breit. Die Farbpalette reicht von orangegelb bis bis orangerot, jedoch verblassen diese Farbe und nehmen im Alter dabei auch grüngelbliche Töne an. Die Lamellen sind beim jungen Pilze hell gelblich, später buttergelb. An den meist recht langen walzenförmigen Stielen fallen oft Längsrillen, Runzeln und grubige Vertiefungen auf. Der Geschmack ist mild, eventuell etwas pikant.
+*Russula decolorans* ist ein mittelgroßer, geruchloser, mild schmeckender Täubling mit meist orangefarbenem bis zu 12 cm breitem Hut, der feuchte, saure Standorte bevorzugt. Die Hutoberfläche ist etwas höckerig, matt oder mattglänzend, bei feuchtem Wetter klebrig oder etwas schmierig. Die Farbpalette reicht von orangegelb bis bis orangerot, jedoch verblassen diese Farben und nehmen im Alter dabei auch grüngelbliche Töne an. Die Lamellen sind beim jungen Pilze hell gelblich, später buttergelb. An den meist recht langen walzenförmigen Stielen fallen oft Längsrillen, Runzeln und grubige Vertiefungen auf. Der Geschmack ist mild, eventuell etwas pikant.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_decolorans_02_ar.jpg" nocrop=true gross=true %}
@@ -58,6 +58,17 @@ Graustieltäublinge haben ein gemeinsames Merkmale: ihre Stiele und ihr Fleisch 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_decolorans_04_ar.jpg" %}
 {% include abbildung_ende.html legende="Foto: Alexander Reichert" %}
+
+**Mikromerkmale:**
+
+Die Sporen sind ellipsoid mit bis zu 0,8, in Ausnahmefällen 1,0 µm hohen, derben Warzen, die isoliert stehen und höchstens zu zweit oder dritt durch feine Linien verbunden sind. Ornamentation und Hilarfleck schwärzen in Sulvovanillin stark, sind also amyloid. Die Maße betragen 9,8 - 11,8 x 7,9 - 9,4 µm, gemessen von Bernd Miggel.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_decolorans_07_bm.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/russula_decolorans_08_us.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Sporen in Mezers Reagenz - Huthaut (Epikutis) in SDS-Kongorot (2 Mikrofotos von Bernd Miggel)" %}
+
+Die Huthaut besteht aus Haaren und Pileozystiden. Die Epikutishaare („eh“ im Bild) bestehen aus gestreckten, aber auch gewellten, ab und zu verzweigten, apikal gerundeten, 2,5 bis 3,0 µm breiten Gliedern. Die Pileozystiden („pz“ im Bild) sind zylindrisch oder schlank keulig, 1- bis 3-zellig, 3 - 6 µm lang und  in Sulvovanillin ebenfalls schwärzend.
 
 Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
 
