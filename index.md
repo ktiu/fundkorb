@@ -17,6 +17,10 @@ Neuer Exkursionstermin: Sonntag, 24. September 2023, 10:00 Uhr - **Herbstanfang 
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/amanita_franchetii_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
 20.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Raue Wulstling  *Amanita franchetii*, der zu den seltenen Arten seiner Gattung gehört, möglichweise auch oft verkannt wird. Wir haben ihn jetzt wieder im Wald am Dornsee bei Dietzenbach gefunden. Man könnte ihn für einen Perlpilz halten, der jedoch nirgendwo rötet. Stattdessen zeigt er mehr oder weniger deutliche Gelbtöne an den Gürtelzonen der Stielbasis. Gelblich sind auch die meist kleinen Flöckchen auf der Huthaut. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-franchetii-rauer-wulstling)
