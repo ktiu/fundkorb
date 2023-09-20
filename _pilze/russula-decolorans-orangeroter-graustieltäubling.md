@@ -6,7 +6,7 @@ beschreibung:
   erlaeuterung: decolorans = entfärbend
   familie: Russulaceae
 profil:
-  aktualisiert: 2023-02-28
+  aktualisiert: 2023-09-20
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
