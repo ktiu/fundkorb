@@ -17,7 +17,7 @@ Neuer Exkursionstermin: Sonntag, 24. September 2023, 10:00 Uhr - **Herbstanfang 
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_franchetii_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
