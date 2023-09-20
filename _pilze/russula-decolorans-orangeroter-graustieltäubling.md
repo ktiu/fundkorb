@@ -27,14 +27,12 @@ Graustieltäublinge haben ein gemeinsames Merkmale: ihre Stiele und ihr Fleisch 
 {% include bild.html datei="/bilder/russula_decolorans_06_us.jpg" %}
 {% include abbildung_ende.html legende="Foto: Udo Schäfer" %}
 
-*Russula decolorans* ist wahrscheinlich der häufigste Graustieltäubling in Deutschland, aber längst nicht überall verbreitet und häufig, da er höhere Lagen zwischen 400 und 1000 m bevorzugt. Allerdings ist in jüngerer Zeit eine deutliche Rückgangstendenz zu beobachten. Seine Begleitbäume und [Mykorrhizapartner](Mykorrhiza "Glossar") sind vorwiegend Fichten, Tannen und Kiefern.
+*Russula decolorans* ist ein mittelgroßer, geruchloser, mild schmeckender Täubling mit meist orangefarbenem Hut, der feuchte, saure Standorte bevorzugt. Die Hutoberfläche ist etwas höckerig, matt oder mattglänzend, bei feuchtem Wetter klebrig oder etwas schmierig und werden bis zu 12 cm breit. Die Farbpalette reicht von orangegelb bis bis orangerot, jedoch verblassen diese Farbe und nehmen im Alter dabei auch grüngelbliche Töne an. Die Lamellen sind beim jungen Pilze hell gelblich, später buttergelb. An den meist recht langen walzenförmigen Stielen fallen oft Längsrillen, Runzeln und grubige Vertiefungen auf. Der Geschmack ist mild, eventuell etwas pikant.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_decolorans_02_ar.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/russula_decolorans_03_ar.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Alexander Reichert" %}
-
-Russula decolorans ist ein mittelgroßer, geruchloser, mild schmeckender Täubling mit meist orangefarbenem Hut, der feuchte, saure Standorte bevorzugt. Die Hutoberfläche ist etwas höckerig, matt oder mattglänzend, bei feuchtem Wetter klebrig oder etwas schmierig und werden bis zu 12 cm breit. Die Farbpalette reicht von orangegelb bis bis orangerot, jedoch verblassen diese Farbe und nehmen im Alter dabei auch grüngelbliche Töne an. Die Lamellen sind beim jungen Pilze hell gelblich, später buttergelb. An den meist recht langen walzenförmigen Stielen fallen oft Längsrillen, Runzeln und grubige Vertiefungen auf. Der Geschmack ist mild, eventuell etwas pikant.
 
 <div class="table-responsive">
   <table class="table taeubling">
