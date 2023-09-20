@@ -29,9 +29,3 @@ Einzelne Fruchtkörper können bis zu 10 cm Durchmesser erreichen. Sie sind rela
 {% include bild.html datei="/bilder/peziza_vesiculosa_05_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Foto links: ganz junge Fruchtkörper auf Pferdemist -- Fotos rechts: Asci, Sporen (Frank Kaster)" %}
 
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/peziza_vesiculosa_06_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/peziza_vesiculosa_07_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Es müssen nicht immer Misthaufen sein - manchmal begnügt sich der Blasige Becherling auch mit nährstoffreichen Böden wie hier in einer Parkanlage in Dietzenbach (13.04.2021)" %}
-
-x
