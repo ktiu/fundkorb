@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-21.09.2023: [Clathrus archeri - Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)  
+22.09.2023: [Xerocomus ferrugineus - Brauner Filzröhrling](/pilze/xerocomus-ferrugineus-brauner-filzröhrling)  
+21.09.2023: [Clathrus archeri - Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)\
 20.09.2023: [Amanita franchetii - Rauer Wulstling](/pilze/amanita-franchetii-rauer-wulstling)\
 19.09.2023: [Chlorophyllum brunneum - Garten-Riesenschirmling](/pilze/chlorophyllum-brunneum-garten-riesenschirmling)\
 18.09.2023: [Polyporus alveolaris - Wabenporling](/pilze/polyporus-alveolaris-wabenporling)\
