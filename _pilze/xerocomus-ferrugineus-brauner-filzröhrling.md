@@ -6,48 +6,31 @@ beschreibung:
   familie: Boletaceae
   erlaeuterung: ferrugineus = rostbraun
 profil:
-  aktualisiert: 2022-07-15
-  autor_in: Bernd Miggel
+  aktualisiert: 2023-09-21
+  autor_in: Thomas Lehr
 hauptbild:
   anzeige: true
-  datei: /bilder/xerocomus-ferrugineus_01_bm.jpg
-literatur:
-  - url: https://www.mikroskopie-forum.de/index.php?topic=44405.msg327744#msg327744
+  datei: /bilder/xerocomus_ferrugineus_01_tl.jpg
+literatur: []
 ---
-Der Braune Filzröhrling ist ein sehr naher Verwandter der gut bekannten und beliebten [Ziegenlippe Xerocomus subtomentosus](/pilze/xerocomus-subtomentosus-ziegenlippe) und wird wohl auch oft für eine solche gehalten, gesammelt und verzehrt. Kein Problem. Beide sind essbar und von vergleichbarer Qualität. Der hier beschriebene Fund stammt von einer Streuobstwiese bei Karlsbad-Spielberg in Baden-Württemberg. Fünf Meter von der Fundstelle entfernt beginnt ein kleiner Espenhain; außerdem standen eine Weide und eine junge Roterle in der Nähe.
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/xerocomus-ferrugineus_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-**Kurzbeschreibung:**
-
-**Hut:** bis 10 cm im Durchmesser, trocken und filzig, dunkel rotbraun; die Huthaut ist relativ dick
-
-**Röhren:** leuchtend gelb bis grünlich, Poren relativ weitstehend und zum Teil rhombisch, auf Druck verändert sich die Farbe <ins>nicht</ins>
-
-**Stiel:** meist auf ganzer Länge gleich dick, an der Basis etwas zuspitzend, grob genetzt mit erhabenen rotbraunen Rippen, deren Farbe an der obersten Stielspitze ins Gelbliche übergehen kann. Das [Basismyzel](Myzel "Glossar") ist intensiv gelb
-
-**Fleisch:** im Stiel rein weiß, im Hut creme weiß, nicht gelb, aber mit leichter Tendenz zum Gilben. Madengänge sind rostbraun. Geruch schwach pilzig, Geschmack angenehm mild, ähnlich wie beim Steinpilz
-
-**Vorkommen:** vor allem in etwas höheren Lagen relativ häufig; [Mykorrhizapilz](Mykorrhiza "Glossar") mit Nadel- und Laubbäumen, gern bei Fichten; Sommer bis Herbst
+Der Braune Filzröhrling ist ein sehr naher Verwandter der gut bekannten und beliebten Ziegenlippe Xerocomus subtomentosus und wird wohl auch oft für eine solche gehalten, gesammelt und verzehrt. Kein Problem. Beide sind essbar und von vergleichbarer Qualität. Der wesentliche Unterschied liegt in der Farbe des Fleisches: X. ferrugineus zeigt eine ± einheitlich weiße bis blass cremefarbene Trama, während X. subtomentosus gelbes, im unteren Stieldrittel fleischrosafarbenes Fleisch hat. Auch blaut die Ziegenlippe oft deutlich an den Poren (die im übrigen leuchtender gelb sind als bei ferrugineus) und auch im Fleisch, was beim Braunen Filzröhrling selten und nur deutlich schwächer der Fall ist.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/xerocomus-ferrugineus_03_bm.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/xerocomus-ferrugineus_06_bm.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="olivbraune, trockene, matte Hutoberfläche; weite, grünlichgelbe, nicht verfärbende Poren" %}
-
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/xerocomus-ferrugineus_04_bm.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/xerocomus-ferrugineus_05_bm.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Stiel im Schnitt weißes, gilbendes, in den Madengängen gelblich bis braun verfärbendes Fleisch, zur Stielbasis zuspitzend" %}
-
-Der Sporenstaub ist olivbraun. Die Sporen sind spindelförmig mit subapikaler Depression (Eindellung unterhalb des Apikulus), relativ dickwandig; Maße: 9,8 x 12 x 4,4 x 5,2 µm.
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/xerocomus-ferrugineus_07_bm.jpg" %}
+{% include bild.html datei="/bilder/xerocomus_ferrugineus_02_tl.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/xerocomus_ferrugineus_03_tl.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+Ein weiteres, fast immer gutes Unterscheidungsmerkmal bietet die Farbe des Basalmyzels: gelb bei ferrugineus, weiß bei subtomentosus. Wenn man dazu noch die unterschiedliche Ökologie beachtet, lassen sich beide Arten schon im Feld in vielen Fällen gut zuordnen: die Ziegenlippe wächst eher in warmen Laubwäldern auf besseren Böden, der Braune Filzröhrling bevorzugt saure Nadelwälder höherer Lagen. In Zweifelsfällen geben die Sporenmaße weitere Hinweise, ferrugineus hat die etwas schmaleren Sporen, mit einem Sporenquotienten um 2,7, subtomentosus hingegen 2,4.
 
-Der wesentliche Unterschied zur Ziegenlippe besteht im deutlich grob genetzten Stiel. Bei der Ziegenlippe ist die Netzzeichnung nur schwach angedeutet. Ihr Fleisch ist nicht weiß oder weißlich, sondern deutlich gelb oder gelblich. Beim Zusammendrücken oder im Schnitt blauen Fleisch und Röhren der Ziegenlippe beim Braunen Filzröhrling nicht.
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/xerocomus_ferrugineus_04_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+Natürlich muss man immer auch die beiden weiteren, deutlich selteneren Arten der Gattung im Blick behalten. Der Goldfüßige Filzröhrling Xerocomus chrysonemus unterscheidet sich bereits deutlich durch sein Habitat, er scheint am striktesten an warme Laubwälder gebunden zu sein. Außerdem hat er deutlich gedrungenere Sporen als ferrugineus (Q 2,1 - 2,3). Am ehesten kann noch die Pappel-Ziegenlippe Xerocomus silwoodensis verwechselt werden, die an Populus-Arten gebunden ist, beim Eintrocknen deutlich gelbes Hutfleisch zeigt und ebenfalls gedrungenere Sporen besitzt (Q 2,2 - 2,4).
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/xerocomus_ferrugineus_05_tl.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/xerocomus_ferrugineus_06_tl.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html %}
+
+Bei allen Arten der Gattung Xerocomus sind die Hutfarben und die Ausprägung eines Stielnetzes sehr variabel und daher kaum zur Artunterscheidung geeignet.
