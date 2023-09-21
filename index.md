@@ -18,6 +18,18 @@ Neuer Exkursionstermin: Sonntag, 24. September 2023, 10:00 Uhr - **Herbstanfang 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clathrus_archeri_07_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.09.2023: Geradezu massenhaft (aber leicht zu übersehen) wachsen zur Zeit die Tintenfischpilze *Clathrus archeri*. Besonders entlang der Waldwege ist unser aktueller Fundkorbpilz nahezu allgegenwärtig, überwiegend in seinem Hexeneistadium. Stinken tut er erst, wenn die schwarzfleckigen roten Arme aus dem Ei geschlüpft sind. Dann lockt der Gestank Pilzfliegen an, die für die Verbreitung der Sporen sorgen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_franchetii_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: Sonntag, 24. September 2023, 10:00 Uhr - **Herbstanfang 
 19.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Garten-Riesenschirmling *Chlorophyllum brunneum*, vor dem sich Pilzfreunde in Acht nehmen sollten. Im Wald wird man ihn allerdings kaum einmal antreffen und das ist gut so. Er liebt Kompostansammlungen sowie stark gedüngte Biotope und hat schon manche Magen-/Darm-Verstimmung verursacht, obwohl man bisher noch keinen verantwortlichen Inhaltsstoff hat finden können. Empfehlung: Meidet rötende Riesenschirmlinge, auch als Safranriesenschirmlinge bekannt, die außerhalb von Wäldern wachsen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/chlorophyllum-brunneum-garten-riesenschirmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_alveolaris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wabenporling Polyporus alveolaris. Der ist im Rhein-Main-Gebiet schon seit Wochen so häufig wie noch nie. Und manchmal auch noch deutlich größer als gewohnt. Pilzfreunde müssen sich damit begnügen, seine wunderschön geformten weit am Stiel herablaufenden Poren zu betrachten. Wegen seines zähen Fleisches ist er ungenießbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/polyporus-alveolaris-wabenporling)
 
 <div style="clear:  both"></div>
 
