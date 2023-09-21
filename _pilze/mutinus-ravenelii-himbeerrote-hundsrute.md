@@ -24,4 +24,8 @@ Von der Gemeinen Hundsrute Mutinus caninus ist die Himbeerrote vor allem durch d
 {% include bild.html datei="/bilder/mutinus_ravenelii_02_ac.jpg" %}
 {% include abbildung_ende.html legende="23.08.2023: Fund aus Kemberg (Sachsen-Anhalt) von Andreas Conrad" %}
 
-Laut DGfM-Kartierung ist sie in Hessen erst einmal gefunden worden (abgerufen am 08.10.2018), ganz weit oben im Nordosten. Aus Sachsen-Anhalt ist mir von *Andreas Conrad* ein Fund mit Foto gemeldet worden, der bisher siebte Nachweis in diesem Bundesland. Die Pilze wuchsen in seinem Garten.
+Laut DGfM-Kartierung ist sie in Hessen erst einmal gefunden worden (abgerufen am 08.10.2018), ganz weit oben im Nordosten. Aus Sachsen-Anhalt ist mir von *Andreas Conrad* ein Fund mit Foto gemeldet worden, der bisher siebte Nachweis in diesem Bundesland. Die Pilze wuchsen in seinem Garten. Ein weiterer Fund wurde mir am 19.09.2023 von *Barbara Zunker* aus Rheine gemeldet.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/mutinus_ravenelii_03_dz.jpg" %}
+{% include abbildung_ende.html legende="In einem Garten in Rheine gefunden (Foto: Daniza Zeiske)" %}
