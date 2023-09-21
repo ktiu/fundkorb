@@ -18,10 +18,22 @@ Neuer Exkursionstermin: Sonntag, 24. September 2023, 10:00 Uhr - **Herbstanfang 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_ferrugineus_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+22.09.2023: Man könnte ihn leicht für eine Ziegenlippe halten, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Der Braune Filzröhrling *Xerocomus ferrugineus* wird von Pilzsammlern wohl auch oft für eine solche gehalten und verzehrt. Kein Problem. Beide sind essbar und von vergleichbarer Qualität. (Thomas Lehr)
+
+[Mehr lesen >](/pilze/xerocomus-ferrugineus-brauner-filzröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clathrus_archeri_07_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-21.09.2023: Geradezu massenhaft (aber leicht zu übersehen) wachsen zur Zeit die Tintenfischpilze *Clathrus archeri*. Besonders entlang der Waldwege ist unser aktueller Fundkorbpilz nahezu allgegenwärtig, überwiegend in seinem Hexeneistadium. Stinken tut er erst, wenn die schwarzfleckigen roten Arme aus dem Ei geschlüpft sind. Dann lockt der Gestank Pilzfliegen an, die für die Verbreitung der Sporen sorgen. (Dieter Gewalt)
+21.09.2023: Geradezu massenhaft (aber leicht zu übersehen) wachsen zur Zeit die Tintenfischpilze *Clathrus archeri*. Besonders entlang der Waldwege ist unser aktueller [Fundkorbpilz](AA "Glossar-") nahezu allgegenwärtig, überwiegend in seinem Hexeneistadium. Stinken tut er erst, wenn die schwarzfleckigen roten Arme aus dem Ei geschlüpft sind. Dann lockt der Gestank Pilzfliegen an, die für die Verbreitung der Sporen sorgen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz)
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: Sonntag, 24. September 2023, 10:00 Uhr - **Herbstanfang 
 20.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Raue Wulstling  *Amanita franchetii*, der zu den seltenen Arten seiner Gattung gehört, möglichweise auch oft verkannt wird. Wir haben ihn jetzt wieder im Wald am Dornsee bei Dietzenbach gefunden. Man könnte ihn für einen Perlpilz halten, der jedoch nirgendwo rötet. Stattdessen zeigt er mehr oder weniger deutliche Gelbtöne an den Gürtelzonen der Stielbasis. Gelblich sind auch die meist kleinen Flöckchen auf der Huthaut. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-franchetii-rauer-wulstling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chlorophyllum_brunneum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Garten-Riesenschirmling *Chlorophyllum brunneum*, vor dem sich Pilzfreunde in Acht nehmen sollten. Im Wald wird man ihn allerdings kaum einmal antreffen und das ist gut so. Er liebt Kompostansammlungen sowie stark gedüngte Biotope und hat schon manche Magen-/Darm-Verstimmung verursacht, obwohl man bisher noch keinen verantwortlichen Inhaltsstoff hat finden können. Empfehlung: Meidet rötende Riesenschirmlinge, auch als Safranriesenschirmlinge bekannt, die außerhalb von Wäldern wachsen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/chlorophyllum-brunneum-garten-riesenschirmling)
 
 <div style="clear:  both"></div>
 
