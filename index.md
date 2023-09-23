@@ -18,6 +18,18 @@ Neuer Exkursionstermin: Sonntag, 24. September 2023, 10:00 Uhr - **Herbstanfang 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_nigricans_03_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+23.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dickblättrige Schwärztäubling *Russula nigricans*, einer der häufigsten Täublinge überhaupt und dazu noch gut zu erkennen. Kein anderer hat so dicke und so schön splitternde Lamellen. Kaum ein anderer wird im Alter so schwarz, kann den Winter so unbeschadet überstehen und ist im Frühjahr noch als schwarze Leiche zu finden. Zur Not könnte man ihn sogar essen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-nigricans-dickblättriger-schwärztäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_ferrugineus_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: Sonntag, 24. September 2023, 10:00 Uhr - **Herbstanfang 
 21.09.2023: Geradezu massenhaft (aber leicht zu übersehen) wachsen zur Zeit die Tintenfischpilze *Clathrus archeri*. Besonders entlang der Waldwege ist unser aktueller [Fundkorbpilz](AA "Glossar-") nahezu allgegenwärtig, überwiegend in seinem Hexeneistadium. Stinken tut er erst, wenn die schwarzfleckigen roten Arme aus dem Ei geschlüpft sind. Dann lockt der Gestank Pilzfliegen an, die für die Verbreitung der Sporen sorgen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_franchetii_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-20.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Raue Wulstling  *Amanita franchetii*, der zu den seltenen Arten seiner Gattung gehört, möglichweise auch oft verkannt wird. Wir haben ihn jetzt wieder im Wald am Dornsee bei Dietzenbach gefunden. Man könnte ihn für einen Perlpilz halten, der jedoch nirgendwo rötet. Stattdessen zeigt er mehr oder weniger deutliche Gelbtöne an den Gürtelzonen der Stielbasis. Gelblich sind auch die meist kleinen Flöckchen auf der Huthaut. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-franchetii-rauer-wulstling)
 
 <div style="clear:  both"></div>
 
