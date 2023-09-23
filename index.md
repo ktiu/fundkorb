@@ -18,6 +18,18 @@ Neuer Exkursionstermin: Sonntag, 24. September 2023, 10:00 Uhr - **Herbstanfang 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinus_lepideus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schuppige Sägeblättling *Lentinus lepideus*. Er wächst vor allem an Totholz der Kiefer, gern an Stümpfen. Neben seinem schuppig aufgerissenen Hut sind die gesägten Lamellenschneiden ein wichtiges Kennzeichen. Da er auch verbautes Nadelholz befallen kann, ist er als Schadpilz einzustufen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lentinus-lepideus-schuppiger-sägeblättling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_nigricans_03_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
