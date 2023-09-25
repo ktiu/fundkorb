@@ -25,5 +25,5 @@ Die abgebildeten Pilze wuchsen in einem verwilderten Bereich einer Parkanlage in
 Die [Apothezien](Apothezien "Glossar") sind becher- bis tellerförmig geformt, jung mit eingebogenem Rand, der später auch gezackt oder auch eingeschnitten erscheint. Sie können bis zu 6 cm Durchmesser erreichen, sind innen ocker bis braun gefärbt, uneben bis leicht faltig, die feinkörnigen Außenseiten sind stets heller.
 
 **Mikromerkmale:**\
-Gelber Wachsbecherling *Peziza cerea*: Sporengröße 14 - 15 x 8 - 10 µm; die Paraphysen sind septiert, und glattwandig, aber nicht eingeschnürt.
+Gelber Wachsbecherling *Peziza cerea*: Sporengröße 14 - 15 x 8 - 10 µm; die [Paraphysen](Paraphyse "Glossar") sind septiert, und glattwandig, aber nicht eingeschnürt.
 [Blasiger Becherling *Peziza vesiculosa*](/pilze/peziza-vesiculosa-blasiger-becherling): Sporengröße 18 - 23 x 10 - 13 µm; die Paraphysen sind septiert und mehrfach schwach eingeschnürt.
