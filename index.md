@@ -24,7 +24,7 @@ Ab 1. Oktober: sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt*
 
 [Mehr lesen >](/pilze/boletus-edulis-gemeiner-steinpilz)
 
-Siehe auch unseren Fundkorb-Ratgeber "Gammelpilze" zum Ausdrucken >
+Siehe auch unseren [Fundkorb-Ratgeber "Gammelpilze" zum Ausdrucken >](/assets/docs/Fundkorb.de-Gammelpilze.pdf)
 
 <div style="clear:  both"></div>
 
