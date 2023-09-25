@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-24.09.2023: [Lentinus lepideus - Schuppiger Sägeblättling](/pilze/lentinus-lepideus-schuppiger-sägeblättling)  
+25.09.2023: [Amanita fulva - Rotbrauner Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)  
+24.09.2023: [Lentinus lepideus - Schuppiger Sägeblättling](/pilze/lentinus-lepideus-schuppiger-sägeblättling)\
 23.09.2023: [Russula nigricans - Dickblättriger Schwärztäubling](/pilze/russula-nigricans-dickblättriger-schwärztäubling)\
 22.09.2023: [Xerocomus ferrugineus - Brauner Filzröhrling](/pilze/xerocomus-ferrugineus-brauner-filzröhrling)\
 21.09.2023: [Clathrus archeri - Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)\
