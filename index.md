@@ -18,6 +18,18 @@ Neuer Exkursionstermin: Sonntag, 24. September 2023, 10:00 Uhr - **Herbstanfang 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_fulva_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fuchsige oder Rotbraune Scheidenstreifling *Amanita fulva*. Er gehört zu den häufigsten Wulstlingen und dürfte in kaum einem mitteleuropäischen Wald fehlen. Scheidenstreiflinge unterscheiden sich von den übrigen Wulstlingen durch die Merkmalskombination *"häutige Scheide an der Stielbasis + kein Ring im oberen Stielbereich"*. Er ist essbar, wegen seines muffigen Geschmacks aber mit Sicherheit keine Delikatesse. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lentinus_lepideus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ Neuer Exkursionstermin: Sonntag, 24. September 2023, 10:00 Uhr - **Herbstanfang 
 23.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dickblättrige Schwärztäubling *Russula nigricans*, einer der häufigsten Täublinge überhaupt und dazu noch gut zu erkennen. Kein anderer hat so dicke und so schön splitternde Lamellen. Kaum ein anderer wird im Alter so schwarz, kann den Winter so unbeschadet überstehen und ist im Frühjahr noch als schwarze Leiche zu finden. Zur Not könnte man ihn sogar essen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-nigricans-dickblättriger-schwärztäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_ferrugineus_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-22.09.2023: Man könnte ihn leicht für eine Ziegenlippe halten, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Der Braune Filzröhrling *Xerocomus ferrugineus* wird von Pilzsammlern wohl auch oft für eine solche gehalten und verzehrt. Kein Problem. Beide sind essbar und von vergleichbarer Qualität. (Thomas Lehr)
-
-[Mehr lesen >](/pilze/xerocomus-ferrugineus-brauner-filzröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clathrus_archeri_07_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.09.2023: Geradezu massenhaft (aber leicht zu übersehen) wachsen zur Zeit die Tintenfischpilze *Clathrus archeri*. Besonders entlang der Waldwege ist unser aktueller [Fundkorbpilz](AA "Glossar-") nahezu allgegenwärtig, überwiegend in seinem Hexeneistadium. Stinken tut er erst, wenn die schwarzfleckigen roten Arme aus dem Ei geschlüpft sind. Dann lockt der Gestank Pilzfliegen an, die für die Verbreitung der Sporen sorgen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz)
 
 <div style="clear:  both"></div>
 
