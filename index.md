@@ -12,6 +12,8 @@ footer_scripts:
 
 - - -
 
+D﻿ie Pilzführung am 30. September im Frankfurter Stadtwald ist ausgebucht. **Anmeldungen nicht mehr möglich.**
+
 Ab 1. Oktober: sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**. [Mehr erfahren >](/termine)
 
 - - -
