@@ -19,10 +19,22 @@ Ab 1. Oktober: sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt*
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_camphoratus_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+27.09.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist heute einer der zahlreichen kleinen braunen Milchlinge, die unsere Waldböden bevölkern: der Kampfermilchling *Lactarius camphoratus*. Seine wässrig weiße Milch und auch das Fleisch schmecken mild mit bitterem oder adstringierendem Nachgeschmack. Das ist Grund genug, ihn nicht in der Küche zu verwenden. Er wächst überwiegend im Nadelwald bei Fichten, mit deren Wurzeln er eine [Mykorrhiza](Mykorrhiza "Glossar") bildet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lactarius-camphoratus-kampfermilchling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_edulis_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-26.09.2023: Viele Pilzfreunde durften sich während der vergangenen Wochen über Steinpilzfunde gefreut haben. Zur Zeit ist es häufig der Gemeine Steinpilz *Boletus edulis*, unser aktueller Fundkorbpilz und eine von vier Steinpilzarten, die von den meisten Sammlern nicht unterschieden werden. Egal, um welche es sich handelt: sie sind alle essbar und wohlschmeckend. Achten sollte man auf ihren Zustand. Sie sollten optisch einwandfrei aussehen und festfleischig sein. Bei vergammelten Exemplaren besteht akute Gefahr, sich gründlich den Magen zu verderben und selbst ernsthafte Vergiftungen sind nicht auszuschließen. Mein Rat: bevor man einen Steinpilz (oder anderen Röhrling) abschneidet: mal mit dem Finger auf seine Oberfläche drücken. Wenn man ohne großen Kraftaufwand eine Delle in den Pilzhut drücken kann: besser stehen lassen! Oder anders formuliert: Stellt beim Sammeln von Pilzen die gleichen Ansprüche, die ihr beim Kauf von Obst und Gemüse im Supermarkt stellen würdet!  (Dieter Gewalt)
+26.09.2023: Viele Pilzfreunde durften sich während der vergangenen Wochen über Steinpilzfunde gefreut haben. Zur Zeit ist es häufig der Gemeine Steinpilz *Boletus edulis*, unser aktueller [Fundkorbpilz](AA "Glossar-") und eine von vier Steinpilzarten, die von den meisten Sammlern nicht unterschieden werden. Egal, um welche es sich handelt: sie sind alle essbar und wohlschmeckend. Achten sollte man auf ihren Zustand. Sie sollten optisch einwandfrei aussehen und festfleischig sein. Bei vergammelten Exemplaren besteht akute Gefahr, sich gründlich den Magen zu verderben und selbst ernsthafte Vergiftungen sind nicht auszuschließen. Mein Rat: bevor man einen Steinpilz (oder anderen Röhrling) abschneidet: mal mit dem Finger auf seine Oberfläche drücken. Wenn man ohne großen Kraftaufwand eine Delle in den Pilzhut drücken kann: besser stehen lassen! Oder anders formuliert: Stellt beim Sammeln von Pilzen die gleichen Ansprüche, die ihr beim Kauf von Obst und Gemüse im Supermarkt stellen würdet!  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/boletus-edulis-gemeiner-steinpilz)
 
@@ -39,18 +51,6 @@ Siehe auch unseren [Fundkorb-Ratgeber "Gammelpilze" zum Ausdrucken >](/assets/do
 25.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fuchsige oder Rotbraune Scheidenstreifling *Amanita fulva*. Er gehört zu den häufigsten Wulstlingen und dürfte in kaum einem mitteleuropäischen Wald fehlen. Scheidenstreiflinge unterscheiden sich von den übrigen Wulstlingen durch die Merkmalskombination *"häutige Scheide an der Stielbasis + kein Ring im oberen Stielbereich"*. Er ist essbar, wegen seines muffigen Geschmacks aber mit Sicherheit keine Delikatesse. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lentinus_lepideus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schuppige Sägeblättling *Lentinus lepideus*. Er wächst vor allem an Totholz der Kiefer, gern an Stümpfen. Neben seinem schuppig aufgerissenen Hut sind die gesägten Lamellenschneiden ein wichtiges Kennzeichen. Da er auch verbautes Nadelholz befallen kann, ist er als Schadpilz einzustufen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lentinus-lepideus-schuppiger-sägeblättling)
 
 <div style="clear:  both"></div>
 
