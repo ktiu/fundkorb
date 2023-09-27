@@ -19,6 +19,18 @@ Ab 1. Oktober: sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt*
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_atropurpurea_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.09.2023: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") ist einer der vielen roten Täublinge, deren Farbe extrem variabel sein kann. Beim Purpuschwarzen Täubling *Russula atropurpurea* ist immerhin der Kontrast der Rottöne zwischen Hutrand und -mitte konstant. Er ist im Zentrum deutlich dunkler, oft sogar fast schwarz. Die Huthaut ist nur am Rand abziehbar, der Geschmack leicht scharf, in der Schärfe aber schnell nachlassend. Er ist zwar essbar, aber sein Speisewert reicht bei Weitem nicht an den der Premiumarten unter den Täublingen heran.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-atropurpurea-purpurschwarzer-täubling)
+
+div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_camphoratus_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Ab 1. Oktober: sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt*
 [Mehr lesen >](/pilze/boletus-edulis-gemeiner-steinpilz)
 
 Siehe auch unseren [Fundkorb-Ratgeber "Gammelpilze" zum Ausdrucken >](/assets/docs/Fundkorb.de-Gammelpilze.pdf)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_fulva_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fuchsige oder Rotbraune Scheidenstreifling *Amanita fulva*. Er gehört zu den häufigsten Wulstlingen und dürfte in kaum einem mitteleuropäischen Wald fehlen. Scheidenstreiflinge unterscheiden sich von den übrigen Wulstlingen durch die Merkmalskombination *"häutige Scheide an der Stielbasis + kein Ring im oberen Stielbereich"*. Er ist essbar, wegen seines muffigen Geschmacks aber mit Sicherheit keine Delikatesse. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)
 
 <div style="clear:  both"></div>
 
