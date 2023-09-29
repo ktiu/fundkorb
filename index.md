@@ -19,6 +19,18 @@ Ab 1. Oktober: sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt*
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmiellus_vaillantii_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist  der Matte Zwergschwindling *Marasmiellus vaillantii*. Seine wattig weichen, äußerst elastischen und flatterigen Hüte werden maximal 1,5 cm breit, die dünnen, hell rotbraunen, nur an der Spitze weißen Stiele werden bis zu 3 cm lang. Vetrocknete Zwergschwindlinge leben im Gegensatz zu den echten Schwindlingen nach erneuter Befeuchtung nicht wieder auf. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/marasmiellus-vaillantii-matter-zwergschwindling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_atropurpurea_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,20 +49,6 @@ div style="clear:  both"></div>
 27.09.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist heute einer der zahlreichen kleinen braunen Milchlinge, die unsere Waldböden bevölkern: der Kampfermilchling *Lactarius camphoratus*. Seine wässrig weiße Milch und auch das Fleisch schmecken mild mit bitterem oder adstringierendem Nachgeschmack. Das ist Grund genug, ihn nicht in der Küche zu verwenden. Er wächst überwiegend im Nadelwald bei Fichten, mit deren Wurzeln er eine [Mykorrhiza](Mykorrhiza "Glossar") bildet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lactarius-camphoratus-kampfermilchling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_edulis_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.09.2023: Viele Pilzfreunde durften sich während der vergangenen Wochen über Steinpilzfunde gefreut haben. Zur Zeit ist es häufig der Gemeine Steinpilz *Boletus edulis*, unser aktueller [Fundkorbpilz](AA "Glossar-") und eine von vier Steinpilzarten, die von den meisten Sammlern nicht unterschieden werden. Egal, um welche es sich handelt: sie sind alle essbar und wohlschmeckend. Achten sollte man auf ihren Zustand. Sie sollten optisch einwandfrei aussehen und festfleischig sein. Bei vergammelten Exemplaren besteht akute Gefahr, sich gründlich den Magen zu verderben und selbst ernsthafte Vergiftungen sind nicht auszuschließen. Mein Rat: bevor man einen Steinpilz (oder anderen Röhrling) abschneidet: mal mit dem Finger auf seine Oberfläche drücken. Wenn man ohne großen Kraftaufwand eine Delle in den Pilzhut drücken kann: besser stehen lassen! Oder anders formuliert: Stellt beim Sammeln von Pilzen die gleichen Ansprüche, die ihr beim Kauf von Obst und Gemüse im Supermarkt stellen würdet!  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-edulis-gemeiner-steinpilz)
-
-Siehe auch unseren [Fundkorb-Ratgeber "Gammelpilze" zum Ausdrucken >](/assets/docs/Fundkorb.de-Gammelpilze.pdf)
 
 <div style="clear:  both"></div>
 
