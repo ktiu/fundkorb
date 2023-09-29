@@ -1,22 +1,26 @@
 ---
 beschreibung:
   wissenschaftlich: Russula atrorubens
+  deutsch: Schwarzroter Speitäubling
+  referenz: Quél. 1898
+  erlaeuterung: atrorubens = schwarzrot
+  familie: Russulaceae
 profil:
   aktualisiert: 2023-09-29
   autor_in: Bernd Miggel
 hauptbild:
-  anzeige: true
   datei: /bilder/russula_atroruben_01_ar.jpg
-  legende: "Zwischen Torfmoos in einem Moorwald in ca. 900 m Höhe (Foto: Alexander
-    Reichert)"
+  legende: "Zwischen Torfmoos in einem Moorwald im Schwarzwald in ca. 900 m Höhe
+    (Foto: Alexander Reichert)"
+  anzeige: true
 literatur:
   - text: "BON, M. (1988): Pareys Buch der Pilze: 72 - 73"
   - text: "DÄHNKE, R.M. (1993): 1200 Pilze in Farbfotos: 909"
   - text: "EINHELLINGER, A. (1985): Die Gattung Russula in Bayern. Hoppea, Denkschr.
       Regensb. Bot. Ges. 43: Nr. 16"
   - text: "JURKEIT, W. & KRAUCH, F. (2009): Russula atrorubens Quélet und Russula
-      laccata Huijsman – zwei umstrittene Arten, R. olivaceoviolascens Gillet –
-      ein“Nomen confusum“! In: Zeitschr. f. Mykol., Bd. 75/2: 129 - 148"
+      laccata Huijsman – zwei umstrittene Arten; in: Zeitschr. f. Mykol., Bd.
+      75/2: 129 - 148"
   - text: "KIBBY, G. (2017): Mushrooms and Toadstools of Britain & Europe Vol. 1:
       186 - 187"
   - text: "KRIEGLSTEINER, G.J. (2000): Die Großpilze Baden-Württembergs, Bd. 2: 551
@@ -34,3 +38,4 @@ Makroskopische Merkmale:
 Die Hüte werden meist nur bis zu 6 cm breit. Sie sind anfangs halbkugelig, doch rasch ausgebreitet und schließlich mit vertieftem Zentrum versehen. Die Huthaut ist glatt oder leicht gerunzelt, feucht stark glänzend und klebrig. Bei älteren Exemplaren ist der Hutrand gerieft. Unter der abgezogenen Huthaut ist das Fleisch bei rothütigen Fruchtkörpern rosa durchgefärbt. Hutfarben reichen von lebhaft karminrot, blutrot, rubinrot, purpurrot bis weinrot oder violett, meist mit sehr dunkler, purpurschwarzer Mitte. Auch entfärbte Hüte mit olivlichen Farbnuancen kommen vor. Die Lamellen sind brüchig, reinweiß, ab und zu mit Lamelletten untermischt und selten gegabelt. Die Schneiden sind ganzrandig und immer reinweiß. Die Stiele sind zylindrisch oder schlankkeulig, ab und zu basal angeschwollen, längsaderig und weiß. Gemäß der Fachliteratur findet man selten Fruchtkörper mit rosa überhauchten Stielen. Das Fleisch ist weiß, bei jungen Exemplaren fest, bei älteren weich und im Stiel ausgestopft. Den Geschmack kann man als sehr scharf bezeichnen, das gilt insbesondere für die Lamellen. Der Geruch ist deutlich fruchtig, fast wie der von Früchtebonbons. 
 
 Frisch ausgefallenes Sporenpulver ist weiß bis weißlich, manchmal auch hellcreme (entsprechen. Ia-b (IIa) nach der Farbtafel in MARXMÜLLER, H. (2014).
+
