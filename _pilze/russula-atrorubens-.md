@@ -36,8 +36,6 @@ Der Schwarzrote Speitäubling *Russula atrorubens* ist ein wahres Schmuckstück 
 
 **Makroskopische Merkmale:** Die Hüte werden meist nur bis zu 6 cm breit. Sie sind anfangs halbkugelig, doch rasch ausgebreitet und schließlich mit vertieftem Zentrum versehen. Die Huthaut ist glatt oder leicht gerunzelt, feucht stark glänzend und klebrig. Bei älteren Exemplaren ist der Hutrand gerieft. Unter der abgezogenen Huthaut ist das Fleisch bei rothütigen Fruchtkörpern rosa durchgefärbt. Hutfarben reichen von lebhaft karminrot, blutrot, rubinrot, purpurrot bis weinrot oder violett, meist mit sehr dunkler, purpurschwarzer Mitte. Auch entfärbte Hüte mit olivlichen Farbnuancen kommen vor. Die Lamellen sind brüchig, reinweiß, ab und zu mit Lamelletten untermischt und selten gegabelt. Die Schneiden sind ganzrandig und immer reinweiß. Die Stiele sind zylindrisch oder schlankkeulig, ab und zu basal angeschwollen, längsaderig und weiß. Gemäß der Fachliteratur findet man selten Fruchtkörper mit rosa überhauchten Stielen. Das Fleisch ist weiß, bei jungen Exemplaren fest, bei älteren weich und im Stiel ausgestopft. Den Geschmack kann man als sehr scharf bezeichnen, das gilt insbesondere für die Lamellen. Der Geruch ist deutlich fruchtig, fast wie der von Früchtebonbons.  
 
-
-
 Frisch ausgefallenes Sporenpulver ist weiß bis weißlich, manchmal auch hellcreme (entsprechen. Ia-b (IIa) nach der Farbtafel in MARXMÜLLER, H. (2014).
 
 <div class="table-responsive">
@@ -62,16 +60,16 @@ Frisch ausgefallenes Sporenpulver ist weiß bis weißlich, manchmal auch hellcre
   </table>
 </div>
 
-Mikroskopische Merkmale:
+**Mikroskopische Merkmale:**
 Die Sporen (gemäß KRÄNZLIN 2005) sind ellipsoid und besitzen ein warzig-netziges, bis 0,5 (max. 0,8) µm hohes Ornament. Die Ornamentation ist stark, der Hilarfleck nur schwach amyloid. Die Maße sind  6,2 - 8,3 x 5,2 - 6,3 µm     Q (Schlankheitsgrad):= 1,2 - 1,4
 
 Die Epikutis (oberste Schicht der Huthaut) besteht aus Epikutishaaren und Pileozystiden. Die Epikutishaare („eh“ in Bild 3) bestehen aus langgliedrigen, zylindischen oder gewellten, ab und zu septierten, ab und zu verzweigten, apikal meist gerundeten, 2-5 µm breiten Gliedern. Die Pileozystiden („pz“ in Bild 3) sind meist keulig, 1-4-zellig, 6-10 µm breit und in Sulfovanillin deutlich grau bis schwarz werdend.
 
 Alle deutlich scharf schmeckenden Täublinge besitzen in der Epikutis Pileozystiden. Ausnahmen von dieser Regel sind Russula ochroleuca und Russula anthracina, die deutlich scharf schmecken können, jedoch keine Pileozystiden besitzen. 
 
-Ähnliche Täublinge:
+**Ähnliche Täublinge:**
 
-Der  Lackierte Täubling (Russula laccata) gleicht der beschriebenen Art außerordentlich. Jedoch ist er nicht an Nadelbäume, sondern an Weidearten (Salix sp.) gebunden. Außerdem ist seine Guajak-Reaktion nicht rapide und stark, sondern verzögert und weniger stark.
-Der  Wässrige Täubling (Russula aquosa) wächst typischerweise zwischen Torfmoosen. Das Fleisch ist nur mäßig scharf oder sogar mild. Seine Guajak-Reaktion ist schwach.
-Der Wechselfarbige Speitäubling (Russula fragilis) besitzt gerne wechselfarbige, mehrfarbige Hüte mit violetten, oliven oder purpurfarbenen Komponenten. Die Lamellen sind meist gesägt, die Guajak-Reaktion ist schwach, und die Sporen sind größer.
-Der Purpurschwarze Täubling (Russula atropurpurea) pflegt eine Mykorrhiza mit Laubbäumen, insbesondere mit Eichen und Rotbuchen. Seine Fruchtkörper sind größer, nämlich 4-8 (max. 10) cm breit. Der Geschmack ist weniger scharf, oft nur schärflich, und er vergeht schnell.
+Der  [Lackierte Täubling (*Russula laccata*)](/pilze/russula-laccata-lackierter-täubling) gleicht der beschriebenen Art außerordentlich. Jedoch ist er nicht an Nadelbäume, sondern an Weidearten (Salix sp.) gebunden. Außerdem ist seine Guajak-Reaktion nicht rapide und stark, sondern verzögert und weniger stark.
+Der  [Wässrige Täubling (*Russula aquosa*)](/pilze/russula-aquosa-wässriger-moortäubling) wächst typischerweise zwischen Torfmoosen. Das Fleisch ist nur mäßig scharf oder sogar mild. Seine Guajak-Reaktion ist schwach.
+Der [Wechselfarbige Speitäubling (*Russula fragilis*)](/pilze/russula-silvestris-kiefern-speitäubling) besitzt gerne wechselfarbige, mehrfarbige Hüte mit violetten, oliven oder purpurfarbenen Komponenten. Die Lamellen sind meist gesägt, die Guajak-Reaktion ist schwach, und die Sporen sind größer.
+Der [Purpurschwarze Täubling (*Russula atropurpurea*)](/pilze/russula-atropurpurea-purpurschwarzer-täubling) pflegt eine [Mykorrhiza](Mykorrhiza "Glossar") mit Laubbäumen, insbesondere mit Eichen und Rotbuchen. Seine Fruchtkörper sind größer, nämlich 4-8 (max. 10) cm breit. Der Geschmack ist weniger scharf, oft nur schärflich, und er vergeht schnell.
