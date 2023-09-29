@@ -12,9 +12,19 @@ footer_scripts:
 
 - - -
 
-D﻿ie Pilzführung am 30. September im Frankfurter Stadtwald ist ausgebucht. **Anmeldungen nicht mehr möglich.**
+Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**. [Mehr erfahren >](/termine)
 
-Ab 1. Oktober: sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**. [Mehr erfahren >](/termine)
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_silvestris_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kiefern-Speitäubling *Russula silvestris*, der keineswegs nur bei Kiefern wächst. Besonders häufig ist er in einem unserer Roteichenforste und das ganz ohne Kiefern. Es handelt sich um einen kleinen zerbrechlichen Täubling, dessen Hutfarben von satt kirschrot bis blass rosarot variieren. Konstant ist die rein weiße Farbe von Lamellen und Stiel sowie der sehr scharfe Geschmack. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-silvestris-kiefern-speitäubling)
+
+<div style="clear:  both"></div>
 
 - - -
 
