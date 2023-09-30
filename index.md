@@ -12,6 +12,8 @@ footer_scripts:
 
 - - -
 
+30. September 10:00 Uhr: Die Führung im Frankfurter Stadtwald findet statt. Wegen der Trockenheit ist jedoch kaum mit Speisepilzen zu rechnen.
+
 Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**. [Mehr erfahren >](/termine)
 
 - - -
