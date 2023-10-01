@@ -18,6 +18,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/vascellum_pratense_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+02.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wiesenstäubling *Vascellum pratense*. Er hat eine recht charakteristische kissenförmige Form. Dazu passt sein zweiter Name Niedergedrückter Stäubling. Er ist jung rein weiß, seine Außenseite ist mit leicht ablösbaren feinkörnigen Pusteln besetzt. Aufgeschnitten zeigt sich ein wichtiges Merkmal: Zwischen Kopf- und Stielteil ist eine undeutliche Trennlinie zu erkennen. Er ist durchaus in der Küche verwendbar und cross angebraten gar nicht so übel. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/vascellum-pratense-wiesenstäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_galericulata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 30.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kiefern-Speitäubling *Russula silvestris*, der keineswegs nur bei Kiefern wächst. Besonders häufig ist er in einem unserer Roteichenforste und das ganz ohne Kiefern. Es handelt sich um einen kleinen zerbrechlichen Täubling, dessen Hutfarben von satt kirschrot bis blass rosarot variieren. Konstant ist die rein weiße Farbe von Lamellen und Stiel sowie der sehr scharfe Geschmack. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-silvestris-kiefern-speitäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmiellus_vaillantii_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist  der Matte Zwergschwindling *Marasmiellus vaillantii*. Seine wattig weichen, äußerst elastischen und flatterigen Hüte werden maximal 1,5 cm breit, die dünnen, hell rotbraunen, nur an der Spitze weißen Stiele werden bis zu 3 cm lang. Vetrocknete Zwergschwindlinge leben im Gegensatz zu den echten Schwindlingen nach erneuter Befeuchtung nicht wieder auf. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/marasmiellus-vaillantii-matter-zwergschwindling)
 
 <div style="clear:  both"></div>
 
