@@ -12,10 +12,20 @@ footer_scripts:
 
 - - -
 
-30. September 10:00 Uhr: Die Führung im Frankfurter Stadtwald findet statt. Wegen der Trockenheit ist jedoch kaum mit Speisepilzen zu rechnen.
-
-Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.  
+Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 [Mehr erfahren >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_galericulata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.10.2023: Zur Zeit ist es zwar ziemlich trocken in unseren Wäldern, aber Pilze, die an Holz oder auch an vergrabenen Holzresten im Boden wachsen, sind immer mal wieder zu finden. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rosablättrige Helmling *Mycena galericulata*. Er ist ausgespro¬chen häufig und erscheint meist gesellig bis büschelig wie hier abgebildet. Seinen deutschen Namen muss man nicht allzu wörtlich nehmen, denn rosa sind seine Lamellen meist nicht sondern weiß. Erst im Alter zeigen sie diese Farbe und das auch oft nur blass angehaucht. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-galericulata-rosablättriger-helmling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -38,30 +48,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.
 29.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist  der Matte Zwergschwindling *Marasmiellus vaillantii*. Seine wattig weichen, äußerst elastischen und flatterigen Hüte werden maximal 1,5 cm breit, die dünnen, hell rotbraunen, nur an der Spitze weißen Stiele werden bis zu 3 cm lang. Vetrocknete Zwergschwindlinge leben im Gegensatz zu den echten Schwindlingen nach erneuter Befeuchtung nicht wieder auf. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/marasmiellus-vaillantii-matter-zwergschwindling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_atropurpurea_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.09.2023: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") ist einer der vielen roten Täublinge, deren Farbe extrem variabel sein kann. Beim Purpuschwarzen Täubling *Russula atropurpurea* ist immerhin der Kontrast der Rottöne zwischen Hutrand und -mitte konstant. Er ist im Zentrum deutlich dunkler, oft sogar fast schwarz. Die Huthaut ist nur am Rand abziehbar, der Geschmack leicht scharf, in der Schärfe aber schnell nachlassend. Er ist zwar essbar, aber sein Speisewert reicht bei Weitem nicht an den der Premiumarten unter den Täublingen heran.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-atropurpurea-purpurschwarzer-täubling)
-
-div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_camphoratus_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-27.09.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist heute einer der zahlreichen kleinen braunen Milchlinge, die unsere Waldböden bevölkern: der Kampfermilchling *Lactarius camphoratus*. Seine wässrig weiße Milch und auch das Fleisch schmecken mild mit bitterem oder adstringierendem Nachgeschmack. Das ist Grund genug, ihn nicht in der Küche zu verwenden. Er wächst überwiegend im Nadelwald bei Fichten, mit deren Wurzeln er eine [Mykorrhiza](Mykorrhiza "Glossar") bildet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lactarius-camphoratus-kampfermilchling)
 
 <div style="clear:  both"></div>
 
