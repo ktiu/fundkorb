@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
+02.10.2023: [Vascellum pratense - Wiesenstäubling](/pilze/vascellum-pratense-wiesenstäubling)  
 01.10.2023: [Mycena galericulata - Rosablättriger Helmling](/pilze/mycena-galericulata-rosablättriger-helmling)
 
 30.09.2023: [Russula silvestris - Kiefern-Speitäubling](/pilze/russula-silvestris-kiefern-speitäubling)\
