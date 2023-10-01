@@ -8,6 +8,7 @@ beschreibung:
   erlaeuterung: helvelloides = lappig geformt
 profil:
   aktualisiert: 2023-10-01
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/tremiscus_helvelloides_01_gb.jpg
