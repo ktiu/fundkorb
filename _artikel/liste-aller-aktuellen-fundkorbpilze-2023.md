@@ -3,7 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-30.09.2023: [Russula silvestris - Kiefern-Speitäubling](/pilze/russula-silvestris-kiefern-speitäubling)  
+01.10.2023: [Mycena galericulata - Rosablättriger Helmling](/pilze/mycena-galericulata-rosablättriger-helmling)
+
+30.09.2023: [Russula silvestris - Kiefern-Speitäubling](/pilze/russula-silvestris-kiefern-speitäubling)\
 29.09.2023: [Marasmiellus vaillantii - Matter Zwergschwindling](/pilze/marasmiellus-vaillantii-matter-zwergschwindling)\
 28.09.2023: [Russula atropurpurea - Purpurschwarzer Täubling](/pilze/russula-atropurpurea-purpurschwarzer-täubling)\
 27.09.2023: [Lactarius camphoratus - Lampfermilchling](/pilze/lactarius-camphoratus-kampfermilchling)\
