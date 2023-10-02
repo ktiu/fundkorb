@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-03.10.2023: [Tremiscus hellvelloides - Rötlicher Gallertbecher](/pilze/tremiscus-helvelloides-rötlicher-gallerttrichter)  
+04.10.2023: [Leccinum scabrum - Birken-Raufuß, Birkenpilz](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz)  
+03.10.2023: [Tremiscus hellvelloides - Rötlicher Gallertbecher](/pilze/tremiscus-helvelloides-rötlicher-gallerttrichter)\
 02.10.2023: [Vascellum pratense - Wiesenstäubling](/pilze/vascellum-pratense-wiesenstäubling)\
 01.10.2023: [Mycena galericulata - Rosablättriger Helmling](/pilze/mycena-galericulata-rosablättriger-helmling)
 
