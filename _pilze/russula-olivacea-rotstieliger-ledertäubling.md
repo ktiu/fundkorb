@@ -61,7 +61,7 @@ Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkun
 Aufgrund des Namens könnte man vermuten, dass die 8 in Deutschland nachgewiesenen Ledertäublinge einer homogenen Gruppe angehören. Das ist leider nicht der Fall. Man findet sie je nach Autor in verschiedenen Untergattungen und unterschiedlichen Sektionen. Unsere Artenliste folgt der Systematik von Romagnesi (1987):\
 In der Sektion *Integrinae*:\
 **Russula carminipes** = Bereifter Ledertäubling\
-**Russula curtipes** = Kurzstieliger Ledertäubling\
+**[Russula curtipes](/pilze/russula-curtipes-kurzstieliger-ledertäubling)** = Kurzstieliger Ledertäubling\
 **[Russula integra](/pilze/russula-integra-brauner-ledertäubling)** = Braunroter Ledertäubling\
 **Russula melitodes** = Kleiner Ledertäubling, Palisander-Täubling\
 **[Russula romellii](/pilze/russula-romellii-weißstieliger-ledertäubling)** = Weißstieliger Ledertäubling\
