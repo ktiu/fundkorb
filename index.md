@@ -21,7 +21,7 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 {% include bild.html datei="/bilder/tremiscus_helvelloides_01_gb.jpg" %}
 {% include abbildung_ende.html %}
 
-03.10.2023: Ein wunderschöner Fund wurde mir heute von Dietrich Schiebler aus dem Schwarzwald gemeldet. Aktueller [Fundkorbpilz](AA "Glossar-") ist daher der Rötliche Gallerttrichter *Tremiscus helvelloides*. Er gehört zu den Pilzarten, die viel Feuchtigkeit zum Wachstum benötigen und deren Bestand durch den fortschreitenden Klimawandel ernsthaft gefährdet ist. Ich kann mich gut erinnern, ihm während der 1980er Jahre ebenfalls im Schwarzwald mehrfach begegnet zu sein. (Dieter Gewalt)
+03.10.2023: Ein wunderschöner Fund wurde mir heute von *Dietrich Schiebler* aus dem Schwarzwald gemeldet. Aktueller [Fundkorbpilz](AA "Glossar-") ist daher der Rötliche Gallerttrichter *Tremiscus helvelloides*. Er gehört zu den Pilzarten, die viel Feuchtigkeit zum Wachstum benötigen und deren Bestand durch den fortschreitenden Klimawandel ernsthaft gefährdet ist. Ich kann mich gut erinnern, ihm während der 1980er Jahre ebenfalls im Schwarzwald mehrfach begegnet zu sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tremiscus-helvelloides-rötlicher-gallerttrichter)
 
