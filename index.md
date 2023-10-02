@@ -18,6 +18,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leccinum_scabrum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birken-Raufuß *Leccinum scabrum*. Wie fast alle Raufußröhrlinge ist er an eine bestimmte Baumart gebunden. Sehr ähnlich ist der [Hainbuchen-Raufuß](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß). Alle Leccinum-Arten, zu denen auch die Rotkappen zählen, sind essbar. Der Birken-Raufuß gehört zu den weniger schmackhaften, vor allem dann, wenn ihre Hüte schon sehr weichfleischig sind. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tremiscus_helvelloides_01_gb.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 02.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wiesenstäubling *Vascellum pratense*. Er hat eine recht charakteristische kissenförmige Form. Dazu passt sein zweiter Name Niedergedrückter Stäubling. Er ist jung rein weiß, seine Außenseite ist mit leicht ablösbaren feinkörnigen Pusteln besetzt. Aufgeschnitten zeigt sich ein wichtiges Merkmal: Zwischen Kopf- und Stielteil ist eine undeutliche Trennlinie zu erkennen. Er ist durchaus in der Küche verwendbar und cross angebraten gar nicht so übel. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/vascellum-pratense-wiesenstäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_galericulata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.10.2023: Zur Zeit ist es zwar ziemlich trocken in unseren Wäldern, aber Pilze, die an Holz oder auch an vergrabenen Holzresten im Boden wachsen, sind immer mal wieder zu finden. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rosablättrige Helmling *Mycena galericulata*. Er ist ausgespro¬chen häufig und erscheint meist gesellig bis büschelig wie hier abgebildet. Seinen deutschen Namen muss man nicht allzu wörtlich nehmen, denn rosa sind seine Lamellen meist nicht sondern weiß. Erst im Alter zeigen sie diese Farbe und das auch oft nur blass angehaucht. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-galericulata-rosablättriger-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_silvestris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.09.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kiefern-Speitäubling *Russula silvestris*, der keineswegs nur bei Kiefern wächst. Besonders häufig ist er in einem unserer Roteichenforste und das ganz ohne Kiefern. Es handelt sich um einen kleinen zerbrechlichen Täubling, dessen Hutfarben von satt kirschrot bis blass rosarot variieren. Konstant ist die rein weiße Farbe von Lamellen und Stiel sowie der sehr scharfe Geschmack. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-silvestris-kiefern-speitäubling)
 
 <div style="clear:  both"></div>
 
