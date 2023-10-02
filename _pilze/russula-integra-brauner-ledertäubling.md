@@ -64,14 +64,14 @@ Verwechslungen wären möglich mit dem Weißstieligen Ledertäubling *Russula ro
 Aufgrund des Namens könnte man vermuten, dass die 8 in Deutschland nachgewiesenen Ledertäublinge einer homogenen Gruppe angehören. Das ist leider nicht der Fall. Man findet sie je nach Autor in verschiedenen Untergattungen und unterschiedlichen Sektionen. Unsere Artenliste folgt der Systematik von Romagnesi (1987):\
 In der Sektion *Integrinae*:\
 **Russula carminipes** = Bereifter Ledertäubling\
-**Russula curtipes** = Kurzstieliger Ledertäubling\
+**[Russula curtipes](/pilze/russula-curtipes-kurzstieliger-ledertäubling)** = Kurzstieliger Ledertäubling\
 **Russula integra** = Braunroter Ledertäubling\
 **Russula melitodes** = Kleiner Ledertäubling, Palisander-Täubling\
 **[Russula romellii](/pilze/russula-romellii-weißstieliger-ledertäubling)** = Weißstieliger Ledertäubling\
 In der Sektion *Olivaceinae*:\
 **[Russula alutacea](/pilze/russula-alutacea-glänzender-ledertäubling)** = Glänzender Ledertäubling\
 **[Russula olivacea](/pilze/russula-olivacea-rotstieliger-ledertäubling)** = Rotstieliger (Wechselfarbiger) Ledertäubling\
-**Russula vinosobrunnea** = Purpurbrauner Ledertäubling
+**[Russula vinosobrunnea](/pilze/russula-vinosobrunnea-purpurbrauner-ledertäubling)** = Purpurbrauner Ledertäubling
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_integra_07_gg.jpg" %}
