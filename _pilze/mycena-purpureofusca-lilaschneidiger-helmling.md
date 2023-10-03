@@ -21,10 +21,10 @@ Hermine hat an den gefärbten Lamellenschneiden große bauchige Zystiden mit tei
 
 ##### Makroskopische Merkmale:
 
-**Hut:** 1 – 2,5 cm Ø, violettbraun, rosaviolett bis graulila, Mitte buckelig zugespitzt und dunkler  
-**Lamellen:** weiß, grau bis graugelb, Schneide violett bis violettrosa  
-**Stiel:** violettbraun, rosaviolett bis graulila, dünn, zerbrechlich, hohl, Basis filzig und wurzelnd  
-**Geruch:** unauffällig  
+**Hut:** 1 – 2,5 cm Ø, violettbraun, rosaviolett bis graulila, Mitte buckelig zugespitzt und dunkler\
+**Lamellen:** weiß, grau bis graugelb, Schneide violett bis violettrosa\
+**Stiel:** violettbraun, rosaviolett bis graulila, dünn, zerbrechlich, hohl, Basis filzig und wurzelnd\
+**Geruch:** unauffällig\
 **Geschmack:** mild
 
 Der Lilaschneidige Helmling wächst als Folgezersetzer in Nadelwäldern, auf moderndem Nadelholz, auf Nadelstreu, auch auf Kiefern- oder Fichtenzapfen, von Herbst bis Winter. Als Verwechslungsmöglichkeiten werden bei 123pilze Rettichhelmlinge (Mycena pura, rosea, diosma) genannt, die leicht durch Größe und Geruch zu unterscheiden sind.
@@ -34,8 +34,8 @@ Der Lilaschneidige Helmling wächst als Folgezersetzer in Nadelwäldern, auf mod
 {% include bild.html datei="/bilder/mycena_purpureofusca_03_dg.jpg" %}
 {% include abbildung_ende.html legende="Gut zu erkennen: die gefärbten Lamellenschneiden (30.03.2019 TK 5918.4.3 Dietzenbach, Carré Rodgaustraße)" %}
 
-Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:  
-[Mycena olivaceomarginata = Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)  
-[Mycena pelianthina = Schwarzgezähnlter Helmling](/pilze/mycena-pelianthina-schwarzgezähnelter-helmling)  
-[Mycena sanguinolenta = Purpurschneidiger Helmllng, Kleiner Bluthelmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)  
+Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:\
+[Mycena olivaceomarginata = Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)\
+[Mycena pelianthina = Schwarzgezähnlter Helmling](/pilze/mycena-pelianthina-schwarzgezähnelter-helmling)\
+[Mycena sanguinolenta = Purpurschneidiger Helmling, Kleiner Bluthelmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)\
 [Mycena viridimarginata = Grünschneidiger Helmling](/pilze/mycena-viridimarginata-grünschneidiger-helmling)
