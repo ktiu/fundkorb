@@ -18,6 +18,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_purpureofusca_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.10.2023: Der aktuelle [Fundkorbpilz](AA "Glossar-") kommt heute aus Bayern, genauer aus einem kleinen Mischwald bei Oberschleißheim nördlich von München. Es ist der Lilaschneidige Helmling *Mycena purpureofusca*. Im Rahmen einer Exkursion des Münchner Pilzvereins fanden wir 3 Fruchtkörper an einem bemossten Stamm einer noch intakten Fichte. Der seltene Helming lässt sich durch seine auffällige Lilafarbe am Hut, am Stiel und an den Lamellenschneiden bereits am Fundort leicht bestimmen. (Johann Rejek)
+
+[Mehr lesen >](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leccinum_scabrum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 03.10.2023: Ein wunderschöner Fund wurde mir heute von *Dietrich Schiebler* aus dem Schwarzwald gemeldet. Aktueller [Fundkorbpilz](AA "Glossar-") ist daher der Rötliche Gallerttrichter *Tremiscus helvelloides*. Er gehört zu den Pilzarten, die viel Feuchtigkeit zum Wachstum benötigen und deren Bestand durch den fortschreitenden Klimawandel ernsthaft gefährdet ist. Ich kann mich gut erinnern, ihm während der 1980er Jahre ebenfalls im Schwarzwald mehrfach begegnet zu sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tremiscus-helvelloides-rötlicher-gallerttrichter)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/vascellum_pratense_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-02.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wiesenstäubling *Vascellum pratense*. Er hat eine recht charakteristische kissenförmige Form. Dazu passt sein zweiter Name Niedergedrückter Stäubling. Er ist jung rein weiß, seine Außenseite ist mit leicht ablösbaren feinkörnigen Pusteln besetzt. Aufgeschnitten zeigt sich ein wichtiges Merkmal: Zwischen Kopf- und Stielteil ist eine undeutliche Trennlinie zu erkennen. Er ist durchaus in der Küche verwendbar und cross angebraten gar nicht so übel. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/vascellum-pratense-wiesenstäubling)
 
 <div style="clear:  both"></div>
 
