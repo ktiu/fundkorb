@@ -18,6 +18,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/staheliomyces_cinctus_01_hs.jpg" %}
+{% include abbildung_ende.html %}
+
+06.10.2023: Es gibt einige Pilzarten, deren Name allein schon eine gelungene Fruchtkörperbeschreibung ist. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Strangulierte Stinkmorchel *Staheliomyces cinctus*. Ungeklärt bleibt, wer der „Halstuchmörder “ gewesen ist oder ob es Selbstmord war. In Deutschland wird man diesen bemerkenswerten Pilz kaum finden. *Udo Wittemann* hat ihn im mittelamerikanischen Honduras gefunden und gemeldet.
+
+[Mehr lesen >](/pilze/staheliomyces-cinctus-strangulierte-stinkmorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_purpureofusca_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
