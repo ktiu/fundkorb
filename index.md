@@ -18,6 +18,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinellus_domesticus_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haustintling *Coprinellus domesticus*. Er ähnelt dem sehr viel häufigeren Glimmertintling, ist aber größer und wächst eher einzeln oder zu wenigen an totem oder auch im Boden vergrabenem Holz, das er manchmal mit einem rostfarbenen Ozonium überzieht. Vor allem ist sein Stiel auf ganzer Länge gerieft, ein Alleinstellungsmerk¬mal, das ihn von allen ähnlichen Tintlingen unterscheidet. Seinen Namen hat er erhalten, weil er tatsächlich an altem verbautem Holz in Häusern vorkommen kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/coprinellus-domesticus-haustintling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/staheliomyces_cinctus_01_hs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 05.10.2023: Der aktuelle [Fundkorbpilz](AA "Glossar-") kommt heute aus Bayern, genauer aus einem kleinen Mischwald bei Oberschleißheim nördlich von München. Es ist der Lilaschneidige Helmling *Mycena purpureofusca*. Im Rahmen einer Exkursion des Münchner Pilzvereins fanden wir 3 Fruchtkörper an einem bemossten Stamm einer noch intakten Fichte. Der seltene Helming lässt sich durch seine auffällige Lilafarbe am Hut, am Stiel und an den Lamellenschneiden bereits am Fundort leicht bestimmen. (Johann Rejek)
 
 [Mehr lesen >](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leccinum_scabrum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birken-Raufuß *Leccinum scabrum*. Wie fast alle Raufußröhrlinge ist er an eine bestimmte Baumart gebunden. Sehr ähnlich ist der [Hainbuchen-Raufuß](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß). Alle Leccinum-Arten, zu denen auch die Rotkappen zählen, sind essbar. Der Birken-Raufuß gehört zu den weniger schmackhaften, vor allem dann, wenn ihre Hüte schon sehr weichfleischig sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tremiscus_helvelloides_01_gb.jpg" %}
-{% include abbildung_ende.html %}
-
-03.10.2023: Ein wunderschöner Fund wurde mir heute von *Dietrich Schiebler* aus dem Schwarzwald gemeldet. Aktueller [Fundkorbpilz](AA "Glossar-") ist daher der Rötliche Gallerttrichter *Tremiscus helvelloides*. Er gehört zu den Pilzarten, die viel Feuchtigkeit zum Wachstum benötigen und deren Bestand durch den fortschreitenden Klimawandel ernsthaft gefährdet ist. Ich kann mich gut erinnern, ihm während der 1980er Jahre ebenfalls im Schwarzwald mehrfach begegnet zu sein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tremiscus-helvelloides-rötlicher-gallerttrichter)
 
 <div style="clear:  both"></div>
 
