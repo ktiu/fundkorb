@@ -1,7 +1,7 @@
 ---
 aktivitaet: Kostenlose Pilzberatung im Frankfurter Gesundheitsamt
 zeit: 2023-10-08T17:00:44.522Z
-bis: 2023-10-08T20:00:00.000Z
+bis: 2023-10-15T20:00:00.000Z
 anmeldung_offen: false
 anmeldung_noetig: false
 published: true
@@ -11,7 +11,6 @@ Im Herbst nach Pilzen suchen macht Freude. Aber: Welcher Pilz darf in die Pfanne
 Leider hat die fortschreitende Klimaerwärmung auch die gewohnt zuverlässige herbstliche Pilzsaison stark beeinflusst. Bei ausgetrockneten Waldböden tendiert das Pilzwachstum gegen Null, was auch Einschränkungen der Beratungstermine zur Folge hat. Sollte ein Termin trockenheitsbedingt ausfallen, finden Sie eine entsprechende Information an dieser Stelle bzw. schon auf der Fundkorb-Startseite ganz oben.
 
 Weitere Termine:  
-Sonntag, 15.10.2023  
 Sonntag, 22.10.2023  
 Sonntag, 29.10.2023  
 Sonntag, 05.11.2023  
