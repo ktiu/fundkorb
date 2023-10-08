@@ -21,6 +21,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_xanthoderma_01_dg-1024x734.jpg" %}
+{% include abbildung_ende.html %}
+
+09.10.2023: Längst nicht mehr so häufig wie in den vergangenen Jahren ist der Karbolchamignon *Agaricus xanthoderma* (unser aktueller [Fundkorbpilz](AA "Glossar-")) in unserer Dietzenbacher Parkanlage zu finden. Das verringert die Gefahr, dass Anwohner nach einer Pilzmahlzeit von Übelkeit, Bauchweh und Durchfall befallen werden. Wird er doch immer wieder mit essbaren Wiesenchampignons verwechselt. Auch in der Pilzberatung im Frankfurter Gesundheitsamt muss er immer wieder einkassiert werden. Mit etwas Sorgfalt sind solche Unpässlichkeiten leicht zu vermeiden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agaricus-xanthoderma-karbolchampignon)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/scleroderma_citrinum_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 07.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haustintling *Coprinellus domesticus*. Er ähnelt dem sehr viel häufigeren Glimmertintling, ist aber größer und wächst eher einzeln oder zu wenigen an totem oder auch im Boden vergrabenem Holz, das er manchmal mit einem rostfarbenen Ozonium überzieht. Vor allem ist sein Stiel auf ganzer Länge gerieft, ein Alleinstellungsmerk¬mal, das ihn von allen ähnlichen Tintlingen unterscheidet. Seinen Namen hat er erhalten, weil er tatsächlich an altem verbautem Holz in Häusern vorkommen kann. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/coprinellus-domesticus-haustintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/staheliomyces_cinctus_01_hs.jpg" %}
-{% include abbildung_ende.html %}
-
-06.10.2023: Es gibt einige Pilzarten, deren Name allein schon eine gelungene Fruchtkörperbeschreibung ist. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Strangulierte Stinkmorchel *Staheliomyces cinctus*. Ungeklärt bleibt, wer der „Halstuchmörder “ gewesen ist oder ob es Selbstmord war. In Deutschland wird man diesen bemerkenswerten Pilz kaum finden. *Udo Wittemann* hat ihn im mittelamerikanischen Honduras gefunden und gemeldet.
-
-[Mehr lesen >](/pilze/staheliomyces-cinctus-strangulierte-stinkmorchel)
 
 <div style="clear:  both"></div>
 
