@@ -12,8 +12,23 @@ footer_scripts:
 
 - - -
 
+Samstag, 14. Oktober 2023, 10:00 Uhr: **Der Wald und seine Pilze** (pilzkundliche Führung im Raum Dietzenbach)\
+[Hier geht's zur Anmeldung >](/termine)
+
 Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 [Mehr erfahren >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/scleroderma_citrinum_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+08.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dickschalige Kartoffelbovist *Scleroderma citrinum*. Man findet ihn von Juli bis November oft massenhaft an Waldwegrändern, auch mitten im Wald, aber nur auf sauren Böden. An seiner dicken Schale ist er immer gut zu erkennen. Sein anangenehm metallischer Geruch signalisiert schon: für die Küche nicht geeignet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -36,18 +51,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 06.10.2023: Es gibt einige Pilzarten, deren Name allein schon eine gelungene Fruchtkörperbeschreibung ist. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Strangulierte Stinkmorchel *Staheliomyces cinctus*. Ungeklärt bleibt, wer der „Halstuchmörder “ gewesen ist oder ob es Selbstmord war. In Deutschland wird man diesen bemerkenswerten Pilz kaum finden. *Udo Wittemann* hat ihn im mittelamerikanischen Honduras gefunden und gemeldet.
 
 [Mehr lesen >](/pilze/staheliomyces-cinctus-strangulierte-stinkmorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_purpureofusca_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.10.2023: Der aktuelle [Fundkorbpilz](AA "Glossar-") kommt heute aus Bayern, genauer aus einem kleinen Mischwald bei Oberschleißheim nördlich von München. Es ist der Lilaschneidige Helmling *Mycena purpureofusca*. Im Rahmen einer Exkursion des Münchner Pilzvereins fanden wir 3 Fruchtkörper an einem bemossten Stamm einer noch intakten Fichte. Der seltene Helming lässt sich durch seine auffällige Lilafarbe am Hut, am Stiel und an den Lamellenschneiden bereits am Fundort leicht bestimmen. (Johann Rejek)
-
-[Mehr lesen >](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)
 
 <div style="clear:  both"></div>
 
