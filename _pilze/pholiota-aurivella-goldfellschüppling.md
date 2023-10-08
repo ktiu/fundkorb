@@ -37,6 +37,15 @@ Geschmack mild
 
 * wird neuerdings von einigen Mykologen unter Pholiota aurivella subsummiert, was ich nicht nachvollziehen kann
 
+##### Mikromerkmale:
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/pholiota_aurivella_04_bm.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/pholiota_aurivella_05_bm.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Sporen -- Chrysozystiden  (2 Mikrofotos: Bernd Miggel)" %}
+
+Sporen: elliptisch, glatt, dickwandig, mit Keimporus, 7,0 - 10,0  X  4,5 - 6,0 µm (Sporenpulver dunkel rostbraun. Interessant sind die keuligen Chrysozystiden, die 19 - 33 x 7 - 12 µm messen. Ihre amorphen Inhaltstoffe färben sich in Patentblau intensiv blau.
+
 ##### Vergleich der Sporenmaße:
 
 **Pholiota adiposa** 5,5 – 6,5 x 3,0 – 4,0 µ\
