@@ -58,13 +58,13 @@ Alle Heringstäublingsarten sind gute Speisepilze.
       <td>mild</td>
       <td>ocker - hellgelb</td>
       <td>bis 1/3</td>
-      <td>rosa</td>
+      <td>grün</td>
        
     </tr>
   </table>
 </div>
 
-Phenol ergibt eine bräunliche Reaktion.
+Phenol ergibt eine bräunliche Reaktion. FeSO4 ergibt eine verzögerte grüne Reaktion, der ein Röten vorausgehen kann.
 
 **Mikroskopische Merkmale:**
 
