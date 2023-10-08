@@ -6,7 +6,7 @@ beschreibung:
   familie: Strophariaceae
   erlaeuterung: aurivella = Goldfell
 profil:
-  aktualisiert: 2020-08-11
+  aktualisiert: 2023-10-08
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
