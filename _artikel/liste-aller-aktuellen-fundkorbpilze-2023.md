@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-09.10.2023: [Agaricus xanthoderma - Karbolchampignon](/pilze/agaricus-xanthoderma-karbolchampignon)  
-08.10.2023: [Scleroderma citrinum - Dickschaliger Kartoffelbovist](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)  
+10.10.2023:[ Lactarius blennius - Graugrüner Milchling](/pilze/lactarius-blennius-graugrüner-milchling)  
+09.10.2023: [Agaricus xanthoderma - Karbolchampignon](/pilze/agaricus-xanthoderma-karbolchampignon)\
+08.10.2023: [Scleroderma citrinum - Dickschaliger Kartoffelbovist](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)\
 07.10.2023: [Coprinellus domesticus - Haustintling](/pilze/coprinellus-domesticus-haustintling)\
 06.10.2023: [Staheliomyces cinctus - Strangulierte Stinkmorchel](/pilze/staheliomyces-cinctus-strangulierte-stinkmorchel)\
 05.10.2023: [Mycena purpureofusca - Lilaschneidiger Helmling](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)\
