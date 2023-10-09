@@ -21,6 +21,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_blennius_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+10.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Graugrüne Milchling *Lactarius blennius*. Er gehört zu den häufigsten Milchlingsarten überhaupt und dürfte in kaum einem Buchenwald fehlen. Seine weiße Milch hinterlässt beim Trocknen graugrüne Flecken auf den Lamellen, ist zuerst mild, wird aber nach einigen Sekunden brennend scharf. Für die Küche ist er daher nicht geeignet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lactarius-blennius-graugrüner-milchling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_xanthoderma_01_dg-1024x734.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 08.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dickschalige Kartoffelbovist *Scleroderma citrinum*. Man findet ihn von Juli bis November oft massenhaft an Waldwegrändern, auch mitten im Wald, aber nur auf sauren Böden. An seiner dicken Schale ist er immer gut zu erkennen. Sein anangenehm metallischer Geruch signalisiert schon: für die Küche nicht geeignet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinellus_domesticus_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haustintling *Coprinellus domesticus*. Er ähnelt dem sehr viel häufigeren Glimmertintling, ist aber größer und wächst eher einzeln oder zu wenigen an totem oder auch im Boden vergrabenem Holz, das er manchmal mit einem rostfarbenen Ozonium überzieht. Vor allem ist sein Stiel auf ganzer Länge gerieft, ein Alleinstellungsmerk¬mal, das ihn von allen ähnlichen Tintlingen unterscheidet. Seinen Namen hat er erhalten, weil er tatsächlich an altem verbautem Holz in Häusern vorkommen kann. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coprinellus-domesticus-haustintling)
 
 <div style="clear:  both"></div>
 
