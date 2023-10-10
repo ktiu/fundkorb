@@ -21,6 +21,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/suillus_luteus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.10.2023: Zu den wenigen Röhrlingen, die einen Ring am Stiel haben, gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Butter-Röhrling *Suillus luteus*. Man findet ihn in der Nähe von Kiefern, mit denen er eine [Mykorrhiza](Mykorrhiza "Glossar") eingeht, eine Lebensgemeinschaft zum beiderseitigen Vorteil. Er ist zwar ein recht schmackhafter und viel gesammelter Speisepilz, aber nicht immer leicht von seiner unsympathischen Schleimschicht zu befreien Er wird auch Schmierling, Schmalzling, Rotzling, Pomeisl oder Pömke genannt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/suillus-luteus-butter-röhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_blennius_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 09.10.2023: Längst nicht mehr so häufig wie in den vergangenen Jahren ist der Karbolchamignon *Agaricus xanthoderma* (unser aktueller [Fundkorbpilz](AA "Glossar-")) in unserer Dietzenbacher Parkanlage zu finden. Das verringert die Gefahr, dass Anwohner nach einer Pilzmahlzeit von Übelkeit, Bauchweh und Durchfall befallen werden. Wird er doch immer wieder mit essbaren Wiesenchampignons verwechselt. Auch in der Pilzberatung im Frankfurter Gesundheitsamt muss er immer wieder einkassiert werden. Mit etwas Sorgfalt sind solche Unpässlichkeiten leicht zu vermeiden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agaricus-xanthoderma-karbolchampignon)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/scleroderma_citrinum_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-08.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dickschalige Kartoffelbovist *Scleroderma citrinum*. Man findet ihn von Juli bis November oft massenhaft an Waldwegrändern, auch mitten im Wald, aber nur auf sauren Böden. An seiner dicken Schale ist er immer gut zu erkennen. Sein anangenehm metallischer Geruch signalisiert schon: für die Küche nicht geeignet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)
 
 <div style="clear:  both"></div>
 
