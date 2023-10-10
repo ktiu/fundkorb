@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-Samstag, 14. Oktober 2023, 10:00 Uhr: **Der Wald und seine Pilze** (pilzkundliche Führung im Raum Dietzenbach)\
+Samstag, 14. Oktober 2023, 10:00 Uhr: **Pilze im Spessart** (pilzkundliche Führung im Raum Bad Orb/Biebergemünd\
 [Hier geht's zur Anmeldung >](/termine)
 
 Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
