@@ -9,6 +9,6 @@ published: true
 Am Samstag, den 14. Oktober 2023 werden wir den Herbstwald im Raum Bad Orb/Biebergemünd erkunden und in die geheimnisvolle Welt der Pilze eintauchen. Die Pilzlehrwanderung ist besonders für Anfänger geeignet, da wir uns mit den Bestimmungsmerkmalen einiger Speisepilze sowie Giftpilzen beschäftigen, bei denen eine Verwechslungsgefahr besteht.
 
 Die Lehrwanderung beginnt um 10 Uhr und dauert ca. 3 Stunden. Teilnahmegebühr 15 Euro.
-Anmeldung bitte an [koch.birstein@freeent.de](koch.birstein@freeent.de)
+Anmeldung bitte an [koch.birstein@freenet.de](koch.birstein@freenet.de)
 
 Der genaue Treffpunkt wird mit der Anmeldebestätigung mitgeteilt.
