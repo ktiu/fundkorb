@@ -14,4 +14,4 @@ Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur 
 
 **Dieser Termin ist ausgebucht. Anmeldungen sind leider nicht mehr möglich.**
 
-Es wird weitere Termine auf fundekorb.de geben.
+Es wird weitere Termine auf fundkorb.de geben.
