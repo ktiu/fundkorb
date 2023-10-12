@@ -33,6 +33,8 @@
 </div></figure></div> 
 {% endunless %}
 {% endif %}
+      </div>
+      <div>
         {{ termin.content | markdownify }}
       </div>
       {% if termin.anmeldung_offen %}
