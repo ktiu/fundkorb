@@ -24,7 +24,7 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 {% include bild.html datei="/bilder/phlebia_tremellosa_01_cw.jpg" %}
 {% include abbildung_ende.html %}
 
-12.10.2023: Mit dem  Gallertfleischigen Fältling *Phlebia tremellosus* hätte ich eigentlich noch nicht gerechnet. Ich hätte diesen [Fundkorbpilz](AA "Glossar-") eher während der Wintermonate erwartet. Man kann ihn aber (laut Literatur) das ganze Jahr über finden. Er wächst an Totholz in Bodennähe und ist aufgrund seiner Konsistenz und des [merulioiden](<merulioid "Glossar">) [Hymenophors](<Hymenophor "Glossar">) kaum mit anderen Pilzen zu verwechseln. (Dieter Gewalt)
+12.10.2023: Mit dem  Gallertfleischigen Fältling *Phlebia tremellosus* hätte ich eigentlich noch nicht gerechnet. Ich hätte diesen [Fundkorbpilz](AA "Glossar-") eher während der Wintermonate erwartet. Man kann ihn aber (laut Literatur) das ganze Jahr über finden. Er wächst an Totholz in Bodennähe und ist aufgrund seiner Konsistenz und des [merulioiden](merulioid "Glossar") [Hymenophors](Hymenophor "Glossar") kaum mit anderen Pilzen zu verwechseln. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
 
