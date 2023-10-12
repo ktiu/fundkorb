@@ -24,7 +24,7 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 {% include bild.html datei="/bilder/xerocomus_cisalpinus_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
-13.10.2023: Früher gab es mal einen ziemlich variablen *Rotfüßröhrling*, der in fast jedem Sammelkorb zu finden war. Inzwischen ist er in mehrere neue Arten aufgesplittet worden, darunter unseren aktuellen Fundkorbpilz, den Starkblauenden Rotfußröhrling *Xerocomus cisalpinus*. Der ist an seinem stark blauenden Fleisch in der Stielbasis eigentlich gut von den anderen zu unterscheiden, schmeckt aber auch nicht besser als diese. (Dieter Gewalt)
+13.10.2023: Früher gab es mal einen ziemlich variablen *Rotfüßröhrling*, der in fast jedem Sammelkorb zu finden war. Inzwischen ist er in mehrere neue Arten aufgesplittet worden, darunter unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Starkblauenden Rotfußröhrling *Xerocomus cisalpinus*. Der ist an seinem stark blauenden Fleisch in der Stielbasis eigentlich gut von den anderen zu unterscheiden, schmeckt aber auch nicht besser als diese. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)
 
