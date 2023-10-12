@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-11.10.2023: [Suillus luteus - Butter-Röhrling](/pilze/suillus-luteus-butter-röhrling)  
+12.10.2023: [Phlebia tremellosus - Gallertfleischiger Fältling](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)  
+11.10.2023: [Suillus luteus - Butter-Röhrling](/pilze/suillus-luteus-butter-röhrling)\
 10.10.2023:[ Lactarius blennius - Graugrüner Milchling](/pilze/lactarius-blennius-graugrüner-milchling)\
 09.10.2023: [Agaricus xanthoderma - Karbolchampignon](/pilze/agaricus-xanthoderma-karbolchampignon)\
 08.10.2023: [Scleroderma citrinum - Dickschaliger Kartoffelbovist](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)\
