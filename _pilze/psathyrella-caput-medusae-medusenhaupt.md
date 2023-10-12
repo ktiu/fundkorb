@@ -17,7 +17,7 @@ literatur:
   - text: German J. Krieglsteiner, Andreas Gminer (Hrsg.) Die Großpilze
       Baden-Württembergs Band 5 Seite 608 - 609
 ---
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/psathyrella_caput-medusae_rmd.jpg" %}
 {% include abbildung_ende.html legende="Foto mit freundlicher Genehmigung von Rose Marie Dähncke (1200 Pilze in Farbfotos)" %}
 
