@@ -21,6 +21,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phlebia_tremellosa_01_cw.jpg" %}
+{% include abbildung_ende.html %}
+
+12.10.2023: Mit dem  Gallertfleischigen Fältling *Phlebia tremellosus* hätte ich eigentlich noch nicht gerechnet. Ich hätte diesen [Fundkorbpilz](AA "Glossar-") eher während der Wintermonate erwartet. Man kann ihn aber (laut Literatur) das ganze Jahr über finden. Er wächst an Totholz in Bodennähe und ist aufgrund seiner Konsistenz und des [merulioiden](<merulioid "Glossar">) [Hymenophors](<Hymenophor "Glossar">) kaum mit anderen Pilzen zu verwechseln. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/suillus_luteus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 10.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Graugrüne Milchling *Lactarius blennius*. Er gehört zu den häufigsten Milchlingsarten überhaupt und dürfte in kaum einem Buchenwald fehlen. Seine weiße Milch hinterlässt beim Trocknen graugrüne Flecken auf den Lamellen, ist zuerst mild, wird aber nach einigen Sekunden brennend scharf. Für die Küche ist er daher nicht geeignet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lactarius-blennius-graugrüner-milchling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_xanthoderma_01_dg-1024x734.jpg" %}
-{% include abbildung_ende.html %}
-
-09.10.2023: Längst nicht mehr so häufig wie in den vergangenen Jahren ist der Karbolchamignon *Agaricus xanthoderma* (unser aktueller [Fundkorbpilz](AA "Glossar-")) in unserer Dietzenbacher Parkanlage zu finden. Das verringert die Gefahr, dass Anwohner nach einer Pilzmahlzeit von Übelkeit, Bauchweh und Durchfall befallen werden. Wird er doch immer wieder mit essbaren Wiesenchampignons verwechselt. Auch in der Pilzberatung im Frankfurter Gesundheitsamt muss er immer wieder einkassiert werden. Mit etwas Sorgfalt sind solche Unpässlichkeiten leicht zu vermeiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agaricus-xanthoderma-karbolchampignon)
 
 <div style="clear:  both"></div>
 
