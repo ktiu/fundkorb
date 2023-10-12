@@ -41,10 +41,6 @@ Interessant ist der Stiel. In den meisten Jahren meiner Beobachtung war er rein 
 
 Das Fleisch ist weiß. Fleisch, Stiel und Lamellen bräunen bei Druck, bei Verletzung oder im Anschnitt, wie das für Heringstäublinge üblich ist.
 
-Verwechslungsmöglichkeit: Der Nadelwald-Heringstäubling *Russula xerampelina* sieht ähnlich aus, geht jedoch eine Mykorrhiza mit Nadelbäumen ein, ist im Allgemeinen größer und besitzt andere Mikromerkmale. Der Speitäubling riecht nicht fischig, und sein Geschmack ist brennend scharf.
-
-Wie bei allen Heringstäublingsarten verfärben sich Stieloberfläche, Lamellen und Fleisch mit Eisensulfat (FeSO4) grün. Der grünen Reaktion geht mitunter ein leichtes Röten voraus.
-
 <div class="table-responsive">
   <table class="table taeubling">
     <tr>
@@ -67,4 +63,10 @@ Wie bei allen Heringstäublingsarten verfärben sich Stieloberfläche, Lamellen 
   </table>
 </div>
 
+Wie bei allen Heringstäublingsarten verfärben sich Stieloberfläche, Lamellen und Fleisch mit Eisensulfat (FeSO4) grün. Der grünen Reaktion geht mitunter ein leichtes Röten voraus.
+
 Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
+
+Verwechslungsmöglichkeiten: Der [Nadelwald-Heringstäubling *Russula xerampelina*](/pilze/russula-xerampelina-roter-heringstäubling) sieht ähnlich aus, geht jedoch eine [Mykorrhiza](Mykorrhiza "Glossar") mit Nadelbäumen ein, ist im Allgemeinen größer und besitzt andere Mikromerkmale. Der Speitäubling riecht nicht fischig, und sein Geschmack ist brennend scharf.
+
+Für den engagierten Amateurmykologen sind die Heringstäublinge nur noch schwer überschaubar, da sich die Taxonomen in dieser Gruppe offenbar nicht über die Gültigkeit der Namen können. Daher sind auch viele Täublings-Schlüssel (z. B. Adamcik et al. 2016) in der Praxis wertlos geworden.
