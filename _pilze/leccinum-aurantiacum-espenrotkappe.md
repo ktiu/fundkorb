@@ -42,10 +42,10 @@ In beiden Gruppen spielen Begleitbäume als Mykorrhizapartner eine wichtige Roll
 
 Während im Index fungorum Eichen- und Espen-Rotkappe unter dem Namen Leccinum aurantiacum vereint sind, erkennt Krieglsteiner (Großpilze Baden-Württembergs) beide als gute Arten an. Das entspricht ganz meinem Geschmack. Ich habe die beiden stets makroskopisch unterscheiden können. Die Espen-Rotkappe hat im Vergleich zur [Eichen-Rotkappe](/pilze/leccinum-quercinum-eichenrotkappe) eine heller rote Huthautfarbe und auch hellere Stielschüppchen. Außerdem orientiert man sich wie bei allen Raustielröhrlingen an den jeweiligen Baumpartnern. Diese Partnertreue liefert ein weiteres Argument für zwei gute Arten. Es erscheint unwahrscheinlich, dass unter etwa 50 weltweiten Leccinum-Arten mit sehr spezieller [Mykorrhizabindung](Mykorrhiza "Glossar") an meist nur eine Baumgattung eine einzige Art existieren soll, die sowohl mit Eichen als auch Espen Mykorrhizen bildet. Allerdings muss man anmerken, dass Argumente keine stichhaltigen Beweise sind und Ausnahmen die Regel bestätigen.
 
-In Mitteleuropa kommen je nach Artauffassung bis zu sechs Rotkappen vor:
-[Leccinum aurantiacum = Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)
-[Leccinum duriusculum = Pappel-Raufuß, Pappelrotkappe](/pilze/leccinum-duriusculum-pappel-raufuß)
-Leccinum piceum = Fichtenrotkappe
-[Leccinum quercinum = Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)
-[Leccinum versipelle = Birken- oder Heiderotkappe](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)
-Leccinum vulpinum = Fuchs- oder Kiefernrotkappe
+In Mitteleuropa kommen je nach Artauffassung bis zu sechs Rotkappen vor:\
+Leccinum aurantiacum = Espenrotkappe\
+[Leccinum duriusculum = Pappel-Raufuß, Pappelrotkappe](/pilze/leccinum-duriusculum-pappel-raufuß)\
+[Leccinum piceum = Fichtenrotkappe](/pilze/leccinum-piceinum-fichtenrotkappe)\
+[Leccinum quercinum = Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)\
+[Leccinum versipelle = Birken- oder Heiderotkappe](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)\
+[Leccinum vulpinum = Fuchs- oder Kiefernrotkappe](/pilze/leccinum-vulpinum-kiefernrotkappe-fuchsröhrling)
