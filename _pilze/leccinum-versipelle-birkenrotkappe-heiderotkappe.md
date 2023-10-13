@@ -5,6 +5,7 @@ beschreibung:
   referenz: (Fr. & Hök) Snell Gray 1944
   familie: Boletaceae
   erlaeuterung: versipelle = das Fell wechselnd
+  synonym: "Synonyme: Leccinum rufum, Leccinum testaceoscabrum"
 profil:
   aktualisiert: 2021-01-13
   autor_in: Dieter Gewalt
@@ -25,3 +26,11 @@ Sämtliche Rotkappen stehen unter Naturschutz, sind im Rhein-Main-Gebiet aber ga
 Kennzeichen des auffallend schönen Pilzes, der zu den Raustielröhrlingen (Gattung Leccinum) gehört, sind die rot oder orange gefärbten Kappen, die auf weißem Grund schwärzlichen Stielschüppchen und die beim Anschnitt auftretende Fleischverfärbung (zuerst rosalila bis violettgrau, dann fast schwarz). Zu achten ist auch auf die Begleitbäume. Wie der Name schon aussagt, ist die Birken- oder Heiderotkappe [Mykorrhizapartner](Mykorrhiza "Glossar") der Birke.
 
 Besonders hübsch sind junge Pilze, deren Kappen noch geschlossen und rundlich sind. Sie sehen aus wie riesige Streichhölzer.
+
+In Mitteleuropa kommen je nach Artauffassung bis zu sechs Rotkappen vor:
+*[Leccinum aurantiacum = Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)*
+[Leccinum duriusculum = Pappel-Raufuß, Pappelrotkappe](/pilze/leccinum-duriusculum-pappel-raufuß)
+[Leccinum piceum = Fichtenrotkappe](/pilze/leccinum-piceinum-fichtenrotkappe)
+[Leccinum quercinum = Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)
+Leccinum versipelle = Birken- oder Heiderotkappe
+[Leccinum vulpinum = Fuchs- oder Kiefernrotkappe](/pilze/leccinum-vulpinum-kiefernrotkappe-fuchsröhrling)
