@@ -31,7 +31,7 @@ Bei Fichten vorkommende Raufußröhrlinge sind früher nicht von dieser bei Kief
 
 In Mitteleuropa kommen je nach Artauffassung bis zu sechs Rotkappen vor:  
 [Leccinum aurantiacum = Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)  
-[Leccinum duriusculum = Pappel-Raufuß, Pappelrotkappe](/pilze/leccinum-duriusculum-pappel-raufuß)  
+[Leccinum duriusculum = Pappel-Raufuß, Braune Pappelrotkappe](/pilze/leccinum-duriusculum-pappel-raufuß)  
 Leccinum piceum = Fichtenrotkappe  
 [Leccinum quercinum = Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)  
 [Leccinum versipelle = Birken- oder Heiderotkappe](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)  
