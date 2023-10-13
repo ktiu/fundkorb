@@ -35,10 +35,10 @@ Leccinum vulpinum = Fuchs- oder Kiefernrotkappe
 
 Ob Eichen- und Espenrotkappe (*Leccinum aurantiacum*) eine oder zwei Arten sind, darüber streiten Mykologen seit Jahrzehnten. Ich kann sie jedenfalls ungeachtet ihrer jeweiligen Begleitbäume recht gut auseinanderhalten. So hat die Espenrotkappe jung fast weiße Stielflöckchen, was bei der Eichenrotkappe nicht der Fall ist. Unterschiedliche Auffassungen werden auch bei den Nadelwald-Rotkappen vertreten. Die Fichtenrotkappe (*Leccinum piceum*) wird von manchen Autoren als gute Art anerkannt, von anderen als Varietät zur Fuchs- oder Kiefernrotkappe (*Leccinum vulpinum*) gestellt.
 
-In Mitteleuropa kommen je nach Artauffassung bis zu sechs Rotkappen vor:
-[Leccinum aurantiacum = Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)
-[Leccinum duriusculum = Pappel-Raufuß, Graue Pappelrotkappe](/pilze/leccinum-duriusculum-pappel-raufuß)
-[Leccinum piceum = Fichtenrotkappe](/pilze/leccinum-piceinum-fichtenrotkappe)
-Leccinum quercinum = Eichenrotkappe
-[Leccinum versipelle = Birken- oder Heiderotkappe](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)
+In Mitteleuropa kommen je nach Artauffassung bis zu sechs Rotkappen vor:  
+[Leccinum aurantiacum = Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)  
+[Leccinum duriusculum = Pappel-Raufuß, Graue Pappelrotkappe](/pilze/leccinum-duriusculum-pappel-raufuß)  
+[Leccinum piceum = Fichtenrotkappe](/pilze/leccinum-piceinum-fichtenrotkappe)  
+Leccinum quercinum = Eichenrotkappe  
+[Leccinum versipelle = Birken- oder Heiderotkappe](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)  
 [Leccinum vulpinum = Fuchs- oder Kiefernrotkappe](/pilze/leccinum-vulpinum-kiefernrotkappe-fuchsröhrling)
