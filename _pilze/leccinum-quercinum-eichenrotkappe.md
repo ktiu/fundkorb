@@ -23,14 +23,14 @@ Alle Rotkappenarten gelten als ausgezeichnete Speisepilze.
 
 Eichenrotkappen haben orange- bis ziegelrote, bisweilen auch kastanienbraune Hutfarben. Die Röhren sind weißlich bis ockerfarben, dunkeln im Alter und wölben sich dann polsterförmig vor. Der Stiel ist auf hellem Grund rotbräunlich beflockt, färbt auf Druck blaugrünlich bis rötlich, das weiße Fleisch ist im Anschnitt zuerst rötend, verfärbt dann violettgrau bis schwärzlich.
 
-Wie der Name bereits vermuten lässt, ist die Eichenrotkappe ein Eichenbegleiter. Sie gilt als selten, wird als gefährdete Art (RL 3) in Roten Listen geführt und darf daher nicht gesammelt werden. Ich habe in einemEichenwald in der Rhein-Main-Ebene, in denen sie vorkommt, oft über viele Jahre hinweg reichliche, manchmal sogar massenhafte Vorkommen beobachtet.
+Wie der Name bereits vermuten lässt, ist die Eichenrotkappe ein Eichenbegleiter. Sie gilt als selten, wird als gefährdete Art (RL 3) in Roten Listen geführt und darf daher nicht gesammelt werden. Ich habe in einem Eichenwald in der Rhein-Main-Ebene, in denen sie vorkommt, oft über viele Jahre hinweg reichliche, manchmal sogar massenhafte Vorkommen beobachtet.
 
-In Mitteleuropa kommen je nach Artauffassung drei oder fünf Rotkappen vor:
+In Mitteleuropa kommen je nach Artauffassung drei bis fünf Rotkappen vor:
 
-[Leccinum aurantiacum](/pilze/leccinum-aurantiacum-espenrotkappe) = Espenrotkappe  
-Leccinum piceum = Fichtenrotkappe  
-Leccinum quercinum = Eichenrotkappe  
-[Leccinum versipelle](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe) = Birken- oder Heiderotkappe  
+[Leccinum aurantiacum](/pilze/leccinum-aurantiacum-espenrotkappe) = Espenrotkappe\
+Leccinum piceum = Fichtenrotkappe\
+Leccinum quercinum = Eichenrotkappe\
+[Leccinum versipelle](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe) = Birken- oder Heiderotkappe\
 Leccinum vulpinum = Fuchs- oder Kiefernrotkappe
 
 Ob Eichen- und Espenrotkappe (*Leccinum aurantiacum*) eine oder zwei Arten sind, darüber streiten Mykologen seit Jahrzehnten. Ich kann sie jedenfalls ungeachtet ihrer jeweiligen Begleitbäume recht gut auseinanderhalten. So hat die Espenrotkappe jung fast weiße Stielflöckchen, was bei der Eichenrotkappe nicht der Fall ist. Unterschiedliche Auffassungen werden auch bei den Nadelwald-Rotkappen vertreten. Die Fichtenrotkappe (*Leccinum piceum*) wird von manchen Autoren als gute Art anerkannt, von anderen als Varietät zur Fuchs- oder Kiefernrotkappe (*Leccinum vulpinum*) gestellt.
