@@ -20,11 +20,10 @@ Rotkappen sind nicht leicht zu bestimmen. Es handelt sich um stark spezialisiert
 
 Für die Küche spielen solche Feinheiten keine Rolle. Alle Rotkappen sind ausgezeichnete Speisepilze. Es sollte aber der Artenschutz beachtet werden. Alle Rotkappen sind gesetzlich geschützt und dürfen nur für den Eigenbedarf und in geringen (angemessenen) Mengen gesammelt werden.
 
-In Mitteleuropa kommen je nach Artauffassung bis zu sechs Rotkappen vor:
-
-[Leccinum aurantiacum = Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)
-[Leccinum duriusculum = Pappel-Raufuß](/pilze/leccinum-duriusculum-pappel-raufuß)
+In Mitteleuropa kommen je nach Artauffassung bis zu sechs Rotkappen vor:  
+[Leccinum aurantiacum = Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)  
+[Leccinum duriusculum = Pappel-Raufuß, Pappelrotkappe](/pilze/leccinum-duriusculum-pappel-raufuß)  
 Leccinum piceum = Fichtenrotkappe
-[Leccinum quercinum = Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)
-[Leccinum versipelle = Birken- oder Heiderotkappe](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)
+[Leccinum quercinum = Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)  
+[Leccinum versipelle = Birken- oder Heiderotkappe](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)  
 Leccinum vulpinum = Fuchs- oder Kiefernrotkappe
