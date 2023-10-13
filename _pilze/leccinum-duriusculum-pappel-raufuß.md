@@ -63,10 +63,10 @@ Der [Birkenpilz *Leccinum scabrum*](/pilze/leccinum-scabrum-birken-raufuß-birke
 Der [Hainbuchen-Raufuß *Leccinum pseudoscabrum*](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß) (Synonym: *Leccinum carpini*) bleibt meist kleiner, verfärbt sich nicht blaugrün und geht keine Mykorrhiza mit Pappeln ein.\
 Der Vielverfärbende Raufuß *Leccinum variicolor* bleibt in der Regel ebenfalls kleiner und sein Fleisch verfärbt sich nicht grau bis schwarz. Er wächst bei Birken.
 
-In Mitteleuropa kommen je nach Artauffassung bis zu sechs Rotkappen vor:
-[Leccinum aurantiacum = Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)
-Leccinum duriusculum = Pappel-Raufuß, Graue Pappelrotkappe
-[Leccinum piceum = Fichtenrotkappe](/pilze/leccinum-piceinum-fichtenrotkappe)
-[Leccinum quercinum = Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)
-[Leccinum versipelle = Birken- oder Heiderotkappe](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)
+In Mitteleuropa kommen je nach Artauffassung bis zu sechs Rotkappen vor:  
+[Leccinum aurantiacum = Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)  
+Leccinum duriusculum = Pappel-Raufuß, Graue Pappelrotkappe  
+[Leccinum piceum = Fichtenrotkappe](/pilze/leccinum-piceinum-fichtenrotkappe)  
+[Leccinum quercinum = Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)  
+[Leccinum versipelle = Birken- oder Heiderotkappe](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)  
 [Leccinum vulpinum = Fuchs- oder Kiefernrotkappe](/pilze/leccinum-vulpinum-kiefernrotkappe-fuchsröhrling)
