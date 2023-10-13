@@ -27,10 +27,10 @@ Kennzeichen des auffallend schönen Pilzes, der zu den Raustielröhrlingen (Gatt
 
 Besonders hübsch sind junge Pilze, deren Kappen noch geschlossen und rundlich sind. Sie sehen aus wie riesige Streichhölzer.
 
-In Mitteleuropa kommen je nach Artauffassung bis zu sechs Rotkappen vor:
-*[Leccinum aurantiacum = Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)*
-[Leccinum duriusculum = Pappel-Raufuß, Pappelrotkappe](/pilze/leccinum-duriusculum-pappel-raufuß)
-[Leccinum piceum = Fichtenrotkappe](/pilze/leccinum-piceinum-fichtenrotkappe)
-[Leccinum quercinum = Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)
-Leccinum versipelle = Birken- oder Heiderotkappe
+In Mitteleuropa kommen je nach Artauffassung bis zu sechs Rotkappen vor:  
+*[Leccinum aurantiacum = Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)*  
+[Leccinum duriusculum = Pappel-Raufuß, Pappelrotkappe](/pilze/leccinum-duriusculum-pappel-raufuß)  
+[Leccinum piceum = Fichtenrotkappe](/pilze/leccinum-piceinum-fichtenrotkappe)  
+[Leccinum quercinum = Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)  
+Leccinum versipelle = Birken- oder Heiderotkappe  
 [Leccinum vulpinum = Fuchs- oder Kiefernrotkappe](/pilze/leccinum-vulpinum-kiefernrotkappe-fuchsröhrling)
