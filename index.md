@@ -21,6 +21,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pleurotus_dryinus_01_rm.jpg" %}
+{% include abbildung_ende.html %}
+
+14.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Berindete Seitling *Pleurotus dryinus*. Seine Verwandtschaft mit dem Austernseitling ist auf den ersten Blick nicht unbedingt ersichtlich. Dazu ist sein Stiel viel zu ausgeprägt und auch noch dickfleischig und zäh. Er gilt als essbar, aber nur sehr junge Fruchtkörper könnten vielleicht zart genug und genießbar sein. Außerdem ist er viel zu selten, um einen praktischen Nährwert zu haben. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pleurotus-dryinus-berindeter-seitling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_cisalpinus_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 12.10.2023: Mit dem  Gallertfleischigen Fältling *Phlebia tremellosus* hätte ich eigentlich noch nicht gerechnet. Ich hätte diesen [Fundkorbpilz](AA "Glossar-") eher während der Wintermonate erwartet. Man kann ihn aber (laut Literatur) das ganze Jahr über finden. Er wächst an Totholz in Bodennähe und ist aufgrund seiner Konsistenz und des [merulioiden](merulioid "Glossar") [Hymenophors](Hymenophor "Glossar") kaum mit anderen Pilzen zu verwechseln. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/suillus_luteus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.10.2023: Zu den wenigen Röhrlingen, die einen Ring am Stiel haben, gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Butter-Röhrling *Suillus luteus*. Man findet ihn in der Nähe von Kiefern, mit denen er eine [Mykorrhiza](Mykorrhiza "Glossar") eingeht, eine Lebensgemeinschaft zum beiderseitigen Vorteil. Er ist zwar ein recht schmackhafter und viel gesammelter Speisepilz, aber nicht immer leicht von seiner unsympathischen Schleimschicht zu befreien Er wird auch Schmierling, Schmalzling, Rotzling, Pomeisl oder Pömke genannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/suillus-luteus-butter-röhrling)
 
 <div style="clear:  both"></div>
 
