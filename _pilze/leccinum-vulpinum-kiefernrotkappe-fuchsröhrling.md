@@ -29,10 +29,10 @@ Es wäre schön, wenn es einen einigermaßen zuverlässigen Kompass zur Untersch
 
 Bei Fichten vorkommende Raufußröhrlinge sind früher nicht von dieser bei Kiefern wachsenden Art unterschieden, jetzt aber als Fichtenrotkappe *Leccinum piceinum* abgetrennt worden.
 
-In Mitteleuropa kommen je nach Artauffassung bis zu sechs Rotkappen vor:  
-[Leccinum aurantiacum = Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)  
-[Leccinum duriusculum = Pappel-Raufuß, Braune Pappelrotkappe](/pilze/leccinum-duriusculum-pappel-raufuß)  
-Leccinum piceum = Fichtenrotkappe  
-[Leccinum quercinum = Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)  
-[Leccinum versipelle = Birken- oder Heiderotkappe](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)  
+In Mitteleuropa kommen je nach Artauffassung bis zu sechs Rotkappen vor:\
+[Leccinum aurantiacum = Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)\
+[Leccinum duriusculum = Pappel-Raufuß, Braune Pappelrotkappe](/pilze/leccinum-duriusculum-pappel-raufuß)\
+[Leccinum piceum = Fichtenrotkappe](/pilze/leccinum-vulpinum-kiefernrotkappe-fuchsröhrling)\
+[Leccinum quercinum = Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)\
+[Leccinum versipelle = Birken- oder Heiderotkappe](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)\
 Leccinum vulpinum = Fuchs- oder Kiefernrotkappe
