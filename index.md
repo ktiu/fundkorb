@@ -12,11 +12,20 @@ footer_scripts:
 
 - - -
 
-Samstag, 14. Oktober 2023, 10:00 Uhr: **Pilze im Spessart** (pilzkundliche Führung im Raum Bad Orb/Biebergemünd\
-[Hier geht's zur Anmeldung >](/termine)
-
 Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 [Mehr erfahren >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_crispa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.10.2023: Sollen das etwa Pilze sein?? Natürlich nicht. Nur Teile unseres aktuellen [Fundkorbpilz](AA "Glossar-"), der Herbstlorchel *Helvella crispa*. Genauer gesagt: die in dünne Scheibchen geschnittenen Stiele, die bezaubernd hübsch anzuschauende Muster bilden. Auch ein Pilzgericht lässt sich mit ihnen optisch aufwerten, ohne jedoch dessen Nährwert zu steigern. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/helvella-crispa-herbstlorchel)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -39,18 +48,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 13.10.2023: Früher gab es mal einen ziemlich variablen *Rotfüßröhrling*, der in fast jedem Sammelkorb zu finden war. Inzwischen ist er in mehrere neue Arten aufgesplittet worden, darunter unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Starkblauenden Rotfußröhrling *Xerocomus cisalpinus*. Der ist an seinem stark blauenden Fleisch in der Stielbasis eigentlich gut von den anderen zu unterscheiden, schmeckt aber auch nicht besser als diese. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phlebia_tremellosa_01_cw.jpg" %}
-{% include abbildung_ende.html %}
-
-12.10.2023: Mit dem  Gallertfleischigen Fältling *Phlebia tremellosus* hätte ich eigentlich noch nicht gerechnet. Ich hätte diesen [Fundkorbpilz](AA "Glossar-") eher während der Wintermonate erwartet. Man kann ihn aber (laut Literatur) das ganze Jahr über finden. Er wächst an Totholz in Bodennähe und ist aufgrund seiner Konsistenz und des [merulioiden](merulioid "Glossar") [Hymenophors](Hymenophor "Glossar") kaum mit anderen Pilzen zu verwechseln. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
 
 <div style="clear:  both"></div>
 
