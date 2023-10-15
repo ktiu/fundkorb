@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-14.10.2023: [Pleurotus dryinus - Berindeter Seitling](/pilze/pleurotus-dryinus-berindeter-seitling)  
-13.10.2023: [Xerocomus cisalpinus - Starkblauender Rotfußröhrling](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)  
+15.10.2023: [Helvella crispa - Herbstlorchel](/pilze/helvella-crispa-herbstlorchel)  
+14.10.2023: [Pleurotus dryinus - Berindeter Seitling](/pilze/pleurotus-dryinus-berindeter-seitling)\
+13.10.2023: [Xerocomus cisalpinus - Starkblauender Rotfußröhrling](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)\
 12.10.2023: [Phlebia tremellosus - Gallertfleischiger Fältling](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)\
 11.10.2023: [Suillus luteus - Butter-Röhrling](/pilze/suillus-luteus-butter-röhrling)\
 10.10.2023:[ Lactarius blennius - Graugrüner Milchling](/pilze/lactarius-blennius-graugrüner-milchling)\
