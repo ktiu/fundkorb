@@ -12,6 +12,9 @@ footer_scripts:
 
 - - -
 
+Samstag, 21. Oktober 2023, 10:00 Uhr: **Pilzführung für Einsteiger**
+[zur Anmeldung >](/termine)
+
 Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 [Mehr erfahren >](/termine)
 
