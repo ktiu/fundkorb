@@ -1,7 +1,7 @@
 ---
 aktivitaet: Meine erste Pilzexkursion - Eine Führung für Einsteiger
 zeit: 2023-10-21T10:00:28.718Z
-bis: 2023-10-15T10:00:00.000Z
+bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
 published: true
