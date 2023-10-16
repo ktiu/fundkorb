@@ -21,6 +21,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/inocybe_geophylla_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Seidige Risspilz *Inocybe geophylla*. In dieser artenreichen und recht schwierigen Gattung gehört er wegen seiner Form und der weißen Farbe  zu den leicht kenntlichen Arten. Eigentlich sieht er gar nicht wie ein typischer Risspilz aus, aber man muss ihn nur an die Nase halten, um ihn als Vertreter seiner Gattung zu verdächtigen. Er hat wie die meisten anderen Risspilze einen deutlich spermatischen Geruch. Bei unseren letzten Führungen haben wir ihn mehrfach an Wegrändern gesehen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/inocybe-geophylla-seidiger-risspilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_crispa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 14.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Berindete Seitling *Pleurotus dryinus*. Seine Verwandtschaft mit dem Austernseitling ist auf den ersten Blick nicht unbedingt ersichtlich. Dazu ist sein Stiel viel zu ausgeprägt und auch noch dickfleischig und zäh. Er gilt als essbar, aber nur sehr junge Fruchtkörper könnten vielleicht zart genug und genießbar sein. Außerdem ist er viel zu selten, um einen praktischen Nährwert zu haben. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/pleurotus-dryinus-berindeter-seitling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_cisalpinus_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-13.10.2023: Früher gab es mal einen ziemlich variablen *Rotfüßröhrling*, der in fast jedem Sammelkorb zu finden war. Inzwischen ist er in mehrere neue Arten aufgesplittet worden, darunter unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Starkblauenden Rotfußröhrling *Xerocomus cisalpinus*. Der ist an seinem stark blauenden Fleisch in der Stielbasis eigentlich gut von den anderen zu unterscheiden, schmeckt aber auch nicht besser als diese. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)
 
 <div style="clear:  both"></div>
 
