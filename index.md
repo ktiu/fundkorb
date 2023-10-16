@@ -21,6 +21,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hydnum_repandum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Semmelstoppelpilz *Hydnum repandum*. Oberflächlich betrachtet könnte man ihn für einen Pfifferling halten. Ein Blick auf die Unterseite genügt, um den Irrtum zu erkennen. Wo der Pfifferling lamellenähnliche Leisten hat, befinden sich hier engstehende Stoppeln. Erfahrene Sammler wissen: auch er ist essbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hydnum-repandum-semmelstoppelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/inocybe_geophylla_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 15.10.2023: Sollen das etwa Pilze sein?? Natürlich nicht. Nur Teile unseres aktuellen [Fundkorbpilz](AA "Glossar-"), der Herbstlorchel *Helvella crispa*. Genauer gesagt: die in dünne Scheibchen geschnittenen Stiele, die bezaubernd hübsch anzuschauende Muster bilden. Auch ein Pilzgericht lässt sich mit ihnen optisch aufwerten, ohne jedoch dessen Nährwert zu steigern. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/helvella-crispa-herbstlorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pleurotus_dryinus_01_rm.jpg" %}
-{% include abbildung_ende.html %}
-
-14.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Berindete Seitling *Pleurotus dryinus*. Seine Verwandtschaft mit dem Austernseitling ist auf den ersten Blick nicht unbedingt ersichtlich. Dazu ist sein Stiel viel zu ausgeprägt und auch noch dickfleischig und zäh. Er gilt als essbar, aber nur sehr junge Fruchtkörper könnten vielleicht zart genug und genießbar sein. Außerdem ist er viel zu selten, um einen praktischen Nährwert zu haben. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pleurotus-dryinus-berindeter-seitling)
 
 <div style="clear:  both"></div>
 
