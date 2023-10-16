@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-16.10.2023: [Inocybe geophylla - Seidiger Risspilz](/pilze/inocybe-geophylla-seidiger-risspilz)  
+17.10.2023: [Hydnum repandum - Semmelstoppelpilz](/pilze/hydnum-repandum-semmelstoppelpilz)  
+16.10.2023: [Inocybe geophylla - Seidiger Risspilz](/pilze/inocybe-geophylla-seidiger-risspilz)\
 15.10.2023: [Helvella crispa - Herbstlorchel](/pilze/helvella-crispa-herbstlorchel)\
 14.10.2023: [Pleurotus dryinus - Berindeter Seitling](/pilze/pleurotus-dryinus-berindeter-seitling)\
 13.10.2023: [Xerocomus cisalpinus - Starkblauender Rotfußröhrling](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)\
