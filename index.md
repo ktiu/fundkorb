@@ -21,36 +21,24 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_subdulcis_03_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+18.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Süßliche Milchling *Lactarius subdulcis*. Weshalb er "süßlich" genannt wird, entzieht sich meinem Veständnis. Er riecht nach Blattwanzen und seine weiße Milch hat einen zwar milden, aber leicht bitteren Geschmack. Als Speisepilz kann er bei üblicher Zubereitung also kaum empfohlen werden. Er gehört zu den häufigsten Milchlingsarten, ist in Laubwäldern und hier insbesondere bei Buchen eine allgegenwärtige Art. Da es zahlreiche braune Milchlinge gibt, ist es nicht immer leicht, sie sicher zu unterscheiden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lactarius-subdulcis-süßlicher-milchling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hydnum_repandum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 17.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Semmelstoppelpilz *Hydnum repandum*. Oberflächlich betrachtet könnte man ihn für einen Pfifferling halten. Ein Blick auf die Unterseite genügt, um den Irrtum zu erkennen. Wo der Pfifferling lamellenähnliche Leisten hat, befinden sich hier engstehende Stoppeln. Erfahrene Sammler wissen: auch er ist essbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hydnum-repandum-semmelstoppelpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/inocybe_geophylla_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Seidige Risspilz *Inocybe geophylla*. In dieser artenreichen und recht schwierigen Gattung gehört er wegen seiner Form und der weißen Farbe  zu den leicht kenntlichen Arten. Eigentlich sieht er gar nicht wie ein typischer Risspilz aus, aber man muss ihn nur an die Nase halten, um ihn als Vertreter seiner Gattung zu verdächtigen. Er hat wie die meisten anderen Risspilze einen deutlich spermatischen Geruch. Bei unseren letzten Führungen haben wir ihn mehrfach an Wegrändern gesehen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/inocybe-geophylla-seidiger-risspilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_crispa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.10.2023: Sollen das etwa Pilze sein?? Natürlich nicht. Nur Teile unseres aktuellen [Fundkorbpilz](AA "Glossar-"), der Herbstlorchel *Helvella crispa*. Genauer gesagt: die in dünne Scheibchen geschnittenen Stiele, die bezaubernd hübsch anzuschauende Muster bilden. Auch ein Pilzgericht lässt sich mit ihnen optisch aufwerten, ohne jedoch dessen Nährwert zu steigern. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/helvella-crispa-herbstlorchel)
 
 <div style="clear:  both"></div>
 
