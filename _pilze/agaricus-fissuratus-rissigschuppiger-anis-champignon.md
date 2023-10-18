@@ -26,3 +26,7 @@ Die Art gehört in den  Formenkreis um *Agaricus arvensis* (Schaf-Champignon) un
 > A. fissuratus typicus hat nach KREISEL (1977) eine ihm besonders zusagende ökologische Nische im intensiv gedüngten Grünland vorwiegend auf küstennahen, offenen Salzwiesen gefunden und gilt nach seiner Einschätzung möglicherweise sogar als Zeigerart für solche Stellen mit extremer Eutrophierung. Auf eine mögliche zunehmende kontinentale Verbreitung sollte dennoch besonders zu achten sein (siehe auch LUDWIG 2007), die nicht auszuschließen sein dürfte, denn wir kennen mittlerweile die Binnenausbreitung des [Großen Salzwiesen-Egerlings (*A. bernardii*)](/pilze/agaricus-bernardii-salzwiesen-egerling), der sich dort den winterlichen Salzstreuungen hervorragend angepasst hat und an Straßen- und Wegrändern oder anderen streusalzkontaminierten Stellen verstärkt zu erwarten ist.“
 
 In der Verbreitungskarte der [DGfM](DGfM "Glossar") für Deutschland sind für *Agaricus fissuratus* neben zahlreichen Fundpunkten an Nord- und Ostseeküsten sowie auf allen Ostfriesischen Inseln auch etliche Nachweise im Binnenland eingetragen. Hanns Kreisel bezeichnete ihn 1977 als *„Massenpilz des Intensivgrünlandes im Bezirk Rostock.“* Der hier abgebildete Fund stammt vom Parkplatz Rettershof bei Kelkheim (Taunus), auf dem winterliche Salzstreuungen durchaus möglich erscheinen.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/agaricus_fissuratus_02_rmd.jpg" %}
+{% include abbildung_ende.html legende="Foto: Rose Marie Dähncke" %}
