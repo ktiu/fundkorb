@@ -21,6 +21,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_badius_04_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+19.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der schmackhafte und viel gesammelte Maronenröhrling *Xerocomus badius*, der inzwischen Imleria badia heißt. Wenn man in die Körbe mancher Sammler schaut, die glauben, Maronenröhrlinge gefunden zu haben, sieht man oft eine bunte Mischung verschiedener Filzröhrlinge, darunter  auch wahrhaftige Maronenröhrlinge, manchmal aber auch keinen einzigen. Solche Verwechslungen sind in der Regel harmlos - vorausgesetzt, man hat keine vergammelten im Korb und später auf dem Teller. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xerocomus-badius-maronenröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_subdulcis_03_bm.jpg" %}
 {% include abbildung_ende.html %}
 
