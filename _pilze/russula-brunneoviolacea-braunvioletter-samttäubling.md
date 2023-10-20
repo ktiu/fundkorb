@@ -29,11 +29,20 @@ literatur:
 ---
 Der Braunviolette Samttäubling *Russula brunneoviolacea*, ein recht seltener, mittelgroßer, geruchloser, mildschmeckender Cremesporer, begegnet uns meist in recht gedeckten, braunen bis violetten Hutfarben, reif cremefarbenen Lamellen und weißem Stiel. Er wächst bei Laubbäumen, vor allem bei Rotbuchen, aber auch bei Eichen, Edelkastanien, Birken oder Haselmusssträuchern, und er liebt saure Böden. Die Rote Liste Deutschlands (2016) führt ihn in der Kategorie 3 (gefährdet).
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_brunneoviolacea_02_wi.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/russula_brunneoviolacea_03_wi.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="2 Fotos: Wikipedia - Lizenzhinweis: James Lindsey at Ecology of Commanster, Russula spec. - Lindsey 6a, CC BY-SA 3.0" %}
+
 **Makroskopische Merkmale:**
 
 Die Hüte können bis 10 cm breit werden, sind anfangs halbkugelig, breiten sich rasch aus und bekommen schließlich ein leicht vertieftes Zentrum. Der Rand ausgewachsener Exemplare ist auf ca. 10 mm Breite gerieft. Die Huthaut ist glatt bis fein gerunzelt, feucht glänzend und klebrig und bis zu zwei Drittel des Radius abziehbar. Die Hutfarben variieren von violettbraun über braunviolett, violett, dunkel violett bis braun, doch auch Farben wie weinrot oder ocker kommen vor. Dabei ist die Hutmitte oft dunkler als der restliche Hut. Junge Hüte sind manchmal violettschwarz. Die Lamellen sind brüchig, weißlich bis creme, kaum untermischt und selten gegabelt, die Schneiden ganzrandig und gleichfarben mit den Flächen. Die Stiele sind zylindrisch bis schlankkeulig, mitunter basal bis 25 mm verdickt, schwach längsaderig und rein weiß. Das Fleisch ist weiß, auch unter der Huthaut, bei jungen Exemplaren ist es fest, bei älteren weich und im Stiel ausgestopft. Die Pilze sind geruchlos und im Geschmack mild.
 
 Frisch ausgefallenes Sporenpulver ist creme, etwa IIb nach der Farbtafel in MARXMÜLLER, H. (2014).
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_brunneoviolacea_04_hs.jpg" %}
+{% include abbildung_ende.html legende="Makrochemische Farbreaktionen auf der weißen Stielrinde (Foto: Hans Stern)" %}
 
 **Makrochemische Farbreaktionen:** FeSO4 ergibt eine rosa, Phenol eine braune, Guajak eine rapide und intensive, dunkelgrüne Reaktion.
 
@@ -65,12 +74,20 @@ Die Sporen sind ellipsoid. Die Ornamentation besteht aus 1,0 - 1,5 µm, vereinze
 Maße lt. GALLI 1996: 7 - 9 x 6 - 7,5 µm\
 Maße lt. Hans Stern: 6,9 - 8,6 x 5,7 - 6,7µm
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_brunneoviolacea_05_hmx.jpg" %}
+{% include abbildung_ende.html legende="Mikromerkmale von Russula brunneoviolacea aus MARXMÜLLER 2014" %}
+
 Die Epikutis (oberste Schicht der Huthaut) besteht aus Epikutishaaren und Pileozystiden. Die Epikutishaare („eh“ in der Abbildung) sind langgliedrig, oft geradezu fadenförmig, mitunter gewellt, selten einmal verzweigt, basal 2,5 - 4 µm, apikal 1,5  µm breit. Die Pileozystiden („pz“ in der Abbildung) sind meist zylindrisch und multiseptiert, mitunter keulenförmig, 4 - 8 µm breit und in Sulfovanillin schwärzend.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_brunneoviolacea_06_rmd.jpg" %}
+{% include abbildung_ende.html legende="Studiofoto von Rose Marie Dähnke (1200 Pilze in Farbfotos)" %}
 
 **Täublinge mit ähnlichen Hutfarben:**
 
-Der [**Purpurschwarze Täubling** (*Russula atropurpurea*)](/pilze/russula-atropurpurea-purpurschwarzer-täubling) teilt mit unserer Art das Habitat und kann ähnlich aussehen. Er ist jedoch im Geschmack scharf, hat reinweiße Lamellen und reinweißes Sporenpulver und seine Sporen besitzen ein niederwarzig-netziges Ornament.  
-Der  [**Lederstiel-Täubling** (*Russula viscida*)](/pilze/russula-viscida-lederstiel-täubling) ist wesentlich festfleischiger. Vor allem der Stiel ist fast holzig hart. Auch schmeckt er in den Lamellen scharf. Seine Sporen besitzen ein niederwarzig-netziges Ornament.  
-Der [**Scharfe Brauntäubling** (*Russula adulterina*)](/pilze/russula-adulterina-scharfer-brauntäubling) riecht fruchtig und schmeckt sehr scharf. Seine Sporen sind deutlich größer als bei unserer Art. Er wächst bei Nadelbäumen auf Kalkboden.  
-Der [**Amethyst-Täubling** (*Russula amethystina*)](/pilze/russula-amethystina-amethyst-täubling) besitzt im reifen Zustand dottergelbe Lamellen. Sein Sporenpulver ist ebenfalls dottergelb, in der Huthaut hat er keine Pileozystiden, sondern inkrustierte Primordialhyphen. Er ist Nadelbaumbegleiter.  
+Der [**Purpurschwarze Täubling** (*Russula atropurpurea*)](/pilze/russula-atropurpurea-purpurschwarzer-täubling) teilt mit unserer Art das Habitat und kann ähnlich aussehen. Er ist jedoch im Geschmack scharf, hat reinweiße Lamellen und reinweißes Sporenpulver und seine Sporen besitzen ein niederwarzig-netziges Ornament.\
+Der  [**Lederstiel-Täubling** (*Russula viscida*)](/pilze/russula-viscida-lederstiel-täubling) ist wesentlich festfleischiger. Vor allem der Stiel ist fast holzig hart. Auch schmeckt er in den Lamellen scharf. Seine Sporen besitzen ein niederwarzig-netziges Ornament.\
+Der [**Scharfe Brauntäubling** (*Russula adulterina*)](/pilze/russula-adulterina-scharfer-brauntäubling) riecht fruchtig und schmeckt sehr scharf. Seine Sporen sind deutlich größer als bei unserer Art. Er wächst bei Nadelbäumen auf Kalkboden.\
+Der [**Amethyst-Täubling** (*Russula amethystina*)](/pilze/russula-amethystina-amethyst-täubling) besitzt im reifen Zustand dottergelbe Lamellen. Sein Sporenpulver ist ebenfalls dottergelb, in der Huthaut hat er keine Pileozystiden, sondern inkrustierte Primordialhyphen. Er ist Nadelbaumbegleiter.\
 Der [**Weißblättrige Reiftäubling** (*Russula azurea*)](/pilze/russula-azurea-violetter-reiftäubling) besitzt reinweiße Lamellen und reinweißes Sporenpulver. Wie der Amethyst-Täubling besitzt er in der Huthaut Primordialhyphen und ist Nadelbaumbegleiter.
