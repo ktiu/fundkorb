@@ -17,6 +17,8 @@ literatur:
 ---
 Dieser Milchling hieß früher einmal *Lactarius necator*. Kein schmeichelhafter und dazu noch völlig unangebrachter Name. *Necator* ist lateinisch und heißt Mörder. Auch im deutschen Sprachgebrauch wurde er früher als "Mordschwamm" verteufelt. Tatsache ist, dass er noch keinen umgebracht hat. Bei entsprechender Vorbehandlung wird er von manchen Pilzbuchautoren sogar als essbar angegeben, wenn auch nur nach besonderer Vorbehandlung (zweimaliges Abkochen, Einsalzen, in Essig einlegen). In einigen osteuropäischen Ländern soll er angeblich gegessen werden. Sein neuerer und derzeit gültiger Name *turpis* ist ebenfalls kein Kompliment für diesen Pilz. *Turpis* heißt häßlich. Mit seinen düsteren Farben, den graubraun fleckenden Lamellen und seiner feucht klebrig-schleimigen Huthaut ist er wahrlich alles andere als eine attraktive Erscheinung.
 
+Nach neueren Erkenntnissen soll er Magen-/Darmbeschwerden verursachen und er steht im Verdacht, karzinogene und mutagene Inhaltsstoffe zu haben.
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lactarius_turpis_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/lactarius_turpis_03_dg.jpg" nocrop=true %}
