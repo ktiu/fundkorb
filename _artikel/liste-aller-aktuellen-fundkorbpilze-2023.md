@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-19.10.2023: [Xerocomus badius - Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)  
+20.10.2023: [Lactarius turpis - Olivbrauner Milchling](/pilze/lactarius-turpis-olivbrauner-milchling)  
+19.10.2023: [Xerocomus badius - Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)\
 18.10.2023: [Lactarius subdulcis - Süßlicher Milchling](/pilze/lactarius-subdulcis-süßlicher-milchling)\
 17.10.2023: [Hydnum repandum - Semmelstoppelpilz](/pilze/hydnum-repandum-semmelstoppelpilz)\
 16.10.2023: [Inocybe geophylla - Seidiger Risspilz](/pilze/inocybe-geophylla-seidiger-risspilz)\
