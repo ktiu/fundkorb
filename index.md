@@ -36,7 +36,7 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 {% include bild.html datei="/bilder/lactarius_turpis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-20.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal einer der hässlichsten Pilz, die unsere Wälder zu bieten haben. Der Olivbraune Milchling *Lactarius turpis* hieß früher mal necator (lat.: „Mörder“),  wird auch Hässlicher Milchpilz, Saupilz, Wilder Milchling und Mordschwamm genannt, aber ganz so schlimm ist er wohl nicht. Er kann heftige Magen-/Darmbeschwerden verursachen und steht im Verdacht, karzinogene und mutagene Inhaltsstoffe zu haben. Umgebracht hat er bisher noch keinen und sein unsympathisches Aussehen hat immerhin einen Vorteil. Es hält Pilzsammler davon ab, ihn in der Küche zu verwenden. (Dieter Gewalt)
+20.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal einer der hässlichsten Pilze, die unsere Wälder zu bieten haben. Der Olivbraune Milchling *Lactarius turpis* hieß früher mal necator (lat.: „Mörder“),  wird auch Hässlicher Milchpilz, Saupilz, Wilder Milchling und Mordschwamm genannt, aber ganz so schlimm ist er wohl nicht. Er kann heftige Magen-/Darmbeschwerden verursachen und steht im Verdacht, karzinogene und mutagene Inhaltsstoffe zu haben. Umgebracht hat er bisher noch keinen und sein unsympathisches Aussehen hat immerhin einen Vorteil. Es hält Pilzsammler davon ab, ihn in der Küche zu verwenden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lactarius-turpis-olivbrauner-milchling)
 
