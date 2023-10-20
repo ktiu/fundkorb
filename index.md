@@ -21,6 +21,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_controversus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosascheckige Milchling *Lactarius controversus*. Diese noch zur Jahrtausendwende als selten bezeichnete aber auffällige Art wird zumindest im Rhein-Main-Gebiet immer häufiger gefunden und tritt sogar oft in großen Mengen auf. Hutdurchmesser von 25 cm sind keine Seltenheit. Verwechseln könnte man ihn vor allem mit dem Wolligen Milchling *Lactarius vellereus*, der zumindest im Rhein-Main-Gebiet eine rückläufige Tendenz zeigt. Beide haben brennend scharfe Milch und sind daher keine Speisepilze. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lactarius-controversus-rosascheckiger-milchling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_turpis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,30 +51,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 19.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der schmackhafte und viel gesammelte Maronenröhrling *Xerocomus badius*, der inzwischen Imleria badia heißt. Wenn man in die Körbe mancher Sammler schaut, die glauben, Maronenröhrlinge gefunden zu haben, sieht man oft eine bunte Mischung verschiedener Filzröhrlinge, darunter  auch wahrhaftige Maronenröhrlinge, manchmal aber auch keinen einzigen. Solche Verwechslungen sind in der Regel harmlos - vorausgesetzt, man hat keine vergammelten im Korb und später auf dem Teller. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xerocomus-badius-maronenröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_subdulcis_03_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-18.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Süßliche Milchling *Lactarius subdulcis*. Weshalb er "süßlich" genannt wird, entzieht sich meinem Veständnis. Er riecht nach Blattwanzen und seine weiße Milch hat einen zwar milden, aber leicht bitteren Geschmack. Als Speisepilz kann er bei üblicher Zubereitung also kaum empfohlen werden. Er gehört zu den häufigsten Milchlingsarten, ist in Laubwäldern und hier insbesondere bei Buchen eine allgegenwärtige Art. Da es zahlreiche braune Milchlinge gibt, ist es nicht immer leicht, sie sicher zu unterscheiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lactarius-subdulcis-süßlicher-milchling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hydnum_repandum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Semmelstoppelpilz *Hydnum repandum*. Oberflächlich betrachtet könnte man ihn für einen Pfifferling halten. Ein Blick auf die Unterseite genügt, um den Irrtum zu erkennen. Wo der Pfifferling lamellenähnliche Leisten hat, befinden sich hier engstehende Stoppeln. Erfahrene Sammler wissen: auch er ist essbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hydnum-repandum-semmelstoppelpilz)
 
 <div style="clear:  both"></div>
 
