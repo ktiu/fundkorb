@@ -10,13 +10,13 @@ bilder:
 ---
 10 wichtige Pilzfunde der Exkursion im Gebiet Dornsee bei Gravenbruch:
 
-[Grüner Knollenblätterpilz](/pilze/amanita-phalloides-gr%C3%BCner-knollenbl%C3%A4tterpilz)
-[Gelber Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz)
-[Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)
-[Gemeiner Steinpilz](/pilze/boletus-edulis-gemeiner-steinpilz)
-[Flockenstieliger Hexenröhrling](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)
-[Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)
-[Toten-, Herbsttrompete](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
-[Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)
-[Herbstlorchel](/pilze/helvella-crispa-herbstlorchel)
+[Grüner Knollenblätterpilz](/pilze/amanita-phalloides-gr%C3%BCner-knollenbl%C3%A4tterpilz)  
+[Gelber Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz)  
+[Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)  
+[Gemeiner Steinpilz](/pilze/boletus-edulis-gemeiner-steinpilz)  
+[Flockenstieliger Hexenröhrling](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)  
+[Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)  
+[Toten-, Herbsttrompete](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)  
+[Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)  
+[Herbstlorchel](/pilze/helvella-crispa-herbstlorchel)  
 [Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)
