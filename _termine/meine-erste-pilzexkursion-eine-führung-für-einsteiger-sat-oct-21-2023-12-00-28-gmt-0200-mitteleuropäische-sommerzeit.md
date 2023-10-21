@@ -8,10 +8,15 @@ published: true
 bilder:
   - /bilder/einsteiger_01_dg.jpg
 ---
-Im Herbst nach Pilzen suchen macht Freude. Aber: Welcher Pilz darf in die Pfanne und später auf den Teller? Von welchem sollte man besser die Finger lassen? Welcher könnte gar gefährlich werden? Beim Pilzesammeln auf der sicheren Seite zu sein, ist gerade für Einsteiger von größter Wichtigkeit. Bei unserer Exkursion in einem Wald im Raum Frankfurt/Offnbach/Dietzenbach erfahren Sie alles, was beim Sammeln zu beachten ist und lernen sowohl einige essbare wie auch ungenießbare und giftige Arten kennen.
+10 wichtige Pilzfunde der Exkursion im Gebiet Dornsee bei Gravenbruch:
 
-Die Teilnahmegebühr für die etwa dreistündige Wanderung beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Anmeldebestätigung mitgeteilt.
-
-**Diese Führing ist ausgebucht. Anmeldungen sind leider nicht mehr möglich.**
-
-Es wird in diesem Jahr weitere pilzkundliche Führungen geben. Sie können sich auch in unseren Newsletter-Verteiler eintragen, um keine neuen Terminangebote zu versäumen. Formlose kurze Mail an dgewalt@web.de genügt.
+[Grüner Knollenblätterpilz](/pilze/amanita-phalloides-gr%C3%BCner-knollenbl%C3%A4tterpilz)
+[Gelber Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz)
+[Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)
+[Gemeiner Steinpilz](/pilze/boletus-edulis-gemeiner-steinpilz)
+[Flockenstieliger Hexenröhrling](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)
+[Eichenrotkappe](/pilze/leccinum-quercinum-eichenrotkappe)
+[Toten-, Herbsttrompete](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
+[Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)
+[Herbstlorchel](/pilze/helvella-crispa-herbstlorchel)
+[Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)
