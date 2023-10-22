@@ -21,6 +21,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pholiota_squarrosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.10.2023: Mit dem Sparrigen Schüppling *Pholiota squarrosa* haben wir heute einen ausgesprochen fotogenen [Fundkorbpilz](AA "Glossar-"). Trockener schuppiger Hut und ebenso trockener schuppiger Stiel sind seine markanten Kennzeichen. Er wächst parasitisch an Laub- und Nadelbäumen, in Streuobstwiesen gern an Obstbäumen, an denen er eine intensive Weißfäule erzeugt. Geruch und Geschmack werden als rettichartig beschrieben. Personen mit empfindlichem Magen sollten ihn meiden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pholiota-squarrosa-sparriger-schüppling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_controversus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
