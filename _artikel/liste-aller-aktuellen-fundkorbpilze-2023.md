@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-21.10.2023: [Lactarius controversus - Rosascheckiger Milchling](/pilze/lactarius-controversus-rosascheckiger-milchling)  
+22.10.2023: [Pholiota squarrosa - Sparriger Schüppling](/pilze/pholiota-squarrosa-sparriger-schüppling)  
+21.10.2023: [Lactarius controversus - Rosascheckiger Milchling](/pilze/lactarius-controversus-rosascheckiger-milchling)\
 20.10.2023: [Lactarius turpis - Olivbrauner Milchling](/pilze/lactarius-turpis-olivbrauner-milchling)\
 19.10.2023: [Xerocomus badius - Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)\
 18.10.2023: [Lactarius subdulcis - Süßlicher Milchling](/pilze/lactarius-subdulcis-süßlicher-milchling)\
