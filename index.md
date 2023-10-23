@@ -21,7 +21,7 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 {% include bild.html datei="/bilder/cantharellus_tubaeformis_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-24.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Trompetenpfifferling Cantharellus tubaeformis. Er unterscheidet sich deutlich von gelben Pfifferlingsarten, seine lamellenähnlichen am Stiel herablaufenden Leisten lassen aber mit etwas Fantasie seine Verwandtschaftsbeziehung erahnen. Wie der bekannte Pfifferling ist er ein ausgezeichneter Speisepilz, der mitunter durch ergiebige Massenvorkommen vor allem in Fichtenwäldern erfreut. (Dieter Gewalt)
+24.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Trompetenpfifferling *Cantharellus tubaeformis*. Er unterscheidet sich deutlich von gelben Pfifferlingsarten, seine lamellenähnlichen am Stiel herablaufenden Leisten lassen aber mit etwas Fantasie seine Verwandtschaftsbeziehung erahnen. Wie der bekannte Pfifferling ist er ein ausgezeichneter Speisepilz, der mitunter durch ergiebige Massenvorkommen vor allem in Fichtenwäldern erfreut. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cantharellus-tubaeformis-trompetenpfifferling)
 
