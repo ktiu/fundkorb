@@ -21,6 +21,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gyroporus_cyanescens_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kornblumenröhrling *Gyroporus cyanescens*. Wir haben ihn bei unserer letzten pilzkundlichen Führung in der Rhein-Main-Ebene gefunden. An seinen gekammert hohlen Stielen und der kornblumenblauen Verfärbung im angeschnittenen sehr festen Fleisch ist er leicht zu erkennen. Bei der Zubereitung verliert er die blaue Farbe. Im Geschmack ist er fein nussartig, in seiner Speisepilzqualität dem Steinpilz mindestens ebenbürtig, darf aber als gesetzlich geschützte Rote-Liste Art nicht gesammelt werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gyroporus-cyanescens-kornblumenröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pholiota_squarrosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,30 +51,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 21.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosascheckige Milchling *Lactarius controversus*. Diese noch zur Jahrtausendwende als selten bezeichnete aber auffällige Art wird zumindest im Rhein-Main-Gebiet immer häufiger gefunden und tritt sogar oft in großen Mengen auf. Hutdurchmesser von 25 cm sind keine Seltenheit. Verwechseln könnte man ihn vor allem mit dem Wolligen Milchling *Lactarius vellereus*, der zumindest im Rhein-Main-Gebiet eine rückläufige Tendenz zeigt. Beide haben brennend scharfe Milch und sind daher keine Speisepilze. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lactarius-controversus-rosascheckiger-milchling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_turpis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal einer der hässlichsten Pilze, die unsere Wälder zu bieten haben. Der Olivbraune Milchling *Lactarius turpis* hieß früher mal necator (lat.: „Mörder“),  wird auch Hässlicher Milchpilz, Saupilz, Wilder Milchling und Mordschwamm genannt, aber ganz so schlimm ist er wohl nicht. Er kann heftige Magen-/Darmbeschwerden verursachen und steht im Verdacht, karzinogene und mutagene Inhaltsstoffe zu haben. Umgebracht hat er bisher noch keinen und sein unsympathisches Aussehen hat immerhin einen Vorteil. Es hält Pilzsammler davon ab, ihn in der Küche zu verwenden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lactarius-turpis-olivbrauner-milchling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_badius_04_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-19.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der schmackhafte und viel gesammelte Maronenröhrling *Xerocomus badius*, der inzwischen Imleria badia heißt. Wenn man in die Körbe mancher Sammler schaut, die glauben, Maronenröhrlinge gefunden zu haben, sieht man oft eine bunte Mischung verschiedener Filzröhrlinge, darunter  auch wahrhaftige Maronenröhrlinge, manchmal aber auch keinen einzigen. Solche Verwechslungen sind in der Regel harmlos - vorausgesetzt, man hat keine vergammelten im Korb und später auf dem Teller. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xerocomus-badius-maronenröhrling)
 
 <div style="clear:  both"></div>
 
