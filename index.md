@@ -12,11 +12,20 @@ footer_scripts:
 
 - - -
 
-Samstag, 21. Oktober 2023, 10:00 Uhr: **Pilzführung für Einsteiger**
-[zur Anmeldung >](/termine)
-
 Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 [Mehr erfahren >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cantharellus_tubaeformis_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Trompetenpfifferling Cantharellus tubaeformis. Er unterscheidet sich deutlich von gelben Pfifferlingsarten, seine lamellenähnlichen am Stiel herablaufenden Leisten lassen aber mit etwas Fantasie seine Verwandtschaftsbeziehung erahnen. Wie der bekannte Pfifferling ist er ein ausgezeichneter Speisepilz, der mitunter durch ergiebige Massenvorkommen vor allem in Fichtenwäldern erfreut. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cantharellus-tubaeformis-trompetenpfifferling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -39,18 +48,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 22.10.2023: Mit dem Sparrigen Schüppling *Pholiota squarrosa* haben wir heute einen ausgesprochen fotogenen [Fundkorbpilz](AA "Glossar-"). Trockener schuppiger Hut und ebenso trockener schuppiger Stiel sind seine markanten Kennzeichen. Er wächst parasitisch an Laub- und Nadelbäumen, in Streuobstwiesen gern an Obstbäumen, an denen er eine intensive Weißfäule erzeugt. Geruch und Geschmack werden als rettichartig beschrieben. Personen mit empfindlichem Magen sollten ihn meiden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/pholiota-squarrosa-sparriger-schüppling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_controversus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosascheckige Milchling *Lactarius controversus*. Diese noch zur Jahrtausendwende als selten bezeichnete aber auffällige Art wird zumindest im Rhein-Main-Gebiet immer häufiger gefunden und tritt sogar oft in großen Mengen auf. Hutdurchmesser von 25 cm sind keine Seltenheit. Verwechseln könnte man ihn vor allem mit dem Wolligen Milchling *Lactarius vellereus*, der zumindest im Rhein-Main-Gebiet eine rückläufige Tendenz zeigt. Beide haben brennend scharfe Milch und sind daher keine Speisepilze. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lactarius-controversus-rosascheckiger-milchling)
 
 <div style="clear:  both"></div>
 
