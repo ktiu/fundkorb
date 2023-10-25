@@ -18,6 +18,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/entoloma_nitidum_01_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+26.10.2023: Das war unser schönster Fund während einer Exkursion in einem Naturschutzgebiet bei München und deshalb soll er auch unser aktueller [Fundkorbpilz](AA "Glossar-") sein: der Stahlblaue Rötling *Entoloma nitidum*. Die bei Pilzen seltene blaue Farbe ist bei den Rötlingen recht häufig. Besonders schön finde ich den Kontrast zwischen Hut und Lamellenfarbe. Entdeckt man einen solchen Rötling in einem bodensauren Fichtenwald, ist es mit hoher Wahrscheinlichkeit die hier gezeigte Art. Gefunden hat sie unsere Pilzfreundin *Veronika Ziegltrum*. (Johann Rejek)
+
+[Mehr lesen >](/pilze/entoloma-nitidum-stahlblauer-rötling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_muscaria_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
