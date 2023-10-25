@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-24.10.2023: [Cantharellus tubaeformis - Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)  
+25.10.2023: [Amanita muscaria - Fliegenpilz](/pilze/amanita-muscaria-fliegenpilz)  
+24.10.2023: [Cantharellus tubaeformis - Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)\
 23.10.2023: [Gyroporus cyanescens - Kornblumenröhrling](/pilze/gyroporus-cyanescens-kornblumenröhrling)\
 22.10.2023: [Pholiota squarrosa - Sparriger Schüppling](/pilze/pholiota-squarrosa-sparriger-schüppling)\
 21.10.2023: [Lactarius controversus - Rosascheckiger Milchling](/pilze/lactarius-controversus-rosascheckiger-milchling)\
