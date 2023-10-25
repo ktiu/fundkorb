@@ -18,6 +18,16 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_muscaria_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, den jeder kennt. Dem Fliegenpilz *Amanita muscaria* sagt man nach, der Inbegriff eines Giftpilzes zu sein. Tatsache ist: er hat wohl noch niemanden umgebracht. Er ist nicht einmal in der Lage, einer Fliege etwas zuleide zu tun. Ob er ein Glückspilz oder das berühmte Männlein im Walde ist und was es wirklich mit ihm auf sich hat, [erfährt man hier >](/pilze/amanita-muscaria-fliegenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cantharellus_tubaeformis_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +46,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 23.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kornblumenröhrling *Gyroporus cyanescens*. Wir haben ihn bei unserer letzten pilzkundlichen Führung in der Rhein-Main-Ebene gefunden. An seinen gekammert hohlen Stielen und der kornblumenblauen Verfärbung im angeschnittenen sehr festen Fleisch ist er leicht zu erkennen. Bei der Zubereitung verliert er die blaue Farbe. Im Geschmack ist er fein nussartig, in seiner Speisepilzqualität dem Steinpilz mindestens ebenbürtig, darf aber als gesetzlich geschützte Rote-Liste Art nicht gesammelt werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gyroporus-cyanescens-kornblumenröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pholiota_squarrosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.10.2023: Mit dem Sparrigen Schüppling *Pholiota squarrosa* haben wir heute einen ausgesprochen fotogenen [Fundkorbpilz](AA "Glossar-"). Trockener schuppiger Hut und ebenso trockener schuppiger Stiel sind seine markanten Kennzeichen. Er wächst parasitisch an Laub- und Nadelbäumen, in Streuobstwiesen gern an Obstbäumen, an denen er eine intensive Weißfäule erzeugt. Geruch und Geschmack werden als rettichartig beschrieben. Personen mit empfindlichem Magen sollten ihn meiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pholiota-squarrosa-sparriger-schüppling)
 
 <div style="clear:  both"></div>
 
