@@ -44,4 +44,5 @@ Lt. Andreas Gminder ist der Stahlblaue Rötling
 
 > der einzige blaue Rötling, der in sauren Nadelwäldern vorkommt und somit einfach zu bestimmen.“
 
+
 Die Rötlinge sind eine artenreiche Gattung [saprobiontisch](saprobiontisch "Glossar") wachsender Pilze mit etwa 250 mitteleuropäischen Arten. Sie sind durch rosafarbenes Sporenpulver und mehreckige Sporen gekennzeichnet. Etwa 100 von ihnen fallen durch blaue Farben besonders auf. Einige sind in die neue Gattung *Entocybe* überführt worden (auch *Entoloma nitidum*) mit Argumenten, die nicht von allen Mykologen anerkannt werden.
