@@ -18,7 +18,7 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_muscaria_01_dg.jpg" %}
+{% include bild.html datei="/bilder/amanita_muscaria_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
 25.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, den jeder kennt. Dem Fliegenpilz *Amanita muscaria* sagt man nach, der Inbegriff eines Giftpilzes zu sein. Tatsache ist: er hat wohl noch niemanden umgebracht. Er ist nicht einmal in der Lage, einer Fliege etwas zuleide zu tun. Ob er ein Glückspilz oder das berühmte Männlein im Walde ist und was es wirklich mit ihm auf sich hat, [erfährt man hier >](/pilze/amanita-muscaria-fliegenpilz)
