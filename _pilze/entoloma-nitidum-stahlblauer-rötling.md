@@ -31,6 +31,11 @@ Die Farbe Blau ist bei den Pilzen eher eine Seltenheit. Unter den Rötlingen gib
 
 ist der Pilz bestens charakterisiert. Das abgebildete Exemplar hat *Veronika Ziegltrum* während einer unserer Exkursionen in einem Naturschutzgebiet südöstlich von München bei einem bemoosten Fichtenstumpf gefunden.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/entoloma_nitidum_03_us.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/entoloma_nitidum_04_us.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="2 Fotos: Udo Schäfer" %}
+
 Es handelt sich um einen meist zierlichen Pilz mit bis zu 5 cm breitem, fein radialfaserigem, ± gebuckeltem Hut und bauchigen, schmal angewachsenen, jung weißen Lamellen, die später durch ausfallendes Sporenpulver eine rosa Farbe annehmen. Die Hutfarbe kann deutlich dunkler stahlblau sein als auf den obigen Abbildungen. Die hohlen meist schlanken oder auch zur Basis hin dickeren Stiele werden bis zu 8 cm lang und 2 - 4 (6) mm breit.
 
 Ähnlich  aussehen kann der Violette Rötling *Entoloma euchroum*, der an morschem, bemoostem Totholz überwiegend in Laubwäldern wächst und dunkelblaue bis violette, breit angewachsene Lamellen besitzt. Über Geruch und Geschmack finden sich für beide Arten unterschiedliche, zum Teil widersprüchliche Angaben.
