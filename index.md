@@ -18,6 +18,19 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_zephirus_04_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+27.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rostige Helmling *Mycena zephirus*. Wenn er herdenweise Waldböden besiedelt, ist das ein Zeichen, dass die Herbstpilzsaison begonnen hat. Rostig ist er ganz überwiegend nicht. Die namensgebenden Rostflecken auf dem Hut erscheinen meist erst im Alter.\
+Unter den Helmlingen gibt es keine sammelwürdigen, aber ein paar wenige leicht giftige Arten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-zephirus-rostiger-helmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/entoloma_nitidum_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -34,30 +47,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 {% include abbildung_ende.html %}
 
 25.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, den jeder kennt. Dem Fliegenpilz *Amanita muscaria* sagt man nach, der Inbegriff eines Giftpilzes zu sein. Tatsache ist: er hat wohl noch niemanden umgebracht. Er ist nicht einmal in der Lage, einer Fliege etwas zuleide zu tun. Ob er ein Glückspilz oder das berühmte Männlein im Walde ist und was es wirklich mit ihm auf sich hat, [erfährt man hier >](/pilze/amanita-muscaria-fliegenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cantharellus_tubaeformis_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Trompetenpfifferling *Cantharellus tubaeformis*. Er unterscheidet sich deutlich von gelben Pfifferlingsarten, seine lamellenähnlichen am Stiel herablaufenden Leisten lassen aber mit etwas Fantasie seine Verwandtschaftsbeziehung erahnen. Wie der bekannte Pfifferling ist er ein ausgezeichneter Speisepilz, der mitunter durch ergiebige Massenvorkommen vor allem in Fichtenwäldern erfreut. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cantharellus-tubaeformis-trompetenpfifferling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gyroporus_cyanescens_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kornblumenröhrling *Gyroporus cyanescens*. Wir haben ihn bei unserer letzten pilzkundlichen Führung in der Rhein-Main-Ebene gefunden. An seinen gekammert hohlen Stielen und der kornblumenblauen Verfärbung im angeschnittenen sehr festen Fleisch ist er leicht zu erkennen. Bei der Zubereitung verliert er die blaue Farbe. Im Geschmack ist er fein nussartig, in seiner Speisepilzqualität dem Steinpilz mindestens ebenbürtig, darf aber als gesetzlich geschützte Rote-Liste Art nicht gesammelt werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gyroporus-cyanescens-kornblumenröhrling)
 
 <div style="clear:  both"></div>
 
