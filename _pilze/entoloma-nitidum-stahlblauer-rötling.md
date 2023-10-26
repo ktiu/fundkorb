@@ -52,4 +52,4 @@ Lt. Andreas Gminder ist der Stahlblaue Rötling
 {% include bild.html datei="/bilder/entoloma_nitidum_06_tl.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Huthautzellen mit bläulichem, intrazellulärem Pigment -- Sporen (2 Mikrofotos von Thomas Lehr)" %}
 
-Die Rötlinge sind eine artenreiche Gattung [saprobiontisch](saprobiontisch "Glossar") wachsender Pilze mit etwa 250 mitteleuropäischen Arten. Sie sind durch rosafarbenes Sporenpulver und mehreckige Sporen gekennzeichnet. Etwa 100 von ihnen fallen durch blaue Farben besonders auf. Einige sind in die neue Gattung *Entocybe* überführt worden (auch *Entoloma nitidum*) mit Argumenten, die nicht von allen Mykologen anerkannt werden.
+Die Rötlinge sind eine artenreiche Gattung [saprobiontisch](saprobiontisch "Glossar") wachsender Pilze mit etwa 250 mitteleuropäischen Arten. Sie sind durch rosafarbenes Sporenpulver und mehreckige Sporen gekennzeichnet. Etwa 100 von ihnen fallen durch blaue Farben besonders auf. Einige sind in die neue Gattung *Entocybe* überführt worden (auch *Entoloma nitidum*) - mit Argumenten, die nicht von allen Mykologen anerkannt werden.
