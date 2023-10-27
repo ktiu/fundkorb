@@ -18,6 +18,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_rufus_01_hs.jpg" %}
+{% include abbildung_ende.html %}
+
+28.10.2023: Milchlinge sind wegen ihrer bei Verletzung austretenden Milch leicht zu identifizieren. Vor allem die vielen braunen Arten sind aber nicht leicht zu unterscheiden. Unter diesen hat unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rotbraune Milchling *Lactarius rufus*, mit seinem spitzen Buckel in der Hutmitte und seiner sehr scharfen Milch immerhin eine Merkmalskombination, die einen Hinweis gibt aber noch keine sichere Bestimmung bedeutet. Der Rotbraune Milchling ist eine Typusart saurer Fichten- und Kiefernwälder. Für die Küche ist er nur sehr bedingt verwendbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lactarius-rufus-rotbrauner-milchling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_zephirus_04_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
