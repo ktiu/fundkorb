@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-27.10.2023: [Mycena zephirus - Rostiger Helmling](/pilze/mycena-zephirus-rostiger-helmling)  
+28.10.2023: [Lactarius rufus - Rotbrauner Milchling](/pilze/lactarius-rufus-rotbrauner-milchling)  
+27.10.2023: [Mycena zephirus - Rostiger Helmling](/pilze/mycena-zephirus-rostiger-helmling)\
 26.10.2023: [Entoloma nitidum - Stahlblauer Rötling](/pilze/entoloma-nitidum-stahlblauer-Rötling)\
 25.10.2023: [Amanita muscaria - Fliegenpilz](/pilze/amanita-muscaria-fliegenpilz)\
 24.10.2023: [Cantharellus tubaeformis - Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)\
