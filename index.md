@@ -17,6 +17,20 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 
 - - -
 
+
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leotia_lubrica_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Grüngelbe Gallertkäppchen *Leotia lubrica*. Es gehört zu den [Ascomyzeten](<Ascomyzeten "Glossar">) und ist mit seiner fast schon gummiartigen Konsistenz und der ungewöhnlichen Form nahezu unverwechselbar. Fast immer sind mehrere Fruchtkörper büschelig an ihren Stielbasen miteinander verwachsen. Es gilt als giftverdächtig, soll Spuren von Gyromitrin enthalten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_rufus_01_hs.jpg" %}
 {% include abbildung_ende.html %}
@@ -37,28 +51,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 Unter den Helmlingen gibt es keine sammelwürdigen, aber ein paar wenige leicht giftige Arten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycena-zephirus-rostiger-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/entoloma_nitidum_01_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-26.10.2023: Das war unser schönster Fund während einer Exkursion in einem Naturschutzgebiet bei München und deshalb soll er auch unser aktueller [Fundkorbpilz](AA "Glossar-") sein: der Stahlblaue Rötling *Entoloma nitidum*. Die bei Pilzen seltene blaue Farbe ist bei den Rötlingen recht häufig. Besonders schön finde ich den Kontrast zwischen Hut und Lamellenfarbe. Entdeckt man einen solchen Rötling in einem bodensauren Fichtenwald, ist es mit hoher Wahrscheinlichkeit die hier gezeigte Art. Gefunden hat sie unsere Pilzfreundin *Veronika Ziegltrum*. (Johann Rejek)
-
-[Mehr lesen >](/pilze/entoloma-nitidum-stahlblauer-rötling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_muscaria_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-25.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, den jeder kennt. Dem Fliegenpilz *Amanita muscaria* sagt man nach, der Inbegriff eines Giftpilzes zu sein. Tatsache ist: er hat wohl noch niemanden umgebracht. Er ist nicht einmal in der Lage, einer Fliege etwas zuleide zu tun. Ob er ein Glückspilz oder das berühmte Männlein im Walde ist und was es wirklich mit ihm auf sich hat, [erfährt man hier >](/pilze/amanita-muscaria-fliegenpilz)
 
 <div style="clear:  both"></div>
 
