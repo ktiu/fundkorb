@@ -23,7 +23,7 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 {% include bild.html datei="/bilder/leotia_lubrica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-29.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Grüngelbe Gallertkäppchen *Leotia lubrica*. Es gehört zu den [Ascomyzeten](<Ascomyzeten "Glossar">) und ist mit seiner fast schon gummiartigen Konsistenz und der ungewöhnlichen Form nahezu unverwechselbar. Fast immer sind mehrere Fruchtkörper büschelig an ihren Stielbasen miteinander verwachsen. Es gilt als giftverdächtig, soll Spuren von Gyromitrin enthalten. (Dieter Gewalt)
+29.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Grüngelbe Gallertkäppchen *Leotia lubrica*. Es gehört zu den [Ascomyzeten](Ascomyzeten "Glossar") und ist mit seiner fast schon gummiartigen Konsistenz und der ungewöhnlichen Form nahezu unverwechselbar. Fast immer sind mehrere Fruchtkörper büschelig an ihren Stielbasen miteinander verwachsen. Es gilt als giftverdächtig, soll Spuren von Gyromitrin enthalten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)
 
