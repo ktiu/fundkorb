@@ -9,7 +9,7 @@ profil:
   aktualisiert: 2023-10-29
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: false
+  anzeige: true
   datei: /bilder/entoloma_sericeum_01_nk.jpg
   legende: "Foto: Norbert Kühnberger"
 literatur:
