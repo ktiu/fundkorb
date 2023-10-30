@@ -21,7 +21,7 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 {% include bild.html datei="/bilder/pleurocybella_porrigens_01_hs.jpg" %}
 {% include abbildung_ende.html %}
 
-30.10.2023: Bei der gestrigen Pilzberatung im Frankfurter Gesundheitsamt bekam ich erstmals den Ohrförmigen Seitling *Pleurocybella porrigens* zu sehen, der natürlich zum aktuellen Fundkorbpilz erklärt werden muss. Ein Pilzsammler hatte ihn aus dem Taunus mitgebracht. Er gilt als Doppelgänger der essbaren Austern- und Lungenseitlinge und sollte auf keinen Fall gegessen werden.  In Mitteleuropa hat er wohl noch keine Vergiftungen verursacht, in Japan dagegen ist er für mindestens 15 Todesfälle verantwortlich. (Dieter Gewalt)
+30.10.2023: Bei der gestrigen Pilzberatung im Frankfurter Gesundheitsamt bekam ich erstmals den Ohrförmigen Seitling *Pleurocybella porrigens* zu sehen, der natürlich zum aktuellen [Fundkorbpilz](AA "Glossar-") erklärt werden muss. Ein Pilzsammler hatte ihn aus dem Taunus mitgebracht. Er gilt als Doppelgänger der essbaren Austern- und Lungenseitlinge und sollte auf keinen Fall gegessen werden.  In Mitteleuropa hat er wohl noch keine Vergiftungen verursacht, in Japan dagegen ist er für mindestens 15 Todesfälle verantwortlich. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/pleurocybella-porrigens-ohrförmiger-seitling)
 
