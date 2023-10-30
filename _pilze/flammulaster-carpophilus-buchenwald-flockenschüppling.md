@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Buchenwald-Flockenschüppling
   referenz: (Fr.) Earle ex Vellinga 1986
   erlaeuterung: carpophilus = fruchtliebend, an Fruchthüllen wachsend
-  familie: Inocybaceae
+  familie: Strophariaceae
 profil:
   aktualisiert: 2021-02-04
   autor_in: Dieter Gewalt
