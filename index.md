@@ -18,6 +18,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cantharellus_friesii_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+31.10.2023: In der Frankfurter Pilzberatung wird mir auch immer wieder der Samtige Pfifferling *Cantharellus friesii* vorgelegt. Kein Wunder: im Frankfurter Stadtwald ist unser aktueller [Fundkorbpilz](AA "Glossar-") ein durchaus häufiger, manchmal sogar in Massen vorkommender Pilz und daher bei uns auch als *„Stadtwaldpfifferling“* bekannt. Er ist eher orangefarben als gelb und hat stärker gewellte und elastischere Hutränder als der normale Pfifferling, schmeckt aber genau so gut. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cantharellus-friesii-samtiger-pfifferling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pleurocybella_porrigens_01_hs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,31 +48,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 29.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Grüngelbe Gallertkäppchen *Leotia lubrica*. Es gehört zu den [Ascomyzeten](Ascomyzeten "Glossar") und ist mit seiner fast schon gummiartigen Konsistenz und der ungewöhnlichen Form nahezu unverwechselbar. Fast immer sind mehrere Fruchtkörper büschelig an ihren Stielbasen miteinander verwachsen. Es gilt als giftverdächtig, soll Spuren von Gyromitrin enthalten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_rufus_01_hs.jpg" %}
-{% include abbildung_ende.html %}
-
-28.10.2023: Milchlinge sind wegen ihrer bei Verletzung austretenden Milch leicht zu identifizieren. Vor allem die vielen braunen Arten sind aber nicht leicht zu unterscheiden. Unter diesen hat unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rotbraune Milchling *Lactarius rufus*, mit seinem spitzen Buckel in der Hutmitte und seiner sehr scharfen Milch immerhin eine Merkmalskombination, die einen Hinweis gibt aber noch keine sichere Bestimmung bedeutet. Der Rotbraune Milchling ist eine Typusart saurer Fichten- und Kiefernwälder. Für die Küche ist er nur sehr bedingt verwendbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lactarius-rufus-rotbrauner-milchling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_zephirus_04_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-27.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rostige Helmling *Mycena zephirus*. Wenn er herdenweise Waldböden besiedelt, ist das ein Zeichen, dass die Herbstpilzsaison begonnen hat. Rostig ist er ganz überwiegend nicht. Die namensgebenden Rostflecken auf dem Hut erscheinen meist erst im Alter.\
-Unter den Helmlingen gibt es keine sammelwürdigen, aber ein paar wenige leicht giftige Arten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-zephirus-rostiger-helmling)
 
 <div style="clear:  both"></div>
 
