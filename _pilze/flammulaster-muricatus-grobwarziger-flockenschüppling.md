@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Flammulaster muricatus
   deutsch: Grobwarziger Flockenschüppling
   referenz: (Fr.) Watling 1967
-  familie: Inocybaceae
+  familie: Strophariaceae
   erlaeuterung: muricatus = stachelig
 profil:
   aktualisiert: 2021-02-04
