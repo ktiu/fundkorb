@@ -18,6 +18,18 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pholiota_lenta_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.11.2023: Ein aktueller [Fundkorbpilz](AA "Glossar-"), den man schonen sollte: der Tonblasse Schüppling *Pholiota lenta* leidet offenbar ganz besonders unter der klimabedingten Dürre der letzten fünf Jahre. Beim derzeitigen feuchtwarmen Wetter herrschen allerdings perfekte Bedingungen für Wachstum und für seine dicke schleimige Huthautbekleidung, die man nicht unbedingt berühren möchte. Darin schwimmen, wenn sie nicht weggeschwemmt wurden, weißliche Flöckchen. Für die Küche ist er nicht zu empfehlen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pholiota-lenta-tonblasser-schüppling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cantharellus_friesii_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 30.10.2023: Bei der gestrigen Pilzberatung im Frankfurter Gesundheitsamt bekam ich erstmals den Ohrförmigen Seitling *Pleurocybella porrigens* zu sehen, der natürlich zum aktuellen [Fundkorbpilz](AA "Glossar-") erklärt werden muss. Ein Pilzsammler hatte ihn aus dem Taunus mitgebracht. Er gilt als Doppelgänger der essbaren Austern- und Lungenseitlinge und sollte auf keinen Fall gegessen werden.  In Mitteleuropa hat er wohl noch keine Vergiftungen verursacht, in Japan dagegen ist er für mindestens 15 Todesfälle verantwortlich. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/pleurocybella-porrigens-ohrförmiger-seitling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leotia_lubrica_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.10.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Grüngelbe Gallertkäppchen *Leotia lubrica*. Es gehört zu den [Ascomyzeten](Ascomyzeten "Glossar") und ist mit seiner fast schon gummiartigen Konsistenz und der ungewöhnlichen Form nahezu unverwechselbar. Fast immer sind mehrere Fruchtkörper büschelig an ihren Stielbasen miteinander verwachsen. Es gilt als giftverdächtig, soll Spuren von Gyromitrin enthalten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)
 
 <div style="clear:  both"></div>
 
