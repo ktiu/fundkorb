@@ -3,7 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-31.10.2023: [Cantharellus friesii - Samtiger Pfifferling](/pilze/cantharellus-friesii-samtiger-pfifferling)  
+01.11.2023: [Pholiota lenta - Tonblasser Schüppling](<Pholiota lenta - Tonblasser Schüppling>)
+
+31.10.2023: [Cantharellus friesii - Samtiger Pfifferling](/pilze/cantharellus-friesii-samtiger-pfifferling)\
 30.10.2023: [Pleurocybella porrigens - Ohrförmiger Seitling](/pilze/pleurocybella-porrigens-ohrförmiger-seitling)\
 29.10.2023: [Leotia lubrica - Grüngelbes Gallertkäppchen](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)\
 28.10.2023: [Lactarius rufus - Rotbrauner Milchling](/pilze/lactarius-rufus-rotbrauner-milchling)\
