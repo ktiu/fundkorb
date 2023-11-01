@@ -24,6 +24,18 @@ Nächste Exkursion im Raum Frankfurt/Dietzenbach: 4. November 2023 10:00 Uhr\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/macrolepiota_konradii_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sternschuppige Riesenschirmling *Macrolepiota konradii*. Er ist viel kleiner als der Große Riesenschirmling, im Speisewert aber genau so gut. Nur dass man aus ihm eben nur kleinformatige Schnitzelchen braten kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pholiota_lenta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
