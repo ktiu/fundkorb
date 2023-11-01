@@ -7,6 +7,7 @@ beschreibung:
   familie: Entolomataceae
 profil:
   aktualisiert: 2023-10-31
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/entoloma_hebes_01_nk.jpg
