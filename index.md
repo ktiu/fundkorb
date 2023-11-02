@@ -24,6 +24,18 @@ Nächste Exkursion im Raum Frankfurt/Dietzenbach: 4. November 2023 10:00 Uhr\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gomphidius_roseus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.11.2023: Am Anglerteich Waldacker (Landkreis Offenbach) ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rosenrote Schmierling *Gomphidius roseus*, seit Jahrezehnten zuverlässig zu finden. Der hübsche kleine Pilz erfreut durch seine rosenrote Hutfarbe und seine attraktive Gestalt nicht nur das Auge, er ist auch essbar und schmackhaft. Dem Genuss in der Küche haben Natürschützer allerdings einen Riegel vorgeschoben. In Roten Listen ist er in Stufe 3 (im Bestand gefährdet) ausgewiesen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gomphidius-roseus-rosenroter-schmierling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/macrolepiota_konradii_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -42,30 +54,6 @@ Nächste Exkursion im Raum Frankfurt/Dietzenbach: 4. November 2023 10:00 Uhr\
 01.11.2023: Ein aktueller [Fundkorbpilz](AA "Glossar-"), den man schonen sollte: der Tonblasse Schüppling *Pholiota lenta* leidet offenbar ganz besonders unter der klimabedingten Dürre der letzten fünf Jahre. Beim derzeitigen feuchtwarmen Wetter herrschen allerdings perfekte Bedingungen für Wachstum und für seine dicke schleimige Huthautbekleidung, die man nicht unbedingt berühren möchte. Darin schwimmen, wenn sie nicht weggeschwemmt wurden, weißliche Flöckchen. Für die Küche ist er nicht zu empfehlen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/pholiota-lenta-tonblasser-schüppling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cantharellus_friesii_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-31.10.2023: In der Frankfurter Pilzberatung wird mir auch immer wieder der Samtige Pfifferling *Cantharellus friesii* vorgelegt. Kein Wunder: im Frankfurter Stadtwald ist unser aktueller [Fundkorbpilz](AA "Glossar-") ein durchaus häufiger, manchmal sogar in Massen vorkommender Pilz und daher bei uns auch als *„Stadtwaldpfifferling“* bekannt. Er ist eher orangefarben als gelb und hat stärker gewellte und elastischere Hutränder als der normale Pfifferling, schmeckt aber genau so gut. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cantharellus-friesii-samtiger-pfifferling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pleurocybella_porrigens_01_hs.jpg" %}
-{% include abbildung_ende.html %}
-
-30.10.2023: Bei der gestrigen Pilzberatung im Frankfurter Gesundheitsamt bekam ich erstmals den Ohrförmigen Seitling *Pleurocybella porrigens* zu sehen, der natürlich zum aktuellen [Fundkorbpilz](AA "Glossar-") erklärt werden muss. Ein Pilzsammler hatte ihn aus dem Taunus mitgebracht. Er gilt als Doppelgänger der essbaren Austern- und Lungenseitlinge und sollte auf keinen Fall gegessen werden.  In Mitteleuropa hat er wohl noch keine Vergiftungen verursacht, in Japan dagegen ist er für mindestens 15 Todesfälle verantwortlich. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pleurocybella-porrigens-ohrförmiger-seitling)
 
 <div style="clear:  both"></div>
 
