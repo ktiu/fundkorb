@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-02.11.2023: [Macrolepiota konradii - Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)  
+03.11.2023: [Gomphidius roseus - Rosenroter Schmierling](/pilze/gomphidius-roseus-rosenroter-schmierling)  
+02.11.2023: [Macrolepiota konradii - Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)\
 01.11.2023: [Pholiota lenta - Tonblasser Schüppling](<Pholiota lenta - Tonblasser Schüppling>)
 
 31.10.2023: [Cantharellus friesii - Samtiger Pfifferling](/pilze/cantharellus-friesii-samtiger-pfifferling)\
