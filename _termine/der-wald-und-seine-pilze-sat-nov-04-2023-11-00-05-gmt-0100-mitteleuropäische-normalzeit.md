@@ -11,3 +11,5 @@ Ein Wald ist mehr als nur eine großflächige Ansammlung von Bäumen. Er ist ein
 Wir werden im Raum Frankfurt/Dietzenbach unterwegs sein. Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung mitgeteilt.
 
 **Dieser Termin ist ausgebucht. Anmeldungen sind leider nicht mehr möglich.**
+
+Es wird weitere Termine geben. Behalten Sie www.fundkorb.de im Auge.
