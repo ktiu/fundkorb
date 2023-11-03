@@ -24,6 +24,18 @@ Nächste Exkursion im Raum Frankfurt/Dietzenbach: 4. November 2023 10:00 Uhr\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/suillus_bovinus_01_mg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.11.2023: Wo der [Rosenrote Schmierling](/pilze/gomphidius-roseus-rosenroter-schmierling) wächst, ist der Kuhröhrling *Suillus bovinus* nicht weit und meist in der Überzahl. Dieser [Fundkorbpilz](AA "Glossar-") ist, was seinen Geschmackswert betrifft, in der untersten Schublade einzuordnen. Beide Arten sind auf ganz besondere Weise miteinander verbunden. Der Schmierling parasitiert auf dem [Myzel](Myzel "Glossar") des Kuhröhrlings und ist daher wie dieser auf die Nähe von Kiefern angewiesen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/suillus-bovinus-kuhröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gomphidius_roseus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -42,18 +54,6 @@ Nächste Exkursion im Raum Frankfurt/Dietzenbach: 4. November 2023 10:00 Uhr\
 02.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sternschuppige Riesenschirmling *Macrolepiota konradii*. Er ist viel kleiner als der Große Riesenschirmling, im Speisewert aber genau so gut. Nur dass man aus ihm eben nur kleinformatige Schnitzelchen braten kann. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pholiota_lenta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.11.2023: Ein aktueller [Fundkorbpilz](AA "Glossar-"), den man schonen sollte: der Tonblasse Schüppling *Pholiota lenta* leidet offenbar ganz besonders unter der klimabedingten Dürre der letzten fünf Jahre. Beim derzeitigen feuchtwarmen Wetter herrschen allerdings perfekte Bedingungen für Wachstum und für seine dicke schleimige Huthautbekleidung, die man nicht unbedingt berühren möchte. Darin schwimmen, wenn sie nicht weggeschwemmt wurden, weißliche Flöckchen. Für die Küche ist er nicht zu empfehlen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pholiota-lenta-tonblasser-schüppling)
 
 <div style="clear:  both"></div>
 
