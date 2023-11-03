@@ -19,9 +19,7 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 
 Nächste Exkursion im Raum Frankfurt/Dietzenbach: 4. November 2023 10:00 Uhr\
 **Der Wald und seine Pilze**\
-[Hier geht's zur Anmeldung >](/termine)
-
-- - -
+[](/termine)Dieser Termin ist ausgebucht.
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/suillus_bovinus_01_mg.jpg" %}
