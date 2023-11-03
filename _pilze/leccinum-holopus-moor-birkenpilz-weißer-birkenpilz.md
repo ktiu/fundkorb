@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Moor-Birkenpilz, Weißer Birkenpilz
   referenz: (Rostk.) Watling 1960
   synonym: "Synonyme: Leccinum nucatum, L. aerugineum, u. a."
-  erlaeuterung: "Synonyme: Leccinum nucatum, L. aerugineum, u. a."
+  erlaeuterung: holopus = hochstielig
   familie: Boletaceae
 profil:
   aktualisiert: 2023-11-03
