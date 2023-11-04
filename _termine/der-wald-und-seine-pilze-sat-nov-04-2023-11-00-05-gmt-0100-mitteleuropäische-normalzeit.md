@@ -10,19 +10,19 @@ Ein Wald ist mehr als nur eine großflächige Ansammlung von Bäumen. Er ist ein
 
 Wir werden im Raum Frankfurt/Dietzenbach unterwegs sein. Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung mitgeteilt.
 
-**Kleine Auswahl an Pilzarten, die wir bei unserer Exkursion gefunden und ausführlich besprochen haben:**
-[Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)
+**Kleine Auswahl an Pilzarten, die wir bei unserer Exkursion gefunden und ausführlich besprochen haben:**\
+[Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)\
 [Gelber Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz)
-[Nebelkappe](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)
-[Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)
-[Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)
-[Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)
+[Nebelkappe](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)\
+[Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)\
+[Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)\
+[Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)\
 [Goldblatt](/pilze/phylloporus-pelletieri-goldblatt)
-[Echter Pfifferling](/pilze/cantharellus-cibarius-pfifferling)
-Falscher Pfifferling
-Trompetenpfifferling
-Violetter Lacktrichterling
-Flaschenbovist
-Birnenstäubling
-Birkenporling
-Tintenfischpilz
+[Echter Pfifferling](/pilze/cantharellus-cibarius-pfifferling)\
+[Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)\
+[Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)  
+[Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)\
+[Flaschenbovist](/pilze/lycoperdon-pyriforme-birnenstäubling)\
+[Birnenstäubling](/pilze/lycoperdon-pyriforme-birnenstäubling)\
+[Birkenporling](/pilze/piptoporus-betulinus-birkenporling)\
+[Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)
