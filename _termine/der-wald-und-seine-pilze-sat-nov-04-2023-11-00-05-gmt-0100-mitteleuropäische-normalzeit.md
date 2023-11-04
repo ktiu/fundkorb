@@ -10,6 +10,19 @@ Ein Wald ist mehr als nur eine großflächige Ansammlung von Bäumen. Er ist ein
 
 Wir werden im Raum Frankfurt/Dietzenbach unterwegs sein. Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung mitgeteilt.
 
-**Dieser Termin ist ausgebucht. Anmeldungen sind leider nicht mehr möglich.**
-
-Es wird weitere Termine geben. Behalten Sie www.fundkorb.de im Auge.
+**Kleine Auswahl an Pilzarten, die wir bei unserer Exkursion gefunden und ausführlich besprochen haben:**
+[Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)
+[Gelber Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz)
+[Nebelkappe](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)
+[Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)
+[Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)
+[Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)
+[Goldblatt](/pilze/phylloporus-pelletieri-goldblatt)
+[Echter Pfifferling](/pilze/cantharellus-cibarius-pfifferling)
+Falscher Pfifferling
+Trompetenpfifferling
+Violetter Lacktrichterling
+Flaschenbovist
+Birnenstäubling
+Birkenporling
+Tintenfischpilz
