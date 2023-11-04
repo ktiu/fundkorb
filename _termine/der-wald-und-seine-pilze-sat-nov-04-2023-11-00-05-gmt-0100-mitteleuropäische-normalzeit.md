@@ -12,7 +12,7 @@ Wir werden im Raum Frankfurt/Dietzenbach unterwegs sein. Die Teilnahmegebühr be
 
 **Kleine Auswahl an Pilzarten, die wir bei unserer Exkursion gefunden und ausführlich besprochen haben:**\
 [Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)\
-[Gelber Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz)\
+[Gelber Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz)\  
 [Nebelkappe](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)\
 [Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)\
 [Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)\
@@ -20,7 +20,7 @@ Wir werden im Raum Frankfurt/Dietzenbach unterwegs sein. Die Teilnahmegebühr be
 [Goldblatt](/pilze/phylloporus-pelletieri-goldblatt)
 [Echter Pfifferling](/pilze/cantharellus-cibarius-pfifferling)\
 [Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)\
-[Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)  
+[Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)\
 [Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)\
 [Flaschenbovist](/pilze/lycoperdon-pyriforme-birnenstäubling)\
 [Birnenstäubling](/pilze/lycoperdon-pyriforme-birnenstäubling)\
