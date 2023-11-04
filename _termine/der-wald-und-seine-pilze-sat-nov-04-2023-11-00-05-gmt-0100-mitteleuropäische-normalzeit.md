@@ -12,7 +12,7 @@ Wir werden im Raum Frankfurt/Dietzenbach unterwegs sein. Die Teilnahmegebühr be
 
 **Kleine Auswahl an Pilzarten, die wir bei unserer Exkursion gefunden und ausführlich besprochen haben:**\
 [Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)\
-[Gelber Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz)
+[Gelber Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz)\
 [Nebelkappe](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)\
 [Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)\
 [Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)\
