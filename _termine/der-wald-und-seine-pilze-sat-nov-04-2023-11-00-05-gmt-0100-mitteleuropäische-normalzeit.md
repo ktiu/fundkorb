@@ -17,7 +17,7 @@ Wir werden im Raum Frankfurt/Dietzenbach unterwegs sein. Die Teilnahmegebühr be
 [Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)\
 [Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)\
 [Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)\
-[Goldblatt](/pilze/phylloporus-pelletieri-goldblatt)
+[Goldblatt](/pilze/phylloporus-pelletieri-goldblatt)\  
 [Echter Pfifferling](/pilze/cantharellus-cibarius-pfifferling)\
 [Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)\
 [Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)\
