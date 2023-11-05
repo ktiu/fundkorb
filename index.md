@@ -23,6 +23,18 @@ Auswahl gefundener und ausführlich besprochener [Pilzarten >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitocybe_nebularis_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+05.11.2023: Als typischer Spätherbstpilz ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der  Nebelgraue Trichterling *Clitocybe nebularis*, kurz Nebelkappe genannt, an manchen Waldwegrändern bereits erschienen. Seine Zahl wird nun weiter zunehmen. Schade, dass er trotz seines durchaus sympathischen Aussehens nichts in der Küche verloren hat. Er schmeckt nicht nur unangenehm sondern ist wegen mutagener und Magen-Darmbeschwerden verursachender Inhaltsstoffe auch als Giftpilz ausgewiesen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/suillus_bovinus_01_mg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -41,18 +53,6 @@ Auswahl gefundener und ausführlich besprochener [Pilzarten >](/termine)
 03.11.2023: Am Anglerteich Waldacker (Landkreis Offenbach) ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rosenrote Schmierling *Gomphidius roseus*, seit Jahrezehnten zuverlässig zu finden. Der hübsche kleine Pilz erfreut durch seine rosenrote Hutfarbe und seine attraktive Gestalt nicht nur das Auge, er ist auch essbar und schmackhaft. Dem Genuss in der Küche haben Natürschützer allerdings einen Riegel vorgeschoben. In Roten Listen ist er in Stufe 3 (im Bestand gefährdet) ausgewiesen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gomphidius-roseus-rosenroter-schmierling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/macrolepiota_konradii_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sternschuppige Riesenschirmling *Macrolepiota konradii*. Er ist viel kleiner als der Große Riesenschirmling, im Speisewert aber genau so gut. Nur dass man aus ihm eben nur kleinformatige Schnitzelchen braten kann. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)
 
 <div style="clear:  both"></div>
 
