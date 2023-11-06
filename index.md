@@ -17,15 +17,27 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 
 - - -
 
-Unsere Exkursion **Der Wald und seine Pilze** am 4. November 2023:  
-Auswahl gefundener und ausführlich besprochener [Pilzarten >](/termine)\  
+Unsere Exkursion **Der Wald und seine Pilze** am 4. November 2023:\
+Auswahl gefundener und ausführlich besprochener [Pilzarten >](/termine)\\
 **RTL war auch dabei!** Die Begleitdoku ist am Montag, 6. November in der Sendung RTL Hessen um 18:00 Uhr zu sehen.
 
 - - -
 
-Neuer Exkursionstermin **Saison der Spätherbstpilze**  
-Samstag, 11. November 2023, 10:00 Uhr  
+Neuer Exkursionstermin **Saison der Spätherbstpilze**\
+Samstag, 11. November 2023, 10:00 Uhr\
 [Zur Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_caerulea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der *Buckeltäubling Russula caerulea*. Er gehört zu der sehr überschaubaren Anzahl von Täublingen, die unterwegs im Wald einigermaßen sicher erkannt werden können. Seine Kennzeichen sind der Buckel in der Hutmitte in Verbindung mit der violett- bis purpurbraunen oder weinroten, glänzenden Huthaut, die sich maximal bis zur Hälfte abziehen lässt, und die jung blass gelblichen, später dottergelben Lamellen. Er ist eine Charakterart sandiger Kiefernwälder und hier oft massenhaft anzutreffen. Entgegen mancher Literaturangaben ist er ein guter und empfehlenswerter Speisepilz. (Dieter Gewalt)
+
+[ Mehr lesen >](/pilze/russula-caerulea-buckeltäubling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -50,32 +62,6 @@ Samstag, 11. November 2023, 10:00 Uhr
 [Mehr lesen >](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/suillus_bovinus_01_mg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.11.2023: Wo der [Rosenrote Schmierling](/pilze/gomphidius-roseus-rosenroter-schmierling) wächst, ist der Kuhröhrling *Suillus bovinus* nicht weit und meist in der Überzahl. Dieser [Fundkorbpilz](AA "Glossar-") ist, was seinen Geschmackswert betrifft, in der untersten Schublade einzuordnen. Beide Arten sind auf ganz besondere Weise miteinander verbunden. Der Schmierling parasitiert auf dem [Myzel](Myzel "Glossar") des Kuhröhrlings und ist daher wie dieser auf die Nähe von Kiefern angewiesen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/suillus-bovinus-kuhröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gomphidius_roseus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.11.2023: Am Anglerteich Waldacker (Landkreis Offenbach) ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rosenrote Schmierling *Gomphidius roseus*, seit Jahrezehnten zuverlässig zu finden. Der hübsche kleine Pilz erfreut durch seine rosenrote Hutfarbe und seine attraktive Gestalt nicht nur das Auge, er ist auch essbar und schmackhaft. Dem Genuss in der Küche haben Natürschützer allerdings einen Riegel vorgeschoben. In Roten Listen ist er in Stufe 3 (im Bestand gefährdet) ausgewiesen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gomphidius-roseus-rosenroter-schmierling)
-
-<div style="clear:  both"></div>
-
-- - -
 
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
 
