@@ -18,8 +18,20 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 Unsere Exkursion **Der Wald und seine Pilze** am 4. November 2023:\
-Auswahl gefundener und ausführlich besprochener [Pilzarten >](/termine)  
+Auswahl gefundener und ausführlich besprochener [Pilzarten >](/termine)\
 **RTL war auch dabei!** Die Begleitdoku ist am Montag, 6. November in der Sendung RTL Hessen um 18:00 Uhr zu sehen.
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leccinum_versipelle_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+06.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Birkenrotkappe *Leccinum versipelle*. Eine Rotkappe, in deren Nähe ausschließlich Birken stehen, ist unverwechselbar. Kommen aber auch andere Begleitbäume in Frage wird es schon schwieriger. Da alle Rotkappen ausgezeichnete Speisepilze sind, hätte eine Verwechslung keine unangenehmen Folgen. Sie sind aber ausnahmslos als Rote-Liste-Arten geschützt und dürfen nicht gesammelt werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)
+
+<div style="clear:  both"></div>
 
 - - -
 
