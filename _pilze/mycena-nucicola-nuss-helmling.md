@@ -23,7 +23,7 @@ Bei den Helmlingen kommt man, da der Pilz so etwas wie ein Basalscheibchen besit
 
 > 7. Auf Haselnüssen, meist einzeln, Hut bis 2 mm, weiß, stumpfkegelig oder halbkugelig, Siel 1 - 2,2 mm lang, 0,1 - 0,2 mm dick, mit kleinem Basalscheibchen, bereift. Sporen 7 - 9 x 4 - 5 µm, Cheilo- und Caulozystiden blasenförmig, körnig-bürstig = **M. nucicola** Huijsm. 
 
-Der Versuch, im Intenet den Nuss-Helmling mit dem Suchbegriff *"Pilz auf Haselnuss"* zu finden, führte zu keinem Ergebnis. Im Angebot der Bilder findet man alles Mögliche nur keinen Nuss-Helmling (zum Beispiel Schirmpilze, einen Nussknacker-Pilz, ein süßes Eichhörnchen, eine Herbst-Deko und sogar vegane Saucen).
+Der Versuch, im Intenet den Nuss-Helmling mit dem Suchbegriff *"Pilz auf Haselnuss"* zu finden, führte zu keinem Ergebnis. Im Angebot der Bilder findet man alles Mögliche nur keinen Nuss-Helmling (zum Beispiel Schirmpilze, einen Nussknacker-Pilz, ein süßes Eichhörnchen, eine Herbst-Deko und sogar vegane Saucen - abgerufen am 15.02.2023).
 
 Etwas Brauchbares förderte die Internet-Recherche dennoch zu Tage. Haselnüsse können auch vom Fruchtfäulepilz *Molinia coryli* befallen werden. Die Infektion erfolgt im Frühsommer bei feuchter Witterung und verursacht an jungen, noch grünen Früchten braune Beläge oder Flecken. Die Nüsse reifen nicht mehr aus und vertrocknen.
 
