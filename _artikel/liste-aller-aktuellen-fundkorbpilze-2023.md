@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-06.11.2023: [Leccinum versipelle - Birkenrotkappe, Heiderotkappe](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)  
+07.11.2023: [Russula caerulea - Buckeltäubling](/pilze/russula-caerulea-buckeltäubling)  
+06.11.2023: [Leccinum versipelle - Birkenrotkappe, Heiderotkappe](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)\
 05.11.2023: [Clitocybe nebularis - Nebelgrauer Trichterling, Nebelkappe](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)\
 04.11.2023: [Suillus bovinus - Kuhröhrling](/pilze/suillus-bovinus-kuhröhrling)\
 03.11.2023: [Gomphidius roseus - Rosenroter Schmierling](/pilze/gomphidius-roseus-rosenroter-schmierling)\
