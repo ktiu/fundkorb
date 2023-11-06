@@ -17,9 +17,15 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 
 - - -
 
-Unsere Exkursion **Der Wald und seine Pilze** am 4. November 2023:\
-Auswahl gefundener und ausführlich besprochener [Pilzarten >](/termine)\
+Unsere Exkursion **Der Wald und seine Pilze** am 4. November 2023:  
+Auswahl gefundener und ausführlich besprochener [Pilzarten >](/termine)\  
 **RTL war auch dabei!** Die Begleitdoku ist am Montag, 6. November in der Sendung RTL Hessen um 18:00 Uhr zu sehen.
+
+- - -
+
+Neuer Exkursionstermin **Saison der Spätherbstpilze**  
+Samstag, 11. November 2023, 10:00 Uhr  
+[Zur Anmeldung >](/termine)
 
 - - -
 
