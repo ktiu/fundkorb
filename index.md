@@ -23,9 +23,9 @@ Auswahl gefundener und ausführlich besprochener [Pilzarten >](/termine)\
 
 - - -
 
-Neuer Exkursionstermin **Saison der Spätherbstpilze**\
+Neuer Exkursionstermin: **Saison der Spätherbstpilze**\
 Samstag, 11. November 2023, 10:00 Uhr\
-[Zur Anmeldung >](/termine)
+**Dieser Termin ist ausgebucht**
 
 - - -
 
