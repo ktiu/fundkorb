@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Leccinum scabrum
-  deutsch: Birken-Raufuß, Birkenpilz
+  deutsch: Birken-Raufuß, Gemeiner Birkenpilz
   referenz: (Bull.) Gray 1821
   familie: Boletaceae
   erlaeuterung: scabrum = rau
