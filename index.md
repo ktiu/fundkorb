@@ -18,14 +18,26 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 - - -
 
 Unsere Exkursion **Der Wald und seine Pilze** am 4. November 2023:\
-Auswahl gefundener und ausführlich besprochener [Pilzarten >](/termine)\\
-**RTL war auch dabei!** Die Begleitdoku ist am Montag, 6. November in der Sendung RTL Hessen um 18:00 Uhr zu sehen.
+Auswahl gefundener und ausführlich besprochener [Pilzarten >](/termine)\
+**RTL war auch dabei!** Die Begleitdoku war am Montag, 6. November in der Sendung RTL Hessen um 18:00 Uhr zu sehen.
 
 - - -
 
 Neuer Exkursionstermin **Saison der Spätherbstpilze**\
 Samstag, 11. November 2023, 10:00 Uhr\
 [Zur Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phylloporus_pelletieri_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das *Goldblatt Phylloporus pelletieri*. Betrachtet man diesen Pilz von oben, denkt man an einen der braunhütigen Filzröhrlinge. Dreht man ihn um, sieht man goldgelbe Lamellen. Also Irrtum! Muss ein Blätterpilz sein. Wieder Irrtum! Ist doch ein Röhrling, trotz der Lamellen. Und zwar ein essbarar. Ist aber wegen Seltenheit eine geschützte Art. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phylloporus-pelletieri-goldblatt)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -48,18 +60,6 @@ Samstag, 11. November 2023, 10:00 Uhr\
 06.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Birkenrotkappe *Leccinum versipelle*. Eine Rotkappe, in deren Nähe ausschließlich Birken stehen, ist unverwechselbar. Kommen aber auch andere Begleitbäume in Frage wird es schon schwieriger. Da alle Rotkappen ausgezeichnete Speisepilze sind, hätte eine Verwechslung keine unangenehmen Folgen. Sie sind aber ausnahmslos als Rote-Liste-Arten geschützt und dürfen nicht gesammelt werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_nebularis_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-05.11.2023: Als typischer Spätherbstpilz ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der  Nebelgraue Trichterling *Clitocybe nebularis*, kurz Nebelkappe genannt, an manchen Waldwegrändern bereits erschienen. Seine Zahl wird nun weiter zunehmen. Schade, dass er trotz seines durchaus sympathischen Aussehens nichts in der Küche verloren hat. Er schmeckt nicht nur unangenehm sondern ist wegen mutagener und Magen-Darmbeschwerden verursachender Inhaltsstoffe auch als Giftpilz ausgewiesen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)
 
 <div style="clear:  both"></div>
 
