@@ -30,13 +30,13 @@ Für den Gemeinen Birken-Raufuß gilt:\
 **Verfärbung des Fleisches:** nicht oder nur schwach und langsam rosarötlich\
 **Vorkommen** bei Birken
 
-Sehr ähnlich und oft schwer zu unterscheiden sind 7 nah verwandte Raufußröhrlinge, die alle ebenfalls ausschließlich bei Birken wachsen und essbar sind:
-**Leccinum cyaneobasileucum** = Wollstieliger Raustielröhrling: 
-[**Leccinum holopus** = Weißer Birkenpilz, Moor-Birkenpilz](/pilze/leccinum-holopus-moor-birkenpilz-weißer-birkenpilz): Huthaut weiß, Stiel einschließlich Flöckchen weißlich 
-**Leccinum melaneum** = Schwarzhütiger Birkenpilz: Huthaut schwarzbraun bis grauschwarz, Stielschuppung deutlich kräftiger und nahezu schwarz
-**Leccinum roseofractum** = Zigarrenbrauner Birkenpilz
-**Leccinum rotundifoliae** = Zwergbuchen-Birkenpilz
-**Leccinum schistophilum** = Schiefer-Birkenpilz
+Sehr ähnlich und oft schwer zu unterscheiden sind 7 nah verwandte Raufußröhrlinge, die alle ebenfalls ausschließlich bei Birken wachsen und essbar sind:  
+**Leccinum cyaneobasileucum** = Wollstieliger Raustielröhrling  
+[**Leccinum holopus** = Weißer Birkenpilz, Moor-Birkenpilz](/pilze/leccinum-holopus-moor-birkenpilz-weißer-birkenpilz): Huthaut weiß, Stiel einschließlich Flöckchen weißlich  
+**Leccinum melaneum** = Schwarzhütiger Birkenpilz: Huthaut schwarzbraun bis grauschwarz, Stielschuppung deutlich kräftiger und nahezu schwarz  
+**Leccinum roseofractum** = Zigarrenbrauner Birkenpilz  
+**Leccinum rotundifoliae** = Zwergbuchen-Birkenpilz  
+**Leccinum schistophilum** = Schiefer-Birkenpilz  
 [**Leccinum variicolor** = Vielverfärbender Birkenpilz](/pilze/leccinum-variicolor-vielverfärbender-birkenpilz)
 
 Verwechseln könnte man den Birken-Raufuß auch mit dem [Hainbuchen-Raufuß *Leccinum pseudoscabrum*](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß) oder dem seltenen [Vielverfärbenden Birkenpilz *Leccinum variicolor*](/pilze/leccinum-variicolor-vielverfärbender-birkenpilz). Alle Raustiel-Röhrlinge sind in Deutschland geschützt und dürfen nur in geringen Mengen gesammelt werden. Für den häufigen Gemeinen Birkenpilz erscheint diese Einstufung nicht nachvollziehbar, für alle anderen Arten der Gattung durchaus berechtigt.
