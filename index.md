@@ -22,7 +22,15 @@ Samstag, 11. November 2023, 10:00 Uhr **Dieser Termin ist ausgebucht**
 
 - - -
 
-09.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mennigfarbige Borstling Melastiza chateri. Bei einer spontanen Begehung einer Wiese auf dem Uni Campus Riedberg in Frankfurt sind mir kleine rot-orangefarbene knopfartige Pilze aufgefallen. Bei genaueren Hinschauen war die ganze Fläche vor mir mit diesen leuchtenden Tupfern besetzt, die ich später als Mennigfarbige Borstlinge bestimmen konnte. (Adam Adamovicz) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/melastiza_chateri_02_aa.jpg" %}
+{% include abbildung_ende.html %}
+
+09.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mennigfarbige Borstling *Melastiza chateri*. Bei einer spontanen Begehung einer Wiese auf dem Uni Campus Riedberg in Frankfurt sind mir kleine rot-orangefarbene knopfartige Pilze aufgefallen. Bei genaueren Hinschauen war die ganze Fläche vor mir mit diesen leuchtenden Tupfern besetzt, die ich später als Mennigfarbige Borstlinge bestimmen konnte. (Adam Adamovicz)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
 
 - - -
 
