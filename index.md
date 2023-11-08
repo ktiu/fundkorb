@@ -17,14 +17,12 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 
 - - -
 
-Unsere Exkursion **Der Wald und seine Pilze** am 4. November 2023:\
-Auswahl gefundener und ausführlich besprochener [Pilzarten >](/termine)\
-**RTL war auch dabei!** Die Begleitdoku war am Montag, 6. November in der Sendung RTL Hessen um 18:00 Uhr zu sehen.
+Neuer Exkursionstermin: **Saison der Spätherbstpilze**\
+Samstag, 11. November 2023, 10:00 Uhr **Dieser Termin ist ausgebucht**
 
 - - -
 
-Neuer Exkursionstermin: **Saison der Spätherbstpilze**\
-Samstag, 11. November 2023, 10:00 Uhr **Dieser Termin ist ausgebucht**
+09.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mennigfarbige Borstling Melastiza chateri. Bei einer spontanen Begehung einer Wiese auf dem Uni Campus Riedberg in Frankfurt sind mir kleine rot-orangefarbene knopfartige Pilze aufgefallen. Bei genaueren Hinschauen war die ganze Fläche vor mir mit diesen leuchtenden Tupfern besetzt, die ich später als Mennigfarbige Borstlinge bestimmen konnte. (Adam Adamovicz) Mehr lesen > <div style="clear:  both"></div>
 
 - - -
 
@@ -51,16 +49,6 @@ Samstag, 11. November 2023, 10:00 Uhr **Dieser Termin ist ausgebucht**
 <div style="clear:  both"></div>
 
 - - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leccinum_versipelle_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-06.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Birkenrotkappe *Leccinum versipelle*. Eine Rotkappe, in deren Nähe ausschließlich Birken stehen, ist unverwechselbar. Kommen aber auch andere Begleitbäume in Frage wird es schon schwieriger. Da alle Rotkappen ausgezeichnete Speisepilze sind, hätte eine Verwechslung keine unangenehmen Folgen. Sie sind aber ausnahmslos als Rote-Liste-Arten geschützt und dürfen nicht gesammelt werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)
-
-<div style="clear:  both"></div>
 
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
 
