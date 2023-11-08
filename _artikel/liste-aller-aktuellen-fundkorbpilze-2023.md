@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-08.11.2023: [Phylloporus pelletieri - Goldblatt](/pilze/phylloporus-pelletieri-goldblatt)  
+09.11.2023: [Melastiza chateri - Mennigfarbiger Borstling](/pilze/melastiza-chateri-mennigfarbiger-borstling)  
+08.11.2023: [Phylloporus pelletieri - Goldblatt](/pilze/phylloporus-pelletieri-goldblatt)\
 07.11.2023: [Russula caerulea - Buckeltäubling](/pilze/russula-caerulea-buckeltäubling)\
 06.11.2023: [Leccinum versipelle - Birkenrotkappe, Heiderotkappe](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)\
 05.11.2023: [Clitocybe nebularis - Nebelgrauer Trichterling, Nebelkappe](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)\
