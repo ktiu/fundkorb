@@ -17,8 +17,12 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 
 - - -
 
-Neuer Exkursionstermin: **Saison der Spätherbstpilze**\
-Samstag, 11. November 2023, 10:00 Uhr **Dieser Termin ist ausgebucht**
+Neue Exkursionstermine: 
+
+Samstag, 11. November 2023, 10:00 Uhr: **Saison der Spätherbstpilze** - 
+ Dieser Termin ist ausgebucht
+
+Sonntag, 12. November 2023, 10:00 Uhr: **Herbstpilze im südlichen Vogelsberg** - Hier geht's zur [Anmeldung >](/termine)
 
 - - -
 
