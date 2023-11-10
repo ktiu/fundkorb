@@ -34,7 +34,7 @@ Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger*
 
 11.11.2023: Es ist mir jedes Mal eine Freude, den Büscheligen Faserling *Psathyrella multipedata* zu finden. Diesmal wuchs unser aktueller [Fundkorbpilz](AA "Glossar-") am Waldrand von Dietzenbach-Steinbach auf einem Grasstreifen. Für erfahrene Pilzfreunde, die mit ihm vertraut sind, ist es eine leicht wiedererkennbare Art. Kaum eine andere bildet so schöne vielhütige Büschel, die man fast schon mit Blumensträußen vergleichen könnte. Allerdings nur, solange sie jung und nicht schon schwarz verfärbend sind. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/psathyrella-multipedata-büscheliger-faserling)
 
 <div style="clear:  both"></div>
 
