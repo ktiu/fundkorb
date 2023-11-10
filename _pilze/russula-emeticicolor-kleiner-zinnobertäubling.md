@@ -78,7 +78,7 @@ Die Sporen sind breitellipsoid, derbstachelig mit stumpfen, bis 1 µm hohen und 
 {% include bild.html datei="/bilder/russula_emeticicolor_05_bm.jpg" %}
 {% include abbildung_ende.html legende="Sporen" %}
 
-Die Epikutis (oberste Schicht der Huthaut) besteht aus Epikutishaaren und inkrustierten Primordialhyphen. Die Epikutishaare sind 2,5 - 3 µm breit, gleichdick,  schlank zylindrisch, die Terminalglied sind 20-25 µm lang, apikal einfach abgerundet, nicht keulig, mit einzelnen einfachen Verzweigungen.
+Die Epikutis (oberste Schicht der Huthaut) besteht aus Epikutishaaren und inkrustierten Primordialhyphen. Die Epikutishaare sind 2,5 - 3 µm breit, gleichdick,  schlank zylindrisch, die Terminalglied sind 20 - 25 µm lang, apikal einfach abgerundet, nicht keulig, mit einzelnen einfachen Verzweigungen.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_emeticicolor_06_bm.jpg" %}
