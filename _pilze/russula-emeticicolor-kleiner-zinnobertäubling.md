@@ -91,7 +91,7 @@ Wegen der negativen SV-Reaktion am frischen Fruchtkörper, der groben, isolierte
 Nach SARNARI 2005 kommen bei R. emeticicolor auch Exemplare mit stark ausgeblasster oder sogar gelber Hutfarbe vor.\
 Gemäß Felix Hampe (persönliche Mitteilung) ist die Sulvovanillin-Reaktion nur am frischen Fruchtkörper relevant. Dass also beim hier beschriebenen Fund das Exsikkat rotviolett reagiert, ist für die Bestimmung unwichtig.
 
-**Ähnliche, kleine, mildschmeckende Täublinge mit weißen Lamellen und weißem Stiel:**\
+**Ähnliche, kleine, mildschmeckende Täublinge mit rotem Hut, weißen Lamellen und weißem Stiel:**\
 Der **Kleine Rosatäubling** *Russula minutula* besitzt am frischen Fruchtkörper eine rote SV-Reaktion. Auch sind die Sporen verbunden niederwarzig.\
 Der **Fleischrosa Täubling** *Russula roseoaurantia* (Synonym: *Russula incarnata*) besitzt niederwarzig teilnetzige Sporen, und die Epikutishaare sind dicker und kurzgliedrig.\
 Der **Rubinrote Täubling** *Russula zvarae* hat immer einen irgendwo rötlichen Stiel, und die Epikutishaare sind voluminös und kurzgliedrig.\
