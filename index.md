@@ -27,6 +27,18 @@ Sonntag, 12. November 2023, 10:00 Uhr: **Herbstpilze im südlichen Vogelsberg** 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/psathyrella_multipedata_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.11.2023: Es ist mir jedes Mal eine Freude, den Büscheligen Faserling *Psathyrella multipedata* zu finden. Diesmal wuchs unser aktueller [Fundkorbpilz](AA "Glossar-") am Waldrand von Dietzenbach-Steinbach auf einem Grasstreifen. Für erfahrene Pilzfreunde, die mit ihm vertraut sind, ist es eine leicht wiedererkennbare Art. Kaum eine andere bildet so schöne vielhütige Büschel, die man fast schon mit Blumensträußen vergleichen könnte. Allerdings nur, solange sie jung und nicht schon schwarz verfärbend sind. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_stylobates_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -45,18 +57,6 @@ Sonntag, 12. November 2023, 10:00 Uhr: **Herbstpilze im südlichen Vogelsberg** 
 09.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mennigfarbige Borstling *Melastiza chateri*. Bei einer spontanen Begehung einer Wiese auf dem Uni Campus Riedberg in Frankfurt sind mir kleine rot-orangefarbene knopfartige Pilze aufgefallen. Bei genaueren Hinschauen waren auch moosige Stellen und blanke Erde mit diesen leuchtenden Tupfern besetzt, die ich später problemlos als Mennigfarbige Borstlinge bestimmen konnte. (Adam Adamovicz)
 
 [Mehr lesen >](/pilze/melastiza-chateri-mennigfarbiger-borstling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phylloporus_pelletieri_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das *Goldblatt Phylloporus pelletieri*. Betrachtet man diesen Pilz von oben, denkt man an einen der braunhütigen Filzröhrlinge. Dreht man ihn um, sieht man goldgelbe Lamellen. Also Irrtum! Muss ein Blätterpilz sein. Wieder Irrtum! Ist doch ein Röhrling, trotz der Lamellen. Und zwar ein essbarar. Ist aber wegen Seltenheit eine geschützte Art. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phylloporus-pelletieri-goldblatt)
 
 <div style="clear:  both"></div>
 
