@@ -24,6 +24,8 @@ Samstag, 11. November 2023, 10:00 Uhr: **Saison der Spätherbstpilze** -
 
 Sonntag, 12. November 2023, 10:00 Uhr: **Herbstpilze im südlichen Vogelsberg** - Hier geht's zur [Anmeldung >](/termine)
 
+Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger** - [Zur Anmeldung >](/termine)
+
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
