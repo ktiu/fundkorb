@@ -2,7 +2,7 @@
 aktivitaet: Herbstpilze im südlichen Vogelsberg
 zeit: 2023-11-12T10:00:40.177Z
 bis: ""
-anmeldung_offen: true
+anmeldung_offen: false
 anmeldung_noetig: false
 published: true
 ---
