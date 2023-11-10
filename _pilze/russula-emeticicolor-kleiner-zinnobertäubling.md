@@ -74,7 +74,7 @@ mit Sulvovanillin am Frischpilz negativ, auf den Lamellen des Exsikkats dagegen 
 **Mikroskopische Merkmale:**\
 Die Sporen sind breitellipsoid, derbstachelig mit stumpfen, bis 1 µm hohen und an der Basis bis 1 µm breiten, im wesentlichen isolierten Stacheln. Nach SARNARI 2005 mit den Maßen: 6,5 - 8,4 x 5,5 - 6,6 µm.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/russula_emeticicolor_05_bm.jpg" %}
 {% include abbildung_ende.html legende="Sporen" %}
 
