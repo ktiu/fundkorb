@@ -27,6 +27,18 @@ Sonntag, 12. November 2023, 10:00 Uhr: **Herbstpilze im südlichen Vogelsberg** 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_stylobates_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+10.11.2023: Unter den kleinen weißlichen Helmlingen gibt es einige, die durch ein besonderes Merkmal auffallen: ein wenige Millimeter großes Basalscheibchen am Stielgrund. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Postament-Helmling *Mycena stylobates*. Da er keine besonderen Ansprüche an Waldtyp oder Bodenbeschaffenheit stellt und in Europa weit verbreitet und recht häufig ist, kann er von Pilzfreunden bei feuchter Witterung und gezielter Suche leicht gefunden werden. Seine Substrate sind vor allem angemoderte Laubblätter, aber auch Nadelstreu, Ästchen und Zweige, Pflanzen- und Holzreste. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-stylobates-postament-helmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/melastiza_chateri_02_aa.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,18 +57,6 @@ Sonntag, 12. November 2023, 10:00 Uhr: **Herbstpilze im südlichen Vogelsberg** 
 08.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das *Goldblatt Phylloporus pelletieri*. Betrachtet man diesen Pilz von oben, denkt man an einen der braunhütigen Filzröhrlinge. Dreht man ihn um, sieht man goldgelbe Lamellen. Also Irrtum! Muss ein Blätterpilz sein. Wieder Irrtum! Ist doch ein Röhrling, trotz der Lamellen. Und zwar ein essbarar. Ist aber wegen Seltenheit eine geschützte Art. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phylloporus-pelletieri-goldblatt)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_caerulea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der *Buckeltäubling Russula caerulea*. Er gehört zu der sehr überschaubaren Anzahl von Täublingen, die unterwegs im Wald einigermaßen sicher erkannt werden können. Seine Kennzeichen sind der Buckel in der Hutmitte in Verbindung mit der violett- bis purpurbraunen oder weinroten, glänzenden Huthaut, die sich maximal bis zur Hälfte abziehen lässt, und die jung blass gelblichen, später dottergelben Lamellen. Er ist eine Charakterart sandiger Kiefernwälder und hier oft massenhaft anzutreffen. Entgegen mancher Literaturangaben ist er ein guter und empfehlenswerter Speisepilz. (Dieter Gewalt)
-
-[ Mehr lesen >](/pilze/russula-caerulea-buckeltäubling)
 
 <div style="clear:  both"></div>
 
