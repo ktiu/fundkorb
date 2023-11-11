@@ -43,7 +43,7 @@ Der Hut wird maximal 5 cm breit, ist meist blutrot mit dunklerer Mitte, trocken,
 {% include bild.html datei="/bilder/russula_emeticicolor_04_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-Die Lamellen sind rein weiß, dünn, breit, etwas entfernt stehend, am Grunde anastomisierend. Die Schneiden sind glatt und mit den Flächen gleichgarben. Der Stiel ist relativ kurz, zylindrisch, rein weiß, die Oberfläche (wie bei Russula velutipes) bepudert. Innen ist er wattig ausgestopft. Das Fleisch ist weich, brüchig, rein weiß, doch auf Druck etwas bräunend. Es ist geruchlos und mild.\
+Die Lamellen sind rein weiß, breit, etwas entfernt stehend, am Grunde anastomisierend. Die Schneiden sind glatt und mit den Flächen gleichgarben. Der Stiel ist relativ kurz, zylindrisch, rein weiß, die Oberfläche (wie bei *[Russula aurora](/pilze/russula-aurora-netzflockiger-rosatäubling)*) bepudert. Innen ist er wattig ausgestopft. Das Fleisch ist weich, brüchig, rein weiß, doch auf Druck etwas bräunend. Es ist geruchlos und mild.\
 Frisch ausgefallene Sporenpulver ist rein weiß, Ia nach der Farbtafel in MARXMÜLLER, H. (2014).
 
 <div class="table-responsive">
