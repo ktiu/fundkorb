@@ -25,15 +25,14 @@ literatur:
   - text: "MARXMÜLLER, H. (2014): Russularum Icones: 408 - 409"
   - text: "SARNARI, M. (2005): Monografia illustrata del Genere Russula in Europa,
       Tomo Secondo: 1311 - 1317"
-  - url: https://de.wikipedia.org/wiki/Zinnoberroter_Reif-T%C3%A4ubling (abgerufen
-      am 08.11.2023)
+  - url: https://de.wikipedia.org/wiki/Zinnoberroter_Reif-T%C3%A4ubling
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_emeticicolor_01_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/russula_emeticicolor_02_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-Bisher hatte ich nur einmal das Vergnügen, den Kleinen Zinnobertäubling *Russula emeticicolor* zu finden. Das war im Jahr 2010 im Walddistrikt Büchereck bei Hornberg im Mittleren Schwarzwald. Dort wuchs ein voll ausgewachsener Fruchtkörper mit 3,5 cm breitem, blutrotem Hut, weißem Stiel und weißen Lamellen bei alten Rotbuchen auf basenreichem Gneis. Aufgrund seiner Seltenheit wird die Art in der Rote Liste Deutschlands (2016) in der Kategorie 2 (stark gefährdet) geführt.
+Bisher hatte ich nur einmal das Vergnügen, den Kleinen Zinnobertäubling *Russula emeticicolor* zu finden. Das war am 17. Juli 2010 während einer Exkursion des Mykologischen Arbeitskreises Mittlerer Schwarzwald im Walddistrikt „Büchereck“ bei Hornberg. Dort wuchs auf einem lehmigen Waldweg, vom Buchenlaub fast verdeckt, ein voll ausgewachsener Fruchtkörper mit 3,5 cm breitem, blutrotem Hut. Beim Wald handelt es sich um einem Hallen-Buchenwald mit Naturverjüngung auf basenreichem Gneis. Aufgrund ihrer Seltenheit wird die Art in der Roten Liste Deutschlands (2016) in der Kategorie 2 (stark gefährdet) geführt.
 
 **Makroskopische Merkmale:**\
 Der Hut wird maximal 5 cm breit, ist meist blutrot mit dunklerer Mitte, trocken, matt und am Rand meist gerieft. Auf dem nachfolgenden Foto erkennt man zudem im mittleren Hutbereich eine weißliche Beflockung, die von den herausragenden Primordialhyphen herrührt. Die Huthaut ist zur Hälfte des Radius abziehbar, das Fleisch darunter ist weiß. Schneckenfraßstellen röten nach.
