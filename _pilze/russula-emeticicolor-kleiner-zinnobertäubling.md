@@ -26,6 +26,7 @@ literatur:
   - text: "SARNARI, M. (2005): Monografia illustrata del Genere Russula in Europa,
       Tomo Secondo: 1311 - 1317"
   - url: https://de.wikipedia.org/wiki/Zinnoberroter_Reif-T%C3%A4ubling
+    text: "abgerufen am 08.11.2023:"
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_emeticicolor_01_bm.jpg" nocrop=true gross=true %}
