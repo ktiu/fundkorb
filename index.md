@@ -19,12 +19,21 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 
 Neue Exkursionstermine: 
 
-Samstag, 11. November 2023, 10:00 Uhr: **Saison der Spätherbstpilze** - 
- Dieser Termin ist ausgebucht
-
 Sonntag, 12. November 2023, 10:00 Uhr: **Herbstpilze im südlichen Vogelsberg** - Hier geht's zur [Anmeldung >](/termine)
 
 Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger** - [Zur Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypholoma_capnoides_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.11.2023: Die bitteren und giftigen Grünblättrigen Schwefelköpfe gibt es überall, aber den essbaren und durchaus leckeren Graublättrigen (*Hypholoma capnoides*) findet man wesentlich seltener und nur an Nadelholz. Gestern bei unserer Spätherbst-Pilzexkursion hatten wir ihn gleich mehrfach und deshalb ist er unser aktueller [Fundkorbpilz](AA "Glossar-"). Er wurde fleißig gesammelt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypholoma-capnoides-graublättriger-schwefelkopf)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -47,18 +56,6 @@ Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger*
 10.11.2023: Unter den kleinen weißlichen Helmlingen gibt es einige, die durch ein besonderes Merkmal auffallen: ein wenige Millimeter großes Basalscheibchen am Stielgrund. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Postament-Helmling *Mycena stylobates*. Da er keine besonderen Ansprüche an Waldtyp oder Bodenbeschaffenheit stellt und in Europa weit verbreitet und recht häufig ist, kann er von Pilzfreunden bei feuchter Witterung und gezielter Suche leicht gefunden werden. Seine Substrate sind vor allem angemoderte Laubblätter, aber auch Nadelstreu, Ästchen und Zweige, Pflanzen- und Holzreste. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycena-stylobates-postament-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/melastiza_chateri_02_aa.jpg" %}
-{% include abbildung_ende.html %}
-
-09.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mennigfarbige Borstling *Melastiza chateri*. Bei einer spontanen Begehung einer Wiese auf dem Uni Campus Riedberg in Frankfurt sind mir kleine rot-orangefarbene knopfartige Pilze aufgefallen. Bei genaueren Hinschauen waren auch moosige Stellen und blanke Erde mit diesen leuchtenden Tupfern besetzt, die ich später problemlos als Mennigfarbige Borstlinge bestimmen konnte. (Adam Adamovicz)
-
-[Mehr lesen >](/pilze/melastiza-chateri-mennigfarbiger-borstling)
 
 <div style="clear:  both"></div>
 
