@@ -21,7 +21,19 @@ Neue Exkursionstermine:
 
 Sonntag, 12. November 2023, 10:00 Uhr: **Herbstpilze im südlichen Vogelsberg** - Hier geht's zur [Anmeldung >](/termine)
 
-Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger** - [Zur Anmeldung >](/termine)
+Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger** - Der Termin ist ausgebucht.
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_rosea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosa Rettich-Helmling *Mycena rosea*. Mit Hutdurchmmessern bis zu 6 cm gehört er zu den größeren Helmlingen und ist zur Zeit wohl in jedem Wald zu finden. Er enthält geringe Mengen des Nervengifts Muscarin und muss daher wie alle Rettich-Helmlinge als Giftpilz ausgewiesen werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-rosea-rosa-rettich-helmling)
+
+ <div style="clear:  both"></div>
 
 - - -
 
@@ -44,18 +56,6 @@ Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger*
 11.11.2023: Es ist mir jedes Mal eine Freude, den Büscheligen Faserling *Psathyrella multipedata* zu finden. Diesmal wuchs unser aktueller [Fundkorbpilz](AA "Glossar-") am Waldrand von Dietzenbach-Steinbach auf einem Grasstreifen. Für erfahrene Pilzfreunde, die mit ihm vertraut sind, ist es eine leicht wiedererkennbare Art. Kaum eine andere bildet so schöne vielhütige Büschel, die man fast schon mit Blumensträußen vergleichen könnte. Allerdings nur, solange sie jung und nicht schon schwarz verfärbend sind. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/psathyrella-multipedata-büscheliger-faserling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_stylobates_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-10.11.2023: Unter den kleinen weißlichen Helmlingen gibt es einige, die durch ein besonderes Merkmal auffallen: ein wenige Millimeter großes Basalscheibchen am Stielgrund. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Postament-Helmling *Mycena stylobates*. Da er keine besonderen Ansprüche an Waldtyp oder Bodenbeschaffenheit stellt und in Europa weit verbreitet und recht häufig ist, kann er von Pilzfreunden bei feuchter Witterung und gezielter Suche leicht gefunden werden. Seine Substrate sind vor allem angemoderte Laubblätter, aber auch Nadelstreu, Ästchen und Zweige, Pflanzen- und Holzreste. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-stylobates-postament-helmling)
 
 <div style="clear:  both"></div>
 
