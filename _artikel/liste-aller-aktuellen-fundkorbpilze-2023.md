@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-14.11.2023: [Clitocybe gibba - Ockerbraune Trichterling](/pilze/clitocybe-gibba-ockerbrauner-trichterling)  
+15.11.2023: [Lepista flaccida - Fuchsiger Rötelritterling](/pilze/lepista-flaccida-fuchsiger-röteltrichterling)  
+14.11.2023: [Clitocybe gibba - Ockerbraune Trichterling](/pilze/clitocybe-gibba-ockerbrauner-trichterling)\
 13.11.2023: [Mycena rosea - Rosa Rettich-Helmling](/pilze/mycena-rosea-rosa-rettich-helmling)\
 12.11.2023: [Hypholoma capnoides - Graublättriger Schwefelkopf](/pilze/hypholoma-capnoides-graublättriger-schwefelkopf)\
 11.11.2023: [Psathyrella multipedata - Büscheliger Faserling](/pilze/psathyrella-multipedata-büscheliger-faserling)\
