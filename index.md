@@ -24,7 +24,7 @@ Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger*
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="clitocybe_gibba_01_DG" %}
+{% include bild.html datei="/bilder/clitocybe_gibba_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 14.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ockerbraune Trichterling *Clitocybe gibba*, der jetzt Infundibulicybe gibba heißen soll. Charakteristische Merkmale sind sein nicht sehr auffälliger Bittermandelgeruch und der kleine Buckel in der trichterig vertieften Hutmitte. Sollte der Geruch mal nicht wahrnehmbar sein oder der kleine Buckel fehlen, wäre eine Verwechslung vor allem mit dem ebenfalls essbaren Fuchsigen Rötelritterling *Lepista flaccida* möglich. Wer es genau wissen will, kommt laum ums Mikroskopieren herum. (Dieter Gewalt) 
