@@ -24,6 +24,18 @@ Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger*
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lepista_flaccida_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.11.2023: Weil er dem Ockerbraunen Trichterling so ähnlich sieht (siehe Vortag), ist der Fuchsige Röteltrichterling *Lepista flaccida* unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Er wurde am letzten Sonntag mehrfach von Pilzsammlern in die Pilzberatung im Frankfurter Gesundheitsamt mitgebracht. Eine Verwechslung wäre folgenlos, da beide essbar sind. Wer sich nicht genau auskennt, sollte bräunliche Pilze mit trichterigen Hüten besser meiden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lepista-flaccida-fuchsiger-röteltrichterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitocybe_gibba_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -44,30 +56,6 @@ Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger*
 [Mehr lesen >](/pilze/mycena-rosea-rosa-rettich-helmling)
 
  <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypholoma_capnoides_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.11.2023: Die bitteren und giftigen Grünblättrigen Schwefelköpfe gibt es überall, aber den essbaren und durchaus leckeren Graublättrigen (*Hypholoma capnoides*) findet man wesentlich seltener und nur an Nadelholz. Gestern bei unserer Spätherbst-Pilzexkursion hatten wir ihn gleich mehrfach und deshalb ist er unser aktueller [Fundkorbpilz](AA "Glossar-"). Er wurde fleißig gesammelt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypholoma-capnoides-graublättriger-schwefelkopf)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/psathyrella_multipedata_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.11.2023: Es ist mir jedes Mal eine Freude, den Büscheligen Faserling *Psathyrella multipedata* zu finden. Diesmal wuchs unser aktueller [Fundkorbpilz](AA "Glossar-") am Waldrand von Dietzenbach-Steinbach auf einem Grasstreifen. Für erfahrene Pilzfreunde, die mit ihm vertraut sind, ist es eine leicht wiedererkennbare Art. Kaum eine andere bildet so schöne vielhütige Büschel, die man fast schon mit Blumensträußen vergleichen könnte. Allerdings nur, solange sie jung und nicht schon schwarz verfärbend sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/psathyrella-multipedata-büscheliger-faserling)
-
-<div style="clear:  both"></div>
 
 - - -
 
