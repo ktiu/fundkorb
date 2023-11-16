@@ -24,6 +24,18 @@ Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger*
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Violette Rötelritterling *Lepista nuda*. Violett sind bei ihm vor allem die Lamellen und auch am Stiel findet man diese im Pilzreich nicht gerade häufige Farbe. Er ist ein kompakter, fleischiger Pilz mit gedrängt stehenden, am Stiel ausgebuchtet angewachsenen Lamellen und angenehm würzigem Geruch. Er wächst in Laub- und Nadelwäldern, gern zusammen mit der Nebelkappe an Wegrändern, auch in Parks und Gärten und ist nahezu überall häufig. Sein etwas süßlicher Geschmack wird nicht von allen Pilzfreunden geschätzt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leccinum_vulpinum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
