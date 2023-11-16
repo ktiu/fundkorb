@@ -24,6 +24,18 @@ Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger*
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leccinum_vulpinum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Kiefernrotkappe *Leccinum vulpinum*. Sie wird auch Fuchsrotkappe oder Fuchsröhrling genannt und gehört zu den seltenen Röhrlingsarten (Rote Liste Deutschland, Gefährdungsgrad 2 = stark gefährdet). Im Steinberger Wald bei Dietzenbach ist sie jetzt in größerer Zahl erschienen. Da an den Fundstellen ausschließlich Kiefern standen, war die Bestimmung kein Problem. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leccinum-vulpinum-kiefernrotkappe-fuchsröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lepista_flaccida_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -44,18 +56,6 @@ Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger*
 [Mehr lesen >](/pilze/clitocybe-gibba-ockerbrauner-trichterling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_rosea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosa Rettich-Helmling *Mycena rosea*. Mit Hutdurchmmessern bis zu 6 cm gehört er zu den größeren Helmlingen und ist zur Zeit wohl in jedem Wald zu finden. Er enthält geringe Mengen des Nervengifts Muscarin und muss daher wie alle Rettich-Helmlinge als Giftpilz ausgewiesen werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-rosea-rosa-rettich-helmling)
-
- <div style="clear:  both"></div>
 
 - - -
 
