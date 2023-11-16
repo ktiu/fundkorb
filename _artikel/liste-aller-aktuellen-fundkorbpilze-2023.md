@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-16.11.2023: [Leccinum vulpinum - Kiefernrotkappe](/pilze/leccinum-vulpinum-kiefernrotkappe-fuchsröhrling)  
-15.11.2023: [Lepista flaccida - Fuchsiger Rötelritterling](/pilze/lepista-flaccida-fuchsiger-röteltrichterling)\
+17.11.2023: [Lepista nuda - Violetter Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling)  
+16.11.2023: [Leccinum vulpinum - Kiefernrotkappe](/pilze/leccinum-vulpinum-kiefernrotkappe-fuchsröhrling)\
+15.11.2023: [Lepista flaccida - Fuchsiger Röteltrichterling](/pilze/lepista-flaccida-fuchsiger-röteltrichterling)\
 14.11.2023: [Clitocybe gibba - Ockerbraune Trichterling](/pilze/clitocybe-gibba-ockerbrauner-trichterling)\
 13.11.2023: [Mycena rosea - Rosa Rettich-Helmling](/pilze/mycena-rosea-rosa-rettich-helmling)\
 12.11.2023: [Hypholoma capnoides - Graublättriger Schwefelkopf](/pilze/hypholoma-capnoides-graublättriger-schwefelkopf)\
