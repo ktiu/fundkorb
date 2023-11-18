@@ -24,6 +24,18 @@ Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger*
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cystoderma_amiantinum_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+18.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein besonders hübscher aber kaum für die Küche geeigneter kleiner Pilz, den wir zur Zeit in vielen Nadelwäldern beobachten können. Es ist der Amianth-Körnchenschirmling *Cystoderma amianthinum*. Giftig ist er nicht, aber Geruch und Geschmack wirken nicht gerade appetitanregend. Über die Schreibweise von *„Amianth“*  herrscht wohl weitgehende Uneinigkeit. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cystoderma-amianthinum-amianth-körnchenschirmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -42,30 +54,6 @@ Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger*
 16.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Kiefernrotkappe *Leccinum vulpinum*. Sie wird auch Fuchsrotkappe oder Fuchsröhrling genannt und gehört zu den seltenen Röhrlingsarten (Rote Liste Deutschland, Gefährdungsgrad 2 = stark gefährdet). Im Steinberger Wald bei Dietzenbach ist sie jetzt in größerer Zahl erschienen. Da an den Fundstellen ausschließlich Kiefern standen, war die Bestimmung kein Problem. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/leccinum-vulpinum-kiefernrotkappe-fuchsröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lepista_flaccida_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.11.2023: Weil er dem Ockerbraunen Trichterling so ähnlich sieht (siehe Vortag), ist der Fuchsige Röteltrichterling *Lepista flaccida* unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Er wurde am letzten Sonntag mehrfach von Pilzsammlern in die Pilzberatung im Frankfurter Gesundheitsamt mitgebracht. Eine Verwechslung wäre folgenlos, da beide essbar sind. Wer sich nicht genau auskennt, sollte bräunliche Pilze mit trichterigen Hüten besser meiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lepista-flaccida-fuchsiger-röteltrichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_gibba_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ockerbraune Trichterling *Clitocybe gibba*, der jetzt *Infundibulicybe gibba* heißen soll. Charakteristische Merkmale sind sein nicht sehr auffälliger Bittermandelgeruch und der kleine Buckel in der trichterig vertieften Hutmitte. Sollte der Geruch mal nicht wahrnehmbar sein oder der kleine Buckel fehlen, wäre eine Verwechslung vor allem mit dem ebenfalls essbaren Fuchsigen Röteltrichterling *Lepista flaccida* möglich. Wer es genau wissen will, kommt kaum ums Mikroskopieren herum. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/clitocybe-gibba-ockerbrauner-trichterling)
 
 <div style="clear:  both"></div>
 
