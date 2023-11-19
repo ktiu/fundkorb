@@ -17,9 +17,15 @@ Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
 
 - - -
 
-Neuer Exkursionstermin: 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_parazurea_02_nk.jpg" %}
+{% include abbildung_ende.html %}
 
-Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger** - Der Termin ist ausgebucht.
+19.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blaugrüne Reiftäubling *Russula parazurea*. Wer sich mit Täublingen auskennt, kann ihn durchaus in der Küche verwenden. Er zählt zu den absolut schmackhaften Arten, ist aber nicht gerade häufig. Wir haben ihn gestern bei einer pilzkundlichen Führung in einem Wald bei Dietzenbach unter Fichten gefunden. Wenn der Reif auf der Huthaut abgewischt ist, kann er leicht mit dem häufigen [Papagei-Täubling](/pilze/russula-ionochlora-papagei-täubling) verwechselt werden, der ebenfalls essbar ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-parazurea-blaugrüner-reiftäubling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -30,30 +36,6 @@ Samstag, 18. November 2023, 10:00 Uhr: **Pilzkundliche Führung für Einsteiger*
 18.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein besonders hübscher aber kaum für die Küche geeigneter kleiner Pilz, den wir zur Zeit in vielen Nadelwäldern beobachten können. Es ist der Amianth-Körnchenschirmling *Cystoderma amianthinum*. Giftig ist er nicht, aber Geruch und Geschmack wirken nicht gerade appetitanregend. Über die Schreibweise von *„Amianth“*  herrscht wohl weitgehende Uneinigkeit. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cystoderma-amianthinum-amianth-körnchenschirmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Violette Rötelritterling *Lepista nuda*. Violett sind bei ihm vor allem die Lamellen und auch am Stiel findet man diese im Pilzreich nicht gerade häufige Farbe. Er ist ein kompakter, fleischiger Pilz mit gedrängt stehenden, am Stiel ausgebuchtet angewachsenen Lamellen und angenehm würzigem Geruch. Er wächst in Laub- und Nadelwäldern, gern zusammen mit der Nebelkappe an Wegrändern, auch in Parks und Gärten und ist nahezu überall häufig. Sein etwas süßlicher Geschmack wird nicht von allen Pilzfreunden geschätzt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leccinum_vulpinum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Kiefernrotkappe *Leccinum vulpinum*. Sie wird auch Fuchsrotkappe oder Fuchsröhrling genannt und gehört zu den seltenen Röhrlingsarten (Rote Liste Deutschland, Gefährdungsgrad 2 = stark gefährdet). Im Steinberger Wald bei Dietzenbach ist sie jetzt in größerer Zahl erschienen. Da an den Fundstellen ausschließlich Kiefern standen, war die Bestimmung kein Problem. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leccinum-vulpinum-kiefernrotkappe-fuchsröhrling)
 
 <div style="clear:  both"></div>
 
