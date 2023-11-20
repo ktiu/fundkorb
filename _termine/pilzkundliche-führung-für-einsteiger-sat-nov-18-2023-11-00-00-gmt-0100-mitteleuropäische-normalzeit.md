@@ -1,15 +1,11 @@
 ---
-aktivitaet: Pilzkundliche Führung für Einsteiger
-zeit: 2023-11-18T10:00:00.968Z
+aktivitaet: Saison der Spätherbstpilze
+zeit: 2023-11-25T10:00:00.968Z
 bis: ""
-anmeldung_offen: false
-anmeldung_noetig: false
+anmeldung_offen: true
+anmeldung_noetig: true
 published: true
 ---
-Beim Pilzesammeln auf der sicheren Seite zu sein, ist gerade für Einsteiger von größter Wichtigkeit. Bei unserer Exkursion in einem Wald im Raum Frankfurt/Offenbach/Dietzenbach erfahren Sie alles, was beim Sammeln zu beachten ist und lernen sowohl einige essbare wie auch ungenießbare und giftige Arten kennen.
+Der Spätherbst ist die Zeit, in der die Bäume ihr Laub verlieren und Pilze wachsen, die auch mal einen leichten Frost vertragen. Sie wird angekündigt durch oft flächendeckendes Wachstum des Rostigen Helmlings. Danach kommen dann auch schon Nebelkappen und Violette Rötelritterlinge. Es ist die Zeit für Trompetenpfifferlinge, Semmelstoppelpilze, späte Täublinge und Edelreizker. Und natürlich für Austernseitlinge, die den ganzen Winter über fruktifizieren.
 
-Die Teilnahmegebühr für die etwa dreistündige Wanderung beträgt 15 Euro und muss nicht nur Einsteigern vorbehalten sein. Begleitende Kinder sind natürlich kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Anmeldebestätigung mitgeteilt.
-
-**Dieser Termin ist ausgebucht. Anmeldungen sind leider nicht mehr möglich.**
-
-Es wird weitere Termine geben.
+Die Teilnahmegebühr für die etwa dreistündige Wanderung beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Anmeldebestätigung mitgeteilt.
