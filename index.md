@@ -12,8 +12,20 @@ footer_scripts:
 
 - - -
 
-Sonntags kostenlose **Pilzberatung im Frankfurter Gesundheitsamt**.\
-[Mehr erfahren >](/termine)
+Neuer Exkursionstermin: Samstag, 25. November 2023 10:00 Uhr: **Saison der Spätherbstpilze**\
+[Hier geht's zur Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leccinum_holopus_01_wi.jpg" %}
+{% include abbildung_ende.html %}
+
+20.11.2023: Eigentlich ist unser aktueller [Fundkorbpilz](AA "Glossar-") in Mooren zu Hause und ansonsten sehr selten. Um so größer die Freude, dass der Weiße Birkenpilz *Leccinum holopus* in einem durch das nasse Wetter sehr feuchten Fichtenareal nahe Dietzenbach gefunden wurde. Er wird auch Moor-Birkenpilz genannt. Die weiße Farbe an Hut und Stiel macht ihn unverwechselbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leccinum-holopus-moor-birkenpilz-weißer-birkenpilz)
+
+<div style="clear:  both"></div>
 
 - - -
 
