@@ -18,6 +18,18 @@ Neuer Exkursionstermin: Samstag, 25. November 2023 10:00 Uhr: **Saison der Spät
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coltricia_perennis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gezonte Dauerporling *Coltricia perennis*. Er liebt saure Böden und ist daher in der Rhein-Main-Ebene gut verbreitet und nicht selten, möglicherweise aber in letzter Zeit rückläufig.Typisch sind die gelb- bis zimtbraunen Farben und die meist tütenartig ausgezogenen porigen Stiele. Auffällig auch, dass oft mehrere Fruchtkörper miteinander verwachsen sind. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/coltricia-perennis-gezonter-dauerporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leccinum_holopus_01_wi.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: Samstag, 25. November 2023 10:00 Uhr: **Saison der Spät
 19.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blaugrüne Reiftäubling *Russula parazurea*. Wer sich mit Täublingen auskennt, kann ihn durchaus in der Küche verwenden. Er zählt zu den absolut schmackhaften Arten, ist aber nicht gerade häufig. Wir haben ihn gestern bei einer pilzkundlichen Führung in einem Wald bei Dietzenbach unter Fichten gefunden. Wenn der Reif auf der Huthaut abgewischt ist, kann er leicht mit dem häufigen [Papagei-Täubling](/pilze/russula-ionochlora-papagei-täubling) verwechselt werden, der ebenfalls essbar ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-parazurea-blaugrüner-reiftäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cystoderma_amiantinum_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-18.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein besonders hübscher aber kaum für die Küche geeigneter kleiner Pilz, den wir zur Zeit in vielen Nadelwäldern beobachten können. Es ist der Amianth-Körnchenschirmling *Cystoderma amianthinum*. Giftig ist er nicht, aber Geruch und Geschmack wirken nicht gerade appetitanregend. Über die Schreibweise von *„Amianth“*  herrscht wohl weitgehende Uneinigkeit. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cystoderma-amianthinum-amianth-körnchenschirmling)
 
 <div style="clear:  both"></div>
 
