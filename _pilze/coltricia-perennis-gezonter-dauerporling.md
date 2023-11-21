@@ -13,8 +13,9 @@ hauptbild:
   datei: /bilder/coltricia_perennis_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Coltricia_perennis.html
+  - url: https://www.pilzfreun.de/wp-content/uploads/2014/12/Geb%C3%A4ndeter-Dauerporling.pdf
 ---
-Wir haben es hier mit einem in Mitteleuropa verbreiteten aber nicht überall häufigen Porling mit einem durchaus ansprechenden Aussehen zu tun. Die gestielten trichterförmigen, bald verflachenden und dünnfleischigen Fruchtkörper erreichen Durchmesser von 10 cm. Die gelb- bis zimtbraune Oberfläche ist feinfilzig und mehrfach gezont, die [Trama](Trama "Glossar") braun. Die Poren sind ähnlich gefärbt, mitunter grau schimmernd, und laufen weit am Stiel herab. Auffällig ist, dass oft mehrere Fruchtkörper miteinander verwachsen sind.
+Wir haben es hier mit einem in Mitteleuropa verbreiteten aber nicht überall häufigen Porling mit einem durchaus ansprechenden Aussehen zu tun. Die gestielten trichterförmigen, bald verflachenden und dünnfleischigen Fruchtkörper erreichen Durchmesser von 10 cm. Die gelb- bis zimtbraune Oberfläche ist feinfilzig und mehrfach gezont, die [Trama](Trama "Glossar") braun. Die Poren sind ähnlich gefärbt, mitunter grau schimmernd, und laufen weit am meist tütenförmig ausgezogenen Stiel herab. Auffällig ist, dass oft mehrere Fruchtkörper miteinander verwachsen sind.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/coltricia_perennis_02_dg.jpg" %}
