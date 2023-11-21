@@ -18,6 +18,18 @@ Neuer Exkursionstermin: Samstag, 25. November 2023 10:00 Uhr: **Saison der Spät
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_essettei_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-")ist der Schiefknollige Anis-Champignon *Agaricus essettei*, dem man immer mal wieder in Wäldern begegnet. Nach der Champignon-Regel *„Alle rötlich verfärbenden und unter den gelb verfärbenden die nach Anis riechenden Arten sind essbar, alle anderen besser meiden“* ist der Schiefknollige Anis-Champignon essbar. Um aber Klartext zu reden: von allen Champignons sind die, die in den Regalen der Lebensmittelketten angeboten werden, mit Abstand die besten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agaricus-essettei-schiefknolliger-anis-champignon)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coltricia_perennis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: Samstag, 25. November 2023 10:00 Uhr: **Saison der Spät
 20.11.2023: Eigentlich ist unser aktueller [Fundkorbpilz](AA "Glossar-") in Mooren zu Hause und ansonsten sehr selten. Um so größer die Freude, dass der Weiße Birkenpilz *Leccinum holopus* in einem durch das nasse Wetter sehr feuchten Fichtenareal nahe Dietzenbach gefunden wurde. Er wird auch Moor-Birkenpilz genannt. Die weiße Farbe an Hut und Stiel macht ihn unverwechselbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/leccinum-holopus-moor-birkenpilz-weißer-birkenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_parazurea_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-19.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blaugrüne Reiftäubling *Russula parazurea*. Wer sich mit Täublingen auskennt, kann ihn durchaus in der Küche verwenden. Er zählt zu den absolut schmackhaften Arten, ist aber nicht gerade häufig. Wir haben ihn gestern bei einer pilzkundlichen Führung in einem Wald bei Dietzenbach unter Fichten gefunden. Wenn der Reif auf der Huthaut abgewischt ist, kann er leicht mit dem häufigen [Papagei-Täubling](/pilze/russula-ionochlora-papagei-täubling) verwechselt werden, der ebenfalls essbar ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-parazurea-blaugrüner-reiftäubling)
 
 <div style="clear:  both"></div>
 
