@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-21.11.2023: [Coltricia perennis - Gezonter Dauerporling](/pilze/coltricia-perennis-gezonter-dauerporling)  
+22.11.2023: [Agaricus essettei - Schiefknolliger Anis-Champignon](/pilze/agaricus-essettei-schiefknolliger-anis-champignon)  
+21.11.2023: [Coltricia perennis - Gezonter Dauerporling](/pilze/coltricia-perennis-gezonter-dauerporling)\
 20.11.2023: [Leccinum holopus: Moor-Birkenpilz, Weißer Birkenpilz](/pilze/leccinum-holopus-moor-birkenpilz-weißer-birkenpilz)\
 19.11.2023: [Russula parazurea - Blaugrüner Reiftäubling](/pilze/russula-parazurea-blaugrüner-reiftäubling)\
 18.11.2023: [Amianth-Körnchenschirmling - Cystoderma amianthinum](/pilze/cystoderma-amianthinum-amianth-körnchenschirmling)\
