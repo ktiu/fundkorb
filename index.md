@@ -21,7 +21,7 @@ Neuer Exkursionstermin: Samstag, 25. November 2023 10:00 Uhr: **Saison der Spät
 {% include bild.html datei="/bilder/cortinarius_livido-ochraceus_02_lh.jpg" %}
 {% include abbildung_ende.html %}
 
-23.11.2023: Wer war schon mal in der *„Hesel-, Kohl- und Brandmisse“*? *Liss Hoffmann* und *Bernd Miggel* waren da und haben im Nordschwarzwald unseren aktuellen [Fundkorbpilz](AA "Glossar-") gefunden, den Langstieligen Schleimfuß *Cortinarius livido-ochraceus*. Stark schleimige olivbraune Hüte, ebenso schleimige weiße auffallend lange Stiele und der Geruch nach Kunsthonig sind makroskopische Kennzeichen dieses Braunsporers, die zur Sicherheit durch mikroskopische Merkmale abgesichert werden sollten.
+23.11.2023: Wer war schon mal in der *„Hesel-, Kohl- und Brandmisse“*? *Liss Hoffmann* und *Bernd Miggel* waren da und haben im Nordschwarzwald unseren aktuellen [Fundkorbpilz](AA "Glossar-") gefunden, den Langstieligen Schleimfuß *Cortinarius livido-ochraceus*. Stark schleimige olivbraune Hüte, ebenso schleimige weiße auffallend lange Stiele und der Geruch nach Kunsthonig sind makroskopische Kennzeichen dieses Braunsporers, die durch mikroskopische Merkmale abgesichert werden sollten.
 
 [Mehr lesen >](/pilze/cortinarius-livido-ochraceus-langstieliger-schleimfuß)
 
