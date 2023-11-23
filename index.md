@@ -18,6 +18,18 @@ Neuer Exkursionstermin: Samstag, 25. November 2023 10:00 Uhr: **Saison der Spät
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_colossus_01_lh.jpg" %}
+{% include abbildung_ende.html %}
+
+24.11.2023: Aus dem Nordschwarzwald ist uns kürzlich auch der sehr seltene Riesentrichterling *Tricholoma colossus* gemeldet worden. *Bernd Miggel* hat ihn fotografiert, mikroskopiert und das Pilzporträt erstellt. Als stark gefährdete Art ist unser aktueller [Fundkorbpilz](AA "Glossar-") streng geschützt. Mit Hutgrößen von bis zu 30 cm darf man ihn wahrlich als „Koloss“ bezeichnen. Das abgebildete noch recht junge Exemplar hatte einen Stieldurchmesser von beachtlichen 4 cm.
+
+[Mehr lesen >](/pilze/tricholoma-colossus-riesenritterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cortinarius_livido-ochraceus_02_lh.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ Neuer Exkursionstermin: Samstag, 25. November 2023 10:00 Uhr: **Saison der Spät
 22.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schiefknollige Anis-Champignon *Agaricus essettei*, dem man immer mal wieder in Wäldern begegnet. Nach der Champignon-Regel *„Alle rötlich verfärbenden und unter den gelb verfärbenden die nach Anis riechenden Arten sind essbar, alle anderen besser meiden“* ist der Schiefknollige Anis-Champignon essbar. Um aber Klartext zu reden: von allen Champignons sind die, die in den Regalen der Lebensmittelketten angeboten werden, mit Abstand die besten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agaricus-essettei-schiefknolliger-anis-champignon)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coltricia_perennis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gezonte Dauerporling *Coltricia perennis*. Er liebt saure Böden und ist daher in der Rhein-Main-Ebene gut verbreitet und nicht selten, möglicherweise aber in letzter Zeit rückläufig.Typisch sind die gelb- bis zimtbraunen Farben und die meist tütenartig ausgezogenen porigen Stiele. Auffällig auch, dass oft mehrere Fruchtkörper miteinander verwachsen sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coltricia-perennis-gezonter-dauerporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leccinum_holopus_01_wi.jpg" %}
-{% include abbildung_ende.html %}
-
-20.11.2023: Eigentlich ist unser aktueller [Fundkorbpilz](AA "Glossar-") in Mooren zu Hause und ansonsten sehr selten. Um so größer die Freude, dass der Weiße Birkenpilz *Leccinum holopus* in einem durch das nasse Wetter sehr feuchten Fichtenareal nahe Dietzenbach gefunden wurde. Er wird auch Moor-Birkenpilz genannt. Die weiße Farbe an Hut und Stiel macht ihn unverwechselbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leccinum-holopus-moor-birkenpilz-weißer-birkenpilz)
 
 <div style="clear:  both"></div>
 
