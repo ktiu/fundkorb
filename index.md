@@ -21,7 +21,7 @@ Neuer Exkursionstermin: Samstag, 25. November 2023 10:00 Uhr: **Saison der Spät
 {% include bild.html datei="/bilder/tricholoma_colossus_01_lh.jpg" %}
 {% include abbildung_ende.html %}
 
-24.11.2023: Aus dem Nordschwarzwald ist uns kürzlich auch der sehr seltene Riesentrichterling *Tricholoma colossus* gemeldet worden. *Bernd Miggel* hat ihn fotografiert, mikroskopiert und das Pilzporträt erstellt. Als stark gefährdete Art ist unser aktueller [Fundkorbpilz](AA "Glossar-") streng geschützt. Mit Hutgrößen von bis zu 30 cm darf man ihn wahrlich als „Koloss“ bezeichnen. Das abgebildete noch recht junge Exemplar hatte einen Stieldurchmesser von beachtlichen 4 cm.
+24.11.2023: Aus dem Nordschwarzwald ist uns kürzlich auch der sehr seltene Riesenritterling *Tricholoma colossus* gemeldet worden. *Bernd Miggel* hat ihn fotografiert, mikroskopiert und das Pilzporträt erstellt. Als stark gefährdete Art ist unser aktueller [Fundkorbpilz](AA "Glossar-") streng geschützt. Mit Hutgrößen von bis zu 30 cm darf man ihn wahrlich als „Koloss“ bezeichnen. Das abgebildete noch recht junge Exemplar hatte einen Stieldurchmesser von beachtlichen 4 cm.
 
 [Mehr lesen >](/pilze/tricholoma-colossus-riesenritterling)
 
