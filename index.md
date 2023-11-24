@@ -21,7 +21,7 @@ Neuer Exkursionstermin: Samstag, 25. November 2023 10:00 Uhr: **Saison der Spät
 {% include bild.html datei="/bilder/russula_sardonia_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-25.11.2023: Manche Pilze haben Spitznamen, die unter Amateurmykologen geläufiger sind als ihre offiziellen Namen. Zu ihnen gehört der Zitronenblättrige Täubling *Russula sardonia*, unser aktueller Fundkorbpilz. Seinen Spitznamen *„Säufernase“* verdankt er seinem mehr oder weniger violett gefärbten Stiel. Er ist zur Zeit in fast allen Wäldern zu finden und zählt zu den sehr scharfen Täublingen, die in der Küche nichts verloren haben. (Dieter Gewalt)
+25.11.2023: Manche Pilze haben Spitznamen, die unter Amateurmykologen geläufiger sind als ihre offiziellen Namen. Zu ihnen gehört der Zitronenblättrige Täubling *Russula sardonia*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Seinen Spitznamen *„Säufernase“* verdankt er seinem mehr oder weniger violett gefärbten Stiel. Er ist zur Zeit in fast allen Wäldern zu finden und zählt zu den sehr scharfen Täublingen, die in der Küche nichts verloren haben. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-sardonia-zitronenblättriger-täubling)
 
