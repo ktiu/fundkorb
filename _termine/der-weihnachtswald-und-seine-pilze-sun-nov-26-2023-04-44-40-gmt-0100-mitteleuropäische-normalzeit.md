@@ -1,6 +1,6 @@
 ---
 aktivitaet: Der Weihnachtswald und seine Pilze
-zeit: 2023-11-26T03:44:40.453Z
+zeit: 2023-12-26T10:00:40.453Z
 bis: ""
 anmeldung_offen: false
 anmeldung_noetig: false
