@@ -17,6 +17,18 @@ Neuer Exkursionstermin: Samstag, 25. November 2023 10:00 Uhr: **Saison der Spät
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/hericium_erinaceum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.11.2023: Die streng geschützten Stachelbärte sind eindeutig auf dem Vormarsch. Eine gute Nachricht, die darauf zurückzuführen ist, dass überall in unseren von Dürre bedrohten Wäldern Totholz in Massen herumsteht und liegt. Das gilt auch für den aktuellen [Fundkorbpilz](AA "Glossar-"), den Igel-Stachelbart *Hericium erinaceum*. Er ist in der Umgebung von Dietzenbach seit 2021 mehrfach aufgetaucht und es ist eine Freude, diesen wunderschönen Pilz wieder bewundern zu dürfen. An seinen langen hängenden Stacheln ist er leicht und sicher zu erkennen, weshalb er im englischen Sprachraum auch *„Lion’s Mane“* (Löwenmähne) genannt wird. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hericium-erinaceum-igel-stachelbart)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_sardonia_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
