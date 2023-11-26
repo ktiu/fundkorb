@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopilus_penetrans_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.11.2023: Zur Zeit ist der Geflecktblättrige Flämmling *Gymnopilus penetrans* wohl in jedem Nadelwald zu finden und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Auch an totem Laubholz wie hier an Birke ist er nicht selten. Morsche mit Moos überwachsene Stämme und dickere Äste sind sein bevorzugtes Substrat und seine orangegelblichen Lamellen, die im Alter zunehmend rostfleckig werden, sein wichtigstes Erkennungszeichen. Wegen seines bitteren Geschmacks ist er ungenießbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gymnopilus-penetrans-geflecktblättriger-flämmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hericium_erinaceum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 25.11.2023: Manche Pilze haben Spitznamen, die unter Amateurmykologen geläufiger sind als ihre offiziellen Namen. Zu ihnen gehört der Zitronenblättrige Täubling *Russula sardonia*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Seinen Spitznamen *„Säufernase“* verdankt er seinem mehr oder weniger violett gefärbten Stiel. Er ist zur Zeit in fast allen Wäldern zu finden und zählt zu den sehr scharfen Täublingen, die in der Küche nichts verloren haben. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-sardonia-zitronenblättriger-täubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_colossus_01_lh.jpg" %}
-{% include abbildung_ende.html %}
-
-24.11.2023: Aus dem Nordschwarzwald ist uns kürzlich auch der sehr seltene Riesenritterling *Tricholoma colossus* gemeldet worden. *Bernd Miggel* hat ihn fotografiert, mikroskopiert und das Pilzporträt erstellt. Als stark gefährdete Art ist unser aktueller [Fundkorbpilz](AA "Glossar-") streng geschützt. Mit Hutgrößen von bis zu 30 cm darf man ihn wahrlich als „Koloss“ bezeichnen. Das abgebildete noch recht junge Exemplar hatte einen Stieldurchmesser von beachtlichen 4 cm.
-
-[Mehr lesen >](/pilze/tricholoma-colossus-riesenritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cortinarius_livido-ochraceus_02_lh.jpg" %}
-{% include abbildung_ende.html %}
-
-23.11.2023: Wer war schon mal in der *„Hesel-, Kohl- und Brandmisse“*? *Liss Hoffmann* und *Bernd Miggel* waren da und haben im Nordschwarzwald unseren aktuellen [Fundkorbpilz](AA "Glossar-") gefunden, den Langstieligen Schleimfuß *Cortinarius livido-ochraceus*. Stark schleimige olivbraune Hüte, ebenso schleimige weiße auffallend lange Stiele und der Geruch nach Kunsthonig sind makroskopische Kennzeichen dieses Braunsporers, die durch mikroskopische Merkmale abgesichert werden sollten.
-
-[Mehr lesen >](/pilze/cortinarius-livido-ochraceus-langstieliger-schleimfuß)
 
 <div style="clear:  both"></div>
 
