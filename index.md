@@ -12,8 +12,8 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin: Samstag, 25. November 2023 10:00 Uhr: **Saison der Spätherbstpilze**\
-[Hier geht's zur Anmeldung >](/termine)
+Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und seine Pilze**\
+[Mehr lesen >](/termine)
 
 - - -
 
