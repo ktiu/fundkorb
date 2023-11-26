@@ -5,6 +5,7 @@ beschreibung:
   referenz: (Lasch) Maas Geest. 1981
   erlaeuterung: adscendens = aufsteigend
   familie: Mycenaceae
+  synonym: "Synonym: Mycena tenerrima"
 profil:
   aktualisiert: 2023-02-11
   autor_in: Dieter Gewalt
