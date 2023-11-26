@@ -17,7 +17,7 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hericium_erinaceum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
