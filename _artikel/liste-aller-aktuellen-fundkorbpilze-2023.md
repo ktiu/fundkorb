@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-26.11.2023: [Hericium erinaceum - Igel-Stachelbart](/pilze/hericium-erinaceum-igel-stachelbart)  
+27.11.2023: [Gymnopilus penetrans - Geflecktblättriger Flämmling](/pilze/gymnopilus-penetrans-geflecktblättriger-flämmling)  
+26.11.2023: [Hericium erinaceum - Igel-Stachelbart](/pilze/hericium-erinaceum-igel-stachelbart)\
 25.11.2023: [Russula sardonia - Zitronenblättriger Täubling](/pilze/russula-sardonia-zitronenblättriger-täubling)\
 24.11.2023: [Tricholoma colossus - Riesenritterling](/pilze/tricholoma-colossus-riesenritterling)\
 23.11.2023: [Cortinarius livido-ochraceus - Langstieliger Schleimfuß](/pilze/cortinarius-livido-ochraceus-langstieliger-schleimfuß)\
