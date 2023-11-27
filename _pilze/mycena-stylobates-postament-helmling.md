@@ -24,4 +24,16 @@ Unter den kleinen oft weißen Helmlingen gibt es einige, die durch ein besondere
 
 Die etwas gelatinösen Hüte des Postamenthelmlings erreichen glockig aufgeschirmt kaum mehr als 1 cm Durchmesser. Mit der Lupe erkennt man auf ihnen vereinzelte dornenarige Auswüchse, ein Merkmal, an dem der Pilz gut von ähnlichen Arten zu unterscheiden ist . Die weißen Stiele werden immerhin bis zu 4 cm lang. Das Basalscheibchen ist radial gestreift (Lupe!). 
 
-Es dürfte ein gutes Dutzend Helmlingsarten mit Basalscheibchen geben, von denen zur Zeit zwei mit Porträts im Fundkorb vertreten sind: der [Zarte Rindenhelmling *Mycena adscendens*](/pilze/mycena-adscendens-zarter-helmling-körniger-rindenhelmling) und der sehr seltene [Nuss-Helmling *Mycena nucicola*](/pilze/mycena-nucicola-nuss-helmling). Eine weitere bemerkenswerte aber seltene Art mit ausgeprägtem Basalscheibchen ist der an Stängeln und Blättern von Binsen, Simsen, Seggen und anderen Gräsern wachsende Knollige Binsen-Helmling *Mycena bulbosa*.
+Es dürfte ein knappes Dutzend Helmlingsarten mit Basalscheibchen geben, von denen zur Zeit fünf mit Porträts im Fundkorb vertreten sind.
+
+Helmlinge mit Basalscheibchen:
+
+[**Mycena adscendens** Zarter Helmling, Körniger Rindenhelmling](/pilze/mycena-adscendens-zarter-helmling-körniger-rindenhelmling)\
+[**Mycena bulbosa** Knolliger Binsen-Helmling](/pilze/mycena-bulbosa-knolliger-binsen-helmling)\
+**Mycena clavularis** Teller-Postamenthelmling, Scheibchenhelmling\
+**Mycena longiseta** Haariger Helmling (= M. aciculata)\
+**Mycena mucor** Gefalteter Scheibchenhelmling\
+[**Mycena nucicola** Nuss-Helmling](/pilze/mycena-nucicola-nuss-helmling)\
+[**Mycena rhenana** Flockenstieliger Helmling](/pilze/mycena-rhenana-flockenstieliger-helmling)\
+**Mycena stylobates** Postament-Helmling]\
+**Mycena tenuispinosa** Gelatinösstacheliger Helmling
