@@ -26,3 +26,15 @@ Bereits am 09.10.2001 hatte ich etliche Fruchtkörper in einem feuchten Erlenbes
 Am 28.08.2002 fand René Kreher bei einer gemeinsamen Exkursion im gleichen Gebiet zwei auf einem Zäpfchen wachsende Exemplare. Diesmal konnten die zuvor fehlenden Nachweise gesichert werden. 
 
 Am 30.08.2002 fanden wir ca. 100 Meter vom vorigen Fundort entfernt diesen bemerkenswerten Helmling erneut und in großer Zahl. Später konnte die Art auch in anderen vergleichbaren Biotopen mit Erlen nachgewiesen werden.
+
+Helmlinge mit Basalscheibchen:
+
+**Mycena adscendens** Zarter Helmling, Körniger Rindenhelmling\
+[**Mycena bulbosa** Knolliger Binsen-Helmling](/pilze/mycena-bulbosa-knolliger-binsen-helmling)\
+**Mycena clavularis** Teller-Postamenthelmling, Scheibchenhelmling\
+**Mycena longiseta** Haariger Helmling (= M. aciculata)\
+**Mycena mucor** Gefalteter Scheibchenhelmling\
+[**Mycena nucicola** Nuss-Helmling](/pilze/mycena-nucicola-nuss-helmling)\
+[**Mycena rhenana** Flockenstieliger Helmling](/pilze/mycena-rhenana-flockenstieliger-helmling)\
+[**Mycena stylobates** Postament-Helmling](/pilze/mycena-stylobates-postament-helmling)\
+**Mycena tenuispinosa** Gelatinösstacheliger Helmling
