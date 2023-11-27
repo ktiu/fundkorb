@@ -24,8 +24,8 @@ Die Pilzchen erscheinen meist gesellig von Mai bis Dezember, in milden Wintern s
 
 Helmlinge mit Basalscheibchen:
 
-**Mycena adscendens** Zarter Helmling, Körniger Rindenhelmling\
-[**Mycena bulbosa** Knolliger Binsen-Helmling](/pilze/mycena-bulbosa-knolliger-binsen-helmling)\
+[**Mycena adscendens** Zarter Helmling, Körniger Rindenhelmling](/pilze/mycena-adscendens-zarter-helmling-körniger-rindenhelmling)\
+**Mycena bulbosa** Knolliger Binsen-Helmling\
 **Mycena clavularis** Teller-Postamenthelmling, Scheibchenhelmling\
 **Mycena longiseta** Haariger Helmling (= M. aciculata)\
 **Mycena mucor** Gefalteter Scheibchenhelmling\
