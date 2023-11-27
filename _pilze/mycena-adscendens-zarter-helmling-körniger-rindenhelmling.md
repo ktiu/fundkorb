@@ -20,7 +20,7 @@ literatur:
       Sept. 1985"
   - text: "Karin Montag: Mycena Teil 8 - Rindenhelmlinge, Sektionen Supinae und
       Sacchariferae; Der Tintling Nr. 88, 3/2014, S. 93 ff"
-  - url: https://www.pilzmaus.de/pilze/basidiomycota/agaricales/mycenaceae/mycena/m_adscendens/m_adscendens.htm
+  - url: ""
     text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 3 Nr. 314"
   - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Band 3,
       S. 464"
