@@ -33,12 +33,12 @@ Etwas Brauchbares förderte die Internet-Recherche dennoch zu Tage. Haselnüsse 
 
 Helmlinge mit Basalscheibchen:
 
-**Mycena adscendens** Zarter Helmling, Körniger Rindenhelmling\
+[**Mycena adscendens** Zarter Helmling, Körniger Rindenhelmling](/pilze/mycena-adscendens-zarter-helmling-körniger-rindenhelmling)\
 [**Mycena bulbosa** Knolliger Binsen-Helmling](/pilze/mycena-bulbosa-knolliger-binsen-helmling)\
 **Mycena clavularis** Teller-Postamenthelmling, Scheibchenhelmling\
 **Mycena longiseta** Haariger Helmling (= M. aciculata)\
 **Mycena mucor** Gefalteter Scheibchenhelmling\
-[**Mycena nucicola** Nuss-Helmling](/pilze/mycena-nucicola-nuss-helmling)\
+**Mycena nucicola** Nuss-Helmling\
 [**Mycena rhenana** Flockenstieliger Helmling](/pilze/mycena-rhenana-flockenstieliger-helmling)\
 [**Mycena stylobates** Postament-Helmling](/pilze/mycena-stylobates-postament-helmling)\
 **Mycena tenuispinosa** Gelatinösstacheliger Helmling
