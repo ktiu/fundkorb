@@ -41,7 +41,7 @@ Am 22. November 2023 sorgte ein Fund von winzigen weißen Helmlingen auf einem R
 
 Die Fundstelle befand sich in Dietzenbach in einer Parkanlage im Carré Rodgaustraße, MTB 5918.4.3 (wenige Kilometer südlich von Frankfurt am Main). Gefunden von *Tui Gewalt*.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mycena_adscendens_03_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/mycena_adscendens_04_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/mycena_adscendens_05_hl.jpg" nocrop=true gross=true %}
