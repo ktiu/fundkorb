@@ -30,3 +30,15 @@ Etwas Brauchbares förderte die Internet-Recherche dennoch zu Tage. Haselnüsse 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/molinia_coryli_01_xx.jpg" %}
 {% include abbildung_ende.html legende="https://www.gartenfreunde.de/gartenpraxis/pflanzenschutz/krankheiten/haselnuss-monilia-pilze/" %}
+
+Helmlinge mit Basalscheibchen:
+
+**Mycena adscendens** Zarter Helmling, Körniger Rindenhelmling\
+[**Mycena bulbosa** Knolliger Binsen-Helmling](/pilze/mycena-bulbosa-knolliger-binsen-helmling)\
+**Mycena clavularis** Teller-Postamenthelmling, Scheibchenhelmling\
+**Mycena longiseta** Haariger Helmling (= M. aciculata)\
+**Mycena mucor** Gefalteter Scheibchenhelmling\
+[**Mycena nucicola** Nuss-Helmling](/pilze/mycena-nucicola-nuss-helmling)\
+[**Mycena rhenana** Flockenstieliger Helmling](/pilze/mycena-rhenana-flockenstieliger-helmling)\
+[**Mycena stylobates** Postament-Helmling](/pilze/mycena-stylobates-postament-helmling)\
+**Mycena tenuispinosa** Gelatinösstacheliger Helmling
