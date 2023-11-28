@@ -18,12 +18,12 @@ Die Hüte des Schwarzhütigen Birkenpilzes sind schwarzbraun bis grauschwarz gef
 
 Der mit Abstand häufigste Raustielröhrling ist der Gemeine Birkenpilz. Nicht selten ist auch der Hainbuchen-Raufuß. Alle anderen müssen als selten oder sehr selten gelten und sind daher nach der Bundesartenschutzverordnung von 1986 geschützt und dürfen nicht oder nur in geringen Mengen und nur zum Eigengebrauch gesammelt werden.
 
-Die 8 nah miteinander verwandten Birkenpilzarten sind:
-**Leccinum cyaneobasileucum** = Wollstieliger Raustielröhrling, Graubrauner Birkenpilz
-[**Leccinum holopus** = Weißer Birkenpilz](/pilze/leccinum-holopus-moor-birkenpilz-weißer-birkenpilz), Moor-Birkenpilz: Huthaut weiß, Stiel einschließlich Flöckchen weißlich
-**Leccinum melaneum** = Schwarzhütiger Birkenpilz: Huthaut schwarzbraun bis grauschwarz, Stielschuppung deutlich kräftiger und nahezu schwarz
-**Leccinum roseofractum** = Zigarrenbrauner Birkenpilz
-**Leccinum rotundifoliae** = Zwergbuchen-Birkenpilz
-[**Leccinum scabrum** = Gemeiner Birkenpilz](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz)
-**Leccinum schistophilum** = Schiefer-Birkenpilz
-**Leccinum variicolor** = Vielverfärbender Birkenpilz: Farbveränderung im Bereich der Stielbasis, das weiße Fleisch wird nach Anschnitt innerhalb weniger Minuten blau- oder spangrün.
+Die 8 nah miteinander verwandten Birkenpilzarten sind:  
+**Leccinum cyaneobasileucum** = Wollstieliger Raustielröhrling, Graubrauner Birkenpilz  
+[**Leccinum holopus** = Weißer Birkenpilz](/pilze/leccinum-holopus-moor-birkenpilz-weißer-birkenpilz), Moor-Birkenpilz: Huthaut weiß, Stiel einschließlich Flöckchen weißlich  
+**Leccinum melaneum** = Schwarzhütiger Birkenpilz: Huthaut schwarzbraun bis grauschwarz, Stielschuppung deutlich kräftiger und nahezu schwarz  
+**Leccinum roseofractum** = Zigarrenbrauner Birkenpilz  
+**Leccinum rotundifoliae** = Zwergbuchen-Birkenpilz  
+[**Leccinum scabrum** = Gemeiner Birkenpilz](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz)  
+**Leccinum schistophilum** = Schiefer-Birkenpilz  
+[**Leccinum variicolor** = Vielverfärbender Birkenpilz](/pilze/leccinum-variicolor-vielverfärbender-birkenpilz): Farbveränderung im Bereich der Stielbasis, das weiße Fleisch wird nach Anschnitt innerhalb weniger Minuten blau- oder spangrün.
