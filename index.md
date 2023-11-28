@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_adscendens_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.11.2023: Ein winziger weißer Helmling mit Basalscheibchen auf einer am Boden liegenden Rosskastanie weckte reges Interesse bei vier Pilzfreunden. Dank gemeinsamer Bemühungen und reichlich Mikroskopieraufwand bekam er einen Namen und ist daher unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Er entpuppte sich als Körniger Rindenhelmling *Mycena adscendens* (auch Zarter Helmling genannt), der uns zwar gut bekannt war aber offenbar noch nie auf diesem sehr speziellen Substrat gefunden worden ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-adscendens-zarter-helmling-körniger-rindenhelmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_inclinata_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 27.11.2023: Zur Zeit ist der Geflecktblättrige Flämmling *Gymnopilus penetrans* wohl in jedem Nadelwald zu finden und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Auch an totem Laubholz wie hier an Birke ist er nicht selten. Morsche mit Moos überwachsene Stämme und dickere Äste sind sein bevorzugtes Substrat und seine orangegelblichen Lamellen, die im Alter zunehmend rostfleckig werden, sein wichtigstes Erkennungszeichen. Wegen seines bitteren Geschmacks ist er ungenießbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gymnopilus-penetrans-geflecktblättriger-flämmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hericium_erinaceum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.11.2023: Die streng geschützten Stachelbärte sind eindeutig auf dem Vormarsch. Eine gute Nachricht, die darauf zurückzuführen ist, dass überall in unseren von Dürre bedrohten Wäldern Totholz in Massen herumsteht und liegt. Das gilt auch für den aktuellen [Fundkorbpilz](AA "Glossar-"), den Igel-Stachelbart *Hericium erinaceum*. Er ist in der Umgebung von Dietzenbach seit 2021 mehrfach aufgetaucht und es ist eine Freude, diesen wunderschönen Pilz wieder bewundern zu dürfen. An seinen langen hängenden Stacheln ist er leicht und sicher zu erkennen, weshalb er im englischen Sprachraum auch *„Lion’s Mane“* (Löwenmähne) genannt wird. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hericium-erinaceum-igel-stachelbart)
 
 <div style="clear:  both"></div>
 
