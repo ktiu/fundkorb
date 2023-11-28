@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-28.11.2023: [Mycena inclinata - Buntstieliger Helmling](/pilze/mycena-inclinata-buntstieliger-helmling)  
+29.11.2023: [Mycena adscendens - Zarter Helmling, Körniger Rindenhelmling](/pilze/mycena-adscendens-zarter-helmling-körniger-rindenhelmling)  
+28.11.2023: [Mycena inclinata - Buntstieliger Helmling](/pilze/mycena-inclinata-buntstieliger-helmling)\
 27.11.2023: [Gymnopilus penetrans - Geflecktblättriger Flämmling](/pilze/gymnopilus-penetrans-geflecktblättriger-flämmling)\
 26.11.2023: [Hericium erinaceum - Igel-Stachelbart](/pilze/hericium-erinaceum-igel-stachelbart)\
 25.11.2023: [Russula sardonia - Zitronenblättriger Täubling](/pilze/russula-sardonia-zitronenblättriger-täubling)\
