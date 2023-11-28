@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_inclinata_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buntstielige Helmling *Mycena inclinata*. So richtig bunt wie eine Farbpalette ist er natürlich nicht. Seine Stiele zeigen von der Spitze bis zur Basis unterschiedliche Farbtöne von weiß über gelb, orange, hellbraun bis dunkler braun. An diesem Merkmal ist der meist büschelig wachsende attraktive Pilz gut zu erkennen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-inclinata-buntstieliger-helmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gymnopilus_penetrans_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 26.11.2023: Die streng geschützten Stachelbärte sind eindeutig auf dem Vormarsch. Eine gute Nachricht, die darauf zurückzuführen ist, dass überall in unseren von Dürre bedrohten Wäldern Totholz in Massen herumsteht und liegt. Das gilt auch für den aktuellen [Fundkorbpilz](AA "Glossar-"), den Igel-Stachelbart *Hericium erinaceum*. Er ist in der Umgebung von Dietzenbach seit 2021 mehrfach aufgetaucht und es ist eine Freude, diesen wunderschönen Pilz wieder bewundern zu dürfen. An seinen langen hängenden Stacheln ist er leicht und sicher zu erkennen, weshalb er im englischen Sprachraum auch *„Lion’s Mane“* (Löwenmähne) genannt wird. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hericium-erinaceum-igel-stachelbart)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_sardonia_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-25.11.2023: Manche Pilze haben Spitznamen, die unter Amateurmykologen geläufiger sind als ihre offiziellen Namen. Zu ihnen gehört der Zitronenblättrige Täubling *Russula sardonia*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Seinen Spitznamen *„Säufernase“* verdankt er seinem mehr oder weniger violett gefärbten Stiel. Er ist zur Zeit in fast allen Wäldern zu finden und zählt zu den sehr scharfen Täublingen, die in der Küche nichts verloren haben. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-sardonia-zitronenblättriger-täubling)
 
 <div style="clear:  both"></div>
 
