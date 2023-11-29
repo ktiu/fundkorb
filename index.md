@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitocybe_clavipes_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein gut kenntlicher und häufiger Pilz, der sich während der letzten Jahre kaum einmal hat blicken lassen. Um so erfreulicher das Wiedersehen mit dem Keulenfuß-Trichterling *Clitocybe clavipes* in einem Nadelwald bei Dietzenbach. Sein vor allem bei feuchtem Wetter stark angeschwollener Fuß macht ihn praktisch unverwechselbar. Man braucht ihn nur mit zwei Fingern kräftig zusammenzudrücken, um sein wahres Erkennungszeichen zu aktivieren. Dann rinnt klares Wasser heraus wie aus einem geöffneten Wasserhahn! (Dieter Gewalt) 
+
+[Mehr lesen > ](/pilze/clitocybe-clavipes-keulenfuß-trichterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_adscendens_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 28.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buntstielige Helmling *Mycena inclinata*. So richtig bunt wie eine Farbpalette ist er natürlich nicht. Seine Stiele zeigen von der Spitze bis zur Basis unterschiedliche Farbtöne von weiß über gelb, orange, hellbraun bis dunkler braun. An diesem Merkmal ist der meist büschelig wachsende attraktive Pilz gut zu erkennen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycena-inclinata-buntstieliger-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopilus_penetrans_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.11.2023: Zur Zeit ist der Geflecktblättrige Flämmling *Gymnopilus penetrans* wohl in jedem Nadelwald zu finden und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Auch an totem Laubholz wie hier an Birke ist er nicht selten. Morsche mit Moos überwachsene Stämme und dickere Äste sind sein bevorzugtes Substrat und seine orangegelblichen Lamellen, die im Alter zunehmend rostfleckig werden, sein wichtigstes Erkennungszeichen. Wegen seines bitteren Geschmacks ist er ungenießbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gymnopilus-penetrans-geflecktblättriger-flämmling)
 
 <div style="clear:  both"></div>
 
