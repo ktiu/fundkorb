@@ -21,7 +21,7 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 {% include bild.html datei="/bilder/mycena_adscendens_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-29.11.2023: Ein winziger weißer Helmling mit Basalscheibchen auf einer am Boden liegenden Rosskastanie weckte reges Interesse bei vier Pilzfreunden. Dank gemeinsamer Bemühungen und reichlich Mikroskopieraufwand bekam er einen Namen und ist daher unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Er entpuppte sich als Körniger Rindenhelmling *Mycena adscendens* (auch Zarter Helmling genannt), der uns zwar gut bekannt war aber offenbar noch nie auf diesem sehr speziellen Substrat gefunden worden ist. (Dieter Gewalt)
+29.11.2023: Winzige weiße Helmlinge mit Basalscheibchen und maximal 1 mm  Hutdurchmesser auf einer am Boden liegenden Rosskastanie weckten reges Interesse bei vier Pilzfreunden. Dank gemeinsamer Bemühungen und reichlich Mikroskopieraufwand bekamen sie einen Namen. Unser aktueller [Fundkorbpilz](AA "Glossar-") entpuppte sich als Körniger Rindenhelmling *Mycena adscendens* (auch Zarter Helmling genannt), der uns zwar gut bekannt war aber offenbar noch nie auf diesem sehr speziellen Substrat gefunden worden ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycena-adscendens-zarter-helmling-körniger-rindenhelmling)
 
