@@ -9,7 +9,7 @@ profil:
   aktualisiert: 2023-11-28
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: false
+  anzeige: true
   datei: /bilder/leccinum_melaneum_01_dg.jpg
 ---
 Der Schwarzhütige Birkenpilz *Leccinum melaneum* ist nicht immer leicht vom Gemeinen Birkenpilz *Leccinum scabrum* zu unterscheiden. Insgesamt sind es 8 verschiedene Birkenpilzarten, die alle ausschließlich bei Birken wachsen. Auch der Hainbuchen-Raufuß *Leccinum pseudoscabrum* sieht ähnlich aus, wächst aber ausschließlich bei Hainbuchen. Dass beide Baumarten oft nahe beieinander stehen, macht die Sache nicht leichter, was den Speisepilzsammler nicht weiter zu stören braucht. Alle Raustielröhrlinge, zu denen auch die Rotkappen gehören, sind essbar, wenn auch nicht gleichwertig im Geschmack.
