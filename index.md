@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hebeloma_crustuliniforme_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tonblasse Fälbling *Hebeloma crustuliniforme*, einer der häufigsten Vertreter einer nicht sehr populären Gattung, den wohl jeder Pilzfreund schon im Herbst gesellig an Waldwegrändern wachsend gesehen hat, ohne ihm weitere Beachtung zu schenken. Er riecht nach Rettich, aber das tun auch mindestens 20 weitere Fälblingsarten, die nicht leicht auseinanderzuhalten sind. Keiner von ihnen ist genießbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hebeloma-crustuliniforme-tonblasser-fälbling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitocybe_clavipes_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 29.11.2023: Winzige weiße Helmlinge mit Basalscheibchen und maximal 1 mm  Hutdurchmesser auf einer am Boden liegenden Rosskastanie weckten reges Interesse bei vier Pilzfreunden. Dank gemeinsamer Bemühungen und reichlich Mikroskopieraufwand bekamen sie einen Namen. Unser aktueller [Fundkorbpilz](AA "Glossar-") entpuppte sich als Körniger Rindenhelmling *Mycena adscendens* (auch Zarter Helmling genannt), der uns zwar gut bekannt war aber offenbar noch nie auf diesem sehr speziellen Substrat gefunden worden ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycena-adscendens-zarter-helmling-körniger-rindenhelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_inclinata_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buntstielige Helmling *Mycena inclinata*. So richtig bunt wie eine Farbpalette ist er natürlich nicht. Seine Stiele zeigen von der Spitze bis zur Basis unterschiedliche Farbtöne von weiß über gelb, orange, hellbraun bis dunkler braun. An diesem Merkmal ist der meist büschelig wachsende attraktive Pilz gut zu erkennen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-inclinata-buntstieliger-helmling)
 
 <div style="clear:  both"></div>
 
