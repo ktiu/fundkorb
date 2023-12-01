@@ -3,7 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-30.11.2023: [Clitocybe clavipes - Keulenfuß-Trichterling](/pilze/clitocybe-clavipes-keulenfuß-trichterling)  
+01.12.2023: [Hebeloma crustuliniforme - Tonblasser Fälbling](/pilze/hebeloma-crustuliniforme-tonblasser-fälbling)
+
+30.11.2023: [Clitocybe clavipes - Keulenfuß-Trichterling](/pilze/clitocybe-clavipes-keulenfuß-trichterling)\
 29.11.2023: [Mycena adscendens - Zarter Helmling, Körniger Rindenhelmling](/pilze/mycena-adscendens-zarter-helmling-körniger-rindenhelmling)\
 28.11.2023: [Mycena inclinata - Buntstieliger Helmling](/pilze/mycena-inclinata-buntstieliger-helmling)\
 27.11.2023: [Gymnopilus penetrans - Geflecktblättriger Flämmling](/pilze/gymnopilus-penetrans-geflecktblättriger-flämmling)\
