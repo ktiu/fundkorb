@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rhodocollybia_butyracea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.12.2023: Auch nach mehreren frostigen Nächten glänzt der Butter-Rübling *Rhodocollybia butyracea* wie mit Fett eingerieben und ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Sein Stiel fühlt sich an wie ein platter Fahrradschlauch. Das finden auch Teilnehmer an Führungen, wenn sie ihn zwischen den Fingern haben. Essen kann man ihn auch, aber wenn man ihn nicht isst, hat man nichts versäumt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/rhodocollybia-butyracea-butter-rübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hebeloma_crustuliniforme_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
