@@ -12,6 +12,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/crepidotus_cesatii_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Kugelsporige Stummelfüßchen *Crepidotus cesatii*. Da die kleinen hübschen Pilzchen mit dem Hutscheitel am Substrat angewachsen sind, benötigen sie keine Stiele. Evolutionär bedingt ist manchmal noch ein stummeliger Rest davon zu erkennen, etwa so, wie manche Tiere am derzeitigen Ende ihrer Entwicklungsgeschichte noch ein kleines Stummelschwänzchen haben. Die kleinen Blätterpilzchen der Gattung *Crepidotus* werden auch Krüppelfüßchen genannt. Am häufigsten ist wohl die hier vorgestellte Art. Sie ist von einigen nahe verwandten optisch kaum zu unterscheiden. Um sicher zu gehen, ist ein wenig Mikroskopieraufwand erforderlich. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
 Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und seine Pilze**\
 [Mehr lesen >](/termine)
 
@@ -36,30 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 01.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tonblasse Fälbling *Hebeloma crustuliniforme*, einer der häufigsten Vertreter einer nicht sehr populären Gattung, den wohl jeder Pilzfreund schon im Herbst gesellig an Waldwegrändern wachsend gesehen hat, ohne ihm weitere Beachtung zu schenken. Er riecht nach Rettich, aber das tun auch mindestens 20 weitere Fälblingsarten, die nicht leicht auseinanderzuhalten sind. Keiner von ihnen ist genießbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hebeloma-crustuliniforme-tonblasser-fälbling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_clavipes_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.11.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein gut kenntlicher und häufiger Pilz, der sich während der letzten Jahre kaum einmal hat blicken lassen. Um so erfreulicher das Wiedersehen mit dem Keulenfuß-Trichterling *Clitocybe clavipes* in einem Nadelwald bei Dietzenbach. Sein vor allem bei feuchtem Wetter stark angeschwollener Fuß macht ihn praktisch unverwechselbar. Man braucht ihn nur mit zwei Fingern kräftig zusammenzudrücken, um sein wahres Erkennungszeichen zu aktivieren. Dann rinnt klares Wasser heraus wie aus einem geöffneten Wasserhahn! (Dieter Gewalt) 
-
-[Mehr lesen > ](/pilze/clitocybe-clavipes-keulenfuß-trichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_adscendens_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.11.2023: Winzige weiße Helmlinge mit Basalscheibchen und maximal 1 mm  Hutdurchmesser auf einer am Boden liegenden Rosskastanie weckten reges Interesse bei vier Pilzfreunden. Dank gemeinsamer Bemühungen und reichlich Mikroskopieraufwand bekamen sie einen Namen. Unser aktueller [Fundkorbpilz](AA "Glossar-") entpuppte sich als Körniger Rindenhelmling *Mycena adscendens* (auch Zarter Helmling genannt), der uns zwar gut bekannt war aber offenbar noch nie auf diesem sehr speziellen Substrat gefunden worden ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-adscendens-zarter-helmling-körniger-rindenhelmling)
 
 <div style="clear:  both"></div>
 
