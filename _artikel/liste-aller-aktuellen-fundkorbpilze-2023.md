@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-02.12.2023: [Rhodocollybia butyracea - Butter-Rübling](/pilze/rhodocollybia-butyracea-butter-rübling)  
+03.12.2023: [Crepidotus cesatii - Kugensporiges Stummelfüßchen](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)  
+02.12.2023: [Rhodocollybia butyracea - Butter-Rübling](/pilze/rhodocollybia-butyracea-butter-rübling)\
 01.12.2023: [Hebeloma crustuliniforme - Tonblasser Fälbling](/pilze/hebeloma-crustuliniforme-tonblasser-fälbling)
 
 30.11.2023: [Clitocybe clavipes - Keulenfuß-Trichterling](/pilze/clitocybe-clavipes-keulenfuß-trichterling)\
