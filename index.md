@@ -12,6 +12,23 @@ footer_scripts:
 
 - - -
 
+Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und seine Pilze**\
+[Mehr lesen >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_portentosum_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwarzstreifige Ritterling *Tricholoma portentosum*. Er ist zweifellos der geschmacklich beste aller Ritterlinge, aber leider ausgeprochen selten und daher als gefährdete Art gesetzlich geschützt. An seinem Stammplatz bei Rödermark-Waldacker ist er auch in diesem Jahr wieder erschienen, nach frostigen Temperaturen inzwischen jedoch steif gefroren wie alle Pilze, denen wir gestern begegnet sind.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tricholoma-portentosum-schwarzfaseriger-ritterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/crepidotus_cesatii_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -21,11 +38,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
 
 <div style="clear:  both"></div>
-
-- - -
-
-Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und seine Pilze**\
-[Mehr lesen >](/termine)
 
 - - -
 
