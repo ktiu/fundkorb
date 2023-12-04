@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_saponaceum_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+05.12.2023: Es ist erstaunlich, wie viele Pilze man zur Zeit in unseren Wäldern finden kann. Sie sind allerdings alle „schockgefroren“. Wie auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Seifenritterling *Tricholoma saponaceum*. Optisch fällt er durch seinen helleren Hutrand auf, der auffällige Seifengeruch ist in gefrorenem Zustand jedoch nicht wahrnehmbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tricholoma-saponaceum-seifenritterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_portentosum_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 03.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Kugelsporige Stummelfüßchen *Crepidotus cesatii*. Da die kleinen hübschen Pilzchen mit dem Hutscheitel am Substrat angewachsen sind, benötigen sie keine Stiele. Evolutionär bedingt ist manchmal noch ein stummeliger Rest davon zu erkennen, etwa so, wie manche Tiere am derzeitigen Ende ihrer Entwicklungsgeschichte noch ein kleines Stummelschwänzchen haben. Die kleinen Blätterpilzchen der Gattung *Crepidotus* werden auch Krüppelfüßchen genannt. Am häufigsten ist wohl die hier vorgestellte Art. Sie ist von einigen nahe verwandten optisch kaum zu unterscheiden. Um sicher zu gehen, ist ein wenig Mikroskopieraufwand erforderlich. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rhodocollybia_butyracea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.12.2023: Auch nach mehreren frostigen Nächten glänzt der Butter-Rübling *Rhodocollybia butyracea* wie mit Fett eingerieben und ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Sein Stiel fühlt sich an wie ein platter Fahrradschlauch. Das finden auch Teilnehmer an Führungen, wenn sie ihn zwischen den Fingern haben. Essen kann man ihn auch, aber wenn man ihn nicht isst, hat man nichts versäumt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/rhodocollybia-butyracea-butter-rübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hebeloma_crustuliniforme_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tonblasse Fälbling *Hebeloma crustuliniforme*, einer der häufigsten Vertreter einer nicht sehr populären Gattung, den wohl jeder Pilzfreund schon im Herbst gesellig an Waldwegrändern wachsend gesehen hat, ohne ihm weitere Beachtung zu schenken. Er riecht nach Rettich, aber das tun auch mindestens 20 weitere Fälblingsarten, die nicht leicht auseinanderzuhalten sind. Keiner von ihnen ist genießbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hebeloma-crustuliniforme-tonblasser-fälbling)
 
 <div style="clear:  both"></div>
 
