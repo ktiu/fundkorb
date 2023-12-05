@@ -5,7 +5,7 @@ beschreibung:
   referenz: (Vittad.) M.M.Moser 1967
   familie: Agaricaceae
   erlaeuterung: vaporarius = rauchig
-  synonym: "Neuer Name: Agaricus capellianus"
+  synonym: "Synonym: Agaricus pseudovillaticus"
 profil:
   aktualisiert: 2021-07-22
   autor_in: Dieter Gewalt
