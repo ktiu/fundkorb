@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_vaporarius_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kompostegerling *Agaricus vaporarius.* Er ist ein regelmäßiger Gast in unserer Dietzenbacher Parkanlage, in der er an diversen Stellen erscheint und auch durch vielhütige Vorkommen auffällt. So spät im Jahr wie diesmal habe ihn noch nie erlebt und er hat wohl auch einen ziemlichen Frostschaden abbekommen. Als Speisepilz hat er kaum eine Bedeutung, soll aber gar nicht so übel schmecken. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agaricus-vaporarius-kompostegerling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_saponaceum_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -44,12 +56,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/crepidotus_cesatii_01_dg.jpg" %}
 {% include abbildung_ende.html %}
-
-03.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Kugelsporige Stummelfüßchen *Crepidotus cesatii*. Da die kleinen hübschen Pilzchen mit dem Hutscheitel am Substrat angewachsen sind, benötigen sie keine Stiele. Evolutionär bedingt ist manchmal noch ein stummeliger Rest davon zu erkennen, etwa so, wie manche Tiere am derzeitigen Ende ihrer Entwicklungsgeschichte noch ein kleines Stummelschwänzchen haben. Die kleinen Blätterpilzchen der Gattung *Crepidotus* werden auch Krüppelfüßchen genannt. Am häufigsten ist wohl die hier vorgestellte Art. Sie ist von einigen nahe verwandten optisch kaum zu unterscheiden. Um sicher zu gehen, ist ein wenig Mikroskopieraufwand erforderlich. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
-
-<div style="clear:  both"></div>
 
 - - -
 
