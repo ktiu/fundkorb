@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-05.12.2023: [Tricholoma saponaceum - Seifenritterling](/pilze/tricholoma-saponaceum-seifenritterling)  
+06.12.2023: [Agaricus vaporarius - Kompostegerling](/pilze/agaricus-vaporarius-kompostegerling)  
+05.12.2023: [Tricholoma saponaceum - Seifenritterling](/pilze/tricholoma-saponaceum-seifenritterling)\
 04.12.2023: [Tricholoma portentosum - Schwarzfaseriger Ritterling](/pilze/tricholoma-portentosum-schwarzfaseriger-ritterling)\
 03.12.2023: [Crepidotus cesatii - Kugensporiges Stummelfüßchen](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)\
 02.12.2023: [Rhodocollybia butyracea - Butter-Rübling](/pilze/rhodocollybia-butyracea-butter-rübling)\
