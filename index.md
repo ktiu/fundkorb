@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/spinellus_fusiger_-_mycena_zephirus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Helmlings-Schimmel *Spinellus fusiger*. Sein mit Abstand häufigster Wirt ist der [Rostige Helmling *Mycena zephirus*](/pilze/mycena-zephirus-rostiger-helmling). Dessen Massenvorkommen sind zwar im Abklingen, aber es gibt noch genügend Fruchtkörper, um dem Helmlingsschimmel das Überwintern zu ermöglichen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/spinellus-fusiger-helmlings-schimmel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_vaporarius_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
