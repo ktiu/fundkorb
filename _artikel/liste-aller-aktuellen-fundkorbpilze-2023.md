@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-07.12.2023: [Spinellus fusiger - Helmlings-Schimmel](/pilze/spinellus-fusiger-helmlings-schimmel)  
+08.12.2023: [Abortiporus biennis - Rötender Wirrling](/pilze/abortiporus-biennis-rötender-wirrling)  
+07.12.2023: [Spinellus fusiger - Helmlings-Schimmel](/pilze/spinellus-fusiger-helmlings-schimmel)\
 06.12.2023: [Agaricus vaporarius - Kompostegerling](/pilze/agaricus-vaporarius-kompostegerling)\
 05.12.2023: [Tricholoma saponaceum - Seifenritterling](/pilze/tricholoma-saponaceum-seifenritterling)\
 04.12.2023: [Tricholoma portentosum - Schwarzfaseriger Ritterling](/pilze/tricholoma-portentosum-schwarzfaseriger-ritterling)\
