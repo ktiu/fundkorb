@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tubulifera_arachnoidea_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+09.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Lachsfarbene Schleimpilz *Tubulifera arachnoidea*, den man makroskopisch recht gut erkennen kann. Er bildet polsterförmige, schön orange- oder lachsrote Fruchtkörper (bei Schleimpilzen *Fruktifikationen* genannt), die glatt und glänzend und je nach Entwicklungsstadium rundlich oder stäbchenförmig sein können. Im rundlichen Stadium werden sie oft für Amphibien- oder Fischeier gehalten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/abortiporus_biennis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 07.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Helmlings-Schimmel *Spinellus fusiger*. Sein mit Abstand häufigster Wirt ist der [Rostige Helmling *Mycena zephirus*](/pilze/mycena-zephirus-rostiger-helmling). Dessen Massenvorkommen sind zwar im Abklingen, aber es gibt noch genügend Fruchtkörper, um dem Helmlingsschimmel das Überwintern zu ermöglichen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/spinellus-fusiger-helmlings-schimmel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_vaporarius_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kompostegerling *Agaricus vaporarius.* Er ist ein regelmäßiger Gast in unserer Dietzenbacher Parkanlage, in der er an diversen Stellen erscheint und auch durch vielhütige Vorkommen auffällt. So spät im Jahr wie diesmal habe ihn noch nie erlebt und er hat wohl auch einen ziemlichen Frostschaden abbekommen. Als Speisepilz hat er kaum eine Bedeutung, soll aber gar nicht so übel schmecken. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agaricus-vaporarius-kompostegerling)
 
 <div style="clear:  both"></div>
 
