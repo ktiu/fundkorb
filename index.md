@@ -21,7 +21,7 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 {% include bild.html datei="/bilder/abortiporus_biennis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-08.12.2023: Der Rötende Wirrling *Abortiporus biennis* taucht immer mal wieder im Dietzenbacher Stadtgebiet auf und ist daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Wie der Name *biennis* besagt, handelt es sich um eine zweijährige Art. Ihre relativ großen, unregelmäßig trichterigen oft miteinander verwachsenen Fruchtkörper wachsen meist an im Boden verborgenem Holz  und haben ein fein porig-lammeliges [Hymenophor](<Hymenophor "Glossar">). (Dieter Gewalt)
+08.12.2023: Der Rötende Wirrling *Abortiporus biennis* taucht immer mal wieder im Dietzenbacher Stadtgebiet auf und ist daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Wie der Name *biennis* besagt, handelt es sich um eine zweijährige Art. Ihre relativ großen, unregelmäßig trichterigen oft miteinander verwachsenen Fruchtkörper wachsen meist an im Boden verborgenem Holz  und haben ein fein porig-lammeliges [Hymenophor](Hymenophor "Glossar"). (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/abortiporus-biennis-rötender-wirrling)
 
