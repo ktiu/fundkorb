@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/abortiporus_biennis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.12.2023: Der Rötende Wirrling *Abortiporus biennis* taucht immer mal wieder im Dietzenbacher Stadtgebiet auf und ist daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Wie der Name *biennis* besagt, handelt es sich um eine zweijährige Art. Ihre relativ großen, unregelmäßig trichterigen oft miteinander verwachsenen Fruchtkörper wachsen meist an im Boden verborgenem Holz  und haben ein fein porig-lammeliges [Hymenophor](<Hymenophor "Glossar">). (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/abortiporus-biennis-rötender-wirrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/spinellus_fusiger_-_mycena_zephirus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 06.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kompostegerling *Agaricus vaporarius.* Er ist ein regelmäßiger Gast in unserer Dietzenbacher Parkanlage, in der er an diversen Stellen erscheint und auch durch vielhütige Vorkommen auffällt. So spät im Jahr wie diesmal habe ihn noch nie erlebt und er hat wohl auch einen ziemlichen Frostschaden abbekommen. Als Speisepilz hat er kaum eine Bedeutung, soll aber gar nicht so übel schmecken. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agaricus-vaporarius-kompostegerling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_saponaceum_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-05.12.2023: Es ist erstaunlich, wie viele Pilze man zur Zeit in unseren Wäldern finden kann. Sie sind allerdings alle „schockgefroren“. Wie auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Seifenritterling *Tricholoma saponaceum*. Optisch fällt er durch seinen helleren Hutrand auf, der auffällige Seifengeruch ist in gefrorenem Zustand jedoch nicht wahrnehmbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tricholoma-saponaceum-seifenritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_portentosum_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwarzfaserige Ritterling *Tricholoma portentosum*. Er ist zweifellos der geschmacklich beste aller Ritterlinge, aber leider ausgeprochen selten und daher als gefährdete Art gesetzlich geschützt. An seinem Stammplatz bei Rödermark-Waldacker ist er auch in diesem Jahr wieder erschienen, nach frostigen Temperaturen inzwischen jedoch steif gefroren wie alle Pilze, denen wir gestern begegnet sind.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tricholoma-portentosum-schwarzfaseriger-ritterling)
 
 <div style="clear:  both"></div>
 
