@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_pseudocorticola_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.12.2023: Auf die kleinen oder sogar winzigen Rindenhelmlinge wird kaum geachtet. Sie sind häufiger und hübscher als viele glauben. Ein besonders auffälliger ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blaue Rindenhelmling *Mycena pseudocorticola*. Er wächst oft scharenweise auf bemooster oder unbemooster Baumrinde. Bei uns in Dietzenbach im Carré an der Rodgaustraße ist er im Spätherbst und Winter an mehreren Weiden zu finden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-pseudocorticola-blauer-rindenhelmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tubulifera_arachnoidea_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 08.12.2023: Der Rötende Wirrling *Abortiporus biennis* taucht immer mal wieder im Dietzenbacher Stadtgebiet auf und ist daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Wie der Name *biennis* besagt, handelt es sich um eine zweijährige Art. Ihre relativ großen, unregelmäßig trichterigen oft miteinander verwachsenen Fruchtkörper wachsen meist an im Boden verborgenem Holz  und haben ein fein porig-lammeliges [Hymenophor](Hymenophor "Glossar"). (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/abortiporus-biennis-rötender-wirrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/spinellus_fusiger_-_mycena_zephirus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Helmlings-Schimmel *Spinellus fusiger*. Sein mit Abstand häufigster Wirt ist der [Rostige Helmling *Mycena zephirus*](/pilze/mycena-zephirus-rostiger-helmling). Dessen Massenvorkommen sind zwar im Abklingen, aber es gibt noch genügend Fruchtkörper, um dem Helmlingsschimmel das Überwintern zu ermöglichen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/spinellus-fusiger-helmlings-schimmel)
 
 <div style="clear:  both"></div>
 
