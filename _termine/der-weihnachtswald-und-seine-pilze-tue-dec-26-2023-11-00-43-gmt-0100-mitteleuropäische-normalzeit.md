@@ -5,6 +5,8 @@ bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
 published: true
+bilder:
+  - /bilder/boletus_edulis_weihnachten_10_fk.jpg
 ---
 Es war ein Versuchsballon, den ich hier im letzten Jahr gestartet habe. Warum nicht mal einen der Weihnachtsfeiertage zu einem Waldspaziergang nutzen? Mit überraschendem Erfolg! Die Nachfrage war größer als erwartet und das Pilzwachstum ebenfalls. Darum soll es auch 2023 wieder eine Weihnachtswald-Exkursion im Raum Frankfurt/Offenbach/Dietzenbach geben. Pilze sind zu allen Jahreszeiten ein spannendes Thema.
 
