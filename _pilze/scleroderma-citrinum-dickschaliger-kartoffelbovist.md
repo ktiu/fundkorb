@@ -32,7 +32,7 @@ Kartoffelboviste gehören zur Gruppe der Bauchpilze (Gasteromyzeten), die ihre S
 **[Scleroderma bovista](/pilze/scleroderma-bovista-netzsporiger-kartoffelbovist)** Gelbflockiger Kartoffelbovist\
 **Scleroderma cepa** Zwiebelförmiger Kartoffelbovist\
 **Scleroderma citrinum** Dickschaliger Kartoffelbovist\
-**Scleroderma verrucosum** Dünnschaliger Kartoffelbovist
+**[Scleroderma verrucosum](/pilze/scleroderma-verrucosum-dünnschaliger-kartoffenbovist)** Dünnschaliger Kartoffelbovist
 
 **Vereinfachter Bestimmungsschlüssel:**
 
