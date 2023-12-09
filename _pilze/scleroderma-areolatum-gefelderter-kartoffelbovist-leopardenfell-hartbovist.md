@@ -34,7 +34,7 @@ Kartoffelboviste sind [Mykorrhizapilze](Mykorrhiza "Glossar"), die in Symbiose m
 **[Scleroderma bovista](/pilze/scleroderma-bovista-netzsporiger-kartoffelbovist)** Gelbflockiger Kartoffelbovist\
 **Scleroderma cepa** Zwiebelförmiger Kartoffelbovist\
 **[Scleroderma citrinum](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)** Dickschaliger Kartoffelbovist\
-**Scleroderma verrucosum** Dünnschaliger Kartoffelbovist
+**[Scleroderma verrucosum](/pilze/scleroderma-verrucosum-dünnschaliger-kartoffenbovist)** Dünnschaliger Kartoffelbovist
 
 **Vereinfachter Bestimmungsschlüssel:**
 
