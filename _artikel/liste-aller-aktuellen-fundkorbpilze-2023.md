@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-10.12.2023: [Mycena pseudocorticola - Blauer Rindenhelmling](/pilze/mycena-pseudocorticola-blauer-rindenhelmling)  
+11.12.2023: [Agaricus silvaticus - Waldchampignon, Kleiner Blut-Egerling](/pilze/agaricus-silvaticus-waldchampignon-kleiner-blut-egerling)  
+10.12.2023: [Mycena pseudocorticola - Blauer Rindenhelmling](/pilze/mycena-pseudocorticola-blauer-rindenhelmling)\
 09.12.2023: [Tubulifera arachnoidea - Lachsfarbener Schleimpilz](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)\
 08.12.2023: [Abortiporus biennis - Rötender Wirrling](/pilze/abortiporus-biennis-rötender-wirrling)\
 07.12.2023: [Spinellus fusiger - Helmlings-Schimmel](/pilze/spinellus-fusiger-helmlings-schimmel)\
