@@ -17,6 +17,14 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 
 - - -
 
+11.12.2023: In Wäldern erwartet man nicht unbedingt Champignons und wenn man in der Nadelstreu einem Pilz mit braunschuppigem Hut begegnet, denkt man nicht unbedingt an einen solchen. Es könnte aber durchaus der Waldchampigon *Agaricus silvaticus* sein, unser aktueller [Fundkorbpilz](AA "Glossar-"), der auch kleiner Blut-Egerling genannt wird.  Die jung rosafarbenen, dann braunen und zuletzt schwarzen Lamellen verraten seine Gattungszugehörigkeit. Wie alle Champignons mit rötendem Fleisch ist auch er essbar. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_pseudocorticola_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -36,18 +44,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 09.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Lachsfarbene Schleimpilz *Tubulifera arachnoidea*, den man makroskopisch recht gut erkennen kann. Er bildet polsterförmige, schön orange- oder lachsrote Fruchtkörper (bei Schleimpilzen *Fruktifikationen* genannt), die glatt und glänzend und je nach Entwicklungsstadium rundlich oder stäbchenförmig sein können. Im rundlichen Stadium werden sie oft für Amphibien- oder Fischeier gehalten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/abortiporus_biennis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.12.2023: Der Rötende Wirrling *Abortiporus biennis* taucht immer mal wieder im Dietzenbacher Stadtgebiet auf und ist daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Wie der Name *biennis* besagt, handelt es sich um eine zweijährige Art. Ihre relativ großen, unregelmäßig trichterigen oft miteinander verwachsenen Fruchtkörper wachsen meist an im Boden verborgenem Holz  und haben ein fein porig-lammeliges [Hymenophor](Hymenophor "Glossar"). (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/abortiporus-biennis-rötender-wirrling)
 
 <div style="clear:  both"></div>
 
