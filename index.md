@@ -17,9 +17,13 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_silvaticus_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
 11.12.2023: In Wäldern erwartet man nicht unbedingt Champignons und wenn man in der Nadelstreu einem Pilz mit braunschuppigem Hut begegnet, denkt man nicht unbedingt an einen solchen. Es könnte aber durchaus der Waldchampigon *Agaricus silvaticus* sein, unser aktueller [Fundkorbpilz](AA "Glossar-"), der auch kleiner Blut-Egerling genannt wird.  Die jung rosafarbenen, dann braunen und zuletzt schwarzen Lamellen verraten seine Gattungszugehörigkeit. Wie alle Champignons mit rötendem Fleisch ist auch er essbar. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/agaricus-silvaticus-waldchampignon-kleiner-blut-egerling)
 
 <div style="clear:  both"></div>
 
