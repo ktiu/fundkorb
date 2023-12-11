@@ -7,6 +7,7 @@ beschreibung:
   familie: Fomitopsidaceae
 profil:
   aktualisiert: 2023-12-11
+  autor_in: Werner Pohl
 hauptbild:
   anzeige: true
   datei: /bilder/antrodia_albida_01_wp.jpg
