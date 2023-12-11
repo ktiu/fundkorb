@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stropharia_aurantiaca_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.12.2023: Dass es sich bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") um einen attraktiven Blätterpilz handelt, dafür sorgt schon die auffällige Hutfarbe des Orangeroten Träuschlings *Stropharia aurantiaca*. Leider bekommt man ihn in Deutschland nur selten zu sehen und das auch erst seit 1968. Vermutlich ist er aus dem Mittelmeerraum über England nach Mitteleuropa eingewandert. Wer seine bevorzugten Biotope kennt, hat allerdings gute Chancen, ihn zu finden. Es sind [anthropogene](anthropogen "Glossar") Standorte wie Parkanlagen oder Gärten, in denen er gern auf Holzabfällen und Rindenmulch erscheint, oft in größeren Scharen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stropharia-aurantiaca-orangeroter-träuschling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_silvaticus_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
