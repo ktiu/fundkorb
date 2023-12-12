@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_circellatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.12.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Gebänderte Hainbuchenmilchling *Lactarius circellatus*. Für mich ist unter diesem Namen ein Pilz zu verstehen, der offenbar ausschließlich unter Hainbuchen wächst und wie auf dem Foto zu sehen eine konzentrisch gebänderte Hutzeichnung und dicht stehende Lamellen aufweist. Die weiße Milch verfärbt allmählich zu blass gelbgrün, ihr Geschmack wird als bitter schärflich beschrieben. So ganz einheitlich ist diese Auffassung nicht, was zu Irritationen führen kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lactarius-circellatus-gebänderter-hainbuchenmilchling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stropharia_aurantiaca_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 11.12.2023: In Wäldern erwartet man nicht unbedingt Champignons und wenn man in der Nadelstreu einem Pilz mit braunschuppigem Hut begegnet, denkt man nicht unbedingt an einen solchen. Es könnte aber durchaus der Waldchampigon *Agaricus silvaticus* sein, unser aktueller [Fundkorbpilz](AA "Glossar-"), der auch kleiner Blut-Egerling genannt wird.  Die jung rosafarbenen, dann braunen und zuletzt schwarzen Lamellen verraten seine Gattungszugehörigkeit. Wie alle Champignons mit rötendem Fleisch ist auch er essbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agaricus-silvaticus-waldchampignon-kleiner-blut-egerling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_pseudocorticola_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.12.2023: Auf die kleinen oder sogar winzigen Rindenhelmlinge wird kaum geachtet. Sie sind häufiger und hübscher als viele glauben. Ein besonders auffälliger ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blaue Rindenhelmling *Mycena pseudocorticola*. Er wächst oft scharenweise auf bemooster oder unbemooster Baumrinde. Bei uns in Dietzenbach im Carré an der Rodgaustraße ist er im Spätherbst und Winter an mehreren Weiden zu finden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-pseudocorticola-blauer-rindenhelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tubulifera_arachnoidea_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-09.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Lachsfarbene Schleimpilz *Tubulifera arachnoidea*, den man makroskopisch recht gut erkennen kann. Er bildet polsterförmige, schön orange- oder lachsrote Fruchtkörper (bei Schleimpilzen *Fruktifikationen* genannt), die glatt und glänzend und je nach Entwicklungsstadium rundlich oder stäbchenförmig sein können. Im rundlichen Stadium werden sie oft für Amphibien- oder Fischeier gehalten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
 
 <div style="clear:  both"></div>
 
