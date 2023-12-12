@@ -44,7 +44,7 @@ Bis jetzt sind knapp über 1000 Arten beschrieben worden, jedoch werden laufend 
 {% include bild.html datei="/bilder/arcyria_incarnata_02_wi.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Lachsfarbener Schleimpilz Tubulifera arachnoidea -- Roter Kelchstäubling Arcyria incarnata" %}
 
-Bisher 22 Schleimpilzarten aus 15 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
+Bisher 23 Schleimpilzarten aus 15 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
 
 [](/pilze/diachaea-leucopodia-buckingham-schleimpilz)[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
 [Arcyria incarnata (Arcyriaceae) - Roter Kelchstäubling](/pilze/arcyria-incarnata-roter-kelchst%C3%A4ubling)\
@@ -56,7 +56,7 @@ Bisher 22 Schleimpilzarten aus 15 Gattungen (7 Familien) im Fundkorb. Weitere we
 [Fuligo rufa (Physaraceae) - Rötende Lohblüte](/pilze/fuligo-rufa-rötliche-lohblüte)\
 [Fuligo septica (Physaraceae) - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
 [Hemitrichia serpula (Trichiaceae) - Netzschleimpilz](/pilze/hemitrichia-serpula-netzschleimpilz)\
-[Leocarpus fragilis - Löwenfrüchtchen](/pilze/leocarpus-fragilis-löwenfrüchtchen)  
+[Leocarpus fragilis - Löwenfrüchtchen](/pilze/leocarpus-fragilis-löwenfrüchtchen)\
 [Lindbladia tubulina (Enteridiaceae) Röhriger Schleimpilz](/pilze/lindbladia-tubulina-röhriger-schleimpilz)\
 [Lycogala epidendrum (Enteridiaceae) - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 [Metatrichia vesparium (Trichiaceae) - Wespennest](/pilze/metatrichia-vesparium-wespennest)\
