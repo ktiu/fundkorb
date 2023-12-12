@@ -17,4 +17,4 @@ Auf morschem Laub- oder Nadelholz erscheint dieser Schleimpilz nicht selten in R
 
 Der Rotköpfige Schleimpilz ist ganzjährig bei ausreichender Feuchtigkeit zu finden, im Flachland relativ selten, in höheren Lagen häufiger.
 
-Im Fundkorb sind insgesamt 17 Schleimpilzarten
+Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten).
