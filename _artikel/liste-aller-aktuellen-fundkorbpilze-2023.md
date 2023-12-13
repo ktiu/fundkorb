@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-13.12.2023: [Lactarius circellatus - Gebänderter Hainbuchenmilchling](/pilze/lactarius-circellatus-gebänderter-hainbuchenmilchling)  
+14.12.2023: [Ramaria stricta - Steife Koralle](/pilze/ramaria-stricta-steife-koralle)  
+13.12.2023: [Lactarius circellatus - Gebänderter Hainbuchenmilchling](/pilze/lactarius-circellatus-gebänderter-hainbuchenmilchling)\
 12.12.2023: [Stropharia aurantiaca - Orangeroter Träuschling](/pilze/stropharia-aurantiaca-orangeroter-träuschling)\
 11.12.2023: [Agaricus silvaticus - Waldchampignon, Kleiner Blut-Egerling](/pilze/agaricus-silvaticus-waldchampignon-kleiner-blut-egerling)\
 10.12.2023: [Mycena pseudocorticola - Blauer Rindenhelmling](/pilze/mycena-pseudocorticola-blauer-rindenhelmling)\
