@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ramaria_stricta_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.12.2023: Wenn man einem Pilz der Gattung *Ramaria* (Korallen) begegnet und ihm einen Namen geben will, sollte man eigentlich ein Mikroskop dabei haben. Die meisten der zahlreichen Arten dieser Gattung sind nämlich makroskopisch kaum sicher zu unterscheiden. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Steife Koralle *Ramaria stricta*. Sie dürfte zumindest im Rhein-Main-Gebiet die mit Abstand häufigste Koralle sein. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ramaria-stricta-steife-koralle)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_circellatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 12.12.2023: Dass es sich bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") um einen attraktiven Blätterpilz handelt, dafür sorgt schon die auffällige Hutfarbe des Orangeroten Träuschlings *Stropharia aurantiaca*. Leider bekommt man ihn in Deutschland nur selten zu sehen und das auch erst seit 1968. Vermutlich ist er aus dem Mittelmeerraum über England nach Mitteleuropa eingewandert. Wer seine bevorzugten Biotope kennt, hat allerdings gute Chancen, ihn zu finden. Es sind [anthropogene](anthropogen "Glossar") Standorte wie Parkanlagen oder Gärten, in denen er gern auf Holzabfällen und Rindenmulch erscheint, oft in größeren Scharen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/stropharia-aurantiaca-orangeroter-träuschling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_silvaticus_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-11.12.2023: In Wäldern erwartet man nicht unbedingt Champignons und wenn man in der Nadelstreu einem Pilz mit braunschuppigem Hut begegnet, denkt man nicht unbedingt an einen solchen. Es könnte aber durchaus der Waldchampigon *Agaricus silvaticus* sein, unser aktueller [Fundkorbpilz](AA "Glossar-"), der auch kleiner Blut-Egerling genannt wird.  Die jung rosafarbenen, dann braunen und zuletzt schwarzen Lamellen verraten seine Gattungszugehörigkeit. Wie alle Champignons mit rötendem Fleisch ist auch er essbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agaricus-silvaticus-waldchampignon-kleiner-blut-egerling)
 
 <div style="clear:  both"></div>
 
