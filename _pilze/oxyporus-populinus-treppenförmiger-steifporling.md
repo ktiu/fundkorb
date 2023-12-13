@@ -9,7 +9,7 @@ profil:
   aktualisiert: 2023-12-13
   autor_in: Werner Pohl
 hauptbild:
-  anzeige: false
+  anzeige: true
   legende: "April 2010:  an der Isar bei Wallgau (Bayerische Alpen) an
     absterbenden Weidenstämmen"
   datei: /bilder/oxyporus_populinus_01_wp.jpg
