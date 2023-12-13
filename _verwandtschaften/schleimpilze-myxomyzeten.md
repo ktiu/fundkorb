@@ -65,7 +65,7 @@ Bisher 23 Schleimpilzarten aus 15 Gattungen (7 Familien) im Fundkorb. Weitere we
 [Physarum utriculare (Physaridae) - Fadenfrucht-Schleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
 [Reticularia lycoperdon (Enteridiaceae) - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
 [Stemonitis fusca (Stemonitidaceae) - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)\
-[Trichia decipiens (Trichiaceae) - Gelber Schleimpilz](/pilze/trichia-decipiens-gelber-schleimpilz)\
+[Trichia decipiens (Trichiaceae) - Rotköpfiger Schleimpilz](/pilze/trichia-decipiens-rotköpfiger-schleimpilz)\
 [Trichia favoginea (Trichiaceae) - Gelber Schleimpilz](/pilze/trichia-favoginea-gelber-schleimpilz)\
 [Trichia persimilis (Trichiaceae) - Ockerfarbener Neststäubling](/pilze/trichia-persimilis-ockerfarbener-neststäubling)\
 [Tubulifera arachnoides (Enteridiaceae) - Lachsfarbener Schleimpilz](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
