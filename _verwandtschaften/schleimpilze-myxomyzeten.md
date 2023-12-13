@@ -44,7 +44,7 @@ Bis jetzt sind knapp über 1000 Arten beschrieben worden, jedoch werden laufend 
 {% include bild.html datei="/bilder/arcyria_incarnata_02_wi.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Lachsfarbener Schleimpilz Tubulifera arachnoidea -- Roter Kelchstäubling Arcyria incarnata" %}
 
-Bisher 23 Schleimpilzarten aus 15 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
+Bisher 22 Schleimpilzarten aus 14 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
 
 [](/pilze/diachaea-leucopodia-buckingham-schleimpilz)[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
 [Arcyria incarnata (Arcyriaceae) - Roter Kelchstäubling](/pilze/arcyria-incarnata-roter-kelchst%C3%A4ubling)\
