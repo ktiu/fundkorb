@@ -44,6 +44,13 @@ Bis jetzt sind knapp über 1000 Arten beschrieben worden, jedoch werden laufend 
 {% include bild.html datei="/bilder/arcyria_incarnata_02_wi.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Lachsfarbener Schleimpilz Tubulifera arachnoidea -- Roter Kelchstäubling Arcyria incarnata" %}
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/trichia_decipiens_01_bm.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/arcyria_obvelata_02_nk.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Rotköpfiger Schleimpilz Trichia decipiens -- Nickender Kelchschleimpilz Arcyria obvelata" %}
+
+Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das [Video des US-amerikanischen Technikportals The Verge](https://www.spektrum.de/video/besitzen-schleimpilze-schwarmintelligenz/1592488) legt das nahe. Auch selbstfahrende Autos könnten vom intelligenten Verhalten der Schleimpilze etwas lernen. Wie kommen die Autoren zu dieser etwas verblüffenden Ansicht?
+
 Bisher 22 Schleimpilzarten aus 14 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
 
 [](/pilze/diachaea-leucopodia-buckingham-schleimpilz)[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
