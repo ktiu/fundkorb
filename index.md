@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitocybe_umbilicata_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+15.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Nabel-Trichterling Clitocybe umbilicata, eine kleine bis mittelgroße Art, die man nicht alle Tage zu sehen bekommt, am ehesten noch bei Buchen und spät im Jahr. Sie ist stark [hygrophan](hygrophan "Glossar"), wobei die deutlich genabelten Hüte fettig glänzen. Mit dem *Moser*-Schlüssel kommt man ohne Mikromerkmale beachten zu müssen ziemlich rasch und problemlos zu unserem Pilz. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/clitocybe-umbilicata-nabel-trichterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ramaria_stricta_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
