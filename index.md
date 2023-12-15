@@ -18,10 +18,22 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leucogyrophana_mollusca_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kiefernfältling *Leucogyrophana mollusca*. Er fällt durch sein formenreich gestaltetes orangegelbes [Hymenium](Hymenium "Glossar") auf. Allzu häufig wird man diesem schönen stets [resupinat](resupinat "Glossar") wachsenden Pilz nicht begegnen. In der Rhein-Main-Ebene ist er mir von mehreren Wuchsorten bekannt. Der aktuelle Fund stammt von einem Kiefernstumpf in einem Wald nahe der Thomashütte bei Eppertshausen. (Dieter Gewalt)
+
+[ Mehr lesen >](/pilze/leucogyrophana-mollusca-kiefernfältling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitocybe_umbilicata_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
-15.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Nabel-Trichterling Clitocybe umbilicata, eine kleine bis mittelgroße Art, die man nicht alle Tage zu sehen bekommt, am ehesten noch bei Buchen und spät im Jahr. Sie ist stark [hygrophan](hygrophan "Glossar"), wobei die deutlich genabelten Hüte fettig glänzen. Mit dem *Moser*-Schlüssel kommt man ohne Mikromerkmale beachten zu müssen ziemlich rasch und problemlos zu unserem Pilz. (Dieter Gewalt)
+15.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Nabel-Trichterling *Clitocybe umbilicata*, eine kleine bis mittelgroße Art, die man nicht alle Tage zu sehen bekommt, am ehesten noch bei Buchen und spät im Jahr. Sie ist stark [hygrophan](hygrophan "Glossar"), wobei die deutlich genabelten Hüte fettig glänzen. Mit dem *Moser*-Schlüssel kommt man ohne Mikromerkmale beachten zu müssen ziemlich rasch und problemlos zu unserem Pilz. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/clitocybe-umbilicata-nabel-trichterling)
 
@@ -36,30 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 14.12.2023: Wenn man einem Pilz der Gattung *Ramaria* (Korallen) begegnet und ihm einen Namen geben will, sollte man eigentlich ein Mikroskop dabei haben. Die meisten der zahlreichen Arten dieser Gattung sind nämlich makroskopisch kaum sicher zu unterscheiden. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Steife Koralle *Ramaria stricta*. Sie dürfte zumindest im Rhein-Main-Gebiet die mit Abstand häufigste Koralle sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/ramaria-stricta-steife-koralle)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_circellatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.12.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Gebänderte Hainbuchenmilchling *Lactarius circellatus*. Für mich ist unter diesem Namen ein Pilz zu verstehen, der offenbar ausschließlich unter Hainbuchen wächst und wie auf dem Foto zu sehen eine konzentrisch gebänderte Hutzeichnung und dicht stehende Lamellen aufweist. Die weiße Milch verfärbt allmählich zu blass gelbgrün, ihr Geschmack wird als bitter schärflich beschrieben. So ganz einheitlich ist diese Auffassung nicht, was zu Irritationen führen kann. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lactarius-circellatus-gebänderter-hainbuchenmilchling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stropharia_aurantiaca_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.12.2023: Dass es sich bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") um einen attraktiven Blätterpilz handelt, dafür sorgt schon die auffällige Hutfarbe des Orangeroten Träuschlings *Stropharia aurantiaca*. Leider bekommt man ihn in Deutschland nur selten zu sehen und das auch erst seit 1968. Vermutlich ist er aus dem Mittelmeerraum über England nach Mitteleuropa eingewandert. Wer seine bevorzugten Biotope kennt, hat allerdings gute Chancen, ihn zu finden. Es sind [anthropogene](anthropogen "Glossar") Standorte wie Parkanlagen oder Gärten, in denen er gern auf Holzabfällen und Rindenmulch erscheint, oft in größeren Scharen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/stropharia-aurantiaca-orangeroter-träuschling)
 
 <div style="clear:  both"></div>
 
