@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-15.12.2023: [Clitocybe umbilicata - Nabel-Trichterling](/pilze/clitocybe-umbilicata-nabel-trichterling)  
+16.12.2023: [Leucogyrophana mollusca - Kiefernfältling](/pilze/leucogyrophana-mollusca-kiefernfältling)  
+15.12.2023: [Clitocybe umbilicata - Nabel-Trichterling](/pilze/clitocybe-umbilicata-nabel-trichterling)\
 14.12.2023: [Ramaria stricta - Steife Koralle](/pilze/ramaria-stricta-steife-koralle)\
 13.12.2023: [Lactarius circellatus - Gebänderter Hainbuchenmilchling](/pilze/lactarius-circellatus-gebänderter-hainbuchenmilchling)\
 12.12.2023: [Stropharia aurantiaca - Orangeroter Träuschling](/pilze/stropharia-aurantiaca-orangeroter-träuschling)\
