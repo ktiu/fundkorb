@@ -23,7 +23,7 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 
 17.12.2023: Zu sehen ist hier der Buckingham-Schleimpilz *Diachea leucopodia*, dem kühle Temperaturen knapp über dem Gefrierpunkt offensichtlich nichts ausmachen. In unserer Parkanlage gibt es zahlreiche unaufgeräumte Ecken, in denen sich vielfältige Substrate ansammeln. Offenbar auch solche, die unserem aktuellen [Fundkorbpilz](AA "Glossar-") zusagen. Sein markant unverwechselbares Aussehen ist allerding nur mit einer Lupe gut zu sehen. (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/diachea-leucopodia-buckingham-schleimpilz)
+[Mehr lesen >](/pilze/diachaea-leucopodia-buckingham-schleimpilz)
 
 <div style="clear:  both"></div>
 
