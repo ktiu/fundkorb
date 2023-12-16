@@ -32,7 +32,7 @@ Bis jetzt sind knapp über 1000 Arten beschrieben worden, jedoch werden laufend 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/diachea_leucopodia_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/physarum_cinereum_08_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Abb. links: Buckingham-Schleimpilz (Diachaea leucopodia) -- rechts: Grauer Gras-Schleimpilz (Physarum cinereum)" %}
+{% include abbildung_ende.html legende="Abb. links: Buckingham-Schleimpilz (Diachea leucopodia) -- rechts: Grauer Gras-Schleimpilz (Physarum cinereum)" %}
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/physarum_utriculare_04_dg.jpg" nocrop=true %}
