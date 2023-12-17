@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/retiarius_superficiaris_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.12.2023: Es gibt tatsächlich Pilze, die keine Fruchtkörper ausbilden! Der staubartige Belag auf dem Kirschlorbeerblatt sind Kiefernpollen, die auf dem klebrigen [Myzel](<Myzel "Glossar">) unseres aktuellen [Fundkorbpilzes](AA "Glossar-") haften geblieben sind und von denen er sich ernährt. Daher wird er Pollenfänger (*Retiarius superficiaris*) genannt. Der Gattungsname *Retiarius* (lat.: Netzkämpfer) bezieht sich auf einen Gladiatorentyp im alten Rom, der neben Dreizack und Kurzschwert ein Wurfnetz einsetzte, um seinen Gegner kampfunfähig zu machen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/retiarius-superficiaris-pollenfänger)
+
+<div style="clear:  both"></div>   
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diachea_leucopodia_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -48,18 +60,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 15.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Nabel-Trichterling *Clitocybe umbilicata*, eine kleine bis mittelgroße Art, die man nicht alle Tage zu sehen bekommt, am ehesten noch bei Buchen und spät im Jahr. Sie ist stark [hygrophan](hygrophan "Glossar"), wobei die deutlich genabelten Hüte fettig glänzen. Mit dem *Moser*-Schlüssel kommt man ohne Mikromerkmale beachten zu müssen ziemlich rasch und problemlos zu unserem Pilz. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/clitocybe-umbilicata-nabel-trichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ramaria_stricta_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.12.2023: Wenn man einem Pilz der Gattung *Ramaria* (Korallen) begegnet und ihm einen Namen geben will, sollte man eigentlich ein Mikroskop dabei haben. Die meisten der zahlreichen Arten dieser Gattung sind nämlich makroskopisch kaum sicher zu unterscheiden. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Steife Koralle *Ramaria stricta*. Sie dürfte zumindest im Rhein-Main-Gebiet die mit Abstand häufigste Koralle sein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ramaria-stricta-steife-koralle)
 
 <div style="clear:  both"></div>
 
