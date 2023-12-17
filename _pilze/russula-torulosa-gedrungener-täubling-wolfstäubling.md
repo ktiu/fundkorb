@@ -73,7 +73,7 @@ Hierin sind Q = Schlankheitsgrad = Länge / Breite, V = Volumen, av = Durchschni
 </div>
 
 **Zusammenfassung:**
-*Russula torulosa* ist ein mittelgroßer, scharf schmeckender, obstig riechender Täubling bei Kiefern auf basenreichen, warmen Böden, mit violettem Hut, hellcremefarbenen Lamellen und violettem Stiel. NH3-Reaktion negativ. Sporenpulver creme. Sporen ellipsoid, gratig-teilnetzig.
+*Russula torulosa* ist ein mittelgroßer, scharf schmeckender, obstig riechender Täubling bei Kiefern, Fichten und Tannen auf basenreichen, warmen Böden, mit violettem Hut, hellcremefarbenen Lamellen und violettem Stiel. NH3-Reaktion negativ. Sporenpulver creme. Sporen ellipsoid, gratig-teilnetzig.
 
 Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
 
