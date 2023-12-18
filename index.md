@@ -41,30 +41,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leucogyrophana_mollusca_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kiefernfältling *Leucogyrophana mollusca*. Er fällt durch sein formenreich gestaltetes orangegelbes [Hymenium](Hymenium "Glossar") auf. Allzu häufig wird man diesem schönen stets [resupinat](resupinat "Glossar") wachsenden Pilz nicht begegnen. In der Rhein-Main-Ebene ist er mir von mehreren Wuchsorten bekannt. Der aktuelle Fund stammt von einem Kiefernstumpf in einem Wald nahe der Thomashütte bei Eppertshausen. (Dieter Gewalt)
-
-[ Mehr lesen >](/pilze/leucogyrophana-mollusca-kiefernfältling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_umbilicata_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-15.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Nabel-Trichterling *Clitocybe umbilicata*, eine kleine bis mittelgroße Art, die man nicht alle Tage zu sehen bekommt, am ehesten noch bei Buchen und spät im Jahr. Sie ist stark [hygrophan](hygrophan "Glossar"), wobei die deutlich genabelten Hüte fettig glänzen. Mit dem *Moser*-Schlüssel kommt man ohne Mikromerkmale beachten zu müssen ziemlich rasch und problemlos zu unserem Pilz. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/clitocybe-umbilicata-nabel-trichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
 
 [Liste aller aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
