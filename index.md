@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/panellus_stipticus_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+19.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Herbe Zwerknäueling *Panellus stipticus*. Der vor allem spät im Jahr und oft massenhaft auf Laubholzstümpfen wachsende Pilz ist an seinen ockergelben bis zimtfarbenen Fruchtkörpern und den scharf abgegrenzten, zur Basis hin zugespitzten seitlich angesetzten Stiele gut zu erkennen. Die Bezeichnung *„herb“* im deutschen Namen lässt schon erahnen, dass er für die Küche ungeeignet ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/panellus-stipticus-herber-zwergknäueling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/retiarius_superficiaris_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
