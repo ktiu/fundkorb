@@ -33,7 +33,7 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 {% include bild.html datei="/bilder/retiarius_superficiaris_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-18.12.2023: Es gibt tatsächlich Pilze, die keine Fruchtkörper ausbilden! Der staubartige Belag auf dem Kirschlorbeerblatt sind Kiefernpollen, die auf dem klebrigen [Myzel](<Myzel "Glossar">) unseres aktuellen [Fundkorbpilzes](AA "Glossar-") haften geblieben sind und von denen er sich ernährt. Daher wird er Pollenfänger (*Retiarius superficiaris*) genannt. Der Gattungsname *Retiarius* (lat.: Netzkämpfer) bezieht sich auf einen Gladiatorentyp im alten Rom, der neben Dreizack und Kurzschwert ein Wurfnetz einsetzte, um seinen Gegner kampfunfähig zu machen. (Dieter Gewalt)
+18.12.2023: Es gibt tatsächlich Pilze, die keine Fruchtkörper ausbilden! Der staubartige Belag auf dem Kirschlorbeerblatt sind Kiefernpollen, die auf dem klebrigen [Myzel](Myzel "Glossar") unseres aktuellen [Fundkorbpilzes](AA "Glossar-") haften geblieben sind und von denen er sich ernährt. Daher wird er Pollenfänger (*Retiarius superficiaris*) genannt. Der Gattungsname *Retiarius* (lat.: Netzkämpfer) bezieht sich auf einen Gladiatorentyp im alten Rom, der neben Dreizack und Kurzschwert ein Wurfnetz einsetzte, um seinen Gegner kampfunfähig zu machen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/retiarius-superficiaris-pollenfänger)
 
