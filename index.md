@@ -23,7 +23,7 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 
 20.12.2023: Werfen wir zur Abwechslung mal einen Blick auf thailändische Teller, egal ob in privaten Haushalten oder Restaurants. Vor allem im Norden des Landes sieht man da, lecker zubereitet, unseren aktuellen Fundkorbpilz, den Wetterstern Astraeus hygrometricus. Bei uns gilt er als ungenießbar. In Thailand sieht man das ganz anders, und da kann ich aus eigener Erfahrung nur zustimmen. Er ist wirklich schmackhaft, allerdings nur, wenn er ungeöffnet wie Trüffel aus dem Boden geholt worden ist. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/astraeus-hygrometricus-wetterstern)
 
 <div style="clear:  both"></div>
 
