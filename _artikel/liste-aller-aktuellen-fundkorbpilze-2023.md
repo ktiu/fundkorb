@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-19.12.2023: [Panellus stipticus - Herber Zwergknäueling ](/pilze/panellus-stipticus-herber-zwergknäueling)  
+20.12.2023: [Antrodia serialis - Reihige Tramete](/pilze/antrodia-serialis-reihige-tramete)  
+19.12.2023: [Panellus stipticus - Herber Zwergknäueling ](/pilze/panellus-stipticus-herber-zwergknäueling)\
 18.12.2023: [Retiarius superficiaris - Pollenfänger](/pilze/retiarius-superficiaris-pollenfänger)\
 17.12.2023: [Diachea leucopodia - Buckingham-Schleimpilz](/pilze/diachaea-leucopodia-buckingham-schleimpilz)\
 16.12.2023: [Leucogyrophana mollusca - Kiefernfältling](/pilze/leucogyrophana-mollusca-kiefernfältling)\
