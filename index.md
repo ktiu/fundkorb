@@ -18,10 +18,22 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/antrodia_serialis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.12.2023: Wenn sich Pilze in ihrer Wuchsform dem Substrat, auf dem sie wachsen, anpassen und dabei auch noch in vielfältiger Weise ihr Erscheinungsbild verändern, kann dies bei Pilzfreunden zu Irritationen führen. Dies ist zum Beispiel beim hier gezeigten aktuellen [Fundkorbpilz](AA "Glossar-"), der Reihigen Tramete *Antrodia serialis*, der Fall. Sie kann an Schnittflächen ausgedehnte [resupinate](resupinat "Glossar") Beläge bilden oder [effus-reflex](effus-reflex "Glossar") wachsen und deutlich abstehende Hutkanten bilden. Diese können an mehreren Stellen gleichzeitig als kleine gelbliche Pusteln entstehen, die beim Wachstum allmählich zusammenfließen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/antrodia-serialis-reihige-tramete)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/astraeus_hygrometricus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-20.12.2023: Werfen wir zur Abwechslung mal einen Blick auf thailändische Teller, egal ob in privaten Haushalten oder Restaurants. Vor allem im Norden des Landes sieht man da, lecker zubereitet, unseren aktuellen Fundkorbpilz, den Wetterstern Astraeus hygrometricus. Bei uns gilt er als ungenießbar. In Thailand sieht man das ganz anders, und da kann ich aus eigener Erfahrung nur zustimmen. Er ist wirklich schmackhaft, allerdings nur, wenn er ungeöffnet wie Trüffel aus dem Boden geholt worden ist. (Dieter Gewalt)
+20.12.2023: Werfen wir zur Abwechslung mal einen Blick auf thailändische Teller, egal ob in privaten Haushalten oder Restaurants. Vor allem im Norden des Landes sieht man da, lecker zubereitet, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Wetterstern *Astraeus hygrometricus*. Bei uns gilt er als ungenießbar. In Thailand sieht man das ganz anders, und da kann ich aus eigener Erfahrung nur zustimmen. Er ist wirklich schmackhaft, allerdings nur, wenn er ungeöffnet wie Trüffel aus dem Boden geholt worden ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/astraeus-hygrometricus-wetterstern)
 
@@ -36,30 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 19.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Herbe Zwerknäueling *Panellus stipticus*. Der vor allem spät im Jahr und oft massenhaft auf Laubholzstümpfen wachsende Pilz ist an seinen ockergelben bis zimtfarbenen Fruchtkörpern und den scharf abgegrenzten, zur Basis hin zugespitzten seitlich angesetzten Stiele gut zu erkennen. Die Bezeichnung *„herb“* im deutschen Namen lässt schon erahnen, dass er für die Küche ungeeignet ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/panellus-stipticus-herber-zwergknäueling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/retiarius_superficiaris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.12.2023: Es gibt tatsächlich Pilze, die keine Fruchtkörper ausbilden! Der staubartige Belag auf dem Kirschlorbeerblatt sind Kiefernpollen, die auf dem klebrigen [Myzel](Myzel "Glossar") unseres aktuellen [Fundkorbpilzes](AA "Glossar-") haften geblieben sind und von denen er sich ernährt. Daher wird er Pollenfänger (*Retiarius superficiaris*) genannt. Der Gattungsname *Retiarius* (lat.: Netzkämpfer) bezieht sich auf einen Gladiatorentyp im alten Rom, der neben Dreizack und Kurzschwert ein Wurfnetz einsetzte, um seinen Gegner kampfunfähig zu machen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/retiarius-superficiaris-pollenfänger)
-
-<div style="clear:  both"></div>   
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diachea_leucopodia_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.12.2023: Zu sehen ist hier der Buckingham-Schleimpilz *Diachea leucopodia*, dem kühle Temperaturen knapp über dem Gefrierpunkt offensichtlich nichts ausmachen. In unserer Parkanlage gibt es zahlreiche unaufgeräumte Ecken, in denen sich vielfältige Substrate ansammeln. Offenbar auch solche, die unserem aktuellen [Fundkorbpilz](AA "Glossar-") zusagen. Sein markant unverwechselbares Aussehen ist allerding nur mit einer Lupe gut zu sehen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/diachaea-leucopodia-buckingham-schleimpilz)
 
 <div style="clear:  both"></div>
 
