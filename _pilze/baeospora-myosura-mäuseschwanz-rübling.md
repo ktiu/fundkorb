@@ -22,7 +22,7 @@ Es gibt eine ganze Reihe von Pilzen, die auf Koniferenzapfen wachsen. Manche unt
 {% include bild.html datei="/bilder/baeospora_myosura_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Der Mäuseschwanzrübling kommt ganz überwiegend an Fichten- und Kiefernzapfen vor, wurde aber auch schon an Tannen-, Lärchen- und Douglasienzapfen gefunden. Vor allem im Spätherbst ist die Art häufig bis sehr häufig. Von den Zapfenrüblingen der Gattung *Strobilurus* unterscheidet er sich vor allem durch den in ganzer Länge mehlig bereiften Stiel, der an der Basis mit borstigen [Myzelsträngen](Myzel "Glossar") bekleidet ist. Auf einem einzigen Fichtenzapfen können bis zu 20 und mehr Fruchtkörper erscheinen, neben ausgewachsenen oft noch eine Vielzahl junger winzig kleiner. 
+Der Mäuseschwanzrübling kommt ganz überwiegend an Fichten- und Kiefernzapfen vor, wurde aber auch schon an Tannen-, Lärchen- und Douglasienzapfen gefunden. Vor allem im Spätherbst ist die Art häufig bis sehr häufig. Von den Zapfenrüblingen der Gattung *Strobilurus* unterscheidet er sich vor allem durch den in ganzer Länge mehlig bereiften Stiel, der an der Basis mit borstigen [Myzelsträngen](Myzel "Glossar") bekleidet ist. Auf einem einzigen Fichtenzapfen können bis zu 20 und mehr Fruchtkörper erscheinen, neben ausgewachsenen oft noch eine Vielzahl junger winzig kleiner. Einige Male haben wir die Art sogar an Zapfenschuppen einer Zeder gefunden.
 
 ##### Kurzbeschreibung:
 
