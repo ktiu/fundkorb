@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/crepidotus_-epibryus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.12.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder ein Winzling, den man eigentlich nur bei gezielter Suche finden kann. Das Gelbweiße Stummelfüßchen *Crepidotus epibryus* wächst auf Blättern, Ästchen, Stängeln oder anderen Pflanzenresten und wird kaum einmal größer als 1 cm. Wir finden das hübsche Pilzchen meist spät im Jahr in einer Dietzenbacher Parkanlage auf modernden Ahornblättern, wobei wir zuerst die obere Laubschicht zur Seite räumen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/crepidotus-epibryus-gelbweißes-stummelfüßchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/antrodia_serialis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 20.12.2023: Werfen wir zur Abwechslung mal einen Blick auf thailändische Teller, egal ob in privaten Haushalten oder Restaurants. Vor allem im Norden des Landes sieht man da, lecker zubereitet, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Wetterstern *Astraeus hygrometricus*. Bei uns gilt er als ungenießbar. In Thailand sieht man das ganz anders, und da kann ich aus eigener Erfahrung nur zustimmen. Er ist wirklich schmackhaft, allerdings nur, wenn er ungeöffnet wie Trüffel aus dem Boden geholt worden ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/astraeus-hygrometricus-wetterstern)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/panellus_stipticus_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-19.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Herbe Zwerknäueling *Panellus stipticus*. Der vor allem spät im Jahr und oft massenhaft auf Laubholzstümpfen wachsende Pilz ist an seinen ockergelben bis zimtfarbenen Fruchtkörpern und den scharf abgegrenzten, zur Basis hin zugespitzten seitlich angesetzten Stiele gut zu erkennen. Die Bezeichnung *„herb“* im deutschen Namen lässt schon erahnen, dass er für die Küche ungeeignet ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/panellus-stipticus-herber-zwergknäueling)
 
 <div style="clear:  both"></div>
 
