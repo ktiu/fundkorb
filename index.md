@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/panellus_mitis_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+23.12.2023: Aktueller Fundkorbpilz ist der Milde Zwergknäueling *Panellus mitis*. Seine weißen bis zu 3 cm breiten Fruchtkörper sind von gelatinöser Konsistenz sowie seitlich und nahezu stiellos an Nadelholzästen und -zweigen angewachsen, ganz überwiegend an Fichte. Sie können leicht mit mehreren anderen Pilzarten aus anderen Gattungen verwechselt werden, die alle ungenießbar sind, der [Ohrförmige Seitling](/pilze/pleurocybella-porrigens-ohrförmiger-seitling) sogar giftig (!)
+
+[Mehr lesen >](/pilze/panellus-mitis-milder-zwergknäueling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/crepidotus_-epibryus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
