@@ -3,8 +3,10 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-21.12.2023: [Crepidotus epibryus - Gelbwißes Stummelfüßchen](/pilze/crepidotus-epibryus-gelbweißes-stummelfüßchen)  
-20.12.2023: [Antrodia serialis - Reihige Tramete](/pilze/antrodia-serialis-reihige-tramete)\
+23.12.2023: [Panellus mitis - Milder Zwergknäueling](/pilze/panellus-mitis-milder-zwergknäueling)  
+22.12.2023: [Crepidotus epibryus - Gelbweißes Stummelfüßchen](/pilze/crepidotus-epibryus-gelbweißes-stummelfüßchen)\
+21.12.2023: [Antrodia serialis - Reihige Tramete](/pilze/antrodia-serialis-reihige-tramete)  
+20.12.2023: [Astraeus hygrometricus - Wetterstern](/pilze/astraeus-hygrometricus-wetterstern)  
 19.12.2023: [Panellus stipticus - Herber Zwergknäueling ](/pilze/panellus-stipticus-herber-zwergknäueling)\
 18.12.2023: [Retiarius superficiaris - Pollenfänger](/pilze/retiarius-superficiaris-pollenfänger)\
 17.12.2023: [Diachea leucopodia - Buckingham-Schleimpilz](/pilze/diachaea-leucopodia-buckingham-schleimpilz)\
