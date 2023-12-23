@@ -18,10 +18,22 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/weihnachtspilz_02_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+24.12.2023: Den heutigen [Fundkorbpilz](AA "Glossar-") hat der Weihnachtsmann persönlich präpariert. Er war in der Umgebung von Neu-Isenburg im Wald unterwegs und ist von Frank Kaster erwischt worden, wie er sich an einem Pilz zu schaffen machte. Was sich unter der roten Mütze verbirgt, dürfte unschwer zu erkennen sein. Es ist der Gemeine Steinpilz *Boletus edulis* und kein anderer seiner nicht immer leicht zu unterscheidenden nahen Verwandten.
+
+[Mehr lesen >](/pilze/boletus-edulis-gemeiner-steinpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/panellus_mitis_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
-23.12.2023: Aktueller Fundkorbpilz ist der Milde Zwergknäueling *Panellus mitis*. Seine weißen bis zu 3 cm breiten Fruchtkörper sind von gelatinöser Konsistenz sowie seitlich und nahezu stiellos an Nadelholzästen und -zweigen angewachsen, ganz überwiegend an Fichte. Sie können leicht mit mehreren anderen Pilzarten aus anderen Gattungen verwechselt werden, die alle ungenießbar sind, der [Ohrförmige Seitling](/pilze/pleurocybella-porrigens-ohrförmiger-seitling) sogar giftig (!)
+23.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Milde Zwergknäueling *Panellus mitis*. Seine weißen bis zu 3 cm breiten Fruchtkörper sind von gelatinöser Konsistenz sowie seitlich und nahezu stiellos an Nadelholzästen und -zweigen angewachsen, ganz überwiegend an Fichte. Sie können leicht mit mehreren anderen Pilzarten aus anderen Gattungen verwechselt werden, die alle ungenießbar sind, der [Ohrförmige Seitling](/pilze/pleurocybella-porrigens-ohrförmiger-seitling) sogar giftig (!)
 
 [Mehr lesen >](/pilze/panellus-mitis-milder-zwergknäueling)
 
@@ -36,30 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 22.12.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder ein Winzling, den man eigentlich nur bei gezielter Suche finden kann. Das Gelbweiße Stummelfüßchen *Crepidotus epibryus* wächst auf Blättern, Ästchen, Stängeln oder anderen Pflanzenresten und wird kaum einmal größer als 1 cm. Wir finden das hübsche Pilzchen meist spät im Jahr in einer Dietzenbacher Parkanlage auf modernden Ahornblättern, wobei wir zuerst die obere Laubschicht zur Seite räumen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/crepidotus-epibryus-gelbweißes-stummelfüßchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/antrodia_serialis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.12.2023: Wenn sich Pilze in ihrer Wuchsform dem Substrat, auf dem sie wachsen, anpassen und dabei auch noch in vielfältiger Weise ihr Erscheinungsbild verändern, kann dies bei Pilzfreunden zu Irritationen führen. Dies ist zum Beispiel beim hier gezeigten aktuellen [Fundkorbpilz](AA "Glossar-"), der Reihigen Tramete *Antrodia serialis*, der Fall. Sie kann an Schnittflächen ausgedehnte [resupinate](resupinat "Glossar") Beläge bilden oder [effus-reflex](effus-reflex "Glossar") wachsen und deutlich abstehende Hutkanten bilden. Diese können an mehreren Stellen gleichzeitig als kleine gelbliche Pusteln entstehen, die beim Wachstum allmählich zusammenfließen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/antrodia-serialis-reihige-tramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/astraeus_hygrometricus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.12.2023: Werfen wir zur Abwechslung mal einen Blick auf thailändische Teller, egal ob in privaten Haushalten oder Restaurants. Vor allem im Norden des Landes sieht man da, lecker zubereitet, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Wetterstern *Astraeus hygrometricus*. Bei uns gilt er als ungenießbar. In Thailand sieht man das ganz anders, und da kann ich aus eigener Erfahrung nur zustimmen. Er ist wirklich schmackhaft, allerdings nur, wenn er ungeöffnet wie Trüffel aus dem Boden geholt worden ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/astraeus-hygrometricus-wetterstern)
 
 <div style="clear:  both"></div>
 
