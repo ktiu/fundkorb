@@ -20,6 +20,11 @@ Beginnen wir mit den häufigeren Arten. Zu ihnen gehört einer, der durch seine 
 
 Recht häufig sind auch zwei weiße zur Sektion *Sacchariferae* gehörige Arten, die nicht nur an stehenden, lebenden Bäumen vorkommen, sondern auch liegendes Totholz besiedeln.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/mycena_adscendens_12_nk.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/mycena_corynephora_03_fk.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Zarter Helmling Mycena adscendens -- Flockiger Rindenhelmling Mycena corynephora" %}
+
 Der Zarte Helmling *Mycena adscendens*, auch Körniger Rindenhelmling genannt, fällt in dieser Gruppe durch ein besonderes Merkmal auf: er hat ein winziges Basalscheibchen an der Stielbasis. Auch die geringe Anzahl an Lamellen hilft bei der Bestimmung. Es sind ca. 9 – 12. Den Flockigen Rindenhelmling *Mycena corynephora* habe ich nur wenige Male auf der Rinde aufrechter Bäume gesehen, umso häufiger aber auf liegendem Totholz, ganz überwiegend von Eichen. Seine Kennzeichen sind fein bereifte Hutoberflächen, fein behaarte Stiele und eine leicht knollig verdickte Stielbasis. Sehr ähnlich ist der extrem seltene Königsfarn-Helmling *Mycena alphitophora*, der bei uns nur in Warmhäusern an Farnrhizomen (also <ins>nicht</ins> an Rinde) gefunden worden ist.
 
 {% include abbildung_start.html stil="standard" %}
