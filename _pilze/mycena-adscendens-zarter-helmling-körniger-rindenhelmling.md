@@ -91,3 +91,5 @@ Helmlinge mit Basalscheibchen:
 [**Mycena rhenana** Flockenstieliger Helmling](/pilze/mycena-rhenana-flockenstieliger-helmling)\
 [**Mycena stylobates** Postament-Helmling](/pilze/mycena-stylobates-postament-helmling)\
 **Mycena tenuispinosa** Gelatinösstacheliger Helmling
+
+Mehr zum Thema [Rindenhelmlinge >](/verwandt/rindenhelmlinge)
