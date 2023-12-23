@@ -9,7 +9,7 @@ profil:
   aktualisiert: 2023-02-15
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/mycena_nucicola_01_hl.jpg
   legende: "08.08.2008 bei Mörfelden-Walldorf: gefunden, fotografiert und bestimmt
     von Hermine Lotz-Winter"
@@ -17,6 +17,10 @@ literatur:
   - text: 'Meinhardt Moser: Kleine Kryptogamenflora Band IIb/2 "Die Röhrlinge und
       Blätterpilze"'
 ---
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_nucicola_01_hl.jpg" %}
+{% include abbildung_ende.html %}
+
 Vermutlich ist die Bestimmung ganz einfach: ein winziges weißes Blätterpilzchen, das auf einer Haselnuss wächst, kann nur ein Nuss-Helmling sein. Kann man aber sicher sein, dass es die einzige Art ist, die dieses Substrat besiedelt? Immerhin lässt das Foto, das ich von Hermine Lotz-Winter erhalten habe, an einen Helmling denken. Gehen wir die Sache also mal systematisch an. Ich habe es mit dem guten alten *"Moser"* versucht.
 
 Bei den Helmlingen kommt man, da der Pilz so etwas wie ein Basalscheibchen besitzt, zur Gruppe der *Basidipedes, Sacchariferae und Viscipelles* und problemlos weiter zu:
