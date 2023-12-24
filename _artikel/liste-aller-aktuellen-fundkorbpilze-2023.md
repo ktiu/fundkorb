@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-24.12.2023: [Boletus edulis - Gemeiner Steinpilz](/pilze/boletus-edulis-gemeiner-steinpilz)  
+25.12.2023: [Haareis](/artikel/haareis)  
+24.12.2023: [Boletus edulis - Gemeiner Steinpilz](/pilze/boletus-edulis-gemeiner-steinpilz)\
 23.12.2023: [Panellus mitis - Milder Zwergknäueling](/pilze/panellus-mitis-milder-zwergknäueling)\
 22.12.2023: [Crepidotus epibryus - Gelbweißes Stummelfüßchen](/pilze/crepidotus-epibryus-gelbweißes-stummelfüßchen)\
 21.12.2023: [Antrodia serialis - Reihige Tramete](/pilze/antrodia-serialis-reihige-tramete)\
