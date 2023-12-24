@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/haareis_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.12.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist genau genommen kein Pilz, sondern ein faszinierendes Phänomen, das von Pilzen verursacht wird. Es ist unter dem Namen „Haareis“  bekannt. Damit sich die haarfeinen Eisfäden quasi beim „Ausatmen“ bilden können, müssen Lufttemperaturen knapp unter 0°C sowie eine gewisse Luftfeuchtigkeit herrschen. Verursacher dieses durchaus zu Weihnachten passenden Phänomens könnte der [Wachskrustenpilz *Exidiopsis effusa*](/pilze/exidiopsis-effusa-rosagetönte-wachskruste) sein. (Dieter Gewalt)
+
+[Mehr lesen >](/artikel/haareis)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/weihnachtspilz_02_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 23.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Milde Zwergknäueling *Panellus mitis*. Seine weißen bis zu 3 cm breiten Fruchtkörper sind von gelatinöser Konsistenz sowie seitlich und nahezu stiellos an Nadelholzästen und -zweigen angewachsen, ganz überwiegend an Fichte. Sie können leicht mit mehreren anderen Pilzarten aus anderen Gattungen verwechselt werden, die alle ungenießbar sind, der [Ohrförmige Seitling](/pilze/pleurocybella-porrigens-ohrförmiger-seitling) sogar giftig (!)
 
 [Mehr lesen >](/pilze/panellus-mitis-milder-zwergknäueling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/crepidotus_-epibryus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.12.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder ein Winzling, den man eigentlich nur bei gezielter Suche finden kann. Das Gelbweiße Stummelfüßchen *Crepidotus epibryus* wächst auf Blättern, Ästchen, Stängeln oder anderen Pflanzenresten und wird kaum einmal größer als 1 cm. Wir finden das hübsche Pilzchen meist spät im Jahr in einer Dietzenbacher Parkanlage auf modernden Ahornblättern, wobei wir zuerst die obere Laubschicht zur Seite räumen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/crepidotus-epibryus-gelbweißes-stummelfüßchen)
 
 <div style="clear:  both"></div>
 
