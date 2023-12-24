@@ -35,3 +35,5 @@ Die Art gilt als selten. In der DGfM-Kartierung war vor 2017 kein Fund verzeichn
 {% include bild.html datei="/bilder/mycena_corynephora_stielhaare_04_fk.jpg" %}
 {% include bild.html datei="/bilder/mycena_corynephora_-cheilos_05_fk.jpg" %}
 {% include abbildung_ende.html legende="Mikromerkmale: Stielhaare – Cheilozystiden (2 Mikrofotos: Frank Kaster)" %}
+
+Mehr zum Thema [Rindenhelmlinge >](/verwandt/rindenhelmlinge)
