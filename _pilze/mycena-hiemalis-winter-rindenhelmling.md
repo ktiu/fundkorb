@@ -38,3 +38,5 @@ Mikromerkmale: Basidien 2-sporig, teilweise auch 3- oder 4-sporig, bis ca. 25 µ
 {% include abbildung_ende.html legende="Hutdeckschicht  (2 Mikrofotos: Frank Kaster)  Stielhyphenenden" %}
 
 Winter-Rindenhelmlinge wachsen vom Spätsommer bis ins Frühjahr an Stümpfen und Stämmen von Laubhölzern, sind mäßig häufig, in Hessen erst wenige Male berichtet.
+
+Mehr zum Thema [Rindenhelmlinge >](/verwandt/rindenhelmlinge)
