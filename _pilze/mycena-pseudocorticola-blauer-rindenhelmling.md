@@ -38,3 +38,5 @@ Während der Wintermonate Januar und Februar 2019 konnten wir in einer Dietzenba
 Der Blaue Rindenhelmling wächst gesellig, seltener vereinzelt, auf bemooster wie unbemooster Rinde von Laubbäumen, gern an Ahorn, Weide, Esche, Buche. 
 
 Erscheinungszeit: September bis Januar/Februar
+
+Mehr zum Thema [Rindenhelmlinge >](/verwandt/rindenhelmlinge)
