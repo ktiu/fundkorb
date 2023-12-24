@@ -33,3 +33,5 @@ Der [Zarte Helmling *Mycena adscendens*](/pilze/mycena-adscendens-zarter-helmlin
 {% include abbildung_ende.html legende="Winter-Rindenhelmling Mycena hiemalis -- Nuss-Helmling Mycena nucicola" %}
 
 Aus dem Rahmen fallen zwei seltene Arten, die nicht viel mit typischen Rindenhelmlingen gemein haben. Da ist zum einen der [Winter-Rindenhelmling *Mycena hiemalis*](/pilze/mycena-hiemalis-winter-rindenhelmling), der im Winterhalbjahr an liegenden Laubholzstämmen vorkommt und sich von Helmlingen u. a. durch [hyaline](hyalin "Glossar") Sporen unterscheidet und in die neue Gattung *Phloeomana* übernommen worden ist. Zum anderen der [Nuss-Helmling *Mycena nucicola*](/pilze/mycena-nucicola-nuss-helmling), der auf abgefallenen Haselnüssen wächst.
+
+Hierzu wäre noch anzumerken, dass auch ein „echter“ Rindenhelmling auf nussartigen Früchten vorkommen kann. *Mycena adscendens* ([](/verwandt/rindenhelmlinge)[siehe Anhang dort](/pilze/mycena-adscendens-zarter-helmling-körniger-rindenhelmling)) wurde in einer Dietzenbacher Parkanlage mehrfach auf Rosskastanien nachgewiesen.
