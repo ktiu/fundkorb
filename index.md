@@ -18,6 +18,18 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.12.2023: Eine Gruppe von Pilzen, die wir heute bei unserer Weihnachtswanderung in der Nähe von Dietzenbach besuchen wollen, ist schon zu einer lokalen Berühmtheit geworden. Es sind die Ballerina-Pilze, über die in der Region schon mehrfach berichtet worden ist. Das Besondere an unserem aktuellen [Fundkorbpilz](AA "Glossar-"): auf die Idee, aus robusten Zunderschwämmen (*Fomes fomentarius*) grazile Tänzerinnen zu machen, muss man erst mal kommen. (Dieter Gewalt)
+
+[Mehr lesen >](/artikel/besuch-bei-den-ballerina-pilzen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/haareis_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
