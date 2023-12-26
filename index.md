@@ -12,8 +12,19 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und seine Pilze**\
-[Mehr lesen >](/termine)
+Neue Exkursionstermine gibt's im Neuen Jahr
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_epiphylloides_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.12.2023: Ausgedehnte Flächen mit Efeubewuchs am Boden und an Baumstämmen haben wir in unserer Parkanlage im Carré an der Dietzenbacher Rodgaustraße genug. Wenn‘s ausreichend feucht ist in den Spätherbst- und Wintermonaten findet man an abgefallenen und angemoderten Efeublättern unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Efeublatt-Schwindling *Marasmius epiphylloides*, manchmal in erstaunlichen Mengen. Da es sich um winzige Pilzchen handelt, muss man schon genau hinschauen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/marasmius-epiphylloides-efeublatt-schwindling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -36,30 +47,6 @@ Neuer Exkursionstermin: 26. Dezember 2023 10:00 Uhr: **Der Weihnachtswald und se
 25.12.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist genau genommen kein Pilz, sondern ein faszinierendes Phänomen, das von Pilzen verursacht wird. Es ist unter dem Namen „Haareis“  bekannt. Damit sich die haarfeinen Eisfäden quasi beim „Ausatmen“ bilden können, müssen Lufttemperaturen knapp unter 0°C sowie eine gewisse Luftfeuchtigkeit herrschen. Verursacher dieses durchaus zu Weihnachten passenden Phänomens könnte der [Wachskrustenpilz *Exidiopsis effusa*](/pilze/exidiopsis-effusa-rosagetönte-wachskruste) sein. (Dieter Gewalt)
 
 [Mehr lesen >](/artikel/haareis)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/weihnachtspilz_02_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-24.12.2023: Den heutigen [Fundkorbpilz](AA "Glossar-") hat der Weihnachtsmann persönlich präpariert. Er war in der Umgebung von Neu-Isenburg im Wald unterwegs und ist von Frank Kaster erwischt worden, wie er sich an einem Pilz zu schaffen machte. Was sich unter der roten Mütze verbirgt, dürfte unschwer zu erkennen sein. Es ist der Gemeine Steinpilz *Boletus edulis* und kein anderer seiner nicht immer leicht zu unterscheidenden nahen Verwandten.
-
-[Mehr lesen >](/pilze/boletus-edulis-gemeiner-steinpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/panellus_mitis_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-23.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Milde Zwergknäueling *Panellus mitis*. Seine weißen bis zu 3 cm breiten Fruchtkörper sind von gelatinöser Konsistenz sowie seitlich und nahezu stiellos an Nadelholzästen und -zweigen angewachsen, ganz überwiegend an Fichte. Sie können leicht mit mehreren anderen Pilzarten aus anderen Gattungen verwechselt werden, die alle ungenießbar sind, der [Ohrförmige Seitling](/pilze/pleurocybella-porrigens-ohrförmiger-seitling) sogar giftig (!)
-
-[Mehr lesen >](/pilze/panellus-mitis-milder-zwergknäueling)
 
 <div style="clear:  both"></div>
 
