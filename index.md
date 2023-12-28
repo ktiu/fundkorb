@@ -17,6 +17,18 @@ Neue Exkursionstermine gibt's im Neuen Jahr
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/baeospora_myosura_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mäuseschwanzrübling *Baeospora myosura*. Mit den Mäuseschwänzchen sind vermutlich die dünnen Stiele gemeint, mit denen sie auf ihrem Substrat wachsen. Dabei handelt es sich um Nadelbaumzapfen diverser Art. Laut Literatur von Kiefern und Fichten, seltener von Tannen, Lärchen oder Douglasien. Bei uns in einer Dietzenbacher Parkanlage sind sie auch auf Zapfenschuppen einer Zeder zu finden. Die Schuppen liegen hier nach dem raschen Zerfall der Zapfen einzeln aber dicht an dicht am Boden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/baeospora-myosura-mäuseschwanz-rübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_epiphylloides_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Neue Exkursionstermine gibt's im Neuen Jahr
 26.12.2023: Eine Gruppe von Pilzen, die wir heute bei unserer Weihnachtswanderung in der Nähe von Dietzenbach besuchen wollen, ist schon zu einer lokalen Berühmtheit geworden. Es sind die Ballerina-Pilze, über die in der Region schon mehrfach berichtet worden ist. Das Besondere an unserem aktuellen [Fundkorbpilz](AA "Glossar-"): auf die Idee, aus robusten Zunderschwämmen (*Fomes fomentarius*) grazile Tänzerinnen zu machen, muss man erst mal kommen. (Dieter Gewalt)
 
 [Mehr lesen >](/artikel/besuch-bei-den-ballerina-pilzen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/haareis_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.12.2023: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist genau genommen kein Pilz, sondern ein faszinierendes Phänomen, das von Pilzen verursacht wird. Es ist unter dem Namen „Haareis“  bekannt. Damit sich die haarfeinen Eisfäden quasi beim „Ausatmen“ bilden können, müssen Lufttemperaturen knapp unter 0°C sowie eine gewisse Luftfeuchtigkeit herrschen. Verursacher dieses durchaus zu Weihnachten passenden Phänomens könnte der [Wachskrustenpilz *Exidiopsis effusa*](/pilze/exidiopsis-effusa-rosagetönte-wachskruste) sein. (Dieter Gewalt)
-
-[Mehr lesen >](/artikel/haareis)
 
 <div style="clear:  both"></div>
 
