@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-27.12.2023: [Marasmius epiphylloides - Efeublatt-Schwindling](/pilze/marasmius-epiphylloides-efeublatt-schwindling)  
+28.12.2023: [Baeospora myosura - Mäuseschwanzrübling](/pilze/baeospora-myosura-mäuseschwanz-rübling)  
+27.12.2023: [Marasmius epiphylloides - Efeublatt-Schwindling](/pilze/marasmius-epiphylloides-efeublatt-schwindling)\
 26.12.2023: [Ballerina-Pilze](/artikel/besuch-bei-den-ballerina-pilzen)\
 25.12.2023: [Haareis](/artikel/haareis)\
 24.12.2023: [Boletus edulis - Gemeiner Steinpilz](/pilze/boletus-edulis-gemeiner-steinpilz)\
