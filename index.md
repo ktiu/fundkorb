@@ -17,6 +17,18 @@ Neue Exkursionstermine gibt's im Neuen Jahr
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/datronia_mollis_01_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+29.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Großsporige Datronie (*Datronia mollis*), die auch Weicher Resupinatporling genannt wird. Die Bezeichnung *„resupinat“* besagt, dass der an totem Laubholz ziemlich häufige Pilz flächig an seinem Substrat angewachsen ist. Er kann genau so gut abstehende Hutkanten ausbilden, weshalb die Beschreibung *„effus-reflex“* (resupinat mit abstehenden Hutkanten) realitätsnäher wäre. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/baeospora_myosura_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Neue Exkursionstermine gibt's im Neuen Jahr
 27.12.2023: Ausgedehnte Flächen mit Efeubewuchs am Boden und an Baumstämmen haben wir in unserer Parkanlage im Carré an der Dietzenbacher Rodgaustraße genug. Wenn‘s ausreichend feucht ist in den Spätherbst- und Wintermonaten findet man an abgefallenen und angemoderten Efeublättern unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Efeublatt-Schwindling *Marasmius epiphylloides*, manchmal in erstaunlichen Mengen. Da es sich um winzige Pilzchen handelt, muss man schon genau hinschauen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/marasmius-epiphylloides-efeublatt-schwindling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.12.2023: Eine Gruppe von Pilzen, die wir heute bei unserer Weihnachtswanderung in der Nähe von Dietzenbach besuchen wollen, ist schon zu einer lokalen Berühmtheit geworden. Es sind die Ballerina-Pilze, über die in der Region schon mehrfach berichtet worden ist. Das Besondere an unserem aktuellen [Fundkorbpilz](AA "Glossar-"): auf die Idee, aus robusten Zunderschwämmen (*Fomes fomentarius*) grazile Tänzerinnen zu machen, muss man erst mal kommen. (Dieter Gewalt)
-
-[Mehr lesen >](/artikel/besuch-bei-den-ballerina-pilzen)
 
 <div style="clear:  both"></div>
 
