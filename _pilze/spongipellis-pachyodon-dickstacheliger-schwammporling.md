@@ -19,6 +19,10 @@ literatur:
 ---
 *Spongipellis pachyodon* ist ein Pilz, den ich oft auf Abbildungen gesehen habe. Daher habe ich ihn sofort erkannt, als ich ihn zum ersten Mal *in natura* sah. Das war am 8. Februar 2020 im Wald am Falltorhaus an der B44 zwischen Mörfelden und Groß-Gerau (TK 6017.3.1), wo er großflächig mit zahlreichen Hüten an einem toten, noch stehenden Buchenstamm wuchs. Sein Erscheinungsbild macht ihn nahezu unverwechselbar.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/spongipellis_pachyodon_06_eh.jpg.jpg" %}
+{% include abbildung_ende.html legende="Foto: Erik Hock" %}
+
 Schwammporlinge sind mit den Saftporlingen verwandt und alle drei in Deutschland bekannten Arten gelten als (sehr) selten. In Hessen sind lediglich 9 Fundstellen bekannt, davon 6 im Rhein-Main-Gebiet, so dass man hier fast schon von einem Verbreitungsschwerpunkt sprechen könnte. Auch *Werner Pohl* war der Pilz bekannt. Er berichtete von vereinzelten Streufunden, die seit etwa 1983 aus der Umgebung von Darmstadt und Frankfurt gemeldet wurden. *Thomas Lehr* fand ihn 2007 in einem schattigen Buchen-Hainbuchen-Hangwald bei Hofheim am Taunus.
 
 Innerhalb der Gattung *Spongipellis* fällt die Art vor allem durch ihr breitstacheliges (auch *irpicoid* genanntes) [Hymenophor](Hymenophor "Glossar") auf, wohingegen das der beiden anderen porig oder labyrintisch-porig ist.
