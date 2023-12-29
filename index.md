@@ -17,6 +17,18 @@ Neue Exkursionstermine gibt's im Neuen Jahr
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_macropus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.12.2023: Die zur Zeit vorherrschende feuchtmilde Witterung lässt auch Pilzarten erscheinen, die man zur aktuellen Jahreszeit nicht erwartet. So auch der Graue Langfüßler *Helvella macropus*, der uns an einem Waldwegrand nahe Dietzenbach aufgefallen und daher unser heutiger [Fundkorbpilz](AA "Glossar-") ist. Er gehört zu den Schlauchpilzen, die ihre Sporen nicht an Ständern (Basidien) sondern in Schläuchen (Asci) bilden. Um ihn sicher von ähnlichen Arten zu unterscheiden, sollte man die Sporenmaße beachten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/helvella-macropus-grauer-langfüßler)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/datronia_mollis_01_wp.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Neue Exkursionstermine gibt's im Neuen Jahr
 28.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mäuseschwanzrübling *Baeospora myosura*. Mit den Mäuseschwänzchen sind vermutlich die dünnen Stiele gemeint, mit denen sie auf ihrem Substrat wachsen. Dabei handelt es sich um Nadelbaumzapfen diverser Art. Laut Literatur von Kiefern und Fichten, seltener von Tannen, Lärchen oder Douglasien. Bei uns in einer Dietzenbacher Parkanlage sind sie auch auf Zapfenschuppen einer Zeder zu finden. Die Schuppen liegen hier nach dem raschen Zerfall der Zapfen einzeln aber dicht an dicht am Boden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/baeospora-myosura-mäuseschwanz-rübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_epiphylloides_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.12.2023: Ausgedehnte Flächen mit Efeubewuchs am Boden und an Baumstämmen haben wir in unserer Parkanlage im Carré an der Dietzenbacher Rodgaustraße genug. Wenn‘s ausreichend feucht ist in den Spätherbst- und Wintermonaten findet man an abgefallenen und angemoderten Efeublättern unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Efeublatt-Schwindling *Marasmius epiphylloides*, manchmal in erstaunlichen Mengen. Da es sich um winzige Pilzchen handelt, muss man schon genau hinschauen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/marasmius-epiphylloides-efeublatt-schwindling)
 
 <div style="clear:  both"></div>
 
