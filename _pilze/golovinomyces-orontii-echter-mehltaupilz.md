@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Golovinomyces orontii
-  deutsch: Echter Mehltaupilz
+  deutsch: Echter Immergrün-Mehltaupilz
   referenz: (Castagne) V.P. Heluta 1988
   familie: Erysiphaceae
 profil:
