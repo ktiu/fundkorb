@@ -17,6 +17,10 @@ Hier geht's zur [Anmeldung >](/termine)
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/panellus_serotinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 31.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-")ist der Gelbstielige Muschelseitling *Panellus serotinus*. Er wächst manchmal gemeinsam mit [Austernseitlingen](/pilze/pleurotus-ostreatus-austernseitling) am selben Buchenstamm und soll sogar schon mit diesem verwechselt worden sein. Das wäre fast schon so, als könnte man einen Apfel nicht von einer Orange unterscheiden. Schlimme Folgen hätte die Verwechslung nicht, aber ein Pilzgenuss wäre der Gelbstielige Muschelseitling sicher  nicht. (Dieter Gewalt)
 
 [Mehr lesen > ](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)
