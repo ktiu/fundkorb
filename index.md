@@ -12,7 +12,16 @@ footer_scripts:
 
 - - -
 
-Neue Exkursionstermine gibt's im Neuen Jahr
+Neuer Exkursionstermin Sonntag, 7. Januar 2024 10;00 Uhr: **Der Wald und seine Pilze im Januar**\
+Hier geht's zur [Anmeldung >](/termine)
+
+- - -
+
+31.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-")ist der Gelbstielige Muschelseitling *Panellus serotinus*. Er wächst manchmal gemeinsam mit [Austernseitlingen](/pilze/pleurotus-ostreatus-austernseitling) am selben Buchenstamm und soll sogar schon mit diesem verwechselt worden sein. Das wäre fast schon so, als könnte man einen Apfel nicht von einer Orange unterscheiden. Schlimme Folgen hätte die Verwechslung nicht, aber ein Pilzgenuss wäre der Gelbstielige Muschelseitling sicher  nicht. (Dieter Gewalt)
+
+[Mehr lesen > ](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -35,18 +44,6 @@ Neue Exkursionstermine gibt's im Neuen Jahr
 29.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Großsporige Datronie (*Datronia mollis*), die auch Weicher Resupinatporling genannt wird. Die Bezeichnung *„resupinat“* besagt, dass der an totem Laubholz ziemlich häufige Pilz flächig an seinem Substrat angewachsen ist. Er kann genau so gut abstehende Hutkanten ausbilden, weshalb die Beschreibung *„effus-reflex“* (resupinat mit abstehenden Hutkanten) realitätsnäher wäre. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/baeospora_myosura_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mäuseschwanzrübling *Baeospora myosura*. Mit den Mäuseschwänzchen sind vermutlich die dünnen Stiele gemeint, mit denen sie auf ihrem Substrat wachsen. Dabei handelt es sich um Nadelbaumzapfen diverser Art. Laut Literatur von Kiefern und Fichten, seltener von Tannen, Lärchen oder Douglasien. Bei uns in einer Dietzenbacher Parkanlage sind sie auch auf Zapfenschuppen einer Zeder zu finden. Die Schuppen liegen hier nach dem raschen Zerfall der Zapfen einzeln aber dicht an dicht am Boden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/baeospora-myosura-mäuseschwanz-rübling)
 
 <div style="clear:  both"></div>
 
