@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2023
 vorschaubild: ""
 published: true
 ---
-30.12.2023: [Helvella macropus - Grauer Langfüßler](/pilze/helvella-macropus-grauer-langfüßler)  
+31.12.2023: [Panellus serotinus - Gelbstieliger Muschelseitling](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)  
+30.12.2023: [Helvella macropus - Grauer Langfüßler](/pilze/helvella-macropus-grauer-langfüßler)\
 29.12.2023: [Datronia mollis - Großsporige Datronie, Weicher Resupinatporling](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)\
 28.12.2023: [Baeospora myosura - Mäuseschwanzrübling](/pilze/baeospora-myosura-mäuseschwanz-rübling)\
 27.12.2023: [Marasmius epiphylloides - Efeublatt-Schwindling](/pilze/marasmius-epiphylloides-efeublatt-schwindling)\
