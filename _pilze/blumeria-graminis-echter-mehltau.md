@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Blumeria graminis
-  deutsch: Echter Mehltau
+  deutsch: Echter Gras-Mehltau
   referenz: (DC.) Speer 1975
   familie: Erysiphaceae
   synonym: "Synonym: Erysiphe graminis"
