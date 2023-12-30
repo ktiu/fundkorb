@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Bremia lactucae
-  deutsch: Falscher Mehltau
+  deutsch: Falscher Salat-Mehltau
   referenz: Regel, Bot.Ztg. 1843
   familie: Peronosporaceae
   erlaeuterung: lactuca = Lattich (Salatpflanze)
