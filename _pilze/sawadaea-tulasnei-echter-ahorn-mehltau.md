@@ -29,3 +29,5 @@ Auf Berg- und Feldahorn findet sich in erster Linie der Mehltaupilz *Sawadaea bi
 [Gnomonia cerastis](/pilze/gnomonia-cerastis-geschnäbelter-ahornkugelpilz)  =  Geschnäbelter Ahornkugelpilz  
 [Pyrenopeziza petiolaris](/pilze/pyrenopeziza-petiolaris-blattstiel-spaltbecherchen)  =  Blattstiel-Spaltbecherchen  
 [Rhytisma acerinum](/pilze/rhytisma-acerinum-ahorn-runzelschorf)	=  Ahorn-Runzelschorf
+
+Mehr zum Thema [Mehltaupilze >](/verwandt/mehltaupilze)
