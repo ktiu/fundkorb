@@ -31,3 +31,5 @@ Weitere im Fundkorb vorgestellte Mehltauarten sind:
 [Erysiphe alphitoides](/pilze/erysiphe-alphitoides-eichen-mehltau)  
 [Microsphaera berberidis](/pilze/microsphaera-berberidis-mahonien-mehltau)  
 [Sawadaea tulasnei](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau)
+
+Mehr zum Thema [Mehltaupilze >](/verwandt/mehltaupilze)
