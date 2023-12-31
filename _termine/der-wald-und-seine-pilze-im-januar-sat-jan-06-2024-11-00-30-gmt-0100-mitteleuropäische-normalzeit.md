@@ -1,6 +1,6 @@
 ---
 aktivitaet: Der Wald und seine Pilze im Januar
-zeit: 2024-01-06T10:00:30.114Z
+zeit: 2024-01-07T10:00:30.114Z
 bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
