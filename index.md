@@ -21,7 +21,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/spongipellis_pachyodon_06_eh.jpg.jpg" %}
 {% include abbildung_ende.html %}
 
-01.01.2024: Unseren ersten aktuellen [Fundkorbpilz](AA "Glossar-") des Jahres hat *Erik Hock* an einem Waldwegrand zwischen Babenhausen und Dudenhofen entdeckt. Eine seltene Art wie den Dickstacheligen Schwammporling *Spongiporus pachyodon* zu finden, ist immer ein Ausrufungszeichen wert. Das Prachtstück wuchs seitlich an einem liegenden Buchenstamm. Der Pilz ist an seinen breiten vielfach zerschlitzten Stacheln gut zu erkennen und von vielleicht ähnlich aussehenden Stachelbärten (Gattung *Hericium*) zweifelsfrei zu unterscheiden.
+01.01.2024: Unseren ersten aktuellen [Fundkorbpilz](AA "Glossar-") des Jahres hat *Erik Hock* an einem Waldwegrand zwischen Babenhausen und Dudenhofen entdeckt. Eine seltene Art wie den Dickstacheligen Schwammporling *Spongipellis pachyodon* zu finden, ist immer ein Ausrufungszeichen wert. Das Prachtstück wuchs seitlich an einem liegenden Buchenstamm. Der Pilz ist an seinen breiten vielfach zerschlitzten Stacheln gut zu erkennen und von vielleicht ähnlich aussehenden Stachelbärten (Gattung *Hericium*) zweifelsfrei zu unterscheiden.
 
 [Mehr lesen >](/pilze/spongipellis-pachyodon-dickstacheliger-schwammporling)
 
