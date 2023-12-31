@@ -30,3 +30,5 @@ Es ist nicht leicht, im Internet Informationen zu dieser Art zu finden. Es exist
 
 Bessere Informationen erhält man auf:\
 <http://www.arbofux.de/echter-mehltau-an-mahonie.html>
+
+Mehr zum Thema [Mehltaupilze >](/verwandt/mehltaupilze)
