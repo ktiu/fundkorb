@@ -18,6 +18,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/spongipellis_pachyodon_06_eh.jpg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.01.2024: Unseren ersten aktuellen [Fundkorbpilz](AA "Glossar-") des Jahres hat *Erik Hock* an einem Waldwegrand zwischen Babenhausen und Dudenhofen entdeckt. Eine seltene Art wie den Dickstacheligen Schwammporling *Spongiporus pachyodon* zu finden, ist immer ein Ausrufungszeichen wert. Das Prachtstück wuchs seitlich an einem liegenden Buchenstamm. Der Pilz ist an seinen breiten vielfach zerschlitzten Stacheln gut zu erkennen und von vielleicht ähnlich aussehenden Stachelbärten (Gattung *Hericium*) zweifelsfrei zu unterscheiden.
+
+[Mehr lesen >](/pilze/spongipellis-pachyodon-dickstacheliger-schwammporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/panellus_serotinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Hier geht's zur [Anmeldung >](/termine)
 30.12.2023: Die zur Zeit vorherrschende feuchtmilde Witterung lässt auch Pilzarten erscheinen, die man zur aktuellen Jahreszeit nicht erwartet. So auch der Graue Langfüßler *Helvella macropus*, der uns an einem Waldwegrand nahe Dietzenbach aufgefallen und daher unser heutiger [Fundkorbpilz](AA "Glossar-") ist. Er gehört zu den Schlauchpilzen, die ihre Sporen nicht an Ständern (Basidien) sondern in Schläuchen (Asci) bilden. Um ihn sicher von ähnlichen Arten zu unterscheiden, sollte man die Sporenmaße beachten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/helvella-macropus-grauer-langfüßler)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/datronia_mollis_01_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-29.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Großsporige Datronie (*Datronia mollis*), die auch Weicher Resupinatporling genannt wird. Die Bezeichnung *„resupinat“* besagt, dass der an totem Laubholz ziemlich häufige Pilz flächig an seinem Substrat angewachsen ist. Er kann genau so gut abstehende Hutkanten ausbilden, weshalb die Beschreibung *„effus-reflex“* (resupinat mit abstehenden Hutkanten) realitätsnäher wäre. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)
 
 <div style="clear:  both"></div>
 
