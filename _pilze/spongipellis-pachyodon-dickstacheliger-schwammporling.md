@@ -21,7 +21,7 @@ literatur:
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/spongipellis_pachyodon_06_eh.jpg.jpg" %}
-{% include abbildung_ende.html legende="Foto: Erik Hock" %}
+{% include abbildung_ende.html legende="Ende Dezember 2023 zwischen Babenhausen und Rodgau-Dudenhofen an einem liegenden Buchenstamm gefunden und fotografiert von Erik Hock" %}
 
 Schwammporlinge sind mit den Saftporlingen verwandt und alle drei in Deutschland bekannten Arten gelten als (sehr) selten. In Hessen sind lediglich 9 Fundstellen bekannt, davon 6 im Rhein-Main-Gebiet, so dass man hier fast schon von einem Verbreitungsschwerpunkt sprechen könnte. Auch *Werner Pohl* war der Pilz bekannt. Er berichtete von vereinzelten Streufunden, die seit etwa 1983 aus der Umgebung von Darmstadt und Frankfurt gemeldet wurden. *Thomas Lehr* fand ihn 2007 in einem schattigen Buchen-Hainbuchen-Hangwald bei Hofheim am Taunus.
 
