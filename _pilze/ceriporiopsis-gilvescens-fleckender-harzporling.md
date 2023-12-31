@@ -21,4 +21,8 @@ Der „Fleckende Harzporling“ oder auch „Fleckender Wachsporenschwamm"   *Ce
 
 Auf Druck verfärben sich die ziemlich weichen, weißlich-rosa bis fleischfarbenen Poren bräunlich. Die generativen [Hyphen](Hyphen "Glossar") der Art besitzen Schnallen. Verwechseln kann man sie mit Arten aus der (schnallenlosen) Gattung *Ceriporia*; vieleicht auch mit stärker gefärbten Exemplaren des Rosafarbenen Saftporling (*Oligoporus placentus*), der allerdings nur an Nadelholz wächst. Die Art ist in der BRD ziemlich selten und in Hessen nur südlich der Mainlinie etwas häufiger.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/ceriporiopsis_gilvescens_02_wp.jpg" %}
+{% include abbildung_ende.html %}
+
 Die abgebildeten Fruchtkörper stammen von Funden im März 2006 und Januar 2007 und wuchsen ausgedehnt an der unteren Seite eines toten, völlig vermorschten Buchenstamms im westlichen Frankfurter Stadtwald.
