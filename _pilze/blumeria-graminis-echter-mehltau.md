@@ -23,6 +23,10 @@ Echter Mehltau ist der zu den Schlauchpilzen (Ascomyzeten) gehörende Erreger, d
 
 Hoher Stickstoffeintrag auf landwirtschaftlich genutzten Flächen erhöht die Infektionsgefahr und kann, wenn auch die Ähren befallen werden, zu Ertragsverlusten führen. In der ökologischen Bewirtschaftung stellt der Echte Mehltau durch Vermeidung von Stickstoff-Überdüngung kaum ein Problem dar.  
 
-Echter Mehltau ist intakten Ökosystemen ein lebenswichtiger Nahrungslieferant für Marienkäfer.
+Echter Mehltau ist in intakten Ökosystemen ein lebenswichtiger Nahrungslieferant für Marienkäfer.
 
-Andere Mehltaupilze sind zum Beispiel der [Falsche Mehltau (Bremia lactucae),](/pilze/bremia-lactucae-falscher-mehltau) der [Mahonien-Mehltau (Microsphaera berberidis)](/pilze/microsphaera-berberidis-mahonien-mehltau), der [Eichen-Mehltau (Microsphaera alphitoides)](/pilze/microsphaera-alphitoides-eichenmehltau) oder der [Echte Ahorn-Mehltau (Sawadaea tulasnei)](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau).
+Andere Mehltaupilze sind zum Beispiel  
+der [Falsche Mehltau (Bremia lactucae)](/pilze/bremia-lactucae-falscher-mehltau)  
+der [Mahonien-Mehltau (Microsphaera berberidis)](/pilze/microsphaera-berberidis-mahonien-mehltau)  
+der [Eichen-Mehltau (Microsphaera alphitoides)](/pilze/microsphaera-alphitoides-eichenmehltau)  
+oder der [Echte Ahorn-Mehltau (Sawadaea tulasnei)](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau).
