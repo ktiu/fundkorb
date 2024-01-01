@@ -18,6 +18,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_filopes_13_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+02.01.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-") kommt heute aus Bayern, genauer aus einem kleinen Mischwald bei Laimbach nördlich von München. Es ist der Zerbrechliche Fadenhelmling *Mycena filopes*. Wir fanden eine Gruppe mit grauen Hüten in einer Fichtenstreu, die offenbar vom Nachtfrost verschont geblieben war. Für die Bestimmung auf Artebene mussten wir allerdings mikroskopieren. Zu groß ist das Spektrum ähnlich aussehender Helmlinge, einer artenreichen Gattung mit über 100 Arten allein in Deutschland. Alle relevanten Mikromerkmale sprachen für *Mycena filopes*, die wir im letzten Jahr im gleichen Wald jedoch auf Fichtenzweigen gefunden hatten. (Johann Rejek)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/spongipellis_pachyodon_06_eh.jpg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Hier geht's zur [Anmeldung >](/termine)
 31.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-")ist der Gelbstielige Muschelseitling *Panellus serotinus*. Er wächst manchmal gemeinsam mit [Austernseitlingen](/pilze/pleurotus-ostreatus-austernseitling) am selben Buchenstamm und soll sogar schon mit diesem verwechselt worden sein. Das wäre fast schon so, als könnte man einen Apfel nicht von einer Orange unterscheiden. Schlimme Folgen hätte die Verwechslung nicht, aber ein Pilzgenuss wäre der Gelbstielige Muschelseitling sicher  nicht. (Dieter Gewalt)
 
 [Mehr lesen > ](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_macropus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.12.2023: Die zur Zeit vorherrschende feuchtmilde Witterung lässt auch Pilzarten erscheinen, die man zur aktuellen Jahreszeit nicht erwartet. So auch der Graue Langfüßler *Helvella macropus*, der uns an einem Waldwegrand nahe Dietzenbach aufgefallen und daher unser heutiger [Fundkorbpilz](AA "Glossar-") ist. Er gehört zu den Schlauchpilzen, die ihre Sporen nicht an Ständern (Basidien) sondern in Schläuchen (Asci) bilden. Um ihn sicher von ähnlichen Arten zu unterscheiden, sollte man die Sporenmaße beachten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/helvella-macropus-grauer-langfüßler)
 
 <div style="clear:  both"></div>
 
