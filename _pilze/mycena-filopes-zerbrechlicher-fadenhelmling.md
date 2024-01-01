@@ -48,6 +48,10 @@ Das Besondere an diesem Fund von *Johann Rejek* und *Veronika Ziegltrum*: die He
 
 *Bernd Miggel* konnte den bayerischen Fund schließlich anhand mikroskopischer Merkmale als *Mycena filopes* bestimmen, wobei auch die makroskopischen zur Diagnose passten.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/mycena_filopes_13_jr.jpg" %}
+{% include abbildung_ende.html legende="Mycena filopes in der Nadelstreu am Boden (Foto: Johann Rejek)" %}
+
 ##### Makroskopische Merkmale:
 
 **Hut:** bis 12 (-15) mm im Durchmesser, glockig, kegelig, hell graubraun mit dunklerer Mitte, manchmal mit kleinem Buckel; Rand gerieft, Hut in Draufsicht daher am Rand zackig erscheinend\
@@ -64,9 +68,9 @@ Stielbasis weißfilzig-striegelig\
 {% include bild.html datei="/bilder/mycena_filopes_06_bm.jpg" %}
 {% include abbildung_ende.html legende="Sporen in Wasser mit wenig Phloxin  (alle Mikrofotos von Bernd Miggel)" %}
 
-**Sporen:** ellipsoid, glatt, hyalin und nach der Fachliteratur amyloid. Maße von 49 repräsentativen Sporen: 7,9 - 10,2 x 4,6 - 5,8 µm (Mittelwert: 8,9 - 9,2 x 5,1 - 5,3 µm)  
-**Basidien:** schmalkeulig, z.B. 25 x 7 µm groß, mit vielfach 2, verschiedentlich aber auch 4 Sterigmen. Die Sterigmenzahl scheint auf den ersten Blick keinen Einfluss auf die Sporengröße zu haben. Basidien kommen nur auf der Lamellenfläche vor. Die Schneide ist also steril.  
-**Hyphensystem:** monomitisch; die Hyphen etc. haben an den Septen Schnallen  
+**Sporen:** ellipsoid, glatt, hyalin und nach der Fachliteratur amyloid. Maße von 49 repräsentativen Sporen: 7,9 - 10,2 x 4,6 - 5,8 µm (Mittelwert: 8,9 - 9,2 x 5,1 - 5,3 µm)\
+**Basidien:** schmalkeulig, z.B. 25 x 7 µm groß, mit vielfach 2, verschiedentlich aber auch 4 Sterigmen. Die Sterigmenzahl scheint auf den ersten Blick keinen Einfluss auf die Sporengröße zu haben. Basidien kommen nur auf der Lamellenfläche vor. Die Schneide ist also steril.\
+**Hyphensystem:** monomitisch; die Hyphen etc. haben an den Septen Schnallen\
 **Cheilozystiden:** bilden einen dichten Rasen (steriles Band), sind überwiegend verkehrt birnenförmig und meist gestielt. Es kommen aber auch viele sitzende, d. h. ungestielte Cheilozystiden vor. Allgemein kann man sagen, dass ihre Form und auch die igelstachelige Oberflächenstruktur außerordentlich variabel sind. Die Variabilität bezieht sich auch auch die Größe. So wurden an einem einzigen Lamellenschneidenfragment Längen zwischen 10 und 80 µm gemessen
 
 {% include abbildung_start.html stil="standard" %}
