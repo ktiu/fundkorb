@@ -23,7 +23,7 @@ Hier geht's zur [Anmeldung >](/termine)
 
 02.01.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-") kommt heute aus Bayern, genauer aus einem kleinen Mischwald bei Laimbach nördlich von München. Es ist der Zerbrechliche Fadenhelmling *Mycena filopes*. Wir fanden eine Gruppe mit grauen Hüten in einer Fichtenstreu, die offenbar vom Nachtfrost verschont geblieben war. Für die Bestimmung auf Artebene mussten wir allerdings mikroskopieren. Zu groß ist das Spektrum ähnlich aussehender Helmlinge, einer artenreichen Gattung mit über 100 Arten allein in Deutschland. Alle relevanten Mikromerkmale sprachen für *Mycena filopes*, die wir im letzten Jahr im gleichen Wald jedoch auf Fichtenzweigen gefunden hatten. (Johann Rejek)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/mycena-filopes-zerbrechlicher-fadenhelmling)
 
 <div style="clear:  both"></div>
 
