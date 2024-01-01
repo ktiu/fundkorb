@@ -14,7 +14,7 @@ Man unterscheidet Echte und Falsche Mehltaupilze. Die „Echten“ gehören zu d
 
 Beginnen wir mit den „Echten“ Mehltaupilzen (*Erysiphales*), die wir wohl alle kennen, mit denen wir aber möglichst nichts zu tun haben wollen. Sie kommen ganz überwiegend auf jeweils nur einer Wirtspflanzenart vor. Eine sehr häufige Spezies, der [Eichen-Mehltau *Erysiphe alphitoides*](/pilze/erysiphe-alphitoides-eichen-mehltau), ist also nur auf Eichenblättern zu finden, der ebenso häufige [Echte Ahorn-Mehltau *Sawadaea tulasnei*](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau) nur auf Blättern von Spitzahorn.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/erysiphe_alphitoides_01_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/sawadaea_tulasnei_01_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Erysiphe alphitoides -- Sawadaea tulasnei" %}
