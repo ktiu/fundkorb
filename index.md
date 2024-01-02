@@ -18,6 +18,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hericium_erinaceum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Igel-Stachelbart *Hericium erinaceum*. Zum Glück wächst er an der wegabgewandten Seite eines Baumstamms, sonst wäre er vermutlich längst von unwissenden und der Natur gegenüber respektlosen Spaziergängern abgeschlagen worden, wie man es in der näheren Umgebung von Frankfurt schon desöfteren bei auffälligen aber schützenswerten Pilzen erlebt hat. Entdeckt hatten wir ihn schon Ende November, als er noch etwas kleiner war. Jetzt dürfte er sein optimales Entwicklungsstadium erreicht haben. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hericium-erinaceum-igel-stachelbart)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_filopes_13_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -41,23 +53,9 @@ Hier geht's zur [Anmeldung >](/termine)
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/panellus_serotinus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.12.2023: Aktueller [Fundkorbpilz](AA "Glossar-")ist der Gelbstielige Muschelseitling *Panellus serotinus*. Er wächst manchmal gemeinsam mit [Austernseitlingen](/pilze/pleurotus-ostreatus-austernseitling) am selben Buchenstamm und soll sogar schon mit diesem verwechselt worden sein. Das wäre fast schon so, als könnte man einen Apfel nicht von einer Orange unterscheiden. Schlimme Folgen hätte die Verwechslung nicht, aber ein Pilzgenuss wäre der Gelbstielige Muschelseitling sicher  nicht. (Dieter Gewalt)
-
-[Mehr lesen > ](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)
-
-<div style="clear:  both"></div>
-
-- - -
-
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
-
-[Liste aller aktuellen Fundkorbpilze 2022](/artikel/liste-aller-aktuellen-fundkorbpilze-2022.html)
 
 - - -
 
