@@ -18,6 +18,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_meliigena_02_uvs.jpg" %}
+{% include abbildung_ende.html %}
+
+04.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rötliche Rindenhelmling *Mycena meliigena*. In unserer Dietzenbacher Parkanlage ist er vor allem in der kalten Jahreszeit immer mal wieder an Weiden und Ahornbäumen zu beobachten. Die oft nur winzig kleinen Pilzchen sind leicht zu übersehen. Um sie zu finden, sollte man vor allem an bemoosten Rindenflächen an stehenden Laubbäumen nach ihnen Ausschau halten.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-meliigena-rötlicher-rindenhelmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hericium_erinaceum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
