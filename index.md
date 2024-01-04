@@ -18,6 +18,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lycoperdon_perlatum_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.01.2024: So sehen Flaschenstäublinge aus, die überwintert haben. Unser aktueller [Fundkorbpilz](AA "Glossar-") wächst frisch in den Monaten Juli bis November, seine Fruchtkörper können aber selbst strenge Winter überstehen. Dabei gehen zwar die Stacheln des Flaschenstäublings (*Lycoperdon perlatum*) verloren, aber im Inneren sind oft noch massenhaft Sporen vorhanden. Kinder helfen ihnen bereitwillig, den Sporenstaub freizusetzen und nennen sie daher *„Puff-“* oder „*Staubbombenpilze“*. Sie treten einfach mal drauf, was auch manche Erwachsene tun. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lycoperdon-perlatum-flaschenstäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_meliigena_02_uvs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,32 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 [Mehr lesen >](/pilze/hericium-erinaceum-igel-stachelbart)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_filopes_13_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-02.01.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-") kommt heute aus Bayern, genauer aus einem kleinen Mischwald bei Laimbach nördlich von München. Es ist der Zerbrechliche Fadenhelmling *Mycena filopes*. Wir fanden eine Gruppe mit grauen Hüten in einer Fichtenstreu, die offenbar vom Nachtfrost verschont geblieben war. Für die Bestimmung auf Artebene mussten wir allerdings mikroskopieren. Zu groß ist das Spektrum ähnlich aussehender Helmlinge, einer artenreichen Gattung mit über 100 Arten allein in Deutschland. Alle relevanten Mikromerkmale sprachen für *Mycena filopes*, die wir im letzten Jahr im gleichen Wald jedoch auf Fichtenzweigen in Augenhöhe gefunden hatten. (Johann Rejek)
-
-[Mehr lesen >](/pilze/mycena-filopes-zerbrechlicher-fadenhelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/spongipellis_pachyodon_06_eh.jpg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.01.2024: Unseren ersten aktuellen [Fundkorbpilz](AA "Glossar-") des Jahres hat *Erik Hock* an einem Waldwegrand zwischen Babenhausen und Dudenhofen entdeckt. Eine seltene Art wie den Dickstacheligen Schwammporling *Spongipellis pachyodon* zu finden, ist immer ein Ausrufungszeichen wert. Das Prachtstück wuchs seitlich an einem liegenden Buchenstamm. Der Pilz ist an seinen breiten vielfach zerschlitzten Stacheln gut zu erkennen und von vielleicht ähnlich aussehenden Stachelbärten (Gattung *Hericium*) zweifelsfrei zu unterscheiden.
-
-[Mehr lesen >](/pilze/spongipellis-pachyodon-dickstacheliger-schwammporling)
-
-<div style="clear:  both"></div>
-
-- - -
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
