@@ -18,6 +18,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_brumalis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Winterporling *Polyporus brumalis*, der inzwischen in die Gattung *Lentinus* umgesiedelt worden ist. Der deutsche Name verrät etwas über seine Erscheinungszeit. Ab Mai könnte er mit dem [Maiporling](/pilze/polyporus-ciliatus-maiporling) verwechselt werden, der aber sehr viel kleinere Poren hat. Beim Winterporling sind es etwa 2 pro Milimeter und sie  sind rautenartig geformt. Gefunden haben wir ihn am Hackensee bei München, er dürfte jetzt aber überall in Deutschland an toten Laubhölzern wachsen. (Johann Rejek)
+
+[Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lycoperdon_perlatum_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -40,16 +52,6 @@ Hier geht's zur [Anmeldung >](/termine)
 <div style="clear:  both"></div>
 
 - - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hericium_erinaceum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Igel-Stachelbart *Hericium erinaceum*. Zum Glück wächst er an der wegabgewandten Seite eines Baumstamms, sonst wäre er vermutlich längst von unwissenden und der Natur gegenüber respektlosen Spaziergängern abgeschlagen worden, wie man es in der näheren Umgebung von Frankfurt schon desöfteren bei auffälligen aber schützenswerten Pilzen erlebt hat. Entdeckt hatten wir ihn schon Ende November, als er noch etwas kleiner war. Jetzt dürfte er sein optimales Entwicklungsstadium erreicht haben. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hericium-erinaceum-igel-stachelbart)
-
-<div style="clear:  both"></div>
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
