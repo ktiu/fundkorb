@@ -21,7 +21,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/lycoperdon_perlatum_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-05.01.2024: So sehen Flaschenstäublinge aus, die überwintert haben. Unser aktueller [Fundkorbpilz](AA "Glossar-") wächst frisch in den Monaten Juli bis November, seine Fruchtkörper können aber selbst strenge Winter überstehen. Dabei gehen zwar die Stacheln des Flaschenstäublings (*Lycoperdon perlatum*) verloren, aber im Inneren sind oft noch massenhaft Sporen vorhanden. Kinder helfen ihnen bereitwillig, den Sporenstaub freizusetzen und nennen sie daher *„Puff-“* oder „*Staubbombenpilze“*. Sie treten einfach mal drauf, was auch manche Erwachsene tun. (Dieter Gewalt)
+05.01.2024: So sehen Flaschenstäublinge (*Lycoperdon perlatum*) aus, die überwintert haben. Unser aktueller [Fundkorbpilz](AA "Glossar-") wächst frisch in den Monaten Juli bis November, seine Fruchtkörper können aber selbst strenge Winter überstehen. Dabei gehen zwar die Stacheln  verloren, aber im Inneren sind oft noch massenhaft Sporen vorhanden. Kinder helfen ihnen bereitwillig, den Sporenstaub freizusetzen und nennen sie daher *„Puff-“* oder „*Staubbombenpilze“*. Sie treten einfach mal drauf, was auch manche Erwachsene tun. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lycoperdon-perlatum-flaschenstäubling)
 
