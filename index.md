@@ -18,6 +18,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tubaria_furfuracea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Trompetenschnitzling *Tubaria furfuracea*. Seit er mit dem kaum unterscheidbaren Winter-Trompetenschnitzling *Tubaria hiemalis* zu einer Art vereinigt worden ist, gibt es keine Jahreszeit mehr, in der dieser ungemein häufige aber wenig beachtete Pilz nicht vorkommt. Wir haben ihn aktuell am Hackensee bei München gefunden. (Johann Rejek)
+
+[Mehr lesen >](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_brumalis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
