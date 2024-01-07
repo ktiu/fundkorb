@@ -24,6 +24,6 @@ Der Belag setzt sich aus zahllosen Einzelfruchtkörpern zusammen, die etwa 0,3 b
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hypomyces_aurantius_03_dg.jpg" %}
-{% include abbildung_ende.html legende="16.02.2023 nahe Dietzenbach: Hypomyces aurantius auf Fruchtkörpern des Zweifarbigen Krustenschichtpilzes Laxitextum bicolor" %}
+{% include abbildung_ende.html legende="Hypomyces aurantius auf der Porenschicht eines Birkenporlings" %}
 
 Ein anderer Vertreter der Gattung,  *Hypomyces chrysospermus*, ist den meisten Pilzsammlern als Goldschimmel bekannt, der u. a. Röhrlinge befällt und sie ungenießbar und gesundheitsschädigend macht.
