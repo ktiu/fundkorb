@@ -12,8 +12,15 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin Sonntag, 7. Januar 2024 10;00 Uhr: **Der Wald und seine Pilze im Januar**\
-Hier geht's zur [Anmeldung >](/termine)
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/terana_caerulea_04_eh.jpg" %}
+{% include abbildung_ende.html %}
+
+08.01.2024: Der Blaue Rindenpilz *Terana caerulea* war bei unserer gestrigen Exkursion am Dornsee bei Dietzenbach der Hingucker des Tages und ist natürlich der heutige aktuelle [Fundkorbpilz](AA "Glossar-"). Nicht nur wegen seiner Seltenheit, sondern auch wegen seiner wunderschönen blauen Farbe, die im Pilzreich sehr selten ist und ihn unverwechselbar macht. Das Foto ist von *Erik Hock*, der ihn in dieser ungewöhnlichen Wuchsform am 11. Dezember 2023 im Gernsheimer Wald gefunden hat.
+
+[Mehr lesen >](/pilze/terana-caerulea-blauer-rindenpilz)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -36,30 +43,6 @@ Hier geht's zur [Anmeldung >](/termine)
 06.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Winterporling *Polyporus brumalis*, der inzwischen in die Gattung *Lentinus* umgesiedelt worden ist. Der deutsche Name verrät etwas über seine Erscheinungszeit. Ab Mai könnte er mit dem [Maiporling](/pilze/polyporus-ciliatus-maiporling) verwechselt werden, der aber sehr viel kleinere Poren hat. Beim Winterporling sind es etwa 2 pro Milimeter und sie  sind rautenartig geformt. Gefunden haben wir ihn am Hackensee bei München, er dürfte jetzt aber überall in Deutschland an toten Laubhölzern wachsen. (Johann Rejek)
 
 [Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lycoperdon_perlatum_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.01.2024: So sehen Flaschenstäublinge (*Lycoperdon perlatum*) aus, die überwintert haben. Unser aktueller [Fundkorbpilz](AA "Glossar-") wächst frisch in den Monaten Juli bis November, seine Fruchtkörper können aber selbst strenge Winter überstehen. Dabei gehen zwar die Stacheln  verloren, aber im Inneren sind oft noch massenhaft Sporen vorhanden. Kinder helfen ihnen bereitwillig, den Sporenstaub freizusetzen und nennen sie daher *„Puff-“* oder „*Staubbombenpilze“*. Sie treten einfach mal drauf, was auch manche Erwachsene tun. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lycoperdon-perlatum-flaschenstäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_meliigena_02_uvs.jpg" %}
-{% include abbildung_ende.html %}
-
-04.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rötliche Rindenhelmling *Mycena meliigena*. In unserer Dietzenbacher Parkanlage ist er vor allem in der kalten Jahreszeit immer mal wieder an Weiden und Ahornbäumen zu beobachten. Die oft nur winzig kleinen Pilzchen sind leicht zu übersehen. Um sie zu finden, sollte man vor allem an bemoosten Rindenflächen an stehenden Laubbäumen nach ihnen Ausschau halten.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-meliigena-rötlicher-rindenhelmling)
 
 <div style="clear:  both"></div>
 
