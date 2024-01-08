@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-08.01.2024: [Terana caerulea - Blauer Rindenpilz](/pilze/terana-caerulea-blauer-rindenpilz)  
+09.01.2024: [Auricularia auricula-judae - Judasohr](/pilze/auricularia-auricula-judae-judasohr)  
+08.01.2024: [Terana caerulea - Blauer Rindenpilz](/pilze/terana-caerulea-blauer-rindenpilz)\
 07.01.2024: [Tubaria furfuracea - Gemeiner Trompetenschnitzling](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)\
 06.01.2024: [Polyporus brumalis - Winterpoirling](/pilze/polyporus-brumalis-winterporling)\
 05.01.2024: [Lycoperdon perlatum - Flaschenstäubling](/pilze/lycoperdon-perlatum-flaschenstäubling)\
