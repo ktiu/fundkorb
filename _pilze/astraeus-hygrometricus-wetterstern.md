@@ -23,7 +23,7 @@ published: true
 ---
 Obwohl den Erdsternen zum Verwechseln ähnlich, gehört der Wetterstern nicht in deren nähere Verwandtschaft. Die zuerst kugeligen Fruchtkörper entwickeln sich meist unterirdisch, später reißt die [Exoperidie](Exoperidie "Glossar") (die äußere von zwei Hüllschichten) sternförmig auf und biegt sich nach außen. Dabei wird die [Endoperidie](Endoperidie "Glossar"), die die Sporenkugel (Gleba) umschließt, freigelegt. Die 5 bis 10 Lappen der geöffneten Exoperidie sind hygroskopisch, d. h. sie krümmen sich bei feuchter Witterung nach außen und schließen sich bei Trockenheit wieder über der Endoperidie zusammen. Dieser Vorgang lässt sich an nach Hause mitgenommenen Exemplaren fast beliebig oft durch Befeuchten und Trocknen wiederholen. Der Name hygrometricus leitet sich, passend zu dieser Eigenschaft, von „Hygrometer“ (Feuchtigkeitsmesser) ab.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/astraeus_hygrometricus_03_eh.jpg" %}
 {% include abbildung_ende.html legende="6. Januar 2024: Fund bei Bensheim-Hochstädten im Odenwald (Foto: Erik Hock)" %}
 
