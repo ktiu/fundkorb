@@ -15,6 +15,8 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Gemeiner_Spaltbl%C3%A4ttling
   - url: http://tintling.com/pilzbuch/arten/s/Schizophyllum_commune.html
+  - text: "Jürgen Guthmann / Christoph Hahn: Die Pilze Deutschlands: Beschreibung,
+      Vorkommen und Verwendung der wichtigsten Arten"
 published: true
 ---
 Der Spaltblättling ist ein Kosmopolit mit einem schier unüberschaubaren Wirtsspektrum. In Thailand habe ich ihn schon an verkohlten Palmstämmen, Mangroven und an einer mit blauer Farbe bemalten Kokosnuss gefunden! Bei uns bevorzugt er gefällte, noch berindete Buchenstämme oder -äste, auf denen er oft in großen Kolonien siedelt. Auch bei anhaltender Trockenheit ist er zu finden und selbst sonnenexponierte Standorte werden toleriert. Er dürfte in keinem Buchenbestand fehlen. Seinen Namen hat er von den scheinbar wie der Länge nach gespaltenen Lamellen, woran er immer sicher zu erkennen ist. Die Fruchtkörper sind zäh und daher nicht für den Verzehr geeignet. Das ist zumindest die Meinung europäischer Pilzbuchautoren. In Thailand ist er vor allem im Nordosten des Landes Marktpilz.
@@ -32,4 +34,6 @@ Der deutsche Name Spaltblättling beschreibt zwar überzeugend das Aussehen der 
 
 Spaltblättlinge erscheinen meist in Scharen, oft auch dicht gedrängt. Sie sind stiellos am Substrat angewachsen, ihre weißgraue Oberseite ist zottig filzig. Überaus attraktiv ist dagegen die lamellige Unterseite, wie die hier gezeigten Fotos erkennen lassen. Genauer hinzuschauen lohnt sich also und erfreut das Auge.
 
-Schizophyllum ist eine [monotypische](monotypisch "Glossar") Gattung in einer eigenen Familie, so dass der Spaltblättling eine ziemlich isolierte Stellung im Reich der Pilze einnimmt und keine näheren Verwandten hat.
+*Schizophyllum* ist eine [monotypische](monotypisch "Glossar") Gattung in einer eigenen Familie, so dass der Spaltblättling eine ziemlich isolierte Stellung im Reich der Pilze einnimmt und keine näheren Verwandten hat.
+
+Neueren Erkenntnissen zufolge (*Guthmann/Hahn*) soll der Spaltblättling ein potenziell humanpathologischer Pilz sein. Seine Sporen können im Mund, in den Atemwegen und in der Lunge keimen und die dabei entstehenden [Myzelien](Myzel "Glossar") zu schweren möglicherweise chronischen Erkrankungen führen. Risiken bestehen vor allem für Diabetiker und immungeschwächte Menschen, es kann zu Folgeschäden wie Befall des umgebenden Gewebes und des zentralen Nervensystems kommen. Vorsichtshalber sollten Geruchs- und Geschmacksproben unterbleiben.
