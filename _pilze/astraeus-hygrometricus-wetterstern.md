@@ -23,6 +23,10 @@ published: true
 ---
 Obwohl den Erdsternen zum Verwechseln ähnlich, gehört der Wetterstern nicht in deren nähere Verwandtschaft. Die zuerst kugeligen Fruchtkörper entwickeln sich meist unterirdisch, später reißt die [Exoperidie](Exoperidie "Glossar") (die äußere von zwei Hüllschichten) sternförmig auf und biegt sich nach außen. Dabei wird die [Endoperidie](Endoperidie "Glossar"), die die Sporenkugel (Gleba) umschließt, freigelegt. Die 5 bis 10 Lappen der geöffneten Exoperidie sind hygroskopisch, d. h. sie krümmen sich bei feuchter Witterung nach außen und schließen sich bei Trockenheit wieder über der Endoperidie zusammen. Dieser Vorgang lässt sich an nach Hause mitgenommenen Exemplaren fast beliebig oft durch Befeuchten und Trocknen wiederholen. Der Name hygrometricus leitet sich, passend zu dieser Eigenschaft, von „Hygrometer“ (Feuchtigkeitsmesser) ab.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/astraeus_hygrometricus_03_eh.jpg" %}
+{% include abbildung_ende.html legende="06.01.2024: Fund bei Bensheim-Hochstädten im Odenwald (Foto: Erik Hock)" %}
+
 Da der Wetterstern eine fast ausschließlich [kolline](kollin "Glossar") bis [submontan](submontan "Glossar")e Verbreitung aufweist, sind unsere Flachland-Kollektionen von Bedeutung, um so mehr, als im Koberstädter Wald mehr als 100 Fruchtkörper festgestelt werden konnten. Der interessante Pilz ist [Mykorrhizapartner](Mykorrhiza "Glossar") div. Laub- und Nadelbäume, im vorliegenden Fall waren es Eichen. An meinen ersten Wettersternfund kann ich mich übrigens noch gut erinnern. Das war 1985 am Gardasee, wo er an mehreren Hängen unter Kiefern wuchs. 
 
 {% include abbildung_start.html stil="mittel" %}
