@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/auricularia_auricula-judae_01_rd.jpg" %}
+{% include abbildung_ende.html %}
+
+09.01.2024: Judasohren (*Auricularia auricula-judae*) gibt es das ganze Jahr über, auch in unserer Dietzenbacher Parkanlage. Je nachdem an welchem Substrat er hier wächst, ist unser aktueller [Fundkorbpilz](AA "Glossar-") winzig klein (an Berberitzen) oder normal groß (an Holunder, Ahorn). An totem Buchenholz entwickelt er sich mitunter zu riesengroßen Lappen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/auricularia-auricula-judae-judasohr)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/terana_caerulea_04_eh.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 07.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Trompetenschnitzling *Tubaria furfuracea*. Seit er mit dem kaum unterscheidbaren Winter-Trompetenschnitzling *Tubaria hiemalis* zu einer Art vereinigt worden ist, gibt es keine Jahreszeit mehr, in der dieser ungemein häufige aber wenig beachtete Pilz nicht vorkommt. Wir haben ihn aktuell am Hackensee bei München gefunden. (Johann Rejek)
 
 [Mehr lesen >](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_brumalis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Winterporling *Polyporus brumalis*, der inzwischen in die Gattung *Lentinus* umgesiedelt worden ist. Der deutsche Name verrät etwas über seine Erscheinungszeit. Ab Mai könnte er mit dem [Maiporling](/pilze/polyporus-ciliatus-maiporling) verwechselt werden, der aber sehr viel kleinere Poren hat. Beim Winterporling sind es etwa 2 pro Milimeter und sie  sind rautenartig geformt. Gefunden haben wir ihn am Hackensee bei München, er dürfte jetzt aber überall in Deutschland an toten Laubhölzern wachsen. (Johann Rejek)
-
-[Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
 
 <div style="clear:  both"></div>
 
