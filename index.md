@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/astraeus_hygrometricus_03_eh.jpg" %}
+{% include abbildung_ende.html %}
+
+10.01.2024: Kaum zu glauben aber wahr: manchmal purzeln einem die tollsten Pilze direkt vor die Füße! Wenn es sich dabei auch noch um einen persönlichen Erstfund handelt muss der Wetterstern *Astraeus hygrometricus* auch ein aktueller [Fundkorbpilz](AA "Glossar-") sein. Geschehen an einem steilen Abhang im Odenwald bei Bensheim-Hochstädten, wo etwas wie Steingeröll vor mir auf einem Mosspolster landete, wo ich den Pilz so fotografieren konnte als sei er da gewachsen. Allzu häufig ist er in Deutschland wohl nicht. (Erik Hock)
+
+[Mehr lesen >](/pilze/astraeus-hygrometricus-wetterstern)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/auricularia_auricula-judae_01_rd.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 08.01.2024: Der Blaue Rindenpilz *Terana caerulea* war bei unserer gestrigen Exkursion am Dornsee bei Dietzenbach der Hingucker des Tages und ist natürlich der heutige aktuelle [Fundkorbpilz](AA "Glossar-"). Nicht nur wegen seiner Seltenheit, sondern auch wegen seiner wunderschönen blauen Farbe, die im Pilzreich sehr selten ist und ihn unverwechselbar macht. Das Foto ist von *Erik Hock*, der ihn in dieser ungewöhnlichen Wuchsform am 11. Dezember 2023 im Gernsheimer Wald gefunden hat.
 
 [Mehr lesen >](/pilze/terana-caerulea-blauer-rindenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tubaria_furfuracea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Trompetenschnitzling *Tubaria furfuracea*. Seit er mit dem kaum unterscheidbaren Winter-Trompetenschnitzling *Tubaria hiemalis* zu einer Art vereinigt worden ist, gibt es keine Jahreszeit mehr, in der dieser ungemein häufige aber wenig beachtete Pilz nicht vorkommt. Wir haben ihn aktuell am Hackensee bei München gefunden. (Johann Rejek)
-
-[Mehr lesen >](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
 
 <div style="clear:  both"></div>
 
