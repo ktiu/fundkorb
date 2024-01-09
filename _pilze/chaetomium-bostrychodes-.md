@@ -15,7 +15,7 @@ literatur:
   - url: http://www.bender-coprinus.de/pilz_der_woche/2016/_chaetomium_bostrychodes.html
   - url: https://de.wikipedia.org/wiki/Chaetomium
 ---
-Seit einiger Zeit kultivieren wir Kaninchenkötel in der Hoffnung, den wunderbaren [Pillenwerfer *Pilobolus kleinii*](/pilze/pilobolus-kleinii-pillenwerfer) darauf zu finden - bisher leider ohne Erfolg. Stattdessen fanden wir einen Schimmelpilz, mit dem wir naturgemäß nichts anzufangen wussten. Anhand des obigen Fotos gab mir *Hermine Lotz-Winter* den Tipp, es könnte sich um eine Art aus der Gattung *Chaetomium* handeln, mit der sie im Labor schon mehrfach Bekanntschaft gemacht hatte. Der Schimmelpilz hatte sich sogar auf die Baumwollwatte, die unter ihren Köteln lag, ausgesät.
+Seit einiger Zeit kultivieren wir Kaninchenkötel in der Hoffnung, den wunderbaren [Pillenwerfer *Pilobolus kleinii*](/pilze/pilobolus-kleinii-pillenwerfer) darauf zu finden - inzwischen mit bestem Erfolg. Außerdem fanden wir einen Schimmelpilz, mit dem wir naturgemäß nichts anzufangen wussten. Anhand des obigen Fotos gab mir *Hermine Lotz-Winter* den Tipp, es könnte sich um eine Art aus der Gattung *Chaetomium* handeln, mit der sie im Labor schon mehrfach Bekanntschaft gemacht hatte. Der Schimmelpilz hatte sich sogar auf die Baumwollwatte, die unter ihren Köteln lag, ausgesät.
 
 Ich folgte ihrem Hinweis und wurde im Internet fündig. Hier stieß ich auf einen Mönchengladbacher Fund von *Hans Bender*, ebenfalls auf Kaninchendung, der von *Ralf Dahlheuser* als *Chaetomium bostrychodes* identifiziert wurde. Deren Angaben zu den Mikromerkmalen: 
 
