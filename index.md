@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cantharellus-tubaeformis_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Trompetenpfifferling *Cantharellus tubaeformis*. Er unterscheidet sich deutlich von gelben Pfifferlingsarten, seine lamellenähnlichen am Stiel herablaufenden Leisten lassen aber mit etwas Fantasie seine Verwandtschaftsbeziehung erahnen. Wie der bekannte Pfifferling ist er ein ausgezeichneter Speisepilz, erscheint aber erst im Herbst. Ihn noch im Januar zu finden ist eher ungewöhnlich. (Dieter Gewalt)
+
+[Mehr lesen](/pilze/cantharellus-tubaeformis-trompetenpfifferling) > 
+
+<div style="clear:  both"></div>  <div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/astraeus_hygrometricus_03_eh.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 09.01.2024: Judasohren (*Auricularia auricula-judae*) gibt es das ganze Jahr über, auch in unserer Dietzenbacher Parkanlage. Je nachdem an welchem Substrat er hier wächst, ist unser aktueller [Fundkorbpilz](AA "Glossar-") winzig klein (an Berberitzen) oder normal groß (an Holunder, Ahorn). An totem Buchenholz entwickelt er sich mitunter zu riesengroßen Lappen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/auricularia-auricula-judae-judasohr)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/terana_caerulea_04_eh.jpg" %}
-{% include abbildung_ende.html %}
-
-08.01.2024: Der Blaue Rindenpilz *Terana caerulea* war bei unserer gestrigen Exkursion am Dornsee bei Dietzenbach der Hingucker des Tages und ist natürlich der heutige aktuelle [Fundkorbpilz](AA "Glossar-"). Nicht nur wegen seiner Seltenheit, sondern auch wegen seiner wunderschönen blauen Farbe, die im Pilzreich sehr selten ist und ihn unverwechselbar macht. Das Foto ist von *Erik Hock*, der ihn in dieser ungewöhnlichen Wuchsform am 11. Dezember 2023 im Gernsheimer Wald gefunden hat.
-
-[Mehr lesen >](/pilze/terana-caerulea-blauer-rindenpilz)
 
 <div style="clear:  both"></div>
 
