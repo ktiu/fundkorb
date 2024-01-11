@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/exidia_plana_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Warzige Drüsling *Exidia plana*. Mit seinem schwarzen gekröseartig gewundem Glibber, der ganze Äste überziehen kann, ist er nicht nur unverwechselbar sondern auch häufig. Gerade jetzt bei feucht-kühler Witterung wird man ihm bei fast jedem Waldspaziergang begegnen. Sein Hauptwirt ist die Buche. Er wird auch *Hexenbutter* genannt und macht bei Trockenheit eine erstaunliche Wandlung durch. Dann bleibt nur eine fast völlig glatte glänzende Haut zurück, die den betroffenen Ast wie schwarz lackiert erscheinen lässt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/exidia-plana-warziger-drüsling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cantharellus-tubaeformis_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 10.01.2024: Kaum zu glauben aber wahr: manchmal purzeln einem die tollsten Pilze direkt vor die Füße! Wenn es sich dabei auch noch um einen persönlichen Erstfund handelt muss der Wetterstern *Astraeus hygrometricus* auch ein aktueller [Fundkorbpilz](AA "Glossar-") sein. Geschehen an einem steilen Abhang im Odenwald bei Bensheim-Hochstädten, wo etwas wie Steingeröll vor mir auf einem Mosspolster landete, wo ich den Pilz so fotografieren konnte als sei er da gewachsen. Allzu häufig ist er in Deutschland wohl nicht. (Erik Hock)
 
 [Mehr lesen >](/pilze/astraeus-hygrometricus-wetterstern)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/auricularia_auricula-judae_01_rd.jpg" %}
-{% include abbildung_ende.html %}
-
-09.01.2024: Judasohren (*Auricularia auricula-judae*) gibt es das ganze Jahr über, auch in unserer Dietzenbacher Parkanlage. Je nachdem an welchem Substrat er hier wächst, ist unser aktueller [Fundkorbpilz](AA "Glossar-") winzig klein (an Berberitzen) oder normal groß (an Holunder, Ahorn). An totem Buchenholz entwickelt er sich mitunter zu riesengroßen Lappen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/auricularia-auricula-judae-judasohr)
 
 <div style="clear:  both"></div>
 
