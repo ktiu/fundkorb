@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-11.01.2024: [Cantharellus tubaeformis - Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)  
+12.01.2024: [Exidia plana - Warziger Drüsling](/pilze/exidia-plana-warziger-drüsling)  
+11.01.2024: [Cantharellus tubaeformis - Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)\
 10.01.2024: [Astraeus hygrometricus - Wetterstern](/pilze/astraeus-hygrometricus-wetterstern)\
 09.01.2024: [Auricularia auricula-judae - Judasohr](/pilze/auricularia-auricula-judae-judasohr)\
 08.01.2024: [Terana caerulea - Blauer Rindenpilz](/pilze/terana-caerulea-blauer-rindenpilz)\
