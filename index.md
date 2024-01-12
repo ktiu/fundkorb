@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/flammulaster_carpophilus_01_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+13.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchenwald-Flockenschüppling *Flammulaster carpophilus*. Ein winziges Blätterpilz-chen, das mit Vorliebe auf vorjährigen Bucheckernschalen wächst. Auch auf Blättern und Ästchen ist er mitunter zu finden. Seine Hütchen erreichen nur selten Durchmesser von mehr als 1 cm, seine Stiele können bis zu 6 cm lang werden. Bei gezielter Suche wird man vermutlich in jedem Buchenwald fündig werden, auch schon früh im Jahr. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/exidia_plana_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
