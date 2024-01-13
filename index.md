@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") am 14.01.2024 ist der Samtfußrübling *Flammulina velutipes*. Nicht ohne Grund wird er auch Winterrübling genannt. Wer auch im Winter nicht auf selbst gesammelte Pilze verzichten möchte, hat in ihm eine schmackhafte und frostunempfindliche Alternative zum Austernseitling. Außerdem ist er ein dankbares Fotomotiv. Er wächst büschelig an totem oder auch lebendem Laubholz und ist an seiner braunsamtigen Stielbekleidung gut zu erkennen. Bei feuchtem Wetter sind die glänzend hell- bis orangegelben Hüte schmierig, bei Trockenheit matt und trocken. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/flammulaster_carpophilus_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 12.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Warzige Drüsling *Exidia plana*. Mit seinem schwarzen gekröseartig gewundem Glibber, der ganze Äste überziehen kann, ist er nicht nur unverwechselbar sondern auch häufig. Gerade jetzt bei feucht-kühler Witterung wird man ihm bei fast jedem Waldspaziergang begegnen. Sein Hauptwirt ist die Buche. Er wird auch *Hexenbutter* genannt und macht bei Trockenheit eine erstaunliche Wandlung durch. Dann bleibt nur eine fast völlig glatte glänzende Haut zurück, die den betroffenen Ast wie schwarz lackiert erscheinen lässt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/exidia-plana-warziger-drüsling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cantharellus-tubaeformis_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Trompetenpfifferling *Cantharellus tubaeformis*. Er unterscheidet sich deutlich von gelben Pfifferlingsarten, seine lamellenähnlichen am Stiel herablaufenden Leisten lassen aber mit etwas Fantasie seine Verwandtschaftsbeziehung erahnen. Wie der bekannte Pfifferling ist er ein ausgezeichneter Speisepilz, erscheint aber erst im Herbst. Ihn noch im Januar zu finden ist eher ungewöhnlich. (Dieter Gewalt)
-
-[Mehr lesen](/pilze/cantharellus-tubaeformis-trompetenpfifferling) > 
-
-<div style="clear:  both"></div>  <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/astraeus_hygrometricus_03_eh.jpg" %}
-{% include abbildung_ende.html %}
-
-10.01.2024: Kaum zu glauben aber wahr: manchmal purzeln einem die tollsten Pilze direkt vor die Füße! Wenn es sich dabei auch noch um einen persönlichen Erstfund handelt muss der Wetterstern *Astraeus hygrometricus* auch ein aktueller [Fundkorbpilz](AA "Glossar-") sein. Geschehen an einem steilen Abhang im Odenwald bei Bensheim-Hochstädten, wo etwas wie Steingeröll vor mir auf einem Mosspolster landete, wo ich den Pilz so fotografieren konnte als sei er da gewachsen. Allzu häufig ist er in Deutschland wohl nicht. (Erik Hock)
-
-[Mehr lesen >](/pilze/astraeus-hygrometricus-wetterstern)
 
 <div style="clear:  both"></div>
 
