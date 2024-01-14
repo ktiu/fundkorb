@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/psathyrella_piluliformis_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+15.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wässrige Mürbling *Psathyrella piluliformis*, der nicht umsonst auch Weißstieliges Stockschwämmchen genannt wird. Erstens, weil er stets ein weißes Stielchen hat. Zweitens, weil er ein guter Speisepilz ist. Ihn zu sammeln kann aber nur erfahrenen Pilzsammlern empfohlen werden. Sie erkennen ihn auch an den glanzlosen dunkelbraunen Hüten, die aber stark [hygrophan](hygrophan "Glossar") sind. Und an seinem meist massenhaft dichtbüscheligen Vorkommen an Totholz. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/psathyrella-piluliformis-wässriger-mürbling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") am 14.01.2024 ist der Samtfußrübling *
 13.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchenwald-Flockenschüppling *Flammulaster carpophilus*. Ein winziges Blätterpilz-chen, das mit Vorliebe auf vorjährigen Bucheckernschalen wächst. Auch auf Blättern und Ästchen ist er mitunter zu finden. Seine Hütchen erreichen nur selten Durchmesser von mehr als 1 cm, seine Stiele können bis zu 6 cm lang werden. Bei gezielter Suche wird man vermutlich in jedem Buchenwald fündig werden, auch schon früh im Jahr. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/exidia_plana_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Warzige Drüsling *Exidia plana*. Mit seinem schwarzen gekröseartig gewundem Glibber, der ganze Äste überziehen kann, ist er nicht nur unverwechselbar sondern auch häufig. Gerade jetzt bei feucht-kühler Witterung wird man ihm bei fast jedem Waldspaziergang begegnen. Sein Hauptwirt ist die Buche. Er wird auch *Hexenbutter* genannt und macht bei Trockenheit eine erstaunliche Wandlung durch. Dann bleibt nur eine fast völlig glatte glänzende Haut zurück, die den betroffenen Ast wie schwarz lackiert erscheinen lässt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/exidia-plana-warziger-drüsling)
 
 <div style="clear:  both"></div>
 
