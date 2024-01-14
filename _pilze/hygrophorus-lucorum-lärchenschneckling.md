@@ -38,4 +38,4 @@ Wenn man *Karin Montag* glauben darf, bereitet unser Pilz kaum Bestimmungsproble
 Diese klare Aussage ist jedoch nur gültig, sofern eine sehr ähnliche Art als Varietät des Lärchenschnecklings anerkannt wird, worüber sich [Mykologen](Mykologie "Glossar") keineswegs einig sind. Sollte der Orangegelbe Schneckling *Hygrophorus speciosus* eine gute Art sein, wäre es enorm schwierig, beide makroskopisch auseinanderzuhalten. Auch die Mikromerkmale sind nahezu identisch. Lediglich die [Basidien](Basidien "Glossar") haben lt. *Breitenbach & Kränzlin* unterschiedliche Größen und auch die Bodenansprüche sollen verschieden sein:
 
 *Hygrophorus lucorum*: Basidien 24 – 50 x 5 – 7 µm, auf kalkhaltigen oder lehmigen Böden  
-*Hygrophorus speciosus*: 50 – 70 x 7,5 – 9 µm, bevorzugt eher saure Böden
+*Hygrophorus speciosus*: Basidien 50 – 70 x 7,5 – 9 µm, bevorzugt eher saure Böden
