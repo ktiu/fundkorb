@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Hygrophorus latitabundus
   deutsch: Großer Kiefernschneckling
   referenz: Britzelm. 1899
-  synonym: "Synonyme: Hygrocybe fuscoalbus, Hygrocybe limacinus"
+  synonym: "Synonyme: Hygrophorus fuscoalbus, Hygrophorus limacinus"
   erlaeuterung: latitabundus = sich versteckt haltend
   familie: Hygrophoraceae
 profil:
