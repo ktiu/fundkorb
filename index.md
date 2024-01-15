@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinellus_micaceus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.01.2024: Trotz leichter Nachtfröste in der Rhein-Main-Ebene findet man noch erstaunlich viele am Boden wachsende Blätterpilze. Zum Beispiel den Glimmertintling *Coprinellus micaceus*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Wie im Gefrierfach haben sie ihre Farbe und Form erhalten, zerbrechen aber wie dünnes Glas, wenn man sie mit dem Finger anschnippt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/coprinellus-micaceus-glimmertintling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/psathyrella_piluliformis_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 Aktueller [Fundkorbpilz](AA "Glossar-") am 14.01.2024 ist der Samtfußrübling *Flammulina velutipes*. Nicht ohne Grund wird er auch Winterrübling genannt. Wer auch im Winter nicht auf selbst gesammelte Pilze verzichten möchte, hat in ihm eine schmackhafte und frostunempfindliche Alternative zum Austernseitling. Außerdem ist er ein dankbares Fotomotiv. Er wächst büschelig an totem oder auch lebendem Laubholz und ist an seiner braunsamtigen Stielbekleidung gut zu erkennen. Bei feuchtem Wetter sind die glänzend hell- bis orangegelben Hüte schmierig, bei Trockenheit matt und trocken. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/flammulaster_carpophilus_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-13.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchenwald-Flockenschüppling *Flammulaster carpophilus*. Ein winziges Blätterpilz-chen, das mit Vorliebe auf vorjährigen Bucheckernschalen wächst. Auch auf Blättern und Ästchen ist er mitunter zu finden. Seine Hütchen erreichen nur selten Durchmesser von mehr als 1 cm, seine Stiele können bis zu 6 cm lang werden. Bei gezielter Suche wird man vermutlich in jedem Buchenwald fündig werden, auch schon früh im Jahr. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)
 
 <div style="clear:  both"></div>
 
