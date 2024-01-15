@@ -17,7 +17,8 @@ literatur:
     url: ""
   - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Seite
       108 - 110"
-  - text: https://de.wikipedia.org/wiki/Wohlriechender_Schneckling
+  - text: ""
+    url: https://de.wikipedia.org/wiki/Wohlriechender_Schneckling
   - url: http://tintling.com/pilzbuch/arten/h/Hygrophorus_agathosmus.html
 ---
 Um den Wohlriechenden sicher von anderen Schnecklingen zu unterscheiden, braucht man nur an ihm zu riechen. Am besten an der Hutunterseite. Der angenehme intensive Marzipangeruch (er wird auch *„wie Mandelseife“* oder als *„bittermandelartig“* beschrieben) macht ihn unverwechselbar. Der Geschmack ist zwar mild, aber etwas seifig, weshalb man ihn nicht unbedingt in der Pfanne haben möchte.  Als [Mykorrhizapilz](Mykorrhiza "Glossar") ist er an die Fichte gebunden, eher in höheren Lagen als im Flachland und bevorzugt auf kalkhaltigen Böden zu finden. Bedingt durch säurehaltige Emissionen sind seine Vorkommen stark rückläufig, weshalb er inzwischen als gefährdete Art in Roten Listen geführt wird.
