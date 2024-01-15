@@ -16,7 +16,7 @@ hauptbild:
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 3 Nr. 116"
   - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Band 3
-      Seite103 – 104"
+      Seite 103 – 104"
   - url: https://de.wikipedia.org/wiki/Gro%C3%9Fer_Kiefern-Schneckling
 ---
 Schnecklinge sind durch überwiegend schmierig-schleimige dickfleischige Fruchtkörper mit dicklichen, etwas entfernt stehenden Lamellen gekennzeichnet. Den Großen Kiefernschneckling *Hygrophorus latitabundus* könnte man fast schon als klobig bezeichnen. Es handelt sich um eine seltene Art, die mit dem Gefährdungsgrad 2 (stark gefährdet) in Roten Listen geführt wird. Seine Seltenheit ist vor allem durch seine ökologischen Ansprüche begründet: bei Kiefern in höheren Lagen, an Waldrändern, in Waldlichtungen und Trockenrasen, ausschließlich auf kalkhaltigen Böden. Wenn er in solchen Biotopen erscheint, dann meist gesellig.
