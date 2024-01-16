@@ -5,6 +5,7 @@ beschreibung:
   referenz: "Blytt 1905 "
   familie: Inocybaceae
   erlaeuterung: erubescens = errötend
+  synonym: "Neuer Name: Inosperma erubescens"
 profil:
   aktualisiert: 2020-08-07
   autor_in: Dieter Gewalt
