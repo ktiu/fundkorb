@@ -5,7 +5,7 @@ beschreibung:
   referenz: "(Bull.) P. Kumm. 1871 "
   familie: Inocybaceae
   erlaeuterung: rimosa = rissig
-  synonym: Inocybe fastigiata
+  synonym: "Neuer Name: Pseudosperma rimosum"
 profil:
   aktualisiert: 2020-10-17
   autor_in: Dieter Gewalt
