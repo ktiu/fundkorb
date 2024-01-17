@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_tintinnabulum_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.01.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") passt bestens zur aktuellen Jahreszeit. Es ist der Winterhelmling *Mycena tintinnabulum*. Ob in kleineren Grüppchen oder vielhütigen Büscheln -  selbst Fröste können ihm nicht viel anhaben. Dann sieht man die hübschen Pilzchen steif gefroren. Der botanische Artname *„tintinnabulum“*  ist lateinisch und bedeutet Glocke oder Klingel. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-tintinnabulum-winterhelmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tremella_mesenterica_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
