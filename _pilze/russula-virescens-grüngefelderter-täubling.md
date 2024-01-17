@@ -55,9 +55,11 @@ Da die meisten Pilzsammler Pilze mit Lamellen meiden und vorwiegend Röhrlinge s
     <tr>
       <td>mild, nussig</td>
       <td>weiß bis sehr blass creme</td>
-      <td>nicht</td>
+      <td>nicht*</td>
       <td>keine</td>
        
     </tr>
   </table>
 </div>
+
+* nur bei ganz jungen Fruchtkörpern teilweise abziehbar, sobald die Huthaut felderig aufgerissen ist, natürlich nicht mehr. 
