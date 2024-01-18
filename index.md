@@ -12,6 +12,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/plicatura_crispa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchen-Adernzähling *Plicatura crispa*, auch wenn seine Fruchtkörper nicht mehr die frischesten und dazu noch steif gefroren sind. Vor allem ist das rein weiße [Hymenophor](Hymenophor "Glossar") (siehe Foto), das aus filigranen, sehr eng stehenden Falten besteht, ergraut und unansehnlich geworden. Der Name Buchen-Adernzähling erscheint mir nicht sehr treffend gewählt zu sein. Ich habe die recht häufige Art bisher ganz überwiegend an Birke gefunden, was in krassem Gegensatz zu den Literaturangaben und ihrem deutschen Namen steht. Außerdem hat auch ihre Häufigkeit zumindest im Rhein-Main-Gebiet deutlich zugenommen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/plicatura-crispa-buchen-adernzähling)
+
+ <div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_tintinnabulum_03_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -31,18 +43,6 @@ footer_scripts:
 17.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldgelbe Zitterling *Tremella meseneterica*. Ihm scheinen frostige Temperaturen nichts auszumachen. Im Gegenteil. Er ist gerade während der kalten Jahreszeit nahezu allgegenwärtig und behält sogar tiefgefroren seine attraktive Form und Farbe. Man findet ihn an diversen Hölzern, an denen er auf Rindenpilzen der Gattung *Peniophora* wächst, auch wenn von diesem gerade nichts zu sehen ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tremella-mesenterica-goldgelber-zitterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinellus_micaceus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.01.2024: Trotz leichter Nachtfröste in der Rhein-Main-Ebene findet man noch erstaunlich viele am Boden wachsende Blätterpilze. Zum Beispiel den Glimmertintling *Coprinellus micaceus*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Wie im Gefrierfach haben sie ihre Farbe und Form erhalten, zerbrechen aber wie dünnes Glas, wenn man sie mit dem Finger anschnippt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coprinellus-micaceus-glimmertintling)
 
 <div style="clear:  both"></div>
 
