@@ -32,7 +32,7 @@ Unter den Risspilzen (Fam. *Inocybyceae*) gibt es einige Arten, die man bereits 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/inocybe_queletii_02_hs.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Fruchtkörper mit weißem Velumbehang am Hutrand" %}
 
 **Makroskopische Merkmale:**
 
