@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-18.01.2024: [Mycena tintinnabulum: Winterhelmling](/pilze/mycena-tintinnabulum-winterhelmling)  
+19.01.2024: [Plicatura crispa: Buchen-Adernzähling](/pilze/plicatura-crispa-buchen-adernzähling)  
+18.01.2024: [Mycena tintinnabulum: Winterhelmling](/pilze/mycena-tintinnabulum-winterhelmling)\
 17.01.2024: [Tremella mesenterica - Goldgelber Zitterling](/pilze/tremella-mesenterica-goldgelber-zitterling)\
 16.01.2024: [Psathyrella piluliformis - Wässriger Mürbling](/pilze/psathyrella-piluliformis-wässriger-mürbling)\
 15.01.2024: [Coprinellus micaceus - Glimmertintling](/pilze/coprinellus-micaceus-glimmertintling)\
