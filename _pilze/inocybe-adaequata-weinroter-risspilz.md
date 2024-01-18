@@ -12,6 +12,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/inocybe_adaequata_01_dg.jpg
+  legende: "25.10.2010: Frankfurt am Main, Ostpark"
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz, Band 5 Nr. 1"
     url: ""
