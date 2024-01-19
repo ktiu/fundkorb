@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypomyces_aurantius_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Orangegelbe Schmarotzer-Pustelpilz *Hypomyces aurantius*. Er wächst auf der Unterseite verschiedener Porlinge. Gefunden haben wir ihn aktuell an einem [Birkenporling (*Piptoporus betulinus*)](/pilze/piptoporus-betulinus-birkenporling), er kommt aber auch an anderen Porlingsarten vor. In der Literatur wird er oft als selten angegeben, was definitiv nicht meinen Erfahrungen entspricht. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypomyces-aurantius-orangegelber-schmarotzer-pustelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/plicatura_crispa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 18.01.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") passt bestens zur aktuellen Jahreszeit. Es ist der Winterhelmling *Mycena tintinnabulum*. Ob in kleineren Grüppchen oder vielhütigen Büscheln -  selbst Fröste können ihm nicht viel anhaben. Dann sieht man die hübschen Pilzchen steif gefroren. Der botanische Artname *„tintinnabulum“*  ist lateinisch und bedeutet Glocke oder Klingel. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycena-tintinnabulum-winterhelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tremella_mesenterica_03_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-17.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldgelbe Zitterling *Tremella meseneterica*. Ihm scheinen frostige Temperaturen nichts auszumachen. Im Gegenteil. Er ist gerade während der kalten Jahreszeit nahezu allgegenwärtig und behält sogar tiefgefroren seine attraktive Form und Farbe. Man findet ihn an diversen Hölzern, an denen er auf Rindenpilzen der Gattung *Peniophora* wächst, auch wenn von diesem gerade nichts zu sehen ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tremella-mesenterica-goldgelber-zitterling)
 
 <div style="clear:  both"></div>
 
