@@ -26,8 +26,4 @@ Die Drüslinge sind variabel-klumpige, gallertartige Pilze, welche bei Wärme zu
 
 Von anderen *Exidia*-Arten kann man sie anhand ihrer Mehrfarbigkeit durch die bräunlichen, rötlichen oder auch bläulich-grauen Einsprenkelungen auf den hellen, glasigen kleinen Fruchtkörpern, unterscheiden.
 
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/exidia_cartilaginea_04_wp.jpg" %}
-{% include abbildung_ende.html %}
-
 Die abgebildeten Funde vom August 2006 stammen aus einem Eschen-Hainbuchenwald bei Frankfurt-Schwanheim.
