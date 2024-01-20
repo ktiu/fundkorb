@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/strobilurus_esculentus_04_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+21.01.2024: Auf Fichtenzapfen (und keinen anderen!) ist er jetzt schon da, unser aktueller Fundkorbpilz, der Fichtenzapfenrübling *Strobilurus esculentus*. Optisch ist er kaum zu unterscheiden von anderen Arten der Gattung. Immerhin helfen Substrat und Geschmack weiter und sorgen in unserem Fall für Klarheit: *an Fichtenzapfen + milder Geschmack + frühe Erscheinungszeit = Fichtenzapfenrübling*. Es ist nicht viel dran an einem Pilzchen, aber er ist durchaus essbar.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/strobilurus-esculentus-fichtenzapfenrübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypomyces_aurantius_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
