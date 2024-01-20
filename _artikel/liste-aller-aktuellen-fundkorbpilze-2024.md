@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-20.01.2024: [Hypomyces aurantius - Orangegelber Schmarotzer-Pustelpilz](/pilze/hypomyces-aurantius-orangegelber-schmarotzer-pustelpilz)  
+21.01.2024: [Strobilurus esculentus - Fichtenzapfenrübling](/pilze/strobilurus-esculentus-fichtenzapfenrübling)  
+20.01.2024: [Hypomyces aurantius - Orangegelber Schmarotzer-Pustelpilz](/pilze/hypomyces-aurantius-orangegelber-schmarotzer-pustelpilz)\
 19.01.2024: [Plicatura crispa: Buchen-Adernzähling](/pilze/plicatura-crispa-buchen-adernzähling)\
 18.01.2024: [Mycena tintinnabulum: Winterhelmling](/pilze/mycena-tintinnabulum-winterhelmling)\
 17.01.2024: [Tremella mesenterica - Goldgelber Zitterling](/pilze/tremella-mesenterica-goldgelber-zitterling)\
