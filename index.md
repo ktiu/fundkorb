@@ -13,10 +13,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/piptoporus_betulinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenporling *Piptoporus betulinus*. Er gehört zu den vielen an Holz wachsenden Arten, die zwar nicht als Speisepilz taugen, aber eine Bedeutung als Vital- oder Heilpilz haben. Die Fruchtkörper, die man jetzt noch findet (und zwar <ins>ausschließlich</ins> an Birken) sind zum Teil schon vergammelt und nicht mehr zu verwenden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/piptoporus-betulinus-birkenporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/strobilurus_esculentus_04_jr.jpg" %}
 {% include abbildung_ende.html %}
 
-21.01.2024: Auf Fichtenzapfen (und keinen anderen!) ist er jetzt schon da, unser aktueller Fundkorbpilz, der Fichtenzapfenrübling *Strobilurus esculentus*. Optisch ist er kaum zu unterscheiden von anderen Arten der Gattung. Immerhin helfen Substrat und Geschmack weiter und sorgen in unserem Fall für Klarheit: *an Fichtenzapfen + milder Geschmack + frühe Erscheinungszeit = Fichtenzapfenrübling*. Es ist nicht viel dran an einem Pilzchen, aber er ist durchaus essbar.  (Dieter Gewalt)
+21.01.2024: Auf Fichtenzapfen (und keinen anderen!) ist er jetzt schon da, unser aktueller [Fundkorbpilz](AA "Glossar-"), der Fichtenzapfenrübling *Strobilurus esculentus*. Optisch ist er kaum zu unterscheiden von anderen Arten der Gattung. Immerhin helfen Substrat und Geschmack weiter und sorgen in unserem Fall für Klarheit: *an Fichtenzapfen + milder Geschmack + frühe Erscheinungszeit = Fichtenzapfenrübling*. Es ist nicht viel dran an einem Pilzchen, aber er ist durchaus essbar.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/strobilurus-esculentus-fichtenzapfenrübling)
 
@@ -31,30 +43,6 @@ footer_scripts:
 20.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Orangegelbe Schmarotzer-Pustelpilz *Hypomyces aurantius*. Er wächst auf der Unterseite verschiedener Porlinge. Gefunden haben wir ihn aktuell an einem [Birkenporling (*Piptoporus betulinus*)](/pilze/piptoporus-betulinus-birkenporling), er kommt aber auch an anderen Porlingsarten vor. In der Literatur wird er oft als selten angegeben, was definitiv nicht meinen Erfahrungen entspricht. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypomyces-aurantius-orangegelber-schmarotzer-pustelpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/plicatura_crispa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchen-Adernzähling *Plicatura crispa*, auch wenn seine Fruchtkörper nicht mehr die frischesten und dazu noch steif gefroren sind. Vor allem ist das rein weiße [Hymenophor](Hymenophor "Glossar") (siehe Foto), das aus filigranen, sehr eng stehenden Falten besteht, ergraut und unansehnlich geworden. Der Name Buchen-Adernzähling erscheint mir nicht sehr treffend gewählt zu sein. Ich habe die recht häufige Art bisher ganz überwiegend an Birke gefunden, was in krassem Gegensatz zu den Literaturangaben und ihrem deutschen Namen steht. Außerdem hat auch ihre Häufigkeit zumindest im Rhein-Main-Gebiet deutlich zugenommen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/plicatura-crispa-buchen-adernzähling)
-
- <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_tintinnabulum_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.01.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") passt bestens zur aktuellen Jahreszeit. Es ist der Winterhelmling *Mycena tintinnabulum*. Ob in kleineren Grüppchen oder vielhütigen Büscheln -  selbst Fröste können ihm nicht viel anhaben. Dann sieht man die hübschen Pilzchen steif gefroren. Der botanische Artname *„tintinnabulum“*  ist lateinisch und bedeutet Glocke oder Klingel. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-tintinnabulum-winterhelmling)
 
 <div style="clear:  both"></div>
 
