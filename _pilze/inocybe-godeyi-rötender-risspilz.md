@@ -35,7 +35,7 @@ Der Rötende Risspilz *Inocybe godeyi* ist eine der häufigeren Arten innerhalb 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="Inocybe_godeyi_06_UW" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Foto: Uwe Wnkler" %}
 
 **Makroskopische Merkmale:**
 
