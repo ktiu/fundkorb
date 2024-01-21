@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Pycnoporellus fulgens
-  deutsch: Leuchtender Weichporling Tramete
+  deutsch: Leuchtender Weichporling
   referenz: (Fr.) Donk 1971
   erlaeuterung: fulgens = leuchtend
   familie: Pycnoporellaceae
