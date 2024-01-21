@@ -34,7 +34,7 @@ Der Rötende Risspilz *Inocybe godeyi* ist eine der häufigeren Arten innerhalb 
 {% include abbildung_ende.html legende="Drei Fruchtkörper bei Eichen auf Kalklehm in 300 m Höhe (Foto: Bernd Miggel)" %}
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="Inocybe_godeyi_06_UW" %}
+{% include bild.html datei="/bilder/inocybe_godeyi_06_uw.jpeg" %}
 {% include abbildung_ende.html legende="Foto: Uwe Wnkler" %}
 
 **Makroskopische Merkmale:**
