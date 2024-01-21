@@ -33,6 +33,10 @@ Der Rötende Risspilz *Inocybe godeyi* ist eine der häufigeren Arten innerhalb 
 {% include bild.html datei="/bilder/inocybe_godeyi_02_bm.jpg" %}
 {% include abbildung_ende.html legende="Drei Fruchtkörper bei Eichen auf Kalklehm in 300 m Höhe (Foto: Bernd Miggel)" %}
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="Inocybe_godeyi_06_UW" %}
+{% include abbildung_ende.html %}
+
 **Makroskopische Merkmale:**
 
 Hut bis 40 mm im Durchmesser, jung halbkugelig oder kegelig und weißlich bis ockerfarben, alt ausgebreitet und am Rand gerne rissig, mit deutlichem Buckel und stark rötend. Die Huthaut erscheint eingewachsen faserig. Die weißliche [Cortina](Cortina "Glossar") ist nur bei sehr jungen Fruchtkörpern sichtbar. Die Lamellen sind zuerst grauweißlich, dann ockerlich, später rötend. Die Schneide ist durch die [Cheilozystiden](Cheilozystiden "Glossar") weiß bewimpert. Der Stiel ist schlank, anfangs weißlich, später rötend, durch [Kaulozystiden](Kaulozystide "Glossar") bereift (Lupe!) und besitzt eine deutlich gerandete flache, oft schief stehende Knolle. Das anfangs weiße Fleisch rötet bei Verletzung oder im Alter. Der Geruch wird in der Fachliteratur sehr unterschiedlich angegeben: etwas staubig, erdig, säuerlich, fruchtartig, widerlich, spermatisch. Das Sporenpulver ist tabakbraun.
@@ -51,5 +55,5 @@ Die meisten Risspilze, so auch die hier beschriebene Art, sind giftig bis sehr g
 
 **Ähnliche Arten:**
 
-Der  [Weinrote Risspilz (*Inosperma adaequatum*)](/pilze/inocybe-adaequata-weinroter-risspilz) sowie der [Ziegelrote Risspilz (Inosperma erubescens)](/pilze/inocybe-erubescens-ziegelroter-risspilz) sind größer und kräftiger, und ihre Stiele sind knollenlos. Zudem besitzen sie keine Pleurozystiden, und ihre Cheilozystiden sind dünnwandig ohne Kristallschopf.  
+Der  [Weinrote Risspilz (*Inosperma adaequatum*)](/pilze/inocybe-adaequata-weinroter-risspilz) sowie der [Ziegelrote Risspilz (Inosperma erubescens)](/pilze/inocybe-erubescens-ziegelroter-risspilz) sind größer und kräftiger, und ihre Stiele sind knollenlos. Zudem besitzen sie keine Pleurozystiden, und ihre Cheilozystiden sind dünnwandig ohne Kristallschopf.\
 Der Weißrosa Risspilz (*Inocybe whitei*) ist etwas robuster und dickstieliger als unsere Art. Sein Fruchtkörper ist weiß und fleckt bei Verletzung oder im Alter rötlich. Er wächst vor allem im Fichtenwald. Seine Stielknolle – wenn vorhanden – ist rundlich, keinesfalls gerandet.
