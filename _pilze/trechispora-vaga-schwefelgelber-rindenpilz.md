@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Trechispora vaga
   deutsch: Schwefelgelber Rindenpilz
   referenz: (Fr.) Liberta 1966
-  synonym: "Synonym: Phlebiella sulphurea, Xenasmatella vaga"
+  synonym: "Synonyme: Phlebiella sulphurea, Xenasmatella vaga"
   erlaeuterung: vaga = unstet, wandernd
   familie: Hydnodontaceae
 profil:
