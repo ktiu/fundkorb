@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phlebia_tremellosa_02_cw.jpg" %}
+{% include abbildung_ende.html %}
+
+23.01.2024: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Gallertfleischige Fältling *Phlebia tremellosa*, gehört zu den wenig beachteten aber leicht kenntlichen Arten. Er wächst an toten vermodernden Laubholzstümpfen oder liegenden Stämmen, also meist in Bodennähe, und ist das ganze Jahr über zu finden, am häufigsten im Spätherbst und bei milder Witterung auch in den Wintermonaten. Er ist sogar roh essbar, aber sicher nicht jedermanns Geschmack. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/piptoporus_betulinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 21.01.2024: Auf Fichtenzapfen (und keinen anderen!) ist er jetzt schon da, unser aktueller [Fundkorbpilz](AA "Glossar-"), der Fichtenzapfenrübling *Strobilurus esculentus*. Optisch ist er kaum zu unterscheiden von anderen Arten der Gattung. Immerhin helfen Substrat und Geschmack weiter und sorgen in unserem Fall für Klarheit: *an Fichtenzapfen + milder Geschmack + frühe Erscheinungszeit = Fichtenzapfenrübling*. Es ist nicht viel dran an einem Pilzchen, aber er ist durchaus essbar.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/strobilurus-esculentus-fichtenzapfenrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypomyces_aurantius_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Orangegelbe Schmarotzer-Pustelpilz *Hypomyces aurantius*. Er wächst auf der Unterseite verschiedener Porlinge. Gefunden haben wir ihn aktuell an einem [Birkenporling (*Piptoporus betulinus*)](/pilze/piptoporus-betulinus-birkenporling), er kommt aber auch an anderen Porlingsarten vor. In der Literatur wird er oft als selten angegeben, was definitiv nicht meinen Erfahrungen entspricht. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypomyces-aurantius-orangegelber-schmarotzer-pustelpilz)
 
 <div style="clear:  both"></div>
 
