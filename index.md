@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/fomitopsis_pinicola_09_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-24.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotrandige Baumschwamm *Fomitopsis pinicola*. Nach dem roten Rand an seinen Hüten wird man oft vergeblich suchen. Während der Wachstumsphasen ist der Hutrand gelb, dann rot und später ist die ganze Hutoberfläche dunkelgrau. Man findet diese sehr häufige mehrjährige Art vor allem an den verschiedensten Hölzern, vor allem an Fichten, Kiefern, Buchen und Birken. (Dieter Gewalt)
+24.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotrandige Baumschwamm *Fomitopsis pinicola*. Nach dem roten Rand an seinen Hüten wird man oft vergeblich suchen. Während der Wachstumsphasen ist der Hutrand gelb, dann rot und später ist die ganze Hutoberfläche dunkelgrau. Man findet diese sehr häufige mehrjährige Art an den verschiedensten Hölzern, vor allem an Fichten, Kiefern, Buchen und Birken. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)
 
