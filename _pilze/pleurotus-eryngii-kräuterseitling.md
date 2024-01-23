@@ -15,6 +15,9 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Brauner_Kr%C3%A4uter-Seitling
   - url: http://tintling.com/pilzbuch/arten/p/Pleurotus_eryngii.html
+  - url: https://www.essensnatur.de/product/10284024/pilzbrut-bio-kraeuterseitlingkultur
+  - text: "Petra Albert, Guido Albert: Kulturpilz Kräuterseitling (Pleurotus
+      eryngii). In: Der Tintling 2/2007 (Nr.  51) S. 60–67"
 ---
 In freier Wildbahn habe ich den Kräuterseitling noch nie gesehen. Kein Wunder: in der Roten Liste bedrohter Arten Deutschlands wird er in der Kategorie 1 (vom Aussterben bedroht) geführt. Für sein Überleben sorgen vor allem Pilzzuchtbetriebe, die mit ihm gute Geschäfte machen. Auch das ist kein Wunder. Es handelt sich um einen hervorragenden Speisepilz, der in jeder Hinsicht mit dem Steinpilz konkurrieren kann und in der Naturheilkunde als Vitalpilz gepriesen wird.
 
