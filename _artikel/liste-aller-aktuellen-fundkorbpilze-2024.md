@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-24.01.2024: [Fomitopsis pinicola - Rotrandiger Baumschwamm](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)  
+25.01.2024: [Exidia cartilaginea - Knorpeliger Drüsling](/pilze/exidia-cartilaginea-knorpeliger-drüsling)  
+24.01.2024: [Fomitopsis pinicola - Rotrandiger Baumschwamm](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)\
 23.01.2024: [Phlebia tremellosa - Gallertfleischiger Fältling](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)\
 22.01.2024: [Piptoporus betulinus - Birkenporling](/pilze/piptoporus-betulinus-birkenporling)\
 21.01.2024: [Strobilurus esculentus - Fichtenzapfenrübling](/pilze/strobilurus-esculentus-fichtenzapfenrübling)\
