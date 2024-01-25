@@ -35,3 +35,5 @@ Wichtige Mikromerkmale: Sporen elliptisch, glatt, 9 - 14 x 6 - 8 µm; Basidien 4
 Verwechslungen sind mit mehreren ähnlichen Risspilzarten möglich, z. B. dem Gefleckten Risspilz *Inocybe maculata*, dem Braunvioletten Risspilz *Inocybe cincinnata*, dem Birnen-Risspilz *Inocybe fraudans* und anderen, sodass für eine sichere Bestimmung fast immer eine mikroskpische Nachprüfung erforderlich ist. Der Weinrote Risspilz gehört zur glattsporigen Gruppe der Risspilze. Er soll im Gegensatz zu den meisten anderen Risspilzen ungiftig sein, sollte aber auf keinen Fall gegessen und Geschmacksproben unbedingt wieder ausgespuckt werden.
 
 Risspilze (auch Wirrköpfe genannt) sind [Mykorrhizapilze](Mykorrhiza "Glossar") und mit ca. 500 (!) Arten in Mitteileuropa vertreten. Ihre Hüte sind meist trocken, kegelig-glockig und radialrissig. Die Lamellen sind vor dem Sporenabwurf grau, danach braun. Die in Mitteleuropa vorkommenden Risspilze sind inzwischen in die 3 Gattungen *Inocybe*, *Inosperma* und *Pseudosperma* aufgeteilt worden.
+
+Mehr über die Verwandtschaft der Risspilze [erfahren Sie hier >](/verwandt/risspilze)
