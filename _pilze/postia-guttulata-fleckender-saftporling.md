@@ -25,6 +25,9 @@ Sehr seltene, nur im östlichen Deutschland etwas häufigere Art. Dieser Saftpor
 Die Hutoberfläche kann rosabräunliche oder gelbbräunliche Zonen aufweisen. Die unregelmäßigen, etwas mehligen Poren messen 3 - 5 per mm und wirken wie eingebohrt.
 
 {% include abbildung_start.html stil="standard" %}
+{% include abbildung_ende.html %}
+
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/postia-guttula_02_wp.jpg" %}
 {% include abbildung_ende.html %}
 
