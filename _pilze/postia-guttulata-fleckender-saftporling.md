@@ -24,13 +24,15 @@ Sehr seltene, nur im östlichen Deutschland etwas häufigere Art. Dieser Saftpor
 
 Die Hutoberfläche kann rosabräunliche oder gelbbräunliche Zonen aufweisen. Die unregelmäßigen, etwas mehligen Poren messen 3 - 5 per mm und wirken wie eingebohrt.
 
-{% include abbildung_start.html stil="standard" %}
-{% include abbildung_ende.html %}
-
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/postia-guttula_02_wp.jpg" %}
 {% include abbildung_ende.html %}
 
 Bei Berührung verfärben sie sich hin und wieder rosa bzw. rötlich. Wie *Oligoprus stipticus* ist auch der Getropfte Saftporling sehr bitter. Er wächst ausschließlich an Nadelholz und dort gerne an vermorschten Stümpfen. In den westlichen Bundesländern ist die Art, von wenigen Ausnahmen abgesehen (z. B. Niedersachsen, Nordbayern und inzwischen auch Hessen) bisher nicht nachgewiesen. Der vermutliche Erstfund für Hessen gelang *Norbert Kühnberger* im August 2007 bei Kelkheim nahe Frankfurt an Nadelholz.
 
 Die abgebildeten Fruchtkörper wuchsen im September 2006 an verschiedenen Fichtenstümpfen bei Kirchenlamitz und Wundsiedel im Fichtelgebirge.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/postia-guttula_03_nk.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/postia-guttula_04_nk.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="August 2007, bei Kelkheim nahe Frankfurt am Main ( 2 Fotos: Norbert Kühnberger)" %}
