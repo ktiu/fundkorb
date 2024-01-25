@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Postia fragilis
   deutsch: Braunfleckender Saftporling
   referenz: (Fr.) Jülich 1982
-  synonym: "Synonym: Oligoporus (Tyromyces) fragilis"
+  synonym: "Synonyme: Oligoporus fragilis,  Tyromyces fragilis"
   erlaeuterung: fragilis = zerbrechlich
   familie: Fomitopsidaceae
 profil:
