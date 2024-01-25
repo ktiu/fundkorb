@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/cucurbitaria_berberidis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-26.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Berberitzenkugelpilz *Cucurbitaria berberidis*. Die winzigen [Pyrenomyzeten](<Pyrenomyzeten "Glossar">) wachsen ganzjährig an abgestorbenen Stängeln und Zweigen von Berberitzen und sind wohl überall und zu jeder Jahreszeit zu finden, wo Berberitzen stehen. Sie haben eine maulbeerartige Struktur und brechen aus der trockenen Rinde hervor. Oft erscheinen sie als schwarze Spalten, in denen man mit einer guten Lupe die Details erkennen kann. (Dieter Gewalt)
+26.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Berberitzenkugelpilz *Cucurbitaria berberidis*. Die winzigen [Pyrenomyzeten](Pyrenomyzeten "Glossar") wachsen ganzjährig an abgestorbenen Stängeln und Zweigen von Berberitzen und sind wohl überall und zu jeder Jahreszeit zu finden, wo Berberitzen stehen. Sie haben eine maulbeerartige Struktur und brechen aus der trockenen Rinde hervor. Oft erscheinen sie als schwarze Spalten, in denen man mit einer guten Lupe die Details erkennen kann. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)
 
