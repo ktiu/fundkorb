@@ -47,3 +47,5 @@ Hut bis 80 mm im Durchmesser, zuerst kegelig, dann ausgebreitet mit stumpfem Buc
 [Ziegelrote Risspilze (*Inocybe erubescens*)](/pilze/inocybe-erubescens-ziegelroter-risspilz) erscheinen ebenfalls früh im Jahr, und junge Fruchtkörper können ähnlich aussehen. Sie gehen allerdings eine Mykorrhiza mit Laubbäumen ein, und der Hut rötet im Verlauf des Wachstums. Auch ist der Hut bei älteren Exemplaren stark radialrissig.\
 Der Weißrosa Risspilz (*Inocybe whitei*), besitzt kleinere, weiße Fruchtkörper, die bei Verletzung oder im Alter rötlich flecken. Er wächst erst im Herbst, und zwar vor allem bei Fichten.\
 Der [Seidige Risspilz (*Inocybe geophylla*)](/pilze/inocybe-geophylla-seidiger-risspilz) ist meist kleiner, sein Hut ist spitzgebuckelt und seidig glänzend. Er wächst vom Sommer bis in den Spätherbst hinein.
+
+Mehr über die Verwandtschaft der Risspilze [erfahren Sie hier >](/verwandt/risspilze)
