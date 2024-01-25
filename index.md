@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cucurbitaria_berberidis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Berberitzenkugelpilz *Cucurbitaria berberidis*. Die winzigen [Pyrenomyzeten](<Pyrenomyzeten "Glossar">) wachsen ganzjährig an abgestorbenen Stängeln und Zweigen von Berberitzen und sind wohl überall und zu jeder Jahreszeit zu finden, wo Berberitzen stehen. Sie haben eine maulbeerartige Struktur und brechen aus der trockenen Rinde hervor. Oft erscheinen sie als schwarze Spalten, in denen man mit einer guten Lupe die Details erkennen kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/exidia_cartilaginea_02_wp.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 24.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotrandige Baumschwamm *Fomitopsis pinicola*. Nach dem roten Rand an seinen Hüten wird man oft vergeblich suchen. Während der Wachstumsphasen ist der Hutrand gelb, dann rot und später ist die ganze Hutoberfläche dunkelgrau. Man findet diese sehr häufige mehrjährige Art an den verschiedensten Hölzern, vor allem an Fichten, Kiefern, Buchen und Birken. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phlebia_tremellosa_02_cw.jpg" %}
-{% include abbildung_ende.html %}
-
-23.01.2024: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Gallertfleischige Fältling *Phlebia tremellosa*, gehört zu den wenig beachteten aber leicht kenntlichen Arten. Er wächst an toten vermodernden Laubholzstümpfen oder liegenden Stämmen, also meist in Bodennähe, und ist das ganze Jahr über zu finden, am häufigsten im Spätherbst und bei milder Witterung auch in den Wintermonaten. Er ist sogar roh essbar, aber sicher nicht jedermanns Geschmack. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
 
 <div style="clear:  both"></div>
 
