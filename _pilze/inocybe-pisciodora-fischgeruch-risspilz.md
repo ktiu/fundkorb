@@ -51,3 +51,5 @@ Sporen groß, glatt, dickwandig, ellipsoid oder angedeutet mandelförmig. Gemess
 Nach der Fachliteratur ist es völlig unklar, ob es sich bei dem *[Velum](Velum "Glossar")*, das man bei jungen Exemplaren deutlich erkennen kann, um das [Velum universale](Velum universale "Glossar") oder um das [Velum partiale](Velum partiale "Glossar") ([Cortina](Cortina "Glossar")) handelt.
 
 Der Duftende Risspilz (*Inocybe bongardii*) unterscheidet sich nur durch seinen süßlichen bis obstigen Geruch.
+
+Mehr über die Verwandtschaft der Risspilze [erfahren Sie hier >](/verwandt/risspilze)
