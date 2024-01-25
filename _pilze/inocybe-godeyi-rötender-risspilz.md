@@ -57,3 +57,5 @@ Die meisten Risspilze, so auch die hier beschriebene Art, sind giftig bis sehr g
 
 Der  [Weinrote Risspilz (*Inosperma adaequatum*)](/pilze/inocybe-adaequata-weinroter-risspilz) sowie der [Ziegelrote Risspilz (Inosperma erubescens)](/pilze/inocybe-erubescens-ziegelroter-risspilz) sind größer und kräftiger, und ihre Stiele sind knollenlos. Zudem besitzen sie keine Pleurozystiden, und ihre Cheilozystiden sind dünnwandig ohne Kristallschopf.\
 Der Weißrosa Risspilz (*Inocybe whitei*) ist etwas robuster und dickstieliger als unsere Art. Sein Fruchtkörper ist weiß und fleckt bei Verletzung oder im Alter rötlich. Er wächst vor allem im Fichtenwald. Seine Stielknolle – wenn vorhanden – ist rundlich, keinesfalls gerandet.
+
+Mehr über die Verwandtschaft der Risspilze [erfahren Sie hier >](/verwandt/risspilze)
