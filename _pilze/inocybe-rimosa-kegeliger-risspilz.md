@@ -42,3 +42,5 @@ Es handelt sich um eine der [häufigsten Risspilzarten](http://www.pilze-deutsch
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/inocybe_rimosa_03_dg.jpg" %}
 {% include abbildung_ende.html %}
+
+Mehr über die Verwandtschaft der Risspilze [erfahren Sie hier >](/verwandt/risspilze)
