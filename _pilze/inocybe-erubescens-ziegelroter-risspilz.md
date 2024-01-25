@@ -37,3 +37,5 @@ Er enthält größere Mengen des Nervengifts *Muscarin*, das Symptome wie Schwei
 {% include bild.html datei="/bilder/inocybe_erubescens_06_gsch.jpg" %}
 {% include bild.html datei="/bilder/inocybe_erubescens_07_gsch.jpg" %}
 {% include abbildung_ende.html %}
+
+Mehr über die Verwandtschaft der Risspilze [erfahren Sie hier >](/verwandt/risspilze)
