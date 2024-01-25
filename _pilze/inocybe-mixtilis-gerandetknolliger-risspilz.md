@@ -45,3 +45,5 @@ Sporen gelblich, vieleckig länglich mit ca. zehn Höckern, 8,1 - 10 x 5,8 - 7,4
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/inocybe_mixtilis_05_wk.jpg" %}
 {% include abbildung_ende.html legende="Zusammenfassende Darstellung von Habitus und Mikromerkmalen von Wolfgang Kaiser" %}
+
+Mehr über die Verwandtschaft der Risspilze [erfahren Sie hier >](/verwandt/risspilze)
