@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-26.01.2024: [Cucurbitaria berberidis - Berberitzenkugelpilz](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)  
+27.01.2024: [Hypoxylon fragiforme - Rötliche Kohlenbeere](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)  
+26.01.2024: [Cucurbitaria berberidis - Berberitzenkugelpilz](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)\
 25.01.2024: [Exidia cartilaginea - Knorpeliger Drüsling](/pilze/exidia-cartilaginea-knorpeliger-drüsling)\
 24.01.2024: [Fomitopsis pinicola - Rotrandiger Baumschwamm](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)\
 23.01.2024: [Phlebia tremellosa - Gallertfleischiger Fältling](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)\
