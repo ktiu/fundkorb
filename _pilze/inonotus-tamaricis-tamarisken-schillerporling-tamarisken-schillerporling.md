@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: Inonotus tamaricis			Tamarisken-Schillerporling
+  wissenschaftlich: Inonotus tamaricis
   deutsch: Tamarisken-Schillerporling
   referenz: (Pat.) Maire 1938
   erlaeuterung: tamaricis = an Tamarisken
