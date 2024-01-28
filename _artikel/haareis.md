@@ -26,6 +26,6 @@ Bei ihrem Stoffwechsel werden Gase freigesetzt, die im Holz vorhandene Wassermol
 {% include bild.html datei="/bilder/haareis_04_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-Auf der [Homepage des Deutschen Wetterdienstes](https://www.dwd.de/DE/service/lexikon/Functions/glossar.html?lv2=101094&lv3=101140) findet sich der Hinweis, dass der Wachskrustenpilz *Exidiopsis effusa* für das Phänomen Haareis verantwortlich sein soll.
+Auf der [Homepage des Deutschen Wetterdienstes](https://www.dwd.de/DE/service/lexikon/Functions/glossar.html?lv2=101094&lv3=101140) findet sich der Hinweis, dass der [Wachskrustenpilz *Exidiopsis effusa*](/pilze/exidiopsis-effusa-rosagetönte-wachskruste) für das Phänomen Haareis verantwortlich sein soll.
 
 (Januar 2022)
