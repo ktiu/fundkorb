@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cyclaneusma_minus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.01.2024: Um einen aktuellen [Fundkorbpilz](AA "Glossar-") zu finden, genügt mir ein kurzer Ausflug in den Park, den ich praktisch vor der Haustür habe. Ich brauche nur ein paar Kiefernnadeln aufzuheben, um fündig zu werden. Um das Kiefernnadel-Polsterbecherchen *Cyclaneusma minus* so zu sehen wie auf dem Foto, bedarf es allerdings schon einer gut vergrößernden Lupe. Es gehört zu den Schlauchpilzen (*Ascomyzeten*), ähnelt im Aussehen einer Spaltlippe (Gattung *Lophodermium*) und verursacht ein als Kiefernnadelbräune (auch *Naemacyclus-Nadelschütte*) bekanntes Schadbild, das vor allen an Nadeln der Schwarzkiefer zu beobachten ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/inonotus_hispidus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 27.01.2024: Egal welche Jahreszeit: Kohlenbeeren sind immer da, werden aber kaum beachtet. Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rötliche (*Hypoxylon fragiforme*), ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cucurbitaria_berberidis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Berberitzenkugelpilz *Cucurbitaria berberidis*. Die winzigen [Pyrenomyzeten](Pyrenomyzeten "Glossar") wachsen ganzjährig an abgestorbenen Stängeln und Zweigen von Berberitzen und sind wohl überall und zu jeder Jahreszeit zu finden, wo Berberitzen stehen. Sie haben eine maulbeerartige Struktur und brechen aus der trockenen Rinde hervor. Oft erscheinen sie als schwarze Spalten, in denen man mit einer guten Lupe die Details erkennen kann. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)
 
 <div style="clear:  both"></div>
 
