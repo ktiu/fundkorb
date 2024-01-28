@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/inonotus_hispidus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.01.2024: Irgendwann erwischt es so ziemlich jeden Apfelbaum, meist auf seine alten Tage. Er wird von unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Zottigen Schillerporling *Inonotus hispidus* (auch Pelzporling genannt) befallen und damit ist sein Schicksal besiegelt. Der mordende Parasit ist immerhin ein rücksichtsvoller Killer. Er lässt dem Gartenbesitzer Zeit, ein junges Bäumchen zu pflanzen und dessen Ertragsreife abzuwarten. So lange trägt der Patient noch Früchte. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/inonotus-hispidus-zottiger-schillerporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_fragiforme_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 26.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Berberitzenkugelpilz *Cucurbitaria berberidis*. Die winzigen [Pyrenomyzeten](Pyrenomyzeten "Glossar") wachsen ganzjährig an abgestorbenen Stängeln und Zweigen von Berberitzen und sind wohl überall und zu jeder Jahreszeit zu finden, wo Berberitzen stehen. Sie haben eine maulbeerartige Struktur und brechen aus der trockenen Rinde hervor. Oft erscheinen sie als schwarze Spalten, in denen man mit einer guten Lupe die Details erkennen kann. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cucurbitaria-berberidis-berberitzenkugelpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/exidia_cartilaginea_02_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-25.01.2024: Unsere Dietzenbacher Parkanlage ist immer wieder für Überraschungen und einen aktuellen [Fundkorbpilz](AA "Glossar-") gut. Diesmal ist es der Knorpelige Drüsling *Exidia cartilaginea*, der auf einem zwischen Efeubewuchs am Boden liegenden Eichenast wuchs. Die zusammenfließenden glibberigen Fruchtkörper sind punktförmig am Substrat angewachsen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/exidia-cartilaginea-knorpeliger-drüsling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/fomitopsis_pinicola_09_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotrandige Baumschwamm *Fomitopsis pinicola*. Nach dem roten Rand an seinen Hüten wird man oft vergeblich suchen. Während der Wachstumsphasen ist der Hutrand gelb, dann rot und später ist die ganze Hutoberfläche dunkelgrau. Man findet diese sehr häufige mehrjährige Art an den verschiedensten Hölzern, vor allem an Fichten, Kiefern, Buchen und Birken. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)
 
 <div style="clear:  both"></div>
 
