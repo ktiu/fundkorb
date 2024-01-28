@@ -18,8 +18,10 @@ literatur:
       Seite 525 - 527"
   - text: "Ewald Gerhardt: Der große BLV-Pilzführer für unterwegs, Seite 84"
   - url: http://tintling.com/pilzbuch/arten/t/Tricholoma_aurantium.html
-  - text: https://de.wikipedia.org/wiki/Orangeroter_Ritterling
-  - text: https://www.pilz-baden.ch/galerie/deutsch/ritterling-131/orangeroter_ritterling-367
+  - text: ""
+    url: https://de.wikipedia.org/wiki/Orangeroter_Ritterling
+  - text: ""
+    url: https://www.pilz-baden.ch/galerie/deutsch/ritterling-131/orangeroter_ritterling-367
 ---
 Der Orangerote Ritterling ist eine seltene Art, die in Deutschland inzwischen sogar als bedrohte Art (Gefährungsgrad G 2 = stark gefährdet) eigestuft wird. Sie kommt auf kalkhaltigen Böden unter Nadel-, seltener Laubbäumen vom Spätsommer bis zum Herbst vor. Wenn sie einmal gefunden wird, dann meist zu mehreren oder in größerer Zahl, manchmal miteinander verknäuelt wie auf obiger Abbildung.
 
