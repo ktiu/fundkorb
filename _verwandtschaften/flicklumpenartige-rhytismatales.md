@@ -11,15 +11,15 @@ Wenn man den deutschen Namen für die Ordnung der Rhytismatales zum ersten Mal l
 
 Die Rhytismatales gehören zu den [Schlauchpilzen (*Ascomycota*)](Ascomyzeten "Glossar") und sind in vier Familien aufgeteilt. In diesen finden sich Arten, die von ihrem Aussehen her überhaupt nicht zueinander zu passen scheinen, mit Flicklumpen keinerlei Ähnlichkeit haben und auch keine Runzeln besitzen. Auch für diese bunte Mischung kommt mir das Bild eines wahllos zusammengeflickten Lumpens in den Sinn. Da in der Systematik der Pilze zur Zeit vieles im Umbruch ist, wird die nahe Zukunft zeigen, ob diese sehr heterogene Ordnung in ihrer jetzigen Form Bestand haben wird.
 
-**1\. Familie der Rindenschorfverwandten (Ascodichaenaceae)**
+**1. Familie der Rindenschorfverwandten (Ascodichaenaceae)**
 
 Einer der bekannteren aber kaum beachteten Arten ist der [Buchen-Rindenschorf Ascodichaena rugosa](/pilze/ascodichaena-rugosa-buchen-rindenschorf), dessen deutscher Name bereits eine Beschreibung seines Erscheinungsbildes ist: ein dunkler schorfiger Belag auf der Rinde lebender Buchen. Er dürfte in keinem Rotbuchenbestand fehlen und wurde trotz seiner Häufigkeit erst 1977 als Pilz erkannt und beschrieben.
 
-**2\. Familie der Cryptomycetaceae** mit 4 weitgehend unbeachteten Gattungen 
+**2. Familie der Cryptomycetaceae** mit 4 weitgehend unbeachteten Gattungen 
 
 Diese bei Wikipedia als zugehörig aufgeführte Familie wird von kaum einem maßgeblichen Mykologen als solche anerkannt. Der Rindenpilz Cryptomyces maximus, der an Weidenästen schwarze Stromata bildet, wird der Familie Rhytismatacea (siehe 4.) zugerechnet. 
 
-**3\. Familie der Kreislingsverwandten (Cudoniaceae)**
+**3. Familie der Kreislingsverwandten (Cudoniaceae)**
 
 In dieser Familie finden sich, wie es der Hobby-Pilzfreund nennen würde, einige "richtige Pilze" wie der [Gelbe Spateling Spathularia flavida](/pilze/spathularia-flavida-gelber-spateling). Auch die Gattung der Kreislinge (Cudonia) gehört zu ihr.
 
@@ -28,7 +28,7 @@ In dieser Familie finden sich, wie es der Hobby-Pilzfreund nennen würde, einige
 {% include bild.html datei="/bilder/spathularia_flavida_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: Buchen-Rindenschorf (Asodichaena rugosa) -- rechts: Gelber Spateling (Spathularia flavida)" %}
 
-**4\. Familie der Runzelschorfverwandten (Rhytismataceae)**
+**4. Familie der Runzelschorfverwandten (Rhytismataceae)**
 
 In dieser Familie sind insgesamt 43 Gattungen zusammengefasst, unter denen die Spaltlippen, Schildbecherlinge und Runzelschorfe die etwas bekannteren sind.
 
@@ -42,8 +42,10 @@ In dieser Familie sind insgesamt 43 Gattungen zusammengefasst, unter denen die S
 [Lophodermium arundinaceum](/pilze/lophodermium-arundinaceum-schilf-spaltlippe) - [Schilf-Spaltlippe ](/pilze/lophodermium-arundinaceum-schilf-spaltlippe)\
 [Lophodermium gramineum - Gras-Spaltlippe](/pilze/lophodermium-gramineum-gras-spaltlippe)\
 [Lophodermium petiolicola](/pilze/lophodermium-petiolicola-petiolen-spaltlippe) - [Petiolen-Spaltlippe ](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)\
-[Lophodermium piceae - Fichtennadel-Spaltlippe](/pilze/lophodermium-piceae-fichtennadel-spaltlippe-fichtennadelröte)  
+[Lophodermium piceae - Fichtennadel-Spaltlippe](/pilze/lophodermium-piceae-fichtennadel-spaltlippe-fichtennadelröte)\
 [Lophodermium pinastri - ](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)[Kiefernnadelspaltlippe](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)\
 [Lophodermium seditiosum](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe) - [Kiefernschütte-Spaltlippe ](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe)
-  
+
+Eine Art Spaltlippe ist auch das [Helle Kiefernnadel-Polsterbecherchen *Cyclaneusma minus*](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen), das vor allem an Nadeln der Schwarzkiefer Pinus nigra erscheint und eine Nadelschütte verursacht.
+
 **Schildbecherlinge** (*Colpoma*) bilden eine Gattung mit wenigen an Baumästen wachsenden becher- oder schiffchenförmigen Arten wie dem [Eichen-Schildbecherling Colpoma quercinum](/pilze/colpoma-quercinum-eichen-schildbecherling). Bekanntester Verteter der **Runzelschorfe** ist der bereits erwähnte [Ahorn-Runzelschorf Rhytisma acerinum](/pilze/rhytisma-acerinum-ahorn-runzelschorf).
