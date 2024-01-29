@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/panellus_stipticus_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+30.01.2024: Würde er seine nachgewiesene faszinierende Fähigkeit, Lamellen und [Myzel](<Myzel "Glossar">) nachts in leuchtendem Grün erstrahlen zu lassen, doch nur ausspielen: der Herbe Zwergknäueling *Panellus stipticus* wäre sicherlich der Superstar unter den Waldbewohnern und nicht nur aktueller [Fundkorbpilz](AA "Glossar-")! Auch im Hinblick auf ein weiteres Merkmal, das namensgebende „herb“ vor dem Gattungsnamen, hält sich der Pilz nicht zuverlässig an ihn beschreibende Literatur. Obwohl er mir auch in diesem neuen Jahr bei jeder Waldrunde begegnet, verläuft die Geschmacksprobe weiterhin konsequent anders als erwartet: nämlich angenehm mild! (Florian Weyel)
+
+[Mehr lesen >](/pilze/panellus-stipticus-herber-zwergknäueling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cyclaneusma_minus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 28.01.2024: Irgendwann erwischt es so ziemlich jeden Apfelbaum, meist auf seine alten Tage. Er wird von unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Zottigen Schillerporling *Inonotus hispidus* (auch Pelzporling genannt) befallen und damit ist sein Schicksal besiegelt. Der mordende Parasit ist immerhin ein rücksichtsvoller Killer. Er lässt dem Gartenbesitzer Zeit, ein junges Bäumchen zu pflanzen und dessen Ertragsreife abzuwarten. So lange trägt der Patient noch Früchte. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/inonotus-hispidus-zottiger-schillerporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_fragiforme_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.01.2024: Egal welche Jahreszeit: Kohlenbeeren sind immer da, werden aber kaum beachtet. Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rötliche (*Hypoxylon fragiforme*), ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)
 
 <div style="clear:  both"></div>
 
