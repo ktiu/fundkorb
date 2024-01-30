@@ -10,7 +10,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/hygrocybe-punicea-udo-schäfer.jpg
+  datei: /bilder/hygrocybe_punicea_01_us.jpg
   legende: "Foto: Udo Schäfer"
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 3, Nr. 99"
