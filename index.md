@@ -13,10 +13,22 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_insignitum_05_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+31.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze wachsen ausschließlich an Totholz und sind daher das ganze Jahr über zu finden. Sie zeichen sich durch ein glattes, höchstens runzeliges Hymenophor aus, der sporenbildenden Fruchtschicht auf der Hutunterseite. Der Doppelgänger des Braunsamtigen ist der [Samtige Schichtpilz Stereum subtomentosum](/pilze/stereum-subtomentosum-samtiger-schichtpilz). Beide sind mit bloßem Auge kaum zu unterscheiden, aber schon eine gut vergrößernde Lupe kann helfen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/panellus_stipticus_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-30.01.2024: Würde er seine nachgewiesene faszinierende Fähigkeit, Lamellen und [Myzel](Myzel "Glossar") nachts in leuchtendem Grün erstrahlen zu lassen, doch nur ausspielen: der Herbe Zwergknäueling *Panellus stipticus* wäre sicherlich der Superstar unter den Waldbewohnern und nicht nur aktueller [Fundkorbpilz](AA "Glossar-")! Auch im Hinblick auf ein weiteres Merkmal, das namensgebende „herb“ vor dem Gattungsnamen, hält sich der Pilz nicht zuverlässig an ihn beschreibende Literatur. Obwohl er mir auch in diesem neuen Jahr bei jeder Waldrunde begegnet, verläuft die Geschmacksprobe weiterhin konsequent anders als erwartet: nämlich angenehm mild! (Florian Weyel)
+30.01.2024: Würde er seine nachgewiesene, faszinierende Fähigkeit, Lamellen und [Myzel](Myzel "Glossar") nachts in leuchtendem Grün erstrahlen zu lassen, doch nur ausspielen: der Herbe Zwergknäueling *Panellus stipticus* wäre sicherlich der Superstar unter den Waldbewohnern und nicht nur aktueller [Fundkorbpilz](AA "Glossar-")! Auch im Hinblick auf ein weiteres Merkmal, das namensgebende „herb“ vor dem Gattungsnamen, hält sich der Pilz nicht zuverlässig an ihn beschreibende Literatur. Obwohl er mir auch in diesem neuen Jahr bei jeder Waldrunde begegnet, verläuft die Geschmacksprobe weiterhin konsequent anders als erwartet: nämlich angenehm mild! (Florian Weyel)
 
 [Mehr lesen >](/pilze/panellus-stipticus-herber-zwergknäueling)
 
@@ -31,18 +43,6 @@ footer_scripts:
 29.01.2024: Um einen aktuellen [Fundkorbpilz](AA "Glossar-") zu finden, genügt mir ein kurzer Ausflug in den Park, den ich praktisch vor der Haustür habe. Ich brauche nur ein paar Kiefernnadeln aufzuheben, um fündig zu werden. Um das Kiefernnadel-Polsterbecherchen *Cyclaneusma minus* so zu sehen wie auf dem Foto, bedarf es allerdings schon einer gut vergrößernden Lupe. Es gehört zu den Schlauchpilzen (*Ascomyzeten*), ähnelt im Aussehen einer Spaltlippe (Gattung *Lophodermium*) und verursacht ein als Kiefernnadelbräune (auch *Naemacyclus-Nadelschütte*) bekanntes Schadbild, das vor allen an Nadeln der Schwarzkiefer zu beobachten ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/inonotus_hispidus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.01.2024: Irgendwann erwischt es so ziemlich jeden Apfelbaum, meist auf seine alten Tage. Er wird von unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Zottigen Schillerporling *Inonotus hispidus* (auch Pelzporling genannt) befallen und damit ist sein Schicksal besiegelt. Der mordende Parasit ist immerhin ein rücksichtsvoller Killer. Er lässt dem Gartenbesitzer Zeit, ein junges Bäumchen zu pflanzen und dessen Ertragsreife abzuwarten. So lange trägt der Patient noch Früchte. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/inonotus-hispidus-zottiger-schillerporling)
 
 <div style="clear:  both"></div>
 
