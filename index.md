@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/panellus_stipticus_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-30.01.2024: Würde er seine nachgewiesene faszinierende Fähigkeit, Lamellen und [Myzel](<Myzel "Glossar">) nachts in leuchtendem Grün erstrahlen zu lassen, doch nur ausspielen: der Herbe Zwergknäueling *Panellus stipticus* wäre sicherlich der Superstar unter den Waldbewohnern und nicht nur aktueller [Fundkorbpilz](AA "Glossar-")! Auch im Hinblick auf ein weiteres Merkmal, das namensgebende „herb“ vor dem Gattungsnamen, hält sich der Pilz nicht zuverlässig an ihn beschreibende Literatur. Obwohl er mir auch in diesem neuen Jahr bei jeder Waldrunde begegnet, verläuft die Geschmacksprobe weiterhin konsequent anders als erwartet: nämlich angenehm mild! (Florian Weyel)
+30.01.2024: Würde er seine nachgewiesene faszinierende Fähigkeit, Lamellen und [Myzel](Myzel "Glossar") nachts in leuchtendem Grün erstrahlen zu lassen, doch nur ausspielen: der Herbe Zwergknäueling *Panellus stipticus* wäre sicherlich der Superstar unter den Waldbewohnern und nicht nur aktueller [Fundkorbpilz](AA "Glossar-")! Auch im Hinblick auf ein weiteres Merkmal, das namensgebende „herb“ vor dem Gattungsnamen, hält sich der Pilz nicht zuverlässig an ihn beschreibende Literatur. Obwohl er mir auch in diesem neuen Jahr bei jeder Waldrunde begegnet, verläuft die Geschmacksprobe weiterhin konsequent anders als erwartet: nämlich angenehm mild! (Florian Weyel)
 
 [Mehr lesen >](/pilze/panellus-stipticus-herber-zwergknäueling)
 
