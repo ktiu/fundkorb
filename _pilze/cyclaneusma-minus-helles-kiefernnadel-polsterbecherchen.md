@@ -24,3 +24,5 @@ Auf unserem Foto sind zwei der bis zu 15 cm langen Nadeln der Schwarzkiefer (*Pi
 Die beiden Nadeln zeigen relativ geschlossene (schmallippige) Fruchtkörper. Bei Feuchtigkeit öffnen sich die Lippen, wobei das beigegraue [Hymenium](Hymenium "Glossar") nahezu rundlich und deutlich größer erscheint. Der Pilz verursacht ein als Kiefernnadelbräune (auch Dothistroma oder Naemacyclus-Nadelschütte) bezeichnetes Schadbild. Erste Kennzeichen eines Befalls sind im Sommer entstehende rötliche Bänder. Im weiteren Verlauf führt der Befall zum Nadelverlust. Auf abgefallenen Nadeln entwickeln sich dann die oben beschriebenen Ascomyzeten.
 
 Verwechslungen wären möglich mit den ebenfalls auf Kiefernnadeln wachsenden Spaltlippen [Lophodermium pinastri](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe) und [L. seditiosum](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe).
+
+Der Pilz gehört zur Ordnung der [Rhytismatales (Flicklumpenartige)](/verwandt/flicklumpenartige-rhytismatales).
