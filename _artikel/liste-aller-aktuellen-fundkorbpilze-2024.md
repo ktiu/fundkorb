@@ -4,7 +4,6 @@ published: true
 ---
 01.02.2024: [Trichaptum abietinum - Violetter Lederporling](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)
 
-
 31.01.2024: [Stereum insignitum - Braunsamtiger Schichtpilz](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)\
 30.01.2015: [Panellus stipticus - Herber Zwergknäueling](/pilze/panellus-stipticus-herber-zwergknäueling)\
 29.01.2014: [Cyclaneusma minus - Kiefernnadel-Polsterbecherchen](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen)\
