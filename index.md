@@ -12,9 +12,6 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
-{% include abbildung_ende.html %}
-
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trichaptum_abietinum_01_wi.jpg" %}
 {% include abbildung_ende.html %}
