@@ -54,6 +54,6 @@ Achtet man auf die schmutzig ockerbraune Farbe der Hüte und die Zähigkeit und 
 
 **Notizen:**
 
-Da die Trama der Lentinus-Arten aus Generativ- und [Skeletthyphen](<Skeletthyphen "Glossar">) ([dimitische](<dimitisch "Glossar">) [Trama](<Trama "Glossar">)) besteht, werden sie zu den Nicht-Blätterpilzen (*Aphyllophorales*), und hier zu den Stielporlingsartigen (*Polyporales*) gezählt.
+Da die Trama der Lentinus-Arten aus Generativ- und [Skeletthyphen](Skeletthyphen "Glossar") ([dimitische](dimitisch "Glossar") [Trama](Trama "Glossar")) besteht, werden sie zu den Nicht-Blätterpilzen (*Aphyllophorales*), und hier zu den Stielporlingsartigen (*Polyporales*) gezählt.
 
 Die Sporen dieses speziellen Fundes waren deutlich kleiner als in der Fachliteratur angegeben. Möglicherweise ist dies auf die anhaltende Kälte während der Wuchszeit der hier behandelten Population zurückzuführen.
