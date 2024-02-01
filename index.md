@@ -12,6 +12,22 @@ footer_scripts:
 
 - - -
 
+Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. Hier geht's zur [Anmeldung >](/termine)[](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/diatrypella_favacea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.02.2024: Auf herumliegenden Birkenästen ist unser aktueller Fundkorbpilz, das Birken-Eckenscheibchen *Diatrypella favacea*, leicht zu übersehen, aber auf diesem Substrat so gut wie immer anzutreffen. [Synonym](synonym "Glossar") wird es auch Rindensprengendes Eckscheibchen genannt - ein Name, der die Wuchsweise dieses [Pyrenomyzeten](Pyrenomyzeten "Glossar") verdeutlicht. Der wissenschaftliche Artname wiederum beschreibt den [Habitus](Habitus "Glossar"): *favacea* bedeutet sinngemäß in etwa „bohnenartig“. (Florian Weyel)
+
+[Mehr lesen >](/pilze/diatrypella-favacea-birken-eckenscheibchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trichaptum_abietinum_01_wi.jpg" %}
 {% include abbildung_ende.html %}
