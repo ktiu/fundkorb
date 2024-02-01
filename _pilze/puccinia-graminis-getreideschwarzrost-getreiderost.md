@@ -18,7 +18,7 @@ literatur:
   - text: "H. Schmid und W. Helfer: Pilze – Wissenswertes aus Ökologie, Geschichte
       und Mythos, Seite 99 - 102"
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/puccinia_graminis_01_wi.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/puccinia_graminis_02_wi.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Abb. links: Befall an Getreidehalmen – Abb. rechts: an Berberitzenblättern (2 Fotos: Wikipedia)" %}
