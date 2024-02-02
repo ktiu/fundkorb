@@ -22,3 +22,5 @@ literatur:
 Zur Bestimmung dieses Rostpilzes genügt es, die Malvenpflanze zu kennen, auf deren Blättern er gelbliche bis braune Pusteln bildet, die sowohl auf der Blattober- wie auch der Blattunterseite erscheinen. Da er keine Aecien und Uredien bildet, findet bei diesem Rost kein Wirtswechsel statt.
 
 Weltweit existieren etwa 7000 Rostpilzarten in ca. 115 Gattungen.
+
+Mehr und viel Wissenswertes über Rostpilze [finden Sie hier >](/verwandt/rostpilze)
