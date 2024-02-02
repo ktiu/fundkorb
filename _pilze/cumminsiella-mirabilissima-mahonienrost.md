@@ -31,3 +31,5 @@ Die Gewöhnliche Mahonie (*Mahonia aquifolium*) ist ein ursprünglich im westlic
 {% include abbildung_ende.html legende="Der Rostpilz kann auch auf den Beeren der Mahonie erscheinen" %}
 
 Rostpilze sind eine Ordnung der Ständerpilze ([Basidiomyzeten](Basidiomyzeten "Glossar")).
+
+Mehr und viel Wissenswertes über Rostpilze [finden Sie hier >](/verwandt/rostpilze)
