@@ -28,3 +28,5 @@ Nur bei sehr starkem Befall kann die Fruchtbildung an Brombeerstauden beeinträc
 {% include bild.html datei="/bilder/phragmidium_violaceum_03_fk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/phragmidium_violaceum_04_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="von links: Bild 1 + 2: Uredosporen der Uredolager -- Bild 3: Teliosporen der Teleutolager (3 Mikrofotos von Frank Kaster)" %}
+
+Mehr und viel Wissenswertes über Rostpilze [finden Sie hier >](/verwandt/rostpilze)
