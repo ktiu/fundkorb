@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+02.02.2024: [Tapinella panuoides - Muschelkrempling](/pilze/tapinella-panuoides-muschelkrempling)  
 01.02.2024: [Trichaptum abietinum - Violetter Lederporling](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)
 
 31.01.2024: [Stereum insignitum - Braunsamtiger Schichtpilz](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)\
