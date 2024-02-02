@@ -17,6 +17,18 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tapinella_panuoides_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+03.02.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") gehört zu den Kremplingen, die [saprobiontisch](saprobiontisch "Glossar") an Holz wachsen und für die deshalb eine eigene Gattung geschaffen worden ist: die Holzkremplinge. Zu ihnen gehören gerade mal zwei Arten, von denen der Muschelkrempling *Tapinella panuides* die weitaus seltenere ist und sich aufgrund ihrer muschelförmigen Hüte und nahezu fehlenden Stiele deutlich vom häufigen Samtfußkrempling unterscheidet. Nach der Umgruppierung heißt er jetzt offiziell Muschelholzkrempling. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tapinella-panuoides-muschelkrempling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrypella_favacea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,30 +47,6 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 01.02.2024: Begibt man sich dieser Tage in einen beliebigen Fichten- oder Kiefernforst und widmet sich abgefallenen Ästen oder Baumstümpfen, ist eine Begegnung unvermeidbar: [Fundkorbpilz](AA "Glossar-") des Tages ist der Violette Lederporling *Trichaptum abietinum*. Der [Saprobiont](saprobiontisch "Glossar") ist regelmäßig einer der ersten Siedler auf totem Nadelholz. Auch weil seine hübschen Lilatöne meist im Handumdrehen von Grünalgen bedeckt sind, lohnt sich ein Blick auf die Unterseite. Dort findet sich das porige [Hymenophor](Hymenophor "Glossar"), das zumindest im Randbereich noch einen violetten Schimmer und intakte Poren aufweisen sollte. (Florian Weyel)
 
 [Mehr lesen >](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_insignitum_05_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-31.01.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze wachsen ausschließlich an Totholz und sind daher das ganze Jahr über zu finden. Sie zeichen sich durch ein glattes, höchstens runzeliges Hymenophor aus, der sporenbildenden Fruchtschicht auf der Hutunterseite. Der Doppelgänger des Braunsamtigen ist der [Samtige Schichtpilz Stereum subtomentosum](/pilze/stereum-subtomentosum-samtiger-schichtpilz). Beide sind mit bloßem Auge kaum zu unterscheiden, aber schon eine gut vergrößernde Lupe kann helfen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/panellus_stipticus_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-30.01.2024: Würde er seine nachgewiesene, faszinierende Fähigkeit, Lamellen und [Myzel](Myzel "Glossar") nachts in leuchtendem Grün erstrahlen zu lassen, doch nur ausspielen: der Herbe Zwergknäueling *Panellus stipticus* wäre sicherlich der Superstar unter den Waldbewohnern und nicht nur aktueller [Fundkorbpilz](AA "Glossar-")! Auch im Hinblick auf ein weiteres Merkmal, das namensgebende „herb“ vor dem Gattungsnamen, hält sich der Pilz nicht zuverlässig an ihn beschreibende Literatur. Obwohl er mir auch in diesem neuen Jahr bei jeder Waldrunde begegnet, verläuft die Geschmacksprobe weiterhin konsequent anders als erwartet: nämlich angenehm mild! (Florian Weyel)
-
-[Mehr lesen >](/pilze/panellus-stipticus-herber-zwergknäueling)
 
 <div style="clear:  both"></div>
 
