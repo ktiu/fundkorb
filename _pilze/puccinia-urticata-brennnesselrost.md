@@ -35,6 +35,8 @@ Im Bild oben rechts gleicht er einer Raupe, die sich auf ein Brennnesselblatt zu
 {% include bild.html datei="/bilder/puccinia_urticata_05_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Foto links: Matevz Koncilja" %}
 
+Mehr und viel Wissenswertes über Rostpilze [finden Sie hier >](/verwandt/rostpilze)
+
 Auf vorjährigen, trockenen Brennnesselstängeln sind u. a. folgende Arten zu finden:
 
 [Acrospermum compressum](/pilze/acrospermum-compressum-fadenförmiges-flachkeulchenchen)  =  Fadenförmiges Flachkeulchen\
