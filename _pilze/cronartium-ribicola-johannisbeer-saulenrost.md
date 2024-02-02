@@ -31,3 +31,4 @@ Wirtswechsel erfolgt nun zu Blättern von Johannis- und Stachelbeeren. Auf der B
 {% include abbildung_ende.html %}
 
 Starker Befall führt zu vorzeitigem Blattfall und zur Schwächung der beliebten Fruchtsträucher.
+
