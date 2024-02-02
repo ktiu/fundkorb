@@ -21,4 +21,6 @@ literatur:
 
 Dieser Rostpilz gehört zu den Arten, die keinen Wirtswechsel vollziehen. Im Gegensatz zu vielen anderen Arten, die attraktive, oft schön orange gefärbte tönnchenförmige Fruchtkörper bilden, bestehen die Sporenlager des Löwenzahnrosts aus unscheinbaren zimtbraunen Flecken auf den Blattoberseiten (sogenannte Uredien).
 
-Die Art ist häufig und dürfte überall zu finden sein, wo Gewöhnlicher Löwenzahn (Taraxacum officinale) wächst. 
+Die Art ist häufig und dürfte überall zu finden sein, wo Gewöhnlicher Löwenzahn (Taraxacum officinale) wächst.
+
+Mehr und viel Wissenswertes über Rostpilze [finden Sie hier >](/verwandt/rostpilze)
