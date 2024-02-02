@@ -32,3 +32,5 @@ Wirtswechsel erfolgt nun zu Blättern von Johannis- und Stachelbeeren. Auf der B
 
 Starker Befall führt zu vorzeitigem Blattfall und zur Schwächung der beliebten Fruchtsträucher.
 
+Mehr und viel Wissenswertes über Rostpilze [finden Sie hier >](/verwandt/rostpilze)
+
