@@ -19,3 +19,5 @@ Um diesen Rostpilz zu erkennen, muss man seine Wirtspflanze identifizieren. Es i
 Die [Aecien](Aecien "Glossar") des Rainkohl-Rosts zeigen sich dem bloßen Auge als Rostflecken oder Pusteln auf purpurroten Blattflecken. Die in Nestern erscheinenden Sporenlager (im Foto oben stark vergrößert) sind gelblich bis honigfarben und sehen wie winzige Töpfchen aus. Das Myzel wächst wie bei allen Puccinia-Arten (es gibt ca. 4000!) intrazellulär. Die Art ist wie sein Wirt weltweit verbreitet.
 
 Der Rainkohl-Rost erlebt einen Entwicklungszyklus mit Aecien, Spermogonien, Uredien und Telien ohne Wirtswechsel. Die Uredien erscheinen als kleine braune Pünktchen, die manchmal von einem gelben Hof umgeben sind.
+
+Mehr und viel Wissenswertes über Rostpilze [finden Sie hier >](/verwandt/rostpilze)
