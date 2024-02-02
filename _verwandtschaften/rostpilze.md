@@ -51,7 +51,7 @@ Zur Zeit sind 16 Rostpilzarten mit Porträts im Fundkorb online:
 *Cumminsiella mirabilissima* = Mahonienrost
 *Gymnosporangium sabinae* = Birnengittertost
 *Phragmidium violaceum* = Brombeer-Rost
-*Puccinia coronata* = Kronenrost
+[*Puccinia coronata* = Kronenrost](/pilze/puccinia-coronata-kronenrost)
 *Puccinia graminis* = Getreideschwarzrost, Getreiderost
 *Puccinia lagenophorae* = Greiskraut-Rost	
 *Puccinia lapsanae* = Rainkohl-Rost
@@ -59,6 +59,6 @@ Zur Zeit sind 16 Rostpilzarten mit Porträts im Fundkorb online:
 *Puccinia punctiformis* = Ackerkratzdistel-Rost
 *Puccinia sessilis* = Bärlauchrost	
 *Puccinia taraxaci* = Löwenzahn-Rost
-*Puccinia urticata* = Brennnesselrost
+[*Puccinia urticata* = Brennnesselrost](/pilze/puccinia-urticata-brennnesselrost)
 *Ramularia rubella* =Ampfer-Rost	
 *Uromyces ficariae* = Rostpilz an Scharbockskraut
