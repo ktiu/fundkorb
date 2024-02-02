@@ -33,3 +33,5 @@ Auf den Oberseiten von Birnbaumblättern entstehen die erwähnten gelb-orangen F
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/gymnosporangium_sabinae_05_dg.jpg" %}
 {% include abbildung_ende.html legende="Die Verwendung dieser Grafik wurde uns freundlicherweise vom Zeichner A. Gutjahr und vom IHW-Verlag erlaubt. Sie stammt aus dem 1995 erschienenen und m. E. sehr empfehlenswerten Buch Pilze – Wissenswertes aus Ökologie, Geschichte und Mythos von H. Schmid & W. Helfer" %}
+
+Mehr und viel Wissenswertes über Rostpilze [finden Sie hier >](/verwandt/rostpilze)
