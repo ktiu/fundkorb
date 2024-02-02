@@ -33,6 +33,8 @@ Um das Erkennen des Faulbaums zu erleichtern, ist eine Darstellung seiner wichti
 {% include bild.html datei="/bilder/puccinia_coronata_faulbaum_zweitwirt_05-dg.jpg" %}
 {% include abbildung_ende.html legende="Abbildung links: Wikipedia   --        Foto rechts von Julia Kruse: Puccinia coronata auf Rohrglanzgras" %}
 
+Mehr und viel Wissenswertes über Rostpilze [finden Sie hier >](/verwandt/rostpilze)
+
 Andere auf Brennnesselstängeln wachsende Pilze:
 
 auf vorjährigen, trockenen Stängeln:
