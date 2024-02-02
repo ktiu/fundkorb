@@ -27,9 +27,9 @@ Rostpilze oder Rostpilzartige, wissenschaftlich *Pucciniales* oder *Uredinales* 
 Von besonderer Bedeutung ist der Wirtswechsel, den die meisten Rostpilzarten vollziehen. Dies sei am Beispiel des [Kronenrostes *Puccinia coronata*](/pilze/puccinia-coronata-kronenrost) erklärt:
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/puccinia_coronata_02_dg.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/puccinia_coronata_01_dg.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/puccinia_coronata_faulbaum_zweitwirt_05-dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/puccinia_coronata_06_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/puccinia_coronata_03_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/puccinia_coronata_faulbaum_zweitwirt_07-dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Abb. links und Mitte: Kronenrost Stadium I an einem Faulbaumzweig – Abb. rechts: Stadium II an Rohrglanzgras" %}
 
 Der Wirtswechsel erfolgt mittels Sporen. Damit die Sporenübertragung von einem Wirt auf den anderen gut gelingen kann, ist es von Vorteil, wenn beide nicht allzu weit voneinander getrennt vorkommen. Im obigen Beispiel wechselte der Kronenrost von Stadium I an Faulbaum (*Rhamnus frangula*) zum Stadium II an Rohrglanzgras (*Phalaris arundinacea*), das zusammen mit Schilf an einem ca. 500 m entfernten Teichufer wuchs. Das Beispiel veranschaulicht die Veränderung von einem auffälligen zu einem unscheinbaren, lediglich fleckenbildenden Stadium. Dass dabei völlig unterschiedliche Sporentypen eine Rolle spielen, macht das Verständnis des Wirtswechsels nur noch komplizierter.
@@ -85,19 +85,19 @@ Es gibt wohl nichts auf der Welt, was nicht schon für militärische Nutzung in 
 
 Zur Zeit sind 16 Rostpilzarten mit Porträts im Fundkorb online:
 
-[*Aecidium ranunculi-acris* = Hahnenfußrost](/pilze/aecidium-ranunculi-acris-hahnenfußrost)  
-[*Cronartium ribicola* = Johannisbeer-Säulenrost](/pilze/cronartium-ribicola-johannisbeer-saulenrost)  
-[*Cumminsiella mirabilissima* = Mahonienrost](/pilze/cumminsiella-mirabilissima-mahonienrost)  
-[*Gymnosporangium sabinae* = Birnengitterrost](/pilze/gymnosporangium-sabinae-birnengitterrost)  
-[*Phragmidium violaceum* = Brombeer-Rost](/pilze/phragmidium-violaceum-brombeer-rost)  
-[*Puccinia coronata* = Kronenrost](/pilze/puccinia-coronata-kronenrost)  
-[*Puccinia graminis* = Getreideschwarzrost, Getreiderost](/pilze/puccinia-graminis-getreideschwarzrost-getreiderost)  
-[*Puccinia lagenophorae* = Greiskraut-Rost](/pilze/puccinia-lagenophorae-greiskraut-rost)  
-[*Puccinia lapsanae* = Rainkohl-Rost](/pilze/puccinia-lapsanae-rainkohl-rost)  
-[*Puccinia malvacearum* = Malvenrost](/pilze/puccinia-malvacearum-malvenrost)  
-[*Puccinia punctiformis* = Ackerkratzdistel-Rost](/pilze/puccinia-punctiformis-ackerkratzdistel-rost)  
-[*Puccinia sessilis* = Bärlauchrost](/pilze/puccinia-sessilis-bärlauchrost)  
-[*Puccinia taraxaci* = Löwenzahn-Rost](/pilze/puccinia-taraxaci-löwenzahn-rost)  
-[*Puccinia urticata* = Brennnesselrost](/pilze/puccinia-urticata-brennnesselrost)  
-[*Ramularia rubella* =Ampfer-Rost](/pilze/ramularia-rubella-ampfer-rost)  
+[*Aecidium ranunculi-acris* = Hahnenfußrost](/pilze/aecidium-ranunculi-acris-hahnenfußrost)\
+[*Cronartium ribicola* = Johannisbeer-Säulenrost](/pilze/cronartium-ribicola-johannisbeer-saulenrost)\
+[*Cumminsiella mirabilissima* = Mahonienrost](/pilze/cumminsiella-mirabilissima-mahonienrost)\
+[*Gymnosporangium sabinae* = Birnengitterrost](/pilze/gymnosporangium-sabinae-birnengitterrost)\
+[*Phragmidium violaceum* = Brombeer-Rost](/pilze/phragmidium-violaceum-brombeer-rost)\
+[*Puccinia coronata* = Kronenrost](/pilze/puccinia-coronata-kronenrost)\
+[*Puccinia graminis* = Getreideschwarzrost, Getreiderost](/pilze/puccinia-graminis-getreideschwarzrost-getreiderost)\
+[*Puccinia lagenophorae* = Greiskraut-Rost](/pilze/puccinia-lagenophorae-greiskraut-rost)\
+[*Puccinia lapsanae* = Rainkohl-Rost](/pilze/puccinia-lapsanae-rainkohl-rost)\
+[*Puccinia malvacearum* = Malvenrost](/pilze/puccinia-malvacearum-malvenrost)\
+[*Puccinia punctiformis* = Ackerkratzdistel-Rost](/pilze/puccinia-punctiformis-ackerkratzdistel-rost)\
+[*Puccinia sessilis* = Bärlauchrost](/pilze/puccinia-sessilis-bärlauchrost)\
+[*Puccinia taraxaci* = Löwenzahn-Rost](/pilze/puccinia-taraxaci-löwenzahn-rost)\
+[*Puccinia urticata* = Brennnesselrost](/pilze/puccinia-urticata-brennnesselrost)\
+[*Ramularia rubella* =Ampfer-Rost](/pilze/ramularia-rubella-ampfer-rost)\
 [*Uromyces ficariae* = Rostpilz an Scharbockskraut](/pilze/uromyces-ficariae-rostpilz-an-scharbockskraut)
