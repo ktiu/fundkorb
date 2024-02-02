@@ -34,3 +34,5 @@ Puccinia punctiformis ist bei Kenntnis seiner Wirtspflanze leicht zu finden. Ein
 {% include bild.html datei="/bilder/puccinia_punctiformis_04.jk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/puccinia_punctiformis_cirsium_vulgare_05_wi.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: Julia Krause -- Abb. rechts: Acker-Kratzdistel Cirsium arvense (Wikipedia)" %}
+
+Mehr und viel Wissenswertes über Rostpilze [finden Sie hier >](/verwandt/rostpilze)
