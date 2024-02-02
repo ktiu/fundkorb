@@ -32,3 +32,5 @@ Dieser Zyklus erscheint äußerst kompliziert und ist es wohl auch. Er zeigt, mi
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/puccinia_graminis_03_xx.jpg" %}
 {% include abbildung_ende.html %}
+
+Mehr und viel Wissenswertes über Rostpilze [finden Sie hier >](/verwandt/rostpilze)
