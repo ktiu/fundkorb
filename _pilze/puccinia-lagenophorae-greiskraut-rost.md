@@ -27,3 +27,5 @@ Bei unserem Erstfund dieses Pilzes an der Rodgaustraße Dietzenbach, waren nahez
 {% include abbildung_ende.html %}
 
 Beim Greiskraut-Rost Puccinia lagenophorae findet im Gegensatz zu den meisten übrigen Puccinia-Arten kein Wirtswechsel statt.
+
+Mehr und viel Wissenswertes über Rostpilze [finden Sie hier >](/verwandt/rostpilze)
