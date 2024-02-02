@@ -27,4 +27,6 @@ Nicht selten kommt er zusammen mit einem anderen Rostpilz (*[Aecidium ranunculi-
 {% include bild.html datei="/bilder/uromyces_ficariae_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Auf Scharbockskraut kommt noch eine dritte Rostpilzart vor, die auf schwach aufgetriebenen Blattflecken erscheint: *Aecidium ranunculi-acris*. Sie wechselt auf Süßgräser (Poaceae).
+Auf Scharbockskraut kommt noch eine dritte Rostpilzart vor, die auf schwach aufgetriebenen Blattflecken erscheint: *Aecidium ranunculi-acris*. Sie wechselt auf Süßgräser (*Poaceae*).
+
+Mehr und viel Wissenswertes über Rostpilze [finden Sie hier >](/verwandt/rostpilze)
