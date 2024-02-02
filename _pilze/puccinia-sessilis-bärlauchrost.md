@@ -25,3 +25,5 @@ Puccinia sessilis findet sich auch auf Maiglöckchen, Aaronstab sowie diversen L
 {% include bild.html datei="/bilder/puccinia_sessile_02_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/puccinia_sessile_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
+
+Mehr und viel Wissenswertes über Rostpilze [finden Sie hier >](/verwandt/rostpilze)
