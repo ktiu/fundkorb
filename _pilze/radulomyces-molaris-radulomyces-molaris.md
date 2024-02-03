@@ -22,4 +22,4 @@ Nur regional häufige Art. Im Hessischen Raum südlich des Mains ist diese Rinde
 {% include bild.html datei="/bilder/radulomyces_molaris_02_wp.jpg" %}
 {% include abbildung_ende.html %}
 
-Die großen, breit-elliptischen Sporen trennen sie im Zweifelsfall von der schmalsporigen *[Hyphoderma radula](/pilze/xylodon-radula-reibeisen-rindenpilz)*, dem Reibeisenrindenpilz, dessen Fruchtkörper mehr zum begrenzten, rundlichen Wachstum neigen. Man findet ihn eher an Wildkirsche. Der abgebildete Fund vom August 2006 stammt aus dem westlichen Frankfurter Stadtwald.
+Die großen, breit-elliptischen Sporen trennen sie im Zweifelsfall von der schmalsporigen *[Xylodon radula](/pilze/xylodon-radula-reibeisen-rindenpilz)[](/pilze/xylodon-radula-reibeisen-rindenpilz)*, dem Reibeisenrindenpilz, dessen Fruchtkörper mehr zum begrenzten, rundlichen Wachstum neigen. Man findet ihn eher an Wildkirsche. Der abgebildete Fund vom August 2006 stammt aus dem westlichen Frankfurter Stadtwald.
