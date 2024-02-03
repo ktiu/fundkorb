@@ -17,6 +17,18 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/radulomyces_molaris_01_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+04.02.2024: Mal wieder im Frankfurter Stadtwald an einem toten Eichenast gefunden und darum mein aktueller [Fundkorbpilz](AA "Glossar-"): der Gezähnte Reibeisenpilz *Radulomyces molaris*. Man könnte ihn mit anderen zähnchentragenden [resupinat](resupinat "Glossar") an Holz wachsenden Pilzen verwechseln, so dass im Zweifelsfall mikroskopische Merkmale beachtet werden sollten. Immerhin ist das Bräunen der Zähnchen, sobald es begonnen hat, ein Hinweis. Je älter der Pilz wird, desto mehr scheinen die Zähnchen zu verschwinden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/radulomyces-molaris-radulomyces-molaris)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tapinella_panuoides_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 02.02.2024: Auf herumliegenden Birkenästen ist unser aktueller [Fundkorbpilz](AA "Glossar-"), das Birken-Eckenscheibchen *Diatrypella favacea*, leicht zu übersehen, aber auf diesem Substrat so gut wie immer anzutreffen. [Synonym](Synonym "Glossar") wird es auch Rindensprengendes Eckscheibchen genannt - ein Name, der die Wuchsweise dieses [Pyrenomyzeten](Pyrenomyzeten "Glossar") verdeutlicht. Der wissenschaftliche Artname wiederum beschreibt den [Habitus](Habitus "Glossar"): *favacea* bedeutet sinngemäß in etwa „bohnenartig“. (Florian Weyel)
 
 [Mehr lesen >](/pilze/diatrypella-favacea-birken-eckenscheibchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trichaptum_abietinum_01_wi.jpg" %}
-{% include abbildung_ende.html %}
-
-01.02.2024: Begibt man sich dieser Tage in einen beliebigen Fichten- oder Kiefernforst und widmet sich abgefallenen Ästen oder Baumstümpfen, ist eine Begegnung unvermeidbar: [Fundkorbpilz](AA "Glossar-") des Tages ist der Violette Lederporling *Trichaptum abietinum*. Der [Saprobiont](saprobiontisch "Glossar") ist regelmäßig einer der ersten Siedler auf totem Nadelholz. Auch weil seine hübschen Lilatöne meist im Handumdrehen von Grünalgen bedeckt sind, lohnt sich ein Blick auf die Unterseite. Dort findet sich das porige [Hymenophor](Hymenophor "Glossar"), das zumindest im Randbereich noch einen violetten Schimmer und intakte Poren aufweisen sollte. (Florian Weyel)
-
-[Mehr lesen >](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)
 
 <div style="clear:  both"></div>
 
