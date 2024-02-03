@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Radulomyces molaris
-  deutsch: Radulomyces molaris
+  deutsch: Gezähnter Reibeisenpilz
   referenz: (Chaillet ex Fr.) M.P.Christ. 1960
   synonym: "Synonym: Cerocorticium molare"
   erlaeuterung: molaris / molare = gezähnt
