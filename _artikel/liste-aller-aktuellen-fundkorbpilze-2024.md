@@ -2,9 +2,10 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-04.02.2024: [Radulomyces molaris - Gezähnter Reibeisenpilz](/pilze/radulomyces-molaris-radulomyces-molaris)  
-03.02.2024: [Tapinella panuoides - Muschelkrempling](/pilze/tapinella-panuoides-muschelkrempling)  
-02.02.2024: [Diatrypella favacea - Birken-Eckenscheibchen](/pilze/diatrypella-favacea-birken-eckenscheibchen)  
+05.02.2024: [Mycena hiemalis - Winter-Rindenhelmling](/pilze/mycena-hiemalis-winter-rindenhelmling)  
+04.02.2024: [Radulomyces molaris - Gezähnter Reibeisenpilz](/pilze/radulomyces-molaris-radulomyces-molaris)\
+03.02.2024: [Tapinella panuoides - Muschelkrempling](/pilze/tapinella-panuoides-muschelkrempling)\
+02.02.2024: [Diatrypella favacea - Birken-Eckenscheibchen](/pilze/diatrypella-favacea-birken-eckenscheibchen)\
 01.02.2024: [Trichaptum abietinum - Violetter Lederporling](/pilze/trichaptum-abietinum-violetter-lederporling-gemeiner-violettporling)
 
 31.01.2024: [Stereum insignitum - Braunsamtiger Schichtpilz](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)\
