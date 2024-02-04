@@ -16,6 +16,18 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/mycena_hiemalis_01_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+05.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Winter-Rindenhelmling *Mycena hiemalis*. Sie wuchsen – völlig untypisch für Rindenhelmlinge – an einem liegenden, stark vermorschten und nicht näher bestimmten Baumstamm. Typisch für die Art hingegen ist das herdenweise Vorkommen während der Wintermonate. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-hiemalis-winter-rindenhelmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/radulomyces_molaris_01_wp.jpg" %}
 {% include abbildung_ende.html %}
@@ -35,18 +47,6 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 03.02.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") gehört zu den Kremplingen, die [saprobiontisch](saprobiontisch "Glossar") an Holz wachsen und für die deshalb eine eigene Gattung geschaffen worden ist: die Holzkremplinge. Zu ihnen gehören gerade mal zwei Arten, von denen der Muschelkrempling *Tapinella panuides* die weitaus seltenere ist und sich aufgrund ihrer muschelförmigen Hüte und nahezu fehlenden Stiele deutlich vom häufigen Samtfußkrempling unterscheidet. Nach der Umgruppierung heißt er jetzt offiziell Muschelholzkrempling. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tapinella-panuoides-muschelkrempling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diatrypella_favacea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.02.2024: Auf herumliegenden Birkenästen ist unser aktueller [Fundkorbpilz](AA "Glossar-"), das Birken-Eckenscheibchen *Diatrypella favacea*, leicht zu übersehen, aber auf diesem Substrat so gut wie immer anzutreffen. [Synonym](Synonym "Glossar") wird es auch Rindensprengendes Eckscheibchen genannt - ein Name, der die Wuchsweise dieses [Pyrenomyzeten](Pyrenomyzeten "Glossar") verdeutlicht. Der wissenschaftliche Artname wiederum beschreibt den [Habitus](Habitus "Glossar"): *favacea* bedeutet sinngemäß in etwa „bohnenartig“. (Florian Weyel)
-
-[Mehr lesen >](/pilze/diatrypella-favacea-birken-eckenscheibchen)
 
 <div style="clear:  both"></div>
 
