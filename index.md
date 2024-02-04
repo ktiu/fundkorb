@@ -20,7 +20,7 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 {% include bild.html datei="/bilder/mycena_hiemalis_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
-05.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Winter-Rindenhelmling *Mycena hiemalis*. Sie wuchsen – völlig untypisch für Rindenhelmlinge – an einem liegenden, stark vermorschten und nicht näher bestimmten Baumstamm. Typisch für die Art hingegen ist das herdenweise Vorkommen während der Wintermonate. (Dieter Gewalt)
+05.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Winter-Rindenhelmling *Mycena hiemalis*. Sie wuchsen – völlig untypisch für [Rindenhelmlinge](/verwandt/rindenhelmlinge) – an einem liegenden, stark vermorschten und nicht näher bestimmten Baumstamm. Typisch für die Art hingegen ist das herdenweise Vorkommen während der Wintermonate. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycena-hiemalis-winter-rindenhelmling)
 
