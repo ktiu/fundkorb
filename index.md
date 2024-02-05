@@ -16,7 +16,7 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_hiemalis_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
