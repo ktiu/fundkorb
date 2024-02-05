@@ -17,6 +17,18 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tremella_foliacea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.02.2024: Ganzjährig, vor allem aber in feuchten frostfreien Wintermonaten ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rotbraune Zitterling *Tremella foliacea*, zu finden. Er besiedelt vorzugsweise am Boden liegende tote Laubholzäste und besteht aus rotbraunen wellig verbogenen Lappen, die im Alter dunkelbraun verfärben. Seine Sporen werden auf der gesamten Oberfläche gebildet. (Dieter Gewalt).
+
+[Mehr lesen >](/pilze/tremella-foliacea-rotbrauner-zitterlling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_hiemalis_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 04.02.2024: Mal wieder im Frankfurter Stadtwald an einem toten Eichenast gefunden und darum mein aktueller [Fundkorbpilz](AA "Glossar-"): der Gezähnte Reibeisenpilz *Radulomyces molaris*. Man könnte ihn mit anderen zähnchentragenden [resupinat](resupinat "Glossar") an Holz wachsenden Pilzen verwechseln, so dass im Zweifelsfall mikroskopische Merkmale beachtet werden sollten. Immerhin ist das Bräunen der Zähnchen, sobald es begonnen hat, ein Hinweis. Je älter der Pilz wird, desto mehr scheinen die Zähnchen zu verschwinden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/radulomyces-molaris-radulomyces-molaris)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tapinella_panuoides_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-03.02.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") gehört zu den Kremplingen, die [saprobiontisch](saprobiontisch "Glossar") an Holz wachsen und für die deshalb eine eigene Gattung geschaffen worden ist: die Holzkremplinge. Zu ihnen gehören gerade mal zwei Arten, von denen der Muschelkrempling *Tapinella panuides* die weitaus seltenere ist und sich aufgrund ihrer muschelförmigen Hüte und nahezu fehlenden Stiele deutlich vom häufigen Samtfußkrempling unterscheidet. Nach der Umgruppierung heißt er jetzt offiziell Muschelholzkrempling. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tapinella-panuoides-muschelkrempling)
 
 <div style="clear:  both"></div>
 
