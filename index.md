@@ -20,7 +20,7 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 {% include bild.html datei="/bilder/schizopora_flavipora_02_wp.jpg" %}
 {% include abbildung_ende.html %}
 
-07.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelbporiger Spaltporling *Schizopora flavipora*. Der [Veränderliche (*Schizopora paradoxa*)](/pilze/schizopora-paradoxa-veränderlicher-spaltporling) ist in Laubwäldern allgegenwärtig, den Gelbporigen muss man suchen. Beides sind [resupinat](resupinat "Glossar") wachsende Arten, gern an der Unterseite von liegenden toten Ästen. Der Gelbporige hat eher rundliche bis eckige Poren, der Veränderliche zerschlitzte, die fast schon wie Zähnchen aussehen. Mitunter findet man beide am selben Holz. (Dieter Gewalt)
+07.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelbporige Spaltporling *Schizopora flavipora*. Der [Veränderliche (*Schizopora paradoxa*)](/pilze/schizopora-paradoxa-veränderlicher-spaltporling) ist in Laubwäldern allgegenwärtig, den Gelbporigen muss man suchen. Beides sind [resupinat](resupinat "Glossar") wachsende Arten, gern an der Unterseite von liegenden toten Ästen. Der Gelbporige hat eher rundliche bis eckige Poren, der Veränderliche zerschlitzte, die fast schon wie Zähnchen aussehen. Mitunter findet man beide am selben Holz. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/schizopora-flavipora-gelbporiger-spaltporling)
 
