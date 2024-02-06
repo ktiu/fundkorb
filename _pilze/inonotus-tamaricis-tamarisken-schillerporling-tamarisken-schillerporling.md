@@ -5,6 +5,7 @@ beschreibung:
   referenz: (Pat.) Maire 1938
   erlaeuterung: tamaricis = an Tamarisken
   familie: Hymenochaetaceae
+  synonym: "Neuer Name: Inocutis tamaricis"
 profil:
   aktualisiert: 2024-01-27
   autor_in: Werner Pohl
