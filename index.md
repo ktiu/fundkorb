@@ -17,6 +17,18 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/schizopora_flavipora_02_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+07.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelbporiger Spaltporling *Schizopora flavipora*. Der [Veränderliche (*Schizopora paradoxa*)](/pilze/schizopora-paradoxa-veränderlicher-spaltporling) ist in Laubwäldern allgegenwärtig, den Gelbporigen muss man suchen. Beides sind [resupinat](resupinat "Glossar") wachsende Arten, gern an der Unterseite von liegenden toten Ästen. Der Gelbporige hat eher rundliche bis eckige Poren, der Veränderliche zerschlitzte, die fast schon wie Zähnchen aussehen. Mitunter findet man beide am selben Holz. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/schizopora-flavipora-gelbporiger-spaltporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tremella_foliacea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 05.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Winter-Rindenhelmling *Mycena hiemalis*. Sie wuchsen – völlig untypisch für [Rindenhelmlinge](/verwandt/rindenhelmlinge) – an einem liegenden, stark vermorschten und nicht näher bestimmten Baumstamm. Typisch für die Art hingegen ist das herdenweise Vorkommen während der Wintermonate. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycena-hiemalis-winter-rindenhelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/radulomyces_molaris_01_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-04.02.2024: Mal wieder im Frankfurter Stadtwald an einem toten Eichenast gefunden und darum mein aktueller [Fundkorbpilz](AA "Glossar-"): der Gezähnte Reibeisenpilz *Radulomyces molaris*. Man könnte ihn mit anderen zähnchentragenden [resupinat](resupinat "Glossar") an Holz wachsenden Pilzen verwechseln, so dass im Zweifelsfall mikroskopische Merkmale beachtet werden sollten. Immerhin ist das Bräunen der Zähnchen, sobald es begonnen hat, ein Hinweis. Je älter der Pilz wird, desto mehr scheinen die Zähnchen zu verschwinden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/radulomyces-molaris-radulomyces-molaris)
 
 <div style="clear:  both"></div>
 
