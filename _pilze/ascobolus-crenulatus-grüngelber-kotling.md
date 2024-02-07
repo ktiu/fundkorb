@@ -23,7 +23,7 @@ Die [Apothecien](Apothecien "Glossar") des Grüngelben Kotlings erreichen lt. Li
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/ascobolus_crenulatus_02_fk.jpeg" %}
 {% include bild.html datei="/bilder/ascobolus_crenulatus_03_fk.jpg" %}
-{% include abbildung_ende.html legende="Diese beiden Fotos von Frank Kaster zeigen die aus dem <a href=\"Hymenium\" title=\"Glossar\">Hymenium</a> herausragenden Asci als dunkle Fleckchen" %}
+{% include abbildung_ende.html legende="Diese beiden Fotos von Frank Kaster zeigen die aus dem <a href="Hymenium" title="Glossar">Hymenium</a> herausragenden Asci als dunkle Fleckchen" %}
 
 Die Fruchtkörper wachsen auf Kot verschiedener Tiere wie Rehe, Schafe, Hasen, Kaninchen u. a. und sitzen stiellos auf ihrem Substrat. Erscheinungszeit ist nach Literatur vorwiegend in den Wintermonaten. Bei unserer Kultur erschienen die ersten Apothecien Ende Juni. Die Art gilt als selten.
 
@@ -33,4 +33,4 @@ Die Fruchtkörper wachsen auf Kot verschiedener Tiere wie Rehe, Schafe, Hasen, K
 {% include bild.html datei="/bilder/ascobolus_crenulatus_06_fk.jpg" %}
 {% include abbildung_ende.html legende="3 Mikrofotos von Frank Kaster: Asci mit unreifen Sporen, Paraphysen, Sporen" %}
 
-Angaben zu den Mikromerkmalen: die achtsporigen Asci messen 135 - 195 x 14 - 19 µm, die schlanken [Paraphysen](Paraphyse "Glossar") sind lt. Literatur septiert (konnte bei dem von Frank Kaster untersuchten Material nicht festgestellt werden), die elliptischen Sporen sind jung hyalin, reif dunkelbraun mit violettlicher Ornamentierung, Maße im Durchschnitt 15 x 8,5
+Angaben zu den Mikromerkmalen: die achtsporigen Asci messen 135 - 195 x 14 - 19 µm, die schlanken [Paraphysen](Paraphyse "Glossar") sind lt. Literatur septiert (konnte bei dem von Frank Kaster untersuchten Material nicht festgestellt werden), die elliptischen Sporen sind jung hyalin, reif dunkelbraun mit violettlicher Ornamentierung, Maße im Durchschnitt 15 x 8,5 µm. Eine ähnliche ebenfalls auf Tierdung wachsende Art ist der Kleiige Kotling *Ascobolus furfuraceus* mit deutlich größeren Sporen (23 – 26 x 10 – 14 µm).
