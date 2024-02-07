@@ -25,7 +25,7 @@ Die meisten Arten auf Dung gehören zu den Schlauchpilzen (*Ascomyzeten*), die i
 
 Die jung rundlich becherförmigen, später flach schalenförmigen Fruchtkörper sind zunächst grüngelblich und werden im Laufe ihrer Entwicklung zunehmend grauviolett bis dunkel olivbraun. Diese Farbveränderung steht in Zusammenhang mit den immer zahlreicher und bald flächenbedeckend aus dem Schalenboden herauswachsenden Schläuchen. Außenseite und Becherrand sind kleiig-schorfig. Die Fruchtkörper können vereinzelt, gesellig oder gedrängt erscheinen und sitzen stiellos auf ihrem Substrat.
 
-Eine ähnliche ebenfalls auf Tierdung wachsende Art ist der meist etwas kleinere Grüngelbe Kotling *Ascobolus crenulatus*, den wir mehrfach auf Kaninchenköteln beobachtet haben. Er unterscheidet sich durch seine grüngelbe Farbe und kleinere Sporen.
+Eine ähnliche ebenfalls auf Tierdung wachsende Art ist der meist etwas kleinere [Grüngelbe Kotling *Ascobolus crenulatus*](/pilze/ascobolus-crenulatus-grüngelber-kotling), den wir mehrfach auf Kaninchenköteln beobachtet haben. Er unterscheidet sich durch seine grüngelbe Farbe und kleinere Sporen.
 
-Sporen *Ascobolus furfuraceus*:  23 – 26 x 10 – 14 µm  
+Sporen *Ascobolus furfuraceus*:  23 – 26 x 10 – 14 µm\
 Sporen *Ascobolus crenulatus*:   14 – 16 x 8 – 9 µm
