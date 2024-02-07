@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-07.02.2024: [Schizopora flavipora - Gelbporiger Spaltporling](<Schizopora flavipora - Gelbporiger Spaltporling>)  
+08.02.2024: [Phellinus pomaceus - Pflaumen-Feuerschwamm](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)  
+07.02.2024: [Schizopora flavipora - Gelbporiger Spaltporling](<Schizopora flavipora - Gelbporiger Spaltporling>)\
 06.05.2024: [Tremella foliacea - Rotbrauner Zitterling](/pilze/tremella-foliacea-rotbrauner-zitterlling)\
 05.02.2024: [Mycena hiemalis - Winter-Rindenhelmling](/pilze/mycena-hiemalis-winter-rindenhelmling)\
 04.02.2024: [Radulomyces molaris - Gezähnter Reibeisenpilz](/pilze/radulomyces-molaris-radulomyces-molaris)\
