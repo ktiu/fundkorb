@@ -23,7 +23,7 @@ Die [Apothecien](Apothecien "Glossar") des Grüngelben Kotlings erreichen lt. Li
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/ascobolus_crenulatus_02_fk.jpeg" %}
 {% include bild.html datei="/bilder/ascobolus_crenulatus_03_fk.jpg" %}
-{% include abbildung_ende.html legende="Diese beiden Fotos von Frank Kaster zeigen die aus dem <a href="Hymenium" title="Glossar">Hymenium</a> herausragenden Asci als dunkle Fleckchen" %}
+{% include abbildung_ende.html legende="Diese beiden Fotos von Frank Kaster zeigen die aus dem <a href='Hymenium' title='Glossar'>Hymenium</a> herausragenden Asci als dunkle Fleckchen" %}
 
 Die Fruchtkörper wachsen auf Kot verschiedener Tiere wie Rehe, Schafe, Hasen, Kaninchen u. a. und sitzen stiellos auf ihrem Substrat. Erscheinungszeit ist nach Literatur vorwiegend in den Wintermonaten. Bei unserer Kultur erschienen die ersten Apothecien Ende Juni. Die Art gilt als selten.
 
