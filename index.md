@@ -17,6 +17,18 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_pomaceus_04_dg-.jpg" %}
+{% include abbildung_ende.html %}
+
+08.02.2024: Um den heutigen aktuellen [Fundkorbpilz](AA "Glossar-") zu fotografieren, brauche ich nur vor unsere Haustür und von da fünf Meter nach rechts zu gehen. Da steht ein Blutpflaumenbaum und an seinem Stamm wächst seit Jahren der Pflaumen-Feuerschwamm *Phellinus pomaceus*. Er ist zwar ein Parasit, der eine Weißfäule im Holz erzeugt, aber nicht sehr aggressiv, so dass der befallene Baum noch eine lange Lebenszeit vor sich hat und weiterhin Früchte trägt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/schizopora_flavipora_02_wp.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 06.02.2024: Ganzjährig, vor allem aber in feuchten frostfreien Wintermonaten ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rotbraune Zitterling *Tremella foliacea*, zu finden. Er besiedelt vorzugsweise am Boden liegende tote Laubholzäste und besteht aus rotbraunen wellig verbogenen Lappen, die im Alter dunkelbraun verfärben. Seine Sporen werden auf der gesamten Oberfläche gebildet. (Dieter Gewalt).
 
 [Mehr lesen >](/pilze/tremella-foliacea-rotbrauner-zitterlling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_hiemalis_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-05.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Winter-Rindenhelmling *Mycena hiemalis*. Sie wuchsen – völlig untypisch für [Rindenhelmlinge](/verwandt/rindenhelmlinge) – an einem liegenden, stark vermorschten und nicht näher bestimmten Baumstamm. Typisch für die Art hingegen ist das herdenweise Vorkommen während der Wintermonate. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-hiemalis-winter-rindenhelmling)
 
 <div style="clear:  both"></div>
 
