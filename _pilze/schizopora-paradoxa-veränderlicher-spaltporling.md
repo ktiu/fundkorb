@@ -25,7 +25,7 @@ Die Gattungsmerkmale werden wie folgt beschrieben: [resupinat](resupinat "Glossa
 
 **Schizopora radula:**  Poren eckig, labyrinthisch, 1 - 3 pro mm, meist aber zerschlitzt, abgeplattet oder feinstachelig zähnchenartig, weiß bis cremefarben. Sporen 4,5 - 5,5 µm lang, Skeletthyphen bis tief in die Trama hinein mit vielen feinen Kristallen (Inkrustationen); diese Art wird nicht von allen Autoren als eigenständig anerkannt sondern als Varietät zu Schizopora paradoxa gestellt
 
-**Schizopora flavipora:**  Poren klein, rundlich bis eckig, rötlich-creme bis gelblich-orange, oft fleischfarben, 4 - 7 pro mm. Sporen 3,5 - 4,5 µm lang
+**[Schizopora flavipora](/pilze/schizopora-flavipora-gelbporiger-spaltporling):**  Poren klein, rundlich bis eckig, rötlich-creme bis gelblich-orange, oft fleischfarben, 4 - 7 pro mm. Sporen 3,5 - 4,5 µm lang
 
 Problematisch ist hier, bei eckig-labyrinthischen Poren deren Anzahl pro mm zu ermitteln. Je nachdem in welcher Richtung man den Maßstab anlegt, kommen höchst unterschiedliche Werte zustande.
 
