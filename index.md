@@ -20,7 +20,7 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 {% include bild.html datei="/bilder/scleroderma_citrinum_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-09.02.2024: Sogar jetzt im späten Winter sieht man überall seine Überbleibsel: [Fundkorbpilz](AA "Glossar-") ist der Dickschalige Kartoffelbovist *Scleroderma citrinum*. Mich verbindet mit ihm eine gewisse Hassliebe. Sein häufiges Vorkommen auf sauren, sandigen Böden kann nerven, wenn man auf der Suche nach vermeintlich spannenderen Pilzen ist. Letztes Jahr hat mich ein Fund aber nachhaltig mit ihm versöhnt: Im Langener Loh entdeckte ich einen (essbaren!) [Schmarotzer-Röhrling (*Xerocomus parasiticus*)](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist), der exklusiv Kartoffelboviste parasitiert. (Florian Weyel)
+09.02.2024: Sogar jetzt im späten Winter sieht man überall seine Überbleibsel: [Fundkorbpilz](AA "Glossar-") ist der Dickschalige Kartoffelbovist *Scleroderma citrinum*. Mich verbindet mit ihm eine gewisse Hassliebe. Sein häufiges Vorkommen auf sauren, sandigen Böden kann nerven, wenn man auf der Suche nach vermeintlich spannenderen Pilzen ist. Letztes Jahr hat mich ein Fund aber nachhaltig mit ihm versöhnt: Im Langener Loh entdeckte ich einen (essbaren!) [Schmarotzer-Röhrling Xerocomus parasiticus](/pilze/xerocomus-parasiticus-schmarotzer-röhrling), der exklusiv Kartoffelboviste parasitiert. (Florian Weyel)
 
 [Mehr lesen >](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)
 
