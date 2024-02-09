@@ -17,6 +17,18 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ascocoryne_cylichnium_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+10.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") des Jahres ist der Großsporige Gallertbecher Ascocoryne cylichnium. Er hat einen ebenso häufigen Doppelgänger, von dem er optisch kaum zu unterscheiden ist, den Fleischroten Gallertbecher *Ascocoryne sarcoides*. Da sich die Sporen recht deutlich unterscheiden, ist die mikrskopische Trennung eine recht einfache Lösung, zu der man allerdings reife Sporen benötigt.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ascocoryne-cylichnium-großsporiger-gallertbecher)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/scleroderma_citrinum_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 08.02.2024: Um den heutigen aktuellen [Fundkorbpilz](AA "Glossar-") zu fotografieren, brauche ich nur vor unsere Haustür und von da fünf Meter nach rechts zu gehen. Da steht ein Blutpflaumenbaum und an seinem Stamm wächst seit Jahren der Pflaumen-Feuerschwamm *Phellinus pomaceus*. Er ist zwar ein Parasit, der eine Weißfäule im Holz erzeugt, aber nicht sehr aggressiv, so dass der befallene Baum noch eine lange Lebenszeit vor sich hat und weiterhin Früchte trägt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/schizopora_flavipora_02_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-07.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelbporige Spaltporling *Schizopora flavipora*. Der [Veränderliche (*Schizopora paradoxa*)](/pilze/schizopora-paradoxa-veränderlicher-spaltporling) ist in Laubwäldern allgegenwärtig, den Gelbporigen muss man suchen. Beides sind [resupinat](resupinat "Glossar") wachsende Arten, gern an der Unterseite von liegenden toten Ästen. Der Gelbporige hat eher rundliche bis eckige Poren, der Veränderliche zerschlitzte, die fast schon wie Zähnchen aussehen. Mitunter findet man beide am selben Holz. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/schizopora-flavipora-gelbporiger-spaltporling)
 
 <div style="clear:  both"></div>
 
