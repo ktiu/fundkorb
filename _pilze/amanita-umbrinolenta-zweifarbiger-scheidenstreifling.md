@@ -47,7 +47,7 @@ Sporen nach LUDWIG rund bis rundlich, glatt, hyalin, 10 - 12,5 x 9,5 - 11,5 µm,
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amnita_umbrinolutea_06_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/amnita_umbrinolutea_07_uwa.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Foto links: Bernd Miggel – Foto rechts: Uwe Wallner" %}
+{% include abbildung_ende.html legende="Foto links: Bernd Miggel -- Foto rechts: Uwe Wallner" %}
 
 **Anmerkung:** Der hier beschriebene Zweifarbige Scheidenstreifling wurde zeitweilig *Amanita battaerrae* (Schreibweise manchmal auch *battarae*) genannt.\
 Scheidenstreiflinge gelten als essbar, schmecken aber oft recht muffig.
