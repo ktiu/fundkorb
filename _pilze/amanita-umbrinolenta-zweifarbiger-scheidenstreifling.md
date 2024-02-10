@@ -55,4 +55,4 @@ Scheidenstreiflinge gelten als essbar, schmecken aber oft recht muffig.
 **Ähnliche Arten:**
 
 Beim  [Grauen Scheidenstreifling (*Amanita vaginata*)](/pilze/amanita-vaginata-grauer-scheidenstreifling) ist der Hut nicht mehrfach gezont, die Volva ist reinweiß, ohne rostfarbene Flecken.\
-Der [Grauhäutige Scheidenstreifling (*Amanita submembranacea*)](/pilze/amanita-vaginata-grauer-scheidenstreifling) besitzt oft cremefarbene bis graue, flächige Hüllreste auf dem Hut, seine Volva ist weiß bis grau, stabil und dick, ohne rostfarbene Flecken. Der Hut ist nicht mehrfach gezont.
+Der [Grauhäutige Scheidenstreifling (*Amanita submembranacea*)](/pilze/amanita-submembranacea-grauhäutiger-scheidenstreifling) besitzt oft cremefarbene bis graue, flächige Hüllreste auf dem Hut, seine Volva ist weiß bis grau, stabil und dick, ohne rostfarbene Flecken. Der Hut ist nicht mehrfach gezont.
