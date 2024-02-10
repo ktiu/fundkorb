@@ -40,3 +40,36 @@ Der nicht seltene Milde Glanz-Täubling *Russula nitida* ist eine Art der Moore 
 **Makroskopische Merkmale:**
 
 Hut maximal 80 mm breit, anfangs konvex und ungerieft, dann rasch ausgebreitet und gerne mit vertiefter Mitte, glänzend und im reifen Zustand höckerig gerieft. Huthaut ein Drittel bis halb abziehbar. Hutfarben sehr variabel: z. B. graurosa, olivblass, lilagrau, olivbraun, rotbraun, purpurn etc. Nach MARXMÜLLER 2024: weiß über ocker, olivgrün, bronzebraun,  graubraun, rosa, lila, violett bis hin zu weinrot, purpur und fast schwarz. Lamellen reif hell buttergelb, breit, entfernt, am Grunde queraderig verbunden, Schneide glattrandig. Stiel jung voll, bald hohl werdend, meist rein weiß, deutlich längs gerieft, selten schwach rosa überhaucht. Fleisch weiß, geruchlos und mild. Die Farbe des frisch ausgefallenen Sporenpulvers ist ocker, etwa IIIb-c nach der Farbtafel in MARXMÜLLER 2014.
+
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+     
+
+  <tr>
+      <td>mild</td>
+      <td>creme</td>
+      <td>1/3 bis 1/2</td>
+      <td>blass rosa</td>
+       
+    </tr>
+  </table>
+</div>
+
+**Mikroskopische Merkmale:**
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_nitida_05_hmx.jpg" %}
+{% include abbildung_ende.html legende="pz = Pileozystiden, eh = Epikutishaare, sp = Sporen, hz = Hymenialzystiden (Abb. mit freundlicher Erlaubnis von Helga Marxmüller)" %}
+
+Die Sporen sind ellipsoid, die Ornamentation besteht aus bis zu 1 µm hohen, isolierten Stacheln. Sie messen 8 - 10 x 7 - 8 µm, mit einem Schlankheitsgrad Q = 1,2. Die Epikutis (oberste Schicht der Huthaut) besteht aus Epikutishaaren und Pileozystiden. Die Epikutishaare („eh“) sind wellig, apikal gerundet, ab und zu verzweigt und 3 - 5 µm breit, die Pileozystiden („pz“) zylindrisch, vielfach septiert und 5 - 8  µm breit.
+
+**Ähnliche Täublinge:**
+
+Der sehr seltene Milde Torfmoos-Täubling (*Russula sphagnophila*) wächst im gleichen Milieu bei Birken, ist in Farbe und [Habitus](Habitus "Glossar") vergleichbar, ist aber etwas gebrechlicher, besitzt deutlich helleres Sporenpulver, und die Sporen-Ornamentation ist stachelig-teilnetzig.
