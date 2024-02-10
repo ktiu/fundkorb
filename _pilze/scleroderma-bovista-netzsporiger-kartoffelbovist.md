@@ -20,7 +20,7 @@ Die oben abgebildete Kollektion stammt aus dem Carré an der Dietzenbacher Rodga
 
 ##### Fünf in Deutschland nachgewiesene Scleroderma-Arten:
 
-**[Scleroderma areolatum](/pilze/scleroderma-areolatum-gefelderter-kartoffelbovist-leopardenfell-hartbovist)** Dickschaliger Kartoffelbovist\
+**[Scleroderma areolatum](/pilze/scleroderma-areolatum-gefelderter-kartoffelbovist-leopardenfell-hartbovist)** Gefelderter Kartoffelbovist\
 **Scleroderma bovista** Netzsporiger Kartoffelbovist**\
 Scleroderma cepa** Zwiebelförmiger Kartoffelbovist**[Scleroderma citrinum](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)** Dickschaliger Kartoffelbovist**\
 [Scleroderma verrucosum](/pilze/scleroderma-verrucosum-dünnschaliger-kartoffenbovist)** Dünnschaliger Kartoffelbovist
