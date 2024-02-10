@@ -74,4 +74,4 @@ Die Sporen (*sp*) sind ellipsoid, die Ornamentation besteht aus bis zu 1 µm hoh
 
 **Ähnliche Täublinge:**
 
-Der sehr seltene [Milde Torfmoos-Täubling (*Russula sphagnophila*)](/pilze/russula-sphagnophila-milder-torfmoos-täubling) wächst im gleichen Milieu bei Birken, ist in Farbe und \[Habitus](Habitus "Glossar)) vergleichbar, ist aber etwas gebrechlicher, besitzt deutlich helleres Sporenpulver, und die Sporen-Ornamentation ist stachelig-teilnetzig.
+Der sehr seltene [Milde Torfmoos-Täubling (*Russula sphagnophila*)](/pilze/russula-sphagnophila-milder-torfmoos-täubling) wächst im gleichen Milieu bei Birken, ist in Farbe und [Habitus](Habitus "Glossar") vergleichbar, ist aber etwas gebrechlicher, besitzt deutlich helleres Sporenpulver, und die Sporen-Ornamentation ist stachelig-teilnetzig.
