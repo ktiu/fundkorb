@@ -31,19 +31,23 @@ Stößt man im sauren Nadelwald auf einen mittelgroßen, graubraunen Scheidenstr
 {% include bild.html datei="/bilder/amnita_umbrinolutea_03_hs.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Hans Stern" %}
 
-Makroskopische Merkmale:
+**Makroskopische Merkmale:**
 
 Hut anfangs eiförmig, halbkugelig, bald ausgebreitet, auch mit kleinem Buckel, alt flach und oft mittig vertieft, ohne [Velumflocken](Velum "Glossar") auf dem Hut, bis etwa 12 cm breit. Farbe meist graubraun, aber mitunter auch umbra-, kastanien- oder olivbraun oder olivgrau, bei reifen Fruchtkörpern immer charakteristisch gezont (von innen nach außen dunkel – hell – dunkel – hell). Lamellen weiß, Schneide bei alten Exemplaren oft schwarz. Stiel bräunlich und fein genattert, ohne Ring. Fleisch weiß, geruchlos und mild. Die Farbe des frisch ausgefallenen Sporenpulvers ist weiß.
 
-Mikroskopische Merkmale:
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/amnita_umbrinolutea_04_uwi.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/amnita_umbrinolutea_05_uwi.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="2 Fotos: Uwe Winkler2 Fotos: Uwe Winkler" %}
+
+**Mikroskopische Merkmale:**
 
 Sporen nach LUDWIG rund bis rundlich, glatt, hyalin, 10 - 12,5 x 9,5 - 11,5 µm, mit einem Schlankheitdgrad von Q = 1,0 - 1,2. Velum aus verschlungenen Hyphen und zerstreuten globosen bis ellipsoiden Sphaerozysten.
 
-Anmerkung: Der hier beschriebene Zweifarbige Scheidenstreifling wurde zeitweilig Amanita battaerae genannt. Scheidenstreiflinge gelten als essbar, schmecken aber oft recht muffig.
+**Anmerkung:** Der hier beschriebene Zweifarbige Scheidenstreifling wurde zeitweilig *Amanita battaerrae* (Schreibweise manchmal auch *battarae*) genannt.\
+Scheidenstreiflinge gelten als essbar, schmecken aber oft recht muffig.
 
-Ähnliche Arten:
+**Ähnliche Arten:**
 
-Beim  Grauen Scheidenstreifling (Amanita vaginata) ist der Hut nicht mehrfach gezont, die Volva ist reinweiß, ohne rostfarbene Flecken
-Der Grauhäutige Scheidenstreifling (Amanita submembranacea) besitzt oft cremefarbene bis graue, flächige Hüllreste auf dem Hut, seine Volva ist weiß bis grau, stabil und dick, ohne rostfarbene Flecken. Der Hut ist nicht mehrfach gezont.
-
-
+Beim  [Grauen Scheidenstreifling (*Amanita vaginata*)](/pilze/amanita-vaginata-grauer-scheidenstreifling) ist der Hut nicht mehrfach gezont, die Volva ist reinweiß, ohne rostfarbene Flecken.  
+Der [Grauhäutige Scheidenstreifling (*Amanita submembranacea*)](/pilze/amanita-vaginata-grauer-scheidenstreifling) besitzt oft cremefarbene bis graue, flächige Hüllreste auf dem Hut, seine Volva ist weiß bis grau, stabil und dick, ohne rostfarbene Flecken. Der Hut ist nicht mehrfach gezont.
