@@ -22,7 +22,8 @@ Die oben abgebildete Kollektion stammt aus dem Carré an der Dietzenbacher Rodga
 
 **[Scleroderma areolatum](/pilze/scleroderma-areolatum-gefelderter-kartoffelbovist-leopardenfell-hartbovist)** Gefelderter Kartoffelbovist\
 **Scleroderma bovista** Netzsporiger Kartoffelbovist**\
-Scleroderma cepa** Zwiebelförmiger Kartoffelbovist**[Scleroderma citrinum](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)** Dickschaliger Kartoffelbovist**\
+Scleroderma cepa** Zwiebelförmiger Kartoffelbovist**  
+[Scleroderma citrinum](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)** Dickschaliger Kartoffelbovist**\
 [Scleroderma verrucosum](/pilze/scleroderma-verrucosum-dünnschaliger-kartoffenbovist)** Dünnschaliger Kartoffelbovist
 
 **Vereinfachter Bestimmungsschlüssel der 5 in Deutschland nachgewiesenen Arten:**
