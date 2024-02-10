@@ -38,4 +38,4 @@ Sehr großer, kräftiger Fruchtkörper. Hut bis zu 15 cm breit, jung eiförmig, 
 
 **Ähnliche Arten:**
 
-Der Zweifarbige Scheidenstreifling (*Amanita umbrinolutea*) besitzt weniger Grauanteile in der Hutfarbe. Auch ist er deutlich schmächtiger, und die Hutzonierung ist stärker ausgeprägt. Schließlich ist sein Habitat der saure Nadelwald, und er wächst – im Gegensatz zu unserer Art - auch in der temperaten und borealen Klimazone.
+Der [Zweifarbige Scheidenstreifling (*Amanita umbrinolutea*)](/pilze/amanita-umbrinolenta-zweifarbiger-scheidenstreifling) besitzt weniger Grauanteile in der Hutfarbe. Auch ist er deutlich schmächtiger, und die Hutzonierung ist stärker ausgeprägt. Schließlich ist sein Habitat der saure Nadelwald, und er wächst – im Gegensatz zu unserer Art - auch in der temperaten und borealen Klimazone.
