@@ -17,6 +17,18 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phyllotopsis_nidulans_01_pz.jpg" %}
+{% include abbildung_ende.html %}
+
+11.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Orangeseitling *Phyllotopsis nidulans*. Zum Anbeißen lecker sieht er aus und ist gerade in den Wintermonaten ein willkommener orangefarbener Farbtupfer im Wald. Aber spätestens bei der Geruchsprobe lässt der Appetit nach: faulendes Gemüse ist noch eine freundliche, häufig genannte Assoziation. Früher noch als selten eingestuft, scheint er immer häufiger zu werden. Zumindest im Rhein-Main-Gebiet. (Florian Weyel)
+
+[Mehr lesen >](/pilze/phyllotopsis-nidulans-orangeseitling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ascocoryne_cylichnium_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 09.02.2024: Sogar jetzt im späten Winter sieht man überall seine Überbleibsel: [Fundkorbpilz](AA "Glossar-") ist der Dickschalige Kartoffelbovist *Scleroderma citrinum*. Mich verbindet mit ihm eine gewisse Hassliebe. Sein häufiges Vorkommen auf sauren, sandigen Böden kann nerven, wenn man auf der Suche nach vermeintlich spannenderen Pilzen ist. Letztes Jahr hat mich ein Fund aber nachhaltig mit ihm versöhnt: Im Langener Loh entdeckte ich einen (essbaren!) [Schmarotzer-Röhrling Xerocomus parasiticus](/pilze/xerocomus-parasiticus-schmarotzer-röhrling), der exklusiv Kartoffelboviste parasitiert. (Florian Weyel)
 
 [Mehr lesen >](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_pomaceus_04_dg-.jpg" %}
-{% include abbildung_ende.html %}
-
-08.02.2024: Um den heutigen aktuellen [Fundkorbpilz](AA "Glossar-") zu fotografieren, brauche ich nur vor unsere Haustür und von da fünf Meter nach rechts zu gehen. Da steht ein Blutpflaumenbaum und an seinem Stamm wächst seit Jahren der Pflaumen-Feuerschwamm *Phellinus pomaceus*. Er ist zwar ein Parasit, der eine Weißfäule im Holz erzeugt, aber nicht sehr aggressiv, so dass der befallene Baum noch eine lange Lebenszeit vor sich hat und weiterhin Früchte trägt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)
 
 <div style="clear:  both"></div>
 
