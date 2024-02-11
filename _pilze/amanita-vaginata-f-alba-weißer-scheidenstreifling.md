@@ -34,7 +34,7 @@ Fruchtkörper groß, langstielig, nicht sehr robust, Hut des größten Exemplars
 
 **Mikromerkmale:**
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/amanita_vaginata_f.alba_03_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/amanita_vaginata_f.alba_04_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/amanita_vaginata_f.alba_05_bm.jpg" nocrop=true gross=true %}
@@ -53,14 +53,14 @@ Fundort - Fruchtkörpergröße - Hutmerkmale - Stielmerkmale - makroskopische Me
 Die mir zur Verfügung stehenden dichotomen Bestimmungsschlüssel, z. B. der in GRÖGER 2014, führen allesamt nicht zu einem bestimmten Ziel, sondern quasi in die Irre.\
 Bestimmungs-Alternative: Wir wollen einmal rein theoretisch annehmen, es handele sich um die weiße Form des Grauen Scheidenstreiflings (*Amanita vaginata f. alba*). Kann das stimmen? In der folgenden Liste gebe ich die Merkmale des Fundes an und ergänze nach dem Doppelpunkt, ob eine Übereinstimmung mit dem [Grauen Scheidenstreifling *Amanita vaginata*](/pilze/amanita-vaginata-grauer-scheidenstreifling) vorliegt:
 
-Fundort hell, Kalkboden: passt  
-Begleitbäume Rotbuchen und/oder Kiefern: passt  
-Fruchtkörpergröße 12 cm Durchm. x 20 cm Höhe: passt  
-Hut glatt, schwach klebrig, nur am Rand gerieft, ohne Velumreste: passt  
-Hut nahezu ungebuckelt: passt nicht!  
-Stiel brüchig, fein weißlich geflockt: passt  
-Volva lappig, weich, am Stiel anliegend, hellbräunlich: passt nicht!  
-Sporen rundlich bis breit ellipsoid, 11-12 x 8.5-10.5 µm: passt nicht!  
+Fundort hell, Kalkboden: passt\
+Begleitbäume Rotbuchen und/oder Kiefern: passt\
+Fruchtkörpergröße 12 cm Durchm. x 20 cm Höhe: passt\
+Hut glatt, schwach klebrig, nur am Rand gerieft, ohne Velumreste: passt\
+Hut nahezu ungebuckelt: passt nicht!\
+Stiel brüchig, fein weißlich geflockt: passt\
+Volva lappig, weich, am Stiel anliegend, hellbräunlich: passt nicht!\
+Sporen rundlich bis breit ellipsoid, 11-12 x 8.5-10.5 µm: passt nicht!\
 Volva überwiegend aus Sphaerozysten: passt nicht!
 
 Negatives Ergebnis: Amanita vaginata f. alba, also der Graue Scheidenstreifling in seiner weißen Farbform, ist es nicht! Ebensowenig führen Vergleiche mit anderen Arten zum Ziel. Der Fund ist also, zumindest für mich, unbestimmbar.
