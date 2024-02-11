@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-10.02.2024: [Ascocoryne cylichnium - Großsporiger Gallertbecher](/pilze/ascocoryne-cylichnium-großsporiger-gallertbecher)  
+11.02.2024: [Phyllotopsis nidulans - Orangeseitling](/pilze/phyllotopsis-nidulans-orangeseitling)  
+10.02.2024: [Ascocoryne cylichnium - Großsporiger Gallertbecher](/pilze/ascocoryne-cylichnium-großsporiger-gallertbecher)\
 09.02.2024: [Scleroderma citrinum - Dickschaliger Kartoffelbovist](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)\
 08.02.2024: [Phellinus pomaceus - Pflaumen-Feuerschwamm](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)\
 07.02.2024: [Schizopora flavipora - Gelbporiger Spaltporling](<Schizopora flavipora - Gelbporiger Spaltporling>)\
