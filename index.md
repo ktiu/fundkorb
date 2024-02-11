@@ -17,6 +17,18 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/schizophyllum_commune_01_dg-1536x795.jpeg" %}
+{% include abbildung_ende.html %}
+
+12.02.2024: Heutiger [Fundkorbpilz](AA "Glossar-") ist der Gemeine Spaltblättling *Schizophyllum commune*. Sein striegeliger Hut hat die Form einer Muschel oder eines Fächers, die Oberseite ist weißlich bis hellgrau. Eindeutig und leicht zu bestimmen ist er durch seine unverwechselbaren „gespaltenen“ Lamellen, die faszinierend schön anzuschauen und ein beliebtes Motiv zum Fotografieren sind. (Florian Weyel)
+
+[Mehr lesen >](/pilze/schizophyllum-commune-spaltblättling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phyllotopsis_nidulans_01_pz.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 10.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") des Jahres ist der Großsporige Gallertbecher Ascocoryne cylichnium. Er hat einen ebenso häufigen Doppelgänger, von dem er optisch kaum zu unterscheiden ist, den Fleischroten Gallertbecher *Ascocoryne sarcoides*. Da sich die Sporen recht deutlich unterscheiden, ist die mikrskopische Trennung eine recht einfache Lösung, zu der man allerdings reife Sporen benötigt.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/ascocoryne-cylichnium-großsporiger-gallertbecher)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/scleroderma_citrinum_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-09.02.2024: Sogar jetzt im späten Winter sieht man überall seine Überbleibsel: [Fundkorbpilz](AA "Glossar-") ist der Dickschalige Kartoffelbovist *Scleroderma citrinum*. Mich verbindet mit ihm eine gewisse Hassliebe. Sein häufiges Vorkommen auf sauren, sandigen Böden kann nerven, wenn man auf der Suche nach vermeintlich spannenderen Pilzen ist. Letztes Jahr hat mich ein Fund aber nachhaltig mit ihm versöhnt: Im Langener Loh entdeckte ich einen (essbaren!) [Schmarotzer-Röhrling Xerocomus parasiticus](/pilze/xerocomus-parasiticus-schmarotzer-röhrling), der exklusiv Kartoffelboviste parasitiert. (Florian Weyel)
-
-[Mehr lesen >](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)
 
 <div style="clear:  both"></div>
 
