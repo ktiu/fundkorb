@@ -17,6 +17,18 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phragmidium_violaceum_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.02.2024: [Fundkorbpilz](AA "Glossar-") ist der Brombeer-Rost *Phragmidium violaceum*. Er befällt die Blätter der Pflanzen und dürfte in keinem Brombeerbestand fehlen. Man erkennt den Rost, der zwei unterschiedliche Sporentypen bildet, an den dunkelroten Flecken auf der Blattoberseite, die ganzjährig zu beobachten sind. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phragmidium-violaceum-brombeer-rost)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/schizophyllum_commune_01_dg-1536x795.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 11.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Orangeseitling *Phyllotopsis nidulans*. Zum Anbeißen lecker sieht er aus und ist gerade in den Wintermonaten ein willkommener orangefarbener Farbtupfer im Wald. Aber spätestens bei der Geruchsprobe lässt der Appetit nach: faulendes Gemüse ist noch eine freundliche, häufig genannte Assoziation. Früher noch als selten eingestuft, scheint er immer häufiger zu werden. Zumindest im Rhein-Main-Gebiet. (Florian Weyel)
 
 [Mehr lesen >](/pilze/phyllotopsis-nidulans-orangeseitling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ascocoryne_cylichnium_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-10.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") des Jahres ist der Großsporige Gallertbecher Ascocoryne cylichnium. Er hat einen ebenso häufigen Doppelgänger, von dem er optisch kaum zu unterscheiden ist, den Fleischroten Gallertbecher *Ascocoryne sarcoides*. Da sich die Sporen recht deutlich unterscheiden, ist die mikrskopische Trennung eine recht einfache Lösung, zu der man allerdings reife Sporen benötigt.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ascocoryne-cylichnium-großsporiger-gallertbecher)
 
 <div style="clear:  both"></div>
 
