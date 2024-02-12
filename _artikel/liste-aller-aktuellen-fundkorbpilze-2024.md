@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-12.02.2024: [Schizophyllum commune: Gemeiner Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)  
+13.02.2024: [Phragmidium violaceum - Brombeer-Rost](/pilze/phragmidium-violaceum-brombeer-rost)  
+12.02.2024: [Schizophyllum commune: Gemeiner Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)\
 11.02.2024: [Phyllotopsis nidulans - Orangeseitling](/pilze/phyllotopsis-nidulans-orangeseitling)\
 10.02.2024: [Ascocoryne cylichnium - Großsporiger Gallertbecher](/pilze/ascocoryne-cylichnium-großsporiger-gallertbecher)\
 09.02.2024: [Scleroderma citrinum - Dickschaliger Kartoffelbovist](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)\
