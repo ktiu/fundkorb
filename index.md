@@ -17,6 +17,18 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sarcoscypha_aurantiaca_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.02.2024: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Gemeinen Prachtbecherling *Sarcoscypha austriaca*, haben wir im Zenger Moos nördlich von München entdeckt. Man findet ihn normalerweise im zeitigen Frühjahr nach der Schneeschmelze, meist in der Nähe von Fluß- und Bachläufen. Im Zenger Moos ist allerdings kein fließendes Gewässer in der Nähe. Dort wachsen gerade ca. 50 zum Teil noch sehr junge Fruchtkörper auf Holzästen und dunkler Erde. Als entscheidendes mikroskopisches Merkmal konnten korkenzieherartig verschlungene Haare gefunden werden. (Johann Rejek)
+
+[Mehr lesen >](/pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phragmidium_violaceum_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
