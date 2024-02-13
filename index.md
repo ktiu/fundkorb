@@ -20,7 +20,7 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 {% include bild.html datei="/bilder/phragmidium_violaceum_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-13.02.2024: [Fundkorbpilz](AA "Glossar-") ist der Brombeer-Rost *Phragmidium violaceum*. Er befällt die Blätter der Pflanzen und dürfte in keinem Brombeerbestand fehlen. Man erkennt den Rost, der zwei unterschiedliche Sporentypen bildet, an den dunkelroten Flecken auf der Blattoberseite, die ganzjährig zu beobachten sind. (Dieter Gewalt)
+13.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brombeer-Rost *Phragmidium violaceum*. Er befällt die Blätter der Pflanzen und dürfte in keinem Brombeerbestand fehlen. Man erkennt den Rost, der zwei unterschiedliche Sporentypen bildet, an den dunkelroten Flecken auf der Blattoberseite, die ganzjährig zu beobachten sind. Auf den Blattunterseiten sind die dunkelbraunen Sporenlager zu sehen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phragmidium-violaceum-brombeer-rost)
 
