@@ -17,6 +17,18 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tyromyces_kmetii_09_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+16.02.2024: Wegen seiner attraktiven Hutfarben ist der Orangegelbe Saftporling *Tyromyces kmetii* einer der schönsten Baumschwämme und unser aktueller [Fundkorbpilz](AA "Glossar-"). Die Farbskala reicht von gelb über orange bis pink und macht ihn unverwechselbar. Er gilt als selten, ist aber im Rhein-Main-Gebiet und sicher auch anderswo in Ausbreitung begriffen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tyromyces-kmetii-orangegelber-saftporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/junghuhnia_nitida_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 14.02.2024: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Gemeinen Prachtbecherling *Sarcoscypha austriaca*, haben wir im Zenger Moos nördlich von München entdeckt. Man findet ihn normalerweise im zeitigen Frühjahr nach der Schneeschmelze, meist in der Nähe von Fluß- und Bachläufen. Im Zenger Moos ist allerdings kein fließendes Gewässer in der Nähe. Dort wachsen gerade ca. 50 zum Teil noch sehr junge Fruchtkörper auf Holzästen und dunkler Erde. Als entscheidendes mikroskopisches Merkmal konnten korkenzieherartig verschlungene Haare gefunden werden. (Johann Rejek)
 
 [Mehr lesen >](/pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phragmidium_violaceum_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brombeer-Rost *Phragmidium violaceum*. Er befällt die Blätter der Pflanzen und dürfte in keinem Brombeerbestand fehlen. Man erkennt den Rost, der zwei unterschiedliche Sporentypen bildet, an den dunkelroten Flecken auf der Blattoberseite, die ganzjährig zu beobachten sind. Auf den Blattunterseiten sind die dunkelbraunen Sporenlager zu sehen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phragmidium-violaceum-brombeer-rost)
 
 <div style="clear:  both"></div>
 
