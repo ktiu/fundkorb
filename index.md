@@ -17,6 +17,18 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sphaeropsis_visci_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.02.2024: Heute gibt es mal wieder was echt Winziges als aktuellen [Fundkorbpilz](AA "Glossar-"). Um den Mistelbefall *Sphaeropsis visci* so wie auf dem Foto zu sehen, bedarf es allerdings einer stark vergrößernden Lupe. Schon anhand des Substrats ist er leicht und sicher zu bestimmen. Er wächst ausschließlich auf abgefallenen Mistelzweigen und ist ganzjährig zu finden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/sphaeropsis-visci-mistelbefall#)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tyromyces_kmetii_09_fk.jpg" %}
 {% include abbildung_ende.html %}
 
