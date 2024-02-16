@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-16.02.2024: [Tyromyces kmetii - Orangegelber Saftporling](/pilze/tyromyces-kmetii-orangegelber-saftporling)  
+17.02.2024: [Sphaeropsis visci - Mistelbefall](/pilze/sphaeropsis-visci-mistelbefall)  
+16.02.2024: [Tyromyces kmetii - Orangegelber Saftporling](/pilze/tyromyces-kmetii-orangegelber-saftporling)\
 15.02.2024: [Junghuhnia nitida - Schönfarbiger Resupinatporling](/pilze/junghuhnia-nitida-schönfarbiger-resupinatporling)\
 14.02.2024: [Sarcoscypha austriaca - Gemeiner Prachtbecherling](/pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)\
 13.02.2024: [Phragmidium violaceum - Brombeer-Rost](/pilze/phragmidium-violaceum-brombeer-rost)\
