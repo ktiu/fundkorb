@@ -38,7 +38,9 @@ Zum Zeitpunkt der ersten Untersuchung durch *Hermine Lotz-Winter* waren die Apot
 {% include bild.html datei="/bilder/cheiymenia_crucipila_07_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Spore, fein warzig punktiert    --   Haare (in Kongorot angefärbt, 2 Fotos: Bernd Miggel)" %}
 
+Auf Tierkot, vor allem von Rindern und Pferden, wächst der [Sternhaarige Mistborstling *Cheilymenia stercorea*](/pilze/cheilymenia-stercorea-sternhaariger-mistborstling).
+
 **Kurzbeschreibung:**
 
-**[Apothecien](Apothecien "Glossar"):** 1 - 3 mm breit, stiellos mit dem Substrat verbunden, zuerst becherförmig, dann verflachend, orange bis orangerot, Außenseite heller und mit hell bräunlichen Haaren besetzt, gesellig oder miteinander verknäuelt wachsend
-**Mikromerkmale:** Sporen ellipsoid, fein warzig punktiert, 10 - 20 µm; Asci achtsporig, Haare hell bräunlich, dickwandig, septiert, an der Basis teilweise gegabelt
+**[Apothecien](Apothecien "Glossar"):** 1 - 3 mm breit, stiellos mit dem Substrat verbunden, zuerst becherförmig, dann verflachend, orange bis orangerot, Außenseite heller und mit hell bräunlichen Haaren besetzt, gesellig oder miteinander verknäuelt wachsend.\
+**Mikromerkmale:** Sporen ellipsoid, fein warzig punktiert, 10 - 20 µm; Asci achtsporig, Haare hell bräunlich, dickwandig, septiert, an der Basis teilweise gegabelt.
