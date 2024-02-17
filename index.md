@@ -16,7 +16,7 @@ Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. H
 
 - - -
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/strobilurus_stephanocystis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
