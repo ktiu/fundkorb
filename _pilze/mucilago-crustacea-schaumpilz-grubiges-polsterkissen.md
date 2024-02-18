@@ -33,6 +33,6 @@ Diese Fruktifikationen sind weißlich bis cremefarbig und können bis zu 10 cm l
 {% include bild.html datei="/bilder/mucilago_crustacea_05_nk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Norbert Kühnberger" %}
 
-Ähnliche Schleimpilze an Totholz sind u. a. *Sebacina incrustata*, *Fuligo candida*, *Fuligo cinerea* und *[Fuligo rufa](/pilze/fuligo-rufa-rötliche-lohblüte)*. Vorkommen an Gras dürften als unverwechselbar gelten.
+Ähnliche Schleimpilze an Totholz sind u. a. *Fuligo candida*, *Fuligo cinerea* und *[Fuligo rufa](/pilze/fuligo-rufa-rötliche-lohblüte)*. Vorkommen an Gras dürften als unverwechselbar gelten.
 
 Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
