@@ -12,7 +12,15 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin am 18.02.2024: **Der Wald und seine Pilze im Februar**. Hier geht's zur [Anmeldung >](/termine)[](/termine)
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.02.2024: Auch in diesem Jahr waren bei einer Exkursion in einem Wald bei Dietzenbach die Ballerina-Pilze das am meisten beachtete High-Light der Führung und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Dieses bezaubernde kleine Kunstwerk begeistert seit mehr als einem Jahr die Pilzfreunde im Raum Frankfurt/Offenbach. Da muss man erst mal drauf kommen, beim Anblick von [Zunderschwämmen](/pilze/fomes-fomentarius-zunderschwamm) an Tänzerinnen zu denken und die Fruchtkörper als Röcke in die Darstellung einzubeziehen. (Dieter Gewalt) 
+
+[Mehr lesen >](/artikel/besuch-bei-den-ballerina-pilzen)
+
+<div style="clear:  both"></div>
 
 - - -
 
