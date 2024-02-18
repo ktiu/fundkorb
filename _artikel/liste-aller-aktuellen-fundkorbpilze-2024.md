@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-18.02.2024: [Strobilurus stephanocystis - Milder Kiefernzapfenrübling](/pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling)  
+19.02.2024: [Ballerina-Pilze](/artikel/besuch-bei-den-ballerina-pilzen)  
+18.02.2024: [Strobilurus stephanocystis - Milder Kiefernzapfenrübling](/pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling)\
 17.02.2024: [Sphaeropsis visci - Mistelbefall](/pilze/sphaeropsis-visci-mistelbefall)\
 16.02.2024: [Tyromyces kmetii - Orangegelber Saftporling](/pilze/tyromyces-kmetii-orangegelber-saftporling)\
 15.02.2024: [Junghuhnia nitida - Schönfarbiger Resupinatporling](/pilze/junghuhnia-nitida-schönfarbiger-resupinatporling)\
