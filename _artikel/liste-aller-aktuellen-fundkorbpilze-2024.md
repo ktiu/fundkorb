@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+20.02.2024: Galerina subclavata - 
 19.02.2024: [Ballerina-Pilze](/artikel/besuch-bei-den-ballerina-pilzen)  
 18.02.2024: [Strobilurus stephanocystis - Milder Kiefernzapfenrübling](/pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling)\
 17.02.2024: [Sphaeropsis visci - Mistelbefall](/pilze/sphaeropsis-visci-mistelbefall)\
