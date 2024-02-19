@@ -12,6 +12,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/galerina_subclavata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zweisporige Winterhäubling *Galerina subclavata*. „Zweisporig“ besagt zweierlei. Erstens dass an seinen [Basidien](Basidien "Glossar") nur jeweils zwei Sporen heranreifen und dass man ihn zweitens mikroskopieren muss, um dieses entscheidende Merkmal zu erkennen. Dass er auch in den Wintermonaten zu finden ist, worauf sein Name hinweist, ist für Häublinge nichts Besonderes. Vermutlich ist er gar nicht so selten wie vielfach in der Literatur angegeben wird. Wichtig zu wissen: es gibt tödlich giftige *Galerina*-Arten, die vor allem leichtsinnigen Sammlern von [Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen) zum Verhängnis werden können. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -31,30 +43,6 @@ footer_scripts:
 18.02.2024: Auf Kiefernzapfen wachsen mehrere rüblingsartige Pilze, darunter zwei Zapfenrüblinge der Gattung *Strobilurus*. Einer von ihnen, der Milde Kiefernzapfenrübling *Strobilurus stephanocystis*, ist heute unser [Fundkorbpilz](AA "Glossar-"). Um ihn sicher von milden Formen des [Bitteren Kiefernzapfenrüblings](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling) zu unterscheiden, ist mikroskopieren angesagt. *„stephanocystis“* bedeutet *„mit bekränzten [Zystiden](<Zystiden "Glossar">)“*. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/sphaeropsis_visci_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.02.2024: Heute gibt es mal wieder was echt Winziges als aktuellen [Fundkorbpilz](AA "Glossar-"). Um den Mistelbefall *Sphaeropsis visci* so wie auf dem Foto zu sehen, bedarf es allerdings einer stark vergrößernden Lupe. Schon anhand des Substrats ist er leicht und sicher zu bestimmen. Er wächst ausschließlich auf abgefallenen Mistelzweigen und ist ganzjährig zu finden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/sphaeropsis-visci-mistelbefall)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tyromyces_kmetii_09_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-16.02.2024: Wegen seiner attraktiven Hutfarben ist der Orangegelbe Saftporling *Tyromyces kmetii* einer der schönsten Baumschwämme und unser aktueller [Fundkorbpilz](AA "Glossar-"). Die Farbskala reicht von gelb über orange bis pink und macht ihn unverwechselbar. Er gilt als selten, ist aber im Rhein-Main-Gebiet und sicher auch anderswo in Ausbreitung begriffen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tyromyces-kmetii-orangegelber-saftporling)
 
 <div style="clear:  both"></div>
 
