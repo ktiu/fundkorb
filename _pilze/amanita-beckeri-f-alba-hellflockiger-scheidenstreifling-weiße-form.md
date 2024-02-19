@@ -17,8 +17,7 @@ literatur:
   - text: "LUDWIG, E. (2012): Pilzkompendium Band 3: Nr. 99.18.4"
   - text: "MOSER, M. (1983): Die Röhrlinge und Blätterpilze. Kleine Kryptogamenflora
       Bd IIb/2: Seite 220 - 221"
-  - url: https://www.pilzforum.eu/board/thread/38063-wei%C3%9Fe-
-      scheidenstreifling-bayern/
+  - url: https://www.pilzforum.eu/board/thread/38063-wei%C3%9Fe-scheidenstreifling-bayern/
 ---
 Anfang August 2014 hatte ich das Glück, eine kleine, aus vier Exemplaren bestehende Population eines recht großen, weißen Scheidenstreifling (*Amanita* Sektion *Vaginatae*) zu finden. Die Pilze wuchsen direkt beieinander an einer lichten, wärmebegünstigten Stelle eines Kalkbuchenwaldes im nördlichen Schwarzwaldrandgebiet. Begleitbäume waren Rotbuchen und Kiefern. Den Fund möchte ich hier beschreiben und eine Bestimmung vornehmen.
 
