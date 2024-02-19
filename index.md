@@ -18,7 +18,7 @@ footer_scripts:
 
 20.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zweisporige Winterhäubling *Galerina subclavata*. „Zweisporig“ besagt zweierlei. Erstens dass an seinen [Basidien](Basidien "Glossar") nur jeweils zwei Sporen heranreifen und dass man ihn zweitens mikroskopieren muss, um dieses entscheidende Merkmal zu erkennen. Dass er auch in den Wintermonaten zu finden ist, worauf sein Name hinweist, ist für Häublinge nichts Besonderes. Vermutlich ist er gar nicht so selten wie vielfach in der Literatur angegeben wird. Wichtig zu wissen: es gibt tödlich giftige *Galerina*-Arten, die vor allem leichtsinnigen Sammlern von [Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen) zum Verhängnis werden können. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/galerina-subclavata-zweisporiger-winterhäubling)
 
 <div style="clear:  both"></div>
 
