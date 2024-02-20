@@ -10,8 +10,20 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**  
+Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 [Zur Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/auricularia_mesenterica_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.02.2024: Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") durchaus für eine [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete) halten. Anfassen genügt aber schon, um den Irrtum festzustellen. Er fühlt sich elastisch gelatinös an und seine grauliche Unterseite ist auf glattem Grund unregelmäßig faltig und könnte uns an ein [Judasohr](/auricularia-auricula-judae-judasohr) erinnern. In der Tat ist der Gezonte Ohrlappenpilz *Auricularia mesenterica* mit diesem nahe verwandt, aber im Gegensatz zu ihm für die Küche völlig ungeeignet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -34,18 +46,6 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**
 19.02.2024: Auch in diesem Jahr waren bei einer Exkursion in einem Wald bei Dietzenbach die Ballerina-Pilze das am meisten beachtete High-Light der Führung und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Dieses bezaubernde kleine Kunstwerk begeistert seit mehr als einem Jahr die Pilzfreunde im Raum Frankfurt/Offenbach. Da muss man erst mal drauf kommen, beim Anblick von [Zunderschwämmen](/pilze/fomes-fomentarius-zunderschwamm) an Tänzerinnen zu denken und die Fruchtkörper als Röcke in die Darstellung einzubeziehen. (Dieter Gewalt) 
 
 [Mehr lesen >](/artikel/besuch-bei-den-ballerina-pilzen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/strobilurus_stephanocystis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.02.2024: Auf Kiefernzapfen wachsen mehrere rüblingsartige Pilze, darunter zwei Zapfenrüblinge der Gattung *Strobilurus*. Einer von ihnen, der Milde Kiefernzapfenrübling *Strobilurus stephanocystis*, ist heute unser [Fundkorbpilz](AA "Glossar-"). Um ihn sicher von milden Formen des [Bitteren Kiefernzapfenrüblings](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling) zu unterscheiden, ist mikroskopieren angesagt. *„stephanocystis“* bedeutet *„mit bekränzten [Zystiden](<Zystiden "Glossar">)“*. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling)
 
 <div style="clear:  both"></div>
 
