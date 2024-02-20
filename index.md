@@ -10,6 +10,9 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
+Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**  
+[Zur Anmeldung >](/termine)
+
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
