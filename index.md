@@ -19,7 +19,7 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 {% include bild.html datei="/bilder/auricularia_mesenterica_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-21.02.2024: Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") durchaus für eine [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete) halten. Anfassen genügt aber schon, um den Irrtum festzustellen. Er fühlt sich elastisch gelatinös an und seine grauliche Unterseite ist auf glattem Grund unregelmäßig faltig und könnte uns an ein [Judasohr](/auricularia-auricula-judae-judasohr) erinnern. In der Tat ist der Gezonte Ohrlappenpilz *Auricularia mesenterica* mit diesem nahe verwandt, aber im Gegensatz zu ihm für die Küche völlig ungeeignet. (Dieter Gewalt)
+21.02.2024: Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") durchaus für eine [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete) halten. Anfassen genügt aber schon, um den Irrtum festzustellen. Er fühlt sich elastisch gelatinös an und seine grauliche Unterseite ist auf glattem Grund unregelmäßig faltig und könnte uns an ein [Judasohr](/pilze/auricularia-auricula-judae-judasohr) erinnern. In der Tat ist der Gezonte Ohrlappenpilz *Auricularia mesenterica* mit diesem nahe verwandt, aber im Gegensatz zu ihm für die Küche völlig ungeeignet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)
 
