@@ -1,8 +1,8 @@
 ---
 aktivitaet: Der Wald und seine Pilze im März
-zeit: 2024-02-20T07:55:13.130Z
+zeit: 2024-03-17T10:00:13.130Z
 bis: ""
-customdate: Sonntag, 17. März 2024. 10:00 Uhr
+customdate: ""
 anmeldung_offen: true
 anmeldung_noetig: true
 published: true
