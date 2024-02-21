@@ -2,6 +2,9 @@
 beschreibung:
   wissenschaftlich: Ascocoryne sarcoides
   deutsch: Fleischroter Gallertbecher
+  referenz: (Jacq.) J.W. Groves & D.E. Wilson 1967
+  familie: Gelatinodiscaceae
+  erlaeuterung: sarcoides = fleischähnlich
 profil:
   aktualisiert: 2024-02-21
   autor_in: Dieter Gewalt
