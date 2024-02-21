@@ -28,7 +28,7 @@ Die trockenen, vor allem in der Mitte feinschuppigen rissigen Hüte erreichen 2 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hygrocybe_intermedia_02_tl.jpg" %}
-{% include abbildung_ende.html legende="Detail-Einfügung links: längsfaseriger Stiel -- rechts: Hutschuppung" %}
+{% include abbildung_ende.html legende="Detail-Einfügung links: längsfaseriger Stiel --- rechts: Hutschuppung" %}
 
 Ähnlich können der [Granatrote Saftling *Hygrocybe punicea*](/pilze/hygrocybe-punicea-granatroter-saftling) und der [Kirschrote Saftling *Hygrocybe coccinea*](/pilze/hygrocybe-coccinea-kirschroter-saftling) aussehen, der jedoch etwas kleinere Sporen hat:
 
