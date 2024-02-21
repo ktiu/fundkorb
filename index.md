@@ -16,6 +16,18 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_strobilicola_01_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+22.02.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Fichtenzapfenhelmling  *Mycena strobilicola*, ist in Deutschland regional aber nicht überall verbreitet. Im Süden Bayerns ist er zur Zeit in fast jedem Fichtenforst zu finden, so auch am östlichen Stadtrand von München. Der Helmling ist makroskopisch leicht zu bestimmen, da er auf vorjährigen meist vergrabenen Fichtenzapfen wächst. Um sicher zu sein, dass man nicht den zur gleichen Zeit erscheinenden [Fichtenzapfenrübling  *Strobilurus esculentus*](/pilze/strobilurus-esculentus-fichtenzapfenrübling) gefunden hat, braucht man nur den an der Hutunterseite wahrnehmbaren typischen Geruch nach Chlor (Schwimmbad) zu prüfen. (Johann Rejek)
+
+[Mehr lesen >](/pilze/mycena-strobilicola-fichtenzapfenhelmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/auricularia_mesenterica_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -34,18 +46,6 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 20.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zweisporige Winterhäubling *Galerina subclavata*. „Zweisporig“ besagt zweierlei. Erstens dass an seinen [Basidien](Basidien "Glossar") nur jeweils zwei Sporen heranreifen und dass man ihn zweitens mikroskopieren muss, um dieses entscheidende Merkmal zu erkennen. Dass er auch in den Wintermonaten zu finden ist, worauf sein Name hinweist, ist für Häublinge nichts Besonderes. Vermutlich ist er gar nicht so selten wie vielfach in der Literatur angegeben wird. Wichtig zu wissen: es gibt tödlich giftige *Galerina*-Arten, die vor allem leichtsinnigen Sammlern von [Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen) zum Verhängnis werden können. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/galerina-subclavata-zweisporiger-winterhäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/ballerina-pilze_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.02.2024: Auch in diesem Jahr waren bei einer Exkursion in einem Wald bei Dietzenbach die Ballerina-Pilze das am meisten beachtete High-Light der Führung und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Dieses bezaubernde kleine Kunstwerk begeistert seit mehr als einem Jahr die Pilzfreunde im Raum Frankfurt/Offenbach. Da muss man erst mal drauf kommen, beim Anblick von [Zunderschwämmen](/pilze/fomes-fomentarius-zunderschwamm) an Tänzerinnen zu denken und die Fruchtkörper als Röcke in die Darstellung einzubeziehen. (Dieter Gewalt) 
-
-[Mehr lesen >](/artikel/besuch-bei-den-ballerina-pilzen)
 
 <div style="clear:  both"></div>
 
