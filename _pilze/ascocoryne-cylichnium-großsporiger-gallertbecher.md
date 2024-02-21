@@ -25,3 +25,5 @@ Beim Fund kleiner, kreisel- oder scheibenförmiger [Ascomyzeten](Ascomyzeten "Gl
 **Ascocoryne cylichnium:** Sporen mit bis zu 5 Septen; 16 - 30 x 5,2 - 6,8 µm\
 **Ascocoryne sarcoides:** Sporen nicht oder nur einfach septiert; 14 - 18,8 x 4 - 5,5 µm\
 **Ascocoryne inflata**: Sporen nicht oder nur einfach septiert; 18 - 26 x 4,7 - 6,3 µm
+
+.
