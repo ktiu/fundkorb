@@ -18,7 +18,7 @@ literatur:
   - url: https://de.wikipedia.org/wiki/Feuerschuppiger_Saftling
   - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/hintermedia.php
 ---
-Der Feuerschuppige Saftling ist eine von den seltenen Arten, die in der Ebene kaum, in höheren Lagen ab etwa 400 m gelegentlich gefunden werden kann. Er benötigt nährstoffarme ungedüngte Böden, wie sie in Deutschland nur noch zerstreut anzutreffen sind. Er wird auch Trockener Saftling genannt. Beide Namen sind zutreffend, doch die damit benannten Eigenschaften machen ihn keinesfalls unverwechselbar. Im Gegensatz zu den meisten anderen Saftlingen, die erst spät im Jahr erscheinen, ist der Feuerschuppige Saftling schon ab Juli zu finden.
+Der Feuerschuppige Saftling ist eine von den seltenen Arten, die in der Ebene kaum, in höheren Lagen ab etwa 400 m gelegentlich gefunden werden kann. Er benötigt nährstoffarme ungedüngte Böden, wie sie in Deutschland nur noch zerstreut anzutreffen sind. Er wird auch Trockener Saftling genannt. Beide Namen sind zutreffend, doch die damit benannten Eigenschaften machen ihn keinesfalls unverwechselbar. Im Gegensatz zu den meisten anderen Saftlingen, die erst spät im Jahr erscheinen, ist der Feuerschuppige Saftling schon ab Juli zu finden..
 
 *Thomas Lehr*, der sich bestens im Taunus auskennt, beurteilt die Situation dort wie folgt:
 
@@ -32,6 +32,6 @@ Die trockenen, vor allem in der Mitte feinschuppigen rissigen Hüte erreichen 2 
 
 Ähnlich können der [Granatrote Saftling *Hygrocybe punicea*](/pilze/hygrocybe-punicea-granatroter-saftling) und der [Kirschrote Saftling *Hygrocybe coccinea*](/pilze/hygrocybe-coccinea-kirschroter-saftling) aussehen, der jedoch etwas kleinere Sporen hat:
 
-Sporen Hygrocybe intermedia: 8 – 10,5 x 5 – 7,5 µm  
-Sporen Hygrocybe punicea:  8 – 11 x 5 – 6 µm  
+Sporen Hygrocybe intermedia: 8 – 10,5 x 5 – 7,5 µm\
+Sporen Hygrocybe punicea:  8 – 11 x 5 – 6 µm\
 Sporen Hygrocybe coccinea: 7,5 - 11 x 4 – 5,5 µm
