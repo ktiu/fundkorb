@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-21.04.2024: [Auricularia mesenterica - Gezonter Ohrlappenpilz](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)  
+22.04.2024: [Mycena strobilicola - Fichtenzapfenhelmling](/pilze/mycena-strobilicola-fichtenzapfenhelmling)  
+21.04.2024: [Auricularia mesenterica - Gezonter Ohrlappenpilz](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)\
 20.02.2024: [Galerina subclavata - Zweisporiger Winterhäubling](/pilze/galerina-subclavata-zweisporiger-winterhäubling)\
 19.02.2024: [Ballerina-Pilze](/artikel/besuch-bei-den-ballerina-pilzen)\
 18.02.2024: [Strobilurus stephanocystis - Milder Kiefernzapfenrübling](/pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling)\
