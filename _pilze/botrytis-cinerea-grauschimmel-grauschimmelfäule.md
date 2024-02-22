@@ -18,7 +18,7 @@ literatur:
 ---
 Mit Schimmelpilzen wollen wir möglichst wenig zu tun haben. Unter ihnen gibt es zahlreiche [phytopathogene](phytopathogen "Glossar") Arten, aber auch solche, die uns das Antibiotikum *Penicillin* beschert haben. Der Grauschimmel *Botrytis cinerea*, auch Grauschimmelfäule genannt, gehört zu den besonders aggressiven, nicht zuletzt weil er über 300 unterschiedliche Wirtspflanzen befallen und beim Menschen allergische Reaktionen hervorrufen kann.
 
-Die Infektion zeigt sich in Form eines grauen bis schwärzlichen Belags oder stäubenden Pilzrasens, der aus [Myzelien](Myzel "Glossar") und [Konidien](Konidien "Glossar") besteht. Eigentliche Fruchtkörper ([Apothezien](Apothezien "Glossar")), in denen die für geschlechtliche Verbreitung sorgenden Ascosporen entstehen, werden dagegen nur selten gebildet. Zur Überwinterung werden [Sklerotien](Sklerotium "Glossar") angelegt.
+Die Infektion zeigt sich in Form eines grauen bis schwärzlichen Belags oder stäubenden Pilzrasens, der aus [Myzelien](Myzel "Glossar") und [Konidien](Konidien "Glossar") besteht. Eigentliche Fruchtkörper ([Apothecien](Apothecien "Glossar")), in denen die für geschlechtliche Verbreitung sorgenden Ascosporen entstehen, werden dagegen nur selten gebildet. Zur Überwinterung werden [Sklerotien](Sklerotium "Glossar") angelegt.
 
 Als Fäulnis-Erreger kann der Pilz erhebliche Ernteverluste in der Landwirtschaft verursachen. Besonders betroffen sind Nutzpflanzen wie Salate, Gurken, Tomaten, Zwiebeln (um nur einige zu nennen), aber auch verschiedene Obstsorten und Beeren oder Blütenpflanzen wie Begonien, Geranien, Lilien, Tulpen und viele andere. Auch Ziergehöze wie Rosen können betroffen sein.
 
