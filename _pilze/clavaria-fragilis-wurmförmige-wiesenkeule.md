@@ -28,7 +28,7 @@ In der Gattung *Clavaria* (Keulchen) gibt es, je nachdem, ob man die Farbe weiß
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/clavaria_fragilis_01_nk.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/clavaria_fragilis_01_nk.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/clavaria_fragilis_02_nk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Norbert Kühnberger" %}
 
 Die obigen Abbildungen zeigen dies deutlich. Die Fruchtkörper unseres Keulchens können schlank oder dicklich, gerade oder verbogen, nach oben zugespitzt, manchmal auch gegabelt oder nahezu gestielt sein. Sie können einzeln, gesellig oder fast schon büschelig wachsen. Im Alter können die Spitzen gelblich oder bräunlich verfärben. Sie werden bis zu 12 cm lang und sind sehr fragil.
