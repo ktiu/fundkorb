@@ -16,6 +16,18 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypholoma_fasciculare_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grünblättrige Schwefelkopf *Hypholoma fasciculare*. Nicht zum ersten Mal ist er bereits im Februar in unserer Dietzenbacher Parkanlage aufgetaucht. Wenn seine für ihn typische grüne Lamellenfarbe nicht zweifelsfrei erkennbar sein sollte, hilft eine Geschmacksprobe weiter. Er schmeckt bitter und ist im Gegensatz zum nahe verwandten [Graubblättrigen Schwefelkopf Hypholoma capnoides](/pilze/hypholoma-capnoides-graublättriger-schwefelkopf) magen-/darmgiftig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_strobilicola_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -34,18 +46,6 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 21.02.2024: Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") durchaus für eine [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete) halten. Anfassen genügt aber schon, um den Irrtum festzustellen. Er fühlt sich elastisch gelatinös an und seine grauliche Unterseite ist auf glattem Grund unregelmäßig faltig und könnte uns an ein [Judasohr](/pilze/auricularia-auricula-judae-judasohr) erinnern. In der Tat ist der Gezonte Ohrlappenpilz *Auricularia mesenterica* mit diesem nahe verwandt, aber im Gegensatz zu ihm für die Küche völlig ungeeignet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/galerina_subclavata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zweisporige Winterhäubling *Galerina subclavata*. „Zweisporig“ besagt zweierlei. Erstens dass an seinen [Basidien](Basidien "Glossar") nur jeweils zwei Sporen heranreifen und dass man ihn zweitens mikroskopieren muss, um dieses entscheidende Merkmal zu erkennen. Dass er auch in den Wintermonaten zu finden ist, worauf sein Name hinweist, ist für Häublinge nichts Besonderes. Vermutlich ist er gar nicht so selten wie vielfach in der Literatur angegeben wird. Wichtig zu wissen: es gibt tödlich giftige *Galerina*-Arten, die vor allem leichtsinnigen Sammlern von [Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen) zum Verhängnis werden können. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/galerina-subclavata-zweisporiger-winterhäubling)
 
 <div style="clear:  both"></div>
 
