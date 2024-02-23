@@ -16,6 +16,18 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_insignitum_06_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+24.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze wachsen ausschließlich an Totholz und sind daher das ganze Jahr über zu finden. Sie zeichen sich durch ein glattes, höchstens runzeliges Hymenophor aus, der sporenbildenden Fruchtschicht auf der Hutunterseite. Der Doppelgänger des Braunsamtigen ist der [Samtige Schichtpilz Stereum subtomentosum](/pilze/stereum-subtomentosum-samtiger-schichtpilz). Beide sind mit bloßem Auge kaum zu unterscheiden, aber schon eine gut vergrößernde Lupe kann helfen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypholoma_fasciculare_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -34,18 +46,6 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 22.02.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Fichtenzapfenhelmling  *Mycena strobilicola*, ist in Deutschland regional aber nicht überall verbreitet. Im Süden Bayerns ist er zur Zeit in fast jedem Fichtenforst zu finden, so auch am östlichen Stadtrand von München. Der Helmling ist makroskopisch leicht zu bestimmen, da er auf vorjährigen meist vergrabenen Fichtenzapfen wächst. Um sicher zu sein, dass man nicht den zur gleichen Zeit erscheinenden [Fichtenzapfenrübling  *Strobilurus esculentus*](/pilze/strobilurus-esculentus-fichtenzapfenrübling) gefunden hat, braucht man nur den an der Hutunterseite wahrnehmbaren typischen Geruch nach Chlor (Schwimmbad) zu prüfen. (Johann Rejek)
 
 [Mehr lesen >](/pilze/mycena-strobilicola-fichtenzapfenhelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/auricularia_mesenterica_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.02.2024: Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") durchaus für eine [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete) halten. Anfassen genügt aber schon, um den Irrtum festzustellen. Er fühlt sich elastisch gelatinös an und seine grauliche Unterseite ist auf glattem Grund unregelmäßig faltig und könnte uns an ein [Judasohr](/pilze/auricularia-auricula-judae-judasohr) erinnern. In der Tat ist der Gezonte Ohrlappenpilz *Auricularia mesenterica* mit diesem nahe verwandt, aber im Gegensatz zu ihm für die Küche völlig ungeeignet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)
 
 <div style="clear:  both"></div>
 
