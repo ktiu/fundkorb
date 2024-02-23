@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-23.02.2024: [Hypholoma fasciculare - Grünblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)  
+24.02.2024: [Stereum insignitum - Braunsamtiger Schichtpilz](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)  
+23.02.2024: [Hypholoma fasciculare - Grünblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)\
 22.04.2024: [Mycena strobilicola - Fichtenzapfenhelmling](/pilze/mycena-strobilicola-fichtenzapfenhelmling)\
 21.04.2024: [Auricularia mesenterica - Gezonter Ohrlappenpilz](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)\
 20.02.2024: [Galerina subclavata - Zweisporiger Winterhäubling](/pilze/galerina-subclavata-zweisporiger-winterhäubling)\
