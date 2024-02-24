@@ -65,14 +65,18 @@ Hut bis 10 cm, in Ausnahmefällen bis 13 cm breit, fleischig, jung halbkugelig, 
 
 **Mikroskopische Merkmale** (weitgehend nach KRÄNZLIN F. 2005):
 
-Die Sporen sind rundlich bis breit ellipsoid und 6,9 - 9,3  x 5,8 - 8 µm groß, mit einem Schlankheitsgrad Q von 1,1 - 1,2; die Ornamentation ist isoliert stachelig und bis zu 1,3 µm hoch. Die Epikutis besteht aus Epikutishaaren und inkrustierten Primordialhyphen. Die Epikutishaare sind vielgestaltet, zylindrisch, verzweigt, mitunter auch mit angeschwollene Hyphenabschnitten, 3 - 9 µm breit, die inkrustierten Primordialhyphen zylindrisch und 3 - 6 µm breit.
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_sericatula_02_hmx.jpg" %}
+{% include abbildung_ende.html legende="Abb.: Helga Marxmüller (Russularum Icones)" %}
+
+Die Sporen (sp) sind rundlich bis breit ellipsoid und 6,9 - 9,3  x 5,8 - 8 µm groß, mit einem Schlankheitsgrad Q von 1,1 - 1,2; die Ornamentation ist isoliert stachelig und bis zu 1,3 µm hoch. Die Epikutis besteht aus Epikutishaaren (eh) und inkrustierten Primordialhyphen (ph). Die Epikutishaare (eh) sind vielgestaltet, zylindrisch, verzweigt, mitunter auch mit angeschwollene Hyphenabschnitten, 3 - 9 µm breit, die inkrustierten Primordialhyphen (ph) zylindrisch und 3 - 6 µm breit.
 
 **Ähnliche Täublinge** (Auswahl):
 
-[**Brauner Ledertäubling** (*Russula integra*)](/pilze/russula-integra-brauner-ledertäubling): Nadelbaumbegleiter, Epikutis komplex aufgebaut: mit Pileozystiden, die nicht oder stark inkrustiert sind, sowie mit wenigen, inkrustierten Primordialhyphen.  
-[**Zedernholz-Täubling** (*Russula badia*)](/pilze/russula-badia-zedernholz-täubling): sehr scharf schmeckend, bodensaure Nadelwälder, subretikuliert warzige Sporen, Epikutis mit Pileozystiden.  
-**Fleischvioletter Heringstäubling** (*Russula graveolens*) und [**Buchen-Heringstäubling** (*Russula faginea*)](/pilze/russula-faginea-buchen-heringstäubling) : Fleisch mit Heringsgeruch und mit FeSO4 grün, Epikutis mit Pileozystiden.  
-[**Rotstieliger Ledertäubling** (*Russula olivacea*)](/pilze/russula-olivacea-rotstieliger-ledertäubling): rot überhauchter Stiel, Fleisch mit Phenol rotviolett, Epikutis mit nicht inkrustierten Primordialhyphen.  
-[**Kurzstieliger Ledertäubling** (*Russula curtipes*)](/pilze/russula-curtipes-kurzstieliger-ledertäubling): Stiel meist recht kurz, Epikutis mit Pileozystiden.  
-[**Scharfer Brauntäubling** (*R. adulterina*)](/pilze/russula-adulterina-scharfer-brauntäubling): Nadelbaumbegleiter, scharf schmeckend, Apfelkompott-Geruch, Epikutis mit inkrustierten Primordialhyphen.  
+[**Brauner Ledertäubling** (*Russula integra*)](/pilze/russula-integra-brauner-ledertäubling): Nadelbaumbegleiter, Epikutis komplex aufgebaut: mit Pileozystiden, die nicht oder stark inkrustiert sind, sowie mit wenigen, inkrustierten Primordialhyphen.\
+[**Zedernholz-Täubling** (*Russula badia*)](/pilze/russula-badia-zedernholz-täubling): sehr scharf schmeckend, bodensaure Nadelwälder, subretikuliert warzige Sporen, Epikutis mit Pileozystiden.\
+**Fleischvioletter Heringstäubling** (*Russula graveolens*) und [**Buchen-Heringstäubling** (*Russula faginea*)](/pilze/russula-faginea-buchen-heringstäubling) : Fleisch mit Heringsgeruch und mit FeSO4 grün, Epikutis mit Pileozystiden.\
+[**Rotstieliger Ledertäubling** (*Russula olivacea*)](/pilze/russula-olivacea-rotstieliger-ledertäubling): rot überhauchter Stiel, Fleisch mit Phenol rotviolett, Epikutis mit nicht inkrustierten Primordialhyphen.\
+[**Kurzstieliger Ledertäubling** (*Russula curtipes*)](/pilze/russula-curtipes-kurzstieliger-ledertäubling): Stiel meist recht kurz, Epikutis mit Pileozystiden.\
+[**Scharfer Brauntäubling** (*R. adulterina*)](/pilze/russula-adulterina-scharfer-brauntäubling): Nadelbaumbegleiter, scharf schmeckend, Apfelkompott-Geruch, Epikutis mit inkrustierten Primordialhyphen.\
 [**Wiesel-Täubling** (*Russula mustelina*)](/pilze/russula-mustelina-wiesel-täubling): saure Bergfichtenwälder, Sporen warzig/gratig mit offenen Netzen, Epikutis mit wenigen, schlecht färbbaren Pileozystiden.
