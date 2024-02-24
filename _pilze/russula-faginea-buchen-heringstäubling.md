@@ -28,7 +28,7 @@ literatur:
 {% include bild.html datei="/bilder/russula_faginea_01_uw.jpg" %}
 {% include abbildung_ende.html legende="Foto: Uwe Winkler" %}
 
-Der Buchen-Heringstäubling *Russula faginea* ist ein Täubling, die auf Grund seiner oft trüben, blassen Farben nicht direkt ins Auge fällt. Wir haben es mit einem sehr große werdenden, festfleischigen Pilz mit meist schmutzig weinbraunem Hut, reif gelblichen Lamellen und weißem Stiel zu tun, der besonders gern bei Rotbuchen auf kalkhaltigen Böden wächst. In der Roten Liste (2016) wird die Art in der Kategorie * (ungefährdet) geführt.
+Der Buchen-Heringstäubling *Russula faginea* ist ein Täubling, der auf Grund seiner oft trüben, blassen Farben nicht direkt ins Auge fällt. Wir haben es mit einem sehr groß werdenden, festfleischigen Pilz mit meist schmutzig weinbraunem Hut, reif gelblichen Lamellen und weißem Stiel zu tun, der besonders gern bei Rotbuchen auf kalkhaltigen Böden wächst. In der Roten Liste (2016) wird die Art in der Kategorie * (ungefährdet) geführt.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_faginea_02_ab.jpg" %}
@@ -81,7 +81,7 @@ Die Sporen sind rundlich bis breitellipsoid. Das Ornament kann man als derb isol
 Die Epikutis (oberste Schicht der Huthaut) besteht aus Epikutishaaren und Pileozystiden. Die Epikutishaare („eh“ in der Abbildung) sind zylindrisch bis gewellt, vielfach septiert, vielfach verzweigt, apikal manchmal verjüngt und mit 3 - 12 µm sehr unterschiedlich im Durchmesser. Es kommen regelrecht „aufgeblasene“ Glieder vor. Die Pileozystiden („pz“ in der Abbildung) sind meist schlank zylindrisch, ja fast fadenförmig, 1 - 3-zellig, nur 2 - 4  µm breit und reagieren schwach in Sulfobenzaldehyd.
 
 **Ähnliche Täublinge:**\
-Der Fleischviolette Heringstäubling (Russula graveolens) kann ähnlich aussehen, wächst zwar auch bei Rotbuchen, bevorzugt aber Eichen und Birken Auch bleibt er meist kleiner, weichfleischiger und besitzt schlankere Sporen mit niedrigeren, teils durch dünne Linien verbundenen Warzen.  
+Der Fleischviolette Heringstäubling (Russula graveolens) kann ähnlich aussehen, wächst zwar auch bei Rotbuchen, bevorzugt aber Eichen und Birken Auch bleibt er meist kleiner, weichfleischiger und besitzt schlankere Sporen mit niedrigeren, teils durch dünne Linien verbundenen Warzen.\
 Der [**Olivbraune Heringstäubling** (*Russula cicatricata*)](/pilze/russula-cicatricata-olivbrauner-heringstäubling) bleibt kleiner, besitzt einen mehr oder weniger olivbraunen Hut und wächst bevorzug bei Eichen und Birken. Die Mikromerkmale entsprechen denen von Russula graveolens.\
 Der [**Rote Heringstäubling** (*Russula xerampelina*)](/pilze/russula-xerampelina-roter-heringstäubling) riecht und schmeckt zwar ähnlich, wächst jedoch nur bei Nadelbäumen, besitzt einen hochroten Hut und meist roten Stiel, so dass eine Verwechslung nahezu ausgeschlossen erscheint.\
 Der [**Rotstielige Ledertäubling** (*Russula olivacea*)](/pilze/russula-olivacea-rotstieliger-ledertäubling) sieht der hier beschriebenen Art oftmals sehr ähnlich. Er besitzt jedoch meist einen roten oder rosa überhauchten Stiel, riecht nicht nach Heringslake und besitzt eine auffällige, rotviolette Phenolreaktion, wohingegen die Eisensulfat-Reaktion rosa ausfällt.\
