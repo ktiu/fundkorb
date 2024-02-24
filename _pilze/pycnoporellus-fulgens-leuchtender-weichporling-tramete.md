@@ -40,7 +40,7 @@ In den ursprünglichen Fundregionen war die Art bis Ende der 1990er Jahre noch s
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pycnoporellus_fulgens_03_dg.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/pycnoporellus_fulgens_04_dg.tiff" %}
+{% include bild.html datei="/bilder/pycnoporellus_fulgens_04_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
 Danach nehmen die Fruchtkörper des Leuchtenden Weichporlings eine zunehmend matte und eher trüb rotbraune Farbe an, die er dann über den weitaus größten Zeitraum seiner Existenz beibehält.
