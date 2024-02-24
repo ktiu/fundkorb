@@ -35,3 +35,19 @@ Der Leuchtende Weichporling ist in Mittel- und Südosteuropa montan bis submonta
 In den ursprünglichen Fundregionen war die Art bis Ende der 1990er Jahre noch sehr selten. Seit 2000 tritt sie allerdings gehäufter auf und breitet sich mehr und mehr nach Norden und Osten (Bayrischer Wald) aus. Sie geht damit den Weg einer ganzen Reihe von Arten, welche in den letzten Jahrzehnten aus dem Süden und Osten in die milderen Gebiete eindringen. *Krieglsteiner* (2002) sieht hierin eine deutliche, europäische Arealverschiebung. *Heck*, *Heseler* und *Schmitt* berichten in 2006 über Funde im Saarland; *Mühler* in 2007 über erste Funde in Sachsen (beide Informationen im *„Tintling“*). Über mehrere Funde in Mittelhessen (Taunus) schreibt *Günther Sturm* im Heft 2/2007 der Vereinsnachrichten der Pilzfreunde Südhessen-Sulzbach:
 
 > *Ursula Sauter* beschreibt die Art im Jahre 2004 sehr ausführlich in der „Südwestdeutschen Pilzrundschau“ anhand von Funden von 2002 bei Kaiserslautern und gibt Hinweise zur Bestimmung. Sie diskutiert auch die Abtrennung zu der umstrittenen Art *Pycnoporellus albo-luteus*, deren Artberechtigung sich mir nach kritischem Literaturstudium derzeit nicht erschließt. *German J. Krieglsteiner* (2000) erkennt nur eine Art der Gattung für Europa an und ignoriert die für Europa beschriebene, eher resupinat wachsende *Pycnoporellus albo-luteus*, bzw. nennt sie nicht mal als synonym. Verwechslungen mit anderen Porlingsarten sind – wenn man auf das Substrat und die Farbe achtet – kaum möglich. Die ähnliche Zinnobertramete (*Pycnoporus cinnabarinus*) wächst kaum einmal dachziegelig, kommt überwiegend an Buche vor und hat deutlich dunklere, zinnoberrote Farben. Die Hutoberfläche ist glatt. Auch die fuchsroten Arten aus der Gruppe der Schillerporlinge (z. B. *Inonotus rheades*) sind ausschließlich Laubholzbewohner, und hier z. B. an Erle oder Zitterpappel zu finden. Ihre Poren sind kleiner und bräunlich gefärbt. Jung haben sie einen silbrigen, schillernden Glanz. Allerdings wächst *Pynoporellus fulgens* in seltenen Fällen auch an Laubholz. Aufgrund seiner auffälligen Färbung ist er allerdings kaum zu verwechseln. In Zweifelsfällen prüft man mikroskopisch die Septen der generativen, dickwandigen Hyphen, welche keine Schnallen besitzen.“
+
+<ins>Aktuelle Anmerkung:</ins> In den Jahren 2010 – 2014 hatten wir auffällig viele Funde in den Kiefernwäldern östlich von  Dudenhofen (Stadt Rodgau, Kreis Offenbach), mehrfach an Kiefer, einmal an Birke. Nach unseren Erfahrungen entspricht sein Erscheinungsbild nur in sehr jungem Stadium seinem Namen „leuchtend“ orangegelb.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/pycnoporellus_fulgens_03_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/pycnoporellus_fulgens_04_dg.tiff" %}
+{% include abbildung_ende.html %}
+
+Danach nehmen die Fruchtkörper des Leuchtenden Weichporlings eine zunehmend matte und eher trüb rotbraune Farbe an, die er dann über den weitaus größten Zeitraum seiner Existenz beibehält.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/pycnoporellus_fulgens_05_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/pycnoporellus_fulgens_06_dg.tiff" nocrop=true gross=true %}
+{% include abbildung_ende.html %}
+
+Die hier gezeigten Fotos entstanden im August 2011 und danach im Gebiet „Gänsbrüh“ und in Wäldern am Opel-Testgelände. Bis heute wird der Pilz im Rhein-Main-Gebiet immer mal wieder gefunden. (Dieter Gewalt, 02.2024)
