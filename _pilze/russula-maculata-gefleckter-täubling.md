@@ -37,6 +37,10 @@ Ein hübscher, leicht scharf schmeckender Gelbsporer, der Gefleckte Täubling *R
 
 Hut bis 6 cm, in Ausnahmefällen bis 10 mm breit, jung konvex, bald flach ausgebreitet, dann meist mit vertieftem Zentrum. Huthaut feucht etwas klebrig und glänzend, nur am Rand abziehbar, sehr reife Fruchtkörper mitunter am äußersten Rand gerieft. Farblich sehr variabel, nach KRÄNZLIN 2005: *„von orangegelb über scharlach- bis purpurrot.“* Oft zu gelb oder creme ausblassend, insbesondere im Zentrum, meist typisch punktförmig rot gefleckt. Lamellen zuerst cremefarben, reif orangegelb. Stiel zylindrisch, längsadrig, selten rein weiß, meist rosa gefleckt oder überhaucht, gelblich oder bräunlich verfärbend. Fleisch zuerst fest, später weich, weiß. Geruch etwas obstig, Geschmack fast mild bis deutlich scharf.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_maculata_03_kw.jpg" %}
+{% include abbildung_ende.html legende="Am 5.08.2017 in einem Kalkbuchenwals von Karl Wehr fotografiert" %}
+
 <div class="table-responsive">
   <table class="table taeubling">
     <tr>
@@ -77,6 +81,6 @@ Die Epikutis besteht aus Epikutishaaren und Pileozystiden. Die Epikutishaare sin
 
 **Ähnliche Täublinge:**
 
-Der [Weiche Dottertäubling (*Russula lundellii*)](/pilze/russula-lundellii-weicher-dottertäubling-prachttäubling) besitzt einen größeren, nicht punktförmig gefleckten Hut, ist ein obligater Birkenbegleiter und besitzt deutlich kleinere Sporen.  
-Der [Apfeltäubling (*Russula paludosa*)](/pilze/russula-paludosa-apfeltäubling) ist größer, besitzt einen größeren, stark glänzenden, ungefleckten Hut und besiedelt feuchte Areale.  
+Der [Weiche Dottertäubling (*Russula lundellii*)](/pilze/russula-lundellii-weicher-dottertäubling-prachttäubling) besitzt einen größeren, nicht punktförmig gefleckten Hut, ist ein obligater Birkenbegleiter und besitzt deutlich kleinere Sporen.\
+Der [Apfeltäubling (*Russula paludosa*)](/pilze/russula-paludosa-apfeltäubling) ist größer, besitzt einen größeren, stark glänzenden, ungefleckten Hut und besiedelt feuchte Areale.\
 Der [Weinrote Dottertäubling (*Russula decipiens*)](/pilze/russula-decipiens-weinroter-dottertäubling) besitzt einen dunkel blutroten, purpurroten, lilaroten oder braunroten, nicht punktförmig gefleckten Hut sowie einen reinweißen Stiel.
