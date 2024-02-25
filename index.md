@@ -16,6 +16,18 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phaeolus_spadiceus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.02.2024: Unser heutiger [Fundkorbpilz](AA "Glossar-"), der Kiefernbraunporling *Phaeolus schweinitzii*, erscheint in meist kreiselförmigen Variationen und bildet fotogene Fruchtkörper mit einer auffällig gelben Zuwachskante. Er befällt die Wurzeln schwächelnder Nadelbäume, hauptsächlich Kiefern, oder ernährt sich [saprobiontisch](saprobiontisch "Glossar") von ihrem Totholz. Bis ins Frühjahr findet man unansehnliche Überreste vom Vorjahr. Mehrwert für Kreative: der Pilz eignet sich als Färbemittel. (Florian Weyel)
+
+[Mehr lesen >](/pilze/phaeolus-spadiceus-kiefernbraunporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_insignitum_06_bm.jpg" %}
 {% include abbildung_ende.html %}
 
