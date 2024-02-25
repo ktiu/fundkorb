@@ -16,48 +16,24 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bjerkandera_adusta_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Angebrannte Rauchporling *Bjerkandera adusta*. An seinem feinporigen aschgrauen Hymenium, das auf Druck oder Reiben schwärzlich verfärbt, ist er leicht zu erkennen. Diesem Merkmal ("wie angebrannt") verdankt er auch seinen Namen. Die filzige Oberseite ist hell- bis rußbraun gefärbt. Der Pilz wächst an totem Laubholz, vor allem Buche, und ist sehr häufig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/bjerkandera-adusta-angebrannter-rauchporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phaeolus_spadiceus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 25.02.2024: Unser heutiger [Fundkorbpilz](AA "Glossar-"), der Kiefernbraunporling *Phaeolus schweinitzii*, erscheint in meist kreiselförmigen Variationen und bildet fotogene Fruchtkörper mit einer auffällig gelben Zuwachskante. Er befällt die Wurzeln schwächelnder Nadelbäume, hauptsächlich Kiefern, oder ernährt sich [saprobiontisch](saprobiontisch "Glossar") von ihrem Totholz. Bis ins kommende Frühjahr findet man unansehnliche Überreste vom Vorjahr. Mehrwert für Kreative: der Pilz eignet sich als Färbemittel. (Florian Weyel)
 
 [Mehr lesen >](/pilze/phaeolus-spadiceus-kiefernbraunporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_insignitum_06_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-24.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze wachsen ausschließlich an Totholz und sind daher das ganze Jahr über zu finden. Sie zeichen sich durch ein glattes, höchstens runzeliges Hymenophor aus, der sporenbildenden Fruchtschicht auf der Hutunterseite. Der Doppelgänger des Braunsamtigen ist der [Samtige Schichtpilz Stereum subtomentosum](/pilze/stereum-subtomentosum-samtiger-schichtpilz). Beide sind mit bloßem Auge kaum zu unterscheiden, aber schon eine gut vergrößernde Lupe kann helfen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypholoma_fasciculare_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grünblättrige Schwefelkopf *Hypholoma fasciculare*. Nicht zum ersten Mal ist er bereits im Februar in unserer Dietzenbacher Parkanlage aufgetaucht. Wenn seine für ihn typische grüne Lamellenfarbe nicht zweifelsfrei erkennbar sein sollte, hilft eine Geschmacksprobe weiter. Er schmeckt bitter und ist im Gegensatz zum nahe verwandten [Graubblättrigen Schwefelkopf Hypholoma capnoides](/pilze/hypholoma-capnoides-graublättriger-schwefelkopf) magen-/darmgiftig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_strobilicola_01_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-22.02.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Fichtenzapfenhelmling  *Mycena strobilicola*, ist in Deutschland regional aber nicht überall verbreitet. Im Süden Bayerns ist er zur Zeit in fast jedem Fichtenforst zu finden, so auch am östlichen Stadtrand von München. Der Helmling ist makroskopisch leicht zu bestimmen, da er auf vorjährigen meist vergrabenen Fichtenzapfen wächst. Um sicher zu sein, dass man nicht den zur gleichen Zeit erscheinenden [Fichtenzapfenrübling  *Strobilurus esculentus*](/pilze/strobilurus-esculentus-fichtenzapfenrübling) gefunden hat, braucht man nur den an der Hutunterseite wahrnehmbaren typischen Geruch nach Chlor (Schwimmbad) zu prüfen. (Johann Rejek)
-
-[Mehr lesen >](/pilze/mycena-strobilicola-fichtenzapfenhelmling)
 
 <div style="clear:  both"></div>
 
