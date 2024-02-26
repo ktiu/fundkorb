@@ -33,4 +33,8 @@ Die Herkuleskeule kann bis zu 20 cm hoch und 6 cm dick werden. Die Fruchtkörper
 **Ähnliche Arten:**\
 *Clavariadelphus truncatus* hat einen meist flach abgestutzten Kopf und wird dazu passend Abgestutzte Keule genannt. *Clavariadelphus ligula*, die Zungenkeule, kommt eher in höheren Lagen vor und ist deutlich kleiner und schlanker.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/clavariadelphus_01_dg.png" %}
+{% include abbildung_ende.html %}
+
 Zur Gattung *Clavariadelphus* wurden früher weitere, sehr viel kleinere Keulchen gezählt, die heute in anderen Gattungen (z. B. *Typhula*, *Macrotyphula*) stehen.
