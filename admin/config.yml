@@ -1,6 +1,12 @@
 backend:
   name: git-gateway
   branch: master
+  commit_messages:
+    create: [skip netlify] Create {{collection}} “{{slug}}”
+    update: [skip netlify] Update {{collection}} “{{slug}}”
+    delete: [skip netlify] Delete {{collection}} “{{slug}}”
+    uploadMedia: [skip netlify] Upload “{{path}}”
+    deleteMedia: [skip netlify] Delete “{{path}}”
 
 # publish_mode: editorial_workflow
 site_url: https://fundkorb.de
