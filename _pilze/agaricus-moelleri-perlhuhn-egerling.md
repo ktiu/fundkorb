@@ -16,4 +16,4 @@ Auch Pilze können Spitznamen haben. „Säufernase“ ist so einer und unter Pi
 
 Die Art gehört zu den Karbolegerlingen (*Xanthodermei*), die Magen- und Darmverstimmungen verursachen können. Sie sind an der chromgelben Verfärbung der angeschnittenen oder geriebenen Stielbasis und dem unangenehmen Tintengeruch von essbaren Champignons unterschieden. Vereinfacht kann man sagen, dass die weißen Vertreter dieser Gruppe in Parks, Gärten und auf Wiesen wachsen, die mit schuppigem Hut dagegen im Wald. Hier wäre auf die Verwechslungsmöglichkeit mit dem noch selteneren Rebhuhn-Egerling zu achten. Dessen Hutschüppchen sind braun gefärbt (nicht grau bis schwärzlich wie beim Perlhuhn-Egerling) und der Stielring ist an der Unterseite braun gerandet. Man findet den Perlhuhn-Egerling am ehesten in auwaldartigen Biotopen. Das trifft auch auf den hier abgebildeten Fund zu. In anderen Waldgesellschaften wird man den Pilz nur selten antreffen.
 
-Der zum Frankfurter Grüngürtel gehörige Niedwald erstreckt sich entlang dem Ufer der Nidda, einem Nebenfluss des Mains.
+Der zum Frankfurter Grüngürtel gehörige Niedwald erstreckt sich entlang dem Ufer der Nidda, einem Nebenfluss des Mains..
