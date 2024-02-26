@@ -16,6 +16,8 @@ hauptbild:
   legende: "Foto: mit freundlicher Erlaubnis von Ingo Wagner (ASCO-Sonneberg)"
 literatur:
   - url: https://asco-sonneberg.de/pages/gallery/trichopeziza-sulphurea-110810-01xs21381.php
+  - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 1, Nr. 228 (als
+      Dasyscyphus sulfureus)"
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/trichopeziza_sulphurea_02_dg.jpg" %}
