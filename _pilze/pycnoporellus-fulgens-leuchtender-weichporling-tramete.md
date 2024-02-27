@@ -47,7 +47,7 @@ Danach nehmen die Fruchtkörper des Leuchtenden Weichporlings eine zunehmend mat
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pycnoporellus_fulgens_05_dg.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/pycnoporellus_fulgens_06_dg.tiff" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/pycnoporellus_fulgens_06_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
 Die hier gezeigten Fotos entstanden im August 2011 und danach im Gebiet „Gänsbrüh“ und in Wäldern am Opel-Testgelände. Bis heute wird der Pilz im Rhein-Main-Gebiet immer mal wieder gefunden. (Dieter Gewalt, 02.2024)
