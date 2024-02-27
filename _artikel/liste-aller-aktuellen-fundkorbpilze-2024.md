@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-27.02.2024: [Hymenochaete rubiginosa - Umberbraune Borstenscheibe](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)  
+28.02.2024: [Russula carpini - Hainbuchen-Täubling](/pilze/russula-carpini-hainbuchen-täubling)  
+27.02.2024: [Hymenochaete rubiginosa - Umberbraune Borstenscheibe](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)\
 26.02.2024: [Bjerkandera adusta - Angebrannter Rauchporling](/pilze/bjerkandera-adusta-angebrannter-rauchporling)\
 25.02.2024: [Phaeolus schweinitzii - Kiefernbraunporling](/pilze/phaeolus-spadiceus-kiefernbraunporling)\
 24.02.2024: [Stereum insignitum - Braunsamtiger Schichtpilz](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)\
