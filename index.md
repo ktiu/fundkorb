@@ -16,6 +16,18 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_carpini_01_kw.jpg" %}
+{% include abbildung_ende.html %}
+
+28.02.2024: Den Hainbuchen-Täubling *Russula carpini* haben wir jetzt Ende Februar natürlich nicht gefunden, aber er ist der hundertste Täubling mit Porträt im Fundkorb und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Zu erwarten ist er etwa ab Juni, wenn die Täublingszeit beginnt, jedoch bevorzugt auf kalkhaltigen Böden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-carpini-hainbuchen-täubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hymenochaete_rubiginosa_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -34,18 +46,6 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 26.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Angebrannte Rauchporling *Bjerkandera adusta*. An seinem feinporigen aschgrauen Hymenium, das auf Druck oder Reiben schwärzlich verfärbt, ist er leicht zu erkennen. Diesem Merkmal ("wie angebrannt") verdankt er auch seinen Namen. Die filzige Oberseite ist hell- bis rußbraun gefärbt. Der Pilz wächst an totem Laubholz, vor allem Buche, und ist sehr häufig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/bjerkandera-adusta-angebrannter-rauchporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phaeolus_spadiceus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.02.2024: Unser heutiger [Fundkorbpilz](AA "Glossar-"), der Kiefernbraunporling *Phaeolus schweinitzii*, erscheint in meist kreiselförmigen Variationen und bildet fotogene Fruchtkörper mit einer auffällig gelben Zuwachskante. Er befällt die Wurzeln schwächelnder Nadelbäume, hauptsächlich Kiefern, oder ernährt sich [saprobiontisch](saprobiontisch "Glossar") von ihrem Totholz. Bis ins kommende Frühjahr findet man unansehnliche Überreste vom Vorjahr. Mehrwert für Kreative: der Pilz eignet sich als Färbemittel. (Florian Weyel)
-
-[Mehr lesen >](/pilze/phaeolus-spadiceus-kiefernbraunporling)
 
 <div style="clear:  both"></div>
 
