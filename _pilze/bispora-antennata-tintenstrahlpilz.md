@@ -17,4 +17,4 @@ Diese merkwürdigen schwarzen Muster auf den Schnittflächen von Buchenstämmen 
 
 *Bispora antennata* ist sehr häufig. Er dürfte in keinem Wald fehlen, in dem es Buchenstümpfe mit glatten Schnittflächen gibt.
 
-Die schwarzen Muster sehen zwar wie lackiert aus, sind aber die [Konidien](<Konidien "Glossar">) eines imperfekten Pilzes. Auf ihnen kann man mit etwas Glück die hellen Fruchtkörper des Blassen Buchenbecherchens *Bisporella pallescens* finden.
+Die schwarzen Muster sehen zwar wie lackiert aus, sind aber die [Konidien](Konidien "Glossar") eines imperfekten Pilzes. Auf ihnen kann man mit etwas Glück die hellen Fruchtkörper des Blassen Buchenbecherchens *Bisporella pallescens* finden.
