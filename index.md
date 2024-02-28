@@ -16,6 +16,18 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bovista_plumbea_01_mh.jpg" %}
+{% include abbildung_ende.html %}
+
+29.02.2024: Das ganze Jahr über ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Bleigraue Zwerg-Bovist *Bovista plumbea* zu finden, und seien es auch nur überständige Exemplare aus den Vormonaten, die auf Druck oder Drauftreten immer noch stäuben. Bei frisch gewachsenen Exemplaren platzt die weiße Außenhaut auf Druck eierschalenartig auf, weshalb unser Pilz auch Eierbovist genannt wird. Darunter erscheint eine zweite bleigraue Haut, die das sporenbildene Innere (Gleba) umhüllt. (Dieter Gewalt)
+
+[Mehr lesen >](<[Fundkorbpilz](AA "Glossar-")>)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_versicolor_-_gibbosa_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -34,18 +46,6 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 27.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Umberbraune Borstenscheibe Hymenochaete rubiginosa. Im Habitus ähnelt sie Schichtpilzen, sind mit diesen aber nicht im Entferntesten verwandt. Sie wachsen als dünne, fächerförmige Hütchen an totem Holz, wobei die glatte bis runzelige Fruchtschicht (Hymenium) die Unterseite bildet und zum Teil als krustige, [resupinate](resupinat "Glossar") Schicht mit dem Holz verbunden ist. Die Fruchtkörper sind frisch lederig zäh, trocken steif und brüchig und können mehrere Jahre alt werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bjerkandera_adusta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Angebrannte Rauchporling *Bjerkandera adusta*. An seinem feinporigen aschgrauen Hymenium, das auf Druck oder Reiben schwärzlich verfärbt, ist er leicht zu erkennen. Diesem Merkmal ("wie angebrannt") verdankt er auch seinen Namen. Die filzige Oberseite ist hell- bis rußbraun gefärbt. Der Pilz wächst an totem Laubholz, vor allem Buche, und ist sehr häufig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/bjerkandera-adusta-angebrannter-rauchporling)
 
 <div style="clear:  both"></div>
 
