@@ -18,6 +18,6 @@ Es mag überraschen, dass Pilze ohne Lamellen wie die Boviste zur Familie der Ch
 {% include bild.html datei="/bilder/bovista_plumbea_01_mh.jpg" %}
 {% include abbildung_ende.html legende="Foto: Michael Hornung" %}
 
-Der Bleigraue Zwerg-Bovist ist zumindest in der mitteleuropäischen Ebene die mit Abstand häufigste Art der Gattung *Bovista*. Man findet sie fast überall an grasigen Standorten, meist in Größen von 2 - 3 cm Durchnesser, selten größer. Die Außenseite ist jung weiß und glatt, später mehr oder weniger auffällig gefeldert. Die innere Fruchtschicht, Gleba genannt, ist jung ebenfalls weiß und färbt sich im Alter bleigrau, um schließlich zu braunem Sporenstaub zu zerfallen. Die Erscheinungszeit ist Juni bis Oktober.
+Der Bleigraue Zwerg-Bovist ist zumindest in der mitteleuropäischen Ebene die mit Abstand häufigste Art der Gattung *Bovista*. Man findet sie fast überall an grasigen Standorten, meist in Größen von 2 - 3 cm Durchnesser, selten größer. Die Außenseite ist jung weiß und glatt, später mehr oder weniger auffällig gefeldert. Die innere Fruchtschicht, Gleba genannt, ist jung ebenfalls weiß und färbt sich im Alter bleigrau, um schließlich zu braunem Sporenstaub zu zerfallen. Seine Erscheinungszeit ist nahezu ganzjährig, am häufigsten ist er von Juni bis Oktober zu finden.
 
 Junge, innen wie außen noch reinweiße Zwerg-Boviste sind essbar, wegen seiner Marshmellow-artigen Konsistenz aber nicht jedermanns Geschmack.
