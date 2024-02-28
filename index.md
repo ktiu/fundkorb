@@ -16,12 +16,12 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_carpini_01_kw.jpg" %}
+{% include bild.html datei="/bilder/trametes_versicolor_-_gibbosa_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-28.02.2024: Den Hainbuchen-Täubling *Russula carpini* haben wir jetzt Ende Februar natürlich nicht gefunden, aber er ist der hundertste Täubling mit Porträt im Fundkorb und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Zu erwarten ist er etwa ab Juni, wenn die Täublingszeit beginnt, jedoch bevorzugt auf kalkhaltigen Böden. (Dieter Gewalt)
+29.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Buckeltramete *Trametes gibbosa*. Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche, und dürfte in kaum einem Laubwald fehlen. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete) zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind. (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/russula-carpini-hainbuchen-täubling)
+[Mehr lesen >](/pilze/trametes-gibbosa-buckeltramete)
 
 <div style="clear:  both"></div>
 
