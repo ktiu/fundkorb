@@ -79,6 +79,9 @@ Epikutis aus Epikutishaaren und Pileozystiden. Pileozystiden lang, zylindrisch b
 
 **Ähnliche Täublinge:**
 
-Der [Buchenwald-Heringstäubling (*Russula faginea*)](/pilze/russula-faginea-buchen-heringstäubling) wird größer, ist festfleischiger, der Hut besitzt weniger Mischfarben, sondern ist eher einheitlich „schmutzig“ weinbraun bis rosabraun, und der Stiel besitzt keine Rottöne. Die Sporen sind größer und haben eine höhere Ornamentation. Auch ist die Art streng an Rotbuchen gebunden.  
-Der [Olivbraune Heringstäubling (*Russula cicatricata*)](/pilze/russula-cicatricata-olivbrauner-heringstäubling) wird größer und ist in der Farbe einheitlich blass oliv-, ocker- oder orangebraun.  
+Der [Buchenwald-Heringstäubling (*Russula faginea*)](/pilze/russula-faginea-buchen-heringstäubling) wird größer, ist festfleischiger, der Hut besitzt weniger Mischfarben, sondern ist eher einheitlich „schmutzig“ weinbraun bis rosabraun, und der Stiel besitzt keine Rottöne. Die Sporen sind größer und haben eine höhere Ornamentation. Auch ist die Art streng an Rotbuchen gebunden.\
+Der [Purpurrote Heringstäubling (Russula graveolens var. purpurata)](/pilze/russula-graveolens-var-purpurata-purpurfarbener-heringstäubling) besitzt einen konstant blut- bis purpurroten Hut und einen weißen oder rosa überhauchten Stiel. Er geht überwiegend eine Mykorrhiza mit Laubbäumen, vorzugsweise Eichen, ein.\
+Der [Rote Heringstäubling (Russula xerampelina)](/pilze/russula-xerampelina-roter-heringstäubling) ist größer und besitzt einen konstant dunkel blutroten Hut und einen weißen, oft rot geflammten Stiel. Er geht eine Mykorrhiza mit Nadelbäumen wie Kiefern, Fichten oder Weißtannen ein.\
+Der [Olivbraune Heringstäubling (Russula cicatricata)](/pilze/russula-cicatricata-olivbrauner-heringstäubling) wird größer und ist in der Farbe einheitlich blass oliv-, ocker- oder orangebraun.\
+Der [Olivbraune Heringstäubling (*Russula cicatricata*)](/pilze/russula-cicatricata-olivbrauner-heringstäubling) wird größer und ist in der Farbe einheitlich blass oliv-, ocker- oder orangebraun.\
 Der [Fleischrote Speisetäubling (*Russula vesca*)](/pilze/russula-vesca-speisetäubling) kann ähnlich aussehen, doch ist er geruchlos, besitzt weiße Lamellen, einen weißen Stiel und eine stark orangerosa FeSO4-Reaktion. Zudem sind seine Sporen viel kleiner.
