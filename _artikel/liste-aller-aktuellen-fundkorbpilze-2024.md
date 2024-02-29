@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-29.02.2024: [Bovista plumbea - Bleigrauer Zwerg-Bovist](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)  
+01.03.2024: [Eriopezia caesia - Schwarzes Spinnwebbecherchen](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)
+
+29.02.2024: [Bovista plumbea - Bleigrauer Zwerg-Bovist](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)\
 28.02.2024: [Trametes gibbosa - Buckeltramete](/pilze/trametes-gibbosa-buckeltramete)\
 27.02.2024: [Hymenochaete rubiginosa - Umberbraune Borstenscheibe](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)\
 26.02.2024: [Bjerkandera adusta - Angebrannter Rauchporling](/pilze/bjerkandera-adusta-angebrannter-rauchporling)\
