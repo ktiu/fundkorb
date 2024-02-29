@@ -69,4 +69,4 @@ Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkun
 
 Verwechslungsmöglichkeiten: Der [Nadelwald-Heringstäubling *Russula xerampelina*](/pilze/russula-xerampelina-roter-heringstäubling) sieht ähnlich aus, geht jedoch eine [Mykorrhiza](Mykorrhiza "Glossar") mit Nadelbäumen ein, ist im Allgemeinen größer und besitzt andere Mikromerkmale. Der Speitäubling riecht nicht fischig, und sein Geschmack ist brennend scharf.
 
-Für den engagierten Amateurmykologen sind die Heringstäublinge nur noch schwer überschaubar, da sich die Taxonomen in dieser Gruppe offenbar nicht über die Gültigkeit der Namen können. Daher sind auch viele Täublings-Schlüssel (z. B. Adamcik et al. 2016) in der Praxis wertlos geworden.
+Für den engagierten Amateurmykologen sind die Heringstäublinge nur noch schwer überschaubar, da sich die Taxonomen in dieser Gruppe offenbar nicht über die Gültigkeit der Namen einigen können. Daher sind auch viele Täublings-Schlüssel (z. B. Adamcik et al. 2016) in der Praxis wertlos geworden.
