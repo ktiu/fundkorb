@@ -16,6 +16,18 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/eriopezia_caesia_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.03.2024: Wer mit der Lupe unscheinbare graue Beläge auf Totholz betrachtet, könnte mit ziemlich viel Glück auch mal eine Ansammlung von Schwarzen Spinnwebbecherchen (*Eriopezia caesia*) entdecken. Die einzelnen Fruchtkörperchen unseres aktuellen [Fundkorbpilz](AA "Glossar-") erreichen kaum einmal einen Durchmesser von einem Millimeter. Was so aussieht wie auf dem Foto sind dann auch welche. Da muss man nicht lange mikroskopieren. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)
+
+<div style="clear:  both"></div> 
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bovista_plumbea_01_mh.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -34,18 +46,6 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 28.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Buckeltramete *Trametes gibbosa*. Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche, und dürfte in kaum einem Laubwald fehlen. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete) zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/trametes-gibbosa-buckeltramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hymenochaete_rubiginosa_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Umberbraune Borstenscheibe Hymenochaete rubiginosa. Im Habitus ähnelt sie Schichtpilzen, sind mit diesen aber nicht im Entferntesten verwandt. Sie wachsen als dünne, fächerförmige Hütchen an totem Holz, wobei die glatte bis runzelige Fruchtschicht (Hymenium) die Unterseite bildet und zum Teil als krustige, [resupinate](resupinat "Glossar") Schicht mit dem Holz verbunden ist. Die Fruchtkörper sind frisch lederig zäh, trocken steif und brüchig und können mehrere Jahre alt werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)
 
 <div style="clear:  both"></div>
 
