@@ -16,6 +16,18 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_versicolor_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Schmetterlingstramete *Trametes versicolor*, einer der häufigsten Porlinge überhaupt und flächendeckend in ganz Mitteleuropa nachgewiesen. Der Pilz hat ein breites ökologisches Spektrum und kommt vor allem an toten Laubhözern vor. Wegen seiner attraktiven Zonierung wird er gern als Dekopilz oder für Gestecke verwendet. Auch als Heil- oder Vitalpilz findet er bei diversen Therapien Anwendung, u. a. zur Stärkung des Immunsystems. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/eriopezia_caesia_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -34,18 +46,6 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 29.02.2024: Das ganze Jahr über ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Bleigraue Zwerg-Bovist *Bovista plumbea* zu finden, und seien es auch nur überständige Exemplare aus den Vormonaten, die auf Druck oder Drauftreten immer noch stäuben. Bei frisch gewachsenen Exemplaren platzt die weiße Außenhaut auf Druck eierschalenartig auf, weshalb unser Pilz auch Eierbovist genannt wird. Darunter erscheint eine zweite bleigraue Haut, die das sporenbildene Innere (Gleba) umhüllt. (Dieter Gewalt)
 
 [Mehr lesen >](<[Fundkorbpilz](AA "Glossar-")>)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_versicolor_-_gibbosa_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.02.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Buckeltramete *Trametes gibbosa*. Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche, und dürfte in kaum einem Laubwald fehlen. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete) zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/trametes-gibbosa-buckeltramete)
 
 <div style="clear:  both"></div>
 
