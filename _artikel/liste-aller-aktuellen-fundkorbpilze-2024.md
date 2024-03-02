@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-02.03.2024: [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)  
+03.03.2014: [Phleogena faginea - Buchen-Hütchenträger](/pilze/phleogena-faginea-buchen-hütchenträger)  
+02.03.2024: [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)\
 01.03.2024: [Eriopezia caesia - Schwarzes Spinnwebbecherchen](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)
 
 29.02.2024: [Bovista plumbea - Bleigrauer Zwerg-Bovist](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)\
