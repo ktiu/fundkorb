@@ -19,7 +19,7 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 {% include bild.html datei="/bilder/phleogena_faginea_02_hl.jpg" %}
 {% include abbildung_ende.html %}
 
-03.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchen-Hütchenträger *Phleogena faginea*, den man zwar mit bloßem Auge erkennen aber nur mit Lupe sicher identifizieren kann. Viele halten ihn auf den ersten Blick für einen [Schleimpilz](/verwandt/schleimpilze-myxomyzeten), es ist jedoch ein [Basidiomyzet](Basidiomyzeten), der aus der Rinde lebender Laubbäume oft massenhaft hervorbricht. Dabei ist er keineswegs auf Buchen beschränkt. Er wird als selten bezeichnet und wird in Roten Listen sogar als „stark gefährdet“ geführt. In der Rhein-Main-Ebene ist er in fast jedem Wald zu finden.  (Dieter Gewalt)
+03.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchen-Hütchenträger *Phleogena faginea*, den man zwar mit bloßem Auge erkennen aber nur mit Lupe sicher identifizieren kann. Viele halten ihn auf den ersten Blick für einen [Schleimpilz](/verwandt/schleimpilze-myxomyzeten), es ist jedoch ein [Basidiomyzeten](Basidiomyzeten), der aus der Rinde lebender Laubbäume oft massenhaft hervorbricht. Dabei ist er keineswegs auf Buchen beschränkt. Er wird als selten bezeichnet und wird in Roten Listen sogar als „stark gefährdet“ geführt. In der Rhein-Main-Ebene ist er in fast jedem Wald zu finden.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phleogena-faginea-buchen-hütchenträger)
 
