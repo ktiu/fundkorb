@@ -16,6 +16,18 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phleogena_faginea_02_hl.jpg" %}
+{% include abbildung_ende.html %}
+
+03.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchen-Hütchenträger *Phleogena faginea*, den man zwar mit bloßem Auge erkennen aber nur mit Lupe sicher identifizieren kann. Viele halten ihn auf den ersten Blick für einen [Schleimpilz](/verwandt/schleimpilze-myxomyzeten), es ist jedoch ein [Basidiomyzet](Basidiomyzeten), der aus der Rinde lebender Laubbäume oft massenhaft hervorbricht. Dabei ist er keineswegs auf Buchen beschränkt. Er wird als selten bezeichnet und wird in Roten Listen sogar als „stark gefährdet“ geführt. In der Rhein-Main-Ebene ist er in fast jedem Wald zu finden.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phleogena-faginea-buchen-hütchenträger)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_versicolor_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
 [Mehr lesen >](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)
 
 <div style="clear:  both"></div> 
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bovista_plumbea_01_mh.jpg" %}
-{% include abbildung_ende.html %}
-
-29.02.2024: Das ganze Jahr über ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Bleigraue Zwerg-Bovist *Bovista plumbea* zu finden, und seien es auch nur überständige Exemplare aus den Vormonaten, die auf Druck oder Drauftreten immer noch stäuben. Bei frisch gewachsenen Exemplaren platzt die weiße Außenhaut auf Druck eierschalenartig auf, weshalb unser Pilz auch Eierbovist genannt wird. Darunter erscheint eine zweite bleigraue Haut, die das sporenbildene Innere (Gleba) umhüllt. (Dieter Gewalt)
-
-[Mehr lesen >](<[Fundkorbpilz](AA "Glossar-")>)
-
-<div style="clear:  both"></div>
 
 - - -
 
