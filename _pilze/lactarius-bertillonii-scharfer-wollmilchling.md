@@ -52,7 +52,7 @@ Milch weiß, an der Luft weiß bleibend, mit KOH deutlich orange verfärbend. Ge
 
 Sporen ellipsoid bis lang ellipsoid, 6,5 - 10 x 5 - 7,5 µm, Schlankheitsgrad Q 1,1 - 1,6. Die bis 0,2 µm hohe Ornamentation besteht aus winzigen Warzen und Graten, die vielfach über feinste Linien miteinander verbunden sind.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lactarius_bertillonii_07_pr.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/lactarius_bertillonii_08_kw.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Sporen in Melzers Reagenz (Foto: Peter Reil) -- Radialschnitt der Huthaut (Foto: Karl Wehr)" %}
@@ -61,6 +61,6 @@ Die Epikutis (Huthaut) besteht aus dickwandigen, 3 - 5 µm dicken und bis zu 300
 
 **Ähnliche Arten:**
 
-Der [Wollige Milchling (Lactarius vellereus)](/pilze/lactarius-vellereus-wolliger-milchling-erdschieber) ist rein makroskopisch nicht zu unterscheiden. Doch ist bei ihm stehen die Lamellen reifer Fruchtkörper immer entfernt, und die abtropfende Milch ist mild bis fast mild und verfärbt sich mit Kalilauge nicht. Die Sporen sind etwas gedrungener.  
-Beim [Pfeffermilchling (Lactarius piperatus)](/pilze/lactarius-piperatus-langstieliger-pfeffermilchling) ist die Hutoberfläche fast glatt. Auch stehen die Lamellen wesentlich dichter und besitzen immer einen gewissen Orangeton. Mit Kalilauge verfärbt sich die Milch nicht.  
+Der [Wollige Milchling (Lactarius vellereus)](/pilze/lactarius-vellereus-wolliger-milchling-erdschieber) ist rein makroskopisch nicht zu unterscheiden. Doch ist bei ihm stehen die Lamellen reifer Fruchtkörper immer entfernt, und die abtropfende Milch ist mild bis fast mild und verfärbt sich mit Kalilauge nicht. Die Sporen sind etwas gedrungener.\
+Beim [Pfeffermilchling (Lactarius piperatus)](/pilze/lactarius-piperatus-langstieliger-pfeffermilchling) ist die Hutoberfläche fast glatt. Auch stehen die Lamellen wesentlich dichter und besitzen immer einen gewissen Orangeton. Mit Kalilauge verfärbt sich die Milch nicht.\
 Der [Gemeine Weißtäubling (Russula delica)](/pilze/russula-delica-gemeiner-weißtäubling) sowie der Schmalblättrige Weißtäubling (Russula chloroides) sehen unserer Art ähnlich, doch besitzen sie keine Milch, und ihre Sporenornamentation ist mit 1,2 µm wesentlich höher.
