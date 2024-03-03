@@ -15,6 +15,18 @@ Nächster Exkursionstermin am 17.03.2024: **Die Frühjahrslorcheln sind da!**\
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/gyromitra_esculenta_11_dg.png" %}
+{% include abbildung_ende.html %}
+
+04.03.2024: Aktuellster [Fundkorbpilz](AA "Glossar-") ist ein delikater Giftpilz, die Frühjahrslorchel *Gyromitra esculenta*. Der Pilz wird in der populären Pilzliteratur zu Recht mit einem Totenkopfsymbol versehen, obwohl der wissenschaftliche Artname *„esculenta“* essbar bedeutet und er in manchen Ländern traditioneller Marktpilz ist. Der Fundkorb informiert über diesen offensichtlichen und lebensgefährlichen Widerspruch und das wird auch ausführliches Thema bei unserer Exkursion am 17. März sein. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phleogena_faginea_02_hl.jpg" %}
 {% include abbildung_ende.html %}
