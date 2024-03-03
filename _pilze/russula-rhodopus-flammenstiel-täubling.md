@@ -23,7 +23,7 @@ literatur:
       Europa: 622 - 625"
   - url: https://de.wikipedia.org/wiki/Flammenstiel-T%C3%A4ubling
 ---
-Eine auffällige, seltene Art, der Flammenstiel-Täubling Russula rhodopus, mit seinem immer wie lackiert glänzenden, tiefroten Hut, seinen weißen Lamellen und seinem rosa geflammten Stiel. Wir haben hier einen Täubling vor uns, der auf feuchten, sauren Böden, gerne im Moor oder am Moorrand, bei Nadelbäumen wächst. Für Torfmoose scheint er besondere Vorliebe zu haben. Die Rote Liste Deutschlands 2016 führt die Art in der Gefährdungskategorie D (Daten unzureichend) auf.
+Eine auffällige, seltene Art, der Flammenstiel-Täubling *Russula rhodopus*, mit seinem immer wie lackiert glänzenden, tiefroten Hut, seinen weißen Lamellen und seinem rosa geflammten Stiel. Wir haben hier einen Täubling vor uns, der auf feuchten, sauren Böden, gerne im Moor oder am Moorrand, bei Nadelbäumen wächst. Für Torfmoose scheint er eine besondere Vorliebe zu haben. Die Rote Liste Deutschlands 2016 führt die Art in der Gefährdungskategorie D (Daten unzureichend) auf.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_rhodopus_02_id.jpg" %}
@@ -31,11 +31,33 @@ Eine auffällige, seltene Art, der Flammenstiel-Täubling Russula rhodopus, mit 
 
 **Makroskopische Merkmale:**
 
-Fruchtkörper mittelgroß und festfleischig. Hut bis 100 mm breit, zuerst halbkugelig, später ausgebreitet mit vertieftem Zentrum, blutrot, granatrot, kirschrot, Zentrum oft dunkler, dabei immer wie lackiert glänzend. Huthaut glatt, etwa bis zur Hälfte des Radius abziehbar, reife Exemplare oft am Rand kurz gerieft. Lamellen gedrängt, anfangs weiß, später cremefarben, Schneide glatt und mit der Fläche gleichfarben, oft mit Lamelletten untermischt, ab und zu gegabelt. Stiel fest, rosa geflammt oder komplett rosa, selten rein weiß. Fleisch weiß, jung fest, bei alten Exemplaren im Stiel etwas schwammig. Leicht fruchtig riechend und im Geschmack deutlich bitter und scharf. Farbe des frisch ausgefallenen Sporenpulvers hell ocker, etwa IIIa nach der Farbtafel in MARXMÜLLER 2014.
+Fruchtkörper mittelgroß und festfleischig. Hut bis 10 cm breit, zuerst halbkugelig, später ausgebreitet mit vertieftem Zentrum, blutrot, granatrot, kirschrot, Zentrum oft dunkler, dabei immer wie lackiert glänzend. Huthaut glatt, etwa bis zur Hälfte des Radius abziehbar, reife Exemplare oft am Rand kurz gerieft. Lamellen gedrängt, anfangs weiß, später cremefarben, Schneiden glatt und mit der Fläche gleichfarben, oft mit Lamelletten untermischt, ab und zu gegabelt. Stiel fest, rosa geflammt oder komplett rosa, selten rein weiß. Fleisch weiß, jung fest, bei alten Exemplaren im Stiel etwas schwammig. Leicht fruchtig riechend und im Geschmack deutlich bitter und scharf. Farbe des frisch ausgefallenen Sporenpulvers hell ocker, etwa IIIa nach der Farbtafel in MARXMÜLLER 2014.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_rhodopus_03_wi.jpg" %}
 {% include abbildung_ende.html legende="Russula rhodopus zwischen Frauenhaarmoos und Rotstängelmoos (Foto: Anna Baykalova, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18162615)" %}
+
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>bitter und scharf</td>
+      <td>hell ocker</td>
+      <td>bis 1/2</td>
+      <td>rosa</td>
+       
+    </tr>
+  </table>
+</div>
 
 **Mikroskopische Merkmale:**
 
