@@ -63,15 +63,19 @@ Fruchtkörper mittelgroß und festfleischig. Hut bis 10 cm breit, zuerst halbkug
 
 Sporen subglobos bis ellipsoid, 6,7 - 9,3 x 6 - 7,6 µm, Schlankheitsgrad 1,1 - 1,3, warzig-gratig-teilnetzig, wobei die Ornamentation bis etwa 0,6 µm hoch ist.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/russula_rhodopus_04_hmx.jpg" %}
+{% include abbildung_ende.html legende="eh = Epikutishaare, hz = Hymenialzystiden, pz = Pileozystiden, sp = Sporen (Abb.: Helga Marxmüller, Russularum Icones)" %}
+
 Epikutis aus Epikutishaaren und Pileozystiden bestehend.. Epikutishaare dünn, langgliedrig, verzweigt, 2 - 4 µm breit.  Pileozystiden meist zylindrisch und 3,8 - 8 µm breit. 
 
 **Ähnliche Täublinge:**
 
-Der Sumpf-Täubling (Russula helodes) kann ähnlich aussehen. Er besiedelt allerdings nur richtig nasse Habitate, und sein Fruchtkörper ist im ausgewachsenen Zustand stark wässrig weich, ins besondere der Stiel. Auch sind seine Sporen komplett netzig ornamentiert.
-Der Apfeltäubling (Russula paludosa) sieht unserer Art ähnlich und besiedelt vergleichbare Habitate. Doch wird er größer, sein Hut glänzt nicht so stark, seine Lamellenschneiden sind ab und zu rosa gefärbt, und vor allen Dingen: Er schmeckt mild.
-Der Bluttäubling (Russula sanguinaria) besiedelt trockene Kiefernwälder, seine Lamellen laufen sichelförmig am Stiel herab, und die Huthaut läßt sich nicht abziehen
-Der Schwachgilbende Täubling (Russula persicina) wächst nicht in feuchtem bis nassem Milieu, und er ist ein Mykorrhizapartner von Laubbäumen.
-Der Rote Heringstäubling (Russula xerampelina) wächst nicht in feuchtem bis nassem Milieu. Außerdem riecht er nach Heringslake und schmeckt mild. 
-Der Purpurfarbene Heringstäubling (Russula graveolens var. purpurata) wächst nicht in feuchtem bis nassem Milieu, und er ist ein Mykorrhizapartner von Laubbäumen, vorzugsweise Eichen. Außerdem riecht er nach Heringslake und schmeckt mild.
-Der Harte Zinnobertäubling (Russula lepida) geht eine Mykorrhiza mit Laubbäumen, vor allem mit Rotbuchen, ein. Der Hut glänzt nicht, die Huthaut lässt sich nicht abziehen, und er ist fast mild im Geschmack.
-Der Kirschrote Speitäubling (Russula emetica) ist viel kleiner, besitzt reinweiße Lamellen, einen reinweißen Stiel und schmeckt brennend scharf.
+Der Sumpf-Täubling (*Russula helodes*) kann ähnlich aussehen. Er besiedelt allerdings nur richtig nasse Habitate, und sein Fruchtkörper ist im ausgewachsenen Zustand stark wässrig weich, ins besondere der Stiel. Auch sind seine Sporen komplett netzig ornamentiert.  
+Der [Apfeltäubling (*Russula paludosa*)](/pilze/russula-paludosa-apfeltäubling) sieht unserer Art ähnlich und besiedelt vergleichbare Habitate. Doch wird er größer, sein Hut glänzt nicht so stark, seine Lamellenschneiden sind ab und zu rosa gefärbt, und vor allen Dingen: Er schmeckt mild.  
+Der [Bluttäubling (*Russula sanguinaria*)](/pilze/russula-sanguinaria-blutroter-täubling-bluttäubling) besiedelt trockene Kiefernwälder, seine Lamellen laufen sichelförmig am Stiel herab, und die Huthaut läßt sich nicht abziehen.  
+Der [Schwachgilbende Täubling (*Russula persicina*)](/pilze/russula-persicina-schwachfleckender-täubling) wächst nicht in feuchtem bis nassem Milieu, und er ist ein Mykorrhizapartner von Laubbäumen.  
+Der [Rote Heringstäubling (*Russula xerampelina*)](/pilze/russula-xerampelina-roter-heringstäubling) wächst nicht in feuchtem bis nassem Milieu. Außerdem riecht er nach Heringslake und schmeckt mild.  
+Der [Purpurfarbene Heringstäubling (*Russula graveolens var. purpurata*)](/pilze/russula-graveolens-var-purpurata-purpurfarbener-heringstäubling) wächst nicht in feuchtem bis nassem Milieu, und er ist ein Mykorrhizapartner von Laubbäumen, vorzugsweise Eichen. Außerdem riecht er nach Heringslake und schmeckt mild.  
+Der [Harte Zinnobertäubling (*Russula rosea*)](/pilze/russula-rosea-harter-zinnobertäubling) geht eine Mykorrhiza mit Laubbäumen, vor allem mit Rotbuchen, ein. Der Hut glänzt nicht, die Huthaut lässt sich nicht abziehen, und er ist fast mild im Geschmack.  
+Der [Kirschrote Speitäubling (*Russula emetica*)](/pilze/russula-emetica-kirschroter-speitäubling) ist viel kleiner, besitzt reinweiße Lamellen, einen reinweißen Stiel und schmeckt brennend scharf.
