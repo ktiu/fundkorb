@@ -10,7 +10,7 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-Nächster Exkursionstermin am 17.03.2024: **Der Wald und seine Pilze im März**\
+Nächster Exkursionstermin am 17.03.2024: **Die Frühjahrslorcheln sind da!**\
 [Zur Anmeldung >](/termine)
 
 - - -
