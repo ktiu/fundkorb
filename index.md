@@ -23,7 +23,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-05.03.2024: Die ersten Violetten Rötelritterlinge (*Lepista nuda*) sind auch schon da! Die Haupterscheinungszeit unseres aktuellen [Fundkorbpilz](AA "Glossar-") ist September bis November, aber es gibt nachweislich keinen Monat, in dem sie nicht schon gefunden wurden. Aktuell in unserer Dietzenbacher Parkanlage direkt vor meiner Haustür. (Dieter Gewalt)
+05.03.2024: Die ersten Violetten Rötelritterlinge (*Lepista nuda*) sind auch schon da! Die Haupterscheinungszeit unseres aktuellen [Fundkorbpilzes](AA "Glossar-") ist September bis November, aber es gibt nachweislich keinen Monat, in dem sie nicht schon gefunden wurden. Aktuell in unserer Dietzenbacher Parkanlage direkt vor meiner Haustür. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
 
