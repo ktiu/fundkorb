@@ -115,4 +115,4 @@ Vor Gammelfleisch ekelt sich jeder. Umso mehr erstaunt es, was häufig als Ausbe
 
 - - -
 
-##### Pilzführungen in Deutschland, im Rhein-Main-Gebiet, im Raum Frankfurt Offenbach Dietzenbach Rodgau Rödermark Seligenstadt Langen Mörfelden-Walldort Rüsselsheim Darmstadt Hanau Gelnhausen Spessart
+##### Pilzführungen in Deutschland, im Rhein-Main-Gebiet, im Raum Frankfurt Offenbach Dietzenbach Rodgau Rödermark Seligenstadt Langen Mörfelden-Walldort Rüsselsheim Darmstadt Hanau Gelnhausen Spessart.
