@@ -10,16 +10,32 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-Nächster Exkursionstermin am 17.03.2024: **Die Frühjahrslorcheln sind da!**\
-[Zur Anmeldung >](/termine)
-
-- - -
-
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/gyromitra_esculenta_11_dg.png" %}
 {% include abbildung_ende.html %}
 
-04.03.2024: Aktuellster [Fundkorbpilz](AA "Glossar-") ist ein delikater Giftpilz, die Frühjahrslorchel *Gyromitra esculenta*. Der Pilz wird in der populären Pilzliteratur zu Recht mit einem Totenkopfsymbol versehen, obwohl der wissenschaftliche Artname *„esculenta“* essbar bedeutet und er in manchen Ländern traditioneller Marktpilz ist. Der Fundkorb informiert über diesen offensichtlichen und lebensgefährlichen Widerspruch und das wird auch ausführliches Thema bei unserer Exkursion am 17. März sein. (Dieter Gewalt)
+Nächster Exkursionstermin am 17.03.2024: **Die Frühjahrslorcheln sind da!**
+Hier geht's zur [Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.03.2024: Die ersten Violetten Rötelritterlinge (*Lepista nuda*) sind auch schon da! Die Haupterscheinungszeit unseres aktuellen [Fundkorbpilz](AA "Glossar-") ist September bis November, aber es gibt nachweislich keinen Monat, in dem sie nicht schon gefunden wurden. Aktuell in unserer Dietzenbacher Parkanlage direkt vor meiner Haustür. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gyromitra_esculenta_03_ii.jpg" %}
+{% include abbildung_ende.html %}
+
+04.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein delikater Giftpilz, die Frühjahrslorchel *Gyromitra esculenta*. Der Pilz wird in der populären Pilzliteratur zu Recht mit einem Totenkopfsymbol versehen, obwohl der wissenschaftliche Artname *„esculenta“* essbar bedeutet und er in manchen Ländern traditioneller Marktpilz ist. Der Fundkorb informiert über diesen offensichtlichen und lebensgefährlichen Widerspruch und das wird auch ausführliches Thema bei unserer Exkursion am 17. März sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gyromitra-esculenta-frühjahrslorchel)
 
@@ -36,30 +52,6 @@ Nächster Exkursionstermin am 17.03.2024: **Die Frühjahrslorcheln sind da!**\
 [Mehr lesen >](/pilze/phleogena-faginea-buchen-hütchenträger)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_versicolor_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Schmetterlingstramete *Trametes versicolor*, einer der häufigsten Porlinge überhaupt und flächendeckend in ganz Mitteleuropa nachgewiesen. Der Pilz hat ein breites ökologisches Spektrum und kommt vor allem an toten Laubhözern vor. Wegen seiner attraktiven Zonierung wird er gern als Dekopilz oder für Gestecke verwendet. Auch als Heil- oder Vitalpilz findet er bei diversen Therapien Anwendung, u. a. zur Stärkung des Immunsystems. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/eriopezia_caesia_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.03.2024: Wer mit der Lupe unscheinbare graue Beläge auf Totholz betrachtet, könnte mit ziemlich viel Glück auch mal eine Ansammlung von Schwarzen Spinnwebbecherchen (*Eriopezia caesia*) entdecken. Die einzelnen Fruchtkörperchen unseres aktuellen [Fundkorbpilz](AA "Glossar-") erreichen kaum einmal einen Durchmesser von einem Millimeter. Was so aussieht wie auf dem Foto sind dann auch welche. Da muss man nicht lange mikroskopieren. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)
-
-<div style="clear:  both"></div> 
 
 - - -
 
