@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-05.03.2024: [Lepista nuda - Violetter Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling)  
+06.03.2024: [Scytinostroma portentosum - Stinkender Lederrindenpilz](/pilze/scytinostroma-portentosum-stinkender-lederrindenpilz)  
+05.03.2024: [Lepista nuda - Violetter Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling)\
 04.03.2024: [Gyromitra esculenta - Frühjahrslorchel](/pilze/gyromitra-esculenta-frühjahrslorchel)\
 03.03.2014: [Phleogena faginea - Buchen-Hütchenträger](/pilze/phleogena-faginea-buchen-hütchenträger)\
 02.03.2024: [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)\
