@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/scytinostroma_portentosum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.03.2024: Aktueller [Fundkorbpilzes](AA "Glossar-") ist der Stinkende Lederrindenpilz *Scytinostroma portentosum*. Rindenpilze werden von den meisten Pilzfreunden kaum wahrgenommen und sind dazu auch noch schwer zu bestimmen. Ohne Mikroskop und entsprechende Literatur geht da nur wenig. Der hier vorgestellte Stinkende Lederrindenpilz bildet da eine bemerkenswerte Ausnahme. Sein widerwärtig penetranter Geruch macht ihn unverwechselbar, weshalb er auch Mottenkugelpilz genannt wird. Manchmal verrät ihn schon die Nase, bevor man ihn gesehen hat. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/scytinostroma-portentosum-stinkender-lederrindenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 04.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein delikater Giftpilz, die Frühjahrslorchel *Gyromitra esculenta*. Der Pilz wird in der populären Pilzliteratur zu Recht mit einem Totenkopfsymbol versehen, obwohl der wissenschaftliche Artname *„esculenta“* essbar bedeutet und er in manchen Ländern traditioneller Marktpilz ist. Der Fundkorb informiert über diesen offensichtlichen und lebensgefährlichen Widerspruch und das wird auch ausführliches Thema bei unserer Exkursion am 17. März sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gyromitra-esculenta-frühjahrslorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phleogena_faginea_02_hl.jpg" %}
-{% include abbildung_ende.html %}
-
-03.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchen-Hütchenträger *Phleogena faginea*, den man zwar mit bloßem Auge erkennen aber nur mit Lupe sicher identifizieren kann. Viele halten ihn auf den ersten Blick für einen [Schleimpilz](/verwandt/schleimpilze-myxomyzeten), es ist jedoch ein [Basidiomyzeten](Basidiomyzeten), der aus der Rinde lebender Laubbäume oft massenhaft hervorbricht. Dabei ist er keineswegs auf Buchen beschränkt. Er wird als selten bezeichnet und wird in Roten Listen sogar als „stark gefährdet“ geführt. In der Rhein-Main-Ebene ist er in fast jedem Wald zu finden.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phleogena-faginea-buchen-hütchenträger)
 
 <div style="clear:  both"></div>
 
