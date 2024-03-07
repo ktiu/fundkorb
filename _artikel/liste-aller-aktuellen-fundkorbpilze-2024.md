@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-07.03.2024: [Skeletocutis carneogrisea - Fleischgrauer Knorpelporling](/pilze/skeletocutis-carneogrisea-fleischgrauer-knorpelporling)  
+08.03.2024: [Diatrype decorticata - Flächiges Eckenscheibchen](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)  
+07.03.2024: [Skeletocutis carneogrisea - Fleischgrauer Knorpelporling](/pilze/skeletocutis-carneogrisea-fleischgrauer-knorpelporling)\
 06.03.2024: [Scytinostroma portentosum - Stinkender Lederrindenpilz](/pilze/scytinostroma-portentosum-stinkender-lederrindenpilz)\
 05.03.2024: [Lepista nuda - Violetter Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling)\
 04.03.2024: [Gyromitra esculenta - Frühjahrslorchel](/pilze/gyromitra-esculenta-frühjahrslorchel)\
