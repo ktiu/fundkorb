@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/diatrype_decorticata_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+08.03.2024: Aktueller [Fundkorbpilzes](AA "Glossar-") ist das Flächige Eckenscheibchen *Diatrype decorticata*. Es wurde lange und wird bisweilen noch immer mit dem relativ seltenen [Flächigen Eichen-Eckenscheibchen *Diatrype stigma*](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen) in einen Topf geworfen. Unsere hier gezeigte Art wächst an Buchen- und Birkenästen und ist sehr häufig. Eine sichere Unterscheidung ist nur anhand mikroskopischer Merkmale möglich. (Dieter Gewalt)
+
+[Mehr lesen>](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/skeletocutis_carneogrisea_02_wp.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 06.03.2024: Aktueller [Fundkorbpilzes](AA "Glossar-") ist der Stinkende Lederrindenpilz *Scytinostroma portentosum*. Rindenpilze werden von den meisten Pilzfreunden kaum wahrgenommen und sind dazu auch noch schwer zu bestimmen. Ohne Mikroskop und entsprechende Literatur geht da nur wenig. Der hier vorgestellte Stinkende Lederrindenpilz bildet da eine bemerkenswerte Ausnahme. Sein widerwärtig penetranter Geruch macht ihn unverwechselbar, weshalb er auch Mottenkugelpilz genannt wird. Manchmal verrät ihn schon die Nase, bevor man ihn gesehen hat. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/scytinostroma-portentosum-stinkender-lederrindenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.03.2024: Die ersten Violetten Rötelritterlinge (*Lepista nuda*) sind auch schon da! Die Haupterscheinungszeit unseres aktuellen [Fundkorbpilzes](AA "Glossar-") ist September bis November, aber es gibt nachweislich keinen Monat, in dem sie nicht schon gefunden wurden. Aktuell in unserer Dietzenbacher Parkanlage direkt vor meiner Haustür. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
 
 <div style="clear:  both"></div>
 
