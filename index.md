@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/skeletocutis_carneogrisea_02_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+07.03.2024: Aktueller [Fundkorbpilzes](AA "Glossar-") ist der Fleischgraue Knorpelporling *Skeletocutis carneogrisea*. Seine Fruchtkörper bestehen meist aus mehreren zusammengewachsenen zwei bis drei cm breiten Hütchen. Im Rhein-Main-Gebiet ist der nicht überall häufige gut verbreitet und vor allem an toten Kiefernstämmen zu finden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/skeletocutis-carneogrisea-fleischgrauer-knorpelporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/scytinostroma_portentosum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 05.03.2024: Die ersten Violetten Rötelritterlinge (*Lepista nuda*) sind auch schon da! Die Haupterscheinungszeit unseres aktuellen [Fundkorbpilzes](AA "Glossar-") ist September bis November, aber es gibt nachweislich keinen Monat, in dem sie nicht schon gefunden wurden. Aktuell in unserer Dietzenbacher Parkanlage direkt vor meiner Haustür. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gyromitra_esculenta_03_ii.jpg" %}
-{% include abbildung_ende.html %}
-
-04.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein delikater Giftpilz, die Frühjahrslorchel *Gyromitra esculenta*. Der Pilz wird in der populären Pilzliteratur zu Recht mit einem Totenkopfsymbol versehen, obwohl der wissenschaftliche Artname *„esculenta“* essbar bedeutet und er in manchen Ländern traditioneller Marktpilz ist. Der Fundkorb informiert über diesen offensichtlichen und lebensgefährlichen Widerspruch und das wird auch ausführliches Thema bei unserer Exkursion am 17. März sein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gyromitra-esculenta-frühjahrslorchel)
 
 <div style="clear:  both"></div>
 
