@@ -23,7 +23,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/skeletocutis_carneogrisea_02_wp.jpg" %}
 {% include abbildung_ende.html %}
 
-07.03.2024: Aktueller [Fundkorbpilzes](AA "Glossar-") ist der Fleischgraue Knorpelporling *Skeletocutis carneogrisea*. Seine Fruchtkörper bestehen meist aus mehreren zusammengewachsenen zwei bis drei cm breiten Hütchen und einem [resupinat](resupinat "Glossar") wachsenden Teil. Im Rhein-Main-Gebiet ist der nicht überall häufige Pilz gut verbreitet und vor allem an toten Kiefernstämmen zu finden. (Dieter Gewalt)
+07.03.2024: Aktueller [Fundkorbpilzes](AA "Glossar-") ist der Fleischgraue Knorpelporling *Skeletocutis carneogrisea*. Seine Fruchtkörper bestehen meist aus mehreren zusammengewachsenen zwei bis drei cm breiten Hütchen und einem [resupinat](<resupinat "Glossar">) wachsenden Teil. Im Rhein-Main-Gebiet ist der nicht überall häufige Pilz gut verbreitet und vor allem an toten Kiefernstämmen zu finden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/skeletocutis-carneogrisea-fleischgrauer-knorpelporling)
 
