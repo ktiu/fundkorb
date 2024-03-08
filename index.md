@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ciboria_amentacea_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.03.2024: Unseren aktuellen [Fundkorbpilzes](AA "Glossar-"), den Erlenkätzchen-Becherling *Ciboria amentacea*, kann man schon im Frühjahr nach der Schneeschmelze suchen und finden. Die Becherchen erreichen maximal 1 cm Durchmesser. Im Vergleich dazu sind die Stiele oft auffallend lang. Makroskopisch kaum zu unterscheiden ist der Haselkätzchen-Becherling *Ciboria coryli*, wobei zu bedenken ist, dass der hier gezeigte Erlenkätzchen-Becherling auch auf Haselkätzchen wächst. Um sicher zu gehen, ist also ein wenig Mikroskopieraufwand erforderlich. Die Sporen der beiden Arten unterscheiden sich deutlich in ihrer Größe. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ciboria-amentacea-erlenkätzchen-becherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrype_decorticata_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
