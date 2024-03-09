@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peziza_cerea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.03.2024: Auch dieser aktuelle [Fundkorbpilzes](AA "Glossar-") ist kaum auf den ersten Blick sicher zu erkennen. Da ich die Lokalität des Gelben Wachsbecherlings *Peziza cerea* unter wild wachsendem Gestrüpp in der Dietzenbacher Parkanlage aus den vergangenen Jahren kannte, gab es allerdings kein Vertun. Er bevorzugt nicht nur karge Böden wie hier, er kann sogar aus Mauerspalten wachsen und wird daher auch Mauerbecherling genannt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/peziza-cerea-gelber-wachsbecherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ciboria_amentacea_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,30 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 08.03.2024: Aktueller [Fundkorbpilzes](AA "Glossar-") ist das Flächige Eckenscheibchen *Diatrype decorticata*. Es wurde lange und wird bisweilen noch immer mit dem relativ seltenen [Flächigen Eichen-Eckenscheibchen *Diatrype stigma*](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen) in einen Topf geworfen. Unsere hier gezeigte Art wächst an Buchen- und Birkenästen und ist sehr häufig. Eine sichere Unterscheidung ist nur anhand mikroskopischer Merkmale möglich. (Dieter Gewalt)
 
 [Mehr lesen>](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/skeletocutis_carneogrisea_02_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-07.03.2024: Aktueller [Fundkorbpilzes](AA "Glossar-") ist der Fleischgraue Knorpelporling *Skeletocutis carneogrisea*. Seine Fruchtkörper bestehen meist aus mehreren zusammengewachsenen zwei bis drei cm breiten Hütchen und einem [resupinat](resupinat "Glossar") wachsenden Teil. Im Rhein-Main-Gebiet ist der nicht überall häufige Pilz gut verbreitet und vor allem an toten Kiefernstämmen zu finden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/skeletocutis-carneogrisea-fleischgrauer-knorpelporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/scytinostroma_portentosum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.03.2024: Aktueller [Fundkorbpilzes](AA "Glossar-") ist der Stinkende Lederrindenpilz *Scytinostroma portentosum*. Rindenpilze werden von den meisten Pilzfreunden kaum wahrgenommen und sind dazu auch noch schwer zu bestimmen. Ohne Mikroskop und entsprechende Literatur geht da nur wenig. Der hier vorgestellte Stinkende Lederrindenpilz bildet da eine bemerkenswerte Ausnahme. Sein widerwärtig penetranter Geruch macht ihn unverwechselbar, weshalb er auch Mottenkugelpilz genannt wird. Manchmal verrät ihn schon die Nase, bevor man ihn gesehen hat. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/scytinostroma-portentosum-stinkender-lederrindenpilz)
 
 <div style="clear:  both"></div>
 
