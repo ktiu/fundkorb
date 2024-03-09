@@ -23,7 +23,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/peziza_cerea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-10.03.2024: Auch dieser aktuelle [Fundkorbpilzes](AA "Glossar-") ist kaum auf den ersten Blick sicher zu erkennen. Da ich die Lokalität des Gelben Wachsbecherlings *Peziza cerea* unter wild wachsendem Gestrüpp in der Dietzenbacher Parkanlage aus den vergangenen Jahren kannte, gab es allerdings kein Vertun. Er bevorzugt nicht nur karge Böden wie hier, er kann sogar aus Mauerspalten wachsen und wird daher auch Mauerbecherling genannt. (Dieter Gewalt)
+10.03.2024: Auch dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist kaum auf den ersten Blick sicher zu erkennen. Da ich die Lokalität des Gelben Wachsbecherlings *Peziza cerea* unter wild wachsendem Gestrüpp in der Dietzenbacher Parkanlage aus den vergangenen Jahren kannte, gab es allerdings kein Vertun. Er bevorzugt nicht nur karge Böden wie hier, er kann sogar aus Mauerspalten wachsen und wird daher auch Mauerbecherling genannt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/peziza-cerea-gelber-wachsbecherling)
 
