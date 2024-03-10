@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ganoderma_applanatum_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Flache Lackporling *Ganoderma applanatum*. Er gehört zu den häufigsten großen holzbewohnenden Pilzarten und dürfte in kaum einem Laubwald fehlen. Zu seinen Merkmalen gehört die braune Kruste der Oberfläche, die sich mit dem Fingernagel eindrücken lässt. Die helle Hutunterseite lässt sich ebenfalls mit dem Fingernagel oder anderen spitzen Gegenständen ritzen. Manche Pilzfreunde malen so Bildchen auf die Porenschicht. Häufig ist sie mit Zitzengallen einer Pilzfliege besetzt, ein weiteres untrügliches Kennzeichen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ganoderma-applanatum-flacher-lackporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peziza_cerea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 09.03.2024: Unseren aktuellen [Fundkorbpilzes](AA "Glossar-"), den Erlenkätzchen-Becherling *Ciboria amentacea*, kann man schon im Frühjahr nach der Schneeschmelze suchen und finden. Die Becherchen erreichen maximal 1 cm Durchmesser. Im Vergleich dazu sind die Stiele oft auffallend lang. Makroskopisch kaum zu unterscheiden ist der Haselkätzchen-Becherling *Ciboria coryli*, wobei zu bedenken ist, dass der hier gezeigte Erlenkätzchen-Becherling auch auf Haselkätzchen wächst. Um sicher zu gehen, ist also ein wenig Mikroskopieraufwand erforderlich. Die Sporen der beiden Arten unterscheiden sich deutlich in ihrer Größe. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/ciboria-amentacea-erlenkätzchen-becherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diatrype_decorticata_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-08.03.2024: Aktueller [Fundkorbpilzes](AA "Glossar-") ist das Flächige Eckenscheibchen *Diatrype decorticata*. Es wurde lange und wird bisweilen noch immer mit dem relativ seltenen [Flächigen Eichen-Eckenscheibchen *Diatrype stigma*](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen) in einen Topf geworfen. Unsere hier gezeigte Art wächst an Buchen- und Birkenästen und ist sehr häufig. Eine sichere Unterscheidung ist nur anhand mikroskopischer Merkmale möglich. (Dieter Gewalt)
-
-[Mehr lesen>](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)
 
 <div style="clear:  both"></div>
 
