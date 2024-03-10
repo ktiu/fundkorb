@@ -31,7 +31,7 @@ literatur:
 Die Herkuleskeule kann bis zu 20 cm hoch und 6 cm dick werden. Die Fruchtkörper sind an der Spitze abgerundet, glatt oder runzelig und zur Basis hin meist verschmälert. Ihre Farbe variiert von jung hellgelb bis später orange- oder zimtbräunlich, stellenweise können lila Flecken oder Streifen sichtbar sein. Die Sporen werden auf der Oberfläche gebildet, die sich beim Reiben oder auf Druck violett-braun und mit Kalilauge (KOH) safrangelb verfärbt.  Das weiche, schwammige Fleisch färbt sich beim Anschneiden violett-bräunlich. Es hat einen milden, meist aber leicht bitteren Geschmack. Als Speisepilz hat er kaum Bedeutung.
 
 **Ähnliche Arten:**\
-*Clavariadelphus truncatus* hat einen meist flach abgestutzten Kopf und wird dazu passend Abgestutzte Keule genannt. *Clavariadelphus ligula*, die Zungenkeule, kommt eher in höheren Lagen vor und ist deutlich kleiner und schlanker.
+*[Clavariadelphus truncatus](/pilze/clavariadelphus-truncatus-abgestutzte-herkuleskeule)* hat einen meist flach abgestutzten Kopf und wird dazu passend Abgestutzte Keule genannt. *[Clavariadelphus ligula](/pilze/clavariadelphus-ligula-zungenkeule)*, die Zungenkeule, kommt eher in höheren Lagen vor und ist deutlich kleiner und schlanker.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/clavariadelphus_01_dg.png" %}
