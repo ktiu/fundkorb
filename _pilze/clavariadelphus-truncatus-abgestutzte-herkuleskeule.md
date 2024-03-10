@@ -33,6 +33,7 @@ Zu finden ist die Abgestutzte Herkuleskeute vor allem in etwas höheren Lagen, e
 
 **Ähnliche Arten:**
 
-*[Clavariadelphus pistillaris](/pilze/clavariadelphus-pistillaris-herkuleskeule)* ist die größte der drei großen Keulen und kann bis zu 20 cm hoch werden. Ihr Kopfteil ist dicker als die Basis, oft runzelig und an der Spitze abgerundet. Die Zungenkeule *Clavariadelphus ligula* kommt eher in höheren Lagen vor und ist deutlich kleiner und schlanker.
+*[Clavariadelphus pistillaris](/pilze/clavariadelphus-pistillaris-herkuleskeule)* ist die größte der drei großen Keulen und kann bis zu 20 cm hoch werden. Ihr Kopfteil ist dicker als die Basis, oft runzelig und an der Spitze abgerundet.  
+Die [Zungenkeule *Clavariadelphus ligula*](/pilze/clavariadelphus-ligula-zungenkeule) kommt eher in höheren Lagen vor und ist deutlich kleiner und schlanker.
 
 Zur Gattung *Clavariadelphus* wurden früher weitere, sehr viel kleinere Keulchen gezählt, die heute in anderen Gattungen (z. B. *Typhula*, *Macrotyphula*) stehen.
