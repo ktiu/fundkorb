@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylodon_radula_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.03.2024: Um unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu entdecken, empfiehlt es sich, an Kirschbäumen Ausschau zu halten. An stehenden Stämmen und an toten Ästen bis hinauf in die Kronen ist der Reibeisen-Rindenpilz *Xylodon radula* zu finden. Sein Wachstum beginnt mit kleinen weißen Flecken, die bald zu großflächigeren Belägen zusammenwachsen und dann auch die etwas dunkleren Zähnchen ausbilden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xylodon-radula-reibeisen-rindenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ganoderma_applanatum_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
