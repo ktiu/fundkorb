@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-12.03.2024: [Xylodon radula - Reibeisen-Rindenpilz](/pilze/xylodon-radula-reibeisen-rindenpilz)  
+13.03.2024: [Xylaria hypoxylon - Geweihförmige Holzkeule](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)  
+12.03.2024: [Xylodon radula - Reibeisen-Rindenpilz](/pilze/xylodon-radula-reibeisen-rindenpilz)\
 11.03.2024: [Ganoderma applanatum - Flacher Lackporling](/pilze/ganoderma-applanatum-flacher-lackporling)\
 10.03.2024: [Peziza cerea - Gelber Wachsbecherling](/pilze/peziza-cerea-gelber-wachsbecherling)\
 09.03.2024: [Ciboria amentacea - Erlenkätzchen-Becherling](/pilze/ciboria-amentacea-erlenkätzchen-becherling)\
