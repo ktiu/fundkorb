@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 
 - - -
 
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Geweihförmige Holzkeule *Xylaria hypoxylon*, eine unverwechselbare Art, die das ganze Jahr über an totem Lauholz zu finden ist. Am häufigsten besiedelt sie scharenweise die Schnittflächen von Buchenstümpfen. Der zierliche Pilz zeigt sich in zwei unterschiedlichen Stadien. Als komplett schwarze Keulchen oder mit weißen, beim Anschnippen stäubenden Spitzen. Diese sind so vielgestaltig, dass kaum einmal eine einer anderen gleicht. Der weiße Staub besteht aus ungeschlechlichen Sporen, die komplett schwarzen Fruchtkörper produzieren dagegen die sexuellen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylodon_radula_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -38,30 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 11.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Flache Lackporling *Ganoderma applanatum*. Er gehört zu den häufigsten großen holzbewohnenden Pilzarten und dürfte in kaum einem Laubwald fehlen. Zu seinen Merkmalen gehört die braune Kruste der Oberfläche, die sich mit dem Fingernagel eindrücken lässt. Die helle Hutunterseite lässt sich ebenfalls mit dem Fingernagel oder anderen spitzen Gegenständen ritzen. Manche Pilzfreunde malen so Bildchen auf die Porenschicht. Häufig ist sie mit Zitzengallen einer Pilzfliege besetzt, ein weiteres untrügliches Kennzeichen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/ganoderma-applanatum-flacher-lackporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peziza_cerea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.03.2024: Auch dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist kaum auf den ersten Blick sicher zu erkennen. Da ich die Lokalität des Gelben Wachsbecherlings *Peziza cerea* unter wild wachsendem Gestrüpp in der Dietzenbacher Parkanlage aus den vergangenen Jahren kannte, gab es allerdings kein Vertun. Er bevorzugt nicht nur karge Böden wie hier, er kann sogar aus Mauerspalten wachsen und wird daher auch Mauerbecherling genannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/peziza-cerea-gelber-wachsbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ciboria_amentacea_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.03.2024: Unseren aktuellen [Fundkorbpilzes](AA "Glossar-"), den Erlenkätzchen-Becherling *Ciboria amentacea*, kann man schon im Frühjahr nach der Schneeschmelze suchen und finden. Die Becherchen erreichen maximal 1 cm Durchmesser. Im Vergleich dazu sind die Stiele oft auffallend lang. Makroskopisch kaum zu unterscheiden ist der Haselkätzchen-Becherling *Ciboria coryli*, wobei zu bedenken ist, dass der hier gezeigte Erlenkätzchen-Becherling auch auf Haselkätzchen wächst. Um sicher zu gehen, ist also ein wenig Mikroskopieraufwand erforderlich. Die Sporen der beiden Arten unterscheiden sich deutlich in ihrer Größe. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ciboria-amentacea-erlenkätzchen-becherling)
 
 <div style="clear:  both"></div>
 
