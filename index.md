@@ -19,7 +19,7 @@ Hier geht's zur [Anmeldung >](/termine)
 
 - - -
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
