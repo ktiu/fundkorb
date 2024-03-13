@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/exidia_truncata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Abgestutzte Drüsling *Exidia truncata*. Ein typischer *„Glibber“*, der lappig ohrförmige, dunkelbraun bis schwarz gefärbte Fruchtkörper bildet. Sie sind von elastisch gelatinöser Konsistenz und ganzjährig vor allem an Eichenholz zu finden. Frostige Nächte machen ihnen offenbar nichts aus. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/exidia-truncata-abgestutzter-drüsling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 12.03.2024: Um unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu entdecken, empfiehlt es sich, an Kirschbäumen Ausschau zu halten. An stehenden Stämmen und an toten Ästen bis hinauf in die Kronen ist der Reibeisen-Rindenpilz *Xylodon radula* zu finden. Sein Wachstum beginnt mit kleinen weißen Flecken, die bald zu großflächigeren Belägen zusammenwachsen und dann auch die etwas dunkleren Zähnchen ausbilden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xylodon-radula-reibeisen-rindenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ganoderma_applanatum_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Flache Lackporling *Ganoderma applanatum*. Er gehört zu den häufigsten großen holzbewohnenden Pilzarten und dürfte in kaum einem Laubwald fehlen. Zu seinen Merkmalen gehört die braune Kruste der Oberfläche, die sich mit dem Fingernagel eindrücken lässt. Die helle Hutunterseite lässt sich ebenfalls mit dem Fingernagel oder anderen spitzen Gegenständen ritzen. Manche Pilzfreunde malen so Bildchen auf die Porenschicht. Häufig ist sie mit Zitzengallen einer Pilzfliege besetzt, ein weiteres untrügliches Kennzeichen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ganoderma-applanatum-flacher-lackporling)
 
 <div style="clear:  both"></div>
 
