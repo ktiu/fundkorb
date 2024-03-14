@@ -23,7 +23,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/ceriporiopsis_gilvescens_02_wp.jpg" %}
 {% include abbildung_ende.html %}
 
-15.03.2024: Im Frankfurter Stadtwald ist der nicht gerade häufige Fleckende Harzporling *Ceriporiopsis gilvescens* immer mal wieder zu finden und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Man achte auf die blass rosa gefärbten, vielfältig zerschlitzten Poren, die auf Druck bräunlich flecken. Gezielte Suche kann sich lohnen, wobei man vor allem die Unterseiten von liegenden Laubholzstämmen (insbesondere Buchen) im Visier haben sollte. Von ähnlichen Arten der Gattung *Ceriporia*  sind sie durch das Vorhandensein von Schnallen im Hyphensystem unterschieden. ImZweifelsfall ist also Mikroskopieren angesagt. (Dieter Gewalt)
+15.03.2024: Im Frankfurter Stadtwald ist der nicht gerade häufige Fleckende Harzporling *Ceriporiopsis gilvescens* immer mal wieder zu finden und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Man achte auf die blass rosa gefärbten, vielfältig zerschlitzten Poren, die auf Druck bräunlich flecken. Gezielte Suche kann sich lohnen, wobei man vor allem die Unterseiten von liegenden Laubholzstämmen (insbesondere Buchen) im Visier haben sollte. Von ähnlichen Arten der Gattung *Ceriporia*  sind sie durch das Vorhandensein von Schnallen im Hyphensystem unterschieden. Im Zweifelsfall ist also Mikroskopieren angesagt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/ceriporiopsis-gilvescens-fleckender-harzporling)
 
