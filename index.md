@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ceriporiopsis_gilvescens_02_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+15.03.2024: Im Frankfurter Stadtwald ist der nicht gerade häufige Fleckende Harzporling *Ceriporiopsis gilvescens* immer mal wieder zu finden und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Man achte auf die blass rosa gefärbten, vielfältig zerschlitzten Poren, die auf Druck bräunlich flecken. Gezielte Suche kann sich lohnen, wobei man vor allem die Unterseiten von liegenden Laubholzstämmen (insbesondere Buchen) im Visier haben sollte. Von ähnlichen Arten der Gattung *Ceriporia*  sind sie durch das Vorhandensein von Schnallen im Hyphensystem unterschieden. ImZweifelsfall ist also Mikroskopieren angesagt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ceriporiopsis-gilvescens-fleckender-harzporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/exidia_truncata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -40,20 +52,6 @@ Hier geht's zur [Anmeldung >](/termine)
 [Mehr lesen >](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylodon_radula_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.03.2024: Um unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu entdecken, empfiehlt es sich, an Kirschbäumen Ausschau zu halten. An stehenden Stämmen und an toten Ästen bis hinauf in die Kronen ist der Reibeisen-Rindenpilz *Xylodon radula* zu finden. Sein Wachstum beginnt mit kleinen weißen Flecken, die bald zu großflächigeren Belägen zusammenwachsen und dann auch die etwas dunkleren Zähnchen ausbilden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xylodon-radula-reibeisen-rindenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
