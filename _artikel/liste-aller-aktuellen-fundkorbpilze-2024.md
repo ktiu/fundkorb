@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-14.03.2024: [Exidia truncata - Abgestutzter Drüsling](/pilze/exidia-truncata-abgestutzter-drüsling)  
+15.03.2024: [Ceriporiopsis gilvescens - Fleckender Harzporling](/pilze/ceriporiopsis-gilvescens-fleckender-harzporling)  
+14.03.2024: [Exidia truncata - Abgestutzter Drüsling](/pilze/exidia-truncata-abgestutzter-drüsling)\
 13.03.2024: [Xylaria hypoxylon - Geweihförmige Holzkeule](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)\
 12.03.2024: [Xylodon radula - Reibeisen-Rindenpilz](/pilze/xylodon-radula-reibeisen-rindenpilz)\
 11.03.2024: [Ganoderma applanatum - Flacher Lackporling](/pilze/ganoderma-applanatum-flacher-lackporling)\
