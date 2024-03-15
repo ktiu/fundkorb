@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/seifertia_azaleae_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.03.2024: Direkt vor unserer Haustür ist unser aktueller [Fundkorbpilz](AA "Glossar-") fast das ganze Jahr über und in großer Zahl gegenwärtig. Er heißt *Seifertia azaleae*, ein deutscher Name ist nicht bekannt. Um ihn zu betrachten braucht man sich nicht einmal zu bücken, eine Lupe wäre aber nicht verkehrt. In Augenhöhe hat der Pilz etliche Blütenknospen der Rhododendronbüsche befallen, die hier stehen. Die Folge: aus den befallenen geschwärzten Knospen werden sich keine Blüten mehr entwickeln. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/seifertia-azaleae)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ceriporiopsis_gilvescens_02_wp.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 14.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Abgestutzte Drüsling *Exidia truncata*. Ein typischer *„Glibber“*, der lappig ohrförmige, dunkelbraun bis schwarz gefärbte Fruchtkörper bildet. Sie sind von elastisch gelatinöser Konsistenz und ganzjährig vor allem an Eichenholz zu finden. Frostige Nächte machen ihnen offenbar nichts aus. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/exidia-truncata-abgestutzter-drüsling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Geweihförmige Holzkeule *Xylaria hypoxylon*, eine unverwechselbare Art, die das ganze Jahr über an totem Lauholz zu finden ist. Am häufigsten besiedelt sie scharenweise die Schnittflächen von Buchenstümpfen. Der zierliche Pilz zeigt sich in zwei unterschiedlichen Stadien. Als komplett schwarze Keulchen oder mit weißen, beim Anschnippen stäubenden Spitzen. Diese sind so vielgestaltig, dass kaum einmal eine einer anderen gleicht. Der weiße Staub besteht aus ungeschlechlichen Sporen, die komplett schwarzen Fruchtkörper produzieren dagegen die sexuellen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)
 
 <div style="clear:  both"></div>
 
