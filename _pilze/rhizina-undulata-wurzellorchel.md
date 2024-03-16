@@ -23,3 +23,5 @@ Meine Funde stammen aus den Jahren 1987 und 1996, alle in Nadelwäldern westlich
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/rhizina_undulata_01_rm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Fund von einer Fundstelle in Finsterau, Bayerischer Wald (Foto: Rudi Markones, 28.11.2011)" %}
+
+Ausführliche Informationen über weitere Lorchelarten [finden Sie hier >](/verwandt/lorcheln)
