@@ -30,3 +30,5 @@ Verwechslungen wären möglich mit dem seltenen Filzigen Langfüßler *Helvella 
 
 *Helvella macropus:* Sporen schlank elliptisch, 20 - 27 x 10 - 12 µm\
 *Helvella villosa:* Sporen breit elliptisch, 17 - 20 x 10,5 - 12 µm
+
+Ausführliche Informationen über weitere Lorchelarten [finden Sie hier >](/verwandt/lorcheln)
