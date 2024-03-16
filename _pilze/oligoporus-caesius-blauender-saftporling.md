@@ -29,7 +29,7 @@ Ein blauer oder bläulicher Saftporling an totem Nadelholz ist mit hoher Wahrsch
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/oligoporus_caesius_03_fk.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/oligoporus_caesius_02_nk.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/oligoporus_caesius_04_nk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Foto links: Frank Kaster -- Foto Rechts: Norbert Kühnberger" %}
 
 Die konsolenförmigen Fruchtkörper werden bis zu 8 cm breit und sind stiellos am Substrat angewachsen, im Anwuchsbereich bis zu 4 cm abstehend, zum Rand hin scharfkantig verflachend. Jung ist die leicht gezonte Oberfläche meist weißlich, später zunehmend bläulich bis blau, im Alter mehr oder weniger bräunend. Außerdem ist sie striegelig haarig, wobei sich der Filz allmählich in gröbere aufrecht gerichtete dunklere [Hyphenbündel](Hyphen "Glossar") auflöst - ein Merkmal, das den Blauenden ebenfalls vom Fastblauenden Saftporling unterscheidet. Die Unterseite besteht aus weißlichen bis leicht bläuenden Poren, die stark zerschlitzt sein können, etwa 4 - 5 pro Millimeter. Die weichfleischige [Trama](Trama "Glossar") ist weißlich bis bläulich, nass und wässrig. Bei anhaltend feuchtem Wetter kann man die Fruchtkörper wie einen Schwamm ausdrücken, wobei das Wasser herausrinnt.
@@ -40,8 +40,8 @@ Zur sicheren Bestimmung kann auch ein mikroskopisches Merkmal herangezogen werde
 
 Weitere im Fundkorb beschriebene Saftporlinge sind:
 
-[Postia fragilis - Braunfleckiger Saftporling](/pilze/postia-fragilis-braunfleckender-saftporling)  
-[Postia guttulata - Fleckender Saftporling](/pilze/postia-guttulata-fleckender-saftporling)  
-[Postia ptycogaster - Weißer Polsterpilz](/pilze/postia-ptychogaster-weißer-polsterpilz)  
-[Spongiporus floriformis - Blütenförmiger Saftporling](/pilze/spongiporus-floriformis-blütenförmiger-saftporling)  
+[Postia fragilis - Braunfleckiger Saftporling](/pilze/postia-fragilis-braunfleckender-saftporling)\
+[Postia guttulata - Fleckender Saftporling](/pilze/postia-guttulata-fleckender-saftporling)\
+[Postia ptycogaster - Weißer Polsterpilz](/pilze/postia-ptychogaster-weißer-polsterpilz)\
+[Spongiporus floriformis - Blütenförmiger Saftporling](/pilze/spongiporus-floriformis-blütenförmiger-saftporling)\
 [Tyromyces kmetii - Orangegelber Saftporling](/pilze/tyromyces-kmetii-orangegelber-saftporling)
