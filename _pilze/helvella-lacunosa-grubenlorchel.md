@@ -24,9 +24,11 @@ Die Grubenlorchel ist ein typischer Wegrandpilz. Das gilt auch für eine nahe Ve
 {% include bild.html datei="/bilder/helvella_lacunosa_02_gw.jpg" %}
 {% include abbildung_ende.html legende="Ob sich die Biene von der Grubenlorchel Nektar erhofft? (Foto: Gerd Wartha)" %}
 
-Über den Speisewert der Grubenlorchel gehen die Meinungen auseinander. Ewald Gerhardt (Der große BLV-Pilzführer für unterwegs) und Andreas Gminder (Handbuch für Pilzsammler) halten sie für essbar, die Herausgeber von 123pilze nur für bedingt und meinen, sie könnte den Giftstoff Gyromitrin enthalten
+Über den Speisewert der Grubenlorchel gehen die Meinungen auseinander. Ewald Gerhardt (Der große BLV-Pilzführer für unterwegs) und Andreas Gminder (Handbuch für Pilzsammler) halten sie für essbar, die Herausgeber von 123pilze nur für bedingt und meinen, sie könnte den Giftstoff Gyromitrin enthalten.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/helvella_lacunosa_03_dg.jpg" %}
 {% include bild.html datei="/bilder/helvella_lacunosa_04_dg.jpg" %}
 {% include abbildung_ende.html legende="Linkes Bild: Hier verstecken sich einige Grubenlorcheln unter frischem Grün" %}
+
+Ausführliche Informationen über weitere Lorchelarten [finden Sie hier >](/verwandt/lorcheln)
