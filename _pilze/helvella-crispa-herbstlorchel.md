@@ -42,6 +42,8 @@ Bei 123pilze wird dagegen die gesamte Gattung Helvella als giftig oder giftverd�
 
 Ich verwende die Stiele gelegentlich in dünne Scheibchen geschnitten und weiß nicht nur ihren festen Biss zu schätzen, sondern auch den optischen Reiz, den ihr spezielles Aussehen einem Mischpilzgericht verleihen.
 
+Ausführliche Informationen über weitere Lorchelarten [finden Sie hier >](/verwandt/lorcheln)
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/helvella_crispa_06_gg.jpg" %}
 {% include abbildung_ende.html legende="Ältere Pilzbücher verwenden für die Darstellung von Pilzen Aquarelle, die im Vergleich mit Fotografien oft eine bessere Aussagekraft haben. Hier eine Illustration  von Gabriele Gossner (in: Hans Haas - Pilze Mitteleuropas, 1964)" %}
