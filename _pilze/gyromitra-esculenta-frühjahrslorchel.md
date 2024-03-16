@@ -46,4 +46,4 @@ Diese beiden Arten sind deutlich seltener als die Frühjahrslorchel, aber ebenso
 {% include bild.html datei="/bilder/gyromitra_esculenta_08_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Zwei Frühjahrslorcheln in einem Wald bei Waldacker" %}
 
-Lesen Sie hierzu auch unseren Fundkorbartikel ["Ein delikater Giftpilz"](/artikel/ein-delikater-giftpilz.html).
+Lesen Sie hierzu auch unseren Fundkorbartikel ["Ein delikater Giftpilz"](/artikel/ein-delikater-giftpilz.html). Ausführliche Informationen über weitere Lorchelarten [finden Sie hier >](/verwandt/lorcheln)
