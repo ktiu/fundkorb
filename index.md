@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/melanoleuca_cognata_01_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+17.03.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") passt perfekt zur Jahreszeit. Der Frühlings-Weichritterling *Melanoleuca cognata* kann aber auch im Herbst erscheinen oder je nach Witterungsverlauf über das gesamte Jahr verteilt. Er gehört zu einer Gattung, die den meisten Pilzsammlern nicht geläufig ist. Im Erscheinungsbild ähnelt er den Dachpilzen, wächst jedoch niemals an Holz. Als Speisepilz ist er durchaus zu empfehlen, vorausgesetzt, man hat ihn sicher erkannt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/melanoleuca-cognata-frühlings-weichritterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/seifertia_azaleae_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -42,16 +54,6 @@ Hier geht's zur [Anmeldung >](/termine)
 <div style="clear:  both"></div>
 
 - - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/exidia_truncata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Abgestutzte Drüsling *Exidia truncata*. Ein typischer *„Glibber“*, der lappig ohrförmige, dunkelbraun bis schwarz gefärbte Fruchtkörper bildet. Sie sind von elastisch gelatinöser Konsistenz und ganzjährig vor allem an Eichenholz zu finden. Frostige Nächte machen ihnen offenbar nichts aus. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/exidia-truncata-abgestutzter-drüsling)
-
-<div style="clear:  both"></div>
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
