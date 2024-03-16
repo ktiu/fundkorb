@@ -22,3 +22,5 @@ Ein auffallend hübscher Pilz, der wegen seiner pokalförmigen Gestalt auch "Pok
 {% include abbildung_ende.html %}
 
 Die Hochgerippte Lorchel wächst im Frühjahr etwa von April bis Juni. Nach meinen Erfahrungen kann man sie als typischen Wegrandpilz bezeichnen. Wenn man auf den gerippten Stiel achtet, sind Verwechslungen mit Becherlingen auszuschließen. Innerhalb der Gattung haben die Schwarzweiße und die Grauweiße Lorchel ([Helvella leucomelaena](/pilze/helvella-leucomelaena-schwarzweiße-lorchel) und [costifera](/pilze/helvella-costifera-grauweiße-becherlorchel)) zwar eine gewisse Ähnlichkeit, lassen sich aber dennoch makroskopisch recht gut trennen.
+
+Ausführliche Informationen über weitere Lorchelarten [finden Sie hier >](/verwandt/lorcheln)
