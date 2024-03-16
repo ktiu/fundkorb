@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-16.03.2024: [Seifertia azaleae (deutscher Name nicht bekannt)](/pilze/seifertia-azaleae)  
+17.03.2024: [Melanoleuca cognata - Frühlings-Weichritterling](/pilze/melanoleuca-cognata-frühlings-weichritterling)  
+16.03.2024: [Seifertia azaleae (deutscher Name nicht bekannt)](/pilze/seifertia-azaleae)\
 15.03.2024: [Ceriporiopsis gilvescens - Fleckender Harzporling](/pilze/ceriporiopsis-gilvescens-fleckender-harzporling)\
 14.03.2024: [Exidia truncata - Abgestutzter Drüsling](/pilze/exidia-truncata-abgestutzter-drüsling)\
 13.03.2024: [Xylaria hypoxylon - Geweihförmige Holzkeule](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)\
