@@ -25,3 +25,5 @@ Die Grauweiße Becherlorchel steht in der Sektion *Acetabulum* (Dissing 1966), i
 Die wichtigsten makroskopischen Kennzeichen der Grauweißen Lochel sind die deutlich erhabenen Rippen, die abgerundet und nicht kantig sind wie bei der Hochgerippten Lorchel. Junge Fruchtkörper erscheinen außen durch zottige Behaarung kleiig oder gekörnelt, was besonders an den Becherrändern auffällt. Sie sind sehr zerbrechlich.
 
 Die meisten der vorgefundenen Fruchtkörper waren hellgrau gefärbt. Daher sorgte beim Bestimmen des Fundes das in Breitenbach & Kränzlin (Pilze der Schweiz Band 1, Nr. 26) abgebildete Foto für Verwirrung. Es zeigt gelb-ockerlich gefärbte Pilze.
+
+Ausführliche Informationen über weitere Lorchelarten [finden Sie hier >](/verwandt/lorcheln)
