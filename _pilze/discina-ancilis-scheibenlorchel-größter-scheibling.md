@@ -39,3 +39,5 @@ Laut [Index fungorum](http://www.speciesfungorum.org/Names/SynSpecies.asp?Record
 {% include bild.html datei="/bilder/gyromitra_ancilis_03_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/gyromitra_ancilis_04_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="27.03.2022, Kiefernwald bei Waldacker, TK 5918.4.4, Fund an sandigem Wegrand" %}
+
+[Ausführliche Informationen über weitere Lorchelarten finden Sie hier >](/verwandt/lorcheln)
