@@ -42,6 +42,6 @@ Weitere im Fundkorb beschriebene Saftporlinge sind:
 
 [Postia fragilis - Braunfleckiger Saftporling](/pilze/postia-fragilis-braunfleckender-saftporling)\
 [Postia guttulata - Fleckender Saftporling](/pilze/postia-guttulata-fleckender-saftporling)\
-[Postia ptycogaster - Weißer Polsterpilz](/pilze/postia-ptychogaster-weißer-polsterpilz)\
+[Postia ptychogaster - Weißer Polsterpilz](/pilze/postia-ptychogaster-weißer-polsterpilz)\
 [Spongiporus floriformis - Blütenförmiger Saftporling](/pilze/spongiporus-floriformis-blütenförmiger-saftporling)\
 [Tyromyces kmetii - Orangegelber Saftporling](/pilze/tyromyces-kmetii-orangegelber-saftporling)
