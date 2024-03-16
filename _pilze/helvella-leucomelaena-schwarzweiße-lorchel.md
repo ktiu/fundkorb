@@ -26,3 +26,5 @@ Die Schwarzweiße Lorchel, die zu den Schlauchpilzen gehört, wächst gern in Na
 {% include abbildung_ende.html %}
 
 Zwischen März und April haben wir mitten in Dietzenbach an drei nicht weit voneinander entfernten Fundstellen wahre Massenvorkommen mit z. T. bis zu hundert Fruchtkörpern entdeckt (erste Sichtungen inzwischen schon im Februar!). Das größte dieser Vorkommen befand sich auf kargem, steinigem und nur spärlich mit Pflanzen bewachsenem Boden in einem eingezäunten Bereich der Ernst-Reuter-Schule. Diese Fläche war für uns unzugänglich, sodass wir nur durch den Zaun hindurch fotografieren konnten. Auch in Neu-Isenburg, Heusenstamm, Frankfurt und Rodgau sind wir immer mal wieder Vorkommen begegnet.
+
+Ausführliche Informationen über weitere Lorchelarten [finden Sie hier >](/verwandt/lorcheln)
