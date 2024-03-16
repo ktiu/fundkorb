@@ -23,3 +23,5 @@ literatur:
 Diese relativ seltene und nicht sehr auffällige Lorchel findet man gelegentlich in Laub- und Nadelwäldern an oder in der Nähe von Wegrändern, wo sie dann meist gesellig in größeren Gruppen erscheinen. Sie werden bis zu 6 cm hoch und sind deutlich in Hut und Stiel gegliedert. Die Hüte sind lappig bis sattelförmig oder unregelmäßig verbogen. Dabei kann es vorkommen, dass sie von oben oder der Seite betrachtet so gestaltet sind, als hätten sie rundliche oder längliche Öffnungen. Die Hutfarben sind heller bis dunkler braun. Die schlanken etwa einen halben Zentimeter dicken Stiele sind heller und glatt. Erscheinungszeit ist Sommer bis Spätherbst.
 
 Verwechselt werden könnte die Elastische Lorchel am ehesten mit der Sattellorchel *Helvella epphippium*, die zur gleichen Zeit an ähnlichen Standorten vorkommt. Deren Hüte sind gleichmäßiger sattelförmig, an der Unterseite fein flockig, die helleren Stiele auf ganzer Länge flaumig.
+
+Ausführliche Informationen über weitere Lorchelarten [finden Sie hier >](/verwandt/lorcheln)
