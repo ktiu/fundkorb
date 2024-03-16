@@ -23,3 +23,5 @@ Bischofsmützen können auffallend groß werden und eine Gesamthöhe von bis zu 
 {% include abbildung_ende.html legende="Ende November 2021 in einem Kiefernwald bei Waldacker auf morschem Holz gefunden. (3 Fotos: Ings Illig)" %}
 
 Wie alle Arten der Gattung Gyromitra enthält die Bischofsmütze den Giftstoff *Gyromitrin*, jedoch in geringerer Konzentration als z. B. in der Frühjahrslorchel. Als Speisepilz kommt sie daher und auch wegen ihrer Seltenheit nicht in Frage. Verwechselt werden könnte sie mit der Vielgestaltigen Lorchel *Gyromitra ambigua*.
+
+Ausführliche Informationen über weitere Lorchelarten [finden Sie hier >](/verwandt/lorcheln)
