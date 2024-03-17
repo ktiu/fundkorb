@@ -10,12 +10,17 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/gyromitra_esculenta_11_dg.png" %}
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitocybe_fragrans_05_hs.jpg" %}
 {% include abbildung_ende.html %}
 
-Nächster Exkursionstermin am 17.03.2024: **Die Frühjahrslorcheln sind da!**
-Hier geht's zur [Anmeldung >](/termine)
+18.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weiße Anistrichterling *Clitocybe fragrans*, den wir gestern in einem moosigen Kiefernwald bei Waldacker gefunden haben. Es handelt sich um einen recht kleinen Pilz, der so gar nicht wie ein richtiger Trichterling aussieht. Von seinem Aussehen her ist er auf Anhieb auch kaum richtig einzuordnen. Erst wenn man ihn unter die Nase hält, beginnt sich der Fall zu klären. Es gibt nur wenige Pilzarten, die so angenehm nach Anis riechen und alle anderen unterscheiden sich deutlich in Form und Größe. Er muss auch nicht unbedingt rein weiß sein. Für die Küche kommt er nicht in Frage. Er ist giftig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -46,12 +51,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ceriporiopsis_gilvescens_02_wp.jpg" %}
 {% include abbildung_ende.html %}
-
-15.03.2024: Im Frankfurter Stadtwald ist der nicht gerade häufige Fleckende Harzporling *Ceriporiopsis gilvescens* immer mal wieder zu finden und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Man achte auf die blass rosa gefärbten, vielfältig zerschlitzten Poren, die auf Druck bräunlich flecken. Gezielte Suche kann sich lohnen, wobei man vor allem die Unterseiten von liegenden Laubholzstämmen (insbesondere Buchen) im Visier haben sollte. Von ähnlichen Arten der Gattung *Ceriporia*  sind sie durch das Vorhandensein von Schnallen im Hyphensystem unterschieden. Im Zweifelsfall ist also Mikroskopieren angesagt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ceriporiopsis-gilvescens-fleckender-harzporling)
-
-<div style="clear:  both"></div>
 
 - - -
 
