@@ -41,7 +41,7 @@ Sowohl die Herbst- wie auch die Grubenlorchel sind die einzigen, die von diverse
 {% include bild.html datei="/bilder/helvella_crispa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Herbst- und Grubenlorchel sind in unseren Wäldern übrigens typische Wegrandpilze und realtiv häufig. Völlig anders gestaltet sind zum Beispiel die Langfüßler und eine sehr spezielle Besonderheit stellt die Wurzellorchel Rhizina undulata dar, die nur auf ausgedehnten relativ frischen Brandstellen vorkommt.
+Herbst- und Grubenlorchel sind in unseren Wäldern übrigens typische Wegrandpilze und realtiv häufig. Völlig anders gestaltet sind zum Beispiel die Langfüßler und eine sehr spezielle Besonderheit stellt die Wurzellorchel *Rhizina undulata* dar, die nur auf ausgedehnten relativ frischen Brandstellen vorkommt.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/helvella_macropus_02_dg.jpg" nocrop=true gross=true %}
@@ -50,22 +50,22 @@ Herbst- und Grubenlorchel sind in unseren Wäldern übrigens typische Wegrandpil
 
 **Lorcheln und Lorchelartige im Fundkorb:**
 
-[Discina ancilis - Scheibenlorchel](/pilze/discina-ancilis-scheibenlorchel-größter-scheibling)  
-[Gyromitra esculenta - Frühjahrslorchel (Giftlorchel)](/pilze/gyromitra-esculenta-frühjahrslorchel)  
-[Gyromitra infula - Bischofsmütze](/pilze/gyromitra-infula-bischofsmütze)  
-[Helvella acetabulum - Hochgerippte Lorchel](/pilze/helvella-acetabulum-hochgerippte-lorchel)  
-[Helvella costifera - Grauweiße Becherlorchel](/pilze/helvella-costifera-grauweiße-becherlorchel)  
-[Helvella crispa - Herbstlorchel](/pilze/helvella-crispa-herbstlorchel)  
-[Helvella elastica - Elastische Lorchel](/pilze/helvella-elastica-elastische-lorchel)  
-[Helvella lacunosa - Grubenlorchel](/pilze/helvella-lacunosa-grubenlorchel)  
-[Helvella leucomelaena - Schwarzweiße Lorchel](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)  
-[Helvella macropus - Grauer Langfüßler](/pilze/helvella-macropus-grauer-langfüßler)  
+[Discina ancilis - Scheibenlorchel](/pilze/discina-ancilis-scheibenlorchel-größter-scheibling)\
+[Gyromitra esculenta - Frühjahrslorchel (Giftlorchel)](/pilze/gyromitra-esculenta-frühjahrslorchel)\
+[Gyromitra infula - Bischofsmütze](/pilze/gyromitra-infula-bischofsmütze)\
+[Helvella acetabulum - Hochgerippte Lorchel](/pilze/helvella-acetabulum-hochgerippte-lorchel)\
+[Helvella costifera - Grauweiße Becherlorchel](/pilze/helvella-costifera-grauweiße-becherlorchel)\
+[Helvella crispa - Herbstlorchel](/pilze/helvella-crispa-herbstlorchel)\
+[Helvella elastica - Elastische Lorchel](/pilze/helvella-elastica-elastische-lorchel)\
+[Helvella lacunosa - Grubenlorchel](/pilze/helvella-lacunosa-grubenlorchel)\
+[Helvella leucomelaena - Schwarzweiße Lorchel](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)\
+[Helvella macropus - Grauer Langfüßler](/pilze/helvella-macropus-grauer-langfüßler)\
 [Rhizina undulata - Wuzellorchel](/pilze/rhizina-undulata-wurzellorchel)
 
 Verwechseln sollte man keinesfalls Morcheln mit Lorcheln. Zitat *t-online/essen und trinken*:
 
 > Nur ein Buchstabe unterscheidet Lorchel und Morchel - geht es um den Verzehr, wird dieser Unterschied überlebenswichtig.“ 
 
-Morcheln gehören zwar auch zu den Ascomyzeten, sind mit den Lorcheln aber nicht näher verwandt. Sie zeichnen sich durch wabenartig gekammerte rundliche oder zugespitzte Hüte aus und gelten als ausgezeichnete Speisepilze. Wer auf *Google* die Frage stellt, ob Morcheln und Lorcheln das Gleiche sind, erhält folgende zumindest in ihrem zweiten Teil geradezu lächerliche Antwort:
+Morcheln gehören zwar auch zu den Ascomyzeten, sind mit den Lorcheln aber nicht näher verwandt. Sie zeichnen sich durch wabenartig gekammerte rundliche oder zugespitzte Hüte aus und gelten als ausgezeichnete Speisepilze. Wer auf *Google* die Frage stellt, ob Morcheln und Lorcheln das Gleiche sind, erhält folgende zumindest in ihrem zweiten Teil eine geradezu lächerliche Antwort:
 
 > Während der Hut der Morchel Vertiefungen aufweist, die Bienenwaben ähneln, lässt sich die giftige Lorchel an ihren Windungen erkennen, die an Würmer erinnern und nach außen gewölbt sind.“
