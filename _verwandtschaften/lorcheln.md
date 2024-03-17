@@ -66,6 +66,6 @@ Verwechseln sollte man keinesfalls Morcheln mit Lorcheln. Zitat *t-online/essen 
 
 > Nur ein Buchstabe unterscheidet Lorchel und Morchel - geht es um den Verzehr, wird dieser Unterschied überlebenswichtig.“ 
 
-Morcheln gehören zwar auch zu den Ascomyzeten, sind mit den Lorcheln aber nicht näher verwandt. Sie zeichnen sich durch wabenartig gekammerte rundliche oder zugespitzte Hüte aus und gelten als ausgezeichnete Speisepilze. Wer auf *Google* die Frage stellt, ob Morcheln und Lorcheln das Gleiche sind, erhält folgende zumindest in ihrem zweiten Teil eine geradezu lächerliche Antwort:
+Morcheln gehören zwar auch zu den Ascomyzeten, sind mit den Lorcheln aber nicht näher verwandt. Sie zeichnen sich durch wabenartig gekammerte rundliche oder zugespitzte Hüte aus und gelten als ausgezeichnete Speisepilze. Wer auf *Google* die Frage stellt, ob Morcheln und Lorcheln das Gleiche sind, erhält folgende zumindest in ihrem zweiten Teil geradezu lächerliche Antwort:
 
 > Während der Hut der Morchel Vertiefungen aufweist, die Bienenwaben ähneln, lässt sich die giftige Lorchel an ihren Windungen erkennen, die an Würmer erinnern und nach außen gewölbt sind.“
