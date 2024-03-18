@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-18.03.2024: [Clitocybe fragrans - Weißer Anistrichterling](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)  
+19.03.2024: [Thelephora terrestris - Erdwarzenpilz](/pilze/thelephora-terrestris-erdwarzenpilz)\  
+18.03.2024: [Clitocybe fragrans - Weißer Anistrichterling](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)\
 17.03.2024: [Melanoleuca cognata - Frühlings-Weichritterling](/pilze/melanoleuca-cognata-frühlings-weichritterling)\
 16.03.2024: [Seifertia azaleae (deutscher Name nicht bekannt)](/pilze/seifertia-azaleae)\
 15.03.2024: [Ceriporiopsis gilvescens - Fleckender Harzporling](/pilze/ceriporiopsis-gilvescens-fleckender-harzporling)\
