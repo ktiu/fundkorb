@@ -48,12 +48,6 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ceriporiopsis_gilvescens_02_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-- - -
-
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
