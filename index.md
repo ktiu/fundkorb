@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/thelephora_terrestris_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Erdwarzenpilz *Thelephora terrestris*. Der deutsche Name erweckt wegen der "Warzen" nicht gerade positive Assoziationen, aber bei genauerem Hinschauen ist er für mich ein attraktiver Pilz. Man findet ihn vor allem in der Umgebung von Nadelbäumen, wo er Jungpflanzen umwachsen und durch Ersticken zum Absterben bringen kann. Andererseits ist er als [Mykorrhizapilz](Mykorrhiza "Glossar") aber durchaus ein Freund der Bäume und hilft sogar den Baumschulen bei der Aufzucht ihrer Schützlinge. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/thelephora-terrestris-erdwarzenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitocybe_fragrans_05_hs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 17.03.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") passt perfekt zur Jahreszeit. Der Frühlings-Weichritterling *Melanoleuca cognata* kann aber auch im Herbst erscheinen oder je nach Witterungsverlauf über das gesamte Jahr verteilt. Er gehört zu einer Gattung, die den meisten Pilzsammlern nicht geläufig ist. Im Erscheinungsbild ähnelt er den Dachpilzen, wächst jedoch niemals an Holz. Als Speisepilz ist er durchaus zu empfehlen, vorausgesetzt, man hat ihn sicher erkannt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/melanoleuca-cognata-frühlings-weichritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/seifertia_azaleae_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.03.2024: Direkt vor unserer Haustür ist unser aktueller [Fundkorbpilz](AA "Glossar-") fast das ganze Jahr über und in großer Zahl gegenwärtig. Er heißt *Seifertia azaleae*, ein deutscher Name ist nicht bekannt. Um ihn zu betrachten braucht man sich nicht einmal zu bücken, eine Lupe wäre aber nicht verkehrt. In Augenhöhe hat der Pilz etliche Blütenknospen der Rhododendronbüsche befallen, die hier stehen. Die Folge: aus den befallenen geschwärzten Knospen werden sich keine Blüten mehr entwickeln. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/seifertia-azaleae)
 
 <div style="clear:  both"></div>
 
