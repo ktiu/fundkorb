@@ -14,7 +14,7 @@ footer_scripts:
 
 Neue Exkursionstermine:  
 Karfreitag, 30.03.2024: Pilz- und naturkundliche Exkursion im NSG Kühkopf  
-Sonntag, 07.04.2024: Wir suchen den Mainpilz  
+Sonntag, 07.04.2024: Wir suchen den Maipilz  
 Hier geht's zur [Anmeldung >](/termine)
 
 - - -
