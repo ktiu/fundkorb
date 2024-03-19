@@ -2,7 +2,7 @@
 aktivitaet: Pilz- und naturkundliche Exkursion im NSG Kühkopf
 zeit: 2024-03-18T20:01:23.554Z
 bis: ""
-customdate: Samstag, 30. März 2024, 10:30
+customdate: Samstag, 30. März 2024, 10:30 Uhr
 anmeldung_offen: true
 anmeldung_noetig: true
 published: true
