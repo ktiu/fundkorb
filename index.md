@@ -12,6 +12,13 @@ footer_scripts:
 
 - - -
 
+Neue Exkursionstermine:  
+Karfreitag, 30.03.2024: Pilz- und naturkundliche Exkursion im NSG Kühkopf  
+Sonntag, 07.04.2024: Wir suchen den Mainpilz  
+Hier geht's zur [Anmeldung >](/termine)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/thelephora_terrestris_01_dg.jpg" %}
 {% include abbildung_ende.html %}
