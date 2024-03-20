@@ -12,10 +12,22 @@ footer_scripts:
 
 - - -
 
-Neue Exkursionstermine:  
-Samstag, 30.03.2024: Pilz- und naturkundliche Exkursion im NSG Kühkopf  
-Sonntag, 07.04.2024: Wir suchen den Maipilz  
+Neue Exkursionstermine:\
+Samstag, 30.03.2024: Pilz- und naturkundliche Exkursion im NSG Kühkopf\
+Sonntag, 07.04.2024: Wir suchen den Maipilz\
 Hier geht's zur [Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/discina_ancilis_06_aa.jpg" %}
+{% include abbildung_ende.html %}
+
+20.03.2024: Die meisten Lorchelarten sind ausgesprochene Frühjahrspilze. So auch die Scheibenlorchel *Discina ancilis*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Im Gegensatz zur stattlichen [Frühjahrslorchel](/pilze/gyromitra-esculenta-frühjahrslorchel) ist sie eher unauffällig. Ihr Name deutet es schon an: sie ist meist tellerförmig flach, kann aber auch aufgebogene Ränder haben und einem Becherling ähneln. Ihre braune Oberfläche kann relativ flach, häufiger aber faltig oder runzelig sein. Sie gilt als essbar, ist roh giftig und hat schon wegen ihrer relativen Seltenheit keine Bedeutung als Speisepilz. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/discina-ancilis-scheibenlorchel-größter-scheibling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 18.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weiße Anistrichterling *Clitocybe fragrans*, den wir gestern in einem moosigen Kiefernwald bei Waldacker gefunden haben. Es handelt sich um einen recht kleinen Pilz, der so gar nicht wie ein richtiger Trichterling aussieht. Von seinem Aussehen her ist er auf Anhieb auch kaum richtig einzuordnen. Erst wenn man ihn unter die Nase hält, beginnt sich der Fall zu klären. Es gibt nur wenige Pilzarten, die so angenehm nach Anis riechen und alle anderen unterscheiden sich deutlich in Form und Größe. Er muss auch nicht unbedingt rein weiß sein. Für die Küche kommt er nicht in Frage. Er ist giftig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/melanoleuca_cognata_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-17.03.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") passt perfekt zur Jahreszeit. Der Frühlings-Weichritterling *Melanoleuca cognata* kann aber auch im Herbst erscheinen oder je nach Witterungsverlauf über das gesamte Jahr verteilt. Er gehört zu einer Gattung, die den meisten Pilzsammlern nicht geläufig ist. Im Erscheinungsbild ähnelt er den Dachpilzen, wächst jedoch niemals an Holz. Als Speisepilz ist er durchaus zu empfehlen, vorausgesetzt, man hat ihn sicher erkannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/melanoleuca-cognata-frühlings-weichritterling)
 
 <div style="clear:  both"></div>
 
