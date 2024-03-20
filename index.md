@@ -23,7 +23,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/discina_ancilis_06_aa.jpg" %}
 {% include abbildung_ende.html %}
 
-20.03.2024: Die meisten Lorchelarten sind ausgesprochene Frühjahrspilze. So auch die Scheibenlorchel *Discina ancilis*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Im Gegensatz zur stattlichen [Frühjahrslorchel](/pilze/gyromitra-esculenta-frühjahrslorchel) ist sie eher unauffällig. Ihr Name deutet es schon an: sie ist meist tellerförmig flach, kann aber auch aufgebogene Ränder haben und einem Becherling ähneln. Ihre braune Oberfläche kann relativ flach, häufiger aber faltig oder runzelig sein. Sie gilt als essbar, ist roh giftig und hat schon wegen ihrer relativen Seltenheit keine Bedeutung als Speisepilz. (Dieter Gewalt)
+20.03.2024: Die meisten Lorchelarten sind ausgesprochene Frühjahrspilze. So auch die Scheibenlorchel *Discina ancilis*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Im Gegensatz zur stattlichen [Frühjahrslorchel](/pilze/gyromitra-esculenta-frühjahrslorchel) ist sie eher unauffällig. Ihr Name deutet es schon an: sie ist meist tellerförmig flach, kann aber auch aufgebogene Ränder haben und einem Becherling ähneln. Ihre braune Oberfläche kann relativ glatt, häufiger aber faltig oder runzelig sein. Sie gilt als essbar, ist roh giftig und hat schon wegen ihrer relativen Seltenheit keine Bedeutung als Speisepilz. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/discina-ancilis-scheibenlorchel-größter-scheibling)
 
