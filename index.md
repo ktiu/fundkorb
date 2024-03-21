@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ganoderma_lucidum_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Glänzende Lackporling *Ganoderma lucidum*, der mit seinem roten, wie lackiert glänzenden Hut und Stiel immer wieder die Begeisterung der Pilzfreunde erregt. ln Ost- und Südostasien ist er seit Jahrtausenden ein viel gepriesener Heilpilz und gilt als „Pilz der Unsterblickeit“.  Das ist sicher etwas übertrieben, aber sein therapeutischer Nutzen ist längst auch im Westen wissenschaftlich anerkannt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ganoderma-lucidum-glänzender-lackporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/paxillus_involutus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 20.03.2024: Die meisten Lorchelarten sind ausgesprochene Frühjahrspilze. So auch die Scheibenlorchel *Discina ancilis*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Im Gegensatz zur stattlichen [Frühjahrslorchel](/pilze/gyromitra-esculenta-frühjahrslorchel) ist sie eher unauffällig. Ihr Name deutet es schon an: sie ist meist tellerförmig flach, kann aber auch aufgebogene Ränder haben und einem Becherling ähneln. Ihre braune Oberfläche kann relativ glatt, häufiger aber faltig oder runzelig sein. Sie gilt als essbar, ist roh giftig und hat schon wegen ihrer relativen Seltenheit keine Bedeutung als Speisepilz. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/discina-ancilis-scheibenlorchel-größter-scheibling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/thelephora_terrestris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Erdwarzenpilz *Thelephora terrestris*. Der deutsche Name erweckt wegen der "Warzen" nicht gerade positive Assoziationen, aber bei genauerem Hinschauen ist er für mich ein attraktiver Pilz. Man findet ihn vor allem in der Umgebung von Nadelbäumen, wo er Jungpflanzen umwachsen und durch Ersticken zum Absterben bringen kann. Andererseits ist er als [Mykorrhizapilz](Mykorrhiza "Glossar") aber durchaus ein Freund der Bäume und hilft sogar den Baumschulen bei der Aufzucht ihrer Schützlinge. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/thelephora-terrestris-erdwarzenpilz)
 
 <div style="clear:  both"></div>
 
