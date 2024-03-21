@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-21.03.2024: [Paxillus involutus - Kahler Krempling](/pilze/paxillus-involutus-kahler-krempling)  
+22.03.2024: [Ganoderma lucidum - Glänzender Lackporling](/pilze/ganoderma-lucidum-glänzender-lackporling)  
+21.03.2024: [Paxillus involutus - Kahler Krempling](/pilze/paxillus-involutus-kahler-krempling)\
 20.03.2024: [Discina ancilis - Scheibenlorchel](/pilze/discina-ancilis-scheibenlorchel-größter-scheibling)\
 19.03.2024: [Thelephora terrestris - Erdwarzenpilz](/pilze/thelephora-terrestris-erdwarzenpilz)\
 18.03.2024: [Clitocybe fragrans - Weißer Anistrichterling](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)\
