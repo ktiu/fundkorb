@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/paxillus_involutus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.03.2024: Ein Funddatum im März ist auch für den später allgegenwärtigen Kahlen Krempling *Paxillus involutus* ungewöhnlich früh. Roh gegessen ist unser aktueller [Fundkorbpilz](AA "Glossar-") immer stark giftig, aber auch gut gegart kann er im Blut die Bildung von Antikörpern verursachen, was zu einer tödlichen Antigen-Antikörper-Reaktion führen kann. Vor ca. 60 Jahren und davor galt er noch als schmackhafter Speisepilz, aber schon damals wurde dringend empfohlen, ihn nur ausreichend erhitzt zu genießen. Inzwischen darf er nicht mehr zum Verzehr freigegeben werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/discina_ancilis_06_aa.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 19.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Erdwarzenpilz *Thelephora terrestris*. Der deutsche Name erweckt wegen der "Warzen" nicht gerade positive Assoziationen, aber bei genauerem Hinschauen ist er für mich ein attraktiver Pilz. Man findet ihn vor allem in der Umgebung von Nadelbäumen, wo er Jungpflanzen umwachsen und durch Ersticken zum Absterben bringen kann. Andererseits ist er als [Mykorrhizapilz](Mykorrhiza "Glossar") aber durchaus ein Freund der Bäume und hilft sogar den Baumschulen bei der Aufzucht ihrer Schützlinge. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/thelephora-terrestris-erdwarzenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_fragrans_05_hs.jpg" %}
-{% include abbildung_ende.html %}
-
-18.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weiße Anistrichterling *Clitocybe fragrans*, den wir gestern in einem moosigen Kiefernwald bei Waldacker gefunden haben. Es handelt sich um einen recht kleinen Pilz, der so gar nicht wie ein richtiger Trichterling aussieht. Von seinem Aussehen her ist er auf Anhieb auch kaum richtig einzuordnen. Erst wenn man ihn unter die Nase hält, beginnt sich der Fall zu klären. Es gibt nur wenige Pilzarten, die so angenehm nach Anis riechen und alle anderen unterscheiden sich deutlich in Form und Größe. Er muss auch nicht unbedingt rein weiß sein. Für die Küche kommt er nicht in Frage. Er ist giftig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)
 
 <div style="clear:  both"></div>
 
