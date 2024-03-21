@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-20.03.2024: [Discina ancilis - Scheibenlorchel](/pilze/discina-ancilis-scheibenlorchel-größter-scheibling)  
+21.03.2024: [Paxillus involutus - Kahler Krempling](/pilze/paxillus-involutus-kahler-krempling)  
+20.03.2024: [Discina ancilis - Scheibenlorchel](/pilze/discina-ancilis-scheibenlorchel-größter-scheibling)\
 19.03.2024: [Thelephora terrestris - Erdwarzenpilz](/pilze/thelephora-terrestris-erdwarzenpilz)\
 18.03.2024: [Clitocybe fragrans - Weißer Anistrichterling](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)\
 17.03.2024: [Melanoleuca cognata - Frühlings-Weichritterling](/pilze/melanoleuca-cognata-frühlings-weichritterling)\
