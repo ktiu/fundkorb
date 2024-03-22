@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/auriscalpium_vulgare_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.03.2024: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Ohrlöffelstacheling *Auriscalpium vulgare*, kann man durchaus als Kuriosität bezeichnen. Es handelt sich um eine unverwechselbare Gestalt auf einem unverwechselbaren Substrat: ein seitlich gestieltes braunes Pilzchen mit einer stacheligen Unterseite (dem [Hymenium](<Hymenium "Glossar">)), das ausschließlich auf Kiefernzapfen wächst und in keinem Kiefernwald fehlen dürfte. Könnte allerdings sein, dass der Zapfen im Boden vergraben liegt und nicht sofort sichtbar ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ganoderma_lucidum_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 21.03.2024: Ein Funddatum im März ist auch für den später allgegenwärtigen Kahlen Krempling *Paxillus involutus* ungewöhnlich früh. Roh gegessen ist unser aktueller [Fundkorbpilz](AA "Glossar-") immer stark giftig, aber auch gut gegart kann er im Blut die Bildung von Antikörpern verursachen, was zu einer tödlichen Antigen-Antikörper-Reaktion führen kann. Vor ca. 60 Jahren und davor galt er noch als schmackhafter Speisepilz, aber schon damals wurde dringend empfohlen, ihn nur ausreichend erhitzt zu genießen. Inzwischen darf er nicht mehr zum Verzehr freigegeben werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/discina_ancilis_06_aa.jpg" %}
-{% include abbildung_ende.html %}
-
-20.03.2024: Die meisten Lorchelarten sind ausgesprochene Frühjahrspilze. So auch die Scheibenlorchel *Discina ancilis*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Im Gegensatz zur stattlichen [Frühjahrslorchel](/pilze/gyromitra-esculenta-frühjahrslorchel) ist sie eher unauffällig. Ihr Name deutet es schon an: sie ist meist tellerförmig flach, kann aber auch aufgebogene Ränder haben und einem Becherling ähneln. Ihre braune Oberfläche kann relativ glatt, häufiger aber faltig oder runzelig sein. Sie gilt als essbar, ist roh giftig und hat schon wegen ihrer relativen Seltenheit keine Bedeutung als Speisepilz. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/discina-ancilis-scheibenlorchel-größter-scheibling)
 
 <div style="clear:  both"></div>
 
