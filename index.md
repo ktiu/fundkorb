@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/geopora_sumneriana_09_cw.jpg" %}
+{% include abbildung_ende.html %}
+
+24.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zedern-Sandborstling *Geopora sumneriana*. Bei uns in Dietzenbach gibt es drei frei zugängliche Zedern und nun haben wir den beeindruckenden Pilz auch bei der dritten gefunden. Damit bestätigt sich meine Einschätzung, dass dieser bis zur Jahrtausendwende in Deutschland noch weitgehend unbekannte Pilz zuverlässiger Begleiter der vor allem im Mittelmeerraum heimischen Nadelbäume sein dürfte. Ein Aufruf von *Helgo Bran* im Jahre 1999, nach einem im Boden eingesenkten kelch- oder becherlingsartigen Pilz bei Zedern zu suchen, war in der Folge bundesweit von Erfolg gekrönt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/geopora-sumneriana-zedern-sandborstling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/auriscalpium_vulgare_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 22.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Glänzende Lackporling *Ganoderma lucidum*, der mit seinem roten, wie lackiert glänzenden Hut und Stiel immer wieder die Begeisterung der Pilzfreunde erregt. ln Ost- und Südostasien ist er seit Jahrtausenden ein viel gepriesener Heilpilz und gilt als „Pilz der Unsterblickeit“.  Das ist sicher etwas übertrieben, aber sein therapeutischer Nutzen ist längst auch im Westen wissenschaftlich anerkannt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/ganoderma-lucidum-glänzender-lackporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/paxillus_involutus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.03.2024: Ein Funddatum im März ist auch für den später allgegenwärtigen Kahlen Krempling *Paxillus involutus* ungewöhnlich früh. Roh gegessen ist unser aktueller [Fundkorbpilz](AA "Glossar-") immer stark giftig, aber auch gut gegart kann er im Blut die Bildung von Antikörpern verursachen, was zu einer tödlichen Antigen-Antikörper-Reaktion führen kann. Vor ca. 60 Jahren und davor galt er noch als schmackhafter Speisepilz, aber schon damals wurde dringend empfohlen, ihn nur ausreichend erhitzt zu genießen. Inzwischen darf er nicht mehr zum Verzehr freigegeben werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
 
 <div style="clear:  both"></div>
 
