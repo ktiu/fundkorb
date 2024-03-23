@@ -16,7 +16,7 @@ hauptbild:
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz  Band 3, Nr. 313"
 ---
-Um diesen Pilz gebührend zu würdigen, eine vorausgeschickte Anmerkung aus der griechischen Mythologie: Adonis war ein wunderschöner Jüngling und Geliebter der Aphrodite, der Götting der Liebe, Schönheit und sinnlichen Begierde. Auch er galt als Sinnbild der Schönheit, darüberhinaus auch der Vegetation.
+Um diesen Pilz gebührend zu würdigen, eine vorausgeschickte Anmerkung aus der griechischen Mythologie: Adonis war ein wunderschöner Jüngling und Geliebter der Aphrodite, der Göttin der Liebe, Schönheit und sinnlichen Begierde. Auch er galt als Sinnbild der Schönheit, darüberhinaus auch der Vegetation.
 
 Und jetzt zur [Mykologie](Mykologie "Glossar"): Dieser Helmling ist so bezaubernd schön, dass er den Vergleich mit dem schönen Jüngling wahrlich verdient und zurecht *„adonis“* genannt wurde. *Norbert Kühnberger* ist es gelungen, mit dem obigen Foto die Attraktivität des Pilzes auf beeindruckende Weise zu vermitteln. Leider wird man ihn nur selten zu Gesicht bekommen,
 auch wenn die [Verbreitungskarte der DGfM](https://www.pilze-deutschland.de/organismen/atheniella-adonis-bull-redhead-moncalvo-vilgalys-desjardin-ba-perry-2012-1) über ganz Deutschland verbreitete Fundpunkte zeigt. Er scheint wohl stark rückläufig zu sein.
