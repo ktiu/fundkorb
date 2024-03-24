@@ -23,7 +23,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/entoloma_clypeatum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-25.03.2024: Zu den typischen Frühjahrspilzen gehört der Schildrötling *Entoloma clypeatum*, unser aktueller [Fundkorbpilz](AA "Glossar-"). In und um Dietzenbach gibt es mehrere standorttreue Vorkommen, unter anderem auf zwei Streuobstwiesen. Hier kann auch mit seinem optisch oft kaum unterscheidbaren Doppelgänger, dem Schlehenrötling *Entoloma sepium*, gerechnet werden. Beide sind gute Speisepilze, Pilzsammler sollten jedoch auf der Hut sein. Unter den Rötlingen gibt es etliche giftige. (Dieter Gewalt)
+25.03.2024: Zu den typischen Frühjahrspilzen gehört der Schildrötling *Entoloma clypeatum*, unser aktueller [Fundkorbpilz](AA "Glossar-"). In und um Dietzenbach gibt es mehrere standorttreue Vorkommen, unter anderem auf zwei Streuobstwiesen. Hier kann auch mit seinem optisch oft kaum unterscheidbaren Doppelgänger, dem [Schlehenrötling *Entoloma sepium*](/pilze/entoloma-sepium-schlehenrötling), gerechnet werden. Beide sind gute Speisepilze, Pilzsammler sollten jedoch auf der Hut sein. Unter den Rötlingen gibt es etliche giftige. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/entoloma-clypeatum-schildrötling)
 
