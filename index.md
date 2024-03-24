@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/entoloma_clypeatum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.03.2024: Zu den typischen Frühjahrspilzen gehört der Schildrötling *Entoloma clypeatum*, unser aktueller [Fundkorbpilz](AA "Glossar-"). In und um Dietzenbach gibt es mehrere standorttreue Vorkommen, unter anderem auf zwei Streuobstwiesen. Hier kann auch mit seinem optisch oft kaum unterscheidbaren Doppelgänger, dem Schlehenrötling *Entoloma sepium*, gerechnet werden. Beide sind gute Speisepilze, Pilzsammler sollten jedoch auf der Hut sein. Unter den Rötlingen gibt es etliche giftige. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/entoloma-clypeatum-schildrötling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/geopora_sumneriana_09_cw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 23.03.2024: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Ohrlöffelstacheling *Auriscalpium vulgare*, kann man durchaus als Kuriosität bezeichnen. Es handelt sich um eine unverwechselbare Gestalt auf einem unverwechselbaren Substrat: ein seitlich gestieltes braunes Pilzchen mit einer stacheligen Unterseite (dem [Hymenium](Hymenium "Glossar")), das ausschließlich auf Kiefernzapfen wächst und in keinem Kiefernwald fehlen dürfte. Könnte allerdings sein, dass der Zapfen im Boden vergraben liegt und nicht sofort sichtbar ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ganoderma_lucidum_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Glänzende Lackporling *Ganoderma lucidum*, der mit seinem roten, wie lackiert glänzenden Hut und Stiel immer wieder die Begeisterung der Pilzfreunde erregt. ln Ost- und Südostasien ist er seit Jahrtausenden ein viel gepriesener Heilpilz und gilt als „Pilz der Unsterblickeit“.  Das ist sicher etwas übertrieben, aber sein therapeutischer Nutzen ist längst auch im Westen wissenschaftlich anerkannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ganoderma-lucidum-glänzender-lackporling)
 
 <div style="clear:  both"></div>
 
