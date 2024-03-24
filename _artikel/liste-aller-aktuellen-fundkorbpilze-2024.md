@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-24.03.2024: [Geopora sumneriana - Zedern-Sandborstling](/pilze/geopora-sumneriana-zedern-sandborstling)  
+25.03.2024: [Entoloma clypeatum - Schildrötling](/pilze/entoloma-clypeatum-schildrötling)  
+24.03.2024: [Geopora sumneriana - Zedern-Sandborstling](/pilze/geopora-sumneriana-zedern-sandborstling)\
 23.03.2024: [Auriscalpium vulgare - Ohrlöffelstacheling](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)\
 22.03.2024: [Ganoderma lucidum - Glänzender Lackporling](/pilze/ganoderma-lucidum-glänzender-lackporling)\
 21.03.2024: [Paxillus involutus - Kahler Krempling](/pilze/paxillus-involutus-kahler-krempling)\
