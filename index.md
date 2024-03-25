@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/strobilurus_stephanocystis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bittere Kieferzapfenrübling *Strobilurus tenacellus*, ein sehr häufiger Pilz, der in keinem Kiefernwald fehlen dürfte und stets auf Kiefernzapfen wächst. Meist ist er an seinem bitteren Geschmack zu erkennen, er kann aber auch völlig mild sein. Dann wäre eine Verwechslung mit dem [Milden Kiefernzapfenrübling](/pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling) möglich, der genau so aussieht wie der Bittere. Sie sind nur mikroskopisch zu unterscheiden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/entoloma_clypeatum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 24.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zedern-Sandborstling *Geopora sumneriana*. Bei uns in Dietzenbach gibt es drei frei zugängliche Zedern und nun haben wir den beeindruckenden Pilz auch bei der dritten gefunden. Damit bestätigt sich meine Einschätzung, dass dieser bis zur Jahrtausendwende in Deutschland noch weitgehend unbekannte Pilz zuverlässiger Begleiter der vor allem im Mittelmeerraum heimischen Nadelbäume sein dürfte. Ein Aufruf von *Helgo Bran* im Jahre 1999, nach einem im Boden eingesenkten kelch- oder becherlingsartigen Pilz bei Zedern zu suchen, war in der Folge bundesweit von Erfolg gekrönt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/geopora-sumneriana-zedern-sandborstling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/auriscalpium_vulgare_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.03.2024: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Ohrlöffelstacheling *Auriscalpium vulgare*, kann man durchaus als Kuriosität bezeichnen. Es handelt sich um eine unverwechselbare Gestalt auf einem unverwechselbaren Substrat: ein seitlich gestieltes braunes Pilzchen mit einer stacheligen Unterseite (dem [Hymenium](Hymenium "Glossar")), das ausschließlich auf Kiefernzapfen wächst und in keinem Kiefernwald fehlen dürfte. Könnte allerdings sein, dass der Zapfen im Boden vergraben liegt und nicht sofort sichtbar ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)
 
 <div style="clear:  both"></div>
 
