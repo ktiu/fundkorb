@@ -25,7 +25,7 @@ Hier geht's zur [Anmeldung >](/termine)
 
 27.03.2024: Wenn man mal gar nichts findet - an vertrockneten Brennnesselstängeln vom Vorjahr hat man fast immer Erfolg. Zu Hunderten auf einem einzigen wächst zur Zeit das Orangerote Brennnesselbecherchen *Calloria neglecta* und ist daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Es fehlt in keinem Brennnesselbestand. Oft wird es vom [Zugespitzten Kugelpilz *Leptosphaeria acuta*](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz) begleitet, der sich dem bloßen Auge als winzige schwarze Pünktchen zeigt und erst mit der Lupe betrachtet sein wahres Gesicht offenbart. Dies gilt übrigens auch für die orangeroten Becherchen. (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)
+[Mehr lesen >](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)
 
 <div style="clear:  both"></div>
 
