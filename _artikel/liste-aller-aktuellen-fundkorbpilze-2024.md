@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-27.03.2024: [Calloria neglecta - Orangerotes Brennnesselbecherchen](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  
+28.03.2024: [Pycnoporus cinnabarina - Zinnoberrote Tramete](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)  
+27.03.2024: [Calloria neglecta - Orangerotes Brennnesselbecherchen](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)\
 26.03.2024: [Strobilurus tenacellus - Bitterer Kiefernzapfenrübling](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)\
 25.03.2024: [Entoloma clypeatum - Schildrötling](/pilze/entoloma-clypeatum-schildrötling)\
 24.03.2024: [Geopora sumneriana - Zedern-Sandborstling](/pilze/geopora-sumneriana-zedern-sandborstling)\
