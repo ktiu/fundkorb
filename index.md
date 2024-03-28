@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/entoloma_sepium_02_mm.jpg" %}
+{% include abbildung_ende.html %}
+
+29.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schlehenrötling *Entoloma sepium*. Es ist die zweite Rötlingsart, die wir in diesem Jahr in Dietzenbach gesichtet haben (nach seinem Doppelgänger, dem [Schildrötling](/pilze/entoloma-clypeatum-schildrötling), vor einigen Tagen). Wir fanden ihn am Geschichtspfad bei Dietzenbach am Rand eines ausgedehnten Schlehengestrüpps, in dem wir vor zwei Jahren ein Vorkommen von mehreren hundert entdeckt hatten. Es handelt sich um einen ausgezeichneten Speisepilz, den zu sammeln man aber nur erfahrenen Pilzfreunden empfehlen kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/entoloma-sepium-schlehenrötling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pycnoporus_cinnabarinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 27.03.2024: Wenn man mal gar nichts findet - an vertrockneten Brennnesselstängeln vom Vorjahr hat man fast immer Erfolg. Zu Hunderten auf einem einzigen wächst zur Zeit das Orangerote Brennnesselbecherchen *Calloria neglecta* und ist daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Es fehlt in keinem Brennnesselbestand. Oft wird es vom [Zugespitzten Kugelpilz *Leptosphaeria acuta*](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz) begleitet, der sich dem bloßen Auge als winzige schwarze Pünktchen zeigt und erst mit der Lupe betrachtet sein wahres Gesicht offenbart. Dies gilt übrigens auch für die orangeroten Becherchen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/strobilurus_stephanocystis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bittere Kieferzapfenrübling *Strobilurus tenacellus*, ein sehr häufiger Pilz, der in keinem Kiefernwald fehlen dürfte und stets auf Kiefernzapfen wächst. Meist ist er an seinem bitteren Geschmack zu erkennen, er kann aber auch völlig mild sein. Dann wäre eine Verwechslung mit dem [Milden Kiefernzapfenrübling](/pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling) möglich, der genau so aussieht wie der Bittere. Sie sind nur mikroskopisch zu unterscheiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)
 
 <div style="clear:  both"></div>
 
