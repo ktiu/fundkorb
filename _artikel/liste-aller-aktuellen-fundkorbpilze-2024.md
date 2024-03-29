@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-29.03.2024: [Entoloma sepium - Schlehenrötling](/pilze/entoloma-sepium-schlehenrötling)  
+30.03.2024: [Lophodermium petiolicola - Petiolen-Spaltlippe](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)  
+29.03.2024: [Entoloma sepium - Schlehenrötling](/pilze/entoloma-sepium-schlehenrötling)\
 28.03.2024: [Pycnoporus cinnabarina - Zinnoberrote Tramete](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)\
 27.03.2024: [Calloria neglecta - Orangerotes Brennnesselbecherchen](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)\
 26.03.2024: [Strobilurus tenacellus - Bitterer Kiefernzapfenrübling](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)\
