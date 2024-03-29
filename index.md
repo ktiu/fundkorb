@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lophodermium_petiolicola_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Petiolen-Spaltlippe *Lophodermium petiolicola*. Man findet die schiffchen- oder lippenförmigen Fruchtkörper schon früh im Jahr auf Blattstielen (*Petiolen*) von vorjährigen Roteichenblättern. Wie alle Spaltlippen wachsen sie gesellig und sind winzig klein, bis ca. 2 mm lang. Bei der hier gezeigten Art sind oft mehrere miteinander verbunden und können längere Ketten bilden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)
+
+[<div style="clear:  both"></div>](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/entoloma_sepium_02_mm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 28.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zinnobertramete *Pycnoporus cinnabarinus*. Es ist allein die rote Farbe, die sie von den Trameten der Gattung Trametes unterscheidet. Sie ist sogar in der Lage, das bewachsene Holz rötlich zu färben und der einzige europäische Verteter dieser Gattung, in der es weltweit zwei weitere in den Tropen beheimatete Arten gibt. *Pycnoporus cinnabarinus* gehört zu den Erstbesiedlern von totem Laubholz, ganz überwiegend Buche. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calloria_neglecta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.03.2024: Wenn man mal gar nichts findet - an vertrockneten Brennnesselstängeln vom Vorjahr hat man fast immer Erfolg. Zu Hunderten auf einem einzigen wächst zur Zeit das Orangerote Brennnesselbecherchen *Calloria neglecta* und ist daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Es fehlt in keinem Brennnesselbestand. Oft wird es vom [Zugespitzten Kugelpilz *Leptosphaeria acuta*](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz) begleitet, der sich dem bloßen Auge als winzige schwarze Pünktchen zeigt und erst mit der Lupe betrachtet sein wahres Gesicht offenbart. Dies gilt übrigens auch für die orangeroten Becherchen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)
 
 <div style="clear:  both"></div>
 
