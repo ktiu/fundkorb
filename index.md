@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinus_tigrinus_01_hl.jpg" %}
+{% include abbildung_ende.html %}
+
+01.04.2024: Die ersten Pilze bei unserer Kühkopf-Exkursion haben wir außerhalb des Naturschutzgebiets gefunden. Es ist der Getigerte Knäueling *Lentinus tigrinus*, der hier gerne tote am Boden liegende Weidenstämme besiedelt. Wegen seiner zähen Konsistenz ist unser [Fundkorbpilz](AA "Glossar-") für die Küche nicht geeignet. In früheren Jahren haben wir hier enorme Massenvorkommen mit mehr als tausend Fruchtkörpern beobachten und fotografieren können. (Dieter Gewalt)
+
+[Mehr lesen, schauen und staunen >](/pilze/lentinus-tigrinus-getigerter-knäueling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/morchella_esculenta_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
