@@ -12,10 +12,21 @@ footer_scripts:
 
 - - -
 
-Neue Exkursionstermine:\
-Samstag, 30.03.2024: Pilz- und naturkundliche Exkursion im NSG Kühkopf\
+Neuer Exkursionstermin:\
 Sonntag, 07.04.2024: Wir suchen den Maipilz\
 Hier geht's zur [Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/morchella_esculenta_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.03.2024: Bei unserer gestrigen Kühkopf-Exkursion hatten wir ein erklärtes Ziel. Unser aktueller [Fundkorbpilz](AA "Glossar-") sollte unbedingt die Speisemorchel *Morchella esculenta* sein. Wir mussten lange suchen und hatten schon die Hoffnung auf Erfolg aufgegeben, als wir doch noch zwei kleine Exemplare direkt am Wegrand fanden. Mit ihren rundlichen gelblich grauen und wabenartig gekammerten Hüten sind sie kaum mit anderen Arten zu verwechseln. Wir durften sie betrachten und fotografieren, im Naturschutzgebiet aber selbstverständlich nicht entnehmen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/morchella-esculenta-speisemorchel)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -38,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 29.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schlehenrötling *Entoloma sepium*. Es ist die zweite Rötlingsart, die wir in diesem Jahr in Dietzenbach gesichtet haben (nach seinem Doppelgänger, dem [Schildrötling](/pilze/entoloma-clypeatum-schildrötling), vor einigen Tagen). Wir fanden ihn am Geschichtspfad bei Dietzenbach am Rand eines ausgedehnten Schlehengestrüpps, in dem wir vor zwei Jahren ein Vorkommen von mehreren hundert entdeckt hatten. Es handelt sich um einen ausgezeichneten Speisepilz, den zu sammeln man aber nur erfahrenen Pilzfreunden empfehlen kann. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/entoloma-sepium-schlehenrötling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pycnoporus_cinnabarinus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zinnobertramete *Pycnoporus cinnabarinus*. Es ist allein die rote Farbe, die sie von den Trameten der Gattung Trametes unterscheidet. Sie ist sogar in der Lage, das bewachsene Holz rötlich zu färben und der einzige europäische Verteter dieser Gattung, in der es weltweit zwei weitere in den Tropen beheimatete Arten gibt. *Pycnoporus cinnabarinus* gehört zu den Erstbesiedlern von totem Laubholz, ganz überwiegend Buche. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)
 
 <div style="clear:  both"></div>
 
