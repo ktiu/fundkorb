@@ -24,7 +24,7 @@ Hier geht's zur [Anmeldung >](/termine)
 
 02.04.2024: Ebenfalls am Kühkopf haben wir unseren heutigen [Fundkorbpilz](AA "Glossar-"), den Morchelbecherling *Disciotis venosa*, gefunden. Er ist auch unter dem Namen „Flatschmorchel“ bekannt, jedoch keineswegs mit richtigen Morcheln verwandt aber ebenso schmackhaft wie diese. Die wie platt getreten aussehenden tellerförmigen Pilze, die auch nahezu tellergroß werden können, waren zwischen Bärlauch und Anemonen gut getarnt. Ihr untrügliches Kennzeichen ist ein auffälliger Chlorgeruch, der beim Erhitzen verschwindet und den Pilzgenuss in keiner Weise beeinträchtigt. (Dieter Gewalt) 
 
-[Mehr lesen >](<[Fundkorbpilz](AA "Glossar-")>)
+[Mehr lesen >](/pilze/disciotis-venosa-morchelbecherling)
 
 <div style="clear:  both"></div>
 
