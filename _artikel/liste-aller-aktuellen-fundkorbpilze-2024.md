@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+02.04.2024: [Disciotis venosa - Morchelbecherling](/pilze/disciotis-venosa-morchelbecherling)  
 01.04.2024: [Lentinus tigrinus - Getigerter Knäueling](/pilze/lentinus-tigrinus-getigerter-knäueling)
 
 31.03.2024: [Morchella esculenta - Speisemorchel](/pilze/morchella-esculenta-speisemorchel)\
