@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/disciotis_venosa_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.04.2024: Ebenfalls am Kühkopf haben wir unseren heutigen [Fundkorbpilz](AA "Glossar-"), den Morchelbecherling *Disciotis venosa*, gefunden. Er ist auch unter dem Namen „Flatschmorchel“ bekannt, jedoch keineswegs mit richtigen Morcheln verwandt aber ebenso schmackhaft wie diese. Die wie platt getreten aussehenden tellerförmigen Pilze, die auch nahezu tellergroß werden können, waren zwischen Bärlauch und Anemonen gut getarnt. Ihr untrügliches Kennzeichen ist ein auffälliger Chlorgeruch, der beim Erhitzen verschwindet und den Pilzgenuss in keiner Weise beeinträchtigt. (Dieter Gewalt) 
+
+[Mehr lesen >](<[Fundkorbpilz](AA "Glossar-")>)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lentinus_tigrinus_01_hl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,30 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 31.03.2024: Bei unserer gestrigen Kühkopf-Exkursion hatten wir ein erklärtes Ziel. Unser aktueller [Fundkorbpilz](AA "Glossar-") sollte unbedingt die Speisemorchel *Morchella esculenta* sein. Wir mussten lange suchen und hatten schon die Hoffnung auf Erfolg aufgegeben, als wir doch noch zwei kleine Exemplare direkt am Wegrand fanden. Mit ihren rundlichen gelblich grauen und wabenartig gekammerten Hüten sind sie kaum mit anderen Arten zu verwechseln. Wir durften sie betrachten und fotografieren, im Naturschutzgebiet aber selbstverständlich nicht entnehmen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/morchella-esculenta-speisemorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lophodermium_petiolicola_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Petiolen-Spaltlippe *Lophodermium petiolicola*. Man findet die schiffchen- oder lippenförmigen Fruchtkörper schon früh im Jahr auf Blattstielen (*Petiolen*) von vorjährigen Roteichenblättern. Wie alle Spaltlippen wachsen sie gesellig und sind winzig klein, bis ca. 2 mm lang. Bei der hier gezeigten Art sind oft mehrere miteinander verbunden und können längere Ketten bilden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)
-
-[<div style="clear:  both"></div>](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/entoloma_sepium_02_mm.jpg" %}
-{% include abbildung_ende.html %}
-
-29.03.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schlehenrötling *Entoloma sepium*. Es ist die zweite Rötlingsart, die wir in diesem Jahr in Dietzenbach gesichtet haben (nach seinem Doppelgänger, dem [Schildrötling](/pilze/entoloma-clypeatum-schildrötling), vor einigen Tagen). Wir fanden ihn am Geschichtspfad bei Dietzenbach am Rand eines ausgedehnten Schlehengestrüpps, in dem wir vor zwei Jahren ein Vorkommen von mehreren hundert entdeckt hatten. Es handelt sich um einen ausgezeichneten Speisepilz, den zu sammeln man aber nur erfahrenen Pilzfreunden empfehlen kann. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/entoloma-sepium-schlehenrötling)
 
 <div style="clear:  both"></div>
 
