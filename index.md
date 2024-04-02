@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/blumeria_graminis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.04.2024: Mehltaupilze sind natürlich auch in Naturschutzgebieten wie dem Kühkopf gegenwärtig. Einer an Gräsern ist der als mehliger weißer Belag erscheinende Echte Mehltau *Blumeria graminis* und unser heutiger [Fundkorbpilz](AA "Glossar-"). Er hat uns auf einer langen Wegstrecke begleitet, aber nur wenig Beachtung gefunden. Solange er nicht die Ähren befällt, ist er harmlos. In intakten Ökosystemen ist er ein lebenswichtiger Nahrungslieferant für Marienkäfer. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/blumeria-graminis-echter-mehltau)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/disciotis_venosa_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 01.04.2024: Die ersten Pilze bei unserer Kühkopf-Exkursion haben wir außerhalb des Naturschutzgebiets gefunden. Es ist der Getigerte Knäueling *Lentinus tigrinus*, der hier gerne tote am Boden liegende Weidenstämme besiedelt. Wegen seiner zähen Konsistenz ist unser [Fundkorbpilz](AA "Glossar-") für die Küche nicht geeignet. In früheren Jahren haben wir hier enorme Massenvorkommen mit mehr als tausend Fruchtkörpern beobachten und fotografieren können. (Dieter Gewalt)
 
 [Mehr lesen, schauen und staunen >](/pilze/lentinus-tigrinus-getigerter-knäueling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/morchella_esculenta_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.03.2024: Bei unserer gestrigen Kühkopf-Exkursion hatten wir ein erklärtes Ziel. Unser aktueller [Fundkorbpilz](AA "Glossar-") sollte unbedingt die Speisemorchel *Morchella esculenta* sein. Wir mussten lange suchen und hatten schon die Hoffnung auf Erfolg aufgegeben, als wir doch noch zwei kleine Exemplare direkt am Wegrand fanden. Mit ihren rundlichen gelblich grauen und wabenartig gekammerten Hüten sind sie kaum mit anderen Arten zu verwechseln. Wir durften sie betrachten und fotografieren, im Naturschutzgebiet aber selbstverständlich nicht entnehmen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/morchella-esculenta-speisemorchel)
 
 <div style="clear:  both"></div>
 
