@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/daldinia_childiae_12_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birnen-Kohlenpilz *Daldinia childiae*. Nach mehreren Aufsammlungen im Frankfurter Stadtwald haben wir ihn auch im Naturschutzgebiet Kühkopf bei Stockstadt am Rhein gefunden. Und zwar schon im dritten Jahr in Folge an zwei toten Rosskastanienstämmen. Am beeindruckendsten war die Agglomeration auf der Schnittfläche. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/daldinia-childiae-birnen-kohlenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/blumeria_graminis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 02.04.2024: Ebenfalls am Kühkopf haben wir unseren heutigen [Fundkorbpilz](AA "Glossar-"), den Morchelbecherling *Disciotis venosa*, gefunden. Er ist auch unter dem Namen „Flatschmorchel“ bekannt, jedoch keineswegs mit richtigen Morcheln verwandt aber ebenso schmackhaft wie diese. Die wie platt getreten aussehenden tellerförmigen Pilze, die auch nahezu tellergroß werden können, waren zwischen Bärlauch und Anemonen gut getarnt. Ihr untrügliches Kennzeichen ist ein auffälliger Chlorgeruch, der beim Erhitzen verschwindet und den Pilzgenuss in keiner Weise beeinträchtigt. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/disciotis-venosa-morchelbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lentinus_tigrinus_01_hl.jpg" %}
-{% include abbildung_ende.html %}
-
-01.04.2024: Die ersten Pilze bei unserer Kühkopf-Exkursion haben wir außerhalb des Naturschutzgebiets gefunden. Es ist der Getigerte Knäueling *Lentinus tigrinus*, der hier gerne tote am Boden liegende Weidenstämme besiedelt. Wegen seiner zähen Konsistenz ist unser [Fundkorbpilz](AA "Glossar-") für die Küche nicht geeignet. In früheren Jahren haben wir hier enorme Massenvorkommen mit mehr als tausend Fruchtkörpern beobachten und fotografieren können. (Dieter Gewalt)
-
-[Mehr lesen, schauen und staunen >](/pilze/lentinus-tigrinus-getigerter-knäueling)
 
 <div style="clear:  both"></div>
 
