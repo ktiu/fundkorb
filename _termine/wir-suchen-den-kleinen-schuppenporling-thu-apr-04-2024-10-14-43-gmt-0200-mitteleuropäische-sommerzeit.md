@@ -1,7 +1,7 @@
 ---
 aktivitaet: Wir suchen den Kleinen Schuppenporling
-zeit: 2024-04-04T08:14:43.084Z
-bis: 2024-04-21T10:00:00.000Z
+zeit: 2024-04-28T10:00:43.084Z
+bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
 published: true
