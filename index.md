@@ -15,8 +15,20 @@ footer_scripts:
 Neue Exkursionstermine:\
 Sonntag, 07.04.2024: Wir suchen den Maipilz **\- ausgebucht -**\
 Sonntag, 21.04.2024: Zwei-Weiher-Exkursion\
-Sonntag, 28.04.2024: Wir suchen den Kleinen Schuppenporling  
+Sonntag, 28.04.2024: Wir suchen den Kleinen Schuppenporling\
 Hier geht's zur [Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/psathyrella_spadiceogrisea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schmalblättrige Faserling *Psathyrella spadiceogrisea*. Wegen seiner frühen Erscheinungszeit wird er auch Früher Mürbling genannt.  In diesem Jahr ist er besonders früh, auch im NSG Kühkopf - kein Wunder bei den für die Jahreszeit zu milden Temperaturen! Im Gegensatz zu seinem Doppelgänger, dem [Behangenen Faserling Psathyrella candolleana](/pilze/psathyrella-candolleana-behangener-faserling), ist er für die Küche kaum zu empfehlen.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/psathyrella-spadiceogrisea-schmalblättriger-faserling-früher-mürbling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -39,18 +51,6 @@ Hier geht's zur [Anmeldung >](/termine)
 03.04.2024: Mehltaupilze sind natürlich auch in Naturschutzgebieten wie dem Kühkopf gegenwärtig. Einer an Gräsern ist der als mehliger weißer Belag erscheinende Echte Mehltau *Blumeria graminis* und unser heutiger [Fundkorbpilz](AA "Glossar-"). Er hat uns auf einer langen Wegstrecke begleitet, aber nur wenig Beachtung gefunden. Solange er nicht die Ähren befällt, ist er harmlos. In intakten Ökosystemen ist er ein lebenswichtiger Nahrungslieferant für Marienkäfer. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/blumeria-graminis-echter-mehltau)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/disciotis_venosa_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.04.2024: Ebenfalls am Kühkopf haben wir unseren heutigen [Fundkorbpilz](AA "Glossar-"), den Morchelbecherling *Disciotis venosa*, gefunden. Er ist auch unter dem Namen „Flatschmorchel“ bekannt, jedoch keineswegs mit richtigen Morcheln verwandt aber ebenso schmackhaft wie diese. Die wie platt getreten aussehenden tellerförmigen Pilze, die auch nahezu tellergroß werden können, waren zwischen Bärlauch und Anemonen gut getarnt. Ihr untrügliches Kennzeichen ist ein auffälliger Chlorgeruch, der beim Erhitzen verschwindet und den Pilzgenuss in keiner Weise beeinträchtigt. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/disciotis-venosa-morchelbecherling)
 
 <div style="clear:  both"></div>
 
