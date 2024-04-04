@@ -15,7 +15,7 @@ footer_scripts:
 Neue Exkursionstermine:\
 Sonntag, 07.04.2024: Wir suchen den Maipilz **\- ausgebucht -**\
 Sonntag, 21.04.2024: Zwei-Weiher-Exkursion\
-Sonntag, 28.04.2024: Wir suchen den Kleinen Schuppenporling
+Sonntag, 28.04.2024: Wir suchen den Kleinen Schuppenporling  
 Hier geht's zur [Anmeldung >](/termine)
 
 - - -
