@@ -13,7 +13,7 @@ footer_scripts:
 - - -
 
 Neue Exkursionstermine:\
-Sonntag, 07.04.2024: Wir suchen den Maipilz **\- ausgebucht -**  
+Sonntag, 07.04.2024: Wir suchen den Maipilz **\- ausgebucht -**\
 Sonntag, 21.04.2024: Zwei-Weiher-Exkursion\
 Sonntag, 28.04.2024: Wir suchen den Kleinen Schuppenporling
 Hier geht's zur [Anmeldung >](/termine)
@@ -24,7 +24,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/daldinia_childiae_12_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-04.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birnen-Kohlenpilz *Daldinia childiae*. Nach mehreren Aufsammlungen im Frankfurter Stadtwald haben wir ihn auch im Naturschutzgebiet Kühkopf bei Stockstadt am Rhein gefunden. Und zwar schon im dritten Jahr in Folge an zwei toten Rosskastanienstämmen. Am beeindruckendsten war die Agglomeration auf der Schnittfläche. (Dieter Gewalt)
+04.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birnen-Kohlenpilz *Daldinia childiae*. Nach mehreren Aufsammlungen im Frankfurter Stadtwald haben wir ihn auch im Naturschutzgebiet Kühkopf bei Stockstadt am Rhein gefunden, und zwar schon im dritten Jahr in Folge an zwei toten Rosskastanienstämmen. Pilze der Gattung *Daldinia* sind an den konzentrischen Streifen im Inneren der Fruchtkörper zu erkennen; man muss sie daher anschneiden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/daldinia-childiae-birnen-kohlenpilz)
 
