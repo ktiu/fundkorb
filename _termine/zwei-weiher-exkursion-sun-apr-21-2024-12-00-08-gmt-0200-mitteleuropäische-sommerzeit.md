@@ -5,7 +5,8 @@ bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
 published: true
-bilder: []
+bilder:
+  - /bilder/zwei-weiher-exkursion_01_dg.png
 ---
 Schon auf dem Weg zu diesen beiden Weihern im Frankfurter und Offenbacher Stadtwald darf mit interessanten Pilzfunden gerechnet werden. Auch deren Ränder sind Habitate für Arten, die man nicht überall findet. Mit etwas Glück darf zu dieser Jahreszeit auch mit einigen Speisepilzen gerechnet werden. Pilzwachstum an Holz gibt es auf jeden Fall und wir erfahren, wie ein Wald in einem perfekten System von Abhängigkeiten und Wechselwirkungen funktioniert, in dem Pilze eine besondere Rolle spielen.
 
