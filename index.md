@@ -13,7 +13,7 @@ footer_scripts:
 - - -
 
 Neuer Exkursionstermin:\
-Sonntag, 07.04.2024: Wir suchen den Maipilz\
+Sonntag, 21.04.2024: Zwei-Weiher-Exkursion\
 Hier geht's zur [Anmeldung >](/termine)
 
 - - -
