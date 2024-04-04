@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-04.04.2024: [Daldinia childiae - Birnen-Kohlenpilz](/pilze/daldinia-childiae-birnen-kohlenpilz)  
+05.04.2024: [Psathyrella spadiceogrisea - Schmalblättriger Faserling](/pilze/psathyrella-spadiceogrisea-schmalblättriger-faserling-früher-mürbling)  
+04.04.2024: [Daldinia childiae - Birnen-Kohlenpilz](/pilze/daldinia-childiae-birnen-kohlenpilz)\
 03.04.2024: [Blumeria graminis - Echter Mehltau](/pilze/blumeria-graminis-echter-mehltau)\
 02.04.2024: [Disciotis venosa - Morchelbecherling](/pilze/disciotis-venosa-morchelbecherling)\
 01.04.2024: [Lentinus tigrinus - Getigerter Knäueling](/pilze/lentinus-tigrinus-getigerter-knäueling)
