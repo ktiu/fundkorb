@@ -21,6 +21,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinus_comatus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.04.2024: Auch der Schopftintling *Coprinus comatus* ist ein Frühchen. Grund genug, ihn zum aktuellen [Fundkorbpilz](AA "Glossar-") zu erklären. Er gehört zu den wenigen Arten, die von Pilz-Apps auf Anhieb erkannt werden. Und zu denen, die es lohnt, gesammelt zu werden. Als Spargel- oder Suppenpilz oder für die Pfanne ist er bestens geeignet, solange er noch komplett weiß ist. Wenn er anfängt zu zerfließen, kann man ihn nur noch wie schwarze Tinte zum Schreiben verwenden. In England wird er "Shaggy Mane" genannt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/coprinus-comatus-schopftintling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/psathyrella_spadiceogrisea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Hier geht's zur [Anmeldung >](/termine)
 04.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birnen-Kohlenpilz *Daldinia childiae*. Nach mehreren Aufsammlungen im Frankfurter Stadtwald haben wir ihn auch im Naturschutzgebiet Kühkopf bei Stockstadt am Rhein gefunden, und zwar schon im dritten Jahr in Folge an zwei toten Rosskastanienstämmen. Pilze der Gattung *Daldinia* sind an den konzentrischen Streifen im Inneren der Fruchtkörper zu erkennen; man muss sie daher anschneiden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/daldinia-childiae-birnen-kohlenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/blumeria_graminis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.04.2024: Mehltaupilze sind natürlich auch in Naturschutzgebieten wie dem Kühkopf gegenwärtig. Einer an Gräsern ist der als mehliger weißer Belag erscheinende Echte Mehltau *Blumeria graminis* und unser heutiger [Fundkorbpilz](AA "Glossar-"). Er hat uns auf einer langen Wegstrecke begleitet, aber nur wenig Beachtung gefunden. Solange er nicht die Ähren befällt, ist er harmlos. In intakten Ökosystemen ist er ein lebenswichtiger Nahrungslieferant für Marienkäfer. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/blumeria-graminis-echter-mehltau)
 
 <div style="clear:  both"></div>
 
