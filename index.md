@@ -21,6 +21,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calocybe_gambosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maipilz *Calocybe gambosa*, auf den man seit der Klimaerwärmung nicht mehr bis Mai warten muss. Wir werden ihn heute bei unserer Exkursion mit Sicherheit zu sehen kriegen. Es gibt wohl kaum einen anderen Speisepilz, der so konträr beurteilt wird wie dieser. Manche mögen ihn, andere verabscheuen ihn oder finden ihn gar zum Kotzen. Sein aufdringlicher Geruch nach ranzigem Mehl verdirbt schon vielen den Appetit und ich persönlich finde, er schmeckt auch so oder noch ranziger wie er riecht. Da kommt's wohl auf das Würzen an. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/calocybe-gambosa-maipilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinus_comatus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Hier geht's zur [Anmeldung >](/termine)
 05.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schmalblättrige Faserling *Psathyrella spadiceogrisea*. Wegen seiner frühen Erscheinungszeit wird er auch Früher Mürbling genannt.  In diesem Jahr ist er besonders früh, auch im NSG Kühkopf - kein Wunder bei den für die Jahreszeit zu milden Temperaturen! Im Gegensatz zu seinem Doppelgänger, dem [Behangenen Faserling Psathyrella candolleana](/pilze/psathyrella-candolleana-behangener-faserling), ist er für die Küche kaum zu empfehlen.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/psathyrella-spadiceogrisea-schmalblättriger-faserling-früher-mürbling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/daldinia_childiae_12_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birnen-Kohlenpilz *Daldinia childiae*. Nach mehreren Aufsammlungen im Frankfurter Stadtwald haben wir ihn auch im Naturschutzgebiet Kühkopf bei Stockstadt am Rhein gefunden, und zwar schon im dritten Jahr in Folge an zwei toten Rosskastanienstämmen. Pilze der Gattung *Daldinia* sind an den konzentrischen Streifen im Inneren der Fruchtkörper zu erkennen; man muss sie daher anschneiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/daldinia-childiae-birnen-kohlenpilz)
 
 <div style="clear:  both"></div>
 
