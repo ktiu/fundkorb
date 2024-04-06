@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-06.04.2024: [Coprinus comatus - Schopftintling](/pilze/coprinus-comatus-schopftintling)  
+07.04.2024: [Calocybe gambosa - Maipilz](/pilze/calocybe-gambosa-maipilz)  
+06.04.2024: [Coprinus comatus - Schopftintling](/pilze/coprinus-comatus-schopftintling)\
 05.04.2024: [Psathyrella spadiceogrisea - Schmalblättriger Faserling](/pilze/psathyrella-spadiceogrisea-schmalblättriger-faserling-früher-mürbling)\
 04.04.2024: [Daldinia childiae - Birnen-Kohlenpilz](/pilze/daldinia-childiae-birnen-kohlenpilz)\
 03.04.2024: [Blumeria graminis - Echter Mehltau](/pilze/blumeria-graminis-echter-mehltau)\
