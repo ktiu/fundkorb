@@ -23,7 +23,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/dumontinia_tuberosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-08.04.2024: Wo Buschwindröschen (Anemonen) den Boden bedecken, ist der Anemonenbecherling *Dumontinia tuberosa* oft nicht weit. Er parasitiert auf den Frühblühern und ist dabei über ein unterirdisches Sklerotium mit seiner Wirtspflanze verbunden. Die kleinen, braunen Becherlinge sind so unauffällig, dass sie ohne gezielte Suche nur selten entdeckt werden. Am meisten Glück hat man an Stellen, an denen die Buschwindröschen nicht ganz so dicht wachsen und etwas kümmerlich erscheinen. Den aktuellen [Fundkorbpilz](AA "Glossar-") haben wir in einem Erlenbruch südwestlich von München aufspüren und samt [Sklerotium](Sklerotium "Glossar") aus dem Boden bergen können. (Veronika Ziegltrum)
+08.04.2024: Wo Buschwindröschen (Anemonen) den Boden bedecken, ist der Anemonenbecherling *Dumontinia tuberosa* oft nicht weit. Er parasitiert auf den Frühblühern und ist dabei über ein unterirdisches [Sklerotium](Sklerotium "Glossar") mit seiner Wirtspflanze verbunden. Die kleinen, braunen Becherlinge sind so unauffällig, dass sie ohne gezielte Suche nur selten entdeckt werden. Am meisten Glück hat man an Stellen, an denen die Buschwindröschen nicht ganz so dicht wachsen und etwas kümmerlich erscheinen. Den aktuellen [Fundkorbpilz](AA "Glossar-") haben wir in einem Erlenbruch südwestlich von München aufspüren und samt Sklerotium aus dem Boden bergen können. (Veronika Ziegltrum)
 
 [Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
 
