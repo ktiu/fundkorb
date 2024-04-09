@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-09.04.2024: [Parasola leiocephala - Kahlköpfiger Scheibchentintling](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)  
+10.04.2024: [Entoloma hirtipes - Gebrechlicher Glöckling](/pilze/entoloma-hirtipes-gebrechlicher-glöckling)  
+09.04.2024: [Parasola leiocephala - Kahlköpfiger Scheibchentintling](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)\
 08.04.2024: [Dumontinia tuberosa - Anemonenbecherling](/pilze/dumontinia-tuberosa-anemonenbecherling)\
 07.04.2024: [Calocybe gambosa - Maipilz](/pilze/calocybe-gambosa-maipilz)\
 06.04.2024: [Coprinus comatus - Schopftintling](/pilze/coprinus-comatus-schopftintling)\
