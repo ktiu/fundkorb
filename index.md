@@ -55,30 +55,6 @@ Hier geht's zur [Anmeldung >](/termine)
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calocybe_gambosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maipilz *Calocybe gambosa*, auf den man seit der Klimaerwärmung nicht mehr bis Mai warten muss. Wir werden ihn heute bei unserer Exkursion mit Sicherheit zu sehen kriegen. Es gibt wohl kaum einen anderen Speisepilz, der so konträr beurteilt wird wie dieser. Manche mögen ihn, andere verabscheuen ihn oder finden ihn gar zum Kotzen. Sein aufdringlicher Geruch nach ranzigem Mehl verdirbt schon vielen den Appetit und ich persönlich finde, er schmeckt auch so oder noch ranziger wie er riecht. Da kommt's wohl auf das Würzen an. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/calocybe-gambosa-maipilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinus_comatus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.04.2024: Auch der Schopftintling *Coprinus comatus* ist ein Frühchen. Grund genug, ihn zum aktuellen [Fundkorbpilz](AA "Glossar-") zu erklären. Er gehört zu den wenigen Arten, die von Pilz-Apps auf Anhieb erkannt werden. Und zu denen, die es lohnt, gesammelt zu werden. Als Spargel- oder Suppenpilz oder für die Pfanne ist er bestens geeignet, solange er noch komplett weiß ist. Wenn er anfängt zu zerfließen, kann man ihn nur noch wie schwarze Tinte zum Schreiben verwenden. In England wird er "Shaggy Mane" genannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coprinus-comatus-schopftintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
