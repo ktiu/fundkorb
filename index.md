@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_acetabulum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Hochgerippte Lorchel *Helvella acetabulum*.  Mir persönlich gefällt der deutsche Name Pokalrippenbecherling besser. Perfekt geformte Fruchtkörper haben in der Tat die Gestalt eines Pokals. Die Sporen werden im Inneren des Kelches gebildet. Wenn man reife Fruchtkörper aus dem Schatten ins Sonnenlicht bewegt, kann man sehr schön beobachten, wie nahezu explosionsartig eine Sporenstaubwolke freigesetzt wird. Gefunden haben wir etliche noch junge Exemplare an einem Wegrand bei einer Dietzenbacher Streuobstwiese. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/helvella-acetabulum-hochgerippte-lorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/entoloma_hirtipes_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 09.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kahlköpfige Scheibchentintling *Parasola leiocephala*. Wir haben ihn immer mal wieder in unserem Dietzenbacher Carré an der Rodgaustraße gefunden und das auch schon früh im Jahr. In der Gattung *Parasola* stehen Tintlinge, die kein [Velum](<Velum "Glossar">) besitzen und im Alter nicht zu schwarzer Tinte zerfließen, sondern lediglich verwelken. Sie werden auch Rädchentintlinge genannt. Von ähnlichen Arten vor allem durch unterschiedliche Sporenmaße unterschieden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/dumontinia_tuberosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.04.2024: Wo Buschwindröschen (Anemonen) den Boden bedecken, ist der Anemonenbecherling *Dumontinia tuberosa* oft nicht weit. Er parasitiert auf den Frühblühern und ist dabei über ein unterirdisches [Sklerotium](Sklerotium "Glossar") mit seiner Wirtspflanze verbunden. Die kleinen, braunen Becherlinge sind so unauffällig, dass sie ohne gezielte Suche nur selten entdeckt werden. Am meisten Glück hat man an Stellen, an denen die Buschwindröschen nicht ganz so dicht wachsen und etwas kümmerlich erscheinen. Den aktuellen [Fundkorbpilz](AA "Glossar-") haben wir in einem Erlenbruch südwestlich von München aufspüren und samt Sklerotium aus dem Boden bergen können. (Veronika Ziegltrum)
-
-[Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
 
 <div style="clear:  both"></div>
 
