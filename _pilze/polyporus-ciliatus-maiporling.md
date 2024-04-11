@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/p/Polyporus_ciliatus.html
 ---
-Die meisten Stielporlinge sind gekennzeichnet durch deutliche Gliederung in Hut und zentralen Stiel. Einige seitlich gestielte Arten sind inzwischen in neu geschaffene Gattungen überführt worden, während die zentral gestielten mit ihren typischen Vertretern Mai- und Winterporling in die Gattung *Lentinus* transferiert wurden, die bisher ausschließlich lamellige Arten enthielt. Laut Index fungorum ist dieser Transfer inzwischen rückgängig gemacht worden und er darf wieder *Polyporus lepideus* genannt werden. Bei Wikipedia wird er tatsächlich als „Schuppiger Sägeblättling“ bezeichnet, eine Verunglimpfung jeden Sprachverständnisses. 
+Die meisten Stielporlinge sind gekennzeichnet durch deutliche Gliederung in Hut und zentralen Stiel. Einige seitlich gestielte Arten sind inzwischen in neu geschaffene Gattungen überführt worden, während die zentral gestielten mit ihren typischen Vertretern Mai- und Winterporling in die Gattung *Lentinus* transferiert wurden, die bisher ausschließlich lamellige Arten enthielt. Laut Index fungorum ist dieser Transfer inzwischen rückgängig gemacht worden und der Maiporling darf wieder *Polyporus lepideus* genannt werden. Bei Wikipedia wird er tatsächlich immer noch (Stand 04.2024) als „Schuppiger Sägeblättling“ bezeichnet! 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/polyporus_ciliatus_02_dg.jpg" %}
