@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-12.04.2024: [Polyporus melanopus - Schwarzfuß-Porling](/pilze/polyporus-melanopus-schwarzfuß-porling)  
+13.04.2024: [Taphrina pruni - Pflaumen-Narrentasche](pilze/taphrina-pruni-pflaumen-narrentasche)  
+12.04.2024: [Polyporus melanopus - Schwarzfuß-Porling](/pilze/polyporus-melanopus-schwarzfuß-porling)\
 11.04.2024: [Helvella acetabulum - Hochgerippte Lorchel](/pilze/helvella-acetabulum-hochgerippte-lorchel)\
 10.04.2024: [Entoloma hirtipes - Gebrechlicher Glöckling](/pilze/entoloma-hirtipes-gebrechlicher-glöckling)\
 09.04.2024: [Parasola leiocephala - Kahlköpfiger Scheibchentintling](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)\
