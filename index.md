@@ -20,7 +20,7 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peziza_varia_01_dg.jpg" %}
+{% include bild.html datei="/bilder/peziza_varia_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 14.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenbecherling *Peziza varia*. So riesig wie sein deutscher Name vermuten lässt, ist er meist gar nicht. Manche Fruchtkörper dieser ausschließlich an morschem oder faulendem Holz wachsenden Art erreichen kaum mehr als 2 bis 3 Zentimeter Durchmesser. Bei seiner Bestimmung ist auf Verwechslungsmöglichkeiten mit anderen sehr ähnlichen Becherlingen zu achten, was mit einigem Mikroskopieraufwand verbunden ist. (Dieter Gewalt)
