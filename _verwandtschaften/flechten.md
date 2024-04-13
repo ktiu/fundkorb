@@ -40,3 +40,21 @@ An und auf den Blättern von Flechten (auch Lappen oder Loben genannt) finden si
 Auf ihnen entwickeln sich sogenannte *Soredien*, die der vegetativen (ungeschlechtlichen) Vermehrung dienen und bei Reife vom Wind gelöst und verbreitet werden. Zur Unterscheidung von Flechtenarten sind sie von Bedeutung. Sie können vorhanden sein oder grundsätzlich fehlen.
 
 Ebenfalls nur mit gut vergrößernder Lupe sind *Isidien* und *Rhizine* wahrzunehmen. Isidien sind unterschiedlich geformte Auswüchse auf den Blattoberseiten, die spatelförmig bis keulig, koralloid, warzenartig oder einfach bis verzweigt zylindrisch geformt sind.
+
+# Nahaufnahme von Rhizinen - zu ergänzen
+
+Sie können sich leicht ablösen und vom Wind weggetragen werden, um sich an anderer Stelle zu neuen Flechten zu entwickeln. Auch hierbei handelt es sich um eine Form der ungeschlechtlichen Vermehrung.
+
+# Nahaufnahme von Isidien - zu ergänzen
+
+Rhizine sind dorn- oder wurzelartige Haftfasern an den Blattunterseiten, mit denen die Flechte am Substrat befestigt sind. Beim Substrat kann es sich um Baumrinde, Holz, Moos, Erdboden, Mauern, Beton, Gestein, Asphalt oder sogar Metall handeln.
+
+Flechten sind eine Lebensgemeinschaft (Symbiose) aus einem Pilz und einer Alge, in der beide Partner voneinander profitieren. Den weitaus größten Anteil am Vegetationskörper hat der Pilz, bei dem es sich überwiegend um Schlauchpilze (Ascomyzeten) handelt, weshalb Flechten in der Systematik der belebten Natur zu den Pilzen gehören. Bei ihren Symbiosepartnern handelt es sich um Grünalgen und Cyanobakterien (Blaualgen), die zur Fotosynthese fähig sind und so zur Nahrungsbeschaffung beitragen. Dabei wird CO2 gebunden und Sauerstoff freigesetzt. Darüberhinaus schützen sie den Pilz vor Wasserverlust und starker Sonnenbestrahlung.
+
+> Mit Hilfe der Symbiose haben die beteiligten Pilze und Algen/Cyanobakterien ihre ökologischen Möglichkeiten erheblich erweitert und sind in der Lage, Standorte zu besiedeln, die sie allein nicht erfolgreich einnehmen könnten." (Ulrich Kirschbaum / Volkmar Wirth 2010)
+
+Dazu gehören die lebensfeindlichsten Standorte wie nackte Felsen und Regionen wie die Antarktis, in der an die hundert Flechtenarten gedeihen. Weltweit sind etwa 25.000 bekannt. Entgegen einer weit verbreiteten Einschätzung fügt eine Flechte ihrem pflanzlichen Substrat, an dem sie wächst, keinerlei Schaden zu. Es dient ihr nur als Auflage, in die sie nicht eindringt und ihr weder Wasser noch Nährstoffe entzieht.
+
+Eine grobe und völlig unsystematische Einteilung der Flechten kann man nach Form und Anwuchsart am Substrat in Blatt-, Strauch- und Krustenflechten vornehmen, was dem beobachtenden Naturfreund durchaus entgegenkommt und ihm einen unkomplizierten Einstieg in die Lichenologie ermöglicht. Eine nützliche Hilfe beim Bestimmen einzelner Aerten sind chemische Reagenzien, vor allem Kalilauge (KOH) und p-Phenylendiamin (PPD), die leicht anzuwenden sind und arttypische Farbreaktionen auf den Thalli oder anderen Bestandteilen einer Flechte zeigen. 
+
+**Blattflechten**, gelegentlich auch Laubflechten genannt, bestehen aus unterschiedlich geformten blattartigen Lappen (auch Loben genannt). Sie sind mit mehreren Haftorganen (Rhizinen) lose an ihrem Substrat angewachsen. Sie können daher leicht als Ganzes abgelöst werden. Typische und häufige Blattflechten sind zum Beispiel:
