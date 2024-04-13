@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peziza_varia_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenbecherling *Peziza varia*. So riesig wie sein deutscher Name vermuten lässt, ist er meist gar nicht. Manche Fruchtkörper dieser ausschließlich an morschem oder faulendem Holz wachsenden Art erreichen kaum mehr als 2 bis 3 Zentimeter Durchmesser. Bei seiner Bestimmung ist auf Verwechslungsmöglichkeiten mit anderen sehr ähnlichen Becherlingen zu achten, was mit einigem Mikroskopieraufwand verbunden ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/peziza-varia-riesenbecherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/taphrina_pruni_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 12.04.2024: Der recht seltene dunkelbraunhütige Stielporling am Dietzenbacher Wollwiesenteich war aufgrund seiner schwarzbraunen Stielbasis und seiner Größe leicht als Schwarzfuß-Porling *Polyporus melanopus* zu identifizieren. Damit ist unser aktueller [Fundkorbpilz](AA "Glossar-") makroskopisch gut festgelegt und kaum zu verwechseln. Inzwischen muss er auf den Namen Picipes melanopus hören. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/polyporus-melanopus-schwarzfuß-porling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_acetabulum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Hochgerippte Lorchel *Helvella acetabulum*.  Mir persönlich gefällt der deutsche Name Pokalrippenbecherling besser. Perfekt geformte Fruchtkörper haben in der Tat die Gestalt eines Pokals. Die Sporen werden im Inneren des Kelches gebildet. Wenn man reife Fruchtkörper aus dem Schatten ins Sonnenlicht bewegt, kann man sehr schön beobachten, wie nahezu explosionsartig eine Sporenstaubwolke freigesetzt wird. Gefunden haben wir etliche noch junge Exemplare an einem Wegrand bei einer Dietzenbacher Streuobstwiese. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/helvella-acetabulum-hochgerippte-lorchel)
 
 <div style="clear:  both"></div>
 
