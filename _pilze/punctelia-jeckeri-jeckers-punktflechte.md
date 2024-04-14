@@ -25,7 +25,7 @@ literatur:
 {% include bild.html datei="/bilder/punctelia_-jeckeri_02_sm.jpg" gross=true %}
 {% include abbildung_ende.html legende="Die kreis- bis kurzstrichförmigen Sorale entwickeln sich aus punktförmigen Pseudocyphellen, der Lappenrand ist bräunlich (4 Fotos: Stefan Miggel)" %}
 
-Die hier vorgestellte Jeckers Punktflechte *Punctelia jeckeri* fanden wir an einem Apfelbaumstamm auf einer Streuobstwiese bei Karlsbad-Spielberg in Baden-Württemberg. Sie bildete eine eindrucksvolle Rosette von 30 mm Durchmesser. Die Art gehört zu den sorediösen, epiphytischen Blattflechten mit grauem Lager. Man findet sie generell auf der Rinde von Laubbäumen.
+Die hier vorgestellte Jeckers Punktflechte *Punctelia jeckeri* fanden wir an einem Apfelbaumstamm auf einer Streuobstwiese bei Karlsbad-Spielberg in Baden-Württemberg. Sie bildete eine eindrucksvolle Rosette von 30 mm Durchmesser. Die Art gehört zu den [sorediösen](sorediös "Glossar"), [epiphytischen](epiphytisch "Glossar") Blattflechten mit grauem Lager. Man findet sie generell auf der Rinde von Laubbäumen.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/punctelia_-jeckeri_03_sm.jpg" %}
@@ -33,7 +33,7 @@ Die hier vorgestellte Jeckers Punktflechte *Punctelia jeckeri* fanden wir an ein
 
 **Morphologische Merkmale** (nach KIRSCHBAUM & WIRTH 2010):
 
-Graue bis grünlichgraue Blattflechte mit relativ großen Lappen. Lager bestehend aus bis zu 50 mm breiten Rosetten. Lappen bis 7 mm breit, an den Rändern gewellt, aufsteigend und ganz am Rande bräunlich. Aus punktförmigen Pseudocyphellen entwickeln sich kreisförmige und kurzstrichförmige Sorale sowie an den Lappenrändern Bortensorale. Die Lager-Unterseite ist hellbräunlich und mit Rhizinen besetzt, wobei der Rand rhizinenfrei bleibt.\
+Graue bis grünlichgraue Blattflechte mit relativ großen [Lappen](Lappen "Glossar"). [Lager](Lager "Glossar") bestehend aus bis zu 50 mm breiten Rosetten. Lappen bis 7 mm breit, an den Rändern gewellt, aufsteigend und ganz am Rande bräunlich. Aus punktförmigen Pseudocyphellen entwickeln sich kreisförmige und kurzstrichförmige [Sorale](Sorale "Glossar") sowie an den Lappenrändern Bortensorale. Die Lager-Unterseite ist hellbräunlich und mit [Rhizinen](Rhizine "Glossar") besetzt, wobei der Rand rhizinenfrei bleibt.\
 Makrochemische Farbreaktion (Tüpfelreaktion): Rinde mit Kalilauge (KOH) gelb.
 
 {% include abbildung_start.html stil="standard" %}
@@ -42,7 +42,7 @@ Makrochemische Farbreaktion (Tüpfelreaktion): Rinde mit Kalilauge (KOH) gelb.
 
 **Vermehrung:**
 
-Geschlechtliche Vermehrung erfolgt über Ascosporen der [Apothecien](Apothecien "Glossar"), wobei sich Apothecien bei P. jeckeri allerdings nur sehr selten bilden. Ungeschlechtliche Vermehrung erfolgt über Soredien, die sich an den Soralen bilden und vom Wind verweht werden.
+Geschlechtliche Vermehrung erfolgt über Ascosporen der [Apothecien](Apothecien "Glossar"), wobei sich Apothecien bei *Punctelia jeckeri* allerdings nur sehr selten bilden. Ungeschlechtliche Vermehrung erfolgt über [Soredien](<Soredien "Glossar">), die sich an den Soralen bilden und vom Wind verweht werden.
 
 **Ähnliche, sorediöse Flechtenarten** (nach KIRSCHBAUM & WIRTH 2010):
 
