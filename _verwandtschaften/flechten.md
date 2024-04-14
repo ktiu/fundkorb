@@ -41,11 +41,11 @@ Auf ihnen entwickeln sich sogenannte *Soredien*, die der vegetativen (ungeschlec
 
 Ebenfalls nur mit gut vergrößernder Lupe sind *Isidien* und *Rhizine* wahrzunehmen. Isidien sind unterschiedlich geformte Auswüchse auf den Blattoberseiten, die spatelförmig bis keulig, koralloid, warzenartig oder einfach bis verzweigt zylindrisch geformt sind.
 
-# Nahaufnahme von Rhizinen - zu ergänzen
+## Nahaufnahme von Rhizinen - zu ergänzen
 
 Sie können sich leicht ablösen und vom Wind weggetragen werden, um sich an anderer Stelle zu neuen Flechten zu entwickeln. Auch hierbei handelt es sich um eine Form der ungeschlechtlichen Vermehrung.
 
-# Nahaufnahme von Isidien - zu ergänzen
+## Nahaufnahme von Isidien - zu ergänzen
 
 Rhizine sind dorn- oder wurzelartige Haftfasern an den Blattunterseiten, mit denen die Flechte am Substrat befestigt sind. Beim Substrat kann es sich um Baumrinde, Holz, Moos, Erdboden, Mauern, Beton, Gestein, Asphalt oder sogar Metall handeln.
 
@@ -58,3 +58,16 @@ Dazu gehören die lebensfeindlichsten Standorte wie nackte Felsen und Regionen w
 Eine grobe und völlig unsystematische Einteilung der Flechten kann man nach Form und Anwuchsart am Substrat in Blatt-, Strauch- und Krustenflechten vornehmen, was dem beobachtenden Naturfreund durchaus entgegenkommt und ihm einen unkomplizierten Einstieg in die Lichenologie ermöglicht. Eine nützliche Hilfe beim Bestimmen einzelner Aerten sind chemische Reagenzien, vor allem Kalilauge (KOH) und p-Phenylendiamin (PPD), die leicht anzuwenden sind und arttypische Farbreaktionen auf den Thallus oder anderen Bestandteilen einer Flechte zeigen. 
 
 **Blattflechten**, gelegentlich auch Laubflechten genannt, bestehen aus unterschiedlich geformten blattartigen Lappen (auch Loben genannt). Sie sind mit mehreren Haftorganen (Rhizinen) lose an ihrem Substrat angewachsen. Sie können daher leicht als Ganzes abgelöst werden. Typische und häufige Blattflechten sind zum Beispiel:
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/xanthoria_parietina_04_nk.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/parmelia_sulcata_02_lh.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Abb. links: Gewöhnliche Gelbflechte Xanthoria parietina (hier zusammen mit Physcia adscendens) -- Abb. rechts:  Sulkatflechte Parmelia sulcata (zwischen Moos)" %}
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/parmelina_tiliacea_01_bm.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/punctelia_-jeckeri_02_sm.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Abb. links: Linden-Schüsselfleche Parmelina tiliacea -- Abb. rechts: Jecksers Punktflechte Punctelia jeckeri" %}
+
+**Strauchflechten** im engeren Sinne sind dagegen nur mit <ins>einem</ins> Haftorgan am Substrat angewachsen und von da aus vielfach strauchartig verästelt. Auch sie können leicht abgelöst werden.
+
