@@ -30,7 +30,7 @@ literatur:
 {% include bild.html datei="/bilder/usnea_filipendula_02_nk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="3 Fotos: Norbert Kühnberger" %}
 
-Bartflechten sind in Deutschland selten geworden; der Gewöhnliche Baumbart *Usnea filipendula* ist noch die häufigste unter ihnen. Sie wächst an Laub- und Nadelbäumen mit saurer Rinde und bevorzugt kolline bis montane, niederschlagsreiche Lagen. Die Art wird in der Roten Liste Deutschlands (2011) in der Kategorie 3 (Gefährdet) geführt.
+Bartflechten sind in Deutschland selten geworden; der Gewöhnliche Baumbart *Usnea filipendula* ist noch die häufigste unter ihnen. Sie wächst an Laub- und Nadelbäumen mit saurer Rinde und bevorzugt [kolline](kollin "Glossar") bis montane, niederschlagsreiche Lagen. Die Art wird in der Roten Liste Deutschlands (2011) in der Kategorie 3 (Gefährdet) geführt.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/usnea_filipendula_03_nk.jpg" %}
@@ -38,7 +38,7 @@ Bartflechten sind in Deutschland selten geworden; der Gewöhnliche Baumbart *Usn
 
 **Morphologische Merkmale** (vorwiegend nach WIRTH & DÜLL 2000):
 
-Der graue bis gelbgrünliche, hängende Thallus ist typischerweise länger als breit und kann einer Länge von bis zu 30 cm erreichen. Er ist an einer einzigen Stelle am Substrat angewachsen, verzweigt sich danach in wenige Hauptäste und diese wiederum in zahlreiche Nebenäste. Die Äste sind dicht mit rechtwinklig abstehenden, bis 1 cm langen Fibrillen besetzt. Weiterhin besitzen die Äste halbkugelige bis kurz zylindrische Papillen und Isidiengruppen oder isidiös werdende kleinere Sorale. [Apothezien](Apothezien "Glossar") kommen nur sehr selten vor. Zieht man einen Ast vorsichtig in Längsrichtung, wird der weiße Zentralstrang freigelegt.
+Der graue bis gelbgrünliche, hängende [Thallus](Thallus "Glossar") ist typischerweise länger als breit und kann einer Länge von bis zu 30 cm erreichen. Er ist an einer einzigen Stelle am Substrat angewachsen, verzweigt sich danach in wenige Hauptäste und diese wiederum in zahlreiche Nebenäste. Die Äste sind dicht mit rechtwinklig abstehenden, bis 1 cm langen [Fibrillen](Fibrillen "Glossar") besetzt. Weiterhin besitzen die Äste halbkugelige bis kurz zylindrische [Papillen](Papillen "Glossar") und [Isidiengruppen](Isidien "Glossar") oder isidiös werdende kleinere [Sorale](Sorale "Glossar"). [Apothezien](Apothezien "Glossar") kommen nur sehr selten vor. Zieht man einen Ast vorsichtig in Längsrichtung, wird der weiße Zentralstrang freigelegt.
 Makrochemische Farbreaktionen: Mark mit Kalilauge (KOH) rot, mit p-Phenylendiamin (PPD) orange.
 
 Die gelbgrüne Farbe des Thallus rührt vom Inhaltsstoff Usninsäure, das als natürliches Antibiotikum gilt.
