@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/parasola_plicatilis_02_km.jpg" %}
+{% include abbildung_ende.html %}
+
+15.04.2024: Tintlinge sind in vier recht deutlich voneinander unterschiedenen Gattungen untergebracht, von denen die Scheibchentintintlinge durch sehr grazile, zerbrechliche aber durchaus hübsche Hütchen und nahezu fadendünne Stiele auffallen. Sie sind sehr kurzlebig und ihre Hüte zerfließen nicht zu Tinte. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gemeine Scheibchentintling *Parasola plicatilis*, eine sehr häufige, gern gesellig an Wegrändern wachsende Art, die zur Zeit fast überall zu finden ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/parasola-plicatilis-gemeiner-scheibchentintling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peziza_varia_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 13.04.2024: Unter den Pilzen gibt es einige bemerkenswerte Kuriositäten, zum Beispiel solche, die keine eigenen Fruchtkörper ausbilden sondern andere Organismen benutzen, um ihre Sporen zu bilden und zu verbreiten. Zu diesen gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Pflaumen-Narrentasche *Taphrina pruni*. In unserem Dietzenbacher Carré an der Rodgaustraße sind inzwischen alle Pflaumenbäume befallen, so dass nur noch wenige Früchte zur Reife gelangen werden. (Dieter Gewalt)
 
 [Mehr lesen >](pilze/taphrina-pruni-pflaumen-narrentasche)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_melanopus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.04.2024: Der recht seltene dunkelbraunhütige Stielporling am Dietzenbacher Wollwiesenteich war aufgrund seiner schwarzbraunen Stielbasis und seiner Größe leicht als Schwarzfuß-Porling *Polyporus melanopus* zu identifizieren. Damit ist unser aktueller [Fundkorbpilz](AA "Glossar-") makroskopisch gut festgelegt und kaum zu verwechseln. Inzwischen muss er auf den Namen Picipes melanopus hören. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/polyporus-melanopus-schwarzfuß-porling)
 
 <div style="clear:  both"></div>
 
