@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-14.04.2024: [Peziza varia - Riesenbecherling](/pilze/peziza-varia-riesenbecherling)  
+15.04.2024: [Parasola plicatilis - Gemeiner Scheibchentintling](<Parasola plicatilis - Gemeiner Scheibchentintling>)\
+14.04.2024: [Peziza varia - Riesenbecherling](/pilze/peziza-varia-riesenbecherling)\
 13.04.2024: [Taphrina pruni - Pflaumen-Narrentasche](pilze/taphrina-pruni-pflaumen-narrentasche)\
 12.04.2024: [Polyporus melanopus - Schwarzfuß-Porling](/pilze/polyporus-melanopus-schwarzfuß-porling)\
 11.04.2024: [Helvella acetabulum - Hochgerippte Lorchel](/pilze/helvella-acetabulum-hochgerippte-lorchel)\
