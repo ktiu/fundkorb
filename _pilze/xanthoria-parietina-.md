@@ -40,6 +40,6 @@ Makrochemische Farbreaktion (Tüpfelreaktion): Lager mit Kalilauge (KOH) rot.
 {% include bild.html datei="/bilder/xanthoria_parietina_04_nk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Die Apothecien stehen dicht an dicht (Foto: Liss Hoffmann) -- Thallus und Apothecien in Gelborange (Foto: Norbert Kühnberger)" %}
 
-Eine ähnliche Flechtenart ist die Vielfrüchtige Gelbflechte (*Xanthoria polycarpa*). Sie besitzt nur Lager bis meist 1 cm Druchmesser. Ihre Lappen sind klein, nur bis 1 mm breit und völlig durch die bis an den Thallusrand wachsenden Apothezien verdeckt. Der Standort ist mit dem von *Xanthoria parietina* vergleichbar.
+Eine ähnliche Flechtenart ist die Vielfrüchtige Gelbflechte (*Xanthoria polycarpa*). Sie besitzt nur Lager bis meist 1 cm Druchmesser. Ihre Lappen sind klein, nur bis 1 mm breit und völlig durch die bis an den Thallusrand wachsenden Apothecien verdeckt. Der Standort ist mit dem von *Xanthoria parietina* vergleichbar.
 
 Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
