@@ -26,7 +26,7 @@ Betrachtet man eine Flechte mit einer gut vergrößernden Lupe, gewinnt man eine
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/xanthoria_parietina_07_lh.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/xanthoria_parietina_03_lh.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Abbildung links: Lappen / rechts: scheibenförmige Apothezien" %}
+{% include abbildung_ende.html legende="Abbildung links: Lappen / rechts: scheibenförmige Apothecien" %}
 
 Bei der grauen Flechte, die fast überall in Begleitung der Gewöhnlichen Gelbflechte vorkommt, handelt es sich mit hoher Wahrscheinlichkeit um die Sulkatflechte *Parmelia sulcata*.
 
