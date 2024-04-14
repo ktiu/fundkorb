@@ -39,6 +39,10 @@ Die Helm-Schwielenflechte *Physcia adscendens* ist eine kleine, sehr häufige Bl
 Die kleinen Thalli sind weißlich, grau oder grünlich und wachsen rosettig, bei einem Durchmesser bis 30 mm. Oft wachsen mehrere Thalli ineinander und können so größere Flächen überziehen. Die bis 1 mm breiten Loben sind aufsteigend und enden in einer kuppelartigen/helmartigen Aufwölbung. Die Unterseite der Aufwölbung ist sorediös, weshalb man von „Helmsoralen“ spricht. Die Lobenränder sind mit zahlreichen weißen bis schwärzlichen Cilien versehen. [Apothecien](Apothecien "Glossar") sind selten zu finden.
 Makrochemische Farbreaktion (Tüpfelreaktion): Rinde mit Kalilauge (KOH) gelb.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/physcia_adscendens_03_nk.jpg" %}
+{% include abbildung_ende.html legende="Thallus mit weißlichen Loben und schwärzlichen Cilien in einer Astgabel (Foto: Norbert Kühnberger)" %}
+
 **Ähnliche Flechtenarten:**
 
 Die Zarte Schwielenflechte (*Physcia tenella*) ist sehr ähnlich. Sie besitzt flache bis aufsteigende Lobenenden mit Lippensoralen. Junge Exemplare sind von unserer Art so gut wie nicht unterscheidbar. Beide Arten wachsen oft nebeneinander oder sogar durcheinander.
