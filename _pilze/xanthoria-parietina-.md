@@ -32,7 +32,7 @@ Scheint im Vorfrühling auf einer Obstwiese von Ferne ein Apfelbaum gelb zu leuc
 
 **Morphologische Merkmale** (vorwiegend nach KIRSCHBAUM & WIRTH 2010):
 
-Unsere Flechte besitzt knallig gelbe, dottergelbe, gelborange oder blass gelbe, aber auch grünlichgelbe bis gelblichgrüne Lager, meist mit zahlreichen, aber nicht bis an den Lagerrand reichenden [Apothecien](Apothecien "Glossar"). Diese werden bis 4 mm breit, besitzen einen deutlichen Lagerrand und sind gelb, grüngelb, orangegelb bis orange. Die Lappen werden bis 5 mm breit, sind gekräuselt und überlappen teilweise. Die Lager können bis 15 cm im Durchmesser aufweisen und besitzen weder Isidien noch Soredien. Die Flechtenunterseite ist grauweiß mit leichtem Gelbhauch und besitzt wenige, einfache, helle Haftstellen.\
+Unsere Flechte besitzt knallig gelbe, dottergelbe, gelborange oder blass gelbe, aber auch grünlichgelbe bis gelblichgrüne [Lager](Lager "Glossar"), meist mit zahlreichen, aber nicht bis an den Lagerrand reichenden [Apothecien](Apothecien "Glossar"). Diese werden bis 4 mm breit, besitzen einen deutlichen Lagerrand und sind gelb, grüngelb, orangegelb bis orange. Die [Lappen](Lappen "Glossar") werden bis 5 mm breit, sind gekräuselt und überlappen teilweise. Die Lager können bis 15 cm im Durchmesser aufweisen und besitzen weder [Isidien](Isidien "Glossar") noch [Soredien](Soredien "Glossar"). Die Flechtenunterseite ist grauweiß mit leichtem Gelbhauch und besitzt wenige, einfache, helle Haftstellen.\
 Makrochemische Farbreaktion (Tüpfelreaktion): Lager mit Kalilauge (KOH) rot.
 
 {% include abbildung_start.html stil="mittel" %}
