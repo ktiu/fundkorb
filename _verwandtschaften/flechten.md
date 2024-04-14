@@ -71,3 +71,30 @@ Eine grobe und völlig unsystematische Einteilung der Flechten kann man nach For
 
 **Strauchflechten** im engeren Sinne sind dagegen nur mit <ins>einem</ins> Haftorgan am Substrat angewachsen und von da aus vielfach strauchartig verästelt. Auch sie können leicht abgelöst werden.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/evernia_prunastri_02_bm.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/pseudevernia_furfuracea_01_bm.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Abb. links: Pflaumenflechte Evernia prunastri -- Abb. rechts: Gabelflechte Pseudevernia furfuracea" %}
+
+Zu den Strauchflechten gehören auch die sogenannten Bartflechten und Arten der Gattung *Cladonia* (z. B. Rentier- und Becherflechten). Bartflechten bestehen aus fädigen herabhängenden Elementen und kommen vor allem in Regionen mit hoher Luftfeuchtigkeit (Regenwälder) vor. Es gibt nur wenige einheimische Arten in der Gattung *Usnea*.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/usnea_filipendula_03_nk.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/cladonia_macilenta_01_nk.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Abb. links: Gewöhnlicher Baumbart Usnea filipendula (hier zusammen mit einer grauen Blattflechte) -- Abb. rechts: Rotfrüchtige Säulenflechte Cladonia macilenta (mit roten Apothecien)" %}
+
+Die Gattung *Cladonia* enthält einige besonders attraktive Arten. Flechten mit roten Käppchen oder „Früchtchen“ zu finden, ist kein häufiges Erlebnis, aber Anlass zum genaueren Hinschauen und Staunen.
+
+**Krustenflechten** unterscheiden sich deutlich von den übrigen Flechtenarten, indem sie flächig und fest mit ihrem Substrat verbunden sind. Sie besitzen keine speziellen Haftorgane, lassen sich also auch nicht als Ganzes ablösen. Man kann sie höchstens abkratzen. Viele wachsen auf Gestein oder Beton. Zwei typische und häufige Vertreter sind:
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/lecanora_murali_02_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/flavoplaca_citrina_02_dg.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Abb. links: Mauer-Flechte Lecanora muralis auf Gehwegplatten -- Abb. rechts: Zitronen-Schönfleck Flavoplaca citrina an Betonwand" %}
+
+Zu den an Baumrinde wachsenden Krustenflechten gehören:
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/lecanora_argentata_01_sm.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/graphis_scripta_03_nk.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Abb. links: Silbrige Kuchenflechte Lecanora argenta -- Abb. rechts: Schriftflechte Graphis scripta" %}
