@@ -28,7 +28,7 @@ literatur:
   - url: https://de.wikipedia.org/wiki/Physcia_adscendens
   - url: http://www.norbert-kuehnberger.de/pilzbildergalerie/D_Flechten-Lichenes_-_226_Arten/index.htm
 ---
-Die Helm-Schwielenflechte *Physcia adscendens* ist eine kleine, sehr häufige Blattflechte, die wir außer an nährstoffreichen Rinden von Laubgehölzen auch an Kalkstein und anthropogenen Substraten, wie Mauern, verbautem Holz, Metall etc. finden. Typisch sind die kuppel- oder helmartig aufgebogenen Lobenenden sowie die zahlreichen Cilien.
+Die Helm-Schwielenflechte *Physcia adscendens* ist eine kleine, sehr häufige Blattflechte, die wir außer an nährstoffreichen Rinden von Laubgehölzen auch an Kalkstein und [anthropogenen](<anthropogen "Glossar">) Substraten, wie Mauern, verbautem Holz, Metall etc. finden. Typisch sind die kuppel- oder helmartig aufgebogenen [Lappenenden](<Lappen "Glossar">) sowie die zahlreichen [Cilien](<Cilie "Glossar">).
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/physcia_adscendens_02_nk.jpg" %}
@@ -36,7 +36,7 @@ Die Helm-Schwielenflechte *Physcia adscendens* ist eine kleine, sehr häufige Bl
 
 **Morphologische Merkmale** (in Anlehnung an WIRTH & DÜLL 2000):
 
-Die kleinen Thalli sind weißlich, grau oder grünlich und wachsen rosettig, bei einem Durchmesser bis 30 mm. Oft wachsen mehrere Thalli ineinander und können so größere Flächen überziehen. Die bis 1 mm breiten Loben sind aufsteigend und enden in einer kuppelartigen/helmartigen Aufwölbung. Die Unterseite der Aufwölbung ist sorediös, weshalb man von „Helmsoralen“ spricht. Die Lobenränder sind mit zahlreichen weißen bis schwärzlichen Cilien versehen. [Apothecien](Apothecien "Glossar") sind selten zu finden.
+Die kleinen [Thalli](<Thallus "Glossar">) sind weißlich, grau oder grünlich und wachsen rosettig, bei einem Durchmesser bis 30 mm. Oft wachsen mehrere Thalli ineinander und können so größere Flächen überziehen. Die bis 1 mm breiten [Loben](<Loben "Glossar">) sind aufsteigend und enden in einer kuppelartigen/helmartigen Aufwölbung. Die Unterseite der Aufwölbung ist [sorediös](<sorediös "Glossar">), weshalb man von „Helmsoralen“ spricht. Die Lobenränder sind mit zahlreichen weißen bis schwärzlichen Cilien versehen. [Apothecien](Apothecien "Glossar") sind selten zu finden.
 Makrochemische Farbreaktion (Tüpfelreaktion): Rinde mit Kalilauge (KOH) gelb.
 
 {% include abbildung_start.html stil="standard" %}
@@ -45,7 +45,7 @@ Makrochemische Farbreaktion (Tüpfelreaktion): Rinde mit Kalilauge (KOH) gelb.
 
 **Ähnliche Flechtenarten:**
 
-Die Zarte Schwielenflechte (*Physcia tenella*) ist sehr ähnlich. Sie besitzt flache bis aufsteigende Lobenenden mit Lippensoralen. Junge Exemplare sind von unserer Art so gut wie nicht unterscheidbar. Beide Arten wachsen oft nebeneinander oder sogar durcheinander.
+Die Zarte Schwielenflechte (*Physcia tenella*) ist sehr ähnlich. Sie besitzt flache bis aufsteigende Lobenenden mit [Lippensoralen](<Sorale "Glossar">). Junge Exemplare sind von unserer Art so gut wie nicht unterscheidbar. Beide Arten wachsen oft nebeneinander oder sogar durcheinander.
 Andere graue *Physcia*-Arten besitzen keine Cilien.
 
 Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
