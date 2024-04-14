@@ -21,11 +21,11 @@ literatur:
       Pilze Deutschlands"
   - url: https://de.wikipedia.org/wiki/Lecanora_argentata
 ---
-Schaut man sich in einem Wäldchen einmal die Rinde einer Hainbuche genau an, am besten mit Hilfe einer Lupe, so wird man neben vielen anderen Flechten vielleicht auch die Silbrige Kuchenflechte *Lecanora argentata* entdecken. Sie gehört zu den epiphytischen Krustenflechten mit Lagerrand und findet sich auf der Rinde von Laubbäumen, beispielsweise der von Hainbuchen, Eschen, Ahorn, Pappeln. Sie ist an ihren dichtstehenden, regelmäßigen, rotbraunen Apothezienscheiben mit weißlichem Rand und weißlichem Lager gut erkennbar. Die Rote Liste Flechten Deutschlands 2011 führt die Art in der RL-Kategorie V (Vorwarnliste).
+Schaut man sich in einem Wäldchen einmal die Rinde einer Hainbuche genau an, am besten mit Hilfe einer Lupe, so wird man neben vielen anderen Flechten vielleicht auch die Silbrige Kuchenflechte *Lecanora argentata* entdecken. Sie gehört zu den [epiphytischen](epiphytisch "Glossar") Krustenflechten mit [Lagerrand](Lager "Glossar") und findet sich auf der Rinde von Laubbäumen, beispielsweise der von Hainbuchen, Eschen, Ahorn, Pappeln. Sie ist an ihren dichtstehenden, regelmäßigen, rotbraunen [Apothecienscheiben](Apothecien "Glossar") mit weißlichem Rand und weißlichem Lager gut erkennbar. Die Rote Liste Flechten Deutschlands 2011 führt die Art in der RL-Kategorie V (Vorwarnliste).
 
 **Morphologische Merkmale:**
 
-Lager weißlich, nicht sorediös. Apothezien bis 1,0 mm im Durchmesser, zahlreich, teils dicht an dicht, dem Lager dicht anliegend. Scheibe meist dunkel rotbraun, unbereift. Rand z. T. schwach gekerbt, lagerfarben, d. h. „Apothezien mit Lagerrand“.\
+Lager weißlich, nicht [sorediös](sorediös "Glossar"). Apothecien bis 1,0 mm im Durchmesser, zahlreich, teils dicht an dicht, dem Lager dicht anliegend. Scheibe meist dunkel rotbraun, unbereift. Rand z. T. schwach gekerbt, lagerfarben, d. h. „Apothecien mit Lagerrand“.\
 Makrochemische Farbreaktionen (Tüpfelreaktion): Lager mit Kalilauge (KOH) gelb, mit Phenylendiamin (PPD) gelblich.
 
 {% include abbildung_start.html stil="standard" %}
@@ -40,7 +40,7 @@ Das Epihymenium (oberer Bereich des [Hymeniums](Hymenium "Glossar")) zeigt keine
 
 **Ähnliche Flechtenarten** (nach KIRSCHBAUM & WIRTH 2010):
 
-Bei der Trügerischen Kuchenflechte (*Lecanora allophana*) ist der Apothecienrand wellig verbogen und enthält kleine Kristalle.  
+Bei der Trügerischen Kuchenflechte (*Lecanora allophana*) ist der Apothecienrand wellig verbogen und enthält kleine Kristalle.\
 Bei der Hellen Kuchenflechte (Lecanora chlarotera) ist die Apothecienscheibe nicht rotbraun, sondern hell- bis schmutzigbraun, und der Apothecienrand enthält – zusätzlich zu großen - auch kleine Kristalle.
 
 Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
