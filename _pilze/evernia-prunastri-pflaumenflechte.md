@@ -37,7 +37,7 @@ Die auch unter dem Namen „Eichenmoos“ bekannte Pflaumenflechte *Evernia prun
 
 **Morphologische Merkmale** (in Anlehnung an KIRSCHBAUM & WIRTH 2010):
 
-Der Thallus ist an einer Stelle am Substrat angewachsen. Er verzweigt sich in flache, bandartige, etwas schlaffe Abschnitte. Während die Oberseite gelbgrün bis graugrün und berindet ist, ist die Unterseite weißlich, unberindet und mit schwarzen Rhizinen versehen. Wie die nachfolgenden Abbildungen deutlich zeigen, sind auf der Oberseite, Unterseite und an den Rändern der bandartigen Abschnitte zahlreiche Sorale vorhanden. Isidien besitzt die Art nicht. [Apothecien](Apothecien "Glossar") findet man nur sehr selten.\
+Der [Thallus](Thallus "Glossar") ist an einer Stelle am Substrat angewachsen. Er verzweigt sich in flache, bandartige, etwas schlaffe Abschnitte. Während die Oberseite gelbgrün bis graugrün und berindet ist, ist die Unterseite weißlich, unberindet und mit schwarzen [Rhizinen](Rhizine "Glossar") versehen. Wie die nachfolgenden Abbildungen deutlich zeigen, sind auf der Oberseite, Unterseite und an den Rändern der bandartigen Abschnitte zahlreiche [Sorale](Sorale "Glossar") vorhanden. [Isidien](Isidien "Glossar") besitzt die Art nicht. [Apothecien](Apothecien "Glossar") findet man nur sehr selten.\
 Makrochemische Farbreaktion mit Kalilauge (KOH): auf der Oberfläche gelb.
 
 {% include abbildung_start.html stil="mittel" %}
