@@ -1,4 +1,4 @@
 ---
-schlagwort: Cilie
+schlagwort: epiphytisch
 ---
-Wimper, Geißel: haar-oder borstenartige Anhängsel an den Lappenrändern
+auf Gehölzen wachsend
