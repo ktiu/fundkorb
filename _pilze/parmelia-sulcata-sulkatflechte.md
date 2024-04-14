@@ -29,13 +29,24 @@ literatur:
 {% include bild.html datei="/bilder/parmelia_sulcata_02_lh.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="4 Fotos: Liss Hoffmann -- Die netzartigen, weißen Linien (Pseudocyphellen) sind charakteristisch" %}
 
-Findet man die Sulkatflechte Parmelia sulcata einmal mit zahlreichen Apothezien, ist das schon etwas Besonderes (siehe die Abbildungen weiter unten). Wie fanden mehrere Thalli dieser häufigen und weit verbreiteten Art auf der Rinde eines freistehenden Mehlbeerbaumes innerhalb eines feuchten Kiefernwaldes im nördlichen Schwarzwald auf ca. 700 Meter über N.N. Die an lichten Stellen auf Laubholz und manchmal auch auf Gestein wachsende, graue Blattflechte erkennt man vor allem an dem auffälligen Pseudocyphellennetz auf der Oberseite der Thalli.
+Findet man die Sulkatflechte *Parmelia sulcata* einmal mit zahlreichen [Apothecien](Apothecien "Glossar"), ist das schon etwas Besonderes (siehe die Abbildungen weiter unten). Wie fanden mehrere Thalli dieser häufigen und weit verbreiteten Art auf der Rinde eines freistehenden Mehlbeerbaumes innerhalb eines feuchten Kiefernwaldes im nördlichen Schwarzwald auf ca. 700 Meter über N.N. Die an lichten Stellen auf Laubholz und manchmal auch auf Gestein wachsende, graue Blattflechte erkennt man vor allem an dem auffälligen Pseudocyphellennetz auf der Oberseite der Thalli.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/parmelia_sulcata_03_lh.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/parmelia_sulcata_04_lh.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Die gelben bis grünen Apothecien (Becherchen) sind gut zu erkennen" %}
 
 **Morphologische Merkmale** (nach KIRSCHBAUM & WIRTH 2010):
 
-Graue, matte, im Durchmesser bis 80 mm große Blattblechte mit flachen, nicht dam Substrat anliegenden, bis 5 mm breiten Lappen. Die Lappen sind an den Enden etwas kantig, wie mit einer Schere zurechtgeschnitten, und besitzen auf der Oberfläche erhabene, weiße Netzadern (Pseudocyphellen). Auf den Netzadern und auch an den Lappenrändern bilden sich Sorale. Sehr selten bilden sich Apothecien. Die Thallus-Unterseite ist schwarz und bis zum Rand mit schwarzen Rhizinen besetzt.\
+Graue, matte, im Durchmesser bis 80 mm große Blattblechte mit flachen, nicht am Substrat anliegenden, bis 5 mm breiten Lappen. Die Lappen sind an den Enden etwas kantig, wie mit einer Schere zurechtgeschnitten, und besitzen auf der Oberfläche erhabene, weiße Netzadern (Pseudocyphellen). Auf den Netzadern und auch an den Lappenrändern bilden sich Sorale. Sehr selten bilden sich Apothecien. Die Thallus-Unterseite ist schwarz und bis zum Rand mit schwarzen Rhizinen besetzt.\
 Makrochemische Farbreaktionen: mit Kalilauge (KOH) gelb, dann rot; Mark und Sorale mit Kalilau (KOH) orange, mit p-Phylendiamin (PPD) orange.
 
 **Vermehrung:**
 
 Geschlechtliche Vermehrung erfolgt über Sporen der [Apothecien](Apothecien "Glossar"), wobei sich Apothecien bei Parmelia sulcata allerdings nur sehr selten bilden. Ungeschlechtliche Vermehrung erfolgt über Soredien, die sich an den Soralen bilden und vom Wind verweht werden.
+
+**Ähnliche Flechtenarten** (nach KIRSCHBAUM & WIRTH 2010):
+
+Die Felsen-Schüsselflechte (*Parmelia saxatilis*) sieht ähnlich aus, besiedelt vergleichbare Habitate und bildet ebenfalls ein Pseudocyphellennetz aus. Aus dem Netz bilden sich allerdings keine Sorale mit Soredien, sondern im Zentrum des Thallus Isidien.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
