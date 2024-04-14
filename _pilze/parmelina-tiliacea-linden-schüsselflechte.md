@@ -31,7 +31,7 @@ Will man die Linden-Schüsselflechte (*Parmelina tiliacea*) finden, sollte man d
 
 **Morphologische Merkmale** (vorwiegend nach KIRSCHBAUM & WIRTH 2010):
 
-*Parmelina tiliacea* bildet rosettenartige Lager, die Durchmesser bis mehr als 10 cm erreichen können und gerne zu mehreren zusammenwachsen. Die isidienfreien Bereiche erscheinen hellgrau, matt und glatt. Die Lappen (auch Loben genannt) werden bis 6 mm breit, überlappen sich oft gegenseitig, sind gekerbt und am Ende abgerundet.
+*Parmelina tiliacea* bildet rosettenartige [Lager](Lager "Glossar"), die Durchmesser bis mehr als 10 cm erreichen können und gerne zu mehreren zusammenwachsen. Die [isidienfreien](Isidien "Glossar") Bereiche erscheinen hellgrau, matt und glatt. Die [Lappen](Lappen "Glossar") (auch Loben genannt) werden bis 6 mm breit, überlappen sich oft gegenseitig, sind gekerbt und am Ende abgerundet.
 Makrochemische Farbreaktion (Tüpfelrealtion): Rinde mit Kalilauge (KOH) gelb.
 
 {% include abbildung_start.html stil="mittel" %}
@@ -39,7 +39,7 @@ Makrochemische Farbreaktion (Tüpfelrealtion): Rinde mit Kalilauge (KOH) gelb.
 {% include bild.html datei="/bilder/parmelina_tiliacea_04_sm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Abb. links: gekerbte abgerundete Lappen, im unteren Bereich Isidien (Foto: Liss Hoffmann) -- Abb. rechts: stark vergrößerte Isidien, rundlich, olivbräunlich (Foto: Stefan Miggel)" %}
 
-Die Vermehrung erfolgt bei der Linden-Schüsselflechte vornehmlich ungeschlechtlich durch abfallende, vom Wind verwehte Isidien. Der Bereich, in dem sich Isidien bilden, liegt zentral in der Rosette, an der dunklen Färbung erkennbar. Die Isidien selber besitzen eine zylindrische bis keulenförmige Gestalt, sind apikal gerundet und dort dunkel gefärbt. Geschlechtliche Vermehrung ist durch Apotheciensporen möglich, doch werden [Apothecien](Apothecien "Glossar") bei unserer Flechtenart nur selten gebildet.
+Die Vermehrung erfolgt bei der Linden-Schüsselflechte vornehmlich ungeschlechtlich durch abfallende, vom Wind verwehte Isidien. Der Bereich, in dem sich Isidien bilden, liegt zentral in der Rosette, an der dunklen Färbung erkennbar. Die Isidien selber besitzen eine zylindrische bis keulenförmige Gestalt, sind [apikal](apikal "Glossar") gerundet und dort dunkel gefärbt. Geschlechtliche Vermehrung ist durch Apotheciensporen möglich, doch werden [Apothecien](Apothecien "Glossar") bei unserer Flechtenart nur selten gebildet.
 
 Um die sehr ähnliche aber sehr viel seltenere Pastillen-Schüsselflechte (*Parmelina pastillifera*) zu unterscheiden, muss man eine starke Lupe oder ein Stereomikroskop bemühen: *Parmelina pastillifera* besitzt rein schwarze, knopfartige Isidien, die apikal verflacht oder eingedellt sind und beim Herausbrechen oft charakteristische, weißliche „Narben“ hinterlassen.
 
