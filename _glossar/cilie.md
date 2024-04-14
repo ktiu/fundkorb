@@ -1,4 +1,4 @@
 ---
-schlagwort: epiphytisch
+schlagwort: Isidien
 ---
-auf Gehölzen wachsend
+meist stiftförmige oder verzweigte Auswüchse aus dem Flechtenlager, die der vegetativen = ungeschlechtlichen Fortpflanzung dienen
