@@ -5,6 +5,18 @@ hauptbild:
   anzeige: false
   datei: /bilder/xanthoria_parietina_04_nk.jpg
 aktualisiert: 2024-04-13
+literatur:
+  - text: "WIRTH, V. (1995): Die Flechten Baden-Württembergs, 2. Aufl., 1006 S.;
+      Ulmer, Stuttgart"
+  - text: "Kirschbaum U. & Volkmar Wirth (2010): Flechten erkennen - Umwelt bewerten"
+  - text: "Wirth, V. et al. (2011): Rote Liste der Flechten und flechtenbewohnende
+      Pilze Deutschlands"
+  - {}
+  - {}
+  - url: https://de.wikipedia.org/wiki/Flechte
+  - {}
+  - {}
+  - {}
 ---
 Was eine Flechte ist, glaubt fast jeder zu wissen, doch nur wenige sind in der Lage, auch nur eine der etwa 2.000 verschiedenen in Mitteleuropa vorkommenden Arten beim Namen zu nennen. Auch was Flechten genau sind, ist kaum jemandem bekannt. Die Erklärung, dass es sich um eine [Symbiose](Symbiose "Glossar") von Pilz und Alge handelt, hilft da auch nicht viel weiter. Daher möchte ich versuchen, dem interessierten Naturfreund diese auf den ersten Blick so unattraktiv wirkenden Organismen anhand einer überaus häufigen Flechtenart ein wenig vertrauter zu machen. Es handelt sich um die Gewöhnliche Gelbflechte *Xanthoria parietina*, die in der Nähe eines jeden Mitteleuropäers zu finden sein dürfte. Man braucht sich nur die Rinde von Bäumen und Sträuchern und deren Stämme und Äste zu betrachten.
 
@@ -90,3 +102,47 @@ Zu den an Baumrinde wachsenden Krustenflechten gehören:
 {% include bild.html datei="/bilder/lecanora_argentata_01_sm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/graphis_scripta_03_nk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Abb. links: Silbrige Kuchenflechte Lecanora argenta -- Abb. rechts: Schriftflechte Graphis scripta" %}
+
+Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
+
+Blattflechten:
+Cladonia fimbriata = Trompeten-Becherflechte
+Cladonia macilenta = Rotfrüchtige Säulenflechte
+Flavoparmelia caperata = Eichenflechte
+Melanelixia subaurifera = Gold-Braunflechte
+Parmelia sulcata	 = Sulkatflechte
+Parmelina tiliacea = Linden-Schüsselflechte
+Physcia adscendens = Helm-Schwielenflechte
+Platismatia glauca = Blaugraue Tartschenflechte
+Pleurosticta acetabulum = Essigflechte
+Punctelia jeckeri	 = Jeckers Punktflechte
+Xanthoria parietina = Gewöhnliche Gelbflechte
+
+Strauchflechten:
+Evernia prunastri = Pflaumenflechte
+Pseudevernia furfuracea = Gabelflechte
+Usnea filipendula = Gewöhnlicher Baumbart
+Usnea glabrescens = Verkahlender Baumbart
+
+Krustenflechten:
+Chrysothrix candelaris = Borken-Schwefelflechte
+Flavoplaca citrina = Ztronen-Schönfleck
+Graphis scripta = Schriftflechte
+Lecanora argentata = Silbrige Kuchenflechte
+Lecanora muralis = Mauer-Flechte
+Pertusaria pertusa = Gewöhnliche Porenflechte
+Phlyctis argena = Weiße Blatternflechte
+
+
+Literatur:
+
+WIRTH, V. (1995): Die Flechten Baden-Württembergs, 2. Aufl., 1006 S.; Ulmer, Stuttgart
+Kirschbaum U. & Volkmar Wirth (2010): Flechten erkennen - Umwelt bewerten
+Wirth, V. et al. (2011): Rote Liste der Flechten und flechtenbewohnende Pilze Deutschlands
+https://de.wikipedia.org/wiki/Flechte
+https://www.lfu.bayern.de/natur/bayaz/artenschutz_kryptogamen/flechten/systematik/index.htm
+https://www.nabu.de/tiere-und-pflanzen/pilze-und-flechten/14125.html
+http://www.norbert-kuehnberger.de/pilzbildergalerie/D_Flechten-Lichenes_-_226_Arten/index.htm
+https://www.lbv-wue.de/insekten/flechte_des_jahres.php
+https://blam-bl.de/blam/flechte-moos-des-jahres/flechte-moos-des-jahres-ueberblick.html
+
