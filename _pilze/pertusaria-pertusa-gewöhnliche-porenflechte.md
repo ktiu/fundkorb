@@ -4,6 +4,7 @@ beschreibung:
   deutsch: Gewöhnliche Porenflechte
   referenz: (L.) Tuck. 1845
   erlaeuterung: pertusa = durchbohrt
+  familie: Pertusariaceae
 profil:
   aktualisiert: 2024-04-15
   autor_in: Bernd Miggel
