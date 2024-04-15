@@ -34,7 +34,7 @@ Die Blaugraue Tartschenflechte (*Plasmatia glauca*) wächst auf der Rinde versch
 
 **Morphologische Merkmale:**
 
-[Thallus](<Thallus "Glossar">) bis 15 cm breit, unregelmäßig blattartig, aufrecht wachsend, mit dünnen, bis 2 cm breiten, gewellten [Loben](<Loben "Glossar">), Rand mit korallenartigen [Isidien](<Isidien "Glossar">). Insgesamt besitzt der Thallus ein krauses Aussehen, erinnert an Friseesalat. Oberseite meist bläulichgrün, aber auch grünlich, gelblichgrün, graugrün, grau oder bräunlich; Unterseite creme bis braun, meist mit schwarzen Zonen, schwarze [Rhizinen](<Rhizine "Glossar">) nur vereinzelt. Die Lobenränder von *Platismatia glauca* sind meist traubig [isidiös](<isidiös "Glossar">). Mit Hilfe dieser Isidien erfolgt die ungeschlechtliche Vermehrung. [Apothecien](<Apothecien "Glossar">) für eine geschlechtliche Vermehrung werden nur selten gefunden.\
+[Thallus](Thallus "Glossar") bis 15 cm breit, unregelmäßig blattartig, aufrecht wachsend, mit dünnen, bis 2 cm breiten, gewellten [Loben](Loben "Glossar"), Rand mit korallenartigen [Isidien](Isidien "Glossar"). Insgesamt besitzt der Thallus ein krauses Aussehen, erinnert an Friseesalat. Oberseite meist bläulichgrün, aber auch grünlich, gelblichgrün, graugrün, grau oder bräunlich; Unterseite creme bis braun, meist mit schwarzen Zonen, schwarze [Rhizinen](Rhizine "Glossar") nur vereinzelt. Die Lobenränder von *Platismatia glauca* sind meist traubig [isidiös](isidiös "Glossar"). Mit Hilfe dieser Isidien erfolgt die ungeschlechtliche Vermehrung. [Apothecien](Apothecien "Glossar") für eine geschlechtliche Vermehrung werden nur selten gefunden.\
 Makrochemische Farbreaktion (Tüpfelreaktion): Rinde mit Kalilauge (KOH) gelb.
 
 {% include abbildung_start.html stil="mittel" %}
