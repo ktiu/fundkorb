@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xanthoria_parietina_04_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+16.04.2024: Auch Flechten gehören zum komplexen Reich der Pilze. Unter ihnen gibt es viele erstaunlich attraktive Arten. Eine der schönsten und häufigsten ist die Gewöhnliche Gelbflechte *Xantoria parietina* und darum unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Um das zu erkennen, muss man sie allerdings aus der Nähe betrachten. Am besten mit einer gut vergrößernden Lupe. In einer leicht verständlichen Übersicht erklären wir, was Flechten sind, wie und wo sie leben und was es mit diesen Zwitterwesen auf sich hat.
+
+Folgen Sie diesem Link, um [mehr zu erfahren >](/verwandt/flechten) 
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/parasola_plicatilis_02_km.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 14.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenbecherling *Peziza varia*. So riesig wie sein deutscher Name vermuten lässt, ist er meist gar nicht. Manche Fruchtkörper dieser ausschließlich an morschem oder faulendem Holz wachsenden Art erreichen kaum mehr als 2 bis 3 Zentimeter Durchmesser. Bei seiner Bestimmung ist auf Verwechslungsmöglichkeiten mit anderen sehr ähnlichen Becherlingen zu achten, was mit einigem Mikroskopieraufwand verbunden ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/peziza-varia-riesenbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/taphrina_pruni_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.04.2024: Unter den Pilzen gibt es einige bemerkenswerte Kuriositäten, zum Beispiel solche, die keine eigenen Fruchtkörper ausbilden sondern andere Organismen benutzen, um ihre Sporen zu bilden und zu verbreiten. Zu diesen gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Pflaumen-Narrentasche *Taphrina pruni*. In unserem Dietzenbacher Carré an der Rodgaustraße sind inzwischen alle Pflaumenbäume befallen, so dass nur noch wenige Früchte zur Reife gelangen werden. (Dieter Gewalt)
-
-[Mehr lesen >](pilze/taphrina-pruni-pflaumen-narrentasche)
 
 <div style="clear:  both"></div>
 
