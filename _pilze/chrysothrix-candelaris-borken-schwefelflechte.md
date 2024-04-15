@@ -19,7 +19,7 @@ literatur:
   - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/ccandelaris.php
   - url: http://www.norbert-kuehnberger.de/pilzbildergalerie/D_Flechten-Lichenes_-_226_Arten/index.htm
 ---
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/chrysothrix_candelaris_01_bm.jpeg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/chrysothrix_candelaris_02_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/chrysothrix_candelaris_03_bm.jpg" nocrop=true gross=true %}
