@@ -31,7 +31,7 @@ Nur wenige Meter von meiner Haustür entfernt werde ich bereits fündig. In eine
 {% include bild.html datei="/bilder/xanthoria_parietina_06_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-Wie in allen Bereichen der Natur ist es erforderlich, für die Beschreibung verschiedener Arten ein paar Fachausdrücke zu kennen und zu verstehen. Der gesamte Frucht- oder Vegetationskörper einer Flechte wird Lager oder Thallus genannt. Nach dessen Form und dem Substrat, auf dem sie wachsen, werden drei verschiedene Flechtentypen unterschieden. Die Gewöhnliche Gelbflechte gehört zu den Blattflechten und wächst auf der Rinde verschiedener Baum- und Straucharten, seltener auch an Holzpfählen, Mauern oder Steinen. Ihre flächigen [Lager](Lager "Glossar") bestehen aus lappenartigen Blättern, sind mehrfach mit speziellen Haftorganen auf ihrem Substrat angewachsen und lassen sich als Ganzes ablösen. Auf ihnen sind becherartige Scheibchen zu sehen, die allerdings nur mit einer gut vergrößernden Lupe deutlich erkennbar sind. Diese tragen die Fruchtschicht, das sogenannte [Hymenium](Hymenium "Glossar"), in dem die für die geschlechtliche Fortpflanzung zuständigen Sporen gebildet werden. Sporen sind bei Pilzen und Flechten das, was wir bei den Pflanzen Samen nennen. Sie sind allerdings mikroskopisch klein, nur einige Tausendstel Millimeter groß. Bei der Gewöhnlichen Gelbflechte sind Lappen und [Apothecien](Apothecien "Glossar") von gelber, gelboranger oder auch gelblich grüner Farbe, die Unterseite ist grauweiß.
+Wie in allen Bereichen der Natur ist es erforderlich, für die Beschreibung verschiedener Arten ein paar Fachausdrücke zu kennen und zu verstehen. Der gesamte Frucht- oder Vegetationskörper einer Flechte wird Lager oder Thallus genannt. Nach dessen Form und dem Substrat, auf dem sie wachsen, werden drei verschiedene Flechtentypen unterschieden. Die Gewöhnliche Gelbflechte gehört zu den Blattflechten und wächst auf der Rinde verschiedener Baum- und Straucharten, seltener auch an Holzpfählen, Mauern oder Steinen. Ihre flächigen [Lager](Lager "Glossar") bestehen aus lappenartigen Blättern, sind mehrfach mit speziellen Haftorganen auf ihrem Substrat angewachsen und lassen sich als Ganzes ablösen. Auf ihnen sind becherartige Scheibchen zu sehen, die allerdings nur mit einer gut vergrößernden Lupe deutlich erkennbar sind. Diese tragen die Fruchtschicht, das sogenannte [Hymenium](Hymenium "Glossar"), in dem die für die geschlechtliche Fortpflanzung zuständigen Sporen gebildet werden. Sporen sind bei Pilzen und Flechten das, was wir bei den Pflanzen Samen nennen. Sie sind allerdings mikroskopisch klein, nur einige Tausendstel Millimeter groß. Bei der Gewöhnlichen Gelbflechte sind [Lappen](Lappen "Glossar") und [Apothecien](Apothecien "Glossar") von gelber, gelboranger oder auch gelblich grüner Farbe, die Unterseite ist grauweiß.
 
 Betrachtet man eine Flechte mit einer gut vergrößernden Lupe, gewinnt man einen Eindruck von der faszinierenden Schönheit vieler Arten, so auch der Gewöhnlichen Gelbflechte:
 
@@ -49,7 +49,7 @@ An und auf den Blättern von Flechten (auch Lappen oder Loben genannt) finden si
 {% include bild.html datei="/bilder/punctelia_-jeckeri_04_sm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Lappen mit Fleck- und Bortensoralen einer Punctelia jeckeri: stark vergrößert erkennt man rundliche staubartige Partikel, die sogenannten Soredien" %}
 
-Auf ihnen entwickeln sich sogenannte *Soredien*, die der vegetativen (ungeschlechtlichen) Vermehrung dienen und bei Reife vom Wind gelöst und verbreitet werden. Zur Unterscheidung von Flechtenarten sind sie von Bedeutung. Sie können vorhanden sein oder grundsätzlich fehlen.
+Auf ihnen entwickeln sich sogenannte *[Soredien](Soredien "Glossar")*, die der vegetativen (ungeschlechtlichen) Vermehrung dienen und bei Reife vom Wind gelöst und verbreitet werden. Zur Unterscheidung von Flechtenarten sind sie von Bedeutung. Sie können vorhanden sein oder grundsätzlich fehlen.
 
 Ebenfalls nur mit gut vergrößernder Lupe sind *Isidien* und *Rhizine* wahrzunehmen. Isidien sind unterschiedlich geformte Auswüchse auf den Blattoberseiten, die spatelförmig bis keulig, koralloid, warzenartig oder einfach bis verzweigt zylindrisch geformt sind. Sie können sich leicht ablösen und vom Wind weggetragen werden, um sich an anderer Stelle zu neuen Flechten zu entwickeln. Auch hierbei handelt es sich um eine Form der ungeschlechtlichen Vermehrung. Rhizine sind dorn- oder wurzelartige Haftfasern an den Blattunterseiten, mit denen die Flechte am Substrat befestigt sind. Beim Substrat kann es sich um Baumrinde, Holz, Moos, Erdboden, Mauern, Beton, Gestein, Asphalt oder sogar Metall handeln.
 
@@ -105,44 +105,54 @@ Zu den an Baumrinde wachsenden Krustenflechten gehören:
 
 Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 
-Blattflechten:
-Cladonia fimbriata = Trompeten-Becherflechte
-Cladonia macilenta = Rotfrüchtige Säulenflechte
-Flavoparmelia caperata = Eichenflechte
-Melanelixia subaurifera = Gold-Braunflechte
-Parmelia sulcata	 = Sulkatflechte
-Parmelina tiliacea = Linden-Schüsselflechte
-Physcia adscendens = Helm-Schwielenflechte
-Platismatia glauca = Blaugraue Tartschenflechte
-Pleurosticta acetabulum = Essigflechte
-Punctelia jeckeri	 = Jeckers Punktflechte
-Xanthoria parietina = Gewöhnliche Gelbflechte
+**Blattflechten:**\
+[Cladonia fimbriata = Trompeten-Becherflechte](/pilze/cladonia-fimbriata-trompeten-becherflechte)\
+[Cladonia macilenta = Rotfrüchtige Säulenflechte](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)\
+[Flavoparmelia caperata = Eichenflechte](/pilze/flavoparmelia-caperata-eichenflechte)\
+[Melanelixia subaurifera = Gold-Braunflechte](/pilze/melanelixia-subaurifera-gold-braunflechte)\
+[Parmelia sulcata = Sulkatflechte](/pilze/parmelia-sulcata-sulkatflechte)\
+[Parmelina tiliacea = Linden-Schüsselflechte](/pilze/parmelina-tiliacea-linden-schüsselflechte)\
+[Physcia adscendens = Helm-Schwielenflechte](/pilze/physcia-adscendens-helm-schwielenflechte)\
+[Platismatia glauca = Blaugraue Tartschenflechte](/pilze/platismatia-glauca-blaugraue-tartschenflechte)\
+[Pleurosticta acetabulum = Essigflechte](/pilze/pleurosticta-acetabulum-essigflechte)\
+[Punctelia jeckeri = Jeckers Punktflechte](/pilze/punctelia-jeckeri-jeckers-punktflechte)\
+[Xanthoria parietina = Gewöhnliche Gelbflechte](/pilze/xanthoria-parietina)
 
-Strauchflechten:
-Evernia prunastri = Pflaumenflechte
-Pseudevernia furfuracea = Gabelflechte
-Usnea filipendula = Gewöhnlicher Baumbart
-Usnea glabrescens = Verkahlender Baumbart
+**Strauchflechten:**\
+[Evernia prunastri = Pflaumenflechte](/pilze/evernia-prunastri-pflaumenflechte)\
+[Pseudevernia furfuracea = Gabelflechte](/pilze/pseudevernia-furfuracea-gabelflechte)\
+[Usnea filipendula = Gewöhnlicher Baumbart](/pilze/usnea-filipendula-gewöhnlicher-baumbart)\
+[Usnea glabrescens = Verkahlender Baumbart](/pilze/usnea-glabrescens-verkahlender-baumbart)
 
-Krustenflechten:
-Chrysothrix candelaris = Borken-Schwefelflechte
-Flavoplaca citrina = Ztronen-Schönfleck
-Graphis scripta = Schriftflechte
-Lecanora argentata = Silbrige Kuchenflechte
-Lecanora muralis = Mauer-Flechte
-Pertusaria pertusa = Gewöhnliche Porenflechte
-Phlyctis argena = Weiße Blatternflechte
+**Krustenflechten:**\
+[Chrysothrix candelaris = Borken-Schwefelflechte](/pilze/chrysothrix-candelaris-borken-schwefelflechte)\
+[Flavoplaca citrina = Ztronen-Schönfleck](/pilze/flavoplaca-citrina-zitronen-schönfleck)\
+[Graphis scripta = Schriftflechte](/pilze/graphis-scripta-schriftflechte)\
+[Lecanora argentata = Silbrige Kuchenflechte](/pilze/lecanora-argentata-silbrige-kuchenflechte)\
+[Lecanora muralis = Mauer-Flechte](/pilze/lecanora-muralis-mauer-flechte)\
+[Pertusaria pertusa = Gewöhnliche Porenflechte](/pilze/pertusaria-pertusa-gewöhnliche-porenflechte)\
+[Phlyctis argena = Weiße Blatternflechte](/pilze/phlyctis-argena-weiße-blatternflechte)
 
+**Anhang: Flechte der Jahre 2004 bis 2024:**
 
-Literatur:
-
-WIRTH, V. (1995): Die Flechten Baden-Württembergs, 2. Aufl., 1006 S.; Ulmer, Stuttgart
-Kirschbaum U. & Volkmar Wirth (2010): Flechten erkennen - Umwelt bewerten
-Wirth, V. et al. (2011): Rote Liste der Flechten und flechtenbewohnende Pilze Deutschlands
-https://de.wikipedia.org/wiki/Flechte
-https://www.lfu.bayern.de/natur/bayaz/artenschutz_kryptogamen/flechten/systematik/index.htm
-https://www.nabu.de/tiere-und-pflanzen/pilze-und-flechten/14125.html
-http://www.norbert-kuehnberger.de/pilzbildergalerie/D_Flechten-Lichenes_-_226_Arten/index.htm
-https://www.lbv-wue.de/insekten/flechte_des_jahres.php
-https://blam-bl.de/blam/flechte-moos-des-jahres/flechte-moos-des-jahres-ueberblick.html
-
+2004 [Xanthoria parientina](/pilze/xanthoria-parietina)\
+2005 Usnea hirta\
+2006 [Flavoparmelia caperata](/pilze/flavoparmelia-caperata-eichenflechte)\
+2007 Cetraria islandica\
+2008 Letharia vulpinia\
+2009 Cladonia rangifera\
+2010 Dibaeis baeomyces\
+2011 Fulgensia fulgens\
+2012 Lobaria pulmonaria\
+2013 Peltigera didactyla\
+2014 Rhizocarpon geographicum\
+2015 Psilolechnia lucida\
+2016 Icmadophila ericetorum\
+2017 Variospora flavescens\
+2018 Umbilicaria cylindrica\
+2019 Parmotrema perlatum\
+2020 Cladonia digitata\
+2021 [Lecanora muralis](/pilze/lecanora-muralis-mauer-flechte)\
+2022 Enchylium tenax\
+2023 Cladonoa rangiformis\
+2024 Normandina pulchella
