@@ -33,7 +33,7 @@ literatur:
 {% include bild.html datei="/bilder/hypogymnnia_farinacea_02_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Linkes Foto von Liss Hoffmann" %}
 
-Wenn man mit Lupe und Rasierklinge „bewaffnet“ ist, wird es nicht schwerfallen, die Mehlige Blasenflechte (*Hypogymnia farinacea*) schon vor Ort zu erkennen. Es handelt sich um eine mittelgroße Art mit grauem [Thallus](<Thallus "Glossar">), hohlen [Lappen](<Lappen "Glossar">), die im Mittelbereich flächig mit [Soralen](<Sorale "Glossar">) bedeckt ist und eine schwarze Unterseite ohne [Rhizine](<Rhizine "Glossar">) hat. Sie besiedelt bevorzugt die Rinde von Nadelbäumen montaner, feuchter Lagen. Die Rote Liste Deutschlands (2011) führt die Art in der Vorwarnliste „V“. Den hier beschriebenen und abgebildeten Fund machten wir an einer Waldkiefer in einem Schonwald im nördlichen Schwarzwald.
+Wenn man mit Lupe und Rasierklinge „bewaffnet“ ist, wird es nicht schwerfallen, die Mehlige Blasenflechte (*Hypogymnia farinacea*) schon vor Ort zu erkennen. Es handelt sich um eine mittelgroße Art mit grauem [Thallus](Thallus "Glossar"), hohlen [Lappen](Lappen "Glossar"), die im Mittelbereich flächig mit [Soralen](Sorale "Glossar") bedeckt ist und eine schwarze Unterseite ohne [Rhizine](Rhizine "Glossar") hat. Sie besiedelt bevorzugt die Rinde von Nadelbäumen montaner, feuchter Lagen. Die Rote Liste Deutschlands (2011) führt die Art in der Vorwarnliste „V“. Den hier beschriebenen und abgebildeten Fund machten wir an einer Waldkiefer in einem Schonwald im nördlichen Schwarzwald.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hypogymnnia_farinacea_03_lh.jpg" %}
@@ -41,7 +41,7 @@ Wenn man mit Lupe und Rasierklinge „bewaffnet“ ist, wird es nicht schwerfall
 
 **Morphologische Merkmale** (in Anlehnung an WIRTH & DÜLL 2000):
 
-Die Mehlige Blasenflechte ist oberseits grau, im feuchten Zustand bläulichgrau und wächst gerne rosettenartig. Sie erreicht Durchmesser bis zu 5, nach eigenen Beobachtungen sogar bis zu 8 cm. Dabei liegt sie dem Substrat so dicht an, dass sie nur mit Mühe ablösbar ist. Die Lappen sind gewölbt, jedoch flach auslaufend, und bis 3 mm breit. Wie bei allen *Hypogymnia*-Arten sind sie hohl. Der Mittelbereich des Thallus ist meist völlig mit Soralen bedeckt. Die Thallus-Unterseite ist rhizinenlos, schwarz, doch zu den Lappenenden hin braun. [Apothecien](<Apothecien "Glossar">) sind selten; ab und zu sind [Pyknidien](<Pyknidien "Glossar">) zu sehen.\
+Die Mehlige Blasenflechte ist oberseits grau, im feuchten Zustand bläulichgrau und wächst gerne rosettenartig. Sie erreicht Durchmesser bis zu 5, nach eigenen Beobachtungen sogar bis zu 8 cm. Dabei liegt sie dem Substrat so dicht an, dass sie nur mit Mühe ablösbar ist. Die Lappen sind gewölbt, jedoch flach auslaufend, und bis 3 mm breit. Wie bei allen *Hypogymnia*-Arten sind sie hohl. Der Mittelbereich des Thallus ist meist völlig mit Soralen bedeckt. Die Thallus-Unterseite ist rhizinenlos, schwarz, doch zu den Lappenenden hin braun. [Apothecien](Apothecien "Glossar") sind selten; ab und zu sind [Pyknidien](Pyknidien "Glossar") zu sehen.\
 Makrochemische Reaktion (Tüpfelreaktion): Rinde mit Kalilauge (KOH) gelb, später oft rotbraun.
 
 **Ähnliche Flechtenarten:**
