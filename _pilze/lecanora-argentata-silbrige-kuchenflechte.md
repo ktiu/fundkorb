@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: Lecanora	argentata
+  wissenschaftlich: Lecanora argentata
   deutsch: Silbrige Kuchenflechte
   referenz: (Ach.) Malme
   erlaeuterung: argentata = versilbert
