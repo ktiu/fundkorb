@@ -32,7 +32,7 @@ literatur:
   - url: https://italic.units.it/index.php?procedure=taxonpage&num=1099
   - url: http://www.norbert-kuehnberger.de/pilzbildergalerie/D_Flechten-Lichenes_-_226_Arten/index.htm
 ---
-Zu den häufigen, bereits vor Ort mit der Lupe leicht kenntlichen Flechten gehört die Gewöhnliche Blasenflechte *Hypogymnia physodes*. Es handelt sich um eine mittelgroße, graue Blattflechte mit hohlen [Lappen](<Lappen "Glossar">) und auffallenden [Lippensoralen](<Sorale "Glossar">). Sie besiedelt die Rinde unterschiedlicher Baumarten sowie Holz und Gestein. Dabei bevorzugt sie saure Rinden und sauer reagierendes Gestein (Buntsandstein, Granit). Den hier beschriebenen Fund machten wir in einem Kiefern-Schonwald im nördlichen Schwarzwald.
+Zu den häufigen, bereits vor Ort mit der Lupe leicht kenntlichen Flechten gehört die Gewöhnliche Blasenflechte *Hypogymnia physodes*. Es handelt sich um eine mittelgroße, graue Blattflechte mit hohlen [Lappen](Lappen "Glossar") und auffallenden [Lippensoralen](Sorale "Glossar"). Sie besiedelt die Rinde unterschiedlicher Baumarten sowie Holz und Gestein. Dabei bevorzugt sie saure Rinden und sauer reagierendes Gestein (Buntsandstein, Granit). Den hier beschriebenen Fund machten wir in einem Kiefern-Schonwald im nördlichen Schwarzwald.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hypogymnia_physodes_02_nk.jpg" %}
@@ -40,7 +40,7 @@ Zu den häufigen, bereits vor Ort mit der Lupe leicht kenntlichen Flechten gehö
 
 **Morphologische Merkmale:**
 
-Der [Thallus](<Thallus "Glossar">) ist oberseits grau bis grünlichgrau (bei Besprühen mit Wasser wird er heller graugrün). Er wächst oft in Form einer Rosette und kann dabei bis zu 10 cm Durchmesser erreichen. Die Lappen sind glatt, liegen dem Substrat locker an, sind hohl und besitzen an ihren Enden deutlich ausgeformte Lippensorale. Oft sind [Pyknidien](<Pyknidien "Glossar">) auf dem Thallus vorhanden. Die Thallus-Unterseite ist schwarz, zu den Lappenrändern hin braun, und besitzt keine [Rhizinen](<Rhizine "Glossar">). [Apothecien](<Apothecien "Glossar">) sind nur selten zu finden.
+Der [Thallus](Thallus "Glossar") ist oberseits grau bis grünlichgrau (bei Besprühen mit Wasser wird er heller graugrün). Er wächst oft in Form einer Rosette und kann dabei bis zu 10 cm Durchmesser erreichen. Die Lappen sind glatt, liegen dem Substrat locker an, sind hohl und besitzen an ihren Enden deutlich ausgeformte Lippensorale. Oft sind [Pyknidien](Pyknidien "Glossar") auf dem Thallus vorhanden. Die Thallus-Unterseite ist schwarz, zu den Lappenrändern hin braun, und besitzt keine [Rhizinen](Rhizine "Glossar"). [Apothecien](Apothecien "Glossar") sind nur selten zu finden.\
 Makrochemische Farbreaktion (Tüpfelreaktion): auf Mark und Soralen mit p-Phenyldiamin orange, auf der Rinde mit Kalilauge (KOH) gelb, später oft rotbraun.
 
 {% include abbildung_start.html stil="standard" %}
@@ -53,8 +53,8 @@ Makrochemische Farbreaktion (Tüpfelreaktion): auf Mark und Soralen mit p-Phenyl
 
 Alle Arten der Gattung *Hypogymnia* haben hohle Lappen und eine schwarze Unterseite ohne Rhizine.
 
-Ähnliche Flechtenarten:
+**Ähnliche Flechtenarten:**
 
-Die  Röhrige Blasenflechte (*Hypogymnia tubulosa*) zeigt keine P-Reaktion und besitzt aufsteigende, röhrenförmige Loben mit Kopfsoralen.
-Die Mehlige Blasenflechte (*Hypogymnia farinacea*) ist ebenfalls P- und hat zur Thallus-Mitte hin diffuse Flächensorale.
+Die  Röhrige Blasenflechte (*Hypogymnia tubulosa*) zeigt keine P-Reaktion und besitzt aufsteigende, röhrenförmige Loben mit Kopfsoralen.  
+Die Mehlige Blasenflechte (*Hypogymnia farinacea*) ist ebenfalls P- und hat zur Thallus-Mitte hin diffuse Flächensorale.  
 Andere graue Blattflechten besitzen keine schwarze und gleichzeitig rhizinenlose Unterseite.
