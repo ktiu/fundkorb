@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cladonia_fimbriata_01_lh.jpg" %}
+{% include abbildung_ende.html %}
+
+17.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Trompeten-Becherflechte *Cladonia fimbriata*. Es sind ziemlich kleine Trompeten. Sie werden gerade mal 2 cm lang. Wir finden sie immer wieder in einem besonderen Biotop, der Umgebung des Anglerteichs Rödermark-Waldacker, in dem einige weitere seltene Flechtenarten gedeihen, unter anderen Rentier- und rotfrüchtige Säulenflechten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cladonia-fimbriata-trompeten-becherflechte)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xanthoria_parietina_04_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Folgen Sie diesem Link, um [mehr zu erfahren >](/verwandt/flechten)
 15.04.2024: Tintlinge sind in vier recht deutlich voneinander unterschiedenen Gattungen untergebracht, von denen die Scheibchentintintlinge durch sehr grazile, zerbrechliche aber durchaus hübsche Hütchen und nahezu fadendünne Stiele auffallen. Sie sind sehr kurzlebig und ihre Hüte zerfließen nicht zu Tinte. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gemeine Scheibchentintling *Parasola plicatilis*, eine sehr häufige, gern gesellig an Wegrändern wachsende Art, die zur Zeit fast überall zu finden ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/parasola-plicatilis-gemeiner-scheibchentintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peziza_varia_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenbecherling *Peziza varia*. So riesig wie sein deutscher Name vermuten lässt, ist er meist gar nicht. Manche Fruchtkörper dieser ausschließlich an morschem oder faulendem Holz wachsenden Art erreichen kaum mehr als 2 bis 3 Zentimeter Durchmesser. Bei seiner Bestimmung ist auf Verwechslungsmöglichkeiten mit anderen sehr ähnlichen Becherlingen zu achten, was mit einigem Mikroskopieraufwand verbunden ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/peziza-varia-riesenbecherling)
 
 <div style="clear:  both"></div>
 
