@@ -1,0 +1,4 @@
+---
+schlagwort: Lichenologie
+---
+Flechtenkunde
