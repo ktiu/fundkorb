@@ -37,6 +37,8 @@ Mit diesem Merkmal (Lager ohne Fruchtkörper) gelangt man im Bestimmungsschlüss
 {% include bild.html datei="/bilder/flavoplaca_citrina_05_dg.jpg" %}
 {% include abbildung_ende.html legende="Tiefrote Verfärbung mit Kalilauge (KOH)" %}
 
-Die hyalinen Sporen messen 9 - 18 x 5 - 8 µm. 
+Die hyalinen Sporen messen 9 - 18 x 5 - 8 µm.
+
+Ähnliches Aussehen hat die [Borken-Schwefelflechte Chrysothrix candelaris](/pilze/chrysothrix-candelaris-borken-schwefelflechte), die jedoch an Baumrinde wächst.
 
 Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
