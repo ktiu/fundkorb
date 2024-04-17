@@ -2,8 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-17.04.2024: [Cladonia fimbriata - Trompeten-Becherflechte](/pilze/cladonia-fimbriata-trompeten-becherflechte)  
-16.04.2024: [Xanthoria parientina - Gewöhnliche Gelbflechte](/pilze/xanthoria-parietina)  
+18.04.2024: [Polyporus ciliatus - Maiporling](/pilze/polyporus-ciliatus-maiporling)  
+17.04.2024: [Cladonia fimbriata - Trompeten-Becherflechte](/pilze/cladonia-fimbriata-trompeten-becherflechte)\
+16.04.2024: [Xanthoria parientina - Gewöhnliche Gelbflechte](/pilze/xanthoria-parietina)\
 15.04.2024: [Parasola plicatilis - Gemeiner Scheibchentintling](<Parasola plicatilis - Gemeiner Scheibchentintling>)\
 14.04.2024: [Peziza varia - Riesenbecherling](/pilze/peziza-varia-riesenbecherling)\
 13.04.2024: [Taphrina pruni - Pflaumen-Narrentasche](pilze/taphrina-pruni-pflaumen-narrentasche)\
