@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_ciliatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maiporling *Polyporus ciliatus*, ein Stielporling, der inzwischen in die Gattung der Sägeblättlinge (Lentinus) transferiert worden ist, obwohl er keine Lamellen sondern Poren hat. Laut Index fungorum darf er jetzt wieder *Polyporus lepideus* heißen. Er ist an seinen mit bloßem Auge kaum erkennbaren winzigen Poren leicht vom ansonsten sehr ähnlichen [Winterporling (*Polyporus brumalis*)](<[Fundkorbpilz](AA "Glossar-")>) zu unterscheiden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/polyporus-ciliatus-maiporling)
+
+ <div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cladonia_fimbriata_01_lh.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 16.04.2024: Auch Flechten gehören zum komplexen Reich der Pilze. Unter ihnen gibt es viele erstaunlich attraktive Arten. Eine der schönsten und häufigsten ist die Gewöhnliche Gelbflechte *Xantoria parietina* und darum unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Um das zu erkennen, muss man sie allerdings aus der Nähe betrachten. Am besten mit einer gut vergrößernden Lupe. In einer leicht verständlichen Übersicht erklären wir, was Flechten sind, wie und wo sie leben und was es mit diesen Zwitterwesen auf sich hat.
 
 Folgen Sie diesem Link, um [mehr zu erfahren >](/verwandt/flechten) 
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/parasola_plicatilis_02_km.jpg" %}
-{% include abbildung_ende.html %}
-
-15.04.2024: Tintlinge sind in vier recht deutlich voneinander unterschiedenen Gattungen untergebracht, von denen die Scheibchentintintlinge durch sehr grazile, zerbrechliche aber durchaus hübsche Hütchen und nahezu fadendünne Stiele auffallen. Sie sind sehr kurzlebig und ihre Hüte zerfließen nicht zu Tinte. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gemeine Scheibchentintling *Parasola plicatilis*, eine sehr häufige, gern gesellig an Wegrändern wachsende Art, die zur Zeit fast überall zu finden ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/parasola-plicatilis-gemeiner-scheibchentintling)
 
 <div style="clear:  both"></div>
 
