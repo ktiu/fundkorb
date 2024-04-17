@@ -23,7 +23,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/polyporus_ciliatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-18.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maiporling *Polyporus ciliatus*, ein Stielporling, der inzwischen in die Gattung der Sägeblättlinge (Lentinus) transferiert worden ist, obwohl er keine Lamellen sondern Poren hat. Laut Index fungorum darf er jetzt wieder *Polyporus lepideus* heißen. Er ist an seinen mit bloßem Auge kaum erkennbaren winzigen Poren leicht vom ansonsten sehr ähnlichen [Winterporling (*Polyporus brumalis*)](<[Fundkorbpilz](AA "Glossar-")>) zu unterscheiden. (Dieter Gewalt)
+18.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maiporling *Polyporus ciliatus*, ein Stielporling, der inzwischen in die Gattung der Sägeblättlinge (Lentinus) transferiert worden ist, obwohl er keine Lamellen sondern Poren hat. Laut Index fungorum darf er jetzt wieder *Polyporus lepideus* heißen. Er ist an seinen mit bloßem Auge kaum erkennbaren winzigen Poren leicht vom ansonsten sehr ähnlichen [Winterporling (*Polyporus brumalis*)](/pilze/polyporus-brumalis-winterporling) zu unterscheiden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/polyporus-ciliatus-maiporling)
 
