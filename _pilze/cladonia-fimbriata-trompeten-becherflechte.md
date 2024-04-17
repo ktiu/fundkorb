@@ -43,7 +43,7 @@ Zu den leicht kenntlichen Becherflechten-Arten gehört die häufige Trompeten-Be
 {% include bild.html datei="/bilder/cladonia_fimbriata_04_bm.jpg" %}
 {% include abbildung_ende.html legende="Becher von Cladonia fimbriata mit mehlig sorediöser Oberfläche und bräunlichen Pyknidien" %}
 
-Die Podetien von *Cladonia fimbriata* besitzen Becher, sind gleichmäßig schlank und dünnstielig, in der Farbe grau, grünlichgrau oder grünlich und bis etwa 2 cm hoch. Die Becher haben eine Breite bis zu 4 mm, tragen häufig bräunliche [Pyknidien](Pyknidien "Glossar") und sehr selten Apothecien. Die grundständigen Blättchen sind grünlich und nur bis ca. 1 mm breit.
+Die [Podetien](Podetien "Glossar") von *Cladonia fimbriata* besitzen Becher, sind gleichmäßig schlank und dünnstielig, in der Farbe grau, grünlichgrau oder grünlich und bis etwa 2 cm hoch. Die Becher haben eine Breite bis zu 4 mm, tragen häufig bräunliche [Pyknidien](Pyknidien "Glossar") und sehr selten Apothecien. Die grundständigen Blättchen sind grünlich und nur bis ca. 1 mm breit.
 Makrochemische Farbreaktion (Tüpfelreaktion): mit p-Phenylendiamin (PPD) orangerot, mit Kalilauge (KOH) negativ
 
 Von den vierzig *Cladonia*-Arten, die DÜRHAMMER 2003 für Regensburg aufführt, sind nicht alle mit bloßem Auge, einer Lupe und mit der Tüpfelreaktionen bestimmbar. Bei einigen Arten muss zusätzlich die sogenannte „Dünnschicht-Chromatographie“ herangezogen werden, ein Verfahren, das dem Amateur normalerweise nicht zur Verfügung steht.
