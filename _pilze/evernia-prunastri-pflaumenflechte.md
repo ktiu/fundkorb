@@ -49,7 +49,7 @@ Bemerkenswerte Besonderheit: Die Pflaumenflechte wird in der Parfümerie als Bas
 
 **Ähnliche Flechtenarten** (in Anlehnung an KIRSCHBAUM & WIRTH 2010):
 
-Die Gabelflechte (*Pseudevernia furfuracea*) besitzt eine graue Ober- und eine schwarze Unterseite und zylindrische bis korallenartige Isidien.
+Die [Gabelflechte (*Pseudevernia furfuracea*)](/pilze/pseudevernia-furfuracea-gabelflechte) besitzt eine graue Ober- und eine schwarze Unterseite und zylindrische bis korallenartige Isidien.
 Die Mehlige Astflechte (*Ramalina farinacea*) ist beiderseits gelbgrün berindet, und die bandartigen Thallus-Abschnitte sind relativ starr und steif.
 
 Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
