@@ -24,7 +24,7 @@ literatur:
   - url: https://lichenportal.org/portal/taxa/index.php?taxon=54388
   - url: http://www.norbert-kuehnberger.de/pilzbildergalerie/D_Flechten-Lichenes_-_226_Arten/index.htm
 ---
-Bei der Eichenflechte, auch Caperatflechte genannt (Flavoparmelia caperata), handelt es sich um eine wärmeliebende, sehr groß werdende Art mit typisch gelbgrünem Thallus. Sie liebt einzeln und hell stehende Bäume mit relativ saurer Rinde, wie z.B. Eichen, Eschen, Hainbuchen oder Linden. Auch auf saurem Gestein, z.B. Silikatfelsen, kommt sie vor. Die Eichenflechte gilt laut Roter Liste (2011) in Deutschland als ungefährdet.
+Bei der Eichenflechte, auch Caperatflechte genannt (Flavoparmelia caperata), handelt es sich um eine wärmeliebende, sehr groß werdende Art mit typisch gelbgrünen Fruchtkörpern. Sie liebt einzeln und hell stehende Bäume mit relativ saurer Rinde, wie z.B. Eichen, Eschen, Hainbuchen oder Linden. Auch auf saurem Gestein, z.B. Silikatfelsen, kommt sie vor. Die Eichenflechte gilt laut Roter Liste (2011) in Deutschland als ungefährdet.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/flavoparmelia_caperata_02_bm.jpg" %}
