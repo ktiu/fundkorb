@@ -47,5 +47,5 @@ Makrochemische Reaktion (Tüpfelreaktion): Rinde mit Kalilauge (KOH) gelb, spät
 **Ähnliche Flechtenarten:**
 
 Die  Röhrige Blasenflechte (*Hypogymnia tubulosa*) zeigt ebenfalls eine negative p-Phenylendiamin-Reaktion, besitzt jedoch aufsteigende, röhrenförmige Lappen mit Kopfsoralen.\
- Die Gewöhnliche Blasenflechte (*Hypogymnia physodes*) ist mit p-Phenylendiamin orange und hat auffallende Lippensorale an den Lappenenden.\
+ Die [Gewöhnliche Blasenflechte (*Hypogymnia physodes*)](/pilze/hypogymnia-physodes-gewöhnliche-blasenflechte) ist mit p-Phenylendiamin orange und hat auffallende Lippensorale an den Lappenenden.\
 Die restlichen, grauen Blattflechten besitzen nicht gleichzeitig hohle Loben, mittig flächige Sorale und eine schwarze, rhizinenlose Unterseite.
