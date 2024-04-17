@@ -44,6 +44,6 @@ Makrochemische Farbreaktion (Tüpfelreaktion): Rinde mit Kalilauge (KOH) gelb.
 **Ähnliche Flechtenarten** (nach WIRTH & DÜLL 2000):
 
 *Ramalina*-Arten sind unterseits nicht schwarz, sondern graugrün.\
-Das „Eichenmoos“ (*Evernia prunastri*) ist oberseits gelbgrün, unterseits weiß und außerdem [sorediös](sorediös "Glossar"). Die sehr seltene Gefranste Wimpernflechte (*Anaptichia ciliaris*) besitzt weder Isidien noch [Soredien](Soredien "Glossar"), ist jedoch fein behaart.
+Das [„Eichenmoos“ (*Evernia prunastri*)](/pilze/evernia-prunastri-pflaumenflechte) ist oberseits gelbgrün, unterseits weiß und außerdem [sorediös](sorediös "Glossar"). Die sehr seltene Gefranste Wimpernflechte (*Anaptichia ciliaris*) besitzt weder Isidien noch [Soredien](Soredien "Glossar"), ist jedoch fein behaart.
 
 Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
