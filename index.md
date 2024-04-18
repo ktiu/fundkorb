@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycoacia_uda_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.04.2024: Pilzarten mit einem Hymenophor aus Zähnchen oder Stacheln gibt es jede Menge und sie sind auf unglaublich viele Familien und Gattungen verteilt. Einer davon, der Wachsgelbe Fadenstachelpilz *Mycoacia uda* ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Er wächst an Totholz, manchmal an sichtbaren Flächen, aber auch an den Unterseiten von am Boden liegendem Holz. Infolgedessen ist er ein gesuchtes Objekt für passionierte Stöckchendreher. Solche Pilze sicher zu bestimmen ist nicht ganz einfach. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycoacia-uda-wachsgelber-fadenstachelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_ciliatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
