@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-18.04.2024: [Polyporus ciliatus - Maiporling](/pilze/polyporus-ciliatus-maiporling)  
+19.04.2024: [Mycoacia uda - Wachsgelber Fadenstachelpilz](/pilze/mycoacia-uda-wachsgelber-fadenstachelpilz)  
+18.04.2024: [Polyporus ciliatus - Maiporling](/pilze/polyporus-ciliatus-maiporling)\
 17.04.2024: [Cladonia fimbriata - Trompeten-Becherflechte](/pilze/cladonia-fimbriata-trompeten-becherflechte)\
 16.04.2024: [Xanthoria parientina - Gewöhnliche Gelbflechte](/pilze/xanthoria-parietina)\
 15.04.2024: [Parasola plicatilis - Gemeiner Scheibchentintling](<Parasola plicatilis - Gemeiner Scheibchentintling>)\
