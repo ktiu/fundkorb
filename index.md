@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_galericulata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.04.2024: Das Holz, an dem manche Pilze wachsen, ist nicht immer auf den ersten Blick zu erkennen. Es können morsche oder faulende Teile sein, die im Boden verborgen sind. So auch bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Rosablättrigen Helmling *Mycena galericulata*. Es handelt sich um seine sehr häufige Art, die auch immer wieder in unserer Dietzenbacher Parkanlage erscheint. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-galericulata-rosablättriger-helmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycoacia_uda_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -40,30 +52,6 @@ Hier geht's zur [Anmeldung >](/termine)
 [Mehr lesen >](/pilze/polyporus-ciliatus-maiporling)
 
  <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cladonia_fimbriata_01_lh.jpg" %}
-{% include abbildung_ende.html %}
-
-17.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Trompeten-Becherflechte *Cladonia fimbriata*. Es sind ziemlich kleine Trompeten. Sie werden gerade mal 2 cm lang. Wir finden sie immer wieder in einem besonderen Biotop, der Umgebung des Anglerteichs Rödermark-Waldacker, in dem einige weitere seltene Flechtenarten gedeihen, unter anderen Rentier- und rotfrüchtige Säulenflechten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cladonia-fimbriata-trompeten-becherflechte)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xanthoria_parietina_04_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-16.04.2024: Auch Flechten gehören zum komplexen Reich der Pilze. Unter ihnen gibt es viele erstaunlich attraktive Arten. Eine der schönsten und häufigsten ist die Gewöhnliche Gelbflechte *Xantoria parietina* und darum unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Um das zu erkennen, muss man sie allerdings aus der Nähe betrachten. Am besten mit einer gut vergrößernden Lupe. In einer leicht verständlichen Übersicht erklären wir, was Flechten sind, wie und wo sie leben und was es mit diesen Zwitterwesen auf sich hat.
-
-Folgen Sie diesem Link, um [mehr zu erfahren >](/verwandt/flechten) 
-
-<div style="clear:  both"></div>
 
 - - -
 
