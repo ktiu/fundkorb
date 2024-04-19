@@ -35,6 +35,11 @@ Die Schmetterlinstramete ist einer der häufigsten Porlinge überhaupt und fehlt
 
 Ausgewachsene Schmetterlingstrameten zeigen auf ihrer Oberfläche ein Muster aus unterschiedlich gefärbten Zonen, die zum Teil samtfilzig, zum Teil seidig glänzend strukturiert sind. Die Hüte sind dünnfleischig und zäh, das weiße Hutfleisch erreicht nur eine Dicke von ca. 2 mm. Ähnlich ist die [Zonentramete *Trametes ochracea*](/pilze/trametes-ochracea-ockertramete-zonentramete), die ockergelblich bis braunrötlich gefärbt ist und keine dunklen Glanzzonen besitzt. Da beide Arten ziemlich variabel sind, kann es leicht zu Verwechslungen kommen.
 
+Bei reifen Fruchtkörpern könnte die Mikroskopie zur Unterscheidung der beiden Arten beitragen. Die Sporen der Schmetterlingstrame sind schmäler als die der Zonentramete:
+
+Schmetterlingstramete: 6 - 7 x,5 - 2,2 µm
+Zonentramete: 5,5 - 7,5 x 2,5 - 3 µm
+
 Alle Trameten sind gekennzeichnet durch ihre nicht vom Hutfleisch getrennte Röhrenschicht. Die Poren auf der Hutunterseite sind, um es allgemeinverständlich zu formulieren, Öffnungen von Löchern im Hutfleisch.
 Schmetterlingstrameten gelten in der Naturheilkunde als Vital- oder Heilpilze. Sie stärken wie viele andere das Immunsystem und können die Behandlung verschiedener Krankheiten wie Krebs, Rheuma, Hepatitis, HIV und andere Virusinfektionen unterstützen. Auch eine schleimreduzierende Wirkung wird ihnen nachgesagt. Zur Anwendung pulverisiert man die Pilze z. B. in einer Kaffeemühle oder bereitet einen Sud aus dünn geschnittenen Pilzscheibchen. Das Pilzpulver wird auch im Internethandel, zum Teil als Wundermittel mit außerordentlichen Wirkversprechen angeboten, oft unter dem Gattungsnamen *Coriolis*, der aus längst vergangenen Zeiten der Mykologiegeschichte stammt. Solchen vollmundigen Anpreisungen sollte man mit gebotener Skepsis begegnen.
 
