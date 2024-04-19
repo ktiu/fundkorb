@@ -43,7 +43,7 @@ Nun kann man ja nicht tagelang neben einem Fund ausharren, um dessen Entwicklung
 
 Bei reifen Fruchtkörpern könnte die Mikroskopie zur Unterscheidung der beiden Arten beitragen. Die Sporen der Schmetterlingstrame sind schmäler als die der Zonentramete:
 
-Schmetterlingstramete: 6 - 17 x,5 - 2,2 µm\
+Schmetterlingstramete: 6 - 7 x,5 - 2,2 µm\
 Zonentramete: 5,5 - 7,5 x 2,5 - 3 µm
 
 {% include abbildung_start.html stil="mittel" %}
