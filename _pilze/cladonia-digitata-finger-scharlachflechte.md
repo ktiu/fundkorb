@@ -33,7 +33,7 @@ literatur:
 {% include bild.html datei="/bilder/cladonia_digitata_02_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Cladonia digitata mit scharlachroten Apothecien und grundständigen Blättern" %}
 
-Die Finger-Scharlachflechte (*Cladonia digitata*) gehört zu den gut bestimmbaren Becherflechten: rotfrüchtig mit stark [seridiösen](seridiös "Glossar") [Podetien](Podetien "Glossar") und großen grundständigen Blättchen (Grundschuppen). Sie ist häufig und weit verbreitet und wächst gerne an der Stammbasis von Bäumen mit saurer Rinde (Nadelbäume, Birken), auf morschem Holz oder auch direkt auf saurem, nährstoffarmem Boden, z. B. in der Nadelstreu. Den hier beschriebenen Fund konnten wir im Stammbasisbereich einer alten Waldkiefer machen, in einem Waldschutzgebiet mir saurem, torfhaltigem Boden.
+Die Finger-Scharlachflechte (*Cladonia digitata*) gehört zu den gut bestimmbaren Becherflechten: rotfrüchtig mit stark [sorediösen](sorediös "Glossar") [Podetien](Podetien "Glossar") und großen grundständigen Blättchen (Grundschuppen). Sie ist häufig und weit verbreitet und wächst gerne an der Stammbasis von Bäumen mit saurer Rinde (Nadelbäume, Birken), auf morschem Holz oder auch direkt auf saurem, nährstoffarmem Boden, z. B. in der Nadelstreu. Den hier beschriebenen Fund konnten wir im Stammbasisbereich einer alten Waldkiefer machen, in einem Waldschutzgebiet mir saurem, torfhaltigem Boden.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cladonia_digitata_03_bm.jpg" %}
