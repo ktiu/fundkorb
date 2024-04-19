@@ -33,7 +33,7 @@ literatur:
 {% include bild.html datei="/bilder/cladonia_digitata_02_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Cladonia digitata mit scharlachroten Apothecien und grundständigen Blättern" %}
 
-Die Finger-Scharlachflechte (*Cladonia digitata*) gehört zu den gut bestimmbaren Becherflechten: rotfrüchtig mit stark [seridiösen](<seridiös "Glossar">) [Podetien](<Podetien "Glossar">) und großen grundständigen Blättchen (Grundschuppen). Sie ist häufig und weit verbreitet und wächst gerne an der Stammbasis von Bäumen mit saurer Rinde (Nadelbäume, Birken), auf morschem Holz oder auch direkt auf saurem, nährstoffarmem Boden, z. B. in der Nadelstreu. Den hier beschriebenen Fund konnten wir im Stammbasisbereich einer alten Waldkiefer machen, in einem Waldschutzgebiet mir saurem, torfhaltigem Boden.
+Die Finger-Scharlachflechte (*Cladonia digitata*) gehört zu den gut bestimmbaren Becherflechten: rotfrüchtig mit stark [seridiösen](seridiös "Glossar") [Podetien](Podetien "Glossar") und großen grundständigen Blättchen (Grundschuppen). Sie ist häufig und weit verbreitet und wächst gerne an der Stammbasis von Bäumen mit saurer Rinde (Nadelbäume, Birken), auf morschem Holz oder auch direkt auf saurem, nährstoffarmem Boden, z. B. in der Nadelstreu. Den hier beschriebenen Fund konnten wir im Stammbasisbereich einer alten Waldkiefer machen, in einem Waldschutzgebiet mir saurem, torfhaltigem Boden.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cladonia_digitata_03_bm.jpg" %}
@@ -41,7 +41,7 @@ Die Finger-Scharlachflechte (*Cladonia digitata*) gehört zu den gut bestimmbare
 
 **Morphologische Merkmale:**
 
-Die Finger-Scharlachflechte besteht aus grundständigen Blättchen (Grundschuppen) und aus Podetien. Die Grundschuppen stehen dicht, sind abgerundet, wenig gekerbt,  überlagern sich oftmals und sind bis zu 10 mm lang und breit. Oberseits grünlichgrau und glatt, sind sie unterseits weißlich und fein sorediös, wobei die [Soredien](<Soredien "Glossar">) bis zum Rand reichen. Die Podetien sind sehr unterschiedlich geformt, auf ganzer Länge des Stielteils grünlichgrau und dabei dicht und weißlich mit Soredien bedeckt. Die mehr oder weniger gut ausgebildeten Becher tragen rote „Früchte“, das sind meist [Pyknidien](<Pyknidien "Glossar">), seltener [Apothecien](<Apothecien "Glossar">). Oft sind auch Becher mit fingerartigen Fortsätzen vorhanden.
+Die Finger-Scharlachflechte besteht aus grundständigen Blättchen (Grundschuppen) und aus Podetien. Die Grundschuppen stehen dicht, sind abgerundet, wenig gekerbt,  überlagern sich oftmals und sind bis zu 10 mm lang und breit. Oberseits grünlichgrau und glatt, sind sie unterseits weißlich und fein sorediös, wobei die [Soredien](Soredien "Glossar") bis zum Rand reichen. Die Podetien sind sehr unterschiedlich geformt, auf ganzer Länge des Stielteils grünlichgrau und dabei dicht und weißlich mit Soredien bedeckt. Die mehr oder weniger gut ausgebildeten Becher tragen rote „Früchte“, das sind meist [Pyknidien](Pyknidien "Glossar"), seltener [Apothecien](Apothecien "Glossar"). Oft sind auch Becher mit fingerartigen Fortsätzen vorhanden.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cladonia_digitata_04_lh.jpg" %}
