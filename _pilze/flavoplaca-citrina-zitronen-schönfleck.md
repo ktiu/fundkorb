@@ -22,7 +22,7 @@ literatur:
 {% include bild.html datei="/bilder/flavoplaca_citrina_02_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-Eine recht häufige Krustenflechte, die gern an kalkhaltigem Gestein oder Betonmauern wächst, offenbar mit Vorliebe dort, wo Hunde gern ihr Beinchen heben. Beim Vorbeigehen nimmt man lediglich eine gelbe bis grünlich gelbe oder fast schon orangefarbene Verfärbung des Gesteins wahr, bei der man nicht unbedingt an eine Flechte denkt. Erst mit der Lupe sind krümelige, diffus [sorediöse](sorediös "Glossar") Strukturen und vereinzelt [Apothecien](Apothecien "Glossar") zu erkennen, die allerdings nicht zu *Flavoplaca citrina* gehören. Der Zitronen-Schönfleck ist eine Krustelflechte, deren [Lager](Lager "Glossar") keine Fruchtkörper ausbilden.
+Eine recht häufige Krustenflechte, die gern an kalkhaltigem Gestein oder Betonmauern wächst, offenbar mit Vorliebe dort, wo Hunde gern ihr Beinchen heben. Beim Vorbeigehen nimmt man lediglich eine gelbe bis grünlich gelbe oder fast schon orangefarbene Verfärbung des Gesteins wahr, bei der man nicht unbedingt an eine Flechte denkt. Erst mit der Lupe sind krümelige, diffus [sorediöse](sorediös "Glossar") Strukturen und vereinzelt [Apothecien](Apothecien "Glossar") zu erkennen, die allerdings nicht zu *Flavoplaca citrina* gehören. Der Zitronen-Schönfleck ist eine Krustenflechte, deren [Lager](Lager "Glossar") keine Fruchtkörper ausbilden.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/flavoplaca_citrina_03_dg.jpg" nocrop=true gross=true %}
