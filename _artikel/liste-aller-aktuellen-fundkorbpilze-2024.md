@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-20.04.2024: [Mycena galericulata - Rosablättriger Helmling](/pilze/mycena-galericulata-rosablättriger-helmling)  
+21.04.2024: [Mollisia cinerea - Aschgraues Weichbecherchen](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)  
+20.04.2024: [Mycena galericulata - Rosablättriger Helmling](/pilze/mycena-galericulata-rosablättriger-helmling)\
 19.04.2024: [Mycoacia uda - Wachsgelber Fadenstachelpilz](/pilze/mycoacia-uda-wachsgelber-fadenstachelpilz)\
 18.04.2024: [Polyporus ciliatus - Maiporling](/pilze/polyporus-ciliatus-maiporling)\
 17.04.2024: [Cladonia fimbriata - Trompeten-Becherflechte](/pilze/cladonia-fimbriata-trompeten-becherflechte)\
