@@ -12,10 +12,21 @@ footer_scripts:
 
 - - -
 
-Neue Exkursionstermine:\
-Sonntag, 21.04.2024: Zwei-Weiher-Exkursion: **muss leider wegen ungeeigneter Wetterbedingungen ausfallen** \
+Neuer Exkursionstermin:\
 Sonntag, 28.04.2024: Wir suchen den Kleinen Schuppenporling\
 Hier geht's zur [Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hapalopilus_nidulans_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.04.2024: Dieser kurzlebige Porling ist in frischem Zustand innen wie außen gleichmäßig zimtbräunlich gefärbt. Wenn man ihn mit Kalilauge oder Ammoniak betupft, wird er sofort lebhaft violett. Dies ist die Merkmalskombination, an der unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zimtfarbene Weichporling *Hapalopilus nidulans* zweifelsfrei erkannt werden kann. Bliebe noch nachzutragen, dass er stark, möglicherweise sogar tödlich giftig ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -38,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 20.04.2024: Das Holz, an dem manche Pilze wachsen, ist nicht immer auf den ersten Blick zu erkennen. Es können morsche oder faulende Teile sein, die im Boden verborgen sind. So auch bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Rosablättrigen Helmling *Mycena galericulata*. Es handelt sich um seine sehr häufige Art, die auch immer wieder in unserer Dietzenbacher Parkanlage erscheint. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycena-galericulata-rosablättriger-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycoacia_uda_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.04.2024: Pilzarten mit einem Hymenophor aus Zähnchen oder Stacheln gibt es jede Menge und sie sind auf unglaublich viele Familien und Gattungen verteilt. Einer davon, der Wachsgelbe Fadenstachelpilz *Mycoacia uda* ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Er wächst an Totholz, manchmal an sichtbaren Flächen, aber auch an den Unterseiten von am Boden liegendem Holz. Infolgedessen ist er ein gesuchtes Objekt für passionierte Stöckchendreher. Solche Pilze sicher zu bestimmen ist nicht ganz einfach. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycoacia-uda-wachsgelber-fadenstachelpilz)
 
 <div style="clear:  both"></div>
 
