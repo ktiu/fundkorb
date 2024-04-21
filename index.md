@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mollisia_cinerea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.04.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder einer, den man mit der Lupe suchen muss. Und zwar an Unterseiten von vermoderndem feuchtem Totholz. Daran ist das häufige Aschgraue Weichbecherchen *Mollisia cinerea* zu finden, das maximal 2 mm groß werden kann und stiellos auf seinem Substrat sitzt, meist in dichtgedrängten Rasen. Da es zahlreiche ebenfalls graue Becherchen in dieser und in verwandten Gattungen gibt, ist die sichere Bestimmung nicht einfach. Ohne Mikroskop geht da nur wenig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_galericulata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -40,18 +52,6 @@ Hier geht's zur [Anmeldung >](/termine)
 [Mehr lesen >](/pilze/mycoacia-uda-wachsgelber-fadenstachelpilz)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_ciliatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maiporling *Polyporus ciliatus*, ein Stielporling, der inzwischen in die Gattung der Sägeblättlinge (Lentinus) transferiert worden ist, obwohl er keine Lamellen sondern Poren hat. Laut Index fungorum darf er jetzt wieder *Polyporus lepideus* heißen. Er ist an seinen mit bloßem Auge kaum erkennbaren winzigen Poren leicht vom ansonsten sehr ähnlichen [Winterporling (*Polyporus brumalis*)](/pilze/polyporus-brumalis-winterporling) zu unterscheiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/polyporus-ciliatus-maiporling)
-
- <div style="clear:  both"></div>
 
 - - -
 
