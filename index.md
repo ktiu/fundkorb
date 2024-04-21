@@ -13,7 +13,7 @@ footer_scripts:
 - - -
 
 Neue Exkursionstermine:\
-Sonntag, 21.04.2024: Zwei-Weiher-Exkursion\
+Sonntag, 21.04.2024: Zwei-Weiher-Exkursion: **muss leider wegen ungeeigneter Wetterbedingungen ausfallen** \
 Sonntag, 28.04.2024: Wir suchen den Kleinen Schuppenporling\
 Hier geht's zur [Anmeldung >](/termine)
 
