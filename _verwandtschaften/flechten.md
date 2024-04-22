@@ -106,12 +106,14 @@ Zu den an Baumrinde wachsenden Krustenflechten gehören:
 Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 
 **Blattflechten:**\
-[Cladonia digitata = Finger-Scharlachflechte](/pilze/cladonia-digitata-finger-scharlachflechte)  
+[Cladonia digitata = Finger-Scharlachflechte](/pilze/cladonia-digitata-finger-scharlachflechte)\
 [Cladonia fimbriata = Trompeten-Becherflechte](/pilze/cladonia-fimbriata-trompeten-becherflechte)\
 [Cladonia macilenta = Rotfrüchtige Säulenflechte](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)\
 [Flavoparmelia caperata = Eichenflechte](/pilze/flavoparmelia-caperata-eichenflechte)\
 [Hypogymnia farinacea = Mehlige Blasenflechte](/pilze/hypogymnia-farinacea-mehlige-blasenflechte)\
-[Hypogymnia physodes - Gewöhnliche Blasenflechte](/pilze/hypogymnia-physodes-gewöhnliche-blasenflechte)\
+[Hypogymnia physodes = Gewöhnliche Blasenflechte](/pilze/hypogymnia-physodes-gewöhnliche-blasenflechte)\
+[Hypogymnia tubulosa = Röhrige Blasenflechte](/pilze/hypogymnia-tubulosa-röhrige-blasenflechte)  
+[Melanelixia grablatula = Samtige Braunflechte](/pilze/melanelixia-glabratula-samtige-braunflechte)  
 [Melanelixia subaurifera = Gold-Braunflechte](/pilze/melanelixia-subaurifera-gold-braunflechte)\
 [Parmelia sulcata = Sulkatflechte](/pilze/parmelia-sulcata-sulkatflechte)\
 [Parmelina tiliacea = Linden-Schüsselflechte](/pilze/parmelina-tiliacea-linden-schüsselflechte)\
