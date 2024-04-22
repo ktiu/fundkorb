@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agrocybe_praecox_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Voreilende Ackerling *Agrocybe praecox*. Sein Name "voreilend" besagt schon etwas über seine Erscheinungszeit. Er ist aber keineswegs nur ein typischer Frühjahrspilz. Man kann ihn durchaus bis in den Herbst hinein finden. Er bevorzugt offenes Gelände wie Parkanlagen oder Wegränder. Gilt als essbar, schmeckt aber etwas bitter. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agrocybe-praecox-voreilender-ackerling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/hapalopilus_nidulans_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 21.04.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder einer, den man mit der Lupe suchen muss. Und zwar an Unterseiten von vermoderndem feuchtem Totholz. Daran ist das häufige Aschgraue Weichbecherchen *Mollisia cinerea* zu finden, das maximal 2 mm groß werden kann und stiellos auf seinem Substrat sitzt, meist in dichtgedrängten Rasen. Da es zahlreiche ebenfalls graue Becherchen in dieser und in verwandten Gattungen gibt, ist die sichere Bestimmung nicht einfach. Ohne Mikroskop geht da nur wenig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_galericulata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.04.2024: Das Holz, an dem manche Pilze wachsen, ist nicht immer auf den ersten Blick zu erkennen. Es können morsche oder faulende Teile sein, die im Boden verborgen sind. So auch bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Rosablättrigen Helmling *Mycena galericulata*. Es handelt sich um seine sehr häufige Art, die auch immer wieder in unserer Dietzenbacher Parkanlage erscheint. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-galericulata-rosablättriger-helmling)
 
 <div style="clear:  both"></div>
 
