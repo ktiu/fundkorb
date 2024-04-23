@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_cinerea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.04.2024: Wenn man nichts Besseres findet - eine Peniophora ist fast überall zugegen, wo Bäume stehen oder deren Äste am Boden liegen. Bei uns in der Dietzenbacher Parkanlage ist der Aschgraue Zystidenrindenpilz *Peniophora cinerea* an einigen Haselbäumen geradezu üppig vorhanden und daher ein stets zuverlässig anzutreffender [Fundkorbpilz](AA "Glossar-"). Bei Feuchtigkeit fühlt er sich wachsartig an, bei Trockenheit wird er rissig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agrocybe_praecox_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -30,25 +42,13 @@ Hier geht's zur [Anmeldung >](/termine)
 
 - - -
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hapalopilus_nidulans_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 22.04.2024: Dieser kurzlebige Porling ist in frischem Zustand innen wie außen gleichmäßig zimtbräunlich gefärbt. Wenn man ihn mit Kalilauge oder Ammoniak betupft, wird er sofort lebhaft violett. Dies ist die Merkmalskombination, an der unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zimtfarbene Weichporling *Hapalopilus nidulans* zweifelsfrei erkannt werden kann. Bliebe noch nachzutragen, dass er stark, möglicherweise sogar tödlich giftig ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mollisia_cinerea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.04.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder einer, den man mit der Lupe suchen muss. Und zwar an Unterseiten von vermoderndem feuchtem Totholz. Daran ist das häufige Aschgraue Weichbecherchen *Mollisia cinerea* zu finden, das maximal 2 mm groß werden kann und stiellos auf seinem Substrat sitzt, meist in dichtgedrängten Rasen. Da es zahlreiche ebenfalls graue Becherchen in dieser und in verwandten Gattungen gibt, ist die sichere Bestimmung nicht einfach. Ohne Mikroskop geht da nur wenig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)
 
 <div style="clear:  both"></div>
 
