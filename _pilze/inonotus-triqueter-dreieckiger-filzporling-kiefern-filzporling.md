@@ -10,7 +10,7 @@ profil:
   aktualisiert: 2024-04-23
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/inonotus_triqueter_01_wp.jpg
 literatur:
   - url: http://aphyllopower.blogspot.com/2006/10/
