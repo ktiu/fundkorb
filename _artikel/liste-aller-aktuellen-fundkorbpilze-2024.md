@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-23.04.2024: [Agrocybe praecox - Voreilender Ackerling](/pilze/agrocybe-praecox-voreilender-ackerling)  
+24.04.2024: [Peniophora cinerea - Aschgrauer Zystidenrindenpilz](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)  
+23.04.2024: [Agrocybe praecox - Voreilender Ackerling](/pilze/agrocybe-praecox-voreilender-ackerling)\
 22.04.2024: [Hapalopilus nidulans - Zimtfarbener Weichporling](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)\
 21.04.2024: [Mollisia cinerea - Aschgraues Weichbecherchen](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)\
 20.04.2024: [Mycena galericulata - Rosablättriger Helmling](/pilze/mycena-galericulata-rosablättriger-helmling)\
