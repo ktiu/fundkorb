@@ -22,7 +22,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/cyathicula_cyathoidea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-25.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pokalförmige Stängelbecherling `Cyathicula cyathoidea`. Um den zu finden, muss man vetrocknete vorjährige Brennnesselstängel mit der Lupe absuchen. Er kommt aber auch an anderen Pflanzen wie Doldenblütlern, Him- oder Brombeeren vor, um nur einige zu nennen. Die gestielten Becherchen erreichen Durchmesser von 0,5 bis 1,5 mm. (Dieter Gewalt)
+25.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pokalförmige Stängelbecherling *Cyathicula cyathoidea*. Um den zu finden, muss man vetrocknete vorjährige Brennnesselstängel mit der Lupe absuchen. Er kommt aber auch an anderen Pflanzen wie Doldenblütlern, Him- oder Brombeeren vor, um nur einige zu nennen. Die gestielten Becherchen erreichen Durchmesser von 0,5 bis 1,5 mm. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)
 
