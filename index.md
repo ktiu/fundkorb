@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cyathicula_cyathoidea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pokalförmige Stängelbecherling `Cyathicula cyathoidea`. Um den zu finden, muss man vetrocknete vorjährige Brennnesselstängel mit der Lupe absuchen. Er kommt aber auch an anderen Pflanzen wie Doldenblütlern, Him- oder Brombeeren vor, um nur einige zu nennen. Die gestielten Becherchen erreichen Durchmesser von 0,5 bis 1,5 mm. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peniophora_cinerea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 23.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Voreilende Ackerling *Agrocybe praecox*. Sein Name "voreilend" besagt schon etwas über seine Erscheinungszeit. Er ist aber keineswegs nur ein typischer Frühjahrspilz. Man kann ihn durchaus bis in den Herbst hinein finden. Er bevorzugt offenes Gelände wie Parkanlagen oder Wegränder. Gilt als essbar, schmeckt aber etwas bitter. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agrocybe-praecox-voreilender-ackerling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hapalopilus_nidulans_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.04.2024: Dieser kurzlebige Porling ist in frischem Zustand innen wie außen gleichmäßig zimtbräunlich gefärbt. Wenn man ihn mit Kalilauge oder Ammoniak betupft, wird er sofort lebhaft violett. Dies ist die Merkmalskombination, an der unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zimtfarbene Weichporling *Hapalopilus nidulans* zweifelsfrei erkannt werden kann. Bliebe noch nachzutragen, dass er stark, möglicherweise sogar tödlich giftig ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)
 
 <div style="clear:  both"></div>
 
