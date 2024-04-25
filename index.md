@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ischnoderma_resinosum_03_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+26.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein guter Bekannter, den wir regelmäßig an einem Dietzenbacher Waldwegrand begrüßen dürfen: Der Laubholz-Harzporling *Ischnoderma resinosum* ist zwar eine einjährige Art, aber an unserem liegenden Buchenstamm im Optimalstadium entwickeln sich bereits junge Nachkömmlinge während die ältesten Exemplare am Vergehen sind. *Hermann Jahn* hielt ihn noch für eine in Europa sehr seltene Art. In der Rhein-Main-Ebene ist er (und das schon seit Jahren) ganz und gar keine Rarität. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ischnoderma-resinosum-laubholz-harzporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cyathicula_cyathoidea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 24.04.2024: Wenn man nichts Besseres findet - eine Peniophora ist fast überall zugegen, wo Bäume stehen oder deren Äste am Boden liegen. Bei uns in der Dietzenbacher Parkanlage ist der Aschgraue Zystidenrindenpilz *Peniophora cinerea* an einigen Haselbäumen geradezu üppig vorhanden und daher ein stets zuverlässig anzutreffender [Fundkorbpilz](AA "Glossar-"). Bei Feuchtigkeit fühlt er sich wachsartig an, bei Trockenheit wird er rissig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agrocybe_praecox_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Voreilende Ackerling *Agrocybe praecox*. Sein Name "voreilend" besagt schon etwas über seine Erscheinungszeit. Er ist aber keineswegs nur ein typischer Frühjahrspilz. Man kann ihn durchaus bis in den Herbst hinein finden. Er bevorzugt offenes Gelände wie Parkanlagen oder Wegränder. Gilt als essbar, schmeckt aber etwas bitter. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agrocybe-praecox-voreilender-ackerling)
 
 <div style="clear:  both"></div>
 
