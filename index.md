@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/diatrypella_quercina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Eichen-Eckenscheibchen *Diatryplla quercina*. Auf diesen überaus häufigen [Pyromyzeten](Pyromyzeten "Glossar") scheint der Name "Eckenscheibchen" überhaupt nicht zu passen. Seine Fruchtkörper sind keineswegs flach wie eine Scheibe sondern rundlich geformt und brechen die Rinde von Eichenästen und -zweigen pockenartig auf. Bei der Unterscheidung von Pilzarten kommt es eben nicht immer auf die in einem Pilznamen manifestierten Merkmale an! (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/diatrypella-quercina-eichen-eckenscheibchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ischnoderma_resinosum_03_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 25.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pokalförmige Stängelbecherling *Cyathicula cyathoidea*. Um den zu finden, muss man vetrocknete vorjährige Brennnesselstängel mit der Lupe absuchen. Er kommt aber auch an anderen Pflanzen wie Doldenblütlern, Him- oder Brombeeren vor, um nur einige zu nennen. Die gestielten Becherchen erreichen Durchmesser von 0,5 bis 1,5 mm. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_cinerea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.04.2024: Wenn man nichts Besseres findet - eine Peniophora ist fast überall zugegen, wo Bäume stehen oder deren Äste am Boden liegen. Bei uns in der Dietzenbacher Parkanlage ist der Aschgraue Zystidenrindenpilz *Peniophora cinerea* an einigen Haselbäumen geradezu üppig vorhanden und daher ein stets zuverlässig anzutreffender [Fundkorbpilz](AA "Glossar-"). Bei Feuchtigkeit fühlt er sich wachsartig an, bei Trockenheit wird er rissig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
 
 <div style="clear:  both"></div>
 
