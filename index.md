@@ -22,7 +22,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/diatrypella_quercina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-27.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Eichen-Eckenscheibchen *Diatryplla quercina*. Auf diesen überaus häufigen [Pyromyzeten](Pyromyzeten "Glossar") scheint der Name "Eckenscheibchen" überhaupt nicht zu passen. Seine Fruchtkörper sind keineswegs flach wie eine Scheibe sondern rundlich geformt und brechen die Rinde von Eichenästen und -zweigen pockenartig auf. Bei der Unterscheidung von Pilzarten kommt es eben nicht immer auf die in einem Pilznamen manifestierten Merkmale an! (Dieter Gewalt)
+27.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Eichen-Eckenscheibchen *Diatryplla quercina*. Auf diesen überaus häufigen [Pyrenomyzeten](Pyrenomyzeten "Glossar") scheint der Name "Eckenscheibchen" überhaupt nicht zu passen. Seine Fruchtkörper sind keineswegs flach wie eine Scheibe sondern rundlich geformt und brechen die Rinde von Eichenästen und -zweigen pockenartig auf. Bei der Unterscheidung von Pilzarten kommt es eben nicht immer auf die in einem Pilznamen manifestierten Merkmale an! (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/diatrypella-quercina-eichen-eckenscheibchen)
 
