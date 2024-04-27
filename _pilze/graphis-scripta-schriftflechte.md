@@ -37,6 +37,16 @@ Bei der Schriftflechte (*Graphis scripta*), man könnte sie auch „Runenflechte
 Das [Lager](Lager "Glossar") ist weißlich, hellgrau bis grünlichgrau, sehr dünn, glatt und dem Substrat dicht anliegend. Die Fruchtkörper ([Apothecien](Apothecien "Glossar")) sind schwarz, schmal und lang, strichförmig, gebogen, geschlängelt, auch ein- oder mehrfach verzweigt und haben Abmessungen von bis zu 3 x 0,4 mm. Sie sind in den [Thallus](Thallus "Glossar") eingesenkt und besitzen erhabene Ränder.\
 Makrochemische Farbreaktion mit Kalilauge (KOH): negativ oder rotbraun.
 
+**Mikroskopische Merkmale:**
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/graphis_scripta_05_bm.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/graphis_scripta_06_bm.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html %}
+
+Um Sporen zu erhalten, kratzt man die strichförmigen Apothecien mit einer feinen Kanüle
+oder sehr feinen Präpariernadel aus und quetscht sie stark in Wasser unter dem Deckglas. Die Sporen sind spindelförmig, z.T. auch auf einer Seite leicht angeschwollen und auf der anderen schmal auslaufend, bei meiner Ansicht unregelmäßig einreihig zu Viert im [Ascus](Asci "Glossar"). Maße 33 - 40 x 5 - 6,5 µm, Anzahl der Septen 5 - 8.
+
 Die Schriftflechte ist nahezu unverwechselbar. Wer sie einmal gesehen hat, wird sie jederzeit wiedererkennen. Allenfalls kann man sie mit der Schwarzen Zeichflechte (*Opegrapha atra*) verwechsen, die aber viel kleinere, stärker verzweigte, oft sternförmige Fruchtkörper bildet.
 
 Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
