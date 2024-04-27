@@ -32,10 +32,19 @@ literatur:
 ---
 Bei der Schriftflechte (*Graphis scripta*), man könnte sie auch „Runenflechte“ nennen, handelt es sich um eine weit verbreitete, häufige und leicht erkennbare Krustenflechte. Sie wächst auf glatten Rinden von Laubbäumen und Weißtannen und bevorzugt anscheinend Hain- und Rotbuchen sowie Eschen und Haselsträucher in luftfeuchten Lagen.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/graphis_scripta_02_bm.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/graphis_scripta_03_nk.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Foto rechts: Norbert Kühnberger" %}
+
 **Morphologische Merkmale** (in Anlehnung an WIRTH & DÜLL 2000)
 
 Das [Lager](Lager "Glossar") ist weißlich, hellgrau bis grünlichgrau, sehr dünn, glatt und dem Substrat dicht anliegend. Die Fruchtkörper ([Apothecien](Apothecien "Glossar")) sind schwarz, schmal und lang, strichförmig, gebogen, geschlängelt, auch ein- oder mehrfach verzweigt und haben Abmessungen von bis zu 3 x 0,4 mm. Sie sind in den [Thallus](Thallus "Glossar") eingesenkt und besitzen erhabene Ränder.\
 Makrochemische Farbreaktion mit Kalilauge (KOH): negativ oder rotbraun.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/graphis_scripta_04_bm.jpg" %}
+{% include abbildung_ende.html legende="Im Detail: Apothecien schwarz, in den Thallus eingesenkt mit erhabenen Rändern" %}
 
 **Mikroskopische Merkmale:**
 
