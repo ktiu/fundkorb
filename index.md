@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/entoloma_vernum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.04.2024: Rötlinge sind eine recht schwierige Gattung und daher nicht sehr populär. Lediglich einige der im Frühjahr wachsenden Arten sind anhand ihrer Merkmale und der frühen Erscheinungszeit recht gut bestimmbar. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Frühlings-Rötling *Entoloma vernum*. Er gehört zu den kleineren Arten und taucht immer mal wieder in unserer Dietzenbacher Parkanlage auf. Wie viele andere Rötlinge ist er giftig. Er verursacht tagelange mit Durchfall und Erbrechen einhergehende Übelkeit. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/entoloma-vernum-frühlings-rötling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrypella_quercina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 26.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein guter Bekannter, den wir regelmäßig an einem Dietzenbacher Waldwegrand begrüßen dürfen: Der Laubholz-Harzporling *Ischnoderma resinosum* ist zwar eine einjährige Art, aber an unserem liegenden Buchenstamm im Optimalstadium entwickeln sich bereits junge Nachkömmlinge während die ältesten Exemplare am Vergehen sind. *Hermann Jahn* hielt ihn noch für eine in Europa sehr seltene Art. In der Rhein-Main-Ebene ist er (und das schon seit Jahren) ganz und gar keine Rarität. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/ischnoderma-resinosum-laubholz-harzporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cyathicula_cyathoidea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pokalförmige Stängelbecherling *Cyathicula cyathoidea*. Um den zu finden, muss man vetrocknete vorjährige Brennnesselstängel mit der Lupe absuchen. Er kommt aber auch an anderen Pflanzen wie Doldenblütlern, Him- oder Brombeeren vor, um nur einige zu nennen. Die gestielten Becherchen erreichen Durchmesser von 0,5 bis 1,5 mm. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)
 
 <div style="clear:  both"></div>
 
