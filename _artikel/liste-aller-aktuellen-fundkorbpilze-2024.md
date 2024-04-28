@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-28.04.2024: [Entoloma vernum - Frühlings-Rötling](/pilze/entoloma-vernum-frühlings-rötling)  
+29.04.2024: [Hydropus subalpinus - Buchenwald-Wasserfuß](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)  
+28.04.2024: [Entoloma vernum - Frühlings-Rötling](/pilze/entoloma-vernum-frühlings-rötling)\
 27.04.2024: [Diatrypella quercina - Eichen-Eckenscheibchen](/pilze/diatrypella-quercina-eichen-eckenscheibchen)\
 26.04.2024: [Ischnoderma resinosum - Laubholz-Harzporling](/pilze/ischnoderma-resinosum-laubholz-harzporling)\
 25.04.2024: [Cyathicula cyathoidea - Pokalförmiger Stängelbecherling](/pilze/cyathicula-cyathoidea-pokalförmiger-stängelbecherling)\
