@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hydropus_subalpinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.04.2024: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist ein kleines Blätterpilzchen ohne markante Eigenschaften und das macht den meist an dünnen Laubholzästchen wachsenden Buchenwald-Wasserfuß *Hydropus subalpinus* so schwer bestimmbar. Hinzu kommt, dass er in kaum einem populären Pilzbuch erwähnt wird. Wenn man sein Hütchen ruckartig nach oben abzieht, bleibt an der Stielspitze ein Knöpfchen zurück, ähnlich wie beim bekannteren [Knopfstieligen Rübling *Gymnopus confluens*](/pilze/gymnopus-confluens-knopfstieliger-rübling). Das hilft in Verbindung mit der weiß-striegeligen Stielbasis dann doch bei der Identifikation, die mikroskopisch durch schmale würstchenförmige Sporen untermauert werden kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/entoloma_vernum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 27.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Eichen-Eckenscheibchen *Diatryplla quercina*. Auf diesen überaus häufigen [Pyrenomyzeten](Pyrenomyzeten "Glossar") scheint der Name "Eckenscheibchen" überhaupt nicht zu passen. Seine Fruchtkörper sind keineswegs flach wie eine Scheibe sondern rundlich geformt und brechen die Rinde von Eichenästen und -zweigen pockenartig auf. Bei der Unterscheidung von Pilzarten kommt es eben nicht immer auf die in einem Pilznamen manifestierten Merkmale an! (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/diatrypella-quercina-eichen-eckenscheibchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ischnoderma_resinosum_03_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-26.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein guter Bekannter, den wir regelmäßig an einem Dietzenbacher Waldwegrand begrüßen dürfen: Der Laubholz-Harzporling *Ischnoderma resinosum* ist zwar eine einjährige Art, aber an unserem liegenden Buchenstamm im Optimalstadium entwickeln sich bereits junge Nachkömmlinge während die ältesten Exemplare am Vergehen sind. *Hermann Jahn* hielt ihn noch für eine in Europa sehr seltene Art. In der Rhein-Main-Ebene ist er (und das schon seit Jahren) ganz und gar keine Rarität. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ischnoderma-resinosum-laubholz-harzporling)
 
 <div style="clear:  both"></div>
 
