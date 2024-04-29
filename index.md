@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopus_dryophilus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Waldfreundrübling *Gymnopus dryophilus*, der schon früh im Jahr etwa ab März/April zu finden ist. Er gehört zu den Streuzersetzern und ist einer der häufigsten Blätterpilze überhaupt, der in keinem Wald fehlen dürfte. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht mehr ganz so einfach wie früher. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hydropus_subalpinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 28.04.2024: Rötlinge sind eine recht schwierige Gattung und daher nicht sehr populär. Lediglich einige der im Frühjahr wachsenden Arten sind anhand ihrer Merkmale und der frühen Erscheinungszeit recht gut bestimmbar. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Frühlings-Rötling *Entoloma vernum*. Er gehört zu den kleineren Arten und taucht immer mal wieder in unserer Dietzenbacher Parkanlage auf. Wie viele andere Rötlinge ist er giftig. Er verursacht tagelange mit Durchfall und Erbrechen einhergehende Übelkeit. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/entoloma-vernum-frühlings-rötling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diatrypella_quercina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Eichen-Eckenscheibchen *Diatryplla quercina*. Auf diesen überaus häufigen [Pyrenomyzeten](Pyrenomyzeten "Glossar") scheint der Name "Eckenscheibchen" überhaupt nicht zu passen. Seine Fruchtkörper sind keineswegs flach wie eine Scheibe sondern rundlich geformt und brechen die Rinde von Eichenästen und -zweigen pockenartig auf. Bei der Unterscheidung von Pilzarten kommt es eben nicht immer auf die in einem Pilznamen manifestierten Merkmale an! (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/diatrypella-quercina-eichen-eckenscheibchen)
 
 <div style="clear:  both"></div>
 
