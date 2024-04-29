@@ -54,3 +54,5 @@ Macrochemische Farbreaktrionen sämtlich negativ.
 
 Die [Schriftflechte (*Graphis scripta*)](/pilze/graphis-scripta-schriftflechte) besiedelt vergleichbare Habitate, sieht ähnlich aus, doch die Thalli und auch die Apothezien sind wesentlich größer. Außerdem besitzen die Sporen 5 bis 10 Quersepten.\
 *Alyxoria varia* besiedelt ebenfalls vergleichbare Habitate, ist aber seltener.  Der Thallus ist äußerst dünn bis verschwindend, farblich hell bis dunkelgrau. Die Apothecien sind gestreckt bis elliptisch, unverzweigt oder gegabelt, und besitzen einen deutlich breiteren Mittelschlitz. Die Sporen sind 5- bis 8-zellig und besitzen eine vergrößerte Mittelzelle.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
