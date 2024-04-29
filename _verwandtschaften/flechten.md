@@ -112,8 +112,8 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Flavoparmelia caperata = Eichenflechte](/pilze/flavoparmelia-caperata-eichenflechte)\
 [Hypogymnia farinacea = Mehlige Blasenflechte](/pilze/hypogymnia-farinacea-mehlige-blasenflechte)\
 [Hypogymnia physodes = Gewöhnliche Blasenflechte](/pilze/hypogymnia-physodes-gewöhnliche-blasenflechte)\
-[Hypogymnia tubulosa = Röhrige Blasenflechte](/pilze/hypogymnia-tubulosa-röhrige-blasenflechte)  
-[Melanelixia grablatula = Samtige Braunflechte](/pilze/melanelixia-glabratula-samtige-braunflechte)  
+[Hypogymnia tubulosa = Röhrige Blasenflechte](/pilze/hypogymnia-tubulosa-röhrige-blasenflechte)\
+[Melanelixia grablatula = Samtige Braunflechte](/pilze/melanelixia-glabratula-samtige-braunflechte)\
 [Melanelixia subaurifera = Gold-Braunflechte](/pilze/melanelixia-subaurifera-gold-braunflechte)\
 [Parmelia sulcata = Sulkatflechte](/pilze/parmelia-sulcata-sulkatflechte)\
 [Parmelina tiliacea = Linden-Schüsselflechte](/pilze/parmelina-tiliacea-linden-schüsselflechte)\
@@ -129,7 +129,8 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Usnea filipendula = Gewöhnlicher Baumbart](/pilze/usnea-filipendula-gewöhnlicher-baumbart)\
 [Usnea glabrescens = Verkahlender Baumbart](/pilze/usnea-glabrescens-verkahlender-baumbart)
 
-**Krustenflechten:**\
+**Krustenflechten:**  
+[Arthonia atra = Schwarze Zeichenflechte](/pilze/arthonia-atra-schwarze-zeichenflechte)\
 [Chrysothrix candelaris = Borken-Schwefelflechte](/pilze/chrysothrix-candelaris-borken-schwefelflechte)\
 [Flavoplaca citrina = Ztronen-Schönfleck](/pilze/flavoplaca-citrina-zitronen-schönfleck)\
 [Graphis scripta = Schriftflechte](/pilze/graphis-scripta-schriftflechte)\
