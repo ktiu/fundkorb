@@ -13,7 +13,7 @@ footer_scripts:
 - - -
 
 Neuer Exkursionstermin:\
-Sonntag, 28.04.2024: Wir suchen den Kleinen Schuppenporling\
+Sonntag, 12.05.2024: **Der Wald un seine Pilze im Mai**\
 Hier geht's zur [Anmeldung >](/termine)
 
 - - -
