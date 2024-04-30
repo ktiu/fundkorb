@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-30.04.2024: [Gymnopus dryophilus - Waldfreundrübling](/pilze/gymnopus-dryophilus-waldfreundrübling)  
+01.05.2024: [Bolbitius titubans - Goldmistpilz](/pilze/bolbitius-titubans-goldmistpilz)
+
+30.04.2024: [Gymnopus dryophilus - Waldfreundrübling](/pilze/gymnopus-dryophilus-waldfreundrübling)\
 29.04.2024: [Hydropus subalpinus - Buchenwald-Wasserfuß](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)\
 28.04.2024: [Entoloma vernum - Frühlings-Rötling](/pilze/entoloma-vernum-frühlings-rötling)\
 27.04.2024: [Diatrypella quercina - Eichen-Eckenscheibchen](/pilze/diatrypella-quercina-eichen-eckenscheibchen)\
