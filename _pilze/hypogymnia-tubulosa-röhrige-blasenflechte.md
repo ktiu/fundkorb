@@ -35,19 +35,19 @@ Wer eine Flechtenwanderung unternimmt, sollte immer auch mit einer Lupe, einer s
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hypogymnia_tubulosa_02_nk.jpg" %}
-{% include abbildung_ende.html legende="Lappen mit Kopfsoralen, mittig ein quergeschnittener hohler Lappen" %}
+{% include abbildung_ende.html legende="Hypogymnia tubulosa, unten eine Sulkatflechte (Foto: Norbert Kühnberger)" %}
 
 Der [Thallus](Thallus "Glossar") ist oberseits grau bis bläulichgrau, bei Besprühen mit Wasser oft auch grünlichgrau. Er wächst rosettig oder ungleichmäßig, mit einem maximalen Durchmesser von 6 bis 7 cm. Die Lappen sind glatt und hohl, 1 bis 3 mm breit, richten sich an ihrem Ende etwas auf und besitzen [apikal](apikal "Glossar") auffallende Kopfsorale. Die Thallus-Unterseite ist gattungstypisch schwarz, zu den Lappenrändern hin braun, und hat keine [Rhizinen](Rhizine "Glossar"). [Apothecien](Apothecien "Glossar") sind nur selten zu finden.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hypogymnia_tubulosa_03_bm.jpg" %}
-{% include abbildung_ende.html legende="Hypogymnia tubulosa, unten eine Sulkatflechte (Foto: Norbert Kühnberger)" %}
+{% include abbildung_ende.html legende="Lappen mit Kopfsoralen, mittig ein quergeschnittener hohler Lappen" %}
 
 Makrochemische Farbreaktion mit Kalilauge (KOH): Rinde gelb (später oft rotbraun), an Mark und Soralen negativ.
 
 *Hypogymnia tubulosa* kommt oft gemeinsam mit der noch häufigeren *Hypogymnia physodes* vor, wobei die Thalli beider Arten mitunter durcheinander wachsen.
 
-Ähnliche Flechtenarten sind:  
+Ähnliche Flechtenarten sind:\
 Die [Gewöhnliche Blasenflechte (Hypogymnia physodes)](/pilze/hypogymnia-physodes-gewöhnliche-blasenflechte) zeigt an Mark und Soralen mit p-Phenylendiamin eine positiv orangerote Reaktion und besitzt flache Lappen mit Lippensoralen.\
 Die [Mehlige Blasenflechte (Hypogymnia farinacea)](/pilze/hypogymnia-farinacea-mehlige-blasenflechte) hat eine negative p-Phenylendiamin- Reaktion, zur Thallus-Mitte hin jedoch diffuse Flächensorale.\
 Die restlichen grauen Blattflechten besitzen weder hohle Lappen noch eine schwarze, rhizinenlose Unterseite.
