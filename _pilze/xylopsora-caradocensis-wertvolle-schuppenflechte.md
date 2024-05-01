@@ -41,3 +41,5 @@ Der Thallus besteht aus grünlichen bis bräunlichen Schuppen. Diese sind unglei
 Makrochemische Farbreaktion: mit Kalilauge (KOH) auf abgezogenem Filterpapier schwach gelblich.
 
 Die  Aufsteigende Schuppenflechte (*Xylopsora scalaris*) kommt auf vergleichbaren Substraten vor, besteht jedoch aus dachziegelig übereinander angeordneten Schuppen. Die Oberseite der Schuppen ist ocker, grau, braun oder oliv, die Unterseite hell, sorediös und [rhizinenfrei](Rhizine "Glossar"). Die aufgewölbten Schuppenränder besitzen Lippensorale. Die Farbreaktion mit KOH ist rot.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
