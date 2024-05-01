@@ -55,3 +55,5 @@ Makrochemische Farbreaktion: mit Kalilauge (KOH): gelb, mit p-Phenylendiamin (PP
 {% include abbildung_ende.html legende="Abb. links: Vielgestaltige Podetien mit Apothecien und/oder Pyknidien (Foto: Norbert Kühnberger) -- Abb. rechts: Podetium mit fingerartigen Forstätzen, Pyknidien und einem Apothecium (Foto: Liss Hoffmann)" %}
 
 Man findet immer wieder einmal Populationen von *Cladonia digitata* ohne Podetien. Eine Artbestimmung macht aber auch in solchen Fällen auf Grund der einzigartigen Grundschuppen keine Probleme. Die Zuordnung der „Früchte“ zu Pyknidien bzw. zu Apothecien ist nicht immer eindeutig. Andere rotfrüchtige Becherflechten besitzen nicht gleichzeitig große, unterseits weißliche, fein seridiöse Grundschuppen <ins>und</ins> sorediöse Podetien.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
