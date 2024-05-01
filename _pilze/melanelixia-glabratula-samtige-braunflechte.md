@@ -54,3 +54,5 @@ Makrochemische Farbreaktion: Mark mit Kalilauge (KOH) negativ, selten violett/pu
 Die Dunkelsamtige Braunflechte (*Melanelixia fuliginosa*) ist dunkler gefärbt (tiefbraun) und besiedelt überwiegend Gestein.\
 Die [Gold-Braunflechte (*Melanelixia subaurifera*)](/pilze/melanelixia-subaurifera-gold-braunflechte) sieht ähnlich aus. Doch besitzt sie keine echten Isidien, sondern bei ihr ist der Innenbereich dicht mit isidiösen bis sorediösen Wärzchen belegt.\
 Die Bereifte Braunflechte (*Melanelixia subargentifera*) besitzt ebenfalls vergleichbare Größe und Färbung. Doch sind bei ihr die Lappen an den Thallus-Rändern aufsteigend und sehr fein behaart.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
