@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cantharellus_cibarius_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.05.2024: Was mir bei einer gezielten Suche verwehrt beglieben ist, meldet nun *Frank Kaster* aus einem Waldgebiet zwischen Dietzenbach und Neu-Isenburg: die ersten drei Pfifferlinge des Jahres und damit unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Vor 50 Jahren galten sie in der Rhein-Main-Ebene noch als ausgestorben, ihre Bestände haben sich inzwischen aber so gut erholt, dass sie hier in fast jedem Wald wieder anzutreffen und auch keine Rarität mehr sind. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cantharellus-cibarius-pfifferling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bolbitius_titubans_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
