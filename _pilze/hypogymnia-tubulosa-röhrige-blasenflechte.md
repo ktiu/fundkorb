@@ -51,3 +51,5 @@ Makrochemische Farbreaktion mit Kalilauge (KOH): Rinde gelb (später oft rotbrau
 Die [Gewöhnliche Blasenflechte (Hypogymnia physodes)](/pilze/hypogymnia-physodes-gewöhnliche-blasenflechte) zeigt an Mark und Soralen mit p-Phenylendiamin eine positiv orangerote Reaktion und besitzt flache Lappen mit Lippensoralen.\
 Die [Mehlige Blasenflechte (Hypogymnia farinacea)](/pilze/hypogymnia-farinacea-mehlige-blasenflechte) hat eine negative p-Phenylendiamin- Reaktion, zur Thallus-Mitte hin jedoch diffuse Flächensorale.\
 Die restlichen grauen Blattflechten besitzen weder hohle Lappen noch eine schwarze, rhizinenlose Unterseite.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
