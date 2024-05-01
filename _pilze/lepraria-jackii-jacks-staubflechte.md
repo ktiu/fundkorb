@@ -40,3 +40,5 @@ Bei „leprösen Flechten“ handelt es sich um sterile, pulverig-mehlige Kruste
 Viele der *Lepraria*-Arten sind nur unter Zuhilfenahme der Dünnschicht-Chromatografie (DC) exakt bestimmbar. Ohne diese gelangt man lediglich zu einer Artengruppe (Persönliche Mitteilung Dr. Oliver Dürhammer).
 
 Die Gewöhnliche Lepraflechte (*Lepraria incana*) ist makroskopisch zum Verwechseln ähnlich. Allerdings besitzt sie nicht die zahlreichen aus den Soredien austretenden Hyphen und die UV-Autofluoreszenz ist deutlich grünlichweiß.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
