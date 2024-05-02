@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-02.05.2024: [Cantharellus cibarius - Pfifferling](/pilze/cantharellus-cibarius-pfifferling)  
+03.05.2024: [Puccinia urticata - Brennnesselrost](/pilze/puccinia-urticata-brennnesselrost)  
+02.05.2024: [Cantharellus cibarius - Pfifferling](/pilze/cantharellus-cibarius-pfifferling)\
 01.05.2024: [Bolbitius titubans - Goldmistpilz](/pilze/bolbitius-titubans-goldmistpilz)
 
 30.04.2024: [Gymnopus dryophilus - Waldfreundrübling](/pilze/gymnopus-dryophilus-waldfreundrübling)\
