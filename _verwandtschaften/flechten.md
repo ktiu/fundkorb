@@ -136,8 +136,10 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Graphis scripta = Schriftflechte](/pilze/graphis-scripta-schriftflechte)\
 [Lecanora argentata = Silbrige Kuchenflechte](/pilze/lecanora-argentata-silbrige-kuchenflechte)\
 [Lecanora muralis = Mauer-Flechte](/pilze/lecanora-muralis-mauer-flechte)\
+[Lepraria jackii = Jacks Staubflechte](/pilze/lepraria-jackii-jacks-staubflechte)\
 [Pertusaria pertusa = Gewöhnliche Porenflechte](/pilze/pertusaria-pertusa-gewöhnliche-porenflechte)\
-[Phlyctis argena = Weiße Blatternflechte](/pilze/phlyctis-argena-weiße-blatternflechte)
+[Phlyctis argena = Weiße Blatternflechte](/pilze/phlyctis-argena-weiße-blatternflechte)  
+[Xylospora caradocensis = Wertvolle Schuppenflechte](/pilze/xylopsora-caradocensis-wertvolle-schuppenflechte)
 
 **Anhang: Flechte der Jahre 2004 bis 2024:**
 
