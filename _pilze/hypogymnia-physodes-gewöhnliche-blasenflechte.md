@@ -58,3 +58,5 @@ Alle Arten der Gattung *Hypogymnia* haben hohle Lappen und eine schwarze Unterse
 Die  Röhrige Blasenflechte (*Hypogymnia tubulosa*) zeigt keine p-Phenylendiamin-Reaktion und besitzt aufsteigende, röhrenförmige Lappen mit Kopfsoralen.\
 Die [Mehlige Blasenflechte (*Hypogymnia farinacea*)](/pilze/hypogymnia-farinacea-mehlige-blasenflechte) ist ebenfalls p-Phenylendiamin-negativ und hat zur Thallus-Mitte hin diffuse Flächensorale.\
 Andere graue Blattflechten besitzen keine schwarze und gleichzeitig rhizinenlose Unterseite.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/pilze/hypogymnia-physodes-gewöhnliche-blasenflechte)
