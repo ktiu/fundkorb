@@ -13,8 +13,20 @@ footer_scripts:
 - - -
 
 Neuer Exkursionstermin:\
-Sonntag, 12.05.2024: **Der Wald un seine Pilze im Mai**\
+Sonntag, 12.05.2024: **Der Wald und seine Pilze im Mai**\
 Hier geht's zur [Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/puccinia_urticata_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.05.2024: Unter den Rostpilzen vermutet der Laie sicher nichts, was das Auge erfreuen könnte. Doch weit gefehlt. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Brennnesselrost *Puccinia urticata* ist ein schönes Beispiel dafür, wie attraktiv sie sein können. Um das zu erkennen, muss man ihn nur mit der Lupe betrachten. Wenn er an den Stielen erscheint, könnte man ihn für eine wunderschöne orangerote Raupe halten. Aber Vorsicht beim Anfassen! Brennnesseln brennen! (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/puccinia-urticata-brennnesselrost)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -37,30 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 01.05.2024: Ein bildhübscher Pilz und Dung oder Mist müssen nicht unbedingt unvereinbar sein. Es gibt so viele Pilze, die dieses etwas anrüchige Substrat bevorzugen und trotzdem gefallen. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Goldmistpilz *Bolbitius titubans*. Seine anmutige Gestalt und die goldgelbe Farbe machen ihn zu einer attraktiven Erscheinung, die besonders an Wegrändern immer wieder auffällt. Schon nach wenigen Tagen verblasst seine Schönheit, aber das ist nicht nur bei den Pilzen ein Symptom des Alterns. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/bolbitius-titubans-goldmistpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_dryophilus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.04.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Waldfreundrübling *Gymnopus dryophilus*, der schon früh im Jahr etwa ab März/April zu finden ist. Er gehört zu den Streuzersetzern und ist einer der häufigsten Blätterpilze überhaupt, der in keinem Wald fehlen dürfte. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht mehr ganz so einfach wie früher. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hydropus_subalpinus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.04.2024: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist ein kleines Blätterpilzchen ohne markante Eigenschaften und das macht den meist an dünnen Laubholzästchen wachsenden Buchenwald-Wasserfuß *Hydropus subalpinus* so schwer bestimmbar. Hinzu kommt, dass er in kaum einem populären Pilzbuch erwähnt wird. Wenn man sein Hütchen ruckartig nach oben abzieht, bleibt an der Stielspitze ein Knöpfchen zurück, ähnlich wie beim bekannteren [Knopfstieligen Rübling *Gymnopus confluens*](/pilze/gymnopus-confluens-knopfstieliger-rübling). Das hilft in Verbindung mit der weiß-striegeligen Stielbasis dann doch bei der Identifikation, die mikroskopisch durch schmale würstchenförmige Sporen untermauert werden kann. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)
 
 <div style="clear:  both"></div>
 
