@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/flammulaster_carpophilus_01_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+04.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchenwald-Flockenschüppling *Flammulaster carpophilus*. Ein winziges Blätterpilzchen, das mit Vorliebe auf vorjährigen Bucheckernschalen wächst. Auch auf Blättern und Ästchen ist er mitunter zu finden. Seine Hütchen erreichen nur selten Durchmesser von mehr als 1 cm, seine Stiele können bis zu 6 cm lang werden. Bei gezielter Suche wird man vermutlich in jedem Buchenwald fündig werden, auch schon früh im Jahr. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/puccinia_urticata_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 02.05.2024: Was mir bei einer gezielten Suche verwehrt beglieben ist, meldet nun *Frank Kaster* aus einem Waldgebiet zwischen Dietzenbach und Neu-Isenburg: die ersten drei Pfifferlinge des Jahres und damit unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Vor 50 Jahren galten sie in der Rhein-Main-Ebene noch als ausgestorben, ihre Bestände haben sich inzwischen aber so gut erholt, dass sie hier in fast jedem Wald wieder anzutreffen und auch keine Rarität mehr sind. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cantharellus-cibarius-pfifferling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bolbitius_titubans_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.05.2024: Ein bildhübscher Pilz und Dung oder Mist müssen nicht unbedingt unvereinbar sein. Es gibt so viele Pilze, die dieses etwas anrüchige Substrat bevorzugen und trotzdem gefallen. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Goldmistpilz *Bolbitius titubans*. Seine anmutige Gestalt und die goldgelbe Farbe machen ihn zu einer attraktiven Erscheinung, die besonders an Wegrändern immer wieder auffällt. Schon nach wenigen Tagen verblasst seine Schönheit, aber das ist nicht nur bei den Pilzen ein Symptom des Alterns. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/bolbitius-titubans-goldmistpilz)
 
 <div style="clear:  both"></div>
 
