@@ -10,8 +10,8 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/mycena_rubromarginata_01_nk.jpg
-  legende: "2 Fotos: Norbert Kühnberger"
+  datei: /bilder/mycena_rubromarginata_01_jr.jpg
+  legende: "2 Fotos: Johann Rejek"
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 3, Nr. 363"
     url: ""
@@ -21,7 +21,7 @@ literatur:
 In der Ebene unterhalb 200 m NN wird man diesen Helmling nur selten zu finden, in Mittelgebirgslagen ist er jedoch recht häufig und verbreitet. Er wächst zumeist gesellig an morschem, auch an vergrabenem Nadelholz, vor allem Fichte und Tanne.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/mycena_rubromarginata_02_nk.jpg" %}
+{% include bild.html datei="/bilder/mycena_rubromarginata_02_jr.jpg" %}
 {% include abbildung_ende.html %}
 
 Man muss manchmal schon sehr genau hinschauen, um die rot gefärbten Lamellenschneiden zu erkennen. Auch auf obigem Foto, wo sie am rechten Pilz unten noch am deutlichsten auszumachen sind. In der Natur prüft man die Schneiden am Besten mit einer gut vergrößernden Lupe.
