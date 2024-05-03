@@ -13,6 +13,13 @@ hauptbild:
   anzeige: false
   datei: /bilder/hygrocybe_pratensis_02_tl.jpg
 literatur:
+  - text: "Linus Zeitlmayr: Knaurs Pilzbuch (1954), Nr. 41"
+    url: ""
+  - text: "Ewald Gerhardt: Pilze Band 1 (1984), Seite 46 (Camarophyllus pratense)"
+  - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 3, Nr. 76 (Camarophyllus
+      pratensis)"
+  - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Band 3,
+      Seite 38 - 40"
   - url: http://tintling.com/pilzbuch/arten/h/Hygrocybe_pratensis.html
 ---
 {% include abbildung_start.html stil="mittel" %}
