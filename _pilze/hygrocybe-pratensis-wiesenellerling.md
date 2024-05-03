@@ -15,10 +15,10 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/h/Hygrocybe_pratensis.html
 ---
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrocybe_pratensis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/hygrocybe_pratensis_01_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/hygrocybe_pratensis_03_cc.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Wiesenellerlinge bei Langenhain -- Aquarell von Claus Caspari in Knaurs Pilzbuch" %}
 
 Wohl jeder Pilzfreund hat so seine Liste von Arten, die er gern mal finden würde. Bei mir gehört seit langer Zeit der Wiesenellerling dazu. Zum ersten Mal bin ich Mitte der 50er Jahre in *„Knaurs Pilzbuch“* von *Linus Zeitlmayr* auf ihn aufmerksam geworden. Seither habe ich ihn eifrig gesucht, aber nie gefunden. Die Erfolglosigkeit ist um so erstaunlicher, als es sich um einen Pilz handelt, der mit 115 Fundpunkten in Deutschland (West) nicht gerade zu den Raritäten zu zählen scheint. Da seine angestammten Lebensräume (naturnahe, extensiv bewirtschaftete Wiesen) jedoch zunehmend verschwinden, ist er während der letzten Jahrzehnte stark rückläufig und wird als gefährdete Art in Roten Listen geführt.
 
