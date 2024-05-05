@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leptosphaeria_acuta_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.05.2024: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder einer, den man mit der Lupe suchen muss. Und zwar an vertrockneten vorjährigen Brennnesselstängeln. An fast jedem, den man zur Hand nimmt, wird man den Zugespitzten Kugelpilz *Leptosphaeria acuta* in großen Mengen finden und an seiner schwarzen Farbe und dem zugespitzten [Ostiolum](<Ostiolum "Glossar">) zweifelsfrei erkennen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_erythropus._03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 04.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchenwald-Flockenschüppling *Flammulaster carpophilus*. Ein winziges Blätterpilzchen, das mit Vorliebe auf vorjährigen Bucheckernschalen wächst. Auch auf Blättern und Ästchen ist er mitunter zu finden. Seine Hütchen erreichen nur selten Durchmesser von mehr als 1 cm, seine Stiele können bis zu 6 cm lang werden. Bei gezielter Suche wird man vermutlich in jedem Buchenwald fündig werden, auch schon früh im Jahr. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/puccinia_urticata_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.05.2024: Unter den Rostpilzen vermutet der Laie sicher nichts, was das Auge erfreuen könnte. Doch weit gefehlt. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Brennnesselrost *Puccinia urticata* ist ein schönes Beispiel dafür, wie attraktiv sie sein können. Um das zu erkennen, muss man ihn nur mit der Lupe betrachten. Wenn er an den Stielen erscheint, könnte man ihn für eine wunderschöne orangerote Raupe halten. Aber Vorsicht beim Anfassen! Brennnesseln brennen! (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/puccinia-urticata-brennnesselrost)
 
 <div style="clear:  both"></div>
 
