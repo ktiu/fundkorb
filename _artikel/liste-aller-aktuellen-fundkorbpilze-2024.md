@@ -2,8 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+06.05.2024: [Leptosphaeria acuta - Zugespitzter Kugelpilz](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)  
 05.05.2024: [Boletus erythropus - Flockenstieliger Hexenröhrling](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)\
-04.05.2024: [Flammulaster carpophilus - Buchenwald-Flockenschüppling](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)  
+04.05.2024: [Flammulaster carpophilus - Buchenwald-Flockenschüppling](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)\
 03.05.2024: [Puccinia urticata - Brennnesselrost](/pilze/puccinia-urticata-brennnesselrost)\
 02.05.2024: [Cantharellus cibarius - Pfifferling](/pilze/cantharellus-cibarius-pfifferling)\
 01.05.2024: [Bolbitius titubans - Goldmistpilz](/pilze/bolbitius-titubans-goldmistpilz)
