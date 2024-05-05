@@ -22,7 +22,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/leptosphaeria_acuta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-06.05.2024: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder einer, den man mit der Lupe suchen muss. Und zwar an vertrockneten vorjährigen Brennnesselstängeln. An fast jedem, den man zur Hand nimmt, wird man den Zugespitzten Kugelpilz *Leptosphaeria acuta* in großen Mengen finden und an seiner schwarzen Farbe und dem zugespitzten [Ostiolum](<Ostiolum "Glossar">) zweifelsfrei erkennen. (Dieter Gewalt)
+06.05.2024: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder einer, den man mit der Lupe suchen muss. Und zwar an vertrockneten vorjährigen Brennnesselstängeln. An fast jedem, den man zur Hand nimmt, wird man den Zugespitzten Kugelpilz *Leptosphaeria acuta* in großen Mengen finden und an seiner schwarzen Farbe und dem zugespitzten [Ostiolum](Ostiolum "Glossar") zweifelsfrei erkennen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)
 
