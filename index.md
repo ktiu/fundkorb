@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_erythropus._03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.05.2024: In Pilzforen wird schon seit Tagen von Funden des Flockenstieligen Hexenröhrlings berichtet. Jetzt ist er auch in der Rhein-Main-Ebene gesichtet worden und unser aktueller [Fundkorbpilz](AA "Glossar-"). Kenner wissen ihn als ausgezeichneten Speisepilz zu schätzen. Unerfahrene Sammler sollten sich nicht von seiner intensiven Dunkelblauverfärbung beim Anfassen oder Anschneiden abschrecken lassen. In der Pfanne wird wieder ein appetitliches Gelb daraus. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/flammulaster_carpophilus_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 03.05.2024: Unter den Rostpilzen vermutet der Laie sicher nichts, was das Auge erfreuen könnte. Doch weit gefehlt. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Brennnesselrost *Puccinia urticata* ist ein schönes Beispiel dafür, wie attraktiv sie sein können. Um das zu erkennen, muss man ihn nur mit der Lupe betrachten. Wenn er an den Stielen erscheint, könnte man ihn für eine wunderschöne orangerote Raupe halten. Aber Vorsicht beim Anfassen! Brennnesseln brennen! (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/puccinia-urticata-brennnesselrost)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cantharellus_cibarius_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.05.2024: Was mir bei einer gezielten Suche verwehrt beglieben ist, meldet nun *Frank Kaster* aus einem Waldgebiet zwischen Dietzenbach und Neu-Isenburg: die ersten drei Pfifferlinge des Jahres und damit unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Vor 50 Jahren galten sie in der Rhein-Main-Ebene noch als ausgestorben, ihre Bestände haben sich inzwischen aber so gut erholt, dass sie hier in fast jedem Wald wieder anzutreffen und auch keine Rarität mehr sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cantharellus-cibarius-pfifferling)
 
 <div style="clear:  both"></div>
 
