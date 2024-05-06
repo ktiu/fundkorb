@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_-argyraceum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.05.2024: So früh wie in diesem Jahr habe ich unseren aktuellen [Fundkorbpilz](AA "Glossar-") in meinen Dietzenbacher Carré noch nie gefunden! Und davon gleich eine ganze Menge. Es ist der Gilbende Erdritterling *Tricholoma argyraceum*, der von vielen Pilzbuchautoren als essbar bezeichnet wird. Nach einer Geschmacksprobe stand für mich fest: der schmeckt so übel ranzig mehlig, der kommt mir nicht in die Pfanne. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tricholoma-argyraceum-gilbender-erdritterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leptosphaeria_acuta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 05.05.2024: In Pilzforen wird schon seit Tagen von Funden des Flockenstieligen Hexenröhrlings berichtet. Jetzt ist er auch in der Rhein-Main-Ebene gesichtet worden und unser aktueller [Fundkorbpilz](AA "Glossar-"). Kenner wissen ihn als ausgezeichneten Speisepilz zu schätzen. Unerfahrene Sammler sollten sich nicht von seiner intensiven Dunkelblauverfärbung beim Anfassen oder Anschneiden abschrecken lassen. In der Pfanne wird wieder ein appetitliches Gelb daraus. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/flammulaster_carpophilus_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-04.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchenwald-Flockenschüppling *Flammulaster carpophilus*. Ein winziges Blätterpilzchen, das mit Vorliebe auf vorjährigen Bucheckernschalen wächst. Auch auf Blättern und Ästchen ist er mitunter zu finden. Seine Hütchen erreichen nur selten Durchmesser von mehr als 1 cm, seine Stiele können bis zu 6 cm lang werden. Bei gezielter Suche wird man vermutlich in jedem Buchenwald fündig werden, auch schon früh im Jahr. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)
 
 <div style="clear:  both"></div>
 
