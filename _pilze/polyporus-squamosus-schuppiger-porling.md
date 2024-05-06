@@ -21,7 +21,7 @@ literatur:
 ---
 In der Gattung *Polyporus* stehen zentral oder exzentrisch gestielte Porlinge, deren größte Art der Schuppige Porling ist. Seine Hüte erreichen im Normalfall Durchmesser von 10 bis 40 cm, können in Ausnahmefällen jedoch bis zu 60 cm groß werden. Sie sind nieren- oder fächer-förmig, seltener kreisrund. Die Oberfläche ist auf ockergelbem Grund konzentrisch dunkelbraun geschuppt. Die Poren laufen bogig am Stiel herab, der 3 bis 5 cm lang werden und am Grund dunkelbraun bis schwarz gefärbt sein kann (nicht <ins>muss</ins>).
 
-Die Haupterscheinungszeit ist von April bis September in boden- und luftfeuchten Laub- und Auwäldern. Bevorzugt werden Eichen, Weiden- und Buchen. Als Wundparasit befällt der Pilz die Stämme lebender Laubbäume und schädigt dabei das Kernholz mit einer Weißfäule, kann aber auch saprobiontisch an Totholz wachsen.
+Die Haupterscheinungszeit ist von April bis September in boden- und luftfeuchten Laub- und Auwäldern. Bevorzugt werden Eichen, Weiden und Buchen. Als Wundparasit befällt der Pilz die Stämme lebender Laubbäume und schädigt dabei das Kernholz mit einer Weißfäule, kann aber auch saprobiontisch an Totholz wachsen.
 
 Nahezu vor meiner Haustür in einem Parkgelände im Zentrum Dietzenbachs beobachte ich seit Jahren ihr Wachstum in 1,5 bis 2 Meter Höhe an einer Weide, die keineswegs einen geschädigten Eindruck macht. Im Naturschutzgebiet Kühkopf, in dem ich die Art regelmäßig finde, wächst sie an zahlreichen Stellen an Eichen und Weiden.
 
