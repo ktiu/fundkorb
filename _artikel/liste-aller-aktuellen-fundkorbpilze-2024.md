@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-07.05.2024: [Tricholoma argyraceum - Gilbender Erdritterling](/pilze/tricholoma-argyraceum-gilbender-erdritterling)  
+08.05.2024: [Lophodermium pinastri - Kiefernnadel-Spaltlippe](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)  
+07.05.2024: [Tricholoma argyraceum - Gilbender Erdritterling](/pilze/tricholoma-argyraceum-gilbender-erdritterling)\
 06.05.2024: [Leptosphaeria acuta - Zugespitzter Kugelpilz](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)\
 05.05.2024: [Boletus erythropus - Flockenstieliger Hexenröhrling](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)\
 04.05.2024: [Flammulaster carpophilus - Buchenwald-Flockenschüppling](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)\
