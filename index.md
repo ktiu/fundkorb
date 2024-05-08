@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tubaria_dispersa_01_fk.jpeg" %}
+{% include abbildung_ende.html %}
+
+09.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist Gelbblättrige Trompetenschnitzling *Tubaria dispersa*. Den habe ich im Dietzenbacher Stadtgebiet schon desöfteren gefunden, wie es sich gehört stets bei Weißdorn, einem Rosengewächs. Jetzt auch zum ersten Mal in unserer pilzreichen Parkanlage, dem Carré an der Rodgaustraße. Sobald man ihn in der richtigen Gattung vermutet, ist er leicht zu erkennen. Unter den Trompetenschnitzlingen fällt er durch seine helle gelbliche Farbe auf. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lophodermium_-pinastri_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,30 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 07.05.2024: So früh wie in diesem Jahr habe ich unseren aktuellen [Fundkorbpilz](AA "Glossar-") in meinen Dietzenbacher Carré noch nie gefunden! Und davon gleich eine ganze Menge. Es ist der Gilbende Erdritterling *Tricholoma argyraceum*, der von vielen Pilzbuchautoren als essbar bezeichnet wird. Nach einer Geschmacksprobe stand für mich fest: der schmeckt so übel ranzig mehlig, der kommt mir nicht in die Pfanne. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tricholoma-argyraceum-gilbender-erdritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leptosphaeria_acuta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.05.2024: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder einer, den man mit der Lupe suchen muss. Und zwar an vertrockneten vorjährigen Brennnesselstängeln. An fast jedem, den man zur Hand nimmt, wird man den Zugespitzten Kugelpilz *Leptosphaeria acuta* in großen Mengen finden und an seiner schwarzen Farbe und dem zugespitzten [Ostiolum](Ostiolum "Glossar") zweifelsfrei erkennen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_erythropus._03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.05.2024: In Pilzforen wird schon seit Tagen von Funden des Flockenstieligen Hexenröhrlings berichtet. Jetzt ist er auch in der Rhein-Main-Ebene gesichtet worden und unser aktueller [Fundkorbpilz](AA "Glossar-"). Kenner wissen ihn als ausgezeichneten Speisepilz zu schätzen. Unerfahrene Sammler sollten sich nicht von seiner intensiven Dunkelblauverfärbung beim Anfassen oder Anschneiden abschrecken lassen. In der Pfanne wird wieder ein appetitliches Gelb daraus. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)
 
 <div style="clear:  both"></div>
 
