@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_squamosus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.05.2024: Eigentlich war ich in der Luderbachaue bei Dreieich auf der Suche nach dem Kleinen Schuppenporling. Gefunden habe ich die viel größeren Schuppigen Porlinge *Polyporus squamosus*, unseren heutigen [Fundkorbpilz](AA "Glossar-"). Seine Hüte können bis zu 60 cm breit werden. Sie wuchsen an einem toten Laubholzstamm, können aber auch als Parasiten lebende Bäume befallen. Solange sie noch jung und zart sind, sind sie durchaus für eine Pilzpfanne zu gebrauchen, aber längst nicht so lecker wie der [Kleine Schuppenporling](/pilze/polyporus-tuberaster-sklerotienporling). (Florian Weyel)
+
+[Mehr lesen >](/pilze/polyporus-squamosus-schuppiger-porling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tubaria_dispersa_01_fk.jpeg" %}
 {% include abbildung_ende.html %}
 
