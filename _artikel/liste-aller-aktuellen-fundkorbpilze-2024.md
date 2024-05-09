@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-09.05.2024: [Tubaria dispersa - Gelbblättriger Trompetenschnitzling](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)  
+10.05.2024: [Polyporus squamosus - Schuppiger Porling](/pilze/polyporus-squamosus-schuppiger-porling)  
+09.05.2024: [Tubaria dispersa - Gelbblättriger Trompetenschnitzling](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)\
 08.05.2024: [Lophodermium pinastri - Kiefernnadel-Spaltlippe](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)\
 07.05.2024: [Tricholoma argyraceum - Gilbender Erdritterling](/pilze/tricholoma-argyraceum-gilbender-erdritterling)\
 06.05.2024: [Leptosphaeria acuta - Zugespitzter Kugelpilz](/pilze/leptosphaeria-acuta-zugespitzter-kugelpilz)\
