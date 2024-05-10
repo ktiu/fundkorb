@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_rubescens_01_dg-1536x1102.jpg" %}
+{% include abbildung_ende.html %}
+
+11.05.2024: In unserer Dietzenbacher Parkanlage sind gerade die ersten Exemplare des Perlpilzes (*Amanita rubescens*) erschienen, der natürlich auch unser aktueller [Fundkorbpilz](AA "Glossar-") sein muss. Erfahrene Pilzsammler haben keine Probleme ihn sicher zu erkennen. Einsteiger sollten sich vor dem ersten Perlpilzgericht jedoch gründlich über die Verwechslungsmöglichkeiten informieren. Den [Pantherpilz](/pilze/amanita-pantherina-pantherpilz) sollte man besser nicht in der Pfanne bzw. im Magen haben. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-rubescens-perlpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_squamosus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,30 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 09.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist Gelbblättrige Trompetenschnitzling *Tubaria dispersa*. Den habe ich im Dietzenbacher Stadtgebiet schon desöfteren gefunden, wie es sich gehört stets bei Weißdorn, einem Rosengewächs. Jetzt auch zum ersten Mal in unserer pilzreichen Parkanlage, dem Carré an der Rodgaustraße. Sobald man ihn in der richtigen Gattung vermutet, ist er leicht zu erkennen. Unter den Trompetenschnitzlingen fällt er durch seine helle gelbliche Farbe auf. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lophodermium_-pinastri_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.05.2024: Es gibt tatsächlich eine Gruppe von Pilzen, die „Flicklumpenartige“ genannt wird! Zu ihnen gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Kiefernnadel-Spaltlippe *Lophodermium pinastri*. Die Bezeichnung „Spaltlippe“ beschreibt sehr schön das Aussehen dieser schwarzen Fruchtkörperchen, die in langen Reihen auf den Innenseiten der Nadeln zu sehen sind. Sie sind stets durch eine dünne dunkle Linie voneinander getrennt. An diesem Merkmal sind sie gut von den [Kiefernschütte-Spaltlippen *Lophodermium seditiosum*](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe) zu unterscheiden.  (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_-argyraceum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.05.2024: So früh wie in diesem Jahr habe ich unseren aktuellen [Fundkorbpilz](AA "Glossar-") in meinen Dietzenbacher Carré noch nie gefunden! Und davon gleich eine ganze Menge. Es ist der Gilbende Erdritterling *Tricholoma argyraceum*, der von vielen Pilzbuchautoren als essbar bezeichnet wird. Nach einer Geschmacksprobe stand für mich fest: der schmeckt so übel ranzig mehlig, der kommt mir nicht in die Pfanne. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tricholoma-argyraceum-gilbender-erdritterling)
 
 <div style="clear:  both"></div>
 
