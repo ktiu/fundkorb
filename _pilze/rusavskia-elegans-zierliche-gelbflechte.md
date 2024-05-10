@@ -37,7 +37,7 @@ Eine wunderschöne, orangerote Krustenflechte, die Zierliche Gelbflechte (*Rusav
 
 **Morphologische Merkmale:**
 
-Das [Lager](Lager "Glossar") (Thallus) ist orangerot bis rot, wächst gleichmäßig rosettig und wird bis zu 30 mm breit. Die [Läppchen](<Lappen "Glossar" >) (Loben) sind lang und schmal, gleichmäßig strahlig, am Ende fingerförmig angeordnet und bis zu 1 mm breit. Wichtig: Sie sind gewölbt, ihre Ränder heruntergebogen. Becher ([Apothecien](<Apothecien "Glossar">)) sind stets vorhanden, zur Thallusmitte hin gehäuft und bis 1,5 mm breit. Ihre Farbe stimmt mit der des Thallus überein. Vegetative Vermehrungsorgane ([Isidien](<Isidien "Glossar">), [Sorale](<Sorale "Glossar">)) fehlen.
+Das [Lager](Lager "Glossar") (Thallus) ist orangerot bis rot, wächst gleichmäßig rosettig und wird bis zu 30 mm breit. Die [Läppchen](Lappen "Glossar" ) (Loben) sind lang und schmal, gleichmäßig strahlig, am Ende fingerförmig angeordnet und bis zu 1 mm breit. Wichtig: Sie sind gewölbt, ihre Ränder heruntergebogen. Becher ([Apothecien](Apothecien "Glossar")) sind stets vorhanden, zur Thallusmitte hin gehäuft und bis 1,5 mm breit. Ihre Farbe stimmt mit der des Thallus überein. Vegetative Vermehrungsorgane ([Isidien](Isidien "Glossar"), [Sorale](Sorale "Glossar")) fehlen.
 Makrochemische Farbreaktion: mit Kalilauge (KOH) violettrot
 
 Verwechslungsmöglichkeiten:
