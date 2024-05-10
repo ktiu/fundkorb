@@ -4,6 +4,7 @@ beschreibung:
   deutsch: Mauer-Flechte
   referenz: (Schreb.) Rabenh. 1845
   erlaeuterung: muralis = an Mauern oder Steinen wachsend
+  synonym: "Neuer Name: Protoparmeliopsis muralis"
 profil:
   aktualisiert: 2024-04-14
   autor_in: Dieter Gewalt
