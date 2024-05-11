@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/psathyrella_candolleana_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Behangene Faserling *Psathyrella candolleana*. Der Regen während der letzten Tage hat in der Rhein-Main-Ebene und auch in unserer Dietzenbacher Parkanlage ausgereicht, um ihn gleich an mehreren Stellen erscheinen zu lassen. Ein bisschen Totholz, am Boden oder vergraben, gehören neben etwas Feuchtigkeit zu den Bedingungen, die er zum Wachstum benötigt. Wer ihn sicher kennt, kann ihn in der Küche verwenden. Er eignet sich ganz gut als Suppeneinlage. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/psathyrella-candolleana-behangener-faserling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_rubescens_01_dg-1536x1102.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 10.05.2024: Eigentlich war ich in der Luderbachaue bei Dreieich auf der Suche nach dem Kleinen Schuppenporling. Gefunden habe ich die viel größeren Schuppigen Porlinge *Polyporus squamosus*, unseren heutigen [Fundkorbpilz](AA "Glossar-"). Seine Hüte können bis zu 60 cm breit werden. Sie wuchsen an einem toten Laubholzstamm, können aber auch als Parasiten lebende Bäume befallen. Solange sie noch jung und zart sind, sind sie durchaus für eine Pilzpfanne zu gebrauchen, aber längst nicht so lecker wie der [Kleine Schuppenporling](/pilze/polyporus-tuberaster-sklerotienporling). (Florian Weyel)
 
 [Mehr lesen >](/pilze/polyporus-squamosus-schuppiger-porling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tubaria_dispersa_01_fk.jpeg" %}
-{% include abbildung_ende.html %}
-
-09.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist Gelbblättrige Trompetenschnitzling *Tubaria dispersa*. Den habe ich im Dietzenbacher Stadtgebiet schon desöfteren gefunden, wie es sich gehört stets bei Weißdorn, einem Rosengewächs. Jetzt auch zum ersten Mal in unserer pilzreichen Parkanlage, dem Carré an der Rodgaustraße. Sobald man ihn in der richtigen Gattung vermutet, ist er leicht zu erkennen. Unter den Trompetenschnitzlingen fällt er durch seine helle gelbliche Farbe auf. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)
 
 <div style="clear:  both"></div>
 
