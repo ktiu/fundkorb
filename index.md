@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
+{% include abbildung_ende.html %}
+
+13.05.2024: Es gibt einen weißen Champignon, der Asphaltdecken sprengen und Gehwegplatten hochstemmen kann. Dazu ist er ein ausgezeichneter Speisepilz und gerade wieder als aktueller [Fundkorbpilz](AA "Glossar-") in unserer Dietzenbacher Parkanlage erschienen: der Stadt-Champignon *Agaricus bitorquis*. Man erkennt ihn an seinem doppelten nach unten <ins>und</ins> oben abstehenden Stielring. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agaricus-bitorquis-stadt-champignon)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/psathyrella_candolleana_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 11.05.2024: In unserer Dietzenbacher Parkanlage sind gerade die ersten Exemplare des Perlpilzes (*Amanita rubescens*) erschienen, der natürlich auch unser aktueller [Fundkorbpilz](AA "Glossar-") sein muss. Erfahrene Pilzsammler haben keine Probleme ihn sicher zu erkennen. Einsteiger sollten sich vor dem ersten Perlpilzgericht jedoch gründlich über die Verwechslungsmöglichkeiten informieren. Den [Pantherpilz](/pilze/amanita-pantherina-pantherpilz) sollte man besser nicht in der Pfanne bzw. im Magen haben. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-rubescens-perlpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_squamosus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.05.2024: Eigentlich war ich in der Luderbachaue bei Dreieich auf der Suche nach dem Kleinen Schuppenporling. Gefunden habe ich die viel größeren Schuppigen Porlinge *Polyporus squamosus*, unseren heutigen [Fundkorbpilz](AA "Glossar-"). Seine Hüte können bis zu 60 cm breit werden. Sie wuchsen an einem toten Laubholzstamm, können aber auch als Parasiten lebende Bäume befallen. Solange sie noch jung und zart sind, sind sie durchaus für eine Pilzpfanne zu gebrauchen, aber längst nicht so lecker wie der [Kleine Schuppenporling](/pilze/polyporus-tuberaster-sklerotienporling). (Florian Weyel)
-
-[Mehr lesen >](/pilze/polyporus-squamosus-schuppiger-porling)
 
 <div style="clear:  both"></div>
 
