@@ -11,7 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/baeomyces_rufus_01_lh.jpg
-  legende: "Foto: Liss Hoffmann"
+  legende: "Baeomyces rufus an einer Buntsandsteinmauer (Foto: Liss Hoffmann)"
 literatur:
   - text: "WIRTH, V. (1995): Die Flechten Baden-Württembergs, 2. Aufl., 1006 S.;
       Ulmer, Stuttgart: 172 - 174"
@@ -30,7 +30,7 @@ Die Fruchtkörper ([Apothecien](Apothecien "Glossar")) dieser Krustenflechte seh
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/baeomyces_rufus_02_bhay.jpg" %}
-{% include abbildung_ende.html legende="Foto: Bernd Haynold" %}
+{% include abbildung_ende.html legende="Foto: Bernd Haynold (aus wikipedia.org)" %}
 
 **Morphologische Merkmale:**
 
