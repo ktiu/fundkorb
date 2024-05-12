@@ -13,7 +13,7 @@ footer_scripts:
 - - -
 
 Neuer Exkursionstermin:\
-Samstag, 26.05.2024: **Pilzkundliche Wanderung im Frankfurter Stadtwald**\
+Samstag, 25. Mai 2024: **Pilzkundliche Wanderung im Frankfurter Stadtwald**\
 Hier geht's zur [Anmeldung >](/termine)
 
 - - -
