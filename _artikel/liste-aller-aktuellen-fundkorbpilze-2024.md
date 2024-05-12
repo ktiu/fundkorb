@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-12.05.2024: [Psathyrella candolleana - Behangener Faserling](/pilze/psathyrella-candolleana-behangener-faserling)  
+13.05.2024: [Agaricus bitoquis - Stadt-Champignon](/pilze/agaricus-bitorquis-stadt-champignon)  
+12.05.2024: [Psathyrella candolleana - Behangener Faserling](/pilze/psathyrella-candolleana-behangener-faserling)\
 11.05.2024: [Amanita rubescens - Perlpilz](/pilze/amanita-rubescens-perlpilz)\
 10.05.2024: [Polyporus squamosus - Schuppiger Porling](/pilze/polyporus-squamosus-schuppiger-porling)\
 09.05.2024: [Tubaria dispersa - Gelbblättriger Trompetenschnitzling](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)\
