@@ -34,7 +34,7 @@ Die Fruchtkörper ([Apothecien](Apothecien "Glossar")) dieser Krustenflechte seh
 
 **Morphologische Merkmale:**
 
-Das trocken grünlichgraue, feucht hellgrünliche [Lager](<Lager "Glossar">) liegt dem Substrat dünn an und bringt unzählige, bis 4 mm hohe Apothecien hervor. Dabei ist das Lager aus winzigen Krümeln oder Schüppchen zusammengesetzt. Die Apothecien besitzen ein weißliches Stielchen und ein rosabräunliches, bis 2 mm breites, halbkugeliges Köpfchen.\
+Das trocken grünlichgraue, feucht hellgrünliche [Lager](Lager "Glossar") liegt dem Substrat dünn an und bringt unzählige, bis 4 mm hohe Apothecien hervor. Dabei ist das Lager aus winzigen Krümeln oder Schüppchen zusammengesetzt. Die Apothecien besitzen ein weißliches Stielchen und ein rosabräunliches, bis 2 mm breites, halbkugeliges Köpfchen.\
 Makrochemische Reaktionen: mit Kalilauge (KOH) gelb, mit p-Phenylendiamin (PPD) orange
 
 Verwechselt werden könnte unsere Art mit der seltenen Schuppige Köpfchenflechte *Baeomyces placophyllus*, die ein am Rand deutlich gelapptes Lager besitzt.
