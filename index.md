@@ -22,7 +22,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
 {% include abbildung_ende.html %}
 
-13.05.2024: Es gibt einen weißen Champignon, der Asphaltdecken sprengen und Gehwegplatten hochstemmen kann. Dazu ist er ein ausgezeichneter Speisepilz und gerade wieder als aktueller [Fundkorbpilz](AA "Glossar-") in unserer Dietzenbacher Parkanlage erschienen: der Stadt-Champignon *Agaricus bitorquis*. Man erkennt ihn an seinem doppelten nach unten <ins>und</ins> oben abstehenden Stielring. (Dieter Gewalt)
+13.05.2024: Es gibt einen weißen Champignon, der Asphaltdecken sprengen und Gehwegplatten hochstemmen kann. Dazu ist er ein ausgezeichneter Speisepilz und gerade wieder als aktueller [Fundkorbpilz](AA "Glossar-") in unserer Dietzenbacher Parkanlage erschienen: der Stadt-Champignon *Agaricus bitorquis*. Man erkennt ihn sicher an seinem doppelten nach unten <ins>und</ins> oben abstehenden Stielring. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agaricus-bitorquis-stadt-champignon)
 
