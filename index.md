@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinellus_disseminatus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.05.2024: Immer wieder ein beeindruckender Anblick, einem Pilz zu begegnen, der wie gesät auf einer Rasenfläche wächst. "Wie gesät" (lateinisch: disseminatus) - das ist auch der Name unseres aktuellen [Fundkorbpilz](AA "Glossar-"), des Gesäten Tintlings *Coprinellus disseminatus*. Er ist gerade wieder in unserer Dietzenbacher Parkanlage erschienen. Sogar auf Bürgersteigen kann er sich an den Rändern zwischen Gehwegplatten hervorzwängen. Es handelt sich um eine sehr kurzlebige Art, die schon bald nach ihrem Erscheinen wieder verschwunden ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/coprinellus-disseminatus-gesäter-tintling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
 {% include abbildung_ende.html %}
 
