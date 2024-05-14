@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-14.05.2024: [Coprinellus disseminatus - Gesäter Tintling](/pilze/coprinellus-disseminatus-gesäter-tintling)  
+15.05.2024: [Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)  
+14.05.2024: [Coprinellus disseminatus - Gesäter Tintling](/pilze/coprinellus-disseminatus-gesäter-tintling)\
 13.05.2024: [Agaricus bitoquis - Stadt-Champignon](/pilze/agaricus-bitorquis-stadt-champignon)\
 12.05.2024: [Psathyrella candolleana - Behangener Faserling](/pilze/psathyrella-candolleana-behangener-faserling)\
 11.05.2024: [Amanita rubescens - Perlpilz](/pilze/amanita-rubescens-perlpilz)\
