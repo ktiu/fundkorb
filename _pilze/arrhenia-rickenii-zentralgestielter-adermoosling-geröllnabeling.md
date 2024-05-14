@@ -27,3 +27,8 @@ Dieser Adermoosling ist aufgrund seiner mehrfach gegabelten und queraderig verbu
 Seine [hygrophanen](hygrophan "Glossar") Hüte sind sehr klein. Sie erreichen gerade mal 6 bis 20 mm Ø. Das ist auch bei der Betrachtung des obigen Fotos zu beachten, auf dem das Moos viel größer erscheint als es wirklich ist. Die Hutfarbe ist nicht immer leicht zu identifizieren. Sie kann zwischen gelblich braun und glänzend grau variieren. Lamellen einschließlich [Anastomosen](Anastomosen "Glossar") und die glatten Stiele haben in etwa die gleichen Farben. Geruch und Geschmack werden als unauffällig bis leicht muffig beschrieben.
 
 Mit dem Wechsel der Gattungszugehörigkeit ist *Arrhenia rickenii* auch aus der Familie der Ritterlingsartigen (*Tricholomataceae*) zu den Schnecklingsverwandten (*Hygrophoraceae*) transferiert worden.
+
+Weitere Adermooslinge im Fundkorb sind:  
+[*Arrhenia obscurata* = Sepiabrauner Adermoosling](/pilze/arrhenia-obscurata-sepiabrauner-adermoosling)  
+[*Arrhenia retiruga* = Schüsselförmiger Adermoosling](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)  
+[*Arrhenia spathulata* = Spatelförmiger Adermoosling](/pilze/arrhenia-spathulata-spatelförmiger-adermoosling)
