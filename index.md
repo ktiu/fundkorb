@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/fuligo_septica_04_aa.jpg" %}
+{% include abbildung_ende.html %}
+
+15.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Gelbe Lohblüte *Fuligo septica*. Die leuchtend gelben Kissen, die man nicht selten auf morschem Holz oder modernden Blättern sieht, machen sie unverwechselbar. Man sieht diesen Kissen schon ihre Schleimigkeit an und hütet sich, sie anzufassen. Nicht umsonst werden die Vertreter dieser bemerkenswerten Organismen „Schleimpilze“ genannt. An eine Verwendung in der Küche denkt da keiner, und doch wird er zum Beispiel in Mexiko gegessen. Und ist unter dem Namen „Caca di Luna“ sogar marktfähig! (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/fuligo-septica-gelbe-lohblüte)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinellus_disseminatus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,30 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 13.05.2024: Es gibt einen weißen Champignon, der Asphaltdecken sprengen und Gehwegplatten hochstemmen kann. Dazu ist er ein ausgezeichneter Speisepilz und gerade wieder als aktueller [Fundkorbpilz](AA "Glossar-") in unserer Dietzenbacher Parkanlage erschienen: der Stadt-Champignon *Agaricus bitorquis*. Man erkennt ihn sicher an seinem doppelten nach unten <ins>und</ins> oben abstehenden Stielring. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agaricus-bitorquis-stadt-champignon)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/psathyrella_candolleana_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Behangene Faserling *Psathyrella candolleana*. Der Regen während der letzten Tage hat in der Rhein-Main-Ebene und auch in unserer Dietzenbacher Parkanlage ausgereicht, um ihn gleich an mehreren Stellen erscheinen zu lassen. Ein bisschen Totholz, am Boden oder vergraben, gehören neben etwas Feuchtigkeit zu den Bedingungen, die er zum Wachstum benötigt. Wer ihn sicher kennt, kann ihn in der Küche verwenden. Er eignet sich ganz gut als Suppeneinlage. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/psathyrella-candolleana-behangener-faserling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_rubescens_01_dg-1536x1102.jpg" %}
-{% include abbildung_ende.html %}
-
-11.05.2024: In unserer Dietzenbacher Parkanlage sind gerade die ersten Exemplare des Perlpilzes (*Amanita rubescens*) erschienen, der natürlich auch unser aktueller [Fundkorbpilz](AA "Glossar-") sein muss. Erfahrene Pilzsammler haben keine Probleme ihn sicher zu erkennen. Einsteiger sollten sich vor dem ersten Perlpilzgericht jedoch gründlich über die Verwechslungsmöglichkeiten informieren. Den [Pantherpilz](/pilze/amanita-pantherina-pantherpilz) sollte man besser nicht in der Pfanne bzw. im Magen haben. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-rubescens-perlpilz)
 
 <div style="clear:  both"></div>
 
