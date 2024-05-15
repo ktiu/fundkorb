@@ -45,7 +45,7 @@ Makrochemische Farbreaktion mit Kalilauge (KOH): auf der Oberfläche gelb.
 {% include bild.html datei="/bilder/evernia_prunastri_05_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Abb. links: Warzig-knotige Sorale an den Rändern  --  Abb. rechts: Helle Sorale, im Bild unten zwei Reihen schwarzer Rhizine" %}
 
-Bemerkenswerte Besonderheit: Die Pflaumenflechte wird in der Parfümerie als Basis-Duftstoff verwendet.
+Bemerkenswerte Besonderheit: Die Pflaumenflechte wird in der Parfümerie wegen ihres süßlichen Geruchs als Basis-Duftstoff und auch für Räuchermischungen verwendet.
 
 **Ähnliche Flechtenarten** (in Anlehnung an KIRSCHBAUM & WIRTH 2010):
 
