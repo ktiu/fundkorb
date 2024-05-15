@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypocrea_pulvinata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.05.2024: Kaum Beachtung findet unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Birkenporling-Kissenpustelpilz *Hypocrea pulvinata*. Er erscheint auf der Unterseite seines Wirts, dem [Birkenporling Piptoporus betulinus](/pilze/piptoporus-betulinus-birkenporling), wenn dieser seine besten Tage längst hinter sich hat und am Vergammeln ist, also im Winter oder darauffolgenden Frühjahr. Die herdenweise auftretenden kleinen gelben Polster oder Kissen sind sehr auffällig und praktisch unverwechselbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypocrea-pulvinata-birkenporling-kissenpustelpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/fuligo_septica_04_aa.jpg" %}
 {% include abbildung_ende.html %}
 
