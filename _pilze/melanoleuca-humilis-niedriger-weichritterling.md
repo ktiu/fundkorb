@@ -25,4 +25,4 @@ Eine nicht sehr häufige Art in einer nicht sehr populären Gattung. Man findet 
 
 Die Hüte sind jung halbkugelig, später ausgebreitet, matt bis seidig glänzend, aber auch feinfilzig, schwach [hygrophan](hygrophan "Glossar") und rot-, ocker- bis graubraun. Die Stiele sind ähnlich gefärbt, aber vor allem zur Spitze hin mehlig bereift. Die blassen bis cremefarbenen Lamellen sind ungleichmäßig ausgebuchtet am Stiel angewachsen. Er riecht pilzig bis schwach säuerlich und schmeckt unauffällig mild oder etwas mehlig.
 
-Unter den Weichritterlinge sind keine giftigen bekannt, aber besonders schmackhaft sie nicht. Am ehesten dürfte noch der [Frühlings-Weichritterling Melanoleuca cognata](/pilze/melanoleuca-cognata-frühlings-weichritterling) für die Küche taugen.
+Unter den Weichritterlingen sind keine giftigen bekannt, aber besonders schmackhaft sie nicht. Am ehesten dürfte noch der [Frühlings-Weichritterling Melanoleuca cognata](/pilze/melanoleuca-cognata-frühlings-weichritterling) für die Küche taugen.
