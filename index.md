@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laetiporus_sulphureus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.05.2024: Leider saß mein leuchtend orangefarbenes Pilzgericht in der Nähe des Dietzenbacher Schwimmbades so hoch am Stamm, dass ich es nicht erreichen konnte. Zu gern hätte ich diesen ganz persönlichen aktuellen [Fundkorbpilz](AA "Glossar-"), den Schwefelporling *Laetiporus sulphureus*, in der Pfanne gehabt. Der im englischen Sprachraum gern als chicken of the wood (Waldhuhn) bezeichnete Pilz bedeutet für den Baum leider nichts Gutes (Braunfäule), ist aber besonders für Veganer ein echtes Highlight. Jung, wenn er noch einen wulstigen Rand hat, kann man ihn als Hühnchenfleisch-Ersatz zubereiten - genauso gut durchgegart wie echtes Hühnerfleisch. (Ulrike Wegner)
+
+[Mehr lesen >](/pilze/laetiporus-sulphureus-schwefelporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypocrea_pulvinata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,30 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 15.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Gelbe Lohblüte *Fuligo septica*. Die leuchtend gelben Kissen, die man nicht selten auf morschem Holz oder modernden Blättern sieht, machen sie unverwechselbar. Man sieht diesen Kissen schon ihre Schleimigkeit an und hütet sich, sie anzufassen. Nicht umsonst werden die Vertreter dieser bemerkenswerten Organismen „Schleimpilze“ genannt. An eine Verwendung in der Küche denkt da keiner, und doch wird er zum Beispiel in Mexiko gegessen. Und ist unter dem Namen „Caca di Luna“ sogar marktfähig! (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/fuligo-septica-gelbe-lohblüte)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinellus_disseminatus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.05.2024: Immer wieder ein beeindruckender Anblick, einem Pilz zu begegnen, der wie gesät auf einer Rasenfläche wächst. "Wie gesät" (lateinisch: disseminatus) - das ist auch der Name unseres aktuellen [Fundkorbpilz](AA "Glossar-"), des Gesäten Tintlings *Coprinellus disseminatus*. Er ist gerade wieder in unserer Dietzenbacher Parkanlage erschienen. Sogar auf Bürgersteigen kann er sich an den Rändern zwischen Gehwegplatten hervorzwängen. Es handelt sich um eine sehr kurzlebige Art, die schon bald nach ihrem Erscheinen wieder verschwunden ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coprinellus-disseminatus-gesäter-tintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
-{% include abbildung_ende.html %}
-
-13.05.2024: Es gibt einen weißen Champignon, der Asphaltdecken sprengen und Gehwegplatten hochstemmen kann. Dazu ist er ein ausgezeichneter Speisepilz und gerade wieder als aktueller [Fundkorbpilz](AA "Glossar-") in unserer Dietzenbacher Parkanlage erschienen: der Stadt-Champignon *Agaricus bitorquis*. Man erkennt ihn sicher an seinem doppelten nach unten <ins>und</ins> oben abstehenden Stielring. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agaricus-bitorquis-stadt-champignon)
 
 <div style="clear:  both"></div>
 
