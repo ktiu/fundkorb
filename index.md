@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/conocybe_aporos_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Frühlings-Glockenschüppling *Conocybe aporos*, der wieder einmal in unserer Dietzenbacher Parkanlage erschienen ist. Unter den Arten dieser Gattung, die auch Samthäubchen genannt wird, gibt es unter denen mit Ring am Stiel nur eine, deren Sporen <ins>keinen</ins> Keimporus besitzen. Der Pilz ist also leicht von ähnlichen Arten zu trennen – man muss nur mikroskopieren! Einen gewissen Verdachtsmoment liefert die frühe Erscheinungszeit und die Tatsache, dass er Wegränder, Parkanlagen, offene und grasige Stellen sowie stickstoffreiche Plätze unter Kräutern bevorzugt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/conocybe-aporos-frühlings-glockenschüppling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/laetiporus_sulphureus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 16.05.2024: Kaum Beachtung findet unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Birkenporling-Kissenpustelpilz *Hypocrea pulvinata*. Er erscheint auf der Unterseite seines Wirts, dem [Birkenporling Piptoporus betulinus](/pilze/piptoporus-betulinus-birkenporling), wenn dieser seine besten Tage längst hinter sich hat und am Vergammeln ist, also im Winter oder darauffolgenden Frühjahr. Die herdenweise auftretenden kleinen gelben Polster oder Kissen sind sehr auffällig und praktisch unverwechselbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypocrea-pulvinata-birkenporling-kissenpustelpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/fuligo_septica_04_aa.jpg" %}
-{% include abbildung_ende.html %}
-
-15.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Gelbe Lohblüte *Fuligo septica*. Die leuchtend gelben Kissen, die man nicht selten auf morschem Holz oder modernden Blättern sieht, machen sie unverwechselbar. Man sieht diesen Kissen schon ihre Schleimigkeit an und hütet sich, sie anzufassen. Nicht umsonst werden die Vertreter dieser bemerkenswerten Organismen „Schleimpilze“ genannt. An eine Verwendung in der Küche denkt da keiner, und doch wird er zum Beispiel in Mexiko gegessen. Und ist unter dem Namen „Caca di Luna“ sogar marktfähig! (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/fuligo-septica-gelbe-lohblüte)
 
 <div style="clear:  both"></div>
 
