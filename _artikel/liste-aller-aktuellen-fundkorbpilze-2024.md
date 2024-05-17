@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-17.05.2024: [Laetiporus sulphureus - Schwefelporling](/pilze/laetiporus-sulphureus-schwefelporling)  
+18.05.2024: [Conocybe aporos - Frühlings-Glockenschüppling](/pilze/conocybe-aporos-frühlings-glockenschüppling)  
+17.05.2024: [Laetiporus sulphureus - Schwefelporling](/pilze/laetiporus-sulphureus-schwefelporling)\
 16.05.2024: [Hypocrea pulvinata - Birkenporling-Kissenpustelpilz](/pilze/hypocrea-pulvinata-birkenporling-kissenpustelpilz)\
 15.05.2024: [Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
 14.05.2024: [Coprinellus disseminatus - Gesäter Tintling](/pilze/coprinellus-disseminatus-gesäter-tintling)\
