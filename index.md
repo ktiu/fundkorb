@@ -34,7 +34,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/laetiporus_sulphureus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-17.05.2024: Leider saß mein leuchtend orangefarbenes Pilzgericht in der Nähe des Dietzenbacher Schwimmbades so hoch am Stamm, dass ich es nicht erreichen konnte. Zu gern hätte ich diesen ganz persönlichen aktuellen [Fundkorbpilz](AA "Glossar-"), den Schwefelporling *Laetiporus sulphureus*, in der Pfanne gehabt. Der im englischen Sprachraum gern als chicken of the wood (Waldhuhn) bezeichnete Pilz bedeutet für den Baum leider nichts Gutes (Braunfäule), ist aber besonders für Veganer ein echtes Highlight. Jung, wenn er noch einen wulstigen Rand hat, kann man ihn als Hühnchenfleisch-Ersatz zubereiten - genauso gut durchgegart wie echtes Hühnerfleisch. (Ulrike Wegner)
+17.05.2024: Leider saß mein leuchtend orangefarbenes Pilzgericht in der Nähe des Dietzenbacher Schwimmbades so hoch am Stamm, dass ich es nicht erreichen konnte. Zu gern hätte ich diesen ganz persönlichen aktuellen [Fundkorbpilz](AA "Glossar-"), den Schwefelporling *Laetiporus sulphureus*, in der Pfanne gehabt. Der im englischen Sprachraum gern als Chicken of the Woods (Waldhuhn) bezeichnete Pilz bedeutet für den Baum leider nichts Gutes (Braunfäule), ist aber besonders für Veganer ein echtes Highlight. Jung, wenn er noch einen wulstigen Rand hat, kann man ihn als Hühnchenfleisch-Ersatz zubereiten - genauso gut durchgegart wie echtes Hühnerfleisch. (Ulrike Wegner)
 
 [Mehr lesen >](/pilze/laetiporus-sulphureus-schwefelporling)
 
