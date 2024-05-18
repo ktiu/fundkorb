@@ -5,7 +5,7 @@ beschreibung:
   referenz: (Fr.) Niemelä, K.H. Larss. & Schigel 2005
   synonym: "Synonym: Oligoporus placenta"
   erlaeuterung: placenta = Kuchen
-  familie: Rhodoniaceae
+  familie: Rhodoniaceae (?)
 profil:
   aktualisiert: 2021-06-21
   autor_in: Bernd Miggel
