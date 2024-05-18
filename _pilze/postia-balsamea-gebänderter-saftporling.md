@@ -5,7 +5,7 @@ beschreibung:
   referenz: (Peck) Jülich 1982
   synonym: "Synonym: Oligoporus balsameus"
   erlaeuterung: balsamea = Balsam
-  familie: Dacryobolaceae
+  familie: Dacryobolaceae (?)
 profil:
   aktualisiert: 2024-03-22
   autor_in: Werner Pohl
