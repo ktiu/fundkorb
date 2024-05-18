@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Zartrandiger Saftporling
   referenz: (Maire) Pouzar 1984
   erlaeuterung: mollissimus = sehr weich
-  familie: Fomitopsidaceae
+  familie: Fomitopsidaceae (?)
 profil:
   aktualisiert: 2024-01-30
   autor_in: Werner Pohl
