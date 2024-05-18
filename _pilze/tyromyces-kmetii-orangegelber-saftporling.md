@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: "Tyromyces kmetii "
   deutsch: Orangegelber Saftporling
   referenz: (Bres.) Bondartsev & Singer 1941
-  familie: Polyporaceae
+  familie: Polyporaceae (?)
 profil:
   aktualisiert: 2021-10-04
   autor_in: Dieter Gewalt
