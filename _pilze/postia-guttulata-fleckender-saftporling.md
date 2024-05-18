@@ -6,7 +6,7 @@ beschreibung:
   synonym: "Synonyme: Oligoporus guttulatus, Spongiporus guttulatus / Neuer Name:
     Calcipostia guttula"
   erlaeuterung: guttulata =  mit Tropfen
-  familie: Fomitopsidaceae
+  familie: Fomitopsidaceae (?)
 profil:
   aktualisiert: 2024-01-25
   autor_in: Werner Pohl
