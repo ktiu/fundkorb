@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_rotula_03_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+19.05.2024: Es gibt viele kleine Pilzchen, die kaum auffallen, in die man sich bei genauerem Betrachten aber verlieben könnte. Zu diesen bezaubernden Geschöpfen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Halsbandschwindling *Marasmius rotula*. Er ist rein weiß, seine Hütchen erreichen kaum mehr als 1 cm Durchmesser, und er sieht aus wie ein winziges Fallschirmchen. Er wächst gern an Wegrändern auf Laubstreu oder morschen Zweigen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/marasmius-rotula-halsbandschwindling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/conocybe_aporos_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 17.05.2024: Leider saß mein leuchtend orangefarbenes Pilzgericht in der Nähe des Dietzenbacher Schwimmbades so hoch am Stamm, dass ich es nicht erreichen konnte. Zu gern hätte ich diesen ganz persönlichen aktuellen [Fundkorbpilz](AA "Glossar-"), den Schwefelporling *Laetiporus sulphureus*, in der Pfanne gehabt. Der im englischen Sprachraum gern als Chicken of the Woods (Waldhuhn) bezeichnete Pilz bedeutet für den Baum leider nichts Gutes (Braunfäule), ist aber besonders für Veganer ein echtes Highlight. Jung, wenn er noch einen wulstigen Rand hat, kann man ihn als Hühnchenfleisch-Ersatz zubereiten - genauso gut durchgegart wie echtes Hühnerfleisch. (Ulrike Wegner)
 
 [Mehr lesen >](/pilze/laetiporus-sulphureus-schwefelporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypocrea_pulvinata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.05.2024: Kaum Beachtung findet unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Birkenporling-Kissenpustelpilz *Hypocrea pulvinata*. Er erscheint auf der Unterseite seines Wirts, dem [Birkenporling Piptoporus betulinus](/pilze/piptoporus-betulinus-birkenporling), wenn dieser seine besten Tage längst hinter sich hat und am Vergammeln ist, also im Winter oder darauffolgenden Frühjahr. Die herdenweise auftretenden kleinen gelben Polster oder Kissen sind sehr auffällig und praktisch unverwechselbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypocrea-pulvinata-birkenporling-kissenpustelpilz)
 
 <div style="clear:  both"></div>
 
