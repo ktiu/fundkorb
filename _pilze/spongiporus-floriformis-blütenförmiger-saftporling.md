@@ -5,7 +5,7 @@ beschreibung:
   referenz: (Quél.) Zmitr. 2018
   synonym: "Synonym: Oligoporus floriformis"
   erlaeuterung: floriformis = blumenförmig
-  familie: Dacryobolaceae
+  familie: Dacryobolaceae (?)
 profil:
   aktualisiert: 2023-05-15
   autor_in: Dieter Gewalt
