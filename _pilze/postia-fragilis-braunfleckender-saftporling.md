@@ -5,7 +5,7 @@ beschreibung:
   referenz: (Fr.) Jülich 1982
   synonym: "Synonyme: Oligoporus fragilis,  Tyromyces fragilis"
   erlaeuterung: fragilis = zerbrechlich
-  familie: Fomitopsidaceae
+  familie: Fomitopsidaceae (?)
 profil:
   aktualisiert: 2021-06-09
   autor_in: Dieter Gewalt
