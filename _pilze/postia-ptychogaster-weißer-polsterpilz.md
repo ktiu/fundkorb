@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: "Postia ptychogaster "
   deutsch: Weißer Polsterpilz
   referenz: (F. Ludw.) Versterh. 1996
-  familie: Dacryobolaceae
+  familie: Dacryobolaceae (?)
   synonym: "Synonym: Oligoporus ptychogaster"
 profil:
   aktualisiert: 2021-10-01
