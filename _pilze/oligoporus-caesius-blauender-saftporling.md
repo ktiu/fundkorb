@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Oligoporus caesius
   deutsch: Blauender Saftporling
   referenz: (A. David) Ryvarden & Gilb. 1993
-  familie: Polyporaceae
+  familie: Polyporaceae (?)
   erlaeuterung: caesius = blaugrün
   synonym: "Synonym: Spongiporus caesius; Neuer Name: Cyanosporus caesius"
 profil:
