@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ceratiomyxa_fruticulosa_var._poroides_01_gb.jpg" %}
+{% include abbildung_ende.html %}
+
+20.05.2024: Gelegentlich findet man an totem Holz solche wabenartigen weißen Polster und mag nur noch über diesen aktuellen [Fundkorbpilz](AA "Glossar-") staunen. Es handelt sich um das Weiße Netzpolster *Ceratiomyxa porioides*, das zu den Schleimpilzen gehört, sich im abgebildeten Stadium aber kaum noch schleimig anfühlt. Sein Aussehen ist so charakteristisch, dass Verwechslungen auszuschließen sind. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ceratiomyxa-porioides-weißes-netzpolster)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_rotula_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
