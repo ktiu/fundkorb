@@ -39,4 +39,4 @@ Makrochemische Reaktionen: mit Kalilauge (KOH) gelb, mit p-Phenylendiamin (PPD) 
 
 Verwechselt werden könnte unsere Art mit der seltenen Schuppige Köpfchenflechte *Baeomyces placophyllus*, die ein am Rand deutlich gelapptes Lager besitzt.
 
-Wenn Sie mehr über Flechten wissen wollen - hier erfahren Sie es > 
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten) 
