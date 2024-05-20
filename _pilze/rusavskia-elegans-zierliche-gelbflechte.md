@@ -44,4 +44,4 @@ Verwechslungsmöglichkeiten:
 Die [Gewöhnliche Gelbflechte (Xanthoria parietina)](/pilze/xanthoria-parietina) wird normalerweise größer, besitzt breitere, flache, schwerpunktmäßig gelbe Lappen.
 Die Vielfrüchtige Gelbflechte (Xanthoria polycarpa) besitzt nur bis 0,5 mm breite Lappen, die zudem durch die Apothecien so gut wie verdeckt werden.
 
-Wenn Sie mehr über Flechten wissen wollen - hier erfahren Sie es > 
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten) 
