@@ -50,4 +50,4 @@ Die Kreisförmige Schwielenflechte gilt als toxitolerant, kommt also auch häufi
 Die Rotmarkige Schwielenflechte (*Phaeophyscia endophoenicea*) besitzt keine Flecksorale, sondern randständige Lippensorale; das Mark ist orangerot und reagiert mit KOH rotviolett.\
 Die Schwärzliche Schwielenflechte (*Phaeophyscia nigricans*) ist viel zierlicher, mit körnig-[isidösen](isidiös "Glossar") Lappen von maximal 0,3 mm Breite.
 
-Wenn Sie mehr über Flechten wissen wollen - hier erfahren Sie es > 
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten) 
