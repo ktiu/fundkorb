@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/conocybe_lactea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Milchweiße Samthäubchen *Conocybe lactea*. Ein hübsches Kerlchen, das hier mit den in der Umgebung wachsenden Gänseblümchen um den Schönheitspreis streitet. Aber bitte nicht anfassen! Seine dünnen Stiele sind wie der gesamte Pilz sehr zerbrechlich. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/conocybe-lactea-milchweißes-samthäubchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_campestris_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
