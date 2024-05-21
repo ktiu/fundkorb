@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-21.05.2024: [Agaricus campestris - Wiesenchampignon](/pilze/agaricus-campestris-wiesenchampignon)  
+22.05.2024: [Conocybe lactea - Milchweißes Samthäubchen](<Conocybe lactea - Milchweißes Samthäubchen>)  
+21.05.2024: [Agaricus campestris - Wiesenchampignon](/pilze/agaricus-campestris-wiesenchampignon)\
 20.05.2024: [Ceratiomyxa porioides - Weißes Netzpolster](/pilze/ceratiomyxa-porioides-weißes-netzpolster)\
 19.05.2024: [Marasmius rotula - Halsbandschwindling](/pilze/marasmius-rotula-halsbandschwindling)\
 18.05.2024: [Conocybe aporos - Frühlings-Glockenschüppling](/pilze/conocybe-aporos-frühlings-glockenschüppling)\
