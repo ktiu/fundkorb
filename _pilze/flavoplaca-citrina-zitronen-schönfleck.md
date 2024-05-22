@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: Flavoplaca citrina
   deutsch: Zitronen-Schönfleck
-  referenz: (Hoffm-) Th. Fr. 1861
+  referenz: (Hoffm.) Th. Fr. 1861
   synonym: "Synonym: Caloplaca citrina"
   erlaeuterung: citrina = zitronengelb
   familie: Teloschistaceae
@@ -22,14 +22,14 @@ literatur:
 {% include bild.html datei="/bilder/flavoplaca_citrina_02_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-Eine recht häufige Krustenflechte, die gern an kalkhaltigem Gestein oder Betonmauern wächst, offenbar mit Vorliebe dort, wo Hunde gern ihr Beinchen heben. Beim Vorbeigehen nimmt man lediglich eine gelbe bis grünlich gelbe oder fast schon orangefarbene Verfärbung des Gesteins wahr, bei der man nicht unbedingt an eine Flechte denkt. Erst mit der Lupe sind krümelige, diffus [sorediöse](sorediös "Glossar") Strukturen und vereinzelt [Apothecien](Apothecien "Glossar") zu erkennen, die allerdings nicht zu *Flavoplaca citrina* gehören. Der Zitronen-Schönfleck ist eine Krustenflechte, deren [Lager](Lager "Glossar") keine Fruchtkörper ausbilden.
+Eine recht häufige Krustenflechte, die gern an kalkhaltigem Gestein oder Betonmauern wächst, offenbar mit Vorliebe dort, wo Hunde gern ihr Beinchen heben. Beim Vorbeigehen nimmt man lediglich eine gelbe bis grünlich gelbe oder fast schon orangefarbene Verfärbung des Gesteins wahr, bei der man nicht unbedingt an eine Flechte denkt. Erst mit der Lupe sind krümelige, diffus [sorediöse](sorediös "Glossar") Strukturen und vereinzelt andersfarbige [Apothecien](Apothecien "Glossar") zu erkennen, die allerdings nicht zu *Flavoplaca citrina* gehören sondern eine eigene Flechtenart (*Polyozosia dispersa*) darstellen. Der Zitronen-Schönfleck ist eine Krustenflechte, deren [Lager](Lager "Glossar") keine Fruchtkörper ausbilden.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/flavoplaca_citrina_03_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/flavoplaca_citrina_04_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-Mit diesem Merkmal (Lager ohne Fruchtkörper) gelangt man im Bestimmungsschlüssel IV (Krustenflechten) von Kirschbaum & Wirth (2010) nahezu direkt zu unserer Art: 
+Mit diesem Merkmal (Lager ohne Fruchtkörper) gelangt man im Bestimmungsschlüssel IV (Krustenflechten) von *Kirschbaum & Wirth (2010)* nahezu direkt zu unserer Art: 
 
 > Lager <ins>nicht</ins> am Rand gelappt, gelb, mit KOH tiefrot, meist körnig, diffus sorediös aufbrechend, oft gänzlich sorediös“
 
