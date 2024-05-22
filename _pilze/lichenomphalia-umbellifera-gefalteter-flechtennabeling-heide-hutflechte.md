@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: Lichenomphalia umbellifera
   deutsch: Gefalteter Flechtennabeling, Heide-Hutflechte
-  referenz: (F.H. Møller) P.-A. Moreau & Courtec. 2008
+  referenz: (L.) Redhead, Lutzoni, Moncalvo & Vilgalys 2002
   synonym: "Synonyme: Omphalina ericetorum, Phytoconis ericetorum"
   erlaeuterung: umbellifera = schirmtragend
   familie: Hygrophoraceae
