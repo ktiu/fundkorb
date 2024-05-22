@@ -144,7 +144,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Lepraria jackii = Jacks Staubflechte](/pilze/lepraria-jackii-jacks-staubflechte)\
 [Pertusaria pertusa = Gewöhnliche Porenflechte](/pilze/pertusaria-pertusa-gewöhnliche-porenflechte)\
 [Phlyctis argena = Weiße Blatternflechte](/pilze/phlyctis-argena-weiße-blatternflechte)\
-[Rusavskia elegans = Zierliche Gelbflechte](/pilze/rusavskia-elegans-zierliche-gelbflechte)
+[Rusavskia elegans = Zierliche Gelbflechte](/pilze/rusavskia-elegans-zierliche-gelbflechte)  
 [Xylospora caradocensis = Wertvolle Schuppenflechte](/pilze/xylopsora-caradocensis-wertvolle-schuppenflechte)
 
 **Anhang: Flechte der Jahre 2004 bis 2024:**
