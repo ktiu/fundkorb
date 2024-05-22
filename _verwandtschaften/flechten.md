@@ -11,12 +11,14 @@ literatur:
   - text: "Kirschbaum U. & Volkmar Wirth (2010): Flechten erkennen - Umwelt bewerten"
   - text: "Wirth, V. et al. (2011): Rote Liste der Flechten und flechtenbewohnende
       Pilze Deutschlands"
-  - {}
-  - {}
+  - text: "FRAHM, J.-P., SCHUMM, F., STAPPER, N.J. (2010): Epiphytische Flechten als
+      Umweltgütezeiger"
+  - text: "Wirth, V. et al. (2011): Rote Liste der Flechten und flechtenbewohnende
+      Pilze Deutschlands"
   - url: https://de.wikipedia.org/wiki/Flechte
-  - {}
-  - {}
-  - {}
+  - url: https://britishlichensociety.org.uk/sites/default/files/Arthonia%20atra.pdf
+  - url: https://italic.units.it/index.php?procedure=taxonpage&num=113
+  - url: http://www.norbert-kuehnberger.de/pilzbildergalerie/D_Flechten-Lichenes_-_226_Arten/index.htm
 ---
 Was eine Flechte ist, glaubt fast jeder zu wissen, doch nur wenige sind in der Lage, auch nur eine der etwa 2.000 verschiedenen in Mitteleuropa vorkommenden Arten beim Namen zu nennen. Auch was Flechten genau sind, ist kaum jemandem bekannt. Die Erklärung, dass es sich um eine [Symbiose](Symbiose "Glossar") von Pilz und Alge handelt, hilft da auch nicht viel weiter. Daher möchte ich versuchen, dem interessierten Naturfreund diese auf den ersten Blick so unattraktiv wirkenden Organismen anhand einer überaus häufigen Flechtenart ein wenig vertrauter zu machen. Es handelt sich um die Gewöhnliche Gelbflechte *Xanthoria parietina*, die in der Nähe eines jeden Mitteleuropäers zu finden sein dürfte. Man braucht sich nur die Rinde von Bäumen und Sträuchern und deren Stämme und Äste zu betrachten.
 
@@ -106,6 +108,7 @@ Zu den an Baumrinde wachsenden Krustenflechten gehören:
 Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 
 **Blattflechten:**\
+[Cladonia coniocraea = Gewöhnliche Säulenflechte](/pilze/cladonia-coniocraea-gewöhnliche-säulenflechte)\
 [Cladonia digitata = Finger-Scharlachflechte](/pilze/cladonia-digitata-finger-scharlachflechte)\
 [Cladonia fimbriata = Trompeten-Becherflechte](/pilze/cladonia-fimbriata-trompeten-becherflechte)\
 [Cladonia macilenta = Rotfrüchtige Säulenflechte](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)\
@@ -117,6 +120,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Melanelixia subaurifera = Gold-Braunflechte](/pilze/melanelixia-subaurifera-gold-braunflechte)\
 [Parmelia sulcata = Sulkatflechte](/pilze/parmelia-sulcata-sulkatflechte)\
 [Parmelina tiliacea = Linden-Schüsselflechte](/pilze/parmelina-tiliacea-linden-schüsselflechte)\
+[Phaeophyscia orbicularis = Kreisförmige Schwielenflechte ](/pilze/phaeophyscia-orbicularis-kreisförmige-schwielenflechte)\
 [Physcia adscendens = Helm-Schwielenflechte](/pilze/physcia-adscendens-helm-schwielenflechte)\
 [Platismatia glauca = Blaugraue Tartschenflechte](/pilze/platismatia-glauca-blaugraue-tartschenflechte)\
 [Pleurosticta acetabulum = Essigflechte](/pilze/pleurosticta-acetabulum-essigflechte)\
@@ -131,6 +135,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 
 **Krustenflechten:**\
 [Arthonia atra = Schwarze Zeichenflechte](/pilze/arthonia-atra-schwarze-zeichenflechte)\
+[Baeomyces rufus = Braune Köpfchenflechte](/pilze/baeomyces-rufus-braune-köpfchenflechte)\
 [Chrysothrix candelaris = Borken-Schwefelflechte](/pilze/chrysothrix-candelaris-borken-schwefelflechte)\
 [Flavoplaca citrina = Ztronen-Schönfleck](/pilze/flavoplaca-citrina-zitronen-schönfleck)\
 [Graphis scripta = Schriftflechte](/pilze/graphis-scripta-schriftflechte)\
@@ -138,7 +143,8 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Lecanora muralis = Mauer-Flechte](/pilze/lecanora-muralis-mauer-flechte)\
 [Lepraria jackii = Jacks Staubflechte](/pilze/lepraria-jackii-jacks-staubflechte)\
 [Pertusaria pertusa = Gewöhnliche Porenflechte](/pilze/pertusaria-pertusa-gewöhnliche-porenflechte)\
-[Phlyctis argena = Weiße Blatternflechte](/pilze/phlyctis-argena-weiße-blatternflechte)  
+[Phlyctis argena = Weiße Blatternflechte](/pilze/phlyctis-argena-weiße-blatternflechte)\
+[Rusavskia elegans = Zierliche Gelbflechte](/pilze/rusavskia-elegans-zierliche-gelbflechte)
 [Xylospora caradocensis = Wertvolle Schuppenflechte](/pilze/xylopsora-caradocensis-wertvolle-schuppenflechte)
 
 **Anhang: Flechte der Jahre 2004 bis 2024:**
@@ -159,7 +165,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 2017 Variospora flavescens\
 2018 Umbilicaria cylindrica\
 2019 Parmotrema perlatum\
-2020 Cladonia digitata\
+2020 [Cladonia digitata](/cladonia-digitata-finger-scharlachflechte)\
 2021 [Lecanora muralis](/pilze/lecanora-muralis-mauer-flechte)\
 2022 Enchylium tenax\
 2023 Cladonoa rangiformis\
