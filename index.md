@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_circellatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.05.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Gebänderte Hainbuchenmilchling Lactarius circellatus, der schon früh im Jahr erscheinen kann wie auch jetzt mitten in Dietzenbach. Für mich ist unter diesem Namen ein Pilz zu verstehen, der offenbar ausschließlich unter Hainbuchen wächst und wie auf dem Foto zu sehen eine konzentrisch gebänderte Hutzeichnung und dicht stehende Lamellen aufweist. Die weiße Milch verfärbt allmählich zu blass gelbgrün, ihr Geschmack wird als bitter schärflich beschrieben. So ganz einheitlich ist diese Auffassung nicht, was zu Irritationen führen kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lactarius-circellatus-gebänderter-hainbuchenmilchling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/conocybe_lactea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,30 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 21.05.2024: Unter den Champignons, die in unserer Dietzenbacher Parkanlage vorkommen, befindet sich natürlich auch der Wiesenchampignon *Agaricus campestris*, unser heutiger [Fundkorbpilz](AA "Glossar-"). Er gehört zu den <ins>nicht</ins> gilbenden Arten, die <ins>nicht</ins> nach Anis riechen und außerhalb von Wäldern wachsen. Eine Verwechslung mit dem an gleichen Standorten vorkommenden [Karbolchampignon *Agaricus xanthoderma*](https://fundkorb.de/pilze/agaricus-xanthoderma-karbolchampignon) würde mit heftigem Durchfall bestraft. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agaricus-campestris-wiesenchampignon)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ceratiomyxa_fruticulosa_var._poroides_01_gb.jpg" %}
-{% include abbildung_ende.html %}
-
-20.05.2024: Gelegentlich findet man an totem Holz solche wabenartigen weißen Polster und mag nur noch über diesen aktuellen [Fundkorbpilz](AA "Glossar-") staunen. Es handelt sich um das Weiße Netzpolster *Ceratiomyxa porioides*, das zu den Schleimpilzen gehört, sich im abgebildeten Stadium aber kaum noch schleimig anfühlt. Sein Aussehen ist so charakteristisch, dass Verwechslungen auszuschließen sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ceratiomyxa-porioides-weißes-netzpolster)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_rotula_03_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-19.05.2024: Es gibt viele kleine Pilzchen, die kaum auffallen, in die man sich bei genauerem Betrachten aber verlieben könnte. Zu diesen bezaubernden Geschöpfen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Halsbandschwindling *Marasmius rotula*. Er ist rein weiß, seine Hütchen erreichen kaum mehr als 1 cm Durchmesser, und er sieht aus wie ein winziges Fallschirmchen. Er wächst gern an Wegrändern auf Laubstreu oder morschen Zweigen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/marasmius-rotula-halsbandschwindling)
 
 <div style="clear:  both"></div>
 
