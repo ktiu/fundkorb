@@ -40,6 +40,6 @@ Die Fruchtkörper lösen sich leicht vom Substrat, sind weichlappig, lassen sich
 {% include bild.html datei="/bilder/skeletocutis_amorpha_03_wp.jpg" %}
 {% include abbildung_ende.html legende="Foto: Werner Pohl" %}
 
-Der Orangefarbene Knorpelporling ist ein Saprobiont, sein bevorzugtes Substrat ist morsches Kiefernholz.
+Der Orangefarbene Knorpelporling ist ein [Saprobiont](saprobiontisch "Glossar"), sein bevorzugtes Substrat ist morsches Kiefernholz.
 
 Belege (Exsikkate) sind hinterlegt im Fungarium KR (Staatl. Museum für Naturkunde Karlsruhe)
