@@ -2,7 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-24.05.2024: [Skeletokutis amorpha - Orangegelber Knorpelporling](/pilze/skeletocutis-amorpha-orangefarbener-knorpelporling)
+24.05.2024: [Skeletokutis amorpha - Orangefarbener Knorpelporling](/pilze/skeletocutis-amorpha-orangefarbener-knorpelporling)  
 23.05.2024: [Lactarius circellatus - Gebänderter Hainbuchenmilchling](/pilze/lactarius-circellatus-gebänderter-hainbuchenmilchling)\
 22.05.2024: [Conocybe lactea - Milchweißes Samthäubchen](<Conocybe lactea - Milchweißes Samthäubchen>)\
 21.05.2024: [Agaricus campestris - Wiesenchampignon](/pilze/agaricus-campestris-wiesenchampignon)\
