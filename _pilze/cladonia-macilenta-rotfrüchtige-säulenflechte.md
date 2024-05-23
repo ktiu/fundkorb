@@ -22,6 +22,6 @@ Flechten mit roten Käppchen oder „Früchtchen“ zu finden, ist kein häufige
 Die roten Käppchen ([Apothecien](Apothecien "Glossar")) sitzen auf bis zu 4 cm hohen grauweißlichen, auf ganzer Länge feinmehlig [sorediösen](sorediös "Glossar") Stielen und sind je nach Entwicklungsstadium sehr uneinheitlich geformt, teils kugelig, wulstig oder innen geöffnet.
 Macrochemische Reaktionen: mit Kalilauge (KOH) gelb, mit p-Phenylendiamin (PPD) orange ode negativ.
 
-Verwechselt werden könnte *Cladonia macilenta* mit *Cladiona floerkeana*, deren Stiele jedoch grobkörnig bis warzig berindet sind, *Cladonia polydactyla* mit am Rand gezähnten bis fingerig sprossenden Bechern, oder mit *Cladonia coniocraea* mit seltenen braunen Apothezien.
+Verwechselt werden könnte *[Cladonia macilenta](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)* mit *Cladiona floerkeana*, deren Stiele jedoch grobkörnig bis warzig berindet sind, *Cladonia polydactyla* mit am Rand gezähnten bis fingerig sprossenden Bechern, oder mit *Cladonia coniocraea* mit seltenen braunen Apothezien.
 
 Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
