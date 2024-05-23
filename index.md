@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/skeletocutis_amorpha_02_bm.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html %}
+
+24.05.2024: Ein- und mehrjährige Pilze an Holz gibt es zu allen Jahreszeiten. Das gilt auch für den aktuellen [Fundkorbpilz](AA "Glossar-"), den Orangefarbigen Knorpelporling  *Skeletocutis amorpha*, der [saprobiontisch](saprobiontisch "Glossar") an morschem Kiefernholz wächst. Zu seinen wichtigsten Merkmalen gehören seine orangefarbene Porenschicht und leichte Ablösbarkeit. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/skeletocutis-amorpha-orangefarbener-knorpelporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_circellatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 22.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Milchweiße Samthäubchen *Conocybe lactea*. Ein hübsches Kerlchen, das hier mit den in der Umgebung wachsenden Gänseblümchen um den Schönheitspreis streitet. Aber bitte nicht anfassen! Seine dünnen Stiele sind wie der gesamte Pilz sehr zerbrechlich. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/conocybe-lactea-milchweißes-samthäubchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_campestris_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-21.05.2024: Unter den Champignons, die in unserer Dietzenbacher Parkanlage vorkommen, befindet sich natürlich auch der Wiesenchampignon *Agaricus campestris*, unser heutiger [Fundkorbpilz](AA "Glossar-"). Er gehört zu den <ins>nicht</ins> gilbenden Arten, die <ins>nicht</ins> nach Anis riechen und außerhalb von Wäldern wachsen. Eine Verwechslung mit dem an gleichen Standorten vorkommenden [Karbolchampignon *Agaricus xanthoderma*](https://fundkorb.de/pilze/agaricus-xanthoderma-karbolchampignon) würde mit heftigem Durchfall bestraft. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agaricus-campestris-wiesenchampignon)
 
 <div style="clear:  both"></div>
 
