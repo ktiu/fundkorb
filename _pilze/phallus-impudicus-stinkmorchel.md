@@ -57,4 +57,4 @@ Freitag, 10. Oktober 2003. Man freut sich immer, wenn im Fernsehen mal wieder da
 
 * Carl von Linné (1707 - 1778) hatte offenbar große Probleme, die Pilze in seinem taxonomischen System einzuordnen. Er wusste sich nicht anders zu helfen, als sie in der Unterkategorie "Chaos" im Tierreich unterzubringen. Damit kommt er der Wahrheit jedoch schon recht nahe, denn nach heutigem Verständnis stehen Pilze den Tieren näher als den Pflanzen, auch wenn er sie dem Sinne nach als "Chaoten" bezeichnet hat.
 
-[stinkmorchelartige >](/verwandt/die-stinkmorchelartigen-phallales)
+[Fundkorb-Beitrag Die Stinkmorchelartigen](/verwandt/die-stinkmorchelartigen-phallales)
