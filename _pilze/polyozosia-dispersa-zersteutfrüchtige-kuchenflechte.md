@@ -44,3 +44,5 @@ Makrochemische Farbreaktionen mit Kalilauge (KOH) und p-Phenylendiamin (PPD) neg
 **Verwechslungsmöglichkeiten:**\
 Der [Zitronen-Schönfleck *Flavoplaca citrina*](/pilze/flavoplaca-citrina-zitronen-schönfleck) bildet keine Apothecien und hat eine tiefrote Farbreaktion mit Kalilauge (KOH).\
 Die Weiße Kuchenflechte *Polyozosia albescens* besitzt ein deutlich erkennbares, dickliches, am Rand scharf begrenztes Lager.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
