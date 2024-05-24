@@ -18,6 +18,18 @@ Hier geht's zur [Anmeldung >](/termine)
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/hygrocybe_conica_02_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+25.05.2024: Einen Saftling zu finden, ist immer eine Freude. Vor allem, wenn es an einem begrünten Straßenrand mitten in Dietzenbach ist. Um den Kegeligen Saftling *Hygrocybe conica* (unseren aktuellen [Fundkorbpilz](AA "Glossar-")) anzutreffen, muss man nicht unbedingt eine der wenigen Saftlingswiesen besuchen. Er ist nahezu überall zu Hause. Ein typisches Merkmal ist das Schwärzen seiner Fruchtkörper. Wenn das fortgeschritten ist, sieht er gar nicht mehr schön aus. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/skeletocutis_amorpha_02_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
