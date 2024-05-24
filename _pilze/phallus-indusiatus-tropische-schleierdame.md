@@ -26,3 +26,5 @@ Die Tropische Schleierdame entwickelt sich aus einem weißen bis bräunlichen �
 
 *Dietrich Schiebeler* meldete uns schon vor Jahren einen Fund aus Australien. *Dieter Gewalt* fand die Art bereits mehrfach in Thailand und Malaysia. Eine weitere tropische im Fundkorb vorgestellte *"Stinkhorn"*-Art ist *[Colus hirudinosus](/pilze/colus-hirudinosus-faltiger-gitterling)*, ebenfalls in Thailand gefunden. Auch bei uns gibt es eine wenn auch sehr seltene mit Schleier versehene Variante der Stinkmorchel, die Europäische Schleierdame *Phallus impudicus var. pseudoduplicatus*
 (siehe: <http://www.pilzflora-ehingen.de/pilzflora/arthtml/ppseudodublicatus.php>).
+
+Mehr über die Verwandtschaft der Stinkmorchelartigen [erfahren Sie hier >](/verwandt/die-stinkmorchelartigen-phallales)
