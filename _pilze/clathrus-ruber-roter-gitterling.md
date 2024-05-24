@@ -38,4 +38,4 @@ Der Gitterling war 2011 [Pilz des Jahres](https://www.dgfm-ev.de/pilz-des-jahres
 
 Während hierzulande der Rote Gitterling als unverwechselbar gelten darf, gibt es in tropischen und subtropischen Breiten ähnliche Arten wie zum Beispiel den [Faltigen Gitterling Colus hirudinosus](/pilze/colus-hirudinosus-faltiger-gitterling).
 
-Der Tintenfischpilz gehört in die Verwandtschaft der Stinkmorchelartigen (Phallales). Mehr darüber [erfahren Sie hier >](/verwandt/die-stinkmorchelarten-phallales).
+Der Tintenfischpilz gehört in die Verwandtschaft der Stinkmorchelartigen (Phallales). Mehr darüber [erfahren Sie hier >](/verwandt/die-stinkmorchelartigen-phallales).
