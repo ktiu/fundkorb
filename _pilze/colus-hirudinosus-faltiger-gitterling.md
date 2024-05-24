@@ -28,4 +28,4 @@ Man darf gespannt sein, ob und wann dieser Exot auch einmal bei uns auftauchen w
 
 * Die von uns besuchte Wildnis liegt in der Provinz Phetchaburi und grenzt unmittelbar an den mit 2915 km² Fläche größten Nationalpark Thailands, den [Kaeng Kracha](https://de.wikipedia.org/wiki/Nationalpark_Kaeng_Krachan)n. Hier bewirtschaftet ein befreundeter Thailänder ein mehrere Hektar großes Areal u. a. mit Ananas- und Teakbaum-Plantagen. Hier fanden wir einen weiteren höchst bemerkenswerten Pilz, den auch in Deutschland vorkommenden seltenen Erbsenstreuling [Pisolithus arizhus](/pilze/pisolithus-arhizus-erbsenstreuling).
 
-Mehr über sein Verwandtschaftsverhältnis [erfahren Sie hier >](/verwandt/die-stinkmorchelarten-phallales).
+Mehr über sein Verwandtschaftsverhältnis [erfahren Sie hier >](/verwandt/die-stinkmorchelartigen-phallales).
