@@ -48,3 +48,5 @@ Der Tintenfischpilz ist keine indigene (heimische) Art, sondern ein [Neobiont](N
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/clathrus_archeri_07_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
+
+Der Tintenfischpilz gehört in die Verwandtschaft der Stinkmorchelartigen (Phallales). Mehr darüber [erfahren Sie hier >](/verwandt/die-stinkmorchelarten-phallales).
