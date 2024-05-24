@@ -29,3 +29,5 @@ Laut DGfM-Kartierung ist sie in Hessen erst einmal gefunden worden (abgerufen am
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mutinus_ravenelii_03_dz.jpg" %}
 {% include abbildung_ende.html legende="In einem Garten in Rheine gefunden (Foto: Daniza Zeiske)" %}
+
+Die Hundsruten gehören in die Verwandtschaft der Stinkmorchelartigen (Phallales). Mehr darüber [erfahren Sie hier >](/verwandt/die-stinkmorchelartigen-phallales).
