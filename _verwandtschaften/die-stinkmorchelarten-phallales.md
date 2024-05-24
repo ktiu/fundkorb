@@ -1,5 +1,5 @@
 ---
-titel: Die Stinkmorchelarten (Phallales)
+titel: Die Stinkmorchelartigen (Phallales)
 autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
