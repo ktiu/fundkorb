@@ -37,3 +37,5 @@ Ein weiterer Fund gelang am 11. August 2014: ein „geschlüpfter“ Gitterling 
 Der Gitterling war 2011 [Pilz des Jahres](https://www.dgfm-ev.de/pilz-des-jahres/2011-roter-gitterling).
 
 Während hierzulande der Rote Gitterling als unverwechselbar gelten darf, gibt es in tropischen und subtropischen Breiten ähnliche Arten wie zum Beispiel den [Faltigen Gitterling Colus hirudinosus](/pilze/colus-hirudinosus-faltiger-gitterling).
+
+Der Tintenfischpilz gehört in die Verwandtschaft der Stinkmorchelartigen (Phallales). Mehr darüber [erfahren Sie hier >](/verwandt/die-stinkmorchelarten-phallales).
