@@ -32,3 +32,5 @@ Der wissenschaftliche Name Mutinus caninus bedeutet übersetzt "Kleiner Hundepen
 {% include abbildung_ende.html legende="Foto links: so sieht die Hundsrute unmittelbar vor dem Schlüpfen aus -- Foto rechts: schon kurz nach dem Schlüpfen umgeknickt" %}
 
 Wesentlich seltener ist die aus Nordamerika in Europa eingeschleppte [Himbeerrote Hundsrute Muntinus ravenelii](/pilze/mutinus-ravenelii-himbeerrote-hundsrute). Sie unterscheidet sich von unserer heimischen Art durch den himbeerroten Kopfteil und einen deutlich unangenehmeren Geruch.
+
+Die Hundsruten gehören in die Verwandtschaft der Stinkmorchelartigen (Phallales). Mehr darüber [erfahren Sie hier >](/verwandt/die-stinkmorchelartigen-phallales).
