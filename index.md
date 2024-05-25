@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmiellus_vaillantii_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist  der Matte Zwergschwindling *Marasmiellus vaillantii*. Seine wattig weichen, äußerst elastischen und flatterigen Hüte werden maximal 1,5 cm breit, die dünnen, hell rotbraunen, nur an der Spitze weißen Stiele werden bis zu 3 cm lang. Vetrocknete Zwergschwindlinge leben im Gegensatz zu den echten Schwindlingen nach erneuter Befeuchtung nicht wieder auf. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/marasmiellus-vaillantii-matter-zwergschwindling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrocybe_conica_02_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,30 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 24.05.2024: Ein- und mehrjährige Pilze an Holz gibt es zu allen Jahreszeiten. Das gilt auch für den aktuellen [Fundkorbpilz](AA "Glossar-"), den Orangefarbigen Knorpelporling  *Skeletocutis amorpha*, der [saprobiontisch](saprobiontisch "Glossar") an morschem Kiefernholz wächst. Zu seinen wichtigsten Merkmalen gehören seine orangefarbene Porenschicht und leichte Ablösbarkeit. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/skeletocutis-amorpha-orangefarbener-knorpelporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_circellatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.05.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Gebänderte Hainbuchenmilchling Lactarius circellatus, der schon früh im Jahr erscheinen kann wie auch jetzt mitten in Dietzenbach. Für mich ist unter diesem Namen ein Pilz zu verstehen, der offenbar ausschließlich unter Hainbuchen wächst und wie auf dem Foto zu sehen eine konzentrisch gebänderte Hutzeichnung und dicht stehende Lamellen aufweist. Die weiße Milch verfärbt allmählich zu blass gelbgrün, ihr Geschmack wird als bitter schärflich beschrieben. So ganz einheitlich ist diese Auffassung nicht, was zu Irritationen führen kann. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lactarius-circellatus-gebänderter-hainbuchenmilchling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/conocybe_lactea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Milchweiße Samthäubchen *Conocybe lactea*. Ein hübsches Kerlchen, das hier mit den in der Umgebung wachsenden Gänseblümchen um den Schönheitspreis streitet. Aber bitte nicht anfassen! Seine dünnen Stiele sind wie der gesamte Pilz sehr zerbrechlich. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/conocybe-lactea-milchweißes-samthäubchen)
 
 <div style="clear:  both"></div>
 
