@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-25.05.2024: [Hygrocybe conica - Kegeliger Saftling](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)  
+26.05.2024: [Marasmiellus vaillantii - Matter Zwergschwindling](/pilze/marasmiellus-vaillantii-matter-zwergschwindling)  
+25.05.2024: [Hygrocybe conica - Kegeliger Saftling](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)\
 24.05.2024: [Skeletokutis amorpha - Orangefarbener Knorpelporling](/pilze/skeletocutis-amorpha-orangefarbener-knorpelporling)\
 23.05.2024: [Lactarius circellatus - Gebänderter Hainbuchenmilchling](/pilze/lactarius-circellatus-gebänderter-hainbuchenmilchling)\
 22.05.2024: [Conocybe lactea - Milchweißes Samthäubchen](<Conocybe lactea - Milchweißes Samthäubchen>)\
