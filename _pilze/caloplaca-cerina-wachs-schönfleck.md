@@ -48,3 +48,5 @@ Makrochemische Farbreaktion an Lager und Apothecienrand: mit Kalilauge (KOH) vio
 Mikroskopische Merkmale (siehe auch https://italic.units.it/): Die Asci sind 8-sporig, keulig, die Ascosporen ellipsoid, 2-zellig und messen 10 - 17 x 5,8 µm. Das Septum ist 4 - 8 µm lang, das sind etwa ⅓ bis ½ der Sporenlänge.
 
 Der Wachs-Schönfleck könnte mit dem Blaugrünen Schönfleck (*Caloplaca chlorina*) verwechselt werden, den man an nährstoffreichen Stellen von Mauern, evtl. auch basal an Baumstämmen finden kann. Sein Lager besteht aus bleigrauen bis dunkel bläulichgrauen Körnelungen.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
