@@ -18,7 +18,7 @@ Hier geht's zur [Anmeldung >](/termine)
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrocybe_conica_02_tl.jpg" %}
 {% include abbildung_ende.html %}
 
