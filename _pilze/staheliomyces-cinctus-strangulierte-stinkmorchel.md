@@ -9,7 +9,7 @@ profil:
   aktualisiert: 2022-08-13
   autor_in: Bernd Miggel & Hans Stern
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/staheliomyces_cinctus_01_hs.jpg
   legende: "Foto: Hans Stern"
 literatur:
@@ -19,6 +19,10 @@ literatur:
   - url: https://en.wikipedia.org/wiki/Staheliomyces
   - url: https://link.springer.com/article/10.1007/s11557-022-01782-4
 ---
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/staheliomyces_cinctus_01_hs.jpg" %}
+{% include abbildung_ende.html %}
+
 Der Name "Strangulierte Stinkmorchel" (im Englischen „strangled stinkhorn“) ist unseres Erachtens eine so unzweideutige und passende Fruchtkörperbeschreibung wie sie besser nicht gewählt sein könnte. Wie bei allen ihren Verwandten aus der Familie der Stinkmorchelartigen (*Phallales*), d. h. der echten Stinkmorchelarten, des Tintenfischpilzes, der Gitterpilze, Hundsrutenarten usw., entwickelt sich der Fruchtkörper aus einem Hexenei und verbreitet einen unangenehmen, Insekten anlockenden Geruch. 
 
 Bei der Strangulierten Stinkmorchel handelt sich um eine saprobiontisch lebende Pilzart des tropischen Regenwaldes. Wie man sich vorstellen kann, vergehen die prächtigen Fruchtkörper bereits innerhalb weniger Stunden. Pilzfreund *Hans Stern* fand diese „Pilzblume“ im Nationalpark *Pico Bonito* in Honduras. Der Pilz wuchs mitten im Urwald in der Nähe eines Reitweges auf ca. 200 mNN. Nach Aussage eines einheimischen Biologen ist die Art dort selten zu finden. Hans Sterns Bestimmung als *Staheliomyces cinctus* wurde von *Björn Wergen* anhand des Fotos bestätigt.
