@@ -23,7 +23,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/trametes_cervina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-27.05.2024: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist eine Tramete, die auf den ersten Blick überhaupt nicht wie eine typische Tramete aussieht. Es ist die Hirschbraune Tramete *Trametes cervinus*, die aus einer Vielzahl relativ kleiner dicht und reihig  aneinander angeordneten Hütchen besteht. Sie wird inzwischen in der Gattung *Trametopsis* geführt. Gefunden am Försterwiesenteich im Frankfurter Stadtwald. (Frank Kaster)
+27.05.2024: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist eine Tramete, die auf den ersten Blick überhaupt nicht wie eine typische Tramete aussieht. Es ist die Hirschbraune Tramete *Trametes cervina*, die aus einer Vielzahl relativ kleiner dicht und reihig  aneinander angeordneten Hütchen besteht. Sie wird inzwischen in der Gattung *Trametopsis* geführt. Gefunden am Försterwiesenteich im Frankfurter Stadtwald. (Frank Kaster)
 
 [Mehr lesen >](/pilze/trametes-cervina-hirschbraune-tramete)
 
