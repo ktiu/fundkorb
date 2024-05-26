@@ -13,8 +13,21 @@ footer_scripts:
 - - -
 
 Neuer Exkursionstermin:\
-Samstag, 25. Mai 2024: **Pilzkundliche Wanderung im Frankfurter Stadtwald**\
+Sonntag, 02. Juni 2024: **Lust auf Pilze?**\
+Sonntag, 09. Juni 2024: **Der Wald und seine Pilze im Juni**\
 Hier geht's zur [Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_cervina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.05.2024: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist eine Tramete, die auf den ersten Blick überhaupt nicht wie eine typische Tramete aussieht. Es ist die Rehbraune Tramete *Trametes cervinus*, die aus einer Vielzahl relativ kleiner dicht und reihig  aneinander angeordneten Hütchen besteht. Sie wird inzwischen in der Gattung *Trametopsis* geführt. Gefunden am Försterwiesenteich im Frankfurter Stadtwald. (Frank Kaster)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -37,18 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 25.05.2024: Einen Saftling zu finden, ist immer eine Freude. Vor allem, wenn es an einem begrünten Straßenrand mitten in Dietzenbach ist. Um den Kegeligen Saftling *Hygrocybe conica* (unseren aktuellen [Fundkorbpilz](AA "Glossar-")) anzutreffen, muss man nicht unbedingt eine der wenigen Saftlingswiesen besuchen. Er ist nahezu überall zu Hause. Ein typisches Merkmal ist das Schwärzen seiner Fruchtkörper. Wenn das fortgeschritten ist, sieht er gar nicht mehr schön aus. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/skeletocutis_amorpha_02_bm.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html %}
-
-24.05.2024: Ein- und mehrjährige Pilze an Holz gibt es zu allen Jahreszeiten. Das gilt auch für den aktuellen [Fundkorbpilz](AA "Glossar-"), den Orangefarbigen Knorpelporling  *Skeletocutis amorpha*, der [saprobiontisch](saprobiontisch "Glossar") an morschem Kiefernholz wächst. Zu seinen wichtigsten Merkmalen gehören seine orangefarbene Porenschicht und leichte Ablösbarkeit. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/skeletocutis-amorpha-orangefarbener-knorpelporling)
 
 <div style="clear:  both"></div>
 
