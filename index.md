@@ -25,7 +25,7 @@ Hier geht's zur [Anmeldung >](/termine)
 
 27.05.2024: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist eine Tramete, die auf den ersten Blick überhaupt nicht wie eine typische Tramete aussieht. Es ist die Rehbraune Tramete *Trametes cervinus*, die aus einer Vielzahl relativ kleiner dicht und reihig  aneinander angeordneten Hütchen besteht. Sie wird inzwischen in der Gattung *Trametopsis* geführt. Gefunden am Försterwiesenteich im Frankfurter Stadtwald. (Frank Kaster)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/trametes-cervina-hirschbraune-tramete)
 
 <div style="clear:  both"></div>
 
