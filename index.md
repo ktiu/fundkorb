@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_cyanoxantha_03_dg-1536x1123.jpg" %}
+{% include abbildung_ende.html %}
+
+28.05.2024: Den Frauentäubling *Russula cyanoxantha* erstmals im Jahr zu finden ist für mich immer eine große Freude. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") vermittelt mir: Die Pilzsaison, auch die der Speisepilze, hat begonnen. Zumal ja auch die Pfifferlinge schon da sind. Man muss übrigens kein mit Mikroskop bewaffneter Mykologe sein, um in dieser wahrlich schwierigen Gattung den Frauentäubling von den anderen rund 160 in Deutschland nachgewiesenen Täublingsarten sicher zu unterscheiden. Man muss nur wissen, worauf man achten muss. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-cyanoxantha-frauentäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_cervina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
