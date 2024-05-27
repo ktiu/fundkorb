@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-27.05.2024: [Trametes cervina - Hirschbraune Tramete](/pilze/trametes-cervina-hirschbraune-tramete)  
+28.05.2024: [Russula cyanoxantha - Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling)  
+27.05.2024: [Trametes cervina - Hirschbraune Tramete](/pilze/trametes-cervina-hirschbraune-tramete)\
 26.05.2024: [Marasmiellus vaillantii - Matter Zwergschwindling](/pilze/marasmiellus-vaillantii-matter-zwergschwindling)\
 25.05.2024: [Hygrocybe conica - Kegeliger Saftling](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)\
 24.05.2024: [Skeletokutis amorpha - Orangefarbener Knorpelporling](/pilze/skeletocutis-amorpha-orangefarbener-knorpelporling)\
