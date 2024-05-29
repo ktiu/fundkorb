@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_rosea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal eine leicht kenntliche Art, der Rosa Rettich-Helmling *Mycena rosea*. Er ist sehr häufig und wohl in fast jedem Wald zu finden, aber so früh wie in diesem Jahr ist er mir bisher noch nicht begegnet. Er enthält geringe Mengen des Nervengifts Muscarin und muss daher wie alle Rettich-Helmlinge als Giftpilz ausgewiesen werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-rosea-rosa-rettich-helmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_nanus_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
