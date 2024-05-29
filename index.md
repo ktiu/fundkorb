@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pluteus_nanus_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+29.05.2024: Unter den Pilzen gibt es mit Sicherheit mehr Zwerge als Riesen. Einer von diesen, der Flockigbereifte Dachpilz *Pluteus nanus*, auch Zwerg-Dachpilz genannt, ist unser heutiger [Fundkorbpilz](AA "Glossar-"). Er ist in unserer Dietzenbacher Parkanlage erschienen, wo er scheinbar am Boden, tatsächlich aber auf verborgenen Holzresten wuchs. Auf solchen Substraten sind seine Fruchkörper meist besonders klein. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pluteus-nanus-flockigbereifter-dachpilz-zwerg-dachpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_cyanoxantha_03_dg-1536x1123.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,30 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 27.05.2024: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist eine Tramete, die auf den ersten Blick überhaupt nicht wie eine typische Tramete aussieht. Es ist die Hirschbraune Tramete *Trametes cervina*, die aus einer Vielzahl relativ kleiner dicht und reihig  aneinander angeordneten Hütchen besteht. Sie wird inzwischen in der Gattung *Trametopsis* geführt. Gefunden am Försterwiesenteich im Frankfurter Stadtwald. (Frank Kaster)
 
 [Mehr lesen >](/pilze/trametes-cervina-hirschbraune-tramete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmiellus_vaillantii_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist  der Matte Zwergschwindling *Marasmiellus vaillantii*. Seine wattig weichen, äußerst elastischen und flatterigen Hüte werden maximal 1,5 cm breit, die dünnen, hell rotbraunen, nur an der Spitze weißen Stiele werden bis zu 3 cm lang. Vetrocknete Zwergschwindlinge leben im Gegensatz zu den echten Schwindlingen nach erneuter Befeuchtung nicht wieder auf. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/marasmiellus-vaillantii-matter-zwergschwindling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrocybe_conica_02_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-25.05.2024: Einen Saftling zu finden, ist immer eine Freude. Vor allem, wenn es an einem begrünten Straßenrand mitten in Dietzenbach ist. Um den Kegeligen Saftling *Hygrocybe conica* (unseren aktuellen [Fundkorbpilz](AA "Glossar-")) anzutreffen, muss man nicht unbedingt eine der wenigen Saftlingswiesen besuchen. Er ist nahezu überall zu Hause. Ein typisches Merkmal ist das Schwärzen seiner Fruchtkörper. Wenn das fortgeschritten ist, sieht er gar nicht mehr schön aus. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)
 
 <div style="clear:  both"></div>
 
