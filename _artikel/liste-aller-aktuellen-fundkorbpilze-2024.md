@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+31.05.2024: [Clitocybe gibba - Ockerbrauner Trichterling](/pilze/clitocybe-gibba-ockerbrauner-trichterling)  
 30.05.2024: [Mycena rosea - Rosa Rettich-Helmling](/pilze/mycena-rosea-rosa-rettich-helmling)\
 29.05.2024: [Pluteus nanus - Flockigbereifter Dachpilz, Zwerg-Dachpilz](/pilze/pluteus-nanus-flockigbereifter-dachpilz-zwerg-dachpilz)\
 28.05.2024: [Russula cyanoxantha - Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling)\
