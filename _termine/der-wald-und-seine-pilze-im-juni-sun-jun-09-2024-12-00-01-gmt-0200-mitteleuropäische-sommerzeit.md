@@ -10,4 +10,4 @@ Ein Wald ist mehr als nur eine großflächige Ansammlung von Bäumen. Er ist ein
 
 Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung mitgeteilt.
 
-*** Ein technischer Fehler behindert zur Zeit die Funktion des nachfolgenden Anmeldebuttons. Bitte melden Sie sich per E-Mail an dgewalt@web.de an, wenn Sie an dieser Führung teilnehmen möchten. *** 
+ **Ein technischer Fehler behindert zur Zeit die Funktion des nachfolgenden Anmeldebuttons. Bitte melden Sie sich per E-Mail an [dgewalt@web.de](dgewalt@web.de) an, wenn Sie an dieser Führung teilnehmen möchten.**
