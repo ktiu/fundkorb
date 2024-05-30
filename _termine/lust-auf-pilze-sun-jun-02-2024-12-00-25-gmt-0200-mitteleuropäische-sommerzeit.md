@@ -10,4 +10,4 @@ Pilze sammeln ist ein herrliches Freizeitvergnügen. Man ist an der frischen Luf
 
 Wir werden in einem Wald in der Umgebung von Dietzenbach unterwegs sein. Wer möchte, bringt Körbchen und Messer mit. Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung mitgeteilt.
 
-*** Ein technischer Fehler behindert zur Zeit die Funktion des nachfolgenden Anmeldebuttons. Bitte melden Sie sich per E-Mail an dgewalt@web.de an, wenn Sie an dieser Führung teilnehmen möchten. *** 
+**Ein technischer Fehler behindert zur Zeit die Funktion des nachfolgenden Anmeldebuttons. Bitte melden Sie sich per E-Mail an [dgewalt@web.de](dgewalt@web.de) an, wenn Sie an dieser Führung teilnehmen möchten.**
