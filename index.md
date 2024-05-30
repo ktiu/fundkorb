@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitocybe_gibba_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ockerbraune Trichterling *Clitocybe gibba*, der jetzt Infundibulicybe gibba heißen soll. Charakteristische Merkmale sind sein nicht sehr auffälliger Bittermandelgeruch und der kleine Buckel in der trichterig vertieften Hutmitte. Sollte der Geruch mal nicht wahrnehmbar sein oder der kleine Buckel fehlen, wäre eine Verwechslung vor allem mit dem ebenfalls essbaren [Fuchsigen Röteltrichterling *Lepista flaccida*](/pilze/lepista-flaccida-fuchsiger-röteltrichterling) möglich. Wer es genau wissen will, kommt kaum ums Mikroskopieren herum.  (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/clitocybe-gibba-ockerbrauner-trichterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_rosea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,30 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 29.05.2024: Unter den Pilzen gibt es mit Sicherheit mehr Zwerge als Riesen. Einer von diesen, der Flockigbereifte Dachpilz *Pluteus nanus*, auch Zwerg-Dachpilz genannt, ist unser heutiger [Fundkorbpilz](AA "Glossar-"). Er ist in unserer Dietzenbacher Parkanlage erschienen, wo er scheinbar am Boden, tatsächlich aber auf verborgenen Holzresten wuchs. Auf solchen Substraten sind seine Fruchkörper meist besonders klein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/pluteus-nanus-flockigbereifter-dachpilz-zwerg-dachpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_cyanoxantha_03_dg-1536x1123.jpg" %}
-{% include abbildung_ende.html %}
-
-28.05.2024: Den Frauentäubling *Russula cyanoxantha* erstmals im Jahr zu finden ist für mich immer eine große Freude. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") vermittelt mir: Die Pilzsaison, auch die der Speisepilze, hat begonnen. Zumal ja auch die Pfifferlinge schon da sind. Man muss übrigens kein mit Mikroskop bewaffneter Mykologe sein, um in dieser wahrlich schwierigen Gattung den Frauentäubling von den anderen rund 160 in Deutschland nachgewiesenen Täublingsarten sicher zu unterscheiden. Man muss nur wissen, worauf man achten muss. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-cyanoxantha-frauentäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_cervina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.05.2024: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist eine Tramete, die auf den ersten Blick überhaupt nicht wie eine typische Tramete aussieht. Es ist die Hirschbraune Tramete *Trametes cervina*, die aus einer Vielzahl relativ kleiner dicht und reihig  aneinander angeordneten Hütchen besteht. Sie wird inzwischen in der Gattung *Trametopsis* geführt. Gefunden am Försterwiesenteich im Frankfurter Stadtwald. (Frank Kaster)
-
-[Mehr lesen >](/pilze/trametes-cervina-hirschbraune-tramete)
 
 <div style="clear:  both"></div>
 
