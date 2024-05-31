@@ -18,7 +18,7 @@ literatur:
   - url: https://en-m-wikipedia-org.translate.goog/wiki/Pholiotina_cyanopus?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=sc
   - url: https://en-m-wikipedia-org.translate.goog/wiki/Legal_status_of_psilocybin_mushrooms?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=sc
   - url: https://fundkorb.de/artikel/narrenschw%C3%A4mme.html
-  - text: "German.J, Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Band 4,
+  - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Band 4,
       Seite 342"
 ---
 Zu dieser offensichtlich auf einer Grasfläche fotografierten Pilzart konnte ich mit nur einer Ausnahme in meiner gesamten gedruckten Literatur und bei Internet-Recherchen keine brauchbaren Informationen finden. Die Ausnahme war die englischsprachige *Wikipedia*, die auch in deutscher Übersetzung verfügbar ist. In verkürzter Form gebe ich hier die dortigen Beschreibungen und Informationen sinngemäß weiter:
