@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/anthina_flammea_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+01.06.2024: Es gibt zahlreiche weitgehend unbeachtete Pilze, die auch kaum wie Pilze aussehen. Dazu gehört der Flammenschweif *Anthina flammea*, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Die aufrechten finger- oder stielförmigen Gebilde gehören zur Gruppe *Mycelia sterilia* und erscheinen nicht nur im Spätherbst, wie unser aktueller Fund zeigt. In dieser Gruppe sind 6 Arten in Deutschland nachgewiesen, zu denen man kaum Informationen findet. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitocybe_gibba_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -32,7 +44,7 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_rosea_01_dg.jpg" %}
+{% include bild.html datei="/bilder/mycena_rosea_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 30.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal eine leicht kenntliche Art, der Rosa Rettich-Helmling *Mycena rosea*. Er ist sehr häufig und wohl in fast jedem Wald zu finden, aber so früh wie in diesem Jahr ist er mir bisher noch nicht begegnet. Er enthält geringe Mengen des Nervengifts Muscarin und muss daher wie alle Rettich-Helmlinge als Giftpilz ausgewiesen werden. (Dieter Gewalt)
