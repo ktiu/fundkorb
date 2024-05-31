@@ -25,7 +25,7 @@ Hier geht's zur [Anmeldung >](/termine)
 
 01.06.2024: Es gibt zahlreiche weitgehend unbeachtete Pilze, die auch kaum wie Pilze aussehen. Dazu gehört der Flammenschweif *Anthina flammea*, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Die aufrechten finger- oder stielförmigen Gebilde gehören zur Gruppe *Mycelia sterilia* und erscheinen nicht nur im Spätherbst, wie unser aktueller Fund zeigt. In dieser Gruppe sind 6 Arten in Deutschland nachgewiesen, zu denen man kaum Informationen findet. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/anthina-flammea-flammenschweif)
 
 <div style="clear:  both"></div>
 
