@@ -20,6 +20,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clathrus_archeri_07_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.06.2024: Die anhaltende Feuchtigkeit macht’s möglich: auch Tintenfischpilze (*Clathrus archeri*) sind vor allem an Waldwegrändern zu finden. Meistens ist diese zu den [Stinkmorchelartigen (*Phallales*)](/verwandt/die-stinkmorchelartigen-phallales) zählende Art im Hexeneistadium zu sehen. Geschlüpft erfreut unser heutiger [Fundkorbpilz](AA "Glossar-") mit seinen roten Krakenarmen zwar das Auge, aber nicht die Nase. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/anthina_flammea_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,30 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 31.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ockerbraune Trichterling *Clitocybe gibba*, der jetzt Infundibulicybe gibba heißen soll. Charakteristische Merkmale sind sein nicht sehr auffälliger Bittermandelgeruch und der kleine Buckel in der trichterig vertieften Hutmitte. Sollte der Geruch mal nicht wahrnehmbar sein oder der kleine Buckel fehlen, wäre eine Verwechslung vor allem mit dem ebenfalls essbaren [Fuchsigen Röteltrichterling *Lepista flaccida*](/pilze/lepista-flaccida-fuchsiger-röteltrichterling) möglich. Wer es genau wissen will, kommt kaum ums Mikroskopieren herum.  (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/clitocybe-gibba-ockerbrauner-trichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_rosea_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.05.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal eine leicht kenntliche Art, der Rosa Rettich-Helmling *Mycena rosea*. Er ist sehr häufig und wohl in fast jedem Wald zu finden, aber so früh wie in diesem Jahr ist er mir bisher noch nicht begegnet. Er enthält geringe Mengen des Nervengifts Muscarin und muss daher wie alle Rettich-Helmlinge als Giftpilz ausgewiesen werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-rosea-rosa-rettich-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pluteus_nanus_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-29.05.2024: Unter den Pilzen gibt es mit Sicherheit mehr Zwerge als Riesen. Einer von diesen, der Flockigbereifte Dachpilz *Pluteus nanus*, auch Zwerg-Dachpilz genannt, ist unser heutiger [Fundkorbpilz](AA "Glossar-"). Er ist in unserer Dietzenbacher Parkanlage erschienen, wo er scheinbar am Boden, tatsächlich aber auf verborgenen Holzresten wuchs. Auf solchen Substraten sind seine Fruchkörper meist besonders klein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pluteus-nanus-flockigbereifter-dachpilz-zwerg-dachpilz)
 
 <div style="clear:  both"></div>
 
