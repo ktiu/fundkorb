@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+02.06.2024: [Clathrus ruber - Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)  
 01.06.2024: [Anthina flammea - Flammenschweif](/pilze/anthina-flammea-flammenschweif)
 
 31.05.2024: [Clitocybe gibba - Ockerbrauner Trichterling](/pilze/clitocybe-gibba-ockerbrauner-trichterling)\
