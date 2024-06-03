@@ -22,7 +22,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/macrocystidia_cucumis_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
-03.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gurkenschitzling *Macrocystidia cucumis*, zu dessen auffälligsten Merkmalen der deutliche Geruch nach Gurken zählt. Diese Duftnote wird auch als Mehlgeruch bezeichnet und kommt bei zahlreichen Pilzen in den verschiedensten Gattungen vor. Beim Gurkenschnitzling ist also auch auf die feinsamitigen braunen Hüte und Stiele und in Zweifelsfällen auf Mikromerkmale zu achten. (Dieter Gewalt)
+03.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gurkenschnitzling *Macrocystidia cucumis*, zu dessen auffälligsten Merkmalen der deutliche Geruch nach Gurken zählt. Diese Duftnote wird auch als Mehlgeruch bezeichnet und kommt bei zahlreichen Pilzen in den verschiedensten Gattungen vor. Beim Gurkenschnitzling ist also auch auf die feinsamtigen braunen Hüte und Stiele und in Zweifelsfällen auf Mikromerkmale zu achten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/macrocystidia-cucumis-gurkenschnitzling)
 
