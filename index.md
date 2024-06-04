@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_reticularis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.06.2024: Bei geeigneten Bedingungen ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Sommersteinpilz *Boletus reticulatus*, wie im vorigen Jahr schon im Mai zu finden. Damit folgt er einem Trend, nach dem aufgrund der Klimaveränderung fast alles in der Natur früher erwacht als zuvor. Zur Zeit ist er massenhaft in einem unserer Roteichenforste zu sehen, aber kaum ein Speisepilzsammler wird von dem üppigen Angebot Gebrauch machen. Restlos alle, schon die jüngsten, sind total von Maden zerfressen, was bei früh erscheinenden Sommersteinpilzen eher die Regel als die Ausnahme zu sein scheint. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/boletus-reticulatus-sommersteinpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_pectinatoides_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
