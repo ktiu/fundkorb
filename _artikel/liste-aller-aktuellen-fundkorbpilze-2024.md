@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-04.06.2024: [Russula pectinatoides - Kratzender Kammtäubling](/pilze/russula-pectinatoides-kratzender-kammtäubling)  
+05.06.2024: [Boletus reticulatus - Sommersteinpilz](/pilze/boletus-reticulatus-sommersteinpilz)  
+04.06.2024: [Russula pectinatoides - Kratzender Kammtäubling](/pilze/russula-pectinatoides-kratzender-kammtäubling)\
 03.06.2024: [Macrocystidia cucumis - Gurkenschnitzling](/pilze/macrocystidia-cucumis-gurkenschnitzling)\
 02.06.2024: [Clathrus ruber - Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)\
 01.06.2024: [Anthina flammea - Flammenschweif](/pilze/anthina-flammea-flammenschweif)
