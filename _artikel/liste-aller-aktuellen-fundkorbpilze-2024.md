@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-05.06.2024: [Boletus reticulatus - Sommersteinpilz](/pilze/boletus-reticulatus-sommersteinpilz)  
+06.06.2024: [Xerocomus communis - Eichen-Filzröhrling](/pilze/xerocomus-communis-eichen-filzröhrling)  
+05.06.2024: [Boletus reticulatus - Sommersteinpilz](/pilze/boletus-reticulatus-sommersteinpilz)\
 04.06.2024: [Russula pectinatoides - Kratzender Kammtäubling](/pilze/russula-pectinatoides-kratzender-kammtäubling)\
 03.06.2024: [Macrocystidia cucumis - Gurkenschnitzling](/pilze/macrocystidia-cucumis-gurkenschnitzling)\
 02.06.2024: [Clathrus ruber - Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)\
