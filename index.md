@@ -18,6 +18,19 @@ Hier geht's zur [Anmeldung >](/termine)
 
 - - -
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/xerocomus_communis_01_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/xerocomus_communis_02_dg.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html %}
+
+06.06.2024: Wer nicht genau hinschaut, könnte unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Eichen-Filzröhrling *Xerocomus communis*, leicht mit der gewöhnlichen [Ziegenlippe *(Xerocomus subtomentosus)*](/pilze/xerocomus-subtomentosus-ziegenlippe) verwechseln. Zu seinen kennzeichnenden Merkmalen gehören die punktförmigen roten Längsstreifen am Stiel und die deutlich zugespitzte Stielbasis. Auch die Beimischung von rosa oder roten Farben auf der braunen Huthaut, die oft erst mit dem Altern der Fruchtkörper erscheint, unterscheidet ihn von der Ziegenlippe, die beide gleichwertig gute Speseipilze sind. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xerocomus-communis-eichen-filzröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_reticularis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -37,30 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 04.06.2024: Für Speisezwecke kommt unser aktueller [Fundkorbpilz](AA "Glossar-") nicht in Frage. Es ist der Kratzende Kammtäubling *Russula pectinatoides*, eine häufige Art in einer überschaubaren Gruppe von Täublingen, die durch kammartig geriefte Hutränder gekennzeichnet ist. Sein Doppelgänger ist der scharf schmeckende [Camembert-Täubling *Russula amoenolens*](/pilze/russula-amoenolens-camembert-täubling). Der Kratzende ist zwar nicht scharf, aber keineswegs angenehm im Geschmack. Bei einer Probe bewirkt er ein kratzendes Gefühl auf der Zunge oder im Rachen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-pectinatoides-kratzender-kammtäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/macrocystidia_cucumis_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-03.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gurkenschnitzling *Macrocystidia cucumis*, zu dessen auffälligsten Merkmalen der deutliche Geruch nach Gurken zählt. Diese Duftnote wird auch als Mehlgeruch bezeichnet und kommt bei zahlreichen Pilzen in den verschiedensten Gattungen vor. Beim Gurkenschnitzling ist also auch auf die feinsamtigen braunen Hüte und Stiele und in Zweifelsfällen auf Mikromerkmale zu achten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/macrocystidia-cucumis-gurkenschnitzling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clathrus_archeri_07_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.06.2024: Die anhaltende Feuchtigkeit macht’s möglich: auch Tintenfischpilze (*Clathrus archeri*) sind vor allem an Waldwegrändern zu finden. Meistens ist diese zu den [Stinkmorchelartigen (*Phallales*)](/verwandt/die-stinkmorchelartigen-phallales) zählende Art im Hexeneistadium zu sehen. Geschlüpft erfreut unser heutiger [Fundkorbpilz](AA "Glossar-") mit seinen roten Krakenarmen zwar das Auge, aber nicht die Nase. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz)
 
 <div style="clear:  both"></div>
 
