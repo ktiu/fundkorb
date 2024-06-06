@@ -112,6 +112,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Cladonia digitata = Finger-Scharlachflechte](/pilze/cladonia-digitata-finger-scharlachflechte)\
 [Cladonia fimbriata = Trompeten-Becherflechte](/pilze/cladonia-fimbriata-trompeten-becherflechte)\
 [Cladonia macilenta = Rotfrüchtige Säulenflechte](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)\
+[Cladonia squamosa var. subsquamosa = Falsche Schuppen-Säulenflechte](/pilze/cladonia-squamosa-var-subsquamosa-falsche-schuppen-säulenflechte)  
 [Flavoparmelia caperata = Eichenflechte](/pilze/flavoparmelia-caperata-eichenflechte)\
 [Hypogymnia farinacea = Mehlige Blasenflechte](/pilze/hypogymnia-farinacea-mehlige-blasenflechte)\
 [Hypogymnia physodes = Gewöhnliche Blasenflechte](/pilze/hypogymnia-physodes-gewöhnliche-blasenflechte)\
@@ -144,7 +145,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Lepraria jackii = Jacks Staubflechte](/pilze/lepraria-jackii-jacks-staubflechte)\
 [Pertusaria pertusa = Gewöhnliche Porenflechte](/pilze/pertusaria-pertusa-gewöhnliche-porenflechte)\
 [Phlyctis argena = Weiße Blatternflechte](/pilze/phlyctis-argena-weiße-blatternflechte)\
-[Rusavskia elegans = Zierliche Gelbflechte](/pilze/rusavskia-elegans-zierliche-gelbflechte)  
+[Rusavskia elegans = Zierliche Gelbflechte](/pilze/rusavskia-elegans-zierliche-gelbflechte)\
 [Xylospora caradocensis = Wertvolle Schuppenflechte](/pilze/xylopsora-caradocensis-wertvolle-schuppenflechte)
 
 **Anhang: Flechte der Jahre 2004 bis 2024:**
