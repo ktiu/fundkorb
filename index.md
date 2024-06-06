@@ -18,6 +18,18 @@ Hier geht's zur [Anmeldung >](/termine)
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_gemmata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.06.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist tatsächlich eine Art, die ganzjährig gefunden kann. In meinen Aufzeichnungen gibt es keinen Monat, in dem ich den Narzissengelben Wulstling *Amanita gemmata* nicht schon gefunden habe. Diesmal gleich ein gutes Dutzend im Ansfeldwald bei Rodgau-Dudenhofen. Es handelt sich um eine der kleineren Wulstlingsarten, die sich aber durch ein attraktives Erscheinungsbild auszeichnet. Für die Küche sollte man ihn besser nicht verwenden. Er soll das Krötengift Bufotenin, möglicherweise sogar halluzinogene Stoffe enthalten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-gemmata-narzissengelber-wulstling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/xerocomus_communis_01_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/xerocomus_communis_02_dg.jpg" nocrop=true gross=true %}
