@@ -38,3 +38,5 @@ Makrochemisch Farbreaktionen: mit Kalilauge (KOH): stark gelb, mit p-Phenylendia
 {% include abbildung_ende.html %}
 
 Verwechslungsmöglichkeit: Die „echte“ Schuppen-Säulenflechte (*Cladonia squamosa var. squamosa*) weist negative Farbreaktionen auf. Außerdem soll sie gemäß *lichensmaritimes.org*  weniger robust und weniger stark beschuppt sein.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
