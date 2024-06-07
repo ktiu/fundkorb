@@ -20,7 +20,7 @@ literatur:
   - url: https://italic.units.it/index.php?procedure=taxonpage&num=113
   - url: http://www.norbert-kuehnberger.de/pilzbildergalerie/D_Flechten-Lichenes_-_226_Arten/index.htm
 ---
-Was eine Flechte ist, glaubt fast jeder zu wissen, doch nur wenige sind in der Lage, auch nur eine der etwa 2.000 verschiedenen in Mitteleuropa vorkommenden Arten beim Namen zu nennen. Auch was Flechten genau sind, ist kaum jemandem bekannt. Die Erklärung, dass es sich um eine [Symbiose](Symbiose "Glossar") von Pilz und Alge handelt, hilft da auch nicht viel weiter. Daher möchte ich versuchen, dem interessierten Naturfreund diese auf den ersten Blick so unattraktiv wirkenden Organismen anhand einer überaus häufigen Flechtenart ein wenig vertrauter zu machen. Es handelt sich um die Gewöhnliche Gelbflechte *Xanthoria parietina*, die in der Nähe eines jeden Mitteleuropäers zu finden sein dürfte. Man braucht sich nur die Rinde von Bäumen und Sträuchern und deren Stämme und Äste zu betrachten.
+Was eine Flechte ist, glaubt fast jeder zu wissen, doch nur wenige sind in der Lage, auch nur eine der etwa 2.000 verschiedenen in Mitteleuropa vorkommenden Arten beim Namen zu nennen. Auch was Flechten genau sind, ist kaum jemandem bekannt. Die Erklärung, dass es sich um eine [Symbiose](Symbiose "Glossar") von Pilz und Alge handelt, hilft da auch nicht viel weiter. Daher möchte ich versuchen, dem interessierten Naturfreund diese auf den ersten Blick so unattraktiv wirkenden Organismen anhand einer überaus häufigen Flechtenart ein wenig vertrauter zu machen. Es handelt sich um die Gewöhnliche Gelbflechte *Xanthoria parietina*, die in der Nähe eines jeden Mitteleuropäers zu finden sein dürfte. Man braucht sich nur die Rinde von Bäumen und Sträuchern und deren Stämme und Äste zu betrachten. Selbst an Mauern, auf Steinen und sogar auf Metall kann sie gedeihen.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/xanthoria_parietina_01_bm.jpg" %}
@@ -112,7 +112,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Cladonia digitata = Finger-Scharlachflechte](/pilze/cladonia-digitata-finger-scharlachflechte)\
 [Cladonia fimbriata = Trompeten-Becherflechte](/pilze/cladonia-fimbriata-trompeten-becherflechte)\
 [Cladonia macilenta = Rotfrüchtige Säulenflechte](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)\
-[Cladonia squamosa var. subsquamosa = Falsche Schuppen-Säulenflechte](/pilze/cladonia-squamosa-var-subsquamosa-falsche-schuppen-säulenflechte)  
+[Cladonia squamosa var. subsquamosa = Falsche Schuppen-Säulenflechte](/pilze/cladonia-squamosa-var-subsquamosa-falsche-schuppen-säulenflechte)\
 [Flavoparmelia caperata = Eichenflechte](/pilze/flavoparmelia-caperata-eichenflechte)\
 [Hypogymnia farinacea = Mehlige Blasenflechte](/pilze/hypogymnia-farinacea-mehlige-blasenflechte)\
 [Hypogymnia physodes = Gewöhnliche Blasenflechte](/pilze/hypogymnia-physodes-gewöhnliche-blasenflechte)\
@@ -137,6 +137,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 **Krustenflechten:**\
 [Arthonia atra = Schwarze Zeichenflechte](/pilze/arthonia-atra-schwarze-zeichenflechte)\
 [Baeomyces rufus = Braune Köpfchenflechte](/pilze/baeomyces-rufus-braune-köpfchenflechte)\
+[Caloplaca cerina = Wachs-Schönfleck](/pilze/caloplaca-cerina-wachs-schönfleck)  
 [Chrysothrix candelaris = Borken-Schwefelflechte](/pilze/chrysothrix-candelaris-borken-schwefelflechte)\
 [Flavoplaca citrina = Ztronen-Schönfleck](/pilze/flavoplaca-citrina-zitronen-schönfleck)\
 [Graphis scripta = Schriftflechte](/pilze/graphis-scripta-schriftflechte)\
