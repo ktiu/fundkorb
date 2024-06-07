@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_vesca_05_dg-gerhard-schuster-.jpg" %}
+{% include abbildung_ende.html %}
+
+08.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Speisetäubling *Russula vesca*. Er gehört zu den Premiumarten unter den Täublingen, ist von Anfängern aber nicht ganz einfach von anderen roten oder rötlichen Täublingen zu unterscheiden. Wenn er ein wichtiges Merkmal (die etwas zu kurz geratene Huthaut- siehe Foto!) deutlich zeigt und einen milden, angenehm nussigen Geschmack hat, darf man ihn getrost in der Küche verwenden. Er ist relativ häufig und von Juni an bis in den Sätherbst in Laub- und Mischwäldern zu finden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-vesca-speisetäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_gemmata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,30 +50,6 @@ Hier geht's zur [Anmeldung >](/termine)
 06.06.2024: Wer nicht genau hinschaut, könnte unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Eichen-Filzröhrling *Xerocomus communis*, leicht mit der gewöhnlichen [Ziegenlippe *(Xerocomus subtomentosus)*](/pilze/xerocomus-subtomentosus-ziegenlippe) verwechseln. Zu seinen kennzeichnenden Merkmalen gehören die punktförmigen roten Längsstreifen am Stiel und die deutlich zugespitzte Stielbasis. Auch die Beimischung von rosa oder roten Farben auf der braunen Huthaut, die oft erst mit dem Altern der Fruchtkörper erscheint, unterscheidet ihn von der Ziegenlippe, die beide gleichwertig gute Speseipilze sind. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xerocomus-communis-eichen-filzröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_reticularis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.06.2024: Bei geeigneten Bedingungen ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Sommersteinpilz *Boletus reticulatus*, wie im vorigen Jahr schon im Mai zu finden. Damit folgt er einem Trend, nach dem aufgrund der Klimaveränderung fast alles in der Natur früher erwacht als zuvor. Zur Zeit ist er massenhaft in einem unserer Roteichenforste zu sehen, aber kaum ein Speisepilzsammler wird von dem üppigen Angebot Gebrauch machen. Restlos alle, schon die jüngsten, sind total von Maden zerfressen, was bei früh erscheinenden Sommersteinpilzen eher die Regel als die Ausnahme zu sein scheint. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-reticulatus-sommersteinpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_pectinatoides_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.06.2024: Für Speisezwecke kommt unser aktueller [Fundkorbpilz](AA "Glossar-") nicht in Frage. Es ist der Kratzende Kammtäubling *Russula pectinatoides*, eine häufige Art in einer überschaubaren Gruppe von Täublingen, die durch kammartig geriefte Hutränder gekennzeichnet ist. Sein Doppelgänger ist der scharf schmeckende [Camembert-Täubling *Russula amoenolens*](/pilze/russula-amoenolens-camembert-täubling). Der Kratzende ist zwar nicht scharf, aber keineswegs angenehm im Geschmack. Bei einer Probe bewirkt er ein kratzendes Gefühl auf der Zunge oder im Rachen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-pectinatoides-kratzender-kammtäubling)
 
 <div style="clear:  both"></div>
 
