@@ -19,6 +19,10 @@ literatur:
 ---
 Dieser Pilz ist so charakteristisch, dass man ihn sofort wiedererkennt, wenn man ihm einmal begegnet ist. Vor allem die ungewöhnlich dunkel karminroten Lamellen, die im Alter bräunen, lassen dann sofort an den Blutblättrigen Zwergschirmling denken. Zwergschirmlinge (*Melanophyllum*) sind eine Gattung mit nur zwei europäischen (weltweit drei) Arten.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/melanophyllum_haematospermum_02_frk.jpg" %}
+{% include abbildung_ende.html legende="Foto: Fredi Kasparek" %}
+
 Die Hüte werden meist nur 2 - 4 cm breit. Sie sind jung mit feinen Pusteln besetzt, verkahlen dann aber. Ihre Farbe variiert von schmutzig graubeige bis hellbraun. Die Hutränder sind jung mit hellen [Velumfetzen](Velum "Glossar") behangen. Das dünne Hutfleisch ist weiß, rötet aber sofort bei Verletzung. Die auffällig gefärbten, gedrängt stehenden Lamellen sind ausgebuchtet am Stiel angewachsen. Dieser ist sehr schlank, bis zu 6 cm lang, aber nur 3 bis 5 mm dick, auf ganzer Länge mit einem hellgrauen, leicht abwischbaren pulverigen Belag überzogen, darunter weinrötlich. Außerdem ist er hohl und zerbrechlich. Der Geruch wird als unangenehm muffig, porlingsartig oder nach Kartoffelbovisten beschrieben. Der Geschmack ist unauffällig mild. 
 
 Ungewöhnlich ist auch das Sporenpulver. Ein Abwurfpräparat ist zunächst olivgrün und verfärbt sich dann zu rotbraun. Die zylindrischen bis elliptischen dickwandigen Sporen sind fein punktiert und messen 5 - 7 x 2,5 - 3,5 µm.
