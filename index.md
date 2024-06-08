@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_luridus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Netzstielige Hexenröhrling *Boletus luridus*, den man in den Wäldern des Rhein-Main-Gebiets nur selten findet, in bebauten Gebieten dagegen um so häufiger. Hier haben oft Bautätigkeiten, auch länger zurückliegende, für einen Kalkeintrag in die Böden gesorgt und damit beste Voraussetzungen für das Wachstum kalkliebender Pilzarten wie unsere "Netzhexen" geschaffen. In Dietzenbach standen sie gestern noch gut sichtbar in einem Kita-Gelände, wo man sie inzwischen in Sorge um die lieben Kleinen, die ja gern mal was in den Mund stecken, entfernt hat. Sie sind wie fast alle Pilze roh giftig, ausreichend erhitzt aber lecker und gut verträglich. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/boletus-luridus-netzstieliger-hexenröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_vesca_05_dg-gerhard-schuster-.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,19 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 07.06.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist tatsächlich eine Art, die ganzjährig gefunden kann. In meinen Aufzeichnungen gibt es keinen Monat, in dem ich den Narzissengelben Wulstling *Amanita gemmata* nicht schon gefunden habe. Diesmal gleich ein gutes Dutzend im Ansfeldwald bei Rodgau-Dudenhofen. Es handelt sich um eine der kleineren Wulstlingsarten, die sich aber durch ein attraktives Erscheinungsbild auszeichnet. Für die Küche sollte man ihn besser nicht verwenden. Er soll das Krötengift Bufotenin, möglicherweise sogar halluzinogene Stoffe enthalten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-gemmata-narzissengelber-wulstling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/xerocomus_communis_01_dg.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/xerocomus_communis_02_dg.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html %}
-
-06.06.2024: Wer nicht genau hinschaut, könnte unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Eichen-Filzröhrling *Xerocomus communis*, leicht mit der gewöhnlichen [Ziegenlippe *(Xerocomus subtomentosus)*](/pilze/xerocomus-subtomentosus-ziegenlippe) verwechseln. Zu seinen kennzeichnenden Merkmalen gehören die punktförmigen roten Längsstreifen am Stiel und die deutlich zugespitzte Stielbasis. Auch die Beimischung von rosa oder roten Farben auf der braunen Huthaut, die oft erst mit dem Altern der Fruchtkörper erscheint, unterscheidet ihn von der Ziegenlippe, die beide gleichwertig gute Speseipilze sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xerocomus-communis-eichen-filzröhrling)
 
 <div style="clear:  both"></div>
 
