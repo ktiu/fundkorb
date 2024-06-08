@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-08.06.2024: [Russula vesca - Speisetäubling](/pilze/russula-vesca-speisetäubling)  
+09.06.2024: [Boletus luridus - Netzstieliger Hexenröhrling](/pilze/boletus-luridus-netzstieliger-hexenröhrling)  
+08.06.2024: [Russula vesca - Speisetäubling](/pilze/russula-vesca-speisetäubling)\
 07.06.2024: [Amanita gemmata - Narzissengelber Wulstling](/pilze/amanita-gemmata-narzissengelber-wulstling)\
 06.06.2024: [Xerocomus communis - Eichen-Filzröhrling](/pilze/xerocomus-communis-eichen-filzröhrling)\
 05.06.2024: [Boletus reticulatus - Sommersteinpilz](/pilze/boletus-reticulatus-sommersteinpilz)\
