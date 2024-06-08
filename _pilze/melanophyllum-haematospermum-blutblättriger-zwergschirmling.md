@@ -11,6 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/melanophyllum_haematospermum_01_nk.jpg
+  legende: Der Fundort sieht nach Brandstelle aus, ist aber feuchte dunkle Erde
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 4, Nr. 258"
   - text: "German J. Krieglsteiner: Die Großpilze Baden-Württembergs Band 5, Seite
