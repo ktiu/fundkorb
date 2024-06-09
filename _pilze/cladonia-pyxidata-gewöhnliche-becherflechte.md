@@ -42,3 +42,5 @@ Diese sehr apart aussehende Gewöhnliche Becherflechte (*Cladonia pyxidata*) fan
 
 Die [Podetien](<Podetien "Glossar">) sind meist graugrün und körnig. Sie tragen fast stets recht breite Becher mit kleinen, dunkelbraunen Randpunkten (Pyknidien). Manchmal entwickeln sich auch Stiele mit dunkelbraunen Früchten (Apothecien). Die Grundblättchen (Grundschuppen) sind oberseits graugrün, unterseits weiß. Bei unserem Fund waren sie nur spärlich vorhanden.\
 Farbreaktion mit p-Phenylendiamin: orange
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
