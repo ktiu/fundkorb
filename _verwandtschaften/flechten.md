@@ -112,6 +112,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Cladonia digitata = Finger-Scharlachflechte](/pilze/cladonia-digitata-finger-scharlachflechte)\
 [Cladonia fimbriata = Trompeten-Becherflechte](/pilze/cladonia-fimbriata-trompeten-becherflechte)\
 [Cladonia macilenta = Rotfrüchtige Säulenflechte](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)\
+[Cladonia pyxidata = Gewöhnliche Becherflechte](/pilze/cladonia-pyxidata-gewöhnliche-becherflechte)
 [Cladonia squamosa var. subsquamosa = Falsche Schuppen-Säulenflechte](/pilze/cladonia-squamosa-var-subsquamosa-falsche-schuppen-säulenflechte)\
 [Flavoparmelia caperata = Eichenflechte](/pilze/flavoparmelia-caperata-eichenflechte)\
 [Hypogymnia farinacea = Mehlige Blasenflechte](/pilze/hypogymnia-farinacea-mehlige-blasenflechte)\
@@ -137,7 +138,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 **Krustenflechten:**\
 [Arthonia atra = Schwarze Zeichenflechte](/pilze/arthonia-atra-schwarze-zeichenflechte)\
 [Baeomyces rufus = Braune Köpfchenflechte](/pilze/baeomyces-rufus-braune-köpfchenflechte)\
-[Caloplaca cerina = Wachs-Schönfleck](/pilze/caloplaca-cerina-wachs-schönfleck)  
+[Caloplaca cerina = Wachs-Schönfleck](/pilze/caloplaca-cerina-wachs-schönfleck)\
 [Chrysothrix candelaris = Borken-Schwefelflechte](/pilze/chrysothrix-candelaris-borken-schwefelflechte)\
 [Flavoplaca citrina = Ztronen-Schönfleck](/pilze/flavoplaca-citrina-zitronen-schönfleck)\
 [Graphis scripta = Schriftflechte](/pilze/graphis-scripta-schriftflechte)\
