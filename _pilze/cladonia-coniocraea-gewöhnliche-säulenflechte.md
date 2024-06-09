@@ -36,4 +36,4 @@ Verwechslungsmöglichkeiten:\
 Die Pfriemen-Geweihflechte *Cladonia subulata* hat verzweigte Podetien und besiedelt Mineralböden.\
 Ebenfalls auf Holz (oder Torf) kommt die [Rotfrüchtige Säulenflechte *Cladonia macilenta*](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte) vor. Sie hat stiftförmige Podetien und rote, unterschiedlich geformte Apothezien. Ihre Farbreaktionen: Mit Kalilauge (KOH) gelb, mit p-Phenylendiamin (PPD) orange oder negativ.
 
-Wenn Sie mehr über Flechten wissen wollen - hier erfahren Sie es >
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
