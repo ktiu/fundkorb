@@ -19,6 +19,18 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_chrysenteron_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.06.2024: In unserer Dietzenbacher Parkanlage ist jetzt auch der erste frisch geschlüpfte Rotfußröhrling (*Xerocomus chrysenteron*) entdeckt worden und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Er ist der wohl häufigste aller Röhrlinge und wird viel gesammelt und gegessen. In vielen Pilzkörben ist er überwiegender Bestandteil eines Konglomerats, das von den Findern pauschal für Maronen gehalten wird, aber aus mehreren unterschiedlichen Pilzarten besteht. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_luridus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Hier geht's zur [Anmeldung >](/termine)
 08.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Speisetäubling *Russula vesca*. Er gehört zu den Premiumarten unter den Täublingen, ist von Anfängern aber nicht ganz einfach von anderen roten oder rötlichen Täublingen zu unterscheiden. Wenn er ein wichtiges Merkmal (die etwas zu kurz geratene Huthaut- siehe Foto!) deutlich zeigt und einen milden, angenehm nussigen Geschmack hat, darf man ihn getrost in der Küche verwenden. Er ist relativ häufig und von Juni an bis in den Sätherbst in Laub- und Mischwäldern zu finden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-vesca-speisetäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_gemmata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.06.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist tatsächlich eine Art, die ganzjährig gefunden kann. In meinen Aufzeichnungen gibt es keinen Monat, in dem ich den Narzissengelben Wulstling *Amanita gemmata* nicht schon gefunden habe. Diesmal gleich ein gutes Dutzend im Ansfeldwald bei Rodgau-Dudenhofen. Es handelt sich um eine der kleineren Wulstlingsarten, die sich aber durch ein attraktives Erscheinungsbild auszeichnet. Für die Küche sollte man ihn besser nicht verwenden. Er soll das Krötengift Bufotenin, möglicherweise sogar halluzinogene Stoffe enthalten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-gemmata-narzissengelber-wulstling)
 
 <div style="clear:  both"></div>
 
