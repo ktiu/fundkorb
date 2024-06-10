@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-10.06.2024: [Xerocomus chrysenteron - Gemeiner Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)  
+11.06.2024: [Hypomyces chrysospermus - Goldschimmel](/pilze/hypomyces-chrysospermus-goldschimmel)  
+10.06.2024: [Xerocomus chrysenteron - Gemeiner Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)\
 09.06.2024: [Boletus luridus - Netzstieliger Hexenröhrling](/pilze/boletus-luridus-netzstieliger-hexenröhrling)\
 08.06.2024: [Russula vesca - Speisetäubling](/pilze/russula-vesca-speisetäubling)\
 07.06.2024: [Amanita gemmata - Narzissengelber Wulstling](/pilze/amanita-gemmata-narzissengelber-wulstling)\
