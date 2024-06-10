@@ -24,12 +24,6 @@ footer_scripts:
 
 - - -
 
-Nächster Exkursionstermin:\
-Sonntag, 09. Juni 2024: **Der Wald und seine Pilze im Juni**\
-Hier geht's zur [Anmeldung >](/termine)
-
-- - -
-
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_chrysenteron_02_dg.jpg" %}
 {% include abbildung_ende.html %}
