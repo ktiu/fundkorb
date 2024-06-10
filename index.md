@@ -12,6 +12,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypomyces_chrysospermus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldschimmel *Hypomyces chrysospermus*. Vor allem Röhrlinge werden von ihm befallen, insbesondere bei feuchtem Wetter. Die Infektion beginnt mit kleinen grauen Flecken, die schnell größer werden und bald als weißer, im Endstadium goldgelber Belag den ganzen Fruchtkörper überziehen. Schon bei ersten Anzeichen eines Befalls dürfen Röhrlinge auf keinen Fall mehr gesammelt, erst recht nicht gegessen und möglichst auch nicht angefasst werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypomyces-chrysospermus-goldschimmel)
+
+<div style="clear:  both"></div>
+
+- - -
+
 Nächster Exkursionstermin:\
 Sonntag, 09. Juni 2024: **Der Wald und seine Pilze im Juni**\
 Hier geht's zur [Anmeldung >](/termine)
