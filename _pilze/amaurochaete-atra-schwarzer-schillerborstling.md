@@ -33,3 +33,5 @@ Die Antwort auf Ihre Frage hätte *„Amaurochaete atra“* lauten können, soll
 Dieser [Myxomyzet](<Myxomyzeten "Glossar">) bildet im Anfangsstadium ([Plasmodium](<Plasmodium "Glossar">)) kissenförmige schleimig-schmierige weiße Kissen von 2 - 4 - 6 cm Ausdehnung, die sich bald rosalich verfärben. Die äußere Schicht verwandelt sich dann in eine schwarz glänzende mit hellen Adern gesprenkelte Kruste, die schließlich aufbricht und eine schwarzbraune Pulvermasse freilegt, die sich bald in verzweigte oder netzartig verbundene, verfilzte gleichfarbene Fäden verwandelt.
 
 Das Sporenpulver ist schwarz. Die rundlichen warzig-feinstacheligen etwas unregelmäßig geformten Sporen messen 12,5 - 16 x 11 - 14,5 µm.
+
+Wenn Sie mehr über diese faszinierenden Organismen erfahren möchten: [hier geht´s zum Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller im Fundkorb gezeigten Myxomyzeten enthält.
