@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_phalloides_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.06.2024: Unser Dietzenbacher Carré ist zur Zeit ein wahres Pilz-Eldorado. Sogar der Grüne Knollenblätterpilz *Amanita phalloides* ist erschienen und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Er ist ohne Zweifel ein attraktiver Pilz - was seine Optik betrifft. Speisepilzsammler sollten ihn sehr genau kennen. Ein einziges Exemplar kann tödlich sein, wenn in der Intensivstation der Klinik nicht rechtzeitig eine Spenderleber zur Verfügung steht. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypomyces_chrysospermus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 10.06.2024: In unserer Dietzenbacher Parkanlage ist jetzt auch der erste frisch geschlüpfte Rotfußröhrling (*Xerocomus chrysenteron*) entdeckt worden und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Er ist der wohl häufigste aller Röhrlinge und wird viel gesammelt und gegessen. In vielen Pilzkörben ist er überwiegender Bestandteil eines Konglomerats, das von den Findern pauschal für Maronen gehalten wird, aber aus mehreren unterschiedlichen Pilzarten besteht. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_luridus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Netzstielige Hexenröhrling *Boletus luridus*, den man in den Wäldern des Rhein-Main-Gebiets nur selten findet, in bebauten Gebieten dagegen um so häufiger. Hier haben oft Bautätigkeiten, auch länger zurückliegende, für einen Kalkeintrag in die Böden gesorgt und damit beste Voraussetzungen für das Wachstum kalkliebender Pilzarten wie unsere "Netzhexen" geschaffen. In Dietzenbach standen sie gestern noch gut sichtbar in einem Kita-Gelände, wo man sie inzwischen in Sorge um die lieben Kleinen, die ja gern mal was in den Mund stecken, entfernt hat. Sie sind wie fast alle Pilze roh giftig, ausreichend erhitzt aber lecker und gut verträglich. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-luridus-netzstieliger-hexenröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_vesca_05_dg-gerhard-schuster-.jpg" %}
-{% include abbildung_ende.html %}
-
-08.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Speisetäubling *Russula vesca*. Er gehört zu den Premiumarten unter den Täublingen, ist von Anfängern aber nicht ganz einfach von anderen roten oder rötlichen Täublingen zu unterscheiden. Wenn er ein wichtiges Merkmal (die etwas zu kurz geratene Huthaut- siehe Foto!) deutlich zeigt und einen milden, angenehm nussigen Geschmack hat, darf man ihn getrost in der Küche verwenden. Er ist relativ häufig und von Juni an bis in den Sätherbst in Laub- und Mischwäldern zu finden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-vesca-speisetäubling)
 
 <div style="clear:  both"></div>
 
