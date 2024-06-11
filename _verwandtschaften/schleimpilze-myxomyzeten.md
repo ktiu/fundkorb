@@ -51,9 +51,10 @@ Bis jetzt sind knapp über 1000 Arten beschrieben worden, jedoch werden laufend 
 
 Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das [Video des US-amerikanischen Technikportals The Verge](https://www.spektrum.de/video/besitzen-schleimpilze-schwarmintelligenz/1592488) legt das nahe. Auch selbstfahrende Autos könnten vom intelligenten Verhalten der Schleimpilze etwas lernen. Wie kommen die Autoren zu dieser etwas verblüffenden Ansicht?
 
-Bisher 22 Schleimpilzarten aus 14 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
+Bisher 24 Schleimpilzarten aus 14 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
 
-[](/pilze/diachaea-leucopodia-buckingham-schleimpilz)[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
+[Amaurochaete atra (Stemonitidaceae) = Schwarzer Schillerborstling](/pilze/amaurochaete-atra-schwarzer-schillerborstling)  
+[Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
 [Arcyria incarnata (Arcyriaceae) - Roter Kelchstäubling](/pilze/arcyria-incarnata-roter-kelchst%C3%A4ubling)\
 [Arcyria obvelata (Arcyriaceae) - Nickender Kelchschleimpilz](/pilze/arcyria-obvelata-arcyria-obvelata)\
 [Ceratiomyxa porioides (Ceratiomyxaceae) - Weißes Netzpolster](/pilze/ceratiomyxa-porioides-weißes-netzpolster)\
