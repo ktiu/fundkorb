@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-12.06.2024: [Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)  
+13.06.2024: [Russula ionochlora - Papageitäubling](/pilze/russula-ionochlora-papagei-täubling)  
+12.06.2024: [Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)\
 11.06.2024: [Hypomyces chrysospermus - Goldschimmel](/pilze/hypomyces-chrysospermus-goldschimmel)\
 10.06.2024: [Xerocomus chrysenteron - Gemeiner Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)\
 09.06.2024: [Boletus luridus - Netzstieliger Hexenröhrling](/pilze/boletus-luridus-netzstieliger-hexenröhrling)\
