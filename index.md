@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_ionochlora_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.06.2024: Auch Essbares findet sich im Dietzenbacher Carré an der Rodgaustraße, einer Parkanlage mit artenreichem Baumbestand und unterschiedlichen Biotopen. Aktueller Fund und heutiger [Fundkorbpilz](AA "Glossar-") ist der Papageitäubling *Russula ionochlora*. Man könnte ihn für einen schmächtigen Frauentäubling halten, er hat aber im Gegensatz zu diesem splitternde Lamellen. Wer ihn schon mal in der Pfanne hatte, wird ihn durchaus zu schätzen wissen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_phalloides_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
