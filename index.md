@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_subdulcis_03_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+14.06.2024: Braune Milchlinge sind in jedem Wald zu finden. Es gibt eine beträchtliche Anzahl an Arten, die nicht immer leicht zu bestimmen sind. Für die Küche taugen die wenigsten. Zu diesen gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Süßliche Milchling *Lactarius subdulcis*. Was an ihm süßlich sein soll, entzieht sich meinem Verständnis. Seine weiße Milch schmeckt eher bitter. Auch der Blattwanzengeruch ist nicht gerade angenehm. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lactarius-subdulcis-süßlicher-milchling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_ionochlora_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 12.06.2024: Unser Dietzenbacher Carré ist zur Zeit ein wahres Pilz-Eldorado. Sogar der Grüne Knollenblätterpilz *Amanita phalloides* ist erschienen und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Er ist ohne Zweifel ein attraktiver Pilz - was seine Optik betrifft. Speisepilzsammler sollten ihn sehr genau kennen. Ein einziges Exemplar kann tödlich sein, wenn in der Intensivstation der Klinik nicht rechtzeitig eine Spenderleber zur Verfügung steht. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypomyces_chrysospermus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldschimmel *Hypomyces chrysospermus*. Vor allem Röhrlinge werden von ihm befallen, insbesondere bei feuchtem Wetter. Die Infektion beginnt mit kleinen grauen Flecken, die schnell größer werden und bald als weißer, im Endstadium goldgelber Belag den ganzen Fruchtkörper überziehen. Schon bei ersten Anzeichen eines Befalls dürfen Röhrlinge auf keinen Fall mehr gesammelt, erst recht nicht gegessen und möglichst auch nicht angefasst werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypomyces-chrysospermus-goldschimmel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_chrysenteron_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.06.2024: In unserer Dietzenbacher Parkanlage ist jetzt auch der erste frisch geschlüpfte Rotfußröhrling (*Xerocomus chrysenteron*) entdeckt worden und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Er ist der wohl häufigste aller Röhrlinge und wird viel gesammelt und gegessen. In vielen Pilzkörben ist er überwiegender Bestandteil eines Konglomerats, das von den Findern pauschal für Maronen gehalten wird, aber aus mehreren unterschiedlichen Pilzarten besteht. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)
 
 <div style="clear:  both"></div>
 
