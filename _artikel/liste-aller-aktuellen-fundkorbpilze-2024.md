@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-14.06.2024: [Lactarius subdulcis - Süßlicher Milchling](/pilze/lactarius-subdulcis-süßlicher-milchling)  
+15.06.2024: [Agaricus silvicola - Dünnfleischiger Anis-Champignon](/pilze/agaricus-silvicola-dünnfleischiger-anis-champignon)  
+14.06.2024: [Lactarius subdulcis - Süßlicher Milchling](/pilze/lactarius-subdulcis-süßlicher-milchling)\
 13.06.2024: [Russula ionochlora - Papageitäubling](/pilze/russula-ionochlora-papagei-täubling)\
 12.06.2024: [Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)\
 11.06.2024: [Hypomyces chrysospermus - Goldschimmel](/pilze/hypomyces-chrysospermus-goldschimmel)\
