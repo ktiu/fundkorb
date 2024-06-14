@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_silvicola_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+15.06.2024: Weiße Champignons sind mitunter auch im Wald zu finden. Zum Beispiel der Dünnfleischige Anischampignon *Agaricus silvicola*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Gilbende Champignons mit Anisgeruch sind grundsätzlich essbar, aber man sollte sich darüber im Klaren sein, dass nahezu alle Champignonarten Schadstoffe wie Cadmium und Quecksilber in ihren Fruchtkörpern anreichern. Mit Champignons aus dem Supermarkt ist man immer auf der sicheren Seite und die sind auch geschmacklich die besten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agaricus-silvicola-dünnfleischiger-anis-champignon)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_subdulcis_03_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 13.06.2024: Auch Essbares findet sich im Dietzenbacher Carré an der Rodgaustraße, einer Parkanlage mit artenreichem Baumbestand und unterschiedlichen Biotopen. Aktueller Fund und heutiger [Fundkorbpilz](AA "Glossar-") ist der Papageitäubling *Russula ionochlora*. Man könnte ihn für einen schmächtigen Frauentäubling halten, er hat aber im Gegensatz zu diesem splitternde Lamellen. Wer ihn schon mal in der Pfanne hatte, wird ihn durchaus zu schätzen wissen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_phalloides_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.06.2024: Unser Dietzenbacher Carré ist zur Zeit ein wahres Pilz-Eldorado. Sogar der Grüne Knollenblätterpilz *Amanita phalloides* ist erschienen und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Er ist ohne Zweifel ein attraktiver Pilz - was seine Optik betrifft. Speisepilzsammler sollten ihn sehr genau kennen. Ein einziges Exemplar kann tödlich sein, wenn in der Intensivstation der Klinik nicht rechtzeitig eine Spenderleber zur Verfügung steht. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz)
 
 <div style="clear:  both"></div>
 
