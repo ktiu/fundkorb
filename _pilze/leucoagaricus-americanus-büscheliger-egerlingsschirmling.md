@@ -11,7 +11,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
-  datei: /bilder/leucoagaricus_americanus_04-_dg.jpg
+  datei: /bilder/leucoagaricus_americanus_03_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/l/Leucoagaricus_americanus
   - {}
@@ -33,12 +33,3 @@ Die meisten Arten der nicht sehr populären Gattung Leucoagaricus sind relativ l
 {% include abbildung_ende.html legende="Foto: Hermine Lotz-Winter" %}
 
 Wer den Dietzenbacher Standort an der Offenbacher Straße aufsuchen möchte: Die Verkehrsinsel an der Kreuzung ist einem Verkehrskreisel gewichen. Dafür sind inzwischen zwei andere Fundorte im Stadtgebiet hinzugekommen, in Steinberg und am Rathaus-Center, sowie ein weiterer in Neu-Isenburg. Auch Thomas Lehr und Hermine Lotz-Winter haben Funde gemeldet: gleich mehrere Büschel an der Lorsbacher Kläranlage und die oben abgebildete Gruppe an einem Mulchhaufen an der alten Startbahn des Frankfurter Flughafens. Alle diese Funde waren auf mit Rindenmulch oder Holzhäcksel belegten Flächen.
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/leucoagaricus_americanus_04-_dg.jpg" %}
-{% include abbildung_ende.html legende="29.09.2022: Dietzenbach, Grünstreifen an der Offenbacher Straße" %}
-
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/leucoagaricus_americanus_05-_dg.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/leucoagaricus_americanus_06-_dg.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Die Stielringe sind nach oben abziehbar" %}
