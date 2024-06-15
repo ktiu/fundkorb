@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/megacollybia_platyphylla_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.06.2024: Einer der häufigsten Blätterpilze in unseren Wäldern ist der Breitblättrige Holzrübling *Megacollybia platyphylla*, unser aktueller [Fundkorbpilz](AA "Glossar-"), kurz Breitblatt genannt. Dieser sehr häufige Pilz wächst stets in Verbindung zu Holz. Um das nachzuprüfen, braucht man nur die Myzelstränge von der Stielbasis bis zu ihrem Ursprung zu verfolgen. Man könnte die Art kurz und treffend als "Pilz wie Haut und Knochen" beschreiben. Die Lamellen hängen praktisch direkt an der Huthaut. Seine Speisepilzqualität wird meist als sehr mäßig beurteilt und es wird sogar von Unverträglichkeiten berichtet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_silvicola_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 14.06.2024: Braune Milchlinge sind in jedem Wald zu finden. Es gibt eine beträchtliche Anzahl an Arten, die nicht immer leicht zu bestimmen sind. Für die Küche taugen die wenigsten. Zu diesen gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Süßliche Milchling *Lactarius subdulcis*. Was an ihm süßlich sein soll, entzieht sich meinem Verständnis. Seine weiße Milch schmeckt eher bitter. Auch der Blattwanzengeruch ist nicht gerade angenehm. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lactarius-subdulcis-süßlicher-milchling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_ionochlora_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.06.2024: Auch Essbares findet sich im Dietzenbacher Carré an der Rodgaustraße, einer Parkanlage mit artenreichem Baumbestand und unterschiedlichen Biotopen. Aktueller Fund und heutiger [Fundkorbpilz](AA "Glossar-") ist der Papageitäubling *Russula ionochlora*. Man könnte ihn für einen schmächtigen Frauentäubling halten, er hat aber im Gegensatz zu diesem splitternde Lamellen. Wer ihn schon mal in der Pfanne hatte, wird ihn durchaus zu schätzen wissen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
 
 <div style="clear:  both"></div>
 
