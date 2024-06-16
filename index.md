@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_fulva_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fuchsige oder Rotbraune Scheidenstreifling *Amanita fulva*. Er gehört zu den häufigsten Wulstlingen und dürfte in kaum einem mitteleuropäischen Wald fehlen. Scheidenstreiflinge unterscheiden sich von den übrigen Wulstlingen durch die Merkmalskombination "häutige Scheide an der Stielbasis + kein Ring im oberen Stielbereich". Er ist essbar, wegen seines muffigen Geschmacks aber mit Sicherheit keine Delikatesse. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/megacollybia_platyphylla_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 15.06.2024: Weiße Champignons sind mitunter auch im Wald zu finden. Zum Beispiel der Dünnfleischige Anischampignon *Agaricus silvicola*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Gilbende Champignons mit Anisgeruch sind grundsätzlich essbar, aber man sollte sich darüber im Klaren sein, dass nahezu alle Champignonarten Schadstoffe wie Cadmium und Quecksilber in ihren Fruchtkörpern anreichern. Mit Champignons aus dem Supermarkt ist man immer auf der sicheren Seite und die sind auch geschmacklich die besten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agaricus-silvicola-dünnfleischiger-anis-champignon)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_subdulcis_03_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-14.06.2024: Braune Milchlinge sind in jedem Wald zu finden. Es gibt eine beträchtliche Anzahl an Arten, die nicht immer leicht zu bestimmen sind. Für die Küche taugen die wenigsten. Zu diesen gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Süßliche Milchling *Lactarius subdulcis*. Was an ihm süßlich sein soll, entzieht sich meinem Verständnis. Seine weiße Milch schmeckt eher bitter. Auch der Blattwanzengeruch ist nicht gerade angenehm. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lactarius-subdulcis-süßlicher-milchling)
 
 <div style="clear:  both"></div>
 
