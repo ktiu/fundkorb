@@ -34,9 +34,11 @@ Eine seltene Krustenflechte, die Schamlose Kuchenflechte *Lecanora impudens*. Di
 
 **Morphologische Merkmale:**
 
-[Thallus](Thallus "Glossar") glatt bis etwas warzig, weißlich grau oder gelblich weiß, nach eigener Beobachtung dünn. Er ist dicht mit kreisrunden, bis etwa 1 mm breiten, grünlichen [Soralen](Sorale "Sorale") bedeckt, die selten (nach eigener Beobachtung in bestimmten Thallus-Arealen) zusammenfließen. Die Soredien sind 40 - 60 µm dick.  
-[Apothecien]Apothecien "Glossar") sind selten, sitzend oder an der Basis leicht verengt, 0,5 – 1,2 mm breit, mit einer rötlichbraunen, glänzenden Scheibe und glattem, oft [sorediösem](sorediös "Glossar") Lagerrand.  
-Ascosporen 1-zellig, hyalin, ellipsoid, (10) 12 - 15 x (5,5) 8 - 10 µm.  
+[Thallus](Thallus "Glossar") glatt bis etwas warzig, weißlich grau oder gelblich weiß, nach eigener Beobachtung dünn. Er ist dicht mit kreisrunden, bis etwa 1 mm breiten, grünlichen [Soralen](Sorale "Sorale") bedeckt, die selten (nach eigener Beobachtung in bestimmten Thallus-Arealen) zusammenfließen. Die Soredien sind 40 - 60 µm dick.\
+\[Apothecien]Apothecien "Glossar") sind selten, sitzend oder an der Basis leicht verengt, 0,5 – 1,2 mm breit, mit einer rötlichbraunen, glänzenden Scheibe und glattem, oft [sorediösem](sorediös "Glossar") Lagerrand.\
+Ascosporen 1-zellig, hyalin, ellipsoid, (10) 12 - 15 x (5,5) 8 - 10 µm.\
 Makrochemische Farbreaktion: mit Kalilauge (KOH) gelb.
 
 Bedingt durch die grünlichen Sorale erscheint der gesamte Flechtenkörper schon aus geringer Entfernung grünlich. Nach eigener Beobachtung ist der trockene Thallus bei Berührung mit der Zunge geschmacklos, im angefeuchteten Zustand jedoch spontan und kurzzeitig deutlich sauer. Da keine Apothecien gefunden wurden, fehlt für die endgültige Artzuweisung noch eine letzte Bestätigung.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
