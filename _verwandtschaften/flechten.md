@@ -145,6 +145,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Lecanora argentata = Silbrige Kuchenflechte](/pilze/lecanora-argentata-silbrige-kuchenflechte)\
 [Lecanora muralis = Mauer-Flechte](/pilze/lecanora-muralis-mauer-flechte)\
 [Lepraria jackii = Jacks Staubflechte](/pilze/lepraria-jackii-jacks-staubflechte)\
+Lecanora impudens = Schamlose Kuchenflechte
 [Pertusaria pertusa = Gewöhnliche Porenflechte](/pilze/pertusaria-pertusa-gewöhnliche-porenflechte)\
 [Phlyctis argena = Weiße Blatternflechte](/pilze/phlyctis-argena-weiße-blatternflechte)\
 [Rusavskia elegans = Zierliche Gelbflechte](/pilze/rusavskia-elegans-zierliche-gelbflechte)\
