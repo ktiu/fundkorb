@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tubulifera_arachnoidea_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+18.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Lachsfarbene Schleimpilz *Tubulifera arachnoidea*, den man makroskopisch recht gut erkennen kann. Er bildet polsterförmige, schön orange- oder lachsrote Fruchtkörper (bei Schleimpilzen Fruktifikationen genannt), die glatt und glänzend und je nach Entwicklungsstadium rundlich oder stäbchenförmig sein können. Im rundlichen Stadium werden sie oft für Amphibien- oder Fischeier gehalten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_fulva_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 16.06.2024: Einer der häufigsten Blätterpilze in unseren Wäldern ist der Breitblättrige Holzrübling *Megacollybia platyphylla*, unser aktueller [Fundkorbpilz](AA "Glossar-"), kurz Breitblatt genannt. Dieser sehr häufige Pilz wächst stets in Verbindung zu Holz. Um das nachzuprüfen, braucht man nur die Myzelstränge von der Stielbasis bis zu ihrem Ursprung zu verfolgen. Man könnte die Art kurz und treffend als "Pilz wie Haut und Knochen" beschreiben. Die Lamellen hängen praktisch direkt an der Huthaut. Seine Speisepilzqualität wird meist als sehr mäßig beurteilt und es wird sogar von Unverträglichkeiten berichtet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_silvicola_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-15.06.2024: Weiße Champignons sind mitunter auch im Wald zu finden. Zum Beispiel der Dünnfleischige Anischampignon *Agaricus silvicola*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Gilbende Champignons mit Anisgeruch sind grundsätzlich essbar, aber man sollte sich darüber im Klaren sein, dass nahezu alle Champignonarten Schadstoffe wie Cadmium und Quecksilber in ihren Fruchtkörpern anreichern. Mit Champignons aus dem Supermarkt ist man immer auf der sicheren Seite und die sind auch geschmacklich die besten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agaricus-silvicola-dünnfleischiger-anis-champignon)
 
 <div style="clear:  both"></div>
 
