@@ -21,7 +21,7 @@ literatur:
   - url: https://lichenportal.org/portal/taxa/index.php?taxon=53822&clid=1088
   - url: http://lichens-of-noricum.uni-graz.at/images/lecanora-impudens.html
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lecanora_impudens_01_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/lecanora_impudens_02_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Der Thallus befindet sich innerhalb der eingezeichneten Ellipse, daneben eine Ausschnittvergrößerung" %}
