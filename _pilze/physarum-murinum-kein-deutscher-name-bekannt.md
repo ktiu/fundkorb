@@ -13,7 +13,9 @@ hauptbild:
   datei: /bilder/physarum_murinum_01_fk.jpg
   legende: "3 Fotos: Frank Kaster"
 literatur:
-  - text: "Hermann Neubert, Wolfgang Nowotny, Karlheinz Baumann: Die Myxomyceten"
+  - text: "Hermann Neubert, Wolfgang Nowotny, Karlheinz Baumann: Die Myxomyceten
+      Band 2, Seite 278 ff."
+  - {}
 ---
 *Physarum murinum* scheint eine recht seltene in Deutschland zerstreut vorkommende Schleimpilzart zu sein, während sie zum Beispiel für die Niederlande als häufig angegeben wird. Sie ist vor allem auf Totholz zu finden, bevorzugt auf dem von Nadelbäumen. Erscheinungszeit ist Juni bis September.
 
