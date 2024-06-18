@@ -19,7 +19,7 @@ literatur:
 ---
 *Physarum murinum* scheint eine recht seltene in Deutschland zerstreut vorkommende Schleimpilzart zu sein, während sie zum Beispiel für die Niederlande als häufig angegeben wird. Sie ist vor allem auf Totholz zu finden, bevorzugt auf dem von Nadelbäumen. Erscheinungszeit ist Juni bis September.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/physarum_murinum_02_fk.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/physarum_murinum_03_fk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Capillitium und Sporen" %}
