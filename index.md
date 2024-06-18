@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_androsaceus_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+19.06.2024: Scharenweise in der Nadelstreu, bevorzugt der von Kiefern, erscheint unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rosshaarschwindling *Marasmius androsaceus*. Seine schwarzen steifen Stiele sind sehr lang und dünn und erinnern so an ein Pferdehaar. Verwechseln könnte man ihn mit dem Nadel-Stinkschwindling, der Fichtennadeln bevorzugt und nach faulem Kohl riecht, oder auch mit dem Nadelstreu-Käsepilzchen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/marasmius-androsaceus-rosshaarschwindling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tubulifera_arachnoidea_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 17.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fuchsige oder Rotbraune Scheidenstreifling *Amanita fulva*. Er gehört zu den häufigsten Wulstlingen und dürfte in kaum einem mitteleuropäischen Wald fehlen. Scheidenstreiflinge unterscheiden sich von den übrigen Wulstlingen durch die Merkmalskombination "häutige Scheide an der Stielbasis + kein Ring im oberen Stielbereich". Er ist essbar, wegen seines muffigen Geschmacks aber mit Sicherheit keine Delikatesse. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/megacollybia_platyphylla_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.06.2024: Einer der häufigsten Blätterpilze in unseren Wäldern ist der Breitblättrige Holzrübling *Megacollybia platyphylla*, unser aktueller [Fundkorbpilz](AA "Glossar-"), kurz Breitblatt genannt. Dieser sehr häufige Pilz wächst stets in Verbindung zu Holz. Um das nachzuprüfen, braucht man nur die Myzelstränge von der Stielbasis bis zu ihrem Ursprung zu verfolgen. Man könnte die Art kurz und treffend als "Pilz wie Haut und Knochen" beschreiben. Die Lamellen hängen praktisch direkt an der Huthaut. Seine Speisepilzqualität wird meist als sehr mäßig beurteilt und es wird sogar von Unverträglichkeiten berichtet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)
 
 <div style="clear:  both"></div>
 
