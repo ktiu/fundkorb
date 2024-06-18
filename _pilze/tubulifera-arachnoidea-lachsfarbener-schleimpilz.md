@@ -22,4 +22,8 @@ Der Lachsfarbene Schleimpilz gehört zu den [Myxomyzeten](Myxomyzeten "Glossar")
 
 Die einzelnen Fruktifikationen sind meist 2 - 4 cm groß, können aber in Ausnahmefällen bis zu 10 cm erreichen. Ganz jung sind sie weiß, im Alter werden sie braun bis fast schwarz. Sie besiedeln Totholz, auf dem man oft mehrere nahe beieinander findet, und sind relativ häufig. Im Gegensatz zu manchen anderen Myxomyzeten fühlen sie sich nicht schleimig an.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/tubulifera_arachnoidea_03_fk.jpg" %}
+{% include abbildung_ende.html legende="Das Foto von Frank Kaster zeigt auch dunkle, ältere Fruktifikationen, welche die stäbchenartige Form erkennen lassen" %}
+
 Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
