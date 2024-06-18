@@ -137,4 +137,4 @@ Besonders in Laubmischwäldern mit Buchen und Eichen könnte der Eichenmilchling
   </table>
 </div>
 
-\* enthält Arten, die im Rhein-Main-Gebiet häufig oder gelegentlich vorkommen. Nicht enthalten sind ausgesprochen seltene Arten, die hier noch nicht nachgewiesen wurden. Zu beachten ist auch die Farbvariabilität vieler Pilze, also auch der Milchlinge. Als gelblich oder rötlich beschriebene Arten könnten auch mal als bräunlich interpretiert werden. Sie sind nicht in dieser Auflistung enthalten. Farbänderungen der austretenden Milch kann am besten mit einem Papiertaschentuch verifiziert werden.
+\* enthält Arten, die im Rhein-Main-Gebiet häufig oder gelegentlich vorkommen. Nicht enthalten sind ausgesprochen seltene Arten, die hier noch nicht nachgewiesen wurden. Zu beachten ist auch die Farbvariabilität vieler Pilze, also auch der Milchlinge. Als gelblich oder rötlich beschriebene Arten könnten auch mal als bräunlich interpretiert werden. Sie sind nicht in dieser Auflistung enthalten. Farbänderungen der austretenden Milch können am besten mit einem Papiertaschentuch verifiziert werden.
