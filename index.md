@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_macropus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.06.2024: Die „Langfüßler“ gehören zwar zu den [Lorcheln](/verwandt/lorcheln), sehen aber den typischen Vertretern dieser Gattung überhaupt nicht ähnlich. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Grauen Langfüßler *Helvella macropus*, den wir regelmäßig in einem Wald bei Rodgau-Dudenhofen finden. Um ihn sicher von ähnlichen Arten zu unterscheiden, sollte man die Sporenmaße beachten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/helvella-macropus-grauer-langfüßler)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_androsaceus_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 18.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Lachsfarbene Schleimpilz *Tubulifera arachnoidea*, den man makroskopisch recht gut erkennen kann. Er bildet polsterförmige, schön orange- oder lachsrote Fruchtkörper (bei Schleimpilzen Fruktifikationen genannt), die glatt und glänzend und je nach Entwicklungsstadium rundlich oder stäbchenförmig sein können. Im rundlichen Stadium werden sie oft für Amphibien- oder Fischeier gehalten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_fulva_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fuchsige oder Rotbraune Scheidenstreifling *Amanita fulva*. Er gehört zu den häufigsten Wulstlingen und dürfte in kaum einem mitteleuropäischen Wald fehlen. Scheidenstreiflinge unterscheiden sich von den übrigen Wulstlingen durch die Merkmalskombination "häutige Scheide an der Stielbasis + kein Ring im oberen Stielbereich". Er ist essbar, wegen seines muffigen Geschmacks aber mit Sicherheit keine Delikatesse. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)
 
 <div style="clear:  both"></div>
 
