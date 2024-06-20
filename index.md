@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cantharellus_pallens_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.06.2024: Kaum ein Pilzsammler achtet auf den Unterschied zwischen dem echten und dem Blassen Pfifferling *Cantharellus pallens*, unserem heutigen [Fundkorbpilz](AA "Glossar-"). Selbst viele Mykologen sind von der Eigenständigkeit dieser Art nicht überzeugt und halten sie lediglich für eine Varietät des echten. Für die Küche macht es ohnehin keinen Unterschied. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cantharellus-pallens-blasser-laubwaldpfifferling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_macropus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 19.06.2024: Scharenweise in der Nadelstreu, bevorzugt der von Kiefern, erscheint unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rosshaarschwindling *Marasmius androsaceus*. Seine schwarzen steifen Stiele sind sehr lang und dünn und erinnern so an ein Pferdehaar. Verwechseln könnte man ihn mit dem Nadel-Stinkschwindling, der Fichtennadeln bevorzugt und nach faulem Kohl riecht, oder auch mit dem Nadelstreu-Käsepilzchen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/marasmius-androsaceus-rosshaarschwindling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tubulifera_arachnoidea_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-18.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Lachsfarbene Schleimpilz *Tubulifera arachnoidea*, den man makroskopisch recht gut erkennen kann. Er bildet polsterförmige, schön orange- oder lachsrote Fruchtkörper (bei Schleimpilzen Fruktifikationen genannt), die glatt und glänzend und je nach Entwicklungsstadium rundlich oder stäbchenförmig sein können. Im rundlichen Stadium werden sie oft für Amphibien- oder Fischeier gehalten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)
 
 <div style="clear:  both"></div>
 
