@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-20.06.2024: [Helvella macropus - Grauer Langfüßler](/pilze/helvella-macropus-grauer-langfüßler)  
+21.06.2024: [Cantharellus pallens - Blasser Laubwaldpfifferling](/pilze/cantharellus-pallens-blasser-laubwaldpfifferling)  
+20.06.2024: [Helvella macropus - Grauer Langfüßler](/pilze/helvella-macropus-grauer-langfüßler)\
 19.06.2024: [Marasmius androsaceus - Rosshaarschwindling](/pilze/marasmius-androsaceus-rosshaarschwindling)\
 18.06.2024 [Tubulifera arachnoidea - Lachsfarbener Schleimpilz](/pilze/tubulifera-arachnoidea-lachsfarbener-schleimpilz)\
 17.06.2024: [Amanita fulva - Rotbrauner Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)\
