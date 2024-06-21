@@ -22,7 +22,7 @@ literatur:
 
 Kaum ein anderer Pilz taucht in solchen Mengen auf wie das Nadelstreu-Käsepilzchen. Es ist also kaum zu übersehen, obwohl sein Hutdurchmesser kaum mehr als 0,5 cm beträgt. Mit seinen hellen Hutfarben hebt es sich deutlich von seiner Umgebung (Nadelstreu oder Moos) ab. Pflückt man es vorsichtig heraus, so sieht man, dass er auf alten Fichten- oder Tannennadeln wächst. Im Gegensatz zu seinem möglichen Verwechslungspartner, dem Laubstreu-Käsepilzchen *Marasmius bulliardii*, das – wie der Name schon sagt – auf Laubstreu wächst und nicht von allen Mykologen als eigenständige Art anerkannt wird.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/marasmius_wettsteinii_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
