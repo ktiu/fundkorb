@@ -25,7 +25,7 @@ Das obige Foto zeigt ein typisches Massenvorkommen des Ziegelroten Stielschleimp
 {% include bild.html datei="/bilder/arcyria_denudata_02_fk.jpg" %}
 {% include abbildung_ende.html %}
 
-In jungem Zustand besteht die Fruktifikation aus einem glänzenden karmin- bis rosaroten Kopf (auf dem Foto nur vereinzelt zu sehen) und einem 0,2 bis 2 mm langen rotbraunem längs gerieftem Stiel. Schon sehr bald platzt die dünne Haut des bis 3 mm langen meist schlanken Köpfchens auf und entlässt ein fein flockiges dichtes gestreckt eiförmiges Gebilde (Capillitium genannt), das sich auf 2 - 3 mm Durchmesser/Länge ausdehnt und in einem schalenförmigen Rest der Außenhaut sitzt.
+In jungem Zustand besteht die [Fruktifikation](Fruktifikation "Glossar") aus einem glänzenden karmin- bis rosaroten Kopf (auf dem Foto nur vereinzelt zu sehen) und einem 0,2 bis 2 mm langen rotbraunem längs gerieftem Stiel. Schon sehr bald platzt die dünne Haut des bis 3 mm langen meist schlanken Köpfchens auf und entlässt ein fein flockiges dichtes gestreckt eiförmiges Gebilde ([Capillitium](Capillitium "Glossar") genannt), das sich auf 2 - 5 mm Durchmesser/Länge ausdehnt (expandiert) und in einem schalenförmigen Rest der Außenhaut sitzt.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/arcyria_denudata_03_fk.jpg" nocrop=true gross=true %}
