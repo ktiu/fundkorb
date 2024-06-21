@@ -14,6 +14,7 @@ hauptbild:
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 3, Nr. 278 (als Marasmius
       bulliardii)"
+  - text: "Rudolf Winkler & Gaby Keller: Pilze Mitteleuropas, Seite 328"
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/marasmius_wettsteinii_02_jr.jpg" nocrop=true gross=true %}
