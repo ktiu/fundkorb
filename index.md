@@ -12,6 +12,20 @@ footer_scripts:
 
 - - -
 
+
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calocera_cornea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.06.2024: Vier der fünf in Europa vorkommenden Hörnlingsarten fallen durch ihre schön orangegelben Farben auf. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Pfriemförmige Hörnling *Calocera cornea*. Er ist einer der kleinsten, macht seine Winzigkeit aber durch längere Reihen bildendes Wachstum auf totem Laubholz wett. Einzelne Fruchtkörper sind oft verbogen, nur selten ein wenig verzweigt, eher kurz nadelförmig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/calocera-cornea-pfriemförmiger-hörnling)
+
+<div style="clear: both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cantharellus_pallens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -20,7 +34,7 @@ footer_scripts:
 
 [Mehr lesen >](/pilze/cantharellus-pallens-blasser-laubwaldpfifferling)
 
-<div style="clear:  both"></div>
+<div style="clear: both"></div>
 
 - - -
 
@@ -32,7 +46,7 @@ footer_scripts:
 
 [Mehr lesen >](/pilze/helvella-macropus-grauer-langfüßler)
 
-<div style="clear:  both"></div>
+<div style="clear: both"></div>
 
 - - -
 
