@@ -12,7 +12,17 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_wettsteinii_02_jr.jpg" %}
+{% include abbildung_ende.html %}
 
+23.06.2024: Wer zur Zeit in Fichten- und Tannenwäldern im Raum München unterwegs ist, dem dürften Unmengen von kleinen hell- bis weißfarbenen Pilzhütchen aufgefallen sein. Mit großer Wahrscheinlichkeit handelt es sich dabei um das Nadelstreu-Käsepilzchen *Marasmius wettsteinii*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Es wächst auf alten Nadeln von Fichten oder Tannen. Wer es nicht glaubt, sollte behutsam ein Exemplar entnehmen. Mit etwas Glück hängt die Nadel am Stiel. Auf der Hutunterseite kann man dann ein Halsband (Kollar) bewundern. (Johann Rejek)
+
+[Mehr lesen >](/pilze/marasmius-wettsteinii-nadelstreu-käsepilzchen)
+
+<div style="clear:  both"></div>
+
+- - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/calocera_cornea_01_dg.jpg" %}
@@ -35,30 +45,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/cantharellus-pallens-blasser-laubwaldpfifferling)
 
 <div style="clear: both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_macropus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.06.2024: Die „Langfüßler“ gehören zwar zu den [Lorcheln](/verwandt/lorcheln), sehen aber den typischen Vertretern dieser Gattung überhaupt nicht ähnlich. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Grauen Langfüßler *Helvella macropus*, den wir regelmäßig in einem Wald bei Rodgau-Dudenhofen finden. Um ihn sicher von ähnlichen Arten zu unterscheiden, sollte man die Sporenmaße beachten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/helvella-macropus-grauer-langfüßler)
-
-<div style="clear: both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_androsaceus_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-19.06.2024: Scharenweise in der Nadelstreu, bevorzugt der von Kiefern, erscheint unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rosshaarschwindling *Marasmius androsaceus*. Seine schwarzen steifen Stiele sind sehr lang und dünn und erinnern so an ein Pferdehaar. Verwechseln könnte man ihn mit dem Nadel-Stinkschwindling, der Fichtennadeln bevorzugt und nach faulem Kohl riecht, oder auch mit dem Nadelstreu-Käsepilzchen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/marasmius-androsaceus-rosshaarschwindling)
-
-<div style="clear:  both"></div>
 
 - - -
 
