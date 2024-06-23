@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/taphrina_deformans_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.06.2024: Ab und zu wird auch mal ein Phytoparasit aktueller [Fundkorbpilz](AA "Glossar-") des Tages. Es ist eine in jedem Jahr an einem der Pfirsischbäume in unserer Parkanlage erscheinende Art, die *Taphrina deformans* (Pfirsisch-Kräuselkrankheit) genannt wird. Sie deformiert Blätter, Triebe oder Früchte und färbt sie hellgrün, gelblich oder auch rot, richtet aber weiter keinen Schaden an. Befallene Pfirsiche sollte man besser nicht mehr essen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_wettsteinii_02_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 22.06.2024: Vier der fünf in Europa vorkommenden Hörnlingsarten fallen durch ihre schön orangegelben Farben auf. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Pfriemförmige Hörnling *Calocera cornea*. Er ist einer der kleinsten, macht seine Winzigkeit aber durch längere Reihen bildendes Wachstum auf totem Laubholz wett. Einzelne Fruchtkörper sind oft verbogen, nur selten ein wenig verzweigt, eher kurz nadelförmig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/calocera-cornea-pfriemförmiger-hörnling)
-
-<div style="clear: both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cantharellus_pallens_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.06.2024: Kaum ein Pilzsammler achtet auf den Unterschied zwischen dem echten und dem Blassen Pfifferling *Cantharellus pallens*, unserem heutigen [Fundkorbpilz](AA "Glossar-"). Selbst viele Mykologen sind von der Eigenständigkeit dieser Art nicht überzeugt und halten sie lediglich für eine Varietät des echten. Für die Küche macht es ohnehin keinen Unterschied. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cantharellus-pallens-blasser-laubwaldpfifferling)
 
 <div style="clear: both"></div>
 
