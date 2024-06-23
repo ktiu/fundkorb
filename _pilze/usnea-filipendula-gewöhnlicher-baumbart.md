@@ -43,6 +43,7 @@ Makrochemische Farbreaktionen: Mark mit Kalilauge (KOH) rot, mit p-Phenylendiami
 
 Die gelbgrüne Farbe des Thallus rührt vom Inhaltsstoff Usninsäure, das als natürliches Antibiotikum gilt.
 
-Die Kahle Bartflechte *Usnea glabrescens* besitzt einen ähnlichen Wuchs und eine ähnliche Farbe, wird aber nur ca. 12 cm lang. Außerdem sind nur die Hauptäste in ihrem Basisbereich mit vielen Fibrillen versehen (daher „Kahle“ Bartflechte); die Nebenäste sind so gut wie fibrillenfrei. Auch besitzen die Äste keinerlei Isidien, sondern zahllose, ausgeprägte Flecksorale. Schließlich sind die Farbreaktionen komplett anders, und zwar sowohl mit Kalilauge als auch mit p-Phenylendiamin negativ.
+Die Kahle Bartflechte *Usnea glabrescens* besitzt einen ähnlichen Wuchs und eine ähnliche Farbe, wird aber nur ca. 12 cm lang. Außerdem sind nur die Hauptäste in ihrem Basisbereich mit vielen Fibrillen versehen (daher „Kahle“ Bartflechte); die Nebenäste sind so gut wie fibrillenfrei. Auch besitzen die Äste keinerlei Isidien, sondern zahllose, ausgeprägte Flecksorale. Schließlich sind die Farbreaktionen komplett anders, und zwar sowohl mit Kalilauge als auch mit p-Phenylendiamin negativ.  
+Die [Struppige Bartflechte (*Usnea hirta*)](/pilze/usnea-hirta-struppige-bartflechte) wächst strauchig, also nicht hängend, und wird nur bis 4 cm groß. Die makrochemischen Farbreaktionen mit Kalilauge (KOH) und p-Phenyldiamin (PPD) sind negativ.
 
 Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
