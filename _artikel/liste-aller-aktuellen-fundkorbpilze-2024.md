@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-23.06.2024: [Marasmius wettsteinii -  Nadelstreu-Käsepilzchen](/pilze/marasmius-wettsteinii-nadelstreu-käsepilzchen)  
+24.06.2024: [Taphrina deformans - Pfirsisch-Kräuselkrankheit](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)  
+23.06.2024: [Marasmius wettsteinii -  Nadelstreu-Käsepilzchen](/pilze/marasmius-wettsteinii-nadelstreu-käsepilzchen)\
 22.06.2024: [Calocera cornea - Pfriemförmiger Hörnling](/pilze/calocera-cornea-pfriemförmiger-hörnling)\
 21.06.2024: [Cantharellus pallens - Blasser Laubwaldpfifferling](/pilze/cantharellus-pallens-blasser-laubwaldpfifferling)\
 20.06.2024: [Helvella macropus - Grauer Langfüßler](/pilze/helvella-macropus-grauer-langfüßler)\
