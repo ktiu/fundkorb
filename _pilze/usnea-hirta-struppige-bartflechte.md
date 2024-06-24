@@ -38,14 +38,14 @@ Bei der Struppigen Bartflechte *Usnea hirta* handelt es sich um eine der kleiner
 Das Lager ist graugrün, buschig und vom Substrat abstehend bis leicht hängend, reich verzweigt und bis etwa 4 cm lang. Es ist an einer einzigen Stelle am Substrat angewachsen, wobei die Anwuchsstelle hell, also nicht geschwärzt ist. Mark (Medulla) und Zentralstrang sind reinweiß. Wie es der Längsschnitt (siehe Foto unten) zeigt, ist das Mark locker (*loose*) aufgebaut, also nicht dicht oder kompakt. Die Hauptäste tragen dicht an dicht stehende [Fibrillen](Fibrillen "Glossar"). Einige der Nebenäste sind reich an dornenartigen [Isidien](Isidien "Glossar"), andere tragen kleine, runde [Sorale](Sorale "Glossar"). [Papillen](Papillen "Glossar") sind nicht vorhanden. [Apothecien](Apothecien "Glossar") sind sehr selten; ich selber habe keine gefunden.\
 Makrochemische Farbreaktionen: mit Kalilauge (KOH) und p-Phenylendiamin (PPD) negativ.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/usnea_hirta_04_bm.jpg" %}
 {% include abbildung_ende.html legende="Linker Ast mit Soralen, rechter Ast mit Isidien" %}
 
 Bestimmungsweg (nach Randlane & Törra 2009):\
 *1 Thallus uniform in colour – 2 Apothecia absent – 4 Thallus shrubby and not longer than 60 mm - 5 Thallus grey – 6 Medulla and central axis white – 10 Thallus shrubby to subpendent – 18 Papillae absent on all branches – 19* Isidia present; medulla various (loose to compact) – 20 Isidia numerous on all branches; soralia punctiform; medulla loose --> Usnea hirta*
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/usnea_hirta_05_bm.jpg" %}
 {% include abbildung_ende.html legende="Längsschnitt durch einen Hauptast / von außen nach innen: Rinde, Mark, Zentralstrang" %}
 
