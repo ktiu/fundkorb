@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_lacunosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.06.2024: Längsrippig gekammerte Stiele, unterschiedlich lappige, zipfelige, grubige Hüte und Farben von düster hell- bis dunkelgrau oder fast schwarz - das sind die Kennzeichen der Grubenlorchel *Helvella lacunosa*, unsereres heutigen [Fundkorbpilz](AA "Glossar-"). Er ist häufig, nahezu unverwechselbar, erscheint gern an Waldwegrändern, aber auch außerhalb von Wäldern zum Beispiel in Parkanlagen. Für die Küche kann er (wenn überhaupt) nur eingeschränkt empfohlen werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/helvella-lacunosa-grubenlorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/taphrina_deformans_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,18 +45,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/marasmius-wettsteinii-nadelstreu-käsepilzchen)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calocera_cornea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.06.2024: Vier der fünf in Europa vorkommenden Hörnlingsarten fallen durch ihre schön orangegelben Farben auf. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Pfriemförmige Hörnling *Calocera cornea*. Er ist einer der kleinsten, macht seine Winzigkeit aber durch längere Reihen bildendes Wachstum auf totem Laubholz wett. Einzelne Fruchtkörper sind oft verbogen, nur selten ein wenig verzweigt, eher kurz nadelförmig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/calocera-cornea-pfriemförmiger-hörnling)
-
-<div style="clear: both"></div>
 
 - - -
 
