@@ -112,7 +112,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Cladonia digitata = Finger-Scharlachflechte](/pilze/cladonia-digitata-finger-scharlachflechte)\
 [Cladonia fimbriata = Trompeten-Becherflechte](/pilze/cladonia-fimbriata-trompeten-becherflechte)\
 [Cladonia macilenta = Rotfrüchtige Säulenflechte](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)\
-[Cladonia pyxidata = Gewöhnliche Becherflechte](/pilze/cladonia-pyxidata-gewöhnliche-becherflechte)
+[Cladonia pyxidata = Gewöhnliche Becherflechte](/pilze/cladonia-pyxidata-gewöhnliche-becherflechte)  
 [Cladonia squamosa var. subsquamosa = Falsche Schuppen-Säulenflechte](/pilze/cladonia-squamosa-var-subsquamosa-falsche-schuppen-säulenflechte)\
 [Flavoparmelia caperata = Eichenflechte](/pilze/flavoparmelia-caperata-eichenflechte)\
 [Hypogymnia farinacea = Mehlige Blasenflechte](/pilze/hypogymnia-farinacea-mehlige-blasenflechte)\
@@ -133,6 +133,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Evernia prunastri = Pflaumenflechte](/pilze/evernia-prunastri-pflaumenflechte)\
 [Pseudevernia furfuracea = Gabelflechte](/pilze/pseudevernia-furfuracea-gabelflechte)\
 [Usnea filipendula = Gewöhnlicher Baumbart](/pilze/usnea-filipendula-gewöhnlicher-baumbart)\
+[Usnea hirta = Struppige Baumflechte](/pilze/usnea-hirta-struppige-bartflechte)  
 [Usnea glabrescens = Verkahlender Baumbart](/pilze/usnea-glabrescens-verkahlender-baumbart)
 
 **Krustenflechten:**\
