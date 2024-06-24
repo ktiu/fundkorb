@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/helvella_lacunosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-25.06.2024: Längsrippig gekammerte Stiele, unterschiedlich lappige, zipfelige, grubige Hüte und Farben von düster hell- bis dunkelgrau oder fast schwarz - das sind die Kennzeichen der Grubenlorchel *Helvella lacunosa*, unsereres heutigen [Fundkorbpilz](AA "Glossar-"). Er ist häufig, nahezu unverwechselbar, erscheint gern an Waldwegrändern, aber auch außerhalb von Wäldern zum Beispiel in Parkanlagen. Für die Küche kann er (wenn überhaupt) nur eingeschränkt empfohlen werden. (Dieter Gewalt)
+25.06.2024: Längsrippig gekammerte Stiele, unterschiedlich lappige, zipfelige, grubige Hüte und Farben von düster hell- bis dunkelgrau oder fast schwarz - das sind die Kennzeichen der Grubenlorchel *Helvella lacunosa*, unsereres heutigen [Fundkorbpilzes](AA "Glossar-"). Er ist häufig, nahezu unverwechselbar, erscheint gern an Waldwegrändern, aber auch außerhalb von Wäldern zum Beispiel in Parkanlagen. Für die Küche kann er (wenn überhaupt) nur eingeschränkt empfohlen werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/helvella-lacunosa-grubenlorchel)
 
