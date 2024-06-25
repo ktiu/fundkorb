@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/volvariella_gloiocephala_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der immer wieder in unserem Dietzenbacher Carré erscheinende Große Scheidling *Volvariella gloiocephala*. An seinem ringlosen Stiel, den scheidenartigen Velumresten am Stielgrund und den großen grauweißen Hüten mit den rosa Lamellen ist er gut zu erkennen. Er ist essbar, aber nicht gerade der Besten einer. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/volvariella-gloiocephala-großer-scheidling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_lacunosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
