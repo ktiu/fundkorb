@@ -41,6 +41,7 @@ Makrochemische Farbreaktion mit Kaililauge (KOH) negativ.
 
 **Verwechslungsmöglichkeit:**
 
-Ähnlich kann der [Gewöhnliche Baumbart (Usnea filipendula)](/pilze/usnea-filipendula-gewöhnlicher-baumbart) aussehen. Er wird bis zu 30 cm lang, ist also stets länger als breit und wächst hängend mit vorwiegend parallelen Hauptästen. Die Äste sind dicht mit bis zu 1 cm langen Fibrillen versehen, außerdem mit halbkugeligen bis kurzen zylindrischen [Papillen](Papillen "Glossar") und mit Isidiengruppen oder isidiös werdenden kleineren Soralen. Zudem sind die makrochemischen Farbreaktionen völlig anders, nämlich Mark mit Kalilauge (KOH) rot und mit p-Phenylendiamin (PPD) orange.
+Ähnlich kann der [Gewöhnliche Baumbart (Usnea filipendula)](/pilze/usnea-filipendula-gewöhnlicher-baumbart) aussehen. Er wird bis zu 30 cm lang, ist also stets länger als breit und wächst hängend mit vorwiegend parallelen Hauptästen. Die Äste sind dicht mit bis zu 1 cm langen Fibrillen versehen, außerdem mit halbkugeligen bis kurzen zylindrischen [Papillen](Papillen "Glossar") und mit Isidiengruppen oder isidiös werdenden kleineren Soralen. Zudem sind die makrochemischen Farbreaktionen völlig anders, nämlich Mark mit Kalilauge (KOH) rot und mit p-Phenylendiamin (PPD) orange.\
+Die [Struppige Bartflechte (Usnea hirta)](/pilze/usnea-hirta-struppige-bartflechte) wächst strauchig, also nicht hängend, und wird nur bis 4 cm groß. Die makrochemischen Farbreaktionen mit Kalilauge (KOH) und p-Phenyldiamin (PPD) sind negativ.
 
 Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
