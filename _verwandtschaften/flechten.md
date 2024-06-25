@@ -173,5 +173,5 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 2020 [Cladonia digitata](/cladonia-digitata-finger-scharlachflechte)\
 2021 [Lecanora muralis](/pilze/lecanora-muralis-mauer-flechte)\
 2022 Enchylium tenax\
-2023 Cladonoa rangiformis\
+2023 Cladonia rangiformis\
 2024 Normandina pulchella
