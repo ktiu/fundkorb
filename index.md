@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/physcia_adscendens_03_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+27.06.2024: Flechten sind Pilze, deren Schönheit man erst mit der Lupe erkennt. Das gilt auch für die Helm-Schwielenflechte *Physcia adscendens*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Es ist eine häufige Art, die nicht nur Baumrinde besiedelt, sondern auch Steine, Mauern und sogar Metalle. Die feinen Härchen an den gerade mal 1 mm breiten Blättchen werden „Cilien“ genannt und sind ein Merkmal, das nur wenige Flechtenarten besitzen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/physcia-adscendens-helm-schwielenflechte)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/volvariella_gloiocephala_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 25.06.2024: Längsrippig gekammerte Stiele, unterschiedlich lappige, zipfelige, grubige Hüte und Farben von düster hell- bis dunkelgrau oder fast schwarz - das sind die Kennzeichen der Grubenlorchel *Helvella lacunosa*, unsereres heutigen [Fundkorbpilzes](AA "Glossar-"). Er ist häufig, nahezu unverwechselbar, erscheint gern an Waldwegrändern, aber auch außerhalb von Wäldern zum Beispiel in Parkanlagen. Für die Küche kann er (wenn überhaupt) nur eingeschränkt empfohlen werden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/helvella-lacunosa-grubenlorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/taphrina_deformans_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.06.2024: Ab und zu wird auch mal ein Phytoparasit aktueller [Fundkorbpilz](AA "Glossar-") des Tages. Es ist eine in jedem Jahr an einem der Pfirsischbäume in unserer Parkanlage erscheinende Art, die *Taphrina deformans* (Pfirsisch-Kräuselkrankheit) genannt wird. Sie deformiert Blätter, Triebe oder Früchte und färbt sie hellgrün, gelblich oder auch rot, richtet aber weiter keinen Schaden an. Befallene Pfirsiche sollte man besser nicht mehr essen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_wettsteinii_02_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-23.06.2024: Wer zur Zeit in Fichten- und Tannenwäldern im Raum München unterwegs ist, dem dürften Unmengen von kleinen hell- bis weißfarbenen Pilzhütchen aufgefallen sein. Mit großer Wahrscheinlichkeit handelt es sich dabei um das Nadelstreu-Käsepilzchen *Marasmius wettsteinii*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Es wächst auf alten Nadeln von Fichten oder Tannen. Wer es nicht glaubt, sollte behutsam ein Exemplar entnehmen. Mit etwas Glück hängt die Nadel am Stiel. Auf der Hutunterseite kann man dann ein Halsband (Kollar) bewundern. (Johann Rejek)
-
-[Mehr lesen >](/pilze/marasmius-wettsteinii-nadelstreu-käsepilzchen)
 
 <div style="clear:  both"></div>
 
