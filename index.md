@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/panus_conchatus_02_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+28.06.2024: An Laubholzstubben sind stets Pilzfunde möglich, auch wenn am Boden kaum was wächst. So ist es diesmal der Laubholzknäueling *Panus conchatus*, den ich als aktuellen [Fundkorbpilz](AA "Glossar-") anbieten kann. Es ist sogar ein recht hübscher, der mit seiner Form und violettrötlichen Farbe das Auge erfreut. Wegen seiner zähen Konsistenz gilt er als ungenießbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/panus-conchatus-laubholzknäueling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/physcia_adscendens_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 26.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der immer wieder in unserem Dietzenbacher Carré erscheinende Große Scheidling *Volvariella gloiocephala*. An seinem ringlosen Stiel, den scheidenartigen Velumresten am Stielgrund und den großen grauweißen Hüten mit den rosa Lamellen ist er gut zu erkennen. Er ist essbar, aber nicht gerade der Besten einer. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/volvariella-gloiocephala-großer-scheidling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_lacunosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.06.2024: Längsrippig gekammerte Stiele, unterschiedlich lappige, zipfelige, grubige Hüte und Farben von düster hell- bis dunkelgrau oder fast schwarz - das sind die Kennzeichen der Grubenlorchel *Helvella lacunosa*, unsereres heutigen [Fundkorbpilzes](AA "Glossar-"). Er ist häufig, nahezu unverwechselbar, erscheint gern an Waldwegrändern, aber auch außerhalb von Wäldern zum Beispiel in Parkanlagen. Für die Küche kann er (wenn überhaupt) nur eingeschränkt empfohlen werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/helvella-lacunosa-grubenlorchel)
 
 <div style="clear:  both"></div>
 
