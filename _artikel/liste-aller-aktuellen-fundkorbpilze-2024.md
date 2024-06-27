@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-27.06.2024: [Physcia adscendens - Helm-Schwielenflechte](/pilze/physcia-adscendens-helm-schwielenflechte)  
+28.06.2024: [Panus conchatus - Laubholzknäueling](/pilze/panus-conchatus-laubholzknäueling)  
+27.06.2024: [Physcia adscendens - Helm-Schwielenflechte](/pilze/physcia-adscendens-helm-schwielenflechte)\
 26.06.2024: [Volvariella gloiocephala - Großer Scheidling](/pilze/volvariella-gloiocephala-großer-scheidling)\
 25.06.2024: [Helvella lacunosa - Grubenlorchel](/pilze/helvella-lacunosa-grubenlorchel)\
 24.06.2024: [Taphrina deformans - Pfirsisch-Kräuselkrankheit](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)\
