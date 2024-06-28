@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/scleroderma_bovista_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.06.2024: Dass es sich bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") um einen Kartoffelbovist handelt, ist wegen der glatten Außenhaut nicht auf den ersten Blick ersichtlich. Im Alter oder angeschnitten zeigt der Netzsporige Kartoffelbovist *Scleroderma bovista* jedoch seine wahre Natur. Dann wird die Außenhaut rissig, die Gleba schwarz. Um die Art sicher von anderen Kartoffelbovisten zu unterscheiden, sollte mikroskopiert werden. Unsere Art ist der einzige Kartoffelbovist mit netzig ornamentierten Sporen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/scleroderma-bovista-netzsporiger-kartoffelbovist)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/panus_conchatus_02_fk.jpg" %}
 {% include abbildung_ende.html %}
 
