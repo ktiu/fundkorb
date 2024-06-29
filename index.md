@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/usnea_hirta_02_lh.jpg" %}
+{% include abbildung_ende.html %}
+
+30.06.2024: Diesmal kommt der aktuelle [Fundkorbpilz](AA "Glossar-") aus dem nördlichen Schwarzwald. An dünnen Zweigen einer jungen freistehenden Waldkiefer habe ich die Struppige Bartflechte *Usnea hirta* gefunden. Es gibt mindestens zwei sehr ähnliche Arten, die nicht leicht auseinanderzuhalten sind. (Bernd Miggel)
+
+[Die Schritte, die mich zur Bestimmung geführt haben, sind im hier Pilzporträt nachzulesen >](/pilze/usnea-hirta-struppige-bartflechte) 
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/scleroderma_bovista_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 28.06.2024: An Laubholzstubben sind stets Pilzfunde möglich, auch wenn am Boden kaum was wächst. So ist es diesmal der Laubholzknäueling *Panus conchatus*, den ich als aktuellen [Fundkorbpilz](AA "Glossar-") anbieten kann. Es ist sogar ein recht hübscher, der mit seiner Form und violettrötlichen Farbe das Auge erfreut. Wegen seiner zähen Konsistenz gilt er als ungenießbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/panus-conchatus-laubholzknäueling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/physcia_adscendens_03_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-27.06.2024: Flechten sind Pilze, deren Schönheit man erst mit der Lupe erkennt. Das gilt auch für die Helm-Schwielenflechte *Physcia adscendens*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Es ist eine häufige Art, die nicht nur Baumrinde besiedelt, sondern auch Steine, Mauern und sogar Metalle. Die feinen Härchen an den gerade mal 1 mm breiten Blättchen werden „Cilien“ genannt und sind ein Merkmal, das nur wenige Flechtenarten besitzen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/physcia-adscendens-helm-schwielenflechte)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/volvariella_gloiocephala_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.06.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der immer wieder in unserem Dietzenbacher Carré erscheinende Große Scheidling *Volvariella gloiocephala*. An seinem ringlosen Stiel, den scheidenartigen Velumresten am Stielgrund und den großen grauweißen Hüten mit den rosa Lamellen ist er gut zu erkennen. Er ist essbar, aber nicht gerade der Besten einer. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/volvariella-gloiocephala-großer-scheidling)
 
 <div style="clear:  both"></div>
 
