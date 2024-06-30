@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-30.06.2024: [Usnea hirta: Struppige Bartflechte](/pilze/usnea-hirta-struppige-bartflechte)  
+01.07.2024: [Xylaria longipes - Langstielige Holzkeule](/pilze/xylaria-longipes-langstielige-holzkeule)
+
+30.06.2024: [Usnea hirta: Struppige Bartflechte](/pilze/usnea-hirta-struppige-bartflechte)\
 29.06.2024: [Scleroderma bovista - Netzsporiger Kartoffelbovist](/pilze/scleroderma-bovista-netzsporiger-kartoffelbovist)\
 28.06.2024: [Panus conchatus - Laubholzknäueling](/pilze/panus-conchatus-laubholzknäueling)\
 27.06.2024: [Physcia adscendens - Helm-Schwielenflechte](/pilze/physcia-adscendens-helm-schwielenflechte)\
