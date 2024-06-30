@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylaria_longipes_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.07.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt mal wieder aus dem Frankfurter Stadtwald. Wer die vor allem an abgestorbenen Ahornästen vorkommende Langstielige Holzkeule *Xylaria longipes* noch nicht so genau kennt, sollte sie mal anschneiden. Am besten mit einem scharfen Messer, denn ihre schlanken Fruchtkörper sind so hart wie das Holz, an dem sie wachsen. Was dabei zum Vorschein kommt, ist ein Schwarzweißkontrast, wie man sich ihn besser nicht vorstellen kann. Das gilt übrigens für alle *Xylaria*-Arten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xylaria-longipes-langstielige-holzkeule)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/usnea_hirta_02_lh.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 29.06.2024: Dass es sich bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") um einen Kartoffelbovist handelt, ist wegen der glatten Außenhaut nicht auf den ersten Blick ersichtlich. Im Alter oder angeschnitten zeigt der Netzsporige Kartoffelbovist *Scleroderma bovista* jedoch seine wahre Natur. Dann wird die Außenhaut rissig, die Gleba schwarz. Um die Art sicher von anderen Kartoffelbovisten zu unterscheiden, sollte mikroskopiert werden. Unsere Art ist der einzige Kartoffelbovist mit netzig ornamentierten Sporen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/scleroderma-bovista-netzsporiger-kartoffelbovist)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/panus_conchatus_02_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-28.06.2024: An Laubholzstubben sind stets Pilzfunde möglich, auch wenn am Boden kaum was wächst. So ist es diesmal der Laubholzknäueling *Panus conchatus*, den ich als aktuellen [Fundkorbpilz](AA "Glossar-") anbieten kann. Es ist sogar ein recht hübscher, der mit seiner Form und violettrötlichen Farbe das Auge erfreut. Wegen seiner zähen Konsistenz gilt er als ungenießbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/panus-conchatus-laubholzknäueling)
 
 <div style="clear:  both"></div>
 
