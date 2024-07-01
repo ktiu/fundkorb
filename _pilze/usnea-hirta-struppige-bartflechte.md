@@ -52,3 +52,5 @@ Bestimmungsweg (nach Randlane & Törra 2009):\
 **Verwechslungsmöglichkeiten:**
 Die [Gewöhnliche Bartflechte *Usnea filipendula*](/pilze/usnea-filipendula-gewöhnlicher-baumbart) (Syn.: *Usnea dasipoga*) wächst deutlich hängend und wird bis zu 150 mm lang. Die Äste besitzen Papillen, die Anwuchsstelle ist geschwärzt. Das Mark färbt sich mit Kalilauge (KOH) rot, mit p-Phenylendiamin (PPD) orange.\
 Die [Kahle Bartflechte (*Usnea glabrescens*)](/pilze/usnea-glabrescens-verkahlender-baumbart) wird größer, besitzt nur wenige Fibrillen und keine Isidien.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
