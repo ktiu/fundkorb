@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+02.07.2024: [Mutinus ravenelii - Himbeerrote Hundsrute](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)
 01.07.2024: [Xylaria longipes - Langstielige Holzkeule](/pilze/xylaria-longipes-langstielige-holzkeule)
 
 30.06.2024: [Usnea hirta: Struppige Bartflechte](/pilze/usnea-hirta-struppige-bartflechte)\
