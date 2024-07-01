@@ -54,3 +54,5 @@ Oft findet man Populationen mit nur wenigen oder gar keinen Apothecien. Die Gabe
 **Ähnliche Arten:**
 Die Falsche Rentierflechte (*Cladonia rangiformis*) ist viel regelmäßiger verzweigt, da die abgehenden Ästchen immer gleichlang sind. Auch ist die Scheckung der Podetien viel auffallender, und die Färbung der Enden ist bräunlich. Die Ästchen sind zwar ebenfalls hohl, reißen jedoch niemals längs auf. Der Ökologie-Schwerpunkt liegt auf basischen Böden.\
 Die Schlanke Becherflechte (*Cladonia gracilis*) besitzt schlankere, gerade, vertikal wachsende, unverzweigte Podetien, von denen immer einige auch Becher tragen.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
