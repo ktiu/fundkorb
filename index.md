@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mutinus_ravenellii_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.07.2024: Aus Oerlinghausen im Landkreis Ostwestfalen Lippe meldet *Kerstin Pape-Seehase* unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Es ist die Himbeerrote Hundsrute *Mutinus ravenelii*, die sie zwischen Walderdbeeren entdeckt hat. Ich bin immer wieder überrascht, dass mich so viele Fundmeldungen für diese nicht gerade häufige Art aus ganz Deutschland erreichen, die meisten aus der Nordhälfte. Sie ist ausgesprochen hübsch, ihr Duft wird allerdings nur von einigen Insektenarten geschätzt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_longipes_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 30.06.2024: Diesmal kommt der aktuelle [Fundkorbpilz](AA "Glossar-") aus dem nördlichen Schwarzwald. An dünnen Zweigen einer jungen freistehenden Waldkiefer habe ich die Struppige Bartflechte *Usnea hirta* gefunden. Es gibt mindestens zwei sehr ähnliche Arten, die nicht leicht auseinanderzuhalten sind. (Bernd Miggel)
 
 [Die Schritte, die mich zur Bestimmung geführt haben, sind im hier Pilzporträt nachzulesen >](/pilze/usnea-hirta-struppige-bartflechte) 
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/scleroderma_bovista_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.06.2024: Dass es sich bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") um einen Kartoffelbovist handelt, ist wegen der glatten Außenhaut nicht auf den ersten Blick ersichtlich. Im Alter oder angeschnitten zeigt der Netzsporige Kartoffelbovist *Scleroderma bovista* jedoch seine wahre Natur. Dann wird die Außenhaut rissig, die Gleba schwarz. Um die Art sicher von anderen Kartoffelbovisten zu unterscheiden, sollte mikroskopiert werden. Unsere Art ist der einzige Kartoffelbovist mit netzig ornamentierten Sporen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/scleroderma-bovista-netzsporiger-kartoffelbovist)
 
 <div style="clear:  both"></div>
 
