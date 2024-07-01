@@ -111,7 +111,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Cladonia coniocraea = Gewöhnliche Säulenflechte](/pilze/cladonia-coniocraea-gewöhnliche-säulenflechte)\
 [Cladonia digitata = Finger-Scharlachflechte](/pilze/cladonia-digitata-finger-scharlachflechte)\
 [Cladonia fimbriata = Trompeten-Becherflechte](/pilze/cladonia-fimbriata-trompeten-becherflechte)\
-[Cladonia furcata = Gabel-Säulenflechte](/pilze/cladonia-furcata-gabel-säulenflechte)
+[Cladonia furcata = Gabel-Säulenflechte](/pilze/cladonia-furcata-gabel-säulenflechte)  
 [Cladonia macilenta = Rotfrüchtige Säulenflechte](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)\
 [Cladonia pyxidata = Gewöhnliche Becherflechte](/pilze/cladonia-pyxidata-gewöhnliche-becherflechte)\
 [Cladonia squamosa var. subsquamosa = Falsche Schuppen-Säulenflechte](/pilze/cladonia-squamosa-var-subsquamosa-falsche-schuppen-säulenflechte)\
