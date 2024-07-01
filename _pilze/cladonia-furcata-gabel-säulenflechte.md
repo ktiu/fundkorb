@@ -32,7 +32,7 @@ literatur:
 {% include bild.html datei="/bilder/cladonia_furcata_02_lh.jpg" %}
 {% include abbildung_ende.html %}
 
-Mit der Gabel-Säulenflechte *Cladonia furcata* stelle ich hier eine „Becherflechte ohne Becher“ vor. Man könnte sie auf Grund ihrer starren, fast stacheligen [Lager](<Lager "Glossar">) (Thalli) durchaus auch als „Igelflechte“ bezeichnen. Unser Fund hatte einen Durchmesser von etwa 20 cm und wuchs auf einem schon fast zu Humus gewordenen Baumstumpf. Fundort: Nordschwarzwald, schattiger Waldrand, saurer, torfreicher Boden, 720 mNN. Die Art ist in Deutschland weit verbreitet und gilt als ungefährdet.
+Mit der Gabel-Säulenflechte *Cladonia furcata* stelle ich hier eine „Becherflechte ohne Becher“ vor. Man könnte sie auf Grund ihrer starren, fast stacheligen [Lager](Lager "Glossar") (Thalli) durchaus auch als „Igelflechte“ bezeichnen. Unser Fund hatte einen Durchmesser von etwa 20 cm und wuchs auf einem schon fast zu Humus gewordenen Baumstumpf. Fundort: Nordschwarzwald, schattiger Waldrand, saurer, torfreicher Boden, 720 mNN. Die Art ist in Deutschland weit verbreitet und gilt als ungefährdet.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cladonia_furcata_03_lh.jpg" %}
@@ -40,7 +40,7 @@ Mit der Gabel-Säulenflechte *Cladonia furcata* stelle ich hier eine „Becherfl
 
 **Morphologische Merkmale:**
 
-Die Stämmchen ([Podetien](<Podetien "Glossar">)) liegen farblich immer irgendwie bei grau, graugrün, braun. Sie sind mehr oder weniger aufrecht stehend, wachsen unregelmäßig sparrig und sind oft gabelig verzweigt. [Apikal](<apikal "Glossar">) laufen sie spitz oder stumpf zu. Sie sind röhrig hohl, oft längs aufgerissen, von außen weiß-grün gescheckt und glatt ohne [Soredien](<Soredien "Glossar">). Becher gibt es bei dieser Art nicht. Blättchen (Schuppen) findet man nur an den Podetien, Grundschuppen fehlen. Mit der Lupe kann man unzählige, traubig angeordnete, dunkelbraune [Apothecien](<Apothecien "Glossar">) erkennen.\
+Die Stämmchen ([Podetien](Podetien "Glossar")) liegen farblich immer irgendwie bei grau, graugrün, braun. Sie sind mehr oder weniger aufrecht stehend, wachsen unregelmäßig sparrig und sind oft gabelig verzweigt. [Apikal](apikal "Glossar") laufen sie spitz oder stumpf zu. Sie sind röhrig hohl, oft längs aufgerissen, von außen weiß-grün gescheckt und glatt ohne [Soredien](Soredien "Glossar"). Becher gibt es bei dieser Art nicht. Blättchen (Schuppen) findet man nur an den Podetien, Grundschuppen fehlen. Mit der Lupe kann man unzählige, traubig angeordnete, dunkelbraune [Apothecien](Apothecien "Glossar") erkennen.\
 Makrochemische Farbreaktionen: mit Kalilauge (KOH) zunächst negativ, nach 2 - 5 Minuen bräunlich; mit p- Phenyldiamin (PPD) gelb, dann schnell orange.
 
 {% include abbildung_start.html stil="mittel" %}
