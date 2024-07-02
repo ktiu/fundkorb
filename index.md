@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/creolophus_cirrhatus_04_mi.jpg" %}
+{% include abbildung_ende.html %}
+
+03.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dornige Stachelbart *Hericium cirrhatum*. Stechelbärte sind nicht nur schön anzuschauen, sondern gelten auch als gesundheitsförderliche Vitalpilze. Sammeln darf man sie nicht. Sie sind alle mehr oder weniger streng geschützt. Da auf den Waldböden infolge des Klimawandels und des damit verbundenen Baumsterbens jede Menge Totholz liegt, erholen sich mittlerweile ihre Bestände. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hericium-cirrhatum-dorniger-stachelbart)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mutinus_ravenellii_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 01.07.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt mal wieder aus dem Frankfurter Stadtwald. Wer die vor allem an abgestorbenen Ahornästen vorkommende Langstielige Holzkeule *Xylaria longipes* noch nicht so genau kennt, sollte sie mal anschneiden. Am besten mit einem scharfen Messer, denn ihre schlanken Fruchtkörper sind so hart wie das Holz, an dem sie wachsen. Was dabei zum Vorschein kommt, ist ein Schwarzweißkontrast, wie man sich ihn besser nicht vorstellen kann. Das gilt übrigens für alle *Xylaria*-Arten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xylaria-longipes-langstielige-holzkeule)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/usnea_hirta_02_lh.jpg" %}
-{% include abbildung_ende.html %}
-
-30.06.2024: Diesmal kommt der aktuelle [Fundkorbpilz](AA "Glossar-") aus dem nördlichen Schwarzwald. An dünnen Zweigen einer jungen freistehenden Waldkiefer habe ich die Struppige Bartflechte *Usnea hirta* gefunden. Es gibt mindestens zwei sehr ähnliche Arten, die nicht leicht auseinanderzuhalten sind. (Bernd Miggel)
-
-[Die Schritte, die mich zur Bestimmung geführt haben, sind im hier Pilzporträt nachzulesen >](/pilze/usnea-hirta-struppige-bartflechte) 
 
 <div style="clear:  both"></div>
 
