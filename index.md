@@ -13,6 +13,20 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_insignitum_02_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+
+
+04.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze wachsen ausschließlich an Totholz und sind daher das ganze Jahr über zu finden. Sie zeichen sich durch ein glattes, höchstens runzeliges Hymenophor aus, der sporenbildenden Fruchtschicht auf der Hutunterseite. Der Doppelgänger des Braunsamtigen ist der [Samtige Schichtpilz Stereum subtomentosum](/pilze/stereum-subtomentosum-samtiger-schichtpilz). Beide sind mit bloßem Auge kaum zu unterscheiden, aber schon eine gut vergrößernde Lupe kann helfen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/creolophus_cirrhatus_04_mi.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +45,6 @@ footer_scripts:
 02.07.2024: Aus Oerlinghausen im Landkreis Ostwestfalen Lippe meldet *Kerstin Pape-Seehase* unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Es ist die Himbeerrote Hundsrute *Mutinus ravenelii*, die sie zwischen Walderdbeeren entdeckt hat. Ich bin immer wieder überrascht, dass mich so viele Fundmeldungen für diese nicht gerade häufige Art aus ganz Deutschland erreichen, die meisten aus der Nordhälfte. Sie ist ausgesprochen hübsch, ihr Duft wird allerdings nur von einigen Insektenarten geschätzt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_longipes_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.07.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt mal wieder aus dem Frankfurter Stadtwald. Wer die vor allem an abgestorbenen Ahornästen vorkommende Langstielige Holzkeule *Xylaria longipes* noch nicht so genau kennt, sollte sie mal anschneiden. Am besten mit einem scharfen Messer, denn ihre schlanken Fruchtkörper sind so hart wie das Holz, an dem sie wachsen. Was dabei zum Vorschein kommt, ist ein Schwarzweißkontrast, wie man sich ihn besser nicht vorstellen kann. Das gilt übrigens für alle *Xylaria*-Arten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xylaria-longipes-langstielige-holzkeule)
 
 <div style="clear:  both"></div>
 
