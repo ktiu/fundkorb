@@ -30,7 +30,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/creolophus_cirrhatus_04_mi.jpg" %}
 {% include abbildung_ende.html %}
 
-03.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dornige Stachelbart *Hericium cirrhatum*. Stechelbärte sind nicht nur schön anzuschauen, sondern gelten auch als gesundheitsförderliche Vitalpilze. Sammeln darf man sie nicht. Sie sind alle mehr oder weniger streng geschützt. Da auf den Waldböden infolge des Klimawandels und des damit verbundenen Baumsterbens jede Menge Totholz liegt, erholen sich mittlerweile ihre Bestände. (Dieter Gewalt)
+03.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dornige Stachelbart *Hericium cirrhatum*. Stachelbärte sind nicht nur schön anzuschauen, sondern gelten auch als gesundheitsförderliche Vitalpilze. Sammeln darf man sie nicht. Sie sind alle mehr oder weniger streng geschützt. Da auf den Waldböden infolge des Klimawandels und des damit verbundenen Baumsterbens jede Menge Totholz liegt, erholen sich mittlerweile ihre Bestände. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hericium-cirrhatum-dorniger-stachelbart)
 
