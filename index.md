@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lycogala_epidendrum_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.07.2024: Zu den häufigen [Schleimpilzen (*Myxomyzeten*)](/verwandt/schleimpilze-myxomyzeten) gehört unser heutiger [Fundkorbpilz](AA "Glossar-"), der Blutmilchpilz *Lycogala epidendrum*. Er ist problemlos makroskopisch (also vom Anschauen) sicher zu erkennnen. Die kleinen kugeligen Fruchtkörper, die auf dem Foto rosa gefärbt sind, werden bald grün und bei Sporenreife braun. Man findet sie fast das ganze Jahr über an totem Holz. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lycogala-epidendrum-blutmilchpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cladonia_furcata_03_lh.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 04.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze wachsen ausschließlich an Totholz und sind daher das ganze Jahr über zu finden. Sie zeichen sich durch ein glattes, höchstens runzeliges Hymenophor aus, der sporenbildenden Fruchtschicht auf der Hutunterseite. Der Doppelgänger des Braunsamtigen ist der [Samtige Schichtpilz Stereum subtomentosum](/pilze/stereum-subtomentosum-samtiger-schichtpilz). Beide sind mit bloßem Auge kaum zu unterscheiden, aber schon eine gut vergrößernde Lupe kann helfen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/creolophus_cirrhatus_04_mi.jpg" %}
-{% include abbildung_ende.html %}
-
-03.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dornige Stachelbart *Hericium cirrhatum*. Stachelbärte sind nicht nur schön anzuschauen, sondern gelten auch als gesundheitsförderliche Vitalpilze. Sammeln darf man sie nicht. Sie sind alle mehr oder weniger streng geschützt. Da auf den Waldböden infolge des Klimawandels und des damit verbundenen Baumsterbens jede Menge Totholz liegt, erholen sich mittlerweile ihre Bestände. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hericium-cirrhatum-dorniger-stachelbart)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mutinus_ravenellii_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.07.2024: Aus Oerlinghausen im Landkreis Ostwestfalen Lippe meldet *Kerstin Pape-Seehase* unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Es ist die Himbeerrote Hundsrute *Mutinus ravenelii*, die sie zwischen Walderdbeeren entdeckt hat. Ich bin immer wieder überrascht, dass mich so viele Fundmeldungen für diese nicht gerade häufige Art aus ganz Deutschland erreichen, die meisten aus der Nordhälfte. Sie ist ausgesprochen hübsch, ihr Duft wird allerdings nur von einigen Insektenarten geschätzt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)
 
 <div style="clear:  both"></div>
 
