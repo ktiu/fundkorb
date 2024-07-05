@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-05.07.2024: [Cladonia furcata - Gabel-Säulenflechte](/pilze/cladonia-furcata-gabel-säulenflechte)  
+06.07.2024 [Lycogala epidendrum - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)  
+05.07.2024: [Cladonia furcata - Gabel-Säulenflechte](/pilze/cladonia-furcata-gabel-säulenflechte)\
 04.07.2024: [Stereum insignitum - Braunsamtiger Schichtpilz](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)\
 03.07.2024: [Hericium cirrhatum - Dorniger Stachelbart](/pilze/hericium-cirrhatum-dorniger-stachelbart)\
 02.07.2024: [Mutinus ravenelii - Himbeerrote Hundsrute](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)\
