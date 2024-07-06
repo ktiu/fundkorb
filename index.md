@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_fragilis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, den man nicht in der Pfanne haben möchte. Der Wechselfarbige Speitäubling *Russula fragilis* verursacht, wie der Name schon vermuten lässt, Bauchweh, Erbrechen und Durchfall. Ein leicht feststellbares Merkmal ist sein scharfer Geschmack. Die Farben können sehr unterschiedlich sein, von violettlich über grünlich oder rosa bis zu allen möglichen Rottönen, mal dunkel, mal blass. (Dieter Gewalt)
+
+ [Mehr lesen >](/pilze/russula-fragilis-wechselfarbiger-speitäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lycogala_epidendrum_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 05.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist eine zweifellos sehr hübsche [Flechte](/verwandt/Flechten), die wir im Nordschwarzwald an einem schattigen Waldrand gefunden haben. Die Gabel-Säulenflechte *Cladonia furcata* wuchs an einem fast schon zu Humus vermorschtem Baumstumpf und hatte einen Durchmesser von etwa 20 cm. Man muss schon sehr genau hinschauen, am besten mit einer Lupe, um die winzigen dunkelbraunen Apothecien an den Ästchen wahrzunehmen. (Bernd Miggel)
 
 [Mehr lesen >](/pilze/cladonia-furcata-gabel-säulenflechte)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_insignitum_02_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-04.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze wachsen ausschließlich an Totholz und sind daher das ganze Jahr über zu finden. Sie zeichen sich durch ein glattes, höchstens runzeliges Hymenophor aus, der sporenbildenden Fruchtschicht auf der Hutunterseite. Der Doppelgänger des Braunsamtigen ist der [Samtige Schichtpilz Stereum subtomentosum](/pilze/stereum-subtomentosum-samtiger-schichtpilz). Beide sind mit bloßem Auge kaum zu unterscheiden, aber schon eine gut vergrößernde Lupe kann helfen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
 
 <div style="clear:  both"></div>
 
