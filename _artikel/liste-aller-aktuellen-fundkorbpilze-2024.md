@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-08.07.2024: [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)  
+09.07.2024: [Pluteus nigrofloccosus - Schwarzschneidiger Dachpilz](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)  
+08.07.2024: [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)\
 07.07.2024: [Russula fragilis - Wechselfarbiger Speitäubling](/pilze/russula-fragilis-wechselfarbiger-speitäubling)\
 06.07.2024: [Lycogala epidendrum - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 05.07.2024: [Cladonia furcata - Gabel-Säulenflechte](/pilze/cladonia-furcata-gabel-säulenflechte)\
