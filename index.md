@@ -12,15 +12,23 @@ footer_scripts:
 
 - - -
 
-[](/pilze/gymnopus-fusipes-spindeliger-rübling)
+
+
+09.07.2024: Gefärbte Lamellenschneiden können oft den Unterschied ausmachen und die Bestimmung erleichtern. Zum Beispiel bei Helmlingen oder Dachpilzen. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schwarzschneidige Dachpilz *Pluteus nigrofloccosus* ist ein schönes Beispiel. Leider ist er nicht der einzige in seiner Gattung mit diesem Merkmal. Man achte auch auf das Substrat (Laub- oder Nadelholz) oder die Form von Zystiden, die nur mit dem Mikroskop sichtbar sind. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_fusipes_03_he.jpg" %}
+{% include bild.html datei="/bilder/pluteus_nigrofloccosus_02_jr.jpg" %}
 {% include abbildung_ende.html %}
 
 08.07.2024: Essbar heißt nicht immer lecker. Das gilt auch für unseren heutigen [Fundkorbpilz](AA "Glossar-"), den Spindeligen Rübling *Gymnopus fusipes*. Er wächst meist dichtbüschelig am Grund von lebenden Eichen oder Eichenstubben. Seine stark knorpeligen verdrehten, längsrilligen und spindelförmigen Stiele, die zur Basis hin rostbraun gefärbt sind, lassen ihn leicht erkennen. Rostfarbige Flecken finden sich oft auch auf der Huthaut. (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/gymnopus-fusipes-spindeliger-rübling)
+[Mehr lesen >](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)
 
 <div style="clear:  both"></div>
 
