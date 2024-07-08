@@ -30,7 +30,7 @@ footer_scripts:
 
 08.07.2024: Essbar heißt nicht immer lecker. Das gilt auch für unseren heutigen [Fundkorbpilz](AA "Glossar-"), den Spindeligen Rübling *Gymnopus fusipes*. Er wächst meist dichtbüschelig am Grund von lebenden Eichen oder Eichenstubben. Seine stark knorpeligen verdrehten, längsrilligen und spindelförmigen Stiele, die zur Basis hin rostbraun gefärbt sind, lassen ihn leicht erkennen. Rostfarbige Flecken finden sich oft auch auf der Huthaut. (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)
+[Mehr lesen >](/pilze/gymnopus-fusipes-spindeliger-rübling)
 
 <div style="clear:  both"></div>
 
