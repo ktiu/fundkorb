@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_cohaerens_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.07.2024: Bei der zur Zeit herrschenden Trockenheit sind fast nur noch an Holz wachsende Pilze zu finden. Das trifft auch auf die Zusammengedrängte Kohlenbeere *Hypoxylon cohaerens*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), zu. Der deutsche Name ist schon eine recht gute Beschreibung des recht häufigen *[Pyrenomyzeten](Pyrenomyzeten "Glossar")*. Die abgeflacht kugeligen, krustig harten Fruchtkörper erreichen etwa 4 - 7 mm Durchmesser und sind dunkel graubraun bis schwarz gefärbt. Sie wachsen dicht gedrängt auf der Rinde von toten Laubholzästen und -stämmen (ganz überwiegend Buche) und sind oft zusammenfließend miteinander verbunden. Auf den Oberflächen erkennt man die papillenartigen Sporenauslassöffnungen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_nigrofloccosus_02_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,42 +43,6 @@ footer_scripts:
 08.07.2024: Essbar heißt nicht immer lecker. Das gilt auch für unseren heutigen [Fundkorbpilz](AA "Glossar-"), den Spindeligen Rübling *Gymnopus fusipes*. Er wächst meist dichtbüschelig am Grund von lebenden Eichen oder Eichenstubben. Seine stark knorpeligen verdrehten, längsrilligen und spindelförmigen Stiele, die zur Basis hin rostbraun gefärbt sind, lassen ihn leicht erkennen. Rostfarbige Flecken finden sich oft auch auf der Huthaut. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gymnopus-fusipes-spindeliger-rübling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_fragilis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, den man nicht in der Pfanne haben möchte. Der Wechselfarbige Speitäubling *Russula fragilis* verursacht, wie der Name schon vermuten lässt, Bauchweh, Erbrechen und Durchfall. Ein leicht feststellbares Merkmal ist sein scharfer Geschmack. Die Farben können sehr unterschiedlich sein, von violettlich über grünlich oder rosa bis zu allen möglichen Rottönen, mal dunkel, mal blass. (Dieter Gewalt)
-
- [Mehr lesen >](/pilze/russula-fragilis-wechselfarbiger-speitäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lycogala_epidendrum_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.07.2024: Zu den häufigen [Schleimpilzen (*Myxomyzeten*)](/verwandt/schleimpilze-myxomyzeten) gehört unser heutiger [Fundkorbpilz](AA "Glossar-"), der Blutmilchpilz *Lycogala epidendrum*. Er ist problemlos makroskopisch (also vom Anschauen) sicher zu erkennnen. Die kleinen kugeligen Fruchtkörper, die auf dem Foto rosa gefärbt sind, werden bald grün und bei Sporenreife braun. Man findet sie fast das ganze Jahr über an totem Holz. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lycogala-epidendrum-blutmilchpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cladonia_furcata_03_lh.jpg" %}
-{% include abbildung_ende.html %}
-
-05.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist eine zweifellos sehr hübsche [Flechte](/verwandt/Flechten), die wir im Nordschwarzwald an einem schattigen Waldrand gefunden haben. Die Gabel-Säulenflechte *Cladonia furcata* wuchs an einem fast schon zu Humus vermorschtem Baumstumpf und hatte einen Durchmesser von etwa 20 cm. Man muss schon sehr genau hinschauen, am besten mit einer Lupe, um die winzigen dunkelbraunen Apothecien an den Ästchen wahrzunehmen. (Bernd Miggel)
-
-[Mehr lesen >](/pilze/cladonia-furcata-gabel-säulenflechte)
 
 <div style="clear:  both"></div>
 
