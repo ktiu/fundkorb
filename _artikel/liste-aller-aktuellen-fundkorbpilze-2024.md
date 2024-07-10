@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-10.07.2024: [Hypoxylon cohaerens - Zusammengedrängte Kohlenbeere](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)  
+11.07.2024: [Taphrina caerulescens - "Roteichen-Kräuselkrankheit"](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit)  
+10.07.2024: [Hypoxylon cohaerens - Zusammengedrängte Kohlenbeere](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)\
 09.07.2024: [Pluteus nigrofloccosus - Schwarzschneidiger Dachpilz](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)\
 08.07.2024: [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)\
 07.07.2024: [Russula fragilis - Wechselfarbiger Speitäubling](/pilze/russula-fragilis-wechselfarbiger-speitäubling)\
