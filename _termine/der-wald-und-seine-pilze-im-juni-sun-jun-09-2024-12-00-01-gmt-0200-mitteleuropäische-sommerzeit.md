@@ -1,6 +1,6 @@
 ---
-aktivitaet: Der Wald und seine Pilze im Juni
-zeit: 2024-06-09T10:00:01.627Z
+aktivitaet: Der Wald und seine Pilze im Juli
+zeit: 2024-07-21T10:00:01.627Z
 bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
