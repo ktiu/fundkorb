@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-11.07.2024: [Taphrina caerulescens - "Roteichen-Kräuselkrankheit"](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit)  
+12.07.2024: [Perenniporia medulla-panis - Ockerfarbener Dauerporling](/pilze/perenniporia-medulla-panis-ockerfarbener-dauerporling)  
+11.07.2024: [Taphrina caerulescens - "Roteichen-Kräuselkrankheit"](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit)\
 10.07.2024: [Hypoxylon cohaerens - Zusammengedrängte Kohlenbeere](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)\
 09.07.2024: [Pluteus nigrofloccosus - Schwarzschneidiger Dachpilz](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)\
 08.07.2024: [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)\
