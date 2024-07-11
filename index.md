@@ -12,6 +12,11 @@ footer_scripts:
 
 - - -
 
+Nächster Exkursionstermin: 21. Juli 2024 **Der Wald und seine Pilze**  
+[Zur Anmeldung >](/termine)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/perenniporia_medulla-panis_01_wp.jpg" %}
 {% include abbildung_ende.html %}
