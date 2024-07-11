@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/perenniporia_medulla-panis_01_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+12.07.2024: Im Frankfurter Stadtwald ist er immer mal wieder zu finden, unser aktueller [Fundkorbpilz](AA "Glossar-"). Der Ockerfarbene Dauerporling *Perenniporia medulla-panis* liebt altes Eichenholz, gern auch an Balken, Zäunen, oder wie *Werner Pohl* 2006 berichtet hat, auf einer alten Parkbank im Norden Frankfurts. Er wird auch Ockerfarbener Porenschwamm genannt und wächst meist völlig [resupinat](resupinat "Glossar"). (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/perenniporia-medulla-panis-ockerfarbener-dauerporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/taphrina_caerulescens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 10.07.2024: Bei der zur Zeit herrschenden Trockenheit sind fast nur noch an Holz wachsende Pilze zu finden. Das trifft auch auf die Zusammengedrängte Kohlenbeere *Hypoxylon cohaerens*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), zu. Der deutsche Name ist schon eine recht gute Beschreibung des recht häufigen *[Pyrenomyzeten](Pyrenomyzeten "Glossar")*. Die abgeflacht kugeligen, krustig harten Fruchtkörper erreichen etwa 4 - 7 mm Durchmesser und sind dunkel graubraun bis schwarz gefärbt. Sie wachsen dicht gedrängt auf der Rinde von toten Laubholzästen und -stämmen (ganz überwiegend Buche) und sind oft zusammenfließend miteinander verbunden. Auf den Oberflächen erkennt man die papillenartigen Sporenauslassöffnungen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pluteus_nigrofloccosus_02_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-09.07.2024: Gefärbte Lamellenschneiden können oft den Unterschied ausmachen und die Bestimmung erleichtern. Zum Beispiel bei Helmlingen oder Dachpilzen. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schwarzschneidige Dachpilz *Pluteus nigrofloccosus* ist ein schönes Beispiel. Leider ist er nicht der einzige in seiner Gattung mit diesem Merkmal. Man achte auch auf das Substrat (Laub- oder Nadelholz) oder die Form von Zystiden, die nur mit dem Mikroskop sichtbar sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)
 
 <div style="clear:  both"></div>
 
