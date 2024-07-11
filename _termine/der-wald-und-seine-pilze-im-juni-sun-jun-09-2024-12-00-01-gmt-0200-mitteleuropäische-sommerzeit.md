@@ -1,5 +1,5 @@
 ---
-aktivitaet: Der Wald und seine Pilze im Juli
+aktivitaet: Der Wald und seine Pilze
 zeit: 2024-07-21T10:00:01.627Z
 bis: ""
 anmeldung_offen: true
