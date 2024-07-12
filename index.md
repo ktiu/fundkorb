@@ -12,8 +12,20 @@ footer_scripts:
 
 - - -
 
-Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**  
+Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
 [Zur Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_radicans_07_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.07.2024: Das Gelände um die Ernst-Reuter-Schule in Dietzenbach ist durch Bautätigkeit zumindest ein wenig kalkhaltig. Eine Bodenbeschaffenheit, die für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Wurzelnden Bitterröhrling *Boletus (Caloboletus) radicans* bedeutsam ist. Um ihn sicher zu bestimmen, achte man auf die Merkmalskombination *Poren der Röhrenschicht gelb - Geschmack bitter - Fleisch im Anschnitt blauend*. Die Blauverfärbung kann nach einigen Minuten verschwinden. [Mykorrhizapartner](Mykorrhiza "Glossar") sind ausschließlich Laubbäume. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/boletus-radicans-wurzelnder-bitterröhrling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -21,7 +33,7 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**
 {% include bild.html datei="/bilder/perenniporia_medulla-panis_01_wp.jpg" %}
 {% include abbildung_ende.html %}
 
-12.07.2024: Im Frankfurter Stadtwald ist er immer mal wieder zu finden, unser aktueller [Fundkorbpilz](AA "Glossar-"). Der Ockerfarbene Dauerporling *Perenniporia medulla-panis* liebt altes Eichenholz, gern auch an Balken, Zäunen, oder wie *Werner Pohl* 2006 berichtet hat, auf einer alten Parkbank im Norden Frankfurts. Er wird auch Ockerfarbener Porenschwamm genannt und wächst meist völlig [resupinat](resupinat "Glossar"). (Dieter Gewalt)
+12.07.2024: Im Frankfurter Stadtwald ist er immer mal wieder zu finden, unser aktueller [Fundkorbpilz](AA "Glossar-"). Der Ockerfarbene Dauerporling *Perenniporia medulla-panis* liebt altes Eichenholz, gern auch an Balken, Zäunen, oder wie *Werner Pohl* 2006 berichtet hat, auf einer alten Parkbank im Norden Frankfurts. Er wird auch Ockerfarbener Porenschwamm genannt und wächst meist völlig [resupinat](resupinat "Glossar"). Seine Poren sind winzig klein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/perenniporia-medulla-panis-ockerfarbener-dauerporling)
 
@@ -36,18 +48,6 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**
 11.07.2024: Die Gattung *Taphrina* enthält wenig beachtete Schlauchpilze (*Ascomyzeten*), die Narrentaschen, Hexenbesen oder Kräuselkrankheiten genannt werden. Sie bilden keine eigenen Fruchtkörper aus sondern deformieren lediglich Früchte, Triebe oder Blätter verschiedener Pflanzen, um an oder in ihnen ihre [Myzelien](Myzel "Glossar") anzulegen. So auch unser heutiger [Fundkorbpilz](AA "Glossar-") *Taphrina caerulescens*, der die Blätter von Roteichen verunstaltet, ohne ihnen einen nennenswerten Schaden zuzufügen. Er ist vermutlich in jedem Roteichenbestand zu finden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_cohaerens_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.07.2024: Bei der zur Zeit herrschenden Trockenheit sind fast nur noch an Holz wachsende Pilze zu finden. Das trifft auch auf die Zusammengedrängte Kohlenbeere *Hypoxylon cohaerens*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), zu. Der deutsche Name ist schon eine recht gute Beschreibung des recht häufigen *[Pyrenomyzeten](Pyrenomyzeten "Glossar")*. Die abgeflacht kugeligen, krustig harten Fruchtkörper erreichen etwa 4 - 7 mm Durchmesser und sind dunkel graubraun bis schwarz gefärbt. Sie wachsen dicht gedrängt auf der Rinde von toten Laubholzästen und -stämmen (ganz überwiegend Buche) und sind oft zusammenfließend miteinander verbunden. Auf den Oberflächen erkennt man die papillenartigen Sporenauslassöffnungen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
 
 <div style="clear:  both"></div>
 
