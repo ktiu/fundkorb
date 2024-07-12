@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-Nächster Exkursionstermin: 21. Juli 2024 **Der Wald und seine Pilze**  
+Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**  
 [Zur Anmeldung >](/termine)
 
 - - -
