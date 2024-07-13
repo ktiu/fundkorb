@@ -17,6 +17,18 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
 
 - - -
 
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/marasmius_scorodonius_-02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.07.2024: Es gibt drei Arten von Knoblauchschwindlingen, von denen nur einer für die Küche interessant ist, und der ist heute aktueller [Fundkorbpilz](AA "Glossar-"). Der Echte Knoblauchschwindling *Marasmius scorodonius* wächst gesellig in- und außerhalb von Wäldern an Nadelhumus oder abgestorbenen holzigen Pflanzenresten. In unserer Dietzenbacher Parkanlage ist er zur Zeit in Massen zu finden, allerdings nur an verborgenen Stellen unter Gestrüpp, so dass er kaum auffällt und man ihn mühsam suchen muss. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_radicans_07_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -36,18 +48,6 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
 12.07.2024: Im Frankfurter Stadtwald ist er immer mal wieder zu finden, unser aktueller [Fundkorbpilz](AA "Glossar-"). Der Ockerfarbene Dauerporling *Perenniporia medulla-panis* liebt altes Eichenholz, gern auch an Balken, Zäunen, oder wie *Werner Pohl* 2006 berichtet hat, auf einer alten Parkbank im Norden Frankfurts. Er wird auch Ockerfarbener Porenschwamm genannt und wächst meist völlig [resupinat](resupinat "Glossar"). Seine Poren sind winzig klein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/perenniporia-medulla-panis-ockerfarbener-dauerporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/taphrina_caerulescens_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.07.2024: Die Gattung *Taphrina* enthält wenig beachtete Schlauchpilze (*Ascomyzeten*), die Narrentaschen, Hexenbesen oder Kräuselkrankheiten genannt werden. Sie bilden keine eigenen Fruchtkörper aus sondern deformieren lediglich Früchte, Triebe oder Blätter verschiedener Pflanzen, um an oder in ihnen ihre [Myzelien](Myzel "Glossar") anzulegen. So auch unser heutiger [Fundkorbpilz](AA "Glossar-") *Taphrina caerulescens*, der die Blätter von Roteichen verunstaltet, ohne ihnen einen nennenswerten Schaden zuzufügen. Er ist vermutlich in jedem Roteichenbestand zu finden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit)
 
 <div style="clear:  both"></div>
 
