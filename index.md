@@ -17,7 +17,7 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
 
 - - -
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_scorodonius_-02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
