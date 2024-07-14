@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-14.07.2024: [Marasmius scorodonius - Echter Knoblauchschwindling](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling)  
+15.07.2024: [Amylostereum laevigatum - Wacholder-Schichtpilz](/pilze/amylostereum-laevigatum-wacholder-schichtpilz)  
+14.07.2024: [Marasmius scorodonius - Echter Knoblauchschwindling](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling)\
 13.07.2024: [Boletus radicans - Wurzelnder Bitterröhrling](/pilze/boletus-radicans-wurzelnder-bitterröhrling)\
 12.07.2024: [Perenniporia medulla-panis - Ockerfarbener Dauerporling](/pilze/perenniporia-medulla-panis-ockerfarbener-dauerporling)\
 11.07.2024: [Taphrina caerulescens - "Roteichen-Kräuselkrankheit"](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit)\
