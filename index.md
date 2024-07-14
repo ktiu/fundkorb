@@ -21,7 +21,7 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
 {% include bild.html datei="/bilder/marasmius_scorodonius_-02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-14.07.2024: Es gibt drei Arten von Knoblauchschwindlingen, von denen nur einer für die Küche interessant ist, und der ist heute aktueller [Fundkorbpilz](AA "Glossar-"). Der Echte Knoblauchschwindling *Marasmius scorodonius* wächst gesellig in- und außerhalb von Wäldern an Nadelhumus oder abgestorbenen holzigen Pflanzenresten. In unserer Dietzenbacher Parkanlage ist er zur Zeit in Massen zu finden, allerdings nur an verborgenen Stellen unter Gestrüpp, so dass er kaum auffällt und man ihn mühsam suchen muss. (Dieter Gewalt)
+14.07.2024: Es gibt drei Arten von Knoblauchschwindlingen, von denen nur eine für die Küche interessant ist, und der ist heute aktueller [Fundkorbpilz](AA "Glossar-"). Der Echte Knoblauchschwindling *Marasmius scorodonius* wächst gesellig in- und außerhalb von Wäldern an Nadelhumus oder abgestorbenen holzigen Pflanzenresten. In unserer Dietzenbacher Parkanlage ist er zur Zeit in Massen zu finden, allerdings nur an verborgenen Stellen unter Gestrüpp, so dass er kaum auffällt und man ihn mühsam suchen muss. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling)
 
