@@ -17,6 +17,26 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
 
 - - -
 
+18.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Blasige Eckenscheibchen *Diatrype bullata*, das vor allem bei gezielter Suche an abgestorbenen, noch berindeten Ästen von Weiden und Erlen zu finden ist. Es handelt sich um schwarze kissenförmige Sammelfruchtkörper, die bis zu 3 mm Durchmesser erreichen und einzeln oder zu mehreren zusammenfließend aus der Rinde hervorbrechen. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leccinum_pseudoscabrum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Hainbuchen-Raufuß *Leccinum pseudoscabrum*. Er sieht dem [Birken-Raufuß](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz) zum Verwechseln ähnlich, unterscheidet sich aber durch die meist eingedellte, manchmal wie gehämmert aussehenden Hutoberfläche, was sehr schön auf dem beigefügten Foto zu erkennen ist. Beide sind essbar, dem Hainbuchen-Raufuß attestieren Kenner allerdings die etwas bessere Speisepilzqualität. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_carpophila_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -24,42 +44,6 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
 16.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute die Bucheckernschalen-Holzkeule *Xylaria carpophila*. Ein ziemlich kompliziert klingender deutscher Name für einen Pilz, der ihn aber treffend beschreibt. Es sind sehr zierliche, fast schon filigrane Keulchen, die sich aufgrund ihres Vorkommens auf Bucheckernschalen (-cupulen) zweifelsfrei erkennen lassen und mitunter recht hübsch aussehen. Die Art ist wohl in jedem Buchenwald häufig, wenn auch leicht zu übersehen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amylostereum_laevigatum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Schichtpilz, der nicht in der Schichtpilzgattung *Stereum* steht. Der Grund: weil er [amyloide](amyloid "Glossar") Sporen hat, muss er Wacholder-Schichtpilz *Amylostereum laevigatum* heißen. Um ihn zu finden, muss man seine typischen Wirtspflanzen kennen: Wacholder und Eibe. Für Eibe gab *German J. Kriegsteiner* für sein gesamtes Bundesland Baden-Württemberg jedoch nur einen Fund an, für Wacholder hingegen 73. Ich finde ihn regelmäßig in einem Wacholderbestand bei Rödermark-Waldacker, übrigens haargenau auf dem 50. Breitengrad. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amylostereum-laevigatum-wacholder-schichtpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_scorodonius_-02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.07.2024: Es gibt drei Arten von Knoblauchschwindlingen, von denen nur eine für die Küche interessant ist, und der ist heute aktueller [Fundkorbpilz](AA "Glossar-"). Der Echte Knoblauchschwindling *Marasmius scorodonius* wächst gesellig in- und außerhalb von Wäldern an Nadelhumus oder abgestorbenen holzigen Pflanzenresten. In unserer Dietzenbacher Parkanlage ist er zur Zeit in Massen zu finden, allerdings nur an verborgenen Stellen unter Gestrüpp, so dass er kaum auffällt und man ihn mühsam suchen muss. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_radicans_07_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.07.2024: Das Gelände um die Ernst-Reuter-Schule in Dietzenbach ist durch Bautätigkeit zumindest ein wenig kalkhaltig. Eine Bodenbeschaffenheit, die für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Wurzelnden Bitterröhrling *Boletus (Caloboletus) radicans* bedeutsam ist. Um ihn sicher zu bestimmen, achte man auf die Merkmalskombination *Poren der Röhrenschicht gelb - Geschmack bitter - Fleisch im Anschnitt blauend*. Die Blauverfärbung kann nach einigen Minuten verschwinden. [Mykorrhizapartner](Mykorrhiza "Glossar") sind ausschließlich Laubbäume. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-radicans-wurzelnder-bitterröhrling)
 
 <div style="clear:  both"></div>
 
