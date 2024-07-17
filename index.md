@@ -17,9 +17,13 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/diatrype_bullata_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
 18.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Blasige Eckenscheibchen *Diatrype bullata*, das vor allem bei gezielter Suche an abgestorbenen, noch berindeten Ästen von Weiden und Erlen zu finden ist. Es handelt sich um schwarze kissenförmige Sammelfruchtkörper, die bis zu 3 mm Durchmesser erreichen und einzeln oder zu mehreren zusammenfließend aus der Rinde hervorbrechen. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/diatrype-bullata-blasiges-eckenscheibchen)
 
 <div style="clear:  both"></div>
 
