@@ -18,6 +18,18 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/scleroderma_areolatum_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+19.07.2024: Kartoffelboviste gibt es einige, doch sie sind nicht auf den ersten Blick voneinander zu unterscheiden. Unser aktueller Fundkorbpilz, der Gefelderte Kartoffelbovist *Scleroderma areolatum*, der auch Leopardenfell-Hartbovist genannt wird, unterscheidet sich vom sehr viel häufigeren [Dickschaligen Kartoffelbovist](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist) u. a. durch eine dünnere Schale und andere Sporenform und -größe . Einen vereinfachten Bestimmungsschlüssel finden Sie auf unserem Pilzporträt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/scleroderma-areolatum-gefelderter-kartoffelbovist-leopardenfell-hartbovist)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrype_bullata_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
 17.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Hainbuchen-Raufuß *Leccinum pseudoscabrum*. Er sieht dem [Birken-Raufuß](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz) zum Verwechseln ähnlich, unterscheidet sich aber durch die meist eingedellte, manchmal wie gehämmert aussehenden Hutoberfläche, was sehr schön auf dem beigefügten Foto zu erkennen ist. Beide sind essbar, dem Hainbuchen-Raufuß attestieren Kenner allerdings die etwas bessere Speisepilzqualität. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_carpophila_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute die Bucheckernschalen-Holzkeule *Xylaria carpophila*. Ein ziemlich kompliziert klingender deutscher Name für einen Pilz, der ihn aber treffend beschreibt. Es sind sehr zierliche, fast schon filigrane Keulchen, die sich aufgrund ihres Vorkommens auf Bucheckernschalen (-cupulen) zweifelsfrei erkennen lassen und mitunter recht hübsch aussehen. Die Art ist wohl in jedem Buchenwald häufig, wenn auch leicht zu übersehen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)
 
 <div style="clear:  both"></div>
 
