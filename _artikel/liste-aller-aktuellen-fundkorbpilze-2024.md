@@ -2,8 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-18.07.2024: [Diatrype bullata - Blasiges Eckenscheibchen](/pilze/diatrype-bullata-blasiges-eckenscheibchen)  
-17.07.2024: [Leccinum pseudoscabrum - Hainbuchen-Raufuß](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß)  
+19.07.2024: [Scleroderma areolatum - Gefelderter Kartoffelbovist, Leopardenfell-Hartbovist ](/pilze/scleroderma-areolatum-gefelderter-kartoffelbovist-leopardenfell-hartbovist)  
+18.07.2024: [Diatrype bullata - Blasiges Eckenscheibchen](/pilze/diatrype-bullata-blasiges-eckenscheibchen)\
+17.07.2024: [Leccinum pseudoscabrum - Hainbuchen-Raufuß](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß)\
 16.07.2024: [Xylaria carpophila - Bucheckernschalen-Holzkeule](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)\
 15.07.2024: [Amylostereum laevigatum - Wacholder-Schichtpilz](/pilze/amylostereum-laevigatum-wacholder-schichtpilz)\
 14.07.2024: [Marasmius scorodonius - Echter Knoblauchschwindling](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling)\
