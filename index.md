@@ -18,6 +18,18 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_violeipes_05_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+21.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Violettstielige Brätlingstäubling *Russula violeipes*, eine der Premiumarten unter den Täublingen, die auch Pfirsischtäubling genannt wird. Die Schwierigkeit beim Erkennen der zahlreichen Täublingsarten ist ihre Farbvariabilität. Nur wenige zeigen zuverlässig konstante Farben. Beim Violettstieligen Täubling beginnt das Problem schon beim namensgebenden violetten Stiel. Manchmal hat er diese Farbe, manchmal erscheint sie als zarter Hauch oder auch satt aufgetragen, meistens ist sie aber weiß. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_rosea_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
 19.07.2024: Kartoffelboviste gibt es einige, doch sie sind nicht auf den ersten Blick voneinander zu unterscheiden. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gefelderte Kartoffelbovist *Scleroderma areolatum*, der auch Leopardenfell-Hartbovist genannt wird, unterscheidet sich vom sehr viel häufigeren [Dickschaligen Kartoffelbovist](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist) u. a. durch eine dünnere Schale und andere Sporenform und -größe . Einen vereinfachten Bestimmungsschlüssel finden Sie auf unserem Pilzporträt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/scleroderma-areolatum-gefelderter-kartoffelbovist-leopardenfell-hartbovist)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diatrype_bullata_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-18.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Blasige Eckenscheibchen *Diatrype bullata*, das vor allem bei gezielter Suche an abgestorbenen, noch berindeten Ästen von Weiden und Erlen zu finden ist. Es handelt sich um schwarze kissenförmige Sammelfruchtkörper, die bis zu 3 mm Durchmesser erreichen und einzeln oder zu mehreren zusammenfließend aus der Rinde hervorbrechen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/diatrype-bullata-blasiges-eckenscheibchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leccinum_pseudoscabrum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Hainbuchen-Raufuß *Leccinum pseudoscabrum*. Er sieht dem [Birken-Raufuß](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz) zum Verwechseln ähnlich, unterscheidet sich aber durch die meist eingedellte, manchmal wie gehämmert aussehenden Hutoberfläche, was sehr schön auf dem beigefügten Foto zu erkennen ist. Beide sind essbar, dem Hainbuchen-Raufuß attestieren Kenner allerdings die etwas bessere Speisepilzqualität. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß)
 
 <div style="clear:  both"></div>
 
