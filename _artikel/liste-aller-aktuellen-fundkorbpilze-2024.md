@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-19.07.2024: [Scleroderma areolatum - Gefelderter Kartoffelbovist, Leopardenfell-Hartbovist ](/pilze/scleroderma-areolatum-gefelderter-kartoffelbovist-leopardenfell-hartbovist)  
+20.07.2024: [Russula rosea - Harter Zinnobertäubling](/pilze/russula-rosea-harter-zinnobertäubling)  
+19.07.2024: [Scleroderma areolatum - Gefelderter Kartoffelbovist, Leopardenfell-Hartbovist ](/pilze/scleroderma-areolatum-gefelderter-kartoffelbovist-leopardenfell-hartbovist)\
 18.07.2024: [Diatrype bullata - Blasiges Eckenscheibchen](/pilze/diatrype-bullata-blasiges-eckenscheibchen)\
 17.07.2024: [Leccinum pseudoscabrum - Hainbuchen-Raufuß](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß)\
 16.07.2024: [Xylaria carpophila - Bucheckernschalen-Holzkeule](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)\
