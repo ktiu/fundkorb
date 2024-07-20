@@ -17,7 +17,7 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_rosea_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
