@@ -17,7 +17,9 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
 
 - - -
 
-
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/russula_rosea_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
 
 20.07.2024: Die meisten Täublinge, die mild und nussig schmecken, sind ausgezeichnete Speisepilze, auf keinen Fall aber giftig. Ebenfalls nussig und mild ist das Fleisch des Harten Zinnobertäublings *Russula rosea*. Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") verspricht also nach allen Täublingsregeln ein leckeres Pilzgericht, doch leider wäre er zubereitet eine im wahrsten Sinne des Wortes bittere Enttäuschung. Anfänger könnten ihn leicht für einen [Speisetäubling](/pilze/russula-vesca-speisetäubling) halten, seine auffallend harte Konsistenz macht ihn aber unverwechselbar. (Dieter Gewalt)
 
