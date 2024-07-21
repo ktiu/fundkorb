@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/cortinarius_rubellus_01_us.jpg" %}
 {% include abbildung_ende.html %}
 
-22.07.2024: Er ist tödlich giftig, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Der Spitzgebuckelte Raukopf *Cortinarius rubellus* enthält den Giftstoff *Orellanin*, der Nieren und Leber angreift. Besonders tückisch ist seine lange Latenzzeit. Bei schweren Vergiftungungen beträgt sie 2 - 3 Tage. Es droht Nierenversagen und ohne Notfalltherapie der Tod. Gefunden in einem Nadelmischwald im Mittleren Schwarzwald bei Hornberg. (Bernd Miggel)
+22.07.2024: Er ist tödlich giftig, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Der Spitzgebuckelte Raukopf *Cortinarius rubellus* enthält den Giftstoff *Orellanin*, der Nieren und Leber angreift. Besonders tückisch ist seine lange Latenzzeit. Bei schweren Vergiftungen beträgt sie 2 - 3 Tage. Es droht Nierenversagen und ohne Notfalltherapie der Tod. Gefunden in einem Nadelmischwald im Mittleren Schwarzwald bei Hornberg. (Bernd Miggel)
 
  [Mehr lesen >](/pilze/cortinarius-rubellus-spitzgebuckelter-raukopf)
 
