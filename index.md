@@ -12,8 +12,15 @@ footer_scripts:
 
 - - -
 
-Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
-[Zur Anmeldung >](/termine)
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cortinarius_rubellus_01_us.jpg" %}
+{% include abbildung_ende.html %}
+
+22.07.2024: Er ist tödlich giftig, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Der Spitzgebuckelte Raukopf *Cortinarius rubellus* enthält den Giftstoff *Orellanin*, der Nieren und Leber angreift. Besonders tückisch ist seine lange Latenzzeit. Bei schweren Vergiftungungen beträgt sie 2 - 3 Tage. Es droht Nierenversagen und ohne Notfalltherapie der Tod. Gefunden in einem Nadelmischwald im Mittleren Schwarzwald bei Hornberg. (Bernd Miggel)
+
+ [Mehr lesen >](/pilze/cortinarius-rubellus-spitzgebuckelter-raukopf)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -36,18 +43,6 @@ Nächster Exkursionstermin: Sonntag, 21. Juli 2024 **Der Wald und seine Pilze**\
 20.07.2024: Die meisten Täublinge, die mild und nussig schmecken, sind ausgezeichnete Speisepilze, auf keinen Fall aber giftig. Ebenfalls nussig und mild ist das Fleisch des Harten Zinnobertäublings *Russula rosea*. Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") verspricht also nach allen Täublingsregeln ein leckeres Pilzgericht, doch leider wäre er zubereitet eine im wahrsten Sinne des Wortes bittere Enttäuschung. Anfänger könnten ihn leicht für einen [Speisetäubling](/pilze/russula-vesca-speisetäubling) halten, seine auffallend harte Konsistenz macht ihn aber unverwechselbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-rosea-harter-zinnobertäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/scleroderma_areolatum_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-19.07.2024: Kartoffelboviste gibt es einige, doch sie sind nicht auf den ersten Blick voneinander zu unterscheiden. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gefelderte Kartoffelbovist *Scleroderma areolatum*, der auch Leopardenfell-Hartbovist genannt wird, unterscheidet sich vom sehr viel häufigeren [Dickschaligen Kartoffelbovist](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist) u. a. durch eine dünnere Schale und andere Sporenform und -größe . Einen vereinfachten Bestimmungsschlüssel finden Sie auf unserem Pilzporträt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/scleroderma-areolatum-gefelderter-kartoffelbovist-leopardenfell-hartbovist)
 
 <div style="clear:  both"></div>
 
