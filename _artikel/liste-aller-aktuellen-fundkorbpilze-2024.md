@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-21.07.2024: [Russula violeipes - Violettstieliger Brätlingstäubling](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)  
+22.07.2024: [Cortinarius rubellus - Spitzgebuckelter Raukopf](/pilze/cortinarius-rubellus-spitzgebuckelter-raukopf)  
+21.07.2024: [Russula violeipes - Violettstieliger Brätlingstäubling](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)\
 20.07.2024: [Russula rosea - Harter Zinnobertäubling](/pilze/russula-rosea-harter-zinnobertäubling)\
 19.07.2024: [Scleroderma areolatum - Gefelderter Kartoffelbovist, Leopardenfell-Hartbovist ](/pilze/scleroderma-areolatum-gefelderter-kartoffelbovist-leopardenfell-hartbovist)\
 18.07.2024: [Diatrype bullata - Blasiges Eckenscheibchen](/pilze/diatrype-bullata-blasiges-eckenscheibchen)\
