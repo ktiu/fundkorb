@@ -13,12 +13,24 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_lignyotus_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+23.07.2024: Bei der gleichen Exkursion im Raum Hornberg im Schwarzwald haben wir auch den Mohrenkopf *Lactarius lignyotus* gefunden. Bei diesem aktuellen [Fundkorbpilz](AA "Glossar-") handelt es sich um einen Milchling, der bei Fichten und fast ausschließlich in Mittelgebirgs- und alpinen Lagen zu finden ist. Er gilt als ausgezeichneter Speisepilz und soll sogar roh genießbar sein. Sein auffälliger Schwarzweißkontrast macht ihn innerhalb der Gattung nahezu unverwechselbar. (Bernd Miggel)
+
+[Mehr lesen >](/pilze/lactarius-lignyotus-mohrenkopf)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cortinarius_rubellus_01_us.jpg" %}
 {% include abbildung_ende.html %}
 
 22.07.2024: Er ist tödlich giftig, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Der Spitzgebuckelte Raukopf *Cortinarius rubellus* enthält den Giftstoff *Orellanin*, der Nieren und Leber angreift. Besonders tückisch ist seine lange Latenzzeit. Bei schweren Vergiftungen beträgt sie 2 - 3 Tage. Es droht Nierenversagen und ohne Notfalltherapie der Tod. Gefunden in einem Nadelmischwald im Mittleren Schwarzwald bei Hornberg. (Bernd Miggel)
 
- [Mehr lesen >](/pilze/cortinarius-rubellus-spitzgebuckelter-raukopf)
+[Mehr lesen >](/pilze/cortinarius-rubellus-spitzgebuckelter-raukopf)
 
 <div style="clear:  both"></div>
 
