@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-23.07.2024: [Lactarius lignyotus - Mohrenkopf](/pilze/lactarius-lignyotus-mohrenkopf)  
+24.07.2024: [Strobilomyces strobilaceus - Strubbelkopfröhrling](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)  
+23.07.2024: [Lactarius lignyotus - Mohrenkopf](/pilze/lactarius-lignyotus-mohrenkopf)\
 22.07.2024: [Cortinarius rubellus - Spitzgebuckelter Raukopf](/pilze/cortinarius-rubellus-spitzgebuckelter-raukopf)\
 21.07.2024: [Russula violeipes - Violettstieliger Brätlingstäubling](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)\
 20.07.2024: [Russula rosea - Harter Zinnobertäubling](/pilze/russula-rosea-harter-zinnobertäubling)\
