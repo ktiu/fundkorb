@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/strobilomyces_strobilaceus_04_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+24.07.2024: *„Old Man of the Woods“* - so heißt unser aktueller [Fundkorbpilz](AA "Glossar-"), der Strubbelkopfröhrling *Strobilomyces strobilaceus*, auf Englisch. Das passt - und auch der deutsche Artname ist eigentlich schon eine treffende Beschreibung dieses in allen Teilen grauen Pilzes. Gefunden habe ich ihn im schönen Whispertal im hinteren Taunus. Eine kleine Gruppe dieser Pilze stand dort im Buchenwald; leider hatte ihnen die Hitze der letzten Wochen schon sehr zugesetzt. Giftig ist er nicht, aber auch nicht gerade lecker. Ihn anschauen und stehen lassen ist die beste Entscheidung. (Florian Weyel)
+
+[Mehr lesen >](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_lignyotus_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 22.07.2024: Er ist tödlich giftig, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Der Spitzgebuckelte Raukopf *Cortinarius rubellus* enthält den Giftstoff *Orellanin*, der Nieren und Leber angreift. Besonders tückisch ist seine lange Latenzzeit. Bei schweren Vergiftungen beträgt sie 2 - 3 Tage. Es droht Nierenversagen und ohne Notfalltherapie der Tod. Gefunden in einem Nadelmischwald im Mittleren Schwarzwald bei Hornberg. (Bernd Miggel)
 
 [Mehr lesen >](/pilze/cortinarius-rubellus-spitzgebuckelter-raukopf)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_violeipes_05_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-21.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Violettstielige Brätlingstäubling *Russula violeipes*, eine der Premiumarten unter den Täublingen, die auch Pfirsischtäubling genannt wird. Die Schwierigkeit beim Erkennen der zahlreichen Täublingsarten ist ihre Farbvariabilität. Nur wenige zeigen zuverlässig konstante Farben. Beim Violettstieligen Täubling beginnt das Problem schon beim namensgebenden violetten Stiel. Manchmal hat er diese Farbe, manchmal erscheint sie als zarter Hauch oder auch satt aufgetragen, meistens ist sie aber weiß. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_rosea_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-20.07.2024: Die meisten Täublinge, die mild und nussig schmecken, sind ausgezeichnete Speisepilze, auf keinen Fall aber giftig. Ebenfalls nussig und mild ist das Fleisch des Harten Zinnobertäublings *Russula rosea*. Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") verspricht also nach allen Täublingsregeln ein leckeres Pilzgericht, doch leider wäre er zubereitet eine im wahrsten Sinne des Wortes bittere Enttäuschung. Anfänger könnten ihn leicht für einen [Speisetäubling](/pilze/russula-vesca-speisetäubling) halten, seine auffallend harte Konsistenz macht ihn aber unverwechselbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-rosea-harter-zinnobertäubling)
 
 <div style="clear:  both"></div>
 
