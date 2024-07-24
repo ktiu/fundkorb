@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_amethystina_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+25.07.2024: Wenn uns im Bergnadelwald bei Fichten oder Weißtannen eine Täublingsgruppe mit violettbraunen bis violetten Hüten, reif gelben Lamellen und weißen Stielen begegnet, bei denen außerdem das Fleisch absolut mild ist und die Stielbasis des einen oder anderen Exemplars nach Jodoform („Krankenhausgeruch“) riecht, dann handelt es sich mit hoher Wahrscheinlichkeit um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Amethyst-Täubling *Russula amethystina*. Diese Art ist in Deutschland recht häufig und damit ungefährdet und gilt als guter Speisepilz. (Bernd Miggel)
+
+[Mehr lesen >](/pilze/russula-amethystina-amethyst-täubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/strobilomyces_strobilaceus_04_nk.jpg" %}
 {% include abbildung_ende.html %}
 
