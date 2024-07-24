@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/strobilomyces_strobilaceus_04_nk.jpg" %}
 {% include abbildung_ende.html %}
 
-24.07.2024: *„Old Man of the Woods“* - so heißt unser aktueller [Fundkorbpilz](AA "Glossar-"), der Strubbelkopfröhrling *Strobilomyces strobilaceus*, auf Englisch. Das passt - und auch der deutsche Artname ist eigentlich schon eine treffende Beschreibung dieses in allen Teilen grauen Pilzes. Gefunden habe ich ihn im schönen Whispertal im hinteren Taunus. Eine kleine Gruppe dieser Pilze stand dort im Buchenwald; leider hatte ihnen die Hitze der letzten Wochen schon sehr zugesetzt. Giftig ist er nicht, aber auch nicht gerade lecker. Ihn anschauen und stehen lassen ist die beste Entscheidung. (Florian Weyel)
+24.07.2024: *„Old Man of the Woods“* - so heißt unser aktueller [Fundkorbpilz](AA "Glossar-"), der Strubbelkopfröhrling *Strobilomyces strobilaceus*, auf Englisch. Das passt - und auch der deutsche Artname ist eigentlich schon eine treffende Beschreibung dieses in allen Teilen grauen Pilzes. Gefunden habe ich ihn im schönen Wispertal im hinteren Taunus. Eine kleine Gruppe dieser Pilze stand dort im Buchenwald; leider hatte ihnen die Hitze der letzten Wochen schon sehr zugesetzt. Giftig ist er nicht, aber auch nicht gerade lecker. Ihn anschauen und stehen lassen ist die beste Entscheidung. (Florian Weyel)
 
 [Mehr lesen >](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)
 
