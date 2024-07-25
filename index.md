@@ -12,7 +12,15 @@ footer_scripts:
 
 - - -
 
-26.07.2024: Ein Highlight bei einer Exkursion des Mykologischen Arbeitskreises Hornberg war die seltene Breitblättrige Glucke Sparassis brevipes und ist daher auch aktueller [Fundkorbpilz](AA "Glossar-"). Sie wächst an Eichen (daher ihr Name „Eichenglucke“) und anderen Laubhölzern, gern auch an Tanne (daher auch „Tannenglucke“ genannt). Andere volkstümliche Namen sind „Bärenschädel“ und „Grausame Glucke“, was immer damit gemeint sein könnte. An Kiefer, dem Wirt der Krausen Glucke, ist sie offenbar noch nicht gefunden worden. Daher ist der Wirt ein einfach und sicher anwendbares Unterscheidungsmerkmal. (Bernd Miggel) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sparassis_brevipes_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.07.2024: Ein Highlight bei einer Exkursion des Mykologischen Arbeitskreises Hornberg war die seltene Breitblättrige Glucke *Sparassis brevipes* und ist daher auch aktueller [Fundkorbpilz](AA "Glossar-"). Sie wächst an Eichen (daher ihr Name „Eichenglucke“) und anderen Laubhölzern, gern auch an Tanne (daher auch „Tannenglucke“ genannt). Andere volkstümliche Namen sind „Bärenschädel“ und „Grausame Glucke“, was immer damit gemeint sein könnte. An Kiefer, dem Wirt der [Krausen Glucke](/pilze/sparassis-crispa-krause-glucke), ist sie offenbar noch nicht gefunden worden. Daher ist der Wirt ein einfach und sicher anwendbares Unterscheidungsmerkmal. (Bernd Miggel)
+
+[Mehr lesen >](/pilze/sparassis-brevipes-breitblättrige-glucke)
+
+<div style="clear:  both"></div>
 
 - - -
 
