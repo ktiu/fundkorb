@@ -12,6 +12,10 @@ footer_scripts:
 
 - - -
 
+26.07.2024: Ein Highlight bei einer Exkursion des Mykologischen Arbeitskreises Hornberg war die seltene Breitblättrige Glucke Sparassis brevipes und ist daher auch aktueller [Fundkorbpilz](AA "Glossar-"). Sie wächst an Eichen (daher ihr Name „Eichenglucke“) und anderen Laubhölzern, gern auch an Tanne (daher auch „Tannenglucke“ genannt). Andere volkstümliche Namen sind „Bärenschädel“ und „Grausame Glucke“, was immer damit gemeint sein könnte. An Kiefer, dem Wirt der Krausen Glucke, ist sie offenbar noch nicht gefunden worden. Daher ist der Wirt ein einfach und sicher anwendbares Unterscheidungsmerkmal. (Bernd Miggel) Mehr lesen > <div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_amethystina_02_bm.jpg" %}
 {% include abbildung_ende.html %}
@@ -31,30 +35,6 @@ footer_scripts:
 24.07.2024: *„Old Man of the Woods“* - so heißt unser aktueller [Fundkorbpilz](AA "Glossar-"), der Strubbelkopfröhrling *Strobilomyces strobilaceus*, auf Englisch. Das passt - und auch der deutsche Artname ist eigentlich schon eine treffende Beschreibung dieses in allen Teilen grauen Pilzes. Gefunden habe ich ihn im schönen Wispertal im hinteren Taunus. Eine kleine Gruppe dieser Pilze stand dort im Buchenwald; leider hatte ihnen die Hitze der letzten Wochen schon sehr zugesetzt. Giftig ist er nicht, aber auch nicht gerade lecker. Ihn anschauen und stehen lassen ist die beste Entscheidung. (Florian Weyel)
 
 [Mehr lesen >](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_lignyotus_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-23.07.2024: Bei der gleichen Exkursion im Raum Hornberg im Schwarzwald haben wir auch den Mohrenkopf *Lactarius lignyotus* gefunden. Bei diesem aktuellen [Fundkorbpilz](AA "Glossar-") handelt es sich um einen Milchling, der bei Fichten und fast ausschließlich in Mittelgebirgs- und alpinen Lagen zu finden ist. Er gilt als ausgezeichneter Speisepilz und soll sogar roh genießbar sein. Sein auffälliger Schwarzweißkontrast macht ihn innerhalb der Gattung nahezu unverwechselbar. (Bernd Miggel)
-
-[Mehr lesen >](/pilze/lactarius-lignyotus-mohrenkopf)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cortinarius_rubellus_01_us.jpg" %}
-{% include abbildung_ende.html %}
-
-22.07.2024: Er ist tödlich giftig, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Der Spitzgebuckelte Raukopf *Cortinarius rubellus* enthält den Giftstoff *Orellanin*, der Nieren und Leber angreift. Besonders tückisch ist seine lange Latenzzeit. Bei schweren Vergiftungen beträgt sie 2 - 3 Tage. Es droht Nierenversagen und ohne Notfalltherapie der Tod. Gefunden in einem Nadelmischwald im Mittleren Schwarzwald bei Hornberg. (Bernd Miggel)
-
-[Mehr lesen >](/pilze/cortinarius-rubellus-spitzgebuckelter-raukopf)
 
 <div style="clear:  both"></div>
 
