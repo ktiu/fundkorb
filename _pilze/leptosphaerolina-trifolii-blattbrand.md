@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: Leptosphaerolina trifolii
+  wissenschaftlich: Leptosphaerulina trifolii
   deutsch: Blattbrand
   referenz: (Rostr.) Petr.
   erlaeuterung: Trifolium = Klee
