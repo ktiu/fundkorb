@@ -12,7 +12,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/leptosphaerolina_trifolii_01_uw.jpg
 literatur:
-  - url: ttps://www.pflanzenkrankheiten.ch/krankheiten-an-kulturpflanzen-2/krankheiten-an-futterleguminosen/weissklee/leptoshaerulina-trifolii-tr
+  - url: https://www.pflanzenkrankheiten.ch/krankheiten-an-kulturpflanzen-2/krankheiten-an-futterleguminosen/weissklee/leptoshaerulina-trifolii-tr
 ---
 „Auch Glück scheint nicht immer makellos“ - das war mein erster Gedanke, als ich das 4-blättrige Blatt des Weiß- oder Kriechklees (*Trifolium repens*) mit zahlreichen, an Sonnenbrand erinnernden dunkelbraunen bis schwarzen Blattflecken entdeckte, die durch den Schlauchpilz *Leptosphaerulina trifolii* verursacht wurden. Der parasitierende [Pyrenomyzet](Pyrenomyzeten "Glossar") führt vornehmlich an Weißklee zu Blattbrand (engl.:  *pepper spot*) und reduziert dessen Ertrag und Qualität. Der Klee enthält zudem einen wesentlich höheren Gehalt an wie Östrogen wirksamen Substanzen. Wird er verfüttert, kann dadurch die Gesundheit und Fruchtbarkeit der Tiere beeinträchtigt werden.
 
