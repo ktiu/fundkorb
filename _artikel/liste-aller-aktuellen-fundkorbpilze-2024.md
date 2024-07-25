@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-25.07.2024: [Russula amethystina - Amethyst-Täubling](/pilze/russula-amethystina-amethyst-täubling)  
+26.07.2024: [Sparassis brevipes - Breitblättrige Glucke](/pilze/sparassis-brevipes-breitblättrige-glucke)  
+25.07.2024: [Russula amethystina - Amethyst-Täubling](/pilze/russula-amethystina-amethyst-täubling)\
 24.07.2024: [Strobilomyces strobilaceus - Strubbelkopfröhrling](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)\
 23.07.2024: [Lactarius lignyotus - Mohrenkopf](/pilze/lactarius-lignyotus-mohrenkopf)\
 22.07.2024: [Cortinarius rubellus - Spitzgebuckelter Raukopf](/pilze/cortinarius-rubellus-spitzgebuckelter-raukopf)\
