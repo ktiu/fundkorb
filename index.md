@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leptosphaerolina_trifolii_01_uw.jpg" %}
+{% include abbildung_ende.html %}
+
+27.07.2024: „Auch Glück scheint nicht immer makellos“ - das war mein erster Gedanke, als ich das 4-blättrige Blatt des Weiß- oder Kriechklees mit zahlreichen, an Sonnenbrand erinnernden dunkelbraunen bis schwarzen Blattflecken entdeckte, die durch den aktuellen [Fundkorbpilz](AA "Glossar-") *Leptosphaerulina trifolii* verursacht wurden. Der parasitierende [Pyrenomyzet](<Pyrenomyzeten "Glossar">) führt vornehmlich an Weißklee zu Blattbrand (engl.:  *pepper spot*) und reduziert dessen Ertrag und Qualität. Der Klee enthält zudem einen wesentlich höheren Gehalt an wie Östrogen wirksamen Substanzen. Wird er verfüttert, kann dadurch die Gesundheit und Fruchtbarkeit der Tiere beeinträchtigt werden. (Ulrike Wegner)
+
+[Mehr lesen >](/pilze/leptosphaerolina-trifolii-blattbrand)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/sparassis_brevipes_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 25.07.2024: Wenn uns im Bergnadelwald bei Fichten oder Weißtannen eine Täublingsgruppe mit violettbraunen bis violetten Hüten, reif gelben Lamellen und weißen Stielen begegnet, bei denen außerdem das Fleisch absolut mild ist und die Stielbasis des einen oder anderen Exemplars nach Jodoform („Krankenhausgeruch“) riecht, dann handelt es sich mit hoher Wahrscheinlichkeit um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Amethyst-Täubling *Russula amethystina*. Diese Art ist in Deutschland recht häufig und damit ungefährdet und gilt als guter Speisepilz. (Bernd Miggel)
 
 [Mehr lesen >](/pilze/russula-amethystina-amethyst-täubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/strobilomyces_strobilaceus_04_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-24.07.2024: *„Old Man of the Woods“* - so heißt unser aktueller [Fundkorbpilz](AA "Glossar-"), der Strubbelkopfröhrling *Strobilomyces strobilaceus*, auf Englisch. Das passt - und auch der deutsche Artname ist eigentlich schon eine treffende Beschreibung dieses in allen Teilen grauen Pilzes. Gefunden habe ich ihn im schönen Wispertal im hinteren Taunus. Eine kleine Gruppe dieser Pilze stand dort im Buchenwald; leider hatte ihnen die Hitze der letzten Wochen schon sehr zugesetzt. Giftig ist er nicht, aber auch nicht gerade lecker. Ihn anschauen und stehen lassen ist die beste Entscheidung. (Florian Weyel)
-
-[Mehr lesen >](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)
 
 <div style="clear:  both"></div>
 
