@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/leptosphaerolina_trifolii_01_uw.jpg" %}
 {% include abbildung_ende.html %}
 
-27.07.2024: „Auch Glück scheint nicht immer makellos“ - das war mein erster Gedanke, als ich das 4-blättrige Blatt des Weiß- oder Kriechklees mit zahlreichen, an Sonnenbrand erinnernden dunkelbraunen bis schwarzen Blattflecken entdeckte, die durch den aktuellen [Fundkorbpilz](AA "Glossar-") *Leptosphaerulina trifolii* verursacht wurden. Der parasitierende [Pyrenomyzet](<Pyrenomyzeten "Glossar">) führt vornehmlich an Weißklee zu Blattbrand (engl.:  *pepper spot*) und reduziert dessen Ertrag und Qualität. Der Klee enthält zudem einen wesentlich höheren Gehalt an wie Östrogen wirksamen Substanzen. Wird er verfüttert, kann dadurch die Gesundheit und Fruchtbarkeit der Tiere beeinträchtigt werden. (Ulrike Wegner)
+27.07.2024: „Auch Glück scheint nicht immer makellos“ - das war mein erster Gedanke, als ich das 4-blättrige Blatt des Weiß- oder Kriechklees mit zahlreichen, an Sonnenbrand erinnernden dunkelbraunen bis schwarzen Blattflecken entdeckte, die durch den aktuellen [Fundkorbpilz](AA "Glossar-") *Leptosphaerulina trifolii* verursacht wurden. Der parasitierende [Pyrenomyzet](Pyrenomyzeten "Glossar") führt vornehmlich an Weißklee zu Blattbrand (engl.:  *pepper spot*) und reduziert dessen Ertrag und Qualität. Der Klee enthält zudem einen wesentlich höheren Gehalt an wie Östrogen wirksamen Substanzen. Wird er verfüttert, kann dadurch die Gesundheit und Fruchtbarkeit der Tiere beeinträchtigt werden. (Ulrike Wegner)
 
 [Mehr lesen >](/pilze/leptosphaerolina-trifolii-blattbrand)
 
