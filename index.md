@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_virescens_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüngefelderte Täubling *Russula virescens*. Kenner schätzen diesen hervorragenden Speisepilz mehr als Steinpilz, Pfifferling & Co. Um so erfreulcher, dass es sich um einen gut kenntlichen Pilz handelt. In typischer Ausprägung (mit felderig aufgerissener Huthaut) ist er kaum zu verwechseln. Seine [Mykorrhizapartner](Mykorrhiza "Glossar") sind überwiegend Rotbuchen und Eichen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-virescens-grüngefelderter-täubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leptosphaerolina_trifolii_01_uw.jpg" %}
 {% include abbildung_ende.html %}
 
