@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-28.07.2024: [Russula virescens - Grüngefelderter Täubling](/pilze/russula-virescens-grüngefelderter-täubling)  
+29.07.2024: [Lentinus adhaerens - Harziger Sägeblättling](/pilze/lentinus-adhaerens-harziger-sägeblättling)   
+28.07.2024: [Russula virescens - Grüngefelderter Täubling](/pilze/russula-virescens-grüngefelderter-täubling)\
 27.07.2024: [Leptosphaerulina trifolii - Blattbrand](/pilze/leptosphaerolina-trifolii-blattbrand)\
 26.07.2024: [Sparassis brevipes - Breitblättrige Glucke](/pilze/sparassis-brevipes-breitblättrige-glucke)\
 25.07.2024: [Russula amethystina - Amethyst-Täubling](/pilze/russula-amethystina-amethyst-täubling)\
