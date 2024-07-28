@@ -22,4 +22,5 @@ Es handelt sich um eine Zuchtform des Schwarzstreifigen Scheidlings *Volvariella
 Tipp für die deutsche Küche: Der in Asien so beliebte Speisepilz ist auch in Mitteleuropa zu haben. Als preiswerte Konserven in Asia Shops und Asia-Abteilungen vieler Supermärkte. Eine empfehlenswerte Alternative zu Dosenchampignons, wie ich meine. Warum nicht mal ausprobieren? Sind aber etwas teurer als unsere Zuchtchampignons und roh giftig. Die auch in vielen anderen Speisepilzen enthaltenen Stoffe wirken hämolytisch und agglutinisierend, lösen also rote Blutkörperchen auf und verklumpen sie.
 
 {% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/volvariella_volvacea_02_wi.png" %}
 {% include abbildung_ende.html legende="Abbildung links: wikipedia (gemeinfrei: Sowerby 1797)  -- rechts: Im Handel erhältliche Konserve" %}
