@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lenzites_adhaerens_01_us.jpg" %}
+{% include abbildung_ende.html %}
+
+29.07.2024: Eigentlich ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Harzige Sägeblättling *Lentinus adhaerens*, ein typischer Winterpilz, der aber das ganze Jahr über fruktifizieren kann. So auch während unserer Juli-Exkursion bei Hornberg-Reichenberg in einem Nadelmischwald mit eingestreuten Laubbäumen. Mit der Lupe erkennt man, dass die stark untermischten Lamellen eine fein gesägte Schneide besitzen. Der Geschmack ist bitter und im Hals etwas kratzend. (Bernd Miggel)
+
+[Mehr lesen >](/pilze/lentinus-adhaerens-harziger-sägeblättling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_virescens_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 27.07.2024: „Auch Glück scheint nicht immer makellos“ - das war mein erster Gedanke, als ich das 4-blättrige Blatt des Weiß- oder Kriechklees mit zahlreichen, an Sonnenbrand erinnernden dunkelbraunen bis schwarzen Blattflecken entdeckte, die durch den aktuellen [Fundkorbpilz](AA "Glossar-") *Leptosphaerulina trifolii* verursacht wurden. Der parasitierende [Pyrenomyzet](Pyrenomyzeten "Glossar") führt vornehmlich an Weißklee zu Blattbrand (engl.:  *pepper spot*) und reduziert dessen Ertrag und Qualität. Der Klee enthält zudem einen wesentlich höheren Gehalt an wie Östrogen wirksamen Substanzen. Wird er verfüttert, kann dadurch die Gesundheit und Fruchtbarkeit der Tiere beeinträchtigt werden. (Ulrike Wegner)
 
 [Mehr lesen >](/pilze/leptosphaerolina-trifolii-blattbrand)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/sparassis_brevipes_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.07.2024: Ein Highlight bei einer Exkursion des Mykologischen Arbeitskreises Hornberg war die seltene Breitblättrige Glucke *Sparassis brevipes* und ist daher auch aktueller [Fundkorbpilz](AA "Glossar-"). Sie wächst an Eichen (daher ihr Name „Eichenglucke“) und anderen Laubhölzern, gern auch an Tanne (daher auch „Tannenglucke“ genannt). Andere volkstümliche Namen sind „Bärenschädel“ und „Grausame Glucke“, was immer damit gemeint sein könnte. An Kiefer, dem Wirt der [Krausen Glucke](/pilze/sparassis-crispa-krause-glucke), ist sie offenbar noch nicht gefunden worden. Daher ist der Wirt ein einfach und sicher anwendbares Unterscheidungsmerkmal. (Bernd Miggel)
-
-[Mehr lesen >](/pilze/sparassis-brevipes-breitblättrige-glucke)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_amethystina_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-25.07.2024: Wenn uns im Bergnadelwald bei Fichten oder Weißtannen eine Täublingsgruppe mit violettbraunen bis violetten Hüten, reif gelben Lamellen und weißen Stielen begegnet, bei denen außerdem das Fleisch absolut mild ist und die Stielbasis des einen oder anderen Exemplars nach Jodoform („Krankenhausgeruch“) riecht, dann handelt es sich mit hoher Wahrscheinlichkeit um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Amethyst-Täubling *Russula amethystina*. Diese Art ist in Deutschland recht häufig und damit ungefährdet und gilt als guter Speisepilz. (Bernd Miggel)
-
-[Mehr lesen >](/pilze/russula-amethystina-amethyst-täubling)
 
 <div style="clear:  both"></div>
 
