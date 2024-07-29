@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/volvariella_volvacea_02_wi.png" %}
 {% include abbildung_ende.html %}
 
-30.07.2024: In Thailand ist der aktuelle [Fundkorbpilz](AA "Glossar-"), der Schwarzstreifige Scheidling Volvariella volvacea, der am meisten gezüchtete und in jedem Markt frisch erhältliche Speisepilz. In freier Natur ist er allerdings ziemlich selten. Er kommt auch in deutschen Wäldern vor, aber wohl noch seltener. Wer eine Alternative zum Champignon sucht, könnte auch mal diesen als Reisstrohpilz (thailändisch: *Het fang*) bekannten Pilz ausprobieren, der als Konserve in Asia Shops erhältlich ist. (Buree Schmitt)
+30.07.2024: In Thailand ist der aktuelle [Fundkorbpilz](AA "Glossar-"), der Schwarzstreifige Scheidling *Volvariella volvacea*, der am meisten gezüchtete und in jedem Markt frisch erhältliche Speisepilz. In freier Natur ist er allerdings ziemlich selten. Er kommt auch in deutschen Wäldern vor, aber wohl noch seltener. Wer eine Alternative zum Champignon sucht, könnte auch mal diesen als Reisstrohpilz (thailändisch: *Het fang*) bekannten Pilz ausprobieren, der als Konserve in Asia Shops erhältlich ist. (Buree Schmitt)
 
 [Mehr lesen >](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)
 
