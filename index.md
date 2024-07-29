@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/volvariella_volvacea_02_wi.png" %}
+{% include abbildung_ende.html %}
+
+30.07.2024: In Thailand ist der aktuelle [Fundkorbpilz](AA "Glossar-"), der Schwarzgestreifte Scheidling Volvariella volvacea, der am meisten gezüchtete und in jedem Markt frisch erhältliche Speisepilz. In freier Natur ist er allerdings ziemlich selten. Er kommt auch in deutschen Wäldern vor, aber wohl noch seltener. Wer eine Alternative zum Champignon sucht, könnte auch mal diesen als Reisstrohpilz (thailändisch: *Het fang*) bekannten Pilz ausprobieren, der als Konserve in Asia Shops erhältlich ist. (Buree Schmitt)
+
+[Mehr lesen >](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lenzites_adhaerens_01_us.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 28.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüngefelderte Täubling *Russula virescens*. Kenner schätzen diesen hervorragenden Speisepilz mehr als Steinpilz, Pfifferling & Co. Um so erfreulcher, dass es sich um einen gut kenntlichen Pilz handelt. In typischer Ausprägung (mit felderig aufgerissener Huthaut) ist er kaum zu verwechseln. Seine [Mykorrhizapartner](Mykorrhiza "Glossar") sind überwiegend Rotbuchen und Eichen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-virescens-grüngefelderter-täubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leptosphaerolina_trifolii_01_uw.jpg" %}
-{% include abbildung_ende.html %}
-
-27.07.2024: „Auch Glück scheint nicht immer makellos“ - das war mein erster Gedanke, als ich das 4-blättrige Blatt des Weiß- oder Kriechklees mit zahlreichen, an Sonnenbrand erinnernden dunkelbraunen bis schwarzen Blattflecken entdeckte, die durch den aktuellen [Fundkorbpilz](AA "Glossar-") *Leptosphaerulina trifolii* verursacht wurden. Der parasitierende [Pyrenomyzet](Pyrenomyzeten "Glossar") führt vornehmlich an Weißklee zu Blattbrand (engl.:  *pepper spot*) und reduziert dessen Ertrag und Qualität. Der Klee enthält zudem einen wesentlich höheren Gehalt an wie Östrogen wirksamen Substanzen. Wird er verfüttert, kann dadurch die Gesundheit und Fruchtbarkeit der Tiere beeinträchtigt werden. (Ulrike Wegner)
-
-[Mehr lesen >](/pilze/leptosphaerolina-trifolii-blattbrand)
 
 <div style="clear:  both"></div>
 
