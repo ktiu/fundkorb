@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-30.07,2024: [Volvariella volvacea - Schwarzstreifiger Scheidling](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)  
+31.07.2024: [Phellinus igniarius - Gemeiner Feuerschwamm](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)  
+30.07.2024: [Volvariella volvacea - Schwarzstreifiger Scheidling](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)\
 29.07.2024: [Lentinus adhaerens - Harziger Sägeblättling](/pilze/lentinus-adhaerens-harziger-sägeblättling)\
 28.07.2024: [Russula virescens - Grüngefelderter Täubling](/pilze/russula-virescens-grüngefelderter-täubling)\
 27.07.2024: [Leptosphaerulina trifolii - Blattbrand](/pilze/leptosphaerolina-trifolii-blattbrand)\
