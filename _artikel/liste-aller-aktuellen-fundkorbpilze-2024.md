@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-31.07.2024: [Phellinus igniarius - Gemeiner Feuerschwamm](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)  
+01.08.2024: [Hypoxylon howeanum - Zimtbraune Kohlenbeere](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere)
+
+31.07.2024: [Phellinus igniarius - Gemeiner Feuerschwamm](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)\
 30.07.2024: [Volvariella volvacea - Schwarzstreifiger Scheidling](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)\
 29.07.2024: [Lentinus adhaerens - Harziger Sägeblättling](/pilze/lentinus-adhaerens-harziger-sägeblättling)\
 28.07.2024: [Russula virescens - Grüngefelderter Täubling](/pilze/russula-virescens-grüngefelderter-täubling)\
