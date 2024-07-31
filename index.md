@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_howeanum_02_xx.jpg" %}
+{% include abbildung_ende.html %}
+
+01.08.2024: Kohlenbeeren werden von den meisten Pilzfreunden kaum beachtet, leisten als Holzzersetzer aber wertvolle Dienste im Ökosystem Wald. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), die Zimtbraune Kohlenbeere *Hypoxylon howeanum*, die vor allem an toten Eichen- oder Roteichenästen zu finden ist. Bei der Bestimmung sind neben dem Substrat auch die unterschiedlichen Sporenmaße zu beachten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_igniarius_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 30.07.2024: In Thailand ist der aktuelle [Fundkorbpilz](AA "Glossar-"), der Schwarzstreifige Scheidling *Volvariella volvacea*, der am meisten gezüchtete und in jedem Markt frisch erhältliche Speisepilz. In freier Natur ist er allerdings ziemlich selten. Er kommt auch in deutschen Wäldern vor, aber wohl noch seltener. Wer eine Alternative zum Champignon sucht, könnte auch mal diesen als Reisstrohpilz (thailändisch: *Het fang*) bekannten Pilz ausprobieren, der als Konserve in Asia Shops erhältlich ist. (Buree Schmitt)
 
 [Mehr lesen >](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lenzites_adhaerens_01_us.jpg" %}
-{% include abbildung_ende.html %}
-
-29.07.2024: Eigentlich ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Harzige Sägeblättling *Lentinus adhaerens*, ein typischer Winterpilz, der aber das ganze Jahr über fruktifizieren kann. So auch während unserer Juli-Exkursion bei Hornberg-Reichenberg in einem Nadelmischwald mit eingestreuten Laubbäumen. Mit der Lupe erkennt man, dass die stark untermischten Lamellen eine fein gesägte Schneide besitzen. Der Geschmack ist bitter und im Hals etwas kratzend. (Bernd Miggel)
-
-[Mehr lesen >](/pilze/lentinus-adhaerens-harziger-sägeblättling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_virescens_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.07.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüngefelderte Täubling *Russula virescens*. Kenner schätzen diesen hervorragenden Speisepilz mehr als Steinpilz, Pfifferling & Co. Um so erfreulcher, dass es sich um einen gut kenntlichen Pilz handelt. In typischer Ausprägung (mit felderig aufgerissener Huthaut) ist er kaum zu verwechseln. Seine [Mykorrhizapartner](Mykorrhiza "Glossar") sind überwiegend Rotbuchen und Eichen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-virescens-grüngefelderter-täubling)
 
 <div style="clear:  both"></div>
 
