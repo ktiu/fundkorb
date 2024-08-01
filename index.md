@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/postia-guttula_03_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+02.08.2024: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") ist noch mal einer aus dem Schwarzwald, und zwar eine Art, die in Baden-Württemberg erst wenige Male nachgewiesen werden konnte: der Fleckende Saftporling *Postia guttulata*. Er könnte u. a. mit dem häufigeren [Bitteren Saftporling *Postia stiptica*](/pilze/postia-stiptica-bitterer-saftporling) verwechselt werden und ist ebenso bitter im Geschmack. Beide Arten bevorzugen Nadelhölzer wie Fichte oder Kiefer. (Bernd Miggel)
+
+[Mehr lesen >](/pilze/postia-guttulata-fleckender-saftporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_howeanum_02_xx.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 31.07.2024: : In unserer Parkanlage an der Dietzenbacher Rodgaustraße ist er seit Jahren nicht zu übersehen und daher unser aktueller [Fundkorbpilz](AA "Glossar-"): der Gemeine Feuerschwamm *Phellinus igniarius*. Die ahnungslosen Gärtner der Anlage haben die auffälligen Fruchtkörper mit brutaler Gewalt abgeschlagen und damit die Situation der befallenen Weiden nur noch verschlimmert. Die unbehandelten Wunden in der Rinde sind zu Einfallstore für weitere Schadpilze geworden. Die Feuerschwämme haben natürlich innerhalb kurzer Zeit neue Fruchtkörper gebildet, die sich prächtig entwickeln und die Lebenserwartung der Bäume weiter verkürzen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/volvariella_volvacea_02_wi.png" %}
-{% include abbildung_ende.html %}
-
-30.07.2024: In Thailand ist der aktuelle [Fundkorbpilz](AA "Glossar-"), der Schwarzstreifige Scheidling *Volvariella volvacea*, der am meisten gezüchtete und in jedem Markt frisch erhältliche Speisepilz. In freier Natur ist er allerdings ziemlich selten. Er kommt auch in deutschen Wäldern vor, aber wohl noch seltener. Wer eine Alternative zum Champignon sucht, könnte auch mal diesen als Reisstrohpilz (thailändisch: *Het fang*) bekannten Pilz ausprobieren, der als Konserve in Asia Shops erhältlich ist. (Buree Schmitt)
-
-[Mehr lesen >](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)
 
 <div style="clear:  both"></div>
 
