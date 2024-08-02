@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylaria_polymorpha_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.08.2024: Sie können schon ein wenig gruselig wirken, wenn man ihnen unverhofft begegnet. Die vielgestaltige Holzkeule *Xylaria polymorpha*, der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), wird nicht umsonst auch *"dead man´s fingers"* genannt. Die reifen [Stromata](<Stroma "Glossar">) fühlen sich ganz hart an, aber leicht, wenn man einen *"Finger"* abbricht. Als hätte man etwas Verkohltes in den Händen, werden diese ganz schwarz vom Sporenpulver. Faszinierend ist aber der Schwarz-Weiß-Kontrast, wenn man ihn aufschneidet und das Innere des Stromas betrachtet. (Ulrike Wegner)
+
+[Mehr lesen >](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/postia-guttula_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 01.08.2024: Kohlenbeeren werden von den meisten Pilzfreunden kaum beachtet, leisten als Holzzersetzer aber wertvolle Dienste im Ökosystem Wald. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), die Zimtbraune Kohlenbeere *Hypoxylon howeanum*, die vor allem an toten Eichen- oder Roteichenästen zu finden ist. Bei der Bestimmung sind neben dem Substrat auch die unterschiedlichen Sporenmaße zu beachten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_igniarius_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.07.2024: : In unserer Parkanlage an der Dietzenbacher Rodgaustraße ist er seit Jahren nicht zu übersehen und daher unser aktueller [Fundkorbpilz](AA "Glossar-"): der Gemeine Feuerschwamm *Phellinus igniarius*. Die ahnungslosen Gärtner der Anlage haben die auffälligen Fruchtkörper mit brutaler Gewalt abgeschlagen und damit die Situation der befallenen Weiden nur noch verschlimmert. Die unbehandelten Wunden in der Rinde sind zu Einfallstore für weitere Schadpilze geworden. Die Feuerschwämme haben natürlich innerhalb kurzer Zeit neue Fruchtkörper gebildet, die sich prächtig entwickeln und die Lebenserwartung der Bäume weiter verkürzen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
 
 <div style="clear:  both"></div>
 
