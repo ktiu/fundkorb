@@ -12,6 +12,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/marasmius_oreades_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+04.08.2024: Wiesen, Parkanlagen und grasige Wegränder sind typische Standorte für unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Nelkenschwindling *Marasmius oreades*. Er wächst gern in Hexenringen, seine Erkennungsmerkmale sind dickliche, etwas entfernt stehende Lamellen und der charakteristische Blausäuregeruch. Kenner schätzen ihn als wohlschmeckenden Speisepilz, den man aber sicher erkannt haben sollte, bevor man ihn für die Küche pflückt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_polymorpha_02_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -31,18 +43,6 @@ footer_scripts:
 02.08.2024: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") ist noch mal einer aus dem Schwarzwald, und zwar eine Art, die in Baden-Württemberg erst wenige Male nachgewiesen werden konnte: der Fleckende Saftporling *Postia guttulata*. Er könnte u. a. mit dem häufigeren [Bitteren Saftporling *Postia stiptica*](/pilze/postia-stiptica-bitterer-saftporling) verwechselt werden und ist ebenso bitter im Geschmack. Beide Arten bevorzugen Nadelhölzer wie Fichte oder Kiefer. (Bernd Miggel)
 
 [Mehr lesen >](/pilze/postia-guttulata-fleckender-saftporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_howeanum_02_xx.jpg" %}
-{% include abbildung_ende.html %}
-
-01.08.2024: Kohlenbeeren werden von den meisten Pilzfreunden kaum beachtet, leisten als Holzzersetzer aber wertvolle Dienste im Ökosystem Wald. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), die Zimtbraune Kohlenbeere *Hypoxylon howeanum*, die vor allem an toten Eichen- oder Roteichenästen zu finden ist. Bei der Bestimmung sind neben dem Substrat auch die unterschiedlichen Sporenmaße zu beachten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere)
 
 <div style="clear:  both"></div>
 
