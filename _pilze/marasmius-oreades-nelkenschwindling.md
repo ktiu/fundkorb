@@ -10,7 +10,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/marasmius_oreades_01_dg.jpg
+  datei: /bilder/marasmius_oreades_01_nk.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/m/Marasmius_oreades.html
 ---
