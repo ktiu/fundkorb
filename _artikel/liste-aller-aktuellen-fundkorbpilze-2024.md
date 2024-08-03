@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-03.08.2024: [Xylaria polymorpha - Vielgestaltige Holzkeule](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)  
+04.08.2024: [Marasmius oreades - Nelkenschwindling](/pilze/marasmius-oreades-nelkenschwindling)  
+03.08.2024: [Xylaria polymorpha - Vielgestaltige Holzkeule](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)\
 02.08.2024: [Postia guttulata - Fleckender Saftporling](/pilze/postia-guttulata-fleckender-saftporling)\
 01.08.2024: [Hypoxylon howeanum - Zimtbraune Kohlenbeere](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere)
 
