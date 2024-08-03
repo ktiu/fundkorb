@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/xylaria_polymorpha_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-03.08.2024: Sie können schon ein wenig gruselig wirken, wenn man ihnen unverhofft begegnet. Die vielgestaltige Holzkeule *Xylaria polymorpha*, der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), wird nicht umsonst auch *"dead man´s fingers"* genannt. Die reifen [Stromata](Stroma "Glossar") fühlen sich ganz hart an, aber leicht, wenn man einen *"Finger"* abbricht. Als hätte man etwas Verkohltes in den Händen, werden diese ganz schwarz vom Sporenpulver. Faszinierend ist aber der Schwarz-Weiß-Kontrast, wenn man ihn aufschneidet und das Innere des Stromas betrachtet. (Ulrike Wegner)
+03.08.2024: Sie können schon ein wenig gruselig wirken, wenn man ihnen unverhofft begegnet. Die Vielgestaltige Holzkeule *Xylaria polymorpha*, der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), wird nicht umsonst auch *"dead man´s fingers"* genannt. Die reifen [Stromata](Stroma "Glossar") fühlen sich ganz hart an, aber leicht, wenn man einen *"Finger"* abbricht. Als hätte man etwas Verkohltes in den Händen, werden diese ganz schwarz vom Sporenpulver. Faszinierend ist aber der Schwarz-Weiß-Kontrast, wenn man ihn aufschneidet und das Innere des Stromas betrachtet. (Ulrike Wegner)
 
 [Mehr lesen >](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)
 
