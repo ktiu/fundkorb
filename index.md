@@ -12,6 +12,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sparassis_crispa_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die bei vielen Pilzfreunden äußerst beliebte Krause Glucke *Sparassis crispa*, die in diesem Jahr schon sehr früh erschienen ist. Sie wird nicht nur wegen ihres Geschmacks geschätzt, sondern auch weil sie nahezu unverwechselbar ist. Zu finden ist sie fast ausschließlich am Stammgrund von Kiefern oder an deren Stümpfen. Forstwirte sehen sie weniger gern, denn die *Fette Henne*, wie sie auch genannt wird, ist ein Schwächeparasit, der befallene Bäume schädigt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/sparassis-crispa-krause-glucke)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/marasmius_oreades_01_nk.jpg" %}
 {% include abbildung_ende.html %}
@@ -31,18 +43,6 @@ footer_scripts:
 03.08.2024: Sie können schon ein wenig gruselig wirken, wenn man ihnen unverhofft begegnet. Die Vielgestaltige Holzkeule *Xylaria polymorpha*, der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), wird nicht umsonst auch *"dead man´s fingers"* genannt. Die reifen [Stromata](Stroma "Glossar") fühlen sich ganz hart an, aber leicht, wenn man einen *"Finger"* abbricht. Als hätte man etwas Verkohltes in den Händen, werden diese ganz schwarz vom Sporenpulver. Faszinierend ist aber der Schwarz-Weiß-Kontrast, wenn man ihn aufschneidet und das Innere des Stromas betrachtet. (Ulrike Wegner)
 
 [Mehr lesen >](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/postia-guttula_03_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-02.08.2024: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") ist noch mal einer aus dem Schwarzwald, und zwar eine Art, die in Baden-Württemberg erst wenige Male nachgewiesen werden konnte: der Fleckende Saftporling *Postia guttulata*. Er könnte u. a. mit dem häufigeren [Bitteren Saftporling *Postia stiptica*](/pilze/postia-stiptica-bitterer-saftporling) verwechselt werden und ist ebenso bitter im Geschmack. Beide Arten bevorzugen Nadelhölzer wie Fichte oder Kiefer. (Bernd Miggel)
-
-[Mehr lesen >](/pilze/postia-guttulata-fleckender-saftporling)
 
 <div style="clear:  both"></div>
 
