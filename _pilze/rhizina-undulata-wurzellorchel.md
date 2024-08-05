@@ -26,7 +26,7 @@ Die Wuzellorchel (auch Wellige Wurzellorchel genannt) ist die einzige Art in der
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/rhizina_undulata_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="3. August 2024: im Nadelwald an der Gänsbrüh, Rodgau-Dudenhofen" %}
+{% include abbildung_ende.html legende="3. August 2024: junge Fruchtkörper im Nadelwald an der Gänsbrüh, Rodgau-Dudenhofen" %}
 
 Nachtrag (3. August 2024): Ein Fund der Wurzellorchel an einem Waldwegrand (nahe bei Kiefern und Fichten, Gänsbrüh Rodgau-Dudenhofen) lässt Zweifel an der oft formulierten Behauptung aufkommen, dass die Art auf Brandstellen spezialisiert sei. Hier war garantiert <ins>keine</ins> Brandstelle! Völlig korrekt beschreiben Breitenbach & Kränzlin typische Standorte so:
 
