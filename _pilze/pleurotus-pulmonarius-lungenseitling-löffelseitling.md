@@ -81,7 +81,8 @@ Wenn die Huthaut so deutlich weißlich, höchstens hellgrau gefärbt ist wie auf
 </div>
 
 {% include abbildung_start.html stil="standard" %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/pleurotus_pulmoniarius_04_uw.jpg" %}
+{% include abbildung_ende.html legende="Lungenseitling Pleurotus pulmonarius (Foto: Ulrike Wegner)" %}
 
 Wie man sieht, sind die aufgeführten Unterschiede in der Praxis nur schwer nachzuvollziehen. Die Angaben zur Dicke der Huthaut sind im Zehntel-Millimeter-Bereich, also auch nicht gerade hilfreich. Und hellere Austernseitlinge sind farblich kaum von etwas dunkler geratenen Lungenseitlingen zu unterscheiden. Für die Küche ist das ohne Belang, denn beide sind gute Speisepilze von gleicher Wertigkeit. Verwechselt werden könnte der Lungenseitling auch mit dem [Rillstieligen Seitling *Pleurotus cornucopiae*](/pilze/pleurotus-cornucopiae-rillstieliger-seitling), der ebenfall essbar ist.
 
