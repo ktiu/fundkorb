@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-05.08.2024: [Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)  
+06.08.2024: [Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)  
+05.08.2024: [Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)\
 04.08.2024: [Marasmius oreades - Nelkenschwindling](/pilze/marasmius-oreades-nelkenschwindling)\
 03.08.2024: [Xylaria polymorpha - Vielgestaltige Holzkeule](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)\
 02.08.2024: [Postia guttulata - Fleckender Saftporling](/pilze/postia-guttulata-fleckender-saftporling)\
