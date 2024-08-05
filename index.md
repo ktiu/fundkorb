@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_phalloides_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüne Knollenblätterpilz *Amanita phalloides*. In einem Roteichenforst zwischen Dietzenbach und Rodgau ist er zur Zeit zwischen Sommersteinpilzen, Perlpilzen und Pfifferlingen eine häufige Art und zugleich eine Mahnung an alle Hobbypilzsammler, Vorsicht walten zu lassen. Ein einziges Exemplar kann tödlich sein, wenn in der Intensivstation der Klinik nicht rechtzeitig eine Spenderleber zur Verfügung steht. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/sparassis_crispa_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 04.08.2024: Wiesen, Parkanlagen und grasige Wegränder sind typische Standorte für unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Nelkenschwindling *Marasmius oreades*. Er wächst gern in Hexenringen, seine Erkennungsmerkmale sind dickliche, etwas entfernt stehende Lamellen und der charakteristische Blausäuregeruch. Kenner schätzen ihn als wohlschmeckenden Speisepilz, den man aber sicher erkannt haben sollte, bevor man ihn für die Küche pflückt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_polymorpha_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.08.2024: Sie können schon ein wenig gruselig wirken, wenn man ihnen unverhofft begegnet. Die Vielgestaltige Holzkeule *Xylaria polymorpha*, der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), wird nicht umsonst auch *"dead man´s fingers"* genannt. Die reifen [Stromata](Stroma "Glossar") fühlen sich ganz hart an, aber leicht, wenn man einen *"Finger"* abbricht. Als hätte man etwas Verkohltes in den Händen, werden diese ganz schwarz vom Sporenpulver. Faszinierend ist aber der Schwarz-Weiß-Kontrast, wenn man ihn aufschneidet und das Innere des Stromas betrachtet. (Ulrike Wegner)
-
-[Mehr lesen >](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)
 
 <div style="clear:  both"></div>
 
