@@ -80,6 +80,9 @@ Wenn die Huthaut so deutlich weißlich, höchstens hellgrau gefärbt ist wie auf
   </table>
 </div>
 
+{% include abbildung_start.html stil="standard" %}
+{% include abbildung_ende.html %}
+
 Wie man sieht, sind die aufgeführten Unterschiede in der Praxis nur schwer nachzuvollziehen. Die Angaben zur Dicke der Huthaut sind im Zehntel-Millimeter-Bereich, also auch nicht gerade hilfreich. Und hellere Austernseitlinge sind farblich kaum von etwas dunkler geratenen Lungenseitlingen zu unterscheiden. Für die Küche ist das ohne Belang, denn beide sind gute Speisepilze von gleicher Wertigkeit. Verwechselt werden könnte der Lungenseitling auch mit dem [Rillstieligen Seitling *Pleurotus cornucopiae*](/pilze/pleurotus-cornucopiae-rillstieliger-seitling), der ebenfall essbar ist.
 
 Zu achten ist auf das Substrat. Sowohl Austern- wie Lungenseitling wachsen an totem Laubholz, in der Regel an Buche, selten an anderen Laubhölzern. Es sollte immer ein Stiel erkennbar sein. Eine dem Lungenseitling ähnliche Art, die stiellos an Nadelholz wächst, ist der Ohrförmige Seitling *Pleurocybella porrigens*, auch „Engelsflügel“ genannt.
