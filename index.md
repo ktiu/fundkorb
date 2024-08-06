@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pleurotus_pulmoniarius_04_uw.jpg" %}
+{% include abbildung_ende.html %}
+
+07.08.2024: Fast jungfräulich weiß zeigte er sich in Kniehöhe in einem Jügesheimer Roteichenwald. Der Lungen-Seitling *Pleurotus pulmonarius*, unser aktueller [Fundkorbpilz](AA "Glossar-"), benötigt - anders als der sehr variable, aber dunklere, grau bis graubraun gefärbte [Austernseitling](/pilze/pleurotus-ostreatus-austernseitling) - keinen Kältereiz, um zu fruktizieren. Von unten tummelte sich eine Vielzahl an so genannten "Tummel-" oder Pilzfliegen am kurzen Stielansatz. Sie ließen sich jedoch nach kurzem Antippen herunterfallen. Trotzdem wurde der eher knorpelige Stiel noch an Ort und Stelle entfernt, bevor das Pilzbüschel in den Korb für ein leckeres Abendessen wanderte. (Ulrike Wegner)
+
+[Mehr lesen >](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_phalloides_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 05.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die bei vielen Pilzfreunden äußerst beliebte Krause Glucke *Sparassis crispa*, die in diesem Jahr schon sehr früh erschienen ist. Sie wird nicht nur wegen ihres Geschmacks geschätzt, sondern auch weil sie nahezu unverwechselbar ist. Zu finden ist sie fast ausschließlich am Stammgrund von Kiefern oder an deren Stümpfen. Forstwirte sehen sie weniger gern, denn die *Fette Henne*, wie sie auch genannt wird, ist ein Schwächeparasit, der befallene Bäume schädigt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/sparassis-crispa-krause-glucke)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/marasmius_oreades_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-04.08.2024: Wiesen, Parkanlagen und grasige Wegränder sind typische Standorte für unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Nelkenschwindling *Marasmius oreades*. Er wächst gern in Hexenringen, seine Erkennungsmerkmale sind dickliche, etwas entfernt stehende Lamellen und der charakteristische Blausäuregeruch. Kenner schätzen ihn als wohlschmeckenden Speisepilz, den man aber sicher erkannt haben sollte, bevor man ihn für die Küche pflückt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
 
 <div style="clear:  both"></div>
 
