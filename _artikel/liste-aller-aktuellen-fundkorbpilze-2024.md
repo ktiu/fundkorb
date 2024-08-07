@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-07.08.2024: [Pleurotus pulmonarius - Lungenseitling](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)  
+08.08.2024: [Rhizina undulata - Wurzellorchel](/pilze/rhizina-undulata-wurzellorchel)  
+07.08.2024: [Pleurotus pulmonarius - Lungenseitling](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)\
 06.08.2024: [Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)\
 05.08.2024: [Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)\
 04.08.2024: [Marasmius oreades - Nelkenschwindling](/pilze/marasmius-oreades-nelkenschwindling)\
