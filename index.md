@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rhizina_undulata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.08.2024: Braucht unser aktueller [Fundkorbpilz](AA "Glossar-"), die Wurzellorchel *Rhizina undulata*, wirklich immer einen Waldbrand oder eine Brandstelle, um fruktifizieren zu können? Bei unserem Fund an einem Waldwegrand an der Gänsbrüh in Rodgau-Dudenhofen war garantiert keines von beiden der Fall. In der Literatur findet man vermehrt Hinweise, dass sie auch ohne Brandeinwirkung in Fichtenschonungen und Kahlschlägen vorkommen kann. Mit anderen Lorcheln ist sie kaum zu verwechseln. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/rhizina-undulata-wurzellorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pleurotus_pulmoniarius_04_uw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 06.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüne Knollenblätterpilz *Amanita phalloides*. In einem Roteichenforst zwischen Dietzenbach und Rodgau ist er zur Zeit zwischen Sommersteinpilzen, Perlpilzen und Pfifferlingen eine häufige Art und zugleich eine Mahnung an alle Hobbypilzsammler, Vorsicht walten zu lassen. Ein einziges Exemplar kann tödlich sein, wenn in der Intensivstation der Klinik nicht rechtzeitig eine Spenderleber zur Verfügung steht. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/sparassis_crispa_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die bei vielen Pilzfreunden äußerst beliebte Krause Glucke *Sparassis crispa*, die in diesem Jahr schon sehr früh erschienen ist. Sie wird nicht nur wegen ihres Geschmacks geschätzt, sondern auch weil sie nahezu unverwechselbar ist. Zu finden ist sie fast ausschließlich am Stammgrund von Kiefern oder an deren Stümpfen. Forstwirte sehen sie weniger gern, denn die *Fette Henne*, wie sie auch genannt wird, ist ein Schwächeparasit, der befallene Bäume schädigt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/sparassis-crispa-krause-glucke)
 
 <div style="clear:  both"></div>
 
