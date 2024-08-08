@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: undulata = gewellt  (aha! - "undulieren" beim Damenfriseur)
   synonym: "Synonym: Rhizina inflata"
 profil:
-  aktualisiert: 2021-02-05
+  aktualisiert: 2024-08-05
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
