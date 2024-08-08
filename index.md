@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/rhizina_undulata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-08.08.2024: Braucht unser aktueller [Fundkorbpilz](AA "Glossar-"), die Wurzellorchel *Rhizina undulata*, wirklich immer einen Waldbrand oder eine Brandstelle, um fruktifizieren zu können? Bei unserem Fund an einem Waldwegrand an der Gänsbrüh in Rodgau-Dudenhofen war garantiert keines von beiden der Fall. In der Literatur findet man vermehrt Hinweise, dass sie auch ohne Brandeinwirkung in Fichtenschonungen und Kahlschlägen vorkommen kann. Mit anderen Lorcheln ist sie kaum zu verwechseln. (Dieter Gewalt)
+08.08.2024: Braucht unser aktueller [Fundkorbpilz](AA "Glossar-"), die Wurzellorchel *Rhizina undulata*, wirklich immer einen Waldbrand oder eine Brandstelle, um fruktifizieren zu können? Bei unserem Fund an einem Waldwegrand an der Gänsbrüh in Rodgau-Dudenhofen war garantiert keines von beiden der Fall. In der Literatur findet man vermehrt Hinweise, dass sie auch ohne Brandeinwirkung in Fichtenschonungen und Kahlschlägen vorkommen kann. Mit anderen [Lorcheln](/verwandt/lorcheln) ist sie kaum zu verwechseln. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/rhizina-undulata-wurzellorchel)
 
