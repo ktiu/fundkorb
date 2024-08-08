@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/delicatula_integrella_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weiße Adernabeling *Delicatula integrella*. Er ist zwar winzig, aber mit seiner alabasterweißen Farbe durchaus auffällig und attraktiv. Man kann ihn vom Frühjahr bis in den Spätherbst an feuchtem oder im Boden verborgenem totem Holz finden, mitunter in enormen Mengen. Seine Lamellen sind zu flach erhabenen Äderchen reduziert. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/delicatula-integrella-weißer-adernabeling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rhizina_undulata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
