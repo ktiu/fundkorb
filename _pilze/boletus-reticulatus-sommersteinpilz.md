@@ -16,7 +16,12 @@ published: true
 literatur:
   - url: http://tintling.com/pilzbuch/arten/b/Boletus_reticulatus.html
 ---
-Im Gegensatz zum Gemeinen Steinpilz (*Boletus edulis*) hat der Sommersteinpilz einen trockenen, feinfilzigen Hut ohne weißen Randsaum, sein meist bauchiger, oft aber auch schlanker Stiel ist in ganzer Länge von einem Netzmuster überzogen. Wie bei allen vier in Deutschland vorkommenden Steinpilzarten ist sein Fleisch unveränderlich weiß.
+Im Gegensatz zum Gemeinen Steinpilz (*Boletus edulis*) hat der Sommersteinpilz einen trockenen, feinfilzigen Hut ohne deutlichen weißen Randsaum, sein meist bauchiger, oft aber auch schlanker Stiel ist in ganzer Länge von einem Netzmuster überzogen. Wie bei allen vier in Deutschland vorkommenden Steinpilzarten ist sein Fleisch unveränderlich weiß.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/boletus_reticulatus_02_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/boletus_reticulatus_03_fk.jpeg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Frühe Funde aus dem Ansfeldwald  (1. Juni 2014)  --  Junger Sommersteinpilz (ebenfalls Ansfeldwald, Foto: Frank Kaster)" %}
 
 ### Merkmale, an denen man die vier mitteleuropäischen Steinpilzarten unterscheiden kann:
 
