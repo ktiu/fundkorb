@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_rubellus_02_mg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.08.2024: Zu den zahlreichen Röhrlingsarten, die zur Zeit in der Dietzenbacher Parkanlage an der Rodgaustraße zu finden sind, gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blutrote Filzröhrling *Xerocomus rubellus*. Nicht nur der rote Hut macht den Unterschied zum [Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling). Auch das Rot am Stiel ist eher fein punktiert als längsstreifig. Mit der Beifügung „eher“ kommt aber schon zum Ausdruck, dass bei Pilzen viele Merkmale fließend und innerhalb der oft enormen Variabilität nur schwer abgrenzbar sein können. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xerocomus-rubellus-blutroter-filzröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/delicatula_integrella_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 08.08.2024: Braucht unser aktueller [Fundkorbpilz](AA "Glossar-"), die Wurzellorchel *Rhizina undulata*, wirklich immer einen Waldbrand oder eine Brandstelle, um fruktifizieren zu können? Bei unserem Fund an einem Waldwegrand an der Gänsbrüh in Rodgau-Dudenhofen war garantiert keines von beiden der Fall. In der Literatur findet man vermehrt Hinweise, dass sie auch ohne Brandeinwirkung in Fichtenschonungen und Kahlschlägen vorkommen kann. Mit anderen [Lorcheln](/verwandt/lorcheln) ist sie kaum zu verwechseln. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/rhizina-undulata-wurzellorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pleurotus_pulmoniarius_04_uw.jpg" %}
-{% include abbildung_ende.html %}
-
-07.08.2024: Fast jungfräulich weiß zeigte er sich in Kniehöhe in einem Jügesheimer Roteichenwald. Der Lungen-Seitling *Pleurotus pulmonarius*, unser aktueller [Fundkorbpilz](AA "Glossar-"), benötigt - anders als der sehr variable, aber dunklere, grau bis graubraun gefärbte [Austernseitling](/pilze/pleurotus-ostreatus-austernseitling) - keinen Kältereiz, um zu fruktizieren. Von unten tummelte sich eine Vielzahl an so genannten "Tummel-" oder Pilzfliegen am kurzen Stielansatz. Sie ließen sich jedoch nach kurzem Antippen herunterfallen. Trotzdem wurde der eher knorpelige Stiel noch an Ort und Stelle entfernt, bevor das Pilzbüschel in den Korb für ein leckeres Abendessen wanderte. (Ulrike Wegner)
-
-[Mehr lesen >](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_phalloides_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grüne Knollenblätterpilz *Amanita phalloides*. In einem Roteichenforst zwischen Dietzenbach und Rodgau ist er zur Zeit zwischen Sommersteinpilzen, Perlpilzen und Pfifferlingen eine häufige Art und zugleich eine Mahnung an alle Hobbypilzsammler, Vorsicht walten zu lassen. Ein einziges Exemplar kann tödlich sein, wenn in der Intensivstation der Klinik nicht rechtzeitig eine Spenderleber zur Verfügung steht. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz)
 
 <div style="clear:  both"></div>
 
