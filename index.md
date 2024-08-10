@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cordyceps_ophioglossoides_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zungenkernkeule *Cordyceps ophioglossoides*, die jetzt *Tolypocladium ophioglossoides* heißen muss. Sie hat eine gewisse Ähnlichkeit mit Erdzungen (Gattung *Geoglossum*). Zur Abgrenzung braucht man jedoch nur einen Fruchtkörper mit etwas Sorgfalt aus dem Boden zu ziehen. Der Stiel entspringt einem gelben Myzelstrang, den man bis zu seinem im Substrat verborgenen Ursprung verfolgen kann. Er endet an einer Hirschtrüffel und damit ist der Fall geklärt. Auch für die Hirschtrüffel, auf der die Zungenkernkeule parasitiert. Sie wird sich nicht mehr zu einem reifen Pilz entwickeln. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cordyceps-ophioglossoides-zungenkernkeule)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_rubellus_02_mg.jpg" %}
 {% include abbildung_ende.html %}
 
