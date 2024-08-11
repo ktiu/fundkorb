@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_helvus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.08.2024: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") *Lactarius helvus* ist unter zwei deutschen Namen bekannt: Bruch-Reizker und Maggipilz. Beide weisen auf zwei seiner markantesten Eigenschaften hin, seine brüchige Konsistenz und den Geruch nach Liebstöckel oder Maggi. Er enthält sogenannte *Terpene*, die Magen-/Darmbeschwerden verursachen können. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lactarius-helvus-bruch-reizker-maggipilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cordyceps_ophioglossoides_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 10.08.2024: Zu den zahlreichen Röhrlingsarten, die zur Zeit in der Dietzenbacher Parkanlage an der Rodgaustraße zu finden sind, gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blutrote Filzröhrling *Xerocomus rubellus*. Nicht nur der rote Hut macht den Unterschied zum [Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling). Auch das Rot am Stiel ist eher fein punktiert als längsstreifig. Mit der Beifügung „eher“ kommt aber schon zum Ausdruck, dass bei Pilzen viele Merkmale fließend und innerhalb der oft enormen Variabilität nur schwer abgrenzbar sein können. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/xerocomus-rubellus-blutroter-filzröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/delicatula_integrella_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weiße Adernabeling *Delicatula integrella*. Er ist zwar winzig, aber mit seiner alabasterweißen Farbe durchaus auffällig und attraktiv. Man kann ihn vom Frühjahr bis in den Spätherbst an feuchtem oder im Boden verborgenem totem Holz finden, mitunter in enormen Mengen. Seine Lamellen sind zu flach erhabenen Äderchen reduziert. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/delicatula-integrella-weißer-adernabeling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rhizina_undulata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.08.2024: Braucht unser aktueller [Fundkorbpilz](AA "Glossar-"), die Wurzellorchel *Rhizina undulata*, wirklich immer einen Waldbrand oder eine Brandstelle, um fruktifizieren zu können? Bei unserem Fund an einem Waldwegrand an der Gänsbrüh in Rodgau-Dudenhofen war garantiert keines von beiden der Fall. In der Literatur findet man vermehrt Hinweise, dass sie auch ohne Brandeinwirkung in Fichtenschonungen und Kahlschlägen vorkommen kann. Mit anderen [Lorcheln](/verwandt/lorcheln) ist sie kaum zu verwechseln. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/rhizina-undulata-wurzellorchel)
 
 <div style="clear:  both"></div>
 
