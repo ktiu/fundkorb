@@ -28,7 +28,7 @@ literatur:
   - url: https://de.wikipedia.org/wiki/Cladonia_digitata
   - url: https://blam-bl.de/53-blam/moos-und-flechte-des-jahres/2020/150-moos-und-flechte-des-jahres-2020-ii-iii.html
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/cladonia_digitata_01_lh.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/cladonia_digitata_02_lh.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Abb. links: Cladonia digitata auf Kiefernrinde, Stammfußbereich -- Abb. rechts: ungleichmäßig geformte Podetien, vorn im Bild eine sehr große Grundschuppe, die roten Punkte oben sind winzige Apothecien (alle Fotos dieser Seite von Liss Hoffmann)" %}
