@@ -64,3 +64,5 @@ Im Längsschnitt eines Apotheciums erkennt man von oben nach unten grünlichblau
 Die Gewöhnliche Schwarzpunktflechte *Amandinea/Buellia punctata* besitzt ein undeutliches, mit Kalilauge, Chlorkalklösung und Kalilauge + Chlorkalklösung nicht reagierendes Lager. Die Sporen sind braun und 2-zellig.\
 Die Scheiben-Schwarzpunktflechte *Buellia disciformis* besitzt bis 1,3 mm breite Apothecien und 2-zellige, braune Sporen.\
 Die Schwarzkeulige Kesselflechte *Catillaria nigroclavata* hat kleinere Apothecien und sehr schmale, 2-zellige, farblose Sporen
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
