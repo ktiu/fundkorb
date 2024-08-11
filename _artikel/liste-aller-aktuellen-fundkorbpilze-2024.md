@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-11.08.2024: [Cordyceps ophioglossoides - Zungenkernkeule](/pilze/cordyceps-ophioglossoides-zungenkernkeule)  
+12.08.2024: [Lactarius helvus - Bruchreizker, Maggipilz](/pilze/lactarius-helvus-bruch-reizker-maggipilz)  
+11.08.2024: [Cordyceps ophioglossoides - Zungenkernkeule](/pilze/cordyceps-ophioglossoides-zungenkernkeule)\
 10.08.2024: [Xerocomus rubellus - Blutroter Filzröhrling](/pilze/xerocomus-rubellus-blutroter-filzröhrling)\
 09.08.2024: [Delicatula integrella - Weißer Adernabeling](/pilze/delicatula-integrella-weißer-adernabeling)\
 08.08.2024: [Rhizina undulata - Wurzellorchel](/pilze/rhizina-undulata-wurzellorchel)\
