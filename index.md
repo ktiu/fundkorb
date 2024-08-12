@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leucoagaricus_americanus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelige Egerlingsschirmling *Leucoagaricus americanus*. Er wuchs in unserer Dietzenbacher Parkanlage unter dichtem Gestrüpp und wäre beinahe übersehen worden. Man achte auf das wunderschöne Muster, das die Schüppchen auf der Hutoberseite vor allem zum Rand hin zeigen. Am besten vergrößert anschauen (einfach aufs Bild klicken). Der Pilz könnte bei oberflächlicher Betrachtung für einen Riesenschirmling gehalten werden, ist aber kein Speisepilz sondern giftverdächtig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leucoagaricus-americanus-büscheliger-egerlingsschirmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_helvus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 11.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zungenkernkeule *Cordyceps ophioglossoides*, die jetzt *Tolypocladium ophioglossoides* heißen muss. Sie hat eine gewisse Ähnlichkeit mit Erdzungen (Gattung *Geoglossum*). Zur Abgrenzung braucht man jedoch nur einen Fruchtkörper mit etwas Sorgfalt aus dem Boden zu ziehen. Der Stiel entspringt einem gelben Myzelstrang, den man bis zu seinem im Substrat verborgenen Ursprung verfolgen kann. Er endet an einer Hirschtrüffel und damit ist der Fall geklärt. Auch für die Hirschtrüffel, auf der die Zungenkernkeule parasitiert. Sie wird sich nicht mehr zu einem reifen Pilz entwickeln. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cordyceps-ophioglossoides-zungenkernkeule)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_rubellus_02_mg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.08.2024: Zu den zahlreichen Röhrlingsarten, die zur Zeit in der Dietzenbacher Parkanlage an der Rodgaustraße zu finden sind, gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blutrote Filzröhrling *Xerocomus rubellus*. Nicht nur der rote Hut macht den Unterschied zum [Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling). Auch das Rot am Stiel ist eher fein punktiert als längsstreifig. Mit der Beifügung „eher“ kommt aber schon zum Ausdruck, dass bei Pilzen viele Merkmale fließend und innerhalb der oft enormen Variabilität nur schwer abgrenzbar sein können. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xerocomus-rubellus-blutroter-filzröhrling)
 
 <div style="clear:  both"></div>
 
