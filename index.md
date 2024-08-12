@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/leucoagaricus_americanus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-13.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelige Egerlingsschirmling *Leucoagaricus americanus*. Er wuchs in unserer Dietzenbacher Parkanlage unter dichtem Gestrüpp und wäre beinahe übersehen worden. Man achte auf das wunderschöne Muster, das die Schüppchen auf der Hutoberseite vor allem zum Rand hin zeigen. Am besten vergrößert anschauen (einfach aufs Bild klicken). Der Pilz könnte bei oberflächlicher Betrachtung für einen Riesenschirmling gehalten werden, ist aber kein Speisepilz sondern giftverdächtig. (Dieter Gewalt)
+13.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelige Egerlingsschirmling *Leucoagaricus americanus*. Er wuchs in unserer Dietzenbacher Parkanlage unter dichtem Gestrüpp und wäre beinahe übersehen worden. Man achte auf das wunderschöne Muster, das die Schüppchen auf der Hutoberseite vor allem zum Rand hin zeigen. Der Pilz könnte bei oberflächlicher Betrachtung für einen Riesenschirmling gehalten werden, ist aber kein Speisepilz sondern giftverdächtig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/leucoagaricus-americanus-büscheliger-egerlingsschirmling)
 
