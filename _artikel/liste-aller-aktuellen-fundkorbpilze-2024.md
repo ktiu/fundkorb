@@ -2,7 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-14.08.2024: [Xerocomus parasiticus - Schmarotzer-Röhrling](/pilze/xerocomus-parasiticus-schmarotzer-röhrling)
+14.08.2024: [Xerocomus parasiticus - Schmarotzer-Röhrling](/pilze/xerocomus-parasiticus-schmarotzer-röhrling)  
 13.08.2024: [Leucoagaricus americanus - Büscheliger Egerlingsschirmling](/pilze/leucoagaricus-americanus-büscheliger-egerlingsschirmling)\
 12.08.2024: [Lactarius helvus - Bruchreizker, Maggipilz](/pilze/lactarius-helvus-bruch-reizker-maggipilz)\
 11.08.2024: [Cordyceps ophioglossoides - Zungenkernkeule](/pilze/cordyceps-ophioglossoides-zungenkernkeule)\
