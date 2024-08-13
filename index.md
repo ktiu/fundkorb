@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_parasiticus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.08.2024: Obwohl derzeit überall die [Kartoffelboviste](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist) aus dem Waldboden sprießen, ist der aktuelle [Fundkorbpilz](AA "Glossar-"), der Schmarotzer-Röhrling *Xerocomus parasiticus*, der auf ihnen parasitiert, ein eher seltener Anblick. Um so schöner, gleich drei Funde im nördlichen Dietzenbacher Wald melden zu können. In Europa ist er der einzige parasitische Röhrling und wird in Roten Listen als „gefährdet“ eingestuft. Obwohl er - trotz Giftigkeit seines Wirts - als essbar gilt, sollte er daher geschont werden. (Ulrike Wegner)
+
+[Mehr lesen >](/pilze/xerocomus-parasiticus-schmarotzer-röhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leucoagaricus_americanus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 12.08.2024: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") *Lactarius helvus* ist unter zwei deutschen Namen bekannt: Bruch-Reizker und Maggipilz. Beide weisen auf zwei seiner markantesten Eigenschaften hin, seine brüchige Konsistenz und den Geruch nach Liebstöckel oder Maggi. Er enthält sogenannte *Terpene*, die Magen-/Darmbeschwerden verursachen können. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lactarius-helvus-bruch-reizker-maggipilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cordyceps_ophioglossoides_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zungenkernkeule *Cordyceps ophioglossoides*, die jetzt *Tolypocladium ophioglossoides* heißen muss. Sie hat eine gewisse Ähnlichkeit mit Erdzungen (Gattung *Geoglossum*). Zur Abgrenzung braucht man jedoch nur einen Fruchtkörper mit etwas Sorgfalt aus dem Boden zu ziehen. Der Stiel entspringt einem gelben Myzelstrang, den man bis zu seinem im Substrat verborgenen Ursprung verfolgen kann. Er endet an einer Hirschtrüffel und damit ist der Fall geklärt. Auch für die Hirschtrüffel, auf der die Zungenkernkeule parasitiert. Sie wird sich nicht mehr zu einem reifen Pilz entwickeln. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cordyceps-ophioglossoides-zungenkernkeule)
 
 <div style="clear:  both"></div>
 
