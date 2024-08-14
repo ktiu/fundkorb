@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/daldinia_concentrica_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-15.08.2024: Diesen kohleartig schwarzen kugeligen [Ascomyzeten](<Ascomyzeten "Glossar">) fanden wir vor kurzem während einer Exkursion bei Rodgau-Dudenhofen an einem Feldrand auf einem Totholzhaufen. Es ist der Kohlen-Kugelpilz *Daldinia concentrica* und unser aktueller [Fundkorbpilz](AA "Glossar-"). Im Anschnitt zeigen die etwa 2 - 4 cm großen Fruchtkörper das für die Gattung typische konzentrische Streifenmuster. (Dieter Gewalt)
+15.08.2024: Diesen kohleartig schwarzen kugeligen [Ascomyzeten](Ascomyzeten "Glossar") fanden wir vor kurzem während einer Exkursion bei Rodgau-Dudenhofen an einem Feldrand auf einem Totholzhaufen. Es ist der Kohlen-Kugelpilz *Daldinia concentrica* und unser aktueller [Fundkorbpilz](AA "Glossar-"). Im Anschnitt zeigen die etwa 2 - 4 cm großen Fruchtkörper das für die Gattung typische konzentrische Streifenmuster. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/daldinia-concentrica-kohlen-kugelpilz)
 
