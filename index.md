@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_crocea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.08.2024: Unser Dietzenbacher Carré liefert aktuelle [Fundkorbpilze](AA "Glossar-") fast schon am Fließband. Heute ist es der Orangegelbe Scheidenstreifling *Amanita crocea*, einer der prächtigsten und stämmigsten in der Untergattung *Amanitopsis*. In der Nähe eines Kinderspielplatzes hat er bei einigen Birken seinen seit Jahren zuverlässigen Wuchsort und Mykorrhizapartner gefunden. Er ist essbar, aber bestimmt keine Delikatesse. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-crocea-orangegelber-scheidenstreifling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/daldinia_concentrica_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 14.08.2024: Obwohl derzeit überall die [Kartoffelboviste](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist) aus dem Waldboden sprießen, ist der aktuelle [Fundkorbpilz](AA "Glossar-"), der Schmarotzer-Röhrling *Xerocomus parasiticus*, der auf ihnen parasitiert, ein eher seltener Anblick. Um so schöner, gleich drei Funde im nördlichen Dietzenbacher Wald melden zu können. In Europa ist er der einzige parasitische Röhrling und wird in Roten Listen als „gefährdet“ eingestuft. Obwohl er - trotz Giftigkeit seines Wirts - als essbar gilt, sollte er daher geschont werden. (Ulrike Wegner)
 
 [Mehr lesen >](/pilze/xerocomus-parasiticus-schmarotzer-röhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leucoagaricus_americanus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelige Egerlingsschirmling *Leucoagaricus americanus*. Er wuchs in unserer Dietzenbacher Parkanlage unter dichtem Gestrüpp und wäre beinahe übersehen worden. Man achte auf das wunderschöne Muster, das die Schüppchen auf der Hutoberseite vor allem zum Rand hin zeigen. Der Pilz könnte bei oberflächlicher Betrachtung für einen Riesenschirmling gehalten werden, ist aber kein Speisepilz sondern giftverdächtig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leucoagaricus-americanus-büscheliger-egerlingsschirmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_helvus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.08.2024: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") *Lactarius helvus* ist unter zwei deutschen Namen bekannt: Bruch-Reizker und Maggipilz. Beide weisen auf zwei seiner markantesten Eigenschaften hin, seine brüchige Konsistenz und den Geruch nach Liebstöckel oder Maggi. Er enthält sogenannte *Terpene*, die Magen-/Darmbeschwerden verursachen können. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lactarius-helvus-bruch-reizker-maggipilz)
 
 <div style="clear:  both"></div>
 
