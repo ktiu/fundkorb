@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-15.08.2024: [Daldinia concentrica - Kohlen-Kugelpilz](/pilze/daldinia-concentrica-kohlen-kugelpilz)  
+16.08.2024: [Amanita crocea - Orangegelber Scheidenstreifling](/pilze/amanita-crocea-orangegelber-scheidenstreifling)  
+15.08.2024: [Daldinia concentrica - Kohlen-Kugelpilz](/pilze/daldinia-concentrica-kohlen-kugelpilz)\
 14.08.2024: [Xerocomus parasiticus - Schmarotzer-Röhrling](/pilze/xerocomus-parasiticus-schmarotzer-röhrling)\
 13.08.2024: [Leucoagaricus americanus - Büscheliger Egerlingsschirmling](/pilze/leucoagaricus-americanus-büscheliger-egerlingsschirmling)\
 12.08.2024: [Lactarius helvus - Bruchreizker, Maggipilz](/pilze/lactarius-helvus-bruch-reizker-maggipilz)\
