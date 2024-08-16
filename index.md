@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_arcularius_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der *Weitlöcherige Stielporling Polyporus arcularius*. Er ist zweifellos eine der schönsten Arten unter den Stielporlingen, was auf die wabenartigen, mehr oder weniger am Stiel herablaufenden Poren und den zart bewimperten Hutrand zurückzuführen ist. Er gilt als selten, ist im Rhein-Main-Gebiet aber durchaus häufig. Knusprig gebraten und dezent mit etwas Salz und Pfeffer gewürzt ist er auch für die Küche nicht zu verachten. Voraussetzung: er muss jung und zart sein. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/polyporus-arcularius-weitlöcheriger-stielporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_crocea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
