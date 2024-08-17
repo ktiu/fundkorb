@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/chlorophyllum_brunneum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.08.2024: Vor ihm sollten sich Pilzfreunde in Acht nehmen! Im Wald wird man unseren aktullen [Fundkorbpilz](AA "Glossar-"), den Garten-Riesenschirmling *Chlorophyllum brunneum* allerdings kaum einmal antreffen und das ist gut so. Er liebt Kompostansammlungen sowie stark gedüngte Biotope und hat schon manche Magen-/Darm-Verstimmung verursacht, obwohl man bisher noch keinen verantwortlichen Inhaltsstoff hat finden können. Empfehlung: Meidet rötende Riesenschirmlinge, die auch als Safranriesenschirmlinge bekannt sind und außerhalb von Wäldern wachsen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/chlorophyllum-brunneum-garten-riesenschirmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_arcularius_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 16.08.2024: Unser Dietzenbacher Carré liefert aktuelle [Fundkorbpilze](AA "Glossar-") fast schon am Fließband. Heute ist es der Orangegelbe Scheidenstreifling *Amanita crocea*, einer der prächtigsten und stämmigsten in der Untergattung *Amanitopsis*. In der Nähe eines Kinderspielplatzes hat er bei einigen Birken seinen seit Jahren zuverlässigen Wuchsort und Mykorrhizapartner gefunden. Er ist essbar, aber bestimmt keine Delikatesse. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-crocea-orangegelber-scheidenstreifling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/daldinia_concentrica_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.08.2024: Diesen kohleartig schwarzen kugeligen [Ascomyzeten](Ascomyzeten "Glossar") fanden wir vor kurzem während einer Exkursion bei Rodgau-Dudenhofen an einem Feldrand auf einem Totholzhaufen. Es ist der Kohlen-Kugelpilz *Daldinia concentrica* und unser aktueller [Fundkorbpilz](AA "Glossar-"). Im Anschnitt zeigen die etwa 2 - 4 cm großen Fruchtkörper das für die Gattung typische konzentrische Streifenmuster. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/daldinia-concentrica-kohlen-kugelpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_parasiticus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.08.2024: Obwohl derzeit überall die [Kartoffelboviste](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist) aus dem Waldboden sprießen, ist der aktuelle [Fundkorbpilz](AA "Glossar-"), der Schmarotzer-Röhrling *Xerocomus parasiticus*, der auf ihnen parasitiert, ein eher seltener Anblick. Um so schöner, gleich drei Funde im nördlichen Dietzenbacher Wald melden zu können. In Europa ist er der einzige parasitische Röhrling und wird in Roten Listen als „gefährdet“ eingestuft. Obwohl er - trotz Giftigkeit seines Wirts - als essbar gilt, sollte er daher geschont werden. (Ulrike Wegner)
-
-[Mehr lesen >](/pilze/xerocomus-parasiticus-schmarotzer-röhrling)
 
 <div style="clear:  both"></div>
 
