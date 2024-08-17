@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-17.08.2024: [Polyporus arcularius - Weitlöcheriger Stielporling](/pilze/polyporus-arcularius-weitlöcheriger-stielporling)  
+18.08.2024: [Chlorophyllum brunneum - Garten-Riesenschirmling](/pilze/chlorophyllum-brunneum-garten-riesenschirmling)  
+17.08.2024: [Polyporus arcularius - Weitlöcheriger Stielporling](/pilze/polyporus-arcularius-weitlöcheriger-stielporling)\
 16.08.2024: [Amanita crocea - Orangegelber Scheidenstreifling](/pilze/amanita-crocea-orangegelber-scheidenstreifling)\
 15.08.2024: [Daldinia concentrica - Kohlen-Kugelpilz](/pilze/daldinia-concentrica-kohlen-kugelpilz)\
 14.08.2024: [Xerocomus parasiticus - Schmarotzer-Röhrling](/pilze/xerocomus-parasiticus-schmarotzer-röhrling)\
