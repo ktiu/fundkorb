@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_turci_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.08.2024: Wie die allermeisten Täublinge ist auch unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Jodoformtäubling *Russula turci* eine ziemlich variable Art. Seine Hutfarben können lila bis violett, purpur, rötlich braun, grau-ocker oder oliv sein. Entscheidend ist der in der Stielbasis feststellbare Geruch nach Jodoform, der aber kommen und gehen oder ausnahmsweise fehlen kann. Er schmeckt mild und ist ein guter Speisepilz. Gefunden haben wir ihn im Kiefernwald an der Gänsbrüh in Rodgau-Dudenhofen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-turci-jodoformtäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/chlorophyllum_brunneum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 17.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der *Weitlöcherige Stielporling Polyporus arcularius*. Er ist zweifellos eine der schönsten Arten unter den Stielporlingen, was auf die wabenartigen, mehr oder weniger am Stiel herablaufenden Poren und den zart bewimperten Hutrand zurückzuführen ist. Er gilt als selten, ist im Rhein-Main-Gebiet aber durchaus häufig. Knusprig gebraten und dezent mit etwas Salz und Pfeffer gewürzt ist er auch für die Küche nicht zu verachten. Voraussetzung: er muss jung und zart sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/polyporus-arcularius-weitlöcheriger-stielporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_crocea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.08.2024: Unser Dietzenbacher Carré liefert aktuelle [Fundkorbpilze](AA "Glossar-") fast schon am Fließband. Heute ist es der Orangegelbe Scheidenstreifling *Amanita crocea*, einer der prächtigsten und stämmigsten in der Untergattung *Amanitopsis*. In der Nähe eines Kinderspielplatzes hat er bei einigen Birken seinen seit Jahren zuverlässigen Wuchsort und Mykorrhizapartner gefunden. Er ist essbar, aber bestimmt keine Delikatesse. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-crocea-orangegelber-scheidenstreifling)
 
 <div style="clear:  both"></div>
 
