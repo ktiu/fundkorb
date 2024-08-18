@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-18.08.2024: [Chlorophyllum brunneum - Garten-Riesenschirmling](/pilze/chlorophyllum-brunneum-garten-riesenschirmling)  
+19.08.2024: [Russula turci - Jodoformtäubling](/pilze/russula-turci-jodoformtäubling)  
+18.08.2024: [Chlorophyllum brunneum - Garten-Riesenschirmling](/pilze/chlorophyllum-brunneum-garten-riesenschirmling)\
 17.08.2024: [Polyporus arcularius - Weitlöcheriger Stielporling](/pilze/polyporus-arcularius-weitlöcheriger-stielporling)\
 16.08.2024: [Amanita crocea - Orangegelber Scheidenstreifling](/pilze/amanita-crocea-orangegelber-scheidenstreifling)\
 15.08.2024: [Daldinia concentrica - Kohlen-Kugelpilz](/pilze/daldinia-concentrica-kohlen-kugelpilz)\
