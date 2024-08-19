@@ -23,6 +23,6 @@ Der Mausgraue Scheidling *Volvariella murinella* gehört zu den kleineren Scheid
 Der Pilz ist zwar in Deutschland weit verbreitet aber keineswegs häufig. Als [Bodensaprobiont](saprobiontisch "Glossar") bevorzugt er lichte Standorte wie Weg-, Wald- und Straßenränder, kann aber auch in parkartigen Biotopen oder auf Wiesen gefunden werden. Seine Erscheinungszeit ist Mai bis November.
 
 Verwechselt werden könnte er mit anderen weißlichen Scheidlingsarten:\
-*Volvariella hypopithys* = Flaumiger Scheidling\
+[*Volvariella hypopithys* = Flaumiger Scheidling](/pilze/volvariella-hypopithys-flaumiger-scheidling)\
 *Volvariella pusilla* = Kleinster Scheidling (Hüte meist nur 1 - 2 cm breit)\
 *Volveriella taylori* = Aschenscheidling (eher graubrauner Hut, auf Müllhalden, Schuttplätzen etc.)
