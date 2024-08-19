@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/parmelina_tiliacea_02_sm.jpg" %}
+{% include abbildung_ende.html %}
+
+20.08.2024: Hinweis für alle die glauben, Flechten seien eine eigenständige Lebensform: sie gehören tatsächlich zu den <ins>Pilzen</ins>. Aktueller [Fundkorbpilz](AA "Glossar-") ist die keineswegs nur an Linden vorkommende Linden-Schüsselflechte *Parmelina tiliacea*. Es gibt einige sehr ähnlich aussehende Arten, mit denen sie verwechselt werden könnte. Um Flechten sicher zu bestimmen, benötigt man eine stark vergrößernde Lupe, chemische Reagenzien und manchmal sogar UV-Licht. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/parmelina-tiliacea-linden-schüsselflechte)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_turci_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 18.08.2024: Vor ihm sollten sich Pilzfreunde in Acht nehmen! Im Wald wird man unseren aktullen [Fundkorbpilz](AA "Glossar-"), den Garten-Riesenschirmling *Chlorophyllum brunneum* allerdings kaum einmal antreffen und das ist gut so. Er liebt Kompostansammlungen sowie stark gedüngte Biotope und hat schon manche Magen-/Darm-Verstimmung verursacht, obwohl man bisher noch keinen verantwortlichen Inhaltsstoff hat finden können. Empfehlung: Meidet rötende Riesenschirmlinge, die auch als Safranriesenschirmlinge bekannt sind und außerhalb von Wäldern wachsen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/chlorophyllum-brunneum-garten-riesenschirmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_arcularius_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der *Weitlöcherige Stielporling Polyporus arcularius*. Er ist zweifellos eine der schönsten Arten unter den Stielporlingen, was auf die wabenartigen, mehr oder weniger am Stiel herablaufenden Poren und den zart bewimperten Hutrand zurückzuführen ist. Er gilt als selten, ist im Rhein-Main-Gebiet aber durchaus häufig. Knusprig gebraten und dezent mit etwas Salz und Pfeffer gewürzt ist er auch für die Küche nicht zu verachten. Voraussetzung: er muss jung und zart sein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/polyporus-arcularius-weitlöcheriger-stielporling)
 
 <div style="clear:  both"></div>
 
