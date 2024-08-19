@@ -12,7 +12,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/parmelina_tiliacea_01_bm.jpg
   legende: Permelina tiliacea an Linde, Halbschatten. Die dunklen Zonen sind
-    Isienbereiche
+    Isidienbereiche
 literatur:
   - text: "KIRSCHBAUM, U. & WIRTH, V. (2010): Flechten erkennen – Umwelt bewerten:
       Seite 137"
@@ -27,7 +27,7 @@ Will man die Linden-Schüsselflechte (*Parmelina tiliacea*) finden, sollte man d
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/parmelina_tiliacea_02_sm.jpg" %}
-{% include abbildung_ende.html legende="Permelina tiliacea an Linde, Halbschatten. Die dunklen Zonen sind Isienbereiche" %}
+{% include abbildung_ende.html legende="Permelina tiliacea an Linde, Halbschatten. Die dunklen Zonen sind Isidienbereiche" %}
 
 **Morphologische Merkmale** (vorwiegend nach KIRSCHBAUM & WIRTH 2010):
 
