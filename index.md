@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leccinum_scabrum_01_km.jpg" %}
+{% include abbildung_ende.html %}
+
+21.08.2024: Raufußröhrlinge sind [Mykorrhizapilze](Mykorrhiza "Glossar"), die fast alle an eine bestimmte Baumart gebunden sind und nur in deren Nähe vorkommen. Sie tragen ihren Partner meist im Namen, so auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der *Birken-Raufuß Leccinum scabrum*. Unter Pilzsammlern ist er auch unter dem Namen „Birkenpilz“ bekannt. Sehr ähnlich ist der [Hainbuchen-Raufuß](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß). Alle *Leccinum*-Arten, zu denen auch die Rotkappen zählen, sind essbar. Der Birken-Raufuß gehört zu den weniger schmackhaften, vor allem dann, wenn seine Hüte schon weichfleischig sind. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/parmelina_tiliacea_02_sm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 19.08.2024: Wie die allermeisten Täublinge ist auch unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Jodoformtäubling *Russula turci* eine ziemlich variable Art. Seine Hutfarben können lila bis violett, purpur, rötlich braun, grau-ocker oder oliv sein. Entscheidend ist der in der Stielbasis feststellbare Geruch nach Jodoform, der aber kommen und gehen oder ausnahmsweise fehlen kann. Er schmeckt mild und ist ein guter Speisepilz. Gefunden haben wir ihn im Kiefernwald an der Gänsbrüh in Rodgau-Dudenhofen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-turci-jodoformtäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chlorophyllum_brunneum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.08.2024: Vor ihm sollten sich Pilzfreunde in Acht nehmen! Im Wald wird man unseren aktullen [Fundkorbpilz](AA "Glossar-"), den Garten-Riesenschirmling *Chlorophyllum brunneum* allerdings kaum einmal antreffen und das ist gut so. Er liebt Kompostansammlungen sowie stark gedüngte Biotope und hat schon manche Magen-/Darm-Verstimmung verursacht, obwohl man bisher noch keinen verantwortlichen Inhaltsstoff hat finden können. Empfehlung: Meidet rötende Riesenschirmlinge, die auch als Safranriesenschirmlinge bekannt sind und außerhalb von Wäldern wachsen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/chlorophyllum-brunneum-garten-riesenschirmling)
 
 <div style="clear:  both"></div>
 
