@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-21.08.2024: [Leccinum scabrum - Birken-Raufuß](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz)  
+22.08.2024: [Cortinarius vibratilis - Gallen-Schleimfuß, Bitterster Schleimfuß](/pilze/cortinarius-vibratilis-gallen-schleimfuß-bitterster-schleimfuß)\
+21.08.2024: [Leccinum scabrum - Birken-Raufuß](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz)\
 20.08.2024: [Parmelia tiliacea - Linden-Schüsselflechte](/pilze/parmelina-tiliacea-linden-schüsselflechte)\
 19.08.2024: [Russula turci - Jodoformtäubling](/pilze/russula-turci-jodoformtäubling)\
 18.08.2024: [Chlorophyllum brunneum - Garten-Riesenschirmling](/pilze/chlorophyllum-brunneum-garten-riesenschirmling)\
