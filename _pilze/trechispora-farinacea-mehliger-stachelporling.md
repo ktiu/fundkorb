@@ -12,7 +12,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/trechispora_farinacea_01_wp.jpg
   legende: "Januar 2007 im Frankfurter Stadtwald: Rotbuchenast mit Trechispora
-    farninacea"
+    farinacea"
 literatur:
   - url: http://aphyllopower.blogspot.com/2007/02/
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 2, Nr. 112"
