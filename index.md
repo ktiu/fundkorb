@@ -12,6 +12,14 @@ footer_scripts:
 
 - - -
 
+22.08.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-") lässt sich im Raum Dietzenbach/Rodgau in den von Kiefernwäldern umgebenen Roteichenplantagen zur Zeit ziemlich häufig finden. Der Bitterste Schleimfuß *Cortinarius vibratilis* ist ein relativ schmächtiger Schleierling, der keine besonderen Ansprüche an seine Baumpartner stellt und sich sowohl im Nadel- als auch im Laubwald wohlfühlt. Typische Merkmale sind der lebhaft gelb-orange gefärbte Hut, gerne mit einer blasseren Randzone, der zur Basis leicht keulig verdickte, weiße schleimige Stiel und das völlige Fehlen von Violetttönen. Der Name ist Programm: er ist in allen Teilen extrem bitter. (Erik Hock)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leccinum_scabrum_01_km.jpg" %}
 {% include abbildung_ende.html %}
