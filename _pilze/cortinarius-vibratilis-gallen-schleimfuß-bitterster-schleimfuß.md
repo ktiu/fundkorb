@@ -36,14 +36,14 @@ Nachtrag von Dieter Gewalt: Der Standort im Ansfeld blieb noch jahrelang erhalte
 
 ##### Weitere im Ansfeldwald nachgewiesene Haarschleierlinge:
 
-Cortinarius alboviolaceus - Weißvioletter Dickfuß\
-Cortinarius anomalus - Braunvioletter Dickfuß\
+[Cortinarius alboviolaceus - Weißvioletter Dickfuß](/pilze/cortinarius-alboviolaceus-weißvioletter-dickfuß)\
+[Cortinarius anomalus - Braunvioletter Dickfuß](pilze/cortinarius-anomalus-braunvioletter-dickfuß)\
 Cortinarius armillatus - Geschmückter Gürtelfuß\
 [Cortinarius bolaris - Rotschuppiger Raukopf](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)\
 [Cortinarius caperatus - Zigeuner, Reifpilz](/pilze/cortinarius-caperatus-reifpilz-zigeuner)\
 Cortinarius croceus - Zimt-Hautkopf\
 Cortinarius delibutus - Blaublättriger Schleimfuß\
-Cortinarius hemitrichus - Weißflockigr Gürtelfuß\
+[Cortinarius hemitrichus - Weißflockigr Gürtelfuß](/pilze/cortinarius-hemitrichus-weißflockiger-gürtelfuß)\
 [Cortinarius impennis - Weißviolett-gestielter Gürtelfuß](/pilze/cortinarius-impennis-weißviolett-gestielter-gürtelfuß)\
 [Cortinarius mucosus - Heide-Schleimfuß](/pilze/cortinarius-mucosus-heide-schleimfuß)\
 Cortinarius paleaceus - Duftender Gürtelfuß\
