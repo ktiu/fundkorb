@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Cladonia furcata
   deutsch: Gabel-Säulenflechte
   referenz: (Huds.) Baumg. 1790
-  erlaeuterung: "(Huds.) Baumg. 1790 "
+  erlaeuterung: gegabelt
   familie: Cladoniaceae
 profil:
   aktualisiert: 2024-06-30
