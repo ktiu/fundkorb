@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_calopus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.08.2024: In der flachen Rhein-Main-Ebene wird man den aktuellen [Fundkorbpilz](AA "Glossar-") eher nicht antreffen. Er ist ein Bewohner saurer Laub- und Nadelwälder höherer Lagen und kann dort dann ziemlich häufig sein. Charakteristisch für den Schönfußröhrling *Boletus calopus* ist der mit einem groben Netz bedeckte Stiel, der an der Basis leuchtend karminrot und zur Spitze hin gelb gefärbt ist, die gelben Röhren und der lehm- bis graubraune Hut. Als Speisepilz kommt er wegen seines bitteren Geschmacks nicht in Frage, roh ist er sogar giftig. (Erik Hock)
+
+[Mehr lesen >](/pilze/boletus-calopus-schönfußröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cortinarius_vibratilis_04_eh.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,30 +43,6 @@ footer_scripts:
 21.08.2024: Raufußröhrlinge sind [Mykorrhizapilze](Mykorrhiza "Glossar"), die fast alle an eine bestimmte Baumart gebunden sind und nur in deren Nähe vorkommen. Sie tragen ihren Partner meist im Namen, so auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der *Birken-Raufuß Leccinum scabrum*. Unter Pilzsammlern ist er auch unter dem Namen „Birkenpilz“ bekannt. Sehr ähnlich ist der [Hainbuchen-Raufuß](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß). Alle *Leccinum*-Arten, zu denen auch die Rotkappen zählen, sind essbar. Der Birken-Raufuß gehört zu den weniger schmackhaften, vor allem dann, wenn seine Hüte schon weichfleischig sind. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/parmelina_tiliacea_02_sm.jpg" %}
-{% include abbildung_ende.html %}
-
-20.08.2024: Hinweis für alle die glauben, Flechten seien eine eigenständige Lebensform: sie gehören tatsächlich zu den <ins>Pilzen</ins>. Aktueller [Fundkorbpilz](AA "Glossar-") ist die keineswegs nur an Linden vorkommende Linden-Schüsselflechte *Parmelina tiliacea*. Es gibt einige sehr ähnlich aussehende Arten, mit denen sie verwechselt werden könnte. Um Flechten sicher zu bestimmen, benötigt man eine stark vergrößernde Lupe, chemische Reagenzien und manchmal sogar UV-Licht. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/parmelina-tiliacea-linden-schüsselflechte)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_turci_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.08.2024: Wie die allermeisten Täublinge ist auch unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Jodoformtäubling *Russula turci* eine ziemlich variable Art. Seine Hutfarben können lila bis violett, purpur, rötlich braun, grau-ocker oder oliv sein. Entscheidend ist der in der Stielbasis feststellbare Geruch nach Jodoform, der aber kommen und gehen oder ausnahmsweise fehlen kann. Er schmeckt mild und ist ein guter Speisepilz. Gefunden haben wir ihn im Kiefernwald an der Gänsbrüh in Rodgau-Dudenhofen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-turci-jodoformtäubling)
 
 <div style="clear:  both"></div>
 
