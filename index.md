@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_mendax_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.08.2024: Der bekannte [Netzstielige Hexenröhrling](/pilze/boletus-luridus-netzstieliger-hexenröhrling) hat einen Doppelgänger, von dem viele Pilzfreunde noch nichts gehört haben und daher aus gutem Grund unser aktueller [Fundkorbpilz](AA "Glossar-"): der Kurznetzige Hexenröhrling *Boletus (Suillellus) mendax*. Vom Anschauen, also makroskopisch, wird man die beiden kaum auseinanderhalten können. Sie unterscheiden sich vor allem in den Sporenmaßen. Die Sporen von *Boletus mendax* sind deutlich schlanker. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/boletus-mendax-kurznetziger-hexenröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_calopus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -21,10 +33,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/boletus-calopus-schönfußröhrling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-
 
 - - -
 
