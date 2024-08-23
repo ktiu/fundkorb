@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-23.08.2024: [Boletus calopus - Schönfußröhrling](/pilze/boletus-calopus-schönfußröhrling)  
+24.08.2024: [Boletus mendax - Kurznetziger Hexenröhrling](/pilze/boletus-mendax-kurznetziger-hexenröhrling)  
+23.08.2024: [Boletus calopus - Schönfußröhrling](/pilze/boletus-calopus-schönfußröhrling)\
 22.08.2024: [Cortinarius vibratilis - Gallen-Schleimfuß, Bitterster Schleimfuß](/pilze/cortinarius-vibratilis-gallen-schleimfuß-bitterster-schleimfuß)\
 21.08.2024: [Leccinum scabrum - Birken-Raufuß](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz)\
 20.08.2024: [Parmelia tiliacea - Linden-Schüsselflechte](/pilze/parmelina-tiliacea-linden-schüsselflechte)\
