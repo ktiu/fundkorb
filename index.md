@@ -24,6 +24,10 @@ footer_scripts:
 
 - - -
 
+
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cortinarius_vibratilis_04_eh.jpg" %}
 {% include abbildung_ende.html %}
@@ -31,18 +35,6 @@ footer_scripts:
 22.08.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-") lässt sich im Raum Dietzenbach/Rodgau in den von Kiefernwäldern umgebenen Roteichenplantagen zur Zeit ziemlich häufig finden. Der Bitterste Schleimfuß *Cortinarius vibratilis* ist ein relativ schmächtiger Schleierling, der keine besonderen Ansprüche an seine Baumpartner stellt und sich sowohl im Nadel- als auch im Laubwald wohlfühlt. Typische Merkmale sind der lebhaft gelb-orange gefärbte Hut, gerne mit einer blasseren Randzone, der zur Basis leicht keulig verdickte, weiße schleimige Stiel und das völlige Fehlen von Violetttönen. Der Name ist Programm: er ist in allen Teilen extrem bitter. (Erik Hock)
 
 [Mehr lesen >](/pilze/cortinarius-vibratilis-gallen-schleimfuß-bitterster-schleimfuß)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leccinum_scabrum_01_km.jpg" %}
-{% include abbildung_ende.html %}
-
-21.08.2024: Raufußröhrlinge sind [Mykorrhizapilze](Mykorrhiza "Glossar"), die fast alle an eine bestimmte Baumart gebunden sind und nur in deren Nähe vorkommen. Sie tragen ihren Partner meist im Namen, so auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der *Birken-Raufuß Leccinum scabrum*. Unter Pilzsammlern ist er auch unter dem Namen „Birkenpilz“ bekannt. Sehr ähnlich ist der [Hainbuchen-Raufuß](/pilze/leccinum-pseudoscabrum-hainbuchenraufuß). Alle *Leccinum*-Arten, zu denen auch die Rotkappen zählen, sind essbar. Der Birken-Raufuß gehört zu den weniger schmackhaften, vor allem dann, wenn seine Hüte schon weichfleischig sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leccinum-scabrum-birken-raufuß-birkenpilz)
 
 <div style="clear:  both"></div>
 
