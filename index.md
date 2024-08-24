@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_vaginata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.08.2025: Scheidenstreiflinge gehören zu den Wulstlingen (Gattung *Amanita*), haben jedoch keinen Ring am Stiel. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Graue Scheidenstreifling *Amanita vaginata*, ist einer der häufigeren Arten, kann aber mit einigen ähnlich gefärbten verwechselt werden. Im Zeifelsfall verraten ihn seine Sporenform und -maße, es müsste also mikroskopiert werden. Speisewert: schmeckt etwas muffig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-vaginata-grauer-scheidenstreifling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_mendax_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -31,18 +43,6 @@ footer_scripts:
 23.08.2024: In der flachen Rhein-Main-Ebene wird man den aktuellen [Fundkorbpilz](AA "Glossar-") eher nicht antreffen. Er ist ein Bewohner saurer Laub- und Nadelwälder höherer Lagen und kann dort dann ziemlich häufig sein. Charakteristisch für den Schönfußröhrling *Boletus calopus* ist der mit einem groben Netz bedeckte Stiel, der an der Basis leuchtend karminrot und zur Spitze hin gelb gefärbt ist, die gelben Röhren und der lehm- bis graubraune Hut. Als Speisepilz kommt er wegen seines bitteren Geschmacks nicht in Frage, roh ist er sogar giftig. (Erik Hock)
 
 [Mehr lesen >](/pilze/boletus-calopus-schönfußröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cortinarius_vibratilis_04_eh.jpg" %}
-{% include abbildung_ende.html %}
-
-22.08.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-") lässt sich im Raum Dietzenbach/Rodgau in den von Kiefernwäldern umgebenen Roteichenplantagen zur Zeit ziemlich häufig finden. Der Bitterste Schleimfuß *Cortinarius vibratilis* ist ein relativ schmächtiger Schleierling, der keine besonderen Ansprüche an seine Baumpartner stellt und sich sowohl im Nadel- als auch im Laubwald wohlfühlt. Typische Merkmale sind der lebhaft gelb-orange gefärbte Hut, gerne mit einer blasseren Randzone, der zur Basis leicht keulig verdickte, weiße schleimige Stiel und das völlige Fehlen von Violetttönen. Der Name ist Programm: er ist in allen Teilen extrem bitter. (Erik Hock)
-
-[Mehr lesen >](/pilze/cortinarius-vibratilis-gallen-schleimfuß-bitterster-schleimfuß)
 
 <div style="clear:  both"></div>
 
