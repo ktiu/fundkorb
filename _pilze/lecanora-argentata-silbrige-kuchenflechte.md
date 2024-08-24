@@ -41,6 +41,6 @@ Das Epihymenium (oberer Bereich des [Hymeniums](Hymenium "Glossar")) zeigt keine
 **Ähnliche Flechtenarten** (nach KIRSCHBAUM & WIRTH 2010):
 
 Bei der Trügerischen Kuchenflechte (*Lecanora allophana*) ist der Apothecienrand wellig verbogen und enthält kleine Kristalle.\
-Bei der Hellen Kuchenflechte (Lecanora chlarotera) ist die Apothecienscheibe nicht rotbraun, sondern hell- bis schmutzigbraun, und der Apothecienrand enthält – zusätzlich zu großen - auch kleine Kristalle.
+Bei der [Hellen Kuchenflechte (Lecanora chlarotera)](/pilze/lecanora-chlarotera-helle-kuchenflechte) ist die Apothecienscheibe nicht rotbraun, sondern hell- bis schmutzigbraun, und der Apothecienrand enthält – zusätzlich zu großen - auch kleine Kristalle.
 
 Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
