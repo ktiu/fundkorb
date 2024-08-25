@@ -145,9 +145,10 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Flavoplaca citrina = Ztronen-Schönfleck](/pilze/flavoplaca-citrina-zitronen-schönfleck)\
 [Graphis scripta = Schriftflechte](/pilze/graphis-scripta-schriftflechte)\
 [Lecanora argentata = Silbrige Kuchenflechte](/pilze/lecanora-argentata-silbrige-kuchenflechte)\
+[Lecanora chlarotera = Helle Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte)  
 [Lecanora muralis = Mauer-Flechte](/pilze/lecanora-muralis-mauer-flechte)\
 [Lecanora impudens = Schamlose Kuchenflechte](/pilze/lecanora-impudens-schamlose-kuchenflechte)\
-[Lecidella elaeochroma =  Olivgrüne Schwarznapfflechte](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)  
+[Lecidella elaeochroma =  Olivgrüne Schwarznapfflechte](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)\
 [Lepraria jackii = Jacks Staubflechte](/pilze/lepraria-jackii-jacks-staubflechte)\
 [Pertusaria pertusa = Gewöhnliche Porenflechte](/pilze/pertusaria-pertusa-gewöhnliche-porenflechte)\
 [Phlyctis argena = Weiße Blatternflechte](/pilze/phlyctis-argena-weiße-blatternflechte)\
