@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-25.08.2024: [Amanita vaginata - Grauer Scheidenstreifling](/pilze/amanita-vaginata-grauer-scheidenstreifling)  
+26.08.2024: [Trochila ilicina - Stechpalmen-Deckelbecherchen](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen)  
+25.08.2024: [Amanita vaginata - Grauer Scheidenstreifling](/pilze/amanita-vaginata-grauer-scheidenstreifling)\
 24.08.2024: [Boletus mendax - Kurznetziger Hexenröhrling](/pilze/boletus-mendax-kurznetziger-hexenröhrling)\
 23.08.2024: [Boletus calopus - Schönfußröhrling](/pilze/boletus-calopus-schönfußröhrling)\
 22.08.2024: [Cortinarius vibratilis - Gallen-Schleimfuß, Bitterster Schleimfuß](/pilze/cortinarius-vibratilis-gallen-schleimfuß-bitterster-schleimfuß)\
