@@ -56,3 +56,5 @@ In den Sporenschläuchen (Asci) befinden sich jeweils acht Sporen. Die Sporen si
 Makrochemische Farbreaktionen: mit Kalilauge (KOH) 10-20% gelb, mit p-Phenylendiamin negativ oder schwach gelblich.
 
 Ähnlich ist die Silbrige Kuchenflechte [Lecanora argentata](/pilze/lecanora-argentata-silbrige-kuchenflechte), deren Apothecienscheibe nicht hellbraun, sondern rotbraun oder dunkelbraun gefärbt ist. Das Epihymenium ist ebenfalls braun, enthält aber keine Kristalle. Die Braunfärbung bleibt bei Zugabe von Kalilauge erhalten. Außerdem ist Lecanora argentata eher eine Flechte des Waldesinneren und verträgt keine hohe Eutrophierung der Luft bzw. des Substrats.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
