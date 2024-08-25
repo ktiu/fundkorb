@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trochila_ilicina_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.08.2024: Für alle, die bei der Suche nach interessanten Pilzfunden ihren Wohnort möglichst nicht verlassen möchten, sind Friedhöfe eine vielversprechende Empfehlung. In Frankfurt am Main zum Beispiel der Waldfriedhof Oberrad, den wir gestern besucht haben. Dort haben wir auch unseren aktuellen [Fundkorbpilz](AA "Glossar-") mit der Lupe gesucht und gefunden: das Stechpalmen-Deckelbecherchen *Trochila ilicina*. Zu diesem winzigen [Ascomyzeten](Ascomyzeten "Glossar") muss man nicht viele Worte verlieren. Es genügt ein Blick auf das beigefügte Foto. (Erik Hock & Dieter Gewalt)
+
+Wer trotzdem mehr lesen möchte: [hier geht’s zum Porträt >](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_vaginata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
