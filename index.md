@@ -13,6 +13,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/crepidotus_variabilis_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.08.2026: Manche Pilze sind das ganze Jahr über zu finden, wenn man die Augen offen hält. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), das Gemeine Stummelfüßchen *Crepidotus variabilis*. So gemein wie sein deutscher Name vermuten lässt, ist es allerdings nicht. Das [Kugelsporige Stummelfüßchen Crepidotus cesatii](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen) zum Beispiel ist wesentlich häufiger und man könnte die beiden auch miteinander verwechseln. Im Zweifelsfall muss mikroskopiert werden. Bei den Stummelfüßchen handelt es sich um recht hübsche meist kleinere Pilze, bei denen sich genaueres Hinschauen lohnt. Für die Küche sind sie ohne Bedeutung. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/crepidotus-variabilis-gemeines-stummelfüßchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trochila_ilicina_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -43,18 +55,6 @@ Wer trotzdem mehr lesen möchte: [hier geht’s zum Porträt >](/pilze/trochila-
 24.08.2024: Der bekannte [Netzstielige Hexenröhrling](/pilze/boletus-luridus-netzstieliger-hexenröhrling) hat einen Doppelgänger, von dem viele Pilzfreunde noch nichts gehört haben und ist daher aus gutem Grund unser aktueller [Fundkorbpilz](AA "Glossar-"): der Kurznetzige Hexenröhrling *Boletus (Suillellus) mendax*. Vom Anschauen, also makroskopisch, wird man die beiden kaum auseinanderhalten können. Sie unterscheiden sich vor allem in den Sporenmaßen. Die Sporen von *Boletus mendax* sind deutlich schlanker. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/boletus-mendax-kurznetziger-hexenröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_calopus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.08.2024: In der flachen Rhein-Main-Ebene wird man den aktuellen [Fundkorbpilz](AA "Glossar-") eher nicht antreffen. Er ist ein Bewohner saurer Laub- und Nadelwälder höherer Lagen und kann dort dann ziemlich häufig sein. Charakteristisch für den Schönfußröhrling *Boletus calopus* ist der mit einem groben Netz bedeckte Stiel, der an der Basis leuchtend karminrot und zur Spitze hin gelb gefärbt ist, die gelben Röhren und der lehm- bis graubraune Hut. Als Speisepilz kommt er wegen seines bitteren Geschmacks nicht in Frage, roh ist er sogar giftig. (Erik Hock)
-
-[Mehr lesen >](/pilze/boletus-calopus-schönfußröhrling)
 
 <div style="clear:  both"></div>
 
