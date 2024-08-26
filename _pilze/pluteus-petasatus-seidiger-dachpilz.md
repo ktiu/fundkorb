@@ -11,7 +11,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
-  datei: /bilder/pluteus_petasatus_04_nk.jpg
+  datei: /bilder/pluteus_petasatus_04_hs.jpg
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz, Band 4 Nr. 115"
   - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembetgs Band 4,
@@ -33,8 +33,9 @@ So wie auf diesem Foto ist der Seidige Dachpilz nur sehr selten anzutreffen. Bei
 Nach intensiver Bildersuche im Internet konnte eine exakt mit unserem Fund vergleichbare Abbildung von *J. L. Hlasek* gefunden werden und auch Hinweise, dass die Hutoberfläche des Seidigen Dachpilzes vor allem in der Hutmitte bei Trockenheit schuppig aufreißen kann. Natürlich müssen wir uns auch mit dem üblichen Erscheinungsbild unseres Pilzes befassen, das in etwa auf dem nachfolgenden Foto zu sehen ist.
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/pluteus_petasatus_04_nk.jpg" %}
-{% include abbildung_ende.html legende="So sieht der Seidige Dachpilz für gewöhnlich aus (Foto: Norbert Kühnberger)" %}
+{% include bild.html datei="/bilder/pluteus_petasatus_05_hs.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/pluteus_petasatus_04_hs.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="So sieht der Seidige Dachpilz für gewöhnlich aus (2 Fotos: Hans Stern)" %}
 
 Die dünnfleischigen Hüt des Seidigen Dachpilzes können Hutdurchmesser von 15 cm erreichen. Die Hutfarben sind weißlich bis creme/ockerlich. Die freien Lamellen sind beim jungen Pilz weiß, bald durch ausfallendes Sporenpulver zunehmend rosa bis dunkelrosa verfärbend. Die hellen längsfaserigen Stiele sind an der Basis knollig verdickt und bis zu 9 cm lang. Der Geruch ist unauffällig, oft leicht süßlich oder sogar etwas rettichartig. Der Pilz wächst einzeln oder zu wenigen gesellig an totem Laubholz, gern an morschen Stümpfen oder Stämmen, aber auch auf Sägespänen. Seine Erscheinungszeit ist Frühjahr (Mai) bis Herbst (Oktober).
 
