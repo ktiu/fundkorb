@@ -1,8 +1,8 @@
 ---
 aktivitaet: Der Wald und seine Pilze
-zeit: 2024-07-21T10:00:01.627Z
+zeit: 2024-09-01T10:00:01.627Z
 bis: ""
-anmeldung_offen: false
+anmeldung_offen: true
 anmeldung_noetig: true
 published: true
 bilder:
