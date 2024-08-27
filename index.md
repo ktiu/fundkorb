@@ -8,7 +8,7 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-{% include pilzsuche.html %}
+[/fundkorb.de/termine](/fundkorb.de/termine){% include pilzsuche.html %}
 
 - - -
 
