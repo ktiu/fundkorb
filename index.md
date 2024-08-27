@@ -21,6 +21,18 @@ Nächster Exkursionstermin: Sonntag, 1. September 2024, 10:00 Uhr - **Der Wald u
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_heterophylla_03_mhk.jpg" %}
+{% include abbildung_ende.html %}
+
+28.08.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist wie etliche andere Täublinge ein wahres Farbchamäleon. Sein Hut Der Hut des Grünen Speisetäublings *Russula heterophylla* kann grün in allen erdenklichen Tönungen und genau so gut oliv oder braun gefärbt sein. Das macht ihn als sammelwürdigen Speisepilz unattraktiv, obwohl es sich um einen ausgezeichneten Speisepilz handelt. Er ist kürzlich in unserer Parkanlage unter einer Buche erschienen, war aber leider voller Maden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-heterophylla-grüner-speisetäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/crepidotus_variabilis_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,30 +51,6 @@ Nächster Exkursionstermin: Sonntag, 1. September 2024, 10:00 Uhr - **Der Wald u
 26.08.2024: Für alle, die bei der Suche nach interessanten Pilzfunden ihren Wohnort möglichst nicht verlassen möchten, sind Friedhöfe eine vielversprechende Empfehlung. In Frankfurt am Main zum Beispiel der Waldfriedhof Oberrad, den wir gestern besucht haben. Dort haben wir auch unseren aktuellen [Fundkorbpilz](AA "Glossar-") mit der Lupe gesucht und gefunden: das Stechpalmen-Deckelbecherchen *Trochila ilicina*. Zu diesem winzigen [Ascomyzeten](Ascomyzeten "Glossar") muss man nicht viele Worte verlieren. Es genügt ein Blick auf das beigefügte Foto. (Erik Hock & Dieter Gewalt)
 
 Wer trotzdem mehr lesen möchte: [hier geht’s zum Porträt >](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_vaginata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.08.2025: Scheidenstreiflinge gehören zu den Wulstlingen (Gattung *Amanita*), haben jedoch keinen Ring am Stiel. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Graue Scheidenstreifling *Amanita vaginata*, ist einer der häufigeren Arten, kann aber mit einigen ähnlich gefärbten verwechselt werden. Im Zeifelsfall verraten ihn seine Sporenform und -maße, es müsste also mikroskopiert werden. Speisewert: schmeckt etwas muffig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-vaginata-grauer-scheidenstreifling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_mendax_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.08.2024: Der bekannte [Netzstielige Hexenröhrling](/pilze/boletus-luridus-netzstieliger-hexenröhrling) hat einen Doppelgänger, von dem viele Pilzfreunde noch nichts gehört haben und ist daher aus gutem Grund unser aktueller [Fundkorbpilz](AA "Glossar-"): der Kurznetzige Hexenröhrling *Boletus (Suillellus) mendax*. Vom Anschauen, also makroskopisch, wird man die beiden kaum auseinanderhalten können. Sie unterscheiden sich vor allem in den Sporenmaßen. Die Sporen von *Boletus mendax* sind deutlich schlanker. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-mendax-kurznetziger-hexenröhrling)
 
 <div style="clear:  both"></div>
 
