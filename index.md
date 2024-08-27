@@ -14,7 +14,7 @@ footer_scripts:
 
 Nächster Exkursionstermin: Sonntag, 1. September 2024, 10:00 Uhr - **Der Wald und seine Pilze** im Raum Frankfurt/Offenbach/Dietzenbach
 
-[Hier geht's zur Anmeldung >](/fundkorb.de/termine)
+[Hier geht's zur Anmeldung >](/termine)
 
 - - -
 
