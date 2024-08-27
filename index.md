@@ -12,6 +12,12 @@ footer_scripts:
 
 - - -
 
+Nächster Exkursionstermin: Sonntag, 1. September 2024, 10:00 Uhr - **Der Wald und seine Pilze** im Raum Frankfurt/Offenbach/Dietzenbach
+
+[Hier geht's zur Anmeldung >](/fundkorb.de/termine)
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/crepidotus_variabilis_02_dg.jpg" %}
 {% include abbildung_ende.html %}
