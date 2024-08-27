@@ -1,7 +1,7 @@
 ---
 aktivitaet: Pilzkundliche Führung für Einsteiger
-zeit: 2024-08-27T15:56:59.160Z
-bis: 2024-09-15T00:00:00.000Z
+zeit: 2024-09-15T10:00:59.160Z
+bis: 2024-09-15T09:00:00.000Z
 anmeldung_offen: true
 anmeldung_noetig: true
 published: true
