@@ -24,7 +24,7 @@ Nächster Exkursionstermin: Sonntag, 1. September 2024, 10:00 Uhr - **Der Wald u
 {% include bild.html datei="/bilder/russula_heterophylla_03_mhk.jpg" %}
 {% include abbildung_ende.html %}
 
-28.08.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist wie etliche andere Täublinge ein wahres Farbchamäleon. Sein Hut Der Hut des Grünen Speisetäublings *Russula heterophylla* kann grün in allen erdenklichen Tönungen und genau so gut oliv oder braun gefärbt sein. Das macht ihn als sammelwürdigen Speisepilz unattraktiv, obwohl es sich um einen ausgezeichneten Speisepilz handelt. Er ist kürzlich in unserer Parkanlage unter einer Buche erschienen, war aber leider voller Maden. (Dieter Gewalt)
+28.08.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist wie etliche andere Täublinge ein wahres Farbchamäleon. Der Hut des Grünen Speisetäublings *Russula heterophylla* kann grün in allen erdenklichen Tönungen und genau so gut oliv oder braun gefärbt sein. Das macht ihn als sammelwürdigen Pilz unattraktiv, obwohl es sich um einen ausgezeichneten Speisepilz handelt. Er ist kürzlich in unserer Parkanlage unter einer Buche erschienen, war aber leider voller Maden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-heterophylla-grüner-speisetäubling)
 
