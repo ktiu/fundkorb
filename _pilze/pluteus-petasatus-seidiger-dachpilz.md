@@ -37,7 +37,7 @@ Nach intensiver Bildersuche im Internet konnte eine exakt mit unserem Fund vergl
 {% include bild.html datei="/bilder/pluteus_petasatus_04_hs.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="So sieht der Seidige Dachpilz für gewöhnlich aus (2 Fotos: Hans Stern)" %}
 
-Die dünnfleischigen Hüt des Seidigen Dachpilzes können Hutdurchmesser von 15 cm erreichen. Die Hutfarben sind weißlich bis creme/ockerlich. Die freien Lamellen sind beim jungen Pilz weiß, bald durch ausfallendes Sporenpulver zunehmend rosa bis dunkelrosa verfärbend. Die hellen längsfaserigen Stiele sind an der Basis knollig verdickt und bis zu 9 cm lang. Der Geruch ist unauffällig, oft leicht süßlich oder sogar etwas rettichartig. Der Pilz wächst einzeln oder zu wenigen gesellig an totem Laubholz, gern an morschen Stümpfen oder Stämmen, aber auch auf Sägespänen. Seine Erscheinungszeit ist Frühjahr (Mai) bis Herbst (Oktober).
+Die dünnfleischigen Hüte des Seidigen Dachpilzes können Hutdurchmesser von 15 cm erreichen. Die Hutfarben sind weißlich bis creme/ockerlich. Die freien Lamellen sind beim jungen Pilz weiß, bald durch ausfallendes Sporenpulver zunehmend rosa bis dunkelrosa verfärbend. Die hellen längsfaserigen Stiele sind an der Basis knollig verdickt und bis zu 9 cm lang. Der Geruch ist unauffällig, oft leicht süßlich oder sogar etwas rettichartig. Der Pilz wächst einzeln oder zu wenigen gesellig an totem Laubholz, gern an morschen Stümpfen oder Stämmen, aber auch auf Sägespänen. Seine Erscheinungszeit ist Frühjahr (Mai) bis Herbst (Oktober).
 
 Mikroskopische Merkmale:\
 Die ellipsoiden Sporen messen 6,5 - 8,5 x 4,5 - 6 µm, die [Hyphen](Hyphen "Glossar") sind ohne Schnallen, die Pleurozystiden mit Haken
