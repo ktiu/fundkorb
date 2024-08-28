@@ -21,6 +21,18 @@ Nächster Exkursionstermin: Sonntag, 1. September 2024, 10:00 Uhr - **Der Wald u
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/daedalea_quercina_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+29.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichenwirrling  *Daedalea quercina*. Er gehört zu den wenigen Pilzarten, die man mit verbundenen Augen erkennen kann. Gefragt ist der Tastsinn. Das labyrinthische zäh-elastische [Hymenophor](Hymenophor "Glossar") der Unterseite ist ein Alleinstellungsmerkmal. Der Eichenwirrling ist nahezu 100-prozentig wirtstreu. Er wächst an Stümpfen und am Boden liegenden Ästen oder Stämmen und ist überall häufig, wo es Eichen gibt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/daedalea-quercina-eichenwirrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_heterophylla_03_mhk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Nächster Exkursionstermin: Sonntag, 1. September 2024, 10:00 Uhr - **Der Wald u
 27.08.2026: Manche Pilze sind das ganze Jahr über zu finden, wenn man die Augen offen hält. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), das Gemeine Stummelfüßchen *Crepidotus variabilis*. So gemein wie sein deutscher Name vermuten lässt, ist es allerdings nicht. Das [Kugelsporige Stummelfüßchen Crepidotus cesatii](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen) zum Beispiel ist wesentlich häufiger und man könnte die beiden auch miteinander verwechseln. Im Zweifelsfall muss mikroskopiert werden. Bei den Stummelfüßchen handelt es sich um recht hübsche meist kleinere Pilze, bei denen sich genaueres Hinschauen lohnt. Für die Küche sind sie ohne Bedeutung. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/crepidotus-variabilis-gemeines-stummelfüßchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trochila_ilicina_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.08.2024: Für alle, die bei der Suche nach interessanten Pilzfunden ihren Wohnort möglichst nicht verlassen möchten, sind Friedhöfe eine vielversprechende Empfehlung. In Frankfurt am Main zum Beispiel der Waldfriedhof Oberrad, den wir gestern besucht haben. Dort haben wir auch unseren aktuellen [Fundkorbpilz](AA "Glossar-") mit der Lupe gesucht und gefunden: das Stechpalmen-Deckelbecherchen *Trochila ilicina*. Zu diesem winzigen [Ascomyzeten](Ascomyzeten "Glossar") muss man nicht viele Worte verlieren. Es genügt ein Blick auf das beigefügte Foto. (Erik Hock & Dieter Gewalt)
-
-Wer trotzdem mehr lesen möchte: [hier geht’s zum Porträt >](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen)
 
 <div style="clear:  both"></div>
 
