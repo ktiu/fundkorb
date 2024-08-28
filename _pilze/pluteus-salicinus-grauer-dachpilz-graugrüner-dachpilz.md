@@ -25,7 +25,7 @@ literatur:
 
 Der Graugrüne Dachpilz gehört zu den nicht gerade häufigen Arten seiner Gattung. Er ist vor allem in auwaldartigen Biotopen zu Hause, wo er als [Saprobiont](<saprobiontisch "Glossar">) bevorzugt an totem Erlen- und Weidenholz wächst. Auch an Bachläufen, Waldwegrändern wie auch an anderen Laubhölzern kann er vorkommen. Seine Erscheinungszeit ist Mai bis Dezember.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pluteus_salicinus_02_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/pluteus_salicinus_01_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos von Bernd Miggel" %}
