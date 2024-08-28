@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-28.08.2024: [Russula heterophylla - Grüner Speisetäubling](/pilze/russula-heterophylla-grüner-speisetäubling)  
+29.08.2024: [Daedalea quercina - Eichenwirrling](/pilze/daedalea-quercina-eichenwirrling)  
+28.08.2024: [Russula heterophylla - Grüner Speisetäubling](/pilze/russula-heterophylla-grüner-speisetäubling)\
 27.08.2024: [Crepidotus variabilis - Gemeines Stummelfüßchen](/pilze/crepidotus-variabilis-gemeines-stummelfüßchen)\
 26.08.2024: [Trochila ilicina - Stechpalmen-Deckelbecherchen](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen)\
 25.08.2024: [Amanita vaginata - Grauer Scheidenstreifling](/pilze/amanita-vaginata-grauer-scheidenstreifling)\
