@@ -70,6 +70,52 @@ Selbst bei scheinbar typischen Kollektionen kommt man oft nicht um eine mikrosko
 {% include bild.html datei="/bilder/pluteus_salicinus_05_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Hyphen mit Schnallen an den Septen -- Hyphen mit Schnallen an den Septen" %}
 
+Die nachfolgende Tabelle zeigt die für eine Unterscheidung relevanten Merkmale der vier Dachpilzarten mit Hakenzystiden auf:
+
+<div class="table-responsive">
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Ökologie</th>
+        <th>Hutoberfläche</th>        
+        <th>Geruch</th>
+        <th>Schnallen an den Huthauthyphen</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Pluteus cervinus<br />Rehbrauner Dachpilz</th>
+        <td>an Laub- und Nadelholz</td>
+        <td>glatt</td>
+        <td>schwach nach Rettich</td>
+        <td>keine</td>        
+      </tr>
+      <tr>
+        <th>Pluteus pozarianus<br />Nadelholzdachpilz</th>
+        <td>an Nadelholz</td>
+        <td>glatt</td>
+        <td>geruchlos</td>
+        <td>an 10 - 40% der Septen</td>        
+      </tr>
+      <tr>
+        <th>Pluteus primus<br />Voreilender Dachpilz</th>
+        <td>an Nadelholz</td>
+        <td>glatt</td>
+        <td>nach Rettich</td>
+        <td>an allen Septen</td>        
+      </tr>
+      <tr>
+        <th>Pluteus brunneoradiatus<br />Braunfaseriger Dachpilz</th>
+        <td>an Laubholz</td>
+        <td>deutlich radialfaserig</td>
+        <td>unangenehm ranzig</td>
+        <td>keine</td>        
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 Bliebe zum Schluss noch die Frage nach dem Speisewert zu beantworten. Bis auf den Grauen (Graugrünen) Dachpilz Pluteus salicinus sind alle Arten ungiftig, aber kaum einen kann man mit gutem Gewissen als schmackhaften Speisepilz empfehlen, auch den häufigen Rehbraunen Dachpilz nicht.
 
 ### Dachpilze im Fundkorb:
