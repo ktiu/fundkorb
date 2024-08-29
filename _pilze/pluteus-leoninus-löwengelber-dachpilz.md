@@ -33,4 +33,4 @@ Er gehört zu den selteneren Arten, die in unseren Wäldern nur sehr zerstreut v
 
 Obwohl die meisten Dachpilzarten in der populären Pilzliteratur als essbar bezeichnet werden, kann ihre Verwendung in der Küche nicht empfohlen werden. Sie haben einen ausgeprochen muffigen Geschmack.
 
-Mehr über Dachpilze erfahren Sie in unserem Gattungs-Porträt >
+Mehr über Dachpilze erfahren Sie in unserem [Gattungs-Porträt >](/verwandt/dachpilze-pluteus)
