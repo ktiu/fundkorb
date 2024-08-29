@@ -70,7 +70,7 @@ Selbst bei scheinbar typischen Kollektionen kommt man oft nicht um eine mikrosko
 {% include bild.html datei="/bilder/pluteus_salicinus_05_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Hyphen mit Schnallen an den Septen -- Pleurozystiden mit Haken an der Spitze" %}
 
-Die nachfolgende Tabelle zeigt die für eine Unterscheidung relevanten Merkmale der vier Dachpilzarten mit Hakenzystiden auf:
+Die nachfolgende Tabelle zeigt die für eine Unterscheidung relevanten Merkmale von fünf Dachpilzarten mit Hakenzystiden auf:
 
 <div class="table-responsive">
   <table class="table">
@@ -111,6 +111,14 @@ Die nachfolgende Tabelle zeigt die für eine Unterscheidung relevanten Merkmale 
         <td>deutlich radialfaserig</td>
         <td>unangenehm ranzig</td>
         <td>keine</td>        
+      </tr>
+
+ <tr>
+        <th>Pluteus salicinus<br />Grauer Dachpilz</th>
+        <td>an Laubholz</td>
+        <td>glatt</td>
+        <td>schwach nach Rettich</td>
+        <td>vorhanden</td>        
       </tr>
     </tbody>
   </table>
