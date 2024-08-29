@@ -21,4 +21,4 @@ Dieser auf einem morschen moosbewachsenen Buchenstamm gefundene Dachpilz gehört
 
 Unser Pilz hatte einen Hutdurchmesser von 1,5 cm, die aufgerissene Huthaut war über hellem Grund blass graubraun gefärbt mit deutlich dunklerer etwas gebuckelter Mitte, der Hutrand teilweise gerieft. Der weißliche zerbrechliche Stiel war hell überfasert, am berührten Teil hell grau, die Basis mit kleinem Knöllchen.  Die Sporen waren oval, nicht kugelig, etwa 7 - 7,5 x 5 µm.
 
-Mehr über Dachpilze erfahren Sie in unserem Gattungs-Porträt >
+Mehr über Dachpilze erfahren Sie in unserem [Gattungs-Porträt >](/verwandt/dachpilze-pluteus)
