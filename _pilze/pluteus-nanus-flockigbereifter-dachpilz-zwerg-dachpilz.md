@@ -23,3 +23,5 @@ Seine matt samtigen rot- bis dunkelbraunen Hüte erreichen normalerweise Durchme
 Die schlanken Stiele sind weißlich und fein silbrig längsgestreift. Sie werden im Alter oder auf Druck bräunlich. Das dünne Fleisch ist weißlich, Geruch und Geschmack unauffällig.
 
 *Pluteus nanus* ist von Mai bis Dezember in Laub- und Mischwäldern, gern an Waldwegrändern aber auch in Parkanlagen zu finden. Eine gewisse Ähnlichkeit haben der [Runzelige Dachpilz *Pluteus phlebophorus*](/pilze/pluteus-phlebophorus-runzeliger-dachpilz), der Düstere Dachpilz *Pluteus luctuosus* und der Samtige Dachpilz *Pluteus podospileus*.
+
+Mehr über Dachpilze erfahren Sie in unserem Gattungs-Porträt >
