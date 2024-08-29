@@ -23,4 +23,4 @@ Einer der wohl schönsten Dachpilze, der einem im Feld aber doch für einen Mome
 {% include bild.html datei="/bilder/pluteus_umbrosus_02_tl.jpg" %}
 {% include abbildung_ende.html %}
 
-Mehr über Dachpilze erfahren Sie in unserem Gattungs-Porträt >
+Mehr über Dachpilze erfahren Sie in unserem [Gattungs-Porträt >](/verwandt/dachpilze-pluteus)
