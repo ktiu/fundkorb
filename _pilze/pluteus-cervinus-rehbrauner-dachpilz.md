@@ -108,3 +108,5 @@ Die nachfolgende Tabelle zeigt die für eine Unterscheidung relevanten Merkmale 
     </tbody>
   </table>
 </div>
+
+Mehr über Dachpilze erfahren Sie in unserem Gattungs-Porträt >
