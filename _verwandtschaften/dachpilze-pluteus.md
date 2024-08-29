@@ -68,7 +68,7 @@ Selbst bei scheinbar typischen Kollektionen kommt man oft nicht um eine mikrosko
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pluteus_salicinus_03_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/pluteus_salicinus_05_bm.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Hyphen mit Schnallen an den Septen -- Hyphen mit Schnallen an den Septen" %}
+{% include abbildung_ende.html legende="Hyphen mit Schnallen an den Septen -- Pleurozystiden mit Haken an der Spitze" %}
 
 Die nachfolgende Tabelle zeigt die für eine Unterscheidung relevanten Merkmale der vier Dachpilzarten mit Hakenzystiden auf:
 
