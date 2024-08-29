@@ -39,3 +39,5 @@ In Zweifelsfällen oder zur Absicherung ist Mikroskopieren unerlässlich. Die Sp
 {% include bild.html datei="/bilder/pluteus_salicinus_04_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/pluteus_salicinus_05_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Huthauthyphen, Septen mit Schnallen -- Sporen im Hymenium -- Pleurozystiden in Öl (3 Mikrofotos: Bernd Miggel)" %}
+
+Mehr über Dachpilze erfahren Sie in unserem Gattungs-Porträt >
