@@ -38,3 +38,5 @@ Meines Erachtens ist der Samtige Dachpilz schon aufgrund seiner Kleinheit makros
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/pluteus_podospileus_06_sporen_fk.jpg" %}
 {% include abbildung_ende.html legende="Sporen rundlich, glatt, ca. 5 - 6 x 5,2 - 6,5 µm      (Mikrofotos: Frank Kaster)" %}
+
+Mehr über Dachpilze erfahren Sie in unserem Gattungs-Porträt >
