@@ -77,4 +77,4 @@ Die nachfolgende Tabelle zeigt die für eine Unterscheidung relevanten Merkmale 
   </table>
 </div>
 
-Mehr über Dachpilze erfahren Sie in unserem Gattungs-Porträt >
+Mehr über Dachpilze erfahren Sie in unserem [Gattungs-Porträt >](/verwandt/dachpilze-pluteus)
