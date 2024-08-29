@@ -40,3 +40,5 @@ Sehr viel eindeutiger ist ein mikroskopisches Unterscheidungsmerkmal. Pluteus ni
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/pluteus_nigrofloccosus_03_jr.jpg" %}
 {% include abbildung_ende.html legende="Pleurozystiden mit Haken (Mikrofoto: Johann Rejek)" %}
+
+Mehr über Dachpilze erfahren Sie in unserem Gattungs-Porträt >
