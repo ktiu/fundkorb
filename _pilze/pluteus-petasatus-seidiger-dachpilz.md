@@ -43,3 +43,5 @@ Mikroskopische Merkmale:\
 Die ellipsoiden Sporen messen 6,5 - 8,5 x 4,5 - 6 µm, die [Hyphen](Hyphen "Glossar") sind ohne Schnallen, die Pleurozystiden mit Haken
 
 Der Pilz ist nicht häufig aber weit verbreitet. Verwechselt werden könnte er mit dem seltenen Gerieften Dachpilz *Pluteus semibulbosus*, dem Weißen Dachpilz *Pluteus pellitus*, dem realtiv häufigen Grauen Dachpilz *Pluteus salicinus* (Hyphen mit Schnallen) oder hellen Formen anderer Dachpilzarten.
+
+Mehr über Dachpilze erfahren Sie in unserem Gattungs-Porträt >
