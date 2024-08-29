@@ -43,4 +43,6 @@ Pluteus thomsonii = Graustieliger Adern-Dachpilz (Stiel weiß bepudert)
 {% include bild.html datei="/bilder/pluteus_phlebophorus_hds_05_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Mikrofotos von Frank Kaster, von links: Sporen (6,5 x 5,3 µm) - Cheilozystiden - Pleurozystiden - Hutdeckschicht" %}
 
-Zum Schluss noch eine Anmerkung zum Artnamen *phlebophorus*: der Begriff *Phlebologie* bezeichnet ein medizinisches Fachgebiet, das sich u. a. mit der Behandlung von Krampfadern befasst
+Zum Schluss noch eine Anmerkung zum Artnamen *phlebophorus*: der Begriff *Phlebologie* bezeichnet ein medizinisches Fachgebiet, das sich u. a. mit der Behandlung von Krampfadern befasst.
+
+Mehr über Dachpilze erfahren Sie in unserem Gattungs-Porträt >
