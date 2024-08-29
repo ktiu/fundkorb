@@ -92,7 +92,7 @@ Die nachfolgende Tabelle zeigt die für eine Unterscheidung relevanten Merkmale 
         <td>keine</td>        
       </tr>
       <tr>
-        <th>Pluteus pozarianus<br />Nadelholzdachpilz</th>
+        <th>Pluteus pouzarianus<br />Nadelholzdachpilz</th>
         <td>an Nadelholz</td>
         <td>glatt</td>
         <td>geruchlos</td>
