@@ -25,4 +25,4 @@ Die dünnfleischigen Hüte sind jung kugelig bis konvex, später abgeflacht und 
 
 Mikromerkmale: Sporen rundlich, glatt, 5,5 - 7,5 x 4,5 - 7 µm. Die Huthaut besteht aus blasigen bis birnenförmigen Zellen, die Huthauthyphen und Basidien haben keine Schnallen. Cheilozystiden keulig bis blasig, 25 - 65 µm lang.
 
-Mehr über Dachpilze erfahren Sie in unserem Gattungs-Porträt >
+Mehr über Dachpilze erfahren Sie in unserem [Gattungs-Porträt >](/verwandt/dachpilze-pluteus)
