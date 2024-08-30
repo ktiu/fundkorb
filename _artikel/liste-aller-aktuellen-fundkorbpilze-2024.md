@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-30.08.2024: [Humaria hemisphaerica - Halbkugeliger Borstling](/pilze/humaria-hemisphaerica-halbkugeliger-borstling)  
+31.08.2024: [Cyathus striatus - Gestreiffter Teuerling](/pilze/cyathus-striatus-gestreifter-teuerling)  
+30.08.2024: [Humaria hemisphaerica - Halbkugeliger Borstling](/pilze/humaria-hemisphaerica-halbkugeliger-borstling)\
 29.08.2024: [Daedalea quercina - Eichenwirrling](/pilze/daedalea-quercina-eichenwirrling)\
 28.08.2024: [Russula heterophylla - Grüner Speisetäubling](/pilze/russula-heterophylla-grüner-speisetäubling)\
 27.08.2024: [Crepidotus variabilis - Gemeines Stummelfüßchen](/pilze/crepidotus-variabilis-gemeines-stummelfüßchen)\
