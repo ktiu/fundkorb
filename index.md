@@ -21,6 +21,18 @@ Nächster Exkursionstermin: Sonntag, 1. September 2024, 10:00 Uhr - **Der Wald u
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cyathus_striatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.08.2024: Aktueller [Fundkorbpilzes](AA "Glossar-") ist der Gestreifte Teuerling *Cyathus striatus*. Sie sehen aus wie struppige Tütchen, die anfangs mit einem hellen Häutchen verschlossen sind, das bald aufreißt und den Blick ins Innere freigibt. Darin liegen winzige münzenförmige Gebilde, in denen der Pilz, der gar nicht wie ein Pilz aussieht, seine Sporen bildet. Sind es wenige Münzen, stehen teure Zeiten an. Sind es viele, leiden wir keinen Mangel. Deshalb heißen die Tütchen Teuerlinge. Im angelsächsischen Sprachraum werden sie *„Bird´s Nest Fungi“*  genannt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cyathus-striatus-gestreifter-teuerling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/humaria_hemisphaerica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Nächster Exkursionstermin: Sonntag, 1. September 2024, 10:00 Uhr - **Der Wald u
 29.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichenwirrling  *Daedalea quercina*. Er gehört zu den wenigen Pilzarten, die man mit verbundenen Augen erkennen kann. Gefragt ist der Tastsinn. Das labyrinthische zäh-elastische [Hymenophor](Hymenophor "Glossar") der Unterseite ist ein Alleinstellungsmerkmal. Der Eichenwirrling ist nahezu 100-prozentig wirtstreu. Er wächst an Stümpfen und am Boden liegenden Ästen oder Stämmen und ist überall häufig, wo es Eichen gibt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/daedalea-quercina-eichenwirrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_heterophylla_03_mhk.jpg" %}
-{% include abbildung_ende.html %}
-
-28.08.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist wie etliche andere Täublinge ein wahres Farbchamäleon. Der Hut des Grünen Speisetäublings *Russula heterophylla* kann grün in allen erdenklichen Tönungen und genau so gut oliv oder braun gefärbt sein. Das macht ihn als sammelwürdigen Pilz unattraktiv, obwohl es sich um einen ausgezeichneten Speisepilz handelt. Er ist kürzlich in unserer Parkanlage unter einer Buche erschienen, war aber leider voller Maden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-heterophylla-grüner-speisetäubling)
 
 <div style="clear:  both"></div>
 
