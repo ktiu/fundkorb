@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-31.08.2024: [Cyathus striatus - Gestreiffter Teuerling](/pilze/cyathus-striatus-gestreifter-teuerling)  
+01.09.2024: [Russula silvestris - Kiefern-Speitäubling](/pilze/russula-silvestris-kiefern-speitäubling)
+
+31.08.2024: [Cyathus striatus - Gestreiffter Teuerling](/pilze/cyathus-striatus-gestreifter-teuerling)\
 30.08.2024: [Humaria hemisphaerica - Halbkugeliger Borstling](/pilze/humaria-hemisphaerica-halbkugeliger-borstling)\
 29.08.2024: [Daedalea quercina - Eichenwirrling](/pilze/daedalea-quercina-eichenwirrling)\
 28.08.2024: [Russula heterophylla - Grüner Speisetäubling](/pilze/russula-heterophylla-grüner-speisetäubling)\
