@@ -21,6 +21,18 @@ Nächster Exkursionstermin: Sonntag, 1. September 2024, 10:00 Uhr - **Der Wald u
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_silvestris_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+01.09.2024: In unserem heutigen Exkursionsgebiet, einem Roteichenforst bei Rodgau-Dudenhofen, werden wir einem kleinen roten Täubling begegnen, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Er schmeckt sehr scharf, ist sehr zerbrechlich, seine Hutfarbe variiert von satt kirschrot bis blass rosarot; konstant ist die rein weiße Farbe von Lamellen und Stiel. Diese Merkmale passen zum Kiefern-Speitäubling *Russula silvestris*, der keineswegs nur bei Kiefern wächst, heftige Magen-/Darmbeschwerden verursacht und deshalb zu den Giftpilzen zählt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-silvestris-kiefern-speitäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cyathus_striatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Nächster Exkursionstermin: Sonntag, 1. September 2024, 10:00 Uhr - **Der Wald u
 30.08.2024: Die ungestielten becherförmigen Fruchtkörper unseres heutigen [Fundkorbpilzes](AA "Glossar-") wachsen ungestielt auf blanker Erde, zwischen Moosen oder auf vermorschtem nassen Holz. Der Halbkugelige Borstling *Humaria hemisphaerica* gehört zu den Schlauchpilzen (Ascomyzeten) und bildet ungestielte becherförmige Fruchtkörper mit bis zu 3 cm Durchmesser. Seine Innnenseite ist weißlich bis hellgrau, glatt oder etwas faltig, die Außenseite mit borstigen rostbraunen Haaren bekleidet. Dadurch erscheint der Becherrand wie bewimpert. Der Pilz war früher relativ häufig, ist trockenheitsbedingt aber deutlich rückläufig. Das bisher regenreiche Jahr 2024 hat offenbar zu einer Wiederbelebung geführt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/humaria-hemisphaerica-halbkugeliger-borstling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/daedalea_quercina_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-29.08.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichenwirrling  *Daedalea quercina*. Er gehört zu den wenigen Pilzarten, die man mit verbundenen Augen erkennen kann. Gefragt ist der Tastsinn. Das labyrinthische zäh-elastische [Hymenophor](Hymenophor "Glossar") der Unterseite ist ein Alleinstellungsmerkmal. Der Eichenwirrling ist nahezu 100-prozentig wirtstreu. Er wächst an Stümpfen und am Boden liegenden Ästen oder Stämmen und ist überall häufig, wo es Eichen gibt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/daedalea-quercina-eichenwirrling)
 
 <div style="clear:  both"></div>
 
