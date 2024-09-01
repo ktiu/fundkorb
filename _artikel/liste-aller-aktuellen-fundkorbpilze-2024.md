@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+02.09.2024: [Agaricus xanthoderma - Karbolchampignon](/pilze/agaricus-xanthoderma-karbolchampignon)  
 01.09.2024: [Russula silvestris - Kiefern-Speitäubling](/pilze/russula-silvestris-kiefern-speitäubling)
 
 31.08.2024: [Cyathus striatus - Gestreiffter Teuerling](/pilze/cyathus-striatus-gestreifter-teuerling)\
