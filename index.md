@@ -14,6 +14,18 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_xanthoderma_01_dg-1024x734.jpg" %}
+{% include abbildung_ende.html %}
+
+02.09.2024: Längst nicht mehr so häufig wie in früheren Jahren ist der Karbolchamignon *Agaricus xanthoderma* (unser aktueller [Fundkorbpilz](AA "Glossar-")) in unserer Dietzenbacher Parkanlage zu finden. Das verringert die Gefahr, dass Anwohner nach einer Pilzmahlzeit von Übelkeit, Bauchweh und Durchfall befallen werden. Wird er doch immer wieder mit essbaren Wiesenchampignons verwechselt. Auch in der Pilzberatung im Frankfurter Gesundheitsamt muss er immer wieder einkassiert werden. Mit etwas Sorgfalt sind solche Unpässlichkeiten leicht zu vermeiden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agaricus-xanthoderma-karbolchampignon)
+
+<div style="clear:  both"></div>
+
+- - -
+
 Nächster Exkursionstermin: Sonntag, 1. September 2024, 10:00 Uhr - **Der Wald und seine Pilze** im Raum Frankfurt/Offenbach/Dietzenbach
 
 [Hier geht's zur Anmeldung >](/termine)
