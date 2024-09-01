@@ -8,9 +8,14 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-[](/fundkorb.de/termine)
 
 {% include pilzsuche.html %}
+
+- - -
+
+Nächster Exkursionstermin: Sonntag, 15. September 2024, 10:00 Uhr - **Pilzkundliche Führung für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach
+
+[Hier geht's zur Anmeldung >](/termine)
 
 - - -
 
@@ -23,12 +28,6 @@ footer_scripts:
 [Mehr lesen >](/pilze/agaricus-xanthoderma-karbolchampignon)
 
 <div style="clear:  both"></div>
-
-- - -
-
-Nächster Exkursionstermin: Sonntag, 1. September 2024, 10:00 Uhr - **Der Wald und seine Pilze** im Raum Frankfurt/Offenbach/Dietzenbach
-
-[Hier geht's zur Anmeldung >](/termine)
 
 - - -
 
@@ -51,18 +50,6 @@ Nächster Exkursionstermin: Sonntag, 1. September 2024, 10:00 Uhr - **Der Wald u
 31.08.2024: Aktueller [Fundkorbpilzes](AA "Glossar-") ist der Gestreifte Teuerling *Cyathus striatus*. Sie sehen aus wie struppige Tütchen, die anfangs mit einem hellen Häutchen verschlossen sind, das bald aufreißt und den Blick ins Innere freigibt. Darin liegen winzige münzenförmige Gebilde, in denen der Pilz, der gar nicht wie ein Pilz aussieht, seine Sporen bildet. Sind es wenige Münzen, stehen teure Zeiten an. Sind es viele, leiden wir keinen Mangel. Deshalb heißen die Tütchen Teuerlinge. Im angelsächsischen Sprachraum werden sie *„Bird´s Nest Fungi“*  genannt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cyathus-striatus-gestreifter-teuerling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/humaria_hemisphaerica_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.08.2024: Die ungestielten becherförmigen Fruchtkörper unseres heutigen [Fundkorbpilzes](AA "Glossar-") wachsen ungestielt auf blanker Erde, zwischen Moosen oder auf vermorschtem nassen Holz. Der Halbkugelige Borstling *Humaria hemisphaerica* gehört zu den Schlauchpilzen (Ascomyzeten) und bildet ungestielte becherförmige Fruchtkörper mit bis zu 3 cm Durchmesser. Seine Innnenseite ist weißlich bis hellgrau, glatt oder etwas faltig, die Außenseite mit borstigen rostbraunen Haaren bekleidet. Dadurch erscheint der Becherrand wie bewimpert. Der Pilz war früher relativ häufig, ist trockenheitsbedingt aber deutlich rückläufig. Das bisher regenreiche Jahr 2024 hat offenbar zu einer Wiederbelebung geführt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/humaria-hemisphaerica-halbkugeliger-borstling)
 
 <div style="clear:  both"></div>
 
