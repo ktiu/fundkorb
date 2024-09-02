@@ -8,7 +8,6 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-
 {% include pilzsuche.html %}
 
 - - -
@@ -16,6 +15,18 @@ footer_scripts:
 Nächster Exkursionstermin: Sonntag, 15. September 2024, 10:00 Uhr - **Pilzkundliche Führung für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach
 
 [Hier geht's zur Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cyathus_olla_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.09.2024: Man hat noch keine brütenden Vögel auf ihnen sitzen gesehen, aber es gibt sie wirklich, diese [Vogelnestpilze](/verwandt/vogelnestpilze). Sie sind klein, leicht zu übersehen, aber problemlos auf einen Blick zu bestimmen. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Topf-Teuerling *Cythus olla*. Es sind kleine Töpfchen von etwa einem Zentimeter Durchmesser, in dem etliche linsen- oder münzförmige Gebilde liegen, die man Peridiolen nennt. In ihnen werden die Sporen gebildet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cyathus-olla-topf-teuerling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -38,18 +49,6 @@ Nächster Exkursionstermin: Sonntag, 15. September 2024, 10:00 Uhr - **Pilzkundl
 01.09.2024: In unserem heutigen Exkursionsgebiet, einem Roteichenforst bei Rodgau-Dudenhofen, werden wir einem kleinen roten Täubling begegnen, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Er schmeckt sehr scharf, ist sehr zerbrechlich, seine Hutfarbe variiert von satt kirschrot bis blass rosarot; konstant ist die rein weiße Farbe von Lamellen und Stiel. Diese Merkmale passen zum Kiefern-Speitäubling *Russula silvestris*, der keineswegs nur bei Kiefern wächst, heftige Magen-/Darmbeschwerden verursacht und deshalb zu den Giftpilzen zählt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-silvestris-kiefern-speitäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cyathus_striatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.08.2024: Aktueller [Fundkorbpilzes](AA "Glossar-") ist der Gestreifte Teuerling *Cyathus striatus*. Sie sehen aus wie struppige Tütchen, die anfangs mit einem hellen Häutchen verschlossen sind, das bald aufreißt und den Blick ins Innere freigibt. Darin liegen winzige münzenförmige Gebilde, in denen der Pilz, der gar nicht wie ein Pilz aussieht, seine Sporen bildet. Sind es wenige Münzen, stehen teure Zeiten an. Sind es viele, leiden wir keinen Mangel. Deshalb heißen die Tütchen Teuerlinge. Im angelsächsischen Sprachraum werden sie *„Bird´s Nest Fungi“*  genannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cyathus-striatus-gestreifter-teuerling)
 
 <div style="clear:  both"></div>
 
