@@ -12,9 +12,9 @@ footer_scripts:
 
 - - -
 
-Nächster Exkursionstermin: Sonntag, 15. September 2024, 10:00 Uhr - **Pilzkundliche Führung für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach
+Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundliche Exkursion für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach
 
-Dieser Termin ist ausgebucht
+[Hier geht's zur Anmeldung >](/termine)
 
 - - -
 
