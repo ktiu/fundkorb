@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-03.09.2024: [Cyathus olla - Topf-Teuerling](/pilze/cyathus-olla-topf-teuerling)  
+04.09.2024: [Pholiota populnea - Pappelschüppling](/pilze/pholiota-populnea-pappelschüppling)  
+03.09.2024: [Cyathus olla - Topf-Teuerling](/pilze/cyathus-olla-topf-teuerling)\
 02.09.2024: [Agaricus xanthoderma - Karbolchampignon](/pilze/agaricus-xanthoderma-karbolchampignon)\
 01.09.2024: [Russula silvestris - Kiefern-Speitäubling](/pilze/russula-silvestris-kiefern-speitäubling)
 
