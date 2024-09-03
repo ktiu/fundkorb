@@ -18,6 +18,18 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/pholiota_populnea_03_hs.jpg" %}
+{% include abbildung_ende.html %}
+
+04.09.2024: Wenn irgendwo gefällte Pappelstämme herumliegen, dauert es meist nicht lange, bis sich unser aktueller [Fundkorbpilz](AA "Glossar-"), der Pappelschüppling *Pholiota populnea*, blicken lässt. Besonders gern an den Schnittflächen. Hut und Stiel sind sparrig beschuppt, sein Fleiusch ist zäh und schmeckt bitter - also nichts für die Küche. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pholiota-populnea-pappelschüppling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cyathus_olla_01_dg.jpg" %}
 {% include abbildung_ende.html %}
