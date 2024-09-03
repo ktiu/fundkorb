@@ -5,8 +5,7 @@ bis: ""
 anmeldung_offen: false
 anmeldung_noetig: true
 published: true
-bilder:
-  - /bilder/einsteiger_01_dg.jpg
+bilder: []
 ---
 Beim Pilzesammeln auf der sicheren Seite zu sein, ist gerade für Einsteiger von größter Wichtigkeit.  Bei unserer Exkursion in einem Wald im Raum Frankfurt/Offenbach/Dietzenbach erfahren Sie alles, was beim Sammeln zu beachten ist und lernen sowohl einige essbare wie auch ungenießbare und giftige Arten kennen.
 
