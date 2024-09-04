@@ -28,7 +28,7 @@ Pilze der Gattung *Daldinia* sind an ihren kohleartigen im Vergleich zu den Kohl
 *Daldinia loculata*\
 *Daldinia petriniae* (Erlen-Holzkohlepilz)
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/daldinia_petriniae_02_bm.jpg" %}
 {% include abbildung_ende.html legende="Einzelner Fruchtkörper, punktförmige Ostiolen (Sporenauslassöffnungen) deutlich erkennbar (Foto: Bernd Miggel)" %}
 
