@@ -19,6 +19,18 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pluteus_nigrofloccosus_01_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+04.09.2024: Gefärbte Lamellenschneiden können oft den Unterschied ausmachen und die Bestimmung erleichtern. Zum Beispiel bei Helmlingen oder [Dachpilzen](/verwandt/dachpilze-pluteus). Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schwarzschneidige Dachpilz *Pluteus nigrofloccosus* ist ein schönes Beispiel. Leider ist er nicht der einzige in seiner Gattung mit diesem Merkmal. Man achte auch auf das Substrat (Laub- oder Nadelholz) oder die Form von Zystiden, die nur mit dem Mikroskop sichtbar sind. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pholiota_populnea_03_hs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,30 +49,6 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 03.09.2024: Man hat noch keine brütenden Vögel auf ihnen sitzen gesehen, aber es gibt sie wirklich, diese [Vogelnestpilze](/verwandt/vogelnestpilze). Sie sind klein, leicht zu übersehen, aber problemlos auf einen Blick zu bestimmen. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Topf-Teuerling *Cythus olla*. Es sind kleine Töpfchen von etwa einem Zentimeter Durchmesser, in dem etliche linsen- oder münzförmige Gebilde liegen, die man Peridiolen nennt. In ihnen werden die Sporen gebildet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cyathus-olla-topf-teuerling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_xanthoderma_01_dg-1024x734.jpg" %}
-{% include abbildung_ende.html %}
-
-02.09.2024: Längst nicht mehr so häufig wie in früheren Jahren ist der Karbolchamignon *Agaricus xanthoderma* (unser aktueller [Fundkorbpilz](AA "Glossar-")) in unserer Dietzenbacher Parkanlage zu finden. Das verringert die Gefahr, dass Anwohner nach einer Pilzmahlzeit von Übelkeit, Bauchweh und Durchfall befallen werden. Wird er doch immer wieder mit essbaren Wiesenchampignons verwechselt. Auch in der Pilzberatung im Frankfurter Gesundheitsamt muss er immer wieder einkassiert werden. Mit etwas Sorgfalt sind solche Unpässlichkeiten leicht zu vermeiden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agaricus-xanthoderma-karbolchampignon)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_silvestris_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-01.09.2024: In unserem heutigen Exkursionsgebiet, einem Roteichenforst bei Rodgau-Dudenhofen, werden wir einem kleinen roten Täubling begegnen, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Er schmeckt sehr scharf, ist sehr zerbrechlich, seine Hutfarbe variiert von satt kirschrot bis blass rosarot; konstant ist die rein weiße Farbe von Lamellen und Stiel. Diese Merkmale passen zum Kiefern-Speitäubling *Russula silvestris*, der keineswegs nur bei Kiefern wächst, heftige Magen-/Darmbeschwerden verursacht und deshalb zu den Giftpilzen zählt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-silvestris-kiefern-speitäubling)
 
 <div style="clear:  both"></div>
 
