@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Daldinia petriniae
-  deutsch: Erlen-Holzkohlepilz
+  deutsch: Erlen-Holzkohlenpilz
   referenz: Y.M. Ju, J.D.Rogers & F. San Martin 1997
   erlaeuterung: petriniae = zu Ehren der Mykologin L. A. Petrini
   familie: Hypoxylaceae
@@ -26,7 +26,7 @@ Pilze der Gattung *Daldinia* sind an ihren kohleartigen im Vergleich zu den Kohl
 *Daldinia fissa* (Gestielter Kohlenpilz)\
 *Daldinia lloydii*\
 *Daldinia loculata*\
-*Daldinia petriniae* (Erlen-Holzkohlepilz)
+*Daldinia petriniae* (Erlen-Holzkohlenpilz)
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/daldinia_petriniae_02_bm.jpg" %}
