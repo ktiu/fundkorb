@@ -47,4 +47,6 @@ Bestimmungsschritte nach *Wollweber & Stadler*:
 {% include bild.html datei="/bilder/daldinia_petriniae_04_bm.jpeg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Im Anschnitt ist die für die Gattung typische konzentrische Schichtung zu erkennen -- Sporen mit zum Teil sichtbarer längs verlaufender Keimspalte (Foto: Bernd Miggel; Fotomontage von Frank Kaster)" %}
 
+Von *Bernd Miggel* anhand 25 repräsentativer Sporen ermittelte Werte: Maße 11,3 - 15,6 x 5,5 – 6,8 µm, Schlankheitsgrad Q 2,11 – 2,24.
+
 Als Substrat geben *Wollweber & Stadler* Erle und Hainbuche an. Ein makroskopisch erkennbares Unterscheidungsmerkmal könnte der nicht immer deutlich sichtbare Sockel der Fruchtkörper sein.
