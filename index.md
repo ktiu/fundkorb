@@ -19,6 +19,18 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/daldinia_petriniae_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute einer der Holzkohlenpilze. Sie werden auch Kohlen-Kugelpilze genannt. Den Erlen-Holzkohlepilz *Daldinia petriniae* fanden wir bei Rodgau-Dudenhofen an einem toten Laubbaum. An seinem Stamm wuchsen zahlreiche Fruchtkörper in bis zu fünf Metern Höhe. Die untersten konnten wir gerade noch mit ausgestrecktem Arm erreichen. Die anschließende Bestimmung war mit einigem Aufwand verbunden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/daldinia-petriniae-erlen-holzkohlepilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_nigrofloccosus_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 04.09.2024: Wenn irgendwo gefällte Pappelstämme herumliegen, dauert es meist nicht lange, bis sich unser aktueller [Fundkorbpilz](AA "Glossar-"), der Pappelschüppling *Pholiota populnea*, blicken lässt. Besonders gern an den Schnittflächen. Hut und Stiel sind sparrig beschuppt, sein Fleiusch ist zäh und schmeckt bitter - also nichts für die Küche. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/pholiota-populnea-pappelschüppling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cyathus_olla_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.09.2024: Man hat noch keine brütenden Vögel auf ihnen sitzen gesehen, aber es gibt sie wirklich, diese [Vogelnestpilze](/verwandt/vogelnestpilze). Sie sind klein, leicht zu übersehen, aber problemlos auf einen Blick zu bestimmen. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Topf-Teuerling *Cythus olla*. Es sind kleine Töpfchen von etwa einem Zentimeter Durchmesser, in dem etliche linsen- oder münzförmige Gebilde liegen, die man Peridiolen nennt. In ihnen werden die Sporen gebildet. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cyathus-olla-topf-teuerling)
 
 <div style="clear:  both"></div>
 
