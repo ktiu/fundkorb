@@ -23,8 +23,8 @@ literatur:
 Die meisten Arten der Cortinarien-Untergattung *Telamonia* (Gürtelfüße) sind nur schwer zu bestimmen. Der hier gezeigte Duftende Gürtelfuß hat immerhin einen auffälligen Geruch nach Pelargonienblättern (Balkongeranien), der aber auch fehlen kann (*var. inolens*).
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/cortinarius_flexipes_flexipes_02_us.jpg" %}
-{% include abbildung_ende.html legende="Foto: Udo Schäfer" %}
+{% include bild.html datei="/bilder/cortinarius_flexipes_flexipes_02_uwi.jpg" %}
+{% include abbildung_ende.html legende="Foto: Uwe Winkler" %}
 
 *Karin Montag* hat die Hutform sehr anschaulich als zipfelmützig bezeichnet und gibt den Hutdurchmesser mit 2 - 5 cm an. Recht variabel ist die Hutmitte geformt. Sie kann spitz aber auch stumpf gebuckelt sein. Unter den weißflockigen abwischbaren Schüppchen ist die [hygrophane](hygrophan "Glossar") Huthaut ocker- bis lila- oder graubraun gefärbt. Die engstehenden Lamellen sind ausgebuchtet am Stiel angewachsen und jung violettlich, im Alter durch ausfallendes Sporenpulver dunkel rostbraun. Die violett- bis rotbraunen oft verbogenen Stiele sind mit hellen [Velumresten](Velum "Glossar") natternartig gegürtelt. Das graubraune Hutfleisch hat lt. *Breitenbach & Kränzlin* einen milden, pilzartigen Geschmack, was Speisepilzsammler allerdings nicht dazu verführen sollte, den Pilz in der Küche zu verwenden. Er ist zumindest giftverdächtig, manche Quellen bezeichnen ihn als magen-/darmgiftig.
 
