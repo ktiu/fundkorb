@@ -2,7 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-06.09.2024: [Daldinia petriniae - Erlen-Holzkohlenpilz](/pilze/entries/daldinia-petriniae-erlen-holzkohlenpilz)
+06.09.2024: [Daldinia petriniae - Erlen-Holzkohlenpilz](/pilze/daldinia-petriniae-erlen-holzkohlenpilz)  
 05.09.2024: [Pluteus nigrofloccosus - Schwarzschneidiger Dachpilz](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)\
 04.09.2024: [Pholiota populnea - Pappelschüppling](/pilze/pholiota-populnea-pappelschüppling)\
 03.09.2024: [Cyathus olla - Topf-Teuerling](/pilze/cyathus-olla-topf-teuerling)\
