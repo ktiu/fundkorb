@@ -22,6 +22,8 @@ literatur:
   - text: "SARNARI, M. (1998, 2005): Monografia illustrata del Genere Russula in
       Europa: 622 - 625"
   - url: https://de.wikipedia.org/wiki/Flammenstiel-T%C3%A4ubling
+  - text: Porträt Nr. 129 in Der Tintling 71, Heft 4/2011 (in der hinteren
+      Umschlagklappe)
 ---
 Eine auffällige, seltene Art, der Flammenstiel-Täubling *Russula rhodopus*, mit seinem immer wie lackiert glänzenden, tiefroten Hut, seinen weißen Lamellen und seinem rosa geflammten Stiel. Wir haben hier einen Täubling vor uns, der auf feuchten, sauren Böden, gerne im Moor oder am Moorrand, bei Nadelbäumen wächst. Für Torfmoose scheint er eine besondere Vorliebe zu haben. Die Rote Liste Deutschlands 2016 führt die Art in der Gefährdungskategorie D (Daten unzureichend) auf.
 
