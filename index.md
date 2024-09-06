@@ -24,7 +24,7 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 
 06.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute einer der Holzkohlenpilze. Sie werden auch Kohlen-Kugelpilze genannt. Wenn man sporulierende Kugeln anfasst, bekommt man schwarze Finger. Den Erlen-Holzkohlenpilz *Daldinia petriniae* fanden wir bei Rodgau-Dudenhofen an einem toten Laubbaum (vermutlich Erle). An seinem Stamm wuchsen zahlreiche Fruchtkörper in bis zu fünf Metern Höhe. Die untersten konnten wir gerade noch mit ausgestrecktem Arm erreichen. Die anschließende Bestimmung war mit einigem Aufwand verbunden, was *Bernd Miggel* mit gewohnter Routine bestens gelang. (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/entries/daldinia-petriniae-erlen-holzkohlenpilz)
+[Mehr lesen >](/pilze/daldinia-petriniae-erlen-holzkohlenpilz)
 
 <div style="clear:  both"></div>
 
