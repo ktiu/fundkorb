@@ -17,8 +17,10 @@ literatur:
       53"
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 1, Nr. 346 (Daldinia
       concentrica)"
+  - text: "Karin Montag: Kugelige Holzkohle (in Der Tintling 71 Heft 4/2011) Seite
+      65 - 69"
 ---
-Pilze der Gattung *Daldinia* sind an ihren kohleartigen im Vergleich zu den Kohlenbeeren (Gattung *Hypoxylon*) deutlich größeren rundlichen, halbkugeligen bis kissenförmigen Fruchtkörpern (Durchmesser 3 – 5 cm) leicht zu erkennen. Nicht ganz so einfach ist es jedoch, die einzelnen Arten sicher voneinander zu trennen, was ohne Beachtung von chemischen Farbreaktionen und mikroskopischen Merkmalen kaum möglich ist. Hinzu kommt, dass sich viele Pilzfreunde und Kartierer auf den Klassiker der Schlauchpilzbestimmung (Pilze der Schweiz Band 1) verlassen haben, in dem *Daldinia concentrica* die einzige beschriebene und ansonsten sehr unterschiedlich interpretierte Art der Gattung gewesen ist. Insgesamt sind in Deutschland folgende sieben *Daldinia*-Arten nachgewiesen:
+Pilze der Gattung *Daldinia* sind an ihren kohleartigen im Vergleich zu den Kohlenbeeren (Gattung *Hypoxylon*) deutlich größeren rundlichen, halbkugeligen bis kissenförmigen Fruchtkörpern (Durchmesser 3 – 5 cm) und ihrer konzentrisch gezonten [Trama](Trama "Glossar") leicht zu erkennen. Nicht ganz so einfach ist es jedoch, die einzelnen Arten sicher voneinander zu trennen, was ohne Beachtung von chemischen Farbreaktionen und mikroskopischen Merkmalen kaum möglich ist. Hinzu kommt, dass sich viele Pilzfreunde und Kartierer auf den Klassiker der Schlauchpilzbestimmung (Pilze der Schweiz Band 1) verlassen haben, in dem *Daldinia concentrica* die einzige beschriebene Art der Gattung war. Nahezu alle gefundenen Holzkohlenpilze wurden damals unter diesem Namen gemeldet. Spätere Nachprüfungen an noch vorhandenem Belegmagterial haben ergeben, dass es sich bei den allermeisten <ins>nicht</ins> um *Daldinia concentrica* gehandelt hat. Inzwischen sind in Deutschland folgende sieben *Daldinia*-Arten nachgewiesen:
 
 [*Daldinia childiae* (Birnen-Kohlenpilz)](/pilze/daldinia-childiae-birnen-kohlenpilz)\
 [*Daldinia concentrica* (Kohlen-Kugelpilz)](/pilze/daldinia-concentrica-kohlen-kugelpilz)\
@@ -45,7 +47,7 @@ Bestimmungsschritte nach *Wollweber & Stadler*:
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/daldinia_petriniae_03_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/daldinia_petriniae_04_bm.jpeg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Im Anschnitt ist die für die Gattung typische konzentrische Schichtung zu erkennen -- Sporen mit zum Teil sichtbarer längs verlaufender Keimspalte (Foto: Bernd Miggel; Fotomontage von Frank Kaster)" %}
+{% include abbildung_ende.html legende="Im Anschnitt ist die für die Gattung typische konzentrisch gezonte Trama zu erkennen -- Sporen mit zum Teil sichtbarer längs verlaufender Keimspalte (Foto: Bernd Miggel; Fotomontage von Frank Kaster)" %}
 
 Von *Bernd Miggel* anhand 25 repräsentativer Sporen ermittelte Werte: Maße 11,3 - 15,6 x 5,5 – 6,8 µm, Schlankheitsgrad Q 2,11 – 2,24.
 
