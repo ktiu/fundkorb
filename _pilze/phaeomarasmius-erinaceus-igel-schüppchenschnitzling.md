@@ -15,6 +15,8 @@ literatur:
   - text: "German J.Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Band 4,
       Seite 369"
   - text: "Svengunnar Ryman, Ingmar Holmåsen: Pilze (1992) S. 462"
+  - text: Porträt Nr. 130 in Der Tintling 71, Heft 4/2011 (in der vorderen
+      Umschlagklappe + Titelbild)
 ---
 Ein unauffälliger kleiner Blätterpilz, der auf Laubholzästen und -zweigen wächst und durchaus als hübsches Kerlchen bezeichnet werden darf. Seine Bestimmung dürfte nicht ganz einfach sein. Die Lamellenfarbe lässt auf einen Braunsporer schließen, was auch zutrifft. Seine Sporenpulverfarbe wird mit ocker- bis rostbraun angegeben, aber Braunsporer gibt es massenhaft.
 
