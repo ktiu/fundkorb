@@ -19,6 +19,18 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_subtomentosus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Ziegenlippe *Xerocomus subtomentosus*. Bei weniger gut informierten Pilzsammlern landet sie oft zusammen mit anderen  Filzröhrlingen als *„Maronen“* im Sammelkorb. Solche „Ungenauigkeiten“ oder Verwechslungen bleiben im Normalfall ohne negative Folgen. Risiken bestehen meist nur beim Verzehr [vergammelter](/artikel/gammelpilze) *„Maronen“*. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/xerocomus-subtomentosus-ziegenlippe)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/daldinia_petriniae_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 05.09.2024: Gefärbte Lamellenschneiden können oft den Unterschied ausmachen und die Bestimmung erleichtern. Zum Beispiel bei Helmlingen oder [Dachpilzen](/verwandt/dachpilze-pluteus). Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schwarzschneidige Dachpilz *Pluteus nigrofloccosus* ist ein schönes Beispiel. Leider ist er nicht der einzige in seiner Gattung mit diesem Merkmal. Man achte auch auf das Substrat (Laub- oder Nadelholz) oder die Form von Zystiden, die nur mit dem Mikroskop sichtbar sind. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pholiota_populnea_03_hs.jpg" %}
-{% include abbildung_ende.html %}
-
-04.09.2024: Wenn irgendwo gefällte Pappelstämme herumliegen, dauert es meist nicht lange, bis sich unser aktueller [Fundkorbpilz](AA "Glossar-"), der Pappelschüppling *Pholiota populnea*, blicken lässt. Besonders gern an den Schnittflächen. Hut und Stiel sind sparrig beschuppt, sein Fleiusch ist zäh und schmeckt bitter - also nichts für die Küche. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pholiota-populnea-pappelschüppling)
 
 <div style="clear:  both"></div>
 
