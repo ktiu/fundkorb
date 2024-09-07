@@ -19,6 +19,18 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_ochroleuca_01_km.jpg" %}
+{% include abbildung_ende.html %}
+
+08.09.2024: Der wohl mit Abstand häufigste Täubling ist zumindest im Rhein-Main-Gebiet der Ockertäubling *Russula ochroleuca*. Die immer deutlicher spürbare Klimaerwärmung und die Trockenheit der vergangenen Jahre hat unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu einer Rarität werden lassen. Gestern habe ich mal wieder einen gefunden. Das Ausbleiben oder starke Zurückgehen einer Art sollte Anlass sein, die damit zusammenhängenden Ursachen zu erforschen. Vielleicht sind es die außergewöhnlich hohen Temperaturen, die manche Pilzarten bei ansonsten günstigen Bedingungen im Wachsen behindern. (Dieter Gewalt)
+
+[Mehr lesen >](https://fundkorb.de/pilze/russula-ochroleuca-ockert%C3%A4ubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_subtomentosus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,18 +49,6 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 06.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute einer der Holzkohlenpilze. Sie werden auch Kohlen-Kugelpilze genannt. Wenn man sporulierende Kugeln anfasst, bekommt man schwarze Finger. Den Erlen-Holzkohlenpilz *Daldinia petriniae* fanden wir bei Rodgau-Dudenhofen an einem toten Laubbaum (vermutlich Erle). An seinem Stamm wuchsen zahlreiche Fruchtkörper in bis zu fünf Metern Höhe. Die untersten konnten wir gerade noch mit ausgestrecktem Arm erreichen. Die anschließende Bestimmung war mit einigem Aufwand verbunden, was *Bernd Miggel* mit gewohnter Routine bestens gelang. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/daldinia-petriniae-erlen-holzkohlenpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pluteus_nigrofloccosus_01_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-05.09.2024: Gefärbte Lamellenschneiden können oft den Unterschied ausmachen und die Bestimmung erleichtern. Zum Beispiel bei Helmlingen oder [Dachpilzen](/verwandt/dachpilze-pluteus). Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schwarzschneidige Dachpilz *Pluteus nigrofloccosus* ist ein schönes Beispiel. Leider ist er nicht der einzige in seiner Gattung mit diesem Merkmal. Man achte auch auf das Substrat (Laub- oder Nadelholz) oder die Form von Zystiden, die nur mit dem Mikroskop sichtbar sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)
 
 <div style="clear:  both"></div>
 
