@@ -27,7 +27,7 @@ Pflanzenparasitische Pilze wie die Ahorn-Weißfleckenkrankheit *Cristulariella d
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cristulariella_depraedans_03_dg.jpg" %}
-{% include abbildung_ende.html legende="Das rechte Blatt bleibt zeigt außer Cristulariella depraedans auch den Ahorn-Runzelschorf Rhytisma acerinum (dunklere Flecken)" %}
+{% include abbildung_ende.html legende="Das rechte Blatt zeigt außer Cristulariella depraedans auch den Ahorn-Runzelschorf Rhytisma acerinum (dunklere Flecken)" %}
 
 Die hier vorgestellte Art gehört zu den Sklerotienbecherlingsverwandten (*Sclerotiniaceae*) und damit zur Verwandtschaft so netter Pilze wie dem Anemonenbecherling *Dumontinia tuberosa*. Viele von ihnen sind potentielle Pflanzenschädlinge mit parasitärer Lebensweise. *Cristulariella depraedans* befällt Ahornblätter, überwiegend Bergahorn Acer pseudoplatanus, verursacht ein vorzeitiges Abfallen der Blätter, schadet dem Baum selbst aber nicht.
 
