@@ -18,6 +18,18 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lachnellula_occidentalis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.09.2024: Hübsche kleine Haarbecherchen an toten Lärchenzweigen, deren Schönheit erst mit einer gut vegrößernden Lupe zu erkennen ist, sind mit hoher statistischer Wahrscheinlichkeit Lärchen-Haarbecherchen *Lachnellula occidentalis* und aktueller [Fundkorbpilz](AA "Glossar-") des Tages. Sie sind sehr häufig und wohl in jedem Lärchenbestand zu finden, sofern es nicht zu trocken ist. Um sie von selteneren Doppelgängern sicher zu unterscheiden, ist Mikroskopieren angesagt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_ochroleuca_01_km.jpg" %}
 {% include abbildung_ende.html %}
