@@ -16,7 +16,19 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coltricia_perennis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.09.2024: Wer schon einmal das meist zu einem Schmuckstein verarbeitete Quarzmineral "Tigerauge" gesehen hat, weiß, warum man auch unseren heutigen [Fundkorbpilz](AA "Glossar-"), den Gezonten Dauerporling *Coltricia perennis* so nennt. Dessen gestielter trichterförmiger Fruchtkörper fällt nicht nur durch seinen relativ großen Durchmesser von knapp 10 cm auf. Die feinfilzige gelb- bis zimtbraune Oberfläche ist mehrfach markant konzentrisch gezont und erinnert mit ihren diversen farblichen Abstufungen stark an die faserige Struktur des goldbraun bis goldgelb gestreiften Rohsteins. (Ulrike Wegner)
+
+[Mehr lesen >](/pilze/coltricia-perennis-gezonter-dauerporling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lachnellula_occidentalis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,30 +47,6 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 08.09.2024: Der wohl mit Abstand häufigste Täubling ist zumindest im Rhein-Main-Gebiet der Ockertäubling *Russula ochroleuca*. Die immer deutlicher spürbare Klimaerwärmung und die Trockenheit der vergangenen Jahre hat unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu einer Rarität werden lassen. Gestern habe ich mal wieder einen gefunden. Das Ausbleiben oder starke Zurückgehen einer Art sollte Anlass sein, die damit zusammenhängenden Ursachen zu erforschen. Vielleicht sind es die außergewöhnlich hohen Temperaturen, die manche Pilzarten bei ansonsten günstigen Bedingungen im Wachsen behindern. (Dieter Gewalt)
 
 [Mehr lesen >](https://fundkorb.de/pilze/russula-ochroleuca-ockert%C3%A4ubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_subtomentosus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Ziegenlippe *Xerocomus subtomentosus*. Bei weniger gut informierten Pilzsammlern landet sie oft zusammen mit anderen  Filzröhrlingen als *„Maronen“* im Sammelkorb. Solche „Ungenauigkeiten“ oder Verwechslungen bleiben im Normalfall ohne negative Folgen. Risiken bestehen meist nur beim Verzehr [vergammelter](/artikel/gammelpilze) *„Maronen“*. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/xerocomus-subtomentosus-ziegenlippe)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/daldinia_petriniae_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute einer der Holzkohlenpilze. Sie werden auch Kohlen-Kugelpilze genannt. Wenn man sporulierende Kugeln anfasst, bekommt man schwarze Finger. Den Erlen-Holzkohlenpilz *Daldinia petriniae* fanden wir bei Rodgau-Dudenhofen an einem toten Laubbaum (vermutlich Erle). An seinem Stamm wuchsen zahlreiche Fruchtkörper in bis zu fünf Metern Höhe. Die untersten konnten wir gerade noch mit ausgestrecktem Arm erreichen. Die anschließende Bestimmung war mit einigem Aufwand verbunden, was *Bernd Miggel* mit gewohnter Routine bestens gelang. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/daldinia-petriniae-erlen-holzkohlenpilz)
 
 <div style="clear:  both"></div>
 
