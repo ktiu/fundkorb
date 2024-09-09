@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-09.09.2024: [Lachnellula occidentalis - Lärchen-Haarbecherchen](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)  
+10.09.2024: [Coltricia perennis - Gezonter Dauerporling](/pilze/coltricia-perennis-gezonter-dauerporling)  
+09.09.2024: [Lachnellula occidentalis - Lärchen-Haarbecherchen](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)\
 08.09.2024: [Russula ochroleuca - Ockertäubling](https://fundkorb.de/pilze/russula-ochroleuca-ockert%C3%A4ubling)\
 07.09.2024: [Xerocomus subtomentosus - Ziegenlippe](/pilze/xerocomus-subtomentosus-ziegenlippe)\
 06.09.2024: [Daldinia petriniae - Erlen-Holzkohlenpilz](/pilze/daldinia-petriniae-erlen-holzkohlenpilz)\
