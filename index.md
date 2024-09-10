@@ -17,6 +17,18 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_pantherina_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pantherpilz *Amanita pantherina*, der nicht ganz ungefährliche Doppelgänger des [Perlpilzes](/pilze/amanita-rubescens-perlpilz). Er enthält die vom Fliegenpilz bekannten Giftstoffe Ibotensäure und Muszimol, darüberhinaus auch Bufotenin. Die rauschähnlichen Symptome und Halluzinationen sind jedoch stärker als bei diesem und können bei Personen mit Kreislauf- oder Herzerkrankungen unter Umständen tödlich sein. Der Pantherpilz ist längst nicht so häufig wie Perl- oder Fliegenpilz, im Rhein-Main-Gebiet aber nicht selten. Sein häufigster Mykorrhizapartner ist die Eiche, gefolgt von Buche und Kiefer. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-pantherina-pantherpilz)
+
+<div style="clear:  both"></div> 
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coltricia_perennis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 09.09.2024: Hübsche kleine Haarbecherchen an toten Lärchenzweigen, deren Schönheit erst mit einer gut vegrößernden Lupe zu erkennen ist, sind mit hoher statistischer Wahrscheinlichkeit Lärchen-Haarbecherchen *Lachnellula occidentalis* und aktueller [Fundkorbpilz](AA "Glossar-") des Tages. Sie sind sehr häufig und wohl in jedem Lärchenbestand zu finden, sofern es nicht zu trocken ist. Um sie von selteneren Doppelgängern sicher zu unterscheiden, ist Mikroskopieren angesagt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_ochroleuca_01_km.jpg" %}
-{% include abbildung_ende.html %}
-
-08.09.2024: Der wohl mit Abstand häufigste Täubling ist zumindest im Rhein-Main-Gebiet der Ockertäubling *Russula ochroleuca*. Die immer deutlicher spürbare Klimaerwärmung und die Trockenheit der vergangenen Jahre hat unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu einer Rarität werden lassen. Gestern habe ich mal wieder einen gefunden. Das Ausbleiben oder starke Zurückgehen einer Art sollte Anlass sein, die damit zusammenhängenden Ursachen zu erforschen. Vielleicht sind es die außergewöhnlich hohen Temperaturen, die manche Pilzarten bei ansonsten günstigen Bedingungen im Wachsen behindern. (Dieter Gewalt)
-
-[Mehr lesen >](https://fundkorb.de/pilze/russula-ochroleuca-ockert%C3%A4ubling)
 
 <div style="clear:  both"></div>
 
