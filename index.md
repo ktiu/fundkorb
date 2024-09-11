@@ -14,6 +14,21 @@ footer_scripts:
 
 Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundliche Exkursion für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach (**ausgebucht**)
 
+Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
+[Mehr lesen >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phaeomarasmius_erinaceus_03_tl.jpeg" %}
+{% include abbildung_ende.html %}
+
+12.09.2024: Total verfilzt und trotzdem attraktiv sieht er aus, unser aktueller [Fundkorbpilz](AA "Glossar-"). Es ist der Igel-Schüppchenschnitzling *Phaeomarasmius erinaceus*, den ich mal wieder im Ansfeldwald bei Rodgau-Dudenhofen gefunden habe. Er ist ziemlich selten, ziemlich klein, und wächst [saprobiontisch](saprobiontisch "Glossar") auf toten Laubholzästchen. *Andreas Gminder* beschreibt ihn als Art, die sogar an trockenen noch in der Luft hängenden Zweigen gefunden werden kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phaeomarasmius-erinaceus-igel-schüppchenschnitzling)
+
+<div style="clear:  both"></div>
+
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
@@ -35,18 +50,6 @@ Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundl
 10.09.2024: Wer schon einmal das meist zu einem Schmuckstein verarbeitete Quarzmineral "Tigerauge" gesehen hat, weiß, warum man auch unseren heutigen [Fundkorbpilz](AA "Glossar-"), den Gezonten Dauerporling *Coltricia perennis* so nennt. Dessen gestielter trichterförmiger Fruchtkörper fällt nicht nur durch seinen relativ großen Durchmesser von knapp 10 cm auf. Die feinfilzige gelb- bis zimtbraune Oberfläche ist mehrfach markant konzentrisch gezont und erinnert mit ihren diversen farblichen Abstufungen stark an die faserige Struktur des goldbraun bis goldgelb gestreiften Rohsteins. (Ulrike Wegner)
 
 [Mehr lesen >](/pilze/coltricia-perennis-gezonter-dauerporling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lachnellula_occidentalis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.09.2024: Hübsche kleine Haarbecherchen an toten Lärchenzweigen, deren Schönheit erst mit einer gut vegrößernden Lupe zu erkennen ist, sind mit hoher statistischer Wahrscheinlichkeit Lärchen-Haarbecherchen *Lachnellula occidentalis* und aktueller [Fundkorbpilz](AA "Glossar-") des Tages. Sie sind sehr häufig und wohl in jedem Lärchenbestand zu finden, sofern es nicht zu trocken ist. Um sie von selteneren Doppelgängern sicher zu unterscheiden, ist Mikroskopieren angesagt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)
 
 <div style="clear:  both"></div>
 
