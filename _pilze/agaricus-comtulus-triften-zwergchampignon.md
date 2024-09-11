@@ -18,7 +18,7 @@ literatur:
   - text: "Karin Montag: Der Tintling Nr. 64 (3/2010) Agaricus Teil 3:
       Zwerg-Tintlinge, 64 - 67"
 ---
-Es gibt einige wenige Champignon-Arten, die kaum einmal mehr als 4 oder 5 cm Durchmesser erreichen, daher Zwergchampignons genannt werden und in der Gattung *Agaricus* die kleine isolierte Sektion *Minores* bilden. Lediglich der [Weinrötliche Zwergchampignon *Agaricus semotus*](/pilze/agaricus-semotus-weinrötlicher-zwergchampignon) ist relativ häufig, alle anderen sind als selten oder sehr selten einzustufen...
+Es gibt einige wenige Champignon-Arten, die kaum einmal mehr als 4 oder 5 cm Durchmesser erreichen, daher Zwergchampignons genannt werden und in der Gattung *Agaricus* die kleine isolierte Sektion *Minores* bilden. Lediglich der [Weinrötliche Zwergchampignon *Agaricus semotus*](/pilze/agaricus-semotus-weinrötlicher-zwergchampignon) ist relativ häufig, alle anderen sind als selten oder sehr selten einzustufen.
 
 Die wichtigsten Merkmale des Triften-Zwergchampignons, der auch Blasser oder Wiesen-Zwergchampignon genannt wird: Hut und Stiel wenig oder nicht gilbend, Fleisch rötend, Geruch und Geschmack unauffällig mild, <ins>nicht</ins> nach Anis oder Karbol. Die Hüte erreichen Durchmesser von 2 - 3,5 (4) cm, sind jung halbkugelig, später ausgebreitet, zur Mitte hin seidig faserig. Die Stiele werden bis zu 6 cm lang und 5,5 cm dick. Der hängende Ring ist nach oben abziehbar, aber sehr flüchtig und daher bei älteren Pilze kaum noch wahrnhmbar. Die Sporen sind mit 4,5 -6 x 3 - 4 µm sehr klein.
 
