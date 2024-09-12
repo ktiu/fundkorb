@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-12.09.2024: [Phaeomarasmius erinaceus - Igel-Schüppchenschnitzling](/pilze/phaeomarasmius-erinaceus-igel-schüppchenschnitzling)  
+13.09-2024: [Tricholomopsis rutinas - Purpurfilziger Holzritterling](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)  
+12.09.2024: [Phaeomarasmius erinaceus - Igel-Schüppchenschnitzling](/pilze/phaeomarasmius-erinaceus-igel-schüppchenschnitzling)\
 11.09.2024: [Amanita pantherina - Pantherpilz](/pilze/amanita-pantherina-pantherpilz)\
 10.09.2024: [Coltricia perennis - Gezonter Dauerporling](/pilze/coltricia-perennis-gezonter-dauerporling)\
 09.09.2024: [Lachnellula occidentalis - Lärchen-Haarbecherchen](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)\
