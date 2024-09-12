@@ -20,6 +20,18 @@ Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholomopsis_rutilans_02_ja.jpg" %}
+{% include abbildung_ende.html %}
+
+13.09.2024: Dieser wunderschöne Pilz, der Purpurfilzige Holzritterling T*richolomopsis rutilans*, ist zur Zeit in heimischen Nadel- und Mischwäldern zu finden und daher auch aktueller [Fundkorbpilz](AA "Glossar-"). Er wächst mit Vorliebe an vermoderten Kiefernstümpfen, aber auch an totem Fichten - oder Tannenholz. Seine Farbe variiert von lila über lilarötlich bis rötlich - je älter, desto mehr geht die Farbe ins Gelbliche. Die Lamellen und das Fruchtfleisch sind hellgelb, wobei der Stiel wie der Hut mit rötlichen Schuppen besetzt ist. Optisch ein Bilderbuchpilz hält der Geschmack leider nicht, was das Aussehen verspricht. Er schmeckt muffig und riecht auch so. (Jana Falk)
+
+[Mehr lesen >](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phaeomarasmius_erinaceus_03_tl.jpeg" %}
 {% include abbildung_ende.html %}
 
