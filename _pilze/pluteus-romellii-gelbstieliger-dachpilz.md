@@ -21,6 +21,11 @@ literatur:
 ---
 Der Gelbstieliege Dachpilz gehört zu den gut kenntlichen aber keineswegs häufigen Arten der Gattung. Es sind, wie der Name schon andeutet, die gelben Farben am Stiel, die ihn von anderen Dachpilzen unterscheidet. Außerdem ist es eine ziemlich kleine Art, deren Hüte selten mehr als drei oder vier Zentimeter Hurchmesser erreichen. Sie wachsen einzeln oder gesellig an totem Laubholz, wobei es sich um Stubben, liegende Stämme, aber auch um Holzhäcksel, Sägespäne oder sonstige Holzreste handeln kann. Er ist nahezu das ganze Jahr über zu finden, am ehesten von Juni bis November.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/pluteus_romellii_01_uwi.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/pluteus_romellii_02_uwi.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="2 Fotos: Uwe Winkler" %}
+
 Die dünnfleischigen Hüte sind jung kugelig bis konvex, später abgeflacht und dann am Rand gerieft oder eingerissen. Die Hutfarben variieren in unterschiedlichen Brauntönen mit meist dunklerer Mitte. Die Lamellen sind weißlich, oft mit gelblichem Schimmer, im Alter durch ausfallende Sporen rosa. Die dünnen Stiele werden kaum länger als fünf bis sechs Zentimeter. Das Sporenpulver ist rötlich ocker.
 
 Mikromerkmale: Sporen rundlich, glatt, 5,5 - 7,5 x 4,5 - 7 µm. Die Huthaut besteht aus blasigen bis birnenförmigen Zellen, die Huthauthyphen und Basidien haben keine Schnallen. Cheilozystiden keulig bis blasig, 25 - 65 µm lang.
