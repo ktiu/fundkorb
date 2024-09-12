@@ -22,4 +22,4 @@ Dieser recht häufige Pilz macht einen überaus appetitlichen Eindruck, doch lei
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tricholomopsis_rutilans_02_ja.jpg" %}
-{% include abbildung_ende.html legende=""Ein Bilderbuchpilz" (Foto: Jana Falk)" %}
+{% include abbildung_ende.html legende="Foto: Jana Falk" %}
