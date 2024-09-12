@@ -35,7 +35,7 @@ Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
 {% include bild.html datei="/bilder/phaeomarasmius_erinaceus_03_tl.jpeg" %}
 {% include abbildung_ende.html %}
 
-12.09.2024: Total verfilzt und trotzdem attraktiv sieht er aus, unser aktueller [Fundkorbpilz](AA "Glossar-"). Es ist der Igel-Schüppchenschnitzling *Phaeomarasmius erinaceus*, den ich mal wieder im Ansfeldwald bei Rodgau-Dudenhofen gefunden habe. Er ist ziemlich selten, ziemlich klein, und wächst [saprobiontisch](saprobiontisch "Glossar") auf toten Laubholzästchen. *Andreas Gminder* beschreibt ihn als Art, die sogar an trockenen noch in der Luft hängenden Zweigen gefunden werden kann. (Dieter Gewalt)
+12.09.2024: Total verfilzt und trotzdem attraktiv sieht er aus, unser aktueller [Fundkorbpilz](AA "Glossar-"). Es ist der Igel-Schüppchenschnitzling *Phaeomarasmius erinaceus*, den ich mal wieder im Ansfeldwald bei Rodgau-Dudenhofen gefunden habe. Er ist ziemlich selten, ziemlich klein, und wächst [saprobiontisch](saprobiontisch "Glossar") auf toten Laubholzästchen. *Andreas Gminder* beschreibt ihn als Art, die sogar an trockenen noch in der Luft hängenden Zweigen gefunden werden kann. Kommt selten vor, weil Pilzfreunde ihre Blicke stets zum Boden richten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phaeomarasmius-erinaceus-igel-schüppchenschnitzling)
 
