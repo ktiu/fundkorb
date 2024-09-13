@@ -20,6 +20,18 @@ Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ustilago_maydis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maisbeulenbrand *Ustilago maydis*. Um ihn kennenzulernen, braucht man nur mal ab Anfang September beim Vorbeifahren an einem Maisfeld anzuhalten. Meist muss man dann nicht lange suchen, um einen Kolben mit auffälligen Wucherungen zu entdecken. Sie sehen aus wie ein Krebsgeschwür, aber es handelt sich um einen parasitischen Brandpilz, der seine Wirtspflanze schädigt. Für Mensch und Tier ist er ungefährlich. In manchen Ländern wird er sogar gegessen oder als homöopathisches Heilmittel verwendet. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ustilago-maydis-maisbeulenbrand)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholomopsis_rutilans_02_ja.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,30 +50,6 @@ Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
 12.09.2024: Total verfilzt und trotzdem attraktiv sieht er aus, unser aktueller [Fundkorbpilz](AA "Glossar-"). Es ist der Igel-Schüppchenschnitzling *Phaeomarasmius erinaceus*, den ich mal wieder im Ansfeldwald bei Rodgau-Dudenhofen gefunden habe. Er ist ziemlich selten, ziemlich klein, und wächst [saprobiontisch](saprobiontisch "Glossar") auf toten Laubholzästchen. *Andreas Gminder* beschreibt ihn als Art, die sogar an trockenen noch in der Luft hängenden Zweigen gefunden werden kann. Kommt selten vor, weil Pilzfreunde ihre Blicke stets zum Boden richten. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/phaeomarasmius-erinaceus-igel-schüppchenschnitzling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_pantherina_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pantherpilz *Amanita pantherina*, der nicht ganz ungefährliche Doppelgänger des [Perlpilzes](/pilze/amanita-rubescens-perlpilz). Er enthält die vom Fliegenpilz bekannten Giftstoffe Ibotensäure und Muszimol, darüberhinaus auch Bufotenin. Die rauschähnlichen Symptome und Halluzinationen sind jedoch stärker als bei diesem und können bei Personen mit Kreislauf- oder Herzerkrankungen unter Umständen tödlich sein. Der Pantherpilz ist längst nicht so häufig wie Perl- oder Fliegenpilz, im Rhein-Main-Gebiet aber nicht selten. Sein häufigster Mykorrhizapartner ist die Eiche, gefolgt von Buche und Kiefer. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-pantherina-pantherpilz)
-
-<div style="clear:  both"></div> 
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coltricia_perennis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.09.2024: Wer schon einmal das meist zu einem Schmuckstein verarbeitete Quarzmineral "Tigerauge" gesehen hat, weiß, warum man auch unseren heutigen [Fundkorbpilz](AA "Glossar-"), den Gezonten Dauerporling *Coltricia perennis* so nennt. Dessen gestielter trichterförmiger Fruchtkörper fällt nicht nur durch seinen relativ großen Durchmesser von knapp 10 cm auf. Die feinfilzige gelb- bis zimtbraune Oberfläche ist mehrfach markant konzentrisch gezont und erinnert mit ihren diversen farblichen Abstufungen stark an die faserige Struktur des goldbraun bis goldgelb gestreiften Rohsteins. (Ulrike Wegner)
-
-[Mehr lesen >](/pilze/coltricia-perennis-gezonter-dauerporling)
 
 <div style="clear:  both"></div>
 
