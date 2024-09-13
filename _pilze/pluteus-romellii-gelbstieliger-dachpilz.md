@@ -21,7 +21,7 @@ literatur:
 ---
 Der Gelbstieliege Dachpilz gehört zu den gut kenntlichen aber keineswegs häufigen Arten der Gattung. Es sind, wie der Name schon andeutet, die gelben Farben am Stiel, die ihn von anderen Dachpilzen unterscheidet. Außerdem ist es eine ziemlich kleine Art, deren Hüte selten mehr als drei oder vier Zentimeter Hurchmesser erreichen. Sie wachsen einzeln oder gesellig an totem Laubholz, wobei es sich um Stubben, liegende Stämme, aber auch um Holzhäcksel, Sägespäne oder sonstige Holzreste handeln kann. Er ist nahezu das ganze Jahr über zu finden, am ehesten von Juni bis November.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pluteus_romellii_01_uwi.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/pluteus_romellii_02_uwi.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Uwe Winkler" %}
