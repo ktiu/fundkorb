@@ -19,6 +19,18 @@ Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
 
 - - -
 
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/hydropus_subalpinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein kleines Blätterpilzchen ohne markante Eigenschaften und das macht den meist an dünnen Laubholzästchen wachsenden Buchenwald-Wasserfuß *Hydropus subalpinus* so schwer bestimmbar. Hinzu kommt, dass er in kaum einem populären Pilzbuch erwähnt wird. Wenn man sein Hütchen ruckartig nach oben abzieht, bleibt an der Stielspitze ein Knöpfchen zurück, ähnlich wie beim bekannteren [Knopfstieligen Rübling Gymnopus confluens](/pilze/gymnopus-confluens-knopfstieliger-rübling). Das hilft in Verbindung mit der weiß-striegeligen Stielbasis dann doch bei der Identifikation, die mikroskopisch durch schmale würstchenförmige Sporen untermauert werden kann. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ustilago_maydis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -40,16 +52,6 @@ Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
 [Mehr lesen >](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phaeomarasmius_erinaceus_03_tl.jpeg" %}
-{% include abbildung_ende.html %}
-
-12.09.2024: Total verfilzt und trotzdem attraktiv sieht er aus, unser aktueller [Fundkorbpilz](AA "Glossar-"). Es ist der Igel-Schüppchenschnitzling *Phaeomarasmius erinaceus*, den ich mal wieder im Ansfeldwald bei Rodgau-Dudenhofen gefunden habe. Er ist ziemlich selten, ziemlich klein, und wächst [saprobiontisch](saprobiontisch "Glossar") auf toten Laubholzästchen. *Andreas Gminder* beschreibt ihn als Art, die sogar an trockenen noch in der Luft hängenden Zweigen gefunden werden kann. Kommt selten vor, weil Pilzfreunde ihre Blicke stets zum Boden richten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phaeomarasmius-erinaceus-igel-schüppchenschnitzling)
 
 <div style="clear:  both"></div>
 
