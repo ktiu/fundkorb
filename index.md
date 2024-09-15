@@ -19,7 +19,7 @@ Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
 
 - - -
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hydropus_subalpinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
