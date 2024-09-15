@@ -19,7 +19,9 @@ Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
 
 - - -
 
-
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_appendiculatus_01_tl.jpg" %}
+{% include abbildung_ende.html %}
 
 16.09.2024: Der ziemlich seltene Anhängselröhrling *Boletus appendiculatus* (neuer Name: *Butyroboletus appendiculatus*), unser aktueller [Fundkorbpilz](AA "Glossar-"), ist einer von mehreren Dickröhrlingen mit brauner oder bräunlicher Kappe, gelber Röhrenschicht und blau verfärbendem Fleisch. Das namensgebende Anhängsel, ein kleiner Fortsatz an der Stilbasis, ist oft nur undeutlich ausgebildet und daher nicht immer erkennbar. Der Pilz ist essbar und eine Verwechslung mit dem Steinpilz hätte keine nachteiligen Folgen. Gefunden habe ich ihn im Wiesbadener Stadtwald. (Thomas Lamberty)
 
