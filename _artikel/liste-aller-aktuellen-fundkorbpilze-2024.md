@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-15.09.2024: [Hydropus subalpinus - Buchenwald-Wasserfuß](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)  
+16.09.2024: [Boletus appendiculatus - Anhängselröhrling](/pilze/boletus-appendiculatus-anhängselröhrling)  
+15.09.2024: [Hydropus subalpinus - Buchenwald-Wasserfuß](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)\
 14.09.2024: [Ustilago maydis - Mainbeulenbrand](/pilze/ustilago-maydis-maisbeulenbrand)\
 13.09.2024: [Tricholomopsis rutinas - Purpurfilziger Holzritterling](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)\
 12.09.2024: [Phaeomarasmius erinaceus - Igel-Schüppchenschnitzling](/pilze/phaeomarasmius-erinaceus-igel-schüppchenschnitzling)\
