@@ -19,6 +19,16 @@ Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
 
 - - -
 
+
+
+16.09.2024: Der ziemlich seltene Anhängselröhrling *Boletus appendiculatus* (neuer Name: *Butyroboletus appendiculatus*), unser aktueller [Fundkorbpilz](AA "Glossar-"), ist einer von mehreren Dickröhrlingen mit brauner oder bräunlicher Kappe, gelber Röhrenschicht und blau verfärbendem Fleisch. Das namensgebende Anhängsel, ein kleiner Fortsatz an der Stilbasis, ist oft nur undeutlich ausgebildet und daher nicht immer erkennbar. Der Pilz ist essbar und eine Verwechslung mit dem Steinpilz hätte keine nachteiligen Folgen. Gefunden habe ich ihn im Wiesbadener Stadtwald. (Thomas Lamberty)
+
+[Mehr lesen >](/pilze/boletus-appendiculatus-anhängselröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hydropus_subalpinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -38,20 +48,6 @@ Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
 14.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maisbeulenbrand *Ustilago maydis*. Um ihn kennenzulernen, braucht man nur mal ab Anfang September beim Vorbeifahren an einem Maisfeld anzuhalten. Meist muss man dann nicht lange suchen, um einen Kolben mit auffälligen Wucherungen zu entdecken. Sie sehen aus wie ein Krebsgeschwür, aber es handelt sich um einen parasitischen Brandpilz, der seine Wirtspflanze schädigt. Für Mensch und Tier ist er ungefährlich. In manchen Ländern wird er sogar gegessen oder als homöopathisches Heilmittel verwendet. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/ustilago-maydis-maisbeulenbrand)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholomopsis_rutilans_02_ja.jpg" %}
-{% include abbildung_ende.html %}
-
-13.09.2024: Dieser wunderschöne Pilz, der Purpurfilzige Holzritterling T*richolomopsis rutilans*, ist zur Zeit in heimischen Nadel- und Mischwäldern zu finden und daher auch aktueller [Fundkorbpilz](AA "Glossar-"). Er wächst mit Vorliebe an vermoderten Kiefernstümpfen, aber auch an totem Fichten - oder Tannenholz. Seine Farbe variiert von lila über lilarötlich bis rötlich - je älter, desto mehr geht die Farbe ins Gelbliche. Die Lamellen und das Fruchtfleisch sind hellgelb, wobei der Stiel wie der Hut mit rötlichen Schuppen besetzt ist. Optisch ein Bilderbuchpilz hält der Geschmack leider nicht, was das Aussehen verspricht. Er schmeckt muffig und riecht auch so. (Jana Falk).
-
-[Mehr lesen >](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)
-
-<div style="clear:  both"></div>
 
 <div style="clear:  both"></div>
 
