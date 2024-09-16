@@ -23,7 +23,7 @@ Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
 {% include bild.html datei="/bilder/cortinarius_alboviolaceus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-17.09.2024: Um Schleierlinge (Cortinarien) machen selbst die meisten interessierten Pilzfreunde einen großen Bogen. Weil es sich um eine sehr artenreiche und schwierige Gattung handelt. Einige Arten sind jedoch relativ gut erkennbar, so auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Weißviolette Dickfuß Cortinarius alboviolaceus. In der Rhein-Main-Ebene gehört er zu den etwas häufigeren Schleierlingen und wächst als Mykorrhizapartner gern bei Birken, Eichen und Buchen. Zwei seiner Kennzeichen sind glänzende weißliche Hüte mit durchscheinenden Violettönen und fehlende unangenehme Gerüche. (Dieter Gewalt)
+17.09.2024: Um Schleierlinge (Cortinarien) machen selbst die meisten interessierten Pilzfreunde einen großen Bogen. Weil es sich um eine sehr artenreiche und schwierige Gattung handelt. Einige Arten sind jedoch relativ gut erkennbar, so auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Weißviolette Dickfuß *Cortinarius alboviolaceus*. In der Rhein-Main-Ebene gehört er zu den etwas häufigeren Schleierlingen und wächst als Mykorrhizapartner gern bei Birken, Eichen und Buchen. Zwei seiner Kennzeichen sind glänzende weißliche Hüte mit durchscheinenden Violettönen und fehlende unangenehme Gerüche. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cortinarius-alboviolaceus-weißvioletter-dickfuß)
 
