@@ -12,10 +12,24 @@ footer_scripts:
 
 - - -
 
-
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pilzberatung_01_xx.png" %}
+{% include abbildung_ende.html %}
 
 Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
 [Mehr lesen >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cordyceps_militaris_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Puppenkernkeule *Cordyceps militaris*. Wir finden sie regelmäßig rund um die Gänsbrüh, einem Teich bei Rodgau-Dudenhofen. Ihre schlanken kopfigen orangegelben Fruchtkörper entspringen im Boden verborgenen Schmetterlingspuppen, die der [Ascomyzet](<Ascomyzeten "Glossar">) parasitiert. Sie werden bis zu fünf Zentimeter lang und verstecken sich meist in höherem Gras. In China wird er recht teuer in Apotheken gehandelt, weil er angeblich die männliche Potenz steigern soll. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cordyceps-militaris-puppenkernkeule)
+
+<div style="clear:  both"></div>
 
 - - -
 
