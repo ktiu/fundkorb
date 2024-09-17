@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-Nächster Exkursionstermin: Samstag, 14. September 2024, 10:00 Uhr - **Pilzkundliche Exkursion für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach (**ausgebucht**)
+
 
 Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
 [Mehr lesen >](/termine)
