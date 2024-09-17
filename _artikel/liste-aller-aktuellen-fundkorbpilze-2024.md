@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-17.09.2024: [Cortinarius alboviolaceus - Weißvioletter Dickfuß](/pilze/cortinarius-alboviolaceus-weißvioletter-dickfuß)  
+18.09.2024: [Cordyceps militaris - Puppenkernkeule](/pilze/cordyceps-militaris-puppenkernkeule)  
+17.09.2024: [Cortinarius alboviolaceus - Weißvioletter Dickfuß](/pilze/cortinarius-alboviolaceus-weißvioletter-dickfuß)\
 16.09.2024: [Boletus appendiculatus - Anhängselröhrling](/pilze/boletus-appendiculatus-anhängselröhrling)\
 15.09.2024: [Hydropus subalpinus - Buchenwald-Wasserfuß](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)\
 14.09.2024: [Ustilago maydis - Mainbeulenbrand](/pilze/ustilago-maydis-maisbeulenbrand)\
