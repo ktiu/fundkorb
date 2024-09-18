@@ -10,14 +10,21 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-- - -
-
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pilzberatung_01_xx.png" %}
 {% include abbildung_ende.html %}
 
-Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
-[Mehr lesen >](/termine)
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laccaria_laccata_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.09.2024: Der [Violette Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling) verlässt nur selten seine Wälder (es sei denn, er landet in Sammelkörben), der Rötliche (*Laccaria laccata*) tut's dagegen gern und ist deshalb auch unser aktueller [Fundkorbpilz](AA "Glossar-"). Auch in Wäldern scheint er grasige Stellen zu bevorzugen. Wie der violette ist er bestens für die Pfanne geeignet. Nicht nur wegen seines Geschmacks, auch wegen seiner schönen Farbe. Er ist überall in Mitteleuropa häufig und unter Pilzkennern auch als *„Lac lac“* oder *„L²“* (sprich: *L-Quadrat*) bekannt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/laccaria-laccata-rötlicher-lacktrichterling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -40,18 +47,6 @@ Ab Sonntag, 29. September 2024 Pilzberatung im Frankfurter Gesundheitsamt\
 17.09.2024: Um Schleierlinge (Cortinarien) machen selbst die meisten interessierten Pilzfreunde einen großen Bogen. Weil es sich um eine sehr artenreiche und schwierige Gattung handelt. Einige Arten sind jedoch relativ gut erkennbar, so auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Weißviolette Dickfuß *Cortinarius alboviolaceus*. In der Rhein-Main-Ebene gehört er zu den etwas häufigeren Schleierlingen und wächst als Mykorrhizapartner gern bei Birken, Eichen und Buchen. Zwei seiner Kennzeichen sind glänzende weißliche Hüte mit durchscheinenden Violettönen und fehlende unangenehme Gerüche. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cortinarius-alboviolaceus-weißvioletter-dickfuß)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_appendiculatus_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-16.09.2024: Der ziemlich seltene Anhängselröhrling *Boletus appendiculatus* (neuer Name: *Butyroboletus appendiculatus*), unser aktueller [Fundkorbpilz](AA "Glossar-"), ist einer von mehreren Dickröhrlingen mit brauner oder bräunlicher Kappe, gelber Röhrenschicht und blau verfärbendem Fleisch. Das namensgebende Anhängsel, ein kleiner Fortsatz an der Stilbasis, ist oft nur undeutlich ausgebildet und daher nicht immer erkennbar. Der Pilz ist essbar und eine Verwechslung mit dem Steinpilz hätte keine nachteiligen Folgen. Gefunden habe ich ihn im Wiesbadener Stadtwald. (Thomas Lamberty)
-
-[Mehr lesen >](/pilze/boletus-appendiculatus-anhängselröhrling)
 
 <div style="clear:  both"></div>
 
