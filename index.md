@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rhytisma_acerinum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ahorn-Runzelschorf *Rhytisma acerinum*. Befallene Blätter sehen aus, als wären sie mit Teerflecken übersät. Am häufigsten sind sie an Spitzahorn. Es handelt sich um Schlauchpilze der Ordnung *Rhytismatales*, die auch ["Flicklumpenartige"](/verwandt/flicklumpenartige-rhytismatales) genannt wird. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/rhytisma-acerinum-ahorn-runzelschorf)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/laccaria_laccata_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 18.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Puppenkernkeule *Cordyceps militaris*. Wir finden sie regelmäßig rund um die Gänsbrüh, einem Teich bei Rodgau-Dudenhofen. Ihre schlanken kopfigen orangegelben Fruchtkörper entspringen im Boden verborgenen Schmetterlingspuppen, die der [Ascomyzet](<Ascomyzeten "Glossar">) parasitiert. Sie werden bis zu fünf Zentimeter lang und verstecken sich meist in höherem Gras. In China wird er recht teuer in Apotheken gehandelt, weil er angeblich die männliche Potenz steigern soll. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cordyceps-militaris-puppenkernkeule)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cortinarius_alboviolaceus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.09.2024: Um Schleierlinge (Cortinarien) machen selbst die meisten interessierten Pilzfreunde einen großen Bogen. Weil es sich um eine sehr artenreiche und schwierige Gattung handelt. Einige Arten sind jedoch relativ gut erkennbar, so auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Weißviolette Dickfuß *Cortinarius alboviolaceus*. In der Rhein-Main-Ebene gehört er zu den etwas häufigeren Schleierlingen und wächst als Mykorrhizapartner gern bei Birken, Eichen und Buchen. Zwei seiner Kennzeichen sind glänzende weißliche Hüte mit durchscheinenden Violettönen und fehlende unangenehme Gerüche. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cortinarius-alboviolaceus-weißvioletter-dickfuß)
 
 <div style="clear:  both"></div>
 
