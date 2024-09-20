@@ -22,7 +22,7 @@ footer_scripts:
 
 21.09.2024: Unter den Täublingen nehmen die Schwärztäublinge eine Sonderstellung ein. Sie sind recht groß, kompakt, aber im Gegensatz zu den allermeisten anderen überhaupt nicht bunt. Das trifft auch auf unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Dichtblättrigen Schwärztäubling *Russula densifolia* zu. Sein kennzeichnendes Merkmal sind sehr eng stehende Lamellen, die mild und <ins>nicht</ins> scharf, höchstens etwas schärflich oder pikant schmecken. Er gilt als essbar, ist aber mit Sicherheit keine Delikatesse. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)
 
 <div style="clear:  both"></div>
 
