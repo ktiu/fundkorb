@@ -10,7 +10,7 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pilzberatung_01_xx.png" %}
 {% include abbildung_ende.html %}
 
