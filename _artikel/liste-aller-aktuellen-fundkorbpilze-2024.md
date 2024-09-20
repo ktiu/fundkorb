@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-20.09.2024: [Rhytisma acerinum - Ahorn-Runzelschorf](/pilze/rhytisma-acerinum-ahorn-runzelschorf)  
+21.09.2024: [Russula densifolia - Dichtblättriger Schwärztäubling](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)  
+20.09.2024: [Rhytisma acerinum - Ahorn-Runzelschorf](/pilze/rhytisma-acerinum-ahorn-runzelschorf)\
 19.09.2024: [Laccaria laccata - Rötlicher Lacktrichterling](/pilze/laccaria-laccata-rötlicher-lacktrichterling)\
 18.09.2024: [Cordyceps militaris - Puppenkernkeule](/pilze/cordyceps-militaris-puppenkernkeule)\
 17.09.2024: [Cortinarius alboviolaceus - Weißvioletter Dickfuß](/pilze/cortinarius-alboviolaceus-weißvioletter-dickfuß)\
