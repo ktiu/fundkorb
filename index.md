@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_densifolia_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.09.2024: Unter den Täublingen nehmen die Schwärztäublinge eine Sonderstellung ein. Sie sind recht groß, kompakt, aber im Gegensatz zu den allermeisten anderen überhaupt nicht bunt. Das trifft auch auf unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Dichtblättrigen Schwärztäubling *Russula densifolia* zu. Sein kennzeichnendes Merkmal sind sehr eng stehende Lamellen, die mild und <ins>nicht</ins> scharf, höchstens etwas schärflich oder pikant schmecken. Er gilt als essbar, ist aber mit Sicherheit keine Delikatesse. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rhytisma_acerinum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 19.09.2024: Der [Violette Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling) verlässt nur selten seine Wälder (es sei denn, er landet in Sammelkörben), der Rötliche (*Laccaria laccata*) tut's dagegen gern und ist deshalb auch unser aktueller [Fundkorbpilz](AA "Glossar-"). Auch in Wäldern scheint er grasige Stellen zu bevorzugen. Wie der violette ist er bestens für die Pfanne geeignet. Nicht nur wegen seines Geschmacks, auch wegen seiner schönen Farbe. Er ist überall in Mitteleuropa häufig und unter Pilzkennern auch als *„Lac lac“* oder *„L²“* (sprich: *L-Quadrat*) bekannt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/laccaria-laccata-rötlicher-lacktrichterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cordyceps_militaris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Puppenkernkeule *Cordyceps militaris*. Wir finden sie regelmäßig rund um die Gänsbrüh, einem Teich bei Rodgau-Dudenhofen. Ihre schlanken kopfigen orangegelben Fruchtkörper entspringen im Boden verborgenen Schmetterlingspuppen, die der [Ascomyzet](<Ascomyzeten "Glossar">) parasitiert. Sie werden bis zu fünf Zentimeter lang und verstecken sich meist in höherem Gras. In China wird er recht teuer in Apotheken gehandelt, weil er angeblich die männliche Potenz steigern soll. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cordyceps-militaris-puppenkernkeule)
 
 <div style="clear:  both"></div>
 
