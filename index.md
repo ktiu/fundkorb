@@ -12,7 +12,7 @@ footer_scripts:
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pilzberatung_01_xx.png" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Pilzberatung in Frankfurt am Main" %}
 
 - - -
 
