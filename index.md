@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+23.09.2024: Ab und zu soll auch eine Flechte aktueller [Fundkorbpilz](AA "Glossar-") sein. Nicht jedem ist klar, dass es sich bei diesen beeindruckenden Organismen um Pilze handelt. In Streuobstwiesen kann man auf der Baumrinde die Helle Kuchenflechte *Lecanora chlarotera* finden. Die runden Tellerchen (Ø 1 – 1,5 mm) sind [Apothezien](Apothezien "Glossar"), in denen die Pilzsporen gebildet werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lecanora-chlarotera-helle-kuchenflechte)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,30 +47,6 @@ footer_scripts:
 21.09.2024: Unter den Täublingen nehmen die Schwärztäublinge eine Sonderstellung ein. Sie sind recht groß, kompakt, aber im Gegensatz zu den allermeisten anderen überhaupt nicht bunt. Das trifft auch auf unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Dichtblättrigen Schwärztäubling *Russula densifolia* zu. Sein kennzeichnendes Merkmal sind sehr eng stehende Lamellen, die mild und <ins>nicht</ins> scharf, höchstens etwas schärflich oder pikant schmecken. Er gilt als essbar, ist aber mit Sicherheit keine Delikatesse. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rhytisma_acerinum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ahorn-Runzelschorf *Rhytisma acerinum*. Befallene Blätter sehen aus, als wären sie mit Teerflecken übersät. Am häufigsten sind sie an Spitzahorn. Es handelt sich um Schlauchpilze der Ordnung *Rhytismatales*, die auch ["Flicklumpenartige"](/verwandt/flicklumpenartige-rhytismatales) genannt wird. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/rhytisma-acerinum-ahorn-runzelschorf)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/laccaria_laccata_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.09.2024: Der [Violette Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling) verlässt nur selten seine Wälder (es sei denn, er landet in Sammelkörben), der Rötliche (*Laccaria laccata*) tut's dagegen gern und ist deshalb auch unser aktueller [Fundkorbpilz](AA "Glossar-"). Auch in Wäldern scheint er grasige Stellen zu bevorzugen. Wie der violette ist er bestens für die Pfanne geeignet. Nicht nur wegen seines Geschmacks, auch wegen seiner schönen Farbe. Er ist überall in Mitteleuropa häufig und unter Pilzkennern auch als *„Lac lac“* oder *„L²“* (sprich: *L-Quadrat*) bekannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/laccaria-laccata-rötlicher-lacktrichterling)
 
 <div style="clear:  both"></div>
 
