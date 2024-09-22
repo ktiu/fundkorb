@@ -27,7 +27,7 @@ Der Stiel wird kaum länger als der Hut breit ist. Anfangs ist er weiß gefärbt
 
 *Lepiota lilacea* ist eine wärmeliebende Art und kommt auf nährstoffreichen Böden vor, man findet ihn dementsprechend gerne gesellig wachsend an Wegrändern, auf Wiesen, in Parkanlagen und Gärten. Insgesamt scheint es sich um eine eher seltene (oder häufig übersehene) Art zu handeln.
 
-In der Gattung Lepiota gibt es eine ganze Reihe sehr ähnlicher Arten. Die violetten Töne in der Huthaut und im Ring lassen zwar schon makroskopisch einen begründeten Verdacht zu, sicher lassen sich die Arten aber nur mikroskopisch trennen. *Lepiota lilacea* besitzt kleine ellipsoide glatte Sporen mit Größen von etwa 4 - 5.5 x 2.5 - 3.5 µ, seitlich mit [Apikulus](<Apikulus "Glossar">), keulig verdickte [Cheilozystiden](<Cheilozystiden "Glossar">) und ebensolche, zum Teil braun pigmentierte HDS-Zellen. Schnallen sind vorhanden.
+In der Gattung *Lepiota* gibt es eine ganze Reihe sehr ähnlicher Arten. Die violetten Töne in der Huthaut und im Ring lassen zwar schon makroskopisch einen begründeten Verdacht zu, sicher lassen sich die Arten aber nur mikroskopisch trennen. *Lepiota lilacea* besitzt kleine ellipsoide glatte Sporen mit Größen von etwa 4 - 5.5 x 2.5 - 3.5 µ, seitlich mit [Apikulus](Apikulus "Glossar"), keulig verdickte [Cheilozystiden](Cheilozystiden "Glossar") und ebensolche, zum Teil braun pigmentierte HDS-Zellen. Schnallen sind vorhanden.
 
 Wie alle kleinen Schirmlinge kommt auch der Lilaschuppige Schirmling nicht zu Speisezwecken in Frage. Alle Arten sind giftig, mitunter sogar tödlich giftig.
 
