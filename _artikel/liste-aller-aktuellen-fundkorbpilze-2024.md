@@ -11,7 +11,7 @@ published: true
 17.09.2024: [Cortinarius alboviolaceus - Weißvioletter Dickfuß](/pilze/cortinarius-alboviolaceus-weißvioletter-dickfuß)\
 16.09.2024: [Boletus appendiculatus - Anhängselröhrling](/pilze/boletus-appendiculatus-anhängselröhrling)\
 15.09.2024: [Hydropus subalpinus - Buchenwald-Wasserfuß](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)\
-14.09.2024: [Ustilago maydis - Mainbeulenbrand](/pilze/ustilago-maydis-maisbeulenbrand)\
+14.09.2024: [Ustilago maydis - Maisbeulenbrand](/pilze/ustilago-maydis-maisbeulenbrand)\
 13.09.2024: [Tricholomopsis rutinas - Purpurfilziger Holzritterling](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)\
 12.09.2024: [Phaeomarasmius erinaceus - Igel-Schüppchenschnitzling](/pilze/phaeomarasmius-erinaceus-igel-schüppchenschnitzling)\
 11.09.2024: [Amanita pantherina - Pantherpilz](/pilze/amanita-pantherina-pantherpilz)\
