@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-22.09.2024: [Rickenella fibula - Orangeroter Heftelnabeling](/pilze/rickenella-fibula)   
+23.09.2024: [Lecanora chlarotera - Helle Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte)   
+22.09.2024: [Rickenella fibula - Orangeroter Heftelnabeling](/pilze/rickenella-fibula)\
 21.09.2024: [Russula densifolia - Dichtblättriger Schwärztäubling](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)\
 20.09.2024: [Rhytisma acerinum - Ahorn-Runzelschorf](/pilze/rhytisma-acerinum-ahorn-runzelschorf)\
 19.09.2024: [Laccaria laccata - Rötlicher Lacktrichterling](/pilze/laccaria-laccata-rötlicher-lacktrichterling)\
