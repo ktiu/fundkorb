@@ -51,4 +51,8 @@ Bestimmungsschritte nach *Wollweber & Stadler*:
 
 Von *Bernd Miggel* anhand 25 repräsentativer Sporen ermittelte Werte: Maße 11,3 - 15,6 x 5,5 – 6,8 µm, Schlankheitsgrad Q 2,11 – 2,24.
 
-Als Substrat geben *Wollweber & Stadler* Erle und Hainbuche an. Ein makroskopisch erkennbares Unterscheidungsmerkmal könnte der nicht immer deutlich sichtbare Sockel der Fruchtkörper sein.
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/daldinia_petriniae_05_dg.jpg" %}
+{% include abbildung_ende.html legende="Deutlicher Sockel + gekräuselte Härchen" %}
+
+Als Substrat geben *Wollweber & Stadler* Erle und Hainbuche an. Ein makroskopisch erkennbares Unterscheidungsmerkmal könnte der nicht immer deutlich sichtbare Sockel der Fruchtkörper sein. So deutlich abgesetzt wie auf obigem Foto könnte er (geschätzt) bei 10 Prozent der Fruchtkörperansammlungen zu sehen sein. Auch die gekräuselten Härchen, die sich nach mehreren Tagen am Exsikkat gebildet haben, könnten ein markantes Kennzeichen sein. 
