@@ -17,6 +17,18 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gyroporus_castaneus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.09.2024: Ein nicht gerade häufiger aber an seiner extrem hartfleischigen Konsistenz gut erkennbarer Röhrling ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Hasenröhrling *Gyroporus castaneus*. Er kann jahrelang nahezu ausbleiben, in manchen Jahren aber mit massenhaftem Vorkommen überraschen. Er bevorzugt sandige Böden und als [Mykorrhizapartner](<Mykorrhiza "Glossar">) die Nähe zu Eichen und Buchen. Gefunden haben wir ihn in einem Wald bei Dietzenbach. (Johannn Rejek & Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gyroporus-castaneus-hasenröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ footer_scripts:
 22.09.2024: Auf einen recht großen folgt nun ein zierlich kleiner aktueller [Fundkorbpilz](AA "Glossar-"), der Orangerote Heftelnabeling *Rickenella fibula*. Manche meinen, es sei eine Art, in die man sich verlieben könnte. Dazu tragen neben der attraktiven Farbe auch die in einem eleganten Bogen am Stiel herablaufenden Lamellen bei. Wenn man die Augen offen hält, kann man ihn vom Frühsommer bis in den Spätherbst zwischen Moosen finden, egal, ob sich diese in Rasenflächen oder auf Totholz befinden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/rickenella-fibula)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_densifolia_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.09.2024: Unter den Täublingen nehmen die Schwärztäublinge eine Sonderstellung ein. Sie sind recht groß, kompakt, aber im Gegensatz zu den allermeisten anderen überhaupt nicht bunt. Das trifft auch auf unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Dichtblättrigen Schwärztäubling *Russula densifolia* zu. Sein kennzeichnendes Merkmal sind sehr eng stehende Lamellen, die mild und <ins>nicht</ins> scharf, höchstens etwas schärflich oder pikant schmecken. Er gilt als essbar, ist aber mit Sicherheit keine Delikatesse. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)
 
 <div style="clear:  both"></div>
 
