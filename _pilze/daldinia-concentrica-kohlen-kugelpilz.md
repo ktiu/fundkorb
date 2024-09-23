@@ -22,7 +22,7 @@ Daldinia decipiens\
 Daldinia fissa (Gestielter Kohlenpilz)\
 Daldinia lloydii\
 Daldinia loculata\
-Daldinia petriniae
+[Daldinia petriniae](/pilze/daldinia-petriniae-erlen-holzkohlenpilz)
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/daldinia_concentrica_02_dg.jpg" %}
