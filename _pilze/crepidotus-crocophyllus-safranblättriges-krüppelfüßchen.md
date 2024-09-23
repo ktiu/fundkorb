@@ -12,8 +12,14 @@ hauptbild:
   anzeige: true
   datei: /bilder/crepidotus_crocophyllus_01_uvs.jpg
   legende: "Foto: Dr. Ulrich van Schoor"
+literatur:
+  - text: ""
+    url: http://www.natur.vulkanland.at/arten/461
+  - url: http://www.pilze-deutschland.de/organismen/crepidotus-crocophyllus-berk-sacc-1887
+  - url: https://www.mushroomexpert.com/crepidotus_crocophyllus.html
+  - text: "Michael Kuo: continent's most common species of Crepidotus"
 ---
-Es fällt schwer, in der allgemein zugänglichen Literatur Informationen über diese Art zu finden, die bisher nur wenige Male in Deutschland nachgewiesen werden konnte. Stummelfüßchen gehören zu den Arten, die nach der Beurteilung vieler Mykologen schwer und wirklich sicher nur unter Berücksichtigung mikroskopischer Merkmale bestimmbar sind. Ausgerechnet dieser sehr seltene Pilz scheint da eine makroskopisch erkennbare Ausnahme zu sein. ["Der Hut ist auf orangem Grund mit lichtbraunen Schüppchen besetzt."](http://www.natur.vulkanland.at/arten/461)
+Es fällt schwer, in der allgemein zugänglichen Literatur Informationen über diese Art zu finden, die bisher nur wenige Male in Deutschland nachgewiesen werden konnte. Stummelfüßchen gehören zu den Arten, die nach der Beurteilung vieler Mykologen schwer und wirklich sicher nur unter Berücksichtigung mikroskopischer Merkmale bestimmbar sind. Ausgerechnet dieser sehr seltene Pilz scheint da eine makroskopisch erkennbare Ausnahme zu sein. ["Der Hut ist auf orangem Grund mit lichtbraunen Schüppchen besetzt."](http://www.natur.vulkanland.at/arten/461). Als Alleinstellungsmerkmal soll sich auch ein makrochemischer Farbtest eignen: Mit KOH (Kalilauge) betupfte Lamellen zeigen eine orangerote Verfärbung.
 
 *Dr. Ulrich van Schoor* hat den Pilz am 16. Juni 2018 im Frankfurter Stadtwald in der Nähe des Maunzenweihers auf stark vermorschtem, moosbewachsenem Totholz gefunden und identifiziert. Möglicherweise handelt es sich um einen Erstfund für Hessen. Mit dem Schlüssel von *Meinhard Moser (Kleine Kryptogamenflora Band IIb/2)* konnte ich die Bestimmung in wenigen problemlosen Schritten nachvollziehen und bestätigen:
 
