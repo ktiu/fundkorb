@@ -20,6 +20,16 @@ Kostenlose pilzkundliche Führungen im Frankfurter Stadtwald am Samstag, 28. Sep
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/suillus_placidus_01_eh.jpg" %}
+{% include abbildung_ende.html %}
+
+25.09.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-"), der Elfenbeinröhrling *Suillus placidus*, ist zwar leicht als solcher zu erkennen, in weiten Teilen Deutschlands aber eine echte Rarität. Etwas häufiger lässt er sich in den östlichen Mittelgebirgen und im Alpenraum finden. Er bildet ausschließlich mit fünfnadeligen Kiefernarten eine [Mykorrhizapartnerschaft](<Mykorrhiza "Glossar">) und kommt so unter Zirbelkiefern und der ursprünglich aus Nordamerika stammenden Weymouthkiefer vor. (Erik Hock)
+
+[Mehr lesen >](/pilze/suillus-placidus-elfenbeinröhrling)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gyroporus_castaneus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
