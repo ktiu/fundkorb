@@ -27,6 +27,8 @@ Kostenlose pilzkundliche Führungen im Frankfurter Stadtwald am Samstag, 28. Sep
 
 [Mehr lesen >](/pilze/suillus-placidus-elfenbeinröhrling)
 
+<div style="clear:  both"></div>
+
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
