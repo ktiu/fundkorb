@@ -14,7 +14,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/pilzberatung_01_xx.png" %}
 {% include abbildung_ende.html legende="Pilzberatung in Frankfurt am Main" %}
 
-Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet ab dem 29. September jeweils sonntags von 17 bis 20 Uhr statt. [Mehr lesen >](/termine)  
+Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet ab dem 29. September jeweils sonntags von 17 bis 20 Uhr statt. [Mehr lesen >](/termine)\
 Kostenlose pilzkundliche Führungen im Frankfurter Stadtwald am Samstag, 28. September und Samstag, 5. Oktober 2024, jeweils 10:00 Uhr. [Hier geht's zur Anmeldung >](/termine)
 
 - - -
@@ -44,12 +44,12 @@ Kostenlose pilzkundliche Führungen im Frankfurter Stadtwald am Samstag, 28. Sep
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" %}
+{% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-22.09.2024: Auf einen recht großen folgt nun ein zierlich kleiner aktueller [Fundkorbpilz](AA "Glossar-"), der Orangerote Heftelnabeling *Rickenella fibula*. Manche meinen, es sei eine Art, in die man sich verlieben könnte. Dazu tragen neben der attraktiven Farbe auch die in einem eleganten Bogen am Stiel herablaufenden Lamellen bei. Wenn man die Augen offen hält, kann man ihn vom Frühsommer bis in den Spätherbst zwischen Moosen finden, egal, ob sich diese in Rasenflächen oder auf Totholz befinden. (Dieter Gewalt)
+23.09.2024: Ab und zu soll auch eine Flechte aktueller [Fundkorbpilz](AA "Glossar-") sein. Nicht jedem ist klar, dass es sich bei diesen beeindruckenden Organismen um Pilze handelt. In Streuobstwiesen kann man auf der Baumrinde die Helle Kuchenflechte *Lecanora chlarotera* finden. Die runden Tellerchen (Ø 1 – 1,5 mm) sind [Apothezien](Apothezien "Glossar"), in denen die Pilzsporen gebildet werden. (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/rickenella-fibula)
+[Mehr lesen >](/pilze/lecanora-chlarotera-helle-kuchenflechte)
 
 <div style="clear:  both"></div>
 
