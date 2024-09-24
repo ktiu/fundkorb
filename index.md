@@ -44,18 +44,6 @@ Kostenlose pilzkundliche Führungen im Frankfurter Stadtwald am Samstag, 28. Sep
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-23.09.2024: Ab und zu soll auch eine Flechte aktueller [Fundkorbpilz](AA "Glossar-") sein. Nicht jedem ist klar, dass es sich bei diesen beeindruckenden Organismen um Pilze handelt. In Streuobstwiesen kann man auf der Baumrinde die Helle Kuchenflechte *Lecanora chlarotera* finden. Die runden Tellerchen (Ø 1 – 1,5 mm) sind [Apothezien](Apothezien "Glossar"), in denen die Pilzsporen gebildet werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lecanora-chlarotera-helle-kuchenflechte)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
