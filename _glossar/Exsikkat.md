@@ -1,6 +1,6 @@
 ---
-schlagwort: "Exsikkat"
+schlagwort: Exsikkat
 synonym: Trockenbeleg
 ---
-getrocknetes Präparat von Pflanzen, Tieren, etc.
+Getrocknetes Präparat von Pflanzen, Tieren, Pilzen, etc.
 
