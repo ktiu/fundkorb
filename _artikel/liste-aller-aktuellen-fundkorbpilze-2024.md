@@ -2,8 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-25.09.2024: [Suillus placidus - Elfenbeinröhrling](/pilze/suillus-placidus-elfenbeinröhrling)  
-24.09.2024: [Gyroporus castaneus - Hasenröhrling](/pilze/gyroporus-castaneus-hasenröhrling)  
+26.09.2024: [Daedaleopsis tricolor - Dreifarbige Tramete](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)  
+25.09.2024: [Suillus placidus - Elfenbeinröhrling](/pilze/suillus-placidus-elfenbeinröhrling)\
+24.09.2024: [Gyroporus castaneus - Hasenröhrling](/pilze/gyroporus-castaneus-hasenröhrling)\
 23.09.2024: [Lecanora chlarotera - Helle Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte)\
 22.09.2024: [Rickenella fibula - Orangeroter Heftelnabeling](/pilze/rickenella-fibula)\
 21.09.2024: [Russula densifolia - Dichtblättriger Schwärztäubling](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)\
