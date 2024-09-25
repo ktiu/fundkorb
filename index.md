@@ -20,6 +20,18 @@ Kostenlose pilzkundliche Führungen im Frankfurter Stadtwald am Samstag, 28. Sep
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/daedaleopsis_confragosa_var._tricolor_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Dreifarbige Tramete *Daedaleopsis tricolor*. Sie unterscheidet auf den ersten Blick deutlich von der Rötenden Tramete *Daedaleopsis confragosa* durch ein lamelliges [Hymenophor](<Hymenophor "Glossar">). Ein wirklich zuverlässiges Merkmal ist das aber leider nicht. Es können Übergangsformen vorkommen, die man keiner der beiden Arten sicher zuordnen kann. Selbst Mikroskopieren hilft da nicht weiter. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/suillus_placidus_01_eh.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,18 +50,6 @@ Kostenlose pilzkundliche Führungen im Frankfurter Stadtwald am Samstag, 28. Sep
 24.09.2024: Ein nicht gerade häufiger aber an seiner extrem hartfleischigen Konsistenz gut erkennbarer Röhrling ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Hasenröhrling *Gyroporus castaneus*. Er kann jahrelang nahezu ausbleiben, in manchen Jahren aber mit massenhaftem Vorkommen überraschen. Er bevorzugt sandige Böden und als [Mykorrhizapartner](Mykorrhiza "Glossar") die Nähe zu Eichen und Buchen. Gefunden haben wir ihn in einem Wald bei Dietzenbach. (Johannn Rejek & Dieter Gewalt)
 
 [Mehr lesen >](/pilze/gyroporus-castaneus-hasenröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-23.09.2024: Ab und zu soll auch eine Flechte aktueller [Fundkorbpilz](AA "Glossar-") sein. Nicht jedem ist klar, dass es sich bei diesen beeindruckenden Organismen um Pilze handelt. In Streuobstwiesen kann man auf der Baumrinde die Helle Kuchenflechte *Lecanora chlarotera* finden. Die runden Tellerchen (Ø 1 – 1,5 mm) sind [Apothezien](Apothecien "Glossar"), in denen die Pilzsporen gebildet werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lecanora-chlarotera-helle-kuchenflechte)
 
 <div style="clear:  both"></div>
 
