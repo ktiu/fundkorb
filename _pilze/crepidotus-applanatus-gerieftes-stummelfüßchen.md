@@ -21,6 +21,8 @@ literatur:
 ---
 Stummelfüßchen sind kleine Blätterpilze von meist weißer Farbe mit ocker- oder hellbrau-nem Sporenpulver, die stiellos oder mit einem sehr rudimentären Stielchen seitlich oder mit dem Hutscheitel am Substrat angewachsen sind. Die meisten Arten sind nur anhand mikroskopischer Merkmale sicher zu erkennen. Bei dem hier vorgestellten Gerieften Stummelfüßchen ist nicht einmal der deutsche Name ein Hinweis auf seine Identität, denn von einem gerieften Hutrand ist auf keinem der oben abgebildeten Fruchtkörper auch nur eine Andeutung zu sehen. Die matte, glatte, hell bräunliche oder beigefarbene Hutoberfläche ist aber immerhin ein guter Hinweis auf die Art. Ein Stiel ist, wenn überhaupt erkennbar, nur rudimentär (verstümmelt) vorhanden.
 
+Die Identifizierung von *Crepidotus applanatus* fällt nicht immer leicht, da die meisten Bestimmungsschlüssel von einer weißen (nicht gefärbten) Huthaut ausgehen. In der Tat ist diese Art in jungem Stadium weiß oder weißlich, in der weiteren Entwicklung aber schon bald cremefarben und dann bräunlich, vor allem bei Feuchtigkeit.
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/crepidotus_applanatus_03_fk.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/crepidotus_applanatus_04_fk.jpg" nocrop=true gross=true %}
@@ -43,9 +45,8 @@ Stummelfüßchen sind kleine Blätterpilze von meist weißer Farbe mit ocker- od
 {% include bild.html datei="/bilder/crepidotus_applanatus_07_fk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Sporen  --  Hyphe mit Schnalle (3 Mikrofotos: Frank Kaster)" %}
 
-Der hier beschriebene Fund stammt von einem nahezu auf ganzer Länge schwarz verbrannten Kiefernstamm auf einer Brandstelle mit etwa 10 m Durchmesser.\
-Die Identifizierung von *Crepidotus applanatus* fällt nicht immer leicht, da die meisten Bestimmungsschlüssel von einer weißen (nicht gefärbten) Huthaut ausgehen. In der Tat ist diese Art in jungem Stadium weiß oder weißlich, in der weiteren Entwicklung aber schon bald cremefarben und dann bräunlich, vor allem bei Feuchtigkeit.
-
 Unter den Stummelfüßchen gibt es keine Speisepilze.
 
-Danksagung an *Erik Hock*, *Frank Kaster* und *Johann Rejek* für ihre Mitwirkung bei der Bestimmung, der Ermittlung mikroskopischer Merkmale und Bereitstellung von Fotos.
+Der hier beschriebene Fund stammt von einem nahezu auf ganzer Länge schwarz verbrannten Kiefernstamm auf einer Brandstelle mit etwa 10 m Durchmesser.
+
+Danksagung: *Erik Hock*, *Frank Kaster* und *Johann Rejek* haben mit ihrer Mitarbeit entscheidend zum Gelingen dieser Seite beigetragen.
