@@ -27,7 +27,7 @@ literatur:
   - url: https://italic.units.it/index.php?procedure=taxonpage&num=1713
   - url: http://www.norbert-kuehnberger.de/pilzbildergalerie/D_Flechten-Lichenes_-_226_Arten/index.htm
 ---
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/phlyctis_argena_01_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Großflächige Ausdehnung der Weißen Blatternflechte an zwei freistehenden Hainbuchen an einem Grillplatz in Jügesheim, Kreis Offenbach (Foto: Dieter Gewalt)" %}
 
