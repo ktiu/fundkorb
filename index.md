@@ -20,6 +20,18 @@ Kostenlose pilzkundliche Führungen im Frankfurter Stadtwald am Samstag, 28. Sep
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_deliciosus_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.09.2024: Den einzigen Edelreizker (*Lactarius deliciosus*) bei unserer kurzen Exkursion fanden wir am Anglerteich bei Rödermark-Waldacker unter Kiefern. Ganz klar: das muss unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Er gehört wie die Täublinge zu den Sprödblättlern und fällt durch seine karottenrote Milch auf, die zwar nicht wie eine Flüssigkeit aus dem Fruchtfleisch tropft, es aber immerhin ein wenig nass erscheinen lässt. (Erik Hock, Johann Rejek & Dieter Gewalt)
+
+Mehr Infos und auch Tipps zur Zubereitung [gibt es hier >](/pilze/lactarius-deliciosus-edelreizke)
+
+ <div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/daedaleopsis_confragosa_var._tricolor_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
