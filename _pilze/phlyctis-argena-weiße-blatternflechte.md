@@ -28,9 +28,8 @@ literatur:
   - url: http://www.norbert-kuehnberger.de/pilzbildergalerie/D_Flechten-Lichenes_-_226_Arten/index.htm
 ---
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/phlyctis_argena_01_lh.jpeg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/phlyctis_argena_02_lh.jpeg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Abb. links: Phlyctis argena am Fundort, der rissigen Borke eines alten Birnbaums -- Abb. rechts: Kalilauge hinterlässt sofort einen gelben Fleck (2 Fotos: Liss Hoffmann)" %}
+{% include bild.html datei="/bilder/phlyctis_argena_01_dg.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Großflächige Ausdehnung der Weißen Blatternflechte an zwei freistehenden Hainbuchen an einem Grillplatz in Jügesheim, Kreis Offenbach (Foto: Dieter Gewalt)" %}
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/phlyctis_argena_03_bm.jpg" %}
