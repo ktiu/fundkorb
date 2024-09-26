@@ -23,6 +23,8 @@ Um Boletus radicans sicher zu bestimmen, ist zunächst auf die Merkmalskombinati
 
 zu achten. Das zarte Blau der Verfärbung erinnert sehr an das Blauen des [Kornblumenröhrlings](/pilze/gyroporus-cyanescens-kornblumenröhrling).
 
+Wegen seines bitteren Geschmacks ist er als Speisepilz ungeeignet. In manchen Veröffentlichungen wird er sogar als giftig bezeichnet, was sich aber nur auf den Verzehr roher Pilze bezieht. Nur sehr wenige Pilzarten sind für den Rohverzehr geeignet. Selbst der viel gesammelte und beliebte Maronenröhrling ist roh verzehrt giftig!
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/boletus_radicans_05_dg.jpg" %}
 {% include abbildung_ende.html %}
