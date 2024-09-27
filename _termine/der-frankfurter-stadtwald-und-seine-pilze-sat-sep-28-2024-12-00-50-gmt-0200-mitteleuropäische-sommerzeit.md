@@ -2,8 +2,8 @@
 aktivitaet: Der Frankfurter Stadtwald und seine Pilze
 zeit: 2024-09-28T10:00:50.430Z
 bis: ""
-anmeldung_offen: true
-anmeldung_noetig: true
+anmeldung_offen: false
+anmeldung_noetig: false
 published: true
 bilder:
   - /bilder/pilzberatung_01_dg.jpg
