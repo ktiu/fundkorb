@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-27.09.2024: [Lactarius deliciosus - Edelreizker](/pilze/lactarius-deliciosus-edelreizker)  
+28.09.2024: [Russula mustelina - Wieseltäubling](/pilze/russula-mustelina-wiesel-täubling)
+27.09.2024: [Lactarius deliciosus - Edelreizker](/pilze/lactarius-deliciosus-edelreizker)\
 26.09.2024: [Daedaleopsis tricolor - Dreifarbige Tramete](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)\
 25.09.2024: [Suillus placidus - Elfenbeinröhrling](/pilze/suillus-placidus-elfenbeinröhrling)\
 24.09.2024: [Gyroporus castaneus - Hasenröhrling](/pilze/gyroporus-castaneus-hasenröhrling)\
