@@ -15,7 +15,7 @@ footer_scripts:
 {% include abbildung_ende.html legende="Pilzberatung in Frankfurt am Main" %}
 
 Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet ab dem 29. September jeweils sonntags von 17 bis 20 Uhr statt. [Mehr lesen >](/termine)\
-Kostenlose pilzkundliche Führungen im Frankfurter Stadtwald am Samstag, 28. September und Samstag, 5. Oktober 2024, jeweils 10:00 Uhr. [Hier geht's zur Anmeldung >](/termine)
+Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samstag, 5. Oktober 2024 um 10:00 Uhr statt. [Hier geht's zur Anmeldung >](/termine)
 
 - - -
 
