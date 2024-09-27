@@ -20,6 +20,18 @@ Kostenlose pilzkundliche Führungen im Frankfurter Stadtwald am Samstag, 28. Sep
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_mustelina_02_gs.jpg" %}
+{% include abbildung_ende.html %}
+
+28.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wieseltäubling (*Russula mustelina*), ein fester, schwerer Täubling, der mild und nussartig schmeckt und nur selten von Maden befallen wird. Die Huthaut ist oft mit Erdpartikeln bedeckt, da sich die Hüte relativ tief in der Erde entwickeln und beim Wachsen Erde mit nach oben schieben. Der Stiel ist am Grund oft faltig zusammengezogen wie ein Wurstzipfel. Gefunden wurden rund ein Dutzend Wieseltäublinge im südlichen Vogelsberg auf ca. 300 Höhenmetern im sauren Fichtenwald. (Brigitte Koch)
+
+[Mehr lesen >](/pilze/russula-mustelina-wiesel-täubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_deliciosus_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -50,18 +62,6 @@ Mehr Infos und auch Tipps zur Zubereitung [gibt es hier >](/pilze/lactarius-deli
 25.09.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-"), der Elfenbeinröhrling *Suillus placidus*, ist zwar leicht als solcher zu erkennen, in weiten Teilen Deutschlands aber eine echte Rarität. Etwas häufiger lässt er sich in den östlichen Mittelgebirgen und im Alpenraum finden. Er bildet ausschließlich mit fünfnadeligen Kiefernarten eine [Mykorrhizapartnerschaft](Mykorrhiza "Glossar") und kommt so unter Zirbelkiefern und der ursprünglich aus Nordamerika stammenden Weymouthkiefer vor. (Erik Hock)
 
 [Mehr lesen >](/pilze/suillus-placidus-elfenbeinröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gyroporus_castaneus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.09.2024: Ein nicht gerade häufiger aber an seiner extrem hartfleischigen Konsistenz gut erkennbarer Röhrling ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Hasenröhrling *Gyroporus castaneus*. Er kann jahrelang nahezu ausbleiben, in manchen Jahren aber mit massenhaftem Vorkommen überraschen. Er bevorzugt sandige Böden und als [Mykorrhizapartner](Mykorrhiza "Glossar") die Nähe zu Eichen und Buchen. Gefunden haben wir ihn in einem Wald bei Dietzenbach. (Johannn Rejek & Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gyroporus-castaneus-hasenröhrling)
 
 <div style="clear:  both"></div>
 
