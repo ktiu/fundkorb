@@ -18,6 +18,17 @@ Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet ab dem 29. Sept
 Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samstag, 5. Oktober 2024 um 10:00 Uhr statt. **\- Inzwischen ausgebucht -**
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lepiota_lilacea_01_eh.jpg" %}
+{% include abbildung_ende.html %}
+
+29.09.2024: Kleine Schirmlinge gibt es viele und die meisten lassen sich nur mikroskopisch voneinander unterscheiden. Umso besser, dass der aktuelle [Fundkorbpilz](AA "Glossar-"), der Lilaschuppige Schirmling *Lepiota lilacea*, ein Merkmal besitzt, das in die richtige Richtung weißt: der braunviolette Ring am Stiel ist ein Alleinstellungsmerkmal, welches ihn von anderen *Lepiota* unterscheidet. Insgesamt ist er relativ selten, finden lässt er sich auf nährstoffreichen Böden, beispielsweise entlang von Wegen, in Parkanlagen und Gärten.
+
+[Mehr lesen >](/pilze/lepiota-lilacea-lilaschuppiger-schirmling)
+
+<div style="clear:  both"></div>
+
+-﻿ - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_mustelina_02_gs.jpg" %}
@@ -55,17 +66,6 @@ Mehr Infos und auch Tipps zur Zubereitung [gibt es hier >](/pilze/lactarius-deli
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/suillus_placidus_01_eh.jpg" %}
-{% include abbildung_ende.html %}
-
-25.09.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-"), der Elfenbeinröhrling *Suillus placidus*, ist zwar leicht als solcher zu erkennen, in weiten Teilen Deutschlands aber eine echte Rarität. Etwas häufiger lässt er sich in den östlichen Mittelgebirgen und im Alpenraum finden. Er bildet ausschließlich mit fünfnadeligen Kiefernarten eine [Mykorrhizapartnerschaft](Mykorrhiza "Glossar") und kommt so unter Zirbelkiefern und der ursprünglich aus Nordamerika stammenden Weymouthkiefer vor. (Erik Hock)
-
-[Mehr lesen >](/pilze/suillus-placidus-elfenbeinröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
