@@ -18,17 +18,18 @@ Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet ab dem 29. Sept
 Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samstag, 5. Oktober 2024 um 10:00 Uhr statt. **\- Inzwischen ausgebucht -**
 
 - - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lepiota_lilacea_01_eh.jpg" %}
 {% include abbildung_ende.html %}
 
-29.09.2024: Kleine Schirmlinge gibt es viele und die meisten lassen sich nur mikroskopisch voneinander unterscheiden. Umso besser, dass der aktuelle [Fundkorbpilz](AA "Glossar-"), der Lilaschuppige Schirmling (*Lepiota lilacea*), ein Merkmal besitzt, das in die richtige Richtung weist: der braunviolette Ring am Stiel ist ein Alleinstellungsmerkmal, welches ihn von anderen *Lepiota* unterscheidet. Insgesamt ist er relativ selten, finden lässt er sich auf nährstoffreichen Böden, beispielsweise entlang von Wegen, in Parkanlagen und Gärten. (Erik Hock)
+29.09.2024: Kleine Schirmlinge gibt es viele und die meisten lassen sich nur mikroskopisch voneinander unterscheiden. Umso besser, dass der aktuelle [Fundkorbpilz](AA "Glossar-"), der Lilaschuppige Schirmling (*Lepiota lilacea*), ein Merkmal besitzt, das in die richtige Richtung weist: der braunviolette Ring am Stiel ist ein Alleinstellungsmerkmal, welches ihn von anderen *Lepiota*-Arten unterscheidet. Insgesamt ist er relativ selten, finden lässt er sich auf nährstoffreichen Böden, beispielsweise entlang von Wegen, in Parkanlagen und Gärten. (Erik Hock)
 
 [Mehr lesen >](/pilze/lepiota-lilacea-lilaschuppiger-schirmling)
 
 <div style="clear:  both"></div>
 
--﻿ - -
+\-﻿ - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_mustelina_02_gs.jpg" %}
@@ -65,7 +66,6 @@ Mehr Infos und auch Tipps zur Zubereitung [gibt es hier >](/pilze/lactarius-deli
 <div style="clear:  both"></div>
 
 - - -
-
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
