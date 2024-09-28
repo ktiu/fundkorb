@@ -22,7 +22,7 @@ Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samsta
 {% include bild.html datei="/bilder/lepiota_lilacea_01_eh.jpg" %}
 {% include abbildung_ende.html %}
 
-29.09.2024: Kleine Schirmlinge gibt es viele und die meisten lassen sich nur mikroskopisch voneinander unterscheiden. Umso besser, dass der aktuelle [Fundkorbpilz](AA "Glossar-"), der Lilaschuppige Schirmling (*Lepiota lilacea*), ein Merkmal besitzt, das in die richtige Richtung weist: der braunviolette Ring am Stiel ist ein Alleinstellungsmerkmal, welches ihn von anderen *Lepiota* unterscheidet. Insgesamt ist er relativ selten, finden lässt er sich auf nährstoffreichen Böden, beispielsweise entlang von Wegen, in Parkanlagen und Gärten.
+29.09.2024: Kleine Schirmlinge gibt es viele und die meisten lassen sich nur mikroskopisch voneinander unterscheiden. Umso besser, dass der aktuelle [Fundkorbpilz](AA "Glossar-"), der Lilaschuppige Schirmling (*Lepiota lilacea*), ein Merkmal besitzt, das in die richtige Richtung weist: der braunviolette Ring am Stiel ist ein Alleinstellungsmerkmal, welches ihn von anderen *Lepiota* unterscheidet. Insgesamt ist er relativ selten, finden lässt er sich auf nährstoffreichen Böden, beispielsweise entlang von Wegen, in Parkanlagen und Gärten. (Erik Hock)
 
 [Mehr lesen >](/pilze/lepiota-lilacea-lilaschuppiger-schirmling)
 
