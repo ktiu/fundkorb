@@ -20,6 +20,18 @@ Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samsta
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_corynephora_02_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+30.09.2024: Helmlinge sind nichts für die Pfanne, aber um so mehr fürs Auge. Mir haben es besonders die süßen kleinen Rindenhelmlinge angetan. Einer von ihnen, der Flockige Rindenhelmling *Mycena corynephora* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Gefunden haben wir ihn am Rand des Grillplatzes Jügesheim (Kreis Offenbach) auf einem angemorschten liegenden Stamm. An der weißen Farbe und den abstehenden Härchen am Stiel ist er recht gut zu erkennen. (Dieter Gewalt)
+
+[Mehr lesen >](/mycena-corynephora-flockiger-rindenhelmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lepiota_lilacea_01_eh.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -29,7 +41,7 @@ Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samsta
 
 <div style="clear:  both"></div>
 
-\-﻿ - -
+- - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_mustelina_02_gs.jpg" %}
@@ -52,18 +64,6 @@ Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samsta
 Mehr Infos und auch Tipps zur Zubereitung [gibt es hier >](/pilze/lactarius-deliciosus-edelreizker)
 
  <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/daedaleopsis_confragosa_var._tricolor_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Dreifarbige Tramete *Daedaleopsis tricolor*. Sie unterscheidet auf den ersten Blick deutlich von der Rötenden Tramete *Daedaleopsis confragosa* durch ein lamelliges [Hymenophor](<Hymenophor "Glossar">). Ein wirklich zuverlässiges Merkmal ist das aber leider nicht. Es können Übergangsformen vorkommen, die man keiner der beiden Arten sicher zuordnen kann. Selbst Mikroskopieren hilft da nicht weiter. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/daedaleopsis-tricolor-dreifarbige-tramete)
-
-<div style="clear:  both"></div>
 
 - - -
 
