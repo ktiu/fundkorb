@@ -37,7 +37,7 @@ Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samsta
 
 30.09.2024: Helmlinge sind nichts für die Pfanne, aber um so mehr fürs Auge. Mir haben es besonders die süßen kleinen Rindenhelmlinge angetan. Einer von ihnen, der Flockige Rindenhelmling *Mycena corynephora* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Gefunden haben wir ihn am Rand des Grillplatzes Jügesheim (Kreis Offenbach) auf einem angemorschten liegenden Stamm. An der weißen Farbe und den abstehenden Härchen am Stiel ist er recht gut zu erkennen. (Dieter Gewalt)
 
-[Mehr lesen >](/mycena-corynephora-flockiger-rindenhelmling)
+[Mehr lesen >](/pilze/mycena-corynephora-flockiger-rindenhelmling)
 
 <div style="clear:  both"></div>
 
