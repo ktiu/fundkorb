@@ -63,7 +63,7 @@ Die festgestellten Mikromerkmale sprechen also durchaus für *Leucopaxillis giga
 {% include bild.html datei="/bilder/leucopaxillus_-giganteus_09_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-Natürlich wurden auch Geschmacksproben gemacht. Am rohen Pilz (wieder ausgespuckt) war er mild bis etwas bitter, in der Pfanne gebraten von mäßiger Qualität und daher nicht unbedingt empfehlenswert. *Erhard Ludwig* gibt ihn mit Vorbehalt als essbar an. Er wird als Vitalpilz eingestuft und soll antibiotisch wirken. Die mit mehreren Personen vorgenommenen Geruchstests fielen recht positiv aber unterschiedlich aus, von pilzig, nussig bis bittermandelartig. Der Pilz gilt als selten und kommt besonders in nicht überdüngten Wiesen und Lichtungen, an Wegrändern und Straßenböschungen vor, in höheren Lagen häufiger als im Flachland.
+Natürlich wurden auch Geschmacksproben gemacht. Am rohen Pilz (wieder ausgespuckt) war er mild bis etwas bitter, in der Pfanne gebraten von durchaus sammelwürdiger Qualität und äußerst ergiebig. *Erhard Ludwig* gibt ihn mit Vorbehalt als essbar an. Er wird als Vitalpilz eingestuft und soll antibiotisch wirken. Die mit mehreren Personen vorgenommenen Geruchstests fielen recht positiv aber unterschiedlich aus, von pilzig, nussig bis bittermandelartig. Der Pilz gilt als selten und kommt besonders in nicht überdüngten Wiesen und Lichtungen, an Wegrändern und Straßenböschungen vor, in höheren Lagen häufiger als im Flachland.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/leucopaxillus_giganteus_14_ds.jpeg" nocrop=true gross=true %}
