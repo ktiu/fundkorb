@@ -20,6 +20,18 @@ Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samsta
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/suillus_fluryi_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.10.2024: Im Dietzenbacher Gewerbegebiet auf einem parkähnlichen Grundstück unter Kiefern fiel mir eine Gruppe schon betagter Schmierröhrlinge auf. Es handelte sich um den Ringlosen Butter-Röhrling *Suillus collinitus*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Er ist nicht immer einfach vom Körnchenröhrling (Suillus granulatus) abzugrenzen, der ebenfalls [Mykorrhizapartner](Mykorrhiza "Glossar") von Kiefern ist, aber einen helleren Hut hat und keine Tröpfchen an den Röhrenmündungen ausscheidet. (Ulrike Wegner)
+
+[Mehr lesen >](/pilze/suillus-collinitus-ringloser-butter-röhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_corynephora_02_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -40,30 +52,6 @@ Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samsta
 [Mehr lesen >](/pilze/lepiota-lilacea-lilaschuppiger-schirmling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_mustelina_02_gs.jpg" %}
-{% include abbildung_ende.html %}
-
-28.09.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wieseltäubling (*Russula mustelina*), ein fester, schwerer Täubling, der mild und nussartig schmeckt und nur selten von Maden befallen wird. Die Huthaut ist oft mit Erdpartikeln bedeckt, da sich die Hüte relativ tief in der Erde entwickeln und beim Wachsen Erde mit nach oben schieben. Der Stiel ist am Grund oft faltig zusammengezogen wie ein Wurstzipfel. Gefunden wurden rund ein Dutzend Wieseltäublinge im südlichen Vogelsberg auf ca. 300 Höhenmetern im sauren Fichtenwald. (Brigitte Koch)
-
-[Mehr lesen >](/pilze/russula-mustelina-wiesel-täubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_deliciosus_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.09.2024: Den einzigen Edelreizker (*Lactarius deliciosus*) bei unserer kurzen Exkursion fanden wir am Anglerteich bei Rödermark-Waldacker unter Kiefern. Ganz klar: das muss unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Er gehört wie die Täublinge zu den Sprödblättlern und fällt durch seine karottenrote Milch auf, die zwar nicht wie eine Flüssigkeit aus dem Fruchtfleisch tropft, es aber immerhin ein wenig nass erscheinen lässt. (Erik Hock, Johann Rejek & Dieter Gewalt)
-
-Mehr Infos und auch Tipps zur Zubereitung [gibt es hier >](/pilze/lactarius-deliciosus-edelreizker)
-
- <div style="clear:  both"></div>
 
 - - -
 
