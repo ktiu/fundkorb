@@ -4,7 +4,7 @@ published: true
 ---
 01.10.2024: [Suillus collinitus - Ringloser Butterpilz](/pilze/suillus-collinitus-ringloser-butter-röhrling)
 
-30.09.2024: [Mycena corynephora - Flockiger Rindenhelmling](/mycena-corynephora-flockiger-rindenhelmling)\
+30.09.2024: [Mycena corynephora - Flockiger Rindenhelmling](/pilze/mycena-corynephora-flockiger-rindenhelmling)\
 2﻿9.09.2024: [Lepiota lilacea - Lilaschuppiger Schirmling](/pilze/lepiota-lilacea-lilaschuppiger-schirmling)\
 28.09.2024: [Russula mustelina - Wieseltäubling](/pilze/russula-mustelina-wiesel-täubling)\
 27.09.2024: [Lactarius deliciosus - Edelreizker](/pilze/lactarius-deliciosus-edelreizker)\
