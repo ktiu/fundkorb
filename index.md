@@ -23,7 +23,7 @@ Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samsta
 {% include bild.html datei="/bilder/mycena_rosella_02_us..jpg" %}
 {% include abbildung_ende.html %}
 
-02.10.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-") kommt heute aus Bayern, genauer aus einem Mischwald in der Nähe von Baiernrain südlich von München. Es ist der Rosa Helmling *Mycena rosella*. Am Wegesrand wuchsen in der Nadelstreu über 100 Fruchtkörper, sodass sie leicht zu sehen waren. Seine wahre Schönheit zeigt der Helmling beim näheren Betrachten. Hut, Lamellen und Stiel besitzen eine zarte Rosafärbung. Und damit nicht genug, die Lamellenschneiden sind dunkel rosa, was mit einer Lupe deutlich zu sehen ist.
+02.10.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-") kommt heute aus Bayern, genauer aus einem Mischwald in der Nähe von Baiernrain südlich von München. Es ist der Rosa Helmling *Mycena rosella*. Am Wegesrand wuchsen in der Nadelstreu über 100 Fruchtkörper, sodass sie leicht zu sehen waren. Seine wahre Schönheit zeigt der Helmling beim näheren Betrachten. Hut, Lamellen und Stiel besitzen eine zarte Rosafärbung. Und damit nicht genug, die Lamellenschneiden sind dunkel rosa, was mit einer Lupe deutlich zu sehen ist. (Johann Rejek)
 
 [Mehr lesen >](/pilze/mycena-rosella-rosa-helmling)
 
