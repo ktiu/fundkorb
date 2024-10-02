@@ -41,7 +41,7 @@ Die Weiße Blatternflechte *Phlyctis argena* ist eine außerordentlich häufig v
 {% include bild.html datei="/bilder/phlyctis_argena_06_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/phlyctis_argena_07_bm.jpg" gross=true %}
 {% include bild.html datei="/bilder/phlyctis_argena_08_bm.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Farbreaktion auf dem Thallus mit KOH nach 10 sec – nach 4 min – nach 15 min" %}
+{% include abbildung_ende.html legende="Farbreaktion auf dem Lager mit KOH nach 10 sec – nach 4 min – nach 15 min" %}
 
 **Morphologische Merkmale** (in Anlehnung an KIRSCHBAUM & WIRTH 2010)
 
