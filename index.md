@@ -20,12 +20,14 @@ Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samsta
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_satanas_01_dg.jpg" %}
+{% include bild.html datei="/bilder/polyporus_umbellatus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-04.10.2024: Zum ersten Mal ist mir am Sonntag in der Pilzberatung im Frankfurter Gesundheitsamt ein Satansröhrling (*Boletus satanas* – neuer Name: *Rubroboletus satanas*) vorgelegt worden. Er war keineswegs mit einem Steinpilz oder Hexenröhrling verwechselt sondern als vorzeigewürdiges Exemplar mitgebracht worden. Darum finde ich, er sollte auch unser aktueller Fundkorbpilz sein. Dass er der einzige wirklich giftige Röhrling ist, muss an dieser Stelle wohl nicht betont werden. (Dieter Gewalt)
 
-[Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
+
+03.10.2024: Ein Eichhase (*Polyporus umbellatus*) ist ein echter Blickfang, ein Highlight, und darum soll er auch mein aktueller [Fundkorbpilz](AA "Glossar-") sein. Gefunden habe ich ihn gestern an einer Eiche in einem Mischwald auf etwa 550 m üNN bei Schmitten-Arnoldshain im Taunus. Weil er essbar ist und darüberhinaus auch noch ein Vitalpilz sein soll, werde ich ihn heute zubereiten und verspeisen. (Dr. Kanya Götsch)
+
+[Mehr lesen >](/pilze/polyporus-umbellatus-eichhase)
 
 <div style="clear:  both"></div>
 
