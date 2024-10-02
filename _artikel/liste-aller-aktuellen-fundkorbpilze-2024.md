@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+03.10.2024: [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)  
 02.10.2024: [Mycena rosella - Rosa Helmling](/pilze/mycena-rosella-rosa-helmling)\
 01.10.2024: [Suillus collinitus - Ringloser Butterpilz](/pilze/suillus-collinitus-ringloser-butter-röhrling)
 
