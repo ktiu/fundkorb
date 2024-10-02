@@ -51,7 +51,7 @@ Makrochemische Farbreaktionen (Tüpfelreaktionen): Lager und [Sorale](Sorale "Gl
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/phlyctis_argena_04_nk.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/phlyctis_argena_05_bm.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Thallus als kreisrunder Fleck mit soredienfreier Randzone (Foto: Norbert Kühnberger) -- Nahaufnahme des sorediösen Innenbereichs" %}
+{% include abbildung_ende.html legende="Thallus als kreisrunder Fleck mit soredienfreier Randzone (Foto: Norbert Kühnberger) -- Starke Vergrößerung zeigt winzige, körnige Sorale" %}
 
 **Ähnliche Flechtenarten:**
 
