@@ -33,9 +33,11 @@ literatur:
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/phlyctis_argena_03_bm.jpg" %}
-{% include abbildung_ende.html legende="Nach einiger Zeit erfolgt Umfärbung zu einem intensiven Rot (Foto: Bernd Miggel)" %}
+{% include abbildung_ende.html legende="Nach einiger Zeit erfolgt Umfärbung zu einem intensiven Rot" %}
 
 Die Weiße Blatternflechte *Phlyctis argena* ist eine außerordentlich häufig vorkommende, weiße, [epiphytische](epiphytisch "Glossar"), sterile Krustenflechte, die oft große Areale ihrer Substrate besiedelt. Das sind vorwiegend im Freien stehende Laubbäume wie Ahorn, Eiche, Esche, Linde, Birnbaum, aber auch Bäume im Waldesinneren wie Hainbuche. Besonders alte Birnbäume auf Streuobstwiesen scheinen es der Art angetan zu haben, wie es auch der hier beschriebene Fund zeigt. Auffällig ist die gelbe, dann intensiv rote Tüpfelreaktion mit Kalilauge.
+
+
 
 **Morphologische Merkmale** (in Anlehnung an KIRSCHBAUM & WIRTH 2010)
 
