@@ -20,6 +20,18 @@ Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samsta
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_satanas_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.10.2024: Zum ersten Mal ist mir am Sonntag in der Pilzberatung im Frankfurter Gesundheitsamt ein Satansröhrling (*Boletus satanas* – neuer Name: *Rubroboletus satanas*) vorgelegt worden. Er war keineswegs mit einem Steinpilz oder Hexenröhrling verwechselt sondern als vorzeigewürdiges Exemplar mitgebracht worden. Darum finde ich, er sollte auch unser aktueller Fundkorbpilz sein. Dass er der einzige wirklich giftige Röhrling ist, muss an dieser Stelle wohl nicht betont werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_rosella_02_us..jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samsta
 01.10.2024: Im Dietzenbacher Gewerbegebiet auf einem parkähnlichen Grundstück unter Kiefern fiel mir eine Gruppe schon betagter Schmierröhrlinge auf. Es handelte sich um den Ringlosen Butter-Röhrling *Suillus collinitus*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Er ist nicht immer einfach vom Körnchenröhrling (Suillus granulatus) abzugrenzen, der ebenfalls [Mykorrhizapartner](Mykorrhiza "Glossar") von Kiefern ist, aber einen helleren Hut hat und keine Tröpfchen an den Röhrenmündungen ausscheidet. (Ulrike Wegner)
 
 [Mehr lesen >](/pilze/suillus-collinitus-ringloser-butter-röhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_corynephora_02_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-30.09.2024: Helmlinge sind nichts für die Pfanne, aber um so mehr fürs Auge. Mir haben es besonders die süßen kleinen Rindenhelmlinge angetan. Einer von ihnen, der Flockige Rindenhelmling *Mycena corynephora* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Gefunden haben wir ihn am Rand des Grillplatzes Jügesheim (Kreis Offenbach) auf einem angemorschten liegenden Stamm. An der weißen Farbe und den abstehenden Härchen am Stiel ist er recht gut zu erkennen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-corynephora-flockiger-rindenhelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lepiota_lilacea_01_eh.jpg" %}
-{% include abbildung_ende.html %}
-
-29.09.2024: Kleine Schirmlinge gibt es viele und die meisten lassen sich nur mikroskopisch voneinander unterscheiden. Umso besser, dass der aktuelle [Fundkorbpilz](AA "Glossar-"), der Lilaschuppige Schirmling (*Lepiota lilacea*), ein Merkmal besitzt, das in die richtige Richtung weist: der braunviolette Ring am Stiel ist ein Alleinstellungsmerkmal, welches ihn von anderen *Lepiota*-Arten unterscheidet. Insgesamt ist er relativ selten, finden lässt er sich auf nährstoffreichen Böden, beispielsweise entlang von Wegen, in Parkanlagen und Gärten. (Erik Hock)
-
-[Mehr lesen >](/pilze/lepiota-lilacea-lilaschuppiger-schirmling)
 
 <div style="clear:  both"></div>
 
