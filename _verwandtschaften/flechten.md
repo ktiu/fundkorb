@@ -62,7 +62,17 @@ Flechten sind eine Lebensgemeinschaft (Symbiose) aus einem Pilz und einer Alge, 
 
 Dazu gehören die lebensfeindlichsten Standorte wie nackte Felsen und Regionen wie die Antarktis, in der an die hundert Flechtenarten gedeihen. Weltweit sind etwa 25.000 bekannt. Entgegen einer weit verbreiteten Einschätzung fügt eine Flechte ihrem pflanzlichen Substrat, an dem sie wächst, keinerlei Schaden zu. Es dient ihr nur als Auflage, in die sie nicht eindringt und ihr weder Wasser noch Nährstoffe entzieht.
 
-Eine grobe und völlig unsystematische Einteilung der Flechten kann man nach Form und Anwuchsart am Substrat in Blatt-, Strauch- und Krustenflechten vornehmen, was dem beobachtenden Naturfreund durchaus entgegenkommt und ihm einen unkomplizierten Einstieg in die [Lichenologie](Lichenologie "Glossar") ermöglicht. Eine nützliche Hilfe beim Bestimmen einzelner Aerten sind chemische Reagenzien, vor allem Kalilauge (KOH) und p-Phenylendiamin (PPD), die leicht anzuwenden sind und arttypische Farbreaktionen auf dem Thallus oder anderen Bestandteilen einer Flechte zeigen. Viele Arten verändern bei Befeuchtung ihre Farbe von einem unscheinbaren Grau oder Braun zu leuchtenderen, helleren Farben. Daher sollten an Flechten interessierte Naturfreunde, die ihre Funde bestimmen möchten, außer einer Lupe und einer scharfen Rasierklinge auch eine Sprühflasche mit Wasser dabeihaben. Manche unauffälligen Flecken zeigen überhaupt erst nach dem Besprühen, dass es sich um eine Flechte handelt.
+Eine grobe und völlig unsystematische Einteilung der Flechten kann man nach Form und Anwuchsart am Substrat in Blatt-, Strauch- und Krustenflechten vornehmen, was dem beobachtenden Naturfreund durchaus entgegenkommt und ihm einen unkomplizierten Einstieg in die [Lichenologie](Lichenologie "Glossar") ermöglicht. Eine nützliche Hilfe beim Bestimmen einzelner Aerten sind chemische Reagenzien, vor allem Kalilauge (KOH) und p-Phenylendiamin (PPD), die leicht anzuwenden sind und arttypische Farbreaktionen auf dem Thallus oder anderen Bestandteilen einer Flechte zeigen. 
+
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/phlyctis_argena_06_bm.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/phlyctis_argena_07_bm.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/phlyctis_argena_08_bm.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Farbreaktion auf dem Lager mit KOH nach 10 sec – nach 4 min – nach 15 min" %}
+
+
+
+Viele Arten verändern bei Befeuchtung ihre Farbe von einem unscheinbaren Grau oder Braun zu leuchtenderen, helleren Farben. Daher sollten an Flechten interessierte Naturfreunde, die ihre Funde bestimmen möchten, außer einer Lupe und einer scharfen Rasierklinge auch eine Sprühflasche mit Wasser dabeihaben. Manche unauffälligen Flecken zeigen überhaupt erst nach dem Besprühen, dass es sich um eine Flechte handelt.
 
 **Blattflechten**, gelegentlich auch Laubflechten genannt, bestehen aus unterschiedlich geformten blattartigen Lappen (auch Loben genannt). Sie sind mit mehreren Haftorganen (Rhizinen) lose an ihrem Substrat angewachsen. Sie können daher leicht als Ganzes abgelöst werden. Typische und häufige Blattflechten sind zum Beispiel:
 
@@ -146,7 +156,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Flavoplaca citrina = Ztronen-Schönfleck](/pilze/flavoplaca-citrina-zitronen-schönfleck)\
 [Graphis scripta = Schriftflechte](/pilze/graphis-scripta-schriftflechte)\
 [Lecanora argentata = Silbrige Kuchenflechte](/pilze/lecanora-argentata-silbrige-kuchenflechte)\
-[Lecanora chlarotera = Helle Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte)  
+[Lecanora chlarotera = Helle Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte)\
 [Lecanora muralis = Mauer-Flechte](/pilze/lecanora-muralis-mauer-flechte)\
 [Lecanora impudens = Schamlose Kuchenflechte](/pilze/lecanora-impudens-schamlose-kuchenflechte)\
 [Lecidella elaeochroma =  Olivgrüne Schwarznapfflechte](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)\
