@@ -11,14 +11,14 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 Nächster Exkursionstermin: **Der Wald und seine Pilze im Herbst** am Samstag, 12. Oktober 2024, 10:00 Uhr\
-[Hier geht's zur Anmeldung >](fundkorb.de/termine)
+[Hier geht's zur Anmeldung >](/termine)
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pilzberatung_01_xx.png" %}
 {% include abbildung_ende.html legende="Pilzberatung in Frankfurt am Main" %}
 
 Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet ab dem 29. September jeweils sonntags von 17 bis 20 Uhr statt. [Mehr lesen >](/termine)\
-Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samstag, 5. Oktober 2024 um 10:00 Uhr statt. **\- Inzwischen ausgebucht -**
+Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samstag, 5. Oktober 2024 um 10:00 Uhr statt. **\- Leider schon ausgebucht -**
 
 - - -
 
