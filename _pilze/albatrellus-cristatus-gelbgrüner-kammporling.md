@@ -37,4 +37,4 @@ Die Art gilt als selten und lt. *Krieglsteiner*
 
 > seit Jahren infolge Eutrophierung der Wälder, Entwässerung und Umwandlung in Forsten vielerorts verschollen“.
 
-In Roten Listen wird sie mit dem Gefährungsgrad RL 2 (stark gefährdet) geführt. Diese Beurteilung deckt sich nicht mit der oben gezeigten aktuellen Verbreitungskarte, in der *Albatrellus cristatus* keineswegs selten erscheint und sogar in der Ebene mit Fundpunkten vertreten ist. Grund für den Widerspruch dürfte sein, dass sie auch Nachweise aus längst vergangenen Zeiten enthält.
+In Roten Listen wird sie mit dem Gefährungsgrad RL 2 (stark gefährdet) geführt. Diese Beurteilung deckt sich nicht mit der oben gezeigten aktuellen Verbreitungskarte, in der *Albatrellus cristatus* keineswegs als selten erscheint und sogar in der Ebene mit Fundpunkten vertreten ist. Grund für den Widerspruch dürfte sein, dass sie auch Nachweise aus längst vergangenen Zeiten enthält.
