@@ -16,14 +16,24 @@ Nächste Exkursionstermine:
 **Der Wald und seine Pilze im Herbst** am Samstag, 12. Oktober 2024, 10:00 Uhr\
 [Hier geht's zur Anmeldung >](/termine)
 
-
-
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pilzberatung_01_xx.png" %}
 {% include abbildung_ende.html legende="Pilzberatung in Frankfurt am Main" %}
 
 Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließlich 17. November jeweils sonntags von 17 bis 20 Uhr statt. [Mehr lesen >](/termine)\
 Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samstag, 5. Oktober 2024 um 10:00 Uhr statt. **\- Leider schon ausgebucht -**
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_satanas_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.10.2024: Zum ersten Mal ist mir am Sonntag in der Pilzberatung im Frankfurter Gesundheitsamt ein Satansröhrling (*Boletus satanas* – neuer Name: *Rubroboletus satanas*) vorgelegt worden. Er war keineswegs mit einem Steinpilz oder Hexenröhrling verwechselt sondern als vorzeigewürdiges Exemplar mitgebracht worden. Darum finde ich, er sollte auch unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Dass er der einzige wirklich giftige Röhrling ist, muss an dieser Stelle wohl nicht betont werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -46,18 +56,6 @@ Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samsta
 02.10.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-") kommt heute aus Bayern, genauer aus einem Mischwald in der Nähe von Baiernrain südlich von München. Es ist der Rosa Helmling *Mycena rosella*. Am Wegesrand wuchsen in der Nadelstreu über 100 Fruchtkörper, sodass sie leicht zu sehen waren. Seine wahre Schönheit zeigt der Helmling beim näheren Betrachten. Hut, Lamellen und Stiel besitzen eine zarte Rosafärbung. Und damit nicht genug, die Lamellenschneiden sind dunkel rosa, was mit einer Lupe deutlich zu sehen ist. (Johann Rejek)
 
 [Mehr lesen >](/pilze/mycena-rosella-rosa-helmling)
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/suillus_fluryi_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.10.2024: Im Dietzenbacher Gewerbegebiet auf einem parkähnlichen Grundstück unter Kiefern fiel mir eine Gruppe schon betagter Schmierröhrlinge auf. Es handelte sich um den Ringlosen Butter-Röhrling *Suillus collinitus*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Er ist nicht immer einfach vom Körnchenröhrling (Suillus granulatus) abzugrenzen, der ebenfalls [Mykorrhizapartner](Mykorrhiza "Glossar") von Kiefern ist, aber einen helleren Hut hat und keine Tröpfchen an den Röhrenmündungen ausscheidet. (Ulrike Wegner)
-
-[Mehr lesen >](/pilze/suillus-collinitus-ringloser-butter-röhrling)
-
-<div style="clear:  both"></div>
 
 - - -
 
