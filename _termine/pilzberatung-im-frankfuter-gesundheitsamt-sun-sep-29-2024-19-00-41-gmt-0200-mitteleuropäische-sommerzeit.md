@@ -1,6 +1,6 @@
 ---
 aktivitaet: "Pilzberatung im Frankfuter Gesundheitsamt "
-zeit: 2024-09-29T17:00:41.585Z
+zeit: 2024-09-08T17:00:41.585Z
 bis: ""
 customdate: ""
 anmeldung_offen: false
