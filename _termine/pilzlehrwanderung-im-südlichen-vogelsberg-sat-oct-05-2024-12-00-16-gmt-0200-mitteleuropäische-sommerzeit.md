@@ -2,7 +2,7 @@
 aktivitaet: Pilzlehrwanderung im südlichen Vogelsberg
 zeit: 2024-10-05T10:00:16.746Z
 bis: ""
-anmeldung_offen: true
+anmeldung_offen: false
 anmeldung_noetig: false
 published: true
 ---
