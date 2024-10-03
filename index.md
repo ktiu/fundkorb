@@ -10,6 +10,9 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
+Nächster Exkursionstermin: **Der Wald und seine Pilze im Herbst** am Samstag, 12. Oktober 2024, 10:00 Uhr\
+[Hier geht's zur Anmeldung >](fundkorb.de/termine)
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pilzberatung_01_xx.png" %}
 {% include abbildung_ende.html legende="Pilzberatung in Frankfurt am Main" %}
@@ -22,8 +25,6 @@ Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samsta
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_umbellatus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
-
-
 
 03.10.2024: Ein Eichhase (*Polyporus umbellatus*) ist ein echter Blickfang, ein Highlight, und darum soll er auch mein aktueller [Fundkorbpilz](AA "Glossar-") sein. Gefunden habe ich ihn gestern an einer Eiche in einem Mischwald auf etwa 550 m üNN bei Schmitten-Arnoldshain im Taunus. Weil er essbar ist und darüberhinaus auch noch ein Vitalpilz sein soll, werde ich ihn heute zubereiten und verspeisen. (Dr. Kanya Götsch)
 
