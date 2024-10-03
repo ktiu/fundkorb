@@ -18,7 +18,7 @@ literatur:
   - text: "German J. Krieglsteiner: Die Großpilze Baden-Württembergs Band 1, Seite
       472 - 473"
   - text: "Hermann Jahn: Die Arten der Porlinge, Seite 36"
-    url: Die Arten der Porlinge (PDF)
+    url: ""
   - text: Verbreitungskarte Albatrellus cristatus (DGfM)
     url: https://www.pilze-deutschland.de/organismen/
 ---
