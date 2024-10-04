@@ -8,6 +8,7 @@ beschreibung:
   familie: Cortinariaceae
 profil:
   aktualisiert: 2024-09-22
+  autor_in: "Dieter Gewalt"
 hauptbild:
   anzeige: true
   datei: /bilder/cortinarius_sanguineus_01_us.jpg
