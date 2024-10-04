@@ -8,7 +8,7 @@ beschreibung:
   familie: Pluteaceae
 profil:
   aktualisiert: 2020-11-11
-  autor_in: Dieter Gewalt + Frank Kaster
+  autor_in: Dieter Gewalt & Frank Kaster
 hauptbild:
   anzeige: false
   datei: /bilder/pluteus_phlebophorus_01_fk.jpg

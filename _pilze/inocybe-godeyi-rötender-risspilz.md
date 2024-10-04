@@ -8,7 +8,7 @@ beschreibung:
   familie: Inocybaceae
 profil:
   aktualisiert: 2024-01-16
-  autor_in: Bernd MIggel
+  autor_in: Bernd Miggel
 hauptbild:
   anzeige: true
   datei: /bilder/inocybe_godeyi_01_id.jpg
