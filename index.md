@@ -29,7 +29,7 @@ Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samsta
 {% include bild.html datei="/bilder/mycena_acicula_01_wk.jpg" %}
 {% include abbildung_ende.html %}
 
-05.10.2024: Unter der Vielzahl der Helmlinge zählt er zu den kleinsten und schönsten. Der Orangerote Helmling *Mycena acicula*. Er ist unser aktueller [Fundkorbpilz](AA "Glossar-") und gerade in den Wäldern um München herum zu bestaunen. Dabei empfiehlt es sich eine langsame Gangart einzulegen, sonst kann man ihn trotz seiner auffälligen Hutfarbe leicht übersehen. Er wächst oft einzeln auf verrottetem Holz und in grasiger oder moosiger Umgebung am Wegesrand. (Johann Rejek)
+05.10.2024: Unter der Vielzahl der Helmlinge zählt er zu den Kleinsten und Schönsten. Der Orangerote Helmling *Mycena acicula*. Er ist unser aktueller [Fundkorbpilz](AA "Glossar-") und gerade in den Wäldern um München herum zu bestaunen. Dabei empfiehlt es sich eine langsame Gangart einzulegen, sonst kann man ihn trotz seiner auffälligen Hutfarbe leicht übersehen. Er wächst oft einzeln auf verrottetem Holz und in grasiger oder moosiger Umgebung am Wegesrand. (Johann Rejek)
 
 [Mehr lesen >](/pilze/mycena-acicula-orangeroter-helmling)
 
