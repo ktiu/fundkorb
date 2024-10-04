@@ -6,7 +6,7 @@ beschreibung:
   erlaeuterung: acicula = kleine Nadel
   familie: Mycenaceae
 profil:
-  aktualisiert: 2023-03-30
+  aktualisiert: 2024-10-04
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
