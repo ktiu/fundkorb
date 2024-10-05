@@ -2,8 +2,8 @@
 aktivitaet: Der Wald und seine Pilze im Herbst
 zeit: 2024-10-12T10:00:50.430Z
 bis: ""
-anmeldung_offen: true
-anmeldung_noetig: true
+anmeldung_offen: false
+anmeldung_noetig: false
 published: true
 bilder:
   - /bilder/pilzberatung_01_dg.jpg
@@ -13,3 +13,5 @@ Die Monate September und Oktober gelten traditionell als Saison für Pilzsammler
 Wir werden in einem Wald in der Umgebung von Dietzenbach unterwegs sein und auch Wissenswertes über Abhängigkeiten und Wechselwirkungen im System Wald erfahren, in dem Pilze eine wichtige Rolle spielen.
 
 Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung mitgeteilt.
+
+**Der Termin ist ausgebucht. Anmeldungen sind leider nicht mehr möglich.**
