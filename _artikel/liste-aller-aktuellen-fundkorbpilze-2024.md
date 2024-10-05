@@ -2,8 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-05.09.2024: [Mycena acicula - Orangeroter Helmling](pilze/mycena-acicula-orangeroter-helmling)  
-04.09.2024: [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)  
+06.10.2024: [Mycena zephirus - Rostiger Helmling](/pilze/mycena-zephirus-rostiger-helmling)   
+05.10.2024: [Mycena acicula - Orangeroter Helmling](pilze/mycena-acicula-orangeroter-helmling)   
+04.10.2024: [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)\
 03.10.2024: [Polyporus umbellatus - Eichhase](/pilze/polyporus-umbellatus-eichhase)\
 02.10.2024: [Mycena rosella - Rosa Helmling](/pilze/mycena-rosella-rosa-helmling)\
 01.10.2024: [Suillus collinitus - Ringloser Butterpilz](/pilze/suillus-collinitus-ringloser-butter-röhrling)
