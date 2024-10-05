@@ -26,7 +26,7 @@ Einer meiner Pilzfreunde hat einmal gesagt: "In die Helmlinge könnte ich mich v
 
 Andere Helmlinge mit orangefarbenen oder orangeroten Hüten sind in der Sektion *Adonidae* zu finden, und zwar
 
-*Mycena adonis* = Korallenroter Helmlig\
+[*Mycena adonis* = Korallenroter Helmlig](/mycena-adonis-korallenroter-helmling)\
 [*Mycena floridula* = Hellroter Helmling](/pilze/mycena-floridula-hellroter-helmling)\
 *Mycena leptophylla* = Aprikosenfarbener Helmling
 
