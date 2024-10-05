@@ -21,7 +21,18 @@ Nächste Exkursionstermine:
 {% include abbildung_ende.html legende="Pilzberatung in Frankfurt am Main" %}
 
 Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließlich 17. November jeweils sonntags von 17 bis 20 Uhr statt. [Mehr lesen >](/termine)\
-Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samstag, 5. Oktober 2024 um 10:00 Uhr statt. **\- Leider schon ausgebucht -**
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_zephirus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.10.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rostige Helmling *Mycena zephirus*. Wenn er herdenweise Waldböden besiedelt, ist das ein Zeichen, dass die Herbstpilzsaison begonnen hat. Rostig ist er ganz überwiegend nicht. Die namensgebenden Rostflecken auf dem Hut erscheinen meist erst im Alter. Unter den Helmlingen gibt es keine sammelwürdigen, aber ein paar wenige leicht giftige, vor allem aber viele wunderhübsche Arten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-zephirus-rostiger-helmling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -58,16 +69,6 @@ Eine kostenlose pilzkundliche Führung im Frankfurter Stadtwald findet am Samsta
 [Mehr lesen >](/pilze/polyporus-umbellatus-eichhase)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_rosella_02_us..jpg" %}
-{% include abbildung_ende.html %}
-
-02.10.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-") kommt heute aus Bayern, genauer aus einem Mischwald in der Nähe von Baiernrain südlich von München. Es ist der Rosa Helmling *Mycena rosella*. Am Wegesrand wuchsen in der Nadelstreu über 100 Fruchtkörper, sodass sie leicht zu sehen waren. Seine wahre Schönheit zeigt der Helmling beim näheren Betrachten. Hut, Lamellen und Stiel besitzen eine zarte Rosafärbung. Und damit nicht genug, die Lamellenschneiden sind dunkel rosa, was mit einer Lupe deutlich zu sehen ist. (Johann Rejek)
-
-[Mehr lesen >](/pilze/mycena-rosella-rosa-helmling)
 
 - - -
 
