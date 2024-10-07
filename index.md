@@ -22,6 +22,18 @@ Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließl
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hebeloma_crustuliniforme_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.10.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tonblasse Fälbling *Hebeloma crustuliniforme*, einer der häufigsten Vertreter einer nicht sehr populären Gattung. Ihn hat im Herbst wohl jeder Pilzfreund schon gesellig an Waldwegrändern wachsend gesehen, ohne ihm weitere Beachtung zu schenken. Er riecht nach Rettich, aber das tun auch mindestens 20 weitere Fälblingsarten, die nicht leicht auseinanderzuhalten sind. Keiner von ihnen ist genießbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hebeloma-crustuliniforme-tonblasser-fälbling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_zephirus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -40,30 +52,6 @@ Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließl
 05.10.2024: Unter der Vielzahl der Helmlinge zählt er zu den Kleinsten und Schönsten. Der Orangerote Helmling *Mycena acicula*. Er ist unser aktueller [Fundkorbpilz](AA "Glossar-") und gerade in den Wäldern um München herum zu bestaunen. Dabei empfiehlt es sich eine langsame Gangart einzulegen, sonst kann man ihn trotz seiner auffälligen Hutfarbe leicht übersehen. Er wächst oft einzeln auf verrottetem Holz und in grasiger oder moosiger Umgebung am Wegesrand. (Johann Rejek)
 
 [Mehr lesen >](/pilze/mycena-acicula-orangeroter-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_satanas_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.10.2024: Zum ersten Mal ist mir am Sonntag in der Pilzberatung im Frankfurter Gesundheitsamt ein Satansröhrling (*Boletus satanas* – neuer Name: *Rubroboletus satanas*) vorgelegt worden. Er war keineswegs mit einem Steinpilz oder Hexenröhrling verwechselt sondern als vorzeigewürdiges Exemplar mitgebracht worden. Darum finde ich, er sollte auch unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Dass er der einzige wirklich giftige Röhrling ist, muss an dieser Stelle wohl nicht betont werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_umbellatus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.10.2024: Ein Eichhase (*Polyporus umbellatus*) ist ein echter Blickfang, ein Highlight, und darum soll er auch mein aktueller [Fundkorbpilz](AA "Glossar-") sein. Gefunden habe ich ihn gestern an einer Eiche in einem Mischwald auf etwa 550 m üNN bei Schmitten-Arnoldshain im Taunus. Weil er essbar ist und darüberhinaus auch noch ein Vitalpilz sein soll, werde ich ihn heute zubereiten und verspeisen. (Dr. Kanya Götsch)
-
-[Mehr lesen >](/pilze/polyporus-umbellatus-eichhase)
 
 <div style="clear:  both"></div>
 
