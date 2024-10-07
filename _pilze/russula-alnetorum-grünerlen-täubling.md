@@ -21,11 +21,10 @@ literatur:
   - text: "ROMAGNESI, H. (1985): Les Russules d' Europe et d'Afrique du Nord.
       Neudruck der Ausgabe von 1967 mit Ergänzungen: 479-480 (R. alnetorum),
       1012 - 1013 (R. pumila)"
-  - url: "ROMAGNESI, H. (1985): Les Russules d' Europe et d'Afrique du Nord.
+  - text: "ROMAGNESI, H. (1985): Les Russules d' Europe et d'Afrique du Nord.
       Neudruck der Ausgabe von 1967 mit Ergänzungen: 479-480 (R. alnetorum),
       1012 - 1013 (R. pumila)"
   - url: https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=305347
-      (abgerufen am 13.9.2023)
 ---
 Der Grünerlen-Täubling *Russula alnetorum* ist meines Wissens neben dem [Gilbenden Erlentäubling *Russula pumila*](/pilze/russula-pumila-gilbender-erlentäubling) die einzige Täublingsart, die eine [Mykorrhiza](Mykorrhiza "Glossar") mit Erlen eingeht. Es handelt sich um eine kleine, gebrechliche, geruchlose, scharf schmeckende Art mit meist violettrotem Hut, blassen Lamellen und weißem, grauendem Stiel. Man findet sie in höheren Lagen auf feuchten Böden bei Grünerlen (*Alnus viridis*), während *Russula pumila* in der Ebene auf feuchten Böden bei Grauerlen (*Alnus incana*) und Schwarzerlen (*Alnus glutinosa*) wächst. Höhenlage und Erlenart sind also wichtige Kriterien, um die beiden Arten im Feld zu unterscheiden. Die abgebildeten Pilze wurden von *Uwe Winkler* am Furka-Pass (Schweiz) auf 1900 m über NN und von Bernd Miggel im Schwarzwald gefunden. In der Roten Liste Deutschlands (2016) wird der Grünerlen-Täubling in der Kategorie 1 (vom Aussterben bedroht) eingestuft.
 

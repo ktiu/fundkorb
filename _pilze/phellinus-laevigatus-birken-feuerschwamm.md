@@ -12,7 +12,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/phellinus_laevigatus_01_bm.jpg
 literatur:
-  - url: "Krieglsteiner, G.J. (2000): Die Großpilze Baden-Württembergs, Bd. 1: Seite
+  - text: "Krieglsteiner, G.J. (2000): Die Großpilze Baden-Württembergs, Bd. 1: Seite
       457-458"
   - url: https://www.mikroskopie-forum.de/index.php?topic=41576.msg306421#msg306421
 ---

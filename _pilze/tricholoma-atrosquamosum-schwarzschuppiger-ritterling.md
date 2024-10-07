@@ -14,7 +14,7 @@ hauptbild:
   legende: "Foto: Hans Stern"
 literatur:
   - url: https://de.wikipedia.org/wiki/Schwarzschuppiger_Erd-Ritterling
-  - url: " http://www.tintling.com/pilzbuch/arten/t/Tricholoma_atrosquamosum.html"
+  - url: http://www.tintling.com/pilzbuch/arten/t/Tricholoma_atrosquamosum.html
   - text: "CHRISTENSEN, M. & HEILMANN-CLAUSEN, J. (2013): The genus Tricholoma. -
       Fungi of Northern Europe - Vol. 4"
   - url: https://www.mikroskopie-forum.de/index.php?topic=39325.msg289584#msg289584

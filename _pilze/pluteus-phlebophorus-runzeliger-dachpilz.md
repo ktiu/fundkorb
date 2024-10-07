@@ -13,7 +13,7 @@ hauptbild:
   anzeige: false
   datei: /bilder/pluteus_phlebophorus_01_fk.jpg
 literatur:
-  - url: /pilzbuch/arten/p/Pluteus_phlebophorus.html
+  - url: http://tintling.com/pilzbuch/arten/p/Pluteus_phlebophorus.html
 ---
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_phlebophorus_01_fk.jpg" nocrop=true %}

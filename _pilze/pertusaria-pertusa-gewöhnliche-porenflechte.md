@@ -16,11 +16,11 @@ literatur:
       Seite 144"
   - text: "Wirth, V. (1995): Die Flechten Baden-Württembergs, 2. Aufl., 1006 S.;
       Ulmer, Stuttgart: 698, 709"
-  - url: Lichens of Belgium, Luxembourg and northern France
-  - url: Rote Liste Flechten Deutschlands (2011)
-  - url: Kirschbaum, U. - Flechtenbilder
-  - url: Kühnberger, N. - Flechtenbilder
-  - url: Irish Lichens
+  - text: Lichens of Belgium, Luxembourg and northern France
+  - text: Rote Liste Flechten Deutschlands (2011)
+  - text: Kirschbaum, U. - Flechtenbilder
+  - text: Kühnberger, N. - Flechtenbilder
+  - text: Irish Lichens
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pertusaria_pertusa_01_nk.jpg" nocrop=true gross=true %}

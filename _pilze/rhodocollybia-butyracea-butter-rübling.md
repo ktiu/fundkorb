@@ -13,7 +13,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/rhodocollybia_butyracea_01_dg.jpg
 literatur:
-  - url: /pilzbuch/arten/r/Rhodocollybia_butyracea.html
+  - url: http://tintling.com/pilzbuch/arten/r/Rhodocollybia_butyracea.html
 ---
 Andreas Gminder hat in seinem Handbuch für Pilzsammler ein wichtiges Kennzeichen dieser Art in einer sehr treffenden Formulierung beschrieben, die auch für die meisten Rüblinge der Gattung Gymnopus zutreffend ist: 
 

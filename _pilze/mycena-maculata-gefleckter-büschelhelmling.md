@@ -13,7 +13,7 @@ hauptbild:
   datei: /bilder/mycena_maculata_01_nk.jpg
   legende: "Foto: Norbert Kühnberger"
 literatur:
-  - url: "Breitenbach & Kränzlin: Pilze der Schweiz Band 3, Nr.347 (M.
+  - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 3, Nr.347 (M.
       maculata)  und 338 (M. galericulata)"
 ---
 Wenn man nicht so genau hinschaut oder der Pilz keine rotbraunen Flecken auf der Hutoberfläche oder an den Lamellen zeigt, könnte man ihn leicht mit dem [Rosablättrigen Helmling *Mycena galericulata*](/pilze/mycena-galericulata-rosablättriger-helmling) verwechseln - zumal die Flecken oft erst im Alter erscheinen. Auch im [Habitus](Habitus "Glossar") und in ihren Standortansprüchen ähneln sich beide Arten, wobei der Gefleckte Büschelhelmling wohl die deutlich seltenere Art ist. 

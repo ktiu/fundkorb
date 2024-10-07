@@ -14,7 +14,6 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Zottiger_Schillerporling
   - url: http://tintling.com/pilzbuch/arten/i/Inonotus_cuticularis.html
-  - url: file:///C:/Users/pcadmin/Desktop/16-zottiger-schillerporling.pdf
   - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 146"
 ---
 Irgendwann erwischt es so ziemlich jeden Apfelbaum, meist auf seine alten Tage. Er wird vom *Zottigen Schillerporling* (auch Pelzporling genannt) befallen und damit ist sein Schicksal besiegelt. Der mordende Parasit ist immerhin ein rücksichtsvoller Killer. Er lässt dem Gartenbesitzer Zeit, ein junges Bäumchen zu pflanzen und dessen Ertragsreife abzuwarten. So lange trägt der Patient noch Früchte.

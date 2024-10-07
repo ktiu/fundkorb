@@ -14,7 +14,7 @@ hauptbild:
   datei: /bilder/oxyporus_obducens_01_wp.jpg
 literatur:
   - url: http://aphyllopower.blogspot.com/2007/01/
-  - url: "German. J. Krieglsteiner: Die Großpilze Baden-Württembergs Band 1, Seite
+  - text: "German. J. Krieglsteiner: Die Großpilze Baden-Württembergs Band 1, Seite
       564 - 565"
 ---
 Ziemlich seltene Art. Die kleine Weißfäulegattung *Oxyporus* enthält bei uns weniger als ein halbes Dutzend ein- bis mehrjährige, [resupinat](resupinat "Glossar") bis [effus-reflex](effus-reflex "Glossar") wachsende Porlinge mit weißlich-cremefarbenen Trama- und Porenfarben. Allen gemeinsam ist das [monomitische](monomitisch "Glossar") [Hyphensystem](Hyphen "Glossar"), die schnallenlosen [Septen](Septen "Glossar") sowie die meist auffällig inkrustierten [Zystiden](Zystiden "Glossar"), welche im Gegensatz zur Gattung Junghuhnia nur „kopfig“ inkrustiert sind, also dass die kleinen Kristallschöpfe auf dem Ende der Zystiden sitzen, vergleichbar vielen Risspilzen.

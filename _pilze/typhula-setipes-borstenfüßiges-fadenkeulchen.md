@@ -12,7 +12,7 @@ hauptbild:
   anzeige: false
   datei: /bilder/typhula_setipes_01_dg.jpg
 literatur:
-  - url: "Breitenbach & Kränzlin: Pilze der Schweiz Band 2, Nr. 435"
+  - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 2, Nr. 435"
 ---
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/typhula_setipes_01_dg.jpg" nocrop=true %}

@@ -23,7 +23,7 @@ literatur:
   - text: "FRAHM, J.-P., SCHUMM, F., STAPPER, N.J. (2010): Epiphytische Flechten als
       Umweltgütezeiger: 133 - 134"
   - text: "WIRTH, V. & DÜLL, R. (2000): Farbatlas Flechten und Moose: 83"
-  - url: "Wirth, V. et al. (2011): Rote Liste der Flechten und flechtenbewohnende
+  - text: "Wirth, V. et al. (2011): Rote Liste der Flechten und flechtenbewohnende
       Pilze Deutschlands"
   - url: https://de.wikipedia.org/wiki/Physcia_adscendens
   - url: http://www.norbert-kuehnberger.de/pilzbildergalerie/D_Flechten-Lichenes_-_226_Arten/index.htm

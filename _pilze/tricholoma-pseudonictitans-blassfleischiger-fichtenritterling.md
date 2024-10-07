@@ -20,7 +20,7 @@ literatur:
   - text: "LUDWIG, E. (2012): Pilzkompendium Bd. 3. Text: 830-831, Tafel: 674 Nr.
       123.40"
   - text: "KIBBY, G. (2017): The genus Tricholoma in Britain: 16, Fig. 49"
-  - url: "RIVA, A. (1988): Tricholoma (Fr.) Staude. Fungi Europaei 3: Nr. 57"
+  - text: "RIVA, A. (1988): Tricholoma (Fr.) Staude. Fungi Europaei 3: Nr. 57"
   - url: https://www.mikroskopie-forum.de/index.php?topic=42188.msg311021#msg311021
 ---
 Einige Ritterlingsarten fruktifizieren bis in den Spätherbst hinein. So auch der Blassfleischige Fichtenritterling, der in den sauren Nadel- und Mischwäldern des Nordschwarzwaldes oft in vielen Exemplaren zu finden ist. Ritterlinge sind [Mykorrhizapilze](Mykorrhiza "Glossar"); unsere Art geht eine Symbiose mit der Fichte ein.
