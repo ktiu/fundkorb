@@ -17,7 +17,7 @@ Nächster Exkursionstermin:
 {% include bild.html datei="/bilder/pilzberatung_01_xx.png" %}
 {% include abbildung_ende.html legende="Pilzberatung in Frankfurt am Main" %}
 
-Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließlich 17. November jeweils sonntags von 17 bis 20 Uhr statt. [Mehr lesen >](/termine)\
+Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließlich 17. November jeweils sonntags von 17 bis 20 Uhr statt. [Mehr lesen >](/termine)
 
 - - -
 
@@ -25,7 +25,7 @@ Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließl
 {% include bild.html datei="/bilder/stropharia_caerulea_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
-08.10.2024: Nur wenige Pilze besitzen eine blaugrüne Hutfarbe. Der aktuelle [Fundkorbpilz](AA "Glossar-"), der  Blaue Träuschling *Stropharia caerulea* ist einer von ihnen. Im Riemer Park bei München zeigte er sich in verschiedenen Altersstufen. Von tief blaugrün im jungen Zustand bis hin zu cremefarben mit blaugrüner Hutmitte im reifen Zustand wuchsen ca. 20 Fruchtkörper im Gras am Waldesrand. Der ähnlich aussehende [Grünspanträuschling *Stropharia aeruginosa*](/pilze/stropharia-aeruginosa-grünspanträuschling) hat helle Lamellenschneiden und einen deutlichen Stielring. (Johann Rejek)
+08.10.2024: Nur wenige Pilze besitzen eine blaugrüne Hutfarbe. Der aktuelle [Fundkorbpilz](AA "Glossar-"), der Blaue Träuschling *Stropharia caerulea* ist einer von ihnen. Im Riemer Park bei München zeigte er sich in verschiedenen Altersstufen. Von tief blaugrün (im jungen Zustand) bis hin zu cremefarben mit blaugrüner Hutmitte (im reifen Zustand) wuchsen ca. 20 Fruchtkörper im Gras am Waldesrand. Der ähnlich aussehende [Grünspanträuschling *Stropharia aeruginosa*](/pilze/stropharia-aeruginosa-grünspanträuschling) hat helle Lamellenschneiden und einen deutlichen Stielring. (Johann Rejek)
 
 [Mehr lesen >](/pilze/stropharia-caerulea-blauer-träuschling)
 
