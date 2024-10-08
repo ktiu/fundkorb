@@ -10,8 +10,8 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/pluteus_romellii_01_pr.jpg
-  legende: "Foto: Peter Reil"
+  datei: /bilder/pluteus_romellii_03_eh.jpg
+  legende: "Foto: Erik Hock"
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 4, Nr. 123"
   - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Band 4,
@@ -27,6 +27,14 @@ Der Gelbstieliege Dachpilz gehört zu den gut kenntlichen aber keineswegs häufi
 {% include abbildung_ende.html legende="2 Fotos: Uwe Winkler" %}
 
 Die dünnfleischigen Hüte sind jung kugelig bis konvex, später abgeflacht und dann am Rand gerieft oder eingerissen. Die Hutfarben variieren in unterschiedlichen Brauntönen mit meist dunklerer Mitte. Die Lamellen sind weißlich, oft mit gelblichem Schimmer, im Alter durch ausfallende Sporen rosa. Die dünnen Stiele werden kaum länger als fünf bis sechs Zentimeter. Das Sporenpulver ist rötlich ocker.
+
+
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/pluteus_romellii_01_pr.jpg" %}
+{% include abbildung_ende.html legende="Foto: Peter Reil" %}
+
+
 
 Mikromerkmale: Sporen rundlich, glatt, 5,5 - 7,5 x 4,5 - 7 µm. Die Huthaut besteht aus blasigen bis birnenförmigen Zellen, die Huthauthyphen und Basidien haben keine Schnallen. Cheilozystiden keulig bis blasig, 25 - 65 µm lang.
 
