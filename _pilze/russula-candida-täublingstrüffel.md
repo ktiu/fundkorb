@@ -63,12 +63,12 @@ Der Geruch soll angenehm süßlich, der Geschmack mild sein. Das Sporenpulver is
 
 Mikroskopische Merkmale:
 
-Die Sporen sind breit ellipsoid und isoliert stachelig. Sporenmessungen bei einem eigenen Fund (Fichten-, Tannen-, Rotbuchen-Altholz über Muschelkalk, Dottenweiler bei Loßburg, Schwarzwald) ergaben: 10,7 - 11‚3 x 8,6 - 8,9 um, Q 1,23 - 1,29, Stacheln stark amyloid, bis 1,2 um hoch.
+Die Sporen sind breit ellipsoid und isoliert stachelig. Sporenmessungen bei einem eigenen Fund (Fichten-, Tannen-, Rotbuchen-Altholz über Muschelkalk, Dottenweiler bei Loßburg, Schwarzwald) ergaben: 10,7 - 11‚3 x 8,6 - 8,9 µm, Q 1,23 - 1,29, Stacheln stark amyloid, bis 1,2 µm hoch.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/russula_candida_03_has.jpg" %}
 {% include abbildung_ende.html %}
 
-Angaben zur Essbarkeit sind bei diesem Pilz schon wegen seiner extremen Seltenheit nicht relevant. Er soll ungifzig sein.
+Angaben zur Essbarkeit sind bei diesem Pilz schon wegen seiner extremen Seltenheit nicht relevant. Er soll ungiftig sein.
 
 Abgrenzung gegenüber ähnlichen Arten: Die Südliche Täublingstrüffel *Russula mattirolana (Cavara) T. Lehel* besitzt nach VIDAL, J.M. et al. (2019) einen gut ausgebildeten, zentralen Stiel, eine gelbe [Gleba](Gleba "Glossar") und runde Sporen. Außerdem wächst sie in südlichen Breiten Europas bei Nadelbäumen.
