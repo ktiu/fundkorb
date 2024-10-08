@@ -24,6 +24,8 @@ Die Fruchtkörper des Grauen Langfüßlers sind in allen Teilen grau gefärbt, s
 
 Verwechslungen wären möglich mit dem seltenen Filzigen Langfüßler *Helvella villosa*. Die beiden Arten unterscheiden sich vor allem durch andere Sporenform und -maße:
 
+
+
 *Helvella macropus:* Sporen schlank elliptisch, 20 - 27 x 10 - 12 µm\
 *Helvella villosa:* Sporen breit elliptisch, 17 - 20 x 10,5 - 12 µm
 
