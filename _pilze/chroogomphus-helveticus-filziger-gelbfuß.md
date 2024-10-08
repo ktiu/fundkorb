@@ -25,6 +25,15 @@ Längst nicht so häufig wie der [Kupferrote (*Chroogomphus rutilus*)](/pilze/ch
 Kurzbeschreibung:\
 Hüte halbkugelig, später konvex, 3 - 6 cm breit, filzig trocken, rost- bis gelborange, Hutrand jung deutlich eingerollt. Lamellen wie der Hut gefärbt, durch ausfallendes Sporenpulver dunkler werdend, bogig am Stiel herablaufend, einzelne gegabelt und mit kürzeren untermischt. Die in der Hutmitte dickfleischige [Trama](Trama "Glossar") ist gelborange, Geruch schwach, leicht fruchtig, Geschmack mild, etwas säuerlich. Die bis zu 7 cm langen und 1,5 cm breiten zylindrischen Stiele sind gerade oder leicht gebogen, zur Basis hin manchmal zuspitzend, ähnlich wie der Hut orangegelblich gefärbt. Sporenpulver dunkelbraun bis violett-schwärzlich.
 
+
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/chroogomphus_helveticus_02_eh.jpg" %}
+{% include bild.html datei="/bilder/chroogomphus_helveticus_03_eh.jpg" %}
+{% include abbildung_ende.html legende="Fund vom 30.09.2024 bei Grasellenbach im Odenwald (Erik Hock)" %}
+
+
+
 Mikromerkmale:\
 Sporen spindelig elliptisch, glatt, 15 - 31 x 6 - 8 µm, Basidien viersporig, keulig, 50 - 60 x 9 - 12 µm, Hutdeckschicht aus verflochtenen Hyphen mit zum Teil aufgerichteten Spitzen.
 
