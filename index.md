@@ -22,6 +22,18 @@ Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließl
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/chroogomphus_helveticus_01_frk.jpg" %}
+{% include abbildung_ende.html %}
+
+09.10.2024: Dem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Filzigen Gelbfuß *Chroogomphus helveticus* wird man im Rhein-Main-Gebiet eher selten begegnen. Er kommt hauptsächlich in höheren Lagen vor, dort wächst er auf sauren bis neutralen Böden unter Fichten und Kiefern. Von seinen schleimigen Verwandten unterscheidet er sich vor allem durch seinen trockenen, filzigen Hut. Der Pilz ist essbar, hat als Speisepilz aber keine große Bedeutung. (Erik Hock)
+
+[Mehr lesen >](/pilze/chroogomphus-helveticus-filziger-gelbfuß)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stropharia_caerulea_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
