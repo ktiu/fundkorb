@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+0﻿9.10.2024: [Chroogomphus helveticus - Filziger Gelbfuß](/pilze/chroogomphus-helveticus-filziger-gelbfuß)  
 08.10.2024: [Stropharia caerulea - Blauer Träuschling](/pilze/stropharia-caerulea-blauer-träuschling)  
 07.10.2024: [Hebeloma crustuliniforme - Tonblasser Fälbling](/pilze/hebeloma-crustuliniforme-tonblasser-fälbling)  
 06.10.2024: [Mycena zephirus - Rostiger Helmling](/pilze/mycena-zephirus-rostiger-helmling)\
