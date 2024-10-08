@@ -69,18 +69,6 @@ Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließl
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_acicula_01_wk.jpg" %}
-{% include abbildung_ende.html %}
-
-05.10.2024: Unter der Vielzahl der Helmlinge zählt er zu den Kleinsten und Schönsten. Der Orangerote Helmling *Mycena acicula*. Er ist unser aktueller [Fundkorbpilz](AA "Glossar-") und gerade in den Wäldern um München herum zu bestaunen. Dabei empfiehlt es sich eine langsame Gangart einzulegen, sonst kann man ihn trotz seiner auffälligen Hutfarbe leicht übersehen. Er wächst oft einzeln auf verrottetem Holz und in grasiger oder moosiger Umgebung am Wegesrand. (Johann Rejek)
-
-[Mehr lesen >](/pilze/mycena-acicula-orangeroter-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
