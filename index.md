@@ -10,8 +10,7 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-Nächster Exkursionstermin:
-**Der Wald und seine Pilze im Herbst** am Samstag, 12. Oktober 2024, 10:00 Uhr  (**ausgebucht**)[](/termine)
+
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pilzberatung_01_xx.png" %}
