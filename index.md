@@ -10,13 +10,23 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-
-
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pilzberatung_01_xx.png" %}
 {% include abbildung_ende.html legende="Pilzberatung in Frankfurt am Main" %}
 
 Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließlich 17. November jeweils sonntags von 17 bis 20 Uhr statt. [Mehr lesen >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hericium_coralloides_02_hl.jpg" %}
+{% include abbildung_ende.html %}
+
+10.10.2024: Der in Europa seltene Ästige Stachelbart *Hericium coralloides*, unser aktueller [Fundkorbpilz](AA "Glossar-"), profitiert davon, dass immer mehr Totholz in unseren Wäldern liegen bleibt. Sein Bestand ist wieder in Zunahme begriffen. Ein Fund wie jetzt im Heusenstammer Wald an Buche ist trotzdem etwas Besonderes. Seine bizarr geformten Äste, die einem gemeinsamen Strunk entspringen, erinnern an blendend weiße Korallen, weshalb er auch Eiskoralle oder Korallenstachelbart genannt wird. Wie alle Stachelbärte gilt er als wertvoller Vitalpilz. Der eigentlich parasitäre Pilz kann seine Lebensweise auf [saprobiontisch](saprobiontisch "Glossar") umstellen und ist deshalb leicht züchtbar. (Ulrike Wegner)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -39,30 +49,6 @@ Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließl
 08.10.2024: Nur wenige Pilze besitzen eine blaugrüne Hutfarbe. Der aktuelle [Fundkorbpilz](AA "Glossar-"), der Blaue Träuschling *Stropharia caerulea* ist einer von ihnen. Im Riemer Park bei München zeigte er sich in verschiedenen Altersstufen. Von tief blaugrün (im jungen Zustand) bis hin zu cremefarben mit blaugrüner Hutmitte (im reifen Zustand) wuchsen ca. 20 Fruchtkörper im Gras am Waldesrand. Der ähnlich aussehende [Grünspanträuschling *Stropharia aeruginosa*](/pilze/stropharia-aeruginosa-grünspanträuschling) hat helle Lamellenschneiden und einen deutlichen Stielring. (Johann Rejek)
 
 [Mehr lesen >](/pilze/stropharia-caerulea-blauer-träuschling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hebeloma_crustuliniforme_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.10.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tonblasse Fälbling *Hebeloma crustuliniforme*, einer der häufigsten Vertreter einer nicht sehr populären Gattung. Ihn hat im Herbst wohl jeder Pilzfreund schon gesellig an Waldwegrändern wachsend gesehen, ohne ihm weitere Beachtung zu schenken. Er riecht nach Rettich, aber das tun auch mindestens 20 weitere Fälblingsarten, die nicht leicht auseinanderzuhalten sind. Keiner von ihnen ist genießbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hebeloma-crustuliniforme-tonblasser-fälbling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_zephirus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.10.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rostige Helmling *Mycena zephirus*. Wenn er herdenweise Waldböden besiedelt, ist das ein Zeichen, dass die Herbstpilzsaison begonnen hat. Rostig ist er ganz überwiegend nicht. Die namensgebenden Rostflecken auf dem Hut erscheinen meist erst im Alter. Unter den Helmlingen gibt es keine sammelwürdigen, aber ein paar wenige leicht giftige, vor allem aber viele wunderhübsche Arten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/mycena-zephirus-rostiger-helmling)
 
 <div style="clear:  both"></div>
 
