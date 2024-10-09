@@ -24,7 +24,7 @@ Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließl
 
 10.10.2024: Der in Europa seltene Ästige Stachelbart *Hericium coralloides*, unser aktueller [Fundkorbpilz](AA "Glossar-"), profitiert davon, dass immer mehr Totholz in unseren Wäldern liegen bleibt. Sein Bestand ist wieder in Zunahme begriffen. Ein Fund wie jetzt im Heusenstammer Wald an Buche ist trotzdem etwas Besonderes. Seine bizarr geformten Äste, die einem gemeinsamen Strunk entspringen, erinnern an blendend weiße Korallen, weshalb er auch Eiskoralle oder Korallenstachelbart genannt wird. Wie alle Stachelbärte gilt er als wertvoller Vitalpilz. Der eigentlich parasitäre Pilz kann seine Lebensweise auf [saprobiontisch](saprobiontisch "Glossar") umstellen und ist deshalb leicht züchtbar. (Ulrike Wegner)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/hericium-coralloides-ästiger-stachelbart)
 
 <div style="clear:  both"></div>
 
