@@ -19,6 +19,18 @@ Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließl
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_crispa_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.10.2024: Es mutet schon seltsam an, wenn unerwarteterweise mehr als Einhundert seltsam aussehende „Gestalten“ aus dem mit Herbstlaub bedeckten Waldboden herausragen. Beim näheren Betrachten entpuppen sich diese Gestalten als Herbstlochern (*Helvella Crispa*) und sind somit aktueller [Fundkorbpilz](AA "Glossar-"). Bestaunen konnte man sie in dem erst 30 Jahre alten Riemer Wald östlich von München. (Johann Rejek)
+
+[Mehr lesen >](/pilze/helvella-crispa-herbstlorchel)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hericium_coralloides_02_hl.jpg" %}
 {% include abbildung_ende.html %}
 
