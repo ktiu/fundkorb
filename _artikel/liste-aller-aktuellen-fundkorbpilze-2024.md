@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+11.10.2024: [Helvella crispa - Herbstlorchel](/pilze/helvella-crispa-herbstlorchel)  
 10.10.2024: [Hericium coralloides - Ästiger Stachelbart](/pilze/hericium-coralloides-ästiger-stachelbart)  
 0﻿9.10.2024: [Chroogomphus helveticus - Filziger Gelbfuß](/pilze/chroogomphus-helveticus-filziger-gelbfuß)\
 08.10.2024: [Stropharia caerulea - Blauer Träuschling](/pilze/stropharia-caerulea-blauer-träuschling)\
