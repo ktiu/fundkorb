@@ -33,7 +33,8 @@ Die Frage nach der Essbarkeit wird unterschiedlich bewertet. Die meisten Pilzbuc
 
 > Man darf diesen Pilz trotz seiner zählichen Beschaffenheit als angenehm aromatischen Speisepilz bezeichnen. Besonders solchen Pilzessern wird er willkommen sein, die auf eine Pilzkost Wert legen, an der auch etwas zu beißen ist."
 
-Bei 123pilze wird dagegen die gesamte Gattung Helvella als giftig oder giftverdächtig eingestuft, was ich für übertrieben und unrealistisch halte. 
+Der Speisewert wird jedoch in jüngster Zeit uneinheitlich bewertet (recherchierte Literatur: Gminder/Handbuch für Pilzsammler - Ausg.2018;
+Pilzapp: Klaus Bornstedt/Meine Pilze; Wolfgang Bachmeier/ Pilze123) 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/helvella_crispa_04_dg.jpg" nocrop=true %}
