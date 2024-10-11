@@ -19,6 +19,18 @@ Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließl
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/entoloma_nitidum_01_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+12.10.2024: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist zwar eine eher seltene, dafür aber relativ sicher zu bestimmende Art. Die blaugraue Färbung in Hut und Stiel, die jung weißen und im Alter rosa gefärbten Lamellen, sowie das Wachstum in sauren Fichtenwäldern bilden eine Merkmalskombination, die den Stahlblauen Rötling \*Entoloma nitidum\* unverwechselbar machen. So schön er auch anzusehen ist, zu Speisezwecken taugt er nicht: Wie die meisten Rötlinge ist auch er zumindest giftverdächtig.(Erik Hock) 
+
+[Mehr lesen >](/entoloma-nitidum-stahlblauer-rötling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_crispa_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,18 +61,6 @@ Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließl
 09.10.2024: Dem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Filzigen Gelbfuß *Chroogomphus helveticus* wird man im Rhein-Main-Gebiet eher selten begegnen. Er kommt hauptsächlich in höheren Lagen vor, dort wächst er auf sauren bis neutralen Böden unter Fichten und Kiefern. Von seinen schleimigen Verwandten unterscheidet er sich vor allem durch seinen trockenen, filzigen Hut. Der Pilz ist essbar, hat als Speisepilz aber keine große Bedeutung. (Erik Hock)
 
 [Mehr lesen >](/pilze/chroogomphus-helveticus-filziger-gelbfuß)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stropharia_caerulea_01_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-08.10.2024: Nur wenige Pilze besitzen eine blaugrüne Hutfarbe. Der aktuelle [Fundkorbpilz](AA "Glossar-"), der Blaue Träuschling *Stropharia caerulea* ist einer von ihnen. Im Riemer Park bei München zeigte er sich in verschiedenen Altersstufen. Von tief blaugrün (im jungen Zustand) bis hin zu cremefarben mit blaugrüner Hutmitte (im reifen Zustand) wuchsen ca. 20 Fruchtkörper im Gras am Waldesrand. Der ähnlich aussehende [Grünspanträuschling *Stropharia aeruginosa*](/pilze/stropharia-aeruginosa-grünspanträuschling) hat helle Lamellenschneiden und einen deutlichen Stielring. (Johann Rejek)
-
-[Mehr lesen >](/pilze/stropharia-caerulea-blauer-träuschling)
 
 <div style="clear:  both"></div>
 
