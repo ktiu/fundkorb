@@ -22,9 +22,9 @@ Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließl
 {% include bild.html datei="/bilder/entoloma_nitidum_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
-12.10.2024: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist zwar eine eher seltene, dafür aber relativ sicher zu bestimmende Art. Die blaugraue Färbung in Hut und Stiel, die jung weißen und im Alter rosa gefärbten Lamellen, sowie das Wachstum in sauren Fichtenwäldern bilden eine Merkmalskombination, die den Stahlblauen Rötling \*Entoloma nitidum\* unverwechselbar machen. So schön er auch anzusehen ist, zu Speisezwecken taugt er nicht: Wie die meisten Rötlinge ist auch er zumindest giftverdächtig.(Erik Hock) 
+12.10.2024: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist zwar eine eher seltene, dafür aber relativ sicher zu bestimmende Art. Die blaugraue Färbung in Hut und Stiel, die jung weißen und im Alter rosa gefärbten Lamellen, sowie das Wachstum in sauren Fichtenwäldern bilden eine Merkmalskombination, die den Stahlblauen Rötling *Entoloma nitidum* unverwechselbar machen. So schön er auch anzusehen ist, zu Speisezwecken taugt er nicht: Wie die meisten Rötlinge ist auch er zumindest giftverdächtig.(Erik Hock) 
 
-[Mehr lesen >](/entoloma-nitidum-stahlblauer-rötling)
+[Mehr lesen >](/pilze/entoloma-nitidum-stahlblauer-rötling)
 
 <div style="clear:  both"></div>
 
