@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+1﻿2.10.2024: [Entoloma nitidum - Stahlblauer Rötling](/pilze/entoloma-nitidum-stahlblauer-rötling)  
 11.10.2024: [Helvella crispa - Herbstlorchel](/pilze/helvella-crispa-herbstlorchel)  
 10.10.2024: [Hericium coralloides - Ästiger Stachelbart](/pilze/hericium-coralloides-ästiger-stachelbart)  
 0﻿9.10.2024: [Chroogomphus helveticus - Filziger Gelbfuß](/pilze/chroogomphus-helveticus-filziger-gelbfuß)\
