@@ -22,6 +22,18 @@ Neuer Exkursionstermin - 19. Oktober 2024 10:00 Uhr: **Pilzkunde für Einsteiger
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cystoderma_amiantinum_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+12.10.2024: Aktueller Aktueller [Fundkorbpilz](AA "Glossar-") ist ein besonders hübscher aber kaum für die Küche geeigneter kleiner Pilz, den wir zur Zeit in vielen Nadelwäldern beobachten können. Es ist der Amianth-Körnchenschirmling *Cystoderma amianthinum*. Giftig ist er nicht, aber Geruch und Geschmack wirken nicht gerade appetitanregend. Über die Schreibweise von *„Amianth“* (ein feuerbeständiges Mineral) herrscht wohl weitgehende Uneinigkeit. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cystoderma-amianthinum-amianth-körnchenschirmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/entoloma_nitidum_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -40,30 +52,6 @@ Neuer Exkursionstermin - 19. Oktober 2024 10:00 Uhr: **Pilzkunde für Einsteiger
 11.10.2024: Es mutet schon seltsam an, wenn unerwarteterweise mehr als einhundert seltsam aussehende „Gestalten“ aus dem mit Herbstlaub bedeckten Waldboden herausragen. Beim näheren Betrachten entpuppen sich diese Gestalten als Herbstlorcheln *Helvella crispa* und sind somit aktueller [Fundkorbpilz](AA "Glossar-"). Bestaunen konnte man sie in dem erst 30 Jahre alten Riemer Wald östlich von München. (Johann Rejek)
 
 [Mehr lesen >](/pilze/helvella-crispa-herbstlorchel)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hericium_coralloides_02_hl.jpg" %}
-{% include abbildung_ende.html %}
-
-10.10.2024: Der in Europa seltene Ästige Stachelbart *Hericium coralloides*, unser aktueller [Fundkorbpilz](AA "Glossar-"), profitiert davon, dass immer mehr Totholz in unseren Wäldern liegen bleibt. Sein Bestand ist wieder in Zunahme begriffen. Ein Fund wie jetzt im Heusenstammer Wald an Buche ist trotzdem etwas Besonderes. Seine bizarr geformten Äste, die einem gemeinsamen Strunk entspringen, erinnern an blendend weiße Korallen, weshalb er auch Eiskoralle oder Korallenstachelbart genannt wird. Wie alle Stachelbärte gilt er als wertvoller Vitalpilz. Der eigentlich parasitäre Pilz kann seine Lebensweise auf [saprobiontisch](saprobiontisch "Glossar") umstellen und ist deshalb leicht züchtbar. (Ulrike Wegner)
-
-[Mehr lesen >](/pilze/hericium-coralloides-ästiger-stachelbart)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chroogomphus_helveticus_01_frk.jpg" %}
-{% include abbildung_ende.html %}
-
-09.10.2024: Dem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Filzigen Gelbfuß *Chroogomphus helveticus* wird man im Rhein-Main-Gebiet eher selten begegnen. Er kommt hauptsächlich in höheren Lagen vor, dort wächst er auf sauren bis neutralen Böden unter Fichten und Kiefern. Von seinen schleimigen Verwandten unterscheidet er sich vor allem durch seinen trockenen, filzigen Hut. Der Pilz ist essbar, hat als Speisepilz aber keine große Bedeutung. (Erik Hock)
-
-[Mehr lesen >](/pilze/chroogomphus-helveticus-filziger-gelbfuß)
 
 <div style="clear:  both"></div>
 
