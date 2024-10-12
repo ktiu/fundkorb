@@ -25,7 +25,7 @@ Neuer Exkursionstermin - 19. Oktober 2024 10:00 Uhr: **Pilzkunde für Einsteiger
 {% include bild.html datei="/bilder/cystoderma_amiantinum_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-12.10.2024: Aktueller Aktueller [Fundkorbpilz](AA "Glossar-") ist ein besonders hübscher aber kaum für die Küche geeigneter kleiner Pilz, den wir zur Zeit in vielen Nadelwäldern beobachten können. Es ist der Amianth-Körnchenschirmling *Cystoderma amianthinum*. Giftig ist er nicht, aber Geruch und Geschmack wirken nicht gerade appetitanregend. Über die Schreibweise von *„Amianth“* (ein feuerbeständiges Mineral) herrscht wohl weitgehende Uneinigkeit. (Dieter Gewalt)
+12.10.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein besonders hübscher aber kaum für die Küche geeigneter kleiner Pilz, den wir zur Zeit in vielen Nadelwäldern beobachten können. Es ist der Amianth-Körnchenschirmling *Cystoderma amianthinum*. Giftig ist er nicht, aber Geruch und Geschmack wirken nicht gerade appetitanregend. Über die Schreibweise von *„Amianth“* (ein feuerbeständiges Mineral) herrscht wohl weitgehende Uneinigkeit. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cystoderma-amianthinum-amianth-körnchenschirmling)
 
