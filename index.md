@@ -16,6 +16,9 @@ footer_scripts:
 
 Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließlich 17. November jeweils sonntags von 17 bis 20 Uhr statt. [Mehr lesen >](/termine)
 
+Neuer Exkursionstermin: 19. Oktober 2024 10:00 Uhr **Pilzkunde für Einsteiger**
+[Hier geht's zur Anmeldung >](/termine)
+
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
