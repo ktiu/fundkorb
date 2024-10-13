@@ -22,6 +22,18 @@ Neuer Exkursionstermin - 19. Oktober 2024 10:00 Uhr: **Pilzkunde für Einsteiger
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tulostoma_fimbriatum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.10.2024: An einer mit Gittern abgesicherten steinigen Baustelle zwischen Bordsteinkante und einem schmalen armseligen Grünstreifen erwartet man kaum betrachtenswerte Pilze und schon gar nicht solche, die als aktueller [Fundkorbpilz](AA "Glossar-") in Frage kommen könnten. Dennoch wächst hier zur Zeit am Rand unserer Dietzenbacher Parkanlage eine Art, an der sogar Kinder ihren Spaß haben. Sie brauchen nur mit dem Finger an die winzigen Köpfchen der Gewimperten Stielboviste (*Tulostoma fimbriatum*) zu schnippen, um eine graubraungelbrötliche Sporenwolke freizusetzen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tulostoma-fimbriatum-gewimperter-stielbovist)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cystoderma_amiantinum_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -40,18 +52,6 @@ Neuer Exkursionstermin - 19. Oktober 2024 10:00 Uhr: **Pilzkunde für Einsteiger
 12.10.2024: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist zwar eine eher seltene, dafür aber relativ sicher zu bestimmende Art. Die blaugraue Färbung in Hut und Stiel, die jung weißen und im Alter rosa gefärbten Lamellen, sowie das Wachstum in sauren Fichtenwäldern bilden eine Merkmalskombination, die den Stahlblauen Rötling *Entoloma nitidum* unverwechselbar machen. So schön er auch anzusehen ist, zu Speisezwecken taugt er nicht: Wie die meisten Rötlinge ist auch er zumindest giftverdächtig. (Erik Hock) 
 
 [Mehr lesen >](/pilze/entoloma-nitidum-stahlblauer-rötling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_crispa_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.10.2024: Es mutet schon seltsam an, wenn unerwarteterweise mehr als einhundert seltsam aussehende „Gestalten“ aus dem mit Herbstlaub bedeckten Waldboden herausragen. Beim näheren Betrachten entpuppen sich diese Gestalten als Herbstlorcheln *Helvella crispa* und sind somit aktueller [Fundkorbpilz](AA "Glossar-"). Bestaunen konnte man sie in dem erst 30 Jahre alten Riemer Wald östlich von München. (Johann Rejek)
-
-[Mehr lesen >](/pilze/helvella-crispa-herbstlorchel)
 
 <div style="clear:  both"></div>
 
