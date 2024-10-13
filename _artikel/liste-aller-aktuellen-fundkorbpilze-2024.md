@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-13.10.2024: [Cystoderma amianthinum - Amianth- Körnchenschirmling](/pilze/cystoderma-amianthinum-amianth-körnchenschirmling)   
+14.10.2024: [Tulostoma fimbriatum - Gewimperter Stielbovist](/pilze/tulostoma-fimbriatum-gewimperter-stielbovist)  
+13.10.2024: [Cystoderma amianthinum - Amianth- Körnchenschirmling](/pilze/cystoderma-amianthinum-amianth-körnchenschirmling)\
 1﻿2.10.2024: [Entoloma nitidum - Stahlblauer Rötling](/pilze/entoloma-nitidum-stahlblauer-rötling)\
 11.10.2024: [Helvella crispa - Herbstlorchel](/pilze/helvella-crispa-herbstlorchel)\
 10.10.2024: [Hericium coralloides - Ästiger Stachelbart](/pilze/hericium-coralloides-ästiger-stachelbart)\
