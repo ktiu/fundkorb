@@ -1,7 +1,7 @@
 ---
 aktivitaet: Pilzberatung im Frankfurter Gesundheitsamt
-zeit: 2024-10-20T17:00:58.554Z
-bis: 2024-10-20T20:00:00.000Z
+zeit: 2024-10-27T17:00:58.554Z
+bis: 2024-10-27T20:00:00.000Z
 anmeldung_offen: false
 anmeldung_noetig: false
 published: true
