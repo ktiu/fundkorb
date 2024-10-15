@@ -27,7 +27,7 @@ Neuer Exkursionstermin - 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
 {% include abbildung_ende.html %}
 
 
-15.10.2014: Unser akktueller [Fundkorbpilz](AA "Glossar-") kommt heute wieder aus Bayern. Es ist der Feurige Helmling  (*Mycena aurantiomarginata*). Es ist einer der schönsten Helmlinge mit „feurig“ gefärbten Lamellenschneiden und derzeit in den Wäldern um München herum zu finden. Man muss allerdings schon genau hinschauen, um ihn in der Nadelstreu zu entdecken, denn sein Hut besitzt eine braunolive Farbe. Offenbar ist er sehr standorttreu, denn ich fand ihn an der derselben Stelle wie im vergangenen Jahr. (Johann Rejek)
+15.10.2014: Unser akktueller [Fundkorbpilz](AA "Glossar-") kommt heute wieder aus Bayern. Es ist der Feurige Helmling  (*Mycena aurantiomarginata*). Es ist einer der schönsten Helmlinge mit „feurig“ gefärbten Lamellenschneiden und derzeit in den Wäldern um München herum zu finden. Man muss allerdings schon genau hinschauen, um ihn in der Nadelstreu zu entdecken, denn sein Hut besitzt eine braunolive Farbe. Offenbar ist er sehr standorttreu, denn ich fand ihn an der selben Stelle wie im vergangenen Jahr. (Johann Rejek)
 
 [Mehr lesen >](/pilze/mycena-aurantiomarginata-feuriger-helmling)
 
