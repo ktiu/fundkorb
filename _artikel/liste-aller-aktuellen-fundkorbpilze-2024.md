@@ -2,6 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+17.10.2024: [Gomphidius roseus - Rosenroter Schmierling](/pilze/gomphidius-roseus-rosenroter-schmierling)  
+17.10.2024: [Suillus bovinus - Kuhröhrling](/pilze/suillus-bovinus-kuhröhrling)  
 16.10.2024: [Lyophyllum decastes - Büschelrasling](/pilze/lyophyllum-decastes-büschelrasling)  
 15.10.2024: [Mycena aurantiomarginata - Feuriger Helmling](/pilze/mycena-aurantiomarginata-feuriger-helmling)\
 14.10.2024: [Tulostoma fimbriatum - Gewimperter Stielbovist](/pilze/tulostoma-fimbriatum-gewimperter-stielbovist)\
