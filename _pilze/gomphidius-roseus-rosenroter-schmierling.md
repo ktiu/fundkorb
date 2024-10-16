@@ -18,6 +18,6 @@ Ein wunderschöner Pilz, der noch eine Besonderheit unter den Röhrlingsverwandt
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="bilder/gomphidius_roseus_03_eh.jpg" %}
-{% include abbildung_ende.html legende="08.10.2023: Der Rosenrote Schmierling neben Kuhröhrlingen. Fotografiert bei Rodgau (Erik Hock)" %}
+{% include abbildung_ende.html legende="Der Rosenrote Schmierling neben Kuhröhrlingen. Fotografiert am 08.10.2023 bei Rodgau (Erik Hock)" %}
 
 Der Rosenrote Schmierling ist essbar und nach dem Abziehen der schleimigen Huthaut durchaus schmackhaft. Dem Genuss in der Küche haben allerdings die Naturschützer einen Riegel vorgeschoben, indem sie die Art in Roten Liste in der Gefährdungsstufe 3 (gefährdet) führt. Eine Bestandgefährdung des Pilzes kann ich zumindest in der Rhein-Main-Ebene nicht nachvollziehen, auch wenn ich ihn nicht gerade als häufig bezeichnen würde.
