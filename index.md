@@ -43,8 +43,7 @@ Neuer Exkursionstermin - 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
 
 <div style="clear:  both"></div>
 
-
--﻿ - -
+- - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
