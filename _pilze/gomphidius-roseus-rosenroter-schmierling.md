@@ -6,7 +6,7 @@ beschreibung:
   familie: Gomphidiaceae
   erlaeuterung: roseus = rosenrot
 profil:
-  aktualisiert: 2020-09-05
+  aktualisiert: 2024-10-16
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -17,6 +17,7 @@ literatur:
 Ein wunderschöner Pilz, der noch eine Besonderheit unter den Röhrlingsverwandten (*Boletales*) aufweist: er kommt fast immer oder ausschließlich bei [Kuhröhrlingen](/pilze/suillus-bovinus-kuhröhrling) vor. Nach neueren Erkenntnissen parasitiert er dessen Myzel. Man findet beide in Kiefernwäldern auf sauren Sandböden, was mein ergiebigster und seit Jahren bestehender Fundort am Anglerteich bei Waldacker bestätigt. Hier scheinen Kuhröhrling und Rosenroter Schmierling allerdings eher mit Schilf als mit Kiefern verbandelt zu sein, aber die obligaten [Mykorrhizapartner](Mykorrhiza "Glossar") sind nicht sehr weit entfernt.
 
 {% include abbildung_start.html stil="standard" %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="bilder/gomphidius_roseus_03_eh.jpg" %}
+{% include abbildung_ende.html legende="08.10.2023: Der Rosenrote Schmierling neben Kuhröhrlingen. Fotografiert bei Rodgau (Erik Hock)" %}
 
 Der Rosenrote Schmierling ist essbar und nach dem Abziehen der schleimigen Huthaut durchaus schmackhaft. Dem Genuss in der Küche haben allerdings die Naturschützer einen Riegel vorgeschoben, indem sie die Art in Roten Liste in der Gefährdungsstufe 3 (gefährdet) führt. Eine Bestandgefährdung des Pilzes kann ich zumindest in der Rhein-Main-Ebene nicht nachvollziehen, auch wenn ich ihn nicht gerade als häufig bezeichnen würde.
