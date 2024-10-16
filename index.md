@@ -22,6 +22,30 @@ Neuer Exkursionstermin - 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gomphidius_roseus_03_eh.jpg" %}
+{% include abbildung_ende.html %}
+
+17.10.2024:  Ausnahmsweise gibt es heute einen zweiten aktuellen [Fundkorbpilz](AA "Glossar-"). Der Kuhröhrling *Suillus bovinus* besitzt nämlich einen deutlich attraktiveren Begleiter: der Rosenrote Schmierling *Gomphidius roseus* parasitiert auf dessen [Myzel](Myzel "Glossar"), die auffallenden Fruchtkörper mit den rot gefärbten Hüten und den weit den Stiel herablaufenden weißen Lamellen erscheinen in der Regel zeitgleich. Er ist deutlich seltener als sein Wirt und wird in der Roten Liste als gefährdet geführt. (Erik Hock) 
+
+[Mehr lesen >](/pilze/gomphidius-roseus-rosenroter-schmierling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/suillus_bovinus_01_mg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.10.2024:  In Kiefernwäldern begegnet man dem aktuellen [Fundkorbpilz](AA "Glossar-") gerade ausgesprochen häufig. Der Kuhröhrling *Suillus bovinus* geht eine [Mykorrhizapartnerschaft](Mykorrhiza "Glossar") mit der Kiefer ein und bildet relativ kleine und unscheinbare Fruchtkörper mit gelb- bis orangebraunen, schmierigen Hüten aus. Meistens kommen sie sehr zahlreich in größeren Gruppen vor. Er ist zwar essbar, zählt wie die meisten Schmierröhrlingsverwandten aber nicht zu den wertvollen Speisepilzen. (Erik Hock) 
+
+[Mehr lesen >](/pilze/suillus-bovinus-kuhröhrling)
+
+<div style="clear:  both"></div>
+
+-﻿ - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -40,18 +64,6 @@ Neuer Exkursionstermin - 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
 15.10.2014: Unser akktueller [Fundkorbpilz](AA "Glossar-") kommt heute wieder aus Bayern. Es ist der Feurige Helmling  (*Mycena aurantiomarginata*). Es ist einer der schönsten Helmlinge mit „feurig“ gefärbten Lamellenschneiden und derzeit in den Wäldern um München herum zu finden. Man muss allerdings schon genau hinschauen, um ihn in der Nadelstreu zu entdecken, denn sein Hut besitzt eine braunolive Farbe. Offenbar ist er sehr standorttreu, denn ich fand ihn an der selben Stelle wie im vergangenen Jahr. (Johann Rejek)
 
 [Mehr lesen >](/pilze/mycena-aurantiomarginata-feuriger-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tulostoma_fimbriatum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.10.2024: An einer mit Gittern abgesicherten steinigen Baustelle zwischen Bordsteinkante und einem schmalen armseligen Grünstreifen erwartet man kaum betrachtenswerte Pilze und schon gar nicht solche, die als aktueller [Fundkorbpilz](AA "Glossar-") in Frage kommen könnten. Dennoch wächst hier zur Zeit am Rand unserer Dietzenbacher Parkanlage eine Art, an der sogar Kinder ihren Spaß haben. Sie brauchen nur mit dem Finger an die winzigen Köpfchen der Gewimperten Stielboviste (*Tulostoma fimbriatum*) zu schnippen, um eine graubraungelbrötliche Sporenwolke freizusetzen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tulostoma-fimbriatum-gewimperter-stielbovist)
 
 <div style="clear:  both"></div>
 
