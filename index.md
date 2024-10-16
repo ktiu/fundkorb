@@ -10,7 +10,6 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pilzberatung_01_xx.png" %}
 {% include abbildung_ende.html legende="Pilzberatung in Frankfurt am Main" %}
@@ -23,9 +22,20 @@ Neuer Exkursionstermin - 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_-aurantiomarginata_03_jr.jpg" %}
+{% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
+16.10.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder ein richtig guter Speisepilz, allerdings nur für Pilzfreunde, die sich auskennen. Er heißt Büschelrasling, auf schlau *Lyophyllum decastes*, hat Biss und einen angenehmen Pilzgeschmack. Sein büscheliges Wachstum vornehmlich auf grasigen Flächen ist zwar ein wichtiges Merkmal, kommt aber bei Pilzen häufig vor. Wir haben ihn schon oft mitten in Frankfurt oder anderswo in Parkanlagen gefunden, auch schon früh im Jahr. Ein einziges Büschel kann ein ordentliches Pilzgericht liefern, hin und wieder kommt er aber auch vereinzelt oder zu wenigen gesellig vor. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_-aurantiomarginata_03_jr.jpg" %}
+{% include abbildung_ende.html %}
 
 15.10.2014: Unser akktueller [Fundkorbpilz](AA "Glossar-") kommt heute wieder aus Bayern. Es ist der Feurige Helmling  (*Mycena aurantiomarginata*). Es ist einer der schönsten Helmlinge mit „feurig“ gefärbten Lamellenschneiden und derzeit in den Wäldern um München herum zu finden. Man muss allerdings schon genau hinschauen, um ihn in der Nadelstreu zu entdecken, denn sein Hut besitzt eine braunolive Farbe. Offenbar ist er sehr standorttreu, denn ich fand ihn an der selben Stelle wie im vergangenen Jahr. (Johann Rejek)
 
@@ -33,7 +43,7 @@ Neuer Exkursionstermin - 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
 
 <div style="clear:  both"></div>
 
-- - - 
+- - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tulostoma_fimbriatum_01_dg.jpg" %}
@@ -42,30 +52,6 @@ Neuer Exkursionstermin - 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
 14.10.2024: An einer mit Gittern abgesicherten steinigen Baustelle zwischen Bordsteinkante und einem schmalen armseligen Grünstreifen erwartet man kaum betrachtenswerte Pilze und schon gar nicht solche, die als aktueller [Fundkorbpilz](AA "Glossar-") in Frage kommen könnten. Dennoch wächst hier zur Zeit am Rand unserer Dietzenbacher Parkanlage eine Art, an der sogar Kinder ihren Spaß haben. Sie brauchen nur mit dem Finger an die winzigen Köpfchen der Gewimperten Stielboviste (*Tulostoma fimbriatum*) zu schnippen, um eine graubraungelbrötliche Sporenwolke freizusetzen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tulostoma-fimbriatum-gewimperter-stielbovist)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cystoderma_amiantinum_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-12.10.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein besonders hübscher aber kaum für die Küche geeigneter kleiner Pilz, den wir zur Zeit in vielen Nadelwäldern beobachten können. Es ist der Amianth-Körnchenschirmling *Cystoderma amianthinum*. Giftig ist er nicht, aber Geruch und Geschmack wirken nicht gerade appetitanregend. Über die Schreibweise von *„Amianth“* (ein feuerbeständiges Mineral) herrscht wohl weitgehende Uneinigkeit. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cystoderma-amianthinum-amianth-körnchenschirmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/entoloma_nitidum_01_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-12.10.2024: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist zwar eine eher seltene, dafür aber relativ sicher zu bestimmende Art. Die blaugraue Färbung in Hut und Stiel, die jung weißen und im Alter rosa gefärbten Lamellen, sowie das Wachstum in sauren Fichtenwäldern bilden eine Merkmalskombination, die den Stahlblauen Rötling *Entoloma nitidum* unverwechselbar machen. So schön er auch anzusehen ist, zu Speisezwecken taugt er nicht: Wie die meisten Rötlinge ist auch er zumindest giftverdächtig. (Erik Hock) 
-
-[Mehr lesen >](/pilze/entoloma-nitidum-stahlblauer-rötling)
 
 <div style="clear:  both"></div>
 
