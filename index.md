@@ -22,6 +22,18 @@ Neuer Exkursionstermin - 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/craterellus-cornucopioides_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+18.10.2024: Wer unsreren aktuellen [Fundkorbpilz](AA "Glossar-") – die Totentrompete *Craterellus* *cornucopioides* -  finden will, der muss sich in kalkhaltigen Laubwäldern auf die Suche machen. Obwohl das äußere Erscheinungsbild in Kombination mit dem Namen „Totentrompete“ eher auf einen ungenießbaren, womöglich giftigen Pilz hinweist, ist er ein guter Speisepilz (DgfM2023).Wir fanden ihn im Buchenwald in der Nähe von Murnau. (Johann Rejek)
+
+[Mehr lesen >](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gomphidius_roseus_03_eh.jpg" %}
 {% include abbildung_ende.html %}
 
