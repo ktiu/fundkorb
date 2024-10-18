@@ -16,8 +16,20 @@ footer_scripts:
 
 Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließlich 17. November jeweils sonntags von 17 bis 20 Uhr statt. [Mehr lesen >](/termine)
 
-Neuer Exkursionstermin - 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
+Exkursionstermin 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
 **Ausgebucht**
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/artomyces_pyxidatus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") ist die beeindruckende Becherkoralle *Artomyces pyxidatus*. An ihren verzweigten Astspitzen, die in einem kleinen mit aufrechten Zacken geschmücktem Becher enden, ist sie leicht zu erkennen. Sie wächst an totem Laubholz, aktuell in meinem beliebten Ausflugsziel am Dornsee bei Dietzenbach. Der wunderschöne Pilz kann weiß oder hell gelblich, im Alter gelbbräunlich gefärbt sein. Mit den Korallenpilzen der Gattung *Ramaria* ist er nicht näher verwandt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/artomyces-pyxidatus-becherkoralle)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -52,18 +64,6 @@ Neuer Exkursionstermin - 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
 17.10.2024:  In Kiefernwäldern begegnet man dem aktuellen [Fundkorbpilz](AA "Glossar-") gerade ausgesprochen häufig. Der Kuhröhrling *Suillus bovinus* geht eine [Mykorrhizapartnerschaft](Mykorrhiza "Glossar") mit der Kiefer ein und bildet relativ kleine und unscheinbare Fruchtkörper mit gelb- bis orangebraunen, schmierigen Hüten aus. Meistens kommen sie sehr zahlreich in größeren Gruppen vor. Er ist zwar essbar, zählt wie die meisten Schmierröhrlingsverwandten aber nicht zu den wertvollen Speisepilzen. (Erik Hock) 
 
 [Mehr lesen >](/pilze/suillus-bovinus-kuhröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.10.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder ein richtig guter Speisepilz, allerdings nur für Pilzfreunde, die sich auskennen. Er heißt Büschelrasling, auf schlau *Lyophyllum decastes*, hat Biss und einen angenehmen Pilzgeschmack. Sein büscheliges Wachstum vornehmlich auf grasigen Flächen ist zwar ein wichtiges Merkmal, kommt aber bei Pilzen häufig vor. Wir haben ihn schon oft mitten in Frankfurt oder anderswo in Parkanlagen gefunden, auch schon früh im Jahr. Ein einziges Büschel kann ein ordentliches Pilzgericht liefern, hin und wieder kommt er aber auch vereinzelt oder zu wenigen gesellig vor. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
 
 <div style="clear:  both"></div>
 
