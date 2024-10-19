@@ -22,6 +22,18 @@ Exkursionstermin 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitocybe_nebularis_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+20.10.2024: Als typischer Spätherbstpilz ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der  Nebelgraue Trichterling *Clitocybe nebularis*, kurz Nebelkappe genannt, an manchen Waldwegrändern bereits erschienen. Seine Zahl wird nun weiter zunehmen. Schade, dass er trotz seines sympathischen Aussehens nichts in der Küche verloren hat. Er schmeckt nicht nur unangenehm sondern ist wegen mutagener und Magen-Darmbeschwerden verursachender Inhaltsstoffe auch als Giftpilz ausgewiesen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/artomyces_pyxidatus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -40,42 +52,6 @@ Exkursionstermin 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
 18.10.2024: Wer unseren aktuellen [Fundkorbpilz](AA "Glossar-") – die Herbsttrompete (Totentrompete) *Craterellus* *cornucopioides* -  finden will, der muss sich in kalkhaltigen Laubwäldern auf die Suche machen. Obwohl das äußere Erscheinungsbild in Kombination mit dem Namen „Totentrompete“ eher auf einen ungenießbaren, womöglich giftigen Pilz hinweist, ist er ein guter Speisepilz (DGfM 2023). Wir fanden ihn im Buchenwald in der Nähe von Murnau. (Johann Rejek)
 
 [Mehr lesen >](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gomphidius_roseus_03_eh.jpg" %}
-{% include abbildung_ende.html %}
-
-17.10.2024:  Ausnahmsweise gibt es heute einen zweiten aktuellen [Fundkorbpilz](AA "Glossar-"). Der Kuhröhrling *Suillus bovinus* besitzt nämlich einen deutlich attraktiveren Begleiter: der Rosenrote Schmierling *Gomphidius roseus* parasitiert auf dessen [Myzel](Myzel "Glossar"), die auffallenden Fruchtkörper mit den rot gefärbten Hüten und den weit den Stiel herablaufenden weißen Lamellen erscheinen in der Regel zeitgleich. Er ist deutlich seltener als sein Wirt und wird in der Roten Liste als gefährdet geführt. (Erik Hock) 
-
-[Mehr lesen >](/pilze/gomphidius-roseus-rosenroter-schmierling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/suillus_bovinus_01_mg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.10.2024:  In Kiefernwäldern begegnet man dem aktuellen [Fundkorbpilz](AA "Glossar-") gerade ausgesprochen häufig. Der Kuhröhrling *Suillus bovinus* geht eine [Mykorrhizapartnerschaft](Mykorrhiza "Glossar") mit der Kiefer ein und bildet relativ kleine und unscheinbare Fruchtkörper mit gelb- bis orangebraunen, schmierigen Hüten aus. Meistens kommen sie sehr zahlreich in größeren Gruppen vor. Er ist zwar essbar, zählt wie die meisten Schmierröhrlingsverwandten aber nicht zu den wertvollen Speisepilzen. (Erik Hock) 
-
-[Mehr lesen >](/pilze/suillus-bovinus-kuhröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_-aurantiomarginata_03_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-15.10.2014: Unser akktueller [Fundkorbpilz](AA "Glossar-") kommt heute wieder aus Bayern. Es ist der Feurige Helmling  (*Mycena aurantiomarginata*). Es ist einer der schönsten Helmlinge mit „feurig“ gefärbten Lamellenschneiden und derzeit in den Wäldern um München herum zu finden. Man muss allerdings schon genau hinschauen, um ihn in der Nadelstreu zu entdecken, denn sein Hut besitzt eine braunolive Farbe. Offenbar ist er sehr standorttreu, denn ich fand ihn an der selben Stelle wie im vergangenen Jahr. (Johann Rejek)
-
-[Mehr lesen >](/pilze/mycena-aurantiomarginata-feuriger-helmling)
 
 <div style="clear:  both"></div>
 
