@@ -25,7 +25,7 @@ Exkursionstermin 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
 {% include bild.html datei="/bilder/suillus_cavipes_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-2﻿1.10.2024: Die Merkmalskombination aus braunem, schuppigem Hut, den weiten gelben, den Stiel herab laufenden Röhren und dem beringten hohlen Stiel machen den Hohlfußröhrling *Suillus cavipes* zu einem sehr leicht zu bestimmenden Pilz. Der aktuelle [Fundkorbpilz](AA "Glossar-") wächst in einer [Mykorrhizapartnerschaft](Mykorrhiza "Glossar") mit Lärchen und scheint ein gutes Jahr zu haben - sonst eher seltener anzutreffen, ist er momentan sehr häufig zu finden.
+2﻿1.10.2024: Die Merkmalskombination aus braunem, schuppigem Hut, den weiten gelben, den Stiel herab laufenden Röhren und dem beringten hohlen Stiel machen den Hohlfußröhrling *Suillus cavipes* zu einem sehr leicht zu bestimmenden Pilz. Der aktuelle [Fundkorbpilz](AA "Glossar-") wächst in einer [Mykorrhizapartnerschaft](Mykorrhiza "Glossar") mit Lärchen und scheint ein gutes Jahr zu haben - sonst eher seltener anzutreffen, ist er momentan sehr häufig zu finden. (Erik Hock)
 
 [Mehr lesen >](/pilze/boletinus-cavipes-hohlfußröhrling)
 
