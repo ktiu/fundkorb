@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+2﻿1.10.2024: [Suillus cavipes - Hohlfußröhrling](pilze/boletinus-cavipes-hohlfußröhrling)  
 20.10.2024: [Clitocybe nebularis - Nebelgrauer Trichterling, Nebelkappe](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)   
 19.10.2024: [Artomyces pyxidatus - Becherkoralle](/pilze/artomyces-pyxidatus-becherkoralle)\
 18.10.2024: [Craterellus cornucopioides - Herbsttrompete / Totentrompete](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)\
