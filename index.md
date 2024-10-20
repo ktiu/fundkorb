@@ -22,6 +22,18 @@ Exkursionstermin 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/suillus_cavipes_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+2﻿1.10.2024: Die Merkmalskombination aus braunem, schuppigem Hut, den weiten gelben, den Stiel herab laufenden Röhren und dem beringten hohlen Stiel machen den Hohlfußröhrling *Suillus cavipes* zu einem sehr leicht zu bestimmenden Pilz. Der aktuelle [Fundkorbpilz](AA "Glossar-") wächst in einer [Mykorrhizapartnerschaft](Mykorrhiza "Glossar") mit Lärchen und scheint ein gutes Jahr zu haben - sonst eher seltener anzutreffen, ist er momentan sehr häufig zu finden.
+
+[Mehr lesen >](/pilze/boletinus-cavipes-hohlfußröhrling)
+
+<div style="clear:  both"></div>
+
+-﻿ - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitocybe_nebularis_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -40,18 +52,6 @@ Exkursionstermin 19. Oktober 2024 10:00 Uhr: Pilzkunde für Einsteiger\
 19.10.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist die beeindruckende Becherkoralle *Artomyces pyxidatus*. An ihren verzweigten Astspitzen, die in einem kleinen mit aufrechten Zacken geschmücktem Becher enden, ist sie leicht zu erkennen. Sie wächst an totem Laubholz, aktuell in meinem beliebten Ausflugsziel am Dornsee bei Dietzenbach. Der wunderschöne Pilz kann weiß oder hell gelblich, im Alter gelbbräunlich gefärbt sein. Mit den Korallenpilzen der Gattung *Ramaria* ist er nicht näher verwandt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/artomyces-pyxidatus-becherkoralle)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/craterellus-cornucopioides_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-18.10.2024: Wer unseren aktuellen [Fundkorbpilz](AA "Glossar-") – die Herbsttrompete (Totentrompete) *Craterellus* *cornucopioides* -  finden will, der muss sich in kalkhaltigen Laubwäldern auf die Suche machen. Obwohl das äußere Erscheinungsbild in Kombination mit dem Namen „Totentrompete“ eher auf einen ungenießbaren, womöglich giftigen Pilz hinweist, ist er ein guter Speisepilz (DGfM 2023). Wir fanden ihn im Buchenwald in der Nähe von Murnau. (Johann Rejek)
-
-[Mehr lesen >](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
 
 <div style="clear:  both"></div>
 
