@@ -26,7 +26,8 @@ Dieser Adermoosling ist aufgrund seiner mehrfach gegabelten und queraderig verbu
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/arrhenia_rickenii_02_jr.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/arrhenia_rickenii_03_jr.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Fotos: Johann Rejek, 20.10.2024 München-Trudering" %}
 
 Seine [hygrophanen](hygrophan "Glossar") Hüte sind sehr klein. Sie erreichen gerade mal 6 bis 20 mm Ø. Das ist auch bei der Betrachtung des obigen Fotos zu beachten, auf dem das Moos viel größer erscheint als es wirklich ist. Die Hutfarbe ist nicht immer leicht zu identifizieren. Sie kann zwischen gelblich braun und glänzend grau variieren. Lamellen einschließlich [Anastomosen](Anastomosen "Glossar") und die glatten Stiele haben in etwa die gleichen Farben. Geruch und Geschmack werden als unauffällig bis leicht muffig beschrieben.
 
