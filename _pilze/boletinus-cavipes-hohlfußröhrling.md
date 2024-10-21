@@ -15,7 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/s/Suillus_cavipes.html
 ---
-Wahrscheinlich ist es (neben Schmarotzerröhrling und Erlengrübling) der am leichtesten bestimmbare aller Röhrlinge. Sein beringter hohler Stiel, die einzigartigen rhombischen und in der Tiefe abgestuften gelben Poren (siehe Foto unten), dazu die Lärche als [Mykorrhizapartner](Mykorrhiza "Glossar") lassen keine Verwechslungsmöglichkeit aufkommen. Die bei *123pilze* genannten Varietäten dürften kaum von taxonomischer Bedeutung sein.
+Wahrscheinlich ist es (neben [Strubbelkopfröhrling](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling), [Schmarotzerröhrling](/pilze/xerocomus-parasiticus-schmarotzer-röhrling) und [Erlengrübling](/pilze/gyrodon-lividus-erlengrübling)) der am leichtesten bestimmbare aller Röhrlinge. Sein beringter hohler Stiel, die einzigartigen rhombischen und in der Tiefe abgestuften gelben Poren (siehe Foto unten), dazu die Lärche als [Mykorrhizapartner](Mykorrhiza "Glossar") lassen keine Verwechslungsmöglichkeit aufkommen. Die bei *123pilze* genannten Varietäten dürften kaum von taxonomischer Bedeutung sein.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/suillus_cavipes_03_dg.jpg" nocrop=true %}
