@@ -23,6 +23,18 @@ Neuer Exkursionstermin: Samstag, 26. Oktober 2024 10:00 Uhr: **Der Wald und sein
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_xanthoderma_var._lepiotoides_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.10.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schirmlingsartige Karbolchampignon *Agaricus xanthoderma var. lepiotoides*. Der Name ist jedenfalls gut gewählt, denn mit seiner schuppig aufgerissenen Huthaut ähnelt zumindest die Hutoberfläche einem Parasol. Allerding sind die Übergänge zwischen glatt, wenig und stark aufgerissen sehr fließend, weshalb der Pilz nur als Varietät des ungeschuppten [Karbolegerlings](/pilze/agaricus-xanthoderma-karbolchampignon) gilt. Wie dieser ist er magen-/darmgiftig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/agaricus-xanthoderma-var-lepiotoides-schirmlingsartiger-karbolchampignon)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/suillus_cavipes_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
