@@ -24,11 +24,15 @@ literatur:
 ---
 Dieser Adermoosling ist aufgrund seiner mehrfach gegabelten und queraderig verbundenen Lamellen sowie seiner zumindest im Alter trichterig eingetieften Hüte relativ gut erkennbar. Der Name Geröllnabeling rührt daher, dass er einst in der Gattung *Omphalina* (Nabelinge) angesiedelt war und von manchen Autoren hier noch immer gesehen wird. Der Name verweist auch auf eine weitere oft entscheidende Bestimmungshilfe: sein bevorzugtes Substrat sind mit *Barbula*-Moosen bewachsene  Geröllflächen, Mauern und Steine, seltener auch sandige Böden.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/arrhenia_rickenii_02_jr.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html %}
+
 Seine [hygrophanen](hygrophan "Glossar") Hüte sind sehr klein. Sie erreichen gerade mal 6 bis 20 mm Ø. Das ist auch bei der Betrachtung des obigen Fotos zu beachten, auf dem das Moos viel größer erscheint als es wirklich ist. Die Hutfarbe ist nicht immer leicht zu identifizieren. Sie kann zwischen gelblich braun und glänzend grau variieren. Lamellen einschließlich [Anastomosen](Anastomosen "Glossar") und die glatten Stiele haben in etwa die gleichen Farben. Geruch und Geschmack werden als unauffällig bis leicht muffig beschrieben.
 
 Mit dem Wechsel der Gattungszugehörigkeit ist *Arrhenia rickenii* auch aus der Familie der Ritterlingsartigen (*Tricholomataceae*) zu den Schnecklingsverwandten (*Hygrophoraceae*) transferiert worden.
 
-Weitere Adermooslinge im Fundkorb sind:  
-[*Arrhenia obscurata* = Sepiabrauner Adermoosling](/pilze/arrhenia-obscurata-sepiabrauner-adermoosling)  
-[*Arrhenia retiruga* = Schüsselförmiger Adermoosling](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)  
+Weitere Adermooslinge im Fundkorb sind:\
+[*Arrhenia obscurata* = Sepiabrauner Adermoosling](/pilze/arrhenia-obscurata-sepiabrauner-adermoosling)\
+[*Arrhenia retiruga* = Schüsselförmiger Adermoosling](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)\
 [*Arrhenia spathulata* = Spatelförmiger Adermoosling](/pilze/arrhenia-spathulata-spatelförmiger-adermoosling)
