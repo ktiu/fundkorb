@@ -16,3 +16,7 @@ hauptbild:
 published: true
 ---
 Der Fleckende Schmierschirmling ist vor allem jung ein sehr schöner Pilz, nämlich dann, wenn die namensgebenden „Flecken“ noch als bernsteinfarbene Tröpfchen am Stiel zu sehen sind. Gekennzeichnet ist er, neben diesen Tröpfchen, durch seine ritterlingsartige Statur mit weißlich-cremefarbenem, feucht schmierigem Hut, weißen, mehr oder weniger freien Lamellen und dem unter einer faserigen Ringzone cremebräunlich punktierten Stiel.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="chamaemyces_fracidus_02_eh.jpg" %}
+{% include abbildung_ende.html legende="28.09.2024, entlang eines Waldweges bei Rodgau (Erik Hock)" %}
