@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: rickenii = zu Ehren des deutschen Mykologen A. Ricken
   familie: Hygrophoraceae
 profil:
-  aktualisiert: 2024-05-14
+  aktualisiert: 2024-10-21
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
