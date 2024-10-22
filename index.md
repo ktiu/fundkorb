@@ -23,6 +23,18 @@ Neuer Exkursionstermin: Samstag, 26. Oktober 2024 10:00 Uhr: **Der Wald und sein
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/arrhenia_rickenii_01_us.jpg" %}
+{% include abbildung_ende.html %}
+
+23.10.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zentralgestielte Adermoosling - auch Geröllnabeling genannt - *Arrhenia rickenii* ist leicht zu übersehen. Es ist ein recht kleiner Pilz, der mit seinen gelblich grauen Hüten auf mit Moos bewachsenen Magerwiesen und Mauern wächst. Und das oft in großer Anzahl. Wir fanden ihn in einer alten, seit 30 Jahren nicht mehr genutzten Kiesgrube im Münchner Osten. (Johann Rejek)
+
+[Mehr lesen >](pilze/arrhenia-rickenii-zentralgestielter-adermoosling-geröllnabeling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_xanthoderma_var._lepiotoides_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
