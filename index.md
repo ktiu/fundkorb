@@ -24,7 +24,7 @@ Exkursionstermin: Samstag, 26. Oktober 2024 10:00 Uhr: Der Wald und seine Pilze 
 {% include bild.html datei="/bilder/leotia_lubrica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-24.10.2024: Grüngelbe Gallertkäppchen (*Leotia lubrica*) sind Ascomyzeten, die gern an feuchten Stellen wachsen. Solche Biotope gibt es zur Zeit auch in unserem Carré an der Dietzenbacher Rodgaustraße und haben die hübschen Pilzchen angelockt. Eine Beobachtung, die Freude bereitet, denn unser aktueller [Fundkorbpilz](AA "Glossar-") ist keine häufige Art und zumindest regional stark rückläufig. Sie gilt als giftverdächtig, soll in geringer Konzentration *Gyromitrin* enthalten, das von der Frühlichslorchel bekannt ist. (Dieter Gewalt)
+24.10.2024: Grüngelbe Gallertkäppchen (*Leotia lubrica*) sind Ascomyzeten, die gern an feuchten Stellen wachsen. Solche Biotope gibt es zur Zeit auch in unserem Carré an der Dietzenbacher Rodgaustraße und haben die hübschen Pilzchen angelockt. Eine Beobachtung, die Freude bereitet, denn unser aktueller [Fundkorbpilz](AA "Glossar-") ist keine häufige Art und zumindest regional stark rückläufig. Sie gilt als giftverdächtig, soll in geringer Konzentration *Gyromitrin* enthalten, das von der Frühlingslorchel bekannt ist. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)
 
