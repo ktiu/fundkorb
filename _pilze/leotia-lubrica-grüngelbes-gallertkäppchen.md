@@ -21,6 +21,6 @@ Grüngelbe Gallertkäppchen sind eine seltene Pilzart, die zu den Ascomyzeten ge
 
 Aufgrund seiner gallertigen, fast schon gummiartigen Konsistenz und der ungewöhnlichen Form ist das Gallertkäppchen gut gekennzeichnet. Verwechselt werden könnte es eventuell mit dem in subalpinen Lagen vorkommenden Helm-Kreisling *Cudonia circinans*.
 
-Das Grüngelbe Gallertköpfchen galt schon früher keineswegs als seltene Art, was ich durch eigene Beobachtungen bestätigen kann. Inzwischen sind die Vorkommen zumindest regional stark rückläufig.  
+Das Grüngelbe Gallertkäppchen galt schon früher keineswegs als seltene Art, was ich durch eigene Beobachtungen bestätigen kann. Inzwischen sind die Vorkommen zumindest regional stark rückläufig.  
 
-Als Speisepilz hatte das Gallertköpfchen wohl nie eine nennenswerte Bedeutung, gilt nach neueren Erkenntnissen jetzt sogar als giftverdächtig. Es soll in geringer Konzentration Gyromitrin enthalten, den von der Frühjahrslorchel bekannten Giftstoff.
+Als Speisepilz hatte das Gallertkäppchen wohl nie eine nennenswerte Bedeutung, gilt nach neueren Erkenntnissen jetzt sogar als giftverdächtig. Es soll in geringer Konzentration Gyromitrin enthalten, den von der Frühjahrslorchel bekannten Giftstoff.
