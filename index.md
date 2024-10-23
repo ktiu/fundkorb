@@ -21,6 +21,18 @@ Exkursionstermin: Samstag, 26. Oktober 2024 10:00 Uhr: Der Wald und seine Pilze 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leotia_lubrica_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.10.2024: Grüngelbe Gallertköpfchen (*Leotia lubrica*) sind Ascomyzeten, die gern an feuchten Stellen wachsen. Solche Biotope gibt es zur Zeit auch in unserem Carré an der Dietzenbacher Rodgaustraße und haben die hübschen Pilzchen angelockt. Eine Beobachtung, die Freude bereitet, denn unser aktueller [Fundkorbpilz](AA "Glossar-") ist keine häufige Art und zumindest regional stark rückläufig. Sie gilt als giftverdächtig, soll in geringer Konzentration *Gyromitrin* enthalten, das von der Frühlichslorchel bekannt ist. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/arrhenia_rickenii_01_us.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,30 +51,6 @@ Exkursionstermin: Samstag, 26. Oktober 2024 10:00 Uhr: Der Wald und seine Pilze 
 22.10.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schirmlingsartige Karbolchampignon *Agaricus xanthoderma var. lepiotoides*. Der Name ist jedenfalls gut gewählt, denn mit seiner schuppig aufgerissenen Huthaut ähnelt zumindest die Hutoberfläche einem Parasol. Allerding sind die Übergänge zwischen glatt, wenig und stark aufgerissen sehr fließend, weshalb der Pilz nur als Varietät des ungeschuppten [Karbolegerlings](/pilze/agaricus-xanthoderma-karbolchampignon) gilt. Wie dieser ist er magen-/darmgiftig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/agaricus-xanthoderma-var-lepiotoides-schirmlingsartiger-karbolchampignon)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/suillus_cavipes_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-2﻿1.10.2024: Die Merkmalskombination aus braunem, schuppigem Hut, den weiten gelben, den Stiel herab laufenden Röhren und dem beringten hohlen Stiel machen den Hohlfußröhrling *Suillus cavipes* zu einem sehr leicht zu bestimmenden Pilz. Der aktuelle [Fundkorbpilz](AA "Glossar-") wächst in einer [Mykorrhizapartnerschaft](Mykorrhiza "Glossar") mit Lärchen und scheint ein gutes Jahr zu haben - sonst eher seltener anzutreffen, ist er momentan sehr häufig zu finden. (Erik Hock)
-
-[Mehr lesen >](/pilze/boletinus-cavipes-hohlfußröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_nebularis_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-20.10.2024: Als typischer Spätherbstpilz ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der  Nebelgraue Trichterling *Clitocybe nebularis*, kurz Nebelkappe genannt, an manchen Waldwegrändern bereits erschienen. Seine Zahl wird nun weiter zunehmen. Schade, dass er trotz seines sympathischen Aussehens nichts in der Küche verloren hat. Er schmeckt nicht nur unangenehm sondern ist wegen mutagener und Magen-Darmbeschwerden verursachender Inhaltsstoffe auch als Giftpilz ausgewiesen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)
 
 <div style="clear:  both"></div>
 
