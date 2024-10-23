@@ -2,8 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-23.10.2024: [Arrhenia rickenii - Zentralgestielter Adermoosling, Geröllnabeling](pilze/arrhenia-rickenii-zentralgestielter-adermoosling-geröllnabeling)  
-22.10.2024: [Agaricus xanthoderma var. lepiotoides - Schirmlingsartiger Karbolchampignon](/pilze/agaricus-xanthoderma-var-lepiotoides-schirmlingsartiger-karbolchampignon)  
+24.10.2024: [Leotia lubrica - Grüngelbes Gallertkäppchen](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)  
+23.10.2024: [Arrhenia rickenii - Zentralgestielter Adermoosling, Geröllnabeling](pilze/arrhenia-rickenii-zentralgestielter-adermoosling-geröllnabeling)\
+22.10.2024: [Agaricus xanthoderma var. lepiotoides - Schirmlingsartiger Karbolchampignon](/pilze/agaricus-xanthoderma-var-lepiotoides-schirmlingsartiger-karbolchampignon)\
 2﻿1.10.2024: [Suillus cavipes - Hohlfußröhrling](pilze/boletinus-cavipes-hohlfußröhrling)\
 20.10.2024: [Clitocybe nebularis - Nebelgrauer Trichterling, Nebelkappe](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)\
 19.10.2024: [Artomyces pyxidatus - Becherkoralle](/pilze/artomyces-pyxidatus-becherkoralle)\
