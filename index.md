@@ -21,6 +21,18 @@ Exkursionstermin: Samstag, 26. Oktober 2024 10:00 Uhr: Der Wald und seine Pilze 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/galerina_marginata_04_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+25.10.2024: Der Gifthäubling *Galerina marginata* ist zur Zeit in den Nadelwäldern der Rhein-Main-Ebene keine Seltenheit und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Leichter Frost kann ihm wenig anhaben, aber auch die derzeit milden Temperaturen kommen ihm nicht ungelegen. Sammler von [Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen) sollten ihm unbedingt Beachtung schenken. Eine Verwechslung kann tödlich enden. Auch wer glaubt, die beiden Arten sicher auseinanderhalten zu können, sollte auf der Hut sein. In der Verwandtschaft von *Galerina marginata* gibt es weitere tödliche Arten, die dem Stockschwämmchen ähneln. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/galerina-marginata-gifthäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leotia_lubrica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,18 +51,6 @@ Exkursionstermin: Samstag, 26. Oktober 2024 10:00 Uhr: Der Wald und seine Pilze 
 23.10.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zentralgestielte Adermoosling - auch Geröllnabeling genannt - *Arrhenia rickenii* ist leicht zu übersehen. Es ist ein recht kleiner Pilz, der mit seinen gelblich grauen Hüten auf mit Moos bewachsenen Magerwiesen und Mauern wächst. Und das oft in großer Anzahl. Wir fanden ihn in einer alten, seit 30 Jahren nicht mehr genutzten Kiesgrube im Münchner Osten. (Johann Rejek)
 
 [Mehr lesen >](pilze/arrhenia-rickenii-zentralgestielter-adermoosling-geröllnabeling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_xanthoderma_var._lepiotoides_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.10.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schirmlingsartige Karbolchampignon *Agaricus xanthoderma var. lepiotoides*. Der Name ist jedenfalls gut gewählt, denn mit seiner schuppig aufgerissenen Huthaut ähnelt zumindest die Hutoberfläche einem Parasol. Allerding sind die Übergänge zwischen glatt, wenig und stark aufgerissen sehr fließend, weshalb der Pilz nur als Varietät des ungeschuppten [Karbolegerlings](/pilze/agaricus-xanthoderma-karbolchampignon) gilt. Wie dieser ist er magen-/darmgiftig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/agaricus-xanthoderma-var-lepiotoides-schirmlingsartiger-karbolchampignon)
 
 <div style="clear:  both"></div>
 
