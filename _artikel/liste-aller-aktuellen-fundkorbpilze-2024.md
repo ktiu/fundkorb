@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-25.10.2024: [Galerina mariginata - Gifthäubling](/pilze/galerina-marginata-gifthäubling)  
+26.10.2024: [Gyroporus cyanescens - Kornblumenröhrling](/pilze/gyroporus-cyanescens-kornblumenröhrling)  
+25.10.2024: [Galerina mariginata - Gifthäubling](/pilze/galerina-marginata-gifthäubling)\
 24.10.2024: [Leotia lubrica - Grüngelbes Gallertkäppchen](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)\
 23.10.2024: [Arrhenia rickenii - Zentralgestielter Adermoosling, Geröllnabeling](pilze/arrhenia-rickenii-zentralgestielter-adermoosling-geröllnabeling)\
 22.10.2024: [Agaricus xanthoderma var. lepiotoides - Schirmlingsartiger Karbolchampignon](/pilze/agaricus-xanthoderma-var-lepiotoides-schirmlingsartiger-karbolchampignon)\
