@@ -53,7 +53,7 @@ Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das [Video des US-ameri
 
 Bisher 24 Schleimpilzarten aus 14 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
 
-[Amaurochaete atra (Stemonitidaceae) = Schwarzer Schillerborstling](/pilze/amaurochaete-atra-schwarzer-schillerborstling)  
+[Amaurochaete atra (Stemonitidaceae) = Schwarzer Schillerborstling](/pilze/amaurochaete-atra-schwarzer-schillerborstling)\
 [Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
 [Arcyria incarnata (Arcyriaceae) - Roter Kelchstäubling](/pilze/arcyria-incarnata-roter-kelchst%C3%A4ubling)\
 [Arcyria obvelata (Arcyriaceae) - Nickender Kelchschleimpilz](/pilze/arcyria-obvelata-arcyria-obvelata)\
@@ -69,6 +69,7 @@ Bisher 24 Schleimpilzarten aus 14 Gattungen (7 Familien) im Fundkorb. Weitere we
 [Lycogala epidendrum (Enteridiaceae) - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 [Metatrichia vesparium (Trichiaceae) - Wespennest](/pilze/metatrichia-vesparium-wespennest)\
 [Mucilago crustacea (Didymiaceae) - Schaumpilz, Grubiges Polsterkissen](/pilze/mucilago-crustacea-schaumpilz-grubiges-polsterkissen)\
+[Perichaena corticalis - Orangeroter Neststäubling](/pilze/perichaena-corticalis-orangeroter-neststäubling)  
 [Physarum cinereum (Physaridae) - Grauer Gras-Schleimpilz](/pilze/physarum-cinereum-grauer-gras-schleimpilz)\
 [Physarum utriculare (Physaridae) - Fadenfrucht-Schleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
 [Reticularia lycoperdon (Enteridiaceae) - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
