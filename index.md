@@ -20,6 +20,14 @@ Exkursionstermin: Samstag, 26. Oktober 2024 10:00 Uhr: Der Wald und seine Pilze 
 
 - - -
 
+26.10.2024: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den seltenen Kornblumenröhrling *Gyroporus cyanescens*, haben wir bei unserer letzten pilzkundlichen Führung in der Rhein-Main-Ebene gefunden. An seinen gekammert hohlen Stielen und der kornblumenblauen Verfärbung im angeschnittenen sehr festen Fleisch ist er leicht zu erkennen. Bei der Zubereitung verliert er die blaue Farbe. Im Geschmack ist er fein nussartig, in seiner Speisepilzqualität dem Steinpilz mindestens ebenbürtig, darf aber als gesetzlich geschützte Rote-Liste Art nicht gesammelt werden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/gyroporus-cyanescens-kornblumenröhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/galerina_marginata_04_fk.jpg" %}
 {% include abbildung_ende.html %}
