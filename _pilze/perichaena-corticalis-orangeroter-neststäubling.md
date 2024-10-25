@@ -17,7 +17,7 @@ literatur:
   - text: "Hermann Neubert, Wolfgang Nowotny, Karlheinz Baumann: Die Myxomyceten
       Band 1, Seite 206 ff"
 ---
-Dieser Schleimpilz bildet zahlreiche orangerote bis nußbraune kugelige, eiförmige Sporangien, die auch plattgedrückt oder vielfach verformt sein können und dichtgedrängt zusammensitzen. Sie sind auch unterschiedlich in ihrer Größe (0,2 bis 1,5 mm), aber oft so klein, dass die [Fruktifikationen](<Fruktifikation "Glossar">) leicht übersehen werden. Die äußere Haut (*Peridie*) ist oft ungleichmäßig granuliert. Mitunter ist auf ihr auch eine hellere gelbliche geschwungene Linie zu erkennen, am ehesten bei Betrachtung mit einer stark vergrößernden Lupe. Das Innere (*Capillitium*) zerfällt bei Reife zu Staub.
+Dieser Schleimpilz bildet zahlreiche orangerote bis nußbraune kugelige, eiförmige [Sporangien](Sporocarp "Glossar"), die auch plattgedrückt oder vielfach verformt sein können und dichtgedrängt zusammensitzen. Sie sind auch unterschiedlich in ihrer Größe (0,2 bis 1,5 mm), aber oft so klein, dass die [Fruktifikationen](Fruktifikation "Glossar") leicht übersehen werden. Die äußere Haut (*Peridie*) ist oft ungleichmäßig granuliert. Mitunter ist auf ihr auch eine hellere gelbliche geschwungene Linie zu erkennen, am ehesten bei Betrachtung mit einer stark vergrößernden Lupe. Das Innere (*Capillitium*) zerfällt bei Reife zu Staub.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/perichaena_corticalis_02_fk.jpg" %}
@@ -26,3 +26,5 @@ Dieser Schleimpilz bildet zahlreiche orangerote bis nußbraune kugelige, eiförm
 Eine sichere Bestimmung dieser Art ist nur mikroskopisch möglich, wobei das stachelige Capillitium ein Alleinstellungsmerkmal darstellen. Ein solcher Capillitiumfaden ist auf dem Sporenfoto zu sehen.
 
 Der Orangerote Neststäubling fruktifiziert ganzjährig, überwiegend oder ausschließlich an Laubholz. Die abgebildete Kollektion wurde im April 2019 im Frankfurter Stadtwald von *Frank Kaster* gefunden und fotografiert.
+
+Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum [Fundkorb-Beitrag Schleimpilze >](/verwandt/schleimpilze-myxomyzeten)
