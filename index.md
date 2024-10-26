@@ -21,6 +21,20 @@ Exkursionstermin: Samstag, 26. Oktober 2024 10:00 Uhr: Der Wald und seine Pilze 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_cinerella_04_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+27.10.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-") kommt diesmal aus einem Mischwald im Fichtelgebirge. Ca. 1km westlich des Nageler Sees entdeckte ich unter alten Farnwedeln einige Helmlinge. Von oben sahen sie mit ihren gräulichen Hüten aus wie viele Helmlingsarten. Ein Blick auf die Lamellenseite weckte jedoch meine Neugier. Die Lamellen standen relativ entfernt und liefen bogig herab. In Kombination mit einem deutlichen Mehlgeruch ist der Aschgraue Helmling *Mycena cinerella* schon am Fundort zu bestimmen. (Johann Rejek)
+
+[Mehr lesen >](/pilze/mycena-cinerella-aschgrauer-helmling)
+
+<div style="clear:  both"></div>
+
+
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gyroporus_cyanescens_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,17 +70,6 @@ Exkursionstermin: Samstag, 26. Oktober 2024 10:00 Uhr: Der Wald und seine Pilze 
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/arrhenia_rickenii_01_us.jpg" %}
-{% include abbildung_ende.html %}
-
-23.10.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zentralgestielte Adermoosling - auch Geröllnabeling genannt - *Arrhenia rickenii* ist leicht zu übersehen. Es ist ein recht kleiner Pilz, der mit seinen gelblich grauen Hüten auf mit Moos bewachsenen Magerwiesen und Mauern wächst. Und das oft in großer Anzahl. Wir fanden ihn in einer alten, seit 30 Jahren nicht mehr genutzten Kiesgrube im Münchner Osten. (Johann Rejek)
-
-[Mehr lesen >](pilze/arrhenia-rickenii-zentralgestielter-adermoosling-geröllnabeling)
-
-<div style="clear:  both"></div>
-
-- - -
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
