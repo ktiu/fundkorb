@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+28.10.2024: [Baeomyces rufus - Braune Köpfchenflechte] (/pilze/baeomyces-rufus-braune-köpfchenflechte#)  
 27.10.2024: [Mycena cinerella - Aschgrauer Helmling](pilze/mycena-cinerella-aschgrauer-helmling)  
 26.10.2024: [Gyroporus cyanescens - Kornblumenröhrling](/pilze/gyroporus-cyanescens-kornblumenröhrling)  
 25.10.2024: [Galerina mariginata - Gifthäubling](/pilze/galerina-marginata-gifthäubling)\
