@@ -25,7 +25,7 @@ Exkursionstermin: Samstag, 26. Oktober 2024 10:00 Uhr: Der Wald und seine Pilze 
 {% include bild.html datei="/bilder/baeomyces_rufus_01_lh.jpg" %}
 {% include abbildung_ende.html %}
 
-28.10.2024: Wir bleiben mit unserem aktuellen [Fundkorbpilz](AA "Glossar-") im Fichtelgebirge. Bei einer Wanderung zur Girglhöhle entdeckte ich auf einem Granitfelsen großflächige Flechten mit einer Vielzahl von hellbraunen Apothecien, die auf weißen Stielchen sitzen. Es ist die Braune Köpfchenflechte *Baeomyces rufus* (Vielen Dank an C.Weinkötz für die Bestimmungshilfe). Seit einigen Monaten sind im Fundkorb auch Flechten porträtiert. Eine Einführung zu diesem faszinierenden Thema finden sie hier. (Johann Rejek)
+28.10.2024: Wir bleiben mit unserem aktuellen [Fundkorbpilz](AA "Glossar-") im Fichtelgebirge. Bei einer Wanderung zur Girglhöhle entdeckte ich auf einem Granitfelsen großflächige Flechten mit einer Vielzahl von hellbraunen Apothecien, die auf weißen Stielchen sitzen. Es ist die Braune Köpfchenflechte *Baeomyces rufus* (Vielen Dank an C.Weinkötz für die Bestimmungshilfe). Seit einigen Monaten sind im Fundkorb auch Flechten porträtiert. Eine Einführung zu diesem faszinierenden Thema finden sie [hier >](/verwandt/flechten). (Johann Rejek)
 
 [Mehr lesen >](pilze/baeomyces-rufus-braune-köpfchenflechte#)
 
