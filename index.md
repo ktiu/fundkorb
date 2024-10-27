@@ -12,11 +12,24 @@ footer_scripts:
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pilzberatung_01_xx.png" %}
+{% include bild.html datei="" %}
 {% include abbildung_ende.html legende="Pilzberatung in Frankfurt am Main" %}
 
 Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließlich 17. November jeweils sonntags von 17 bis 20 Uhr statt. [Mehr lesen >](/termine)
 
 Exkursionstermin: Samstag, 26. Oktober 2024 10:00 Uhr: Der Wald und seine Pilze im Oktober **\-- ausgebucht --**
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/baeomyces_rufus_01_lh.jpg" %}
+{% include abbildung_ende.html %}
+
+28.10.2024: Wir bleiben mit unserem aktuellen [Fundkorbpilz](AA "Glossar-") im Fichtelgebirge. Bei einer Wanderung zur Girglhöhle entdeckte ich auf einem Granitfelsen großflächige Flechten mit einer Vielzahl von hellbraunen Apothecien, die auf weißen Stielchen sitzen. Es ist die Braune Köpfchenflechte *Baeomyces rufus* (Vielen Dank an C.Weinkötz für die Bestimmungshilfe). Seit einigen Monaten sind im Fundkorb auch Flechten porträtiert. Eine Einführung zu diesem faszinierenden Thema finden sie hier. (Johann Rejek)
+
+[Mehr lesen >](pilze/baeomyces-rufus-braune-köpfchenflechte#)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -29,8 +42,6 @@ Exkursionstermin: Samstag, 26. Oktober 2024 10:00 Uhr: Der Wald und seine Pilze 
 [Mehr lesen >](/pilze/mycena-cinerella-aschgrauer-helmling)
 
 <div style="clear:  both"></div>
-
-
 
 - - -
 
@@ -69,7 +80,6 @@ Exkursionstermin: Samstag, 26. Oktober 2024 10:00 Uhr: Der Wald und seine Pilze 
 <div style="clear:  both"></div>
 
 - - -
-
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
