@@ -8,5 +8,7 @@ published: true
 bilder:
   - /bilder/einsteiger_01_dg.jpg
 ---
-Die Monate September und Oktober gelten traditionell als Saison für Pilzsammler. Die Folgen des Klimawandels haben da Einiges verändert. In den Trockenjahren 2018 bis 2023 hat es während dieser Periode in den meisten Teilen Deutschlands kaum Pilze gegeben. Alle Anzeichen sprechen dafür, dass es in diesem Jahr wesentlich besser ist. Also ab in den Wald und Körbchen nicht vergessen! Plastiktüten sind bei wahren Pilzfreunden verpönt und – wichtiger noch: völlig ungeeignet. Wir werden in einem Wald in der Umgebung von Dietzenbach unterwegs sein und auch Wissenswertes über Abhängigkeiten und Wechselwirkungen im System Wald erfahren, in dem Pilze eine wichtige Rolle spielen.
+Ein Wald ist mehr als nur eine großflächige Ansammlung von Bäumen. Er ist ein funktionierendes System von Abhängigkeiten und Wechselwirkungen, in dem Pilze eine besondere Rolle spielen. Den Teilnehmern an dieser Exkursion wird dies vor Augen geführt, es werden aber auch die Gefahren aufgezeigt, die dieses Biotop bedrohen. Wir lernen eine nicht geringe Anzahl an Pilzarten kennen und Speisepilze dürfen natürlich auch gesammelt werden. Wer möchte, bringt Körbchen und Messer mit.
+
+Wir werden in einer kleinen Gruppen (maximal ca. 12 Teilnehmer) unterwegs sein. Die 5Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung mitgeteilt.
 
