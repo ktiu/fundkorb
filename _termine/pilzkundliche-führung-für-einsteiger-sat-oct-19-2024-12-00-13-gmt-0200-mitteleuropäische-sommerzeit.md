@@ -1,6 +1,6 @@
 ---
 aktivitaet: Pilzkundliche Führung im Frankfurter Stadtwald
-zeit: 2024-11-03T13:00:13.998Z
+zeit: 2024-11-08T13:00:13.998Z
 bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
