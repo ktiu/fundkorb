@@ -23,6 +23,18 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hesperomyces_virescens_01_hl.jpg" %}
+{% include abbildung_ende.html %}
+
+29.10.2024: Vermutlich haben Entomologen (Insektenforscher) und Naturbeobachter unseren aktuellen [Fundkorbpilz](AA "Glossar-") häufiger gesehen als Pilzsucher. Wer schaut schon einem Marienkäfer aufs Hinterteil? Hier wären die winzigen stäbchenförmigen grünlichen Fruchtkörperchen des Marienkäferpilzes *Hesperomyces virescens* zu sehen. Zur Zeit tummeln sich die hübschen Insekten wieder auf Pflanzen und fallen gelegentlich auch als Balkonbesucher auf. Die aktuell warmen Temperaturen machen’s möglich! (Dieter Gewalt)
+
+ [Mehr lesen >](/pilze/hesperomyces-virescens-marienkäferpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/baeomyces_rufus_01_lh.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -41,42 +53,6 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 27.10.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-") kommt diesmal aus einem Mischwald im Fichtelgebirge. Ca. 1km westlich des Nageler Sees entdeckte ich unter alten Farnwedeln einige Helmlinge. Von oben sahen sie mit ihren gräulichen Hüten aus wie viele Helmlingsarten. Ein Blick auf die Lamellenseite weckte jedoch meine Neugier. Die Lamellen standen relativ entfernt und liefen bogig herab. In Kombination mit einem deutlichen Mehlgeruch ist der Aschgraue Helmling *Mycena cinerella* schon am Fundort zu bestimmen. (Johann Rejek)
 
 [Mehr lesen >](/pilze/mycena-cinerella-aschgrauer-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gyroporus_cyanescens_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.10.2024: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den seltenen Kornblumenröhrling *Gyroporus cyanescens*, haben wir bei unserer letzten pilzkundlichen Führung in der Rhein-Main-Ebene gefunden. An seinen gekammert hohlen Stielen und der kornblumenblauen Verfärbung im angeschnittenen sehr festen Fleisch ist er leicht zu erkennen. Bei der Zubereitung verliert er die blaue Farbe. Im Geschmack ist er fein nussartig, in seiner Speisepilzqualität dem Steinpilz mindestens ebenbürtig, darf aber als gesetzlich geschützte Rote-Liste Art nicht gesammelt werden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/gyroporus-cyanescens-kornblumenröhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/galerina_marginata_04_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-25.10.2024: Der Gifthäubling *Galerina marginata* ist zur Zeit in den Nadelwäldern der Rhein-Main-Ebene keine Seltenheit und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Leichter Frost kann ihm wenig anhaben, aber auch die derzeit milden Temperaturen kommen ihm nicht ungelegen. Sammler von [Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen) sollten ihm unbedingt Beachtung schenken. Eine Verwechslung kann tödlich enden. Auch wer glaubt, die beiden Arten sicher auseinanderhalten zu können, sollte auf der Hut sein. In der Verwandtschaft von *Galerina marginata* gibt es weitere tödliche Arten, die dem Stockschwämmchen ähneln. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/galerina-marginata-gifthäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leotia_lubrica_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.10.2024: Grüngelbe Gallertkäppchen (*Leotia lubrica*) sind Ascomyzeten, die gern an feuchten Stellen wachsen. Solche Biotope gibt es zur Zeit auch in unserem Carré an der Dietzenbacher Rodgaustraße und haben die hübschen Pilzchen angelockt. Eine Beobachtung, die Freude bereitet, denn unser aktueller [Fundkorbpilz](AA "Glossar-") ist keine häufige Art und zumindest regional stark rückläufig. Sie gilt als giftverdächtig, soll in geringer Konzentration *Gyromitrin* enthalten, das von der Frühlingslorchel bekannt ist. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/leotia-lubrica-grüngelbes-gallertkäppchen)
 
 <div style="clear:  both"></div>
 
