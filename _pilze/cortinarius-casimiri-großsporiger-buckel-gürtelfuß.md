@@ -23,6 +23,10 @@ Der 1914 angelegte Waldfriedhof Oberrad gehört zum Landschaftsschutzgebiet des 
 
 Er gehört zur enorm artenreichen Untergattung *Telamonia*, die zumeist schwer bestimmbare kleinere Gürtelfüße und Wasserköpfe enthält, die durch trockene Hüte und Stiele gekennzeichnet sind und um die selbst erfahrene Mykologen gern einen großen Bogen machen. Zu den Ausnahmen, also den gut identifizierbaren Arten, gehört der Großsporige Buckel-Gürtelfuß.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/cortinarius_casimiri_02_fk.jpg" %}
+{% include abbildung_ende.html %}
+
 **Beschreibung des Fundes:**
 
 **Hut:** kastanienbraun, ca. 3 cm Durchmesser, durchscheinend gerieft, mit stumpfem Buckel, [hygrophan](hygrophan "Glossar"), am Hutrand teilweise mit [Velumresten](Velum "Glossar") überfasert\
@@ -30,6 +34,10 @@ Er gehört zur enorm artenreichen Untergattung *Telamonia*, die zumeist schwer b
 **Stiel:** längsfaserig, hohl, bis zu 8 cm lang, 4 – 5 mm dick, in der oberen Hälfte weißlich überfasert, basal leicht verdickt\
 **Geruch:** nicht wahrgenommen\
 **Mikromerkmale:** Sporen gelblich, warzig, elliptisch bis zitronenförmig, 10 – 12 x 6 – 7,5 µm; Basidien 4-sporig, Länge bis 40 µm, Breite bis 9,5 µm; Lamellentrama ± regulär; Huthaut zum Teil aus blasigen Zellen, Septen mit Schnallen; Marginalzellen und Zystiden: nicht festgestellt
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/cortinarius_casimiri_03_fk.jpg" %}
+{% include abbildung_ende.html legende="Sporen" %}
 
 **Anmerkung von *Jürgen Marqua*:**
 
