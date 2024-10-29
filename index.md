@@ -23,6 +23,18 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cortinarius_casimiri_01_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+30.10.2024: Um die Schleierlinge der Untergattung *Telamonia* (Gürtelfüße & Wasserköpfe) machen selbst erfahrene [Mykologen](Mykologie "Glossar") einen möglichst großen Bogen; weil es sehr schwierig ist, sie sicher zu bestimmen. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Großsporige Buckel-Gürtelfuß *Cortinarius casimiri*, ist da eine bemerkenswerte Ausnahme. Allerdings ist Mikroskopieren unerlässlich. Auf die Sporen kommt es an! Gefunden habe ich ihn im Waldfriedhof Oberrad, einem der schönsten Biotope im Raum Frankfurt am Main. (Frank Kaster)
+
+[Mehr lesen >](/pilze/cortinarius-casimiri-großsporiger-buckel-gürtelfuß)
+
+ <div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hesperomyces_virescens_01_hl.jpg" %}
 {% include abbildung_ende.html %}
 
