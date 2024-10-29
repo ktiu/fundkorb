@@ -44,3 +44,5 @@ Er gehört zur enorm artenreichen Untergattung *Telamonia*, die zumeist schwer b
 > *Cortinarius casimiri* lässt sich anhand der für Telamonien untypisch großen und länglichen Sporen gut ausschlüsseln. Die Art fruktifiziert an manchen Standorten massenhaft und ist Aspekt bildend.“
 
 *Cortinarius casimiri* besiedelt unterschiedliche Biotope auf sauren, sandigen, aber auch lehmigen oder kalkhaltigen Böden, sowohl bei Laubbäumen wie auch bei Fichten. Erscheinungszeit ist September bis November.
+
+Ich möchte mich auch bei *Bernd Miggel* und *Dieter Gewalt* bedanken, die mich bei der Bestimmung entscheidend unterstützt haben.
