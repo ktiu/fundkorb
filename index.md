@@ -12,7 +12,6 @@ footer_scripts:
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pilzberatung_01_xx.png" %}
-{% include bild.html datei="" %}
 {% include abbildung_ende.html legende="Pilzberatung in Frankfurt am Main" %}
 
 Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließlich 17. November jeweils sonntags von 17 bis 20 Uhr statt. [Mehr lesen >](/termine)
@@ -23,7 +22,7 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_citrina_gg.jpg" %}
+{% include bild.html datei="/bilder/amanita_porphyria_04_hs.jpg" %}
 {% include abbildung_ende.html %}
 
 31.10.2024: Der Porphybraune Wulstling *Amanita porphyria* ist ein Pilz der Nadelwälder. Als aktueller [Fundkorbpilz](AA "Glossar-") gehört er nicht gerade zu den häufigen Arten, ist in Europa aber weit verbreitet. Sein sicherstes Kennzeichen ist der in der Stielknolle wahrnehmbare Geruch nach Kartoffelkeller oder -keimen, den Pilzfreunde vom [Gelben Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz) zur Genüge kennen. Da sich diese beiden Pilzarten aber nicht im Entferntesten ähnlich sehen, ist der Porphyrbraune Wulstling praktisch unverwechselbar. (Dieter Gewalt)
