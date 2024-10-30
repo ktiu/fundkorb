@@ -23,6 +23,18 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_citrina_gg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.10.2024: Der Porphybraune Wulstling *Amanita porphyria* ist ein Pilz der Nadelwälder. Als aktueller [Fundkorbpilz](AA "Glossar-") gehört er nicht gerade zu den häufigen Arten, ist in Europa aber weit verbreitet. Sein sicherstes Kennzeichen ist der in der Stielknolle wahrnehmbare Geruch nach Kartoffelkeller oder -keimen, den Pilzfreunde vom [Gelben Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz) zur Genüge kennen. Da sich diese beiden Pilzarten aber nicht im Entferntesten ähnlich sehen, ist der Porphyrbraune Wulstling praktisch unverwechselbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/amanita-porphyria-porphyrbrauner-wulstling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cortinarius_casimiri_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -41,30 +53,6 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 29.10.2024: Vermutlich haben Entomologen (Insektenforscher) und Naturbeobachter unseren aktuellen [Fundkorbpilz](AA "Glossar-") häufiger gesehen als Pilzsucher. Wer schaut schon einem Marienkäfer aufs Hinterteil? Hier wären die winzigen stäbchenförmigen grünlichen Fruchtkörperchen des Marienkäferpilzes *Hesperomyces virescens* zu sehen. Zur Zeit tummeln sich die hübschen Insekten wieder auf Pflanzen und fallen gelegentlich auch als Balkonbesucher auf. Die aktuell warmen Temperaturen machen’s möglich! (Dieter Gewalt)
 
  [Mehr lesen >](/pilze/hesperomyces-virescens-marienkäferpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/baeomyces_rufus_01_lh.jpg" %}
-{% include abbildung_ende.html %}
-
-28.10.2024: Wir bleiben mit unserem aktuellen [Fundkorbpilz](AA "Glossar-") im Fichtelgebirge. Bei einer Wanderung zur Girglhöhle entdeckte ich auf einem Granitfelsen großflächige Flechten mit einer Vielzahl von hellbraunen [Apothecien](Apothecien "Glossar"), die auf weißen Stielchen sitzen. Es ist die Braune Köpfchenflechte *Baeomyces rufus* (Vielen Dank an C.Weinkötz für die Bestimmungshilfe). Seit einigen Monaten sind im Fundkorb auch Flechten porträtiert. Eine Einführung zu diesem faszinierenden Thema finden sie [hier >](/verwandt/flechten). (Johann Rejek)
-
-[Mehr lesen >](pilze/baeomyces-rufus-braune-köpfchenflechte#)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_cinerella_04_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-27.10.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-") kommt diesmal aus einem Mischwald im Fichtelgebirge. Ca. 1km westlich des Nageler Sees entdeckte ich unter alten Farnwedeln einige Helmlinge. Von oben sahen sie mit ihren gräulichen Hüten aus wie viele Helmlingsarten. Ein Blick auf die Lamellenseite weckte jedoch meine Neugier. Die Lamellen standen relativ entfernt und liefen bogig herab. In Kombination mit einem deutlichen Mehlgeruch ist der Aschgraue Helmling *Mycena cinerella* schon am Fundort zu bestimmen. (Johann Rejek)
-
-[Mehr lesen >](/pilze/mycena-cinerella-aschgrauer-helmling)
 
 <div style="clear:  both"></div>
 
