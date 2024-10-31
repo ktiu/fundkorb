@@ -22,6 +22,18 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrophorus_lucorum_01_wk.jpg" %}
+{% include abbildung_ende.html %}
+
+01.11.2024: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") kommt aus einem jungen Waldstück nördlich von München. Bereits im letzten Jahr konnte ich die auffälligen, zitronengelben Fruchtkörper dort an der gleichen Stelle finden und durfte mich auch dieses Jahr über ein paar Farbtupfer in meinem seit Tagen nebvelverhangenen Hauswald freuen. Der Lärchenschneckling *Hygrophorus lucorum* ist - wie der Name schon andeutet - ein strikter Lärchenbegleiter und fruktifiziert wie viele andere Schnecklinge gerne im Spätherbst. (Veronika Ziegltrum) 
+
+[Mehr lesen >](/pilze/hygrophorus-lucorum-lärchenschneckling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_porphyria_04_hs.jpg" %}
 {% include abbildung_ende.html %}
 
