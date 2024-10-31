@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-31.10.2024: [Amanita porphyria - Porphyrbrauner Wulstling](/pilze/amanita-porphyria-porphyrbrauner-wulstling)  
+01.11.2024: [Hygrophorus lucorum - Lärchenschneckling](/pilze/hygrophorus-lucorum-lärchenschneckling)
+  
+31.10.2024: [Amanita porphyria - Porphyrbrauner Wulstling](/pilze/amanita-porphyria-porphyrbrauner-wulstling)\
 30.10.2024: [Cortinarius casimiri - Großsporiger Buckel-Gürtelfuß](/pilze/cortinarius-casimiri-großsporiger-buckel-gürtelfuß)\
 29.10.2024: [Hesperomyces virescens - Marienkäferpilz](/pilze/hesperomyces-virescens-marienkäferpilz)\
 28.10.2024: [Baeomyces rufus - Braune Köpfchenflechte](/pilze/baeomyces-rufus-braune-köpfchenflechte#)\
