@@ -14,7 +14,7 @@ literatur:
       Bände)"
   - url: https://www.schleimpilz-liz.de/index.php
 ---
-Schleimpilze sind keine Pilze sondern Organismen, die Eigenschaften von Tieren und Pilzen in sich vereinen. In ihrem ersten Lebensstadium entstehen aus keimenden Sporen winzige amöbenartige Tiere, die nur einen Zellkern besitzen und sich nach sexueller Paarung zu vielzelligen Lebewesen entwickeln, die sich kriechend fortbewegen und fressen. In diesem Stadium, *[Plasmodium](Plasmodium "Glossar")* genannt, erreichen sie beachtliche Größen mit Millionen von Zellkernen und sind zu erstaunlichen Leistungen fähig. In Experimenten haben sie bewiesen, dass sie sogar in einem Labyrinth (sie können ja nicht über die Wände schauen!) auf direktem Weg die angebotene Nahrung finden. Sie ernähren sich von organischem Material (Pilzsporen, Bakterien, Pflanzenreste, winzige Lebewesen), das sie mit ihrem Schleimkörper umfließen und verdauen.
+(Physaraceae) Schleimpilze sind keine Pilze sondern Organismen, die Eigenschaften von Tieren und Pilzen in sich vereinen. In ihrem ersten Lebensstadium entstehen aus keimenden Sporen winzige amöbenartige Tiere, die nur einen Zellkern besitzen und sich nach sexueller Paarung zu vielzelligen Lebewesen entwickeln, die sich kriechend fortbewegen und fressen. In diesem Stadium, *[Plasmodium](Plasmodium "Glossar")* genannt, erreichen sie beachtliche Größen mit Millionen von Zellkernen und sind zu erstaunlichen Leistungen fähig. In Experimenten haben sie bewiesen, dass sie sogar in einem Labyrinth (sie können ja nicht über die Wände schauen!) auf direktem Weg die angebotene Nahrung finden. Sie ernähren sich von organischem Material (Pilzsporen, Bakterien, Pflanzenreste, winzige Lebewesen), das sie mit ihrem Schleimkörper umfließen und verdauen.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/myxomyzet_plasmodium_01_br.jpg" %}
@@ -51,7 +51,7 @@ Bis jetzt sind knapp über 1000 Arten beschrieben worden, jedoch werden laufend 
 
 Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das [Video des US-amerikanischen Technikportals The Verge](https://www.spektrum.de/video/besitzen-schleimpilze-schwarmintelligenz/1592488) legt das nahe. Auch selbstfahrende Autos könnten vom intelligenten Verhalten der Schleimpilze etwas lernen. Wie kommen die Autoren zu dieser etwas verblüffenden Ansicht?
 
-Bisher 26 Schleimpilzarten aus 14 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
+Bisher 27 Schleimpilzarten aus 14 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
 
 [Amaurochaete atra (Stemonitidaceae) = Schwarzer Schillerborstling](/pilze/amaurochaete-atra-schwarzer-schillerborstling)\
 [Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
@@ -64,16 +64,16 @@ Bisher 26 Schleimpilzarten aus 14 Gattungen (7 Familien) im Fundkorb. Weitere we
 [Fuligo rufa (Physaraceae) - Rötende Lohblüte](/pilze/fuligo-rufa-rötliche-lohblüte)\
 [Fuligo septica (Physaraceae) - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
 [Hemitrichia serpula (Trichiaceae) - Netzschleimpilz](/pilze/hemitrichia-serpula-netzschleimpilz)\
-[Leocarpus fragilis - Löwenfrüchtchen](/pilze/leocarpus-fragilis-löwenfrüchtchen)\
+[Leocarpus fragilis (Physaraceae) - Löwenfrüchtchen](/pilze/leocarpus-fragilis-löwenfrüchtchen)\
 [Lindbladia tubulina (Enteridiaceae) Röhriger Schleimpilz](/pilze/lindbladia-tubulina-röhriger-schleimpilz)\
 [Lycogala epidendrum (Enteridiaceae) - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 [Metatrichia vesparium (Trichiaceae) - Wespennest](/pilze/metatrichia-vesparium-wespennest)\
 [Mucilago crustacea (Didymiaceae) - Schaumpilz, Grubiges Polsterkissen](/pilze/mucilago-crustacea-schaumpilz-grubiges-polsterkissen)\
-[Perichaena corticalis - Orangeroter Neststäubling](/pilze/perichaena-corticalis-orangeroter-neststäubling)\
+[Perichaena corticalis (Arcyriaceae) - Orangeroter Neststäubling](/pilze/perichaena-corticalis-orangeroter-neststäubling)\
 [Physarum cinereum (Physaridae) - Grauer Gras-Schleimpilz](/pilze/physarum-cinereum-grauer-gras-schleimpilz)\
 [Physarum utriculare (Physaridae) - Fadenfrucht-Schleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
 [Reticularia lycoperdon (Enteridiaceae) - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
-[Stemonitis axifera (Stemonitidaceae) - Gemeines Fadenstäubchen](/pilze/stemonitis-axifera-gemeines-fadenstäubchen)  
+[Stemonitis axifera (Stemonitidaceae) - Gemeines Fadenstäubchen](/pilze/stemonitis-axifera-gemeines-fadenstäubchen)\
 [Stemonitis fusca (Stemonitidaceae) - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)\
 [Trichia decipiens (Trichiaceae) - Rotköpfiger Schleimpilz](/pilze/trichia-decipiens-rotköpfiger-schleimpilz)\
 [Trichia favoginea (Trichiaceae) - Gelber Schleimpilz](/pilze/trichia-favoginea-gelber-schleimpilz)\
