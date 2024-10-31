@@ -69,10 +69,11 @@ Bisher 24 Schleimpilzarten aus 14 Gattungen (7 Familien) im Fundkorb. Weitere we
 [Lycogala epidendrum (Enteridiaceae) - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 [Metatrichia vesparium (Trichiaceae) - Wespennest](/pilze/metatrichia-vesparium-wespennest)\
 [Mucilago crustacea (Didymiaceae) - Schaumpilz, Grubiges Polsterkissen](/pilze/mucilago-crustacea-schaumpilz-grubiges-polsterkissen)\
-[Perichaena corticalis - Orangeroter Neststäubling](/pilze/perichaena-corticalis-orangeroter-neststäubling)  
+[Perichaena corticalis - Orangeroter Neststäubling](/pilze/perichaena-corticalis-orangeroter-neststäubling)\
 [Physarum cinereum (Physaridae) - Grauer Gras-Schleimpilz](/pilze/physarum-cinereum-grauer-gras-schleimpilz)\
 [Physarum utriculare (Physaridae) - Fadenfrucht-Schleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
 [Reticularia lycoperdon (Enteridiaceae) - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
+[Stemonitis axifera (Stemonitidaceae) - Gemeines Fadenstäubchen](/pilze/stemonitis-axifera-gemeines-fadenstäubchen)  
 [Stemonitis fusca (Stemonitidaceae) - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)\
 [Trichia decipiens (Trichiaceae) - Rotköpfiger Schleimpilz](/pilze/trichia-decipiens-rotköpfiger-schleimpilz)\
 [Trichia favoginea (Trichiaceae) - Gelber Schleimpilz](/pilze/trichia-favoginea-gelber-schleimpilz)\
