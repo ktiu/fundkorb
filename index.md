@@ -57,18 +57,6 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hesperomyces_virescens_01_hl.jpg" %}
-{% include abbildung_ende.html %}
-
-29.10.2024: Vermutlich haben Entomologen (Insektenforscher) und Naturbeobachter unseren aktuellen [Fundkorbpilz](AA "Glossar-") häufiger gesehen als Pilzsucher. Wer schaut schon einem Marienkäfer aufs Hinterteil? Hier wären die winzigen stäbchenförmigen grünlichen Fruchtkörperchen des Marienkäferpilzes *Hesperomyces virescens* zu sehen. Zur Zeit tummeln sich die hübschen Insekten wieder auf Pflanzen und fallen gelegentlich auch als Balkonbesucher auf. Die aktuell warmen Temperaturen machen’s möglich! (Dieter Gewalt)
-
- [Mehr lesen >](/pilze/hesperomyces-virescens-marienkäferpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
