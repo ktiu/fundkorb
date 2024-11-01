@@ -22,6 +22,18 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/armillaria_mellea_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.11.2024: Heute kommt der aktuelle [Fundkorbpilz](AA "Glossar-") aus dem Botanischen Garten in München. Es ist der Honiggelbe Hallimasch *Armillaria mellea*. Mehrere Fruchtkörper wuchsen an einem schon deutlich geschädigten Eschen-Ahorn Baum (Acer negundo). Man kann in leicht an dem deutlich unterseits gelb gefärbten Stielring und an den gelben Stielflocken erkennen. Er zählt zu den häufigeren der fünf Hallimascharten in Europa / Quelle: Wikipedia, Okt.2024. (Johann Rejek)
+
+[Mehr lesen >](/pilze/armillaria-mellea-honiggelber-hallimasch)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrophorus_lucorum_01_wk.jpg" %}
 {% include abbildung_ende.html %}
 
