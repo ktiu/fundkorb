@@ -31,6 +31,6 @@ Die nahezu glatten Sporen haben Durchmesser zwischen 5 und 7 µm.
 
 Das ähnliche [Dunkle Fadenstäubchen *Stemonitis fusca*](/pilze/stemonitis-fusca-dunkles-fadenstäubchen) hat dunklere, etwas größere (bis 2 cm lange) Sporokarpien, größere netzig ornamentierte Sporen (7 – 10 µm Durchmesser). 
 
-Beide Arten sind recht häufig. Sie kommen auf totem Holz, aber auch auf übergreifend auf umgebender Streu vor. Erscheinungszeit ist Mai bis November.
+Beide Arten sind recht häufig. Sie kommen auf totem Holz, aber auch  übergreifend auf umgebender Streu vor. Erscheinungszeit ist Mai bis November.
 
 Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
