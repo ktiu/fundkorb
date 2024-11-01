@@ -49,7 +49,7 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 {% include bild.html datei="/bilder/amanita_porphyria_04_hs.jpg" %}
 {% include abbildung_ende.html %}
 
-31.10.2024: Der Porphybraune Wulstling *Amanita porphyria* ist ein Pilz der Nadelwälder. Als aktueller [Fundkorbpilz](AA "Glossar-") gehört er nicht gerade zu den häufigen Arten, ist in Europa aber weit verbreitet. Sein sicherstes Kennzeichen ist der in der Stielknolle wahrnehmbare Geruch nach Kartoffelkeller oder -keimen, den Pilzfreunde vom [Gelben Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz) zur Genüge kennen. Da sich diese beiden Pilzarten aber nicht im Entferntesten ähnlich sehen, ist der Porphyrbraune Wulstling praktisch unverwechselbar. (Dieter Gewalt)
+31.10.2024: Der Porphyrbraune Wulstling *Amanita porphyria* ist ein Pilz der Nadelwälder. Als aktueller [Fundkorbpilz](AA "Glossar-") gehört er nicht gerade zu den häufigen Arten, ist in Europa aber weit verbreitet. Sein sicherstes Kennzeichen ist der in der Stielknolle wahrnehmbare Geruch nach Kartoffelkeller oder -keimen, den Pilzfreunde vom [Gelben Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz) zur Genüge kennen. Da sich diese beiden Pilzarten aber nicht im Entferntesten ähnlich sehen, ist der Porphyrbraune Wulstling praktisch unverwechselbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/amanita-porphyria-porphyrbrauner-wulstling)
 
