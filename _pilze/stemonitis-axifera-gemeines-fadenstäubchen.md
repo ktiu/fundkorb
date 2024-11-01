@@ -33,4 +33,4 @@ Das ähnliche [Dunkle Fadenstäubchen *Stemonitis fusca*](/pilze/stemonitis-fusc
 
 Beide Arten sind recht häufig. Sie kommen auf totem Holz, aber auch auf übergreifend auf umgebender Streu vor. Erscheinungszeit ist Mai bis November.
 
-Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum Fundkorb-Beitrag Schleimpilze, der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
+Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
