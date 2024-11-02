@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-02.11.2024: [Armillaria mellea - Honiggelber Hallimasch](/pilze/armillaria-mellea-honiggelber-hallimasch)  
+03.11.2024: [Mycena stylobates - Postament-Helmling](/pilze/mycena-stylobates-postament-helmling)  
+02.11.2024: [Armillaria mellea - Honiggelber Hallimasch](/pilze/armillaria-mellea-honiggelber-hallimasch)\
 01.11.2024: [Hygrophorus lucorum - Lärchenschneckling](/pilze/hygrophorus-lucorum-lärchenschneckling)
 
 31.10.2024: [Amanita porphyria - Porphyrbrauner Wulstling](/pilze/amanita-porphyria-porphyrbrauner-wulstling)\
