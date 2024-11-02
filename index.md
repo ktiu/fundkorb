@@ -22,6 +22,18 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_stylobates_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+03.11.2024: Unter den kleinen weißlichen Helmlingen gibt es einige, die durch ein besonderes Merkmal auffallen: ein wenige Millimeter großes Basalscheibchen am Stielgrund. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Postament-Helmling *Mycena stylobates*. Da er keine besonderen Ansprüche an Waldtyp oder Bodenbeschaffenheit stellt und in Europa weit verbreitet und recht häufig ist, kann er von Pilzfreunden bei feuchter Witterung und gezielter Suche leicht gefunden werden. Seine Substrate sind vor allem angemoderte Laubblätter, aber auch Nadelstreu, Ästchen und Zweige, Pflanzen- und Holzreste. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/mycena-stylobates-postament-helmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/armillaria_mellea_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -42,30 +54,6 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 [Mehr lesen >](/pilze/hygrophorus-lucorum-lärchenschneckling)
 
 <div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_porphyria_04_hs.jpg" %}
-{% include abbildung_ende.html %}
-
-31.10.2024: Der Porphyrbraune Wulstling *Amanita porphyria* ist ein Pilz der Nadelwälder. Als aktueller [Fundkorbpilz](AA "Glossar-") gehört er nicht gerade zu den häufigen Arten, ist in Europa aber weit verbreitet. Sein sicherstes Kennzeichen ist der in der Stielknolle wahrnehmbare Geruch nach Kartoffelkeller oder -keimen, den Pilzfreunde vom [Gelben Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz) zur Genüge kennen. Da sich diese beiden Pilzarten aber nicht im Entferntesten ähnlich sehen, ist der Porphyrbraune Wulstling praktisch unverwechselbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/amanita-porphyria-porphyrbrauner-wulstling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cortinarius_casimiri_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-30.10.2024: Um die Schleierlinge der Untergattung *Telamonia* (Gürtelfüße & Wasserköpfe) machen selbst erfahrene [Mykologen](Mykologie "Glossar") einen möglichst großen Bogen; weil es sehr schwierig ist, sie sicher zu bestimmen. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Großsporige Buckel-Gürtelfuß *Cortinarius casimiri*, ist da eine bemerkenswerte Ausnahme. Allerdings ist Mikroskopieren unerlässlich. Auf die Sporen kommt es an! Gefunden habe ich ihn im Waldfriedhof Oberrad, einem der schönsten Biotope im Raum Frankfurt am Main. (Frank Kaster)
-
-[Mehr lesen >](/pilze/cortinarius-casimiri-großsporiger-buckel-gürtelfuß)
-
- <div style="clear:  both"></div>
 
 - - -
 
