@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-03.11.2024: [Mycena stylobates - Postament-Helmling](/pilze/mycena-stylobates-postament-helmling)  
+04.11.2024: [Inocybe geophylla - Seidiger Risspilz](/pilze/inocybe-geophylla-seidiger-risspilz)  
+03.11.2024: [Mycena stylobates - Postament-Helmling](/pilze/mycena-stylobates-postament-helmling)\
 02.11.2024: [Armillaria mellea - Honiggelber Hallimasch](/pilze/armillaria-mellea-honiggelber-hallimasch)\
 01.11.2024: [Hygrophorus lucorum - Lärchenschneckling](/pilze/hygrophorus-lucorum-lärchenschneckling)
 
