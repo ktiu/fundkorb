@@ -22,6 +22,18 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/inocybe_geophylla_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.11.2024: So häufig wie zur Zeit habe ich den Seidigen Risspilz *Inocybe geophylla* noch nie gesehen. Geradezu massenhaft wächst er an Waldwegrändern und ist daher mein aktueller  [Fundkorbpilz](AA "Glossar-"). In dieser artenreichen und recht schwierigen Gattung gehört er wegen seiner Form und der weißen Farbe  zu den leicht kenntlichen Arten. Eigentlich sieht er gar nicht wie ein typischer [Risspilz](/verwandt/risspilze) aus, aber man muss ihn nur an die Nase halten, um ihn aufgrund seines spermatischen Geruchs als Vertreter seiner Gattung zu erkennen. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/inocybe-geophylla-seidiger-risspilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_stylobates_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -30,6 +42,8 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 [Mehr lesen >](/pilze/mycena-stylobates-postament-helmling)
 
 <div style="clear:  both"></div>
+
+
 
 - - -
 
