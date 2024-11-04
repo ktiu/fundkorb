@@ -48,9 +48,15 @@ Als "echter" Schwefelröhrling gilt übrigens der noch seltenere Schwefelgelbe H
 
 - - -
 
-**Nachtrag:**  
+**Nachtrag:**\
 Zwei Vorkommen in Niedersachsen:
 Den Falschen Schwefelröhrling *Boletus junquilleus* habe ich bisher zweimal gefunden: 2023 in der Lüneburger Heide bei Unterlüß, im November 2024 im Landkreis Gifhorn zwischen Sprakensehl und Weyhausen an einem Straßenrand. Zum Fund bei Gifhorn: In unmittelbarer Umgebung an einem Straßenrand standen etliche Flockenstielige Hexenröhrlinge. Neben der Straße befand sich ein Mischwald mit Buchen, Birken, Eichen und Kiefern. Ich vermute, dass der Heidesandboden hier oberflächlich sauer ist, da etliche Heidelbeersträucher zu sehen waren.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/boletus_junquilleus_05_vv.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/boletus_junquilleus_06_vv.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="2 Fotos von Verena Venske" %}
+
 
 
 Er schmeckt sehr gut, tatsächlich sehr ähnlich wie Hexenröhrlinge, aber etwas milder und nussiger. Da der Pilz so selten ist, werde ich ihn in Zukunft schonen, die Fundstelle aber in den kommenden Jahren gut im Auge behalten.
