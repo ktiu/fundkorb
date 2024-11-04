@@ -22,6 +22,18 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_deterrimus_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+05.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fichtenreizker *Lactarius deterrimus*, ein Mykorrhizapilz, der an die Fichte gebunden ist. Im Allgäu habe ich ihn im Oktober massenhaft angetroffen und jetzt auch im Rhein-Main-Gebiet. Typische Merkmale sind ein Stiel ohne Grübchen, sowie die trüb orangene Farbe mit häufig spangrünen Bereichen. Wie alle essbaren Reizker besitzt er karottenrote Milch, die sich nach 10 Minuten weinrot verfärbt. Das Fleisch ist brüchig und der Stiel hohl. Geschmacklich ist er ausgezeichnet, nicht ganz so delikat wie der [Edelreizker](/pilze/lactarius-deliciosus-edelreizker). (Béla Salgo, 12)
+
+[Mehr lesen >](/pilze/lactarius-deterrimus-fichtenreizker)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cortinarius_torvus_02_uwi.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -40,18 +52,6 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 04.11.2024: So häufig wie zur Zeit habe ich den Seidigen Risspilz *Inocybe geophylla* noch nie gesehen. Geradezu massenhaft wächst er an Waldwegrändern und ist daher mein aktueller  [Fundkorbpilz](AA "Glossar-"). In dieser artenreichen und recht schwierigen Gattung gehört er wegen seiner Form und der weißen Farbe  zu den leicht kenntlichen Arten. Eigentlich sieht er gar nicht wie ein typischer [Risspilz](/verwandt/risspilze) aus, aber man muss ihn nur an die Nase halten, um ihn aufgrund seines spermatischen Geruchs als Vertreter seiner Gattung zu erkennen. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/inocybe-geophylla-seidiger-risspilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_stylobates_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-03.11.2024: Unter den kleinen weißlichen Helmlingen gibt es einige, die durch ein besonderes Merkmal auffallen: ein wenige Millimeter großes Basalscheibchen am Stielgrund. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Postament-Helmling *Mycena stylobates*. Da er keine besonderen Ansprüche an Waldtyp oder Bodenbeschaffenheit stellt und in Europa weit verbreitet und recht häufig ist, kann er von Pilzfreunden bei feuchter Witterung und gezielter Suche leicht gefunden werden. Seine Substrate sind vor allem angemoderte Laubblätter, aber auch Nadelstreu, Ästchen und Zweige, Pflanzen- und Holzreste. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/mycena-stylobates-postament-helmling)
 
 <div style="clear:  both"></div>
 
