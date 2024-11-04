@@ -22,6 +22,18 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cortinarius_torvus_02_uwi.jpg" %}
+{% include abbildung_ende.html %}
+
+05.11.2024:  Machen wir als erstes einen Geruchstest bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Da rümpfen viele die Nase, verziehen das Gesicht und würden den Wohlriechenden Gürtelfuß *Cortinarius torvus* gern in „Übelriechenden Stinkschleierling“ umtaufen. Die recht stattliche Art ist zur Zeit in vielen Wäldern bei Buchen zu finden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cortinarius-torvus-wohlriechender-gürtelfuß)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/inocybe_geophylla_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -40,32 +52,6 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 03.11.2024: Unter den kleinen weißlichen Helmlingen gibt es einige, die durch ein besonderes Merkmal auffallen: ein wenige Millimeter großes Basalscheibchen am Stielgrund. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Postament-Helmling *Mycena stylobates*. Da er keine besonderen Ansprüche an Waldtyp oder Bodenbeschaffenheit stellt und in Europa weit verbreitet und recht häufig ist, kann er von Pilzfreunden bei feuchter Witterung und gezielter Suche leicht gefunden werden. Seine Substrate sind vor allem angemoderte Laubblätter, aber auch Nadelstreu, Ästchen und Zweige, Pflanzen- und Holzreste. (Dieter Gewalt) 
 
 [Mehr lesen >](/pilze/mycena-stylobates-postament-helmling)
-
-<div style="clear:  both"></div>
-
-
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/armillaria_mellea_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.11.2024: Heute kommt der aktuelle [Fundkorbpilz](AA "Glossar-") aus dem Botanischen Garten in München. Es ist der Honiggelbe Hallimasch *Armillaria mellea*. Mehrere Fruchtkörper wuchsen an einem schon deutlich geschädigten Eschen-Ahornbaum (*Acer negundo*). Man kann ihn leicht an dem unterseits gelb gefärbten Stielring und an den gelben Stielflocken erkennen. Er zählt zu den häufigeren der fünf Hallimascharten in Europa / Quelle: Wikipedia, Okt. 2024. (Johann Rejek)
-
-[Mehr lesen >](/pilze/armillaria-mellea-honiggelber-hallimasch)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrophorus_lucorum_01_wk.jpg" %}
-{% include abbildung_ende.html %}
-
-01.11.2024: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") kommt aus einem jungen Waldstück nördlich von München. Bereits im letzten Jahr konnte ich die auffälligen, zitronengelben Fruchtkörper dort an der gleichen Stelle finden und durfte mich auch dieses Jahr über ein paar Farbtupfer in meinem seit Tagen nebvelverhangenen Hauswald freuen. Der Lärchenschneckling *Hygrophorus lucorum* ist - wie der Name schon andeutet - ein strikter Lärchenbegleiter und fruktifiziert wie viele andere Schnecklinge gerne im Spätherbst. (Veronika Ziegltrum) 
-
-[Mehr lesen >](/pilze/hygrophorus-lucorum-lärchenschneckling)
 
 <div style="clear:  both"></div>
 
