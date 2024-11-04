@@ -25,7 +25,7 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 {% include bild.html datei="/bilder/lactarius_deterrimus_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
-05.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fichtenreizker *Lactarius deterrimus*, ein Mykorrhizapilz, der an die Fichte gebunden ist. Im Allgäu habe ich ihn im Oktober massenhaft angetroffen und jetzt auch im Rhein-Main-Gebiet. Typische Merkmale sind ein Stiel ohne Grübchen, sowie die trüb orangene Farbe mit häufig spangrünen Bereichen. Wie alle essbaren Reizker besitzt er karottenrote Milch, die sich nach 10 Minuten weinrot verfärbt. Das Fleisch ist brüchig und der Stiel hohl. Geschmacklich ist er ausgezeichnet, nicht ganz so delikat wie der [Edelreizker](/pilze/lactarius-deliciosus-edelreizker). (Béla Salgo, 12)
+05.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fichtenreizker *Lactarius deterrimus*, ein Mykorrhizapilz, der an die Fichte gebunden ist. Im Allgäu habe ich ihn im Oktober massenhaft angetroffen und jetzt auch im Rhein-Main-Gebiet. Typische Merkmale sind ein Stiel ohne Grübchen, sowie die trüb orangene Farbe mit häufig spangrünen Bereichen. Wie alle essbaren Reizker besitzt er karottenrote Milch, die sich bei ihm aber nach 10 Minuten weinrot verfärbt. Das Fleisch ist brüchig und der Stiel hohl. Geschmacklich ist er ausgezeichnet, nicht ganz so delikat wie der [Edelreizker](/pilze/lactarius-deliciosus-edelreizker). (Béla Salgo, 12)
 
 [Mehr lesen >](/pilze/lactarius-deterrimus-fichtenreizker)
 
