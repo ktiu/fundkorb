@@ -20,13 +20,13 @@ literatur:
 {% include bild.html datei="/bilder/boletus_junquilleus_02_dg.jpg" gross=true %}
 {% include abbildung_ende.html %}
 
-Diesen Dickröhrling als Hexenröhrling oder als Varietät vom [Flockenstieligen (Boletus erythropus)](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling) zu bezeichnen, erscheint mir schwer nachvollziehbar. Mit diesem hat er zwar stark blauendes Fleisch gemein, aber weder rote Poren noch einen braunen Hut. Vorherrschend sind gelbliche oder gelborangene Farben, und das ist wohl sein wichtigstes Erkennungsmerkmal.
+Diesen Dickröhrling als Hexenröhrling oder als Varietät vom [Flockenstieligen (*Boletus erythropus*)](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling) zu bezeichnen, erscheint mir schwer nachvollziehbar. Mit diesem hat er zwar stark blauendes Fleisch gemein, aber weder rote Poren noch einen braunen Hut. Vorherrschend sind gelbliche oder gelborangene Farben, und das ist wohl sein wichtigstes Erkennungsmerkmal.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/boletus_junquilleus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Der Falsche Schwefelröhrling ist ein sehr seltener Laubwaldpilz, der bevorzugt bei Buchen wächst. Ich habe ihn nur ein einziges Mal gefunden, am 31. Juli 2011 im Mörsbacher Grund bei Messel (Südhessen). Standortfotos wurden nicht gemacht, auch nicht beim hier abgebildeten Exemplar, einem Fund von Lars Bartels in der Nähe von Bad Orb, das mir am  24 Juli 2021 zur Bestimmung gebracht worden war.
+Der Falsche Schwefelröhrling ist ein sehr seltener Laubwaldpilz, der bevorzugt bei Buchen wächst. Ich habe ihn nur ein einziges Mal gefunden, am 31. Juli 2011 im Mörsbacher Grund bei Messel (Südhessen). In der unmittelbaren Umgebung standen mehrere [Flockenstielige Hexenröhrlinge (Boletus erythropus)](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling). Standortfotos wurden nicht gemacht, auch nicht beim hier abgebildeten Exemplar, einem Fund von *Lars Bartels* in der Nähe von Bad Orb, das mir am  24 Juli 2021 zur Bestimmung gebracht worden war.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/boletus_junquilleus_04_fk.jpg" %}
@@ -45,3 +45,8 @@ Dictypus junquilleus\
 Suillellus queletii fm. junquilleus
 
 Als "echter" Schwefelröhrling gilt übrigens der noch seltenere Schwefelgelbe Holzröhrling  *Boletus sulphureus* (neuer Name: *Buchwaldoboletus hemitrichus*).
+
+- - -
+
+**Nachtrag:** Zwei Vorkommen in Niedersachsen
+Den Falschen Schwefelröhrling *Boletus junquilleus* habe ich bisher zweimal gefunden: 2023 in der Lüneburger Heide bei Unterlüß, im November 2024 im Landkreis Gifhorn zwischen Sprakensehl und Weyhausen an einem Straßenrand. Zum Fund bei Gifhorn: In unmittelbarer Umgebung an einem Straßenrand standen etliche Flockenstielige Hexenröhrlinge. Neben der Straße befand sich ein Mischwald mit Buchen, Birken und Kiefern, Ich vermute, dass der Heidesandboden hier oberflächlich sauer ist, da etliche Heidelbeersträucher zu sehen waren. (*Verena Venske*, Braunschweig)
