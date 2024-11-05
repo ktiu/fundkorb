@@ -25,7 +25,7 @@ Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Fü
 {% include bild.html datei="/bilder/phlebia_centrifuga_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-06.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Heidelbeer-Kammpilz *Phlebia centrifuga*, Er gehört zur Familie der Meruliaceae und wächst resupinat an Laub-, seltener an Nadelholz. Sein Fruchtkörper ist in frischem Zustand weiß mit intensiv inkarnatroten, haarig-fransigen Rändern. Diese auffällige Rotfärbung verschwindet jedoch nach kurzer Zeit, und der Pilz färbt sich dann unauffällig cremefarben bis hellbräunlich. In Deutschland ist er sehr selten und wird auf der Roten Liste als vom Aussterben bedroht eingestuft  (Erik Hock)
+06.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Heidelbeer-Kammpilz *Phlebia centrifuga*. Er gehört zur Familie der Meruliaceae und wächst resupinat an Laub-, seltener an Nadelholz. Sein Fruchtkörper ist in frischem Zustand weiß mit intensiv inkarnatroten, haarig-fransigen Rändern. Diese auffällige Rotfärbung verschwindet jedoch nach kurzer Zeit, und der Pilz färbt sich dann unauffällig cremefarben bis hellbräunlich. In Deutschland ist er sehr selten und wird auf der Roten Liste als vom Aussterben bedroht eingestuft  (Erik Hock)
 
 [Mehr lesen >](/pilze/phlebia-centrifuga-heidelbeer-kammpilz)
 
