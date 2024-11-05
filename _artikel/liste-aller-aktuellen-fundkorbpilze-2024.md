@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+0﻿6.11.2024: [Phlebia centrifuga - Heidelbeer-Kammpilz](//phlebia-centrifuga-heidelbeer-kammpilz)  
 05.11.2024: [Lactarius deterrimus - Fichtenreizker](/pilze/lactarius-deterrimus-fichtenreizker)  
 04.11.2024: [Inocybe geophylla - Seidiger Risspilz](/pilze/inocybe-geophylla-seidiger-risspilz)\
 03.11.2024: [Mycena stylobates - Postament-Helmling](/pilze/mycena-stylobates-postament-helmling)\
