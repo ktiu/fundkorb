@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: inquinans = verschmutzend
   familie: Phacidiaceae
 profil:
-  aktualisiert: 2022-01-04
+  aktualisiert: 2024-11-06
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
