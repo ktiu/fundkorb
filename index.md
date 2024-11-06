@@ -16,7 +16,9 @@ footer_scripts:
 
 Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließlich 17. November jeweils sonntags von 17 bis 20 Uhr statt. [Mehr lesen >](/termine)
 
-Neuer Exkursionstermin: Freitag, 8. November 2024 13:00 Uhr: **Pilzkundliche Führung im Frankfurter Stadtwald**\
+Neuer Exkursionstermine:\
+Freitag, 8. November 2024, 13:00 Uhr: **Pilzkundliche Führung im Frankfurter Stadtwald**\
+Samstag, 16. November 2024, 10:00 Uhr: **Der Wald und seine Pilze im November**\
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
