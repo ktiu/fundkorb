@@ -22,6 +22,11 @@ Samstag, 16. November 2024, 10:00 Uhr: **Der Wald und seine Pilze im November**\
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bulgaria_inquinans_01_mi.jpg" %}
+{% include abbildung_ende.html %}
+
 07.11.2024: Wer sich auf die Suche nach unserem heutigen aktuellen [Fundkorbpilz](AA "Glossar-") begibt, der sollte nach liegenden (meist gefällten) Eichenstämmen Ausschau halten. Für den Schmutzbecherling *Bulgaria inquinans* ist das die bevorzugte Baumart. Meistens findet man mehrere Fruchtkörper in verschiedenen Wachstumsstadien an einem Stamm. So war es auch bei unserem Fund im Berglholz (kleines Waldstück in München). Um die Sporenpulverfarbe zu ermitteln, reicht es mit einem Finger einen reifen Fruchtkörper zu berühren. Die Farbe erinnert an schwarze Zeichenkohle. (Johann Rejek)
 
 [Mehr lesen >](/pilze/bulgaria-inquinans-schmutzbecherling)
