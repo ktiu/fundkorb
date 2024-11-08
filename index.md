@@ -39,7 +39,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/mycena_floridula_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-08.11.2024: Einen Helmling zu finden ist im Spätherbst nicht allzu schwierig. Viele wachsen gesellig und sind - trotz ihrer Kleinheit (Hutdurchmesser selten größer 15mm) -  im Moos mit ihren hellen und/oder meist grauen Hüten leicht zu erkennen. Nicht so bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Hellroten Helmling *Mycena floridula*. Sein namensgebender hellroter Hut ist zwar leicht zu erkennen, aber er wächst meist einzeln und sein Vorkommen ist eher selten (RL Vorwarnstufe). Finden ist da also eher Glücksche.  Ich fand ihn in hohem Gras bei Kieferbäumen (Mallertshofen nördl. München). Johann Rejek
+08.11.2024: Einen Helmling zu finden ist im Spätherbst nicht allzu schwierig. Viele wachsen gesellig und sind - trotz ihrer Kleinheit (Hutdurchmesser selten größer 15mm) -  im Moos mit ihren hellen und/oder meist grauen Hüten leicht zu erkennen. Nicht so bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Hellroten Helmling *Mycena floridula*. Sein namensgebender hellroter Hut ist zwar leicht zu erkennen, aber er wächst meist einzeln und sein Vorkommen ist eher selten (RL Vorwarnstufe). Finden ist da also eher Glücksache. Ich fand ihn in hohem Gras bei Kieferbäumen (Mallertshofen nördl. München). Johann Rejek
 
 [Mehr lesen >](/pilze/mycena-floridula-hellroter-helmling)
 
