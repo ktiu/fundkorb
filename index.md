@@ -23,6 +23,18 @@ Samstag, 16. November 2024, 10:00 Uhr: **Der Wald und seine Pilze im November**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cortinarius_torvus_01_uwi.jpg" %}
+{% include abbildung_ende.html %}
+
+09.11.2024: Machen wir als erstes einen Geruchstest bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Da rümpfen viele die Nase, verziehen das Gesicht und würden den Wohlriechenden Gürtelfuß *Cortinarius torvus* gern in „Übelriechenden Stinkschleierling“ umtaufen. Die recht stattliche Art ist zur Zeit in vielen Wäldern bei Buchen zu finden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/cortinarius-torvus-wohlriechender-gürtelfuß)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_floridula_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -41,30 +53,6 @@ Samstag, 16. November 2024, 10:00 Uhr: **Der Wald und seine Pilze im November**\
 07.11.2024: Wer sich auf die Suche nach unserem heutigen aktuellen [Fundkorbpilz](AA "Glossar-") begibt, der sollte nach liegenden (meist gefällten) Eichenstämmen Ausschau halten. Für den Schmutzbecherling *Bulgaria inquinans* ist das die bevorzugte Baumart. Meistens findet man mehrere Fruchtkörper in verschiedenen Wachstumsstadien an einem Stamm. So war es auch bei unserem Fund im Berglholz (kleines Waldstück in München). Um die Sporenpulverfarbe zu ermitteln, reicht es mit einem Finger einen reifen Fruchtkörper zu berühren. Die Farbe erinnert an schwarze Zeichenkohle. (Johann Rejek)
 
 [Mehr lesen >](/pilze/bulgaria-inquinans-schmutzbecherling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phlebia_centrifuga_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Heidelbeer-Kammpilz *Phlebia centrifuga*. Er gehört zur Familie der *Meruliaceae* und wächst [resupinat](resupinat "Glossar") an Laub-, seltener an Nadelholz. Sein Fruchtkörper ist in frischem Zustand weiß mit intensiv inkarnatroten, haarig-fransigen Rändern. Diese auffällige Rotfärbung verschwindet jedoch nach kurzer Zeit, und der Pilz färbt sich dann unauffällig cremefarben bis hellbräunlich. In Deutschland ist er sehr selten und wird auf der Roten Liste als vom Aussterben bedroht eingestuft  (Erik Hock)
-
-[Mehr lesen >](/pilze/phlebia-centrifuga-heidelbeer-kammpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_deterrimus_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-05.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fichtenreizker *Lactarius deterrimus*, ein Mykorrhizapilz, der an die Fichte gebunden ist. Im Allgäu habe ich ihn im Oktober massenhaft angetroffen und jetzt auch im Rhein-Main-Gebiet. Typische Merkmale sind ein Stiel ohne Grübchen, sowie die trüb orangene Farbe mit häufig spangrünen Bereichen. Wie alle essbaren Reizker besitzt er karottenrote Milch, die sich bei ihm aber nach 10 Minuten weinrot verfärbt. Das Fleisch ist brüchig und der Stiel hohl. Geschmacklich ist er ausgezeichnet, nicht ganz so delikat wie der [Edelreizker](/pilze/lactarius-deliciosus-edelreizker). (Béla Salgo, 12)
-
-[Mehr lesen >](/pilze/lactarius-deterrimus-fichtenreizker)
 
 <div style="clear:  both"></div>
 
