@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-08.11.2024: [Mycena floridula - Hellroter Helmling] (/pilze/mycena-floridula-hellroter-helmling)  
+09.11.2024: [Cortinarius torvus - Wohlriechender Gürtelfuß](/pilze/cortinarius-torvus-wohlriechender-gürtelfuß)  
+08.11.2024: [Mycena floridula - Hellroter Helmling](/pilze/mycena-floridula-hellroter-helmling)\
 07.11.2024: [Bulgaria inquinans - Schmutzbecherling](/pilze/bulgaria-inquinans-schmutzbecherling)\
 0﻿6.11.2024: [Phlebia centrifuga - Heidelbeer-Kammpilz](//phlebia-centrifuga-heidelbeer-kammpilz)\
 05.11.2024: [Lactarius deterrimus - Fichtenreizker](/pilze/lactarius-deterrimus-fichtenreizker)\
