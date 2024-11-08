@@ -2,8 +2,8 @@
 aktivitaet: Der Wald und seine Pilze im November
 zeit: 2024-11-16T10:00:17.655Z
 bis: ""
-anmeldung_offen: true
-anmeldung_noetig: true
+anmeldung_offen: false
+anmeldung_noetig: false
 published: true
 bilder: []
 ---
@@ -11,3 +11,4 @@ Ein Wald ist mehr als nur eine großflächige Ansammlung von Bäumen. Er ist ein
 
 Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung mitgeteilt.
 
+**Dieser Termin ist ausgebucht**
