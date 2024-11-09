@@ -24,6 +24,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pluteus_petasatus_05_hs.jpg" %}
+{% include abbildung_ende.html %}
+
+10.11.2024: Es gibt nur wenige Dachpilze, die man auf den ersten Blick sicher bestimmen kann. Auch bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Seidigen Dachpilz *Pluteus petasatus* ist Mikroskopieren angesagt. Seine weißlichen bis creme-ockerfarbenen Hüte können Durchmesser bis zu 15 cm haben. Die Huthaut reißt im Zentrum mehr oder weniger stark auf, hin und wieder sogar die gesamte Hutfläche. Wichtig sind Mikromerkmale wie Sporenform und -größe, ob die Hyphen Schnallen tragen und die Pleurozystiden Haken haben. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/pluteus-petasatus-seidiger-dachpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cortinarius_torvus_01_uwi.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -42,18 +54,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 08.11.2024: Einen Helmling zu finden ist im Spätherbst nicht allzu schwierig. Viele wachsen gesellig und sind - trotz ihrer Kleinheit (Hutdurchmesser selten größer 15mm) -  im Moos mit ihren hellen und/oder meist grauen Hüten leicht zu erkennen. Nicht so bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Hellroten Helmling *Mycena floridula*. Sein namensgebender hellroter Hut ist zwar leicht zu erkennen, aber er wächst meist einzeln und sein Vorkommen ist eher selten (RL Vorwarnstufe). Finden ist da also eher Glücksache. Ich fand ihn in hohem Gras bei Kieferbäumen (Mallertshofen nördl. München). Johann Rejek
 
 [Mehr lesen >](/pilze/mycena-floridula-hellroter-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bulgaria_inquinans_01_mi.jpg" %}
-{% include abbildung_ende.html %}
-
-07.11.2024: Wer sich auf die Suche nach unserem heutigen aktuellen [Fundkorbpilz](AA "Glossar-") begibt, der sollte nach liegenden (meist gefällten) Eichenstämmen Ausschau halten. Für den Schmutzbecherling *Bulgaria inquinans* ist das die bevorzugte Baumart. Meistens findet man mehrere Fruchtkörper in verschiedenen Wachstumsstadien an einem Stamm. So war es auch bei unserem Fund im Berglholz (kleines Waldstück in München). Um die Sporenpulverfarbe zu ermitteln, reicht es mit einem Finger einen reifen Fruchtkörper zu berühren. Die Farbe erinnert an schwarze Zeichenkohle. (Johann Rejek)
-
-[Mehr lesen >](/pilze/bulgaria-inquinans-schmutzbecherling)
 
 <div style="clear:  both"></div>
 
