@@ -24,6 +24,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/volvariella_gloiocephala_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.11.2024: Der Große Scheidling *Volvariella gloiocephala* gehört zu den Pilzarten, die regelmäßig und häufig in unserer Dietzenbacher Parkanlage erscheinen. In solchen Mengen wie 2024 habe ich ihn allerdings noch nie erlebt und deshalb soll er auch unser aktueller Fundkorbpilz sein. An seinem ringlosen Stiel, den scheidenartigen [Velumresten](Velum "Glossar") am Stielgrund und den großen grauweißen Hüten mit den rosa Lamellen ist er gut zu erkennen, aber nicht unbedingt für die Kücke zu empfehlen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/volvariella-gloiocephala-großer-scheidling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_petasatus_05_hs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -42,18 +54,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 09.11.2024: Machen wir als erstes einen Geruchstest bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Da rümpfen viele die Nase, verziehen das Gesicht und würden den Wohlriechenden Gürtelfuß *Cortinarius torvus* gern in „Übelriechenden Stinkschleierling“ umtaufen. Die recht stattliche Art ist zur Zeit in vielen Wäldern bei Buchen zu finden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cortinarius-torvus-wohlriechender-gürtelfuß)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_floridula_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-08.11.2024: Einen Helmling zu finden ist im Spätherbst nicht allzu schwierig. Viele wachsen gesellig und sind - trotz ihrer Kleinheit (Hutdurchmesser selten größer 15mm) -  im Moos mit ihren hellen und/oder meist grauen Hüten leicht zu erkennen. Nicht so bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Hellroten Helmling *Mycena floridula*. Sein namensgebender hellroter Hut ist zwar leicht zu erkennen, aber er wächst meist einzeln und sein Vorkommen ist eher selten (RL Vorwarnstufe). Finden ist da also eher Glücksache. Ich fand ihn in hohem Gras bei Kieferbäumen (Mallertshofen nördl. München). Johann Rejek
-
-[Mehr lesen >](/pilze/mycena-floridula-hellroter-helmling)
 
 <div style="clear:  both"></div>
 
