@@ -57,17 +57,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 
 <div style="clear:  both"></div>
 
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cortinarius_torvus_01_uwi.jpg" %}
-{% include abbildung_ende.html %}
-
-09.11.2024: Machen wir als erstes einen Geruchstest bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Da rümpfen viele die Nase, verziehen das Gesicht und würden den Wohlriechenden Gürtelfuß *Cortinarius torvus* gern in „Übelriechenden Stinkschleierling“ umtaufen. Die recht stattliche Art ist zur Zeit in vielen Wäldern bei Buchen zu finden. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cortinarius-torvus-wohlriechender-gürtelfuß)
-
-<div style="clear:  both"></div>
 
 - - -
 
