@@ -27,7 +27,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/mycena_galopus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-12.11.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Weißmilchende Helmling *Mycena Galopus*. Er ist ein typischer Spätherbstpilz in allen Waldgesellschaften und war bei der gestrigen Vereinswanderung (Pilzverein München) in der Nähe von Allershausen der häufigste Helmling. Von oben betrachtet ist er kaum von anderen grauhütigen Helmlingen zu unterscheiden. Seine meist an der Stielbasis reichlich austretende reinweiße Milch ist jedoch ein eindeutiges Bestimmungsmerkmal. (Johann Rejek)
+12.11.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Weißmilchende Helmling *Mycena galopus*. Er ist ein typischer Spätherbstpilz in allen Waldgesellschaften und war bei der gestrigen Vereinswanderung (Pilzverein München) in der Nähe von Allershausen der häufigste Helmling. Von oben betrachtet ist er kaum von anderen grauhütigen Helmlingen zu unterscheiden. Seine meist an der Stielbasis reichlich austretende reinweiße Milch ist jedoch ein eindeutiges Bestimmungsmerkmal. (Johann Rejek)
 
 [Mehr lesen >](/pilze/mycena-galopus-weißmilchender-helmling)
 
