@@ -6,7 +6,7 @@ beschreibung:
   erlaeuterung: galopus = Milchfuß
   familie: Mycenaceae
 profil:
-  aktualisiert: 2022-11-30
+  aktualisiert: 2024-11-11
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -19,6 +19,10 @@ literatur:
 Seine charakteristische Merkmalskombination ist *"hell graubräunlicher zur Mitte hin dunklerer Hut + reinweißer Milchsaft im untersten Stielbereich"*. Ebenfalls reinweiße Milch hat der [Weißmilchende Schwarzhelmling *Mycena leucogala*](/pilze/mycena-leucogala-weißmilchender-schwarzhelmling) mit schwärzlichem Hut, der nicht von allen Mykologen und auch nicht im *Index fungorum* als eigenständige Art anerkannt ist.
 
 Der Weißmilchende Helmling wird von *German J. Kriegsteiner* als *"banales Element aller heimischen Wald- und Forstgesellschaften"* bezeichnet und ist auch außerhalb von Wäldern z. B. in Parkanlagen, Friedhöfen, etc. zu finden. Er wächst ab Spätsommer bis Dezember und ist für die Küche nicht geeignet.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/mycena_galopus_02_jr.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Foto: Johann Rejek, Voralpen Hinteres Hörnle, 03.07.2023" %}
 
 **Kurzbeschreibung:**
 
