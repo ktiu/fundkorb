@@ -24,6 +24,19 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_epipterygia_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.11.2024: Er ist nicht ganz so häufig wie der gestrige Helmling *Mycena Galopus*, aber auch ihn findet man im Spätherbst fast in jedem Wald. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Dehnbare Helmling *Mycena epipterygia*, stammt aus dem Berglholz in München. Der Name ist Programm. Wer ihn das erste mal in den Fingern hat wird überrascht sein. Alle Teile wie Hut, Lamellen und Stiel sind mit einer dehnbaren, abziehbaren und klebrigen Haut ausgestattet, wobei die Farbgebung recht unterschiedlich sein kann. 
+(Johann Rejek)
+
+[Mehr lesen >](/pilze/mycena-epipterygia-dehnbarer-helmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_galopus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,7 +52,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/volvariella_gloiocephala_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-11.11.2024: Der Große Scheidling *Volvariella gloiocephala* gehört zu den Pilzarten, die regelmäßig und häufig in unserer Dietzenbacher Parkanlage erscheinen. In solchen Mengen wie 2024 habe ich ihn allerdings noch nie erlebt und deshalb soll er auch unser aktueller [Fundkorbpilz](AA "Glossar-")sein. An seinem ringlosen Stiel, den scheidenartigen [Velumresten](Velum "Glossar") am Stielgrund und den großen grauweißen Hüten mit den rosa Lamellen ist er gut zu erkennen, aber nicht unbedingt für die Küche zu empfehlen. (Dieter Gewalt)
+11.11.2024: Der Große Scheidling *Volvariella gloiocephala* gehört zu den Pilzarten, die regelmäßig und häufig in unserer Dietzenbacher Parkanlage erscheinen. In solchen Mengen wie 2024 habe ich ihn allerdings noch nie erlebt und deshalb soll er auch unser aktueller [Fundkorbpilz](AA "Glossar-") sein. An seinem ringlosen Stiel, den scheidenartigen [Velumresten](Velum "Glossar") am Stielgrund und den großen grauweißen Hüten mit den rosa Lamellen ist er gut zu erkennen, aber nicht unbedingt für die Küche zu empfehlen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/volvariella-gloiocephala-großer-scheidling)
 
@@ -56,7 +69,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 [Mehr lesen >](/pilze/pluteus-petasatus-seidiger-dachpilz)
 
 <div style="clear:  both"></div>
-
 
 - - -
 
