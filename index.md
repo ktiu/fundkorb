@@ -27,7 +27,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/mycena_epipterygia_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-13.11.2024: Er ist nicht ganz so häufig wie der gestrige Helmling *Mycena Galopus*, aber auch ihn findet man im Spätherbst fast in jedem Wald. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Dehnbare Helmling *Mycena epipterygia*, stammt aus dem Berglholz in München. Der Name ist Programm. Wer ihn das erste mal in den Fingern hat wird überrascht sein. Alle Teile wie Hut, Lamellen und Stiel sind mit einer dehnbaren, abziehbaren und klebrigen Haut ausgestattet, wobei die Farbgebung recht unterschiedlich sein kann. 
+13.11.2024: Er ist nicht ganz so häufig wie der gestrige Helmling *[Mycena galopus](/pilze/mycena-galopus-weißmilchender-helmling)*, aber auch ihn findet man im Spätherbst fast in jedem Wald. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Dehnbare Helmling *Mycena epipterygia*, stammt aus dem Berglholz in München. Der Name ist Programm. Wer ihn das erste mal in den Fingern hat wird überrascht sein. Alle Teile wie Hut, Lamellen und Stiel sind mit einer dehnbaren, abziehbaren und klebrigen Haut ausgestattet, wobei die Farbgebung recht unterschiedlich sein kann. 
 (Johann Rejek)
 
 [Mehr lesen >](/pilze/mycena-epipterygia-dehnbarer-helmling)
