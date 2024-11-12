@@ -6,7 +6,7 @@ beschreibung:
   familie: Mycenaceae
   erlaeuterung: epipterygia = überhäutet
 profil:
-  aktualisiert: 2020-08-10
+  aktualisiert: 2024-11-12
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
@@ -14,15 +14,17 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/m/Mycena_epipterygia.html
 ---
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/mycena_epipterygia_06_jr.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/mycena_epipterygia_07_jr.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/mycena_epipterygia_02_dg.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Fotos Llinks und Mitte: Johann Rejek, 01.11.2023 Zengermoos" %}
+
+Rund 140 Helmlingsarten gibt es in Europa. Weltweit sind es über 200. Das macht ihre Unterscheidung nicht gerade einfach. Vor allem die kleinen graulichen sind nur schwer auseinanderzuhalten. Es gibt aber auch etliche, die keine Probleme bereiten. Dazu gehört der Dehnbare Helmling. Er hat ein Merkmal, an dem er immer gut zu erkennen ist: wenn man ihn vom Boden aufnimmt und am Stiel anfasst, bleibt er am Finger kleben. Stiel, Lamellen und Hut sind von einer transparenten gelatinösen Haut (Pellicula) überzogen. Diese Haut kann man vom Hut abziehen und auch der Stiel lässt sich brechen ohne dabei die Pellicula zu durchtrennen. Danach lässt er sich in die Länge ziehen, wobei sich zwischen den voneinander getrennten Stielteilen die gelatinöse Schicht dehnt. Daher der deutsche Name Dehnbarer Helmling.
+
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/mycena_epipterygia_04_dg.jpg" %}
-{% include bild.html datei="/bilder/mycena_epipterygia_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Rund 140 Helmlingsarten gibt es in Europa. Weltweit sind es über 200. Das macht ihre Unterscheidung nicht gerade einfach. Vor allem die kleinen graulichen sind nur schwer auseinanderzuhalten. Es gibt aber auch etliche, die keine Probleme bereiten. Dazu gehört der Dehnbare Helmling. Er hat ein Merkmal, an dem er immer gut zu erkennen ist: wenn man ihn vom Boden aufnimmt und am Stiel anfasst, bleibt er am Finger kleben. Stiel und Hut sind von einer transparenten gelatinösen Haut (Pellicula) überzogen. Der Stiel lässt sich brechen ohne dabei die Pellicula zu durchtrennen. Danach lässt er sich in die Länge ziehen, wobei sich zwischen den voneinander getrennten Stielteilen die gelatinöse Schicht dehnt. Daher der deutsche Name Dehnbarer Helmling.
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_epipterygia_03_dg-.jpg" %}
+{% include bild.html datei="/bilder/mycena_epipterygia_04_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/mycena_epipterygia_03_dg-.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
 Es handelt sich um eine sehr variable Art, von der zahlreiche Varietäten und Formen beschrieben worden sind. So kann die Hutfarbe von weiß über grau bis gelbgrünlich und rotbräunlich variieren, die Stiele können gelblich oder weißlich grau sein, die [Basidien](Basidien "Glossar") 2- oder 4-sporig. Der Pilz ist sowohl in Laub- als auch in Nadelwäldern zu finden und häufig.
