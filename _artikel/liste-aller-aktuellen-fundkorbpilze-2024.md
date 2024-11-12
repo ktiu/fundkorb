@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-12.11.2024: [Mycena galopus - Weißmilchender Helmling](/pilze/mycena-galopus-weißmilchender-helmling)  
+13.11.2024: [Mycena epipterygia - Dehnbarer Helmling](/pilze/mycena-epipterygia-dehnbarer-helmling)  
+12.11.2024: [Mycena galopus - Weißmilchender Helmling](/pilze/mycena-galopus-weißmilchender-helmling)\
 11.11.2024: [Volvariella gloiocephala - Großer Scheidling](/pilze/volvariella-gloiocephala-großer-scheidling)\
 10.11.2024: [Pluteus petasatus - Seidiger Dachpilz](/pilze/pluteus-petasatus-seidiger-dachpilz)\
 09.11.2024: [Cortinarius torvus - Wohlriechender Gürtelfuß](/pilze/cortinarius-torvus-wohlriechender-gürtelfuß)\
