@@ -6,7 +6,7 @@ beschreibung:
   familie: Pseudohydnaceae
   erlaeuterung: gelatinosum = gallertartig
 profil:
-  aktualisiert: 2021-10-31
+  aktualisiert: 2024-11-13
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -18,9 +18,11 @@ In manchen Pilzbüchern ist zu lesen, man könne ihn blanchiert als Salatpilz ve
 
 > Wer Austern und Gummibärchen liebt, der könnte Gefallen an diesen schwabbeligen Gesellen finden."
 
-
-
 > ... ist nicht mal besonders als Mischpilz geeignet."
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pseudohydnum_gelatinosum_02_jr.jpg" %}
+{% include abbildung_ende.html legende="Foto: Johann Rejek, 19.10.2020, Glentleiten bei Murnau" %}
 
 Man findet ihn vom Spätsommer bis in die Wintermonate an moderigem Nadelholz, ausnahmsweise auch mal an Laubholz. Die oft muschelförmigen Fruchtkörper erscheinen fast immer gesellig an ihrem Substrat, in Reihen neben- und dachziegelig übereinander. Die Hutoberseiten können sehr unterschiedlich gefärbt sein. Die Skala reicht von weiß über hell ocker, grau, graubraun bis violettlich oder dunkelbraun. Die Oberflächen sind körnig bis haarig, die Unterseiten sind stehts heller und dicht mit noppenartigen Zähnchen besetzt. Einzelne Fruchtkörper können bis zu 8 cm breit werden.
 
