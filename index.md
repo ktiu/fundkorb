@@ -73,17 +73,7 @@ Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Dehnbare Helmling *Mycena epi
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pluteus_petasatus_05_hs.jpg" %}
-{% include abbildung_ende.html %}
 
-10.11.2024: Es gibt nur wenige Dachpilze, die man auf den ersten Blick sicher bestimmen kann. Auch bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Seidigen Dachpilz *Pluteus petasatus* ist Mikroskopieren angesagt. Seine weißlichen bis creme-ockerfarbenen Hüte können Durchmesser bis zu 15 cm haben. Die Huthaut reißt im Zentrum mehr oder weniger stark auf, hin und wieder sogar die gesamte Hutfläche. Wirklich wichtig sind aber Mikromerkmale wie Sporenform und -größe, ob die Hyphen Schnallen tragen und die Pleurozystiden Haken haben. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/pluteus-petasatus-seidiger-dachpilz)
-
-<div style="clear:  both"></div>
-
-- - -
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
