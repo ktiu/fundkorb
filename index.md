@@ -24,6 +24,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pseudohydnum_gelatinosum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.11.2024: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") *Pseudohydnum gelatinosum* - Zitterzahn oder auch Eispilz genannt - hat so gar nichts von einem typischen Pilz. Er hat eine schwabbelige  Konsistenz, wenn man ihn „anschubst“ dann „zittert“ er. Da ist der deutsche Name sehr zutreffend. Die Fruchtschicht auf der Unterseite besteht aus feinen spitzen Noppen, ähnlich dem [Semmelstoppelpilz](/pilze/hydnum-repandum-semmelstoppelpilz). In der Farbgebung ist er sehr variabel. Ich fand ihn in der typischen Eisfarbe an einem morschen Nadelholzstumpf in einem Mischwald bei Allershausen, nördlich von München. (Johann Rejek)
+
+[Mehr lesen >](/pilze/pseudohydnum-gelatinosum-eispilz-zitterzahn)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_epipterygia_06_jr.jpg" %}
 {% include abbildung_ende.html %}
 
