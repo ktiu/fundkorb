@@ -12,7 +12,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/amnita_umbrinolutea_01_uwi.jpg
-  legende: "Foto: Uwe Winkler"
+  legende: "Foto: Uwe Waller"
 literatur:
   - text: "BON, M. (1988): Pareys Buch der Pilze: 294 - 295 (als A. battarrae)"
   - text: "DÄHNKE, R.M. (1993): 1200 Pilze in Farbfotos: 462"
