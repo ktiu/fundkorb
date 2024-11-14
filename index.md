@@ -24,6 +24,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_portentosum_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwarzfaserige Ritterling *Tricholoma portentosum*. Er ist zweifellos der geschmacklich beste aller Ritterlinge, aber leider ausgeprochen selten und daher als gefährdete Art zu schonen. In der Rhein-Main-Ebene hat er seit vielen Jahren einen zuverlässigen Stammplatz, ist jetzt aber auch an einer weiteren Fundstelle unter Kiefern erschienen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/tricholoma-portentosum-schwarzfaseriger-ritterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pseudohydnum_gelatinosum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -48,32 +60,6 @@ Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Dehnbare Helmling *Mycena epi
 <div style="clear:  both"></div>
 
 - - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_galopus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.11.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Weißmilchende Helmling *Mycena galopus*. Er ist ein typischer Spätherbstpilz in allen Waldgesellschaften und war bei der gestrigen Vereinswanderung (Pilzverein München) in der Nähe von Allershausen der häufigste Helmling. Von oben betrachtet ist er kaum von anderen grau(braun)hütigen Helmlingen zu unterscheiden. Seine meist an der Stielbasis reichlich austretende reinweiße Milch ist jedoch ein eindeutiges Bestimmungsmerkmal. (Johann Rejek)
-
-[Mehr lesen >](/pilze/mycena-galopus-weißmilchender-helmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/volvariella_gloiocephala_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.11.2024: Der Große Scheidling *Volvariella gloiocephala* gehört zu den Pilzarten, die regelmäßig und häufig in unserer Dietzenbacher Parkanlage erscheinen. In solchen Mengen wie 2024 habe ich ihn allerdings noch nie erlebt und deshalb soll er auch unser aktueller [Fundkorbpilz](AA "Glossar-") sein. An seinem ringlosen Stiel, den scheidenartigen [Velumresten](Velum "Glossar") am Stielgrund und den großen grauweißen Hüten mit den rosa Lamellen ist er gut zu erkennen, aber nicht unbedingt für die Küche zu empfehlen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/volvariella-gloiocephala-großer-scheidling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
