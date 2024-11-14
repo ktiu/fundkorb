@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-14.11.2024: [Pseudohydnum gelatinosum - Eispilz, Zitterzahn](/pilze/pseudohydnum-gelatinosum-eispilz-zitterzahn)  
+15.11.2024: [Tricholoma portentosum - Schwarzstreifiger Ritterling](/pilze/tricholoma-portentosum-schwarzfaseriger-ritterling)  
+14.11.2024: [Pseudohydnum gelatinosum - Eispilz, Zitterzahn](/pilze/pseudohydnum-gelatinosum-eispilz-zitterzahn)\
 13.11.2024: [Mycena epipterygia - Dehnbarer Helmling](/pilze/mycena-epipterygia-dehnbarer-helmling)\
 12.11.2024: [Mycena galopus - Weißmilchender Helmling](/pilze/mycena-galopus-weißmilchender-helmling)\
 11.11.2024: [Volvariella gloiocephala - Großer Scheidling](/pilze/volvariella-gloiocephala-großer-scheidling)\
