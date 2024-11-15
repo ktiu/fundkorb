@@ -28,9 +28,10 @@ Wer den Märzschneckling finden will, sollte im Frühjahr artenreiche Bergmischw
 
 > Die meisten Bestände gingen ab Mitte der 70er-Jahre infolge saurer Niederschläge exorbitant zurück. Gegen 1987 wurde er selbst an Fundstellen, wo der Pilz früher zuverlässig und üppig fruktifiziert hatte, kaum noch angetroffen, so dass das baldige Erlöschen zu befürchten war."
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/hygrophorus_marzuolus_03_hml.jpg" %}
-{% include abbildung_ende.html legende="Foto: Helmut Lamparter" %}
+{% include bild.html datei="/bilder/hygrophorus_marzulosus_04_gsch.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Foto links: Helmut Lamparter -- Foto rechts: Georg Schabel (Schönbuch)" %}
 
 Makroskopische Kurzbeschreibung:\
 Mittelgroßer Pilz (unsere Funde hatten Hüte bis ca. 10 cm Durchmesser und oft verbogene Fruchtkörper), einzeln oder büschelig wachsend.\
