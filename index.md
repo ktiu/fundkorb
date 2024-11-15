@@ -24,6 +24,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/chalciporus_piperatus_km_1.jpg" %}
+{% include abbildung_ende.html %}
+
+16.11.2024: Solange man ihn anschaut, ist er unscheinbar und unauffällig, aber sobald man eine Geschmacksprobe macht, brennt unser aktueller [Fundkorbpilz](AA "Glossar-"), der Pfeffer-Röhrling *Chalciporus piperatus*, pfefferig scharf auf der Zunge. Meines Wissens gibt es keinen anderen Röhrling mit scharfem Geschmack, sodass wir es hier mit einem Alleinstellungsmerkmal zu tun haben. Als Speisepilz ist er sicher nicht schlechter als der Rotfußröhrling, aber bei Weitem nicht so häufig. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/chalciporus-piperatus-pfeffer-röhrling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_portentosum_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -42,20 +54,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 14.11.2024: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") *Pseudohydnum gelatinosum* - Zitterzahn oder auch Eispilz genannt - hat so gar nichts von einem typischen Pilz. Er hat eine schwabbelige  Konsistenz, wenn man ihn „anschubst“ dann „zittert“ er. Da ist der deutsche Name sehr zutreffend. Die Fruchtschicht auf der Unterseite besteht aus feinen spitzen Noppen, ähnlich dem [Semmelstoppelpilz](/pilze/hydnum-repandum-semmelstoppelpilz). In der Farbgebung ist er sehr variabel. Ich fand ihn in der typischen Eisfarbe an einem morschen Nadelholzstumpf in einem Mischwald bei Allershausen, nördlich von München. (Johann Rejek)
 
 [Mehr lesen >](/pilze/pseudohydnum-gelatinosum-eispilz-zitterzahn)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_epipterygia_06_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-13.11.2024: Er ist nicht ganz so häufig wie der gestrige Helmling *[Mycena galopus](/pilze/mycena-galopus-weißmilchender-helmling)*, aber auch ihn findet man im Spätherbst fast in jedem Wald. \
-Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Dehnbare Helmling *Mycena epipterygia*, stammt aus dem Berglholz in München. Der Name ist Programm. Wer ihn das erste Mal in den Fingern hat wird überrascht sein. Alle Teile wie Hut, Lamellen und Stiel sind mit einer dehnbaren, abziehbaren und klebrigen Haut ausgestattet, wobei die Farbgebung recht unterschiedlich sein kann. 
-(Johann Rejek)
-
-[Mehr lesen >](/pilze/mycena-epipterygia-dehnbarer-helmling)
 
 <div style="clear:  both"></div>
 
