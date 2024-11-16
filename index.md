@@ -24,6 +24,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/macrolepiota_konradii_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sternschuppige Riesenschirmling *Macrolepiota konradii*. Seine braune Scheibe auf dem Hut reißt meist sternförmig auf oder die Schuppen verlieren sich zum Rand hin in einem sternförmigen Muster. Im Gegensatz zum [Großen Riesenschirmling](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol), der das Innere von Wäldern meidet und eher auf Wiesen und an Wald- und Straßenrändern zu finden ist, wächst der Sternschuppige Riesenschirmling vor allem innerhalb von Wäldern. Er ist zwar viel kleiner als der Große, aber ebenso schmackhaft und als *„Schnitzelchen“* zu verwenden. (Béla Salgo, 12)
+
+[Mehr lesen >](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/chalciporus_piperatus_km_1.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -42,18 +54,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 15.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwarzfaserige Ritterling *Tricholoma portentosum*. Er ist zweifellos der geschmacklich beste aller Ritterlinge, aber leider ausgeprochen selten und daher als gefährdete Art zu schonen. In der Rhein-Main-Ebene hat er seit vielen Jahren einen zuverlässigen Stammplatz, ist jetzt aber auch an einer weiteren Fundstelle unter Kiefern erschienen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/tricholoma-portentosum-schwarzfaseriger-ritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pseudohydnum_gelatinosum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.11.2024: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") *Pseudohydnum gelatinosum* - Zitterzahn oder auch Eispilz genannt - hat so gar nichts von einem typischen Pilz. Er hat eine schwabbelige  Konsistenz, wenn man ihn „anschubst“ dann „zittert“ er. Da ist der deutsche Name sehr zutreffend. Die Fruchtschicht auf der Unterseite besteht aus feinen spitzen Noppen, ähnlich dem [Semmelstoppelpilz](/pilze/hydnum-repandum-semmelstoppelpilz). In der Farbgebung ist er sehr variabel. Ich fand ihn in der typischen Eisfarbe an einem morschen Nadelholzstumpf in einem Mischwald bei Allershausen, nördlich von München. (Johann Rejek)
-
-[Mehr lesen >](/pilze/pseudohydnum-gelatinosum-eispilz-zitterzahn)
 
 <div style="clear:  both"></div>
 
