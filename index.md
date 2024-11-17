@@ -24,6 +24,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_venturii_01_gsch.jpg" %}
+{% include abbildung_ende.html %}
+
+18.11.2024: Mein aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein ganz besonderer. Nicht etwa, weil ich den Zitronenhütigen Steinpilz *Boletus venturii* gefunden hätte – nein, ich habe mich nur darüber gefreut, dass mir Pilzfreund Georg Schabel aus Gerstetten Fotos dieser sehr seltenen Art für ein Fundkorb-Porträt zur Verfügung gestellt hat. Ich habe diesen wunderschönen Pilz noch nie *in natura* gesehen. Anzumerken wäre auch, dass er nicht von allen [Mykologen](Mykologie "Glossar") als gute Art anerkannt sondern als Varietät des Gemeinen Steinpilzes *Boletus edulis* gesehen wird. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/boletus-venturii-zitronenhütiger-steinpilz)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/macrolepiota_konradii_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -42,18 +54,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 16.11.2024: Solange man ihn anschaut, ist er unscheinbar und unauffällig, aber sobald man eine Geschmacksprobe macht, brennt unser aktueller [Fundkorbpilz](AA "Glossar-"), der Pfeffer-Röhrling *Chalciporus piperatus*, pfefferig scharf auf der Zunge. Meines Wissens gibt es keinen anderen Röhrling mit scharfem Geschmack, sodass wir es hier mit einem Alleinstellungsmerkmal zu tun haben. Als Speisepilz ist er sicher nicht schlechter als der Rotfußröhrling, aber bei Weitem nicht so häufig. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/chalciporus-piperatus-pfeffer-röhrling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_portentosum_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwarzfaserige Ritterling *Tricholoma portentosum*. Er ist zweifellos der geschmacklich beste aller Ritterlinge, aber leider ausgeprochen selten und daher als gefährdete Art zu schonen. In der Rhein-Main-Ebene hat er seit vielen Jahren einen zuverlässigen Stammplatz, ist jetzt aber auch an einer weiteren Fundstelle unter Kiefern erschienen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/tricholoma-portentosum-schwarzfaseriger-ritterling)
 
 <div style="clear:  both"></div>
 
