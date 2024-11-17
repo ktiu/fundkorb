@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-17.11.2024: [Macrolepiota konradii - Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)  
+18.11.2024: [Boletus venturii - Zitronenhütiger Steinpilz](/pilze/boletus-venturii-zitronenhütiger-steinpilz)  
+17.11.2024: [Macrolepiota konradii - Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)\
 16.11.2024: [Chalciporus piperatus - Pfefferröhrling](/pilze/chalciporus-piperatus-pfeffer-röhrling)\
 15.11.2024: [Tricholoma portentosum - Schwarzstreifiger Ritterling](/pilze/tricholoma-portentosum-schwarzfaseriger-ritterling)\
 14.11.2024: [Pseudohydnum gelatinosum - Eispilz, Zitterzahn](/pilze/pseudohydnum-gelatinosum-eispilz-zitterzahn)\
