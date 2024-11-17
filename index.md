@@ -10,12 +10,6 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/pilzberatung_01_xx.png" %}
-{% include abbildung_ende.html legende="Pilzberatung in Frankfurt am Main" %}
-
-Die kostenlose Pilzberatung im Frankfurter Gesundheitsamt findet bis eischließlich 17. November jeweils sonntags von 17 bis 20 Uhr statt. [Mehr lesen >](/termine)
-
 Neuer Exkursionstermin:\
 Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**\
 [Hier geht's zur Anmeldung >](/termine)
