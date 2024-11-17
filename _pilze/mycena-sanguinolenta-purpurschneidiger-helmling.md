@@ -6,7 +6,7 @@ beschreibung:
   familie: Mycenaceae
   erlaeuterung: sanguinolenta = blutend, blutrot
 profil:
-  aktualisiert: 2021-01-10
+  aktualisiert: 2024-11-17
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -18,12 +18,13 @@ literatur:
 ---
 Unter den milchenden Helmlingen ist der Purpurschneidige der einzige mit gefärbter Lamellenschneide und der mit dem wenigsten Milchsaft. Was nicht verwundert, denn er hat sehr dünne Stiele, die aber im Verhältnis zur Hutgröße meist auffallend lang sind. Er wird auch Kleiner Bluthelmling genannt. Man findet den Pilz meist gesellig wachsend in Laub- und Nadelwäldern, in denen er gern Blätter, Nadeln, Ästchen, [Cupulen](Cupulen "Glossar") oder Zapfen besiedelt. Die Art ist in ganz Deutschland verbreitet und häufig.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/mycena_sanguinolenta_02_dg.jpeg" nocrop=true %}
 {% include bild.html datei="/bilder/mycena_sanguinolenta_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/mycena_sanguinolenta_04_jr.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Foto rechts: Johann Rejek, 10.11.2024, Allershausen" %}
 
-Die in Deutschland vorkommenden milchenden Helmlingsarten sind:  
+Die in Deutschland vorkommenden milchenden Helmlingsarten sind:\
 [Mycena galopus](/pilze/mycena-galopus-weißmilchender-helmling) (Weißmilchender Helmling,inkl. 2 Varietäten)\
 [Mycena haematopus](/pilze/mycena-haematopus-großer-bluthelmling) (Großer Bluthelmling)\
 [Mycena sanguinolenta](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling) (Purpurschneidiger Helmling)\
@@ -31,6 +32,7 @@ Die in Deutschland vorkommenden milchenden Helmlingsarten sind:
 Mycena erubescens (Bitterer Helmling, Weißmilchender Gallenhelmling)
 
 Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:\
+[Mycena aurantiomarginata = Feuriger Helmling](/pilze/mycena-aurantiomarginata-feuriger-helmling)\
 [Mycena olivaceomarginata = Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)\
 [Mycena pelianthina =  Schwarzgezähnelter Helmling](/pilze/mycena-pelianthina-schwarzgezähnelter-helmling)\
 [Mycena purpureofusca = Lilaschneidiger Helmling](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)\
