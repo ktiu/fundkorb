@@ -6,7 +6,7 @@ beschreibung:
   familie: Mycenaceae
   erlaeuterung: sanguinolenta = blutend, blutrot
 profil:
-  aktualisiert: 2024-11-17
+  aktualisiert: 2024-11-18
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -16,7 +16,8 @@ literatur:
   - url: https://de.wikipedia.org/wiki/Purpurschneidiger_Blut-Helmling
   - url: http://tintling.com/pilzbuch/arten/m/Mycena_haematopus.html
 ---
-Unter den milchenden Helmlingen ist der Purpurschneidige der einzige mit gefärbter Lamellenschneide und der mit dem wenigsten Milchsaft. Was nicht verwundert, denn er hat sehr dünne Stiele, die aber im Verhältnis zur Hutgröße meist auffallend lang sind. Er wird auch Kleiner Bluthelmling genannt. Man findet den Pilz meist gesellig wachsend in Laub- und Nadelwäldern, in denen er gern Blätter, Nadeln, Ästchen, [Cupulen](Cupulen "Glossar") oder Zapfen besiedelt. Die Art ist in ganz Deutschland verbreitet und häufig.
+Unter den milchenden Helmlingen ist der Purpurschneidige der einzige mit gefärbter Lamellenschneide und der mit dem wenigsten Milchsaft. Was nicht verwundert, denn er hat sehr dünne Stiele, die aber im Verhältnis zur Hutgröße meist auffallend lang sind. Er wird auch Kleiner Bluthelmling genannt. Es gibt auch einen Großen Bluthelmling (siehe unten stehende Aufzählung), der jedoch keine gefärbten Lamellenschneiden hat.
+Man findet den Pilz meist gesellig wachsend in Laub- und Nadelwäldern, in denen er gern Blätter, Nadeln, Ästchen, [Cupulen](Cupulen "Glossar") oder Zapfen besiedelt. Die Art ist in ganz Deutschland verbreitet und häufig.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/mycena_sanguinolenta_02_dg.jpeg" nocrop=true gross=true %}
