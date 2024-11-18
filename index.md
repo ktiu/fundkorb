@@ -17,6 +17,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_nobilis_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+19.11.2024: Ab Spätsommer erscheinen die Buchen-Speitäublinge (*Russula nobilis*) als dekorative rote Farbtupfer im braunen Buchenlaub. Für einen Speitäubling ist unser aktueller [Fundkorbpilz](AA "Glossar-") überraschend festfleischig und ungewöhnlich groß. Seine Hüte können bis zu 8 cm breit werden. Den meisten mykologisch interessierten Pilzfreunden ist er noch unter dem Namen *Russula mairei* bekannt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-nobilis-buchen-speitäubling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_venturii_01_gsch.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,18 +47,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 17.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sternschuppige Riesenschirmling *Macrolepiota konradii*. Seine braune Scheibe auf dem Hut reißt meist sternförmig auf oder die Schuppen verlieren sich zum Rand hin in einem sternförmigen Muster. Im Gegensatz zum [Großen Riesenschirmling](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol), der das Innere von Wäldern meidet und eher auf Wiesen und an Wald- und Straßenrändern zu finden ist, wächst der Sternschuppige Riesenschirmling vor allem innerhalb von Wäldern. Er ist zwar viel kleiner als der Große, aber ebenso schmackhaft und als *„Schnitzelchen“* zu verwenden. (Béla Salgo, 12)
 
 [Mehr lesen >](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chalciporus_piperatus_km_1.jpg" %}
-{% include abbildung_ende.html %}
-
-16.11.2024: Solange man ihn anschaut, ist er unscheinbar und unauffällig, aber sobald man eine Geschmacksprobe macht, brennt unser aktueller [Fundkorbpilz](AA "Glossar-"), der Pfeffer-Röhrling *Chalciporus piperatus*, pfefferig scharf auf der Zunge. Meines Wissens gibt es keinen anderen Röhrling mit scharfem Geschmack, sodass wir es hier mit einem Alleinstellungsmerkmal zu tun haben. Als Speisepilz ist er sicher nicht schlechter als der Rotfußröhrling, aber bei Weitem nicht so häufig. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/chalciporus-piperatus-pfeffer-röhrling)
 
 <div style="clear:  both"></div>
 
