@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-19.11.2024: [Russula nobilis - Buchen-Speitäubling](/pilze/russula-nobilis-buchen-speitäubling)  
+20.11.2024: [Lactarius chrysorrheus Goldflüssiger Milchling](/pilze/lactarius-chrysorrheus-goldflüssiger-milchling)  
+19.11.2024: [Russula nobilis - Buchen-Speitäubling](/pilze/russula-nobilis-buchen-speitäubling)\
 18.11.2024: [Boletus venturii - Zitronenhütiger Steinpilz](/pilze/boletus-venturii-zitronenhütiger-steinpilz)\
 17.11.2024: [Macrolepiota konradii - Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)\
 16.11.2024: [Chalciporus piperatus - Pfefferröhrling](/pilze/chalciporus-piperatus-pfeffer-röhrling)\
