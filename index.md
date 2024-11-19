@@ -10,7 +10,8 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-Neuer Exkursionstermin:\
+Neue Exkursionstermine:\
+Sonntag, 1. Dezember 2024, 10:00 Uhr: **Der Wald und seine Pilze am 1. Dezember**  
 Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**\
 [Hier geht's zur Anmeldung >](/termine)
 
