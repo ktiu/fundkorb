@@ -11,9 +11,21 @@ footer_scripts:
 {% include pilzsuche.html %}
 
 Neue Exkursionstermine:\
-Sonntag, 1. Dezember 2024, 10:00 Uhr: **Der Wald und seine Pilze am 1. Dezember**  
+Sonntag, 1. Dezember 2024, 10:00 Uhr: **Der Wald und seine Pilze am 1. Dezember**\
 Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**\
 [Hier geht's zur Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_caerulea_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buckeltäubling *Russula caerulea*. Er gehört zu der sehr überschaubaren Anzahl von Täublingen, die unterwegs im Wald einigermaßen sicher erkannt werden können. Seine Kennzeichen sind der Buckel in der Hutmitte in Verbindung mit der violett- bis purpurbraunen oder weinroten, glänzenden Huthaut, die sich maximal bis zur Hälfte abziehen lässt, und die jung blass gelblichen, später dottergelben Lamellen. Er ist eine Charakterart sandiger Kiefernwälder und hier oft massenhaft anzutreffen. Entgegen mancher Literaturangaben ist er ein guter und empfehlenswerter Speisepilz. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/russula-caerulea-buckeltäubling)
+
+<div style="clear:  both"></div>
 
 - - -
 
@@ -48,18 +60,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 18.11.2024: Mein aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein ganz besonderer. Nicht etwa, weil ich den Zitronenhütigen Steinpilz *Boletus venturii* gefunden hätte – nein, ich habe mich nur darüber gefreut, dass mir Pilzfreund Georg Schabel aus Gerstetten Fotos dieser sehr seltenen Art für ein Fundkorb-Porträt zur Verfügung gestellt hat. Ich habe diesen wunderschönen Pilz noch nie *in natura* gesehen. Anzumerken wäre auch, dass er nicht von allen [Mykologen](Mykologie "Glossar") als gute Art anerkannt sondern als Varietät des Gemeinen Steinpilzes *Boletus edulis* gesehen wird. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/boletus-venturii-zitronenhütiger-steinpilz)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/macrolepiota_konradii_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sternschuppige Riesenschirmling *Macrolepiota konradii*. Seine braune Scheibe auf dem Hut reißt meist sternförmig auf oder die Schuppen verlieren sich zum Rand hin in einem sternförmigen Muster. Im Gegensatz zum [Großen Riesenschirmling](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol), der das Innere von Wäldern meidet und eher auf Wiesen und an Wald- und Straßenrändern zu finden ist, wächst der Sternschuppige Riesenschirmling vor allem innerhalb von Wäldern. Er ist zwar viel kleiner als der Große, aber ebenso schmackhaft und als *„Schnitzelchen“* zu verwenden. (Béla Salgo, 12)
-
-[Mehr lesen >](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)
 
 <div style="clear:  both"></div>
 
