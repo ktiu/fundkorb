@@ -18,6 +18,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/kuehneromyces_mutabilis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.11.2024: Bei vielen Pilzfreunden ist unser aktueller [Fundkorbpilz](AA "Glossar-") ein beliebter Speisepilz. Doch Achtung! Trotz seines hohen kulinarischen Wertes ist das Ernten von Stockschwämmchen (*Kuehneromyces mutabilis*) nur erfahrenen Sammlern zu empfehlen. Verwechslungen mit ähnlichen [Gifthäublingen](/pilze/galerina-marginata-gifthäubling), die mitunter am selben Holz zusammen mit Stockschwämmchen vorkommen, können tödlich enden! Sie enthalten die gleichen Giftstoffe wie der Grüne Knollenblätterpilz. (Adam Adamowicz)
+
+[Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_caerulea_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 20.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldflüssige Milchling *Lactarius chrysorrheus*, einer der attraktivsten Vertreter seiner Gattung. Die beim Anschneiden des Fruchtkörpers oder Anritzen der Lamellen austretende Milch ist zuerst weiß, verfärbt sich dann aber innerhalb weniger Sekunden gold- oder schwefelgelb. Diese Verfärbung kann auch sehr plötzlich eintreten. Die Milch ist anfangs mild, wird aber bald brennend scharf. Der Goldflüssige Milchling ist [Mykorrhizapartner](Mykorrhiza "Glossar") von Eichen. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/lactarius-chrysorrheus-goldflüssiger-milchling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_nobilis_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-19.11.2024: Ab Spätsommer erscheinen die Buchen-Speitäublinge (*Russula nobilis*) als dekorative rote Farbtupfer im braunen Buchenlaub. Für einen Speitäubling ist unser aktueller [Fundkorbpilz](AA "Glossar-") überraschend festfleischig und ungewöhnlich groß. Seine Hüte können bis zu 8 cm breit werden. Den meisten mykologisch interessierten Pilzfreunden ist er noch unter dem Namen *Russula mairei* bekannt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-nobilis-buchen-speitäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_venturii_01_gsch.jpg" %}
-{% include abbildung_ende.html %}
-
-18.11.2024: Mein aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal ein ganz besonderer. Nicht etwa, weil ich den Zitronenhütigen Steinpilz *Boletus venturii* gefunden hätte – nein, ich habe mich nur darüber gefreut, dass mir Pilzfreund Georg Schabel aus Gerstetten Fotos dieser sehr seltenen Art für ein Fundkorb-Porträt zur Verfügung gestellt hat. Ich habe diesen wunderschönen Pilz noch nie *in natura* gesehen. Anzumerken wäre auch, dass er nicht von allen [Mykologen](Mykologie "Glossar") als gute Art anerkannt sondern als Varietät des Gemeinen Steinpilzes *Boletus edulis* gesehen wird. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/boletus-venturii-zitronenhütiger-steinpilz)
 
 <div style="clear:  both"></div>
 
