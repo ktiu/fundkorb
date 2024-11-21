@@ -52,7 +52,7 @@ Gut nachvollziehbare Anmerkung von *German J. Krieglsteiner*:
         <td>selten</td>
       </tr>
       <tr>
-        <th>L. basidiosanguineus<br/>Braunroter M.</th>
+         <th><a href="/pilze/lactarius-badiosanguineus-braunroter-milchling">L. badiosanguineus<br/>Braunroter M.</a></th>
         <td>bei Fichten, höhere Lagen</td>
         <td>weiß, evtl. etwas gilbend</td>
         <td>mild, bald bitterlich</td>
@@ -100,7 +100,7 @@ Gut nachvollziehbare Anmerkung von *German J. Krieglsteiner*:
         <td>mäßig häufig</td>
       </tr>
       <tr>
-        <th>L. quietus<br/>Eichen-M.</th>
+        <th><a href=“/pilze/lactarius-quietus-eichenmilchling“>L. quietus<br/>Eichen-M.</a></th>
         <td>bei Eichen</td>
         <td>hellgelb</td>
         <td>mild</td>
@@ -108,7 +108,7 @@ Gut nachvollziehbare Anmerkung von *German J. Krieglsteiner*:
         <td>sehr häufig</td>
       </tr>
       <tr>
-        <th>L. rufus<br/>Rotbrauner M.</th>
+        <th><a href=“/pilze/lactarius-rufus-rotbrauner-milchling“>L. rufus<br/>Rotbrauner M.</a></th>
         <td>bei Nadelbäumen</td>
         <td>weiß</td>
         <td>scharf</td>
@@ -132,7 +132,7 @@ Gut nachvollziehbare Anmerkung von *German J. Krieglsteiner*:
         <td>sehr häufig</td>
       </tr>
       <tr>
-        <th>L. volemus<br/>Milchbrätling</th>
+        <th><a href=“/pilze/lactarius-volemus-brätling“>L. volemus<br/>Brätling.</a></th>
         <td>Mischwald höhere Lagen</td>
         <td>weiß</td>
         <td>mild</td>
