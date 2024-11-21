@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-21.11.2024: [Russula caerulea - Buckeltäubling](/pilze/russula-caerulea-buckeltäubling)  
+22.11.2024: [Kuehneromyces mutabilis - Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen)  
+21.11.2024: [Russula caerulea - Buckeltäubling](/pilze/russula-caerulea-buckeltäubling)\
 20.11.2024: [Lactarius chrysorrheus Goldflüssiger Milchling](/pilze/lactarius-chrysorrheus-goldflüssiger-milchling)\
 19.11.2024: [Russula nobilis - Buchen-Speitäubling](/pilze/russula-nobilis-buchen-speitäubling)\
 18.11.2024: [Boletus venturii - Zitronenhütiger Steinpilz](/pilze/boletus-venturii-zitronenhütiger-steinpilz)\
