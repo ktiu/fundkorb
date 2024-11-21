@@ -6,8 +6,7 @@ hauptbild:
   datei: bilder/Nidularia_deformis_01_TL.jpg
   anzeige: true
   legende: "Nidularia deformis - Vollgestopfter Nestling (Foto: Thomas Lehr)"
-erstellt: 2009-03-15
-aktualisiert: null
+aktualisiert: 2009-03-15
 literatur: null
 ---
 Man hat noch keine brütenden Vögel auf ihnen sitzen gesehen, aber es gibt sie wirklich, diese Vogelnestpilze. Während sie im angelsächsischen Sprachraum den schönen und ihr Aussehen bildhaft beschreibenden Namen "Bird´s Nest Fungi" tragen, werden bei uns zumindest die häufigen Arten Teuerlinge genannt. Die etwas unverständlich erscheinende Bezeichnung stammt aus dem Mittelalter, als man anhand der Anzahl in ihnen liegender Peridiolen glaubte, auf Teuerungszeiten schließen zu können. Immerhin heißt auch bei uns die Gattung Nidularia "Nestlinge".
@@ -67,8 +66,7 @@ Die zu den [Bauchpilzen](Gasteromyzeten "Glossar") gehörige Familie der Nestlin
 
   </div><div class = "bilder">
   {% include bild.html datei="bilder/Cyathus_striatus_05_DG.jpg" zuschneiden="ja" legende="Cyathus striatus – Gestreifter Teuerling" %}
-  {% include bild.html datei="bilder/Cyathus_stercoreus_02_DG.jpg
-  " zuschneiden="ja" legende="Cyathus stercoreus - Dungteuerling" %}
+  {% include bild.html datei="bilder/Cyathus_stercoreus_02_DG.jpg" zuschneiden="ja" legende="Cyathus stercoreus - Dungteuerling" %}
 {% include abbildung_ende.html legende="(Fotos: Nidularia deformis, Cruibulum laeve von Thomas Lehr; die drei Cyathus-Arten von Dieter Gewalt)" %}
 
 Der [Tiegelteuerling Crucibulum laeve](/pilze/crucibulum-laeve-tiegelteuerling) ist nach dem Gestreiften Teuerling die zweithäufigste Art dieser Gruppe und leicht an ihrem gelben Deckelhäutchen (Epiphragma) zu erkennen. Es reißt im Verlauf des Wachstums auf und gibt den Blick ins Innere der tiegelförmigen Behälter frei. Hier liegen die Peridiolen, in denen die Sporen gebildet werden.

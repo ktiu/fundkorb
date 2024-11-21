@@ -1,5 +1,6 @@
 ---
 titel: Kremplinge
+autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/paxillus_involutus_02_dg.jpg
