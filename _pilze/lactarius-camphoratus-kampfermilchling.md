@@ -50,8 +50,8 @@ Der Kampfermilchling ist eine verbreitete, relativ häufige aber wohl rückläuf
         <td>selten</td>
       </tr>
       <tr>
-        <th>L. basidiosanguineus<br/>Orangeblättriger M.</th>
-        <td>in Nadelwäldern</td>
+        <th><a href=“/pilze/lactarius-badiosanguineus-braunroter-milchling“>L. hepaticus<br/>Leberbrauner M.</a></th>
+        <td>bei Fichten, höhere Lagen</td>
         <td>weiß, evtl. etwas gilbend</td>
         <td>mild, bald bitterlich</td>
         <td>Blattwanzen</td>
@@ -98,7 +98,7 @@ Der Kampfermilchling ist eine verbreitete, relativ häufige aber wohl rückläuf
         <td>mäßig häufig</td>
       </tr>
       <tr>
-        <th>L. quietus<br/>Eichen-M.</th>
+        <th><a href=“/pilze/lactarius-quietus-eichenmilchling“>L. quietus<br/>Eichen-M.</a></th>
         <td>bei Eichen</td>
         <td>hellgelb</td>
         <td>mild</td>
@@ -106,7 +106,7 @@ Der Kampfermilchling ist eine verbreitete, relativ häufige aber wohl rückläuf
         <td>sehr häufig</td>
       </tr>
       <tr>
-        <th>L. rufus<br/>Rotbrauner M.</th>
+        <th><a href=“/pilze/lactarius-rufus-rotbrauner-milchling“>L. rufus<br/>Rotbrauner M.</a></th>
         <td>bei Nadelbäumen</td>
         <td>weiß</td>
         <td>scharf</td>
@@ -122,7 +122,7 @@ Der Kampfermilchling ist eine verbreitete, relativ häufige aber wohl rückläuf
         <td>mäßig häufig</td>
       </tr>
       <tr>
-        <th>L. subdulcis<br/>Süßlicher M.</th>
+        <th><a href=“/pilze/lactarius-subdulcis-süßlicher-milchling“>L. subdulcis<br/>Süßlicher M.</a></th>
         <td>bei Buchen</td>
         <td>weiß</td>
         <td>mild, bald bitter</td>
@@ -130,7 +130,7 @@ Der Kampfermilchling ist eine verbreitete, relativ häufige aber wohl rückläuf
         <td>sehr häufig</td>
       </tr>
       <tr>
-        <th>L. volemus<br/>Milchbrätling</th>
+        <th><a href=“/pilze/lactarius-volemus-brätling“>L. volemus<br/>Brätling.</a></th>
         <td>Mischwald höhere Lagen</td>
         <td>weiß</td>
         <td>mild</td>
