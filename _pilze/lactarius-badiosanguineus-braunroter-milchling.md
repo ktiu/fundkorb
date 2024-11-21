@@ -26,7 +26,7 @@ Wir haben es mit einer mittelgroßen Art zu tun, deren Hüte 6 – 8 cm Durchmes
 
 Gut nachvollziehbare Anmerkung von *German J. Krieglsteiner*: 
 
-> Die Art ähnelt einem etwas dunkel geratenen *Lactarius rufus*, jedoch mit glänzendem Hut und fast milder Milch.“
+> „Die Art ähnelt einem etwas dunkel geratenen *Lactarius rufus*, jedoch mit glänzendem Hut und fast milder Milch.“
 
 ##### Auflistung brauner Milchlinge (Lactarius)*
 
@@ -100,7 +100,7 @@ Gut nachvollziehbare Anmerkung von *German J. Krieglsteiner*:
         <td>mäßig häufig</td>
       </tr>
       <tr>
-        <th><a href=“/pilze/lactarius-quietus-eichenmilchling“>L. quietus<br/>Eichen-M.</a></th>
+        <th><a href="/pilze/lactarius-quietus-eichenmilchling">L. quietus<br/>Eichen-M.</a></th>
         <td>bei Eichen</td>
         <td>hellgelb</td>
         <td>mild</td>
@@ -108,7 +108,7 @@ Gut nachvollziehbare Anmerkung von *German J. Krieglsteiner*:
         <td>sehr häufig</td>
       </tr>
       <tr>
-        <th><a href=“/pilze/lactarius-rufus-rotbrauner-milchling“>L. rufus<br/>Rotbrauner M.</a></th>
+        <th><a href="/pilze/lactarius-rufus-rotbrauner-milchling">L. rufus<br/>Rotbrauner M.</a></th>
         <td>bei Nadelbäumen</td>
         <td>weiß</td>
         <td>scharf</td>
@@ -132,7 +132,7 @@ Gut nachvollziehbare Anmerkung von *German J. Krieglsteiner*:
         <td>sehr häufig</td>
       </tr>
       <tr>
-        <th><a href=“/pilze/lactarius-volemus-brätling“>L. volemus<br/>Brätling.</a></th>
+        <th><a href="/pilze/lactarius-volemus-brätling">L. volemus<br/>Brätling.</a></th>
         <td>Mischwald höhere Lagen</td>
         <td>weiß</td>
         <td>mild</td>
