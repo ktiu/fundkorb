@@ -57,15 +57,15 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
         <td>selten</td>
       </tr>
       <tr>
-        <th>L. basidiosanguineus<br/>Orangeblättriger M.</th>
-        <td>in Nadelwäldern</td>
+         <th><a href="/pilze/lactarius-badiosanguineus-braunroter-milchling">L. badiosanguineus<br/>Braunroter M.</a></th>
+        <td>bei Fichten, höhere Lagen</td>
         <td>weiß, evtl. etwas gilbend</td>
         <td>mild, bald bitterlich</td>
         <td>Blattwanzen</td>
         <td>selten</td>
       </tr>
       <tr>
-        <th>L. camphoratus<br/>Kampfer-M.</th>
+        <th><a href="/pilze/lactarius-camphoratus-kampfermilchling">L. camphoratus<br/>Kampfer-M.</a></th>
         <td>bei Buchen und Fichten</td>
         <td>weiß</td>
         <td>mild, bald bitter</td>
@@ -105,7 +105,7 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
         <td>mäßig häufig</td>
       </tr>
       <tr>
-        <th>L. quietus<br/>Eichen-M.</th>
+        <th><a href="/pilze/lactarius-quietus-eichenmilchling">L. quietus<br/>Eichen-M.</a></th>
         <td>bei Eichen</td>
         <td>hellgelb</td>
         <td>mild</td>
@@ -113,7 +113,7 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
         <td>sehr häufig</td>
       </tr>
       <tr>
-        <th>L. rufus<br/>Rotbrauner M.</th>
+        <th><a href="/pilze/lactarius-rufus-rotbrauner-milchling">L. rufus<br/>Rotbrauner M.</a></th>
         <td>bei Nadelbäumen</td>
         <td>weiß</td>
         <td>scharf</td>
@@ -129,7 +129,7 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
         <td>mäßig häufig</td>
       </tr>
       <tr>
-        <th>L. subdulcis<br/>Süßlicher M.</th>
+        <th><a href="/pilze/lactarius-subdulcis-süßlicher-milchling">L. subdulcis<br/>Süßlicher M.</a></th>
         <td>bei Buchen</td>
         <td>weiß</td>
         <td>mild, bald bitter</td>
@@ -137,7 +137,7 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
         <td>sehr häufig</td>
       </tr>
       <tr>
-        <th>L. volemus<br/>Milchbrätling</th>
+        <th><a href="/pilze/lactarius-volemus-brätling">L. volemus<br/>Brätling.</a></th>
         <td>Mischwald höhere Lagen</td>
         <td>weiß</td>
         <td>mild</td>
@@ -148,4 +148,5 @@ Der süßliche Milchling ist zwar essbar, aber nicht schmackhaft. Er wird kaum g
   </table>
 </div>
 
-\* enthält Arten, die im Rhein-Main-Gebiet häufig oder gelegentlich vorkommen. Nicht enthalten sind ausgesprochen seltene Arten, die hier noch nicht nachgewiesen wurden. Zu beachten ist auch die Farbvariabilität vieler Pilze, also auch der Milchlinge. Als gelblich oder rötlich beschriebene Arten könnten auch mal als bräunlich interpretiert werden. Sie sind nicht in dieser Auflistung enthalten. Farbänderungen der austretenden Milch können am besten mit einem Papiertaschentuch verifiziert werden.
+\* 
+enthält Arten, die im Rhein-Main-Gebiet häufig oder gelegentlich vorkommen. Nicht enthalten sind ausgesprochen seltene Arten, die hier noch nicht nachgewiesen wurden. Zu beachten ist auch die Farbvariabilität vieler Pilze, also auch der Milchlinge. Als gelblich oder rötlich beschriebene Arten könnten auch mal als bräunlich interpretiert werden. Sie sind nicht in dieser Auflistung enthalten. Farbänderungen der austretenden Milch können am besten mit einem Papiertaschentuch verifiziert werden.
