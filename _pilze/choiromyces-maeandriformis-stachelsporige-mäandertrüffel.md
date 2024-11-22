@@ -30,10 +30,10 @@ Die harten festfleischigen Fruchtkörper der Stachelsporigen Mäandertrüffel si
 
 Das Sporenpulver ist braun. Die rundlichen Sporen messen 15 – 20 µm und sind mit bis zu 5 µm langen meist gekrümmten und abgestutzten Stacheln besetzt. Die *Asci* sind keulig und achtsporig.
 
-Im Gegensatz zu anderen Trüffelarten wächst die Mäandertrüffel meist dicht unter der Bodenoberfläche und kann sie sogar mit ihrem Scheitel durchbrechen. Sie ist [Mykorrhizapartner](<Mykorrhiza "Glossar">) diverser Baumarten, gern von Buchen und Fichten. Bevorzugt werden wärmebegünstigte lehmige oder kalkhaltige Böden. In Deutschland ist sie vor allem im Voralpenland und in den Mittelgebirgen verbreitet aber nicht häufig (Rote Liste: Gefährdungsgrad RL 3). Erscheinungszeit ist Sommer bis Herbst. Der hier abgebildete Fund von Norbert Kühnberger stammt aus der Nähe von Kronberg im Taunus. 
+Im Gegensatz zu anderen Trüffelarten wächst die Mäandertrüffel meist dicht unter der Bodenoberfläche und kann sie sogar mit ihrem Scheitel durchbrechen. Sie ist [Mykorrhizapartner](Mykorrhiza "Glossar") diverser Baumarten, gern von Buchen und Fichten. Bevorzugt werden wärmebegünstigte lehmige oder kalkhaltige Böden. In Deutschland ist sie vor allem im Voralpenland und in den Mittelgebirgen verbreitet aber nicht häufig (Rote Liste: Gefährdungsgrad RL 3). Erscheinungszeit ist Sommer bis Herbst. Der hier abgebildete Fund von *Norbert Kühnberger* stammt aus der Nähe von Kronberg im Taunus. 
 
-Andere im Fundkorb beschriebene Trüffelarten sind:
-Elaphomyces granulatus = Kleinwarzige Hirschtrüffel
-Rhizopogon obtextus = Gelbliche Wurzeltrüffel
-Melanogaster ambiguus = Weißgekammerte Schleimtrüffel
-Tuber aestivum = Sommertrüffel
+Andere im Fundkorb beschriebene Trüffelarten sind:  
+[*Elaphomyces granulatus* = Kleinwarzige Hirschtrüffel](/pilze/elaphomyces-granulatus-kleinwarzige-hirschtrüffel)  
+[*Rhizopogon obtextus* = Gelbliche Wurzeltrüffel](/pilze/rhizopogon-obtextus-gelbliche-wurzeltrüffel)  
+[*Melanogaster ambiguus* = Weißgekammerte Schleimtrüffel](/pilze/melanogaster-ambiguus-weißgekammerte-schleimtrüffel)  
+[*Tuber aestivum* = Sommertrüffel](/pilze/tuber-aestivum-sommertrüffel)
