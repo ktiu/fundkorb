@@ -18,6 +18,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/resupinatus_applicatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.11.2024: Wir sind sicher nicht die Einzigen, denen in der Gattung *Resupinatus* (Zwergseitlinge) der Durchblick fehlt. Eigentlich schade, denn es sind sehr hübsche kleine Pilzchen, die zumeist totes Holz besiedeln. Klarheit herrscht beim Flaumigen Zwergseitling *Resupinatus applicatus*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Er dürfte zu den häufigeren, etwas größeren und gut kenntlichen Vertretern der Gattung gehören, die mehr Beachtung verdient. (Hermine Lotz-Winter & Dieter Gewalt)
+
+[Mehr lesen >](/pilze/resupinatus-applicatus-flaumiger-zwergseitling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/kuehneromyces_mutabilis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 21.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buckeltäubling *Russula caerulea*. Er gehört zu der sehr überschaubaren Anzahl von Täublingen, die unterwegs im Wald einigermaßen sicher erkannt werden können. Seine Kennzeichen sind der Buckel in der Hutmitte in Verbindung mit der violett- bis purpurbraunen oder weinroten, glänzenden Huthaut, die sich maximal bis zur Hälfte abziehen lässt, und die jung blass gelblichen, später dottergelben Lamellen. Er ist eine Charakterart sandiger Kiefernwälder und hier oft massenhaft anzutreffen. Entgegen mancher Literaturangaben ist er ein guter und empfehlenswerter Speisepilz. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/russula-caerulea-buckeltäubling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_chrysorrheus_03_mhk.jpg" %}
-{% include abbildung_ende.html %}
-
-20.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldflüssige Milchling *Lactarius chrysorrheus*, einer der attraktivsten Vertreter seiner Gattung. Die beim Anschneiden des Fruchtkörpers oder Anritzen der Lamellen austretende Milch ist zuerst weiß, verfärbt sich dann aber innerhalb weniger Sekunden gold- oder schwefelgelb. Diese Verfärbung kann auch sehr plötzlich eintreten. Die Milch ist anfangs mild, wird aber bald brennend scharf. Der Goldflüssige Milchling ist [Mykorrhizapartner](Mykorrhiza "Glossar") von Eichen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lactarius-chrysorrheus-goldflüssiger-milchling)
 
 <div style="clear:  both"></div>
 
