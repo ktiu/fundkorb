@@ -18,6 +18,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+24.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute die Helle Kuchenflechte *Lecanora chlarotera*, eine häufige, an [Apothecien](<Apothecien "Glossar">) reiche, [epiphytische ](<epiphytisch "Glossar">)Krustenflechte. Sie besteht aus zahllosen, oft dicht an dicht liegenden Becherchen mit meist hellbrauner Scheibe und weißem Rand auf einem weißlichem bis grauweißem [Lager (Thallus)](<Lager "Glossar">). Wir fanden mehrere Lager auf der Rinde von Zweigen eines morschen Apfelbaumes auf einer Streuobstwiese im Schwarzwaldrandgebiet bei Karlsbad-Spielberg. (Bernd Miggel)
+
+[Mehr lesen >](/pilze/lecanora-chlarotera-helle-kuchenflechte)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/resupinatus_applicatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,18 +48,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 22.11.2024: Bei vielen Pilzfreunden ist unser aktueller [Fundkorbpilz](AA "Glossar-") ein beliebter Speisepilz. Doch Achtung! Trotz seines hohen kulinarischen Wertes ist das Ernten von Stockschwämmchen (*Kuehneromyces mutabilis*) nur erfahrenen Sammlern zu empfehlen. Verwechslungen mit ähnlichen [Gifthäublingen](/pilze/galerina-marginata-gifthäubling), die mitunter am selben Holz zusammen mit Stockschwämmchen vorkommen, können tödlich enden! Sie enthalten die gleichen Giftstoffe wie der Grüne Knollenblätterpilz. (Adam Adamowicz)
 
 [Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_caerulea_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buckeltäubling *Russula caerulea*. Er gehört zu der sehr überschaubaren Anzahl von Täublingen, die unterwegs im Wald einigermaßen sicher erkannt werden können. Seine Kennzeichen sind der Buckel in der Hutmitte in Verbindung mit der violett- bis purpurbraunen oder weinroten, glänzenden Huthaut, die sich maximal bis zur Hälfte abziehen lässt, und die jung blass gelblichen, später dottergelben Lamellen. Er ist eine Charakterart sandiger Kiefernwälder und hier oft massenhaft anzutreffen. Entgegen mancher Literaturangaben ist er ein guter und empfehlenswerter Speisepilz. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/russula-caerulea-buckeltäubling)
 
 <div style="clear:  both"></div>
 
