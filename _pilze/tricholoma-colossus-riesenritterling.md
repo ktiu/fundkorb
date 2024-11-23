@@ -28,17 +28,23 @@ literatur:
 {% include bild.html datei="/bilder/tricholoma_colossus_01_lh.jpg" %}
 {% include abbildung_ende.html %}
 
-Während einer Kartierungsexkursion in der „Hesel-, Kohl- und Brandmisse“ bei Oberreichenbach-Würzbach im Nordschwarzwald fanden Liss Hoffmann und ich am 21. Oktober 2023 bei alten Waldkiefern zwei dieser eindrucksvollen Pilze. Bei diesem Naturschutzgebiet handelt es sich um ebene, flachgründige Waldbereiche auf saurem, nährstoffarmem, moorigem Boden über Granitgestein.
-
-„Nomen est omen“, kann man zu dieser Pilzart ohne Übertreibung sagen. Der Riesenritterling Tricholoma colossus ist ein wahrer Koloss mit typischem Ritterlingshabitus, sehr großem, orangebraunem Hut, gedrungenem, orangebraunem Stiel und cremefarbenen, gefleckten Lamellen. Er geht eine Mykorrhiza vorzugsweise mit Kiefern ein, ist in Mitteleuropa weit verbreitet, jedoch sehr selten. An den Boden stellt es keine besonderen Anforderungen. Die Rote Liste Deutschlands (2016) führt ihn in der Kategorie 2 (stark gefährdet).
-
-**Makroskopische Merkmale:**\
-Die Hüte dieser massiven Pilze erreichen Breiten von bis zu 25 oder sogar 30 cm. Die beiden gefundenen Exemplare besaßen ca. 15 cm Durchmesser. Die Hüte sind anfangs halbkugelig, später konvex oder ausgebreitet mit leicht vertieftem Zentrum, meist mit stark eingerolltem, gefurchtem Rand. Die Huthaut ist eingewachsen faserig, bei feuchtem Wetter schleimig und etwas glänzend. Die Hutfarbe reicht von blass orange über orangebraun bis bräunlich orange oder ziegelrot.
+Während einer Kartierungsexkursion in der „Hesel-, Kohl- und Brandmisse“ bei Oberreichenbach-Würzbach im Nordschwarzwald fanden *Liss Hoffmann* und ich am 21. Oktober 2023 bei alten Waldkiefern zwei dieser eindrucksvollen Pilze. Bei diesem Naturschutzgebiet handelt es sich um ebene, flachgründige Waldbereiche auf saurem, nährstoffarmem, moorigem Boden über Granitgestein.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tricholoma_colossus_02_lh.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/tricholoma_colossus_03_lh.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
+
+Bei einer Ätna-Exkursion im Oktober 2024 hat *Georg Schabel* den auffallenden Pilz auch auf der Insel Sizilien gefunden und fotografiert. Die Zapfen verraten etwas über seinen bevorzugten Baumpartner. Er geht eine [Mykorrhiza](Mykorrhiza "Glossar") mit Kiefern ein. In Deutschland ist er vom Aussterben bedroht. Die Rote Liste Deutschlands (2016) führt ihn in der Kategorie 2 (stark gefährdet).
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/tricholoma_colossus_05_gsch.jpg" %}
+{% include abbildung_ende.html legende="Foto: Georg Schabel" %}
+
+*„Nomen est omen“*, kann man zu dieser Pilzart ohne Übertreibung sagen. Der Riesenritterling *Tricholoma colossus* ist ein wahrer Koloss mit typischem Ritterlingshabitus, sehr großem, orangebraunem Hut, gedrungenem, orangebraunem Stiel und cremefarbenen, gefleckten Lamellen. An den Boden stellt er keine besonderen Anforderungen.
+
+**Makroskopische Merkmale:**\
+Die Hüte dieser massiven Pilze erreichen Breiten von bis zu 25 oder sogar 30 cm. Die gefundenen Exemplare besaßen ca. 15 cm Durchmesser. Die Hüte sind anfangs halbkugelig, später konvex oder ausgebreitet mit leicht vertieftem Zentrum, meist mit stark eingerolltem, gefurchtem Rand. Die Huthaut ist eingewachsen faserig, bei feuchtem Wetter schleimig und etwas glänzend. Die Hutfarbe reicht von blass orange über orangebraun bis bräunlich orange oder ziegelrot.
 
 Die Lamellen sind brüchig, dichtstehend, breit, stark mit Lamelletten untermischt und am Stiel ausgebuchtet angewachsen. Sie sind anfangs cremefarben und werden allmählich blass orange. Die Schneiden sind bei ausgewachsenen Exemplaren bräunlich; auch die Lamellenflächen werden braunfleckig. Die Stiele sind äußerst stämmig, d.h. kurz und sehr dick. Sie können bis zu 6 cm Breite erreichen. Die beiden gefundenen Exemplare besaßen ca. 4 cm Breite. Im Allgemeinen sind die Stiele im oberen Bereich zylindrisch, nach unten hin mitunter knollig verdickt und in einer Art Wurzel endend. Dabei kann die Knolle durchaus Breiten von bis zu 10 cm erreichen. Junge Fruchtkörper besitzen einen wolligen Ring, der jedoch mit dem Alter verschwindet oder nur noch angedeutet vorhanden ist. Oberhalb der Ringzone ist die Stielfarbe weißlich, cremefarben, unterhalb braun und faserig bis schuppig. Das Fleisch ist weißlich, fest, im Hut dick und im Stiel voll. Im Schnitt rötet es spontan. Die Pilze sind geruchlos und im Geschmack mild.
 
@@ -50,6 +56,6 @@ Die Lamellen sind brüchig, dichtstehend, breit, stark mit Lamelletten untermisc
 
 Die Sporen sind ellipsoid, glatt- und dünnwandig und besitzen mittig einen großen Tropfen. Messerte von 36 repräsentativen Sporen: 7,4 - 9,7 x 5,0 - 6,5 µm; Quotient: 1,45 - 1,54
 
-**Verwechslungsmöglichkeiten:**  
+**Verwechslungsmöglichkeiten:**\
 Der Halsband-Ritterling (*Tricholoma focale*) besitzt einen ausgeprägten, hautähnlichen Ring, der Stiel ist schlanker, die Sporen sind kleiner.
 Der Fastberingte Ritterling (*Tricholoma batschii*) besitzt einen schlankeren Stiel und kleinere Sporen.
