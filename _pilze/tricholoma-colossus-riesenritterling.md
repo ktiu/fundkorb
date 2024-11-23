@@ -35,7 +35,7 @@ Während einer Kartierungsexkursion in der „Hesel-, Kohl- und Brandmisse“ be
 {% include bild.html datei="/bilder/tricholoma_colossus_03_lh.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Bei einer Ätna-Exkursion im Oktober 2024 hat *Georg Schabel* den auffallenden Pilz auch auf der Insel Sizilien gefunden und fotografiert. Die Zapfen verraten etwas über seinen bevorzugten Baumpartner. Er geht eine [Mykorrhiza](Mykorrhiza "Glossar") mit Kiefern ein. In Deutschland ist er vom Aussterben bedroht. Die Rote Liste Deutschlands (2016) führt ihn in der Kategorie 2 (stark gefährdet).
+Bei einer Ätna-Exkursion im Oktober 2024 hat *Georg Schabel* den auffallenden Pilz auch auf der Insel Sizilien gefunden und fotografiert. Die Zapfen verraten etwas über seinen bevorzugten Baumpartner. Er geht eine [Mykorrhiza](Mykorrhiza "Glossar") mit Kiefern ein. In Deutschland ist er vom Aussterben bedroht. Die Rote Liste (2016) führt ihn in der Kategorie 2 (stark gefährdet).
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/tricholoma_colossus_05_gsch.jpg" %}
