@@ -21,7 +21,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-24.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute die Helle Kuchenflechte *Lecanora chlarotera*, eine häufige, an [Apothecien](<Apothecien "Glossar">) reiche, [epiphytische ](<epiphytisch "Glossar">)Krustenflechte. Sie besteht aus zahllosen, oft dicht an dicht liegenden Becherchen mit meist hellbrauner Scheibe und weißem Rand auf einem weißlichem bis grauweißem [Lager (Thallus)](<Lager "Glossar">). Wir fanden mehrere Lager auf der Rinde von Zweigen eines morschen Apfelbaumes auf einer Streuobstwiese im Schwarzwaldrandgebiet bei Karlsbad-Spielberg. (Bernd Miggel)
+24.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute die Helle Kuchenflechte *Lecanora chlarotera*, eine häufige, an [Apothecien](Apothecien "Glossar") reiche, [epiphytische ](epiphytisch"Glossar") Art. Sie besteht aus zahllosen, oft dicht an dicht liegenden Becherchen mit meist hellbrauner Scheibe und weißem Rand auf einem weißlichem bis grauweißem [Lager (Thallus)](Lager "Glossar"). Wir fanden mehrere Lager auf der Rinde von Zweigen eines morschen Apfelbaumes auf einer Streuobstwiese im Schwarzwaldrandgebiet bei Karlsbad-Spielberg. (Bernd Miggel)
 
 [Mehr lesen >](/pilze/lecanora-chlarotera-helle-kuchenflechte)
 
