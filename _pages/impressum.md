@@ -19,5 +19,5 @@ Hermine Lotz-Winter
 Dieter Gewalt  
 Rodgaustraße 26  
 63128 Dietzenbach  
-[mailto:dgewalt@web.de](dgewalt@web.de)
+[dgewalt@web.de](mailto:dgewalt@web.de)
 
