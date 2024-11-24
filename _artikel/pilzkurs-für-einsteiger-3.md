@@ -48,6 +48,10 @@ Pfifferlinge kennt wohl jeder und der Vergleich eines Fundes mit einem Foto soll
 
 Um mit ihnen besser klarzukommen, sollte man wissen, dass Pfifferlinge an der Hutunterseite keine Lamellen sondern Leisten haben. Die Lamellen der Blätterpilze (zum Beispiel beim Fliegenpilz oder Champignon) sind sehr dünne aber relativ breite Blättchen, die in ihrer Struktur völlig anders beschaffen sind als das Hutfleisch. Leisten dagegen sind dickliche Ausbuchtungen des Hutfleischs, wie die nachstehende schematische Darstellung verdeutlicht:
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/einsteiger_06_dg.jpeg" %}
+{% include abbildung_ende.html legende="Lamellen (Falscher Pfifferling) -- Leisten („echter“ Pfifferling)" %}
+
 Wem dieser Unterschied verständlich und geläufig geworden ist, wird auch keine Probleme haben, den „echten“ vom [Falschen Pfifferling (*Hygrophoropsis aurantiaca*)](/hygrophoropsis-aurantiaca-falscher-pfifferling) zu unterscheiden. Man braucht sie nur wie oben dargestellt durchzuschneiden und die Schnittflächen zu vergleichen!
 
 {% include abbildung_start.html stil="standard" %}
