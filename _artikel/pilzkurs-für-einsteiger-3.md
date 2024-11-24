@@ -54,7 +54,7 @@ Um mit ihnen besser klarzukommen, sollte man wissen, dass Pfifferlinge an der Hu
 
 Wem dieser Unterschied verständlich und geläufig geworden ist, wird auch keine Probleme haben, den „echten“ vom [Falschen Pfifferling (*Hygrophoropsis aurantiaca*)](/hygrophoropsis-aurantiaca-falscher-pfifferling) zu unterscheiden. Man braucht sie nur wie oben dargestellt durchzuschneiden und die Schnittflächen zu vergleichen!
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
 {% include abbildung_ende.html legende="Falscher Pfifferling" %}
 
@@ -67,7 +67,7 @@ Da wir inzwischen bei den Leistlingen und Pfifferlingen angekommen sind, soll de
 {% include bild.html datei="/bilder/cantharellus_tubaeformis_03_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Trompetenpfifferling" %}
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/cantharellus_tubaeformis_01_dg.jpg" %}
 {% include abbildung_ende.html legende="Die Ähnlichkeit mit dem „echten“ Pfifferling ist unverkennbar, nur Farben und Form sind anders und die Stiele dünner" %}
 
