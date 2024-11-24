@@ -18,6 +18,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_colossus_05_gsch.jpg" %}
+{% include abbildung_ende.html %}
+
+25.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenritterling *Tricholoma colossus*. Das Foto des beeindruckenden und seltenen Pilze entstand bei einer Exkursion am Hang des Ätna auf der Insel Sizilien. Die Zapfen verraten etwas über seinen bevorzugten Baumpartner. Er geht eine [Mykorrhiza](<Mykorrhiza "Glossar">) mit Kiefern ein. In Deutschland ist er vom Aussterben bedroht. (Georg Schabel)
+
+[Mehr lesen >](/pilze/tricholoma-colossus-riesenritterling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
