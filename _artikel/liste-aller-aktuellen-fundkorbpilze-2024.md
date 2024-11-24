@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-24.11.2024: [Lecanora chlarotera - Helle Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte)  
+25.11.2024: [Tricholoma colossus - Riesenritterling](/pilze/tricholoma-colossus-riesenritterling)  
+24.11.2024: [Lecanora chlarotera - Helle Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte)\
 23.11.2024: [Resupinatus applicatus - Flaumiger Zwergseitling](/pilze/resupinatus-applicatus-flaumiger-zwergseitling)\
 22.11.2024: [Kuehneromyces mutabilis - Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen)\
 21.11.2024: [Russula caerulea - Buckeltäubling](/pilze/russula-caerulea-buckeltäubling)\
