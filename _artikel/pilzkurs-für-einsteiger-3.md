@@ -10,7 +10,7 @@ Thema der dritten Lektion sind Pilzarten, die so gut wie unverwechselbar sind. B
 
 Die meisten Einsteiger in die Pilzkunde interessieren sich vor allem für Arten, die man leicht und sicher erkennen und essen kann. Darunter verstehe ich solche, bei denen durch Vergleich eines Fundes mit einem Foto eine so deutliche Übereinstimmung besteht, dass Verwechslungen mit anderen Arten ausgeschlossen werden können. Auch jede Pilzerkennungs-App auf dem Handy würde sofort den korrekten Namen liefern. Ein erstes hervorragendes Beispiel ist die [Krause Glucke (*Sparassis crispa*)](/pilze/sparassis-crispa-krause-glucke), die sich auch als leckerer Speisepilz großer Beliebtheit bei Sammlern erfreut. Sie kann Durchmesser von bis zu 40 cm erreichen und bis zu 5 kg schwer werden. Ihr Aussehen erinnert an einen Badeschwamm. Sie ist nicht nur lecker sondern aufgrund ihrer Größe auch sehr ergiebig, aber nicht immer leicht zu putzen.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/sparassis_crispa_03_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/sparassis_crispa_05_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Was aussieht wie eine Krause Glucke ist auch eine!" %}
@@ -50,7 +50,7 @@ Um mit ihnen besser klarzukommen, sollte man wissen, dass Pfifferlinge an der Hu
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/einsteiger_06_dg.jpeg" %}
-{% include abbildung_ende.html legende="Lamellen (Falscher Pfifferling) -- Leisten („echter“ Pfifferling)" %}
+{% include abbildung_ende.html %}
 
 Wem dieser Unterschied verständlich und geläufig geworden ist, wird auch keine Probleme haben, den „echten“ vom [Falschen Pfifferling (*Hygrophoropsis aurantiaca*)](/hygrophoropsis-aurantiaca-falscher-pfifferling) zu unterscheiden. Man braucht sie nur wie oben dargestellt durchzuschneiden und die Schnittflächen zu vergleichen!
 
