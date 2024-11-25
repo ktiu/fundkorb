@@ -44,7 +44,7 @@ Pfifferlinge kennt wohl jeder und der Vergleich eines Fundes mit einem Foto soll
 {% include bild.html datei="/bilder/cantharellus_pallens_01_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Pfifferlinge -- Samtige Pfifferlinge -- Blasse Pfifferlinge" %}
 
-„Echte“ [Pfifferlinge (*Cantharellus cibarius*)](/pilze/cantharellus-cibarius-pfifferling) sind stämmig, robust und festfleischig. [Samtige Pfifferlinge *(Cantharellus friesii)*](/pilze/cantharellus-friesii-samtiger-pfifferling) haben dünneres Fleisch, der Hutrand ist elastischer und flatteriger. Der [Blasse Pfifferling (*Cantharellus pallens*)](/pilze/cantharellus-pallens-blasser-laubwaldpfifferling) ist heller als der „Echte“, der farbliche Unterschied aber nicht immer so deutlich wie auf den obigen Abbildungen. Der Amethyst-Pfifferling (*Cantharellus amethysteus*) unterscheidet sich von der Typusart durch violettliche Schüppchen auf dem Hut und weißlich bereifte Stiele. Diese Unterschiede sind auch im Rahmen der Variabilität vieler Pilze oft kaum wahrnehmbar und für den Speisepilzsammler ohne Belang. Alle diese Pfifferlingsarten sind ausgezeichnete Speisepilze!
+„Echte“ [Pfifferlinge (*Cantharellus cibarius*)](/pilze/cantharellus-cibarius-pfifferling) sind stämmig, robust und festfleischig. [Samtige Pfifferlinge *(Cantharellus friesii)*](/pilze/cantharellus-friesii-samtiger-pfifferling) haben dünneres Fleisch, der Hutrand ist elastischer und flatteriger. Der [Blasse Pfifferling (*Cantharellus pallens*)](/pilze/cantharellus-pallens-blasser-laubwaldpfifferling) ist heller als der „Echte“, der farbliche Unterschied aber nicht immer so deutlich wie auf den obigen Abbildungen. Der [Amethyst-Pfifferling (*Cantharellus amethysteus*)](/pilze/cantharellus-amethysteus-violettschuppiger-pfifferling) unterscheidet sich von der Typusart durch violettliche Schüppchen auf dem Hut und weißlich bereifte Stiele. Diese Unterschiede sind auch im Rahmen der Variabilität vieler Pilze oft kaum wahrnehmbar und für den Speisepilzsammler ohne Belang. Alle diese Pfifferlingsarten sind ausgezeichnete Speisepilze!
 
 Um mit ihnen besser klarzukommen, sollte man wissen, dass Pfifferlinge an der Hutunterseite keine Lamellen sondern Leisten haben. Die Lamellen der Blätterpilze (zum Beispiel beim Fliegenpilz oder Champignon) sind sehr dünne aber relativ breite Blättchen, die in ihrer Struktur völlig anders beschaffen sind als das Hutfleisch. Leisten dagegen sind dickliche Ausbuchtungen des Hutfleischs, wie die nachstehende schematische Darstellung verdeutlicht:
 
@@ -105,6 +105,6 @@ Das weiße Innere im Hexenei der Stinkmorchel ist übrigens roh essbar!
 
 **Literatur:**
 
-<https://www.dgfm-ev.de/pilz-des-jahres/2022-fliegenpilz>  
-<https://www.dgfm-ev.de/pilz-des-jahres/2017-judasohr>  
+<https://www.dgfm-ev.de/pilz-des-jahres/2022-fliegenpilz>\
+<https://www.dgfm-ev.de/pilz-des-jahres/2017-judasohr>\
 <https://www.dgfm-ev.de/pilz-des-jahres/2020-gewoehnliche-stinkmorchel>
