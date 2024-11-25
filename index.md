@@ -18,6 +18,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/aleurodiscus_disciformis_05_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+Jede Pilzart birgt ihre Besonderheiten, so auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die unauffällige Schüsselförmige Mehlscheibe *Aleurodiscus disciformis*. Dieser kleine, meist nur bis 20 mm breite [Saprobiont](saprobiontisch "Glossar") besiedelt die Rinde alter Eichen. Das Besondere an ihm: das Gewebe der Fruchtkörper ist mit Kristallen übersät, die man mit zwei über Kreuz angeordneten Polarisationsfiltern zum Leuchten bringen kann, hier gezeigt in einer gestapelten Aufnahme aus fünf Einzelbildern. (Bernd Miggel)
+
+[Mehr lesen](/pilze/aleurodiscus-disciformis-schüsselförmige-mehlscheibe)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_colossus_05_gsch.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -48,18 +60,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 23.11.2024: Wir sind sicher nicht die Einzigen, denen in der Gattung *Resupinatus* (Zwergseitlinge) der Durchblick fehlt. Eigentlich schade, denn es sind sehr hübsche kleine Pilzchen, die zumeist totes Holz besiedeln. Klarheit herrscht beim Flaumigen Zwergseitling *Resupinatus applicatus*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Er dürfte zu den häufigeren, etwas größeren und gut kenntlichen Vertretern der Gattung gehören, die mehr Beachtung verdient. (Hermine Lotz-Winter & Dieter Gewalt)
 
 [Mehr lesen >](/pilze/resupinatus-applicatus-flaumiger-zwergseitling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/kuehneromyces_mutabilis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.11.2024: Bei vielen Pilzfreunden ist unser aktueller [Fundkorbpilz](AA "Glossar-") ein beliebter Speisepilz. Doch Achtung! Trotz seines hohen kulinarischen Wertes ist das Ernten von Stockschwämmchen (*Kuehneromyces mutabilis*) nur erfahrenen Sammlern zu empfehlen. Verwechslungen mit ähnlichen [Gifthäublingen](/pilze/galerina-marginata-gifthäubling), die mitunter am selben Holz zusammen mit Stockschwämmchen vorkommen, können tödlich enden! Sie enthalten die gleichen Giftstoffe wie der Grüne Knollenblätterpilz. (Adam Adamowicz)
-
-[Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
 
 <div style="clear:  both"></div>
 
