@@ -25,7 +25,7 @@ Sein Habitus erinnert sowohl an den [Echten (Cantharellus cibarius)](/pilze/cant
 {% include bild.html datei="/bilder/cantharellus_amethysteus_03_eh.jpg" %}
 {% include abbildung_ende.html legende="Deutlich mehr Violett zeigt dieses Foto von Erik Hock" %}
 
-Das Foto von *Wolfgang Kaiser* (siehe Collage) zeigt Fruchtkörper, bei denen der Violettanteil dominiert und auch die leicht schuppige Hutoberfläche deutlich zu erkennen ist. Beide Abbildungen zeigen übereinstimmend lappig wellige Hutränder. Im Zweifel hilft auch das Mikroskop nicht weiter. Die Sporenmaße der beiden sind in der Literatur so unterschiedlich angegeben, dass man kaum Schlüsse daraus ziehen kann.
+Das Foto von *Wolfgang Kaiser* (siehe Collage) zeigt Fruchtkörper, bei denen der Violettanteil dominiert und auch die leicht schuppige Hutoberfläche deutlich zu erkennen ist. Die Abbildungen zeigen übereinstimmend lappig wellige Hutränder. Im Zweifel hilft auch das Mikroskop nicht weiter. Die Sporenmaße der beiden sind in der Literatur so unterschiedlich angegeben, dass man kaum Schlüsse daraus ziehen kann.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cantharellus_amethysteus_02_wk.jpg" %}
