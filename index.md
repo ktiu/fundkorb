@@ -21,7 +21,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/aleurodiscus_disciformis_05_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-Jede Pilzart birgt ihre Besonderheiten, so auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die unauffällige Schüsselförmige Mehlscheibe *Aleurodiscus disciformis*. Dieser kleine, meist nur bis 20 mm breite [Saprobiont](saprobiontisch "Glossar") besiedelt die Rinde alter Eichen. Das Besondere an ihm: das Gewebe der Fruchtkörper ist mit Kristallen übersät, die man mit zwei über Kreuz angeordneten Polarisationsfiltern zum Leuchten bringen kann, hier gezeigt in einer gestapelten Aufnahme aus fünf Einzelbildern. (Bernd Miggel)
+26.11.2024: Jede Pilzart birgt ihre Besonderheiten, so auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die unauffällige Schüsselförmige Mehlscheibe *Aleurodiscus disciformis*. Dieser kleine, meist nur bis 20 mm breite [Saprobiont](saprobiontisch "Glossar") besiedelt die Rinde alter Eichen. Das Besondere an ihm: das Gewebe der Fruchtkörper ist mit Kristallen übersät, die man mit zwei über Kreuz angeordneten Polarisationsfiltern zum Leuchten bringen kann, hier gezeigt in einer gestapelten Aufnahme aus fünf Einzelbildern. (Bernd Miggel)
 
 [Mehr lesen](/pilze/aleurodiscus-disciformis-schüsselförmige-mehlscheibe)
 
