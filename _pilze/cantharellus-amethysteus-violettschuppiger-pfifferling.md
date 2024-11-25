@@ -14,7 +14,8 @@ hauptbild:
   datei: /bilder/cantharellus_amethysteus_01_us.jpg
   legende: "Foto: Udo schäfer"
 literatur:
-  - text: https://de.wikipedia.org/wiki/Violettschuppiger_Pfifferling
+  - text: ""
+    url: https://de.wikipedia.org/wiki/Violettschuppiger_Pfifferling
 ---
 Natürlich war der Violettschuppige oder Amethystpfifferling schon mal eine Varietät des [echten Pfifferlings](/pilze/cantharellus-cibarius-pfifferling). Sogar bei den Fältlingen (*Merulius*) ist er schon einsortiert worden (*Gustav Kuntze*, 1891). Heute soll er lt. *Wikipedia* und *Index fungorum* zusammen mit den übrigen Pfifferlingsarten bei den [Stoppelpilzen (*Hydnaceae*)](/pilze/hydnum-repandum-semmelstoppelpilz) zu Hause sein. Er wäre dann so etwas wie ein Violettschuppiger Pfifferlingsstoppelpilz, nur ohne Stoppeln.
 
