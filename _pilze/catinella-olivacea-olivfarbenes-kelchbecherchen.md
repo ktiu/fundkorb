@@ -28,6 +28,6 @@ Diese versteckte Lebensweise führt dazu, dass das Olivfarbene Kelchbecherchen s
 {% include bild.html datei="bilder/catinella_olivacea_eh_01.jpg" %}
 {% include abbildung_ende.html legende="Catinella olivacea aus dem Gernsheimer Wald. Foto: Erik Hock" %}
 
-Die Art ist durch ihr Aussehen bereits makroskopisch sicher zu identifizieren, sollte man sie trotzdem mikroskopieren wollen, lohnt sich ein Blick auf die charakteristischen Sporen: diese sind elliptisch, werden etwa 8-11x4-4μm groß und sind seitlich etwas eingeschnürt, so dass sie wie kleine Schuhsohlen aussehen.
+Die Art ist durch ihr Aussehen bereits makroskopisch sicher zu identifizieren, sollte man sie trotzdem mikroskopieren wollen, lohnt sich ein Blick auf die charakteristischen Sporen: diese sind elliptisch, werden etwa 8-11x4-5μm groß und sind seitlich etwas eingeschnürt, so dass sie wie kleine Schuhsohlen aussehen.
 
 *Catinella olivacea* ist in Mitteleuropa zerstreut verbreitet und gilt als relativ selten. In Deutschland wird die Art in der Roten Liste in der Kategorie 3 (gefährdet) geführt. Wahrscheinlich hängt dies vor allem mit dem Mangel an naturnahen Wäldern mit einem ausreichend hohen Angebot an Totholz zusammen.
