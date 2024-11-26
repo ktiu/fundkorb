@@ -18,6 +18,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinopsis_cinerea_01_km.jpg" %}
+{% include abbildung_ende.html %}
+
+27.11.2024: Einige Tintlinge haben sich auf Kompost- und Misthaufen oder andere mit Dung angereicherte Biotope spezialisiert, darunter auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Struppige Tintling *Coprinopsis cinerea*. Er ist der mit Abstand häufigste dieser Kategorie. Wir finden ihn regelmäßig auf einer riesigen Deponie bei Dietzenbach, auf der das mit Pferdedung vermischte Stroh eines Reiterhofes abgelagert wird. Oft kann man ihn in allen Entwicklungsstadien gleichzeitig beobachten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/coprinopsis-cinerea-struppiger-tintling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/aleurodiscus_disciformis_05_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,30 +48,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 25.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenritterling *Tricholoma colossus*. Das Foto des beeindruckenden und seltenen Pilze entstand bei einer Exkursion am Hang des Ätna auf der Insel Sizilien. Die Zapfen verraten etwas über seinen bevorzugten Baumpartner. Er geht eine [Mykorrhiza](<Mykorrhiza "Glossar">) mit Kiefern ein. In Deutschland ist er vom Aussterben bedroht. (Georg Schabel)
 
 [Mehr lesen >](/pilze/tricholoma-colossus-riesenritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-24.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute die Helle Kuchenflechte *Lecanora chlarotera*, eine häufige, an [Apothecien](Apothecien "Glossar") reiche, [epiphytische](epiphytisch "Glossar") Art. Sie besteht aus zahllosen, oft dicht an dicht liegenden Becherchen mit meist hellbrauner Scheibe und weißem Rand auf einem weißlichem bis grauweißem [Lager (Thallus)](Lager "Glossar"). Wir fanden mehrere Lager auf der Rinde von Zweigen eines morschen Apfelbaumes auf einer Streuobstwiese im Schwarzwaldrandgebiet bei Karlsbad-Spielberg. (Bernd Miggel)
-
-[Mehr lesen >](/pilze/lecanora-chlarotera-helle-kuchenflechte)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/resupinatus_applicatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.11.2024: Wir sind sicher nicht die Einzigen, denen in der Gattung *Resupinatus* (Zwergseitlinge) der Durchblick fehlt. Eigentlich schade, denn es sind sehr hübsche kleine Pilzchen, die zumeist totes Holz besiedeln. Klarheit herrscht beim Flaumigen Zwergseitling *Resupinatus applicatus*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Er dürfte zu den häufigeren, etwas größeren und gut kenntlichen Vertretern der Gattung gehören, die mehr Beachtung verdient. (Hermine Lotz-Winter & Dieter Gewalt)
-
-[Mehr lesen >](/pilze/resupinatus-applicatus-flaumiger-zwergseitling)
 
 <div style="clear:  both"></div>
 
