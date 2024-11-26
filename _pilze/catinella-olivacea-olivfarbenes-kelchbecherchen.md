@@ -16,7 +16,7 @@ literatur:
   - url: https://asco-sonneberg.de/pages/gallery/catinella-olivacea-180617-ws-iw024-01xsmjj40264.php
   - url: https://www.123pilzsuche.de/daten/details/OlivfarbenesKelchbecherchen.htm
 ---
-Das Olivfarbene Kelchbecherchen (*Catinella olivacea*) ist ein seltener Ascomycet aus der Familie der *Catinellaceae* innerhalb der Klasse der *Dothideomycetes*.
+Das Olivfarbene Kelchbecherchen (*Catinella olivacea*) ist ein seltener [Ascomyzet](Ascomyzeten "Glossar") aus der Familie der *Catinellaceae* innerhalb der Klasse der *Dothideomycetes*.
 
 Die Fruchtkörper sind zunächst fast kugelig und geschlossen, entwickeln sich mit zunehmendem Alter zu teller- oder scheibenförmigen [Apothecien](Apothecien "Glossar") mit einem Durchmesser von 0,5 bis 1 cm, gelegentlich auch bis über 2 cm. Sie sitzen ohne Stiel direkt dem Substrat auf und haben einen farblich deutlich abgesetzten, meist gerieften Rand. Die Farbe der Becher ist in jungen Stadien gelblich-  oder dunkelgrün und wird bei Reife dunkelolivschwarz. Der lange eingerollt bleibende Rand ist intensiv gelblich oder gelbbraun gefärbt.
 
