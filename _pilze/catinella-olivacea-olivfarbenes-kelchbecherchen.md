@@ -13,8 +13,8 @@ hauptbild:
   datei: bilder/catinella_olivacea_eh_02.jpg
   legende: "Catinella olivacea aus dem Gernsheimer Wald. Foto: Erik Hock"
 literatur:
-  - url: https://www.123pilzsuche.de/daten/details/OlivfarbenesKelchbecherchen.htm
   - url: https://asco-sonneberg.de/pages/gallery/catinella-olivacea-180617-ws-iw024-01xsmjj40264.php
+  - url: https://www.123pilzsuche.de/daten/details/OlivfarbenesKelchbecherchen.htm
 ---
 Das Olivfarbene Kelchbecherchen (*Catinella olivacea*) ist ein seltener Ascomycet aus der Familie der *Catinellaceae* innerhalb der Klasse der *Dothideomycetes*.
 
