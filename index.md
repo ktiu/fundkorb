@@ -53,18 +53,6 @@ Der aktuelle [Fundkorbpilz](AA "Glossar-") ist zwar leicht zu erkennen und hübs
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_colossus_05_gsch.jpg" %}
-{% include abbildung_ende.html %}
-
-25.11.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenritterling *Tricholoma colossus*. Das Foto des beeindruckenden und seltenen Pilze entstand bei einer Exkursion am Hang des Ätna auf der Insel Sizilien. Die Zapfen verraten etwas über seinen bevorzugten Baumpartner. Er geht eine [Mykorrhiza](<Mykorrhiza "Glossar">) mit Kiefern ein. In Deutschland ist er vom Aussterben bedroht. (Georg Schabel)
-
-[Mehr lesen >](/pilze/tricholoma-colossus-riesenritterling)
-
-<div style="clear:  both"></div>
-
-- - -
-
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
