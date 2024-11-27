@@ -18,6 +18,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/catinella_olivacea_eh_02.jpg" %}
+{% include abbildung_ende.html %}
+
+Der aktuelle [Fundkorbpilz](AA "Glossar-") ist zwar leicht zu erkennen und hübsch anzusehen, dafür aber umso schwerer zu finden: das Olivfarbene Kelchbecherchen (*Catinella olivacea*) ist nicht nur äußerst selten, es führt dazu noch ein Leben im Verborgenen. Sein bevorzugter Lebensraum sind naturbelassene, feuchte Laubwälder mit einem großen Angebot an Totholz. Dort wächst es, meistens gut in Hohlräumen und Rissen versteckt, auf stark morschen Stämmen und Ästen. (Erik Hock)
+
+[Mehr lesen >](/pilze/catinella-olivacea-olivfarbenes-kelchbecherchen)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinopsis_cinerea_01_km.jpg" %}
 {% include abbildung_ende.html %}
 
