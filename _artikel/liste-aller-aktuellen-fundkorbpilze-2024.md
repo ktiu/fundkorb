@@ -2,8 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-28.11.2024: [Catinella olivacea - Olivfarbenes Kelchbecherchen](/pilze/catinella-olivacea-olivfarbenes-kelchbecherchen)  
-27.11.2024: [Coprinopsis cinerea - Struppiger Tintling](/pilze/coprinopsis-cinerea-struppiger-tintling)  
+29.11.2024: [Psathyrella tephrophylla - Graublättriger Mürbling](/pilze/psathyrella-tephrophylla-graublättriger-mürbling)  
+28.11.2024: [Catinella olivacea - Olivfarbenes Kelchbecherchen](/pilze/catinella-olivacea-olivfarbenes-kelchbecherchen)\
+27.11.2024: [Coprinopsis cinerea - Struppiger Tintling](/pilze/coprinopsis-cinerea-struppiger-tintling)\
 26.11.2024: [Aleurodiscus disciformis - Schüsselförmige Mehlscheibe](/pilze/aleurodiscus-disciformis-schüsselförmige-mehlscheibe)\
 25.11.2024: [Tricholoma colossus - Riesenritterling](/pilze/tricholoma-colossus-riesenritterling)\
 24.11.2024: [Lecanora chlarotera - Helle Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte)\
