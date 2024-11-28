@@ -18,36 +18,24 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/psathyrella_tephrophylla_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.11.2024: Ein schönes Beispiel für Hygrophanität (auf deutsch: Wasserzügigkeit) ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Graublättrige Mürbling *Psathyrella tephrophylla*. In frischem oder feuchten Zustand sind seine Hüte schön dunkelbraun. Sie verblassen jedoch in dem Maße, wie sie ihre Feuchtigkeit verlieren. Das nennt man hygrophan. Helle Lamellenschneiden sind ein anderes Merkmal, aber um unseren am Dietzenbacher Wollwiesenteich gefundenen Pilz sicher von ähnlichen Mürblingen (Faserlingen, Zärtlingen) unterscheiden zu können, sind auch mikroskopische Details wie Sporen und Zystiden zu beachten. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/psathyrella-tephrophylla-graublättriger-mürbling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/catinella_olivacea_eh_02.jpg" %}
 {% include abbildung_ende.html %}
 
 28.11.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-") ist zwar leicht zu erkennen und hübsch anzusehen, dafür aber umso schwerer zu finden: das Olivfarbene Kelchbecherchen (*Catinella olivacea*) ist nicht nur äußerst selten, es führt dazu noch ein Leben im Verborgenen. Sein bevorzugter Lebensraum sind naturbelassene, feuchte Laubwälder mit einem großen Angebot an Totholz. Dort wächst es, meistens gut in Hohlräumen und Rissen versteckt, auf stark morschen Stämmen und Ästen. (Erik Hock)
 
 [Mehr lesen >](/pilze/catinella-olivacea-olivfarbenes-kelchbecherchen)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinopsis_cinerea_01_km.jpg" %}
-{% include abbildung_ende.html %}
-
-27.11.2024: Einige Tintlinge haben sich auf Kompost- und Misthaufen oder andere mit Dung angereicherte Biotope spezialisiert, darunter auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Struppige Tintling *Coprinopsis cinerea*. Er ist der mit Abstand häufigste dieser Kategorie. Wir finden ihn regelmäßig auf einer riesigen Deponie bei Dietzenbach, auf der das mit Pferdedung vermischte Stroh eines Reiterhofes abgelagert wird. Oft kann man ihn in allen Entwicklungsstadien gleichzeitig beobachten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/coprinopsis-cinerea-struppiger-tintling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/aleurodiscus_disciformis_05_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-26.11.2024: Jede Pilzart birgt ihre Besonderheiten, so auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die unauffällige Schüsselförmige Mehlscheibe *Aleurodiscus disciformis*. Dieser kleine, meist nur bis 20 mm breite [Saprobiont](saprobiontisch "Glossar") besiedelt die Rinde alter Eichen. Das Besondere an ihm: das Gewebe der Fruchtkörper ist mit Kristallen übersät, die man mit zwei über Kreuz angeordneten Polarisationsfiltern zum Leuchten bringen kann, hier gezeigt in einer gestapelten Aufnahme aus fünf Einzelbildern. (Bernd Miggel)
-
-[Mehr lesen](/pilze/aleurodiscus-disciformis-schüsselförmige-mehlscheibe)
 
 <div style="clear:  both"></div>
 
