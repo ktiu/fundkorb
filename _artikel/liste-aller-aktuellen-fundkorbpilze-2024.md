@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-29.11.2024: [Psathyrella tephrophylla - Graublättriger Mürbling](/pilze/psathyrella-tephrophylla-graublättriger-mürbling)  
+30.11.2024: [Cortinarius bolaris - Rotschuppiger Raukopf](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)  
+29.11.2024: [Psathyrella tephrophylla - Graublättriger Mürbling](/pilze/psathyrella-tephrophylla-graublättriger-mürbling)\
 28.11.2024: [Catinella olivacea - Olivfarbenes Kelchbecherchen](/pilze/catinella-olivacea-olivfarbenes-kelchbecherchen)\
 27.11.2024: [Coprinopsis cinerea - Struppiger Tintling](/pilze/coprinopsis-cinerea-struppiger-tintling)\
 26.11.2024: [Aleurodiscus disciformis - Schüsselförmige Mehlscheibe](/pilze/aleurodiscus-disciformis-schüsselförmige-mehlscheibe)\
