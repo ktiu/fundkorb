@@ -18,6 +18,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_pseudocorticola_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.12.2024: Auf die kleinen oder sogar winzigen Rindenhelmlinge wird kaum geachtet. Sie sind häufiger und hübscher als viele glauben. Ein besonders auffälliger ist unser aktueller Fundkorbpilz, der Blaue Rindenhelmling *Mycena pseudocorticola*. Er wächst oft scharenweise auf bemooster oder unbemooster Baumrinde. Bei uns in Dietzenbach im Carré an der Rodgaustraße ist er im Spätherbst und Winter an mehreren Weiden zu finden. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/mycena-pseudocorticola-blauer-rindenhelmling)
+
+<div style="clear:  both"></div>
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cortinarius_bolaris_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
