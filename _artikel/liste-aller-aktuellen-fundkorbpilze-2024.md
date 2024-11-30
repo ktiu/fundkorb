@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-30.11.2024: [Cortinarius bolaris - Rotschuppiger Raukopf](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)  
+01.12.2024: [Mycena pseudocorticula - Blauer Rindenhelmling](/pilze/mycena-pseudocorticola-blauer-rindenhelmling)
+
+30.11.2024: [Cortinarius bolaris - Rotschuppiger Raukopf](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)\
 29.11.2024: [Psathyrella tephrophylla - Graublättriger Mürbling](/pilze/psathyrella-tephrophylla-graublättriger-mürbling)\
 28.11.2024: [Catinella olivacea - Olivfarbenes Kelchbecherchen](/pilze/catinella-olivacea-olivfarbenes-kelchbecherchen)\
 27.11.2024: [Coprinopsis cinerea - Struppiger Tintling](/pilze/coprinopsis-cinerea-struppiger-tintling)\
