@@ -2,8 +2,8 @@
 aktivitaet: Der Weihnachtswald und seine Pilze
 zeit: 2024-12-26T10:00:06.912Z
 bis: ""
-anmeldung_offen: false
-anmeldung_noetig: false
+anmeldung_offen: true
+anmeldung_noetig: true
 published: true
 bilder:
   - /bilder/weihnachten_01_dg.png
