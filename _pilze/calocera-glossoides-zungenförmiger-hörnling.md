@@ -9,7 +9,7 @@ profil:
   aktualisiert: 2023-12-16
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: false
+  anzeige: true
   datei: /bilder/calocera_glossoides_01_cw.jpg
   legende: "Foto: Christian Weinkötz"
 literatur: []
