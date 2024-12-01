@@ -10,10 +10,21 @@ footer_scripts:
 ---
 {% include pilzsuche.html %}
 
-Neue Exkursionstermine:\
-Sonntag, 1. Dezember 2024, 10:00 Uhr: **Der Wald und seine Pilze am 1. Dezember**\
+Neuer Exkursionstermin:\
 Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**\
 [Hier geht's zur Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/haareis_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.12.2024: Den aktuellen [Fundkorbpilz](AA "Glossar-") kann ich leider nicht benennen, denn man weiß noch nicht so genau, welcher für das hier gezeigte Phänomen verantwortlich ist. Es heißt Haareis und kann sich unter sehr speziellen Bedingungen an Totholz bilden. Bei unserer gestrigen pilzkundlichen Führung müssen diese Bedingeungen hervorragend gewesen sein. In einem Jungbuchenwald bei Dietzenbach (nähe Dornsee) war im wahrsten Sinne des Wortes alles voll von Haareis. Mit Sicherheit mehr als 100 Vorkommen, wie die Teilnehmer der Exkursion bezeugen können. (Dieter Gewalt)
+
+[Mehr lesen >](/artikel/haareis)
+
+<div style="clear:  both"></div> 
 
 - - -
 
@@ -36,30 +47,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 30.11.2024: In der Rhein-Main-Ebene ziemlich häufig und leicht zu erkennen ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rotschuppige Raukopf *Cortinarius bolaris*. Da genügt ein Vergleich mit dem beigefügten Foto und selbst eine der etwas besseren Pilze-Apps sollte eine richtige Diagnose liefern. *Karin Montag („Der Tintling“)* hat ihn einmal als *„bunten Harlekin“* bezeichnet. Man findet ihn auf sandigen sauren Böden in Laubwäldern und sollte ihn dort belassen. Er könnte magen-/darmgiftig sein. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/psathyrella_tephrophylla_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.11.2024: Ein schönes Beispiel für Hygrophanität (auf deutsch: Wasserzügigkeit) ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Graublättrige Mürbling *Psathyrella tephrophylla*. In frischem oder feuchten Zustand sind seine Hüte schön dunkelbraun. Sie verblassen jedoch in dem Maße, wie sie ihre Feuchtigkeit verlieren. Das nennt man hygrophan. Helle Lamellenschneiden sind ein anderes Merkmal, aber um unseren am Dietzenbacher Wollwiesenteich gefundenen Pilz sicher von ähnlichen Mürblingen (Faserlingen, Zärtlingen) unterscheiden zu können, sind auch mikroskopische Details wie Sporen und Zystiden zu beachten. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/psathyrella-tephrophylla-graublättriger-mürbling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/catinella_olivacea_eh_02.jpg" %}
-{% include abbildung_ende.html %}
-
-28.11.2024: Der aktuelle [Fundkorbpilz](AA "Glossar-") ist zwar leicht zu erkennen und hübsch anzusehen, dafür aber umso schwerer zu finden: das Olivfarbene Kelchbecherchen (*Catinella olivacea*) ist nicht nur äußerst selten, es führt dazu noch ein Leben im Verborgenen. Sein bevorzugter Lebensraum sind naturbelassene, feuchte Laubwälder mit einem großen Angebot an Totholz. Dort wächst es, meistens gut in Hohlräumen und Rissen versteckt, auf stark morschen Stämmen und Ästen. (Erik Hock)
-
-[Mehr lesen >](/pilze/catinella-olivacea-olivfarbenes-kelchbecherchen)
 
 <div style="clear:  both"></div>
 
