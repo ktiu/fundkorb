@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+02.12.2024: [Haareis](/artikel/haareis)  
 01.12.2024: [Mycena pseudocorticula - Blauer Rindenhelmling](/pilze/mycena-pseudocorticola-blauer-rindenhelmling)
 
 30.11.2024: [Cortinarius bolaris - Rotschuppiger Raukopf](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)\
