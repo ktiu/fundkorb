@@ -16,6 +16,18 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_hartigii_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+03.12.2024: Mehrjährige Pilze haben den unschätzbaren Vorteil, dass man sie über längere Zeiträume beobachten kann. Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Tannen-Feuerschwamm *Phellinus hartigii*, habe ich erstmals am 3. Dezember 2021 in einem Mischwald über Muschelkalk bei Straubenhardt in Baden-Württemberg gefunden und er ist immer noch da. Er ähnelt dem Eichen-Feuerschwamm, wächst im Gegensatz zu diesem aber nahezu ausschließlich an Tannen. Inzwischen soll er auf den Namen *Fomitiporia hartigii* hören. (Bernd Miggel)
+
+[Mehr lesen >](/pilze/phellinus-hartigii-tannen-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+- - -
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/haareis_collage_01_dg.png" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/haareis_collage_02_dg.png" %}
@@ -36,18 +48,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 01.12.2024: Auf die kleinen oder sogar winzigen Rindenhelmlinge wird kaum geachtet. Sie sind häufiger und hübscher als viele glauben. Ein besonders auffälliger ist unser aktueller Fundkorbpilz, der Blaue Rindenhelmling *Mycena pseudocorticola*. Er wächst oft scharenweise auf bemooster oder unbemooster Baumrinde. Bei uns in Dietzenbach im Carré an der Rodgaustraße ist er im Spätherbst und Winter an mehreren Weiden zu finden. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/mycena-pseudocorticola-blauer-rindenhelmling)
-
-<div style="clear:  both"></div>
-
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cortinarius_bolaris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.11.2024: In der Rhein-Main-Ebene ziemlich häufig und leicht zu erkennen ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rotschuppige Raukopf *Cortinarius bolaris*. Da genügt ein Vergleich mit dem beigefügten Foto und selbst eine der etwas besseren Pilze-Apps sollte eine richtige Diagnose liefern. *Karin Montag („Der Tintling“)* hat ihn einmal als *„bunten Harlekin“* bezeichnet. Man findet ihn auf sandigen sauren Böden in Laubwäldern und sollte ihn dort belassen. Er könnte magen-/darmgiftig sein. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)
 
 <div style="clear:  both"></div>
 
