@@ -21,7 +21,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/haareis_collage_02_dg.png" %}
 {% include abbildung_ende.html %}
 
-02.12.2024: Den aktuellen [Fundkorbpilz](AA "Glossar-") kann ich leider nicht benennen, denn man weiß noch nicht so genau, welcher für das hier gezeigte Phänomen verantwortlich ist. Es heißt Haareis und kann sich unter sehr speziellen Bedingungen an Totholz bilden. Bei unserer gestrigen pilzkundlichen Führung müssen diese Bedingeungen hervorragend gewesen sein. In einem Jungbuchenwald bei Dietzenbach (nähe Dornsee) war im wahrsten Sinne des Wortes alles voll von Haareis. Mit Sicherheit mehr als 100 Vorkommen, wie die Teilnehmer der Exkursion bezeugen können. (Dieter Gewalt)
+02.12.2024: Den aktuellen [Fundkorbpilz](AA "Glossar-") kann ich leider nicht benennen, denn man weiß noch nicht so genau, welcher für das hier gezeigte Phänomen verantwortlich ist. Es heißt Haareis und kann sich unter sehr speziellen Bedingungen an Totholz bilden. Bei unserer gestrigen pilzkundlichen Führung müssen diese Bedingungen hervorragend gewesen sein. In einem Jungbuchenwald bei Dietzenbach (nähe Dornsee) war im wahrsten Sinne des Wortes alles voll von Haareis. Mit Sicherheit mehr als 100 Vorkommen, wie die Teilnehmer der Exkursion bezeugen können. (Dieter Gewalt)
 
 [Mehr lesen >](/artikel/haareis)
 
