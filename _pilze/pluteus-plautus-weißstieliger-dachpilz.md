@@ -26,4 +26,4 @@ Mit Hutdurchmessern von 2 bis 5 Zentimetern gehört er  zu den kleineren bis mit
 
 Mikroskopische Merkmale: Sporen rundlich, glatt, hyalin, Literaturangaben über Größe variieren enorm zwischen 5,5 – 9,3 x 5 – 8,3 µm (eigene Messung: 5,5 – 6 µm). Cheilozystiden keulig bauchig, 35 – 65 x 15 – 20 µm, Pleurozystiden schlank spindelig, 45 – 80 x 15 – 25 µm, Septen ohne Schnallen. Büschelige Kaulozystiden auf ganzer Stiellänge vorhanden (Härchen).
 
-Der Weißspielige Dachpilz ist eine [mesophile](mesophil "Glossar") Art und in verschiedenen Waldtypen, selten auch in Parkanlagen oder Streuobstwiesen zu finden, meist  Laubholzarten wie Buchen, Eichen, Erlen, Eschen, Birken, seltener bei Nadelhözern (Fichten).
+Der Weißspielige Dachpilz ist eine [mesophile](mesophil "Glossar") Art und in verschiedenen Waldtypen, selten auch in Parkanlagen oder Streuobstwiesen zu finden, meist auf Laubholzarten wie Buchen, Eichen, Erlen, Eschen, Birken, seltener auf Nadelhözern (Fichten).
