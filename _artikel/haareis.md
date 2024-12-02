@@ -29,3 +29,12 @@ Bei ihrem Stoffwechsel werden Gase freigesetzt, die im Holz vorhandene Wassermol
 Auf der [Homepage des Deutschen Wetterdienstes](https://www.dwd.de/DE/service/lexikon/Functions/glossar.html?lv2=101094&lv3=101140) findet sich der Hinweis, dass der [Wachskrustenpilz *Exidiopsis effusa*](/pilze/exidiopsis-effusa-rosagetönte-wachskruste) für das Phänomen Haareis verantwortlich sein soll.
 
 (Januar 2022)
+
+Am 1. Dezember 2024 waren wir bei einer pilzkundlichen Exkursion in einem Wald nordwestlich von Dietzenbach unterwegs. Als wir einen Jungbuchenbestand am Butterpfad erreichten, trauten wir unseren Augen nicht. Auf einer Fläche von etwa 200 Quadratmetern wimmelte es am Boden nur so von weißen Flecken, die sich als Haareis entpuppten. Es waren mit Sicherheit mehr als hundert. Einige waren sogar an Stämmchen in bis zu einem Meter Höhe zu sehen.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/haareis_collage_01_dg.png" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/haareis_collage_02_dg.png" nocrop=true gross=true %}
+{% include abbildung_ende.html %}
+
+Die Temperaturen lagen an diesem nebligen Morgen knapp unter dem Gefrierpunkt, ein Umstand, der zweifellos die Haareisbildung begünstigt hat. Der 12-jährige *Béla Salgo* kam auf die Idee, eine Geschmacksprobe zu wagen und stellte eine deutlich bittere Note fest. Weitere Kostproben ergaben sowohl eine Bestätigung der Bitterkeit als auch *„wie reinstes Wasser, nur eben eiskalt“*. Vielleicht ist diese auffällige Diskrepanz mit der Anwesenheit zweier Pilzarten mit unterschiedlichen Ausdünstungen zu erklären.
