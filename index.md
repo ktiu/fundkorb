@@ -20,7 +20,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/volvariella_hypopithys_02_uw.jpg" %}
 {% include abbildung_ende.html %}
 
-04.12.2024: Ein hübscher kleiner weißer [Saprobiont](saprobiontisch "Glossar") ist der Flaumige Scheidling Volvariella hypopithys und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Das [Epithet](Epithet "Glossar") hypopithys (unter Fichten) ist irreführend. Bei uns in der Rhein-Main-Ebene ist er eher im Laubwald zu finden. Er ist nicht gerade häufig und man muss ihn natürlich auch als solchen erkennen. Seine häutige Scheide am Stielgrund ist oft im Substrat verbrogen. In höheren Lagen bevorzugt er wohl vermodertes oder vergrabenes Fichtenholz. (Dieter Gewalt)
+04.12.2024: Ein hübscher kleiner weißer [Saprobiont](saprobiontisch "Glossar") ist der Flaumige Scheidling Volvariella hypopithys und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Das [Epithet](Epithet "Glossar") hypopithys (unter Fichten) ist irreführend. Bei uns in der Rhein-Main-Ebene ist er eher im Laubwald zu finden. Er ist nicht gerade häufig und man muss ihn natürlich auch als solchen erkennen. Seine häutige Scheide am Stielgrund ist oft im Substrat verborgen. In höheren Lagen bevorzugt er wohl vermodertes oder vergrabenes Fichtenholz. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/volvariella-hypopithys-flaumiger-scheidling)
 
