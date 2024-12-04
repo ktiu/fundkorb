@@ -27,7 +27,7 @@ Ein Pilz, den kaum jemand kennt, und der dennoch mehrere deutsche Namen hat: au�
 
 **Hut:** 1,5 – 4 cm, konvex bis ausgebreitet, in der Mitte schmutzig braun, zum Rand heller und durchscheinend gerieft, feucht klebrig bis schmierig, bei Trockenheit eher matt.\
 **Lamellen:** jung fast weiß, später hell milchkaffee- bis ockerfarben, breit angewachsen bis kurz herablaufend, mehrfach untermischt. Lamellenschneiden weißflockig.\
-**Stiel:** schlank, oft verbogen, weiß bereift mit vergänglichem Ring. Wie vergänglich diese Ringe sind, zeigen die Abbildungen in dieser Datei. Es ist kaum etwas von ihnen zu erkennen.\
+**Stiel:** schlank, oft verbogen, weiß bereift mit vergänglichem Ring. Wie vergänglich diese Ringe sind, zeigt die obere Abbildung in diesem Porträt. Es ist kaum etwas von ihnen zu erkennen.\
 **Fleisch:** hell cremefarben bis blass bräunlich, ohne spezifischen Geruch und Geschmack.\
 **Sporenpulver** gelblich braun, Sporen glatt 8 – 10 x 4,5 – 6 µ.\
 Kein Speisepilz.
