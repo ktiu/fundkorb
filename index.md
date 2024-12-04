@@ -23,7 +23,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include abbildung_ende.html %}
 
 05.12.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schmutzigbraune Schüppling *Pholiota oedipus*, kommt wieder einmal aus dem südlichen Bayern, genauer aus den Wäldern rund um den Deiniger Weiher. Er gehört zwar zu den auf den ersten Blick schwer zu bestimmenden LBMs (little brown mushrooms), aber mit ein paar Merkmalskombinationen lässt er sich auch am Fundort ansprechen.
-Unser Fund wuchs am Wegesrand unter alten Pappeln, hatte ein dichtes Myzel an der Stielbasis, eine Ringzone mit braunem Sporenpulver und weißflockige Lamellenschneiden. Vielen Dank an Christian Weinkötz für die treffsichere Bestimmung. (Johann Rejek)
+Unser Fund wuchs am Wegesrand unter alten Pappeln, hatte ein dichtes [Myzel](Myzel "Glossar") an der Stielbasis, eine Ringzone mit braunem Sporenpulver und weißflockige Lamellenschneiden. Vielen Dank an Christian Weinkötz für die treffsichere Bestimmung. (Johann Rejek)
 
 [Mehr lesen >](/pilze/pholiota-oedipus-schmutzigbrauner-schüppling)
 
