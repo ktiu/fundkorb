@@ -16,11 +16,25 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 
 - - -
 
+
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/pholiota_oedipus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.12.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schmutzigbraune Schüppling *Pholiota oedipus*, kommt wieder einmal aus dem südlichen Bayern, genauer aus den Wäldern rund um den Deiniger Weiher. Er gehört zwar zu den auf den ersten Blick schwer zu bestimmenden LBMs (little brown mushrooms), aber mit ein paar Merkmalskombinationen lässt er sich auch am Fundort ansprechen.
+Unser Fund wuchs am Wegesrand unter alten Pappeln, hatte ein dichtes Myzel an der Stielbasis, eine Ringzone mit braunem Sporenpulver und weißflockige Lamellenschneiden. Vielen Dank an Christian Weinkötz für die treffsichere Bestimmung. (Johann Rejek)
+
+[Mehr lesen >](/pilze/pholiota-oedipus-schmutzigbrauner-schüppling)
+
+<div style="clear:  both"></div>
+- - - 
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/volvariella_hypopithys_02_uw.jpg" %}
 {% include abbildung_ende.html %}
 
-04.12.2024: Ein hübscher kleiner weißer [Saprobiont](saprobiontisch "Glossar") ist der Flaumige Scheidling Volvariella hypopithys und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Das [Epithet](Epithet "Glossar") hypopithys (unter Fichten) ist irreführend. Bei uns in der Rhein-Main-Ebene ist er eher im Laubwald zu finden. Er ist nicht gerade häufig und man muss ihn natürlich auch als solchen erkennen. Seine häutige Scheide am Stielgrund ist oft im Substrat verborgen. In höheren Lagen bevorzugt er wohl vermodertes oder vergrabenes Fichtenholz. (Dieter Gewalt)
+04.12.2024: Ein hübscher kleiner weißer [Saprobiont](saprobiontisch "Glossar") ist der Flaumige Scheidling *Volvariella hypopithys* und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Das [Epithet](Epithet "Glossar") hypopithys (unter Fichten) ist irreführend. Bei uns in der Rhein-Main-Ebene ist er eher im Laubwald zu finden. Er ist nicht gerade häufig und man muss ihn natürlich auch als solchen erkennen. Seine häutige Scheide am Stielgrund ist oft im Substrat verborgen. In höheren Lagen bevorzugt er wohl vermodertes oder vergrabenes Fichtenholz. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/volvariella-hypopithys-flaumiger-scheidling)
 
