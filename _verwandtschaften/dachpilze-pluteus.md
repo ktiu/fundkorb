@@ -136,6 +136,7 @@ Bliebe zum Schluss noch die Frage nach dem Speisewert zu beantworten. Bis auf de
 [Pluteus nigrofloccosus = Schwarzschneidiger Dachpilz](/pilze/pluteus-nigrofloccosus-schwarzschneidiger-dachpilz)\
 [Pluteus petasatus = Seidiger Dachpilz](/pilze/pluteus-petasatus-seidiger-dachpilz)\
 [Pluteus phlebophorus = Runzeliger Dachpilz](/pilze/pluteus-phlebophorus-runzeliger-dachpilz)\
+[Pluteus plautus = Weißstieliger dachpilz](/pilze/pluteus-plautus-weißstieliger-dachpilz)  
 [Pluteus podospileus = Samtiger Dachpilz](/pilze/pluteus-podospileus-samtiger-dachpilz)\
 [Pluteus pouzarianus = Nadelholzdachpilz](/pilze/pluteus-pouzarianus-nadelholzdachpilz)\
 [Pluteus primus = Voreilender Dachpilz](/pilze/pluteus-primus-voreilender-dachpilz)\
