@@ -17,6 +17,17 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_sanguinolenta_04_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+06.12.2024: Der Winter hält Einzug, und nur noch wenige Pilze bilden in frostfreien Zonen Fruchtkörper. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Purpurschneidige Helmling *Mycena sanguinolenta* ist einer von Ihnen. Wie bei vielen Helmlingen schaut er von oben betrachtet recht unscheinbar aus und wäre mit vielen Artverwandten zu verwechseln. Jedoch hat er zwei Eigenschaften, die ihn unverwechselbar machen. Er „blutet“ - wenn auch eher schwach – und er hat purpurfarbene Lamellenschneiden, die mit einer Lupe deutlich zu sehen sind. Ich fand diesen „smarten“ Helmling im Gleißental südl. von München. (Johann Rejek)
+
+[Mehr lesen >](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)
+
+<div style="clear:  both"></div>
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pholiota_oedipus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,20 +48,8 @@ Unser Fund wuchs am Wegesrand unter alten Pappeln, hatte ein dichtes [Myzel](Myz
 [Mehr lesen >](/pilze/volvariella-hypopithys-flaumiger-scheidling)
 
 <div style="clear:  both"></div>
-
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_hartigii_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-03.12.2024: Mehrjährige Pilze haben den unschätzbaren Vorteil, dass man sie über längere Zeiträume beobachten kann. Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Tannen-Feuerschwamm *Phellinus hartigii*, habe ich erstmals am 3. Dezember 2021 in einem Mischwald über Muschelkalk bei Straubenhardt in Baden-Württemberg gefunden und er ist immer noch da. Er ähnelt dem Eichen-Feuerschwamm, wächst im Gegensatz zu diesem aber nahezu ausschließlich an Tannen. Inzwischen soll er auf den Namen *Fomitiporia hartigii* hören. (Bernd Miggel)
-
-[Mehr lesen >](/pilze/phellinus-hartigii-tannen-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-- - -
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
