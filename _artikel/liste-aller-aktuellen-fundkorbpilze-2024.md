@@ -2,8 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-06.12.2024: [Mycena sanguinolenta - Purpurschneidiger Helmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)  
- 05.12.2024: [Pholiota oedipus - Schmutzigbrauner Schüppling](/pilze/pholiota-oedipus-schmutzigbrauner-schüppling)\
+07.12.2024: [Baeospora myosura - Mäuseschwanz-Rübling](/pilze/baeospora-myosura-mäuseschwanz-rübling)  
+06.12.2024: [Mycena sanguinolenta - Purpurschneidiger Helmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)\
+05.12.2024: [Pholiota oedipus - Schmutzigbrauner Schüppling](/pilze/pholiota-oedipus-schmutzigbrauner-schüppling)\
 04.12.2024: [Volvariella hypopithys - Flaumiger Scheidling](/pilze/volvariella-hypopithys-flaumiger-scheidling)\
 03.12.2024: [Phellinus hartigii - Tannen-Feuerschwamm](/pilze/phellinus-hartigii-tannen-feuerschwamm)\
 02.12.2024: [Haareis](/artikel/haareis)\
