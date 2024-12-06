@@ -20,7 +20,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/baeospora_myosura_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-07.12.2024: Unseren aktueller [Fundkorbpilz](AA "Glossar-") - den Mäuseschwanz-Rübling *Baeospora myosura* - fand ich an einem Kiefernzapfen in einem Mischwald bei Allershausen (nördlich von München). Er wächst oft zu Mehreren an vorjährigen vergrabenen Zapfen von Fichten und anderen Nadelbäumen. Verwechseln kann man ihn mit anderen an Zapfen wachsenden Blätterpilzen, wie z.B. mit dem [Fichtenzapfenrübling](/pilze/strobilurus-esculentus-fichtenzapfenrübling), der aber meist erst im Frühjahr in Erscheinung tritt und keinen bereiften Stiel hat. (Johann Rejek)
+07.12.2024: Unseren aktuellen [Fundkorbpilz](AA "Glossar-") - den Mäuseschwanz-Rübling *Baeospora myosura* - fand ich an einem Kiefernzapfen in einem Mischwald bei Allershausen (nördlich von München). Er wächst oft zu Mehreren an vorjährigen vergrabenen Zapfen von Fichten und anderen Nadelbäumen. Verwechseln kann man ihn mit anderen an Zapfen wachsenden Blätterpilzen, wie z.B. mit dem [Fichtenzapfenrübling](/pilze/strobilurus-esculentus-fichtenzapfenrübling), der aber meist erst im Frühjahr in Erscheinung tritt und keinen bereiften Stiel hat. (Johann Rejek)
 
 [Mehr lesen >](/pilze/baeospora-myosura-mäuseschwanz-rübling)
 
