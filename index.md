@@ -10,9 +10,25 @@ footer_scripts:
 ---
  {% include pilzsuche.html %}
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/weihnachtspilz_02_fk.jpg" %}
+{% include abbildung_ende.html %}
+
 Neuer Exkursionstermin:\
 Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**\
 [Hier geht's zur Anmeldung >](/termine)
+
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ramularia_rubella_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.12.2024: Den Ampfer-Rost *Ramularia rubella*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), findet man an fast jeder Ampferpflanze, an deren Blätter er rundliche weinrötliche Flecken mit gelber Mitte bildet. Da auf dem gleichen Substrat mehrere Rostpilzarten vorkommen können, ist auch auf Mikromerkmale zu achten, um die Bestimmung abzusichern. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/ramularia-rubella-ampfer-rost)
+
+<div style="clear:  both"></div> Mehr lesen > <div style="clear:  both"></div>
 
 - - -
 
@@ -35,17 +51,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 07.12.2024: Unseren aktuellen [Fundkorbpilz](AA "Glossar-") - den Mäuseschwanz-Rübling *Baeospora myosura* - fand ich an einem Kiefernzapfen in einem Mischwald bei Allershausen (nördlich von München). Er wächst oft zu Mehreren an vorjährigen Zapfen von Fichten und anderen Nadelbäumen. Verwechseln kann man ihn mit anderen an Zapfen wachsenden Blätterpilzen, wie z.B. mit dem [Fichtenzapfenrübling](/pilze/strobilurus-esculentus-fichtenzapfenrübling), der aber meist erst im Frühjahr in Erscheinung tritt und keinen bereiften Stiel hat. (Johann Rejek)
 
 [Mehr lesen >](/pilze/baeospora-myosura-mäuseschwanz-rübling)
-
-<div style="clear:  both"></div>
-- - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_sanguinolenta_04_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-06.12.2024: Der Winter hält Einzug, und nur noch wenige Pilze bilden in frostfreien Zonen Fruchtkörper. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Purpurschneidige Helmling *Mycena sanguinolenta* ist einer von Ihnen. Wie bei vielen Helmlingen schaut er von oben betrachtet recht unscheinbar aus und wäre mit vielen Artverwandten zu verwechseln. Jedoch hat er zwei Eigenschaften, die ihn unverwechselbar machen. Er „blutet“ - wenn auch eher schwach – und er hat purpurfarbene Lamellenschneiden, die mit einer Lupe deutlich zu sehen sind. Ich fand diesen „smarten“ Helmling im Gleißental südl. von München. (Johann Rejek)
-
-[Mehr lesen >](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)
 
 <div style="clear:  both"></div>
 
