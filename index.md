@@ -40,7 +40,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 
 <div style="clear:  both"></div> 
 
-- - -
+
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/baeospora_myosura_02_dg.jpg" %}
