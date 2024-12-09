@@ -29,7 +29,7 @@ Unterschiede zwischen *Pluteus thomsonii* und verwechselbaren ähnlichen Arten:
 Hut: 0,5 – 3,0 cm, datellbraun, graubraun\
 Adern: am stärksten entwickelt, hoch erhaben, durch die Lichtbrechungen in den Zellen heller erscheinend\
 Hutdeckschicht: gemischt aus zwei Zellformen, ballonförmig & langgestreckte teils geschnäbelt\
-Cheilozystiden: fusoid-, keulen- oder utriform, wichtig: teils mit langem fädigen Schnabel\
+Cheilozystiden: fusoid-, keulen- oder utriform, <ins>wichtig</ins>: teils mit langem fädigen Schnabel\
 Sporen ss. Ludwig:  6 – 8 (8,5 - 9) x 5 – 7,5 µm
 
 [**Pluteus phlebophorus**](/pilze/pluteus-phlebophorus-runzeliger-dachpilz)\
