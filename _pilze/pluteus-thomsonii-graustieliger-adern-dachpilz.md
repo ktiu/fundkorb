@@ -52,3 +52,5 @@ Adern: wenn vorhanden runzelig-aderig\
 Hutdeckschicht: gemischt aus zwei Zellformen, ballonförmig & langgestreckte teils geschnäbelt\
 Cheilozystiden: hymeniderm (nur aus ballonförmigen Zellen?)\
 Sporen ss. Ludwig:  (8) 9 – 12 (13) x 4,5 – 6 (6,5)  µm
+
+Mehr über Dachpilze erfahren Sie in unserem [Gattungs-Porträt >](/verwandt/dachpilze-pluteus)
