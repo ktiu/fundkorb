@@ -10,7 +10,7 @@ footer_scripts:
 ---
  {% include pilzsuche.html %}
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/weihnachtspilz_02_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -19,6 +19,16 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/neobulgaria_pura_-01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Sie können richtig hübsch und sympathisch aussehen, die kleinen Fruchtkörper des Gemeinen Buchenkreislings *Neobulgaria pura*. Ihn mal wieder an totem aber noch berindetem Buchenholz gefunden zu haben, ist Grund genug, ihn als aktuellen [Fundkorbpilz](AA "Glossar-") zu zeigen. Die einzelnen Becherchen werden bis zu 3 cm groß und weil sie meist dicht zusammengeknäulelt erscheinen, fallen sie schon aus einigen Metern Entfernung auf. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/neobulgaria-pura-gemeiner-buchenkreisling) 
+
+<div style="clear:  both"></div> 
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ramularia_rubella_01_dg.jpg" %}
@@ -39,8 +49,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 [Mehr lesen >](/pilze/lepista-flaccida-fuchsiger-röteltrichterling)
 
 <div style="clear:  both"></div> 
-
-
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/baeospora_myosura_02_dg.jpg" %}
