@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-09.12.2024: [Ramularia rubella - Ampfer-Rost](/pilze/ramularia-rubella-ampfer-rost)  
+10.12.2024: [Neobulgaria pura - Gemeiner Buchenkreisling](/pilze/neobulgaria-pura-gemeiner-buchenkreisling)  
+09.12.2024: [Ramularia rubella - Ampfer-Rost](/pilze/ramularia-rubella-ampfer-rost)\
 08.12.2024: [Lepista flaccida - Fuchsiger Röteltrichterling](/pilze/lepista-flaccida-fuchsiger-röteltrichterling)\
 07.12.2024: [Baeospora myosura - Mäuseschwanz-Rübling](/pilze/baeospora-myosura-mäuseschwanz-rübling)\
 06.12.2024: [Mycena sanguinolenta - Purpurschneidiger Helmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)\
