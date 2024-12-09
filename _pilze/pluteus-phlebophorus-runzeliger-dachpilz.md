@@ -29,12 +29,12 @@ Der Runzelige Dachpilz gehört zu den eher kleinen Arten, die an totem Laubholz 
 
 Verwechslungen sind vor allem mit diesen Arten möglich:
 
-[Pluteus nanus = Flockigbereifter Dachpilz, Zwerg-Dachpilz](/pilze/pluteus-nanus-flockigbereifter-dachpilz-zwerg-dachpilz)  
+[Pluteus nanus = Flockigbereifter Dachpilz, Zwerg-Dachpilz](/pilze/pluteus-nanus-flockigbereifter-dachpilz-zwerg-dachpilz)\
 [Pluteus umbrosus = Schwarzflockiger Dachpilz](/pilze/pluteus-umbrosus-schwarzflockiger-dachpilz) (hat schwarze Lamellenschneiden)\
 Pluteus chrysophaeus = Goldbrauner Dachpilz (Fleisch unter der Huthaut gelb; kleine, seltene Art)\
 Pluteus pallescens = Blassstieliger Dachpilz (mit weißem Stiel)\
-Pluteus romellii = Gelbstieliger Dachpilz (mit gelbem Stiel)\
-Pluteus thomsonii = Graustieliger Adern-Dachpilz (Stiel weiß bepudert)
+[Pluteus romellii = Gelbstieliger Dachpilz](/pilze/pluteus-romellii-gelbstieliger-dachpilz) (mit gelbem Stiel)\
+[Pluteus thomsonii = Graustieliger Adern-Dachpilz](/pilze/pluteus-thomsonii-graustieliger-adern-dachpilz) (Stiel weiß bepudert)
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pluteus_phlebophorus_02_fk.jpg" nocrop=true %}
