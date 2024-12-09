@@ -68,6 +68,27 @@ Sie können richtig hübsch und sympathisch aussehen, die kleinen Fruchtkörper 
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/haareis_collage_01_dg.png" %}
+{% include bild.html datei="/bilder/haareis_collage_02_dg.png" %}
+{% include abbildung_ende.html %}
+
+
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/haareis-01-bg.jpeg" %}
+{% include abbildung_ende.html %}
+
+Leider kann ich den Pilz nicht genau benennen, der für das hier gezeigte Phänomen verantwortlich ist. Man nennt es *Haareis.* Es kann sich nur unter sehr speziellen Wetter- und Temperaturbedingungen an Totholz bilden. Bei unserer pilzkundlichen Führung im Rhein-Main-Gebiet am 1. Dezember müssen diese Bedingungen jedenfalls hervorragend gewesen sein. In einem kleinen Jungbuchenwald bei Dietzenbach war im wahrsten Sinne des Wortes alles voll von Haareis, mit Sicherheit mehr als 100 Vorkommen. Mehr über dieses faszinierende Phänomen *Haareis* [erfahren Sie hier >](/artikel/haareis) 
+
+- - -
+
+### Pilzquiz
+
+{% include quiz.html %}
+
+- - -
+
 ##### Helmlinge - Die Gattung *Mycena* im Fundkorb
 
 Insgesamt 40 Helmlinge sind bisher mit einem Porträt im Fundkorb vertreten. Die allermeisten von ihnen wachsen an Holz. Drei Arten verdienen aufgrund ihrer Seltenheit und Substratwahl Beachtung. [Mycena filopes](/pilze/mycena-filopes-zerbrechlicher-fadenhelmling) wächst in Augenhöhe auf Fichtenzweigen, [Mycena strobilicola](/pilze/mycena-strobilicola-fichtenzapfenhelmling) auf Fichtenzapfen, und die in Mitteleuropa extrem seltene [Mycena seynii](/pilze/mycena-seynii-mediterraner-kiefernzapfenhelmling) auf Kiefernzapfen.
@@ -85,12 +106,6 @@ Insgesamt 40 Helmlinge sind bisher mit einem Porträt im Fundkorb vertreten. Die
 {% include abbildung_ende.html %}
 
 Eine seltene und bemerkenswerte Pilzart ist das Purpurfarbene Zystidenkeulchen *Alloclavaria purpurea*. *Thomas Lehr* berichtet über seinen Fund im Bayerischen Wald und weshalb er dort [die Hosen runterlassen musste](/pilze/alloclavaria-purpurea-purpurfarbenes-zystidenkeulchen).
-
-- - -
-
-### Pilzquiz
-
-{% include quiz.html %}
 
 - - -
 
