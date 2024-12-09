@@ -28,9 +28,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 
 [Mehr lesen >](/pilze/ramularia-rubella-ampfer-rost)
 
-<div style="clear:  both"></div> Mehr lesen > <div style="clear:  both"></div>
-
-- - -
+<div style="clear:  both"></div> 
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lepista_flaccida_01_dg.jpg" %}
