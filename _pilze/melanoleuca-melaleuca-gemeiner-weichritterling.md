@@ -16,6 +16,8 @@ hauptbild:
 literatur:
   - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Band 3,
       Seite 373 – 374"
+  - text: "Erhard Ludwig: Pilzkompendium  Band 4, III"
+  - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/mmelaleuca.php
 ---
 Der Begriff *„gemein“* ist mehrdeutig. Im Zusammenhang mit unserem Pilz ist er als *„häufig“* oder *„überall vorkommend“* zu verstehen. Vom französischen Mykologen *N. T. Patouillard* wurde er 1887 darum auch *Melanoleuca vulgaris* genannt. Der lateinische Artname *melaleuca* bedeutet schwarz-weiß, könnte also auf einen Schwarzweiß-Kontrast zwischen Hut- und Lamellenfarbe hindeuten. Der entspricht aber nicht unbedingt dem Eindruck, den man beim Vergleich des obigen Fotos mit dem nachfolgenden erhält:
 
