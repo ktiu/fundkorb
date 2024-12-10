@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+11.12.2024: [Graphis scripta - Schriftflechte](/pilze/graphis-scripta-schriftflechte)  
 10.12.2024: [Neobulgaria pura - Gemeiner Buchenkreisling](/pilze/neobulgaria-pura-gemeiner-buchenkreisling)  
 09.12.2024: [Ramularia rubella - Ampfer-Rost](/pilze/ramularia-rubella-ampfer-rost)\
 08.12.2024: [Lepista flaccida - Fuchsiger Röteltrichterling](/pilze/lepista-flaccida-fuchsiger-röteltrichterling)\
