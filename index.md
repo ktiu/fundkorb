@@ -26,7 +26,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/graphis_scripta_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
-11.12.2024: Unser aktueller Fundkorbpilz schaut aus wie geheime Schriftzeichen. Die Schriftflechte *Graphis scripta* ist eine Krustenflechte, deren langgestreckte, gebogene und verzweigte Fruchtkörper [(Hysterothecium](Glossar)) an Schriftzeichen erinnern. Die Länge dieser Fruchtkörper beträgt nur wenige Millimeter. Meistens wächst sie in Augenhöhe an den glatten Rinden von verschiedenen Laubbäumen. Wer die Flechte mikroskopiert wird große spindelförmige und mehrfach septierte Sporen finden, (Johann Rejek)
+11.12.2024: Unser aktueller Fundkorbpilz schaut aus wie geheime Schriftzeichen. Die Schriftflechte *Graphis scripta* ist eine Krustenflechte, deren langgestreckte, gebogene und verzweigte Fruchtkörper [(Hysterothecium)](Hysterothecien "Glossar-") an Schriftzeichen erinnern. Die Länge dieser Fruchtkörper beträgt nur wenige Millimeter. Meistens wächst die Schriftflechte in Augenhöhe an den glatten Rinden von verschiedenen Laubbäumen. Wer die Flechte mikroskopiert wird große spindelförmige und mehrfach septierte Sporen finden, (Johann Rejek)
 
 [Mehr lesen >](/pilze/graphis-scripta-schriftflechte) 
 
