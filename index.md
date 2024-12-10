@@ -36,7 +36,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/neobulgaria_pura_-01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Sie können richtig hübsch und sympathisch aussehen, die kleinen Fruchtkörper des Gemeinen Buchenkreislings *Neobulgaria pura*. Ihn mal wieder an totem aber noch berindetem Buchenholz gefunden zu haben, ist Grund genug, ihn als aktuellen [Fundkorbpilz](AA "Glossar-") zu zeigen. Die einzelnen Becherchen werden bis zu 3 cm groß und weil sie meist dicht zusammengeknäulelt erscheinen, fallen sie schon aus einigen Metern Entfernung auf. (Dieter Gewalt)
+10.12.2024: Sie können richtig hübsch und sympathisch aussehen, die kleinen Fruchtkörper des Gemeinen Buchenkreislings *Neobulgaria pura*. Ihn mal wieder an totem aber noch berindetem Buchenholz gefunden zu haben, ist Grund genug, ihn als aktuellen [Fundkorbpilz](AA "Glossar-") zu zeigen. Die einzelnen Becherchen werden bis zu 3 cm groß und weil sie meist dicht zusammengeknäulelt erscheinen, fallen sie schon aus einigen Metern Entfernung auf. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/neobulgaria-pura-gemeiner-buchenkreisling) 
 
