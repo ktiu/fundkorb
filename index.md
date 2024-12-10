@@ -56,22 +56,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/lepista_flaccida_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-08.12.2024: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Fuchsige Röteltrichterling *Lepista flaccida*, ist ein typischer Spätherbstpilz, der gern mit Nebelkappen und Violetten Rötelritterlingen gemeinsam an Waldwegrändern steht. Er sieht dem [Ockerbraunen Trichterling](/pilze/clitocybe-gibba-ockerbrauner-trichterling) zum Verwechseln ähnlich. Ihm fehlt lediglich der kleine Knubbel in der vertieften Hutmitte und er hat auch keinen Bittermandelgeruch. Eine Verwechslung wäre folgenlos, da beide essbar sind. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/lepista-flaccida-fuchsiger-röteltrichterling)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/baeospora_myosura_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.12.2024: Unseren aktuellen [Fundkorbpilz](AA "Glossar-") - den Mäuseschwanz-Rübling *Baeospora myosura* - fand ich an einem Kiefernzapfen in einem Mischwald bei Allershausen (nördlich von München). Er wächst oft zu Mehreren an vorjährigen Zapfen von Fichten und anderen Nadelbäumen. Verwechseln kann man ihn mit anderen an Zapfen wachsenden Blätterpilzen, wie z.B. mit dem [Fichtenzapfenrübling](/pilze/strobilurus-esculentus-fichtenzapfenrübling), der aber meist erst im Frühjahr in Erscheinung tritt und keinen bereiften Stiel hat. (Johann Rejek)
-
-[Mehr lesen >](/pilze/baeospora-myosura-mäuseschwanz-rübling)
-
-<div style="clear:  both"></div>
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
