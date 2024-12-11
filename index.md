@@ -20,7 +20,17 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 
 - - -
 
-12.12.2024: Der Samtige Schichtpilz *Stereum subtomentosum* ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Man findet ihn so gut wie in jedem Laubwald. In der Regel sind es viele dünne zonierte Fruchtkörper, die fächerförmig oder konsolenartig am Substrart angewachsen sind. Die Fruchtschicht (Hymenium) von Schichtpilzen ist glatt. Bei den ähnlich aussehenden Trameten besteht das Hymnenium aus Poren. (Johann Rejek) 
+
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_subtomentosum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.12.2024: Der Samtige Schichtpilz *Stereum subtomentosum* ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Man findet ihn das ganze Jahr über so gut wie in jedem Laubwald. In der Regel sind es viele dünne zonierte Fruchtkörper, die fächerförmig oder konsolenartig am Substrat angewachsen sind. Die Fruchtschicht [(Hymenium)](Hymenium "Glossar-") von Schichtpilzen ist glatt. Bei den ähnlich aussehenden Trameten besteht das Hymnenium aus Poren. (Johann Rejek)
+
+[Mehr lesen >](/pilze/stereum-subtomentosum-samtiger-schichtpilz) 
+
+<div style="clear:  both"></div>  
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/graphis_scripta_03_nk.jpg" %}
@@ -51,7 +61,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 [Mehr lesen >](/pilze/ramularia-rubella-ampfer-rost)
 
 <div style="clear:  both"></div> 
-
 
 - - -
 
