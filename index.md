@@ -20,8 +20,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 
 - - -
 
-
-
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_subtomentosum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -30,7 +28,8 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 
 [Mehr lesen >](/pilze/stereum-subtomentosum-samtiger-schichtpilz) 
 
-<div style="clear:  both"></div>  
+<div style="clear:  both"></div> 
+ 
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/graphis_scripta_03_nk.jpg" %}
@@ -52,15 +51,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 
 <div style="clear:  both"></div> 
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ramularia_rubella_01_dg.jpg" %}
-{% include abbildung_ende.html %}
 
-09.12.2024: Den Ampfer-Rost *Ramularia rubella*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), findet man an fast jeder Ampferpflanze, an deren Blätter er rundliche weinrötliche Flecken mit gelber Mitte bildet. Da auf dem gleichen Substrat mehrere [Rostpilzarten](/verwandt/rostpilze) vorkommen können, ist auch auf Mikromerkmale zu achten, um die Bestimmung abzusichern. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/ramularia-rubella-ampfer-rost)
-
-<div style="clear:  both"></div> 
 
 - - -
 
