@@ -21,15 +21,23 @@ literatur:
   - text: ""
     url: https://de.wikipedia.org/wiki/B%C3%A4rtiger_Ritterling
 ---
-Wenn man auf die recht grobschuppige Hutbekleidung und das Vorkommen bei Nadelbäumen (überwiegend Fichte) achtet, dürften Verwechslungen mit anderen braunen Ritterlingen ziemlich unwahrscheinlich sein. Ist der Hutrand auch noch zottig oder bärtig behangen (auf den hier gezeigten Fotos nur ansatzweise vorhanden), sollte die Bestimmung wasserdicht sein.
+Wenn man auf die recht grobschuppige Hutbekleidung und das Vorkommen bei Nadelbäumen (überwiegend Fichte) achtet, dürften Verwechslungen mit anderen braunen Ritterlingen ziemlich unwahrscheinlich sein. Ist der Hutrand auch noch zottig oder bärtig behangen, sollte die Bestimmung wasserdicht sein.
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/tricholoma_vaccinum_02_nk.jpg" %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/tricholoma_vaccinum_02_uwi.jpg" %}
+{% include abbildung_ende.html legende="Foto: Uwe Winkler" %}
 
 Die in unterschiedlichen Brauntönen gefärbten dünnfleischigen Hüte erreichen Durchmesser von bis zu 10 cm.  Sie sind jung halbkugelig bis kegelig, später ausgebreitet. Die filzige Huthaut reißt bald in sparrig abstehende flockige Schuppen auf. Der Hutrand ist lange eingerollt, der bärtige Behang kann mehr oder weniger deutlich sein. Die hell cremefarbenen Lamellen sind mehrfach mit kürzeren Lameletten untermischt. Die hohlen, bräunlich längsfaserigen Stiele haben an der Spitze unterhalb der burggrabenartig ausgebuchteten Lamellen eine schmale, feinflockig weiße Zone. Das Fleisch ist jung weißlich, später rotbräunlich anlaufend. Der erdige Geruch ist eher unangenehm, der Geschmack bitter. Schon aus diesem Grund ist der Bärtige Ritterling für die Küche völlig ungeeignet, soll möglicherweise sogar leicht giftig sein und beim Verzehr größerer Mengen Unwohlsein verursachen.
 
-Das Sporenpulver ist weiß, die rundlich-ovalen bis breit-elliptischen, glatten, inamyloiden Sporen messen 5.5 – 7 × 4,5 – 6 µm.
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/tricholoma_vaccinum_03_uwi.jpg" %}
+{% include abbildung_ende.html legende="Foto: Uwe Winkler" %}
+
+Das Sporenpulver ist weiß, die rundlich-ovalen bis breit-elliptischen, glatten, inamyloiden Sporen messen 5.5 – 7 × 4,5 – 5,5 µm.
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/tricholoma_vaccinum_04_wk.jpg" %}
+{% include abbildung_ende.html legende="Collage von Wolfgang Kaiser" %}
 
 *Tricholoma vaccinum* ist wohl eher in höheren Lagen verbreitet und scheint kalkhaltige Böden zu bevorzugen, saure aber nicht unbedingt zu meiden. Erscheinungszeit ist August bis November.
 
