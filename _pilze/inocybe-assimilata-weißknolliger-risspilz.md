@@ -44,6 +44,10 @@ Die Bestimmung des hier vorgestellten Weißknolligen Risspilzes konnte mit dem *
 4 Stielknolle rundlich, immer weiß, sonst Stiel dem Hut blasser gleichfarben, Hut ± stumpf gebuckelt, gewölbt, rissig, hasel-, umbra- bis purpurbraun, 1,5 – 3 cm Ø, Lamellen graubraun bis dunkelbraun, Sporen stumpf, aber deutlich höckerig, 6 – 9 x 5 – 6 µm, Laub- und Nadelwald = *Inocybe umbrina* (Weißknolliger Risspilz)\
 Die Art gehört lt. Moser zu den makroskopisch erkennbaren Risspilzen.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/inocybe_assimilata_07_jr.jpg" %}
+{% include abbildung_ende.html %}
+
 Am Fundort im Perlacher Forst bei München (560 m üNN) waren insgesamt 5 Fruchtkörper, zwei in der Laubstreu, drei an einem nicht identifizierten liegenden, bemoosten Stamm. Die braunen, radialfaserigen, gebuckelten und zum Teil aufgerissenen Hüte hatten Durchmesser von ca. 2,5 cm. Die fein faserigen, an der Spitze bereiften Stiele waren ca. 4 bis 4,5 cm lang und bis zu 0,8 cm dick, an der Basis rundlich, also nicht zwiebelig verdickt. Die außen und innen weißen Knollen hatten Durchmesser von bis zu einem Zentimeter. Die sehr hell bräunlichen bis trüb ockerfarbenen, etwas welligen Lamellen waren an den Schneiden weiß bewimpert. Ein auffälliger Geruch war nicht wahrnehmbar. Er war auf keinen Fall spermatisch, wie z. B. bei *Krieglsteiner* angegeben.
 
 Auch die Mikromerkmale passen. Gemessen wurden 14 Sporen, die eine unregelmäßig und schwach höckerige Geometrie hatten. Die Werte ergaben bei der Sporenlänge ein Mittel von 7,84 µm bei einem Minimum von 7,23 µm und einem Maximum von 9,44 µm, bei der Breite ein Mittel von 5,29 bei einem Minimum von 4,6 µm und einem Maximum von 5,91 µm. Cheilozystiden: spindelig, dickwandig, 35 – 65 x 10 – 18 µm (lt. Breitenbach & Kränzlin), eine gemessen: 45,6 x 15,4 µm.
@@ -53,13 +57,9 @@ Auch die Mikromerkmale passen. Gemessen wurden 14 Sporen, die eine unregelmäßi
 {% include bild.html datei="/bilder/inocybe_assimilata_05_jr.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Sporenabwurfpräparat  –  Mikrofoto: Sporen in Wasser" %}
 
-
-
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/inocybe_assimilata_04_jr.jpg" %}
 {% include abbildung_ende.html legende="Lamellenschneiden, Cheilozystiden mit Kristallschopf" %}
-
-
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/inocybe_assimilata_06_jr.jpg" nocrop=true gross=true %}
