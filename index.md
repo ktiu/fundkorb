@@ -21,6 +21,16 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_hirsuta_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.12. 2024: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Striegelige Tramete  *Trametes hirsuta* wird umgangssprachlich auch Sofapilz genannt. Die samtige Behaarung auf der Hutoberseite erinnert an ein Plüschsofa. Man findet die kaum miteienander verwachsenen zonierten Fruchtkörper an totem Laubholz. Oft sind alte Pilze auf der Hutoberseite durch Algenbewuchs grün gefärbt. (Johann Rejek)
+
+[Mehr lesen >](/pilze/trametes-hirsuta-striegelige-tramete) 
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_subtomentosum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,16 +48,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 11.12.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") schaut aus wie geheime Schriftzeichen. Die Schriftflechte *Graphis scripta* ist eine Krustenflechte, deren langgestreckte, gebogene und verzweigte Fruchtkörper [(Hysterothezien)](Hysterothezien "Glossar-") an Schriftzeichen erinnern. Die Länge dieser Fruchtkörper beträgt nur wenige Millimeter. Meistens wächst die Schriftflechte in Augenhöhe an den glatten Rinden von verschiedenen Laubbäumen. Wer die Flechte mikroskopiert wird große spindelförmige und mehrfach [septierte](Septen "Glossar-") Sporen finden. (Johann Rejek)
 
 [Mehr lesen >](/pilze/graphis-scripta-schriftflechte) 
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/neobulgaria_pura_-01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.12.2024: Sie können richtig hübsch und sympathisch aussehen, die kleinen Fruchtkörper des Gemeinen Buchenkreislings *Neobulgaria pura*. Ihn mal wieder an totem aber noch berindetem Buchenholz gefunden zu haben, ist Grund genug, ihn als aktuellen [Fundkorbpilz](AA "Glossar-") zu zeigen. Die einzelnen Becherchen werden bis zu 3 cm groß und weil sie meist dicht zusammengeknäulelt erscheinen, fallen sie schon aus einigen Metern Entfernung auf. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/neobulgaria-pura-gemeiner-buchenkreisling) 
 
 <div style="clear:  both"></div> 
 
