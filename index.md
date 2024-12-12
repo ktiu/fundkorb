@@ -51,8 +51,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 
 <div style="clear:  both"></div> 
 
-
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
@@ -62,7 +60,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/haareis_collage_01_dg.png" %}
 {% include bild.html datei="/bilder/haareis_collage_02_dg.png" %}
 {% include abbildung_ende.html %}
 
