@@ -39,6 +39,10 @@ Das Sporenpulver ist weiß, die rundlich-ovalen bis breit-elliptischen, glatten,
 {% include bild.html datei="/bilder/tricholoma_vaccinum_04_wk.jpg" %}
 {% include abbildung_ende.html legende="Collage von Wolfgang Kaiser" %}
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/tricholoma_vaccinum_05_us.jpg" %}
+{% include abbildung_ende.html legende="Foto: Udo Schäfer" %}
+
 *Tricholoma vaccinum* ist wohl eher in höheren Lagen verbreitet und scheint kalkhaltige Böden zu bevorzugen, saure aber nicht unbedingt zu meiden. Erscheinungszeit ist August bis November.
 
 Fein, nicht sparrig schuppige Hüte haben Erdritterlinge (*[Tricholoma argyraceum](/pilze/tricholoma-argyraceum-gilbender-erdritterling), basirubens, [cingulatum](/pilze/tricholoma-cingulatum-beringter-erdritterling), [inocybeoides](/pilze/tricholoma-inocybeoides-spitzgebuckelter-ritterling), [orirubens](/pilze/tricholoma-orirubens-rötender-erdritterling)*, [terreum](/pilze/tricholoma-terreum-gemeiner-erdritterling) u. a) und der Schwarzschuppige Ritterling *[Tricholoma atrosquamosum](/pilze/tricholoma-atrosquamosum-schwarzschuppiger-ritterling)*. Eine gewisse Ähnlichkeit können auch einige stark giftige Risspilze haben, zum Beispiel der Struppige Risspilz *Inocybe lacera*.
