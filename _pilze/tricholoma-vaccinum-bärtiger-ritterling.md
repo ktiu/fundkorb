@@ -11,7 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/tricholoma_vaccinum_01_nk.jpg
-  legende: "2 Fotos: Norbert Kühnberger"
+  legende: "Foto: Norbert Kühnberger"
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 3, Nr. 441"
   - text: "German J. Krieglsteiner: Die Großpilze Baden-Württembergs Band 3, Seite
