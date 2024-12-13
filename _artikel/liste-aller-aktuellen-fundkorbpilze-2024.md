@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-13.12.2024: [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)  
+14.12.2024: [Fistulina hepatica - Ochsenzunge, Leberreischling](/pilze/fistulina-hepatica-ochsenzunge-leberreischling)  
+13.12.2024: [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)\
 12.12.2024: [Stereum subtomentosum - Samtiger Schichtpilz](/pilze/stereum-subtomentosum-samtiger-schichtpilz)\
 11.12.2024: [Graphis scripta - Schriftflechte](/pilze/graphis-scripta-schriftflechte)\
 10.12.2024: [Neobulgaria pura - Gemeiner Buchenkreisling](/pilze/neobulgaria-pura-gemeiner-buchenkreisling)\
