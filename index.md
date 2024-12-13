@@ -26,7 +26,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 
 14.12.2024: An Holz findet man auch im Winter Pilze! Auch essbare. Bei unserem heutigen [Fundkorbpilz](AA "Glossar-") gehen die Meinungen über den Speisewert aber weit auseinander. Den Leberreischling *Fistulina hepatica*, auch Ochsenzunge genannt, schätzen manche, andere verabscheuen ihn. Was mich betrifft: ich kann mich immerhin an seinem Anblick erfreuen. (Dieter Gewalt)
 
-Mehr lesen >
+[Mehr lesen >](/pilze/fistulina-hepatica-ochsenzunge-leberreischling)
 
 <div style="clear:  both"></div>
 
