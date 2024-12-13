@@ -64,6 +64,7 @@ Die Gattung der Risspilze wurde 2019 (*Matheny et al*) aufgespalten. Die meisten
 Links zu Risspilzporträts im Fundkorb:
 
 [Inocybe adaequata = Weinroter Risspilz](/pilze/inocybe-adaequata-weinroter-risspilz) (jetzt: Inosperma adaequatum)\
+[Inocybe assimilata = Weißknolliger Risspilz](/pilze/inocybe-assimilata-weißknolliger-risspilz)  
 [Inocybe asterospora =  Sternsporiger Risspilz](/pilze/inocybe-asterospora-sternsporiger-risspilz)\
 [Inocybe erubescens = Ziegelroter Risspilz](/pilze/inocybe-erubescens-ziegelroter-risspilz) (jetzt: Inosperma erubescens)\
 [Inocybe geophylla = Seidiger Risspilz](/pilze/inocybe-erubescens-ziegelroter-risspilz)\
