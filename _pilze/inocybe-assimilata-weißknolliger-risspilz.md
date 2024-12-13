@@ -52,7 +52,7 @@ Am Fundort im Perlacher Forst bei München (560 m üNN) waren insgesamt 5 Frucht
 
 Auch die Mikromerkmale passen. Gemessen wurden 14 Sporen, die eine unregelmäßig und schwach höckerige Geometrie hatten. Die Werte ergaben bei der Sporenlänge ein Mittel von 7,84 µm bei einem Minimum von 7,23 µm und einem Maximum von 9,44 µm, bei der Breite ein Mittel von 5,29 bei einem Minimum von 4,6 µm und einem Maximum von 5,91 µm. Cheilozystiden: spindelig, dickwandig, 35 – 65 x 10 – 18 µm (lt. Breitenbach & Kränzlin), eine gemessen: 45,6 x 15,4 µm.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/inocybe_assimilata_08_jr.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/inocybe_assimilata_05_jr.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Sporenabwurfpräparat  –  Mikrofoto: Sporen in Wasser" %}
