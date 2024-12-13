@@ -44,7 +44,7 @@ Die Bestimmung des hier vorgestellten Weißknolligen Risspilzes konnte mit dem *
 4 Stielknolle rundlich, immer weiß, sonst Stiel dem Hut blasser gleichfarben, Hut ± stumpf gebuckelt, gewölbt, rissig, hasel-, umbra- bis purpurbraun, 1,5 – 3 cm Ø, Lamellen graubraun bis dunkelbraun, Sporen stumpf, aber deutlich höckerig, 6 – 9 x 5 – 6 µm, Laub- und Nadelwald = *Inocybe umbrina* (Weißknolliger Risspilz)\
 Die Art gehört lt. Moser zu den makroskopisch erkennbaren Risspilzen.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/inocybe_assimilata_07_jr.jpg" %}
 {% include abbildung_ende.html %}
 
