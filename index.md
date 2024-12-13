@@ -21,6 +21,16 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/fistilina_hepatica_-01_gb.jpg" %}
+{% include abbildung_ende.html %}
+
+14.12.2024: An Holz findet man auch im Winter Pilze! Auch essbare. Bei unserem heutigen [Fundkorbpilz](AA "Glossar-") gehen die Meinungen über den Speisewert aber weit auseinander. Den Leberreischling *Fistulina hepatica*, auch Ochsenzunge genannt, schätzen manche, andere verabscheuen ihn. Was mich betrifft: ich kann mich immerhin an seinem Anblick erfreuen. (Dieter Gewalt)
+
+Mehr lesen >
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_hirsuta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,17 +49,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 [Mehr lesen >](/pilze/stereum-subtomentosum-samtiger-schichtpilz) 
 
 <div style="clear:  both"></div> 
- 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/graphis_scripta_03_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-11.12.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-") schaut aus wie geheime Schriftzeichen. Die Schriftflechte *Graphis scripta* ist eine Krustenflechte, deren langgestreckte, gebogene und verzweigte Fruchtkörper [(Hysterothezien)](Hysterothezien "Glossar-") an Schriftzeichen erinnern. Die Länge dieser Fruchtkörper beträgt nur wenige Millimeter. Meistens wächst die Schriftflechte in Augenhöhe an den glatten Rinden von verschiedenen Laubbäumen. Wer die Flechte mikroskopiert wird große spindelförmige und mehrfach [septierte](Septen "Glossar-") Sporen finden. (Johann Rejek)
-
-[Mehr lesen >](/pilze/graphis-scripta-schriftflechte) 
-
-<div style="clear:  both"></div> 
 
 - - -
 
@@ -61,10 +60,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/haareis_collage_02_dg.png" %}
-{% include abbildung_ende.html %}
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/haareis-01-bg.jpeg" %}
 {% include abbildung_ende.html %}
 
 Leider kann ich den Pilz nicht genau benennen, der für das hier gezeigte Phänomen verantwortlich ist. Man nennt es *Haareis.* Es kann sich nur unter sehr speziellen Wetter- und Temperaturbedingungen an Totholz bilden. Bei unserer pilzkundlichen Führung im Rhein-Main-Gebiet am 1. Dezember müssen diese Bedingungen jedenfalls hervorragend gewesen sein. In einem kleinen Jungbuchenwald bei Dietzenbach war im wahrsten Sinne des Wortes alles voll von Haareis, mit Sicherheit mehr als 100 Vorkommen. Mehr über dieses faszinierende Phänomen *Haareis* [erfahren Sie hier >](/artikel/haareis) 
