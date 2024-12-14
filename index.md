@@ -21,6 +21,16 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rhodocollybia_butyracea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.12.2024: Auch nach mehreren frostigen Nächten glänzt der Butter-Rübling *Rhodocollybia butyracea* wie mit Fett eingerieben und ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Sein Stiel fühlt sich an wie ein platter Fahrradschlauch. Das finden auch Teilnehmer an Führungen, wenn sie ihn zwischen den Fingern haben. Essen kann man ihn auch, aber wenn man ihn nicht isst, hat man nichts versäumt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/rhodocollybia-butyracea-butter-rübling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/fistilina_hepatica_-01_gb.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,16 +47,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 13.12. 2024: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Striegelige Tramete  *Trametes hirsuta* wird umgangssprachlich auch Sofapilz genannt. Die samtige Behaarung auf der Hutoberseite erinnert an ein Plüschsofa. Man findet die kaum miteienander verwachsenen zonierten Fruchtkörper an totem Laubholz. Oft sind alte Pilze auf der Hutoberseite durch Algenbewuchs grün gefärbt. (Johann Rejek)
 
 [Mehr lesen >](/pilze/trametes-hirsuta-striegelige-tramete) 
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_subtomentosum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.12.2024: Der Samtige Schichtpilz *Stereum subtomentosum* ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Man findet ihn das ganze Jahr über so gut wie in jedem Laubwald. In der Regel sind es viele dünne zonierte Fruchtkörper, die fächerförmig oder konsolenartig am Substrat angewachsen sind. Die Fruchtschicht [(Hymenium)](Hymenium "Glossar-") von Schichtpilzen ist glatt. Bei den ähnlich aussehenden Trameten besteht das Hymnenium aus Poren. (Johann Rejek)
-
-[Mehr lesen >](/pilze/stereum-subtomentosum-samtiger-schichtpilz) 
 
 <div style="clear:  both"></div> 
 
