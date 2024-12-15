@@ -20,6 +20,16 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/puccinia_malvacearum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") ist der Malvenrost *Puccinia malvacearum*. Zur Bestimmung dieses Rostpilzes genügt es, die Malvenpflanze zu kennen, auf deren Blättern er als gelbliche bis braune Pusteln erscheint. Auf den Blattunterseiten entwickeln sich die sogenannten [Telien](Telie "Glossar"). Sie sind rundlich, polsterförmig, fest, jung gelbrot, später braun bis fast schwarz und etwa 200 µm breit. Da dieser Rost nur Wintersporen produziert, findet bei ihm kein Wirtswechsel statt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/puccinia-malvacearum-malvenrost)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rhodocollybia_butyracea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -39,16 +49,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 [Mehr lesen >](/pilze/fistulina-hepatica-ochsenzunge-leberreischling)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_hirsuta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.12. 2024: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Striegelige Tramete  *Trametes hirsuta* wird umgangssprachlich auch Sofapilz genannt. Die samtige Behaarung auf der Hutoberseite erinnert an ein Plüschsofa. Man findet die kaum miteienander verwachsenen zonierten Fruchtkörper an totem Laubholz. Oft sind alte Pilze auf der Hutoberseite durch Algenbewuchs grün gefärbt. (Johann Rejek)
-
-[Mehr lesen >](/pilze/trametes-hirsuta-striegelige-tramete) 
-
-<div style="clear:  both"></div> 
 
 - - -
 
