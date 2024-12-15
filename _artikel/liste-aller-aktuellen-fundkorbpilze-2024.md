@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-15.12.2024: [Rhodocollybia butyracea - Butter-Rübling](/pilze/rhodocollybia-butyracea-butter-rübling)  
+16.12.2024: [Puccinia malvacearum - Malvenrost](/pilze/puccinia-malvacearum-malvenrost)  
+15.12.2024: [Rhodocollybia butyracea - Butter-Rübling](/pilze/rhodocollybia-butyracea-butter-rübling)\
 14.12.2024: [Fistulina hepatica - Ochsenzunge, Leberreischling](/pilze/fistulina-hepatica-ochsenzunge-leberreischling)\
 13.12.2024: [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)\
 12.12.2024: [Stereum subtomentosum - Samtiger Schichtpilz](/pilze/stereum-subtomentosum-samtiger-schichtpilz)\
