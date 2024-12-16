@@ -21,6 +21,16 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/fomes_fomentarius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+In den Wintermonaten bilden die meisten im Boden wachsenden Pilze keine Fruchtkörper, sie machen „Winterschlaf“. So richtet sich der Blick auf die sogenannten Baumpilze, die oft mehrjährig wachsen, und somit auch im Winter zu sehen sind. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zunderschwamm *Fomes fomentarius*, ist in fast jedem Buchenwald mit Totholzanteil zu finden. Mit etwas Glück findet man auch Exemplare, die ihre Wuchsrichtung änderten, nachdem der Baum umstürzte. Man spricht dann von Geotropismus. (Johann Rejek)
+
+[Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/puccinia_malvacearum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,16 +47,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") ist der Malvenrost *Puccinia malvacearum
 15.12.2024: Auch nach mehreren frostigen Nächten glänzt der Butter-Rübling *Rhodocollybia butyracea* wie mit Fett eingerieben und ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Sein Stiel fühlt sich an wie ein platter Fahrradschlauch. Das finden auch Teilnehmer an Führungen, wenn sie ihn zwischen den Fingern haben. Essen kann man ihn auch, aber wenn man ihn nicht isst, hat man nichts versäumt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/rhodocollybia-butyracea-butter-rübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/fistilina_hepatica_-01_gb.jpg" %}
-{% include abbildung_ende.html %}
-
-14.12.2024: An Holz findet man auch im Winter Pilze! Auch essbare. Bei unserem heutigen [Fundkorbpilz](AA "Glossar-") gehen die Meinungen über den Speisewert aber weit auseinander. Den Leberreischling *Fistulina hepatica*, auch Ochsenzunge genannt, schätzen manche, andere verabscheuen ihn. Was mich betrifft: ich kann mich immerhin an seinem Anblick erfreuen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/fistulina-hepatica-ochsenzunge-leberreischling)
 
 <div style="clear:  both"></div>
 
