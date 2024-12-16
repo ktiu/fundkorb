@@ -24,7 +24,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/fomes_fomentarius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-In den Wintermonaten bilden die meisten im Boden wachsenden Pilze keine Fruchtkörper, sie machen „Winterschlaf“. So richtet sich der Blick auf die sogenannten Baumpilze, die oft mehrjährig wachsen, und somit auch im Winter zu sehen sind. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zunderschwamm *Fomes fomentarius*, ist in fast jedem Buchenwald mit Totholzanteil zu finden. Mit etwas Glück findet man auch Exemplare, die ihre Wuchsrichtung änderten, nachdem der Baum umstürzte. Man spricht dann von Geotropismus. (Johann Rejek)
+In den Wintermonaten bilden die meisten im Boden wachsenden Pilze keine Fruchtkörper, sie machen „Winterschlaf“. So richtet sich der Blick auf die sogenannten Baumpilze, die oft mehrjährig wachsen, und somit auch im Winter zu sehen sind. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zunderschwamm *Fomes fomentarius*, ist in fast jedem Buchenwald mit Totholzanteil zu finden. Mit etwas Glück findet man auch Exemplare, die ihre Wuchsrichtung änderten, nachdem der Baum umstürzte. Ursache dafür ist der [Geotropismus](Geotropismus "Glossar"). (Johann Rejek)
 
 [Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)
 
