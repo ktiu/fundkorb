@@ -66,6 +66,12 @@ Aktueller [Fundkorbpilz](AA "Glossar-") ist der Malvenrost *Puccinia malvacearum
 
 - - -
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/inocybe_assimilata_01_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+[](/pilze/inocybe-assimilata-weißknolliger-risspilz)**Neu im Fundkorb:** [Weißknolliger Risspilz Inocybe assimilata >](/pilze/inocybe-assimilata-weißknolliger-risspilz)
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/haareis_collage_02_dg.png" %}
 {% include abbildung_ende.html %}
