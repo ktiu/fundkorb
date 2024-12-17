@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
+18.12.2024: [Nectria cinnabarina - Zinnoberroter Pustelpilz](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)  
 17.12.2024: [Fomes fomentarius - Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)  
 16.12.2024: [Puccinia malvacearum - Malvenrost](/pilze/puccinia-malvacearum-malvenrost)\
 15.12.2024: [Rhodocollybia butyracea - Butter-Rübling](/pilze/rhodocollybia-butyracea-butter-rübling)\
