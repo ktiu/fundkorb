@@ -21,6 +21,14 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/nectria_cinnabarina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zinnoberrote Pustelpilz *Nectria cinnabarina*, ist zwar recht klein, aber durch sein rasiges Auftreten leicht in jedem Laubwald zu finden. Er fruktifiziert an toten berindeten Ästchen und meistens sieht man die hellere (rosa- oder hellrotfarbene) Nebenfruchtform. Die seltenere Hauptfruchtform ist zinnoberfarben und besteht aus vielen kleinen zusammnestehenden Pusteln, die wie kleine Himbeeren ausschauen. (Johann Rejek)
+
+[Mehr lesen >](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/fomes_fomentarius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
