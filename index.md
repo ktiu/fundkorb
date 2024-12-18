@@ -24,7 +24,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/nectria_cinnabarina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zinnoberrote Pustelpilz *Nectria cinnabarina*, ist zwar recht klein, aber durch sein rasiges Auftreten leicht in jedem Laubwald zu finden. Er fruktifiziert an toten berindeten Ästchen und meistens sieht man die hellere (rosa- oder hellrotfarbene) Nebenfruchtform. Die seltenere Hauptfruchtform ist zinnoberfarben und besteht aus vielen kleinen zusammenstehenden Pusteln, die wie kleine Himbeeren ausschauen. (Johann Rejek)
+18.12.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zinnoberrote Pustelpilz *Nectria cinnabarina*, ist zwar recht klein, aber durch sein rasiges Auftreten leicht in jedem Laubwald zu finden. Er fruktifiziert an toten berindeten Ästchen und meistens sieht man die hellere (rosa- oder hellrotfarbene) Nebenfruchtform. Die seltenere Hauptfruchtform ist zinnoberfarben und besteht aus vielen kleinen zusammenstehenden Pusteln, die wie kleine Himbeeren ausschauen. (Johann Rejek)
 
 [Mehr lesen >](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)
 
@@ -32,7 +32,7 @@ Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zinnoberrote Pustelpilz *Nect
 {% include bild.html datei="/bilder/fomes_fomentarius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-In den Wintermonaten bilden die meisten im Boden wachsenden Pilze keine Fruchtkörper, sie machen „Winterschlaf“. So richtet sich der Blick auf die sogenannten Baumpilze, die oft mehrjährig wachsen, und somit auch im Winter zu sehen sind. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zunderschwamm *Fomes fomentarius*, ist in fast jedem Buchenwald mit Totholzanteil zu finden. Mit etwas Glück findet man auch Exemplare, die ihre Wuchsrichtung änderten, nachdem der Baum umstürzte. Ursache dafür ist der [Geotropismus](Geotropismus "Glossar"). (Johann Rejek)
+17.12.2024: In den Wintermonaten bilden die meisten im Boden wachsenden Pilze keine Fruchtkörper, sie machen „Winterschlaf“. So richtet sich der Blick auf die sogenannten Baumpilze, die oft mehrjährig wachsen, und somit auch im Winter zu sehen sind. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zunderschwamm *Fomes fomentarius*, ist in fast jedem Buchenwald mit Totholzanteil zu finden. Mit etwas Glück findet man auch Exemplare, die ihre Wuchsrichtung änderten, nachdem der Baum umstürzte. Ursache dafür ist der [Geotropismus](Geotropismus "Glossar"). (Johann Rejek)
 
 [Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)
 
@@ -42,19 +42,9 @@ In den Wintermonaten bilden die meisten im Boden wachsenden Pilze keine Fruchtk�
 {% include bild.html datei="/bilder/puccinia_malvacearum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Aktueller [Fundkorbpilz](AA "Glossar-") ist der Malvenrost *Puccinia malvacearum*. Zur Bestimmung dieses Rostpilzes genügt es, die Malvenpflanze zu kennen, auf deren Blättern er als gelbliche bis braune Pusteln erscheint. Auf den Blattunterseiten entwickeln sich die sogenannten [Telien](Telie "Glossar"). Sie sind rundlich, polsterförmig, fest, jung gelbrot, später braun bis fast schwarz und etwa 200 µm breit. Da dieser Rost nur Wintersporen produziert, findet bei ihm kein Wirtswechsel statt. (Dieter Gewalt)
+16.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Malvenrost *Puccinia malvacearum*. Zur Bestimmung dieses Rostpilzes genügt es, die Malvenpflanze zu kennen, auf deren Blättern er als gelbliche bis braune Pusteln erscheint. Auf den Blattunterseiten entwickeln sich die sogenannten [Telien](Telie "Glossar"). Sie sind rundlich, polsterförmig, fest, jung gelbrot, später braun bis fast schwarz und etwa 200 µm breit. Da dieser Rost nur Wintersporen produziert, findet bei ihm kein Wirtswechsel statt. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/puccinia-malvacearum-malvenrost)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rhodocollybia_butyracea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.12.2024: Auch nach mehreren frostigen Nächten glänzt der Butter-Rübling *Rhodocollybia butyracea* wie mit Fett eingerieben und ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Sein Stiel fühlt sich an wie ein platter Fahrradschlauch. Das finden auch Teilnehmer an Führungen, wenn sie ihn zwischen den Fingern haben. Essen kann man ihn auch, aber wenn man ihn nicht isst, hat man nichts versäumt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/rhodocollybia-butyracea-butter-rübling)
 
 <div style="clear:  both"></div>
 
