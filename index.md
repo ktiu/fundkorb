@@ -66,7 +66,7 @@ Aktueller [Fundkorbpilz](AA "Glossar-") ist der Malvenrost *Puccinia malvacearum
 
 - - -
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/inocybe_assimilata_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
