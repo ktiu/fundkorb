@@ -21,6 +21,16 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hydnum_repandum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.12.2024: Zu den „winterharten“ Pilzen gehört auch der *Semmelstoppelpilz  Hydnum repandum*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Oberflächlich betrachtet könnte man ihn für einen Pfifferling halten. Ein Blick auf die Unterseite genügt, um den Irrtum zu erkennen. Wo der Pfifferling lamellenähnliche Leisten hat, befinden sich hier engstehende Stoppeln. Erfahrene Sammler wissen: auch er ist essbar. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/hydnum-repandum-semmelstoppelpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/nectria_cinnabarina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -35,16 +45,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 17.12.2024: In den Wintermonaten bilden die meisten im Boden wachsenden Pilze keine Fruchtkörper, sie machen „Winterschlaf“. So richtet sich der Blick auf die sogenannten Baumpilze, die oft mehrjährig wachsen, und somit auch im Winter zu sehen sind. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zunderschwamm *Fomes fomentarius*, ist in fast jedem Buchenwald mit Totholzanteil zu finden. Mit etwas Glück findet man auch Exemplare, die ihre Wuchsrichtung änderten, nachdem der Baum umstürzte. Ursache dafür ist der [Geotropismus](Geotropismus "Glossar"). (Johann Rejek)
 
 [Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/puccinia_malvacearum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Malvenrost *Puccinia malvacearum*. Zur Bestimmung dieses Rostpilzes genügt es, die Malvenpflanze zu kennen, auf deren Blättern er als gelbliche bis braune Pusteln erscheint. Auf den Blattunterseiten entwickeln sich die sogenannten [Telien](Telie "Glossar"). Sie sind rundlich, polsterförmig, fest, jung gelbrot, später braun bis fast schwarz und etwa 200 µm breit. Da dieser Rost nur Wintersporen produziert, findet bei ihm kein Wirtswechsel statt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/puccinia-malvacearum-malvenrost)
 
 <div style="clear:  both"></div>
 
