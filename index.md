@@ -21,6 +21,16 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_pubescens_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.12.2024: Wenn man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Samtige Tramete *Trametes pubescens*, an totem Laubholz findet, ist man versucht, sie streicheln zu wollen, so samtig fein sieht ihre Oberflächenbehaarung aus. Allzu oft wird man diese Gelegenheit nicht haben, denn unser nahezu weißer Pilz ist nicht gerade häufig. Er bevorzugt schattig feuchte oder auwaldartige Biotope und könnte mit der sehr viel häufigeren [Striegeligen Tramete (Trametes hirsuta)](/pilze/trametes-hirsuta-striegelige-tramete) verwechselt werden, die deutlicher gezont ist. Das Biotop meines Fundes war ein Erlenbruchwald bei Dietzenbach. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/trametes-pubescens-samtige-tramete)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hydnum_repandum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -37,16 +47,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 18.12.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zinnoberrote Pustelpilz *Nectria cinnabarina*, ist zwar recht klein, aber durch sein rasiges Auftreten leicht in jedem Laubwald zu finden. Er fruktifiziert an toten berindeten Ästchen und meistens sieht man die hellere (rosa- oder hellrotfarbene) Nebenfruchtform. Die seltenere Hauptfruchtform ist zinnoberfarben und besteht aus vielen kleinen zusammenstehenden Pusteln, die wie kleine Himbeeren ausschauen. (Johann Rejek)
 
 [Mehr lesen >](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/fomes_fomentarius_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.12.2024: In den Wintermonaten bilden die meisten im Boden wachsenden Pilze keine Fruchtkörper, sie machen „Winterschlaf“. So richtet sich der Blick auf die sogenannten Baumpilze, die oft mehrjährig wachsen, und somit auch im Winter zu sehen sind. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zunderschwamm *Fomes fomentarius*, ist in fast jedem Buchenwald mit Totholzanteil zu finden. Mit etwas Glück findet man auch Exemplare, die ihre Wuchsrichtung änderten, nachdem der Baum umstürzte. Ursache dafür ist der [Geotropismus](Geotropismus "Glossar"). (Johann Rejek)
-
-[Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)
-
-<div style="clear:  both"></div>
 
 - - -
 
