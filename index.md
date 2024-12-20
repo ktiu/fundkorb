@@ -45,7 +45,7 @@ Der wissenschaftliche Artname „serotinus“ = spät (im Jahr) erscheinend, ver
 {% include bild.html datei="/bilder/hydnum_repandum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-19.12.2024: Zu den „winterharten“ Pilzen gehört auch der *Semmelstoppelpilz  Hydnum repandum*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Oberflächlich betrachtet könnte man ihn für einen Pfifferling halten. Ein Blick auf die Unterseite genügt, um den Irrtum zu erkennen. Wo der Pfifferling lamellenähnliche Leisten hat, befinden sich hier engstehende Stoppeln. Erfahrene Sammler wissen: auch er ist essbar. (Dieter Gewalt)
+19.12.2024: Zu den „winterharten“ Pilzen gehört auch der Semmelstoppelpilz *Hydnum repandum*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Oberflächlich betrachtet könnte man ihn für einen Pfifferling halten. Ein Blick auf die Unterseite genügt, um den Irrtum zu erkennen. Wo der Pfifferling lamellenähnliche Leisten hat, befinden sich hier engstehende Stoppeln. Erfahrene Sammler wissen: auch er ist essbar. (Dieter Gewalt)
 
 [Mehr lesen >](/pilze/hydnum-repandum-semmelstoppelpilz)
 
