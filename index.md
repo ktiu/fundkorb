@@ -24,7 +24,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/panellus_serotinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-21.12.2024: Der Gelbstielige Muschelseitling *Panellus serotinus* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Der deutsche Name ist Programm. Der muschelförmige Fruchtkörper hat auf der Oberseite olivgrüne bis dunkelbraune Farben, wächst oft gesellig an toten Laubholzstämmen und sieht auf den ersten Blick eher unauffällig aus. Auf der Unterseite überrascht er mit dicht stehenden gelblichen Lamellen, die abrupt an einen gelbgrünen kurzen Stiel enden.
+21.12.2024: Der Gelbstielige Muschelseitling *Panellus serotinus* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Der deutsche Name ist Programm. Der muschelförmige Fruchtkörper hat auf der Oberseite olivgrüne bis dunkelbraune Farben, wächst oft gesellig an toten Laubholzstämmen und sieht auf den ersten Blick eher unauffällig aus. Auf der Unterseite überrascht er mit dicht stehenden gelblichen Lamellen, die abrupt an einem gelbgrünen kurzen Stiel enden.
 Der wissenschaftliche Artname „serotinus“ = spät (im Jahr) erscheinend, verweist auf das Vorkommen im Winterhalbjahr. (Johann Rejek)
 
 [Mehr lesen >](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)
