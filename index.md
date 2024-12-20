@@ -21,6 +21,17 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/panellus_serotinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.12.2014: Der Gelbstielige Muschelseitling *Panellus serotinus* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Der deutsche Name ist Programm. Der muschelförmige Fruchtkörper hat auf der Oberseite olivgrüne bis dunkelbraune Farben, wächst oft gesellig an toten Laubholzstämmen und sieht auf den ersten Blick eher unauffällig aus. Auf der Unterseite überrascht er mit dicht stehenden gelblichen Lamellen, die abrupt an einen gelbgrünen kurzen Stiel enden.
+Der wissenschaftliche Artname „serotinus“ = spät (im Jahr) erscheinend, verweist auf das Vorkommen im Winterhalbjahr. (Johann Rejek)
+
+[Mehr lesen >](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_pubescens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -39,14 +50,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 [Mehr lesen >](/pilze/hydnum-repandum-semmelstoppelpilz)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/nectria_cinnabarina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.12.2024: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zinnoberrote Pustelpilz *Nectria cinnabarina*, ist zwar recht klein, aber durch sein rasiges Auftreten leicht in jedem Laubwald zu finden. Er fruktifiziert an toten berindeten Ästchen und meistens sieht man die hellere (rosa- oder hellrotfarbene) Nebenfruchtform. Die seltenere Hauptfruchtform ist zinnoberfarben und besteht aus vielen kleinen zusammenstehenden Pusteln, die wie kleine Himbeeren ausschauen. (Johann Rejek)
-
-[Mehr lesen >](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)
 
 - - -
 
