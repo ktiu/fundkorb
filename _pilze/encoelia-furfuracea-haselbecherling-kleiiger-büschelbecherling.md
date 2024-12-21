@@ -21,8 +21,8 @@ In einem Fundkorb-Beitrag hat *Thomas Lehr* über diesen Pilz geschrieben:
 Dieses Statement deckt sich so gar nicht mit meinen eigenen Beobachtungen (nur zwei Funde! – Stand: 2019). Er scheint mir gezielt aus dem Weg gehen zu wollen. Die Verbeitungskarte für Deutschland (1993) zeigt Ballungsgebiete, in denen er wohl häufig sein muss und flächendeckend verbreitet ist, während er in anderen Regionen, auch im Rhein-Main-Gebiet, nur lückenhaft nachgewiesen ist oder ganz zu fehlen scheint.
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/encoelia_furfuracea_02_jr.jpg" %}
-{% include abbildung_ende.html legende="Foto: Johann Rejek" %}
+{% include bild.html datei="/bilder/encoelia_furfuracea_04_jr.jpg" %}
+{% include abbildung_ende.html legende="Foto: Johann Rejek, 04.03.2023 bei Allershausen" %}
 
 Die Fruchtkörper sind unregelmäßig becherförmig, von lederig zäher Konsistenz und dünnfleischig. Sie werden etwa 0,5 bis 2 cm groß, sind außen kleiig-schorfig, das [Hymenium](Hymenium "Glossar") ist glatt und zimt- bis dunkelbraun. Sie entwickeln sich unter der Rinde und brechen meist in knäueligen Gruppen aus dieser hervor, wobei zunächst nur die kleiige Außenseite sichtbar ist.
 
