@@ -10,7 +10,7 @@ profil:
   aktualisiert: 2024-12-20
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/cortinarius_brunneus_01_nk.jpg
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 5, Nr. 302"
