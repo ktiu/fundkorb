@@ -11,7 +11,8 @@ footer_scripts:
  {% include pilzsuche.html %}
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/weihnachtspilz_02_fk.jpg" %}
+{% include bild.html datei="/bilder/weihnachtspilz_02_fk.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/weinachtspilz_04_ii.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
 Neuer Exkursionstermin:\
