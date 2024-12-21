@@ -25,7 +25,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/phlebia_radiata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-22.12.2024: Auch wenn man sich nicht mit [resupinat](resupinat "Glossar") wachsenden Rindenpilzen auskennt, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Orangeroten Kammpilz *Phlebia radiata*, kann man bereits am Fundort bestimmen. Er ist ein echter Hingucker! Kein anderer Kammpilz hat so leuchtende Farben in den Zuwachszonen. Man findet ihn vorwiegend in den Wintermonaten an totem Laubholz, wo er eine Weißfäule erzeugt. (Johann Rejek)
+22.12.2024: Auch wenn man sich nicht mit [resupinat](resupinat "Glossar") wachsenden Rindenpilzen auskennt, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Orangeroten Kammpilz *Phlebia radiata*, kann man bereits am Fundort bestimmen. Er ist ein echter Hingucker! Kein anderer Kammpilz hat so leuchtende Farben in den Zuwachszonen. Man findet ihn vorwiegend in den Wintermonaten an totem Laubholz, in dem er eine Weißfäule erzeugt. (Johann Rejek)
 
 [Mehr lesen >](/pilze/phlebia-radiata-orangeroter-kammpilz)
 
