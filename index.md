@@ -22,6 +22,16 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/encoelia_furfuracea_04_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+23.12.2024: Manches Mal kann es sich lohnen, wenn man beim Suchen nach Pilzen nicht auf den Boden oder auf liegendes bemoostes Totholz schaut, sondern den Blick in Augenhöhe schweifen lässt. Besonders dann, wenn man auf Haselgehölze trifft. Dort könnte unser Aktueller [Fundkorbpilz](AA "Glossar-"), der Haselbecherling Encoelia furfuracea zu finden sein. Dieser meist in kleinen Gruppen wachsende [Ascomycet](Ascomyzeten "Glossar") erscheint hauptsächlich in den Wintermonaten. (Johann Rejek)
+
+[Mehr lesen >](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)
+
+<div style="clear: both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phlebia_radiata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -42,25 +52,7 @@ Der wissenschaftliche Artname „serotinus“ = spät (im Jahr) erscheinend, ver
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_pubescens_01_dg.jpg" %}
-{% include abbildung_ende.html %}
 
-20.12.2024: Wenn man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Samtige Tramete *Trametes pubescens*, an totem Laubholz findet, ist man versucht, sie streicheln zu wollen, so samtig fein sieht ihre Oberflächenbehaarung aus. Allzu oft wird man diese Gelegenheit nicht haben, denn unser nahezu weißer Pilz ist nicht gerade häufig. Er bevorzugt schattig feuchte oder auwaldartige Biotope und könnte mit der sehr viel häufigeren [Striegeligen Tramete (Trametes hirsuta)](/pilze/trametes-hirsuta-striegelige-tramete) verwechselt werden, die deutlicher gezont ist. Das Biotop meines Fundes war ein Erlenbruchwald bei Dietzenbach. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/trametes-pubescens-samtige-tramete)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hydnum_repandum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.12.2024: Zu den „winterharten“ Pilzen gehört auch der Semmelstoppelpilz *Hydnum repandum*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Oberflächlich betrachtet könnte man ihn für einen Pfifferling halten. Ein Blick auf die Unterseite genügt, um den Irrtum zu erkennen. Wo der Pfifferling lamellenähnliche Leisten hat, befinden sich hier engstehende Stoppeln. Erfahrene Sammler wissen: auch er ist essbar. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/hydnum-repandum-semmelstoppelpilz)
-
-<div style="clear:  both"></div>
 
 - - -
 
