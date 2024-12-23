@@ -22,6 +22,16 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/chondrostereum_purpureum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-")  ist einer, der durch seine schöne violette Farbe auffällt. Der Violette Schichtpilz *Chondrostereum purpureum* ist ganzjährig an Laubhölzern zu finden, mit Abstand am häufigsten an Rotbuche. In unserer Dietzenbacher Parkanlage wächst er wie schon seit einigen Jahren auch jetzt zu Weihnachten am Stammgrund einer noch lebenden Birke. Das hier gezeigte Foto stammt von einem Stapel lagernder Buchenstämme. (Dieter Gewalt) 
+
+[Mehr lesen >](/pilze/chondrostereum-purpureum-violetter-schichtpilz)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/encoelia_furfuracea_04_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -41,19 +51,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 
 <div style="clear: both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/panellus_serotinus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.12.2024: Der Gelbstielige Muschelseitling *Panellus serotinus* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Der deutsche Name ist Programm. Der muschelförmige Fruchtkörper hat auf der Oberseite olivgrüne bis dunkelbraune Farben, wächst oft gesellig an toten Laubholzstämmen und sieht auf den ersten Blick eher unauffällig aus. Auf der Unterseite überrascht er mit dicht stehenden gelblichen Lamellen, die abrupt an einem gelbgrünen kurzen Stiel enden.
-Der wissenschaftliche Artname „serotinus“ = spät (im Jahr) erscheinend, verweist auf das Vorkommen im Winterhalbjahr. (Johann Rejek)
-
-[Mehr lesen >](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)
-
-<div style="clear:  both"></div>
-
-
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
@@ -61,12 +58,6 @@ Der wissenschaftliche Artname „serotinus“ = spät (im Jahr) erscheinend, ver
 [Liste aller aktuellen Fundkorbpilze 2023](/artikel/liste-aller-aktuellen-fundkorbpilze-2023.html)
 
 - - -
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/inocybe_assimilata_01_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-[](/pilze/inocybe-assimilata-weißknolliger-risspilz)**Neu im Fundkorb:** [Weißknolliger Risspilz Inocybe assimilata >](/pilze/inocybe-assimilata-weißknolliger-risspilz)
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/haareis_collage_02_dg.png" %}
