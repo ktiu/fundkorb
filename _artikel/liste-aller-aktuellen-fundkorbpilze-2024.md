@@ -2,10 +2,11 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-23.12.2024: [Encoelia furfuracea - Haselbecherling](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)  
-22.12.2024: [Phlebia radiata - Orangeroter Kammpilz](/pilze/phlebia-radiata-orangeroter-kammpilz)  
-21.12.2024: [Panellus serotinus - Gelbstieliger Muschelseitling](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)  
-20.12.2024: [Trametes pubescens - Samtige Tramete](/pilze/trametes-pubescens-samtige-tramete)  
+24.12.2024: [Chondrostereum purpurem - Violetter Schichtpilz](/pilze/chondrostereum-purpureum-violetter-schichtpilz)  
+23.12.2024: [Encoelia furfuracea - Haselbecherling](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)\
+22.12.2024: [Phlebia radiata - Orangeroter Kammpilz](/pilze/phlebia-radiata-orangeroter-kammpilz)\
+21.12.2024: [Panellus serotinus - Gelbstieliger Muschelseitling](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)\
+20.12.2024: [Trametes pubescens - Samtige Tramete](/pilze/trametes-pubescens-samtige-tramete)\
 19.12.2024: [Hydnum repandum - Semmelstoppelpilz](/pilze/hydnum-repandum-semmelstoppelpilz)\
 18.12.2024: [Nectria cinnabarina - Zinnoberroter Pustelpilz](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)\
 17.12.2024: [Fomes fomentarius - Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)\
