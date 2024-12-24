@@ -22,6 +22,16 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_robustus_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+25.12.2024: Pilze an Holz findet man das ganze Jahr über, auch an Weihnachten. Zum Beispiel unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Eichen-Feuerschwamm *Phellinus robustus*, der problemlos 15 Jahre alt werden kann. Er wächst oft viele Meter hoch an den Stämmen, wo man beobachten kann, wie Spechte in ihrer Nähe ihre Höhlen zimmern. Das vom Pilz geschwächte Holz erleichtert ihnen die Arbeit. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/phellinus-robustus-eichen-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/chondrostereum_purpureum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -38,16 +48,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 23.12.2024: Manches Mal kann es sich lohnen, wenn man beim Suchen nach Pilzen nicht auf den Boden oder auf liegendes bemoostes Totholz schaut, sondern den Blick in Augenhöhe schweifen lässt. Besonders dann, wenn man auf Haselgehölze trifft. Dort könnte unser Aktueller [Fundkorbpilz](AA "Glossar-"), der Haselbecherling *Encoelia furfuracea* zu finden sein. Dieser meist in kleinen Gruppen wachsende [Ascomycet](Ascomyzeten "Glossar") erscheint hauptsächlich in den Wintermonaten. (Johann Rejek)
 
 [Mehr lesen >](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)
-
-<div style="clear: both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phlebia_radiata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.12.2024: Auch wenn man sich nicht mit [resupinat](resupinat "Glossar") wachsenden Rindenpilzen auskennt, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Orangeroten Kammpilz *Phlebia radiata*, kann man bereits am Fundort bestimmen. Er ist ein echter Hingucker! Kein anderer Kammpilz hat so leuchtende Farben in den Zuwachszonen. Man findet ihn vorwiegend in den Wintermonaten an totem Laubholz, in dem er eine Weißfäule erzeugt. (Johann Rejek)
-
-[Mehr lesen >](/pilze/phlebia-radiata-orangeroter-kammpilz)
 
 <div style="clear: both"></div>
 
