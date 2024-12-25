@@ -1,5 +1,5 @@
 ---
-schlagwort: "Porlinge"
+schlagwort: Porlinge
 ---
-Pilze mit Poren (Löchern) an der Hutunterseite, durch die dieSporen entlassen werden, ganz überwiegend an Holz wachsende Arten
+Pilze mit Poren (Löchern) an der Hutunterseite, durch die Sporen entlassen werden, ganz überwiegend an Holz wachsende Arten
 
