@@ -22,6 +22,16 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/chromocyphella_muscicola_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Moosbewohnende Braunsporbecherchen *Chromocyphella muscicola*, ein Winzling, der meist nur 1 bis 2 mm groß wird, maximal ca. 4 mm. Er gilt als selten, was aber bezweifelt werden darf. Nach meinen Erfahrungen ist er bei feuchter Witterung während der Wintermonate in Laubwäldern sogar recht häufig. Bei gezielter Suche achte man auf bemooste Stämme lebender Bäume, und hier besonders auf ausgebleichte Stellen. Dieses auffällige Schadbild wird durch den Pilz verursacht. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_robustus_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
