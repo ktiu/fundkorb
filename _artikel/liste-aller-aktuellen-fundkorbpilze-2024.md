@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-25.12.2024: [Phellinus robustus - Eichen-Feuerschwamm](/pilze/phellinus-robustus-eichen-feuerschwamm)  
+26.12.2024: [Chromocyphella muscicola - Moosbewohnendes Braunsporbecherchen](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)  
+25.12.2024: [Phellinus robustus - Eichen-Feuerschwamm](/pilze/phellinus-robustus-eichen-feuerschwamm)\
 24.12.2024: [Chondrostereum purpurem - Violetter Schichtpilz](/pilze/chondrostereum-purpureum-violetter-schichtpilz)\
 23.12.2024: [Encoelia furfuracea - Haselbecherling](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)\
 22.12.2024: [Phlebia radiata - Orangeroter Kammpilz](/pilze/phlebia-radiata-orangeroter-kammpilz)\
