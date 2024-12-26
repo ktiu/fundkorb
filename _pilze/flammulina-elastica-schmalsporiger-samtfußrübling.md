@@ -24,7 +24,7 @@ literatur:
   - text: "PETERSEN, R.H. (1999): New species, varieties and combinations in the
       genus Flammulina. I: 293-294"
 ---
-Es ist immer wieder ein erfrischender Anblick, im Winter einem Vorkommen von Gruppe Samtrüblingen zu begegnen. Der hier vorgestellte Schmalsporige Samtfußrübling ist weit verbreitet und häufig und stellt einen vorzüglichen Speisepilz für die kalte Jahreszeit dar. Er gleicht dem „normalen“ [Samtfußrübling Flammulina velutipes](/pilze/flammulina-velutipes-samtfußrübling) makroskopisch wie ein Ei dem anderen. Der messbare Unterschied liegt lediglich in der Sporenform (siehe unten). 
+Es ist immer wieder ein erfrischender Anblick, im Winter einem Vorkommen von Samtrüblingen zu begegnen. Der hier vorgestellte Schmalsporige Samtfußrübling ist weit verbreitet und häufig und stellt einen vorzüglichen Speisepilz für die kalte Jahreszeit dar. Er gleicht dem „normalen“ [Samtfußrübling Flammulina velutipes](/pilze/flammulina-velutipes-samtfußrübling) makroskopisch wie ein Ei dem anderen. Der messbare Unterschied liegt lediglich in der Sporenform (siehe unten). 
 
 Er lebt als Schwächeparasit, anschließend als [Saprobiont](Saprobiont "Glossar"), auf Laubholz. Er ist also [lignicol](lignicol "Glossar") und ruft im Holz eine Weißfäule hervor. Dabei scheint er das Holz von Weidearten (*Salix sp.*) zu bevorzugen. Er fruktifiziert vorzugsweise im Winter; dann kann man ihn bei feuchter, nicht zu kalter Witterung oft massenhaft bei Weiden finden. Er wächst büschelig bis gesellig, gelegentlich kommen auch einzeln wachsende Exemplare vor.
 
