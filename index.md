@@ -25,7 +25,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/pseudoclitocybe_cyathiformis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-27.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kaffeebraune Gabeltrichterling *Pseudoclitocybe cyathiformis*, der auch im Dezember bei milden Temperaturen im Laub- und Nadelwald meist an grasigen Wegen zu finden ist. Der deutsche Name beschreibt die wesentlichen Bestimmungsmerkmale. Kaffeebrauner Hut (wobei das Braun stark variieren kann), herablaufende gegabelte (oft am Rand) Lamellen und einen Trichterlingshabitus. Wenn man den Hut auseinanderbricht, so spalten sich die Lamellen an der Bruchstelle (an mehreren Fruchrkörpern getestet). Ob das für alle Gabeltrichterlinge zutrifft wäre noch zu prüfen. (Johann Rejek)
+27.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kaffeebraune Gabeltrichterling *Pseudoclitocybe cyathiformis*, der auch im Dezember bei milden Temperaturen im Laub- und Nadelwald meist an grasigen Wegen zu finden ist. Der deutsche Name beschreibt die wesentlichen Bestimmungsmerkmale. Kaffeebrauner Hut (wobei das Braun stark variieren kann), herablaufende oft am Rand gegabelte Lamellen und einen Trichterlingshabitus. Wenn man den Hut auseinanderbricht, so spalten sich die Lamellen an der Bruchstelle (an mehreren Fruchtkörpern getestet). Ob das für alle Gabeltrichterlinge zutrifft wäre noch zu prüfen. (Johann Rejek)
 
 [Mehr lesen >](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)
 
