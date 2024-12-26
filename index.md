@@ -51,26 +51,6 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chondrostereum_purpureum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-")  ist einer, der durch seine schöne violette Farbe auffällt. Der Violette Schichtpilz *Chondrostereum purpureum* ist ganzjährig an Laubhölzern zu finden, mit Abstand am häufigsten an Rotbuche. In unserer Dietzenbacher Parkanlage wächst er wie schon seit einigen Jahren auch jetzt zu Weihnachten am Stammgrund einer noch lebenden Birke. Das hier gezeigte Foto stammt von einem Stapel lagernder Buchenstämme. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/chondrostereum-purpureum-violetter-schichtpilz)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/encoelia_furfuracea_04_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-23.12.2024: Manches Mal kann es sich lohnen, wenn man beim Suchen nach Pilzen nicht auf den Boden oder auf liegendes bemoostes Totholz schaut, sondern den Blick in Augenhöhe schweifen lässt. Besonders dann, wenn man auf Haselgehölze trifft. Dort könnte unser Aktueller [Fundkorbpilz](AA "Glossar-"), der Haselbecherling *Encoelia furfuracea* zu finden sein. Dieser meist in kleinen Gruppen wachsende [Ascomycet](Ascomyzeten "Glossar") erscheint hauptsächlich in den Wintermonaten. (Johann Rejek)
-
-[Mehr lesen >](/pilze/encoelia-furfuracea-haselbecherling-kleiiger-büschelbecherling)
-
-<div style="clear: both"></div>
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
