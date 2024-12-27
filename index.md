@@ -12,6 +12,7 @@ Neuer Exkursionstermin:\
 Sonntag, 23. Februar 202, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 [Hier geht's zur Anmeldung >](/termine)
 
+{% include pilzsuche.html %}
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
