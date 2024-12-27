@@ -1,6 +1,6 @@
 ---
-aktivitaet: Der Weihnachtswald und seine Pilze
-zeit: 2024-12-26T10:00:06.912Z
+aktivitaet: Der Wald und seine Pilze im Februar
+zeit: 2025-02-23T10:00:06.912Z
 bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
@@ -8,6 +8,6 @@ published: true
 bilder:
   - /bilder/weihnachten_01_dg.png
 ---
-Warum nicht mal einen der Weihnachtsfeiertage zu einem Waldspaziergang nutzen? Zumal uns die Wetterfrösche wieder einen milden Winter angekündigt haben. Im vergangenen Jahr hatten wir Ende Dezember noch zwei knackige Steinpilze im Korb und am 5. Januar eine prächtige Krause Glucke! Pilze sind zu allen Jahreszeiten ein spannendes Thema und immer für Überraschungen gut.
+Ein Wald ist mehr als nur eine großflächige Ansammlung von Bäumen. Er ist ein funktionierendes System von Abhängigkeiten und Wechselwirkungen, in dem Pilze eine besondere Rolle spielen. Den Teilnehmern an dieser Exkursion wird dies vor Augen geführt, es werden aber auch die Gefahren aufgezeigt, die dieses Biotop bedrohen. Wir lernen eine nicht geringe Anzahl an Pilzarten kennen und Speisepilze dürfen (falls wir welche finden) natürlich auch gesammelt werden. Wer möchte, bringt Körbchen und Messer mit.
 
-Die Teilnahmegebühr für die etwa dreistündige Wanderung beträgt 15 Euro. Begleitende Kinder sind natürlich kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Anmeldebestätigung mitgeteilt.
+Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung mitgeteilt.
