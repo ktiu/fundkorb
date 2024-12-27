@@ -8,15 +8,8 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
- {% include pilzsuche.html %}
-
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/weihnachtspilz_02_fk.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/weinachtspilz_04_ii.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html %}
-
 Neuer Exkursionstermin:\
-Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**\
+Sonntag, 23. Februar 202, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
@@ -25,9 +18,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/pseudoclitocybe_cyathiformis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-27.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kaffeebraune Gabeltrichterling *Pseudoclitocybe cyathiformis*, der auch im Dezember bei milden Temperaturen im Laub- und Nadelwald meist an grasigen Wegen zu finden ist. Der deutsche Name beschreibt die wesentlichen Bestimmungsmerkmale. Kaffeebrauner Hut (wobei das Braun stark variieren kann), herablaufende oft am Rand gegabelte Lamellen und einen Trichterlingshabitus. Wenn man den Hut auseinanderbricht, so spalten sich die Lamellen an der Bruchstelle (an mehreren Fruchtkörpern getestet). Ob das für alle Gabeltrichterlinge zutrifft wäre noch zu prüfen. (Johann Rejek)
-
-[Mehr lesen >](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)
+27.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kaffeebraune Gabeltrichterling *Pseudoclitocybe cyathiformis*, der auch im Dezember bei milden Temperaturen im Laub- und Nadelwald meist an grasigen Wegen zu finden ist. Der deutsche Name beschreibt die wesentlichen Bestimmungsmerkmale. Kaffeebrauner Hut (wobei das Braun stark variieren kann), herablaufende oft am Rand gegabelte Lamellen und einen Trichterlingshabitus. Wenn man den Hut auseinanderbricht, so spalten sich die Lamellen an der Bruchstelle (an mehreren Fruchtkörpern getestet). Ob das für alle Gabeltrichterlinge zutrifft wäre noch zu prüfen. (Johann Rejek) [Mehr lesen >](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)
 
 <div style="clear: both"></div>  
 
@@ -35,9 +26,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/chromocyphella_muscicola_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-26.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Moosbewohnende Braunsporbecherchen *Chromocyphella muscicola*, ein Winzling, der meist nur 1 bis 2 mm groß wird, maximal ca. 4 mm. Er gilt als selten, was aber bezweifelt werden darf. Nach meinen Erfahrungen ist er bei feuchter Witterung während der Wintermonate in Laubwäldern sogar recht häufig. Bei gezielter Suche achte man auf bemooste Stämme lebender Bäume, und hier besonders auf ausgebleichte Stellen. Dieses auffällige Schadbild wird durch den Pilz verursacht. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)
+26.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Moosbewohnende Braunsporbecherchen *Chromocyphella muscicola*, ein Winzling, der meist nur 1 bis 2 mm groß wird, maximal ca. 4 mm. Er gilt als selten, was aber bezweifelt werden darf. Nach meinen Erfahrungen ist er bei feuchter Witterung während der Wintermonate in Laubwäldern sogar recht häufig. Bei gezielter Suche achte man auf bemooste Stämme lebender Bäume, und hier besonders auf ausgebleichte Stellen. Dieses auffällige Schadbild wird durch den Pilz verursacht. (Dieter Gewalt) [Mehr lesen >](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)
 
 <div style="clear:  both"></div>
 
@@ -45,9 +34,7 @@ Donnerstag, 26. Dezember 2024, 10:00 Uhr: **Der Weihnachtswald und seine Pilze**
 {% include bild.html datei="/bilder/phellinus_robustus_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-25.12.2024: Pilze an Holz findet man das ganze Jahr über, auch an Weihnachten. Zum Beispiel unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Eichen-Feuerschwamm *Phellinus robustus*, der problemlos 15 Jahre alt werden kann. Er wächst oft viele Meter hoch an den Stämmen, wo man beobachten kann, wie Spechte in ihrer Nähe ihre Höhlen zimmern. Das vom Pilz geschwächte Holz erleichtert ihnen die Arbeit. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/phellinus-robustus-eichen-feuerschwamm)
+25.12.2024: Pilze an Holz findet man das ganze Jahr über, auch an Weihnachten. Zum Beispiel unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Eichen-Feuerschwamm *Phellinus robustus*, der problemlos 15 Jahre alt werden kann. Er wächst oft viele Meter hoch an den Stämmen, wo man beobachten kann, wie Spechte in ihrer Nähe ihre Höhlen zimmern. Das vom Pilz geschwächte Holz erleichtert ihnen die Arbeit. (Dieter Gewalt)[Mehr lesen >](/pilze/phellinus-robustus-eichen-feuerschwamm)
 
 <div style="clear:  both"></div>
 
