@@ -15,6 +15,14 @@ Sonntag, 23. Februar 202, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/crepidotus_cesatii_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.12.2024: In milden Wintermonaten kann man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Kugelsporige Stummelfüßchen *Crepidotus cesatii*, an dünnen abgestorbenen Laubholzästchen finden. Dort wächst es meist gesellig bis büschelig. Da es jedoch mehrere sehr ähnlich aussehende Stummelfüßchen gibt, muss zur sicheren Bestimmung mikroskopiert werden. Wesentlich sind dabei das Vorhandensein von sogenannten [Schnallen](Schnallen "Glossar") an den [Hyphen](Hyphen "Glossar") und die Größe und Form der Sporen. (Johann Rejek) [Mehr lesen >](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
+
+<div style="clear: both"></div>   
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pseudoclitocybe_cyathiformis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -34,7 +42,7 @@ Sonntag, 23. Februar 202, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/phellinus_robustus_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-25.12.2024: Pilze an Holz findet man das ganze Jahr über, auch an Weihnachten. Zum Beispiel unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Eichen-Feuerschwamm *Phellinus robustus*, der problemlos 15 Jahre alt werden kann. Er wächst oft viele Meter hoch an den Stämmen, wo man beobachten kann, wie Spechte in ihrer Nähe ihre Höhlen zimmern. Das vom Pilz geschwächte Holz erleichtert ihnen die Arbeit. (Dieter Gewalt) [Mehr lesen >](/pilze/phellinus-robustus-eichen-feuerschwamm)
+25.12.2024: Pilze an Holz findet man das ganze Jahr über, auch an Weihnachten. Zum Beispiel unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Eichen-Feuerschwamm *Phellinus robustus*, der problemlos 15 Jahre alt werden kann. Er wächst oft viele Meter hoch an den Stämmen, wo man beobachten kann, wie Spechte in ihrer Nähe ihre Höhlen zimmern. Das vom Pilz geschwächte Holz erleichtert ihnen die Arbeit. (Dieter Gewalt)[Mehr lesen >](/pilze/phellinus-robustus-eichen-feuerschwamm)
 
 <div style="clear:  both"></div>
 
