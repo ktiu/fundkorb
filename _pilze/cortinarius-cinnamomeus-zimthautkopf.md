@@ -28,7 +28,7 @@ literatur:
 ---
 Von den bei uns vorkommenden Hautkopf-Arten (Gattung *Cortinarius*, Untergattung *Dermocybe*) soll hier eine häufige Art mit auffällig orangefarbenen Lamellen beschrieben werden, der Zimthautkopf (*Cortinarius cinnamomeus*). Er geht eine [Mykorrhiza](Mykorrhiza "Glossar") mit Nadel- aber auch mit Laubbäumen ein und bevorzugt saure, nährstoffarme Böden.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/cortinarius_cinnamomeus_02_hk.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/cortinarius_cinnamomeus_03_wi.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Abb. links: Helen Küchler – Abb. rechts: wikipedia.org (Population mit spitzgebuckelten Hüten)" %}
@@ -39,6 +39,6 @@ Mikroskopische Merkmale: Die Sporen sind ellipsoid oder mandelförmig, warzig un
 
 In Skandinavien, wo diese Pilze in Menge vorkommen, werden sie gerne zum Färben von Wolle verwendet. Es ergibt nach BRANDRUD et al. (1989 – 2014) eine blass rostrote Farbe. Die Behandlung mit Alkohol ergibt nach eigenen Versuchen für Lamellen und Fleisch eine gelbe Auszugsfarbe. Die anschließende Umschlagfarbe mit Salmiakgeist ist rosa bis orange.
 
-Verwechslungsmöglichkeiten mit anderen, ähnlichen Hautkopf-Arten:  
-Der [Saftranblättrige Hautkopf *Cortinarius croceus*](/pilze/cortinarius-croceus-gelbblättriger-hautkopf) besitzt im ganz jungem Zustand gelbe Lamellen, die bald einen orangefarbenen Farbton annehmen. Die Auszugsfarbe mit Alkohol ist zitronengelb.  
+Verwechslungsmöglichkeiten mit anderen, ähnlichen Hautkopf-Arten:\
+Der [Saftranblättrige Hautkopf *Cortinarius croceus*](/pilze/cortinarius-croceus-gelbblättriger-hautkopf) besitzt im ganz jungem Zustand gelbe Lamellen, die bald einen orangefarbenen Farbton annehmen. Die Auszugsfarbe mit Alkohol ist zitronengelb.\
 Der [Orangerandige Hautkopf *Cortinarius malicorius*](<Orangerandige Hautkopf *Cortinarius malicorius*>) sieht unserer Art oft zum Verwechseln ähnlich, wirkst aber meist etwas stämmiger. Der Hutrand auffallend orange berandet. Schließlich wächst er nur bei Nadelbäumen und bevorzugt basenreiche Böden.
