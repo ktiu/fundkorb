@@ -28,7 +28,12 @@ Es ist immer wieder ein erfrischender Anblick, im Winter einem Vorkommen von Sam
 
 Er lebt als Schwächeparasit, anschließend als [Saprobiont](saprobiontisch "Glossar"), auf Laubholz. Er ist also [lignicol](lignicol "Glossar") und ruft im Holz eine Weißfäule hervor. Dabei scheint er das Holz von Weidearten (*Salix sp.*) zu bevorzugen. Er fruktifiziert vorzugsweise im Winter; dann kann man ihn bei feuchter, nicht zu kalter Witterung oft massenhaft bei Weiden finden. Er wächst büschelig bis gesellig, gelegentlich kommen auch einzeln wachsende Exemplare vor.
 
-Der Hut ist schon früh ausgebreitet, honiggelb, honigorange, gelbbraun oder rotbraun, im Zentrum dunkler, mit glattem, bei feuchtem Wetter kurz gerieftem Rand, elastisch, glänzend und klebrig, bei feuchter Witterung stark schleimig, meist bis 5 cm, doch manchmal auch bis 8 oder 9 cm im Durchmesser. Die Lamellen sind creme bis ockergelb, stark mit Lamelletten untermischt und sehr elastisch. Der Stiel ist samtig bereift, ebenfalls elastisch, zylindrisch, zuerst creme bis hellocker, bald von unten her in Richtung dunkelbraun bis schwarzbraun nachdunkelnd. Die Basis ist meist verjüngt und zum Substrat hin abgebogen. Das Fleisch ist im Hut und oberen Stielbereich weißlich bis creme, im unteren Stielbereich dunkler. Der Geruch ist angenehm, schwach, der Geschmack mild.
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/flammulina_elastica_03_dg.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/flammulina_elastica_04_dg.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="25.12.2024: Dietzenbach, Carré Rodgaustraße (2 Fotos: Dieter Gewalt)" %}
+
+Der Hut ist schon früh ausgebreitet, honiggelb, honigorange, gelbbraun oder rotbraun, im Zentrum dunkler, mit glattem, bei feuchtem Wetter kurz gerieftem Rand, elastisch, glänzend und klebrig, bei feuchter Witterung stark schleimig, meist bis 5 cm, doch manchmal auch bis 8 oder 9 cm im Durchmesser. Die Lamellen sind creme bis ockergelb, stark mit Lamelletten untermischt und sehr elastisch. Der Stiel ist samtig bereift, ebenfalls elastisch, zylindrisch, zuerst creme bis hellocker, bald von unten her in Richtung dunkelbraun bis schwarzbraun nachdunkelnd. Die Basis ist meist verjüngt und zum Substrat hin abgebogen. Das Fleisch ist im Hut und oberen Stielbereich weißlich bis creme, im unteren Stielbereich dunkler. Der Geruch ist angenehm, schwach, der Geschmack mild. Die Sporenpulverfarbe ist weiß.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/flammulina-eleastica_02_bm.jpg" %}
