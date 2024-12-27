@@ -1,5 +1,5 @@
 ---
-schlagwort: "Q-Wert"
+schlagwort: Q-Wert
 ---
-Sporenkoeffizient: Sporenlänge : Sporenbreite = Q. Ein Sporenkoeffizient null steht also für eine runde Spore
+Sporenkoeffizient: Sporenlänge : Sporenbreite = Q. Ein Sporenkoeffizient von 1,0 steht also für eine runde Spore
 
