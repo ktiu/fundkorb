@@ -34,7 +34,7 @@ Sonntag, 23. Februar 202, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/phellinus_robustus_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-25.12.2024: Pilze an Holz findet man das ganze Jahr über, auch an Weihnachten. Zum Beispiel unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Eichen-Feuerschwamm *Phellinus robustus*, der problemlos 15 Jahre alt werden kann. Er wächst oft viele Meter hoch an den Stämmen, wo man beobachten kann, wie Spechte in ihrer Nähe ihre Höhlen zimmern. Das vom Pilz geschwächte Holz erleichtert ihnen die Arbeit. (Dieter Gewalt)[Mehr lesen >](/pilze/phellinus-robustus-eichen-feuerschwamm)
+25.12.2024: Pilze an Holz findet man das ganze Jahr über, auch an Weihnachten. Zum Beispiel unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Eichen-Feuerschwamm *Phellinus robustus*, der problemlos 15 Jahre alt werden kann. Er wächst oft viele Meter hoch an den Stämmen, wo man beobachten kann, wie Spechte in ihrer Nähe ihre Höhlen zimmern. Das vom Pilz geschwächte Holz erleichtert ihnen die Arbeit. (Dieter Gewalt) [Mehr lesen >](/pilze/phellinus-robustus-eichen-feuerschwamm)
 
 <div style="clear:  both"></div>
 
