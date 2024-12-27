@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-27.12.2024: [Pseudoclitocybe cyathiformis - Kaffeebrauner Gabeltrichterling](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)  
+28.12.2024: [Crepidotus cesatii - Kugelsporiges-Stummelfüßchen](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)  
+27.12.2024: [Pseudoclitocybe cyathiformis - Kaffeebrauner Gabeltrichterling](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)\
 26.12.2024: [Chromocyphella muscicola - Moosbewohnendes Braunsporbecherchen](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)\
 25.12.2024: [Phellinus robustus - Eichen-Feuerschwamm](/pilze/phellinus-robustus-eichen-feuerschwamm)\
 24.12.2024: [Chondrostereum purpurem - Violetter Schichtpilz](/pilze/chondrostereum-purpureum-violetter-schichtpilz)\
