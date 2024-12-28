@@ -16,6 +16,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/trametes_suaveolens_02_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+29.12.2024: Die Anis-Tramete *Trametes suaveolens* ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Meistems sieht man ihre weißen Fruchtkörper schon von Weitem. Und in aller Regel fruktifizieren die dickfleischigen und deutlich nach Anis riechenden Fruchtkörper an Weiden. Vielleicht seht ihr sie ja bei eurem nächsten Winterspaziergang an Flußtälern. (Johann Rejek) [Mehr lesen >](/pilze/trametes-suaveolens-anis-tramete)
+
+<div style="clear: both"></div>  
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/crepidotus_cesatii_01_dg.jpg" %}
 {% include abbildung_ende.html %}
