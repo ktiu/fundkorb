@@ -6,7 +6,7 @@ beschreibung:
   erlaeuterung: suaveolens = wohlriechend
   familie: Polyporaceae
 profil:
-  aktualisiert: 2023-12-11
+  aktualisiert: 2024-12-28
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
