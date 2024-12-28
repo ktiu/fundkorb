@@ -21,8 +21,8 @@ literatur:
 Unter den Arten der Gattung *Trametes* fallen zwei durch besonders dickfleischige Fruchtkörper auf: die vor allem an Buchenstümpfen sehr häufige [Buckeltramete *Trametes gibbosa*](/pilze/trametes-gibbosa-buckeltramete) und die nahezu ausschließlich an Weiden vorkommende Anis-Tramete *Trametes suaveolens*. Schon bei Beachtung des Substrats sind sie leicht zu unterscheiden, die Anis-Tramete ist aber zudem durch ihren auffälligenden Anisgeruch gekennzeichnet. Die früher recht häufige Art ist leider stark rückläufig und durch die zunehmende landwirtschaftliche Flächennutzung bereits großräumig verschwunden. Sie ist am ehesten in Auwäldern oder entlang von Flußtälern ganzjährig anzutreffen.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/trametes_suaveolens_03_jr.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/trametes_suaveolens_02_jr.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/trametes_suaveolens_03_jr.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/trametes_suaveolens_02_jr.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="2 Fotos von Johann Rejek, 24.03.2019 am Hackensee" %}
 
 Auch die feinfilzigen, vor allem aber weißen Hutoberflächen sind ein auffälliges Merkmal. Die Röhrenschicht der Hutunterseite ist nur jung weißlich, dann kontrastreich ockerfarben bis bräunlich und bis zu 1 cm dick. Die Poren sind rundlich bis eckig, zum Teil auch länglich oder labyrinthisch. Die harte, zähe Trama ist weiß und bis zu 4 cm dick.
