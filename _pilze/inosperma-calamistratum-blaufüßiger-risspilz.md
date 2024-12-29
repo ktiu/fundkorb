@@ -12,6 +12,11 @@ profil:
 hauptbild:
   anzeige: true
   datei: bilder/inosperma_calamistratum_eh_01.jpg
+  legende: "Inosperma calamistratum aus dem Mossataul, Odenwald (Oktober 2024).
+    Foto: Erik Hock"
+literatur:
+  - text: ""
+    url: https://www.inocybe.org/genus-inosperma/calamistratum/
 ---
 Der Blaufüßige Risspilz *Inosperma calamistratum* ist einer der wenigen Risspilze, die sich bereits makroskopisch identifizieren lassen: die namensgebende grün-blaue Stielbasis machen ihn so gut wie unverwechselbar. Die Art wurde 2019 von der Gattung *Inocybe* in die Gattung *Inosperma*, die sich ua. morphologisch durch das Fehlen von [Pleurozystiden](Pleurozystiden "Glossar") und die Form der Sporen unterscheidet, überführt. *Inosperma calamistratum* gilt als Typus-Art der neu geschaffenen Gattung.
 
