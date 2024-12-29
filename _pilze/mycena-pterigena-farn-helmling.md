@@ -11,6 +11,9 @@ hauptbild:
   anzeige: true
   datei: bilder/mycena_pterigena_eh_01.jpg
   legende: "Gefunden im Spessart bei Aschaffenburg (Dez. 2024). Fot: Erik Hock"
+literatur:
+  - url: https://www.pilzforum.eu/board/thread/28136-mycena-pterigena-farn-helmling/
+    text: Artenportrait bei www.pilzforum.de
 ---
 Der Farn-Helmling *Mycena pterigena* ist eine kleine, aber sehr spezielle Art, die ausschließlich auf abgestorbenen Stängeln verschiedener Farnarten wächst. Die Fruchtkörper erscheinen vor allem im Herbst, von Ende September bis zu den ersten Frösten, treten jedoch auch bereits im Sommer auf. Die Art lässt sich eigentlich nur bei gezielter Suche zwischen feuchten, übereinanderliegenden alten Farnstängeln finden.
 
