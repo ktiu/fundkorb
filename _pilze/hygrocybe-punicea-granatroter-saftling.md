@@ -22,6 +22,14 @@ Er wird auch „Größter Saftling“ genannt und hat dieses Prädikat zweifello
 
 Der Granatrote Saftling ist auf naturbelassene ungedüngte Magerrasen angewiesen. Da solche extensiv bewirtschafteten Flächen nur noch vereinzelt vorhanden sind, ist auch unser Saftling in seinem Bestand gefährdet. In Roten Listen wird er mit den Gefährdungsgraden 2 oder 3 geführt. Er bevorzugt höhere Lagen und meidet kalkhaltige Böden.
 
+
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="bilder/hygrocybe_punicea_eh_02.jpg" %}
+{% include abbildung_ende.html legende="Hygrocybe punicea von einer Magerwiese im Taunus (Nov. 2024). Foto: Erik Hock" %}
+
+
+
 Sehr ähnlich sind der [Feuerschuppige (Trockene) Saftling *Hygrocybe intermedia*](/pilze/hygrocybe-intermedia-feuerschuppiger-saftling-trockener-saftling) sowie der Prächtige Saftling *Hygrocybe splendidissima*, der von manchen Autoren als Varietät des Granatroten angesehen wird. Verwechselt werden könnte er außerdem mit dem [Kirschroten Saftling *Hygrocybe coccinea*](/pilze/hygrocybe-coccinea-kirschroter-saftling), der jedoch rötliche Lamellen und rötliches Fleisch sowie etwas kleinere Sporen hat:
 
 Sporen Hygrocybe punicea:  8 – 11 x 5 – 6 µm\
