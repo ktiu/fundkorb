@@ -23,6 +23,10 @@ Die Lamellen sind dicht angeordnet, dicklich und laufen leicht am Stiel herab. S
 
 Der Stiel ist bis 8 cm lang und bis 0,7 cm dick. Seine Oberfläche ist in der gleichen Farbe wie der Hut oder etwas heller gehalten. Der Stiel kann geschwollene Abschnitte aufweisen und wirkt oft gebogen oder verdreht. Im Alter wird er hohl, und an seiner Basis befindet sich häufig ein weißfilziges Myzel. Das Fleisch des Pilzes ist wässrig-grau, weich und leicht zerbrechlich. Bei Verletzungen und in fortgeschrittenem Alter nimmt es eine rötliche Färbung an. Geruch und Geschmack des Pilzes sind unauffällig.
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="bilder/cantharellula_umbonata_eh_02.jpg" %}
+{% include abbildung_ende.html legende="Ältere, mehr trichterförmige Fruchtkörper, Rodgau-Dudenhofen (Nov. 2024). Foto: Erik Hock" %}
+
 *Cantharellula umbonata* bevorzugt saure, sandig-sumpfige Böden in lichten Nadelwäldern. Er wächst vom Sommer bis in den späten Herbst oft gesellig in Moospolstern. Insgesamt wird die Art als zerstreut vorkommend beschrieben, in vielen Regionen fehlt sie jedoch vollständig.
 
 Der Pilz gilt als essbar, insbesondere wenn er jung und frisch gesammelt wird. Sein unauffälliger Geschmack und die weiche Konsistenz machen ihn jedoch zu keiner besonders begehrten Speisepilzart.
