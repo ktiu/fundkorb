@@ -17,6 +17,12 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/arrhenia-retiruga_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Winzling, den man bei gezielter Suche vor allem in Moosflächen am Boden finden kann. Sein Name: Schüsselförmiger Adermoosling *Arrhenia retiruga*. Im Anfangsstadium sind es nur punktförmige helle Fleckchen am Moos, die ausgewachsen bestenfalls 8 mm Durchmesser erreichen. Ein wichtiges Kennzeichen neben der hellgrauen Farbe und der papierdünnen schalenförmigen Fruchtkörper: die Unterseiten sind glatt. (Dieter Gewalt) [Mehr lesen >](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling) <div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_suaveolens_04_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,14 +51,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 26.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Moosbewohnende Braunsporbecherchen *Chromocyphella muscicola*, ein Winzling, der meist nur 1 bis 2 mm groß wird, maximal ca. 4 mm. Er gilt als selten, was aber bezweifelt werden darf. Nach meinen Erfahrungen ist er bei feuchter Witterung während der Wintermonate in Laubwäldern sogar recht häufig. Bei gezielter Suche achte man auf bemooste Stämme lebender Bäume, und hier besonders auf ausgebleichte Stellen. Dieses auffällige Schadbild wird durch den Pilz verursacht. (Dieter Gewalt) [Mehr lesen >](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_robustus_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-25.12.2024: Pilze an Holz findet man das ganze Jahr über, auch an Weihnachten. Zum Beispiel unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Eichen-Feuerschwamm *Phellinus robustus*, der problemlos 15 Jahre alt werden kann. Er wächst oft viele Meter hoch an den Stämmen, wo man beobachten kann, wie Spechte in ihrer Nähe ihre Höhlen zimmern. Das vom Pilz geschwächte Holz erleichtert ihnen die Arbeit. (Dieter Gewalt)[Mehr lesen >](/pilze/phellinus-robustus-eichen-feuerschwamm)
 
 <div style="clear:  both"></div>
 
