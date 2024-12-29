@@ -20,7 +20,9 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/arrhenia-retiruga_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-30.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Winzling, den man bei gezielter Suche vor allem in Moosflächen am Boden finden kann. Sein Name: Schüsselförmiger Adermoosling *Arrhenia retiruga*. Im Anfangsstadium sind es nur punktförmige helle Fleckchen am Moos, die ausgewachsen bestenfalls 8 mm Durchmesser erreichen. Ein wichtiges Kennzeichen neben der hellgrauen Farbe und der papierdünnen schalenförmigen Fruchtkörper: die Unterseiten sind glatt. (Dieter Gewalt) [Mehr lesen >](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling) <div style="clear:  both"></div>
+30.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Winzling, den man bei gezielter Suche vor allem in Moosflächen am Boden finden kann. Sein Name: Schüsselförmiger Adermoosling *Arrhenia retiruga*. Im Anfangsstadium sind es nur punktförmige helle Fleckchen am Moos, die ausgewachsen bestenfalls 8 mm Durchmesser erreichen. Ein wichtiges Kennzeichen neben der hellgrauen Farbe und der papierdünnen schalenförmigen Fruchtkörper: die Unterseiten sind glatt. (Dieter Gewalt) [Mehr lesen >](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_suaveolens_04_jr.jpg" %}
