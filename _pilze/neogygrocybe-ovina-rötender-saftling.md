@@ -1,6 +1,6 @@
 ---
 beschreibung:
-  wissenschaftlich: Neogygrocybe ovina
+  wissenschaftlich: Neohygrocybe ovina
   deutsch: Rötender Saftling
   referenz: "(Bull. : Fr.) Herink"
   erlaeuterung: ovina = Schaf
