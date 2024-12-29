@@ -15,6 +15,10 @@ literatur:
   - url: https://www.pilzforum.eu/board/thread/28136-mycena-pterigena-farn-helmling/
     text: Artenportrait bei www.pilzforum.de
 ---
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="bilder/mycena_pterigena_eh_02.jpg" %}
+{% include abbildung_ende.html %}
+
 Der Farn-Helmling *Mycena pterigena* ist eine kleine, aber sehr spezielle Art, die ausschließlich auf abgestorbenen Stängeln verschiedener Farnarten wächst. Die Fruchtkörper erscheinen vor allem im Herbst, von Ende September bis zu den ersten Frösten, treten jedoch auch bereits im Sommer auf. Die Art lässt sich eigentlich nur bei gezielter Suche zwischen feuchten, übereinanderliegenden alten Farnstängeln finden.
 
 Der Hut ist winzig und erreicht einen Durchmesser von etwa 1 bis 5 mm. Er ist bei jungen Exemplaren intensiv rosarot gefärbt, wird jedoch mit zunehmendem Alter blasser und kann schließlich ganz weiß werden. Der Hutrand ist meist intensiver rosa-rot gefärbt. Auch Albinoformen, die von Anfang an weiß sind, kommen vor. Der Hut ist zylindrisch bis konisch geformt, manchmal zentral leicht eingedrückt, die Oberfläche ist anfangs fein bereift, später glatt. 
