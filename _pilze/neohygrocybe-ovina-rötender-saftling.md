@@ -19,7 +19,7 @@ literatur:
   - text: Krieglsteiner, G. J. (2004) - Die Großpilze Baden-Württembergs. Band 4.
       Ulmer-Verlag.
 ---
-Der Rötende oder Olivschwarze Saftling *Neohygrocybe ovina*, ist ein mittelgroßer bis großer Pilz aus der Familie der *Hygrophoraceae*. Er zeichnet sich durch seine dunkle Färbung und die auffällige Rötung des Fruchtfleisches bei Verletzung aus, die ihn von anderen Saftlingen unterscheidet. Der Hut erreicht einen Durchmesser bis 90 mm und ist bei jungen Fruchtkörpern halbkugelig oder glockenförmig mit einem eingerollten Rand. Mit zunehmendem Alter wird er unregelmäßig, breit kegelförmig oder konvex bis nahezu flach. Die trockene und glatte Oberfläche des Hutes kann im Alter uneben, narbig, rissig oder schuppig erscheinen. Farblich reicht der Hut von dunkel graubraun über sepiafarben bis nahezu schwarz, wobei manchmal hellere radiale Streifen auftreten.
+Der Rötende oder Olivschwarze Saftling *Neohygrocybe ovina*, ist ein mittelgroßer bis großer Pilz aus der Familie der *Hygrophoraceae*. Er zeichnet sich durch seine dunkle Färbung und die auffällige Rötung des Fruchtfleisches bei Verletzung aus, die ihn von anderen Saftlingen unterscheidet. Der Hut erreicht einen Durchmesser bis 90 mm und ist bei jungen Fruchtkörpern halbkugelig oder glockenförmig mit eingerolltem Rand. Mit zunehmendem Alter wird er unregelmäßig, breit kegelförmig oder konvex bis nahezu flach. Die trockene und glatte Oberfläche des Hutes kann im Alter uneben, narbig, rissig oder schuppig erscheinen. Farblich reicht der Hut von dunkel graubraun über sepiafarben bis nahezu schwarz, wobei manchmal hellere radiale Streifen auftreten.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="bilder/neohygrocybe_ovina_eh_02.jpg" %}
