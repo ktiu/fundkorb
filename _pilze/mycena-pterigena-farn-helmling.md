@@ -10,7 +10,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: bilder/mycena_pterigena_eh_01.jpg
-  legende: "Gefunden im Spessart bei Aschaffenburg (Dez. 2024). Fot: Erik Hock"
+  legende: "Gefunden im Spessart bei Aschaffenburg (Dez. 2024). Foto: Erik Hock"
 literatur:
   - url: https://www.pilzforum.eu/board/thread/28136-mycena-pterigena-farn-helmling/
     text: Artenportrait bei www.pilzforum.de
