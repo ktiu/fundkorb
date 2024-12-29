@@ -41,4 +41,4 @@ In Skandinavien, wo diese Pilze in Menge vorkommen, werden sie gerne zum Färben
 
 Verwechslungsmöglichkeiten mit anderen, ähnlichen Hautkopf-Arten:\
 Der [Saftranblättrige Hautkopf *Cortinarius croceus*](/pilze/cortinarius-croceus-gelbblättriger-hautkopf) besitzt im ganz jungem Zustand gelbe Lamellen, die bald einen orangefarbenen Farbton annehmen. Die Auszugsfarbe mit Alkohol ist zitronengelb.\
-Der [Orangerandige Hautkopf *Cortinarius malicorius*](<Orangerandige Hautkopf *Cortinarius malicorius*>) sieht unserer Art oft zum Verwechseln ähnlich, wirkst aber meist etwas stämmiger. Der Hutrand auffallend orange berandet. Schließlich wächst er nur bei Nadelbäumen und bevorzugt basenreiche Böden.
+Der [Orangerandige Hautkopf *Cortinarius malicorius*](/pilze/cortinarius-malicorius-orangerandiger-hautkopf) sieht unserer Art oft zum Verwechseln ähnlich, wirkst aber meist etwas stämmiger. Der Hutrand auffallend orange berandet. Schließlich wächst er nur bei Nadelbäumen und bevorzugt basenreiche Böden.
