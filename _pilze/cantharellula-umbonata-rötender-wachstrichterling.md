@@ -29,4 +29,4 @@ Der Stiel ist bis 8 cm lang und bis 0,7 cm dick. Seine Oberfläche ist in der gl
 
 *Cantharellula umbonata* bevorzugt saure, sandig-sumpfige Böden in lichten Nadelwäldern. Er wächst vom Sommer bis in den späten Herbst oft gesellig in Moospolstern. Insgesamt wird die Art als zerstreut vorkommend beschrieben, in vielen Regionen fehlt sie jedoch vollständig.
 
-Der Pilz gilt als essbar, insbesondere wenn er jung und frisch gesammelt wird. Sein unauffälliger Geschmack und die weiche Konsistenz machen ihn jedoch zu keiner besonders begehrten Speisepilzart.
+Der Pilz gilt als essbar, sein unauffälliger Geschmack und die weiche Konsistenz machen ihn jedoch zu keiner besonders begehrten Speisepilzart.
