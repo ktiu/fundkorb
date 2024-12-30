@@ -17,6 +17,16 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_epiphylloides_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.12.2024: Ausgedehnte Flächen mit Efeubewuchs am Boden und an Baumstämmen haben wir in unserem Carré an der Dietzenbacher Rodgaustraße genug. Wenn‘s ausreichend feucht ist in den Spätherbst- und Wintermonaten finden wir an abgefallenen und angemoderten Efeublättern unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Efeublatt-Schwindling *Marasmius epiphylloides*. Da es sich um winzige Pilzchen handelt, muss man schon genau hinschauen. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/marasmius-epiphylloides-efeublatt-schwindling)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/arrhenia-retiruga_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,14 +57,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 27.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kaffeebraune Gabeltrichterling *Pseudoclitocybe cyathiformis*, der auch im Dezember bei milden Temperaturen im Laub- und Nadelwald meist an grasigen Wegen zu finden ist. Der deutsche Name beschreibt die wesentlichen Bestimmungsmerkmale. Kaffeebrauner Hut (wobei das Braun stark variieren kann), herablaufende oft am Rand gegabelte Lamellen und einen Trichterlingshabitus. Wenn man den Hut auseinanderbricht, so spalten sich die Lamellen an der Bruchstelle (an mehreren Fruchtkörpern getestet). Ob das für alle Gabeltrichterlinge zutrifft wäre noch zu prüfen. (Johann Rejek) [Mehr lesen >](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)
 
 <div style="clear: both"></div>  
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chromocyphella_muscicola_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Moosbewohnende Braunsporbecherchen *Chromocyphella muscicola*, ein Winzling, der meist nur 1 bis 2 mm groß wird, maximal ca. 4 mm. Er gilt als selten, was aber bezweifelt werden darf. Nach meinen Erfahrungen ist er bei feuchter Witterung während der Wintermonate in Laubwäldern sogar recht häufig. Bei gezielter Suche achte man auf bemooste Stämme lebender Bäume, und hier besonders auf ausgebleichte Stellen. Dieses auffällige Schadbild wird durch den Pilz verursacht. (Dieter Gewalt) [Mehr lesen >](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)
-
-<div style="clear:  both"></div>
 
 - - -
 
