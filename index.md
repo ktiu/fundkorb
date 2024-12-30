@@ -20,9 +20,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/marasmius_epiphylloides_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-31.12.2024: Ausgedehnte Flächen mit Efeubewuchs am Boden und an Baumstämmen haben wir in unserem Carré an der Dietzenbacher Rodgaustraße genug. Wenn‘s ausreichend feucht ist in den Spätherbst- und Wintermonaten finden wir an abgefallenen und angemoderten Efeublättern unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Efeublatt-Schwindling *Marasmius epiphylloides*. Da es sich um winzige Pilzchen handelt, muss man schon genau hinschauen. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/marasmius-epiphylloides-efeublatt-schwindling)
+31.12.2024: Ausgedehnte Flächen mit Efeubewuchs am Boden und an Baumstämmen haben wir in unserem Carré an der Dietzenbacher Rodgaustraße genug. Wenn‘s ausreichend feucht ist in den Spätherbst- und Wintermonaten finden wir an abgefallenen und angemoderten Efeublättern unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Efeublatt-Schwindling *Marasmius epiphylloides*. Da es sich um winzige Pilzchen handelt, muss man schon genau hinschauen. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-epiphylloides-efeublatt-schwindling)
 
 <div style="clear:  both"></div> 
 
