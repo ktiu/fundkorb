@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2024
 published: true
 ---
-30.12.2024: [Arrhenia retiruga - Schüsselförmiger Adermoosling](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)  
+31.12.2024: [Marasmius epiphylloides - Efeublatt-Schwindling](/pilze/marasmius-epiphylloides-efeublatt-schwindling)  
+30.12.2024: [Arrhenia retiruga - Schüsselförmiger Adermoosling](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)\
 29.12.2024: [Trametes suaveolens - Anis-Tramete](/pilze/trametes-suaveolens-anis-tramete)\
 28.12.2024: [Crepidotus cesatii - Kugelsporiges-Stummelfüßchen](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)\
 27.12.2024: [Pseudoclitocybe cyathiformis - Kaffeebrauner Gabeltrichterling](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)\
