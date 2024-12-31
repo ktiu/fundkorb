@@ -16,6 +16,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 - - -
 
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/flammulina_elastica_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.01.2025: Aktueller Neujahrs- und [Fundkorbpilz](AA "Glossar-") ist der Schmalsporige Samtfußrübling *Flammulina elastica*. Er ist nicht nur schön sondern auch lecker und wächst gerade in unserem Garten. Man findet ihn vor allem in den Wintermonaten an Laubholz und besonders gern an Weide. Sicher zu erkennen ist er an seinen schmalen länglichen Sporen und dazu muss man mikroskopieren. (Béla Salgo, 13) [Mehr lesen >](/pilze/flammulina-elastica-schmalsporiger-samtfußrübling)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_epiphylloides_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -47,14 +55,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 28.12.2024: In milden Wintermonaten kann man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Kugelsporige Stummelfüßchen *Crepidotus cesatii*, an dünnen abgestorbenen Laubholzästchen finden. Dort wächst es meist gesellig bis büschelig. Da es jedoch mehrere sehr ähnlich aussehende Stummelfüßchen gibt, muss zur sicheren Bestimmung mikroskopiert werden. (Johann Rejek) [Mehr lesen >](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
 
 <div style="clear: both"></div>   
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pseudoclitocybe_cyathiformis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kaffeebraune Gabeltrichterling *Pseudoclitocybe cyathiformis*, der auch im Dezember bei milden Temperaturen im Laub- und Nadelwald meist an grasigen Wegen zu finden ist. Der deutsche Name beschreibt die wesentlichen Bestimmungsmerkmale. Kaffeebrauner Hut (wobei das Braun stark variieren kann), herablaufende oft am Rand gegabelte Lamellen und einen Trichterlingshabitus. Wenn man den Hut auseinanderbricht, so spalten sich die Lamellen an der Bruchstelle (an mehreren Fruchtkörpern getestet). Ob das für alle Gabeltrichterlinge zutrifft wäre noch zu prüfen. (Johann Rejek) [Mehr lesen >](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)
-
-<div style="clear: both"></div>  
 
 - - -
 
