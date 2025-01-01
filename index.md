@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tremella_mesenterica_03_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+02.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldgelbe Zittterling *Tremella mesenterica*. Man erkennt ihn schon aus 10 oder 20 Meter Entfernung, und das ist bei Pilzen alles andere als der Normalfall. Sein leuchtendes Gelb macht ihn unverwechselbar. Er wächst an toten Laubholzästen, auch an noch stehenden Stämmen, gern an Eiche, Buche, Esche oder Hasel. Im Winter kann er gefroren sein und eine feine Reifschicht macht den Pilz nur noch attraktiver. (Dieter Gewalt) [Mehr lesen >](/pilze/tremella-mesenterica-goldgelber-zitterling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/flammulina_elastica_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,14 +55,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 29.12.2024: Die Anis-Tramete *Trametes suaveolens* ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Meistens sieht man ihre weißen Fruchtkörper schon von Weitem. In der Regel fruktifizieren die dickfleischigen und deutlich nach Anis riechenden Fruchtkörper an Weiden. Vielleicht seht Ihr sie ja bei eurem nächsten Winterspaziergang in Flußtälern. (Johann Rejek) [Mehr lesen >](/pilze/trametes-suaveolens-anis-tramete)
 
 <div style="clear: both"></div>  
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/crepidotus_cesatii_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.12.2024: In milden Wintermonaten kann man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Kugelsporige Stummelfüßchen *Crepidotus cesatii*, an dünnen abgestorbenen Laubholzästchen finden. Dort wächst es meist gesellig bis büschelig. Da es jedoch mehrere sehr ähnlich aussehende Stummelfüßchen gibt, muss zur sicheren Bestimmung mikroskopiert werden. (Johann Rejek) [Mehr lesen >](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
-
-<div style="clear: both"></div>   
 
 - - -
 
