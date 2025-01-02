@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_cohaerens_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.01.2025: Der Name Zusammengedrängte Kohlenbeere (*Hypoxylon cohaerens*) ist eigentlich schon eine gute Beschreibung für unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Die abgeflacht kugeligen, krustig harten Fruchtkörper werden etwa 4 - 7 mm groß und sind dunkel graubraun bis schwarz gefärbt. Auf den Oberflächen erkennt man die papillenartigen Sporenauslassöffnungen. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tremella_mesenterica_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,14 +55,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 30.12.2024: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Winzling, den man bei gezielter Suche vor allem in Moosflächen am Boden finden kann. Sein Name: Schüsselförmiger Adermoosling *Arrhenia retiruga*. Im Anfangsstadium sind es nur punktförmige helle Fleckchen am Moos, die ausgewachsen bestenfalls 8 mm Durchmesser erreichen. Ein wichtiges Kennzeichen neben der hellgrauen Farbe und der papierdünnen schalenförmigen Fruchtkörper: die Unterseiten sind glatt. (Dieter Gewalt) [Mehr lesen >](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_suaveolens_04_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-29.12.2024: Die Anis-Tramete *Trametes suaveolens* ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Meistens sieht man ihre weißen Fruchtkörper schon von Weitem. In der Regel fruktifizieren die dickfleischigen und deutlich nach Anis riechenden Fruchtkörper an Weiden. Vielleicht seht Ihr sie ja bei eurem nächsten Winterspaziergang in Flußtälern. (Johann Rejek) [Mehr lesen >](/pilze/trametes-suaveolens-anis-tramete)
-
-<div style="clear: both"></div>  
 
 - - -
 
