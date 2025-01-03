@@ -33,4 +33,4 @@ Seine feinporige aschgraue Fruchtschicht macht ihn eigentlich schon unverwechsel
 {% include bild.html datei="/bilder/bjerkandera_adusta_06_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Gemeinsames Vorkommen mit Trameten (links) und Samtfußrüblingen (rechts)" %}
 
-Der Angebrannte Rauchporling ist sehr häufig und dürfte in keinem Laubwald fehlen. Ein naher Verwandter, der seltene *Graugelbe Rauchporling Bjerkandera fumosa* unterscheidet sich durch größere, weiter vom Substrat abstehende hellere Fruchtköper und Vorkommen in Auwäldern, in denen er vor allem an Weiden zu finden ist.
+Der Angebrannte Rauchporling ist sehr häufig und dürfte in keinem Laubwald fehlen. Ein naher Verwandter, der seltene *[Graugelbe Rauchporling Bjerkandera fumosa](/pilze/bjerkandera-fumosa-graugelber-rauchporling)* unterscheidet sich durch größere, weiter vom Substrat abstehende hellere Fruchtköper und Vorkommen in Auwäldern, in denen er vor allem an Weiden zu finden ist.
