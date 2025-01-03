@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Graugelber Rauchporling
   referenz: (Pers.) P. Karst. 1879
   erlaeuterung: fumosa = rauchfarben
-  familie: "Familie: Phanerochaetaceae"
+  familie: Phanerochaetaceae
 profil:
   aktualisiert: 2025-01-03
   autor_in: Veronika Ziegltrum
@@ -18,7 +18,7 @@ literatur:
   - text: "Krieglsteiner, German J. (Hrsg.): Die Großpilze Baden-Württembergs Band
       1, Seite 488"
 ---
-Die Gattung Bjerkandera umfasst weltweit nur zwei Arten, die beide in unseren heimischen Wäldern vorkommen. Neben dem [Angebrannten Rauchporling (*Bjerkandera adusta*)](/pilze/bjerkandera-adusta-angebrannter-rauchporling), den man vermutlich in jedem Laubwald mit etwas Totholz finden kann, ist der Graugelbe Rauchporling (*Bjerkandera fumosa*) der weitaus seltenere Vertreter der Gattung. Er wächst gerne auf Weichholz, vor allem auf Weide und Pappel, kann aber auch andere Laubhölzer befallen.
+Die Gattung *Bjerkandera* umfasst weltweit nur zwei Arten, die beide in unseren heimischen Wäldern vorkommen. Neben dem [Angebrannten Rauchporling (*Bjerkandera adusta*)](/pilze/bjerkandera-adusta-angebrannter-rauchporling), den man vermutlich in jedem Laubwald mit etwas Totholz finden kann, ist der Graugelbe Rauchporling (*Bjerkandera fumosa*) der weitaus seltenere Vertreter der Gattung. Er wächst gerne auf Weichholz, vor allem auf Weide und Pappel, kann aber auch andere Laubhölzer befallen.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/bjerkandera_fumosa_02_vz.jpg" %}
