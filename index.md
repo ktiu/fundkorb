@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/auricularia_mesenterica_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.01.2025: Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") durchaus für eine Schmetterlingstramete halten. Anfassen genügt aber schon, um den Irrtum festzustellen. Er fühlt sich elastisch gelatinös an und seine grauliche Unterseite ist auf glattem Grund unregelmäßig faltig und könnte uns an ein Judasohr erinnern. In der Tat ist der Gezonte Ohrlappenpilz *Auricularia mesenterica* mit diesem nahe verwandt, aber im Gegensatz zu ihm für die Küche völlig ungeeignet. (Dieter Gewalt) [Mehr lesen >](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,14 +53,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 01.01.2025: Aktueller Neujahrs- und [Fundkorbpilz](AA "Glossar-") ist der Schmalsporige Samtfußrübling *Flammulina elastica*. Er ist nicht nur schön sondern auch lecker und wächst gerade in unserem Garten. Man findet ihn vor allem in den Wintermonaten an Laubholz und besonders gern an Weide. Sicher zu erkennen ist er an seinen schmalen länglichen Sporen und dazu muss man mikroskopieren. (Béla Salgo, 13) [Mehr lesen >](/pilze/flammulina-elastica-schmalsporiger-samtfußrübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_epiphylloides_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.12.2024: Ausgedehnte Flächen mit Efeubewuchs am Boden und an Baumstämmen haben wir in unserem Carré an der Dietzenbacher Rodgaustraße genug. Wenn‘s ausreichend feucht ist in den Spätherbst- und Wintermonaten finden wir an abgefallenen und angemoderten Efeublättern unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Efeublatt-Schwindling *Marasmius epiphylloides*. Da es sich um winzige Pilzchen handelt, muss man schon genau hinschauen. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-epiphylloides-efeublatt-schwindling)
 
 <div style="clear:  both"></div> 
 
