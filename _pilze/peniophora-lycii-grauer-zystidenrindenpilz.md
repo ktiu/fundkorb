@@ -44,7 +44,7 @@ Sorgfältiges Mikroskopieren zeigt drei verschiedene [Zystidenarten](Zystiden "G
 2. dickwandige, inkrustierte, zylindrische bis birnenförmige Lamprozystiden, die mitunter Dendrohyphidien als „Krönchen“ tragen.
 3. schlank zylindrische bis spindelförmige Gloeozystiden, deren Inhalt in sulfoaldehydischen Substanzen, z.B. Sulfobenzaldehyd, schwärzt.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/peniophora_lycii_05_bm.jpg" gross=true %}
 {% include bild.html datei="/bilder/peniophora_lycii_06_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Zylindrische bis spindelförmige oder flaschenförmige Gloeozystiden in Sulfobenzaldehyd, mit schwärzendem Inhalt -- Sporen von in verdünntem Phloxin" %}
