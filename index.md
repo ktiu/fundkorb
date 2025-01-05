@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_limitata_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+06.01.2025: Zystidenrindenpilze sind eine wenig beachtete artenreiche Gattung flächig an Baumstämmen und -ästen wachsender Pilze, oft in unerreichbarer Höhe. Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist der Eschen-Zystidenrindenpilz *Peniophora limitata*, den ich im NSG Ellmendinger Roggenschleh im Enzkreis (Baden-Württemberg) gefunden und fotografiert habe. Er fällt durch seine blaugrauvioletten mosaikartig aufreißenden Krusten auf. (Bernd Miggel) [Mehr lesen >](/pilze/peniophora-limitata-eschen-zystidenrindenpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/auricularia_mesenterica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,14 +55,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 02.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldgelbe Zittterling *Tremella mesenterica*. Man erkennt ihn schon aus 10 oder 20 Meter Entfernung, und das ist bei Pilzen alles andere als der Normalfall. Sein leuchtendes Gelb macht ihn unverwechselbar. Er wächst an toten Laubholzästen, auch an noch stehenden Stämmen, gern an Eiche, Buche, Esche oder Hasel. Im Winter kann er gefroren sein und eine feine Reifschicht macht den Pilz nur noch attraktiver. (Dieter Gewalt) [Mehr lesen >](/pilze/tremella-mesenterica-goldgelber-zitterling)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/flammulina_elastica_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.01.2025: Aktueller Neujahrs- und [Fundkorbpilz](AA "Glossar-") ist der Schmalsporige Samtfußrübling *Flammulina elastica*. Er ist nicht nur schön sondern auch lecker und wächst gerade in unserem Garten. Man findet ihn vor allem in den Wintermonaten an Laubholz und besonders gern an Weide. Sicher zu erkennen ist er an seinen schmalen länglichen Sporen und dazu muss man mikroskopieren. (Béla Salgo, 13) [Mehr lesen >](/pilze/flammulina-elastica-schmalsporiger-samtfußrübling)
-
-<div style="clear:  both"></div> 
 
 - - -
 
