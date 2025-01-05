@@ -2,7 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
-06.01.2025: [Peniophora limitata - Eschen-Zystidenrindenpilz](/pilze/peniophora-limitata-eschen-zystidenrindenpilz)
+06.01.2025: [Peniophora limitata - Eschen-Zystidenrindenpilz](/pilze/peniophora-limitata-eschen-zystidenrindenpilz)  
 05.01.2025: [Auricularia mesenterica - Gezonter Ohrlappenpilz](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)\
 04.01.2025: [Hygrophorus hypothejus - Frostschneckling](/pilze/hygrophorus-hypothejus-frostschneckling)\
 03.01.2024: [Hypoxylon cohaerens - Zusammengedrängte Kohlenbeere](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)\
