@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelrasling *Lyophyllum decastes*, den man auch im Winter finden kann. Der braunhütige Blätterpilz wächst, wie im Namen treffend beschrieben, büschelig auf Rasenflächen. Die Stiele sind an der Basis miteinander verwachsen. Obwohl er hervorragend schmeckt und beim Zubereiten knackig bleibt, wird er kaum gesammelt. (Béla Salgo, 13) [Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peniophora_limitata_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,14 +55,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 03.01.2025: Der Name Zusammengedrängte Kohlenbeere (*Hypoxylon cohaerens*) ist eigentlich schon eine gute Beschreibung für unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Die abgeflacht kugeligen, krustig harten Fruchtkörper werden etwa 4 - 7 mm groß und sind dunkel graubraun bis schwarz gefärbt. Auf den Oberflächen erkennt man die papillenartigen Sporenauslassöffnungen. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
 
 <div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tremella_mesenterica_03_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-02.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldgelbe Zittterling *Tremella mesenterica*. Man erkennt ihn schon aus 10 oder 20 Meter Entfernung, und das ist bei Pilzen alles andere als der Normalfall. Sein leuchtendes Gelb macht ihn unverwechselbar. Er wächst an toten Laubholzästen, auch an noch stehenden Stämmen, gern an Eiche, Buche, Esche oder Hasel. Im Winter kann er gefroren sein und eine feine Reifschicht macht den Pilz nur noch attraktiver. (Dieter Gewalt) [Mehr lesen >](/pilze/tremella-mesenterica-goldgelber-zitterling)
-
-<div style="clear:  both"></div>
 
 - - -
 
