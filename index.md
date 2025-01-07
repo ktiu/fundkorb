@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/neohygrocybe_ovina_eh_01.jpg" %}
+{% include abbildung_ende.html %}
+
+08.01.2025: Bei Saftlingen denkt man in der Regel an intensiv in den verschiedensten Gelb-, Rot- oder Grüntönen gefärbte Pilze. Dass sie nicht immer so farbenprächtig sein müssen, sondern auch ein unscheinbares, sogar düsteres Erscheinungsbild haben können, beweist der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), der Rötende Saftling *Neohygrocybe ovina*. Er wird auf der Roten Liste für Deutschland als “vom Aussterben bedroht” geführt. (Erik Hock) [Mehr lesen >](/pilze/hygrocybe-ovina-rötender-saftling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,14 +53,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 04.01.2025: [Fundkorbpilz](AA "Glossar-") Aktueller Fundkorbpilz ist der Frostschneckling *Hygrophorus hypothejus*. Er ist ein typischer Spätherbst- bis Winterpilz, der in Kiefernwäldern in der Rhein-Main-Ebene an manchen Stellen zahlreich und an anderen gar nicht vorkommt. Die Massenvorkommen finden sich - wie sein Name vermuten lässt - meistens nach dem ersten Frost. Wenn auch recht schleimig ist der Pilz wohlschmeckend und angenehm mild. (Béla Salgo, 13) [Mehr lesen >](/pilze/hygrophorus-hypothejus-frostschneckling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_cohaerens_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.01.2025: Der Name Zusammengedrängte Kohlenbeere (*Hypoxylon cohaerens*) ist eigentlich schon eine gute Beschreibung für unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Die abgeflacht kugeligen, krustig harten Fruchtkörper werden etwa 4 - 7 mm groß und sind dunkel graubraun bis schwarz gefärbt. Auf den Oberflächen erkennt man die papillenartigen Sporenauslassöffnungen. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
 
 <div style="clear:  both"></div> 
 
