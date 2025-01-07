@@ -12,7 +12,8 @@ profil:
 hauptbild:
   datei: /bilder/marasmius_cohaerens_01_jr.jpg
   anzeige: true
-  legende: Foto vom 29.09.2024 in der Nähe von Baiernrain (südl. von München)
+  legende: Alle Fotos dieser Seite von Johann Rejek, Fundortfotos vom 29.09.2024,
+    Baiernrain (südl. von München)
 published: true
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 3, Nr. 282"
