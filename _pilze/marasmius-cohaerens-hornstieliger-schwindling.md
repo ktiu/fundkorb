@@ -50,24 +50,23 @@ Er kann leicht mit dem Ledergelben Schwindling Maramius torquescens verwechselt 
         <th>Stiel</th>
         <td>glatt, glänzend</td>
         <td>fein behaart (Lupe!)</td>
-      </tr>
-      <tr>
+      </tr><tr>
         <th>Lamellenschneide</th>
         <td>dunkel gesprenkelt /geflockt</td>
         <td>nicht gesprenkelt / geflockt</td>
-      </tr>\
-<tr>
+      </tr> <tr>
         <th>Anzahl Lamellen</th>
         <td>20 - 22</td>
         <td>10 - 15</td>
-      </tr>
-<tr>
+      </tr> <tr>
         <th>Lamellen (Schneide und Fläche)</th>
         <td>Lange Seten mit nadelförmiger Spitze (bis 100 µm)</td>
         <td>Keine Seten</td>
-</tr>
-<tr>
+      </tr><tr>
         <th>Hutdeckschicht (HDS)</th>
         <td>Basidienähnliche Zellen mit bürstenartigen Auswüchsen</td>
         <td>Blasige birnenförmige Zellen</td>
       </tr>
+    </tbody>
+  </table>
+</div>
