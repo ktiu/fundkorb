@@ -12,7 +12,7 @@ profil:
 hauptbild:
   datei: /bilder/marasmius_cohaerens_01_jr.jpg
   anzeige: true
-  legende: Fotos vom 29.09.2024 in der Nähe von Baiernrain (südl. von München)
+  legende: Foto vom 29.09.2024 in der Nähe von Baiernrain (südl. von München)
 published: true
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 3, Nr. 282"
@@ -33,3 +33,41 @@ Ein besonders attraktives mikroskopisches Merkmal sind die aus den Lamellenschne
 Der Hornstielige Schwindling ist ein zerstreut und lückig in Deutschland vorkommender Streuzersetzer (Saprobiont). Er wächst einzeln oder gesellig in der Streu von Rotbuchen, seltener von Fichten, und scheint bessere, humose oder kalkhaltige Böden zu bevorzugen. 
 
 Er kann leicht mit dem Ledergelben Schwindling Maramius torquescens verwechselt werden, der von oben betrachtet ähnlich aussieht. Sichere Unterscheidungsmerkmale sind in nachstehender Tabelle aufgeführt.
+
+##### Unterscheidungsmerkmale     Hornstieliger Schwindling : Ledergelber Schwindling
+
+<div class="table-responsive">
+  <table class="table">
+    <thead>
+      <tr>
+        <th> </th> 
+        <th>Hornstieliger Schwindling<br /><i>(Marasmius cohaerens)</i></th>
+        <th>Ledergelber Schwindling<br /><i>(Marasmius torquescens)</i></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Stiel</th>
+        <td>glatt, glänzend</td>
+        <td>fein behaart (Lupe!)</td>
+      </tr>
+      <tr>
+        <th>Lamellenschneide</th>
+        <td>dunkel gesprenkelt /geflockt</td>
+        <td>nicht gesprenkelt / geflockt</td>
+      </tr>\
+<tr>
+        <th>Anzahl Lamellen</th>
+        <td>20 - 22</td>
+        <td>10 - 15</td>
+      </tr>
+<tr>
+        <th>Lamellen (Schneide und Fläche)</th>
+        <td>Lange Seten mit nadelförmiger Spitze (bis 100 µm)</td>
+        <td>Keine Seten</td>
+</tr>
+<tr>
+        <th>Hutdeckschicht (HDS)</th>
+        <td>Basidienähnliche Zellen mit bürstenartigen Auswüchsen</td>
+        <td>Blasige birnenförmige Zellen</td>
+      </tr>
