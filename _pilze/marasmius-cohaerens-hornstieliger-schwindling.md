@@ -19,7 +19,7 @@ literatur:
     url: "Hans E. Laux: Der große Kosmos Pilzführer, Ausgabe 2002, Seite 204"
   - {}
 ---
-Der Hornstielige Schwindling Marasmius cohaerens gehört zu den größeren Arten der Gattung. Sein hellbrauner Hut ist anfangs glockig oder kegelig, hat in der Mitte meist einen stumpfen, etwas dunkleren Buckel und erreicht Durchmesser von 2 bis 3,5 cm. Bei jungen Fruchtkörpern ist der Rand gerieft, was vor allem bei Feuchtigkeit auffällt. Mit zunehmender Reife schirmt der Hut immer mehr auf und verflacht. Die etwas entfernt stehenden ausgebuchtet am Stiel angewachsenen Lamellen sind ähnlich gefärbt wie der Hut und können (nicht immer so deutlich wie bei den oben abgebildeten Exemplaren) zum Rand hin gespalten sein. Sowohl im Spalt als auch zwischen durchgehenden Lamellen sind unterschiedlich lange Lameletten vorhanden. Die Schneiden und Flächen sind etwas dunkler gesprenkelt, was mit einer Lupe deutlich zu erkennen ist.
+Der Hornstielige Schwindling *Marasmius cohaerens* gehört zu den größeren Arten der Gattung. Sein hellbrauner Hut ist anfangs glockig oder kegelig, hat in der Mitte meist einen stumpfen, etwas dunkleren Buckel und erreicht Durchmesser von 2 bis 3,5 cm. Bei jungen Fruchtkörpern ist der Rand gerieft, was vor allem bei Feuchtigkeit auffällt. Mit zunehmender Reife schirmt der Hut immer mehr auf und verflacht. Die etwas entfernt stehenden ausgebuchtet am Stiel angewachsenen Lamellen sind ähnlich gefärbt wie der Hut und können (nicht immer so deutlich wie bei den oben abgebildeten Exemplaren) zum Rand hin gespalten sein. Sowohl im Spalt als auch zwischen durchgehenden Lamellen sind unterschiedlich lange Lameletten vorhanden. Die Schneiden und Flächen sind etwas dunkler gesprenkelt, was mit einer Lupe deutlich zu erkennen ist.
 
 Der 4 bis 8 cm lange und 2 bis 4 mm breite Stiel ist gekennzeichnet durch eine hornartige mehr oder weniger glänzende braune Rinde (deutscher Name: Hornstieliger Schwindling). Die Stielspitze ist deutlich heller, wobei der Farbwechsel von dunkel- oder fast schon schwarzbraun zum helleren Teil abrupt oder allmählich sein kann. Nicht immer sind die manchmal eingedellten oder auch flachgedrückten Stiele so durchgehend schwarzbraun wie auf den hier gezeigten Fotos. 
 
@@ -32,7 +32,7 @@ Ein besonders attraktives mikroskopisches Merkmal sind die aus den Lamellenschne
 
 Der Hornstielige Schwindling ist ein zerstreut und lückig in Deutschland vorkommender Streuzersetzer (Saprobiont). Er wächst einzeln oder gesellig in der Streu von Rotbuchen, seltener von Fichten, und scheint bessere, humose oder kalkhaltige Böden zu bevorzugen. 
 
-Er kann leicht mit dem Ledergelben Schwindling Maramius torquescens verwechselt werden, der von oben betrachtet ähnlich aussieht. Sichere Unterscheidungsmerkmale sind in nachstehender Tabelle aufgeführt.
+Er kann leicht mit dem Ledergelben Schwindling *Maramius torquescens* verwechselt werden, der von oben betrachtet ähnlich aussieht. Sichere Unterscheidungsmerkmale sind in nachstehender Tabelle aufgeführt.
 
 ##### Unterscheidungsmerkmale     Hornstieliger Schwindling : Ledergelber Schwindling
 
