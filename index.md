@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/auricularia_auricula-judae_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.01.2025: An Ahorn, Apfel, Berberitze, Birke, Buche, Eiche, Erle, Esche, Fichte, Flieder, Hainbuche, Hasel, Robinie, Rosskastanie, Walnuss, Weide, Weißdorn, sogar an Waldreben, am häufigsten natürlich an Holunder - an allen diesen und noch weiteren Substraten habe ich unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Judasohr *Auricularia auricula-judae* schon gefunden. Auch in sämtlichen Monaten von Januar bis Dezember. In perfektem Zustand, total vetrocknet, verschimmelt oder steif gefroren. Nur ganz wenige Pilzarten haben ein vergleichbares Spektrum. (Dieter Gewalt) [Mehr lesen >](/pilze/auricularia-auricula-judae-judasohr)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/neohygrocybe_ovina_eh_01.jpg" %}
 {% include abbildung_ende.html %}
 
