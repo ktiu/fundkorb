@@ -18,7 +18,7 @@ published: true
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 3, Nr. 282"
     url: "Hans E. Laux: Der große Kosmos Pilzführer, Ausgabe 2002, Seite 204"
-  - {}
+  - text: "Hans E. Laux: Der große Kosmos Pilzführer, Ausgabe 2002, Seite 204"
 ---
 Der Hornstielige Schwindling *Marasmius cohaerens* gehört zu den größeren Arten der Gattung. Sein hellbrauner Hut ist anfangs glockig oder kegelig, hat in der Mitte meist einen stumpfen, etwas dunkleren Buckel und erreicht Durchmesser von 2 bis 3,5 cm. Bei jungen Fruchtkörpern ist der Rand gerieft, was vor allem bei Feuchtigkeit auffällt. Mit zunehmender Reife schirmt der Hut immer mehr auf und verflacht. Die etwas entfernt stehenden ausgebuchtet am Stiel angewachsenen Lamellen sind ähnlich gefärbt wie der Hut und können (nicht immer so deutlich wie bei den oben abgebildeten Exemplaren) zum Rand hin gespalten sein. Sowohl im Spalt als auch zwischen durchgehenden Lamellen sind unterschiedlich lange Lameletten vorhanden. Die Schneiden und Flächen sind etwas dunkler gesprenkelt, was mit einer Lupe deutlich zu erkennen ist.
 
