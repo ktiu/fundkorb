@@ -33,7 +33,7 @@ Ein besonders attraktives mikroskopisches Merkmal sind die aus den Lamellenschne
 
 Der Hornstielige Schwindling ist ein zerstreut und lückig in Deutschland vorkommender Streuzersetzer (Saprobiont). Er wächst einzeln oder gesellig in der Streu von Rotbuchen, seltener von Fichten, und scheint bessere, humose oder kalkhaltige Böden zu bevorzugen. 
 
-Er kann leicht mit dem Ledergelben Schwindling *Maramius torquescens* verwechselt werden, der von oben betrachtet ähnlich aussieht. Sichere Unterscheidungsmerkmale sind in nachstehender Tabelle aufgeführt.
+Er kann leicht mit dem [Ledergelben Schwindling *Maramius torquescens*](/pilze/marasmius-torquescens-ledergelber-schwindling) verwechselt werden, der von oben betrachtet ähnlich aussieht. Sichere Unterscheidungsmerkmale sind in nachstehender Tabelle aufgeführt.
 
 ##### Unterscheidungsmerkmale     Hornstieliger Schwindling : Ledergelber Schwindling
 
