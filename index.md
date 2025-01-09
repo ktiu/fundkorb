@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrocybe_punicea_eh_02.jpg" %}
+{% include abbildung_ende.html %}
+
+10.01.2025: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), der Granatrote Saftling *Hygrocybe punicea*, fällt durch die kräftig rote Färbung des Hutes und durch seine für Saftlinge wirklich bemerkenswerte Größe auf - nicht umsonst wird er auch “Größter Saftling”genannt. Er wächst, wie die meisten Saftlinge, bis spät ins Jahr auf extensiv bewirtschafteten mageren Wiesen und ist ziemlich selten.(Erik Hock) [Mehr lesen >](/pilze/hygrocybe-punicea-granatroter-saftling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/auricularia_auricula-judae_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,14 +61,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 05.01.2025: Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") durchaus für eine Schmetterlingstramete halten. Anfassen genügt aber schon, um den Irrtum festzustellen. Er fühlt sich elastisch gelatinös an und seine grauliche Unterseite ist auf glattem Grund unregelmäßig faltig und könnte uns an ein Judasohr erinnern. In der Tat ist der Gezonte Ohrlappenpilz *Auricularia mesenterica* mit diesem nahe verwandt, aber im Gegensatz zu ihm für die Küche völlig ungeeignet. (Dieter Gewalt) [Mehr lesen >](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.01.2025: [Fundkorbpilz](AA "Glossar-") Aktueller Fundkorbpilz ist der Frostschneckling *Hygrophorus hypothejus*. Er ist ein typischer Spätherbst- bis Winterpilz, der in Kiefernwäldern in der Rhein-Main-Ebene an manchen Stellen zahlreich und an anderen gar nicht vorkommt. Die Massenvorkommen finden sich - wie sein Name vermuten lässt - meistens nach dem ersten Frost. Wenn auch recht schleimig ist der Pilz wohlschmeckend und angenehm mild. (Béla Salgo, 13) [Mehr lesen >](/pilze/hygrophorus-hypothejus-frostschneckling)
 
 <div style="clear:  both"></div> 
 
