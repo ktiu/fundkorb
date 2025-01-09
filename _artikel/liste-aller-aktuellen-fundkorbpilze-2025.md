@@ -4,7 +4,7 @@ published: true
 ---
 10.01.2025: [Hygrocybe punicea - Granatroter Saftling](/pilze/hygrocybe-punicea-granatroter-saftling)   
 09.01.2025: [Auricularia auricula-judae - Judasohr](/pilze/auricularia-auricula-judae-judasohr)  
-0﻿8.01.2025:[Hygrocybe ovina - Rötender Saftling](/pilze/hygrocybe-ovina-rötender-saftling)\
+0﻿8.01.2025: [Hygrocybe ovina - Rötender Saftling](/pilze/hygrocybe-ovina-rötender-saftling)\
 07.01.2025: [Lyophyllum decastes - Büschelrasling](/pilze/lyophyllum-decastes-büschelrasling)\
 06.01.2025: [Peniophora limitata - Eschen-Zystidenrindenpilz](/pilze/peniophora-limitata-eschen-zystidenrindenpilz)\
 05.01.2025: [Auricularia mesenterica - Gezonter Ohrlappenpilz](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)\
