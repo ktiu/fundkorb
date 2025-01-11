@@ -20,7 +20,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/phlebia_tremellosa_01_cw.jpg" %}
 {% include abbildung_ende.html %}
 
-11.01.2025: Den Gallertfleischigen Fältling *Phlebia tremellosa* kann man während der kalten Jahreszeit fast in jedem Wald antreffen. Man muss nur bereit sein, sich auch mal zu bücken. Unser aktueller [Fundkorbpilz](AA "Glossar-") wächst an Totholz in Bodennähe und ist aufgrund seiner Konsistenz und des [merulioiden](merulioid "Glossar") [Hymenophors](Hymenophor "Glossar") kaum mit anderen Pilzen zu verwechseln. Giftig ist er nicht, aber absolut ungenießbar.(Dieter Gewalt) [Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
+11.01.2025: Den Gallertfleischigen Fältling *Phlebia tremellosa* kann man während der kalten Jahreszeit fast in jedem Wald antreffen. Man muss nur bereit sein, sich auch mal zu bücken. Unser aktueller [Fundkorbpilz](AA "Glossar-") wächst an Totholz in Bodennähe und ist aufgrund seiner Konsistenz und des [merulioiden](merulioid "Glossar") [Hymenophors](Hymenophor "Glossar") kaum mit anderen Pilzen zu verwechseln. Giftig ist er nicht, aber absolut ungenießbar. (Dieter Gewalt) [Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
 
 <div style="clear:  both"></div>
 
@@ -28,7 +28,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/hygrocybe_punicea_eh_02.jpg" %}
 {% include abbildung_ende.html %}
 
-10.01.2025: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), der Granatrote Saftling *Hygrocybe punicea*, fällt durch die kräftig rote Färbung des Hutes und durch seine für Saftlinge wirklich bemerkenswerte Größe auf - nicht umsonst wird er auch “Größter Saftling”genannt. Er wächst, wie die meisten Saftlinge, bis spät ins Jahr auf extensiv bewirtschafteten mageren Wiesen und ist ziemlich selten.(Erik Hock) [Mehr lesen >](/pilze/hygrocybe-punicea-granatroter-saftling)
+10.01.2025: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), der Granatrote Saftling *Hygrocybe punicea*, fällt durch die kräftig rote Färbung des Hutes und durch seine für Saftlinge wirklich bemerkenswerte Größe auf - nicht umsonst wird er auch “Größter Saftling”genannt. Er wächst, wie die meisten Saftlinge, bis spät ins Jahr auf extensiv bewirtschafteten mageren Wiesen und ist ziemlich selten. (Erik Hock) [Mehr lesen >](/pilze/hygrocybe-punicea-granatroter-saftling)
 
 <div style="clear:  both"></div>
 
