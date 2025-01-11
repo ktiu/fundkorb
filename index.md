@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phlebia_tremellosa_01_cw.jpg" %}
+{% include abbildung_ende.html %}
+
+11.01.2025: Den Gallertfleischigen Fältling *Phlebia tremellosa* kann man während der kalten Jahreszeit fast in jedem Wald antreffen. Man muss nur bereit sein, sich auch mal zu bücken. Unser aktueller [Fundkorbpilz](AA "Glossar-") wächst an Totholz in Bodennähe und ist aufgrund seiner Konsistenz und des [merulioiden](merulioid "Glossar") [Hymenophors](Hymenophor "Glossar") kaum mit anderen Pilzen zu verwechseln. Giftig ist er nicht, aber absolut ungenießbar.(Dieter Gewalt) [Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrocybe_punicea_eh_02.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,22 +55,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 07.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelrasling *Lyophyllum decastes*, den man auch im Winter finden kann. Der braunhütige Blätterpilz wächst, wie im Namen treffend beschrieben, büschelig auf Rasenflächen. Die Stiele sind an der Basis miteinander verwachsen. Obwohl er hervorragend schmeckt und beim Zubereiten knackig bleibt, wird er kaum gesammelt. (Béla Salgo, 13) [Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_limitata_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-06.01.2025: Zystidenrindenpilze sind eine wenig beachtete artenreiche Gattung flächig an Baumstämmen und -ästen wachsender Pilze, oft in unerreichbarer Höhe. Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist der Eschen-Zystidenrindenpilz *Peniophora limitata*, den ich im NSG Ellmendinger Roggenschleh im Enzkreis (Baden-Württemberg) gefunden und fotografiert habe. Er fällt durch seine blaugrauvioletten mosaikartig aufreißenden Krusten auf. (Bernd Miggel) [Mehr lesen >](/pilze/peniophora-limitata-eschen-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/auricularia_mesenterica_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.01.2025: Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") durchaus für eine Schmetterlingstramete halten. Anfassen genügt aber schon, um den Irrtum festzustellen. Er fühlt sich elastisch gelatinös an und seine grauliche Unterseite ist auf glattem Grund unregelmäßig faltig und könnte uns an ein Judasohr erinnern. In der Tat ist der Gezonte Ohrlappenpilz *Auricularia mesenterica* mit diesem nahe verwandt, aber im Gegensatz zu ihm für die Küche völlig ungeeignet. (Dieter Gewalt) [Mehr lesen >](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)
-
-<div style="clear:  both"></div> 
 
 - - -
 
