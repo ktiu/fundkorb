@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/plicatura_crispa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchen-Adernzähling *Plicatura crispa*, der vor allem wegen seines dicht büscheligen Wachstums und sein filigran gemustertes [Hymenophor ](Hymenophor "Glossar")gefällt. Der Name Buchen-Adernzähling erscheint mir nicht sehr treffend gewählt. Bei uns in der Rhein-Main-Ebene ist er, auch wenn hier kein Mangel an Buchen besteht, ganz überwiegend an Birke zu finden. Und zwar auffallend häufig und auch im Winter. (Dieter Gewalt) Mehr lesen > 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phlebia_tremellosa_01_cw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,14 +53,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 08.01.2025: Bei Saftlingen denkt man in der Regel an intensiv in den verschiedensten Gelb-, Rot- oder Grüntönen gefärbte Pilze. Dass sie nicht immer so farbenprächtig sein müssen, sondern auch ein unscheinbares, sogar düsteres Erscheinungsbild haben können, beweist der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), der Rötende Saftling *Neohygrocybe ovina*. Er wird auf der Roten Liste für Deutschland als “vom Aussterben bedroht” geführt. (Erik Hock) [Mehr lesen >](/pilze/hygrocybe-ovina-rötender-saftling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelrasling *Lyophyllum decastes*, den man auch im Winter finden kann. Der braunhütige Blätterpilz wächst, wie im Namen treffend beschrieben, büschelig auf Rasenflächen. Die Stiele sind an der Basis miteinander verwachsen. Obwohl er hervorragend schmeckt und beim Zubereiten knackig bleibt, wird er kaum gesammelt. (Béla Salgo, 13) [Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
 
 <div style="clear:  both"></div>
 
