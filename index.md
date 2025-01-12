@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_lycii_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+13.01.2025: Etwa 30 *Peniophora*-Arten sind in Europa nachgewiesen und eine der weniger bekannten ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Der Graue Zystidenrindenpilz *Peniophora lycii* kommt ganz überwiegend an Laubholz vor und hat ein enormes Wirtsspektrum, zu dem sogar verholzte Kräuterstängel gehören. Gefunden habe ich das hier abgebildete Exemplar im NSG Essigberg bei Keltern im Enzkreis an einem morschen am Boden liegenden Walnuss-Ast. (Bernd Miggel) [Mehr lesen >](/pilze/peniophora-lycii-grauer-zystidenrindenpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/plicatura_crispa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
