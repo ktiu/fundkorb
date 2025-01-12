@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
-12.01.2025: [Plicatura crispa - Buchenadernzähling](/pilze/plicatura-crispa-buchen-adernzähling)  
+13.01.2025: [Peniophora lycii - Grauer Zystidenrindenpilz](/pilze/peniophora-lycii-grauer-zystidenrindenpilz)  
+12.01.2025: [Plicatura crispa - Buchenadernzähling](/pilze/plicatura-crispa-buchen-adernzähling)\
 11.01.2025: [Phlebia tremellosa - Gallertfleischiger Fältling](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)\
 10.01.2025: [Hygrocybe punicea - Granatroter Saftling](/pilze/hygrocybe-punicea-granatroter-saftling)\
 09.01.2025: [Auricularia auricula-judae - Judasohr](/pilze/auricularia-auricula-judae-judasohr)\
