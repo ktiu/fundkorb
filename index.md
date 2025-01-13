@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/eutypella_quaternata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.01.2025: Wer beachtet schon schwarze Krusten mit winzig kleinen Pusteln auf armdicken Buchenästen? Auch das könnten Pilze sein wie zum Beispiel unser aktueller [Fundkorbpilz](AA "Glossar-"), die Vierfrüchtige Quaternaria *Eutypella quaternata*. Man müsste sie durchschneiden und mit der Lupe betrachten, um mehr zu sehen, aber auch dafür interessieren sich nur wenige. (Dieter Gewalt) [Mehr lesen >](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peniophora_lycii_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,14 +61,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 09.01.2025: An Ahorn, Apfel, Berberitze, Birke, Buche, Eiche, Erle, Esche, Fichte, Flieder, Hainbuche, Hasel, Robinie, Rosskastanie, Walnuss, Weide, Weißdorn, sogar an Waldreben, am häufigsten natürlich an Holunder - an allen diesen und noch weiteren Substraten habe ich unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Judasohr *Auricularia auricula-judae* schon gefunden. Auch in sämtlichen Monaten von Januar bis Dezember. In perfektem Zustand, total vetrocknet, verschimmelt oder steif gefroren. Nur ganz wenige Pilzarten haben ein vergleichbares Spektrum. (Dieter Gewalt) [Mehr lesen >](/pilze/auricularia-auricula-judae-judasohr)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/neohygrocybe_ovina_eh_01.jpg" %}
-{% include abbildung_ende.html %}
-
-08.01.2025: Bei Saftlingen denkt man in der Regel an intensiv in den verschiedensten Gelb-, Rot- oder Grüntönen gefärbte Pilze. Dass sie nicht immer so farbenprächtig sein müssen, sondern auch ein unscheinbares, sogar düsteres Erscheinungsbild haben können, beweist der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), der Rötende Saftling *Neohygrocybe ovina*. Er wird auf der Roten Liste für Deutschland als “vom Aussterben bedroht” geführt. (Erik Hock) [Mehr lesen >](/pilze/hygrocybe-ovina-rötender-saftling)
 
 <div style="clear:  both"></div>
 
