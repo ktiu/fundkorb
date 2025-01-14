@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hapalopilus_nidulans_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.01.2025: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist insofern eine Besonderheit, als es sich bei ihm um den einzigen bekannten hochgiftigen Porling handelt. Der Zimtfarbene Weichporling *Hapalopilus nidulans* wächst zur Zeit zahlreich an stehendem oder liegendem Totholz. Er ist an seiner typischen zimtbraunen Färbung in allen Teilen des Fruchtkörpers leicht zu erkennen. Der Zimtfarbene Weichporling enthält Polyporsäure in hoher Konzentration, die beim Verzehr zu schweren Nieren- und Leberschäden führen kann. (Veronika Ziegltrum) [Mehr lesen >](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/eutypella_quaternata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,14 +61,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 10.01.2025: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), der Granatrote Saftling *Hygrocybe punicea*, fällt durch die kräftig rote Färbung des Hutes und durch seine für Saftlinge wirklich bemerkenswerte Größe auf - nicht umsonst wird er auch “Größter Saftling”genannt. Er wächst, wie die meisten Saftlinge, bis spät ins Jahr auf extensiv bewirtschafteten mageren Wiesen und ist ziemlich selten. (Erik Hock) [Mehr lesen >](/pilze/hygrocybe-punicea-granatroter-saftling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/auricularia_auricula-judae_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.01.2025: An Ahorn, Apfel, Berberitze, Birke, Buche, Eiche, Erle, Esche, Fichte, Flieder, Hainbuche, Hasel, Robinie, Rosskastanie, Walnuss, Weide, Weißdorn, sogar an Waldreben, am häufigsten natürlich an Holunder - an allen diesen und noch weiteren Substraten habe ich unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Judasohr *Auricularia auricula-judae* schon gefunden. Auch in sämtlichen Monaten von Januar bis Dezember. In perfektem Zustand, total vetrocknet, verschimmelt oder steif gefroren. Nur ganz wenige Pilzarten haben ein vergleichbares Spektrum. (Dieter Gewalt) [Mehr lesen >](/pilze/auricularia-auricula-judae-judasohr)
 
 <div style="clear:  both"></div>
 
