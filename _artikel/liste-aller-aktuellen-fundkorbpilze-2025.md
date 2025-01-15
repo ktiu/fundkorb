@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
-15.01.2025: [Hapalopilus nidulans - Zimtfarbener Weichporling](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)  
+16.01.2025: [Hypholoma fasciculare - Grünblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)  
+15.01.2025: [Hapalopilus nidulans - Zimtfarbener Weichporling](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)\
 14.01.2025: [Eutypella quaternata - Vierfrüchtige Quarternaria](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)\
 13.01.2025: [Peniophora lycii - Grauer Zystidenrindenpilz](/pilze/peniophora-lycii-grauer-zystidenrindenpilz)\
 12.01.2025: [Plicatura crispa - Buchenadernzähling](/pilze/plicatura-crispa-buchen-adernzähling)\
