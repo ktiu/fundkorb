@@ -41,7 +41,7 @@ Die Fruchtkörper sind unregelmäßig, kartoffelförmig, trüffelartig geschloss
 
 Es handelt sich um einen Schlauchpilz (*Ascomyzet*) mit zylindrischen bis schlank keuligen, 8-sporigen, 170 - 230 x 15 - 20 µm messenden Asci. Die Sporen sind hyalin, ellipsoid, glatt, dünnwandig, an den Enden gerundet und mit einem großen Tropfen versehen. Sie liegen einreihig (uniseriat) im Ascus. Eigene Sporenmessungen ergaben: L x B = 18,5 - 24,5 x 11,5 - 15 µm, Schlankheitsgrad Q = L/B = 1,4 - 1,8. In Lugolscher Lösung zeigt sich keinerlei Blaufärbung der Ascusspitze, die Asci sind also *„IKI-negativ“* (inamyloid). Die Paraphysen sind schlank zylindrisch, hyalin, dünnwandig, septiert und mit geraden, gleichdickem oder leicht verdicktem Apikalteil.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/geopora_-cooperi_04_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/geopora_-cooperi_05_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/geopora_-cooperi_06_bm.jpg" nocrop=true gross=true %}
