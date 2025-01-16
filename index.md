@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coriolopsis_gallica_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.01.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") stammt aus dem Münchner Norden. In einem kleinen Naturwaldreservat befinden sich große Mengen an Totholz - ein interessantes Ziel also auch in den kalten Wintermonaten. Diesmal wurde der Ausflug bei frostigen Temperaturen mit zahlreichen Fruchtkörpern der Braunen Borstentramete (*Coriolopsis gallica*) belohnt. Auffällig an diesem wärmeliebenden Porling sind die striegelig-borstigen Hüte. Durch die rostfarbene Trama, die sich mit KOH sofort pechschwarz verfärbt, lässt sie sich gut gegen ähnliche Arten abgrenzen. (Veronika Ziegltrum) [Mehr lesen >](/pilze/coriolopsis-gallica-braune-borstentramete)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypholoma_fasciculare_07_gg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,14 +61,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 12.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchen-Adernzähling *Plicatura crispa*, der vor allem wegen seines dicht büscheligen Wachstums und sein filigran gemustertes [Hymenophor ](Hymenophor "Glossar")gefällt. Der Name Buchen-Adernzähling erscheint mir nicht sehr treffend gewählt. Bei uns in der Rhein-Main-Ebene ist er, auch wenn hier kein Mangel an Buchen besteht, ganz überwiegend an Birke zu finden. Und zwar auffallend häufig und auch im Winter. (Dieter Gewalt) [Mehr lesen >](/pilze/plicatura-crispa-buchen-adernzähling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phlebia_tremellosa_01_cw.jpg" %}
-{% include abbildung_ende.html %}
-
-11.01.2025: Den Gallertfleischigen Fältling *Phlebia tremellosa* kann man während der kalten Jahreszeit fast in jedem Wald antreffen. Man muss nur bereit sein, sich auch mal zu bücken. Unser aktueller [Fundkorbpilz](AA "Glossar-") wächst an Totholz in Bodennähe und ist aufgrund seiner Konsistenz und des [merulioiden](merulioid "Glossar") [Hymenophors](Hymenophor "Glossar") kaum mit anderen Pilzen zu verwechseln. Giftig ist er nicht, aber absolut ungenießbar. (Dieter Gewalt) [Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
 
 <div style="clear:  both"></div>
 
