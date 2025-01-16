@@ -33,4 +33,4 @@ Der Hut hat einen Durchmesser von ca. 15 bis 20mm. Hutform und -farbe verändert
 {% include bild.html datei="/bilder/mycena_amicta_05_jr.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Mehrere Fruchtkörper an einem Fichtenzapfen, 13.07.2024, Ebersberger Forst" %}
 
-Eine Verwechslung wäre allenfalls mit dem Blaufüßigen Helmling Mycena *cyanorrhiza denkbar*. Dieser hat jedoch deutlich entfernt stehende und bauchige Lamellen und eine intensiv blaue Stielbasis.
+Eine Verwechslung wäre allenfalls mit dem Blaufüßigen Helmling *Mycena cyanorrhiza* denkbar. Dieser hat jedoch deutlich entfernt stehende und bauchige Lamellen und eine intensiv blaue Stielbasis.
