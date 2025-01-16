@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
-16.01.2025: [Hypholoma fasciculare - Grünblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)  
+17.01.2025: [Coriolopsis gallica - Braune Borstentramete](/pilze/coriolopsis-gallica-braune-borstentramete)  
+16.01.2025: [Hypholoma fasciculare - Grünblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)\
 15.01.2025: [Hapalopilus nidulans - Zimtfarbener Weichporling](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)\
 14.01.2025: [Eutypella quaternata - Vierfrüchtige Quarternaria](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)\
 13.01.2025: [Peniophora lycii - Grauer Zystidenrindenpilz](/pilze/peniophora-lycii-grauer-zystidenrindenpilz)\
