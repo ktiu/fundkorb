@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrocybe_aurantiosplendens_eh_01.jpg" %}
+{% include abbildung_ende.html %}
+
+18.01.2025: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Glänzende Orange-Saftling *Hygrocybe aurantiosplendens* macht mit seinem intensiv orangeroten Hut, dem gelben Stiel und den ebenso gefärbten Lamellen seinem Namen alle Ehre. Er gehört zu den etwas größeren Vertretern der Gattung und ist zwar weit verbreitet, aber aufgrund seines selten gewordenen Lebensraums - ungedüngten, extensiv bewirtschafteten Wiesenflächen - nicht häufig zu finden. (Erik Hock) [Mehr lesen >](/pilze/hygrocybe-aurantio-splendens-glänzender-orange-saftling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coriolopsis_gallica_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,14 +61,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 13.01.2025: Etwa 30 *Peniophora*-Arten sind in Europa nachgewiesen und eine der weniger bekannten ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Der Graue Zystidenrindenpilz *Peniophora lycii* kommt ganz überwiegend an Laubholz vor und hat ein enormes Wirtsspektrum, zu dem sogar verholzte Kräuterstängel gehören. Gefunden habe ich das hier abgebildete Exemplar im NSG Essigberg bei Keltern im Enzkreis an einem morschen am Boden liegenden Walnuss-Ast. (Bernd Miggel) [Mehr lesen >](/pilze/peniophora-lycii-grauer-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/plicatura_crispa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchen-Adernzähling *Plicatura crispa*, der vor allem wegen seines dicht büscheligen Wachstums und sein filigran gemustertes [Hymenophor ](Hymenophor "Glossar")gefällt. Der Name Buchen-Adernzähling erscheint mir nicht sehr treffend gewählt. Bei uns in der Rhein-Main-Ebene ist er, auch wenn hier kein Mangel an Buchen besteht, ganz überwiegend an Birke zu finden. Und zwar auffallend häufig und auch im Winter. (Dieter Gewalt) [Mehr lesen >](/pilze/plicatura-crispa-buchen-adernzähling) 
 
 <div style="clear:  both"></div>
 
