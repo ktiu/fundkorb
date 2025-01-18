@@ -8,7 +8,7 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-{% include pilzsuche.html %}
+##### {% include pilzsuche.html %}
 
 Neuer Exkursionstermin:\
 Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
@@ -72,11 +72,9 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/haareis_collage_02_dg.png" %}
-{% include abbildung_ende.html %}
+#### Neu im Fundkorb:
 
-Leider kann ich den Pilz nicht genau benennen, der für das hier gezeigte Phänomen verantwortlich ist. Man nennt es *Haareis.* Es kann sich nur unter sehr speziellen Wetter- und Temperaturbedingungen an Totholz bilden. Bei unserer pilzkundlichen Führung im Rhein-Main-Gebiet am 1. Dezember müssen diese Bedingungen jedenfalls hervorragend gewesen sein. In einem kleinen Jungbuchenwald bei Dietzenbach war im wahrsten Sinne des Wortes alles voll von Haareis, mit Sicherheit mehr als 100 Vorkommen. Mehr über dieses faszinierende Phänomen *Haareis* [erfahren Sie hier >](/artikel/haareis) 
+Es ist immer eine große Freude, wenn man einen sehr seltenen Pilz zu Gesicht bekommt. Um so mehr, wenn man auf den ersten Blick glauben könnte, eine echte Trüffel vor sich zu haben, zumal das seltsame Objekt auch noch unterirdisch (hypogäisch) gewachsen ist oder nur mit dem Scheitel an die Oberfläche erreicht hat. Es handelt sich aber um einen äußerst seltenen Verwandten des Zedern-Sandborstlings Geopora sumneriana, der allerdings nicht bei Zedern sondern ihne jede Mykorhhiza-Bindung vorkommt. (Bernd Miggel) [Mehr lesen >](/pilze/geopora-cooperi-trüffel-sandborstling)
 
 - - -
 
