@@ -74,7 +74,61 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 #### Neu im Fundkorb:
 
-Es ist immer eine große Freude, wenn man einen sehr seltenen Pilz zu Gesicht bekommt. Um so mehr, wenn man auf den ersten Blick glauben könnte, eine echte Trüffel vor sich zu haben, zumal das seltsame Objekt auch noch unterirdisch (hypogäisch) gewachsen ist oder nur mit dem Scheitel an die Oberfläche erreicht hat. Es handelt sich aber um einen äußerst seltenen Verwandten des Zedern-Sandborstlings Geopora sumneriana, der allerdings nicht bei Zedern sondern ihne jede Mykorhhiza-Bindung vorkommt. (Bernd Miggel) [Mehr lesen >](/pilze/geopora-cooperi-trüffel-sandborstling)
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/geopora_-cooperi_07_wi.jpg" %}
+{% include abbildung_ende.html %}
+
+Geopora cooperi - Trüffel-Sandborstling
+
+Es ist immer eine große Freude, wenn man einen sehr seltenen Pilz zu Gesicht bekommt. Um so mehr, wenn man auf den ersten Blick glauben könnte, eine echte Trüffel vor sich zu haben, zumal das seltsame Objekt auch noch unterirdisch (*hypogäisch*) gewachsen ist oder nur mit dem Scheitel an die Oberfläche erreicht hat. Es handelt sich aber um einen äußerst seltenen Verwandten des [Zedern-Sandborstlings Geopora sumneriana](/pilze/geopora-sumneriana-zedern-sandborstling), der allerdings nicht bei Zedern sondern ihne jede Mykorhhiza-Bindung vorkommt. (Bernd Miggel) [Mehr lesen >](/pilze/geopora-cooperi-trüffel-sandborstling)
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_amicta_10_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+Mycena amicta – Geschmückter Helmling
+
+Diesen hübschen Helmling kann man schon im Wald relativ leicht anhand einer Merkmalskombination erkennen: blauer Hutrand +  gelatinöse stückweise abziehbare Huthaut + Stiel auf ganzer Länge fein bereift.  Er ist in manchen Regionen keineswegs selten und an totem Holz oder Zapfenresten vor allem in Nadelwäldern bei Fichten zu finden. Die Hütchen sind typisch helmlingsartig kegelförmig und duetlich gerieft. (Johann Rejek) [Mehr lesen >](/pilze/mycena-amicta-geschmückter-helmling)
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ripartites_tricholoma_02_vz.jpg" %}
+{% include abbildung_ende.html %}
+
+Ripartites tricholoma – Bewimperter Filzkrempling
+
+Wenn sie so schön bewimpert sind wie auf der Abbildung sind die weißen trichterförmigen, ziemlich kleinen Pilze leicht zu erkennen. Allerdings hat man nicht sehr häufig Gelegenheit, ihnen zu begegnen. Die Art kommt in unterschiedlichen Waldgesellschaften vor, gern in der Nadelstreu von Fichten. Mit den Kremplingen der Gattung *Paxillus* ist sie nicht verwandt. (Veronika Ziegltrum) Mehr lesen >
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/catinella_olivacea_eh_02.jpg" %}
+{% include abbildung_ende.html %}
+
+Catinella olivacea – Olivfarbenes Kelchbecherchen
+
+Seine meist versteckt in Hohlräumen an vermorschtem Laubholz wchsenden Fruchtkörper sind zunächst fast kugelig und geschlossen, später teller- oder scheibenförmig und 0,5 bis 1 cm, gelegentlich auch bis über 2 cm breit. Sie haben einen farblich deutlich abgesetzten, meist gerieften Rand, der lange eingerollt bleibt und gelblich oder gelbbraun gefärbt ist. Die in Mitteleuropa realtiv seltene Art ist durch ihr Aussehen makroskopisch gut zu identifizieren. (Erik Hock) [Mehr lesen >](/pilze/catinella-olivacea-olivfarbenes-kelchbecherchen)
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cortinarius_subtortus_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+Cortinarius subtortus – Olivgelber Weihrauch-Schleimkopf
+
+Der Geruch macht ihn zu einem leicht kenntlichen Schleimkopf. Um ihn möglichst deutlich wahrzunehmen, empfiehlt es sich, die Lamellen anzudrücken oder zu zerreiben. Hilfreich bei der Bestimmung sind auch seine ökologischen Ansprüche. Er kommt bevorzugt in moorigen Fichtenwäldern bei Torfmoosen und in Höhenlagen ab 400 m vor. Der deutsche Verbreitungsschwerpunkt liegt im Schwarzwald und Voralpenland. (Dieter Gewalt) [Mehr lesen >](/pilze/cortinarius-subtortus-olivgelber-weihrauch-schleimkopf)
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrocybe_aurantiosplendens_eh_01.jpg" %}
+{% include abbildung_ende.html %}
+
+Hygrocybe aurantio-splendens – Glänzender Orange-Saftling
+
+Die meisten Saftlinge sind mangels geeigneter Biotope (extensiv bewirtschaftete Magerwiesen) vom Aussterben bedroht. Das gilt auch für diese wunderschöne Art, die meist spät im Jahr erscheint und auch die ersten Fröste überdauern kann. Es gibt nur wenige Saftlinge mit so lebhaft rot oder orangerot gefärbten Hüten, die im Alter allerdings verblassen. Die hohlen Stiele sind gelblich bis orangegelb und meist längsstreifig gemustert. (Erik Hock) [Mehr lesen >](/pilze/hygrocybe-aurantio-splendens-glänzender-orange-saftling)
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_lycii_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+Peniophora lycii – Grauer Zystidenrindenpilz
+
+Diese auf Ästen wachsenden Beläge oder Krusten werden von vielen nicht als Pilze wahrgenommen und nur wenige beschäftigen sich mit ihnen. Ihre Bestimmung ist nicht immer einfach und es gibt einige weitere mehr oder weniger graue Arten. Da kommt man meist nicht ums Mikroskopieren herum und muss besonders auf unterschiedliche Zystiden achten. Den Grauen Zystidenrindenpilz findet man vor allem an Rotbuche und Hasel. (Bernd Miggel) [Mehr lesen >](/pilze/peniophora-lycii-grauer-zystidenrindenpilz)
 
 - - -
 
