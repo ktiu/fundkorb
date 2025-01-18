@@ -8,7 +8,7 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-{% include pilzsuche.html %}
+<div class="row justify-content-sm-center justify-content-lg-start">{% include pilzsuche.html %}</div>
 
 Neuer Exkursionstermin:\
 Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
