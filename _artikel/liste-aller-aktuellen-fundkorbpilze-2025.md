@@ -2,8 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
-18.01.2025: [Hygrocybe aurantiosplendens - Glänzender Orangesaftling](/pilze/hygrocybe-aurantio-splendens-glänzender-orange-saftling)  
-17.01.2025: [Coriolopsis gallica - Braune Borstentramete](/pilze/coriolopsis-gallica-braune-borstentramete)  
+19.01.2025: [Pycnoporus cinnabarinus - Zinnoberrore Tramte](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)\
+18.01.2025: [Hygrocybe aurantiosplendens - Glänzender Orangesaftling](/pilze/hygrocybe-aurantio-splendens-glänzender-orange-saftling)\
+17.01.2025: [Coriolopsis gallica - Braune Borstentramete](/pilze/coriolopsis-gallica-braune-borstentramete)\
 16.01.2025: [Hypholoma fasciculare - Grünblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)\
 15.01.2025: [Hapalopilus nidulans - Zimtfarbener Weichporling](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)\
 14.01.2025: [Eutypella quaternata - Vierfrüchtige Quarternaria](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)\
