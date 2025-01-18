@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pycnoporus_cinnabarinus_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+19.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zinnobertramete *Pycnoporus cinnabarinus*. Es ist allein die rote Farbe, die sie von den Trameten der Gattung Trametes unterscheidet. Sie ist sogar in der Lage, das bewachsene Holz rötlich zu färben und der einzige europäische Verteter dieser Gattung, in der es weltweit zwei weitere in den Tropen beheimatete Arten gibt. *Pycnoporus cinnabarinus* gehört zu den Erstbesiedlern von totem Laubholz, ganz überwiegend Buche. (Dieter Gewalt) [Mehr lesen >](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)
+
+ <div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrocybe_aurantiosplendens_eh_01.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -48,20 +56,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/eutypella_quaternata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.01.2025: Wer beachtet schon schwarze Krusten mit winzig kleinen Pusteln auf armdicken Buchenästen? Auch das könnten Pilze sein wie zum Beispiel unser aktueller [Fundkorbpilz](AA "Glossar-"), die Vierfrüchtige Quaternaria *Eutypella quaternata*. Man müsste sie durchschneiden und mit der Lupe betrachten, um mehr zu sehen, aber auch dafür interessieren sich nur wenige. (Dieter Gewalt) [Mehr lesen >](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_lycii_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-13.01.2025: Etwa 30 *Peniophora*-Arten sind in Europa nachgewiesen und eine der weniger bekannten ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Der Graue Zystidenrindenpilz *Peniophora lycii* kommt ganz überwiegend an Laubholz vor und hat ein enormes Wirtsspektrum, zu dem sogar verholzte Kräuterstängel gehören. Gefunden habe ich das hier abgebildete Exemplar im NSG Essigberg bei Keltern im Enzkreis an einem morschen am Boden liegenden Walnuss-Ast. (Bernd Miggel) [Mehr lesen >](/pilze/peniophora-lycii-grauer-zystidenrindenpilz)
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2025](/artikel/liste-aller-aktuellen-fundkorbpilze-2025.html)
@@ -75,8 +69,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/geopora_-cooperi_07_wi.jpg" %}
 {% include abbildung_ende.html %}
-
-
 
 Geopora cooperi - Trüffel-Sandborstling
 
