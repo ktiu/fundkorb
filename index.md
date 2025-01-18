@@ -16,7 +16,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hygrocybe_aurantiosplendens_eh_01.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -24,7 +24,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/coriolopsis_gallica_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -32,7 +32,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hypholoma_fasciculare_07_gg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -40,7 +40,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hapalopilus_nidulans_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -48,7 +48,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/eutypella_quaternata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,7 +56,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/peniophora_lycii_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -82,7 +82,7 @@ Es ist immer eine große Freude, wenn man einen sehr seltenen Pilz zu Gesicht be
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/mycena_amicta_10_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -92,7 +92,7 @@ Diesen hübschen Helmling kann man schon im Wald relativ leicht anhand einer Mer
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/ripartites_tricholoma_02_vz.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -102,7 +102,7 @@ Wenn sie so schön bewimpert sind wie auf der Abbildung sind die weißen trichte
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/catinella_olivacea_eh_02.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -112,7 +112,7 @@ Seine meist versteckt in Hohlräumen an vermorschtem Laubholz wchsenden Fruchtk�
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/cortinarius_subtortus_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -122,7 +122,7 @@ Der Geruch macht ihn zu einem leicht kenntlichen Schleimkopf. Um ihn möglichst 
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hygrocybe_aurantiosplendens_eh_01.jpg" %}
 {% include abbildung_ende.html %}
 
