@@ -22,11 +22,15 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 18.01.2025: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Glänzende Orange-Saftling *Hygrocybe aurantiosplendens* macht mit seinem intensiv orangeroten Hut, dem gelben Stiel und den ebenso gefärbten Lamellen seinem Namen alle Ehre. Er gehört zu den etwas größeren Vertretern der Gattung und ist zwar weit verbreitet, aber aufgrund seines selten gewordenen Lebensraums - ungedüngten, extensiv bewirtschafteten Wiesenflächen - nicht häufig zu finden. (Erik Hock) [Mehr lesen >](/pilze/hygrocybe-aurantio-splendens-glänzender-orange-saftling)
 
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coriolopsis_gallica_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 17.01.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") stammt aus dem Münchner Norden. In einem kleinen Naturwaldreservat befinden sich große Mengen an Totholz - ein interessantes Ziel also auch in den kalten Wintermonaten. Diesmal wurde der Ausflug bei frostigen Temperaturen mit zahlreichen Fruchtkörpern der Braunen Borstentramete (*Coriolopsis gallica*) belohnt. Auffällig an diesem wärmeliebenden Porling sind die striegelig-borstigen Hüte. Durch die rostfarbene Trama, die sich mit KOH sofort pechschwarz verfärbt, lässt sie sich gut gegen ähnliche Arten abgrenzen. (Veronika Ziegltrum) [Mehr lesen >](/pilze/coriolopsis-gallica-braune-borstentramete)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypholoma_fasciculare_07_gg.jpg" %}
@@ -34,17 +38,23 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 16.01.2025: Den Grünblättrigen Schwefelkopf *Hypholoma fasciculare* kann man in unterschiedlicher Häufigkeit das ganze Jahr über finden. In unserem Dietzenbacher Carré gibt es gut getarnte und geschützte Plätzchen, die sogar von mäßigen Nachtfrösten verschont bleiben. Einen davon nutzt er immer wieder zum Fruktifizieren. So auch jetzt, und darum soll er mein aktueller [Fundkorbpilz](AA "Glossar-") sein. (Dieter Gewalt) [Mehr lesen >](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)
 
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hapalopilus_nidulans_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 15.01.2025: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist insofern eine Besonderheit, als es sich bei ihm um den einzigen bekannten hochgiftigen Porling handelt. Der Zimtfarbene Weichporling *Hapalopilus nidulans* wächst zur Zeit zahlreich an stehendem oder liegendem Totholz. Er ist an seiner typischen zimtbraunen Färbung in allen Teilen des Fruchtkörpers leicht zu erkennen. Der Zimtfarbene Weichporling enthält Polyporsäure in hoher Konzentration, die beim Verzehr zu schweren Nieren- und Leberschäden führen kann. (Veronika Ziegltrum) [Mehr lesen >](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)
 
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/eutypella_quaternata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 14.01.2025: Wer beachtet schon schwarze Krusten mit winzig kleinen Pusteln auf armdicken Buchenästen? Auch das könnten Pilze sein wie zum Beispiel unser aktueller [Fundkorbpilz](AA "Glossar-"), die Vierfrüchtige Quaternaria *Eutypella quaternata*. Man müsste sie durchschneiden und mit der Lupe betrachten, um mehr zu sehen, aber auch dafür interessieren sich nur wenige. (Dieter Gewalt) [Mehr lesen >](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peniophora_lycii_02_bm.jpg" %}
@@ -70,6 +80,8 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 Es ist immer eine große Freude, wenn man einen sehr seltenen Pilz zu Gesicht bekommt. Um so mehr, wenn man auf den ersten Blick glauben könnte, eine echte Trüffel vor sich zu haben, zumal das seltsame Objekt auch noch unterirdisch (*hypogäisch*) gewachsen ist oder nur mit dem Scheitel an die Oberfläche erreicht hat. Es handelt sich aber um einen äußerst seltenen Verwandten des [Zedern-Sandborstlings Geopora sumneriana](/pilze/geopora-sumneriana-zedern-sandborstling), der allerdings nicht bei Zedern sondern ihne jede Mykorhhiza-Bindung vorkommt. (Bernd Miggel) [Mehr lesen >](/pilze/geopora-cooperi-trüffel-sandborstling)
 
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_amicta_10_jr.jpg" %}
 {% include abbildung_ende.html %}
@@ -77,6 +89,8 @@ Es ist immer eine große Freude, wenn man einen sehr seltenen Pilz zu Gesicht be
 ###### Mycena amicta – Geschmückter Helmling
 
 Diesen hübschen Helmling kann man schon im Wald relativ leicht anhand einer Merkmalskombination erkennen: blauer Hutrand +  gelatinöse stückweise abziehbare Huthaut + Stiel auf ganzer Länge fein bereift.  Er ist in manchen Regionen keineswegs selten und an totem Holz oder Zapfenresten vor allem in Nadelwäldern bei Fichten zu finden. Die Hütchen sind typisch helmlingsartig kegelförmig und duetlich gerieft. (Johann Rejek) [Mehr lesen >](/pilze/mycena-amicta-geschmückter-helmling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ripartites_tricholoma_02_vz.jpg" %}
@@ -86,6 +100,8 @@ Diesen hübschen Helmling kann man schon im Wald relativ leicht anhand einer Mer
 
 Wenn sie so schön bewimpert sind wie auf der Abbildung sind die weißen trichterförmigen, ziemlich kleinen Pilze leicht zu erkennen. Allerdings hat man nicht sehr häufig Gelegenheit, ihnen zu begegnen. Die Art kommt in unterschiedlichen Waldgesellschaften vor, gern in der Nadelstreu von Fichten. Mit den Kremplingen der Gattung *Paxillus* ist sie nicht verwandt. (Veronika Ziegltrum) [Mehr lesen >](/pilze/ripartites-tricholoma-bewimperter-filzkrempling)
 
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/catinella_olivacea_eh_02.jpg" %}
 {% include abbildung_ende.html %}
@@ -93,6 +109,8 @@ Wenn sie so schön bewimpert sind wie auf der Abbildung sind die weißen trichte
 ###### Catinella olivacea – Olivfarbenes Kelchbecherchen
 
 Seine meist versteckt in Hohlräumen an vermorschtem Laubholz wchsenden Fruchtkörper sind zunächst fast kugelig und geschlossen, später teller- oder scheibenförmig und 0,5 bis 1 cm, gelegentlich auch bis über 2 cm breit. Sie haben einen farblich deutlich abgesetzten, meist gerieften Rand, der lange eingerollt bleibt und gelblich oder gelbbraun gefärbt ist. Die in Mitteleuropa realtiv seltene Art ist durch ihr Aussehen makroskopisch gut zu identifizieren. (Erik Hock) [Mehr lesen >](/pilze/catinella-olivacea-olivfarbenes-kelchbecherchen)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cortinarius_subtortus_01_nk.jpg" %}
@@ -102,6 +120,8 @@ Seine meist versteckt in Hohlräumen an vermorschtem Laubholz wchsenden Fruchtk�
 
 Der Geruch macht ihn zu einem leicht kenntlichen Schleimkopf. Um ihn möglichst deutlich wahrzunehmen, empfiehlt es sich, die Lamellen anzudrücken oder zu zerreiben. Hilfreich bei der Bestimmung sind auch seine ökologischen Ansprüche. Er kommt bevorzugt in moorigen Fichtenwäldern bei Torfmoosen und in Höhenlagen ab 400 m vor. Der deutsche Verbreitungsschwerpunkt liegt im Schwarzwald und Voralpenland. (Dieter Gewalt) [Mehr lesen >](/pilze/cortinarius-subtortus-olivgelber-weihrauch-schleimkopf)
 
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrocybe_aurantiosplendens_eh_01.jpg" %}
 {% include abbildung_ende.html %}
@@ -109,6 +129,8 @@ Der Geruch macht ihn zu einem leicht kenntlichen Schleimkopf. Um ihn möglichst 
 ###### Hygrocybe aurantio-splendens – Glänzender Orange-Saftling
 
 Die meisten Saftlinge sind mangels geeigneter Biotope (extensiv bewirtschaftete Magerwiesen) vom Aussterben bedroht. Das gilt auch für diese wunderschöne Art, die meist spät im Jahr erscheint und auch die ersten Fröste überdauern kann. Es gibt nur wenige Saftlinge mit so lebhaft rot oder orangerot gefärbten Hüten, die im Alter allerdings verblassen. Die hohlen Stiele sind gelblich bis orangegelb und meist längsstreifig gemustert. (Erik Hock) [Mehr lesen >](/pilze/hygrocybe-aurantio-splendens-glänzender-orange-saftling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/peniophora_lycii_02_bm.jpg" %}
