@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
+20.01.2025: [Xylaria hypoxylon - Geweihförmige Holzkeule](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)  
 19.01.2025: [Pycnoporus cinnabarinus - Zinnoberrore Tramte](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)\
 18.01.2025: [Hygrocybe aurantiosplendens - Glänzender Orangesaftling](/pilze/hygrocybe-aurantio-splendens-glänzender-orange-saftling)\
 17.01.2025: [Coriolopsis gallica - Braune Borstentramete](/pilze/coriolopsis-gallica-braune-borstentramete)\
