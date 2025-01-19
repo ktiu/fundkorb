@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.01.2025:  Aktueller [Fundkorbpilz](AA "Glossar-") ist die Geweihförmige Holzkeule *Xylaria hypoxylon*, eine unverwechselbare Art, die das ganze Jahr über an totem Lauholz zu finden ist. Am häufigsten besiedelt sie scharenweise die Schnittflächen von Buchenstümpfen. Der zierliche Pilz zeigt sich in zwei unterschiedlichen Stadien. Als komplett schwarze Keulchen oder mit weißen, beim Anschnippen stäubenden Spitzen. Diese sind so vielgestaltig, dass kaum einmal eine einer anderen gleicht. (Dieter Gewalt) [Mehr lesen >](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pycnoporus_cinnabarinus_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -33,7 +41,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 <div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coriolopsis_gallica_04_dg.jpg" %}
+{% include bild.html datei="/bilder/coriolopsis_gallica_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 17.01.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") stammt aus dem Münchner Norden. In einem kleinen Naturwaldreservat befinden sich große Mengen an Totholz - ein interessantes Ziel also auch in den kalten Wintermonaten. Diesmal wurde der Ausflug bei frostigen Temperaturen mit zahlreichen Fruchtkörpern der Braunen Borstentramete (*Coriolopsis gallica*) belohnt. Auffällig an diesem wärmeliebenden Porling sind die striegelig-borstigen Hüte. Durch die rostfarbene Trama, die sich mit KOH sofort pechschwarz verfärbt, lässt sie sich gut gegen ähnliche Arten abgrenzen. (Veronika Ziegltrum) [Mehr lesen >](/pilze/coriolopsis-gallica-braune-borstentramete)
