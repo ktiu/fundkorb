@@ -6,7 +6,7 @@ beschreibung:
   familie: "Xylariaceae  "
   erlaeuterung: hypoxylon = "unten holzig", am Baumstumpf
 profil:
-  aktualisiert: 2020-10-26
+  aktualisiert: 2025-01-20
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
@@ -15,9 +15,9 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/x/Xylaria_hypoxylon.html
 ---
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/xylaria_hypoxylon_02_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/xylaria_hypoxylon_03_dg.jpg" nocrop=true %}
+{% include bild.html datei="" nocrop=true %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_14_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_13_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
 "Geweihförmig" ist eine wirklich treffende Beschreibung dieser Holzkeule. Zumindest bei einem Teil des enormen Formenreichtums, mit dem dieser zu den [Ascomyzeten](Ascomyzeten "Glossar") gehörige Pilz den Betrachter beeindruckt. Ein anderer Teil ähnelt eher Hörnern, manchmal auch Zungen, Werkzeugen oder Gabeln.
@@ -33,5 +33,6 @@ Der Pilz erscheint in zwei unterschiedlichen Stadien. An unscheinscheinbar schwa
 Die Geweihförmige Holzkeule ist sehr häufig. Man findet sie vor allem an totem Laubholz, meist auf den Schnittflächen von Stümpfen, die oft rasig bewachsen sind.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/xylaria_hypoxylon_04_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_21_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_20_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
