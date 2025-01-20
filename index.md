@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lycoperdon_perlatum_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.01.2025: So sehen Flaschenstäublinge (*Lycoperdon perlatum*) mitten im Winter aus und behalten dieses Erscheinungsbild mitunter bis ins Frühjahr. Damit haben wir also einen aktuellen [Fundkorbpilz](AA "Glossar-"), der uns das ganze Jahr über begleiten kann. Essbar ist er übrigens auch und manche finden ihn sogar richtig lecker. Andere lehnen ihn strikt ab und vergleichen ihn mit Marshmallows. Kinder habe ihren Spaß mit ihnen und nennen sie gern Staubbomben oder Puffpilze. (Dieter Gewalt) [Mehr lesen >](/pilze/lycoperdon-perlatum-flaschenstäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,22 +53,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 17.01.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") stammt aus dem Münchner Norden. In einem kleinen Naturwaldreservat befinden sich große Mengen an Totholz - ein interessantes Ziel also auch in den kalten Wintermonaten. Diesmal wurde der Ausflug bei frostigen Temperaturen mit zahlreichen Fruchtkörpern der Braunen Borstentramete (*Coriolopsis gallica*) belohnt. Auffällig an diesem wärmeliebenden Porling sind die striegelig-borstigen Hüte. Durch die rostfarbene Trama, die sich mit KOH sofort pechschwarz verfärbt, lässt sie sich gut gegen ähnliche Arten abgrenzen. (Veronika Ziegltrum) [Mehr lesen >](/pilze/coriolopsis-gallica-braune-borstentramete)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypholoma_fasciculare_07_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.01.2025: Den Grünblättrigen Schwefelkopf *Hypholoma fasciculare* kann man in unterschiedlicher Häufigkeit das ganze Jahr über finden. In unserem Dietzenbacher Carré gibt es gut getarnte und geschützte Plätzchen, die sogar von mäßigen Nachtfrösten verschont bleiben. Einen davon nutzt er immer wieder zum Fruktifizieren. So auch jetzt, und darum soll er mein aktueller [Fundkorbpilz](AA "Glossar-") sein. (Dieter Gewalt) [Mehr lesen >](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hapalopilus_nidulans_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.01.2025: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist insofern eine Besonderheit, als es sich bei ihm um den einzigen bekannten hochgiftigen Porling handelt. Der Zimtfarbene Weichporling *Hapalopilus nidulans* wächst zur Zeit zahlreich an stehendem oder liegendem Totholz. Er ist an seiner typischen zimtbraunen Färbung in allen Teilen des Fruchtkörpers leicht zu erkennen. Der Zimtfarbene Weichporling enthält Polyporsäure in hoher Konzentration, die beim Verzehr zu schweren Nieren- und Leberschäden führen kann. (Veronika Ziegltrum) [Mehr lesen >](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)
 
 <div style="clear:  both"></div>
 
