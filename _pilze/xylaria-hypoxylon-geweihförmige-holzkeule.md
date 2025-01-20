@@ -23,10 +23,10 @@ literatur:
 "Geweihförmig" ist eine wirklich treffende Beschreibung dieser Holzkeule. Zumindest bei einem Teil des enormen Formenreichtums, mit dem dieser zu den [Ascomyzeten](Ascomyzeten "Glossar") gehörige Pilz den Betrachter beeindruckt. Ein anderer Teil ähnelt eher Hörnern, manchmal auch Zungen, Werkzeugen oder Gabeln.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/xylaria_hypoxylon_05_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/xylaria_hypoxylon_06_dg.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/xylaria_hypoxylon_07_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_11_jr.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_17_jr.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_15_jr.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="3 Fotos von Johann Rejek, 12.11.2024 Gleißental" %}
 
 Der Pilz erscheint in zwei unterschiedlichen Stadien. An unscheinscheinbar schwarz gefärbten [Perithezien](Perithezien "Glossar") werden die fertilen [Ascosporen](Asci "Glossar") gebildet. Viel häufiger werden [Konidiensporen](Konidien "Glossar") erzeugt, die den Pilz wie weiß bestäubt erscheinen lassen. Schnippt man mit dem Finger dagegen oder bläst man sie an, wird eine weiße Sporenwolke freigesetzt. 
 
