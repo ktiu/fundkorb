@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
+22.01.2025: [Polyporus brumalis - Winterporling](/pilze/polyporus-brumalis-winterporling)  
 21.01.2025: [Lycoperdon parlatum - Flaschenstäubling](/pilze/lycoperdon-perlatum-flaschenstäubling)  
 20.01.2025: [Xylaria hypoxylon - Geweihförmige Holzkeule](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)\
 19.01.2025: [Pycnoporus cinnabarinus - Zinnoberrore Tramte](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)\
