@@ -20,7 +20,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/polyporus_brumalis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-22.01.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") weist in seinem deutschen Namen auf seine Erscheinungszeit hin. Es ist der Winterporling *Lentinus brumalis*. Er wächst auf Ästen von totem Laubholz und ist derzeit in fast jedem Mischwald zu finden. Wie man vermuten kann, könnte es auch einen Sommerporling geben. Dem ist tatsächlich so, nur lautet der deutsche Name [Maiporling Polyporus ciliatus](/pilze/polyporus-ciliatus-maiporling).  Außer der Erscheinungszeit gibt es noch einen makroskopischen Unterschied. Lentinus brumalis besitzt größere Poren, die in ihrer Form eher einer Raute ähneln als einem Kreis. (Johann Rejek) [Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
+22.01.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") weist in seinem deutschen Namen auf seine Erscheinungszeit hin. Es ist der Winterporling *Lentinus brumalis*. Er wächst auf Ästen von totem Laubholz und ist derzeit in fast jedem Mischwald zu finden. Wie man vermuten kann, könnte es auch einen Sommerporling geben. Dem ist tatsächlich so, nur lautet der deutsche Name [Maiporling *Polyporus ciliatus*](/pilze/polyporus-ciliatus-maiporling).  Außer der Erscheinungszeit gibt es noch einen makroskopischen Unterschied. *Lentinus brumalis* besitzt größere Poren, die in ihrer Form eher einer Raute ähneln als einem Kreis. (Johann Rejek) [Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lycoperdon_perlatum_05_dg.jpg" %}
