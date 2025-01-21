@@ -17,6 +17,12 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_brumalis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.01.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") weist in seinem deutschen Namen auf seine Erscheinungszeit hin. Es ist der Winterporling *Lentinus brumalis*. Er wächst auf Ästen von totem Laubholz und ist derzeit in fast jedem Mischwald zu finden. Wie man vermuten kann, könnte es auch einen Sommerporling geben. Dem ist tatsächlich so, nur lautet der deutsche Name [Maiporling Polyporus ciliatus](/pilze/polyporus-ciliatus-maiporling).  Außer der Erscheinungszeit gibt es noch einen makroskopischen Unterschied. Lentinus brumalis besitzt größere Poren, die in ihrer Form eher einer Raute ähneln als einem Kreis. (Johann Rejek) [Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lycoperdon_perlatum_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,14 +51,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 18.01.2025: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Glänzende Orange-Saftling *Hygrocybe aurantiosplendens* macht mit seinem intensiv orangeroten Hut, dem gelben Stiel und den ebenso gefärbten Lamellen seinem Namen alle Ehre. Er gehört zu den etwas größeren Vertretern der Gattung und ist zwar weit verbreitet, aber aufgrund seines selten gewordenen Lebensraums - ungedüngten, extensiv bewirtschafteten Wiesenflächen - nicht häufig zu finden. (Erik Hock) [Mehr lesen >](/pilze/hygrocybe-aurantio-splendens-glänzender-orange-saftling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coriolopsis_gallica_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.01.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") stammt aus dem Münchner Norden. In einem kleinen Naturwaldreservat befinden sich große Mengen an Totholz - ein interessantes Ziel also auch in den kalten Wintermonaten. Diesmal wurde der Ausflug bei frostigen Temperaturen mit zahlreichen Fruchtkörpern der Braunen Borstentramete (*Coriolopsis gallica*) belohnt. Auffällig an diesem wärmeliebenden Porling sind die striegelig-borstigen Hüte. Durch die rostfarbene Trama, die sich mit KOH sofort pechschwarz verfärbt, lässt sie sich gut gegen ähnliche Arten abgrenzen. (Veronika Ziegltrum) [Mehr lesen >](/pilze/coriolopsis-gallica-braune-borstentramete)
 
 <div style="clear:  both"></div>
 
