@@ -20,7 +20,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/tubaria_furfuracea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-23.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Trompetenschnitzling  *Tubaria furfuracea*. Er ist einer von den unzähligen *Little Brown Mushrooms*, und diese sind bekanntermaßen nicht einfach zu bestimmen. Die Kombination von Merkmalen wie Hutgröße und -farbe, [Hygrophanität](<hygrophan "Glossar">), Lamelleneigenschaften, Stielbeschaffenheit und das meist gesellige Wachstum auf Totholz führen jedoch auf die Zielgerade. Übrigens gibt es einige Autoren, die den im Winter erscheinenden Fruchtkörpern eine eigene Art zuordnen. Er heißt dann Winter-Trompetenschnitzling *Tubaria hiemalis*. (Johann Rejek) [Mehr lesen >](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
+23.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Trompetenschnitzling  *Tubaria furfuracea*. Er ist einer von den unzähligen *Little Brown Mushrooms*, und diese sind bekanntermaßen nicht einfach zu bestimmen. Die Kombination von Merkmalen wie Hutgröße und -farbe, [Hygrophanität](hygrophan "Glossar"), Lamelleneigenschaften, Stielbeschaffenheit und das meist gesellige Wachstum auf Totholz führen jedoch auf die Zielgerade. Übrigens gibt es einige Autoren, die den im Winter erscheinenden Fruchtkörpern eine eigene Art zuordnen. Er heißt dann Winter-Trompetenschnitzling *Tubaria hiemalis*. (Johann Rejek) [Mehr lesen >](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_brumalis_01_dg.jpg" %}
