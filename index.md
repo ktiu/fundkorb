@@ -17,6 +17,12 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tubaria_furfuracea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Trompetenschnitzling  *Tubaria furfuracea*. Er ist einer von den unzähligen LBMs (LittleBrownMushroom), und diese sind bekanntermaßen nicht einfach zu bestimmen. Die Kombination von Merkmalen wie Hutgröße und- farbe, Hygrophanität, Lamelleneigenschaften, Stielbeschaffenheit und das meist gesellige Wachstum auf Totholz führen jedoch auf die Zielgerade. Mehr dazu im Porträt. Übrigens gibt es einige Autoren, die den im Winter erscheinenden Fruchtkörpern eine eigene Art zuordnen. Er heißt dann Winter-Trompetenschnitzling *Tubaria hiemalis*. (Johann Rejek) [Mehr lesen >](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_brumalis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -46,13 +52,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
  <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrocybe_aurantiosplendens_eh_01.jpg" %}
-{% include abbildung_ende.html %}
 
-18.01.2025: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Glänzende Orange-Saftling *Hygrocybe aurantiosplendens* macht mit seinem intensiv orangeroten Hut, dem gelben Stiel und den ebenso gefärbten Lamellen seinem Namen alle Ehre. Er gehört zu den etwas größeren Vertretern der Gattung und ist zwar weit verbreitet, aber aufgrund seines selten gewordenen Lebensraums - ungedüngten, extensiv bewirtschafteten Wiesenflächen - nicht häufig zu finden. (Erik Hock) [Mehr lesen >](/pilze/hygrocybe-aurantio-splendens-glänzender-orange-saftling)
-
-<div style="clear:  both"></div>
 
 - - -
 
