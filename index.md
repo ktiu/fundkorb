@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cladonia_coniocraea_03_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+24.01.2025: Es gibt eine Gruppe von Pilzen, die auch in der pilzarmen Zeit zuverlässig anzutreffen sind: Flechten. Eine von ihnen, die Gewöhnliche Säulenflechte *Cladonia coniocraea*, soll daher unser heutiger [Fundkorbpilz](AA "Glossar-") sein. Diese auffällige, nicht seltene und weit verbreitete Blattflechte ist vor allem auf Totholz (Stümpfe, Stammbasis, auf Moosen) zu finden. Sie besteht aus grundständigen Lappen und aufrechten, oft verbogenen, unverzweigten Säulen. Die Lappen sind auf der Oberseite graugrün, die Unterseite ist weiß. (Dieter Gewalt) [Mehr lesen >](/pilze/cladonia-coniocraea-gewöhnliche-säulenflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tubaria_furfuracea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -43,14 +51,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 20.01.2025:  Aktueller [Fundkorbpilz](AA "Glossar-") ist die Geweihförmige Holzkeule *Xylaria hypoxylon*, eine unverwechselbare Art, die das ganze Jahr über an totem Lauholz zu finden ist. Am häufigsten besiedelt sie scharenweise die Schnittflächen von Buchenstümpfen. Der zierliche Pilz zeigt sich in zwei unterschiedlichen Stadien. Als komplett schwarze Keulchen oder mit weißen, beim Anschnippen stäubenden Spitzen. Diese sind so vielgestaltig, dass kaum einmal eine einer anderen gleicht. (Dieter Gewalt) [Mehr lesen >](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pycnoporus_cinnabarinus_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-19.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Zinnobertramete *Pycnoporus cinnabarinus*. Es ist allein die rote Farbe, die sie von den Trameten der Gattung Trametes unterscheidet. Sie ist sogar in der Lage, das bewachsene Holz rötlich zu färben und der einzige europäische Verteter dieser Gattung, in der es weltweit zwei weitere in den Tropen beheimatete Arten gibt. *Pycnoporus cinnabarinus* gehört zu den Erstbesiedlern von totem Laubholz, ganz überwiegend Buche. (Dieter Gewalt) [Mehr lesen >](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)
-
- <div style="clear:  both"></div>
 
 - - -
 
