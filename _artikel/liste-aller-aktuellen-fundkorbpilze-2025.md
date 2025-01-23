@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
-23.01.2025: [Tubaria furfuracea - Gemeiner Trompetenschnitzling](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)  
+24.01.2025: [Cladonia coniocrea - Gewöhnliche Säulenflechte](/pilze/cladonia-coniocraea-gewöhnliche-säulenflechte)  
+23.01.2025: [Tubaria furfuracea - Gemeiner Trompetenschnitzling](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)\
 22.01.2025: [Polyporus brumalis - Winterporling](/pilze/polyporus-brumalis-winterporling)\
 21.01.2025: [Lycoperdon parlatum - Flaschenstäubling](/pilze/lycoperdon-perlatum-flaschenstäubling)\
 20.01.2025: [Xylaria hypoxylon - Geweihförmige Holzkeule](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)\
