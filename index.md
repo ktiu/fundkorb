@@ -68,7 +68,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 Geopora cooperi - Trüffel-Sandborstling
 
-Es ist immer eine große Freude, wenn man einen sehr seltenen Pilz zu Gesicht bekommt. Um so mehr, wenn man auf den ersten Blick glauben könnte, eine echte Trüffel vor sich zu haben, zumal das seltsame Objekt auch noch unterirdisch (*hypogäisch*) gewachsen ist oder nur mit dem Scheitel an die Oberfläche erreicht hat. Es handelt sich aber um einen äußerst seltenen Verwandten des [Zedern-Sandborstlings Geopora sumneriana](/pilze/geopora-sumneriana-zedern-sandborstling), der allerdings nicht bei Zedern sondern ihne jede Mykorhhiza-Bindung vorkommt. (Bernd Miggel) [Mehr lesen >](/pilze/geopora-cooperi-trüffel-sandborstling)
+Es ist immer eine große Freude, wenn man einen sehr seltenen Pilz zu Gesicht bekommt. Um so mehr, wenn man auf den ersten Blick glauben könnte, eine echte Trüffel vor sich zu haben, zumal das seltsame Objekt auch noch unterirdisch (*hypogäisch*) gewachsen ist oder nur mit dem Scheitel die Oberfläche erreicht hat. Es handelt sich aber um einen äußerst seltenen Verwandten des [Zedern-Sandborstlings Geopora sumneriana](/pilze/geopora-sumneriana-zedern-sandborstling), der allerdings nicht bei Zedern sondern ihne jede Mykorhhiza-Bindung vorkommt. (Bernd Miggel) [Mehr lesen >](/pilze/geopora-cooperi-trüffel-sandborstling)
 
 <div style="clear:  both"></div>
 
