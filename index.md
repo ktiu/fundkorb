@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/panellus_stipticus_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+25.01.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Herbe Zwergknäueling *Panellus stipticus*, kommt im Herbst und Winter vornehmlich an Eichen- und Buchenstümpfen vor und wächst oft ringförmig am Rand der Schnittflächen. Die Geschmacksprobe fällt eher mild aus, dann scharf statt herb. Ob er wie ein amerikanischer Stamm dieser Art zum Leuchten fähig ist, scheint ungeklärt zu sein. *"Foxfire"* oder *"shining wood"*, also *„leuchtendes Holz“*, bezeichnet die Biolumineszenz von bestimmten, auf verrottendem Holz wachsenden Pilzen. Beim Herben Zwergknäueling sollen sowohl das Myzel als auch Fruchtkörper im Dunkeln leuchten. (Ulrike Wegner) [Mehr lesen >](/pilze/panellus-stipticus-herber-zwergknäueling)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cladonia_coniocraea_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -41,14 +49,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 21.01.2025: So sehen Flaschenstäublinge (*Lycoperdon perlatum*) mitten im Winter aus und behalten dieses Erscheinungsbild mitunter bis ins Frühjahr. Damit haben wir also einen aktuellen [Fundkorbpilz](AA "Glossar-"), der uns das ganze Jahr über begleiten kann. Essbar ist er übrigens auch und manche finden ihn sogar richtig lecker. Andere lehnen ihn strikt ab und vergleichen ihn mit Marshmallows. Kinder habe ihren Spaß mit ihnen und nennen sie gern Staubbomben oder Puffpilze. (Dieter Gewalt) [Mehr lesen >](/pilze/lycoperdon-perlatum-flaschenstäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_hypoxylon_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.01.2025:  Aktueller [Fundkorbpilz](AA "Glossar-") ist die Geweihförmige Holzkeule *Xylaria hypoxylon*, eine unverwechselbare Art, die das ganze Jahr über an totem Lauholz zu finden ist. Am häufigsten besiedelt sie scharenweise die Schnittflächen von Buchenstümpfen. Der zierliche Pilz zeigt sich in zwei unterschiedlichen Stadien. Als komplett schwarze Keulchen oder mit weißen, beim Anschnippen stäubenden Spitzen. Diese sind so vielgestaltig, dass kaum einmal eine einer anderen gleicht. (Dieter Gewalt) [Mehr lesen >](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)
 
 <div style="clear:  both"></div>
 
