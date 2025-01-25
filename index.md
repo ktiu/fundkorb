@@ -14,6 +14,14 @@ Neuer Exkursionstermin:\
 Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 [Hier geht's zur Anmeldung >](/termine)
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/strobilurus_esculentus_04_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+26.01.2025: Bei einem kleinen steifstieligen Blätterpilz und der Merkmalskombination *„an Fichtenzapfen + milder Geschmack + frühe Erscheinungszeit“* ist die Diagnose naheliegend. Da kann es sich eigentlich nur um den  Fichtenzapfenrübling *Strobilurus esculentus* handeln. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist sogar ein guter Speisepilz, allerdings muss man schon fleißig sammeln, um eine zubereitungswürdige Menge zusammenzubekommen. Und die zähen Stiele weglassen. (Dieter Gewalt) [Mehr lesen >](/pilze/strobilurus-esculentus-fichtenzapfenrübling)
+
+<div style="clear:  both"></div>
+
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
