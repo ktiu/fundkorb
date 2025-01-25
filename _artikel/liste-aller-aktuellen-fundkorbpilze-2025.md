@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
-25.01.2025: [Panellus stipticus - Herber Zwergknäueling](/pilze/panellus-stipticus-herber-zwergknäueling)  
+26.01.2025: [Strobilurus esculentus - Fichtenzapfenrübling](/pilze/strobilurus-esculentus-fichtenzapfenrübling)  
+25.01.2025: [Panellus stipticus - Herber Zwergknäueling](/pilze/panellus-stipticus-herber-zwergknäueling)\
 24.01.2025: [Cladonia coniocrea - Gewöhnliche Säulenflechte](/pilze/cladonia-coniocraea-gewöhnliche-säulenflechte)\
 23.01.2025: [Tubaria furfuracea - Gemeiner Trompetenschnitzling](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)\
 22.01.2025: [Polyporus brumalis - Winterporling](/pilze/polyporus-brumalis-winterporling)\
