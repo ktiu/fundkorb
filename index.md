@@ -14,6 +14,16 @@ Neuer Exkursionstermin:\
 Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 [Hier geht's zur Anmeldung >](/termine)
 
+- - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_strobilicola_01_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+27.01.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Fichtenzapfenhelmling *Mycena strobilicola*,  wird man in Hessen schwer finden. Auf der Kartierungseite der DgfM sind nur 3 Funde ganz im Süden verzeichnet. Ganz anders sieht es da im Süden Bayerns aus. Dort ist der kleine Pilz mit etwas Glück bereits jetzt schon zu finden. Spätestens Mitte Februar erscheint er fast in jedem Fichtenforst. Der Helmling ist makroskopisch leicht zu bestimmen, da er auf vorjährigen meist vergrabenen Fichtenzapfen wächst. Dabei können an einem Zapfen an die 20 Fruchtkörper gleichzeitig erscheinen. Um sicher zu sein, dass man nicht den zur gleichen Zeit erscheinenden [Fichtenzapfenrübling *Strobilurus esculentus*](/pilze/strobilurus-esculentus-fichtenzapfenrübling) gefunden hat, braucht man nur an der Hutunterseite zu riechen. Es sollte nach Chlor riechen (Schwimmbadgeruch). (Johann Rejek) [Mehr lesen >](/pilze/mycena-strobilicola-fichtenzapfenhelmling)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/strobilurus_esculentus_04_jr.jpg" %}
 {% include abbildung_ende.html %}
@@ -21,8 +31,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 26.01.2025: Bei einem kleinen steifstieligen Blätterpilz und der Merkmalskombination *„an Fichtenzapfen + milder Geschmack + frühe Erscheinungszeit“* ist die Diagnose naheliegend. Da kann es sich eigentlich nur um den  Fichtenzapfenrübling *Strobilurus esculentus* handeln. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist sogar ein guter Speisepilz, allerdings muss man schon fleißig sammeln, um eine zubereitungswürdige Menge zusammenzubekommen. Und die zähen Stiele weglassen. (Dieter Gewalt) [Mehr lesen >](/pilze/strobilurus-esculentus-fichtenzapfenrübling)
 
 <div style="clear:  both"></div>
-
-- - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/panellus_stipticus_01_dg.jpeg" %}
@@ -45,18 +53,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 23.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Trompetenschnitzling  *Tubaria furfuracea*. Er ist einer von den unzähligen *Little Brown Mushrooms*, und diese sind bekanntermaßen nicht einfach zu bestimmen. Die Kombination von Merkmalen wie Hutgröße und -farbe, [Hygrophanität](hygrophan "Glossar"), Lamelleneigenschaften, Stielbeschaffenheit und das meist gesellige Wachstum auf Totholz führen jedoch auf die Zielgerade. Übrigens gibt es einige Autoren, die den im Winter erscheinenden Fruchtkörpern eine eigene Art zuordnen. Er heißt dann Winter-Trompetenschnitzling *Tubaria hiemalis*. (Johann Rejek) [Mehr lesen >](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_brumalis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.01.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") weist in seinem deutschen Namen auf seine Erscheinungszeit hin. Es ist der Winterporling *Lentinus brumalis*. Er wächst auf Ästen von totem Laubholz und ist derzeit in fast jedem Mischwald zu finden. Wie man vermuten kann, könnte es auch einen Sommerporling geben. Dem ist tatsächlich so, nur lautet der deutsche Name [Maiporling *Polyporus ciliatus*](/pilze/polyporus-ciliatus-maiporling).  Außer der Erscheinungszeit gibt es noch einen makroskopischen Unterschied. *Lentinus brumalis* besitzt größere Poren, die in ihrer Form eher einer Raute ähneln als einem Kreis. (Johann Rejek) [Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lycoperdon_perlatum_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.01.2025: So sehen Flaschenstäublinge (*Lycoperdon perlatum*) mitten im Winter aus und behalten dieses Erscheinungsbild mitunter bis ins Frühjahr. Damit haben wir also einen aktuellen [Fundkorbpilz](AA "Glossar-"), der uns das ganze Jahr über begleiten kann. Essbar ist er übrigens auch und manche finden ihn sogar richtig lecker. Andere lehnen ihn strikt ab und vergleichen ihn mit Marshmallows. Kinder habe ihren Spaß mit ihnen und nennen sie gern Staubbomben oder Puffpilze. (Dieter Gewalt) [Mehr lesen >](/pilze/lycoperdon-perlatum-flaschenstäubling)
 
 <div style="clear:  both"></div>
 
