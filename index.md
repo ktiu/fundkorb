@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_pomaceus_04_dg-.jpg" %}
+{% include abbildung_ende.html %}
+
+28.01.2025: Um einen aktuellen [Fundkorbpilz](AA "Glossar-") zu sehen, brauche ich nur vor unsere Haustür und von da einen Meter nach rechts zu gehen. Da steht ein Blutpflaumenbaum und an seinem Stamm wächst seit Jahren der Pflaumen-Feuerschwamm *Phellinus pomaceus*. Er ist zwar ein Parasit, der eine Weißfäule im Holz erzeugt, aber besonders aggressiv ist er nicht. Der befallene Baum hat noch eine lange Lebenszeit vor sich hat und trägt weiterhin Früchte. (Dieter Gewalt) [Mehr lesen >](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_strobilicola_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
