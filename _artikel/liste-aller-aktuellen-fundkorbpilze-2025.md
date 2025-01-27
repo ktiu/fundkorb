@@ -2,8 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
-27.01.2025: [Mycena strobilicola - Fichtenzapfenhelmling](/pilze/mycena-strobilicola-fichtenzapfenhelmling)  
-26.01.2025: [Strobilurus esculentus - Fichtenzapfenrübling](/pilze/strobilurus-esculentus-fichtenzapfenrübling)  
+28.01.2025: [Phellinus pomaceus - Pflaumen-Feuerschwamm](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)  
+27.01.2025: [Mycena strobilicola - Fichtenzapfenhelmling](/pilze/mycena-strobilicola-fichtenzapfenhelmling)\
+26.01.2025: [Strobilurus esculentus - Fichtenzapfenrübling](/pilze/strobilurus-esculentus-fichtenzapfenrübling)\
 25.01.2025: [Panellus stipticus - Herber Zwergknäueling](/pilze/panellus-stipticus-herber-zwergknäueling)\
 24.01.2025: [Cladonia coniocrea - Gewöhnliche Säulenflechte](/pilze/cladonia-coniocraea-gewöhnliche-säulenflechte)\
 23.01.2025: [Tubaria furfuracea - Gemeiner Trompetenschnitzling](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)\
