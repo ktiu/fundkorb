@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
-28.01.2025: [Phellinus pomaceus - Pflaumen-Feuerschwamm](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)  
+29.01.2025: [Lentinus adhaerens - Harziger Sägeblättling](/pilze/lentinus-adhaerens-harziger-sägeblättling)  
+28.01.2025: [Phellinus pomaceus - Pflaumen-Feuerschwamm](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)\
 27.01.2025: [Mycena strobilicola - Fichtenzapfenhelmling](/pilze/mycena-strobilicola-fichtenzapfenhelmling)\
 26.01.2025: [Strobilurus esculentus - Fichtenzapfenrübling](/pilze/strobilurus-esculentus-fichtenzapfenrübling)\
 25.01.2025: [Panellus stipticus - Herber Zwergknäueling](/pilze/panellus-stipticus-herber-zwergknäueling)\
