@@ -36,7 +36,14 @@ Mit dem Harzigen Sägeblättling *Lentinus adhaerens* haben wir einen „Winterp
 
 **Makroskopische Merkmale:**
 
-Die Hüte dieser nicht seltenen Art sind konvex, oft mit eingedelltem Zentrum. Sie werden bis zu 6 cm breit. Die Oberfläche kann man als filzig bis eingewachsen faserig bezeichnen, die Farbe als schmutzig beige bis ockerbraun. Die cremefarbenen bis milchkaffeebraunen Lamellen laufen weit am Stiel herab und sind stark mit Lamelletten untermischt. Schaut man genau hin (Lupe), erkennt man die fein gesägte Schneide. Die Stiele liegen zentral bis exzentrisch unter dem Hut, sie sind feinfilzig und bräunlich, im oberen Bereich durch die herablaufenden Lamellen gerillt. Das Fleisch ist zäh-elastisch und cremefarben, im Geruch angenehm, im Geschmack bitterlich und im Hals etwas kratzend. Der gesamte Fruchtkörper ist stark harzig-klebrig, was  man beim Zusammendrücken zwischen Daumen und Zeigefinger leicht feststellen kann. Der Sporenstaub ist weiß.
+Die Hüte dieser nicht seltenen Art sind konvex, oft mit eingedelltem Zentrum. Sie werden bis zu 6 cm breit. Die Oberfläche kann man als filzig bis eingewachsen faserig bezeichnen, die Farbe als schmutzig beige bis ockerbraun. Die cremefarbenen bis milchkaffeebraunen Lamellen laufen weit am Stiel herab und sind stark mit Lamelletten untermischt. Schaut man genau hin (Lupe), erkennt man die fein gesägte Schneide. Die Stiele liegen zentral bis exzentrisch unter dem Hut, sie sind feinfilzig und bräunlich, im oberen Bereich durch die herablaufenden Lamellen gerillt.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/lentinus_adhaerens_01_us.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/lentinus_adhaerens_02_us.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html %}
+
+Das Fleisch ist zäh-elastisch und cremefarben, im Geruch angenehm, im Geschmack bitterlich und im Hals etwas kratzend. Der gesamte Fruchtkörper ist stark harzig-klebrig, was  man beim Zusammendrücken zwischen Daumen und Zeigefinger leicht feststellen kann. Der Sporenstaub ist weiß.
 
 **Mikroskopische Merkmale:**
 
