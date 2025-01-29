@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/heterobasidion_annosum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wurzelschwamm *Heterobasidion annosum*. Bei Forstleuten ist er nicht gern gesehen. Als gefürchteter Baumschädling kann er Millionenschäden anrichten. Er befällt vor allem Fichten, Tannen und Kiefern und verursacht eine intensive Weißfäule, die nicht selten mit starkem Harzfluss verbunden ist. Die Infektion erfolgt meist über die Baumwurzeln. Neuerdings werden wirtsabhängig drei europäische Arten unterschieden, die sich morphologisch nur unwesentlich unterscheiden. Auch die Sporenmaße sind nahezu identisch. (Dieter Gewalt) Mehr lesen >
+
+ <div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lentinus_adhaerens_01_us.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -55,22 +63,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 25.01.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Herbe Zwergknäueling *Panellus stipticus*, kommt im Herbst und Winter vornehmlich an Eichen- und Buchenstümpfen vor und wächst oft ringförmig am Rand der Schnittflächen. Die Geschmacksprobe fällt eher mild aus, dann scharf statt herb. Ob er wie ein amerikanischer Stamm dieser Art zum Leuchten fähig ist, scheint ungeklärt zu sein. *"Foxfire"* oder *"shining wood"*, also *„leuchtendes Holz“*, bezeichnet die Biolumineszenz von bestimmten, auf verrottendem Holz wachsenden Pilzen. Beim Herben Zwergknäueling sollen sowohl das Myzel als auch Fruchtkörper im Dunkeln leuchten. (Ulrike Wegner) [Mehr lesen >](/pilze/panellus-stipticus-herber-zwergknäueling)
 
 <div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cladonia_coniocraea_03_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-24.01.2025: Es gibt eine Gruppe von Pilzen, die auch in der pilzarmen Zeit zuverlässig anzutreffen sind: Flechten. Eine von ihnen, die Gewöhnliche Säulenflechte *Cladonia coniocraea*, soll daher unser heutiger [Fundkorbpilz](AA "Glossar-") sein. Diese auffällige, nicht seltene und weit verbreitete Blattflechte ist vor allem auf Totholz (Stümpfe, Stammbasis, auf Moosen) zu finden. Sie besteht aus grundständigen Lappen und aufrechten, oft verbogenen, unverzweigten Säulen. Die Lappen sind auf der Oberseite graugrün, die Unterseite ist weiß. (Dieter Gewalt) [Mehr lesen >](/pilze/cladonia-coniocraea-gewöhnliche-säulenflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tubaria_furfuracea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Trompetenschnitzling  *Tubaria furfuracea*. Er ist einer von den unzähligen *Little Brown Mushrooms*, und diese sind bekanntermaßen nicht einfach zu bestimmen. Die Kombination von Merkmalen wie Hutgröße und -farbe, [Hygrophanität](hygrophan "Glossar"), Lamelleneigenschaften, Stielbeschaffenheit und das meist gesellige Wachstum auf Totholz führen jedoch auf die Zielgerade. Übrigens gibt es einige Autoren, die den im Winter erscheinenden Fruchtkörpern eine eigene Art zuordnen. Er heißt dann Winter-Trompetenschnitzling *Tubaria hiemalis*. (Johann Rejek) [Mehr lesen >](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
-
-<div style="clear:  both"></div>
 
 - - -
 
