@@ -5,6 +5,7 @@ beschreibung:
   referenz: "(Bull.) P. Karst 1881 "
   familie: Fomitopsidaceae
   erlaeuterung: betulinus = zur Birke (Betula sp.) gehörig
+  synonym: "neuer Name: Fomitopsis betulina"
 profil:
   aktualisiert: 2020-08-12
   autor_in: Dieter Gewalt
