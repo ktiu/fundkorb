@@ -20,7 +20,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/heterobasidion_annosum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-30.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wurzelschwamm *Heterobasidion annosum*. Bei Forstleuten ist er nicht gern gesehen. Als gefürchteter Baumschädling kann er Millionenschäden anrichten. Er befällt vor allem Fichten, Tannen und Kiefern und verursacht eine intensive Weißfäule, die nicht selten mit starkem Harzfluss verbunden ist. Die Infektion erfolgt meist über die Baumwurzeln. Neuerdings werden wirtsabhängig drei europäische Arten unterschieden, die sich morphologisch nur unwesentlich unterscheiden. Auch die Sporenmaße sind nahezu identisch. (Dieter Gewalt) Mehr lesen >
+30.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wurzelschwamm *Heterobasidion annosum*. Bei Forstleuten ist er nicht gern gesehen. Als gefürchteter Baumschädling kann er Millionenschäden anrichten. Er befällt vor allem Fichten, Tannen und Kiefern und verursacht eine intensive Weißfäule, die nicht selten mit starkem Harzfluss verbunden ist. Die Infektion erfolgt meist über die Baumwurzeln. Neuerdings werden wirtsabhängig drei europäische Arten unterschieden, die sich morphologisch nur unwesentlich unterscheiden. Auch die Sporenmaße sind nahezu identisch. (Dieter Gewalt) [Mehr lesen >](/pilze/heterobasidion-annosum-wurzelschwamm)
 
  <div style="clear:  both"></div>
 
