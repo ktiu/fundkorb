@@ -20,7 +20,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/lentinus_adhaerens_01_us.jpg" %}
 {% include abbildung_ende.html %}
 
-29.01.2025: [Fundkorbpilz](AA "Glossar-") Bei einem Spaziergang im Schwarzwald bei Königsfeld (Höhe ca. 750m NN) habe ich an Schnittstellen von Nadelbäumen die hier abgebildeten Pilze entdeckt und einen Fruchtkörper entnommen. Nach einer leichten Erwärmung in der Hand blieben die Lamellen am Finger kleben. Damit war mir klar: es konnte nur der Harzige Sägeblättling *Lentinus adhaerens* sein, unser aktueller [Fundkorbpilz](AA "Glossar-"). Mit der Lupe kann man die harzigen und für den klebrigen Kontakt verantwortlichen Tröpfchen auf der Lamellenschneide gut erkennen. (Udo Schäfer) [Mehr lesen >](/pilze/lentinus-adhaerens-harziger-sägeblättling)
+29.01.2025: Bei einem Spaziergang im Schwarzwald bei Königsfeld (Höhe ca. 750m NN) habe ich an Schnittstellen von Nadelbäumen die hier abgebildeten Pilze entdeckt und einen Fruchtkörper entnommen. Nach einer leichten Erwärmung in der Hand blieben die Lamellen am Finger kleben. Damit war mir klar: es konnte nur der Harzige Sägeblättling *Lentinus adhaerens* sein, unser aktueller [Fundkorbpilz](AA "Glossar-"). Mit der Lupe kann man die harzigen und für den klebrigen Kontakt verantwortlichen Tröpfchen auf der Lamellenschneide gut erkennen. (Udo Schäfer) [Mehr lesen >](/pilze/lentinus-adhaerens-harziger-sägeblättling)
 
 <div style="clear:  both"></div>
 
