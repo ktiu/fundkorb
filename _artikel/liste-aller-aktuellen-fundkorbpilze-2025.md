@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
-30.01.2025: [Heterobasidion annosum - Wurzelschwamm](/pilze/heterobasidion-annosum-wurzelschwamm)  
+31.01.2025: [Hygrophoropsis aurantiaca - Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)
+30.01.2025: [Heterobasidion annosum - Wurzelschwamm](/pilze/heterobasidion-annosum-wurzelschwamm)\
 29.01.2025: [Lentinus adhaerens - Harziger Sägeblättling](/pilze/lentinus-adhaerens-harziger-sägeblättling)\
 28.01.2025: [Phellinus pomaceus - Pflaumen-Feuerschwamm](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)\
 27.01.2025: [Mycena strobilicola - Fichtenzapfenhelmling](/pilze/mycena-strobilicola-fichtenzapfenhelmling)\
