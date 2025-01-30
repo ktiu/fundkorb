@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+31.01.2025: Auch Ende Januar kann man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Falschen Pfifferling *Hygrophoropsis aurantiaca* in unseren Wäldern finden. Wegen seiner orangegelben Farbe und der stark gegabelten Lamellen wird er auch Orangegelber Gabelblättling genannt. Weitere Namen sind Orangebrauner oder Gemeiner Afterleistling. Allerdings bildet der Falsche Pfifferling keine Leisten (Ausbuchtungen des Fruchtfleisches) wie beim Echten Pfifferling, sondern echte Lamellen (angeheftete Blättchen) aus. (Roland Heil) [Mehr lesen >](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/heterobasidion_annosum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -55,14 +63,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 26.01.2025: Bei einem kleinen steifstieligen Blätterpilz und der Merkmalskombination *„an Fichtenzapfen + milder Geschmack + frühe Erscheinungszeit“* ist die Diagnose naheliegend. Da kann es sich eigentlich nur um den  Fichtenzapfenrübling *Strobilurus esculentus* handeln. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist sogar ein guter Speisepilz, allerdings muss man schon fleißig sammeln, um eine zubereitungswürdige Menge zusammenzubekommen. Und die zähen Stiele weglassen. (Dieter Gewalt) [Mehr lesen >](/pilze/strobilurus-esculentus-fichtenzapfenrübling)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/panellus_stipticus_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-25.01.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Herbe Zwergknäueling *Panellus stipticus*, kommt im Herbst und Winter vornehmlich an Eichen- und Buchenstümpfen vor und wächst oft ringförmig am Rand der Schnittflächen. Die Geschmacksprobe fällt eher mild aus, dann scharf statt herb. Ob er wie ein amerikanischer Stamm dieser Art zum Leuchten fähig ist, scheint ungeklärt zu sein. *"Foxfire"* oder *"shining wood"*, also *„leuchtendes Holz“*, bezeichnet die Biolumineszenz von bestimmten, auf verrottendem Holz wachsenden Pilzen. Beim Herben Zwergknäueling sollen sowohl das Myzel als auch Fruchtkörper im Dunkeln leuchten. (Ulrike Wegner) [Mehr lesen >](/pilze/panellus-stipticus-herber-zwergknäueling)
-
-<div style="clear:  both"></div> 
 
 - - -
 
