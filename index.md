@@ -20,7 +20,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/xanthoria_parietina_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-02.02.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist eine der häufigsten und auch bekanntesten Blattflechten in Deutschland. Es ist die Gewöhnliche Gelbflechte *Xanthoria parietina*. Man findet diese intensiv gelb- und orangefarbene Flechte vorwiegend an der Rinde verschiedener Baumarten, wobei sie durchaus auch auf Mauern, Steinen und Metall vorkommen kann. Bereits mit bloßem Auge sind die vielen kreisrunden becherartigen Fruchtkörper (Apothecien) zu erkennen, die sich deutlich von dem blattartigen Untergrund (Lager) abheben. (Johann Rejek) [Mehr lesen >](/pilze/xanthoria-parietina)
+02.02.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist eine der häufigsten und auch bekanntesten Blattflechten in Deutschland. Es ist die Gewöhnliche Gelbflechte *Xanthoria parietina*. Man findet diese intensiv gelb- und orangefarbene Flechte vorwiegend an der Rinde verschiedener Baumarten, wobei sie durchaus auch auf Mauern, Steinen und Metall vorkommen kann. Bereits mit bloßem Auge sind die vielen kreisrunden becherartigen Fruchtkörper [(Apothecien)](Apothecien "Glossar") zu erkennen, die sich deutlich von dem blattartigen Untergrund (Lager) abheben. (Johann Rejek) [Mehr lesen >](/pilze/xanthoria-parietina)
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/piptoporus_betulinus_01_dg.jpg" %}
