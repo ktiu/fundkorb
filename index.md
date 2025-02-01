@@ -26,7 +26,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/piptoporus_betulinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-01.02.2025: Wer unseren aktuellen [Fundkorbpilz](AA "Glossar-") finden will, der muss sich auf die Suche nach abgestorbenen Birken machen. Der Birkenporling *Piptoporus betulinus* wächst ausschließlich am Totholz stehender oder liegender Birken und erzeugt dort eine Braunfäule. Oft sind es mehrere konsolenartige Fruchtkörper an einem Stamm. Durch die lederartige Hutoberfläche ist er einfach zu bestimmen. Er ist zwar kein Speisepilz, jedoch wird er in getrockneter Form als Vital- und Heilpilz gehandelt. (Johann Rejek) [Mehr lesen >](/pilze/piptoporus-betulinus-birkenporling)
+01.02.2025: Wer unseren aktuellen [Fundkorbpilz](AA "Glossar-") finden will, der muss sich auf die Suche nach abgestorbenen Birken machen. Der Birkenporling *Piptoporus betulinus* wächst nämlich ausschließlich am Totholz stehender oder liegender Birken und erzeugt dort eine Braunfäule. Oft sind es mehrere konsolenartige Fruchtkörper an einem Stamm. Durch die lederartige Hutoberfläche ist er einfach zu bestimmen. Er ist zwar kein Speisepilz, jedoch wird er in getrockneter Form als Vital- und Heilpilz gehandelt. (Johann Rejek) [Mehr lesen >](/pilze/piptoporus-betulinus-birkenporling)
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
