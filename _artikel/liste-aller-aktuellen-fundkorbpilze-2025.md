@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
+02.02.2025: [Xanthoria parietina - Gewöhnliche Gelbflechte](/pilze/xanthoria-parietina)  
 01.02.2025: [Piptopurus betulinus - Birkenporling](/pilze/piptoporus-betulinus-birkenporling)
   
 31.01.2025: [Hygrophoropsis aurantiaca - Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)\
