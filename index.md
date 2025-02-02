@@ -26,7 +26,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/piptoporus_betulinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-01.02.2025: Kaum ein anderer Porling ist so wirtstreu wie unser aktueller [Fundkorbpilz](AA "Glossar-"), der Birkenporling Piptoporus betulinus. Er wächst ausschließlich an totem Birkenholz, egal ob die Stämme noch stehen oder am Boden liegen. Meist findet man mehrere Fruchtkörper an einem Stamm, die oft knäuelig miteinander verwachsen sind. An seiner lederartigen grauen Hutoberfläche und der weißen Porenschicht ist er gut zu erkennen. Die Poren sind so fein, dass sie nur mit der Lupe zu sehen sind. Er ist zwar kein Speisepilz, gilt jedoch als Vital- und Heilpilz. (Johann Rejek) [Mehr lesen >](/pilze/piptoporus-betulinus-birkenporling)
+01.02.2025: Kaum ein anderer Porling ist so wirtstreu wie unser aktueller [Fundkorbpilz](AA "Glossar-"), der Birkenporling *Piptoporus betulinus*. Er wächst ausschließlich an totem Birkenholz, egal ob die Stämme noch stehen oder am Boden liegen. Meist findet man mehrere Fruchtkörper an einem Stamm, die oft knäuelig miteinander verwachsen sind. An seiner lederartigen grauen Hutoberfläche und der weißen Porenschicht ist er gut zu erkennen. Die Poren sind so fein, dass sie nur mit der Lupe zu sehen sind. Er ist zwar kein Speisepilz, gilt jedoch als Vital- und Heilpilz. (Johann Rejek) [Mehr lesen >](/pilze/piptoporus-betulinus-birkenporling)
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
@@ -51,7 +51,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 29.01.2025: Bei einem Spaziergang im Schwarzwald bei Königsfeld (Höhe ca. 750m NN) habe ich an Schnittstellen von Nadelbäumen die hier abgebildeten Pilze entdeckt und einen Fruchtkörper entnommen. Nach einer leichten Erwärmung in der Hand blieben die Lamellen am Finger kleben. Damit war mir klar: es konnte nur der Harzige Sägeblättling *Lentinus adhaerens* sein, unser aktueller [Fundkorbpilz](AA "Glossar-"). Mit der Lupe kann man die harzigen und für den klebrigen Kontakt verantwortlichen Tröpfchen auf der Lamellenschneide gut erkennen. (Udo Schäfer) [Mehr lesen >](/pilze/lentinus-adhaerens-harziger-sägeblättling)
 
 <div style="clear:  both"></div>
-
 
 - - -
 
