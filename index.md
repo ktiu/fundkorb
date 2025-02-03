@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/exidia_plana_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.02.2025: Den heutigen [Fundkorbpilz](AA "Glossar-"), den Warzigen Drüsling *Exidia plana*, findet man ganzjährig auf abgestorbenen Laubholzästen. Seiner schwarzen Farbe, seiner gelartigen Konsistenz sowie den feinen Drüsen auf der Fruchtschicht verdankt er seinen volkstümlichen Namen „Hexenbutter“. Bei längerer Trockenheit schrumpft er zu einer schwarzblau glänzenden Kruste zusammen, die den befallenen Ast wie lackiert aussehen lässt. Bei wiederkehrender Feuchtigkeit nimmt sie wieder ihre ursprüngliche Form an. (Roland Heil) [Mehr lesen >](/pilze/exidia-plana-warziger-drüsling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lentinellus_ursinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -41,22 +49,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 31.01.2025: Auch Ende Januar kann man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Falschen Pfifferling *Hygrophoropsis aurantiaca* in unseren Wäldern finden. Wegen seiner orangegelben Farbe und der stark gegabelten Lamellen wird er auch Orangegelber Gabelblättling genannt. Weitere Namen sind Orangebrauner oder Gemeiner Afterleistling. Allerdings bildet der Falsche Pfifferling keine Leisten (Ausbuchtungen des Fruchtfleisches) wie beim Echten Pfifferling, sondern echte Lamellen (angeheftete Blättchen) aus. (Roland Heil) [Mehr lesen >](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/heterobasidion_annosum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.01.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wurzelschwamm *Heterobasidion annosum*. Bei Forstleuten ist er nicht gern gesehen. Als gefürchteter Baumschädling kann er Millionenschäden anrichten. Er befällt vor allem Fichten, Tannen und Kiefern und verursacht eine intensive Weißfäule, die nicht selten mit starkem Harzfluss verbunden ist. Die Infektion erfolgt meist über die Baumwurzeln. Neuerdings werden wirtsabhängig drei europäische Arten unterschieden, die sich morphologisch nur unwesentlich unterscheiden. Auch die Sporenmaße sind nahezu identisch. (Dieter Gewalt) [Mehr lesen >](/pilze/heterobasidion-annosum-wurzelschwamm)
-
- <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lentinus_adhaerens_01_us.jpg" %}
-{% include abbildung_ende.html %}
-
-29.01.2025: Bei einem Spaziergang im Schwarzwald bei Königsfeld (Höhe ca. 750m NN) habe ich an Schnittstellen von Nadelbäumen die hier abgebildeten Pilze entdeckt und einen Fruchtkörper entnommen. Nach einer leichten Erwärmung in der Hand blieben die Lamellen am Finger kleben. Damit war mir klar: es konnte nur der Harzige Sägeblättling *Lentinus adhaerens* sein, unser aktueller [Fundkorbpilz](AA "Glossar-"). Mit der Lupe kann man die harzigen und für den klebrigen Kontakt verantwortlichen Tröpfchen auf der Lamellenschneide gut erkennen. (Udo Schäfer) [Mehr lesen >](/pilze/lentinus-adhaerens-harziger-sägeblättling)
 
 <div style="clear:  both"></div>
 
