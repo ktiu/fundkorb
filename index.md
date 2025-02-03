@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinellus_ursinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.02.2025: Wo umgestürzte Stämme bis zur finalen Verrottung liegen bleiben dürfen, haben Pilze einen maßgeblichen Anteil am für die Natur so nützlichen Recyclingprozess. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den recht seltenen Geschichteten Zähling *Lentinellus ursinus*, der im Frankfurter Stadtwald gerade dabei ist, einen toten Eichenstamm zu „bearbeiten“. Der botanische Name (von *urs* = Bär) weist auf die braune Hutfarbe hin. Seine Verwandtschaftsverhältnisse sind nicht für jeden nachvollziehbar. Er gehört zur Familie der *Auriscalpiaceae*, den Ohrlöffelstachelingsverwandten. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinellus-ursinus-geschichteter-zähling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xanthoria_parietina_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
