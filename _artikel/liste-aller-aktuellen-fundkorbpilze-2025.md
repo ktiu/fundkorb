@@ -2,9 +2,10 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
-02.02.2025: [Xanthoria parietina - Gewöhnliche Gelbflechte](/pilze/xanthoria-parietina)  
+03.02.2023: [Lentinellus ursinus - Geschichteter Zähling](/pilze/lentinellus-ursinus-geschichteter-zähling)  
+02.02.2025: [Xanthoria parietina - Gewöhnliche Gelbflechte](/pilze/xanthoria-parietina)\
 01.02.2025: [Piptopurus betulinus - Birkenporling](/pilze/piptoporus-betulinus-birkenporling)
-  
+
 31.01.2025: [Hygrophoropsis aurantiaca - Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)\
 30.01.2025: [Heterobasidion annosum - Wurzelschwamm](/pilze/heterobasidion-annosum-wurzelschwamm)\
 29.01.2025: [Lentinus adhaerens - Harziger Sägeblättling](/pilze/lentinus-adhaerens-harziger-sägeblättling)\
