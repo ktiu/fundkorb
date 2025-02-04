@@ -16,6 +16,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lycogala_epidendrum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.02.2025: [Schleimpilze](/verwandt/schleimpilze-myxomyzeten) sind merkwürdige Kreaturen, die ihren ersten Lebenszyklus als amöbenartige Lebewesen beginnen und sich dann wie Pilze mittels Sporen vermehren. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blutmilchpilz *Lycogala epidendrum* ist ganzjährig zu finden und vor allem jung, solange die kleinen Kügelchen noch schön rosa gefärbt sind, leicht zu erkennen. Später im Reifestadium verfärben sie sich über graugrün zu dunkelbraun, die Außenhaut reißt auf und die Sporen können entweichen. Sie wachsen gern auf totem oder vermorschten Holz. (Dieter Gewalt) [Mehr lesen >](/pilze/lycogala-epidendrum-blutmilchpilz)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/exidia_plana_02_dg.jpg" %}
 {% include abbildung_ende.html %}
