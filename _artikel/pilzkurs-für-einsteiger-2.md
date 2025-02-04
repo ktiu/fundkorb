@@ -72,5 +72,9 @@ Maronenröhrling: sehr gut, wenn auch nicht Steinpilzqualität
 Ziegenlippe: gut  
 Rotfußröhrling: mittelmäßig, aber immer noch gut genug, um ihn als Mischpilz zu verwenden
 
+[Pilzkurs für Einsteiger (1)](/artikel/pilzkurs-für-einsteiger-1.html)  
+[Pilzkurs für Einsteiger (3)](/artikel/pilzkurs-für-einsteiger-3.html)
+
+
 **Literatur:**\
 [https://de.wikipedia.org/wiki/Dickröhrlingsartige](https://de.wikipedia.org/wiki/Dickr%C3%B6hrlingsartige)
