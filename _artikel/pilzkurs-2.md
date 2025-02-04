@@ -1,5 +1,5 @@
 ---
-titel: Pilzkurs für Einsteiger (2)
+titel: Pilzkurs für Einsteiger (2-3)
 autor_in: Dieter Gewalt
 published: true
 ---
