@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
-04.02.2025: [Exidia plana - Warziger Drüsling](/pilze/exidia-plana-warziger-drüsling)  
+05.02.2025: [Lycogala epidendrum - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)  
+04.02.2025: [Exidia plana - Warziger Drüsling](/pilze/exidia-plana-warziger-drüsling)\
 03.02.2023: [Lentinellus ursinus - Geschichteter Zähling](/pilze/lentinellus-ursinus-geschichteter-zähling)\
 02.02.2025: [Xanthoria parietina - Gewöhnliche Gelbflechte](/pilze/xanthoria-parietina)\
 01.02.2025: [Piptopurus betulinus - Birkenporling](/pilze/piptoporus-betulinus-birkenporling)
