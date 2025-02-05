@@ -22,6 +22,8 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 06.02.2025: Wer jetzt in den Wäldern unterwegs ist, der könnte mit etwas Glück einem der farbenprächtigsten Pilze der Winterzeit begegnen. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Orangeseitling *Phyllotopsis nidulans*, hat orangefarbene muschelförmige Fruchtkörper und wächst an totem Laub- und Nadelholz. Meist wachsen sie gesellig und sind dadurch schon aus einiger Entfernung zu sehen. (Johann Rejek) [Mehr lesen >](/pilze/phyllotopsis-nidulans-orangeseitling)
 
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lycogala_epidendrum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
