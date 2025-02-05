@@ -24,7 +24,7 @@ Ein wunderschöner und farbenprächtiger Pilz, den man leider nicht alle Tage zu
 Orangeseitlinge sind muschelförmige ungestielte Pilze, die seitlich oder mit dem Scheitel am Holz angewachsen sind. Die orangegelben Hüte erreichen bis zu 7 cm Durchmesser, die Lamellen sind meist dunkler orange gefärbt. Die Huthaut ist striegelig filzig, der Hutrand lange eingerollt.
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/phyllotopsis_nidulans_03_gw.jpg" %}
+{% include bild.html datei="/bilder/phyllotopsis_nidulans_06_gw.jpg" %}
 {% include abbildung_ende.html legende="Foto: Gerd Wartha, Februar 2018 im Gersprenztal, Odenwald" %}
 
 {% include abbildung_start.html stil="mittel" %}
