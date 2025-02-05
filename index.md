@@ -17,6 +17,12 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phyllotopsis_nidulans_07_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+06.02.2025: Wer jetzt in den Wäldern unterwegs ist, der könnte mit etwas Glück einem der farbenprächtigsten Pilze der Winterzeit begegnen. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Orangeseitling *Phyllotopsis nidulans*, hat orangefarbene muschelförmige Fruchtkörper und wächst an totem Laub- und Nadelholz. Meist wachsen sie gesellig und sind dadurch schon aus einiger Entfernung zu sehen. (Johann Rejek) [Mehr lesen >](/pilze/phyllotopsis-nidulans-orangeseitling)
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lycogala_epidendrum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -51,12 +57,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 01.02.2025: Kaum ein anderer Porling ist so wirtstreu wie unser aktueller [Fundkorbpilz](AA "Glossar-"), der Birkenporling *Piptoporus betulinus*. Er wächst ausschließlich an totem Birkenholz, egal ob die Stämme noch stehen oder am Boden liegen. Meist findet man mehrere Fruchtkörper an einem Stamm, die oft knäuelig miteinander verwachsen sind. An seiner lederartigen grauen Hutoberfläche und der weißen Porenschicht ist er gut zu erkennen. Die Poren sind so fein, dass sie nur mit der Lupe zu sehen sind. Er ist zwar kein Speisepilz, gilt jedoch als Vital- und Heilpilz. (Johann Rejek) [Mehr lesen >](/pilze/piptoporus-betulinus-birkenporling)
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-31.01.2025: Auch Ende Januar kann man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Falschen Pfifferling *Hygrophoropsis aurantiaca* in unseren Wäldern finden. Wegen seiner orangegelben Farbe und der stark gegabelten Lamellen wird er auch Orangegelber Gabelblättling genannt. Weitere Namen sind Orangebrauner oder Gemeiner Afterleistling. Allerdings bildet der Falsche Pfifferling keine Leisten (Ausbuchtungen des Fruchtfleisches) wie beim Echten Pfifferling, sondern echte Lamellen (angeheftete Blättchen) aus. (Roland Heil) [Mehr lesen >](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)
 
 <div style="clear:  both"></div>
 
