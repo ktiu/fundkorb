@@ -20,7 +20,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/junghuhnia_nitida_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-07.02.2025: Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") kommen auf einen Millimeter [Hymenium](Hymenium "Glossar") fünf bis sieben Poren. Die sind beim Schönfarbigen Resupinatporling *Junghuhnia nitida* mit bloßem Auge also kaum zu erkennen. Dazu ist der schön orange bis lachsgelb gefärbte Pilz etwas für Stöckchendreher, die in Buchenwäldern mit viel am Boden liegendem Totholz gute Chancen haben, ihn zu finden. Und immer eine Lupe dabeihaben. (Dieter Gewalt) Mehr lesen >
+07.02.2025: Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") kommen auf einen Millimeter [Hymenium](Hymenium "Glossar") fünf bis sieben Poren. Die sind beim Schönfarbigen Resupinatporling *Junghuhnia nitida* mit bloßem Auge also kaum zu erkennen. Dazu ist der schön orange bis lachsgelb gefärbte Pilz etwas für Stöckchendreher, die in Buchenwäldern mit viel am Boden liegendem Totholz gute Chancen haben, ihn zu finden. Und immer eine Lupe dabeihaben. (Dieter Gewalt) [Mehr lesen >](/pilze/junghuhnia-nitida-schönfarbiger-resupinatporling)
 
 <div style="clear:  both"></div>
 
