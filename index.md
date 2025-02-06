@@ -17,8 +17,17 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/junghuhnia_nitida_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.02.2025: Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") kommen auf einen Millimeter [Hymenium](Hymenium "Glossar") fünf bis sieben Poren. Die sind beim Schönfarbigen Resupinatporling *Junghuhnia nitida* mit bloßem Auge also kaum zu erkennen. Dazu ist der schön orange bis lachsgelb gefärbte Pilz etwas für Stöckchendreher, die in Buchenwäldern mit viel am Boden liegendem Totholz gute Chancen haben, ihn zu finden. Und immer eine Lupe dabeihaben. (Dieter Gewalt) Mehr lesen >
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phyllotopsis_nidulans_07_jr.jpg" %}
 {% include abbildung_ende.html %}
+
 06.02.2025: Wer jetzt in den Wäldern unterwegs ist, der könnte mit etwas Glück einem der farbenprächtigsten Pilze der Winterzeit begegnen. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Orangeseitling *Phyllotopsis nidulans*, hat orangefarbene muschelförmige Fruchtkörper und wächst an totem Laub- und Nadelholz. Meist wachsen sie gesellig und sind dadurch schon aus einiger Entfernung zu sehen. (Johann Rejek) [Mehr lesen >](/pilze/phyllotopsis-nidulans-orangeseitling)
 
 <div style="clear:  both"></div>
@@ -44,22 +53,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 03.02.2025: Wo umgestürzte Stämme bis zur finalen Verrottung liegen bleiben dürfen, haben Pilze einen maßgeblichen Anteil am für die Natur so nützlichen Recyclingprozess. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den recht seltenen Geschichteten Zähling *Lentinellus ursinus*, der im Frankfurter Stadtwald gerade dabei ist, einen toten Eichenstamm zu „bearbeiten“. Der botanische Name (von *urs* = Bär) weist auf die braune Hutfarbe hin. Seine Verwandtschaftsverhältnisse sind nicht für jeden nachvollziehbar. Er gehört zur Familie der *Auriscalpiaceae*, den Ohrlöffelstachelingsverwandten. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinellus-ursinus-geschichteter-zähling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xanthoria_parietina_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-02.02.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist eine der häufigsten und auch bekanntesten Blattflechten in Deutschland. Es ist die Gewöhnliche Gelbflechte *Xanthoria parietina*. Man findet diese intensiv gelb- und orangefarbene Flechte vorwiegend an der Rinde verschiedener Baumarten, wobei sie durchaus auch auf Mauern, Steinen und Metall vorkommen kann. Bereits mit bloßem Auge sind die vielen kreisrunden becherartigen Fruchtkörper [(Apothecien)](Apothecien "Glossar") zu erkennen, die sich deutlich von dem blattartigen Untergrund [(Lager)](Lager "Glossar") abheben. (Johann Rejek) [Mehr lesen >](/pilze/xanthoria-parietina)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/piptoporus_betulinus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.02.2025: Kaum ein anderer Porling ist so wirtstreu wie unser aktueller [Fundkorbpilz](AA "Glossar-"), der Birkenporling *Piptoporus betulinus*. Er wächst ausschließlich an totem Birkenholz, egal ob die Stämme noch stehen oder am Boden liegen. Meist findet man mehrere Fruchtkörper an einem Stamm, die oft knäuelig miteinander verwachsen sind. An seiner lederartigen grauen Hutoberfläche und der weißen Porenschicht ist er gut zu erkennen. Die Poren sind so fein, dass sie nur mit der Lupe zu sehen sind. Er ist zwar kein Speisepilz, gilt jedoch als Vital- und Heilpilz. (Johann Rejek) [Mehr lesen >](/pilze/piptoporus-betulinus-birkenporling)
 
 <div style="clear:  both"></div>
 
