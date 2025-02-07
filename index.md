@@ -16,7 +16,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/kretschmaria_deusta_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
