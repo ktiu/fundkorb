@@ -16,6 +16,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/kretschmaria_deusta_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.02.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brandkrustenpilz *Kretzschmaria deusta*. Gefunden am Grund eines Buchenstumpfes in seinem unauffälligen schwarzen sexuellen Stadium. Ab etwa März/April wechselt er sein Aussehen und bildet das weithin sichtbare hellgraue [Konidienstadium](Konidien "Glossar"), in dem asexuelle Konidiensporen gebildet werden, aus denen ausschließlich Klone entstehen. Der Brandkrustenpilz ist ein sehr häufiger [Ascomyzet](Ascomyzeten "Glossar") an totem Laubholz. (Dieter Gewalt) [Mehr lesen >](/pilze/kretzschmaria-deusta-brandkrustenpilz)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/junghuhnia_nitida_01_dg.jpg" %}
 {% include abbildung_ende.html %}
