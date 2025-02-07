@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2025
 published: true
 ---
-07.02.2025: [Junghuhnia nitida - Schönfarbiger Resupinatporling](/pilze/junghuhnia-nitida-schönfarbiger-resupinatporling)  
+08.02.2025: [Kretzschmaria deusta - Brandkrustenpilz](/pilze/kretzschmaria-deusta-brandkrustenpilz)
+07.02.2025: [Junghuhnia nitida - Schönfarbiger Resupinatporling](/pilze/junghuhnia-nitida-schönfarbiger-resupinatporling)\
 06.02.2025: [Phyllotopsis nidulans - Orangeseitling](/pilze/phyllotopsis-nidulans-orangeseitling)\
 05.02.2025: [Lycogala epidendrum - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 04.02.2025: [Exidia plana - Warziger Drüsling](/pilze/exidia-plana-warziger-drüsling)\
