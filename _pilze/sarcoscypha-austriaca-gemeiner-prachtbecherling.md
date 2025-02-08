@@ -6,7 +6,7 @@ beschreibung:
   familie: Sarcoscyphaceae
   erlaeuterung: austriaca = österreichisch
 profil:
-  aktualisiert: 2021-08-23
+  aktualisiert: 2025-02-08
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -22,6 +22,11 @@ Alle drei sind intensiv zinnober- bis karminrot gefärbt, Außenseite deutlich h
 {% include abbildung_ende.html legende="Ascus 8-sporig, Sporen -- Haare, verschlungen, z. T. korkenzieherartig (2 MIkrofotos: Frank Kaster)" %}
 
 Die wichtigsten mikroskopischen Unterscheidungsmerkmale sind: Sporen von Sarcoscypha austriaca und *[S. coccinea (Scharlachroter Kelchbecherling)](/pilze/sarcoscypha-coccinea-scharlachroter-kelchbecherling)* sind etwa gleich groß (23 - 35 x 10 - 14 µm), unterscheiden sich aber in der Anordnung der deutlich sichtbaren Bläschen: bei S. austriaca sind diese in der Mitte konzentriert, bei S. coccinea an den Polen. Dieses Merkmal ist allerdings nur bei vitalen Sporen zu beobachten, also nicht bei Exsikkaten. Die Haare sind bei S. austriaca korkenzieherartig und ineinander verschlungen, bei S. coccinea eher gerade, also ohne verschlungene Krümmungen. *Sarcoscypha jurana (Linden-Kelchbecherling)* hat deutlich kleinere Sporen (22 - 27 x 11 - 13 µm).
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/sarcoscypha_austriaca_05_jr.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/sarcoscypha_austriaca_06_jr.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="2 Fotos von Johann Rejek, 06.02.2024 nordöstlich von München" %}
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/sarcoscypha_austriaca_04_ms.jpeg" %}
