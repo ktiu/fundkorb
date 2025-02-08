@@ -20,7 +20,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/sarcoscypha_aurantiaca_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-09.02.2025: Hätte er nicht eine so schöne intensiv leuchtend rote Farbe, könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Gemeinen Prachtbecherling *Sarcoscypha austriaca*, leicht übersehen. Meist ist dieser Kelchbecherling, der an toten und oft vergrabenen Lauholzästen wächst, mit alten Gräsern und Blättern verdeckt. Bevorzugt findet man ihn im zeitigen Frühjahr in Auwäldern auf kalkhaltigen Böden. Seinen Fundort sollte man sich merken. Vielleicht wird er im nächsten Jahr wieder an der gleichen Stelle prachtvoll leuchten. (Johann Rejek) [Mehr lesen >](pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)
+09.02.2025: Hätte er nicht eine so schöne intensiv leuchtend rote Farbe, könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Gemeinen Prachtbecherling *Sarcoscypha austriaca*, leicht übersehen. Meist ist dieser Kelchbecherling, der an toten und oft vergrabenen Laubholzästen wächst, mit alten Gräsern und Blättern verdeckt. Bevorzugt findet man ihn im zeitigen Frühjahr in Auwäldern auf kalkhaltigen Böden. Seinen Fundort sollte man sich merken. Vielleicht wird er im nächsten Jahr wieder an der gleichen Stelle prachtvoll leuchten. (Johann Rejek) [Mehr lesen >](pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)
 
 <div style="clear:  both"></div> 
 
