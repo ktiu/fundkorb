@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gloeophyllum_odoratum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.02.2025: Es gibt nur wenige Pilze, die man mit verbundenen Augen erkennen kann. Einer von ihnen ist unser heutiger [Fundkorbpilz](AA "Glossar-"), der Fenchelporling *Gloeophyllum odoratum*. Er fühlt sich hart und klobig an und riecht intensiv nach Fenchel. Der mehrjährige Pilz wächst an totem Fichtenholz und bevorzugt die Schnittflächen von Stümpfen. Oft wachsen mehrere Exemplare zu umfangreichen Konglomeraten zusammen. (Dieter Gewalt) [Mehr lesen >](/pilze/gloeophyllum-odoratum-fenchelporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/sarcoscypha_aurantiaca_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -55,16 +63,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 05.02.2025: [Schleimpilze](/verwandt/schleimpilze-myxomyzeten) sind merkwürdige Kreaturen, die ihren ersten Lebenszyklus als amöbenartige Lebewesen beginnen und sich dann wie Pilze mittels Sporen vermehren. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blutmilchpilz *Lycogala epidendrum* ist ganzjährig zu finden und vor allem jung, solange die kleinen Kügelchen noch schön rosa gefärbt sind, leicht zu erkennen. Später im Reifestadium verfärben sie sich über graugrün zu dunkelbraun, die Außenhaut reißt auf und die Sporen können entweichen. Sie wachsen gern auf totem oder vermorschten Holz. (Dieter Gewalt) [Mehr lesen >](/pilze/lycogala-epidendrum-blutmilchpilz)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/exidia_plana_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.02.2025: Den heutigen [Fundkorbpilz](AA "Glossar-"), den Warzigen Drüsling *Exidia plana*, findet man ganzjährig auf abgestorbenen Laubholzästen. Seiner schwarzen Farbe, seiner gelartigen Konsistenz sowie den feinen Drüsen auf der Fruchtschicht verdankt er seinen volkstümlichen Namen „Hexenbutter“. Bei längerer Trockenheit schrumpft er zu einer schwarzblau glänzenden Kruste zusammen, die den befallenen Ast wie lackiert aussehen lässt. Bei wiederkehrender Feuchtigkeit nimmt sie wieder ihre ursprüngliche Form an. (Roland Heil) [Mehr lesen >](/pilze/exidia-plana-warziger-drüsling)
-
-<div style="clear:  both"></div>
-
-
 
 - - -
 
