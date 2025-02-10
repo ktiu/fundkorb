@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_punctatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.02.2025: Wenn ich mich bei einem Spaziergang dem Dietzenbacher Wollwiesenteich nähere, weiß ich schon vorher, wo ich hinzuschauen habe, um unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-") zu finden. Da stehen nahe am Ufer etliche Weiden und an einer ist der Polsterförmige Feuerschwamm *Phellinus punctatus* auf der rissigen Borke. Seine erwartete Anwesenheit ist leicht zu erklären. Alle *Phellinus*-Arten bilden mehrjährige Fruchtkörper. Sie sind über längere Zeiträume an ihrem eroberten Substrat vorhanden. (Dieter Gewalt) [Mehr lesen >](/pilze/phellinus-punctatus-polsterförmiger-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gloeophyllum_odoratum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
