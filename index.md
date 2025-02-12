@@ -17,6 +17,17 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_pterigena_eh_01.jpg" %}
+{% include abbildung_ende.html %}
+
+
+
+
+Der heutige aktuelle  [Fundkorbpilz](AA "Glossar-") ist so klein und versteckt, dass man ihn ohne gezielte Suche kaum finden wird. Die Fruchtkörper des Farn-Helmings *Mycena pterigena* wachsen an abgestorbenen und feuchten Stengeln verschiedener Farnarten, gerne dort, wo sie übereinander liegen. Die Kombination aus Substrat und rot gefärbten Lamellenschneiden und Hutrand macht ihn bereits makroskopisch gut bestimmbar. Auch wenn er sich das ganze Jahr über finden lässt, scheint er doch eine Vorliebe für die kältere Jahreszeit zu haben und wächst sogar nach Frostperioden. (Erik Hock) [Mehr lesen >](/pilze/mycena-pterigena-farn-helmling) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_punctatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,14 +72,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 06.02.2025: Wer jetzt in den Wäldern unterwegs ist, der könnte mit etwas Glück einem der farbenprächtigsten Pilze der Winterzeit begegnen. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Orangeseitling *Phyllotopsis nidulans*, hat orangefarbene muschelförmige Fruchtkörper und wächst an totem Laub- und Nadelholz. Meist wachsen sie gesellig und sind dadurch schon aus einiger Entfernung zu sehen. (Johann Rejek) [Mehr lesen >](/pilze/phyllotopsis-nidulans-orangeseitling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lycogala_epidendrum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.02.2025: [Schleimpilze](/verwandt/schleimpilze-myxomyzeten) sind merkwürdige Kreaturen, die ihren ersten Lebenszyklus als amöbenartige Lebewesen beginnen und sich dann wie Pilze mittels Sporen vermehren. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blutmilchpilz *Lycogala epidendrum* ist ganzjährig zu finden und vor allem jung, solange die kleinen Kügelchen noch schön rosa gefärbt sind, leicht zu erkennen. Später im Reifestadium verfärben sie sich über graugrün zu dunkelbraun, die Außenhaut reißt auf und die Sporen können entweichen. Sie wachsen gern auf totem oder vermorschten Holz. (Dieter Gewalt) [Mehr lesen >](/pilze/lycogala-epidendrum-blutmilchpilz)
 
 <div style="clear:  both"></div>
 
