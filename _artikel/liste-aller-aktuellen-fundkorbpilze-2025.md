@@ -1,7 +1,10 @@
 ---
 titel: Liste aller aktuellen Fundkorbpilze 2025
+autor_in: ""
 published: true
 ---
+
+12.02.2025: [Mycena pterigena - Farn-Helmling](/pilze/mycena-pterigena-farn-helmling)   
 11.02.2025: [Phellinus punctatus - Polsterförmiger Feuerschwamm](/pilze/phellinus-punctatus-polsterförmiger-feuerschwamm)  
 10.02.2025: [Gloeophyllum odoratum - Fenchelporling](/pilze/gloeophyllum-odoratum-fenchelporling)\
 09.02.2025: [Sarcoscypha austriaca - Gemeiner Prachtbecherling](/pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)\
