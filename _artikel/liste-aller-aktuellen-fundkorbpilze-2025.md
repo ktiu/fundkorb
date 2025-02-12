@@ -4,6 +4,7 @@ autor_in: ""
 published: true
 ---
 
+13.02.2025: [Clitocybe fragrans - Weißer Anistrichterling](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)  
 12.02.2025: [Mycena pterigena - Farn-Helmling](/pilze/mycena-pterigena-farn-helmling)   
 11.02.2025: [Phellinus punctatus - Polsterförmiger Feuerschwamm](/pilze/phellinus-punctatus-polsterförmiger-feuerschwamm)  
 10.02.2025: [Gloeophyllum odoratum - Fenchelporling](/pilze/gloeophyllum-odoratum-fenchelporling)\
