@@ -17,11 +17,16 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_pterigena_eh_02.jpg" %}
+{% include bild.html datei="/bilder/clitocybe_fragrans_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
+13.02.2025: Trichterlinge machen es einem mit der Bestimmung oft nicht leicht. Eine Ausnahme davon bildet unser aktueller [Fundkorbpilz](AA "Glossar-"). der Dufttrichterling *Clitocybe fragrans*. Er hat zwar nicht immer die typische Trichterform und gehört mit seinen blassen und stark hygrophanen Hüten eher zu den unauffälligen Pilzen, aber sein starker Anisgeruch macht diese Art leicht kenntlich. Obwohl er ein typischer Herbstpilz ist, findet man ihn auch im Winter vereinzelt in der Laub- und Nadelstreu. (Veronika Ziegltrum) [Mehr lesen >](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)
 
+<div style="clear:  both"></div> 
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_pterigena_eh_02.jpg" %}
+{% include abbildung_ende.html %}
 
 12.02.2025: Der heutige aktuelle  [Fundkorbpilz](AA "Glossar-") ist so klein und versteckt, dass man ihn ohne gezielte Suche kaum finden wird. Die Fruchtkörper des Farn-Helmings *Mycena pterigena* wachsen an abgestorbenen und feuchten Stengeln verschiedener Farnarten, gerne dort, wo sie übereinander liegen. Die Kombination aus Substrat und rot gefärbten Lamellenschneiden und Hutrand macht ihn bereits makroskopisch gut bestimmbar. Auch wenn er sich das ganze Jahr über finden lässt, scheint er doch eine Vorliebe für die kältere Jahreszeit zu haben und wächst sogar nach Frostperioden. (Erik Hock) [Mehr lesen >](/pilze/mycena-pterigena-farn-helmling) 
 
