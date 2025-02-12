@@ -23,7 +23,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 
 
-Der heutige aktuelle  [Fundkorbpilz](AA "Glossar-") ist so klein und versteckt, dass man ihn ohne gezielte Suche kaum finden wird. Die Fruchtkörper des Farn-Helmings *Mycena pterigena* wachsen an abgestorbenen und feuchten Stengeln verschiedener Farnarten, gerne dort, wo sie übereinander liegen. Die Kombination aus Substrat und rot gefärbten Lamellenschneiden und Hutrand macht ihn bereits makroskopisch gut bestimmbar. Auch wenn er sich das ganze Jahr über finden lässt, scheint er doch eine Vorliebe für die kältere Jahreszeit zu haben und wächst sogar nach Frostperioden. (Erik Hock) [Mehr lesen >](/pilze/mycena-pterigena-farn-helmling) 
+12.02.2025: Der heutige aktuelle  [Fundkorbpilz](AA "Glossar-") ist so klein und versteckt, dass man ihn ohne gezielte Suche kaum finden wird. Die Fruchtkörper des Farn-Helmings *Mycena pterigena* wachsen an abgestorbenen und feuchten Stengeln verschiedener Farnarten, gerne dort, wo sie übereinander liegen. Die Kombination aus Substrat und rot gefärbten Lamellenschneiden und Hutrand macht ihn bereits makroskopisch gut bestimmbar. Auch wenn er sich das ganze Jahr über finden lässt, scheint er doch eine Vorliebe für die kältere Jahreszeit zu haben und wächst sogar nach Frostperioden. (Erik Hock) [Mehr lesen >](/pilze/mycena-pterigena-farn-helmling) 
 
 <div style="clear:  both"></div>
 
