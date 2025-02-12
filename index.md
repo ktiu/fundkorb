@@ -17,7 +17,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_pterigena_eh_01.jpg" %}
+{% include bild.html datei="/bilder/mycena_pterigena_eh_02.jpg" %}
 {% include abbildung_ende.html %}
 
 
