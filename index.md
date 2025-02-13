@@ -20,7 +20,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/hypoxylon_multiforme_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-14.02.2025:  Aktueller [Fundkorbpilz](AA "Glossar-") Aktueller Fundkorbpilz ist die Vielgestaltige Kohlenbeere *Hypoxylon multiforme*. Sie dürfte überall und zu jeder Jahreszeit zu finden sein, wo tote Birkenäste auf dem Waldboden liegen. Mit der Lupe betrachtet erkennt man, dass es sich um einen Sammelfruchtkörper handelt. Dessen kugelige [Perithezien](Perithezien "Glossar") haben am Scheitel winzige Erhebungen mit einer Sporenauslassöffnung. Der Pilz hat inzwischen den neuen Namen *Jackrogersella multiformis* erhalten. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)
+14.02.2025:  Aktueller [Fundkorbpilz](AA "Glossar-") ist die Vielgestaltige Kohlenbeere *Hypoxylon multiforme*. Sie dürfte überall und zu jeder Jahreszeit zu finden sein, wo tote Birkenäste auf dem Waldboden liegen. Mit der Lupe betrachtet erkennt man, dass es sich um einen Sammelfruchtkörper handelt. Dessen kugelige [Perithezien](Perithezien "Glossar") haben am Scheitel winzige Erhebungen mit einer Sporenauslassöffnung. Der Pilz hat inzwischen den neuen Namen *Jackrogersella multiformis* erhalten. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)
 
 <div style="clear:  both"></div>
 
