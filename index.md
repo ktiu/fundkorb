@@ -16,6 +16,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/hypoxylon_multiforme_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.02.2025:  Aktueller [Fundkorbpilz](AA "Glossar-") Aktueller Fundkorbpilz ist die Vielgestaltige Kohlenbeere *Hypoxylon multiforme*. Sie dürfte überall und zu jeder Jahreszeit zu finden sein, wo tote Birkenäste auf dem Waldboden liegen. Mit der Lupe betrachtet erkennt man, dass es sich um einen Sammelfruchtkörper handelt. Dessen kugelige Perithezien haben am Scheitel winzige Erhebungen mit einer Sporenauslassöffnung. Der Pilz hat inzwischen den neuen Namen *Jackrogersella multiformis* erhalten. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitocybe_fragrans_06_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -37,46 +45,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 11.02.2025: Wenn ich mich bei einem Spaziergang dem Dietzenbacher Wollwiesenteich nähere, weiß ich schon vorher, wo ich hinzuschauen habe, um unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-") zu finden. Da stehen nahe am Ufer etliche Weiden und an einer ist der Polsterförmige Feuerschwamm *Phellinus punctatus* auf der rissigen Borke. Seine erwartete Anwesenheit ist leicht zu erklären. Alle *Phellinus*-Arten bilden mehrjährige Fruchtkörper. Sie sind über längere Zeiträume an ihrem eroberten Substrat vorhanden. (Dieter Gewalt) [Mehr lesen >](/pilze/phellinus-punctatus-polsterförmiger-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gloeophyllum_odoratum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.02.2025: Es gibt nur wenige Pilze, die man mit verbundenen Augen erkennen kann. Einer von ihnen ist unser heutiger [Fundkorbpilz](AA "Glossar-"), der Fenchelporling *Gloeophyllum odoratum*. Er fühlt sich hart und klobig an und riecht intensiv nach Fenchel. Der mehrjährige Pilz wächst an totem Fichtenholz und bevorzugt die Schnittflächen von Stümpfen. Oft wachsen mehrere Exemplare zu umfangreichen Konglomeraten zusammen. (Dieter Gewalt) [Mehr lesen >](/pilze/gloeophyllum-odoratum-fenchelporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/sarcoscypha_aurantiaca_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.02.2025: Hätte er nicht eine so schöne intensiv leuchtend rote Farbe, könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Gemeinen Prachtbecherling *Sarcoscypha austriaca*, leicht übersehen. Meist ist dieser Kelchbecherling, der an toten und oft vergrabenen Laubholzästen wächst, mit alten Gräsern und Blättern verdeckt. Bevorzugt findet man ihn im zeitigen Frühjahr in Auwäldern auf kalkhaltigen Böden. Seinen Fundort sollte man sich merken. Vielleicht wird er im nächsten Jahr wieder an der gleichen Stelle prachtvoll leuchten. (Johann Rejek) [Mehr lesen >](pilze/sarcoscypha-austriaca-gemeiner-prachtbecherling)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/kretschmaria_deusta_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.02.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brandkrustenpilz *Kretzschmaria deusta*. Gefunden am Grund eines Buchenstumpfes in seinem unauffälligen schwarzen sexuellen Stadium. Ab etwa März/April wechselt er sein Aussehen und bildet das weithin sichtbare hellgraue [Konidienstadium](Konidien "Glossar"), in dem asexuelle Konidiensporen gebildet werden, aus denen ausschließlich Klone entstehen. Der Brandkrustenpilz ist ein sehr häufiger [Ascomyzet](Ascomyzeten "Glossar") an totem Laubholz. (Dieter Gewalt) [Mehr lesen >](/pilze/kretzschmaria-deusta-brandkrustenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/junghuhnia_nitida_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.02.2025: Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") kommen auf einen Millimeter [Hymenium](Hymenium "Glossar") fünf bis sieben Poren. Die sind beim Schönfarbigen Resupinatporling *Junghuhnia nitida* mit bloßem Auge also kaum zu erkennen. Dazu ist der schön orange bis lachsgelb gefärbte Pilz etwas für Stöckchendreher, die in Buchenwäldern mit viel am Boden liegendem Totholz gute Chancen haben, ihn zu finden. Und immer eine Lupe dabeihaben. (Dieter Gewalt) [Mehr lesen >](/pilze/junghuhnia-nitida-schönfarbiger-resupinatporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phyllotopsis_nidulans_07_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-06.02.2025: Wer jetzt in den Wäldern unterwegs ist, der könnte mit etwas Glück einem der farbenprächtigsten Pilze der Winterzeit begegnen. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Orangeseitling *Phyllotopsis nidulans*, hat orangefarbene muschelförmige Fruchtkörper und wächst an totem Laub- und Nadelholz. Meist wachsen sie gesellig und sind dadurch schon aus einiger Entfernung zu sehen. (Johann Rejek) [Mehr lesen >](/pilze/phyllotopsis-nidulans-orangeseitling)
 
 <div style="clear:  both"></div>
 
