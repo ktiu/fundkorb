@@ -20,7 +20,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/daedaleopsis_confragosa_05_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-15.02.2025: Unseren heutigen aktueller [Fundkorbpilz](AA "Glossar-"), die Rötende Tramete *Daedaleopsis confragosa* findet man oft in Reihen oder dachziegelig angeordnet an stehenden oder liegenden Stämmen und Ästen verschiedener Laubhölzer, am häufigsten an Weide, Birke und Erle. Obwohl Hut und Fruchtschicht in ihrem Aussehen sehr variabel sein können ist die Rötende Tramete – zumindestens bei frischen Exemplaren – einfach zu bestimmen. Reibt man an der Fruchtschicht, dann sollte sie sich rosa-bräunlich verfärben. (Johann Rejek) [Mehr lesen >](/pilze/daedaleopsis-confragosa-rötende-tramete)
+15.02.2025: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), die Rötende Tramete *Daedaleopsis confragosa* findet man oft in Reihen oder dachziegelig angeordnet an stehenden oder liegenden Stämmen und Ästen verschiedener Laubhölzer, am häufigsten an Weide, Birke und Erle. Obwohl Hut und Fruchtschicht in ihrem Aussehen sehr variabel sein können ist die Rötende Tramete – zumindestens bei frischen Exemplaren – einfach zu bestimmen. Reibt man an der Fruchtschicht, dann sollte sie sich rosa-bräunlich verfärben. (Johann Rejek) [Mehr lesen >](/pilze/daedaleopsis-confragosa-rötende-tramete)
 
 <div style="clear:  both"></div>
 
