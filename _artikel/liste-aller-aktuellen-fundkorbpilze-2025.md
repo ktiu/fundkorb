@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+15.02-2025: [Daedaleopsis confragosa - Rötende Tramete](/pilze/daedaleopsis-confragosa-rötende-tramete)  
 14.02-2025: [Hypoxylon multiforme - Vielgestaltige Kohlenbeere](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)  
 13.02.2025: [Clitocybe fragrans - Weißer Anistrichterling](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)\
 12.02.2025: [Mycena pterigena - Farn-Helmling](/pilze/mycena-pterigena-farn-helmling)\
