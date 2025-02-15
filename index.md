@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ciboria_amentacea_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+16.02.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Erlenkätzchen-Becherling *Ciboria amentacea*, kann man schon früh im Jahr nach der Schneeschmelze suchen und finden. Die Becherchen erreichen maximal 1 cm Durchmesser. Im Vergleich dazu sind die Stiele oft auffallend lang. Makroskopisch kaum zu unterscheiden ist der Haselkätzchen-Becherling *Ciboria coryli*, wobei zu bedenken ist, dass der hier gezeigte Erlenkätzchen-Becherling auch auf Haselkätzchen wächst. Die Sporen der beiden Arten unterscheiden sich deutlich in ihrer Größe. (Dieter Gewalt) [Mehr lesen >](/pilze/ciboria-amentacea-erlenkätzchen-becherling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/daedaleopsis_confragosa_05_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
