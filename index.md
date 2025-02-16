@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/steccherinum_ochraceum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.02.2025: Bei den [resupinat](resupinat "Glossar") an Holz wachsenden Pilzen mit stacheligem [Hymenophor](Hymenophor "Glossar") denken Kenner zuerst an die Gattung *Steccherinum*. In ihr ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Ockerrötliche Resupinatporling Steccherinum ochraceum, die häufigste Art. Um sie zu finden, empfiehlt es sich, möglichst viele auf dem Waldboden liegende schon etwas angemorschte Äste umzudrehen. Auf ihnen beginnt das Wachstum mit einer größeren Anzahl kleiner heller Flecken, in deren Zentrum sich die ersten Stacheln bilden und die dann zu einer größeren Fläche zusammenwachsen. Für begeisterungsfähige Naturfreunde sind das Schönheiten, die im Verborgenen blühen. (Dieter Gewalt) [Mehr lesen >](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ciboria_amentacea_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
