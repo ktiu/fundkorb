@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-16.02.2025: [Ciboria amentacea - Erlenkätzchen-Becherling](/pilze/ciboria-amentacea-erlenkätzchen-becherling)  
+17.02.2025: [Steccherinum ochraceum - Ockerrötlicher Resupinatstacheling](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling)  
+16.02.2025: [Ciboria amentacea - Erlenkätzchen-Becherling](/pilze/ciboria-amentacea-erlenkätzchen-becherling)\
 15.02.2025: [Daedaleopsis confragosa - Rötende Tramete](/pilze/daedaleopsis-confragosa-rötende-tramete)\
 14.02-2025: [Hypoxylon multiforme - Vielgestaltige Kohlenbeere](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)\
 13.02.2025: [Clitocybe fragrans - Weißer Anistrichterling](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)\
