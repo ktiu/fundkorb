@@ -20,7 +20,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/mycena_tintinnabulum_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-18.02.2025: In den Wintermonaten gibt es nur wenige Pilzarten mit Hut und Stiel. Eine davon ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Winterhelmling *Mycena tintinnabulum*. Sein büscheliges Wachstum an Laubholzstümpfen (vorwiegend Buche und Eiche) und der typische Helmlings-[Habitus](Habitus"Glossar") machen ihn zusammen mit der Erscheinungszeit praktisch unverwechselbar. Bestehen dennoch Zweifel, hilft eine Geruchsprobe weiter. Er soll - recht ungewöhnlich für einen Pilz - nach rohen Schnittbohnen riechen. (Johann Rejek) [Mehr lesen >](/pilze/mycena-tintinnabulum-winterhelmling)
+18.02.2025: In den Wintermonaten gibt es nur wenige Pilzarten mit Hut und Stiel. Eine davon ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Winterhelmling *Mycena tintinnabulum*. Sein büscheliges Wachstum an Laubholzstümpfen (vorwiegend Buche und Eiche) und der typische Helmlings-[Habitus](Habitus "Glossar") machen ihn zusammen mit der Erscheinungszeit praktisch unverwechselbar. Bestehen dennoch Zweifel, hilft eine Geruchsprobe weiter. Er soll - recht ungewöhnlich für einen Pilz - nach rohen Schnittbohnen riechen. (Johann Rejek) [Mehr lesen >](/pilze/mycena-tintinnabulum-winterhelmling)
 
 <div style="clear:  both"></div>
 
