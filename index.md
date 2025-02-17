@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_tintinnabulum_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+18.02.2025: In den Wintermonaten gibt es nur wenige Pilzarten mit Hut und Stiel. Eine davon ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Winterhelmling *Mycena tintinnabulum*. Sein büscheliges Wachstum an Laubholzstümpfen (vorwiegend Buche und Eiche) und der typische Helmlings-[Habitus](Habitus"Glossar") machen ihn zusammen mit der Erscheinungszeit praktisch unverwechselbar. Bestehen dennoch Zweifel, hilft eine Geruchsprobe weiter. Er soll - recht ungewöhnlich für einen Pilz - nach rohen Schnittbohnen riechen. (Johann Rejek) [Mehr lesen >](/pilze/mycena-tintinnabulum-winterhelmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/steccherinum_ochraceum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,14 +69,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 12.02.2025: Der heutige aktuelle  [Fundkorbpilz](AA "Glossar-") ist so klein und versteckt, dass man ihn ohne gezielte Suche kaum finden wird. Die Fruchtkörper des Farn-Helmings *Mycena pterigena* wachsen an abgestorbenen und feuchten Stengeln verschiedener Farnarten, gerne dort, wo sie übereinander liegen. Die Kombination aus Substrat und rot gefärbten Lamellenschneiden und Hutrand macht ihn bereits makroskopisch gut bestimmbar. Auch wenn er sich das ganze Jahr über finden lässt, scheint er doch eine Vorliebe für die kältere Jahreszeit zu haben und wächst sogar nach Frostperioden. (Erik Hock) [Mehr lesen >](/pilze/mycena-pterigena-farn-helmling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_punctatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.02.2025: Wenn ich mich bei einem Spaziergang dem Dietzenbacher Wollwiesenteich nähere, weiß ich schon vorher, wo ich hinzuschauen habe, um unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-") zu finden. Da stehen nahe am Ufer etliche Weiden und an einer ist der Polsterförmige Feuerschwamm *Phellinus punctatus* auf der rissigen Borke. Seine erwartete Anwesenheit ist leicht zu erklären. Alle *Phellinus*-Arten bilden mehrjährige Fruchtkörper. Sie sind über längere Zeiträume an ihrem eroberten Substrat vorhanden. (Dieter Gewalt) [Mehr lesen >](/pilze/phellinus-punctatus-polsterförmiger-feuerschwamm)
 
 <div style="clear:  both"></div>
 
