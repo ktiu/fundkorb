@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-18.02.2025: [Mycena tintinnabulum - Winterhelmling](/pilze/mycena-tintinnabulum-winterhelmling)  
-17.02.2025: [Steccherinum ochraceum - Ockerrötlicher Resupinatstacheling](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling)  
+19.02.2025: [Punctelia jeckeri - Jeckers Punktflechte](/pilze/punctelia-jeckeri-jeckers-punktflechte)  
+18.02.2025: [Mycena tintinnabulum - Winterhelmling](/pilze/mycena-tintinnabulum-winterhelmling)\
+17.02.2025: [Steccherinum ochraceum - Ockerrötlicher Resupinatstacheling](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling)\
 16.02.2025: [Ciboria amentacea - Erlenkätzchen-Becherling](/pilze/ciboria-amentacea-erlenkätzchen-becherling)\
 15.02.2025: [Daedaleopsis confragosa - Rötende Tramete](/pilze/daedaleopsis-confragosa-rötende-tramete)\
 14.02-2025: [Hypoxylon multiforme - Vielgestaltige Kohlenbeere](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)\
