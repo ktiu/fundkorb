@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/punctelia_-jeckeri_02_sm.jpg" %}
+{% include abbildung_ende.html %}
+
+19.02.2025: Es lohnt sich durchaus, [](/verwandt/flechten)[Flechten](/verwandt/flechten) etwas näher zu betrachten (Lupe!). Viele sind so attraktiv und interessant, dass eine Liebe auf den zweiten Blick entstehen könnte. Zum Beispiel bei Jeckers Punktflechte *Punctelia jeckeri*, die  mir auf der Baumrinde in einer Streuobstwiese aufgefallen ist und unser heutiger [Fundkorbpilz](AA "Glossar-") sein soll. Sie gehört zu den Blattflechten und ist besonders an freistehehenden Laubbäumen recht häufig, kann aber leicht mit ähnlichen Arten verwechselt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/punctelia-jeckeri-jeckers-punktflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_tintinnabulum_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
@@ -45,30 +53,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 15.02.2025: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), die Rötende Tramete *Daedaleopsis confragosa* findet man oft in Reihen oder dachziegelig angeordnet an stehenden oder liegenden Stämmen und Ästen verschiedener Laubhölzer, am häufigsten an Weide, Birke und Erle. Obwohl Hut und Fruchtschicht in ihrem Aussehen sehr variabel sein können ist die Rötende Tramete – zumindestens bei frischen Exemplaren – einfach zu bestimmen. Reibt man an der Fruchtschicht, dann sollte sie sich rosa-bräunlich verfärben. (Johann Rejek) [Mehr lesen >](/pilze/daedaleopsis-confragosa-rötende-tramete)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_multiforme_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.02.2025:  Aktueller [Fundkorbpilz](AA "Glossar-") ist die Vielgestaltige Kohlenbeere *Hypoxylon multiforme*. Sie dürfte überall und zu jeder Jahreszeit zu finden sein, wo tote Birkenäste auf dem Waldboden liegen. Mit der Lupe betrachtet erkennt man, dass es sich um einen Sammelfruchtkörper handelt. Dessen kugelige [Perithezien](Perithezien "Glossar") haben am Scheitel winzige Erhebungen mit einer Sporenauslassöffnung. Der Pilz hat inzwischen den neuen Namen *Jackrogersella multiformis* erhalten. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_fragrans_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.02.2025: Trichterlinge machen es einem mit der Bestimmung oft nicht leicht. Eine Ausnahme davon bildet unser aktueller [Fundkorbpilz](AA "Glossar-"). der Dufttrichterling *Clitocybe fragrans*. Er hat zwar nicht immer die typische Trichterform und gehört mit seinen blassen und stark hygrophanen Hüten eher zu den unauffälligen Pilzen, aber sein starker Anisgeruch macht diese Art leicht kenntlich. Obwohl er ein typischer Herbstpilz ist, findet man ihn auch im Winter vereinzelt in der Laub- und Nadelstreu. (Veronika Ziegltrum) [Mehr lesen >](/pilze/clitocybe-fragrans-weißer-anistrichterling-dufttrichterling)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_pterigena_eh_02.jpg" %}
-{% include abbildung_ende.html %}
-
-12.02.2025: Der heutige aktuelle  [Fundkorbpilz](AA "Glossar-") ist so klein und versteckt, dass man ihn ohne gezielte Suche kaum finden wird. Die Fruchtkörper des Farn-Helmings *Mycena pterigena* wachsen an abgestorbenen und feuchten Stengeln verschiedener Farnarten, gerne dort, wo sie übereinander liegen. Die Kombination aus Substrat und rot gefärbten Lamellenschneiden und Hutrand macht ihn bereits makroskopisch gut bestimmbar. Auch wenn er sich das ganze Jahr über finden lässt, scheint er doch eine Vorliebe für die kältere Jahreszeit zu haben und wächst sogar nach Frostperioden. (Erik Hock) [Mehr lesen >](/pilze/mycena-pterigena-farn-helmling) 
 
 <div style="clear:  both"></div>
 
