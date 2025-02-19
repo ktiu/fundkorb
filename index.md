@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_gibbosa_07_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.02.2025: Aktueller [Fundkorbpilz](AA "Glossar-")  ist die Buckeltramete *Trametes gibbosa*. Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche, und dürfte in kaum einem Laubwald fehlen. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren Schmetterlingstramete zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind. (Dieter Gewalt) [Mehr lesen > ](/pilze/trametes-gibbosa-buckeltramete)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/punctelia_-jeckeri_02_sm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,14 +53,6 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include abbildung_ende.html %}
 
 16.02.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Erlenkätzchen-Becherling *Ciboria amentacea*, kann man schon früh im Jahr nach der Schneeschmelze suchen und finden. Die Becherchen erreichen maximal 1 cm Durchmesser. Im Vergleich dazu sind die Stiele oft auffallend lang. Makroskopisch kaum zu unterscheiden ist der Haselkätzchen-Becherling *Ciboria coryli*, wobei zu bedenken ist, dass der hier gezeigte Erlenkätzchen-Becherling auch auf Haselkätzchen wächst. Die Sporen der beiden Arten unterscheiden sich deutlich in ihrer Größe. (Dieter Gewalt) [Mehr lesen >](/pilze/ciboria-amentacea-erlenkätzchen-becherling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/daedaleopsis_confragosa_05_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-15.02.2025: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), die Rötende Tramete *Daedaleopsis confragosa* findet man oft in Reihen oder dachziegelig angeordnet an stehenden oder liegenden Stämmen und Ästen verschiedener Laubhölzer, am häufigsten an Weide, Birke und Erle. Obwohl Hut und Fruchtschicht in ihrem Aussehen sehr variabel sein können ist die Rötende Tramete – zumindestens bei frischen Exemplaren – einfach zu bestimmen. Reibt man an der Fruchtschicht, dann sollte sie sich rosa-bräunlich verfärben. (Johann Rejek) [Mehr lesen >](/pilze/daedaleopsis-confragosa-rötende-tramete)
 
 <div style="clear:  both"></div>
 
