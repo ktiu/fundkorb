@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-20.02.2025: [Trametes gibbosa - Buckeltramete](/pilze/trametes-gibbosa-buckeltramete)  
+21.02.2025: [Trochila ilicina - Stechpalmen-Deckelbecherchen](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen)  
+20.02.2025: [Trametes gibbosa - Buckeltramete](/pilze/trametes-gibbosa-buckeltramete)\
 19.02.2025: [Punctelia jeckeri - Jeckers Punktflechte](/pilze/punctelia-jeckeri-jeckers-punktflechte)\
 18.02.2025: [Mycena tintinnabulum - Winterhelmling](/pilze/mycena-tintinnabulum-winterhelmling)\
 17.02.2025: [Steccherinum ochraceum - Ockerrötlicher Resupinatstacheling](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling)\
