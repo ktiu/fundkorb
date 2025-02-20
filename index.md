@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trochila_ilicina_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.02.2025: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist ein Fall für gezieltes Suchen. Wo unter Stechpalmen (*Ilex aquifolium*) vertrocknete oder vorjährige Stechpalmenblätter liegen, lohnt es sich, genauer hinzuschauen. Sie sind nicht selten übersät mit winzigen schwarzen Pusteln. Mit der Lupe betrachtet entpuppen sie sich als kleine Becherchen, die mit einem Deckel verschlossen oder schon geöffnet sind. Das Substrat liefert uns den Namen. Es ist das Stechpalmen-Deckelbecherchen *Trochila ilicina*. (Dieter Gewalt) [Mehr lesen >](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen) 
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_gibbosa_07_dg.jpg" %}
 {% include abbildung_ende.html %}
 
