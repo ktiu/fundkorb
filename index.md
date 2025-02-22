@@ -17,6 +17,14 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pseudevernia_furfuracea_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+23.02.2025: Zu den besonders attraktiven [Flechten](/verwandt/flechten) gehören die Strauchflechten, und eine der auffälligsten, die Gabelflechte *Pseudevernia furfuracea*, ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Sie wächst gern auf Silikatgestein, aber auch auf der Rinde verschiedener Baumarten, am Stamm und bis hinauf in die Kronen. Ihr [Thallus](Thallus "Glossar") kann bis zu 10 cm groß werden und ist nur an einer einzigen kleinen Stelle am Substrat befestigt. Seine strauchartig verzweigten Äste sind grau und vielfach mit sogenannten [Isidien](Isidien "Glossar") besetzt, die man am besten mit der Lupe betrachtet. (Dieter Gewalt) [Mehr lesen >](/pilze/pseudevernia-furfuracea-gabelflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/schizophyllum_commune_04_dg-1024x901.jpg" %}
 {% include abbildung_ende.html %}
 
