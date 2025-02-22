@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-22.02.2025: [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)  
+23.02.2025: [Pseudevernia furfuracea - Gabelflechte](/pilze/pseudevernia-furfuracea-gabelflechte)  
+22.02.2025: [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)\
 21.02.2025: [Trochila ilicina - Stechpalmen-Deckelbecherchen](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen)\
 20.02.2025: [Trametes gibbosa - Buckeltramete](/pilze/trametes-gibbosa-buckeltramete)\
 19.02.2025: [Punctelia jeckeri - Jeckers Punktflechte](/pilze/punctelia-jeckeri-jeckers-punktflechte)\
