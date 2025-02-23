@@ -15,7 +15,7 @@ hauptbild:
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/gloeophyllum_sepiarium_01_jr.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/gloeophyllum-sepiarium_02_jr.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="2 Fotos: Johann Rejek" %}
+{% include abbildung_ende.html legende="2 Fotos: Johann Rejek, links 05.03.2023 im Wald bei Buch, rechts 18.02.2023 im Zengermoos" %}
 
 In Deutschland ist die Gattung der Blättlinge (Gloeophyllum) mit 4 Arten vertreten, von denen drei ein eher lamelliges Hymenophor haben, der Fenchelporling dagegen ein eher poriges und zudem durch seinen auffälligen Fenchelgeruch auffällt. Unter den drei übrigen ist der Zaunblättling ohne Zweifel der häufigste. Ähnlich sind vor allem der in höheren Lagen verbreitete Tannenblättling und der seltene Balken-Blättling. Sie sind problemlos auseinanderzuhalten, wenn man systematisch wie folgt vorgeht:
 
