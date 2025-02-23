@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+24.02.2025: [Gloeophyllum sepiarium - Zaunblättling](//pilze/gloeophyllum-sepiarium-zaunblättling)  
 23.02.2025: [Pseudevernia furfuracea - Gabelflechte](/pilze/pseudevernia-furfuracea-gabelflechte)  
 22.02.2025: [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)\
 21.02.2025: [Trochila ilicina - Stechpalmen-Deckelbecherchen](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen)\
@@ -23,7 +24,7 @@ published: true
 06.02.2025: [Phyllotopsis nidulans - Orangeseitling](/pilze/phyllotopsis-nidulans-orangeseitling)\
 05.02.2025: [Lycogala epidendrum - Blutmilchpilz](/pilze/lycogala-epidendrum-blutmilchpilz)\
 04.02.2025: [Exidia plana - Warziger Drüsling](/pilze/exidia-plana-warziger-drüsling)\
-03.02.2023: [Lentinellus ursinus - Geschichteter Zähling](/pilze/lentinellus-ursinus-geschichteter-zähling)\
+03.02.2025: [Lentinellus ursinus - Geschichteter Zähling](/pilze/lentinellus-ursinus-geschichteter-zähling)\
 02.02.2025: [Xanthoria parietina - Gewöhnliche Gelbflechte](/pilze/xanthoria-parietina)\
 01.02.2025: [Piptopurus betulinus - Birkenporling](/pilze/piptoporus-betulinus-birkenporling)
 
