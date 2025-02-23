@@ -22,7 +22,7 @@ Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
 {% include bild.html datei="/bilder/gloeophyllum_sepiarium_01_jr.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-24.02.2024: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist der Zaunblättling *Gloeophyllum sepiarium*, ein sehr zäher und dünnfleischiger auf Nadelholz wachsender Pilz. Von oben betrachtet könnte man ihn aufgrund des filzigen und zonierten meist braunen Hutes, und des geselligen oft konsolenartigen Wachstums mit einer Tramete verwechseln. Jedoch zeigt die Unterseite lamellenartige Strukturen und keine Poren. Um ihn von dem täuschend ähnlichen Tannenblättling zu unterscheiden, gilt es die Anzahl der Lamellen je cm am Hutrand zu zählen. (Johann Rejek)
+24.02.2025: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist der Zaunblättling *Gloeophyllum sepiarium*, ein sehr zäher und dünnfleischiger auf Nadelholz wachsender Pilz. Von oben betrachtet könnte man ihn aufgrund des filzigen und zonierten meist braunen Hutes, und des geselligen oft konsolenartigen Wachstums mit einer Tramete verwechseln. Jedoch zeigt die Unterseite lamellenartige Strukturen und keine Poren. Um ihn von dem täuschend ähnlichen Tannenblättling zu unterscheiden, gilt es die Anzahl der Lamellen je cm am Hutrand zu zählen. (Johann Rejek)
 [Mehr lesen >](pilze/gloeophyllum-sepiarium-zaunblättling)
 
 <div style="clear:  both"></div>
