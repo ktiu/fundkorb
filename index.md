@@ -20,7 +20,7 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 {% include bild.html datei="/bilder/mollisia_cinerea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-25.02.00.2025: [Fundkorbpilz](AA "Glossar-") Unser aktueller Fundkorbpilz ist mal wieder einer, den man mit der Lupe suchen muss. Und zwar an Unterseiten von vermoderndem feuchtem Totholz. Daran ist das häufige Aschgraue Weichbecherchen *Mollisia cinerea* zu finden, das maximal 2 mm groß werden kann und stiellos auf seinem Substrat sitzt, meist in dichtgedrängten Rasen. Da es zahlreiche ebenfalls graue Becherchen in dieser und in verwandten Gattungen gibt, ist die sichere Bestimmung nicht einfach. Ohne Mikroskop geht da nur wenig. (Dieter Gewalt) [Mehr lesen >](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)
+25.02.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder einer, den man mit der Lupe suchen muss. Und zwar an Unterseiten von vermoderndem feuchtem Totholz. Daran ist das häufige Aschgraue Weichbecherchen *Mollisia cinerea* zu finden, das maximal 2 mm groß werden kann und stiellos auf seinem Substrat sitzt, meist in dichtgedrängten Rasen. Da es zahlreiche ebenfalls graue Becherchen in dieser und in verwandten Gattungen gibt, ist die sichere Bestimmung nicht einfach. Ohne Mikroskop geht da nur wenig. (Dieter Gewalt) [Mehr lesen >](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)
 
 <div style="clear:  both"></div>
 
