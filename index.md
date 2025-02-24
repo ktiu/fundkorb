@@ -17,6 +17,14 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mollisia_cinerea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.02.00.2025: [Fundkorbpilz](AA "Glossar-") Unser aktueller Fundkorbpilz ist mal wieder einer, den man mit der Lupe suchen muss. Und zwar an Unterseiten von vermoderndem feuchtem Totholz. Daran ist das häufige Aschgraue Weichbecherchen *Mollisia cinerea* zu finden, das maximal 2 mm groß werden kann und stiellos auf seinem Substrat sitzt, meist in dichtgedrängten Rasen. Da es zahlreiche ebenfalls graue Becherchen in dieser und in verwandten Gattungen gibt, ist die sichere Bestimmung nicht einfach. Ohne Mikroskop geht da nur wenig. (Dieter Gewalt) [Mehr lesen >](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gloeophyllum_sepiarium_01_jr.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
@@ -56,16 +64,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 20.02.2025: Aktueller [Fundkorbpilz](AA "Glossar-")  ist die Buckeltramete *Trametes gibbosa*. Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche, und dürfte in kaum einem Laubwald fehlen. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren Schmetterlingstramete zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind. (Dieter Gewalt) [Mehr lesen > ](/pilze/trametes-gibbosa-buckeltramete)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/punctelia_-jeckeri_02_sm.jpg" %}
-{% include abbildung_ende.html %}
-
-19.02.2025: Es lohnt sich durchaus, [](/verwandt/flechten)[Flechten](/verwandt/flechten) etwas näher zu betrachten (Lupe!). Viele sind so attraktiv und interessant, dass eine Liebe auf den zweiten Blick entstehen könnte. Zum Beispiel bei Jeckers Punktflechte *Punctelia jeckeri*, die  mir auf der Baumrinde in einer Streuobstwiese aufgefallen ist und unser heutiger [Fundkorbpilz](AA "Glossar-") sein soll. Sie gehört zu den Blattflechten und ist besonders an freistehehenden Laubbäumen recht häufig, kann aber leicht mit ähnlichen Arten verwechselt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/punctelia-jeckeri-jeckers-punktflechte)
-
-<div style="clear:  both"></div>
-
-
 
 - - -
 
