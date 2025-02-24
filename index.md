@@ -11,12 +11,10 @@ footer_scripts:
 <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
 Neuer Exkursionstermin:\
-Sonntag, 23. Februar 2025, 10:00 Uhr: **Der Wald und seine Pilze im Februar**\
+Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frankfurter Stadtwald**\
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
-
-
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gloeophyllum_sepiarium_01_jr.jpg" nocrop=true %}
