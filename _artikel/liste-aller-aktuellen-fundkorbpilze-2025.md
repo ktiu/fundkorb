@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-24.02.2025: [Gloeophyllum sepiarium - Zaunblättling](//pilze/gloeophyllum-sepiarium-zaunblättling)  
-23.02.2025: [Pseudevernia furfuracea - Gabelflechte](/pilze/pseudevernia-furfuracea-gabelflechte)  
+25.02.2025: [Mollisia cinerea - Aschgraues Weichbecherchen](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)  
+24.02.2025: [Gloeophyllum sepiarium - Zaunblättling](//pilze/gloeophyllum-sepiarium-zaunblättling)\
+23.02.2025: [Pseudevernia furfuracea - Gabelflechte](/pilze/pseudevernia-furfuracea-gabelflechte)\
 22.02.2025: [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)\
 21.02.2025: [Trochila ilicina - Stechpalmen-Deckelbecherchen](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen)\
 20.02.2025: [Trametes gibbosa - Buckeltramete](/pilze/trametes-gibbosa-buckeltramete)\
