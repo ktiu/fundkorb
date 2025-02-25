@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-25.02.2025: [Mollisia cinerea - Aschgraues Weichbecherchen](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)  
+26.02.2025: [Xylaria carpophila - Bucheckernschalen-Holzkeule](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)  
+25.02.2025: [Mollisia cinerea - Aschgraues Weichbecherchen](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)\
 24.02.2025: [Gloeophyllum sepiarium - Zaunblättling](//pilze/gloeophyllum-sepiarium-zaunblättling)\
 23.02.2025: [Pseudevernia furfuracea - Gabelflechte](/pilze/pseudevernia-furfuracea-gabelflechte)\
 22.02.2025: [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)\
