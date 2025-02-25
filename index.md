@@ -17,6 +17,14 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylaria_carpophila_07_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.02.2025: Aktueller [Fundkorbpilz](AA "Glossar-")  ist die Bucheckernschalen-Holzkeule *Xylaria carpophila*. Ein ziemlich kompliziert klingender deutscher Name für einen Pilz, der ihn aber treffend beschreibt. Es sind zwar sehr zierliche, fast schon filigrane Keulchen, die sich durch ihr Vorkommen auf Bucheckernschalen (*\-cupulen*) zweifelsfrei erkennen lassen. Die Art ist wohl in jedem Buchenwald häufig, aber leicht zu übersehen. (Dieter Gewalt) [Mehr lesen >](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mollisia_cinerea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,14 +64,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 21.02.2025: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist ein Fall für gezieltes Suchen. Wo unter Stechpalmen (*Ilex aquifolium*) vertrocknete oder vorjährige Stechpalmenblätter liegen, lohnt es sich, genauer hinzuschauen. Sie sind nicht selten übersät mit winzigen schwarzen Pusteln. Mit der Lupe betrachtet entpuppen sie sich als kleine Becherchen, die mit einem Deckel verschlossen oder schon geöffnet sind. Das Substrat liefert uns den Namen. Es ist das Stechpalmen-Deckelbecherchen *Trochila ilicina*. (Dieter Gewalt) [Mehr lesen >](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen) 
 
 <div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_gibbosa_07_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.02.2025: Aktueller [Fundkorbpilz](AA "Glossar-")  ist die Buckeltramete *Trametes gibbosa*. Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche, und dürfte in kaum einem Laubwald fehlen. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren Schmetterlingstramete zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind. (Dieter Gewalt) [Mehr lesen > ](/pilze/trametes-gibbosa-buckeltramete)
-
-<div style="clear:  both"></div>
 
 - - -
 
