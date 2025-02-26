@@ -17,6 +17,14 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/schizopora_paradoxa_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.02.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Veränderliche Spaltporling *Schizopora paradoxa*. Den Beinamen *"veränderlich"* trägt dieser häufige, geradezu allgegenwärtige Pilz zurecht. Sein [Hymenium](Hymenium "Glossar") kann porig, [daedaloid](daedaloid "Glossar") lamellig oder so irregulär zerschlitzt sein, dass es fast wie stachelig aussieht und man glauben könnte, einen nicht bestimmbaren Resupinatporling vor sich zu haben. Er wächst auf toten Laubholzzweigen, -ästen oder -stämmen und verursacht im befallenen Holz eine Weißfäule. (Dieter Gewalt) [Mehr lesen >](/pilze/schizopora-paradoxa-veränderlicher-spaltporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_carpophila_07_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,14 +64,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 22.02.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Spaltblättling *Schizophyllum commune*, ein überaus häufiger ganzjähriger kosmopolitischer Pilz, der in unseren Breiten vor allem totes Buchenholz besiedelt. Er wächst sogar bei anhaltender Trockenheit und selbst sonnenexponierte Standorte werden toleriert. Seine weißfilzige Oberseite ist recht unscheinbar. Um seine erstaunliche Schönheit zu bewundern, muss man seine Unterseite betrachten. (Dieter Gewalt) [Mehr lesen >](/pilze/schizophyllum-commune-spaltblättling)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trochila_ilicina_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.02.2025: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist ein Fall für gezieltes Suchen. Wo unter Stechpalmen (*Ilex aquifolium*) vertrocknete oder vorjährige Stechpalmenblätter liegen, lohnt es sich, genauer hinzuschauen. Sie sind nicht selten übersät mit winzigen schwarzen Pusteln. Mit der Lupe betrachtet entpuppen sie sich als kleine Becherchen, die mit einem Deckel verschlossen oder schon geöffnet sind. Das Substrat liefert uns den Namen. Es ist das Stechpalmen-Deckelbecherchen *Trochila ilicina*. (Dieter Gewalt) [Mehr lesen >](/pilze/trochila-ilicina-stechpalmen-deckelbecherchen) 
-
-<div style="clear:  both"></div> 
 
 - - -
 
