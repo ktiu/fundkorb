@@ -6,7 +6,7 @@ beschreibung:
   familie: Physalacriaceae
   erlaeuterung: velutipes = Samtfuß
 profil:
-  aktualisiert: 2022-02-04
+  aktualisiert: 2025-02-27
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
@@ -31,5 +31,5 @@ Der Samtfußrübling gilt als ausgezeichneter Speisepilz, wobei die zähen Stiel
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/flammulina_velutipes_02_dg.jpg" %}
-{% include bild.html datei="/bilder/flammulina_velutipes_04_dg.jpg" %}
+{% include bild.html datei="/bilder/flammulina_velutipes_08_jr.jpg" %}
 {% include abbildung_ende.html %}
