@@ -17,11 +17,16 @@ literatur:
   - url: https://www.mikroskopie-forum.de/index.php?topic=39418.msg290382#msg290382
 ---
 {% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/flammulina_velutipes_05_jr.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/flammulina_velutipes_06_jr.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Fotos: Johann Rejek:  04.12.2021 und 08.01.2022, Zengermoos bei München" %}
+
+Wer im Winter nicht auf selbst gesammelte Pilze verzichten möchte, hat mit dem Samtfußrübling eine schmackhafte und frostunempfindliche Alternative zum [Austernseitling](/pilze/pleurotus-ostreatus-austernseitling). Nicht umsonst trägt er auch den Namen *Winterpilz*. Darüberhinaus ist er eine ausgesprochen attraktive Erscheinung und ein dankbares Fotomotiv. Bei feuchtem Wetter sind seine Hüte schleimig und am Rand gerieft, beim Trocknen klebrig, schließlich matt und trocken, aber selbst dann lässt sich mit angefeuchtetem Finger die als Zupfen spürbare Schleimschicht noch nachweisen.
+
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
 {% include bild.html datei="/bilder/flammulina_velutipes_01_dg.jpg" %}
 {% include abbildung_ende.html %}
-
-Wer im Winter nicht auf selbst gesammelte Pilze verzichten möchte, hat mit dem Samtfußrübling eine schmackhafte und frostunempfindliche Alternative zum [Austernseitling](/pilze/pleurotus-ostreatus-austernseitling). Nicht umsonst trägt er auch den Namen *Winterpilz*. Darüberhinaus ist er eine ausgesprochen attraktive Erscheinung und ein dankbares Fotomotiv. Bei feuchtem Wetter sind seine Hüte schleimig und am Rand gerieft, beim Trocknen klebrig, schließlich matt und trocken, aber selbst dann lässt sich mit angefeuchtetem Finger die als Zupfen spürbare Schleimschicht noch nachweisen.
 
 Die Hüte erreichen einen Durchmesser von 5 - 8 Zentimeter und haben hellgelbe, orangegelbe bis rostorange Farben. Die Lamellen sind ausgebuchtet angewachsen und  creme bis blass gelb.
 
@@ -31,5 +36,5 @@ Der Samtfußrübling gilt als ausgezeichneter Speisepilz, wobei die zähen Stiel
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/flammulina_velutipes_02_dg.jpg" %}
-{% include bild.html datei="/bilder/flammulina_velutipes_08_jr.jpg" %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/flammulina_velutipes_08_jr.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Foto rechts: Johann Rejek, 27.01.2019, Ammersee" %}
