@@ -15,6 +15,11 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
 28.02.2025:  Ein typischer und als Speisepilz bekannter Winterpilz ist der Samtfußrübling  *Flammulina velutipes*, und damit unser aktueller [Fundkorbpilz](AA "Glossar-"). Durch sein meist büscheliges Wachstum an totem oder lebendem Laubholz ist er mit seinen gelb-orangefarbenen Hüten kaum zu übersehen.
 Namensgebend sind die braunsamtigen Stiele, die sich zur Stielspitze hin und bei ganz jungen Fruchtkörpern der hellgelben Lamellenfarbe annähern. (Johann Rejek)  [Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
 
@@ -61,13 +66,6 @@ Namensgebend sind die braunsamtigen Stiele, die sich zur Stielspitze hin und bei
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/schizophyllum_commune_04_dg-1024x901.jpg" %}
-{% include abbildung_ende.html %}
-
-22.02.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Spaltblättling *Schizophyllum commune*, ein überaus häufiger ganzjähriger kosmopolitischer Pilz, der in unseren Breiten vor allem totes Buchenholz besiedelt. Er wächst sogar bei anhaltender Trockenheit und selbst sonnenexponierte Standorte werden toleriert. Seine weißfilzige Oberseite ist recht unscheinbar. Um seine erstaunliche Schönheit zu bewundern, muss man seine Unterseite betrachten. (Dieter Gewalt) [Mehr lesen >](/pilze/schizophyllum-commune-spaltblättling)
-
-<div style="clear:  both"></div>
 
 - - -
 
