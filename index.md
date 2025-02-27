@@ -15,6 +15,10 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+28.02.2025:  Ein typischer und als Speisepilz bekannter Winterpilz ist der Samtfußrübling  *Flammulina velutipes*, und damit unser aktueller [Fundkorbpilz](AA "Glossar-"). Durch sein meist büscheliges Wachstum an totem oder lebendem Laubholz ist er mit seinen gelb-orangefarbenen Hüten kaum zu übersehen.
+Namensgebend sind die braunsamtigen Stiele, die sich zur Stielspitze hin und bei ganz jungen Fruchtkörpern der hellgelben Lamellenfarbe annähern. (Johann Rejek)  [Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/schizopora_paradoxa_04_dg.jpg" %}
