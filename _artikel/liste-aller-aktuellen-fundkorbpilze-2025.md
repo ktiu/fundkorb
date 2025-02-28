@@ -3,6 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+01.03.2025: [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)  
+
 28.02.2025: [Flammulina velutipes - Samtfußrübling](/pilze/flammulina-velutipes-samtfußrübling)  
 27.02.2025: [Schizopora paradoxa - Veränderlicher Spaltporling](/pilze/schizopora-paradoxa-veränderlicher-spaltporling)  
 26.02.2025: [Xylaria carpophila - Bucheckernschalen-Holzkeule](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)\
