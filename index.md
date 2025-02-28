@@ -17,6 +17,14 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_hirsuta_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+01.03.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Striegelige Tramete  *Trametes hirsuta* wird wegen der samtigen Behaarung auf der Hutoberseite umgangssprachlich auch Sofapilz genannt. Man findet die kaum miteinander verwachsenen zonierten Fruchtkörper an totem Laubholz. Oft sind alte Pilze – ähnlich der [Buckeltramete](/pilze/trametes-gibbosa-buckeltramete) - auf der Hutoberseite durch Algenbewuchs grün gefärbt. (Johann Rejek) [Mehr lesen >](/pilze/trametes-hirsuta-striegelige-tramete)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
@@ -65,7 +73,6 @@ Namensgebend sind die braunsamtigen Stiele, die sich zur Stielspitze hin und bei
 23.02.2025: Zu den besonders attraktiven [Flechten](/verwandt/flechten) gehören die Strauchflechten, und eine der auffälligsten, die Gabelflechte *Pseudevernia furfuracea*, ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Sie wächst gern auf Silikatgestein, aber auch auf der Rinde verschiedener Baumarten, am Stamm und bis hinauf in die Kronen. Ihr [Thallus](Thallus "Glossar") kann bis zu 10 cm groß werden und ist nur an einer einzigen kleinen Stelle am Substrat befestigt. Seine strauchartig verzweigten Äste sind grau und vielfach mit sogenannten [Isidien](Isidien "Glossar") besetzt, die man am besten mit der Lupe betrachtet. (Dieter Gewalt) [Mehr lesen >](/pilze/pseudevernia-furfuracea-gabelflechte)
 
 <div style="clear:  both"></div>
-
 
 - - -
 
