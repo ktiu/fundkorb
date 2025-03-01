@@ -17,6 +17,14 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lecanora_argentata_01_sm.jpg" %}
+{% include abbildung_ende.html %}
+
+Unser heutiger [Fundkorbpilz](AA "Glossar-"), die Silbrige Kuchenflechte *Lecanora argentata*, gehört zu den Krustenflechten, die auf ihrer Oberfläche zahlreiche dichtstehende [Apothecien](Apothecien "Glossar") mit rotbrauner Scheibe bilden. Sie ist recht selten, am ehesten noch auf der Rinde von Hainbuchen, Eschen, Ahorn oder Pappeln zu finden. Eine Lupe sollte man schon zu Hilfe nehmen, denn die Apothecien erreichen nur Durchmesser bis zu einem Millimeter. (Dieter Gewalt) [Mehr lesen >](/pilze/lecanora-argentata-silbrige-kuchenflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_hirsuta_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
@@ -46,23 +54,6 @@ Namensgebend sind die braunsamtigen Stiele, die sich zur Stielspitze hin und bei
 {% include abbildung_ende.html %}
 
 26.02.2025: Aktueller [Fundkorbpilz](AA "Glossar-")  ist die Bucheckernschalen-Holzkeule *Xylaria carpophila*. Ein ziemlich kompliziert klingender deutscher Name für einen Pilz, der ihn aber treffend beschreibt. Es sind zwar sehr zierliche, fast schon filigrane Keulchen, die sich durch ihr Vorkommen auf Bucheckernschalen (*\-cupulen*) zweifelsfrei erkennen lassen. Die Art ist wohl in jedem Buchenwald häufig, aber leicht zu übersehen. (Dieter Gewalt) [Mehr lesen >](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mollisia_cinerea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.02.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder einer, den man mit der Lupe suchen muss. Und zwar an Unterseiten von vermoderndem feuchtem Totholz. Daran ist das häufige Aschgraue Weichbecherchen *Mollisia cinerea* zu finden, das maximal 2 mm groß werden kann und stiellos auf seinem Substrat sitzt, meist in dichtgedrängten Rasen. Da es zahlreiche ebenfalls graue Becherchen in dieser und in verwandten Gattungen gibt, ist die sichere Bestimmung nicht einfach. Ohne Mikroskop geht da nur wenig. (Dieter Gewalt) [Mehr lesen >](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gloeophyllum_sepiarium_01_jr.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-24.02.2025: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist der Zaunblättling *Gloeophyllum sepiarium*, ein sehr zäher und dünnfleischiger auf Nadelholz wachsender Pilz. Von oben betrachtet könnte man ihn aufgrund des filzigen und zonierten meist braunen Hutes, und des geselligen oft konsolenartigen Wachstums mit einer Tramete verwechseln. Jedoch zeigt die Unterseite lamellenartige Strukturen und keine Poren. Um ihn von dem täuschend ähnlichen Tannenblättling zu unterscheiden, gilt es die Anzahl der Lamellen je cm am Hutrand zu zählen. (Johann Rejek)
-[Mehr lesen >](pilze/gloeophyllum-sepiarium-zaunblättling)
 
 <div style="clear:  both"></div>
 
