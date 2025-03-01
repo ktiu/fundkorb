@@ -32,8 +32,7 @@ literatur:
 
 Unter den Röhrlingen besitzt der Nadelholz-Röhrling ein Alleinstellungsmerkmal, das bei einer ersten Begegnung mit ihm seltsam anmutet. Die Hauthut gibt bei Druck etwas nach (so wie bei überständigen Pilzen) und lässt sich dabei ein wenig  hin- und herschieben. Dieser Effekt beruht auf einer gelatinösen Schicht zwischen der Huthaut und dem Hutfleisch.
 Meine bisherigen Funde an zwei verschiedenen Standorten im Großraum München wuchsen jeweils in unmittelbarer Nähe einer Fichte. In der Literatur (siehe unten) und im Internet wird oft erwähnt, dass der Nadelholz-Röhrling in Begleitung des [Kiefernbraunporlings](/pilze/phaeolus-spadiceus-kiefernbraunporling) wuchs, was jedoch bei meinen Funden nicht der Fall war.
-Makroskopisch sind die schon erwähnte gelatinöse Schicht unter der Hauthaut, ein stark heruntergezogener - zum Teil fast eingerollter -  Hutrand und die kleinen\
-eckigen, leicht am Stiel herablaufenden Poren bestimmungsrelevant. Bei ganz jungen Fruchtkörpern sind die Poren und auch die Röhren kaum sichtbar, bzw. nicht ausgebildet
+Makroskopisch sind die schon erwähnte gelatinöse Schicht unter der Hauthaut, ein stark heruntergezogener - zum Teil fast eingerollter -  Hutrand und die kleinen eckigen, leicht am Stiel herablaufenden Poren bestimmungsrelevant. Bei ganz jungen Fruchtkörpern sind die Poren und auch die Röhren kaum sichtbar, bzw. nicht ausgebildet
 (siehe Foto ganz oben). Im Anschnitt blaut das Fruchtfleisch im Übergangsbereich Hut – Stiel ganz leicht. 
 
 {% include abbildung_start.html stil="mittel" %}
