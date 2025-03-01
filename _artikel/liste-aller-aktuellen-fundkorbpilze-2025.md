@@ -3,10 +3,11 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+02.03.2025: [Lecanora argentata - Silbrige Kuchenflechte](/pilze/lecanora-argentata-silbrige-kuchenflechte)  
 01.03.2025: [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)  
 
-28.02.2025: [Flammulina velutipes - Samtfußrübling](/pilze/flammulina-velutipes-samtfußrübling)  
-27.02.2025: [Schizopora paradoxa - Veränderlicher Spaltporling](/pilze/schizopora-paradoxa-veränderlicher-spaltporling)  
+28.02.2025: [Flammulina velutipes - Samtfußrübling](/pilze/flammulina-velutipes-samtfußrübling)\
+27.02.2025: [Schizopora paradoxa - Veränderlicher Spaltporling](/pilze/schizopora-paradoxa-veränderlicher-spaltporling)\
 26.02.2025: [Xylaria carpophila - Bucheckernschalen-Holzkeule](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)\
 25.02.2025: [Mollisia cinerea - Aschgraues Weichbecherchen](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)\
 24.02.2025: [Gloeophyllum sepiarium - Zaunblättling](//pilze/gloeophyllum-sepiarium-zaunblättling)\
