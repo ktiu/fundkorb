@@ -22,7 +22,7 @@ Ein Aufruf von *Helgo Bran* an Deutschlands Pilzsachverständige im Jahre 1999, 
 {% include bild.html datei="/bilder/zeder_schlosspark-bad_-homburg_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Libanonzeder im Schlosspark Bad Homburg. Typisch: große Zapfen, die nach der Reife schnell zerfallen" %}
 
-Die stiellosen Fruchtkörper des Zedern-Sandborstlings erreichen Durchmesser von etwa 2 bis 7 cm. Sie entwickeln sich kugelförmig unter der Erde und sind zunächst nur als unspezifisches Loch wahrzunehmen. Sie öffnen sich sternförmig, sobald sie an der Oberfläche erscheinen. Die Innenseite der zu den Schlauchpilzen zählenden Art ist grauweißlich bis cremefarben und glatt, die Außenseite borstig und braun. In Verbindung mit ihrem [Mykorrhizapartner](Mykorrhiza "Glossar") dürfte sie unverwechselbar sein.
+Die stiellosen Fruchtkörper des Zedern-Sandborstlings erreichen Durchmesser von etwa 2 bis 7 cm. Sie entwickeln sich kugelförmig unter der Erde und sind zunächst nur als unspezifisches Loch wahrzunehmen. Sie öffnen sich sternförmig, sobald sie an der Oberfläche erscheinen. Die Innenseite der zu den Schlauchpilzen zählenden Art ist grauweißlich bis cremefarben und glatt, die Außenseite borstig und braun. In Verbindung mit ihrem [Mykorrhizapartner](Mykorrhiza "Glossar") dürfte sie unverwechselbar sein. Ein ähnliches Aussehen hat der [Kronenbecherling Sarcosphaera coronaria](/pilze/sarcosphaera-coronaria-kronenbecherling), der in kalkhaltigen Nadel- und Laubwäldern (gern in höheren Lagen) wächst.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/geopora_sumneriana_08_tl.jpg" nocrop=true %}
