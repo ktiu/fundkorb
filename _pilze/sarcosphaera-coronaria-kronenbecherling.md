@@ -20,7 +20,7 @@ literatur:
   - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/scoronaria.php
   - url: https://de.wikipedia.org/wiki/Kronenbecherling
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/sarcosphaera_coronaria_02_cw.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/sarcosphaera_coronaria_01_cw.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Foto: Christian Weinkötz (05.10.2023, NSG Mainer Sand bei Kiefern)" %}
