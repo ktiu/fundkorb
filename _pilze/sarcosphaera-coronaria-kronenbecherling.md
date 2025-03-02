@@ -23,7 +23,7 @@ literatur:
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/sarcosphaera_coronaria_02_cw.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/sarcosphaera_coronaria_01_cw.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Foto: Christian Weinkötz (05.10.2023, NSG Mainer Sand bei Kiefern)" %}
+{% include abbildung_ende.html legende="Foto: Christian Weinkötz (10.05.2023, NSG Mainzer Sand bei Kiefern)" %}
 
 Dieser Pilz erinnert in seiner Wuchsweise den [Zedern-Sandborstling *Geopora sumneriana*](/pilze/geopora-sumneriana-zedern-sandborstling). Tatsächlich scheinen verwandtschaftliche Beziehungen zu bestehen, denn beide standen schon gemeinsam in der Familie der Becherlingsverwandten (*Pezizaceae*). Allerdings sind sie schon anhand ihrer ökologischen Ansprüchen leicht zu unterscheiden: *Geopora sumneriana* kommt ausschließlich bei Zedern vor, während *Sarcosphaera coronaria* in Nadel-, seltener in Laubwäldern oder Parkanlagen auf kalkhaltigen Böden bei Kiefern, Fichten oder Buchen wächst, lt. *Breitenbach & Kränzlin* gern in Gebirgsnadelwäldern. Erscheinungszeit ist etwa April bis Juni, also zeitgleich mit dem Zedern-Sandborstling.
 
