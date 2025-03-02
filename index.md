@@ -28,7 +28,7 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 {% include bild.html datei="/bilder/lecanora_argentata_01_sm.jpg" %}
 {% include abbildung_ende.html %}
 
-Unser heutiger [Fundkorbpilz](AA "Glossar-"), die Silbrige Kuchenflechte *Lecanora argentata*, gehört zu den Krustenflechten, die auf ihrer Oberfläche zahlreiche dichtstehende [Apothecien](Apothecien "Glossar") mit rotbrauner Scheibe bilden. Sie ist recht selten, am ehesten noch auf der Rinde von Hainbuchen, Eschen, Ahorn oder Pappeln zu finden. Eine Lupe sollte man schon zu Hilfe nehmen, denn die Apothecien erreichen nur Durchmesser bis zu einem Millimeter. (Dieter Gewalt) [Mehr lesen >](/pilze/lecanora-argentata-silbrige-kuchenflechte)
+02.03.2025: Unser heutiger [Fundkorbpilz](AA "Glossar-"), die Silbrige Kuchenflechte *Lecanora argentata*, gehört zu den Krustenflechten, die auf ihrer Oberfläche zahlreiche dichtstehende [Apothecien](Apothecien "Glossar") mit rotbrauner Scheibe bilden. Sie ist recht selten, am ehesten noch auf der Rinde von Hainbuchen, Eschen, Ahorn oder Pappeln zu finden. Eine Lupe sollte man schon zu Hilfe nehmen, denn die Apothecien erreichen nur Durchmesser bis zu einem Millimeter. (Dieter Gewalt) [Mehr lesen >](/pilze/lecanora-argentata-silbrige-kuchenflechte)
 
 <div style="clear:  both"></div>
 
