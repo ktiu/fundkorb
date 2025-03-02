@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-02.03.2025: [Lecanora argentata - Silbrige Kuchenflechte](/pilze/lecanora-argentata-silbrige-kuchenflechte)  
+03.03.2025: [Bisporella citrina - Zitronengelbes Holzbecherchen](/pilze/bisporella-citrina-zitronengelbes-haarbecherchen)  
+02.03.2025: [Lecanora argentata - Silbrige Kuchenflechte](/pilze/lecanora-argentata-silbrige-kuchenflechte)\
 01.03.2025: [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)  
 
 28.02.2025: [Flammulina velutipes - Samtfußrübling](/pilze/flammulina-velutipes-samtfußrübling)\
