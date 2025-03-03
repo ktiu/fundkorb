@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-03.03.2025: [Bisporella citrina - Zitronengelbes Holzbecherchen](/pilze/bisporella-citrina-zitronengelbes-haarbecherchen)  
+04.03.2025: [Bjerkandera adusta - Angebrannter Rauchporling](/pilze/bjerkandera-adusta-angebrannter-rauchporling)  
+03.03.2025: [Bisporella citrina - Zitronengelbes Holzbecherchen](/pilze/bisporella-citrina-zitronengelbes-haarbecherchen)\
 02.03.2025: [Lecanora argentata - Silbrige Kuchenflechte](/pilze/lecanora-argentata-silbrige-kuchenflechte)\
 01.03.2025: [Trametes hirsuta - Striegelige Tramete](/pilze/trametes-hirsuta-striegelige-tramete)  
 
