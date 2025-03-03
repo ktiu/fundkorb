@@ -16,8 +16,10 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 
 - - -
 
+04.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Angebrannte Rauchporling *Bjerkandera adusta*. An seinem feinporigen aschgrauen [Hymenium](Hymenium "Glossar"), das auf Druck oder Reiben schwärzlich verfärbt, ist er leicht zu erkennen. Diesem Merkmal (*„wie angebrannt“*) verdankt er auch seinen Namen. Die filzige Oberseite ist hell- bis rußbraun gefärbt. Der Pilz wächst an totem Laubholz, vor allem Buche, und ist sehr häufig. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bisporella_citrina_01_dg.jpg" %}
+{% include bild.html datei="/bilder/bjerkandera_adusta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 03.03.2025: Winzige, höchstens 1 - 3 mm Größe erreichende Pilzchen werden leicht übersehen, was auf unseren aktuellen [Fundkorbpilz](AA "Glossar-") allerdings nicht zutrifft. Die leuchtend gelbe Farbe und massenhaftes, dicht gedrängtes Wachstum auf abgestorbenen Laubholzästen machen das Zitronengelbe Holzbecherchen *Bisporella citrina* zu einer auffälligen Erscheinung. (Dieter Gewalt) [Mehr lesen >](/pilze/bisporella-citrina-zitronengelbes-haarbecherchen)
