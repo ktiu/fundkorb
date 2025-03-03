@@ -24,7 +24,7 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bisporella_citrina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
