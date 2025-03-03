@@ -32,6 +32,6 @@ Um Helmlinge sicher zu bestimmen, müssen meist Mikromerkmale beachtet werden. *
 Der Voreilende Helmling ist vor allem in Laub-, seltener in Nadelwäldern zu finden. Hier wächst er an totem Holz, gern an Stümpfen, auch an vergrabenem Holz und dann scheinbar am Boden. Es gibt etliche Helmingsarten, die ähnlich aussehen können. Es werden vor allem genannt:\
 Frühlingshelmling *Mycena niveipes* (breitere Sporen, Hutdeckschicht mit glatten Hyphen)\
 [Rosablättriger Helmling *Mycena galericulata*](/pilze/mycena-galericulata-rosablättriger-helmling) (meist größere Fruchtkörper, Basidien und Hyphen ohne Schnallen)\
-Graublättriger Helmling *Mycena aetites* (dunkler graue Lamellen) 
+Graublättriger Helmling *Mycena aetites* (dunkler graue Lamellen)  
 Grünerlen-Helmling *Mycena alnetorum* (nur aus subalpinen Grünerlengebüschen bekannt)\
 [Grauer Nitrathelmling *Mycena leptocephala*](/pilze/mycena-leptocephala-grauer-nitrathelmling) (riecht aufdringlich nach Chlor, Sporen mit vielen kleinen Tropfen)
