@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Mycena abramsii
   deutsch: Voreilender Helmling
   referenz: (Murrill) Murrill 1916
-  erlaeuterung: abramsii = zu Ehren des Botanikers LeRoy Abrams
+  erlaeuterung: abramsii = zu Ehren des amerikanischen Botanikers LeRoy Abrams
   familie: Mycenaceae
 profil:
   aktualisiert: 2025-03-03
