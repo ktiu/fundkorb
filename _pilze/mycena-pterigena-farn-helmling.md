@@ -4,6 +4,7 @@ beschreibung:
   deutsch: Farn-Helmling
   referenz: (Fr.) P. Kumm
   familie: Mycenaceae
+  erlaeuterung: pterigena = an Farn
 profil:
   aktualisiert: 2024-12-29
   autor_in: Erik Hock
