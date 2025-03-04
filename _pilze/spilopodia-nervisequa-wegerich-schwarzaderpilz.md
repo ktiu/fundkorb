@@ -13,7 +13,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/spilopodia_nervisequa_01_dg.jpg
 ---
-Auf dieser Abbildung erinnern die [Apothecien](Apothecien "Glosssar") ein wenig an den Grünspanbecherling *Chlorociboria aeruginascens*. Sie sind allerdings sehr viel kleiner und wachsen nicht an Holz sondern auf Blättern des Spitzwegerich (*Plantago lanceolata*). Die Becherchen sind jung noch geschlossen und von dunkler Farbe, öffnen sich im Laufe ihrer Entwicklung und zeigen dabei ihre graugrünliche Scheibe. Sie erreichen Durchmesser von maximal 1,2 mm.
+Auf dieser Abbildung erinnern die [Apothezien](Apothezien "Glosssar") ein wenig an den Grünspanbecherling *Chlorociboria aeruginascens*. Sie sind allerdings sehr viel kleiner und wachsen nicht an Holz sondern auf Blättern des Spitzwegerich (*Plantago lanceolata*). Die Becherchen sind jung noch geschlossen und von dunkler Farbe, öffnen sich im Laufe ihrer Entwicklung und zeigen dabei ihre graugrünliche Scheibe. Sie erreichen Durchmesser von maximal 1,2 mm.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/spilopodia_nervisequa_02_dg.jpg" %}
