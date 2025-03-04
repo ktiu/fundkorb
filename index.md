@@ -17,6 +17,15 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/spilopodia_nervisequa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.03.2025: So gut wie alles, was irgendwo wächst, kreucht oder fleucht, hat seinen persönlichen Pilz oder sogar mehrere. Da macht der Wegerich keine Ausnahme. Entlang seiner Blattnerven erscheint nicht selten unser aktueller 
+[Fundkorbpilz](AA "Glossar-"), der Wegerich-Schwarzaderpilz *Spilopodia nervisequa*, den kaum jemand kennt. Nach unseren Beobachtungen scheint er den Spitzwegerich zu bevorzugen. Seine grauen [Apothecien](Apothecien "Glossar") werden kaum größer als 1 mm. (Dieter Gewalt) [Mehr lesen >](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bjerkandera_adusta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -54,22 +63,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 
 28.02.2025:  Ein typischer und als Speisepilz bekannter Winterpilz ist der Samtfußrübling  *Flammulina velutipes*, und damit unser aktueller [Fundkorbpilz](AA "Glossar-"). Durch sein meist büscheliges Wachstum an totem oder lebendem Laubholz ist er mit seinen gelb-orangefarbenen Hüten kaum zu übersehen.
 Namensgebend sind die braunsamtigen Stiele, die sich zur Stielspitze hin und bei ganz jungen Fruchtkörpern der hellgelben Lamellenfarbe annähern. (Johann Rejek)  [Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/schizopora_paradoxa_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.02.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Veränderliche Spaltporling *Schizopora paradoxa*. Den Beinamen *"veränderlich"* trägt dieser häufige, geradezu allgegenwärtige Pilz zurecht. Sein [Hymenium](Hymenium "Glossar") kann porig, [daedaloid](daedaloid "Glossar") lamellig oder so irregulär zerschlitzt sein, dass es fast wie stachelig aussieht und man glauben könnte, einen nicht bestimmbaren Resupinatporling vor sich zu haben. Er wächst auf toten Laubholzzweigen, -ästen oder -stämmen und verursacht im befallenen Holz eine Weißfäule. (Dieter Gewalt) [Mehr lesen >](/pilze/schizopora-paradoxa-veränderlicher-spaltporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_carpophila_07_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.02.2025: Aktueller [Fundkorbpilz](AA "Glossar-")  ist die Bucheckernschalen-Holzkeule *Xylaria carpophila*. Ein ziemlich kompliziert klingender deutscher Name für einen Pilz, der ihn aber treffend beschreibt. Es sind zwar sehr zierliche, fast schon filigrane Keulchen, die sich durch ihr Vorkommen auf Bucheckernschalen (*\-cupulen*) zweifelsfrei erkennen lassen. Die Art ist wohl in jedem Buchenwald häufig, aber leicht zu übersehen. (Dieter Gewalt) [Mehr lesen >](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)
 
 <div style="clear:  both"></div>
 
