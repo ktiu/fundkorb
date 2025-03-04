@@ -4,6 +4,7 @@ beschreibung:
   deutsch: Graublättriger Rußhelmling
   referenz: (Fr.) Quél. 1872
   familie: Mycenaceae
+  erlaeuterung: aetites = adlerfarbig
 profil:
   aktualisiert: 2025-03-04
   autor_in: Dieter Gewalt
