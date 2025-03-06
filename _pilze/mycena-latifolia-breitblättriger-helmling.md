@@ -13,7 +13,7 @@ hauptbild:
   datei: /bilder/mycena_latifolia_01_cw.jpg
   legende: "Foto: Christian Weinkötz (29.10.2019, Fischzuchtteich nahe Wiesbaden)"
 literatur:
-  - text: "Breitenbach & Kränlin: Pilze der Schweiz Band 3, Nr. 344"
+  - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 3, Nr. 344"
   - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Band 3,
       Seite 433 – 434"
   - url: https://www.interhias.de/schwammerlseiten/bestimmungen/2010/tricholomataceae/tricholomataceae.html#ank1
