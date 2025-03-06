@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-06.03.2025: [Stereum insignitum - Braunsamtiger Schichtpilz](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)  
+07.03.2025: [Cladonia macilenta - Rotfrüchtige Säulenflechte](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)  
+06.03.2025: [Stereum insignitum - Braunsamtiger Schichtpilz](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)\
 05.03.2025: [Spilopodia nervisequa - Wegerich-Schwarzaderpilz](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz)\
 04.03.2025: [Bjerkandera adusta - Angebrannter Rauchporling](/pilze/bjerkandera-adusta-angebrannter-rauchporling)\
 03.03.2025: [Bisporella citrina - Zitronengelbes Holzbecherchen](/pilze/bisporella-citrina-zitronengelbes-haarbecherchen)\
