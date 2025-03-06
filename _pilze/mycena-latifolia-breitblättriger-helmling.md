@@ -4,9 +4,10 @@ beschreibung:
   deutsch: Breitblättriger Helmling
   referenz: (Peck) Mussat 1901
   erlaeuterung: latifolia =  breitblättrig
+  familie: Mycenaceae
 profil:
-  aktualisiert: 2025-03-04
-  autor_in: Mycenaceae
+  aktualisiert: 2025-03-06
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/mycena_latifolia_01_cw.jpg
