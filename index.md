@@ -16,7 +16,7 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 
 - - -
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cladonia_macilenta_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
