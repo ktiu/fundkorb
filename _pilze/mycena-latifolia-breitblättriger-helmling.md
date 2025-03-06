@@ -9,7 +9,7 @@ profil:
   autor_in: Mycenaceae
 hauptbild:
   anzeige: true
-  datei: /bilder/mycena_latifolia_01_cw.jpg.jpg
+  datei: /bilder/mycena_latifolia_01_cw.jpg
   legende: "Foto: Christian Weinkötz (29.10.2019, Fischzuchtteich nahe Wiesbaden)"
 literatur:
   - text: "Breitenbach & Kränlin: Pilze der Schweiz Band 3, Nr. 344"
