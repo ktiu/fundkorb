@@ -16,6 +16,14 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 
 - - -
 
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/cladonia_macilenta_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+07.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rotfrüchtige Säulenflechte *Cladonia macilenta*. Sie ist ein schönes Beispiel dafür, wie attraktiv [Flechten](/verwandt/flechten) sein können. Allerdings nur, wenn sie auch Früchtchen tragen, sogenannte [Apothecien](Apothecien "Glossar"), auf denen die Sporen gebildet werden. Leider ist *Cladonia macilenta* (die "magere") nicht gerade häufig und könnte mit anderen Flechtenarten verwechselt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_insignitum_06_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
@@ -54,23 +62,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 {% include abbildung_ende.html %}
 
 02.03.2025: Unser heutiger [Fundkorbpilz](AA "Glossar-"), die Silbrige Kuchenflechte *Lecanora argentata*, gehört zu den Krustenflechten, die auf ihrer Oberfläche zahlreiche dichtstehende [Apothecien](Apothecien "Glossar") mit rotbrauner Scheibe bilden. Sie ist recht selten, am ehesten noch auf der Rinde von Hainbuchen, Eschen, Ahorn oder Pappeln zu finden. Eine Lupe sollte man schon zu Hilfe nehmen, denn die Apothecien erreichen nur Durchmesser bis zu einem Millimeter. (Dieter Gewalt) [Mehr lesen >](/pilze/lecanora-argentata-silbrige-kuchenflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_hirsuta_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-01.03.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Striegelige Tramete  *Trametes hirsuta* wird wegen der samtigen Behaarung auf der Hutoberseite umgangssprachlich auch Sofapilz genannt. Man findet die kaum miteinander verwachsenen zonierten Fruchtkörper an totem Laubholz. Oft sind alte Pilze – ähnlich der [Buckeltramete](/pilze/trametes-gibbosa-buckeltramete) - auf der Hutoberseite durch Algenbewuchs grün gefärbt. (Johann Rejek) [Mehr lesen >](/pilze/trametes-hirsuta-striegelige-tramete)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-28.02.2025:  Ein typischer und als Speisepilz bekannter Winterpilz ist der Samtfußrübling  *Flammulina velutipes*, und damit unser aktueller [Fundkorbpilz](AA "Glossar-"). Durch sein meist büscheliges Wachstum an totem oder lebendem Laubholz ist er mit seinen gelb-orangefarbenen Hüten kaum zu übersehen.
-Namensgebend sind die braunsamtigen Stiele, die sich zur Stielspitze hin und bei ganz jungen Fruchtkörpern der hellgelben Lamellenfarbe annähern. (Johann Rejek)  [Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
 
 <div style="clear:  both"></div>
 
