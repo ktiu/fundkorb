@@ -17,6 +17,14 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rhopographus-filicinus-01.jpg" %}
+{% include abbildung_ende.html %}
+
+08.03.2025: Dieser aktuelle Fundkorbpilz ist zur Zeit in jedem Adlerfarnbestand zu finden: der Adlerfarn-Fleckenpilz *Rhopographus filicinus*. Allerdings nur an vorjährigen abgestorbenen Stängeln. Der kaum beachtete [Ascomyzet](<Ascomyzet "Glossar">) verrät sich durch schwarze, strichartige Zeichnungen, die in ihrer Gesamtheit oft ein interessantes Muster bilden. Mit der Lupe betrachtet erscheint ihre Oberfläche aufgeraut. Verwechslungen können bei Beachtung des speziellen Substrats ausgeschlossen werden. (Dieter Gewalt) [Mehr lesen >](/pilze/rhopographus-filicinus-adlerfarn-fleckenpilz) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cladonia_macilenta_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
