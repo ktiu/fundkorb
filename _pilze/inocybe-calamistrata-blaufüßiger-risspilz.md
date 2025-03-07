@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: Inocybe calamistrata
   deutsch: Blaufüßiger Risspilz
-  referenz: (Fr.) Gillet
+  referenz: (Fr.) Gillet 1876
   synonym: "Neuer Name: Inosperma calamistratum"
   erlaeuterung: calamistratum = gekräuselt
   familie: Inocybaceae
