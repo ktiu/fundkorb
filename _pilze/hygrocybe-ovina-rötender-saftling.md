@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: Hygrocybe ovina
   deutsch: Rötender Saftling
-  referenz: "(Bull. : Fr.) Kühner"
+  referenz: "(Bull. : Fr.) Kühner 1926"
   synonym: "Neuer Name: Neohygrocybe ovina "
   erlaeuterung: ovina = das Schaf betreffend
   familie: Hygrophoraceae
