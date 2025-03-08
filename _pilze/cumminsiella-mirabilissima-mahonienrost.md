@@ -5,6 +5,7 @@ beschreibung:
   referenz: (Peck) Nannf. 1947
   familie: Pucciniaceae
   erlaeuterung: mirabilissima = am bewundernswertesten
+  synonym: "Synonyme: Cumminsiella sanguinea, Puccinia mirabilissima"
 profil:
   aktualisiert: 2020-12-20
   autor_in: Dieter Gewalt
