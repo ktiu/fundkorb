@@ -19,7 +19,7 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 {% include bild.html datei="/bilder/phleogena_faginea_02_hl.jpg" %}
 {% include abbildung_ende.html %}
 
-10.03.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Buchen-Hütchenträger  *Phleogena faginea*, könnte man auf den ersten Blick für einen Schleimpilz halten. Die winzigen gestielten Fruchtkörper mit ihren kleinen rundlichen grauen Köpfchen gehören jedoch zu den Ständerpilzen ([Basidiomyzeten](Basidiomyzet "Glossar")). Man findet ihn oft gesellig wachsend auf der Rinde lebender Laubbäume, meistens an Buche. Übrigens gibt es nur diese eine Art in der Gattung Phleogena. (Johann Rejek) [Mehr lesen >](/pilze/phleogena-faginea-buchen-hütchenträger)
+10.03.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Buchen-Hütchenträger  *Phleogena faginea*, könnte man auf den ersten Blick für einen Schleimpilz halten. Die winzigen gestielten Fruchtkörper mit ihren kleinen rundlichen grauen Köpfchen gehören jedoch zu den Ständerpilzen ([Basidiomyzeten](Basidiomyzeten "Glossar")). Man findet ihn oft gesellig wachsend auf der Rinde lebender Laubbäume, meistens an Buche. Übrigens gibt es nur diese eine Art in der Gattung Phleogena. (Johann Rejek) [Mehr lesen >](/pilze/phleogena-faginea-buchen-hütchenträger)
 
 <div style="clear:  both"></div>
 
