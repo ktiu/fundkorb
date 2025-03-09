@@ -15,6 +15,8 @@ hauptbild:
   legende: "Foto: Norbert Kühnberger"
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz  Band 3, Nr. 313"
+  - text: "Karin Montag: Helmlinge Teil 3: Aciculae und Adonidae, Der Tintling 78
+      5/2012, Seite 53 - 56"
 ---
 Um diesen Pilz gebührend zu würdigen, eine vorausgeschickte Anmerkung aus der griechischen Mythologie: Adonis war ein wunderschöner Jüngling und Geliebter der Aphrodite, der Göttin der Liebe, Schönheit und sinnlichen Begierde. Auch er galt als Sinnbild der Schönheit, darüberhinaus auch der Vegetation.
 
