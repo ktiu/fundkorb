@@ -64,14 +64,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bjerkandera_adusta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Angebrannte Rauchporling *Bjerkandera adusta*. An seinem feinporigen aschgrauen [Hymenium](Hymenium "Glossar"), das auf Druck oder Reiben schwärzlich verfärbt, ist er leicht zu erkennen. Diesem Merkmal (*„wie angebrannt“*) verdankt er auch seinen Namen. Die filzige Oberseite ist hell- bis rußbraun gefärbt. Der Pilz wächst an totem Laubholz, vor allem Buche, und ist sehr häufig. (Dieter Gewalt) [Mehr lesen >](/pilze/bjerkandera-adusta-angebrannter-rauchporling)
-
-<div style="clear:  both"></div>
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2025](/artikel/liste-aller-aktuellen-fundkorbpilze-2025.html)
