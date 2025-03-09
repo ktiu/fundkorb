@@ -12,6 +12,11 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/mycena_floridula_01_dg.jpeg
+literatur:
+  - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Band 3,
+      Seite 388 – 389"
+  - text: "Karin Montag: Helmlinge Teil 3: Aciculae und Adonidae, Der Tintling 78
+      5/2012, Seite 53 - 56"
 ---
 Als meine Frau und ich im Oktober 1996 an einem Pilzseminar im Schwarzwald teilnahmen, erwies sich Tuis unschlagbares Pilzauge auch in den Wäldern um Hornberg  als nützlich. Walter Pätzold sah sich sogar veranlasst, ihr den ehrenvollen Spitznamen "Hornberger Findling" zu verpassen. Den hatte sie sich redlich verdient. Zu ihren spektakulärsten Funden gehörte der Hellrote Helmling *Mycena floridula*, den selbst unser Lehrmeister *Walter Pätzold* noch nie zu Gesicht bekommen hatte. Unsere Diagnose konnte er nach eingehender Überprüfung bestätigen.
 
