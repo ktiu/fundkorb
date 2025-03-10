@@ -15,6 +15,15 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/daldinia_petriniae_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+11.03.2025: Im Gebiet „Thomashütte“ bei Eppertshausen im südlichen Hessen habe ich zum zweiten Mal an einem am Boden liegenden Laubholzast den Erlen-Holzkohlenpilz *Daldinia petriniae* gefunden. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist eine in Deutschland seltene, möglicherweise auch als *[Daldinia concentrica](/pilze/daldinia-concentrica-kohlen-kugelpilz)* gemeldete Art. Die etwa 20 Fruchtkörper hatten Durchmesser von 1 bis 2,5 cm und waren mit einem deutlichen Sockel am Substrat angewachsen. (Dieter Gewalt)  [Mehr lesen >](/pilze/daldinia-petriniae-erlen-holzkohlenpilz)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phleogena_faginea_02_hl.jpg" %}
 {% include abbildung_ende.html %}
