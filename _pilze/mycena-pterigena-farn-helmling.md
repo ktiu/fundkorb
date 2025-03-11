@@ -24,10 +24,10 @@ Die Lamellen sind schmal, relativ weit auseinanderstehend und in der Regel errei
 
 Der rosa bis weißlich gefärbte Stiel ist mit 10 bis 30 mm Länge deutlich länger als der Hutdurchmesser. Der Stiel ist basal leicht verdickt, die Oberfläche des Stiels ist glatt.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="bilder/mycena_pterigena_eh_02.jpg" %}
 {% include abbildung_ende.html %}
 
 Die Sporen sind hyalin, amyloid und mit 9–13 × 4–5 µm relativ groß. Das Sporenpulver ist weiß. Mikroskopisch weist die Art [Cheilozystiden](Cheilozystiden "Glossar") mit langen Auswüchsen auf, die sie von ähnlichen Arten wie *Mycena lohwagii* unterscheidet. Letztere kommt ebenfalls auf Farnstängeln vor, unterscheidet sich jedoch durch eine höhere Anzahl an Lamellen, die den Stiel erreichen (bis zu 17), sowie durch kürzere Auswüchse der [Cheilozystiden](Cheilozystiden "Glossar").
 
-Eine Besonderheit von *Mycena pterigena* ist ihre taxonomische Einzigartigkeit: Sie ist der einzige Vertreter der Sektion *Pterigenae* innerhalb der Gattung *Mycena*. 
+Eine Besonderheit von *Mycena pterigena* ist ihre taxonomische Einzigartigkeit: Sie ist der einzige Vertreter der Sektion *Pterigenae* innerhalb der Gattung *Mycena*.
