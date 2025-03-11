@@ -15,6 +15,13 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_versicolor_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.03.2025: Trameten findet man das ganze Jahr über, so auch unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Schmetterlingstramete *Trametes versicolor*. Wie der Name schon ahnen lässt, ist es ein besonders hübscher und farbenreicher Porling, der oft in großen Mengen dachziegelartig und dicht gedrängt ganze Baumstümpfe (vorwiegend Laubholz) überzieht. Die Farbpalette der konzentrisch gezonten und feinsamtigen Hüte ist beeindruckend: ockerfarbig, rötlich, bläulich, schwärzlich, und bei frischen Exemplaren mit einer weißen Zuwachskante. (Johann Rejek) [Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
+
+<div style="clear:  both"></div> 
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/daldinia_petriniae_02_bm.jpg" %}
@@ -61,15 +68,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 {% include abbildung_ende.html %}
 
 06.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze wachsen ausschließlich an Totholz und sind daher das ganze Jahr über zu finden. Sie zeichen sich durch ein glattes, höchstens runzeliges [Hymenophor ](Hymenophor "Glossar")aus. Der Doppelgänger des Braunsamtigen ist der [Samtige Schichtpilz Stereum subtomentosum](/pilze/stereum-subtomentosum-samtiger-schichtpilz). Beide sind mit bloßem Auge kaum zu unterscheiden, aber schon eine gut vergrößernde Lupe kann helfen. (Dieter Gewalt) [Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/spilopodia_nervisequa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.03.2025: So gut wie alles, was irgendwo wächst, kreucht oder fleucht, hat seinen persönlichen Pilz oder sogar mehrere. Da macht der Wegerich keine Ausnahme. Entlang seiner Blattnerven erscheint nicht selten unser aktueller 
-[Fundkorbpilz](AA "Glossar-"), der Wegerich-Schwarzaderpilz *Spilopodia nervisequa*, den kaum jemand kennt. Nach unseren Beobachtungen scheint er den Spitzwegerich zu bevorzugen. Seine grauen [Apothecien](Apothecien "Glossar") werden kaum größer als 1 mm. (Dieter Gewalt) [Mehr lesen >](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz) 
 
 <div style="clear:  both"></div>
 
