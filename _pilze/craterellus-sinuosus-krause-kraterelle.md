@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Krause Kraterelle
   referenz: (Pers.) Rauschert 1987
   familie: Cantharellaceae
-  synonym: "Synonym: Pseudocraterellus undulatuus"
+  synonym: "Synonym: Pseudocraterellus undulatus"
   erlaeuterung: sinuosus = gekrümmt, faltenreich
 profil:
   aktualisiert: 2021-09-06
