@@ -20,7 +20,7 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 {% include bild.html datei="/bilder/dasyscyphella_nivea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-13.03.2025: Einen begeisternden Anblick bietet unser aktueller [Fundkorbpilz](AA "Glossar-"), das Schneeweiße Haarbecherchen *Dasyscyphella nivea*. Der winzige [Ascomyzet](Ascomyzet "Glossasr") begegnete uns gestern mehrfach an totem Eichenholz. An einigen der becher-, kelch- oder tellerförmigen gestielten Fruchtkörper hingen auch noch winzige Wassertröpfchen, was allerdings nur mit einer stark vergrößernden Lupe zu erkennen war (Dieter Gewalt) [Mehr lesen >](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)
+13.03.2025: Einen begeisternden Anblick bietet unser aktueller [Fundkorbpilz](AA "Glossar-"), das Schneeweiße Haarbecherchen *Dasyscyphella nivea*. Der winzige Ascomyzet[](Ascomyzeten "Glossar") begegnete uns gestern mehrfach an totem Eichenholz. An einigen der becher-, kelch- oder tellerförmigen gestielten Fruchtkörper hingen auch noch winzige Wassertröpfchen, was allerdings nur mit einer stark vergrößernden Lupe zu erkennen war (Dieter Gewalt) [Mehr lesen >](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)
 
 <div style="clear:  both"></div>
 
