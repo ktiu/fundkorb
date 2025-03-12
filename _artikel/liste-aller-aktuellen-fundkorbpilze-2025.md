@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-12.03.2025: [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)  
-11.03.2025: [Daldinia petriniae - Erlen-Holzkohlenpilz](/pilze/daldinia-petriniae-erlen-holzkohlenpilz)  
+13.03.2025: [Dasyscyphella nivea - Schneeweißes Haarbecherchen](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)  
+12.03.2025: [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)\
+11.03.2025: [Daldinia petriniae - Erlen-Holzkohlenpilz](/pilze/daldinia-petriniae-erlen-holzkohlenpilz)\
 10.03.2025: [Phleogena faginea - Buchen-Hütchenträger](/pilze/phleogena-faginea-buchen-hütchenträger)\
 09.03.2025: [Hymenochaete rubiginosa - Umberbraune Borstenscheibe](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)\
 08.03.2025: [Rhopographus filicinus - Adlerfarn-Fleckenpilz](/pilze/rhopographus-filicinus-adlerfarn-fleckenpilz)\
