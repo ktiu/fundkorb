@@ -15,6 +15,15 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/dasyscyphella_nivea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.03.2025: Einen begeisternden Anblick bietet unser aktueller [Fundkorbpilz](AA "Glossar-"), das Schneeweiße Haarbecherchen *Dasyscyphella nivea*. Der winzige [Ascomyzet](Ascomyzet "Glossasr") begegnete uns gestern mehrfach an totem Eichenholz. An einigen der becher-, kelch- oder tellerförmigen gestielten Fruchtkörper hingen auch noch winzige Wassertröpfchen, was allerdings nur mit einer stark vergrößernden Lupe zu erkennen war (Dieter Gewalt) [Mehr lesen >](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_versicolor_03_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -52,22 +61,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 {% include abbildung_ende.html %}
 
 08.03.2025: Dieser aktuelle Fundkorbpilz ist zur Zeit in jedem Adlerfarnbestand zu finden: der Adlerfarn-Fleckenpilz *Rhopographus filicinus*. Allerdings nur an vorjährigen abgestorbenen Stängeln. Der kaum beachtete [Ascomyzet](<Ascomyzet "Glossar">) verrät sich durch schwarze, strichartige Zeichnungen, die in ihrer Gesamtheit oft ein interessantes Muster bilden. Mit der Lupe betrachtet erscheint ihre Oberfläche aufgeraut. Verwechslungen können bei Beachtung des speziellen Substrats ausgeschlossen werden. (Dieter Gewalt) [Mehr lesen >](/pilze/rhopographus-filicinus-adlerfarn-fleckenpilz) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cladonia_macilenta_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-07.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rotfrüchtige Säulenflechte *Cladonia macilenta*. Sie ist ein schönes Beispiel dafür, wie attraktiv [Flechten](/verwandt/flechten) sein können. Allerdings nur, wenn sie auch Früchtchen tragen, sogenannte [Apothecien](Apothecien "Glossar"), auf denen die Sporen gebildet werden. Leider ist *Cladonia macilenta* (die "magere") nicht gerade häufig und könnte mit anderen Flechtenarten verwechselt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_insignitum_06_bm.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html %}
-
-06.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze wachsen ausschließlich an Totholz und sind daher das ganze Jahr über zu finden. Sie zeichen sich durch ein glattes, höchstens runzeliges [Hymenophor ](Hymenophor "Glossar")aus. Der Doppelgänger des Braunsamtigen ist der [Samtige Schichtpilz Stereum subtomentosum](/pilze/stereum-subtomentosum-samtiger-schichtpilz). Beide sind mit bloßem Auge kaum zu unterscheiden, aber schon eine gut vergrößernde Lupe kann helfen. (Dieter Gewalt) [Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
 
 <div style="clear:  both"></div>
 
