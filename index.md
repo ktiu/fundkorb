@@ -17,6 +17,14 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/fomitopsis_pinicola_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.03.2025: Dem Namen nach sollte der Rotrandige Baumschwamm *Fomitopsis pinicola* an einer Kiefer wachsen (*pinicola* heißt „Kiefern bewohnend“), doch hier „bewohnt“ unser aktueller [Fundkorbpilz](AA "Glossar-") einen liegenden Laubholzstamm. Und hat auch keinen roten Rand. Während der Wachstumsphasen ist der Hutrand gelb, dann rot und später ist die ganze Hutoberfläche dunkelgrau. Am attraktivsten sieht er aus, wenn er mit [Guttationstropfen](Guttation "Glossar") behangen ist. [Mehr lesen >](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/dasyscyphella_nivea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,16 +61,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 {% include abbildung_ende.html %}
 
 09.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Umberbraune Borstenscheibe *Hymenochaete rubiginosa*. Im Habitus ähnelt sie Schichtpilzen, sind mit diesen aber nicht im Entferntesten verwandt. Sie wachsen als dünne, fächerförmige Hütchen an totem Holz, wobei die glatte bis runzelige Fruchtschicht (Hymenium) die Unterseite bildet und zum Teil als krustige, [resupinate](resupinat "Glossar") Schicht mit dem Holz verbunden ist. Die Fruchtkörper sind frisch lederig zäh, trocken steif und brüchig und können mehrere Jahre alt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rhopographus-filicinus-01.jpg" %}
-{% include abbildung_ende.html %}
-
-08.03.2025: Dieser aktuelle Fundkorbpilz ist zur Zeit in jedem Adlerfarnbestand zu finden: der Adlerfarn-Fleckenpilz *Rhopographus filicinus*. Allerdings nur an vorjährigen abgestorbenen Stängeln. Der kaum beachtete [Ascomyzet](<Ascomyzet "Glossar">) verrät sich durch schwarze, strichartige Zeichnungen, die in ihrer Gesamtheit oft ein interessantes Muster bilden. Mit der Lupe betrachtet erscheint ihre Oberfläche aufgeraut. Verwechslungen können bei Beachtung des speziellen Substrats ausgeschlossen werden. (Dieter Gewalt) [Mehr lesen >](/pilze/rhopographus-filicinus-adlerfarn-fleckenpilz) 
-
-<div style="clear:  both"></div>
 
 - - -
 
