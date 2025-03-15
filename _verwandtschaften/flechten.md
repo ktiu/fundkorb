@@ -70,8 +70,6 @@ Eine grobe und völlig unsystematische Einteilung der Flechten kann man nach For
 {% include bild.html datei="/bilder/phlyctis_argena_08_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Farbreaktion auf dem Lager mit KOH nach 10 sec – nach 4 min – nach 15 min" %}
 
-
-
 Viele Arten verändern bei Befeuchtung ihre Farbe von einem unscheinbaren Grau oder Braun zu leuchtenderen, helleren Farben. Daher sollten an Flechten interessierte Naturfreunde, die ihre Funde bestimmen möchten, außer einer Lupe und einer scharfen Rasierklinge auch eine Sprühflasche mit Wasser dabeihaben. Manche unauffälligen Flecken zeigen überhaupt erst nach dem Besprühen, dass es sich um eine Flechte handelt.
 
 **Blattflechten**, gelegentlich auch Laubflechten genannt, bestehen aus unterschiedlich geformten blattartigen Lappen (auch Loben genannt). Sie sind mit mehreren Haftorganen (Rhizinen) lose an ihrem Substrat angewachsen. Sie können daher leicht als Ganzes abgelöst werden. Typische und häufige Blattflechten sind zum Beispiel:
@@ -124,7 +122,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Cladonia fimbriata = Trompeten-Becherflechte](/pilze/cladonia-fimbriata-trompeten-becherflechte)\
 [Cladonia furcata = Gabel-Säulenflechte](/pilze/cladonia-furcata-gabel-säulenflechte)\
 [Cladonia macilenta = Rotfrüchtige Säulenflechte](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)\
-Cladonia portentosa = Ebenästige Rentierflechte
+[Cladonia portentosa = Ebenästige Rentierflechte](/pilze/cladonia-portentosa-ebenästige-rentierflechte)  
 [Cladonia pyxidata = Gewöhnliche Becherflechte](/pilze/cladonia-pyxidata-gewöhnliche-becherflechte)\
 [Cladonia squamosa var. subsquamosa = Falsche Schuppen-Säulenflechte](/pilze/cladonia-squamosa-var-subsquamosa-falsche-schuppen-säulenflechte)\
 [Flavoparmelia caperata = Eichenflechte](/pilze/flavoparmelia-caperata-eichenflechte)\
