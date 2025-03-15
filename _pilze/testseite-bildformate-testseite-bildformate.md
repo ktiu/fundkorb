@@ -8,7 +8,7 @@ profil:
   aktualisiert: 2025-03-15
 hauptbild:
   anzeige: true
-  datei: /bilder/abortiporus_biennis_01_dg.jpg
+  datei: /bilder/grauer-moosbart_01.jpg
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/grauer-moosbart_01a.jpg" nocrop=true %}
