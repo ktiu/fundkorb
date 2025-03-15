@@ -11,8 +11,8 @@ hauptbild:
   datei: /bilder/grauer-moosbart_01.jpg
 ---
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/grauer-moosbart_01a.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/grauer-moosbart_03a.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/jojo_01.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/jojo_02.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
 Blindtext
