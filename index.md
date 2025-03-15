@@ -17,6 +17,14 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lachnum_virgineum_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.03.2025: Aktueller Fundkorbpilz ist das Weiße Haarbecherchen *Lachnum virgineum*. Weil es eine Menge solcher winziger weißer becherförmiger Pilze gibt, ist eine Bestimmung auf den ersten Blick kaum möglich. Das Substrat spielt eine Rolle. Wirklich Klarheit ist aber nur durch eine mikroskopische Prüfung zu gewinnen. Ohne solchen Aufwand zu betreiben, kann man sich immerhin an der Schönheit solcher Pilzvorkommen erfreuen, wozu allerdings eine gut vergrößernde Lupe erforderlich ist. (Dieter Gewalt) [Mehr lesen >](/pilze/lachnum-virgineum-weißes-haarbecherchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/dacrymyces_stillatus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -63,12 +71,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 10.03.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Buchen-Hütchenträger  *Phleogena faginea*, könnte man auf den ersten Blick für einen Schleimpilz halten. Die winzigen gestielten Fruchtkörper mit ihren kleinen rundlichen grauen Köpfchen gehören jedoch zu den Ständerpilzen ([Basidiomyzeten](Basidiomyzeten "Glossar")). Man findet ihn oft gesellig wachsend auf der Rinde lebender Laubbäume, meistens an Buche. Übrigens gibt es nur diese eine Art in der Gattung Phleogena. (Johann Rejek) [Mehr lesen >](/pilze/phleogena-faginea-buchen-hütchenträger)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hymenochaete_rubiginosa_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Umberbraune Borstenscheibe *Hymenochaete rubiginosa*. Im Habitus ähnelt sie Schichtpilzen, sind mit diesen aber nicht im Entferntesten verwandt. Sie wachsen als dünne, fächerförmige Hütchen an totem Holz, wobei die glatte bis runzelige Fruchtschicht (Hymenium) die Unterseite bildet und zum Teil als krustige, [resupinate](resupinat "Glossar") Schicht mit dem Holz verbunden ist. Die Fruchtkörper sind frisch lederig zäh, trocken steif und brüchig und können mehrere Jahre alt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)
 
 - - -
 
