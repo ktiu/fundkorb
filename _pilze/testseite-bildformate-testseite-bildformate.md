@@ -16,3 +16,15 @@ hauptbild:
 {% include abbildung_ende.html %}
 
 Blindtext
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/grauer-moosbart_01a.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/grauer-moosbart_03a.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Mittel (zwei nebeneinander)" %}
+
+Blindtext
+
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/grauer-moosbart_01a.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/grauer-moosbart_03a.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="klein (drei nebeneinander)" %}
