@@ -52,4 +52,4 @@ Der Braune Moosbart (Bryoria fuscescens) kommt wesentlich häufiger vor, ist in 
 Die Usnea-Arten besitzen, im Gegensatz zu den Bryoria-Arten, in jedem Ast mittig einen dehnbaren, weißen Zentralstrang.
 
 	
-Wenn Sie mehr über Flechten wissen wollen - hier erfahren Sie es > 
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten) 
