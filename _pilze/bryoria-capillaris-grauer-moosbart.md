@@ -46,7 +46,7 @@ Der [Thallus](Thallus "Glossar") ist hängend, bis ca. 30 cm lang und in der Far
 [Isidien](Isidien "Glossar") findet man keine, [Apothecien](Apothecien "Glossar") so gut wie nie. [Sorale](Sorale "Glossar") sind bei manchen Exemplaren vorhanden, bei unserem Fund suchten wir vergeblich danach.
 Die makrochemischen Farbreaktionen (Tüpfelreaktionen) zeigen folgende Verfärbungen des Thallus: mit Kalilauge (KOH) intensiv gelb.
 
-Neuerdings wird die Art nur noch als „Chemotyp“ von Bryoria fuscescens geführt, also heißt das Taxon aktuell „Bryoria fuscescens Chemotyp capilund p-Phenyldiamin (PPD)laris“.
+Neuerdings wird die Art nur noch als „Chemotyp“ von Bryoria fuscescens geführt, also heißt das Taxon aktuell „Bryoria fuscescens Chemotyp capillaris“.
 
 **Verwechslungsmöglichkeiten**
 
