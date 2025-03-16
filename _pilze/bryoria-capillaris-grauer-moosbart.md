@@ -34,15 +34,13 @@ Unter den Bartflechten ist der Graue Moosbart *Bryoria capillaris* eine der selt
 Sie wird in der Roten Liste der Flechten Deutschlands in der Gefährdungsstufe 2 geführt. Sie ist bei uns eine Art kühler, luftfeuchter, gerne nebeliger Berglagen, wo sie meist an freistehenden Bäumen wächst. Obwohl man sie auch an Laubbäumen findet, werden doch Nadelbäume bevorzugt.
 
 Wir fanden sie am 21. Februar 2025 bei einer Kartierung im Nordschwarzwald in einem lichten Kiefernwald auf saurem, torfigem Boden, in etwa 720 mNN.  Beim fleißigen Absuchen des Bodens stießen wir auf eine 15 cm lange Bartflechte, die an einem dünnen Kiefernzweig angeheftet war (siehe Foto oben).
+
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/bryoria_capillaris_02_wiki.jpg" %}
-{% include abbildung_ende.html legende="Foto: Jason Hollinger, wikipedia.org. This file is licensed under the Creative Commons Attribution 2.0 Generic license" %}
+{% include bild.html datei="/bilder/bryoria_capillaris_02_wiki.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/bryoria_capillaris_03_bm.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Linkes Foto: Jason Hollinger, wikipedia.org. This file is licensed under the Creative Commons Attribution 2.0 Generic license, Rechtes Foto: Detailfoto mit glatten Ästen und dichotomen Verzweigungen" %}
 
 **Morphologische Merkmale** (in Anlehnung an Wirth & Düll 2000)
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bryoria_capillaris_03_bm.jpg" %}
-{% include abbildung_ende.html legende="Detailfoto mit glatten Ästen und dichotomen Verzweigungen" %}
 
 Der [Thallus](Thallus"Glossar") ist hängend, bis ca. 30 cm lang und in der Farbe grau, oft mit grünlichem Einschlag. Er wächst direkt am Stamm oder an den Ästen/Zweigen des Wirtsbaumes und ist stets nur an einer Stelle angewachsen. Die stielrunden, glatten Äste, die man aufgrund ihrer filigranen Struktur eher als „Fäden“ bezeichnen kann, haben maximal 0,5 mm Durchmesser und sind gabelig verzweigt („dichotom“), wobei die Tochteräste meist etwa gleichlang sind. Die Fäden sind hohl im Schnitt. Sogenannte „Kurzzweige“ besitzt unsere Art nicht.
 [Isidien](Isidien"Glossar") findet man keine, [Apothecien](Apothecien "Glossar") so gut wie nie. [Sorale](Sorale"Glossar") sind bei manchen Exemplaren vorhanden, bei unserem Fund suchten wir vergeblich danach.
