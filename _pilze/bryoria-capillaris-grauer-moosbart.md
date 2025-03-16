@@ -26,13 +26,14 @@ literatur:
   - url: https://www.wikidata.org/wiki/Q10509870
   - url: https://italic.units.it/index.php?procedure=taxonpage&num=337
 ---
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bryoria_capillaris_02_wiki.jpg" %}
+{% include abbildung_ende.html legende="Foto: Jason Hollinger, wikipedia.org. This file is licensed under the Creative Commons Attribution 2.0 Generic license" %}
+
 Unter den Bartflechten ist der Graue Moosbart *Bryoria capillaris* eine der seltenen Arten.
 Sie wird in der Roten Liste der Flechten Deutschlands in der Gefährdungsstufe 2 geführt. Sie ist bei uns eine Art kühler, luftfeuchter, gerne nebeliger Berglagen, wo sie meist an freistehenden Bäumen wächst. Obwohl man sie auch an Laubbäumen findet, werden doch Nadelbäume bevorzugt.
 Wir fanden sie am 21. Februar 2025 bei einer Kartierung im Nordschwarzwald in einem lichten Kiefernwald auf saurem, torfigem Boden, in etwa 720 mNN.  Beim fleißigen Absuchen des Bodens stießen wir auf eine 15 cm lange Bartflechte, die an einem dünnen Kiefernzweig angeheftet war . 
 
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/bryoria_capillaris_02_wiki.jpg" %}
-{% include abbildung_ende.html legende="Foto: Jason Hollinger, wikipedia.org. This file is licensed under the Creative Commons Attribution 2.0 Generic license" %}
 
 **Morphologische Merkmale** (in Anlehnung an Wirth & Düll 2000)
 
