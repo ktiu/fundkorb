@@ -2,11 +2,12 @@
 beschreibung:
   wissenschaftlich: Bryoria capillaris
   deutsch: Grauer Moosbart
-  referenz: Bernd Miggel
+  referenz: (Ach.) Brodo & D. Hawksw. 1977
   erlaeuterung: capillaris = haarfein
   familie: Parmeliaceae
 profil:
   aktualisiert: 2025-03-16
+  autor_in: Bernd Miggel
 hauptbild:
   anzeige: true
   datei: /bilder/bryoria_capillaris_01_lh.jpg
