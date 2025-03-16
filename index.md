@@ -17,6 +17,14 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cladonia_portentosa_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+17.03.2025: Eine attraktive aber leider seltene und im Bestand gefährdete Flechte ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). In einem lichten Kiefernwald im Nordschwarzwald fanden wir die Ebenästige Rentierflechte *Cladonia portentosa* auf einem völlig vermorschten und mit Moos zugewachsenen Baumstumpf. Um die Bestimmung abzusichern, wurden die Astspitzen mit der Lupe begutachtet und makrochemische Tüpfelreaktionen mit Kalilauge und Phenylendiamin vorgenommen. (Bernd Miggel) [Mehr lesen >](/pilze/cladonia-portentosa-ebenästige-rentierflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lachnum_virgineum_03.25.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,22 +61,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 {% include abbildung_ende.html %}
 
 12.03.2025: Trameten findet man das ganze Jahr über, so auch unseren aktuellen [Fundkorbpilz](AA "Glossar"), die Schmetterlingstramete *Trametes versicolor*. Wie der Name schon ahnen lässt, ist es ein besonders hübscher und farbenreicher Porling, der oft in großen Mengen dachziegelartig und dicht gedrängt ganze Baumstümpfe (vorwiegend Laubholz) überzieht. Die Farbpalette der konzentrisch gezonten und feinsamtigen Hüte ist beeindruckend: ockerfarbig, rötlich, bläulich, schwärzlich, und bei frischen Exemplaren mit einer weißen Zuwachskante. (Johann Rejek) [Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/daldinia_petriniae_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-11.03.2025: Im Gebiet „Thomashütte“ bei Eppertshausen im südlichen Hessen habe ich zum zweiten Mal an einem am Boden liegenden Laubholzast den Erlen-Holzkohlenpilz *Daldinia petriniae* gefunden. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist eine in Deutschland seltene, möglicherweise auch als *[Daldinia concentrica](/pilze/daldinia-concentrica-kohlen-kugelpilz)* gemeldete Art. Die etwa 20 Fruchtkörper hatten Durchmesser von 1 bis 2,5 cm und waren mit einem deutlichen Sockel am Substrat angewachsen. (Dieter Gewalt)  [Mehr lesen >](/pilze/daldinia-petriniae-erlen-holzkohlenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phleogena_faginea_02_hl.jpg" %}
-{% include abbildung_ende.html %}
-
-10.03.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Buchen-Hütchenträger  *Phleogena faginea*, könnte man auf den ersten Blick für einen Schleimpilz halten. Die winzigen gestielten Fruchtkörper mit ihren kleinen rundlichen grauen Köpfchen gehören jedoch zu den Ständerpilzen ([Basidiomyzeten](Basidiomyzeten "Glossar")). Man findet ihn oft gesellig wachsend auf der Rinde lebender Laubbäume, meistens an Buche. Übrigens gibt es nur diese eine Art in der Gattung Phleogena. (Johann Rejek) [Mehr lesen >](/pilze/phleogena-faginea-buchen-hütchenträger)
 
 <div style="clear:  both"></div>
 
