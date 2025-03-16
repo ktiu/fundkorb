@@ -34,7 +34,7 @@ Wir fanden sie am 21. Februar 2025 bei einer Kartierung im Nordschwarzwald in ei
 {% include bild.html datei="/bilder/bryoria_capillaris_02_wiki.jpg" %}
 {% include abbildung_ende.html legende="Foto: Jason Hollinger, wikipedia.org. This file is licensed under the Creative Commons Attribution 2.0 Generic license" %}
 
-Morphologische Merkmale (in Anlehnung an Wirth & Düll 2000)
+**Morphologische Merkmale** (in Anlehnung an Wirth & Düll 2000)
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bryoria_capillaris_03_bm.jpg" %}
@@ -46,7 +46,9 @@ Die makrochemischen Farbreaktionen (Tüpfelreaktionen) zeigen folgende Verfärbu
 
 Neuerdings wird die Art nur noch als „Chemotyp“ von Bryoria fuscescens geführt, also heißt das Taxon aktuell „Bryoria fuscescens Chemotyp capilund p-Phenyldiamin (PPD)laris“.
 
-Verwechslungsmöglichkeiten
+
+**Verwechslungsmöglichkeiten**
+
 Der Braune Moosbart (Bryoria fuscescens) kommt wesentlich häufiger vor, ist in der Farbe mehr bräunlich und besitzt völlig andere Tüpfelreaktionen des Thallus, nämlich mit Kalilauge (KOH) negativ , und p-Phenyldiamin (PPD)rot verfärbend  oder auch negativ.
 
 Die Usnea-Arten besitzen, im Gegensatz zu den Bryoria-Arten, in jedem Ast mittig einen dehnbaren, weißen Zentralstrang.
