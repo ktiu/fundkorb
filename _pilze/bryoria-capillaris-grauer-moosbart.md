@@ -42,7 +42,7 @@ Wir fanden sie am 21. Februar 2025 bei einer Kartierung im Nordschwarzwald in ei
 
 **Morphologische Merkmale** (in Anlehnung an Wirth & Düll 2000)
 
-Der [Thallus](Thallus"Glossar") ist hängend, bis ca. 30 cm lang und in der Farbe grau, oft mit grünlichem Einschlag. Er wächst direkt am Stamm oder an den Ästen/Zweigen des Wirtsbaumes und ist stets nur an einer Stelle angewachsen. Die stielrunden, glatten Äste, die man aufgrund ihrer filigranen Struktur eher als „Fäden“ bezeichnen kann, haben maximal 0,5 mm Durchmesser und sind gabelig verzweigt („dichotom“), wobei die Tochteräste meist etwa gleichlang sind. Die Fäden sind hohl im Schnitt. Sogenannte „Kurzzweige“ besitzt unsere Art nicht.
+Der [Thallus](Thallus"Glossar") ist hängend, bis ca. 30 cm lang und in der Farbe grau, oft mit grünlichem Einschlag. Er wächst direkt am Stamm oder an den Ästen/Zweigen des Wirtsbaumes und ist stets nur an einer Stelle angewachsen. Die stielrunden, glatten Äste, die man aufgrund ihrer filigranen Struktur eher als „Fäden“ bezeichnen kann, haben maximal 0,5 mm Durchmesser und sind gabelig verzweigt („[dichotom](dichotom"Glossar")“), wobei die Tochteräste meist etwa gleichlang sind. Die Fäden sind hohl im Schnitt. Sogenannte „Kurzzweige“ besitzt unsere Art nicht.
 [Isidien](Isidien"Glossar") findet man keine, [Apothecien](Apothecien "Glossar") so gut wie nie. [Sorale](Sorale"Glossar") sind bei manchen Exemplaren vorhanden, bei unserem Fund suchten wir vergeblich danach.
 Die makrochemischen Farbreaktionen (Tüpfelreaktionen) zeigen folgende Verfärbungen des Thallus: mit Kalilauge (KOH) intensiv gelb.
 
