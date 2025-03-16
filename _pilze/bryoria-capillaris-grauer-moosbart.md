@@ -38,7 +38,7 @@ Wir fanden sie am 21. Februar 2025 bei einer Kartierung im Nordschwarzwald in ei
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/bryoria_capillaris_02_wiki.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/bryoria_capillaris_03_bm.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Linkes Foto: Jason Hollinger, wikipedia.org. This file is licensed under the Creative Commons Attribution 2.0 Generic license, Rechtes Foto: Detailfoto mit glatten Ästen und dichotomen Verzweigungen" %}
+{% include abbildung_ende.html legende="Linkes Foto: Jason Hollinger, wikipedia.org., Rechtes Foto: Detailfoto mit glatten Ästen und dichotomen Verzweigungen" %}
 
 **Morphologische Merkmale** (in Anlehnung an Wirth & Düll 2000)
 
