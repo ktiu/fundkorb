@@ -50,7 +50,7 @@ Neuerdings wird die Art nur noch als „Chemotyp“ von Bryoria fuscescens gefü
 
 **Verwechslungsmöglichkeiten**
 
-Der Braune Moosbart *Bryoria fuscescens* kommt wesentlich häufiger vor, ist in der Farbe mehr bräunlich und besitzt völlig andere Tüpfelreaktionen des Thallus, nämlich mit Kalilauge (KOH) negativ , und p-Phenyldiamin (PPD)rot verfärbend  oder auch negativ.
+Der Braune Moosbart *Bryoria fuscescens* kommt wesentlich häufiger vor, ist in der Farbe mehr bräunlich und besitzt völlig andere Tüpfelreaktionen des Thallus, nämlich mit Kalilauge (KOH) negativ , und p-Phenyldiamin (PPD) rot verfärbend oder auch negativ.
 
 Die Usnea-Arten besitzen, im Gegensatz zu den Bryoria-Arten, in jedem Ast mittig einen dehnbaren, weißen Zentralstrang.
 
