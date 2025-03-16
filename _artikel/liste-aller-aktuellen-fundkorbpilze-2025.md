@@ -3,7 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-15.03.2025: [Dacrymyces stillatus - Zerfließende Gallertträne](/pilze/dacrymyces-stillatus-zerfließende-gallertträne)  
+17.03.2025: [Cladonia portentosa - Ebenästige Rentierflechte](/pilze/cladonia-portentosa-ebenästige-rentierflechte)  
+16.03.2025: [Lachnum virgineum - Weißes Haarbecherchen](/pilze/lachnum-virgineum-weißes-haarbecherchen)  
+15.03.2025: [Dacrymyces stillatus - Zerfließende Gallertträne](/pilze/dacrymyces-stillatus-zerfließende-gallertträne)\
 14.03.2025: [Fomitopsis pinicola - Rotrandiger Baumschwamm](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)\
 13.03.2025: [Dasyscyphella nivea - Schneeweißes Haarbecherchen](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)\
 12.03.2025: [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)\
