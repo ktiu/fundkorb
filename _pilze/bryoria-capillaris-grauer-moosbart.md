@@ -40,8 +40,8 @@ Morphologische Merkmale (in Anlehnung an Wirth & Düll 2000)
 {% include bild.html datei="/bilder/bryoria_capillaris_03_bm.jpg" %}
 {% include abbildung_ende.html legende="Detailfoto mit glatten Ästen und dichotomen Verzweigungen" %}
 
-Der Thallus ist hängend, bis ca. 30 cm lang (Bild 2) und in der Farbe grau, oft mit grünlichem Einschlag. Er wächst direkt am Stamm oder an den Ästen/Zweigen des Wirtsbaumes und ist stets nur an einer Stelle angewachsen. Die stielrunden, glatten Äste, die man aufgrund ihrer filigranen Struktur eher als „Fäden“ bezeichnen kann, haben maximal 0,5 mm Durchmesser und sind gabelig verzweigt („dichotom“), wobei die Tochteräste meist etwa gleichlang sind (Bild 3). Die Fäden sind hohl im Schnitt. Sogen. „Kurzzweige“ besitzt unsere Art nicht.
-Isidien findet man keine, Apothecien so gut wie nie. Sorale sind bei manchen Exemplaren vorhanden, bei unserem Fund suchten wir vergeblich danach.
+Der [Thallus](Thallus"Glossar") ist hängend, bis ca. 30 cm lang (Bild 2) und in der Farbe grau, oft mit grünlichem Einschlag. Er wächst direkt am Stamm oder an den Ästen/Zweigen des Wirtsbaumes und ist stets nur an einer Stelle angewachsen. Die stielrunden, glatten Äste, die man aufgrund ihrer filigranen Struktur eher als „Fäden“ bezeichnen kann, haben maximal 0,5 mm Durchmesser und sind gabelig verzweigt („dichotom“), wobei die Tochteräste meist etwa gleichlang sind (Bild 3). Die Fäden sind hohl im Schnitt. Sogen. „Kurzzweige“ besitzt unsere Art nicht.
+[Isidien](Isidien"Glossar") findet man keine, [Apothecien](Apothecien "Glossar") so gut wie nie. Sorale sind bei manchen Exemplaren vorhanden, bei unserem Fund suchten wir vergeblich danach.
 Die makrochemischen Farbreaktionen (Tüpfelreaktionen) zeigen folgende Verfärbungen des Thallus: mit Kalilauge (KOH) intensiv gelb.
 
 Neuerdings wird die Art nur noch als „Chemotyp“ von Bryoria fuscescens geführt, also heißt das Taxon aktuell „Bryoria fuscescens Chemotyp capilund p-Phenyldiamin (PPD)laris“.
