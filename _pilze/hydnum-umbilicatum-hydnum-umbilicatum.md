@@ -41,7 +41,7 @@ Lediglich im „Tintling“ erschien 2013 ein Artikel von Gernot Friebes über S
 Christoph Hahn hat 2018 einen Hydnum-Schlüssel für Europa veröffentlicht, in dem auch Mikromerkmale aufgeführt sind.
 Meine 15 gemessenen fast kreisrunden Sporen - 9,2 x 8,7 (8,4-9,9 x 7,6-9,4), Q=1,06 (0,99-1,13) – befinden sich im Überschneidungsbereich von *Hydnum oregonense* (= *Hydnum umbilicatum* ss. auct) und *Hydnum umbilicatum* s.l. 
 
-<br  />
+<br  /><br  />
 
 <br  />Hier der relevante Auszug aus dem Schlüssel von C. Hahn: 
 
