@@ -20,7 +20,7 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 {% include bild.html datei="/bilder/stereum_sanguinolentum_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-18.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutende Nadelholzschichtpilz *Stereum sanguinolentum*. Totes Fichtenholz, an dem er seine Fruchtkörper bilden kann, gibt ja zur Genüge. Die gefundenen Fruchtkörper waren gestern zwar so trocken, dass ich ihre [stereoiden](stereoid "Glossar") [Hymenien](Hymenien "Glossar") nicht mehr zum Bluten bringen konnte, an der Bestimmung gab es trotzdem keine Zweifel. Die geritzten Spuren, die ich vor wenigen Wochen zum Nachweis angebracht hatte, waren noch gut zu erkennen. (Dieter Gewalt) [Mehr lesen >](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)
+18.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutende Nadelholzschichtpilz *Stereum sanguinolentum*. Totes Fichtenholz, an dem er seine Fruchtkörper bilden kann, gibt ja zur Genüge. Die gefundenen Fruchtkörper waren gestern zwar so trocken, dass ich ihre [stereoiden](stereoid "Glossar") [Hymenien](Hymenium "Glossar") nicht mehr zum Bluten bringen konnte, an der Bestimmung gab es trotzdem keine Zweifel. Die geritzten Spuren, die ich vor wenigen Wochen zum Nachweis angebracht hatte, waren noch gut zu erkennen. (Dieter Gewalt) [Mehr lesen >](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)
 
 <div style="clear:  both"></div>
 
