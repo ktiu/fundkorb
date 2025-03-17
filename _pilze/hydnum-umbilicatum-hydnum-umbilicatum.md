@@ -21,8 +21,6 @@ literatur:
   - text: "kartierte Funde in Deutschland:"
     url: https://www.pilze-deutschland.de/organismen/hydnum-umbilicatum-peck-1902-1
 ---
-
-
 Es gehört schon eine Portion Glück dazu, den genabelten Semmelstoppelpilz *Hydnum umbilicatum* zu finden.
 Wir fanden ihn Mitte November bei einem Waldspaziergang in der Nähe von Murnau. Unter gesellig wachsenden Trompetenpfifferlingen standen einige Stoppelpilze mit genabeltem Hut. Von oben betrachtet sahen sie den Trompetenpfifferlingen recht ähnlich. In der gängigen deutschsprachigen Pilzliteratur fand ich jedoch dazu keine Angaben.
 
@@ -36,3 +34,6 @@ Lediglich im „Tintling“ erschien 2013 ein Artikel von Gernot Friebes über S
 {% include bild.html datei="/bilder/hydnum_umbilicatum_04_jr.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hydnum_umbilicatum_05_jr.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Sporen in Wasser, 1000 fach" %}
