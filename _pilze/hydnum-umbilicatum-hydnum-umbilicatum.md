@@ -41,14 +41,14 @@ Lediglich im „Tintling“ erschien 2013 ein Artikel von Gernot Friebes über S
 Christoph Hahn hat 2018 einen Hydnum-Schlüssel für Europa veröffentlicht, in dem auch Mikromerkmale aufgeführt sind.
 Meine 15 gemessenen fast kreisrunden Sporen - 9,2 x 8,7 (8,4-9,9 x 7,6-9,4), Q=1,06 (0,99-1,13) – befinden sich im Überschneidungsbereich von *Hydnum oregonense* (= *Hydnum umbilicatum* ss. auct) und *Hydnum umbilicatum* s.l. 
 
-<br  /><br  />
+<br /><br />
 
-<br  />**Hier der relevante Auszug aus dem Schlüssel von C. Hahn:** 
+<br />**Hier der relevante Auszug aus dem Schlüssel von C. Hahn:** 
 
 **15*** Hut mit auffallender zentraler Depression, genabelt ……………………………………………………………… **16**
-**16** Sporen sehr groß, im Schnitt 9,5 x 9,0 µm; bislang nur im westlichen Nordamerika nachgewiesen ..
+<br />**16** Sporen sehr groß, im Schnitt 9,5 x 9,0 µm; bislang nur im westlichen Nordamerika nachgewiesen ..
 ……………………………………………………………….……. ***Hydnum oregonense* (= *Hydnum umbilicatum* ss. auct)**
-**16*** Sporen kleiner, im Schnitt um 8,4-8,9 x 8,0-8,1 µm …………………..…………. ***Hydnum umbilicatum* s.l.**
+<br />**16*** Sporen kleiner, im Schnitt um 8,4-8,9 x 8,0-8,1 µm …………………..…………. ***Hydnum umbilicatum* s.l.**
 
 **Bem.:** *Hydnum ellipsosporum* p.p. ss. GREBENC et al. (2009), FENG et. al. (2015) und *Hydnum* aff. *ellipsosporum* ss. OLARIAGA et al. (2012), VIZZINI et al. (2013) sind in dieser Interpretation enthalten. Während Hydnum umbilicatum im Sinne der oben genannten Quellen sich genetisch als eigenständige, großsporige, rein westlich nordamerikanische Art herausstellt (NISKANEN et al. 2018), soll *Hydnum umbilicatum* s.str. nur im östlichen Nordamerika vorkommen, während die morphologisch-anatomisch nicht unterscheidbaren europäischen (NISKANEN et al. 2018) als *Hydnum* cf. *umbilicatum* bezeichnen.
 
