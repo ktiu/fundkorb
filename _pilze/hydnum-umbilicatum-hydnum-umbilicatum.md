@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Hydnum umbilicatum
-  deutsch: Hydnum umbilicatum
+  deutsch: Genabelter Semmelstoppelpilz
   referenz: Peck (1902)
   erlaeuterung: "umbilicatum = Nabel "
   familie: Hydnaceae
