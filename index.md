@@ -17,6 +17,14 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calloria_neglecta_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.03.2025: Wenn man mal gar nichts findet - an vertrockneten Brennnesselstängeln vom Vorjahr hat man fast immer Erfolg. Zu Hunderten auf einem einzigen wächst zur Zeit das Orangerote Brennnesselbecherchen *Calloria neglecta* und ist daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Es fehlt in keinem Brennnesselbestand. (Dieter Gewalt) [Mehr lesen >](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/antrodia_serialis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,14 +69,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 {% include abbildung_ende.html %}
 
 14.03.2025: Dem Namen nach sollte der Rotrandige Baumschwamm *Fomitopsis pinicola* an einer Kiefer wachsen (*pinicola* heißt „Kiefern bewohnend“), doch hier „bewohnt“ unser aktueller [Fundkorbpilz](AA "Glossar-") einen liegenden Laubholzstamm. Und hat auch keinen roten Rand. Während der Wachstumsphasen ist der Hutrand gelb, dann rot und später ist die ganze Hutoberfläche dunkelgrau. Am attraktivsten sieht er aus, wenn er mit [Guttationstropfen](Guttation "Glossar") behangen ist. [Mehr lesen >](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/dasyscyphella_nivea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.03.2025: Einen begeisternden Anblick bietet unser aktueller [Fundkorbpilz](AA "Glossar-"), das Schneeweiße Haarbecherchen *Dasyscyphella nivea*. Der winzige [Ascomyzet](Ascomyzeten "Glossar") begegnete uns gestern mehrfach an totem Eichenholz. An einigen der becher-, kelch- oder tellerförmigen gestielten Fruchtkörper hingen auch noch winzige Wassertröpfchen, was allerdings nur mit einer stark vergrößernden Lupe zu erkennen war (Dieter Gewalt) [Mehr lesen >](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)
 
 <div style="clear:  both"></div>
 
