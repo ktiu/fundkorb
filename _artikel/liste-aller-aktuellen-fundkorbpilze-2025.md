@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-19.03.2025: [Antrodia serialis - Reihige Tramete](/pilze/antrodia-serialis-reihige-tramete)  
+20.03.2025: [Calloria neglecta - Orangerotes Brennnesselbecherchen](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)  
+19.03.2025: [Antrodia serialis - Reihige Tramete](/pilze/antrodia-serialis-reihige-tramete)\
 18.03.2025: [Stereum sanguinolentum - Blutender Nadelholzschichtpilz](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)\
 17.03.2025: [Cladonia portentosa - Ebenästige Rentierflechte](/pilze/cladonia-portentosa-ebenästige-rentierflechte)\
 16.03.2025: [Lachnum virgineum - Weißes Haarbecherchen](/pilze/lachnum-virgineum-weißes-haarbecherchen)\
