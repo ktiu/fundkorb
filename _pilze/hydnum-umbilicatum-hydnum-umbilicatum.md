@@ -50,8 +50,6 @@ Meine 15 gemessenen fast kreisrunden Sporen - 9,2 x 8,7 (8,4-9,9 x 7,6-9,4), Q=1
 ……………………………………………………………….……. ***Hydnum oregonense* (= *Hydnum umbilicatum* ss. auct)**
 <br />**16*** Sporen kleiner, im Schnitt um 8,4-8,9 x 8,0-8,1 µm …………………..…………. ***Hydnum umbilicatum* s.l.**
 
-**Bem.:** *Hydnum ellipsosporum* p.p. ss. GREBENC et al. (2009), FENG et. al. (2015) und *Hydnum* aff. *ellipsosporum* ss. OLARIAGA et al. (2012), VIZZINI et al. (2013) sind in dieser Interpretation enthalten. Während Hydnum umbilicatum im Sinne der oben genannten Quellen sich genetisch als eigenständige, großsporige, rein westlich nordamerikanische Art herausstellt (NISKANEN et al. 2018), soll *Hydnum umbilicatum* s.str. nur im östlichen Nordamerika vorkommen, während die morphologisch-anatomisch nicht unterscheidbaren europäischen (NISKANEN et al. 2018) als *Hydnum* cf. *umbilicatum* bezeichnen.
 
-Solange die Experten sich nicht einig sind, bleibe ich mit der Bestimmung beim Genabelten Semmelstoppelpilz.
 
 Mit der Merkmalskombination s*emmelfarbener trichterförmiger Hut, cremefarbene kegelförmige Stoppeln + relativ zum Hutdurchmesser langer Stiel*, lässt sich *Hydnum* *umbilicatum* durchaus makroskopisch ansprechen. Obwohl er als guter Speisepilz gilt, ist er wegen seiner Seltenheit zu schonen. Laut DGfM-Kartierung gibt es in Deutschland nur 22 Fundmeldungen, in Österreich 25, davon 12 in 2024 (Stand 20.02.2025)
