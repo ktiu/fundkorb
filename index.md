@@ -16,6 +16,14 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/hygrophorus_marzulosus_04_gsch.jpg" %}
+{% include abbildung_ende.html %}
+
+21.03.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Märzschneckling *Hygrophorus marzuolus*, den wir regelmäßig im Ebersberger Forst bei München finden. Er ist einer der frühesten Lamellenpilze im Jahr. Ihn zu finden ist in der Tat ein besonderes Highlight, handelt es sich doch um eine äußerst seltene schützenswerte Art, die in der Roten Liste Deutschlands als „stark gefährdet“ (RL 2) geführt wird. Er erscheint von März bis Ende April in artenreichen Bergmischwäldern, und dort meistens bei Weißtanne. Übrigens ist er kürzlich auch von *Christian Weinkötz* gefunden worden, und zwar in der Vulkaneifel. (Johann Rejek) [Mehr lesen >](/pilze/hygrophorus-marzuolus-märzschneckling) 
+
+<div style="clear:  both"></div> 
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/calloria_neglecta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
