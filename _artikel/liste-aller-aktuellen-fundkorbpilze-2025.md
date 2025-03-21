@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-21.03.2025: [Hygrophorus marzuolus - Märzschneckling](/pilze/hygrophorus-marzuolus-märzschneckling)  
+22.03.2025: [Helvella leucomelaena - Schwarzweiße Lorchel](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)  
+21.03.2025: [Hygrophorus marzuolus - Märzschneckling](/pilze/hygrophorus-marzuolus-märzschneckling)\
 20.03.2025: [Calloria neglecta - Orangerotes Brennnesselbecherchen](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)\
 19.03.2025: [Antrodia serialis - Reihige Tramete](/pilze/antrodia-serialis-reihige-tramete)\
 18.03.2025: [Stereum sanguinolentum - Blutender Nadelholzschichtpilz](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)\
