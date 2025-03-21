@@ -17,6 +17,14 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_leucomelaena_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.03.2025: Bei einem Spaziergang in einem jungen Kiefernforst bei Heusenstamm habe ich einen interessanten Schlauchpilz entdeckt, der wohl gerade aus dem trockenen Boden geschlüpft ist. Es waren die ersten urnenförmigen Sprösslinge der Schwarzweißen Lorchel *Helvella leucomelaena*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Überraschend war der Fund nicht, denn in manchen Jahren fruchtet er hier in Massen. Er ist einer meiner Lieblingspilze im Frühling. (Adam Adamovicz) [Mehr lesen >](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrophorus_marzulosus_04_gsch.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,22 +69,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 {% include abbildung_ende.html %}
 
 16.03.2025: Aktueller Fundkorbpilz ist das Weiße Haarbecherchen *Lachnum virgineum*. Weil es eine Menge solcher winziger weißer becherförmiger Pilze gibt, ist eine Bestimmung auf den ersten Blick kaum möglich. Das Substrat spielt eine Rolle. Wirklich Klarheit ist aber nur durch eine mikroskopische Prüfung zu gewinnen. Ohne solchen Aufwand zu betreiben, kann man sich immerhin an der Schönheit solcher Pilzvorkommen erfreuen, wozu allerdings eine gut vergrößernde Lupe erforderlich ist. (Dieter Gewalt) [Mehr lesen >](/pilze/lachnum-virgineum-weißes-haarbecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/dacrymyces_stillatus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.03.2025: Wenn es feucht ist in den Wäldern, wird man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Zerfließende Gallertträne *Dacrymyces stillatus*, nicht vergeblich suchen. Die bis zu 10 mm großen knopfförmigen Fruchtkörper erscheinen ganzjährig auf totem Nadel- und Laubholz, auf Stämmen, Ästen oder Zweigen. Beim Aufquellen fließen sie zusammen und bilden gern gelatinöse Massenvorkommen von gelblicher Farbe. (Dieter Gewalt) [Mehr lesen >](/pilze/dacrymyces-stillatus-zerfließende-gallertträne)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/fomitopsis_pinicola_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.03.2025: Dem Namen nach sollte der Rotrandige Baumschwamm *Fomitopsis pinicola* an einer Kiefer wachsen (*pinicola* heißt „Kiefern bewohnend“), doch hier „bewohnt“ unser aktueller [Fundkorbpilz](AA "Glossar-") einen liegenden Laubholzstamm. Und hat auch keinen roten Rand. Während der Wachstumsphasen ist der Hutrand gelb, dann rot und später ist die ganze Hutoberfläche dunkelgrau. Am attraktivsten sieht er aus, wenn er mit [Guttationstropfen](Guttation "Glossar") behangen ist. [Mehr lesen >](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)
 
 <div style="clear:  both"></div>
 
