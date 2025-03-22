@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-22.03.2025: [Helvella leucomelaena - Schwarzweiße Lorchel](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)  
+23.03.2025: [Auriscalpium vulgare - Ohrlöffelstacheling](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)\
+22.03.2025: [Helvella leucomelaena - Schwarzweiße Lorchel](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)\
 21.03.2025: [Hygrophorus marzuolus - Märzschneckling](/pilze/hygrophorus-marzuolus-märzschneckling)\
 20.03.2025: [Calloria neglecta - Orangerotes Brennnesselbecherchen](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)\
 19.03.2025: [Antrodia serialis - Reihige Tramete](/pilze/antrodia-serialis-reihige-tramete)\
@@ -83,6 +84,6 @@ published: true
 06.01.2025: [Peniophora limitata - Eschen-Zystidenrindenpilz](/pilze/peniophora-limitata-eschen-zystidenrindenpilz)\
 05.01.2025: [Auricularia mesenterica - Gezonter Ohrlappenpilz](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)\
 04.01.2025: [Hygrophorus hypothejus - Frostschneckling](/pilze/hygrophorus-hypothejus-frostschneckling)\
-03.01.2024: [Hypoxylon cohaerens - Zusammengedrängte Kohlenbeere](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)\
+03.01.2025: [Hypoxylon cohaerens - Zusammengedrängte Kohlenbeere](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)\
 02.01.2025: [Tremella mesenterica - Goldgelber Zitterling](/pilze/tremella-mesenterica-goldgelber-zitterling)\
 01.01.2025: [Flammulina elastica - Schmalsporiger Samtfußrübling](/pilze/flammulina-elastica-schmalsporiger-samtfußrübling)
