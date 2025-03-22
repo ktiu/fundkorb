@@ -15,6 +15,14 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/auriscalpium_vulgare_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.03.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Ohrlöffelstacheling *Auriscalpium vulgare*, gehört zu jenen Pilzarten, die unverwechselbar sind. Hut und Stiel (seitlich angewachsen) sind komplett zottig bis filzig behaart, und die Fruchtschicht besteht aus kleinen „Stacheln“. Er wächst hauptsächlich an herabgefallenen Kiefernzapfen. Man muss dabei schon gezielt auf die Suche gehen, denn durch den kleinen Hut und die unauffällige Hutfarbe ist er leicht zu übersehen. (Johann Rejek) [Mehr lesen >](pilze/auriscalpium-vulgare-ohrlöffelstacheling)
+
+<div style="clear:  both"></div> 
+
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_leucomelaena_02_dg.jpg" %}
@@ -56,21 +64,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cladonia_portentosa_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-17.03.2025: Eine attraktive aber leider seltene und im Bestand gefährdete Flechte ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). In einem lichten Kiefernwald im Nordschwarzwald fanden wir die Ebenästige Rentierflechte *Cladonia portentosa* auf einem völlig vermorschten und mit Moos zugewachsenen Baumstumpf. Um die Bestimmung abzusichern, wurden die Astspitzen mit der Lupe begutachtet und makrochemische Tüpfelreaktionen mit Kalilauge und Phenylendiamin vorgenommen. (Bernd Miggel) [Mehr lesen >](/pilze/cladonia-portentosa-ebenästige-rentierflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lachnum_virgineum_03.25.jpg" %}
-{% include abbildung_ende.html %}
-
-16.03.2025: Aktueller Fundkorbpilz ist das Weiße Haarbecherchen *Lachnum virgineum*. Weil es eine Menge solcher winziger weißer becherförmiger Pilze gibt, ist eine Bestimmung auf den ersten Blick kaum möglich. Das Substrat spielt eine Rolle. Wirklich Klarheit ist aber nur durch eine mikroskopische Prüfung zu gewinnen. Ohne solchen Aufwand zu betreiben, kann man sich immerhin an der Schönheit solcher Pilzvorkommen erfreuen, wozu allerdings eine gut vergrößernde Lupe erforderlich ist. (Dieter Gewalt) [Mehr lesen >](/pilze/lachnum-virgineum-weißes-haarbecherchen)
-
-<div style="clear:  both"></div>
 
 - - -
 
