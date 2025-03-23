@@ -15,6 +15,15 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/flammulaster_carpophilus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.03.2025: Die Substratwahl vieler Pilzarten kann eine entscheidende Bestimmungshilfe sein. Ein besonders interessantes Substrat sind Bucheckernschalen. Der Buchenwald-Flockenschüppling *Flammulaster carpophilus* liebt nicht nur Buchenwälder, sondern hat es bevorzugt auf Bucheckernschalen abgesehen. Unser aktueller [Fundkorbpilz](AA "Glossar-")  hat meist nur Hutgrößen von weniger als 1 cm, während die Stiele ein Vielfaches davon erreichen können. Er erscheint oft schon früh im Jahr und ist aufgrund seines Substrat so gut wie unverwechsekbar. (Dieter Gewalt) [Mehr lesen >](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)
+
+<div style="clear:  both"></div> 
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/auriscalpium_vulgare_05_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -22,7 +31,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 23.03.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Ohrlöffelstacheling *Auriscalpium vulgare*, gehört zu jenen Pilzarten, die unverwechselbar sind. Hut und Stiel (seitlich angewachsen) sind komplett zottig bis filzig behaart, und die Fruchtschicht besteht aus kleinen „Stacheln“. Er wächst hauptsächlich an herabgefallenen Kiefernzapfen. Man muss dabei schon gezielt auf die Suche gehen, denn durch den kleinen Hut und die unauffällige Hutfarbe ist er leicht zu übersehen. (Johann Rejek) [Mehr lesen >](pilze/auriscalpium-vulgare-ohrlöffelstacheling)
 
 <div style="clear:  both"></div> 
-
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_leucomelaena_02_dg.jpg" %}
@@ -55,15 +63,6 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 19.03.2025: Wenn sich Pilze in ihrer Wuchsform dem Substrat, auf dem sie wachsen, anpassen und dabei auch noch in vielfältiger Weise ihr Erscheinungsbild verändern, kann dies die Bestimmung erschweren. Das ist zum Beispiel beim hier gezeigten aktuellen [Fundkorbpilz](AA "Glossar-"), der Reihigen Tramete Antrodia serialis, der Fall. Sie kann an Schnittflächen ausgedehnte [resupinate](resupinat "Glossar") Beläge bilden oder [effus-reflex](effus-reflex "Glossar") wachsen und deutlich abstehende Hutkanten bilden. (Dieter Gewalt) [Mehr lesen >](/pilze/antrodia-serialis-reihige-tramete)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_sanguinolentum_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutende Nadelholzschichtpilz *Stereum sanguinolentum*. Totes Fichtenholz, an dem er seine Fruchtkörper bilden kann, gibt ja zur Genüge. Die gefundenen Fruchtkörper waren gestern zwar so trocken, dass ich ihre [stereoiden](stereoid "Glossar") [Hymenien](Hymenium "Glossar") nicht mehr zum Bluten bringen konnte, an der Bestimmung gab es trotzdem keine Zweifel. Die geritzten Spuren, die ich vor wenigen Wochen zum Nachweis angebracht hatte, waren noch gut zu erkennen. (Dieter Gewalt) [Mehr lesen >](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)
-
-<div style="clear:  both"></div>
-
 
 - - -
 
