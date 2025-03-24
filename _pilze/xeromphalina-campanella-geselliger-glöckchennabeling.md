@@ -22,7 +22,7 @@ literatur:
 ---
 Gesellige Glöckchennabelinge zu finden, ist immer auch ein ästhetisches Erlebnis, vergleichbar mit Blumen und Blüten. Das lassen Begriffe wie *gesellig* und *Glöckchen* schon vermuten, und ein Blick auf die Fotos von *Johann Rejek* verdeutlicht es noch. Es sind bildhübsche kleine Pilzchen. Dass sie mit den Helmlingen verwandt ist, erscheint aufgrund ihres Aussehens durchaus nachvollziehbar.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/xeromphalina_campanella_02_jr.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/xeromphalina_campanella_03_jr.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/xeromphalina_campanella_04_jr.jpg" nocrop=true %}
