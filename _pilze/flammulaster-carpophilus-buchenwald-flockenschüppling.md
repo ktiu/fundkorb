@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Flammulaster carpophilus
-  deutsch: Buchenwald-Flockenschüppling
+  deutsch: Buchenwald-Flockenschnitzling
   referenz: (Fr.) Earle ex Vellinga 1986
   erlaeuterung: carpophilus = fruchtliebend, an Fruchthüllen wachsend
   familie: Strophariaceae
@@ -13,7 +13,7 @@ hauptbild:
   datei: /bilder/flammulaster_carpophilus_01_fk.jpg
   legende: "Foto: Frank Kaster"
 ---
-Was auf vorjährigen auf dem Waldboden liegenden Bucheckernfruchtschalen wächst und so aussieht wie auf dem Foto, ist zweifelsfrei unser Buchenwald-Flockenschüppling. Dem speziellen Substrat angepasst ist der Pilz sehr klein. Die hellgelblichen Hütchen haben nur selten mehr als 1 cm Durchmesser und sind von [Velumresten](Velum "Glossar") körnig bereift. Die Länge der Stiele kann ein Vielfaches des Hutdurchmessers erreichen, besonders wenn die Laubschicht dick ist. Schließlich müssen die Hütchen zum Aussporen in ausreichende Höhe gehoben werden.  
+Was auf vorjährigen auf dem Waldboden liegenden Bucheckernfruchtschalen wächst und so aussieht wie auf dem Foto, ist zweifelsfrei unser Buchenwald-Flockenschnitzling. Dem speziellen Substrat angepasst ist der Pilz sehr klein. Die hellgelblichen Hütchen haben nur selten mehr als 1 cm Durchmesser und sind von [Velumresten](Velum "Glossar") körnig bereift. Die Länge der Stiele kann ein Vielfaches des Hutdurchmessers erreichen, besonders wenn die Laubschicht dick ist. Schließlich müssen die Hütchen zum Aussporen in ausreichende Höhe gehoben werden.  
 
 Wie ich den 1980er Jahren auf das Minipilzchen aufmerksam geworden bin, sei hier kurz erwähnt. Im damals meistbenutzten Bestimmungsbuch, dem *"Moser"*, fand ich im Anhang die unten wiedergegebene Habituszeichnung und machte mich gezielt auf die Suche. Es dauerte nicht lange, bis ich fündig wurde. Die Suche ist insbesondere bei feuchter Witterung erfolgversprechend. Da könnte man in Buchenwäldern in kurzer Zeit mehrere bis viele Fundstellen ausmachen. Natürlich ist einzuräumen, dass die Winzlinge leicht zu übersehen sind.
 
