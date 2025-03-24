@@ -20,7 +20,7 @@ Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frank
 {% include bild.html datei="/bilder/flammulaster_carpophilus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-24.03.2025: Die Substratwahl vieler Pilzarten kann eine entscheidende Bestimmungshilfe sein. Ein besonders interessantes Substrat sind Bucheckernschalen. Der Buchenwald-Flockenschüppling *Flammulaster carpophilus* liebt nicht nur Buchenwälder, sondern hat es bevorzugt auf Bucheckernschalen abgesehen. Unser aktueller [Fundkorbpilz](AA "Glossar-")  hat meist nur Hutgrößen von weniger als 1 cm, während die Stiele ein Vielfaches davon erreichen können. Er erscheint oft schon früh im Jahr und ist aufgrund seines Substrat so gut wie unverwechsekbar. (Dieter Gewalt) [Mehr lesen >](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)
+24.03.2025: Die Substratwahl vieler Pilzarten kann eine entscheidende Bestimmungshilfe sein. Ein besonders interessantes Substrat sind Bucheckernschalen. Der Buchenwald-Flockenschüppling *Flammulaster carpophilus* liebt nicht nur Buchenwälder, sondern hat es bevorzugt auf Bucheckernschalen abgesehen. Unser aktueller [Fundkorbpilz](AA "Glossar-")  hat meist nur Hutgrößen von weniger als 1 cm, während die Stiele ein Vielfaches davon erreichen können. Er erscheint oft schon früh im Jahr und ist aufgrund seines Substrats so gut wie unverwechselbar. (Dieter Gewalt) [Mehr lesen >](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)
 
 <div style="clear:  both"></div> 
 
