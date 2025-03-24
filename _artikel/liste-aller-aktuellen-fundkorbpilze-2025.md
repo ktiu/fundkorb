@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-24.03.2025: [Flammulaster carpophilus - Buchenwald-Flockenschüppling](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)  
+25.03.2025: [Xeromphalina campanella - Geselliger Glöckchennabeling](/pilze/xeromphalina-campanella-geselliger-glöckchennabeling)\
+24.03.2025: [Flammulaster carpophilus - Buchenwald-Flockenschnitzling](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)\
 23.03.2025: [Auriscalpium vulgare - Ohrlöffelstacheling](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)\
 22.03.2025: [Helvella leucomelaena - Schwarzweiße Lorchel](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)\
 21.03.2025: [Hygrophorus marzuolus - Märzschneckling](/pilze/hygrophorus-marzuolus-märzschneckling)\
