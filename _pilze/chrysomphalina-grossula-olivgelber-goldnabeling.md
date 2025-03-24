@@ -26,3 +26,5 @@ Der Pilz scheint eine Art zu sein, die gern spät im Jahr erscheint, etwa Septem
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/chrysomphalina_grossula_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
+
+Verwechselt werden könnte er mit dem [Geselligen Glöckchennabeling *Xeromphalina campanella*](/pilze/xeromphalina-campanella-geselliger-glöckchennabeling).
