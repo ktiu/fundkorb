@@ -11,7 +11,7 @@ footer_scripts:
 <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
 Neuer Exkursionstermin:\
-Sonntag, 23. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im Frankfurter Stadtwald**\
+Sonntag, 6. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG Kühkopf**\
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
