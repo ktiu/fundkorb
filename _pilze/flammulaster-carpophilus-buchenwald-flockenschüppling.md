@@ -28,4 +28,4 @@ In diesem Zusammenhang möchte ich einmal wieder darauf hinweisen, dass Angaben 
 ##### Weitere auf Bucheckernschalen wachsende Pilzarten:
 
 [Xylaria carpophila = Bucheckernschalen-Holzkeule](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)\
-[](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)[Lachnum virgineum = Weißes Haarbecherchen](/pilze/lachnum-virgineum-weißes-haarbecherchen)
+[Lachnum virgineum = Weißes Haarbecherchen](/pilze/lachnum-virgineum-weißes-haarbecherchen)
