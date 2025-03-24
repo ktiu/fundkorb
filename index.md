@@ -19,7 +19,7 @@ Sonntag, 6. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 {% include bild.html datei="/bilder/Xeromphalina_campanella_02_jr.jpg" %}
 {% include abbildung_ende.html %}
 
-25.03.2025: Einer der ersten Frühjahrspilze, der Gesellige Glöckchennabeling *Xeromphalina campanella* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Ich fand ihn im Ebersberger Forst östlich von München. Obwohl der einzelne Fruchtkörper recht klein ist (maximal 2cm Hutdurchmesser), kann man den Pilz bereits aus einiger Entfernung entdecken. Er wächst meistens in großer Menge (gesellig) an morschen Fichtenstümpfen, und mit seiner gelb- und orangebräunlichen Farbe hebt er sich deutlich von seiner Umgebung ab. (Johann Rejek)
+25.03.2025: Einer der ersten Frühjahrspilze, der Gesellige Glöckchennabeling *Xeromphalina campanella* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Ich fand ihn im Ebersberger Forst östlich von München. Obwohl der einzelne Fruchtkörper recht klein ist (maximal 2cm Hutdurchmesser), kann man den Pilz bereits aus einiger Entfernung entdecken. Er wächst meistens in großer Menge (gesellig) an morschen Fichtenstümpfen, und mit seiner gelb- und orangebräunlichen Farbe hebt er sich deutlich von seiner Umgebung ab. (Johann Rejek) [Mehr lesen >](/pilze/xeromphalina-campanella-geselliger-glöckchennabeling)
 
 <div style="clear:  both"></div> 
 
