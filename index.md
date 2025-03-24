@@ -15,6 +15,13 @@ Sonntag, 6. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/Xeromphalina_campanella_02_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+25.03.2025: Einer der ersten Frühjahrspilze, der Gesellige Glöckchennabeling *Xeromphalina campanella* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Ich fand ihn im Ebersberger Forst östlich von München. Obwohl der einzelne Fruchtkörper recht klein ist (maximal 2cm Hutdurchmesser), kann man den Pilz bereits aus einiger Entfernung entdecken. Er wächst meistens in großer Menge (gesellig) an morschen Fichtenstümpfen, und mit seiner gelb- und orangebräunlichen Farbe hebt er sich deutlich von seiner Umgebung ab. (Johann Rejek)
+
+<div style="clear:  both"></div> 
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/flammulaster_carpophilus_02_dg.jpg" %}
@@ -56,13 +63,6 @@ Sonntag, 6. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/antrodia_serialis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.03.2025: Wenn sich Pilze in ihrer Wuchsform dem Substrat, auf dem sie wachsen, anpassen und dabei auch noch in vielfältiger Weise ihr Erscheinungsbild verändern, kann dies die Bestimmung erschweren. Das ist zum Beispiel beim hier gezeigten aktuellen [Fundkorbpilz](AA "Glossar-"), der Reihigen Tramete Antrodia serialis, der Fall. Sie kann an Schnittflächen ausgedehnte [resupinate](resupinat "Glossar") Beläge bilden oder [effus-reflex](effus-reflex "Glossar") wachsen und deutlich abstehende Hutkanten bilden. (Dieter Gewalt) [Mehr lesen >](/pilze/antrodia-serialis-reihige-tramete)
-
-<div style="clear:  both"></div>
 
 - - -
 
