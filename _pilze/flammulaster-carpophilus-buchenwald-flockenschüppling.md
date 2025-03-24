@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Buchenwald-Flockenschnitzling
   referenz: (Fr.) Earle ex Vellinga 1986
   erlaeuterung: carpophilus = fruchtliebend, an Fruchthüllen wachsend
-  familie: Strophariaceae
+  familie: Tubariaceae
 profil:
   aktualisiert: 2021-02-04
   autor_in: Dieter Gewalt
