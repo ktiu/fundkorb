@@ -15,6 +15,15 @@ Sonntag, 6. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/chlorociboria_aeruginascens_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kleinsporige Grünspanbecherling *Chlorociboria aeruginascens*. Zwei Besonderheiten zeichnen ihn aus. Zum einen seine im Pilzreich seltene blaugrüne Farbe. Nicht nur die kleinen Becherchen sind so gefärbt, sondern auch das Holz, in dem seine [Myzelien](Myzel "Glossar") wuchern, und das sogar an dessen Oberfläche. Grünspanbecherlinge wachsen nahezu ganzjährig an toten Laubholzästen, vor allem an Buche. (Dieter Gewalt) [Mehr lesen >](/pilze/chlorociboria-aeruginascens-kleinsporiger-grünspanbecherling)
+
+<div style="clear:  both"></div> 
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/Xeromphalina_campanella_02_jr.jpg" %}
 {% include abbildung_ende.html %}
@@ -54,15 +63,6 @@ Sonntag, 6. März 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 21.03.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Märzschneckling *Hygrophorus marzuolus*, den wir regelmäßig im Ebersberger Forst bei München finden. Er ist einer der frühesten Lamellenpilze im Jahr. Ihn zu finden ist in der Tat ein besonderes Highlight, handelt es sich doch um eine äußerst seltene schützenswerte Art, die in der Roten Liste Deutschlands als „stark gefährdet“ (RL 2) geführt wird. Er erscheint von März bis Ende April in artenreichen Bergmischwäldern, und dort meistens bei Weißtanne. Übrigens ist er kürzlich auch von *Christian Weinkötz* gefunden worden, und zwar in der Vulkaneifel. (Johann Rejek) [Mehr lesen >](/pilze/hygrophorus-marzuolus-märzschneckling) 
 
 <div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calloria_neglecta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.03.2025: Wenn man mal gar nichts findet - an vertrockneten Brennnesselstängeln vom Vorjahr hat man fast immer Erfolg. Zu Hunderten auf einem einzigen wächst zur Zeit das Orangerote Brennnesselbecherchen *Calloria neglecta* und ist daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Es fehlt in keinem Brennnesselbestand. (Dieter Gewalt) [Mehr lesen >](/pilze/calloria-neglecta-orangerotes-brennnesselbecherchen)
-
-<div style="clear:  both"></div>
-
 
 - - -
 
