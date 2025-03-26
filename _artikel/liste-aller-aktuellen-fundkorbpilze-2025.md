@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-26.03.2025: [Chlorociboria aeruginascens - Kleinsporiger Grünspanbecherling](/pilze/chlorociboria-aeruginascens-kleinsporiger-grünspanbecherling)  
+27.03.2025: [Amylostereum chailletii - Tannenschichtpilz](/pilze/amylostereum-chailletii-tannenschichtpilz)\
+26.03.2025: [Chlorociboria aeruginascens - Kleinsporiger Grünspanbecherling](/pilze/chlorociboria-aeruginascens-kleinsporiger-grünspanbecherling) \
 25.03.2025: [Xeromphalina campanella - Geselliger Glöckchennabeling](/pilze/xeromphalina-campanella-geselliger-glöckchennabeling)\
 24.03.2025: [Flammulaster carpophilus - Buchenwald-Flockenschnitzling](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)\
 23.03.2025: [Auriscalpium vulgare - Ohrlöffelstacheling](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)\
