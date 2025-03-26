@@ -17,6 +17,15 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amylostereum_chailletii_02_wp.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+27.03.2025: Mit seinen blassbraunen, [resupinat](resupinat "Glossar") wachsenden Fruchtkörpern zählt unser aktueller [Fundkorbpilz](AA "Glossar-") nicht zu den auffälligsten Entdeckungen unserer Vereinswanderung im Münchner Süden
+. Auf der Unterseite herabgefallener Äste einer sehr imposanten Tanne konnten wir zahlreiche Fruchtkörper des Tannenschichtpilzes *Amylostereum chailletii* finden. Dieser ist eine von drei europäischen Arten der Gattung Amylostereum und verursacht an befallenem Nadelholz eine sogenannte Weißfäule. (Veronika Ziegeltrum) [Mehr lesen >](/pilze/amylostereum-chailletii-tannenschichtpilz)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/chlorociboria_aeruginascens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
