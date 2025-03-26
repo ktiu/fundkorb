@@ -20,10 +20,7 @@ Eine Besonderheit besteht darin, dass seine im Holz wuchernden [Myzelien](Myzel 
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/chlorociboria_aeruginascens_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/chlorociboria_aeruginascens_02_dg.jpg" %}
+{% include bild.html datei="/bilder/chlorociboria_aeruginascens_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
 Der Kleinsporige Grünspanbecherling ist eine verbreitete, mäßig häufige Art, die in Roten Listen geführt wird. Es existiert eine weitere, lt. Literatur sehr seltene Art, die sich durch größere Sporen unterscheidet: *Chlorociboria aeruginosum*. In den wenigen Fällen, in denen ich Sporen mikroskopiert habe, hatte ich es immer mit der kleinsporigen Form zu tun. Sporengröße C. aruginascens 6 - 10 x 1,5 - 2 µm, C. aruginosum 9 - 15 x 1,5 - 2 µm.
