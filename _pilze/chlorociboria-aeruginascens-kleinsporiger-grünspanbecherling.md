@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: aeruginascens = grün verfärbend
   familie: Chlorociboriaceae
 profil:
-  aktualisiert: 2022-03-26
+  aktualisiert: 2025-03-26
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
