@@ -20,13 +20,12 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 {% include bild.html datei="/bilder/amylostereum_chailletii_02_wp.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-27.03.2025: Mit seinen blassbraunen, [resupinat](resupinat "Glossar") wachsenden Fruchtkörpern zählt unser aktueller [Fundkorbpilz](AA "Glossar-") nicht zu den auffälligsten Entdeckungen unserer Vereinswanderung im Münchner Süden
-. Auf der Unterseite herabgefallener Äste einer sehr imposanten Tanne konnten wir zahlreiche Fruchtkörper des Tannenschichtpilzes *Amylostereum chailletii* finden. Dieser ist eine von drei europäischen Arten der Gattung Amylostereum und verursacht an befallenem Nadelholz eine sogenannte Weißfäule. (Veronika Ziegeltrum) [Mehr lesen >](/pilze/amylostereum-chailletii-tannenschichtpilz)
+27.03.2025: Mit seinen blassbraunen, [resupinat](resupinat "Glossar") wachsenden Fruchtkörpern zählt unser aktueller [Fundkorbpilz](AA "Glossar-") nicht zu den auffälligsten Entdeckungen unserer Vereinswanderung im Münchner Süden. Auf der Unterseite herabgefallener Äste einer sehr imposanten Tanne konnten wir zahlreiche Fruchtkörper des Tannenschichtpilzes *Amylostereum chailletii* finden. Dieser ist eine von drei europäischen Arten der Gattung Amylostereum und verursacht an befallenem Nadelholz eine sogenannte Weißfäule. (Veronika Ziegeltrum) [Mehr lesen >](/pilze/amylostereum-chailletii-tannenschichtpilz)
 
 <div style="clear:  both"></div> 
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chlorociboria_aeruginascens_01_dg.jpg" %}
+{% include bild.html datei="/bilder/chlorociboria_aeruginascens_03_jr.jpg" %}
 {% include abbildung_ende.html %}
 
 26.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kleinsporige Grünspanbecherling *Chlorociboria aeruginascens*. Zwei Besonderheiten zeichnen ihn aus. Zum einen seine im Pilzreich seltene blaugrüne Farbe. Nicht nur die kleinen Becherchen sind so gefärbt, sondern auch das Holz, in dem seine [Myzelien](Myzel "Glossar") wuchern, und das sogar an dessen Oberfläche. Grünspanbecherlinge wachsen nahezu ganzjährig an toten Laubholzästen, vor allem an Buche. (Dieter Gewalt) [Mehr lesen >](/pilze/chlorociboria-aeruginascens-kleinsporiger-grünspanbecherling)
