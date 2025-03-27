@@ -15,6 +15,13 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_hartigii_01_bm.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+28.03.2025: Auch den heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Tannen-Feuerschwamm * Phellinus hartigii* haben wir bei unserer letzten Vereinswanderung des Münchner Pilzvereins entdeckt. Wie der deutsche Name schon vermuten lässt, wächst dieser mehrjährige Feuerschwamm an Tanne und verursacht ebenso wie der [Tannenschichtpilz](/pilze/amylostereum-chailletii-tannenschichtpilz) eine Weißfäule. Die Fruchtkörper haben sehr feine Poren (4 bis 5 pro mm, Lupe!) und können eine beachtliche Größe von bis zu 30cm erreichen. (Johann Rejek) [Mehr lesen >](/pilze/phellinus-hartigii-tannen-feuerschwamm)
+
+<div style="clear:  both"></div> 
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amylostereum_chailletii_02_wp.jpg" nocrop=true %}
@@ -56,21 +63,6 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 
 <div style="clear:  both"></div> 
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_leucomelaena_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.03.2025: Bei einem Spaziergang in einem jungen Kiefernforst bei Heusenstamm habe ich einen interessanten Schlauchpilz entdeckt, der wohl gerade aus dem trockenen Boden geschlüpft ist. Es waren die ersten urnenförmigen Sprösslinge der Schwarzweißen Lorchel *Helvella leucomelaena*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Überraschend war der Fund nicht, denn in manchen Jahren fruchtet er hier in Massen. Er ist einer meiner Lieblingspilze im Frühling. (Adam Adamovicz) [Mehr lesen >](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrophorus_marzulosus_04_gsch.jpg" %}
-{% include abbildung_ende.html %}
-
-21.03.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Märzschneckling *Hygrophorus marzuolus*, den wir regelmäßig im Ebersberger Forst bei München finden. Er ist einer der frühesten Lamellenpilze im Jahr. Ihn zu finden ist in der Tat ein besonderes Highlight, handelt es sich doch um eine äußerst seltene schützenswerte Art, die in der Roten Liste Deutschlands als „stark gefährdet“ (RL 2) geführt wird. Er erscheint von März bis Ende April in artenreichen Bergmischwäldern, und dort meistens bei Weißtanne. Übrigens ist er kürzlich auch von *Christian Weinkötz* gefunden worden, und zwar in der Vulkaneifel. (Johann Rejek) [Mehr lesen >](/pilze/hygrophorus-marzuolus-märzschneckling) 
-
-<div style="clear:  both"></div> 
 
 - - -
 
