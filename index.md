@@ -19,7 +19,7 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 {% include bild.html datei="/bilder/phellinus_hartigii_01_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-28.03.2025: Auch den heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Tannen-Feuerschwamm * Phellinus hartigii* haben wir bei unserer letzten Vereinswanderung des Münchner Pilzvereins entdeckt. Wie der deutsche Name schon vermuten lässt, wächst dieser mehrjährige Feuerschwamm an Tanne und verursacht ebenso wie der [Tannenschichtpilz](/pilze/amylostereum-chailletii-tannenschichtpilz) eine Weißfäule. Die Fruchtkörper haben sehr feine Poren (4 bis 5 pro mm, Lupe!) und können eine beachtliche Größe von bis zu 30cm erreichen. (Johann Rejek) [Mehr lesen >](/pilze/phellinus-hartigii-tannen-feuerschwamm)
+28.03.2025: Auch den heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Tannen-Feuerschwamm *Phellinus hartigii* haben wir bei unserer letzten Vereinswanderung des Münchner Pilzvereins entdeckt. Wie der deutsche Name schon vermuten lässt, wächst dieser mehrjährige Feuerschwamm an Tanne und verursacht ebenso wie der [Tannenschichtpilz](/pilze/amylostereum-chailletii-tannenschichtpilz) eine Weißfäule. Die Fruchtkörper haben sehr feine Poren (4 bis 5 pro mm, Lupe!) und können eine beachtliche Größe von bis zu 30cm erreichen. (Johann Rejek) [Mehr lesen >](/pilze/phellinus-hartigii-tannen-feuerschwamm)
 
 <div style="clear:  both"></div> 
 
