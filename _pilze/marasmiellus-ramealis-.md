@@ -12,7 +12,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/marasmiellus_ramealis_01_dg.jpeg
 ---
-Wie hübsch diese kleinen Pilzchen sind, offenbart sich dem Betrachter erst, wenn er sie sich von unten anschaut. Es ist die filigrane Lamellenstruktur, die das Auge erfreut und einmal mehr untersteicht, dass es manche Pilze in ihrer Schönheit durchaus mit Blumen aufnehmen können.
+Wie hübsch diese kleinen Pilzchen sind, offenbart sich dem Betrachter erst, wenn er sie sich von unten anschaut. Es ist die filigrane Lamellenstruktur, die das Auge erfreut und einmal mehr unterstreicht, dass es manche Pilze in ihrer Schönheit durchaus mit Blumen aufnehmen können.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/marasmiellus_-ramealis_02_dg.jpg" %}
