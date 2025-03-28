@@ -16,6 +16,14 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 
 - - -
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/dumontinia_tuberosa_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+29.03.2025: Wo Buschwindröschen (Anemonen) den Boden bedecken, ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Anemonenbecherling *Dumontinia tuberosa* oft nicht weit. Er parasitiert auf den früh blühenden Anemonen und ist dabei über ein unterirdisches [Sklerotium](Sklerotium "Glossar")  mit seiner Wirtspflanze verbunden. Die kleinen braunen Becherlinge mit ihren meist langen Stielen sind so unauffällig, dass sie ohne gezielte Suche nur selten entdeckt werden. Am meisten Glück hat man an Stellen, an denen die Buschwindröschen nicht ganz so dicht wachsen und etwas kümmerlich erscheinen. (Veronika Ziegltrum) [Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_hartigii_01_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
