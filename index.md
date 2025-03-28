@@ -63,15 +63,6 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 
 <div style="clear:  both"></div> 
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/auriscalpium_vulgare_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.03.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Ohrlöffelstacheling *Auriscalpium vulgare*, gehört zu jenen Pilzarten, die unverwechselbar sind. Hut und Stiel (seitlich angewachsen) sind komplett zottig bis filzig behaart, und die Fruchtschicht besteht aus kleinen „Stacheln“. Er wächst hauptsächlich an herabgefallenen Kiefernzapfen. Man muss dabei schon gezielt auf die Suche gehen, denn durch den kleinen Hut und die unauffällige Hutfarbe ist er leicht zu übersehen. (Johann Rejek) [Mehr lesen >](pilze/auriscalpium-vulgare-ohrlöffelstacheling)
-
-<div style="clear:  both"></div> 
-
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2025](/artikel/liste-aller-aktuellen-fundkorbpilze-2025.html)
