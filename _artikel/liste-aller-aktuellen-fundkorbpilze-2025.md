@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+30.03.2025: [Lenzites betulinus - Birkenblättling](/pilze/lenzites-betulinus-birkenblättling)\
 29.03.2025: [Dumontinia tuberosa - Anemonenbecherling](/pilze/dumontinia-tuberosa-anemonenbecherling)\
 28.03.2025: [Phellinus hartigii - Tannen-Feuerschwamm](/pilze/phellinus-hartigii-tannen-feuerschwamm)\
 27.03.2025: [Amylostereum chailletii - Tannenschichtpilz](/pilze/amylostereum-chailletii-tannenschichtpilz)\
