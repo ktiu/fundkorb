@@ -15,11 +15,20 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lenzites_betulinus_02_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+30.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenblättling *Lenzites betulinus*, der keineswegs nur an totem Birkenholz vorkommt. Nach meinen Beobachtungen hat er ein ziemlich weites Wirtsspektrum und ist am häufigsten an Buche zu finden. Die rosetten- oder fächerförmigen Pilze erscheinen meist zu mehreren über- und nebeneinander auf oder seitlich an ihrem Substrat. Die filzige Oberfläche ist konzentrisch gezont, die Farben variieren dabei von hell- oder grauocker bis hellbraun, Teile der Fruchtkörper können durch Algenbewuchs grün gefärbt sein. Das [Hymenophor]( Hymenophor "Glossar") an der Unterseite ist lamellig, manchmal stellenweise porig oder [daedaloid](daedaloid "Glossar"). (Dieter Gewalt) [Mehr lesen >](/pilze/lenzites-betulinus-birkenblättling)
+
+<div style="clear:  both"></div> 
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/dumontinia_tuberosa_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-29.03.2025: Wo Buschwindröschen (Anemonen) den Boden bedecken, ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Anemonenbecherling *Dumontinia tuberosa* oft nicht weit. Er parasitiert auf den früh blühenden Anemonen und ist dabei über ein unterirdisches [Sklerotium](Sklerotium "Glossar")  mit seiner Wirtspflanze verbunden. Die kleinen braunen Becherlinge mit ihren meist langen Stielen sind so unauffällig, dass sie ohne gezielte Suche nur selten entdeckt werden. Am meisten Glück hat man an Stellen, an denen die Buschwindröschen nicht ganz so dicht wachsen und etwas kümmerlich erscheinen. (Veronika Ziegltrum) [Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
+29.03.2025: Wo Buschwindröschen (Anemonen) den Boden bedecken, ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Anemonenbecherling *Dumontinia tuberosa* oft nicht weit. Er parasitiert auf den früh blühenden Anemonen und ist dabei über ein unterirdisches [Sklerotium](Sklerotium "Glossar") mit seiner Wirtspflanze verbunden. Die kleinen braunen Becherlinge mit ihren meist langen Stielen sind so unauffällig, dass sie ohne gezielte Suche nur selten entdeckt werden. Am meisten Glück hat man an Stellen, an denen die Buschwindröschen nicht ganz so dicht wachsen und etwas kümmerlich erscheinen. (Veronika Ziegltrum) [Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
 
 <div style="clear:  both"></div> 
 
@@ -52,14 +61,6 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 {% include abbildung_ende.html %}
 
 25.03.2025: Einer der ersten Frühjahrspilze, der Gesellige Glöckchennabeling *Xeromphalina campanella* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Ich fand ihn im Ebersberger Forst östlich von München. Obwohl der einzelne Fruchtkörper recht klein ist (maximal 2cm Hutdurchmesser), kann man den Pilz bereits aus einiger Entfernung entdecken. Er wächst meistens in großer Menge (gesellig) an morschen Fichtenstümpfen, und mit seiner gelb- und orangebräunlichen Farbe hebt er sich deutlich von seiner Umgebung ab. (Johann Rejek) [Mehr lesen >](/pilze/xeromphalina-campanella-geselliger-glöckchennabeling)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/flammulaster_carpophilus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.03.2025: Die Substratwahl vieler Pilzarten kann eine entscheidende Bestimmungshilfe sein. Ein besonders interessantes Substrat sind Bucheckernschalen. Der Buchenwald-Flockenschnitzling *Flammulaster carpophilus* liebt nicht nur Buchenwälder, sondern hat es bevorzugt auf Bucheckernschalen abgesehen. Unser aktueller [Fundkorbpilz](AA "Glossar-")  hat meist nur Hutgrößen von weniger als 1 cm, während die Stiele ein Vielfaches davon erreichen können. Er erscheint oft schon früh im Jahr und ist aufgrund seines Substrats so gut wie unverwechselbar. (Dieter Gewalt) [Mehr lesen >](/pilze/flammulaster-carpophilus-buchenwald-flockenschüppling)
 
 <div style="clear:  both"></div> 
 
