@@ -17,10 +17,18 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/geopora_sumneriana_09_cw.jpg" %}
+{% include abbildung_ende.html %}
+
+31.03.2025: Standorttreue scheint ein Markenzeichen des Zedern-Sandborstlings *Geopora sumneriana* zu sein. Und pünktlich ist unser aktueller [Fundkorbpilz](AA "Glossar-") auch noch. Wie schon in mehreren Jahren zuvor ist er bei uns in Heusenstamm bereits Ende März auf dem aldi-Gelände unter der dort stehenden Libanon-Zeder erschienen. Damit bestätigt sich meine Einschätzung, dass dieser bis zur Jahrtausendwende in Deutschland noch weitgehend unbekannte Pilz ein zuverlässiger Begleiter der vor allem im Mittelmeerraum heimischen Nadelbäume sein dürfte. (Adam Adamovicz) [Mehr lesen >](/pilze/geopora-sumneriana-zedern-sandborstling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lenzites_betulinus_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-30.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenblättling *Lenzites betulinus*, der keineswegs nur an totem Birkenholz vorkommt. Nach meinen Beobachtungen hat er ein ziemlich weites Wirtsspektrum und ist am häufigsten an Buche zu finden. Die rosetten- oder fächerförmigen Pilze erscheinen meist zu mehreren über- und nebeneinander auf oder seitlich an ihrem Substrat. Die filzige Oberfläche ist konzentrisch gezont, die Farben variieren dabei von hell- oder grauocker bis hellbraun, Teile der Fruchtkörper können durch Algenbewuchs grün gefärbt sein. Das [Hymenophor]( Hymenophor "Glossar") an der Unterseite ist lamellig, manchmal stellenweise porig oder [daedaloid](daedaloid "Glossar"). (Dieter Gewalt) [Mehr lesen >](/pilze/lenzites-betulinus-birkenblättling)
+30.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenblättling *Lenzites betulinus*, der keineswegs nur an totem Birkenholz vorkommt. Nach meinen Beobachtungen hat er ein ziemlich weites Wirtsspektrum und ist am häufigsten an Buche zu finden. Die rosetten- oder fächerförmigen Pilze erscheinen meist zu mehreren über- und nebeneinander auf oder seitlich an ihrem Substrat. Die filzige Oberfläche ist konzentrisch gezont, die Farben variieren dabei von hell- oder grauocker bis hellbraun, Teile der Fruchtkörper können durch Algenbewuchs grün gefärbt sein. Das [Hymenophor](Hymenophor "Glossar") an der Unterseite ist lamellig, manchmal stellenweise porig oder [daedaloid](daedaloid "Glossar"). (Dieter Gewalt) [Mehr lesen >](/pilze/lenzites-betulinus-birkenblättling)
 
 <div style="clear:  both"></div> 
 
