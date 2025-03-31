@@ -6,7 +6,7 @@ beschreibung:
   familie: Bolbitiaceae
   synonym: "Synonym: Pholiotina aporos / aporos = ohne Porus"
 profil:
-  aktualisiert: 2020-07-27
+  aktualisiert: 2025-03-31
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
