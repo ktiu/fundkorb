@@ -15,11 +15,12 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/conocybe_aporos_02_vz.jpg" %}
+{% include bild.html datei="/bilder/conocybe_aporos_02_vz.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-01.04.2025: Kleine braune Pilze sind in vielen Fällen schwer zu bestimmen. Die frühe Erscheinungszeit und der auffällige häutige Ring am Stiel, der an der Oberseite stark gerieft ist, ließen aber bei unserem aktuellen Fundkorbpilz bereits im Feld vermuten, dass es sich um den Frühlings-Glockenschüppling *Conocybe aporos* handeln könnte. 
+01.04.2025: Kleine braune Pilze sind in vielen Fällen schwer zu bestimmen. Die frühe Erscheinungszeit und der auffällige häutige Ring am Stiel, der an der Oberseite stark gerieft ist, ließen aber bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") bereits im Feld vermuten, dass es sich um den Frühlings-Glockenschüppling *Conocybe aporos* handeln könnte. 
 Ein Blick ins Mikroskop bestätigte meinen Verdacht, denn der fehlende Keimporus der Sporen ist für die Art ein eindeutiges Bestimmungsmerkmal. (Veronika Ziegltrum) [Mehr lesen >](/pilze/conocybe-aporos-frühlings-glockenschüppling)
 
 <div style="clear:  both"></div>
@@ -69,14 +70,6 @@ Ein Blick ins Mikroskop bestätigte meinen Verdacht, denn der fehlende Keimporus
 {% include abbildung_ende.html %}
 
 26.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kleinsporige Grünspanbecherling *Chlorociboria aeruginascens*. Zwei Besonderheiten zeichnen ihn aus. Zum einen seine im Pilzreich seltene blaugrüne Farbe. Nicht nur die kleinen Becherchen sind so gefärbt, sondern auch das Holz, in dem seine [Myzelien](Myzel "Glossar") wuchern, und das sogar an dessen Oberfläche. Grünspanbecherlinge wachsen nahezu ganzjährig an toten Laubholzästen, vor allem an Buche. (Dieter Gewalt) [Mehr lesen >](/pilze/chlorociboria-aeruginascens-kleinsporiger-grünspanbecherling)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/Xeromphalina_campanella_02_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-25.03.2025: Einer der ersten Frühjahrspilze, der Gesellige Glöckchennabeling *Xeromphalina campanella* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Ich fand ihn im Ebersberger Forst östlich von München. Obwohl der einzelne Fruchtkörper recht klein ist (maximal 2cm Hutdurchmesser), kann man den Pilz bereits aus einiger Entfernung entdecken. Er wächst meistens in großer Menge (gesellig) an morschen Fichtenstümpfen, und mit seiner gelb- und orangebräunlichen Farbe hebt er sich deutlich von seiner Umgebung ab. (Johann Rejek) [Mehr lesen >](/pilze/xeromphalina-campanella-geselliger-glöckchennabeling)
 
 <div style="clear:  both"></div> 
 
