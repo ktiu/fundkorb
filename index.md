@@ -15,6 +15,14 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/conocybe_aporos_02_vz.jpg" %}
+{% include abbildung_ende.html %}
+
+01.04.2025: Kleine braune Pilze sind in vielen Fällen schwer zu bestimmen. Die frühe Erscheinungszeit und der auffällige häutige Ring am Stiel, der an der Oberseite stark gerieft ist, ließen aber bei unserem aktuellen Fundkorbpilz bereits im Feld vermuten, dass es sich um den Frühlings-Glockenschüppling *Conocybe aporos* handeln könnte. 
+Ein Blick ins Mikroskop bestätigte meinen Verdacht, denn der fehlende Keimporus der Sporen ist für die Art ein eindeutiges Bestimmungsmerkmal. (Veronika Ziegltrum) [Mehr lesen >](/pilze/conocybe-aporos-frühlings-glockenschüppling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/geopora_sumneriana_09_cw.jpg" %}
