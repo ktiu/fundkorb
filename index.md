@@ -73,14 +73,6 @@ Ein Blick ins Mikroskop bestätigte meinen Verdacht, denn der fehlende Keimporus
 
 <div style="clear:  both"></div> 
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chlorociboria_aeruginascens_03_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-26.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kleinsporige Grünspanbecherling *Chlorociboria aeruginascens*. Zwei Besonderheiten zeichnen ihn aus. Zum einen seine im Pilzreich seltene blaugrüne Farbe. Nicht nur die kleinen Becherchen sind so gefärbt, sondern auch das Holz, in dem seine [Myzelien](Myzel "Glossar") wuchern, und das sogar an dessen Oberfläche. Grünspanbecherlinge wachsen nahezu ganzjährig an toten Laubholzästen, vor allem an Buche. (Dieter Gewalt) [Mehr lesen >](/pilze/chlorociboria-aeruginascens-kleinsporiger-grünspanbecherling)
-
-<div style="clear:  both"></div> 
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2025](/artikel/liste-aller-aktuellen-fundkorbpilze-2025.html)
