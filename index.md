@@ -20,7 +20,7 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 {% include bild.html datei="/bilder/phallus_indusiatus_03_ds.jpg" %}
 {% include abbildung_ende.html %}
 
-Aktuelle Nachricht: „Meine Frau hat diesen Pilz heute Morgen in unserem Garten fotografiert. Nach meiner ersten laienhaften Zuordnungsvermutung bin ich auf Ihre Webseite (www.fundkorb.de) gestoßen und dachte, dass Sie vielleicht interessiert sein könnten, unseren Fund in Ihre Liste aufzunehmen. Wir wohnen in Paraguay bei Natalicio Talavera. Mit besten Grüßen, Thomas Tenbergen“ – Machen wir gern, Herr Tenbergen. Aktueller Fundkorbpilz ist die Tropische Schleierdame *Phallus indusiatus*. [Mehr lesen >](/pilze/phallus-indusiatus-tropische-schleierdame)
+Aktuelle Nachricht: „Meine Frau hat diesen Pilz heute Morgen in unserem Garten fotografiert. Nach meiner ersten laienhaften Zuordnungsvermutung bin ich auf Ihre Webseite (www.fundkorb.de) gestoßen und dachte, dass Sie vielleicht interessiert sein könnten, unseren Fund in Ihre Liste aufzunehmen. Wir wohnen in Paraguay bei Natalicio Talavera. Mit besten Grüßen, Thomas Tenbergen“ – Machen wir gern, Herr Tenbergen. Aktueller [Fundkorbpilz](AA "Glossar-") ist die Tropische Schleierdame *Phallus indusiatus*. [Mehr lesen >](/pilze/phallus-indusiatus-tropische-schleierdame)
 
 <div style="clear:  both"></div>
 
