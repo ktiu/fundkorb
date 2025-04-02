@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+03.04.2025: [Phallus indusiatus - Tropische Schleierdame](/pilze/phallus-indusiatus-tropische-schleierdame)  
 02.04.2025: [Hypoxylon fragiforme - Rötliche Kohlenbeere](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)\
 01.04.2025: [Conocybe aporos - Frühlings-Glockenschüppling](/pilze/conocybe-aporos-frühlings-glockenschüppling)
 
