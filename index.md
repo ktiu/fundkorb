@@ -17,6 +17,14 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phallus_indusiatus_03_ds.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktuelle Nachricht: „Meine Frau hat diesen Pilz heute Morgen in unserem Garten fotografiert. Nach meiner ersten laienhaften Zuordnungsvermutung bin ich auf Ihre Webseite (www.fundkorb.de) gestoßen und dachte, dass Sie vielleicht interessiert sein könnten, unseren Fund in Ihre Liste aufzunehmen. Wir wohnen in Paraguay bei Natalicio Talavera. Mit besten Grüßen, Thomas Tenbergen“ – Machen wir gern, Herr Tenbergen. Aktueller Fundkorbpilz ist die Tropische Schleierdame *Phallus indusiatus*. [Mehr lesen >](/pilze/phallus-indusiatus-tropische-schleierdame)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_fragiforme_05_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
@@ -54,22 +62,6 @@ Ein Blick ins Mikroskop bestätigte meinen Verdacht, denn der fehlende Keimporus
 {% include abbildung_ende.html %}
 
 29.03.2025: Wo Buschwindröschen (Anemonen) den Boden bedecken, ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Anemonenbecherling *Dumontinia tuberosa* oft nicht weit. Er parasitiert auf den früh blühenden Anemonen und ist dabei über ein unterirdisches [Sklerotium](Sklerotium "Glossar") mit seiner Wirtspflanze verbunden. Die kleinen braunen Becherlinge mit ihren meist langen Stielen sind so unauffällig, dass sie ohne gezielte Suche nur selten entdeckt werden. Am meisten Glück hat man an Stellen, an denen die Buschwindröschen nicht ganz so dicht wachsen und etwas kümmerlich erscheinen. (Veronika Ziegltrum) [Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_hartigii_01_bm.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-28.03.2025: Auch den heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Tannen-Feuerschwamm *Phellinus hartigii* haben wir bei unserer letzten Vereinswanderung des Münchner Pilzvereins entdeckt. Wie der deutsche Name schon vermuten lässt, wächst dieser mehrjährige Feuerschwamm an Tanne und verursacht ebenso wie der [Tannenschichtpilz](/pilze/amylostereum-chailletii-tannenschichtpilz) eine Weißfäule. Die Fruchtkörper haben sehr feine Poren (4 bis 5 pro mm, Lupe!) und können eine beachtliche Größe von bis zu 30cm erreichen. (Johann Rejek) [Mehr lesen >](/pilze/phellinus-hartigii-tannen-feuerschwamm)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amylostereum_chailletii_02_wp.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-27.03.2025: Mit seinen blassbraunen, [resupinat](resupinat "Glossar") wachsenden Fruchtkörpern zählt unser aktueller [Fundkorbpilz](AA "Glossar-") nicht zu den auffälligsten Entdeckungen unserer Vereinswanderung im Münchner Süden. Auf der Unterseite herabgefallener Äste einer sehr imposanten Tanne konnten wir zahlreiche Fruchtkörper des Tannenschichtpilzes *Amylostereum chailletii* finden. Dieser ist eine von drei europäischen Arten der Gattung *Amylostereum* und verursacht an befallenem Nadelholz eine sogenannte Weißfäule. (Veronika Ziegeltrum) [Mehr lesen >](/pilze/amylostereum-chailletii-tannenschichtpilz)
 
 <div style="clear:  both"></div> 
 
