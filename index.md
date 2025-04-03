@@ -15,12 +15,19 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.04.2025:  Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Kiefernzapfenrübling *Strobilurus tenacellus*, wächst ausschließlich auf Kiefernzapfen. Um ihn sicher zu erkennen, ist eine Geschmacksprobe (immer ausspucken!) erforderlich. Wenn bitter, ist der Fall klar. Er muss allerdings nicht unbedingt bitter schmecken. Er kann auch mild schmecken, und dann ist eine mikroskopische Prüfung unerlässlich, um ihn vom sehr ähnlich aussehenden Milden Kiefernzapfenrübling [*Strobilurus stephanocystis*](pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling) zu unterscheiden. (Dieter Gewalt) [Mehr lesen >](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phallus_indusiatus_03_ds.jpg" %}
 {% include abbildung_ende.html %}
 
-Aktuelle Nachricht: „Meine Frau hat diesen Pilz heute Morgen in unserem Garten fotografiert. Nach meiner ersten laienhaften Zuordnungsvermutung bin ich auf Ihre Webseite (www.fundkorb.de) gestoßen und dachte, dass Sie vielleicht interessiert sein könnten, unseren Fund in Ihre Liste aufzunehmen. Wir wohnen in Paraguay bei Natalicio Talavera. Mit besten Grüßen, Thomas Tenbergen“ – Machen wir gern, Herr Tenbergen. Aktueller [Fundkorbpilz](AA "Glossar-") ist die Tropische Schleierdame *Phallus indusiatus*. [Mehr lesen >](/pilze/phallus-indusiatus-tropische-schleierdame)
+03.04.2025: Aktuelle Nachricht: „Meine Frau hat diesen Pilz heute Morgen in unserem Garten fotografiert. Nach meiner ersten laienhaften Zuordnungsvermutung bin ich auf Ihre Webseite (www.fundkorb.de) gestoßen und dachte, dass Sie vielleicht interessiert sein könnten, unseren Fund in Ihre Liste aufzunehmen. Wir wohnen in Paraguay bei Natalicio Talavera. Mit besten Grüßen, Thomas Tenbergen“ – Machen wir gern, Herr Tenbergen. Aktueller [Fundkorbpilz](AA "Glossar-") ist die Tropische Schleierdame *Phallus indusiatus*. [Mehr lesen >](/pilze/phallus-indusiatus-tropische-schleierdame)
 
 <div style="clear:  both"></div>
 
@@ -57,13 +64,6 @@ Ein Blick ins Mikroskop bestätigte meinen Verdacht, denn der fehlende Keimporus
 
 <div style="clear:  both"></div> 
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/dumontinia_tuberosa_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-29.03.2025: Wo Buschwindröschen (Anemonen) den Boden bedecken, ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Anemonenbecherling *Dumontinia tuberosa* oft nicht weit. Er parasitiert auf den früh blühenden Anemonen und ist dabei über ein unterirdisches [Sklerotium](Sklerotium "Glossar") mit seiner Wirtspflanze verbunden. Die kleinen braunen Becherlinge mit ihren meist langen Stielen sind so unauffällig, dass sie ohne gezielte Suche nur selten entdeckt werden. Am meisten Glück hat man an Stellen, an denen die Buschwindröschen nicht ganz so dicht wachsen und etwas kümmerlich erscheinen. (Veronika Ziegltrum) [Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
-
-<div style="clear:  both"></div> 
 
 - - -
 
