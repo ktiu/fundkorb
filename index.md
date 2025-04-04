@@ -65,14 +65,6 @@ Ein Blick ins Mikroskop bestätigte meinen Verdacht, denn der fehlende Keimporus
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lenzites_betulinus_02_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-30.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenblättling *Lenzites betulinus*, der keineswegs nur an totem Birkenholz vorkommt. Nach meinen Beobachtungen hat er ein ziemlich weites Wirtsspektrum und ist am häufigsten an Buche zu finden. Die rosetten- oder fächerförmigen Pilze erscheinen meist zu mehreren über- und nebeneinander auf oder seitlich an ihrem Substrat. Die filzige Oberfläche ist konzentrisch gezont, die Farben variieren dabei von hell- oder grauocker bis hellbraun, Teile der Fruchtkörper können durch Algenbewuchs grün gefärbt sein. Das [Hymenophor](Hymenophor "Glossar") an der Unterseite ist lamellig, manchmal stellenweise porig oder [daedaloid](daedaloid "Glossar"). (Dieter Gewalt) [Mehr lesen >](/pilze/lenzites-betulinus-birkenblättling)
-
-<div style="clear:  both"></div> 
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2025](/artikel/liste-aller-aktuellen-fundkorbpilze-2025.html)
