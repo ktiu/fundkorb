@@ -20,9 +20,10 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 {% include bild.html datei="/bilder/entoloma_hirtipes_01_jr.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-05.04.2025: Unser heutiger [Fundkorbpilz](AA 'AA "Glossar-"') gehört in die Gattung der Rötlinge. Es ist der Gebrechliche Glöckling *Entoloma hirtipes*. Ich fand mehrere Exemplare am Rand eines Waldwegs südöstlich von München. In unmittelbarer Umgebung befanden sich nur ausgewachsene Fichten. Von den ca. 200 Rötlings-Arten in Europa sind nur wenige makroskopisch zu bestimmen. Bei diesem Rötling führt der Geruch (vorwiegend an der Stielbasis) und die frühe Erscheinungszeit im Jahr zur Bestimmung. Der Pilz riecht tranig oder auch nach Fensterkitt (wer das noch kennt?). Deswegen nennt man ihn auch noch Traniger Glöckling. (Johann Rejek) [Mehr lesen >](/pilze/entoloma-hirtipes-gebrechlicher-glöckling)
+05.04.2025: Unser heutiger [Fundkorbpilz](AA "Glossar-") gehört in die Gattung der Rötlinge. Es ist der Gebrechliche Glöckling *Entoloma hirtipes*. Ich fand mehrere Exemplare am Rand eines Waldwegs südöstlich von München. Von den ca. 200 Rötlings-Arten in Europa sind nur wenige makroskopisch zu bestimmen. Bei diesem Rötling führt der Geruch (vorwiegend an der Stielbasis) und die frühe Erscheinungszeit im Jahr zur Bestimmung. Der Pilz riecht tranig oder auch nach Fensterkitt (wer das noch kennt?). Deswegen nennt man ihn auch noch Traniger Glöckling. (Johann Rejek) [Mehr lesen >](/pilze/entoloma-hirtipes-gebrechlicher-glöckling)
 
 <div style="clear:  both"></div>
+
  
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
