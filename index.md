@@ -15,11 +15,12 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/entoloma_hirtipes_01_jr.jpg" %}
+{% include bild.html datei="/bilder/entoloma_hirtipes_01_jr.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-05.04.2025: Unser heutiger [Fundkorbpilz](AA (AA "Glossar-")) gehört in die Gattung der Rötlinge. Es ist der Gebrechliche Glöckling *Entoloma hirtipes*. Ich fand mehrere Exemplare am Rand eines Waldwegs südöstlich von München. In unmittelbarer Umgebung befanden sich nur ausgewachsene Fichten. Von den ca. 200 Rötlings-Arten in Europa sind nur wenige makroskopisch zu bestimmen. Bei diesem Rötling führt der Geruch (vorwiegend an der Stielbasis) und die frühe Erscheinungszeit im Jahr zur Bestimmung. Der Pilz riecht tranig oder auch nach Fensterkitt (wer das noch kennt?). Deswegen nennt man ihn auch noch Traniger Glöckling. (Johann Rejek) [Mehr lesen >](/pilze/entoloma-hirtipes-gebrechlicher-glöckling)
+05.04.2025: Unser heutiger [Fundkorbpilz](AA 'AA "Glossar-"') gehört in die Gattung der Rötlinge. Es ist der Gebrechliche Glöckling *Entoloma hirtipes*. Ich fand mehrere Exemplare am Rand eines Waldwegs südöstlich von München. In unmittelbarer Umgebung befanden sich nur ausgewachsene Fichten. Von den ca. 200 Rötlings-Arten in Europa sind nur wenige makroskopisch zu bestimmen. Bei diesem Rötling führt der Geruch (vorwiegend an der Stielbasis) und die frühe Erscheinungszeit im Jahr zur Bestimmung. Der Pilz riecht tranig oder auch nach Fensterkitt (wer das noch kennt?). Deswegen nennt man ihn auch noch Traniger Glöckling. (Johann Rejek) [Mehr lesen >](/pilze/entoloma-hirtipes-gebrechlicher-glöckling)
 
 <div style="clear:  both"></div>
  
@@ -27,7 +28,7 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 {% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-04.04.2025:  Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Kiefernzapfenrübling *Strobilurus tenacellus*, wächst ausschließlich auf Kiefernzapfen. Um ihn sicher zu erkennen, ist eine Geschmacksprobe (immer ausspucken!) erforderlich. Wenn bitter, ist der Fall klar. Er muss allerdings nicht unbedingt bitter schmecken. Er kann auch mild schmecken, und dann ist eine mikroskopische Prüfung unerlässlich, um ihn vom sehr ähnlich aussehenden Milden Kiefernzapfenrübling [*Strobilurus stephanocystis*](pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling) zu unterscheiden. (Dieter Gewalt) [Mehr lesen >](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)
+04.04.2025:  Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Kiefernzapfenrübling *Strobilurus tenacellus*, wächst ausschließlich auf Kiefernzapfen. Um ihn sicher zu erkennen, ist eine Geschmacksprobe (immer ausspucken!) erforderlich. Wenn bitter, ist der Fall klar. Er muss allerdings nicht unbedingt bitter schmecken. Er kann auch mild schmecken, und dann ist eine mikroskopische Prüfung unerlässlich, um ihn vom sehr ähnlich aussehenden Milden Kiefernzapfenrübling *[Strobilurus stephanocystis](pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling)* zu unterscheiden. (Dieter Gewalt) [Mehr lesen >](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)
 
 <div style="clear:  both"></div>
 
@@ -71,7 +72,6 @@ Ein Blick ins Mikroskop bestätigte meinen Verdacht, denn der fehlende Keimporus
 30.03.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenblättling *Lenzites betulinus*, der keineswegs nur an totem Birkenholz vorkommt. Nach meinen Beobachtungen hat er ein ziemlich weites Wirtsspektrum und ist am häufigsten an Buche zu finden. Die rosetten- oder fächerförmigen Pilze erscheinen meist zu mehreren über- und nebeneinander auf oder seitlich an ihrem Substrat. Die filzige Oberfläche ist konzentrisch gezont, die Farben variieren dabei von hell- oder grauocker bis hellbraun, Teile der Fruchtkörper können durch Algenbewuchs grün gefärbt sein. Das [Hymenophor](Hymenophor "Glossar") an der Unterseite ist lamellig, manchmal stellenweise porig oder [daedaloid](daedaloid "Glossar"). (Dieter Gewalt) [Mehr lesen >](/pilze/lenzites-betulinus-birkenblättling)
 
 <div style="clear:  both"></div> 
-
 
 - - -
 
