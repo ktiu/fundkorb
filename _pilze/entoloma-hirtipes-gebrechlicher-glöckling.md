@@ -6,7 +6,7 @@ beschreibung:
   familie: Entolomataceae
   erlaeuterung: hirtipes = borstenfüßig
 profil:
-  aktualisiert: 2023-10-27
+  aktualisiert: 2025-04-04
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
@@ -20,7 +20,7 @@ literatur:
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/entoloma_hirtipes_01_jr.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/entoloma_hirtipes_02_jr.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="2 Fotos: Johann Rejek" %}
+{% include abbildung_ende.html legende="2 Fotos: Johann Rejek, 29.03.2024 bei Maria Altenburg (südöstl. von München)" %}
 
 Gebrechlich ist dieser zarte Rötling in der Tat, *„borstenfüßig“* (die Übersetzung des lateinischen Artnamens *hirtipes*) ist dagegen etwas übertrieben. Es befindet sich lediglich ein weißer [Myzelfilz](Myzel "Glossar") am Stielgrund, der manchmal mit anhaftender Erde verklumpt ist. 
 
