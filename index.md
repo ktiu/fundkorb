@@ -17,6 +17,14 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche F체hrung im NSG K�
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/morchella_conica_09_uvs.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html %}
+
+06.04.2025: Ein [aktueller Fund](AA "Glossar-") von noch recht jungen Spitzmorcheln *Morchella conica* aus einem Fichtenwald s체dlich von M체nchen l채sst hoffen, dass bald auch in der Rhein-Main-Region die Morchel-Saison beginnen kann. Da die Niederschlagsmengen im Fr체hling sehr gering waren, d체rften Funde im eigenen Garten am wahrscheinlichsten sein, wenn dort Kiefernrindenmulch zum Einsatz kam und ausreichend gew채ssert wurde. (Johann Rejek) [Mehr lesen >](/pilze/morchella-conica-spitzmorchel)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/entoloma_hirtipes_01_jr.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
@@ -24,7 +32,6 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche F체hrung im NSG K�
 
 <div style="clear:  both"></div>
 
- 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -58,13 +65,6 @@ Ein Blick ins Mikroskop best채tigte meinen Verdacht, denn der fehlende Keimporus
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/geopora_sumneriana_09_cw.jpg" %}
-{% include abbildung_ende.html %}
-
-31.03.2025: Standorttreue scheint ein Markenzeichen des Zedern-Sandborstlings *Geopora sumneriana* zu sein. Und p체nktlich ist unser aktueller [Fundkorbpilz](AA "Glossar-") auch noch. Wie schon in mehreren Jahren zuvor ist er bei uns in Heusenstamm bereits Ende M채rz auf dem aldi-Gel채nde unter der dort stehenden Libanon-Zeder erschienen. Damit best채tigt sich meine Einsch채tzung, dass dieser bis zur Jahrtausendwende in Deutschland noch weitgehend unbekannte Pilz ein zuverl채ssiger Begleiter der vor allem im Mittelmeerraum heimischen Nadelb채ume sein d체rfte. (Adam Adamovicz) [Mehr lesen >](/pilze/geopora-sumneriana-zedern-sandborstling)
-
-<div style="clear:  both"></div>
 
 - - -
 
