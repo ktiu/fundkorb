@@ -15,6 +15,14 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/exidia_truncata_01_dg.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html %}
+
+07.04.2025 Unser aktueller [Fundkorbpilz](AA "Glossar-")ist der Abgestutzte Drüsling *Exidia truncata*. Ein typischer *„Glibber“*, der lappig ohrförmige, dunkelbraun bis schwarz gefärbte Fruchtkörper bildet. Sie sind von elastisch gelatinöser Konsistenz und ganzjährig vor allem an Eichenholz zu finden. Frostige Nächte machen ihnen offenbar nichts aus. (Dieter Gewalt) [Mehr lesen >](/pilze/exidia-truncata-abgestutzter-drüsling)
+
+<div style="clear:  both"></div>
+
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/morchella_conica_09_uvs.jpg" nocrop=true gross=true %}
@@ -55,16 +63,6 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 02.04.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rötliche Kohlenbeere Hypoxylon fragiforme. Dieser von Speisepilzsammlern kaum beachtete [Pyrenomyzet](Pyrenomyzeten "Glossar") ist ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)
 
 <div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/conocybe_aporos_02_vz.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-01.04.2025: Kleine braune Pilze sind in vielen Fällen schwer zu bestimmen. Die frühe Erscheinungszeit und der auffällige häutige Ring am Stiel, der an der Oberseite stark gerieft ist, ließen aber bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") bereits im Feld vermuten, dass es sich um den Frühlings-Glockenschüppling *Conocybe aporos* handeln könnte. 
-Ein Blick ins Mikroskop bestätigte meinen Verdacht, denn der fehlende Keimporus der Sporen ist für die Art ein eindeutiges Bestimmungsmerkmal. (Veronika Ziegltrum) [Mehr lesen >](/pilze/conocybe-aporos-frühlings-glockenschüppling)
-
-<div style="clear:  both"></div>
-
 
 - - -
 
