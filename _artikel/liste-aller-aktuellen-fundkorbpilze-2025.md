@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+07.04.2025: [Exidia truncata -  Abgestutzter Drüsling](/pilze/exidia-truncata-abgestutzter-drüsling)  
 06.04.2025: [Morchella conica -  Spitzmorchel](/pilze/morchella-conica-spitzmorchel)  
 05.04.2025: [Entoloma hirtipes - Gebrechlicher Glöckling](/pilze/entoloma-hirtipes-gebrechlicher-glöckling)  
 04.04.2025: [Strobilurus tenacellus - Bitterer Kiefern - Zapfenrübling](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)  
