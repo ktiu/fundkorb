@@ -17,7 +17,7 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/daldinia_concentrica_04_dg.jpg" %}
+{% include bild.html datei="/bilder/daldinia_concentrica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Bei unserer diesjährigen Exkursion im NSG Kühkopf am Rhein herrschte nie zuvor erlebte Trockenheit und erstmals nach rund 30 Jahren konnten keine Morcheln gefunden werden. Da war auch unser altueller [Fundkorbpilz](AA "Glossar-"), der Kohlen-Kugelpilz *Daldinia concentrica* nur ein schwacher Trost. Während unserer dreistündigen Wanderungen begegneten wir mindestens 6 weiteren Vorkommen, übewiegend der kleineren Art *[Daldinia childiae](/pilze/daldinia-childiae-birnen-kohlenpilz)*. Im Anschnitt zeigen die etwa 1 - 4 cm großen Fruchtkörper das für die Gattung typische konzentrische Streifenmuster. Zur sicheren Artbestimmung sollte mikroskopiert werden. (Dieter Gewalt) [Mehr lesen >](/pilze/daldinia-concentrica-kohlen-kugelpilz)
