@@ -15,6 +15,15 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/daldinia_concentrica_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Bei unserer diesjährigen Exkursion im NSG Kühkopf am Rhein herrschte nie zuvor erlebte Trockenheit und erstmals nach rund 30 Jahren konnten keine Morcheln gefunden werden. Da war auch unser altueller [Fundkorbpilz](AA "Glossar-"), der Kohlen-Kugelpilz *Daldinia concentrica* nur ein schwacher Trost. Während unserer dreistündigen Wanderungen begegneten wir mindestens 6 weiteren Vorkommen, übewiegend der kleineren Art *[Daldinia childiae](/pilze/daldinia-childiae-birnen-kohlenpilz)*. Im Anschnitt zeigen die etwa 1 - 4 cm großen Fruchtkörper das für die Gattung typische konzentrische Streifenmuster. Zur sicheren Artbestimmung sollte mikroskopiert werden. (Dieter Gewalt) [Mehr lesen >](/pilze/daldinia-concentrica-kohlen-kugelpilz)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/exidia_truncata_01_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
@@ -22,7 +31,6 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 07.04.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Abgestutzte Drüsling *Exidia truncata*. Ein typischer *„Glibber“*, der lappig ohrförmige, dunkelbraun bis schwarz gefärbte Fruchtkörper bildet. Sie sind von elastisch gelatinöser Konsistenz und ganzjährig vor allem an Eichenholz zu finden. Frostige Nächte machen ihnen offenbar nichts aus. (Dieter Gewalt) [Mehr lesen >](/pilze/exidia-truncata-abgestutzter-drüsling)
 
 <div style="clear:  both"></div>
-
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/morchella_conica_09_uvs.jpg" nocrop=true gross=true %}
