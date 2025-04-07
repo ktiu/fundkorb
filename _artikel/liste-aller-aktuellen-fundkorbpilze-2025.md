@@ -3,11 +3,12 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-07.04.2025: [Exidia truncata -  Abgestutzter Drüsling](/pilze/exidia-truncata-abgestutzter-drüsling)  
-06.04.2025: [Morchella conica -  Spitzmorchel](/pilze/morchella-conica-spitzmorchel)  
-05.04.2025: [Entoloma hirtipes - Gebrechlicher Glöckling](/pilze/entoloma-hirtipes-gebrechlicher-glöckling)  
-04.04.2025: [Strobilurus tenacellus - Bitterer Kiefern - Zapfenrübling](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)  
-03.04.2025: [Phallus indusiatus - Tropische Schleierdame](/pilze/phallus-indusiatus-tropische-schleierdame)  
+08.04.2025: [Daldinia concentrica - Kohlen-Kugelpilz](/pilze/daldinia-concentrica-kohlen-kugelpilz)  
+07.04.2025: [Exidia truncata -  Abgestutzter Drüsling](/pilze/exidia-truncata-abgestutzter-drüsling)\
+06.04.2025: [Morchella conica -  Spitzmorchel](/pilze/morchella-conica-spitzmorchel)\
+05.04.2025: [Entoloma hirtipes - Gebrechlicher Glöckling](/pilze/entoloma-hirtipes-gebrechlicher-glöckling)\
+04.04.2025: [Strobilurus tenacellus - Bitterer Kiefern - Zapfenrübling](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)\
+03.04.2025: [Phallus indusiatus - Tropische Schleierdame](/pilze/phallus-indusiatus-tropische-schleierdame)\
 02.04.2025: [Hypoxylon fragiforme - Rötliche Kohlenbeere](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)\
 01.04.2025: [Conocybe aporos - Frühlings-Glockenschüppling](/pilze/conocybe-aporos-frühlings-glockenschüppling)
 
