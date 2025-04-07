@@ -19,7 +19,7 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 {% include bild.html datei="/bilder/exidia_truncata_01_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-07.04.2025 Unser aktueller [Fundkorbpilz](AA "Glossar-")ist der Abgestutzte Drüsling *Exidia truncata*. Ein typischer *„Glibber“*, der lappig ohrförmige, dunkelbraun bis schwarz gefärbte Fruchtkörper bildet. Sie sind von elastisch gelatinöser Konsistenz und ganzjährig vor allem an Eichenholz zu finden. Frostige Nächte machen ihnen offenbar nichts aus. (Dieter Gewalt) [Mehr lesen >](/pilze/exidia-truncata-abgestutzter-drüsling)
+07.04.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Abgestutzte Drüsling *Exidia truncata*. Ein typischer *„Glibber“*, der lappig ohrförmige, dunkelbraun bis schwarz gefärbte Fruchtkörper bildet. Sie sind von elastisch gelatinöser Konsistenz und ganzjährig vor allem an Eichenholz zu finden. Frostige Nächte machen ihnen offenbar nichts aus. (Dieter Gewalt) [Mehr lesen >](/pilze/exidia-truncata-abgestutzter-drüsling)
 
 <div style="clear:  both"></div>
 
