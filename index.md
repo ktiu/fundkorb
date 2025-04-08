@@ -17,6 +17,14 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinus_tigrinus_01_hl.jpg" %}
+{% include abbildung_ende.html %}
+
+09.04.2025: [Fundkorbpilz](AA "Glossar-") Wo es Weiden gibt, ist oft auch der Getigerte Knäueling *Lentinus tigrinus* anwesend. Gern schon im Frühjahr und wie üblich auch im NSG Kühkopf. Die nun schon Wochen andauernde Trockenheit hat hier nicht nur den Pegelstand des Rheins stark sinken lassen sondern auch das hier sonst übliche massenhafte Wachstum unseres aktueller [Fundkorbpilzes](AA "Glossar-")  beeinträchtigt. Ein paar wenige Exemplare haben sich immerhin blicken lassen. Er ist ein typischer Pilz in auwaldartigen Biotopen, insbesondere der großen Stromtäler. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinus-tigrinus-getigerter-knäueling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/daldinia_concentrica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,22 +61,6 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 {% include abbildung_ende.html %}
 
 04.04.2025:  Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Kiefernzapfenrübling *Strobilurus tenacellus*, wächst ausschließlich auf Kiefernzapfen. Um ihn sicher zu erkennen, ist eine Geschmacksprobe (immer ausspucken!) erforderlich. Wenn bitter, ist der Fall klar. Er muss allerdings nicht unbedingt bitter schmecken. Er kann auch mild schmecken, und dann ist eine mikroskopische Prüfung unerlässlich, um ihn vom sehr ähnlich aussehenden Milden Kiefernzapfenrübling *[Strobilurus stephanocystis](pilze/strobilurus-stephanocystis-milder-kieferzapfenrübling)* zu unterscheiden. (Dieter Gewalt) [Mehr lesen >](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phallus_indusiatus_03_ds.jpg" %}
-{% include abbildung_ende.html %}
-
-03.04.2025: Aktuelle Nachricht: „Meine Frau hat diesen Pilz heute Morgen in unserem Garten fotografiert. Nach meiner ersten laienhaften Zuordnungsvermutung bin ich auf Ihre Webseite (www.fundkorb.de) gestoßen und dachte, dass Sie vielleicht interessiert sein könnten, unseren Fund in Ihre Liste aufzunehmen. Wir wohnen in Paraguay bei Natalicio Talavera. Mit besten Grüßen, Thomas Tenbergen“ – Machen wir gern, Herr Tenbergen. Aktueller [Fundkorbpilz](AA "Glossar-") ist die Tropische Schleierdame *Phallus indusiatus*. [Mehr lesen >](/pilze/phallus-indusiatus-tropische-schleierdame)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_fragiforme_05_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-02.04.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rötliche Kohlenbeere Hypoxylon fragiforme. Dieser von Speisepilzsammlern kaum beachtete [Pyrenomyzet](Pyrenomyzeten "Glossar") ist ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)
 
 <div style="clear:  both"></div> 
 
