@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-09.04.2025: [Lentinus tigrinus - Getigerter Knäueling](/pilze/lentinus-tigrinus-getigerter-knäueling)  
+10.05.2025: [Polyporus squamosus - Schuppiger Porling](/pilze/polyporus-squamosus-schuppiger-porling)  
+09.04.2025: [Lentinus tigrinus - Getigerter Knäueling](/pilze/lentinus-tigrinus-getigerter-knäueling)\
 08.04.2025: [Daldinia concentrica - Kohlen-Kugelpilz](/pilze/daldinia-concentrica-kohlen-kugelpilz)\
 07.04.2025: [Exidia truncata -  Abgestutzter Drüsling](/pilze/exidia-truncata-abgestutzter-drüsling)\
 06.04.2025: [Morchella conica -  Spitzmorchel](/pilze/morchella-conica-spitzmorchel)\
