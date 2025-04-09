@@ -17,6 +17,14 @@ Sonntag, 6. April 2025, 10:00 Uhr: **Pilz- und naturkundliche Führung im NSG K�
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_squamosus_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.04.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schuppige Porling *Polyporus squamosus* (neuer Name: *Cerioporus squamosus*) ist mir von *Benjamin Dräger* aus Nieder-Eschbach (Frankfurt a. Main) gemeldet worden. Er hat mehrere noch ganz junge Fruchtkörper an einer Weide gefunden. Wie man sieht, sind sie schon im frühesten Entwicklungsstadium an Hut und Stiel schuppig aufgerissen. Solange sie noch zartfleischig sind, kann man sie durchaus mal in der Pfanne braten. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-squamosus-schuppiger-porling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lentinus_tigrinus_01_hl.jpg" %}
 {% include abbildung_ende.html %}
 
