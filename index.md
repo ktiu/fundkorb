@@ -31,7 +31,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/lentinus_tigrinus_01_hl.jpg" %}
 {% include abbildung_ende.html %}
 
-09.04.2025: [Fundkorbpilz](AA "Glossar-") Wo es Weiden gibt, ist oft auch der Getigerte Knäueling *Lentinus tigrinus* anwesend. Gern schon im Frühjahr und wie üblich auch im NSG Kühkopf. Die nun schon Wochen andauernde Trockenheit hat hier nicht nur den Pegelstand des Rheins stark sinken lassen sondern auch das hier sonst übliche massenhafte Wachstum unseres aktueller [Fundkorbpilzes](AA "Glossar-")  beeinträchtigt. Ein paar wenige Exemplare haben sich immerhin blicken lassen. Er ist ein typischer Pilz in auwaldartigen Biotopen, insbesondere der großen Stromtäler. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinus-tigrinus-getigerter-knäueling)
+09.04.2025: Wo es Weiden gibt, ist oft auch der Getigerte Knäueling *Lentinus tigrinus* anwesend. Gern schon im Frühjahr und wie üblich auch im NSG Kühkopf. Die nun schon Wochen andauernde Trockenheit hat hier nicht nur den Pegelstand des Rheins stark sinken lassen, sondern auch das hier sonst übliche massenhafte Wachstum unseres aktuellen [Fundkorbpilzes](AA "Glossar-")  beeinträchtigt. Ein paar wenige Exemplare haben sich immerhin blicken lassen. Er ist ein typischer Pilz in auwaldartigen Biotopen, insbesondere der großen Stromtäler. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinus-tigrinus-getigerter-knäueling)
 
 <div style="clear:  both"></div>
 
@@ -39,7 +39,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/daldinia_concentrica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-08.04.2025: Bei unserer diesjährigen Exkursion im NSG Kühkopf am Rhein herrschte nie zuvor erlebte Trockenheit und erstmals nach rund 30 Jahren konnten keine Morcheln gefunden werden. Da war auch unser altueller [Fundkorbpilz](AA "Glossar-"), der Kohlen-Kugelpilz *Daldinia concentrica* nur ein schwacher Trost. Während unserer dreistündigen Wanderung begegneten wir mindestens 6 weiteren Vorkommen, übewiegend der kleineren Art *[Daldinia childiae](/pilze/daldinia-childiae-birnen-kohlenpilz)*. Im Anschnitt zeigen die etwa 1 - 4 cm großen Fruchtkörper das für die Gattung typische konzentrische Streifenmuster. Zur sicheren Artbestimmung sollte mikroskopiert werden. (Dieter Gewalt) [Mehr lesen >](/pilze/daldinia-concentrica-kohlen-kugelpilz)
+08.04.2025: Bei unserer diesjährigen Exkursion im NSG Kühkopf am Rhein herrschte nie zuvor erlebte Trockenheit und erstmals nach rund 30 Jahren konnten keine Morcheln gefunden werden. Da war auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Kohlen-Kugelpilz *Daldinia concentrica* nur ein schwacher Trost. Während unserer dreistündigen Wanderung begegneten wir mindestens 6 weiteren Vorkommen, übewiegend der kleineren Art *[Daldinia childiae](/pilze/daldinia-childiae-birnen-kohlenpilz)*. Im Anschnitt zeigen die etwa 1 - 4 cm großen Fruchtkörper das für die Gattung typische konzentrische Streifenmuster. Zur sicheren Artbestimmung sollte mikroskopiert werden. (Dieter Gewalt) [Mehr lesen >](/pilze/daldinia-concentrica-kohlen-kugelpilz)
 
 <div style="clear:  both"></div>
 
