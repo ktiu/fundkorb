@@ -15,7 +15,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/psathyrella_candolleana_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-11.04.2025: Zugegeben, zurzeit man braucht schon viel Glück um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Behangenen Faserling *Psathyrella candolleana* zu finden. Es ist vielerorts  einfach zu trocken. Normalerweise erscheint er schon  früh im Jahr und ist bei Kennern ein beliebter Suppenpilz. Er wächst stets an Holz, auch an vergrabenem, was ein Vorkommen auf Erde vortäuschen kann. Am einzelnen Pilz ist nicht viel dran, aber sein meist geselliges Erscheinen lohnt das Einsammeln. Aber bitte nur, wenn man sich seiner Sache wirklich sicher ist. (Dieter Gewalt /Johann Rejek) [Mehr lesen >](/pilze/psathyrella-candolleana-behangener-faserling)
+11.04.2025: Zugegeben, zurzeit braucht man schon viel Glück um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Behangenen Faserling *Psathyrella candolleana* zu finden. Es ist vielerorts  einfach zu trocken. Normalerweise erscheint er schon  früh im Jahr und ist bei Kennern ein beliebter Suppenpilz. Er wächst stets an Holz, auch an vergrabenem, was ein Vorkommen auf Erde vortäuschen kann. Am einzelnen Pilz ist nicht viel dran, aber sein meist geselliges Erscheinen lohnt das Einsammeln. Aber bitte nur, wenn man sich seiner Sache wirklich sicher ist. (Dieter Gewalt /Johann Rejek) [Mehr lesen >](/pilze/psathyrella-candolleana-behangener-faserling)
 
 <div style="clear:  both"></div>
 
