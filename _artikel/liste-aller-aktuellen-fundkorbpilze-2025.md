@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+13.04.2025: [Disciotis venosa - Morchelbecherling](/pilze/disciotis-venosa-morchelbecherling)  
 12.04.2025: [Lophodermium pinastri - Kiefernnadel-Spaltlippe](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)  
 11.04.2025: [Psathyrella candolleana - Behangener Faserling](/pilze/psathyrella-candolleana-behangener-faserling)\
 10.04.2025: [Polyporus squamosus - Schuppiger Porling](/pilze/polyporus-squamosus-schuppiger-porling)\
