@@ -28,3 +28,5 @@ Man findet diesen wenig beachteten Pilz vor allem im Fühjahr und gern an toten,
 {% include abbildung_ende.html legende="Sporen" %}
 
 Die sichelförmigen Sporen sind dreifach septiert, wobei die Endzellen etwas heller gefärbt sind. Sie sind bis 50 µm lang und 5 – 6 µm breit.
+
+Eine weitere Art in der Gattung ist der [Rasig-krustige Buchenkugelpilz *Melogramma spiniferum*](/pilze/melogramma-spiniferum-rasig-krustiger-buchenkugelpilz).
