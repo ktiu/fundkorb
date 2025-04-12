@@ -42,4 +42,4 @@ Junge Asci färben sich in Baral'scher Lösung rotbräunlich. Links oben im Bild
 {% include bild.html datei="/bilder/melogramma_spiniferum_07_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Sporen (in Wasser): die beiden äußeren Zellen sind hyalin, die inneren braun" %}
 
-Unter den [Pyrenomyzeten](Pyrenomyzeten "Glossar") fällt der Rasig-krustige Buchenkugelpilz auch durch seine wahrhaft riesengroßen, sichelförmigen und siebenfach septierten Sporen auf. Mit diesem Merkmal in Kombination mit dem typischen Standort ist er so gut wie unverwechselbar.
+Unter den [Pyrenomyzeten](Pyrenomyzeten "Glossar") fällt der Rasig-krustige Buchenkugelpilz auch durch seine wahrhaft riesengroßen, sichelförmigen und siebenfach septierten Sporen auf. Mit diesem Merkmal in Kombination mit dem typischen Standort ist er so gut wie unverwechselbar. Dreifach septierte ebenfalls sichelförmige Sporen hat der [Sichelsporige Kugelpilz *Melogramma campylosporum*](/pilze/melogramma-campylosporum-sichelsporiger-kugelpilz).
