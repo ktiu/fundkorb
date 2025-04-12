@@ -30,6 +30,28 @@ Die hier abgebildete Aufsammlung wurde zunächst als Stinktäubling *Russula foe
 Der Hut des Pilzes ist glatt, glänzend und klebrig, die Farbe hell graubraun. Das jüngere Exemplar unseres Fundes war nahezu halbkugelig und nur am Rand gerieft, das ältere breit ausgebreitet und bis zur Hälfte des Radius höckerig gerieft. Die Huthaut ist zu einem Viertel des Radius abziehbar. Die Lamellen sind brüchig, blass, im Alter braunfleckig, am Stiel schmal angeheftet, bis 9 mm breit, in Stielnähe vielfach gegabelt, kaum untermischt, dichtstehend, am Grunde queradrig verbunden. Die Schneiden sind ganzrandig und wie die Fläche gefärbt. Der Stiel ist zylindrisch, stabil, weißlich, längsadrig, an der Basis etwas bräunend. Das Fleisch ist hart, cremefarben, im Stiel sehr fest, das Stielinnere gekammert. Der Geruch entspricht dem eines typischen Stinktäublings, also süßlich-ölig, der Geschmack ist annähernd so, wie er riecht, dann zusätzlich sehr scharf.\
 Die Farbe des frisch ausgefallenen Sporenpulvers ist hell creme, etwa IIb nach der Farbtafel in MARXMÜLLER 2014.
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>süßlich-ölig + sehr scharf</td>
+      <td>hell creme</td>
+      <td>zur Hälfte</td>
+      <td>hell rosa</td>
+       
+    </tr>
+  </table>
+</div>
+
 Makrochemische Farbreaktionen: mit FeSO4 rosa, mit Guajaktinktur ist die Reaktion unmittelbar nach dem Auftragen stark, mit KOH 20% keine Verfärbung. Keine Verfärbung am Trockenbeleg. 
 
 Mikroskopische Merkmale:\
