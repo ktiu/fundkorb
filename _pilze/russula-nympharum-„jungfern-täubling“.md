@@ -29,6 +29,28 @@ Diese offenbar sehr seltene Täublingsart ist makroskopisch kaum vom ebenfalls n
 
 Der Hut ist anfangs flach mit leicht vertiefter Mitte und abgerundetem Rand, reif ausgebreitet und nach oben gebogen, bis 10 cm breit. Die Oberfläche ist glänzend, klebrig, etwas körnig, jung cremefarben mit hell orangeroten Zonen, reif orange bis rotorange, die Hutmitte cremefarben mit kleinen, orangebraunen Flecken. Die Huthaut ist am Rand zu etwa einem Viertel des Radius abziehbar, darunter rosa, Hutrand auf 1 cm Länge gerieft. Die Lamellen sind brüchig, anfangs buttergelblich, später dottergelb, am Stiel schmal angeheftet, am Hutrand gerundet, bis 10 mm breit, nur wenige gegabelt, nicht mit kürzeren untermischt, dichtstehend, in reifem Stadium am äußersten Rand ca. 8 - 10 pro cm. Schneiden ganzrandig, mit der Fläche gleichfarben. Der Stiel misst bis zu 8,5 x 3 cm. Er ist zylindrisch, stabil, weiß, gilbend bis bräunend, längsaderig. Das Fleisch ist fest, weiß, im Hut normal dick, im Stiel sehr fest, das Stielinnere ist voll, reif etwas ausgestopft erscheinend. Der Geruch beim Durchschneiden fruchtig und nach Zedernholz, der Geschmack sehr scharf. Die Sporenpulverfarbe ist ein mittleres Gelb (nach der Tabelle in Marxmüller 2014 Ivd).
 
+<div class="table-responsive">
+  <table class="table taeubling">
+    <tr>
+      <th rowspan="2">Geschmack</th>
+      <th rowspan="2">Sporenpulver</th>
+      <th rowspan="2">Abziehbarkeit der Huthaut</th>
+      <th colspan="3" class="text-center">Chemische Reaktion mit FeSO4</th>
+    </tr>
+    <tr>
+      
+      
+    </tr>
+    <tr>
+      <td>sehr scharf</td>
+      <td>gelblich</td>
+      <td>etwa 1/4</td>
+      <td>sehr schwach rosa</td>
+       
+    </tr>
+  </table>
+</div>
+
 Farbreaktionen: mit FeSO4 sehr schwach rosa, mit Guajak rapide, aber nur von mittlerer Intensität. Die Farbe des Trockenbelegs ist gegenüber dem frischen Fruchtkörper unverändert.
 
 Mikroskopische Merkmale:
