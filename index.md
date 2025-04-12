@@ -11,6 +11,13 @@ footer_scripts:
  <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/disciotis_venosa_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.04.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Morchelbecherling *Disciotis venosa*,  findet man normalerweise in dieser Jahreszeit meist gut getarnt zwischen Bärlauch und Buschwindröschen. Aber das Wetter ist gerade nicht „normal“,  und so gehört schon viel Glück dazu ein paar Exemplare zu entdecken. Für Kenner ist der mit den Morcheln verwandte [Ascomyzet](Ascomyzeten "Glossar") ein ausgezeichneter Speisepilz. Sein untrügliches Kennzeichen ist sein Chlorgeruch, der beim Erhitzen verschwindet und den Pilzgenuss in keiner Weise beeinträchtigt. (Dieter Gewalt/Johann Rejek) [Mehr lesen >](/pilze/disciotis-venosa-morchelbecherling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lophodermium_-pinastri_01_dg.jpg" %}
@@ -49,22 +56,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 08.04.2025: Bei unserer diesjährigen Exkursion im NSG Kühkopf am Rhein herrschte nie zuvor erlebte Trockenheit und erstmals nach rund 30 Jahren konnten keine Morcheln gefunden werden. Da war auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Kohlen-Kugelpilz *Daldinia concentrica* nur ein schwacher Trost. Während unserer dreistündigen Wanderung begegneten wir mindestens 6 weiteren Vorkommen, übewiegend der kleineren Art *[Daldinia childiae](/pilze/daldinia-childiae-birnen-kohlenpilz)*. Im Anschnitt zeigen die etwa 1 - 4 cm großen Fruchtkörper das für die Gattung typische konzentrische Streifenmuster. Zur sicheren Artbestimmung sollte mikroskopiert werden. (Dieter Gewalt) [Mehr lesen >](/pilze/daldinia-concentrica-kohlen-kugelpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/exidia_truncata_01_dg.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html %}
-
-07.04.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Abgestutzte Drüsling *Exidia truncata*. Ein typischer *„Glibber“*, der lappig ohrförmige, dunkelbraun bis schwarz gefärbte Fruchtkörper bildet. Sie sind von elastisch gelatinöser Konsistenz und ganzjährig vor allem an Eichenholz zu finden. Frostige Nächte machen ihnen offenbar nichts aus. (Dieter Gewalt) [Mehr lesen >](/pilze/exidia-truncata-abgestutzter-drüsling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/morchella_conica_09_uvs.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html %}
-
-06.04.2025: Ein [aktueller Fund](AA "Glossar-") von noch recht jungen Spitzmorcheln *Morchella conica* aus einem Fichtenwald südlich von München lässt hoffen, dass bald auch in der Rhein-Main-Region die Morchel-Saison beginnen kann. Da die Niederschlagsmengen im Frühling sehr gering waren, dürften Funde im eigenen Garten am wahrscheinlichsten sein, wenn dort Kiefernrindenmulch zum Einsatz kam und ausreichend gewässert wurde. (Johann Rejek) [Mehr lesen >](/pilze/morchella-conica-spitzmorchel)
 
 <div style="clear:  both"></div>
 
