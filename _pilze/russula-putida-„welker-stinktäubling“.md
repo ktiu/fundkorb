@@ -61,8 +61,7 @@ Sporen subglobos bis breitellipsoid, derb isoliert stachelig, Stacheln stumpf ko
 {% include bild.html datei="/bilder/russula_putida_03_bm.jpg" %}
 {% include abbildung_ende.html legende="Sporen (Foto: Bernd Miggel)" %}
 
-Subcutis (untere Hautschicht) mit zahlreichen, in Sulvovanillin gut anfärbbaren, 3,5 - 4,5 µm breiten Laticiferen (Hyphen mit Milchsaft). Epicutis (Hutdeckschicht) aus Haaren und Dermatozystiden bestehend. Haare schlank, meist zylindrisch, 1,5 - 2,5 µm breit, Endglied um die 15 - 30 µm lang, teilweise gewellt, mit abgerundetem, teils verschmälertem Ende, vielfach 
-verzweigt. Pileozystiden in Sulvobenzaldehyd anfärbbar, dagegen nicht in Sulvovanillin, spindel- bis keulenförmig, terminal verschmälert, dort oft mit Köpfchen, breiteste Stelle 3 - 6 µm breit, meist mit keiner oder nur einer Septe.
+Subcutis (untere Hautschicht) mit zahlreichen, in Sulvovanillin gut anfärbbaren, 3,5 - 4,5 µm breiten Laticiferen (Hyphen mit Milchsaft). Epicutis (Hutdeckschicht) aus Haaren und Dermatozystiden bestehend. Haare schlank, meist zylindrisch, 1,5 - 2,5 µm breit, Endglied um die 15 - 30 µm lang, teilweise gewellt, mit abgerundetem, teils verschmälertem Ende, vielfach verzweigt. Pileozystiden in Sulvobenzaldehyd anfärbbar, dagegen <ins>nicht</ins> in Sulvovanillin, spindel- bis keulenförmig, terminal verschmälert, dort oft mit Köpfchen, breiteste Stelle 3 - 6 µm breit, meist mit keiner oder nur einer Septe.
 
 Ähnliche Täublinge:\
 Der [Stinktäubling *Russula foetens*](/pilze/russula-foetens-stinktäubling) ist von *R. putida* makroskopisch kaum unterscheidbar. *R. foetens* besitzt die größeren Fruchtkörper und völlig isoliert stachelige Sporen. Ein prägnanter Unterschied besteht in der DNA, die nur zu 96 Prozent übereinstimmt.\
