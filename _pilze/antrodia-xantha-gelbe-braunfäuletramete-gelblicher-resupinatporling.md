@@ -5,6 +5,7 @@ beschreibung:
   referenz: (Fr.) Ryvarden 1973
   familie: Fomitopsidaceae
   erlaeuterung: xantha = gelb
+  synonym: "Neuer Name: Amyloporia xantha"
 profil:
   aktualisiert: 2022-11-15
   autor_in: Dieter Gewalt
@@ -31,8 +32,11 @@ Das obige Foto zeigt die Gelbe Braunfäuletramete (*fm. pachymeres*) zwar in typ
 {% include bild.html datei="/bilder/antrodia_xantha_03_wp.jpg" %}
 {% include abbildung_ende.html legende="Foto: Werner Pohl" %}
 
-Der an senkrechten Totholzfächen wachsende Porling kann je nach Substratangebot Überzüge von einigen Dezimetern Größe bilden. Die Hütchen können vereinzelt oder in kleineren Gruppen auf dem [Subikulum](Subikulum "Glossar") verteilt oder großflächig miteinander verwachsen sein. Die Poren sind rundlich oder auch zerschlitzt. In frischem Zustand riecht der Pilz nach Zitrone und schmeckt bitter. Mit zunehmendem Altern verschwindet der Geruch und der Pilz wird bröckelig. Im Holz verursacht er eine Braunfäule.
+Der an senkrechten Totholzfächen wachsende Porling kann je nach Substratangebot Überzüge von einigen Dezimetern Größe bilden. Die Hütchen können vereinzelt oder in kleineren Gruppen auf dem [Subikulum](Subikulum "Glossar") verteilt oder großflächig miteinander verwachsen sein. Die Poren (6 - 8 pro mm) sind rundlich bis eckig oder auch zerschlitzt. In frischem Zustand riecht der Pilz nach Zitrone und schmeckt bitter. Mit zunehmendem Altern verschwindet der Geruch und der Pilz wird bröckelig. Im Holz verursacht er eine Braunfäule.
 
-Verwechselt werden könnte er mit der wesentlich häufigeren und an gleichen Substraten wachsenden [Reihigen Tramete *Antrodia serialis*](/pilze/antrodia-serialis-reihige-tramete), die sich leicht vom Substrat ablösen lässt und auch mikroskopisch durch größere Sporen (6,5 - 9 x 3 - 4 µm) unterscheidet (*A. xantha:* 4 - 5 x 1 - 1,5 µm). Für mich stellte die Frage, ob es sich bei der leichten Ablösbarkeit um ein Alleinstellungsmerkmal oder zumindest um ein praktisch anwendbares Unterscheidungsmerkmal handelt, ein zunächst unlösbares Problem dar. In der gesamten mir zugänglichen Literatur und auch bei Internet-Recherchen fand ich zu *Antrodia xantha* nicht die gewünschte Auskunft. Schließlich gelang *Bernd Miggel*  die Aufklärung: *A. Berniccia* schreibt zu *Antrodia xantha "aderenti sul substrato"* (am Substrat haftend) und auch *Ryvarden & Melo* formulieren es deutlich: *A. xantha: "adnate"* (angewachsen), *A. serialis: "easily peeled off in one piece"* (leicht in einem Stück abziehbar).
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/antrodia_xantha_05_bm.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/antrodia_xantha_06_bm.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Abbildung links: Poren -- Abbildung rechts: Sporen (2 Fotos: Bernd Miggel)" %}
 
-Zu erwähnen wäre noch, dass *Antrodia xantha fm. xantha* eine ebene bis schwach knotige Oberfläche hat.
+Verwechselt werden könnte er mit der wesentlich häufigeren und an gleichen Substraten wachsenden [Reihigen Tramete *Antrodia serialis*](/pilze/antrodia-serialis-reihige-tramete), die sich leicht vom Substrat ablösen lässt und auch mikroskopisch durch größere Sporen (6,5 - 9 x 3 - 4 µm) unterscheidet (*A. xantha:* 4 - 5 x 1 - 1,5 µm, allantoid, glatt, dünnwandig, hyalin). Für mich stellte die Frage, ob es sich bei der leichten Ablösbarkeit um ein Alleinstellungsmerkmal oder zumindest um ein praktisch anwendbares Unterscheidungsmerkmal handelt, ein zunächst unlösbares Problem dar. In der gesamten mir zugänglichen Literatur und auch bei Internet-Recherchen fand ich zu *Antrodia xantha* nicht die gewünschte Auskunft. Schließlich gelang *Bernd Miggel*  die Aufklärung: *A. Berniccia* schreibt zu *Antrodia xantha "aderenti sul substrato"* (am Substrat haftend) und auch *Ryvarden & Melo* formulieren es deutlich: *A. xantha: "adnate"* (angewachsen), *A. serialis: "easily peeled off in one piece"* (leicht in einem Stück abziehbar).
