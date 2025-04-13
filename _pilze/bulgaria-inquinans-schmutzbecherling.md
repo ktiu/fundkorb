@@ -13,6 +13,8 @@ hauptbild:
   anzeige: false
   datei: /bilder/bulgaria_inquinans_02_dg.jpg
 literatur:
+  - url: ""
+    text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 1, Nr. 170"
   - url: http://tintling.com/pilzbuch/arten/b/Bulgaria_inquinans.html
 ---
 {% include abbildung_start.html stil="standard" %}
