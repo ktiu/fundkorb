@@ -18,7 +18,7 @@ literatur:
 Die meisten Stielporlinge sind gekennzeichnet durch deutliche Gliederung in Hut und zentralen Stiel. Einige seitlich gestielte Arten sind inzwischen in neu geschaffene Gattungen überführt worden, während die zentral gestielten mit ihren typischen Vertretern Mai- und Winterporling in die Gattung *Lentinus* transferiert wurden, die bisher ausschließlich lamellige Arten enthielt. Laut Index fungorum ist dieser Transfer inzwischen rückgängig gemacht worden und der Maiporling darf wieder *Polyporus lepideus* genannt werden. Bei Wikipedia wird er tatsächlich immer noch (Stand 04.2024) als „Schuppiger Sägeblättling“ bezeichnet! 
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/polyporus_ciliatus_02_dg.jpg" %}
+{% include bild.html datei="/bilder/polyporus_ciliatus_05_jr.jpg" %}
 {% include abbildung_ende.html %}
 
 Der Maiporling ist ein typischer Frühjahrspilz, der ungefähr gleichzeitig mit den Morcheln erscheint. Seine zähfleischigen Hüte erreichen Durchmesser von 3 - 6 cm und sind graubraun gefärbt. Die Oberfläche fühlt sich fein samtig an und kann am Hutrand schwach bewimpert sein. Die helleren rundlichen Poren auf der Hutunterseite sind so winzig, dass sie mit bloßem Auge kaum erkennbar sind. Sein etwa gleich großer Doppelgänger, der [Winterporling *Polyporus brumalis*](/pilze/polyporus-brumalis-winterporling), hat dagegen deutlich größere und oft leicht rhombisch geformte Poren, etwa 2 - 3 pro Millimeter.
