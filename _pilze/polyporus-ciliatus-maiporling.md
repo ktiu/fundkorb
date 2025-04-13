@@ -7,7 +7,7 @@ beschreibung:
   synonym: "Synonym: Polyporus lepideus / Neuer Name: Lentinus substrictus"
   erlaeuterung: ciliatus = bewimpert
 profil:
-  aktualisiert: 2022-02-21
+  aktualisiert: 2025-04-13
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
@@ -19,7 +19,7 @@ Die meisten Stielporlinge sind gekennzeichnet durch deutliche Gliederung in Hut 
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/polyporus_ciliatus_05_jr.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Foto: Johann Rejek, 13.04.2025 Isarauen bei München" %}
 
 Der Maiporling ist ein typischer Frühjahrspilz, der ungefähr gleichzeitig mit den Morcheln erscheint. Seine zähfleischigen Hüte erreichen Durchmesser von 3 - 6 cm und sind graubraun gefärbt. Die Oberfläche fühlt sich fein samtig an und kann am Hutrand schwach bewimpert sein. Die helleren rundlichen Poren auf der Hutunterseite sind so winzig, dass sie mit bloßem Auge kaum erkennbar sind. Sein etwa gleich großer Doppelgänger, der [Winterporling *Polyporus brumalis*](/pilze/polyporus-brumalis-winterporling), hat dagegen deutlich größere und oft leicht rhombisch geformte Poren, etwa 2 - 3 pro Millimeter.
 
