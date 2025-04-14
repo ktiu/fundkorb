@@ -25,7 +25,7 @@ Um diesen Pilz zu finden, sollte man vor allem in Gärten und Parkanlagen suchen
 {% include bild.html datei="/bilder/pfingstrose_02_xx.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Pfingstrosen (Gattung Paeonia)" %}
 
-Bei der Bestimmung von Spaltlippen kommt es in erster Linie auf das Substrat an. Ihre Form ist bei nahezu allen Arten gleich. Der Name *„Spaltlippe“* ist bereits eine anschauliche Beschreibung: ein schiffchenförmiges Gebilde, das in der Mitte längs gespalten ist. Durch diesen Längsspalt treten die Sporen aus. Nahezu alle Arten sind so klein, dass man ihre Gestalt nur mit einer gut vergrößernden Lupe erkennen kann. Bei der Pfingstrosen-Spaltlippe sind diese *„Schiffchen“* meist etwas rundlicher als bei anderen Arten.
+Bei der Bestimmung von Spaltlippen kommt es in erster Linie auf das Substrat an. Ihre Form ist bei nahezu allen Arten gleich. Der Name *„Spaltlippe“* ist bereits eine anschauliche Beschreibung: ein schiffchenförmiges Gebilde, das in der Mitte längs gespalten ist. Durch diesen Längsspalt treten die Sporen aus. Nahezu alle Arten sind so klein, dass man ihre Gestalt nur mit einer gut vergrößernden Lupe erkennen kann. Bei der Pfingstrosen-Spaltlippe sind diese *„Schiffchen“* meist etwas rundlicher als bei anderen Arten und messen etwa 0,3 - 0,6 x 0,2 – 0,4 mm.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/lophodermium_paeoniae_02_nk.jpg" %}
