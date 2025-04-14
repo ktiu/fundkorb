@@ -17,11 +17,12 @@ Neuer Exkursionstermin: Sonntag, 4. Mai 2025, 10:00 Uhr: **Wir suchen den Maipil
 Hier geht's [zur Anmeldung >](/termine)
 
 - - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_ciliatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-15.04.2025: Während andere Pilze noch auf sich warten lassen, eilt unser aktueller [Fundkorbpilz](AA "Glossar-"), der Maiporling *Polyporus ciliatus*, seinem Namen vorraus. Wir fanden mehrere frische Fruchtkörper dieses Stielporlings an einem toten Pappelast in einem Auwald bei München. An seinen sehr feinen, mit bloßem Auge kaum erkennbaren Poren (Lupe!) ist er gut vom [Winterporling *Polyporus brumalis*](/pilze/polyporus-brumalis-winterporling) zu unterscheiden, der viel größere Poren besitzt und den man durchaus auch noch im April finden kann. (Johann Rejek) [Mehr lesen >](/pilze/polyporus-ciliatus-maiporling)
+15.04.2025: Während andere Pilze noch auf sich warten lassen, eilt unser aktueller [Fundkorbpilz](AA "Glossar-"), der Maiporling *Polyporus ciliatus*, seinem Namen voraus. Wir fanden mehrere frische Fruchtkörper dieses Stielporlings an einem toten Pappelast in einem Auwald bei München. An seinen sehr feinen, mit bloßem Auge kaum erkennbaren Poren (Lupe!) ist er gut vom [Winterporling *Polyporus brumalis*](/pilze/polyporus-brumalis-winterporling) zu unterscheiden, der viel größere Poren besitzt und den man durchaus auch noch im April finden kann. (Johann Rejek) [Mehr lesen >](/pilze/polyporus-ciliatus-maiporling)
 
 <div style="clear:  both"></div>
 
