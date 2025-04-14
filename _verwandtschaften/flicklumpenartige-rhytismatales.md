@@ -41,6 +41,7 @@ In dieser Familie sind insgesamt 43 Gattungen zusammengefasst, unter denen die S
 
 [Lophodermium arundinaceum](/pilze/lophodermium-arundinaceum-schilf-spaltlippe) - [Schilf-Spaltlippe ](/pilze/lophodermium-arundinaceum-schilf-spaltlippe)\
 [Lophodermium gramineum - Gras-Spaltlippe](/pilze/lophodermium-gramineum-gras-spaltlippe)\
+[Lophodermium paeoniae](/pilze/lophodermium-paeoniae-pfingstrosen-spaltlippe) - [Pfingstrosen-Spaltlippe ](/pilze/lophodermium-paeoniae-petiolen-spaltlippe)\
 [Lophodermium petiolicola](/pilze/lophodermium-petiolicola-petiolen-spaltlippe) - [Petiolen-Spaltlippe ](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)\
 [Lophodermium piceae - Fichtennadel-Spaltlippe](/pilze/lophodermium-piceae-fichtennadel-spaltlippe-fichtennadelröte)\
 [Lophodermium pinastri - ](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)[Kiefernnadelspaltlippe](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)\
