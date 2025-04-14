@@ -1,6 +1,6 @@
 ---
 schlagwort: semipileat
-synonym: '"halbhütig"'
+synonym: ""
 ---
-resupinat mit abstehenden Hutkanten
+"halbhütig", resupinat mit abstehenden Hutkanten
 
