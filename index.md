@@ -11,13 +11,12 @@ footer_scripts:
  <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
 - - -
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_ciliatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
 
-15.04.2025: Während andere Pilze noch auf sich warten lassen, eilt unser aktueller [Fundkorbpilz](AA "Glossar-"), der Maiporling * Polyporus ciliatus*, seinem Namen voraus. Wir fanden mehrere frische Fruchtkörper dieses Stielporlings an einem toten Pappelast in einem Auwald bei München. An seinen sehr feinen, mit bloßem Auge kaum erkennbaren Poren (Lupe!) ist er gut vom [Winterporling *Polyporus brumali*](pilze/polyporus-brumalis-winterporling) zu unterscheiden, der viel größere Poren besitzt und den man durchaus auch noch im April finden kann. (Johann Rejek) [Mehr lesen >](/pilze/polyporus-ciliatus-maiporling)
+Neuer Exkursionstermin: Sonntag, 4. Mai 2025, 10:00 Uhr: **Wir suchen den Maipilz**
 
-<div style="clear:  both"></div>
+Hier geht's [zur Anmeldung >](/termine)
+
+- - -
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/melogramma_campylosporum_01_fk.jpg" %}
@@ -59,6 +58,13 @@ footer_scripts:
 
 <div style="clear:  both"></div>
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinus_tigrinus_01_hl.jpg" %}
+{% include abbildung_ende.html %}
+
+09.04.2025: Wo es Weiden gibt, ist oft auch der Getigerte Knäueling *Lentinus tigrinus* anwesend. Gern schon im Frühjahr und wie üblich auch im NSG Kühkopf. Die nun schon Wochen andauernde Trockenheit hat hier nicht nur den Pegelstand des Rheins stark sinken lassen, sondern auch das hier sonst übliche massenhafte Wachstum unseres aktuellen [Fundkorbpilzes](AA "Glossar-")  beeinträchtigt. Ein paar wenige Exemplare haben sich immerhin blicken lassen. Er ist ein typischer Pilz in auwaldartigen Biotopen, insbesondere der großen Stromtäler. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinus-tigrinus-getigerter-knäueling)
+
+<div style="clear:  both"></div>
 
 - - -
 
