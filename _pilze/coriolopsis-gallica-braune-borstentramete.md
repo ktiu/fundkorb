@@ -23,6 +23,7 @@ Der hier abgebildete Fruchtkörper stammt von einer Exkursion im Frankfurter Sta
 {% include bild.html datei="/bilder/coriolopsis_gallica_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
+
 Die Oberseite des Pilzes ist grob striegelig bis borstig und grau, ocker oder hell- bis dunkelbraun gefärbt. Die grauen bis graubraunen Poren sind relativ groß, rundlich-eckig und teilweise länglich zerschlitzt. Die braune [Trama](Trama "Glossar") färbt sich mit KOH schwarz. Die ähnliche Blasse Borstentramete *Coriolopsis trogii* zeigt diese chemische Reaktion nicht.
 
 {% include abbildung_start.html stil="standard" %}
