@@ -1,21 +1,18 @@
 ---
-aktivitaet: Pilz- und naturkundliche Führung im NSG Kühkopf
-zeit: 2025-04-06T10:00:06.912Z
+aktivitaet: Wir suchen den Maipilz
+zeit: 2025-05-04T10:00:06.912Z
 bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
 published: true
 bilder:
-  - /bilder/kühkopf_01_dg.png
+  - /bilder/wir_suchen_den_maipilz_01_dg.jpg
 ---
-Der Kühkopf ist Teil des 440 ha großen Naturreservats Kühkopf-Knoblochsaue auf einer vom Altrhein gebildeten Insel und eine der bedeutendsten Auenlandschaften in Deutschland.
+Der Maipilz ist ein typische Frühjahrspilz, den wir traditionell Jahr für Jahr suchen und bisher auch immer gefunden haben. Auch er ist von der andauernden Klimaveränderung betroffen. Wie fast alles in der Natur immer früher grünt, blüht und wächst, so auch der Maipilz. Wir werden ihn in zwei nahe beieinander gelegenen Gebieten in Dietzenbach suchen und natürlich auch nach anderen Pilzarten Ausschau halten.
 
-Was uns am Kühkopf erwartet: Frühlingserwachen in der Natur. Ein Wald voller Bärlauch. Vogelgezwitscher, vielleicht sogar der Gesang einer Nachtigall oder Kuckucksrufe, das Hämmern der Spechte. Und Fühjahrspilze, mit einiger Wahrscheinlichkeit sogar Morcheln. Aber noch keine Stechmücken, die dort später zur unerträglichen Plage werden.
-
-Wir treffen uns bis spätstens 9:15 zur gemeinsamen Anfahrt am Kreishaus Dietzenbach (Ost-Seite = Straßenverkehrsamt) oder um 10:30 Uhr direkt in 64589 Stockstadt am Rhein auf dem Parkplatz Rheinstraße vor der Brücke zum Naturschutzgebiet. Voraussichtliche Dauer der Wanderung ca. 3 Stunden. Möglich ist eine Einkehr nach der Exkursion in einem einfachen Gartenrestaurant, das am Ende unserer Route liegt.
+Die Teilnahmegebühr für die etwa dreistündige Wanderung beträgt 15 Euro. Begleitende Kinder sind natürlich kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Anmeldebestätigung mitgeteilt.
 
 Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich.
-
 
 **Wichtige Anmerkung:** Es kommt leider immer wieder vor, dass die automatische Anmeldung nicht funktioniert. Sollten Sie auf Ihre Anmeldung innerhalb von ca. 24 Stunden keine Anmeldebestätigung erhalten, bitte ich Sie, per Mail an dgewalt@web.de oder telefonisch (0176 2295 3310) Kontakt mit mir aufzunehmen.
 
