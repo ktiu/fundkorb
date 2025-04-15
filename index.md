@@ -19,6 +19,14 @@ Hier geht's [zur Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pseudoplectania_nigrella_01_wi.jpg" %}
+{% include abbildung_ende.html %}
+
+16.04.2025: Alles andere als typisch ist die Fundstelle unseres aktuellen [Fundkorbpilzes](AA "Glossar-"). Der Glänzende Schwarzborstling *Pseudoplectania nigrella* wuchs mitten in Offenbach. Was gepasst hat, war der mit Kiefernnadeln bedeckte und mit Moos bewachsene Boden in der schattigen Ecke einer Parkanlage. Er sieht dem sehr viel häufigeren [Schmutzbecherling *Bulgaria inquinans*](/pilze/bulgaria-inquinans-schmutzbecherling) ähnlich, man kommt beim Anfassen jedoch keine schwarzen Finger. Um die Bestimmung abzusichern wurde mikroskopiert. (Adam Adamovicz) [Mehr lesen >](/pilze/pseudoplectania-nigrella-glänzender-schwarzborstling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_ciliatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -55,22 +63,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 11.04.2025: Zugegeben, zurzeit braucht man schon viel Glück um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Behangenen Faserling *Psathyrella candolleana* zu finden. Es ist vielerorts  einfach zu trocken. Normalerweise erscheint er schon  früh im Jahr und ist bei Kennern ein beliebter Suppenpilz. Er wächst stets an Holz, auch an vergrabenem, was ein Vorkommen auf Erde vortäuschen kann. Am einzelnen Pilz ist nicht viel dran, aber sein meist geselliges Erscheinen lohnt das Einsammeln. Aber bitte nur, wenn man sich seiner Sache wirklich sicher ist. (Dieter Gewalt /Johann Rejek) [Mehr lesen >](/pilze/psathyrella-candolleana-behangener-faserling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_squamosus_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.04.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schuppige Porling *Polyporus squamosus* (neuer Name: *Cerioporus squamosus*) ist mir von *Benjamin Dräger* aus Nieder-Eschbach (Frankfurt a. Main) gemeldet worden. Er hat mehrere noch ganz junge Fruchtkörper an einer Weide gefunden. Wie man sieht, sind sie schon im frühesten Entwicklungsstadium an Hut und Stiel schuppig aufgerissen. Solange sie noch zartfleischig sind, kann man sie durchaus mal in der Pfanne braten. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-squamosus-schuppiger-porling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lentinus_tigrinus_01_hl.jpg" %}
-{% include abbildung_ende.html %}
-
-09.04.2025: Wo es Weiden gibt, ist oft auch der Getigerte Knäueling *Lentinus tigrinus* anwesend. Gern schon im Frühjahr und wie üblich auch im NSG Kühkopf. Die nun schon Wochen andauernde Trockenheit hat hier nicht nur den Pegelstand des Rheins stark sinken lassen, sondern auch das hier sonst übliche massenhafte Wachstum unseres aktuellen [Fundkorbpilzes](AA "Glossar-")  beeinträchtigt. Ein paar wenige Exemplare haben sich immerhin blicken lassen. Er ist ein typischer Pilz in auwaldartigen Biotopen, insbesondere der großen Stromtäler. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinus-tigrinus-getigerter-knäueling)
 
 <div style="clear:  both"></div>
 
