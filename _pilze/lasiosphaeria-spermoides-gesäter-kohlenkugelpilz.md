@@ -17,7 +17,7 @@ literatur:
   - text: ""
     url: https://www.pilze-deutschland.de/organismen/ruzenia-spermoides-hoffm-o-hilber-ex-an-mill-huhndorf-2004
 ---
-So gut wie unverwechselbar ist dieser [Pyrenomyzet](Pyrenomyzet "Glossar"), denn so dicht gedrängt wie bei diesem stehen die winzigen schwarzen Kugeln bei kaum einer anderen Art zusammen. Ihre Fruchtkörper werden [Perithezien](Perithezien "Glossar") genannt. Sie sind nur 0,5 bis 1 mm groß. Die Sporenauslass-Öffnung ist kaum wahrnehmbar, erst wenn bei Sporenreife sind [apikal](apikal "Glossar") weißliche Flecken zu erkennen. Im Alter wenn die Sporen verweht worden sind, bleiben offene Schalen übrig, wie auf der nachfolgenden Abbildung gut zu sehen ist.
+So gut wie unverwechselbar ist dieser [Pyrenomyzet](Pyrenomyzeten "Glossar"), denn so dicht gedrängt wie bei diesem stehen die winzigen schwarzen Kugeln bei kaum einer anderen Art zusammen. Ihre Fruchtkörper werden [Perithezien](Perithezien "Glossar") genannt. Sie sind nur 0,5 bis 1 mm groß. Die Sporenauslass-Öffnung ist kaum wahrnehmbar, erst wenn bei Sporenreife sind [apikal](apikal "Glossar") weißliche Flecken zu erkennen. Im Alter wenn die Sporen verweht worden sind, bleiben offene Schalen übrig, wie auf der nachfolgenden Abbildung gut zu sehen ist.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/lasiosphaeria_spermoides_02_nk.jpg" %}
