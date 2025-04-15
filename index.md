@@ -22,7 +22,7 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include bild.html datei="/bilder/pseudoplectania_nigrella_01_wi.jpg" %}
 {% include abbildung_ende.html %}
 
-16.04.2025: Alles andere als typisch ist die Fundstelle unseres aktuellen [Fundkorbpilzes](AA "Glossar-"). Der Glänzende Schwarzborstling *Pseudoplectania nigrella* wuchs mitten in Offenbach. Was gepasst hat, war der mit Kiefernnadeln bedeckte und mit Moos bewachsene Boden in der schattigen Ecke einer Parkanlage. Er sieht dem sehr viel häufigeren [Schmutzbecherling *Bulgaria inquinans*](/pilze/bulgaria-inquinans-schmutzbecherling) ähnlich, man kommt beim Anfassen jedoch keine schwarzen Finger. Um die Bestimmung abzusichern wurde mikroskopiert. (Adam Adamovicz) [Mehr lesen >](/pilze/pseudoplectania-nigrella-glänzender-schwarzborstling)
+16.04.2025: Alles andere als typisch ist die Fundstelle unseres aktuellen [Fundkorbpilzes](AA "Glossar-"). Der Glänzende Schwarzborstling *Pseudoplectania nigrella* wuchs mitten in Offenbach. Was gepasst hat, war der mit Kiefernnadeln bedeckte und mit Moos bewachsene Boden in der schattigen Ecke einer Parkanlage. Er sieht dem sehr viel häufigeren [Schmutzbecherling *Bulgaria inquinans*](/pilze/bulgaria-inquinans-schmutzbecherling) ähnlich, man bekommt beim Anfassen jedoch keine schwarzen Finger. Um die Bestimmung abzusichern wurde mikroskopiert. (Adam Adamovicz) [Mehr lesen >](/pilze/pseudoplectania-nigrella-glänzender-schwarzborstling)
 
 <div style="clear:  both"></div>
 
