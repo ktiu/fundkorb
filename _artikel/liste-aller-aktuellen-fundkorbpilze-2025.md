@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-15.04.2025: [Polyporus ciliatus - Maiporling](/pilze/polyporus-ciliatus-maiporling)  
-14.04.2025: [Melogramma campylosporum - Sichelsporiger Kugelpilz](/pilze/melogramma-campylosporum-sichelsporiger-kugelpilz)  
+16.04.2025: [Pseudoplectania nigrella - Glänzender Schwarzborstling](/pilze/pseudoplectania-nigrella-glänzender-schwarzborstling)  
+15.04.2025: [Polyporus ciliatus - Maiporling](/pilze/polyporus-ciliatus-maiporling)\
+14.04.2025: [Melogramma campylosporum - Sichelsporiger Kugelpilz](/pilze/melogramma-campylosporum-sichelsporiger-kugelpilz)\
 13.04.2025: [Disciotis venosa - Morchelbecherling](/pilze/disciotis-venosa-morchelbecherling)\
 12.04.2025: [Lophodermium pinastri - Kiefernnadel-Spaltlippe](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)\
 11.04.2025: [Psathyrella candolleana - Behangener Faserling](/pilze/psathyrella-candolleana-behangener-faserling)\
