@@ -19,6 +19,14 @@ Hier geht's [zur Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lasiosphaeria_spermoides_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+17.04.2025: Was so aussieht wie auf dem beigefügten Foto kann eigentlich nur unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Man muß sich nur darüber im Klaren sein, das der Gesäte Kohlenkugelpilz *Lasiosphaeria spermoides* ein Winzling ist. Die einzelnen Fruchtkörperchen sind gerade mal 0,5 bis 1 mm groß. Man kann sie ganzjährig auf totem Laubholz finden. (Dieter Gewalt) [Mehr lesen >](/pilze/lasiosphaeria-spermoides-gesäter-kohlenkugelpilz) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pseudoplectania_nigrella_01_wi.jpg" %}
 {% include abbildung_ende.html %}
 
