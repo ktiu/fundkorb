@@ -25,4 +25,3 @@ Mikromerkmale: Die [Asci](Asci "Glossar") messen 120 – 140 x 8 – 9 µm; sie 
 
 *Hymenoscyphus serotinus* wächst gesellig bis scharenweise auf am Boden liegenden Zweigen und dünnen Ästen verschiedener Laubbäume, besonders von Buche. Erscheinungszeit ist Herbst bis Winter. *Ingo Wagner* hat einen Fund im Dezember an Hasel in einem verwilderten Garten dokumentiert.
 
-Anmerkung: der Hinweis bei *Winkler/Keller* auf Informationen bei *Breitenbach/Kränzlin* (Pilze der Schweiz Band 1 Nr. 182) ist falsch. Die Art ist hier nicht enthalten, unter Nr. 182 ist der Weiden-Stängelbecherling *Hymenoscyphus calyculus* beschrieben.
