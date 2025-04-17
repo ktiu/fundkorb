@@ -19,6 +19,14 @@ Hier geht's [zur Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/taphrina_pruni_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.04.2025: Unter den Pilzen gibt es einige bemerkenswerte Kuriositäten, zum Beispiel solche, die keine eigenen Fruchtkörper ausbilden sondern andere Organismen benutzen, um ihre Sporen zu bilden und zu verbreiten. Zu diesen gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Pflaumen-Narrentasche *Taphrina pruni*. In unserem Dietzenbacher Carré an der Rodgaustraße sind inzwischen alle Pflaumenbäume befallen, so dass nur noch wenige Früchte zur Reife gelangen werden. (Dieter Gewalt) [Mehr lesen >](/pilze/taphrina-pruni-pflaumen-narrentasche)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lasiosphaeria_spermoides_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -55,22 +63,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 13.04.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Morchelbecherling *Disciotis venosa*,  findet man normalerweise in dieser Jahreszeit meist gut getarnt zwischen Bärlauch und Buschwindröschen. Aber das Wetter ist gerade nicht „normal“,  und so gehört schon viel Glück dazu ein paar Exemplare zu entdecken. Für Kenner ist der mit den Morcheln verwandte [Ascomyzet](Ascomyzeten "Glossar") ein ausgezeichneter Speisepilz. Sein untrügliches Kennzeichen ist sein Chlorgeruch, der beim Erhitzen verschwindet und den Pilzgenuss in keiner Weise beeinträchtigt. (Dieter Gewalt/Johann Rejek) [Mehr lesen >](/pilze/disciotis-venosa-morchelbecherling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lophodermium_-pinastri_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.04.2025: Die Kiefernnadel-Spaltlippe *Lophodermium pinastri*, unser aktueller [Fundkorbpilz](AA "Glossar-"), ist auf den paarweise angeordneten Kiefernnadeln am Boden zu finden. Die Bezeichnung *„Spaltlippe“* beschreibt sehr schön das Aussehen dieser schwarzen Fruchtkörperchen, die in langen Reihen auf den Innenseiten der Nadeln angeordnet sind. Sie sind stets durch eine dünne dunkle Linie voneinander getrennt. An diesem Merkmal sind sie gut von den [Kiefernschütte-Spaltlippen *Lophodermium seditiosum*](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe) zu unterscheiden. (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/psathyrella_candolleana_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.04.2025: Zugegeben, zurzeit braucht man schon viel Glück um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Behangenen Faserling *Psathyrella candolleana* zu finden. Es ist vielerorts  einfach zu trocken. Normalerweise erscheint er schon  früh im Jahr und ist bei Kennern ein beliebter Suppenpilz. Er wächst stets an Holz, auch an vergrabenem, was ein Vorkommen auf Erde vortäuschen kann. Am einzelnen Pilz ist nicht viel dran, aber sein meist geselliges Erscheinen lohnt das Einsammeln. Aber bitte nur, wenn man sich seiner Sache wirklich sicher ist. (Dieter Gewalt /Johann Rejek) [Mehr lesen >](/pilze/psathyrella-candolleana-behangener-faserling)
 
 <div style="clear:  both"></div>
 
