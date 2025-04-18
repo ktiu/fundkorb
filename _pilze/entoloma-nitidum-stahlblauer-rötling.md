@@ -43,6 +43,8 @@ Lt. Andreas Gminder ist der Stahlblaue Rötling
 
 > der einzige blaue Rötling, der in sauren Nadelwäldern vorkommt und somit einfach zu bestimmen.“
 
+Überwiegend außerhalb von Wäldern und auf kalkhaltigem Untergrund ist der größere und robustere, ebenfalls seltene [Blaue Rötling *Entoloma bloxamii*](/pilze/entoloma-bloxamii-blauer-rötling) zu finden.
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/entoloma_nitidum_05_tl.jpg" %}
 {% include abbildung_ende.html legende="Foto:Thomas Lehr" %}
