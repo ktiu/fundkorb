@@ -17,6 +17,13 @@ Neuer Exkursionstermin: Sonntag, 4. Mai 2025, 10:00 Uhr: **Wir suchen den Maipil
 Hier geht's [zur Anmeldung >](/termine)
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coriolopsis_gallica_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.04.2025: Auf den ersten Blick könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Braune Borstentramete *coriolopsis gallica* von oben betrachtet für eine „echte“ Tramete halten. Beim zweiten Blick auf die Unterseite (Fruchtschicht) sieht man jedoch, dass mehrere Fruchtkörper regelrecht zusammengewachsen sind. Man spricht dann von [resupinatem](resupinat "Glossar") Wachstum. Unser Fund in den Isarauen bei München gehört zu einer Porlingsgattung, die in Europa mit nur zwei Arten verteten ist, der Braunen – und der Blassen Borstentramete [*coriolopsis trogii*](/pilze/coriolopsis-trogii-blasse-borstentramete). Zur sicheren Unterscheidung benetzt man das Fruchtfleich mit Kalilauge (KOH). Wird es schwarz, dann haben wir die Braune Borstentramete. (Johann Rejek) [Mehr lesen >](/pilze/coriolopsis-gallica-braune-borstentramete)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/taphrina_pruni_06_dg.jpg" %}
@@ -55,14 +62,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 14.04.2025: Der Frankfurter Stadtwald liegt praktisch vor meiner Haustür. Bei meiner letzten Rundtour habe ich hier einen unauffälligen, mir bis dato unbekannten [Pyrenomyzeten](Pyrenomyzeten "Glossar") an einem Haselast gefunden und bestimmt. Der Sichelsporige Kugelpilz *Melogramma campylosporum* soll daher auch unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Seine Fruchtkörper sind zwar nicht kugelig, aber die Sporen tatsächlich sichelförmig. (Frank Kaster) [Mehr lesen >](/pilze/melogramma-campylosporum-sichelsporiger-kugelpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/disciotis_venosa_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.04.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Morchelbecherling *Disciotis venosa*,  findet man normalerweise in dieser Jahreszeit meist gut getarnt zwischen Bärlauch und Buschwindröschen. Aber das Wetter ist gerade nicht „normal“,  und so gehört schon viel Glück dazu ein paar Exemplare zu entdecken. Für Kenner ist der mit den Morcheln verwandte [Ascomyzet](Ascomyzeten "Glossar") ein ausgezeichneter Speisepilz. Sein untrügliches Kennzeichen ist sein Chlorgeruch, der beim Erhitzen verschwindet und den Pilzgenuss in keiner Weise beeinträchtigt. (Dieter Gewalt/Johann Rejek) [Mehr lesen >](/pilze/disciotis-venosa-morchelbecherling)
 
 <div style="clear:  both"></div>
 
