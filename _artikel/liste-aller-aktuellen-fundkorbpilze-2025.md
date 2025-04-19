@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-19.04.2025: [Coriolopsis gallica - Braune Borstentramete](/pilze/coriolopsis-gallica-braune-borstentramete)  
-18.04.2025: [Taphrina pruni - Pflaumen-Narrentasche](/pilze/taphrina-pruni-pflaumen-narrentasche)  
+20.04.2025: [Eriopezia caesia - Schwarzes Spinnwebbecherchen](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)  
+19.04.2025: [Coriolopsis gallica - Braune Borstentramete](/pilze/coriolopsis-gallica-braune-borstentramete)\
+18.04.2025: [Taphrina pruni - Pflaumen-Narrentasche](/pilze/taphrina-pruni-pflaumen-narrentasche)\
 17.04.2025: [Lasiosphaeria spermoides - Gesäter Kohlenkugelpilz](/pilze/lasiosphaeria-spermoides-gesäter-kohlenkugelpilz)\
 16.04.2025: [Pseudoplectania nigrella - Glänzender Schwarzborstling](/pilze/pseudoplectania-nigrella-glänzender-schwarzborstling)\
 15.04.2025: [Polyporus ciliatus - Maiporling](/pilze/polyporus-ciliatus-maiporling)\
