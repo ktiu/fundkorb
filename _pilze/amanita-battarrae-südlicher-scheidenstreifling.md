@@ -20,7 +20,7 @@ literatur:
       phot. 31 - 36"
   - url: https://forum.dgfm-ev.de/thread/2344-amanita-battarrae/
 ---
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/amanita_battarae_01_uwi.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/amanita_battarae_02_uwi.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/amanita_battarae_03_uwi.jpg" nocrop=true gross=true %}
