@@ -18,7 +18,7 @@ literatur:
 {% include bild.html datei="/bilder/lophodermium_paeoniae_01_nk.jpg" %}
 {% include abbildung_ende.html legende="2 Fotos: Norbert Kühnberger" %}
 
-Um diesen Pilz zu finden, sollte man vor allem in Gärten und Parkanlagen suchen. Er wächst ausschließlich an vorjährigen trockenen Stängeln von Pfingstrosen, einer Gattung mit weltweit 32 Arten, die in Deutschland vor allem als Kulturpflanzen Bedeutung haben.
+Um diesen Pilz zu finden, sollte man vor allem in Gärten und Parkanlagen suchen. Er wächst ausschließlich an vorjährigen trockenen Stängeln und Blattspindeln von Pfingstrosen, einer Gattung mit weltweit 32 Arten, die in Deutschland vor allem als Kulturpflanzen Bedeutung haben.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pfingstrose_01_xx.jpg" nocrop=true gross=true %}
