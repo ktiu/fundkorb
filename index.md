@@ -19,6 +19,14 @@ Hier geht's [zur Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lophodermium_paeoniae_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+21.04.2025: Um unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu finden, sollte man wissen, wo im Vorjahr Pfingstrosen standen und hoffen, dass da noch alte vertrocknete oder auch faulende Stängel und Blattspindeln rumliegen. Auf diesen wächst die Pfingstrosen-Spaltlippe *Lophodermium paeoniae*, für die sich kaum jemand interessiert. In Trockenprioden wie der gegenwärtigen ist man als Pilzfreund schon froh, wenigstens so was zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-paeoniae-pfingstrosen-spaltlippe)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/eriopezia_caesia_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -55,22 +63,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 16.04.2025: Alles andere als typisch ist die Fundstelle unseres aktuellen [Fundkorbpilzes](AA "Glossar-"). Der Glänzende Schwarzborstling *Pseudoplectania nigrella* wuchs mitten in Offenbach. Was gepasst hat, war der mit Kiefernnadeln bedeckte und mit Moos bewachsene Boden in der schattigen Ecke einer Parkanlage. Er sieht dem sehr viel häufigeren [Schmutzbecherling *Bulgaria inquinans*](/pilze/bulgaria-inquinans-schmutzbecherling) ähnlich, man bekommt beim Anfassen jedoch keine schwarzen Finger. Um die Bestimmung abzusichern wurde mikroskopiert. (Adam Adamovicz) [Mehr lesen >](/pilze/pseudoplectania-nigrella-glänzender-schwarzborstling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_ciliatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.04.2025: Während andere Pilze noch auf sich warten lassen, eilt unser aktueller [Fundkorbpilz](AA "Glossar-"), der Maiporling *Polyporus ciliatus*, seinem Namen voraus. Wir fanden mehrere frische Fruchtkörper dieses Stielporlings an einem toten Pappelast in einem Auwald bei München. An seinen sehr feinen, mit bloßem Auge kaum erkennbaren Poren (Lupe!) ist er gut vom [Winterporling *Polyporus brumalis*](/pilze/polyporus-brumalis-winterporling) zu unterscheiden, der viel größere Poren besitzt und den man durchaus auch noch im April finden kann. (Johann Rejek) [Mehr lesen >](/pilze/polyporus-ciliatus-maiporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/melogramma_campylosporum_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-14.04.2025: Der Frankfurter Stadtwald liegt praktisch vor meiner Haustür. Bei meiner letzten Rundtour habe ich hier einen unauffälligen, mir bis dato unbekannten [Pyrenomyzeten](Pyrenomyzeten "Glossar") an einem Haselast gefunden und bestimmt. Der Sichelsporige Kugelpilz *Melogramma campylosporum* soll daher auch unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Seine Fruchtkörper sind zwar nicht kugelig, aber die Sporen tatsächlich sichelförmig. (Frank Kaster) [Mehr lesen >](/pilze/melogramma-campylosporum-sichelsporiger-kugelpilz)
 
 <div style="clear:  both"></div>
 
