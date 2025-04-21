@@ -5,6 +5,7 @@ beschreibung:
   referenz: "(Batsch) Pers. 1801 "
   familie: Morchellaceae
   erlaeuterung: gigas = Gigant, Riese
+  synonym: "Neuer Name: Morchella semilibera"
 profil:
   aktualisiert: 2020-08-10
   autor_in: Dieter Gewalt
