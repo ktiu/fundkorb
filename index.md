@@ -19,6 +19,14 @@ Hier geht's [zur Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/perenniporia_fraxinea_03_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+22.04.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eschen-Baumschwamm *Perenniporia fraxinea*. Es gehört schon zur Routine, dass ich ihn an seinem seit Jahren bekannten Standort besuche, wenn ich im Frankfurter Stadtwald in seine Nähe komme. Treuen Weggefährten macht man gerne seine Aufwartung. Der klobige Porling, der gern am Stammgrund von Laubbäumen wächst, ist im Rhein-Main-Gebiet recht gut verbreitet. Sein Baumpartner muss übrigens nicht unbedingt eine Esche sein. (Dieter Gewalt) [Mehr lesen >](/pilze/perenniporia-fraxinea-eschen-baumschwamm)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lophodermium_paeoniae_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
