@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Vibrissea truncorum
-  deutsch: Abgestutztes Fadenstäubchen
+  deutsch: Abgestutztes Fadenscheibchen
   referenz: (Alb. & Schwein.) Fr. 1822
   erlaeuterung: truncorum = an Baumstümpfen oder -stämmen
 profil:
