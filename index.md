@@ -22,7 +22,7 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include bild.html datei="/bilder/merismodes_anomala_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-23.04.2025: Sehr klein aber durch massenhaftes Auftreten doch auffällig ist unser aktueller [Fundkorbpilz](AA "Glossar-"), das rasige Hängebecherchen *Merismodes anomala*. Ungewöhnlich (*anomal*) ist seine Wuchsweise. Die wollig-zottigen Töpfchen *„hängen“* förmlich an den Unterseiten von am Boden liegenden Ästen und Zweigen, die man aufnehmen und umdrehen muss, um die rasigen Vorkommen zu entdecken. (Dieter Gewalt) [Mehr lesen >](/pilze/merismodes-anomala-rasiges-hängebecherchen)
+23.04.2025: Sehr klein aber durch massenhaftes Auftreten doch auffällig ist unser aktueller [Fundkorbpilz](AA "Glossar-"), das Rasige Hängebecherchen *Merismodes anomala*. Ungewöhnlich (*anomal*) ist seine Wuchsweise. Die wollig-zottigen Töpfchen *„hängen“* förmlich an den Unterseiten von am Boden liegenden Ästen und Zweigen, die man aufnehmen und umdrehen muss, um die rasigen Vorkommen zu entdecken. (Dieter Gewalt) [Mehr lesen >](/pilze/merismodes-anomala-rasiges-hängebecherchen)
 
 <div style="clear:  both"></div>
 
