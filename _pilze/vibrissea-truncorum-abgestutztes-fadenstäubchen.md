@@ -4,6 +4,7 @@ beschreibung:
   deutsch: Abgestutztes Fadenscheibchen
   referenz: (Alb. & Schwein.) Fr. 1822
   erlaeuterung: truncorum = an Baumstümpfen oder -stämmen
+  familie: Vibrisseaceae
 profil:
   aktualisiert: 2025-04-22
   autor_in: Vibrisseaceae
