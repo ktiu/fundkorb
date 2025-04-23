@@ -66,9 +66,9 @@ Links zu Risspilzporträts im Fundkorb:
 [Inocybe adaequata = Weinroter Risspilz](/pilze/inocybe-adaequata-weinroter-risspilz) (jetzt: Inosperma adaequatum)\
 [Inocybe assimilata = Weißknolliger Risspilz](/pilze/inocybe-assimilata-weißknolliger-risspilz)\
 [Inocybe asterospora =  Sternsporiger Risspilz](/pilze/inocybe-asterospora-sternsporiger-risspilz)\
-[Inocybe calamistrata = Blaufüßiger Risspilz](/pilze/inocybe-calamistrata-blaufüßiger-risspilz)  
+[Inocybe calamistrata = Blaufüßiger Risspilz](/pilze/inocybe-calamistrata-blaufüßiger-risspilz)\
 [Inocybe erubescens = Ziegelroter Risspilz](/pilze/inocybe-erubescens-ziegelroter-risspilz) (jetzt: Inosperma erubescens)\
-Inocybe flocculosa = Flockiger Risspilz  
+[Inocybe flocculosa = Flockiger Risspilz](/pilze/inocybe-flocculosa-flockiger-risspilz)\
 [Inocybe geophylla = Seidiger Risspilz](/pilze/inocybe-erubescens-ziegelroter-risspilz)\
 [Inocybe godeyi = Rötender Risspilz](/pilze/inocybe-godeyi-rötender-risspilz)\
 [Inocybe melanopus = Braungestiefelter Risspilz](/pilze/inocybe-melanopus-braungestiefelter-risspilz)\
