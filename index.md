@@ -19,6 +19,14 @@ Hier geht's [zur Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_badius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.04.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kastanienbraune Stielporling *Polyporus badius*. Typisch für ihn sind die elastischen am Rand sehr dünnen, auf der Oberfläche glatten, fettig glänzenden, dunkel- bis schwarzbraunen Hüte sowie die sehr feinen Poren. Mit dieser Merkmalskombination ist der auf Totholz wachsende Pilze praktisch unverwechselbar. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-badius-kastanienbrauner-stielporling-schwarzroter-porling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/nectria_cinnabarina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
