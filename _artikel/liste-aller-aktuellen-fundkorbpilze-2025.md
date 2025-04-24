@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-24.04.2025: [Nectria cinnabarina - Zinnoberroter Pustelpilz](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)  
-23.04.2025: [Merismodes anomala - Rasiges Hängebecherchen](/pilze/merismodes-anomala-rasiges-hängebecherchen)  
+25.04.2025: [Polyporus badius - Kastanienbrauner Stielporling](/pilze/polyporus-badius-kastanienbrauner-stielporling-schwarzroter-porling)  
+24.04.2025: [Nectria cinnabarina - Zinnoberroter Pustelpilz](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)\
+23.04.2025: [Merismodes anomala - Rasiges Hängebecherchen](/pilze/merismodes-anomala-rasiges-hängebecherchen)\
 22.04.2025: [Perenniporia fraxinea - Eschen-Baumschwamm](/pilze/perenniporia-fraxinea-eschen-baumschwamm)\
 21.04.2025: [Lophodermium paeoniae - Pfingstrosen-Spaltlippe](/pilze/lophodermium-paeoniae-pfingstrosen-spaltlippe)\
 20.04.2025: [Eriopezia caesia - Schwarzes Spinnwebbecherchen](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)\
