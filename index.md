@@ -19,6 +19,14 @@ Hier geht's [zur Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/graphis_scripta_03_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+26.04.2025: Man muss nicht in die Hocke gehen, aber eine Lupe sollte man dabei haben, um unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu bestaunen. Die Schriftflechte *graphis scripta* ist eine leicht erkennbare Krustenflechte und wächst oft in Augenhöhe auf der glatten Rinde lebender Laubbäume. Die nur wenige Millimeter großen, langgestreckten, gebogenen und verzweigten Fruchtkörper [(Hysterothezien)](Hysterothezien "Glossar")  erinnern an geheime Schriftzeichen. (Johann Rejek) [Mehr lesen >](/pilze/graphis-scripta-schriftflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_badius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -63,22 +71,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 20.04.2025: Mit einer gut vergrößernden Lupe auf Totholz nach winzigen Pilzchen zu suchen, kann mit etwas Glück zu überraschend schönen und beeindruckenden Entdeckungen führen. Ein besonders attraktives Beispiel ist unser aktueller [Fundkorbpilz](AA "Glossar-"), das Schwarze Spinnwebbecherchen *Eriopezia caesia*. Seine dicht aneinander gedrängten [Apothecien](Apothecien "Glossar") erreichen nicht einmal einen Durchmesser von einem Millimeter. (Dieter Gewalt) [Mehr lesen >](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coriolopsis_gallica_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.04.2025: Auf den ersten Blick könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Braune Borstentramete *coriolopsis gallica*, von oben betrachtet für eine „echte“ Tramete halten. Beim zweiten Blick auf die Unterseite (Fruchtschicht) sieht man jedoch, dass mehrere Fruchtkörper flächig am Substrat zusammengewachsen sind. Unser Fund in den Isarauen bei München gehört zu einer Porlingsgattung, die in Europa mit nur zwei Arten verteten ist, der Braunen – und der Blassen Borstentramete *[coriolopsis trogii](/pilze/coriolopsis-trogii-blasse-borstentramete)*. Zur sicheren Unterscheidung benetzt man das Fruchtfleich mit Kalilauge (KOH). Wird es schwarz, dann ist es die Braune Borstentramete. (Johann Rejek) [Mehr lesen >](/pilze/coriolopsis-gallica-braune-borstentramete)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/taphrina_pruni_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.04.2025: Unter den Pilzen gibt es einige bemerkenswerte Kuriositäten, zum Beispiel solche, die keine eigenen Fruchtkörper ausbilden sondern andere Organismen benutzen, um ihre Sporen zu bilden und zu verbreiten. Zu diesen gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Pflaumen-Narrentasche *Taphrina pruni*. In unserem Dietzenbacher Carré an der Rodgaustraße sind inzwischen alle Pflaumenbäume befallen, so dass nur noch wenige Früchte zur Reife gelangen werden. (Dieter Gewalt) [Mehr lesen >](/pilze/taphrina-pruni-pflaumen-narrentasche)
 
 <div style="clear:  both"></div>
 
