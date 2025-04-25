@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+26.04.2025: [Graphis scripta - Schriftflechte](/pilze/graphis-scripta-schriftflechte)    
 25.04.2025: [Polyporus badius - Kastanienbrauner Stielporling](/pilze/polyporus-badius-kastanienbrauner-stielporling-schwarzroter-porling)  
 24.04.2025: [Nectria cinnabarina - Zinnoberroter Pustelpilz](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)\
 23.04.2025: [Merismodes anomala - Rasiges Hängebecherchen](/pilze/merismodes-anomala-rasiges-hängebecherchen)\
