@@ -19,6 +19,14 @@ Hier geht's [zur Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hymenoscyphus_fraxinus_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+26.04.2025: An vertrockneten, am Boden liegenden Blattspindeln der Esche kann man bei sorgfältigem Suchen unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Falsche Weiße Stängelbecherchen *Hymenoscyphus fraxineus* finden. Die gestielten schalenförmigen [Ascomyzethen](Ascomyzeth) wachsen gesellig bis büschelig auf ihrem Substrat und werden maximal 7 mm groß. Vom [Schildförmen Stängelbecherchen *Hymenoscyphus scutula*](/pilze/hymenoscyphus-scutula-schildförmiger-stängelbecherling) sind sie durch etwas größere Sporen unterschieden. (Dieter Gewalt) [Mehr erfahren >](/pilze/hymenoscyphus-fraxineus-falsches-weißes-stängelbecherchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/graphis_scripta_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -55,22 +63,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 22.04.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eschen-Baumschwamm *Perenniporia fraxinea*. Es gehört schon zur Routine, dass ich ihn an seinem seit Jahren bekannten Standort besuche, wenn ich im Frankfurter Stadtwald in seine Nähe komme. Treuen Weggefährten macht man gerne seine Aufwartung. Der klobige Porling, der gern am Stammgrund von Laubbäumen wächst, ist im Rhein-Main-Gebiet recht gut verbreitet. Sein Baumpartner muss übrigens nicht unbedingt eine Esche sein. (Dieter Gewalt) [Mehr lesen >](/pilze/perenniporia-fraxinea-eschen-baumschwamm)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lophodermium_paeoniae_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-21.04.2025: Um unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu finden, sollte man wissen, wo im Vorjahr Pfingstrosen standen und hoffen, dass da noch alte vertrocknete oder auch faulende Stängel und Blattspindeln rumliegen. Auf diesen wächst die Pfingstrosen-Spaltlippe *Lophodermium paeoniae*, für die sich kaum jemand interessiert. In Trockenprioden wie der gegenwärtigen ist man als Pilzfreund schon froh, wenigstens so was zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-paeoniae-pfingstrosen-spaltlippe)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/eriopezia_caesia_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-20.04.2025: Mit einer gut vergrößernden Lupe auf Totholz nach winzigen Pilzchen zu suchen, kann mit etwas Glück zu überraschend schönen und beeindruckenden Entdeckungen führen. Ein besonders attraktives Beispiel ist unser aktueller [Fundkorbpilz](AA "Glossar-"), das Schwarze Spinnwebbecherchen *Eriopezia caesia*. Seine dicht aneinander gedrängten [Apothecien](Apothecien "Glossar") erreichen nicht einmal einen Durchmesser von einem Millimeter. (Dieter Gewalt) [Mehr lesen >](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)
 
 <div style="clear:  both"></div>
 
