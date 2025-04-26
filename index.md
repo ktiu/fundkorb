@@ -22,7 +22,7 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include bild.html datei="/bilder/hymenoscyphus_fraxinus_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
-26.04.2025: An vertrockneten, am Boden liegenden Blattspindeln der Esche kann man bei sorgfältigem Suchen unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Falsche Weiße Stängelbecherchen *Hymenoscyphus fraxineus* finden. Die gestielten schalenförmigen [Ascomyzeten](Ascomyzeten) wachsen gesellig bis büschelig auf ihrem Substrat und werden maximal 7 mm groß. Vom [Schildförmen Stängelbecherchen *Hymenoscyphus scutula*](/pilze/hymenoscyphus-scutula-schildförmiger-stängelbecherling) sind sie durch etwas größere Sporen unterschieden. (Dieter Gewalt) [Mehr erfahren >](/pilze/hymenoscyphus-fraxineus-falsches-weißes-stängelbecherchen)
+26.04.2025: An vertrockneten, am Boden liegenden Blattspindeln der Esche kann man bei sorgfältigem Suchen unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Falsche Weiße Stängelbecherchen *Hymenoscyphus fraxineus* finden. Die gestielten schalenförmigen [Ascomyceten](Ascomyceten "Glossar") wachsen gesellig bis büschelig auf ihrem Substrat und werden maximal 7 mm groß. Vom [Schildförmen Stängelbecherchen *Hymenoscyphus scutula*](/pilze/hymenoscyphus-scutula-schildförmiger-stängelbecherling) sind sie durch etwas größere Sporen unterschieden. (Dieter Gewalt) [Mehr erfahren >](/pilze/hymenoscyphus-fraxineus-falsches-weißes-stängelbecherchen)
 
 <div style="clear:  both"></div>
 
