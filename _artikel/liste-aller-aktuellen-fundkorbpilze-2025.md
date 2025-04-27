@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-27.04.2025: [Hymenoscyphus fraxineus - Falsches Weißes Stängelbecherchen](/pilze/hymenoscyphus-fraxineus-falsches-weißes-stängelbecherchen)  
+28.04.2025: [Laetiporus sulphureus - Schwefelporling](/pilze/laetiporus-sulphureus-schwefelporling)  
+27.04.2025: [Hymenoscyphus fraxineus - Falsches Weißes Stängelbecherchen](/pilze/hymenoscyphus-fraxineus-falsches-weißes-stängelbecherchen)\
 26.04.2025: [Graphis scripta - Schriftflechte](/pilze/graphis-scripta-schriftflechte)\
 25.04.2025: [Polyporus badius - Kastanienbrauner Stielporling](/pilze/polyporus-badius-kastanienbrauner-stielporling-schwarzroter-porling)\
 24.04.2025: [Nectria cinnabarina - Zinnoberroter Pustelpilz](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)\
