@@ -19,6 +19,14 @@ Hier geht's [zur Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laetiporus_sulphureus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.04.2025: Endlich wieder mal was für die Pfanne! Der aktuelle [Fundkorbpilz](AA "Glossar-")  Schwefelporling *Laetiporus sulphureus* fällt schon von weitem durch seine leuchtend orangegelben Fruchtkörper auf. Der im englischen Sprachraum gern als „Waldhuhn“ (chicken of the woods) bezeichnete Pilz bedeutet für den befallenen Baum den sicheren Tod (Braunfäule), ist aber besonders für Veganer ein echtes Geschmackserlebnis. Jung kann man ihn als Hühnchenfleisch-Ersatz zubereiten - wichtig: er muss immer gut durch durchgegart sein, sonst gibt’s Bauchweh. Im Alter zerbröckelt er und wird ungenießbar. (Ulrike Wegner) [Mehr lesen >](/pilze/laetiporus-sulphureus-schwefelporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hymenoscyphus_fraxinus_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -55,14 +63,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 23.04.2025: Sehr klein aber durch massenhaftes Auftreten doch auffällig ist unser aktueller [Fundkorbpilz](AA "Glossar-"), das Rasige Hängebecherchen *Merismodes anomala*. Ungewöhnlich (*anomal*) ist seine Wuchsweise. Die wollig-zottigen Töpfchen *„hängen“* förmlich an den Unterseiten von am Boden liegenden Ästen und Zweigen, die man aufnehmen und umdrehen muss, um die rasigen Vorkommen zu entdecken. (Dieter Gewalt) [Mehr lesen >](/pilze/merismodes-anomala-rasiges-hängebecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/perenniporia_fraxinea_03_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-22.04.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eschen-Baumschwamm *Perenniporia fraxinea*. Es gehört schon zur Routine, dass ich ihn an seinem seit Jahren bekannten Standort besuche, wenn ich im Frankfurter Stadtwald in seine Nähe komme. Treuen Weggefährten macht man gerne seine Aufwartung. Der klobige Porling, der gern am Stammgrund von Laubbäumen wächst, ist im Rhein-Main-Gebiet recht gut verbreitet. Sein Baumpartner muss übrigens nicht unbedingt eine Esche sein. (Dieter Gewalt) [Mehr lesen >](/pilze/perenniporia-fraxinea-eschen-baumschwamm)
 
 <div style="clear:  both"></div>
 
