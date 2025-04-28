@@ -25,3 +25,5 @@ Konnte aber winterlicher Salzstreudienst das Vorkommen von *Agaricus bernardii* 
 Danken möchte ich auch *Reinhold Kärcher*, der mir bei der Bestimmung entscheidend geholfen hat. Er berichtete außerdem von drei eigenen Funden im hinteren Taunus, alle an Rändern von Straßen, die im Winter durch Salzstreudienste schnee- und eisfrei gehalten werden.
 
 Nach wie vor gilt die Art als selten. Wie jedoch mein Zufallsnachweis und die Funde von *Reinhold Kärcher* zeigen, könnte sich diese Einschätzung bei Beachtung der [anthropogen](anthropogen "Glossar") geförderten ökologischen Ansprüche des Pilzes signifikant ändern. Auch in "Die Großpilze Baden-Württembergs" wird darauf hingewiesen: *"Im Gebiet* (gemeint ist das Bundesland BW, bis 2010 nur drei Nachweise) *wohl nur an Straßenrändern im Einflussbereich winterlichen Streusalzes."*
+
+Diese Straßennähe kann dafür verantwortlich sein, dass Pilze Schadstoffe wie Quecksilber, Cadmium und andere Substanzen aufnehmen. Das gilt nicht nur für Champignons. 
