@@ -17,6 +17,15 @@ Neuer Exkursionstermin: Sonntag, 4. Mai 2025, 10:00 Uhr: **Wir suchen den Maipil
 Hier geht's [zur Anmeldung >](/termine)
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_renati_02_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+29.04.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelbstielige Nitrathelmling *Mycena renati*, den wir bei unserer letzten Vereinswanderung (Verein f. Pilzkunde München e.V.) im Norden von München gefunden haben. Mit der Merkmalskombination büscheliges Wachstum auf Laubholz, rosabräunlicher Hut, gelber Stiel und chlorartigem Geruch ist er bereits am Fundort zu bestimmen. (Johann Rejek) [Mehr lesen >](/pilze/mycena-renati-gelbstieliger-nitrathelmling)
+
+<div style="clear:  both"></div>  
+ 
+
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/laetiporus_sulphureus_01_dg.jpg" %}
@@ -55,14 +64,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 24.04.2025: Im Raum München hat es die letzten Wochen kaum geregnet. So beschränken sich derzeitige Funde auf Pilze, denen die Trockenheit scheinbar wenig ausmacht. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zinnoberrote Pustelpilz *Nectria cinnabarina*, ist einer von ihnen. Obwohl der einzelne Fruchtkörper recht klein ist, kann man ihn durch seine rosa Farbe und sein rasiges Wachstum an dünnen noch berindeten Laubholzästchen leicht erkennen. Meistens findet man „nur“ die Nebenfruchtform, in der die [Konidiensporen](Konidien "Glossar")  gebildet werden. (Johann Rejek) [Mehr lesen >](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/merismodes_anomala_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-23.04.2025: Sehr klein aber durch massenhaftes Auftreten doch auffällig ist unser aktueller [Fundkorbpilz](AA "Glossar-"), das Rasige Hängebecherchen *Merismodes anomala*. Ungewöhnlich (*anomal*) ist seine Wuchsweise. Die wollig-zottigen Töpfchen *„hängen“* förmlich an den Unterseiten von am Boden liegenden Ästen und Zweigen, die man aufnehmen und umdrehen muss, um die rasigen Vorkommen zu entdecken. (Dieter Gewalt) [Mehr lesen >](/pilze/merismodes-anomala-rasiges-hängebecherchen)
 
 <div style="clear:  both"></div>
 
