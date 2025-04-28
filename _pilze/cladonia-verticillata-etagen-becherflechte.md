@@ -10,7 +10,7 @@ profil:
   autor_in: Bernd Miggel
 hauptbild:
   anzeige: true
-  datei: /bilder/cladonia_verticillata_01_lh.jpeg
+  datei: /bilder/cladonia_verticillata_01_wi.jpg
   legende: "Foto: Jason Hollinger, Wikipedia CC BY 2.0"
 literatur:
   - text: "Wirth, V. (1995): Die Flechten Baden-Württembergs, 2. Aufl., 1006 S.;
@@ -29,11 +29,15 @@ literatur:
 Funddaten: 17.04.2025, Kiefern-Schonwald „Heselmiss“ bei Oberreichenbach-Würzbach in Baden-Württemberg, auf magerem, saurem, torfhaltigem Boden, 720 mN.N., im Schatten von Waldkiefern.
 
 {% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/cladonia_verticillata_01_lh.jpeg" %}
+{% include abbildung_ende.html legende="Foto: Liss Hoffmann" %}
+
+Die Etagen-Becherflechte *Cladonia verticillata* ist an ihrem unverwechselbaren, etagenförmigen Aufbau zu erkennen. Bei ihr dominieren die [Podetien](Podetien "Glossar"), während die bodenständigen Grundschuppen selten zu sehen sind. Häufig finden sich kleine, braune [Apothecien](Apothecien "Glossar"). Nach der Fachliteratur soll man sie auf mageren, sandigen, felsigen, besonnten Standorten finden. Den hier beschriebenen Fund hatten wir jedoch auf saurem, magerem Boden im Schatten von Waldkiefern.
+
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/cladonia_verticillata_02_lh.jpeg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/cladonia_verticillata_03_lh.jpeg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Etagenförmiges Wachstum mit kleinen braunen Apothecien" %}
-
-Die Etagen-Becherflechte *Cladonia verticillata* ist an ihrem unverwechselbaren, etagenförmigen Aufbau zu erkennen. Bei ihr dominieren die [Podetien](Podetien "Glossar"), während die bodenständigen Grundschuppen selten zu sehen sind. Häufig finden sich kleine, braune [Apothecien](Apothecien "Glossar"). Nach der Fachliteratur soll man sie auf mageren, sandigen, felsigen, besonnten Standorten finden. Den hier beschriebenen Fund hatten wir jedoch auf saurem, magerem Boden im Schatten von Waldkiefern.
 
 Die Etagen-Becherflechte besteht aus grundständigen Blättchen (Grundschuppen) und Podetien, wobei die Podetien stark überwiegen. Die Podetien sind braun bis braungrau in Form gestielter Becher oder geschlossener Trichter, aus deren Mitte stockwerkartig weitere Podetien mit Bechern sprießen. Unser Fund zeigt eher grünliche Farbtöne, und die oberen, stockwerkartigen Podetien sprossen nicht mittig, sondern eher am Rand der unteren Becher. Die Podetien sind glatt berindet, grün-weiß gescheckt und nicht [sorediös](sorediös "Glossar").
 
