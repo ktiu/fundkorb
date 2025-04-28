@@ -21,7 +21,7 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include bild.html datei="/bilder/mycena_renati_02_jr.jpg" %}
 {% include abbildung_ende.html %}
 
-29.04.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelbstielige Nitrathelmling *Mycena renati*, den wir bei unserer letzten Vereinswanderung (Verein f. Pilzkunde München e.V.) im Norden von München gefunden haben. Mit der Merkmalskombination büscheliges Wachstum auf Laubholz, rosabräunlicher Hut, gelber Stiel und chlorartigem Geruch ist er bereits am Fundort zu bestimmen. (Johann Rejek) [Mehr lesen >](/pilze/mycena-renati-gelbstieliger-nitrathelmling)
+29.04.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelbstielige Nitrathelmling *Mycena renati*, den wir bei unserer letzten Vereinswanderung (Verein f. Pilzkunde München e.V.) im Norden von München gefunden haben. Mit der Merkmalskombination büscheliges Wachstum auf Laubholz, rosabräunlicher Hut, gelber Stiel und chlorartiger Geruch ist er bereits am Fundort zu bestimmen. (Johann Rejek) [Mehr lesen >](/pilze/mycena-renati-gelbstieliger-nitrathelmling)
 
 <div style="clear:  both"></div>  
  
