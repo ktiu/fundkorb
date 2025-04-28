@@ -26,7 +26,7 @@ literatur:
   - url: https://italic.units.it/index.php?procedure=taxonpage&num=841
   - text: https://commons.wikimedia.org/wiki/Category:Cladonia_cervicornis_subsp._verticillata
 ---
-Funddaten: 17.04.2025, Kiefern-Schonwald „Heselmiss“ bei Oberreichenbach-Würzbach in Baden-Württemberg, auf magerem, saurem, torfhaltigem Boden, 720 mN.N.
+Funddaten: 17.04.2025, Kiefern-Schonwald „Heselmiss“ bei Oberreichenbach-Würzbach in Baden-Württemberg, auf magerem, saurem, torfhaltigem Boden, 720 mN.N., im Schatten von Waldkiefern.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/cladonia_verticillata_02_lh.jpeg" nocrop=true gross=true %}
