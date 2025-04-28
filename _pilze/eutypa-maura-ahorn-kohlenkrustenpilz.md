@@ -8,6 +8,7 @@ beschreibung:
   familie: Diatrypaceae
 profil:
   aktualisiert: 2025-04-25
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/eutypa_maura_01_dg.jpg
