@@ -11,7 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/cladonia_verticillata_01_lh.jpeg
-  legende: Alle Fotos von Liss Hoffmann
+  legende: "Foto: Jason Hollinger, Wikipedia CC BY 2.0"
 literatur:
   - text: "Wirth, V. (1995): Die Flechten Baden-Württembergs, 2. Aufl., 1006 S.;
       Ulmer, Stuttgart: 318 – 322"
