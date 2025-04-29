@@ -42,4 +42,4 @@ Die Etagen-Becherflechte *Cladonia verticillata* ist an ihrem unverwechselbaren,
 
 Die Etagen-Becherflechte besteht aus grundständigen Blättchen (Grundschuppen) und Podetien, wobei die Podetien stark überwiegen. Die Podetien sind braun bis braungrau in Form gestielter Becher oder geschlossener Trichter, aus deren Mitte stockwerkartig weitere Podetien mit Bechern sprießen. Unser Fund zeigt eher grünliche Farbtöne, und die oberen, stockwerkartigen Podetien sprossen nicht mittig, sondern eher am Rand der unteren Becher. Die Podetien sind glatt berindet, grün-weiß gescheckt und nicht [sorediös](sorediös "Glossar").
 
-Eine ähnliche, baumfrüchtige Becherflechte mit stockwerkartigem Podetien-Aufbau ist *Cladonia cervicornis*. Allerdings überwiegen bei ihr die Grundschuppen, während man Podetien seltener findet.
+Eine ähnliche, braunfrüchtige Becherflechte mit stockwerkartigem Podetien-Aufbau ist *Cladonia cervicornis*. Allerdings überwiegen bei ihr die Grundschuppen, während man Podetien seltener findet.
