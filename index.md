@@ -22,7 +22,7 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include bild.html datei="/bilder/gyromitra_esculenta_08_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-29.04.2025: Aktuellster [Fundkorbpilz](AA "Glossar-") ist ein delikater Giftpilz, die Frühjahrslorchel *Gyromitra esculenta*. Der Pilz wird in der populären Pilzliteratur völlig zu Recht mit einem Totenkopfsymbol versehen, obwohl der wissenschaftliche Artname *"esculenta"* essbar bedeutet und er in manchen Ländern bis vor kurzem noch Marktpilz war. Der Fundkorb informiert genauestens über diesen offensichtlichen und [lebensgefährlichen](/artikel/ein-delikater-giftpilz) Widerspruch. (Dieter Gewalt) [Mehr lesen >](/pilze/gyromitra-esculenta-frühjahrslorchel)
+30.04.2025: Aktuellster [Fundkorbpilz](AA "Glossar-") ist ein delikater Giftpilz, die Frühjahrslorchel *Gyromitra esculenta*. Der Pilz wird in der populären Pilzliteratur völlig zu Recht mit einem Totenkopfsymbol versehen, obwohl der wissenschaftliche Artname *"esculenta"* essbar bedeutet und er in manchen Ländern bis vor kurzem noch Marktpilz war. Der Fundkorb informiert genauestens über diesen offensichtlichen und [lebensgefährlichen](/artikel/ein-delikater-giftpilz) Widerspruch. (Dieter Gewalt) [Mehr lesen >](/pilze/gyromitra-esculenta-frühjahrslorchel)
 
 <div style="clear:  both"></div> 
 
