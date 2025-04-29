@@ -17,6 +17,13 @@ Neuer Exkursionstermin: Sonntag, 4. Mai 2025, 10:00 Uhr: **Wir suchen den Maipil
 Hier geht's [zur Anmeldung >](/termine)
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gyromitra_esculenta_08_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.04.2025: Aktuellster [Fundkorbpilz](AA "Glossar-") ist ein delikater Giftpilz, die Frühjahrslorchel *Gyromitra esculenta*. Der Pilz wird in der populären Pilzliteratur völlig zu Recht mit einem Totenkopfsymbol versehen, obwohl der wissenschaftliche Artname *"esculenta"* essbar bedeutet und er in manchen Ländern bis vor kurzem noch Marktpilz war. Der Fundkorb informiert genauestens über diesen offensichtlichen und [lebensgefährlichen](/artikel/ein-delikater-giftpilz) Widerspruch. (Dieter Gewalt) [Mehr lesen >](/pilze/gyromitra-esculenta-frühjahrslorchel) <div style="clear:  both"></div> 
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_renati_02_jr.jpg" %}
 {% include abbildung_ende.html %}
@@ -24,8 +31,6 @@ Hier geht's [zur Anmeldung >](/termine)
 29.04.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelbstielige Nitrathelmling *Mycena renati*, den wir bei unserer letzten Vereinswanderung (Verein f. Pilzkunde München e.V.) im Norden von München gefunden haben. Mit der Merkmalskombination büscheliges Wachstum auf Laubholz, rosabräunlicher Hut, gelber Stiel und chlorartiger Geruch ist er bereits am Fundort zu bestimmen. (Johann Rejek) [Mehr lesen >](/pilze/mycena-renati-gelbstieliger-nitrathelmling)
 
 <div style="clear:  both"></div>  
- 
-
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/laetiporus_sulphureus_01_dg.jpg" %}
@@ -56,14 +61,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 25.04.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kastanienbraune Stielporling *Polyporus badius*. Typisch für ihn sind die elastischen am Rand sehr dünnen, auf der Oberfläche glatten, fettig glänzenden, dunkel- bis schwarzbraunen Hüte sowie die sehr feinen Poren. Mit dieser Merkmalskombination ist der auf Totholz wachsende Pilz praktisch unverwechselbar. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-badius-kastanienbrauner-stielporling-schwarzroter-porling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/nectria_cinnabarina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.04.2025: Im Raum München hat es die letzten Wochen kaum geregnet. So beschränken sich derzeitige Funde auf Pilze, denen die Trockenheit scheinbar wenig ausmacht. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zinnoberrote Pustelpilz *Nectria cinnabarina*, ist einer von ihnen. Obwohl der einzelne Fruchtkörper recht klein ist, kann man ihn durch seine rosa Farbe und sein rasiges Wachstum an dünnen noch berindeten Laubholzästchen leicht erkennen. Meistens findet man „nur“ die Nebenfruchtform, in der die [Konidiensporen](Konidien "Glossar")  gebildet werden. (Johann Rejek) [Mehr lesen >](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)
 
 <div style="clear:  both"></div>
 
