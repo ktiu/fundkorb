@@ -19,6 +19,14 @@ Hier geht's [zur Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calocybe_gambosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.05.2025: Passend zum Datum und zu unserer pilzkundlichen Führung am Sonntag ist heute der Mainpilz *Calocybe gambosa*  aktueller [Fundkorbpilz](AA "Glossar-"). Pünktlich ist er gestern in unserem Dietzenbacher Carré erschienen. Ob er für die Küche taugt, ist Geschmacksache. Manche mögen ihn, andere verabscheuen ihn. Sein Kennzeichen ist ein starker Mehlgeruch. (Dieter Gewalt) [Mehr lesen >](/pilze/calocybe-gambosa-maipilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gyromitra_esculenta_08_dg.jpg" %}
 {% include abbildung_ende.html %}
 
