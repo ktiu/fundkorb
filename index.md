@@ -17,6 +17,13 @@ Neuer Exkursionstermin: Sonntag, 4. Mai 2025, 10:00 Uhr: **Wir suchen den Maipil
 Hier geht's [zur Anmeldung >](/termine)
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/daedalea_quercina_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+02.05.2025: Das Pilze auf der Unterseite oft schöner und spannender aussehen als auf der Oberseite, das dürfte den meisten Pilzfreunden schon aufgefallen sein. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Eichenwirrling  *Daedalea quercina*, ist einer dieser Pilze. Er wächst fast ausnahmslos an Stümpfen und am Boden liegenden Ästen oder Stämmen von Eichen. Um sein labyrinthisch zäh-elastisches [Hymenophor](Hymenophor "Glossar")  auf der Unterseite zu bestaunen, muss man den Fruchrkörper nicht entnehmen, man kann die Strukturen erfühlen oder einen Spiegel benutzen. (Johann Rejek) [Mehr lesen >](/pilze/daedalea-quercina-eichenwirrling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/calocybe_gambosa_01_dg.jpg" %}
@@ -63,14 +70,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 26.04.2025: Man muss nicht in die Hocke gehen, aber eine Lupe sollte man dabei haben, um unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu bestaunen. Die Schriftflechte *graphis scripta* ist eine leicht erkennbare Krustenflechte und wächst oft in Augenhöhe auf der glatten Rinde lebender Laubbäume. Die nur wenige Millimeter großen, langgestreckten, gebogenen und verzweigten Fruchtkörper [(Hysterothezien)](Hysterothezien "Glossar")  erinnern an geheime Schriftzeichen. (Johann Rejek) [Mehr lesen >](/pilze/graphis-scripta-schriftflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_badius_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.04.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kastanienbraune Stielporling *Polyporus badius*. Typisch für ihn sind die elastischen am Rand sehr dünnen, auf der Oberfläche glatten, fettig glänzenden, dunkel- bis schwarzbraunen Hüte sowie die sehr feinen Poren. Mit dieser Merkmalskombination ist der auf Totholz wachsende Pilz praktisch unverwechselbar. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-badius-kastanienbrauner-stielporling-schwarzroter-porling)
 
 <div style="clear:  both"></div>
 
