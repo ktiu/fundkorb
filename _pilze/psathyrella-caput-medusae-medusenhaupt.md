@@ -23,6 +23,8 @@ literatur:
 
 Die artenreiche Gattung *Psathyrella* (Faserlinge, Mürblinge, Zärtlinge; ca. 100 in Mitteleuropa, weltweit 400+) gehört nicht gerade zu den einfachen. Bestimmungsschlüssel beginnen bereits mit Fragen nach mikroskopischen Merkmalen wie [Pleurozystiden](Pleurozystiden "Glossar") und Sporen. Einige wenige sind aber tatsächlich auf den ersten Blick zu erkennen, darunter auch das Medusenhaupt - vorausgesetzt, man hat Fruchtkörper vor sich wie hier abgebildet. Die auffällige, sparrig abstehende Hut- und Stielbeschuppung macht das Medusenhaupt nahezu unverwechselbar. Während die Schuppen auf dem Hut nur locker aufliegende Reste eines vergänglichen [Velum universale](Velum universale "Glossar") sind, bleiben die Stielschuppen auch beim alten Pilz erhalten und stellen ein Alleinstellungsmerkmal unter den *Psathyrellaceae* dar.
 
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/psathyrella_caput_medusa_04_kg.png" %}
 {% include abbildung_ende.html legende="Foto: Dr. Kanya Götsch" %}
