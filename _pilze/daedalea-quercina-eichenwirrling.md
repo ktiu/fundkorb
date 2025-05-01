@@ -37,6 +37,6 @@ Am 21. August 2000 hatte ich Anlass zu einem besonderen Eintrag in meinen pilzku
 {% include bild.html datei="/bilder/daedalea_quercina_07_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Nichts dergleichen. Die mikroskopische Nachprüfung durch Günter Sturm ergab zweifelsfrei: der sont so wirtstreue Eichenwirrling musste sich hier in der Partner- und Farbwahl vertan haben.
+Nichts dergleichen. Die mikroskopische Nachprüfung durch Günter Sturm ergab zweifelsfrei: der sonst so wirtstreue Eichenwirrling musste sich hier in der Partner- und Farbwahl vertan haben.
 
 Die Gattung Daedalea ist übrigens nicht nach einem mehr oder weniger bedeutenden Mykologen benannt, sondern sinnvollerweise nach Daedalus, dem Erbauer des minoischen Labyrinths aus der griechischen Mythologie. Pilze mit labyrinthischem [Hymenophor](Hymenophor "Glossar") wie der Eichenwirrling werden als daedaloid bezeichnet.
