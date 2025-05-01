@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+02.05.2025: [Daedalea quercina - Eichenwirrling](/pilze/daedalea-quercina-eichenwirrling)  
 01.05.2025: [Calocybe gambosa - Maipilz](/pilze/calocybe-gambosa-maipilz)
 
 30.04.2025: [Gyromitra esculenta - Frühjahrslorchel](/pilze/gyromitra-esculenta-frühjahrslorchel)\
