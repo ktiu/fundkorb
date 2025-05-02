@@ -30,7 +30,7 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include bild.html datei="/bilder/daedalea_quercina_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-02.05.2025: Das Pilze auf der Unterseite oft schöner und spannender aussehen als auf der Oberseite, das dürfte den meisten Pilzfreunden schon aufgefallen sein. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Eichenwirrling  *Daedalea quercina*, ist einer dieser Pilze. Er wächst fast ausnahmslos an Stümpfen und am Boden liegenden Ästen oder Stämmen von Eichen. Um sein labyrinthisch zäh-elastisches [Hymenophor](Hymenophor "Glossar")  auf der Unterseite zu bestaunen, muss man den Fruchrkörper nicht entnehmen, man kann die Strukturen erfühlen oder einen Spiegel benutzen. (Johann Rejek) [Mehr lesen >](/pilze/daedalea-quercina-eichenwirrling)
+02.05.2025: Dass Pilze auf der Unterseite oft schöner und spannender aussehen als auf der Oberseite, das dürfte den meisten Pilzfreunden schon aufgefallen sein. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Eichenwirrling  *Daedalea quercina*, ist einer dieser Pilze. Er wächst fast ausnahmslos an Stümpfen und am Boden liegenden Ästen oder Stämmen von Eichen. Um sein labyrinthisch zäh-elastisches [Hymenophor](Hymenophor "Glossar")  auf der Unterseite zu bestaunen, muss man den Fruchrkörper nicht entnehmen, man kann die Strukturen erfühlen oder einen Spiegel benutzen. (Johann Rejek) [Mehr lesen >](/pilze/daedalea-quercina-eichenwirrling)
 
 <div style="clear:  both"></div>
 
