@@ -17,6 +17,15 @@ Neuer Exkursionstermin: Sonntag, 4. Mai 2025, 10:00 Uhr: **Wir suchen den Maipil
 Hier geht's [zur Anmeldung >](/termine)
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Voreilende Ackerling *Agrocybe praecox*. Sein Name (*„voreilend“*) besagt schon etwas über seine Erscheinungszeit. Er ist aber keineswegs nur ein typischer Frühjahrspilz. Man kann ihn durchaus bis in den Herbst hinein finden. Er bevorzugt offenes Gelände wie Parkanlagen oder Wegränder. Gilt als essbar, schmeckt aber etwas bitter. (Dieter Gewalt) [Mehr lesen >](/pilze/agrocybe-praecox-voreilender-ackerling)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/daedalea_quercina_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
@@ -62,14 +71,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 27.04.2025: An vertrockneten, am Boden liegenden Blattspindeln der Esche kann man bei sorgfältigem Suchen unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Falsche Weiße Stängelbecherchen *Hymenoscyphus fraxineus* finden. Die gestielten schalenförmigen [Ascomyzeten](Ascomyzeten "Glossar") wachsen gesellig bis büschelig auf ihrem Substrat und werden maximal 7 mm groß. Vom [Schildförmigen Stängelbecherling *Hymenoscyphus scutula*](/pilze/hymenoscyphus-scutula-schildförmiger-stängelbecherling) sind sie durch etwas größere Sporen unterschieden. (Dieter Gewalt) [Mehr erfahren >](/pilze/hymenoscyphus-fraxineus-falsches-weißes-stängelbecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/graphis_scripta_03_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-26.04.2025: Man muss nicht in die Hocke gehen, aber eine Lupe sollte man dabei haben, um unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu bestaunen. Die Schriftflechte *graphis scripta* ist eine leicht erkennbare Krustenflechte und wächst oft in Augenhöhe auf der glatten Rinde lebender Laubbäume. Die nur wenige Millimeter großen, langgestreckten, gebogenen und verzweigten Fruchtkörper [(Hysterothezien)](Hysterothezien "Glossar")  erinnern an geheime Schriftzeichen. (Johann Rejek) [Mehr lesen >](/pilze/graphis-scripta-schriftflechte)
 
 <div style="clear:  both"></div>
 
