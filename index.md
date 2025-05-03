@@ -19,6 +19,14 @@ Hier geht's [zur Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_acetabulum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Hochgerippte Lorchel *Helvella acetabulum*. Mir persönlich gefällt der deutsche Name Pokalrippenbecherling besser. Perfekt geformte Fruchtkörper haben in der Tat die Gestalt eines Pokals. Die Sporen werden im Inneren des Kelches gebildet. Wenn man reife Fruchtkörper aus dem Schatten ins Sonnenlicht bewegt, kann man sehr schön beobachten, wie nahezu explosionsartig eine Sporenstaubwolke freigesetzt wird. (Dieter Gewalt) [Mehr lesen >](/pilze/helvella-acetabulum-hochgerippte-lorchel)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -63,14 +71,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 28.04.2025: Endlich wieder mal was für die Pfanne! Der aktuelle [Fundkorbpilz](AA "Glossar-")  Schwefelporling *Laetiporus sulphureus* fällt schon von weitem durch seine leuchtend orangegelben Fruchtkörper auf. Der im englischen Sprachraum gern als „Waldhuhn“ (chicken of the woods) bezeichnete Pilz bedeutet für den befallenen Baum den sicheren Tod (Braunfäule), ist aber besonders für Veganer ein echtes Geschmackserlebnis. Jung kann man ihn als Hühnchenfleisch-Ersatz zubereiten - wichtig: er muss immer gut durch durchgegart sein, sonst gibt’s Bauchweh. Im Alter zerbröckelt er und wird ungenießbar. (Ulrike Wegner) [Mehr lesen >](/pilze/laetiporus-sulphureus-schwefelporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hymenoscyphus_fraxinus_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-27.04.2025: An vertrockneten, am Boden liegenden Blattspindeln der Esche kann man bei sorgfältigem Suchen unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Falsche Weiße Stängelbecherchen *Hymenoscyphus fraxineus* finden. Die gestielten schalenförmigen [Ascomyzeten](Ascomyzeten "Glossar") wachsen gesellig bis büschelig auf ihrem Substrat und werden maximal 7 mm groß. Vom [Schildförmigen Stängelbecherling *Hymenoscyphus scutula*](/pilze/hymenoscyphus-scutula-schildförmiger-stängelbecherling) sind sie durch etwas größere Sporen unterschieden. (Dieter Gewalt) [Mehr erfahren >](/pilze/hymenoscyphus-fraxineus-falsches-weißes-stängelbecherchen)
 
 <div style="clear:  both"></div>
 
