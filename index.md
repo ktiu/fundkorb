@@ -12,11 +12,17 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin: Sonntag, 4. Mai 2025, 10:00 Uhr: **Wir suchen den Maipilz**
-
-Hier geht's [zur Anmeldung >](/termine)
+Neuer Exkursionstermine gibt's in Kürze.
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinellus_micaceus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.05.2025: [Fundkorbpilz](AA "Glossar-") ist der Glimmertintling *Coprinellus micaceus*. Zu seinen Merkmalen gehört büscheliges Wachstum in Verbindung mit Holz und die glimmerige Hutbekleidung. Diese Eigenschaften weisen auch andere sogenannte "Flockentintlinge" auf, so dass eine sichere  Unterscheidung schwierig sein kann. Klassischer Doppelgänger ist der seltene Weidentintling, der keinesfalls nur bei Weiden wächst. Der Glimmertintling ist einer der häufigsten Pilze überhaupt und das ganze Jahr über zu finden, in Wäldern ebenso wie außerhalb. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinellus-micaceus-glimmertintling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_acetabulum_02_dg.jpg" %}
@@ -55,22 +61,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 30.04.2025: Aktuellster [Fundkorbpilz](AA "Glossar-") ist ein delikater Giftpilz, die Frühjahrslorchel *Gyromitra esculenta*. Der Pilz wird in der populären Pilzliteratur völlig zu Recht mit einem Totenkopfsymbol versehen, obwohl der wissenschaftliche Artname *"esculenta"* essbar bedeutet und er in manchen Ländern bis vor kurzem noch Marktpilz war. Der Fundkorb informiert genauestens über diesen offensichtlichen und [lebensgefährlichen](/artikel/ein-delikater-giftpilz) Widerspruch. (Dieter Gewalt) [Mehr lesen >](/pilze/gyromitra-esculenta-frühjahrslorchel)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_renati_02_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-29.04.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelbstielige Nitrathelmling *Mycena renati*, den wir bei unserer letzten Vereinswanderung (Verein f. Pilzkunde München e.V.) im Norden von München gefunden haben. Mit der Merkmalskombination büscheliges Wachstum auf Laubholz, rosabräunlicher Hut, gelber Stiel und chlorartiger Geruch ist er bereits am Fundort zu bestimmen. (Johann Rejek) [Mehr lesen >](/pilze/mycena-renati-gelbstieliger-nitrathelmling)
-
-<div style="clear:  both"></div>  
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/laetiporus_sulphureus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.04.2025: Endlich wieder mal was für die Pfanne! Der aktuelle [Fundkorbpilz](AA "Glossar-")  Schwefelporling *Laetiporus sulphureus* fällt schon von weitem durch seine leuchtend orangegelben Fruchtkörper auf. Der im englischen Sprachraum gern als „Waldhuhn“ (chicken of the woods) bezeichnete Pilz bedeutet für den befallenen Baum den sicheren Tod (Braunfäule), ist aber besonders für Veganer ein echtes Geschmackserlebnis. Jung kann man ihn als Hühnchenfleisch-Ersatz zubereiten - wichtig: er muss immer gut durch durchgegart sein, sonst gibt’s Bauchweh. Im Alter zerbröckelt er und wird ungenießbar. (Ulrike Wegner) [Mehr lesen >](/pilze/laetiporus-sulphureus-schwefelporling)
 
 <div style="clear:  both"></div>
 
