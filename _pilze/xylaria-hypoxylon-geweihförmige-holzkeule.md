@@ -15,7 +15,6 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/x/Xylaria_hypoxylon.html
 ---
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="" nocrop=true %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_14_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_13_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}

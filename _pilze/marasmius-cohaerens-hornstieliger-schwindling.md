@@ -7,7 +7,7 @@ beschreibung:
   referenz: (Pers.) Cooke & Quél. 1878
   familie: Marasmiaceae
 profil:
-  autor_in: Johann Rejek und Dieter Gewalt
+  autor_in: Johann Rejek & Dieter Gewalt
   aktualisiert: 2025-01-07
 hauptbild:
   datei: /bilder/marasmius_cohaerens_01_jr.jpg
