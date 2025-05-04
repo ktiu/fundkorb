@@ -110,7 +110,7 @@ Wenn sie so schön bewimpert sind wie auf der Abbildung sind die weißen trichte
 
 Catinella olivacea – Olivfarbenes Kelchbecherchen
 
-Seine meist versteckt in Hohlräumen an vermorschtem Laubholz wchsenden Fruchtkörper sind zunächst fast kugelig und geschlossen, später teller- oder scheibenförmig und 0,5 bis 1 cm, gelegentlich auch bis über 2 cm breit. Sie haben einen farblich deutlich abgesetzten, meist gerieften Rand, der lange eingerollt bleibt und gelblich oder gelbbraun gefärbt ist. Die in Mitteleuropa realtiv seltene Art ist durch ihr Aussehen makroskopisch gut zu identifizieren. (Erik Hock) [Mehr lesen >](/pilze/catinella-olivacea-olivfarbenes-kelchbecherchen)
+Seine meist versteckt in Hohlräumen an vermorschtem Laubholz wachsenden Fruchtkörper sind zunächst fast kugelig und geschlossen, später teller- oder scheibenförmig und 0,5 bis 1 cm, gelegentlich auch bis über 2 cm breit. Sie haben einen farblich deutlich abgesetzten, meist gerieften Rand, der lange eingerollt bleibt und gelblich oder gelbbraun gefärbt ist. Die in Mitteleuropa realtiv seltene Art ist durch ihr Aussehen makroskopisch gut zu identifizieren. (Erik Hock) [Mehr lesen >](/pilze/catinella-olivacea-olivfarbenes-kelchbecherchen)
 
 <div style="clear:  both"></div>
 
