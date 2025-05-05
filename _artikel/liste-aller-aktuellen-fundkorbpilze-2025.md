@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-05.05.2025: [Coprinellus micaceus - Glimmertintling](/pilze/coprinellus-micaceus-glimmertintling)  
+06.05.2025: [Agaricus bitorquis - Stadtchampignon](/pilze/agaricus-bitorquis-stadt-champignon)  
+05.05.2025: [Coprinellus micaceus - Glimmertintling](/pilze/coprinellus-micaceus-glimmertintling)\
 04.05.2025: [Helvella acetabulum - Hochgerippte Lorchel](/pilze/helvella-acetabulum-hochgerippte-lorchel)\
 03.05.2025: [Agrocybe praecox - Voreilender Ackerling](/pilze/agrocybe-praecox-voreilender-ackerling)\
 02.05.2025: [Daedalea quercina - Eichenwirrling](/pilze/daedalea-quercina-eichenwirrling)\
