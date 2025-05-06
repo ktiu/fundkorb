@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermine gibt's in Kürze.
+Neuer Exkursionstermin gibt's in Kürze.
 
 - - -
 {% include abbildung_start.html stil="fliessend" %}
