@@ -19,7 +19,7 @@ Neuer Exkursionstermine gibt's in Kürze.
 {% include bild.html datei="/bilder/phragmotrichum_chailetii_01_frk.jpg" %}
 {% include abbildung_ende.html %}
 
-07.05.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Fichtenzapfenkonidie *Phragmotrichum chailletii*, haben wir bei der letzten Vereinswanderung des Münchner Pilzvereins gezielt gesucht - er ist sehr klein und unauffällig - und auch gefunden. Der schwarze Schlauchpilz wächst in großer Anzahl auf den Samenschuppen herabgefallener Fichtenzapfen. Auch wenn er makroskopisch wenig interessant erscheint, ein Blick durch das Mikroskop zeigt ungewöhnlich geformte [Konidiensporen](Konidiensporen "Glossar") . (Johann Rejek) [Mehr lesen >](/pilze/phragmotrichum-chailetii-fichtenzapfenkonidie)
+07.05.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Fichtenzapfenkonidie *Phragmotrichum chailletii*, haben wir bei der letzten Vereinswanderung des Münchner Pilzvereins gezielt gesucht - er ist sehr klein und unauffällig - und auch gefunden. Der schwarze Schlauchpilz wächst in großer Anzahl auf den Samenschuppen herabgefallener Fichtenzapfen. Auch wenn er makroskopisch wenig interessant erscheint, ein Blick durch das Mikroskop zeigt ungewöhnlich geformte [Konidiensporen](Konidien "Glossar") . (Johann Rejek) [Mehr lesen >](/pilze/phragmotrichum-chailetii-fichtenzapfenkonidie)
 
 <div style="clear:  both"></div>
 
