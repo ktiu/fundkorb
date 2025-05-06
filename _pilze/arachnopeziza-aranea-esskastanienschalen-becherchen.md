@@ -11,6 +11,8 @@ hauptbild:
   datei: /bilder/arachnoscypha_aranea_01_dg.jpg
   anzeige: false
 published: true
+literatur:
+  - url: https://www.mycodb.fr/fiche.php?genre=Arachnopeziza&espece=aranea
 ---
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/arachnoscypha_aranea_01_dg.jpg" %}
@@ -20,4 +22,4 @@ Wegen seiner Winzigkeit ein kaum beachtetes Pilzchen. Die weißen [Apothecien](A
 
 In der Regel wird man diese kleinen [Ascomyzeten](Ascomyzeten "Glossar") an den Innenseiten der stacheligen Fruchtschalen finden, nicht selten in Gesellschaft von [Lanzia echinophila](/pilze/lanzia-echinophila-kastanienschalenbecherling) wie auf dem Foto, und gern auch an deren Fruchtkörpern; mitunter gehen sie sogar an die Stacheln der [Cupulen](Cupulen "Glossar"). Die an den Rändern behaarten Becherchen sitzen meist auf einem spinnwebartigen [Subikulum](Subikulum "Glossar").
 
-Ein Foto dieses Winzlings, das sich zu betrachten lohnt, findet man auf dieser Seite: https://www.mycodb.fr/fiche.php?genre=Arachnopeziza&espece=aranea
+Ein aussagefähigeres Foto dieses Winzlings, das sich zu betrachten lohnt, ist über den nachfolgenden Link zu sehen:
