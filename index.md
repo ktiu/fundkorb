@@ -12,9 +12,18 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin gibt's in Kürze.
+Einen neuen Exkursionstermin gibt's in Kürze.
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinellus_domesticus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haustintling *Coprinellus domesticus*. Er ähnelt dem sehr viel häufigeren Glimmertintling, ist aber größer und wächst eher einzeln oder zu wenigen an totem oder auch im Boden vergrabenem Holz, das er manchmal mit einem rostfarbenen [Ozonium](Ozonium "Glossar") überzieht. Vor allem ist sein Stiel auf ganzer Länge gerieft, ein Alleinstellungsmerkmal, das ihn von allen ähnlichen Tintlingen unterscheidet. Seinen Namen hat er erhalten, weil er tatsächlich an altem verbautem Holz in Häusern vorkommen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinellus-domesticus-haustintling)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phragmotrichum_chailetii_01_frk.jpg" %}
 {% include abbildung_ende.html %}
@@ -52,22 +61,6 @@ Neuer Exkursionstermin gibt's in Kürze.
 {% include abbildung_ende.html %}
 
 03.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Voreilende Ackerling *Agrocybe praecox*. Sein Name (*„voreilend“*) besagt schon etwas über seine Erscheinungszeit. Er ist aber keineswegs nur ein typischer Frühjahrspilz. Man kann ihn durchaus bis in den Herbst hinein finden. Er bevorzugt offenes Gelände wie Parkanlagen oder Wegränder. Gilt als essbar, schmeckt aber etwas bitter. (Dieter Gewalt) [Mehr lesen >](/pilze/agrocybe-praecox-voreilender-ackerling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/daedalea_quercina_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-02.05.2025: Dass Pilze auf der Unterseite oft schöner und spannender aussehen als auf der Oberseite, das dürfte den meisten Pilzfreunden schon aufgefallen sein. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Eichenwirrling  *Daedalea quercina*, ist einer dieser Pilze. Er wächst fast ausnahmslos an Stümpfen und am Boden liegenden Ästen oder Stämmen von Eichen. Um sein labyrinthisch zäh-elastisches [Hymenophor](Hymenophor "Glossar")  auf der Unterseite zu bestaunen, muss man den Fruchrkörper nicht entnehmen, man kann die Strukturen erfühlen oder einen Spiegel benutzen. (Johann Rejek) [Mehr lesen >](/pilze/daedalea-quercina-eichenwirrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calocybe_gambosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.05.2025: Passend zum Datum und zu unserer pilzkundlichen Führung am Sonntag ist heute der Maipilz *Calocybe gambosa*  aktueller [Fundkorbpilz](AA "Glossar-"). Pünktlich ist er gestern in unserem Dietzenbacher Carré erschienen. Ob er für die Küche taugt, ist Geschmacksache. Manche mögen ihn, andere verabscheuen ihn. Sein Kennzeichen ist ein starker Mehlgeruch. (Dieter Gewalt) [Mehr lesen >](/pilze/calocybe-gambosa-maipilz)
 
 <div style="clear:  both"></div>
 
