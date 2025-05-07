@@ -19,7 +19,7 @@ literatur:
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/phragmotrichum_chailetii_01_frk.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/phragmotrichum_chailetii_02_frk.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="2 Fotos: Fradi Kasparek (rechts: Sporen)" %}
+{% include abbildung_ende.html legende="2 Fotos: Fredi Kasparek (rechts: Sporen)" %}
 
 Diesen Pilz, der zu den [Ascomyzeten](Ascomyzeten "Glossar") gehört, könnte man als winzigen erhabenen Fleck von dunkler Farbe auf den Samenschuppen von Fichtenzapfen beschreiben, und davon gibt es auf einem infizierten Zapfen jede Menge. Sie ragen blasen- oder kissenförmig ein wenig aus der Zapfenschuppe heraus und erreichen 0,5 bis 1 mm Durchmesser.
 
