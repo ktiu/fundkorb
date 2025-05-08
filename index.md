@@ -20,7 +20,7 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 {% include bild.html datei="/bilder/steinpilz_pfifferling_dg.png" %}
 {% include abbildung_ende.html %}
 
-09.05.2025: Pilzfreund Stefan meldet aus dem Main-Kinzig-Kreis im Pilzticker Hessen: „Gerade erst aus der Schweiz vom Spitzmorcheln sammeln zurück… Wurde schon ein Sommersteinpilz gefunden? Falls nicht, dann kommt der Erstfund dieses Jahr aus Hessen… Meine geliebten Pfifferlinge sind ebenfalls schon erschienen…“ Zum ersten Mal gibt es heute daher zwei aktuelle [Fundkorbpilze](AA "Glossar-"), den [Sommersteinpilz Boletus reticulatus](/pilze/boletus-reticulatus-sommersteinpilz) und den [Pfifferling *Cantharellus cibarius*](/pilze/cantharellus-cibarius-pfifferling). Das beigefügte Foto stammt <ins>nicht</ins> vom aktuellen Fund, sondern aus meinem Archiv.
+09.05.2025: Pilzfreund Stefan meldet aus dem Main-Kinzig-Kreis im Pilzticker Hessen: „Gerade erst aus der Schweiz vom Spitzmorcheln sammeln zurück… Wurde schon ein Sommersteinpilz gefunden? Falls nicht, dann kommt der Erstfund dieses Jahr aus Hessen… Meine geliebten Pfifferlinge sind ebenfalls schon erschienen…“ Daher gibt es heute zum ersten Mal und ausnahmsweise zwei aktuelle [Fundkorbpilze](AA "Glossar-"), den [Sommersteinpilz Boletus reticulatus](/pilze/boletus-reticulatus-sommersteinpilz) und den [Pfifferling *Cantharellus cibarius*](/pilze/cantharellus-cibarius-pfifferling). Das beigefügte Foto stammt <ins>nicht</ins> vom aktuellen Fund, sondern aus meinem Archiv. (Dieter Gewalt)
 
 <div style="clear:  both"></div>
 
