@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-08.05.2025: [Coprinellus domesticus - Haustintling](/pilze/coprinellus-domesticus-haustintling)  
+09.05.2025: [Sommersteinpilz Boletus reticulatus](/pilze/boletus-reticulatus-sommersteinpilz) und [Pfifferling Cantharellus cibarius](/pilze/cantharellus-cibarius-pfifferling)
+08.05.2025: [Coprinellus domesticus - Haustintling](/pilze/coprinellus-domesticus-haustintling)\
 07.05.2025: [Phragmotrichum chailetii - Fichtenzapfenkonidie](/pilze/phragmotrichum-chailetii-fichtenzapfenkonidie)\
 06.05.2025: [Agaricus bitorquis - Stadtchampignon](/pilze/agaricus-bitorquis-stadt-champignon)\
 05.05.2025: [Coprinellus micaceus - Glimmertintling](/pilze/coprinellus-micaceus-glimmertintling)\
