@@ -13,6 +13,10 @@ hauptbild:
   datei: /bilder/psathyrella_spadiceogrisea_01_dg.jpg
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 4, Nr. 357"
+  - text: "German J. Krieglsteiner & Andreas Gminder (Hrsg.): Die Großpilze
+      Baden-Württembergs, Seite 633 - 634r"
+  - text: "Ewald Gerhardt: Der große BLV-Pilzführer für unterwegs, Seite 372"
+  - url: https://www.zobodat.at/pdf/Z-Mykologie_82_2016_0037-0063.pdf
 ---
 Der Schmalblättrige Faserling ist der klassische Doppelgänger des [Behangenen Faserlings *Psathyrella candolleana*](/pilze/psathyrella-candolleana-behangener-faserling). Das Vorhandensein oder Fehlen eines [Velumbehangs](Velum "Glossar") am Hutrand kann höchstens tendenziell zur Unterscheidung dienen. Es ist bei beiden zumindest jung vorhanden, beim Behangenen Faserling deutlich ausgeprägter, ist  aber bei beiden vor allem im  Alter vergänglich. Auch die frühe Erscheinungszeit (Name: Früher Mürbling) ist kein sicheres Merkmal.
 
