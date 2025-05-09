@@ -17,6 +17,14 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bolbitius_titubans_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.05.2025: Ein bildhübscher Pilz und Dung oder Mist müssen nicht unbedingt unvereinbar sein. Es gibt so viele Pilze, die dieses etwas anrüchige Substrat bevorzugen und trotzdem gefallen. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Goldmistpilz *Bolbitius titubans*. Seine anmutige Gestalt und die goldgelbe Farbe machen ihn zu einer attraktiven Erscheinung, die besonders an Wegrändern immer wieder auffällt. Schon nach wenigen Tagen verblasst seine Schönheit, aber das ist nicht nur bei den Pilzen ein Symptom des Alterns. (Dieter Gewalt) [Mehr lesen >](/pilze/bolbitius-titubans-goldmistpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/steinpilz_pfifferling_dg.png" %}
 {% include abbildung_ende.html %}
 
@@ -61,14 +69,6 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 {% include abbildung_ende.html %}
 
 04.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Hochgerippte Lorchel *Helvella acetabulum*. Mir persönlich gefällt der deutsche Name Pokalrippenbecherling besser. Perfekt geformte Fruchtkörper haben in der Tat die Gestalt eines Pokals. Die Sporen werden im Inneren des Kelches gebildet. Wenn man reife Fruchtkörper aus dem Schatten ins Sonnenlicht bewegt, kann man sehr schön beobachten, wie nahezu explosionsartig eine Sporenstaubwolke freigesetzt wird. (Dieter Gewalt) [Mehr lesen >](/pilze/helvella-acetabulum-hochgerippte-lorchel)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Voreilende Ackerling *Agrocybe praecox*. Sein Name (*„voreilend“*) besagt schon etwas über seine Erscheinungszeit. Er ist aber keineswegs nur ein typischer Frühjahrspilz. Man kann ihn durchaus bis in den Herbst hinein finden. Er bevorzugt offenes Gelände wie Parkanlagen oder Wegränder. Gilt als essbar, schmeckt aber etwas bitter. (Dieter Gewalt) [Mehr lesen >](/pilze/agrocybe-praecox-voreilender-ackerling)
 
 <div style="clear:  both"></div>
 
