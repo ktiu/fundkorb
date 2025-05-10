@@ -72,14 +72,6 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_acetabulum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Hochgerippte Lorchel *Helvella acetabulum*. Mir persönlich gefällt der deutsche Name Pokalrippenbecherling besser. Perfekt geformte Fruchtkörper haben in der Tat die Gestalt eines Pokals. Die Sporen werden im Inneren des Kelches gebildet. Wenn man reife Fruchtkörper aus dem Schatten ins Sonnenlicht bewegt, kann man sehr schön beobachten, wie nahezu explosionsartig eine Sporenstaubwolke freigesetzt wird. (Dieter Gewalt) [Mehr lesen >](/pilze/helvella-acetabulum-hochgerippte-lorchel)
-
-<div style="clear:  both"></div>
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2025](/artikel/liste-aller-aktuellen-fundkorbpilze-2025.html)
