@@ -10,8 +10,8 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/simocybe_centunculus_01_nk.jpg
-  legende: "Foto: Norbert Kühnberger"
+  datei: /bilder/simocybe_centunculus_02_frk.png
+  legende: "Foto: Fredy Kasparek"
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 5, Nr. 394"
   - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Band 4,
@@ -19,10 +19,6 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/s/Simocybe_centunculus.html
 ---
 In der Gattung *Simocybe* (Olivschnitzlinge) gibt es nur wenige in Deutschland nachgewiesene recht kleine Arten, unter denen keine Speisepilze sind und die auch nur wenig Beachtung finden. Sie gelten alle als selten, am häufigsten ist wohl noch der hier vorgestellte Kleinsporige Olivschnitzling *Simocybe centunculus*.
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/simocybe_centunculus_02_frk.png" %}
-{% include abbildung_ende.html legende="Foto: Fredy Kasparek" %}
 
 Seine Hüte erreichen gerade mal 1,5 cm Durchmesser, die Stiele kaum mehr als 3 cm. Gemessen an diesen Werten können sie recht dickfleischig wirken. Hut und Stiel erscheinen nahezu einheitlich feinkörnig bereift auf matt braunrötlichem Untergrund. Die dicklichen Lamellen sind jung hellbraun, später durch ausfallendes Sporenpulver rotbraun. Sie stehen etwas entfernt, sind mehrfach mit kürzeren untermischt und ausgebuchtet am Stiel angewachsen. Die Schneiden sind stets heller. Die Stielbasis ist meist mit weißem [Myzelfilz](Myzel "Glossar") überzogen. Das Fleisch ist hellocker-braun, der Geruch wird als pilzig oder fruchtig beschrieben, der Geschmack ist mild. Das Sporenpulver ist rotbraun.
 
