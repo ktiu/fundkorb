@@ -20,7 +20,7 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 {% include bild.html datei="/bilder/polyporus_tuberaster_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-11.05.2025: Aktueller Fundkorbpilz ist der Kleine Schuppenporling *Polyporus tuberaster*. Man kann ihn als Geheimtip für Gourmets bezeichnen, leider mit einem Haken. Nur junge Exemplare sind zart genug, um als Leckerbissen in der Pfanne zu landen. Er wird auch Sklerotienporling genannt. Was ein *Sklerotium* ist und einiges mehr über diesen interessanten Pilz [erfahren Sie hier >](/pilze/polyporus-tuberaster-sklerotienporling) 
+11.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kleine Schuppenporling *Polyporus tuberaster*. Man kann ihn als Geheimtip für Gourmets bezeichnen, leider mit einem Haken. Nur junge Exemplare sind zart genug, um als Leckerbissen in der Pfanne zu landen. Er wird auch Sklerotienporling genannt. Was ein *Sklerotium* ist und einiges mehr über diesen interessanten Pilz [erfahren Sie hier >](/pilze/polyporus-tuberaster-sklerotienporling) 
 
 <div style="clear:  both"></div>
 
