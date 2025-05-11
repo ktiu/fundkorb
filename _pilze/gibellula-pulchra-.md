@@ -11,6 +11,9 @@ profil:
 hauptbild:
   anzeige: false
   datei: /bilder/gibellula_pulchra_02_cw.jpg
+literatur:
+  - text: "Meike Piepenbring: Mykologie, Seite 244 – 255 (Entomopathogene Pilze)"
+  - url: https://en.wikipedia.org/wiki/Gibellula_pulchra
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/gibellula_pulchra_01_cw.jpg" nocrop=true gross=true %}
