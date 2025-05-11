@@ -20,7 +20,7 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 {% include bild.html datei="/bilder/parasola_plicatilis_02_km.jpg" %}
 {% include abbildung_ende.html %}
 
-13.05.2025: Tintlinge stehen in vier deutlich voneinander unterschiedenen Gattungen, von denen die Scheibchentintintlinge durch sehr grazile, zerbrechliche aber durchaus hübsche Hütchen und nahezu fadendünne Stiele auffallen. Sie sind sehr kurzlebig und ihre Hüte zerfließen <ins>nicht</ins> zu Tinte. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gemeine Scheibchentintling *Parasola plicatilis*, eine sehr häufige, gern gesellig an Wegrändern wachsende Art. (Dieter Gewalt) [Mehr lesen >](/pilze/parasola-plicatilis-gemeiner-scheibchentintling)
+12.05.2025: Tintlinge stehen in vier deutlich voneinander unterschiedenen Gattungen, von denen die Scheibchentintintlinge durch sehr grazile, zerbrechliche aber durchaus hübsche Hütchen und nahezu fadendünne Stiele auffallen. Sie sind sehr kurzlebig und ihre Hüte zerfließen <ins>nicht</ins> zu Tinte. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gemeine Scheibchentintling *Parasola plicatilis*, eine sehr häufige, gern gesellig an Wegrändern wachsende Art. (Dieter Gewalt) [Mehr lesen >](/pilze/parasola-plicatilis-gemeiner-scheibchentintling)
 
 <div style="clear:  both"></div>
 
