@@ -12,7 +12,7 @@ hauptbild:
   anzeige: false
   datei: /bilder/gibellula_pulchra_02_cw.jpg
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/gibellula_pulchra_01_cw.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/gibellula_pulchra_02_cw.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="23.09.2023: Waldmoor, Mördersdellbach, Rheinland-Pfalz (Fotos: Christian Weinkötz)" %}
@@ -21,11 +21,11 @@ hauptbild:
 
 Entomopathogene Pilze sind parasitäre ein- oder mehrzellige Mikroorganismen, die zum Reich der Pilze gehören und Insekten infizieren und ernsthaft schädigen oder töten können.
 
-Weitere Pilzarten der Kernkeulenverwandten (Cordycipitaceae) und entomopathogene Pilze im Fundkorb:
-Claviceps purpurea = Mutterkorn
-Cordyceps longisegmentis = Langsporige Kernkeule
-Cordyceps larvicola = Kolarett-Kernkeule
-Cordyceps militaris = Puppenkernkeule
-Cordyceps ophioglossoides = Zungenkernkeule
-Epichloe typhina = Gras-Kernpilz
-Hesperomyces virescens = Marienkäferpilz
+Weitere Pilzarten der Kernkeulenverwandten (*Cordycipitaceae*) und entomopathogene Pilze im Fundkorb:\
+[*Claviceps purpurea* = Mutterkorn](/pilze/claviceps-purpurea-mutterkorn)\
+[*Cordyceps longisegmentis* = Langsporige Kernkeule](/pilze/cordyceps-longisegmentis-langsporige-kernkeule)\
+[*Cordyceps larvicola* = Kolarett-Kernkeule](/pilze/cordyceps-larvicola-kollarett-kernkeule)\
+[*Cordyceps militaris* = Puppenkernkeule](/pilze/cordyceps-militaris-puppenkernkeule)\
+[*Cordyceps ophioglossoides* = Zungenkernkeule](/pilze/cordyceps-ophioglossoides-zungenkernkeule)\
+[*Epichloe typhina* = Gras-Kernpilz](/pilze/epichloe-typhina-gras-kernpilz)\
+[*Hesperomyces virescens* = Marienkäferpilz](/pilze/hesperomyces-virescens-marienkäferpilz)
