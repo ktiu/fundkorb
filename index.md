@@ -17,6 +17,15 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/entoloma_clypeatum_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+
+13.05.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schildrötling *Entoloma clypeatum*, kommt diesmal aus dem Münchner Umland. Circa 20 Fruchtkörper in kleinen Gruppierungen wuchsen in unmittelbarer Nähe von wild wachsenden Birnbäumen. Wie einige andere Rötlingsarten ist auch der Schildrötling an Rosengewächsen zu finden. Er zählt zwar zu den essbaren Pilzen, sollte aber nur von erfahrenen Pilzsammlern für Speisezwecke gesammelt werden. Zu groß ist die Gefahr ihn mit anderen giftigen Rötlingen zu verwechseln. (Johann Rejek) [Mehr lesen >](/pilze/entoloma-clypeatum-schildrötling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/parasola_plicatilis_02_km.jpg" %}
 {% include abbildung_ende.html %}
 
