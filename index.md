@@ -81,14 +81,6 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinellus_micaceus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Glimmertintling *Coprinellus micaceus*. Zu seinen Merkmalen gehört büscheliges Wachstum in Verbindung mit Holz und die glimmerige Hutbekleidung. Diese Eigenschaften weisen auch andere sogenannte "Flockentintlinge" auf, so dass eine sichere  Unterscheidung schwierig sein kann. Klassischer Doppelgänger ist der seltene Weidentintling, der keinesfalls nur bei Weiden wächst. Der Glimmertintling ist einer der häufigsten Pilze überhaupt und das ganze Jahr über zu finden, in Wäldern ebenso wie außerhalb. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinellus-micaceus-glimmertintling)
-
-<div style="clear:  both"></div>
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2025](/artikel/liste-aller-aktuellen-fundkorbpilze-2025.html)
