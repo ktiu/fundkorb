@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+13.05.2025: [Entoloma clypeatum - Schildrötling](/pilze/entoloma-clypeatum-schildrötling)  
 12.05.2025: [Parasola plicatilis - Gemeiner Scheibchentintling](/pilze/parasola-plicatilis-gemeiner-scheibchentintling)  
 11.05.2025: [Polyporus tuberaster - Kleiner Schuppenporling](/pilze/polyporus-tuberaster-sklerotienporling)\
 10.05.2025: [Bolbitius titubans - Goldmistpilz](/pilze/bolbitius-titubans-goldmistpilz)\
