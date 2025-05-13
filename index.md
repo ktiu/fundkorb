@@ -17,9 +17,16 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/entoloma_clypeatum_04_dg.jpg" %}
+{% include bild.html datei="/bilder/mycena_abramsii_03_jr.jpg" %}
 {% include abbildung_ende.html %}
 
+14.05.2025: Früh im Jahr erscheinende Helmlinge gibt es etliche, aber nur einer wird „voreilend“ genannt: unser aktueller [Fundkorbpilz](AA "Glossar-"), der Voreilende Helmling *Mycena abramsii*. Seine Haupterscheinungszeit ist April bis Juli, er kann aber auch noch im November gefunden werden. Gern an Stümpfen, aber auch an vergrabenem Holz und dann scheinbar am Boden. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-abramsii-voreilender-helmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/entoloma_clypeatum_04_dg.jpg" %}
+{% include abbildung_ende.html %}
 
 13.05.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schildrötling *Entoloma clypeatum*, kommt diesmal aus dem Münchner Umland. Circa 20 Fruchtkörper in kleinen Gruppierungen wuchsen in unmittelbarer Nähe von wild wachsenden Birnbäumen. Wie einige andere Rötlingsarten ist auch der Schildrötling an Rosengewächsen zu finden. Er zählt zwar zu den essbaren Pilzen, sollte aber nur von erfahrenen Pilzsammlern für Speisezwecke gesammelt werden. Zu groß ist die Gefahr ihn mit anderen giftigen Rötlingen zu verwechseln. (Johann Rejek) [Mehr lesen >](/pilze/entoloma-clypeatum-schildrötling)
 
@@ -62,22 +69,6 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 {% include abbildung_ende.html %}
 
 08.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haustintling *Coprinellus domesticus*. Er ähnelt dem sehr viel häufigeren Glimmertintling, ist aber größer und wächst eher einzeln oder zu wenigen an totem oder auch im Boden vergrabenem Holz, das er manchmal mit einem rostfarbenen [Ozonium](Ozonium "Glossar") überzieht. Vor allem ist sein Stiel auf ganzer Länge gerieft, ein Alleinstellungsmerkmal, das ihn von allen ähnlichen Tintlingen unterscheidet. Seinen Namen hat er erhalten, weil er tatsächlich an altem verbautem Holz in Häusern vorkommen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinellus-domesticus-haustintling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phragmotrichum_chailetii_01_frk.jpg" %}
-{% include abbildung_ende.html %}
-
-07.05.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Fichtenzapfenkonidie *Phragmotrichum chailletii*, haben wir bei der letzten Vereinswanderung des Münchner Pilzvereins gezielt gesucht - er ist sehr klein und unauffällig - und auch gefunden. Der schwarze Schlauchpilz wächst in großer Anzahl auf den Samenschuppen herabgefallener Fichtenzapfen. Auch wenn er makroskopisch wenig interessant erscheint, ein Blick durch das Mikroskop zeigt ungewöhnlich geformte [Konidiensporen](Konidien "Glossar") . (Johann Rejek) [Mehr lesen >](/pilze/phragmotrichum-chailetii-fichtenzapfenkonidie)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
-{% include abbildung_ende.html %}
-
-06.05.2025: Es gibt einen weißen Champignon, der Asphaltdecken sprengen und Gehwegplatten hochstemmen kann. Ein richtiger Kraftprotz also! Dazu ist er ein ausgezeichneter Speisepilz und gerade wieder als aktueller [Fundkorbpilz](AA "Glossar-") in unserem Dietzenbacher Carré erschienen: der Stadt-Champignon *Agaricus bitorquis*. Man erkennt ihn an seinem doppelten nach unten <ins>und</ins> oben abstehenden Stielring. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-bitorquis-stadt-champignon)
 
 <div style="clear:  both"></div>
 
