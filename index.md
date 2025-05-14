@@ -15,6 +15,13 @@ footer_scripts:
 Einen neuen Exkursionstermin gibt's in Kürze.
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/kuehneromyces_mutabilis_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.05.2025: Der Regen vor ein paar Tagen rund um München war ausreichend genug für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Stockschwämmchen *Kuehneromyces mutabilis*. Von oben betrachtet sieht dieser büschelig an Totholz (meistens Laubholz) wachsende Speisepilz dem tödlich giftigen Gift-Häubling [*Galerina marginata*](/pilze/galerina-marginata-gifthäubling) täuschend ähnlich. Mitunter können sie sogar am selben Holz wachsen! Auch erfahrene Pilzsammler sollten alle bestimmungrelevanten Merkmale prüfen, bevor die Pilze in der Pfanne landen. (Johann Rejek) [Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
+
+<div style="clear:  both"></div> 
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_abramsii_03_jr.jpg" %}
@@ -61,14 +68,6 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 {% include abbildung_ende.html %}
 
 09.05.2025: Pilzfreund Stefan meldet aus dem Main-Kinzig-Kreis im Pilzticker Hessen: „Gerade erst aus der Schweiz vom Spitzmorcheln sammeln zurück… Wurde schon ein Sommersteinpilz gefunden? Falls nicht, dann kommt der Erstfund dieses Jahr aus Hessen… Meine geliebten Pfifferlinge sind ebenfalls schon erschienen…“ Daher gibt es heute zum ersten Mal und ausnahmsweise zwei aktuelle [Fundkorbpilze](AA "Glossar-"), den [Sommersteinpilz Boletus reticulatus](/pilze/boletus-reticulatus-sommersteinpilz) und den [Pfifferling *Cantharellus cibarius*](/pilze/cantharellus-cibarius-pfifferling). Das beigefügte Foto stammt <ins>nicht</ins> vom aktuellen Fund, sondern aus meinem Archiv. (Dieter Gewalt)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinellus_domesticus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haustintling *Coprinellus domesticus*. Er ähnelt dem sehr viel häufigeren Glimmertintling, ist aber größer und wächst eher einzeln oder zu wenigen an totem oder auch im Boden vergrabenem Holz, das er manchmal mit einem rostfarbenen [Ozonium](Ozonium "Glossar") überzieht. Vor allem ist sein Stiel auf ganzer Länge gerieft, ein Alleinstellungsmerkmal, das ihn von allen ähnlichen Tintlingen unterscheidet. Seinen Namen hat er erhalten, weil er tatsächlich an altem verbautem Holz in Häusern vorkommen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinellus-domesticus-haustintling)
 
 <div style="clear:  both"></div>
 
