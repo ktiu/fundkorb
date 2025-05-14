@@ -15,11 +15,12 @@ footer_scripts:
 Einen neuen Exkursionstermin gibt's in Kürze.
 
 - - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/kuehneromyces_mutabilis_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-15.05.2025: Der Regen vor ein paar Tagen rund um München war ausreichend genug für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Stockschwämmchen *Kuehneromyces mutabilis*. Von oben betrachtet sieht dieser büschelig an Totholz (meistens Laubholz) wachsende Speisepilz dem tödlich giftigen Gift-Häubling [*Galerina marginata*](/pilze/galerina-marginata-gifthäubling) täuschend ähnlich. Mitunter können sie sogar am selben Holz wachsen! Auch erfahrene Pilzsammler sollten alle bestimmungrelevanten Merkmale prüfen, bevor die Pilze in der Pfanne landen. (Johann Rejek) [Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
+15.05.2025: Der Regen vor ein paar Tagen rund um München war ausreichend genug für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Stockschwämmchen *Kuehneromyces mutabilis*. Von oben betrachtet sieht dieser büschelig an Totholz (meistens Laubholz) wachsende Speisepilz dem tödlich giftigen Gift-Häubling *[Galerina marginata](/pilze/galerina-marginata-gifthäubling)* täuschend ähnlich. Mitunter können sie sogar am selben Holz wachsen! Auch erfahrene Pilzsammler sollten alle bestimmungsrelevanten Merkmale prüfen, bevor die Pilze in der Pfanne landen. (Johann Rejek) [Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
 
 <div style="clear:  both"></div> 
 
