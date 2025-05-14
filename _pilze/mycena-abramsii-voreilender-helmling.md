@@ -21,7 +21,7 @@ literatur:
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mycena_abramsii_03_jr.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/mycena_abramsii_04_jr.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="2 Fotos: Johann Rejek" %}
+{% include abbildung_ende.html legende="2 Fotos: Johann Rejek (29.05.2023 Taubenberg)" %}
 
 Das Adjektiv *„voreilend“* muss man nicht allzu wörtlich nennen. Die Fundmeldungen für den hübschen Helmling deuten eine Haupterscheinungszeit von April bis Juli an, er kann aber auch noch im November erscheinen.
 
