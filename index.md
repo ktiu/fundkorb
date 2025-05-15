@@ -17,6 +17,14 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypholoma_lateritium_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ziegelrote Schwefelkopf *Hypholoma lateritium*. Die Art ist eine von drei Schwefelköpfen, die man zwar leicht verwechseln, bei genauerem Hinschauen oder durch eine Geschmacksprobe aber ganz gut unterscheiden kann. Nur eine davon taugt für die Küche. (Dieter Gewalt) [Wie man sie auseinanderhalten kann, erfahren Sie hier >](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/kuehneromyces_mutabilis_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
