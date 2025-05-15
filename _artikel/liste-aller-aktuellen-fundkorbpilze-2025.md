@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-15.05.2025: [Kuehneromyces mutabilis - Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen)  
+16.05.2025: [Hypholoma lateritium - Ziegelroter Schwefelkopf](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)  
+15.05.2025: [Kuehneromyces mutabilis - Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen)\
 14.05.2025: [Mycena abramsii - Voreilender Helmling](/pilze/mycena-abramsii-voreilender-helmling)\
 13.05.2025: [Entoloma clypeatum - Schildrötling](/pilze/entoloma-clypeatum-schildrötling)\
 12.05.2025: [Parasola plicatilis - Gemeiner Scheibchentintling](/pilze/parasola-plicatilis-gemeiner-scheibchentintling)\
