@@ -20,7 +20,7 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 {% include bild.html datei="/bilder/pluteus_cervinus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-17.05.2025: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist der Rehbraune Dachpilz *Pluteus cervinus*. Keine Überraschung zu diesem Zeitpunkt, denn er gehört zu den schon früh im Jahr erscheinenden Blätterpilzen. Dachpilze sind leicht zu erkennen. Sie haben freie Lamellen, die nicht bis an den Stiel heranreichen, rosa verfärbende Lamellen, jedoch keine häutige Scheide am Stiel. Die meisten Arten wachsen an Holz und sind nicht immer leicht zu unterscheiden. Der Rehbraune ist jedenfalls der mit Abstand häufigste, aber nicht besonders schmackhaft. (Dieter Gewalt) [Mehr lesen >](/pilze/pluteus-cervinus-rehbrauner-dachpilz)
+17.05.2025: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist der Rehbraune Dachpilz *Pluteus cervinus*. Keine Überraschung zu diesem Zeitpunkt, denn er gehört zu den schon früh im Jahr erscheinenden Blätterpilzen. Dachpilze sind leicht zu erkennen. Sie haben freie, rosa verfärbende Lamellen, die nicht bis an den Stiel heranreichen, jedoch keine häutige Scheide am Stiel. Die meisten Arten wachsen an Holz und sind nicht immer leicht zu unterscheiden. Der Rehbraune ist jedenfalls der mit Abstand häufigste, aber nicht besonders schmackhaft. (Dieter Gewalt) [Mehr lesen >](/pilze/pluteus-cervinus-rehbrauner-dachpilz)
 
 <div style="clear:  both"></div>
 
