@@ -37,21 +37,21 @@ Basidien mit 4 Sterigmen, keulig, 17 – 26 x 10 – 12 µm. Cheilozystiden flas
 *Psathyrella hirta* muss inzwischen vor allem als Folge der rückläufigen Tierhaltung im Freien als selten und stark gefährdete Art gelten (RL 2). 
 
 Andere auf Misthaufen oder Tierdung wachsende Pilzarten im Fundkorb:\
-Ascobolus crenulatus = Grüngelber Kotling
-Ascobolus furfuraceus = Kleiiger Kotling 
-Bolbitius coprophilus = Rosafarbener Mistpilz
-Chaetomium cf. bostrycodes = Schimmelpilz auf Hasendung
-Cheilymenia stercorea = Sternhaariger Mistborstling
-Conocybe aurea = Goldsamthäubchen
-Coprinopsis cinerea = Struppiger Tintling
-Coprinopsis cothurnata = Rotfüßiger Schneetintling
-Coprinopsis nivea = Schneeweißer Tintling
-Coprinopsis patpuillardii = Eintags-Tintling
-Coprinopsis stercorea = Struppiger Mist-Tintling
-Cyathus stercoreus = Dung-Teuerling
-Leucocoprinus crateceus = Kreiseweißer Faltentintling
-Panaeolus papilionaceus = Glocken-Düngerling
-Peziza varia = Riesenbecherling
-Peziza vesiculosa = Blasiger Becherling
-Pilopilus kleinii = Pillenwerfer
-Stropharia semiglobata = Halbkugeliger Träuschling
+[Ascobolus crenulatus = Grüngelber Kotling](/pilze/ascobolus-crenulatus-grüngelber-kotling)  
+[Ascobolus furfuraceus = Kleiiger Kotling](/pilze/ascobolus-furfuraceus-kleiiger-kotling)  
+[Bolbitius coprophilus = Rosafarbener Mistpilz](/pilze/bolbitius-coprophilus-rosafarbener-mistpilz)  
+[Chaetomium cf. bostrycodes = Schimmelpilz auf Hasendung](/pilze/chaetomium-bostrychodes)  
+[Cheilymenia stercorea = Sternhaariger Mistborstling](/pilze/cheilymenia-stercorea-sternhaariger-mistborstling)  
+[Conocybe aurea = Goldsamthäubchen](/pilze/conocybe-aurea-goldsamthäubchen)  
+[Coprinopsis cinerea = Struppiger Tintling](/pilze/coprinopsis-cinerea-struppiger-tintling)  
+[Coprinopsis cothurnata = Rotfüßiger Schneetintling](/pilze/coprinopsis-cothurnata-rotfüßiger-schneetintling)  
+[Coprinopsis nivea = Schneeweißer Tintling](/pilze/coprinopsis-nivea-schneeweißer-tintling)  
+[Coprinopsis patpuillardii = Eintags-Tintling](/pilze/coprinopsis-patouillardii-eintags-tintling)  
+[Coprinopsis stercorea = Struppiger Mist-Tintling](/pilze/coprinopsis-stercorea-struppiger-mist-tintling)  
+[Cyathus stercoreus = Dung-Teuerling](/pilze/cyathus-stercoreus-dung-teuerling)  
+[Leucocoprinus crateceus = Kreiseweißer Faltentintling](/pilze/leucocoprinus-cretaceus-kreideweißer-faltenschirmling)  
+[Panaeolus papilionaceus = Glocken-Düngerling](/pilze/panaeolus-papilionaceus-behangener-düngerling-glocken-düngerling)  
+[Peziza varia = Riesenbecherling](/pilze/peziza-varia-riesenbecherling)  
+[Peziza vesiculosa = Blasiger Becherling](/pilze/peziza-vesiculosa-blasiger-becherling)  
+[Pilobolus kleinii = Pillenwerfer](/pilze/pilobolus-kleinii-pillenwerfer)  
+[Stropharia semiglobata = Halbkugeliger Träuschling](/pilze/stropharia-semiglobata-halbkugeliger-träuschling)
