@@ -17,6 +17,14 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pluteus_cervinus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.05.2025: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist der Rehbraune Dachpilz *Pluteus cervinus*. Keine Überraschung zu diesem Zeitpunkt, denn er gehört zu den schon früh im Jahr erscheinenden Blätterpilzen. Dachpilze sind leicht zu erkennen. Sie haben freie Lamellen, die nicht bis an den Stiel heranreichen, rosa verfärbende Lamellen, jedoch keine häutige Scheide am Stiel. Die meisten Arten wachsen an Holz und sind nicht immer leicht zu unterscheiden. Der Rehbraune ist jedenfalls der mit Abstand häufigste, aber nicht besonders schmackhaft. (Dieter Gewalt) [Mehr lesen >](/pilze/pluteus-cervinus-rehbrauner-dachpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypholoma_lateritium_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,22 +69,6 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 {% include abbildung_ende.html %}
 
 11.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kleine Schuppenporling *Polyporus tuberaster*. Man kann ihn als Geheimtip für Gourmets bezeichnen, leider mit einem Haken. Nur junge Exemplare sind zart genug, um als Leckerbissen in der Pfanne zu landen. Er wird auch Sklerotienporling genannt. Was ein *Sklerotium* ist und einiges mehr über diesen interessanten Pilz [erfahren Sie hier >](/pilze/polyporus-tuberaster-sklerotienporling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bolbitius_titubans_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.05.2025: Ein bildhübscher Pilz und Dung oder Mist müssen nicht unbedingt unvereinbar sein. Es gibt so viele Pilze, die dieses etwas anrüchige Substrat bevorzugen und trotzdem gefallen. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Goldmistpilz *Bolbitius titubans*. Seine anmutige Gestalt und die goldgelbe Farbe machen ihn zu einer attraktiven Erscheinung, die besonders an Wegrändern immer wieder auffällt. Schon nach wenigen Tagen verblasst seine Schönheit, aber das ist nicht nur bei den Pilzen ein Symptom des Alterns. (Dieter Gewalt) [Mehr lesen >](/pilze/bolbitius-titubans-goldmistpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/steinpilz_pfifferling_dg.png" %}
-{% include abbildung_ende.html %}
-
-09.05.2025: Pilzfreund Stefan meldet aus dem Main-Kinzig-Kreis im Pilzticker Hessen: „Gerade erst aus der Schweiz vom Spitzmorcheln sammeln zurück… Wurde schon ein Sommersteinpilz gefunden? Falls nicht, dann kommt der Erstfund dieses Jahr aus Hessen… Meine geliebten Pfifferlinge sind ebenfalls schon erschienen…“ Daher gibt es heute zum ersten Mal und ausnahmsweise zwei aktuelle [Fundkorbpilze](AA "Glossar-"), den [Sommersteinpilz Boletus reticulatus](/pilze/boletus-reticulatus-sommersteinpilz) und den [Pfifferling *Cantharellus cibarius*](/pilze/cantharellus-cibarius-pfifferling). Das beigefügte Foto stammt <ins>nicht</ins> vom aktuellen Fund, sondern aus meinem Archiv. (Dieter Gewalt)
 
 <div style="clear:  both"></div>
 
