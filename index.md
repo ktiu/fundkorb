@@ -15,6 +15,14 @@ footer_scripts:
 Einen neuen Exkursionstermin gibt's in Kürze.
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hydropus_subalpinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.05.2025: Auch wenn er in der gängigen Pilzliteratur kaum erwähnt wird, unser aktueller [Fundkorbpilz](AA "Glossar-"), der Buchenwald-Wasserfuß *Hydropus subalpinus*, ist nicht selten. Auf der Verbreitungskarte der DgfM ist er mit über 3300 Fundmeldungen (Stand 05.2025) gut vertreten. Einfach zu bestimmen ist dieser kleine Blätterpilz, der hauptsächlich auf toten Laubholzästchen wächst, dennoch nicht. Zwei Merkmale können bei der Bestimmung helfen. Ein nach oben ruckartiges Abziehen des Hutes, zurück bleibt ein „Knopf“ auf der Stielspitze (ähnlich dem [Knopfstieligen Rübling](/pilze/gymnopus-confluens-knopfstieliger-rübling)), und eine weiß-striegelige Stielbasis. (Johann Rejek) [Mehr lesen >](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)
+
+<div style="clear:  both"></div>
+
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_cervinus_02_dg.jpg" %}
@@ -61,14 +69,6 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 {% include abbildung_ende.html %}
 
 12.05.2025: Tintlinge stehen in vier deutlich voneinander unterschiedenen Gattungen, von denen die Scheibchentintlinge durch sehr grazile, zerbrechliche aber durchaus hübsche Hütchen und nahezu fadendünne Stiele auffallen. Sie sind sehr kurzlebig und ihre Hüte zerfließen <ins>nicht</ins> zu Tinte. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gemeine Scheibchentintling *Parasola plicatilis*, eine sehr häufige, gern gesellig an Wegrändern wachsende Art. (Dieter Gewalt) [Mehr lesen >](/pilze/parasola-plicatilis-gemeiner-scheibchentintling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_tuberaster_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kleine Schuppenporling *Polyporus tuberaster*. Man kann ihn als Geheimtip für Gourmets bezeichnen, leider mit einem Haken. Nur junge Exemplare sind zart genug, um als Leckerbissen in der Pfanne zu landen. Er wird auch Sklerotienporling genannt. Was ein *Sklerotium* ist und einiges mehr über diesen interessanten Pilz [erfahren Sie hier >](/pilze/polyporus-tuberaster-sklerotienporling) 
 
 <div style="clear:  both"></div>
 
