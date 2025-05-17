@@ -24,6 +24,7 @@ Im Gegensatz zu seinem optischen (makroskopischen) Erscheinungsbild ist er aufgr
 
 Nachtrag: Wie ich inzwischen beobachtet habe, hat der Buchenwald-Wasserfuß wohl doch ein gutes in der Praxis anwendbares makroskopisches Merkmal: Wenn man den Hut mit einem Ruck nach oben vom Stiel abzieht, bleibt an der Stielspitze ein auffälliges "Knöpfchen" zurück, wie wir es vom [Knopfstieligen Rübling](/pilze/gymnopus-confluens-knopfstieliger-rübling) *Gymnopus confluens* kennen. Von Bernd Miggel kommt noch der Hinweis, auf die weiß-striegelige wurzelnde Stielbasis zu achten.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/hydropus_subalpinus_03_dg.jpg" %}
-{% include abbildung_ende.html legende="Knopfstieliger Buchenwald-Wasserfuß (Stielspitze nach Abziehen des Hütchens)" %}
+{% include bild.html datei="/bilder/hydropus_subalpinus_04_jr.jpg" %}
+{% include abbildung_ende.html legende="linkes Foto: Knopfstieliger Buchenwald-Wasserfuß (Stielspitze nach Abziehen des Hütchens), rechtes Foto Johann Rejek: Fruchtkörper mit striegeliger Stielbasis (25.03.2025, Taubenberg)" %}
