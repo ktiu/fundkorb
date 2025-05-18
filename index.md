@@ -20,7 +20,7 @@ Einen neuen Exkursionstermin gibt's, wenn's mal wieder ausreichend geregnet hat.
 {% include bild.html datei="/bilder/epichloe_typhina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-19.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gras-Kernpilz Epichloe typhina. Er bildet an lebenden Gräsern weißliche bis hellgrüne manschettenartige Überzüge, die sich später goldgelb bis orange verfärben. Passend zu diesen Eigenschaften wird er auch Orangefarbener Manschettenpilz genannt. Von seinen Sporen und [Hyphen ](Hyphen "Glossar")ernähren sich kleine Fliegen und deren Larven. Wer auf ihn achtet, wird diesen Pilz vermutlich fast überall finden können.  (Dieter Gewalt) [Mehr lesen  >](/pilze/epichloe-typhina-gras-kernpilz)
+19.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gras-Kernpilz *Epichloe typhina*. Er bildet an lebenden Gräsern weißliche bis hellgrüne manschettenartige Überzüge, die sich später goldgelb bis orange verfärben. Passend zu diesen Eigenschaften wird er auch Orangefarbener Manschettenpilz genannt. Von seinen Sporen und [Hyphen ](Hyphen "Glossar")ernähren sich kleine Fliegen und deren Larven. Wer auf ihn achtet, wird diesen Pilz vermutlich fast überall finden können.  (Dieter Gewalt) [Mehr lesen  >](/pilze/epichloe-typhina-gras-kernpilz)
 
 <div style="clear:  both"></div>
 
