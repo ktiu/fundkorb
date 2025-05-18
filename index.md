@@ -12,9 +12,18 @@ footer_scripts:
 
 - - -
 
-Einen neuen Exkursionstermin gibt's in Kürze.
+Einen neuen Exkursionstermin gibt's, wenn's mal wieder ausreichend geregnet hat.
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/epichloe_typhina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gras-Kernpilz Epichloe typhina. Er bildet an lebenden Gräsern weißliche bis hellgrüne manschettenartige Überzüge, die sich später goldgelb bis orange verfärben. Passend zu diesen Eigenschaften wird er auch Orangefarbener Manschettenpilz genannt. Von seinen Sporen und [Hyphen ](Hyphen "Glossar")ernähren sich kleine Fliegen und deren Larven. Wer auf ihn achtet, wird diesen Pilz vermutlich fast überall finden können.  (Dieter Gewalt) [Mehr lesen  >](/pilze/epichloe-typhina-gras-kernpilz)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hydropus_subalpinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -22,7 +31,6 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 18.05.2025: Auch wenn er in der gängigen Pilzliteratur kaum erwähnt wird, ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Buchenwald-Wasserfuß *Hydropus subalpinus*, nicht selten. Auf der Verbreitungskarte der DGfM ist er mit über 3300 Fundmeldungen (Stand 05.2025) gut vertreten. Einfach zu bestimmen ist dieser kleine Blätterpilz, der hauptsächlich auf toten Laubholzästchen wächst, dennoch nicht. Zwei Merkmale können bei der Bestimmung helfen. Ein nach oben ruckartiges Abziehen des Hutes, zurück bleibt ein „Knopf“ auf der Stielspitze (ähnlich dem [Knopfstieligen Rübling](/pilze/gymnopus-confluens-knopfstieliger-rübling)), und eine weiß-striegelige Stielbasis. (Johann Rejek) [Mehr lesen >](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)
 
 <div style="clear:  both"></div>
-
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_cervinus_02_dg.jpg" %}
@@ -53,22 +61,6 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 {% include abbildung_ende.html %}
 
 14.05.2025: Früh im Jahr erscheinende Helmlinge gibt es etliche, aber nur einer wird „voreilend“ genannt: unser aktueller [Fundkorbpilz](AA "Glossar-"), der Voreilende Helmling *Mycena abramsii*. Seine Haupterscheinungszeit ist April bis Juli, er kann aber auch noch im November gefunden werden. Gern an Stümpfen, aber auch an vergrabenem Holz und dann scheinbar am Boden. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-abramsii-voreilender-helmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/entoloma_clypeatum_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.05.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schildrötling *Entoloma clypeatum*, kommt diesmal aus dem Münchner Umland. Circa 20 Fruchtkörper in kleinen Gruppierungen wuchsen in unmittelbarer Nähe von wild wachsenden Birnbäumen. Wie einige andere Rötlingsarten ist auch der Schildrötling an Rosengewächsen zu finden. Er zählt zwar zu den essbaren Pilzen, sollte aber nur von erfahrenen Pilzsammlern für Speisezwecke gesammelt werden. Zu groß ist die Gefahr ihn mit anderen giftigen Rötlingen zu verwechseln. (Johann Rejek) [Mehr lesen >](/pilze/entoloma-clypeatum-schildrötling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/parasola_plicatilis_02_km.jpg" %}
-{% include abbildung_ende.html %}
-
-12.05.2025: Tintlinge stehen in vier deutlich voneinander unterschiedenen Gattungen, von denen die Scheibchentintlinge durch sehr grazile, zerbrechliche aber durchaus hübsche Hütchen und nahezu fadendünne Stiele auffallen. Sie sind sehr kurzlebig und ihre Hüte zerfließen <ins>nicht</ins> zu Tinte. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gemeine Scheibchentintling *Parasola plicatilis*, eine sehr häufige, gern gesellig an Wegrändern wachsende Art. (Dieter Gewalt) [Mehr lesen >](/pilze/parasola-plicatilis-gemeiner-scheibchentintling)
 
 <div style="clear:  both"></div>
 
