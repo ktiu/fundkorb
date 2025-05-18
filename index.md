@@ -19,7 +19,7 @@ Einen neuen Exkursionstermin gibt's in Kürze.
 {% include bild.html datei="/bilder/hydropus_subalpinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-18.05.2025: Auch wenn er in der gängigen Pilzliteratur kaum erwähnt wird, unser aktueller [Fundkorbpilz](AA "Glossar-"), der Buchenwald-Wasserfuß *Hydropus subalpinus*, ist nicht selten. Auf der Verbreitungskarte der DgfM ist er mit über 3300 Fundmeldungen (Stand 05.2025) gut vertreten. Einfach zu bestimmen ist dieser kleine Blätterpilz, der hauptsächlich auf toten Laubholzästchen wächst, dennoch nicht. Zwei Merkmale können bei der Bestimmung helfen. Ein nach oben ruckartiges Abziehen des Hutes, zurück bleibt ein „Knopf“ auf der Stielspitze (ähnlich dem [Knopfstieligen Rübling](/pilze/gymnopus-confluens-knopfstieliger-rübling)), und eine weiß-striegelige Stielbasis. (Johann Rejek) [Mehr lesen >](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)
+18.05.2025: Auch wenn er in der gängigen Pilzliteratur kaum erwähnt wird, ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Buchenwald-Wasserfuß *Hydropus subalpinus*, nicht selten. Auf der Verbreitungskarte der DGfM ist er mit über 3300 Fundmeldungen (Stand 05.2025) gut vertreten. Einfach zu bestimmen ist dieser kleine Blätterpilz, der hauptsächlich auf toten Laubholzästchen wächst, dennoch nicht. Zwei Merkmale können bei der Bestimmung helfen. Ein nach oben ruckartiges Abziehen des Hutes, zurück bleibt ein „Knopf“ auf der Stielspitze (ähnlich dem [Knopfstieligen Rübling](/pilze/gymnopus-confluens-knopfstieliger-rübling)), und eine weiß-striegelige Stielbasis. (Johann Rejek) [Mehr lesen >](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)
 
 <div style="clear:  both"></div>
 
