@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-Einen neuen Exkursionstermin gibt's, wenn's mal wieder ausreichend geregnet hat.
+Neue Exkursionstermin gibt's, wenn's mal wieder ausreichend geregnet hat.
 
 - - -
 
