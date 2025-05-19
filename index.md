@@ -12,9 +12,17 @@ footer_scripts:
 
 - - -
 
-Neue Exkursionstermin gibt's, wenn's mal wieder ausreichend geregnet hat.
+Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_varius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-")  ist der Löwengelbe Porling *Polyporus varius*, der jetzt *Cerioporus leptocephalus* heißen soll. Er ist einer der häufigsten mehr oder weniger zentral gestielten Porlinge und besiedelt gern dünnere Ästchen. Löwengelber Hut und schlanker zum Teil schwarz gefärbter Stiel sind die Merkmale dieser recht kleinen Pilzart.  Die Poren sind sehr fein und mit bloßem Auge kaum wahrnehmbar. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-varius-löwengelber-porling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/epichloe_typhina_01_dg.jpg" %}
