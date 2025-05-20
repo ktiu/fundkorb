@@ -17,6 +17,14 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pisolithus_arhizus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.05.2025: Unterwegs auf dem 300 km langen Wanderweg *Via Algarviana* in Portugal haben wir gelegentlich auch nach Pilzen Ausschau gehalten und mehrere Erbsenstreulinge (*Pisolithus arhizus*) entdeckt! Dieser Fund soll nicht unerwähnt bleiben und ich melde ihn daher als aktuellen [Fundkorbpilz](AA "Glossar-"). Der so ähnlich wie ein Kartoffenbovist aussehende Bauchpilz zeigt erst aufgeschnitten seinen besonderen Reiz und soll weltweit verbreitet sein. In Deutschland habe ich ihn noch nie gesehen. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/pisolithus-arhizus-erbsenstreuling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_varius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
