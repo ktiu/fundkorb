@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-20.05.2025: [Polyporus varius - Löwengelber Porling](/pilze/polyporus-varius-löwengelber-porling)  
+21.05.2025: [Pisolithus arhizus - Erbsenstreuling](/pilze/pisolithus-arhizus-erbsenstreuling)  
+20.05.2025: [Polyporus varius - Löwengelber Porling](/pilze/polyporus-varius-löwengelber-porling)\
 19.05.2025: [Epichloe typhina - Gras-Kernpilz](/pilze/epichloe-typhina-gras-kernpilz)\
 18.05.2025: [Hydropus subalpinus - Buchenwald-Wasserfuss](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)\
 17.05.2025: [Pluteus cervinus - Rehbrauner Dachpilz](/pilze/pluteus-cervinus-rehbrauner-dachpilz)\
