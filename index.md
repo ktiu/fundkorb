@@ -15,6 +15,14 @@ footer_scripts:
 Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/megacollybia_platyphylla_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.05.2025: Auch einer der häufigsten Blätterpilze um diese Jahreszeit, der Breitblättrige Holzrübling *Megacollybia platyphylla* ist aufgrund der anhaltenden Trockenheit nur vereinzelt zu finden. Mit etwas Glück fand ich ihn in der Wetterau (Hessen), und somit ist er unser aktueller [Fundkorbpilz](AA "Glossar-"). Typisch für den meistens auf vergrabenem Laubholz wachsenden Pilz sind die langen Myzelstränge, das recht dünne Hutfleisch und der radialfaserige, im Alter oft eingerissene Hut. (Johann Rejek) [Mehr lesen >](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)
+
+<div style="clear:  both"></div>
+
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pisolithus_arhizus_03_dg.jpg" %}
