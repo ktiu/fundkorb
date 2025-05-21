@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: platyphylla = breitblättrig
   synonym: "Neuer Name: Clitocybula platyphylla"
 profil:
-  aktualisiert: 2020-08-09
+  aktualisiert: 2025-05-22
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
