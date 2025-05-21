@@ -25,7 +25,8 @@ Die Hüte erreichen etwa 12 cm Durchmesser und sind von grauer bis graubrauner F
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/megacollybia_platyphylla_03_dg.jpg" %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/megacollybia_platyphylla_06_jr.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Rechets Foto: Johann Rejek, Fruchtkörper mit langen Myzelsträngen (19.05.2025, Florstadt-Hessen)" %}
 
 Anfänger verwechseln ihn desöfteren mit dem [Rehbraunen Dachpilz](/pilze/pluteus-cervinus-rehbrauner-dachpilz) (Pluteus cervinus), der nur jung weiße, aber dichter stehende Lamellen hat, die sich bald durch ihr rosafarbenes Sporenpulver ebenfalls rosa färben. Dieser wächst auf am Boden liegenden morschem Holz, ist essbar, kann wegen seines etwas muffigen Geschmacks aber nicht für die Küche empfohlen werden.
 
