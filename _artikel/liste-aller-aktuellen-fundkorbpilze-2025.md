@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+22.05.2025: [Megacollybia platyphylla - Breitblatt, Breitblättriger Holzrübling](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)  
 21.05.2025: [Pisolithus arhizus - Erbsenstreuling](/pilze/pisolithus-arhizus-erbsenstreuling)  
 20.05.2025: [Polyporus varius - Löwengelber Porling](/pilze/polyporus-varius-löwengelber-porling)\
 19.05.2025: [Epichloe typhina - Gras-Kernpilz](/pilze/epichloe-typhina-gras-kernpilz)\
