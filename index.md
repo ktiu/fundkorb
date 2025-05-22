@@ -64,22 +64,6 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pluteus_cervinus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.05.2025: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist der Rehbraune Dachpilz *Pluteus cervinus*. Keine Überraschung zu diesem Zeitpunkt, denn er gehört zu den schon früh im Jahr erscheinenden Blätterpilzen. Dachpilze sind leicht zu erkennen. Sie haben freie, rosa verfärbende Lamellen, die nicht bis an den Stiel heranreichen, jedoch keine häutige Scheide am Stiel. Die meisten Arten wachsen an Holz und sind nicht immer leicht zu unterscheiden. Der Rehbraune ist jedenfalls der mit Abstand häufigste, aber nicht besonders schmackhaft. (Dieter Gewalt) [Mehr lesen >](/pilze/pluteus-cervinus-rehbrauner-dachpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypholoma_lateritium_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ziegelrote Schwefelkopf *Hypholoma lateritium*. Die Art ist eine von drei Schwefelköpfen, die man zwar leicht verwechseln, bei genauerem Hinschauen oder durch eine Geschmacksprobe aber ganz gut unterscheiden kann. Nur eine davon taugt für die Küche. (Dieter Gewalt) [Wie man sie auseinanderhalten kann, erfahren Sie hier >](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)
-
-<div style="clear:  both"></div>
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2025](/artikel/liste-aller-aktuellen-fundkorbpilze-2025.html)
