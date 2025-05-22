@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: cylindracea = zylindrisch
 profil:
   aktualisiert: 2025-05-13
-  autor_in: Tubariaceae
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
   datei: /bilder/agrocybe_cylindracea_01_dg.jpg
