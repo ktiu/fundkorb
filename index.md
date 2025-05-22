@@ -15,6 +15,15 @@ footer_scripts:
 Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lecidella_elaeochroma_01_lh.jpeg" %}
+{% include abbildung_ende.html %}
+
+23.05.2025: Streuobstwiesen sind wahre Fundgruben für Flechten. Eine für dieses Habitat typische Art ist die Olivgrüne Schwarznapfflechte *Lecidella elaeochroma*, unser aktueller [Fundkorbpilz](AA "Glossar-").Wir haben sie auf dünneren Ästen von mehreren Apfelbäumen zusammen mit der Hellen Kuchenflechte und der Gewöhnlichen Gelbflechte gesehen. Sie besitzt schwarze [Apothecien](<Apothecien "Glossar">), die man ohne Lupe bestenfalls als schwarze Pünktchen erkennen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/megacollybia_platyphylla_02_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -22,7 +31,6 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 22.05.2025: Auch einer der häufigsten Blätterpilze um diese Jahreszeit, der Breitblättrige Holzrübling *Megacollybia platyphylla* ist aufgrund der anhaltenden Trockenheit nur vereinzelt zu finden. Mit etwas Glück fand ich ihn in der Wetterau (Hessen), und somit ist er unser aktueller [Fundkorbpilz](AA "Glossar-"). Typisch für den meistens auf vergrabenem Laubholz wachsenden Pilz sind die langen Myzelstränge, das recht dünne Hutfleisch und der radialfaserige, im Alter oft eingerissene Hut. (Johann Rejek) [Mehr lesen >](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)
 
 <div style="clear:  both"></div>
-
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pisolithus_arhizus_03_dg.jpg" %}
@@ -69,22 +77,6 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 {% include abbildung_ende.html %}
 
 16.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ziegelrote Schwefelkopf *Hypholoma lateritium*. Die Art ist eine von drei Schwefelköpfen, die man zwar leicht verwechseln, bei genauerem Hinschauen oder durch eine Geschmacksprobe aber ganz gut unterscheiden kann. Nur eine davon taugt für die Küche. (Dieter Gewalt) [Wie man sie auseinanderhalten kann, erfahren Sie hier >](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/kuehneromyces_mutabilis_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.05.2025: Der Regen vor ein paar Tagen rund um München war ausreichend genug für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Stockschwämmchen *Kuehneromyces mutabilis*. Von oben betrachtet sieht dieser büschelig an Totholz (meistens Laubholz) wachsende Speisepilz dem tödlich giftigen Gift-Häubling *[Galerina marginata](/pilze/galerina-marginata-gifthäubling)* täuschend ähnlich. Mitunter können sie sogar am selben Holz wachsen! Auch erfahrene Pilzsammler sollten alle bestimmungsrelevanten Merkmale prüfen, bevor die Pilze in der Pfanne landen. (Johann Rejek) [Mehr lesen >](/pilze/kuehneromyces-mutabilis-stockschwämmchen)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_abramsii_03_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-14.05.2025: Früh im Jahr erscheinende Helmlinge gibt es etliche, aber nur einer wird „voreilend“ genannt: unser aktueller [Fundkorbpilz](AA "Glossar-"), der Voreilende Helmling *Mycena abramsii*. Seine Haupterscheinungszeit ist April bis Juli, er kann aber auch noch im November gefunden werden. Gern an Stümpfen, aber auch an vergrabenem Holz und dann scheinbar am Boden. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-abramsii-voreilender-helmling)
 
 <div style="clear:  both"></div>
 
