@@ -96,7 +96,7 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 
 - - -
 
-#### Neu im Fundkorb:
+#### Interessante Pilze im Fundkorb:
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/geopora_-cooperi_07_wi.jpg" %}
