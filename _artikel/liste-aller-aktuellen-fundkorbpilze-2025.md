@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-23.05.2025: [Lecidella elaeochroma - Olivgrüne Schwarznapfflechte](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)  
+24.05.2025: [Taphrina deformans - Pfirsisch-Kräuselkrankheit](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)  
+23.05.2025: [Lecidella elaeochroma - Olivgrüne Schwarznapfflechte](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)\
 22.05.2025: [Megacollybia platyphylla - Breitblatt, Breitblättriger Holzrübling](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)\
 21.05.2025: [Pisolithus arhizus - Erbsenstreuling](/pilze/pisolithus-arhizus-erbsenstreuling)\
 20.05.2025: [Polyporus varius - Löwengelber Porling](/pilze/polyporus-varius-löwengelber-porling)\
