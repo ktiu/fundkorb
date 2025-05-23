@@ -17,6 +17,14 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/taphrina_deformans_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.05.2025: Ab und zu wird auch mal ein [Phytoparasit](Phytoparasiten "Glossar") aktueller [Fundkorbpilz](AA "Glossar-") des Tages. Es ist eine an manchen Pfirsischbäumen erscheinende Art, die *Taphrina deformans* (Pfirsisch-Kräuselkrankheit) genannt wird. Sie deformiert Blätter, Triebe oder Früchte und färbt sie hellgrün, gelblich oder auch rot, richtet aber weiter keinen Schaden an. Befallene Pfirsiche sollte man besser nicht mehr essen. Taphrina-Arten gehören zu den Schlauchpilzen ([Ascomyzeten](Ascomyzeten "Glossar")). (Dieter Gewalt) [Mehr lesen >](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lecidella_elaeochroma_01_lh.jpeg" %}
 {% include abbildung_ende.html %}
 
