@@ -21,7 +21,7 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 {% include abbildung_ende.html %}
 
 25.05.2025: Unterwegs auf der *Via Algarviana* in Portugal haben wir weder pilzkundliche Literatur noch ein Mikroskop bei uns, aber den Fundkorbpilz *Stereum hirsutum* kann man auch ohne diese Hilfsmittel erkennen. Der Striegelige Schichtpilz ist wohl überall in Europa zu finden und auf unserem Wanderweg ist er uns schon mehrfach begegnet. Das Totholz, an dem sie wuchsen, konnten wir allerdings nicht identifizieren. Siehe auch aktueller Fundkorbpilz vom 21.05.2025. (Dr. Kanya Götsch) 
-Mehr lesen >
+[Mehr lesen >](/pilze/stereum-hirsutum-striegeliger-schichtpilz)
 
 <div style="clear:  both"></div>
 
