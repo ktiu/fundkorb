@@ -14,7 +14,8 @@ hauptbild:
   datei: /bilder/lopharia_spadicea_01_dg.jpg
 literatur:
   - url: http://aphyllopower.blogspot.com/2006/08/
-    text: "Wrner Pohl: Aphyllopower.blogspot (Nr. 14)"
+    text: "Werner Pohl: Aphyllopower.blogspot (Nr. 14)"
+  - {}
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/lopharia_spadicea_01_dg.jpg" nocrop=true %}
