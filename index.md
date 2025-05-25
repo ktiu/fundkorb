@@ -17,6 +17,14 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/seifertia_azaleae_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.05.2025: Was kann man an Pilzen bei anhaltender Trockenheit noch finden? In unserer Dietzenbacher Parkanlage ist es quasi vor der Haustür eine Art, die vorjährige Rhododendron-Knospen befällt und schwärzt. Auf ihnen bildet unser aktueller [Fundkorbpilz](AA "Glossar-") *Seifertia azaleae* winzige stäbchenförmige Fruchtkörper, die man nur mit der Lupe deutlich sehen kann. Sie schaden der Pflanze nur insofern als die befallenen Knospen keine Blüten mehr bilden. (Dieter Gewalt) [Mehr lesen >](/pilze/seifertia-azaleae)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_hirsutum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -62,22 +70,6 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 {% include abbildung_ende.html %}
 
 20.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-")  ist der Löwengelbe Porling *Polyporus varius*, der jetzt *Cerioporus leptocephalus* heißen soll. Er ist einer der häufigsten mehr oder weniger zentral gestielten Porlinge und besiedelt gern dünnere Ästchen. Löwengelber Hut und schlanker zum Teil schwarz gefärbter Stiel sind die Merkmale dieser recht kleinen Pilzart.  Die Poren sind sehr fein und mit bloßem Auge kaum wahrnehmbar. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-varius-löwengelber-porling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/epichloe_typhina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gras-Kernpilz *Epichloe typhina*. Er bildet an lebenden Gräsern weißliche bis hellgrüne manschettenartige Überzüge, die sich später goldgelb bis orange verfärben. Passend zu diesen Eigenschaften wird er auch Orangefarbener Manschettenpilz genannt. Von seinen Sporen und [Hyphen ](Hyphen "Glossar")ernähren sich kleine Fliegen und deren Larven. Wer auf ihn achtet, wird diesen Pilz vermutlich fast überall finden können.  (Dieter Gewalt) [Mehr lesen  >](/pilze/epichloe-typhina-gras-kernpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hydropus_subalpinus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.05.2025: Auch wenn er in der gängigen Pilzliteratur kaum erwähnt wird, ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Buchenwald-Wasserfuß *Hydropus subalpinus*, nicht selten. Auf der Verbreitungskarte der DGfM ist er mit über 3300 Fundmeldungen (Stand 05.2025) gut vertreten. Einfach zu bestimmen ist dieser kleine Blätterpilz, der hauptsächlich auf toten Laubholzästchen wächst, dennoch nicht. Zwei Merkmale können bei der Bestimmung helfen. Ein nach oben ruckartiges Abziehen des Hutes, zurück bleibt ein „Knopf“ auf der Stielspitze (ähnlich dem [Knopfstieligen Rübling](/pilze/gymnopus-confluens-knopfstieliger-rübling)), und eine weiß-striegelige Stielbasis. (Johann Rejek) [Mehr lesen >](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)
 
 <div style="clear:  both"></div>
 
