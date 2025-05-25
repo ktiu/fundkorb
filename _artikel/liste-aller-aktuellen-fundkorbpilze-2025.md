@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-25.05.2025: [Stereum hirsutum - Striegeliger Schichtpilz](/pilze/stereum-hirsutum-striegeliger-schichtpilz)  
-24.05.2025: [Taphrina deformans - Pfirsisch-Kräuselkrankheit](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)  
+26.05.2025: [Seifertia azaleae](/pilze/seifertia-azaleae)  
+25.05.2025: [Stereum hirsutum - Striegeliger Schichtpilz](/pilze/stereum-hirsutum-striegeliger-schichtpilz)\
+24.05.2025: [Taphrina deformans - Pfirsisch-Kräuselkrankheit](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)\
 23.05.2025: [Lecidella elaeochroma - Olivgrüne Schwarznapfflechte](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)\
 22.05.2025: [Megacollybia platyphylla - Breitblatt, Breitblättriger Holzrübling](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)\
 21.05.2025: [Pisolithus arhizus - Erbsenstreuling](/pilze/pisolithus-arhizus-erbsenstreuling)\
