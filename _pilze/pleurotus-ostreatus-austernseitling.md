@@ -97,12 +97,9 @@ Bei oberflächlicher Betrachtung wären auch Verwechslungen mit dem essbaren Ril
 
 Bei gekauften Austernseitlingen wird oft die etwas zähe Konsistenz der Pilze bemängelt. Das ist nicht verwunderlich, denn wegen des höheren Profits lässt man in den Zuchtbetrieben die Pilze relativ groß werden. Wer sie in der Natur sammelt und nur junge Exemplare mitnimmt, wird deren Zartheit zu schätzen wissen.
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/pleurotus_ostreatus_06_dg.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/pleurotus_ostreatus_07_uw.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/pleurotus_ostreatus_08_dg.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="2 Fotos: Ulrike Wegner" %}
 
 Austernseitlinge kann man auch sehr gut im eigenen Garten oder auf dem Balkon wachsen lassen. Pilzbrut zum Beimpfen von Hölzern oder fertige Substratmischungen werden vielfach im Internet angeboten. Amazon ist natürlich auch dabei, aber Fachkompetenz wird man dort sicher nicht erwarten können.
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/pleurotus_ostreatus_07_dg.jpg" %}
-{% include abbildung_ende.html %}
