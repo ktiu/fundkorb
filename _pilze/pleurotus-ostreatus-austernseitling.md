@@ -20,7 +20,7 @@ Für Gourmets ist er der Winterpilz schlechthin. So manchem hat er schon nach ei
 {% include bild.html datei="/bilder/pleurotus_ostreatus_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
-Den meisten Supermarktkunden ist er als Austernpilz bekannt, aber das ist sein Handelsname und die dort angebotene Ware stammt aus Zuchtbetrieben. Korrekt muss er Austernseitling heißen, denn er gehört zur Gattung der Seitlinge. Das erscheint plausibel, denn die Pilze wachsen vorzugsweise seitlich an Holz und haben seitlich am Hut ansitzende verkürzte Stiele mit weit herablaufenden Lamellen. Fruchtkörper, die auf Schnittflächen von Stümpfen wachsen, sind dagegen meist zentral gestielt.
+Den meisten Supermarktkunden ist er als Austernpilz bekannt, aber das ist sein Handelsname und die dort angebotene Ware stammt aus Zuchtbetrieben. Korrekt muss er Austernseitling heißen, denn er gehört zur Gattung der Seitlinge. Das erscheint plausibel, denn die Pilze wachsen vorzugsweise seitlich an Holz und haben seitlich am Hut ansitzende verkürzte Stiele mit weit herablaufenden Lamellen. Fruchtkörper, die auf Schnittflächen von Stümpfen oder liegenden Baumstämmen wachsen, sind dagegen meist zentral gestielt.
 
 Wenn die Huthaut so deutlich blau- oder stahlgrau gefärbt ist wie auf den Fotos oben, ist die Zuordnung recht problemlos. Das ist nicht immer der Fall. Die Hutfarben können auch blasser sein, und dann ist er optisch kaum von einem nahen Verwandten, dem Lungenseitling [Pleurotus pulmonarius](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling), zu unterscheiden, der an den gleichen Laubholzarten vorkommt. Hin und wieder findet man sogar beide am gleichen Stamm.
 
