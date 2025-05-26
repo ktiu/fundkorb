@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-26.05.2025: [Seifertia azaleae](/pilze/seifertia-azaleae)  
+27.05.2025: [Pleurotus ostreatus - Austernseitling](/pilze/pleurotus-ostreatus-austernseitling)  
+26.05.2025: [Seifertia azaleae](/pilze/seifertia-azaleae)\
 25.05.2025: [Stereum hirsutum - Striegeliger Schichtpilz](/pilze/stereum-hirsutum-striegeliger-schichtpilz)\
 24.05.2025: [Taphrina deformans - Pfirsisch-Kräuselkrankheit](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)\
 23.05.2025: [Lecidella elaeochroma - Olivgrüne Schwarznapfflechte](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)\
