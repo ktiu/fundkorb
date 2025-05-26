@@ -17,6 +17,14 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pleurotus_ostreatus_07_uw.jpg" %}
+{% include abbildung_ende.html %}
+
+27.05.2025: Regen war angesagt. Aber so gut wie nichts kam davon auf dem Dietzenbacher Waldboden an. Auch ohne Regen hat unser heutiger [Fundkorbpilz](AA "Glossar-"), der Austernseitling *Pleurotus ostreatus*, einen am Boden liegenden Buchenstamm besiedelt. Ein Büschel wanderte sofort in einen Beutel zum Verzehr. Ursprünglich nur bei niedrigen Temperaturen zu finden, benötigt er inzwischen zur Fruktifikation keinen Kältereiz mehr und kommt das gesamte Jahr über vor. (Ulrike Wegner) [Mehr lesen >](/pilze/pleurotus-ostreatus-austernseitling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/seifertia_azaleae_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -62,14 +70,6 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 {% include abbildung_ende.html %}
 
 21.05.2025: Unterwegs auf dem 300 km langen Wanderweg *Via Algarviana* in Portugal haben wir gelegentlich auch nach Pilzen Ausschau gehalten und mehrere Erbsenstreulinge (*Pisolithus arhizus*) entdeckt! Dieser Fund soll nicht unerwähnt bleiben und ich melde ihn daher als aktuellen [Fundkorbpilz](AA "Glossar-"). Der so ähnlich wie ein Kartoffenbovist aussehende Bauchpilz zeigt erst aufgeschnitten seinen besonderen Reiz und soll weltweit verbreitet sein. In Deutschland habe ich ihn noch nie gesehen. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/pisolithus-arhizus-erbsenstreuling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_varius_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-")  ist der Löwengelbe Porling *Polyporus varius*, der jetzt *Cerioporus leptocephalus* heißen soll. Er ist einer der häufigsten mehr oder weniger zentral gestielten Porlinge und besiedelt gern dünnere Ästchen. Löwengelber Hut und schlanker zum Teil schwarz gefärbter Stiel sind die Merkmale dieser recht kleinen Pilzart.  Die Poren sind sehr fein und mit bloßem Auge kaum wahrnehmbar. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-varius-löwengelber-porling)
 
 <div style="clear:  both"></div>
 
