@@ -16,6 +16,14 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/lasiosphaeria_ovina_01_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+28.05.2025: Unter den winzigen [Ascomyzeten](Ascomyzeten "Glossar") gibt es nur wenige, die mit einem Blick durch die Lupe sicher erkannt werden können. Zu diesen gehört der aktuelle [Fundkorbpilz](AA "Glossar-"), der Eiförmige Kohlenkugelpilz *Lasiosphaeria ovina*. Die kugeligen bis eiförmigen Fruchtkörper sind weniger als 1 mm groß und ganzjährig auf morschem Holz zu finden. Sie sind komplett von einem weißlich grauen filzigen [Hyphengewebe](Hyphen "Glossar") eingekleidet, in dem lediglich die am Scheitel befindliche Sporenauslassöffnung durch eine dunklere Farbe auffällt. Die einzelnen Fruchtkörper wachsen gesellig bis dicht gedrängt auf ihrem Substrat. (Dieter Gewalt) [Mehr lesen >](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pleurotus_ostreatus_07_uw.jpg" %}
 {% include abbildung_ende.html %}
@@ -36,8 +44,7 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 {% include bild.html datei="/bilder/stereum_hirsutum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-25.05.2025: Unterwegs auf der *Via Algarviana* in Portugal haben wir weder pilzkundliche Literatur noch ein Mikroskop bei uns, aber den Fundkorbpilz *Stereum hirsutum* kann man auch ohne diese Hilfsmittel erkennen. Der Striegelige Schichtpilz ist wohl überall in Europa zu finden und auf unserem Wanderweg ist er uns schon mehrfach begegnet. Das Totholz, an dem sie wuchsen, konnten wir allerdings nicht identifizieren. Siehe auch aktueller Fundkorbpilz vom 21.05.2025. (Dr. Kanya Götsch) 
-[Mehr lesen >](/pilze/stereum-hirsutum-striegeliger-schichtpilz)
+25.05.2025: Unterwegs auf der *Via Algarviana* in Portugal haben wir weder pilzkundliche Literatur noch ein Mikroskop bei uns, aber den Fundkorbpilz *Stereum hirsutum* kann man auch ohne diese Hilfsmittel erkennen. Der Striegelige Schichtpilz ist wohl überall in Europa zu finden und auf unserem Wanderweg ist er uns schon mehrfach begegnet. Das Totholz, an dem sie wuchsen, konnten wir allerdings nicht identifizieren. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/stereum-hirsutum-striegeliger-schichtpilz)
 
 <div style="clear:  both"></div>
 
@@ -54,22 +61,6 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 {% include abbildung_ende.html %}
 
 23.05.2025: Streuobstwiesen sind wahre Fundgruben für Flechten. Eine für dieses Habitat typische Art ist die Olivgrüne Schwarznapfflechte *Lecidella elaeochroma*, unser aktueller [Fundkorbpilz](AA "Glossar-").Wir haben sie auf dünneren Ästen von mehreren Apfelbäumen zusammen mit der Hellen Kuchenflechte und der Gewöhnlichen Gelbflechte gesehen. Sie besitzt schwarze [Apothecien](<Apothecien "Glossar">), die man ohne Lupe bestenfalls als schwarze Pünktchen erkennen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/megacollybia_platyphylla_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.05.2025: Auch einer der häufigsten Blätterpilze um diese Jahreszeit, der Breitblättrige Holzrübling *Megacollybia platyphylla* ist aufgrund der anhaltenden Trockenheit nur vereinzelt zu finden. Mit etwas Glück fand ich ihn in der Wetterau (Hessen), und somit ist er unser aktueller [Fundkorbpilz](AA "Glossar-"). Typisch für den meistens auf vergrabenem Laubholz wachsenden Pilz sind die langen Myzelstränge, das recht dünne Hutfleisch und der radialfaserige, im Alter oft eingerissene Hut. (Johann Rejek) [Mehr lesen >](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pisolithus_arhizus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.05.2025: Unterwegs auf dem 300 km langen Wanderweg *Via Algarviana* in Portugal haben wir gelegentlich auch nach Pilzen Ausschau gehalten und mehrere Erbsenstreulinge (*Pisolithus arhizus*) entdeckt! Dieser Fund soll nicht unerwähnt bleiben und ich melde ihn daher als aktuellen [Fundkorbpilz](AA "Glossar-"). Der so ähnlich wie ein Kartoffenbovist aussehende Bauchpilz zeigt erst aufgeschnitten seinen besonderen Reiz und soll weltweit verbreitet sein. In Deutschland habe ich ihn noch nie gesehen. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/pisolithus-arhizus-erbsenstreuling)
 
 <div style="clear:  both"></div>
 
