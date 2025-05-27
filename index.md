@@ -16,7 +16,7 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lasiosphaeria_ovina_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
