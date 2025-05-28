@@ -17,6 +17,14 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinopsis_atramentaria_01_km.jpg" %}
+{% include abbildung_ende.html %}
+
+29.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der häufige und meist dicht büschelig wachsende Faltentintling *Coprinopsis atramentaria*. Er ist gut an dem aschgrauen und faltig längsgestreiften Hut zu erkennen. Als [Saprobiont](saprobiontisch "Glossar") bezieht er seine Nährstoffe aus totem organischen Material. Man findet diesen Tintling in fast allen Habitaten, er hat keine besonderen Standortansprüche. (Johann Rejek) [Mehr lesen >](/pilze/pilze/coprinopsis-atramentaria-faltentintling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lasiosphaeria_ovina_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
