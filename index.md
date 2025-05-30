@@ -17,6 +17,14 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rhodonia_placenta_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+30.05.2025: Diesen aktuellen [Fundkorbpilz](AA "Glossar-"), den seltenen Rosafarbenen Saftporling *Rhodonia placenta*, habe ich im Naturschutzgebiet Waldmoor-Torfstich bei Oberreichenbach in Baden-Württemberg gefunden. Er befand sich an einem toten aufrecht stehenden Nadelholzteil. Die weißen Fruchtkörper bilden knotenförmige Vorsprünge. In ihrer weiteren Entwicklung ändert sich die Farbe in lachs- bis rosenrot, es entstehen aber niemals abstehende Hutkanten. Die Art ist nahezu ganzjährig zu finden. (Bernd Miggel) [Mehr lesen >](/pilze/rhodonia-placenta-rosafarbener-saftporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinopsis_atramentaria_01_km.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,22 +61,6 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 {% include abbildung_ende.html %}
 
 25.05.2025: Unterwegs auf der *Via Algarviana* in Portugal haben wir weder pilzkundliche Literatur noch ein Mikroskop bei uns, aber den Fundkorbpilz *Stereum hirsutum* kann man auch ohne diese Hilfsmittel erkennen. Der Striegelige Schichtpilz ist wohl überall in Europa zu finden und auf unserem Wanderweg ist er uns schon mehrfach begegnet. Das Totholz, an dem sie wuchsen, konnten wir allerdings nicht identifizieren. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/stereum-hirsutum-striegeliger-schichtpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/taphrina_deformans_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.05.2025: Ab und zu wird auch mal ein [Phytoparasit](Phytoparasiten "Glossar") aktueller [Fundkorbpilz](AA "Glossar-") des Tages. Es ist eine an manchen Pfirsischbäumen erscheinende Art, die *Taphrina deformans* (Pfirsisch-Kräuselkrankheit) genannt wird. Sie deformiert Blätter, Triebe oder Früchte und färbt sie hellgrün, gelblich oder auch rot, richtet aber weiter keinen Schaden an. Befallene Pfirsiche sollte man besser nicht mehr essen. Taphrina-Arten gehören zu den Schlauchpilzen ([Ascomyzeten](Ascomyzeten "Glossar")). (Dieter Gewalt) [Mehr lesen >](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lecidella_elaeochroma_01_lh.jpeg" %}
-{% include abbildung_ende.html %}
-
-23.05.2025: Streuobstwiesen sind wahre Fundgruben für Flechten. Eine für dieses Habitat typische Art ist die Olivgrüne Schwarznapfflechte *Lecidella elaeochroma*, unser aktueller [Fundkorbpilz](AA "Glossar-").Wir haben sie auf dünneren Ästen von mehreren Apfelbäumen zusammen mit der Hellen Kuchenflechte und der Gewöhnlichen Gelbflechte gesehen. Sie besitzt schwarze [Apothecien](<Apothecien "Glossar">), die man ohne Lupe bestenfalls als schwarze Pünktchen erkennen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)
 
 <div style="clear:  both"></div>
 
