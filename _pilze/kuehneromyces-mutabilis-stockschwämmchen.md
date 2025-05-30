@@ -13,7 +13,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/kuehneromyces_mutabilis_01_dg.jpg
 ---
-Das bei vielen Speisepilzsammlern hochgeschätzte Stockschwämmchen ist längst nicht mehr so unbedenklich wie zu Großmutters Zeiten. Grund ist ein sehr ähnlicher Pilz, der Nadelholz-Häubling *[Galerina marginata](/pilze/galerina-marginata-gifthäubling)*, dessen Giftigkeit erst 1963 erkannt worden ist. Er enthält das auch im Grünen Knollenblätterpilz wirkende tödlich giftige Amanitin.
+Das bei vielen Speisepilzsammlern hochgeschätzte Stockschwämmchen ist längst nicht mehr so unbedenklich wie zu Großmutters Zeiten. Grund ist ein sehr ähnlicher Pilz, der Nadelholz-Häubling *[Galerina marginata](/pilze/galerina-marginata-gifthäubling)*, dessen Giftigkeit erst 1963 erkannt worden ist. Er enthält das auch im Grünen Knollenblätterpilz wirkende tödlich giftige Amanitin. Verwechselt werden könnte es auch mit dem [Glattstieligen Stockschwämmchen *Kuehneromyces lignicola*](/pilze/kuehneromyces-lignicola-glattstieliges-stockschwämmchen), das in Nadelwäldern vorkommt und keinesfalls gesammelt werden sollte.  
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/kuehneromyces_mutabilis_02_dg.jpg" %}
