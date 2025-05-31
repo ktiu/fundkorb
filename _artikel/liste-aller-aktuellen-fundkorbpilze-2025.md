@@ -3,9 +3,10 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-30.05.2025: [Rhodonia placenta - Rosafarbener Saftporling](/pilze/rhodonia-placenta-rosafarbener-saftporling)  
-29.05.2025: [Coprinopsis atramentaria - Faltentintling](/pilze/coprinopsis-atramentaria-faltentintling)  
-28.05.2025: [Lasiosphaeria ovina - Eiförmiger Kohlenkugekpilz](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)  
+31.05.2025: [Pycnoporus cinnabarinus - Zinnobertramete](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)  
+30.05.2025: [Rhodonia placenta - Rosafarbener Saftporling](/pilze/rhodonia-placenta-rosafarbener-saftporling)\
+29.05.2025: [Coprinopsis atramentaria - Faltentintling](/pilze/coprinopsis-atramentaria-faltentintling)\
+28.05.2025: [Lasiosphaeria ovina - Eiförmiger Kohlenkugekpilz](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)\
 27.05.2025: [Pleurotus ostreatus - Austernseitling](/pilze/pleurotus-ostreatus-austernseitling)\
 26.05.2025: [Seifertia azaleae](/pilze/seifertia-azaleae)\
 25.05.2025: [Stereum hirsutum - Striegeliger Schichtpilz](/pilze/stereum-hirsutum-striegeliger-schichtpilz)\
