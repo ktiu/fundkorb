@@ -3,6 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+01.06.2025: [Puccinia malvacearum  -Malvenrost](/pilze/puccinia-malvacearum-malvenrost)  
+
 31.05.2025: [Pycnoporus cinnabarinus - Zinnoberrote Tramete](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)  
 30.05.2025: [Rhodonia placenta - Rosafarbener Saftporling](/pilze/rhodonia-placenta-rosafarbener-saftporling)\
 29.05.2025: [Coprinopsis atramentaria - Faltentintling](/pilze/coprinopsis-atramentaria-faltentintling)\
