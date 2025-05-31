@@ -17,6 +17,14 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pycnoporus_cinnabarinus_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+31.05.2025: Trameten gibt es in mehreren Gattungen. Eine davon ist *Pycnoporus* und die dazugehörige Art die Zinnobertramete *Pycnoporus cinnabarinus*, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Dieser hübsche Pilz ist unschwer zu erkennen und kaum mit anderen zu verwechseln. Er ist sogar in der Lage, das bewachsene Holz rötlich zu färben, was allerdings nur selten vorkommt. Sein bevorzugter Wirt ist die Buche, aber ich habe ihn auch schon an totem Kirschen-, Birken- und Eichenholz gefunden. (Dieter Gewalt) [Mehr lesen >](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rhodonia_placenta_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
