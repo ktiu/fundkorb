@@ -17,6 +17,15 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/puccinia_malvacearum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist ein leicht zu bestimmender Rostpilz, wenn man die entsprechende Wirtspflanze kennt. Den Malvenrost *Puccinia malvacearum* kann man mit bloßem Auge erkennen. Er bildet auf den Blättern eine Vielzahl von Sporenlagern, die als gelbliche bis braune Pusteln erscheinen. Im Gegensatz zu vielen anderen Rostpilzen findet beim Malvenrost kein Wirtswechsel statt. (Johann Rejek) [Mehr lesen >](/pilze/puccinia-malvacearum-malvenrost)
+
+<div style="clear:  both"></div>
+
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pycnoporus_cinnabarinus_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,14 +70,6 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 {% include abbildung_ende.html %}
 
 26.05.2025: Was kann man an Pilzen bei anhaltender Trockenheit noch finden? In unserer Dietzenbacher Parkanlage ist es quasi vor der Haustür eine Art, die vorjährige Rhododendron-Knospen befällt und schwärzt. Auf ihnen bildet unser aktueller [Fundkorbpilz](AA "Glossar-") *Seifertia azaleae* winzige stäbchenförmige Fruchtkörper, die man nur mit der Lupe deutlich sehen kann. Sie schaden der Pflanze nur insofern als die befallenen Knospen keine Blüten mehr bilden. (Dieter Gewalt) [Mehr lesen >](/pilze/seifertia-azaleae)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_hirsutum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.05.2025: Unterwegs auf der *Via Algarviana* in Portugal haben wir weder pilzkundliche Literatur noch ein Mikroskop bei uns, aber den Fundkorbpilz *Stereum hirsutum* kann man auch ohne diese Hilfsmittel erkennen. Der Striegelige Schichtpilz ist wohl überall in Europa zu finden und auf unserem Wanderweg ist er uns schon mehrfach begegnet. Das Totholz, an dem sie wuchsen, konnten wir allerdings nicht identifizieren. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/stereum-hirsutum-striegeliger-schichtpilz)
 
 <div style="clear:  both"></div>
 
