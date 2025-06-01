@@ -36,7 +36,7 @@ Es handelt es sich um einen [phytoparasitischen](Phytoparasiten "Glossar") Schla
 
 Verwechslungen mit anderen Spaltlippen können aufgrund der sehr speziellen Fruchtkörperform und -größe und des Substrats Pfeifengras ausgeschlossen werden.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/lophodermium_-apiculatum_03_bm.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/lophodermium_-apiculatum_04_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Hyphenstruktur (Quetschpräparat) -- Sporen in SDS-Kongorot" %}
