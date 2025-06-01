@@ -17,13 +17,20 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinus_lepideus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der  Schuppige Sägeblättling *Lentinus lepideus*. Er wächst vor allem an Totholz der Kiefer, gern an Stümpfen. Neben seinem schuppig aufgerissenen Hut sind die gesägten Lamellenschneiden ein wichtiges Kennzeichen. Da er auch verbautes Nadelholz befallen kann, ist er als Schadpilz einzustufen. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinus-lepideus-schuppiger-sägeblättling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/puccinia_malvacearum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 01.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist ein leicht zu bestimmender Rostpilz, wenn man die entsprechende Wirtspflanze kennt. Den Malvenrost *Puccinia malvacearum* kann man mit bloßem Auge erkennen. Er bildet auf den Blättern eine Vielzahl von Sporenlagern, die als gelbliche bis braune Pusteln erscheinen. Im Gegensatz zu vielen anderen Rostpilzen findet beim Malvenrost kein Wirtswechsel statt. (Johann Rejek) [Mehr lesen >](/pilze/puccinia-malvacearum-malvenrost)
 
 <div style="clear:  both"></div>
-
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pycnoporus_cinnabarinus_02_nk.jpg" %}
@@ -62,14 +69,6 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 {% include abbildung_ende.html %}
 
 27.05.2025: Regen war angesagt. Aber so gut wie nichts kam davon auf dem Dietzenbacher Waldboden an. Auch ohne Regen hat unser heutiger [Fundkorbpilz](AA "Glossar-"), der Austernseitling *Pleurotus ostreatus*, einen am Boden liegenden Buchenstamm besiedelt. Ein Büschel wanderte sofort in einen Beutel zum Verzehr. Ursprünglich nur bei niedrigen Temperaturen zu finden, benötigt er inzwischen zur Fruktifikation keinen Kältereiz mehr und kommt das gesamte Jahr über vor. (Ulrike Wegner) [Mehr lesen >](/pilze/pleurotus-ostreatus-austernseitling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/seifertia_azaleae_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.05.2025: Was kann man an Pilzen bei anhaltender Trockenheit noch finden? In unserer Dietzenbacher Parkanlage ist es quasi vor der Haustür eine Art, die vorjährige Rhododendron-Knospen befällt und schwärzt. Auf ihnen bildet unser aktueller [Fundkorbpilz](AA "Glossar-") *Seifertia azaleae* winzige stäbchenförmige Fruchtkörper, die man nur mit der Lupe deutlich sehen kann. Sie schaden der Pflanze nur insofern als die befallenen Knospen keine Blüten mehr bilden. (Dieter Gewalt) [Mehr lesen >](/pilze/seifertia-azaleae)
 
 <div style="clear:  both"></div>
 
