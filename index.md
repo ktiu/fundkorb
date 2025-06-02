@@ -17,6 +17,14 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phallus_impudicus_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.06.2025: Das ist mal ein aktueller [Fundkorbpilz](AA "Glossar-")! Mitten in unserer Parkanlage und ziemlich gut versteckt hat mir eine Stinkmorchel (*Phallus impudicus*) ihre Anwesenheit an die Nase verraten. Wer mehr über diesen Duftspender erfahren möchte, dem sei unsere Porträtseite empfohlen. Im Hexeneistadium ist er übrigens roh essbar und schmeckt gar nicht übel. (Dieter Gewalt) [Mehr lesen >](/pilze/phallus-impudicus-stinkmorchel)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lentinus_lepideus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,22 +61,6 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 {% include abbildung_ende.html %}
 
 29.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der häufige und meist dicht büschelig wachsende Faltentintling *Coprinopsis atramentaria*. Er ist gut an dem aschgrauen und faltig längsgestreiften Hut zu erkennen. Als [Saprobiont](saprobiontisch "Glossar") bezieht er seine Nährstoffe aus totem organischen Material. Man findet diesen Tintling in fast allen Habitaten, er hat keine besonderen Standortansprüche. (Johann Rejek) [Mehr lesen >](/pilze/coprinopsis-atramentaria-faltentintling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lasiosphaeria_ovina_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-28.05.2025: Unter den winzigen [Ascomyzeten](Ascomyzeten "Glossar") gibt es nur wenige, die mit einem Blick durch die Lupe sicher erkannt werden können. Zu diesen gehört der aktuelle [Fundkorbpilz](AA "Glossar-"), der Eiförmige Kohlenkugelpilz *Lasiosphaeria ovina*. Die kugeligen bis eiförmigen Fruchtkörper sind weniger als 1 mm groß und ganzjährig auf morschem Holz zu finden. Sie sind komplett von einem weißlich grauen filzigen [Hyphengewebe](Hyphen "Glossar") eingekleidet, in dem lediglich die am Scheitel befindliche Sporenauslassöffnung durch eine dunklere Farbe auffällt. Die einzelnen Fruchtkörper wachsen gesellig bis dicht gedrängt auf ihrem Substrat. (Dieter Gewalt) [Mehr lesen >](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pleurotus_ostreatus_07_uw.jpg" %}
-{% include abbildung_ende.html %}
-
-27.05.2025: Regen war angesagt. Aber so gut wie nichts kam davon auf dem Dietzenbacher Waldboden an. Auch ohne Regen hat unser heutiger [Fundkorbpilz](AA "Glossar-"), der Austernseitling *Pleurotus ostreatus*, einen am Boden liegenden Buchenstamm besiedelt. Ein Büschel wanderte sofort in einen Beutel zum Verzehr. Ursprünglich nur bei niedrigen Temperaturen zu finden, benötigt er inzwischen zur Fruktifikation keinen Kältereiz mehr und kommt das gesamte Jahr über vor. (Ulrike Wegner) [Mehr lesen >](/pilze/pleurotus-ostreatus-austernseitling)
 
 <div style="clear:  both"></div>
 
