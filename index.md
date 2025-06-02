@@ -20,7 +20,7 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 {% include bild.html datei="/bilder/phallus_impudicus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-03.06.2025: Das ist mal ein aktueller [Fundkorbpilz](AA "Glossar-")! Mitten in unserer Parkanlage und ziemlich gut versteckt hat mir eine Stinkmorchel (*Phallus impudicus*) ihre Anwesenheit an die Nase verraten. Wer mehr über diesen Duftspender erfahren möchte, dem sei unsere Porträtseite empfohlen. Im Hexeneistadium ist er übrigens roh essbar und schmeckt gar nicht übel. (Dieter Gewalt) [Mehr lesen >](/pilze/phallus-impudicus-stinkmorchel)
+03.06.2025: Das ist mal ein aktueller [Fundkorbpilz](AA "Glossar-")! Mitten in unserer Dietzenbacher Parkanlage und ziemlich gut versteckt im Gebüsch hat mir eine Stinkmorchel (*Phallus impudicus*) ihre Anwesenheit an die Nase verraten. Wer mehr über diesen Duftspender erfahren möchte, dem sei unsere Porträtseite empfohlen. Im Hexeneistadium ist er übrigens roh essbar und schmeckt gar nicht übel. (Dieter Gewalt) [Mehr lesen >](/pilze/phallus-impudicus-stinkmorchel)
 
 <div style="clear:  both"></div>
 
