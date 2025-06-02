@@ -39,7 +39,7 @@ In dieser Familie sind insgesamt 43 Gattungen zusammengefasst, unter denen die S
 
 **Spaltlippen** (*Lophodermium*) sind mit über 140 Arten weltweit die größte Gattung der Rhytismatales. Sie wachsen saprobiontisch oder parasitisch auf toten oder lebenden Pflanzenteilen (z. B. Stängel, Blätter oder Blattstiele). Ihre Fruchtkörper ([Hysterothezien](Hysterothezien "Glossar")) sind in das Wirtsgewebe eingebettet und öffnen sich mit einem lippenförmigen Spalt. Im Fundkorb sind folgende 8 Arten beschrieben und abgebildet:
 
-[Lophodermium apiculatum - Pfeifengras-Spaltlippe](/pilze/lophodermium-apiculatum-pfeifengras-spaltlippe)  
+[Lophodermium apiculatum - Pfeifengras-Spaltlippe](/pilze/lophodermium-apiculatum-pfeifengras-spaltlippe)\
 [Lophodermium arundinaceum](/pilze/lophodermium-arundinaceum-schilf-spaltlippe) - [Schilf-Spaltlippe ](/pilze/lophodermium-arundinaceum-schilf-spaltlippe)\
 [Lophodermium gramineum - Gras-Spaltlippe](/pilze/lophodermium-gramineum-gras-spaltlippe)\
 [Lophodermium paeoniae](/pilze/lophodermium-paeoniae-pfingstrosen-spaltlippe) - [Pfingstrosen-Spaltlippe ](/pilze/lophodermium-paeoniae-pfingstrosen-spaltlippe)\
@@ -50,4 +50,4 @@ In dieser Familie sind insgesamt 43 Gattungen zusammengefasst, unter denen die S
 
 Eine Art Spaltlippe ist auch das [Helle Kiefernnadel-Polsterbecherchen *Cyclaneusma minus*](/pilze/cyclaneusma-minus-helles-kiefernnadel-polsterbecherchen), das vor allem an Nadeln der Schwarzkiefer *Pinus nigra* erscheint und eine Nadelschütte verursacht.
 
-**Schildbecherlinge** (*Colpoma*) bilden eine Gattung mit wenigen an Baumästen wachsenden becher- oder schiffchenförmigen Arten wie dem [Eichen-Schildbecherling Colpoma quercinum](/pilze/colpoma-quercinum-eichen-schildbecherling). Bekanntester Verteter der **Runzelschorfe** ist der bereits erwähnte [Ahorn-Runzelschorf Rhytisma acerinum](/pilze/rhytisma-acerinum-ahorn-runzelschorf).
+**Schildbecherlinge** (*Colpoma*) bilden eine Gattung mit wenigen an Baumästen wachsenden becher- oder schiffchenförmigen Arten wie dem [Eichen-Schildbecherling Colpoma quercinum](/pilze/colpoma-quercinum-eichen-schildbecherling). Bekanntester Verteter der **Runzelschorfe** ist der bereits erwähnte [Ahorn-Runzelschorf Rhytisma acerinum](/pilze/rhytisma-acerinum-ahorn-runzelschorf). An Weidenblättern kann man den [Weiden-Runzelscharf Rhytisma salicinum](/pilze/rhytisma-salicinum-weiden-runzelschorf) finden.
