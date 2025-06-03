@@ -17,6 +17,14 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinus_strigosus_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Borstige Knäueling Lentinus strigosus. Bei den Begriffen "borstig" und "Knäueling" erwartet man nicht gerade einen besonders attraktiven Pilz, aber genau das ist er oder kann es im perfekten Wachstumsstadium zumindest sein. Dabei fühlt er sich keineswegs borstig sondern samtig zart an. Er wächst an toten Stämmen und Stümpfen von Laubbäumen und wird als seltene Art in Roten Listen geführt. In den Wäldern bei Dietzenbach ist er seit einigen Jahren an mehreren Stellen zu finden, meist zu vielen gesellig und bisher ausschließlich an Buche. Selbst sonnenexponierte Standorte scheint er problemlos zu tolerieren. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinus-strigosus-borstiger-knäueling) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phallus_impudicus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,24 +53,6 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 {% include abbildung_ende.html %}
 
 31.05.2025: Trameten gibt es in mehreren Gattungen. Eine davon ist *Pycnoporus* und die dazugehörige Art die Zinnobertramete *Pycnoporus cinnabarinus*, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Dieser hübsche Pilz ist unschwer zu erkennen und kaum mit anderen zu verwechseln. Er ist sogar in der Lage, das bewachsene Holz rötlich zu färben, was allerdings nur selten vorkommt. Sein bevorzugter Wirt ist die Buche, aber ich habe ihn auch schon an totem Kirschen-, Birken- und Eichenholz gefunden. (Dieter Gewalt) [Mehr lesen >](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rhodonia_placenta_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-30.05.2025: Diesen aktuellen [Fundkorbpilz](AA "Glossar-"), den seltenen Rosafarbenen Saftporling *Rhodonia placenta*, habe ich im Naturschutzgebiet Waldmoor-Torfstich bei Oberreichenbach in Baden-Württemberg gefunden. Er befand sich an einem toten aufrecht stehenden Nadelholzteil. Die weißen Fruchtkörper bilden knotenförmige Vorsprünge. In ihrer weiteren Entwicklung ändert sich die Farbe in lachs- bis rosenrot, es entstehen aber niemals abstehende Hutkanten. Die Art ist nahezu ganzjährig zu finden. (Bernd Miggel) [Mehr lesen >](/pilze/rhodonia-placenta-rosafarbener-saftporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinopsis_atramentaria_01_km.jpg" %}
-{% include abbildung_ende.html %}
-
-29.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der häufige und meist dicht büschelig wachsende Faltentintling *Coprinopsis atramentaria*. Er ist gut an dem aschgrauen und faltig längsgestreiften Hut zu erkennen. Als [Saprobiont](saprobiontisch "Glossar") bezieht er seine Nährstoffe aus totem organischen Material. Man findet diesen Tintling in fast allen Habitaten, er hat keine besonderen Standortansprüche. (Johann Rejek) [Mehr lesen >](/pilze/coprinopsis-atramentaria-faltentintling)
-
-<div style="clear:  both"></div>
 
 - - -
 
