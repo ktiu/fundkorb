@@ -20,7 +20,7 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 {% include bild.html datei="/bilder/lentinus_strigosus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-04.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Borstige Knäueling Lentinus strigosus. Bei den Begriffen "borstig" und "Knäueling" erwartet man nicht gerade einen besonders attraktiven Pilz, aber genau das ist er oder kann es im perfekten Wachstumsstadium zumindest sein. Dabei fühlt er sich keineswegs borstig sondern samtig zart an. Er wächst an toten Stämmen und Stümpfen von Laubbäumen und wird als seltene Art in Roten Listen geführt. In den Wäldern bei Dietzenbach ist er seit einigen Jahren an mehreren Stellen zu finden, meist zu vielen gesellig und bisher ausschließlich an Buche. Selbst sonnenexponierte Standorte scheint er problemlos zu tolerieren. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinus-strigosus-borstiger-knäueling) 
+04.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Borstige Knäueling *Lentinus strigosus*. Bei den Begriffen "borstig" und "Knäueling" erwartet man nicht gerade einen besonders attraktiven Pilz, aber genau das ist er oder kann es im perfekten Wachstumsstadium zumindest sein. Dabei fühlt er sich keineswegs borstig sondern samtig zart an. Er wächst an toten Stämmen und Stümpfen von Laubbäumen und wird als seltene Art in Roten Listen geführt. In den Wäldern bei Dietzenbach ist er seit einigen Jahren an mehreren Stellen zu finden, meist zu vielen gesellig und bisher ausschließlich an Buche. Selbst sonnenexponierte Standorte scheint er problemlos zu tolerieren. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinus-strigosus-borstiger-knäueling) 
 
 <div style="clear:  both"></div>
 
