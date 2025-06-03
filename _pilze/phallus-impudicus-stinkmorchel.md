@@ -28,6 +28,8 @@ Zwei Erwähnungen aus dieser Schrift von Mrs. Gwen Raverat, in der sie ihre Erin
 
 Richtig dagegen ist: Meist nimmt die Nase diesen Pilz wahr, bevor ihn das Auge entdeckt. Was unsere Nase als Gestank empfindet, lockt Aasfliegen an, die die Schleimschicht fressen und so die darin enthaltenen Pilzsporen verbreiten.
 
+<br /><br />
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/phallus_impudicus_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
