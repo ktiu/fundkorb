@@ -22,9 +22,9 @@ Wo immer hinter einem wissenschaftlichen Artnamen ein L. erscheint, ist eine bot
 
 Zwei Erwähnungen aus dieser Schrift von Mrs. Gwen Raverat, in der sie ihre Erinnerungen an das Viktorianische Zeitalter im England des 19. Jahrhunderts beschreibt, bedürfen einer ergänzenden Erklärung. Erstens: der unanständige lateinische Pilzname lautet *Phallus impudicus*, was wörtlich und allgemeinverständlich übersetzt *"Schamloser (erigierter) Penis"* bedeutet. Zweitens: Bei der um die Moral der Mädchen besorgten Tante Elly handelt es sich um die Tochter des berühmten Naturwissenschaftlers und Begründers der Evolutionstheorie Charles Darwin, was zeigt, wie nahe im engsten Familienkreis unvoreingenommener Forschergeist und unaufgeklärte Dummheit beieinander wohnen können.
 
-{% include abbildung_start.html stil="fließend" %}
-{% include bild.html datei="/bilder/phallus_impudicus_05_jr.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phallus_impudicus_05_jr.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Foto: Johann Rejek (09.08.2014, Haar bei München)" %}
 
 Richtig dagegen ist: Meist nimmt die Nase diesen Pilz wahr, bevor ihn das Auge entdeckt. Was unsere Nase als Gestank empfindet, lockt Aasfliegen an, die die Schleimschicht fressen und so die darin enthaltenen Pilzsporen verbreiten.
 
