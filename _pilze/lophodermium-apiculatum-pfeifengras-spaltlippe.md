@@ -20,6 +20,7 @@ literatur:
   - url: https://svampe.databasen.org/taxon/16543
   - url: https://www.mycodb.fr/fiche.php?genre=Actinothyrium&espece=graminis
   - url: https://fungi.myspecies.info/all-fungi/actinothyrium-graminis
+  - {}
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/molinia_caerulea_01_wi.jpg" nocrop=true gross=true %}
@@ -30,9 +31,8 @@ Die Fruchtkörper der Pfeifengras-Spaltlippe *Lophodermium apiculatum* fand ich 
 
 Es handelt es sich um einen [phytoparasitischen](Phytoparasiten "Glossar") Schlauchpilz (*[Ascomyzet](Ascomyzeten "Glossar")*), der  auf abgestorbenen Blättern des in Mooren vorkommenden Blauen Pfeifengrases *Molinia caerulea* wächst. Die Fruchtkörper der Hauptfruchtform sind schwarz, bohnenförmig, besitzen einen mittigen Längsschlitz und eine Größe von bis zu 0,7 x 0,3 mm. Bei unserem Fund handelt es sich um die Nebenfruchtform mit schwarzen, kreisrunden, strahlig auslaufenden Fruchtkörpern ohne Längsschlitz und einem Durchmesser von bis zu 0,5 mm, die auch unter dem Namen *Actinothyrium graminis* beschrieben worden ist. [Hyphen](Hyphen "Glossar") und Sporen gewinnt man relativ einfach, indem man einen Fruchtkörper stark quetscht. Dabei treten beide Elemente an den Rändern aus.
 
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/lophodermium_-apiculatum_02_xx.png" %}
-{% include abbildung_ende.html legende="Hauptfruchtform (Foto: Henri Koskinen)" %}
+Doppelklick auf: - https://www.vastavalo.net/harjakka-lophodermium-harjakka-lophodermium-apiculatum-997489.html  
+Hauptfruchtform (Foto: Henri Koskinen)
 
 Verwechslungen mit anderen Spaltlippen können aufgrund der sehr speziellen Fruchtkörperform und -größe und des Substrats Pfeifengras ausgeschlossen werden.
 
