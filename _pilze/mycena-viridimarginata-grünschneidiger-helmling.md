@@ -11,7 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/mycena_viridimarginata_01_jr.jpg
-  legende: 2 Fotos Johann Rejek (21.05.2023, Allershausen / Bayern)
+  legende: ""
 literatur:
   - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/mviridimarginata.php
 ---
