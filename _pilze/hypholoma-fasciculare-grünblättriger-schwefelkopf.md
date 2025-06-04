@@ -15,6 +15,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/h/Hypholoma_fasciculare.html
   - url: http://tintling.com/pilzbuch/arten/h/Hypholoma_capnoides.html
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 197"
 ---
 Kein Waldspaziergänger, der diese Pilze nicht schon gesehen hat! An einem einzigen Baumstumpf und am Boden dem Wurzelverlauf folgend sind sie manchmal zu Hunderten zu sehen. Die Hüte sind von schwefelgelber Farbe, und daher haben sie ihren Namen: Schwefelköpfe!
 
