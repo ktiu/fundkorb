@@ -14,6 +14,7 @@ hauptbild:
 literatur:
   - text: "Hermann Jahn: Pilze die an Holz wachsen (Nr. 199)"
   - url: http://tintling.com/pilzbuch/arten/h/Hypholoma_marginatum.html
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 199"
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/hypholoma_marginatum_01_hs.jpg" nocrop=true gross=true %}
