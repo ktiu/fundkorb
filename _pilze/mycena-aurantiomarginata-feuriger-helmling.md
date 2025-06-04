@@ -30,3 +30,10 @@ Die 1 bis 2,5 cm breiten dünnfleischigen Hüte sind eigenartig aber arttypisch 
 {% include abbildung_ende.html legende="Foto: Johann Rejek" %}
 
 Den Feurigen Helmling findet man von Sommer bis Spätherbst vor allem in höheren bis montanen Lagen und fast ausschließlich bei Fichten. In Deutschland ist er in allen Mittelgebirgen verbreitet, in der Ebene fehlend bis sehr selten.
+
+Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:\
+[*Mycena olivaceomarginata* = Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)\
+[*Mycena pelianthina* =  Schwarzgezähnelter Helmling](/pilze/mycena-pelianthina-schwarzgezähnelter-helmling)\
+[*Mycena purpureofusca* = Lilaschneidiger Helmling](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)\
+[*Mycena sanguinolenta* = Purpurschneidiger Helmllng, Kleiner Bluthelmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)\
+[*Mycena viridimarginata* = Grünschneidiger Helmling](/pilzemycena-viridimarginata-grünschneidiger-helmling)
