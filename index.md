@@ -15,6 +15,13 @@ footer_scripts:
 Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_viridimarginata_01_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+05.06.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Grünschneidigen Helmling * Mycena viridimarginata*, fanden wir während einer Exkursion (Pilzverein München) bei Allershausen. Er gehört zu den früh im Jahr erscheinenden Helmlingen und wächst meist gesellig an Nadelholzstümpfen. Die namensgebenden grünen Schneiden sind jedoch nicht immer vorhanden. Und wenn doch, dann ist es eher ein Olivgrün. Olivtöne sind auch am gerieften Hut und dem seidenartigen Stiel zu finden. (Johann Rejek) [Mehr lesen >](/pilze/mycena-viridimarginata-grünschneidiger-helmling) 
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lentinus_strigosus_04_dg.jpg" %}
