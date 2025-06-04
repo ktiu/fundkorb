@@ -12,6 +12,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/stropharia_rugosoannulata_01_dg.jpg
+  legende: Die Stiele sind auf diesem überbelichteten Foto zu hell. Sie haben
+    unterhalb der Ringzone eher eine gelbbräunliche Farbe
 literatur:
   - url: https://de.wikipedia.org/wiki/Riesen-Tr%C3%A4uschling
   - url: http://tintling.com/pilzbuch/arten/s/Stropharia_rugosoannulata.html
