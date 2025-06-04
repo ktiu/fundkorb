@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Stropharia hornemannii
-  deutsch: Stropharia hornemannii
+  deutsch: Üppiger Träuschling
   referenz: (Fr.) S. Lundell & Nannf. 1934
   erlaeuterung: hornmannii = zu Ehren des dänischen Mykologen J. W. Hornemann
   familie: Strophariaceae
