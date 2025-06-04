@@ -13,6 +13,7 @@ hauptbild:
   datei: /bilder/gymnopilus_penetrans_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/g/Gymnopilus_penetrans.html
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 196"
 ---
 Ein gutes Pilzfoto sollte die typischen Merkmale einer Art möglichst deutlich und nachvollziehbar abbilden. Soll es dagegen einfach nur schön sein und festhalten, was unser Auge bei einem Waldspaziergang erfreut hat, darf oder muss auf die Darstellung artkennzeichnender Details auch mal verzichtet werden. So gibt die obige Aufnahme keine Hinweise auf die Lamellenfarbe, was eine sichere Bestimmung nahezu unmöglich macht. Erfahrene Pilzfreunde ahnen aber wahrscheinlich schon, um welchen Pilz es sich handelt, denn man begenet ihm vor allem im Spätherbst oft auf Schritt und Tritt.
 
