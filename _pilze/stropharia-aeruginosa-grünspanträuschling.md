@@ -14,6 +14,7 @@ hauptbild:
   legende: "Foto: Marco Gebert"
 literatur:
   - url: http://tintling.com/pilzbuch/arten/s/Stropharia_aeruginosa.html
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 193"
 ---
 Der Grünspanträuschling gehört zu den gut kenntlichen Pilzarten. Schon allein deshalb, weil es im Reich der Pilze nur wenige mit blaugrüner oder grünspanartiger Farbe gibt und kaum einen, der gleichzeitig einen schmierig-schleimigen Hut mit eingestreuten weißen Flöckchen hat. Allerdings hat er einen Doppelgänger in seiner eigenen Gattung, den [Blauen Träuschling *Stropharia caerulea*](/pilze/stropharia-caerulea-blauer-träuschling). Der ist jedoch recht einfach zu unterscheiden, wenn man ihn von unten betrachtet:
 
