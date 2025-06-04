@@ -19,6 +19,7 @@ literatur:
       Seite 418 - 419"
   - text: "Ewald Gerhardt: Der große BLV-Pilzführer für unterwegs,  Seite 328"
   - url: https://de.wikipedia.org/wiki/Tr%C3%A4uschlinge
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 192"
 ---
 Die Gattung *Stropharia* ist inzwischen in mehrere neue aufgespalten bzw. einige Arten sind in andere übertragen worden. Arten mit sogenannten Nematodenfangzellen, darunter auch *Stropharia squamosa*, stehen jetzt in der neuen Gattung *Leratiomyces*. Nematoden, auch Älchen genannt, sind kleine weiße oder farblose Fadenwürmer und gelten als mit Abstand individuenreichste Gruppe unter den vielzelligen Tieren.
 
