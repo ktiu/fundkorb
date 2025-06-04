@@ -14,6 +14,7 @@ hauptbild:
   datei: /bilder/psathyrella_piluliformis_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/p/Psathyrella_piluliformis.html
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 203"
 ---
 Dieser häufige Pilz gehört zur artenreichen Gattung der Mürblinge/Faserlinge/Zärtlinge. Die drei Namen stehen dafür, dass es sich um zerbrechliche, zarte Arten mit mürbem Fleisch handelt, deren Stiele leicht brechen und sich gleichzeitig der Länge nach auffasern lassen.
 
