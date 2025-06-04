@@ -11,6 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/mycena_viridimarginata_01_jr.jpg
+  legende: 2 Fotos Johann Rejek (21.05.2023, Allershausen / Bayern)
 literatur:
   - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/mviridimarginata.php
 ---
@@ -35,6 +36,7 @@ Die Stielrinde ist bei Helmlingen oft bestimmungsrelevant, insbesondere die Hyph
 {% include abbildung_ende.html legende="Mikrofoto: Bernd Miggel" %}
 
 Weitere Helmlinge mit farbiger Lamellenschneide im Fundkorb:\
+[*Mycena aurantiomarginata* = Feuriger Helmling](/pilze/mycena-aurantiomarginata-feuriger-helmling)\
 [*Mycena olivaceomarginata* = Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling)\
 [*Mycena pelianthina* =  Schwarzgezähnelter Helmling](/pilze/mycena-pelianthina-schwarzgezähnelter-helmling)\
 [*Mycena purpureofusca* = Lilaschneidiger Helmling](/pilze/mycena-purpureofusca-lilaschneidiger-helmling)\
