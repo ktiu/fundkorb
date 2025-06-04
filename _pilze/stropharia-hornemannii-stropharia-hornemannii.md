@@ -17,6 +17,7 @@ literatur:
   - text: "Ewald Gerhardt: Der große BLV-Pilzführer, Seite 328"
   - url: https://wwwuser.gwdguser.de/~rjahn/Pilzbriefe/PB_Bd_2_1.pdf
   - url: https://de.wikipedia.org/wiki/%C3%9Cppiger_Tr%C3%A4uschling
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 191"
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/stropharia_hornemannii_01_nk.jpg" nocrop=true gross=true %}
