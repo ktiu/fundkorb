@@ -14,6 +14,7 @@ hauptbild:
   legende: "Versuchen Sie mal, die hier abgebildeten Pilzfurchtkörper zu zählen! "
 literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Coprinellus_disseminatus.html
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 200"
 published: true
 ---
 Der Gesäte Tintling ist eine Pilzart, die als Symbol für rasche Vergänglichkeit stehen könnte. Beeindruckend ist die Vielzahl der Fruchtkörper, mit der er zu erscheinen pflegt. Zu Hunderten ist der Normalfall, zu Tausenden keine Ausnahme. Das obige Bild zeigt nicht einmal ein Drittel eines Vorkommens an einem Baumstumpf im Dietzenbacher Hessentagspark. Die hellgelben sind die jüngsten und ca. einen Tag alt, die dunkelgrauen haben bereits schwarze Lamellen und sind kurz vor dem Verwelken und Vergehen. Filigran und zerbrechlich sind sie alle.
