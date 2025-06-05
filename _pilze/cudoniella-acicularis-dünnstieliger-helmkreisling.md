@@ -12,6 +12,8 @@ hauptbild:
   anzeige: true
   datei: /bilder/cudoniella_acicularis_01_dg.jpg
   legende: 24.11.2022 Steinberger Wald bei Dietzenbach (TK 5918.4.1)
+literatur:
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 9"
 ---
 Die abgebildeten Pilze wuchsen auf der Oberfläche eines Eichenstumpfes und fielen vor allem durch ihr flächenbedeckendes Wachstum auf. Farbe, Form und geringe Größe machen die Art nahezu unverwechselbar. Allerdings sollte man sicherstellen, dass die Hütchen keine Lamellen besitzen und dazu leistet eine Lupe hilfreiche Unterstützung. 
 
