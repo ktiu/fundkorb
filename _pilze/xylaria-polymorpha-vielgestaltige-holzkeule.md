@@ -14,6 +14,7 @@ hauptbild:
 literatur:
   - url: https://de.wikipedia.org/wiki/Vielgestaltige_Holzkeule
   - url: http://tintling.com/pilzbuch/arten/x/Xylaria_polymorpha.html
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 15"
 ---
 Unter dem Laub muss sich Holz befinden, denn die Holzkeulen wachsen ausschließlich an Holz und sie sind so hart wie das Holz, das sie besiedeln. Oder noch härter, falls das Holz schon etwas morsch sein sollte. Den Beinamen "vielgestaltig" trägt die hier vorgestellte Art zu Recht. Mal sind es schlanke Keulchen, mal knubbelige Gebilde oder spatelförmige abgeflachte Gestalten. Bei der Beschreibung ihrer Formen sind der Fantasie keine Grenzen gesetzt.
 
