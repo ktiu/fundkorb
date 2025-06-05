@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-05.06.2025: [Mycena viridimarginata - Grünschneidiger Helmling](/pilze/mycena-viridimarginata-grünschneidiger-helmling)  
-04.06.2025: [Lentinus strigosus - Borstiger Knäueling](/pilze/lentinus-strigosus-borstiger-knäueling)  
+06.06.2025: [Russula cyanoxantha - Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling)  
+05.06.2025: [Mycena viridimarginata - Grünschneidiger Helmling](/pilze/mycena-viridimarginata-grünschneidiger-helmling)\
+04.06.2025: [Lentinus strigosus - Borstiger Knäueling](/pilze/lentinus-strigosus-borstiger-knäueling)\
 03.06.2025: [Phallus impudicus - Stinkmorchel](/pilze/phallus-impudicus-stinkmorchel)\
 02.06.2025: [Lentinus lepideus - Schuppiger Sägeblättling](/pilze/lentinus-lepideus-schuppiger-sägeblättling)\
 01.06.2025: [Puccinia malvacearum  -Malvenrost](/pilze/puccinia-malvacearum-malvenrost)  
