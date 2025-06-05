@@ -11,6 +11,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/gyromitra_infula_01_dg.jpg
+literatur:
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 1"
 ---
 Am ehesten könnte man diesen Pilz mit der [Frühjahrslorchel](/pilze/gyromitra-esculenta-frühjahrslorchel) verwechseln, was aber wegen der unterschiedlichen Erscheinungszeit kaum möglich ist. Die Bischofsmütze ist ein typischer Spätherbstpilz, der bis in den Dezember hinein gefunden werden kann. Sie kommt vorwiegend in Nadelwäldern vor, manchmal auch im Laubwald, wie das obige Foto zeigt, gern an morschem Holz oder auf Holzlagerplätzen und Brandstellen. Es handelt sich um eine recht seltene Art, die in Europa und Asien aber auch in Nord- und Südamerika verbreitet ist.
 
