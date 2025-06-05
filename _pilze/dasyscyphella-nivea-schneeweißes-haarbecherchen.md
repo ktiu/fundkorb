@@ -15,6 +15,7 @@ hauptbild:
 literatur:
   - url: https://asco-sonneberg.de/pages/gallery/dasyscyphella-nivea-100322-04xs15361.php
   - url: https://de.wikipedia.org/wiki/Schneewei%C3%9Fes_Haarbecherchen
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 14"
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/dasyscyphella_nivea_01_dg.jpg" nocrop=true %}
