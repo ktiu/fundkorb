@@ -13,6 +13,7 @@ hauptbild:
   datei: /bilder/lachnellula_subtilissima_01_iw.jpg
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 1, Nr. 235"
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 13"
 ---
 Dieses hübsche Haarbecherchen ist keineswegs nur auf toten Weißtannenzweigen zu finden, aber zweifellos ist die Tanne ihr Hauptwirt. Weitaus seltener kommt es an Fichten vor. Seine Fruchtkörper sind im Durchschnitt größer und heller als beim mit Abstand häufigsten Vertreter der Gattung, dem [Lärchen-Haarbechen *Lachnellula occidentalis*](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen), das ausnahmsweise auch mal an Fichten gefunden werden kann.
 
