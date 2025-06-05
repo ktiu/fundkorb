@@ -13,6 +13,7 @@ hauptbild:
   datei: /bilder/neobulgaria_pura_-01_dg.jpg
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 1 Nr. 163"
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr.  5"
 ---
 Diese kreisel- bis napfförmigen, gallertigen [Ascomyzeten](Ascomyzeten "Glossar") findet man meist knäuelig miteinander verwachsen und sich gegenseitig deformierend an totem noch berindetem Laubholz, vor allem an Buche. Einzelne Fruchtkörper werden bis zu 3 cm groß. Sie sind blass fleischrosa gefärbt und erscheinen fast ein wenig transparent. Die Becherränder sind weiß, was besonders bei jungen Exemplaren auffällt. Die Innenseiten sind glatt, die Außenseiten körnig. Die Sporenfarbe ist weiß, die elliptischen Sporen sind farblos, glatt, hyalin, mit 2 Tröpfchen und messen 7,5 - 9 x 3,5 - 4,5 µm.
 
