@@ -14,6 +14,7 @@ hauptbild:
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 1, Nr. 167"
   - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/asarcoides01.php
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 11"
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/ascocoryne_sarcoides_01_nk.jpg" nocrop=true gross=true %}
