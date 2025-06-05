@@ -16,6 +16,7 @@ literatur:
   - url: ""
     text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 1, Nr. 170"
   - url: http://tintling.com/pilzbuch/arten/b/Bulgaria_inquinans.html
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr.  6"
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/bulgaria_inquinans_01_mi.jpg" %}
