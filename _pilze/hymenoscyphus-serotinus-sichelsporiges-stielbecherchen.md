@@ -16,6 +16,7 @@ literatur:
   - text: "Rudolf Winkler & Gaby Keller: Pilze Mitteleuropas (2023), Seite 857"
   - url: https://asco-sonneberg.de/pages/gallery/hymenoscyphus-serotinus-081207-01xs-col19971.php
   - url: https://asco-sonneberg.de/pages/gallery/hymenoscyphus-serotinus-191117-ws-iw061-01xssrj-ws40780.php
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr.  8"
 ---
 Es gibt mehrere kleine gestielte Becherchen, die so oder ähnlich gefärbt sind. Beachtung des Substrats mag bei Bestimmungsversuchen hilfreich sein, führt aber letztlich nicht zu einer zuverlässigen Diagnose. Mit anderen Worten: man kommt um eine mikroskopische Prüfung nicht herum.
 
@@ -23,5 +24,8 @@ Die flach schüsselförmigen Becherchen erreichen Durchmesser von 2 bis 5 mm. Fr
 
 Mikromerkmale: Die [Asci](Asci "Glossar") messen 120 – 140 x 8 – 9 µm; sie sind an der Basis auffallend dünnstielig und enthalten 8 unregelmäßig zweireihig (biseriat) angeordnete [allantoide](allantoid "Glossar") bis sichelförmige Sporen mit den Maßen 15 – 26 x 3 – 4,5 µm. Die Paraphysen sind fadenförmig und ein- oder mehrfach septiert.
 
-*Hymenoscyphus serotinus* wächst gesellig bis scharenweise auf am Boden liegenden Zweigen und dünnen Ästen verschiedener Laubbäume, besonders von Buche. Erscheinungszeit ist Herbst bis Winter. *Ingo Wagner* hat einen Fund im Dezember an Hasel in einem verwilderten Garten dokumentiert.
+*Hymenoscyphus serotinus* wächst gesellig bis scharenweise auf am Boden liegenden Zweigen und dünnen Ästen verschiedener Laubbäume, besonders von Buche. Hermann Jahn weist darauf hin
 
+> ... dass die Pilze ein üppigeres Wachstum zeigen, wenn die Zweige unter der Bodenoberfläche liegen, und dass die Länge der Stiele sich nach der Tiefe richtet, in der das Holz liegt.
+
+Erscheinungszeit ist Herbst bis Winter. *Ingo Wagner* hat einen Fund im Dezember an Hasel in einem verwilderten Garten dokumentiert.
