@@ -13,6 +13,8 @@ hauptbild:
   anzeige: true
   datei: /bilder/chlorociboria_aeruginascens_03_jr.jpg
   legende: "Foto: Johann Rejek, 25.09.2023 nähe Achenpass"
+literatur:
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 10"
 ---
 Schon an seiner im Pilzreich sehr seltenen blaugrünen Farbe ist dieser kleine [Ascomyzet](Ascomyzeten "Glossar") gut zu erkennen. Seine becherförmigen unregelmäßig gewellten oder auch faltigen Fruchtkörper erreichen Durchmesser von 6 - 8 mm. Sie sind kurz gestielt oder sitzen stiellos auf entrindeten toten Laubholzästen, meist von Eichen, in denen der Pilz eine Weißfäule verursacht.
 
