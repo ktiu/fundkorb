@@ -14,6 +14,7 @@ hauptbild:
 published: true
 literatur:
   - url: http://tintling.com/pilzbuch/arten/s/Sarcoscypha_coccinea
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 4"
 ---
 ### Funddaten der beschriebenen Kollektion
 
