@@ -36,3 +36,5 @@ Erscheinungszeit ist April – November, in trockenen Sommern ausbleibend.
 {% include abbildung_ende.html legende="Zumeist junge Sporen mit winzigen Tröpfchen" %}
 
 Mikroskopische Merkmale (nach Breitenbach & Kränzlin): Asci achtsporig, 253 – 266 x 18 – 20 µm, Sporen breit-elliptisch, hyalin, körnig punktiert, jung mit vielen kleinen Tropfen, 19 – 21 x 13 - 13,5 µm (zum Vergleich *Dennis*: 18 – 19 x 10 – 12 µm, *Wikipedia*: 16–19 × 10–12,5 μm). Paraphysen an der Spitze bis 10 µm verdickt, mehrfach septiert. Haare dickwandig, mehrfach septiert, 1000 – 2000 x 45 µm.
+
+<div style="clear:  both"></div>
