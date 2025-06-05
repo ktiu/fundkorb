@@ -17,6 +17,7 @@ published: true
 literatur:
   - url: https://de.wikipedia.org/wiki/Zitronengelbes_Reisigbecherchen
   - url: http://tintling.com/pilzbuch/arten/b/Bisporella_citrina.html
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 7"
 ---
 Es gibt eine nicht unbeträchtliche Anzahl kleiner gelber Becherchen. Obwohl die meisten nur etwa 1 - 3 mm groß sind, bin ich schon gefragt worden, ob man sie essen kann. Meine Antwort: *"Oh ja, in Scheiben geschnitten und paniert in der Pfanne gebraten. Wegen einiger Verwechslungsmöglichkeiten wird allerdings dringend empfohlen, etwaige Funde vor der Zubereitung von einem Pilzsachverständigen prüfen zu lassen."*
 
