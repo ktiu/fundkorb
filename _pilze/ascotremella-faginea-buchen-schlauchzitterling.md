@@ -19,6 +19,7 @@ literatur:
   - url: http://tintling.com/pilzbuch/arten/a/Ascotremella_faginea.html
   - url: https://de.wikipedia.org/wiki/Buchen-Schlauchzitterling
   - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/afaginea.php
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 12"
 ---
 Den Buchen-Schlauchzitterling könnte man für einen Zitterling, Kreisling oder Drüsling halten, er ist aber weltweit die einzige Art der Gattung *Ascotremella* und war früher sogar in der Gattung *Neobulgaria* angesiedelt. Von diesen unterscheidet er sich vor allem durch ein nicht leicht erkennbares Mikromerkmal: er hat längsstreifige Sporen. Bemerkenswert auch, dass er erst 1960 erstmals in Deutschland nachgewiesen wurde.
 
