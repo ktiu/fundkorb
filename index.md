@@ -25,7 +25,7 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 <div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_cyanoxantha_06_gg.jpg" %}
+{% include bild.html datei="/bilder/russula_cyanoxantha_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 06.06.2025: Wenige Tage Starkregen haben jetzt auch im Rhein-Main-Gebiet Pilzwachstum ermöglicht. Besonders erfreulich: ein halbes Dutzend Frauentäublinge (*Russula cyanoxantha*). Leider waren alle total von Maden zerfressen. Schade, denn dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist ein hervorragender Speisepilz. Er ist zudem trotz seiner enormen Farbvariabilität leicht und sicher zu erkennen, was bei Täublingen eher die Ausnahme als die Regel ist. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-cyanoxantha-frauentäubling)
