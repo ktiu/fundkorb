@@ -17,6 +17,14 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_oreades_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.06.2025: Wiesen, Parkanlagen und grasige Wegränder sind typische Standorte für unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Nelkenschwindling *Marasmius oreades*. Er wächst gern in Hexenringen, seine Erkennungsmerkmale sind dickliche, etwas entfernt stehende Lamellen und der charakteristische Blausäuregeruch. Kenner schätzen ihn als wohlschmeckenden Speisepilz, den man aber sicher erkannt haben sollte, bevor man ihn für die Küche pflückt. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_cyanoxantha_06_gg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,22 +61,6 @@ Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
 {% include abbildung_ende.html %}
 
 02.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der  Schuppige Sägeblättling *Lentinus lepideus*. Er wächst vor allem an Totholz der Kiefer, gern an Stümpfen. Neben seinem schuppig aufgerissenen Hut sind die gesägten Lamellenschneiden ein wichtiges Kennzeichen. Da er auch verbautes Nadelholz befallen kann, ist er als Schadpilz einzustufen. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinus-lepideus-schuppiger-sägeblättling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/puccinia_malvacearum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist ein leicht zu bestimmender Rostpilz, wenn man die entsprechende Wirtspflanze kennt. Den Malvenrost *Puccinia malvacearum* kann man mit bloßem Auge erkennen. Er bildet auf den Blättern eine Vielzahl von Sporenlagern, die als gelbliche bis braune Pusteln erscheinen. Im Gegensatz zu vielen anderen Rostpilzen findet beim Malvenrost kein Wirtswechsel statt. (Johann Rejek) [Mehr lesen >](/pilze/puccinia-malvacearum-malvenrost)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pycnoporus_cinnabarinus_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-31.05.2025: Trameten gibt es in mehreren Gattungen. Eine davon ist *Pycnoporus* und die dazugehörige Art die Zinnobertramete *Pycnoporus cinnabarinus*, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Dieser hübsche Pilz ist unschwer zu erkennen und kaum mit anderen zu verwechseln. Er ist sogar in der Lage, das bewachsene Holz rötlich zu färben, was allerdings nur selten vorkommt. Sein bevorzugter Wirt ist die Buche, aber ich habe ihn auch schon an totem Kirschen-, Birken- und Eichenholz gefunden. (Dieter Gewalt) [Mehr lesen >](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete)
 
 <div style="clear:  both"></div>
 
