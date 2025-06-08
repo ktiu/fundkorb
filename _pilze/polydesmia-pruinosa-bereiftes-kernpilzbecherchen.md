@@ -12,6 +12,8 @@ hauptbild:
   anzeige: true
   datei: /bilder/polydesmia_pruinosa_01_dg.jpg
   legende: Polydesmia pruinosa auf einer Gewundenen Kohlenbeere (Hypoxylon serpens)
+literatur:
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 17b"
 ---
 Nur wer gezielt und mit Lupe die kohligen Fruchtkörper von [Xylariales](Xylariales "Glossar") absucht, wird diese winzigen kreisel- bis kissenförmigen Pilzchen finden. Sie erreichen Durchmesser von 0,3 bis 0,5 mm und sitzen stiellos oder kurz gestielt auf ihrem Substrat. Fruchtschicht und Außenseite sind weiß und mehlig bestäubt.
 
