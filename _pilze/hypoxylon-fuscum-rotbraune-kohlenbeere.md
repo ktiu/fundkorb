@@ -13,6 +13,7 @@ hauptbild:
   datei: /bilder/hypoxylon_fuscum_02_dg.jpg
 literatur:
   - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/hfuscum.php
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 28"
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hypoxylon_fuscum_01_dg.jpg" nocrop=true %}
