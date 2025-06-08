@@ -83,7 +83,7 @@ Weltweit verbreitet ist der [Ackerdistel-Rost *Puccinia punctiformis*](/pilze/pu
 
 Es gibt wohl nichts auf der Welt, was nicht schon für militärische Nutzung in Betracht gezogen worden ist. Ende der 1940er Jahre entwickelten die USA eine Bombe mit einer 250-kg-Ladung Getreiderostsporen, mit der Ernteausfälle beim Feind provoziert werden sollten. Sie ist nie zum Einsatz gekommen, wurde aber erst 1974 unschädlich gemacht.
 
-Zur Zeit sind 16 Rostpilzarten mit Porträts im Fundkorb online:
+Zur Zeit sind 17 Rostpilzarten mit Porträts im Fundkorb online:
 
 [*Aecidium ranunculi-acris* = Hahnenfußrost](/pilze/aecidium-ranunculi-acris-hahnenfußrost)\
 [*Cronartium ribicola* = Johannisbeer-Säulenrost](/pilze/cronartium-ribicola-johannisbeer-saulenrost)\
@@ -95,6 +95,7 @@ Zur Zeit sind 16 Rostpilzarten mit Porträts im Fundkorb online:
 [*Puccinia lagenophorae* = Greiskraut-Rost](/pilze/puccinia-lagenophorae-greiskraut-rost)\
 [*Puccinia lapsanae* = Rainkohl-Rost](/pilze/puccinia-lapsanae-rainkohl-rost)\
 [*Puccinia malvacearum* = Malvenrost](/pilze/puccinia-malvacearum-malvenrost)\
+[Puccinia phragmitis - Großer Ampfer-Schilfrost](/pilze/puccinia-phragmitis-großer-ampfer-schilfrost)\
 [*Puccinia punctiformis* = Ackerkratzdistel-Rost](/pilze/puccinia-punctiformis-ackerkratzdistel-rost)\
 [*Puccinia sessilis* = Bärlauchrost](/pilze/puccinia-sessilis-bärlauchrost)\
 [*Puccinia taraxaci* = Löwenzahn-Rost](/pilze/puccinia-taraxaci-löwenzahn-rost)\
