@@ -17,6 +17,16 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Ju
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_excelsa_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+
+09.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Graue Wulstling *Amanita excelsa*, zählt zwar zu den Speisepilzen, sollte aber aus zweierlei Gründen nicht als Speisepilz im Sammelkorb landen. Erstens schmeckt er laut gängiger Literatur eher muffig, und zweitens besteht die Gefahr ihn mit dem ähnlich aussehenden giftigen Pantherpilz zu verwechseln. Wie sie sicher unterscheidbar sind [erfahren sie hier](/pilze/amanita-excelsa-grauer-wulstling). (Johann Rejek)
+
+<div style="clear:  both"></div>
+
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/volvariella_gloiocephala_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,14 +71,6 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Ju
 {% include abbildung_ende.html %}
 
 03.06.2025: Das ist mal ein aktueller [Fundkorbpilz](AA "Glossar-")! Mitten in unserer Dietzenbacher Parkanlage und ziemlich gut versteckt im Gebüsch hat mir eine Stinkmorchel (*Phallus impudicus*) ihre Anwesenheit an die Nase verraten. Wer mehr über diesen Duftspender erfahren möchte, dem sei unsere Porträtseite empfohlen. Im Hexeneistadium ist er übrigens roh essbar und schmeckt gar nicht übel. (Dieter Gewalt) [Mehr lesen >](/pilze/phallus-impudicus-stinkmorchel)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lentinus_lepideus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der  Schuppige Sägeblättling *Lentinus lepideus*. Er wächst vor allem an Totholz der Kiefer, gern an Stümpfen. Neben seinem schuppig aufgerissenen Hut sind die gesägten Lamellenschneiden ein wichtiges Kennzeichen. Da er auch verbautes Nadelholz befallen kann, ist er als Schadpilz einzustufen. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinus-lepideus-schuppiger-sägeblättling)
 
 <div style="clear:  both"></div>
 
