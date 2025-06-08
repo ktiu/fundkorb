@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-Neue Exkursionstermine gibt's, wenn's mal wieder ausreichend geregnet hat.
+Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Juni 10:00 Uhr. Hier geht's zur Anmeldung ->.
 
 - - -
 
