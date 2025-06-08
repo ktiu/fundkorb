@@ -12,6 +12,8 @@ profil:
 hauptbild:
   anzeige: false
   datei: /bilder/dacrymyces_stillatus_01_dg.jpg
+literatur:
+  - text: "Hermann Jahn: Pilze die an Holz wachsen. Nr. 33"
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/dacrymyces_stillatus_01_dg.jpg" nocrop=true gross=true %}
