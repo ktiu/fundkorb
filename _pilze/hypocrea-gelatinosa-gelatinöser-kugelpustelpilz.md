@@ -15,6 +15,7 @@ hauptbild:
   legende: "11.11.2019 Hainbachtal bei Offenbach TK 5918.2.1  (Foto: Daniela Toller)"
 literatur:
   - url: https://www.natur-in-nrw.de/HTML/Pilze/Ascomycota/PAS-151.html
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 26"
 ---
 Die Fruchtkörper dieses rasig auf feuchtem, morschem Laubholz wachsenden [Ascomyzeten](Ascomyzeten "Glossar") sind unregelmäßig kugelig bis kissenartig geformt und werden bis zu 3 mm groß. Die Oberfläche ist jung hellgelb, später grüngelb verfärbend. Sie erscheint durch die warzigen [Ostiolen](Ostiolum "Glossar") je nach Reifegrad hell bis dunkler grün gefleckt. Auch die Sporen haben eine grünliche Farbe. 
 
