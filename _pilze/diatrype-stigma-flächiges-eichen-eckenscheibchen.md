@@ -17,6 +17,7 @@ literatur:
   - text: "RAPPAZ, F. (1987): Taxonomie et nomenclature des Diatrypacées a asques
       octosporés. Mycologia Helvetica 2: 285-648"
   - url: https://www.mikroskopie-forum.de/index.php?topic=41140.msg303059#msg303059
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 20"
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/diatrype_stigma_01_bm.jpg" nocrop=true gross=true %}
