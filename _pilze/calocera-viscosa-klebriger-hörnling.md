@@ -13,6 +13,7 @@ hauptbild:
   datei: /bilder/calocera_viscosa_07_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/c/Calocera_viscosa.html
+  - text: "Hermann Jahn: Pilze die an Holz wachsen. Nr. 31"
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/calocera_viscosa_01_dg.jpg" nocrop=true %}
