@@ -14,6 +14,7 @@ hauptbild:
   datei: /bilder/kretschmaria_deusta_01_dg.jpg
 literatur:
   - url: https://de.wikipedia.org/wiki/Brandkrustenpilz
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 18"
 ---
 Der Brandkrustenpilz ist eine häufige Art, die ganzjährig an Buchenstümpfen zu finden ist. Am auffälligsten ist das im Frühjahr erscheinende hellgraue [Konidienstadium](Konidien "Glossar") mit weißen Rändern. In diesem Stadium werden ungeschlechtliche Sporen, die sogenannten Konidien gebildet. Diese entstehen durch Abschnürung an [Pilzhyphen](Hyphen "Glossar") oder durch Hyphenzerfall. Im Laufe des Jahres verwandelt sich der Pilz in sein perfektes Stadium, in dem sexuelle Ascosporen in sogenannten Schläuchen (Asci) gebildet werden. Er ist dann ein kissen- oder krustenförmiges unregelmäßig höckeriges [Stroma](Stroma "Glossar") von schwarzer Farbe, das weniger auffällt als das helle Konidienstadium. Im Alter zerfällt das Innere des Pilzes; zurück bleibt eine dünne Kruste, die auf Druck krachend zerbricht.
 
