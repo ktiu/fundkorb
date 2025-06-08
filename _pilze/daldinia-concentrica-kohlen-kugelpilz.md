@@ -12,6 +12,10 @@ hauptbild:
   anzeige: true
   datei: /bilder/daldinia_concentrica_01_dg.jpg
   legende: Fund vom 17.08.2018 in Dietzenbach (Rodgaustraße Carré) an Esche
+literatur:
+  - text: "Wollweber & Stadler: Zur Kenntnis der Gattung Daldinia in Deutschland und
+      Europa in ZMycol Band 67/ 1.2001 "
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 29"
 ---
 Zu den Zeiten, als für den 1991 – 1993 veröffentlichten Verbreitungsatlas der Großpilze Deutschlands (West) kartiert wurde, galt für die meisten Kontributoren der Kohlen-Kugelpilz als einzige Art der Gattung, zumal man sich damals auf den Klassiker der Schlauchpilzbestimmung (Pilze der Schweiz Band 1) verließ. In diesem Werk ist *Daldinia concentrica* die einzige beschriebene Art. Aufgrund ihrer höchst uneinheitlichen Interpretation ist das Ergebnis eine mit Fundpunkten reichlich bestückte Verbreitungskarte, die das Vorkommen von *Daldinia spp*. widerspiegelt, während unser Kohlen-Kugelpilz eine eher seltene Art ist. Sie bevorzugt mildes, atlantisch geprägtes Klima und findet sich ganz überwiegend an Esche.
 Die Kugelpilze (auch Kohlen- oder Holzkohlenpilze genannt) gehören wie Eckenscheibchen, Kohlenbeeren u. a. zu den [Pyrenomyzeten](Pyrenomyzeten "Glossar"), können jedoch deutlich größere Fruchtkörper bilden wie die genannten typischen Gruppen. Kennzeichnend für alle Daldinia-Arten sind die konzentrischen Zonen im Inneren, die im Schnitt deutlich zu erkennen sind. In Deutschland sind nach dem gegenwärtigen Erkenntnisstand folgende sieben Arten nachgewiesen:
