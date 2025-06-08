@@ -14,6 +14,8 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/x/Xylaria_hypoxylon.html
   - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 16"
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 16"
+  - {}
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/xylaria_hypoxylon_14_dg.jpg" nocrop=true %}
