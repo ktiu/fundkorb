@@ -12,6 +12,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/exidia_plana_02_dg.jpg
+literatur:
+  - text: "Hermann Jahn: Pilze die an Holz wachsen. Nr. 37"
 ---
 Glibberige Pilze mit gehirnartig geformter Oberfläche findet man u. a. in der Gattung Drüslinge (*Exidia*), die zu den Ständerpilzen (Basidiomyzeten) gehört. Der Name *Drüslinge* kommt von drüsenartigen Wärzchen auf der sporenbildenden Fruchtschicht. Die mit Abstand häufigste Art dieser Gattung ist der Warzige Drüsling *Exidia plana*, der auch unter dem Volksnamen *„Hexenbutter“* bekannt ist.
 
