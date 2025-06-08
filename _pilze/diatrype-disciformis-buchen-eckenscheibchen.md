@@ -13,6 +13,7 @@ hauptbild:
   datei: /bilder/diatrype_disciformis_01_dg.jpg
 literatur:
   - url: https://de.wikipedia.org/wiki/Buchen-Eckenscheibchen
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 19"
 ---
 Kaum beachtete kleine schwarze Flecken, Pusteln oder Scheibchen, die auf abgefallenen Laubholzästen wachsen, werden [Pyrenomyzeten](Pyrenomyzeten "Glossar") genannt und gehören zu den [Ascomyzeten](Ascomyzeten "Glossar").
 
