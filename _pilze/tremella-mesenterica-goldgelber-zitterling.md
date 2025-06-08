@@ -14,6 +14,7 @@ hauptbild:
   legende: "Foto: Johann Rejek"
 literatur:
   - url: http://tintling.com/pilzbuch/arten/t/Tremella_mesenterica.html
+  - text: "Hermann Jahn: Pilze die an Holz wachsen. Nr. 35"
 ---
 Um diesen attraktiven Pilz sicher zu benennen, bedarf es nur eines Blickes. Das darf auch aus 10 oder 20 Meter Entfernung sein. Was so aussieht wie das gelbe Gekröse auf dem obigen Foto ist zweifelsfrei der Goldgelbe Zitterling. Es sei denn, das in Synonymielisten aufgeführte [Taxon](Taxon "Glossar") *Tremella lutescens* wäre tatsächlich eine eigenständige Art.
 
