@@ -11,6 +11,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/calocera_cornea_01_dg.jpg
+literatur:
+  - text: "Hermann Jahn: Pilze die an Holz wachsen. Nr. 32"
 ---
 Der Pfriemförmige Hörnling ist ein naher Verwandter des sehr viel bekannteren Klebrigen Hörnlings. Seine Fruchtkörper sind wie dieser orangefarben, aber viel kleiner, unverzweigt oder an der Spitze gespalten. Sie werden bis zu 2 cm hoch und wachsen auf totem Laubholz.
 
