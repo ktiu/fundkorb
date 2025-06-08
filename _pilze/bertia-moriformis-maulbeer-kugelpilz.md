@@ -12,6 +12,8 @@ hauptbild:
   anzeige: true
   datei: /bilder/bertia_moriformis_01_dg.jpg
 published: true
+literatur:
+  - text: "Hermann Jahn: Pilze die an Holz wachsen. Nr. 30"
 ---
 Was aussieht wie „Dreck am Stecken“ entpuppt sich bei genauerem Betrachten mit der Lupe oft als durchaus ansprechend. Hier als winzige maulbeerförmige Früchtchen.
 
