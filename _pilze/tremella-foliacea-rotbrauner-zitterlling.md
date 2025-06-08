@@ -14,6 +14,7 @@ hauptbild:
   datei: /bilder/tremella_foliacea_01_dg.jpg
 literatur:
   - url: https://de.wikipedia.org/wiki/Blattartiger_Zitterling
+  - text: "Hermann Jahn: Pilze die an Holz wachsen. Nr. 36"
 ---
 Die Fruchtkörper des Rotbraunen Zitterlings bestehen aus wellig verbogenen, abgerundeten Lappen von ockergelblicher bis rot- oder fleischbrauner Farbe, im Alter sind sie nahezu schwarzbraun. Die sporenbildende Fuchtschicht überzieht die gesamte Oberfläche. Er wächst vor allem an totem Laubholz und ist ganzjährig zu finden. Verwechselt werden könnte er eventuell mit dem Kandisbraunen Drüsling *Exidia saccharina*, der jedoch weniger blattartig geformt ist.
 
