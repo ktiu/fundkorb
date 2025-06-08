@@ -13,6 +13,7 @@ hauptbild:
   datei: /bilder/nectria_cinnabarina_01_dg.jpg
 literatur:
   - url: https://de.wikipedia.org/wiki/Zinnoberroter_Pustelpilz
+  - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 23"
 ---
 Das Foto zeigt die Nebenfruchtform des Zinnoberroten Pustelpilzes. In oder an ihr werden die sogenannten Konidiensporen gebildet, die der ungeschlechtlichen Vermehrung dienen. Die Hauptfruchtform, die für die sexuelle Vermehrung verantwortlich ist, hat ein völlig anderes Aussehen und ist sehr viel seltener. Während das hell-orange bis rosafarbene Konidienstadien tote aber noch berindete Äste und Zweige auf ganzer Länge besiedeln kann und in keinem Laubwald fehlen dürfte, sind die Fruchtkörper der Hauptfruchtform zinnoberrot gefärbt und haben das Aussehen von winzigen Himbeeren. Beide Formen erreichen etwa 0,2 - 0,4 mm Durchmesser und kommen mitunter gemeinsam auf dem gleichen Ast vor, vor allem an Buche, Hainbuche, Ahorn und Linde. Sie gehören zu den Schlauchpilzen (Ascomyzeten).
 
