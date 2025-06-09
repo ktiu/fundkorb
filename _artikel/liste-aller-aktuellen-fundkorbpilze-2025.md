@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-09.06.2025: [Amanita excelsa - Grauer Wulstling](/pilze/amanita-excelsa-grauer-wulstling)  
-08.06.2025: [Volvariella gloiocephala - Großer Scheidling](/pilze/volvariella-gloiocephala-großer-scheidling)  
+10.06.2025: [Puccinia phragmitis - Ampfer-Schildrost](/pilze/puccinia-phragmitis-großer-ampfer-schilfrost)\
+09.06.2025: [Amanita excelsa - Grauer Wulstling](/pilze/amanita-excelsa-grauer-wulstling)\
+08.06.2025: [Volvariella gloiocephala - Großer Scheidling](/pilze/volvariella-gloiocephala-großer-scheidling)\
 07.06.2025: [Marasmius oreades - Nelkenschwindling](/pilze/marasmius-oreades-nelkenschwindling)\
 06.06.2025: [Russula cyanoxantha - Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling)\
 05.06.2025: [Mycena viridimarginata - Grünschneidiger Helmling](/pilze/mycena-viridimarginata-grünschneidiger-helmling)\
