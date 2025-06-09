@@ -12,19 +12,27 @@ footer_scripts:
 
 - - -
 
+
 Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Juni 10:00 Uhr. [Hier geht's zur Anmeldung ->](/termine)
 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_excelsa_02_dg.jpg" %}
+{% include bild.html datei="/bilder/puccinia_phragmitis_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
+10.06.2025: Rostpilze können erstaunlich schön und interessant sein. Zum Beispiel der Ampfer-Schilfrost *Puccinia phragmitis*, unser heutiger [Fundkorbpilz](AA "Glossar-"). So wie auf dem Foto sieht er mit der Lupe betrachtet auf der Blattunterseite von Ampferpflanzen aus. Mal ehrlich: sind diese winzigen Früchtchen nicht hübsch? Von da wechselt er per Sporenflug auf Schilf, wo er unscheinbare polsterförmige Flecken erzeugt, die Sporen zum Überwintern produzieren. Landen diese auf Ampferblättern, ist der Kreislauf geschlossen und der zweifache Wirtswechsel vollendet. (Dieter Gewalt) Mehr lesen >
+
+<div style="clear:  both"></div>
+
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_excelsa_02_dg.jpg" %}
+{% include abbildung_ende.html %}
 
 09.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Graue Wulstling *Amanita excelsa*, zählt zwar zu den Speisepilzen, sollte aber aus zweierlei Gründen nicht als Speisepilz im Sammelkorb landen. Erstens schmeckt er laut gängiger Literatur eher muffig, und zweitens besteht die Gefahr ihn mit dem ähnlich aussehenden giftigen Pantherpilz zu verwechseln. Wie sie sicher unterscheidbar sind [erfahren sie hier](/pilze/amanita-excelsa-grauer-wulstling). (Johann Rejek)
 
 <div style="clear:  both"></div>
-
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/volvariella_gloiocephala_01_dg.jpg" %}
@@ -63,14 +71,6 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Ju
 {% include abbildung_ende.html %}
 
 04.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Borstige Knäueling *Lentinus strigosus*. Bei den Begriffen "borstig" und "Knäueling" erwartet man nicht gerade einen besonders attraktiven Pilz, aber genau das ist er oder kann es im perfekten Wachstumsstadium zumindest sein. Dabei fühlt er sich keineswegs borstig sondern samtig zart an. Er wächst an toten Stämmen und Stümpfen von Laubbäumen und wird als seltene Art in Roten Listen geführt. In den Wäldern bei Dietzenbach ist er seit einigen Jahren an mehreren Stellen zu finden, meist zu vielen gesellig und bisher ausschließlich an Buche. Selbst sonnenexponierte Standorte scheint er problemlos zu tolerieren. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinus-strigosus-borstiger-knäueling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phallus_impudicus_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.06.2025: Das ist mal ein aktueller [Fundkorbpilz](AA "Glossar-")! Mitten in unserer Dietzenbacher Parkanlage und ziemlich gut versteckt im Gebüsch hat mir eine Stinkmorchel (*Phallus impudicus*) ihre Anwesenheit an die Nase verraten. Wer mehr über diesen Duftspender erfahren möchte, dem sei unsere Porträtseite empfohlen. Im Hexeneistadium ist er übrigens roh essbar und schmeckt gar nicht übel. (Dieter Gewalt) [Mehr lesen >](/pilze/phallus-impudicus-stinkmorchel)
 
 <div style="clear:  both"></div>
 
