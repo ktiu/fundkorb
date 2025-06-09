@@ -12,7 +12,6 @@ footer_scripts:
 
 - - -
 
-
 Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Juni 10:00 Uhr. [Hier geht's zur Anmeldung ->](/termine)
 
 - - -
@@ -21,10 +20,9 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Ju
 {% include bild.html datei="/bilder/puccinia_phragmitis_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-10.06.2025: Rostpilze können erstaunlich schön und interessant sein. Zum Beispiel der Ampfer-Schilfrost *Puccinia phragmitis*, unser heutiger [Fundkorbpilz](AA "Glossar-"). So wie auf dem Foto sieht er mit der Lupe betrachtet auf der Blattunterseite von Ampferpflanzen aus. Mal ehrlich: sind diese winzigen Früchtchen nicht hübsch? Von da wechselt er per Sporenflug auf Schilf, wo er unscheinbare polsterförmige Flecken erzeugt, die Sporen zum Überwintern produzieren. Landen diese auf Ampferblättern, ist der Kreislauf geschlossen und der zweifache Wirtswechsel vollendet. (Dieter Gewalt) Mehr lesen >
+10.06.2025: Rostpilze können erstaunlich schön und interessant sein. Zum Beispiel der Ampfer-Schilfrost *Puccinia phragmitis*, unser heutiger [Fundkorbpilz](AA "Glossar-"). So wie auf dem Foto sieht er mit der Lupe betrachtet auf der Blattunterseite von Ampferpflanzen aus. Mal ehrlich: sind diese winzigen Früchtchen nicht hübsch? Von da wechselt er per Sporenflug auf Schilf, wo er unscheinbare polsterförmige Flecken erzeugt, die Sporen zum Überwintern produzieren. Landen diese auf Ampferblättern, ist der Kreislauf geschlossen und der zweifache Wirtswechsel vollendet. (Dieter Gewalt) [Mehr lesen >](/pilze/puccinia-phragmitis-großer-ampfer-schilfrost)
 
 <div style="clear:  both"></div>
-
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_excelsa_02_dg.jpg" %}
