@@ -31,9 +31,5 @@ Am ehesten ist noch der sehr häufige Heu-Düngerling zu erkennen. Sein mit blo�
 Während der Sommermonate genügt selbst nach längerer Trockenheit ein kurzer Regen, um schon am Folgetag die Pilzchen erscheinen zu lassen. Sie fallen besonders auf frisch gemähten Rasenflächen auf, weshalb sie auch Heuschnitt-Düngerlinge genannt werden.
 
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/panaeolus_foenisecii_05_dg.jpg" %}
-{% include abbildung_ende.html legende="Der Heu-Düngerling ist eine sehr variable Art. Die Exemplare auf diesem Foto, in unmittelbarer Nähe zu einem  Misthaufen aufgenommen, waren trocken und verrieten ihre Gattungszugehörigkeit durch gescheckte Lamellen. Ornamentierte Sporen (siehe Foto unten) hat unter den Düngerlingen nur Panaeolus foenisecii." %}
-
-{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/panaeolus_foenisecii_06_fk.jpg" %}
 {% include abbildung_ende.html legende="Sporen ornamentiert, im Durschnitt 13 x 8,5 µm groß   (Mikrofoto: Frank Kaster)" %}
