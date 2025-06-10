@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Hypoxylon cohaerens
   deutsch: Zusammengedrängte Kohlenbeere
   referenz: (Pers.) Fr. 1849
-  synonym: "Neuer Name: Annulohypoxylon cohaerens"
+  synonym: "Neuer Name: Jackrogersella cohaerens"
   familie: Xylariaceae
   erlaeuterung: cohaerens = zusammenhängend
 profil:
