@@ -17,6 +17,14 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Ju
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tubaria_dispersa_01_fk.jpeg" %}
+{% include abbildung_ende.html %}
+
+11.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist Gelbblättrige Trompetenschnitzling *Tubaria dispersa*, ein wirtstreuer Begleiter des Weißdorns, einem nicht gerade häufigen Rosengewächs. Sobald man den Pilz in der richtigen Gattung vermutet, ist er leicht zu erkennen. Unter den Trompetenschnitzlingen fällt er durch seine helle gelbliche Farbe an allen seinen Fruchtkörperteilen auf. Er ist im Frühjahr zufinden, etwa bis Anfang Juni, dann wieder im Herbst. (Dieter Gewalt) [Mehr lesen >](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/puccinia_phragmitis_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,22 +61,6 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Ju
 {% include abbildung_ende.html %}
 
 06.06.2025: Wenige Tage Starkregen haben jetzt auch im Rhein-Main-Gebiet Pilzwachstum ermöglicht. Besonders erfreulich: ein halbes Dutzend Frauentäublinge (*Russula cyanoxantha*). Leider waren alle total von Maden zerfressen. Schade, denn dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist ein hervorragender Speisepilz. Er ist zudem trotz seiner enormen Farbvariabilität leicht und sicher zu erkennen, was bei Täublingen eher die Ausnahme als die Regel ist. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-cyanoxantha-frauentäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_viridimarginata_01_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-05.06.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Grünschneidigen Helmling *Mycena viridimarginata*, fanden wir während einer Exkursion (Pilzverein München) bei Allershausen. Er gehört zu den früh im Jahr erscheinenden Helmlingen und wächst meist gesellig an Nadelholzstümpfen. Die namensgebenden grünen Schneiden sind jedoch nicht immer farbig. Und wenn doch, dann ist es eher ein Olivgrün. Olivtöne sind auch am gerieften Hut und dem seidenartigen Stiel zu finden. (Johann Rejek) [Mehr lesen >](/pilze/mycena-viridimarginata-grünschneidiger-helmling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lentinus_strigosus_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Borstige Knäueling *Lentinus strigosus*. Bei den Begriffen "borstig" und "Knäueling" erwartet man nicht gerade einen besonders attraktiven Pilz, aber genau das ist er oder kann es im perfekten Wachstumsstadium zumindest sein. Dabei fühlt er sich keineswegs borstig sondern samtig zart an. Er wächst an toten Stämmen und Stümpfen von Laubbäumen und wird als seltene Art in Roten Listen geführt. In den Wäldern bei Dietzenbach ist er seit einigen Jahren an mehreren Stellen zu finden, meist zu vielen gesellig und bisher ausschließlich an Buche. Selbst sonnenexponierte Standorte scheint er problemlos zu tolerieren. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinus-strigosus-borstiger-knäueling) 
 
 <div style="clear:  both"></div>
 
