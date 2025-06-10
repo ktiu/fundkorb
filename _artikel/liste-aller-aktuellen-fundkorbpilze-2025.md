@@ -4,7 +4,7 @@ autor_in: ""
 published: true
 ---
 11.06.2025: [Tubaria dispersa - Gelbblättriger Trompetenschnitzling](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)  
-10.06.2025: [Puccinia phragmitis - Ampfer-Schildrost](/pilze/puccinia-phragmitis-großer-ampfer-schilfrost)\
+10.06.2025: [Puccinia phragmitis - Ampfer-Schilfrost](/pilze/puccinia-phragmitis-großer-ampfer-schilfrost)\
 09.06.2025: [Amanita excelsa - Grauer Wulstling](/pilze/amanita-excelsa-grauer-wulstling)\
 08.06.2025: [Volvariella gloiocephala - Großer Scheidling](/pilze/volvariella-gloiocephala-großer-scheidling)\
 07.06.2025: [Marasmius oreades - Nelkenschwindling](/pilze/marasmius-oreades-nelkenschwindling)\
