@@ -28,7 +28,7 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Ju
 {% include bild.html datei="/bilder/tubaria_dispersa_01_fk.jpeg" %}
 {% include abbildung_ende.html %}
 
-11.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist Gelbblättrige Trompetenschnitzling *Tubaria dispersa*, ein wirtstreuer Begleiter des Weißdorns, einem nicht gerade häufigen Rosengewächs. Sobald man den Pilz in der richtigen Gattung vermutet, ist er leicht zu erkennen. Unter den Trompetenschnitzlingen fällt er durch seine helle gelbliche Farbe an allen seinen Fruchtkörperteilen auf. Er ist im Frühjahr zu finden, etwa bis Anfang Juni, dann wieder im Herbst. (Dieter Gewalt) [Mehr lesen >](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)
+11.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelbblättrige Trompetenschnitzling *Tubaria dispersa*, ein wirtstreuer Begleiter des Weißdorns, einem nicht gerade häufigen Rosengewächs. Sobald man den Pilz in der richtigen Gattung vermutet, ist er leicht zu erkennen. Unter den Trompetenschnitzlingen fällt er durch seine helle gelbliche Farbe an allen seinen Fruchtkörperteilen auf. Er ist im Frühjahr zu finden, etwa bis Anfang Juni, dann wieder im Herbst. (Dieter Gewalt) [Mehr lesen >](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)
 
 <div style="clear:  both"></div>
 
@@ -44,7 +44,7 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Ju
 {% include bild.html datei="/bilder/amanita_excelsa_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-09.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Graue Wulstling *Amanita excelsa*, zählt zwar zu den Speisepilzen, sollte aber aus zweierlei Gründen nicht als Speisepilz im Sammelkorb landen. Erstens schmeckt er laut gängiger Literatur eher muffig, und zweitens besteht die Gefahr ihn mit dem ähnlich aussehenden giftigen Pantherpilz zu verwechseln. Wie sie sicher unterscheidbar sind [erfahren sie hier](/pilze/amanita-excelsa-grauer-wulstling). (Johann Rejek)
+09.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Graue Wulstling *Amanita excelsa*, zählt zwar zu den Speisepilzen, sollte aber aus zweierlei Gründen nicht als Speisepilz im Sammelkorb landen. Erstens schmeckt er laut gängiger Literatur eher muffig, und zweitens besteht die Gefahr ihn mit dem ähnlich aussehenden giftigen Pantherpilz zu verwechseln. Wie sie sicher unterscheidbar sind [erfahren Sie hier](/pilze/amanita-excelsa-grauer-wulstling). (Johann Rejek)
 
 <div style="clear:  both"></div>
 
