@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+12.06.2025: [Mycena sanguinolenta - Purpurschneidiger Helmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)  
 11.06.2025: [Tubaria dispersa - Gelbblättriger Trompetenschnitzling](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)  
 10.06.2025: [Puccinia phragmitis - Ampfer-Schilfrost](/pilze/puccinia-phragmitis-großer-ampfer-schilfrost)\
 09.06.2025: [Amanita excelsa - Grauer Wulstling](/pilze/amanita-excelsa-grauer-wulstling)\
