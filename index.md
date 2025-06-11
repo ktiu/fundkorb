@@ -17,6 +17,14 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Ju
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_sanguinolenta_04_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+12.06.2025: In der artenreichen Gattung der Helmlinge gibt es einige die relativ früh im Jahr erscheinen. Der  Purpurschneidige Helmling  *Mycena sanguinolenta* ist einer von ihnen und unser aktueller [Fundkorbpilz](AA "Glossar-"). Ich fand ihn einzeln bis gesellig wachsend in Moosen im Fichtenwald. Man erkennt ihn an dem relativ langen Stiel, den weinrötlich gefärbten Lamellenschneiden und dem schwach rötlich blutenden Stiel bei Verletzung im unteren Stielbereich. (Johann Rejek) [Mehr lesen >](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tubaria_dispersa_01_fk.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -53,14 +61,6 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Ju
 {% include abbildung_ende.html %}
 
 07.06.2025: Wiesen, Parkanlagen und grasige Wegränder sind typische Standorte für unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Nelkenschwindling *Marasmius oreades*. Er wächst gern in Hexenringen, seine Erkennungsmerkmale sind dickliche, etwas entfernt stehende Lamellen und der charakteristische Blausäuregeruch. Kenner schätzen ihn als wohlschmeckenden Speisepilz, den man aber sicher erkannt haben sollte, bevor man ihn für die Küche pflückt. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_cyanoxantha_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.06.2025: Wenige Tage Starkregen haben jetzt auch im Rhein-Main-Gebiet Pilzwachstum ermöglicht. Besonders erfreulich: ein halbes Dutzend Frauentäublinge (*Russula cyanoxantha*). Leider waren alle total von Maden zerfressen. Schade, denn dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist ein hervorragender Speisepilz. Er ist zudem trotz seiner enormen Farbvariabilität leicht und sicher zu erkennen, was bei Täublingen eher die Ausnahme als die Regel ist. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-cyanoxantha-frauentäubling)
 
 <div style="clear:  both"></div>
 
