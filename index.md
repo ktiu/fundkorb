@@ -17,6 +17,14 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Ju
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/inonotus_hispidus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.06.2025: Irgendwann erwischt es so ziemlich jeden Apfelbaum, meist auf seine alten Tage. Er wird vom Zottigen Schillerporling *Inonotus hispidus* (auch Pelzporling genannt) befallen und damit ist sein Schicksal besiegelt. Unser heutiger [Fundkorbpilz](AA "Glossar-") ist ein mordende Parasit aber immerhin ein rücksichtsvoller Killer. Er lässt dem Gartenbesitzer Zeit, ein junges Bäumchen zu pflanzen und dessen Ertragsreife abzuwarten. Bis dahin trägt der Patient noch Früchte. (Dieter Gewalt) [Mehr lesen >](/pilze/inonotus-hispidus-zottiger-schillerporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_sanguinolenta_04_jr.jpg" %}
 {% include abbildung_ende.html %}
 
