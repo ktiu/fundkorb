@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-13.06.2025: [Inonotus hispidus - Zottiger Schillerporling](/pilze/inonotus-hispidus-zottiger-schillerporling)  
+14.06.2025: [Amanita pantherina - Pantherpilz](/pilze/amanita-pantherina-pantherpilz)  
+13.06.2025: [Inonotus hispidus - Zottiger Schillerporling](/pilze/inonotus-hispidus-zottiger-schillerporling)\
 12.06.2025: [Mycena sanguinolenta - Purpurschneidiger Helmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)\
 11.06.2025: [Tubaria dispersa - Gelbblättriger Trompetenschnitzling](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)\
 10.06.2025: [Puccinia phragmitis - Ampfer-Schilfrost](/pilze/puccinia-phragmitis-großer-ampfer-schilfrost)\
