@@ -17,6 +17,14 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Ju
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_pantherina_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pantherpilz *Amanita pantherina*, der nicht ganz ungefährliche Doppelgänger des Perlpilzes. Er enthält die vom Fliegenpilz bekannten Giftstoffe Ibotensäure und Muszimol, darüberhinaus auch Bufotenin. Die rauschähnlichen Symptome und Halluzinationen sind jedoch stärker als bei diesem und können bei Personen mit Kreislauf- oder Herzerkrankungen unter Umständen tödlich sein. Der Pantherpilz ist längst nicht so häufig wie Perl- oder Fliegenpilz, im Rhein-Main-Gebiet aber nicht selten. Sein häufigster [Mykorrhizapartner](Mykorrhiza "Glossar") ist die Eiche, gefolgt von Buche und Kiefer. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-pantherina-pantherpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/inonotus_hispidus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,22 +61,6 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Ju
 {% include abbildung_ende.html %}
 
 09.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Graue Wulstling *Amanita excelsa*, zählt zwar zu den Speisepilzen, sollte aber aus zweierlei Gründen nicht als Speisepilz im Sammelkorb landen. Erstens schmeckt er laut gängiger Literatur eher muffig, und zweitens besteht die Gefahr ihn mit dem ähnlich aussehenden giftigen Pantherpilz zu verwechseln. Wie sie sicher unterscheidbar sind [erfahren Sie hier](/pilze/amanita-excelsa-grauer-wulstling). (Johann Rejek)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/volvariella_gloiocephala_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der immer wieder auf den Rasenflächen in unserem Dietzenbacher Carré erscheinende Große Scheidling *Volvariella gloiocephala*. An seinem ringlosen Stiel, den scheidenartigen [Velumresten](Velum "Glossar") am Stielgrund und den großen grauweißen Hüten mit den rosa Lamellen ist er gut zu erkennen. Er ist essbar, aber wegen seines muffigen Geschmacks kaum für die Küche zu empfehlen. (Dieter Gewalt) [Mehr lesen >](/pilze/volvariella-gloiocephala-großer-scheidling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_oreades_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.06.2025: Wiesen, Parkanlagen und grasige Wegränder sind typische Standorte für unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Nelkenschwindling *Marasmius oreades*. Er wächst gern in Hexenringen, seine Erkennungsmerkmale sind dickliche, etwas entfernt stehende Lamellen und der charakteristische Blausäuregeruch. Kenner schätzen ihn als wohlschmeckenden Speisepilz, den man aber sicher erkannt haben sollte, bevor man ihn für die Küche pflückt. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
 
 <div style="clear:  both"></div>
 
