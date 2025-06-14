@@ -66,14 +66,6 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Ju
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_excelsa_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Graue Wulstling *Amanita excelsa*, zählt zwar zu den Speisepilzen, sollte aber aus zweierlei Gründen nicht als Speisepilz im Sammelkorb landen. Erstens schmeckt er laut gängiger Literatur eher muffig, und zweitens besteht die Gefahr ihn mit dem ähnlich aussehenden giftigen Pantherpilz zu verwechseln. Wie sie sicher unterscheidbar sind [erfahren Sie hier](/pilze/amanita-excelsa-grauer-wulstling). (Johann Rejek)
-
-<div style="clear:  both"></div>
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2025](/artikel/liste-aller-aktuellen-fundkorbpilze-2025.html)
