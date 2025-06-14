@@ -55,3 +55,13 @@ Er beschreibt sie wie folgt:\
 **Stiel:** bis 8 cm lang, über 1 cm dick; hell bräunlich längsfaserig, im unteren Teil weiß überfasert.\
 **Fleisch:** hell und so bleibend, Stielrinde minimal dunkler. Geruch unbedeutend. Mit Guajak verfärbt sich die Stieltrama nach 2 Minuten dunkel blaugrün.\
 **Mikromerkmale:** Sporen subglobos bos breit oval, fein warzig, Warzen amyloid, 6,0 - **6,9** – 7,9 x  4,8 – **5,5** – 6,2 µm, Q = 1,1 – **1,3** – 1,4, V = 110,8 µm³. Keine Cheilozystiden, keine Pleurozystiden.
+
+- - -
+
+Anhang:
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/melanoleuca_melaleuca_02_md.jpg" %}
+{% include abbildung_ende.html legende="Fund vom 07.10.2005 Wegrand mit Holzlagerplatz in Oberdill, Bayern, MTB 7934.4.3 (Foto: Mathhias Dondl)" %}
+
+Beschreibung: Hut: 4-8 cm breit, kastanienbraun bis olivbraun (ausblassend); Stiel: 6-8 cm lang, zylindrisch, voll bis wattig ausgestopft, basal keulig verdickt und mit dickem weißen Myzelfilz überzogen, auf graubraunem Grund weißlich längsfaserig, fast gestreift wirkend; Lamellen: cremefarben, schmal, sehr gedrängt, extrem dünn, untermischt; Fleisch: weiß; Geschmack: mild; Geruch: angenehm pilzig; Basidien: 4-sporig; Sporenpulver: cremefarben; Sporen: grobwarzig, rundlich, mit Tropfen, 6,5-7,5 x 5-6; Zystiden: keine vorhanden. (Matthias Doll)
