@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+15.06.2025: [Marasmius wettsteinii - Nadelstreu-Käsepilzchen](/pilze/marasmius-wettsteinii-nadelstreu-käsepilzchen)  
 14.06.2025: [Amanita pantherina - Pantherpilz](/pilze/amanita-pantherina-pantherpilz)  
 13.06.2025: [Inonotus hispidus - Zottiger Schillerporling](/pilze/inonotus-hispidus-zottiger-schillerporling)\
 12.06.2025: [Mycena sanguinolenta - Purpurschneidiger Helmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)\
