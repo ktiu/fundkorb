@@ -34,7 +34,14 @@ Die Sporen wurden von *Bernd Miggel* untersucht, der mich auch auf die Existenz 
 *Boletus mendax* (Ergebnis von 50 repräsentativen Sporen):  12,4 - 12,9 x 4,8 - 5,9 µm, Schlankheitsgrad Q = 2,52 - 2,64 µm\
 *Boletus luridus* (Ergebnis von 23 repräsentativen Sporen): 12,6 - 13,5 x 5,3 - 5,6 µm, Schlankheitsgrad Q = 2,35 - 2,45 µm
 
-Der beschriebene Fund stammt aus einer Parkanlage (Carré Rodgaustraße) in Dietzenbach (Kreis Offenbach), in der gleichzeitig an mehreren anderen Stellen zahreiche Netzstielige Hexenröhrlinge (*Boletus luridus*) wuchsen. 
+Der beschriebene Fund stammt aus einer Parkanlage (Carré Rodgaustraße) in Dietzenbach (Kreis Offenbach), in der gleichzeitig an mehreren anderen Stellen zahreiche Netzstielige Hexenröhrlinge (*Boletus luridus*) wuchsen.
+
+Am 13. Juni erneut ein Fund im Dietzenbacher Carré, etwa 200 m Luftlinie von der ersten Fundstelle entfernt, bei Quercus robur (Stieleiche). Im Gegensatz zum ersten Fund konnte diesmal ein roter Röhrenboden festgestellt werden, der sich allerdings schnell blau verfärbte. Gezielte Suche wäre vor allem in bebauten Arealen sinnvoll, da hier mit Kalkeintrag in die Böden infolge Bautätigkeit auszugehen ist. Den Übergang vom genetzten zum ungenetzten Teil des Stieles zeigt das begefügte Foto:
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/boletus_mendax_06_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/boletus_mendax_07_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
 
 Bei den sehr ähnlichen Hexenröhrlingen mit Netzzeichnung am Stiel handelt es sich um:\
 [*Boletus (Suillellus) luridus* = Netzstieliger Hexenröhrling](/pilze/boletus-luridus-netzstieliger-hexenröhrling)\
