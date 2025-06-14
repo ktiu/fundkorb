@@ -22,7 +22,7 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 15. Ju
 {% include bild.html datei="/bilder/marasmius_wettsteinii_03_jr.jpg" %}
 {% include abbildung_ende.html %}
 
-15.06.2025: Wer zur Zeit in Fichten- und Tannenwäldern unterwegs ist, dem dürften Unmengen von kleinen hell- bis weißfarbenen Pilzhütchen aufgefallen sein. Mit großer Wahrscheinlichkeit handelt es sich dabei um das Nadelstreu-Käsepilzchen *Marasmius wettsteinii*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Es wächst auf alten Nadeln von Fichten oder Tannen. Wer es nicht glaubt, sollte behutsam ein Exemplar entnehmen. Mit etwas Glück hängt die Nadel am Stiel. Auf der Hutunterseite kann man dann ein Halsband (Kollar) bewundern. (Johann Rejek) [Mehr lesen >](/pilze/marasmius-wettsteinii-nadelstreu-käsepilzchen)
+15.06.2025: Wer zur Zeit in Fichten- und Tannenwäldern unterwegs ist, dem dürften Unmengen von kleinen hell- bis weißfarbenen Pilzhütchen aufgefallen sein. Mit großer Wahrscheinlichkeit handelt es sich dabei um das Nadelstreu-Käsepilzchen *Marasmius wettsteinii*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Es wächst auf alten Nadeln von Fichten oder Tannen. Wer es nicht glaubt, sollte behutsam ein Exemplar entnehmen. Mit etwas Glück hängt die Nadel am Stiel. Auf der Hutunterseite kann man ein Halsband ([Kollar](Kollar "Glossar")) bewundern. (Johann Rejek) [Mehr lesen >](/pilze/marasmius-wettsteinii-nadelstreu-käsepilzchen)
 
 <div style="clear:  both"></div>
 
