@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: mendax = täuschend, lügnerisch
   familie: Boletaceae
 profil:
-  aktualisiert: 2024-08-23
+  aktualisiert: 2025-06-14
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
