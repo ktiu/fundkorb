@@ -19,6 +19,14 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_mendax_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.06.2025: Der bekannte [Netzstielige Hexenröhrling](/pilze/boletus-luridus-netzstieliger-hexenröhrling) hat einen nach neueren Erkenntnissen sehr seltenen Doppelgänger (der möglicherweise gar nicht sooo selten ist!). Nur wenige Pilzfreunde haben bisher etwas von ihm erfahren. Er ist jetzt im Dietzenbacher Carré zum zweiten Mal erschienen und daher unser aktueller [Fundkorbpilz](AA "Glossar-"): der Kurznetzige Hexenröhrling *Boletus (Suillellus) mendax*. Auf den ersten Blick ist er kaum von seinem nahen Verwandten zu unterscheiden. Neben der kürzeren Netzzeichnung sind ein roter Röhrenboden und etwas anders geformte Sporen seine Kennzeichen. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-mendax-kurznetziger-hexenröhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_wettsteinii_03_jr.jpg" %}
 {% include abbildung_ende.html %}
 
