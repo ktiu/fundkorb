@@ -33,7 +33,7 @@ Sowohl der deutsche Volks- als auch der wissenschaftliche Artname beziehen sich 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/puccinia_phragmitis_05_jk.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/puccinia_phragmitis_06_jk.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Polsterförmige Telien auf Schilf  --  eingeschnürte, gestielte Teliosporen  (2 Fotos: Julia Kruse)" %}
 
 Rostpilze werden wenig beachtet, aber es lohnt sich dennoch, sich mit ihnen zu befassen und sie zu betrachten. Einige Arten erfreuen das Auge von Naturfreunden mit äußerst attraktiven Erscheinungsformen wie zum Beispiel der [Kronenrost *Puccinia coronata*](/pilze/puccinia-coronata-kronenrost) an Ästen und Trieben des Faulbaums oder der [Brennnesselrost *Puccinia urticata*](/pilze/puccinia-urticata-brennnesselrost). Rostpilze oder Rostpilzartige, wissenschaftlich *Pucciniales* oder *Uredinales* genannt, sind eine Ordnung der Ständerpilze ([Basidiomyzeten](Basidiomyzeten "Glossar")). Weltweit gibt es mehr als 8000 Arten, die rund 13 Familien und 115 Gattungen zugeordnet sind. Zu den Gattungen gehören Aecidium, Cronartium, Cumminsiella, Gymnosporangium, Phragmidium, Puccinia, Ramularia und Uromyces, um nur einige der in Deutschland bekanntesten und häufigsten zu nennen.
 
