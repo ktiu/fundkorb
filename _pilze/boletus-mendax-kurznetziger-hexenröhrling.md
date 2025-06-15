@@ -36,7 +36,7 @@ Die Sporen wurden von *Bernd Miggel* untersucht, der mich auch auf die Existenz 
 
 Der beschriebene Fund stammt aus einer Parkanlage (Carré Rodgaustraße) in Dietzenbach (Kreis Offenbach), in der gleichzeitig an mehreren anderen Stellen zahreiche Netzstielige Hexenröhrlinge (*Boletus luridus*) wuchsen.
 
-Am 13. Juni erneut ein Fund im Dietzenbacher Carré, etwa 200 m Luftlinie von der ersten Fundstelle entfernt, bei *Quercus robur* (Stieleiche). Im Gegensatz zum ersten Fund konnte diesmal ein roter Röhrenboden festgestellt werden, der sich allerdings schnell blau verfärbte. Gezielte Suche wäre vor allem in bebauten Arealen sinnvoll, da hier mit Kalkeintrag in die Böden infolge Bautätigkeit zu rechnen ist. Den Übergang vom genetzten zum ungenetzten Teil des Stieles zeigt das begefügte Foto:
+Am 13. Juni erneut ein Fund im Dietzenbacher Carré, etwa 200 m Luftlinie von der ersten Fundstelle entfernt, bei *Quercus robur* (Stieleiche). Im Gegensatz zum ersten Fund konnte diesmal ein roter Röhrenboden festgestellt werden, der sich allerdings schnell blau verfärbte. Gezielte Suche wäre vor allem in bebauten Arealen sinnvoll, da hier mit Kalkeintrag in die Böden infolge Bautätigkeit zu rechnen ist. Den Übergang vom genetzten zum ungenetzten Teil des Stieles zeigt das beigefügte Foto:
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/boletus_mendax_06_dg.jpg" nocrop=true %}
