@@ -19,19 +19,19 @@ literatur:
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/marasmius_wettsteinii_02_jr.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/marasmius_wettsteinii_03_jr.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="29.07.2023, Zengermoos" %}
 
-Kaum ein anderer Pilz taucht in solchen Mengen auf wie das Nadelstreu-Käsepilzchen. Es ist also kaum zu übersehen, obwohl sein Hutdurchmesser kaum mehr als 0,5 cm beträgt. Mit seinen hellen Hutfarben hebt es sich deutlich von seiner Umgebung (Nadelstreu oder Moos) ab. Pflückt man es vorsichtig heraus, so sieht man, dass er auf alten Fichten- oder Tannennadeln wächst. Im Gegensatz zu seinem möglichen Verwechslungspartner, dem Laubstreu-Käsepilzchen *Marasmius bulliardii*, das – wie der Name schon sagt – auf Laubstreu wächst und nicht von allen Mykologen als eigenständige Art anerkannt wird.
+Kaum ein anderer Pilz taucht in solchen Mengen auf wie das Nadelstreu-Käsepilzchen. Es ist also so gut wie nicht zu übersehen, obwohl sein Hutdurchmesser selten mehr als 0,5 cm beträgt. Mit seinen hellen Hutfarben hebt es sich deutlich von seiner Umgebung (Nadelstreu oder Moos) ab. Pflückt man es vorsichtig heraus, so sieht man, dass es auf alten Fichten- oder Tannennadeln wächst. Im Gegensatz zu seinem möglichen Verwechslungspartner, dem Laubstreu-Käsepilzchen *Marasmius bulliardii*, das – wie der Name schon sagt – auf Laubstreu wächst und nicht von allen Mykologen als eigenständige Art anerkannt wird.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/marasmius_wettsteinii_01_jr.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="19.05.2024, Wald bei Parsdorf" %}
 
 Beide Pilzarten haben einen fallschirmartigen, dunkel genabelten Hut mit weit auseinanderstehenden Lamellen, die nicht bis an den Stiel heranreichen sondern in Form eines Kragens oder Kollars miteinander verbunden sind. Der Stiel ist im Verhältnis zur Hutgröße recht lang (bis 5 cm), dünn (bis 2 mm) und hat einen Farbverlauf von fast weiß an der Stielspitze bis dunkelbraun an der Basis. Das Sporenpulver ist weiß.
 
 Der Artname „Käsepilzchen“ erregt immer wieder Verwunderung. Man könnte vermuten, es würde nach Käse riechen oder schmecken, was ich bei meinen Funden jedoch nicht nachempfinden konnte. Sein Geruch und Geschmack wird als unauffällig und mild beschrieben.
 
-Schwindlinge sind dadurch charakterisiert, dass sie – wenn sie einmal eingetrocknet sind - durch erneute Feuchtigkeitsaufnahme wieder aufquellen und weiterwachsen. Andere Schwindlingsarten mit deutlich erkennbarem Kollar sind:
+Das Nadelstreu-Käsepilzchen gehört in die Gattung der Schwindlinge (Marasmius). Diese sind dadurch charakterisiert, dass sie – wenn sie einmal eingetrocknet sind - durch erneute Feuchtigkeitsaufnahme wieder aufquellen und weiterwachsen. Andere Schwindlingsarten mit deutlich erkennbarem Kollar sind:
 
 *Marasmius bulliardii* = Laubstreu-Käsepilzchen (auf Laubblättern oder Laubholzästchen)\
 [*Marasmius curreyi* = Grasschwindling](/pilze/marasmius-curreyi-grasschwindling) (auf Grasflächen, Hütchen nicht rein weiß)\
