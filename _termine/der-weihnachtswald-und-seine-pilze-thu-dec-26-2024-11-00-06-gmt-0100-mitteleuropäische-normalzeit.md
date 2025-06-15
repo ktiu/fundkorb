@@ -1,6 +1,6 @@
 ---
 aktivitaet: Der Wald und seine Pilze im Juni
-zeit: 2025-06-15T10:00:06.912Z
+zeit: 2025-06-22T10:00:06.912Z
 bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
