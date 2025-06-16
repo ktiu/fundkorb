@@ -16,15 +16,13 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/panaeolus_foenisecii_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 17.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Heu-Düngerling *Panaeolus foenisecii*, der gerade Hochsaison hat. Er wird auch realitätsnah Heuschnitt-Düngerling genannt, weil er auf frisch gemähten Rasenflächen besonders auffällt. Er ist unter den Düngerlingen die mit Abstand häufigste Art und dürfte nirgendwo in Deutschland fehlen. Um ihn wirklich sicher zu bestimmen, ist Mikroskopieren angesagt. Große grobwarzige Sporen sind sein Wahrzeichen. (Dieter Gewalt) [Mehr lesen > ](/pilze/panaeolus-foenisecii-heu-düngerling)
 
 <div style="clear:  both"></div>
-
-
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_mendax_06_dg.jpg" %}
