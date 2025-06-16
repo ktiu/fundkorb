@@ -49,5 +49,5 @@ Sporen breit ellipsoid bis ellipsoid, glatt, hyalin, gemessene Werte 11 - 13 x 8
 
 **Ähnliche, sehr große Scheidenstreiflinge:**
 
-Der Doppeltbescheidete Scheidenstreifling (*Amanita ceciliae*) besitzt viel wärmere Hutfarben, nämlich gelb-, rötlich- bis nussbraun, der Stiel besitzt 1-3 kantige Gürtel, die Sporen sind globos.
+Der [Doppeltbescheideter oder Riesen-Scheidenstreifling (*Amanita ceciliae*)](/pilze/amanita-ceciliae-riesen-scheidenstreifling) besitzt viel wärmere Hutfarben, nämlich gelb-, rötlich- bis nussbraun, der Stiel besitzt 1-3 kantige Gürtel, die Sporen sind globos.
 Der [Südliche Riesen-Streifling (*Amanita battarrae*)](/pilze/amanita-battarrae-südlicher-scheidenstreifling) kommt in unserer Klimazone nur in sehr wärmebegünstigten Bereichen vor. Der Hut ist meist radial gezont, und die Sporen sind globos bis subglobos.
