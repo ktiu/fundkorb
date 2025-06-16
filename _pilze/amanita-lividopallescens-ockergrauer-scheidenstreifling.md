@@ -30,20 +30,15 @@ literatur:
 Will man den Ockergrauer Riesenstreifling *Amanita lividopallescens* finden, muss man wärmebegünstigte Kalklaubwälder aufsuchen. Dort kann man ihn auf Kalklehm an lichten Stellen, unter Laubbäumen, wie Eichen Rot- und Hainbuchen, finden. Er ist einer der großen Scheidenstreiflinge mit gerieftem, ungezontem, bleigraubraunem Hut, hutfarbenem, genattertem bis schuppigem Stiel und dicker, stabiler, offener, weiß bis bräunlich gefärbter [Volva](Volva "Glossar"). Eine nicht häufig vorkommende, jedoch ungefährdete Art.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/amanita_lividopallescens_04_bm.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/amanita_lividopallescens_03_bm.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html %}
+{% include bild.html datei="/bilder/amanita_lividopallescens_05_bm.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/amanita_lividopallescens_06_bm.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Sporen in Phloxin -- Volva außen, Hyphen – Volva innen, gemischt hyphig-zellige Struktur" %}
 
 **Makroskopische Merkmale** (überwiegend nach LUDWIG 2012)**:**
 
 Hut glatt, klebrig, anfangs eiförmig bis halbkugelig, bald ausgebreitet, selten mit angedeutetem Buckel, alt flach und mittig leicht vertieft, manchmal mit [Velumschollen](Velum "Glossar") auf dem Hut, bis etwa 15 cm (in Ausnahmefällen 20 cm) breit. Farbe meist bleigraubraun, aber mitunter auch grauocker oder haselnussbraun, reife Fruchtkörper bis zu einem Drittel des Radius stark gerieft. Lamellen dichtstehend, weiß bis creme, Schneide mit der Fläche gleichfarben. Stiel bräunlich, genattert bis geschuppt, ohne Ring, bis 20 cm lang. Fleisch weiß, geruchlos und mild. Volva dick, brüchig, abstehend, dauerhaft, jung fast weiß, alt bräunlich. Die Farbe des frisch ausgefallenen Sporenpulvers ist weiß.
 
 **Mikroskopische Merkmale:**
-
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/amanita_lividopallescens_05_bm.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/amanita_lividopallescens_06_bm.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Sporen in Phloxin -- Volva außen, Hyphen -- Volva innen, gemischt hyphig-zellige Struktur" %}
 
 Sporen breit ellipsoid bis ellipsoid, glatt, hyalin, gemessene Werte 11 - 13 x 8.5 - 10µm, mit einem Schlankheitdgrad Q = 1,2 - 1,35. Die sehr stabile Volva besteht außen fast nur aus Hyphen, innen ist eine gemischt hyphig-zellige Struktur erkennbar.
 
