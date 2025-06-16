@@ -12,8 +12,6 @@ footer_scripts:
 
 - - -
 
-**Die heutige Exkursion muss leider wegen zu schlechten Wetterbedingungen abgesagt werden.**
-
 Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Juni 10:00 Uhr. [Hier geht's zur Anmeldung ->](/termine)
 
 - - -
