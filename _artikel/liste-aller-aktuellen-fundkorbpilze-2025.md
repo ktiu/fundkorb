@@ -3,8 +3,11 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-1﻿7.06.2025: [Panaeolus foenisecii - Heu-Düngerling](/pilze/panaeolus-foenisecii-heu-düngerling) 16.06.2025: [Boletus mendax - Kurznetziger Hexenröhrling](/pilze/boletus-mendax-kurznetziger-hexenröhrling)\ 15.06.2025: [Marasmius wettsteinii - Nadelstreu-Käsepilzchen](/pilze/marasmius-wettsteinii-nadelstreu-käsepilzchen)\    
-14.06.2025: [Amanita pantherina - Pantherpilz](/pilze/amanita-pantherina-pantherpilz)\ 13.06.2025: [Inonotus hispidus - Zottiger Schillerporling](/pilze/inonotus-hispidus-zottiger-schillerporling)\ 
+1﻿7.06.2025: [Panaeolus foenisecii - Heu-Düngerling](/pilze/panaeolus-foenisecii-heu-düngerling)  
+16.06.2025: [Boletus mendax - Kurznetziger Hexenröhrling](/pilze/boletus-mendax-kurznetziger-hexenröhrling)  
+15.06.2025: [Marasmius wettsteinii - Nadelstreu-Käsepilzchen](/pilze/marasmius-wettsteinii-nadelstreu-käsepilzchen)  
+14.06.2025: [Amanita pantherina - Pantherpilz](/pilze/amanita-pantherina-pantherpilz)  
+13.06.2025: [Inonotus hispidus - Zottiger Schillerporling](/pilze/inonotus-hispidus-zottiger-schillerporling)  
 12.06.2025: [Mycena sanguinolenta - Purpurschneidiger Helmling](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)\
 11.06.2025: [Tubaria dispersa - Gelbblättriger Trompetenschnitzling](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)\
 10.06.2025: [Puccinia phragmitis - Ampfer-Schilfrost](/pilze/puccinia-phragmitis-großer-ampfer-schilfrost)\
