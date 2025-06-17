@@ -25,4 +25,4 @@ Sein namensgebendes Kennzeichen sind die längs gerillten Stiele, das aber nicht
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/mycena_polygramma_02_us.jpg" %}
-{% include abbildung_ende.html legende="(Foto: Udo Schäfer)" %}
+{% include abbildung_ende.html legende="Foto: Udo Schäfer" %}
