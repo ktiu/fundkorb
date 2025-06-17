@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+1﻿8.06.2025: [Mycena polygramma - Rillstieliger Helmling](/pilze/mycena-polygramma-rillstieliger-helmling)  
 1﻿7.06.2025: [Panaeolus foenisecii - Heu-Düngerling](/pilze/panaeolus-foenisecii-heu-düngerling)  
 16.06.2025: [Boletus mendax - Kurznetziger Hexenröhrling](/pilze/boletus-mendax-kurznetziger-hexenröhrling)  
 15.06.2025: [Marasmius wettsteinii - Nadelstreu-Käsepilzchen](/pilze/marasmius-wettsteinii-nadelstreu-käsepilzchen)  
