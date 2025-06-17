@@ -11,12 +11,13 @@ profil:
 hauptbild:
   anzeige: false
   datei: /bilder/mycena_polygramma_01_hl.jpg
+  legende: ""
 literatur:
   - url: http://tintling.com/pilzbuch/arten/m/Mycena_polygramma.html
 ---
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_polygramma_01_hl.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
+{% include abbildung_ende.html legende="Foto: Hermine Lotz-Winter" %}
 
 Der Pilz ist im Rhein-Main-Gebiet wie auch in ganz Mitteleuropa weit verbreitet aber nicht sehr häufig. Er wächst etwa von August bis November in Laubwäldern an der Basis lebender Bäume, an Stümpfen, am Boden auf vegrabenem Holz, meist gesellig aber nicht wirklich büschelig.
 
