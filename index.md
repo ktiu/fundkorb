@@ -15,6 +15,14 @@ footer_scripts:
 Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Juni 10:00 Uhr. [Hier geht's zur Anmeldung ->](/termine)
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_polygramma_01_hl.jpg" %}
+{% include abbildung_ende.html %}
+
+18.06.2025: Der Rillstielige Helmling *Mycena polygramma* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Der deutsche Name beschreibt ein sichtbares Bestimmungsmerkmal. Im Idealfall ist der Stiel über die gesamte Länge gerillt und der Pilz damit eindeutig bestimmbar. Weitere Merkmale sind neben der typischen Helmlingshutform die grauen bis graubraunen Hut- und Stielfarben, oft auch mit einer bläulichen Komponente. Er ist nicht häufig aber weit verbreitet und wächst meist gesellig auf Laubholzstümpfen oder vergrabenem Holz. (Johann Rejek) [Mehr lesen > ](/pilze/mycena-polygramma-rillstieliger-helmling)
+
+<div style="clear:  both"></div>
+
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/panaeolus_foenisecii_01_dg.jpg" %}
@@ -64,21 +72,6 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tubaria_dispersa_01_fk.jpeg" %}
-{% include abbildung_ende.html %}
-
-11.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gelbblättrige Trompetenschnitzling *Tubaria dispersa*, ein wirtstreuer Begleiter des Weißdorns, einem nicht gerade häufigen Rosengewächs. Sobald man den Pilz in der richtigen Gattung vermutet, ist er leicht zu erkennen. Unter den Trompetenschnitzlingen fällt er durch seine helle gelbliche Farbe an allen seinen Fruchtkörperteilen auf. Er ist im Frühjahr zu finden, etwa bis Anfang Juni, dann wieder im Herbst. (Dieter Gewalt) [Mehr lesen >](/pilze/tubaria-dispersa-gelbblättriger-trompetenschnitzling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/puccinia_phragmitis_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.06.2025: [Rostpilze](/verwandt/rostpilze) können erstaunlich schön und interessant sein. Zum Beispiel der Ampfer-Schilfrost *Puccinia phragmitis*, unser heutiger [Fundkorbpilz](AA "Glossar-"). So wie auf dem Foto sieht er mit der Lupe betrachtet auf der Blattunterseite von Ampferpflanzen aus. Mal ehrlich: sind diese winzigen Früchtchen nicht hübsch? Von da wechselt er per Sporenflug auf Schilf, wo er unscheinbare polsterförmige Flecken erzeugt, die Sporen zum Überwintern produzieren. Landen diese auf Ampferblättern, ist der Kreislauf geschlossen und der zweifache Wirtswechsel vollendet. (Dieter Gewalt) [Mehr lesen >](/pilze/puccinia-phragmitis-großer-ampfer-schilfrost)
-
-<div style="clear:  both"></div>
 
 - - -
 
