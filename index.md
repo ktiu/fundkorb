@@ -17,6 +17,14 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mutinus_ravenellii_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus Sachsen. Offensichtlich ist die Himberrote Hundsrute *Mutinus ravenelii* in der Nordhäfte und im Osten Deutschlands weiter verbreitet und häufiger als in der Südhälfte. Gemeldet wurde sie von Familie Prescher aus Leipzig mit der Vermutung, dass der hübsche aber aasartig stinkende Pilz mit Rindenmulch in ihren Garten gelangt sein könnte. Wie auch immer: in jedem Fall sind Fluginsekten maßgeblich an der Sporenverbreitung beteilgt. (Dieter Gewalt) [Mehr lesen >](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/mycena_polygramma_01_hl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,22 +61,6 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 {% include abbildung_ende.html %}
 
 14.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pantherpilz *Amanita pantherina*, der nicht ganz ungefährliche Doppelgänger des Perlpilzes. Er enthält die vom Fliegenpilz bekannten Giftstoffe Ibotensäure und Muszimol, darüberhinaus auch Bufotenin. Die rauschähnlichen Symptome und Halluzinationen sind jedoch stärker als bei diesem und können bei Personen mit Kreislauf- oder Herzerkrankungen unter Umständen tödlich sein. Der Pantherpilz ist längst nicht so häufig wie Perl- oder Fliegenpilz, im Rhein-Main-Gebiet aber nicht selten. Sein häufigster [Mykorrhizapartner](Mykorrhiza "Glossar") ist die Eiche, gefolgt von Buche und Kiefer. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-pantherina-pantherpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/inonotus_hispidus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.06.2025: Irgendwann erwischt es so ziemlich jeden Apfelbaum, meist auf seine alten Tage. Er wird vom Zottigen Schillerporling *Inonotus hispidus* (auch Pelzporling genannt) befallen und damit ist sein Schicksal besiegelt. Unser heutiger [Fundkorbpilz](AA "Glossar-") ist ein mordender Parasit aber immerhin ein rücksichtsvoller Killer. Er lässt dem Gartenbesitzer Zeit, ein junges Bäumchen zu pflanzen und dessen Ertragsreife abzuwarten. Bis dahin trägt der Patient noch Früchte. (Dieter Gewalt) [Mehr lesen >](/pilze/inonotus-hispidus-zottiger-schillerporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_sanguinolenta_04_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-12.06.2025: In der artenreichen Gattung der Helmlinge gibt es einige die relativ früh im Jahr erscheinen. Der  Purpurschneidige Helmling  *Mycena sanguinolenta* ist einer von ihnen und unser aktueller [Fundkorbpilz](AA "Glossar-"). Ich fand ihn einzeln bis gesellig wachsend in Moosen im Fichtenwald. Man erkennt ihn an dem relativ langen Stiel, den weinrötlich gefärbten Lamellenschneiden und dem schwach rötlich blutenden Stiel bei Verletzung im unteren Stielbereich. (Johann Rejek) [Mehr lesen >](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)
 
 <div style="clear:  both"></div>
 
