@@ -24,7 +24,7 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_polygramma_01_hl.jpg" %}
 {% include abbildung_ende.html %}
 
