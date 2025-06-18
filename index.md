@@ -15,14 +15,14 @@ footer_scripts:
 Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Juni 10:00 Uhr. [Hier geht's zur Anmeldung ->](/termine)
 
 - - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_polygramma_01_hl.jpg" %}
 {% include abbildung_ende.html %}
 
-18.06.2025: Der Rillstielige Helmling *Mycena polygramma* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Der deutsche Name beschreibt ein sichtbares Bestimmungsmerkmal. Im Idealfall ist der Stiel über die gesamte Länge gerillt und der Pilz damit eindeutig bestimmbar. Weitere Merkmale sind neben der typischen Helmlingshutform die grauen bis graubraunen Hut- und Stielfarben, oft auch mit einer bläulichen Komponente. Er ist nicht häufig aber weit verbreitet und wächst meist gesellig auf Laubholzstümpfen oder vergrabenem Holz. (Johann Rejek) [Mehr lesen > ](/pilze/mycena-polygramma-rillstieliger-helmling)
+18.06.2025: Der deutsche Name beschreibt ein wichtiges Merkmal unseres heutigen Fundkorbpilzes: <ins>Rillstieliger</ins> Helmling (*Mycena polygramma*). Im Idealfall ist der Stiel über die gesamte Länge gerillt und der Pilz damit eindeutig bestimmbar. Weitere Merkmale sind neben der typischen Helmlingshutform die grauen bis graubraunen Hut- und Stielfarben, oft auch mit einer bläulichen Komponente. Er ist nicht häufig aber weit verbreitet und wächst meist gesellig auf Laubholzstümpfen oder vergrabenem Holz. (Johann Rejek) [Mehr lesen > ](/pilze/mycena-polygramma-rillstieliger-helmling)
 
 <div style="clear:  both"></div>
-
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/panaeolus_foenisecii_01_dg.jpg" %}
@@ -71,7 +71,6 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 12.06.2025: In der artenreichen Gattung der Helmlinge gibt es einige die relativ früh im Jahr erscheinen. Der  Purpurschneidige Helmling  *Mycena sanguinolenta* ist einer von ihnen und unser aktueller [Fundkorbpilz](AA "Glossar-"). Ich fand ihn einzeln bis gesellig wachsend in Moosen im Fichtenwald. Man erkennt ihn an dem relativ langen Stiel, den weinrötlich gefärbten Lamellenschneiden und dem schwach rötlich blutenden Stiel bei Verletzung im unteren Stielbereich. (Johann Rejek) [Mehr lesen >](/pilze/mycena-sanguinolenta-purpurschneidiger-helmling)
 
 <div style="clear:  both"></div>
-
 
 - - -
 
