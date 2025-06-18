@@ -20,7 +20,7 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 {% include bild.html datei="/bilder/mycena_polygramma_01_hl.jpg" %}
 {% include abbildung_ende.html %}
 
-18.06.2025: Der deutsche Name beschreibt ein wichtiges Merkmal unseres heutigen Fundkorbpilzes: <ins>Rillstieliger</ins> Helmling (*Mycena polygramma*). Im Idealfall ist der Stiel über die gesamte Länge gerillt und der Pilz damit eindeutig bestimmbar. Weitere Merkmale sind neben der typischen Helmlingshutform die grauen bis graubraunen Hut- und Stielfarben, oft auch mit einer bläulichen Komponente. Er ist nicht häufig aber weit verbreitet und wächst meist gesellig auf Laubholzstümpfen oder vergrabenem Holz. (Johann Rejek) [Mehr lesen > ](/pilze/mycena-polygramma-rillstieliger-helmling)
+18.06.2025: Der deutsche Name beschreibt ein wichtiges Merkmal unseres heutigen [Fundkorbpilzes](AA "Glossar-"): <ins>Rillstieliger</ins> Helmling (*Mycena polygramma*). Im Idealfall ist der Stiel über die gesamte Länge gerillt und der Pilz damit eindeutig bestimmbar. Weitere Merkmale sind neben der typischen Helmlingshutform die grauen bis graubraunen Hut- und Stielfarben, oft auch mit einer bläulichen Komponente. Er ist nicht häufig aber weit verbreitet und wächst meist gesellig auf Laubholzstümpfen oder vergrabenem Holz. (Johann Rejek) [Mehr lesen > ](/pilze/mycena-polygramma-rillstieliger-helmling)
 
 <div style="clear:  both"></div>
 
