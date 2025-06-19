@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-19.06.2025: [Mutinus ravenelii - Himbeerrote Hundsrute](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)  
+20.06.2025: [Polyporus arcularius - Sklerotienporling, Kleiner Schuppenporling](/pilze/polyporus-arcularius-weitlöcheriger-stielporling)  
+19.06.2025: [Mutinus ravenelii - Himbeerrote Hundsrute](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)\
 1﻿8.06.2025: [Mycena polygramma - Rillstieliger Helmling](/pilze/mycena-polygramma-rillstieliger-helmling)\
 1﻿7.06.2025: [Panaeolus foenisecii - Heu-Düngerling](/pilze/panaeolus-foenisecii-heu-düngerling)\
 16.06.2025: [Boletus mendax - Kurznetziger Hexenröhrling](/pilze/boletus-mendax-kurznetziger-hexenröhrling)\
