@@ -17,6 +17,14 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_arcularius_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.06.2025: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist was fürs Auge und für die Pfanne. Voraussetzung: der Weitlöcherige Stielporling *Polyporus arcularius* muss jung und zart sein. Er ist zweifellos eine der schönsten Arten unter den Stielporlingen, was auf die wabenartigen, mehr oder weniger am Stiel herablaufenden Poren und den zart bewimperten Hutrand zurückzuführen ist. Er gilt als selten, ist im Rhein-Main-Gebiet aber ziemlich häufig. Knusprig gebraten und dezent mit etwas Salz und Pfeffer gewürzt ist er durchaus lecker, wenn er auch nicht ganz die Qualität des [Kleinen Schuppenporlings](/pilze/polyporus-tuberaster-sklerotienporling) erreicht. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-arcularius-weitlöcheriger-stielporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mutinus_ravenellii_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
