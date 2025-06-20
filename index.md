@@ -17,6 +17,14 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopus_dryophilus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.06.2025: Zur Zeit ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Waldfreundrübling *Gymnopus dryophilus*, nur vereinzelt anzutreffen. Das ändert sich bei optimalen Wachstumsbedingungen. Dann spielt er als Streuzersetzer eine wichtige Rolle im Ökosystem Wald und ist in hohem Maße an der Verrottung von Laub und Nadeln beteiligt. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht ganz einfach. (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_arcularius_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
