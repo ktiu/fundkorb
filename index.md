@@ -36,7 +36,7 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 {% include bild.html datei="/bilder/mutinus_ravenellii_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-19.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus Sachsen. Offensichtlich ist die Himberrote Hundsrute *Mutinus ravenelii* in der Nordhäfte und im Osten Deutschlands weiter verbreitet und häufiger als in der Südhälfte. Gemeldet wurde sie von Familie Prescher aus Leipzig mit der Vermutung, dass der hübsche aber aasartig stinkende Pilz mit Rindenmulch in ihren Garten gelangt sein könnte. Wie auch immer: in jedem Fall sind Fluginsekten maßgeblich an der Sporenverbreitung beteilgt. (Dieter Gewalt) [Mehr lesen >](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)
+19.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus Sachsen. Offensichtlich ist die Himberrote Hundsrute *Mutinus ravenelii* in der Nordhälfte und im Osten Deutschlands weiter verbreitet und häufiger als in der Südhälfte. Gemeldet wurde sie von Familie Prescher aus Leipzig mit der Vermutung, dass der hübsche aber aasartig stinkende Pilz mit Rindenmulch in ihren Garten gelangt sein könnte. Wie auch immer: in jedem Fall sind Fluginsekten maßgeblich an der Sporenverbreitung beteiligt. (Dieter Gewalt) [Mehr lesen >](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)
 
 <div style="clear:  both"></div>
 
