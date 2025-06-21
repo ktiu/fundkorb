@@ -17,6 +17,14 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/usnea_hirta_02_lh.jpg" %}
+{% include abbildung_ende.html %}
+
+22.06.2025: Bei der Struppigen Bartflechte *Usnea hirta*, unserem akuellen [Fundkorbpilz](AA "Glossar-"), handelt es sich um eine der kleineren, buschig wachsenden Bartflechten. Man findet diese weit verbreitete, nicht seltene Art in lichten Wäldern an freistehenden Bäumen. Wir fanden mehrere Lager (so nennt man die Fruchtkörper bei den Flechten) an dünnen Zweigen einer jungen Waldkiefer in einem Kiefern-Schonwald auf saurem, torfigem Boden im Nordschwarzwald auf 720 mNN. [Mehr lesen >](/pilze/usnea-hirta-struppige-bartflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gymnopus_dryophilus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -69,14 +77,6 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 {% include abbildung_ende.html %}
 
 15.06.2025: Wer zur Zeit in Fichten- und Tannenwäldern unterwegs ist, dem dürften Unmengen von kleinen hell- bis weißfarbenen Pilzhütchen aufgefallen sein. Mit großer Wahrscheinlichkeit handelt es sich dabei um das Nadelstreu-Käsepilzchen *Marasmius wettsteinii*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Es wächst auf alten Nadeln von Fichten oder Tannen. Wer es nicht glaubt, sollte behutsam ein Exemplar entnehmen. Mit etwas Glück hängt die Nadel am Stiel. Auf der Hutunterseite kann man ein Halsband ([Kollar](Kollar "Glossar")) bewundern. (Johann Rejek) [Mehr lesen >](/pilze/marasmius-wettsteinii-nadelstreu-käsepilzchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_pantherina_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pantherpilz *Amanita pantherina*, der nicht ganz ungefährliche Doppelgänger des Perlpilzes. Er enthält die vom Fliegenpilz bekannten Giftstoffe Ibotensäure und Muszimol, darüberhinaus auch Bufotenin. Die rauschähnlichen Symptome und Halluzinationen sind jedoch stärker als bei diesem und können bei Personen mit Kreislauf- oder Herzerkrankungen unter Umständen tödlich sein. Der Pantherpilz ist längst nicht so häufig wie Perl- oder Fliegenpilz, im Rhein-Main-Gebiet aber nicht selten. Sein häufigster [Mykorrhizapartner](Mykorrhiza "Glossar") ist die Eiche, gefolgt von Buche und Kiefer. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-pantherina-pantherpilz)
 
 <div style="clear:  both"></div>
 
