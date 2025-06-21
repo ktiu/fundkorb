@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-21.06.2025: [Gymnopus dryophilus - Waldfreundrübling](/pilze/gymnopus-dryophilus-waldfreundrübling)  
+22.06.2025: [Usnea hirta - Struppige Bartflechte](/pilze/usnea-hirta-struppige-bartflechte)  
+21.06.2025: [Gymnopus dryophilus - Waldfreundrübling](/pilze/gymnopus-dryophilus-waldfreundrübling)\
 20.06.2025: [Polyporus arcularius - Sklerotienporling, Kleiner Schuppenporling](/pilze/polyporus-arcularius-weitlöcheriger-stielporling)\
 19.06.2025: [Mutinus ravenelii - Himbeerrote Hundsrute](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)\
 1﻿8.06.2025: [Mycena polygramma - Rillstieliger Helmling](/pilze/mycena-polygramma-rillstieliger-helmling)\
