@@ -20,7 +20,7 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 {% include bild.html datei="/bilder/usnea_hirta_02_lh.jpg" %}
 {% include abbildung_ende.html %}
 
-22.06.2025: Bei der Struppigen Bartflechte *Usnea hirta*, unserem akuellen [Fundkorbpilz](AA "Glossar-"), handelt es sich um eine der kleineren, buschig wachsenden Bartflechten. Man findet diese weit verbreitete, nicht seltene Art in lichten Wäldern an freistehenden Bäumen. Wir fanden mehrere Lager (so nennt man die Fruchtkörper bei den Flechten) an dünnen Zweigen einer jungen Waldkiefer in einem Kiefern-Schonwald auf saurem, torfigem Boden im Nordschwarzwald auf 720 mNN. [Mehr lesen >](/pilze/usnea-hirta-struppige-bartflechte)
+22.06.2025: Bei der Struppigen Bartflechte *Usnea hirta*, unserem akuellen [Fundkorbpilz](AA "Glossar-"), handelt es sich um eine der kleineren, buschig wachsenden Bartflechten. Man findet diese weit verbreitete, nicht seltene Art in lichten Wäldern an freistehenden Bäumen. Wir fanden mehrere Lager (so nennt man die Fruchtkörper bei den Flechten) an dünnen Zweigen einer jungen Waldkiefer in einem Kiefern-Schonwald auf saurem, torfigem Boden im Nordschwarzwald auf 720 mNN. (Bernd Miggel) [Mehr lesen >](/pilze/usnea-hirta-struppige-bartflechte)
 
 <div style="clear:  both"></div>
 
