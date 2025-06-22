@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Juni 10:00 Uhr. [Hier geht's zur Anmeldung ->](/termine)
+Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeigneten Wachstumsbedingungen hier angezeigt.
 
 - - -
 
