@@ -17,6 +17,14 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_violeipes_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.06.2025: Aktueller Fundkorbpilz ist der Violettstielige Brätlingstäubling *Russula violeipes*, eine der Premiumarten unter den Täublingen, die auch Pfirsischtäubling genannt wird. Trotz der Trockenheit fanden wir bei unserer gestrigen pilzkundlichen Führung in einem Wald bei Dietzenbach etwa 20 Fruchtkörper dieses hervorragenden Speisepilzes. Die Schwierigkeit beim Erkennen der zahlreichen Täublingsarten ist ihre Farbvariabilität. Nur wenige zeigen zuverlässig konstante Farben. Beim Violettstieligen Täubling beginnt das Problem schon beim namensgebenden violetten Stiel. Manchmal hat er diese Farbe, manchmal erscheint sie als zarter Hauch oder auch satt aufgetragen, meistens ist sie aber weiß. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/usnea_hirta_02_lh.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,22 +69,6 @@ Neuer Exkursionstermin **"Der Wald und seine Pilze im Juni"** am Sonntag, 22. Ju
 {% include abbildung_ende.html %}
 
 17.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Heu-Düngerling *Panaeolus foenisecii*, der gerade Hochsaison hat. Er wird auch realitätsnah Heuschnitt-Düngerling genannt, weil er auf frisch gemähten Rasenflächen besonders auffällt. Er ist unter den Düngerlingen die mit Abstand häufigste Art und dürfte nirgendwo in Deutschland fehlen. Um ihn wirklich sicher zu bestimmen, ist Mikroskopieren angesagt. Große grobwarzige Sporen sind sein Wahrzeichen. (Dieter Gewalt) [Mehr lesen > ](/pilze/panaeolus-foenisecii-heu-düngerling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_mendax_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.06.2025: Der bekannte [Netzstielige Hexenröhrling](/pilze/boletus-luridus-netzstieliger-hexenröhrling) hat einen nach neueren Erkenntnissen sehr seltenen Doppelgänger (der möglicherweise gar nicht sooo selten ist!). Nur wenige Pilzfreunde haben bisher etwas von ihm erfahren. Er ist jetzt im Dietzenbacher Carré zum zweiten Mal erschienen und daher unser aktueller [Fundkorbpilz](AA "Glossar-"): der Kurznetzige Hexenröhrling *Boletus (Suillellus) mendax*. Auf den ersten Blick ist er kaum von seinem nahen Verwandten zu unterscheiden. Neben der kürzeren Netzzeichnung sind ein roter Röhrenboden und etwas anders geformte Sporen seine Kennzeichen. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-mendax-kurznetziger-hexenröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_wettsteinii_03_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-15.06.2025: Wer zur Zeit in Fichten- und Tannenwäldern unterwegs ist, dem dürften Unmengen von kleinen hell- bis weißfarbenen Pilzhütchen aufgefallen sein. Mit großer Wahrscheinlichkeit handelt es sich dabei um das Nadelstreu-Käsepilzchen *Marasmius wettsteinii*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Es wächst auf alten Nadeln von Fichten oder Tannen. Wer es nicht glaubt, sollte behutsam ein Exemplar entnehmen. Mit etwas Glück hängt die Nadel am Stiel. Auf der Hutunterseite kann man ein Halsband ([Kollar](Kollar "Glossar")) bewundern. (Johann Rejek) [Mehr lesen >](/pilze/marasmius-wettsteinii-nadelstreu-käsepilzchen)
 
 <div style="clear:  both"></div>
 
