@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_acicula_04_jr.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html %}
+
+24.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") lässt sich vereinfacht so beschreiben: klein aber fein! Der Orangerote Helmling *Mycena acicula* gehört zu den kleinen und farbfreudigen Helmlingen. Der orangerote Hut, die meist langen gelbrün transparenten und bereiften Stiele und das Myzelfilz an der Stielbasis sind eindeutige Bestimmungsmerkmale. Man findet ihn einzeln wachsend bereits ihm Frühsommer an abgestorbenen Pflanzenresten und verrottendem Holz. (Johann Rejek) [Mehr lesen >](/pilze/mycena-acicula-orangeroter-helmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_violeipes_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,14 +69,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 18.06.2025: Der deutsche Name beschreibt ein wichtiges Merkmal unseres heutigen [Fundkorbpilzes](AA "Glossar-"): <ins>Rillstieliger</ins> Helmling (*Mycena polygramma*). Im Idealfall ist der Stiel über die gesamte Länge gerillt und der Pilz damit eindeutig bestimmbar. Weitere Merkmale sind neben der typischen Helmlingshutform die grauen bis graubraunen Hut- und Stielfarben, oft auch mit einer bläulichen Komponente. Er ist nicht häufig aber weit verbreitet und wächst meist gesellig auf Laubholzstümpfen oder vergrabenem Holz. (Johann Rejek) [Mehr lesen > ](/pilze/mycena-polygramma-rillstieliger-helmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/panaeolus_foenisecii_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Heu-Düngerling *Panaeolus foenisecii*, der gerade Hochsaison hat. Er wird auch realitätsnah Heuschnitt-Düngerling genannt, weil er auf frisch gemähten Rasenflächen besonders auffällt. Er ist unter den Düngerlingen die mit Abstand häufigste Art und dürfte nirgendwo in Deutschland fehlen. Um ihn wirklich sicher zu bestimmen, ist Mikroskopieren angesagt. Große grobwarzige Sporen sind sein Wahrzeichen. (Dieter Gewalt) [Mehr lesen > ](/pilze/panaeolus-foenisecii-heu-düngerling)
 
 <div style="clear:  both"></div>
 
