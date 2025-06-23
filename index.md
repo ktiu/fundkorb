@@ -17,7 +17,7 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_acicula_04_jr.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/mycena_acicula_04_jr.jpg" %}
 {% include abbildung_ende.html %}
 
 24.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") lässt sich vereinfacht so beschreiben: klein aber fein! Der Orangerote Helmling *Mycena acicula* gehört zu den kleinen und farbfreudigen Helmlingen. Der orangerote Hut, die meist langen gelbrün transparenten und bereiften Stiele und das Myzelfilz an der Stielbasis sind eindeutige Bestimmungsmerkmale. Man findet ihn einzeln wachsend bereits ihm Frühsommer an abgestorbenen Pflanzenresten und verrottendem Holz. (Johann Rejek) [Mehr lesen >](/pilze/mycena-acicula-orangeroter-helmling)
