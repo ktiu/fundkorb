@@ -69,4 +69,4 @@ Mikroskopische Merkmale:\
 
 Erscheinungszeit:  Juni - September
 
-Verwechselt werden könnte *Russula amoena* mit violett- bis lilahütigen (älteren) Exemplaren des [Violettstieligen Brätlingstäublings *Russula violeipes*](/pilze/russula-violeipes-violettstieliger-brätlingstäubling), der überwiegend bei Buchen wächst und auch als Pfirsischtäubling bekannt ist. Zu erwähnen wäre noch *Russula amoenicolor*, eine im Mittelmeerraum verbreitete Art, die in Deutschland sehr selten bzw. nicht sicher nachgewiesen ist.
+Verwechselt werden könnte *Russula amoena* mit violett- bis lilahütigen (älteren) Exemplaren des [Violettstieligen Brätlingstäublings *Russula violeipes*](/pilze/russula-violeipes-violettstieliger-brätlingstäubling), der überwiegend bei Buchen wächst und auch als Pfirsichtäubling bekannt ist. Zu erwähnen wäre noch *Russula amoenicolor*, eine im Mittelmeerraum verbreitete Art, die in Deutschland sehr selten bzw. nicht sicher nachgewiesen ist.
