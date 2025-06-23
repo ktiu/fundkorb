@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+24.06.2025: [Mycena acicula - Orangeroter Helmling](/pilze/mycena-acicula-orangeroter-helmling)  
 23.06.2025: [Russula violeipes - Violettstieliger Brätlingstäubling](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)  
 22.06.2025: [Usnea hirta - Struppige Bartflechte](/pilze/usnea-hirta-struppige-bartflechte)\
 21.06.2025: [Gymnopus dryophilus - Waldfreundrübling](/pilze/gymnopus-dryophilus-waldfreundrübling)\
