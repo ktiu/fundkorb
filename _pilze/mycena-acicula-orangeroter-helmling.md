@@ -17,7 +17,7 @@ hauptbild:
 {% include bild.html datei="/bilder/mycena_acicula_01_wk.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Wolfgang Kaiser" %}
 
-Einer meiner Pilzfreunde hat einmal gesagt: "In die Helmlinge könnte ich mich verlieben. Ganz besonders in den Orangeroten." Dem kann ich nur zustimmen. Der Orangerote (*Mycena acicula*) gehört zu den kleinen, aber besonders langstieligen. Man findet ihn an abgestorbenen Pflanzenresten, vorrottendem Holz, gern in moosiger oder grasiger Umgebung. Weil er so klein ist, wird er aber meist übersehen. Seine durchscheinend gerieften Hüte erreichen gerade mal 0,5 bis höchstens 1 cm Durchmesser, die dünnen, oft etwas transparenten aber auch fein bereiften Stiele können dagegen bis zu 7 cm lang werden.
+Einer meiner Pilzfreunde hat einmal gesagt: "In die Helmlinge könnte ich mich verlieben. Ganz besonders in den Orangeroten." Dem kann ich nur zustimmen. Der Orangerote (*Mycena acicula*) gehört zu den kleinen, aber besonders langstieligen. Man findet ihn an abgestorbenen Pflanzenresten, verrottendem Holz, gern in moosiger oder grasiger Umgebung. Weil er so klein ist, wird er aber meist übersehen. Seine durchscheinend gerieften Hüte erreichen gerade mal 0,5 bis höchstens 1 cm Durchmesser, die dünnen, oft etwas transparenten aber auch fein bereiften Stiele können dagegen bis zu 7 cm lang werden.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/mycena_acicula_03_nk.jpg" nocrop=true gross=true %}
