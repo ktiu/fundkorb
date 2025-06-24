@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_chrysenteron_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotfußröhrling *Xerocomus chrysenteron*, der auch bei unserer jüngsten Exkursion im Rhein-Main-Gebiet gefunden wurde. Während der eigentlichen Pilzsaison landet er in den Körben der meisten Pilzsammler. Einige halten ihn sogar für einen Maronenröhrling. Selbst wer ihn richtig benannt hat, kann sich seiner Sache nicht mehr sicher sein. Dank der modernen Gentechnologie wissen die Mykologen inzwischen, dass es mehrere Rotfußröhrlingsarten gibt, die alle essbar sind. Zu den Delikatessen würde ich keine von ihnen zählen. (Dieter Gewalt) [Mehr lesen >](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_acicula_04_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,14 +69,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 19.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus Sachsen. Offensichtlich ist die Himberrote Hundsrute *Mutinus ravenelii* in der Nordhälfte und im Osten Deutschlands weiter verbreitet und häufiger als in der Südhälfte. Gemeldet wurde sie von Familie Prescher aus Leipzig mit der Vermutung, dass der hübsche aber aasartig stinkende Pilz mit Rindenmulch in ihren Garten gelangt sein könnte. Wie auch immer: in jedem Fall sind Fluginsekten maßgeblich an der Sporenverbreitung beteiligt. (Dieter Gewalt) [Mehr lesen >](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_polygramma_01_hl.jpg" %}
-{% include abbildung_ende.html %}
-
-18.06.2025: Der deutsche Name beschreibt ein wichtiges Merkmal unseres heutigen [Fundkorbpilzes](AA "Glossar-"): <ins>Rillstieliger</ins> Helmling (*Mycena polygramma*). Im Idealfall ist der Stiel über die gesamte Länge gerillt und der Pilz damit eindeutig bestimmbar. Weitere Merkmale sind neben der typischen Helmlingshutform die grauen bis graubraunen Hut- und Stielfarben, oft auch mit einer bläulichen Komponente. Er ist nicht häufig aber weit verbreitet und wächst meist gesellig auf Laubholzstümpfen oder vergrabenem Holz. (Johann Rejek) [Mehr lesen > ](/pilze/mycena-polygramma-rillstieliger-helmling)
 
 <div style="clear:  both"></div>
 
