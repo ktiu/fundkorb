@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/inocybe_rimosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.06.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Kegeligen Risspilz *Inocybe rimosa* findet man vor allem an Waldwegrändern, aber auch in Parkanlagen und ähnlichen Biotopen. Er ist einer der häufigsten in seiner Gattung und wie die meisten anderen giftig. Sein Wirkstoff ist Muscarin, das Symptome wie Schweißausbrüche, Sehstörungen, Tränenfluss, Übelkeit mit Erbrechen, Magen-Darm-Koliken oder Kreislaufversagen verursachen kann. Weil kaum jemand Risspilze als Speisepilze in Betracht zieht, sind Vergiftungen durch ihn äußerst selten. (Dieter Gewalt) [Mehr lesen >](/pilze/inocybe-rimosa-kegeliger-risspilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_chrysenteron_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,22 +61,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 21.06.2025: Zur Zeit ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Waldfreundrübling *Gymnopus dryophilus*, nur vereinzelt anzutreffen. Das ändert sich bei optimalen Wachstumsbedingungen. Dann spielt er als Streuzersetzer eine wichtige Rolle im Ökosystem Wald und ist in hohem Maße an der Verrottung von Laub und Nadeln beteiligt. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht ganz einfach. (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_arcularius_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.06.2025: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist was fürs Auge und für die Pfanne. Voraussetzung: der Weitlöcherige Stielporling *Polyporus arcularius* muss jung und zart sein. Er ist zweifellos eine der schönsten Arten unter den Stielporlingen, was auf die wabenartigen, mehr oder weniger am Stiel herablaufenden Poren und den zart bewimperten Hutrand zurückzuführen ist. Er gilt als selten, ist im Rhein-Main-Gebiet aber ziemlich häufig. Knusprig gebraten und dezent mit etwas Salz und Pfeffer gewürzt ist er durchaus lecker, wenn er auch nicht ganz die Qualität des [Kleinen Schuppenporlings](/pilze/polyporus-tuberaster-sklerotienporling) erreicht. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-arcularius-weitlöcheriger-stielporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mutinus_ravenellii_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus Sachsen. Offensichtlich ist die Himberrote Hundsrute *Mutinus ravenelii* in der Nordhälfte und im Osten Deutschlands weiter verbreitet und häufiger als in der Südhälfte. Gemeldet wurde sie von Familie Prescher aus Leipzig mit der Vermutung, dass der hübsche aber aasartig stinkende Pilz mit Rindenmulch in ihren Garten gelangt sein könnte. Wie auch immer: in jedem Fall sind Fluginsekten maßgeblich an der Sporenverbreitung beteiligt. (Dieter Gewalt) [Mehr lesen >](/pilze/mutinus-ravenelii-himbeerrote-hundsrute)
 
 <div style="clear:  both"></div>
 
