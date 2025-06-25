@@ -35,7 +35,7 @@ Beschreibung von Fredi Kasparek
 {% include bild.html datei="/bilder/inocybe_rimosa_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Der Pilz ist giftig. Er enthält Muscarin, das mit einer Latenzzeit von ¼ bis 4 Stunden wirkt und das sogenannte Muscarin- oder PSL-Syndrom (engl.: perspiration, salivation, lacrimation) verursacht. Symtome sind Schweißausbrüche, Sehstörungen, Tränenfluss, Übelkeit mit Erbrechen, Magen-Darm-Koliken, in schweren Fällen Tod durch Kreislaufversagen. Tradiotionelles Gegenmittel: Atropin, das Gift der Tollkirsche.
+Der Pilz ist giftig. Er enthält Muscarin, das mit einer Latenzzeit von ¼ bis 4 Stunden wirkt und das sogenannte Muscarin- oder PSL-Syndrom (engl.: perspiration, salivation, lacrimation) verursacht. Symptome sind Schweißausbrüche, Sehstörungen, Tränenfluss, Übelkeit mit Erbrechen, Magen-Darm-Koliken, in schweren Fällen Tod durch Kreislaufversagen. Tradiotionelles Gegenmittel: Atropin, das Gift der Tollkirsche.
 
 Es handelt sich um eine der [häufigsten Risspilzarten](http://www.pilze-deutschland.de/organismen/inocybe-rimosa-agg-1).
 
