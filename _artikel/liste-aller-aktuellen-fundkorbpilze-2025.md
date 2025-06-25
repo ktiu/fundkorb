@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-25.06.2025: [Xerocomus chrysenteron - Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)  
+26.06.2025: [Inocybe rimosa - Kegeliger Risspilz](/pilze/inocybe-rimosa-kegeliger-risspilz)  
+25.06.2025: [Xerocomus chrysenteron - Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)\
 24.06.2025: [Mycena acicula - Orangeroter Helmling](/pilze/mycena-acicula-orangeroter-helmling)\
 23.06.2025: [Russula violeipes - Violettstieliger Brätlingstäubling](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)\
 22.06.2025: [Usnea hirta - Struppige Bartflechte](/pilze/usnea-hirta-struppige-bartflechte)\
