@@ -15,6 +15,13 @@ footer_scripts:
 Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeigneten Wachstumsbedingungen hier angezeigt.
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_igniarius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") gehört in die Gattung der Feuerschwämme (*Phellinus*). Es ist der Gemeine Feuerschwamm *Phellinus igniarius*. Seine Fruchtkörper sind konsolen- bis hutförmig, breit am Substrat angewachsen und nur schwer von diesem zu lösen. Die Oberseite ist graubraun bis grauschwarz und im Alter oft rissig. Er ist einer der häufigsten Feuerschwämme, wächst an Weiden (er wird deshalb auch Weidenfeuerschwamm genannt) und ist ein wenig aggressiver Schadpilz, der dem befallenen Baum noch viele Lebensjahre lässt. (Johann Rejek) [Mehr lesen >](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerula_radicata_01_dg.jpg" %}
@@ -61,14 +68,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 22.06.2025: Bei der Struppigen Bartflechte *Usnea hirta*, unserem akuellen [Fundkorbpilz](AA "Glossar-"), handelt es sich um eine der kleineren, buschig wachsenden Bartflechten. Man findet diese weit verbreitete, nicht seltene Art in lichten Wäldern an freistehenden Bäumen. Wir fanden mehrere Lager (so nennt man die Fruchtkörper bei den Flechten) an dünnen Zweigen einer jungen Waldkiefer in einem Kiefern-Schonwald auf saurem, torfigem Boden im Nordschwarzwald auf 720 mNN. (Bernd Miggel) [Mehr lesen >](/pilze/usnea-hirta-struppige-bartflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_dryophilus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.06.2025: Zur Zeit ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Waldfreundrübling *Gymnopus dryophilus*, nur vereinzelt anzutreffen. Das ändert sich bei optimalen Wachstumsbedingungen. Dann spielt er als Streuzersetzer eine wichtige Rolle im Ökosystem Wald und ist in hohem Maße an der Verrottung von Laub und Nadeln beteiligt. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht ganz einfach. (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)
 
 <div style="clear:  both"></div>
 
