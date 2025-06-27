@@ -4,6 +4,7 @@ autor_in: ""
 published: true
 ---
  
+28.06.2025: [Phellinus igniarius - Gemeiner Feuerschwamm](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)  
 27.06.2025: [Xerula radicata - Grubiger Schleimrübling](/pilze/xerula-radicata-grubiger-schleimrübling)  
 26.06.2025: [Inocybe rimosa - Kegeliger Risspilz](/pilze/inocybe-rimosa-kegeliger-risspilz)  
 25.06.2025: [Xerocomus chrysenteron - Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)\
