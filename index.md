@@ -20,7 +20,7 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include bild.html datei="/bilder/inocybe_rimosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-29.06.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Kegeligen Risspilz *Inocybe rimosa* findet man vor allem an Waldwegrändern, aber auch in Parkanlagen und ähnlichen Biotopen. Er ist einer der häufigsten in seiner Gattung und wie die meisten anderen giftig. Sein Wirkstoff ist Muscarin, das Symptome wie Schweißausbrüche, Sehstörungen, Tränenfluss, Übelkeit mit Erbrechen, Magen-Darm-Koliken oder Kreislaufversagen verursachen kann. Weil kaum jemand Risspilze als Speisepilze in Betracht zieht, sind Vergiftungen durch ihn äußerst selten. (Dieter Gewalt) [Mehr lesen >](/pilze/inocybe-rimosa-kegeliger-risspilz)
+26.06.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Kegeligen Risspilz *Inocybe rimosa* findet man vor allem an Waldwegrändern, aber auch in Parkanlagen und ähnlichen Biotopen. Er ist einer der häufigsten in seiner Gattung und wie die meisten anderen giftig. Sein Wirkstoff ist Muscarin, das Symptome wie Schweißausbrüche, Sehstörungen, Tränenfluss, Übelkeit mit Erbrechen, Magen-Darm-Koliken oder Kreislaufversagen verursachen kann. Weil kaum jemand Risspilze als Speisepilze in Betracht zieht, sind Vergiftungen durch ihn äußerst selten. (Dieter Gewalt) [Mehr lesen >](/pilze/inocybe-rimosa-kegeliger-risspilz)
 
 <div style="clear:  both"></div>
 
