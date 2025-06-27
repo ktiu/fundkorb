@@ -19,7 +19,7 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include bild.html datei="/bilder/phellinus_igniarius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-28.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") gehört in die Gattung der Feuerschwämme (*Phellinus*). Es ist der Gemeine Feuerschwamm *Phellinus igniarius*. Seine Fruchtkörper sind konsolen- bis hutförmig, breit am Substrat angewachsen und nur schwer von diesem zu lösen. Die Oberseite ist graubraun bis grauschwarz und im Alter oft rissig. Er ist einer der häufigsten Feuerschwämme, wächst an Weiden (er wird deshalb auch Weidenfeuerschwamm genannt) und ist ein wenig aggressiver Schadpilz, der dem befallenen Baum noch viele Lebensjahre lässt. (Johann Rejek) [Mehr lesen >](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
+28.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") gehört in die Gattung der Feuerschwämme (*Phellinus*). Es ist der Gemeine Feuerschwamm *Phellinus igniarius*. Seine Fruchtkörper sind konsolen- bis hufförmig, breit am Substrat angewachsen und nur schwer von diesem zu lösen. Die Oberseite ist graubraun bis grauschwarz und im Alter oft rissig. Er ist einer der häufigsten Feuerschwämme, wächst an Weiden (er wird deshalb auch Weidenfeuerschwamm genannt) und ist ein wenig aggressiver Schadpilz, der dem befallenen Baum noch viele Lebensjahre lässt. (Johann Rejek) [Mehr lesen >](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
 
 <div style="clear:  both"></div>
 
