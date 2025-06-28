@@ -15,6 +15,15 @@ footer_scripts:
 Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeigneten Wachstumsbedingungen hier angezeigt.
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_pectinatoides_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.06.2025: Für Speisezwecke kommt unser aktueller [Fundkorbpilz](AA "Glossar-") nicht in Frage. Es ist der Kratzende Kammtäubling *Russula pectinatoides*, eine häufige Art in einer überschaubaren Gruppe von Täublingen, die durch kammartig geriefte Hutränder gekennzeichnet ist. Sein Doppelgänger ist der scharf schmeckende [Camembert-Täubling *Russula amoenolens*](/pilze/russula-amoenolens-camembert-täubling). Der Kratzende ist zwar nicht scharf, aber keineswegs angenehm im Geschmack. Bei einer Probe bewirkt er ein kratzendes Gefühl auf der Zunge oder im Rachen. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-pectinatoides-kratzender-kammtäubling)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_igniarius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -52,22 +61,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 24.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") lässt sich vereinfacht so beschreiben: klein aber fein! Der Orangerote Helmling *Mycena acicula* gehört zu den kleinen und farbfreudigen Helmlingen. Der orangerote Hut, die meist langen gelbgrün transparenten und bereiften Stiele und das Myzelfilz an der Stielbasis sind eindeutige Bestimmungsmerkmale. Man findet ihn einzeln wachsend bereits im Frühsommer an abgestorbenen Pflanzenresten und verrottendem Holz. (Johann Rejek) [Mehr lesen >](/pilze/mycena-acicula-orangeroter-helmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_violeipes_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Violettstielige Brätlingstäubling *Russula violeipes*, eine der Premiumarten unter den Täublingen, die auch Pfirsichtäubling genannt wird. Trotz der Trockenheit fanden wir bei unserer gestrigen pilzkundlichen Führung in einem Wald bei Dietzenbach etwa 20 Fruchtkörper dieses hervorragenden Speisepilzes. Die Schwierigkeit beim Erkennen der zahlreichen Täublingsarten ist ihre Farbvariabilität. Nur wenige zeigen zuverlässig konstante Farben. Beim Violettstieligen Täubling beginnt das Problem schon beim namensgebenden violetten Stiel. Manchmal hat er diese Farbe, manchmal erscheint sie als zarter Hauch oder auch satt aufgetragen, meistens ist sie aber weiß. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/usnea_hirta_02_lh.jpg" %}
-{% include abbildung_ende.html %}
-
-22.06.2025: Bei der Struppigen Bartflechte *Usnea hirta*, unserem akuellen [Fundkorbpilz](AA "Glossar-"), handelt es sich um eine der kleineren, buschig wachsenden Bartflechten. Man findet diese weit verbreitete, nicht seltene Art in lichten Wäldern an freistehenden Bäumen. Wir fanden mehrere Lager (so nennt man die Fruchtkörper bei den Flechten) an dünnen Zweigen einer jungen Waldkiefer in einem Kiefern-Schonwald auf saurem, torfigem Boden im Nordschwarzwald auf 720 mNN. (Bernd Miggel) [Mehr lesen >](/pilze/usnea-hirta-struppige-bartflechte)
 
 <div style="clear:  both"></div>
 
