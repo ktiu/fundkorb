@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_cohaerens_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.06.2025: Der Name Zusammengedrängte Kohlenbeere *Hypoxylon cohaerens* (neuer Name: *Jackrogersella cohaerens*) ist eigentlich schon eine gute Beschreibung für unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Die abgeflacht kugeligen, krustig harten Fruchtkörper werden etwa 4 - 7 mm groß und sind dunkel graubraun bis schwarz gefärbt. Auf den Oberflächen erkennt man die papillenartigen Sporenauslassöffnungen, die Ostiolen genannt werden. Er ist in ganz Deutschland verbreitet und häufig, wo totes Laubholz, vor allem Buche, vorhanden ist. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_pectinatoides_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,22 +53,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 26.06.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Kegeligen Risspilz *Inocybe rimosa* findet man vor allem an Waldwegrändern, aber auch in Parkanlagen und ähnlichen Biotopen. Er ist einer der häufigsten in seiner Gattung und wie die meisten anderen giftig. Sein Wirkstoff ist Muscarin, das Symptome wie Schweißausbrüche, Sehstörungen, Tränenfluss, Übelkeit mit Erbrechen, Magen-Darm-Koliken oder Kreislaufversagen verursachen kann. Weil kaum jemand Risspilze als Speisepilze in Betracht zieht, sind Vergiftungen durch ihn äußerst selten. (Dieter Gewalt) [Mehr lesen >](/pilze/inocybe-rimosa-kegeliger-risspilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_chrysenteron_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotfußröhrling *Xerocomus chrysenteron*, der auch bei unserer jüngsten Exkursion im Rhein-Main-Gebiet gefunden wurde. Während der eigentlichen Pilzsaison landet er in den Körben der meisten Pilzsammler. Einige halten ihn sogar für einen Maronenröhrling. Selbst wer ihn richtig benannt hat, kann sich seiner Sache nicht mehr sicher sein. Dank der modernen Gentechnologie wissen die Mykologen inzwischen, dass es mehrere Rotfußröhrlingsarten gibt, die alle essbar sind. Zu den Delikatessen würde ich keine von ihnen zählen. (Dieter Gewalt) [Mehr lesen >](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_acicula_04_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-24.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") lässt sich vereinfacht so beschreiben: klein aber fein! Der Orangerote Helmling *Mycena acicula* gehört zu den kleinen und farbfreudigen Helmlingen. Der orangerote Hut, die meist langen gelbgrün transparenten und bereiften Stiele und das Myzelfilz an der Stielbasis sind eindeutige Bestimmungsmerkmale. Man findet ihn einzeln wachsend bereits im Frühsommer an abgestorbenen Pflanzenresten und verrottendem Holz. (Johann Rejek) [Mehr lesen >](/pilze/mycena-acicula-orangeroter-helmling)
 
 <div style="clear:  both"></div>
 
