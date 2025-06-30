@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lanzia_echinophila_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.07.2025: Schon der deutsche Artname Kastanienschalenbecherling (*Lanzia echinophila*) deutet auf die besondere Substratbindung dieses [Ascomyzeten](Ascomyzeten "Glossar") hin. Unser aktueller [Fundkorbpilz](AA "Glossar-") hat sich auf vorjährige, feucht liegende Fruchtschalen der Esskastanie spezialisiert. Sein wissenschaftlicher Name erscheint dagegen etwas irreführend gewählt, denn das griechische Wort *echinos* bedeutet Igel, und an diesen sympathischen Tieren wird man unseren Pilz vergeblich suchen. Immerhin haben Igel und Esskastanienschalen eines gemeinsam: spitze Stacheln. (Dieter Gewalt) [Mehr lesen >](/pilze/lanzia-echinophila-kastanienschalenbecherling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_cohaerens_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
