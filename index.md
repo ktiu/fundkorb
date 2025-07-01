@@ -15,6 +15,14 @@ footer_scripts:
 Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeigneten Wachstumsbedingungen hier angezeigt.
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_amicta_01_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+02.07.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Geschmückte Helmling *Mycena amicta*. Er ist in manchen Regionen keineswegs selten und vorwiegend an totem Holz oder Zapfenresten von Fichten zu finden. Den namensgebenden Schmuck – blauer Hutrand und ansatzweise auch blaue Lamellenschneiden an der Hutrandkante - trägt er allerdings nicht immer. Ein auf ganzer Länge bereifter Stiel und eine gelatinöse, stückweise abziehbare Huthaut sind dagegen sichere Bestimmungsmerkmale. Ebenso die typisch helmlingsartigen und deutlich gerieften Hüte. (Johann Rejek) [Mehr lesen >](/pilze/mycena-amicta-geschmückter-helmling)
+
+<div style="clear:  both"></div>
+
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lanzia_echinophila_01_dg.jpg" %}
