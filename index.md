@@ -98,7 +98,7 @@ Es ist immer eine große Freude, wenn man einen sehr seltenen Pilz zu Gesicht be
 
 Mycena amicta – Geschmückter Helmling
 
-Diesen hübschen Helmling kann man schon im Wald relativ leicht anhand einer Merkmalskombination erkennen: blauer Hutrand +  gelatinöse stückweise abziehbare Huthaut + Stiel auf ganzer Länge fein bereift.  Er ist in manchen Regionen keineswegs selten und an totem Holz oder Zapfenresten vor allem in Nadelwäldern bei Fichten zu finden. Die Hütchen sind typisch helmlingsartig kegelförmig und duetlich gerieft. (Johann Rejek) [Mehr lesen >](/pilze/mycena-amicta-geschmückter-helmling)
+Diesen hübschen Helmling kann man schon im Wald relativ leicht anhand einer Merkmalskombination erkennen: blauer Hutrand +  gelatinöse stückweise abziehbare Huthaut + Stiel auf ganzer Länge fein bereift.  Er ist in manchen Regionen keineswegs selten und an totem Holz oder Zapfenresten vor allem in Nadelwäldern bei Fichten zu finden. Die Hütchen sind typisch helmlingsartig kegelförmig und deutlich gerieft. (Johann Rejek) [Mehr lesen >](/pilze/mycena-amicta-geschmückter-helmling)
 
 <div style="clear:  both"></div>
 
