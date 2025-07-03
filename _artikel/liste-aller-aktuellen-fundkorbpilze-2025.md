@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-03.07.2025: [Peniophora cinerea - Aschgrauer Zystidenrindenpilz](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)  
+04.07.2025: [Flavoplaca citrina - Zitronen-Schönfleck](/pilze/flavoplaca-citrina-zitronen-schönfleck)  
+03.07.2025: [Peniophora cinerea - Aschgrauer Zystidenrindenpilz](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)\
 02.07.2025: [Mycena amicta - Geschmückter Helmling](/pilze/mycena-amicta-geschmückter-helmling)\
 01.07.2025: [Lanzia echinophila - Kastanienschalenbecherling](/pilze/lanzia-echinophila-kastanienschalenbecherling)
 
