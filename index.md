@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/flavoplaca_citrina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.07.2025: Wenn man nichts Besseres findet – eine Flechte ist immer und überall in der Nähe. Da [Flechten](/verwandt/flechten) Pilze sind, ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") der Zitronen-Schönfleck *Flavoplaca citrina*, eine häufige Krustenflechte, die gern an kalkhaltigem Gestein oder Betonmauern wächst. Offenbar mit Vorliebe dort, wo Hunde gern ihr Beinchen heben. Beim Vorbeigehen nimmt man lediglich eine gelbe bis grünlich gelbe oder fast schon orangefarbene Verfärbung des Gesteins wahr, bei der man nicht unbedingt an eine Flechte denkt. (Dieter Gewalt) [Mehr lesen >](/pilze/flavoplaca-citrina-zitronen-schönfleck)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peniophora_cinerea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,22 +69,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 28.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") gehört in die Gattung der Feuerschwämme (*Phellinus*). Es ist der Gemeine Feuerschwamm *Phellinus igniarius*. Seine Fruchtkörper sind konsolen- bis hufförmig, breit am Substrat angewachsen und nur schwer von diesem zu lösen. Die Oberseite ist graubraun bis grauschwarz und im Alter oft rissig. Er ist einer der häufigsten Feuerschwämme, wächst an Weiden (er wird deshalb auch Weidenfeuerschwamm genannt) und ist ein wenig aggressiver Schadpilz, der dem befallenen Baum noch viele Lebensjahre lässt. (Johann Rejek) [Mehr lesen >](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerula_radicata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.06.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Grubige Schleimrübling *Xerula radicata*. Der deutsche Name bezieht sich auf die radial grubig-runzelige Struktur der Hutoberseite, die bei feuchtem Wetter schleimig glänzt und sich schleimig anfühlt. Bei Trockenheit wirkt die Huthaut glanzlos, man kann aber das Vorhandensein der schmierigen Schicht überprüfen, indem man mit einem Finger etwas Speichel auf der Hutoberfläche verreibt. Beim Loslassen spürt man dann ein typisches Zupfen. Die Stiele sind glatt, manchmal etwas verdreht, und sehr sehr lang. Der Pilz gilt als essbar, aber wenn man ihn nicht isst, hat man nichts versäumt. (Dieter Gewalt) [Mehr lesen >](/pilze/xerula-radicata-grubiger-schleimrübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/inocybe_rimosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.06.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Kegeligen Risspilz *Inocybe rimosa* findet man vor allem an Waldwegrändern, aber auch in Parkanlagen und ähnlichen Biotopen. Er ist einer der häufigsten in seiner Gattung und wie die meisten anderen giftig. Sein Wirkstoff ist Muscarin, das Symptome wie Schweißausbrüche, Sehstörungen, Tränenfluss, Übelkeit mit Erbrechen, Magen-Darm-Koliken oder Kreislaufversagen verursachen kann. Weil kaum jemand Risspilze als Speisepilze in Betracht zieht, sind Vergiftungen durch ihn äußerst selten. (Dieter Gewalt) [Mehr lesen >](/pilze/inocybe-rimosa-kegeliger-risspilz)
 
 <div style="clear:  both"></div>
 
