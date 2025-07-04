@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pleurotus_pulmonarius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.07.2025: Ein manchmal kaum unterscheidbarer Doppelgänger des bekannten [Austernseitlings](/pilze/pleurotus-ostreatus-austernseitling) ist der Lungenseitling *Pleurotus pulmonarius*, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Mitunter findet man beide Arten sogar am gleichen Buchenstamm. Verwechslungen wären absolut unproblematisch. Beide sind gleichwertig gute, jung sogar hervorragende und zarte Speisepilze. Die Unterseiten werden gern von Tummelfliegen besucht, die sich nach kurzem Antippen herunterfallen lassen. (Dieter Gewalt) [Mehr lesen >](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/flavoplaca_citrina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,14 +69,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 29.06.2025: Für Speisezwecke kommt unser aktueller [Fundkorbpilz](AA "Glossar-") nicht in Frage. Es ist der Kratzende Kammtäubling *Russula pectinatoides*, eine häufige Art in einer überschaubaren Gruppe von Täublingen, die durch kammartig geriefte Hutränder gekennzeichnet ist. Sein Doppelgänger ist der scharf schmeckende [Camembert-Täubling *Russula amoenolens*](/pilze/russula-amoenolens-camembert-täubling). Der Kratzende ist zwar nicht scharf, aber keineswegs angenehm im Geschmack. Bei einer Probe bewirkt er ein kratzendes Gefühl auf der Zunge oder im Rachen. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-pectinatoides-kratzender-kammtäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_igniarius_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.06.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") gehört in die Gattung der Feuerschwämme (*Phellinus*). Es ist der Gemeine Feuerschwamm *Phellinus igniarius*. Seine Fruchtkörper sind konsolen- bis hufförmig, breit am Substrat angewachsen und nur schwer von diesem zu lösen. Die Oberseite ist graubraun bis grauschwarz und im Alter oft rissig. Er ist einer der häufigsten Feuerschwämme, wächst an Weiden (er wird deshalb auch Weidenfeuerschwamm genannt) und ist ein wenig aggressiver Schadpilz, der dem befallenen Baum noch viele Lebensjahre lässt. (Johann Rejek) [Mehr lesen >](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
 
 <div style="clear:  both"></div>
 
