@@ -20,7 +20,7 @@ literatur: []
 
 Der Mahonien-Mehltau bildet anfangs einen fleckenartigen, später auch zusammenfließenden weißlichen Überzug, der bevorzugt auf der Blattoberseite auftritt und häufig von rötlichen oder gelblichen Blattverfärbungen begleitet ist. Bevorzugt anzutreffen ist die Nebenfruchtform mit kurzen [Konidienträgern](Konidien "Glossar"), an denen nicht wie üblich für Mehltaupilze kettenartig aufgereihte Konidien sitzen sondern jeweils nur eine einzelne Konidie.
 
-Dieser Mehltau, von manchen Autoren auch Echter Mehltau genannt, ist auch auf Berbetitzenblättern zu finden, worauf der wissenschaftliche Artname *berberidis* hinweist.
+Dieser Mehltau, von manchen Autoren auch Echter Mehltau genannt, ist auch auf Berberitzenblättern zu finden, worauf der wissenschaftliche Artname *berberidis* hinweist.
 
 Es ist nicht leicht, im Internet Informationen zu dieser Art zu finden. Es existiert ein Wikipedia-Eintrag auf schwedisch, den man sich beim Anklicken ins Deutsche übersetzen lassen kann. Was dabei herauskommt, habe ich nachfolgend festgehalten:
 
