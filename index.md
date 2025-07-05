@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phaeolus_spadiceus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.07.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Kiefernbraunporling *Phaeolus schweinitzii*, könnte man auf den ersten Blick durchaus mit einem [Fenchelporling](/pilze/gloeophyllum-odoratum-fenchelporling) *Gloeophyllum odoratum* verwechseln. Besitzt er doch ähnliche Farben (dunkelbraun im Zentrum, orangegelb an den Zuwachskanten) und Wuchsformen wie dieser. Allerdings riecht er nicht nach Fenchel, und er wächst auch nicht auf Fichtenstümpfen , sondern vorwiegend im Wurzelbereich von Kiefern. Dort erzeugt er am befallenen Holz eine Braunfäule, erkennbar an einem würfelförmigen Zerfall und einer Braunfärbung des Holzes. (Johann Rejek) [Mehr lesen >](/pilze/phaeolus-spadiceus-kiefernbraunporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pleurotus_pulmonarius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,14 +69,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 30.06.2025: Der Name Zusammengedrängte Kohlenbeere *Hypoxylon cohaerens* (neuer Name: *Jackrogersella cohaerens*) ist eigentlich schon eine gute Beschreibung für unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Die abgeflacht kugeligen, krustig harten Fruchtkörper werden etwa 4 - 7 mm groß und sind dunkel graubraun bis schwarz gefärbt. Auf den Oberflächen erkennt man die papillenartigen Sporenauslassöffnungen, die Ostiolen genannt werden. Er ist in ganz Deutschland verbreitet und häufig, wo totes Laubholz, vor allem Buche, vorhanden ist. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_pectinatoides_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.06.2025: Für Speisezwecke kommt unser aktueller [Fundkorbpilz](AA "Glossar-") nicht in Frage. Es ist der Kratzende Kammtäubling *Russula pectinatoides*, eine häufige Art in einer überschaubaren Gruppe von Täublingen, die durch kammartig geriefte Hutränder gekennzeichnet ist. Sein Doppelgänger ist der scharf schmeckende [Camembert-Täubling *Russula amoenolens*](/pilze/russula-amoenolens-camembert-täubling). Der Kratzende ist zwar nicht scharf, aber keineswegs angenehm im Geschmack. Bei einer Probe bewirkt er ein kratzendes Gefühl auf der Zunge oder im Rachen. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-pectinatoides-kratzender-kammtäubling)
 
 <div style="clear:  both"></div>
 
