@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lecanora_murali_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.07.2025: Man braucht nur ein paar Schritte aus dem Haus zu gehen, um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Mauer-Flechte *Lecanora muralis* zu sehen. Obwohl diese auffällige überall auf Gestein, Pflastern, Gehwegsplatten, Asphalt, an Mauern, seltener und reduziert auch an Bäumen wachsende Krustenflechte völlig zurecht als *„Allerweltsflechte“* bezeichnet werden kann, wird sie kaum beachtet. Ihre [Lager](Lager "Glossar") erreichen Durchmesser von bis zu 15 Zentimetern, die [Apothecien](Apothecien "Glossar") sind nur mit Lupe deutlich zu erkennen. Das beigefügte Foto ist signifikant vergrößert. (Dieter Gewalt) [Mehr lesen >](/pilze/lecanora-muralis-mauer-flechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phaeolus_spadiceus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,22 +61,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 02.07.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Geschmückte Helmling *Mycena amicta*. Er ist in manchen Regionen keineswegs selten und vorwiegend an totem Holz oder Zapfenresten von Fichten zu finden. Den namensgebenden Schmuck – blauer Hutrand und ansatzweise auch blaue Lamellenschneiden an der Hutrandkante - trägt er allerdings nicht immer. Ein auf ganzer Länge bereifter Stiel und eine gelatinöse, stückweise abziehbare Huthaut sind dagegen sichere Bestimmungsmerkmale. Ebenso die typisch helmlingsartigen und deutlich gerieften Hüte. (Johann Rejek) [Mehr lesen >](/pilze/mycena-amicta-geschmückter-helmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lanzia_echinophila_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.07.2025: Schon der deutsche Artname Kastanienschalenbecherling (*Lanzia echinophila*) deutet auf die besondere Substratbindung dieses [Ascomyzeten](Ascomyzeten "Glossar") hin. Unser aktueller [Fundkorbpilz](AA "Glossar-") hat sich auf vorjährige, feucht liegende Fruchtschalen der Esskastanie spezialisiert. Sein wissenschaftlicher Name erscheint dagegen etwas irreführend gewählt, denn das griechische Wort *echinos* bedeutet Igel, und an diesen sympathischen Tieren wird man unseren Pilz vergeblich suchen. Immerhin haben Igel und Esskastanienschalen eines gemeinsam: spitze Stacheln. (Dieter Gewalt) [Mehr lesen >](/pilze/lanzia-echinophila-kastanienschalenbecherling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_cohaerens_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.06.2025: Der Name Zusammengedrängte Kohlenbeere *Hypoxylon cohaerens* (neuer Name: *Jackrogersella cohaerens*) ist eigentlich schon eine gute Beschreibung für unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Die abgeflacht kugeligen, krustig harten Fruchtkörper werden etwa 4 - 7 mm groß und sind dunkel graubraun bis schwarz gefärbt. Auf den Oberflächen erkennt man die papillenartigen Sporenauslassöffnungen, die Ostiolen genannt werden. Er ist in ganz Deutschland verbreitet und häufig, wo totes Laubholz, vor allem Buche, vorhanden ist. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
 
 <div style="clear:  both"></div>
 
