@@ -6,7 +6,7 @@ beschreibung:
   erlaeuterung: muralis = an Mauern oder Steinen wachsend
   synonym: "Neuer Name: Protoparmeliopsis muralis"
 profil:
-  aktualisiert: 2025-07-06
+  aktualisiert: 2024-04-14
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
