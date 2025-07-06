@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-06.07.2025: [Phaeolus spadiceus - Kiefernbraunporling](/pilze/phaeolus-spadiceus-kiefernbraunporling)  
-05.07.2025: [Pleurotus pulmonarius - Lungenseitling](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)  
+07.07.2024: [Lecanora muralis - Mauer-Flechte](/pilze/lecanora-muralis-mauer-flechte)  
+06.07.2025: [Phaeolus spadiceus - Kiefernbraunporling](/pilze/phaeolus-spadiceus-kiefernbraunporling)\
+05.07.2025: [Pleurotus pulmonarius - Lungenseitling](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)\
 04.07.2025: [Flavoplaca citrina - Zitronen-Schönfleck](/pilze/flavoplaca-citrina-zitronen-schönfleck)\
 03.07.2025: [Peniophora cinerea - Aschgrauer Zystidenrindenpilz](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)\
 02.07.2025: [Mycena amicta - Geschmückter Helmling](/pilze/mycena-amicta-geschmückter-helmling)\
