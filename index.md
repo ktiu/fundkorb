@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/microsphaera_berberidis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.07.2025: Mehltaupilze bilden weißliche abwischbare Beläge auf Blattoberseiten zahlreicher Pflanzenarten. Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") sind Mahonienblätter vom Mahonien-Mehltau *Microsphaera berberidis* befallen, der von manchen Autoren auch als „Echter Mehltau“ bezeichnet wird. Er ist, allerdings weniger häufig, auch auf Berberitzenblättern anzutreffen. Mehltaupilze entziehen den Blättern Nährstoffe, die dann welken, schließlich abfallen und so wirtschaftlichen Schaden verursachen können. [Mehr lesen >](/pilze/microsphaera-berberidis-mahonien-mehltau)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lecanora_murali_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,14 +61,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 03.07.2025: Wenn man nichts Besseres findet - eine *Peniophora* ist fast überall zugegen, wo Bäume stehen oder deren Äste am Boden liegen. Bei uns in der Dietzenbacher Parkanlage ist der Aschgraue Zystidenrindenpilz *Peniophora cinerea* an einigen Haselbäumen geradezu üppig vorhanden und daher ein stets zuverlässig anzutreffender [Fundkorbpilz](AA "Glossar-"). Bei Feuchtigkeit fühlt er sich wachsartig an, bei Trockenheit wird er rissig. Erstaunlicherweise sind die Zystiden-Rindenpilze näher mit Täublingen verwandt als mit an Holz wachsenden Porlingen. (Dieter Gewalt) [Mehr lesen >](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_amicta_01_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-02.07.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Geschmückte Helmling *Mycena amicta*. Er ist in manchen Regionen keineswegs selten und vorwiegend an totem Holz oder Zapfenresten von Fichten zu finden. Den namensgebenden Schmuck – blauer Hutrand und ansatzweise auch blaue Lamellenschneiden an der Hutrandkante - trägt er allerdings nicht immer. Ein auf ganzer Länge bereifter Stiel und eine gelatinöse, stückweise abziehbare Huthaut sind dagegen sichere Bestimmungsmerkmale. Ebenso die typisch helmlingsartigen und deutlich gerieften Hüte. (Johann Rejek) [Mehr lesen >](/pilze/mycena-amicta-geschmückter-helmling)
 
 <div style="clear:  both"></div>
 
