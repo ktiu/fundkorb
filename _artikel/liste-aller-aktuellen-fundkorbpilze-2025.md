@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-07.07.2024: [Lecanora muralis - Mauer-Flechte](/pilze/lecanora-muralis-mauer-flechte)  
+08.07.2025: [Microsphaera berberidis - Mahonien-Mehltau](/pilze/microsphaera-berberidis-mahonien-mehltau)  
+07.07.2024: [Lecanora muralis - Mauer-Flechte](/pilze/lecanora-muralis-mauer-flechte)\
 06.07.2025: [Phaeolus spadiceus - Kiefernbraunporling](/pilze/phaeolus-spadiceus-kiefernbraunporling)\
 05.07.2025: [Pleurotus pulmonarius - Lungenseitling](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)\
 04.07.2025: [Flavoplaca citrina - Zitronen-Schönfleck](/pilze/flavoplaca-citrina-zitronen-schönfleck)\
