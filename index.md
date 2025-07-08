@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/reticularia_lycoperdon_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Auf den ersten Blick könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") für einen Weißen Polsterpilz halten, der aber eine filzig zottige Oberfläche hat und daher nicht in Frage kommt. Zieht man den naheliegenden Schluss, dass es sich um einen [Myxomyzeten](Myxomyzeten "Glossar") handeln könnte, bereitet die Bestimmung keine Probleme mehr. Der Stäublings-Schleimpilz *Reticularia lycoperdon* ist so gut wie unverwechselbar. Die polsterförmigen Fruchtkörper wachsen gern an stehenden Baumstämmen. Die weiße Außenhaut wird im Alter grau, platzt auf und gibt den Blick auf die durchscheinende Sporenmasse frei, die schließlich zu stäuben beginnt. (Dieter Gewalt) [Mehr lesen >](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/microsphaera_berberidis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,14 +61,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 04.07.2025: Wenn man nichts Besseres findet – eine Flechte ist immer und überall in der Nähe. Da [Flechten](/verwandt/flechten) Pilze sind, ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") der Zitronen-Schönfleck *Flavoplaca citrina*, eine häufige Krustenflechte, die gern an kalkhaltigem Gestein oder Betonmauern wächst. Offenbar mit Vorliebe dort, wo Hunde gern ihr Beinchen heben. Beim Vorbeigehen nimmt man lediglich eine gelbe bis grünlich gelbe oder fast schon orangefarbene Verfärbung des Gesteins wahr, bei der man nicht unbedingt an eine Flechte denkt. (Dieter Gewalt) [Mehr lesen >](/pilze/flavoplaca-citrina-zitronen-schönfleck)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_cinerea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.07.2025: Wenn man nichts Besseres findet - eine *Peniophora* ist fast überall zugegen, wo Bäume stehen oder deren Äste am Boden liegen. Bei uns in der Dietzenbacher Parkanlage ist der Aschgraue Zystidenrindenpilz *Peniophora cinerea* an einigen Haselbäumen geradezu üppig vorhanden und daher ein stets zuverlässig anzutreffender [Fundkorbpilz](AA "Glossar-"). Bei Feuchtigkeit fühlt er sich wachsartig an, bei Trockenheit wird er rissig. Erstaunlicherweise sind die Zystiden-Rindenpilze näher mit Täublingen verwandt als mit an Holz wachsenden Porlingen. (Dieter Gewalt) [Mehr lesen >](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
 
 <div style="clear:  both"></div>
 
