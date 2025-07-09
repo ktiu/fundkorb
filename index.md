@@ -64,14 +64,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/flavoplaca_citrina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.07.2025: Wenn man nichts Besseres findet – eine Flechte ist immer und überall in der Nähe. Da [Flechten](/verwandt/flechten) Pilze sind, ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") der Zitronen-Schönfleck *Flavoplaca citrina*, eine häufige Krustenflechte, die gern an kalkhaltigem Gestein oder Betonmauern wächst. Offenbar mit Vorliebe dort, wo Hunde gern ihr Beinchen heben. Beim Vorbeigehen nimmt man lediglich eine gelbe bis grünlich gelbe oder fast schon orangefarbene Verfärbung des Gesteins wahr, bei der man nicht unbedingt an eine Flechte denkt. (Dieter Gewalt) [Mehr lesen >](/pilze/flavoplaca-citrina-zitronen-schönfleck)
-
-<div style="clear:  both"></div>
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2025](/artikel/liste-aller-aktuellen-fundkorbpilze-2025.html)
