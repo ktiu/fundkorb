@@ -25,7 +25,7 @@ Beim Mutterkorn, das in den Ähren verschiedener Gräser heranwächst, handelt e
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/claviceps_purpurea_09_md.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/claviceps_purpurea_10_jr.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Winzige Fruchtkörper haben sich aus dem Sklerotium gebildet (05.07.2025, Katzenbachtal bei Oberau), Foto links: Matthias Dondl, Detailfoto rechts - Perithecien auf den kugelförmigen Köpfchen: Johann Rejek" %}
+{% include abbildung_ende.html legende="Winzige Fruchtkörper haben sich aus dem Sklerotium gebildet (05.07.2025, Katzenbachtal bei Oberau), Foto links: Matthias Dondl, Detailfoto rechts - Perithezien auf den kugelförmigen Köpfchen: Johann Rejek" %}
 
 Gelangen sie jedoch nicht im Feld auf den Erdboden sondern mit den Getreidekörnern ins Erntegut und schließlich ins Brot, können sie enormes Unheil anrichten. Ein Mutterkorn enthält eine beträchtliche Menge giftiger Alkaloide, die eine schwere Erkrankung namens Ergotismus verursacht. Kein anderer Pilz hat in der Geschichte der Menschheit so viele Todesopfer gefordert. Die Symptome einer Mutterkornvergiftung sind vielfältig. Es kann zu Darmkrämpfen und Halluzinationen kommen, Finger und Zehen sterben aufgrund von Durchblutungsstörungen ab, Atemlähmungen und Kreislaufversagen führen zum Tod.
 
