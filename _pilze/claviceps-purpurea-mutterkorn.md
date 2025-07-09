@@ -6,7 +6,7 @@ beschreibung:
   familie: Clavicipitaceae
   synonym: purpurea = in Purpur gekleidet
 profil:
-  aktualisiert: 2020-07-26
+  aktualisiert: 2025-07-09
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
