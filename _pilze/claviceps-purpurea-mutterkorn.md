@@ -22,9 +22,10 @@ published: true
 ---
 Beim Mutterkorn, das in den Ähren verschiedener Gräser heranwächst, handelt es sich um ein [Sklerotium](Sklerotium "Glossar"). Bei der Reife dieser Gräser fallen sie im Sommer oder Herbst mit den Samenkörnern auf den Erdboden und im kommenden Frühjahr wachsen aus ihnen kleine gestielt-kopfige Fruchtkörper, die zu den [Ascomyzeten](Ascomyzeten "Glossar") (Schlauchpilzen) gehören. Deren Sporen werden vom Wind verbreitet, gelangen in die Narben der Grasblüten, in denen sie auskeimen und neue Sklerotien bilden.
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/claviceps_purpurea_02_frk.jpg" %}
-{% include abbildung_ende.html legende="Auf abgefallenen Mutterkörnern entwickeln sich die winzigen Schlauchpilzchen (Foto: Fredi Kasparek)" %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/claviceps_purpurea_09_md.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/claviceps_purpurea_10_jr.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="Winzige Fruchtkörper haben sich aus dem Sklerotium gebildet ( 05.07.2025, Katzenbachtal bei Oberau), Foto links: Matthias Dondl, Detailfoto rechts: Johann Rejek" %}
 
 Gelangen sie jedoch nicht im Feld auf den Erdboden sondern mit den Getreidekörnern ins Erntegut und schließlich ins Brot, können sie enormes Unheil anrichten. Ein Mutterkorn enthält eine beträchtliche Menge giftiger Alkaloide, die eine schwere Erkrankung namens Ergotismus verursacht. Kein anderer Pilz hat in der Geschichte der Menschheit so viele Todesopfer gefordert. Die Symptome einer Mutterkornvergiftung sind vielfältig. Es kann zu Darmkrämpfen und Halluzinationen kommen, Finger und Zehen sterben aufgrund von Durchblutungsstörungen ab, Atemlähmungen und Kreislaufversagen führen zum Tod.
 
@@ -44,6 +45,10 @@ Durch Mutterkorn verunreinigtes Getreide gelangt heute kaum noch ins Brot. Berei
 Tipps zur Anzucht der kopfig-gestielten Fruchtkörper aus Mutterkörnern hat Fredi Kasparek auf <https://www.natur-in-nrw.de/HTML/Pilze/Ascomycota/PAS-56.html> gegeben: 
 
 > „Nach jahrelanger vergeblicher Suche dieses Keulchens trotz Markierung der einschlägigen Stellen, kam ich auf die Idee, mehrere mit Mutterkörnern besetzte Ähren mit nach Hause zu nehmen und sie in einen Blumenkasten (die Ähren leicht mit Erde bedeckt) im häuslichen Garten unter Brombeergebüsch zu stellen. Bei länger anhaltenden Trockenperioden wurde der Blumenkasten mit Inhalt wie Blumen gewässert. Die Züchtung gelang problemlos wie die Abbildungen der kleinen fotogenen Keulchen zeigen.“
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/claviceps_purpurea_02_frk.jpg" %}
+{% include abbildung_ende.html legende="Auf abgefallenen Mutterkörnern entwickeln sich die winzigen Schlauchpilzchen (Foto: Fredi Kasparek)" %}
 
 Auch ich habe bei mehrfachen Kultivierungsversuchen auf eine „Anzucht“ der Keulchen gehofft, bisher leider erfolglos.
 
