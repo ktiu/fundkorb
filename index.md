@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/claviceps_purpurea_09_md.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html %}
+
+10.07.2025: Selbst bei anhaltender Trockenheit kann man in manchen Wäldern feuchte Stellen finden, die für eine aktuelle [Fundkorbpilz](AA "Glossar-")-Überraschung gut sind. So fanden wir bei unserer Vereinswanderung ( Münchner Pilzverein) im Katzenbachtal bei Oberau mehrere Fruchtkörper des Mutterkorns *Claviceps purpurea* in unmittelbarer Nähe eines Baches. Der zu den [Ascomyzeten](Ascomyzeten "Glossar") gehörende Pilz (Mutterkorn-Sklerotiumkeulchen = Hauptfruchtform) wächst aus dem [Sklerotium](Sklerotium "Glossar") verschiedener Gräser, ist langgestielt und hat einen kugelförmigen Hut, auf dem die winzig warzigen [Perithezien](Perithezien"Glossar") zu sehen sind. (Johann Rejek) [Mehr lesen >](/pilze/claviceps-purpurea-mutterkorn)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/reticularia_lycoperdon_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
