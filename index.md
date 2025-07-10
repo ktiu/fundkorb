@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peltigera_hymenia_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.07.2025: [Flechten](/verwandt/flechten) sind Pilze, die selbst monatelange Trockenzeiten schadlos überdauern. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist eine nicht sehr häufige Art, die Salat-Schildflechte *Peltigera hymenia*. Ihre grauen, bei Feuchtigkeit schwarzgrauen Lappen mögen den Namensgeber an Salatblätter erinnert haben, sind aber sehr viel kleiner. Um Flechten sicher zu bestimmen, sind Lupe, chemische Reagenzien und Fachliteratur erforderlich. In Deutschland sind etwa 20 leicht miteinander verwechselbare Schildflechtenarten nachgewiesen. (Dieter Gewalt) [Mehr lesen >](/pilze/peltigera-hymenia-salat-schildflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/claviceps_purpurea_09_md.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
