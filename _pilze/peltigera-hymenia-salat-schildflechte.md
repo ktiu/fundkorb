@@ -27,3 +27,6 @@ Die Schildflechten zeichnen sich durch bis zu 20 cm Durchmesser erreichende Lage
 Makrochemische Farbreaktion mit Kalilauge und p-Phenylendiamin negativ.
 
 Gefunden haben wir die hier abgebildete Salat-Schildflechte am 24. August 2024 auf bemoostem Boden in Frankfurt am Main im Oberräder Waldfriedhof.
+
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](https://fundkorb.de/verwandt/flechten)
+
