@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-10.07.2025: [Claviceps purpurea - Mutterkorn](/pilze/claviceps-purpurea-mutterkorn)  
-09.07.2025: [Reticularia lycoperdon - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)  
+11.07.2025: [Peltigera hymenia - Salat-Schildflechte](/pilze/peltigera-hymenia-salat-schildflechte)  
+10.07.2025: [Claviceps purpurea - Mutterkorn](/pilze/claviceps-purpurea-mutterkorn)\
+09.07.2025: [Reticularia lycoperdon - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
 08.07.2025: [Microsphaera berberidis - Mahonien-Mehltau](/pilze/microsphaera-berberidis-mahonien-mehltau)\
 07.07.2024: [Lecanora muralis - Mauer-Flechte](/pilze/lecanora-muralis-mauer-flechte)\
 06.07.2025: [Phaeolus spadiceus - Kiefernbraunporling](/pilze/phaeolus-spadiceus-kiefernbraunporling)\
