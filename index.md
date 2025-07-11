@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_virescens_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.07.2025: Freudig überrascht war ich beim Fund gleich mehrerer Exemplare des Grüngefelderten Täublings *Russula virescens*. Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt mit sehr trockener und heißer Witterung gut zurecht. Kenner schätzen diesen hervorragenden Speisepilz mehr als Steinpilz, Pfifferling & Co. Er bleibt auch nach dem Zubereiten bissfest. Um so erfreulicher, dass er zu den wenigen Täublingen gehört, die auch von Laien leicht erkannt werden können. In typischer Ausprägung (in felderig aufgerissener Huthut) ist er kaum zu verwechseln. Seine [Mykorrhizapartner](Mykorrhiza "Glossar") sind überwiegend Eichen und Rotbuchen. (Ulrike Wegner) [Mehr lesen >](/pilze/russula-virescens-grüngefelderter-täubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peltigera_hymenia_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,22 +61,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 07.07.2025: Man braucht nur ein paar Schritte aus dem Haus zu gehen, um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Mauer-Flechte *Lecanora muralis* zu sehen. Obwohl diese auffällige überall auf Gestein, Pflastern, Gehwegsplatten, Asphalt, an Mauern, seltener und reduziert auch an Bäumen wachsende Krustenflechte völlig zurecht als *„Allerweltsflechte“* bezeichnet werden kann, wird sie kaum beachtet. Ihre [Lager](Lager "Glossar") erreichen Durchmesser von bis zu 15 Zentimetern, die [Apothecien](Apothecien "Glossar") sind nur mit Lupe deutlich zu erkennen. Das beigefügte Foto ist signifikant vergrößert. (Dieter Gewalt) [Mehr lesen >](/pilze/lecanora-muralis-mauer-flechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phaeolus_spadiceus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.07.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Kiefernbraunporling *Phaeolus schweinitzii*, könnte man auf den ersten Blick durchaus mit einem [Fenchelporling](/pilze/gloeophyllum-odoratum-fenchelporling) *Gloeophyllum odoratum* verwechseln. Besitzt er doch ähnliche Farben (dunkelbraun im Zentrum, orangegelb an den Zuwachskanten) und Wuchsformen wie dieser. Allerdings riecht er nicht nach Fenchel, und er wächst auch nicht auf Fichtenstümpfen , sondern vorwiegend im Wurzelbereich von Kiefern. Dort erzeugt er am befallenen Holz eine Braunfäule, erkennbar an einem würfelförmigen Zerfall und einer Braunfärbung des Holzes. (Johann Rejek) [Mehr lesen >](/pilze/phaeolus-spadiceus-kiefernbraunporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pleurotus_pulmonarius_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.07.2025: Ein manchmal kaum unterscheidbarer Doppelgänger des bekannten [Austernseitlings](/pilze/pleurotus-ostreatus-austernseitling) ist der Lungenseitling *Pleurotus pulmonarius*, unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Mitunter findet man beide Arten sogar am gleichen Buchenstamm. Verwechslungen wären absolut unproblematisch. Beide sind gleichwertig gute, jung sogar hervorragende und zarte Speisepilze. Die Unterseiten werden gern von Tummelfliegen besucht, die sich nach kurzem Antippen herunterfallen lassen. (Dieter Gewalt) [Mehr lesen >](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)
 
 <div style="clear:  both"></div>
 
