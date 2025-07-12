@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-12.07.2025: [Russula virescens - Grüngefelderter Täubling](/pilze/russula-virescens-grüngefelderter-täubling)  
+13.07.2025: [Hyphodontia sambuci - Holunder-Rindenpilz](/pilze/hyphodontia-sambuci-holunder-rindenpilz)  
+12.07.2025: [Russula virescens - Grüngefelderter Täubling](/pilze/russula-virescens-grüngefelderter-täubling)\
 11.07.2025: [Peltigera hymenia - Salat-Schildflechte](/pilze/peltigera-hymenia-salat-schildflechte)\
 10.07.2025: [Claviceps purpurea - Mutterkorn](/pilze/claviceps-purpurea-mutterkorn)\
 09.07.2025: [Reticularia lycoperdon - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
