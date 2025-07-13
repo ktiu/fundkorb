@@ -19,7 +19,7 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include bild.html datei="/bilder/calocera_viscosa_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-14.07.2025: Unseren aktueller [Fundkorbpilz](AA "Glossar-"), den Klebrigen Hörnling * Calocera viscosa*, findet man auch in regenarmen Zeiten. Auf den ersten Blick schaut der leuchtend orangefarbene und stark verästelte Pilz einem Korallenpilz recht ähnlich, jedoch ist seine Kosistenz gummiartig und schmierig klebrig. Korallenpilze dagegen haben eine brüchige Konsistenz. Der Klebrige Hörnling wächst ausschließlich in Nadelwäldern auf Stümpfen (hier hält sich die Feuchtigkeit recht lang) oder auf im Boden verborgenem Totholz. (Johann Rejek) [Mehr lesen >](/pilze/calocera-viscosa-klebriger-hörnling)
+14.07.2025: Unseren aktueller [Fundkorbpilz](AA "Glossar-"), den Klebrigen Hörnling *Calocera viscosa*, findet man auch in regenarmen Zeiten. Auf den ersten Blick schaut der leuchtend orangefarbene und stark verästelte Pilz einem Korallenpilz recht ähnlich, jedoch ist seine Kosistenz gummiartig und schmierig klebrig. Korallenpilze dagegen haben eine brüchige Konsistenz. Der Klebrige Hörnling wächst ausschließlich in Nadelwäldern auf Stümpfen (hier hält sich die Feuchtigkeit recht lang) oder auf im Boden verborgenem Totholz. (Johann Rejek) [Mehr lesen >](/pilze/calocera-viscosa-klebriger-hörnling)
 
 <div style="clear:  both"></div>
 
