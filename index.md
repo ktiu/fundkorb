@@ -15,6 +15,13 @@ footer_scripts:
 Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeigneten Wachstumsbedingungen hier angezeigt.
 
 - - -
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calocera_viscosa_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.07.2025: Unseren aktueller [Fundkorbpilz](AA "Glossar-"), den Klebrigen Hörnling * Calocera viscosa*, findet man auch in regenarmen Zeiten. Auf den ersten Blick schaut der leuchtend orangefarbene und stark verästelte Pilz einem Korallenpilz recht ähnlich, jedoch ist seine Kosistenz gummiartig und schmierig klebrig. Korallenpilze dagegen haben eine brüchige Konsistenz. Der Klebrige Hörnling wächst ausschließlich in Nadelwäldern auf Stümpfen (hier hält sich die Feuchtigkeit recht lang) oder auf im Boden verborgenem Totholz. (Johann Rejek) [Mehr lesen >](/pilze/calocera-viscosa-klebriger-hörnling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hyphodontia_sambuci_01_dg.jpg" %}
@@ -61,14 +68,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 08.07.2025: Mehltaupilze bilden weißliche abwischbare Beläge auf Blattoberseiten zahlreicher Pflanzenarten. Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") sind Mahonienblätter vom Mahonien-Mehltau *Microsphaera berberidis* befallen, der von manchen Autoren auch als „Echter Mehltau“ bezeichnet wird. Er ist, allerdings weniger häufig, auch auf Berberitzenblättern anzutreffen. Mehltaupilze entziehen den Blättern Nährstoffe, die dann welken, schließlich abfallen und so wirtschaftlichen Schaden verursachen können. (Dieter Gewalt) [Mehr lesen >](/pilze/microsphaera-berberidis-mahonien-mehltau)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lecanora_murali_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.07.2025: Man braucht nur ein paar Schritte aus dem Haus zu gehen, um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Mauer-Flechte *Lecanora muralis* zu sehen. Obwohl diese auffällige überall auf Gestein, Pflastern, Gehwegsplatten, Asphalt, an Mauern, seltener und reduziert auch an Bäumen wachsende Krustenflechte völlig zurecht als *„Allerweltsflechte“* bezeichnet werden kann, wird sie kaum beachtet. Ihre [Lager](Lager "Glossar") erreichen Durchmesser von bis zu 15 Zentimetern, die [Apothecien](Apothecien "Glossar") sind nur mit Lupe deutlich zu erkennen. Das beigefügte Foto ist signifikant vergrößert. (Dieter Gewalt) [Mehr lesen >](/pilze/lecanora-muralis-mauer-flechte)
 
 <div style="clear:  both"></div>
 
