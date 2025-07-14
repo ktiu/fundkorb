@@ -36,6 +36,6 @@ Die konisch bis glockig geformten Hüte sind grauocker bis graubeige, schwach [h
 Mikromerkmale:\
 Basidien viersporig, keulig, 22 – 33 x 10 – 13 µm. Sporen rötlich braun, elliptisch, glatt, dickwandig, 9,5 – 16 x 6 – 9 µm. mit Keimporus. Cheilozystiden 20 – 35 x 8 – 17 µm; ihre Form erinnert an die Spielfiguren beim „Mensch ärgere dich nicht“ und wird *lecythiform* genannt; die „Köpfchen“ sind im Schnitt über 5 µm breit. Hutdeckschicht aus ballonförmigen Zellen, untermischt mit einigen lecythiformen, Septen nur vereinzelt mit Schnallen. 
 
-Das gerandetknollige Samtfüßchen ist etwa ab Mai bis Ende November in grasigen Biotopen, aber auch auf nackter Erde oder zwischen Kräutern, z. B. in auwaldartigen Landschaften, Feuchtwiesen oder an Weg- und Straßenrändern zu finden. Verwechselt werden könnte es mit einigen anderen Samthäubchen wie dem Ockerfarbigen (*Conocybe sienophyla*) oder dem Rotstieligen (*Conocybe tenera*).
+Das gerandetknollige Samtfüßchen ist etwa ab Mai bis Ende November in grasigen Biotopen, aber auch auf nackter Erde oder zwischen Kräutern, z. B. in auwaldartigen Landschaften, Feuchtwiesen oder an Weg- und Straßenrändern zu finden. Verwechselt werden könnte es mit einigen anderen Samthäubchen wie dem Ockerfarbigen (*Conocybe sienophyla*) oder dem [Rotstieligen (*Conocybe tenera*)](/pilze/conocybe-tenera-rotstieliges-samthäubchen).
 
 Es versteht sich von selbst, dass die extrem dünnfleischigen Pilzchen für Speisezwecke völlig ungeeignet sind. Einige Arten der Gattung werden als giftverdächtig oder ± magen-/darmgiftig eingestuft.
