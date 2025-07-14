@@ -15,6 +15,15 @@ footer_scripts:
 Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeigneten Wachstumsbedingungen hier angezeigt.
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/diatrypella_favacea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.07.2025: Selbst wenn es noch so trocken ist - Kleinzeug an Holz findet man immer. Allein an Kohlenbeeren und Eckenscheibchen gibt es mindestens 40 verschiedene Arten in unseren Wäldern. Wo totes Birkenholz am Boden liegt, ist mit dem Birken-Eckenscheibchen *Diatrypella favacea* zu rechnen, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Wer sich nicht damit auskennt, hält die schwarzen quer zur Ast- oder Stammlänge angeordneten [Pyrenomyzeten](Pyrenomyzeten "Glossar") möglicherweise für typische Muster der Birkenrinde. (Dieter Gewalt) Mehr lesen >
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/calocera_viscosa_02_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -52,22 +61,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 10.07.2025: Selbst bei anhaltender Trockenheit kann man in manchen Wäldern feuchte Stellen finden, die für eine aktuelle [Fundkorbpilz](AA "Glossar-")-Überraschung gut sind. So fanden wir bei unserer Exkursion des Münchner Pilzvereins im Katzenbachtal bei Oberau mehrere Fruchtkörper des Mutterkorns *Claviceps purpurea* in unmittelbarer Nähe eines Baches. Der zu den [Ascomyzeten](Ascomyzeten "Glossar") gehörende Pilz (Mutterkorn-Sklerotiumkeulchen = Hauptfruchtform) wächst aus dem [Sklerotium](Sklerotium "Glossar") verschiedener Gräser, ist langgestielt und hat einen kugelförmigen Hut, auf dem die winzig warzigen [Perithezien](Perithezien "Glossar") zu sehen sind. (Johann Rejek) [Mehr lesen >](/pilze/claviceps-purpurea-mutterkorn)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/reticularia_lycoperdon_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.07.2025: Auf den ersten Blick könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") für einen [Weißen Polsterpilz](/pilze/postia-ptychogaster-weißer-polsterpilz) halten, der aber eine filzig zottige Oberfläche hat und daher nicht in Frage kommt. Zieht man den naheliegenden Schluss, dass es sich um einen [Myxomyzeten](Myxomyzeten "Glossar") handeln könnte, bereitet die Bestimmung keine Probleme mehr. Der Stäublings-Schleimpilz *Reticularia lycoperdon* ist so gut wie unverwechselbar. Die polsterförmigen Fruchtkörper wachsen gern an stehenden Baumstämmen. Die weiße Außenhaut wird im Alter grau, platzt auf und gibt den Blick auf die durchscheinende Sporenmasse frei, die schließlich zu stäuben beginnt. (Dieter Gewalt) [Mehr lesen >](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/microsphaera_berberidis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.07.2025: Mehltaupilze bilden weißliche abwischbare Beläge auf Blattoberseiten zahlreicher Pflanzenarten. Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") sind Mahonienblätter vom Mahonien-Mehltau *Microsphaera berberidis* befallen, der von manchen Autoren auch als „Echter Mehltau“ bezeichnet wird. Er ist, allerdings weniger häufig, auch auf Berberitzenblättern anzutreffen. Mehltaupilze entziehen den Blättern Nährstoffe, die dann welken, schließlich abfallen und so wirtschaftlichen Schaden verursachen können. (Dieter Gewalt) [Mehr lesen >](/pilze/microsphaera-berberidis-mahonien-mehltau)
 
 <div style="clear:  both"></div>
 
