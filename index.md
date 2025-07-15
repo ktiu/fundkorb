@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/physarum_utriculare_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.07.2025: Einer der hübschesten [Myxomyzeten](Myxomyzeten "Glossar") und daher unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Fadenfruchtschleimpilz *Physarum utriculare*. Ein besonderer Aspekt dieser Art ist die Farbänderung, die im Laufe seiner Entwicklung stattfindet: von gelb über rötlich und blaugrau zu tief dunkelblau. Die unregelmäßig birnen- oder eiförmigen [Sporocarpien](Sporocarpien "Glossar") hängen wie Trauben an ihren fädigen Stielen und erreichen Durchmesser von 1 - 2 mm. (Dieter Gewalt) [Mehr lesen >](/pilze/physarum-utriculare-fadenfruchtschleimpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrypella_favacea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -45,22 +53,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 12.07.2025: Freudig überrascht war ich beim Fund gleich mehrerer Exemplare des Grüngefelderten Täublings *Russula virescens*. Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt mit sehr trockener und heißer Witterung gut zurecht. Kenner schätzen diesen hervorragenden Speisepilz mehr als Steinpilz, Pfifferling & Co. Er bleibt auch nach dem Zubereiten bissfest. Um so erfreulicher, dass er zu den wenigen Täublingen gehört, die auch von Laien leicht erkannt werden können. In typischer Ausprägung (in felderig aufgerissener Huthut) ist er kaum zu verwechseln. Seine [Mykorrhizapartner](Mykorrhiza "Glossar") sind überwiegend Eichen und Rotbuchen. (Ulrike Wegner) [Mehr lesen >](/pilze/russula-virescens-grüngefelderter-täubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peltigera_hymenia_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.07.2025: [Flechten](/verwandt/flechten) sind Pilze, die selbst monatelange Trockenzeiten schadlos überdauern. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist eine nicht sehr häufige Art, die Salat-Schildflechte *Peltigera hymenia*. Ihre grauen, bei Feuchtigkeit schwarzgrauen Lappen mögen den Namensgeber an Salatblätter erinnert haben, sind aber sehr viel kleiner. Um Flechten sicher zu bestimmen, sind Lupe, chemische Reagenzien und Fachliteratur erforderlich. In Deutschland sind etwa 20 leicht miteinander verwechselbare Schildflechtenarten nachgewiesen. (Dieter Gewalt) [Mehr lesen >](/pilze/peltigera-hymenia-salat-schildflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/claviceps_purpurea_09_md.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html %}
-
-10.07.2025: Selbst bei anhaltender Trockenheit kann man in manchen Wäldern feuchte Stellen finden, die für eine aktuelle [Fundkorbpilz](AA "Glossar-")-Überraschung gut sind. So fanden wir bei unserer Exkursion des Münchner Pilzvereins im Katzenbachtal bei Oberau mehrere Fruchtkörper des Mutterkorns *Claviceps purpurea* in unmittelbarer Nähe eines Baches. Der zu den [Ascomyzeten](Ascomyzeten "Glossar") gehörende Pilz (Mutterkorn-Sklerotiumkeulchen = Hauptfruchtform) wächst aus dem [Sklerotium](Sklerotium "Glossar") verschiedener Gräser, ist langgestielt und hat einen kugelförmigen Hut, auf dem die winzig warzigen [Perithezien](Perithezien "Glossar") zu sehen sind. (Johann Rejek) [Mehr lesen >](/pilze/claviceps-purpurea-mutterkorn)
 
 <div style="clear:  both"></div>
 
