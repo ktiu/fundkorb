@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_excelsa_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.07.2025: [Fundkorbpilz](AA "Glossar-") Aktueller Fundkorbpilz ist der Graue Wulstling *Amanita excelsa*. Im Gegensatz zum giftigen [Pantherpilz](/pilze/amanita-pantherina-pantherpilz) gilt er als harmloser Doppelgänger des [Perlpilzes](/pilze/amanita-rubescens-perlpilz), den man wegen seines muffigen Geschmacks aber nicht auf dem Teller haben möchte. Was relativ leicht zu vermeiden ist. Im Gegensatz zum häufigeren Perlpilz zeigt er nie und nirgendwo rötliche Farbtöne. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-excelsa-grauer-wulstling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/physarum_utriculare_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
