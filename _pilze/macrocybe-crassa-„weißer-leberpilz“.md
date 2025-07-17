@@ -29,13 +29,13 @@ literatur:
 
 Der Cha Am Forest Park ist ein wunderschöner Waldpark am Golf von Thailand etwa 200 km südlich von Bangkok. Seine abwechslungsreiche Landschaft mit einer einmaligen Tier- und Pflanzenwelt macht ihn zu einem lohnenden Ausflugsziel. Ich habe ihn während meiner Thailand-Aufenthalte viele Male besucht und stets auch nach Pilzen Ausschau gehalten. Dabei ist mir immer wieder auf diversen Rasenflächen ein büschelig wachsender weißlicher Pilz vom Format einer Nebelkappe aufgefallen. Er war auch auf einem Foto im Informationspavillon mit der nicht ganz korrekten Unterschrift *„Macrocybe crassum“* abgebildet und wurde mir vom Parkpersonal wärmstens als guter Speisepilz empfohlen. Der glaubwürdigen Empfehlung folgend landete er in unserer Pfanne und ist uns gut bekommen. Andere Thais in unserer Nachbarschaft waren da anderer Meinung. Sie rieten uns dringend vom Verzehr ab, aber da waren sie schon in unseren Mägen und bereits so gut wie verdaut. Solche Warnungen sind in Thailand durchaus angebracht. In den Jahren 2008 bis 2017 lag die Zahl der gemeldeten Pilzvergiftungen zwischen 1.200 und 2.000 pro Jahr, darunter nicht wenige mit tödlichem Ausgang.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/macrocybe_crassa_01_dg.png" nocrop=true %}
 {% include abbildung_ende.html %}
 
 *Macrocybe crassa* ist aus Indien, Sri Lanka, Thailand und Malaysia bekannt. Vor allem in Thailand, wo er nach der Regenzeit erscheint, wird der Pilz gern gesammelt, auf Märkten zu vergleichsweise hohen Preisen angeboten und sehr geschätzt.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/macrocybe_crassa_02_dg.png" nocrop=true %}
 {% include abbildung_ende.html %}
 
@@ -78,3 +78,14 @@ Anhang: Einige Pilzarten im Cha Am Forest Park
 {% include bild.html datei="/bilder/cha_am_forest_park_11_dg.png" nocrop=true %}
 {% include bild.html datei="/bilder/ganoderma_lucidum_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Erdsterne, indet. -- Ganoderma lucidum, Vitalpilz" %}
+
+Folgende hier gezeigten Pilzarten sind mit einem ausführlicheren Porträt im Fundkorb vorhanden:
+
+[Colus hirudinosus = Faltiger Gitterling](/pilze/colus-hirudinosus-faltiger-gitterling)  
+[Cookeina sulcipes = Prächtigter Kelchbecherling](/pilze/cookeina-sulcipes-weinglas-kelchbecherling)  
+[Flavodon flavus = „Gelber Gelbzahn“](/pilze/flavodon-flavus-gelber-gelbzahn)  
+[Ganoderma lucidum = Glänzender Lackporling](/pilze/ganoderma-lucidum-glänzender-lackporling)  
+[Phallus indusiatus = Tropische Schleierdame](/pilze/phallus-indusiatus-tropische-schleierdame)  
+[Pycnoporus sanguineus = Blutrote Tramete](/pilze/pycnoporus-sanguineus-blutrote-tramete)  
+[Termitomyces striatus = „Termitenpilz“](/pilze/termitomyces-striatus-termitenpilz)  
+[Volvariella volvacea = Schwarzstreifiger  Scheidling](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)
