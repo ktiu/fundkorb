@@ -52,12 +52,29 @@ Anhang: Einige Pilzarten im Cha Am Forest Park
 {% include bild.html datei="/bilder/cha_am_forest_park_06_dg.png" nocrop=true %}
 {% include abbildung_ende.html legende="Champignons, indet. -- Zwergschwindlinge, indet." %}
 
-
-
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/macrolepiota_dolichaula_01_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/cha_am_forest_park_07_dg.png" nocrop=true %}
 {% include bild.html datei="/bilder/colus_hirudinosus_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Macrolepiota dolichaula, giftig -- Cookeina sulcipes -- Colus hirudinosus" %}
 
-xx
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/termitomyces_striatus_01.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/pycnoporus_sanuineus_03_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Termitomyces striatus, sehr lecker -- Pycnoporus sanguineus" %}
+
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/cha_am_forest_park_08_dg.png" nocrop=true %}
+{% include bild.html datei="/bilder/cha_am_forest_park_09_dg.png" nocrop=true %}
+{% include bild.html datei="/bilder/cha_am_forest_park_10_dg.png" nocrop=true %}
+{% include abbildung_ende.html legende="Volvariella volvacea, essbar -- „Kokosnuss-Nabeling“, indet. -- Beringter Täubling, indet." %}
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/flavodon_flavus_01_dg.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/phallus_indusiatus_02_ds.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Flavodon flavus -- Phallus indusiatus" %}
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/cha_am_forest_park_11_dg.png" nocrop=true %}
+{% include bild.html datei="/bilder/ganoderma_lucidum_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Erdsterne, indet. -- Ganoderma lucidum, Vitalpilz" %}
