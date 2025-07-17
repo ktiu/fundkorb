@@ -58,7 +58,7 @@ Anhang: Einige Pilzarten im Cha Am Forest Park
 {% include bild.html datei="/bilder/colus_hirudinosus_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Macrolepiota dolichaula, giftig -- Cookeina sulcipes -- Colus hirudinosus" %}
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/termitomyces_striatus_01.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/pycnoporus_sanuineus_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Termitomyces striatus, sehr lecker -- Pycnoporus sanguineus" %}
