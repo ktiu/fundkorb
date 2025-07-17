@@ -17,10 +17,10 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_excelsa_02_dg.jpg" %}
+{% include bild.html datei="/bilder/trichopeziza_sulphurea_01_iw.jpg" %}
 {% include abbildung_ende.html %}
 
-17.07.2025: [Fundkorbpilz](AA "Glossar-") Aktueller Fundkorbpilz ist der Graue Wulstling *Amanita excelsa*. Im Gegensatz zum giftigen [Pantherpilz](/pilze/amanita-pantherina-pantherpilz) gilt er als harmloser Doppelgänger des [Perlpilzes](/pilze/amanita-rubescens-perlpilz), den man wegen seines muffigen Geschmacks aber nicht auf dem Teller haben möchte. Was relativ leicht zu vermeiden ist. Im Gegensatz zum häufigeren Perlpilz zeigt er nie und nirgendwo rötliche Farbtöne. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-excelsa-grauer-wulstling)
+17.07.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-") findet man da, wo normalerweise kein Pilzfreund hinschaut. Schwefelgelbe Haarbecherchen (*Trichopeziza sulphurea*) sitzen stiellos an vorjährigen trockenen Brennnesselstängeln, und zwar in der Regel ganz unten an deren Basis in nicht einsehbarer, gern etwas feuchter Vegetation. Da sie kaum mehr als 2 mm Durchmesser erreichen, sollte man sie mit einer gut vergrößernden Lupe betrachten. Sie sind ein attraktives Beispiel für die Schönheit mancher im Verborgenen „blühenden“ Naturwunder. (Dieter Gewalt) [Mehr lesen >](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)
 
 <div style="clear:  both"></div>
 
