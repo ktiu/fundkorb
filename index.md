@@ -17,6 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_stylobates_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+18.07.2025: In der Gattung der Helmlinge gibt es einige weißfarbene Arten, die durch ein besonderes Merkmal leicht zu bestimmen sind. Es ist ein wenige Millimeter großes Basalscheibchen am Stielgrund, mit dem der Helmling am Substrat angewachsen ist. Wenn der Hut etwas gelatinös ist, und auf ihm winzige dornenartige Auswüchse zu sehen sind (Lupe!), dann ist es unser aktueller [Fundkorbpilz](AA "Glossar-"), der Postament-Helming *Mycena stylobates*. Er wächst vor allem auf angemoderten Laubblättern, aber auch auf Nadelstreu, Ästchen und Zweigen, sowie auf Pflanzen- und Holzresten. (Johann Rejek) [Mehr lesen >](/pilze/mycena-stylobates-postament-helmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trichopeziza_sulphurea_01_iw.jpg" %}
 {% include abbildung_ende.html %}
 
