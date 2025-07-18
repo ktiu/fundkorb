@@ -16,7 +16,11 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 
 - - -
 
-19.07.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rußbraune Schichtpilz *Lopharia spadicea*. Auf den ersten Blick könnte man ihn für einen Schichtpilz der Gattung Stereum halten. Von dieser unterscheidet sich Lopharia vor allem durch inamyloide Sporen. Die Oberseite dieses oft in langen Reihen an Laubholz (vor allem Buche) wachsenden semipileaten Rindenpilzes ist zoniert, grau- bis olivbraun und zottig filzig, die Unterseite glatt bis etwas höckerig. Es handelt sich um eine relativ häufige, aber nur wenig bekannte Art. (Dieter Gewalt) Mehr lesen >
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lopharia_spadicea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.07.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rußbraune Schichtpilz *Lopharia spadicea*. Auf den ersten Blick könnte man ihn für einen Schichtpilz der Gattung *Stereum* halten. Von dieser unterscheidet sich Lopharia vor allem durch [inamyloide](inamyloid "Glossar") Sporen. Die Oberseite dieses oft in langen Reihen an Laubholz (vor allem Buche) wachsenden [semipileaten](semipileat "Glossar") Rindenpilzes ist zoniert, grau- bis olivbraun und zottig filzig, die Unterseite glatt bis etwas höckerig. Es handelt sich um eine relativ häufige, aber nur wenig bekannte Art. (Dieter Gewalt) [Mehr lesen >](/pilze/lopharia-spadicea-rußbrauner-schichtpilz)
 
 <div style="clear:  both"></div>
 
