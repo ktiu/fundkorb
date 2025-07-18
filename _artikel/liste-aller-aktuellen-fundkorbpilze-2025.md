@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-18.07.2025: [Mycena stylobates - Postament-Helmling](/pilze/mycena-stylobates-postament-helmling)  
+19.07.2025: [Lopharia spadicea - Rußbrauner Schichtpilz](/pilze/lopharia-spadicea-rußbrauner-schichtpilz)  
+18.07.2025: [Mycena stylobates - Postament-Helmling](/pilze/mycena-stylobates-postament-helmling)\
 17.07.2025: [Trichopeziza sulphurea - Schwefelgelbes Haarbecherchen](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)\
 16.07.2025: [Physarum untriculare - Fadenfruchtschleimpilz](/pilze/physarum-utriculare-fadenfruchtschleimpilz)\
 15.07.2025: [Diatrypella favacea - Birken-Eckenscheibchen](/pilze/diatrypella-favacea-birken-eckenscheibchen)\
