@@ -14,7 +14,17 @@ footer_scripts:
 
 Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeigneten Wachstumsbedingungen hier angezeigt.
 
+<div style="clear:  both"></div>
+
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_pinophilus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.07.2025: *Vera Engert* meldete uns Pilzfunde aus ihrem Urlaub: *„Im zur Zeit viel zu warmen Finnland habe ich im Gebiet des Saimaa-Sees bei Savonlinna u. a. Birkenpilze, Kiefernsteinpilze, verschiedene Täublinge und mehrere Riesenboviste gefunden…“* Der Kiefernsteinpilz *Boletus pinophilus* ist in Deutschland ziemlich rar geworden und daher soll der Fund aus Finnland unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Seine Kennzeichen: dunkelbrauner Hut mit rötlichen Nuancen, unauffälliger Netzzeichnung am Stiel, und natürlich sein Vorkommen bei Kiefern. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-pinophilus-kiefernsteinpilz)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lopharia_spadicea_02_dg.jpg" %}
@@ -45,38 +55,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 16.07.2025: Einer der hübschesten [Myxomyzeten](Myxomyzeten "Glossar") und daher unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Fadenfruchtschleimpilz *Physarum utriculare*. Ein besonderer Aspekt dieser Art ist die Farbänderung, die im Laufe seiner Entwicklung stattfindet: von gelb über rötlich und blaugrau zu tief dunkelblau. Die unregelmäßig birnen- oder eiförmigen [Sporocarpien](Sporocarpien "Glossar") hängen wie Trauben an ihren fädigen Stielen und erreichen Durchmesser von 1 - 2 mm. (Dieter Gewalt) [Mehr lesen >](/pilze/physarum-utriculare-fadenfruchtschleimpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diatrypella_favacea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.07.2025: Selbst wenn es noch so trocken ist - Kleinzeug an Holz findet man immer. Allein an Kohlenbeeren und Eckenscheibchen gibt es mindestens 40 verschiedene Arten in unseren Wäldern. Wo totes Birkenholz am Boden liegt, ist mit dem Birken-Eckenscheibchen *Diatrypella favacea* zu rechnen, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Wer sich nicht damit auskennt, hält die schwarzen quer zur Ast- oder Stammlänge angeordneten [Pyrenomyzeten](Pyrenomyzeten "Glossar") möglicherweise für typische Muster der Birkenrinde. (Dieter Gewalt) [Mehr lesen >](/pilze/diatrypella-favacea-birken-eckenscheibchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calocera_viscosa_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.07.2025: Unseren aktueller [Fundkorbpilz](AA "Glossar-"), den Klebrigen Hörnling *Calocera viscosa*, findet man auch in regenarmen Zeiten. Auf den ersten Blick schaut der leuchtend orangefarbene und stark verästelte Pilz einem Korallenpilz recht ähnlich, jedoch ist seine Kosistenz gummiartig und schmierig klebrig. Korallenpilze dagegen haben eine brüchige Konsistenz. Der Klebrige Hörnling wächst ausschließlich in Nadelwäldern auf Stümpfen (hier hält sich die Feuchtigkeit recht lang) oder auf im Boden verborgenem Totholz. (Johann Rejek) [Mehr lesen >](/pilze/calocera-viscosa-klebriger-hörnling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hyphodontia_sambuci_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.07.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Holunder-Rindenpilz *Hyphodontia sambuci*. Diese häufige Art dürfte in keinem Holunderbestand fehlen, wird aber von den meisten Naturfreunden gar nicht als Pilz wahrgenommen. Verständlich – sehen die befallenen Stammteile oder Äste doch eher aus, als seien sie mit weißer Farbe oder Kalk angestrichen worden. Solche flächigen Wuchsformen werden in der [Mykologie](Mykologie "Glossar") als [resupinat](resupinat "Glossar") bezeichnet. (Dieter Gewalt) [Mehr lesen >](/pilze/hyphodontia-sambuci-holunder-rindenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_virescens_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.07.2025: Freudig überrascht war ich beim Fund gleich mehrerer Exemplare des Grüngefelderten Täublings *Russula virescens*. Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt mit sehr trockener und heißer Witterung gut zurecht. Kenner schätzen diesen hervorragenden Speisepilz mehr als Steinpilz, Pfifferling & Co. Er bleibt auch nach dem Zubereiten bissfest. Um so erfreulicher, dass er zu den wenigen Täublingen gehört, die auch von Laien leicht erkannt werden können. In typischer Ausprägung (in felderig aufgerissener Huthut) ist er kaum zu verwechseln. Seine [Mykorrhizapartner](Mykorrhiza "Glossar") sind überwiegend Eichen und Rotbuchen. (Ulrike Wegner) [Mehr lesen >](/pilze/russula-virescens-grüngefelderter-täubling)
 
 <div style="clear:  both"></div>
 
