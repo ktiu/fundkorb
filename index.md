@@ -22,7 +22,7 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include bild.html datei="/bilder/boletus_pinophilus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-20.07.2025: *Vera Engert* meldete uns Pilzfunde aus ihrem Urlaub: *„Im zur Zeit viel zu warmen Finnland habe ich im Gebiet des Saimaa-Sees bei Savonlinna u. a. Birkenpilze, Kiefernsteinpilze, verschiedene Täublinge und mehrere Riesenboviste gefunden…“* Der Kiefernsteinpilz *Boletus pinophilus* ist in Deutschland ziemlich rar geworden und daher soll der Fund aus Finnland unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Seine Kennzeichen: dunkelbrauner Hut mit rötlichen Nuancen, unauffälliger Netzzeichnung am Stiel, und natürlich sein Vorkommen bei Kiefern. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-pinophilus-kiefernsteinpilz)
+20.07.2025: *Vera Engert* meldete uns Pilzfunde aus ihrem Urlaub: *„Im zur Zeit viel zu warmen Finnland haben wir im Gebiet des Saimaa-Sees bei Savonlinna u. a. Birkenpilze, Kiefernsteinpilze, verschiedene Täublinge und mehrere Riesenboviste gefunden…“* Der Kiefernsteinpilz *Boletus pinophilus* ist in Deutschland ziemlich rar geworden und daher soll der Fund aus Finnland unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Seine Kennzeichen: dunkelbrauner Hut mit rötlichen Nuancen, unauffälliger Netzzeichnung am Stiel, und natürlich sein Vorkommen bei Kiefern. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-pinophilus-kiefernsteinpilz)
 
 <div style="clear:  both"></div>
 
