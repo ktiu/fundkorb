@@ -19,6 +19,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calvatia_gigantea_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+21.07.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der von *Vera Engert* aus Finnland gemeldete Riesenbovist *Calvatia gigantea*. Da reicht ein einziger schon für ein üppiges Pilzgericht. Ein weiterer Vorteil: Wenn man auf die Größe und die glatte weiße Außenhaut achtet sind Verwechslungen so gut wie ausgeschlossen. Eines muss allerdings noch angemerkt werden: wenn sie von Kids entdeckt werden, bleiben sie nicht lange am Leben sondern werden als Fußbälle zweckentfremdet. [Mehr lesen >](/pilze/calvatia-gigantea-riesenbovist)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_pinophilus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
