@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+22.07.2025: [Rickenella fibula - Orangeroter Heftelnabeling](/pilze/rickenella-fibula)  
 21.07.2025: [Calvatia gigantea - Riesenbovist](/pilze/calvatia-gigantea-riesenbovist)  
 20.07.2025: [Boletus pinophilus - Kiefernsteinpilz](/pilze/boletus-pinophilus-kiefernsteinpilz)\
 19.07.2025: [Lopharia spadicea - Rußbrauner Schichtpilz](/pilze/lopharia-spadicea-rußbrauner-schichtpilz)\
