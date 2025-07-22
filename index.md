@@ -19,6 +19,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lepiota_ventriosospora_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.07.2025: Im Frankfurter Stadtwald gehört der Gelbflockige Wollstielschirmling *Lepiota ventriosospora* zu den häufigeren Pilzarten und ist daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Er ist vor allem an Wegrändern anzutreffen. Unter den Schirmlingen der Gattung *Lepiota* gibt es keine essbaren, aber zahlreiche zum Teil stark giftige Arten. Mit den essbaren Riesenschirmlingen der Gattung *Macrolepiota* sind sie nicht näher verwandt. (Dieter Gewalt) [Mehr lesen >](/pilze/lepiota-ventriosospora-gelbflockiger-wollstielschirmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
