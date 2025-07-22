@@ -17,13 +17,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 <div style="clear:  both"></div>
 
 - - -
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-22.07.2025: Hätte er nicht eine so auffallende Hutfarbe, so würde man unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Orangeroten Heftelnabeling *Rickenella fibula*, kaum begegnen. Der leuchtend orangerote und genabelte Hut hat nur wenige Millimeter im Durchmesser, und seine hellen Lamellen laufen bogenförmig am Stiel herab. Finden kann man ihn vom Frühsommer bis in den Spätherbst zwischen feuchten Moosen, egal ob sich diese in Rasenflächen von Gärten oder in Wäldern (meist Fichte) befinden. (Johann Rejek) [Mehr lesen >](/pilze/rickenella-fibula)
+22.07.2025: Auf einen riesengroßen folgt nun ein zierlich kleiner aktueller [Fundkorbpilz](AA "Glossar-"), der Orangerote Heftelnabeling *Rickenella fibula*. Manche meinen, es sei eine Art, in die man sich verlieben könne. Dazu tragen neben der attraktiven Farbe auch die in einem eleganten Bogen am Stiel herablaufenden Lamellen bei. Wenn man die Augen offen hält, kann man ihn vom Frühsommer bis in den Spätherbst zwischen Moosen finden, egal, ob sich diese in Rasenflächen oder auf Totholz befinden. (Dieter Gewalt) [Mehr lesen >](/pilze/rickenella-fibula)
 
-<div style="clear:  both"></div>
+ <div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/calvatia_gigantea_02_dg.jpeg" %}
