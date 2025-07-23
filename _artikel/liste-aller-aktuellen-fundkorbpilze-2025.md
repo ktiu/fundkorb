@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-23.07.2025: [Lepiota ventriosospora - Gelbflockiger Wollstielschirmling](/pilze/lepiota-ventriosospora-gelbflockiger-wollstielschirmling)  
+24.07.2025: [Melanoleuca verrucipes - Dunkelflockiger Weichritterling](/pilze/melanoleuca-verrucipes-dunkelflockiger-weichritterling)  
+23.07.2025: [Lepiota ventriosospora - Gelbflockiger Wollstielschirmling](/pilze/lepiota-ventriosospora-gelbflockiger-wollstielschirmling)\
 22.07.2025: [Rickenella fibula - Orangeroter Heftelnabeling](/pilze/rickenella-fibula)\
 21.07.2025: [Calvatia gigantea - Riesenbovist](/pilze/calvatia-gigantea-riesenbovist)\
 20.07.2025: [Boletus pinophilus - Kiefernsteinpilz](/pilze/boletus-pinophilus-kiefernsteinpilz)\
