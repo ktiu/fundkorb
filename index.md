@@ -19,6 +19,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/melanoleuca_verrucipes_01_jh.jpg" %}
+{% include abbildung_ende.html %}
+
+24.07.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dunkelflockige Weichritterling *Melanoleuca verrucipes*, gemeldet von *Johann Rejek* aus der Umgebung von München. Er gehört zu den wenigen leicht kenntlichen Arten in der schwierigen und nicht sehr populären Pilzgattung *Melanoleuca*. Aufgrund seiner hellen im Zentrum gebuckelten Hüte und den weißlichen, dunkel beschuppten Stielen ist er nahezu unverwechselbar, aber nicht gerade häufig. (Dieter Gewalt) [Mehr lesen >](/pilze/melanoleuca-verrucipes-dunkelflockiger-weichritterling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lepiota_ventriosospora_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -63,22 +71,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 18.07.2025: In der Gattung der Helmlinge gibt es einige weißfarbene Arten, die durch ein besonderes Merkmal leicht zu bestimmen sind. Es ist ein wenige Millimeter großes Basalscheibchen am Stielgrund, mit dem der Helmling am Substrat angewachsen ist. Wenn der Hut etwas gelatinös ist, und auf ihm winzige dornenartige Auswüchse zu sehen sind (Lupe!), dann ist es unser aktueller [Fundkorbpilz](AA "Glossar-"), der Postament-Helming *Mycena stylobates*. Er wächst vor allem auf angemoderten Laubblättern, aber auch auf Nadelstreu, Ästchen und Zweigen, sowie auf Pflanzen- und Holzresten. (Johann Rejek) [Mehr lesen >](/pilze/mycena-stylobates-postament-helmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trichopeziza_sulphurea_01_iw.jpg" %}
-{% include abbildung_ende.html %}
-
-17.07.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-") findet man da, wo normalerweise kein Pilzfreund hinschaut. Schwefelgelbe Haarbecherchen (*Trichopeziza sulphurea*) sitzen stiellos an vorjährigen trockenen Brennnesselstängeln, und zwar in der Regel ganz unten an deren Basis in nicht einsehbarer, gern etwas feuchter Vegetation. Da sie kaum mehr als 2 mm Durchmesser erreichen, sollte man sie mit einer gut vergrößernden Lupe betrachten. Sie sind ein attraktives Beispiel für die Schönheit mancher im Verborgenen „blühenden“ Naturwunder. (Dieter Gewalt) [Mehr lesen >](/pilze/trichopeziza-sulphurea-schwefelgelbes-haarbecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/physarum_utriculare_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.07.2025: Einer der hübschesten [Myxomyzeten](Myxomyzeten "Glossar") und daher unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Fadenfruchtschleimpilz *Physarum utriculare*. Ein besonderer Aspekt dieser Art ist die Farbänderung, die im Laufe seiner Entwicklung stattfindet: von gelb über rötlich und blaugrau zu tief dunkelblau. Die unregelmäßig birnen- oder eiförmigen [Sporocarpien](Sporocarpien "Glossar") hängen wie Trauben an ihren fädigen Stielen und erreichen Durchmesser von 1 - 2 mm. (Dieter Gewalt) [Mehr lesen >](/pilze/physarum-utriculare-fadenfruchtschleimpilz)
 
 <div style="clear:  both"></div>
 
