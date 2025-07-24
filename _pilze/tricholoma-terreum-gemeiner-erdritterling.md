@@ -34,7 +34,7 @@ Bei den Erdritterlingen hat man es mit einer recht schwierigen Gruppe von Pilzen
 Auch die Beachtung seiner Begleitbäume kann hilfreich sein, um Verwechslungen zu vermeiden. Der Gemeine Erdritterling ist [Mykorrhizapartner](Mykorrhiza "Glossar") der Kiefer und im Spätherbst oft Massenpilz. 
 
 Ähnliches Aussehen haben:\
-***Tricholoma argyraceum***, der Gilbende Erdritterling, hat einen konischen oder gebuckelten Hut, mehligen Geruch und bei jungen Fruchtkörpern ein deutlich sichtbares Velum. Er wächst in Mischwäldern, Parkanlagen, etc; gern bei Birken. Selten.\
+***[Tricholoma argyraceum](/pilze/tricholoma-terreum-gemeiner-erdritterling)***, der Gilbende Erdritterling, hat einen konischen oder gebuckelten Hut, mehligen Geruch und bei jungen Fruchtkörpern ein deutlich sichtbares Velum. Er wächst in Mischwäldern, Parkanlagen, etc; gern bei Birken. Selten.\
 ***[Tricholoma atrosquamosum](/pilze/tricholoma-atrosquamosum-schwarzschuppiger-ritterling)***, der Schwarzschuppige Ritterling, riecht angenehm fruchtig, schmeckt schwach nach Mehl, Fleisch nicht verfärbend. In Mischwäldern, bevorzugt bei Nadelbäumen.\
 ***Tricholoma basirubens***, der Rosafüßige Erdritterling, besitzt einen meist keuligen Stiel und  rötet oft deutlich an der Stielbasis; Basalmyzel weiß. Seltene Art, vorwiegend im Laubwald bei Buchen.\
 ***[Tricholoma cingulatum](/pilze/tricholoma-cingulatum-beringter-erdritterling)***, der Beringte Erdritterling, hat einen beringten Stiel, gilbendes Fleisch sowie einen unauffälligen oder schwach mehligen Geruch. Er ist ziemlich selten und wächst bei Laubbäumen, vor allem Birken oder Weiden.\
