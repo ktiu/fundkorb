@@ -19,6 +19,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cyathus_striatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.07.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gestreifte Teuerling *Cyathus striatus*. Seine Fruchtkörper sehen aus wie struppige Tütchen, die anfangs mit einem hellen Häutchen verschlossen sind, das bald aufreißt und den Blick ins Innere freigibt. Darin liegen winzige münzenförmige Gebilde, in denen der Pilz, der gar nicht wie ein Pilz aussieht, seine Sporen bildet. Sollten die Tütchen leer sein, handelt es sich um alte Fruchtkörper aus dem vergangenen Jahr, die den Winter unbeschadet überstanden haben. (Dieter Gewalt) [Mehr lesen >](/pilze/cyathus-striatus-gestreifter-teuerling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/melanoleuca_verrucipes_01_jh.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -55,22 +63,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 20.07.2025: *Vera Engert* meldete uns Pilzfunde aus ihrem Urlaub: *„Im zur Zeit viel zu warmen Finnland haben wir im Gebiet des Saimaa-Sees bei Savonlinna u. a. Birkenpilze, Kiefernsteinpilze, verschiedene Täublinge und mehrere Riesenboviste gefunden…“* Der Kiefernsteinpilz *Boletus pinophilus* ist in Deutschland ziemlich rar geworden und daher soll der Fund aus Finnland unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Seine Kennzeichen: dunkelbrauner Hut mit rötlichen Nuancen, unauffälliger Netzzeichnung am Stiel, und natürlich sein Vorkommen bei Kiefern. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-pinophilus-kiefernsteinpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lopharia_spadicea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.07.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rußbraune Schichtpilz *Lopharia spadicea*. Auf den ersten Blick könnte man ihn für einen Schichtpilz der Gattung *Stereum* halten. Von dieser unterscheidet sich Lopharia vor allem durch [inamyloide](inamyloid "Glossar") Sporen. Die Oberseite dieses oft in langen Reihen an Laubholz (vor allem Buche) wachsenden [semipileaten](semipileat "Glossar") Rindenpilzes ist zoniert, grau- bis olivbraun und zottig filzig, die Unterseite glatt bis etwas höckerig. Es handelt sich um eine relativ häufige, aber nur wenig bekannte Art. (Dieter Gewalt) [Mehr lesen >](/pilze/lopharia-spadicea-rußbrauner-schichtpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_stylobates_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-18.07.2025: In der Gattung der Helmlinge gibt es einige weißfarbene Arten, die durch ein besonderes Merkmal leicht zu bestimmen sind. Es ist ein wenige Millimeter großes Basalscheibchen am Stielgrund, mit dem der Helmling am Substrat angewachsen ist. Wenn der Hut etwas gelatinös ist, und auf ihm winzige dornenartige Auswüchse zu sehen sind (Lupe!), dann ist es unser aktueller [Fundkorbpilz](AA "Glossar-"), der Postament-Helming *Mycena stylobates*. Er wächst vor allem auf angemoderten Laubblättern, aber auch auf Nadelstreu, Ästchen und Zweigen, sowie auf Pflanzen- und Holzresten. (Johann Rejek) [Mehr lesen >](/pilze/mycena-stylobates-postament-helmling)
 
 <div style="clear:  both"></div>
 
