@@ -19,6 +19,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopus_fusipes_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Essbar heißt nicht immer lecker. Das gilt auch für unseren heutigen [Fundkorbpilz](AA "Glossar-"), den Spindeligen Rübling *Gymnopus fusipes*. Er wächst meist dichtbüschelig am Grund von lebenden Eichen oder Eichenstubben. Seine stark knorpeligen verdrehten, längsrilligen und spindelförmigen Stiele, die zur Basis hin rostbraun gefärbt sind, lassen ihn leicht erkennen. Rostfarbige Flecken finden sich oft auch auf der Huthaut. (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopus-fusipes-spindeliger-rübling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cyathus_striatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -55,14 +63,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 21.07.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der von *Vera Engert* aus Finnland gemeldete Riesenbovist *Calvatia gigantea*. Da reicht ein einziger schon für ein üppiges Pilzgericht. Ein weiterer Vorteil: Wenn man auf die Größe und die glatte weiße Außenhaut achtet sind Verwechslungen so gut wie ausgeschlossen. Eines muss allerdings noch angemerkt werden: wenn sie von Kids entdeckt werden, bleiben sie nicht lange am Leben sondern werden als Fußbälle zweckentfremdet. (Dieter Gewalt) [Mehr lesen >](/pilze/calvatia-gigantea-riesenbovist)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_pinophilus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.07.2025: *Vera Engert* meldete uns Pilzfunde aus ihrem Urlaub: *„Im zur Zeit viel zu warmen Finnland haben wir im Gebiet des Saimaa-Sees bei Savonlinna u. a. Birkenpilze, Kiefernsteinpilze, verschiedene Täublinge und mehrere Riesenboviste gefunden…“* Der Kiefernsteinpilz *Boletus pinophilus* ist in Deutschland ziemlich rar geworden und daher soll der Fund aus Finnland unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Seine Kennzeichen: dunkelbrauner Hut mit rötlichen Nuancen, unauffälliger Netzzeichnung am Stiel, und natürlich sein Vorkommen bei Kiefern. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-pinophilus-kiefernsteinpilz)
 
 <div style="clear:  both"></div>
 
