@@ -19,6 +19,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/delicatula_integrella_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.07.2025: Aktueller Fundkorbpilz ist der Weiße Adernabeling *Delicatula integrella*. Er ist zwar winzig, aber mit seiner alabasterweißen Farbe durchaus auffällig und attraktiv. Man kann ihn vom Frühjahr bis in den Spätherbst an feuchtem oder im Boden verborgenem totem Holz finden, mitunter in enormen Mengen. Seine Lamellen sind zu flach erhabenen Äderchen reduziert. *Johann Rejek* hat ihn kürzlich auf einem halb vergrabenen Fichtenzapfen in einem Hochmoorwald bei Tuntenhausen gefunden. (Dieter Gewalt) [Mehr lesen >](/pilze/delicatula-integrella-weißer-adernabeling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gymnopus_fusipes_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -47,22 +55,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 {% include abbildung_ende.html %}
 
 23.07.2025: Im Frankfurter Stadtwald gehört der Gelbflockige Wollstielschirmling *Lepiota ventriosospora* zu den häufigeren Pilzarten und ist daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Er ist vor allem an Wegrändern anzutreffen. Unter den Schirmlingen der Gattung *Lepiota* gibt es keine essbaren, aber zahlreiche zum Teil stark giftige Arten. Mit den essbaren Riesenschirmlingen der Gattung *Macrolepiota* sind sie nicht näher verwandt. (Dieter Gewalt) [Mehr lesen >](/pilze/lepiota-ventriosospora-gelbflockiger-wollstielschirmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.07.2025: Auf einen riesengroßen folgt nun ein zierlich kleiner aktueller [Fundkorbpilz](AA "Glossar-"), der Orangerote Heftelnabeling *Rickenella fibula*. Manche meinen, es sei eine Art, in die man sich verlieben könne. Dazu tragen neben der attraktiven Farbe auch die in einem eleganten Bogen am Stiel herablaufenden Lamellen bei. Wenn man die Augen offen hält, kann man ihn vom Frühsommer bis in den Spätherbst zwischen Moosen finden, egal, ob sich diese in Rasenflächen oder auf Totholz befinden. (Dieter Gewalt) [Mehr lesen >](/pilze/rickenella-fibula)
-
- <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calvatia_gigantea_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-21.07.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der von *Vera Engert* aus Finnland gemeldete Riesenbovist *Calvatia gigantea*. Da reicht ein einziger schon für ein üppiges Pilzgericht. Ein weiterer Vorteil: Wenn man auf die Größe und die glatte weiße Außenhaut achtet sind Verwechslungen so gut wie ausgeschlossen. Eines muss allerdings noch angemerkt werden: wenn sie von Kids entdeckt werden, bleiben sie nicht lange am Leben sondern werden als Fußbälle zweckentfremdet. (Dieter Gewalt) [Mehr lesen >](/pilze/calvatia-gigantea-riesenbovist)
 
 <div style="clear:  both"></div>
 
