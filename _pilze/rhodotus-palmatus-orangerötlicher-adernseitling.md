@@ -15,7 +15,7 @@ literatur:
   - text: "German J. Krieglsteiner (Hrsg): Die Großpilze Baden-Württembergs Band 3,
       Seite 508"
   - text: "Meinhard Moser: Die Röhrlinge und Blätterpilze, Seite 188"
-  - url: https://en.wikipedia.org/wiki/Rhodotus (englisch)
+  - url: https://en.wikipedia.org/wiki/Rhodotus
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/rhodotus_palmatus_01_cw.jpg" %}
