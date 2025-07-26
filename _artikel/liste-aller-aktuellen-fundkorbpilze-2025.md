@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-26.07.2025: [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)  
+27.07.2025: [Delicatula integrella - Weißer Adernabeling](/pilze/delicatula-integrella-weißer-adernabeling)  
+26.07.2025: [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)\
 25.07.2025: [Cyathus striatus - Gestreifter Teuerling](/pilze/cyathus-striatus-gestreifter-teuerling)\
 24.07.2025: [Melanoleuca verrucipes - Dunkelflockiger Weichritterling](/pilze/melanoleuca-verrucipes-dunkelflockiger-weichritterling)\
 23.07.2025: [Lepiota ventriosospora - Gelbflockiger Wollstielschirmling](/pilze/lepiota-ventriosospora-gelbflockiger-wollstielschirmling)\
