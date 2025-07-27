@@ -19,6 +19,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/geastrum_striatum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.07.2025: Erdsterne zu finden, ist für jeden Pilzfreund ein erfreuliches Ereignis. Leider sind sie nicht immer leicht zu identifizieren und in Deutschland gibt es etwa zwei Dutzend verschiedene Arten. Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist der Kragen-Erdstern *Geastrum striatum*, der bei mir im Stadtgebiet von Dietzenbach immer mal wieder gefunden wird. (Dieter Gewalt) Wie man ihn sicher erkennen kann, [erfahren Sie hier >](/pilze/geastrum-striatum-kragen-erdstern)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/delicatula_integrella_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
