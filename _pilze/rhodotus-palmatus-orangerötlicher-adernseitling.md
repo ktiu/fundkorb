@@ -38,6 +38,11 @@ Mit Seitlingen der Gattung *Pleurotus* wie dem [Austernseitling](/pilze/pleurotu
 
 leicht zu erkennen.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/rhodotus_palmatus_04_cw.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/rhodotus_palmatus_05_cw.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="20.10.2021 + 02.11.2022: NSG Mombacher Rheinufer (an Ulme, MTB 5915.3.2), junge Fruchtkörper" %}
+
 Die Hüte erreichen Durchmesser von 3 bis 8 cm. Die erhabene hellere Netzzeichnung kann mehr oder weniger deutlich ausgeprät sein. Die ähnlich wie die Hutoberfläche gefärbten Lamellen erreichen den Stiel kaum oder sind dort collarartig miteinander verbunden. Auch das Fleisch ist pinkfarben. Die helleren, unberingten, an der Basis meist verbogenen Stiele werden kaum länger als 3 – 4 cm und bis zu 0,8 cm dick. Sie sind jung seidig bereift, später kahl. Oft sind mehrere Fruchtkörper an der Stielbasis miteinander verwachsen. Der Geruch wird als unauffällig oder obstartig beschrieben, der Geschmack ± bitter. Passend zu den übrigen Farbcharakteristika ist auch die Sporenpulverfarbe rosa.
 
 Mikromerkmale:\
