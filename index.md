@@ -19,6 +19,14 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_ionochlora_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.07.2025: Seinem griechischen wissenschaftlichen Namen gemäß (*„ion“* = violett, *„chloros“* = grün) ist der heutige aktuelle Fundkorbpilz, der Papagei-Täubling *Russula ionochlora*, diesmal idealtypisch violettgrün gefärbt. Dabei kann der Pilz, der wie ein kleiner [Frauentäubling *Russula cyanoxantha*](/pilze/russula-cyanoxantha-frauentäubling) aussieht, wie dieser sehr variabel in seinen Farben sein, hat aber splitternde Lamellen. Er ist ein sehr guter Speisepilz. Neben dem leicht nussigen Geschmack gehört auch die feste Konsistenz nach dem Garen zu seinen großen Vorteilen. (Ulrike Wegner) [Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/geastrum_striatum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -57,12 +65,6 @@ Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeig
 24.07.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dunkelflockige Weichritterling *Melanoleuca verrucipes*, gemeldet von *Johann Rejek* aus der Umgebung von München. Er gehört zu den wenigen leicht kenntlichen Arten in der schwierigen und nicht sehr populären Pilzgattung *Melanoleuca*. Aufgrund seiner hellen im Zentrum gebuckelten Hüte und den weißlichen, dunkel beschuppten Stielen ist er nahezu unverwechselbar, aber nicht gerade häufig. (Dieter Gewalt) [Mehr lesen >](/pilze/melanoleuca-verrucipes-dunkelflockiger-weichritterling)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lepiota_ventriosospora_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.07.2025: Im Frankfurter Stadtwald gehört der Gelbflockige Wollstielschirmling *Lepiota ventriosospora* zu den häufigeren Pilzarten und ist daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Er ist vor allem an Wegrändern anzutreffen. Unter den Schirmlingen der Gattung *Lepiota* gibt es keine essbaren, aber zahlreiche zum Teil stark giftige Arten. Mit den essbaren Riesenschirmlingen der Gattung *Macrolepiota* sind sie nicht näher verwandt. (Dieter Gewalt) [Mehr lesen >](/pilze/lepiota-ventriosospora-gelbflockiger-wollstielschirmling)
 
 <div style="clear:  both"></div>
 
