@@ -12,7 +12,9 @@ footer_scripts:
 
 - - -
 
-Ein neuer Exkursionstermin **"Der Wald und seine Pilze im Juli"** wird bei geeigneten Wachstumsbedingungen hier angezeigt.
+Neuer Exkursionstermin:  
+**Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach** am Sonntag, 3. August 2025. 10:00 Uhr.  
+Hier geht's zur [Anmeldung >](/termine)
 
 <div style="clear:  both"></div>
 
