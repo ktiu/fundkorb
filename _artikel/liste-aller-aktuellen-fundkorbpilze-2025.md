@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-28.07.2025: [Geastrum striatum - Kragen-Erdstern](/pilze/geastrum-striatum-kragen-erdstern)  
+29.07.2025: [Russula ionochlora - Papagei-Täubling](/pilze/russula-ionochlora-papagei-täubling)  
+28.07.2025: [Geastrum striatum - Kragen-Erdstern](/pilze/geastrum-striatum-kragen-erdstern)\
 27.07.2025: [Delicatula integrella - Weißer Adernabeling](/pilze/delicatula-integrella-weißer-adernabeling)\
 26.07.2025: [Gymnopus fusipes - Spindeliger Rübling](/pilze/gymnopus-fusipes-spindeliger-rübling)\
 25.07.2025: [Cyathus striatus - Gestreifter Teuerling](/pilze/cyathus-striatus-gestreifter-teuerling)\
