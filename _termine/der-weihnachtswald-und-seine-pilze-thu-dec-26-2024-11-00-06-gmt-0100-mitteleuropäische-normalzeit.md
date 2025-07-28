@@ -1,21 +1,13 @@
 ---
-aktivitaet: Der Wald und seine Pilze im Juni
-zeit: 2025-06-22T10:00:06.912Z
+aktivitaet: Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach
+zeit: 2025-08-03T10:00:06.912Z
 bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
 published: true
 bilder:
-  - /bilder/wir_suchen_den_maipilz_01_dg.jpg
+  - /bilder/fgr.-foto-1_01_dg.jpg
 ---
-Ein Wald ist mehr als nur eine großflächige Ansammlung von Bäumen. Er ist ein funktionierendes System von Abhängigkeiten und Wechselwirkungen, in dem Pilze eine besondere Rolle spielen. Den Teilnehmern an dieser Exkursion wird dies vor Augen geführt, es werden aber auch die Gefahren aufgezeigt, die dieses Biotop bedrohen. Wir lernen eine nicht geringe Anzahl an Pilzarten kennen und Speisepilze dürfen natürlich auch gesammelt werden. Wer möchte, bringt Körbchen und Messer mit.
+Die recht ergiebigen Regenfälle der letzten Tage lassen nun auch im Rhein-Main-Gebiet Pilzarten wie Röhrlinge, Täublinge und Wulstlinge erwarten. Grund genug, wieder einen Exkursionstermin anzubieten. Wir lehnen es zwar grundsätzlich ab, reine Speisepilz-Sammeltouren durchzuführen, aber essbare und ungeschützte Arten dürfen im Rahmen der gesetzlichen Regelungen selbstverständlich mitgenommen werden. Wer möchte, bringt also Messer und Körbchen mit (bitte keine Plastiktüten!) und kann sicher sein, dass später nur kontrollierte unbedenkliche Arten in der Pfanne landen.
 
-Der Juni ist ein durchaus interessanter Monat für Pilzsammler. Bei geeigneten Bedingungen darf mit Pfifferlingen und Sommersteinpilzen gerechnet werden. Auch die ersten Täublinge sind zu erwarten.
-
-Die Teilnahmegebühr für die etwa dreistündige Wanderung beträgt 15 Euro. Begleitende Kinder sind natürlich kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Anmeldebestätigung mitgeteilt.
-
-Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich.
-
-- - -
-
-Es werden nahezu jeden Monat eine oder mehrere Exkursionen angeboten, Termine und Treffpunkte werden zeitnah auf www.fundkorb.de veröffentlicht.
+Die Teilnahmegebühr für die etwa dreistündige Wanderung beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Anmeldebestätigung mitgeteilt.
