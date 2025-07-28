@@ -28,7 +28,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/russula_ionochlora_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-29.07.2025: Seinem griechischen wissenschaftlichen Namen gemäß (*„ion“* = violett, *„chloros“* = grün) ist der heutige aktuelle Fundkorbpilz, der Papagei-Täubling *Russula ionochlora*, diesmal idealtypisch violettgrün gefärbt. Dabei kann der Pilz, der wie ein kleiner [Frauentäubling *Russula cyanoxantha*](/pilze/russula-cyanoxantha-frauentäubling) aussieht, wie dieser sehr variabel in seinen Farben sein, hat aber splitternde Lamellen. Er ist ein sehr guter Speisepilz. Neben dem leicht nussigen Geschmack gehört auch die feste Konsistenz nach dem Garen zu seinen großen Vorteilen. (Ulrike Wegner) [Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
+29.07.2025: Seinem griechischen wissenschaftlichen Namen gemäß (*„ion“* = violett, *„chloros“* = grün) ist der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), der Papagei-Täubling *Russula ionochlora*, diesmal idealtypisch violettgrün gefärbt. Dabei kann der Pilz, der wie ein kleiner [Frauentäubling *Russula cyanoxantha*](/pilze/russula-cyanoxantha-frauentäubling) aussieht, wie dieser sehr variabel in seinen Farben sein, hat aber splitternde Lamellen. Er ist ein sehr guter Speisepilz. Neben dem leicht nussigen Geschmack gehört auch die feste Konsistenz nach dem Garen zu seinen großen Vorteilen. (Ulrike Wegner) [Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
 
 <div style="clear:  both"></div>
 
@@ -44,7 +44,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/delicatula_integrella_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-27.07.2025: Aktueller Fundkorbpilz ist der Weiße Adernabeling *Delicatula integrella*. Er ist zwar winzig, aber mit seiner alabasterweißen Farbe durchaus auffällig und attraktiv. Man kann ihn vom Frühjahr bis in den Spätherbst an feuchtem oder im Boden verborgenem totem Holz finden, mitunter in enormen Mengen. Seine Lamellen sind zu flach erhabenen Äderchen reduziert. *Johann Rejek* hat ihn kürzlich auf einem halb vergrabenen Fichtenzapfen in einem Hochmoorwald bei Tuntenhausen gefunden. (Dieter Gewalt) [Mehr lesen >](/pilze/delicatula-integrella-weißer-adernabeling)
+27.07.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weiße Adernabeling *Delicatula integrella*. Er ist zwar winzig, aber mit seiner alabasterweißen Farbe durchaus auffällig und attraktiv. Man kann ihn vom Frühjahr bis in den Spätherbst an feuchtem oder im Boden verborgenem totem Holz finden, mitunter in enormen Mengen. Seine Lamellen sind zu flach erhabenen Äderchen reduziert. *Johann Rejek* hat ihn kürzlich auf einem halb vergrabenen Fichtenzapfen in einem Hochmoorwald bei Tuntenhausen gefunden. (Dieter Gewalt) [Mehr lesen >](/pilze/delicatula-integrella-weißer-adernabeling)
 
 <div style="clear:  both"></div>
 
