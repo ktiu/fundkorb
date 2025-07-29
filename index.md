@@ -25,6 +25,14 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_scorodonius_-02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.07.2025: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-") kann man zum Würzen (insbesondere als Knoblauch-Ersatz) verwenden. Man muss die kleinen 0,5 bis 2,5 cm großen Knoblauch-Schwindlinge (*Marasmius scorodonius*) nur finden und erkennen. Es gibt drei nach Knoblauch riechende Schwindlinge, aber nur einen „echten“ für die Küche geeigneten und der schmeckt mild, die beiden anderen (eher unbekömmlichen oder giftverdächtigen) aber scharf. *Johann Rejek* hat die „echten“ in der Nähe von Tuntenhausen gefunden. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_ionochlora_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
