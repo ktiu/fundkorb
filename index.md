@@ -28,7 +28,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/creolophus_cirrhatus_04_mi.jpg" %}
 {% include abbildung_ende.html %}
 
-31.07.2025: Nach den ergiebigen Regenfällen wollte ich bei Dietzenbach nachschauen, was das Pilzwachstum so macht. Gehofft habe ich auf Frauentäublinge, aber keinen einzigen gefunden. An einem mächtigen Buchenstamm entdeckte ich schließlich als persönlichen Erstfund einen Dornigen Stachelbart (*Hericium cirrhatu*m) und melde ihn als aktuellen [Fundkorbpilz](AA "Glossar-"). Da ich wusste, dass alle Stachelbärten selten und geschützt sind, durfte der schöne Fund natürlich im Wald bleiben. Gefreut hat es mich trotzdem sehr. (Tanja Folbert) [Mehr lesen >](/pilze/hericium-cirrhatum-dorniger-stachelbart)
+31.07.2025: Nach den ergiebigen Regenfällen wollte ich bei Dietzenbach nachschauen, was das Pilzwachstum so macht. Gehofft habe ich auf Frauentäublinge, aber keinen einzigen gefunden. An einem mächtigen Buchenstamm entdeckte ich schließlich als persönlichen Erstfund einen Dornigen Stachelbart (*Hericium cirrhatu*m) und melde ihn als aktuellen [Fundkorbpilz](AA "Glossar-"). Da ich wusste, dass alle Stachelbärte selten und geschützt sind, durfte der schöne Fund natürlich im Wald bleiben. Gefreut hat es mich trotzdem sehr. (Tanja Folbert) [Mehr lesen >](/pilze/hericium-cirrhatum-dorniger-stachelbart)
 
 <div style="clear:  both"></div>
 
