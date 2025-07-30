@@ -25,6 +25,14 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/creolophus_cirrhatus_04_mi.jpg" %}
+{% include abbildung_ende.html %}
+
+31.07.2025: Nach den ergiebigen Regenfällen wollte ich bei Dietzenbach nachschauen, was das Pilzwachstum so macht. Gehofft habe ich auf Frauentäublinge, aber keinen einzigen gefunden. An einem mächtigen Buchenstamm entdeckte ich schließlich als persönlichen Erstfund einen Dornigen Stachelbart (*Hericium cirrhatu*m) und melde ihn als aktuellen [Fundkorbpilz](AA "Glossar-"). Da ich wusste, dass alle Stachelbärten selten und geschützt sind, durfte der schöne Fund natürlich im Wald bleiben. Gefreut hat es mich trotzdem sehr. (Tanja Folbert) [Mehr lesen >](/pilze/hericium-cirrhatum-dorniger-stachelbart)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_scorodonius_-02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,24 +69,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 26.07.2025: Essbar heißt nicht immer lecker. Das gilt auch für unseren heutigen [Fundkorbpilz](AA "Glossar-"), den Spindeligen Rübling *Gymnopus fusipes*. Er wächst meist dichtbüschelig am Grund von lebenden Eichen oder Eichenstubben. Seine stark knorpeligen verdrehten, längsrilligen und spindelförmigen Stiele, die zur Basis hin rostbraun gefärbt sind, lassen ihn leicht erkennen. Rostfarbige Flecken finden sich oft auch auf der Huthaut. (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopus-fusipes-spindeliger-rübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cyathus_striatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.07.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gestreifte Teuerling *Cyathus striatus*. Seine Fruchtkörper sehen aus wie struppige Tütchen, die anfangs mit einem hellen Häutchen verschlossen sind, das bald aufreißt und den Blick ins Innere freigibt. Darin liegen winzige münzenförmige Gebilde, in denen der Pilz, der gar nicht wie ein Pilz aussieht, seine Sporen bildet. Sollten die Tütchen leer sein, handelt es sich um alte Fruchtkörper aus dem vergangenen Jahr, die den Winter unbeschadet überstanden haben. (Dieter Gewalt) [Mehr lesen >](/pilze/cyathus-striatus-gestreifter-teuerling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/melanoleuca_verrucipes_01_jh.jpg" %}
-{% include abbildung_ende.html %}
-
-24.07.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dunkelflockige Weichritterling *Melanoleuca verrucipes*, gemeldet von *Johann Rejek* aus der Umgebung von München. Er gehört zu den wenigen leicht kenntlichen Arten in der schwierigen und nicht sehr populären Pilzgattung *Melanoleuca*. Aufgrund seiner hellen im Zentrum gebuckelten Hüte und den weißlichen, dunkel beschuppten Stielen ist er nahezu unverwechselbar, aber nicht gerade häufig. (Dieter Gewalt) [Mehr lesen >](/pilze/melanoleuca-verrucipes-dunkelflockiger-weichritterling)
-
-<div style="clear:  both"></div>
 
 <div style="clear:  both"></div>
 
