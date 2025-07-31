@@ -25,6 +25,14 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_campestris_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+01.08.2025: Unter den Champignons, die in unserer Dietzenbacher Parkanlage vorkommen, befindet sich natürlich auch der Wiesenchampignon *Agaricus campestris*, unser heutiger [Fundkorbpilz](AA "Glossar-"). Er gehört zu den <ins>nicht</ins> gilbenden Arten, die <ins>nicht</ins> nach Anis riechen und außerhalb von Wäldern wachsen. Eine Verwechslung mit dem an gleichen Standorten vorkommenden [Karbolchampignon *Agaricus xanthoderma*](/pilze/agaricus-xanthoderma-karbolchampignon) wird mit heftigem Durchfall bestraft. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-campestris-wiesenchampignon)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/creolophus_cirrhatus_04_mi.jpg" %}
 {% include abbildung_ende.html %}
 
