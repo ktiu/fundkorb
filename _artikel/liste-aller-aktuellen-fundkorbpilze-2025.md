@@ -3,7 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-31.07.2025: [Hericium cirrhatum - Dorniger Stachelbart](/pilze/hericium-cirrhatum-dorniger-stachelbart)  
+01.08.2025: [Agarius campestris - Wiesenchampignon](/pilze/agaricus-campestris-wiesenchampignon)
+
+31.07.2025: [Hericium cirrhatum - Dorniger Stachelbart](/pilze/hericium-cirrhatum-dorniger-stachelbart)\
 30.07.2025: [Marasmius scorodonius - Echter Knoblauchschwindling](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling)\
 29.07.2025: [Russula ionochlora - Papagei-Täubling](/pilze/russula-ionochlora-papagei-täubling)\
 28.07.2025: [Geastrum striatum - Kragen-Erdstern](/pilze/geastrum-striatum-kragen-erdstern)\
