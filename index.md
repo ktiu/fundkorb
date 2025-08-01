@@ -17,10 +17,13 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 Neuer Exkursionstermin:\
-**Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach** am Sonntag, 3. August 2025. 10:00 Uhr.\
+**Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach** am Sonntag, 3. August 2025, 10:00 Uhr.\
 Hier geht's zur [Anmeldung >](/termine)
 
 <div style="clear:  both"></div>
+
+**Der Wald und seine Pilze** am Sonntag, 10. August 2025, 10:00 Uhr  
+Hier geht's zur [Anmeldung >](/termine)
 
 - - -
 
