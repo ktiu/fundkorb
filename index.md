@@ -22,10 +22,18 @@ Hier geht's zur [Anmeldung >](/termine)
 
 <div style="clear:  both"></div>
 
-**Der Wald und seine Pilze** am Sonntag, 10. August 2025, 10:00 Uhr  
+**Der Wald und seine Pilze** am Sonntag, 10. August 2025, 10:00 Uhr\
 Hier geht's zur [Anmeldung >](/termine)
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gymnopus_luxurians_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.08.2025: Zwei Jahre lang hat er sich in Dietzenbach nicht blicken lassen. Jetzt ist er wieder da, der Üppige Rübling *Gymnopus luxurians*, und darum auch unser aktueller [Fundkorbpilz](AA "Glossar-"). Nicht wie gewohnt in üppigen sondern eher in kleinen Büscheln in einer Zierstrauchrabatte unter Sträuchern und Zierpflanzen verborgen. Sie wurden nur durch Zufall entdeckt. Die Art stammt aus Nordamerika, hat es 1989 über den großen Teich geschafft und ist 1997 erstmals in Deutschland gesichtet worden (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopus-luxurians-üppiger-rübling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_campestris_02_nk.jpg" %}
@@ -72,14 +80,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 27.07.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weiße Adernabeling *Delicatula integrella*. Er ist zwar winzig, aber mit seiner alabasterweißen Farbe durchaus auffällig und attraktiv. Man kann ihn vom Frühjahr bis in den Spätherbst an feuchtem oder im Boden verborgenem totem Holz finden, mitunter in enormen Mengen. Seine Lamellen sind zu flach erhabenen Äderchen reduziert. *Johann Rejek* hat ihn kürzlich auf einem halb vergrabenen Fichtenzapfen in einem Hochmoorwald bei Tuntenhausen gefunden. (Dieter Gewalt) [Mehr lesen >](/pilze/delicatula-integrella-weißer-adernabeling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_fusipes_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.07.2025: Essbar heißt nicht immer lecker. Das gilt auch für unseren heutigen [Fundkorbpilz](AA "Glossar-"), den Spindeligen Rübling *Gymnopus fusipes*. Er wächst meist dichtbüschelig am Grund von lebenden Eichen oder Eichenstubben. Seine stark knorpeligen verdrehten, längsrilligen und spindelförmigen Stiele, die zur Basis hin rostbraun gefärbt sind, lassen ihn leicht erkennen. Rostfarbige Flecken finden sich oft auch auf der Huthaut. (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopus-fusipes-spindeliger-rübling)
 
 <div style="clear:  both"></div>
 
