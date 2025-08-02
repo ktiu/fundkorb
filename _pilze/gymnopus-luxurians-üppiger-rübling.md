@@ -5,6 +5,7 @@ beschreibung:
   referenz: "(Peck) Murrill 1916 "
   familie: Omphalotaceae
   erlaeuterung: luxurians = üppig wachsend
+  synonym: "Neuer Name: Collybiopsis luxurians"
 profil:
   aktualisiert: 2020-08-04
   autor_in: Dieter Gewalt
