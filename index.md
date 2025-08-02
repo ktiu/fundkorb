@@ -18,7 +18,7 @@ footer_scripts:
 
 Neuer Exkursionstermin:\
 **Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach** am Sonntag, 3. August 2025, 10:00 Uhr.\
-Hier geht's zur [Anmeldung >](/termine)
+**Dieser Termin ist ausgebucht**
 
 <div style="clear:  both"></div>
 
