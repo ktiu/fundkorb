@@ -28,6 +28,14 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bovista_plumbea_01_mh.jpg" %}
+{% include abbildung_ende.html %}
+
+03.08.2025: Fast das ganze Jahr über ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Bleigraue Zwerg-Bovist *Bovista plumbea* zu finden, und seien es auch nur überständige Exemplare aus den Vormonaten, die auf Druck oder Drauftreten immer noch stäuben. Bei frisch gewachsenen Exemplaren platzt die weiße Außenhaut auf Druck eierschalenartig auf, weshalb unser Pilz auch Eierbovist genannt wird. Darunter erscheint eine zweite bleigraue Haut, die das sporenbildene Innere (die *[Gleba](Gleba "Glossar")*) umhüllt. ( (Dieter Gewalt) [Mehr lesen >](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gymnopus_luxurians_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,22 +72,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 29.07.2025: Seinem griechischen wissenschaftlichen Namen gemäß (*„ion“* = violett, *„chloros“* = grün) ist der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), der Papagei-Täubling *Russula ionochlora*, diesmal idealtypisch violettgrün gefärbt. Dabei kann der Pilz, der wie ein kleiner [Frauentäubling *Russula cyanoxantha*](/pilze/russula-cyanoxantha-frauentäubling) aussieht, wie dieser sehr variabel in seinen Farben sein, hat aber splitternde Lamellen. Er ist ein sehr guter Speisepilz. Neben dem leicht nussigen Geschmack gehört auch die feste Konsistenz nach dem Garen zu seinen großen Vorteilen. (Ulrike Wegner) [Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/geastrum_striatum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.07.2025: Erdsterne zu finden, ist für jeden Pilzfreund ein erfreuliches Ereignis. Leider sind sie nicht immer leicht zu identifizieren und in Deutschland gibt es etwa zwei Dutzend verschiedene Arten. Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist der Kragen-Erdstern *Geastrum striatum*, der bei mir im Stadtgebiet von Dietzenbach immer mal wieder gefunden wird. (Dieter Gewalt) Wie man ihn sicher erkennen kann, [erfahren Sie hier >](/pilze/geastrum-striatum-kragen-erdstern)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/delicatula_integrella_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.07.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weiße Adernabeling *Delicatula integrella*. Er ist zwar winzig, aber mit seiner alabasterweißen Farbe durchaus auffällig und attraktiv. Man kann ihn vom Frühjahr bis in den Spätherbst an feuchtem oder im Boden verborgenem totem Holz finden, mitunter in enormen Mengen. Seine Lamellen sind zu flach erhabenen Äderchen reduziert. *Johann Rejek* hat ihn kürzlich auf einem halb vergrabenen Fichtenzapfen in einem Hochmoorwald bei Tuntenhausen gefunden. (Dieter Gewalt) [Mehr lesen >](/pilze/delicatula-integrella-weißer-adernabeling)
 
 <div style="clear:  both"></div>
 
