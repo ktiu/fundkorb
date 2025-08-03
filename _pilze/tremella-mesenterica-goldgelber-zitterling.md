@@ -27,3 +27,5 @@ Man findet den Goldgelben Zitterling einzeln oder zu mehreren an toten LaubholzÃ
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tremella_mesenterica_03_nk.jpg" %}
 {% include abbildung_ende.html %}
+
+Eine transparente farblose Form des Goldgelben Zitterlings ist als Tremella mesenterica forma ctystalina (Kristallzitterling) bekannt.
