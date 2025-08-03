@@ -16,16 +16,14 @@ footer_scripts:
 {% include bild.html datei="/bilder/fgr.-foto-1_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Neuer Exkursionstermin:\
-**Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach** am Sonntag, 3. August 2025, 10:00 Uhr.\
-**Dieser Termin ist ausgebucht**
-
 <div style="clear:  both"></div>
 
 **Der Wald und seine Pilze** am Sonntag, 10. August 2025, 10:00 Uhr\
 Hier geht's zur [Anmeldung >](/termine)
 
 - - -
+
+04.08.2025: Der Park „Unter den Eichen“ in Wiesbaden ist weit über die Region hinaus bekannt für interessante Pilzvorkommen. Dazu gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Satansröhrling Boletus satanas, jetzt Rubroboletus, Pilz des Jahres 1999. Er ist hierzulande der wohl einzige wirkliche Giftpilz unter den Röhrlingen, hat aber noch niemanden umgebracht. Gemeldet hat ihn Christian Weinkötz. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bovista_plumbea_01_mh.jpg" %}
