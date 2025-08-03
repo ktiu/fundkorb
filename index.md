@@ -23,7 +23,13 @@ Hier geht's zur [Anmeldung >](/termine)
 
 - - -
 
-04.08.2025: Der Park „Unter den Eichen“ in Wiesbaden ist weit über die Region hinaus bekannt für interessante Pilzvorkommen. Dazu gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Satansröhrling Boletus satanas, jetzt Rubroboletus, Pilz des Jahres 1999. Er ist hierzulande der wohl einzige wirkliche Giftpilz unter den Röhrlingen, hat aber noch niemanden umgebracht. Gemeldet hat ihn Christian Weinkötz. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_satanas_03_bh.jpg" %}
+{% include abbildung_ende.html %}
+
+04.08.2025: Der Park *„Unter den Eichen“* in Wiesbaden ist weit über die Region hinaus bekannt für interessante Pilzvorkommen. Dazu gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Satansröhrling *Boletus satanas*, jetzt *Rubroboletus*, [Pilz des Jahres 1999](https://www.dgfm-ev.de/pilz-des-jahres/1999-satansroehrling). Er ist hierzulande der wohl einzige wirkliche Giftpilz unter den Röhrlingen, hat aber noch niemanden umgebracht. Gemeldet hat ihn *Christian Weinkötz*, das Foto aus dem Hessischen Ried ist von *Michael Hornung*. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bovista_plumbea_01_mh.jpg" %}
