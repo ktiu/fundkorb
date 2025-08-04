@@ -27,7 +27,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/phylloporus_pelletieri_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-05.08.2025: Highlight unserer Pilzwanderung am Sonntag war das Goldblatt *Phylloporus pelletieri*. Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") für einen der braunhütigen Filzröhrlinge halten. Für Klarheit sorgt die Hutunterseite mit ihrem goldgelben [Hymenium](<Hymenium "Glossar">). Trotz dessen lamellenartiger Struktur handelt sich nicht um einen Blätterpilz sondern um einen Röhrling der Familie *Boletaceae*. Das Goldblatt ist essbar, sollte aber geschont werden. (Dieter Gewalt) [Mehr lesen >](/pilze/phylloporus-pelletieri-goldblatt)
+05.08.2025: Highlight unserer Pilzwanderung am Sonntag war das Goldblatt *Phylloporus pelletieri*. Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") für einen der braunhütigen Filzröhrlinge halten. Für Klarheit sorgt die Hutunterseite mit ihrem goldgelben [Hymenium](Hymenium "Glossar"). Trotz dessen lamellenartiger Struktur handelt sich nicht um einen Blätterpilz sondern um einen Röhrling der Familie *Boletaceae*. Das Goldblatt ist essbar, sollte aber geschont werden. (Dieter Gewalt) [Mehr lesen >](/pilze/phylloporus-pelletieri-goldblatt)
 
 <div style="clear:  both"></div>
 
