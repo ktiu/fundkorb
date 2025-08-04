@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-04.08.2025: [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)  
+05.08.2025: [Phylloporus pelletieri - Goldblatt](/pilze/phylloporus-pelletieri-goldblatt)  
+04.08.2025: [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)\
 03.08.2025: [Bovista plumbea - Bleigrauer Zwergbovist](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)\
 02.08.2025: [Gymnopus luxurians - Üppiger Rübling](/pilze/gymnopus-luxurians-üppiger-rübling)\
 01.08.2025: [Agarius campestris - Wiesenchampignon](/pilze/agaricus-campestris-wiesenchampignon)
