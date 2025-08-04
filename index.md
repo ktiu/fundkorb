@@ -24,6 +24,14 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phylloporus_pelletieri_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.08.2025: Highlight unserer Pilzwanderung am Sonntag war das Goldblatt *Phylloporus pelletieri*. Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") für einen der braunhütigen Filzröhrlinge halten. Für Klarheit sorgt die Hutunterseite mit ihrem goldgelben [Hymenium](<Hymenium "Glossar">). Trotz dessen lamellenartiger Struktur handelt sich nicht um einen Blätterpilz sondern um einen Röhrling der Familie *Boletaceae*. Das Goldblatt ist essbar, sollte aber geschont werden. (Dieter Gewalt) [Mehr lesen >](/pilze/phylloporus-pelletieri-goldblatt)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_satanas_03_bh.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -70,14 +78,6 @@ Hier geht's zur [Anmeldung >](/termine)
 30.07.2025: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-") kann man zum Würzen (insbesondere als Knoblauch-Ersatz) verwenden. Man muss die kleinen 0,5 bis 2,5 cm großen Knoblauch-Schwindlinge (*Marasmius scorodonius*) nur finden und erkennen. Es gibt drei nach Knoblauch riechende Schwindlinge, aber nur einen „echten“ für die Küche geeigneten und der schmeckt mild, die beiden anderen (eher unbekömmlichen oder giftverdächtigen) aber scharf. *Johann Rejek* hat die „echten“ in der Nähe von Tuntenhausen gefunden. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling)
 
 <div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_ionochlora_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.07.2025: Seinem griechischen wissenschaftlichen Namen gemäß (*„ion“* = violett, *„chloros“* = grün) ist der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), der Papagei-Täubling *Russula ionochlora*, diesmal idealtypisch violettgrün gefärbt. Dabei kann der Pilz, der wie ein kleiner [Frauentäubling *Russula cyanoxantha*](/pilze/russula-cyanoxantha-frauentäubling) aussieht, wie dieser sehr variabel in seinen Farben sein, hat aber splitternde Lamellen. Er ist ein sehr guter Speisepilz. Neben dem leicht nussigen Geschmack gehört auch die feste Konsistenz nach dem Garen zu seinen großen Vorteilen. (Ulrike Wegner) [Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
-
-<div style="clear:  both"></div>
 
 - - -
 
