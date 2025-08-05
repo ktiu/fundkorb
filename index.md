@@ -24,6 +24,14 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gyroporus_cyanescens_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+06.08.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den seltenen Kornblumenröhrling *Gyroporus cyanescens*, haben wir bei unserer letzten pilzkundlichen Führung in der Rhein-Main-Ebene gefunden. Er war leider bereits von Schimmel und Madenfraß befallen. Normalerweise ist er an seinem gekammert hohlen Stiel und der kornblumenblauen Verfärbung im angeschnittenen sehr festen Fleisch leicht zu erkennen. Im Geschmack ist er fein nussartig, in seiner Speisepilzqualität dem Steinpilz mindestens ebenbürtig. Als Rote-Liste-Art sollte er jedoch geschont werden. (Dieter Gewalt) [Mehr lesen >](/pilze/gyroporus-cyanescens-kornblumenröhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phylloporus_pelletieri_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -70,14 +78,6 @@ Hier geht's zur [Anmeldung >](/termine)
 31.07.2025: Nach den ergiebigen Regenfällen wollte ich bei Dietzenbach nachschauen, was das Pilzwachstum so macht. Gehofft habe ich auf Frauentäublinge, aber keinen einzigen gefunden. An einem mächtigen Buchenstamm entdeckte ich schließlich als persönlichen Erstfund einen Dornigen Stachelbart (*Hericium cirrhatu*m) und melde ihn als aktuellen [Fundkorbpilz](AA "Glossar-"). Da ich wusste, dass alle Stachelbärte selten und geschützt sind, durfte der schöne Fund natürlich im Wald bleiben. Gefreut hat es mich trotzdem sehr. (Tanja Folbert) [Mehr lesen >](/pilze/hericium-cirrhatum-dorniger-stachelbart)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_scorodonius_-02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.07.2025: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-") kann man zum Würzen (insbesondere als Knoblauch-Ersatz) verwenden. Man muss die kleinen 0,5 bis 2,5 cm großen Knoblauch-Schwindlinge (*Marasmius scorodonius*) nur finden und erkennen. Es gibt drei nach Knoblauch riechende Schwindlinge, aber nur einen „echten“ für die Küche geeigneten und der schmeckt mild, die beiden anderen (eher unbekömmlichen oder giftverdächtigen) aber scharf. *Johann Rejek* hat die „echten“ in der Nähe von Tuntenhausen gefunden. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling)
-
-<div style="clear:  both"></div> 
 
 - - -
 
