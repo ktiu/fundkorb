@@ -27,7 +27,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/gyroporus_cyanescens_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
-06.08.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den seltenen Kornblumenröhrling *Gyroporus cyanescens*, haben wir bei unserer letzten pilzkundlichen Führung in der Rhein-Main-Ebene gefunden. Er war leider bereits von Schimmel und Madenfraß befallen. Normalerweise ist er an seinem gekammert hohlen Stiel und der kornblumenblauen Verfärbung im angeschnittenen sehr festen Fleisch leicht zu erkennen. Im Geschmack ist er fein nussartig, in seiner Speisepilzqualität dem Steinpilz mindestens ebenbürtig. Als Rote-Liste-Art sollte er jedoch geschont werden. (Dieter Gewalt) [Mehr lesen >](/pilze/gyroporus-cyanescens-kornblumenröhrling)
+06.08.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den seltenen Kornblumenröhrling *Gyroporus cyanescens*, haben wir bei unserer letzten pilzkundlichen Führung in der Rhein-Main-Ebene gefunden. Er war leider bereits von Schimmel und Madenfraß befallen. Normalerweise ist er an seinem gekammert hohlen Stiel und der kornblumenblauen Verfärbung im angeschnittenen sehr festen Fleisch leicht zu erkennen (siehe Foto). Im Geschmack ist er fein nussartig, in seiner Speisepilzqualität dem Steinpilz mindestens ebenbürtig. Als Rote-Liste-Art sollte er jedoch geschont werden. (Dieter Gewalt) [Mehr lesen >](/pilze/gyroporus-cyanescens-kornblumenröhrling)
 
 <div style="clear:  both"></div>
 
