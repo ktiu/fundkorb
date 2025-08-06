@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-06.08.2025: [Gyroporus cyanescens - Kornblumenröhrling](/pilze/gyroporus-cyanescens-kornblumenröhrling)  
+07.08.2025: [Xerocomus rubellus - Blutroter Filzröhrling](/pilze/xerocomus-rubellus-blutroter-filzröhrling)  
+06.08.2025: [Gyroporus cyanescens - Kornblumenröhrling](/pilze/gyroporus-cyanescens-kornblumenröhrling)\
 05.08.2025: [Phylloporus pelletieri - Goldblatt](/pilze/phylloporus-pelletieri-goldblatt)\
 04.08.2025: [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)\
 03.08.2025: [Bovista plumbea - Bleigrauer Zwergbovist](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)\
