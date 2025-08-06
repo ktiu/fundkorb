@@ -24,6 +24,14 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_rubellus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.08.2025: Zu den zahlreichen Röhrlingsarten, die zur Zeit in den Dietzenbacher Wäldern zu finden sind, gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blutrote Filzröhrling *Xerocomus rubellus*. Nicht nur der rote Hut macht den Unterschied zum [Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling). Auch das Rot am Stiel ist eher fein punktiert als längsstreifig. Mit der Beifügung „eher“ kommt aber schon zum Ausdruck, dass bei Pilzen viele Merkmale fließend und innerhalb der oft enormen Variabilität nur schwer abgrenzbar sein können. (Dieter Gewalt) [Mehr lesen >](/pilze/xerocomus-rubellus-blutroter-filzröhrling)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gyroporus_cyanescens_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -60,22 +68,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 02.08.2025: Zwei Jahre lang hat er sich in Dietzenbach nicht blicken lassen. Jetzt ist er wieder da, der Üppige Rübling *Gymnopus luxurians*, und darum auch unser aktueller [Fundkorbpilz](AA "Glossar-"). Nicht wie gewohnt in üppigen sondern eher in kleinen Büscheln in einer Zierstrauchrabatte unter Sträuchern und Zierpflanzen verborgen. Sie wurden nur durch Zufall entdeckt. Die Art stammt aus Nordamerika, hat es 1989 über den großen Teich geschafft und ist 1997 erstmals in Deutschland gesichtet worden (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopus-luxurians-üppiger-rübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_campestris_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-01.08.2025: Unter den Champignons, die in unserer Dietzenbacher Parkanlage vorkommen, befindet sich natürlich auch der Wiesenchampignon *Agaricus campestris*, unser heutiger [Fundkorbpilz](AA "Glossar-"). Er gehört zu den <ins>nicht</ins> gilbenden Arten, die <ins>nicht</ins> nach Anis riechen und außerhalb von Wäldern wachsen. Eine Verwechslung mit dem an gleichen Standorten vorkommenden [Karbolchampignon *Agaricus xanthoderma*](/pilze/agaricus-xanthoderma-karbolchampignon) wird mit heftigem Durchfall bestraft. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-campestris-wiesenchampignon)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/creolophus_cirrhatus_04_mi.jpg" %}
-{% include abbildung_ende.html %}
-
-31.07.2025: Nach den ergiebigen Regenfällen wollte ich bei Dietzenbach nachschauen, was das Pilzwachstum so macht. Gehofft habe ich auf Frauentäublinge, aber keinen einzigen gefunden. An einem mächtigen Buchenstamm entdeckte ich schließlich als persönlichen Erstfund einen Dornigen Stachelbart (*Hericium cirrhatu*m) und melde ihn als aktuellen [Fundkorbpilz](AA "Glossar-"). Da ich wusste, dass alle Stachelbärte selten und geschützt sind, durfte der schöne Fund natürlich im Wald bleiben. Gefreut hat es mich trotzdem sehr. (Tanja Folbert) [Mehr lesen >](/pilze/hericium-cirrhatum-dorniger-stachelbart)
 
 <div style="clear:  both"></div>
 
