@@ -24,6 +24,14 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_alveolaris_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wabenporling *Polyporus alveolaris*, ein hinreißend schöner Pilz. An seinen wie Bienenwaben geformten, bis 5 mm großen ganzrandigen Poren, die über die gesamte Stiellänge herablaufen, ist er meist auf den ersten Blick zu erkennen. Er besiedelt ausschließlich totes Laubholz und ist in Mitteleuropa ganz überwiegend an Eiche zu finden. Als wärmeliebende Art profitiert er von der gegenwärtigen Klimaerwärmung. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-alveolaris-wabenporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_rubellus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
