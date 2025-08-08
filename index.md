@@ -24,6 +24,14 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_rosea_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.08.2025: Die meisten Täublinge, die mild und nussig schmecken, sind ausgezeichnete Speisepilze, auf keinen Fall aber giftig. Ebenfalls nussig und mild ist das Fleisch des Harten Zinnobertäublings *Russula rosea*. Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-")  verspricht also nach allen Täublingsregeln ein leckeres Pilzgericht, doch leider wäre er zubereitet eine im wahrsten Sinne des Wortes bittere Enttäuschung. Anfänger könnten ihn leicht für einen Speisetäubling halten, seine auffallend harte Konsistenz macht ihn jedoch unverwechselbar. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-rosea-harter-zinnobertäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_alveolaris_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -60,22 +68,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 04.08.2025: Der Park *„Unter den Eichen“* in Wiesbaden ist weit über die Region hinaus bekannt für interessante Pilzvorkommen. Dazu gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Satansröhrling *Boletus satanas*, jetzt *Rubroboletus*, [Pilz des Jahres 1999](https://www.dgfm-ev.de/pilz-des-jahres/1999-satansroehrling). Er ist hierzulande der wohl einzige wirkliche Giftpilz unter den Röhrlingen, hat aber noch niemanden umgebracht. Gemeldet hat ihn *Christian Weinkötz*, das Foto aus dem Hessischen Ried ist von *Michael Hornung*. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bovista_plumbea_01_mh.jpg" %}
-{% include abbildung_ende.html %}
-
-03.08.2025: Fast das ganze Jahr über ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Bleigraue Zwerg-Bovist *Bovista plumbea* zu finden, und seien es auch nur überständige Exemplare aus den Vormonaten, die auf Druck oder Drauftreten immer noch stäuben. Bei frisch gewachsenen Exemplaren platzt die weiße Außenhaut auf Druck eierschalenartig auf, weshalb unser Pilz auch Eierbovist genannt wird. Darunter erscheint eine zweite bleigraue Haut, die das sporenbildene Innere (die *[Gleba](Gleba "Glossar")*) umhüllt. ( (Dieter Gewalt) [Mehr lesen >](/pilze/bovista-plumbea-bleigrauer-zwerg-bovist)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_luxurians_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.08.2025: Zwei Jahre lang hat er sich in Dietzenbach nicht blicken lassen. Jetzt ist er wieder da, der Üppige Rübling *Gymnopus luxurians*, und darum auch unser aktueller [Fundkorbpilz](AA "Glossar-"). Nicht wie gewohnt in üppigen sondern eher in kleinen Büscheln in einer Zierstrauchrabatte unter Sträuchern und Zierpflanzen verborgen. Sie wurden nur durch Zufall entdeckt. Die Art stammt aus Nordamerika, hat es 1989 über den großen Teich geschafft und ist 1997 erstmals in Deutschland gesichtet worden (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopus-luxurians-üppiger-rübling)
 
 <div style="clear:  both"></div>
 
