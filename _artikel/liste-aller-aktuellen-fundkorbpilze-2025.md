@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-08.08.2025: [Polyporus alveolaris - Wabenporling](/pilze/polyporus-alveolaris-wabenporling)  
+09.08.2025: [Russula rosea - Harter Zinnobertäubling](/pilze/russula-rosea-harter-zinnobertäubling)  
+08.08.2025: [Polyporus alveolaris - Wabenporling](/pilze/polyporus-alveolaris-wabenporling)\
 07.08.2025: [Xerocomus rubellus - Blutroter Filzröhrling](/pilze/xerocomus-rubellus-blutroter-filzröhrling)\
 06.08.2025: [Gyroporus cyanescens - Kornblumenröhrling](/pilze/gyroporus-cyanescens-kornblumenröhrling)\
 05.08.2025: [Phylloporus pelletieri - Goldblatt](/pilze/phylloporus-pelletieri-goldblatt)\
