@@ -27,7 +27,7 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include bild.html datei="/bilder/russula_rosea_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-09.08.2025: Die meisten Täublinge, die mild und nussig schmecken, sind ausgezeichnete Speisepilze, auf keinen Fall aber giftig. Ebenfalls nussig und mild ist das Fleisch des Harten Zinnobertäublings *Russula rosea*. Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") verspricht also nach allen Täublingsregeln ein leckeres Pilzgericht, doch leider wäre er zubereitet eine im wahrsten Sinne des Wortes bittere Enttäuschung. Anfänger könnten ihn leicht für einen [Speisetäubling](/pilze/russula-vesca-speisetäubling) halten, seine auffallend harte Konsistenz macht ihn jedoch unverwechselbar. Außerdem ist seine Huthaut nicht abziehbar.(Dieter Gewalt) [Mehr lesen >](/pilze/russula-rosea-harter-zinnobertäubling)
+09.08.2025: Die meisten Täublinge, die mild und nussig schmecken, sind ausgezeichnete Speisepilze, auf keinen Fall aber giftig. Ebenfalls nussig und mild ist das Fleisch des Harten Zinnobertäublings *Russula rosea*. Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") verspricht also nach allen Täublingsregeln ein leckeres Pilzgericht, doch leider wäre er zubereitet eine im wahrsten Sinne des Wortes bittere Enttäuschung. Anfänger könnten ihn leicht für einen [Speisetäubling](/pilze/russula-vesca-speisetäubling) halten, seine auffallend harte Konsistenz macht ihn jedoch unverwechselbar. Außerdem ist seine Huthaut nicht abziehbar. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-rosea-harter-zinnobertäubling)
 
 <div style="clear:  both"></div>
 
