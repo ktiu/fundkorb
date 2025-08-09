@@ -28,7 +28,9 @@ footer_scripts:
 {% include bild.html datei="/bilder/clathrus_archeri_09_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-10.08.2025: Geradezu massenhaft (aber leicht zu übersehen) wachsen zur Zeit die Tintenfischpilze *Clathrus archeri*. Besonders entlang der Waldwege ist unser aktueller [Fundkorbpilz](AA "Glossar-") nahezu allgegenwärtig, überwiegend in seinem Hexeneistadium. Stinken tut er erst, wenn die schwarzfleckigen roten Arme aus dem Ei geschlüpft sind, weshalb er von manchen auch *„Stinkfisch“* genannt wird. Dann lockt der Gestank Pilzfliegen an, die für die Verbreitung der Sporen sorgen. (Dieter Gewalt) [Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz) 
+10.08.2025: Geradezu massenhaft (aber leicht zu übersehen) wachsen zur Zeit die Tintenfischpilze *Clathrus archeri*. Besonders entlang der Waldwege ist unser aktueller [Fundkorbpilz](AA "Glossar-") nahezu allgegenwärtig, überwiegend in seinem Hexeneistadium. Stinken tut er erst, wenn die schwarzfleckigen roten Arme aus dem Ei geschlüpft sind, weshalb er von manchen auch *„Stinkfisch“* genannt wird. Dann lockt der Gestank Pilzfliegen an, die für die Verbreitung der Sporen sorgen. (Dieter Gewalt) [Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_rosea_03_dg.jpg" %}
