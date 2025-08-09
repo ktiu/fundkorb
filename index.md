@@ -24,6 +24,12 @@ Hier geht's zur [Anmeldung >](/termine)
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clathrus_archeri_09_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.08.2025: Geradezu massenhaft (aber leicht zu übersehen) wachsen zur Zeit die Tintenfischpilze *Clathrus archeri*. Besonders entlang der Waldwege ist unser aktueller [Fundkorbpilz](AA "Glossar-") nahezu allgegenwärtig, überwiegend in seinem Hexeneistadium. Stinken tut er erst, wenn die schwarzfleckigen roten Arme aus dem Ei geschlüpft sind, weshalb er von manchen auch *„Stinkfisch“* genannt wird. Dann lockt der Gestank Pilzfliegen an, die für die Verbreitung der Sporen sorgen. (Dieter Gewalt) [Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz) 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_rosea_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -60,14 +66,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 05.08.2025: Highlight unserer Pilzwanderung am Sonntag war das Goldblatt *Phylloporus pelletieri*. Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") für einen der braunhütigen Filzröhrlinge halten. Für Klarheit sorgt die Hutunterseite mit ihrem goldgelben [Hymenium](Hymenium "Glossar"). Trotz dessen lamellenartiger Struktur handelt sich nicht um einen Blätterpilz sondern um einen Röhrling der Familie *Boletaceae*. Das Goldblatt ist essbar, sollte aber geschont werden. (Dieter Gewalt) [Mehr lesen >](/pilze/phylloporus-pelletieri-goldblatt)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_satanas_03_bh.jpg" %}
-{% include abbildung_ende.html %}
-
-04.08.2025: Der Park *„Unter den Eichen“* in Wiesbaden ist weit über die Region hinaus bekannt für interessante Pilzvorkommen. Dazu gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Satansröhrling *Boletus satanas*, jetzt *Rubroboletus*, [Pilz des Jahres 1999](https://www.dgfm-ev.de/pilz-des-jahres/1999-satansroehrling). Er ist hierzulande der wohl einzige wirkliche Giftpilz unter den Röhrlingen, hat aber noch niemanden umgebracht. Gemeldet hat ihn *Christian Weinkötz*, das Foto aus dem Hessischen Ried ist von *Michael Hornung*. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
 
 <div style="clear:  both"></div>
 
