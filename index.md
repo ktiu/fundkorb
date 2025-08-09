@@ -19,7 +19,8 @@ footer_scripts:
 <div style="clear:  both"></div>
 
 **Der Wald und seine Pilze** am Sonntag, 10. August 2025, 10:00 Uhr\
-Hier geht's zur [Anmeldung >](/termine)
+
+**\* \* \* ausgebucht \* \* \***
 
 - - -
 
