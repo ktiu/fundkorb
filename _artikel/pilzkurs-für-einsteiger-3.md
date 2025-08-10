@@ -85,7 +85,7 @@ Die [Parasitischen Röhrlinge (*Xerocomus parasiticus*)](/pilze/xerocomus-parasi
 {% include bild.html datei="/bilder/auricularia-auricula-judae_im_winter_09_dg.jpg" gross=true %}
 {% include abbildung_ende.html legende="Judasohren" %}
 
-Kaum Anlass zu Verwechslungen bietet auch das Judasohr (*Auricularia auricula-judae*). Wem der Name nichts sagt, dem möchte ich einen Blick in die Speisekarte eines China-Restaurants empfehlen. Was da als China-Morchel angepriesen und Bestandteil vieler asiatischer Gerichte ist, hat mit Morcheln rein gar nichts zu tun. Es ist unser Judasohr, das an zahllosen Holzarten wächst, am allerhäufigsten an toten Holunderstämmen und -ästen. Dieser Pilz hat in der Tat die Form eines Ohrs. Dank seiner Formenvielfalt, auch was die inneren Falten und Verschnörkelungen betrifft, findet man immer mal wieder Exemplare, die eine verblüffende Ähnlichkeit mit menschlichen Gehörmuscheln haben. Zum Speisewert ist Folgendes zu sagen: Es ist nicht der Geschmack, der das Judasohr zum Speisepilz macht, sondern seine besondere Konsistenz. Beim Verzehr könnte einem der Pilz zwischen den Zähnen wegglitschen. Auf jeden Fall passt er hervorragend in asiatische Wokgerichte.
+Kaum Anlass zu Verwechslungen bietet auch das [Judasohr (*Auricularia auricula-judae*)](/pilze/auricularia-auricula-judae-judasohr). Wem der Name nichts sagt, dem möchte ich einen Blick in die Speisekarte eines China-Restaurants empfehlen. Was da als China-Morchel angepriesen und Bestandteil vieler asiatischer Gerichte ist, hat mit Morcheln rein gar nichts zu tun. Es ist unser Judasohr, das an zahllosen Holzarten wächst, am allerhäufigsten an toten Holunderstämmen und -ästen. Dieser Pilz hat in der Tat die Form eines Ohrs. Dank seiner Formenvielfalt, auch was die inneren Falten und Verschnörkelungen betrifft, findet man immer mal wieder Exemplare, die eine verblüffende Ähnlichkeit mit menschlichen Gehörmuscheln haben. Zum Speisewert ist Folgendes zu sagen: Es ist nicht der Geschmack, der das Judasohr zum Speisepilz macht, sondern seine besondere Konsistenz. Beim Verzehr könnte einem der Pilz zwischen den Zähnen wegglitschen. Auf jeden Fall passt er hervorragend in asiatische Wokgerichte.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/phallus_impudicus_04_dg.jpg" nocrop=true gross=true %}
@@ -103,7 +103,7 @@ Wie bei der Stinkmorchel strecken sie sich aus einem am Scheitel aufplatzenden s
 
 Das weiße Innere im Hexenei der Stinkmorchel ist übrigens roh essbar!
 
-[Pilzkurs für Einsteiger (1)](/artikel/pilzkurs-für-einsteiger-1.html)  
+[Pilzkurs für Einsteiger (1)](/artikel/pilzkurs-für-einsteiger-1.html)\
 [Pilzkurs für Einsteiger (2)](/artikel/pilzkurs-für-einsteiger-2.html)
 
 **Literatur:**
