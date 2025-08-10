@@ -18,11 +18,17 @@ footer_scripts:
 
 <div style="clear:  both"></div>
 
-**Der Wald und seine Pilze** am Sonntag, 10. August 2025, 10:00 Uhr\
-
-**\* \* \* ausgebucht \* \* \***
+Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder angeboten, sobald bei geeigneten Wetterbedingungen mit Wachstum zu rechnen ist. 
 
 - - -
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_vesca_07_gg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Speisetäubling *Russula vesca*. Er gehört zu den Premiumarten unter den Täublingen, ist von Anfängern aber nicht ganz einfach von anderen roten oder rötlichen Täublingen zu unterscheiden. Wenn er ein wichtiges Merkmal (die etwas zu kurz geratene Huthaut - siehe Abbildung) deutlich zeigt und einen milden, angenehm nussigen Geschmack hat, darf man ihn getrost in der Küche verwenden. Er ist relativ häufig und von Juni an bis in den Sätherbst in Laub- und Mischwäldern zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-vesca-speisetäubling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clathrus_archeri_09_dg.jpg" %}
@@ -61,14 +67,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 06.08.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den seltenen Kornblumenröhrling *Gyroporus cyanescens*, haben wir bei unserer letzten pilzkundlichen Führung in der Rhein-Main-Ebene gefunden. Er war leider bereits von Schimmel und Madenfraß befallen. Normalerweise ist er an seinem gekammert hohlen Stiel und der kornblumenblauen Verfärbung im angeschnittenen sehr festen Fleisch leicht zu erkennen (siehe Foto). Im Geschmack ist er fein nussartig, in seiner Speisepilzqualität dem Steinpilz mindestens ebenbürtig. Als Rote-Liste-Art sollte er jedoch geschont werden. (Dieter Gewalt) [Mehr lesen >](/pilze/gyroporus-cyanescens-kornblumenröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phylloporus_pelletieri_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.08.2025: Highlight unserer Pilzwanderung am Sonntag war das Goldblatt *Phylloporus pelletieri*. Von oben betrachtet könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") für einen der braunhütigen Filzröhrlinge halten. Für Klarheit sorgt die Hutunterseite mit ihrem goldgelben [Hymenium](Hymenium "Glossar"). Trotz dessen lamellenartiger Struktur handelt sich nicht um einen Blätterpilz sondern um einen Röhrling der Familie *Boletaceae*. Das Goldblatt ist essbar, sollte aber geschont werden. (Dieter Gewalt) [Mehr lesen >](/pilze/phylloporus-pelletieri-goldblatt)
 
 <div style="clear:  both"></div>
 
