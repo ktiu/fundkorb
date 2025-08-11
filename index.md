@@ -23,6 +23,14 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_fulva_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fuchsige oder Rotbraune Scheidenstreifling *Amanita fulva*. Er gehört zu den häufigsten Wulstlingen und dürfte in kaum einem mitteleuropäischen Wald fehlen. Scheidenstreiflinge unterscheiden sich von den übrigen Wulstlingen durch die Merkmalskombination *"häutige Scheide an der Stielbasis + kein Ring im oberen Stielbereich"*. Er ist essbar, wegen seines etwas muffigen Geschmacks aber mit Sicherheit keine Delikatesse. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_vesca_07_gg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 {% include abbildung_ende.html %}
 
 07.08.2025: Zu den zahlreichen Röhrlingsarten, die zur Zeit in den Dietzenbacher Wäldern zu finden sind, gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blutrote Filzröhrling *Xerocomus rubellus*. Nicht nur der rote Hut macht den Unterschied zum [Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling). Auch das Rot am Stiel ist eher fein punktiert als längsstreifig. Mit der Beifügung „eher“ kommt aber schon zum Ausdruck, dass bei Pilzen viele Merkmale fließend und innerhalb der oft enormen Variabilität nur schwer abgrenzbar sein können. (Dieter Gewalt) [Mehr lesen >](/pilze/xerocomus-rubellus-blutroter-filzröhrling)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gyroporus_cyanescens_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-06.08.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den seltenen Kornblumenröhrling *Gyroporus cyanescens*, haben wir bei unserer letzten pilzkundlichen Führung in der Rhein-Main-Ebene gefunden. Er war leider bereits von Schimmel und Madenfraß befallen. Normalerweise ist er an seinem gekammert hohlen Stiel und der kornblumenblauen Verfärbung im angeschnittenen sehr festen Fleisch leicht zu erkennen (siehe Foto). Im Geschmack ist er fein nussartig, in seiner Speisepilzqualität dem Steinpilz mindestens ebenbürtig. Als Rote-Liste-Art sollte er jedoch geschont werden. (Dieter Gewalt) [Mehr lesen >](/pilze/gyroporus-cyanescens-kornblumenröhrling)
 
 <div style="clear:  both"></div>
 
