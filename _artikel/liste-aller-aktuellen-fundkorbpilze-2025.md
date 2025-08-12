@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-12.08.2025: [Amanita fulva - Rotbrauner Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)  
+13.08.2025: [Suillus grevillei - Goldröhrling](/pilze/suillus-grevillei-goldröhrling)  
+12.08.2025: [Amanita fulva - Rotbrauner Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)\
 11.08.2025: [Russula vesca - Speisetäubling](/pilze/russula-vesca-speisetäubling)\
 10.08.2025: [Clathrus archeri - Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)\
 09.08.2025: [Russula rosea - Harter Zinnobertäubling](/pilze/russula-rosea-harter-zinnobertäubling)\
