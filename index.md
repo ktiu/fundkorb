@@ -23,6 +23,14 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/suillus_grevillei_03_xx.jpg" %}
+{% include abbildung_ende.html %}
+
+13.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldröhrling *Suillus grevillei*. Seine goldgelbe Farbe und die in feuchtem Zustand schmierige Hutoberfläche machen ihn eigentlich schon unverwechselbar. Beachtet man noch das Vorkommen ausschließlich bei Lärchen, sollte die Bestimmung gesichert sein. Der Goldröhrling ist ein recht schmackhafter Speisepilz, wenn auch das Putzen wegen der schleimigen Hüte wenig Spaß macht. (Dieter Gewalt) [Mehr lesen >](/pilze/suillus-grevillei-goldröhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_fulva_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
