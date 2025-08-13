@@ -23,6 +23,14 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_parazurea_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+14.08.2025: Bei unserer Exkursion am Sonntag fanden wir mehrere Täublingsarten, u. a. auch den Blaugrünen Reiftäubling *Russula parazurea*, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Wer sich mit Täublingen auskennt, kann ihn durchaus in der Küche verwenden. Er zählt zu den absolut schmackhaften Arten, ist aber nicht gerade häufig. Wenn der Reif auf der Huthaut abgewischt ist, kann er leicht mit dem häufigen [Papagei-Täubling](/pilze/russula-ionochlora-papagei-täubling) verwechselt werden, der ebenfalls essbar ist und dem wir auch begegnet sind. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-parazurea-blaugrüner-reiftäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/suillus_grevillei_03_xx.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,22 +67,6 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 {% include abbildung_ende.html %}
 
 09.08.2025: Die meisten Täublinge, die mild und nussig schmecken, sind ausgezeichnete Speisepilze, auf keinen Fall aber giftig. Ebenfalls nussig und mild ist das Fleisch des Harten Zinnobertäublings *Russula rosea*. Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") verspricht also nach allen Täublingsregeln ein leckeres Pilzgericht, doch leider wäre er zubereitet eine im wahrsten Sinne des Wortes bittere Enttäuschung. Anfänger könnten ihn leicht für einen [Speisetäubling](/pilze/russula-vesca-speisetäubling) halten, seine auffallend harte Konsistenz macht ihn jedoch unverwechselbar. Außerdem ist seine Huthaut nicht abziehbar. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-rosea-harter-zinnobertäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_alveolaris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wabenporling *Polyporus alveolaris*, ein hinreißend schöner Pilz. An seinen wie Bienenwaben geformten, bis 5 mm großen ganzrandigen Poren, die über die gesamte Stiellänge herablaufen, ist er meist auf den ersten Blick zu erkennen. Er besiedelt ausschließlich totes Laubholz und ist in Mitteleuropa ganz überwiegend an Eiche zu finden. Als wärmeliebende Art profitiert er von der gegenwärtigen Klimaerwärmung. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-alveolaris-wabenporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_rubellus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.08.2025: Zu den zahlreichen Röhrlingsarten, die zur Zeit in den Dietzenbacher Wäldern zu finden sind, gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blutrote Filzröhrling *Xerocomus rubellus*. Nicht nur der rote Hut macht den Unterschied zum [Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling). Auch das Rot am Stiel ist eher fein punktiert als längsstreifig. Mit der Beifügung „eher“ kommt aber schon zum Ausdruck, dass bei Pilzen viele Merkmale fließend und innerhalb der oft enormen Variabilität nur schwer abgrenzbar sein können. (Dieter Gewalt) [Mehr lesen >](/pilze/xerocomus-rubellus-blutroter-filzröhrling)
 
 <div style="clear:  both"></div>
 
