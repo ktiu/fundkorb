@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-14.08.2025: [Russula parazurea - Blaugrüner Reiftäubling](/pilze/russula-parazurea-blaugrüner-reiftäubling)  
+15.08.2025: [Xerocomus badius - Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)  
+14.08.2025: [Russula parazurea - Blaugrüner Reiftäubling](/pilze/russula-parazurea-blaugrüner-reiftäubling)\
 13.08.2025: [Suillus grevillei - Goldröhrling](/pilze/suillus-grevillei-goldröhrling)\
 12.08.2025: [Amanita fulva - Rotbrauner Scheidenstreifling](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)\
 11.08.2025: [Russula vesca - Speisetäubling](/pilze/russula-vesca-speisetäubling)\
