@@ -23,6 +23,14 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_badius_02_nz.jpg" %}
+{% include abbildung_ende.html %}
+
+15.08.2025: Der schmackhafte und viel gesammelte Maronenröhrling *Xerocomus badius*, unser aktueller [Fundkorbpilz](AA "Glossar-"), der inzwischen *Imleria badia* heißt, wird oft als Sammelart interpretiert. Schaut man in die Körbe mancher Sammler, die glauben, Maronenröhrlinge gefunden zu haben, sieht man oft eine bunte Mischung verschiedener Filzröhrlinge, darunter  auch wahrhaftige Maronenröhrlinge, manchmal aber auch keinen einzigen. Solche Verwechslungen mit [Rotfußröhrlingen](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling) oder [Ziegenlippen](/pilze/xerocomus-subtomentosus-ziegenlippe) sind in der Regel harmlos - vorausgesetzt, man hat keine vergammelten im Korb und später auf dem Teller. (Dieter Gewalt) [Mehr lesen >](/pilze/xerocomus-badius-maronenröhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_parazurea_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
