@@ -23,6 +23,14 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laccaria_amethystina_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.08.2025: Nicht nur violett sondern auch essbar und durchaus wohlschmeckend ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Der Violette Lacktrichterling *Laccaria amethystina* beginnt gerade seine Saison in den Wäldern, wo er im Herbst vermutlich herdenweise die Laub- oder Nadelstreu besiedeln wird. Dann lohnt sich das Sammeln. An einzelnen Hütchen ist zwar nicht viel dran, aber bei reichlichen Vorkommen macht's die Masse. Die zähen Stiele lässt man besser im Wald. (Dieter Gewalt) [Mehr lesen >](/pilze/laccaria-amethystina-violetter-lacktrichterling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_badius_02_nz.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,22 +67,6 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 {% include abbildung_ende.html %}
 
 11.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Speisetäubling *Russula vesca*. Er gehört zu den Premiumarten unter den Täublingen, ist von Anfängern aber nicht ganz einfach von anderen roten oder rötlichen Täublingen zu unterscheiden. Wenn er ein wichtiges Merkmal (die etwas zu kurz geratene Huthaut - siehe Abbildung) deutlich zeigt und einen milden, angenehm nussigen Geschmack hat, darf man ihn getrost in der Küche verwenden. Er ist relativ häufig und von Juni an bis in den Sätherbst in Laub- und Mischwäldern zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-vesca-speisetäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clathrus_archeri_09_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.08.2025: Geradezu massenhaft (aber leicht zu übersehen) wachsen zur Zeit die Tintenfischpilze *Clathrus archeri*. Besonders entlang der Waldwege ist unser aktueller [Fundkorbpilz](AA "Glossar-") nahezu allgegenwärtig, überwiegend in seinem Hexeneistadium. Stinken tut er erst, wenn die schwarzfleckigen roten Arme aus dem Ei geschlüpft sind, weshalb er von manchen auch *„Stinkfisch“* genannt wird. Dann lockt der Gestank Pilzfliegen an, die für die Verbreitung der Sporen sorgen. (Dieter Gewalt) [Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_rosea_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.08.2025: Die meisten Täublinge, die mild und nussig schmecken, sind ausgezeichnete Speisepilze, auf keinen Fall aber giftig. Ebenfalls nussig und mild ist das Fleisch des Harten Zinnobertäublings *Russula rosea*. Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") verspricht also nach allen Täublingsregeln ein leckeres Pilzgericht, doch leider wäre er zubereitet eine im wahrsten Sinne des Wortes bittere Enttäuschung. Anfänger könnten ihn leicht für einen [Speisetäubling](/pilze/russula-vesca-speisetäubling) halten, seine auffallend harte Konsistenz macht ihn jedoch unverwechselbar. Außerdem ist seine Huthaut nicht abziehbar. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-rosea-harter-zinnobertäubling)
 
 <div style="clear:  both"></div>
 
