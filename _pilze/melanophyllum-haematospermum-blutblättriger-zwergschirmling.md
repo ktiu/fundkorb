@@ -26,7 +26,7 @@ Dieser Pilz ist so charakteristisch, dass man ihn sofort wiedererkennt, wenn man
 
 Die Hüte werden meist nur 2 - 4 cm breit. Sie sind jung mit feinen Pusteln besetzt, verkahlen dann aber. Ihre Farbe variiert von schmutzig graubeige bis hellbraun. Die Hutränder sind jung mit hellen [Velumfetzen](Velum "Glossar") behangen. Das dünne Hutfleisch ist weiß, rötet aber sofort bei Verletzung. Die auffällig gefärbten, gedrängt stehenden Lamellen sind ausgebuchtet am Stiel angewachsen. Dieser ist sehr schlank, bis zu 6 cm lang, aber nur 3 bis 5 mm dick, auf ganzer Länge mit einem hellgrauen, leicht abwischbaren pulverigen Belag überzogen, darunter weinrötlich. Außerdem ist er hohl und zerbrechlich. Der Geruch wird als unangenehm muffig, porlingsartig oder nach Kartoffelbovisten beschrieben. Der Geschmack ist unauffällig mild.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/melanophyllum_haematospermum_03_wi.jpg" %}
 {% include abbildung_ende.html legende="Foto: Wikipedia" %}
 
