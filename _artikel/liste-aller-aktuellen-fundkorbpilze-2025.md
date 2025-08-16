@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-16.08.2025: [Laccaria amethystina - Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)  
+17.08.2025: [Lactarius subdulcis - Süßlicher Milchling](/pilze/lactarius-subdulcis-süßlicher-milchling)  
+16.08.2025: [Laccaria amethystina - Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)\
 15.08.2025: [Xerocomus badius - Maronenröhrling](/pilze/xerocomus-badius-maronenröhrling)\
 14.08.2025: [Russula parazurea - Blaugrüner Reiftäubling](/pilze/russula-parazurea-blaugrüner-reiftäubling)\
 13.08.2025: [Suillus grevillei - Goldröhrling](/pilze/suillus-grevillei-goldröhrling)\
