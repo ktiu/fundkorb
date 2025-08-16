@@ -23,6 +23,14 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_subdulcis_03_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+17.08.2025: Braune Milchlinge sind in jedem Wald zu finden. Es gibt eine beträchtliche Anzahl von ihnen, die nicht immer leicht zu bestimmen sind. Für die Küche taugen die wenigsten. Zu diesen gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Süßliche Milchling *Lactarius subdulcis*. Was an ihm süßlich sein soll, entzieht sich meinem Verständnis. Seine weiße Milch schmeckt eher bitter. Auch der Blattwanzengeruch ist nicht gerade angenehm. (Dieter Gewalt) [Mehr lesen >](/pilze/lactarius-subdulcis-süßlicher-milchling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/laccaria_amethystina_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
