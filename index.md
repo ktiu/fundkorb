@@ -23,6 +23,14 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_franchetii_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+18.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Raue Wulstling  *Amanita franchetii*, der zu den seltenen Arten seiner Gattung gehört, möglichweise auch oft verkannt wird. Wir haben ihn jetzt wieder im Ansfeldwald bei Rodgau-Dudenhofen gefunden. Man könnte ihn für einen [Perlpilz](/pilze/amanita-rubescens-perlpilz) halten, der jedoch nirgendwo rötet. Stattdessen zeigt er mehr oder weniger deutliche Gelbtöne an den Gürtelzonen der Stielbasis. Gelblich sind auch die meist kleinen Flöckchen auf der Huthaut und der Stielring. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-franchetii-rauer-wulstling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_subdulcis_03_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 {% include abbildung_ende.html %}
 
 12.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fuchsige oder Rotbraune Scheidenstreifling *Amanita fulva*. Er gehört zu den häufigsten Wulstlingen und dürfte in kaum einem mitteleuropäischen Wald fehlen. Scheidenstreiflinge unterscheiden sich von den übrigen Wulstlingen durch die Merkmalskombination *"häutige Scheide an der Stielbasis + kein Ring im oberen Stielbereich"*. Er ist essbar, wegen seines etwas muffigen Geschmacks aber mit Sicherheit keine Delikatesse. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_vesca_07_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Speisetäubling *Russula vesca*. Er gehört zu den Premiumarten unter den Täublingen, ist von Anfängern aber nicht ganz einfach von anderen roten oder rötlichen Täublingen zu unterscheiden. Wenn er ein wichtiges Merkmal (die etwas zu kurz geratene Huthaut - siehe Abbildung) deutlich zeigt und einen milden, angenehm nussigen Geschmack hat, darf man ihn getrost in der Küche verwenden. Er ist relativ häufig und von Juni an bis in den Sätherbst in Laub- und Mischwäldern zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-vesca-speisetäubling)
 
 <div style="clear:  both"></div>
 
