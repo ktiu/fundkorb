@@ -22,6 +22,14 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/crepidotus_cesatii_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Kugelsporige Stummelfüßchen *Crepidotus cesatii*, gefunden an einem dünnen Laubholzästchen. Da die hübschen kleinen Pilzchen mit dem Hutscheitel am Substrat angewachsen sind, benötigen sie keine Stiele. Evolutionär bedingt ist manchmal noch ein stummeliger Rest davon zu erkennen, etwa so, wie manche Tiere am derzeitigen Ende ihrer Entwicklungsgeschichte noch ein kleines Stummelschwänzchen haben. Am häufigsten ist wohl die hier vorgestellte Art. Sie ist von einigen nahe verwandten optisch kaum zu unterscheiden. Um sicher zu gehen, ist ein wenig Mikroskopieraufwand erforderlich. (Dieter Gewalt) [Mehr lesen >](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_franchetii_01_tl.jpg" %}
 {% include abbildung_ende.html %}
@@ -67,14 +75,6 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 {% include abbildung_ende.html %}
 
 13.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldröhrling *Suillus grevillei*. Seine goldgelbe Farbe und die in feuchtem Zustand schmierige Hutoberfläche machen ihn eigentlich schon unverwechselbar. Beachtet man noch das Vorkommen ausschließlich bei Lärchen, sollte die Bestimmung gesichert sein. Der Goldröhrling ist ein recht schmackhafter Speisepilz, wenn auch das Putzen wegen der schleimigen Hüte wenig Spaß macht. (Dieter Gewalt) [Mehr lesen >](/pilze/suillus-grevillei-goldröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_fulva_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fuchsige oder Rotbraune Scheidenstreifling *Amanita fulva*. Er gehört zu den häufigsten Wulstlingen und dürfte in kaum einem mitteleuropäischen Wald fehlen. Scheidenstreiflinge unterscheiden sich von den übrigen Wulstlingen durch die Merkmalskombination *"häutige Scheide an der Stielbasis + kein Ring im oberen Stielbereich"*. Er ist essbar, wegen seines etwas muffigen Geschmacks aber mit Sicherheit keine Delikatesse. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-fulva-rotbrauner-fuchsiger-scheidenstreifling)
 
 <div style="clear:  both"></div>
 
