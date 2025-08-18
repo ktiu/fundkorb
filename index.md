@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/fgr.-foto-1_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -22,7 +22,7 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 
 - - -
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/crepidotus_cesatii_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
