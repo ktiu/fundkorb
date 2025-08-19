@@ -26,7 +26,7 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 {% include bild.html datei="/bilder/agaricus_xanthoderma_01_dg-1024x734.jpg" %}
 {% include abbildung_ende.html %}
 
-20.08.2025: Längst nicht mehr so häufig wie in früheren Jahren ist der Karbolchamignon *Agaricus xanthoderma* (unser aktueller [Fundkorbpilz](AA "Glossar-")) in unserer Dietzenbacher Parkanlage. Das verringert die Gefahr, dass Anwohner nach einer Pilzmahlzeit von Übelkeit, Bauchweh und Durchfall geplagt werden. Wird er doch oft mit essbaren Wiesenchampignons verwechselt. Auch in der Pilzberatung im Frankfurter Gesundheitsamt muss er immer wieder einkassiert werden. Mit etwas Sorgfalt sind solche Unpässlichkeiten leicht zu vermeiden. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-xanthoderma-karbolchampignon)
+20.08.2025: Längst nicht mehr so häufig wie in früheren Jahren ist der Karbolchampignon *Agaricus xanthoderma* (unser aktueller [Fundkorbpilz](AA "Glossar-")) in unserer Dietzenbacher Parkanlage. Das verringert die Gefahr, dass Anwohner nach einer Pilzmahlzeit von Übelkeit, Bauchweh und Durchfall geplagt werden. Wird er doch oft mit essbaren Wiesenchampignons verwechselt. Auch in der Pilzberatung im Frankfurter Gesundheitsamt muss er immer wieder einkassiert werden. Mit etwas Sorgfalt sind solche Unpässlichkeiten leicht zu vermeiden. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-xanthoderma-karbolchampignon)
 
 <div style="clear:  both"></div>
 
