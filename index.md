@@ -23,6 +23,14 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_chrysorrheus_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+21.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldflüssige Milchling *Lactarius chrysorrheus*, einer der attraktivsten Vertreter seiner Gattung. Die beim Anschneiden des Fruchtkörpers oder Anritzen der Lamellen austretende Milch ist zuerst weiß, verfärbt sich dann aber innerhalb weniger Sekunden gold- oder schwefelgelb. Diese Verfärbung kann auch sehr plötzlich eintreten. Die Milch ist anfangs mild, wird aber bald brennend scharf. Der Goldflüssige Milchling ist [Mykorrhizapartner](Mykorrhiza "Glossar") von Eichen. (Dieter Gewalt) [Mehr lesen >](/pilze/lactarius-chrysorrheus-goldflüssiger-milchling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_xanthoderma_01_dg-1024x734.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,22 +67,6 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 {% include abbildung_ende.html %}
 
 16.08.2025: Nicht nur violett sondern auch essbar und durchaus wohlschmeckend ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Der Violette Lacktrichterling *Laccaria amethystina* beginnt gerade seine Saison in den Wäldern, wo er im Herbst vermutlich herdenweise die Laub- oder Nadelstreu besiedeln wird. Dann lohnt sich das Sammeln. An einzelnen Hütchen ist zwar nicht viel dran, aber bei reichlichen Vorkommen macht's die Masse. Die zähen Stiele lässt man besser im Wald. (Dieter Gewalt) [Mehr lesen >](/pilze/laccaria-amethystina-violetter-lacktrichterling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_badius_02_nz.jpg" %}
-{% include abbildung_ende.html %}
-
-15.08.2025: Der schmackhafte und viel gesammelte Maronenröhrling *Xerocomus badius*, unser aktueller [Fundkorbpilz](AA "Glossar-"), der inzwischen *Imleria badia* heißt, wird oft als Sammelart interpretiert. Schaut man in die Körbe mancher Sammler, die glauben, Maronenröhrlinge gefunden zu haben, sieht man oft eine bunte Mischung verschiedener Filzröhrlinge, darunter  auch wahrhaftige Maronenröhrlinge, manchmal aber auch keinen einzigen. Solche Verwechslungen mit [Rotfußröhrlingen](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling) oder [Ziegenlippen](/pilze/xerocomus-subtomentosus-ziegenlippe) sind in der Regel harmlos - vorausgesetzt, man hat keine vergammelten im Korb und später auf dem Teller. (Dieter Gewalt) [Mehr lesen >](/pilze/xerocomus-badius-maronenröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_parazurea_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-14.08.2025: Bei unserer Exkursion am Sonntag fanden wir mehrere Täublingsarten, u. a. auch den Blaugrünen Reiftäubling *Russula parazurea*, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Wer sich mit Täublingen auskennt, kann ihn durchaus in der Küche verwenden. Er zählt zu den absolut schmackhaften Arten, ist aber nicht gerade häufig. Wenn der Reif auf der Huthaut abgewischt ist, kann er leicht mit dem häufigen [Papagei-Täubling](/pilze/russula-ionochlora-papagei-täubling) verwechselt werden, der ebenfalls essbar ist und dem wir auch begegnet sind. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-parazurea-blaugrüner-reiftäubling)
 
 <div style="clear:  both"></div>
 
