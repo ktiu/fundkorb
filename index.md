@@ -23,6 +23,14 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_argyraceum_var.inocyboides_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.08.205: Mal wieder im Dietzenbacher Carré aufgetaucht ist der Gilbende Erdritterling *Tricholoma argyraceum* und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Von vielen Pilzbuchautoren wird er zwar als essbar bezeichnet, aber für mich steht nach einer Geschmacksprobe fest: der schmeckt so übel ranzig mehlig, der kommt mir nicht in die Pfanne. Dann schon eher sein naher Verwandter, der häufigere [Gemeine Erdritterling *Tricholoma terreum*](/pilze/tricholoma-terreum-gemeiner-erdritterling). (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-argyraceum-gilbender-erdritterling)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_chrysorrheus_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
