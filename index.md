@@ -23,6 +23,14 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_amoenolens_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Camembert-Täubling *Russula amoenolens*, der zu den Kammtäublingen mit kammartig gerieftem Hutrand zählt (also *„Kammembert“*). Er wächst unter Eichen und duftet herrlich nach Camembert, ist im Geschmack jedoch brennend scharf, und somit nicht für die Küche geeignet. (Cinzia Gaspari) [Mehr lesen >](/pilze/russula-amoenolens-camembert-täubling) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_argyraceum_var.inocyboides_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
