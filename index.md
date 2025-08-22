@@ -174,7 +174,7 @@ Diese auf Ästen wachsenden Beläge oder Krusten werden von vielen nicht als Pil
 
 ##### Helmlinge - Die Gattung *Mycena* im Fundkorb
 
-Insgesamt 40 Helmlinge sind bisher mit einem Porträt im Fundkorb vertreten. Die allermeisten von ihnen wachsen an Holz. Drei Arten verdienen aufgrund ihrer Seltenheit und Substratwahl Beachtung. [Mycena filopes](/pilze/mycena-filopes-zerbrechlicher-fadenhelmling) wächst in Augenhöhe auf Fichtenzweigen, [Mycena strobilicola](/pilze/mycena-strobilicola-fichtenzapfenhelmling) auf Fichtenzapfen, und die in Mitteleuropa extrem seltene [Mycena seynii](/pilze/mycena-seynii-mediterraner-kiefernzapfenhelmling) auf Kiefernzapfen.
+Insgesamt 56 Helmlinge sind bisher mit einem Porträt im Fundkorb vertreten. Die allermeisten von ihnen wachsen an Holz. Drei Arten verdienen aufgrund ihrer Seltenheit und Substratwahl Beachtung. [Mycena filopes](/pilze/mycena-filopes-zerbrechlicher-fadenhelmling) wächst in Augenhöhe auf Fichtenzweigen, [Mycena strobilicola](/pilze/mycena-strobilicola-fichtenzapfenhelmling) auf Fichtenzapfen, und die in Mitteleuropa extrem seltene [Mycena seynii](/pilze/mycena-seynii-mediterraner-kiefernzapfenhelmling) auf Kiefernzapfen.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/mycena_filopes_11_hes.jpg" nocrop=true gross=true %}
