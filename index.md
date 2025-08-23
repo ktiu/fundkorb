@@ -23,6 +23,14 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/graphis_scripta_03_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+24.08.2025: Flechten können monatelange Trockenheit schadlos überstehen. Zu den wenigen, die recht gut optisch zu bestimmen sind, gehört die Schriftflechte *Graphis scripta*. Um diesen aktuellen [Fundkorbpilz](AA "Glossar-") zu erkennen, muss man ihn allerdings mit einer Lupe betrachten. Die strichförmigen, oft geschlängelten und verzweigten im [Thallus](Thallus "Glossar") eingesenkten [Apothecien](Apothecien "Glossar") erinnern tatsächlich an geheimnisvolle Schriftzeichen oder Runen. Man findet sie auf der Rinde von Laubbäumen. (Dieter Gewalt) [Mehr lesen >](/pilze/graphis-scripta-schriftflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_amoenolens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,30 +67,6 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 {% include abbildung_ende.html %}
 
 19.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Kugelsporige Stummelfüßchen *Crepidotus cesatii*, gefunden an einem dünnen Laubholzästchen. Da die hübschen kleinen Pilzchen mit dem Hutscheitel am Substrat angewachsen sind, benötigen sie keine Stiele. Evolutionär bedingt ist manchmal noch ein stummeliger Rest davon zu erkennen, etwa so, wie manche Tiere am derzeitigen Ende ihrer Entwicklungsgeschichte noch ein kleines Stummelschwänzchen haben. Am häufigsten ist wohl die hier vorgestellte Art. Sie ist von einigen nahe verwandten optisch kaum zu unterscheiden. Um sicher zu gehen, ist ein wenig Mikroskopieraufwand erforderlich. (Dieter Gewalt) [Mehr lesen >](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_franchetii_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-18.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Raue Wulstling  *Amanita franchetii*, der zu den seltenen Arten seiner Gattung gehört, möglichweise auch oft verkannt wird. Wir haben ihn jetzt wieder im Ansfeldwald bei Rodgau-Dudenhofen gefunden. Man könnte ihn für einen [Perlpilz](/pilze/amanita-rubescens-perlpilz) halten, der jedoch nirgendwo rötet. Stattdessen zeigt er mehr oder weniger deutliche Gelbtöne an den Gürtelzonen der Stielbasis. Gelblich sind auch die meist kleinen Flöckchen auf der Huthaut und der Stielring. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-franchetii-rauer-wulstling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_subdulcis_03_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-17.08.2025: Braune Milchlinge sind in jedem Wald zu finden. Es gibt eine beträchtliche Anzahl von ihnen, die nicht immer leicht zu bestimmen sind. Für die Küche taugen die wenigsten. Zu diesen gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Süßliche Milchling *Lactarius subdulcis*. Was an ihm süßlich sein soll, entzieht sich meinem Verständnis. Seine weiße Milch schmeckt eher bitter. Auch der Blattwanzengeruch ist nicht gerade angenehm. (Dieter Gewalt) [Mehr lesen >](/pilze/lactarius-subdulcis-süßlicher-milchling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/laccaria_amethystina_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.08.2025: Nicht nur violett sondern auch essbar und durchaus wohlschmeckend ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Der Violette Lacktrichterling *Laccaria amethystina* beginnt gerade seine Saison in den Wäldern, wo er im Herbst vermutlich herdenweise die Laub- oder Nadelstreu besiedeln wird. Dann lohnt sich das Sammeln. An einzelnen Hütchen ist zwar nicht viel dran, aber bei reichlichen Vorkommen macht's die Masse. Die zähen Stiele lässt man besser im Wald. (Dieter Gewalt) [Mehr lesen >](/pilze/laccaria-amethystina-violetter-lacktrichterling)
 
 <div style="clear:  both"></div>
 
