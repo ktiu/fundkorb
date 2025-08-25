@@ -22,7 +22,13 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/suillus_variegatus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
 
+26.08.2025: Bin zur Zeit im Südwesten von Norwegen in der Provinz Vestland unterwegs. Tolle Fjordlandschaft! In der Nähe des Gudbrandsjuvet, einem tosenden Fluss mit Aussichtsplattform, habe ich in einem Fichtenwald mit eingestreuten Kiefern den Sandröhrling (*Suillus variegatus*) entdeckt, den ich als aktuellen [Fundkorbpilz](AA "Glossar-") melden möchte. Er gehört zu den leicht kenntlichen Röhrlingsarten, Irrtum daher ausgeschlossen. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/suillus-variegatus-sandröhrling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/chondrostereum_purpureum_01_dg.jpg" %}
@@ -69,14 +75,6 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 {% include abbildung_ende.html %}
 
 20.08.2025: Längst nicht mehr so häufig wie in früheren Jahren ist der Karbolchampignon *Agaricus xanthoderma* (unser aktueller [Fundkorbpilz](AA "Glossar-")) in unserer Dietzenbacher Parkanlage. Das verringert die Gefahr, dass Anwohner nach einer Pilzmahlzeit von Übelkeit, Bauchweh und Durchfall geplagt werden. Wird er doch oft mit essbaren Wiesenchampignons verwechselt. Auch in der Pilzberatung im Frankfurter Gesundheitsamt muss er immer wieder einkassiert werden. Mit etwas Sorgfalt sind solche Unpässlichkeiten leicht zu vermeiden. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-xanthoderma-karbolchampignon)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/crepidotus_cesatii_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Kugelsporige Stummelfüßchen *Crepidotus cesatii*, gefunden an einem dünnen Laubholzästchen. Da die hübschen kleinen Pilzchen mit dem Hutscheitel am Substrat angewachsen sind, benötigen sie keine Stiele. Evolutionär bedingt ist manchmal noch ein stummeliger Rest davon zu erkennen, etwa so, wie manche Tiere am derzeitigen Ende ihrer Entwicklungsgeschichte noch ein kleines Stummelschwänzchen haben. Am häufigsten ist wohl die hier vorgestellte Art. Sie ist von einigen nahe verwandten optisch kaum zu unterscheiden. Um sicher zu gehen, ist ein wenig Mikroskopieraufwand erforderlich. (Dieter Gewalt) [Mehr lesen >](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
 
 <div style="clear:  both"></div>
 
