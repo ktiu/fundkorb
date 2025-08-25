@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-25.08.2025: [Chondrostereum purpureum - Violetter Schichtpilz](/pilze/chondrostereum-purpureum-violetter-schichtpilz)  
+26.08.2025: [Suillus variegatus - Sandröhrling](/pilze/suillus-variegatus-sandröhrling)  
+25.08.2025: [Chondrostereum purpureum - Violetter Schichtpilz](/pilze/chondrostereum-purpureum-violetter-schichtpilz)\
 24.08.2025: [Graphis scripta - Schriftflechte](/pilze/graphis-scripta-schriftflechte)\
 23.08.2025: [Russula amoenolens - Camembert-Täubling](/pilze/russula-amoenolens-camembert-täubling)\
 22.08.2025: [Tricholoma argyraceum - Gilbender Erdritterling](/pilze/tricholoma-argyraceum-gilbender-erdritterling)\
