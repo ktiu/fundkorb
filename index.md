@@ -23,6 +23,14 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/baeomyces_rufus_02_bhay.jpg" %}
+{% include abbildung_ende.html %}
+
+27.08.2025: Bei der Braunen Köpfchenflechte *Baeomyces rufus*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"), erscheinen die [Apothecien](Apothecien "Glossar") auf einem grünlich grauen, bei Feuchtkeit hellgrünen [Thallus](Thallus "Glossar"). Die Köpfchen dieser interessanten [Flechte](/verwandt/flechten) müssen nicht unbedingt braun sein. Sie sitzen auf einem weißlichen Stielchen, sind meistens schön rosa gefärbt und erreichen bis zu 2 mm Durchmesser. Am besten betrachtetet man sie mit einer gut vergrößernden Lupe. (Dieter Gewalt) [Mehr lesen >](/pilze/baeomyces-rufus-braune-köpfchenflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/suillus_variegatus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,22 +67,6 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 {% include abbildung_ende.html %}
 
 22.08.205: Mal wieder im Dietzenbacher Carré aufgetaucht ist der Gilbende Erdritterling *Tricholoma argyraceum* und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Von vielen Pilzbuchautoren wird er zwar als essbar bezeichnet, aber für mich steht nach einer Geschmacksprobe fest: der schmeckt so übel ranzig mehlig, der kommt mir nicht in die Pfanne. Dann schon eher sein naher Verwandter, der häufigere [Gemeine Erdritterling *Tricholoma terreum*](/pilze/tricholoma-terreum-gemeiner-erdritterling). (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-argyraceum-gilbender-erdritterling)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_chrysorrheus_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-21.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Goldflüssige Milchling *Lactarius chrysorrheus*, einer der attraktivsten Vertreter seiner Gattung. Die beim Anschneiden des Fruchtkörpers oder Anritzen der Lamellen austretende Milch ist zuerst weiß, verfärbt sich dann aber innerhalb weniger Sekunden gold- oder schwefelgelb. Diese Verfärbung kann auch sehr plötzlich eintreten. Die Milch ist anfangs mild, wird aber bald brennend scharf. Der Goldflüssige Milchling ist [Mykorrhizapartner](Mykorrhiza "Glossar") von Eichen. (Dieter Gewalt) [Mehr lesen >](/pilze/lactarius-chrysorrheus-goldflüssiger-milchling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_xanthoderma_01_dg-1024x734.jpg" %}
-{% include abbildung_ende.html %}
-
-20.08.2025: Längst nicht mehr so häufig wie in früheren Jahren ist der Karbolchampignon *Agaricus xanthoderma* (unser aktueller [Fundkorbpilz](AA "Glossar-")) in unserer Dietzenbacher Parkanlage. Das verringert die Gefahr, dass Anwohner nach einer Pilzmahlzeit von Übelkeit, Bauchweh und Durchfall geplagt werden. Wird er doch oft mit essbaren Wiesenchampignons verwechselt. Auch in der Pilzberatung im Frankfurter Gesundheitsamt muss er immer wieder einkassiert werden. Mit etwas Sorgfalt sind solche Unpässlichkeiten leicht zu vermeiden. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-xanthoderma-karbolchampignon)
 
 <div style="clear:  both"></div>
 
