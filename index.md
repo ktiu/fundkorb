@@ -23,6 +23,14 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/macrolepiota_procera_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.08.2025: Fast 25 cm Hutdurchmesser - ein imposantes Exemplar stand da direkt am Wegrand im Gras. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Riesenschirmling *Macrolepiota procera* oder Parasol, macht seinem Namen alle Ehre: *„para“* (gegen) und *„sol“* (Sonne) - ein Sonnenschirm. Durch seine stattliche Größe, dem beweglichen Ring und dem genatterten langen Stiel ist er unverwechselbar. Für ein leckeres Pilzschnitzel kam er trotzdem nicht mehr in Frage - teilweise vertrocknet hatte er sein bestes Alter bereits überschritten und seine Sporen wie Mehl um sich verbreitet. (Ulrike Wegner) [Mehr lesen >](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/baeomyces_rufus_02_bhay.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder ang
 {% include abbildung_ende.html %}
 
 23.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Camembert-Täubling *Russula amoenolens*, der zu den Kammtäublingen mit kammartig gerieftem Hutrand zählt (also *„Kammembert“*). Er wächst unter Eichen und duftet herrlich nach Camembert, ist im Geschmack jedoch brennend scharf, und somit nicht für die Küche geeignet. (Cinzia Gaspari) [Mehr lesen >](/pilze/russula-amoenolens-camembert-täubling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_argyraceum_var.inocyboides_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.08.205: Mal wieder im Dietzenbacher Carré aufgetaucht ist der Gilbende Erdritterling *Tricholoma argyraceum* und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Von vielen Pilzbuchautoren wird er zwar als essbar bezeichnet, aber für mich steht nach einer Geschmacksprobe fest: der schmeckt so übel ranzig mehlig, der kommt mir nicht in die Pfanne. Dann schon eher sein naher Verwandter, der häufigere [Gemeine Erdritterling *Tricholoma terreum*](/pilze/tricholoma-terreum-gemeiner-erdritterling). (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-argyraceum-gilbender-erdritterling)
 
 <div style="clear:  both"></div>
 
