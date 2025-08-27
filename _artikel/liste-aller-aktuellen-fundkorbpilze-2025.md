@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-27.08.2025: [Baeomyces rufus - Braune Köpfchenflechte](/pilze/baeomyces-rufus-braune-köpfchenflechte)  
+28.08.2025: [Macrolepiota procera - Großer Riesenschirmling](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)  
+27.08.2025: [Baeomyces rufus - Braune Köpfchenflechte](/pilze/baeomyces-rufus-braune-köpfchenflechte)\
 26.08.2025: [Suillus variegatus - Sandröhrling](/pilze/suillus-variegatus-sandröhrling)\
 25.08.2025: [Chondrostereum purpureum - Violetter Schichtpilz](/pilze/chondrostereum-purpureum-violetter-schichtpilz)\
 24.08.2025: [Graphis scripta - Schriftflechte](/pilze/graphis-scripta-schriftflechte)\
