@@ -23,6 +23,14 @@ Es hat geregnet! Damit könnten die Bedingungen für Pilzwachstum und für eine 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/meripilus_giganteus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") Aktueller Fundkorbpilz ist der Riesenporling *Meripilus giganteus.* Er ist ein wahrer Gigant unter den heimischen Pilzen. Wenn er rund um einen mächtigen Baumstumpf wächst und auch noch in Form von Ausläufern in seine Umgebung streut, kann er schon mal zwei Quadratmeter Fläche einnehmen. Was dabei an Pilzmasse zusammenkommt, kann einen Zentner wiegen. Allein diese schiere Größe ist schon ein gutes Bestimmungsmerkmal. So lange er jung und zart ist, kann man ihn sogar essen.  (Dieter Gewalt) [Mehr lesen >](/pilze/meripilus-giganteus-riesenporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/macrolepiota_procera_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
