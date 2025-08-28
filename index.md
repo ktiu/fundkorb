@@ -18,7 +18,7 @@ footer_scripts:
 
 <div style="clear:  both"></div>
 
-Pilzkundliche Führungen im Rhein-Main-Gebiet werden an dieser Stelle wieder angeboten, sobald bei geeigneten Wetterbedingungen mit Wachstum zu rechnen ist. 
+Es hat geregnet! Damit könnten die Bedingungen für Pilzwachstum und für eine pilzkundliche Exkursion im Rhein-Main-Gebiet erfüllt sein. Hier geht's zur [Anmeldung >](/termine) 
 
 - - -
 
