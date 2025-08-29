@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-29.08.2025: [Meripilus giganteus - Riesenporling](/pilze/meripilus-giganteus-riesenporling)  
+30.08.2025: [Marasmius curreyi - Grasschwindling](/pilze/marasmius-curreyi-grasschwindling)  
+29.08.2025: [Meripilus giganteus - Riesenporling](/pilze/meripilus-giganteus-riesenporling)\
 28.08.2025: [Macrolepiota procera - Großer Riesenschirmling](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)\
 27.08.2025: [Baeomyces rufus - Braune Köpfchenflechte](/pilze/baeomyces-rufus-braune-köpfchenflechte)\
 26.08.2025: [Suillus variegatus - Sandröhrling](/pilze/suillus-variegatus-sandröhrling)\
