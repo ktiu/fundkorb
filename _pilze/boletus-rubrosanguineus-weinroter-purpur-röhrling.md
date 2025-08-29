@@ -18,7 +18,7 @@ literatur:
   - text: "German J. Krieglsteiner (Hrsg): Die Großpilze Baden-Württembergs Band 2,
       Seite 219 – 221"
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/boletus_rubrosanguineus_01_gsch.jpg" %}
 {% include abbildung_ende.html legende="15.08.2025 bei Nattheim, Landkreis Heidenheim, Baden-Württemberg (alle Fotos dieser Seite von Georg Schabel)" %}
 
