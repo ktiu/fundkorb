@@ -23,6 +23,14 @@ Es hat geregnet! Damit könnten die Bedingungen für Pilzwachstum und für eine 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_curreyi_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.08.2025: Die Gattung Schwindlinge besteht überwiegend aus kleinen dünnfleischigen Pilzen. Auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Grasschwindling *Marasmius curreyi*, erreicht kaum einmal mehr als 1 cm Hutdurchmesser. Von oben betrachtet erinnern die faltig gefurchten Hütchen an winzige Fallschirmchen. Durch ihr Vorkommen an Gras sind sie schon recht gut gekennzeichnet. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-curreyi-grasschwindling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/meripilus_giganteus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,22 +67,6 @@ Es hat geregnet! Damit könnten die Bedingungen für Pilzwachstum und für eine 
 {% include abbildung_ende.html %}
 
 25.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der durch seine schöne violette Farbe auffällt. Der Violette Schichtpilz *Chondrostereum purpureum* ist ganzjährig an Laubhölzern zu finden, mit Abstand am häufigsten an Rotbuche. In unserer Dietzenbacher Parkanlage wächst er wie schon seit einigen Jahren am Stammgrund einer noch lebenden Birke. Das hier gezeigte Foto stammt von einem Stapel lagernder Buchenstämme. (Dieter Gewalt) [Mehr lesen >](/pilze/chondrostereum-purpureum-violetter-schichtpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/graphis_scripta_03_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-24.08.2025: [Flechten](/verwandt/flechten) können monatelange Trockenheit schadlos überstehen. Zu den wenigen, die recht gut optisch zu bestimmen sind, gehört die Schriftflechte *Graphis scripta*. Um diesen aktuellen [Fundkorbpilz](AA "Glossar-") zu erkennen, muss man ihn allerdings mit einer Lupe betrachten. Die strichförmigen, oft geschlängelten und verzweigten im [Thallus](Thallus "Glossar") eingesenkten [Apothecien](Apothecien "Glossar") erinnern tatsächlich an geheimnisvolle Schriftzeichen oder Runen. Man findet sie auf der Rinde von Laubbäumen. (Dieter Gewalt) [Mehr lesen >](/pilze/graphis-scripta-schriftflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_amoenolens_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Camembert-Täubling *Russula amoenolens*, der zu den Kammtäublingen mit kammartig gerieftem Hutrand zählt (also *„Kammembert“*). Er wächst unter Eichen und duftet herrlich nach Camembert, ist im Geschmack jedoch brennend scharf, und somit nicht für die Küche geeignet. (Cinzia Gaspari) [Mehr lesen >](/pilze/russula-amoenolens-camembert-täubling) 
 
 <div style="clear:  both"></div>
 
