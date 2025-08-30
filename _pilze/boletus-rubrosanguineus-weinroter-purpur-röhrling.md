@@ -39,4 +39,4 @@ Mikromerkmale:\
 Basidien 25 – 40 x 9 – 14 µm. Sporen spindelig, 12 – 18 x 4,5 – 6,5 µm. Zystiden bis 50 µm lang, flaschenförmig bis bauchig-spindelig. Hutdeckschicht jung mit aufgerichteten Hyphenenden (optisch an der feinsamtigen Huthaut erkennbar), die bald flach liegen und die Huthaut glatt erscheinen lassen.
 
 Verbreitung:\
-Der Weinrote Purpur-Röhrling kommt in Buchenwäldern, seltener auch bei Fichten und Tannen auf kalkhaltigen Böden vor, im Norden und in der Mitte Deutschlands fehlend oder sehr selten, lediglich im Süden Bayerns etwas häufiger. *Frank Röger* nennt auch Funde aus der Kalkeifel sowie dem Schöbuch in Baden-Württemberg. In Roten Listen wird er trotz seiner Seltenheit als ungefährdete Art geführt.
+Der Weinrote Purpur-Röhrling kommt in Buchenwäldern, seltener auch bei Fichten und Tannen auf kalkhaltigen Böden vor, im Norden und in der Mitte Deutschlands fehlend oder sehr selten, lediglich im Süden Bayerns etwas häufiger. *Frank Röger* nennt auch Funde aus der Kalkeifel sowie dem Schönbuch in Baden-Württemberg. In Roten Listen wird er trotz seiner Seltenheit als ungefährdete Art geführt.
