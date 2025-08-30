@@ -30,6 +30,8 @@ Es hat geregnet! Damit könnten die Bedingungen für Pilzwachstum und für eine 
 
 [Mehr lesen >](/pilze/sparassis-crispa-krause-glucke)
 
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_curreyi_03_dg.jpg" %}
 {% include abbildung_ende.html %}
