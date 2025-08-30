@@ -23,6 +23,14 @@ Es hat geregnet! Damit könnten die Bedingungen für Pilzwachstum und für eine 
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sparassis_crispa_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist die bei vielen Pilzfreunden äußerst beliebte Krause Glucke *Sparassis crispa*, die in diesem Jahr schon früh erschienen ist. Sie wird nicht nur wegen ihres Geschmacks geschätzt, sondern auch weil sie nahezu unverwechselbar ist. Zu finden ist sie fast ausschließlich am Stammgrund von Kiefern oder an deren Stümpfen. Forstwirte sehen sie weniger gern, denn die *Fette Henne*, wie sie auch genannt wird, ist ein Schwächeparasit, der befallene Bäume schädigt. (Dieter Gewalt)
+
+[Mehr lesen >](/pilze/sparassis-crispa-krause-glucke)
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_curreyi_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
