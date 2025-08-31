@@ -12,15 +12,13 @@ footer_scripts:
 
 - - -
 
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/fgr.-foto-1_01_dg.jpg" %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ischnoderma_resinosum_02_fk.jpg" %}
 {% include abbildung_ende.html %}
 
-<div style="clear:  both"></div>
+01.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein guter Bekannter, den wir regelmäßig im Steinberger Wald bei Dietzenbach begrüßen dürfen: Der Laubholz-Harzporling *Ischnoderma resinosum* ist zwar eine einjährige Art, aber an unserem liegenden Buchenstamm im Optimalstadium entwickeln sich bereits junge Nachkömmlinge während die ältesten Exemplare am Vergehen sind. Hermann Jahn hielt ihn noch für eine in Europa sehr seltene Art. In der Rhein-Main-Ebene ist er (wie in nahezu ganz Deutschland) längst keine Rarität mehr. (Dieter Gewalt) [Mehr lesen >](/pilze/ischnoderma-resinosum-laubholz-harzporling)
 
-Es hat geregnet! Damit könnten die Bedingungen für Pilzwachstum und für eine pilzkundliche Exkursion im Rhein-Main-Gebiet erfüllt sein. Hier geht's zur [Anmeldung >](/termine) 
-
-- - -
+<div style="clear:  both"></div> 
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/sparassis_crispa_03_dg.jpg" %}
@@ -61,22 +59,6 @@ Es hat geregnet! Damit könnten die Bedingungen für Pilzwachstum und für eine 
 {% include abbildung_ende.html %}
 
 27.08.2025: Bei der Braunen Köpfchenflechte *Baeomyces rufus*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"), erscheinen die [Apothecien](Apothecien "Glossar") auf einem grünlich grauen, bei Feuchtkeit hellgrünen [Thallus](Thallus "Glossar"). Die Köpfchen dieser interessanten [Flechte](/verwandt/flechten) müssen nicht unbedingt braun sein. Sie sitzen auf einem weißlichen Stielchen, sind meistens schön rosa gefärbt und erreichen bis zu 2 mm Durchmesser. Am besten betrachtetet man sie mit einer gut vergrößernden Lupe. (Dieter Gewalt) [Mehr lesen >](/pilze/baeomyces-rufus-braune-köpfchenflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/suillus_variegatus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.08.2025: Bin zur Zeit im Südwesten von Norwegen in der Provinz Vestland unterwegs. Tolle Fjordlandschaft! In der Nähe des Gudbrandsjuvet, einem tosenden Fluss mit Aussichtsplattform, habe ich in einem Fichtenwald mit eingestreuten Kiefern den Sandröhrling (*Suillus variegatus*) entdeckt, den ich als aktuellen [Fundkorbpilz](AA "Glossar-") melden möchte. Er gehört zu den leicht kenntlichen Röhrlingsarten, Irrtum daher ausgeschlossen. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/suillus-variegatus-sandröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chondrostereum_purpureum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist einer, der durch seine schöne violette Farbe auffällt. Der Violette Schichtpilz *Chondrostereum purpureum* ist ganzjährig an Laubhölzern zu finden, mit Abstand am häufigsten an Rotbuche. In unserer Dietzenbacher Parkanlage wächst er wie schon seit einigen Jahren am Stammgrund einer noch lebenden Birke. Das hier gezeigte Foto stammt von einem Stapel lagernder Buchenstämme. (Dieter Gewalt) [Mehr lesen >](/pilze/chondrostereum-purpureum-violetter-schichtpilz)
 
 <div style="clear:  both"></div>
 
