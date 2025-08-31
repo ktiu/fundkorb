@@ -3,7 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-31.08.2025: [Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)  
+01.09.2025: [Ischnoderma resinosum - Laubholz-Harzporling](/pilze/ischnoderma-resinosum-laubholz-harzporling)
+
+31.08.2025: [Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)\
 30.08.2025: [Marasmius curreyi - Grasschwindling](/pilze/marasmius-curreyi-grasschwindling)\
 29.08.2025: [Meripilus giganteus - Riesenporling](/pilze/meripilus-giganteus-riesenporling)\
 28.08.2025: [Macrolepiota procera - Großer Riesenschirmling](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)\
