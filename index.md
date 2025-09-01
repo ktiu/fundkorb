@@ -13,6 +13,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/crucibulum_laeve_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+02.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tiegelteuerling *Crucibulum laeve*. Seine Fruchtkörper bestehen aus  tönnchen- oder schüsselförmigen Behältnissen, in denen linsen- oder münzenförmige Gebilde von etwa 1 mm Größe liegen. Aus ihrer Anzahl glaubten unsere abergläubischen Vorfahren, Schlüsse auf Wohlstand oder Notzeiten schließen zu können. Je weniger dieser [Peridiolen ](<Peridiole "Glossar">)es waren, desto schlechtere Zeiten standen bevor. (Dieter Gewalt) [Mehr lesen >](/pilze/crucibulum-laeve-tiegelteuerling)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ischnoderma_resinosum_02_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -51,14 +59,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 28.08.2025: Fast 25 cm Hutdurchmesser - ein imposantes Exemplar stand da direkt am Wegrand im Gras. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Riesenschirmling *Macrolepiota procera* oder Parasol, macht seinem Namen alle Ehre: *„para“* (gegen) und *„sol“* (Sonne) - ein Sonnenschirm. Durch seine stattliche Größe, dem beweglichen Ring und dem genatterten langen Stiel ist er unverwechselbar. Für ein leckeres Pilzschnitzel kam er trotzdem nicht mehr in Frage - teilweise vertrocknet hatte er sein bestes Alter bereits überschritten und seine Sporen wie Mehl um sich verbreitet. (Ulrike Wegner) [Mehr lesen >](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/baeomyces_rufus_02_bhay.jpg" %}
-{% include abbildung_ende.html %}
-
-27.08.2025: Bei der Braunen Köpfchenflechte *Baeomyces rufus*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"), erscheinen die [Apothecien](Apothecien "Glossar") auf einem grünlich grauen, bei Feuchtkeit hellgrünen [Thallus](Thallus "Glossar"). Die Köpfchen dieser interessanten [Flechte](/verwandt/flechten) müssen nicht unbedingt braun sein. Sie sitzen auf einem weißlichen Stielchen, sind meistens schön rosa gefärbt und erreichen bis zu 2 mm Durchmesser. Am besten betrachtetet man sie mit einer gut vergrößernden Lupe. (Dieter Gewalt) [Mehr lesen >](/pilze/baeomyces-rufus-braune-köpfchenflechte)
 
 <div style="clear:  both"></div>
 
