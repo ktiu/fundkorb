@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+02.09.2025: [Crucibulum laeve - Tiegelteuerling](/pilze/crucibulum-laeve-tiegelteuerling)  
 01.09.2025: [Ischnoderma resinosum - Laubholz-Harzporling](/pilze/ischnoderma-resinosum-laubholz-harzporling)
 
 31.08.2025: [Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)\
