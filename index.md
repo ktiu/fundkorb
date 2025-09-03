@@ -13,6 +13,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_robustus_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+04.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Feuerschwamm *Phellinus robustus*. Er gehört zur Familie der Borstenscheiblingsverwandten mit brauner Trama. Seine mehrjährigen Fruchtkörper sitzen meist zu mehreren auf der Rinde von Eichen, selten auch anderer Laubbaumarten. Seine [Myzelien](Myzel "Glossar") verursachen eine Weißfäule, wobei sie sowohl das Splint- und Kernholz wie auch das Kambium schädigen. Wie sich die Eiche erfolgreich gegen den Schmarotzer wehrt, beschreibt Bernd Miggel [hier >](/pilze/phellinus-robustus-eichen-feuerschwamm)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/volvariella_hypopithys_02_uw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -51,22 +59,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 30.08.2025: Die Gattung Schwindlinge besteht überwiegend aus kleinen dünnfleischigen Pilzen. Auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Grasschwindling *Marasmius curreyi*, erreicht kaum einmal mehr als 1 cm Hutdurchmesser. Von oben betrachtet erinnern die faltig gefurchten Hütchen an winzige Fallschirmchen. Durch ihr Vorkommen an Gras sind sie schon recht gut gekennzeichnet. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-curreyi-grasschwindling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/meripilus_giganteus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") Aktueller Fundkorbpilz ist der Riesenporling *Meripilus giganteus.* Er ist ein wahrer Gigant unter den heimischen Pilzen. Wenn er rund um einen mächtigen Baumstumpf wächst und auch noch in Form von Ausläufern in seine Umgebung streut, kann er schon mal zwei Quadratmeter Fläche einnehmen. Was dabei an Pilzmasse zusammenkommt, kann einen Zentner wiegen. Allein diese schiere Größe ist schon ein gutes Bestimmungsmerkmal. So lange er jung und zart ist, kann man ihn sogar essen.  (Dieter Gewalt) [Mehr lesen >](/pilze/meripilus-giganteus-riesenporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/macrolepiota_procera_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.08.2025: Fast 25 cm Hutdurchmesser - ein imposantes Exemplar stand da direkt am Wegrand im Gras. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Riesenschirmling *Macrolepiota procera* oder Parasol, macht seinem Namen alle Ehre: *„para“* (gegen) und *„sol“* (Sonne) - ein Sonnenschirm. Durch seine stattliche Größe, dem beweglichen Ring und dem genatterten langen Stiel ist er unverwechselbar. Für ein leckeres Pilzschnitzel kam er trotzdem nicht mehr in Frage - teilweise vertrocknet hatte er sein bestes Alter bereits überschritten und seine Sporen wie Mehl um sich verbreitet. (Ulrike Wegner) [Mehr lesen >](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)
 
 <div style="clear:  both"></div>
 
