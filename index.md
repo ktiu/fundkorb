@@ -13,6 +13,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+05.09.2025: Ab und zu soll auch eine Flechte aktueller [Fundkorbpilz](AA "Glossar-") sein. Nicht jedem ist klar, dass es sich bei diesen beeindruckenden Organismen um Pilze handelt. Vor allem in Streuobstwiesen kann man auf der Baumrinde die Helle Kuchenflechte *Lecanora chlarotera* finden. Die runden Tellerchen sind die sogenannten [Apothezien](Apothecien "Glossar"), in denen die Pilzsporen gebildet werden. Sie haben Durchmesser von 1 – 15 mm und sind auf der beigefügten Abbildung stark vergrößert zu sehen. (Dieter Gewalt) [Mehr lesen >](/pilze/lecanora-chlarotera-helle-kuchenflechte)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_robustus_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -57,10 +65,6 @@ footer_scripts:
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_curreyi_03_dg.jpg" %}
 {% include abbildung_ende.html %}
-
-30.08.2025: Die Gattung Schwindlinge besteht überwiegend aus kleinen dünnfleischigen Pilzen. Auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Grasschwindling *Marasmius curreyi*, erreicht kaum einmal mehr als 1 cm Hutdurchmesser. Von oben betrachtet erinnern die faltig gefurchten Hütchen an winzige Fallschirmchen. Durch ihr Vorkommen an Gras sind sie schon recht gut gekennzeichnet. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-curreyi-grasschwindling)
-
-<div style="clear:  both"></div>
 
 - - -
 
