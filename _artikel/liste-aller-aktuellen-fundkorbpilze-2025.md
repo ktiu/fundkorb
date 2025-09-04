@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-04.09.2025: [Phellinus robustus - Eichen-Feuerschwamm](/pilze/phellinus-robustus-eichen-feuerschwamm)  
+05.09.2025: [Lecanora chlarotera - Helle Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte)  
+04.09.2025: [Phellinus robustus - Eichen-Feuerschwamm](/pilze/phellinus-robustus-eichen-feuerschwamm)\
 03.09.2025: [Volvariella hypopithys - Flaumiger Scheidling](/pilze/volvariella-hypopithys-flaumiger-scheidling)\
 02.09.2025: [Crucibulum laeve - Tiegelteuerling](/pilze/crucibulum-laeve-tiegelteuerling)\
 01.09.2025: [Ischnoderma resinosum - Laubholz-Harzporling](/pilze/ischnoderma-resinosum-laubholz-harzporling)
