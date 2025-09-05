@@ -13,6 +13,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_quercina_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Zystidenrindenpilz *Peniophora quercina*. Er entsteht auf der Rinde von noch am Baum befindlichen abgestorbenen Ästen aus kleineren Flecken, die sich bald zu ausgedehnten Flächen vereinigen. In frischem Zustand sind sie violett-rosa und aufgequollen, trocken grau und rissig. Der Pilz ist sehr häufig und kaum eine Eiche dürfte von ihm verschont bleiben. Da er nur tote Äste und Zweige befällt, richtet er keinen Schaden an. (Dieter Gewalt) [Mehr lesen >](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
