@@ -13,6 +13,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ustilago_maydis_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maisbeulenbrand *Ustilago maydis*. Um ihn kennenzulernen, braucht man nur mal ab Anfang September beim Vorbeifahren an einem Maisfeld anzuhalten. Meist muss man dann nicht lange suchen, um einen Kolben mit auffälligen Wucherungen zu entdecken. Sie sehen aus wie ein Krebsgeschwür, aber es handelt sich um einen parasitischen Brandpilz, der seine Wirtspflanze schädigt. Für Mensch und Tier ist er ungefährlich. In manchen Ländern wird er sogar gegessen oder als homöopathisches Heilmittel verwendet. (Dieter Gewalt) [Mehr lesen >](/pilze/ustilago-maydis-maisbeulenbrand)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peniophora_quercina_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -51,24 +59,6 @@ footer_scripts:
 02.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tiegelteuerling *Crucibulum laeve*. Seine Fruchtkörper bestehen aus  tönnchen- oder schüsselförmigen Behältnissen, in denen linsen- oder münzenförmige Gebilde von etwa 1 mm Größe liegen. Aus ihrer Anzahl glaubten unsere abergläubischen Vorfahren, Schlüsse auf Wohlstand oder Notzeiten schließen zu können. Je weniger dieser [Peridiolen ](<Peridiole "Glossar">)es waren, desto schlechtere Zeiten standen bevor. (Dieter Gewalt) [Mehr lesen >](/pilze/crucibulum-laeve-tiegelteuerling)
 
 <div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ischnoderma_resinosum_02_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-01.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein guter Bekannter, den wir regelmäßig im Steinberger Wald bei Dietzenbach begrüßen dürfen: Der Laubholz-Harzporling *Ischnoderma resinosum* ist zwar eine einjährige Art, aber an unserem liegenden Buchenstamm im Optimalstadium entwickeln sich bereits junge Nachkömmlinge während die ältesten Exemplare am Vergehen sind. Hermann Jahn hielt ihn noch für eine in Europa sehr seltene Art. In der Rhein-Main-Ebene ist er (wie in nahezu ganz Deutschland) längst keine Rarität mehr. (Dieter Gewalt) [Mehr lesen >](/pilze/ischnoderma-resinosum-laubholz-harzporling)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/sparassis_crispa_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.08.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist die bei vielen Pilzfreunden äußerst beliebte Krause Glucke *Sparassis crispa*, die in diesem Jahr schon früh erschienen ist. Sie wird nicht nur wegen ihres Geschmacks geschätzt, sondern auch weil sie nahezu unverwechselbar ist. Zu finden ist sie fast ausschließlich am Stammgrund von Kiefern oder an deren Stümpfen. Forstwirte sehen sie weniger gern, denn die *Fette Henne*, wie sie auch genannt wird, ist ein Schwächeparasit, der befallene Bäume schädigt. (Dieter Gewalt)
-
-[Mehr lesen >](/pilze/sparassis-crispa-krause-glucke)
-
-<div style="clear:  both"></div>
 
 - - -
 
