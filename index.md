@@ -12,9 +12,11 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rhodocollybia_maculata_03_mhk.jpg" %}
+{% include abbildung_ende.html %}
 
-
-08.09.2025: Der Gefleckte Rübling *Rhodocollybia maculata* bevorzugt Nadelwälder auf eher sauren Böden und hier die Nähe zu Fichten. Bei ziemlich ausgetrockneten Böden an der Gänsbrüh bei Rodgau-Dudenhofen war er einer von wenigen Blätterpilzarten und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Er gehört zu den größeren und fleichigsten Arten seiner Gattung, wegen seiner Bitterkeit gilt er als ungenießbar. (Dieter Gewalt) Mehr lesen >
+08.09.2025: Der Gefleckte Rübling *Rhodocollybia maculata* bevorzugt Nadelwälder auf eher sauren Böden und hier die Nähe zu Fichten. Bei ziemlich ausgetrockneten Böden an der Gänsbrüh bei Rodgau-Dudenhofen war er einer von wenigen Blätterpilzarten und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Er gehört zu den größeren und fleichigsten Arten seiner Gattung, wegen seiner Bitterkeit gilt er als ungenießbar. (Dieter Gewalt) [Mehr lesen >](/pilze/rhodocollybia-maculata-gefleckter-rübling)
 
 <div style="clear:  both"></div> 
 
