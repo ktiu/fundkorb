@@ -12,6 +12,12 @@ footer_scripts:
 
 - - -
 
+
+
+08.09.2025: Der Gefleckte Rübling *Rhodocollybia maculata* bevorzugt Nadelwälder auf eher sauren Böden und hier die Nähe zu Fichten. Bei ziemlich ausgetrockneten Böden an der Gänsbrüh bei Rodgau-Dudenhofen war er einer von wenigen Blätterpilzarten und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Er gehört zu den größeren und fleichigsten Arten seiner Gattung, wegen seiner Bitterkeit gilt er als ungenießbar. (Dieter Gewalt) Mehr lesen >
+
+<div style="clear:  both"></div> 
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ustilago_maydis_04_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -41,22 +47,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 04.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Feuerschwamm *Phellinus robustus*. Er gehört zur Familie der Borstenscheiblingsverwandten mit brauner Trama. Seine mehrjährigen Fruchtkörper sitzen meist zu mehreren auf der Rinde von Eichen, selten auch anderer Laubbaumarten. Seine [Myzelien](Myzel "Glossar") verursachen eine Weißfäule, wobei sie sowohl das Splint- und Kernholz wie auch das Kambium schädigen. Wie sich die Eiche erfolgreich gegen den Schmarotzer wehrt, beschreibt Bernd Miggel [hier >](/pilze/phellinus-robustus-eichen-feuerschwamm)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/volvariella_hypopithys_02_uw.jpg" %}
-{% include abbildung_ende.html %}
-
-03.09.2025: Ein hübscher kleiner weißer [Saprobiont](saprobiontisch "Glossar") ist der Flaumige Scheidling *Volvariella hypopithys* und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Das [Epithet](Epithet "Glossar") *hypopithys* (unter Fichten) ist irreführend. Bei uns in der Rhein-Main-Ebene ist er eher im Laubwald zu finden. Er ist nicht gerade häufig und man muss ihn natürlich auch als solchen erkennen. In höheren Lagen bevorzugt er wohl vermoderndes oder vergrabenes Fichtenholz. (Dieter Gewalt) [Mehr lesen >](/pilze/volvariella-hypopithys-flaumiger-scheidling)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/crucibulum_laeve_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-02.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tiegelteuerling *Crucibulum laeve*. Seine Fruchtkörper bestehen aus  tönnchen- oder schüsselförmigen Behältnissen, in denen linsen- oder münzenförmige Gebilde von etwa 1 mm Größe liegen. Aus ihrer Anzahl glaubten unsere abergläubischen Vorfahren, Schlüsse auf Wohlstand oder Notzeiten schließen zu können. Je weniger dieser [Peridiolen ](<Peridiole "Glossar">)es waren, desto schlechtere Zeiten standen bevor. (Dieter Gewalt) [Mehr lesen >](/pilze/crucibulum-laeve-tiegelteuerling)
 
 <div style="clear:  both"></div> 
 
