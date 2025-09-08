@@ -133,7 +133,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Melanelixia subaurifera = Gold-Braunflechte](/pilze/melanelixia-subaurifera-gold-braunflechte)\
 [Parmelia sulcata = Sulkatflechte](/pilze/parmelia-sulcata-sulkatflechte)\
 [Parmelina tiliacea = Linden-Schüsselflechte](/pilze/parmelina-tiliacea-linden-schüsselflechte)\
-[Peltigera hymenia = Satal-Schildfechte](/pilze/peltigera-hymenia-salat-schildflechte)  
+[Peltigera hymenia = Salat-Schildfechte](/pilze/peltigera-hymenia-salat-schildflechte)  
 [Phaeophyscia orbicularis = Kreisförmige Schwielenflechte ](/pilze/phaeophyscia-orbicularis-kreisförmige-schwielenflechte)\
 [Physcia adscendens = Helm-Schwielenflechte](/pilze/physcia-adscendens-helm-schwielenflechte)\
 [Platismatia glauca = Blaugraue Tartschenflechte](/pilze/platismatia-glauca-blaugraue-tartschenflechte)\
