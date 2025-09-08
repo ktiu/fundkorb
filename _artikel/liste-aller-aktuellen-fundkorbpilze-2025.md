@@ -3,7 +3,10 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-06.09.2025: [Rhodocollybia maculata - Gefleckter Rübling](/pilze/rhodocollybia-maculata-gefleckter-rübling)  
+09.09.2025: [Tapinella atrotomentosa - Kahler Krempling](/pilze/tapinella-atrotomentosa-samtfußkrempling)  
+08.09.2025: [Ustilago maydis - Maisbeulenbrand](/pilze/ustilago-maydis-maisbeulenbrand)\
+07.09.2025: [Rhodocollybia maculata - Gefleckter Rübling](/pilze/rhodocollybia-maculata-gefleckter-rübling)\
+06.09.2025: [Peniophora quercina - Eichen-Zystiden-Rindenpilz](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)\
 05.09.2025: [Ustilago maydis - Maisbeulenbrand](/pilze/ustilago-maydis-maisbeulenbrand)\
 04.09.2025: [Peniophora quercina - Eichen-Zystidenrindenpilz](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)\
 05.09.2025: [Lecanora chlarotera - Helle Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte)\
