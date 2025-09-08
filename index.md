@@ -13,6 +13,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tapinella_atrotomentosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Samtfußkrempling *Tapinella atrotomentosa*. Da er ausschließlich an Holz wächst, ist er nicht vom Wetter abhängig und auch bei Trockenheit zu finden. Sein Wachstum an Holz ist auch der Grund, weshalb er nicht mehr zur Verwandtschaft des [Kahlen Kremplings](/pilze/paxillus-involutus-kahler-krempling) zählt und als *"Holzkrempling"* in die neue Gattung *Tapinella* gestellt wurde. Er sieht zwar sympathisch und appetitlich aus, aber sein muffiger Geschmack macht ihn leider ungenießbar. (Dieter Gewalt) [Mehr lesen >](/pilze/tapinella-atrotomentosa-samtfußkrempling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rhodocollybia_maculata_03_mhk.jpg" %}
 {% include abbildung_ende.html %}
 
