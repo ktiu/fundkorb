@@ -1,6 +1,6 @@
 ---
-aktivitaet: Der Wald und seine Pilze
-zeit: 2025-08-31T10:00:53.480Z
+aktivitaet: Der Wald und seine Pilze im September
+zeit: 2025-09-14T10:00:53.480Z
 bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
