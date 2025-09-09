@@ -12,6 +12,9 @@ footer_scripts:
 
 - - -
 
+Nächste pilzkundliche Führung im Rhein-Main-Gebiet: **Der Wald und seine Pilze im September** am Sonntag, 14.09.2025 10:00 Uhr\
+[Hier geht's zur Anmeldung >](/termine)
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tapinella_atrotomentosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
