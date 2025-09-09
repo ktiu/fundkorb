@@ -18,7 +18,7 @@ Nächste pilzkundliche Führung im Rhein-Main-Gebiet: **Der Wald und seine Pilze
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/physcia_adscendens_02_nk.jpg" %}
+{% include bild.html datei="/bilder/phaeophyscia_orbicularis_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
 10.09.2025: Flechten sind Pilze, deren Schönheit man erst mit der Lupe erkennt. Das gilt auch für die Kreisförmige Schwielenflechte *Phaeophyscia orbicularis*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Es ist eine häufige Art, die nicht nur Baumrinde besiedelt, sondern auch Steine, Mauern und sogar Metalle. Gefunden wurde sie u. a. an der Fassade des Kölner Doms im 3. Stockwerk an der Südseite des Langhauses und an der Westseite des Querhauses. Ein guter Grund, mal wieder Kölns Wahrzeichen zu besuchen. (Dieter Gewalt) [Mehr lesen >](/pilze/phaeophyscia-orbicularis-kreisförmige-schwielenflechte)
