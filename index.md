@@ -18,6 +18,14 @@ Nächste pilzkundliche Führung im Rhein-Main-Gebiet: **Der Wald und seine Pilze
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylaria_polymorpha_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.09.2025: Sie können schon ein wenig gruselig wirken, wenn man ihnen unverhofft begegnet. Die Vielgestaltige Holzkeule *Xylaria polymorpha*, der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), wird nicht umsonst auch *"dead man´s fingers"* genannt. Die reifen [Stromata](Stroma "Glossar") fühlen sich ganz hart an, aber leicht, wenn man einen *"Finger"* abbricht. Als hätte man etwas Verkohltes in den Händen, werden diese ganz schwarz vom Sporenpulver. Faszinierend ist aber der Schwarz-Weiß-Kontrast, wenn man ihn aufschneidet und das Innere des Stromas betrachtet. (Ulrike Wegner) [Mehr lesen> ](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phaeophyscia_orbicularis_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,22 +64,6 @@ Nächste pilzkundliche Führung im Rhein-Main-Gebiet: **Der Wald und seine Pilze
 06.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Zystidenrindenpilz *Peniophora quercina*. Er entsteht auf der Rinde von noch am Baum befindlichen abgestorbenen Ästen aus kleineren Flecken, die sich bald zu ausgedehnten Flächen vereinigen. In frischem Zustand sind sie violett-rosa und aufgequollen, trocken grau und rissig. Der Pilz ist sehr häufig und kaum eine Eiche dürfte von ihm verschont bleiben. Da er nur tote Äste und Zweige befällt, richtet er keinen Schaden an. (Dieter Gewalt) [Mehr lesen >](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-05.09.2025: Ab und zu soll auch eine Flechte aktueller [Fundkorbpilz](AA "Glossar-") sein. Nicht jedem ist klar, dass es sich bei diesen beeindruckenden Organismen um Pilze handelt. Vor allem in Streuobstwiesen kann man auf der Baumrinde die Helle Kuchenflechte *Lecanora chlarotera* finden. Die runden Tellerchen sind die sogenannten [Apothezien](Apothecien "Glossar"), in denen die Pilzsporen gebildet werden. Sie haben Durchmesser von 1 – 15 mm und sind auf der beigefügten Abbildung stark vergrößert zu sehen. (Dieter Gewalt) [Mehr lesen >](/pilze/lecanora-chlarotera-helle-kuchenflechte)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_robustus_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-04.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Feuerschwamm *Phellinus robustus*. Er gehört zur Familie der Borstenscheiblingsverwandten mit brauner Trama. Seine mehrjährigen Fruchtkörper sitzen meist zu mehreren auf der Rinde von Eichen, selten auch anderer Laubbaumarten. Seine [Myzelien](Myzel "Glossar") verursachen eine Weißfäule, wobei sie sowohl das Splint- und Kernholz wie auch das Kambium schädigen. Wie sich die Eiche erfolgreich gegen den Schmarotzer wehrt, beschreibt Bernd Miggel [hier >](/pilze/phellinus-robustus-eichen-feuerschwamm)
-
-<div style="clear:  both"></div> 
 
 - - -
 
