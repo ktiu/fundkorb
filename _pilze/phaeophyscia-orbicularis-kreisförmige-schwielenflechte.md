@@ -44,7 +44,7 @@ Makrochemische Farbreaktion: [Lager](Lager "Glossar") mit Kalilauge (KOH) grünl
 {% include bild.html datei="/bilder/phaeophyscia_orbicularis_04_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Phaeophyscia orbicularis auf Baumrinde -- stark vergrößert" %}
 
-Die Kreisförmige Schwielenflechte gilt als toxitolerant, kommt also auch häufig in städtischen Bereichen vor wie zum Beispiel am Kölner Dom.
+Die Kreisförmige Schwielenflechte gilt als toxitolerant, kommt also auch häufig in städtischen Bereichen vor wie zum Beispiel am Kölner Dom, an dessen Fassaden 32 verschiedene Flechtenarten nachgewiesen sind.
 
 Ähnliche Flechtenarten:\
 Die Rotmarkige Schwielenflechte (*Phaeophyscia endophoenicea*) besitzt keine Flecksorale, sondern randständige Lippensorale; das Mark ist orangerot und reagiert mit KOH rotviolett.\
