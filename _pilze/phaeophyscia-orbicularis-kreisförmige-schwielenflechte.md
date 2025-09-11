@@ -27,6 +27,7 @@ literatur:
   - url: https://britishlichensociety.org.uk/sites/default/files/Phaeophyscia%20orbicularis.pdf
   - url: http://www.norbert-kuehnberger.de/pilzbildergalerie/D_Flechten-Lichenes_-_226_Arten/index.htm
   - url: https://italic.units.it/index.php?procedure=taxonpage&num=1705
+  - text: "Frank Bungartz: Die Flechten des Kölner Doms"
 ---
 Die Kreisförmige Schwielenflechte (*Phaeophyscia orbicularis*) ist eine in Deutschland weit verbreitete, ungefährdete Blattflechte. Im trockenen Zustand unscheinbar grau, nimmt sie im angefeuchteten Zustand eine eindrucksvolle, grüne Farbe an. Ungestört wächst sie anfangs in Form kreisrunder Rosetten, die später zu größeren Arealen zusammenwachsen können. Bevorzugtes Substrat sind freistehende Laubbäume mit basischer oder staubimprägnierter Rinde oder auch kalkhaltige Gesteine, sogar anthropogene Substrate wie Mauern, Dachziegel, etc.
 
