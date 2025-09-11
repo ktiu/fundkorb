@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-11.09.2025: [Xylaria polymorpha - Vielgestaltige Holzkeule](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)  
+12.09.2025: [Russula ochroleuca - Ockertäubling](/pilze/russula-ochroleuca-ockertäubling)  
+11.09.2025: [Xylaria polymorpha - Vielgestaltige Holzkeule](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)\
 10.09.2025: [Phaeophyscia orbicularis - Kreisförmige Schwielenflechte](/pilze/phaeophyscia-orbicularis-kreisförmige-schwielenflechte)\
 09.09.2025: [Tapinella atrotomentosa - Kahler Krempling](/pilze/tapinella-atrotomentosa-samtfußkrempling)\
 08.09.2025: [Ustilago maydis - Maisbeulenbrand](/pilze/ustilago-maydis-maisbeulenbrand)\
