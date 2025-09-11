@@ -18,6 +18,14 @@ Nächste pilzkundliche Führung im Rhein-Main-Gebiet: **Der Wald und seine Pilze
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_ochroleuca_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.09.2025: Der Ockertäubling *Russula ochroleuca* dürfte der häufigste Täubling in Mitteleuropa sein, auch wenn er in den beiden letzten Jahren zumindest in der Rhein-Main-Ebene ziemlich rar gewesen ist. Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt sowohl in Laub- wie Nadelwäldern vor und bevorzugt saure Böden. Seine gelb-ockerlichen bis zitronengelben Hutfarben sind recht variabel, sodass er leicht mit anderen ähnlich gefärbten Täublingen verwechselt werden kann. Für Speisezwecke ist er nicht unbedingt zu empfehlen. (Dieter Gewalt) [Mehr lesen>](/pilze/russula-ochroleuca-ockertäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_polymorpha_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,14 +64,6 @@ Nächste pilzkundliche Führung im Rhein-Main-Gebiet: **Der Wald und seine Pilze
 07.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maisbeulenbrand *Ustilago maydis*. Um ihn kennenzulernen, braucht man nur mal ab Anfang September beim Vorbeifahren an einem Maisfeld anzuhalten. Meist muss man dann nicht lange suchen, um einen Kolben mit auffälligen Wucherungen zu entdecken. Sie sehen aus wie ein Krebsgeschwür, aber es handelt sich um einen parasitischen Brandpilz, der seine Wirtspflanze schädigt. Für Mensch und Tier ist er ungefährlich. In manchen Ländern wird er sogar gegessen oder als homöopathisches Heilmittel verwendet. (Dieter Gewalt) [Mehr lesen >](/pilze/ustilago-maydis-maisbeulenbrand)
 
 <div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_quercina_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Zystidenrindenpilz *Peniophora quercina*. Er entsteht auf der Rinde von noch am Baum befindlichen abgestorbenen Ästen aus kleineren Flecken, die sich bald zu ausgedehnten Flächen vereinigen. In frischem Zustand sind sie violett-rosa und aufgequollen, trocken grau und rissig. Der Pilz ist sehr häufig und kaum eine Eiche dürfte von ihm verschont bleiben. Da er nur tote Äste und Zweige befällt, richtet er keinen Schaden an. (Dieter Gewalt) [Mehr lesen >](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
 
 - - -
 
