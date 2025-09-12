@@ -18,6 +18,14 @@ Nächste pilzkundliche Führung im Rhein-Main-Gebiet: **Der Wald und seine Pilze
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_terreum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.09.2025: Durchaus schmackhaft und für die Küche geeignet ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gemeine Erdritterling *Tricholoma terreum* – auch wenn *123pilze* ihn als *„tödlich giftig“* brandmarken. Man sollte ihn aber von einigen ähnlichen Verwandten unterscheiden können. Er sollte zum Beispiel bei Kiefern vorkommen, weder ranzig noch mehlig riechen, nicht scharf schmecken und kein gelblich oder rötlich verfärbendes Fleisch haben. (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-terreum-gemeiner-erdritterling)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_ochroleuca_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -48,22 +56,6 @@ Nächste pilzkundliche Führung im Rhein-Main-Gebiet: **Der Wald und seine Pilze
 09.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Samtfußkrempling *Tapinella atrotomentosa*. Da er ausschließlich an Holz wächst, ist er nicht vom Wetter abhängig und auch bei Trockenheit zu finden. Sein Wachstum an Holz ist auch der Grund, weshalb er nicht mehr zur Verwandtschaft des [Kahlen Kremplings](/pilze/paxillus-involutus-kahler-krempling) zählt und als *"Holzkrempling"* in die neue Gattung *Tapinella* gestellt wurde. Er sieht zwar sympathisch und appetitlich aus, aber sein muffiger Geschmack macht ihn leider ungenießbar. (Dieter Gewalt) [Mehr lesen >](/pilze/tapinella-atrotomentosa-samtfußkrempling)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rhodocollybia_maculata_03_mhk.jpg" %}
-{% include abbildung_ende.html %}
-
-08.09.2025: Der Gefleckte Rübling *Rhodocollybia maculata* bevorzugt Nadelwälder auf eher sauren Böden und hier die Nähe zu Fichten. Bei ziemlich ausgetrockneten Böden an der Gänsbrüh bei Rodgau-Dudenhofen war er einer von wenigen Blätterpilzarten und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Er gehört zu den größeren und fleichigsten Arten seiner Gattung, wegen seiner Bitterkeit gilt er als ungenießbar. (Dieter Gewalt) [Mehr lesen >](/pilze/rhodocollybia-maculata-gefleckter-rübling)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ustilago_maydis_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Maisbeulenbrand *Ustilago maydis*. Um ihn kennenzulernen, braucht man nur mal ab Anfang September beim Vorbeifahren an einem Maisfeld anzuhalten. Meist muss man dann nicht lange suchen, um einen Kolben mit auffälligen Wucherungen zu entdecken. Sie sehen aus wie ein Krebsgeschwür, aber es handelt sich um einen parasitischen Brandpilz, der seine Wirtspflanze schädigt. Für Mensch und Tier ist er ungefährlich. In manchen Ländern wird er sogar gegessen oder als homöopathisches Heilmittel verwendet. (Dieter Gewalt) [Mehr lesen >](/pilze/ustilago-maydis-maisbeulenbrand)
-
-<div style="clear:  both"></div> 
 
 - - -
 
