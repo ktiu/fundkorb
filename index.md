@@ -18,6 +18,14 @@ Nächste pilzkundliche Führung im Rhein-Main-Gebiet: **Der Wald und seine Pilze
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_crocea_09_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.09.2025: Unser Dietzenbacher Carré liefert immer wieder aktuelle [Fundkorbpilze](AA "Glossar-"). Heute ist es der Orangegelbe Scheidenstreifling *Amanita crocea*, einer der prächtigsten und stämmigsten in der Untergattung *Amanitopsis*. In der Nähe eines Kinderspielplatzes hat er bei einigen Birken seinen seit Jahren zuverlässigen Wuchsort und [Mykorrhizapartner](Mykorrhiza "Glossar") gefunden. Er ist essbar, aber wie auch die anderen Scheidenstreiflinge bestimmt keine Delikatesse. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-crocea-orangegelber-scheidenstreifling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_terreum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
