@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-Nächste pilzkundliche Führung im Rhein-Main-Gebiet: **Der Wald und seine Pilze im September** am Sonntag, 14.09.2025 10:00 Uhr\
+**Pilzkundliche Führung für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 21.09.2025 10:00 Uhr\
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
