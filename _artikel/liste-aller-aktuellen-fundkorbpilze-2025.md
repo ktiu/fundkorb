@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-14.09.2025: [Amanita crocea - Orangegelber Scheidenstreifling](/pilze/amanita-crocea-orangegelber-scheidenstreifling)  
+15.09.2025: [Xerocomus cisalpinus - Starkblauernder Rotfußröhrling](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)  
+14.09.2025: [Amanita crocea - Orangegelber Scheidenstreifling](/pilze/amanita-crocea-orangegelber-scheidenstreifling)\
 13.09.2025: [Tricholoma terreum - Gemeiner Erdritterling](/pilze/tricholoma-terreum-gemeiner-erdritterling)\
 12.09.2025: [Russula ochroleuca - Ockertäubling](/pilze/russula-ochroleuca-ockertäubling)\
 11.09.2025: [Xylaria polymorpha - Vielgestaltige Holzkeule](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)\
