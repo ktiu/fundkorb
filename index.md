@@ -18,6 +18,14 @@ Nächste pilzkundliche Führung im Rhein-Main-Gebiet: **Der Wald und seine Pilze
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_cisalpinus_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+15.09.2025: Früher gab es mal einen ziemlich variablen Rotfüßröhrling, der in fast jedem Sammelkorb zu finden war. Inzwischen ist er in mehrere neue Arten aufgesplittet worden, darunter unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Starkblauenden Rotfußröhrling *Xerocomus cisalpinus*. Der ist an seinem stark blauenden Fleisch in der Stielbasis eigentlich gut von den anderen zu unterscheiden, schmeckt aber auch nicht besser als diese. (Dieter Gewalt) [Mehr lesen>](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_crocea_09_dg.jpg" %}
 {% include abbildung_ende.html %}
 
