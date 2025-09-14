@@ -32,4 +32,6 @@ Gekennzeichnet ist *Xerocomus cisalpinus* vor allem durch seine [Tramafarbe](Tra
 
 Der *Gemeine Rotfußröhrling* hat durchgängig gelbliches Fleisch, das höchstens sehr schwach und langsam blaut; seine Huthaut reißt oft eher großfelderig auf. Der *Herbstrotfuß* unterscheidet sich durch sattgelbe Trama und kaum aufreißende, typisch runzelige Huthaut. Nicht selten kommen aber Kollektionen vor, die sorgfältig mikroskopiert werden müssen. Die Kombination aus stark inkrustierten, relativ schlanken Huthauthyphen und gestreiften, ziemlich kleinen Sporen zeichnet *Xerocomus cisalpinus* aus und hilft bei der Abgrenzung gegen ähnliche Arten.
 
-Anmerkung von Dieter Gewalt: Das Epithet *cisalpinus* müsste eigentlich in der Bedeutung „beidseits der Alpen“ verstanden werden. Diesseits ist jeweils vom Standort des Betrachters abhängig, der sich südlich oder nördlich der Alpen aufhalten kann. Die Rotfußröhrlinge werden inzwischen in der neuen erschaffenen Gattung *Xerocomellus* geführt.
+- - -
+
+Anmerkung von Dieter Gewalt: Das Epithet *cisalpinus* müsste eigentlich in der Bedeutung „beidseits der Alpen“ verstanden werden. Diesseits ist jeweils vom Standort des Betrachters abhängig, der sich südlich oder nördlich der Alpen aufhalten kann. Die Rotfußröhrlinge werden inzwischen in der neu erschaffenen Gattung *Xerocomellus* geführt.
