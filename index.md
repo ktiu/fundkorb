@@ -17,8 +17,10 @@ footer_scripts:
 
 - - -
 
+16.09.2025: Zu den wenigen Röhrlingen, die einen Ring am Stiel haben, gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Butter-Röhrling *Suillus luteus*. Man findet ihn in der Nähe von Kiefern, mit denen er eine [Mykorrhiza](Mykorrhiza "Glossar") eingeht, eine Lebensgemeinschaft zum beiderseitigen Vorteil. Er ist zwar ein recht schmackhafter und viel gesammelter Speisepilz, aber nicht immer leicht von seiner unsympathischen Schleimschicht zu befreien Er wird auch Schmierling, Schmalzling, Rotzling, Pomeisl oder Pömke genannt. (Dieter Gewalt) [Mehr lesen >](/pilze/suillus-luteus-butter-röhrling)
+
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_cisalpinus_01_tl.jpg" %}
+{% include bild.html datei="/bilder/suillus_luteus_01_gg.jpg" %}
 {% include abbildung_ende.html %}
 
 15.09.2025: Früher gab es mal einen ziemlich variablen Rotfüßröhrling, der in fast jedem Sammelkorb zu finden war. Inzwischen ist er in mehrere neue Arten aufgesplittet worden, darunter unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Starkblauenden Rotfußröhrling *Xerocomus cisalpinus*. Der ist an seinem stark blauenden Fleisch in der Stielbasis eigentlich gut von den anderen zu unterscheiden, schmeckt aber auch nicht besser als diese. (Dieter Gewalt) [Mehr lesen>](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)
@@ -54,22 +56,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 11.09.2025: Sie können schon ein wenig gruselig wirken, wenn man ihnen unverhofft begegnet. Die Vielgestaltige Holzkeule *Xylaria polymorpha*, der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), wird nicht umsonst auch *"dead man´s fingers"* genannt. Die reifen [Stromata](Stroma "Glossar") fühlen sich ganz hart an, aber leicht, wenn man einen *"Finger"* abbricht. Als hätte man etwas Verkohltes in den Händen, werden diese ganz schwarz vom Sporenpulver. Faszinierend ist aber der Schwarz-Weiß-Kontrast, wenn man ihn aufschneidet und das Innere des Stromas betrachtet. (Ulrike Wegner) [Mehr lesen> ](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phaeophyscia_orbicularis_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-10.09.2025: Flechten sind Pilze, deren Schönheit man erst mit der Lupe erkennt. Das gilt auch für die Kreisförmige Schwielenflechte *Phaeophyscia orbicularis*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Es ist eine häufige Art, die nicht nur Baumrinde besiedelt, sondern auch Steine, Mauern und sogar Metalle. Gefunden wurde sie u. a. an der Fassade des Kölner Doms im 3. Stockwerk an der Südseite des Langhauses und an der Westseite des Querhauses. Ein guter Grund, mal wieder Kölns Wahrzeichen zu besuchen. (Dieter Gewalt) [Mehr lesen >](/pilze/phaeophyscia-orbicularis-kreisförmige-schwielenflechte)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tapinella_atrotomentosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Samtfußkrempling *Tapinella atrotomentosa*. Da er ausschließlich an Holz wächst, ist er nicht vom Wetter abhängig und auch bei Trockenheit zu finden. Sein Wachstum an Holz ist auch der Grund, weshalb er nicht mehr zur Verwandtschaft des [Kahlen Kremplings](/pilze/paxillus-involutus-kahler-krempling) zählt und als *"Holzkrempling"* in die neue Gattung *Tapinella* gestellt wurde. Er sieht zwar sympathisch und appetitlich aus, aber sein muffiger Geschmack macht ihn leider ungenießbar. (Dieter Gewalt) [Mehr lesen >](/pilze/tapinella-atrotomentosa-samtfußkrempling)
 
 <div style="clear:  both"></div>
 
