@@ -18,6 +18,14 @@ footer_scripts:
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/paxillus_involutus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.09.2025: Der Kahle Krempling *Paxillus involutus* ist ein häufiger, überall vorkommender Pilz, der trotz seiner Lamellen zu den Röhrlingen (*Boletales*) gehört. Roh gegessen ist unser aktueller [Fundkorbpilz](AA "Glossar-") stark giftig, aber auch gut gegart kann er im Blut die Bildung von Antikörpern verursachen, was zu einer tödlichen Antigen-Antikörper-Reaktion führen kann. Vor ca. 60 Jahren und davor galt er noch als schmackhafter Speisepilz, aber schon damals wurde dringend empfohlen, ihn nur ausreichend erhitzt zu genießen. Inzwischen darf er nicht mehr zum Verzehr freigegeben werden. (Dieter Gewalt) [Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/suillus_luteus_01_gg.jpg" %}
 {% include abbildung_ende.html %}
 
