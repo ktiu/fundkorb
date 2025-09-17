@@ -29,6 +29,14 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 **Aktueller Fundkorbpilz des Tages:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pluteus_salicinus_06_hs.jpg" %}
+{% include abbildung_ende.html %}
+
+18.09.2025: Auch wenn die sichere Bestimmung von Dachpilzen als schwierig gilt, ist unser [Fundkorbpilz](AA "Glossar-") *Pluteus salicinus* anhand seiner hell graugrünen in der leicht gebuckelten Hutmitte etwas dunkleren Farbe recht gut gekennzeichnet und wird auch Graugrüner Dachpilz genannt. Auch die schlanken hellen Stiele neigen vor allem an der Basis zu einer leichten graugrünen Verfärbung, was darauf hindeutet, dass er das halluzinogen wirkende Alkaloid *Psilocybin* enthalten könnte, allerdings in nur in sehr geringer Menge. (Dieter Gewalt) [Mehr lesen >](/pilze/pluteus-salicinus-grauer-dachpilz-graugrüner-dachpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/paxillus_involutus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
