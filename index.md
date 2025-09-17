@@ -24,7 +24,7 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr√
 
 - - -
 
-## **Aktueller Fundkorbpilz des Tages:**
+**Aktueller Fundkorbpilz des Tages:**
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/paxillus_involutus_01_dg.jpg" %}
