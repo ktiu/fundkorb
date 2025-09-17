@@ -13,7 +13,7 @@ Liebe Pilz- und Naturfreunde,
 
 die Pilzsaison hat begonnen, aber die Stadt Frankfurt hat die traditionelle, seit Jahrzehnten viel genutzte Pilzberatung aus Kostengründen gestrichen. Es soll nicht unerwähnt bleiben, dass durch die Prüfung von Sammelgut Pilzvergiftungen vermieden werden, die erhebliche Arzt- und Krankenhauskosten verursacht hätten.
 
-Damit noch im Herbst dieses Jahres die Pilzberatung durch einen geprüften Pilzsachverständigen vielleicht doch noch stattfinden kann, bitten wir um Eure Unterstützung. Jeder Euro hilft, damit Pilzsammelnde auch im Herbst 2025 eine Anlaufstelle in Frankfurt zur fachgerechten Prüfung ihrer Funde haben. [Spenden können hier überwiesen werden >](https://gofund.me/b655eab73).
+Damit im Herbst dieses Jahres die Pilzberatung durch einen geprüften Pilzsachverständigen vielleicht doch noch stattfinden kann, bitten wir um Eure Unterstützung. Jeder Euro hilft, damit Pilzsammelnde auch im Herbst 2025 eine Anlaufstelle in Frankfurt zur fachgerechten Prüfung ihrer Funde haben. [Spenden können hier überwiesen werden >](https://gofund.me/b655eab73).
 
 Vielen Dank!
 
