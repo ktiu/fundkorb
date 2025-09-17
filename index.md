@@ -8,7 +8,7 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-##  <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
+# <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
 - - -
 
@@ -20,7 +20,7 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 Liebe Pilz- und Naturfreunde,
-wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengründen gestrichen wurde, über eine Spendenaktion am Leben erhalten. Ziel ist, sie ab 28. September oder 5. Oktober wieder anbieten zu können. Mehr lesen >
+wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengründen gestrichen wurde, über eine Spendenaktion am Leben erhalten. Ziel ist, sie ab 28. September oder 5. Oktober wieder anbieten zu können. [Mehr lesen >](/pilzberatung)
 
 - - -
 
