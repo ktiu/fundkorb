@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-17.09.2025: [Paxillus involutus - Kahler Krempling](/pilze/paxillus-involutus-kahler-krempling)  
+18.09.2025: [Pluteus salicinus - Grauer Dachpilz](/pilze/pluteus-salicinus-grauer-dachpilz-graugrüner-dachpilz)  
+17.09.2025: [Paxillus involutus - Kahler Krempling](/pilze/paxillus-involutus-kahler-krempling)\
 16.09.2025: [Suillus luteus - Butter-Röhrling](/pilze/suillus-luteus-butter-röhrling)\
 15.09.2025: [Xerocomus cisalpinus - Starkblauernder Rotfußröhrling](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)\
 14.09.2025: [Amanita crocea - Orangegelber Scheidenstreifling](/pilze/amanita-crocea-orangegelber-scheidenstreifling)\
