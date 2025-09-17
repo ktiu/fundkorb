@@ -8,14 +8,23 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
- <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
+##  <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
 - - -
 
 **Pilzkundliche Führung für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 21.09.2025 10:00 Uhr\
 [Hier geht's zur Anmeldung >](/termine)
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/kuehneromyces_mutabilis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Liebe Pilz- und Naturfreunde,
+wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengründen gestrichen wurde, über eine Spendenaktion am Leben erhalten. Ziel ist, sie ab 28. September oder 5. Oktober wieder anbieten zu können. Mehr lesen >
+
 - - -
+
+## **Aktueller Fundkorbpilz des Tages:**
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/paxillus_involutus_01_dg.jpg" %}
