@@ -29,6 +29,14 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 **Aktueller Fundkorbpilz des Tages:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_augustus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesen-Champignon *Agaricus augustus*. Anno 1880 als *A. perrarus* (= sehr selten) beschrieben, trägt er jedoch schon seit 1838 den heute noch gültigen Namen *A. augustus* (= majestätisch). Und "majestätisch" steht er da, ohne wirklich „sehr selten“ zu sein. An sein Habitat stellt er keine besonderen Ansprüche. Mit seinen gut 20 cm Hutdurchmesser ist er kaum zu übersehen. Neben der gelb-bräunlichen Hutbeschuppung ist der Anisgeruch ein wesentliches Merkmal. Der gute, ergiebige Speisepilz sollte jedoch nicht allzu häufig auf dem Speiseplan stehen, weil er wie andere gilbende Champignonarten Schwermetalle aus dem Boden aufnimmt und anreichert. (Ulrike Wegner) [Mehr lesen >](/pilze/agaricus-augustus-riesenchampignon)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_salicinus_06_hs.jpg" %}
 {% include abbildung_ende.html %}
 
