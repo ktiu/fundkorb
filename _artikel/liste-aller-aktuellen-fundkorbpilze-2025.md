@@ -3,9 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-
-
-19.09.2025: [Agaricus augustus - Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon)  
+20.09.2025: [Russula silvestris - Kiefern-Speitäubling](/pilze/russula-silvestris-kiefern-speitäubling)  
+19.09.2025: [Agaricus augustus - Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon)\
 18.09.2025: [Pluteus salicinus - Grauer Dachpilz](/pilze/pluteus-salicinus-grauer-dachpilz-graugrüner-dachpilz)\
 17.09.2025: [Paxillus involutus - Kahler Krempling](/pilze/paxillus-involutus-kahler-krempling)\
 16.09.2025: [Suillus luteus - Butter-Röhrling](/pilze/suillus-luteus-butter-röhrling)\
