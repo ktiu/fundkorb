@@ -29,6 +29,14 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 **Aktueller Fundkorbpilz des Tages:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_silvestris_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+20.09.2025: [Fundkorbpilz](AA "Glossar-") Während unserer pilzkundlichen Exkursion am letzten Sonntag sind wir mehrfach einem kleinen roten Täubling begegnet, unserem aktuellen Fundkorbpilz. Er schmeckt sehr scharf, ist sehr zerbrechlich, seine Hutfarbe variiert von satt kirschrot bis blass rosarot; konstant ist die rein weiße Farbe von Lamellen und Stiel. Diese Merkmale passen zum Kiefern-Speitäubling *Russula silvestris*, der keineswegs nur bei Kiefern wächst, heftige Magen-/Darmbeschwerden verursachen kann und deshalb zu den Giftpilzen zählt. (Dieter Gewalt) Mehr lesen > (Dieter Gewalt) [Mehr lesen >](/pilze/russula-silvestris-kiefern-speitäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_augustus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -65,38 +73,6 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 {% include abbildung_ende.html %}
 
 15.09.2025: Früher gab es mal einen ziemlich variablen Rotfüßröhrling, der in fast jedem Sammelkorb zu finden war. Inzwischen ist er in mehrere neue Arten aufgesplittet worden, darunter unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Starkblauenden Rotfußröhrling *Xerocomus cisalpinus*. Der ist an seinem stark blauenden Fleisch in der Stielbasis eigentlich gut von den anderen zu unterscheiden, schmeckt aber auch nicht besser als diese. (Dieter Gewalt) [Mehr lesen>](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_crocea_09_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.09.2025: Unser Dietzenbacher Carré liefert immer wieder aktuelle [Fundkorbpilze](AA "Glossar-"). Heute ist es der Orangegelbe Scheidenstreifling *Amanita crocea*, einer der prächtigsten und stämmigsten in der Untergattung *Amanitopsis*. In der Nähe eines Kinderspielplatzes hat er bei einigen Birken seinen seit Jahren zuverlässigen Wuchsort und [Mykorrhizapartner](Mykorrhiza "Glossar") gefunden. Er ist essbar, aber wie auch die anderen Scheidenstreiflinge bestimmt keine Delikatesse. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-crocea-orangegelber-scheidenstreifling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_terreum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.09.2025: Durchaus schmackhaft und für die Küche geeignet ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gemeine Erdritterling *Tricholoma terreum* – auch wenn *123pilze* ihn als *„tödlich giftig“* brandmarken. Man sollte ihn aber von einigen ähnlichen Verwandten unterscheiden können. Er sollte zum Beispiel bei Kiefern vorkommen, weder ranzig noch mehlig riechen, nicht scharf schmecken und kein gelblich oder rötlich verfärbendes Fleisch haben. (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-terreum-gemeiner-erdritterling)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_ochroleuca_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.09.2025: Der Ockertäubling *Russula ochroleuca* dürfte der häufigste Täubling in Mitteleuropa sein, auch wenn er in den beiden letzten Jahren zumindest in der Rhein-Main-Ebene ziemlich rar gewesen ist. Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt sowohl in Laub- wie Nadelwäldern vor und bevorzugt saure Böden. Seine gelb-ockerlichen bis zitronengelben Hutfarben sind recht variabel, sodass er leicht mit anderen ähnlich gefärbten Täublingen verwechselt werden kann. Für Speisezwecke ist er nicht unbedingt zu empfehlen. (Dieter Gewalt) [Mehr lesen>](/pilze/russula-ochroleuca-ockertäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_polymorpha_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.09.2025: Sie können schon ein wenig gruselig wirken, wenn man ihnen unverhofft begegnet. Die Vielgestaltige Holzkeule *Xylaria polymorpha*, der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), wird nicht umsonst auch *"dead man´s fingers"* genannt. Die reifen [Stromata](Stroma "Glossar") fühlen sich ganz hart an, aber leicht, wenn man einen *"Finger"* abbricht. Als hätte man etwas Verkohltes in den Händen, werden diese ganz schwarz vom Sporenpulver. Faszinierend ist aber der Schwarz-Weiß-Kontrast, wenn man ihn aufschneidet und das Innere des Stromas betrachtet. (Ulrike Wegner) [Mehr lesen> ](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)
 
 <div style="clear:  both"></div>
 
