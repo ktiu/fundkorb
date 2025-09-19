@@ -32,7 +32,7 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 {% include bild.html datei="/bilder/russula_silvestris_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-20.09.2025: [Fundkorbpilz](AA "Glossar-") Während unserer pilzkundlichen Exkursion am letzten Sonntag sind wir mehrfach einem kleinen roten Täubling begegnet, unserem aktuellen Fundkorbpilz. Er schmeckt sehr scharf, ist sehr zerbrechlich, seine Hutfarbe variiert von satt kirschrot bis blass rosarot; konstant ist die rein weiße Farbe von Lamellen und Stiel. Diese Merkmale passen zum Kiefern-Speitäubling *Russula silvestris*, der keineswegs nur bei Kiefern wächst, heftige Magen-/Darmbeschwerden verursachen kann und deshalb zu den Giftpilzen zählt. (Dieter Gewalt) Mehr lesen > [Mehr lesen >](/pilze/russula-silvestris-kiefern-speitäubling)
+20.09.2025: [Fundkorbpilz](AA "Glossar-") Während unserer pilzkundlichen Exkursion am letzten Sonntag sind wir mehrfach einem kleinen roten Täubling begegnet, unserem aktuellen Fundkorbpilz. Er schmeckt sehr scharf, ist sehr zerbrechlich, seine Hutfarbe variiert von satt kirschrot bis blass rosarot; konstant ist die rein weiße Farbe von Lamellen und Stiel. Diese Merkmale passen zum Kiefern-Speitäubling *Russula silvestris*, der keineswegs nur bei Kiefern wächst, heftige Magen-/Darmbeschwerden verursachen kann und deshalb zu den Giftpilzen zählt. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-silvestris-kiefern-speitäubling)
 
 <div style="clear:  both"></div>
 
