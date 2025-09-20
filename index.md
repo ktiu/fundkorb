@@ -32,7 +32,7 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 {% include bild.html datei="/bilder/suillus_cavipes_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-21.09.2025: Der einzige Röhrling mit einem hohlen Stiel ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Hohlfußröhrling (*Boletinus cavipes*). Meistens findet man ihn in der Nähe von Lärchen, seinen [Mykorrhizapartnern](Mykorrhiza). Aufgrund seiner leichten Bestimmenbarkeit ist er ein guter Anfängerpilz, der allerdings keine Delikatesse ist. (Bela Salgo, 13) [Mehr lesen >](/pilze/boletinus-cavipes-hohlfußröhrling)
+21.09.2025: Der einzige Röhrling mit einem hohlen Stiel ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Hohlfußröhrling (*Boletinus cavipes*). Meistens findet man ihn in der Nähe von Lärchen, seinen [Mykorrhizapartnern](Mykorrhiza "Glossar"). Aufgrund seiner leichten Bestimmenbarkeit ist er ein guter Anfängerpilz, der allerdings keine Delikatesse ist. (Bela Salgo, 13) [Mehr lesen >](/pilze/boletinus-cavipes-hohlfußröhrling)
 
 <div style="clear:  both"></div>
 
