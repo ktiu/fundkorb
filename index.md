@@ -29,6 +29,14 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 **Aktueller Fundkorbpilz des Tages:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/suillus_cavipes_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.09.2025: Der einzige Röhrling mit einem hohlen Stiel ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Hohlfußröhrling (*Boletinus cavipes*). Meistens findet man ihn in der Nähe von Lärchen, seinen [Mykorrhizapartnern](Mykorrhiza). Aufgrund seiner leichten Bestimmenbarkeit ist er ein guter Anfängerpilz, der allerdings keine Delikatesse ist. (Bela Salgo, 13) [Mehr lesen >](/pilze/boletinus-cavipes-hohlfußröhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_silvestris_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -65,14 +73,6 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 {% include abbildung_ende.html %}
 
 16.09.2025: Zu den wenigen Röhrlingen, die einen Ring am Stiel haben, gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Butter-Röhrling *Suillus luteus*. Man findet ihn in der Nähe von Kiefern, mit denen er eine [Mykorrhiza](Mykorrhiza "Glossar") eingeht, eine Lebensgemeinschaft zum beiderseitigen Vorteil. Er ist zwar ein recht schmackhafter und viel gesammelter Speisepilz, aber nicht immer leicht von seiner unsympathischen Schleimschicht zu befreien Er wird auch Schmierling, Schmalzling, Rotzling, Pomeisl oder Pömke genannt. (Dieter Gewalt) [Mehr lesen >](/pilze/suillus-luteus-butter-röhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_cisalpinus_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-15.09.2025: Früher gab es mal einen ziemlich variablen Rotfüßröhrling, der in fast jedem Sammelkorb zu finden war. Inzwischen ist er in mehrere neue Arten aufgesplittet worden, darunter unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Starkblauenden Rotfußröhrling *Xerocomus cisalpinus*. Der ist an seinem stark blauenden Fleisch in der Stielbasis eigentlich gut von den anderen zu unterscheiden, schmeckt aber auch nicht besser als diese. (Dieter Gewalt) [Mehr lesen>](/pilze/xerocomus-cisalpinus-starkblauender-rotfußröhrling)
 
 <div style="clear:  both"></div>
 
