@@ -14,9 +14,6 @@ footer_scripts:
 
 **Pilzkundliche Führung für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 21.09.2025 10:00 Uhr
 
-
-**Die heutige Wanderung findet statt**.
-
 - - -
 
 {% include abbildung_start.html stil="mittel" %}
@@ -31,10 +28,18 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 **Aktueller Fundkorbpilz des Tages:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_salmonicolor_03_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+22.09.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Lachsreizker *Lactarius salmonicolor*, ist zur Zeit massenhaft im Schwarzwald bei Hornberg zu finden, wo ich gerade einen Pilzkurs bei Björn Wergen besuche. Er ist [Mykorrhizapartner](Mykorrhiza "Glossar") der Weißtanne und nur in deren Verbreitungsareal zu Hause, fehlt daher in den größten Teilen Deutschlands. Er ähnelt dem bei Kiefern wachsenden Edelreizker *Lactarius deliciosus* und ist ebenfalls ein ausgezeichneter Speisepilz. (Bela Salgo, 13) [Mehr lesen >](/pilze/lactarius-salmonicolor-lachsreizker)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/suillus_cavipes_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-21.09.2025: Der einzige Röhrling mit einem hohlen Stiel ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Hohlfußröhrling (*Boletinus cavipes*). Meistens findet man ihn in der Nähe von Lärchen, seinen [Mykorrhizapartnern](Mykorrhiza "Glossar"). Aufgrund seiner leichten Bestimmenbarkeit ist er ein guter Anfängerpilz, der allerdings keine Delikatesse ist. (Bela Salgo, 13) [Mehr lesen >](/pilze/boletinus-cavipes-hohlfußröhrling)
+21.09.2025: Der einzige Röhrling mit einem hohlen Stiel ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Hohlfußröhrling (*Boletinus cavipes*). Meistens findet man ihn in der Nähe von Lärchen, seinen Mykorrhizapartnern. Aufgrund seiner leichten Bestimmenbarkeit ist er ein guter Anfängerpilz, der allerdings keine Delikatesse ist. (Bela Salgo, 13) [Mehr lesen >](/pilze/boletinus-cavipes-hohlfußröhrling)
 
 <div style="clear:  both"></div>
 
@@ -67,14 +72,6 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 {% include abbildung_ende.html %}
 
 17.09.2025: Der Kahle Krempling *Paxillus involutus* ist ein häufiger, überall vorkommender Pilz, der trotz seiner Lamellen zu den Röhrlingen (*Boletales*) gehört. Roh gegessen ist unser aktueller [Fundkorbpilz](AA "Glossar-") stark giftig, aber auch gut gegart kann er im Blut die Bildung von Antikörpern verursachen, was zu einer tödlichen Antigen-Antikörper-Reaktion führen kann. Vor ca. 60 Jahren und davor galt er noch als schmackhafter Speisepilz, aber schon damals wurde dringend empfohlen, ihn nur ausreichend erhitzt zu genießen. Inzwischen darf er nicht mehr zum Verzehr freigegeben werden. (Dieter Gewalt) [Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/suillus_luteus_01_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.09.2025: Zu den wenigen Röhrlingen, die einen Ring am Stiel haben, gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Butter-Röhrling *Suillus luteus*. Man findet ihn in der Nähe von Kiefern, mit denen er eine [Mykorrhiza](Mykorrhiza "Glossar") eingeht, eine Lebensgemeinschaft zum beiderseitigen Vorteil. Er ist zwar ein recht schmackhafter und viel gesammelter Speisepilz, aber nicht immer leicht von seiner unsympathischen Schleimschicht zu befreien Er wird auch Schmierling, Schmalzling, Rotzling, Pomeisl oder Pömke genannt. (Dieter Gewalt) [Mehr lesen >](/pilze/suillus-luteus-butter-röhrling)
 
 <div style="clear:  both"></div>
 
