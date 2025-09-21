@@ -12,8 +12,10 @@ footer_scripts:
 
 - - -
 
-**Pilzkundliche Führung für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 21.09.2025 10:00 Uhr\
-[Hier geht's zur Anmeldung >](/termine)
+**Pilzkundliche Führung für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 21.09.2025 10:00 Uhr
+
+
+**Die heutige Wanderung findet statt**.
 
 - - -
 
