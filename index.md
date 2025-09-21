@@ -28,6 +28,14 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 **Aktueller Fundkorbpilz des Tages:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitocybe_diatreta_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fleischfalbe Trichterling (*Clitocybe diatreta*), eine vor allem in Fichten- und Kiefernwäldern verbreitete aber nicht direkt häufige Art. Auffällig ist die rosaliche Färbung des Hutes, zu welcher die Beschreibung „fleischfalb“ ausgesprochen gut passt. Der oft auch etwas eingebogene Hutrand weist zudem eine bei jungen Exemplaren auffallend weißliche Farbe auf, die an die Bereifung anderer Trichterlinge erinnert. Mit diesen Merkmalen hebt sie sich von vielen anderen Trichterlingsarten ab. Zudem bilden die Fruchtkörper der Art einen hübschen Kontrast zu den grünen Moosböden, aus der sie manchmal herauswachsen. (Joshua Ferenczy) [Mehr lesen >](/pilze/clitocybe-diatreta-fleischfalber-trichterling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_salmonicolor_03_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 {% include abbildung_ende.html %}
 
 18.09.2025: Auch wenn die sichere Bestimmung von Dachpilzen als schwierig gilt, ist unser [Fundkorbpilz](AA "Glossar-") *Pluteus salicinus* anhand seiner hell graugrünen in der leicht gebuckelten Hutmitte etwas dunkleren Farbe recht gut gekennzeichnet und wird auch Graugrüner Dachpilz genannt. Auch die schlanken hellen Stiele neigen vor allem an der Basis zu einer leichten graugrünen Verfärbung, was darauf hindeutet, dass er das halluzinogen wirkende Alkaloid *Psilocybin* enthalten könnte, allerdings in nur in sehr geringer Menge. (Dieter Gewalt) [Mehr lesen >](/pilze/pluteus-salicinus-grauer-dachpilz-graugrüner-dachpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/paxillus_involutus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.09.2025: Der Kahle Krempling *Paxillus involutus* ist ein häufiger, überall vorkommender Pilz, der trotz seiner Lamellen zu den Röhrlingen (*Boletales*) gehört. Roh gegessen ist unser aktueller [Fundkorbpilz](AA "Glossar-") stark giftig, aber auch gut gegart kann er im Blut die Bildung von Antikörpern verursachen, was zu einer tödlichen Antigen-Antikörper-Reaktion führen kann. Vor ca. 60 Jahren und davor galt er noch als schmackhafter Speisepilz, aber schon damals wurde dringend empfohlen, ihn nur ausreichend erhitzt zu genießen. Inzwischen darf er nicht mehr zum Verzehr freigegeben werden. (Dieter Gewalt) [Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
 
 <div style="clear:  both"></div>
 
