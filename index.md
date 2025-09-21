@@ -31,7 +31,7 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 {% include bild.html datei="/bilder/lactarius_salmonicolor_03_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-22.09.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Lachsreizker *Lactarius salmonicolor*, ist zur Zeit massenhaft im Schwarzwald bei Hornberg zu finden, wo ich gerade einen Pilzkurs bei Björn Wergen besuche. Er ist [Mykorrhizapartner](Mykorrhiza "Glossar") der Weißtanne und nur in deren Verbreitungsareal zu Hause, fehlt daher in den größten Teilen Deutschlands. Er ähnelt dem bei Kiefern wachsenden Edelreizker *Lactarius deliciosus* und ist ebenfalls ein ausgezeichneter Speisepilz. (Bela Salgo, 13) [Mehr lesen >](/pilze/lactarius-salmonicolor-lachsreizker)
+22.09.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Lachsreizker *Lactarius salmonicolor*, ist zur Zeit massenhaft im Schwarzwald bei Hornberg zu finden, wo ich gerade einen Pilzkurs bei Björn Wergen besuche. Er ist [Mykorrhizapartner](Mykorrhiza "Glossar") der Weißtanne und nur in deren Verbreitungsareal zu Hause, fehlt daher in den größten Teilen Deutschlands. Er ähnelt dem bei Kiefern wachsenden [Edelreizker *Lactarius deliciosus*](/pilze/lactarius-deliciosus-edelreizker) und ist ebenfalls ein ausgezeichneter Speisepilz. (Bela Salgo, 13) [Mehr lesen >](/pilze/lactarius-salmonicolor-lachsreizker)
 
 <div style="clear:  both"></div>
 
