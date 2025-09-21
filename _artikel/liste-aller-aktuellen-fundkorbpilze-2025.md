@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-21.09.2025: [Boletinus cavipes - Hohlfußröhrling](/pilze/boletinus-cavipes-hohlfußröhrling)  
+22.09.2025: [Lactarius salmonicolor - Lachsreizker](/pilze/lactarius-salmonicolor-lachsreizker)  
+21.09.2025: [Boletinus cavipes - Hohlfußröhrling](/pilze/boletinus-cavipes-hohlfußröhrling)\
 20.09.2025: [Russula silvestris - Kiefern-Speitäubling](/pilze/russula-silvestris-kiefern-speitäubling)\
 19.09.2025: [Agaricus augustus - Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon)\
 18.09.2025: [Pluteus salicinus - Grauer Dachpilz](/pilze/pluteus-salicinus-grauer-dachpilz-graugrüner-dachpilz)\
