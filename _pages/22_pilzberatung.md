@@ -17,6 +17,8 @@ Damit im Herbst dieses Jahres die Pilzberatung im Gesundheitsamt durch einen gep
 
 Vielen Dank!
 
+Im Herbst nach Pilzen suchen macht Freude. Aber: Welcher Pilz darf in die Pfanne und später auf den Teller? Von welchem sollte man besser die Finger lassen? Welcher könnte gar gefährlich werden? Beim Pilzesammeln auf der sicheren Seite zu sein, ist gerade für Einsteiger von größter Wichtigkeit.
+
 - - -
 
 **Offene pilzkundliche Führungen** [\-> Termine](/termine)
