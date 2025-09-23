@@ -21,3 +21,5 @@ Die Frage, warum der Nelkenschwindling Nelkenschwindling heißt, hat ein Scherzb
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/marasmius_oreades_02_dg.jpg" %}
 {% include abbildung_ende.html %}
+
+Mehr über die Familie der Schwindlingsartigen (*Marasmiaceae*) [erfahren Sie hier >](/verwandt/schwindlinge)
