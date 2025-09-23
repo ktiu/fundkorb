@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-23.09.2025: [Clitocybe diatreta - Fleischfalber Trichterling](/pilze/clitocybe-diatreta-fleischfalber-trichterling)  
+24.09.2025: [Oudemansiella mucida - Beringter Schleimrübling](/pilze/oudemansiella-mucida-beringter-schleimrübling)  
+23.09.2025: [Clitocybe diatreta - Fleischfalber Trichterling](/pilze/clitocybe-diatreta-fleischfalber-trichterling)\
 22.09.2025: [Lactarius salmonicolor - Lachsreizker](/pilze/lactarius-salmonicolor-lachsreizker)\
 21.09.2025: [Boletinus cavipes - Hohlfußröhrling](/pilze/boletinus-cavipes-hohlfußröhrling)\
 20.09.2025: [Russula silvestris - Kiefern-Speitäubling](/pilze/russula-silvestris-kiefern-speitäubling)\
