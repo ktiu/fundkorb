@@ -22,3 +22,5 @@ Ein bezaubernd schöner kleiner Pilz, der Hutdurchmesser von 12 mm erreichen kan
 Die Bestimmung verdanke ich einem Artikel von Andreas Melzer im Tintling Nr. 47 (2/2006).
 
 Im Verbreitungsatlas von 1991 waren noch keine deutschen Funde verzeichnet.
+
+Mehr über die Familie der Schwindlingsartigen (*Marasmiaceae*) [erfahren Sie hier >](/verwandt/schwindlinge)
