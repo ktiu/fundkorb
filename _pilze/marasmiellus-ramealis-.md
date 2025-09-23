@@ -24,4 +24,4 @@ Sie wachsen manchmal zu Hunderten auf dünnen Ästchen und Zweigen von Laubbäum
 {% include bild.html datei="/bilder/marasmiellus_-ramealis_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Die Gattung der Zwergschwindlinge (Marasmiellus) unterscheidet sich von den Schwindlingen vor allem dadurch, dass ihre Fruchtkörper nach dem Eintrocknen bei Befeuchtung nicht wieder aufleben. Die meisten Arten sind in den Tropen verbreitet. Unter den mitteleuropäischen sind der Ästchen- und der Nadelschwindling die häufigsten.
+Die Gattung der Zwergschwindlinge (Marasmiellus) unterscheidet sich von den Schwindlingen vor allem dadurch, dass ihre Fruchtkörper nach dem Eintrocknen bei Befeuchtung nicht wieder aufleben. Die meisten Arten sind in den Tropen verbreitet. Unter den mitteleuropäischen sind der Ästchen- und der Nadelschwindling die häufigsten. Mehr über die Familie der Schwindlingsartigen (*Marasmiaceae*) [erfahren Sie hier >](/verwandt/schwindlinge)
