@@ -37,3 +37,5 @@ Das Nadelstreu-Käsepilzchen gehört in die Gattung der Schwindlinge (Marasmius)
 [*Marasmius curreyi* = Grasschwindling](/pilze/marasmius-curreyi-grasschwindling) (auf Grasflächen, Hütchen nicht rein weiß)\
 [*Marasmius limosus* = Schilf-Schwindling](/pilze/marasmius-limosus-schilf-schwindling) (an Schilfblättern oder -stängeln)\
 [*Marasmius rotula* = Halsbandschwindling](/pilze/marasmius-rotula-halsbandschwindling) (Hutdurchmesser bis 1,5 cm, an Zweigen und Ästchen am Boden)
+
+Mehr über die Familie der Schwindlingsartigen (*Marasmiaceae*) [erfahren Sie hier >](/verwandt/schwindlinge)
