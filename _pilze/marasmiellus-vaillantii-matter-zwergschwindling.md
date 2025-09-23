@@ -23,4 +23,4 @@ Das sind nicht etwa unscharfe Fotos - der Matte Zwergschirmling hat in der Tat s
 {% include bild.html datei="/bilder/marasmiellus-vaillantii_03_cheilozystiden_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Cheilozystiden (Mikrofoto: Frank Kaster)" %}
 
-Die Gattung Marasmiellus (Zwergschwindlinge) unterscheidet sich von den Schwindlingen (Marasmius) durch nach dem Trocknen nicht wieder auflebende Fruchtkörper.
+Die Gattung Marasmiellus (Zwergschwindlinge) unterscheidet sich von den Schwindlingen (Marasmius) durch nach dem Trocknen nicht wieder auflebende Fruchtkörper. Mehr über die Familie der Schwindlingsartigen (*Marasmiaceae*) [erfahren Sie hier >](/verwandt/schwindlinge)
