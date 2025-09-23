@@ -25,3 +25,5 @@ Die Hütchen erreichen Durchmesser von maximal 1 cm, sind weißlich gefärbt mit
 Das Sporenpulver ist wie bei allen Schwindlingen der Gattungen *Marasmius* und *Marasmiellus* weiß und [inamyloid](inamyloid "Glossar"). Die Sporen sind schlank ellipsoid, an einem Ende breiter als am anderen, und messen 6 - 9 x 3,5 - 6,5 µm.
 
 Der Gedrängtblättrige Schwindling ist sicher nicht so selten wie in der Literatur angegeben (siehe auch [DGfM-Verbreitungskarte](https://www.pilze-deutschland.de/organismen/gymnopus-quercophilus-pouzar-anton%C3%ADn-noordel-2008)), bleibt aber wegen seiner geringen Größe bzw. verborgenem Wachstum oft unentdeckt. Dass er neuerdings ein Rübling (*Gymnopus*) sein soll, erscheint vom Habitus nicht recht nachvollziehbar.
+
+Mehr über die Familie der Schwindlingsartigen (*Marasmiaceae*) [erfahren Sie hier >](/verwandt/schwindlinge)
