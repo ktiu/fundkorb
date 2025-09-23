@@ -32,3 +32,5 @@ Es gibt weitere nach Knoblauch riechende Schwindlinge, die für den Verzehr unge
 **Großer Knoblauch-Schwindling** (Marasmius prasiosmus) Sieht dem Echten Knoblauch-Schwindling sehr ähnlich, schmeckt im Unterschied zu diesem jedoch (Lt. Literaturangaben) brennend scharf, was ich nach eigenen Erfahrungen nicht immer bestätigen kann.  
 
 **Saitenstieliger Knoblauch-Schwindling** ([Marasmius alliaceus](/pilze/marasmius-alliaceus-saitenstieliger-knoblauchschwindling)) Auch er schmeckt sehr scharf, fällt aber schon optisch durch seinen langen, schwarzbraunen bis schwarzen und auf ganzer Länge bereiften Stiel auf. Er wächst gern auf totem, auch vergrabenen Holz und ist vor allem in Buchenwäldern zu finden. Seinen penetranten Knoblauchgeruch nimmt man oft schon wahr, bevor man die meist gesellig auftretenden Pilze entdeckt.
+
+Mehr über die Familie der Schwindlingsartigen (*Marasmiaceae*) [erfahren Sie hier >](/verwandt/schwindlinge)
