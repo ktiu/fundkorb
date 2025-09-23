@@ -71,3 +71,5 @@ Er kann leicht mit dem [Ledergelben Schwindling *Maramius torquescens*](/pilze/m
     </tbody>
   </table>
 </div>
+
+Mehr über die Familie der Schwindlingsartigen (*Marasmiaceae*) [erfahren Sie hier >](/verwandt/schwindlinge)
