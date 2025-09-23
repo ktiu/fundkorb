@@ -33,6 +33,8 @@ Die Zugehörigkeit zur Familie der der Schwindlingsartigen ist noch ungeklärt.
 
 Bei zwei Funden (09.10.2005, Hainer Weg, Frankfurter Stadtwald und 03.07.2011, Buchrainweiher bei Offenbach) wurde ich von *Hermine Lotz-Winter* auf das Vorkommen an modernden Brennnesselstängeln aufmerksam gemacht. Einen weiteren Fund (04.08.2019, Dreieichenhain der Dampfmühle, an verrottendem Brombeerstängel) verdanken wir dem aufmerksamen Auge von *Tui Gewalt*.
 
+Der Mützenförmige Schüsselschwindling gehört nicht zu den "echten" Schwindlingen. Mehr über die "Schwindlingsartigen" (Marasmiaceae) [erfahren Sie hier >](/verwandt/schwindlinge)
+
 Andere auf Brennnesselstängeln wachsende Pilzarten:
 
 auf vorjährigen, trockenen Stängeln:
