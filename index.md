@@ -29,6 +29,14 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 **Aktueller Fundkorbpilz des Tages:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/oudemansiella_mucida_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+24.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Beringte Schleimr체bling *Oudemansiella mucida*, der auch als Buchen-Schleimr체bling bekannt ist. Er hat gerade Hochsaison im Rhein-Main-Gebiet. Als einer der fotogensten Pilze 체berhaupt animiert er Naturfreunde immer wieder, zur Kamera zu greifen. Aber auch Gourmets sollten ihn nicht grunds채tzlich links liegen lassen. Er schmeckt gar nicht so 체bel und das trotz seiner schleimigen Konsistenz. Dazu ist er auch noch so gut wie unverwechselbar. (Dieter Gewalt) [Mehr lesen >](/pilze/oudemansiella-mucida-beringter-schleimr체bling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitocybe_diatreta_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
