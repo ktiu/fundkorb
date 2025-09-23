@@ -32,3 +32,5 @@ Die Art gilt als selten. In der aktuellen [DGfM-Kartierung](http://hessen.pilze-
 Als Synonym für Marasmius curreyi wird vielfach *Marasmius graminum* angegeben; dies ist aber eine eigene Art, die wohl eher an Laubholzästchen als in Rasen vorkommt und kein Kollar ausbildet.
 
 Lt. *123pilze* kann man den Gras-Schwindling mit dem (seltenen) Stechpalmen-Schwindling verwechseln, den Stechpalmen-Schwindling jedoch nicht mit dem Gras-Schwindling!!!
+
+Mehr über die Familie der Schwindlingsartigen (*Marasmiaceae*) [erfahren Sie hier >](/verwandt/schwindlinge)
