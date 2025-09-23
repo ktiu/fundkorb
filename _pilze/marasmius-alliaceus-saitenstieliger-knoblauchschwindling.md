@@ -2,7 +2,7 @@
 beschreibung:
   wissenschaftlich: Marasmius alliaceus
   deutsch: Saitenstieliger Knoblauchschwindling
-  referenz: "(Jacq.) Fr. 1838"
+  referenz: (Jacq.) Fr. 1838
   familie: "Tricholomataceae (neu in: Omphalotaceae)"
   erlaeuterung: alliaceus = lauchartig
   synonym: Mycetinis alliaceus
@@ -26,3 +26,5 @@ Auch  wenn die dritte Art Marasmius prasiosmus den deutschen Namen „Großer“
 Nach meiner Beobachtung hat die Häufigkeit des Saitenstieligen Knoblauchschwindlings seit den 1990er-Jahren deutlich zugenommen. Er scheint ein typischer Herbstpilz zu sein und kommt vor allem im Zeitraum September – November vor.
 
 Die drei Knoblauchschwindlinge nehmen in der Gattung Marasmius aufgrund ihres charakteristischen Geruchs eine Sonderstellung ein, weshalb sie gemeinsam in der Sektion Chordales (bzw. Alliacei) geführt werden. Beim derzeitigen Trend, gut überschaubare und abgrenzbare Gattungen in immer kleinere zu zerlegen, überrascht es wenig, dass auch für diese Gruppe eine neue Gattung erschaffen worden ist; die drei Knoblauchschwindlinge sollen jetzt *Mycetinis* heißen.
+
+Mehr über die Familie der Schwindlingsartigen (*Marasmiaceae*) [erfahren Sie hier >](/verwandt/schwindlinge)
