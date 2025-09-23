@@ -35,3 +35,5 @@ Der Pilz enthält wie der nahe verwandte *[Nelkenschwindling](/pilze/marasmius-o
 Es erscheint mir angebracht, auch eine Anmerkung zum wissenschaftlichen Artnamen *"wynnei"* (jetzt *"wynneae"*) anzufügen. Erfahrenen Pilzfreunden ist der Name *wynnei* seit Urzeiten geläufig. Er ist auch in meiner gesamten gedruckten Literatur ausschließlich in dieser Schreibweise angegeben. So mancher traut seinen Augen nicht, dass er sich plötzlich und auf unerklärliche Weise in *wynneae* verwandelt hat. Dazu hat mir *Thomas Lehr* auf Anfrage mitgeteilt:
 
 > Marasmius wynneae wurde von Berkeley und Broome 1859 tatsächlich als M. wynnei beschrieben. Da diese Benennung explizit zu Ehren von Frau Wynne erfolgte, muss der Name dann auch die weibliche lateinische Genitivendung -ae haben. Solche Fehler sind laut Nomenklaturcode zu korrigieren. Deswegen wynneae."
+
+Mehr über die Familie der Schwindlingsartigen (*Marasmiaceae*) [erfahren Sie hier >](/verwandt/schwindlinge)
