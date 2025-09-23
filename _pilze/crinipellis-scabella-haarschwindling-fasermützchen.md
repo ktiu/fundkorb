@@ -20,4 +20,4 @@ Man könnte diesen Pilz für einen Schwindling halten und er war früher tatsäc
 
 Die auch Fasermützchen genannten Pilze treten in der Regel gesellig oder herdenweise auf. Ihre hellen, dünnfleischigen und runzeligen Hütchen bilden auf ihrer Oberfläche oft das Lamellenmuster ab und erreichen selten mehr als 2 cm Durchmesser. Beim Trocknen färben sie sich zunehmend braun, wobei auch Algenbefall zu beobachten ist. Typisch ist die meist etwas vertiefte dunklere, rostbraune Hutmitte mit einem spitzen Buckelchen und aufrechten Faserbüscheln, die mit der Lupe deutlich zu erkennen sind. Die Lamellen sind mehrfach mit kürzeren untermischt und am Stiel ausgebuchtet, sodass sie ihn meist nicht erreichen. Die dunkelbraunen dünnen Stiele sind zäh, fein filzig und bis zu 4 cm lang.  Das Sporenpulver ist weiß, die mandelförmigen glatten Sporen mit Tropfen sind inamyloid und messen 7,5 - 9 x 4 - 7 µm.
 
-In Deutschland ist *Crinipellis scabella* die einzige Art der Gattung.
+In Deutschland ist *Crinipellis scabella* die einzige Art der Gattung. Mehr über Schwindlinge der Familie *Marasmiaceae* [erfahren Sie hier >](/verwandt/schwindlinge)
