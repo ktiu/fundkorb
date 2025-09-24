@@ -30,6 +30,12 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 - - -
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/armillaria_borealis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.09.2025: Fundkorbpilz Der Nördliche Hallimasch (*Armillaria borealis*) gehört in Deutschland zu den eher seltenen Arten. Er könnte mit dem deutlich häufigeren [Dunklen Hallimasch (*Armillaria ostoyae*)](/pilze/armillaria-ostoyae-dunkler-hallimasch) verwechselt werden. Charakteristische Merkmale zur Abgrenzung sind die fast über die gesamte oft nahezu weiße Hutfläche verteilten hellbräunlichen Schuppen und der stabile, etwas wollige Ring. In Skandinavien ist der Nördliche Hallimasch wesentlich häufiger zu finden, und zwar im Spätsommer und Herbst. Er besiedelt sowohl Laub- als auch Nadelholz. (Joshua Ferenczy) [Mehr lesen >](/pilze/armillaria-borealis-nördlicher-honig-hallimasch)
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/oudemansiella_mucida_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
