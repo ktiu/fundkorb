@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-**Der Wald und seine Pilze im September:** Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 21.09.2025, 10:00 Uhr\
+**Der Wald und seine Pilze im September:** Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 28.09.2025, 10:00 Uhr\
 Hier geht's zur [Anmeldung >](/termine)
 
 - - -
