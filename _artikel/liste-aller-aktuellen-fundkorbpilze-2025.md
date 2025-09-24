@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-24.09.2025: [Oudemansiella mucida - Beringter Schleimrübling](/pilze/oudemansiella-mucida-beringter-schleimrübling)  
+25.09.2025: [Armillaria borealis - Nördlicher Hallimasch](/pilze/armillaria-borealis-nördlicher-honig-hallimasch)  
+24.09.2025: [Oudemansiella mucida - Beringter Schleimrübling](/pilze/oudemansiella-mucida-beringter-schleimrübling)\
 23.09.2025: [Clitocybe diatreta - Fleischfalber Trichterling](/pilze/clitocybe-diatreta-fleischfalber-trichterling)\
 22.09.2025: [Lactarius salmonicolor - Lachsreizker](/pilze/lactarius-salmonicolor-lachsreizker)\
 21.09.2025: [Boletinus cavipes - Hohlfußröhrling](/pilze/boletinus-cavipes-hohlfußröhrling)\
