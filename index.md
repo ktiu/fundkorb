@@ -12,6 +12,9 @@ footer_scripts:
 
 - - -
 
+**Pilzkundliche Wanderung im südlichen Vogelsberg** am Samstag, 27.09.2025, 10:00 Uhr\
+Hier geht's zur [Anmeldung >](/termine)
+
 **Der Wald und seine Pilze im September:** Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 28.09.2025, 10:00 Uhr\
 Hier geht's zur [Anmeldung >](/termine)
 
