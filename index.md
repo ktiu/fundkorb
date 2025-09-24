@@ -29,6 +29,14 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 **Aktueller Fundkorbpilz des Tages:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/armillaria_borealis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.09.2025: [Fundkorbpilz](AA "Glossar-") Der Nördliche Hallimasch (*Armillaria borealis*) gehört in Deutschland zu den eher seltenen Arten. Er könnte mit dem deutlich häufigeren [Dunklen Hallimasch (*Armillaria ostoyae*)](/pilze/armillaria-ostoyae-dunkler-hallimasch) verwechselt werden. Charakteristische Merkmale zur Abgrenzung sind die fast über die gesamte oft nahezu weiße Hutfläche verteilten hellbräunlichen Schuppen und der stabile, etwas wollige Ring. In Skandinavien ist der Nördliche Hallimasch wesentlich häufiger zu finden, und zwar im Spätsommer und Herbst. Er besiedelt sowohl Laub- als auch Nadelholz. (Joshua Ferenczy) [Mehr lesen >](/pilze/armillaria-borealis-nördlicher-honig-hallimasch)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/oudemansiella_mucida_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -65,22 +73,6 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 {% include abbildung_ende.html %}
 
 20.09.2025: [Fundkorbpilz](AA "Glossar-") Während unserer pilzkundlichen Exkursion am letzten Sonntag sind wir mehrfach einem kleinen roten Täubling begegnet, unserem aktuellen Fundkorbpilz. Er schmeckt sehr scharf, ist sehr zerbrechlich, seine Hutfarbe variiert von satt kirschrot bis blass rosarot; konstant ist die rein weiße Farbe von Lamellen und Stiel. Diese Merkmale passen zum Kiefern-Speitäubling *Russula silvestris*, der keineswegs nur bei Kiefern wächst, heftige Magen-/Darmbeschwerden verursachen kann und deshalb zu den Giftpilzen zählt. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-silvestris-kiefern-speitäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_augustus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesen-Champignon *Agaricus augustus*. Anno 1880 als *A. perrarus* (= sehr selten) beschrieben, trägt er jedoch schon seit 1838 den heute noch gültigen Namen *A. augustus* (= majestätisch). Und "majestätisch" steht er da, ohne wirklich „sehr selten“ zu sein. An sein Habitat stellt er keine besonderen Ansprüche. Mit seinen gut 20 cm Hutdurchmesser ist er kaum zu übersehen. Neben der gelb-bräunlichen Hutbeschuppung ist der Anisgeruch ein wesentliches Merkmal. Der gute, ergiebige Speisepilz sollte jedoch nicht allzu häufig auf dem Speiseplan stehen, weil er wie andere gilbende Champignonarten Schwermetalle aus dem Boden aufnimmt und anreichert. (Ulrike Wegner) [Mehr lesen >](/pilze/agaricus-augustus-riesenchampignon)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pluteus_salicinus_06_hs.jpg" %}
-{% include abbildung_ende.html %}
-
-18.09.2025: Auch wenn die sichere Bestimmung von Dachpilzen als schwierig gilt, ist unser [Fundkorbpilz](AA "Glossar-") *Pluteus salicinus* anhand seiner hell graugrünen in der leicht gebuckelten Hutmitte etwas dunkleren Farbe recht gut gekennzeichnet und wird auch Graugrüner Dachpilz genannt. Auch die schlanken hellen Stiele neigen vor allem an der Basis zu einer leichten graugrünen Verfärbung, was darauf hindeutet, dass er das halluzinogen wirkende Alkaloid *Psilocybin* enthalten könnte, allerdings in nur in sehr geringer Menge. (Dieter Gewalt) [Mehr lesen >](/pilze/pluteus-salicinus-grauer-dachpilz-graugrüner-dachpilz)
 
 <div style="clear:  both"></div>
 
