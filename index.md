@@ -29,6 +29,16 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 
 - - -
 
+**Aktuelle Fundkorbpilze**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gyroporus_castaneus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.09.2025: Bei einem Spaziergang an der Saalburg im Taunus habe ich unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Hasenröhrling (*Gyroporus castaneus*) in großer Stückzahl gefunden. Der schmackhafte Pilz hat die Eigenschaft, in manchen Jahren gar nicht und in anderen Jahren massenhaft aufzutreten. Er bevorzugt Standorte bei Eichen auf sandigen Böden. Aufgrund seiner Seltenheit wird er in Roten Listen in der Kategorie RL 2 geführt. (Bela Salgo, 13) [Mehr lesen >](/pilze/gyroporus-castaneus-hasenröhrling)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/armillaria_borealis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
