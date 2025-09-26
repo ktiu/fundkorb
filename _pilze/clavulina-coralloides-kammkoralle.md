@@ -25,6 +25,6 @@ Der Pilz besteht aus einem relativ dicken Stiel, der sich im oberen Teil mehrfac
 {% include bild.html datei="/bilder/clavulina_coralloides_03_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-Verwechslungen wären möglich mit der Grauen Koralle *Clavulina cinerea* oder der Runzeligen Koralle *Clavulina rugosa*, die jedoch an den oberen Enden nicht spitz verzweigt sind. Mit den echten Korallenpilzen (Gattung *Ramaria*) sind sie nicht näher verwandt.
+Verwechslungen wären möglich mit der [Grauen Koralle *Clavulina cinerea*](/pilze/clavulina-cinerea-graue-koralle) oder der [Runzeligen Koralle *Clavulina rugosa*](/pilze/clavulina-rugosa-runzelige-koralle), die jedoch an den oberen Enden nicht spitz verzweigt sind. Mit den echten Korallenpilzen (Gattung *Ramaria*) sind sie nicht näher verwandt. Eine Kammkoralle, die nach Anis riecht, ist keine, sondern die Zierliche oder Aniskoralle *Ramaria gracilis*.
 
 Über den Speisewert der Kammkoralle wird sehr unterschiedlich geurteilt. Die Bewertungen reichen von ungenießbar oder geschmacklich nicht besonders wertvoll bis gut. In Frankreich soll er ein geschätzter Speisepilz sein. Bei passender Gelegenheit werde ich mir ein eigenes Urteil bilden und an dieser Stelle berichten.
