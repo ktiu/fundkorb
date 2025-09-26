@@ -29,7 +29,15 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 
 - - -
 
-**Aktuelle Fundkorbpilze**
+**Aktueller Fundkorbpilz**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lepiota_cristata_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+27.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Stink-Schirmling *Lepiota cristata*. Er stinkt nicht ganz so schlimm wie der Schwefelritterling, aber zum Naserümpfen reicht's. Man findet ihn nicht selten gesellig an Waldwegrändern wachsend. Sein stechend metallischer Geruch wird auch als leuchtgasähnlich oder cristatoid (also wie *Lepiota cristata*) beschrieben und er ist nicht der einzige Stinker unter den kleinen nicht immer leicht zu unterscheidenden Schirmlingen, zu denen auch tödlich giftige gehören. (Dieter Gewalt) [Mehr lesen >](/pilze/lepiota-cristata-stink-schirmling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gyroporus_castaneus_02_dg.jpg" %}
