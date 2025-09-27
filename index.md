@@ -12,24 +12,20 @@ footer_scripts:
 
 - - -
 
-**Pilzkundliche Wanderung im südlichen Vogelsberg** am Samstag, 27.09.2025, 10:00 Uhr\
-Hier geht's zur [Anmeldung >](/termine)
-
 **Der Wald und seine Pilze im September:** Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 28.09.2025, 10:00 Uhr\
 Hier geht's zur [Anmeldung >](/termine)
 
 - - -
 
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/kuehneromyces_mutabilis_01_dg.jpg" %}
+**Aktueller Fundkorbpilz**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_zephirus_04_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-Liebe Pilz- und Naturfreunde,
-wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengründen gestrichen wurde, über eine Spendenaktion am Leben erhalten. Ziel ist, sie ab 28. September oder 5. Oktober wieder anbieten zu können. [Mehr lesen >](/pilzberatung)
+28.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rostige Helmling *Mycena zephirus*. Wenn er herdenweise Waldböden besiedelt, ist das ein Zeichen, dass die Herbstpilzsaison begonnen hat. Rostig ist er ganz überwiegend nicht. Die namensgebenden Rostflecken auf dem Hut erscheinen meist erst im Alter. Unter den Helmlingen gibt es keine sammelwürdigen, aber ein paar wenige leicht giftige, vor allem aber viele wunderhübsche Arten. (Dieter Gewalt) [Mehr lesen >](pilze/mycena-zephirus-rostiger-helmling)
 
-- - -
-
-**Aktueller Fundkorbpilz**
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lepiota_cristata_01_dg.jpeg" %}
@@ -82,14 +78,6 @@ wir wollen die traditionelle Pilzberatung der Stadt Frankfurt, die aus Kostengr�
 {% include abbildung_ende.html %}
 
 21.09.2025: Der einzige Röhrling mit einem hohlen Stiel ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Hohlfußröhrling (*Boletinus cavipes*). Meistens findet man ihn in der Nähe von Lärchen, seinen Mykorrhizapartnern. Aufgrund seiner leichten Bestimmenbarkeit ist er ein guter Anfängerpilz, der allerdings keine Delikatesse ist. (Bela Salgo, 13) [Mehr lesen >](/pilze/boletinus-cavipes-hohlfußröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_silvestris_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-20.09.2025: [Fundkorbpilz](AA "Glossar-") Während unserer pilzkundlichen Exkursion am letzten Sonntag sind wir mehrfach einem kleinen roten Täubling begegnet, unserem aktuellen Fundkorbpilz. Er schmeckt sehr scharf, ist sehr zerbrechlich, seine Hutfarbe variiert von satt kirschrot bis blass rosarot; konstant ist die rein weiße Farbe von Lamellen und Stiel. Diese Merkmale passen zum Kiefern-Speitäubling *Russula silvestris*, der keineswegs nur bei Kiefern wächst, heftige Magen-/Darmbeschwerden verursachen kann und deshalb zu den Giftpilzen zählt. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-silvestris-kiefern-speitäubling)
 
 <div style="clear:  both"></div>
 
