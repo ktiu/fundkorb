@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-28.09.2025: [Mycena zephirus - Rostiger Helmling](pilze/mycena-zephirus-rostiger-helmling)  
+29.09.2025: [Leccinum aurantiacum - Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)  
+28.09.2025: [Mycena zephirus - Rostiger Helmling](pilze/mycena-zephirus-rostiger-helmling)\
 27.09.2025: [Lepiota cristata - Stink-Schirmling](/pilze/lepiota-cristata-stink-schirmling)\
 26.09.2025: [Gyroporus castaneus - Hasenröhrling](/pilze/gyroporus-castaneus-hasenröhrling)\
 25.09.2025: [Armillaria borealis - Nördlicher Hallimasch](/pilze/armillaria-borealis-nördlicher-honig-hallimasch)\
