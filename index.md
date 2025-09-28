@@ -17,7 +17,11 @@ footer_scripts:
 
 - - -
 
-**Aktueller Fundkorbpilz**
+**Aktueller Fundkorbpilz:**
+
+29.09.2025: Wozu in den Wald gehen? Die tollsten Pilze findet man oft mitten in seiner Heimatstadt. Der Baum, mit dem unser aktueller [Fundkorbpilz](AA "Glossar-"), die Espenrotkappe *Leccinum aurantiacum*, in Symbiose lebt, die Espe oder Zitter-Pappel, besiedelt als Pionierart vor allem Weg- und Waldränder, aber auch Kahlschläge und Brachflächen. Die Espen-Rotkappe fällt durch ihren ausgeprägt orangeroten Hut und die relativ hellen Stielschüppchen auf. Sie ist ein ausgezeichneter Speisepilz mit festem Fleisch und aromatisch pilzigem Geschmack (Ulrike Wegner) [Mehr lesen >](/pilze/leccinum-aurantiacum-espenrotkappe)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_zephirus_04_dg.jpeg" %}
@@ -62,22 +66,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 23.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fleischfalbe Trichterling (*Clitocybe diatreta*), eine vor allem in Fichten- und Kiefernwäldern verbreitete aber nicht direkt häufige Art. Auffällig ist die rosaliche Färbung des Hutes, zu welcher die Beschreibung „fleischfalb“ ausgesprochen gut passt. Der oft auch etwas eingebogene Hutrand weist zudem eine bei jungen Exemplaren auffallend weißliche Farbe auf, die an die Bereifung anderer Trichterlinge erinnert. Mit diesen Merkmalen hebt sie sich von vielen anderen Trichterlingsarten ab. Zudem bilden die Fruchtkörper der Art einen hübschen Kontrast zu den grünen Moosböden, aus der sie manchmal herauswachsen. (Joshua Ferenczy) [Mehr lesen >](/pilze/clitocybe-diatreta-fleischfalber-trichterling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_salmonicolor_03_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-22.09.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Lachsreizker *Lactarius salmonicolor*, ist zur Zeit massenhaft im Schwarzwald bei Hornberg zu finden, wo ich gerade einen Pilzkurs bei Björn Wergen besuche. Er ist [Mykorrhizapartner](Mykorrhiza "Glossar") der Weißtanne und nur in deren Verbreitungsareal zu Hause, fehlt daher in den größten Teilen Deutschlands. Er ähnelt dem bei Kiefern wachsenden [Edelreizker *Lactarius deliciosus*](/pilze/lactarius-deliciosus-edelreizker) und ist ebenfalls ein ausgezeichneter Speisepilz. (Bela Salgo, 13) [Mehr lesen >](/pilze/lactarius-salmonicolor-lachsreizker)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/suillus_cavipes_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.09.2025: Der einzige Röhrling mit einem hohlen Stiel ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Hohlfußröhrling (*Boletinus cavipes*). Meistens findet man ihn in der Nähe von Lärchen, seinen Mykorrhizapartnern. Aufgrund seiner leichten Bestimmenbarkeit ist er ein guter Anfängerpilz, der allerdings keine Delikatesse ist. (Bela Salgo, 13) [Mehr lesen >](/pilze/boletinus-cavipes-hohlfußröhrling)
 
 <div style="clear:  both"></div>
 
