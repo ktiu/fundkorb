@@ -19,6 +19,10 @@ footer_scripts:
 
 **Aktueller Fundkorbpilz:**
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leccinum_aurantiacum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 29.09.2025: Wozu in den Wald gehen? Die tollsten Pilze findet man oft mitten in seiner Heimatstadt. Der Baum, mit dem unser aktueller [Fundkorbpilz](AA "Glossar-"), die Espenrotkappe *Leccinum aurantiacum*, in Symbiose lebt, die Espe oder Zitter-Pappel, besiedelt als Pionierart vor allem Weg- und Waldränder, aber auch Kahlschläge und Brachflächen. Die Espen-Rotkappe fällt durch ihren ausgeprägt orangeroten Hut und die relativ hellen Stielschüppchen auf. Sie ist ein ausgezeichneter Speisepilz mit festem Fleisch und aromatisch pilzigem Geschmack (Ulrike Wegner) [Mehr lesen >](/pilze/leccinum-aurantiacum-espenrotkappe)
 
 <div style="clear:  both"></div>
