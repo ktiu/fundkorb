@@ -23,6 +23,14 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/macrolepiota_konradii_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sternschuppige Riesenschirmling *Macrolepiota konradii*. Seine braune Scheibe auf dem Hut reißt meist sternförmig auf oder die Schuppen verlieren sich zum Rand hin in einem sternförmigen Muster. Im Gegensatz zum [Großen Riesenschirmling](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol), der das Innere von Wäldern meidet und eher auf Wiesen und an Wald- und Straßenrändern zu finden ist, wächst der Sternschuppige Riesenschirmling vor allem innerhalb von Wäldern. Er ist zwar viel kleiner als der Große, aber ebenso schmackhaft und als „Schnitzelchen“ zu verwenden. (Béla Salgo, 13) [Mehr lesen >](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leccinum_aurantiacum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -65,14 +73,6 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 {% include abbildung_ende.html %}
 
 24.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Beringte Schleimrübling *Oudemansiella mucida*, der auch als Buchen-Schleimrübling bekannt ist. Er hat gerade Hochsaison im Rhein-Main-Gebiet. Als einer der fotogensten Pilze überhaupt animiert er Naturfreunde immer wieder, zur Kamera zu greifen. Aber auch Gourmets sollten ihn nicht grundsätzlich links liegen lassen. Er schmeckt gar nicht so übel und das trotz seiner schleimigen Konsistenz. Dazu ist er auch noch so gut wie unverwechselbar. (Dieter Gewalt) [Mehr lesen >](/pilze/oudemansiella-mucida-beringter-schleimrübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_diatreta_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fleischfalbe Trichterling (*Clitocybe diatreta*), eine vor allem in Fichten- und Kiefernwäldern verbreitete aber nicht direkt häufige Art. Auffällig ist die rosaliche Färbung des Hutes, zu welcher die Beschreibung „fleischfalb“ ausgesprochen gut passt. Der oft auch etwas eingebogene Hutrand weist zudem eine bei jungen Exemplaren auffallend weißliche Farbe auf, die an die Bereifung anderer Trichterlinge erinnert. Mit diesen Merkmalen hebt sie sich von vielen anderen Trichterlingsarten ab. Zudem bilden die Fruchtkörper der Art einen hübschen Kontrast zu den grünen Moosböden, aus der sie manchmal herauswachsen. (Joshua Ferenczy) [Mehr lesen >](/pilze/clitocybe-diatreta-fleischfalber-trichterling)
 
 <div style="clear:  both"></div>
 
