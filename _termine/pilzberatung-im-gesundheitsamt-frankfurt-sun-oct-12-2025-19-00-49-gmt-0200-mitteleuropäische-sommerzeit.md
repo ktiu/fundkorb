@@ -1,5 +1,5 @@
 ---
-aktivitaet: Pilzberatung im Gesundheitsamt Frankfurt
+aktivitaet: Pilzberatung im Gesundheitsamt der Stadt Frankfurt am Main
 zeit: 2025-10-12T17:00:49.980Z
 bis: 2025-10-12T20:00:00.000Z
 anmeldung_offen: false
