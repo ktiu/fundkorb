@@ -13,7 +13,7 @@ footer_scripts:
 - - -
 
 **Der Wald und seine Pilze:** Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 05.10.2025, 10:00 Uhr\
-[Hier geht's zur Anmeldung >](/termine)
+**Dieser Termin ist leider schon ausgebucht**
 
 **Pilzberatung im Gesundheitsamt der Stadt Frankfurt am Main**\
 jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine)
@@ -21,6 +21,14 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 - - -
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cortinarius_violaceus_04_gs.jpg" %}
+{% include abbildung_ende.html %}
+
+01.10.2025: Die Scheierlinge sind mit über 500 Arten eine der artenreichsten Gattungen Mitteleuropas. Typusart ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Violette Schleierling *Cortinarius violaceus*. Er ist der einzige in allen Teilen violett gefärbte Schleierling und daher leicht kenntlich. Lt. Literatur soll er essbar sein. Ich habe ihn kürzlich ausprobiert und kann ihn nicht für die Küche empfehlen. Er schmeckt mild, aber ziemlich muffig. (Dieter Gewalt) [Mehr lesen >](/pilze/cortinarius-violaceus-violetter-schleierling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/macrolepiota_konradii_01_dg.jpg" %}
@@ -67,12 +75,6 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 {% include abbildung_ende.html %}
 
 25.09.2025: Fundkorbpilz Der Nördliche Hallimasch (*Armillaria borealis*) gehört in Deutschland zu den eher seltenen Arten. Er könnte mit dem deutlich häufigeren [Dunklen Hallimasch (*Armillaria ostoyae*)](/pilze/armillaria-ostoyae-dunkler-hallimasch) verwechselt werden. Charakteristische Merkmale zur Abgrenzung sind die fast über die gesamte oft nahezu weiße Hutfläche verteilten hellbräunlichen Schuppen und der stabile, etwas wollige Ring. In Skandinavien ist der Nördliche Hallimasch wesentlich häufiger zu finden, und zwar im Spätsommer und Herbst. Er besiedelt sowohl Laub- als auch Nadelholz. (Joshua Ferenczy) [Mehr lesen >](/pilze/armillaria-borealis-nördlicher-honig-hallimasch)
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/oudemansiella_mucida_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-24.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Beringte Schleimrübling *Oudemansiella mucida*, der auch als Buchen-Schleimrübling bekannt ist. Er hat gerade Hochsaison im Rhein-Main-Gebiet. Als einer der fotogensten Pilze überhaupt animiert er Naturfreunde immer wieder, zur Kamera zu greifen. Aber auch Gourmets sollten ihn nicht grundsätzlich links liegen lassen. Er schmeckt gar nicht so übel und das trotz seiner schleimigen Konsistenz. Dazu ist er auch noch so gut wie unverwechselbar. (Dieter Gewalt) [Mehr lesen >](/pilze/oudemansiella-mucida-beringter-schleimrübling)
 
 <div style="clear:  both"></div>
 
