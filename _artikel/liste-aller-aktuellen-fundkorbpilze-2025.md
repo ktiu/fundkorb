@@ -3,9 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-01.10.2025: Cortinarius violaceus - Violetter Schleierling
+01.10.2025: [Cortinarius violaceus - Violetter Schleierling](/pilze/cortinarius-violaceus-violetter-schleierling)
 
-30.09.2025: [Macrolepiota konradii - Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)  
+30.09.2025: [Macrolepiota konradii - Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)\
 29.09.2025: [Leccinum aurantiacum - Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)\
 28.09.2025: [Mycena zephirus - Rostiger Helmling](pilze/mycena-zephirus-rostiger-helmling)\
 27.09.2025: [Lepiota cristata - Stink-Schirmling](/pilze/lepiota-cristata-stink-schirmling)\
