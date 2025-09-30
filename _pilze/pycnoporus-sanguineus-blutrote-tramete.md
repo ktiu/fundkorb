@@ -13,7 +13,7 @@ hauptbild:
   datei: /bilder/pycnoporus_sanuineus_01_dg.jpg
   legende: "05.12.2012: Cha Am Forest Park, Thailand"
 ---
-Diesen wunderschönen Porling habe ich nicht nur im *Cha Am Forest Park* sondern auch in anderen Regionen  Thailands gefunden, einmal sogar in Bangkok. Die Bestimmung bereitete keine Probleme. Ich konnte den Namen von einer Info-Tafel im Besucherzentrum des Naturparks abschreiben.
+Diesen wunderschönen Porling habe ich nicht nur im *Cha Am Forest Park* sondern auch in anderen Regionen Thailands gefunden, einmal sogar in Bangkok. Die Bestimmung bereitete keine Probleme. Ich konnte den Namen von einer Info-Tafel im Besucherzentrum des Naturparks abschreiben. *Adam Adamovics* hat 2025 einen Fund aus Taiwan (*Kenting Nationalpark*) gemeldet.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/pycnoporus_sanuineus_02_dg.jpg" %}
