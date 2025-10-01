@@ -23,6 +23,14 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pycnoporus_sanuineus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.10.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal von weit her: aus dem Kenting Nationalpark in Taiwan. Es ist die Blutrote Tramete *Pycnoporus sanguineus*, ein tropischer Verwandter unserer [Zinnoberroten Tramete *Pycnoporus cinnabarinus*](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete). Bei sehen sich sehr ähnlich, die tropische unterscheidet sich von unserer einheimischen vor allem durch deutlich kleinere Poren. (Adam Adamovicz) [Mehr lesen >](/pilze/pycnoporus-sanguineus-blutrote-tramete)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cortinarius_violaceus_04_gs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,22 +67,6 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 {% include abbildung_ende.html %}
 
 27.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Stink-Schirmling *Lepiota cristata*. Er stinkt nicht ganz so schlimm wie der Schwefelritterling, aber zum Naserümpfen reicht's. Man findet ihn nicht selten gesellig an Waldwegrändern wachsend. Sein stechend metallischer Geruch wird auch als leuchtgasähnlich oder cristatoid (also wie *Lepiota cristata*) beschrieben und er ist nicht der einzige Stinker unter den kleinen nicht immer leicht zu unterscheidenden Schirmlingen, zu denen auch tödlich giftige gehören. (Dieter Gewalt) [Mehr lesen >](/pilze/lepiota-cristata-stink-schirmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gyroporus_castaneus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.09.2025: Bei einem Spaziergang an der Saalburg im Taunus habe ich unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Hasenröhrling (*Gyroporus castaneus*) in großer Stückzahl gefunden. Der schmackhafte Pilz hat die Eigenschaft, in manchen Jahren gar nicht und in anderen Jahren massenhaft aufzutreten. Er bevorzugt Standorte bei Eichen auf sandigen Böden. Aufgrund seiner Seltenheit wird er in Roten Listen in der Kategorie RL 2 geführt. (Bela Salgo, 13) [Mehr lesen >](/pilze/gyroporus-castaneus-hasenröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/armillaria_borealis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.09.2025: Fundkorbpilz Der Nördliche Hallimasch (*Armillaria borealis*) gehört in Deutschland zu den eher seltenen Arten. Er könnte mit dem deutlich häufigeren [Dunklen Hallimasch (*Armillaria ostoyae*)](/pilze/armillaria-ostoyae-dunkler-hallimasch) verwechselt werden. Charakteristische Merkmale zur Abgrenzung sind die fast über die gesamte oft nahezu weiße Hutfläche verteilten hellbräunlichen Schuppen und der stabile, etwas wollige Ring. In Skandinavien ist der Nördliche Hallimasch wesentlich häufiger zu finden, und zwar im Spätsommer und Herbst. Er besiedelt sowohl Laub- als auch Nadelholz. (Joshua Ferenczy) [Mehr lesen >](/pilze/armillaria-borealis-nördlicher-honig-hallimasch)
 
 <div style="clear:  both"></div>
 
