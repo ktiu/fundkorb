@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+02.10.2025: [Pycnoporus sanguineus - Blutrote Tramete](/pilze/pycnoporus-sanguineus-blutrote-tramete)  
 01.10.2025: [Cortinarius violaceus - Violetter Schleierling](/pilze/cortinarius-violaceus-violetter-schleierling)
 
 30.09.2025: [Macrolepiota konradii - Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)\
