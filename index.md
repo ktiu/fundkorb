@@ -23,6 +23,14 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_controversus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.10.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosascheckige Milchling *Lactarius controversus*. Diese noch zur Jahrtausendwende als selten bezeichnete aber auffällige Art wird zumindest im Rhein-Main-Gebiet immer häufiger gefunden und tritt sogar oft in großen Mengen auf. Hutdurchmesser von 25 cm sind keine Seltenheit. Verwechseln könnte man ihn vor allem mit dem [Wolligen Milchling *Lactarius vellereus*](/pilze/lactarius-vellereus-wolliger-milchling-erdschieber), der zumindest im Rhein-Main-Gebiet eine rückläufige Tendenz zeigt. Beide haben brennend scharfe Milch und sind daher keine Speisepilze. (Dieter Gewalt) [Mehr lesen >](/pilze/lactarius-vellereus-wolliger-milchling-erdschieber)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pycnoporus_sanuineus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 {% include abbildung_ende.html %}
 
 28.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rostige Helmling *Mycena zephirus*. Wenn er herdenweise Waldböden besiedelt, ist das ein Zeichen, dass die Herbstpilzsaison begonnen hat. Rostig ist er ganz überwiegend nicht. Die namensgebenden Rostflecken auf dem Hut erscheinen meist erst im Alter. Unter den Helmlingen gibt es keine sammelwürdigen, aber ein paar wenige leicht giftige, vor allem aber viele wunderhübsche Arten. (Dieter Gewalt) [Mehr lesen >](pilze/mycena-zephirus-rostiger-helmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lepiota_cristata_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-27.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Stink-Schirmling *Lepiota cristata*. Er stinkt nicht ganz so schlimm wie der Schwefelritterling, aber zum Naserümpfen reicht's. Man findet ihn nicht selten gesellig an Waldwegrändern wachsend. Sein stechend metallischer Geruch wird auch als leuchtgasähnlich oder cristatoid (also wie *Lepiota cristata*) beschrieben und er ist nicht der einzige Stinker unter den kleinen nicht immer leicht zu unterscheidenden Schirmlingen, zu denen auch tödlich giftige gehören. (Dieter Gewalt) [Mehr lesen >](/pilze/lepiota-cristata-stink-schirmling)
 
 <div style="clear:  both"></div>
 
