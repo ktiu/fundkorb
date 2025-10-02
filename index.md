@@ -26,7 +26,7 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 {% include bild.html datei="/bilder/lactarius_controversus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-03.10.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosascheckige Milchling *Lactarius controversus*. Diese noch zur Jahrtausendwende als selten bezeichnete aber auffällige Art wird zumindest im Rhein-Main-Gebiet immer häufiger gefunden und tritt sogar oft in großen Mengen auf. Hutdurchmesser von 25 cm sind keine Seltenheit. Verwechseln könnte man ihn vor allem mit dem [Wolligen Milchling *Lactarius vellereus*](/pilze/lactarius-vellereus-wolliger-milchling-erdschieber), der zumindest im Rhein-Main-Gebiet eine rückläufige Tendenz zeigt. Beide haben brennend scharfe Milch und sind daher keine Speisepilze. (Dieter Gewalt) [Mehr lesen >](/pilze/lactarius-vellereus-wolliger-milchling-erdschieber)
+03.10.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosascheckige Milchling *Lactarius controversus*. Diese noch zur Jahrtausendwende als selten bezeichnete aber auffällige Art wird zumindest im Rhein-Main-Gebiet immer häufiger gefunden und tritt sogar oft in großen Mengen auf. Hutdurchmesser von 25 cm sind keine Seltenheit. Verwechseln könnte man ihn vor allem mit dem [Wolligen Milchling *Lactarius vellereus*](/pilze/lactarius-vellereus-wolliger-milchling-erdschieber), der zumindest im Rhein-Main-Gebiet eine rückläufige Tendenz zeigt. Beide haben brennend scharfe Milch und sind daher keine Speisepilze. (Dieter Gewalt) [Mehr lesen >](/pilze/lactarius-controversus-rosascheckiger-milchling)
 
 <div style="clear:  both"></div>
 
