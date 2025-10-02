@@ -14,6 +14,7 @@ hauptbild:
   datei: /bilder/helvella_elastica_02_hl.jpg
 literatur:
   - text: "Breitenbach & Kränzling: Pilze der Schweiz, Band 1 Nr. 20"
+  - text: "Rudolf Winkler, Gaby Keller: Pilze Mitteleuropas, Seite 792 (16.3.06)"
 ---
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_elastica_03_nk.jpg" %}
