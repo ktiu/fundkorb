@@ -3,7 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-03.10.2025: [Lactarius controversus - Rosascheckiger Milchling](/pilze/lactarius-vellereus-wolliger-milchling-erdschieber)
+03.10.2025: [Lactarius controversus - Rosascheckiger Milchling](/pilze/lactarius-controversus-rosascheckiger-milchling)  
 02.10.2025: [Pycnoporus sanguineus - Blutrote Tramete](/pilze/pycnoporus-sanguineus-blutrote-tramete)\
 01.10.2025: [Cortinarius violaceus - Violetter Schleierling](/pilze/cortinarius-violaceus-violetter-schleierling)
 
