@@ -23,6 +23,14 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_elastica_03_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+04.10.2025: Lorcheln der Gattung *Helvella* sind nicht immer leicht zu unterscheiden. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die nicht gerade häufige Elastische Lorchel *Helvella elastica*. Wir haben sie gestern bei einem Waldspaziergang am Wegrand gefunden. Ihre Formenvielfalt ist enorm, ihre Farbe variiert von rauchgrau bis heller oder dunkler braun. (Dieter Gewalt) [Mehr lesen >](/pilze/helvella-elastica-elastische-lorchel)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_controversus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
