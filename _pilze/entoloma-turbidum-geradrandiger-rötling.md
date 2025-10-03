@@ -28,7 +28,7 @@ Der Geradrandige Rötling *Entoloma turbidum* (anderer Name: Silberstiel-Rötlin
 *Entoloma turbidum* ist eine mittelgroße Rötlingsart mit Hutdurchmessern von bis zu 7 cm. Die speckig glänzenden, [hygrophanen](hygrophan "Glossar") Hüte haben einen Buckel und sind am Rand durchscheinend gerieft. Ihre Farben variieren von grau- bis dunkel braun. Die gedrängt stehenden, ausgebuchtet am Stiel angewachsenen Lamellen sind jung nahezu weiß, später durch ausfallendes Sporenpulver rötlingstypisch rosa. Der silbrig glänzende schlanke Stiel kann bis zu 7 cm lang werden. Das Fleisch ist blass, in der Stielbasis gelblich. Geruch unauffällig oder schwach mehlig, Geschmack mild oder etwas ranzig. Das Sporenpulver ist rosa.
 
 Mikromerkmale:
-Basidien viersporig, keulig 80 – 120 µm; Sporen höckerig, 6- bis 8-eckig, 6,5 – 8,5 x 6 – 7,5 µm; keine Zystiden, Schnallen vorhanden; Hutdeckschicht aus relativ dünnen Hyphen (2 – 5 µm).
+Basidien viersporig, keulig 80 – 120 µm; Sporen höckerig, 6- bis 8-eckig, 6,5 – 8,5 x 6 – 7,5 µm; keine Zystiden, Schnallen vorhanden; Hutdeckschicht aus relativ dünnen Hyphen (2 – 5 µm breit).
 
 Der Geradrandige Rötling ist magen-/darmgiftig. Unter den Rötlingen gibt es lediglich zwei essbare Arten, die allerdings nur von erfahrenen Pilzskennern gesammelt werden sollten: der [Schildrötling Entoloma clypeatum](/pilze/entoloma-clypeatum-schildrötling) und der [Schlehenrötling Entoloma sepium](/pilze/entoloma-sepium-schlehenrötling).
 
