@@ -15,7 +15,7 @@ footer_scripts:
 **Der Wald und seine Pilze:** Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 05.10.2025, 10:00 Uhr\
 **Dieser Termin ist leider schon ausgebucht**
 
-**Pilzkundliche Führung für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 05.10.2025, 10:00 Uhr  
+**Pilzkundliche Führung für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 05.10.2025, 10:00 Uhr\
 [Hier geht's zur Anmeldung >](/termine)
 
 **Pilzberatung im Gesundheitsamt der Stadt Frankfurt am Main**\
@@ -24,6 +24,14 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 - - -
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_helvus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.10.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Bruch-Reizker *Lactarius helvus*, der von Juli bis November in feuchten Nadelwäldern zu finden ist. Aufgrund der wässrigen, manchmal gar nicht austretenden Milch und des strengen Geruchs nach Maggi ist der leicht Magen-Darm-giftige Pilz einfach zu bestimmen. (Bela Salgo, 13) [Mehr lesen >](/pilze/lactarius-helvus-bruch-reizker-maggipilz)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_elastica_03_nk.jpg" %}
@@ -70,14 +78,6 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 {% include abbildung_ende.html %}
 
 29.09.2025: Wozu in den Wald gehen? Die tollsten Pilze findet man oft mitten in seiner Heimatstadt. Der Baum, mit dem unser aktueller [Fundkorbpilz](AA "Glossar-"), die Espenrotkappe *Leccinum aurantiacum*, in Symbiose lebt, die Espe oder Zitter-Pappel, besiedelt als Pionierart vor allem Weg- und Waldränder, aber auch Kahlschläge und Brachflächen. Die Espen-Rotkappe fällt durch ihren ausgeprägt orangeroten Hut und die relativ hellen Stielschüppchen auf. Sie ist ein ausgezeichneter Speisepilz mit festem Fleisch und aromatisch pilzigem Geschmack (Ulrike Wegner) [Mehr lesen >](/pilze/leccinum-aurantiacum-espenrotkappe)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_zephirus_04_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-28.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rostige Helmling *Mycena zephirus*. Wenn er herdenweise Waldböden besiedelt, ist das ein Zeichen, dass die Herbstpilzsaison begonnen hat. Rostig ist er ganz überwiegend nicht. Die namensgebenden Rostflecken auf dem Hut erscheinen meist erst im Alter. Unter den Helmlingen gibt es keine sammelwürdigen, aber ein paar wenige leicht giftige, vor allem aber viele wunderhübsche Arten. (Dieter Gewalt) [Mehr lesen >](pilze/mycena-zephirus-rostiger-helmling)
 
 <div style="clear:  both"></div>
 
