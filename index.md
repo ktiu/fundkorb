@@ -12,9 +12,6 @@ footer_scripts:
 
 - - -
 
-**Der Wald und seine Pilze:** Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 05.10.2025, 10:00 Uhr\
-**Dieser Termin ist leider schon ausgebucht**
-
 **Pilzkundliche Führung für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 12.10.2025, 10:00 Uhr\
 [Hier geht's zur Anmeldung >](/termine)
 
@@ -24,6 +21,14 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 - - -
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mucilago_crustacea_03_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+06.10.2025: [Schleimpilze](/verwandt/schleimpilze-myxomyzeten) sind genau genommen Tiere, die sich in ihrem Reifestadium wie Pilze mittels Sporen vermehren. Unter ihnen haben viele sehr ungewöhnliche Fruchtkörper. Manche wie unser aktueller [Fundkorbpilz](AA "Glossar-") *Mucilago crustacea* (Schaumpilz) sehen aus wie Wesen aus einer fremden Welt und verändern ihre Gestalt auch noch mehrfach in ihrem meist nur kurzen Leben. An morschem Holz bildet er kissenartige Strukturen, an Gräsern kann er hochklettern und kugelige oder beutelartige Formen entwickeln. (Dieter Gewalt) [Mehr lesen >](/pilze/mucilago-crustacea-schaumpilz-grubiges-polsterkissen)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_helvus_01_dg.jpg" %}
@@ -62,22 +67,6 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 {% include abbildung_ende.html %}
 
 01.10.2025: Die Scheierlinge sind mit über 500 Arten eine der artenreichsten Gattungen Mitteleuropas. Typusart ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Violette Schleierling *Cortinarius violaceus*. Er ist der einzige in allen Teilen violett gefärbte Schleierling und daher leicht kenntlich. Lt. Literatur soll er essbar sein. Ich habe ihn kürzlich ausprobiert und kann ihn nicht für die Küche empfehlen. Er schmeckt mild, aber ziemlich muffig. (Dieter Gewalt) [Mehr lesen >](/pilze/cortinarius-violaceus-violetter-schleierling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/macrolepiota_konradii_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.09.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sternschuppige Riesenschirmling *Macrolepiota konradii*. Seine braune Scheibe auf dem Hut reißt meist sternförmig auf oder die Schuppen verlieren sich zum Rand hin in einem sternförmigen Muster. Im Gegensatz zum [Großen Riesenschirmling](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol), der das Innere von Wäldern meidet und eher auf Wiesen und an Wald- und Straßenrändern zu finden ist, wächst der Sternschuppige Riesenschirmling vor allem innerhalb von Wäldern. Er ist zwar viel kleiner als der Große, aber ebenso schmackhaft und als „Schnitzelchen“ zu verwenden. (Béla Salgo, 13) [Mehr lesen >](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leccinum_aurantiacum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.09.2025: Wozu in den Wald gehen? Die tollsten Pilze findet man oft mitten in seiner Heimatstadt. Der Baum, mit dem unser aktueller [Fundkorbpilz](AA "Glossar-"), die Espenrotkappe *Leccinum aurantiacum*, in Symbiose lebt, die Espe oder Zitter-Pappel, besiedelt als Pionierart vor allem Weg- und Waldränder, aber auch Kahlschläge und Brachflächen. Die Espen-Rotkappe fällt durch ihren ausgeprägt orangeroten Hut und die relativ hellen Stielschüppchen auf. Sie ist ein ausgezeichneter Speisepilz mit festem Fleisch und aromatisch pilzigem Geschmack (Ulrike Wegner) [Mehr lesen >](/pilze/leccinum-aurantiacum-espenrotkappe)
 
 <div style="clear:  both"></div>
 
