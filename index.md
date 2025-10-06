@@ -23,6 +23,14 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/entoloma_lividoalbum_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+07.10.2025: Unter den Rötlingen gibt es nur zwei essbare Arten und die könnten mit unserem aktuellen [Fundkorbpilz](AA "Glossar-") *Entoloma lividoalbum*, dem Weißstieligen Rötling, verwechselt werden. Der bevorzugt grasige Wegränder im Wald, während die beiden anderen ([Schild-](/pilze/entoloma-clypeatum-schildrötling) und [Schlehenrötling](/pilze/entoloma-sepium-schlehenrötling)) vor allem in Streuobstwiesen bei Obstbäumen angetroffen werden. (Dieter Gewalt) [Mehr lesen >](/pilze/entoloma-lividoalbum-weißstieliger-rötling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mucilago_crustacea_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
