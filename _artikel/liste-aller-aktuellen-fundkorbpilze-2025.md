@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-06.10.2025: [Mucilago crustacea - Schaumpilz](/pilze/mucilago-crustacea-schaumpilz-grubiges-polsterkissen)  
+07.10.2025: [Entoloma lividoalbum - Weißstieliger Rötling](/pilze/entoloma-lividoalbum-weißstieliger-rötling)  
+06.10.2025: [Mucilago crustacea - Schaumpilz](/pilze/mucilago-crustacea-schaumpilz-grubiges-polsterkissen)\
 05.10.2025: [Lactarius helvus - Bruch-Reizker, Maggipilz](/pilze/lactarius-helvus-bruch-reizker-maggipilz)\
 04.10.2025: [Helvella elastica - Elastische Lorchel](/pilze/helvella-elastica-elastische-lorchel)\
 03.10.2025: [Lactarius controversus - Rosascheckiger Milchling](/pilze/lactarius-controversus-rosascheckiger-milchling)\
