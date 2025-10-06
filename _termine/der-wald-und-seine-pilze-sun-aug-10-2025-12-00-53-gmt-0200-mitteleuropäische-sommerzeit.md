@@ -2,7 +2,7 @@
 aktivitaet: Pilzkundliche Führung für Einsteiger
 zeit: 2025-10-12T10:00:53.480Z
 bis: ""
-anmeldung_offen: true
+anmeldung_offen: false
 anmeldung_noetig: true
 published: true
 bilder:
@@ -12,3 +12,4 @@ Beim Pilzesammeln auf der sicheren Seite zu sein, ist gerade für Einsteiger von
 
 Die Teilnahmegebühr für die etwa dreistündige Wanderung beträgt 15 Euro und sollte wirklich Einsteigern vorbehalten sein. Begleitende Kinder sind natürlich kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Anmeldebestätigung mitgeteilt.
 
+**Dieser Termin ist leider schon ausgebucht**
