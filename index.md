@@ -13,7 +13,7 @@ footer_scripts:
 - - -
 
 **Pilzkundliche Führung für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 12.10.2025, 10:00 Uhr\
-[Hier geht's zur Anmeldung >](/termine)  
+[Hier geht's zur Anmeldung >](/termine)\
 **Dieser Termin ist leider schon ausgebucht**
 
 **Pilzberatung im Gesundheitsamt der Stadt Frankfurt am Main**\
@@ -22,6 +22,14 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 - - -
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/chalciporus_piperatus_km_1.jpg" %}
+{% include abbildung_ende.html %}
+
+08.10.2025: Solange man ihn anschaut, ist er unscheinbar und unauffällig, aber bei einer Geschmacksprobe brennt unser aktueller [Fundkorbpilz](AA "Glossar-"), der Pfeffer-Röhrling *Chalciporus piperatus*, pfefferig scharf auf der Zunge. Meines Wissens gibt es keinen anderen Röhrling mit scharfem Geschmack, sodass wir es hier mit einem Alleinstellungsmerkmal zu tun haben. Gefunden anlässlich einer Pilzkartierungstour im Nordschwarzwald bei Karlsbad. (Bernd Miggel) [Mehr lesen >](/pilze/chalciporus-piperatus-pfeffer-röhrling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/entoloma_lividoalbum_01_bm.jpg" %}
@@ -68,14 +76,6 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 {% include abbildung_ende.html %}
 
 02.10.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal von weit her: aus dem Kenting Nationalpark in Taiwan. Es ist die Blutrote Tramete *Pycnoporus sanguineus*, ein tropischer Verwandter unserer [Zinnoberroten Tramete *Pycnoporus cinnabarinus*](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete). Bei sehen sich sehr ähnlich, die tropische unterscheidet sich von unserer einheimischen vor allem durch deutlich kleinere Poren. (Adam Adamovicz) [Mehr lesen >](/pilze/pycnoporus-sanguineus-blutrote-tramete)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cortinarius_violaceus_04_gs.jpg" %}
-{% include abbildung_ende.html %}
-
-01.10.2025: Die Scheierlinge sind mit über 500 Arten eine der artenreichsten Gattungen Mitteleuropas. Typusart ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Violette Schleierling *Cortinarius violaceus*. Er ist der einzige in allen Teilen violett gefärbte Schleierling und daher leicht kenntlich. Lt. Literatur soll er essbar sein. Ich habe ihn kürzlich ausprobiert und kann ihn nicht für die Küche empfehlen. Er schmeckt mild, aber ziemlich muffig. (Dieter Gewalt) [Mehr lesen >](/pilze/cortinarius-violaceus-violetter-schleierling)
 
 <div style="clear:  both"></div>
 
