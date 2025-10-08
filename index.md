@@ -24,6 +24,14 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_volemus_03_gg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.10.2025: Bei einem Pilzseminar bei *Björn Wergen* in Hornberg im Schwarzwald hatte ich das Glück, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Brätling *Lactarius volemus*, zu finden. Der sehr schmackhafte Pilz kann auch roh verzehrt werden, sofern man kein Problem mit dem fischigen Geruch hat. Seine Vorkommen gelten als stark rückläufig, weshalb er in Roten Listen als gefährdete Art (RL 3) geführt wird. (Bela Salgo, 13) [Mehr lesen >](/pilze/lactarius-volemus-brätling)
+
+<div style="clear:  both"></div> 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/chalciporus_piperatus_km_1.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,14 +76,6 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 {% include abbildung_ende.html %}
 
 03.10.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosascheckige Milchling *Lactarius controversus*. Diese noch zur Jahrtausendwende als selten bezeichnete aber auffällige Art wird zumindest im Rhein-Main-Gebiet immer häufiger gefunden und tritt sogar oft in großen Mengen auf. Hutdurchmesser von 25 cm sind keine Seltenheit. Verwechseln könnte man ihn vor allem mit dem [Wolligen Milchling *Lactarius vellereus*](/pilze/lactarius-vellereus-wolliger-milchling-erdschieber), der zumindest im Rhein-Main-Gebiet eine rückläufige Tendenz zeigt. Beide haben brennend scharfe Milch und sind daher keine Speisepilze. (Dieter Gewalt) [Mehr lesen >](/pilze/lactarius-controversus-rosascheckiger-milchling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pycnoporus_sanuineus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.10.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal von weit her: aus dem Kenting Nationalpark in Taiwan. Es ist die Blutrote Tramete *Pycnoporus sanguineus*, ein tropischer Verwandter unserer [Zinnoberroten Tramete *Pycnoporus cinnabarinus*](/pilze/pycnoporus-cinnabarinus-zinnoberrote-tramete). Bei sehen sich sehr ähnlich, die tropische unterscheidet sich von unserer einheimischen vor allem durch deutlich kleinere Poren. (Adam Adamovicz) [Mehr lesen >](/pilze/pycnoporus-sanguineus-blutrote-tramete)
 
 <div style="clear:  both"></div>
 
