@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-08.10.2025: [Chalciporus piperatus - Pfeffer-Röhrling](/pilze/chalciporus-piperatus-pfeffer-röhrling)  
+09.10.2025: [Lactarius volemus - Brätling](/pilze/lactarius-volemus-brätling)  
+08.10.2025: [Chalciporus piperatus - Pfeffer-Röhrling](/pilze/chalciporus-piperatus-pfeffer-röhrling)\
 07.10.2025: [Entoloma lividoalbum - Weißstieliger Rötling](/pilze/entoloma-lividoalbum-weißstieliger-rötling)\
 06.10.2025: [Mucilago crustacea - Schaumpilz](/pilze/mucilago-crustacea-schaumpilz-grubiges-polsterkissen)\
 05.10.2025: [Lactarius helvus - Bruch-Reizker, Maggipilz](/pilze/lactarius-helvus-bruch-reizker-maggipilz)\
