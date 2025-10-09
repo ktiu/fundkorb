@@ -24,6 +24,14 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/inocybe_geophylla_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.10.2025: In der artenreichen und schwierigen Gattung der [Risspilze](/verwandt/risspilze) gibt es einen, den man auf den ersten Blick sicher erkennen kann. Es ist der Erdblättrige Risspilz *Inocybe geophylla*, unser aktueller  [Fundkorbpilz](AA "Glossar-"). Seine Form und die weiße Farbe machen ihn unverwechselbar. Eigentlich sieht er gar nicht wie ein typischer Risspilz aus, aber man muss ihn nur an die Nase halten, um ihn aufgrund seines spermatischen Geruchs als Vertreter seiner Gattung zu entlarven. Er wächst zur Zeit an vielen Waldwegrändern. (Dieter Gewalt) [Mehr lesen >](/pilze/inocybe-geophylla-seidiger-risspilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_volemus_03_gg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,14 +76,6 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 {% include abbildung_ende.html %}
 
 04.10.2025: Lorcheln der Gattung *Helvella* sind nicht immer leicht zu unterscheiden. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die nicht gerade häufige Elastische Lorchel *Helvella elastica*. Wir haben sie gestern bei einem Waldspaziergang am Wegrand gefunden. Ihre Formenvielfalt ist enorm, ihre Farbe variiert von rauchgrau bis heller oder dunkler braun. (Dieter Gewalt) [Mehr lesen >](/pilze/helvella-elastica-elastische-lorchel)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_controversus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.10.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosascheckige Milchling *Lactarius controversus*. Diese noch zur Jahrtausendwende als selten bezeichnete aber auffällige Art wird zumindest im Rhein-Main-Gebiet immer häufiger gefunden und tritt sogar oft in großen Mengen auf. Hutdurchmesser von 25 cm sind keine Seltenheit. Verwechseln könnte man ihn vor allem mit dem [Wolligen Milchling *Lactarius vellereus*](/pilze/lactarius-vellereus-wolliger-milchling-erdschieber), der zumindest im Rhein-Main-Gebiet eine rückläufige Tendenz zeigt. Beide haben brennend scharfe Milch und sind daher keine Speisepilze. (Dieter Gewalt) [Mehr lesen >](/pilze/lactarius-controversus-rosascheckiger-milchling)
 
 <div style="clear:  both"></div>
 
