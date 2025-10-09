@@ -67,14 +67,14 @@ Der [Maronenröhling (*Xerocomus badius*)](/pilze/xerocomus-badius-maronenröhrl
 Der [Rotfußröhrling (*Xerocomus chrysenteron*)](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling), die mit Abstand häufigste Röhrlingsart, hat eine jung dunkelbraune, dann aufhellende und felderig aufreißende Huthaut, trüb gelbliche Röhren und rot am Stiel.\
 Die [Ziegenlippe (*Xerocomus subtomentosu*s)](/pilze/xerocomus-subtomentosus-ziegenlippe) hat einen olivbräunlichen Hut, lebhaft gelbe Poren und einen hellbräunlichen Stiel ohne rot.
 
-Was den Speisewert betrifft, gibt es eine klare Abstufung, wobei natürlich immer zu berücksichtigen ist, dass Geschmäcker verschieden sind:  
-Maronenröhrling: sehr gut, wenn auch nicht Steinpilzqualität  
-Ziegenlippe: gut  
+Was den Speisewert betrifft, gibt es eine klare Abstufung, wobei natürlich immer zu berücksichtigen ist, dass Geschmäcker verschieden sind:\
+Maronenröhrling: sehr gut, wenn auch nicht Steinpilzqualität\
+Ziegenlippe: gut\
 Rotfußröhrling: mittelmäßig, aber immer noch gut genug, um ihn als Mischpilz zu verwenden
 
-[Pilzkurs für Einsteiger (1)](/artikel/pilzkurs-für-einsteiger-1.html)  
+[Pilzkurs für Einsteiger (1)](/artikel/pilzkurs-für-einsteiger-1.html)\
 [Pilzkurs für Einsteiger (3)](/artikel/pilzkurs-für-einsteiger-3.html)
 
-
 **Literatur:**\
+<https://www.dgfm-ev.de/pilzesammeln-und-vergiftungen/vergiftungen/hilfe-bei-pilzvergiftungen>  
 [https://de.wikipedia.org/wiki/Dickröhrlingsartige](https://de.wikipedia.org/wiki/Dickr%C3%B6hrlingsartige)
