@@ -111,3 +111,4 @@ Das weiße Innere im Hexenei der Stinkmorchel ist übrigens roh essbar!
 <https://www.dgfm-ev.de/pilz-des-jahres/2022-fliegenpilz>\
 <https://www.dgfm-ev.de/pilz-des-jahres/2017-judasohr>\
 <https://www.dgfm-ev.de/pilz-des-jahres/2020-gewoehnliche-stinkmorchel>
+<https://www.dgfm-ev.de/pilzesammeln-und-vergiftungen/vergiftungen/hilfe-bei-pilzvergiftungen>
