@@ -40,8 +40,7 @@ Es gibt einen guten Grund, warum viele Pilzsammler, vor allem Anfänger, ausschl
 {% include bild.html datei="/bilder/einsteiger_05_dg.jpg" %}
 {% include abbildung_ende.html legende="Abb. links: verdorbene Maronenröhrlinge -- Abb.rechts: verschimmelte Rotfußröhrlinge (Goldschimmel)" %}
 
-... wir haben verdorbene oder verschimmelte in der Pfanne gehabt. Das kann böse enden. Die gesundheitlichen Risiken, die beim Verzehr von vergammelten Pilzen bestehen, sollten nicht unterschätzt werden. Sie können Bauchweh und Durchfall verursachen, einen Klinikaufenthalt zur Folge haben oder im schlimmsten Fall auf dem Friedhof enden. Die Erfahrung hat gezeigt: es gibt weit mehr Vergiftungen durch essbare aber verdorbene Pilze als durch echte Giftpilze.
+... wir haben verdorbene oder verschimmelte in der Pfanne gehabt. Das kann böse enden. Die gesundheitlichen Risiken, die beim Verzehr von vergammelten Pilzen bestehen, sollten nicht unterschätzt werden. Sie können Bauchweh und Durchfall verursachen, einen Klinikaufenthalt zur Folge haben oder im schlimmsten Fall auf dem Friedhof enden. Die Erfahrung hat gezeigt: es gibt weit mehr Vergiftungen durch essbare aber verdorbene Pilze als durch echte Giftpilze. Siehe auch: <https://www.dgfm-ev.de/pilzesammeln-und-vergiftungen/vergiftungen/hilfe-bei-pilzvergiftungen>
 
-[Pilzkurs für Einsteiger (2)](/artikel/pilzkurs-für-einsteiger-2.html)  
+[Pilzkurs für Einsteiger (2)](/artikel/pilzkurs-für-einsteiger-2.html)\
 [Pilzkurs für Einsteiger (3)](/artikel/pilzkurs-für-einsteiger-3.html)
-
