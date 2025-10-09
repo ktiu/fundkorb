@@ -1,7 +1,7 @@
 ---
 beschreibung:
   wissenschaftlich: Inocybe geophylla
-  deutsch: Erdblättriger Risspilz
+  deutsch: Seidiger Risspilz
   referenz: (Bull.) B. Kumm 1871
   familie: Inocybaceae
   erlaeuterung: geophylla = erdblättrig
