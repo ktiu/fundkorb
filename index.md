@@ -21,7 +21,15 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 
 - - -
 
-**Aktueller Fundkorbpilz:**
+\**Aktueller Fundkorbpilz:*
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/spathularia_flavida_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Einen Gelben Spateling (*Spathularia flavida*) im Bad Homburger Hirschgarten zu finden, ist schon etwas ganz besonderes und soll daher auch unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Bei Lärchen sind mir leuchtend gelbe Flecken aufgefallen, die mich neugierig machten und ich mir näher anschauen musste. Ich hatte den Pilz schon in meinen Bestimmungsbüchern gesehen und auch schon in dem ein oder anderen Video über Pilze. Zudem wusste ich, dass er zu den eher seltenen Arten zählt. Dies wird bestätigt durch die Fundzahlen der DGfM-Kartierungs-Seite. (Tanja Folberth) Mehr lesen >
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/inocybe_geophylla_01_dg.jpg" %}
@@ -68,14 +76,6 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 {% include abbildung_ende.html %}
 
 05.10.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Bruch-Reizker *Lactarius helvus*, der von Juli bis November in feuchten Nadelwäldern zu finden ist. Aufgrund der wässrigen, manchmal gar nicht austretenden Milch und des strengen Geruchs nach Maggi ist der leicht Magen-Darm-giftige Pilz einfach zu bestimmen. (Bela Salgo, 13) [Mehr lesen >](/pilze/lactarius-helvus-bruch-reizker-maggipilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_elastica_03_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-04.10.2025: Lorcheln der Gattung *Helvella* sind nicht immer leicht zu unterscheiden. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die nicht gerade häufige Elastische Lorchel *Helvella elastica*. Wir haben sie gestern bei einem Waldspaziergang am Wegrand gefunden. Ihre Formenvielfalt ist enorm, ihre Farbe variiert von rauchgrau bis heller oder dunkler braun. (Dieter Gewalt) [Mehr lesen >](/pilze/helvella-elastica-elastische-lorchel)
 
 <div style="clear:  both"></div>
 
