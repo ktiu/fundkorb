@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-10.10.2025: [Inocybe geophylla - Erdblättriger Risspilz](/pilze/inocybe-geophylla-seidiger-risspilz)  
+11.10.2025: [Spathularia flavida - Gelber Spateling](/pilze/spathularia-flavida-gelber-spateling)  
+10.10.2025: [Inocybe geophylla - Erdblättriger Risspilz](/pilze/inocybe-geophylla-seidiger-risspilz)\
 09.10.2025: [Lactarius volemus - Brätling](/pilze/lactarius-volemus-brätling)\
 08.10.2025: [Chalciporus piperatus - Pfeffer-Röhrling](/pilze/chalciporus-piperatus-pfeffer-röhrling)\
 07.10.2025: [Entoloma lividoalbum - Weißstieliger Rötling](/pilze/entoloma-lividoalbum-weißstieliger-rötling)\
