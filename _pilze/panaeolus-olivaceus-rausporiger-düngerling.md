@@ -26,13 +26,13 @@ Mit Düngerlingen beschäftigen sich nur wenige Pilzfreunde. Die Gattungszugehö
 {% include bild.html datei="/bilder/panaeolus_olivaceus_07_b-k.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abb. links: Sporen Panaeolus foenisecii -- Mitte: Sporen Panaeolus olivaceus (aus: Pilze der Schweiz Band 4, Seite 258)" %}
 
-Diese beiden Arten sind also leicht auseinanderzuhalten, wenn man mikroskopiert. Makroskopisch zeichnet sich Panaeolus olivaceus durch ein weiteres Merkmal aus. Seine Hüte verfärben sich beim Trocknen grau, während die anderer Düngerlinge mehr lederbräunlich verblassen.
+Diese beiden Arten sind also leicht auseinanderzuhalten, wenn man mikroskopiert. Makroskopisch zeichnet sich *Panaeolus olivaceus* durch ein weiteres Merkmal aus. Seine Hüte verfärben sich beim Trocknen grau, während die anderer Düngerlinge mehr lederbräunlich verblassen.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/panaeolus_olivaceus_05_fk.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Mikrofoto: Frank Kaster" %}
 
-Das von Frank Kaster aufgenommene Sporenfoto zeigt deutlich die fein punktierten Sporen von Panaeolus olivaceus. Damit waren ein Fund in einer Dietzenbacher Parkanlage und ein weiterer von einer Rasenfläche am Parkplatz vor dem Dietzenbacher Schwimmbad zweifelsfrei bestimmt. Sie wuchsen dort zusammen mit Nelkenschwindlingen und Milchweißen Samthäubchen.
+Das von Frank Kaster aufgenommene Sporenfoto zeigt deutlich die fein punktierten Sporen von *Panaeolus olivaceus*. Damit waren ein Fund in einer Dietzenbacher Parkanlage und ein weiterer von einer Rasenfläche am Parkplatz vor dem Dietzenbacher Schwimmbad zweifelsfrei bestimmt. Sie wuchsen dort zusammen mit Nelkenschwindlingen und Milchweißen Samthäubchen.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/panaeolus_olivaceus_02_dg.jpg" nocrop=true %}
@@ -42,4 +42,6 @@ Das von Frank Kaster aufgenommene Sporenfoto zeigt deutlich die fein punktierten
 
 Die Autoren von Die Großpilze Baden-Württembergs sprechen von "scheinbarer Seltenheit" und weisen darauf hin, dass der Rausporige Düngerling in Norddeutschland verbreitet vorkommt. In der [Online-Kartierung der DGfM](http://hessen.pilze-deutschland.de/organismen/panaeolus-olivaceus-fh-m%C3%B8ller-1945) sind für das Rhein-Main-Gebiet drei nicht weit voneinander entfernte Funde verzeichnet (Steinbach, Stadtpark Höchst, Ffm-Riedberg). Mit unseren Dietzenbacher Funden kommen zwei weitere hinzu.
 
-Einige Düngerlingsarten enthalten *Psilocybin*, den Stoff, der Halluzinationen erzeugt. Vermutlich trifft dies auch auf Panaeolus olivaceus zu.
+Einige Düngerlingsarten enthalten *Psilocybin*, den Stoff, der Halluzinationen erzeugt. Vermutlich trifft dies auch auf *Panaeolus olivaceus* zu.
+
+Mehr über die Verwandtschaft der Düngerlinge [erfahren Sie hier >](https://fundkorb.de/verwandt/düngerlinge-panaeolus)
