@@ -33,3 +33,5 @@ Mikromerkmale:
 Basidien 4-sporig, glatt, zylindrisch, 35 – 42 x 16 – 20 µm; Sporen glatt, elliptisch, 16 – 24 x 9,5 – 13 µm; Cheilozystiden unterschiedlich flaschenförmig, Pleuro- und Chrysozystiden spindelig bis keulig, Septen ohne Schnallen.
 
 Ring-Düngerlinge wachsen gern gesellig unmittelbar auf oder nahe an Dungablagerungen auf Wiesen und Weiden, auch auf von Reitern begangenen Waldwegen, z. B. Kuhfladen, Pferdeäpfel, Schafsdung. Sie kommen vor allem in Höhenlagen zwischen 400 und 1000 m vor, seltener im Flachland. Erscheinungzeit ist Juni bis Oktober.
+
+Mehr über die Verwandtschaft der Düngerlinge [erfahren Sie hier >](/verwandt/düngerlinge-panaeolus)
