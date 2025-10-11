@@ -22,7 +22,7 @@ literatur:
 In der nicht sehr populären Gattung der Düngerlinge gibt es eigentlich nur zwei Arten, die vor Ort bestimmt werden können. Es sind die beiden einzigen mit Ring am Stiel, der jedoch sehr vergänglich ist und daher fehlen oder nur noch als spärliches Relikt vorhanden sein kann. Dies sind:
 
 Panaeolus papilionaceus  Glocken-Düngerling:
-bräunlicher oder graubrauner glockiger Hut, Rand mit dreieckigen  weißen Velumresten behangen  
+bräunlicher oder graubrauner glockiger Hut, Rand mit dreieckigen  weißen Velumresten behangen\
 Panaeolus semiovatus  Ring-Düngerling:
 heller eiförmiger Hut, ohne Behang am Hutrand
 
@@ -31,3 +31,5 @@ Bei jungen Fruchtkörpern des Glocken-Düngerlings mit noch geschlossenem Hut si
 Zu finden ist er an gedüngten Stellen oder gern auch direkt auf Pferdemist. Man hat ihn schon auf mit Klärschlamm gedüngten Böden in solchen Massen gefunden, dass durch ihn das Wachstum von Gemüsepflanzen behindert wurde.
 
 Einige Düngerlingarten stehen im Verdacht, den halluzinogen Stoff Psilocybin zu enthalten. Vor Kostversuchen oder Verzehr wird daher ausdrücklich gewarnt.
+
+Mehr über die Verwandtschaft der Düngerlinge [erfahren Sie hier >](/verwandt/düngerlinge-papilionaceus)
