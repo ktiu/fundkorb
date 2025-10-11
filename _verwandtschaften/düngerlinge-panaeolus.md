@@ -28,7 +28,7 @@ In Mitteleuropa sind ca. 13 *Panaeolus*-Arten nachgewiesen, von denen zwei als h
 {% include bild.html datei="/bilder/panaeolus_foenisecii_01_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Behangerner Düngerling Panaeolus papilionaceus – Heu-Düngerling Panaeolus foenisecii" %}
 
-Der Behangene Düngerling ist durch die weißflockigen Hautreste am Hutrand bereits gut gekennzeichnet. Sie entstehen beim Aufschirmen der trockenen (nicht [hygrophanen](hygrophan "Glossar")) Hüte, wenn sich das zuvor zwischen Hutrand und Stiel vorhandene Velum partiale vom Stiel löst und am Hutrand hängen bleibt. Der Heu-Düngerling fällt vor allem auf, wenn er auf frisch gemähten Wiesen erscheint, oft in großer Zahl. Seine halbkugeligen stark hygrophanen, bald verflachenden Hüte sind hell- bis dunkelbraun, auch graubraun, und verblassen stark bei Trockenheit. Er ist der einzige Düngerling mit deutlich warzigen Sporen, weshalb er auch schon in eine eigene Gattung (*Panaeolina*) gestellt worden ist.
+Der [Behangene Düngerling *Panaeolus papilionaceus*](/pilze/panaeolus-papilionaceus-behangener-düngerling-glocken-düngerling) ist durch die weißflockigen Hautreste am Hutrand bereits gut gekennzeichnet. Sie entstehen beim Aufschirmen der trockenen (nicht [hygrophanen](hygrophan "Glossar")) Hüte, wenn sich das zuvor zwischen Hutrand und Stiel vorhandene Velum partiale vom Stiel löst und am Hutrand hängen bleibt. Der [Heu-Düngerling *Panaeolus foenisecii*](/pilze/panaeolus-foenisecii-heu-düngerling) fällt vor allem auf, wenn er auf frisch gemähten Wiesen erscheint, oft in großer Zahl. Seine halbkugeligen stark hygrophanen, bald verflachenden Hüte sind hell- bis dunkelbraun, auch graubraun, und verblassen stark bei Trockenheit. Er ist der einzige Düngerling mit deutlich warzigen Sporen, weshalb er auch schon in eine eigene Gattung (*Panaeolina*) gestellt worden ist.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/panaeolus_foenisecii_07_dgfm.jpg" %}
@@ -50,8 +50,8 @@ Unter den Düngerlinge gibt es keine essbaren Arten. Die meisten sind giftig ode
 
 Die nachfolgend angeführten Düngerlingsarten sind mit ausführlicheren Porträts im Fundkorb enthalten:
 
-Panaeolus acuminatus = Langstieliger Düngerling
-Panaeolus foenisecii = Heu-Düngerling
-Panaeolus olivaceus = Rausporiger Düngerling
-Panaeolus papilionaceus = Behangener Düngerling 
+Panaeolus acuminatus = Langstieliger Düngerling  
+[Panaeolus foenisecii = Heu-Düngerling](/pilze/panaeolus-foenisecii-heu-düngerling)  
+[Panaeolus olivaceus = Rausporiger Düngerling](/pilze/panaeolus-olivaceus-rausporiger-düngerling)  
+[Panaeolus papilionaceus = Behangener Düngerling](/pilze/panaeolus-papilionaceus-behangener-düngerling-glocken-düngerling)  
 Panaeolus semiovatus = Ring-Düngerling
