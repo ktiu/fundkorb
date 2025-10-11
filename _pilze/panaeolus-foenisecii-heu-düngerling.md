@@ -33,3 +33,5 @@ Während der Sommermonate genügt selbst nach längerer Trockenheit ein kurzer R
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/panaeolus_foenisecii_06_fk.jpg" %}
 {% include abbildung_ende.html legende="Sporen ornamentiert, im Durschnitt 13 x 8,5 µm groß   (Mikrofoto: Frank Kaster)" %}
+
+Mehr über die Verwandtschaft der Düngerlinge [erfahren Sie hier >](/verwandt/düngerlinge-panaeolus)
