@@ -35,3 +35,5 @@ Mikromerkmale:
 Basidien 4-sporig, zylindrisch bis keulig, 22 – 27 x 10 - 13 µm; Sporen mandel- bis zitronenförmig, 12 -16 x 7 – 11 µm; Cheilozystiden vielgestaltig zylindrisch bis flaschenförmig, manche etwas wellig oder nahezu fädig, 25 – 38 x 7 – 10 µm; keine Pleurozystiden; Septen ohne Schnallen.
 
 Der Langstielige Düngerling ist eine nitrophile Art in Wiesen und Weiden auf frischen nährstoffreichen Böden, auch an grasigen Waldwegrändern, vom Flachland bis in die alpine Zone. Erscheinungszeit Juni bis November.
+
+Mehr über die Verwandtschaft der Düngerlinge [erfahren Sie hier >](/verwandt/düngerlinge-panaeolus)
