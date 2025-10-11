@@ -24,6 +24,14 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_armeniacus_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+12.10.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Aprikosenfarbige Röhrling *Xerocomus armeniacu*s, der sicherlich bei so manchem Speisepilzsammler als Rotfußröhrling im Pilzkorb landet. Er unterscheidet sich vom „normalen“ [Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling) vor allem durch seine Hutfarbe. Der seltene Pilz bevorzugt wärmebegünstigte Lagen und die Nähe von Eichen. Im Mittelmeerraum ist er jedoch wesentlich häufiger. (Bela Salgo, 13) [Mehr lesen >](/pilze/xerocomus-armeniacus-aprikosenfarbiger-röhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/spathularia_flavida_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,14 +76,6 @@ Einen Gelben Spateling (*Spathularia flavida*) im Bad Homburger Hirschgarten zu 
 {% include abbildung_ende.html %}
 
 06.10.2025: [Schleimpilze](/verwandt/schleimpilze-myxomyzeten) sind genau genommen Tiere, die sich in ihrem Reifestadium wie Pilze mittels Sporen vermehren. Unter ihnen haben viele sehr ungewöhnliche Fruchtkörper. Manche wie unser aktueller [Fundkorbpilz](AA "Glossar-") *Mucilago crustacea* (Schaumpilz) sehen aus wie Wesen aus einer fremden Welt und verändern ihre Gestalt auch noch mehrfach in ihrem meist nur kurzen Leben. An morschem Holz bildet er kissenartige Strukturen, an Gräsern kann er hochklettern und kugelige oder beutelartige Formen entwickeln. (Dieter Gewalt) [Mehr lesen >](/pilze/mucilago-crustacea-schaumpilz-grubiges-polsterkissen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_helvus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.10.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Bruch-Reizker *Lactarius helvus*, der von Juli bis November in feuchten Nadelwäldern zu finden ist. Aufgrund der wässrigen, manchmal gar nicht austretenden Milch und des strengen Geruchs nach Maggi ist der leicht Magen-Darm-giftige Pilz einfach zu bestimmen. (Bela Salgo, 13) [Mehr lesen >](/pilze/lactarius-helvus-bruch-reizker-maggipilz)
 
 <div style="clear:  both"></div>
 
