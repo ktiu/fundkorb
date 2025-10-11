@@ -50,8 +50,8 @@ Unter den Düngerlinge gibt es keine essbaren Arten. Die meisten sind giftig ode
 
 Die nachfolgend angeführten Düngerlingsarten sind mit ausführlicheren Porträts im Fundkorb enthalten:
 
-Panaeolus acuminatus = Langstieliger Düngerling  
-[Panaeolus foenisecii = Heu-Düngerling](/pilze/panaeolus-foenisecii-heu-düngerling)  
-[Panaeolus olivaceus = Rausporiger Düngerling](/pilze/panaeolus-olivaceus-rausporiger-düngerling)  
-[Panaeolus papilionaceus = Behangener Düngerling](/pilze/panaeolus-papilionaceus-behangener-düngerling-glocken-düngerling)  
-Panaeolus semiovatus = Ring-Düngerling
+[Panaeolus acuminatus = Langstieliger Düngerling](/pilze/panaeolus-acuminatus-langstieliger-düngerling)\
+[Panaeolus foenisecii = Heu-Düngerling](/pilze/panaeolus-foenisecii-heu-düngerling)\
+[Panaeolus olivaceus = Rausporiger Düngerling](/pilze/panaeolus-olivaceus-rausporiger-düngerling)\
+[Panaeolus papilionaceus = Behangener Düngerling](/pilze/panaeolus-papilionaceus-behangener-düngerling-glocken-düngerling)\
+[Panaeolus semiovatus = Ring-Düngerling](/pilze/panaeolus-semiovatus-ring-düngerling)
