@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-12.10.2025: [Xerocomus armeniacus - Aprikosenfarbiger Röhrling](/pilze/xerocomus-armeniacus-aprikosenfarbiger-röhrling)  
+13.10.2025: [Phlebia tremellosa - Gallertfleischiger Fältling](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)  
+12.10.2025: [Xerocomus armeniacus - Aprikosenfarbiger Röhrling](/pilze/xerocomus-armeniacus-aprikosenfarbiger-röhrling)\
 11.10.2025: [Spathularia flavida - Gelber Spateling](/pilze/spathularia-flavida-gelber-spateling)\
 10.10.2025: [Inocybe geophylla - Erdblättriger Risspilz](/pilze/inocybe-geophylla-seidiger-risspilz)\
 09.10.2025: [Lactarius volemus - Brätling](/pilze/lactarius-volemus-brätling)\
