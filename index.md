@@ -24,6 +24,14 @@ jeweils sonntags am 12., 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Inf
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phlebia_tremellosa_01_cw.jpg" %}
+{% include abbildung_ende.html %}
+
+13.10.2025: Der aktuelle [Fundkorbpilz](AA "Glossar-"), der Gallertfleischige Fältling *Phlebia tremellosa*, kann kaum mit anderen Arten verwechselt werden, offenbart seine Schönheit aber oft erst auf den zweiten Blick. Charakteristisch sind die faltige fleischfarbene oder gelb-orangene Unterseite, die fein-filzige hellere Oberseite und die gummi-artige Konsistenz. Die einjährigen Fruchtkörper wachsen zum Teil [resupinat](resupinat "Glossar"), bilden aber meist mehrere bis zahlreiche abstehende, dachziegelig angeordnete Hutkanten, die miteinander verbunden sind. (Ulrike Wegner) [Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_armeniacus_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
