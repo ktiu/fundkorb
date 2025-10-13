@@ -26,7 +26,7 @@ In Mitteleuropa sind ca. 13 *Panaeolus*-Arten nachgewiesen, von denen zwei als h
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/panaeolus_papilionaceus_01_dg.jpg" %}
 {% include bild.html datei="/bilder/panaeolus_foenisecii_01_dg.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Behangerner Düngerling Panaeolus papilionaceus – Heu-Düngerling Panaeolus foenisecii" %}
+{% include abbildung_ende.html legende="Behangener Düngerling Panaeolus papilionaceus – Heu-Düngerling Panaeolus foenisecii" %}
 
 Der [Behangene Düngerling *Panaeolus papilionaceus*](/pilze/panaeolus-papilionaceus-behangener-düngerling-glocken-düngerling) ist durch die weißflockigen Hautreste am Hutrand bereits gut gekennzeichnet. Sie entstehen beim Aufschirmen der trockenen (nicht [hygrophanen](hygrophan "Glossar")) Hüte, wenn sich das zuvor zwischen Hutrand und Stiel vorhandene Velum partiale vom Stiel löst und am Hutrand hängen bleibt. Der [Heu-Düngerling *Panaeolus foenisecii*](/pilze/panaeolus-foenisecii-heu-düngerling) fällt vor allem auf, wenn er auf frisch gemähten Wiesen erscheint, oft in großer Zahl. Seine halbkugeligen stark hygrophanen, bald verflachenden Hüte sind hell- bis dunkelbraun, auch graubraun, und verblassen stark bei Trockenheit. Er ist der einzige Düngerling mit deutlich warzigen Sporen, weshalb er auch schon in eine eigene Gattung (*Panaeolina*) gestellt worden ist.
 
