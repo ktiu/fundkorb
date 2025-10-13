@@ -23,6 +23,14 @@ sonntags am 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_sulphureum_01_dg-2048x1293.jpeg" %}
+{% include abbildung_ende.html %}
+
+14.10.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwefelritterling *Tricholoma sulphureum*. Bei pilzkundlichen Führungen ist es immer sehenswert, die Reaktionen der Teilnehmer(innen) zu beobachten. Die sind sowohl optisch wie auch akkustisch eklatant. Kinder rennen schreiend davon. Eine junge Frau meinte, nachdem sie sich von ihrem Geruchserlebnis erholt hatte: "Der stinkt ja noch fürchterlicher als die Stinkmorchel." Er hat übrigens einen genau so stinkenden purpurbraunen Verwandten: *[Tricholoma bufonium](/pilze/tricholoma-bufonium-purpurbrauner-schwefelritterling)*. (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-sulphureum-schwefelritterling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phlebia_tremellosa_01_cw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,22 +75,6 @@ Einen Gelben Spateling (*Spathularia flavida*) im Bad Homburger Hirschgarten zu 
 {% include abbildung_ende.html %}
 
 08.10.2025: Solange man ihn anschaut, ist er unscheinbar und unauffällig, aber bei einer Geschmacksprobe brennt unser aktueller [Fundkorbpilz](AA "Glossar-"), der Pfeffer-Röhrling *Chalciporus piperatus*, pfefferig scharf auf der Zunge. Meines Wissens gibt es keinen anderen Röhrling mit scharfem Geschmack, sodass wir es hier mit einem Alleinstellungsmerkmal zu tun haben. Gefunden anlässlich einer Pilzkartierungstour im Nordschwarzwald bei Karlsbad. (Bernd Miggel) [Mehr lesen >](/pilze/chalciporus-piperatus-pfeffer-röhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/entoloma_lividoalbum_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-07.10.2025: Unter den Rötlingen gibt es nur zwei essbare Arten und die könnten mit unserem aktuellen [Fundkorbpilz](AA "Glossar-") *Entoloma lividoalbum*, dem Weißstieligen Rötling, verwechselt werden. Der bevorzugt grasige Wegränder im Wald, während die beiden anderen ([Schild-](/pilze/entoloma-clypeatum-schildrötling) und [Schlehenrötling](/pilze/entoloma-sepium-schlehenrötling)) vor allem in Streuobstwiesen bei Obstbäumen angetroffen werden. (Dieter Gewalt) [Mehr lesen >](/pilze/entoloma-lividoalbum-weißstieliger-rötling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mucilago_crustacea_03_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-06.10.2025: [Schleimpilze](/verwandt/schleimpilze-myxomyzeten) sind genau genommen Tiere, die sich in ihrem Reifestadium wie Pilze mittels Sporen vermehren. Unter ihnen haben viele sehr ungewöhnliche Fruchtkörper. Manche wie unser aktueller [Fundkorbpilz](AA "Glossar-") *Mucilago crustacea* (Schaumpilz) sehen aus wie Wesen aus einer fremden Welt und verändern ihre Gestalt auch noch mehrfach in ihrem meist nur kurzen Leben. An morschem Holz bildet er kissenartige Strukturen, an Gräsern kann er hochklettern und kugelige oder beutelartige Formen entwickeln. (Dieter Gewalt) [Mehr lesen >](/pilze/mucilago-crustacea-schaumpilz-grubiges-polsterkissen)
 
 <div style="clear:  both"></div>
 
