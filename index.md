@@ -23,6 +23,14 @@ sonntags am 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/echinoderma_asperum_04_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+15.10.2025: Schirmlinge gibt es in zahlreichen Gattungen, die nichts mit den gern und viel gesammelten Parasolen (*Macrolepiota*) zu tun haben. Da wäre zum Beispiel der  Raue (Spitzschuppige) Schirmling *Echinoderma asperum*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Dass er nicht für die Küche taugt, dafür sorgt schon sein widerwärtiger, stechend gasartiger Geruch; außerdem soll er magen-/darmgiftig sein. Er bevorzugt stickstoffreiche und kalkhaltige Böden, ist also nicht selten an Wegrändern oder bei Brennnesseln zu finden. Kürzlich gesehen habe ich ihn im nördlichen Schwarzwald. (Bernd Miggel) [Mehr lesen >](/pilze/echinoderma-asperum-rauer-schirmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_sulphureum_01_dg-2048x1293.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -69,14 +77,6 @@ Einen Gelben Spateling (*Spathularia flavida*) im Bad Homburger Hirschgarten zu 
 09.10.2025: Bei einem Pilzseminar bei *Björn Wergen* in Hornberg im Schwarzwald hatte ich das Glück, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Brätling *Lactarius volemus*, zu finden. Der sehr schmackhafte Pilz kann auch roh verzehrt werden, sofern man kein Problem mit dem fischigen Geruch hat. Seine Vorkommen gelten als stark rückläufig, weshalb er in Roten Listen als gefährdete Art (RL 3) geführt wird. (Bela Salgo, 13) [Mehr lesen >](/pilze/lactarius-volemus-brätling)
 
 <div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chalciporus_piperatus_km_1.jpg" %}
-{% include abbildung_ende.html %}
-
-08.10.2025: Solange man ihn anschaut, ist er unscheinbar und unauffällig, aber bei einer Geschmacksprobe brennt unser aktueller [Fundkorbpilz](AA "Glossar-"), der Pfeffer-Röhrling *Chalciporus piperatus*, pfefferig scharf auf der Zunge. Meines Wissens gibt es keinen anderen Röhrling mit scharfem Geschmack, sodass wir es hier mit einem Alleinstellungsmerkmal zu tun haben. Gefunden anlässlich einer Pilzkartierungstour im Nordschwarzwald bei Karlsbad. (Bernd Miggel) [Mehr lesen >](/pilze/chalciporus-piperatus-pfeffer-röhrling)
-
-<div style="clear:  both"></div>
 
 - - -
 
