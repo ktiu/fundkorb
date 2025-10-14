@@ -54,6 +54,7 @@ Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das [Video des US-ameri
 Bisher 28 Schleimpilzarten aus 14 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
 
 [Amaurochaete atra (Stemonitidaceae) = Schwarzer Schillerborstling](/pilze/amaurochaete-atra-schwarzer-schillerborstling)\
+[Arcyria denudata (Arcyriaceae) Ziegelroter Stielschleimpilz](/pilze/arcyria-denudata-ziegelroter-stielschleimpilz)\
 [Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
 [Arcyria incarnata (Arcyriaceae) - Roter Kelchstäubling](/pilze/arcyria-incarnata-roter-kelchst%C3%A4ubling)\
 [Arcyria obvelata (Arcyriaceae) - Nickender Kelchschleimpilz](/pilze/arcyria-obvelata-arcyria-obvelata)\
@@ -75,7 +76,7 @@ Bisher 28 Schleimpilzarten aus 14 Gattungen (7 Familien) im Fundkorb. Weitere we
 [Reticularia lycoperdon (Enteridiaceae) - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
 [Stemonitis axifera (Stemonitidaceae) - Gemeines Fadenstäubchen](/pilze/stemonitis-axifera-gemeines-fadenstäubchen)\
 [Stemonitis fusca (Stemonitidaceae) - Dunkles Fadenstäubchen](/pilze/stemonitis-fusca-dunkles-fadenstäubchen)\
-Stemonitis typhina (Stemonitidaceae) Glänzendes Fadenkeulchen  
+Stemonitis typhina (Stemonitidaceae) Glänzendes Fadenkeulchen\
 [Trichia decipiens (Trichiaceae) - Rotköpfiger Schleimpilz](/pilze/trichia-decipiens-rotköpfiger-schleimpilz)\
 [Trichia favoginea (Trichiaceae) - Gelber Schleimpilz](/pilze/trichia-favoginea-gelber-schleimpilz)\
 [Trichia persimilis (Trichiaceae) - Ockerfarbener Neststäubling](/pilze/trichia-persimilis-ockerfarbener-neststäubling)\
