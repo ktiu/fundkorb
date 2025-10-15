@@ -54,7 +54,7 @@ Teilen wir uns die Erde mit intelligenten Schleimpilzen? Das [Video des US-ameri
 Bisher 30 Schleimpilzarten aus 15 Gattungen (7 Familien) im Fundkorb. Weitere werden folgen.
 
 [Amaurochaete atra (Stemonitidaceae) - Schwarzer Schillerborstling](/pilze/amaurochaete-atra-schwarzer-schillerborstling)\
-Badhamia panicea (Physaraceae) - Grauweißer Kugelschleimpilz  
+[Badhamia panicea (Physaraceae) - Grauweißer Kugelschleimpilz](/pilze/badhamia-panicea-grauweißer-kugelschleimpilz)\
 [Arcyria denudata (Arcyriaceae) Ziegelroter Stielschleimpilz](/pilze/arcyria-denudata-ziegelroter-stielschleimpilz)\
 [Arcyria ferruginea (Arcyriaceae) - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
 [Arcyria incarnata (Arcyriaceae) - Roter Kelchstäubling](/pilze/arcyria-incarnata-roter-kelchst%C3%A4ubling)\
