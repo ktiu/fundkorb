@@ -23,6 +23,14 @@ sonntags am 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/strobilomyces_strobilaceus_02_rm.jpg" %}
+{% include abbildung_ende.html %}
+
+16.10.2025: Unter den Röhrlingen gibt es einen, den man schon aus zehn Metern Entfernung zweifelsfrei erkennen kann. Deshalb ist der Strubbelkopfröhrling (*Strobilomyces strobilaceus*) unser aktueller [Fundkorbpilz](AA "Glossar-") für heute. Manche behaupten, er sei essbar. Das stimmt insofern, als er nicht giftig ist. Ich hab ihn mal probiert und finde, er schmeckt etwa so wie er aussieht. (Dieter Gewalt) [Mehr lesen >](<16.10.2025: Unter den Röhrlingen gibt es einen, den man schon aus zehn Metern Entfernung zweifelsfrei erkennen kann. Deshalb ist der Strubbelkopfröhrling (Strobilomyces strobilaceus) unser aktueller [Fundkorbpilz](AA "Glossar-") für heute. Manche behaupten, er sei essbar. Das stimmt insofern, als er nicht giftig ist. Ich hab ihn mal probiert und finde, er schmeckt etwa so wie er aussieht. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>>)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/echinoderma_asperum_04_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -61,22 +69,6 @@ sonntags am 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine
 Einen Gelben Spateling (*Spathularia flavida*) im Bad Homburger Hirschgarten zu finden, ist schon etwas ganz besonderes und soll daher auch unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Bei Lärchen sind mir leuchtend gelbe Flecken aufgefallen, die mich neugierig machten und ich mir näher anschauen musste. Ich hatte den Pilz schon in meinen Bestimmungsbüchern gesehen und auch schon in dem ein oder anderen Video über Pilze. Zudem wusste ich, dass er zu den eher seltenen Arten zählt. Dies wird bestätigt durch die Fundzahlen der DGfM-Kartierungs-Seite. (Tanja Folberth) [Mehr lesen >](/pilze/spathularia-flavida-gelber-spateling)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/inocybe_geophylla_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.10.2025: In der artenreichen und schwierigen Gattung der [Risspilze](/verwandt/risspilze) gibt es einen, den man auf den ersten Blick sicher erkennen kann. Es ist der Erdblättrige Risspilz *Inocybe geophylla*, unser aktueller  [Fundkorbpilz](AA "Glossar-"). Seine Form und die weiße Farbe machen ihn unverwechselbar. Eigentlich sieht er gar nicht wie ein typischer Risspilz aus, aber man muss ihn nur an die Nase halten, um ihn aufgrund seines spermatischen Geruchs als Vertreter seiner Gattung zu entlarven. Er wächst zur Zeit an vielen Waldwegrändern. (Dieter Gewalt) [Mehr lesen >](/pilze/inocybe-geophylla-seidiger-risspilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_volemus_03_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.10.2025: Bei einem Pilzseminar bei *Björn Wergen* in Hornberg im Schwarzwald hatte ich das Glück, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Brätling *Lactarius volemus*, zu finden. Der sehr schmackhafte Pilz kann auch roh verzehrt werden, sofern man kein Problem mit dem fischigen Geruch hat. Seine Vorkommen gelten als stark rückläufig, weshalb er in Roten Listen als gefährdete Art (RL 3) geführt wird. (Bela Salgo, 13) [Mehr lesen >](/pilze/lactarius-volemus-brätling)
-
-<div style="clear:  both"></div> 
 
 - - -
 
