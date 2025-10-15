@@ -26,9 +26,9 @@ sonntags am 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine
 {% include bild.html datei="/bilder/strobilomyces_strobilaceus_02_rm.jpg" %}
 {% include abbildung_ende.html %}
 
-16.10.2025: Unter den Röhrlingen gibt es einen, den man schon aus zehn Metern Entfernung zweifelsfrei erkennen kann. Deshalb ist der Strubbelkopfröhrling (*Strobilomyces strobilaceus*) unser aktueller [Fundkorbpilz](AA "Glossar-") für heute. Manche behaupten, er sei essbar. Das stimmt insofern, als er nicht giftig ist. Ich hab ihn mal probiert und finde, er schmeckt etwa so wie er aussieht. (Dieter Gewalt) [Mehr lesen >](<16.10.2025: Unter den Röhrlingen gibt es einen, den man schon aus zehn Metern Entfernung zweifelsfrei erkennen kann. Deshalb ist der Strubbelkopfröhrling (Strobilomyces strobilaceus) unser aktueller [Fundkorbpilz](AA "Glossar-") für heute. Manche behaupten, er sei essbar. Das stimmt insofern, als er nicht giftig ist. Ich hab ihn mal probiert und finde, er schmeckt etwa so wie er aussieht. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>>)
+16.10.2025: Unter den Röhrlingen gibt es einen, den man schon aus zehn Metern Entfernung zweifelsfrei erkennen kann. Deshalb ist der Strubbelkopfröhrling (*Strobilomyces strobilaceus*) unser aktueller [Fundkorbpilz](AA "Glossar-") für heute. Manche behaupten, er sei essbar. Das stimmt insofern, als er nicht giftig ist. Ich hab ihn mal probiert und finde, er schmeckt etwa so wie er aussieht. (Dieter Gewalt) [Mehr lesen >](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)
 
-<div style="clear:  both"></div>
+<div style="clear:  both"></div> 
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/echinoderma_asperum_04_dg.jpeg" %}
