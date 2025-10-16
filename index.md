@@ -23,6 +23,14 @@ sonntags am 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_citrina_gg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.10.2025: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") ist der Gelbe Knollenblätterpilz *Amanita citrina*. Sein Hut variiert in der Farbe von Gelb über gelblich-grün bis Weiß und trägt schollige Velumreste. Auffällig ist die scharf gerandete Knolle an der Stielbasis, die weiß oder gelblich ist und den typischen Kartoffel-Keller-Geruch aufweist. Der Pilz enthält das Krötengift Bufotenin, das nur beim rohen Verzehr giftig wirkt. Wegen seines unangenehmen Geschmacks ist er nicht als Speisepilz geeignet. (Katja Bauer) [Mehr lesen >](/pilze/amanita-citrina-gelber-knollenblätterpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/strobilomyces_strobilaceus_02_rm.jpg" %}
 {% include abbildung_ende.html %}
 
