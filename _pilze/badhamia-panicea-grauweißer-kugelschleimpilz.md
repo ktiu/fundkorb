@@ -7,7 +7,7 @@ beschreibung:
   familie: Physaraceae
 profil:
   aktualisiert: 2025-10-15
-  autor_in: Dieteer Gewalt
+  autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
   datei: /bilder/badhamia_panicea_01_dg.jpg
