@@ -23,4 +23,6 @@ Die zu den [Ascomyzeten](Ascomyzeten "Glossar") gehörige Gattung Taphrina enth�
 {% include bild.html datei="/bilder/taphrina_caerulescens_03_wl.jpg" %}
 {% include abbildung_ende.html legende="Foto: Wolfgang Lißner" %}
 
-Im Englischen heißt dieser Pilz Oak Leave Blister  (blister = Blase. Beule)
+Im Englischen heißt dieser Pilz Oak Leave Blister  (blister = Blase, Beule)
+
+Mehr über die Verwandtschaft der Narrentaschen, Hexenbesen, Kräuselkrankheiten [erfahren Sie hier >](/verwandt/narrentaschen-hexenbesen-kräuselkrankheiten)
