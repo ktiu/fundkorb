@@ -15,8 +15,8 @@ footer_scripts:
 **Pilzkundliche Führung für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach am Samstag, 18.10.2025, 10:00 Uhr\
 **Dieser Termin ist leider ausgebucht**
 
-**Der Wald und seine Pilze im Oktober** - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Heusenstamm am Sonntag, 19.10.2025 um 10:00 Uhr
-Hier geht's zur Anmeldung >
+**Der Wald und seine Pilze im Oktober** - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Heusenstamm am Sonntag, 19.10.2025 um 10:00 Uhr  
+[Hier geht's zur Anmeldung >](/termine)
 
 **Pilzberatung im Gesundheitsamt der Stadt Frankfurt am Main**\
 sonntags am 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine)
