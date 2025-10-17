@@ -23,4 +23,4 @@ Hexenbesen wird man kaum einmal aus der Nähe sehen können. Man müsste in die 
 
 *Taphrina betulina* gehört zu den *Ascomyzeten*, deren Sporen in winzigen Schläuchen, den sogenannten Asci, heranwachsen. Dabei verändert der Pilz die Wuchsweise der Äste, indem er diese zu immer neuen meist nur kurzen Austrieben anregt, wobei die auf dem obigen Foto sichtbaren dicht verzweigten Büschel entstehen. Die Asci messen 25 – 70 x 10 – 25 µm und enthalten jeweils acht dünnwandige, glatte, unregelmäßig geformte Sporen mit den Maßen 4 – 6,5 x 2,5 – 5 µm. Das Myzel des Pilzes überwintert in der Rinde der Zweige.
 
-An anderen Laubhölzern kommen weitere Hexenbesenarten vor. Mehr über die Verwandtschaft der Düngerlinge erfahren Sie hier >
+An anderen Laubhölzern kommen weitere Hexenbesenarten vor. Mehr über die Verwandtschaft der Narrentaschen, Hexenbesen, Kräuselkrankheiten [erfahren Sie hier >](/verwandt/narrentaschen-hexenbesen-kräuselkrankheiten)
