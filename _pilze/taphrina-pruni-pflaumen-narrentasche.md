@@ -33,3 +33,5 @@ Die Gattung Taphrina gehört zu den Schlauchpilzen (Ascomyzeten). Die Schläuche
 {% include bild.html datei="/bilder/taphrina_pruni_07_dg.jpg" %}
 {% include bild.html datei="/bilder/taphrina_pruni_04_dg.jpg" %}
 {% include abbildung_ende.html %}
+
+Mehr über die Verwandtschaft der Narrentaschen, Hexenbesen, Kräuselkrankheiten [erfahren Sie hier >](/verwandt/narrentaschen-hexenbesen-kräuselkrankheiten)
