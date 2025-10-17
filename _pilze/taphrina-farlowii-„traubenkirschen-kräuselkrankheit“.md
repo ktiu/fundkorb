@@ -24,3 +24,5 @@ Die zu den [Ascomyzeten](Ascomyzeten "Glossar") gehörige Gattung *Taphrina* ent
 Taphrina farlowii erscheint an Blättern und Blütenknospen der [Spätblühenden Traubenkirsche *Prunus serotina*](https://www.waldwissen.net/assets/waldwirtschaft/schaden/invasive/lfe_waldschutz_traubenkirsche/download/Der_Violette_Knorpelschichtpilz_als__Bioherbizid__gegen_die_Spatbluhende_Traubenkirsche.pdf), die auch Späte Traubenkirsche genannt wird. Die aus Nordamerika stammende Strauchpflanze erreicht bei uns Höhen von etwa 20 m und gilt als problematischer [Neophyt](Neophyt "Glossar") und häufigste [invasive](invasiv "Glossar") Baumart. Sie wurde ab 1623 als Zierpflanze nach Europa importiert. Sie enthält für Mensch und Tier giftige cyanogene Glykoside.
 
 Ein anderer auf Blättern von *Prunus serotina* vorkommender Pilz ist *[Paecilomyces crassipes](/pilze/paecilomyces-crassipes)*, der anfangs braune, später dunkel braunviolette Flecke bildet.
+
+Mehr über die Verwandtschaft der Narrentaschen, Hexenbesen, Kräuselkrankheiten [erfahren Sie hier >](/verwandt/narrentaschen-hexenbesen-kräuselkrankheiten)
