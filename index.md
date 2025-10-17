@@ -23,6 +23,14 @@ sonntags am 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calyptella_capula_05_hl.jpg" %}
+{% include abbildung_ende.html %}
+
+18.10.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Mützenförmigen Schüsselschwindling *Calyptella capula* gibt es in mehreren Farbvarianten. *Hermine Lotz-Winter* hat auf ihrem Foto zwei davon eingefangen: gelb und weiß. Die winzigen Pilzchen werden gerade mal 2 – 6 mm hoch und 2 – 4 mm breit und haben ein weites Wirtsspektrum: an vorjährigen, meist schon faulenden Pflanzenstängeln, Gräsern und Zweigen, gern an Brennnessel. Laut *Fredi Kasparek* gelingen die üppigsten Funde in dicken, vermodernden Krautschichten auf feuchten bis staunassen Böden. (Dieter Gewalt) [Mehr lesen >](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_citrina_gg.jpg" %}
 {% include abbildung_ende.html %}
 
