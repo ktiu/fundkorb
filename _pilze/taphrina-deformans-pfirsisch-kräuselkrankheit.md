@@ -29,3 +29,5 @@ Die Wucherungen können auch auf die Triebe und Früchte übergehen, was allerdi
 {% include bild.html datei="/bilder/taphrina_deformans_04_uw.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/taphrina_deformans_05_uw.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="2 Fotos: Ulrike Wegner" %}
+
+Mehr über die Verwandtschaft der Narrentaschen, Hexenbesen, Kräuselkrankheiten [erfahren Sie hier >](/verwandt/narrentaschen-hexenbesen-kräuselkrankheiten)
