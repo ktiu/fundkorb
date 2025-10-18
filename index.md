@@ -29,7 +29,7 @@ sonntags am 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine
 {% include bild.html datei="/bilder/clathrus_ruber_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-19.10.2025: Bei einer Wanderung in Frankreich hatte ich das Glück, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Roten Gitterling (*Clathrus ruber*) am Wegesrand zu finden. Dieser wunderschöne Pilz gehört in die Familie der Stinkmorchelartigen (*Phallales*) und ist hierzulande recht selten, weshalb ich mich sehr über diesen Fund gefreut habe. Laut der [DGfM](<DGfM "Glossar">)-Kartierung kommt der Pilz im Raum Frankfurt allerdings öfters vor. Seine Hexeneier sehen wie kleine Fußbälle aus. (Bela Salgo, 13) [Mehr lesen>](/pilze/clathrus-ruber-roter-gitterling)
+19.10.2025: Bei einer Wanderung in Frankreich hatte ich das Glück, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Roten Gitterling (*Clathrus ruber*) am Wegesrand zu finden. Dieser wunderschöne Pilz gehört in die Familie der Stinkmorchelartigen (*Phallales*) und ist hierzulande recht selten, weshalb ich mich sehr über diesen Fund gefreut habe. Laut der [DGfM](DGfM "Glossar")-Kartierung kommt der Pilz im Raum Frankfurt allerdings öfters vor. Seine Hexeneier sehen wie kleine Fußbälle aus. (Bela Salgo, 13) [Mehr lesen>](/pilze/clathrus-ruber-roter-gitterling)
 
 <div style="clear:  both"></div>
 
