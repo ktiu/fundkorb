@@ -15,7 +15,7 @@ footer_scripts:
 **Pilzkundliche Führung für Einsteiger** im Raum Frankfurt/Offenbach/Dietzenbach am Samstag, 18.10.2025, 10:00 Uhr\
 **Dieser Termin ist leider ausgebucht**
 
-**Der Wald und seine Pilze im Oktober** - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Heusenstamm am Sonntag, 19.10.2025 um 10:00 Uhr  
+**Der Wald und seine Pilze im Oktober** - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Heusenstamm am Sonntag, 19.10.2025 um 10:00 Uhr\
 [Hier geht's zur Anmeldung >](/termine)
 
 **Pilzberatung im Gesundheitsamt der Stadt Frankfurt am Main**\
@@ -24,6 +24,14 @@ sonntags am 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine
 - - -
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clathrus_ruber_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.10.2025: Bei einer Wanderung in Frankreich hatte ich das Glück, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Roten Gitterling (*Clathrus ruber*) am Wegesrand zu finden. Dieser wunderschöne Pilz gehört in die Familie der Stinkmorchelartigen (*Phallales*) und ist hierzulande recht selten, weshalb ich mich sehr über diesen Fund gefreut habe. Laut der [DGfM](<DGfM "Glossar">)-Kartierung kommt der Pilz im Raum Frankfurt allerdings öfters vor. Seine Hexeneier sehen wie kleine Fußbälle aus. (Bela Salgo, 13) [Mehr lesen>](/pilze/clathrus-ruber-roter-gitterling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/calyptella_capula_05_hl.jpg" %}
@@ -62,30 +70,6 @@ sonntags am 19. und 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine
 {% include abbildung_ende.html %}
 
 14.10.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwefelritterling *Tricholoma sulphureum*. Bei pilzkundlichen Führungen ist es immer sehenswert, die Reaktionen der Teilnehmer(innen) zu beobachten. Die sind sowohl optisch wie auch akkustisch eklatant. Kinder rennen schreiend davon. Eine junge Frau meinte, nachdem sie sich von ihrem Geruchserlebnis erholt hatte: "Der stinkt ja noch fürchterlicher als die Stinkmorchel." Er hat übrigens einen genau so stinkenden purpurbraunen Verwandten: *[Tricholoma bufonium](/pilze/tricholoma-bufonium-purpurbrauner-schwefelritterling)*. (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-sulphureum-schwefelritterling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phlebia_tremellosa_01_cw.jpg" %}
-{% include abbildung_ende.html %}
-
-13.10.2025: Der aktuelle [Fundkorbpilz](AA "Glossar-"), der Gallertfleischige Fältling *Phlebia tremellosa*, kann kaum mit anderen Arten verwechselt werden, offenbart seine Schönheit aber oft erst auf den zweiten Blick. Charakteristisch sind die faltige fleischfarbene oder gelb-orangene Unterseite, die fein-filzige hellere Oberseite und die gummi-artige Konsistenz. Die einjährigen Fruchtkörper wachsen zum Teil [resupinat](resupinat "Glossar"), bilden aber meist mehrere bis zahlreiche abstehende, dachziegelig angeordnete Hutkanten, die miteinander verbunden sind. (Ulrike Wegner) [Mehr lesen >](/pilze/phlebia-tremellosa-gallertfleischiger-fältling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_armeniacus_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-12.10.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Aprikosenfarbige Röhrling *Xerocomus armeniacu*s, der sicherlich bei so manchem Speisepilzsammler als Rotfußröhrling im Pilzkorb landet. Er unterscheidet sich vom „normalen“ [Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling) vor allem durch seine Hutfarbe. Der seltene Pilz bevorzugt wärmebegünstigte Lagen und die Nähe von Eichen. Im Mittelmeerraum ist er jedoch wesentlich häufiger. (Bela Salgo, 13) [Mehr lesen >](/pilze/xerocomus-armeniacus-aprikosenfarbiger-röhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/spathularia_flavida_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-Einen Gelben Spateling (*Spathularia flavida*) im Bad Homburger Hirschgarten zu finden, ist schon etwas ganz besonderes und soll daher auch unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Bei Lärchen sind mir leuchtend gelbe Flecken aufgefallen, die mich neugierig machten und ich mir näher anschauen musste. Ich hatte den Pilz schon in meinen Bestimmungsbüchern gesehen und auch schon in dem ein oder anderen Video über Pilze. Zudem wusste ich, dass er zu den eher seltenen Arten zählt. Dies wird bestätigt durch die Fundzahlen der DGfM-Kartierungs-Seite. (Tanja Folberth) [Mehr lesen >](/pilze/spathularia-flavida-gelber-spateling)
 
 <div style="clear:  both"></div>
 
