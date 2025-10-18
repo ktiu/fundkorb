@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-18.10.2025: [Calyptella capula - Mützenförmiger Schüsselschwindling](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)  
+19.10.2025: [Clathrus ruber - Roter Gitterling](/pilze/clathrus-ruber-roter-gitterling)  
+18.10.2025: [Calyptella capula - Mützenförmiger Schüsselschwindling](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)\
 17.10.2025: [Amanita citrina - Gelber Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz)\
 16.10.2025: [Strobilomyces strobilaceus - Strubbelkopfröhrling](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)\
 15.10.2025: [Echinoderma asperum - Rauer Schirmling](/pilze/echinoderma-asperum-rauer-schirmling)\
