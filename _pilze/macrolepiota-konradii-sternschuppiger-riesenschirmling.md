@@ -5,6 +5,7 @@ beschreibung:
   referenz: "(Huijsman ex P.D.Orton) M.M.Moser 1967 "
   familie: Agaricaceae
   erlaeuterung: konradii  =  zu Ehren des Schweizer Mykologen P. Konrad
+  synonym: "Neuer Name: Macrolepiota fuliginosa"
 profil:
   aktualisiert: 2020-08-09
   autor_in: Dieter Gewalt
