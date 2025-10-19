@@ -5,6 +5,9 @@ hauptbild:
   anzeige: false
   datei: /bilder/taphrina_farlowii_01_dg.jpg
 aktualisiert: 2025-10-17
+literatur:
+  - text: "Klenke & Scholler: Pﬂanzenparasitische Kleinpilze"
+  - text: "Meike Piepenbring: Mykologie, Seite 307 - 308"
 ---
 Mit Karneval hat unser Thema nchts zu tun. Es steigen keine Narren in die Bütt und es reiten keine Hexen auf Besen. Die Gattung *Taphrina* enthält [phytoparasitische](Phytoparasiten "Glossar") Pilzarten, die als Narrentaschen, Hexenbesen und Kräuselkrankheiten bekannt sind. Schon die deutschen Namen verraten, dass es sich um ziemlich außergewöhnliche Pilze handeln muss. In der Tat wurden diese merkwürdigen Gebilde von früheren Generationen eher für Hexenwerk gehalten, moderne Menschen würden sie eher als krankhafte Wucherungen bezeichnen. Es sind jedoch Pilze, die keine eigenen Fruchtkörper ausbilden, sondern Pflanzenteile benutzen, um in ihnen ihre [Myzelien](Myzel "Glossar") anzulegen. Sie bilden ihre Sporen erzeugende Schicht (*Hymenium* genannt) auf der jeweiligen Oberfläche. Man kann sie als Parasiten bezeichnen, Lebewesen, die auf Kosten anderer leben, ihre Wirtspflanzen jedoch kaum schädigen sondern nur die befallenen Teile deformieren oder unfruchtbar machen.
 
