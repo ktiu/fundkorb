@@ -1,6 +1,6 @@
 ---
-aktivitaet: Pilzkundliche Führung für Einsteiger
-zeit: 2025-10-18T10:00:53.480Z
+aktivitaet: Der Wald und seine Pilze
+zeit: 2025-10-25T10:00:53.480Z
 bis: ""
 anmeldung_offen: false
 anmeldung_noetig: true
@@ -8,6 +8,7 @@ published: true
 bilder:
   - /bilder/einsteiger_01_dg.jpg
 ---
-Beim Pilzesammeln auf der sicheren Seite zu sein, ist gerade für Einsteiger von größter Wichtigkeit.  Bei unserer Exkursion in einem Wald im Raum Frankfurt/Offenbach/Dietzenbach erfahren Sie alles, was beim Sammeln zu beachten ist und lernen sowohl einige essbare wie auch ungenießbare und giftige Arten kennen.
+Ein Wald ist mehr als nur eine großflächige Ansammlung von Bäumen. Er ist ein funktionierendes System von Abhängigkeiten und Wechselwirkungen, in dem Pilze eine besondere Rolle spielen. Den Teilnehmern an dieser Exkursion wird dies vor Augen geführt, es werden aber auch die Gefahren aufgezeigt, die dieses Biotop bedrohen. Wir lernen eine nicht geringe Anzahl an Pilzarten kennen und Speisepilze dürfen natürlich auch gesammelt werden. Wer möchte, bringt Körbchen und Messer mit.
 
-Die Teilnahmegebühr für die etwa dreistündige Wanderung beträgt 15 Euro und sollte wirklich Einsteigern vorbehalten sein. Begleitende Kinder sind natürlich kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Anmeldebestätigung mitgeteilt.
+Die Teilnahmegebühr beträgt 15 Euro, Kinder kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Teilnahmebestätigung mitgeteilt.
+
