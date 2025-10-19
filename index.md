@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-**Der Wald und seine Pilze ** - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Samstag, 25.10.2025 um 10:00 Uhr\
+**Der Wald und seine Pilze**  - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Samstag, 25.10.2025 um 10:00 Uhr\
 [Hier geht's zur Anmeldung >](/termine)
 
 **Pilzberatung im Gesundheitsamt der Stadt Frankfurt am Main**\
@@ -22,7 +22,13 @@ am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine)
 
 **Aktueller Fundkorbpilz:**
 
-20.10.2025: Die Bodenbeschaffenheit ist bei vielen Pilzarten von Bedeutung. So kommt unser aktueller [Fundkorbpilz](AA "Glossar-"), die Herbst- oder Totentrompete Craterellus cornucopiodes ausschließlich auf kalhaltigen Böden vor. Kalkeintrag kann schon am Rand von geschotterten Wegen selbst auf ansonsten saurem Untergrund vorhanden sein, wie z. B. in unserem Pilzwald bei Dietzenbach. Hier fanden wir etliche ihrer trichterförmigen Fruchtkörper, die wie kleine Trompeten aussehen, aber in Farbnuancen von Grau über Braun bis Schwarz erscheinen. Trotz ihres dunklen Erscheinungsbildes ist sie leicht kenntlich, kaum zu verwechseln und ein aromatischer Schatz in der Pilzküche. Getrocknet oder eingefroren verleiht sie vielen Gerichten eine besonders würzige Note. (Katja Bauer) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/craterellus-cornucopioides_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+20.10.2025: Die Bodenbeschaffenheit ist bei vielen Pilzarten von Bedeutung. So kommt unser aktueller [Fundkorbpilz](AA "Glossar-"), die Herbst- oder Totentrompete *Craterellus cornucopiodes* ausschließlich auf kalhaltigen Böden vor. Kalkeintrag kann schon am Rand von geschotterten Wegen selbst auf ansonsten saurem Untergrund vorhanden sein, wie z. B. in unserem Pilzwald bei Dietzenbach. Hier fanden wir etliche der trichterförmigen Fruchtkörper, die wie kleine Trompeten aussehen, aber in Farbnuancen von Grau über Braun bis Schwarz erscheinen. Trotz ihres dunklen Erscheinungsbildes sind sie leicht kenntlich, kaum zu verwechseln und ein aromatischer Schatz in der Pilzküche. Getrocknet oder eingefroren verleihen sie vielen Gerichten eine besonders würzige Note. (Katja Bauer) [Mehr lesen >](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clathrus_ruber_05_dg.jpg" %}
