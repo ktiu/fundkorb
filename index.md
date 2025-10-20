@@ -23,6 +23,14 @@ am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_quietus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.10.2025: Es gibt eine Vielzahl brauner Milchlinge, aber wenn man auf Farbe und Geschmack der austretenden Milch, auf Geruch und Begleitbäume achtet, wird das kompliziert erscheinende Thema ein wenig übersichtlicher. Die häufigste bräunliche Art bei Eichen ist der Eichenmilchling *Lactarius quietus*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Es handelt sich um einen mittelgroßen [Mykorrhizapilz](Mykorrhiza "Glossar") mit Hutdurchmessern von etwa 3 bis 8 cm. Seine weiße Milch ist mild und nimmt nach dem Austreten einen etwas gelblichen Schimmer an. Der Geruch erinnert an Blattwanzen. (Dieter Gewalt) [Mehr lesen >](/pilze/lactarius-quietus-eichenmilchling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/craterellus-cornucopioides_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -61,22 +69,6 @@ am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine)
 16.10.2025: Unter den Röhrlingen gibt es einen, den man schon aus zehn Metern Entfernung zweifelsfrei erkennen kann. Deshalb ist der Strubbelkopfröhrling (*Strobilomyces strobilaceus*) unser aktueller [Fundkorbpilz](AA "Glossar-") für heute. Manche behaupten, er sei essbar. Das stimmt insofern, als er nicht giftig ist. Ich hab ihn mal probiert und finde, er schmeckt etwa so wie er aussieht. (Dieter Gewalt) [Mehr lesen >](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)
 
 <div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/echinoderma_asperum_04_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-15.10.2025: Schirmlinge gibt es in zahlreichen Gattungen, die nichts mit den gern und viel gesammelten Parasolen (*Macrolepiota*) zu tun haben. Da wäre zum Beispiel der  Raue (Spitzschuppige) Schirmling *Echinoderma asperum*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Dass er nicht für die Küche taugt, dafür sorgt schon sein widerwärtiger, stechend gasartiger Geruch; außerdem soll er magen-/darmgiftig sein. Er bevorzugt stickstoffreiche und kalkhaltige Böden, ist also nicht selten an Wegrändern oder bei Brennnesseln zu finden. Kürzlich gesehen habe ich ihn im nördlichen Schwarzwald. (Bernd Miggel) [Mehr lesen >](/pilze/echinoderma-asperum-rauer-schirmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_sulphureum_01_dg-2048x1293.jpeg" %}
-{% include abbildung_ende.html %}
-
-14.10.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schwefelritterling *Tricholoma sulphureum*. Bei pilzkundlichen Führungen ist es immer sehenswert, die Reaktionen der Teilnehmer(innen) zu beobachten. Die sind sowohl optisch wie auch akkustisch eklatant. Kinder rennen schreiend davon. Eine junge Frau meinte, nachdem sie sich von ihrem Geruchserlebnis erholt hatte: "Der stinkt ja noch fürchterlicher als die Stinkmorchel." Er hat übrigens einen genau so stinkenden purpurbraunen Verwandten: *[Tricholoma bufonium](/pilze/tricholoma-bufonium-purpurbrauner-schwefelritterling)*. (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-sulphureum-schwefelritterling)
-
-<div style="clear:  both"></div>
 
 - - -
 
