@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-20.10.2025: [Craterellus cornucopioides - Herbsttrompete, Totentrompete](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)  
+21.10.2025: [Lactarius quietus - Eichenmilchling](/pilze/lactarius-quietus-eichenmilchling)  
+20.10.2025: [Craterellus cornucopioides - Herbsttrompete, Totentrompete](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)\
 19.10.2025: [Clathrus ruber - Roter Gitterling](/pilze/clathrus-ruber-roter-gitterling)\
 18.10.2025: [Calyptella capula - Mützenförmiger Schüsselschwindling](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)\
 17.10.2025: [Amanita citrina - Gelber Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz)\
