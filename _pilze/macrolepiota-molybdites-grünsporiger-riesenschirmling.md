@@ -15,12 +15,10 @@ hauptbild:
 literatur:
   - text: "Frank, D. (2008) – Die neue Gattung Chlorophyllum nach VELLINGA –
       Seltsame Intoxikationssymtome. DGFM-Mitteilungen 2008/2: 51-55"
-  - text: "Friebes, G. (2013) – Über die komplizierte Gruppe der Safran- und
-      Riesenschirmlinge: Die Gattungen Chlorophyllum und Macrolepiota. Tintling
-      2013/3, Innenseiten"
   - url: https://de.wikipedia.org/wiki/Chlorophyllum_molybdites
   - url: https://wiki.edu.vn/wiki22/2020/12/30/chlorophyllum-molybdites-wikipedia/
   - url: https://dewiki.de/Lexikon/Chlorophyllum_molybdites
+  - {}
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/chlorophyllum_molybdites_01_hs.jpg" nocrop=true gross=true %}
