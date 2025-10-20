@@ -2,7 +2,7 @@
 aktivitaet: Der Wald und seine Pilze
 zeit: 2025-10-25T10:00:53.480Z
 bis: ""
-anmeldung_offen: false
+anmeldung_offen: true
 anmeldung_noetig: true
 published: true
 bilder:
