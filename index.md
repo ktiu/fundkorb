@@ -23,6 +23,14 @@ am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/otidea_onotica_04_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+22.10.2025: Bei unserer pilzkundlichen Exkursion in der Freizeitanlage Jügesheim (Rodgau, Hessen) sind uns diese Becherlinge aufgefallen. Dass dieser aktuelle [Fundkorbpilz](AA "Glossar-") Ähnlichkeit mit einem Eselsohr hat, ist nicht unbedingt nachvollziehbar. Auf jeden Fall heißt er so und auch sein wissenschaftlicher Name *Otidea onotica* weist darauf hin. *onotica = eselsohrartig*. Er gehört zu den Öhrlingen und könnte leicht mit ähnlichen Arten verwechselt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/otidea-onotica-eselsohr)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_quietus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
