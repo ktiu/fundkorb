@@ -16,11 +16,20 @@ footer_scripts:
 [Hier geht's zur Anmeldung >](/termine)
 
 **Pilzberatung im Gesundheitsamt der Stadt Frankfurt am Main**\
-am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine)
+am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [](/termine)
+**Dieser Termin ist ausgebucht**
 
 - - -
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/artomyces_pyxidatus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.10.2025: Manche Pilze sind einfach schön und lassen bei Pilzfreunden die Herzen höher schlagen. Der aktuelle [Fundkorbpilz](AA "Glossar-"), die Becherkoralle *Artomyces pyxidatus*, ist mit ihren krönchenartigen Ausstülpungen an den Spitzen ihrer Äste eine solche besonders schöne und ungewöhnliche Pilzart aus der Gruppe der Korallenpilze. Sie ist auf die Verfügbarkeit von alten Bäumen und Totholz angewiesen. Um auf die Notwendigkeit des Erhaltes solcher Lebensräume aufmerksam zu machen, wurde der Pilz vor 10 Jahren (2015) zum Pilz des Jahres gewählt. Die Becherkoralle profitiert als wärmeliebende vom Klimawandel. (Ulrike Wegner) [Mehr lesen >](/pilze/artomyces-pyxidatus-becherkoralle)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/otidea_onotica_04_nk.jpg" %}
@@ -69,14 +78,6 @@ am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [Info >](/termine)
 17.10.2025: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") ist der Gelbe Knollenblätterpilz *Amanita citrina*. Sein Hut variiert in der Farbe von Gelb über gelblich-grün bis Weiß und trägt schollige [Velumreste](Velum "Glossar"). Auffällig ist die scharf gerandete Knolle an der Stielbasis, die weiß oder gelblich ist und den typischen Kartoffel-Keller-Geruch aufweist. Der Pilz enthält das Krötengift Bufotenin, das nur beim rohen Verzehr giftig wirkt. Wegen seines unangenehmen Geschmacks ist er nicht als Speisepilz geeignet. (Katja Bauer) [Mehr lesen >](/pilze/amanita-citrina-gelber-knollenblätterpilz)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/strobilomyces_strobilaceus_02_rm.jpg" %}
-{% include abbildung_ende.html %}
-
-16.10.2025: Unter den Röhrlingen gibt es einen, den man schon aus zehn Metern Entfernung zweifelsfrei erkennen kann. Deshalb ist der Strubbelkopfröhrling (*Strobilomyces strobilaceus*) unser aktueller [Fundkorbpilz](AA "Glossar-") für heute. Manche behaupten, er sei essbar. Das stimmt insofern, als er nicht giftig ist. Ich hab ihn mal probiert und finde, er schmeckt etwa so wie er aussieht. (Dieter Gewalt) [Mehr lesen >](/pilze/strobilomyces-strobilaceus-strubbelkopfröhrling)
-
-<div style="clear:  both"></div> 
 
 - - -
 
