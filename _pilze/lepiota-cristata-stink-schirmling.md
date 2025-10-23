@@ -10,7 +10,8 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: true
-  datei: /bilder/lepiota_cristata_01_dg.jpeg
+  datei: /bilder/lepiota_cristata_01_cw.jpg
+  legende: "Foto: Christian Weinkötz"
 literatur:
   - url: http://tintling.com/pilzbuch/arten/l/Lepiota_cristata.html
 ---
@@ -18,9 +19,9 @@ Die kleinen Schirmlinge aus der Gattung *Lepiota* haben nichts zu tun mit den be
 
 Der wohl häufigste unter diesen kleinen Schirmlingen ist der Stink-Schirmling *Lepiota cristata*. Seine Hüte erreichen Durchmesser von 2 bis 5 cm. Die Hüte sind beim jungen Pilz rotbraun und beginnen schon früh in kleine konzentrisch angeordnete Schüppchen aufzureißen, wobei zwischen ihnen das weiße Hutfleisch sichtbar wird. Der Scheitel reißt nicht auf und behält seine dunklere Farbe. Die weißen Lamellen sind frei, also nicht am Stiel angewachsen. 
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/lepiota_cristata_02_dg.jpeg" nocrop=true %}
-{% include abbildung_ende.html legende="Junge Stink-Schirmlinge, bei denen das Aufreißen der Hutdeckschicht gerade beginnt" %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/lepiota_cristata_02_cw.jpg" %}
+{% include abbildung_ende.html legende="Foto:Christian Weinkötz" %}
 
 Auffälligstes Merkmal des Pilzes ist sein stechender metallischer Geruch, der auch als leuchtgasähnlich oder mit einem Fachbegriff als *cristatoid* beschrieben wird. Es wäre zu schön, wenn diese Eigenschaft das entscheidende Kriterium für seine sichere Bestimmung wäre. Leider gibt es mehrere kleine Schirmlinge mit diesem Geruch und etwa 60 Lepiota-Arten in Deutschland. Weder in der aktuellen Literatur noch im Internet findet sich ein Hinweis darauf, wieviele und welche sich durch diesen Geruch auszeichnen. Es war eine mühsame und aufwendige Arbeit, sie zu ermitteln. Es sind neben dem Stink-Schirmling *Lepiota cristata* diese fünf Arten, von denen nur *Lepiota ignivolvata* etwas häufiger ist und die sich wie folgt vom Stink-Schirmling unterscheiden:
 
