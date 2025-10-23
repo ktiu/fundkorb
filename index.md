@@ -13,11 +13,10 @@ footer_scripts:
 - - -
 
 **Der Wald und seine Pilze**  - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Samstag, 25.10.2025 um 10:00 Uhr\
-[Hier geht's zur Anmeldung >](/termine)
+**Dieser Termin ist ausgebucht**
 
 **Pilzberatung im Gesundheitsamt der Stadt Frankfurt am Main**\
 am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [](/termine)
-**Dieser Termin ist ausgebucht**
 
 - - -
 
