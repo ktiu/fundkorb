@@ -24,6 +24,14 @@ am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrocybe_conica_08_dt.jpg" %}
+{% include abbildung_ende.html %}
+
+24.10.2025: Einen Saftling zu finden, ist immer eine Freude. Diesmal an einem grasigen Straßenrand in Rödermark-Waldsacker. Um den Kegeligen Saftling *Hygrocybe conica* (unseren aktuellen [Fundkorbpilz](AA "Glossar-") anzutreffen, muss man nicht unbedingt eine der wenigen Saftlingswiesen besuchen. Er ist nahezu überall zu Hause. Ein typisches Merkmal ist das Schwärzen seiner Fruchtkörper. Wenn das fortgeschritten ist, sieht er gar nicht mehr schön aus. (Dieter Gewalt) Mehr lesen >  (Dieter Gewalt) [Mehr lesen >](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/artomyces_pyxidatus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,14 +76,6 @@ am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [](/termine)
 {% include abbildung_ende.html %}
 
 18.10.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Mützenförmigen Schüsselschwindling *Calyptella capula* gibt es in mehreren Farbvarianten. *Hermine Lotz-Winter* hat auf ihrem Foto zwei davon eingefangen: gelb und weiß. Die winzigen Pilzchen werden gerade mal 2 – 6 mm hoch und 2 – 4 mm breit und haben ein weites Wirtsspektrum: an vorjährigen, meist schon faulenden Pflanzenstängeln, Gräsern und Zweigen, gern an Brennnessel. Laut *Fredi Kasparek* gelingen die üppigsten Funde in dicken, vermodernden Krautschichten auf feuchten bis staunassen Böden. (Dieter Gewalt) [Mehr lesen >](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_citrina_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.10.2025: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") ist der Gelbe Knollenblätterpilz *Amanita citrina*. Sein Hut variiert in der Farbe von Gelb über gelblich-grün bis Weiß und trägt schollige [Velumreste](Velum "Glossar"). Auffällig ist die scharf gerandete Knolle an der Stielbasis, die weiß oder gelblich ist und den typischen Kartoffel-Keller-Geruch aufweist. Der Pilz enthält das Krötengift Bufotenin, das nur beim rohen Verzehr giftig wirkt. Wegen seines unangenehmen Geschmacks ist er nicht als Speisepilz geeignet. (Katja Bauer) [Mehr lesen >](/pilze/amanita-citrina-gelber-knollenblätterpilz)
 
 <div style="clear:  both"></div>
 
