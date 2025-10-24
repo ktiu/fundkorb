@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-24.10.2025: [Hygrocybe conica - Kegeliger Saftling](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)  
+25.10.2025: [Russula pallidospora - Ockerbrlättriger Weißtäubling](/pilze/russula-pallidospora-ockerblättriger-weißtäubling)  
+24.10.2025: [Hygrocybe conica - Kegeliger Saftling](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)\
 23.10.2025: [Artomyces pyxidatus - Becherkoralle](/pilze/artomyces-pyxidatus-becherkoralle)\
 22.10.2025: [Otidea onotica - Eselsohr](/pilze/otidea-onotica-eselsohr)\
 21.10.2025: [Lactarius quietus - Eichenmilchling](/pilze/lactarius-quietus-eichenmilchling)\
