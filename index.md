@@ -26,7 +26,7 @@ am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [](/termine)
 {% include bild.html datei="/bilder/hygrocybe_conica_02_tl.jpg" %}
 {% include abbildung_ende.html %}
 
-24.10.2025: Einen Saftling zu finden, ist immer eine Freude. Diesmal an einem grasigen Straßenrand in Rödermark-Waldsacker. Um den Kegeligen Saftling *Hygrocybe conica* (unseren aktuellen [Fundkorbpilz](AA "Glossar-") anzutreffen, muss man nicht unbedingt eine der wenigen Saftlingswiesen besuchen. Er wird auch Schwärzender Saftling genannt und ist nahezu überall zu Hause. Ein typisches Merkmal ist das Schwärzen seiner Fruchtkörper. Wenn das fortgeschritten ist, sieht er gar nicht mehr schön aus. (Dieter Gewalt) [Mehr lesen >](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)
+24.10.2025: Einen Saftling zu finden, ist immer eine Freude. Diesmal an einem grasigen Straßenrand in Rödermark-Waldacker. Um den Kegeligen Saftling *Hygrocybe conica* (unseren aktuellen [Fundkorbpilz](AA "Glossar-") anzutreffen, muss man nicht unbedingt eine der wenigen Saftlingswiesen besuchen. Er wird auch Schwärzender Saftling genannt und ist nahezu überall zu Hause. Ein typisches Merkmal ist das Schwärzen seiner Fruchtkörper. Wenn das fortgeschritten ist, sieht er gar nicht mehr schön aus. (Dieter Gewalt) [Mehr lesen >](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)
 
 <div style="clear:  both"></div>
 
