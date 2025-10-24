@@ -23,6 +23,14 @@ am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_pallidospora_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+25.10.2025: Als „vom Aussterben bedroht“ wird unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Ockerblättrige Weißtäubling *Russula pallidospora* in den Roten Listen Baden-Württembergs und Bayerns geführt. Sehr ähnlich sind einige andere Täublinge wie der häufige [Gemeine Weißtäubling *Russula delica*](/pilze/russula-delica-gemeiner-weißtäubling). Als „Milchling ohne Milch“ könnte man ihn mit dem [Wolligen Milchling](/pilze/lactarius-vellereus-wolliger-milchling-erdschieber) vergleichen. Er ist strikt auf kalkhaltige Böden angewiesen, auf denen er in Laubwäldern vorkommen kann. In der *[DGfM](DGfM "Glossar")*-Verbreitungskarte Deutschland sind gerade mal 29 Fundnachweise eingetragen. (Bernd Miggel) [Mehr lesen >](/pilze/russula-pallidospora-ockerblättriger-weißtäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrocybe_conica_02_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [](/termine)
 {% include abbildung_ende.html %}
 
 19.10.2025: Bei einer Wanderung in Frankreich hatte ich das Glück, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Roten Gitterling (*Clathrus ruber*) am Wegesrand zu finden. Dieser wunderschöne Pilz gehört in die Familie der Stinkmorchelartigen (*Phallales*) und ist hierzulande recht selten, weshalb ich mich sehr über diesen Fund gefreut habe. Laut der [DGfM](DGfM "Glossar")-Kartierung kommt der Pilz im Raum Frankfurt allerdings öfters vor. Seine Hexeneier sehen wie kleine Fußbälle aus. (Bela Salgo, 13) [Mehr lesen>](/pilze/clathrus-ruber-roter-gitterling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calyptella_capula_05_hl.jpg" %}
-{% include abbildung_ende.html %}
-
-18.10.2025: Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Mützenförmigen Schüsselschwindling *Calyptella capula* gibt es in mehreren Farbvarianten. *Hermine Lotz-Winter* hat auf ihrem Foto zwei davon eingefangen: gelb und weiß. Die winzigen Pilzchen werden gerade mal 2 – 6 mm hoch und 2 – 4 mm breit und haben ein weites Wirtsspektrum: an vorjährigen, meist schon faulenden Pflanzenstängeln, Gräsern und Zweigen, gern an Brennnessel. Laut *Fredi Kasparek* gelingen die üppigsten Funde in dicken, vermodernden Krautschichten auf feuchten bis staunassen Böden. (Dieter Gewalt) [Mehr lesen >](/pilze/calyptella-capula-mützenförmiger-schüsselschwindling)
 
 <div style="clear:  both"></div>
 
