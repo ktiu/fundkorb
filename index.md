@@ -23,6 +23,14 @@ am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clavulina_cinerea_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+26.10.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Graue Koralle *Clavulina cinerea*. In der Form gleicht sie oft der sehr viel häufigeren [Kammkoralle Clavulina coralloides](/pilze/clavulina-coralloides-kammkoralle), die normalerweise rein weiß ist, aber vom Schmarotzerpilz *Spadicioides clavarium* befallen und dann ebenfalls grau gefärbt sein kann. In diesem Fall sind die beiden Korallen leicht verwechselbar. Eine Lupe kann da hilfreich sein. Erkennt man einen im Stielbereich beginnenden filzigen oder gepunkteten Belag, der sich über den gesamten Fruchtkörper ausdehnen kann, ist es garantiert die Graue. (Dieter Gewalt) [Mehr lesen >](/pilze/clavulina-cinerea-graue-koralle)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_pallidospora_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,22 +67,6 @@ am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [](/termine)
 {% include abbildung_ende.html %}
 
 21.10.2025: Es gibt eine Vielzahl brauner Milchlinge, aber wenn man auf Farbe und Geschmack der austretenden Milch, auf Geruch und Begleitbäume achtet, wird das kompliziert erscheinende Thema ein wenig übersichtlicher. Die häufigste bräunliche Art bei Eichen ist der Eichenmilchling *Lactarius quietus*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Es handelt sich um einen mittelgroßen [Mykorrhizapilz](Mykorrhiza "Glossar") mit Hutdurchmessern von etwa 3 bis 8 cm. Seine weiße Milch ist mild und nimmt nach dem Austreten einen etwas gelblichen Schimmer an. Der Geruch erinnert an Blattwanzen. (Dieter Gewalt) [Mehr lesen >](/pilze/lactarius-quietus-eichenmilchling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/craterellus-cornucopioides_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-20.10.2025: Die Bodenbeschaffenheit ist bei vielen Pilzarten von Bedeutung. So kommt unser aktueller [Fundkorbpilz](AA "Glossar-"), die Herbst- oder Totentrompete *Craterellus cornucopiodes* ausschließlich auf kalhaltigen Böden vor. Kalkeintrag kann schon am Rand von geschotterten Wegen selbst auf ansonsten saurem Untergrund vorhanden sein, wie z. B. in unserem Pilzwald bei Dietzenbach. Hier fanden wir etliche der trichterförmigen Fruchtkörper, die wie kleine Trompeten aussehen, aber in Farbnuancen von Grau über Braun bis Schwarz erscheinen. Trotz ihres dunklen Erscheinungsbildes sind sie leicht kenntlich, kaum zu verwechseln und ein aromatischer Schatz in der Pilzküche. Getrocknet oder eingefroren verleihen sie vielen Gerichten eine besonders würzige Note. (Katja Bauer) [Mehr lesen >](/pilze/craterellus-cornucopioides-herbsttrompete-totentrompete)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clathrus_ruber_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.10.2025: Bei einer Wanderung in Frankreich hatte ich das Glück, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Roten Gitterling (*Clathrus ruber*) am Wegesrand zu finden. Dieser wunderschöne Pilz gehört in die Familie der Stinkmorchelartigen (*Phallales*) und ist hierzulande recht selten, weshalb ich mich sehr über diesen Fund gefreut habe. Laut der [DGfM](DGfM "Glossar")-Kartierung kommt der Pilz im Raum Frankfurt allerdings öfters vor. Seine Hexeneier sehen wie kleine Fußbälle aus. (Bela Salgo, 13) [Mehr lesen>](/pilze/clathrus-ruber-roter-gitterling)
 
 <div style="clear:  both"></div>
 
