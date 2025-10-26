@@ -12,15 +12,19 @@ footer_scripts:
 
 - - -
 
-**Der Wald und seine Pilze**  - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Samstag, 25.10.2025 um 10:00 Uhr\
-**Wegen risikoreicher Wetterlage und Warnung vor böigen Winden muss die heutige Exkursion leider abgesagt werden.**
-
-**Pilzberatung im Gesundheitsamt der Stadt Frankfurt am Main**\
-am Sonntag, 26. Oktober 2025 von 17:00 bis 20:00 Uhr - [](/termine)
+**Der Wald und seine Pilze im November** - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 09.11.2025 um 10:00 Uhr
 
 - - -
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_ustale_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.10.2025: Braune Ritterlinge sind nicht immer leicht zu unterscheiden. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Brandige Ritterling *Tricholoma ustale*, ist in Mitteleuropa weit verbreitet und nicht selten. Beim aktuellen Wetter hat er eine schleimig schmierige Huthaut. Sehr ähnlich ist der [Bittere Eichenritterling *Tricholoma ustaloides*](/pilze/tricholoma-ustaloides-bitterer-eichenritterling) (und nicht nur der!). Zur sicheren Bestimmung sind auch Mikromerkmale zu beachten. (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-ustale-brandiger-ritterling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clavulina_cinerea_02_nk.jpg" %}
