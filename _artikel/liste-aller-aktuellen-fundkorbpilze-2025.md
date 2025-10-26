@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-26.10.2025: [Clavulina cinerea - Graue Koralle](/pilze/clavulina-cinerea-graue-koralle)  
+27.10.2025: [Tricholoma ustale - Brandiger Ritterling](/pilze/tricholoma-ustale-brandiger-ritterling)  
+26.10.2025: [Clavulina cinerea - Graue Koralle](/pilze/clavulina-cinerea-graue-koralle)\
 25.10.2025: [Russula pallidospora - Ockerbrlättriger Weißtäubling](/pilze/russula-pallidospora-ockerblättriger-weißtäubling)\
 24.10.2025: [Hygrocybe conica - Kegeliger Saftling](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)\
 23.10.2025: [Artomyces pyxidatus - Becherkoralle](/pilze/artomyces-pyxidatus-becherkoralle)\
