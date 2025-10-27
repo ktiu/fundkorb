@@ -19,6 +19,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/armillaria_ostoyae_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.10.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus dem Taunus. An einem einst dicht mit Fichten bestandenen Hang bei Arnoldshain sind nur noch vereinzelte schon todkranke Baumgrüppchen übrig geblieben, zwischen denen einige Stümpfe mit üppigen Büscheln des Dunklen Hallimasch *Armillaria ostoyae* überwachsen sind. Es ist davon auszugehen, dass die Pilze gerade dabei sind, Hand in Hand mit Borkenkäfern auch diese Restbestände zu vernichten. Speisepilzsammler hätten sich an noch jungen Fruchtkörpern erfreuen können, die sind aber inwischen schon ziemlich vergammelt. (Dr. Kanya Goetsch) [Mehr lesen >](/pilze/armillaria-ostoyae-dunkler-hallimasch)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_ustale_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -55,22 +63,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 23.10.2025: Manche Pilze sind einfach schön und lassen bei Pilzfreunden die Herzen höher schlagen. Der aktuelle [Fundkorbpilz](AA "Glossar-"), die Becherkoralle *Artomyces pyxidatus*, ist mit ihren krönchenartigen Ausstülpungen an den Spitzen ihrer Äste eine solche besonders schöne und ungewöhnliche Pilzart aus der Gruppe der Korallenpilze. Sie ist auf die Verfügbarkeit von alten Bäumen und Totholz angewiesen. Um auf die Notwendigkeit des Erhaltes solcher Lebensräume aufmerksam zu machen, wurde der Pilz vor 10 Jahren (2015) zum Pilz des Jahres gewählt. Die Becherkoralle profitiert als wärmeliebende vom Klimawandel. (Ulrike Wegner) [Mehr lesen >](/pilze/artomyces-pyxidatus-becherkoralle)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/otidea_onotica_04_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-22.10.2025: Bei unserer pilzkundlichen Exkursion in der Freizeitanlage Jügesheim (Rodgau, Hessen) sind uns diese Becherlinge aufgefallen. Dass dieser aktuelle [Fundkorbpilz](AA "Glossar-") Ähnlichkeit mit einem Eselsohr hat, ist nicht unbedingt nachvollziehbar. Auf jeden Fall heißt er so und auch sein wissenschaftlicher Name *Otidea onotica* weist darauf hin. *onotica = eselsohrartig*. Er gehört zu den Öhrlingen und könnte leicht mit ähnlichen Arten verwechselt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/otidea-onotica-eselsohr)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_quietus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.10.2025: Es gibt eine Vielzahl brauner Milchlinge, aber wenn man auf Farbe und Geschmack der austretenden Milch, auf Geruch und Begleitbäume achtet, wird das kompliziert erscheinende Thema ein wenig übersichtlicher. Die häufigste bräunliche Art bei Eichen ist der Eichenmilchling *Lactarius quietus*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Es handelt sich um einen mittelgroßen [Mykorrhizapilz](Mykorrhiza "Glossar") mit Hutdurchmessern von etwa 3 bis 8 cm. Seine weiße Milch ist mild und nimmt nach dem Austreten einen etwas gelblichen Schimmer an. Der Geruch erinnert an Blattwanzen. (Dieter Gewalt) [Mehr lesen >](/pilze/lactarius-quietus-eichenmilchling)
 
 <div style="clear:  both"></div>
 
