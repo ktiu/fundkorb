@@ -21,7 +21,10 @@ literatur:
 
 Unter den nicht rötenden, schmächtigeren Riesenschirmlingsarten fällt der Zitzen-Riesenschirmling vor allem durch seinen zitzenartig erhabenen Buckel in der Hutmitte auf. Außerdem hat er einen einfachen Stielring ohne [Laufrille](Laufrille "Glossar"), die Hutschuppung und Stielnatterung kann unauffällig sein. Mit dieser Merkmalskombination ist er im Feld meist leicht erkennbar. Die Hüte erreichen Durchmesser von 8 - 12 cm.
 
-
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/macrolepiota_mastoidea_03_ya.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/macrolepiota_mastoidea_04_ya.jpg" nocrop=true gross=true %}
+{% include abbildung_ende.html legende="2 Fotos: Yunus Alp" %}
 
 Offensichtlich handelt es sich um eine recht variable Art mit mehr oder weniger deutlich ausgeprägtem Buckel, mehr oder weniger auffälliger Hutschuppung oder Stielnatterung. In *Die Großpilze Baden-Württembergs (Band 4, Seite 123)* heißt es dazu: 
 
