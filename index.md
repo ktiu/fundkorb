@@ -19,6 +19,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitocybe_geotropa_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.10.2025: Der Mönchskopf *Clitocybe geotropa* gehört im Rhein-Main-Gebiet nicht gerade zu den häufigen Arten, aber wenn er mal irgendwo auftaucht, dann selten allein. Das trifft offenbar gerade mal wieder zu, denn so viele Exemplare unseres aktuellen [Fundkorbpilzes](AA "Glossar-") wie kürzlich bei der Pilzberatung im Frankfurter Gesundheitsamt sind mir noch nie vorgelegt worden. Er gehört zu den leicht kenntlichen Arten, ist zumindest jung ein guter Speisepilz und inzwischen in der neuen Gattung *Infundibulicybe* zu Hause. (Dieter Gewalt) Mehr lesen >
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/armillaria_ostoyae_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
