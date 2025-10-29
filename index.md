@@ -19,6 +19,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/psathyrella_gossypina_01_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+30.10.2025: Auffallend, attraktiv, aber leider auch sehr selten ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Baumwoll-Mürbling *Psathyrella gossypina*. Er soll jetzt *Typhrasa gossypina* heißen, weil seine Zystiden Öltropfen haben, also nur wegen eines unscheinbaren Merkmals, das nur mit dem Mikroskop zu erkennen ist. Gefunden und fotografiert hat ihn *Frank Kaster* an einem liegenden bemoosten Baumstamm im Frankfurter Stadtwald. Es dürfte sich um einen Erstfund für Hessen handeln. (Dieter Gewalt) [Mehr lesen >](/pilze/psathyrella-gossypina-baumwoll-mürbling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitocybe_geotropa_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -63,14 +71,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 24.10.2025: Einen Saftling zu finden, ist immer eine Freude. Diesmal an einem grasigen Straßenrand in Rödermark-Waldacker. Um den Kegeligen Saftling *Hygrocybe conica* (unseren aktuellen [Fundkorbpilz](AA "Glossar-") anzutreffen, muss man nicht unbedingt eine der wenigen Saftlingswiesen besuchen. Er wird auch Schwärzender Saftling genannt und ist nahezu überall zu Hause. Ein typisches Merkmal ist das Schwärzen seiner Fruchtkörper. Wenn das fortgeschritten ist, sieht er gar nicht mehr schön aus. (Dieter Gewalt) [Mehr lesen >](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/artomyces_pyxidatus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.10.2025: Manche Pilze sind einfach schön und lassen bei Pilzfreunden die Herzen höher schlagen. Der aktuelle [Fundkorbpilz](AA "Glossar-"), die Becherkoralle *Artomyces pyxidatus*, ist mit ihren krönchenartigen Ausstülpungen an den Spitzen ihrer Äste eine solche besonders schöne und ungewöhnliche Pilzart aus der Gruppe der Korallenpilze. Sie ist auf die Verfügbarkeit von alten Bäumen und Totholz angewiesen. Um auf die Notwendigkeit des Erhaltes solcher Lebensräume aufmerksam zu machen, wurde der Pilz vor 10 Jahren (2015) zum Pilz des Jahres gewählt. Die Becherkoralle profitiert als wärmeliebende vom Klimawandel. (Ulrike Wegner) [Mehr lesen >](/pilze/artomyces-pyxidatus-becherkoralle)
 
 <div style="clear:  both"></div>
 
