@@ -79,7 +79,7 @@ Anhang: Einige Pilzarten im Cha Am Forest Park
 {% include bild.html datei="/bilder/ganoderma_lucidum_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Erdsterne, indet. -- Ganoderma lucidum, Vitalpilz" %}
 
-Folgende hier gezeigten Pilzarten sind mit einem ausführlicheren Porträt im Fundkorb vorhanden:
+Folgende der hier gezeigten Pilzarten sind mit einem ausführlicheren Porträt im Fundkorb vorhanden:
 
 [Colus hirudinosus = Faltiger Gitterling](/pilze/colus-hirudinosus-faltiger-gitterling)  
 [Cookeina sulcipes = Prächtigter Kelchbecherling](/pilze/cookeina-sulcipes-weinglas-kelchbecherling)  
