@@ -58,30 +58,6 @@ footer_scripts:
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clavulina_cinerea_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-26.10.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Graue Koralle *Clavulina cinerea*. In der Form gleicht sie oft der sehr viel häufigeren [Kammkoralle Clavulina coralloides](/pilze/clavulina-coralloides-kammkoralle), die normalerweise rein weiß ist, aber vom Schmarotzerpilz *Spadicioides clavarium* befallen und dann ebenfalls grau gefärbt sein kann. In diesem Fall sind die beiden Korallen leicht verwechselbar. Eine Lupe kann da hilfreich sein. Erkennt man einen im Stielbereich beginnenden filzigen oder gepunkteten Belag, der sich über den gesamten Fruchtkörper ausdehnen kann, ist es garantiert die Graue. (Dieter Gewalt) [Mehr lesen >](/pilze/clavulina-cinerea-graue-koralle)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_pallidospora_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-25.10.2025: Als „vom Aussterben bedroht“ wird unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Ockerblättrige Weißtäubling *Russula pallidospora* in den Roten Listen Baden-Württembergs und Bayerns geführt. Sehr ähnlich sind einige andere Täublinge wie der häufige [Gemeine Weißtäubling *Russula delica*](/pilze/russula-delica-gemeiner-weißtäubling). Als „Milchling ohne Milch“ könnte man ihn mit dem [Wolligen Milchling](/pilze/lactarius-vellereus-wolliger-milchling-erdschieber) vergleichen. Er ist strikt auf kalkhaltige Böden angewiesen, auf denen er in Laubwäldern vorkommen kann. In der *[DGfM](DGfM "Glossar")*-Verbreitungskarte Deutschland sind gerade mal 29 Fundnachweise eingetragen. (Bernd Miggel) [Mehr lesen >](/pilze/russula-pallidospora-ockerblättriger-weißtäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrocybe_conica_02_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-24.10.2025: Einen Saftling zu finden, ist immer eine Freude. Diesmal an einem grasigen Straßenrand in Rödermark-Waldacker. Um den Kegeligen Saftling *Hygrocybe conica* (unseren aktuellen [Fundkorbpilz](AA "Glossar-") anzutreffen, muss man nicht unbedingt eine der wenigen Saftlingswiesen besuchen. Er wird auch Schwärzender Saftling genannt und ist nahezu überall zu Hause. Ein typisches Merkmal ist das Schwärzen seiner Fruchtkörper. Wenn das fortgeschritten ist, sieht er gar nicht mehr schön aus. (Dieter Gewalt) [Mehr lesen >](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling)
-
-<div style="clear:  both"></div>
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2025](/artikel/liste-aller-aktuellen-fundkorbpilze-2025.html)
