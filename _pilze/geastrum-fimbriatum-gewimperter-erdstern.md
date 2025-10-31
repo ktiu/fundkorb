@@ -5,6 +5,7 @@ beschreibung:
   referenz: Fr. 1829
   erlaeuterung: fimbriatum = gewimpert, gefranst
   familie: Geastraceae
+  synonym: "Synonym: Geastrum sessile"
 profil:
   aktualisiert: 2025-10-31
   autor_in: Dieter Gewalt
@@ -20,6 +21,8 @@ literatur:
   - text: "Hartmut Schubert: Quedlinburger Sternenwelten, Der Tintling, Heft 80
       (3/2013), Seite 11 – 29"
   - url: https://www.zobodat.at/pdf/Z-Pilzkunde_37_1971_0225-0227.pdf
+  - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 2, Nr. 501 (als Geastrum
+      sessile)"
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/geastrum_fimbriatum_01_cw.jpg" %}
