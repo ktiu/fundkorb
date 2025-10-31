@@ -12,7 +12,8 @@ footer_scripts:
 
 - - -
 
-**Der Wald und seine Pilze im November** - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 09.11.2025 um 10:00 Uhr
+**Der Wald und seine Pilze im November** - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 09.11.2025 um 10:00 Uhr\
+**Diese Exkursion ist leider ausgebucht**
 
 - - -
 
