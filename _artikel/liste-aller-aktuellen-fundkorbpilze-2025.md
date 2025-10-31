@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-30.08.2025: [Psathyrella gossypina - Baumwoll-Mürbling](/pilze/psathyrella-gossypina-baumwoll-mürbling)  
+31.08.2025: [Mycena rosea - Rosa Rettich-Helmling](/pilze/mycena-rosea-rosa-rettich-helmling)  
+30.08.2025: [Psathyrella gossypina - Baumwoll-Mürbling](/pilze/psathyrella-gossypina-baumwoll-mürbling)\
 29.08.2025: [Clitocybe geotropa - Mönchskopf](/pilze/clitocybe-geotropa-mönchskopf)\
 28.10.2025: [Armillaria ostoyae - Dunkler Hallimasch](/pilze/armillaria-ostoyae-dunkler-hallimasch)\
 27.10.2025: [Tricholoma ustale - Brandiger Ritterling](/pilze/tricholoma-ustale-brandiger-ritterling)\
