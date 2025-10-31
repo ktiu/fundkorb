@@ -3,7 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-31.08.2025: [Mycena rosea - Rosa Rettich-Helmling](/pilze/mycena-rosea-rosa-rettich-helmling)  
+01.11.2025: [Boletus pinophilus - Kiefernsteinpilz](/pilze/boletus-pinophilus-kiefernsteinpilz)
+
+31.08.2025: [Mycena rosea - Rosa Rettich-Helmling](/pilze/mycena-rosea-rosa-rettich-helmling)\
 30.08.2025: [Psathyrella gossypina - Baumwoll-Mürbling](/pilze/psathyrella-gossypina-baumwoll-mürbling)\
 29.08.2025: [Clitocybe geotropa - Mönchskopf](/pilze/clitocybe-geotropa-mönchskopf)\
 28.10.2025: [Armillaria ostoyae - Dunkler Hallimasch](/pilze/armillaria-ostoyae-dunkler-hallimasch)\
