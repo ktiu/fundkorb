@@ -20,6 +20,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_pinophilus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.11.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Kiefernsteinpilz *Boletus pinophilus*, ist eine von mindestens vier Steinpilzarten, die von den meisten Pilzsammlern nicht unterschieden werden und alle gleich gut und essbar sind. Das Vorkommen bei Kiefern ist zumindest ein Hinweis auf diese selten gewordene Art. Der Hut ist dunkelbraun mit rötlichen Nuancen oder Flecken und leicht strukturiert, fast runzelig. Bei der Zubereitung entfaltet er ein nussiges Aroma, das besonders in Butter gebraten hervorragend zur Geltung kommt. (Katja Bauer) [Mehr lesen >](/pilze/boletus-pinophilus-kiefernsteinpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_rosea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
