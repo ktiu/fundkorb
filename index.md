@@ -19,6 +19,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_rosea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.10.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosa Rettich-Helmling *Mycena rosea*. Mit Hutdurchmmessern bis zu 6 cm gehört er zu den größeren Helmlingen und ist zur Zeit wohl in jedem Wald zu finden. Er enthält geringe Mengen des Nervengifts Muscarin und muss daher wie alle Rettich-Helmlinge als Giftpilz ausgewiesen werden. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-rosea-rosa-rettich-helmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/psathyrella_gossypina_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
