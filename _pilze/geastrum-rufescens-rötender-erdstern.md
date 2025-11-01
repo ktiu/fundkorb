@@ -21,7 +21,7 @@ literatur:
 
 Erdsterne gehören zu den Bauchpilzen, die ihre Sporen im Inneren ihrer Fruchtkörper bilden. Sie bilden zwei Hüllen aus, eine äußere (Exoperidie), die in eine unterschiedliche Anzahl sternförmig abstehender Lappen aufreißt, und eine innere, die eigentliche Sporenkugel. Vor dem Aufreißen der äußeren Hülle haben sie ein zwiebelförmiges Aussehen. Die meisten der etwa 20 in Mitteleuropa vorkommenden Arten sind anhand von makroskopischen Merkmalen bestimmbar unter der Voraussetzung, dass man einen guten Schlüssel zur Verfügung hat. Sporenpulverfarbe und Größe sowie Ornamentation der Sporen sind in wenigen Fällen zu beachten.
 
-Der oben abgebildete Fund von ausschließlich älteren Exemplaren konnte mit dem Bestimmungsschlüssel von Heinrich Dörfelt problemlos bestimmt werden.  
+Der oben abgebildete Fund von ausschließlich älteren Exemplaren konnte mit dem Bestimmungsschlüssel von Heinrich Dörfelt problemlos bestimmt werden.
 
 ##### Bestimmungsschritte nach Heinrich Dörfelt (Die Erdsterne, 1989):
 
@@ -35,10 +35,6 @@ Der oben abgebildete Fund von ausschließlich älteren Exemplaren konnte mit dem
 26	Fk (Fruchtkörper) rötend oder blass und mit fleischfarbenem Ton, [Pseudoparenchymschicht](Pseudoparenchym "Glossar") schollig zerklüftend, Endoperidie mitunter am Exsikkat schwach, z. T. kaum wahrnehmbar gestielt  -->27\
 27	Fk rötend, Pseudoparenchymschicht schollig bis schwammig verwitternd, Innenseite der Exoperidie (Oberseite der Sternlappen am ausgebreiteten Fk) dann oft auffallend dunkelbraun, Peristom stets ohne [Hof](Hof "Glossar"), Endoperidie oft nicht völlig sitzend, sondern wenigstens erhoben und dadurch schwach gestielt wirkend  =  <ins>Geastrum rufescens</ins>
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/geastrum_rufescens_02_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Vorjährige Fruchtkörper. Erdsterne überwintern oft und nahezu unbeschadet" %}
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/geastrum_rufescens_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/geastrum_rufescens_04_cw.jpg" %}
+{% include abbildung_ende.html legende="03.10.2021: Blaubeuren (Foto: Christian Weinkötz)" %}
