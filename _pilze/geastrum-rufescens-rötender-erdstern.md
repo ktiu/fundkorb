@@ -10,7 +10,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
-  datei: /bilder/geastrum_rufescens_01_dg.jpg
+  datei: /bilder/geastrum_rufescens_04_cw.jpg
 literatur:
   - text: "Heinrich Dörfelt: Die Erdsterne (1989)"
   - url: http://tintling.com/pilzbuch/arten/g/Geastrum_rufescens
