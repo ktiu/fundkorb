@@ -20,6 +20,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cortinarius_bolaris_02_frk.jpg" %}
+{% include abbildung_ende.html %}
+
+02.11.2025: In der Rhein-Main-Ebene ziemlich häufig und leicht zu erkennen ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rotschuppige Raukopf *Cortinarius bolaris*. Da genügt ein Vergleich mit dem beigefügten Foto und selbst eine der etwas besseren Pilze-Apps sollte eine richtige Diagnose liefern. *Karin Montag* („Der Tintling“) hat ihn einmal als „bunten Harlekin“ bezeichnet. Man findet ihn auf sandigen sauren Böden in Laubwäldern und sollte ihn dort belassen. Er könnte magen-/darmgiftig sein. (Dieter Gewalt) [Mehr lesen >](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_pinophilus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
