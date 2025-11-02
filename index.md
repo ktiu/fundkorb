@@ -20,6 +20,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/macrolepiota_mastoidea_03_ya.jpg" %}
+{% include abbildung_ende.html %}
+
+03.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zitzen-Riesenschirmling *Macrolepiota mastoidea*. Sein Erkennungszeichen ist der zitzenförmige Buckel in der Hutmitte, während Hutschuppen und Stielmuster unauffällig bleiben. Er wächst vom Spätsommer bis November in nährstoffreichen Laubwäldern und gilt als ebenso wohlschmeckend wie sein naher Verwandter, der [Große Riesenschirmling](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol) oder Parasol. (Katja Bauer) [Mehr lesen >](/pilze/macrolepiota-mastoidea-zitzen-riesenschirmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cortinarius_bolaris_02_frk.jpg" %}
 {% include abbildung_ende.html %}
 
