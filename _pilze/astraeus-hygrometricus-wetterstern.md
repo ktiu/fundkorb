@@ -25,7 +25,8 @@ Obwohl den Erdsternen zum Verwechseln ähnlich, gehört der Wetterstern nicht in
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/astraeus_hygrometricus_03_eh.jpg" %}
-{% include abbildung_ende.html legende="6. Januar 2024: Fund bei Bensheim-Hochstädten im Odenwald (Foto: Erik Hock)" %}
+{% include bild.html datei="/bilder/astraeus_hygrometricus_04_cw.jpg" %}
+{% include abbildung_ende.html legende="Foto links: Erik Hock -- Foto rechts: Christian Weinkötz" %}
 
 Da der Wetterstern eine fast ausschließlich [kolline](kollin "Glossar") bis [submontan](submontan "Glossar")e Verbreitung aufweist, sind unsere Flachland-Kollektionen von Bedeutung, um so mehr, als im Koberstädter Wald mehr als 100 Fruchtkörper festgestelt werden konnten. Der interessante Pilz ist [Mykorrhizapartner](Mykorrhiza "Glossar") div. Laub- und Nadelbäume, im vorliegenden Fall waren es Eichen. An meinen ersten Wettersternfund kann ich mich übrigens noch gut erinnern. Das war 1985 am Gardasee, wo er an mehreren Hängen unter Kiefern wuchs. 
 
