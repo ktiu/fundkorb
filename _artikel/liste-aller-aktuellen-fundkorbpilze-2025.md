@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-02.11.2025: [Cortinarius bolaris - Rotschuppiger Raukopf](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)  
+03.11.2025: [Macrolepiota mastoidea - Zitzen-Riesenschirmling](/pilze/macrolepiota-mastoidea-zitzen-riesenschirmling)  
+02.11.2025: [Cortinarius bolaris - Rotschuppiger Raukopf](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)\
 01.11.2025: [Boletus pinophilus - Kiefernsteinpilz](/pilze/boletus-pinophilus-kiefernsteinpilz)
 
 31.08.2025: [Mycena rosea - Rosa Rettich-Helmling](/pilze/mycena-rosea-rosa-rettich-helmling)\
