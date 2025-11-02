@@ -23,7 +23,7 @@ literatur:
       (3/2013), Seite 23"
   - url: http://tintling.com/pilzbuch/arten/g/Geastrum_quadrifidum.html
 ---
-Wie alle Erdsterne besteht auch dieser aus einer [Exoperidie](<Exoperidie "Glossar">) und einer [Endoperidie](<Endoperidie "Glossar">). Die zum jung noch kugeligen, meist nur etwa 2- 3 cm großen Fruchtkörper gehörige Exoperidie reißt von der Spitze her in 4, seltener in 3 oder 5 Lappen auf, die sich stelzenartig nach unten biegen und die im Inneren befindliche Sporenkugel (Endoperidie) auf einem kurzen Stiel nach oben heben.
+Wie alle Erdsterne besteht auch dieser aus einer [Exoperidie](Exoperidie "Glossar") und einer [Endoperidie](Endoperidie "Glossar"). Die zum jung noch kugeligen, meist nur etwa 2- 3 cm großen Fruchtkörper gehörige Exoperidie reißt von der Spitze her in 4, seltener in 3 oder 5 Lappen auf, die sich stelzenartig nach unten biegen und die im Inneren befindliche Sporenkugel (Endoperidie) auf einem kurzen Stiel nach oben heben.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/geastrum_quadrifidum_02_cw.jpg" %}
@@ -36,6 +36,6 @@ Die Farbe der Stelzen wird in der Literatur oft mit creme, ocker oder bräunlich
 {% include bild.html datei="/bilder/geastrum_quadrifidum_04_cw.jpg" %}
 {% include abbildung_ende.html %}
 
-Die kugel- bis spindelförmige graue Endoperidie erreicht bis zu 2 cm Durchmesser und hat an der Unterseite einen unauffälligen Kragen. Das kegelige [Peristom](<Peristom "Glossar">) an der Spitze ist etwas fransig und öffnet sich, um die Sporen freizusetzen. Es ist von einem schmalen helleren Hof umgeben. Das Sporenpulver ist violett-bräunlich. Die runden, warzigen Sporen messen 4,5 – 6 µm im Durchmesser.     
+Die kugel- bis spindelförmige graue Endoperidie erreicht bis zu 2 cm Durchmesser und hat an der Unterseite einen unauffälligen Kragen. Das kegelige [Peristom](Peristom "Glossar") an der Spitze ist etwas fransig und öffnet sich, um die Sporen freizusetzen. Es ist von einem schmalen helleren Hof umgeben. Das Sporenpulver ist violett-bräunlich. Die runden, warzigen Sporen messen 4,5 – 6 µm im Durchmesser.     
 
 Der Kleine Nest-Erdstern gehört zu den kleinsten Erdsternen. Er ist vor allem in höhreren Lagen ab etwa 500 m in Fichtenwäldern zu finden. Ähnlich ist der ebenfalls stelzenbildende Große Nest-Erdstern *Geastrum fornicatum*.
