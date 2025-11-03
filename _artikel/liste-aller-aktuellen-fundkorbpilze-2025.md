@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-03.11.2025: [Macrolepiota mastoidea - Zitzen-Riesenschirmling](/pilze/macrolepiota-mastoidea-zitzen-riesenschirmling)  
+04.11.2025: [Russula caerulea - Buckeltäubling](/pilze/russula-caerulea-buckeltäubling)  
+03.11.2025: [Macrolepiota mastoidea - Zitzen-Riesenschirmling](/pilze/macrolepiota-mastoidea-zitzen-riesenschirmling)\
 02.11.2025: [Cortinarius bolaris - Rotschuppiger Raukopf](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)\
 01.11.2025: [Boletus pinophilus - Kiefernsteinpilz](/pilze/boletus-pinophilus-kiefernsteinpilz)
 
