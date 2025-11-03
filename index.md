@@ -20,6 +20,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_caerulea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buckeltäubling *Russula caerulea*. Er gehört zu der sehr überschaubaren Anzahl von Täublingen, die unterwegs im Wald einigermaßen sicher erkannt werden können. Seine Kennzeichen sind der Buckel in der Hutmitte in Verbindung mit der violett- bis purpurbraunen oder weinroten, glänzenden Huthaut, die sich maximal bis zur Hälfte abziehen lässt, und die jung blass gelblichen, später dottergelben Lamellen. Er ist eine Charakterart sandiger Kiefernwälder und hier oft massenhaft anzutreffen. Entgegen mancher Literaturangaben ist er ein guter und empfehlenswerter Speisepilz. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-caerulea-buckeltäubling) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/macrolepiota_mastoidea_03_ya.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,22 +72,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 29.10.2025: Der Mönchskopf *Clitocybe geotropa* gehört im Rhein-Main-Gebiet nicht gerade zu den häufigen Arten, aber wenn er mal irgendwo auftaucht, dann selten allein. Das trifft offenbar gerade mal wieder zu, denn so viele Exemplare unseres aktuellen [Fundkorbpilzes](AA "Glossar-") wie kürzlich bei der Pilzberatung im Frankfurter Gesundheitsamt sind mir noch nie vorgelegt worden. Er gehört zu den leicht kenntlichen Arten, ist zumindest jung ein guter Speisepilz und inzwischen in der neuen Gattung *Infundibulicybe* zu Hause. (Dieter Gewalt) [Mehr lesen >](/pilze/clitocybe-geotropa-mönchskopf)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/armillaria_ostoyae_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.10.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt diesmal aus dem Taunus. An einem einst dicht mit Fichten bestandenen Hang bei Arnoldshain sind nur noch vereinzelte schon todkranke Baumgrüppchen übrig geblieben, zwischen denen einige Stümpfe mit üppigen Büscheln des Dunklen Hallimasch *Armillaria ostoyae* überwachsen sind. Es ist davon auszugehen, dass die Pilze gerade dabei sind, Hand in Hand mit Borkenkäfern auch diese Restbestände zu vernichten. Speisepilzsammler hätten sich an noch jungen Fruchtkörpern erfreuen können, die sind aber inwischen schon ziemlich vergammelt. (Dr. Kanya Goetsch) [Mehr lesen >](/pilze/armillaria-ostoyae-dunkler-hallimasch)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_ustale_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.10.2025: Braune Ritterlinge sind nicht immer leicht zu unterscheiden. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Brandige Ritterling *Tricholoma ustale*, ist in Mitteleuropa weit verbreitet und nicht selten. Beim aktuellen Wetter hat er eine schleimig schmierige Huthaut. Sehr ähnlich ist der [Bittere Eichenritterling *Tricholoma ustaloides*](/pilze/tricholoma-ustaloides-bitterer-eichenritterling) (und nicht nur der!). Zur sicheren Bestimmung sind auch Mikromerkmale zu beachten. (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-ustale-brandiger-ritterling)
 
 <div style="clear:  both"></div>
 
