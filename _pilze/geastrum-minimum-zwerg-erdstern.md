@@ -16,9 +16,10 @@ literatur:
   - text: "German J. Krieglsteiner (Hrsg): Die Großpilze Baden-Württembergs Band 2,
       Seite 112 – 114"
   - text: "Heinrich Dörfelt: Die Erdsterne, Seite 60 – 61"
-  - text: "Hartmut Schubert: Quedlinburger Sternenwelten, Der Tintling, Heft 80
+  - text: "Hartmut Schubert: Quedlinburger Sternenwelten, Der Tintling, Heft 82
       (3/2013), Seite 21"
   - url: http://tintling.com/pilzbuch/arten/g/Geastrum_minimum.html
+  - {}
 ---
 Bevorzugte Standorte in trockenen Kiefernwäldern und Trockenrasen auf Kalksandböden oder in Küstendünen lassen schon vermuten, dass es sich bei *Geastrum minimum* um eine seltene und gefährdete Art handelt. Bemerkenswert: er ist schon auf allen Ostfriesischen Inseln gefunden worden. Und gilt als kleinste Erdstern-Art Mitteleuropas.
 
