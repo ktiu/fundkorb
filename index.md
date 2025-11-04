@@ -20,6 +20,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_alutacea_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+05.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal wieder ein seltener auf kalkhaltigen Böden vorkommender Täubling. Der Glänzende Ledertäubling *Russula alutacea* gehört zu den stattlichen und robusten, aber auch zu den ziemlich variablen Arten, was die Bestimmung nicht gerade erleichtert. Da sind chemische Reagenzen gefragt, um Farbreaktionen zu beobachten und das Mikroskop, um Mikromerkmale zu prüfen. Gefunden habe ich die interessante Art im Vogelsang-Biotop bei Straubenhardt in Baden Württemberg bei Rotbuchen und Eichen. (Bernd Miggel) [Mehr lesen >](/pilze/russula-alutacea-glänzender-ledertäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_caerulea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,22 +64,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 31.10.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosa Rettich-Helmling *Mycena rosea*. Mit Hutdurchmmessern bis zu 6 cm gehört er zu den größeren Helmlingen und ist zur Zeit wohl in jedem Wald zu finden. Er enthält geringe Mengen des Nervengifts Muscarin und muss daher wie alle Rettich-Helmlinge als Giftpilz ausgewiesen werden. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-rosea-rosa-rettich-helmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/psathyrella_gossypina_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-30.10.2025: Auffallend, attraktiv, aber leider auch sehr selten ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Baumwoll-Mürbling *Psathyrella gossypina*. Er soll jetzt *Typhrasa gossypina* heißen, weil seine Zystiden Öltropfen haben, also nur wegen eines unscheinbaren Merkmals, das nur mit dem Mikroskop zu erkennen ist. Gefunden und fotografiert hat ihn *Frank Kaster* an einem liegenden bemoosten Baumstamm im Frankfurter Stadtwald. Es dürfte sich um einen Erstfund für Hessen handeln. (Dieter Gewalt) [Mehr lesen >](/pilze/psathyrella-gossypina-baumwoll-mürbling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_geotropa_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.10.2025: Der Mönchskopf *Clitocybe geotropa* gehört im Rhein-Main-Gebiet nicht gerade zu den häufigen Arten, aber wenn er mal irgendwo auftaucht, dann selten allein. Das trifft offenbar gerade mal wieder zu, denn so viele Exemplare unseres aktuellen [Fundkorbpilzes](AA "Glossar-") wie kürzlich bei der Pilzberatung im Frankfurter Gesundheitsamt sind mir noch nie vorgelegt worden. Er gehört zu den leicht kenntlichen Arten, ist zumindest jung ein guter Speisepilz und inzwischen in der neuen Gattung *Infundibulicybe* zu Hause. (Dieter Gewalt) [Mehr lesen >](/pilze/clitocybe-geotropa-mönchskopf)
 
 <div style="clear:  both"></div>
 
