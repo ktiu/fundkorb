@@ -19,7 +19,7 @@ literatur:
       Seite 116 - 117"
   - text: "Rudolf Winkler, Gaby Keller: Pilze Mitteleuropas, Seite 106 (1.5.29)"
   - text: "Heinrich Dörfelt: Die Erdsterne, Seite 58 – 60"
-  - text: "Hartmut Schubert: Quedlinburger Sternenwelten, Der Tintling, Heft 80
+  - text: "Hartmut Schubert: Quedlinburger Sternenwelten, Der Tintling, Heft 82
       (3/2013), Seite 23"
   - url: http://tintling.com/pilzbuch/arten/g/Geastrum_quadrifidum.html
 ---
