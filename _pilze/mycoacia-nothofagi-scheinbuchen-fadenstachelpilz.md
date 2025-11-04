@@ -15,7 +15,8 @@ hauptbild:
 literatur: []
 ---
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/mycoacia_nothofagi_02_wp.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/mycoacia_nothofagi_01_wp.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/mycoacia_nothofagi_02_wp.jpg" %}
 {% include abbildung_ende.html legende="2 Fotos: Werner Pohl" %}
 
 Dieser seltene Fadenstachelpilz ist [in Hessen mehrfach gefunden](https://hessen.pilze-deutschland.de/organismen/phlebia-nothofagi-g-cunn-nakasone-1997-1) und von *Werner Pohl* in seinem [Blogspot Nr. 78](http://aphyllopower.blogspot.com/2010/07/) (*Aphyllopower*) beschrieben worden. Der Erstfund für Deutschland gelang 1982 *Dr. Helga Große-Brauckmann* 1982 im Odenwald an Rotbuche.
