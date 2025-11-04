@@ -18,7 +18,7 @@ literatur:
   - text: "Rudolf Winkler, Gaby Keller: Pilze Mitteleuropas, Seite 106 (1.5.28)"
   - text: "Heinrich Dörfelt: Die Erdsterne, Seite 55 – 56"
   - text: "Ewald Gerhardt: Dr große BLV-Pilzführer für unterwegs, Seite 612"
-  - text: "Hartmut Schubert: Quedlinburger Sternenwelten, Der Tintling, Heft 80
+  - text: "Hartmut Schubert: Quedlinburger Sternenwelten, Der Tintling, Heft 82
       (3/2013), Seite 11 – 29"
   - url: https://www.zobodat.at/pdf/Z-Pilzkunde_37_1971_0225-0227.pdf
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 2, Nr. 501 (als Geastrum
