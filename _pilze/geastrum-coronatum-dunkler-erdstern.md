@@ -11,7 +11,7 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/geastrum_coronatum_01_cw.jpg
-  legende: "16.11.2021: NSG Mainzer Sand (3 Fotos von Christian Weinkötz"
+  legende: "16.11.2021: NSG Mainzer Sand (3 Fotos von Christian Weinkötz)"
 literatur:
   - text: "Heinrich Dörfelt: Die Erdsterne, Seite 61 – 62"
   - text: "German J. Krieglsteiner (Hrsg): Die Großpilze Baden-Württembergs Band 2,
