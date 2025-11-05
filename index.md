@@ -12,8 +12,10 @@ footer_scripts:
 
 - - -
 
-**Der Wald und seine Pilze im November** - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 09.11.2025 um 10:00 Uhr\
-**Diese Exkursion ist leider ausgebucht**
+**Nach kurzer aber schwerer Krankheit ist Karin Montag, die Herausgeberin der Pilzzeitschrift "Der Tintling", verstorben. Pilzfreunde im deutschsprachigen Raum werden sie schmerzlich vermissen.**
+
+Der Wald und seine Pilze im November - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 09.11.2025 um 10:00 Uhr\
+Diese Exkursion ist leider ausgebucht
 
 - - -
 
