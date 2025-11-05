@@ -20,6 +20,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycoacia_nothofagi_01_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+06.11.2025: Ein stacheliges [Hymenium](<Hymenium "Glossar">) kommt bei Pilzen nicht allzu häufig vor. Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem sehr seltenen Scheinbuchen-Fadenstacheling *Mycoacia nothofagi* sitzen die Stacheln oder Stoppeln nicht an der Unterseite eines Pilzhutes wie beim [Semmelstoppelpilz](/pilze/hydnum-repandum-semmelstoppelpilz) sondern auf einem wachsartigen Belag, der mit dem Holz verbunden ist. Die Zähnchen sind nur 2 – 3 mm lang. (Dieter Gewalt) [Mehr lesen >](/pilze/mycoacia-nothofagi-scheinbuchen-fadenstachelpilz) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_alutacea_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,14 +64,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 01.11.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Kiefernsteinpilz *Boletus pinophilus*, ist eine von mindestens vier Steinpilzarten, die von den meisten Pilzsammlern nicht unterschieden werden und alle gleich gut und essbar sind. Das Vorkommen bei Kiefern ist zumindest ein Hinweis auf diese selten gewordene Art. Der Hut ist dunkelbraun mit rötlichen Nuancen oder Flecken und leicht strukturiert, fast runzelig. Bei der Zubereitung entfaltet er ein nussiges Aroma, das besonders in Butter gebraten hervorragend zur Geltung kommt. (Katja Bauer) [Mehr lesen >](/pilze/boletus-pinophilus-kiefernsteinpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_rosea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.10.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rosa Rettich-Helmling *Mycena rosea*. Mit Hutdurchmmessern bis zu 6 cm gehört er zu den größeren Helmlingen und ist zur Zeit wohl in jedem Wald zu finden. Er enthält geringe Mengen des Nervengifts Muscarin und muss daher wie alle Rettich-Helmlinge als Giftpilz ausgewiesen werden. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-rosea-rosa-rettich-helmling)
 
 <div style="clear:  both"></div>
 
