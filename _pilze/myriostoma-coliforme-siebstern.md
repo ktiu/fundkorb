@@ -13,7 +13,9 @@ hauptbild:
   datei: /bilder/myriostoma_coliforme_01_xx.png
   legende: "Abbildung: Wikipedia (gemeinfrei)"
 literatur:
-  - text: "German J. Krieglsteiner (Hrsg): Die Großpilze Baden-Württembergs Band 2,
+  - text: "Michael Hennig Kreisel: Handbuch für Piluzfreunde Band II, Nr. 157"
+  - url: ""
+    text: "German J. Krieglsteiner (Hrsg): Die Großpilze Baden-Württembergs Band 2,
       Seite 121"
   - url: https://de.wikipedia.org/wiki/Sieberdstern
 ---
