@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-06.11.2025: [Mycoacia nothofagi - Scheinbuchen-Fadenstachelpilz](/pilze/mycoacia-nothofagi-scheinbuchen-fadenstachelpilz)  
+07.11.2025: [Clitocybe gibba - Ockerbrauner Trichterling](/pilze/clitocybe-gibba-ockerbrauner-trichterling)  
+06.11.2025: [Mycoacia nothofagi - Scheinbuchen-Fadenstachelpilz](/pilze/mycoacia-nothofagi-scheinbuchen-fadenstachelpilz)\
 05.11.2025: [Russula alutacea - Glänzender Ledertäubling](/pilze/russula-alutacea-glänzender-ledertäubling)\
 04.11.2025: [Russula caerulea - Buckeltäubling](/pilze/russula-caerulea-buckeltäubling)\
 03.11.2025: [Macrolepiota mastoidea - Zitzen-Riesenschirmling](/pilze/macrolepiota-mastoidea-zitzen-riesenschirmling)\
