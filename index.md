@@ -23,7 +23,13 @@ Diese Exkursion ist leider ausgebucht
 
 **Aktueller Fundkorbpilz:**
 
-07.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ockerbraune Trichterling Clitocybe gibba, der jetzt Infundibulicybe gibba heißen soll. Charakteristische Merkmale sind sein nicht sehr auffälliger Bittermandelgeruch und der kleine Buckel in der trichterig vertieften Hutmitte. Sollte der Geruch mal nicht wahrnehmbar sein oder der kleine Buckel fehlen, wäre eine Verwechslung vor allem mit dem ebenfalls essbaren Fuchsigen Röteltrichterling Lepista flaccida möglich. Wer es genau wissen will, kommt kaum ums Mikroskopieren herum. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitocybe_gibba_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ockerbraune Trichterling *Clitocybe gibba*, der jetzt *Infundibulicybe gibba* heißen soll. Charakteristische Merkmale sind sein nicht sehr auffälliger Bittermandelgeruch und der kleine Buckel in der trichterig vertieften Hutmitte. Sollte der Geruch mal nicht wahrnehmbar sein oder der kleine Buckel fehlen, wäre eine Verwechslung vor allem mit dem ebenfalls essbaren [Fuchsigen Röteltrichterling Lepista flaccida](/pilze/lepista-flaccida-fuchsiger-röteltrichterling) möglich. Wer es genau wissen will, kommt kaum ums Mikroskopieren herum. (Dieter Gewalt) [Mehr lesen >](/pilze/clitocybe-gibba-ockerbrauner-trichterling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycoacia_nothofagi_01_wp.jpg" %}
