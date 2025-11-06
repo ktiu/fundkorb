@@ -34,3 +34,5 @@ In Dietzenbach am Steinkautenweg befindet sich zwischen der S-Bahntrasse und dem
 * Inzwischen haben sich die [Fundmeldungen](http://hessen.pilze-deutschland.de/organismen/sphaerobolus-stellatus-tode-1790) signifikant erhöht, vor allem im Rhein-Main-Gebiet.
 
 Es gibt übrigens noch eine "Pilzkanone", die sogar zu noch eindrucksvolleren Leistungen fähig ist: der [Pillenwerfer *Pilobolus kleinii*](/pilze/pilobolus-kleinii-pillenwerfer).
+
+Mehr über Erdsternartige [erfahren Sie hier >](/verwandt/erdsterne)
