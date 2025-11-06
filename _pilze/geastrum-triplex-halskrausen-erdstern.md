@@ -37,3 +37,5 @@ Teilnehmer an den Pilzführungen der vhs Rodgau und den FundGroup-Exkursionen si
 {% include abbildung_ende.html legende="Mit der Kamera festgehalten: Ein Halskrausenerdstern entlässt eine Sporenwolke" %}
 
 Erdsterne gehören zu den Bauchpilzen (Gasteromyzeten), die ihre Sporen im Inneren („im Bauch“) ihrer Fruchtkörper bilden. Andere Vertreter dieser Gruppe sind Stäublinge (Boviste), Teuerlinge, Kugelschneller, aber auch die Stinkmorchel und deren Verwandte. Die Sporenwolke oben ist vom Sonnenlicht angestrahlt und wirkt daher hell, ist in Wirklichkeit aber von brauner Farbe.
+
+Mehr über Erdsterne [erfahren Sie hier >](/verwandt/erdsterne)
