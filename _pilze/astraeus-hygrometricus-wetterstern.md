@@ -35,3 +35,5 @@ Da der Wetterstern eine fast ausschließlich [kolline](kollin "Glossar") bis [su
 {% include abbildung_ende.html legende="Ein leckeres Pilzgericht mit Wettersternen in Chiang Rai, Nord-Thailand" %}
 
 Und noch eine Anmerkung, die vielleicht von Interesse ist: hierzulande gilt der Pilz als ungenießbar, in Nordthailand aber, wo er in manchen Regionen massenhaft zu finden ist, wird er gern gesammelt und im noch kugeligen Frühstadium als Delikatesse auf den Märkten verkauft. Ich habe ihn dort mehrmals gegessen und kann mich der Wertschätzung nur anschließen. Die Pilze waren knackig im Biss und absolut schmackhaft. Leider ist der Wetterstern bei uns nicht so häufig wie im Norden Thailands.
+
+Mehr über Erdsternartige [erfahren Sie hier >](/verwandt/erdsterne)
