@@ -44,3 +44,5 @@ Erdsterne sind zunächst kugel- oder zwiebelförmig, wobei der Gewimperte Erdste
 Das Sporenpulver ist braun. Die feinwarzigen rundlichen amyloiden Sporen messen 2,5 – 5 µm im Durchmesser und haben keinen Keimporus.
 
 Unter den Erdsternen gibt es keine Speisepilze.
+
+Mehr über Erdsterne [erfahren Sie hier >](/verwandt/erdsterne)
