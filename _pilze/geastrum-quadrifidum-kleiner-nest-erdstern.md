@@ -39,3 +39,5 @@ Die Farbe der Stelzen wird in der Literatur oft mit creme, ocker oder bräunlich
 Die kugel- bis spindelförmige graue Endoperidie erreicht bis zu 2 cm Durchmesser und hat an der Unterseite einen unauffälligen Kragen. Das kegelige [Peristom](Peristom "Glossar") an der Spitze ist etwas fransig und öffnet sich, um die Sporen freizusetzen. Es ist von einem schmalen helleren Hof umgeben. Das Sporenpulver ist violett-bräunlich. Die runden, warzigen Sporen messen 4,5 – 6 µm im Durchmesser.     
 
 Der Kleine Nest-Erdstern gehört zu den kleinsten Erdsternen. Er ist vor allem in höhreren Lagen ab etwa 500 m in Fichtenwäldern zu finden. Ähnlich ist der ebenfalls stelzenbildende Große Nest-Erdstern *Geastrum fornicatum*.
+
+Mehr über Erdsterne [erfahren Sie hier >](/verwandt/erdsterne)
