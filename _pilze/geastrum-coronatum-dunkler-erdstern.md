@@ -30,3 +30,5 @@ literatur:
 Geschlossene 1 – 4 cm große Fruchtkörper sind rundlich bis knollig und können ausgebreitet bis zu 12 cm Durchmesser erreichen. Die aufgespaltene lederfarbene [Exoperidie](Exoperidie "Glossar") besteht dann aus 5 – 12, meistens 8 Lappen, die aufwärts oder stelzenartig nach unten gebogen oder auch flach ausgebreitet sein können. Von dunkler grauer Farbe ist lediglich die Sporenkugel ([Endoperidie](Endoperidie "Glossar")), die auf einem kurzen Stielchen sitzt, das meist erst in reifem Stadium sichtbar wird. Sie kann rundlich, verbogen und dabei auch faltig oder eingedellt sein. Das schwach bewimperte [Peristom](Peristom "Glossar") ist relativ flach, also kaum spitzkegelig. Die [Gleba](Gleba "Glossar") ist schwarzbraun, das Sporenpulver nahezu schwarz. Die kugeligen rauen Sporen messen 5 – 7 µm.
 
 Die Fotos von *Christian Weinkötz* könnten zur *forma pseudolimbatum* gehören.
+
+Mehr über Erdsterne [erfahren Sie hier >](/verwandt/erdsterne)
