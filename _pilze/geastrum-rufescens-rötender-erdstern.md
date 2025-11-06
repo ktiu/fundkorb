@@ -38,3 +38,5 @@ Der oben abgebildete Fund von ausschließlich älteren Exemplaren konnte mit dem
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/geastrum_rufescens_04_cw.jpg" %}
 {% include abbildung_ende.html legende="03.10.2021: Blaubeuren (Foto: Christian Weinkötz)" %}
+
+Mehr über Erdsterne [erfahren Sie hier >](/verwandt/erdsterne)
