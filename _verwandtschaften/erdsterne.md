@@ -26,7 +26,7 @@ So einfach es ist, einen Erdstern als Erdstern zu identifizieren, so schwierig k
 {% include bild.html datei="/bilder/geastrum_fimbriatum_03_cw.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Gestielt, Peristom sulcat: Geastrum striatum -- Stiellos, Peristom fimbriat:  Geastrum fimbriatum" %}
 
-Das Innere der Endoperidie besteht aus der sogenannten Gleba, einem Gewebe, in dem die Sporen gebildet werden. Am Scheitel der Sporenkugel befindet sich ein Peristom, eine runde Öffnung, durch die die Sporen austreten und vom Wind verbreitet werden. Das Peristom kann zugespitzt faltig (*sulcat*) oder fransig gewimpert (*fimbriat*), von einem abgesetzten Hof umgeben oder ungehöft sein. Die \[Myzelschicht](<"Glossar") der Exoperidie kann nestartig im Boden verbleiben und die Lappen darauf sind stelzenartig aufgerichtet (typisch für die Nest-Erdsterne).
+Das Innere der Endoperidie besteht aus der sogenannten Gleba, einem Gewebe, in dem die Sporen gebildet werden. Am Scheitel der Sporenkugel befindet sich ein Peristom, eine runde Öffnung, durch die die Sporen austreten und vom Wind verbreitet werden. Das Peristom kann zugespitzt faltig (*sulcat*) oder fransig gewimpert (*fimbriat*), von einem abgesetzten Hof umgeben oder ungehöft sein. Die [Myzelschicht](Myzel "Glossar") der Exoperidie kann nestartig im Boden verbleiben und die Lappen darauf sind stelzenartig aufgerichtet (typisch für die Nest-Erdsterne).
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/geastrum_minimum_02_cw.jpg" nocrop=true gross=true %}
@@ -51,7 +51,7 @@ Die 5 bis 10 Lappen des Wettersterns geöffneten Exoperidie sind hygroskopisch, 
 {% include bild.html datei="/bilder/sphaerobolus_stellatus_01dg.jpg" %}
 {% include abbildung_ende.html legende="Kugelschneller Sphaerobolus stellatus" %}
 
-Zu den Erdsternartigen (Familie *Geastreaceae*) gehört auch der Kugelschneller, der allerdings winzig klein ist, kaum mehr als 3 Millimeter Durchmesser erreicht und auf morschem Holz wächst. Er wird auch Kugelschneller genannt. Aus gutem Grund. Er schießt seine Sporenkügelchen bis zu drei Meter weit mit einem hörbaren Knall aus seiner sternförmigen Exiperidie.
+Zu den Erdsternartigen (Familie *Geastreaceae*) gehört auch der Kugelschneller, der allerdings winzig klein ist, kaum mehr als 3 Millimeter Durchmesser erreicht und auf morschem Holz wächst. Er wird auch *Pilzkanone* genannt. Aus gutem Grund. Er schießt seine Sporenkügelchen bis zu drei Meter weit mit einem hörbaren Knall aus seiner sternförmigen Exiperidie.
 
 Etwas entfernter verwandt sind die [„Vogelnestpilze“ (Nidulariaceae)](/verwandt/vogelnestpilze), die ebenfalls zu den Bauchpilzen gehören.
 
