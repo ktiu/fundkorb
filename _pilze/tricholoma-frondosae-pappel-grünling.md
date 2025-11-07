@@ -17,7 +17,7 @@ literatur:
   - text: "Rudolf Winkler, Gaby Keller: Pilze Mitteleuropas, Seite 241 (5.1.44)"
   - url: https://www.pilze-deutschland.de/organismen/tricholoma-frondosae-kalamees-shchukin-2001-1
   - url: https://forum.dgfm-ev.de/thread/1416-neues-von-den-gruenlingen/
-  - url: https://forum.dgfm-ev.de/thread/1416-neues-von-den-gruenlingen/
+  - {}
 ---
 Dieser grünlingsähnliche Pilz überraschte uns bei einer pilzkundlichen Führung durch sein massenhaftes Vorkommen. Auf einer Fläche von wenigen Quadratmetern standen mindestens 50 zum Teil mit Fallaub bedeckte Fruchtkörper. Er wurde gleich von mehreren Pilzfreunden untersucht und mit der Merkmalskombination
 
