@@ -24,6 +24,14 @@ Diese Exkursion ist leider ausgebucht
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/geastrum_triplex_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.11.2025: [Erdsterne](/verwandt/erdsterne) sind formschöne, geradezu elegante Pilze, die gar nicht wie Pilze aussehen, an deren Anblick sich Pilz- und Naturfreunde aber erfreuen können. Ein relativ häufiger, der Halskrausen-Erdstern *Geastrum triplex*, ist gerade mal wieder in Dietzenbach aufgetaucht und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Seine sternförmigen abgebrochenen Lappen bilden ein halsbandartiges [Kollar](Kollar "Glossar") rund um die Sporenkugel, ein entscheidendes Unterscheidungsmerkmal. (Dieter Gewalt) [Mehr lesen >](/pilze/geastrum-triplex-halskrausen-erdstern)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitocybe_gibba_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
