@@ -56,3 +56,5 @@ Für mich nicht nachprüfbaren Berichten zufolge haben japanische Forscher einen
 Ob gering oder hoch – Risiko bleibt Risiko – und da die Deutsche Gesellschaft für Mykologie auf der sicheren Seite sein möchte, hat sie alle Pilzsachverständigen angewiesen, den Grünling nicht mehr als Speisepilz zuzulassen. Diese Einschätzung könnte in absehbarer Zeit relativiert und der Pilz wieder zum Verzehr zugelassen werden, wobei folgende Vorsichtsmaßnahmen beachtet werden sollten: Grünlinge nicht zu häufig, nur in überschaubarer Menge und nicht bei gleichzeitiger Einnahme von Medikamenten, die als Nebenwirkung Rabdomyolyse verursachen können, zu verzehren. Ein Sammelverbot sollte aufgrund seiner Bestandsgefährdung dennoch beachtet werden.
 
 Der Grünling wurde von der Deutschen Gesellschaft für Mykologie zum [Pilz des Jahres 2021](https://www.dgfm-ev.de/pilz-des-jahres/2021-gruenling) erklärt.
+
+Sehr ähnlich ist der [Pappel-Grünling Tricholoma frondosae](/pilze/tricholoma-frondosae-pappel-grünling).
