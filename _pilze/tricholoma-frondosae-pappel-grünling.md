@@ -19,7 +19,7 @@ literatur:
   - url: https://forum.dgfm-ev.de/thread/1416-neues-von-den-gruenlingen/
   - {}
 ---
-Dieser grünlingsähnliche Pilz überraschte uns bei einer pilzkundlichen Führung durch sein massenhaftes Vorkommen. Auf einer Fläche von wenigen Quadratmetern standen mindestens 50 zum Teil mit Fallaub bedeckte Fruchtkörper. Er wurde gleich von mehreren Pilzfreunden untersucht und mit der Merkmalskombination
+Dieser [grünlingsähnliche](/pilze/tricholoma-equestre-grünling) Pilz überraschte uns bei einer pilzkundlichen Führung durch sein massenhaftes Vorkommen. Auf einer Fläche von wenigen Quadratmetern standen mindestens 50 zum Teil mit Fallaub bedeckte Fruchtkörper. Er wurde gleich von mehreren Pilzfreunden untersucht und mit der Merkmalskombination
 
 > „leuchtend gelbe, sehr dicht stehende Lamellen, grünlich-bräunliche feinkörnig schuppige Huthaut, konische Hutmitte, unauffälliger Geruch, muffig mehliger Geschmack“
 
