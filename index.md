@@ -12,16 +12,20 @@ footer_scripts:
 
 - - -
 
-**Nach kurzer aber schwerer Krankheit ist Karin Montag, die Herausgeberin der Pilzzeitschrift "Der Tintling", verstorben. Pilzfreunde im deutschsprachigen Raum werden sie schmerzlich vermissen.**
-
-- - -
-
 Der Wald und seine Pilze im November - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 09.11.2025 um 10:00 Uhr\
 Diese Exkursion ist leider ausgebucht
 
 - - -
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_essettei_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.11.2025: Bei einer Pilzkartierungsexkursion im Nordschwarzwald bei Karlsbad wurde u. a. auch der Schiefknollige Anis-Champignon *Agaricus essettei* gefunden und ist daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Er gehört zu den waldbewohnenden Arten und ist, wenn seine Stielknolle deutlich verbogen ist, recht gut von anderen Champignonarten zu unterscheiden. Gelb verfärbende Champignons mit Anisgeruch sind grundsätzlich essbar, ohne diesen Geruch auf jeden Fall zu meiden. Es könnte sich um giftige [Karbolchampignongs](/pilze/agaricus-xanthoderma-karbolchampignon) handeln. (Bernd Miggel) [Mehr lesen >](/pilze/agaricus-essettei-schiefknolliger-anis-champignon)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/geastrum_triplex_01_dg.jpg" %}
@@ -76,14 +80,6 @@ Diese Exkursion ist leider ausgebucht
 {% include abbildung_ende.html %}
 
 02.11.2025: In der Rhein-Main-Ebene ziemlich häufig und leicht zu erkennen ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rotschuppige Raukopf *Cortinarius bolaris*. Da genügt ein Vergleich mit dem beigefügten Foto und selbst eine der etwas besseren Pilze-Apps sollte eine richtige Diagnose liefern. *Karin Montag* („Der Tintling“) hat ihn einmal als „bunten Harlekin“ bezeichnet. Man findet ihn auf sandigen sauren Böden in Laubwäldern und sollte ihn dort belassen. Er könnte magen-/darmgiftig sein. (Dieter Gewalt) [Mehr lesen >](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_pinophilus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.11.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Kiefernsteinpilz *Boletus pinophilus*, ist eine von mindestens vier Steinpilzarten, die von den meisten Pilzsammlern nicht unterschieden werden und alle gleich gut und essbar sind. Das Vorkommen bei Kiefern ist zumindest ein Hinweis auf diese selten gewordene Art. Der Hut ist dunkelbraun mit rötlichen Nuancen oder Flecken und leicht strukturiert, fast runzelig. Bei der Zubereitung entfaltet er ein nussiges Aroma, das besonders in Butter gebraten hervorragend zur Geltung kommt. (Katja Bauer) [Mehr lesen >](/pilze/boletus-pinophilus-kiefernsteinpilz)
 
 <div style="clear:  both"></div>
 
