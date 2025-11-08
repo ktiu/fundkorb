@@ -5,6 +5,7 @@ beschreibung:
   referenz: "(Fr.) Singer "
   familie: Lyophyllaceae
   erlaeuterung: decastes = büscheliges Auftreten
+  synonym: "Synonym: Lyophyllum loricatum"
 profil:
   aktualisiert: 2020-08-08
   autor_in: Dieter Gewalt
