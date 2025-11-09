@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-09.11.2025: [Agaricus essettei - Schiefknolliger Anis-Champignon](/pilze/agaricus-essettei-schiefknolliger-anis-champignon)  
+10.11.2025: [Ramaria stricta - Steife Koralle](/pilze/ramaria-stricta-steife-koralle)  
+09.11.2025: [Agaricus essettei - Schiefknolliger Anis-Champignon](/pilze/agaricus-essettei-schiefknolliger-anis-champignon)\
 08.11.2025: [Geastrum triplex - Halskrausen-Erdstern](/pilze/geastrum-triplex-halskrausen-erdstern)\
 07.11.2025: [Clitocybe gibba - Ockerbrauner Trichterling](/pilze/clitocybe-gibba-ockerbrauner-trichterling)\
 06.11.2025: [Mycoacia nothofagi - Scheinbuchen-Fadenstachelpilz](/pilze/mycoacia-nothofagi-scheinbuchen-fadenstachelpilz)\
