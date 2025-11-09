@@ -20,6 +20,14 @@ Diese Exkursion ist leider ausgebucht
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ramaria_stricta_01_xx.jpg" %}
+{% include abbildung_ende.html %}
+
+10.11.2025: Wenn man einem Pilz der Gattung *Ramaria* (Korallen) begegnet und ihm einen Namen geben will, sollte man eigentlich ein Mikroskop dabei haben. Die meisten der zahlreichen Arten dieser Gattung sind nämlich makroskopisch kaum sicher zu unterscheiden. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Steife Koralle *Ramaria stricta*. Sie dürfte zumindest im Rhein-Main-Gebiet die mit Abstand häufigste Koralle sein. (Dieter Gewalt) [Mehr lesen >](/pilze/ramaria-stricta-steife-koralle)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_essettei_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,30 +64,6 @@ Diese Exkursion ist leider ausgebucht
 {% include abbildung_ende.html %}
 
 05.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal wieder ein seltener auf kalkhaltigen Böden vorkommender Täubling. Der Glänzende Ledertäubling *Russula alutacea* gehört zu den stattlichen und robusten, aber auch zu den ziemlich variablen Arten, was die Bestimmung nicht gerade erleichtert. Da sind chemische Reagenzen gefragt, um Farbreaktionen zu beobachten und das Mikroskop, um Mikromerkmale zu prüfen. Gefunden habe ich die interessante Art im Vogelsang-Biotop bei Straubenhardt in Baden Württemberg bei Rotbuchen und Eichen. (Bernd Miggel) [Mehr lesen >](/pilze/russula-alutacea-glänzender-ledertäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_caerulea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buckeltäubling *Russula caerulea*. Er gehört zu der sehr überschaubaren Anzahl von Täublingen, die unterwegs im Wald einigermaßen sicher erkannt werden können. Seine Kennzeichen sind der Buckel in der Hutmitte in Verbindung mit der violett- bis purpurbraunen oder weinroten, glänzenden Huthaut, die sich maximal bis zur Hälfte abziehen lässt, und die jung blass gelblichen, später dottergelben Lamellen. Er ist eine Charakterart sandiger Kiefernwälder und hier oft massenhaft anzutreffen. Entgegen mancher Literaturangaben ist er ein guter und empfehlenswerter Speisepilz. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-caerulea-buckeltäubling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/macrolepiota_mastoidea_03_ya.jpg" %}
-{% include abbildung_ende.html %}
-
-03.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zitzen-Riesenschirmling *Macrolepiota mastoidea*. Sein Erkennungszeichen ist der zitzenförmige Buckel in der Hutmitte, während Hutschuppen und Stielmuster unauffällig bleiben. Er wächst vom Spätsommer bis November in nährstoffreichen Laubwäldern und gilt als ebenso wohlschmeckend wie sein naher Verwandter, der [Große Riesenschirmling](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol) oder Parasol. (Katja Bauer) [Mehr lesen >](/pilze/macrolepiota-mastoidea-zitzen-riesenschirmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cortinarius_bolaris_02_frk.jpg" %}
-{% include abbildung_ende.html %}
-
-02.11.2025: In der Rhein-Main-Ebene ziemlich häufig und leicht zu erkennen ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rotschuppige Raukopf *Cortinarius bolaris*. Da genügt ein Vergleich mit dem beigefügten Foto und selbst eine der etwas besseren Pilze-Apps sollte eine richtige Diagnose liefern. *Karin Montag* („Der Tintling“) hat ihn einmal als „bunten Harlekin“ bezeichnet. Man findet ihn auf sandigen sauren Böden in Laubwäldern und sollte ihn dort belassen. Er könnte magen-/darmgiftig sein. (Dieter Gewalt) [Mehr lesen >](/pilze/cortinarius-bolaris-rotschuppiger-raukopf)
 
 <div style="clear:  both"></div>
 
