@@ -1,8 +1,8 @@
 ---
-aktivitaet: Der Wald und seine Pilze im November
-zeit: 2025-11-09T10:00:53.480Z
+aktivitaet: Der Wald und seine Pilze
+zeit: 2025-11-16T10:00:53.480Z
 bis: ""
-anmeldung_offen: false
+anmeldung_offen: true
 anmeldung_noetig: true
 published: true
 bilder:
