@@ -20,6 +20,14 @@ Der Wald und seine Pilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Di
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/melanophyllum_haematospermum_02_frk.jpg" %}
+{% include abbildung_ende.html %}
+
+11.11.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist zwar eine recht seltene, aber leicht kenntliche Art. Der Blutblättrige Zwerschirmling *Melanophyllum haematospermum* kommt meist gesellig an Waldwegrändern vor, gern bei Brennnesseln. Seine Hüte werden etwa 2 – 4 cm groß und sind mit feinen, im Alter verkahlenden Pusteln besetzt. Auffällig sind die dunkel karminroten Lamellen und die hellen [Velumreste](<Velum "Glossar">) am Hutrand. (Dieter Gewalt) [Mehr lesen >](/pilze/melanophyllum-haematospermum-blutblättriger-zwergschirmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ramaria_stricta_01_xx.jpg" %}
 {% include abbildung_ende.html %}
 
