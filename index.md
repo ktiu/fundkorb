@@ -20,6 +20,14 @@ Der Wald und seine Pilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Di
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_frondosae_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.11.2025: Es ist keineswegs alltäglich, auf ein Massenvorkommen eines seltenen oder wenig bekannten Pilzes zu stoßen, wie wir es kürzlich in der Waldfreizeitanlage Jügesheim im Landkreis Offenbach erlebt hatten. Mindestens 50 Fruchtkörper dieses aktuellen [Fundkorbpilzes](AA "Glossar-") (Pappel-Grünling *Tricholoma frondosae*) waren hier auf einer Fläche von etwa 3 m² versammelt. Die größten hatten Hutdurchmesser von 14 cm. Besonders auffallend waren ihre leuchtend gelben Lamellen. (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-frondosae-pappel-grünling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/melanophyllum_haematospermum_02_frk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Der Wald und seine Pilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Di
 {% include abbildung_ende.html %}
 
 06.11.2025: Ein stacheliges [Hymenium](<Hymenium "Glossar">) kommt bei Pilzen nicht allzu häufig vor. Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem sehr seltenen Scheinbuchen-Fadenstacheling *Mycoacia nothofagi* sitzen die Stacheln oder Stoppeln nicht an der Unterseite eines Pilzhutes wie beim [Semmelstoppelpilz](/pilze/hydnum-repandum-semmelstoppelpilz) sondern auf einem wachsartigen Belag, der mit dem Holz verbunden ist. Die Zähnchen sind nur 2 – 3 mm lang. (Dieter Gewalt) [Mehr lesen >](/pilze/mycoacia-nothofagi-scheinbuchen-fadenstachelpilz) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_alutacea_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-05.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist diesmal wieder ein seltener auf kalkhaltigen Böden vorkommender Täubling. Der Glänzende Ledertäubling *Russula alutacea* gehört zu den stattlichen und robusten, aber auch zu den ziemlich variablen Arten, was die Bestimmung nicht gerade erleichtert. Da sind chemische Reagenzen gefragt, um Farbreaktionen zu beobachten und das Mikroskop, um Mikromerkmale zu prüfen. Gefunden habe ich die interessante Art im Vogelsang-Biotop bei Straubenhardt in Baden Württemberg bei Rotbuchen und Eichen. (Bernd Miggel) [Mehr lesen >](/pilze/russula-alutacea-glänzender-ledertäubling)
 
 <div style="clear:  both"></div>
 
