@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-Der Wald und seine Pilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Sonntag, 16.11.2025 um 10:00 Uhr\
+Der Wald und seine Pilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Samstag, 15.11.2025 um 10:00 Uhr\
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
