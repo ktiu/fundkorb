@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-11.11.2025: [Melanophyllum haematospermum - Blutblättriger Zwergschirmling](/pilze/melanophyllum-haematospermum-blutblättriger-zwergschirmling)  
+12.11.2025: [Tricholoma frondosae - Pappel-Grünling](/pilze/tricholoma-frondosae-pappel-grünling)  
+11.11.2025: [Melanophyllum haematospermum - Blutblättriger Zwergschirmling](/pilze/melanophyllum-haematospermum-blutblättriger-zwergschirmling)\
 10.11.2025: [Ramaria stricta - Steife Koralle](/pilze/ramaria-stricta-steife-koralle)\
 09.11.2025: [Agaricus essettei - Schiefknolliger Anis-Champignon](/pilze/agaricus-essettei-schiefknolliger-anis-champignon)\
 08.11.2025: [Geastrum triplex - Halskrausen-Erdstern](/pilze/geastrum-triplex-halskrausen-erdstern)\
