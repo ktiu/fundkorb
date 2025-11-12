@@ -20,6 +20,14 @@ Der Wald und seine Pilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Di
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lyophyllum_connatum_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+13.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Weiße Rasling *Lyophyllum connatum*, ein relativ gut bestimmbarer recht großer, gern büschelig wachsender Pilz. Die matt weißen firnisartig bereiften Hüte werden bis zu 10 cm breit. Ihr Rand ist schmal eingerollt. Er gilt als giftverdächtig oder unbekömmlich, hat also trotz seines appetitlichen Aussehens in der Küche nichts verloren. (Dieter Gewalt) [Mehr lesen >](/pilze/lyophyllum-connatum-weißer-büschelrasling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_frondosae_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,22 +64,6 @@ Der Wald und seine Pilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Di
 {% include abbildung_ende.html %}
 
 08.11.2025: [Erdsterne](/verwandt/erdsterne) sind formschöne, geradezu elegante Pilze, die gar nicht wie Pilze aussehen, an deren Anblick sich Pilz- und Naturfreunde aber erfreuen können. Ein relativ häufiger, der Halskrausen-Erdstern *Geastrum triplex*, ist gerade mal wieder in Dietzenbach aufgetaucht und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Seine sternförmigen abgebrochenen Lappen bilden ein halsbandartiges [Kollar](Kollar "Glossar") rund um die Sporenkugel, ein entscheidendes Unterscheidungsmerkmal. (Dieter Gewalt) [Mehr lesen >](/pilze/geastrum-triplex-halskrausen-erdstern)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_gibba_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ockerbraune Trichterling *Clitocybe gibba*, der jetzt *Infundibulicybe gibba* heißen soll. Charakteristische Merkmale sind sein nicht sehr auffälliger Bittermandelgeruch und der kleine Buckel in der trichterig vertieften Hutmitte. Sollte der Geruch mal nicht wahrnehmbar sein oder der kleine Buckel fehlen, wäre eine Verwechslung vor allem mit dem ebenfalls essbaren [Fuchsigen Röteltrichterling Lepista flaccida](/pilze/lepista-flaccida-fuchsiger-röteltrichterling) möglich. Wer es genau wissen will, kommt kaum ums Mikroskopieren herum. (Dieter Gewalt) [Mehr lesen >](/pilze/clitocybe-gibba-ockerbrauner-trichterling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycoacia_nothofagi_01_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-06.11.2025: Ein stacheliges [Hymenium](<Hymenium "Glossar">) kommt bei Pilzen nicht allzu häufig vor. Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem sehr seltenen Scheinbuchen-Fadenstacheling *Mycoacia nothofagi* sitzen die Stacheln oder Stoppeln nicht an der Unterseite eines Pilzhutes wie beim [Semmelstoppelpilz](/pilze/hydnum-repandum-semmelstoppelpilz) sondern auf einem wachsartigen Belag, der mit dem Holz verbunden ist. Die Zähnchen sind nur 2 – 3 mm lang. (Dieter Gewalt) [Mehr lesen >](/pilze/mycoacia-nothofagi-scheinbuchen-fadenstachelpilz) 
 
 <div style="clear:  both"></div>
 
