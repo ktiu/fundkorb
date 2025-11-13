@@ -20,6 +20,14 @@ Der Wald und seine Pilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Di
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_solaris_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.11.2025: Einer der scharf schmeckenden Täublinge ist der Sonnentäubling *Russula solaris*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Im Gegensatz zu den meisten ebenfalls scharfen Speitäublingen hat er keine rote Hutfarbe. Sein helles Gelb passt zur Sonne in seinem Namen. Der Stiel ist weiß. 2025 scheint mal wieder ein „Sonnentäublingsjahr“ zu sein. Er kann aber auch jahrelang ausbleiben. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-solaris-sonnentäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lyophyllum_connatum_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
