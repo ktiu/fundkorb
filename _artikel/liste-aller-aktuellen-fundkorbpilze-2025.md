@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-14.11.2025: [Russula solaris - Sonnentäubling](/pilze/russula-solaris-sonnentäubling)  
+15.11.2025: [Rhodocollybia butyracea - Butter-Rübling](/pilze/rhodocollybia-butyracea-butter-rübling)  
+14.11.2025: [Russula solaris - Sonnentäubling](/pilze/russula-solaris-sonnentäubling)\
 13.11.2025: [Lyophyllum connatum - Weißer Büschelrasling](/pilze/lyophyllum-connatum-weißer-büschelrasling)\
 12.11.2025: [Tricholoma frondosae - Pappel-Grünling](/pilze/tricholoma-frondosae-pappel-grünling)\
 11.11.2025: [Melanophyllum haematospermum - Blutblättriger Zwergschirmling](/pilze/melanophyllum-haematospermum-blutblättriger-zwergschirmling)\
