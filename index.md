@@ -20,6 +20,14 @@ Der Wald und seine Pilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Di
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rhodocollybia_butyracea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.11.2025: Welche Rolle spielt ein schlapper Fahrradschlauch in der Pilzkunde? Antwort: Genau so fühlen sich die Stiele vieler Rüblinge an. Auch der vom Butter-Rübling *Rhodocollybia butyracea*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Seine kastanienbraune Huthaut glänzt als sei sie mit Butter eingerieben. Der Pilz wächst einzeln bis gesellig von August bis Dezember in Laub- und Nadelwäldern, ist aber nur von mittelmäßiger Speisepilzqualität. (Dieter Gewalt) [Mehr lesen >](/pilze/rhodocollybia-butyracea-butter-rübling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_solaris_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,22 +64,6 @@ Der Wald und seine Pilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Di
 {% include abbildung_ende.html %}
 
 10.11.2025: Wenn man einem Pilz der Gattung *Ramaria* (Korallen) begegnet und ihm einen Namen geben will, sollte man eigentlich ein Mikroskop dabei haben. Die meisten der zahlreichen Arten dieser Gattung sind nämlich makroskopisch kaum sicher zu unterscheiden. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Steife Koralle *Ramaria stricta*. Sie dürfte zumindest im Rhein-Main-Gebiet die mit Abstand häufigste Koralle sein. (Dieter Gewalt) [Mehr lesen >](/pilze/ramaria-stricta-steife-koralle)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_essettei_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.11.2025: Bei einer Pilzkartierungsexkursion im Nordschwarzwald bei Karlsbad wurde u. a. auch der Schiefknollige Anis-Champignon *Agaricus essettei* gefunden und ist daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Er gehört zu den waldbewohnenden Arten und ist, wenn seine Stielknolle deutlich verbogen ist, recht gut von anderen Champignonarten zu unterscheiden. Gelb verfärbende Champignons mit Anisgeruch sind grundsätzlich essbar, ohne diesen Geruch auf jeden Fall zu meiden. Es könnte sich um giftige [Karbolchampignongs](/pilze/agaricus-xanthoderma-karbolchampignon) handeln. (Bernd Miggel) [Mehr lesen >](/pilze/agaricus-essettei-schiefknolliger-anis-champignon)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/geastrum_triplex_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.11.2025: [Erdsterne](/verwandt/erdsterne) sind formschöne, geradezu elegante Pilze, die gar nicht wie Pilze aussehen, an deren Anblick sich Pilz- und Naturfreunde aber erfreuen können. Ein relativ häufiger, der Halskrausen-Erdstern *Geastrum triplex*, ist gerade mal wieder in Dietzenbach aufgetaucht und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Seine sternförmigen abgebrochenen Lappen bilden ein halsbandartiges [Kollar](Kollar "Glossar") rund um die Sporenkugel, ein entscheidendes Unterscheidungsmerkmal. (Dieter Gewalt) [Mehr lesen >](/pilze/geastrum-triplex-halskrausen-erdstern)
 
 <div style="clear:  both"></div>
 
