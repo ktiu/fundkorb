@@ -19,7 +19,15 @@ Der Wald und seine Pilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Di
 
 - - -
 
-**Aktueller Fundkorbpilz:**
+\**Aktueller Fundkorbpilz:*
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cantharellus-tubaeformis_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.11.2025: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") wird ausnahmsweise als Bilderrätsel vorgestellt. Welcher Pilz ist hier zu sehen? Erkannt? Es sind die Leisten mit vielen Querverbindungen, die den Trompetenpfifferling *Cantharellus tubaeformis* fast zum Kunstwerk  machen. Seine ganz besondere Schönheit hat ihm dennoch nicht genutzt. Er ist zusammen mit einigen Gattungsgenossen in der Pfanne und anschließend in einem Magen gelandet.  (Dieter Gewalt) [Mehr lesen >](/pilze/cantharellus-tubaeformis-trompetenpfifferling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rhodocollybia_butyracea_01_dg.jpg" %}
