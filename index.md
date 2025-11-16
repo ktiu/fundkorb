@@ -20,6 +20,14 @@ Der Wald und seine Pilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Di
 \**Aktueller Fundkorbpilz:*
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_nigricans_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dickblättrige Schwärztäubling *Russula nigricans*, einer der häufigsten Täublinge überhaupt und dazu noch gut zu erkennen. Kein anderer hat so dicke und so schön splitternde Lamellen. Kaum ein anderer wird im Alter so schwarz, kann den Winter so unbeschadet überstehen und ist im Frühjahr noch als schwarze Leiche zu finden. Zur Not könnte man ihn sogar essen. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-nigricans-dickblättriger-schwärztäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cantharellus-tubaeformis_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,22 +64,6 @@ Der Wald und seine Pilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Di
 {% include abbildung_ende.html %}
 
 12.11.2025: Es ist keineswegs alltäglich, auf ein Massenvorkommen eines seltenen oder wenig bekannten Pilzes zu stoßen, wie wir es kürzlich in der Waldfreizeitanlage Jügesheim im Landkreis Offenbach erlebt hatten. Mindestens 50 Fruchtkörper dieses aktuellen [Fundkorbpilzes](AA "Glossar-") (Pappel-Grünling *Tricholoma frondosae*) waren hier auf einer Fläche von etwa 3 m² versammelt. Die größten hatten Hutdurchmesser von 14 cm. Besonders auffallend waren ihre leuchtend gelben Lamellen. (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-frondosae-pappel-grünling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/melanophyllum_haematospermum_02_frk.jpg" %}
-{% include abbildung_ende.html %}
-
-11.11.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist zwar eine recht seltene, aber leicht kenntliche Art. Der Blutblättrige Zwergschirmling *Melanophyllum haematospermum* kommt meist gesellig an Waldwegrändern vor, gern bei Brennnesseln. Seine Hüte werden etwa 2 – 4 cm groß und sind mit feinen, im Alter verkahlenden Pusteln besetzt. Auffällig sind die dunkel karminroten Lamellen und die hellen [Velumreste](<Velum "Glossar">) am Hutrand. (Dieter Gewalt) [Mehr lesen >](/pilze/melanophyllum-haematospermum-blutblättriger-zwergschirmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ramaria_stricta_01_xx.jpg" %}
-{% include abbildung_ende.html %}
-
-10.11.2025: Wenn man einem Pilz der Gattung *Ramaria* (Korallen) begegnet und ihm einen Namen geben will, sollte man eigentlich ein Mikroskop dabei haben. Die meisten der zahlreichen Arten dieser Gattung sind nämlich makroskopisch kaum sicher zu unterscheiden. Das gilt auch für unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Steife Koralle *Ramaria stricta*. Sie dürfte zumindest im Rhein-Main-Gebiet die mit Abstand häufigste Koralle sein. (Dieter Gewalt) [Mehr lesen >](/pilze/ramaria-stricta-steife-koralle)
 
 <div style="clear:  both"></div>
 
