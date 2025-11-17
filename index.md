@@ -17,7 +17,7 @@ footer_scripts:
 
 - - -
 
-\**Aktueller Fundkorbpilz:*
+**Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gymnopilus_penetrans_03_dg.jpg" %}
