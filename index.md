@@ -19,6 +19,14 @@ Der Wald und seine Pilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Di
 
 \**Aktueller Fundkorbpilz:*
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/gymnopilus_penetrans_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.11.2025: Zur Zeit ist der Geflecktblättrige Flämmling *Gymnopilus penetrans* wohl in jedem Nadelwald zu finden und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Morsche mit Moos überwachsene Stämme und dickere Äste sind sein bevorzugtes Substrat und seine orangegelblichen Lamellen, die im Alter zunehmend rostfleckig werden, sein wichtigstes Erkennungszeichen. Wegen seines bitteren Geschmacks ist er ungenießbar. (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopilus-penetrans-geflecktblättriger-flämmling)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_nigricans_01_dg.jpg" %}
 {% include abbildung_ende.html %}
