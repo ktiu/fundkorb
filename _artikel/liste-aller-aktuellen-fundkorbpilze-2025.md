@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-17.11.2025: [Russula nigricans - Dickblättriger Schwärztäubling](/pilze/russula-nigricans-dickblättriger-schwärztäubling)  
+18.11.2025: [Gymnopilus penetrans - Geflecktblättriger Flämmling ](/pilze/gymnopilus-penetrans-geflecktblättriger-flämmling)  
+17.11.2025: [Russula nigricans - Dickblättriger Schwärztäubling](/pilze/russula-nigricans-dickblättriger-schwärztäubling)\
 16.11.2025: [Cantharellus tubaeformis - Trompetenpfifferling](/pilze/cantharellus-tubaeformis-trompetenpfifferling)\
 15.11.2025: [Rhodocollybia butyracea - Butter-Rübling](/pilze/rhodocollybia-butyracea-butter-rübling)\
 14.11.2025: [Russula solaris - Sonnentäubling](/pilze/russula-solaris-sonnentäubling)\
