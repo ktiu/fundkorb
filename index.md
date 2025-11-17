@@ -12,7 +12,7 @@ footer_scripts:
 
 - - -
 
-Saison der Spätherbstpilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Samstag, 29.11.2025 um 10:00 Uhr\
+**Saison der Spätherbstpilze** - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Samstag, 29.11.2025 um 10:00 Uhr\
 [Hier geht's zur Anmeldung >](/termine)
 
 - - -
