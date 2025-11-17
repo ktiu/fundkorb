@@ -19,7 +19,7 @@ Saison der Spätherbstpilze - Pilzkundliche Führung im Raum Frankfurt/Offenbach
 
 \**Aktueller Fundkorbpilz:*
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gymnopilus_penetrans_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
