@@ -20,6 +20,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_crispa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.11.2025: Sollen das etwa Pilze sein?? Natürlich nicht. Nur Teile unseres aktuellen [Fundkorbpilzes](AA "Glossar-"), der Herbstlorchel *Helvella crispa*. Genauer gesagt: die in dünne Scheibchen geschnittenen Stiele, die bezaubernd hübsch anzuschauende Muster bilden. Auch ein Pilzgericht lässt sich mit ihnen optisch aufwerten, ohne jedoch dessen Nährwert zu steigern. Wie der komplette Pilz aussehen kann, [zeigt das Porträt >](/pilze/helvella-crispa-herbstlorchel) (Dieter Gewalt)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gymnopilus_penetrans_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,22 +64,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 14.11.2025: Einer der scharf schmeckenden Täublinge ist der Sonnentäubling *Russula solaris*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Im Gegensatz zu den meisten ebenfalls scharfen Speitäublingen hat er keine rote Hutfarbe. Sein helles Gelb passt zur Sonne in seinem Namen. Der Stiel ist weiß. 2025 scheint mal wieder ein „Sonnentäublingsjahr“ zu sein. Er kann aber auch jahrelang ausbleiben. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-solaris-sonnentäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lyophyllum_connatum_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-13.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Weiße Rasling *Lyophyllum connatum*, ein relativ gut bestimmbarer recht großer, gern büschelig wachsender Pilz. Die matt weißen firnisartig bereiften Hüte werden bis zu 10 cm breit. Ihr Rand ist schmal eingerollt. Er gilt als giftverdächtig oder unbekömmlich, hat also trotz seines appetitlichen Aussehens in der Küche nichts verloren. (Dieter Gewalt) [Mehr lesen >](/pilze/lyophyllum-connatum-weißer-büschelrasling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholoma_frondosae_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.11.2025: Es ist keineswegs alltäglich, auf ein Massenvorkommen eines seltenen oder wenig bekannten Pilzes zu stoßen, wie wir es kürzlich in der Waldfreizeitanlage Jügesheim im Landkreis Offenbach erlebt hatten. Mindestens 50 Fruchtkörper dieses aktuellen [Fundkorbpilzes](AA "Glossar-") (Pappel-Grünling *Tricholoma frondosae*) waren hier auf einer Fläche von etwa 3 m² versammelt. Die größten hatten Hutdurchmesser von 14 cm. Besonders auffallend waren ihre leuchtend gelben Lamellen. (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-frondosae-pappel-grünling)
 
 <div style="clear:  both"></div>
 
