@@ -23,7 +23,7 @@ literatur:
 Es ist sicher übertrieben, wenn ich behaupte, vor lauter Bäumen unsere Schule nicht zu sehen. Da stehen Kiefern, Buchen, Eichen, Birken, Hainbuchen und bei ihnen beachtenswerte Pilze wie Riesenporling, Glimmertintling, Büschelrasling oder Satansröhrling. Und im Oktober 2025 auch noch einige Blutreizker, die man mitten in Frankfurt sicher nicht erwarten konnte. Dieser Milchling gehört zur Familie der Täublingsverwandten (*Russulaceae*) und ist innerhalb der Gattung *Lactarius* eine der charakteristischsten Arten mit roter Milch.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/lactarius_sanguifluus_03_bm.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/lactarius_sanguifluus_02_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/lactarius_sanguifluus_03_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="09.11.2019: Kalkmagerrasen bei Fichten, südlicher Kraichgau, bei Keltern (2 Fotos: Bernd Miggel)" %}
 
