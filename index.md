@@ -20,6 +20,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_densifolia_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.11.2025: Unter den Täublingen nehmen die Schwärztäublinge eine Sonderstellung ein. Sie sind recht groß, kompakt, aber im Gegensatz zu den allermeisten anderen überhaupt nicht bunt. Das trifft auch auf unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Dichtblättrigen Schwärztäubling *Russula densifolia* zu. Sein kennzeichnendes Merkmal sind sehr eng stehende Lamellen, die mild aber nicht scharf, höchstens etwas schärflich oder pikant schmecken. Er gilt als essbar, ist aber mit Sicherheit keine Delikatesse. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinus_comatus_07_gg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 15.11.2025: Welche Rolle spielt ein schlapper Fahrradschlauch in der Pilzkunde? Antwort: Genau so fühlen sich die Stiele vieler Rüblinge an. Auch der vom Butter-Rübling *Rhodocollybia butyracea*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Seine kastanienbraune Huthaut glänzt als sei sie mit Butter eingerieben. Der Pilz wächst einzeln bis gesellig von August bis Dezember in Laub- und Nadelwäldern, ist aber nur von mittelmäßiger Speisepilzqualität. (Dieter Gewalt) [Mehr lesen >](/pilze/rhodocollybia-butyracea-butter-rübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_solaris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.11.2025: Einer der scharf schmeckenden Täublinge ist der Sonnentäubling *Russula solaris*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Im Gegensatz zu den meisten ebenfalls scharfen Speitäublingen hat er keine rote Hutfarbe. Sein helles Gelb passt zur Sonne in seinem Namen. Der Stiel ist weiß. 2025 scheint mal wieder ein „Sonnentäublingsjahr“ zu sein. Er kann aber auch jahrelang ausbleiben. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-solaris-sonnentäubling)
 
 <div style="clear:  both"></div>
 
