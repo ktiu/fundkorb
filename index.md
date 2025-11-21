@@ -20,6 +20,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypholoma_capnoides_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.11.2025: Die bitteren und giftigen [Grünblättrigen Schwefelköpfe](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf) gibt es überall, aber den essbaren und durchaus leckeren Graublättrigen (Hypholoma capnoides) findet man wesentlich seltener und nur an Nadelholz. Gestern war ich mit Freunden im Taunus, wo wir ihn gleich mehrfach gefunden und gesammelt haben. Ich melde ihn deshalb als aktuellen [Fundkorbpilz](AA "Glossar-"). (Norbert Fischer) [Mehr lesen >](/pilze/hypholoma-capnoides-graublättriger-schwefelkopf)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_densifolia_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,22 +64,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 17.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dickblättrige Schwärztäubling *Russula nigricans*, einer der häufigsten Täublinge überhaupt und dazu noch gut zu erkennen. Kein anderer hat so dicke und so schön splitternde Lamellen. Kaum ein anderer wird im Alter so schwarz, kann den Winter so unbeschadet überstehen und ist im Frühjahr noch als schwarze Leiche zu finden. Zur Not könnte man ihn sogar essen. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-nigricans-dickblättriger-schwärztäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cantharellus-tubaeformis_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.11.2025: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") wird ausnahmsweise als Bilderrätsel vorgestellt. Welcher Pilz ist hier zu sehen? Erkannt? Es sind die Leisten mit vielen Querverbindungen, die den Trompetenpfifferling *Cantharellus tubaeformis* fast zum Kunstwerk  machen. Seine ganz besondere Schönheit hat ihm dennoch nicht genutzt. Er ist zusammen mit einigen Gattungsgenossen in der Pfanne und anschließend in einem Magen gelandet.  (Dieter Gewalt) [Mehr lesen >](/pilze/cantharellus-tubaeformis-trompetenpfifferling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rhodocollybia_butyracea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.11.2025: Welche Rolle spielt ein schlapper Fahrradschlauch in der Pilzkunde? Antwort: Genau so fühlen sich die Stiele vieler Rüblinge an. Auch der vom Butter-Rübling *Rhodocollybia butyracea*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Seine kastanienbraune Huthaut glänzt als sei sie mit Butter eingerieben. Der Pilz wächst einzeln bis gesellig von August bis Dezember in Laub- und Nadelwäldern, ist aber nur von mittelmäßiger Speisepilzqualität. (Dieter Gewalt) [Mehr lesen >](/pilze/rhodocollybia-butyracea-butter-rübling)
 
 <div style="clear:  both"></div>
 
