@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-21.11.2025: [Russula densifolia - Dichtblättriger Schwärztäubling](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)  
+22.11.2025: [Hypholoma capnoides - Graublättriger Schwefelkopf](/pilze/hypholoma-capnoides-graublättriger-schwefelkopf)  
+21.11.2025: [Russula densifolia - Dichtblättriger Schwärztäubling](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)\
 20.11.2025: [Coprinus comatus - Schopftintling](/pilze/coprinus-comatus-schopftintling)\
 19.11.2025: [Helvella crispa - Herbstlorchel](/pilze/helvella-crispa-herbstlorchel)\
 18.11.2025: [Gymnopilus penetrans - Geflecktblättriger Flämmling ](/pilze/gymnopilus-penetrans-geflecktblättriger-flämmling)\
