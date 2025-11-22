@@ -9,13 +9,17 @@ profil:
   aktualisiert: 2025-01-20
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/xylaria_hypoxylon_08_dg.png
 literatur:
   - url: http://tintling.com/pilzbuch/arten/x/Xylaria_hypoxylon.html
   - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 16"
   - text: "Breitanbach & Kränzlin: Pilze der Schweiz Band 1, Nr. 349"
 ---
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_08_dg.png" %}
+{% include abbildung_ende.html %}
+
 "Geweihförmig" ist eine wirklich treffende Beschreibung dieser Holzkeule. Zumindest bei einem Teil des enormen Formenreichtums, mit dem dieser zu den [Ascomyzeten](Ascomyzeten "Glossar") gehörige Pilz den Betrachter beeindruckt. Ein anderer Teil ähnelt eher Hörnern, manchmal auch Zungen, Werkzeugen oder Gabeln.
 
 {% include abbildung_start.html stil="mittel" %}
@@ -27,4 +31,3 @@ literatur:
 Der Pilz erscheint in zwei unterschiedlichen Stadien. An unscheinscheinbar schwarz gefärbten [Perithezien](Perithezien "Glossar") werden die fertilen [Ascosporen](Asci "Glossar") gebildet. Viel häufiger werden [Konidiensporen](Konidien "Glossar") erzeugt, die den Pilz wie weiß bestäubt erscheinen lassen. Schnippt man mit dem Finger dagegen oder bläst man sie an, wird eine weiße Sporenwolke freigesetzt. 
 
 Die Geweihförmige Holzkeule ist sehr häufig. Man findet sie vor allem an totem Laubholz, meist auf den Schnittflächen von Stümpfen, die oft rasig bewachsen sind.
-
