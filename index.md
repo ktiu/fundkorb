@@ -20,6 +20,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena-crocata-01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.11.2025: Leicht zu erkennen und ziemlich häufig ist der Gelbmilchende Helmling *Mycena crocata*. Er gehört zur Sektion *Lactipedes*, deren Vertreter beim Anbrechen des unteren Stielbereichs eine unterschiedlich gefärbte Flüssigkeit abgeben. Ist sie orange-gelbrot, handelt es sich zweifelsfrei um unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Meist verfärben sich auch Hüte und Lamellen in dieser Farbe. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-crocata-gelbmilchender-helmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypholoma_capnoides_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
