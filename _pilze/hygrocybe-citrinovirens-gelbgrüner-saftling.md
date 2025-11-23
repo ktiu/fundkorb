@@ -30,7 +30,7 @@ Basidien 2- oder häufiger 4-sporig, Sporen eiförmig bis ellipsoid, 6 - 8 x 4,5
 
 Zum Speisewert werden keine Angaben gemacht, da in Deutschland nahezu alle Saftlingsarten geschützt sind und nicht gesammelt werden dürfen.
 
-Verwechselt werden köHnnte der Gelbgrüne Saftling mit einigen verwandten Arten wie:\
+Verwechselt werden könnte der Gelbgrüne Saftling mit einigen verwandten Arten wie:\
 Olivschwarzer Saftling *Hygrocybe olivaceoniger*: Hut und Fleisch schwärzend, Sporen rund, 9 – 12 µm Ø\
 [Papageien-Saftling *Hygrocybe psittacina*](/pilze/hygrocybe-psittacina-papageien-saftling): Hut schleimig, Lamellen meist gelb, aber auch oarangegelb oder grünlich, relativ häufige Art\
 Gebuckelter Saftling *Hygrocybe quieta*: entfernter stehende Lamellen, Hutfarbe ohne Grüntöne.
