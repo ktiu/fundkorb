@@ -20,6 +20,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrocybe_chlorophana_02_ar.jpg" %}
+{% include abbildung_ende.html %}
+
+24.11.2025: Eine Saftlingswiese bei Hornberg im Schwarzwald ist auch im November für aktuelle [Fundkorbpilze](AA "Glossar-") gut. Hier sorgten zahlreiche zum Teil im Gras versteckte Fruchtkörper des Stumpfen Saftlings *Hygrocybe chlorophana* mit ihrer wunderschönen gelben Farbe für Begeisterung. Er könnte mit dem etwas häufigeren [Spitzgebuckelten Saftling Hygrocybe persistens ](/pilze/hygrocybe-persistens-safrangelber-saftling)verwechselt werden. (Bernd Miggel) [Mehr lesen >](/pilze/hygrocybe-chlorophana-stumpfer-saftling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena-crocata-01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
