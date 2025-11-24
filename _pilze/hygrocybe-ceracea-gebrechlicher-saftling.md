@@ -10,7 +10,7 @@ profil:
   aktualisiert: 2025-11-24
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/hygrocybe-_ceracea_01_th.jpg
 literatur:
   - text: "German J. Krieglsteiner (Hrsg): Die Großpilze Baden-Württembergs Band 3,
