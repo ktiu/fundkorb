@@ -20,6 +20,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrocybe_virginea_01_us.jpg" %}
+{% include abbildung_ende.html %}
+
+25.11.2025: Der gestrige aktuelle [Fundkorbpilz](AA "Glossar-") war nicht der einzige bemerkenswerte Fund auf dieser Saftlingswiese bei Hornberg. Hier war zu dieser Jahreszeit auch der Jungfern-Ellerling *Hygrocybe virginea* keine wirkliche Überraschung. Da solche nährstoffarmen Biotope in Deutschland aber immer rarer werden, ist auch er in seinem Bestand gefährdet. Er soll inzwischen *Cuphophyllus virgineus* heißen. (Bernd Miggel) [Mehr lesen >](/pilze/hygrocybe-virginea-jungfern-ellerling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrocybe_chlorophana_02_ar.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,22 +72,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 19.11.2025: Sollen das etwa Pilze sein?? Natürlich nicht. Nur Teile unseres aktuellen [Fundkorbpilzes](AA "Glossar-"), der Herbstlorchel *Helvella crispa*. Genauer gesagt: die in dünne Scheibchen geschnittenen Stiele, die bezaubernd hübsch anzuschauende Muster bilden. Auch ein Pilzgericht lässt sich mit ihnen optisch aufwerten, ohne jedoch dessen Nährwert zu steigern. Wie der komplette Pilz aussehen kann, [zeigt das Porträt >](/pilze/helvella-crispa-herbstlorchel) (Dieter Gewalt)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopilus_penetrans_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.11.2025: Zur Zeit ist der Geflecktblättrige Flämmling *Gymnopilus penetrans* wohl in jedem Nadelwald zu finden und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Morsche mit Moos überwachsene Stämme und dickere Äste sind sein bevorzugtes Substrat und seine orangegelblichen Lamellen, die im Alter zunehmend rostfleckig werden, sein wichtigstes Erkennungszeichen. Wegen seines bitteren Geschmacks ist er ungenießbar. (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopilus-penetrans-geflecktblättriger-flämmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_nigricans_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Dickblättrige Schwärztäubling *Russula nigricans*, einer der häufigsten Täublinge überhaupt und dazu noch gut zu erkennen. Kein anderer hat so dicke und so schön splitternde Lamellen. Kaum ein anderer wird im Alter so schwarz, kann den Winter so unbeschadet überstehen und ist im Frühjahr noch als schwarze Leiche zu finden. Zur Not könnte man ihn sogar essen. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-nigricans-dickblättriger-schwärztäubling)
 
 <div style="clear:  both"></div>
 
