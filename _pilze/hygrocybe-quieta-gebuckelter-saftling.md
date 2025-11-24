@@ -12,7 +12,7 @@ profil:
 hauptbild:
   anzeige: false
   datei: /bilder/hygrocybe_quieta_01_th.jpg
-  legende: "2 Fotos: Thomas Lehr"
+  legende: ""
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 3, Nr. 95 (als Hygrocybe
       obrussea)"
@@ -20,6 +20,10 @@ literatur:
       Seite 69 – 71 (als Hygrocybe obrussea)"
   - text: "Rudolf Winkler, Gaby Keller: Pilze Mitteleuropas, Seite 197 (4.1.22)"
 ---
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/hygrocybe_quieta_01_th.jpg" %}
+{% include abbildung_ende.html legende="2 Fotos: Thomas Lehr" %}
+
 Um Pilze zu bestimmen, setzen wir in der Tat unsere 5 Sinne ein: Sehen (Auge), Schmecken  (Mund) und Riechen (Nase) sind gut nachvollziehbar, Hören (Ohr) und Tasten (Finger) erscheinen für die Pilzkunde nicht so schlüssig zu sein. Ein unauffälliger Geruch oder Geschmack besagt nichts weiter, als dass etwas nicht auffällig riecht oder schmeckt. Beim Gebuckelten Saftling ist der Geschmack unauffällig mild, der Geschmack aber deutlich nach Blattwanzen, weshalb er auch *„Blattwanzen-Saftling“* genannt wird. Er ist tatsächlich der einzige Saftling, der nach Blattwanzen riecht. In dieser Gattung ist der Blattwanzengeruch also ein Alleinstellungsmerkmal! Beim Bestimmen von Pilzen spielen allerdings auch Mikromerkmale eine enorm wichtige Rolle. Ohne Mikroskop geht da oft nur wenig. Der Gebuckelte Saftling hat stets eingeschnürte Sporen, weshalb er auch *„Schnürsporiger Saftling“* genannt wird. Der wissenschaftliche Artname „obrusseus“ bedeutet übrigens *„feurig golden“*, ein Merkmal, das mit dem Auge wahrgenommen wird aber nicht unbedingt und immer zutreffend ist. Auch der Buckel des Gebuckelten Saftlings kann abgeflacht sein. Diese Variabilität von Merkmalen ist bei den Pilzer leider ein Handicap, mit dem man rechnen muss.
 
 {% include abbildung_start.html stil="mittel" %}
