@@ -20,6 +20,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Violette Rötelritterling *Lepista nuda*. Violett sind bei ihm vor allem die Lamellen und auch am Stiel findet man diese im Pilzreich nicht gerade häufige Farbe. Er ist ein kompakter, fleischiger Pilz mit gedrängt stehenden Lamellen und angenehm würzigem Geruch. Er wächst in Laub- und Nadelwäldern, gern zusammen mit der Nebelkappe an Wegrändern, auch in Parks und Gärten und ist nahezu überall häufig. Sein etwas süßlicher Geschmack wird nicht von allen Pilzfreunden geschätzt. (Dieter Gewalt) [Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrocybe_virginea_01_us.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,22 +64,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 21.11.2025: Unter den Täublingen nehmen die Schwärztäublinge eine Sonderstellung ein. Sie sind recht groß, kompakt, aber im Gegensatz zu den allermeisten anderen überhaupt nicht bunt. Das trifft auch auf unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Dichtblättrigen Schwärztäubling *Russula densifolia* zu. Sein kennzeichnendes Merkmal sind sehr eng stehende Lamellen, die mild aber nicht scharf, höchstens etwas schärflich oder pikant schmecken. Er gilt als essbar, ist aber mit Sicherheit keine Delikatesse. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinus_comatus_07_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.11.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schopftintling *Coprinus comatus*, gehört zu den wenigen Arten, die von Pilz-Apps auf Anhieb erkannt werden. Und zu denen, die es lohnt, gesammelt zu werden. Als Spargel- oder Suppenpilz oder für die Pfanne ist er bestens geeignet, solange er noch komplett weiß ist. Wenn er anfängt zu zerfließen, kann man ihn nur noch wie schwarze Tinte zum Schreiben verwenden. In England wird er *"Shaggy Mane"* (zottelige Mähne) genannt. Er ist sogar noch im November an Waldwegrändern zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinus-comatus-schopftintling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_crispa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.11.2025: Sollen das etwa Pilze sein?? Natürlich nicht. Nur Teile unseres aktuellen [Fundkorbpilzes](AA "Glossar-"), der Herbstlorchel *Helvella crispa*. Genauer gesagt: die in dünne Scheibchen geschnittenen Stiele, die bezaubernd hübsch anzuschauende Muster bilden. Auch ein Pilzgericht lässt sich mit ihnen optisch aufwerten, ohne jedoch dessen Nährwert zu steigern. Wie der komplette Pilz aussehen kann, [zeigt das Porträt >](/pilze/helvella-crispa-herbstlorchel) (Dieter Gewalt)
 
 <div style="clear:  both"></div>
 
