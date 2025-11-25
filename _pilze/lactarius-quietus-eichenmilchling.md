@@ -9,14 +9,18 @@ profil:
   aktualisiert: 2023-01-23
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/lactarius_quietus_01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/l/Lactarius_quietus.html
 ---
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/lactarius_quietus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 Es gibt eine Vielzahl brauner Milchlinge, aber wenn man auf Farbe und Geschmack der austretenden Milch, auf Geruch und Begleitbäume achtet, wird das kompliziert erscheinende Thema ein wenig übersichtlicher. Die mit Abstand häufigste bräunliche Art bei Eichen ist *Lactarius quietus*, der seinen [Mykorrhizabaum](Mykorrhiza "Glossar") im Namen trägt. Es handelt sich um einen mittelgroßen Pilz mit Hutdurchmessern von etwa 3 bis 8 cm. Seine weiße Milch ist mild und nimmt nach dem Austreten einen etwas gelblichen Schimmer an. Der Geruch erinnert an Blattwanzen, die Zonierung auf der Hutoberfläche kann deutlich oder unauffällig sein oder mitunter auch ganz fehlen. Die Hutmitte ist fast immer mehr oder weniger vertieft und ohne Buckel.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lactarius_quietus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
