@@ -17,6 +17,14 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_sanguifluus_01_ab.jpg" %}
+{% include abbildung_ende.html %}
+
+27.11.2025: Eine in Mitteleuropa sehr seltene Pilzart wird man kaum auf einem Schulgelände in Frankfurt am Main vermuten. Grund genug, den Weinroten Kiefernreizker *Lactarius sanguifluus* als aktuellen [Fundkorbpilz](AA "Glossar-") vorzustellen. Natürlich war auch sein obligatorischer [Mykorrhizapartner](Mykorrhiza "Glossar"), die Kiefer, in der Nähe. Er ist essbar, aber längst nicht so gut wie der [Edelreizker](/pilze/lactarius-deliciosus-edelreizker). (Bela Salgo, 13) [Mehr lesen >](/pilze/lactarius-sanguifluus-weinroter-kiefernreizker)
+
+<div style="clear:  both"></div>
+
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
@@ -56,14 +64,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 22.11.2025: Die bitteren und giftigen [Grünblättrigen Schwefelköpfe](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf) gibt es überall, aber den essbaren und durchaus leckeren Graublättrigen (Hypholoma capnoides) findet man wesentlich seltener und nur an Nadelholz. Gestern war ich mit Freunden im Taunus, wo wir ihn gleich mehrfach gefunden und gesammelt haben. Ich melde ihn deshalb als aktuellen [Fundkorbpilz](AA "Glossar-"). (Norbert Fischer) [Mehr lesen >](/pilze/hypholoma-capnoides-graublättriger-schwefelkopf)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_densifolia_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.11.2025: Unter den Täublingen nehmen die Schwärztäublinge eine Sonderstellung ein. Sie sind recht groß, kompakt, aber im Gegensatz zu den allermeisten anderen überhaupt nicht bunt. Das trifft auch auf unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Dichtblättrigen Schwärztäubling *Russula densifolia* zu. Sein kennzeichnendes Merkmal sind sehr eng stehende Lamellen, die mild aber nicht scharf, höchstens etwas schärflich oder pikant schmecken. Er gilt als essbar, ist aber mit Sicherheit keine Delikatesse. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)
 
 <div style="clear:  both"></div>
 
