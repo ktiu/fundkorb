@@ -17,6 +17,8 @@ footer_scripts:
 
 - - -
 
+**Aktueller Fundkorbpilz:**
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_sanguifluus_01_ab.jpg" %}
 {% include abbildung_ende.html %}
@@ -24,8 +26,6 @@ footer_scripts:
 27.11.2025: Eine in Mitteleuropa sehr seltene Pilzart wird man kaum auf einem Schulgelände in Frankfurt am Main vermuten. Grund genug, den Weinroten Kiefernreizker *Lactarius sanguifluus* als aktuellen [Fundkorbpilz](AA "Glossar-") vorzustellen. Natürlich war auch sein obligatorischer [Mykorrhizapartner](Mykorrhiza "Glossar"), die Kiefer, in der Nähe. Er ist essbar, aber längst nicht so gut wie der [Edelreizker](/pilze/lactarius-deliciosus-edelreizker). (Bela Salgo, 13) [Mehr lesen >](/pilze/lactarius-sanguifluus-weinroter-kiefernreizker)
 
 <div style="clear:  both"></div>
-
-**Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
