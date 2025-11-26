@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-26.11.2025: [Lepista nuda - Violetter Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling)  
+27.11.2025: [Lactarius sanguifluus - Weinroter Kiefernreizker](/pilze/lactarius-sanguifluus-weinroter-kiefernreizker)  
+26.11.2025: [Lepista nuda - Violetter Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling)\
 25.11.2025: [Hygrocybe virginea - Jungfern-Ellerling](/pilze/hygrocybe-virginea-jungfern-ellerling)\
 24.11.2025: [Hygrocybe chlorophana - Stumpfer Saftling](/pilze/hygrocybe-chlorophana-stumpfer-saftling)\
 23.11.2025: [Mycena crocata - Gelbmichelnder Helmling](/pilze/mycena-crocata-gelbmilchender-helmling)\
