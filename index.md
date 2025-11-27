@@ -18,7 +18,7 @@ footer_scripts:
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/hygrophorus_hypothejus_03_dg.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Dürfen wir morgen Frostschnecklinge erwarten? Sie sind nicht nur hübsch sondern auch essbar." %}
+{% include abbildung_ende.html legende="Dürfen wir morgen Frostschnecklinge erwarten? Diese Spätherbstpilze sind nicht nur hübsch sondern auch essbar." %}
 
 - - -
 
