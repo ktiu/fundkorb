@@ -19,7 +19,7 @@ literatur:
       Seite 64 – 65 (als Hygrocybe irrigata)"
   - url: http://tintling.com/pilzbuch/arten/h/Hygrocybe_irrigata.html
 ---
-Wie die meisten anderen Saftlinge gehört auch dieser zu den in ihrem Bestand stark bedroh-ten Pilzarten und steht in Deutschland unter strengem Naturschutz.  In einer Gattung mit vorherrschend farbenfreudigen Arten fällt der Graue Saftling *Hygrocybe irrigata* so markant aus dem Rahmen, dass er leicht zu erkennen ist. Zu seinen auffälligen Merkmalen gehören neben der grauen Farbe die schmierig schleimigen Hüte und Stiele. Seine Fruchtkörper neigen auch nicht wie bei einigen anderen Saftlingen zum Röten oder Schwärzen.
+Wie die meisten anderen Saftlinge gehört auch dieser zu den in ihrem Bestand stark bedrohten Pilzarten und steht in Deutschland unter strengem Naturschutz.  In einer Gattung mit vorherrschend farbenfreudigen Arten fällt der Graue Saftling *Hygrocybe irrigata* so markant aus dem Rahmen, dass er leicht zu erkennen ist. Zu seinen auffälligen Merkmalen gehören neben der grauen Farbe die schmierig schleimigen Hüte und Stiele. Seine Fruchtkörper neigen auch nicht wie bei einigen anderen Saftlingen zum Röten oder Schwärzen.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/hygrocybe_irrigata_01_tl.jpg" %}
@@ -29,6 +29,6 @@ Die grauen, meist aber graubraunen Hüte können bis zu 5 cm Durchmesser erreich
 
 Viele Saftlinge benötigen nährstoffarme ungedüngte Wiesen und Grasflächen, wie sie aufgrund intensiver landwirtschaftlicher Nutzung und Beweidung in Mitteleuropa kaum noch zu finden sind. Solche Biotope werden auch Saftlingswiesen genannt. Andere besiedeln montane Standorte oder moorige Flächen. Nur wenige Arten stellen weniger strenge Ansprüche an ihre Umgebung und sind daher etwas häufiger wie zum Beispiel der [Kegelige Saftling Hygrocybe conica](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling) oder der [Mennigrote Saftling Hygrocybe miniata](/pilze/hygrocybe-conica-kegeliger-saftling-schwärzender-saftling), die auch in Parkanlagen zu finden sind.
 
-Thomas Lehr, der sich bestens im Taunus auskennt, beurteilt die Situation dort wie folgt:
+*Thomas Lehr*, der sich bestens im Taunus auskennt, beurteilt die Situation dort wie folgt:
 
 > Insgesamt selten (deutlich seltener als zum Beispiel der [Papageigrüne Saftling Hygrocybe psittacina](/pilze/hygrocybe-miniata-mennigroter-saftling)), mit sehr unterschiedlicher Vorkommensdichte, mancherorts durchaus ortshäufig und teilweise in großer Fruchtkörperzahl, andernorts fast vollständig fehlend.“
