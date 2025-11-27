@@ -11,6 +11,7 @@ profil:
 hauptbild:
   anzeige: false
   datei: /bilder/hygrocybe_citrinovirens_01_tl.jpg
+  legende: "Foto: Thomas Lehr"
 literatur:
   - text: "German J. Krieglsteiner (Hrsg): Die Großpilze Baden-Württembergs Band 3,
       Seite 45"
