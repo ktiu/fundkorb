@@ -78,37 +78,15 @@ footer_scripts:
 
 - - -
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/physarum_utriculare_01_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+Begegnungen der besonderen Art: wer so etwas entdeckt, betrachtet sich ungläubig die seltsamen Gebilde, die an schleimigen Fäden zu hängen scheinen. Es ist der Schleimpilz [Physarum utriculare](/pilze/physarum-utriculare-fadenfruchtschleimpilz), der bald seine Farbe verändern wird.
+
+- - -
+
 #### Interessante Pilze im Fundkorb:
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/geopora_-cooperi_07_wi.jpg" %}
-{% include abbildung_ende.html %}
-
-Geopora cooperi - Trüffel-Sandborstling
-
-Es ist immer eine große Freude, wenn man einen sehr seltenen Pilz zu Gesicht bekommt. Um so mehr, wenn man auf den ersten Blick glauben könnte, eine echte Trüffel vor sich zu haben, zumal das seltsame Objekt auch noch unterirdisch (*hypogäisch*) gewachsen ist oder nur mit dem Scheitel die Oberfläche erreicht hat. Es handelt sich aber um einen äußerst seltenen Verwandten des [Zedern-Sandborstlings Geopora sumneriana](/pilze/geopora-sumneriana-zedern-sandborstling), der allerdings nicht bei Zedern sondern ihne jede Mykorhhiza-Bindung vorkommt. (Bernd Miggel) [Mehr lesen >](/pilze/geopora-cooperi-trüffel-sandborstling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_amicta_10_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-Mycena amicta – Geschmückter Helmling
-
-Diesen hübschen Helmling kann man schon im Wald relativ leicht anhand einer Merkmalskombination erkennen: blauer Hutrand +  gelatinöse stückweise abziehbare Huthaut + Stiel auf ganzer Länge fein bereift.  Er ist in manchen Regionen keineswegs selten und an totem Holz oder Zapfenresten vor allem in Nadelwäldern bei Fichten zu finden. Die Hütchen sind typisch helmlingsartig kegelförmig und deutlich gerieft. (Johann Rejek) [Mehr lesen >](/pilze/mycena-amicta-geschmückter-helmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ripartites_tricholoma_02_vz.jpg" %}
-{% include abbildung_ende.html %}
-
-Ripartites tricholoma – Bewimperter Filzkrempling
-
-Wenn sie so schön bewimpert sind wie auf der Abbildung sind die weißen trichterförmigen, ziemlich kleinen Pilze leicht zu erkennen. Allerdings hat man nicht sehr häufig Gelegenheit, ihnen zu begegnen. Die Art kommt in unterschiedlichen Waldgesellschaften vor, gern in der Nadelstreu von Fichten. Mit den Kremplingen der Gattung *Paxillus* ist sie nicht verwandt. (Veronika Ziegltrum) [Mehr lesen >](/pilze/ripartites-tricholoma-bewimperter-filzkrempling)
-
-<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/catinella_olivacea_eh_02.jpg" %}
@@ -168,6 +146,38 @@ Insgesamt 56 Helmlinge sind bisher mit einem Porträt im Fundkorb vertreten. Die
 
 - - -
 
+#### Interessante Pilze im Fundkorb:
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/geopora_-cooperi_07_wi.jpg" %}
+{% include abbildung_ende.html %}
+
+Geopora cooperi - Trüffel-Sandborstling
+
+Es ist immer eine große Freude, wenn man einen sehr seltenen Pilz zu Gesicht bekommt. Um so mehr, wenn man auf den ersten Blick glauben könnte, eine echte Trüffel vor sich zu haben, zumal das seltsame Objekt auch noch unterirdisch (*hypogäisch*) gewachsen ist oder nur mit dem Scheitel die Oberfläche erreicht hat. Es handelt sich aber um einen äußerst seltenen Verwandten des [Zedern-Sandborstlings Geopora sumneriana](/pilze/geopora-sumneriana-zedern-sandborstling), der allerdings nicht bei Zedern sondern ihne jede Mykorhhiza-Bindung vorkommt. (Bernd Miggel) [Mehr lesen >](/pilze/geopora-cooperi-trüffel-sandborstling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_amicta_10_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+Mycena amicta – Geschmückter Helmling
+
+Diesen hübschen Helmling kann man schon im Wald relativ leicht anhand einer Merkmalskombination erkennen: blauer Hutrand +  gelatinöse stückweise abziehbare Huthaut + Stiel auf ganzer Länge fein bereift.  Er ist in manchen Regionen keineswegs selten und an totem Holz oder Zapfenresten vor allem in Nadelwäldern bei Fichten zu finden. Die Hütchen sind typisch helmlingsartig kegelförmig und deutlich gerieft. (Johann Rejek) [Mehr lesen >](/pilze/mycena-amicta-geschmückter-helmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ripartites_tricholoma_02_vz.jpg" %}
+{% include abbildung_ende.html %}
+
+Ripartites tricholoma – Bewimperter Filzkrempling
+
+Wenn sie so schön bewimpert sind wie auf der Abbildung sind die weißen trichterförmigen, ziemlich kleinen Pilze leicht zu erkennen. Allerdings hat man nicht sehr häufig Gelegenheit, ihnen zu begegnen. Die Art kommt in unterschiedlichen Waldgesellschaften vor, gern in der Nadelstreu von Fichten. Mit den Kremplingen der Gattung *Paxillus* ist sie nicht verwandt. (Veronika Ziegltrum) [Mehr lesen >](/pilze/ripartites-tricholoma-bewimperter-filzkrempling)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/alloclavaria_purpurea_01_tl.jpg" %}
 {% include abbildung_ende.html %}
@@ -181,14 +191,6 @@ Eine seltene und bemerkenswerte Pilzart ist das Purpurfarbene Zystidenkeulchen *
 {% include abbildung_ende.html %}
 
 Ein besonders faszinierender [Fundkorbpilz](AA "Glossar-") ist der *Pillenwerfer (Pilobolus kleinii)*, den man so wie auf dem Foto nur mit einer stark vergrößernden Lupe sehen kann. Trotz seiner Winzigkeit ist er ein bemerkenswerter Rekordhalter. Seine Sporenkapseln sind die schnellsten Flugobjekte in der belebten Natur. [Mehr lesen...](/pilze/pilobolus-kleinii-pillenwerfer)
-
-- - -
-
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/physarum_utriculare_01_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-Begegnungen der besonderen Art: wer so etwas entdeckt, betrachtet sich ungläubig die seltsamen Gebilde, die an schleimigen Fäden zu hängen scheinen. Es ist der Schleimpilz [Physarum utriculare](/pilze/physarum-utriculare-fadenfruchtschleimpilz), der bald seine Farbe verändern wird.
 
 - - -
 
