@@ -20,6 +20,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_galericulata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.11.2025: Das Holz, an dem manche Pilze wachsen, ist nicht immer auf den ersten Blick zu erkennen. Es können morsche oder faulende Teile sein, die im Boden verborgen sind. So auch bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Rosablättrigen Helmling *Mycena galericulata*. Es handelt sich um seine sehr häufige Art, die auch immer wieder in unserer Dietzenbacher Parkanlage erscheint.  (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-galericulata-rosablättriger-helmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_sanguifluus_01_ab.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,16 +64,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 23.11.2025: Leicht zu erkennen und ziemlich häufig ist der Gelbmilchende Helmling *Mycena crocata*. Er gehört zur Sektion *Lactipedes*, deren Vertreter beim Anbrechen des unteren Stielbereichs eine unterschiedlich gefärbte Flüssigkeit abgeben. Ist sie orange-gelbrot, handelt es sich zweifelsfrei um unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Meist verfärben sich auch Hüte und Lamellen in dieser Farbe. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-crocata-gelbmilchender-helmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypholoma_capnoides_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.11.2025: Die bitteren und giftigen [Grünblättrigen Schwefelköpfe](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf) gibt es überall, aber den essbaren und durchaus leckeren Graublättrigen (Hypholoma capnoides) findet man wesentlich seltener und nur an Nadelholz. Gestern war ich mit Freunden im Taunus, wo wir ihn gleich mehrfach gefunden und gesammelt haben. Ich melde ihn deshalb als aktuellen [Fundkorbpilz](AA "Glossar-"). (Norbert Fischer) [Mehr lesen >](/pilze/hypholoma-capnoides-graublättriger-schwefelkopf)
-
-<div style="clear:  both"></div>
 
 - - -
 
