@@ -32,8 +32,17 @@ Um Pilze zu bestimmen, setzen wir in der Tat unsere 5 Sinne ein: Sehen (Auge), S
 
 Der Gebuckelte Saftling ist eine zerstreut in Deutschland vorkommende relativ kleine Art. Seine eher konisch als gebuckelt geformten matten, trockenen und dünnfleischigen Hüte werden meist nur 2 bis 5 cm groß. Die Farben variieren von *zitronen-, gold-, bis dotterorangegelb, orangebraun gefasert, auch schwach oliv getönt, alt und nach längerem Regen grauend* (Krieglsteiner) bis *orange, gelb, grünlich, bis olivbräunlich* (Winkler, Keller) und *orangerot* (123pilzsuche). Die entfernt stehenden bauchigen Lamellen sind gelblich bis orangerosa, auf den Flächen oft fein runzelig, die Lamellenschneiden heller. Die hohlen Stiele sind gelblich, an der Basis weiß. Sie werden bis zu 8 cm lang und 1 cm dick. Das Sporenpulver ist weiß.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/hygrocybe_quiete_03_th.jpg" %}
+{% include abbildung_ende.html legende="Sporen zylindrisch, zum Teil deutlich eingeschnürt, 7 - 11 x 3,5 - 5,5 µm, vereinzelt große Öltropfen sichtbar" %}
+
 Zu finden ist der Gebuckelte Saftling auf Wiesen und Weiden, in Wacholderheiden, seltener auch in Waldlichtungen. Er bevorzugt basenreiche (alkalische) Böden. Verwechselt werden könnte er u. a. mit dem [Gelbgrünen Saftling Hygrocybe citrinovirens](/pilze/hygrocybe-citrinovirens-gelbgrüner-saftling).
 
 Nicht endgültig geklärt scheint die Frage, ob Hygrocybe quieta eine gute eigenständige Art oder ein Varietät von Hygrocybe obrussea ist. Zitat Winkler & Keller (Pilze Mitteleuropas, 2024): 
 
 > Hygrocybe quieta teilweise als eigene Art aufgeführt. GRÖGER 2006, CANDUSSO 1997, KRIEGLSTEINER 2001 und LUDWIG 2012 betrachten H. obrussea und H. quieta als Synonyme.“
+
+- - -
+
+**Anmerkung von Thomas Lehr:** 
+Der Name quieta bzw. ursprünglich *quietus* (Kühner hat ihn 1947 als Hygrophorus quietus beschrieben) bezieht sich nicht unmittelbar auf lat. quietus = ruhig, schlafend, sondern auf *Lactarius quietus* (Eichenmilchling), der den gleichen Blattwanzengeruch hat.
