@@ -30,9 +30,4 @@ Es handelt sich um eine relativ kleine Art mit Hutdurchmessern von 1 – 4 cm mi
 
 Der Honigsaftling kommt auf Wiesen und Weiden, gern auf Halbtrocken- oder Magerrasen aber auch an grasigen Waldwegen vor, gilt aber aber als sehr selten und wird als stark gefährdet (RL 2) in Roten Listen geführt. *Thomas Lehr* hat ihn im Taunus mehrfach gefunden und nachgewiesen.
 
-Sehr ähnlich ist der [Gelbgrüne Saftling *Hygrocybe citrinovirens*](/pilze/hygrocybe-citrinovirens-gelbgrüner-saftling), der unauffällig und <ins>nicht</ins> nach Honig riecht. 
-
-Anmerkung in *Rudolf Winkler, Gaby Keller* in: Pilze Mitteleuropas, Seite 190:
-
->
-> Hygrocybe reidii  wird teilweise als eigene Art aufgeführt. GRÖGER 2006, CANDUSSO 1997, KRIEGLSTEINER 2001 wie auch LUDWIG 2012 betrachten H. obrussea und H. reidii als Synonyme."
+Sehr ähnlich ist der [Gelbgrüne Saftling *Hygrocybe citrinovirens*](/pilze/hygrocybe-citrinovirens-gelbgrüner-saftling), der unauffällig und <ins>nicht</ins> nach Honig riecht.
