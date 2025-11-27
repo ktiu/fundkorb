@@ -34,4 +34,5 @@ Zum Speisewert werden keine Angaben gemacht, da in Deutschland nahezu alle Saftl
 Verwechselt werden könnte der Gelbgrüne Saftling mit einigen verwandten Arten wie:\
 Olivschwarzer Saftling *Hygrocybe olivaceoniger*: Hut und Fleisch schwärzend, Sporen rund, 9 – 12 µm Ø\
 [Papageien-Saftling *Hygrocybe psittacina*](/pilze/hygrocybe-psittacina-papageien-saftling): Hut schleimig, Lamellen meist gelb, aber auch oarangegelb oder grünlich, relativ häufige Art\
-[Gebuckelter Saftling *Hygrocybe quieta*:](/pilze/hygrocybe-quieta-gebuckelter-saftling) entfernter stehende Lamellen, Hutfarbe ohne Grüntöne.
+[Gebuckelter Saftling *Hygrocybe quieta*:](/pilze/hygrocybe-quieta-gebuckelter-saftling) entfernter stehende Lamellen, Hutfarbe ohne Grüntöne  
+[Honigsaftling Hygrocybe reidii](/pilze/hygrocybe-reidii-honigsaftling): Geruch nach Honig
