@@ -23,6 +23,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrocybe_chlorophana_01_ar.jpg" %}
+{% include abbildung_ende.html %}
+
+29.11.2025: Bei einer Exkursion des Mykologischen Arbeitskreises Hornberg in der Nähe von Zell am Harmersbach, Baden-Württemberg, fanden wir auf einer Magerwiese auf ca. 300 m Höhe eine große Anzahl des Stumpfen Saftlings *Hygrocybe chlorophana*, unseres aktuellen [Fundkorbpilzes](AA "Glossar-"). Hunderte dotter- bis orangegelbe, teils im Gras verborgene Fruchtkörper boten ein unbeschreiblich beeindruckendes Bild. Leider gibt es in Deutschland immer weniger dieser wertvollen Biotope mit der traurigen Konsequenz, dass viele dieser wundervollen Pilze vom Aussterben bedroht sind. (Bernd Miggel) [Mehr lesen >](/pilze/hygrocybe-chlorophana-stumpfer-saftling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_galericulata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
