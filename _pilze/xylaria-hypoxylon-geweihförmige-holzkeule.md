@@ -10,7 +10,7 @@ profil:
   autor_in: Dieter Gewalt
 hauptbild:
   anzeige: false
-  datei: /bilder/xylaria_hypoxylon_08_dg.png
+  datei: /bilder/xylaria_hypoxylon_08_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/x/Xylaria_hypoxylon.html
   - text: "Hermann Jahn: Pilze die an Holz wachsen, Nr. 16"
