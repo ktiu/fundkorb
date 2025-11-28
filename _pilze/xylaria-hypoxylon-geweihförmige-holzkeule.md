@@ -17,7 +17,7 @@ literatur:
   - text: "Breitanbach & Kränzlin: Pilze der Schweiz Band 1, Nr. 349"
 ---
 {% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/xylaria_hypoxylon_08_dg.png" %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_08_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 "Geweihförmig" ist eine wirklich treffende Beschreibung dieser Holzkeule. Zumindest bei einem Teil des enormen Formenreichtums, mit dem dieser zu den [Ascomyzeten](Ascomyzeten "Glossar") gehörige Pilz den Betrachter beeindruckt. Ein anderer Teil ähnelt eher Hörnern, manchmal auch Zungen, Werkzeugen oder Gabeln.
