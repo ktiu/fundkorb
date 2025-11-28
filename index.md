@@ -26,7 +26,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/hygrocybe_coccinea_01_us.jpg" %}
 {% include abbildung_ende.html %}
 
-29.11.2025: Bei einer Exkursion des Mykologischen Arbeitskreises Hornberg in der Nähe von Zell am Harmersbach, Baden-Württemberg, fanden wir auf einer Magerwiese auf ca. 300 m Höhe einen der farbenprächtigsten Pilze, den Kirschroten Saftling *Hygrocybe coccinea*, unseren aktuellen [Fundkorbpilzes](AA "Glossar-"). An seinen Fruchtkörpern treffen sich rot und gelb in den verschiedensten Variationen. Leider gibt es in Deutschland immer weniger Magerwiesen mit der traurigen Konsequenz, dass viele dieser wundervollen Pilze vom Aussterben bedroht sind. (Bernd Miggel) [Mehr lesen >](/pilze/hygrocybe-coccinea-kirschroter-saftling) 
+29.11.2025: Bei einer Exkursion des Mykologischen Arbeitskreises Hornberg in der Nähe von Zell am Harmersbach, Baden-Württemberg, fanden wir auf einer Magerwiese auf ca. 300 m Höhe einen der farbenprächtigsten Pilze, den Kirschroten Saftling *Hygrocybe coccinea*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). An seinen Fruchtkörpern treffen sich rot und gelb in den verschiedensten Variationen. Leider gibt es in Deutschland immer weniger Magerwiesen mit der traurigen Konsequenz, dass viele dieser wundervollen Pilze vom Aussterben bedroht sind. (Bernd Miggel) [Mehr lesen >](/pilze/hygrocybe-coccinea-kirschroter-saftling) 
 
 <div style="clear:  both"></div>
 
