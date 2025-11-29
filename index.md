@@ -13,11 +13,6 @@ footer_scripts:
 **Saison der Spätherbstpilze** - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Samstag, 29.11.2025 um 10:00 Uhr\
 [Hier geht's zur Anmeldung >](/termine)
 
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/hygrophorus_hypothejus_03_dg.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" nocrop=true gross=true %}
-{% include abbildung_ende.html legende="Dürfen wir morgen Frostschnecklinge erwarten? Diese Spätherbstpilze sind nicht nur hübsch sondern auch essbar." %}
-
 - - -
 
 **Aktueller Fundkorbpilz:**
