@@ -13,9 +13,15 @@ footer_scripts:
 **Saison der Spätherbstpilze** - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am Samstag, 29.11.2025 um 10:00 Uhr\
 [Hier geht's zur Anmeldung >](/termine)
 
-
-
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/macrocystidia_cucumis_02_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+30.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gurkenschitzling *Macrocystidia cucumis*, zu dessen auffälligsten Merkmalen der deutliche Geruch nach Gurken zählt. Diese Duftnote wird auch als Mehlgeruch bezeichnet und kommt bei zahlreichen Pilzen in den verschiedensten Gattungen vor. Beim Gurkenschnitzling ist also auch auf die feinsamitigen braunen Hüte und Stiele und in Zweifelsfällen auf Mikromerkmale zu achten. (Dieter Gewalt) [Mehr lesen >](/pilze/macrocystidia-cucumis-gurkenschnitzling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrocybe_coccinea_01_us.jpg" %}
@@ -56,20 +62,6 @@ footer_scripts:
 25.11.2025: Der gestrige aktuelle [Fundkorbpilz](AA "Glossar-") war nicht der einzige bemerkenswerte Fund auf dieser Saftlingswiese bei Hornberg. Hier war zu dieser Jahreszeit auch der Jungfern-Ellerling *Hygrocybe virginea* keine wirkliche Überraschung. Da solche nährstoffarmen Biotope in Deutschland aber immer rarer werden, ist auch er in seinem Bestand gefährdet. Er soll inzwischen *Cuphophyllus virgineus* heißen. (Bernd Miggel) [Mehr lesen >](/pilze/hygrocybe-virginea-jungfern-ellerling)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrocybe_chlorophana_02_ar.jpg" %}
-{% include abbildung_ende.html %}
-
-24.11.2025: Eine Saftlingswiese bei Hornberg im Schwarzwald ist auch im November für aktuelle [Fundkorbpilze](AA "Glossar-") gut. Hier sorgten zahlreiche zum Teil im Gras versteckte Fruchtkörper des Stumpfen Saftlings *Hygrocybe chlorophana* mit ihrer wunderschönen gelben Farbe für Begeisterung. Er könnte mit dem etwas häufigeren [Spitzgebuckelten Saftling Hygrocybe persistens ](/pilze/hygrocybe-persistens-safrangelber-saftling)verwechselt werden. (Bernd Miggel) [Mehr lesen >](/pilze/hygrocybe-chlorophana-stumpfer-saftling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena-crocata-01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.11.2025: Leicht zu erkennen und ziemlich häufig ist der Gelbmilchende Helmling *Mycena crocata*. Er gehört zur Sektion *Lactipedes*, deren Vertreter beim Anbrechen des unteren Stielbereichs eine unterschiedlich gefärbte Flüssigkeit abgeben. Ist sie orange-gelbrot, handelt es sich zweifelsfrei um unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Meist verfärben sich auch Hüte und Lamellen in dieser Farbe. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-crocata-gelbmilchender-helmling)
 
 - - -
 
