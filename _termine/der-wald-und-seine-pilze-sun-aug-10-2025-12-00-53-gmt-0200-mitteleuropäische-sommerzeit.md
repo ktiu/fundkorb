@@ -12,5 +12,5 @@ Warum nicht mal einen der Weihnachtsfeiertage zu einem Waldspaziergang nutzen? Z
 Die Teilnahmegebühr für die etwa dreistündige Wanderung beträgt 15 Euro. Begleitende Kinder sind natürlich kostenlos. Eine Teilnahme ist nur nach bestätigter Anmeldung möglich. Der Treffpunkt wird in der Anmeldebestätigung mitgeteilt.
 
 
-Es kommt leider immer wieder vor, dass die Anmeldung über den externen Service nicht funktioniert. Melden Sie sich dann bitte formlos mit Angabe der Personenzahl (erforderlich) und Ihrer Telefonnummer (freiwillig) per Mail an dgewalt@web.de an.
+Es kommt leider immer wieder vor, dass die Anmeldung über den externen Server nicht funktioniert. Melden Sie sich in diesem Fall bitte formlos mit Angabe der Personenzahl (erforderlich) und Ihrer Telefonnummer (freiwillig) per Mail an dgewalt@web.de an.
 
