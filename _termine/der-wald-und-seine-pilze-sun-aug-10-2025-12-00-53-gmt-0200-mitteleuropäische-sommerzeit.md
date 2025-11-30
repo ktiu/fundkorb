@@ -5,7 +5,8 @@ bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
 published: true
-bilder: []
+bilder:
+  - /bilder/weihnachten_01_dg.png
 ---
 Warum nicht mal einen der Weihnachtsfeiertage zu einem Waldspaziergang nutzen? Zumal uns die Wetterfrösche wieder einen milden Winter angekündigt haben. Im vergangenen Jahr hatten wir Ende Dezember noch knackige Steinpilze, eine prächtige Krause Glucke sowie Maronenröhrlinge und Frostschnecklinge im Korb! Pilze sind zu allen Jahreszeiten ein spannendes Thema und immer für Überraschungen gut.
 
