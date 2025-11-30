@@ -111,14 +111,6 @@ Die meisten Saftlinge sind mangels geeigneter Biotope (extensiv bewirtschaftete 
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_lycii_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-Peniophora lycii – Grauer Zystidenrindenpilz
-
-Diese auf Ästen wachsenden Beläge oder Krusten werden von vielen nicht als Pilze wahrgenommen und nur wenige beschäftigen sich mit ihnen. Ihre Bestimmung ist nicht immer einfach und es gibt einige weitere mehr oder weniger graue Arten. Da kommt man meist nicht ums Mikroskopieren herum und muss besonders auf unterschiedliche Zystiden achten. Den Grauen Zystidenrindenpilz findet man vor allem an Rotbuche und Hasel. (Bernd Miggel) [Mehr lesen >](/pilze/peniophora-lycii-grauer-zystidenrindenpilz)
-
 - - -
 
 ### Pilzquiz
