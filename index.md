@@ -10,7 +10,7 @@ footer_scripts:
 ---
 <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/weihnachtswald_01_uw.jpg" %}
 {% include abbildung_ende.html %}
 
