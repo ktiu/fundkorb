@@ -16,6 +16,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_intermedius_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+01.12.2025: Den Grubigen Tannenmilchling *Lactarius intermedius*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), findet man ausschließlich bei Weißtannen auf Kalkböden, kürzlich zum Beispiel mal wieder östlich von Hornberg im Schwarzwald. Daher ist es kein Zufall, dass nahezu alle deutschen Funde aus Baden-Württemberg und Bayern (Alpen und Voralpen) stammen. (Bernd Miggel) Mehr lesen >
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/macrocystidia_cucumis_02_tl.jpg" %}
 {% include abbildung_ende.html %}
 
