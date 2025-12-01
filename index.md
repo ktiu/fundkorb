@@ -10,7 +10,7 @@ footer_scripts:
 ---
 <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/weihnachtswald_01_uw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -89,7 +89,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/physarum_utriculare_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Begegnungen der besonderen Art: wer so etwas entdeckt, betrachtet sich ungläubig die seltsamen Gebilde, die an schleimigen Fäden zu hängen scheinen. Es ist der Schleimpilz [Physarum utriculare](/pilze/physarum-utriculare-fadenfruchtschleimpilz), der bald seine Farbe verändern wird.
+Begegnungen der besonderen Art: wer so etwas entdeckt, betrachtet sich ungläubig die seltsamen Gebilde, die an schleimigen Fäden zu hängen scheinen. Es ist der Schleimpilz [Physarum utriculare](/pilze/physarum-utriculare-fadenfruchtschleimpilz), der bald seine Farbe verändern wird. Mehr über Schleimpilze [erfahren Sie hier >](/verwandt/schleimpilze-myxomyzeten)
 
 - - -
 
