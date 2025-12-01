@@ -17,9 +17,15 @@ footer_scripts:
 **Der Weihnachtswald und seine Pilze** - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am 2. Weihnachtsfeiertag, 26.12.2025 um 10:00 Uhr\
 [Hier geht's zur Anmeldung >](/termine)
 
-- - -
-
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrocybe_pratensis_02_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+02.12.2025: Ebenfalls aus dem östlichen Schwarzwald kommt unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Den Wiesenellerling *Hygrocybe pratensis* fanden wir hier auf einer nährstoffarmen Magerwiese. Er gehört zur Familie der Wachsblättler (*Hygrophoraceae*) und hört inzwischen auf den neuen Namen *Cuphophyllus pratensis*. Da seine angestammten Lebensräume (naturnahe, extensiv bewirtschaftete Wiesen) jedoch zunehmend verschwinden, ist er während der letzten Jahrzehnte stark rückläufig und wird als gefährdete Art in Roten Listen geführt. (Bernd Miggel) [Mehr lesen >](/pilze/hygrocybe-pratensis-wiesenellerling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_intermedius_01_bm.jpg" %}
@@ -58,22 +64,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 27.11.2025: Eine in Mitteleuropa sehr seltene Pilzart wird man kaum auf einem Schulgelände in Frankfurt am Main vermuten. Grund genug, den Weinroten Kiefernreizker *Lactarius sanguifluus* als aktuellen [Fundkorbpilz](AA "Glossar-") vorzustellen. Natürlich war auch sein obligatorischer [Mykorrhizapartner](Mykorrhiza "Glossar"), die Kiefer, in der Nähe. Er ist essbar, aber längst nicht so gut wie der [Edelreizker](/pilze/lactarius-deliciosus-edelreizker). (Bela Salgo, 13) [Mehr lesen >](/pilze/lactarius-sanguifluus-weinroter-kiefernreizker)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Violette Rötelritterling *Lepista nuda*. Violett sind bei ihm vor allem die Lamellen und auch am Stiel findet man diese im Pilzreich nicht gerade häufige Farbe. Er ist ein kompakter, fleischiger Pilz mit gedrängt stehenden Lamellen und angenehm würzigem Geruch. Er wächst in Laub- und Nadelwäldern, gern zusammen mit der Nebelkappe an Wegrändern, auch in Parks und Gärten und ist nahezu überall häufig. Sein etwas süßlicher Geschmack wird nicht von allen Pilzfreunden geschätzt. (Dieter Gewalt) [Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrocybe_virginea_01_us.jpg" %}
-{% include abbildung_ende.html %}
-
-25.11.2025: Der gestrige aktuelle [Fundkorbpilz](AA "Glossar-") war nicht der einzige bemerkenswerte Fund auf dieser Saftlingswiese bei Hornberg. Hier war zu dieser Jahreszeit auch der Jungfern-Ellerling *Hygrocybe virginea* keine wirkliche Überraschung. Da solche nährstoffarmen Biotope in Deutschland aber immer rarer werden, ist auch er in seinem Bestand gefährdet. Er soll inzwischen *Cuphophyllus virgineus* heißen. (Bernd Miggel) [Mehr lesen >](/pilze/hygrocybe-virginea-jungfern-ellerling)
 
 <div style="clear:  both"></div>
 
