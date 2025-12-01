@@ -3,8 +3,10 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-30.12.2025: [Macrocystidia cucumis - Gurkenschnitzlinge](/pilze/macrocystidia-cucumis-gurkenschnitzling)  
-29.12.2025: [Hygrocybe coccinea - Kirschroter Saftling](/pilze/hygrocybe-coccinea-kirschroter-saftling)\
+01.12.2025: [Lactarius intermedius - Grubiger Tannenmilchling](/pilze/lactarius-intermedius-grubiger-tannenmilchling)
+
+30.11.2025: [Macrocystidia cucumis - Gurkenschnitzlinge](/pilze/macrocystidia-cucumis-gurkenschnitzling)\
+29.11.2025: [Hygrocybe coccinea - Kirschroter Saftling](/pilze/hygrocybe-coccinea-kirschroter-saftling)\
 28.11.2025: [Mycena galericulata - Rosablättriger Helmling](/pilze/mycena-galericulata-rosablättriger-helmling)\
 27.11.2025: [Lactarius sanguifluus - Weinroter Kiefernreizker](/pilze/lactarius-sanguifluus-weinroter-kiefernreizker)\
 26.11.2025: [Lepista nuda - Violetter Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling)\
