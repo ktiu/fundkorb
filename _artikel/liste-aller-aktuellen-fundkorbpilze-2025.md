@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+02.12.2025: [Hygrocybe pratensis - Wiesenellerling](/pilze/hygrocybe-pratensis-wiesenellerling)  
 01.12.2025: [Lactarius intermedius - Grubiger Tannenmilchling](/pilze/lactarius-intermedius-grubiger-tannenmilchling)
 
 30.11.2025: [Macrocystidia cucumis - Gurkenschnitzlinge](/pilze/macrocystidia-cucumis-gurkenschnitzling)\
