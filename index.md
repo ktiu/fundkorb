@@ -10,7 +10,7 @@ footer_scripts:
 ---
 <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/weihnachtswald_01_uw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -25,7 +25,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/lactarius_intermedius_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
-01.12.2025: Den Grubigen Tannenmilchling *Lactarius intermedius*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), findet man ausschließlich bei Weißtannen auf Kalkböden, kürzlich zum Beispiel mal wieder östlich von Hornberg im Schwarzwald. Daher ist es kein Zufall, dass nahezu alle deutschen Funde aus Baden-Württemberg und Bayern (Alpen und Voralpen) stammen. (Bernd Miggel) Mehr lesen >
+01.12.2025: Den Grubigen Tannenmilchling *Lactarius intermedius*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), findet man ausschließlich bei Weißtannen auf Kalkböden, kürzlich zum Beispiel mal wieder östlich von Hornberg im Schwarzwald. Daher ist es kein Zufall, dass nahezu alle deutschen Funde aus Baden-Württemberg und Bayern (Alpen und Voralpen) stammen. (Bernd Miggel) [Mehr lesen >](/pilze/lactarius-intermedius-grubiger-tannenmilchling)
 
 <div style="clear:  both"></div>
 
