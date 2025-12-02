@@ -26,7 +26,7 @@ Ob das Rot von *Hygrocybe coccinea* nun scharlach- oder kirschrot ist, darüber 
 {% include bild.html datei="/bilder/hygrocybe_coccinea_02_cw.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/hygrocybe_coccinea_03_cw.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/hygrocybe_coccinea_04_cw.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="3 Fotos: Christian Weinkötz" %}
+{% include abbildung_ende.html legende="3 Fotos: Thomas Lehr" %}
 
 Der Kirschrote Saftling gehört zu den gut kenntlichen Arten der Gattung; Verwechslungen wären vor allem mit dem [Granatroten Satftling *Hygrocybe punicea*](/pilze/hygrocybe-punicea-granatroter-saftling) möglich, der jedoch hellere Lamellen, weißliches bis blassgelbes Fleisch und etwas größere Sporen hat:\
 Sporen *Hygrocybe coccinea*: 7,5 - 11 x 4 – 5,5 µm\
