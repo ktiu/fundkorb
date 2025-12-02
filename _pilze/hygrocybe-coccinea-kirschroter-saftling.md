@@ -22,6 +22,12 @@ Diesen wunderschönen farbenprächtigen Saftling wird man kaum einmal  zu Gesich
 
 Ob das Rot von *Hygrocybe coccinea* nun scharlach- oder kirschrot ist, darüber kann man streiten. Es kommt jedenfalls reichlich an den Hüten, Lamellen und Stielen der Fruchtkörper vor, vermischt mit helleren und gelblichen Tönen. Sogar das Fleisch ist rot, nur an der Stielbasis gelblich. Die Hüte erreichen 3 bis 5 cm Durchmesser, sind jung halbkugelig, dann konvex, meist glänzend, feucht leicht klebrig. Die bogigen Lamellen haben gelbe Schneiden, die schlanken, manchmal verbogenen Stiele sind fast immer länger als die Hutbreite, bis zu 6 cm. Wie die meisten Saftlinge kommt er von September bis November vorwiegend in höheren Lagen vor.
 
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/hygrocybe_coccinea_02_cw.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/hygrocybe_coccinea_03_cw.jpg" nocrop=true gross=true %}
+{% include bild.html datei="/bilder/hygrocybe_coccinea_04_cw.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="3 Fotos: Christian Weinkötz" %}
+
 Der Kirschrote Saftling gehört zu den gut kenntlichen Arten der Gattung; Verwechslungen wären vor allem mit dem [Granatroten Satftling *Hygrocybe punicea*](/pilze/hygrocybe-punicea-granatroter-saftling) möglich, der jedoch hellere Lamellen, weißliches bis blassgelbes Fleisch und etwas größere Sporen hat:\
 Sporen *Hygrocybe coccinea*: 7,5 - 11 x 4 – 5,5 µm\
 Sporen *Hygrocybe punicea*:  8 – 11 x 5 – 6 µm
