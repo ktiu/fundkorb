@@ -25,7 +25,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/mycena_cinerella_02_jr.jpg" %}
 {% include abbildung_ende.html %}
 
-03.12.2025: Unter den Helmlingen ist unser aktueller [Fundkorbpilz](AA "Glossar-") so etwas wie die graue Maus und vor allem spät im Jahr zu finden. Sein Name: Grauer Nitrathelmling *Mycena leptocephala*. Zu seinen wichtigsten Merkmalen gehören die fast bis zur Hutmitte durchscheinend gerieften Hüte, der chlorartige Schwimmbadgeruch und die striegelige, von weißen [Rhizomorphen](Rhizomorphen "Glossar") bekleidete Stielbasis. Er gehört zu den häufigeren Helmlingsarten. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-leptocephala-grauer nitrathelmling)
+03.12.2025: Unter den Helmlingen ist unser aktueller [Fundkorbpilz](AA "Glossar-") so etwas wie die graue Maus und vor allem spät im Jahr zu finden. Sein Name: Grauer Nitrathelmling *Mycena leptocephala*. Zu seinen wichtigsten Merkmalen gehören die fast bis zur Hutmitte durchscheinend gerieften Hüte, der chlorartige Schwimmbadgeruch und die striegelige, von weißen [Rhizomorphen](Rhizomorphen "Glossar") bekleidete Stielbasis. Er gehört zu den häufigeren Helmlingsarten. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-leptocephala-grauer-nitrathelmling)
 
 <div style="clear:  both"></div>
 
