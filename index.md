@@ -22,6 +22,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pseudoclitocybe_cyathiformis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.12.2025: Heute möchte ich einen aktuellen [Fundkorbpilz](AA "Glossar-") aus einer Parkanlage in Bad Soden melden. Es ist der auch noch spät im Jahr recht häufige und leicht kenntliche Kaffeebraune Gabeltrichterling *Pseudoclitocybe cyathiformis*. Die beiden Exemplare waren schon frostgeschädigt und daher nicht mehr für die Küche zu verwenden. Die grauen Farben, die tief getrichterten Hüte und die langen Stiele machen ihn nahezu unverwechselbar. (Norbert Fischer) [Mehr lesen >](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_leptocephala_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -58,22 +66,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 29.11.2025: Bei einer Exkursion des Mykologischen Arbeitskreises Hornberg in der Nähe von Zell am Harmersbach, Baden-Württemberg, fanden wir auf einer Magerwiese auf ca. 300 m Höhe einen der farbenprächtigsten Pilze, den Kirschroten Saftling *Hygrocybe coccinea*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). An seinen Fruchtkörpern treffen sich rot und gelb in den verschiedensten Variationen. Leider gibt es in Deutschland immer weniger Magerwiesen mit der traurigen Konsequenz, dass viele dieser wundervollen Pilze vom Aussterben bedroht sind. (Bernd Miggel) [Mehr lesen >](/pilze/hygrocybe-coccinea-kirschroter-saftling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_galericulata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.11.2025: Das Holz, an dem manche Pilze wachsen, ist nicht immer auf den ersten Blick zu erkennen. Es können morsche oder faulende Teile sein, die im Boden verborgen sind. So auch bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Rosablättrigen Helmling *Mycena galericulata*. Es handelt sich um seine sehr häufige Art, die auch immer wieder in unserer Dietzenbacher Parkanlage erscheint.  (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-galericulata-rosablättriger-helmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_sanguifluus_01_ab.jpg" %}
-{% include abbildung_ende.html %}
-
-27.11.2025: Eine in Mitteleuropa sehr seltene Pilzart wird man kaum auf einem Schulgelände in Frankfurt am Main vermuten. Grund genug, den Weinroten Kiefernreizker *Lactarius sanguifluus* als aktuellen [Fundkorbpilz](AA "Glossar-") vorzustellen. Natürlich war auch sein obligatorischer [Mykorrhizapartner](Mykorrhiza "Glossar"), die Kiefer, in der Nähe. Er ist essbar, aber längst nicht so gut wie der [Edelreizker](/pilze/lactarius-deliciosus-edelreizker). (Bela Salgo, 13) [Mehr lesen >](/pilze/lactarius-sanguifluus-weinroter-kiefernreizker)
 
 <div style="clear:  both"></div>
 
