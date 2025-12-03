@@ -3,7 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-03.12.2025: [Mycena cinerella - Grauer Nitrathelmling](/pilze/mycena-cinerella-aschgrauer-helmling)  
+03.12.2025: [Mycena leptocephala - Grauer Nitrathelmling](/pilze/mycena-leptocephala-grauer-nitrathelmling)  
 02.12.2025: [Hygrocybe pratensis - Wiesenellerling](/pilze/hygrocybe-pratensis-wiesenellerling)\
 01.12.2025: [Lactarius intermedius - Grubiger Tannenmilchling](/pilze/lactarius-intermedius-grubiger-tannenmilchling)
 
