@@ -22,6 +22,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrocybe_coccinea_01_us.jpg" %}
+{% include abbildung_ende.html %}
+
+05.12.2025: Nachzutragen wäre noch ein aktueller [Fundkorbpilz](AA "Glossar-") von einer Saftlingswiese bei Hornberg im Schwarzwald, der unsere Aufmerksamkeit erregte und auf den ersten Blick zu erkennen war. Es ist der Kirschrote Saftling *Hygrocybe coccinea*, der in längst vergangenen Zeiten noch recht häufig war, inzwischen aber zu den gefährdeten Arten (RL 3) zählt und laut Bundesartenschutzverordnung nicht mehr gesammelt werden darf. Zu seinen kirsch- oder blutroten Farben mischen sich immer mal wieder gelbe Töne.  (Bernd Miggel) [Mehr lesen >](/pilze/hygrocybe-coccinea-kirschroter-saftling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pseudoclitocybe_cyathiformis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
