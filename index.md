@@ -22,10 +22,10 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrocybe_coccinea_01_us.jpg" %}
+{% include bild.html datei="/bilder/thelephora_terrestris_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-05.12.2025: Nachzutragen wäre noch ein aktueller [Fundkorbpilz](AA "Glossar-") von einer Saftlingswiese bei Hornberg im Schwarzwald, der unsere Aufmerksamkeit erregte und auf den ersten Blick zu erkennen war. Es ist der Kirschrote Saftling *Hygrocybe coccinea*, der in längst vergangenen Zeiten noch recht häufig war, inzwischen aber zu den gefährdeten Arten (RL 3) zählt und laut Bundesartenschutzverordnung nicht mehr gesammelt werden darf. Zu seinen kirsch- oder blutroten Farben mischen sich immer mal wieder gelbe Töne.  (Bernd Miggel) [Mehr lesen >](/pilze/hygrocybe-coccinea-kirschroter-saftling)
+05.12.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Erdwarzenpilz *Thelephora terrestris*. Der deutsche Name erweckt wegen der "Warzen" nicht gerade positive Assoziationen, aber bei genauerem Hinschauen ist er für mich ein attraktiver Pilz. Man findet ihn vor allem in der Umgebung von Nadelbäumen, wo er Jungpflanzen umwachsen und durch Ersticken zum Absterben bringen kann. Andererseits ist er als [Mykorrhizapilz ](Mykorrhiza "Glossar") durchaus ein Freund der Bäume und hilft sogar den Baumschulen bei der Aufzucht ihrer Schützlinge. (Dieter Gewalt) [Mehr lesen >](/pilze/thelephora-terrestris-erdwarzenpilz)
 
 <div style="clear:  both"></div>
 
