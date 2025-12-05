@@ -17,6 +17,14 @@ literatur:
       Seite 141 - 142"
   - text: "Rudolf Winkler, Gaby Keller: Pilze Mitteleuropas, Seite 373 (1.15.5)"
 ---
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/clitopilus_scyphoides_01_md.jpg" %}
+{% include abbildung_ende.html %}
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/clitopilus_scyphoides_02_md.jpg" %}
+{% include abbildung_ende.html legende="2 Fotos von Matthias Dondl" %}
+
 Die Räslinge (*Clitopilus*) sind eine kleine Gattung mit 6 in Deutschland nachgewiesenen Arten. Die bekannteste und einzige häufige ist der essbare [Mehlräsling *Clitopilus prunulus*](/pilze/clitopilus-prunulus-mehlräsling). Wichtige Gattungsmerkmale sind die herablaufenden, jung weißen, bei Sporenreife rosa oder rostbraunen Lamellen, der meist mehlige Geruch und Geschmack sowie das rosafarbene Sporenpulver (Verwandtschaft mit Rötlingen!).
 
 *Clitopilus scyphoides* ist eine sehr kleine Art mit Hutdurchmessern von 1 – 2,5 cm, selten bis zu 4 cm. Die Hüte sind mehlig kreideweiß, auch im Alter nur wenig genabelt oder trichterig, 
