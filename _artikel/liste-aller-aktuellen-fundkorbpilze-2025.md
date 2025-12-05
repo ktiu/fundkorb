@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+06.12.2025: [Clitopilus prunulus - Mehlräsling](/pilze/clitopilus-prunulus-mehlräsling)  
 05.12.2025: [Thelephora terrestris - Erdwarzenpilz](/pilze/thelephora-terrestris-erdwarzenpilz)\
 04.12.2025: [Pseudoclitocybe cyathiformis - Kaffeebrauner Gabeltrichterling](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)\
 03.12.2025: [Mycena leptocephala - Grauer Nitrathelmling](/pilze/mycena-leptocephala-grauer-nitrathelmling)\
