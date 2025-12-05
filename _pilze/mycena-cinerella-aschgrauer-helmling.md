@@ -28,4 +28,4 @@ In ganz Deutschland ist dieser attraktive Helmling im Spätherbst sowie in milde
 {% include bild.html datei="/bilder/mycena_cinerella_03_jr.jpg" %}
 {% include abbildung_ende.html %}
 
-Die dünnen Hüte erreichen Durchmesser von 2, seltener 3 cm, sind durch¬schei¬nend gerieft und vor allem in der Mitte bei trockenem Wetter grauweißlich bereift. Die zum Teil gegabelten oder mit kürzeren untermischten Lamellen sind mit einem Zähnchen am Stiel angeheftet und bieten einen überaus gefälligen Anblick. Die dünnen Stiele werden bis zu 6 cm lang.
+Die dünnen Hüte erreichen Durchmesser von 2, seltener 3 cm, sind durchscheinend gerieft und vor allem in der Mitte bei trockenem Wetter grauweißlich bereift. Die zum Teil gegabelten oder mit kürzeren untermischten Lamellen sind mit einem Zähnchen am Stiel angeheftet und bieten einen überaus gefälligen Anblick. Die dünnen Stiele werden bis zu 6 cm lang.
