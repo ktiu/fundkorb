@@ -22,6 +22,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitopilus_prunulus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.12.2025: Der Mehlräsling *Clitopilus prunulus* taucht immer mal wieder in unserer Dietzenbacher Parkanlage auf, manchmal auch spät im Jahr, und ist deshalb unser aktueller [Fundkorbpilz](AA "Glossar-"). Namensgebendes Merkmal ist sein ranzig-mehliger Geruch, den man manchmal schon wahrnehmen kann, bevor man den Pilz gesehen hat. Ein weiteres gutes Kennzeichen sind seine jung weißen, dann allmählich rosa werdenden Lamellen. Sie geben einen Hinweis auf seine Verwandtschaft. Er gehört zu den Rötlingsverwandten *Entolomaceae*. (Dieter Gewalt) [Mehr lesen >](/pilze/clitopilus-prunulus-mehlräsling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/thelephora_terrestris_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -58,22 +66,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 01.12.2025: Den Grubigen Tannenmilchling *Lactarius intermedius*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), findet man ausschließlich bei Weißtannen auf Kalkböden, kürzlich zum Beispiel mal wieder östlich von Hornberg im Schwarzwald. Daher ist es kein Zufall, dass nahezu alle deutschen Funde aus Baden-Württemberg und Bayern (Alpen und Voralpen) stammen. (Bernd Miggel) [Mehr lesen >](/pilze/lactarius-intermedius-grubiger-tannenmilchling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/macrocystidia_cucumis_02_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-30.11.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gurkenschitzling *Macrocystidia cucumis*, zu dessen auffälligsten Merkmalen der deutliche Geruch nach Gurken zählt. Diese Duftnote wird auch als Mehlgeruch bezeichnet und kommt bei zahlreichen Pilzen in den verschiedensten Gattungen vor. Beim Gurkenschnitzling ist also auch auf die feinsamitigen braunen Hüte und Stiele und in Zweifelsfällen auf Mikromerkmale zu achten. (Dieter Gewalt) [Mehr lesen >](/pilze/macrocystidia-cucumis-gurkenschnitzling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrocybe_coccinea_01_us.jpg" %}
-{% include abbildung_ende.html %}
-
-29.11.2025: Bei einer Exkursion des Mykologischen Arbeitskreises Hornberg in der Nähe von Zell am Harmersbach, Baden-Württemberg, fanden wir auf einer Magerwiese auf ca. 300 m Höhe einen der farbenprächtigsten Pilze, den Kirschroten Saftling *Hygrocybe coccinea*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). An seinen Fruchtkörpern treffen sich rot und gelb in den verschiedensten Variationen. Leider gibt es in Deutschland immer weniger Magerwiesen mit der traurigen Konsequenz, dass viele dieser wundervollen Pilze vom Aussterben bedroht sind. (Bernd Miggel) [Mehr lesen >](/pilze/hygrocybe-coccinea-kirschroter-saftling) 
 
 <div style="clear:  both"></div>
 
