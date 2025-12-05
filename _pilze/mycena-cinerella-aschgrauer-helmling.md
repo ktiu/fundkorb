@@ -20,7 +20,6 @@ literatur:
 ---
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/mycena_cinerella_02_jr.jpg" %}
-{% include bild.html datei="/bilder/mycena_cinerella_03_jr.jpg" %}
 {% include abbildung_ende.html legende="2 Fotos: Johann Rejek" %}
 
 In ganz Deutschland ist dieser attraktive Helmling im Spätherbst sowie in milden Winter-monaten nicht selten. Er ist vor allem in moosigen Nadelwäldern anzutreffen und tritt vereinzelt oder gesellig auf. Es gibt kaum eine andere Helmlingsart mit so einheitlich hellgrauen Farben. Leicht bogig am Stiel herablaufende Lamellen und ein deutlicher Mehlgeruch sind weitere artkennzeichnende Merkmale. Für den Geruchstest empfiehlt es sich, einen Hut zu zerquetschen.
