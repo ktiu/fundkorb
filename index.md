@@ -22,6 +22,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_cinerella_03_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+07.12.2025: Für mich sind die Aschgrauen Helmlinge (*Mycena cinerella*) kleine Kunstwerke und darum aktueller [Fundkorbpilz](AA "Glossar-"). Ihre filigrane Schönheit hat Johann Rejek perfekt in seinem Foto eingefangen. Die hübschen Pilzchen findet man vor allem spät im Jahr vereinzelt oder gesellig wachsend in moosigen Nadelwäldern.  (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-cinerella-aschgrauer-helmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitopilus_prunulus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
