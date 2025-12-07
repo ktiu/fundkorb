@@ -22,6 +22,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinopsis_picaceus_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.12.2025: [Fundkorbpilz](AA "Glossar-") Erster Gedanke: *„Spätzünder!“* Unseren aktuellen Fundkorbpilz, den Specht-Tintling *Coprinus picaceus*, habe ich am Fuß des Hohen Berges in Heusenstamm gesehen. Er gleicht in der Gestalt dem leckeren [Schopftintling](/pilze/coprinus-comatus-schopftintling), aber unter dem schuppig aufreißenden [Velum](Velum "Glossar") wird es schwarz. Das dabei entstehende Muster der Velumflocken erinnert an die gepunkteten Handschwingen einiger Spechtarten. In diesem Stadium ist der Pilz am schönsten. Dann beginnen die Hüte schnell zu schwarzer Tinte zu zerfließen (*Autolyse*). Für die Küche taugt er aber nicht. (Ulrike Wegner) [Mehr lesen >](/pilze/coprinopsis-picacea-specht-tintling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_cinerella_03_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -58,22 +66,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 03.12.2025: Unter den Helmlingen ist unser aktueller [Fundkorbpilz](AA "Glossar-") so etwas wie die graue Maus und vor allem spät im Jahr zu finden. Sein Name: Grauer Nitrathelmling *Mycena leptocephala*. Zu seinen wichtigsten Merkmalen gehören die fast bis zur Hutmitte durchscheinend gerieften Hüte, der chlorartige Schwimmbadgeruch und die striegelige, von weißen [Rhizomorphen](Rhizomorphen "Glossar") bekleidete Stielbasis. Er gehört zu den häufigeren Helmlingsarten. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-leptocephala-grauer-nitrathelmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrocybe_pratensis_02_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-02.12.2025: Ebenfalls aus dem östlichen Schwarzwald kommt unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"). Den Wiesenellerling *Hygrocybe pratensis* fanden wir hier auf einer nährstoffarmen Magerwiese. Er gehört zur Familie der Wachsblättler (*Hygrophoraceae*) und hört inzwischen auf den neuen Namen *Cuphophyllus pratensis*. Da seine angestammten Lebensräume (naturnahe, extensiv bewirtschaftete Wiesen) jedoch zunehmend verschwinden, ist er während der letzten Jahrzehnte stark rückläufig und wird als gefährdete Art in Roten Listen geführt. (Bernd Miggel) [Mehr lesen >](/pilze/hygrocybe-pratensis-wiesenellerling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_intermedius_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-01.12.2025: Den Grubigen Tannenmilchling *Lactarius intermedius*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), findet man ausschließlich bei Weißtannen auf Kalkböden, kürzlich zum Beispiel mal wieder östlich von Hornberg im Schwarzwald. Daher ist es kein Zufall, dass nahezu alle deutschen Funde aus Baden-Württemberg und Bayern (Alpen und Voralpen) stammen. (Bernd Miggel) [Mehr lesen >](/pilze/lactarius-intermedius-grubiger-tannenmilchling)
 
 <div style="clear:  both"></div>
 
