@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+08.12.2025: Coprinopsis picacea - Specht-Tintling
 07.12.2025: [Mycena cinerella - Aschgrauer Helmling](/pilze/mycena-cinerella-aschgrauer-helmling)  
 06.12.2025: [Clitopilus prunulus - Mehlräsling](/pilze/clitopilus-prunulus-mehlräsling)\
 05.12.2025: [Thelephora terrestris - Erdwarzenpilz](/pilze/thelephora-terrestris-erdwarzenpilz)\
