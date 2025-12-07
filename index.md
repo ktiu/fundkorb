@@ -25,7 +25,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/coprinopsis_picaceus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-08.12.2025: [Fundkorbpilz](AA "Glossar-") Erster Gedanke: *„Spätzünder!“* Unseren aktuellen Fundkorbpilz, den Specht-Tintling *Coprinopsis picaceus*, habe ich am Fuß des Hohen Berges in Heusenstamm gesehen. Er gleicht in der Gestalt dem leckeren [Schopftintling](/pilze/coprinus-comatus-schopftintling), aber unter dem schuppig aufreißenden [Velum](Velum "Glossar") wird es schwarz. Das dabei entstehende Muster der Velumflocken erinnert an die gepunkteten Handschwingen einiger Spechtarten. In diesem Stadium ist der Pilz am schönsten. Dann beginnen die Hüte schnell zu schwarzer Tinte zu zerfließen (*Autolyse*). Für die Küche taugt er aber nicht. (Ulrike Wegner) [Mehr lesen >](/pilze/coprinopsis-picacea-specht-tintling)
+08.12.2025: [](AA "Glossar-")Erster Gedanke: *„Spätzünder!“* Unseren aktuellen Fundkorbpilz, den Specht-Tintling *Coprinopsis picaceus*, habe ich am Fuß des Hohen Berges in Heusenstamm gesehen. Er gleicht in der Gestalt dem leckeren [Schopftintling](/pilze/coprinus-comatus-schopftintling), aber unter dem schuppig aufreißenden [Velum](Velum "Glossar") wird es schwarz. Das dabei entstehende Muster der Velumflocken erinnert an die gepunkteten Handschwingen einiger Spechtarten. In diesem Stadium ist der Pilz am schönsten. Dann beginnen die Hüte schnell zu schwarzer Tinte zu zerfließen (*Autolyse*). Für die Küche taugt er aber nicht. (Ulrike Wegner) [Mehr lesen >](/pilze/coprinopsis-picacea-specht-tintling)
 
 <div style="clear:  both"></div>
 
