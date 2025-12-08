@@ -24,6 +24,6 @@ literatur:
 {% include bild.html datei="/bilder/entoloma_sericeum_02_km.jpg" %}
 {% include abbildung_ende.html legende="Foto: Karin Montag" %}
 
-Die braunen bis graubraunen Hüte sind schon früh abgeflacht, radialfaserig, auch etwas durchscheinend gerieft und an den Rändern oft abwärts gebogen. Mit nur 2 - 4 cm Hutdurhmesser handelt es sich um eine techt kleine Art. Die Lamelle sind jung nahezu weiß, später rötlingstypisch grau- bis bräunlich-rosa gefärbt, stark mit kürzeren untermischt und ausgebuchtet am Stiel angeheftet. Dieser ist dünn, längsfaserig und brüchig, von dunkelbrauner Farbe, weißlich überfasert und am Stielgrund weißfilzig. Das graubraune Hutfleisch ist sehr dünn, Geruch und Geschmack deutlich mehlig.
+Die braunen bis graubraunen Hüte sind schon früh abgeflacht, radialfaserig, auch etwas durchscheinend gerieft und an den Rändern oft abwärts gebogen. Mit nur 2 - 4 cm Hutdurchmesser handelt es sich um eine recht kleine Art. Die Lamellen sind jung nahezu weiß, später rötlingstypisch grau- bis bräunlich-rosa gefärbt, stark mit kürzeren untermischt und ausgebuchtet am Stiel angeheftet. Dieser ist dünn, längsfaserig und brüchig, von dunkelbrauner Farbe, weißlich überfasert und am Stielgrund weißfilzig. Das graubraune Hutfleisch ist sehr dünn, Geruch und Geschmack deutlich mehlig.
 
 Der Seidige Rötling ist kein Speisepilz, wird vielfach sogar als giftverdächtig bezeichnet.
