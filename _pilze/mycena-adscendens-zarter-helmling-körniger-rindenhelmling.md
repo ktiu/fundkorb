@@ -37,6 +37,10 @@ Als typischen Rindenhelmling kann man *Mycena adscendens* nicht bezeichnen. Er b
 
 Mit der Merkmalskombination *"kleine weiße Fruchtkörper, fein bereifte Hüte, meist glatte oder auch leicht bereifte Stiele mit kleinem Basalscheibchen"* ist die Art makroskopisch recht gut charakterisiert. Es macht auch Sinn, die Anzahl der Lamellen zu prüfen. Diese schwankt zwischen 7 und 14. Bei Funden an aufrechten Baumstämmen kommen noch die meist verbogenen Stiele als Merkmal hinzu. Für eine zweifelsfreie Bestimmung empfiehlt sich natürlich eine mikroskopische Prüfung (z. B. Sporen, Schnallen, Cheilozystiden).
 
+- - -
+
+**Anhang:**
+
 Am 22. November 2023 sorgte ein Fund von winzigen weißen Helmlingen auf einem Rosskastaniensamen (*Aesculus hippocastanum*) für Irritation, da es in der mir zugänglichen Literatur keine Hinweise auf Vorkommen an solchen Substraten gab. Die Hüte hatten eine Breite von maximal 1 mm, die fädigen Stiele waren bis zu 4 mm lang, nahezu kahl bis etwas feinflockig und hyalin, die Basalscheibchen filzig behaart. Anzahl der Lamellen ca. 9 - 12.
 
 Die Fundstelle befand sich in Dietzenbach in einer Parkanlage im Carré Rodgaustraße, MTB 5918.4.3 (wenige Kilometer südlich von Frankfurt am Main). Gefunden von *Tui Gewalt*.
