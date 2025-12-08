@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
+09.12.2025: [Arrhenia retiruga - Schüsselförmiger Adermoosling](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)  
 08.12.2025: [Coprinopsis picacea - Specht-Tintling](/pilze/coprinopsis-picacea-specht-tintling)\
 07.12.2025: [Mycena cinerella - Aschgrauer Helmling](/pilze/mycena-cinerella-aschgrauer-helmling)\
 06.12.2025: [Clitopilus prunulus - Mehlräsling](/pilze/clitopilus-prunulus-mehlräsling)\
