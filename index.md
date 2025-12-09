@@ -22,6 +22,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_meliigena_02_uvs.jpg" %}
+{% include abbildung_ende.html %}
+
+10.12.2025: Etwa zehn Meter entfernt zeigte sich am Stamm einer Weide ein weiterer aktueller [Fundkorbpilz](AA "Glossar-"), der leicht als Rötlicher Rindenhelmling *Mycena meliigena* zu identifizieren war. [Rindenhelmlinge](/verwandt/rindenhelmlinge) sind eine kleine Gruppe winziger Helmlinge, die leicht übersehen werden, aus der Nähe betrachtet aber ihre oft erstaunliche Schönheit offenbaren. In unserer Dietzenbacher Parkanlage sind sie vor allem in der kalten Jahreszeit immer wieder an Weiden und Ahornbäumen zu beobachten. Um sie zu finden, sollte man vor allem an bemooster Rinde stehender Laubbäume nach ihnen Ausschau halten. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-meliigena-rötlicher-rindenhelmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/arrhenia-retiruga_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -66,14 +74,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 04.12.2025: Heute möchte ich einen aktuellen [Fundkorbpilz](AA "Glossar-") aus einer Parkanlage in Bad Soden melden. Es ist der auch noch spät im Jahr recht häufige und leicht kenntliche Kaffeebraune Gabeltrichterling *Pseudoclitocybe cyathiformis*. Die beiden Exemplare waren schon frostgeschädigt und daher nicht mehr für die Küche zu verwenden. Die grauen Farben, die tief getrichterten Hüte und die langen Stiele machen ihn nahezu unverwechselbar. (Norbert Fischer) [Mehr lesen >](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_leptocephala_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.12.2025: Unter den Helmlingen ist unser aktueller [Fundkorbpilz](AA "Glossar-") so etwas wie die graue Maus und vor allem spät im Jahr zu finden. Sein Name: Grauer Nitrathelmling *Mycena leptocephala*. Zu seinen wichtigsten Merkmalen gehören die fast bis zur Hutmitte durchscheinend gerieften Hüte, der chlorartige Schwimmbadgeruch und die striegelige, von weißen [Rhizomorphen](Rhizomorphen "Glossar") bekleidete Stielbasis. Er gehört zu den häufigeren Helmlingsarten. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-leptocephala-grauer-nitrathelmling)
 
 <div style="clear:  both"></div>
 
