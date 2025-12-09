@@ -14,7 +14,7 @@ hauptbild:
   legende: "Foto: Norbert Kühnberger"
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 4 Nr. 81"
-  - text: "German J. Krieglsteiner (Hrsg.): Die Großpilte Baden-Württembergs Band 4,
+  - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs Band 4,
       Seite 219 - 221"
   - url: http://tintling.com/pilzbuch/arten/e/Entoloma_sericeum.html
   - text: "Rudolf Winkler, Gaby Keller: Pilze Mitteleuropas, Seite 390 (6.2.46)"
