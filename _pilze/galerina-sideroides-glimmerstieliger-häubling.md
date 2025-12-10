@@ -12,10 +12,14 @@ hauptbild:
   anzeige: false
   datei: /bilder/galerina_sideroides_01_md.jpg
 literatur:
-  - text: de Haan, A., Walleyn, R. (2002). Studies in Galerina, Galerina Flandriae
-      1-3
+  - text: de Haan, A., Walleyn, R. (2002). Studies in Galerina, Galerina Flandriae 1
+      - 3
   - text: Knudsen, H., Vesterholt, J. (2018). Funga Nordica
   - text: Lassoe, T., Petersen, J. H. (2019) Fungi of temperate Europe 1
+  - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 5, Nr. 424"
+  - text: "German J. Krieglsteiner (Hrsg): Die Großpilze Baden-Württembergs Band 5,
+      Seite 328 - 330"
+  - text: "Rudolf Winkler, Gaby Keller: Pilze Mitteleuropas, Seite 541 (11.7.10)"
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/galerina_sideroides_01_md.jpg" nocrop=true gross=true %}
