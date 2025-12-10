@@ -22,6 +22,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/galerina_subclavata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.12.2025: In einem moosigen Waldbereich mit Fichten am Stadtrand von Dietzenbach ist spät im Jahr regelmäßig der Zweisporige Winterhäubling *Galerina subclavata* zu finden. *"Zweisporig"* besagt bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") zweierlei: dass er zweisporige Basidien hat und dass man mikroskopieren muss. Vermutlich ist er gar nicht so selten wie vielfach in der Literatur angegeben wird. Wichtig zu wissen: es gibt mehrere tödlich giftige Galerina-Arten, die vor allem leichtsinnigen Sammlern von Stockschwämmchen zum Verhängnis werden können. (Dieter Gewalt) [Mehr lesen >](/pilze/galerina-subclavata-zweisporiger-winterhäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_meliigena_02_uvs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -58,22 +66,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 06.12.2025: Der Mehlräsling *Clitopilus prunulus* taucht immer mal wieder in unserer Dietzenbacher Parkanlage auf, manchmal auch spät im Jahr, und ist deshalb unser aktueller [Fundkorbpilz](AA "Glossar-"). Namensgebendes Merkmal ist sein ranzig-mehliger Geruch, den man manchmal schon wahrnehmen kann, bevor man den Pilz gesehen hat. Ein weiteres gutes Kennzeichen sind seine jung weißen, dann allmählich rosa werdenden Lamellen. Sie geben einen Hinweis auf seine Verwandtschaft. Er gehört zu den Rötlingsverwandten *Entolomaceae*. (Dieter Gewalt) [Mehr lesen >](/pilze/clitopilus-prunulus-mehlräsling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/thelephora_terrestris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.12.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Erdwarzenpilz *Thelephora terrestris*. Der deutsche Name erweckt wegen der "Warzen" nicht gerade positive Assoziationen, aber bei genauerem Hinschauen ist er für mich ein attraktiver Pilz. Man findet ihn vor allem in der Umgebung von Nadelbäumen, wo er Jungpflanzen umwachsen und durch Ersticken zum Absterben bringen kann. Andererseits ist er als [Mykorrhizapilz ](Mykorrhiza "Glossar") durchaus ein Freund der Bäume und hilft sogar den Baumschulen bei der Aufzucht ihrer Schützlinge. (Dieter Gewalt) [Mehr lesen >](/pilze/thelephora-terrestris-erdwarzenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pseudoclitocybe_cyathiformis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.12.2025: Heute möchte ich einen aktuellen [Fundkorbpilz](AA "Glossar-") aus einer Parkanlage in Bad Soden melden. Es ist der auch noch spät im Jahr recht häufige und leicht kenntliche Kaffeebraune Gabeltrichterling *Pseudoclitocybe cyathiformis*. Die beiden Exemplare waren schon frostgeschädigt und daher nicht mehr für die Küche zu verwenden. Die grauen Farben, die tief getrichterten Hüte und die langen Stiele machen ihn nahezu unverwechselbar. (Norbert Fischer) [Mehr lesen >](/pilze/pseudoclitocybe-cyathiformis-kaffeebrauner-gabeltrichterling)
 
 <div style="clear:  both"></div>
 
