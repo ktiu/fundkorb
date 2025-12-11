@@ -22,6 +22,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/galerina_marginata_04_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+12.12.2025: Ein tödlich giftiger Verwandter des gestrigen aktuellen [Fundkorbpilzes](AA "Glossar-") wuchs nur wenige Meter entfernt an einem Fichtenstumpf: der Gifthäubling *Galerina marginata*. Auch keine Überraschung in dieser Jahreszeit. Ich habe es einmal so formuliert: *„Je später im Jahr, desto häufiger wird er.“* Er enthält die gleichen tödlichen Amanitin-Gifte wie der Grüne Knollenblätterpilz. Pilzsammler, die gern [Stockschwämmchen](https://fundkorb.de/pilze/kuehneromyces-mutabilis-stockschw%C3%A4mmchen) auf dem Teller haben, sollten sich der lebensbedrohlichen Verwechslungsgefahr bewusst sein! (Dieter Gewalt) [Mehr lesen >](/pilze/galerina-marginata-gifthäubling) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/galerina_subclavata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -58,14 +66,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 07.12.2025: Für mich sind die Aschgrauen Helmlinge (*Mycena cinerella*) kleine Kunstwerke und darum aktueller [Fundkorbpilz](AA "Glossar-"). Ihre filigrane Schönheit hat Johann Rejek perfekt in seinem Foto eingefangen. Die hübschen Pilzchen findet man vor allem spät im Jahr vereinzelt oder gesellig wachsend in moosigen Nadelwäldern.  (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-cinerella-aschgrauer-helmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitopilus_prunulus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.12.2025: Der Mehlräsling *Clitopilus prunulus* taucht immer mal wieder in unserer Dietzenbacher Parkanlage auf, manchmal auch spät im Jahr, und ist deshalb unser aktueller [Fundkorbpilz](AA "Glossar-"). Namensgebendes Merkmal ist sein ranzig-mehliger Geruch, den man manchmal schon wahrnehmen kann, bevor man den Pilz gesehen hat. Ein weiteres gutes Kennzeichen sind seine jung weißen, dann allmählich rosa werdenden Lamellen. Sie geben einen Hinweis auf seine Verwandtschaft. Er gehört zu den Rötlingsverwandten *Entolomaceae*. (Dieter Gewalt) [Mehr lesen >](/pilze/clitopilus-prunulus-mehlräsling)
 
 <div style="clear:  both"></div>
 
