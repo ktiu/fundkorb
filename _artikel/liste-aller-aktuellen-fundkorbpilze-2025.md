@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-11.12.2025: [Galerina subclavata - Zweisporiger Winterhelmling](/pilze/galerina-subclavata-zweisporiger-winterhäubling)  
+12.12.2025: [Galerina marginata - Gifthäubling](/pilze/galerina-marginata-gifthäubling)  
+11.12.2025: [Galerina subclavata - Zweisporiger Winterhelmling](/pilze/galerina-subclavata-zweisporiger-winterhäubling)\
 10.12.2025: [Mycena meliigena - Rötlicher Rindenhelmling](/pilze/mycena-meliigena-rötlicher-rindenhelmling)\
 09.12.2025: [Arrhenia retiruga - Schüsselförmiger Adermoosling](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)\
 08.12.2025: [Coprinopsis picacea - Specht-Tintling](/pilze/coprinopsis-picacea-specht-tintling)\
