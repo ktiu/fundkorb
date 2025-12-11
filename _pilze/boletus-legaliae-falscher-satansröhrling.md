@@ -3,7 +3,8 @@ beschreibung:
   wissenschaftlich: Boletus legaliae
   deutsch: Falscher Satansröhrling
   referenz: Pilát 1968
-  synonym: "Synonyme: Boletus splendidus, Boletus satanoides"
+  synonym: "Neuer Name: Rubroboletus legaliae, Synonyme: Boletus splendidus,
+    Boletus satanoides"
   erlaeuterung: legaliae = zu Ehren des französischen Mykologen M. L. F. Le Gal
   familie: Boletaceae
 profil:
