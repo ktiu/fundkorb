@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-12.12.2025: [Galerina marginata - Gifthäubling](/pilze/galerina-marginata-gifthäubling)  
+13.12.2025: [Skeletocutis carneogrisea - Fleischgrauer Knorpelporling](/pilze/skeletocutis-carneogrisea-fleischgrauer-knorpelporling)  
+12.12.2025: [Galerina marginata - Gifthäubling](/pilze/galerina-marginata-gifthäubling)\
 11.12.2025: [Galerina subclavata - Zweisporiger Winterhelmling](/pilze/galerina-subclavata-zweisporiger-winterhäubling)\
 10.12.2025: [Mycena meliigena - Rötlicher Rindenhelmling](/pilze/mycena-meliigena-rötlicher-rindenhelmling)\
 09.12.2025: [Arrhenia retiruga - Schüsselförmiger Adermoosling](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)\
