@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-13.12.2025: [Skeletocutis carneogrisea - Fleischgrauer Knorpelporling](/pilze/skeletocutis-carneogrisea-fleischgrauer-knorpelporling)  
+14.12.2025: [Entoloma sericeum - Seidiger Rötling](/pilze/entoloma-sericeum-seidiger-rötling)  
+13.12.2025: [Skeletocutis carneogrisea - Fleischgrauer Knorpelporling](/pilze/skeletocutis-carneogrisea-fleischgrauer-knorpelporling)\
 12.12.2025: [Galerina marginata - Gifthäubling](/pilze/galerina-marginata-gifthäubling)\
 11.12.2025: [Galerina subclavata - Zweisporiger Winterhelmling](/pilze/galerina-subclavata-zweisporiger-winterhäubling)\
 10.12.2025: [Mycena meliigena - Rötlicher Rindenhelmling](/pilze/mycena-meliigena-rötlicher-rindenhelmling)\
