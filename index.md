@@ -22,6 +22,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/entoloma_sericeum_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.12.2025: Die Dietzenbacher Parkanlage liefert auch im Dezember neue aktuelle [Fundkorbpilze](AA "Glossar-"). Diesmal ist es der Seidige Rötling *Entoloma sericeum*, einer der häufigeren und gut kenntlichen Rötlingsarten. Seine wichtigsten Merkmale sind graubraune bis 4 cm breite Hüte, dünne Stiele mit weißfilziger Basis sowie Geruch und Geschmack nach Mehl oder Gurke. Zu finden ist er auf grasigen Flächen wie Wiesen, Weiden, Gärten, Parkanlagen oder an Weg- und Waldwegrändern. (Dieter Gewalt) [Mehr lesen >](/pilze/entoloma-sericeum-seidiger-rötling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/skeletocutis_carneogrisea_02_wp.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -58,22 +66,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 09.12.2025: Kaum ist es im Dezember mit bis zu 15°C ungewöhnlich warm geworden, sind auch schon die ersten Pilze da. Darunter ein aktueller [Fundkorbpilz](AA "Glossar-"). Er ist mir als helle Fleckchen in moosiger Rasenfläche in unserer Dietzenbacher Parkanlage aufgefallen. Bei näherer Betrachtung hat sich der etwa 3 mm große Winzling als Schüsselförmiger Adermoosling *Arrhenia retiruga* verraten. Wichtiges Kennzeichen neben der hellgrauen Farbe und der papierdünnen schalenförmigen Fruchtkörper: die Unterseiten sind glatt. (Dieter Gewalt) [Mehr lesen >](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinopsis_picaceus_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.12.2025: [](AA "Glossar-")Erster Gedanke: *„Spätzünder!“* Unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Specht-Tintling *Coprinopsis picaceus*, habe ich am Fuß des Hohen Berges in Heusenstamm gesehen. Er gleicht in der Gestalt dem leckeren [Schopftintling](/pilze/coprinus-comatus-schopftintling), aber unter dem schuppig aufreißenden [Velum](Velum "Glossar") wird es schwarz. Das dabei entstehende Muster der Velumflocken erinnert an die gepunkteten Handschwingen einiger Spechtarten. In diesem Stadium ist der Pilz am schönsten. Dann beginnen die Hüte schnell zu schwarzer Tinte zu zerfließen (*Autolyse*). Für die Küche taugt er aber nicht. (Ulrike Wegner) [Mehr lesen >](/pilze/coprinopsis-picacea-specht-tintling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_cinerella_03_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-07.12.2025: Für mich sind die Aschgrauen Helmlinge (*Mycena cinerella*) kleine Kunstwerke und darum aktueller [Fundkorbpilz](AA "Glossar-"). Ihre filigrane Schönheit hat Johann Rejek perfekt in seinem Foto eingefangen. Die hübschen Pilzchen findet man vor allem spät im Jahr vereinzelt oder gesellig wachsend in moosigen Nadelwäldern.  (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-cinerella-aschgrauer-helmling)
 
 <div style="clear:  both"></div>
 
