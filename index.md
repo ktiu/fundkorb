@@ -22,6 +22,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/parmelina_tiliacea_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+15.12.2025: Da auch Flechten Pilze sind, soll unser aktueller [Fundkorbpilz](AA "Glossar-") die Linden-Schüsselflechte *Parmelina tiliacea* sein, die besonders an älteren Linden, aber auch an der Rinde anderer Laubbäume vorkommt und recht häufig ist. Um Flechten sicher zu bestimmen, sollten sie mit einer gut vergrößernden Lupe betrachtet werden. Nur so sind artkennzeichnende winzig kleine Merkmale wie [Isidien](Isidien "Glossar"), [Soredien](Soredien "Glossar") oder [Rhizine](Rhizine "Glossar") zu erkennen. Von den rund 2000 mitteleuropäischen Arten sind nur wenige auf einen Blick zu identifizieren. (Dieter Gewalt) [Mehr lesen >](/pilze/parmelina-tiliacea-linden-schüsselflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/entoloma_sericeum_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -50,22 +58,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 11.12.2025: In einem moosigen Waldbereich mit Fichten am Stadtrand von Dietzenbach ist spät im Jahr regelmäßig der Zweisporige Winterhäubling *Galerina subclavata* zu finden. *"Zweisporig"* besagt bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") zweierlei: dass er zweisporige Basidien hat und dass man mikroskopieren muss. Vermutlich ist er gar nicht so selten wie vielfach in der Literatur angegeben wird. Wichtig zu wissen: es gibt mehrere tödlich giftige Galerina-Arten, die vor allem leichtsinnigen Sammlern von Stockschwämmchen zum Verhängnis werden können. (Dieter Gewalt) [Mehr lesen >](/pilze/galerina-subclavata-zweisporiger-winterhäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_meliigena_02_uvs.jpg" %}
-{% include abbildung_ende.html %}
-
-10.12.2025: Etwa zehn Meter entfernt zeigte sich am Stamm einer Weide ein weiterer aktueller [Fundkorbpilz](AA "Glossar-"), der leicht als Rötlicher Rindenhelmling *Mycena meliigena* zu identifizieren war. [Rindenhelmlinge](/verwandt/rindenhelmlinge) sind eine kleine Gruppe winziger Helmlinge, die leicht übersehen werden, aus der Nähe betrachtet aber ihre oft erstaunliche Schönheit offenbaren. In unserer Dietzenbacher Parkanlage sind sie vor allem in der kalten Jahreszeit immer wieder an Weiden und Ahornbäumen zu beobachten. Um sie zu finden, sollte man vor allem an bemooster Rinde stehender Laubbäume nach ihnen Ausschau halten. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-meliigena-rötlicher-rindenhelmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/arrhenia-retiruga_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.12.2025: Kaum ist es im Dezember mit bis zu 15°C ungewöhnlich warm geworden, sind auch schon die ersten Pilze da. Darunter ein aktueller [Fundkorbpilz](AA "Glossar-"). Er ist mir als helle Fleckchen in moosiger Rasenfläche in unserer Dietzenbacher Parkanlage aufgefallen. Bei näherer Betrachtung hat sich der etwa 3 mm große Winzling als Schüsselförmiger Adermoosling *Arrhenia retiruga* verraten. Wichtiges Kennzeichen neben der hellgrauen Farbe und der papierdünnen schalenförmigen Fruchtkörper: die Unterseiten sind glatt. (Dieter Gewalt) [Mehr lesen >](/pilze/arrhenia-retiruga-schüsselförmiger-adermoosling)
 
 <div style="clear:  both"></div>
 
