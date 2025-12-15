@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-15.12.2025: [Parmelina tiliacea Linden-Schüsselflechte](/pilze/parmelina-tiliacea-linden-schüsselflechte)  
+16.12.2025: [Pleurotus dryinus - Berindeter Seitling](/pilze/pleurotus-dryinus-berindeter-seitling)  
+15.12.2025: [Parmelina tiliacea Linden-Schüsselflechte](/pilze/parmelina-tiliacea-linden-schüsselflechte)\
 14.12.2025: [Entoloma sericeum - Seidiger Rötling](/pilze/entoloma-sericeum-seidiger-rötling)\
 13.12.2025: [Skeletocutis carneogrisea - Fleischgrauer Knorpelporling](/pilze/skeletocutis-carneogrisea-fleischgrauer-knorpelporling)\
 12.12.2025: [Galerina marginata - Gifthäubling](/pilze/galerina-marginata-gifthäubling)\
