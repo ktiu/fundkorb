@@ -22,6 +22,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pleurotus_dryinus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.12.2025: In unserem Dietzenbacher Carré ist er mal wieder an einer alten Eiche aufgetaucht und darum unser aktueller [Fundkorbpilz](AA "Glossar-"): der Berindete Seitling *Pleurotus dryinus*. Seine Verwandtschaft mit dem [Austernseitling](/pilze/pleurotus-ostreatus-austernseitling) ist auf den ersten Blick nicht unbedingt ersichtlich. Dazu ist sein Stiel viel zu ausgeprägt und auch noch dickfleischig und zäh. Er gilt als essbar, aber nur sehr junge Fruchtkörper könnten vielleicht zart genug und genießbar sein. Wegen seiner Seltenheit sollte er ohnehin geschont werden. (Dieter Gewalt) [Mehr lesen >](/pilze/pleurotus-dryinus-berindeter-seitling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/parmelina_tiliacea_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
