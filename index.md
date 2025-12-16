@@ -22,6 +22,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_gausapatum_04_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+17.12.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zottige Eichenschichtpilz *Stereum gausapatum*. Er gehört zu den Schichtpilzarten mit deutlich abstehenden Hutkanten, die beim Anritzen oder Reiben mit befeuchtetem Finger röten. Ein weiteres Merkmal ist die gekräuselte Struktur der Fruchtkörper. Er ist nahezu ausschließlich an Eichen zu finden und nicht sehr häufig. (Bernd Miggel) [Mehr lesen >](/pilze/stereum-gausapatum-zottiger-eichenschichtpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pleurotus_dryinus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -58,14 +66,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 12.12.2025: Ein tödlich giftiger Verwandter des gestrigen aktuellen [Fundkorbpilzes](AA "Glossar-") wuchs nur wenige Meter entfernt an einem Fichtenstumpf: der Gifthäubling *Galerina marginata*. Auch keine Überraschung in dieser Jahreszeit. Ich habe es einmal so formuliert: *„Je später im Jahr, desto häufiger wird er.“* Er enthält die gleichen tödlichen Amanitin-Gifte wie der Grüne Knollenblätterpilz. Pilzsammler, die gern [Stockschwämmchen](https://fundkorb.de/pilze/kuehneromyces-mutabilis-stockschw%C3%A4mmchen) auf dem Teller haben, sollten sich der lebensbedrohlichen Verwechslungsgefahr bewusst sein! (Dieter Gewalt) [Mehr lesen >](/pilze/galerina-marginata-gifthäubling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/galerina_subclavata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.12.2025: In einem moosigen Waldbereich mit Fichten am Stadtrand von Dietzenbach ist spät im Jahr regelmäßig der Zweisporige Winterhäubling *Galerina subclavata* zu finden. *"Zweisporig"* besagt bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") zweierlei: dass er zweisporige Basidien hat und dass man mikroskopieren muss. Vermutlich ist er gar nicht so selten wie vielfach in der Literatur angegeben wird. Wichtig zu wissen: es gibt mehrere tödlich giftige Galerina-Arten, die vor allem leichtsinnigen Sammlern von Stockschwämmchen zum Verhängnis werden können. (Dieter Gewalt) [Mehr lesen >](/pilze/galerina-subclavata-zweisporiger-winterhäubling)
 
 <div style="clear:  both"></div>
 
