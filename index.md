@@ -21,6 +21,14 @@ footer_scripts:
 
 **Aktueller Fundkorbpilz:**
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/postia_stiptica_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+18.12.2025: Saftporlinge sind Pilze, die vor allem bei feuchter Witterung auf Druck reichlich Flüssigkeit abgeben. Handelt es sich um weiße oder weißliche Fruchtkörper, deren Saft wie auch das Fleisch stark bitter schmecken und die an Nadelholz wachsen, handelt es sich mit sehr hoher Wahrscheinlichkeit um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Bitteren Saftporling *Postia stiptica*, der schon in zahlreichen Gattungen untergebracht war und heute *Amaropostia stiptica* heißen soll. (Dieter Gewalt) [Mehr lesen >](/pilze/postia-stiptica-bitterer-saftporling)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_gausapatum_04_bm.jpg" %}
 {% include abbildung_ende.html %}
