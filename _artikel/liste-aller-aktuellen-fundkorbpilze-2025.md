@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-17.12.2025: [Stereum gausapatum - Zottiger Eichenschichtpilz](/pilze/stereum-gausapatum-zottiger-eichenschichtpilz)  
+18.12.2025: [Postia stiptica - Bitterer Saftporling](/pilze/postia-stiptica-bitterer-saftporling)  
+17.12.2025: [Stereum gausapatum - Zottiger Eichenschichtpilz](/pilze/stereum-gausapatum-zottiger-eichenschichtpilz)\
 16.12.2025: [Pleurotus dryinus - Berindeter Seitling](/pilze/pleurotus-dryinus-berindeter-seitling)\
 15.12.2025: [Parmelina tiliacea Linden-Schüsselflechte](/pilze/parmelina-tiliacea-linden-schüsselflechte)\
 14.12.2025: [Entoloma sericeum - Seidiger Rötling](/pilze/entoloma-sericeum-seidiger-rötling)\
