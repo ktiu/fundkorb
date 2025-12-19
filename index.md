@@ -22,6 +22,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/nectria_episphaeria_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.12.2025: Dieser winzige, maximal 0,2 mm große [Ascomyzet](Ascomyzeten "Glossar") ist nur bei gezielter Suche und mit einer gut vergrößernden Lupe auszumachen. Dabei wird man den Aufsitzenden Pustelpilz *Nectria episphaeria*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), ganzjährig und häufig finden, wenn man auf das Substrat achtet, auf dem er herdenweise vorkommt. Er wächst auf Eckenscheibchen, Kohlenbeeren und einigen anderen [Pyrenomyzeten](Pyrenomyzeten "Glossar"). Am erfolreichsten gestaltet sich die Suche auf Flächigen Eckenscheibchen ([Diatrype decorticata](/pilze/diatrype-decorticata-flächiges-eckenscheibchen), [D. stigma](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen) und [D. undulata](/pilze/diatrype-undulata-flaches-birken-eckenscheibchen)) und bei feuchtem Wetter. (Dieter Gewalt) [Mehr lesen >](/pilze/nectria-episphaeria-aufsitzender-pustelpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/baeospora_myosura_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -66,22 +74,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 14.12.2025: Die Dietzenbacher Parkanlage liefert auch im Dezember neue aktuelle [Fundkorbpilze](AA "Glossar-"). Diesmal ist es der Seidige Rötling *Entoloma sericeum*, einer der häufigeren und gut kenntlichen Rötlingsarten. Seine wichtigsten Merkmale sind graubraune bis 4 cm breite Hüte, dünne Stiele mit weißfilziger Basis sowie Geruch und Geschmack nach Mehl oder Gurke. Zu finden ist er auf grasigen Flächen wie Wiesen, Weiden, Gärten, Parkanlagen oder an Weg- und Waldwegrändern. (Dieter Gewalt) [Mehr lesen >](/pilze/entoloma-sericeum-seidiger-rötling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/skeletocutis_carneogrisea_02_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-13.12.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fleischgraue Knorpelporling *Skeletocutis carneogrisea*. Seine Fruchtkörper bestehen meist aus mehreren zusammengewachsenen zwei bis drei cm breiten Hütchen und einem [resupinat](resupinat "Glossar") wachsenden Teil. Diese Art der Fruchtkörperbildung wird [effus-reflex](effus-reflex "Glossar") genannt. Im Rhein-Main-Gebiet ist der nicht überall häufige Pilz gut verbreitet und vor allem an toten Kiefernstämmen zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/skeletocutis-carneogrisea-fleischgrauer-knorpelporling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/galerina_marginata_04_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-12.12.2025: Ein tödlich giftiger Verwandter des gestrigen aktuellen [Fundkorbpilzes](AA "Glossar-") wuchs nur wenige Meter entfernt an einem Fichtenstumpf: der Gifthäubling *Galerina marginata*. Auch keine Überraschung in dieser Jahreszeit. Ich habe es einmal so formuliert: *„Je später im Jahr, desto häufiger wird er.“* Er enthält die gleichen tödlichen Amanitin-Gifte wie der Grüne Knollenblätterpilz. Pilzsammler, die gern [Stockschwämmchen](https://fundkorb.de/pilze/kuehneromyces-mutabilis-stockschw%C3%A4mmchen) auf dem Teller haben, sollten sich der lebensbedrohlichen Verwechslungsgefahr bewusst sein! (Dieter Gewalt) [Mehr lesen >](/pilze/galerina-marginata-gifthäubling) 
 
 <div style="clear:  both"></div>
 
