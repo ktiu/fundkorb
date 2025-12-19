@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-19.12.2025: [Baeospora myosura - Mäuseschwanz-Rübling](/pilze/baeospora-myosura-mäuseschwanz-rübling)  
+20.12.2025: [Nectria episphaeria - Aufsitzender Pustelpilz](/pilze/nectria-episphaeria-aufsitzender-pustelpilz)  
+19.12.2025: [Baeospora myosura - Mäuseschwanz-Rübling](/pilze/baeospora-myosura-mäuseschwanz-rübling)\
 18.12.2025: [Postia stiptica - Bitterer Saftporling](/pilze/postia-stiptica-bitterer-saftporling)\
 17.12.2025: [Stereum gausapatum - Zottiger Eichenschichtpilz](/pilze/stereum-gausapatum-zottiger-eichenschichtpilz)\
 16.12.2025: [Pleurotus dryinus - Berindeter Seitling](/pilze/pleurotus-dryinus-berindeter-seitling)\
