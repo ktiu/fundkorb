@@ -22,6 +22,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/crinipellis_scabella_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.12.2025: Den Haarschwindling *Crinipellis scabella* in Dietzenbach zu finden ist keine Überraschung. Unser aktueller [Fundkorbpilz](AA "Glossar-") benötigt kalkhaltige Böden und diese sind in städtischer Umgebung durch Bautätigkeit zumeist vorhanden. Auch die späte Erscheinungszeit ist nicht außergewöhnlich, zumal zur Zeit noch milde Temperaturen herrschen. Typisch für die Art, die auch Fasermützchen genannt wird, ist die meist etwas vertiefte rostbraune Hutmitte mit einem spitzen Buckelchen und aufrechten Faserbüscheln, die mit der Lupe deutlich zu erkennen sind. (Dieter Gewalt) [Mehr lesen >](/pilze/crinipellis-scabella-haarschwindling-fasermützchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/nectria_episphaeria_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -58,22 +66,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 16.12.2025: In unserem Dietzenbacher Carré ist er mal wieder an einer alten Eiche aufgetaucht und darum unser aktueller [Fundkorbpilz](AA "Glossar-"): der Berindete Seitling *Pleurotus dryinus*. Seine Verwandtschaft mit dem [Austernseitling](/pilze/pleurotus-ostreatus-austernseitling) ist auf den ersten Blick nicht unbedingt ersichtlich. Dazu ist sein Stiel viel zu ausgeprägt und auch noch dickfleischig und zäh. Er gilt als essbar, aber nur sehr junge Fruchtkörper könnten vielleicht zart genug und genießbar sein. Wegen seiner Seltenheit sollte er ohnehin geschont werden. (Dieter Gewalt) [Mehr lesen >](/pilze/pleurotus-dryinus-berindeter-seitling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/parmelina_tiliacea_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-15.12.2025: Da auch Flechten Pilze sind, soll unser aktueller [Fundkorbpilz](AA "Glossar-") die Linden-Schüsselflechte *Parmelina tiliacea* sein, die besonders an älteren Linden, aber auch an der Rinde anderer Laubbäume vorkommt und recht häufig ist. Um Flechten sicher zu bestimmen, sollten sie mit einer gut vergrößernden Lupe betrachtet werden. Nur so sind artkennzeichnende winzig kleine Merkmale wie [Isidien](Isidien "Glossar"), [Soredien](Soredien "Glossar") oder [Rhizine](Rhizine "Glossar") zu erkennen. Von den rund 2000 mitteleuropäischen Arten sind nur wenige auf einen Blick zu identifizieren. (Dieter Gewalt) [Mehr lesen >](/pilze/parmelina-tiliacea-linden-schüsselflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/entoloma_sericeum_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.12.2025: Die Dietzenbacher Parkanlage liefert auch im Dezember neue aktuelle [Fundkorbpilze](AA "Glossar-"). Diesmal ist es der Seidige Rötling *Entoloma sericeum*, einer der häufigeren und gut kenntlichen Rötlingsarten. Seine wichtigsten Merkmale sind graubraune bis 4 cm breite Hüte, dünne Stiele mit weißfilziger Basis sowie Geruch und Geschmack nach Mehl oder Gurke. Zu finden ist er auf grasigen Flächen wie Wiesen, Weiden, Gärten, Parkanlagen oder an Weg- und Waldwegrändern. (Dieter Gewalt) [Mehr lesen >](/pilze/entoloma-sericeum-seidiger-rötling)
 
 <div style="clear:  both"></div>
 
