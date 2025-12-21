@@ -16,9 +16,6 @@ footer_scripts:
 {% include bild.html datei="/bilder/weihnachtswald_03_uw.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html %}
 
-**Der Weihnachtswald und seine Pilze** - Pilzkundliche Führung im Raum Frankfurt/Offenbach/Dietzenbach am 2. Weihnachtsfeiertag, 26.12.2025 um 10:00 Uhr\
-[Hier geht's zur Anmeldung >](/termine)
-
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
