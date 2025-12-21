@@ -1,6 +1,6 @@
 ---
 aktivitaet: "- - -"
-zeit: 2025-12-26T10:00:53.480Z
+zeit: 2025-12-31T00:00:35.535Z
 bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
