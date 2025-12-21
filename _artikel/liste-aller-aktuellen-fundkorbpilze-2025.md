@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-21.12.2025: [Crinipellis scabella - Haarschwindling, Fasermützchen](/pilze/crinipellis-scabella-haarschwindling-fasermützchen)  
+22.12.2025: [Ceratiomyxa porioides - Weißes Netzpolster](/pilze/ceratiomyxa-porioides-weißes-netzpolster)  
+21.12.2025: [Crinipellis scabella - Haarschwindling, Fasermützchen](/pilze/crinipellis-scabella-haarschwindling-fasermützchen)\
 20.12.2025: [Nectria episphaeria - Aufsitzender Pustelpilz](/pilze/nectria-episphaeria-aufsitzender-pustelpilz)\
 19.12.2025: [Baeospora myosura - Mäuseschwanz-Rübling](/pilze/baeospora-myosura-mäuseschwanz-rübling)\
 18.12.2025: [Postia stiptica - Bitterer Saftporling](/pilze/postia-stiptica-bitterer-saftporling)\
