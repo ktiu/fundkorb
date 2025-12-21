@@ -22,6 +22,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ceratiomyxa_fruticulosa_var._poroides_01_gb.jpg" %}
+{% include abbildung_ende.html %}
+
+22.12.2025: Gelegentlich findet man an totem Holz solche wabenartigen weißen Polster und mag nur noch über diese Formenvielfalt staunen. Es handelt sich um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Weiße Netzpolster *Ceratiomyxa porioides*, das zu den [Schleimpilzen](/verwandt/schleimpilze-myxomyzeten) gehört, sich im abgebildeten Stadium aber kaum noch schleimig anfühlt. Sein Aussehen ist so charakteristisch, dass Verwechslungen auszuschließen sind. (Dieter Gewalt) [Mehr lesen >](/pilze/ceratiomyxa-porioides-weißes-netzpolster)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/crinipellis_scabella_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -58,14 +66,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 17.12.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zottige Eichenschichtpilz *Stereum gausapatum*. Er gehört zu den Schichtpilzarten mit deutlich abstehenden Hutkanten, die beim Anritzen oder Reiben mit befeuchtetem Finger röten. Ein weiteres Merkmal ist die gekräuselte Struktur der Fruchtkörper. Er ist nahezu ausschließlich an Eichen zu finden und nicht sehr häufig. (Bernd Miggel) [Mehr lesen >](/pilze/stereum-gausapatum-zottiger-eichenschichtpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pleurotus_dryinus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.12.2025: In unserem Dietzenbacher Carré ist er mal wieder an einer alten Eiche aufgetaucht und darum unser aktueller [Fundkorbpilz](AA "Glossar-"): der Berindete Seitling *Pleurotus dryinus*. Seine Verwandtschaft mit dem [Austernseitling](/pilze/pleurotus-ostreatus-austernseitling) ist auf den ersten Blick nicht unbedingt ersichtlich. Dazu ist sein Stiel viel zu ausgeprägt und auch noch dickfleischig und zäh. Er gilt als essbar, aber nur sehr junge Fruchtkörper könnten vielleicht zart genug und genießbar sein. Wegen seiner Seltenheit sollte er ohnehin geschont werden. (Dieter Gewalt) [Mehr lesen >](/pilze/pleurotus-dryinus-berindeter-seitling)
 
 <div style="clear:  both"></div>
 
