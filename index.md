@@ -19,6 +19,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_polygonia_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.12.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Espen-Zystidenpilz *Peniophora polygonia*, entwickelt sich an der Unterseite noch am Baum befindlicher abgestorbener Äste aus kleinen weißlichen Flecken, die auf der Rinde zu einer ausgedehnten [resupinaten](resupinat "Glossar") Fruchtschicht zusammenwachsen. Der Pilz kommt ganzjährig an Pappelarten (*Populus euroamericanus*, *Populus tremulae*) vor, sehr selten auch an anderen Laubbaumarten. Natürlich ist er auch an abgefallenen, am Boden liegenden Ästen und Zweigen zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ceratiomyxa_fruticulosa_var._poroides_01_gb.jpg" %}
 {% include abbildung_ende.html %}
 
