@@ -19,6 +19,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_pseudocorticola_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.12.2025: Auf die kleinen oder sogar winzigen [Rindenhelmlinge](/verwandt/rindenhelmlinge) wird kaum geachtet. Sie sind häufiger und hübscher als viele glauben. Ein besonders auffälliger ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blaue Rindenhelmling *Mycena pseudocorticola*. Er wächst oft scharenweise auf bemooster oder unbemooster Baumrinde. Bei uns im Dietzenbacher Carré an der Rodgaustraße ist er im Spätherbst und Winter manchmal sogar an mehreren Bäumen (u. a. Weiden und Ahorn) gleichzeitig zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-pseudocorticola-blauer-rindenhelmling) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peniophora_polygonia_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -55,22 +63,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 19.12.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mäuseschwanzrübling *Baeospora myosura*. Mit den Mäuseschwänzchen sind vermutlich die dünnen Stiele gemeint, mit denen sie auf ihrem Substrat wachsen. Dabei handelt es sich um Nadelbaumzapfen diverser Art. Laut Literatur von Kiefern und Fichten, seltener von Tannen, Lärchen oder Douglasien. Bei uns in einer Dietzenbacher Parkanlage sind sie auch auf Zapfenschuppen einer Zeder zu finden. Die Schuppen liegen hier nach dem raschen Zerfall der Zapfen einzeln aber dicht an dicht am Boden, was die kleinen Pilzchen nicht zu stören scheint. (Dieter Gewalt) [Mehr lesen >](/pilze/baeospora-myosura-mäuseschwanz-rübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/postia_stiptica_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-18.12.2025: Saftporlinge sind Pilze, die vor allem bei feuchter Witterung auf Druck reichlich Flüssigkeit abgeben. Handelt es sich um weiße oder weißliche Fruchtkörper, deren Saft wie auch das Fleisch stark bitter schmecken und die an Nadelholz wachsen, handelt es sich mit sehr hoher Wahrscheinlichkeit um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Bitteren Saftporling *Postia stiptica*, der schon in zahlreichen Gattungen untergebracht war und heute *Amaropostia stiptica* heißen soll. (Dieter Gewalt) [Mehr lesen >](/pilze/postia-stiptica-bitterer-saftporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_gausapatum_04_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-17.12.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zottige Eichenschichtpilz *Stereum gausapatum*. Er gehört zu den Schichtpilzarten mit deutlich abstehenden Hutkanten, die beim Anritzen oder Reiben mit befeuchtetem Finger röten. Ein weiteres Merkmal ist die gekräuselte Struktur der Fruchtkörper. Er ist nahezu ausschließlich an Eichen zu finden und nicht sehr häufig. (Bernd Miggel) [Mehr lesen >](/pilze/stereum-gausapatum-zottiger-eichenschichtpilz)
 
 <div style="clear:  both"></div>
 
