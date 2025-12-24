@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-24.12.2025: [Mycena pseudocorticola - Blauer Rindenhelmling](/pilze/mycena-pseudocorticola-blauer-rindenhelmling)  
-3.12.2025: [Peniophora polygonia Espen-Zystidenrindenpilz](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)\
+25.12.2025: [Panellus serotinus - Gelbstieliger Muschelseitling](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)  
+24.12.2025: [Mycena pseudocorticola - Blauer Rindenhelmling](/pilze/mycena-pseudocorticola-blauer-rindenhelmling)\
+23.12.2025: [Peniophora polygonia Espen-Zystidenrindenpilz](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)\
 22.12.2025: [Ceratiomyxa porioides - Weißes Netzpolster](/pilze/ceratiomyxa-porioides-weißes-netzpolster)\
 21.12.2025: [Crinipellis scabella - Haarschwindling, Fasermützchen](/pilze/crinipellis-scabella-haarschwindling-fasermützchen)\
 20.12.2025: [Nectria episphaeria - Aufsitzender Pustelpilz](/pilze/nectria-episphaeria-aufsitzender-pustelpilz)\
