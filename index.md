@@ -19,6 +19,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trochila_laurocerasi_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.12.2025: Solche winzige Pusteln kann man auf den Unterseiten abgefallener Blätter verschiedener Pflanzenarten finden, wozu man allerdings eine mindestens 10-fach vergrößernde Lupe zur Verfügung haben sollte. Die Kenntnis der Pflanzenart ist schon die halbe Miete zur Bestimmung des [Ascomyzeten](<Ascomyzeten "Glossar">), in diesem Fall des Kirschlorbeer-Deckelbecherchens *Trochila laurocerasi*, unseres aktuellen [Fundkorbpilzes](AA "Glossar-") (Dieter Gewalt) [Mehr lesen >](/pilze/trochila-laurocerasi-kirschlorbeer-deckelbecherchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/panellus_serotinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -55,22 +63,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 21.12.2025: Den Haarschwindling *Crinipellis scabella* in Dietzenbach zu finden ist keine Überraschung. Unser aktueller [Fundkorbpilz](AA "Glossar-") benötigt kalkhaltige Böden und diese sind in städtischer Umgebung durch Bautätigkeit zumeist vorhanden. Auch die späte Erscheinungszeit ist nicht außergewöhnlich, zumal zur Zeit noch milde Temperaturen herrschen. Typisch für die Art, die auch Fasermützchen genannt wird, ist die meist etwas vertiefte rostbraune Hutmitte mit einem spitzen Buckelchen und aufrechten Faserbüscheln, die mit der Lupe deutlich zu erkennen sind. (Dieter Gewalt) [Mehr lesen >](/pilze/crinipellis-scabella-haarschwindling-fasermützchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/nectria_episphaeria_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.12.2025: Dieser winzige, maximal 0,2 mm große [Ascomyzet](Ascomyzeten "Glossar") ist nur bei gezielter Suche und mit einer gut vergrößernden Lupe auszumachen. Dabei wird man den Aufsitzenden Pustelpilz *Nectria episphaeria*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), ganzjährig und häufig finden, wenn man auf das Substrat achtet, auf dem er herdenweise vorkommt. Er wächst auf Eckenscheibchen, Kohlenbeeren und einigen anderen [Pyrenomyzeten](Pyrenomyzeten "Glossar"). Am erfolreichsten gestaltet sich die Suche auf Flächigen Eckenscheibchen ([Diatrype decorticata](/pilze/diatrype-decorticata-flächiges-eckenscheibchen), [D. stigma](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen) und [D. undulata](/pilze/diatrype-undulata-flaches-birken-eckenscheibchen)) und bei feuchtem Wetter. (Dieter Gewalt) [Mehr lesen >](/pilze/nectria-episphaeria-aufsitzender-pustelpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/baeospora_myosura_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.12.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Mäuseschwanzrübling *Baeospora myosura*. Mit den Mäuseschwänzchen sind vermutlich die dünnen Stiele gemeint, mit denen sie auf ihrem Substrat wachsen. Dabei handelt es sich um Nadelbaumzapfen diverser Art. Laut Literatur von Kiefern und Fichten, seltener von Tannen, Lärchen oder Douglasien. Bei uns in einer Dietzenbacher Parkanlage sind sie auch auf Zapfenschuppen einer Zeder zu finden. Die Schuppen liegen hier nach dem raschen Zerfall der Zapfen einzeln aber dicht an dicht am Boden, was die kleinen Pilzchen nicht zu stören scheint. (Dieter Gewalt) [Mehr lesen >](/pilze/baeospora-myosura-mäuseschwanz-rübling)
 
 <div style="clear:  both"></div>
 
