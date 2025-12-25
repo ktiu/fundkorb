@@ -61,7 +61,7 @@ Bisher 30 Schleimpilzarten aus 15 Gattungen (7 Familien) im Fundkorb. Weitere we
 [Arcyria obvelata (Arcyriaceae) - Nickender Kelchschleimpilz](/pilze/arcyria-obvelata-arcyria-obvelata)\
 [Ceratiomyxa porioides (Ceratiomyxaceae) - Weißes Netzpolster](/pilze/ceratiomyxa-porioides-weißes-netzpolster)\
 [Ceratiomyxa fruticulosa (Ceratiomyxaceae) - Geweihförmiger Schleimpilz](/pilze/ceratiomyxa-fruticulosa-geweihförmiger-schleimpilz)\
-[Diachea leucopodia (Didymiaceae) - Buckingham-Schleimpilz](/pilze/diachaea-leucopodia-buckingham-schleimpilz)\
+[Diachea leucopodia (Didymiaceae) - Buckingham-Schleimpilz](/pilze/diachea-leucopodia-buckingham-schleimpilz)\
 [Fuligo muscorum (Physaraceae) - Moos-Lohblüte](/pilze/fuligo-muscorum-moos-lohblüte)\
 [Fuligo rufa (Physaraceae) - Rötende Lohblüte](/pilze/fuligo-rufa-rötliche-lohblüte)\
 [Fuligo septica (Physaraceae) - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
