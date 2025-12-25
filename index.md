@@ -22,7 +22,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/trochila_laurocerasi_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-26.12.2025: Solche winzige Pusteln kann man auf den Unterseiten abgefallener Blätter verschiedener Pflanzenarten finden, wozu man allerdings eine mindestens 10-fach vergrößernde Lupe zur Verfügung haben sollte. Die Kenntnis der Pflanzenart ist schon die halbe Miete zur Bestimmung des [Ascomyzeten](<Ascomyzeten "Glossar">), in diesem Fall des Kirschlorbeer-Deckelbecherchens *Trochila laurocerasi*, unseres aktuellen [Fundkorbpilzes](AA "Glossar-") (Dieter Gewalt) [Mehr lesen >](/pilze/trochila-laurocerasi-kirschlorbeer-deckelbecherchen)
+26.12.2025: Solche winzige Pusteln kann man auf den Unterseiten abgefallener Blätter verschiedener Pflanzenarten finden, wozu man allerdings eine mindestens 10-fach vergrößernde Lupe zur Verfügung haben sollte. Die Kenntnis der Pflanzenart ist schon die halbe Miete zur Bestimmung des [Ascomyzeten](Ascomyzeten "Glossar"), in diesem Fall des Kirschlorbeer-Deckelbecherchens *Trochila laurocerasi*, unseres aktuellen [Fundkorbpilzes](AA "Glossar-") (Dieter Gewalt) [Mehr lesen >](/pilze/trochila-laurocerasi-kirschlorbeer-deckelbecherchen)
 
 <div style="clear:  both"></div>
 
