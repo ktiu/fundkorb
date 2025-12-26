@@ -10,13 +10,15 @@ footer_scripts:
 ---
 <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/weihnachtswald_01_uw.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/weihnachtswald_02_uw.jpg" nocrop=true gross=true %}
-{% include bild.html datei="/bilder/weihnachtswald_03_uw.jpg" nocrop=true gross=true %}
+**Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/antrodia_xantha_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-**Aktueller Fundkorbpilz:**
+27.12.2025: *Werner Pohl* hat ihn einmal als nahezu unverwechselbar bezeichnet, unseren aktuellen [Fundkorbpilz](AA "Glossar-") *Antrodia xantha*, für den mindestens zwei deutsche Namen geläufig sind: Gelblicher Resupinatporling und Gelbe Braunfäuletramete. Mit den typischen Trameten hat er freilich keine Ähnlichkeit, wie die beigefügte Abbildung zeigt. In frischem Zustand soll er nach Zitrone riechen und bitter schmecken. (Dieter Gewalt) [Mehr lesen >](/pilze/antrodia-xantha-gelbe-braunfäuletramete-gelblicher-resupinatporling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trochila_laurocerasi_02_dg.jpg" %}
