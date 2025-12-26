@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-26.12.2025: [Trochila laurocerasi - Kirschlorbeer-Deckelbecherchen](/pilze/trochila-laurocerasi-kirschlorbeer-deckelbecherchen)  
+27.12.2025: [Antrodia xantha - Gelbe Braunfäuletramete](/pilze/antrodia-xantha-gelbe-braunfäuletramete-gelblicher-resupinatporling)  
+26.12.2025: [Trochila laurocerasi - Kirschlorbeer-Deckelbecherchen](/pilze/trochila-laurocerasi-kirschlorbeer-deckelbecherchen)\
 25.12.2025: [Panellus serotinus - Gelbstieliger Muschelseitling](/pilze/panellus-serotinus-gelbstieliger-muschelseitling)\
 24.12.2025: [Mycena pseudocorticola - Blauer Rindenhelmling](/pilze/mycena-pseudocorticola-blauer-rindenhelmling)\
 23.12.2025: [Peniophora polygonia Espen-Zystidenrindenpilz](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)\
