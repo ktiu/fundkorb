@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/datronia_mollis_01_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+28.12.2025: Unser aktueller [Fundkorbpilzes](AA "Glossar-"), die Großsporige Datronie (*Datronia mollis*), ist eine in Deutschland weit verbreitete und ziemlich häufige Porlingsart, aber nicht unbedingt leicht zu finden. Sie wächst nämlich bevorzugt an der Unterseite liegender Laubholzäste und -stämme, überwiegend an Rotbuche. Erscheinen die Fruchtkörper an deren Rändern, können sie auch abstehende Hutkanten bilden, eine Wuchsweise, die als [effus-reflex](effus-reflex "Glossar") bezeichnet wird. Ein gutes Kennzeichen ist ihre leichte Ablösbarkeit. (Dieter Gewalt) [Mehr lesen >](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/antrodia_xantha_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,22 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 23.12.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Espen-Zystidenpilz *Peniophora polygonia*, entwickelt sich an der Unterseite noch am Baum befindlicher abgestorbener Äste aus kleinen weißlichen Flecken, die auf der Rinde zu einer ausgedehnten [resupinaten](resupinat "Glossar") Fruchtschicht zusammenwachsen. Der Pilz kommt ganzjährig an Pappelarten (*Populus euroamericanus*, *Populus tremulae*) vor, sehr selten auch an anderen Laubbaumarten. Natürlich ist er auch an abgefallenen, am Boden liegenden Ästen und Zweigen zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ceratiomyxa_fruticulosa_var._poroides_01_gb.jpg" %}
-{% include abbildung_ende.html %}
-
-22.12.2025: Gelegentlich findet man an totem Holz solche wabenartigen weißen Polster und mag nur noch über diese Formenvielfalt staunen. Es handelt sich um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Weiße Netzpolster *Ceratiomyxa porioides*, das zu den [Schleimpilzen](/verwandt/schleimpilze-myxomyzeten) gehört, sich im abgebildeten Stadium aber kaum noch schleimig anfühlt. Sein Aussehen ist so charakteristisch, dass Verwechslungen auszuschließen sind. (Dieter Gewalt) [Mehr lesen >](/pilze/ceratiomyxa-porioides-weißes-netzpolster)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/crinipellis_scabella_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.12.2025: Den Haarschwindling *Crinipellis scabella* in Dietzenbach zu finden ist keine Überraschung. Unser aktueller [Fundkorbpilz](AA "Glossar-") benötigt kalkhaltige Böden und diese sind in städtischer Umgebung durch Bautätigkeit zumeist vorhanden. Auch die späte Erscheinungszeit ist nicht außergewöhnlich, zumal zur Zeit noch milde Temperaturen herrschen. Typisch für die Art, die auch Fasermützchen genannt wird, ist die meist etwas vertiefte rostbraune Hutmitte mit einem spitzen Buckelchen und aufrechten Faserbüscheln, die mit der Lupe deutlich zu erkennen sind. (Dieter Gewalt) [Mehr lesen >](/pilze/crinipellis-scabella-haarschwindling-fasermützchen)
 
 <div style="clear:  both"></div>
 
