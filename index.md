@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/diachea_leucopodia_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.12.2025: Das Foto mag täuschen. Die [Sporocarpien](Sporocarpien "Glossar") unseres aktuellen [Fundkorbpilzes](AA "Glossar-") sind gerade mal 1 mm hoch und nur mit Lupe gut zu erkennen. Der Buckingham-Schleimpilz *Diachea leucopodia* gehört zu den etwas häufigeren [Myxomyzeten](/verwandt/schleimpilze-myxomyzeten) und ist auf toten oder lebenden Pflanzenteilen vor allem außerhalb von Wäldern zu finden. So spät im Jahr wie jetzt im Dezember dürfte wohl eine Ausnahme sein. (Dieter Gewalt) [Mehr lesen >](/pilze/diachaea-leucopodia-buckingham-schleimpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/datronia_mollis_01_wp.jpg" %}
 {% include abbildung_ende.html %}
 
