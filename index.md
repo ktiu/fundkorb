@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/biscogniauxia_nummularia_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.12.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotbuchen-Rindenkugelpilz *Biscogniauxia nummularia*. Seine schwarzen [Perithezien](Perithezien "Glossar") erscheinen als unregelmäßige krustenartige Flecken auf der Rinde von Ästen und Stämmen von Rotbuchen. Sie könnten mit einigen Eckenscheibchen der Gattung *Diatrype* verwechselt werden, die sich aber unter der Rinde entwickeln und diese aufplatzen lassen. (Dieter Gewalt) [Mehr lesen >](/pilze/biscogniauxia-nummularia-rotbuchen-rindenkugelpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diachea_leucopodia_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -57,14 +65,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 24.12.2025: Auf die kleinen oder sogar winzigen [Rindenhelmlinge](/verwandt/rindenhelmlinge) wird kaum geachtet. Sie sind häufiger und hübscher als viele glauben. Ein besonders auffälliger ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blaue Rindenhelmling *Mycena pseudocorticola*. Er wächst oft scharenweise auf bemooster oder unbemooster Baumrinde. Bei uns im Dietzenbacher Carré an der Rodgaustraße ist er im Spätherbst und Winter manchmal sogar an mehreren Bäumen (u. a. Weiden und Ahorn) gleichzeitig zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-pseudocorticola-blauer-rindenhelmling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_polygonia_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.12.2025: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Espen-Zystidenpilz *Peniophora polygonia*, entwickelt sich an der Unterseite noch am Baum befindlicher abgestorbener Äste aus kleinen weißlichen Flecken, die auf der Rinde zu einer ausgedehnten [resupinaten](resupinat "Glossar") Fruchtschicht zusammenwachsen. Der Pilz kommt ganzjährig an Pappelarten (*Populus euroamericanus*, *Populus tremulae*) vor, sehr selten auch an anderen Laubbaumarten. Natürlich ist er auch an abgefallenen, am Boden liegenden Ästen und Zweigen zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)
 
 <div style="clear:  both"></div>
 
