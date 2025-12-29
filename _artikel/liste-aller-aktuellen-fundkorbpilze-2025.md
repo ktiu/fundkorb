@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2025
 autor_in: ""
 published: true
 ---
-29.12.2025: [Diachea leucopodia - Buckingham-Schleimpilz](/pilze/diachaea-leucopodia-buckingham-schleimpilz)  
+30.12.2025: [Biscogniauxia nummularia - Rotbuchen-Rindenkugelpilz](/pilze/biscogniauxia-nummularia-rotbuchen-rindenkugelpilz)  
+29.12.2025: [Diachea leucopodia - Buckingham-Schleimpilz](/pilze/diachaea-leucopodia-buckingham-schleimpilz)\
 28.12.2025: [Datronia mollis - Großsporige Datronia](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)\
 27.12.2025: [Antrodia xantha - Gelbe Braunfäuletramete](/pilze/antrodia-xantha-gelbe-braunfäuletramete-gelblicher-resupinatporling)\
 26.12.2025: [Trochila laurocerasi - Kirschlorbeer-Deckelbecherchen](/pilze/trochila-laurocerasi-kirschlorbeer-deckelbecherchen)\
