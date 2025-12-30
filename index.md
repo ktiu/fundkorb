@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/microsphaera_berberidis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.12.2025: Wo immer Mahonien angepflanzt sind, ist auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Mahonien-Mehltau *Microsphaera berberidis* ganzjährig zu finden. Der weiße Belag beginnt fleckenartig und breitet sich dann über die gesamte Blattoberseite aus. Die allermeisten [Mehltaupilze](/verwandt/mehltaupilze) haben sich auf eine einzige Pflanzenart spezialisiert. Weltweit gibt es über 1000 Arten. (Dieter Gewalt) [Mehr lesen >](/pilze/microsphaera-berberidis-mahonien-mehltau)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/biscogniauxia_nummularia_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
