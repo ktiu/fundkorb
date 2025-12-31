@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pleurotus_ostreatus_08_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.01.2026: Im Winter sind nur wenige Speisepilze zu finden. Der leckerste ist zweifellos unser aktueller [Fundkorbpilz](AA "Glossar-"), der Austernseitling *Pleurotus ostreatus*. Er gilt als "Kalbfleisch-Ersatz" und lässt sich auch gut kultivieren. Da er fast immer büschelweise vor allem an Rotbuchenstämmen und -stümpfen vorkommt, ist er sehr ergiebig. Wenn er mal ausbleibt, bekommt man ihn jederzeit und preiswert in Supermärkten. (Ulrike Wegner) [Mehr lesen >](/pilze/pleurotus-ostreatus-austernseitling) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/microsphaera_berberidis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,30 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 27.12.2025: *Werner Pohl* hat ihn einmal als nahezu unverwechselbar bezeichnet, unseren aktuellen [Fundkorbpilz](AA "Glossar-") *Antrodia xantha*, für den mindestens zwei deutsche Namen geläufig sind: Gelblicher Resupinatporling und Gelbe Braunfäuletramete. Mit den typischen Trameten hat er freilich keine Ähnlichkeit, wie die beigefügte Abbildung zeigt. In frischem Zustand soll er nach Zitrone riechen und bitter schmecken. (Dieter Gewalt) [Mehr lesen >](/pilze/antrodia-xantha-gelbe-braunfäuletramete-gelblicher-resupinatporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trochila_laurocerasi_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.12.2025: Solche winzige Pusteln kann man auf den Unterseiten abgefallener Blätter verschiedener Pflanzenarten finden, wozu man allerdings eine mindestens 10-fach vergrößernde Lupe zur Verfügung haben sollte. Die Kenntnis der Pflanzenart ist schon die halbe Miete zur Bestimmung des [Ascomyzeten](Ascomyzeten "Glossar"), in diesem Fall des Kirschlorbeer-Deckelbecherchens *Trochila laurocerasi*, unseres aktuellen [Fundkorbpilzes](AA "Glossar-") (Dieter Gewalt) [Mehr lesen >](/pilze/trochila-laurocerasi-kirschlorbeer-deckelbecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/panellus_serotinus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.12.2025: Aktueller Weihnachts- und [Fundkorbpilz](AA "Glossar-") ist der Gelbstielige Muschelseitling *Panellus serotinus*. Er wächst manchmal gemeinsam mit [Austernseitlingen](/pilze/pleurotus-ostreatus-austernseitling) am selben Buchenstamm und soll sogar schon mit diesem verwechselt worden sein. Das wäre fast schon so, als könnte man einen Apfel nicht von einer Orange unterscheiden. Schlimme Folgen hätte die Verwechslung nicht, aber ein Pilzgenuss wäre der Gelbstielige Muschelseitling sicher nicht. (Dieter Gewalt) [Mehr lesen >](/pilze/panellus-serotinus-gelbstieliger-muschelseitling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_pseudocorticola_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.12.2025: Auf die kleinen oder sogar winzigen [Rindenhelmlinge](/verwandt/rindenhelmlinge) wird kaum geachtet. Sie sind häufiger und hübscher als viele glauben. Ein besonders auffälliger ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blaue Rindenhelmling *Mycena pseudocorticola*. Er wächst oft scharenweise auf bemooster oder unbemooster Baumrinde. Bei uns im Dietzenbacher Carré an der Rodgaustraße ist er im Spätherbst und Winter manchmal sogar an mehreren Bäumen (u. a. Weiden und Ahorn) gleichzeitig zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-pseudocorticola-blauer-rindenhelmling) 
 
 <div style="clear:  both"></div>
 
