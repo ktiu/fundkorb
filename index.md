@@ -16,6 +16,14 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ganoderma_applanatum_07_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Flache Lackporling *Ganoderma applanatum*, einer der häufigsten großen holzbewohnenden Pilzarten. Zu seinen Merkmalen gehört die braune Kruste der Oberfläche, die sich mit dem Fingernagel eindrücken lässt. Die helle Hutunterseite lässt sich ebenfalls mit dem Fingernagel oder anderen spitzen Gegenständen ritzen. Manche Pilzfreunde malen so Bildchen auf die Porenschicht. Häufig ist sie mit Zitzengallen einer Pilzfliege besetzt, ein weiteres untrügliches Kennzeichen. (Dieter Gewalt) [Mehr lesen >](/pilze/ganoderma-applanatum-flacher-lackporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pleurotus_ostreatus_08_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -52,14 +60,6 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 {% include abbildung_ende.html %}
 
 28.12.2025: Unser aktueller [Fundkorbpilzes](AA "Glossar-"), die Großsporige Datronie (*Datronia mollis*), ist eine in Deutschland weit verbreitete und ziemlich häufige Porlingsart, aber nicht unbedingt leicht zu finden. Sie wächst nämlich bevorzugt an der Unterseite liegender Laubholzäste und -stämme, überwiegend an Rotbuche. Erscheinen die Fruchtkörper an deren Rändern, können sie auch abstehende Hutkanten bilden, eine Wuchsweise, die als [effus-reflex](effus-reflex "Glossar") bezeichnet wird. Ein gutes Kennzeichen ist ihre leichte Ablösbarkeit. (Dieter Gewalt) [Mehr lesen >](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/antrodia_xantha_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.12.2025: *Werner Pohl* hat ihn einmal als nahezu unverwechselbar bezeichnet, unseren aktuellen [Fundkorbpilz](AA "Glossar-") *Antrodia xantha*, für den mindestens zwei deutsche Namen geläufig sind: Gelblicher Resupinatporling und Gelbe Braunfäuletramete. Mit den typischen Trameten hat er freilich keine Ähnlichkeit, wie die beigefügte Abbildung zeigt. In frischem Zustand soll er nach Zitrone riechen und bitter schmecken. (Dieter Gewalt) [Mehr lesen >](/pilze/antrodia-xantha-gelbe-braunfäuletramete-gelblicher-resupinatporling)
 
 <div style="clear:  both"></div>
 
