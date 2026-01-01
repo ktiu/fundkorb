@@ -1,6 +1,6 @@
 ---
 aktivitaet: Der Wald und seine Pilze im Januar
-zeit: 2026-01-17T00:00:35.535Z
+zeit: 2026-01-17T10:00:35.535Z
 bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
