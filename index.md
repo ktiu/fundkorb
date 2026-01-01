@@ -10,7 +10,7 @@ footer_scripts:
 ---
 <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
-Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: Der Wald und seine Pilze im Januar\
+Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und seine Pilze im Januar**\
 [Hier geht's zur Anmeldung >](/termine)
 
 **Aktueller Fundkorbpilz:**
