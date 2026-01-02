@@ -16,6 +16,14 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_bisporus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.01.2026: Der wohlschmeckendste aller Champignons und aktueller [Fundkorbpilz](AA "Glossar-") ist der Zuchtchampignon, den es in einer weißen und einer braunen Variante in jedem Supermarkt preiswert und frisch zu kaufen gibt. Sein offizieller Name ist Zweisporiger Champignon (*Agaricus bisporus*). In freier Wildbahn wird man ihn nur selten zu sehen bekommen und möglichweise mit dem giftigen Karbolchampignon verwechseln. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-bisporus-zucht-champignon)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ganoderma_applanatum_07_dg.jpg" %}
 {% include abbildung_ende.html %}
 
