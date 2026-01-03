@@ -16,6 +16,14 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/haareis_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.01.2026: Den aktuellen [Fundkorbpilz](AA "Glossar-") kann ich leider nicht benennen, denn man weiß noch nicht so genau, welcher für das hier gezeigte Phänomen verantwortlich ist. Es heißt *Haareis* und kann sich unter sehr speziellen Bedingungen an Totholz bilden, die zur Zeit in vielen deutschen Wäldern gegeben sind.  (Dieter Gewalt) [Mehr lesen >](/artikel/haareis)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_bisporus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -60,14 +68,6 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 {% include abbildung_ende.html %}
 
 29.12.2025: Das Foto mag täuschen. Die [Sporocarpien](Sporocarpien "Glossar") unseres aktuellen [Fundkorbpilzes](AA "Glossar-") sind gerade mal 1 mm hoch und nur mit Lupe gut zu erkennen. Der Buckingham-Schleimpilz *Diachea leucopodia* gehört zu den etwas häufigeren [Myxomyzeten](/verwandt/schleimpilze-myxomyzeten) und ist auf toten oder lebenden Pflanzenteilen vor allem außerhalb von Wäldern zu finden. So spät im Jahr wie jetzt im Dezember dürfte wohl eine Ausnahme sein. (Dieter Gewalt) [Mehr lesen >](/pilze/diachaea-leucopodia-buckingham-schleimpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/datronia_mollis_01_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-28.12.2025: Unser aktueller [Fundkorbpilzes](AA "Glossar-"), die Großsporige Datronie (*Datronia mollis*), ist eine in Deutschland weit verbreitete und ziemlich häufige Porlingsart, aber nicht unbedingt leicht zu finden. Sie wächst nämlich bevorzugt an der Unterseite liegender Laubholzäste und -stämme, überwiegend an Rotbuche. Erscheinen die Fruchtkörper an deren Rändern, können sie auch abstehende Hutkanten bilden, eine Wuchsweise, die als [effus-reflex](effus-reflex "Glossar") bezeichnet wird. Ein gutes Kennzeichen ist ihre leichte Ablösbarkeit. (Dieter Gewalt) [Mehr lesen >](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)
 
 <div style="clear:  both"></div>
 
