@@ -65,6 +65,8 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 
 - - -
 
+[Liste aller aktuellen Fundkorbpilze 2026](/artikel/liste-aller-aktuellen-fundkorbpilze-2026)
+
 [Liste aller aktuellen Fundkorbpilze 2025](/artikel/liste-aller-aktuellen-fundkorbpilze-2025.html)
 
 [Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
