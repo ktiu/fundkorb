@@ -16,6 +16,14 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clavulina_rugosa_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+05.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Runzelige Koralle *Clavulina rugosa*. Auffällig ist, dass sie Waldwegränder bevorzugt, an denen man ihr mitunter in größeren Kolonien begegnet. Sie hat eine gewisse Ähnlichkeit mit der [Kammkoralle *Clavulina coralloides*](/pilze/clavulina-coralloides-kammkoralle), ist jedoch schlanker und länger sowie an den Spitzen nicht oder weniger stark verzweigt. Beide gelten als essbar, werden aber offenbar nicht sehr geschätzt. (Dieter Gewalt) [Mehr lesen >](/pilze/clavulina-rugosa-runzelige-koralle)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/haareis_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -52,22 +60,6 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 {% include abbildung_ende.html %}
 
 31.12.2025: Wo immer Mahonien angepflanzt sind, ist auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Mahonien-Mehltau *Microsphaera berberidis* ganzjährig zu finden. Der weiße Belag beginnt fleckenartig und breitet sich dann über die gesamte Blattoberseite aus. Die allermeisten [Mehltaupilze](/verwandt/mehltaupilze) haben sich auf eine einzige Pflanzenart spezialisiert. Weltweit gibt es über 1000 Arten. (Dieter Gewalt) [Mehr lesen >](/pilze/microsphaera-berberidis-mahonien-mehltau)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/biscogniauxia_nummularia_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.12.2025: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotbuchen-Rindenkugelpilz *Biscogniauxia nummularia*. Seine schwarzen [Perithezien](Perithezien "Glossar") erscheinen als unregelmäßige krustenartige Flecken auf der Rinde von Ästen und Stämmen von Rotbuchen. Sie könnten mit einigen Eckenscheibchen der Gattung *Diatrype* verwechselt werden, die sich aber unter der Rinde entwickeln und diese aufplatzen lassen. (Dieter Gewalt) [Mehr lesen >](/pilze/biscogniauxia-nummularia-rotbuchen-rindenkugelpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diachea_leucopodia_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.12.2025: Das Foto mag täuschen. Die [Sporocarpien](Sporocarpien "Glossar") unseres aktuellen [Fundkorbpilzes](AA "Glossar-") sind gerade mal 1 mm hoch und nur mit Lupe gut zu erkennen. Der Buckingham-Schleimpilz *Diachea leucopodia* gehört zu den etwas häufigeren [Myxomyzeten](/verwandt/schleimpilze-myxomyzeten) und ist auf toten oder lebenden Pflanzenteilen vor allem außerhalb von Wäldern zu finden. So spät im Jahr wie jetzt im Dezember dürfte wohl eine Ausnahme sein. (Dieter Gewalt) [Mehr lesen >](/pilze/diachaea-leucopodia-buckingham-schleimpilz)
 
 <div style="clear:  both"></div>
 
