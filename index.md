@@ -16,6 +16,14 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/daedaleopsis_confragosa_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.01.2026: Egal zu welcher Jahreszeit, in geeigneten Biotopen ist unser aktueller [Fundkorbpilz](AA "Glossar-"), die Rötende Tramete *Daedaleopsis confragosa*, immer an totem Holz zu finden, vor allem an Birke, Weide oder Erle. Um sie sicher zu erkennen, muss man auf dem porigen [Hymenophor](Hymenophor "Glossar") der sporenbildenden Unterseite reiben, wobei sich eine deutliche Rotfärbung zeigt. Auf die kommt es an! Das funktioniert natürlich nur bei frischen, nicht aber bei vertrockneten Fruchtkörpern. (Dieter Gewalt) [Mehr lesen >](/pilze/daedaleopsis-confragosa-rötende-tramete)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clavulina_rugosa_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
