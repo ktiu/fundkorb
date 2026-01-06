@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-06.01.2026: [Daedaleopsis confragosa - Rötende Tramete](/pilze/daedaleopsis-confragosa-rötende-tramete)  
+07.01.2026: [Inonotus radiatus - Erlen-Schillerporling](/pilze/inonotus-radiatus-erlen-schillerporling)  
+06.01.2026: [Daedaleopsis confragosa - Rötende Tramete](/pilze/daedaleopsis-confragosa-rötende-tramete)\
 05.01.2026: [Clavulina rugosa - Runzelige Koralle](/pilze/clavulina-rugosa-runzelige-koralle)\
 04.01.2025: [Haareis](/artikel/haareis)\
 03.01.2026: [Agaricus bisporus - Zucht-Champignon](/pilze/agaricus-bisporus-zucht-champignon)\
