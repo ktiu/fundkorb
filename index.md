@@ -16,6 +16,14 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/inonotus_radiatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.01.2026: Zu den Pilzen, die regelmäßig im Frankfurter Stadtwald angetroffen werden können, gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Erlen-Schillerporling *Inonotus radiatus*. Arten dieser Gattung sind an ihrer schillernden Porenschicht gut zu erkennen. Bewegt man die Unterseite eines Fruchtkörpers in wechselndem Lichteinfall zeigt sich dieses typische silbrige Glänzen oder Schillern. (Frank Kaster) [Mehr lesen >](/pilze/inonotus-radiatus-erlen-schillerporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/daedaleopsis_confragosa_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -60,14 +68,6 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 {% include abbildung_ende.html %}
 
 01.01.2026: Im Winter sind nur wenige Speisepilze zu finden. Der leckerste ist zweifellos unser aktueller [Fundkorbpilz](AA "Glossar-"), der Austernseitling *Pleurotus ostreatus*. Er gilt als "Kalbfleisch-Ersatz" und lässt sich auch gut kultivieren. Da er fast immer büschelweise vor allem an Rotbuchenstämmen und -stümpfen vorkommt, ist er sehr ergiebig. Wenn er mal ausbleibt, bekommt man ihn jederzeit und preiswert in Supermärkten. (Ulrike Wegner) [Mehr lesen >](/pilze/pleurotus-ostreatus-austernseitling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/microsphaera_berberidis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.12.2025: Wo immer Mahonien angepflanzt sind, ist auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Mahonien-Mehltau *Microsphaera berberidis* ganzjährig zu finden. Der weiße Belag beginnt fleckenartig und breitet sich dann über die gesamte Blattoberseite aus. Die allermeisten [Mehltaupilze](/verwandt/mehltaupilze) haben sich auf eine einzige Pflanzenart spezialisiert. Weltweit gibt es über 1000 Arten. (Dieter Gewalt) [Mehr lesen >](/pilze/microsphaera-berberidis-mahonien-mehltau)
 
 <div style="clear:  both"></div>
 
