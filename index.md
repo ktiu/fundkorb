@@ -16,6 +16,14 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylaria_longipes_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.01.2026: Wer unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), die vor allem an abgestorbenen Ahornästen vorkommende Langstielige Holzkeule *Xylaria longipes* noch nicht so genau kennt, sollte sie mal anschneiden. Am besten mit einem scharfen Messer, denn ihre schlanken Fruchtkörper sind so hart wie das Holz, an dem sie wachsen. Was dabei zum Vorschein kommt, ist ein Schwarzweißkontrast, wie man sich ihn besser nicht vorstellen kann. Das gilt übrigens für alle *Xylaria*-Arten. (Frank Kaster) [Mehr lesen >](/pilze/xylaria-longipes-langstielige-holzkeule)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/inonotus_radiatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -52,22 +60,6 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 {% include abbildung_ende.html %}
 
 03.01.2026: Der wohlschmeckendste aller Champignons und aktueller [Fundkorbpilz](AA "Glossar-") ist der Zuchtchampignon, den es in einer weißen und einer braunen Variante in jedem Supermarkt preiswert und frisch zu kaufen gibt. Sein offizieller Name ist Zweisporiger Champignon (*Agaricus bisporus*). In freier Wildbahn wird man ihn nur selten zu sehen bekommen und möglichweise mit dem giftigen Karbolchampignon verwechseln. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-bisporus-zucht-champignon)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ganoderma_applanatum_07_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Flache Lackporling *Ganoderma applanatum*, einer der häufigsten großen holzbewohnenden Pilzarten. Zu seinen Merkmalen gehört die braune Kruste der Oberfläche, die sich mit dem Fingernagel eindrücken lässt. Die helle Hutunterseite lässt sich ebenfalls mit dem Fingernagel oder anderen spitzen Gegenständen ritzen. Manche Pilzfreunde malen so Bildchen auf die Porenschicht. Häufig ist sie mit Zitzengallen einer Pilzfliege besetzt, ein weiteres untrügliches Kennzeichen. (Dieter Gewalt) [Mehr lesen >](/pilze/ganoderma-applanatum-flacher-lackporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pleurotus_ostreatus_08_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.01.2026: Im Winter sind nur wenige Speisepilze zu finden. Der leckerste ist zweifellos unser aktueller [Fundkorbpilz](AA "Glossar-"), der Austernseitling *Pleurotus ostreatus*. Er gilt als "Kalbfleisch-Ersatz" und lässt sich auch gut kultivieren. Da er fast immer büschelweise vor allem an Rotbuchenstämmen und -stümpfen vorkommt, ist er sehr ergiebig. Wenn er mal ausbleibt, bekommt man ihn jederzeit und preiswert in Supermärkten. (Ulrike Wegner) [Mehr lesen >](/pilze/pleurotus-ostreatus-austernseitling) 
 
 <div style="clear:  both"></div>
 
