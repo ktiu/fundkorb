@@ -16,6 +16,14 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/plicatura_crispa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchen-Adernzähling *Plicatura crispa*, der vor allem wegen seines dicht büscheligen Wachstums und seines filigran gemusterten [Hymenophors](Hymenophor "Glossar") gefällt. Der Name Buchen-Adernzähling erscheint mir nicht sehr treffend gewählt. Bei uns in der Rhein-Main-Ebene ist er, auch wenn hier kein Mangel an Buchen besteht, ganz überwiegend an Birke zu finden. Und zwar auffallend häufig und auch im Winter. (Dieter Gewalt) [Mehr lesen >](/pilze/plicatura-crispa-buchen-adernzähling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_longipes_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
