@@ -16,6 +16,14 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/diatrypella_quercina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.01.2026: Auf diesen überaus häufigen [Pyrenomyzeten](Pyrenomyzeten "Glossar") scheint der Name "Eckenscheibchen" überhaupt nicht zu passen. Die Fruchtkörper des Eichen-Eckenscheibchen *Diatrypella quercina*, unseres aktuellen Fundkorbpilzes, sind keineswegs flach wie eine Scheibe sondern rundlich geformt und brechen die Rinde von Eichenästen und -zweigen pockenartig auf. Bei der Unterscheidung von Pilzarten kommt es eben nicht immer auf die in einem Pilznamen manifestierten Merkmale an! (Dieter Gewalt) [Mehr lesen >](/pilze/diatrypella-quercina-eichen-eckenscheibchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/plicatura_crispa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -52,22 +60,6 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 {% include abbildung_ende.html %}
 
 05.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Runzelige Koralle *Clavulina rugosa*. Auffällig ist, dass sie Waldwegränder bevorzugt, an denen man ihr mitunter in größeren Kolonien begegnet. Sie hat eine gewisse Ähnlichkeit mit der [Kammkoralle *Clavulina coralloides*](/pilze/clavulina-coralloides-kammkoralle), ist jedoch schlanker und länger sowie an den Spitzen nicht oder weniger stark verzweigt. Beide gelten als essbar, werden aber offenbar nicht sehr geschätzt. (Dieter Gewalt) [Mehr lesen >](/pilze/clavulina-rugosa-runzelige-koralle)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/haareis_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.01.2026: Den aktuellen [Fundkorbpilz](AA "Glossar-") kann ich leider nicht benennen, denn man weiß noch nicht so genau, welcher für das hier gezeigte Phänomen verantwortlich ist. Es heißt *Haareis* und kann sich unter sehr speziellen Bedingungen an Totholz bilden, die zur Zeit in vielen deutschen Wäldern gegeben sind.  (Dieter Gewalt) [Mehr lesen >](/artikel/haareis)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_bisporus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.01.2026: Der wohlschmeckendste aller Champignons und aktueller [Fundkorbpilz](AA "Glossar-") ist der Zuchtchampignon, den es in einer weißen und einer braunen Variante in jedem Supermarkt preiswert und frisch zu kaufen gibt. Sein offizieller Name ist Zweisporiger Champignon (*Agaricus bisporus*). In freier Wildbahn wird man ihn nur selten zu sehen bekommen und möglichweise mit dem giftigen Karbolchampignon verwechseln. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-bisporus-zucht-champignon)
 
 <div style="clear:  both"></div>
 
