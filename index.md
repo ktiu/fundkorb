@@ -16,6 +16,14 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/arthonia_atra_03_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+11.01.2026: Als „Schriftflechte in Kleinformat“ könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Schwarze Zeichenflechte *Arthonia atra* bezeichnen. Sie ist eine weit verbreitete, gebietsweise häufige, mit Hilfe einer starken Lupe bereits vor Ort erkennbare [Krustenflechte](/verwandt/flechten). Sie wächst auf glatten Rinden von Laubbäumen wie Hainbuchen und Eschen oder auch an Weißtannen. Der hier gezeigte Fund stammt von der Rinde einer Hainbuche am nördlichen Schwarzwaldrand. (Bernd Miggel) [Mehr lesen >](/pilze/arthonia-atra-schwarze-zeichenflechte)
+
+ <div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrypella_quercina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
