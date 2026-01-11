@@ -16,6 +16,14 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylaria_hypoxylon_08_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Geweihförmige Holzkeule *Xylaria hypoxylon*, eine unverwechselbare Art, die das ganze Jahr über an totem Lauholz zu finden ist. Am häufigsten besiedelt sie scharenweise die Schnittflächen von Buchenstümpfen. Der zierliche Pilz zeigt sich in zwei unterschiedlichen Stadien. Als komplett schwarze Keulchen oder mit weißen, beim Anschnippen stäubenden Spitzen. Diese sind so vielgestaltig, dass kaum einmal eine einer anderen gleicht. (Dieter Gewalt) [Mehr lesen >](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/arthonia_atra_03_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -60,14 +68,6 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 {% include abbildung_ende.html %}
 
 06.01.2026: Egal zu welcher Jahreszeit, in geeigneten Biotopen ist unser aktueller [Fundkorbpilz](AA "Glossar-"), die Rötende Tramete *Daedaleopsis confragosa*, immer an totem Holz zu finden, vor allem an Birke, Weide oder Erle. Um sie sicher zu erkennen, muss man auf dem porigen [Hymenophor](Hymenophor "Glossar") der sporenbildenden Unterseite reiben, wobei sich eine deutliche Rotfärbung zeigt. Auf die kommt es an! Das funktioniert natürlich nur bei frischen, nicht aber bei vertrockneten Fruchtkörpern. (Dieter Gewalt) [Mehr lesen >](/pilze/daedaleopsis-confragosa-rötende-tramete)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clavulina_rugosa_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-05.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Runzelige Koralle *Clavulina rugosa*. Auffällig ist, dass sie Waldwegränder bevorzugt, an denen man ihr mitunter in größeren Kolonien begegnet. Sie hat eine gewisse Ähnlichkeit mit der [Kammkoralle *Clavulina coralloides*](/pilze/clavulina-coralloides-kammkoralle), ist jedoch schlanker und länger sowie an den Spitzen nicht oder weniger stark verzweigt. Beide gelten als essbar, werden aber offenbar nicht sehr geschätzt. (Dieter Gewalt) [Mehr lesen >](/pilze/clavulina-rugosa-runzelige-koralle)
 
 <div style="clear:  both"></div>
 
