@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-11.01.2026: [Arthonia atra - Schwarze Zeichenflechte](/pilze/arthonia-atra-schwarze-zeichenflechte)  
+12.01.2026: [Xylaria hypoxylon - Geweihförmige Holzkeule](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)  
+11.01.2026: [Arthonia atra - Schwarze Zeichenflechte](/pilze/arthonia-atra-schwarze-zeichenflechte)\
 10.01.2026: [Diatrypella quercina - Eichen-Eckenscheibchen](/pilze/diatrypella-quercina-eichen-eckenscheibchen)\
 09.01.2026: [Plicatura crispa - Buchen-Adernzähling](/pilze/plicatura-crispa-buchen-adernzähling)\
 08.01.2026: [Xylaria longipes - Langstielige Holzkeule](/pilze/xylaria-longipes-langstielige-holzkeule)\
