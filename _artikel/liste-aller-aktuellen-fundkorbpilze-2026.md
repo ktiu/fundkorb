@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-13.01.2026: [Lycoperdon perlatum - Flaschenstäubling](/pilze/lycoperdon-perlatum-flaschenstäubling)  
+14.01.2026: [Peniophora lycii - Grauer Zystidenrindenpilz](/pilze/peniophora-lycii-grauer-zystidenrindenpilz)  
+13.01.2026: [Lycoperdon perlatum - Flaschenstäubling](/pilze/lycoperdon-perlatum-flaschenstäubling)\
 12.01.2026: [Xylaria hypoxylon - Geweihförmige Holzkeule](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)\
 11.01.2026: [Arthonia atra - Schwarze Zeichenflechte](/pilze/arthonia-atra-schwarze-zeichenflechte)\
 10.01.2026: [Diatrypella quercina - Eichen-Eckenscheibchen](/pilze/diatrypella-quercina-eichen-eckenscheibchen)\
