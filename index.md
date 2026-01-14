@@ -15,7 +15,13 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 
 **Aktueller Fundkorbpilz:**
 
-15.01.2026: Egal welche Jahreszeit: Kohlenbeeren sind immer da, werden aber kaum beachtet. Aktueller Fundkorbpilz ist die Rötliche Kohlenbeere (Hypoxylon fragiforme), ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_fragiforme_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.01.2026: Egal welche Jahreszeit: Kohlenbeeren sind immer da, werden aber kaum beachtet. Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rötliche Kohlenbeere (*Hypoxylon fragiforme*), ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peniophora_lycii_02_bm.jpg" %}
