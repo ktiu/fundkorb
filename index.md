@@ -15,6 +15,8 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 
 **Aktueller Fundkorbpilz:**
 
+15.01.2026: Egal welche Jahreszeit: Kohlenbeeren sind immer da, werden aber kaum beachtet. Aktueller Fundkorbpilz ist die Rötliche Kohlenbeere (Hypoxylon fragiforme), ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peniophora_lycii_02_bm.jpg" %}
 {% include abbildung_ende.html %}
@@ -52,22 +54,6 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 {% include abbildung_ende.html %}
 
 10.01.2026: Auf diesen überaus häufigen [Pyrenomyzeten](Pyrenomyzeten "Glossar") scheint der Name "Eckenscheibchen" überhaupt nicht zu passen. Die Fruchtkörper des Eichen-Eckenscheibchen *Diatrypella quercina*, unseres aktuellen Fundkorbpilzes, sind keineswegs flach wie eine Scheibe sondern rundlich geformt und brechen die Rinde von Eichenästen und -zweigen pockenartig auf. Bei der Unterscheidung von Pilzarten kommt es eben nicht immer auf die in einem Pilznamen manifestierten Merkmale an! (Dieter Gewalt) [Mehr lesen >](/pilze/diatrypella-quercina-eichen-eckenscheibchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/plicatura_crispa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Buchen-Adernzähling *Plicatura crispa*, der vor allem wegen seines dicht büscheligen Wachstums und seines filigran gemusterten [Hymenophors](Hymenophor "Glossar") gefällt. Der Name Buchen-Adernzähling erscheint mir nicht sehr treffend gewählt. Bei uns in der Rhein-Main-Ebene ist er, auch wenn hier kein Mangel an Buchen besteht, ganz überwiegend an Birke zu finden. Und zwar auffallend häufig und auch im Winter. (Dieter Gewalt) [Mehr lesen >](/pilze/plicatura-crispa-buchen-adernzähling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_longipes_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.01.2026: Wer unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), die vor allem an abgestorbenen Ahornästen vorkommende Langstielige Holzkeule *Xylaria longipes* noch nicht so genau kennt, sollte sie mal anschneiden. Am besten mit einem scharfen Messer, denn ihre schlanken Fruchtkörper sind so hart wie das Holz, an dem sie wachsen. Was dabei zum Vorschein kommt, ist ein Schwarzweißkontrast, wie man sich ihn besser nicht vorstellen kann. Das gilt übrigens für alle *Xylaria*-Arten. (Frank Kaster) [Mehr lesen >](/pilze/xylaria-longipes-langstielige-holzkeule)
 
 <div style="clear:  both"></div>
 
