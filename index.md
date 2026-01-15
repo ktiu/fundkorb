@@ -16,6 +16,14 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_versicolor_07_xx.jpg" %}
+{% include abbildung_ende.html %}
+
+16.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Schmetterlingstramete *Trametes versicolor*, einer der häufigsten Porlinge überhaupt und flächendeckend in ganz Mitteleuropa nachgewiesen. Der Pilz hat ein breites ökologisches Spektrum und kommt vor allem an toten Laubhözern vor. Wegen seiner attraktiven Zonierung wird er gern als Dekopilz oder für Gestecke verwendet. Auch als Heil- oder Vitalpilz findet er bei diversen Therapien Anwendung, u. a. zur Stärkung des Immunsystems. (Dieter Gewalt) Mehr lesen >
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_fragiforme_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
