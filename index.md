@@ -16,6 +16,14 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/perenniporia_fraxinea_03_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+17.01.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt heute aus Straubenhardt in Baden-Württemberg. In der dortigen „Pappelallee“ sind ganzjährig am Fuß mehrerer Stämme die klobigen Fruchtkörper des Eschen-Baumschwamms *Perenniporia fraxinea* zu sehen. Sowohl der wissenschaftliche als auch der deutsche Name sind irreführend, denn die Esche ist keineswegs der Hauptwirt. Dies dürfte die Robinie sein, aber auch an Pappeln, Eichen und anderen Laubhölzern ist er zu finden. (Bernd Miggel) [Mehr lesen >](/pilze/perenniporia-fraxinea-eschen-baumschwamm) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_versicolor_07_xx.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -52,22 +60,6 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 {% include abbildung_ende.html %}
 
 12.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Geweihförmige Holzkeule *Xylaria hypoxylon*, eine unverwechselbare Art, die das ganze Jahr über an totem Lauholz zu finden ist. Am häufigsten besiedelt sie scharenweise die Schnittflächen von Buchenstümpfen. Der zierliche Pilz zeigt sich in zwei unterschiedlichen Stadien. Als komplett schwarze Keulchen oder mit weißen, beim Anschnippen stäubenden Spitzen. Diese sind so vielgestaltig, dass kaum einmal eine einer anderen gleicht. (Dieter Gewalt) [Mehr lesen >](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/arthonia_atra_03_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-11.01.2026: Als „Schriftflechte in Kleinformat“ könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Schwarze Zeichenflechte *Arthonia atra* bezeichnen. Sie ist eine weit verbreitete, gebietsweise häufige, mit Hilfe einer starken Lupe bereits vor Ort erkennbare [Krustenflechte](/verwandt/flechten). Sie wächst auf glatten Rinden von Laubbäumen wie Hainbuchen und Eschen oder auch an Weißtannen. Der hier gezeigte Fund stammt von der Rinde einer Hainbuche am nördlichen Schwarzwaldrand. (Bernd Miggel) [Mehr lesen >](/pilze/arthonia-atra-schwarze-zeichenflechte)
-
- <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diatrypella_quercina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.01.2026: Auf diesen überaus häufigen [Pyrenomyzeten](Pyrenomyzeten "Glossar") scheint der Name "Eckenscheibchen" überhaupt nicht zu passen. Die Fruchtkörper des Eichen-Eckenscheibchen *Diatrypella quercina*, unseres aktuellen Fundkorbpilzes, sind keineswegs flach wie eine Scheibe sondern rundlich geformt und brechen die Rinde von Eichenästen und -zweigen pockenartig auf. Bei der Unterscheidung von Pilzarten kommt es eben nicht immer auf die in einem Pilznamen manifestierten Merkmale an! (Dieter Gewalt) [Mehr lesen >](/pilze/diatrypella-quercina-eichen-eckenscheibchen)
 
 <div style="clear:  both"></div>
 
