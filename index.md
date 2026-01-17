@@ -16,6 +16,14 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hapalopilus_nidulans_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.01.2026: Dieser kurzlebige Porling ist in frischem Zustand innen wie außen gleichmäßig zimtbräunlich gefärbt. Wenn man ihn mit Kalilauge oder Ammoniak betupft, wird er sofort lebhaft violett. Dies ist die Merkmalskombination, an der unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zimtfarbene Weichporling *Hapalopilus nidulans* zweifelsfrei erkannt werden kann. Bliebe noch nachzutragen, dass er stark, möglicherweise sogar tödlich giftig ist. (Dieter Gewalt) [Mehr lesen >](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/perenniporia_fraxinea_03_wp.jpg" %}
 {% include abbildung_ende.html %}
 
