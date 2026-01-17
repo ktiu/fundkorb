@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-17.01.2026: [Perenniporia fraxinea - Eschen-Baumschwamm](/pilze/perenniporia-fraxinea-eschen-baumschwamm)  
+18.01.2026: [Hapalopilus nidulans - Zimtfarbener Weichporling](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)  
+17.01.2026: [Perenniporia fraxinea - Eschen-Baumschwamm](/pilze/perenniporia-fraxinea-eschen-baumschwamm)\
 16.01.2026: [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)\
 15.01.2026: [Hypoxylon fragiforme - Rötliche Kohlenbeere](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)\
 14.01.2026: [Peniophora lycii - Grauer Zystidenrindenpilz](/pilze/peniophora-lycii-grauer-zystidenrindenpilz)\
