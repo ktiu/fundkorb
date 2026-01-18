@@ -16,6 +16,14 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/auricularia_auricula-judae_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.01.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), das Judasohr *Auricularia auricula-judae*, ist ganzjährig zu finden und eine der wenigen Arten, die auch in der pilzarmen Jahreszeit für die Küche gesammelt werden können. Vor allem an altem Holunder können sie in Massen vorkommen. Dabei hat er nicht gerade viel Eigengeschmack, ist dafür aber um so vielseitiger einsetzbar und hat einen besonderen "Biss". Er gilt als Vitalpilz und wahres *"Kraftwerk für die Gesundheit"*. (Ulrike Wegner) [Mehr lesen >](/pilze/auricularia-auricula-judae-judasohr)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hapalopilus_nidulans_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -60,14 +68,6 @@ Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und
 {% include abbildung_ende.html %}
 
 13.01.2026: So sehen Flaschenstäublinge (*Lycoperdon perlatum*) mitten im Winter aus und behalten dieses Erscheinungsbild mitunter bis ins Frühjahr. Damit haben wir also einen aktuellen [Fundkorbpilz](AA "Glossar-"), der uns das ganze Jahr über begleiten kann. Essbar ist er übrigens auch und manche finden ihn sogar richtig lecker. Andere lehnen ihn strikt ab und vergleichen ihn mit Marshmallows. Kinder haben ihren Spaß mit ihnen und nennen sie gern Staubbomben oder Puffpilze. (Dieter Gewalt) [Mehr lesen >](/pilze/lycoperdon-perlatum-flaschenstäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_hypoxylon_08_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Geweihförmige Holzkeule *Xylaria hypoxylon*, eine unverwechselbare Art, die das ganze Jahr über an totem Lauholz zu finden ist. Am häufigsten besiedelt sie scharenweise die Schnittflächen von Buchenstümpfen. Der zierliche Pilz zeigt sich in zwei unterschiedlichen Stadien. Als komplett schwarze Keulchen oder mit weißen, beim Anschnippen stäubenden Spitzen. Diese sind so vielgestaltig, dass kaum einmal eine einer anderen gleicht. (Dieter Gewalt) [Mehr lesen >](/pilze/xylaria-hypoxylon-geweihförmige-holzkeule)
 
 <div style="clear:  both"></div>
 
