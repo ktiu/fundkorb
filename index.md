@@ -10,10 +10,15 @@ footer_scripts:
 ---
 <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
-Nächster Exkursionstermin ist am Samstag, 17.01.2026, 10:00 Uhr: **Der Wald und seine Pilze im Januar**\
-[Hier geht's zur Anmeldung >](/termine)
-
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/strobilurus_esculentus_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+20.01.2026: In Mitteleuropa gibt es drei Zapfenrüblingsarten, die sich visuell nicht unterscheiden. Wachsen sie früh im Jahr auf Fichtenzapfen ist es unser aktueller [Fundkorbpilz](AA "Glossar-"), der Fichtenzapfenrübling *Strobilurus esculentus*, der sogar essbar ist. Wenn man Glück hat, kann sich das Sammeln lohnen, auch wenn an einem einzelnen Hütchen nicht viel dran ist und die zähen Stiele weggelassen werden sollten. Auf einem Zapfen können bis zu 20 einzelne Fruchtkörper vorkommen. (Dieter Gewalt) [Mehr lesen >](/pilze/strobilurus-esculentus-fichtenzapfenrübling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/auricularia_auricula-judae_03_dg.jpg" %}
