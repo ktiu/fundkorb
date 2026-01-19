@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-19.01.2026: [Auricularia auricula-judae - Judasohr](/pilze/auricularia-auricula-judae-judasohr)  
+20.01.2025: [Strobilurus esculentus - Fichtenzapfenrübling](/pilze/strobilurus-esculentus-fichtenzapfenrübling)  
+19.01.2026: [Auricularia auricula-judae - Judasohr](/pilze/auricularia-auricula-judae-judasohr)\
 18.01.2026: [Hapalopilus nidulans - Zimtfarbener Weichporling](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)\
 17.01.2026: [Perenniporia fraxinea - Eschen-Baumschwamm](/pilze/perenniporia-fraxinea-eschen-baumschwamm)\
 16.01.2026: [Trametes versicolor - Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete)\
