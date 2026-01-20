@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/nectria_cinnabarina_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zinnoberrote Pustelpilz *Nectria cinnabarina*. Er gehört zu den [Ascomyzeten](Ascomyzeten "Glossar") (Schlauchpilzen) und erscheint in einer seltenen Haupt- und einer sehr häufigen Nebenfruchtform. Abgebildet ist letztere, die als hell-oranges bis rosafarbenes [Konidienstadium](Konidien "Glossar") erscheint und berindete Laubholzäste und -zweige in ganzer Länge besiedeln kann. Die einzelnen Pusteln haben Durchmesser von 0,2 bis 1 mm Durchmesser. Die sexuelle Hauptfruchtform wird nur wenig größer und erinnert im Aussehen an winzige Himbeeren. (Dieter Gewalt) [Mehr lesen >](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/strobilurus_esculentus_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,30 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 16.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Schmetterlingstramete *Trametes versicolor*, einer der häufigsten Porlinge überhaupt und flächendeckend in ganz Mitteleuropa nachgewiesen. Der Pilz hat ein breites ökologisches Spektrum und kommt vor allem an toten Laubhözern vor. Wegen seiner attraktiven Zonierung wird er gern als Dekopilz oder für Gestecke verwendet. Auch als Heil- oder Vitalpilz findet er bei diversen Therapien Anwendung, u. a. zur Stärkung des Immunsystems. (Dieter Gewalt) [Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_fragiforme_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.01.2026: Egal welche Jahreszeit: Kohlenbeeren sind immer da, werden aber kaum beachtet. Aktueller [Fundkorbpilz](AA "Glossar-") ist die Rötliche Kohlenbeere (*Hypoxylon fragiforme*), ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_lycii_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-14.01.2026: Etwa 30 Peniophora-Arten sind in Europa nachgewiesen und eine der weniger bekannten ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Der Graue Zystidenrindenpilz *Peniophora lycii* kommt ganz überwiegend an Laubholz vor und hat ein enormes Wirtsspektrum, zu dem sogar verholzte Kräuterstängel gehören. Gefunden habe ich das hier abgebildete Exemplar im NSG Essigberg bei Keltern im Enzkreis an einem morschen am Boden liegenden Walnuss-Ast. (Bernd Miggel) [Mehr lesen >](/pilze/peniophora-lycii-grauer-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lycoperdon_perlatum_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.01.2026: So sehen Flaschenstäublinge (*Lycoperdon perlatum*) mitten im Winter aus und behalten dieses Erscheinungsbild mitunter bis ins Frühjahr. Damit haben wir also einen aktuellen [Fundkorbpilz](AA "Glossar-"), der uns das ganze Jahr über begleiten kann. Essbar ist er übrigens auch und manche finden ihn sogar richtig lecker. Andere lehnen ihn strikt ab und vergleichen ihn mit Marshmallows. Kinder haben ihren Spaß mit ihnen und nennen sie gern Staubbomben oder Puffpilze. (Dieter Gewalt) [Mehr lesen >](/pilze/lycoperdon-perlatum-flaschenstäubling)
 
 <div style="clear:  both"></div>
 
