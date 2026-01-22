@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pseudevernia_furfuracea_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+23.01.2026: Zu den besonders attraktiven Flechten gehören die Strauchflechten, und eine der auffälligsten, die Gabelflechte *Pseudevernia furfuracea*, ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Sie wächst gern auf Silikatgestein, aber auch auf der Rinde verschiedener Baumarten, am Stamm und bis hinauf in die Kronen. Ihr [Thallus](Thallus "Glossar") kann bis zu 10 cm groß werden und ist nur an einer einzigen kleinen Stelle am Substrat befestigt. Seine strauchartig verzweigten Äste sind grau und vielfach mit sogenannten [Isidien](Isidien "Glossar") besetzt, die man am besten mit der Lupe betrachtet. (Dieter Gewalt) [Mehr lesen >](/pilze/pseudevernia-furfuracea-gabelflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/fomitopsis_pinicola_02_bz.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,22 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 18.01.2026: Dieser kurzlebige Porling ist in frischem Zustand innen wie außen gleichmäßig zimtbräunlich gefärbt. Wenn man ihn mit Kalilauge oder Ammoniak betupft, wird er sofort lebhaft violett. Dies ist die Merkmalskombination, an der unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zimtfarbene Weichporling *Hapalopilus nidulans* zweifelsfrei erkannt werden kann. Bliebe noch nachzutragen, dass er stark, möglicherweise sogar tödlich giftig ist. (Dieter Gewalt) [Mehr lesen >](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/perenniporia_fraxinea_03_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-17.01.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt heute aus Straubenhardt in Baden-Württemberg. In der dortigen „Pappelallee“ sind ganzjährig am Fuß mehrerer Stämme die klobigen Fruchtkörper des Eschen-Baumschwamms *Perenniporia fraxinea* zu sehen. Sowohl der wissenschaftliche als auch der deutsche Name sind irreführend, denn die Esche ist keineswegs der Hauptwirt. Dies dürfte die Robinie sein, aber auch an Pappeln, Eichen und anderen Laubhölzern ist er zu finden. (Bernd Miggel) [Mehr lesen >](/pilze/perenniporia-fraxinea-eschen-baumschwamm) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_versicolor_07_xx.jpg" %}
-{% include abbildung_ende.html %}
-
-16.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Schmetterlingstramete *Trametes versicolor*, einer der häufigsten Porlinge überhaupt und flächendeckend in ganz Mitteleuropa nachgewiesen. Der Pilz hat ein breites ökologisches Spektrum und kommt vor allem an toten Laubhözern vor. Wegen seiner attraktiven Zonierung wird er gern als Dekopilz oder für Gestecke verwendet. Auch als Heil- oder Vitalpilz findet er bei diversen Therapien Anwendung, u. a. zur Stärkung des Immunsystems. (Dieter Gewalt) [Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
 
 <div style="clear:  both"></div>
 
