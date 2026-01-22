@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-22.01.2026: [Fomitopsis pinicola - Rotrandiger Baumschwamm](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)  
+23.01.2026: [Pseudevernia furfuracea - Gabelflechte](/pilze/pseudevernia-furfuracea-gabelflechte)  
+22.01.2026: [Fomitopsis pinicola - Rotrandiger Baumschwamm](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)\
 21.01.2026: [Nectria cinnabarina - Zinnoberroter Pustelpilz](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)\
 20.01.2025: [Strobilurus esculentus - Fichtenzapfenrübling](/pilze/strobilurus-esculentus-fichtenzapfenrübling)\
 19.01.2026: [Auricularia auricula-judae - Judasohr](/pilze/auricularia-auricula-judae-judasohr)\
