@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_insignitum_02_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+24.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze wachsen ausschließlich an Totholz und sind daher das ganze Jahr über zu finden. Sie zeichen sich durch ein glattes, höchstens runzeliges [Hymenophor](Hymenophor "Glossar") aus. Der Doppelgänger des Braunsamtigen ist der [Samtige Schichtpilz Stereum subtomentosum](/pilze/stereum-subtomentosum-samtiger-schichtpilz). Beide sind hübsche Dekopilze und mit bloßem Auge kaum zu unterscheiden. (Dieter Gewalt) [Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pseudevernia_furfuracea_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,14 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 19.01.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), das Judasohr *Auricularia auricula-judae*, ist ganzjährig zu finden und eine der wenigen Arten, die auch in der pilzarmen Jahreszeit für die Küche gesammelt werden können. Vor allem an altem Holunder können sie in Massen vorkommen. Dabei hat er nicht gerade viel Eigengeschmack, ist dafür aber um so vielseitiger einsetzbar und hat einen besonderen "Biss". Er gilt als Vitalpilz und wahres *"Kraftwerk für die Gesundheit"*. (Ulrike Wegner) [Mehr lesen >](/pilze/auricularia-auricula-judae-judasohr)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hapalopilus_nidulans_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.01.2026: Dieser kurzlebige Porling ist in frischem Zustand innen wie außen gleichmäßig zimtbräunlich gefärbt. Wenn man ihn mit Kalilauge oder Ammoniak betupft, wird er sofort lebhaft violett. Dies ist die Merkmalskombination, an der unser aktueller [Fundkorbpilz](AA "Glossar-"), der Zimtfarbene Weichporling *Hapalopilus nidulans* zweifelsfrei erkannt werden kann. Bliebe noch nachzutragen, dass er stark, möglicherweise sogar tödlich giftig ist. (Dieter Gewalt) [Mehr lesen >](/pilze/hapalopilus-nidulans-zimtfarbener-weichporling)
 
 <div style="clear:  both"></div>
 
