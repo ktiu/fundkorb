@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ceriporiopsis_gilvescens_02_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+25.01.2026: Ein recht seltener und wenig bekannter Porling ist der Fleckende Wachsporenschwamm *Ceriporiopsis gilvescens*, unser aktueller [Fundkorbpilz](AA "Glossar-"), der im Frankfurter Stadtwald immer mal wieder zu finden ist. Er wächst [resupinat](resupinat "Glossar") oder krustenförmig an totem Laubholz, meist an Buche. Auf Druck verfärben sich die weichen, weißlich-rosa bis fleischfarbenen Poren bräunlich. (Dieter Gewalt) [Mehr lesen >](/pilze/ceriporiopsis-gilvescens-fleckender-harzporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_insignitum_02_wp.jpg" %}
 {% include abbildung_ende.html %}
 
