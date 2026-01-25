@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_varius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.01.2026: Einer der häufigen Stielporlinge ist an seinem schlanken, in der unteren Hälfte schwarzen Stiel und den sehr feinen Poren zu erkennen. Es ist der Löwengelbe Porling *Polyporus varius* (anderer Name: *Polyporus leptocephalus*) , unserer heutiger  aktueller [Fundkorbpilz](AA "Glossar-"). Er ist ganzjährig an totem Laubholz zu finden, überwiegend Buche. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-varius-löwengelber-porling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ceriporiopsis_gilvescens_02_wp.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -57,14 +65,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 20.01.2026: In Mitteleuropa gibt es drei Zapfenrüblingsarten, die sich visuell nicht unterscheiden. Wachsen sie früh im Jahr auf Fichtenzapfen ist es unser aktueller [Fundkorbpilz](AA "Glossar-"), der Fichtenzapfenrübling *Strobilurus esculentus*, der sogar essbar ist. Wenn man Glück hat, kann sich das Sammeln lohnen, auch wenn an einem einzelnen Hütchen nicht viel dran ist und die zähen Stiele weggelassen werden sollten. Auf einem Zapfen können bis zu 20 einzelne Fruchtkörper vorkommen. (Dieter Gewalt) [Mehr lesen >](/pilze/strobilurus-esculentus-fichtenzapfenrübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/auricularia_auricula-judae_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.01.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), das Judasohr *Auricularia auricula-judae*, ist ganzjährig zu finden und eine der wenigen Arten, die auch in der pilzarmen Jahreszeit für die Küche gesammelt werden können. Vor allem an altem Holunder können sie in Massen vorkommen. Dabei hat er nicht gerade viel Eigengeschmack, ist dafür aber um so vielseitiger einsetzbar und hat einen besonderen "Biss". Er gilt als Vitalpilz und wahres *"Kraftwerk für die Gesundheit"*. (Ulrike Wegner) [Mehr lesen >](/pilze/auricularia-auricula-judae-judasohr)
 
 <div style="clear:  both"></div>
 
