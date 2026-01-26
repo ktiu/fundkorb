@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/xanthoria_parietina_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-27.01.2026: Flechten dringen nicht mit Wurzeln oder [Myzelien](Myzel "Glossar") in das Substrat ein, auf dem sie wachsen. Sie halten sich nur daran fest, wie auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Gewöhnliche Gelbflechte *Xanthoria parietina*. Sie wächst an Holz, an Mauern, auf Stein und Asphalt und sogar an Metall. Sie gehört zu den häufigsten Arten in Deutschland und auch zu den wenigen, die man optisch gut erkennen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/xanthoria-parietina)
+27.01.2026: [Flechten](/verwandt/flechten) dringen nicht mit Wurzeln oder [Myzelien](Myzel "Glossar") in das Substrat ein, auf dem sie wachsen. Sie halten sich nur daran fest, wie auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Gewöhnliche Gelbflechte *Xanthoria parietina*. Sie wächst an Holz, an Mauern, auf Stein und Asphalt und sogar an Metall. Sie gehört zu den häufigsten Arten in Deutschland und auch zu den wenigen, die man optisch gut erkennen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/xanthoria-parietina)
 
 <div style="clear:  both"></div>
 
