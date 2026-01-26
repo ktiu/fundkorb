@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xanthoria_parietina_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.01.2026: Flechten dringen nicht mit Wurzeln oder [Myzelien](Myzel "Glossar") in das Substrat ein, auf dem sie wachsen. Sie halten sich nur daran fest, wie auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Gewöhnliche Gelbflechte *Xanthoria parietina*. Sie wächst an Holz, an Mauern, auf Stein und Asphalt und sogar an Metall. Sie gehört zu den häufigsten Arten in Deutschland und auch zu den wenigen, die man optisch gut erkennen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/xanthoria-parietina)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_varius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,22 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 22.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotrandige Baumschwamm *Fomitopsis pinicola*. Der Artname pinicola besagt, dass es sich um eine an Kiefern wachsende Art handelt. Das stimmt so nicht. Die Liste seiner Wirtsbäume, an denen er sowohl parasitisch als auch [saprobiontisch](saprobiontisch "Glossar") wächst, liest sich fast wie eine Aufzählung aller in Mitteleuropa vorkommenden Baumarten. Manchmal erscheinen die Farben auf seiner Oberfläche in der Reihenfolge schwarz-rot-gold. Von einem roten Rand ist oft nichts zu sehen. (Dieter Gewalt) [Mehr lesen >](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/nectria_cinnabarina_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zinnoberrote Pustelpilz *Nectria cinnabarina*. Er gehört zu den [Ascomyzeten](Ascomyzeten "Glossar") (Schlauchpilzen) und erscheint in einer seltenen Haupt- und einer sehr häufigen Nebenfruchtform. Abgebildet ist letztere, die als hell-oranges bis rosafarbenes [Konidienstadium](Konidien "Glossar") erscheint und berindete Laubholzäste und -zweige in ganzer Länge besiedeln kann. Die einzelnen Pusteln haben Durchmesser von 0,2 bis 1 mm Durchmesser. Die sexuelle Hauptfruchtform wird nur wenig größer und erinnert im Aussehen an winzige Himbeeren. (Dieter Gewalt) [Mehr lesen >](/pilze/nectria-cinnabarina-zinnoberroter-pustelpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/strobilurus_esculentus_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-20.01.2026: In Mitteleuropa gibt es drei Zapfenrüblingsarten, die sich visuell nicht unterscheiden. Wachsen sie früh im Jahr auf Fichtenzapfen ist es unser aktueller [Fundkorbpilz](AA "Glossar-"), der Fichtenzapfenrübling *Strobilurus esculentus*, der sogar essbar ist. Wenn man Glück hat, kann sich das Sammeln lohnen, auch wenn an einem einzelnen Hütchen nicht viel dran ist und die zähen Stiele weggelassen werden sollten. Auf einem Zapfen können bis zu 20 einzelne Fruchtkörper vorkommen. (Dieter Gewalt) [Mehr lesen >](/pilze/strobilurus-esculentus-fichtenzapfenrübling)
 
 <div style="clear:  both"></div>
 
