@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lophodermium_-pinastri_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.01.2026: Die Kiefernnadel-Spaltlippe *Lophodermium pinastri,* unser aktueller [Fundkorbpilz](AA "Glossar-"), ist auf den paarweise angeordneten Kiefernnadeln am Boden zu finden. Die Bezeichnung „Spaltlippe“ beschreibt sehr schön das Aussehen dieser schwarzen Fruchtkörperchen, die in langen Reihen auf den Innenseiten der Nadeln angeordnet sind. Sie sind stets durch eine dünne dunkle Linie voneinander getrennt. An diesem Merkmal sind sie gut von den [Kiefernschütte-Spaltlippen Lophodermium seditiosum](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe) zu unterscheiden. (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xanthoria_parietina_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
