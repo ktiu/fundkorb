@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_brumalis_03_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+26.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Winterporling *Polyporus brumalis*, eine häufige Art, die saprobiontisch an Ästen, Zweigen oder Stubben von Laubhölzern wächst. Ab März/April, wenn auch der [Maiporling](/pilze/polyporus-ciliatus-maiporling) erscheint, könnte man ihn mit diesem verwechseln. Genaues Hinschauen hilft, dies zu vermeiden. Der Winterporling hat deutlich größere Poren als der Maiporling, dessen Poren so winzig sind, dass sie mit bloßem Auge kaum zu erkennen sind. Beide sind sehr zäh und kommen daher als Speisepilze nicht in Frage. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lophodermium_-pinastri_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,22 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 24.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze wachsen ausschließlich an Totholz und sind daher das ganze Jahr über zu finden. Sie zeichen sich durch ein glattes, höchstens runzeliges [Hymenophor](Hymenophor "Glossar") aus. Der Doppelgänger des Braunsamtigen ist der [Samtige Schichtpilz Stereum subtomentosum](/pilze/stereum-subtomentosum-samtiger-schichtpilz). Beide sind hübsche Dekopilze und mit bloßem Auge kaum zu unterscheiden. (Dieter Gewalt) [Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pseudevernia_furfuracea_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-23.01.2026: Zu den besonders attraktiven Flechten gehören die Strauchflechten, und eine der auffälligsten, die Gabelflechte *Pseudevernia furfuracea*, ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Sie wächst gern auf Silikatgestein, aber auch auf der Rinde verschiedener Baumarten, am Stamm und bis hinauf in die Kronen. Ihr [Thallus](Thallus "Glossar") kann bis zu 10 cm groß werden und ist nur an einer einzigen kleinen Stelle am Substrat befestigt. Seine strauchartig verzweigten Äste sind grau und vielfach mit sogenannten [Isidien](Isidien "Glossar") besetzt, die man am besten mit der Lupe betrachtet. (Dieter Gewalt) [Mehr lesen >](/pilze/pseudevernia-furfuracea-gabelflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/fomitopsis_pinicola_02_bz.jpg" %}
-{% include abbildung_ende.html %}
-
-22.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rotrandige Baumschwamm *Fomitopsis pinicola*. Der Artname pinicola besagt, dass es sich um eine an Kiefern wachsende Art handelt. Das stimmt so nicht. Die Liste seiner Wirtsbäume, an denen er sowohl parasitisch als auch [saprobiontisch](saprobiontisch "Glossar") wächst, liest sich fast wie eine Aufzählung aller in Mitteleuropa vorkommenden Baumarten. Manchmal erscheinen die Farben auf seiner Oberfläche in der Reihenfolge schwarz-rot-gold. Von einem roten Rand ist oft nichts zu sehen. (Dieter Gewalt) [Mehr lesen >](/pilze/fomitopsis-pinicola-rotrandiger-baumschwamm)
 
 <div style="clear:  both"></div>
 
