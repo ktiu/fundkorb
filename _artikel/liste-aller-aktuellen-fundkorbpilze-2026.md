@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-28.01.2026: [Lophodermium pinastri - Kiefernnadel-Spaltlippe](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)  
+29.01.2026: [Polyporus brumalis - Winterporling](/pilze/polyporus-brumalis-winterporling)  
+28.01.2026: [Lophodermium pinastri - Kiefernnadel-Spaltlippe](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)\
 27.01.2026: [Xanthoria parietina - Gewöhnliche Gelbflechte](/pilze/xanthoria-parietina)\
 26.01.2026: [Polyporus varius - Löwengelber Porling](/pilze/polyporus-varius-löwengelber-porling)\
 25.01.2026: [Ceriporiosis gilvescens - Fleckender Haarzporling](/pilze/ceriporiopsis-gilvescens-fleckender-harzporling)\
