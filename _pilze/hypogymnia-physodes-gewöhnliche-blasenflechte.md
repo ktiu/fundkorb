@@ -59,4 +59,4 @@ Die  [Röhrige Blasenflechte (*Hypogymnia tubulosa*)](/pilze/hypogymnia-tubulosa
 Die [Mehlige Blasenflechte (*Hypogymnia farinacea*)](/pilze/hypogymnia-farinacea-mehlige-blasenflechte) ist ebenfalls p-Phenylendiamin-negativ und hat zur Thallus-Mitte hin diffuse Flächensorale.\
 Andere graue Blattflechten besitzen keine schwarze und gleichzeitig rhizinenlose Unterseite.
 
-Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/pilze/hypogymnia-physodes-gewöhnliche-blasenflechte)
+Wenn Sie mehr über Flechten wissen wollen - [hier erfahren Sie es >](/verwandt/flechten)
