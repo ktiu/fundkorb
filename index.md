@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypogymnia_physodes_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+30.01.2026: Zu den Pilzen, die ganzjährig zu finden sind, gehören die Flechten. Eine der häufigsten ist die Gewöhnliche Blattflechte *Hypogymnia physodes*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Um die optisch relevanten Merkmale am Fundort zu erkennen, sollte man eine stark vergrößernde Lupe dabei haben. Das allein reicht in der Regel aber nicht für eine sichere Bestimmung. Auch Mikromerkmale und unterschiedliche chemische Reaktionen spielen eine entscheidende Rolle. (Dieter Gewalt) [Mehr lesen >](/pilze/hypogymnia-physodes-gewöhnliche-blasenflechte) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_brumalis_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
