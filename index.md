@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/spongipellis_pachyodon_06_eh.jpg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.01.2026: Nein, das ist kein Stachelbart! Auch wenn man den Dickstacheligen Schwammporling (*Spongipellis pachyodon*) auf den ersten Blick dafür halten könnte. Für mich ist es immer wieder ein beeindruckendes Erlebnis, einen zu finden. Dieser ganzjährig [pileat](pileat "Glossar") oder [resupinat](resupinat "Glossar") an lebendem und totem Laubholz wachsende aktuelle [Fundkorbpilz](AA "Glossar-") gilt als selten, hat im Rhein-Main-Gebiet aber immerhin einen Verbreitungsschwerpunkt. (Dieter Gewalt) [Mehr lesen >](/pilze/spongipellis-pachyodon-dickstacheliger-schwammporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypogymnia_physodes_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -57,14 +65,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 25.01.2026: Ein recht seltener und wenig bekannter Porling ist der Fleckende Harzporling *Ceriporiopsis gilvescens*, unser aktueller [Fundkorbpilz](AA "Glossar-"), der im Frankfurter Stadtwald immer mal wieder zu finden ist. Er wächst [resupinat](resupinat "Glossar") oder krustenförmig an totem Laubholz, meist an Buche. Auf Druck verfärben sich die weichen, weißlich-rosa bis fleischfarbenen Poren bräunlich. (Dieter Gewalt) [Mehr lesen >](/pilze/ceriporiopsis-gilvescens-fleckender-harzporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_insignitum_02_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-24.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Braunsamtige Schichtpilz *Stereum insignitum*. Schichtpilze wachsen ausschließlich an Totholz und sind daher das ganze Jahr über zu finden. Sie zeichen sich durch ein glattes, höchstens runzeliges [Hymenophor](Hymenophor "Glossar") aus. Der Doppelgänger des Braunsamtigen ist der [Samtige Schichtpilz Stereum subtomentosum](/pilze/stereum-subtomentosum-samtiger-schichtpilz). Beide sind hübsche Dekopilze und mit bloßem Auge kaum zu unterscheiden. (Dieter Gewalt) [Mehr lesen >](/pilze/stereum-insignitum-braunsamtiger-schichtpilz-prächtiger-schichtpilz)
 
 <div style="clear:  both"></div>
 
