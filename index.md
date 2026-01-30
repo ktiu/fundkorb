@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/spongipellis_pachyodon_06_eh.jpg.jpg" %}
 {% include abbildung_ende.html %}
 
-31.01.2026: Nein, das ist kein Stachelbart! Auch wenn man den Dickstacheligen Schwammporling (*Spongipellis pachyodon*) auf den ersten Blick dafür halten könnte. Für mich ist es immer wieder ein beeindruckendes Erlebnis, einen zu finden. Dieser ganzjährig [pileat](pileat "Glossar") oder [resupinat](resupinat "Glossar") an lebendem und totem Laubholz wachsende aktuelle [Fundkorbpilz](AA "Glossar-") gilt als selten, hat im Rhein-Main-Gebiet aber immerhin einen Verbreitungsschwerpunkt. (Dieter Gewalt) [Mehr lesen >](/pilze/spongipellis-pachyodon-dickstacheliger-schwammporling)
+31.01.2026: Nein, das ist <ins>kein</ins> Stachelbart! Auch wenn man den Dickstacheligen Schwammporling (*Spongipellis pachyodon*) auf den ersten Blick dafür halten könnte. Für mich ist es immer wieder ein beeindruckendes Erlebnis, einen zu finden. Dieser ganzjährig [pileat](pileat "Glossar") oder [resupinat](resupinat "Glossar") an lebendem und totem Laubholz wachsende aktuelle [Fundkorbpilz](AA "Glossar-") gilt als selten, hat im Rhein-Main-Gebiet aber immerhin einen Verbreitungsschwerpunkt. (Dieter Gewalt) [Mehr lesen >](/pilze/spongipellis-pachyodon-dickstacheliger-schwammporling)
 
 <div style="clear:  both"></div>
 
