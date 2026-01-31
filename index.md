@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/bispora_antennata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.02.2026: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-") werden die meisten Pilzfreunde gar nicht als Pilz wahrnehmen. Seinen deutschen aber sehr passenden Namen hat *Bispora antennata* erst in jüngerer Zeit erhalten: Tintenstrahlpilz (seit es Tintenstrahldrucker gibt!). Er ist sehr häufig und  überall zu finden, wo es Schnittflächen von Buchenstämmen (Buchenstümpfe) gibt. (Dieter Gewalt) [Mehr lesen >](/pilze/bispora-antennata-tintenstrahlpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/spongipellis_pachyodon_06_eh.jpg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,22 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 27.01.2026: [Flechten](/verwandt/flechten) dringen nicht mit Wurzeln oder [Myzelien](Myzel "Glossar") in das Substrat ein, auf dem sie wachsen. Sie halten sich nur daran fest, wie auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Gewöhnliche Gelbflechte *Xanthoria parietina*. Sie wächst an Holz, an Mauern, auf Stein und Asphalt und sogar an Metall. Sie gehört zu den häufigsten Arten in Deutschland und auch zu den wenigen, die man optisch gut erkennen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/xanthoria-parietina)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_varius_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.01.2026: Einer der häufigen Stielporlinge ist an seinem schlanken, in der unteren Hälfte schwarzen Stiel und den sehr feinen Poren zu erkennen. Es ist der Löwengelbe Porling *Polyporus varius* (anderer Name: *Polyporus leptocephalus*) , unserer heutiger  aktueller [Fundkorbpilz](AA "Glossar-"). Er ist ganzjährig an totem Laubholz zu finden, überwiegend Buche. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-varius-löwengelber-porling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ceriporiopsis_gilvescens_02_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-25.01.2026: Ein recht seltener und wenig bekannter Porling ist der Fleckende Harzporling *Ceriporiopsis gilvescens*, unser aktueller [Fundkorbpilz](AA "Glossar-"), der im Frankfurter Stadtwald immer mal wieder zu finden ist. Er wächst [resupinat](resupinat "Glossar") oder krustenförmig an totem Laubholz, meist an Buche. Auf Druck verfärben sich die weichen, weißlich-rosa bis fleischfarbenen Poren bräunlich. (Dieter Gewalt) [Mehr lesen >](/pilze/ceriporiopsis-gilvescens-fleckender-harzporling)
 
 <div style="clear:  both"></div>
 
