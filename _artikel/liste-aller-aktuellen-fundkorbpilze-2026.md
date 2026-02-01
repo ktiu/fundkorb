@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
+02.02.2026: [Hypocrea pulvinata - Birkenporling-Kissenpustelpilz](/pilze/hypocrea-pulvinata-birkenporling-kissenpustelpilz)  
 01.02.2026: [Bispora antennata - Tintenstrahlpilz](/pilze/bispora-antennata-tintenstrahlpilz)
 
 31.01.2026: [Spongipellis pachyodon - Dickstacheliger Schwammporling](/pilze/spongipellis-pachyodon-dickstacheliger-schwammporling)\
