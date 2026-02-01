@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypocrea_pulvinata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.02.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenporling-Kissenpustelpilz *Hypocrea pulvinata*. Er erscheint auf der Unterseite seines Wirts, dem [Birkenporling Piptoporus betulinus](/pilze/piptoporus-betulinus-birkenporling), wenn dieser seine besten Tage längst hinter sich hat und am Vergammeln ist, also im Winter oder darauffolgenden Frühjahr. Die herdenweise auftretenden kleinen gelben Polster oder Kissen sind sehr auffällig und praktisch unverwechselbar. (Dieter Gewalt) [Mehr lesen >](/pilze/hypocrea-pulvinata-birkenporling-kissenpustelpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bispora_antennata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,14 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 28.01.2026: Die Kiefernnadel-Spaltlippe *Lophodermium pinastri,* unser aktueller [Fundkorbpilz](AA "Glossar-"), ist auf den paarweise angeordneten Kiefernnadeln am Boden zu finden. Die Bezeichnung „Spaltlippe“ beschreibt sehr schön das Aussehen dieser schwarzen Fruchtkörperchen, die in langen Reihen auf den Innenseiten der Nadeln angeordnet sind. Sie sind stets durch eine dünne dunkle Linie voneinander getrennt. An diesem Merkmal sind sie gut von den [Kiefernschütte-Spaltlippen Lophodermium seditiosum](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe) zu unterscheiden. (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-pinastri-kiefernnadel-spaltlippe)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xanthoria_parietina_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.01.2026: [Flechten](/verwandt/flechten) dringen nicht mit Wurzeln oder [Myzelien](Myzel "Glossar") in das Substrat ein, auf dem sie wachsen. Sie halten sich nur daran fest, wie auch unser aktueller [Fundkorbpilz](AA "Glossar-"), die Gewöhnliche Gelbflechte *Xanthoria parietina*. Sie wächst an Holz, an Mauern, auf Stein und Asphalt und sogar an Metall. Sie gehört zu den häufigsten Arten in Deutschland und auch zu den wenigen, die man optisch gut erkennen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/xanthoria-parietina)
 
 <div style="clear:  both"></div>
 
