@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-03.02.2026: [Auricularia mesenterica - Gezonter Ohrlappenpilz](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)  
+04.02.2026: [Lecanora muralis - Mauer-Flechte](/pilze/lecanora-muralis-mauer-flechte)  
+03.02.2026: [Auricularia mesenterica - Gezonter Ohrlappenpilz](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)\
 02.02.2026: [Hypocrea pulvinata - Birkenporling-Kissenpustelpilz](/pilze/hypocrea-pulvinata-birkenporling-kissenpustelpilz)\
 01.02.2026: [Bispora antennata - Tintenstrahlpilz](/pilze/bispora-antennata-tintenstrahlpilz)
 
