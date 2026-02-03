@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lecanora_murali_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.02.2026: Man braucht nur ein paar Schritte aus dem Haus zu gehen, um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Mauer-Flechte *Lecanora muralis* zu sehen. Obwohl diese auffällige überall auf Gestein, Pflastern, Gehwegsplatten, Asphalt, an Mauern, seltener und reduziert auch an Bäumen wachsende Krustenflechte völlig zurecht als „[Allerweltsflechte“ ](/verwandt/flechten)bezeichnet werden kann, wird sie kaum beachtet. Ihre [Lager](Lager "Glossar") erreichen Durchmesser von bis zu 15 Zentimetern, die [Apothecien](Apothecien "Glossar") sind nur mit Lupe deutlich zu erkennen. Das beigefügte Foto ist signifikant vergrößert. (Dieter Gewalt) [Mehr lesen >](/pilze/lecanora-muralis-mauer-flechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/auricularia_mesenterica_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
