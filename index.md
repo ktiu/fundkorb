@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/daedalea_quercina_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.02.2026: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") (Eichenwirrling *Daedalea quercina*) ist in Europa die einzige Art dieser Gattung. Der lateinische Name *Daedalea* spielt auf die griechische Mythologie an: Dädalus (gr.: Daidalos) baute das Labyrinth für den Minotaurus. Und an ein Labyrinth erinnert das grob lamellig-labyrinthische [Hymenophor](Hymenophor "Glossar") der ansonsten unscheinbaren hellbraunen Fruchtkörper. Der Pilz ist wegen der korkartigen Konsistenz des Fruchtfleisches ungenießbar. (Ulrike Wegner) [Mehr lesen >](/pilze/daedalea-quercina-eichenwirrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lecanora_murali_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -57,14 +65,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 30.01.2026: Zu den Pilzen, die ganzjährig zu finden sind, gehören die [Flechten](/verwandt/flechten). Eine der häufigsten ist die Gewöhnliche Blasenflechte *Hypogymnia physodes*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Um die optisch relevanten Merkmale am Fundort zu erkennen, sollte man eine stark vergrößernde Lupe dabei haben. Das allein reicht in der Regel aber nicht für eine sichere Bestimmung. Auch Mikromerkmale und unterschiedliche chemische Reaktionen spielen eine entscheidende Rolle. (Dieter Gewalt) [Mehr lesen >](/pilze/hypogymnia-physodes-gewöhnliche-blasenflechte) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_brumalis_03_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-29.01.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Winterporling *Polyporus brumalis*, eine häufige Art, die saprobiontisch an Ästen, Zweigen oder Stubben von Laubhölzern wächst. Ab März/April, wenn auch der [Maiporling](/pilze/polyporus-ciliatus-maiporling) erscheint, könnte man ihn mit diesem verwechseln. Genaues Hinschauen hilft, dies zu vermeiden. Der Winterporling hat deutlich größere Poren als der Maiporling, dessen Poren so winzig sind, dass sie mit bloßem Auge kaum zu erkennen sind. Beide sind sehr zäh und kommen daher als Speisepilze nicht in Frage. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-brumalis-winterporling)
 
 <div style="clear:  both"></div>
 
