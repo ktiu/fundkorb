@@ -13,7 +13,7 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/antrodiella_semisupina_03_wp.jpg" %}
+{% include bild.html datei="/bilder/antrodiella_semisupina_01_wp.jpg" %}
 {% include abbildung_ende.html %}
 
 06.02.2026: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), die Knorpelige Tramete *Antrodiella semisupina*, ist ein ziemlich kleiner zäher Porling, der dachziegelig oder [resupinat](resupinat "Glossar") vor allem an totem Buchenholz zu finden ist, und das sogar an liegenden Ästchen. Die sichere Bestimmung ist nicht ganz einfach. Es kommt u. a. auf Mikromerkmale wie Sporenform und -größe und das Vorhandensein von Bindehyphen an. (Dieter Gewalt) [Mehr lesen >](/pilze/antrodiella-semisupina-knorpelige-tramete)
