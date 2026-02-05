@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/antrodiella_semisupina_03_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+06.02.2026: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), die Knorpelige Tramete *Antrodiella semisupina*, ist ein ziemlich kleiner zäher Porling, der dachziegelig oder [resupinat](resupinat "Glossar") vor allem an totem Buchenholz zu finden ist, und das sogar an liegenden Ästchen. Die sichere Bestimmung ist nicht ganz einfach. Es kommt u. a. auf Mikromerkmale wie Sporenform und -größe und das Vorhandensein von Bindehyphen an. (Dieter Gewalt) [Mehr lesen >](/pilze/antrodiella-semisupina-knorpelige-tramete)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/daedalea_quercina_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -57,14 +65,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 31.01.2026: Nein, das ist <ins>kein</ins> Stachelbart! Auch wenn man den Dickstacheligen Schwammporling (*Spongipellis pachyodon*) auf den ersten Blick dafür halten könnte. Für mich ist es immer wieder ein beeindruckendes Erlebnis, einen zu finden. Dieser ganzjährig [pileat](pileat "Glossar") oder [resupinat](resupinat "Glossar") an lebendem und totem Laubholz wachsende aktuelle [Fundkorbpilz](AA "Glossar-") gilt als selten, hat im Rhein-Main-Gebiet aber immerhin einen Verbreitungsschwerpunkt. (Dieter Gewalt) [Mehr lesen >](/pilze/spongipellis-pachyodon-dickstacheliger-schwammporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypogymnia_physodes_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-30.01.2026: Zu den Pilzen, die ganzjährig zu finden sind, gehören die [Flechten](/verwandt/flechten). Eine der häufigsten ist die Gewöhnliche Blasenflechte *Hypogymnia physodes*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Um die optisch relevanten Merkmale am Fundort zu erkennen, sollte man eine stark vergrößernde Lupe dabei haben. Das allein reicht in der Regel aber nicht für eine sichere Bestimmung. Auch Mikromerkmale und unterschiedliche chemische Reaktionen spielen eine entscheidende Rolle. (Dieter Gewalt) [Mehr lesen >](/pilze/hypogymnia-physodes-gewöhnliche-blasenflechte) 
 
 <div style="clear:  both"></div>
 
