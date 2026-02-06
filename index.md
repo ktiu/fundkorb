@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/candida-albicans_01_xx.jpg" %}
+{% include abbildung_ende.html %}
+
+07.02.2026: Weil in freier Natur zur Zeit nur wenige Pilze zu finden sind, greife ich heute auf einen zurück, den wir wohl alle in uns haben: *Candida albicans*, der *Soorpilz*. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist so winzig, dass man ihn nur mit dem Mikroskop sehen kann. Er hilft uns bei der Verdauung, kann aber auch Entzündungen im Magen-Darm-Trakt oder Überwucherungen auf der Zunge verursachen. (Dieter Gewalt) [Mehr lesen >](/pilze/candida-albicans-soorpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/antrodiella_semisupina_01_wp.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,22 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 02.02.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenporling-Kissenpustelpilz *Hypocrea pulvinata*. Er erscheint auf der Unterseite seines Wirts, dem [Birkenporling Piptoporus betulinus](/pilze/piptoporus-betulinus-birkenporling), wenn dieser seine besten Tage längst hinter sich hat und am Vergammeln ist, also im Winter oder darauffolgenden Frühjahr. Die herdenweise auftretenden kleinen gelben Polster oder Kissen sind sehr auffällig und praktisch unverwechselbar. (Dieter Gewalt) [Mehr lesen >](/pilze/hypocrea-pulvinata-birkenporling-kissenpustelpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bispora_antennata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.02.2026: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-") werden die meisten Pilzfreunde gar nicht als Pilz wahrnehmen. Seinen deutschen aber sehr passenden Namen hat *Bispora antennata* erst in jüngerer Zeit erhalten: Tintenstrahlpilz (seit es Tintenstrahldrucker gibt!). Er ist sehr häufig und  überall zu finden, wo es Schnittflächen von Buchenstämmen (Buchenstümpfe) gibt. (Dieter Gewalt) [Mehr lesen >](/pilze/bispora-antennata-tintenstrahlpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/spongipellis_pachyodon_06_eh.jpg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.01.2026: Nein, das ist <ins>kein</ins> Stachelbart! Auch wenn man den Dickstacheligen Schwammporling (*Spongipellis pachyodon*) auf den ersten Blick dafür halten könnte. Für mich ist es immer wieder ein beeindruckendes Erlebnis, einen zu finden. Dieser ganzjährig [pileat](pileat "Glossar") oder [resupinat](resupinat "Glossar") an lebendem und totem Laubholz wachsende aktuelle [Fundkorbpilz](AA "Glossar-") gilt als selten, hat im Rhein-Main-Gebiet aber immerhin einen Verbreitungsschwerpunkt. (Dieter Gewalt) [Mehr lesen >](/pilze/spongipellis-pachyodon-dickstacheliger-schwammporling)
 
 <div style="clear:  both"></div>
 
