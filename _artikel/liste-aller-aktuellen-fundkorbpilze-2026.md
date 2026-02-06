@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-06.02.2026: [Antrodiella semisupina - Knorpelige Tramete](/pilze/antrodiella-semisupina-knorpelige-tramete)  
+07.02.2026: [Candida albicans - Soorpilz](/pilze/candida-albicans-soorpilz)  
+06.02.2026: [Antrodiella semisupina - Knorpelige Tramete](/pilze/antrodiella-semisupina-knorpelige-tramete)\
 05.02.2026: [Daedalea quercina - Eichenwirrling](/pilze/daedalea-quercina-eichenwirrling)\
 04.02.2026: [Lecanora muralis - Mauer-Flechte](/pilze/lecanora-muralis-mauer-flechte)\
 03.02.2026: [Auricularia mesenterica - Gezonter Ohrlappenpilz](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)\
