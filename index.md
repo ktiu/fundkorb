@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cladonia_portentosa_01_lh.jpeg" %}
+{% include abbildung_ende.html %}
+
+08.02.2026: Eine attraktive aber leider seltene und im Bestand gefährdete [Flechte](/verwandt/flechten) ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). In einem lichten Kiefernwald im Nordschwarzwald fanden wir die Ebenästige Rentierflechte *Cladonia portentosa* auf einem völlig vermorschten und mit Moos zugewachsenen Baumstumpf. Um die Bestimmung abzusichern, wurden die Astspitzen mit der Lupe begutachtet und makrochemische Tüpfelreaktionen mit Kalilauge und Phenylendiamin vorgenommen. (Bernd Miggel) [Mehr lesen >](/verwandt/flechten)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/candida-albicans_01_xx.jpg" %}
 {% include abbildung_ende.html %}
 
