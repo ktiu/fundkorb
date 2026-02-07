@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/cladonia_portentosa_01_lh.jpeg" %}
 {% include abbildung_ende.html %}
 
-08.02.2026: Eine attraktive aber leider seltene und im Bestand gefährdete [Flechte](/verwandt/flechten) ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). In einem lichten Kiefernwald im Nordschwarzwald fanden wir die Ebenästige Rentierflechte *Cladonia portentosa* auf einem völlig vermorschten und mit Moos zugewachsenen Baumstumpf. Um die Bestimmung abzusichern, wurden die Astspitzen mit der Lupe begutachtet und makrochemische Tüpfelreaktionen mit Kalilauge und Phenylendiamin vorgenommen. (Bernd Miggel) [Mehr lesen >](/verwandt/flechten)
+08.02.2026: Eine attraktive aber leider seltene und im Bestand gefährdete [Flechte](/verwandt/flechten) ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). In einem lichten Kiefernwald im Nordschwarzwald fanden wir die Ebenästige Rentierflechte *Cladonia portentosa* auf einem völlig vermorschten und mit Moos zugewachsenen Baumstumpf. Um die Bestimmung abzusichern, wurden die Astspitzen mit der Lupe begutachtet und makrochemische Tüpfelreaktionen mit Kalilauge und Phenylendiamin vorgenommen. (Bernd Miggel) [Mehr lesen >](/pilze/cladonia-portentosa-ebenästige-rentierflechte)
 
 <div style="clear:  both"></div>
 
