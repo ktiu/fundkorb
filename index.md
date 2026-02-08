@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_sanguinolentum_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.02.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutende Nadelholzschichtpilz *Stereum sanguinolentum*. Totes Fichtenholz, an dem er seine Fruchtkörper bilden kann, gibt ja zur Genüge. Das kennzeichnende Bluten kann wie auf dem Foto zu sehen durch Ritzen des glatten [Hymeniums](Hymenium "Glossar") mit dem Fingernagel oder einem Messer verursacht werden. Funktioniert allerdings nur bei frischen, nicht bei vetrockneten Fruchtkörpern. (Dieter Gewalt) [Mehr lesen >](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cladonia_portentosa_01_lh.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -49,22 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 04.02.2026: Man braucht nur ein paar Schritte aus dem Haus zu gehen, um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Mauer-Flechte *Lecanora muralis* zu sehen. Obwohl diese auffällige überall auf Gestein, Pflastern, Gehwegsplatten, Asphalt, an Mauern, seltener und reduziert auch an Bäumen wachsende Krustenflechte völlig zurecht als „[Allerweltsflechte“ ](/verwandt/flechten)bezeichnet werden kann, wird sie kaum beachtet. Ihre [Lager](Lager "Glossar") erreichen Durchmesser von bis zu 15 Zentimetern, die [Apothecien](Apothecien "Glossar") sind nur mit Lupe deutlich zu erkennen. Das beigefügte Foto ist signifikant vergrößert. (Dieter Gewalt) [Mehr lesen >](/pilze/lecanora-muralis-mauer-flechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/auricularia_mesenterica_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.02.2026: Bei oberflächlicher Betrachtung könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den gezonten Ohrlappenpilz *Auricularia mesenterica*, mit einer Schmetterlingstramete verwechseln. Bei näherem Hinschauen fällt zunächst seine zottig-filzige, fast samtartige Oberfläche auf. Ihn verrät jedoch die gallertartig aufgequollene Konsistenz und runzlige Struktur der Unterseite, die seine Verwandtschaft mit dem ebenfalls ganzjährig vorkommenden [Judasohr](/pilze/auricularia-auricula-judae-judasohr) erkennen lässt. Wie dieses gehört das „falsche Judasohr“ zur Gattung der Ohrenpilze, taugt jedoch nicht für die Küche. (Ulrike Wegner) [Mehr lesen >](/pilze/auricularia-mesenterica-gezonter-ohrlappenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypocrea_pulvinata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.02.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Birkenporling-Kissenpustelpilz *Hypocrea pulvinata*. Er erscheint auf der Unterseite seines Wirts, dem [Birkenporling Piptoporus betulinus](/pilze/piptoporus-betulinus-birkenporling), wenn dieser seine besten Tage längst hinter sich hat und am Vergammeln ist, also im Winter oder darauffolgenden Frühjahr. Die herdenweise auftretenden kleinen gelben Polster oder Kissen sind sehr auffällig und praktisch unverwechselbar. (Dieter Gewalt) [Mehr lesen >](/pilze/hypocrea-pulvinata-birkenporling-kissenpustelpilz)
 
 <div style="clear:  both"></div>
 
