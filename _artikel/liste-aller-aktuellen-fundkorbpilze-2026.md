@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-08.02.2026: [Cladonia portentosa - Ebenästige Rentierflechte](/pilze/cladonia-portentosa-ebenästige-rentierflechte)  
+09.02.2026: [Stereum sanguinolentum - Blutender Nadelholzschichtpilz](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)  
+08.02.2026: [Cladonia portentosa - Ebenästige Rentierflechte](/pilze/cladonia-portentosa-ebenästige-rentierflechte)\
 07.02.2026: [Candida albicans - Soorpilz](/pilze/candida-albicans-soorpilz)\
 06.02.2026: [Antrodiella semisupina - Knorpelige Tramete](/pilze/antrodiella-semisupina-knorpelige-tramete)\
 05.02.2026: [Daedalea quercina - Eichenwirrling](/pilze/daedalea-quercina-eichenwirrling)\
