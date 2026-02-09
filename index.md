@@ -16,9 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/cumminsiella_mirabilissima_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-10.02.2026: Aktueller [Fundkorbpilz](AA "Glossar -") ist der Mahonienrost *Cumminsiella mirabilissima*, der häufig gemeinsam mit dem [Mahonien-Mehltau *Microsphaera berberidis*](/pilze/microsphaera-berberidis-mahonien-mehltau) auf den stacheligen Blättern der Mahonie zu sehen ist. Er gehört zu den Endoparasiten, das sind Organismen, die im Inneren ihres Wirtes leben, ihre Sporenlager aber außerhalb bilden. Er ist überall in Parkanlagen und Gärten zu finden, wo die Gewöhnliche Mahonie (*Mahonia aquifolium*) angepflanzt ist. (Dieter Gewalt) 
-
-[Mehr lesen >](/pilze/cumminsiella-mirabilissima-mahonienrost)
+10.02.2026: Aktueller [Fundkorbpilz](AA "Glossar -") ist der Mahonienrost *Cumminsiella mirabilissima*, der häufig gemeinsam mit dem [Mahonien-Mehltau *Microsphaera berberidis*](/pilze/microsphaera-berberidis-mahonien-mehltau) auf den stacheligen Blättern der Mahonie zu sehen ist. Er gehört zu den Endoparasiten, das sind Organismen, die im Inneren ihres Wirtes leben, ihre Sporenlager aber außerhalb bilden. Er ist überall in Parkanlagen und Gärten zu finden, wo die Gewöhnliche Mahonie (*Mahonia aquifolium*) angepflanzt ist. (Dieter Gewalt) [Mehr lesen >](/pilze/cumminsiella-mirabilissima-mahonienrost)
 
 <div style="clear:  both"></div>
 
