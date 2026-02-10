@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-10.02.2026: [Cumminsiella mirabilissima - Mahonienrost](/pilze/cumminsiella-mirabilissima-mahonienrost)  
+11.02-2026: [Panellus stipticus - Herber Zwergknäueling](/pilze/panellus-stipticus-herber-zwergknäueling)  
+10.02.2026: [Cumminsiella mirabilissima - Mahonienrost](/pilze/cumminsiella-mirabilissima-mahonienrost)\
 09.02.2026: [Stereum sanguinolentum - Blutender Nadelholzschichtpilz](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)\
 08.02.2026: [Cladonia portentosa - Ebenästige Rentierflechte](/pilze/cladonia-portentosa-ebenästige-rentierflechte)\
 07.02.2026: [Candida albicans - Soorpilz](/pilze/candida-albicans-soorpilz)\
