@@ -12,6 +12,14 @@ footer_scripts:
 
 **Aktueller Fundkorbpilz:**
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/panellus_stipticus_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+11.02.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Herbe Zwergknäueling *Panellus stipticus*, kommt im Herbst und Winter vornehmlich an Eichen- und Buchenstümpfen vor und wächst oft am Rand der Schnittflächen. Die Geschmacksprobe fällt eher mild aus, dann scharf statt herb. Ob er wie ein amerikanischer Stamm dieser Art zum Leuchten fähig ist, scheint ungeklärt zu sein. “Foxfire” oder *“shining wood”*, also „leuchtendes Holz“, bezeichnet die Biolumineszenz von bestimmten, auf verrottendem Holz wachsenden Pilzen. Beim Herben Zwergknäueling sollen sowohl [Myzel](Myzel "Glossar") als auch Fruchtkörper im Dunkeln leuchten. (Ulrike Wegner) [Mehr lesen >](/pilze/panellus-stipticus-herber-zwergknäueling)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cumminsiella_mirabilissima_02_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -52,29 +60,11 @@ footer_scripts:
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/daedalea_quercina_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.02.2026: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-") (Eichenwirrling *Daedalea quercina*) ist in Europa die einzige Art dieser Gattung. Der lateinische Name *Daedalea* spielt auf die griechische Mythologie an: Dädalus (gr.: Daidalos) baute das Labyrinth für den Minotaurus. Und an ein Labyrinth erinnert das grob lamellig-labyrinthische [Hymenophor](Hymenophor "Glossar") der ansonsten unscheinbaren hellbraunen Fruchtkörper. Der Pilz ist wegen der korkartigen Konsistenz des Fruchtfleisches ungenießbar. (Ulrike Wegner) [Mehr lesen >](/pilze/daedalea-quercina-eichenwirrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lecanora_murali_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.02.2026: Man braucht nur ein paar Schritte aus dem Haus zu gehen, um unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Mauer-Flechte *Lecanora muralis* zu sehen. Obwohl diese auffällige überall auf Gestein, Pflastern, Gehwegsplatten, Asphalt, an Mauern, seltener und reduziert auch an Bäumen wachsende Krustenflechte völlig zurecht als „[Allerweltsflechte“ ](/verwandt/flechten)bezeichnet werden kann, wird sie kaum beachtet. Ihre [Lager](Lager "Glossar") erreichen Durchmesser von bis zu 15 Zentimetern, die [Apothecien](Apothecien "Glossar") sind nur mit Lupe deutlich zu erkennen. Das beigefügte Foto ist signifikant vergrößert. (Dieter Gewalt) [Mehr lesen >](/pilze/lecanora-muralis-mauer-flechte)
-
-<div style="clear:  both"></div>
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2026](/artikel/liste-aller-aktuellen-fundkorbpilze-2026)
 
 [Liste aller aktuellen Fundkorbpilze 2025](/artikel/liste-aller-aktuellen-fundkorbpilze-2025.html)
-
-[Liste aller aktuellen Fundkorbpilze 2024](/artikel/liste-aller-aktuellen-fundkorbpilze-2024.html)
 
 - - -
 
