@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylaria_polymorpha_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.02.2026: Wenn ein Pilz den Beinahmen „vielgestaltig“ verdient, dann unser aktueller [Fundkorbpilz](AA "Glossar-"), die Vielgestltige Holzkeule *Xylaria polymorpha*. Am besten, Sie begeben sich direkt auf unsere [Porträtseite](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule), um sich anhand von 18 Fotos von der schier unglaublichen Formenvariabilität beeindrucken zu lassen. Zu erwähnen wäre auch der erstaunliche Schwarz/Weiß-Farbkontrast der Fruchtkörper, den man beim Anschneiden erkennt. (Dieter Gewalt) [Mehr lesen >](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/panellus_stipticus_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
