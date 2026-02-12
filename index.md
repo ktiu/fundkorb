@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/crepidotus_cesatii_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.02.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Kugelsporige Stummelfüßchen *Crepidotus cesatii*, gefunden an einem dünnen Laubholzästchen. Da die hübschen kleinen Pilzchen mit dem Hutscheitel am Substrat angewachsen sind, benötigen sie keine Stiele. Evolutionär bedingt ist manchmal noch ein stummeliger Rest davon zu erkennen, etwa so, wie manche Tiere am derzeitigen Ende ihrer Entwicklungsgeschichte noch ein kleines Stummelschwänzchen haben. Am häufigsten ist wohl die hier vorgestellte Art. Sie ist von einigen nahe verwandten optisch kaum zu unterscheiden. Um sicher zu gehen, ist ein wenig Mikroskopieraufwand erforderlich. (Dieter Gewalt) [Mehr lesen > ](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_polymorpha_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,22 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 08.02.2026: Eine attraktive aber leider seltene und im Bestand gefährdete [Flechte](/verwandt/flechten) ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). In einem lichten Kiefernwald im Nordschwarzwald fanden wir die Ebenästige Rentierflechte *Cladonia portentosa* auf einem völlig vermorschten und mit Moos zugewachsenen Baumstumpf. Um die Bestimmung abzusichern, wurden die Astspitzen mit der Lupe begutachtet und makrochemische Tüpfelreaktionen mit Kalilauge und Phenylendiamin vorgenommen. (Bernd Miggel) [Mehr lesen >](/pilze/cladonia-portentosa-ebenästige-rentierflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/candida-albicans_01_xx.jpg" %}
-{% include abbildung_ende.html %}
-
-07.02.2026: Weil in freier Natur zur Zeit nur wenige Pilze zu finden sind, greife ich heute auf einen zurück, den wir wohl alle in uns haben: *Candida albicans*, der *Soorpilz*. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist so winzig, dass man ihn nur mit dem Mikroskop sehen kann. Er hilft uns bei der Verdauung, kann aber auch Entzündungen im Magen-Darm-Trakt oder Überwucherungen auf der Zunge verursachen. (Dieter Gewalt) [Mehr lesen >](/pilze/candida-albicans-soorpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/antrodiella_semisupina_01_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-06.02.2026: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), die Knorpelige Tramete *Antrodiella semisupina*, ist ein ziemlich kleiner zäher Porling, der dachziegelig oder [resupinat](resupinat "Glossar") vor allem an totem Buchenholz zu finden ist, und das sogar an liegenden Ästchen. Die sichere Bestimmung ist nicht ganz einfach. Es kommt u. a. auf Mikromerkmale wie Sporenform und -größe und das Vorhandensein von Bindehyphen an. (Dieter Gewalt) [Mehr lesen >](/pilze/antrodiella-semisupina-knorpelige-tramete)
 
 <div style="clear:  both"></div>
 
