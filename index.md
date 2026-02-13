@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.02.2026: Der aktuelle [Fundkorbpilz](AA "Glossar-"), der Samtfuß- oder Winterrübling *Flammulina velutipes* benötigt als Starthilfe eine niedrige Temperatur um die 0 Grad Celsius, um seine Fruchtkörper mit ihrem honiggelben Hut ausbilden zu können. Ein typischer Winterpilz für die Küche mit eingebautem Frostschutz. Der meist büschelig an Totholz wachsende Pilz ist am häufigsten an Weide und Buche zu finden. (Ulrike Wegner) [Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/crepidotus_cesatii_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
