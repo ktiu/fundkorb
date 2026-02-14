@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-14.02.2026: [Flammulina velutipes - Samtfußrübling](/pilze/flammulina-velutipes-samtfußrübling)  
+15.02.2026: [Phellinus punctatuts - Polsterförmiger Feuerschwamm](/pilze/phellinus-punctatus-polsterförmiger-feuerschwamm)  
+14.02.2026: [Flammulina velutipes - Samtfußrübling](/pilze/flammulina-velutipes-samtfußrübling)\
 13.02.2026: [Crepidotus cesatii - Kugelsporiges Stummelfüßchen](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)\
 12.02.2026: [Xylaria polymorpha - Vielgestaltige Holzkeule](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)\
 11.02.2026: [Panellus stipticus - Herber Zwergknäueling](/pilze/panellus-stipticus-herber-zwergknäueling)\
