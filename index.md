@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_punctatus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.02.2026: Wenn ich mich bei einem Spaziergang dem Dietzenbacher Wollwiesenteich nähere, weiß ich schon vorher, wo ich hinzuschauen habe, um unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-") zu finden. Da stehen nahe am Ufer etliche Weiden und an einer ist der Polsterförmige Feuerschwamm *Phellinus punctatus* auf der rissigen Borke. Seine erwartete Anwesenheit ist leicht zu erklären. Alle Phellinus-Arten bilden mehrjährige Fruchtkörper. Sie sind über längere Zeiträume an ihrem eroberten Substrat vorhanden.  (Dieter Gewalt) [Mehr lesen >](/pilze/phellinus-punctatus-polsterförmiger-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,22 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 10.02.2026: Aktueller [Fundkorbpilz](AA "Glossar -") ist der Mahonienrost *Cumminsiella mirabilissima*, der häufig gemeinsam mit dem [Mahonien-Mehltau *Microsphaera berberidis*](/pilze/microsphaera-berberidis-mahonien-mehltau) auf den stacheligen Blättern der Mahonie zu sehen ist. Er gehört zu den Endoparasiten, das sind Organismen, die im Inneren ihres Wirtes leben, ihre Sporenlager aber außerhalb bilden. Er ist überall in Parkanlagen und Gärten zu finden, wo die Gewöhnliche Mahonie (*Mahonia aquifolium*) angepflanzt ist. (Dieter Gewalt) [Mehr lesen >](/pilze/cumminsiella-mirabilissima-mahonienrost)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_sanguinolentum_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.02.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutende Nadelholzschichtpilz *Stereum sanguinolentum*. Totes Fichtenholz, an dem er seine Fruchtkörper bilden kann, gibt ja zur Genüge. Das kennzeichnende Bluten kann wie auf dem Foto zu sehen durch Ritzen des glatten [Hymeniums](Hymenium "Glossar") mit dem Fingernagel oder einem Messer verursacht werden. Funktioniert allerdings nur bei frischen, nicht bei vetrockneten Fruchtkörpern. (Dieter Gewalt) [Mehr lesen >](/pilze/stereum-sanguinolentum-blutender-nadelholzschichtpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cladonia_portentosa_01_lh.jpeg" %}
-{% include abbildung_ende.html %}
-
-08.02.2026: Eine attraktive aber leider seltene und im Bestand gefährdete [Flechte](/verwandt/flechten) ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). In einem lichten Kiefernwald im Nordschwarzwald fanden wir die Ebenästige Rentierflechte *Cladonia portentosa* auf einem völlig vermorschten und mit Moos zugewachsenen Baumstumpf. Um die Bestimmung abzusichern, wurden die Astspitzen mit der Lupe begutachtet und makrochemische Tüpfelreaktionen mit Kalilauge und Phenylendiamin vorgenommen. (Bernd Miggel) [Mehr lesen >](/pilze/cladonia-portentosa-ebenästige-rentierflechte)
 
 <div style="clear:  both"></div>
 
