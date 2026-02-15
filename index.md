@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/antrodia_serialis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.02.2026: Wenn sich Pilze in ihrer Wuchsform dem Substrat, auf dem sie wachsen, anpassen und dabei auch noch in vielfältiger Weise ihr Erscheinungsbild verändern, kann dies die Bestimmung erschweren. Das ist zum Beispiel beim hier gezeigten aktuellen [Fundkorbpilz](AA "Glossar-"), der Reihigen Tramete *Antrodia serialis*, der Fall. Sie kann an Schnittflächen ausgedehnte [resupinate](resupinat "Glossar") Beläge aber auch [effus-reflex](effus-reflex "Glossar") wachsende und deutlich abstehende Hutkanten bilden. (Dieter Gewalt) [Mehr lesen >](/pilze/antrodia-serialis-reihige-tramete)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_punctatus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
