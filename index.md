@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/exidia_truncata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.02.2026: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), der Abgestutzte Drüsling *Exidia truncata*, verwirrt in mehrfacher Hinsicht. Einerseits wird er auch als *Exidia glandulosa* bezeichnet; das Synonym war früher dem [Warzigen Drüsling *Exidia plana*](/pilze/exidia-plana-warziger-drüsling) vorbehalten. Andererseits verwirrt er durch sein Aussehen. Er sieht manchmal aus wie ein "schwarzes" [Judasohr](/pilze/auricularia-auricula-judae-judasohr). Auch der braune [Kreisel-Drüsling *Exidia recisa*](/pilze/exidia-recisa-kreisel-drüsling-weidendrüsling) kann an ein Ohr erinnern. Deutlich lässt sich bei den Drüslingen aber die namensgebende körnig-warzige Unterseite erkennen. Beide eignen sich - anders als das Judasohr - jedoch nicht für die Küche. (Ulrike Wegner) [Mehr lesen >](/pilze/exidia-truncata-abgestutzter-drüsling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/antrodia_serialis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -57,14 +65,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 11.02.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Herbe Zwergknäueling *Panellus stipticus*, kommt im Herbst und Winter vornehmlich an Eichen- und Buchenstümpfen vor und wächst oft am Rand der Schnittflächen. Die Geschmacksprobe fällt eher mild aus, dann scharf statt herb. Ob er wie ein amerikanischer Stamm dieser Art zum Leuchten fähig ist, scheint ungeklärt zu sein. “Foxfire” oder *“shining wood”*, also „leuchtendes Holz“, bezeichnet die Biolumineszenz von bestimmten, auf verrottendem Holz wachsenden Pilzen. Beim Herben Zwergknäueling sollen sowohl [Myzel](Myzel "Glossar") als auch Fruchtkörper im Dunkeln leuchten. (Ulrike Wegner) [Mehr lesen >](/pilze/panellus-stipticus-herber-zwergknäueling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cumminsiella_mirabilissima_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.02.2026: Aktueller [Fundkorbpilz](AA "Glossar -") ist der Mahonienrost *Cumminsiella mirabilissima*, der häufig gemeinsam mit dem [Mahonien-Mehltau *Microsphaera berberidis*](/pilze/microsphaera-berberidis-mahonien-mehltau) auf den stacheligen Blättern der Mahonie zu sehen ist. Er gehört zu den Endoparasiten, das sind Organismen, die im Inneren ihres Wirtes leben, ihre Sporenlager aber außerhalb bilden. Er ist überall in Parkanlagen und Gärten zu finden, wo die Gewöhnliche Mahonie (*Mahonia aquifolium*) angepflanzt ist. (Dieter Gewalt) [Mehr lesen >](/pilze/cumminsiella-mirabilissima-mahonienrost)
 
 <div style="clear:  both"></div>
 
