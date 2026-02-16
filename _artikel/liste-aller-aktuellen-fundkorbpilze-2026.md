@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-16.02.2026: [Antrodia serialis - Reihige Tramete](/pilze/antrodia-serialis-reihige-tramete)  
+17.02.2026: [Exidia truncata - Abgestutzter Drüsling](/pilze/exidia-truncata-abgestutzter-drüsling)  
+16.02.2026: [Antrodia serialis - Reihige Tramete](/pilze/antrodia-serialis-reihige-tramete)\
 15.02.2026: [Phellinus punctatuts - Polsterförmiger Feuerschwamm](/pilze/phellinus-punctatus-polsterförmiger-feuerschwamm)\
 14.02.2026: [Flammulina velutipes - Samtfußrübling](/pilze/flammulina-velutipes-samtfußrübling)\
 13.02.2026: [Crepidotus cesatii - Kugelsporiges Stummelfüßchen](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)\
