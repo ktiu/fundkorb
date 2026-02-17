@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/graphis_scripta_03_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+18.02.2026: Flechten können monatelange Trockenheit schadlos überstehen. Zu den wenigen, die recht gut optisch zu bestimmen sind, gehört die Schriftflechte *Graphis scripta*. Um diesen aktuellen [Fundkorbpilz](AA "Glossar-") zu erkennen, muss man ihn allerdings mit einer Lupe betrachten. Die strichförmigen, oft geschlängelten und verzweigten im [Thallus](<Thallus "Glossar">) eingesenkten [Apothecien](<Apothecien "Glossar">) erinnern tatsächlich an geheimnisvolle Schriftzeichen oder Runen. Man findet sie auf der Rinde von Laubbäumen. (Dieter Gewalt) [Mehr lesen >](/pilze/graphis-scripta-schriftflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/exidia_truncata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -57,14 +65,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 12.02.2026: Wenn ein Pilz den Beinahmen „vielgestaltig“ verdient, dann unser aktueller [Fundkorbpilz](AA "Glossar-"), die Vielgestltige Holzkeule *Xylaria polymorpha*. Am besten, Sie begeben sich direkt auf unsere [Porträtseite](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule), um sich anhand von 18 Fotos von der schier unglaublichen Formenvariabilität beeindrucken zu lassen. Zu erwähnen wäre auch der erstaunliche Schwarz/Weiß-Farbkontrast der Fruchtkörper, den man beim Anschneiden erkennt. (Dieter Gewalt) [Mehr lesen >](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/panellus_stipticus_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-11.02.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Herbe Zwergknäueling *Panellus stipticus*, kommt im Herbst und Winter vornehmlich an Eichen- und Buchenstümpfen vor und wächst oft am Rand der Schnittflächen. Die Geschmacksprobe fällt eher mild aus, dann scharf statt herb. Ob er wie ein amerikanischer Stamm dieser Art zum Leuchten fähig ist, scheint ungeklärt zu sein. “Foxfire” oder *“shining wood”*, also „leuchtendes Holz“, bezeichnet die Biolumineszenz von bestimmten, auf verrottendem Holz wachsenden Pilzen. Beim Herben Zwergknäueling sollen sowohl [Myzel](Myzel "Glossar") als auch Fruchtkörper im Dunkeln leuchten. (Ulrike Wegner) [Mehr lesen >](/pilze/panellus-stipticus-herber-zwergknäueling)
 
 <div style="clear:  both"></div>
 
