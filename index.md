@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/graphis_scripta_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
-18.02.2026: Flechten können monatelange Trockenheit schadlos überstehen. Zu den wenigen, die recht gut optisch zu bestimmen sind, gehört die Schriftflechte *Graphis scripta*. Um diesen aktuellen [Fundkorbpilz](AA "Glossar-") zu erkennen, muss man ihn allerdings mit einer Lupe betrachten. Die strichförmigen, oft geschlängelten und verzweigten im [Thallus](<Thallus "Glossar">) eingesenkten [Apothecien](<Apothecien "Glossar">) erinnern tatsächlich an geheimnisvolle Schriftzeichen oder Runen. Man findet sie auf der Rinde von Laubbäumen. (Dieter Gewalt) [Mehr lesen >](/pilze/graphis-scripta-schriftflechte)
+18.02.2026: Flechten können monatelange Trockenheit schadlos überstehen. Zu den wenigen, die recht gut optisch zu bestimmen sind, gehört die Schriftflechte *Graphis scripta*. Um diesen aktuellen [Fundkorbpilz](AA "Glossar-") zu erkennen, muss man ihn allerdings mit einer Lupe betrachten. Die strichförmigen, oft geschlängelten und verzweigten im [Thallus](Thallus "Glossar") eingesenkten [Apothecien](Apothecien "Glossar") erinnern tatsächlich an geheimnisvolle Schriftzeichen oder Runen. Man findet sie auf der Rinde von Laubbäumen. (Dieter Gewalt) [Mehr lesen >](/pilze/graphis-scripta-schriftflechte)
 
 <div style="clear:  both"></div>
 
