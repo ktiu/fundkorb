@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/radulomyces_molaris_02_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+19.02.2026: An einem toten Eichenast gefunden und darum mein aktueller [Fundkorbpilz](AA "Glossar-"): der Gezähnte Reibeisenpilz *Radulomyces molaris*. Man könnte ihn mit anderen zähnchentragenden [resupinat](resupinat "Glossar") an Holz wachsenden Pilzen verwechseln, so dass im Zweifelsfall mikroskopische Merkmale beachtet werden sollten. Immerhin ist das Bräunen der Zähnchen, sobald es begonnen hat, ein Hinweis. Je älter der Pilz wird, desto mehr scheinen die Zähnchen zu verschwinden. (Dieter Gewalt) [Mehr lesen >](/pilze/radulomyces-molaris-radulomyces-molaris)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/graphis_scripta_03_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -57,14 +65,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 13.02.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Kugelsporige Stummelfüßchen *Crepidotus cesatii*, gefunden an einem dünnen Laubholzästchen. Da die hübschen kleinen Pilzchen mit dem Hutscheitel am Substrat angewachsen sind, benötigen sie keine Stiele. Evolutionär bedingt ist manchmal noch ein stummeliger Rest davon zu erkennen, etwa so, wie manche Tiere am derzeitigen Ende ihrer Entwicklungsgeschichte noch ein kleines Stummelschwänzchen haben. Am häufigsten ist wohl die hier vorgestellte Art. Sie ist von einigen nahe verwandten optisch kaum zu unterscheiden. Um sicher zu gehen, ist ein wenig Mikroskopieraufwand erforderlich. (Dieter Gewalt) [Mehr lesen > ](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_polymorpha_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.02.2026: Wenn ein Pilz den Beinahmen „vielgestaltig“ verdient, dann unser aktueller [Fundkorbpilz](AA "Glossar-"), die Vielgestltige Holzkeule *Xylaria polymorpha*. Am besten, Sie begeben sich direkt auf unsere [Porträtseite](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule), um sich anhand von 18 Fotos von der schier unglaublichen Formenvariabilität beeindrucken zu lassen. Zu erwähnen wäre auch der erstaunliche Schwarz/Weiß-Farbkontrast der Fruchtkörper, den man beim Anschneiden erkennt. (Dieter Gewalt) [Mehr lesen >](/pilze/xylaria-polymorpha-vielgestaltige-holzkeule)
 
 <div style="clear:  both"></div>
 
