@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_hartigii_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+20.02.2026: Um eine der ca. 30 in Europa vorkommenden Feuerschwammarten sicher zu erkennen, sollte vor allem der Baumpartner bekannt sein. Nahezu ausschließlich an Weißtanne *Abies alba* ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Tannen-Feuerschwamm *Phellinus hartigii* zu finden. Er kann bis zu 30 Jahre alt werden. Die abgebildeten Exemplare wurden in einem Mischwald bei Straubenhardt in Baden-Württemberg gefunden. Inzwischen soll er *Fomitiporia hartigii* heißen. (Bernd Miggel) [Mehr lesen >](/pilze/phellinus-hartigii-tannen-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/radulomyces_molaris_02_wp.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -57,14 +65,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 14.02.2026: Der aktuelle [Fundkorbpilz](AA "Glossar-"), der Samtfuß- oder Winterrübling *Flammulina velutipes* benötigt als Starthilfe eine niedrige Temperatur um die 0 Grad Celsius, um seine Fruchtkörper mit ihrem honiggelben Hut ausbilden zu können. Ein typischer Winterpilz für die Küche mit eingebautem Frostschutz. Der meist büschelig an Totholz wachsende Pilz ist am häufigsten an Weide und Buche zu finden. (Ulrike Wegner) [Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/crepidotus_cesatii_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.02.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Kugelsporige Stummelfüßchen *Crepidotus cesatii*, gefunden an einem dünnen Laubholzästchen. Da die hübschen kleinen Pilzchen mit dem Hutscheitel am Substrat angewachsen sind, benötigen sie keine Stiele. Evolutionär bedingt ist manchmal noch ein stummeliger Rest davon zu erkennen, etwa so, wie manche Tiere am derzeitigen Ende ihrer Entwicklungsgeschichte noch ein kleines Stummelschwänzchen haben. Am häufigsten ist wohl die hier vorgestellte Art. Sie ist von einigen nahe verwandten optisch kaum zu unterscheiden. Um sicher zu gehen, ist ein wenig Mikroskopieraufwand erforderlich. (Dieter Gewalt) [Mehr lesen > ](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)
 
 <div style="clear:  both"></div>
 
