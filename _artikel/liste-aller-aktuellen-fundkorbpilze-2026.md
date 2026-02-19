@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-19.02.2026: [Radulomyces molaris - Gezähnter Reibeisenpilz](/pilze/radulomyces-molaris-radulomyces-molaris)  
+20.02.2026: [Phellinus hartigii - Tannen-Feuerschwamm](/pilze/phellinus-hartigii-tannen-feuerschwamm)  
+19.02.2026: [Radulomyces molaris - Gezähnter Reibeisenpilz](/pilze/radulomyces-molaris-radulomyces-molaris)\
 18.02.2026: [Graphis scripta - Schriftflechte](/pilze/graphis-scripta-schriftflechte)\
 17.02.2026: [Exidia truncata - Abgestutzter Drüsling](/pilze/exidia-truncata-abgestutzter-drüsling)\
 16.02.2026: [Antrodia serialis - Reihige Tramete](/pilze/antrodia-serialis-reihige-tramete)\
