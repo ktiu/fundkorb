@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_hiemalis_01_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+21.02.2026: Der Winter-Rindenhelmling *Mycena hiemalis* ist eine ziemlich seltene Art, sie zu finden eine große Freude. Vor allem dann, wenn sie so zahlreich erscheint wie hier im Frankfurter Stadtwald. Ganz klar: dieser Fund muss unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Die sehr kleinen weißen Pilzchen erreichen Hutdurchmesser von 0,5 bis 1 cm und bevorzugen totes Buchenholz. Ihr neuer Name ist *Phlaeomana hiemalis*. (Frank Kaster) [Mehr lesen >](/pilze/mycena-hiemalis-winter-rindenhelmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_hartigii_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,22 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 16.02.2026: Wenn sich Pilze in ihrer Wuchsform dem Substrat, auf dem sie wachsen, anpassen und dabei auch noch in vielfältiger Weise ihr Erscheinungsbild verändern, kann dies die Bestimmung erschweren. Das ist zum Beispiel beim hier gezeigten aktuellen [Fundkorbpilz](AA "Glossar-"), der Reihigen Tramete *Antrodia serialis*, der Fall. Sie kann an Schnittflächen ausgedehnte [resupinate](resupinat "Glossar") Beläge aber auch [effus-reflex](effus-reflex "Glossar") wachsende und deutlich abstehende Hutkanten bilden. (Dieter Gewalt) [Mehr lesen >](/pilze/antrodia-serialis-reihige-tramete)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_punctatus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.02.2026: Wenn ich mich bei einem Spaziergang dem Dietzenbacher Wollwiesenteich nähere, weiß ich schon vorher, wo ich hinzuschauen habe, um unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-") zu finden. Da stehen nahe am Ufer etliche Weiden und an einer ist der Polsterförmige Feuerschwamm *Phellinus punctatus* auf der rissigen Borke. Seine erwartete Anwesenheit ist leicht zu erklären. Alle Phellinus-Arten bilden mehrjährige Fruchtkörper. Sie sind über längere Zeiträume an ihrem eroberten Substrat vorhanden.  (Dieter Gewalt) [Mehr lesen >](/pilze/phellinus-punctatus-polsterförmiger-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/flammulina_velutipes_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.02.2026: Der aktuelle [Fundkorbpilz](AA "Glossar-"), der Samtfuß- oder Winterrübling *Flammulina velutipes* benötigt als Starthilfe eine niedrige Temperatur um die 0 Grad Celsius, um seine Fruchtkörper mit ihrem honiggelben Hut ausbilden zu können. Ein typischer Winterpilz für die Küche mit eingebautem Frostschutz. Der meist büschelig an Totholz wachsende Pilz ist am häufigsten an Weide und Buche zu finden. (Ulrike Wegner) [Mehr lesen >](/pilze/flammulina-velutipes-samtfußrübling)
 
 <div style="clear:  both"></div>
 
