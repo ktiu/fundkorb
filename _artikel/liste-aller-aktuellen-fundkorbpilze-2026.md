@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-21.02-2026: [Mycena hiemalis - Winter-Rindenhelmling](/pilze/mycena-hiemalis-winter-rindenhelmling)  
+22.02.2026: [Peniophora incarnata - Fleischroter Zystidenrindenpilz](/pilze/peniophora-incarnata-fleischroter-zystidenrindenpilz)  
+21.02.2026: [Mycena hiemalis - Winter-Rindenhelmling](/pilze/mycena-hiemalis-winter-rindenhelmling)\
 20.02.2026: [Phellinus hartigii - Tannen-Feuerschwamm](/pilze/phellinus-hartigii-tannen-feuerschwamm)\
 19.02.2026: [Radulomyces molaris - Gezähnter Reibeisenpilz](/pilze/radulomyces-molaris-radulomyces-molaris)\
 18.02.2026: [Graphis scripta - Schriftflechte](/pilze/graphis-scripta-schriftflechte)\
