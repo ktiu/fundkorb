@@ -13,6 +13,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_incarnata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.02.2026: Es gibt vier nicht leicht zu unterscheidende orange- bis braunrote Arten in der Gattung *Peniophora*, von denen unser aktueller [Fundkorbpilz](AA "Glossar-"), der Fleischrote Zystidenrindenpilz *Peniophora incarnata*, die mit Abstand häufigste ist. Sie kommt an berindeten oder unberindeten Ästen und Stämmen diverser Laubbäume vor, vor allem an Rotbuche, Eiche und Hasel, und ist ganzjährig zu finden. Im Anfangsstadium sind sie kleine Flecken, die sich allmählich ausdehnen und zu einer größeren Fläche zusammenwachsen. (Dieter Gewalt) [Mehr lesen >](/pilze/peniophora-incarnata-fleischroter-zystidenrindenpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_hiemalis_01_fk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -49,14 +57,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 17.02.2026: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), der Abgestutzte Drüsling *Exidia truncata*, verwirrt in mehrfacher Hinsicht. Einerseits wird er auch als *Exidia glandulosa* bezeichnet; das Synonym war früher dem [Warzigen Drüsling *Exidia plana*](/pilze/exidia-plana-warziger-drüsling) vorbehalten. Andererseits verwirrt er durch sein Aussehen. Er sieht manchmal aus wie ein "schwarzes" [Judasohr](/pilze/auricularia-auricula-judae-judasohr). Auch der braune [Kreisel-Drüsling *Exidia recisa*](/pilze/exidia-recisa-kreisel-drüsling-weidendrüsling) kann an ein Ohr erinnern. Deutlich lässt sich bei den Drüslingen aber die namensgebende körnig-warzige Unterseite erkennen. Beide eignen sich - anders als das Judasohr - jedoch nicht für die Küche. (Ulrike Wegner) [Mehr lesen >](/pilze/exidia-truncata-abgestutzter-drüsling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/antrodia_serialis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.02.2026: Wenn sich Pilze in ihrer Wuchsform dem Substrat, auf dem sie wachsen, anpassen und dabei auch noch in vielfältiger Weise ihr Erscheinungsbild verändern, kann dies die Bestimmung erschweren. Das ist zum Beispiel beim hier gezeigten aktuellen [Fundkorbpilz](AA "Glossar-"), der Reihigen Tramete *Antrodia serialis*, der Fall. Sie kann an Schnittflächen ausgedehnte [resupinate](resupinat "Glossar") Beläge aber auch [effus-reflex](effus-reflex "Glossar") wachsende und deutlich abstehende Hutkanten bilden. (Dieter Gewalt) [Mehr lesen >](/pilze/antrodia-serialis-reihige-tramete)
 
 <div style="clear:  both"></div>
 
