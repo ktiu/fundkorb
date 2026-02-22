@@ -1,5 +1,5 @@
 ---
-aktivitaet: Der Wald und seine Pilze im Januar
+aktivitaet: Der Wald und seine Pilze im März
 zeit: 2026-03-14T10:00:35.535Z
 bis: ""
 anmeldung_offen: true
