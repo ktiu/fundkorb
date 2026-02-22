@@ -19,7 +19,7 @@ literatur:
       Baden-Württembergs Band 5, Seite 221 - 222"
   - text: "Rudolf Winkler, Gaby Keller: Pilze Mitteleuropas, Seite 679 (14.3.33)"
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/cortinarius_buillardii_01_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/cortinarius_buillardii_02_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Waldschutzgebiet Römerberg -- Auffällig: die rote Stielbasis" %}
