@@ -37,7 +37,7 @@ Die halbkugeligen bis glockigen, manchmal stumpf gebuckelten, im Alter verflache
 {% include abbildung_ende.html %}
 
 Mikromerkmale:\
-Sporen: ellipsoid bis mandelförmig, grob und niedrig warzig; 7 – 8,3 x 4,3 – 5 µm, Schlankheitsgrad Q = 1,60 – 1,67, Volumen 83 – 90 m³  (29 Sporen gemessen).
+Sporen: ellipsoid bis mandelförmig, grob und niedrig warzig; 7 – 8,3 x 4,3 – 5 µm, Schlankheitsgrad Q = 1,60 – 1,67, Volumen 83 – 90 µm³  (29 Sporen gemessen).
 Basidien viersporig, keulig, 30 – 40 x 11 – 13 µm; Schnallen vorhanden.
 
 {% include abbildung_start.html stil="mittel" %}
