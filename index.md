@@ -16,6 +16,14 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/chromocyphella_muscicola_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.02.2026: Es gibt wunderschöne winzige Pilzchen, die man unbedingt mit der Lupe betrachten sollte. Wie zum Beispiel unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Moosbewohnende Braunsporbecherchen *Chromocyphella muscicola*. Es ist vor allem während der Wintermonate bis ins Frühjahr besonders häufig. Der Name sagt schon, wo man es zu suchen hat: an Moos. Allerdings nur an Moos an Baumrinde. (Dieter Gewalt) [Mehr lesen >](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/eutypella_quaternata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -60,14 +68,6 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 {% include abbildung_ende.html %}
 
 18.02.2026: Flechten können monatelange Trockenheit schadlos überstehen. Zu den wenigen, die recht gut optisch zu bestimmen sind, gehört die Schriftflechte *Graphis scripta*. Um diesen aktuellen [Fundkorbpilz](AA "Glossar-") zu erkennen, muss man ihn allerdings mit einer Lupe betrachten. Die strichförmigen, oft geschlängelten und verzweigten im [Thallus](Thallus "Glossar") eingesenkten [Apothecien](Apothecien "Glossar") erinnern tatsächlich an geheimnisvolle Schriftzeichen oder Runen. Man findet sie auf der Rinde von Laubbäumen. (Dieter Gewalt) [Mehr lesen >](/pilze/graphis-scripta-schriftflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/exidia_truncata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.02.2026: Der heutige aktuelle [Fundkorbpilz](AA "Glossar-"), der Abgestutzte Drüsling *Exidia truncata*, verwirrt in mehrfacher Hinsicht. Einerseits wird er auch als *Exidia glandulosa* bezeichnet; das Synonym war früher dem [Warzigen Drüsling *Exidia plana*](/pilze/exidia-plana-warziger-drüsling) vorbehalten. Andererseits verwirrt er durch sein Aussehen. Er sieht manchmal aus wie ein "schwarzes" [Judasohr](/pilze/auricularia-auricula-judae-judasohr). Auch der braune [Kreisel-Drüsling *Exidia recisa*](/pilze/exidia-recisa-kreisel-drüsling-weidendrüsling) kann an ein Ohr erinnern. Deutlich lässt sich bei den Drüslingen aber die namensgebende körnig-warzige Unterseite erkennen. Beide eignen sich - anders als das Judasohr - jedoch nicht für die Küche. (Ulrike Wegner) [Mehr lesen >](/pilze/exidia-truncata-abgestutzter-drüsling)
 
 <div style="clear:  both"></div>
 
