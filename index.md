@@ -16,6 +16,14 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phyllotopsis_nidulans_03_gw.jpg" %}
+{% include abbildung_ende.html %}
+
+26.02.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Orangeseitling *Phyllotopsis nidulans*.Wie der Name nidulans (nestchenartig, muschelartig) schon sagt, wächst diese interessante Art muschelförmig an Totholz, wobei er Fichte und Kiefer bevorzugt, aber auch auf Laubholz vorkommen kann. Weil man diesen farbenfrohen und wunderschönen Pilz nicht alle Tage findet, freue ich mich umso mehr über diesen Fund. (Bela Salgo, 13) [Mehr lesen >](/pilze/phyllotopsis-nidulans-orangeseitling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coriolopsis_trogii_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -52,22 +60,6 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 {% include abbildung_ende.html %}
 
 21.02.2026: Der Winter-Rindenhelmling *Mycena hiemalis* ist eine ziemlich seltene Art, sie zu finden eine große Freude. Vor allem dann, wenn sie so zahlreich erscheint wie hier im Frankfurter Stadtwald. Ganz klar: dieser Fund muss unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Die sehr kleinen weißen Pilzchen erreichen Hutdurchmesser von 0,5 bis 1 cm und bevorzugen totes Buchenholz. Ihr neuer Name ist *Phlaeomana hiemalis*. (Frank Kaster) [Mehr lesen >](/pilze/mycena-hiemalis-winter-rindenhelmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_hartigii_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-20.02.2026: Um eine der ca. 30 in Europa vorkommenden Feuerschwammarten sicher zu erkennen, sollte vor allem der Baumpartner bekannt sein. Nahezu ausschließlich an Weißtanne *Abies alba* ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Tannen-Feuerschwamm *Phellinus hartigii* zu finden. Er kann bis zu 30 Jahre alt werden. Die abgebildeten Exemplare wurden in einem Mischwald bei Straubenhardt in Baden-Württemberg gefunden. Inzwischen soll er *Fomitiporia hartigii* heißen. (Bernd Miggel) [Mehr lesen >](/pilze/phellinus-hartigii-tannen-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/radulomyces_molaris_02_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-19.02.2026: An einem toten Eichenast gefunden und darum mein aktueller [Fundkorbpilz](AA "Glossar-"): der Gezähnte Reibeisenpilz *Radulomyces molaris*. Man könnte ihn mit anderen zähnchentragenden [resupinat](resupinat "Glossar") an Holz wachsenden Pilzen verwechseln, so dass im Zweifelsfall mikroskopische Merkmale beachtet werden sollten. Immerhin ist das Bräunen der Zähnchen, sobald es begonnen hat, ein Hinweis. Je älter der Pilz wird, desto mehr scheinen die Zähnchen zu verschwinden. (Dieter Gewalt) [Mehr lesen >](/pilze/radulomyces-molaris-radulomyces-molaris)
 
 <div style="clear:  both"></div>
 
