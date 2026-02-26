@@ -16,6 +16,14 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cyathus_striatus_-vj.-_07_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.02.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gestreifte Teuerling *Cyathus striatus*. Seine Fruchtkörper sehen aus wie struppige Tütchen, die anfangs mit einem hellen Häutchen verschlossen sind, das bald aufreißt und den Blick ins Innere freigibt. Darin liegen winzige münzenförmige Gebilde, in denen der Pilz, der gar nicht wie ein Pilz aussieht, seine Sporen bildet. Sollten die Tütchen leer sein, handelt es sich um alte Fruchtkörper aus dem vergangenen Jahr, die den Winter unbeschadet überstanden haben.  (Dieter Gewalt) [Mehr lesen >](/pilze/cyathus-striatus-gestreifter-teuerling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phyllotopsis_nidulans_03_gw.jpg" %}
 {% include abbildung_ende.html %}
 
