@@ -16,6 +16,14 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/arachnopeziza_aurelia_03_iw.jpg" %}
+{% include abbildung_ende.html %}
+
+01.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Goldgelbe Spinnwebbecherchen *Arachnopeziza aurelia*, ein winziger [Ascomyzet](Ascomyzet "Glossat"), den man mit der Lupe suchen muss. Seine maximale Größe von etwa 1 mm wird nur selten erreicht. Er wächst zu vielen gesellig oder dicht gedrängt auf einem meist kaum erkennbaren spinnwebartigen [Hyphengewebe](Hyphen "Glossar") ([Subikulum](Subikulum "Glossar")). Wir fanden die schön orangefarbenen Becherchen in einem Roteichenforst bei Dietzenbach gleich mehrfach an am Boden liegenden Fruchtschalen und einmal an Blattresten. Als Substrat kommen noch Totholz und sonstige Pflanzenreste in Frage. (Dieter Gewalt) [Mehr lesen >](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tubaria_furfuracea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -52,30 +60,6 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 {% include abbildung_ende.html %}
 
 24.02.2026: Es gibt wunderschöne winzige Pilzchen, die man unbedingt mit der Lupe betrachten sollte. Wie zum Beispiel unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Moosbewohnende Braunsporbecherchen *Chromocyphella muscicola*. Es ist vor allem während der Wintermonate bis ins Frühjahr besonders häufig. Der Name sagt schon, wo man es zu suchen hat: an Moos. Allerdings nur an Moos an Baumrinde. (Dieter Gewalt) [Mehr lesen >](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/eutypella_quaternata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.02.2026:  Aktueller [Fundkorbpilz](AA "Glossar-") ist die Vierfrüchtige Quaternaria *Eutypella quaternata*, ein unscheinbares Pilzchen, das zu Tausenden einen einzigen Buchenast überziehen kann, der dann ein pockennarbiges oder pickeliges Aussehen bekommt. Im Anschnitt ist das aus vier [Perithezien](Perithezien "Glossar") bestehende Nest zu erkennen. Am besten mit einer gut vergrößernden Lupe. (Dieter Gewalt) [Mehr lesen >](/pilze/eutypella-quaternata-vierfrüchtige-quaternaria)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_incarnata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.02.2026: Es gibt vier nicht leicht zu unterscheidende orange- bis braunrote Arten in der Gattung *Peniophora*, von denen unser aktueller [Fundkorbpilz](AA "Glossar-"), der Fleischrote Zystidenrindenpilz *Peniophora incarnata*, die mit Abstand häufigste ist. Sie kommt an berindeten oder unberindeten Ästen und Stämmen diverser Laubbäume vor, vor allem an Rotbuche, Eiche und Hasel, und ist ganzjährig zu finden. Im Anfangsstadium sind sie kleine Flecken, die sich allmählich ausdehnen und zu einer größeren Fläche zusammenwachsen. (Dieter Gewalt) [Mehr lesen >](/pilze/peniophora-incarnata-fleischroter-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_hiemalis_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-21.02.2026: Der Winter-Rindenhelmling *Mycena hiemalis* ist eine ziemlich seltene Art, sie zu finden eine große Freude. Vor allem dann, wenn sie so zahlreich erscheint wie hier im Frankfurter Stadtwald. Ganz klar: dieser Fund muss unser aktueller [Fundkorbpilz](AA "Glossar-") sein. Die sehr kleinen weißen Pilzchen erreichen Hutdurchmesser von 0,5 bis 1 cm und bevorzugen totes Buchenholz. Ihr neuer Name ist *Phlaeomana hiemalis*. (Frank Kaster) [Mehr lesen >](/pilze/mycena-hiemalis-winter-rindenhelmling)
 
 <div style="clear:  both"></div>
 
