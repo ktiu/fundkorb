@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-28.02.2026: [Tubaria furfuracea - Gemeiner Trompetenschnitzling](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)  
+29.02.2026: [Arachnopeziza aurelia - Goldgelbes Spinnwegbecherchen](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen)  
+28.02.2026: [Tubaria furfuracea - Gemeiner Trompetenschnitzling](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)\
 27.02.2026: [Cyathus striatus - Gestreifter Teuerling](/pilze/cyathus-striatus-gestreifter-teuerling)\
 26.02.2026: [Phyllotopsis nidulans - Orangeseitling](/pilze/phyllotopsis-nidulans-orangeseitling)\
 25.02.2026: [Coriolopsis trogii - Blasse Borstentramete](/pilze/coriolopsis-trogii-blasse-borstentramete)\
