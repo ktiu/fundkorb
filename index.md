@@ -16,6 +16,14 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/skeletocutis_amorpha_03_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+02.03.2026: Ein- und mehrjährige Pilze an Holz gibt es zu allen Jahreszeiten. Das gilt auch für den aktuellen [Fundkorbpilz](AA "Glossar-"), den Orangefarbigen Knorpelporling *Skeletocutis amorpha*, der [saprobiontisch](saprobiontisch "Glossar") an morschem Kiefernholz wächst. Zu seinen wichtigsten Merkmalen gehören seine orangefarbene Porenschicht und die leichte Ablösbarkeit. (Dieter Gewalt) [Mehr lesen >](/pilze/skeletocutis-amorpha-orangefarbener-knorpelporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/arachnopeziza_aurelia_03_iw.jpg" %}
 {% include abbildung_ende.html %}
 
