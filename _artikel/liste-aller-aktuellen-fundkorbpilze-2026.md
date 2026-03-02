@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-02.03.2026: [Skeletocutis amorpha - Orangefarbener Knorpelporling](/pilze/skeletocutis-amorpha-orangefarbener-knorpelporling)  
+03.03.2026: [Cladonia fimbriata - Trompeten-Becherflechte](/pilze/cladonia-fimbriata-trompeten-becherflechte)  
+02.03.2026: [Skeletocutis amorpha - Orangefarbener Knorpelporling](/pilze/skeletocutis-amorpha-orangefarbener-knorpelporling)\
 01.03.2026: [Arachnopeziza aurelia - Goldgelbes Spinnwegbecherchen](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen)  
 
 28.02.2026: [Tubaria furfuracea - Gemeiner Trompetenschnitzling](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)\
