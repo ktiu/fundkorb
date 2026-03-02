@@ -16,6 +16,14 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cladonia_fimbriata_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+03.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Trompeten-Becherflechte *Cladonia fimbriata*. Es sind ziemlich kleine Trompeten. Sie werden gerade mal 2 cm lang. Wir finden sie immer wieder in einem besonderen Biotop, der Umgebung des Anglerteichs Rödermark-Waldacker, in dem einige weitere seltene Flechtenarten gedeihen, unter anderen [Rentier-](/pilze/cladonia-portentosa-ebenästige-rentierflechte) und [rotfrüchtige Säulenflechten](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte). (Dieter Gewalt) [Mehr lesen >](/pilze/cladonia-fimbriata-trompeten-becherflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/skeletocutis_amorpha_03_wp.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -60,14 +68,6 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 {% include abbildung_ende.html %}
 
 25.02.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Blasse Borstentramete *Coriolopsis trogii*, gehört zu einer Porlingsgattung, mit der nicht jeder Pilzfreund vertraut ist. Wenn sie uns aber so vor Augen kommt wie auf diesem Foto, wird sicher niemand eine „echte“ Tramete vermuten. Sie wächst seit einigen Jahren in unserem Dietzenbach Carré an einer Weide, die inzwischen ihre besten Tage hinter sich hat. Dafür dürfte die Borstentramete zu einem erheblichen Anteil verantwortlich sein. (Dieter Gewalt) [Mehr lesen >](/pilze/coriolopsis-trogii-blasse-borstentramete)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chromocyphella_muscicola_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.02.2026: Es gibt wunderschöne winzige Pilzchen, die man unbedingt mit der Lupe betrachten sollte. Wie zum Beispiel unseren aktuellen [Fundkorbpilz](AA "Glossar-"), das Moosbewohnende Braunsporbecherchen *Chromocyphella muscicola*. Es ist vor allem während der Wintermonate bis ins Frühjahr besonders häufig. Der Name sagt schon, wo man es zu suchen hat: an Moos. Allerdings nur an Moos an Baumrinde. (Dieter Gewalt) [Mehr lesen >](/pilze/chromocyphella-muscicola-moosbewohnendes-braunsporbecherchen)
 
 <div style="clear:  both"></div>
 
