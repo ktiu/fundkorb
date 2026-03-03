@@ -16,6 +16,14 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinellus_micaceus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.03.2026: Zu den häufigsten büschelig wachsenden Pilzen gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Glimmertintling *Coprinellus micaceus*. Wegen seiner glimmerigen Hutbekleidung gehört er zu den sogenannten "Flockentintlingen", die nicht immer leicht zu unterscheiden sind. Klassischer Doppelgänger ist der seltene Weidentintling, der keinesfalls nur bei Weiden wächst. Der Glimmertintling ist einer der häufigsten Pilze überhaupt und das ganze Jahr über zu finden, in Wäldern ebenso wie außerhalb. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinellus-micaceus-glimmertintling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cladonia_fimbriata_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -60,14 +68,6 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 {% include abbildung_ende.html %}
 
 26.02.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Orangeseitling *Phyllotopsis nidulans*.Wie der Name nidulans (nestchenartig, muschelartig) schon sagt, wächst diese interessante Art muschelförmig an Totholz, wobei er Fichte und Kiefer bevorzugt, aber auch auf Laubholz vorkommen kann. Weil man diesen farbenfrohen und wunderschönen Pilz nicht alle Tage findet, freue ich mich umso mehr über diesen Fund. (Bela Salgo, 13) [Mehr lesen >](/pilze/phyllotopsis-nidulans-orangeseitling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coriolopsis_trogii_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.02.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Blasse Borstentramete *Coriolopsis trogii*, gehört zu einer Porlingsgattung, mit der nicht jeder Pilzfreund vertraut ist. Wenn sie uns aber so vor Augen kommt wie auf diesem Foto, wird sicher niemand eine „echte“ Tramete vermuten. Sie wächst seit einigen Jahren in unserem Dietzenbach Carré an einer Weide, die inzwischen ihre besten Tage hinter sich hat. Dafür dürfte die Borstentramete zu einem erheblichen Anteil verantwortlich sein. (Dieter Gewalt) [Mehr lesen >](/pilze/coriolopsis-trogii-blasse-borstentramete)
 
 <div style="clear:  both"></div>
 
