@@ -16,6 +16,14 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/fomes_fomentarius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.03.2026: Seinen Namen trägt unser aktueller [Fundkorbpilz](AA "Glossar-") völlig zu Recht. Den Zunderschwamm (*Fomes fomentarius*) benutzten unsere Vorfahren tatsächlich zum Feuermachen und gingen dabei wie folgt vor: man trennte einen Fruchtkörper vom Stamm und schlug mit Feuersteinen Funken in seinen [Myzelialkern](Myzel "Glossar"), die darin ein kurzzeitiges Glimmen auslösten. Ein Kollege stand bereits mit trockenen Grashalmen bereit, hielten diese an den glimmenden Myzelialkern und entfachte durch leichtes Blasen das gewünschte Feuer. (Dieter Gewalt) [Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
