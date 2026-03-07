@@ -16,6 +16,14 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_cohaerens_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.03.2026: Der Name Zusammengedrängte Kohlenbeere *Hypoxylon cohaerens* (neuer Name: *Jackrogersella cohaerens*) ist eigentlich schon eine gute Beschreibung für unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Die abgeflacht kugeligen, krustig harten Fruchtkörper werden etwa 4 - 7 mm groß und sind dunkel graubraun bis schwarz gefärbt. Auf den Oberflächen erkennt man die papillenartigen Sporenauslassöffnungen, die Ostiolen genannt werden. Er ist in ganz Deutschland verbreitet und häufig, wo totes Laubholz, vor allem Buche, vorhanden ist. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypholoma_fasciculare_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
