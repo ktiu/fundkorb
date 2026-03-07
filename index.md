@@ -63,30 +63,6 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/skeletocutis_amorpha_03_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-02.03.2026: Ein- und mehrjährige Pilze an Holz gibt es zu allen Jahreszeiten. Das gilt auch für den aktuellen [Fundkorbpilz](AA "Glossar-"), den Orangefarbigen Knorpelporling *Skeletocutis amorpha*, der [saprobiontisch](saprobiontisch "Glossar") an morschem Kiefernholz wächst. Zu seinen wichtigsten Merkmalen gehören seine orangefarbene Porenschicht und die leichte Ablösbarkeit. (Dieter Gewalt) [Mehr lesen >](/pilze/skeletocutis-amorpha-orangefarbener-knorpelporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/arachnopeziza_aurelia_03_iw.jpg" %}
-{% include abbildung_ende.html %}
-
-01.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Goldgelbe Spinnwebbecherchen *Arachnopeziza aurelia*, ein winziger [Ascomyzet](Ascomyzet "Glossat"), den man mit der Lupe suchen muss. Seine maximale Größe von etwa 1 mm wird nur selten erreicht. Er wächst zu vielen gesellig oder dicht gedrängt auf einem meist kaum erkennbaren spinnwebartigen [Hyphengewebe](Hyphen "Glossar") ([Subikulum](Subikulum "Glossar")). Wir fanden die schön orangefarbenen Becherchen in einem Roteichenforst bei Dietzenbach gleich mehrfach an am Boden liegenden Fruchtschalen und einmal an Blattresten. Als Substrat kommen noch Totholz und sonstige Pflanzenreste in Frage. (Dieter Gewalt) [Mehr lesen >](/pilze/arachnopeziza-aurelia-goldgelbes-spinnwebbecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tubaria_furfuracea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.02.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Trompetenschnitzling *Tubaria furfuracea*. Man kann ihn zur Zeit fast überall finden. Und nicht nur zur Zeit. Es gibt tatsächlich keinen Monat, in dem der kleine Blätterpilz nicht schon nachgewiesen worden ist. Früher hat man die Funde während der kalten Jahreszeit Wintertrompetenschnitzlinge genannt, *Tubaria hiemalis*. Sie sind makroskopisch nicht von den „Sommertrompetenschnitzlingen“ zu unterscheiden. Auch die mikroskopischen Merkmale überlappen sich, so dass eine Aufsplittung in zwei Arten nicht gerechtfertigt ist. Der Pilz ist in- und außerhalb von Wäldern häufig und wächst auf Holzrückständen jeder Art. (Dieter Gewalt) [Mehr lesen >](/pilze/tubaria-furfuracea-gemeiner-trompetenschnitzling)
-
-<div style="clear:  both"></div>
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2026](/artikel/liste-aller-aktuellen-fundkorbpilze-2026)
