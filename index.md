@@ -27,7 +27,7 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 {% include bild.html datei="/bilder/hypholoma_fasciculare_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-07.03.2026: Nicht zum ersten Mal ist der Grünblättrige Schwefelkopf *Hypholoma fasciculare* schon Anfang März unserer Dietzenbacher Parkanlage aufgetaucht und darum aktueller [Fundkorbpilz](AA "Glossar-"). Wenn seine für ihn typische grüne Lamellenfarbe nicht zweifelsfrei erkennbar sein sollte, hilft eine Geschmacksprobe weiter. Er schmeckt bitter und ist im Gegensatz zum nahe verwandten [Graublättrigen Schwefelkopf Hypholoma capnoides](/pilze/hypholoma-capnoides-graublättriger-schwefelkopf) magen-/darmgiftig. (Dieter Gewalt) [Mehr lesen >](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)
+07.03.2026: Nicht zum ersten Mal ist der Grünblättrige Schwefelkopf *Hypholoma fasciculare* schon Anfang März in unserer Dietzenbacher Parkanlage aufgetaucht und darum aktueller [Fundkorbpilz](AA "Glossar-"). Wenn seine für ihn typische grüne Lamellenfarbe nicht zweifelsfrei erkennbar sein sollte, hilft eine Geschmacksprobe weiter. Er schmeckt bitter und ist im Gegensatz zum nahe verwandten [Graublättrigen Schwefelkopf Hypholoma capnoides](/pilze/hypholoma-capnoides-graublättriger-schwefelkopf) magen-/darmgiftig. (Dieter Gewalt) [Mehr lesen >](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)
 
 <div style="clear:  both"></div>
 
