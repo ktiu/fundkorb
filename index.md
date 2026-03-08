@@ -16,6 +16,14 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/inonotus_hispidus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.03.2026: Irgendwann erwischt es so ziemlich jeden Apfelbaum, meist auf seine alten Tage. Er wird vom Zottigen Schillerporling *Inonotus hispidus* (auch Pelzporling genannt) befallen und damit ist sein Schicksal besiegelt. Unser heutiger [Fundkorbpilz](AA "Glossar-") ist ein mordende Parasit aber immerhin ein rücksichtsvoller Killer. Er lässt dem Gartenbesitzer Zeit, ein junges Bäumchen zu pflanzen und dessen Ertragsreife abzuwarten. Bis dahin trägt der Patient noch Früchte. (Dieter Gewalt) [Mehr lesen >](/pilze/inonotus-hispidus-zottiger-schillerporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_cohaerens_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -52,14 +60,6 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 {% include abbildung_ende.html %}
 
 04.03.2026: Zu den häufigsten büschelig wachsenden Pilzen gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Glimmertintling *Coprinellus micaceus*. Wegen seiner glimmerigen Hutbekleidung gehört er zu den sogenannten "Flockentintlingen", die nicht immer leicht zu unterscheiden sind. Klassischer Doppelgänger ist der seltene Weidentintling, der keinesfalls nur bei Weiden wächst. Der Glimmertintling ist einer der häufigsten Pilze überhaupt und das ganze Jahr über zu finden, in Wäldern ebenso wie außerhalb. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinellus-micaceus-glimmertintling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cladonia_fimbriata_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-03.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Trompeten-Becherflechte *Cladonia fimbriata*. Es sind ziemlich kleine Trompeten. Sie werden gerade mal 2 cm lang. Wir finden sie immer wieder in einem besonderen Biotop, der Umgebung des Anglerteichs Rödermark-Waldacker, in dem einige weitere seltene Flechtenarten gedeihen, unter anderen [Rentier-](/pilze/cladonia-portentosa-ebenästige-rentierflechte) und [rotfrüchtige Säulenflechten](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte). (Dieter Gewalt) [Mehr lesen >](/pilze/cladonia-fimbriata-trompeten-becherflechte)
 
 <div style="clear:  both"></div>
 
