@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-09.03.2026: [Inonotus hispidus - Zottiger Schillerporling](/pilze/inonotus-hispidus-zottiger-schillerporling)  
+10.03.2026: [Ascodichaena rugosa - Buchen-Rindenschorf](/pilze/ascodichaena-rugosa-buchen-rindenschorf)  
+09.03.2026: [Inonotus hispidus - Zottiger Schillerporling](/pilze/inonotus-hispidus-zottiger-schillerporling)\
 08.03.2026: [Hypoxylon cohaerens - Zusammengedrängte Kohlenbeere](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)\
 07.03.2026: [Hypholoma fasciculare - Grünblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)\
 06.03.2026: [Fomes fomentarius - Zunderschwamm](/pilze/fomes-fomentarius-zunderschwamm)\
