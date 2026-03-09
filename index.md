@@ -16,6 +16,14 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ascodichaena_rugosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein auffälliges schorfartiges Muster an Baumstämmen, das von Waldspaziergängern wahrscheinlich für eine krankhafte Veränderung der Buchenrinde gehalten wird. Dieser Rindenschorf ist in Wahrheit ein [Schlauchpilz (Ascomyzet)](<Ascomyzeten "Glossar">), der *Ascodichaena rugosa* heißt und zu einer Ordnung gehört, die tatsächlich *[Flicklumpenartige](/verwandt/flicklumpenartige-rhytismatales)* genannt wird. Er fehlt in keinem Rotbuchenbestand und wurde trotz seiner Häufigkeit erst im Jahre 1977 von der Wissenschaft als Pilz erkannt und beschrieben. Die Flicklumpenartigen werden auch Runzelschorfartige (*Rhytismatales*) genannt und stellen eine ziemlich heterogene Gruppierung dar, der nur wenig Beachtung geschenkt wird.  (Dieter Gewalt) [Mehr lesen >](/pilze/ascodichaena-rugosa-buchen-rindenschorf)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/inonotus_hispidus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -52,14 +60,6 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 {% include abbildung_ende.html %}
 
 05.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bittere Kiefernzapfenrübling *Strobilurus tenacellus*, ein sehr häufiger Pilz, der in keinem Kiefernwald fehlen dürfte und stets auf Kiefernzapfen wächst. Meist ist er an seinem bitteren Geschmack zu erkennen, er kann aber auch völlig mild sein. Dann wäre eine Verwechslung mit dem Milden Kiefernzapfenrübling möglich, der genau so aussieht wie der Bittere. Sie sind nur mikroskopisch zu unterscheiden. (Dieter Gewalt) [Mehr lesen >](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinellus_micaceus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.03.2026: Zu den häufigsten büschelig wachsenden Pilzen gehört auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Glimmertintling *Coprinellus micaceus*. Wegen seiner glimmerigen Hutbekleidung gehört er zu den sogenannten "Flockentintlingen", die nicht immer leicht zu unterscheiden sind. Klassischer Doppelgänger ist der seltene Weidentintling, der keinesfalls nur bei Weiden wächst. Der Glimmertintling ist einer der häufigsten Pilze überhaupt und das ganze Jahr über zu finden, in Wäldern ebenso wie außerhalb. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinellus-micaceus-glimmertintling)
 
 <div style="clear:  both"></div>
 
