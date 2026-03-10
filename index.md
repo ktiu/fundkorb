@@ -16,6 +16,14 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/diatrypella_favacea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.03.2026: Selbst wenn es kaum Blätterpilze und noch gar keine Röhrlinge gibt - Kleinzeug an Holz findet man immer. Allein an Kohlenbeeren und Eckenscheibchen gibt es mindestens 40 verschiedene Arten in unseren Wäldern. Wo totes Birkenholz am Boden liegt, ist mit dem Birken-Eckenscheibchen *Diatrypella favacea* zu rechnen, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Wer sich nicht damit auskennt, hält die schwarzen quer zur Ast- oder Stammlänge angeordneten *[Pyrenomyzeten](Pyrenomyzeten "Glossar")* möglicherweise für Muster der Birkenrinde. (Dieter Gewalt) [Mehr lesen >](/pilze/diatrypella-favacea-birken-eckenscheibchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ascodichaena_rugosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -52,14 +60,6 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 {% include abbildung_ende.html %}
 
 06.03.2026: Seinen Namen trägt unser aktueller [Fundkorbpilz](AA "Glossar-") völlig zu Recht. Den Zunderschwamm (*Fomes fomentarius*) benutzten unsere Vorfahren tatsächlich zum Feuermachen und gingen dabei wie folgt vor: man trennte einen Fruchtkörper vom Stamm und schlug mit Feuersteinen Funken in seinen [Myzelialkern](Myzel "Glossar"), die darin ein kurzzeitiges Glimmen auslösten. Ein Kollege stand bereits mit trockenen Grashalmen bereit, hielten diese an den glimmenden Myzelialkern und entfachte durch leichtes Blasen das gewünschte Feuer. (Dieter Gewalt) [Mehr lesen >](/pilze/fomes-fomentarius-zunderschwamm)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/strobilurus_tenacellus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Bittere Kiefernzapfenrübling *Strobilurus tenacellus*, ein sehr häufiger Pilz, der in keinem Kiefernwald fehlen dürfte und stets auf Kiefernzapfen wächst. Meist ist er an seinem bitteren Geschmack zu erkennen, er kann aber auch völlig mild sein. Dann wäre eine Verwechslung mit dem Milden Kiefernzapfenrübling möglich, der genau so aussieht wie der Bittere. Sie sind nur mikroskopisch zu unterscheiden. (Dieter Gewalt) [Mehr lesen >](/pilze/strobilurus-tenacellus-bitterer-kiefern-zapfenrübling)
 
 <div style="clear:  both"></div>
 
