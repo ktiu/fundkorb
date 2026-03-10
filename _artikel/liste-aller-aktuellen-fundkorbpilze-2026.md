@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-10.03.2026: [Ascodichaena rugosa - Buchen-Rindenschorf](/pilze/ascodichaena-rugosa-buchen-rindenschorf)  
+11.03.2026: [Diatrypella favacea - Birken-Eckenscheibchen](/pilze/diatrypella-favacea-birken-eckenscheibchen)  
+10.03.2026: [Ascodichaena rugosa - Buchen-Rindenschorf](/pilze/ascodichaena-rugosa-buchen-rindenschorf)\
 09.03.2026: [Inonotus hispidus - Zottiger Schillerporling](/pilze/inonotus-hispidus-zottiger-schillerporling)\
 08.03.2026: [Hypoxylon cohaerens - Zusammengedrängte Kohlenbeere](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)\
 07.03.2026: [Hypholoma fasciculare - Grünblättriger Schwefelkopf](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)\
