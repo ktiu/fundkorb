@@ -15,7 +15,7 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 
 **Aktueller Fundkorbpilz:**
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lophodermium_seditiosum_kiefernschütte-spaltlippe_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
