@@ -10,7 +10,9 @@ footer_scripts:
 ---
 <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
-Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald und seine Pilze im März**\
+Exkursionstermine:\
+Samstag, 14.03.2026, 10:00 Uhr: **Der Wald und seine Pilze im März**\
+Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Kühkopf**  
 [Hier geht's zur Anmeldung >](/termine)
 
 **Aktueller Fundkorbpilz:**
