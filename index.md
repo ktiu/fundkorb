@@ -16,6 +16,14 @@ Unser nächster Exkursionstermin ist Samstag, 14.03.2026, 10:00 Uhr: **Der Wald 
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_versicolor_-_gibbosa_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.03.2026: Die Buckeltramete *Trametes gibbosa* ist in fast jedem Wald und zu jeder Zeit zu finden und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete) zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind.  (Dieter Gewalt) [Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lophodermium_seditiosum_kiefernschütte-spaltlippe_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
