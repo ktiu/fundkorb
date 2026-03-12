@@ -1,4 +1,4 @@
 ---
-bild: /bilder/amanita_porphyria_04_hs.jpg
+bild: /bilder/amanita_porphyria_01_cw.jpg
 pilz: Amanita porphyria
 ---
