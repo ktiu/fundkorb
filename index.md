@@ -12,10 +12,18 @@ footer_scripts:
 
 Exkursionstermine:\
 Samstag, 14.03.2026, 10:00 Uhr: **Der Wald und seine Pilze im März**\
-Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Kühkopf**  
+Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Kühkopf**\
 [Hier geht's zur Anmeldung >](/termine)
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rhopographus-filicinus-01.jpg" %}
+{% include abbildung_ende.html %}
+
+14.03.2026: Dieser aktuelle Fundkorbpilz ist zur Zeit in jedem Adlerfarnbestand zu finden: der Adlerfarn-Fleckenpilz *Rhopographus filicinus*. Allerdings nur an vorjährigen abgestorbenen Stängeln. Der kaum beachtete [Ascomyzet](Ascomyzeten "Glossar") verrät sich durch schwarze, strichartige Zeichnungen, die in ihrer Gesamtheit oft ein interessantes Muster bilden. Mit der Lupe betrachtet erscheint ihre Oberfläche aufgeraut. Verwechslungen können bei Beachtung des speziellen Substrats ausgeschlossen werden. (Dieter Gewalt) Mehr lesen >
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_versicolor_-_gibbosa_04_dg.jpg" %}
@@ -62,14 +70,6 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 {% include abbildung_ende.html %}
 
 08.03.2026: Der Name Zusammengedrängte Kohlenbeere *Hypoxylon cohaerens* (neuer Name: *Jackrogersella cohaerens*) ist eigentlich schon eine gute Beschreibung für unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Die abgeflacht kugeligen, krustig harten Fruchtkörper werden etwa 4 - 7 mm groß und sind dunkel graubraun bis schwarz gefärbt. Auf den Oberflächen erkennt man die papillenartigen Sporenauslassöffnungen, die Ostiolen genannt werden. Er ist in ganz Deutschland verbreitet und häufig, wo totes Laubholz, vor allem Buche, vorhanden ist. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypholoma_fasciculare_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.03.2026: Nicht zum ersten Mal ist der Grünblättrige Schwefelkopf *Hypholoma fasciculare* schon Anfang März in unserer Dietzenbacher Parkanlage aufgetaucht und darum aktueller [Fundkorbpilz](AA "Glossar-"). Wenn seine für ihn typische grüne Lamellenfarbe nicht zweifelsfrei erkennbar sein sollte, hilft eine Geschmacksprobe weiter. Er schmeckt bitter und ist im Gegensatz zum nahe verwandten [Graublättrigen Schwefelkopf Hypholoma capnoides](/pilze/hypholoma-capnoides-graublättriger-schwefelkopf) magen-/darmgiftig. (Dieter Gewalt) [Mehr lesen >](/pilze/hypholoma-fasciculare-grünblättriger-schwefelkopf)
 
 <div style="clear:  both"></div>
 
