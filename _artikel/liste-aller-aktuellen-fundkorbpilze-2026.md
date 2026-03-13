@@ -2,8 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-14.03.2026: [Rhopographus filicinus - Adlerfarn-Fleckenpilz](/pilze/rhopographus-filicinus-adlerfarn-fleckenpilz)  
-
+15.03.2026: [Morchella conica - Spitzmorchel](/pilze/morchella-conica-spitzmorchel)  
+14.03.2026: [Rhopographus filicinus - Adlerfarn-Fleckenpilz](/pilze/rhopographus-filicinus-adlerfarn-fleckenpilz)\
 13.03.2026: [Trametes gibbosa - Buckeltramete](/pilze/trametes-versicolor-schmetterlingstramete)\
 12.03.2026: [Lophodermium seditiosum - Kiefernschütte-Spaltlippe](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe)\
 11.03.2026: [Diatrypella favacea - Birken-Eckenscheibchen](/pilze/diatrypella-favacea-birken-eckenscheibchen)\
