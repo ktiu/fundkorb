@@ -18,6 +18,14 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/morchella_conica_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.03.2026: Die ersten Funde der Spitzmorchel *Morchella conica* werden gerade in diversen Foren gemeldet und damit haben wir einen sehr aktuellen neuen [Fundkorbpilz](AA "Glossar-"). Das Erfreuliche dabei: es ist endlich mal wieder ein richtiger Pilz und dazu noch ein leckerer. Wie kaum anders zu erwarten, bezogen sich die Fundmeldungen auf Vorkommen auf Kiefernrindenmulch. (Dieter Gewalt) [Mehr lesen >](/pilze/morchella-conica-spitzmorchel)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rhopographus-filicinus-01.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -62,14 +70,6 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 {% include abbildung_ende.html %}
 
 09.03.2026: Irgendwann erwischt es so ziemlich jeden Apfelbaum, meist auf seine alten Tage. Er wird vom Zottigen Schillerporling *Inonotus hispidus* (auch Pelzporling genannt) befallen und damit ist sein Schicksal besiegelt. Unser heutiger [Fundkorbpilz](AA "Glossar-") ist ein mordende Parasit aber immerhin ein rücksichtsvoller Killer. Er lässt dem Gartenbesitzer Zeit, ein junges Bäumchen zu pflanzen und dessen Ertragsreife abzuwarten. Bis dahin trägt der Patient noch Früchte. (Dieter Gewalt) [Mehr lesen >](/pilze/inonotus-hispidus-zottiger-schillerporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_cohaerens_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.03.2026: Der Name Zusammengedrängte Kohlenbeere *Hypoxylon cohaerens* (neuer Name: *Jackrogersella cohaerens*) ist eigentlich schon eine gute Beschreibung für unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Die abgeflacht kugeligen, krustig harten Fruchtkörper werden etwa 4 - 7 mm groß und sind dunkel graubraun bis schwarz gefärbt. Auf den Oberflächen erkennt man die papillenartigen Sporenauslassöffnungen, die Ostiolen genannt werden. Er ist in ganz Deutschland verbreitet und häufig, wo totes Laubholz, vor allem Buche, vorhanden ist. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-cohaerens-zusammengedrängte-kohlenbeere)
 
 <div style="clear:  both"></div>
 
