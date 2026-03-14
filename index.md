@@ -8,10 +8,10 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-<div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
+<div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html
+Samstag, 14.03.2026, 10:00 Uhr: **Der Wald und seine Pilze im März**
 
-Exkursionstermine:\
-Samstag, 14.03.2026, 10:00 Uhr: **Der Wald und seine Pilze im März**\
+Neuer Exkursionstermin:\
 Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Kühkopf**\
 [Hier geht's zur Anmeldung >](/termine)
 
