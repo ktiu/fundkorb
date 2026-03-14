@@ -8,7 +8,7 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-<div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html
+<div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
 Die heutige Führung **Der Wald und seine Pilze im März** muss wegen schlechten Wetters leider ausfallen.
 
