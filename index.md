@@ -19,6 +19,14 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/penicillium_digitatum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.03.2026: Zu dieser Jahreszeit ist es nicht immer leicht, täglich einen aktuellen [Fundkorbpilz](AA "Glossar-") zu präsentieren. Schauen wir uns mal in der Küche um. Bevor sie im Biomüll verschwindet, betrachten wir noch kurz die vom Grünen Schimmelpilz *Penicillium digitatum* befallene Orange. Egal, ob Schimmelpilze an Lebensmitteln oder an Wänden erscheinen, sie sollten unbedingt vermieden oder schnellstens entsorgt werden. Ein wahrer Segen für die Menschheit ist dagegen der Schimmelpilz *Penicillium chrysogenum*, in dem *Alexander Fleming* 1928 den *Penicillin* genannten Wirkstoff entdeckt hat. Ohne dieses Antibiotikum gäbe es heute längst nicht so viele Menschen auf unserem Planeten wie jetzt. (Dieter Gewalt) [Mehr lesen >](/pilze/penicillium-digitatum-grüner-schimmelpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/morchella_conica_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -63,14 +71,6 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 {% include abbildung_ende.html %}
 
 10.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein auffälliges schorfartiges Muster an Baumstämmen, das von Waldspaziergängern wahrscheinlich für eine krankhafte Veränderung der Buchenrinde gehalten wird. Dieser Rindenschorf ist in Wahrheit ein [Schlauchpilz (Ascomyzet)](Ascomyzeten "Glossar"), der *Ascodichaena rugosa* heißt und zu einer Ordnung gehört, die tatsächlich *[Flicklumpenartige](/verwandt/flicklumpenartige-rhytismatales)* genannt wird. Er fehlt in keinem Rotbuchenbestand und wurde trotz seiner Häufigkeit erst im Jahre 1977 von der Wissenschaft als Pilz erkannt und beschrieben. Die Flicklumpenartigen werden auch Runzelschorfartige (*Rhytismatales*) genannt und stellen eine ziemlich heterogene Gruppierung dar, der nur wenig Beachtung geschenkt wird.  (Dieter Gewalt) [Mehr lesen >](/pilze/ascodichaena-rugosa-buchen-rindenschorf)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/inonotus_hispidus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.03.2026: Irgendwann erwischt es so ziemlich jeden Apfelbaum, meist auf seine alten Tage. Er wird vom Zottigen Schillerporling *Inonotus hispidus* (auch Pelzporling genannt) befallen und damit ist sein Schicksal besiegelt. Unser heutiger [Fundkorbpilz](AA "Glossar-") ist ein mordende Parasit aber immerhin ein rücksichtsvoller Killer. Er lässt dem Gartenbesitzer Zeit, ein junges Bäumchen zu pflanzen und dessen Ertragsreife abzuwarten. Bis dahin trägt der Patient noch Früchte. (Dieter Gewalt) [Mehr lesen >](/pilze/inonotus-hispidus-zottiger-schillerporling)
 
 <div style="clear:  both"></div>
 
