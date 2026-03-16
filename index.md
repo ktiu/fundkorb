@@ -10,8 +10,6 @@ footer_scripts:
 ---
 <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
-Die heutige Führung **Der Wald und seine Pilze im März** muss wegen schlechten Wetters leider ausfallen.
-
 Neuer Exkursionstermin:\
 Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Kühkopf**\
 [Hier geht's zur Anmeldung >](/termine)
