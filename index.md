@@ -19,6 +19,14 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lachnellula_occidentalis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.03.2026: Hübsche kleine Haarbecherchen an toten Lärchenzweigen, deren Schönheit erst mit einer gut vegrößernden Lupe zu erkennen ist, sind mit hoher statistischer Wahrscheinlichkeit Lärchen-Haarbecherchen (*Lachnellula occidentalis*). Dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist sehr häufig und wohl in jedem Lärchenbestand zu finden, sofern es nicht zu trocken ist. (Dieter Gewalt) [Mehr lesen >](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/penicillium_digitatum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -63,14 +71,6 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 {% include abbildung_ende.html %}
 
 11.03.2026: Selbst wenn es kaum Blätterpilze und noch gar keine Röhrlinge gibt - Kleinzeug an Holz findet man immer. Allein an Kohlenbeeren und Eckenscheibchen gibt es mindestens 40 verschiedene Arten in unseren Wäldern. Wo totes Birkenholz am Boden liegt, ist mit dem Birken-Eckenscheibchen *Diatrypella favacea* zu rechnen, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Wer sich nicht damit auskennt, hält die schwarzen quer zur Ast- oder Stammlänge angeordneten *[Pyrenomyzeten](Pyrenomyzeten "Glossar")* möglicherweise für Muster der Birkenrinde. (Dieter Gewalt) [Mehr lesen >](/pilze/diatrypella-favacea-birken-eckenscheibchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ascodichaena_rugosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein auffälliges schorfartiges Muster an Baumstämmen, das von Waldspaziergängern wahrscheinlich für eine krankhafte Veränderung der Buchenrinde gehalten wird. Dieser Rindenschorf ist in Wahrheit ein [Schlauchpilz (Ascomyzet)](Ascomyzeten "Glossar"), der *Ascodichaena rugosa* heißt und zu einer Ordnung gehört, die tatsächlich *[Flicklumpenartige](/verwandt/flicklumpenartige-rhytismatales)* genannt wird. Er fehlt in keinem Rotbuchenbestand und wurde trotz seiner Häufigkeit erst im Jahre 1977 von der Wissenschaft als Pilz erkannt und beschrieben. Die Flicklumpenartigen werden auch Runzelschorfartige (*Rhytismatales*) genannt und stellen eine ziemlich heterogene Gruppierung dar, der nur wenig Beachtung geschenkt wird.  (Dieter Gewalt) [Mehr lesen >](/pilze/ascodichaena-rugosa-buchen-rindenschorf)
 
 <div style="clear:  both"></div>
 
