@@ -17,6 +17,14 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/datronia_mollis_01_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+18.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein recht auffälliger und relativ leicht bestimmbarer Porling, die Großsporige Datronie *Datronia mollis*, die auch Weicher Resupinatporling genannt wird. Zur sicheren Identifizierung müssen drei Merkmale zutreffen: 1. Fruchtkörper flächig bis hütchenbildend an totem Laubholz, 2. Poren relativ groß (1 bis 2 pro mm), grau bis graubraun, irregulär eckig bis labyrinthisch, auch zähnchenartig zerschlitzt, 3. mit Lupe sichtbare schwarze Linie zwischen [Context](Context "Glossar") und [Tomentum](Tomentum "Glossar").  (Dieter Gewalt) [Mehr lesen >](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lachnellula_occidentalis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,22 +61,6 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 {% include abbildung_ende.html %}
 
 13.03.2026: Die Buckeltramete *Trametes gibbosa* ist in fast jedem Wald und zu jeder Zeit zu finden und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete) zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind.  (Dieter Gewalt) [Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lophodermium_seditiosum_kiefernschütte-spaltlippe_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.03.2026: aktueller [Fundkorbpilz](AA "Glossar-") ist die Kiefernschütte-Spaltlippe *Lophodermium seditiosum*. Sie entwickelt sich an Nadeln in den Kronen von Kiefern und ist Verursacher der sogenannten Kiefernschütte. Die Folgen für befallene Bäume sind Kronenverlichtung, Triebsterben und Anfälligkeiten für andere Schadfaktoren. An abgefallenen Ästchen sind die Spaltlippen dann auch am Boden zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-seditiosum-kiefernschütte-spaltlippe)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diatrypella_favacea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.03.2026: Selbst wenn es kaum Blätterpilze und noch gar keine Röhrlinge gibt - Kleinzeug an Holz findet man immer. Allein an Kohlenbeeren und Eckenscheibchen gibt es mindestens 40 verschiedene Arten in unseren Wäldern. Wo totes Birkenholz am Boden liegt, ist mit dem Birken-Eckenscheibchen *Diatrypella favacea* zu rechnen, unserem aktuellen [Fundkorbpilz](AA "Glossar-"). Wer sich nicht damit auskennt, hält die schwarzen quer zur Ast- oder Stammlänge angeordneten *[Pyrenomyzeten](Pyrenomyzeten "Glossar")* möglicherweise für Muster der Birkenrinde. (Dieter Gewalt) [Mehr lesen >](/pilze/diatrypella-favacea-birken-eckenscheibchen)
 
 <div style="clear:  both"></div>
 
