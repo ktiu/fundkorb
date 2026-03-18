@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-18.03.2023: [Datronia mollis - Großsporige Datronie](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)  
+19.03-2026: [Tremella mesenterica - Goldgelber Zitterling](/pilze/tremella-mesenterica-goldgelber-zitterling)  
+18.03.2023: [Datronia mollis - Großsporige Datronie](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)\
 17.03.2026: [Lachnellula occidentalis - Lärchen-Haarbecherchen](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)\
 16.03.2026: [Penicillium digitatum - Grüner Schimmelpilz](/pilze/penicillium-digitatum-grüner-schimmelpilz)\
 15.03.2026: [Morchella conica - Spitzmorchel](/pilze/morchella-conica-spitzmorchel)\
