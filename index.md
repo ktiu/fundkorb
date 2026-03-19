@@ -17,6 +17,14 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/conocybe_tenera_02_md.jpg" %}
+{% include abbildung_ende.html %}
+
+20.03.2026: So rotstielig, wie der deutsche Name suggeriert, ist unser aktueller [Fundkorbpilz](AA "Glossar-") nicht. Die Stiele des Rotstieligen Samthäubchens (*Conocybe tenera*) nehmen erst im Alter eine rotbraue Färbung an. Die zarten kleinen Pilzchen erscheinen oft schon früh im Jahr auf Wiesen und Rasenflächen, auch an grasigen Wegrändern. Sie sind relativ häufig, können aber leicht mit ähnlichen Arten verwechselt werden. Um das zu vermeiden, sollte mikroskopiert werden. (Dieter Gewalt) [Mehr lesen >](/pilze/conocybe-tenera-rotstieliges-samthäubchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tremella_mesenterica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,22 +61,6 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 {% include abbildung_ende.html %}
 
 15.03.2026: Die ersten Funde der Spitzmorchel *Morchella conica* werden gerade in diversen Foren gemeldet und damit haben wir einen sehr aktuellen neuen [Fundkorbpilz](AA "Glossar-"). Das Erfreuliche dabei: es ist endlich mal wieder ein richtiger Pilz und dazu noch ein leckerer. Wie kaum anders zu erwarten, bezogen sich die Fundmeldungen auf Vorkommen auf Kiefernrindenmulch. (Dieter Gewalt) [Mehr lesen >](/pilze/morchella-conica-spitzmorchel)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rhopographus-filicinus-01.jpg" %}
-{% include abbildung_ende.html %}
-
-14.03.2026: Dieser aktuelle Fundkorbpilz ist zur Zeit in jedem Adlerfarnbestand zu finden: der Adlerfarn-Fleckenpilz *Rhopographus filicinus*. Allerdings nur an vorjährigen abgestorbenen Stängeln. Der kaum beachtete [Ascomyzet](Ascomyzeten "Glossar") verrät sich durch schwarze, strichartige Zeichnungen, die in ihrer Gesamtheit oft ein interessantes Muster bilden. Mit der Lupe betrachtet erscheint ihre Oberfläche aufgeraut. Verwechslungen können bei Beachtung des speziellen Substrats ausgeschlossen werden. (Dieter Gewalt) [Mehr lesen >](/pilze/rhopographus-filicinus-adlerfarn-fleckenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_versicolor_-_gibbosa_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.03.2026: Die Buckeltramete *Trametes gibbosa* ist in fast jedem Wald und zu jeder Zeit zu finden und darum unser aktueller [Fundkorbpilz](AA "Glossar-"). Sie wächst vor allem auf Stümpfen von Laubbäumen, am häufigsten auf Buche. Auf dem Foto sind seine konsolenförmigen Fruchtkörper zusammen mit der noch häufigeren [Schmetterlingstramete](/pilze/trametes-versicolor-schmetterlingstramete) zu sehen. Neben dem meist deutlich ausgeprägten Buckel an der Anwuchsstelle sind die lamellig in die Länge gezogenen Poren auf der Hutunterseite ein gutes Erkennungszeichen. Auffällig auch, dass die Oberseiten häufig von Grünalgen bewachsen sind.  (Dieter Gewalt) [Mehr lesen >](/pilze/trametes-versicolor-schmetterlingstramete)
 
 <div style="clear:  both"></div>
 
