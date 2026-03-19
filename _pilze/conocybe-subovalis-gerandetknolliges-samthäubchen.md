@@ -24,7 +24,7 @@ Dieser Pilz gehört zu einer Gattung kleiner zerbrechlicher Arten, die zumeist u
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/conocybe_subovalis_02_md.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/conocybe_subovalis_03_md.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="11.10.2020: auf einer Wiese am Huber See bei Penzberg, Bayern (MTB 8234.1.3); gesellig im Gras" %}
+{% include abbildung_ende.html legende="11.10.2020: auf einer Wiese am Huber See bei Penzberg, Bayern (MTB 8234.1.3); gesellig im Gras (alle Fotos von Matthias Dondl)" %}
 
 Die konisch bis glockig geformten Hüte sind grauocker bis graubeige, schwach [hygrophan](hygrophan "Glossar"), glatt und ungerieft. Die dicht stehenden Lamellen sind creme bis beige, bei Reife durch ausfallendes Sporenpulver rostbraun, ihre Schneiden sehr fein weißflockig. Etwa 20 – 25 sind durchgehend und schmal am Stiel angewachsen. Die sehr dünnen und bis zu 10 cm langen Stiele sind hell cremefarben, zur Basis hin etwas dunkler und auf ganzer Länge sehr fein bereift. Die Stielbasis ist gerandet knollig, aber nicht wurzelnd. Geruch und Geschmack unauffällig, nicht unangenehm.
 
