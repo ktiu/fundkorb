@@ -13,7 +13,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/conocybe_subovalis_01_md.jpg
   legende: "21.09.2010: Kaltenbrunn (MTB 8533.1.1) auf Mähwiese an einem Waldrand
-    in 880 m Höhe"
+    in 880 m Höhe (alle Fotos von Matthias Dondl)"
 literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 4, Nr. 393"
   - text: "German J. Krieglsteiner (Hrsg): Die Großpilze Baden-Württembergs Band 4,
