@@ -17,10 +17,18 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/arthonia_atra_03_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+21.03.2026: Auf grünweißlichem bis hellgrauem Untergrund sieht man die rätselhaften Zeichen unseres aktuellen [Fundkorbpilzes](AA "Glossar-"). Es handelt sich um die Schwarze Zeichenflechte *Arthonia atra*, die auf der Rinde verschiedener Laubbäume und auch Weißtannen wächst. Bemerkenswert: die sehr kleinen oft verzweigten Lirellen genannten Zeichen sind längs geschlitzt. Um das zu erkennen, ist eine gut vergrößernde Lupe erforderlich. (Dieter Gewalt) [Mehr lesen >](/pilze/arthonia-atra-schwarze-zeichenflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/conocybe_tenera_01_md.jpg" %}
 {% include abbildung_ende.html %}
 
-20.03.2026: So rotstielig, wie der deutsche Name suggeriert, ist unser aktueller [Fundkorbpilz](AA "Glossar-") nicht. Die Stiele des Rotstieligen Samthäubchens (*Conocybe tenera*) nehmen erst im Alter eine rotbraue Färbung an. Die zarten kleinen Pilzchen erscheinen oft schon früh im Jahr auf Wiesen und Rasenflächen, auch an grasigen Wegrändern. Sie sind relativ häufig, können aber leicht mit ähnlichen Arten verwechselt werden. Um das zu vermeiden, sollte mikroskopiert werden. (Dieter Gewalt) [Mehr lesen >](/pilze/conocybe-tenera-rotstieliges-samthäubchen)
+20.03.2026: So rotstielig, wie der deutsche Name suggeriert, ist unser aktueller [Fundkorbpilzes](AA "Glossar-") nicht. Die Stiele des Rotstieligen Samthäubchens (*Conocybe tenera*) nehmen erst im Alter eine rotbraue Färbung an. Die zarten kleinen Pilzchen erscheinen oft schon früh im Jahr auf Wiesen und Rasenflächen, auch an grasigen Wegrändern. Sie sind relativ häufig, können aber leicht mit ähnlichen Arten verwechselt werden. Um das zu vermeiden, sollte mikroskopiert werden. (Dieter Gewalt) [Mehr lesen >](/pilze/conocybe-tenera-rotstieliges-samthäubchen)
 
 <div style="clear:  both"></div>
 
