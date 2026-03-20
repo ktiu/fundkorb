@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-20.03.2026: [Conocybe tenera - Rotstieliges Samthäubchen](/pilze/conocybe-tenera-rotstieliges-samthäubchen)  
+21.03.2026: [Arthonia atra - Schwarze Zeichenflechte](/pilze/arthonia-atra-schwarze-zeichenflechte)  
+20.03.2026: [Conocybe tenera - Rotstieliges Samthäubchen](/pilze/conocybe-tenera-rotstieliges-samthäubchen)\
 19.03.2026: [Tremella mesenterica - Goldgelber Zitterling](/pilze/tremella-mesenterica-goldgelber-zitterling)\
 18.03.2023: [Datronia mollis - Großsporige Datronie](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)\
 17.03.2026: [Lachnellula occidentalis - Lärchen-Haarbecherchen](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)\
