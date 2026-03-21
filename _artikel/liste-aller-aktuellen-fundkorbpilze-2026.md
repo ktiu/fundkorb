@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-21.03.2026: [Arthonia atra - Schwarze Zeichenflechte](/pilze/arthonia-atra-schwarze-zeichenflechte)  
+22.03.2026: [Phellinus pomaceus - Pflaumen-Feuerschwamm](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)  
+21.03.2026: [Arthonia atra - Schwarze Zeichenflechte](/pilze/arthonia-atra-schwarze-zeichenflechte)\
 20.03.2026: [Conocybe tenera - Rotstieliges Samthäubchen](/pilze/conocybe-tenera-rotstieliges-samthäubchen)\
 19.03.2026: [Tremella mesenterica - Goldgelber Zitterling](/pilze/tremella-mesenterica-goldgelber-zitterling)\
 18.03.2023: [Datronia mollis - Großsporige Datronie](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)\
