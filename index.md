@@ -17,6 +17,14 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_pomaceus_04_dg-.jpg" %}
+{% include abbildung_ende.html %}
+
+22.03.2026: Um einen aktuellen [Fundkorbpilz](AA "Glossar-") zu sehen, brauche ich nur vor unsere Haustür und von da einen Meter nach rechts zu gehen. Da steht ein Blutpflaumenbaum, an dessen Stamm seit Jahren der Pflaumen-Feuerschwamm *Phellinus pomaceus* wächst. Er ist zwar ein Parasit, der eine Weißfäule im Holz erzeugt, aber besonders aggressiv ist er nicht. Der befallene Baum hat noch eine längere Lebenszeit vor sich hat und trägt noch immer reichlich Früchte. (Dieter Gewalt) [Mehr lesen >](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/arthonia_atra_03_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,14 +69,6 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 {% include abbildung_ende.html %}
 
 16.03.2026: Zu dieser Jahreszeit ist es nicht immer leicht, täglich einen aktuellen [Fundkorbpilz](AA "Glossar-") zu präsentieren. Schauen wir uns mal in der Küche um. Bevor sie im Biomüll verschwindet, betrachten wir noch kurz die vom Grünen Schimmelpilz *Penicillium digitatum* befallene Mandarine. Egal, ob Schimmelpilze an Lebensmitteln oder an Wänden erscheinen, sie sollten unbedingt vermieden oder schnellstens entsorgt werden. Ein wahrer Segen für die Menschheit ist dagegen der Schimmelpilz *Penicillium chrysogenum*, in dem *Alexander Fleming* 1928 den *Penicillin* genannten Wirkstoff entdeckt hat. Ohne dieses Antibiotikum gäbe es heute längst nicht so viele Menschen auf unserem Planeten wie jetzt. (Dieter Gewalt) [Mehr lesen >](/pilze/penicillium-digitatum-grüner-schimmelpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/morchella_conica_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.03.2026: Die ersten Funde der Spitzmorchel *Morchella conica* werden gerade in diversen Foren gemeldet und damit haben wir einen sehr aktuellen neuen [Fundkorbpilz](AA "Glossar-"). Das Erfreuliche dabei: es ist endlich mal wieder ein richtiger Pilz und dazu noch ein leckerer. Wie kaum anders zu erwarten, bezogen sich die Fundmeldungen auf Vorkommen auf Kiefernrindenmulch. (Dieter Gewalt) [Mehr lesen >](/pilze/morchella-conica-spitzmorchel)
 
 <div style="clear:  both"></div>
 
