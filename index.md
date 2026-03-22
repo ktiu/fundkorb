@@ -17,6 +17,15 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/dacrymyces_stillatus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.03.2026: Wenn es feucht ist in den Wäldern, wird man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Zerfließende Gallertträne *Dacrymyces stillatus*, nicht vergeblich suchen. Die bis zu 10 mm großen knopfförmigen Fruchtkörper erscheinen ganzjährig auf totem Nadel- und Laubholz, auf Stämmen, Ästen, Zweigen oder an Stümpfen. Beim Aufquellen fließen sie zusammen und bilden gern gelatinöse Massenvorkommen von gelblicher Farbe.
+(Dieter Gewalt) [Mehr lesen >](/pilze/dacrymyces-stillatus-zerfließende-gallertträne)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_pomaceus_04_dg-.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -53,22 +62,6 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 {% include abbildung_ende.html %}
 
 18.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein recht auffälliger und relativ leicht bestimmbarer Porling, die Großsporige Datronie *Datronia mollis*, die auch Weicher Resupinatporling genannt wird. Zur sicheren Identifizierung müssen drei Merkmale zutreffen: 1. Fruchtkörper flächig bis hütchenbildend an totem Laubholz, 2. Poren relativ groß (1 bis 2 pro mm), grau bis graubraun, irregulär eckig bis labyrinthisch, auch zähnchenartig zerschlitzt, 3. mit Lupe sichtbare schwarze Linie zwischen [Context](Context "Glossar") und [Tomentum](Tomentum "Glossar").  (Dieter Gewalt) [Mehr lesen >](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lachnellula_occidentalis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.03.2026: Hübsche kleine Haarbecherchen an toten Lärchenzweigen, deren Schönheit erst mit einer gut vegrößernden Lupe zu erkennen ist, sind mit hoher statistischer Wahrscheinlichkeit Lärchen-Haarbecherchen (*Lachnellula occidentalis*). Dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist sehr häufig und wohl in jedem Lärchenbestand zu finden, sofern es nicht zu trocken ist. (Dieter Gewalt) [Mehr lesen >](/pilze/lachnellula-occidentalis-lärchen-haarbecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/penicillium_digitatum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.03.2026: Zu dieser Jahreszeit ist es nicht immer leicht, täglich einen aktuellen [Fundkorbpilz](AA "Glossar-") zu präsentieren. Schauen wir uns mal in der Küche um. Bevor sie im Biomüll verschwindet, betrachten wir noch kurz die vom Grünen Schimmelpilz *Penicillium digitatum* befallene Mandarine. Egal, ob Schimmelpilze an Lebensmitteln oder an Wänden erscheinen, sie sollten unbedingt vermieden oder schnellstens entsorgt werden. Ein wahrer Segen für die Menschheit ist dagegen der Schimmelpilz *Penicillium chrysogenum*, in dem *Alexander Fleming* 1928 den *Penicillin* genannten Wirkstoff entdeckt hat. Ohne dieses Antibiotikum gäbe es heute längst nicht so viele Menschen auf unserem Planeten wie jetzt. (Dieter Gewalt) [Mehr lesen >](/pilze/penicillium-digitatum-grüner-schimmelpilz)
 
 <div style="clear:  both"></div>
 
