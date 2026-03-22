@@ -53,7 +53,7 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 {% include bild.html datei="/bilder/tremella_mesenterica_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-19.03.2026: Als "Gold des Nebelwaldes" wird unser aktueller [Fundkorbpilz](AA "Glossar-"), der Goldgelbe Zitterling *Tremella mesenterica*, auch beschrieben. Und tatsächlich ist er in der kühlen Jahreszeit besonders häufig zu finden und ein echter "Hingucker". Mit seinen blass gelblichen bis leuchtend orange-gelben Fruchtkörpern ist er schon von weitem zu sehen. Große Exemplare erinnern an ein Gehirn, weshalb er im englischen Sprachraum auch "yellow brain fungus“ heißt. Jung hat er eine Gummibärchen-Konsistenz, alt zerfließt er in den Fingern. Der Pilz gilt als genießbar, gibt Suppen Textur, ist aber geschmacklos. (Ulrike Swegner) [Mehr lesen >](/pilze/tremella-mesenterica-goldgelber-zitterling)
+19.03.2026: Als "Gold des Nebelwaldes" wird unser aktueller [Fundkorbpilz](AA "Glossar-"), der Goldgelbe Zitterling *Tremella mesenterica*, auch beschrieben. Und tatsächlich ist er in der kühlen Jahreszeit besonders häufig zu finden und ein echter "Hingucker". Mit seinen blass gelblichen bis leuchtend orange-gelben Fruchtkörpern ist er schon von weitem zu sehen. Große Exemplare erinnern an ein Gehirn, weshalb er im englischen Sprachraum auch "yellow brain fungus“ heißt. Jung hat er eine Gummibärchen-Konsistenz, alt zerfließt er in den Fingern. Der Pilz gilt als genießbar, gibt Suppen Textur, ist aber geschmacklos. (Ulrike Wegner) [Mehr lesen >](/pilze/tremella-mesenterica-goldgelber-zitterling)
 
 <div style="clear:  both"></div>
 
