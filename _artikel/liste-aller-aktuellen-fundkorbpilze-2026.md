@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-23.03.2026: [Dacrymyces stillatus - Zerfließende Gallertträne](/pilze/dacrymyces-stillatus-zerfließende-gallertträne)  
+24.03.2026: [Gloeophyllum sepiarium - Zaunblättling](/pilze/gloeophyllum-sepiarium-zaunblättling)  
+23.03.2026: [Dacrymyces stillatus - Zerfließende Gallertträne](/pilze/dacrymyces-stillatus-zerfließende-gallertträne)\
 22.03.2026: [Phellinus pomaceus - Pflaumen-Feuerschwamm](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)\
 21.03.2026: [Arthonia atra - Schwarze Zeichenflechte](/pilze/arthonia-atra-schwarze-zeichenflechte)\
 20.03.2026: [Conocybe tenera - Rotstieliges Samthäubchen](/pilze/conocybe-tenera-rotstieliges-samthäubchen)\
