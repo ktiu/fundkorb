@@ -17,6 +17,14 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gloeophyllum_sepiarium_01_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+24.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zaunblättling *Gloeophyllum sepiarium*, eine ein- bis mehrjährige Art, die [saprobiontisch](saprobiontisch "Glossar") an Nadelholz wächst, überwiegend an Fichte. Um den Pilz sicher zu bestimmen und gegenüber ähnlichen Arten am gleichen Substrat abzugrenzen, muss man am Hutrand auf einem Zentimeter Länge die Lamellen zählen. Sind es um die 20, ist es der Zaunblättling, sind es nur um die 10, ist es der Tannenblättling. (Dieter Gewalt) [Mehr lesen >](/pilze/gloeophyllum-sepiarium-zaunblättling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/dacrymyces_stillatus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
