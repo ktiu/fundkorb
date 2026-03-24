@@ -17,6 +17,14 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cladonia_macilenta_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+25.03.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist eine Flechte, also eine Symbiose von Pilz und Alge. Die Rotfrüchtige Säulenflechte *Cladonia macilenta* mit ihren roten Käppchen oder „Früchtchen“ zu entdecken ist kein häufiges Erlebnis und Anlass zum genaueren Hinschauen und Staunen. Tatsächlich werden in den auffälligen kleinen roten "Früchtchen" (Apothecien) die Sporen gebildet, die für die weitere Verbreitung der Art sorgen. Oft wächst sie in Gemeinschaft mit der [Gewöhnlichen Becherflechte *Cladonia pyxidata*](/pilze/cladonia-pyxidata-gewöhnliche-becherflechte); beide Arten kommen auf sehr mageren Böden vor, seltener auch auf verrottendem Totholz. (Ulrike Wegner) [Mehr lesen >](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gloeophyllum_sepiarium_01_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -62,14 +70,6 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 {% include abbildung_ende.html %}
 
 19.03.2026: Als "Gold des Nebelwaldes" wird unser aktueller [Fundkorbpilz](AA "Glossar-"), der Goldgelbe Zitterling *Tremella mesenterica*, auch beschrieben. Und tatsächlich ist er in der kühlen Jahreszeit besonders häufig zu finden und ein echter "Hingucker". Mit seinen blass gelblichen bis leuchtend orange-gelben Fruchtkörpern ist er schon von weitem zu sehen. Große Exemplare erinnern an ein Gehirn, weshalb er im englischen Sprachraum auch "yellow brain fungus“ heißt. Jung hat er eine Gummibärchen-Konsistenz, alt zerfließt er in den Fingern. Der Pilz gilt als genießbar, gibt Suppen Textur, ist aber geschmacklos. (Ulrike Wegner) [Mehr lesen >](/pilze/tremella-mesenterica-goldgelber-zitterling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/datronia_mollis_01_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-18.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein recht auffälliger und relativ leicht bestimmbarer Porling, die Großsporige Datronie *Datronia mollis*, die auch Weicher Resupinatporling genannt wird. Zur sicheren Identifizierung müssen drei Merkmale zutreffen: 1. Fruchtkörper flächig bis hütchenbildend an totem Laubholz, 2. Poren relativ groß (1 bis 2 pro mm), grau bis graubraun, irregulär eckig bis labyrinthisch, auch zähnchenartig zerschlitzt, 3. mit Lupe sichtbare schwarze Linie zwischen [Context](Context "Glossar") und [Tomentum](Tomentum "Glossar").  (Dieter Gewalt) [Mehr lesen >](/pilze/datronia-mollis-großsporige-datronie-weicher-resupinatporling)
 
 <div style="clear:  both"></div>
 
