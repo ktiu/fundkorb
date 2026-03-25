@@ -10,7 +10,12 @@ footer_scripts:
 ---
 <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
-Neuer Exkursionstermin:\
+Neuer Exkursionstermin:
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/kühkopf_01_dg.png" %}
+{% include abbildung_ende.html %}
+
 Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Kühkopf**\
 [Hier geht's zur Anmeldung >](/termine)
 
