@@ -10,7 +10,7 @@ footer_scripts:
 ---
 <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
-Neuer Exkursionstermin:
+**Neuer Exkursionstermin:**
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/kühkopf_01_dg.png" %}
@@ -20,6 +20,14 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 [Hier geht's zur Anmeldung >](/termine)
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_fragiforme_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.2026: Egal welche Jahreszeit: Kohlenbeeren sind immer da, werden aber kaum beachtet. Eine von ihnen ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Die Rötliche Kohlenbeere *Hypoxylon fragiforme* ist ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, Myzel genannt, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cladonia_macilenta_01_nk.jpg" %}
@@ -67,14 +75,6 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 {% include abbildung_ende.html %}
 
 20.03.2026: So rotstielig, wie der deutsche Name suggeriert, ist unser aktueller [Fundkorbpilz](AA "Glossar-") nicht. Die Stiele des Rotstieligen Samthäubchens (*Conocybe tenera*) nehmen erst im Alter eine rotbraue Färbung an. Die zarten kleinen Pilzchen erscheinen oft schon früh im Jahr auf Wiesen und Rasenflächen, auch an grasigen Wegrändern. Sie sind relativ häufig, können aber leicht mit ähnlichen Arten verwechselt werden. Um das zu vermeiden, sollte mikroskopiert werden. (Dieter Gewalt) [Mehr lesen >](/pilze/conocybe-tenera-rotstieliges-samthäubchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tremella_mesenterica_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.03.2026: Als "Gold des Nebelwaldes" wird unser aktueller [Fundkorbpilz](AA "Glossar-"), der Goldgelbe Zitterling *Tremella mesenterica*, auch beschrieben. Und tatsächlich ist er in der kühlen Jahreszeit besonders häufig zu finden und ein echter "Hingucker". Mit seinen blass gelblichen bis leuchtend orange-gelben Fruchtkörpern ist er schon von weitem zu sehen. Große Exemplare erinnern an ein Gehirn, weshalb er im englischen Sprachraum auch "yellow brain fungus“ heißt. Jung hat er eine Gummibärchen-Konsistenz, alt zerfließt er in den Fingern. Der Pilz gilt als genießbar, gibt Suppen Textur, ist aber geschmacklos. (Ulrike Wegner) [Mehr lesen >](/pilze/tremella-mesenterica-goldgelber-zitterling)
 
 <div style="clear:  both"></div>
 
