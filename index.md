@@ -22,6 +22,14 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/exidia_plana_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+27.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Warzige Drüsling *Exidia plana*. Mit seinem schwarzen gekröseartig gewundem Glibber, der ganze Äste überziehen kann, ist er nicht nur unverwechselbar sondern auch häufig. Besonders bei feucht-kühler Witterung wird man ihm bei fast jedem Waldspaziergang begegnen, sofern man auch mal die Wege verlässt. Sein Hauptwirt ist die Buche. Er wird auch Hexenbutter genannt und macht bei Trockenheit eine erstunliche Wandlung durch. Dann bleibt nur eine fast völlig glatte glänzende Haut zurück, die den betroffenen Ast wie schwarz lackiert erscheinen lässt. (Dieter Gewalt) Mehr lesen >
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_fragiforme_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 {% include abbildung_ende.html %}
 
 21.03.2026: Auf grünweißlichem bis hellgrauem Untergrund sieht man die rätselhaften Zeichen unseres aktuellen [Fundkorbpilzes](AA "Glossar-"). Es handelt sich um die Schwarze Zeichenflechte *Arthonia atra*, die auf der Rinde verschiedener Laubbäume und auch Weißtannen wächst. Bemerkenswert: die sehr kleinen oft verzweigten Lirellen genannten Zeichen sind längs geschlitzt. Um das zu erkennen, ist eine gut vergrößernde Lupe erforderlich. (Dieter Gewalt) [Mehr lesen >](/pilze/arthonia-atra-schwarze-zeichenflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/conocybe_tenera_01_md.jpg" %}
-{% include abbildung_ende.html %}
-
-20.03.2026: So rotstielig, wie der deutsche Name suggeriert, ist unser aktueller [Fundkorbpilz](AA "Glossar-") nicht. Die Stiele des Rotstieligen Samthäubchens (*Conocybe tenera*) nehmen erst im Alter eine rotbraue Färbung an. Die zarten kleinen Pilzchen erscheinen oft schon früh im Jahr auf Wiesen und Rasenflächen, auch an grasigen Wegrändern. Sie sind relativ häufig, können aber leicht mit ähnlichen Arten verwechselt werden. Um das zu vermeiden, sollte mikroskopiert werden. (Dieter Gewalt) [Mehr lesen >](/pilze/conocybe-tenera-rotstieliges-samthäubchen)
 
 <div style="clear:  both"></div>
 
