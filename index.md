@@ -22,6 +22,14 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinopsis_atramentaria_01_km.jpg" %}
+{% include abbildung_ende.html %}
+
+28.03.2026: Der März ist gekommen, die Bäume schlagen aus. In der Rhein-Main-Ebene u. a. Hasel, Hainbuchen und Kastanien. Auch der Faltentintling *Coprinopsis atramentaria* hat sich schon blicken lassen. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") wächst gern in Kontakt zu Baumstümpfen und Laubholzwurzeln, bei uns in der Dietzenbacher Parkanlage  am Stammgrund und im Wurzelbereich von Pappeln. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinopsis-atramentaria-faltentintling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/exidia_plana_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
