@@ -22,6 +22,14 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_leucomelaena_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.03.2026: Als ich mit dem Fahrrad in Heusenstamm (Landkreis Offenbach) stadteinwärts fuhr, sah ich am Wegrand die ersten Exemplare unseres aktuellen [Fundkorbpilzes](AA "Glossar-"). Die Schwarzweiße Lorchel *Helvella leucomelaena* erscheint schon früh im Jahr und ist auf sandigen Böden in der Nähe von Kiefern nicht selten, in manchen Jahren sogar in grossen Gruppen. Die kurz gestielten becherförmigen Fruchtkörper werden bis zu 4 cm breit und fallen durch ihren typischen „Schwarzweißkontrast“ auf, der die Art nahezu unverwechselbar macht. (Adam Adamovicz) [Mehr lesen >](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinopsis_atramentaria_01_km.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,22 +75,6 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 
 23.03.2026: Wenn es feucht ist in den Wäldern, wird man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Zerfließende Gallertträne *Dacrymyces stillatus*, nicht vergeblich suchen. Die bis zu 10 mm großen knopfförmigen Fruchtkörper erscheinen ganzjährig auf totem Nadel- und Laubholz, auf Stämmen, Ästen, Zweigen oder an Stümpfen. Beim Aufquellen fließen sie zusammen und bilden gern gelatinöse Massenvorkommen von gelblicher Farbe.
 (Dieter Gewalt) [Mehr lesen >](/pilze/dacrymyces-stillatus-zerfließende-gallertträne)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_pomaceus_04_dg-.jpg" %}
-{% include abbildung_ende.html %}
-
-22.03.2026: Um einen aktuellen [Fundkorbpilz](AA "Glossar-") zu sehen, brauche ich nur vor unsere Haustür und von da einen Meter nach rechts zu gehen. Da steht ein Blutpflaumenbaum, an dessen Stamm seit Jahren der Pflaumen-Feuerschwamm *Phellinus pomaceus* wächst. Er ist zwar ein Parasit, der eine Weißfäule im Holz erzeugt, aber besonders aggressiv ist er nicht. Der befallene Baum hat noch eine längere Lebenszeit vor sich hat und trägt noch immer reichlich Früchte. (Dieter Gewalt) [Mehr lesen >](/pilze/phellinus-pomaceus-pflaumen-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/arthonia_atra_03_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-21.03.2026: Auf grünweißlichem bis hellgrauem Untergrund sieht man die rätselhaften Zeichen unseres aktuellen [Fundkorbpilzes](AA "Glossar-"). Es handelt sich um die Schwarze Zeichenflechte *Arthonia atra*, die auf der Rinde verschiedener Laubbäume und auch Weißtannen wächst. Bemerkenswert: die sehr kleinen oft verzweigten Lirellen genannten Zeichen sind längs geschlitzt. Um das zu erkennen, ist eine gut vergrößernde Lupe erforderlich. (Dieter Gewalt) [Mehr lesen >](/pilze/arthonia-atra-schwarze-zeichenflechte)
 
 <div style="clear:  both"></div>
 
