@@ -22,6 +22,14 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/schizophyllum_commune_02_tl-1.jpg" %}
+{% include abbildung_ende.html %}
+
+30.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Spaltblättling *Schizophyllum commune*, ein überaus häufiger ganzjähriger kosmopolitischer Pilz, der in unseren Breiten vor allem totes Buchenholz besiedelt. Er wächst sogar bei anhaltender Trockenheit und selbst sonnenexponierte Standorte werden toleriert. Seine weißfilzige Oberseite ist recht unscheinbar. Um seine erstaunliche Schönheit zu bewundern, muss man seine Unterseite betrachten. (Dieter Gewalt) [Mehr lesen >](/pilze/schizophyllum-commune-spaltblättling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_leucomelaena_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -58,23 +66,6 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 {% include abbildung_ende.html %}
 
 25.03.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist eine Flechte, also eine Symbiose von Pilz und Alge. Die Rotfrüchtige Säulenflechte *Cladonia macilenta* mit ihren roten Käppchen oder „Früchtchen“ zu entdecken ist kein häufiges Erlebnis und Anlass zum genaueren Hinschauen und Staunen. Tatsächlich werden in den auffälligen kleinen roten "Früchtchen" (Apothecien) die Sporen gebildet, die für die weitere Verbreitung der Art sorgen. Oft wächst sie in Gemeinschaft mit der [Gewöhnlichen Becherflechte *Cladonia pyxidata*](/pilze/cladonia-pyxidata-gewöhnliche-becherflechte); beide Arten kommen auf sehr mageren Böden vor, seltener auch auf verrottendem Totholz. (Ulrike Wegner) [Mehr lesen >](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gloeophyllum_sepiarium_01_jr.jpg" %}
-{% include abbildung_ende.html %}
-
-24.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zaunblättling *Gloeophyllum sepiarium*, eine ein- bis mehrjährige Art, die [saprobiontisch](saprobiontisch "Glossar") an Nadelholz wächst, überwiegend an Fichte. Um den Pilz sicher zu bestimmen und gegenüber ähnlichen Arten am gleichen Substrat abzugrenzen, muss man am Hutrand auf einem Zentimeter Länge die Lamellen zählen. Sind es um die 20, ist es der Zaunblättling, sind es nur um die 10, ist es der Tannenblättling. (Dieter Gewalt) [Mehr lesen >](/pilze/gloeophyllum-sepiarium-zaunblättling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/dacrymyces_stillatus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.03.2026: Wenn es feucht ist in den Wäldern, wird man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Zerfließende Gallertträne *Dacrymyces stillatus*, nicht vergeblich suchen. Die bis zu 10 mm großen knopfförmigen Fruchtkörper erscheinen ganzjährig auf totem Nadel- und Laubholz, auf Stämmen, Ästen, Zweigen oder an Stümpfen. Beim Aufquellen fließen sie zusammen und bilden gern gelatinöse Massenvorkommen von gelblicher Farbe.
-(Dieter Gewalt) [Mehr lesen >](/pilze/dacrymyces-stillatus-zerfließende-gallertträne)
 
 <div style="clear:  both"></div>
 
