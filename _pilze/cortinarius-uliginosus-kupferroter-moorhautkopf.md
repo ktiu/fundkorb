@@ -34,7 +34,7 @@ Fruchtkörper schlank. Hut 20-60 mm, anfangs konisch oder glockig, später gewö
 
 **Mikromerkmale:** Sporen ellipsoid, warzig, 7,3 – 9,5 x 4,7 – 5,7 µm (21 Sporen gemessen)
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/cortinarius_uliginosus_03_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Sporen" %}
 
