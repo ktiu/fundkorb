@@ -35,7 +35,7 @@ Fruchtkörper schlank. Hut 20-60 mm, anfangs konisch oder glockig, später gewö
 **Mikromerkmale:** Sporen ellipsoid, warzig, 7,3 – 9,5 x 4,7 – 5,7 µm (21 Sporen gemessen)
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/cortinarius_uliginosus_02_bm.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/cortinarius_uliginosus_03_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Sporen" %}
 
 **Makrochemische Farbreaktionen:** *Dermocyben* wie unser *Cortinarius uliginosus* zeichnen sich durch sogenannte Anthrachinon-Farbstoffe aus. Diese sind unlöslich in Wasser, jedoch löslich in Ethylalkohol. Drückt man einen Fruchtkörper zwischen zwei mit Spiritus getränkte Papiertaschentücher, ergeben sich arttypische Farbabdrücke für Hutoberfläche, Stieloberfläche, Lamellen und Fleisch. Setzt man diese Farbabdrücke anschließend Ammoniakdämpfen aus, ergeben sich Farbumschläge, auch wiederum charakteristisch für jede Art. Der Abdruck mit Spiritus sowie der Umschlag mit Ammoniak-Dämpfen ergeben für Cortinarius uliginosus folgende Farben:\
