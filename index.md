@@ -22,6 +22,14 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/geopora_sumneriana_06_dg-.jpg" %}
+{% include abbildung_ende.html %}
+
+31.03.2026: Was auf den ersten Blick wie ein kleines dunkles Loch an einem rasigen Wegrand in Heusenstamm aussah, entpuppte sich bei näherem Hinschauen als Zedernborstling *Geopora sumneriana*. Die dazu gehörige Baumart war auch zugegen und beseitigte jeden Zweifel, zumal ich unseren aktuellen [Fundkorbpilz](AA "Glossar-") an gleicher Stelle schon in mehreren Jahren zuvor gesehen hatte. Einmal sogar bereits im Februar. (Adam Adamowicz) [Mehr lesen >](/pilze/geopora-sumneriana-zedern-sandborstling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/schizophyllum_commune_02_tl-1.jpg" %}
 {% include abbildung_ende.html %}
 
