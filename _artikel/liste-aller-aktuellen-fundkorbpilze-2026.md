@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-30.03.2026: [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)  
+31.03.2026: [Geopora sumneriana - Zedern-Sandborstling](/pilze/geopora-sumneriana-zedern-sandborstling)  
+30.03.2026: [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)\
 29.03.2026: [Helvella leucomelaena - Schwarzweiße Lorchel](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)\
 28.03.2026: [Coprinopsis atramentaria - Faltentintling](/pilze/coprinopsis-atramentaria-faltentintling)\
 27.03.2026: [Exidia plana - Warziger Drüsling](/pilze/exidia-plana-warziger-drüsling)\
