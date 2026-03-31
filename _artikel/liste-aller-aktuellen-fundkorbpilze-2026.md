@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-31.03.2026: [Geopora sumneriana - Zedern-Sandborstling](/pilze/geopora-sumneriana-zedern-sandborstling)  
+01.04.2026: [Lachnum virgineum - Weißes Haarbecherchen](/pilze/lachnum-virgineum-weißes-haarbecherchen)
+
+31.03.2026: [Geopora sumneriana - Zedern-Sandborstling](/pilze/geopora-sumneriana-zedern-sandborstling)\
 30.03.2026: [Schizophyllum commune - Spaltblättling](/pilze/schizophyllum-commune-spaltblättling)\
 29.03.2026: [Helvella leucomelaena - Schwarzweiße Lorchel](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)\
 28.03.2026: [Coprinopsis atramentaria - Faltentintling](/pilze/coprinopsis-atramentaria-faltentintling)\
