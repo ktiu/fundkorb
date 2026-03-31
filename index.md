@@ -22,6 +22,14 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lachnum_virgineum_03.25.jpg" %}
+{% include abbildung_ende.html %}
+
+01.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Weiße Haarbecherchen *Lachnum virgineum*. Weil es eine Menge solcher winziger weißer becherförmiger Pilze gibt, ist eine Bestimmung auf den ersten Blick kaum möglich. Das Substrat spielt eine Rolle. Wirklich Klarheit ist aber nur durch eine mikroskopische Prüfung zu gewinnen. Ohne solchen Aufwand zu betreiben, kann man sich immerhin an der Schönheit solcher Pilzvorkommen erfreuen, wozu allerdings eine gut vergrößernde Lupe erforderlich ist.  (Dieter Gewalt) [Mehr lesen >](/pilze/lachnum-virgineum-weißes-haarbecherchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/geopora_sumneriana_06_dg-.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -66,14 +74,6 @@ Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Küh
 {% include abbildung_ende.html %}
 
 26.2026: Egal welche Jahreszeit: Kohlenbeeren sind immer da, werden aber kaum beachtet. Eine von ihnen ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Die Rötliche Kohlenbeere *Hypoxylon fragiforme* ist ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, Myzel genannt, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cladonia_macilenta_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-25.03.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist eine Flechte, also eine Symbiose von Pilz und Alge. Die Rotfrüchtige Säulenflechte *Cladonia macilenta* mit ihren roten Käppchen oder „Früchtchen“ zu entdecken ist kein häufiges Erlebnis und Anlass zum genaueren Hinschauen und Staunen. Tatsächlich werden in den auffälligen kleinen roten "Früchtchen" (Apothecien) die Sporen gebildet, die für die weitere Verbreitung der Art sorgen. Oft wächst sie in Gemeinschaft mit der [Gewöhnlichen Becherflechte *Cladonia pyxidata*](/pilze/cladonia-pyxidata-gewöhnliche-becherflechte); beide Arten kommen auf sehr mageren Böden vor, seltener auch auf verrottendem Totholz. (Ulrike Wegner) [Mehr lesen >](/pilze/cladonia-macilenta-rotfrüchtige-säulenflechte)
 
 <div style="clear:  both"></div>
 
