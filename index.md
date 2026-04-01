@@ -17,6 +17,8 @@ footer_scripts:
 {% include abbildung_ende.html legende="Was uns am Kühkopf erwartet: blühender Bärlauch, hämmernde Spechte, mit etwas Glück die eine oder andere Morchel" %}
 
 Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Kühkopf**\
+[Hier geht's zur Anmeldung >](/termine)\
+Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**  
 [Hier geht's zur Anmeldung >](/termine)
 
 **Aktueller Fundkorbpilz:**
