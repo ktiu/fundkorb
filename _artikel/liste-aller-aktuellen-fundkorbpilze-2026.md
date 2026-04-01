@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
+02.04.2026: [Reticularia lycoperdon - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)  
 01.04.2026: [Lachnum virgineum - Weißes Haarbecherchen](/pilze/lachnum-virgineum-weißes-haarbecherchen)
 
 31.03.2026: [Geopora sumneriana - Zedern-Sandborstling](/pilze/geopora-sumneriana-zedern-sandborstling)\
