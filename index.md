@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/reticularia_lycoperdon_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.04.2026: Auf den ersten Blick könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") für einen [Weißen Polsterpilz](/pilze/postia-ptychogaster-weißer-polsterpilz) halten, der aber eine filzig zottige Oberfläche hat und daher nicht in Frage kommt. Zieht man den naheliegenden Schluss, dass es sich um einen [Myxomyzeten](/verwandt/schleimpilze-myxomyzeten) handeln könnte, bereitet die Bestimmung keine Probleme mehr. Der Stäublings-Schleimpilz *Reticularia lycoperdon* ist so gut wie unverwechselbar. Die polsterförmigen Fruchtkörper wachsen gern an stehenden Baumstämmen. Die weiße Außenhaut wird im Alter grau, platzt auf und gibt den Blick auf die durchscheinende Sporenmasse frei, die schließlich zu stäuben beginnt. (Dieter Gewalt) [Mehr lesen >](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lachnum_virgineum_03.25.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,14 +76,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 27.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Warzige Drüsling *Exidia plana*. Mit seinem schwarzen gekröseartig gewundem Glibber, der ganze Äste überziehen kann, ist er nicht nur unverwechselbar sondern auch häufig. Besonders bei feucht-kühler Witterung wird man ihm bei fast jedem Waldspaziergang begegnen, sofern man auch mal die Wege verlässt. Sein Hauptwirt ist die Buche. Er wird auch Hexenbutter genannt und macht bei Trockenheit eine erstunliche Wandlung durch. Dann bleibt nur eine fast völlig glatte glänzende Haut zurück, die den betroffenen Ast wie schwarz lackiert erscheinen lässt. (Dieter Gewalt) [Mehr lesen >](/pilze/exidia-plana-warziger-drüsling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_fragiforme_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.2026: Egal welche Jahreszeit: Kohlenbeeren sind immer da, werden aber kaum beachtet. Eine von ihnen ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Die Rötliche Kohlenbeere *Hypoxylon fragiforme* ist ein schönes Beispiel für das unauffällige Wirken von Pilzen, ohne das kein gesunder Wald existieren könnte. Was wir sehen, sind nur seine Fruchtkörper: kleine dunkelrotbraune und massenhaft auf am Boden liegenden Buchenästen wachsende Kügelchen. Der eigentliche Pilz ist ein Fadengeflecht im Substrat, Myzel genannt, das sich von Totholz ernährt und es recycelt. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere)
 
 <div style="clear:  both"></div>
 
