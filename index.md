@@ -12,7 +12,7 @@ footer_scripts:
 
 **Neuer Exkursionstermin:**
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/kühkopf_01_dg.png" %}
 {% include abbildung_ende.html legende="Was uns am Kühkopf erwartet: blühender Bärlauch, hämmernde Spechte, mit etwas Glück die eine oder andere Morchel" %}
 
@@ -22,6 +22,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 [Hier geht's zu den Anmeldungen >](/termine)
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/entoloma_clypeatum_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.04.2026: Zu den typischen Frühjahrspilzen gehört der Schildrötling *Entoloma clypeatum*, unser aktueller [Fundkorbpilz](AA "Glossar-"). In und um Dietzenbach gibt es mehrere standorttreue Vorkommen, unter anderem auf zwei Streuobstwiesen. Hier kann auch mit seinem optisch oft kaum unterscheidbaren Doppelgänger, dem Schlehenrötling *[Entoloma sepium](/pilze/entoloma-sepium-schlehenrötling)*, gerechnet werden. Beide sind gute Speisepilze, Pilzsammler sollten jedoch auf der Hut sein. Unter den Rötlingen gibt es etliche giftige. (Dieter Gewalt) [Mehr lesen >](/pilze/entoloma-clypeatum-schildrötling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/reticularia_lycoperdon_01_dg.jpg" %}
@@ -68,14 +76,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 28.03.2026: Der März ist gekommen, die Bäume schlagen aus. In der Rhein-Main-Ebene u. a. Hasel, Hainbuchen und Kastanien. Auch der Faltentintling *Coprinopsis atramentaria* hat sich schon blicken lassen. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") wächst gern in Kontakt zu Baumstümpfen und Laubholzwurzeln, bei uns in der Dietzenbacher Parkanlage  am Stammgrund und im Wurzelbereich von Pappeln. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinopsis-atramentaria-faltentintling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/exidia_plana_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-27.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Warzige Drüsling *Exidia plana*. Mit seinem schwarzen gekröseartig gewundem Glibber, der ganze Äste überziehen kann, ist er nicht nur unverwechselbar sondern auch häufig. Besonders bei feucht-kühler Witterung wird man ihm bei fast jedem Waldspaziergang begegnen, sofern man auch mal die Wege verlässt. Sein Hauptwirt ist die Buche. Er wird auch Hexenbutter genannt und macht bei Trockenheit eine erstunliche Wandlung durch. Dann bleibt nur eine fast völlig glatte glänzende Haut zurück, die den betroffenen Ast wie schwarz lackiert erscheinen lässt. (Dieter Gewalt) [Mehr lesen >](/pilze/exidia-plana-warziger-drüsling)
 
 <div style="clear:  both"></div>
 
