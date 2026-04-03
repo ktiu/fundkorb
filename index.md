@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mollisia_cinerea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.04.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder einer, den man mit der Lupe suchen muss. Und zwar an Unterseiten von vermoderndem feuchtem Totholz. Daran ist das häufige Aschgraue Weichbecherchen *Mollisia cinerea* zu finden, das maximal 2 mm groß werden kann und stiellos auf seinem Substrat sitzt, meist in dichtgedrängten Rasen. Da es zahlreiche ebenfalls graue Becherchen in dieser und in verwandten Gattungen gibt, ist die sichere Bestimmung nicht einfach. Ohne Mikroskop geht da nur wenig. (Dieter Gewalt) [Mehr lesen >](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/entoloma_clypeatum_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -60,22 +68,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 30.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Spaltblättling *Schizophyllum commune*, ein überaus häufiger ganzjähriger kosmopolitischer Pilz, der in unseren Breiten vor allem totes Buchenholz besiedelt. Er wächst sogar bei anhaltender Trockenheit und selbst sonnenexponierte Standorte werden toleriert. Seine weißfilzige Oberseite ist recht unscheinbar. Um seine erstaunliche Schönheit zu bewundern, muss man seine Unterseite betrachten. (Dieter Gewalt) [Mehr lesen >](/pilze/schizophyllum-commune-spaltblättling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_leucomelaena_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.03.2026: Als ich mit dem Fahrrad in Heusenstamm (Landkreis Offenbach) stadteinwärts fuhr, sah ich am Wegrand die ersten Exemplare unseres aktuellen [Fundkorbpilzes](AA "Glossar-"). Die Schwarzweiße Lorchel *Helvella leucomelaena* erscheint schon früh im Jahr und ist auf sandigen Böden in der Nähe von Kiefern nicht selten, in manchen Jahren sogar in grossen Gruppen. Die kurz gestielten becherförmigen Fruchtkörper werden bis zu 4 cm breit und fallen durch ihren typischen „Schwarzweißkontrast“ auf, der die Art nahezu unverwechselbar macht. (Adam Adamovicz) [Mehr lesen >](/pilze/helvella-leucomelaena-schwarzweiße-lorchel)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinopsis_atramentaria_01_km.jpg" %}
-{% include abbildung_ende.html %}
-
-28.03.2026: Der März ist gekommen, die Bäume schlagen aus. In der Rhein-Main-Ebene u. a. Hasel, Hainbuchen und Kastanien. Auch der Faltentintling *Coprinopsis atramentaria* hat sich schon blicken lassen. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") wächst gern in Kontakt zu Baumstümpfen und Laubholzwurzeln, bei uns in der Dietzenbacher Parkanlage  am Stammgrund und im Wurzelbereich von Pappeln. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinopsis-atramentaria-faltentintling)
 
 <div style="clear:  both"></div>
 
