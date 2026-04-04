@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinus_tigrinus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.04.2026: Nicht zu übersehen bei unserem Ausflug zum Naturschutzgbegiet Kühkopf am Rhein waren einige üppig mit Getigerten Knäuelingen (*Lentinus tigrinus*) bewachsenen Weidenstämme. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist jung, solange er noch zart ist, sogar essbar. Er gilt als selten, ist im NSG Kühkopf aber an mehreren Stellen regelmäßig und oft in großer Zahl anzutreffen. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/lentinus-tigrinus-getigerter-knäueling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mollisia_cinerea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
