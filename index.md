@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/auriscalpium_vulgare_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.04.2026: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Ohrlöffelstacheling *Auriscalpium vulgare*, kann man durchaus als Kuriosität bezeichnen. Es handelt sich um eine unverwechselbare Gestalt auf einem unverwechselbaren Substrat: ein seitlich gestieltes braunes Pilzchen mit einer stacheligen Unterseite (dem *Hymenium*), das ausschließlich auf Kiefernzapfen wächst und in keinem Kiefernwald fehlen dürfte. Könnte allerdings sein, dass der Zapfen im Boden vergraben liegt und nicht sofort sichtbar ist. (Dieter Gewalt) [Mehr lesen >](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lentinus_tigrinus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,14 +76,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 31.03.2026: Was auf den ersten Blick wie ein kleines dunkles Loch an einem rasigen Wegrand in Heusenstamm aussah, entpuppte sich bei näherem Hinschauen als Zedern-Sandborstling *Geopora sumneriana*. Die dazu gehörige Baumart war auch zugegen und beseitigte jeden Zweifel, zumal ich unseren aktuellen [Fundkorbpilz](AA "Glossar-") an gleicher Stelle schon in mehreren Jahren zuvor gesehen hatte. Einmal sogar bereits im Februar. (Adam Adamowicz) [Mehr lesen >](/pilze/geopora-sumneriana-zedern-sandborstling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/schizophyllum_commune_02_tl-1.jpg" %}
-{% include abbildung_ende.html %}
-
-30.03.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Spaltblättling *Schizophyllum commune*, ein überaus häufiger ganzjähriger kosmopolitischer Pilz, der in unseren Breiten vor allem totes Buchenholz besiedelt. Er wächst sogar bei anhaltender Trockenheit und selbst sonnenexponierte Standorte werden toleriert. Seine weißfilzige Oberseite ist recht unscheinbar. Um seine erstaunliche Schönheit zu bewundern, muss man seine Unterseite betrachten. (Dieter Gewalt) [Mehr lesen >](/pilze/schizophyllum-commune-spaltblättling)
 
 <div style="clear:  both"></div>
 
