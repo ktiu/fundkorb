@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-05.04.2026: [Lentinus tigrinus - Getigerter Knäueling](/pilze/lentinus-tigrinus-getigerter-knäueling)  
+06.04.2026: [Auriscalpium vulgare - Ohrlöffelstacheling](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)  
+05.04.2026: [Lentinus tigrinus - Getigerter Knäueling](/pilze/lentinus-tigrinus-getigerter-knäueling)\
 04.04.2026: [Mollisia cinerea - Aschgraues Weichbechecherchen](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)\
 03.04.2026: [Entoloma clypeatum - Schildrötling](/pilze/entoloma-clypeatum-schildrötling)\
 02.04.2026: [Reticularia lycoperdon - Stäublings-Schleimpilz](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)\
