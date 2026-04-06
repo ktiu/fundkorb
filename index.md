@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/dumontinia_tuberosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Anemonenbecherling *Dumontinia tuberosa*. Ein hübscher kleiner Becherling mit einem meist recht langen Stiel. Gefunden habe ich ihn in Polen ganz nah an einem Waldwegrand bei Posen. Wegen seiner unauffälligen braunen Farbe ist er leicht zu übersehen, weshalb man ihn oft erst nach gezielter Suche wahrnimmt. Optisch kaum zu unterscheiden ist der [Scharbockskrautbecherling *Sclerotinia binucleata*](/pilze/sclerotinia-binucleata-scharbockskrautbecherling). (Adam Adamovicz) [Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/auriscalpium_vulgare_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -60,22 +68,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 02.04.2026: Auf den ersten Blick könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") für einen [Weißen Polsterpilz](/pilze/postia-ptychogaster-weißer-polsterpilz) halten, der aber eine filzig zottige Oberfläche hat und daher nicht in Frage kommt. Zieht man den naheliegenden Schluss, dass es sich um einen [Myxomyzeten](/verwandt/schleimpilze-myxomyzeten) handeln könnte, bereitet die Bestimmung keine Probleme mehr. Der Stäublings-Schleimpilz *Reticularia lycoperdon* ist so gut wie unverwechselbar. Die polsterförmigen Fruchtkörper wachsen gern an stehenden Baumstämmen. Die weiße Außenhaut wird im Alter grau, platzt auf und gibt den Blick auf die durchscheinende Sporenmasse frei, die schließlich zu stäuben beginnt. (Dieter Gewalt) [Mehr lesen >](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lachnum_virgineum_03.25.jpg" %}
-{% include abbildung_ende.html %}
-
-01.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Weiße Haarbecherchen *Lachnum virgineum*. Weil es eine Menge solcher winziger weißer becherförmiger Pilze gibt, ist eine Bestimmung auf den ersten Blick kaum möglich. Das Substrat spielt eine Rolle. Wirklich Klarheit ist aber nur durch eine mikroskopische Prüfung zu gewinnen. Ohne solchen Aufwand zu betreiben, kann man sich immerhin an der Schönheit solcher Pilzvorkommen erfreuen, wozu allerdings eine gut vergrößernde Lupe erforderlich ist.  (Dieter Gewalt) [Mehr lesen >](/pilze/lachnum-virgineum-weißes-haarbecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/geopora_sumneriana_06_dg-.jpg" %}
-{% include abbildung_ende.html %}
-
-31.03.2026: Was auf den ersten Blick wie ein kleines dunkles Loch an einem rasigen Wegrand in Heusenstamm aussah, entpuppte sich bei näherem Hinschauen als Zedern-Sandborstling *Geopora sumneriana*. Die dazu gehörige Baumart war auch zugegen und beseitigte jeden Zweifel, zumal ich unseren aktuellen [Fundkorbpilz](AA "Glossar-") an gleicher Stelle schon in mehreren Jahren zuvor gesehen hatte. Einmal sogar bereits im Februar. (Adam Adamowicz) [Mehr lesen >](/pilze/geopora-sumneriana-zedern-sandborstling)
 
 <div style="clear:  both"></div>
 
