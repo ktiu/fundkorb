@@ -27,7 +27,7 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include bild.html datei="/bilder/spilopodia_nervisequa_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-08.04.2026: So gut wie alles, was irgendwo wächst, kreucht oder fleucht, hat seinen persönlichen Pilz oder sogar mehrere. Da macht der Wegerich keine Ausnahme. Entlang seiner Blattnerven erscheint nicht selten unser aktueller [Fundkorbpilz](AA "Glossar-"), der Wegerich-Schwarzaderpilz *Spilopodia nervisequa*, den kaum jemand kennt. Nach unseren Beobachtungen scheint er den Spitzwegerich zu bevorzugen. Seine grauen [Apothecien](<Apothecien "Glossar">) werden kaum größer als 1 mm. (Dieter Gewalt) [Mehr lesen >](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz) 
+08.04.2026: So gut wie alles, was irgendwo wächst, kreucht oder fleucht, hat seinen persönlichen Pilz oder sogar mehrere. Da macht der Wegerich keine Ausnahme. Entlang seiner Blattnerven erscheint nicht selten unser aktueller [Fundkorbpilz](AA "Glossar-"), der Wegerich-Schwarzaderpilz *Spilopodia nervisequa*, den kaum jemand kennt. Nach unseren Beobachtungen scheint er den Spitzwegerich zu bevorzugen. Seine grauen [Apothecien](Apothecien "Glossar") werden kaum größer als 1 mm. (Dieter Gewalt) [Mehr lesen >](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz) 
 
 <div style="clear:  both"></div>
 
