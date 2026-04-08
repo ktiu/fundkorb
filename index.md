@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/junghuhnia_nitida_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.04.2026: Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") kommen auf einen Millimeter Hymenium fünf bis sieben Poren. Die sind beim Schönfarbigen Resupinatporling *Junghuhnia nitida* mit bloßem Auge also kaum zu erkennen. Dazu ist der schön orange bis lachsgelb gefärbte Pilz etwas für Stöckchendreher, die in Buchenwäldern mit viel am Boden liegendem Totholz gute Chancen haben, ihn zu finden. Und immer eine Lupe dabeihaben.  (Dieter Gewalt) [Mehr lesen >](/pilze/junghuhnia-nitida-schönfarbiger-resupinatporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/spilopodia_nervisequa_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,14 +76,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 03.04.2026: Zu den typischen Frühjahrspilzen gehört der Schildrötling *Entoloma clypeatum*, unser aktueller [Fundkorbpilz](AA "Glossar-"). In und um Dietzenbach gibt es mehrere standorttreue Vorkommen, unter anderem auf zwei Streuobstwiesen. Hier kann auch mit seinem optisch oft kaum unterscheidbaren Doppelgänger, dem Schlehenrötling *[Entoloma sepium](/pilze/entoloma-sepium-schlehenrötling)*, gerechnet werden. Beide sind gute Speisepilze, Pilzsammler sollten jedoch auf der Hut sein. Unter den Rötlingen gibt es etliche giftige. (Dieter Gewalt) [Mehr lesen >](/pilze/entoloma-clypeatum-schildrötling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/reticularia_lycoperdon_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.04.2026: Auf den ersten Blick könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") für einen [Weißen Polsterpilz](/pilze/postia-ptychogaster-weißer-polsterpilz) halten, der aber eine filzig zottige Oberfläche hat und daher nicht in Frage kommt. Zieht man den naheliegenden Schluss, dass es sich um einen [Myxomyzeten](/verwandt/schleimpilze-myxomyzeten) handeln könnte, bereitet die Bestimmung keine Probleme mehr. Der Stäublings-Schleimpilz *Reticularia lycoperdon* ist so gut wie unverwechselbar. Die polsterförmigen Fruchtkörper wachsen gern an stehenden Baumstämmen. Die weiße Außenhaut wird im Alter grau, platzt auf und gibt den Blick auf die durchscheinende Sporenmasse frei, die schließlich zu stäuben beginnt. (Dieter Gewalt) [Mehr lesen >](/pilze/reticularia-lycoperdon-stäublings-schleimpilz)
 
 <div style="clear:  both"></div>
 
