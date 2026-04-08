@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-08.06.2026: [Spilopodia nervisequa - Wegerich-Schwarzaderpilz](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz)  
+09.06.2026: [Junghuhnia nitida - Schönfarbiger Resupinatporling](/pilze/junghuhnia-nitida-schönfarbiger-resupinatporling)  
+08.06.2026: [Spilopodia nervisequa - Wegerich-Schwarzaderpilz](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz)\
 07.06.2026: [Dumontinia tuberosa - Anemonenbecherling](/pilze/dumontinia-tuberosa-anemonenbecherling)\
 06.04.2026: [Auriscalpium vulgare - Ohrlöffelstacheling](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)\
 05.04.2026: [Lentinus tigrinus - Getigerter Knäueling](/pilze/lentinus-tigrinus-getigerter-knäueling)\
