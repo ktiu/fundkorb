@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_gausapatum_04_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+10.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zottige Eichenschichtpilz *Stereum gausapatum*. Er gehört zu den Schichtpilzarten mit deutlich abstehenden Hutkanten, die beim Anritzen oder Reiben mit befeuchtetem Finger röten. Ein weiteres Merkmal ist die gekräuselte Randstruktur der Fruchtkörper. Er ist nahezu ausschließlich an Eichen zu finden und nicht sehr häufig. (Bernd Miggel) [Mehr lesen >](/pilze/stereum-gausapatum-zottiger-eichenschichtpilz) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/junghuhnia_nitida_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -44,14 +52,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 07.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Anemonenbecherling *Dumontinia tuberosa*. Ein hübscher kleiner Becherling mit einem meist recht langen Stiel. Gefunden habe ich ihn in Polen ganz nah an einem Waldwegrand bei Posen. Wegen seiner unauffälligen braunen Farbe ist er leicht zu übersehen, weshalb man ihn oft erst nach gezielter Suche wahrnimmt. Optisch kaum zu unterscheiden ist der [Scharbockskrautbecherling *Sclerotinia binucleata*](/pilze/sclerotinia-binucleata-scharbockskrautbecherling). (Adam Adamovicz) [Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/auriscalpium_vulgare_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.04.2026: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Ohrlöffelstacheling *Auriscalpium vulgare*, kann man durchaus als Kuriosität bezeichnen. Es handelt sich um eine unverwechselbare Gestalt auf einem unverwechselbaren Substrat: ein seitlich gestieltes braunes Pilzchen mit einer stacheligen Unterseite (dem *Hymenium*), das ausschließlich auf Kiefernzapfen wächst und in keinem Kiefernwald fehlen dürfte. Könnte allerdings sein, dass der Zapfen im Boden vergraben liegt und nicht sofort sichtbar ist. (Dieter Gewalt) [Mehr lesen >](/pilze/auriscalpium-vulgare-ohrlöffelstacheling)
 
 <div style="clear:  both"></div>
 
