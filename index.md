@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gloeophyllum_odoratum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.04.2026: Es gibt nur wenige Pilzarten, die man mit verbundenen Augen erkennen kann. Eine von ihnen ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Fenchelporling *Gloeophyllum odoratum*. Er fühlt sich hart und klobig an und riecht intensiv nach Fenchel. Der mehrjährige Pilz wächst an totem Fichtenholz und bevorzugt die Schnittflächen von Stümpfen. Oft wachsen mehrere Exemplare zu umfangreichen Konglomeraten zusammen. (Dieter Gewalt) [Mehr lesen >](/pilze/gloeophyllum-odoratum-fenchelporling)
+
+ <div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_gausapatum_04_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -36,14 +44,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 09.04.2026: Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") kommen auf einen Millimeter [Hymenium](Hymenium "Glossar") fünf bis sieben Poren. Die sind beim Schönfarbigen Resupinatporling *Junghuhnia nitida* mit bloßem Auge also kaum zu erkennen. Dazu ist der schön orange bis lachsgelb gefärbte Pilz etwas für Stöckchendreher, die in Buchenwäldern mit viel am Boden liegendem Totholz gute Chancen haben, ihn zu finden. Und immer eine Lupe dabeihaben.  (Dieter Gewalt) [Mehr lesen >](/pilze/junghuhnia-nitida-schönfarbiger-resupinatporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/spilopodia_nervisequa_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.04.2026: So gut wie alles, was irgendwo wächst, kreucht oder fleucht, hat seinen persönlichen Pilz oder sogar mehrere. Da macht der Wegerich keine Ausnahme. Entlang seiner Blattnerven erscheint nicht selten unser aktueller [Fundkorbpilz](AA "Glossar-"), der Wegerich-Schwarzaderpilz *Spilopodia nervisequa*, den kaum jemand kennt. Nach unseren Beobachtungen scheint er den Spitzwegerich zu bevorzugen. Seine grauen [Apothecien](Apothecien "Glossar") werden kaum größer als 1 mm. (Dieter Gewalt) [Mehr lesen >](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz) 
 
 <div style="clear:  both"></div>
 
