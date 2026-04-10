@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-10.06.2026: [Stereum gausapatum - Zottiger Eichenschichtpilz](/pilze/stereum-gausapatum-zottiger-eichenschichtpilz)  
+11.04.2026: [Gloeophyllum odoratum - Fenchelporling](/pilze/gloeophyllum-odoratum-fenchelporling)  
+10.06.2026: [Stereum gausapatum - Zottiger Eichenschichtpilz](/pilze/stereum-gausapatum-zottiger-eichenschichtpilz)\
 09.06.2026: [Junghuhnia nitida - Schönfarbiger Resupinatporling](/pilze/junghuhnia-nitida-schönfarbiger-resupinatporling)\
 08.06.2026: [Spilopodia nervisequa - Wegerich-Schwarzaderpilz](/pilze/spilopodia-nervisequa-wegerich-schwarzaderpilz)\
 07.06.2026: [Dumontinia tuberosa - Anemonenbecherling](/pilze/dumontinia-tuberosa-anemonenbecherling)\
