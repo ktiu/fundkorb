@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinellus_xanthothrix_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.04.2026: Tintlinge sind nicht immer leicht zu bestimmen. Insbesondere die Glimmertintlinge der Gattung *Coprinellus* erfordern Bestimmungsaufwand. Auch mikroskopische Merkmale sind zu berücksichtigen. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gelbschuppige Tintling *Coprinellus xanthothrix*, wuchs auf einer Rasenfläche zum Teil unter Gebüsch und über eine größere Fläche verteilt. Die fast bis zur Mitte gerieften Hüte hatten aufgeschirmt Durchmesser bis zu 2,5 cm, ihre Oberfläche war mit vergänglichem, gelblich körnigem [Velum](Velum "Glossar") besetzt. Die weißen dünnen Stiele hatten an der Basis ein unauffälliges Knöllchen. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinellus-xanthothrix-gelbschuppiger-tintling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gloeophyllum_odoratum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
