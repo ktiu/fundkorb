@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/morchella_esculenta_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.04.2026: Die ersten Speisemorcheln sind da! Und damit ist *Morchella esculenta* mein aktueller [Fundkorbpilz](AA "Glossar-"). Gefunden habe sie in Polen in der Gegend von Posen und jetzt auch der Peripherie von Offenbach in einer Streuobstwiese unter einem Apfelbaum. Für ein Pilzgericht haben sie noch nicht gereicht. Ich habe sie getrocknet und konserviert. Bitte nicht mit der [Frühjarslorchel *Gyromitra esculenta*](/artikel/ein-delikater-giftpilz) verwechseln! Die ist, auch wenn *„esculenta“* essbar (und lecker) bedeutet, potentiell tödlich giftig! (Adam Adamovicz) [Mehr lesen >](/pilze/morchella-esculenta-speisemorchel)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinellus_xanthothrix_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,22 +76,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 05.04.2026: Nicht zu übersehen bei unserem Ausflug zum Naturschutzgbegiet Kühkopf am Rhein waren einige üppig mit Getigerten Knäuelingen (*Lentinus tigrinus*) bewachsenen Weidenstämme. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist jung, solange er noch zart ist, sogar essbar. Er gilt als selten, ist im NSG Kühkopf aber an mehreren Stellen regelmäßig und oft in großer Zahl anzutreffen. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/lentinus-tigrinus-getigerter-knäueling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mollisia_cinerea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.04.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist mal wieder einer, den man mit der Lupe suchen muss. Und zwar an Unterseiten von vermoderndem feuchtem Totholz. Daran ist das häufige Aschgraue Weichbecherchen *Mollisia cinerea* zu finden, das maximal 2 mm groß werden kann und stiellos auf seinem Substrat sitzt, meist in dichtgedrängten Rasen. Da es zahlreiche ebenfalls graue Becherchen in dieser und in verwandten Gattungen gibt, ist die sichere Bestimmung nicht einfach. Ohne Mikroskop geht da nur wenig. (Dieter Gewalt) [Mehr lesen >](/pilze/mollisia-cinerea-aschgraues-weichbecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/entoloma_clypeatum_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.04.2026: Zu den typischen Frühjahrspilzen gehört der Schildrötling *Entoloma clypeatum*, unser aktueller [Fundkorbpilz](AA "Glossar-"). In und um Dietzenbach gibt es mehrere standorttreue Vorkommen, unter anderem auf zwei Streuobstwiesen. Hier kann auch mit seinem optisch oft kaum unterscheidbaren Doppelgänger, dem Schlehenrötling *[Entoloma sepium](/pilze/entoloma-sepium-schlehenrötling)*, gerechnet werden. Beide sind gute Speisepilze, Pilzsammler sollten jedoch auf der Hut sein. Unter den Rötlingen gibt es etliche giftige. (Dieter Gewalt) [Mehr lesen >](/pilze/entoloma-clypeatum-schildrötling)
 
 <div style="clear:  both"></div>
 
