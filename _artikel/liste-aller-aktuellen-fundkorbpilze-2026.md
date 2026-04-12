@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-12.04.2026: [Coprinellus xanthothrix - Gelbschuppiger Tintling](/pilze/coprinellus-xanthothrix-gelbschuppiger-tintling)  
+13.04.2026: [Morchella esculenta - Speisemorchel](/pilze/morchella-esculenta-speisemorchel)  
+12.04.2026: [Coprinellus xanthothrix - Gelbschuppiger Tintling](/pilze/coprinellus-xanthothrix-gelbschuppiger-tintling)\
 11.04.2026: [Gloeophyllum odoratum - Fenchelporling](/pilze/gloeophyllum-odoratum-fenchelporling)\
 10.06.2026: [Stereum gausapatum - Zottiger Eichenschichtpilz](/pilze/stereum-gausapatum-zottiger-eichenschichtpilz)\
 09.06.2026: [Junghuhnia nitida - Schönfarbiger Resupinatporling](/pilze/junghuhnia-nitida-schönfarbiger-resupinatporling)\
