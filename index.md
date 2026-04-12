@@ -27,7 +27,7 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include bild.html datei="/bilder/morchella_esculenta_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-13.04.2026: Die ersten Speisemorcheln sind da! Und damit ist *Morchella esculenta* mein aktueller [Fundkorbpilz](AA "Glossar-"). Gefunden habe sie in Polen in der Gegend von Posen und jetzt auch der Peripherie von Offenbach in einer Streuobstwiese unter einem Apfelbaum. Für ein Pilzgericht haben sie noch nicht gereicht. Ich habe sie getrocknet und konserviert. Bitte nicht mit der [Frühjarslorchel *Gyromitra esculenta*](/artikel/ein-delikater-giftpilz) verwechseln! Die ist, auch wenn *„esculenta“* essbar (und lecker) bedeutet, potentiell tödlich giftig! (Adam Adamovicz) [Mehr lesen >](/pilze/morchella-esculenta-speisemorchel)
+13.04.2026: Die ersten Speisemorcheln sind da! Und damit ist *Morchella esculenta* mein aktueller [Fundkorbpilz](AA "Glossar-"). Gefunden habe sie in Polen in der Gegend von Posen und jetzt auch der Peripherie von Offenbach in einer Streuobstwiese unter einem Apfelbaum. Für ein Pilzgericht haben sie noch nicht gereicht. Ich habe sie getrocknet und konserviert. 100 Gramm getrocknete kosten 45 bis 90 €. Bitte nicht mit der [Frühjarslorchel *Gyromitra esculenta*](/artikel/ein-delikater-giftpilz) verwechseln! Die ist, auch wenn *„esculenta“* essbar (und lecker) bedeutet, potentiell tödlich giftig! (Adam Adamovicz) [Mehr lesen >](/pilze/morchella-esculenta-speisemorchel)
 
 <div style="clear:  both"></div>
 
