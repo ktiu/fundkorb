@@ -27,7 +27,7 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include bild.html datei="/bilder/dasyscyphella_nivea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-14.04.2026: Einen begeisternden Anblick bietet unser aktueller [Fundkorbpilz](AA "Glossar-"), das Schneeweiße Haarbecherchen *Dasyscyphella nivea*. Der winzige [Ascomyzet](Ascomyzet "Glossar") begegnete uns gestern mehrfach an totem Eichenholz. An einigen der becher-, kelch- oder tellerförmigen gestielten Fruchtkörper hingen auch noch winzige Wassertröpfchen, was allerdings nur mit einer stark vergrößernden Lupe zu erkennen war. (Dieter Gewalt) [Mehr lesen >](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)
+14.04.2026: Einen begeisternden Anblick bietet unser aktueller [Fundkorbpilz](AA "Glossar-"), das Schneeweiße Haarbecherchen *Dasyscyphella nivea*. Der winzige [Ascomyzet](Ascomyzeten "Glossar") begegnete uns gestern mehrfach an totem Eichenholz. An einigen der becher-, kelch- oder tellerförmigen gestielten Fruchtkörper hingen auch noch winzige Wassertröpfchen, was allerdings nur mit einer stark vergrößernden Lupe zu erkennen war. (Dieter Gewalt) [Mehr lesen >](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)
 
 <div style="clear:  both"></div>
 
