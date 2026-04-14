@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/conocybe_aporos_02_vz.jpg" %}
+{% include abbildung_ende.html %}
+
+15.04.2026: Diesen aktuellen [Fundkorbpilz](AA "Glossar-") habe ich gestern am Dietzenbacher Wollwiesenteich gefunden. Es ist der Frühlings-Glockenschüppling *Conocybe aporos*, der hier schon ab März und bis Juni erscheinen kann. Unter den *Conocybe*-Arten mit beringtem Stiel gibt es nur eine, deren Sporen keinen Keimporus besitzen. Der Pilz ist also leicht von ähnlichen Arten zu trennen – man muss nur mikroskopieren! Einen gewissen Verdachtsmoment liefert die frühe Erscheinungszeit und die Tatsache, dass er Wegränder, Parkanlagen, offene und grasige Stellen sowie stickstoffreiche Plätze unter Kräutern bevorzugt. (Dieter Gewalt) [Mehr lesen >](/pilze/conocybe-aporos-frühlings-glockenschüppling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/dasyscyphella_nivea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -76,14 +84,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 07.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Anemonenbecherling *Dumontinia tuberosa*. Ein hübscher kleiner Becherling mit einem meist recht langen Stiel. Gefunden habe ich ihn in Polen ganz nah an einem Waldwegrand bei Posen. Wegen seiner unauffälligen braunen Farbe ist er leicht zu übersehen, weshalb man ihn oft erst nach gezielter Suche wahrnimmt. Optisch kaum zu unterscheiden ist der [Scharbockskrautbecherling *Sclerotinia binucleata*](/pilze/sclerotinia-binucleata-scharbockskrautbecherling). (Adam Adamovicz) [Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lentinus_tigrinus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.04.2026: Nicht zu übersehen bei unserem Ausflug zum Naturschutzgbegiet Kühkopf am Rhein waren einige üppig mit Getigerten Knäuelingen (*Lentinus tigrinus*) bewachsenen Weidenstämme. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist jung, solange er noch zart ist, sogar essbar. Er gilt als selten, ist im NSG Kühkopf aber an mehreren Stellen regelmäßig und oft in großer Zahl anzutreffen. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/lentinus-tigrinus-getigerter-knäueling)
 
 <div style="clear:  both"></div>
 
