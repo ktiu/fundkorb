@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-15.04.2026: [Conocybe aporos - Frühlings-Glockenschüppling](/pilze/conocybe-aporos-frühlings-glockenschüppling)  
+16.04.2026: [Helvella acetabulum - Hochgerippte Lorchel](/pilze/helvella-acetabulum-hochgerippte-lorchel)  
+15.04.2026: [Conocybe aporos - Frühlings-Glockenschüppling](/pilze/conocybe-aporos-frühlings-glockenschüppling)\
 14.04.2026: [Dasyscyphella nivea - Schneeweißes Haarbecherchen](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)\
 13.04.2026: [Morchella esculenta - Speisemorchel](/pilze/morchella-esculenta-speisemorchel)\
 12.04.2026: [Coprinellus xanthothrix - Gelbschuppiger Tintling](/pilze/coprinellus-xanthothrix-gelbschuppiger-tintling)\
