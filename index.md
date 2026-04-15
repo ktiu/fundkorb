@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_acetabulum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.04.2026: Es tut sich was! In der Eifel unterwegs habe ich an einem Waldwegrand meine ersten Hochgerippten Lorcheln (*Helvella acetabulum*) des Jahres gefunden. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist auch unter dem Namen Pokalrippenbecherling bekannt und ein typischer Frühjahrspilz, der keineswegs mit Becherlingen verwandt ist. Es handelt sich um eine ausgesprochen hübsche Art, die recht gut zu erkennen ist, wenn man auf die vielfältig gerippten Stiele und die frühe Erscheinungszeit achtet. (Adam Adamovicz) [Mehr lesen >](/pilze/helvella-acetabulum-hochgerippte-lorchel)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/conocybe_aporos_02_vz.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -76,14 +84,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 09.04.2026: Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") kommen auf einen Millimeter [Hymenium](Hymenium "Glossar") fünf bis sieben Poren. Die sind beim Schönfarbigen Resupinatporling *Junghuhnia nitida* mit bloßem Auge also kaum zu erkennen. Dazu ist der schön orange bis lachsgelb gefärbte Pilz etwas für Stöckchendreher, die in Buchenwäldern mit viel am Boden liegendem Totholz gute Chancen haben, ihn zu finden. Und immer eine Lupe dabeihaben.  (Dieter Gewalt) [Mehr lesen >](/pilze/junghuhnia-nitida-schönfarbiger-resupinatporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/dumontinia_tuberosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Anemonenbecherling *Dumontinia tuberosa*. Ein hübscher kleiner Becherling mit einem meist recht langen Stiel. Gefunden habe ich ihn in Polen ganz nah an einem Waldwegrand bei Posen. Wegen seiner unauffälligen braunen Farbe ist er leicht zu übersehen, weshalb man ihn oft erst nach gezielter Suche wahrnimmt. Optisch kaum zu unterscheiden ist der [Scharbockskrautbecherling *Sclerotinia binucleata*](/pilze/sclerotinia-binucleata-scharbockskrautbecherling). (Adam Adamovicz) [Mehr lesen >](/pilze/dumontinia-tuberosa-anemonenbecherling)
 
 <div style="clear:  both"></div>
 
