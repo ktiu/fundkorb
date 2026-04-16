@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/parmelia_sulcata_04_lh.jpg" %}
+{% include abbildung_ende.html %}
+
+17.04.2026: Findet man die Sulkatflechte *Parmelia sulcata*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), einmal mit zahlreichen [Apothecien](Apothecien "Glossar"), ist das schon etwas Besonderes (siehe Abbildung). Wie fanden mehrere [Thalli](Thallus "Glossar") dieser häufigen und weit verbreiteten Art auf der Rinde eines freistehenden Mehlbeerbaums in einem feuchten Kiefernwald im nördlichen Schwarzwald. (Bernd Miggel) [Mehr lesen >](/pilze/parmelia-sulcata-sulkatflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_acetabulum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -70,14 +78,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 11.04.2026: Es gibt nur wenige Pilzarten, die man mit verbundenen Augen erkennen kann. Eine von ihnen ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Fenchelporling *Gloeophyllum odoratum*. Er fühlt sich hart und klobig an und riecht intensiv nach Fenchel. Der mehrjährige Pilz wächst an totem Fichtenholz und bevorzugt die Schnittflächen von Stümpfen. Oft wachsen mehrere Exemplare zu umfangreichen Konglomeraten zusammen. (Dieter Gewalt) [Mehr lesen >](/pilze/gloeophyllum-odoratum-fenchelporling)
 
  <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_gausapatum_04_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-10.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Zottige Eichenschichtpilz *Stereum gausapatum*. Er gehört zu den Schichtpilzarten mit deutlich abstehenden Hutkanten, die beim Anritzen oder Reiben mit befeuchtetem Finger röten. Ein weiteres Merkmal ist die gekräuselte Randstruktur der Fruchtkörper. Er ist nahezu ausschließlich an Eichen zu finden und nicht sehr häufig. (Bernd Miggel) [Mehr lesen >](/pilze/stereum-gausapatum-zottiger-eichenschichtpilz) 
-
-<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/junghuhnia_nitida_01_dg.jpg" %}
