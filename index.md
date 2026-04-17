@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/psathyrella_candolleana_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Behangene Faserling *Psathyrella candolleana*. Bei Kennern ein beliebter Suppenpilz, der schon früh im Jahr erscheint und bis in den Spätherbst zu finden ist. Er wächst stets an Holz, auch an vergrabenem, was ein Vorkommen auf Erde vortäuschen kann. Am einzelnen Pilz ist nicht viel dran, aber sein meist geselliges Erscheinen lohnt das Einsammeln. Aber bitte nur, wenn man sich seiner Sache wirklich sicher ist. (Dieter Gewalt) [Mehr lesen >](/pilze/psathyrella-candolleana-behangener-faserling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/parmelia_sulcata_04_lh.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -78,14 +86,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 11.04.2026: Es gibt nur wenige Pilzarten, die man mit verbundenen Augen erkennen kann. Eine von ihnen ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Fenchelporling *Gloeophyllum odoratum*. Er fühlt sich hart und klobig an und riecht intensiv nach Fenchel. Der mehrjährige Pilz wächst an totem Fichtenholz und bevorzugt die Schnittflächen von Stümpfen. Oft wachsen mehrere Exemplare zu umfangreichen Konglomeraten zusammen. (Dieter Gewalt) [Mehr lesen >](/pilze/gloeophyllum-odoratum-fenchelporling)
 
  <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/junghuhnia_nitida_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.04.2026: Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") kommen auf einen Millimeter [Hymenium](Hymenium "Glossar") fünf bis sieben Poren. Die sind beim Schönfarbigen Resupinatporling *Junghuhnia nitida* mit bloßem Auge also kaum zu erkennen. Dazu ist der schön orange bis lachsgelb gefärbte Pilz etwas für Stöckchendreher, die in Buchenwäldern mit viel am Boden liegendem Totholz gute Chancen haben, ihn zu finden. Und immer eine Lupe dabeihaben.  (Dieter Gewalt) [Mehr lesen >](/pilze/junghuhnia-nitida-schönfarbiger-resupinatporling)
-
-<div style="clear:  both"></div>
 
 - - -
 
