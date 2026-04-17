@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-17.04.2026: [Parmelia sulcata - Sulkatflechte](/pilze/parmelia-sulcata-sulkatflechte)  
+18.04.2026: [Psathyrella candolleana - Behangener Faserling](/pilze/psathyrella-candolleana-behangener-faserling)  
+17.04.2026: [Parmelia sulcata - Sulkatflechte](/pilze/parmelia-sulcata-sulkatflechte)\
 16.04.2026: [Helvella acetabulum - Hochgerippte Lorchel](/pilze/helvella-acetabulum-hochgerippte-lorchel)\
 15.04.2026: [Conocybe aporos - Frühlings-Glockenschüppling](/pilze/conocybe-aporos-frühlings-glockenschüppling)\
 14.04.2026: [Dasyscyphella nivea - Schneeweißes Haarbecherchen](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)\
