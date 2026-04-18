@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/taphrina_pruni_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.04.2026: Die Abbildung unseres aktuellen [Fundkorbpilzes](AA "Glossar-") zeigt verkümmerte und gekrümmte grünliche Früchte, die ich an einem Pflaumenbaum in einer Parkanlage fotografiert habe. Derart deformierte Früchte, die niemand mehr essen möchte, nennt man [Narrentaschen](/verwandt/narrentaschen-hexenbesen-kräuselkrankheiten). Verunstaltet wurden sie von einem Pilz, den man Pflaumen-Narrentasche (*Taphrina pruni*) nennt. Andere Pilze dieser Gattung verursachen Kräuselkrankheiten an Blättern oder Hexenbesen an Birken ohne eigene Fruchtkörper zu entwickeln. Eine verrückte Welt, dieses Reich der Pilze! (Dieter Gewalt) [Mehr lesen >](/pilze/taphrina-pruni-pflaumen-narrentasche)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/psathyrella_candolleana_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,22 +76,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 13.04.2026: Die ersten Speisemorcheln sind da! Und damit ist *Morchella esculenta* mein aktueller [Fundkorbpilz](AA "Glossar-"). Gefunden habe sie in Polen in der Gegend von Posen und jetzt auch in der Peripherie von Offenbach in einer Streuobstwiese unter einem Apfelbaum. Für ein Pilzgericht haben sie noch nicht gereicht. Ich habe sie getrocknet und konserviert. 100 Gramm getrocknete kosten 45 bis 90 €. Bitte nicht mit der [Frühjarslorchel *Gyromitra esculenta*](/artikel/ein-delikater-giftpilz) verwechseln! Die ist, auch wenn *„esculenta“* essbar (und lecker) bedeutet, potentiell tödlich giftig! (Adam Adamovicz) [Mehr lesen >](/pilze/morchella-esculenta-speisemorchel)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinellus_xanthothrix_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.04.2026: Tintlinge sind nicht immer leicht zu bestimmen. Insbesondere die Glimmertintlinge der Gattung *Coprinellus* erfordern Bestimmungsaufwand. Auch mikroskopische Merkmale sind zu berücksichtigen. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gelbschuppige Tintling *Coprinellus xanthothrix*, wuchs auf einer Rasenfläche zum Teil unter Gebüsch und über eine größere Fläche verteilt. Die fast bis zur Mitte gerieften Hüte hatten aufgeschirmt Durchmesser bis zu 2,5 cm, ihre Oberfläche war mit vergänglichem, gelblich körnigem [Velum](Velum "Glossar") besetzt. Die weißen dünnen Stiele hatten an der Basis ein unauffälliges Knöllchen. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinellus-xanthothrix-gelbschuppiger-tintling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gloeophyllum_odoratum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.04.2026: Es gibt nur wenige Pilzarten, die man mit verbundenen Augen erkennen kann. Eine von ihnen ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Fenchelporling *Gloeophyllum odoratum*. Er fühlt sich hart und klobig an und riecht intensiv nach Fenchel. Der mehrjährige Pilz wächst an totem Fichtenholz und bevorzugt die Schnittflächen von Stümpfen. Oft wachsen mehrere Exemplare zu umfangreichen Konglomeraten zusammen. (Dieter Gewalt) [Mehr lesen >](/pilze/gloeophyllum-odoratum-fenchelporling)
 
  <div style="clear:  both"></div>
 
