@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/epichloe_typhina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.04.2026: Mit gezielter Suche ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Gras-Kernpilz *Epichloe typhina*, auf ungemähten Grasflächen zu finden. Er bildet im Frühjahr weißliche bis hell gelbgrüne Überzüge auf Blattscheiden und Halmen lebender Gräser, die sich später goldgelb bis orange verfärben. Passend zu diesen Eigenschaften wird er auch Orangefarbener Manschettenpilz genannt. (Dieter Gewalt) [Mehr lesen >](/pilze/epichloe-typhina-gras-kernpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/taphrina_pruni_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -60,22 +68,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 15.04.2026: Diesen aktuellen [Fundkorbpilz](AA "Glossar-") habe ich gestern am Dietzenbacher Wollwiesenteich gefunden. Es ist der Frühlings-Glockenschüppling *Conocybe aporos*, der hier schon ab März und bis Juni erscheinen kann. Unter den *Conocybe*-Arten mit beringtem Stiel gibt es nur eine, deren Sporen keinen Keimporus besitzen. Der Pilz ist also leicht von ähnlichen Arten zu trennen – man muss nur mikroskopieren! Einen gewissen Verdachtsmoment liefert die frühe Erscheinungszeit und die Tatsache, dass er Wegränder, Parkanlagen, offene und grasige Stellen sowie stickstoffreiche Plätze unter Kräutern bevorzugt. (Dieter Gewalt) [Mehr lesen >](/pilze/conocybe-aporos-frühlings-glockenschüppling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/dasyscyphella_nivea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.04.2026: Einen begeisternden Anblick bietet unser aktueller [Fundkorbpilz](AA "Glossar-"), das Schneeweiße Haarbecherchen *Dasyscyphella nivea*. Der winzige [Ascomyzet](Ascomyzeten "Glossar") begegnete uns gestern mehrfach an totem Eichenholz. An einigen der becher-, kelch- oder tellerförmigen gestielten Fruchtkörper hingen auch noch winzige Wassertröpfchen, was allerdings nur mit einer stark vergrößernden Lupe zu erkennen war. (Dieter Gewalt) [Mehr lesen >](/pilze/dasyscyphella-nivea-schneeweißes-haarbecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/morchella_esculenta_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.04.2026: Die ersten Speisemorcheln sind da! Und damit ist *Morchella esculenta* mein aktueller [Fundkorbpilz](AA "Glossar-"). Gefunden habe sie in Polen in der Gegend von Posen und jetzt auch in der Peripherie von Offenbach in einer Streuobstwiese unter einem Apfelbaum. Für ein Pilzgericht haben sie noch nicht gereicht. Ich habe sie getrocknet und konserviert. 100 Gramm getrocknete kosten 45 bis 90 €. Bitte nicht mit der [Frühjarslorchel *Gyromitra esculenta*](/artikel/ein-delikater-giftpilz) verwechseln! Die ist, auch wenn *„esculenta“* essbar (und lecker) bedeutet, potentiell tödlich giftig! (Adam Adamovicz) [Mehr lesen >](/pilze/morchella-esculenta-speisemorchel)
 
  <div style="clear:  both"></div>
 
