@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/eriopezia_caesia_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+22.04.2026: Mit einer gut vergrößernden Lupe auf Totholz nach winzigen Pilzchen zu suchen, kann mit etwas Glück zu überraschend schönen und beeindruckenden Entdeckungen führen. Ein besonders attraktives Beispiel ist unser aktueller [Fundkorbpilz](AA "Glossar-"), das Schwarze Spinnwebbecherchen *Eriopezia caesia*. Seine dicht aneinander gedrängten [Apothecien](Apothecien "Glossar") erreichen nicht einmal einen Durchmesser von einem Millimeter.  (Dieter Gewalt) [Mehr lesen >](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/epichloe_typhina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
