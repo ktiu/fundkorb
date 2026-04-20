@@ -12,7 +12,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/eriopezia_caesia_01_dg.jpg
 ---
-Das obige Foto sagt mehr über das Aussehen dieses besonderen Pilzes aus als wortreiche Beschreibungen. Man muss allerdings wissen, dass es das Schwarze Spinnwebbecherchen, auch Braunscheibiges Wirrhaarbecherchen genannt, stark vergrößert abbildet. Die einzelnen in einen weißen spinnwebartigen Filz eingebetteten Becherchen erreichen kaum einmal einen Millimeter Durchmesser.  Da liegen die Macher von *123pilze*, die bis zu 1,5 Zentimeter angeben, mal wieder voll daneben!
+Das obige Foto sagt mehr über das Aussehen dieses besonderen Pilzes aus als wortreiche Beschreibungen. Man muss allerdings wissen, dass es das Schwarze Spinnwebbecherchen, auch Braunscheibiges Wirrhaarbecherchen genannt, stark vergrößert abbildet. Die einzelnen in einen weißen spinnwebartigen Filz eingebetteten Becherchen erreichen kaum einmal einen Millimeter Durchmesser.  Da liegen die Macher von *123pilze*, die bis zu 1,5 Zentimeter (Stand: April 2026) angeben, mal wieder voll daneben!
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/eriopezia_caesia_02_nk.jpg" %}
