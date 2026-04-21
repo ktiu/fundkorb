@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stereum_hirsutum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Striegelige Schichtpilz *Stereum hirsutum*. Er ist sehr häufig, wächst vor allem an totem Eichenholz, egal ob Stümpfe, Stämme oder Äste, und fällt durch seine kräftig gelbe Farbe schon von Weitem auf. Es gibt insgesamt sieben mitteleuropäische Stereum-Arten, die alle mit einem Porträt im Fundkorb vertreten sind. Dazu auch einen leicht zu handhabenden Bestimmungsschlüssel von Pilzfreund Bernd Miggel. (Dieter Gewalt) [Mehr lesen >](/pilze/stereum-hirsutum-striegeliger-schichtpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/eriopezia_caesia_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -70,14 +78,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 16.04.2026: Es tut sich was! In der Eifel unterwegs habe ich an einem Waldwegrand meine ersten Hochgerippten Lorcheln (*Helvella acetabulum*) des Jahres gefunden. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist auch unter dem Namen Pokalrippenbecherling bekannt und ein typischer Frühjahrspilz, der keineswegs mit Becherlingen verwandt ist. Es handelt sich um eine ausgesprochen hübsche Art, die recht gut zu erkennen ist, wenn man auf die vielfältig gerippten Stiele und die frühe Erscheinungszeit achtet. (Adam Adamovicz) [Mehr lesen >](/pilze/helvella-acetabulum-hochgerippte-lorchel)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/conocybe_aporos_02_vz.jpg" %}
-{% include abbildung_ende.html %}
-
-15.04.2026: Diesen aktuellen [Fundkorbpilz](AA "Glossar-") habe ich gestern am Dietzenbacher Wollwiesenteich gefunden. Es ist der Frühlings-Glockenschüppling *Conocybe aporos*, der hier schon ab März und bis Juni erscheinen kann. Unter den *Conocybe*-Arten mit beringtem Stiel gibt es nur eine, deren Sporen keinen Keimporus besitzen. Der Pilz ist also leicht von ähnlichen Arten zu trennen – man muss nur mikroskopieren! Einen gewissen Verdachtsmoment liefert die frühe Erscheinungszeit und die Tatsache, dass er Wegränder, Parkanlagen, offene und grasige Stellen sowie stickstoffreiche Plätze unter Kräutern bevorzugt. (Dieter Gewalt) [Mehr lesen >](/pilze/conocybe-aporos-frühlings-glockenschüppling)
-
- <div style="clear:  both"></div>
 
 - - -
 
