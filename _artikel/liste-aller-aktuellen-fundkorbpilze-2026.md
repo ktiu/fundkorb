@@ -2,7 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-22.04.2026: [Stereum hirsutum - Striegeliger Schichtpilz](<{% include abbildung_start.html stil="fliessend" %} {% include bild.html datei="/bilder/stereum_hirsutum_01_dg.jpg" %} {% include abbildung_ende.html %}  22.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Striegelige Schichtpilz *Stereum hirsutum*. Er ist sehr häufig, wächst vor allem an totem Eichenholz, egal ob Stümpfe, Stämme oder Äste, und fällt durch seine kräftig gelbe Farbe schon von Weitem auf. Es gibt insgesamt sieben mitteleuropäische Stereum-Arten, die alle mit einem Porträt im Fundkorb vertreten sind. Dazu auch einen leicht zu handhabenden Bestimmungsschlüssel von Pilzfreund Bernd Miggel. (Dieter Gewalt) [Mehr lesen >](/pilze/stereum-hirsutum-striegeliger-schichtpilz)  <div style="clear:  both"></div>>)
+22.04.2026: [Stereum hirsutum - Striegeliger Schichtpilz](/pilze/stereum-hirsutum-striegeliger-schichtpilz)  
 21.04.2026: [Eriopezia caesia - Schwarzes Spinnwebbecherchen](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)\
 20.04.2026: [Epichloe typhina - Gras-Kernpilz](/pilze/epichloe-typhina-gras-kernpilz)\
 19.04.2026: [Taphrina pruni - Pflaumen-Narrentasche](/pilze/taphrina-pruni-pflaumen-narrentasche)\
