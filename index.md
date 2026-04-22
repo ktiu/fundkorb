@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lecidella_elaeochroma_01_lh.jpeg" %}
+{% include abbildung_ende.html %}
+
+23.04.2026: Streuobstwiesen sind wahre Fundgruben für Flechten. Eine für dieses [Habitat](<Habitat "Glossar">) typische Art ist die Olivgrüne Schwarznapfflechte *Lecidella elaeochroma*, unser aktueller [Fundkorbpilz](AA "Glossar-").Wir haben sie auf dünneren Ästen von mehreren Apfelbäumen zusammen mit der [Hellen Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte) und der [Gewöhnlichen Gelbflechte](/pilze/xanthoria-parietina) gesehen. Sie besitzt schwarze [Apothecien](Apothecien "Glossar"), die man ohne Lupe bestenfalls als schwarze Pünktchen erkennen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stereum_hirsutum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,14 +76,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 17.04.2026: Findet man die Sulkatflechte *Parmelia sulcata*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), einmal mit zahlreichen [Apothecien](Apothecien "Glossar"), ist das schon etwas Besonderes (siehe Abbildung). Wie fanden mehrere [Thalli](Thallus "Glossar") dieser häufigen und weit verbreiteten Art auf der Rinde eines freistehenden Mehlbeerbaums in einem feuchten Kiefernwald im nördlichen Schwarzwald. (Bernd Miggel) [Mehr lesen >](/pilze/parmelia-sulcata-sulkatflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_acetabulum_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.04.2026: Es tut sich was! In der Eifel unterwegs habe ich an einem Waldwegrand meine ersten Hochgerippten Lorcheln (*Helvella acetabulum*) des Jahres gefunden. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist auch unter dem Namen Pokalrippenbecherling bekannt und ein typischer Frühjahrspilz, der keineswegs mit Becherlingen verwandt ist. Es handelt sich um eine ausgesprochen hübsche Art, die recht gut zu erkennen ist, wenn man auf die vielfältig gerippten Stiele und die frühe Erscheinungszeit achtet. (Adam Adamovicz) [Mehr lesen >](/pilze/helvella-acetabulum-hochgerippte-lorchel)
 
 <div style="clear:  both"></div>
 
