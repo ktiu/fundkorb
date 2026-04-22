@@ -27,7 +27,7 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include bild.html datei="/bilder/lecidella_elaeochroma_01_lh.jpeg" %}
 {% include abbildung_ende.html %}
 
-23.04.2026: Streuobstwiesen sind wahre Fundgruben für Flechten. Eine für dieses [Habitat](<Habitat "Glossar">) typische Art ist die Olivgrüne Schwarznapfflechte *Lecidella elaeochroma*, unser aktueller [Fundkorbpilz](AA "Glossar-").Wir haben sie auf dünneren Ästen von mehreren Apfelbäumen zusammen mit der [Hellen Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte) und der [Gewöhnlichen Gelbflechte](/pilze/xanthoria-parietina) gesehen. Sie besitzt schwarze [Apothecien](Apothecien "Glossar"), die man ohne Lupe bestenfalls als schwarze Pünktchen erkennen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)
+23.04.2026: Streuobstwiesen sind wahre Fundgruben für Flechten. Eine für dieses [Habitat](Habitat "Glossar") typische Art ist die Olivgrüne Schwarznapfflechte *Lecidella elaeochroma*, unser aktueller [Fundkorbpilz](AA "Glossar-").Wir haben sie auf dünneren Ästen von mehreren Apfelbäumen zusammen mit der [Hellen Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte) und der [Gewöhnlichen Gelbflechte](/pilze/xanthoria-parietina) gesehen. Sie besitzt schwarze [Apothecien](Apothecien "Glossar"), die man ohne Lupe bestenfalls als schwarze Pünktchen erkennen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)
 
 <div style="clear:  both"></div>
 
