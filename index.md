@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calocybe_gambosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.04.2026: Pilze nehmen es mit dem Datum nicht so genau. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist zwar der Maipilz *Calocybe gambosa*, aber schon seit ein paar Tagen im April präsent. In unserem Dietzenbacher Carré an der Rodgaustraße ist er gleich an mehreren Stellen erschienen. Ob er für die Küche taugt, ist Geschmacksache. Manche mögen ihn, andere verabscheuen ihn. Sein untrügliches Kennzeichen ist der aufdringliche Mehlgeruch ind Verbindung mit weißer Farbe und früher Erscheinungszeit. (Dieter Gewalt) [Mehr lesen >](/pilze/calocybe-gambosa-maipilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lecidella_elaeochroma_01_lh.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -68,14 +76,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 18.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Behangene Faserling *Psathyrella candolleana*. Bei Kennern ein beliebter Suppenpilz, der schon früh im Jahr erscheint und bis in den Spätherbst zu finden ist. Er wächst stets an Holz, auch an vergrabenem, was ein Vorkommen auf Erde vortäuschen kann. Am einzelnen Pilz ist nicht viel dran, aber sein meist geselliges Erscheinen lohnt das Einsammeln. Aber bitte nur, wenn man sich seiner Sache wirklich sicher ist. (Dieter Gewalt) [Mehr lesen >](/pilze/psathyrella-candolleana-behangener-faserling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/parmelia_sulcata_04_lh.jpg" %}
-{% include abbildung_ende.html %}
-
-17.04.2026: Findet man die Sulkatflechte *Parmelia sulcata*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), einmal mit zahlreichen [Apothecien](Apothecien "Glossar"), ist das schon etwas Besonderes (siehe Abbildung). Wie fanden mehrere [Thalli](Thallus "Glossar") dieser häufigen und weit verbreiteten Art auf der Rinde eines freistehenden Mehlbeerbaums in einem feuchten Kiefernwald im nördlichen Schwarzwald. (Bernd Miggel) [Mehr lesen >](/pilze/parmelia-sulcata-sulkatflechte)
 
 <div style="clear:  both"></div>
 
