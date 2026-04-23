@@ -27,7 +27,7 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include bild.html datei="/bilder/calocybe_gambosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-24.04.2026: Pilze nehmen es mit dem Datum nicht so genau. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist zwar der Maipilz *Calocybe gambosa*, aber schon seit ein paar Tagen im April präsent. In unserem Dietzenbacher Carré an der Rodgaustraße ist er gleich an mehreren Stellen erschienen. Ob er für die Küche taugt, ist Geschmacksache. Manche mögen ihn, andere verabscheuen ihn. Sein untrügliches Kennzeichen ist der aufdringliche Mehlgeruch ind Verbindung mit weißer Farbe und früher Erscheinungszeit. (Dieter Gewalt) [Mehr lesen >](/pilze/calocybe-gambosa-maipilz)
+24.04.2026: Pilze nehmen es mit dem Datum nicht so genau. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist zwar der Maipilz *Calocybe gambosa*, aber schon seit ein paar Tagen im April präsent. In unserem Dietzenbacher Carré an der Rodgaustraße ist er gleich an mehreren Stellen erschienen. Ob er für die Küche taugt, ist Geschmacksache. Manche mögen ihn, andere verabscheuen ihn. Sein untrügliches Kennzeichen ist der aufdringliche Mehlgeruch in Verbindung mit weißer Farbe und früher Erscheinungszeit. (Dieter Gewalt) [Mehr lesen >](/pilze/calocybe-gambosa-maipilz)
 
 <div style="clear:  both"></div>
 
