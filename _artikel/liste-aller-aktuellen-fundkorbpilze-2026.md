@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-23.04.2026: [Lecidella elaeochroma - Olivgrüne Schwarznapfflechte](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)  
+24.04.2026: [Calocybe gambosa - Maipilz](/pilze/calocybe-gambosa-maipilz)  
+23.04.2026: [Lecidella elaeochroma - Olivgrüne Schwarznapfflechte](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)\
 22.04.2026: [Stereum hirsutum - Striegeliger Schichtpilz](/pilze/stereum-hirsutum-striegeliger-schichtpilz)\
 21.04.2026: [Eriopezia caesia - Schwarzes Spinnwebbecherchen](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)\
 20.04.2026: [Epichloe typhina - Gras-Kernpilz](/pilze/epichloe-typhina-gras-kernpilz)\
