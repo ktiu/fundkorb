@@ -8,13 +8,13 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-<div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
+<div class="row justify-content-sm-center justify-content-lg-start"></div>
 
 **Neuer Exkursionstermin:**
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/kühkopf_01_dg.png" %}
-{% include abbildung_ende.html legende="Was uns am Kühkopf erwartet: blühender Bärlauch, hämmernde Spechte, mit etwas Glück die eine oder andere Morchel" %}
+{% include abbildung_ende.html legende="Was uns am Kühkopf erwartet: Ein Wald voller Bärlauch. Das Hämmern der Spechte. Mit etwas Glück sogar Morcheln. Aber noch keine Stechmücken, die dort später zur unerträglichen Plage werden." %}
 
 Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Kühkopf**\
 [Hier geht's zu den Anmeldungen >](/termine)\
@@ -22,6 +22,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 [Hier geht's zu den Anmeldungen >](/termine)
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
+{% include abbildung_ende.html %}
+
+25.04.2026: Es gibt einen weißen Champignon, der Asphaltdecken sprengen und Gehwegplatten hochstemmen kann. Dazu ist er ein ausgezeichneter Speisepilz und gerade wieder als aktueller [Fundkorbpilz](AA "Glossar-") in unserem Dietzenbacher Carré erschienen: der Stadt-Champignon *Agaricus bitorquis*. Man erkennt ihn an seinem doppelten nach unten <ins>und</ins> oben abstehenden Stielring. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-bitorquis-stadt-champignon)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/calocybe_gambosa_01_dg.jpg" %}
@@ -68,14 +76,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 19.04.2026: Die Abbildung unseres aktuellen [Fundkorbpilzes](AA "Glossar-") zeigt verkümmerte und gekrümmte grünliche Früchte, die ich an einem Pflaumenbaum in einer Parkanlage fotografiert habe. Derart deformierte Früchte, die niemand mehr essen möchte, nennt man [Narrentaschen](/verwandt/narrentaschen-hexenbesen-kräuselkrankheiten). Verunstaltet wurden sie von einem Pilz, den man Pflaumen-Narrentasche (*Taphrina pruni*) nennt. Andere Pilze dieser Gattung verursachen Kräuselkrankheiten an Blättern oder Hexenbesen an Birken ohne eigene Fruchtkörper zu entwickeln. Eine verrückte Welt, dieses Reich der Pilze! (Dieter Gewalt) [Mehr lesen >](/pilze/taphrina-pruni-pflaumen-narrentasche)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/psathyrella_candolleana_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Behangene Faserling *Psathyrella candolleana*. Bei Kennern ein beliebter Suppenpilz, der schon früh im Jahr erscheint und bis in den Spätherbst zu finden ist. Er wächst stets an Holz, auch an vergrabenem, was ein Vorkommen auf Erde vortäuschen kann. Am einzelnen Pilz ist nicht viel dran, aber sein meist geselliges Erscheinen lohnt das Einsammeln. Aber bitte nur, wenn man sich seiner Sache wirklich sicher ist. (Dieter Gewalt) [Mehr lesen >](/pilze/psathyrella-candolleana-behangener-faserling)
 
 <div style="clear:  both"></div>
 
