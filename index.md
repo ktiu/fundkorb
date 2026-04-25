@@ -24,6 +24,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lasiosphaeria_ovina_01_fk.jpg" %}
+{% include abbildung_ende.html %}
+
+26.04.2026: Unter den winzigen [Ascomyzeten](Ascomyzeten "Glossar") gibt es nur wenige, die mit einem Blick durch die Lupe sicher erkannt werden können. Zu diesen gehört der aktuelle [Fundkorbpilz](AA "Glossar-"), der Eiförmige Kohlenkugelpilz *Lasiosphaeria ovina*. Die kugeligen bis eiförmigen Fruchtkörper sind weniger als 1 mm groß und ganzjährig auf morschem Holz zu finden. Sie sind komplett von einem weißlich grauen filzigen [Hyphengewebe](Hyphen "Glossar") eingekleidet, in dem lediglich die am Scheitel befindliche Sporenauslassöffnung durch eine dunklere Farbe auffällt. Die einzelnen Fruchtkörper wachsen gesellig bis dicht gedrängt auf ihrem Substrat. (Dieter Gewalt) [Mehr lesen >](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -60,22 +68,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 21.04.2026: Mit einer gut vergrößernden Lupe auf Totholz nach winzigen Pilzchen zu suchen, kann mit etwas Glück zu überraschend schönen und beeindruckenden Entdeckungen führen. Ein besonders attraktives Beispiel ist unser aktueller [Fundkorbpilz](AA "Glossar-"), das Schwarze Spinnwebbecherchen *Eriopezia caesia*. Seine dicht aneinander gedrängten [Apothecien](Apothecien "Glossar") erreichen nicht einmal einen Durchmesser von einem Millimeter.  (Dieter Gewalt) [Mehr lesen >](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/epichloe_typhina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.04.2026: Mit gezielter Suche ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Gras-Kernpilz *Epichloe typhina*, auf ungemähten Grasflächen zu finden. Er bildet im Frühjahr weißliche bis hell gelbgrüne Überzüge auf Blattscheiden und Halmen lebender Gräser, die sich später goldgelb bis orange verfärben. Passend zu diesen Eigenschaften wird er auch Orangefarbener Manschettenpilz genannt. (Dieter Gewalt) [Mehr lesen >](/pilze/epichloe-typhina-gras-kernpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/taphrina_pruni_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.04.2026: Die Abbildung unseres aktuellen [Fundkorbpilzes](AA "Glossar-") zeigt verkümmerte und gekrümmte grünliche Früchte, die ich an einem Pflaumenbaum in einer Parkanlage fotografiert habe. Derart deformierte Früchte, die niemand mehr essen möchte, nennt man [Narrentaschen](/verwandt/narrentaschen-hexenbesen-kräuselkrankheiten). Verunstaltet wurden sie von einem Pilz, den man Pflaumen-Narrentasche (*Taphrina pruni*) nennt. Andere Pilze dieser Gattung verursachen Kräuselkrankheiten an Blättern oder Hexenbesen an Birken ohne eigene Fruchtkörper zu entwickeln. Eine verrückte Welt, dieses Reich der Pilze! (Dieter Gewalt) [Mehr lesen >](/pilze/taphrina-pruni-pflaumen-narrentasche)
 
 <div style="clear:  both"></div>
 
