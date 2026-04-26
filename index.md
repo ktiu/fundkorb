@@ -12,12 +12,6 @@ footer_scripts:
 
 **Neuer Exkursionstermin:**
 
-{% include abbildung_start.html stil="standard" %}
-{% include bild.html datei="/bilder/kühkopf_01_dg.png" %}
-{% include abbildung_ende.html legende="Was uns am Kühkopf erwartet: Ein Wald voller Bärlauch. Das Hämmern der Spechte. Mit etwas Glück sogar Morcheln. Aber noch keine Stechmücken, die dort später zur unerträglichen Plage werden." %}
-
-Sonntag, 26.04.2026, 10:30 Uhr: **Pilz- und naturkundliche Exkursion im NSG Kühkopf**\
-[Hier geht's zu den Anmeldungen >](/termine)\
 Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 [Hier geht's zu den Anmeldungen >](/termine)
 
@@ -27,7 +21,7 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include bild.html datei="/bilder/puccinia_sessile_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-27.04.2026: In einem Wald voller Bärlauch ist der Bärlauchrost *Puccinia sessilis* allgegenwärtig und daher auch unser aktueller [Fundkorbpilz](AA "Glossar-"), zu mal bei unserer traditionellen Kühkopf-Exkursion Morcheln Mangelware waren. *Puccinia sessilis* gehört zu den Rostpilzen, die einen Wirtswechsel vollziehen. In ihrem Fall sind es Weiden, auf die sie im Sommer wechseln, und die sind am Kühkopf ebenfalls reichlich vertreten. Den Bärlauchrost findet man mitunter auch auf Maiglöckchen, Aaronstab sowie diversen Liliengewächsen und Gräsern. Auffallend aber nicht unbedingt kennzeichnend ist die kreisförmige Anordnung der [Aecienlager](Aecien "Glossar"). (Dieter Gewalt) [Mehr lesen >](/pilze/puccinia-sessilis-bärlauchrost)
+27.04.2026: In einem Wald voller Bärlauch ist der Bärlauchrost *Puccinia sessilis* allgegenwärtig und daher auch unser aktueller [Fundkorbpilz](AA "Glossar-"), zumal bei unserer traditionellen Kühkopf-Exkursion Morcheln Mangelware waren. *Puccinia sessilis* gehört zu den Rostpilzen, die einen Wirtswechsel vollziehen. In ihrem Fall sind es Weiden, auf die sie im Sommer wechseln, und die sind am Kühkopf ebenfalls reichlich vertreten. Den Bärlauchrost findet man mitunter auch auf Maiglöckchen, Aaronstab sowie diversen Liliengewächsen und Gräsern. Auffallend aber nicht unbedingt kennzeichnend ist die kreisförmige Anordnung der [Aecienlager](Aecien "Glossar"). (Dieter Gewalt) [Mehr lesen >](/pilze/puccinia-sessilis-bärlauchrost)
 
 <div style="clear:  both"></div>
 
