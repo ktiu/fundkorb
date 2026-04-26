@@ -2,8 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-26.04.2026: [Lasiosphaeria ovina - Eiförmiger Kohlenkugelpilz](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)  
-25.04.2026: [Agaricus bitorquis - Stadt-Champignon](/pilze/agaricus-bitorquis-stadt-champignon)  
+27.04.2026: [Puccinia sessile - Bärlauchrost](/pilze/puccinia-sessilis-bärlauchrost)  
+26.04.2026: [Lasiosphaeria ovina - Eiförmiger Kohlenkugelpilz](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)\
+25.04.2026: [Agaricus bitorquis - Stadt-Champignon](/pilze/agaricus-bitorquis-stadt-champignon)\
 24.04.2026: [Calocybe gambosa - Maipilz](/pilze/calocybe-gambosa-maipilz)\
 23.04.2026: [Lecidella elaeochroma - Olivgrüne Schwarznapfflechte](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)\
 22.04.2026: [Stereum hirsutum - Striegeliger Schichtpilz](/pilze/stereum-hirsutum-striegeliger-schichtpilz)\
