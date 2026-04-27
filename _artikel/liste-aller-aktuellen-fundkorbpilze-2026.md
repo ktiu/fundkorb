@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-27.04.2026: [Puccinia sessile - Bärlauchrost](/pilze/puccinia-sessilis-bärlauchrost)  
+28.04.2026: [Ramularia rubella - Ampfer-Rost](/pilze/ramularia-rubella-ampfer-rost)  
+27.04.2026: [Puccinia sessile - Bärlauchrost](/pilze/puccinia-sessilis-bärlauchrost)\
 26.04.2026: [Lasiosphaeria ovina - Eiförmiger Kohlenkugelpilz](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)\
 25.04.2026: [Agaricus bitorquis - Stadt-Champignon](/pilze/agaricus-bitorquis-stadt-champignon)\
 24.04.2026: [Calocybe gambosa - Maipilz](/pilze/calocybe-gambosa-maipilz)\
