@@ -17,7 +17,11 @@ literatur: []
 {% include bild.html datei="/bilder/puccinia_sessile_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Rostpilze sind nicht immer leicht zu bestimmen. Oft ist es erforderlich, auch den Zwischenwirt zu kennen. Im Falle dieses Bärlauchrosts erfolgt im Sommer ein Wirtswechsel auf verschiedene Weidenarten. Bei unseren Funden am Kühkopf (TK 6116.4.4), Jakobiweiher, Wollwiesenteich und in der Luderbachaue waren Weiden stets zugegen. Auf vielen Blättern waren auch [Aecienlager](Aecien "Glossar") von *Caeoma allii-ursini* zu erkennen.  
+Rostpilze sind nicht immer leicht zu bestimmen. Oft ist es erforderlich, auch den Zwischenwirt zu kennen. Im Falle dieses Bärlauchrosts erfolgt im Sommer ein Wirtswechsel auf verschiedene Weidenarten. Bei unseren Funden am Kühkopf (TK 6116.4.4), Jakobiweiher, Wollwiesenteich und in der Luderbachaue waren Weiden stets zugegen. Auf vielen Blättern waren auch [Aecienlager](Aecien "Glossar") von *Caeoma allii-ursini* zu erkennen.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/puccinia_sessilis_mas_04.jpg" %}
+{% include abbildung_ende.html legende="Foto: Markus Schwarz" %}
 
 Puccinia sessilis findet sich auch auf Maiglöckchen, Aaronstab sowie diversen Liliengewächsen und Gräsern. Auffallend aber nicht unbedingt kennzeichnend ist die kreisförmige Anordnung der Aecienlager.
 
