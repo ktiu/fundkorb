@@ -18,6 +18,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ramularia_rubella_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.04.2026: Der [Bärlauchrost](/pilze/puccinia-sessilis-bärlauchrost) war nicht der einzige allgegenwärtige [Rostpilz](/verwandt/rostpilze) bei unserer Kühkopf-Exkursion am vergangenen Sonntag. Den Ampfer-Rost *Ramularia rubella*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), findet man an fast jeder Ampferpflanze, an deren Blätter er rundliche weinrötliche Flecken mit gelber Mitte bildet. Da auf dem gleichen Substrat mehrere Rostpilzarten vorkommen, ist auch auf Mikromerkmale zu achten, um die Bestimmung abzusichern.  (Dieter Gewalt) [Mehr lesen > ](/pilze/ramularia-rubella-ampfer-rost)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/puccinia_sessilis_mas_04.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -62,14 +70,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 22.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Striegelige Schichtpilz *Stereum hirsutum*. Er ist sehr häufig, wächst vor allem an totem Eichenholz, egal ob Stümpfe, Stämme oder Äste, und fällt durch seine kräftig gelbe Farbe schon von Weitem auf. Es gibt insgesamt sieben mitteleuropäische Stereum-Arten, die alle mit einem Porträt im Fundkorb vertreten sind. Dazu auch einen leicht zu handhabenden Bestimmungsschlüssel von Pilzfreund Bernd Miggel. (Dieter Gewalt) [Mehr lesen >](/pilze/stereum-hirsutum-striegeliger-schichtpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/eriopezia_caesia_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-21.04.2026: Mit einer gut vergrößernden Lupe auf Totholz nach winzigen Pilzchen zu suchen, kann mit etwas Glück zu überraschend schönen und beeindruckenden Entdeckungen führen. Ein besonders attraktives Beispiel ist unser aktueller [Fundkorbpilz](AA "Glossar-"), das Schwarze Spinnwebbecherchen *Eriopezia caesia*. Seine dicht aneinander gedrängten [Apothecien](Apothecien "Glossar") erreichen nicht einmal einen Durchmesser von einem Millimeter.  (Dieter Gewalt) [Mehr lesen >](/pilze/eriopezia-caesia-schwarzes-spinnwebbecherchen)
 
 <div style="clear:  both"></div>
 
