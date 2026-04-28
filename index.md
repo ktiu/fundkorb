@@ -18,6 +18,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/parasola_leiocephala_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") und gleichzeitig einziger Blätterpilz bei unserer Kühkopfwanderung war der  Kahlköpfige Scheibchentintling *Parasola leiocephala*. Grund für den Mangel: anhaltende Trockenheit während der Wochen zuvor. In der Gattung *Parasola* stehen Tintlinge, die kein [Velum](Velum "Glossar") besitzen und im Alter nicht zu schwarzer Tinte zerfließen, sondern lediglich verwelken. Sie werden auch Rädchentintlinge genannt. Von ähnlichen Arten vor allem durch unterschiedliche Sporenmaße unterschieden. (Dieter Gewalt) [Mehr lesen >](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ramularia_rubella_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -54,22 +62,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 24.04.2026: Pilze nehmen es mit dem Datum nicht so genau. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist zwar der Maipilz *Calocybe gambosa*, aber schon seit ein paar Tagen im April präsent. In unserem Dietzenbacher Carré an der Rodgaustraße ist er gleich an mehreren Stellen erschienen. Ob er für die Küche taugt, ist Geschmacksache. Manche mögen ihn, andere verabscheuen ihn. Sein untrügliches Kennzeichen ist der aufdringliche Mehlgeruch in Verbindung mit weißer Farbe und früher Erscheinungszeit. (Dieter Gewalt) [Mehr lesen >](/pilze/calocybe-gambosa-maipilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lecidella_elaeochroma_01_lh.jpeg" %}
-{% include abbildung_ende.html %}
-
-23.04.2026: Streuobstwiesen sind wahre Fundgruben für Flechten. Eine für dieses [Habitat](Habitat "Glossar") typische Art ist die Olivgrüne Schwarznapfflechte *Lecidella elaeochroma*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Wir haben sie auf dünneren Ästen von mehreren Apfelbäumen zusammen mit der [Hellen Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte) und der [Gewöhnlichen Gelbflechte](/pilze/xanthoria-parietina) gesehen. Sie besitzt schwarze [Apothecien](Apothecien "Glossar"), die man ohne Lupe bestenfalls als schwarze Pünktchen erkennen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/lecidella-elaeochroma-olivgrüne-schwarznapfflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stereum_hirsutum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Striegelige Schichtpilz *Stereum hirsutum*. Er ist sehr häufig, wächst vor allem an totem Eichenholz, egal ob Stümpfe, Stämme oder Äste, und fällt durch seine kräftig gelbe Farbe schon von Weitem auf. Es gibt insgesamt sieben mitteleuropäische Stereum-Arten, die alle mit einem Porträt im Fundkorb vertreten sind. Dazu auch einen leicht zu handhabenden Bestimmungsschlüssel von Pilzfreund Bernd Miggel. (Dieter Gewalt) [Mehr lesen >](/pilze/stereum-hirsutum-striegeliger-schichtpilz)
 
 <div style="clear:  both"></div>
 
