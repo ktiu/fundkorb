@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-29.04.2026: [Parasola leiocephala - Kahlköpfiger Scheibchentintling](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)  
+30.04.2026: [Trametes cervina - Hirschbraune Tramete](/pilze/trametes-cervina-hirschbraune-tramete)  
+29.04.2026: [Parasola leiocephala - Kahlköpfiger Scheibchentintling](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)\
 28.04.2026: [Ramularia rubella - Ampfer-Rost](/pilze/ramularia-rubella-ampfer-rost)\
 27.04.2026: [Puccinia sessile - Bärlauchrost](/pilze/puccinia-sessilis-bärlauchrost)\
 26.04.2026: [Lasiosphaeria ovina - Eiförmiger Kohlenkugelpilz](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)\
