@@ -18,6 +18,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trametes_cervina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.04.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Hirschbraune Tramete *Trametes cervina*, sieht eigentlich ganz und gar nicht wie eine typische Tramete aus, weshalb sie inzwischen auch in eine neue bisher [monotypische](monotypisch "Glossar") Gattung (*Trametopsis*) transferiert worden ist. Der Pilz ist nahezu unverwechselbar, gilt aber als selten, was ich nicht unbedingt bestätigen kann. Ich begegne ihm zumindest im Rhein-Main-Gebiet immer wieder, u. a. auch im NSG Kühkopf. (Dieter Gewalt) [Mehr lesen >](/pilze/trametes-cervina-hirschbraune-tramete)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/parasola_leiocephala_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
