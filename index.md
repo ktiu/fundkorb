@@ -12,10 +12,22 @@ footer_scripts:
 
 **Neuer Exkursionstermin:**
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/wir_suchen_den_maipilz_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 [Hier geht's zu den Anmeldungen >](/termine)
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypholoma_lateritium_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ziegelrote Schwefelkopf *Hypholoma lateritium*. Die Art ist eine von drei Schwefelköpfen, die man zwar leicht verwechseln, bei genauerem Hinschauen und durch eine Geschmacksprobe aber ganz gut unterscheiden kann. Nur eine davon taugt für die Küche. (Dieter Gewalt) Wie man sie auseinanderhalten kann, [erfahren Sie hier >](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)
+
+<div style="clear:  both"></div> 
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trametes_cervina_01_dg.jpg" %}
