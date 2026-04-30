@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-30.04.2026: [Trametes cervina - Hirschbraune Tramete](/pilze/trametes-cervina-hirschbraune-tramete)  
+01.05.2026: [Hypholoma lateritium - Ziegelroter Schwefelkopf](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)
+
+30.04.2026: [Trametes cervina - Hirschbraune Tramete](/pilze/trametes-cervina-hirschbraune-tramete)\
 29.04.2026: [Parasola leiocephala - Kahlköpfiger Scheibchentintling](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)\
 28.04.2026: [Ramularia rubella - Ampfer-Rost](/pilze/ramularia-rubella-ampfer-rost)\
 27.04.2026: [Puccinia sessile - Bärlauchrost](/pilze/puccinia-sessilis-bärlauchrost)\
