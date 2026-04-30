@@ -12,7 +12,7 @@ footer_scripts:
 
 **Neuer Exkursionstermin:**
 
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/wir_suchen_den_maipilz_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
