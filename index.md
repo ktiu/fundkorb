@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Ihre Adresse für Pilzkunde und Pilzführungen, nicht nur im Rhein-Main-Gebiet
+title: Ihre Adresse für Pilzkunde und Pilzführungen im Rhein-Main-Gebiet
 header_scripts:
   - https://identity.netlify.com/v1/netlify-identity-widget.js
   - assets/js/simple-jekyll-search/simple-jekyll-search.min.js
@@ -20,6 +20,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 [Hier geht's zu den Anmeldungen >](/termine)
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.05.2026: 03.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-")  ist der Voreilende Ackerling *Agrocybe praecox*. Sein Name („voreilend“) besagt schon etwas über seine Erscheinungszeit. Er ist aber keineswegs nur ein typischer Frühjahrspilz. Man kann ihn durchaus bis in den Herbst hinein finden. Er bevorzugt offenes Gelände wie Parkanlagen oder Wegränder. Gilt als essbar, schmeckt aber etwas bitter. (Dieter Gewalt) [Mehr lesen >](/pilze/agrocybe-praecox-voreilender-ackerling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypholoma_lateritium_01_dg.jpg" %}
@@ -66,22 +74,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 26.04.2026: Unter den winzigen [Ascomyzeten](Ascomyzeten "Glossar") gibt es nur wenige, die mit einem Blick durch die Lupe sicher erkannt werden können. Zu diesen gehört der aktuelle [Fundkorbpilz](AA "Glossar-"), der Eiförmige Kohlenkugelpilz *Lasiosphaeria ovina*. Die kugeligen bis eiförmigen Fruchtkörper sind weniger als 1 mm groß und ganzjährig auf morschem Holz zu finden. Sie sind komplett von einem weißlich grauen filzigen [Hyphengewebe](Hyphen "Glossar") eingekleidet, in dem lediglich die am Scheitel befindliche Sporenauslassöffnung durch eine dunklere Farbe auffällt. Die einzelnen Fruchtkörper wachsen gesellig bis dicht gedrängt auf ihrem Substrat. (Dieter Gewalt) [Mehr lesen >](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_bitorquis_01_wi.jpg" %}
-{% include abbildung_ende.html %}
-
-25.04.2026: Es gibt einen weißen Champignon, der Asphaltdecken sprengen und Gehwegplatten hochstemmen kann. Dazu ist er ein ausgezeichneter Speisepilz und gerade wieder als aktueller [Fundkorbpilz](AA "Glossar-") in unserem Dietzenbacher Carré erschienen: der Stadt-Champignon *Agaricus bitorquis*. Man erkennt ihn an seinem doppelten nach unten <ins>und</ins> oben abstehenden Stielring. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-bitorquis-stadt-champignon)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calocybe_gambosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.04.2026: Pilze nehmen es mit dem Datum nicht so genau. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist zwar der Maipilz *Calocybe gambosa*, aber schon seit ein paar Tagen im April präsent. In unserem Dietzenbacher Carré an der Rodgaustraße ist er gleich an mehreren Stellen erschienen. Ob er für die Küche taugt, ist Geschmacksache. Manche mögen ihn, andere verabscheuen ihn. Sein untrügliches Kennzeichen ist der aufdringliche Mehlgeruch in Verbindung mit weißer Farbe und früher Erscheinungszeit. (Dieter Gewalt) [Mehr lesen >](/pilze/calocybe-gambosa-maipilz)
 
 <div style="clear:  both"></div>
 
