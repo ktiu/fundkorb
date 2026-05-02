@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-02.05.2026: [Agrocybe praecox - Voreilender Ackerling](/pilze/agrocybe-praecox-voreilender-ackerling)  
+03.05.2026: [Flavoplaca citrina - Zitronen-Schönfleck](/pilze/flavoplaca-citrina-zitronen-schönfleck)  
+02.05.2026: [Agrocybe praecox - Voreilender Ackerling](/pilze/agrocybe-praecox-voreilender-ackerling)\
 01.05.2026: [Hypholoma lateritium - Ziegelroter Schwefelkopf](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)
 
 30.04.2026: [Trametes cervina - Hirschbraune Tramete](/pilze/trametes-cervina-hirschbraune-tramete)\
