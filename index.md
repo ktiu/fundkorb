@@ -22,6 +22,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/flavoplaca_citrina_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.05.2026: Wenn man nichts Besseres findet – eine Flechte ist immer und überall in der Nähe. Da Flechten Pilze sind, ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") der Zitronen-Schönfleck *Flavoplaca citrina*, eine häufige Krustenflechte, die gern an kalkhaltigem Gestein oder Betonmauern wächst. Offenbar mit Vorliebe dort, wo Hunde gern ihr Beinchen heben. Beim Vorbeigehen nimmt man lediglich eine gelbe bis grünlich gelbe oder fast schon orangefarbene Verfärbung des Gesteins wahr, bei der man nicht unbedingt an eine Flechte denkt. (Dieter Gewalt) [Mehr lesen >](/pilze/flavoplaca-citrina-zitronen-schönfleck)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -66,14 +74,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 27.04.2026: In einem Wald voller Bärlauch ist der Bärlauchrost *Puccinia sessilis* allgegenwärtig und daher auch unser aktueller [Fundkorbpilz](AA "Glossar-"), zumal bei unserer traditionellen Kühkopf-Exkursion Morcheln Mangelware waren. *Puccinia sessilis* gehört zu den Rostpilzen, die einen Wirtswechsel vollziehen. In ihrem Fall sind es Weiden, auf die sie im Sommer wechseln, und die sind am Kühkopf ebenfalls reichlich vertreten. Den Bärlauchrost findet man mitunter auch auf Maiglöckchen, Aaronstab sowie diversen Liliengewächsen und Gräsern. Auffallend aber nicht unbedingt kennzeichnend ist die kreisförmige Anordnung der [Aecienlager](Aecien "Glossar"). (Dieter Gewalt) [Mehr lesen >](/pilze/puccinia-sessilis-bärlauchrost)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lasiosphaeria_ovina_01_fk.jpg" %}
-{% include abbildung_ende.html %}
-
-26.04.2026: Unter den winzigen [Ascomyzeten](Ascomyzeten "Glossar") gibt es nur wenige, die mit einem Blick durch die Lupe sicher erkannt werden können. Zu diesen gehört der aktuelle [Fundkorbpilz](AA "Glossar-"), der Eiförmige Kohlenkugelpilz *Lasiosphaeria ovina*. Die kugeligen bis eiförmigen Fruchtkörper sind weniger als 1 mm groß und ganzjährig auf morschem Holz zu finden. Sie sind komplett von einem weißlich grauen filzigen [Hyphengewebe](Hyphen "Glossar") eingekleidet, in dem lediglich die am Scheitel befindliche Sporenauslassöffnung durch eine dunklere Farbe auffällt. Die einzelnen Fruchtkörper wachsen gesellig bis dicht gedrängt auf ihrem Substrat. (Dieter Gewalt) [Mehr lesen >](/pilze/lasiosphaeria-ovina-eiförmiger-kohlenkugelpilz)
 
 <div style="clear:  both"></div>
 
