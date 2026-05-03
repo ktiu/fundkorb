@@ -22,6 +22,12 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_tuberaster_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.05.2026: Aktueller Fundkorbpilz ist der Kleine Schuppenporling *Polyporus tuberaster*. Man kann ihn als Geheimtip für Gourmets bezeichnen, leider mit einem Haken. Nur junge Exemplare sind zart genug, um als Leckerbissen in der Pfanne zu landen. Er wird auch Sklerotienporling genannt. (Dieter Gewalt) Was ein Sklerotium ist und einiges mehr über diesen interessanten Pilz [erfahren Sie hier >](/pilze/polyporus-tuberaster-sklerotienporling) <div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/flavoplaca_citrina_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -58,22 +64,6 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include abbildung_ende.html %}
 
 29.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") und gleichzeitig einziger Blätterpilz bei unserer Kühkopfwanderung war der  Kahlköpfige Scheibchentintling *Parasola leiocephala*. Grund für den Mangel: anhaltende Trockenheit während der Wochen zuvor. In der Gattung *Parasola* stehen Tintlinge, die kein [Velum](Velum "Glossar") besitzen und im Alter nicht zu schwarzer Tinte zerfließen, sondern lediglich verwelken. Sie werden auch Rädchentintlinge genannt. Von ähnlichen Arten vor allem durch unterschiedliche Sporenmaße unterschieden. (Dieter Gewalt) [Mehr lesen >](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ramularia_rubella_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.04.2026: Der [Bärlauchrost](/pilze/puccinia-sessilis-bärlauchrost) war nicht der einzige allgegenwärtige [Rostpilz](/verwandt/rostpilze) bei unserer Kühkopf-Exkursion am vergangenen Sonntag. Den Ampfer-Rost *Ramularia rubella*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), findet man an fast jeder Ampferpflanze, an deren Blätter er rundliche weinrötliche Flecken mit gelber Mitte bildet. Da auf dem gleichen Substrat mehrere Rostpilzarten vorkommen, ist auch auf Mikromerkmale zu achten, um die Bestimmung abzusichern.  (Dieter Gewalt) [Mehr lesen > ](/pilze/ramularia-rubella-ampfer-rost)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/puccinia_sessilis_mas_04.jpg" %}
-{% include abbildung_ende.html %}
-
-27.04.2026: In einem Wald voller Bärlauch ist der Bärlauchrost *Puccinia sessilis* allgegenwärtig und daher auch unser aktueller [Fundkorbpilz](AA "Glossar-"), zumal bei unserer traditionellen Kühkopf-Exkursion Morcheln Mangelware waren. *Puccinia sessilis* gehört zu den Rostpilzen, die einen Wirtswechsel vollziehen. In ihrem Fall sind es Weiden, auf die sie im Sommer wechseln, und die sind am Kühkopf ebenfalls reichlich vertreten. Den Bärlauchrost findet man mitunter auch auf Maiglöckchen, Aaronstab sowie diversen Liliengewächsen und Gräsern. Auffallend aber nicht unbedingt kennzeichnend ist die kreisförmige Anordnung der [Aecienlager](Aecien "Glossar"). (Dieter Gewalt) [Mehr lesen >](/pilze/puccinia-sessilis-bärlauchrost)
 
 <div style="clear:  both"></div>
 
