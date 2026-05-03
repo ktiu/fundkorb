@@ -25,7 +25,9 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 {% include bild.html datei="/bilder/polyporus_tuberaster_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-04.05.2026: Aktueller Fundkorbpilz ist der Kleine Schuppenporling *Polyporus tuberaster*. Man kann ihn als Geheimtip für Gourmets bezeichnen, leider mit einem Haken. Nur junge Exemplare sind zart genug, um als Leckerbissen in der Pfanne zu landen. Er wird auch Sklerotienporling genannt. (Dieter Gewalt) Was ein Sklerotium ist und einiges mehr über diesen interessanten Pilz [erfahren Sie hier >](/pilze/polyporus-tuberaster-sklerotienporling) <div style="clear:  both"></div>
+04.05.2026: Aktueller Fundkorbpilz ist der Kleine Schuppenporling *Polyporus tuberaster*. Man kann ihn als Geheimtip für Gourmets bezeichnen, leider mit einem Haken. Nur junge Exemplare sind zart genug, um als Leckerbissen in der Pfanne zu landen. Er wird auch Sklerotienporling genannt. (Dieter Gewalt) Was ein Sklerotium ist und einiges mehr über diesen interessanten Pilz [erfahren Sie hier >](/pilze/polyporus-tuberaster-sklerotienporling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/flavoplaca_citrina_02_dg.jpg" %}
