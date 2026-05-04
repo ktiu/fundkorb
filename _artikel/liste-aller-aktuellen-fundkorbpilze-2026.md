@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-04.05.2026: [Polyporus tuberaster - Sklerotienporling, Kleiner Schuppenporling](/pilze/polyporus-tuberaster-sklerotienporling)  
+05.05.2026: [Lecanora chlarotera - Helle Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte)  
+04.05.2026: [Polyporus tuberaster - Sklerotienporling, Kleiner Schuppenporling](/pilze/polyporus-tuberaster-sklerotienporling)\
 03.05.2026: [Flavoplaca citrina - Zitronen-Schönfleck](/pilze/flavoplaca-citrina-zitronen-schönfleck)\
 02.05.2026: [Agrocybe praecox - Voreilender Ackerling](/pilze/agrocybe-praecox-voreilender-ackerling)\
 01.05.2026: [Hypholoma lateritium - Ziegelroter Schwefelkopf](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)
