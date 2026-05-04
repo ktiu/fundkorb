@@ -22,6 +22,14 @@ Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+05.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute die Helle Kuchenflechte *Lecanora chlarotera*, eine häufige, an [Apothecien ](Apothecien "Glossar")reiche, [epiphytisch](epiphytisch "Glossar")e Krustenflechte. Sie besteht aus zahllosen, oft dicht an dicht liegenden Becherchen (Apothecien) mit meist hellbrauner Scheibe und weißem Rand auf einem weißlichem bis grauweißem [Lager](Lager "Glossar") (Thallus). Wir fanden mehrere Lager auf der Rinde von Zweigen eines morschen Apfelbaumes auf einer Streuobstwiese im Schwarzwaldrandgebiet bei Karlsbad-Spielberg. (Bernd Miggel) [Mehr lesen >](/pilze/lecanora-chlarotera-helle-kuchenflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_tuberaster_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
