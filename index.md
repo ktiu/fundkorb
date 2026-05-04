@@ -12,10 +12,6 @@ footer_scripts:
 
 **Neuer Exkursionstermin:**
 
-{% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/wir_suchen_den_maipilz_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
 Sonntag, 31.05.2026, 10:00 Uhr: **Der Wald und seine Pilze Ende Mai**\
 [Hier geht's zu den Anmeldungen >](/termine)
 
