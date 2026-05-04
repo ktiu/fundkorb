@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/wir_suchen_den_maipilz_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Sonntag, 03.05.2026, 10:00 Uhr: **Wir suchen den Maipilz**\
+Sonntag, 31.05.2026, 10:00 Uhr: **Der Wald und seine Pilze Ende Mai**\
 [Hier geht's zu den Anmeldungen >](/termine)
 
 **Aktueller Fundkorbpilz:**
