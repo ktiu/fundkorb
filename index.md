@@ -25,6 +25,8 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 
 Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haustintling *Coprinellus domesticus*. Er ähnelt dem sehr viel häufigeren [Glimmertintling](/pilze/coprinellus-micaceus-glimmertintling), ist aber größer und wächst eher einzeln oder zu wenigen an totem oder auch im Boden vergrabenem Holz, das er manchmal mit einem rostfarbenen [Ozonium](<Ozonium "Glossar">) überzieht. Vor allem ist sein Stiel auf ganzer Länge gerieft, ein Alleinstellungsmerkmal, das ihn von allen ähnlichen Tintlingen unterscheidet. Seinen Namen hat er erhalten, weil er tatsächlich an altem verbautem Holz in Häusern vorkommen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinellus-domesticus-haustintling)
 
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
 {% include abbildung_ende.html %}
