@@ -15,6 +15,8 @@ footer_scripts:
 Sonntag, 31.05.2026, 10:00 Uhr: **Der Wald und seine Pilze Ende Mai**\
 [Hier geht's zu den Anmeldungen >](/termine)
 
+Einen nützlichen Pilzkurs für Einsteiger [finden Sie hier >](/artikel/pilzkurs-für-einsteiger-1.html)
+
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
