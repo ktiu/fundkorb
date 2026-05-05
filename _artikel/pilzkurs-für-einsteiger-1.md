@@ -12,7 +12,7 @@ Diese Pilzfruchtkörper können wir ruhig weiterhin *"Pilze"* nennen wie es alle
 {% include bild.html datei="/bilder/einsteiger_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Wenden wir uns nun der Hutunterseite zu. Die meisten Hut-Stiel-Pilze haben hier Lamellen, dünne Blättchen, die vom Hutrand bis zum Stiel reichen und am Hutfleisch angewachsen sind. Man kann sich gut vorstellen, mit dem Finger über diese Lamellen zu streichen, quasi in ihnen zu "blättern". Wir nennen sie daher *"Blätterpilze"*.
+Wenden wir uns nun der Hutunterseite zu. Die meisten Hut-Stiel-Pilze haben hier Lamellen, dünne Blättchen, die vom Hutrand bis zum Stiel reichen und meist am Hutfleisch angewachsen sind. Man kann sich gut vorstellen, mit dem Finger über diese Lamellen zu streichen, quasi in ihnen zu "blättern". Wir nennen sie daher *"Blätterpilze"*.
 
 Unter ihnen gibt es winzig kleine, die man gerade noch so erkennen kann, aber auch einige riesig große. Die Hutdurchmesser reichen von gerade mal einem Millimeter bis zu einem halben Meter und mehr.
 
