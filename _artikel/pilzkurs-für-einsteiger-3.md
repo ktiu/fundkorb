@@ -104,7 +104,9 @@ Wie bei der Stinkmorchel strecken sie sich aus einem am Scheitel aufplatzenden s
 Das weiße Innere im Hexenei der Stinkmorchel ist übrigens roh essbar!
 
 [Pilzkurs für Einsteiger (1)](/artikel/pilzkurs-für-einsteiger-1.html)\
-[Pilzkurs für Einsteiger (2)](/artikel/pilzkurs-für-einsteiger-2.html)
+[Pilzkurs für Einsteiger (2)](/artikel/pilzkurs-für-einsteiger-2.html)  
+Weitere Pilzkurse im Fundkorb werden folgen und dann in ihrer Summe dem interessierten Pilzfreund einen zuverlässigen Einblick in die faszinierende Welt der Pilze ermöglichen und dem Speisepilzsammler ein nützlicher Ratgeber und Helfer sein.
+.  
 
 **Literatur:**
 
