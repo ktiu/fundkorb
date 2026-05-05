@@ -18,6 +18,12 @@ Sonntag, 31.05.2026, 10:00 Uhr: **Der Wald und seine Pilze Ende Mai**\
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinellus_domesticus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haustintling *Coprinellus domesticus*. Er ähnelt dem sehr viel häufigeren [Glimmertintling](/pilze/coprinellus-micaceus-glimmertintling), ist aber größer und wächst eher einzeln oder zu wenigen an totem oder auch im Boden vergrabenem Holz, das er manchmal mit einem rostfarbenen [Ozonium](<Ozonium "Glossar">) überzieht. Vor allem ist sein Stiel auf ganzer Länge gerieft, ein Alleinstellungsmerkmal, das ihn von allen ähnlichen Tintlingen unterscheidet. Seinen Namen hat er erhalten, weil er tatsächlich an altem verbautem Holz in Häusern vorkommen kann. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinellus-domesticus-haustintling)
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -62,14 +68,6 @@ Sonntag, 31.05.2026, 10:00 Uhr: **Der Wald und seine Pilze Ende Mai**\
 {% include abbildung_ende.html %}
 
 30.04.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Hirschbraune Tramete *Trametes cervina*, sieht eigentlich ganz und gar nicht wie eine typische Tramete aus, weshalb sie inzwischen auch in eine neue bisher [monotypische](monotypisch "Glossar") Gattung (*Trametopsis*) transferiert worden ist. Der Pilz ist nahezu unverwechselbar, gilt aber als selten, was ich nicht unbedingt bestätigen kann. Ich begegne ihm zumindest im Rhein-Main-Gebiet immer wieder, u. a. auch im NSG Kühkopf. (Dieter Gewalt) [Mehr lesen >](/pilze/trametes-cervina-hirschbraune-tramete)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/parasola_leiocephala_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.04.2026: Aktueller [Fundkorbpilz](AA "Glossar-") und gleichzeitig einziger Blätterpilz bei unserer Kühkopfwanderung war der  Kahlköpfige Scheibchentintling *Parasola leiocephala*. Grund für den Mangel: anhaltende Trockenheit während der Wochen zuvor. In der Gattung *Parasola* stehen Tintlinge, die kein [Velum](Velum "Glossar") besitzen und im Alter nicht zu schwarzer Tinte zerfließen, sondern lediglich verwelken. Sie werden auch Rädchentintlinge genannt. Von ähnlichen Arten vor allem durch unterschiedliche Sporenmaße unterschieden. (Dieter Gewalt) [Mehr lesen >](/pilze/parasola-leiocephala-kahlköpfiger-scheibchentintling)
 
 <div style="clear:  both"></div>
 
