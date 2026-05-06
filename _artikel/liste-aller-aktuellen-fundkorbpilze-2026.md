@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-06.05.2026: [Coprinellus domesticus - Haustintling](/pilze/coprinellus-domesticus-haustintling)  
+07.05.2026: [Ganoderma lucidum - Glänzender Lackporling](/pilze/ganoderma-lucidum-glänzender-lackporling)  
+06.05.2026: [Coprinellus domesticus - Haustintling](/pilze/coprinellus-domesticus-haustintling)\
 05.05.2026: [Lecanora chlarotera - Helle Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte)\
 04.05.2026: [Polyporus tuberaster - Sklerotienporling, Kleiner Schuppenporling](/pilze/polyporus-tuberaster-sklerotienporling)\
 03.05.2026: [Flavoplaca citrina - Zitronen-Schönfleck](/pilze/flavoplaca-citrina-zitronen-schönfleck)\
