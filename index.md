@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ganoderma_lucidum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Glänzende Lackporling *Ganoderma lucidum*, der mit seinem roten, wie lackiert glänzenden Hut und Stiel immer wieder die Begeisterung der Pilzfreunde erregt. ln Ost- und Südostasien ist er seit Jahrtausenden ein viel gepriesener Heilpilz und gilt als „Pilz der Unsterblickeit“.  Das ist sicher etwas übertrieben, aber sein therapeutischer Nutzen ist längst auch im Westen wissenschaftlich anerkannt. (Dieter Gewalt) [Mehr lesen >](/pilze/ganoderma-lucidum-glänzender-lackporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinellus_domesticus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
