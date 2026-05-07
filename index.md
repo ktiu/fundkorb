@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_abramsii_04_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+08.05.2026: Früh im Jahr erscheinende Helmlinge gibt es etliche, aber nur einer wird „voreilend“ genannt: unser aktueller [Fundkorbpilz](AA "Glossar-"), der Voreilende Helmling *Mycena abramsii*. Seine Haupterscheinungszeit ist April bis Juli, er kann aber auch noch im November gefunden werden. Gern an Stümpfen, aber auch an vergrabenem Holz und dann scheinbar am Boden. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-abramsii-voreilender-helmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ganoderma_lucidum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,22 +72,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haustintling *Coprinellus domest
 {% include abbildung_ende.html %}
 
 02.05.2026: 03.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-")  ist der Voreilende Ackerling *Agrocybe praecox*. Sein Name („voreilend“) besagt schon etwas über seine Erscheinungszeit. Er ist aber keineswegs nur ein typischer Frühjahrspilz. Man kann ihn durchaus bis in den Herbst hinein finden. Er bevorzugt offenes Gelände wie Parkanlagen oder Wegränder. Gilt als essbar, schmeckt aber etwas bitter. (Dieter Gewalt) [Mehr lesen >](/pilze/agrocybe-praecox-voreilender-ackerling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypholoma_lateritium_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ziegelrote Schwefelkopf *Hypholoma lateritium*. Die Art ist eine von drei Schwefelköpfen, die man zwar leicht verwechseln, bei genauerem Hinschauen und durch eine Geschmacksprobe aber ganz gut unterscheiden kann. Nur eine davon taugt für die Küche. (Dieter Gewalt) Wie man sie auseinanderhalten kann, [erfahren Sie hier >](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)
-
-<div style="clear:  both"></div> 
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trametes_cervina_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.04.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Hirschbraune Tramete *Trametes cervina*, sieht eigentlich ganz und gar nicht wie eine typische Tramete aus, weshalb sie inzwischen auch in eine neue bisher [monotypische](monotypisch "Glossar") Gattung (*Trametopsis*) transferiert worden ist. Der Pilz ist nahezu unverwechselbar, gilt aber als selten, was ich nicht unbedingt bestätigen kann. Ich begegne ihm zumindest im Rhein-Main-Gebiet immer wieder, u. a. auch im NSG Kühkopf. (Dieter Gewalt) [Mehr lesen >](/pilze/trametes-cervina-hirschbraune-tramete)
 
 <div style="clear:  both"></div>
 
