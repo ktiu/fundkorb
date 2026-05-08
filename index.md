@@ -20,6 +20,20 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/taphrina_deformans_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.05.2026: Ab und zu wird auch mal ein [Phytoparasit](Phytoparasiten "Glossar") aktueller [Fundkorbpilz](AA "Glossar-") des Tages. Es ist eine an manchen Pfirsischbäumen erscheinende Art, die *Taphrina deformans* (Pfirsisch-Kräuselkrankheit) genannt wird. Sie deformiert Blätter, Triebe oder Früchte und färbt sie hellgrün, gelblich oder auch rot, richtet aber weiter keinen Schaden an. Befallene Pfirsiche sollte man besser nicht mehr essen. *Taphrina*-Arten gehören zu den Schlauchpilzen ([Ascomyzeten](Ascomyzeten "Glossar")). (Dieter Gewalt) [Mehr lesen >](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_quercina_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Eichen-Zystidenrindenpilz Peniophora quercina. Er entsteht auf der Rinde von noch am Baum befindlichen abgestorbenen Ästen aus kleineren Flecken, die sich bald zu ausgedehnten Flächen vereinigen. In frischem Zustand sind sie violett-rosa und aufgequollen, trocken grau und rissig. Der Pilz ist sehr häufig und kaum eine Eiche dürfte von ihm verschont bleiben. Da er nur tote Äste und Zweige befällt, richtet er keinen Schaden an. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_abramsii_04_jr.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,22 +70,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haustintling *Coprinellus domest
 {% include abbildung_ende.html %}
 
 04.05.2026: Aktueller Fundkorbpilz ist der Kleine Schuppenporling *Polyporus tuberaster*. Man kann ihn als Geheimtip für Gourmets bezeichnen, leider mit einem Haken. Nur junge Exemplare sind zart genug, um als Leckerbissen in der Pfanne zu landen. Er wird auch Sklerotienporling genannt. (Dieter Gewalt) Was ein Sklerotium ist und einiges mehr über diesen interessanten Pilz [erfahren Sie hier >](/pilze/polyporus-tuberaster-sklerotienporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/flavoplaca_citrina_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.05.2026: Wenn man nichts Besseres findet – eine Flechte ist immer und überall in der Nähe. Da Flechten Pilze sind, ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") der Zitronen-Schönfleck *Flavoplaca citrina*, eine häufige Krustenflechte, die gern an kalkhaltigem Gestein oder Betonmauern wächst. Offenbar mit Vorliebe dort, wo Hunde gern ihr Beinchen heben. Beim Vorbeigehen nimmt man lediglich eine gelbe bis grünlich gelbe oder fast schon orangefarbene Verfärbung des Gesteins wahr, bei der man nicht unbedingt an eine Flechte denkt. (Dieter Gewalt) [Mehr lesen >](/pilze/flavoplaca-citrina-zitronen-schönfleck)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agrocybe_praecox_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.05.2026: 03.05.2025: Aktueller [Fundkorbpilz](AA "Glossar-")  ist der Voreilende Ackerling *Agrocybe praecox*. Sein Name („voreilend“) besagt schon etwas über seine Erscheinungszeit. Er ist aber keineswegs nur ein typischer Frühjahrspilz. Man kann ihn durchaus bis in den Herbst hinein finden. Er bevorzugt offenes Gelände wie Parkanlagen oder Wegränder. Gilt als essbar, schmeckt aber etwas bitter. (Dieter Gewalt) [Mehr lesen >](/pilze/agrocybe-praecox-voreilender-ackerling)
 
 <div style="clear:  both"></div>
 
