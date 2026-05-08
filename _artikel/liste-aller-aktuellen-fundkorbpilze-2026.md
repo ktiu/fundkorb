@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-08.05.2026: [Mycena abramsii - Voreilernder Helmling](/pilze/mycena-abramsii-voreilender-helmling)  
+10.05.2026: [Taphrina deformans - Pfirsich-Kräuselkrankheit](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)  
+09.05.2026: [Peniophora quercina - Eichen-Zystidenrindenpilz](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)  
+08.05.2026: [Mycena abramsii - Voreilernder Helmling](/pilze/mycena-abramsii-voreilender-helmling)\
 07.05.2026: [Ganoderma lucidum - Glänzender Lackporling](/pilze/ganoderma-lucidum-glänzender-lackporling)\
 06.05.2026: [Coprinellus domesticus - Haustintling](/pilze/coprinellus-domesticus-haustintling)\
 05.05.2026: [Lecanora chlarotera - Helle Kuchenflechte](/pilze/lecanora-chlarotera-helle-kuchenflechte)\
