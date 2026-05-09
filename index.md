@@ -31,7 +31,9 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include bild.html datei="/bilder/peniophora_quercina_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-09.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Eichen-Zystidenrindenpilz Peniophora quercina. Er entsteht auf der Rinde von noch am Baum befindlichen abgestorbenen Ästen aus kleineren Flecken, die sich bald zu ausgedehnten Flächen vereinigen. In frischem Zustand sind sie violett-rosa und aufgequollen, trocken grau und rissig. Der Pilz ist sehr häufig und kaum eine Eiche dürfte von ihm verschont bleiben. Da er nur tote Äste und Zweige befällt, richtet er keinen Schaden an. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+09.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Eichen-Zystidenrindenpilz Peniophora quercina. Er entsteht auf der Rinde von noch am Baum befindlichen abgestorbenen Ästen aus kleineren Flecken, die sich bald zu ausgedehnten Flächen vereinigen. In frischem Zustand sind sie violett-rosa und aufgequollen, trocken grau und rissig. Der Pilz ist sehr häufig und kaum eine Eiche dürfte von ihm verschont bleiben. Da er nur tote Äste und Zweige befällt, richtet er keinen Schaden an. (Dieter Gewalt) Mehr lesen > 
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_abramsii_04_jr.jpg" %}
