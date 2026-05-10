@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/evernia_prunastri_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+11.05.2026: Wenn es zu lange trocken gewesen ist, sind „normale“ Pilze Mangelware. [Flechten](/verwandt/flechten) dagegen sind jederzeit und überall zu finden. Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Pflaumenflechte *Evernia prunastri*, stellt immerhin gewisse Ansprüche an die Luftqualität. Sie liebt saubere Luft und lichtreiche Standorte. Hier ist sie an der Rinde verschiedener Laubbäume durchaus häufig und wird auch „Eichenmoos“ genannt. (Dieter Gewalt) [Mehr lesen >](/pilze/evernia-prunastri-pflaumenflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/taphrina_deformans_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -70,10 +78,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haustintling *Coprinellus domest
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_tuberaster_05_dg.jpg" %}
 {% include abbildung_ende.html %}
-
-04.05.2026: Aktueller Fundkorbpilz ist der Kleine Schuppenporling *Polyporus tuberaster*. Man kann ihn als Geheimtip für Gourmets bezeichnen, leider mit einem Haken. Nur junge Exemplare sind zart genug, um als Leckerbissen in der Pfanne zu landen. Er wird auch Sklerotienporling genannt. (Dieter Gewalt) Was ein Sklerotium ist und einiges mehr über diesen interessanten Pilz [erfahren Sie hier >](/pilze/polyporus-tuberaster-sklerotienporling)
-
-<div style="clear:  both"></div>
 
 - - -
 
