@@ -1,7 +1,7 @@
 ---
 aktivitaet: Der Wald und seine Pilze Ende Mai
-zeit: 2026-05-04T09:28:58.953Z
-bis: 2026-05-31T10:00:00.000Z
+zeit: 2026-05-31T10:00:58.953Z
+bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
 published: true
