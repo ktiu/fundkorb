@@ -31,7 +31,8 @@ Mit nur 26 Fundpunkten im Verbreitungsatlas der Großpilze in Deutschland (davon
 
 Die Rote Liste der Großpilze Deutschlands aus dem Jahr 1992 führt L. cyathiformis in der Kategorie „R“, also als extrem seltenen Pilz. Für die wärmeliebende Art der großen Stromtäler und deren Auwälder mit reichlich Altholz wurde eine Gefährdung durch Rückgang des benötigten Lebensraums festgestellt.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinus_cyathiformis_06_wb.jpg.png" %}
 {% include abbildung_ende.html %}
 
-Im Mai 2026 fand Werner Bauer mehrere Fruchtkörper des Pokalförmigen Sägeblättlings an einem Pappelstumpf in den Donau-Auen bei Krems in Niederrösterreich.
+Im Mai 2026 fand Werner Bauer mehrere Fruchtkörper des Pokalförmigen Sägeblättlings an zwei Pappelstümpfen in den Donau-Auen bei Krems in Niederrösterreich.
