@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-11.05.2026: [Evernia prunastri - Pflaumenflechte](/pilze/evernia-prunastri-pflaumenflechte)  
+12.05.2026: [Lentinus cyathiformis - Pokalförmiger Sägeblättling](/pilze/lentinus-cyathiformis-pokalförmiger-sägeblättlling)  
+11.05.2026: [Evernia prunastri - Pflaumenflechte](/pilze/evernia-prunastri-pflaumenflechte)\
 10.05.2026: [Taphrina deformans - Pfirsich-Kräuselkrankheit](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)\
 09.05.2026: [Peniophora quercina - Eichen-Zystidenrindenpilz](/pilze/peniophora-quercina-eichen-zystidenrindenpilz)\
 08.05.2026: [Mycena abramsii - Voreilernder Helmling](/pilze/mycena-abramsii-voreilender-helmling)\
