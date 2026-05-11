@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinus_cyathiformis_06_wb.jpg.png" %}
+{% include abbildung_ende.html %}
+
+12.05.2026: Vor kurzem durfte ich mich in den Donau-Auen bei Krems in Niederösterreich über einen ganz besonderen Fund freuen, den ich heute als aktuellen [Fundkorbpilz](AA "Glossar-") melde. Am Stumpf einer Pappel bemerkte ich an einem Feldwegrand einen Pilz, den man auf den ersten Blick für einen Steinpilz hätte halten können. Aufgrund seiner harten Konsistenz, der wie feine weit am Stiel herablaufende Rillen erscheinenden Lamellen und der typischen Pokalform konnte ich ihn als Pokalförmigen Sägeblättling *Lentinus cyathiformis* identifizieren. Etwa 100 Meter entfernt entdeckte ich ein zweites Exemplar. (Werner Bauer) [Mehr lesen >](/pilze/lentinus-cyathiformis-pokalförmiger-sägeblättlling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/evernia_prunastri_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -69,14 +77,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haustintling *Coprinellus domest
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-05.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute die Helle Kuchenflechte *Lecanora chlarotera*, eine häufige, an [Apothecien ](Apothecien "Glossar")reiche, [epiphytisch](epiphytisch "Glossar")e Krustenflechte. Sie besteht aus zahllosen, oft dicht an dicht liegenden Becherchen (Apothecien) mit meist hellbrauner Scheibe und weißem Rand auf einem weißlichem bis grauweißem [Lager](Lager "Glossar") (Thallus). Wir fanden mehrere Lager auf der Rinde von Zweigen eines morschen Apfelbaumes auf einer Streuobstwiese im Schwarzwaldrandgebiet bei Karlsbad-Spielberg. (Bernd Miggel) [Mehr lesen >](/pilze/lecanora-chlarotera-helle-kuchenflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_tuberaster_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 - - -
