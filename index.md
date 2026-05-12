@@ -75,10 +75,6 @@ Aktueller [Fundkorbpilz](AA "Glossar-") ist der Haustintling *Coprinellus domest
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lecanora_chlarotera_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2026](/artikel/liste-aller-aktuellen-fundkorbpilze-2026)
