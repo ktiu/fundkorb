@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Xylopsora caradocensis
   deutsch: Wertvolle Schuppenflechte
   referenz: (Leight. ex Nyl.) Bendiksby & Timdal 2013
-  synonym: "Synonym: Hypocenomyce caradocensis"
+  synonym: "Synonym: Hypocenomyces caradocensis"
   familie: Umbilicariaceae
 profil:
   aktualisiert: 2024-05-01
@@ -29,7 +29,7 @@ literatur:
 {% include bild.html datei="/bilder/xylopsora_caradocensis_02_bm.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Foto links: Liss Hoffmann" %}
 
-Sucht man die Borken alter Kiefern nach Flechtern ab, kann man durchaus einmal auf die Wertvolle Schuppenflechte (*Xylopsora caradocensis*) stoßen. Diese grünliche bis bräunliche, schuppenartige Krustenflechte ist wenig bekannt und wird nur in wenigen Fachbüchern gezeigt. Gemäß Rote Liste (2011) gilt sie jedoch als ungefährdet. Sie wächst vorwiegend auf der Rinde von Nadelbäumen, und zwar in montanen bis hochmontanen, niederschlagsreichen Lagen. Den hier dargestellten Fund machten wir in einem auf feuchtem, torfhaltigem Boden stockenden Kiefern-Schonwald im Nordschwarzwald. Dort, auf etwa 720 Meter NN, wuchs *Xylopsora caradocensis* im unteren Stammbereich einer Waldkiefer mit einer [Thallusgröße](Thallus "Glossar") von ca. 20 x 5 cm.
+Sucht man die Borken alter Kiefern nach Flechten ab, kann man durchaus einmal auf die Wertvolle Schuppenflechte (*Xylopsora caradocensis*) stoßen. Diese grünliche bis bräunliche, schuppenartige Krustenflechte ist wenig bekannt und wird nur in wenigen Fachbüchern gezeigt. Gemäß Roter Liste (2011) gilt sie jedoch als ungefährdet. Sie wächst vorwiegend auf der Rinde von Nadelbäumen, und zwar in montanen bis hochmontanen, niederschlagsreichen Lagen. Den hier dargestellten Fund machten wir in einem auf feuchtem, torfhaltigem Boden stockenden Kiefern-Schonwald im Nordschwarzwald. Dort, auf etwa 720 Meter NN, wuchs *Xylopsora caradocensis* im unteren Stammbereich einer Waldkiefer mit einer [Thallusgröße](Thallus "Glossar") von ca. 20 x 5 cm.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/xylopsora_caradocensis_03_bm.jpg" %}
