@@ -31,7 +31,7 @@ Eine sichere Bestimmung ist nur unter Berücksichtigung von Mikromerkmalen mögl
 
 Der Schwarzblaue Rötling gilt als ungenießbar oder giftverdächtig. Sehr ähnlich und ebenfalls sehr selten ist der Enten-Zähling *Entoloma anatinum*. In der artenreichen und schwierigen Gattung der Rötlinge (auch Zärtlinge genannt) gibt es nur sehr wenige essbare Arten, die nur erfahrenen Pilzsammlern zu empfehlen sind. Zum Beispiel der [Schildrötling *Entoloma clypeatum*](/pilze/entoloma-clypeatum-schildrötling) und der [Schlehenrötling *Entoloma sepium*](/pilze/entoloma-sepium-schlehenrötling). Unter den übrigen befinden sich zahlreiche, zum Teil sehr giftige Arten wie zum Beispiel der [Riesenrötling *Entoloma sinuatum*](/pilze/entoloma-sinuatum-riesenrötling).
 
-<div style="clear:  both"></div>
+- - -
 
 ##### Anhang: Fundbericht von Matthias Dondl
 
