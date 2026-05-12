@@ -34,3 +34,9 @@ Die Rote Liste der Großpilze Deutschlands aus dem Jahr 1992 führt L. cyathifor
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lentinus_cyathiformis_06_wb.jpg.png" %}
 {% include abbildung_ende.html legende="Im Mai 2026 fand Werner Bauer mehrere Fruchtkörper des Pokalförmigen Sägeblättlings an zwei Pappelstümpfen in den Donau-Auen bei Krems in Niederrösterreich" %}
+
+
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/lentinus_cyathiformis_07_bs.jpg.jpeg" %}
+{% include abbildung_ende.html legende="Bela Salgo fand den Pilz am 03. 04.2026 passend zu seiner termophilen Vorliebe im Mittelmeerraum - und zwar auf der Insel Korsika bei Francardo an totem Eichenholz." %}
