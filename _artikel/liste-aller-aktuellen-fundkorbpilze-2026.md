@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-13.05.2026: [Xylaria carpophila - Bucheckernschalen-Holzkeule](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)  
+14.05.2026: [Laetiporus sulphureus - Schwefelporling](/pilze/laetiporus-sulphureus-schwefelporling)  
+13.05.2026: [Xylaria carpophila - Bucheckernschalen-Holzkeule](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)\
 12.05.2026: [Lentinus cyathiformis - Pokalförmiger Sägeblättling](/pilze/lentinus-cyathiformis-pokalförmiger-sägeblättlling)\
 11.05.2026: [Evernia prunastri - Pflaumenflechte](/pilze/evernia-prunastri-pflaumenflechte)\
 10.05.2026: [Taphrina deformans - Pfirsich-Kräuselkrankheit](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)\
