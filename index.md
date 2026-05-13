@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laetiporus_sulphureus08_dg-.jpg" %}
+{% include abbildung_ende.html %}
+
+14.05.2026: Zum Vatertag gibt es heute Hühnchen. Der aktuelle [Fundkorbpilz](AA "Glossar-"), der Schwefelporling *Laetiporus sulphureus* wird im englischen Sprachraum gern als „Waldhuhn“ (chicken of the woods) bezeichnet. Er fällt schon von weitem durch seine leuchtend orangegelben Fruchtkörper auf. Für den befallenen Baum bedeutet er den sicheren Tod (Braunfäule), ist aber besonders für Veganer ein echtes Geschmackserlebnis. Jung kann man ihn als Hühnchenfleisch-Ersatz zubereiten; er muss allerdings immer gut durchgegart sein, sonst ist er schwer verdaulich. (Ulrike Wegner) [Mehr lesen >](/pilze/laetiporus-sulphureus-schwefelporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylaria_carpophila_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
