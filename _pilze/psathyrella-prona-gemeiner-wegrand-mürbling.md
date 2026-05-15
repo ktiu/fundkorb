@@ -27,7 +27,7 @@ literatur:
 
 Die glockigen Hüte, die kaum einmal flach ausgebreitet sind, messen selten mehr als 1,5 bis 2 mm Durchmesser. Sie sind [hygrophan](hygrophan "Glossar"), matt, fast bis zur Mitte gerieft, feucht rötlich grau- bis schwarzbraun, trocken eher ockerbeige. Die bauchigen Lamellen sind ausgebuchtet am Stiel angewachsen, jung weißlich, später durch ausfallendes Sporenpulver dunkler. Die Lamellenschneiden können einen rötlichen Beiton haben. Die schlanken, sehr dünnen Stiele können bis zu 7 cm lang werden und sind vor allem an der Spitze weiß beflockt. Das dünne Fleisch ist blass, Geschmack mild, Geruch unauffällig mehlig. Die Sporenpulverfarbe ist schwarz mit Violettstich.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/psathyrella_prona_03_mb.png" %}
 {% include abbildung_ende.html legende="Sporen (Foto: Matthias Dondl)" %}
 
