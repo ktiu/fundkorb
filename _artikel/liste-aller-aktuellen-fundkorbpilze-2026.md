@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-15.05.2026: [Parasola plicatilis - Gemeiner Scheibchentintling](/pilze/parasola-plicatilis-gemeiner-scheibchentintling)  
+16.05.2026: [Xylopsora caradocensis - Wertvolle Schuppenflechte](/pilze/xylopsora-caradocensis-wertvolle-schuppenflechte)  
+15.05.2026: [Parasola plicatilis - Gemeiner Scheibchentintling](/pilze/parasola-plicatilis-gemeiner-scheibchentintling)\
 14.05.2026: [Laetiporus sulphureus - Schwefelporling](/pilze/laetiporus-sulphureus-schwefelporling)\
 13.05.2026: [Xylaria carpophila - Bucheckernschalen-Holzkeule](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)\
 12.05.2026: [Lentinus cyathiformis - Pokalförmiger Sägeblättling](/pilze/lentinus-cyathiformis-pokalförmiger-sägeblättlling)\
