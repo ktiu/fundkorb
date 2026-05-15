@@ -11,7 +11,7 @@ hauptbild:
 literatur:
   - {}
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/scleromitra_calthicola_01_cw.png" nocrop=true %}
 {% include bild.html datei="/bilder/scleromitra_calthicola_02_cw.png" nocrop=true %}
 {% include abbildung_ende.html legende="(Fund im Mai 2026; 2 Fotos von Christian Weinkötz)" %}
