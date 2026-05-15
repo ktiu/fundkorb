@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylopsora_caradocensis_03_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+16.05.2026: Sucht man die Borken alter Kiefern nach Flechten ab, kann man durchaus einmal auf unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-") stoßen. Die Wertvolle Schuppenflechte *Xylopsora caradocensis* hat grünliche bis bräunliche Schuppen, ist wenig bekannt und wird nur in wenigen Fachbüchern gezeigt. Sie wächst vorwiegend auf der Rinde von Nadelbäumen in montanen bis hochmontanen, niederschlagsreichen Lagen. Das Foto zeigt die Flechte stark vergrößert. (Bernd Miggel) [Mehr lesen >](/pilze/xylopsora-caradocensis-wertvolle-schuppenflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/parasola_plicatilis_02_km.jpg" %}
 {% include abbildung_ende.html %}
 
