@@ -2,6 +2,8 @@
 beschreibung:
   wissenschaftlich: Scleromitra calthicola
   erlaeuterung: calthicola = an Sumpfdotterblumen wachsend
+  referenz: Trond Schumacher & Arne Holst-Jensen 1941
+  familie: Sclerotiniaceae
 profil:
   aktualisiert: 2026-05-15
   autor_in: Dieter Gewalt
