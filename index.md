@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_cyanoxantha_04_dg-1536x1197.jpg" %}
+{% include abbildung_ende.html %}
+
+17.05.2026: Der erste Täubling! Mit einem Frauentäubling (*Russula cyanoxantha*) sogar eine der Premiumarten! Einen besseren aktuellen  [Fundkorbpilz](AA "Glossar-") hätten wir uns bei unserer gestrigen Waldwanderung nicht wünschen können. Man muss kein mit Mikroskop bewaffneter [Mykologe](Mykologie "Glossar") sein, um ihn in dieser wahrlich schwierigen Gattung von den anderen rund 160 in Deutschland nachgewiesenen Täublingsarten sicher zu unterscheiden. Man muss nur wissen, worauf man achten muss. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-cyanoxantha-frauentäubling) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xylopsora_caradocensis_03_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 11.05.2026: Wenn es zu lange trocken gewesen ist, sind „normale“ Pilze Mangelware. [Flechten](/verwandt/flechten) dagegen sind jederzeit und überall zu finden. Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Pflaumenflechte *Evernia prunastri*, stellt immerhin gewisse Ansprüche an die Luftqualität. Sie liebt saubere Luft und lichtreiche Standorte. Hier ist sie an der Rinde verschiedener Laubbäume durchaus häufig und wird auch „Eichenmoos“ genannt. (Dieter Gewalt) [Mehr lesen >](/pilze/evernia-prunastri-pflaumenflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/taphrina_deformans_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.05.2026: Ab und zu wird auch mal ein [Phytoparasit](Phytoparasiten "Glossar") aktueller [Fundkorbpilz](AA "Glossar-") des Tages. Es ist eine an manchen Pfirsischbäumen erscheinende Art, die *Taphrina deformans* (Pfirsisch-Kräuselkrankheit) genannt wird. Sie deformiert Blätter, Triebe oder Früchte und färbt sie hellgrün, gelblich oder auch rot, richtet aber weiter keinen Schaden an. Befallene Pfirsiche sollte man besser nicht mehr essen. *Taphrina*-Arten gehören zu den Schlauchpilzen ([Ascomyzeten](Ascomyzeten "Glossar")). (Dieter Gewalt) [Mehr lesen >](/pilze/taphrina-deformans-pfirsisch-kräuselkrankheit)
 
 <div style="clear:  both"></div>
 
