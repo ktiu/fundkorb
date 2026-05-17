@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/megacollybia_platyphylla_06_jr.jpg" %}
+{% include abbildung_ende.html %}
+
+18.05.2026: Einer der häufigsten Blätterpilze und aktueller [Fundkorbpilz](AA "Glossar-") ist der Breitblättrige Holzrübling *Megacollybia platyphylla*. Dieser sehr häufige Pilz wächst stets in Verbindung mit Holz. Um das nachzuprüfen, braucht man nur die an der Stielbasis anhängenden [Myzelstränge](<Myzel "Glossar">) bis zu ihrem Ursprung zu verfolgen. Man könnte die Art kurz und treffend als ein *"Pilz wie Haut und Knochen"* beschreiben. Die Lamellen hängen praktisch direkt an der Huthaut. Seine Speisepilzqualität wird meist als sehr mäßig beurteilt und es wird sogar von Unverträglichkeiten berichtet. (Dieter Gewalt) [Mehr lesen >](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_cyanoxantha_04_dg-1536x1197.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 12.05.2026: Vor kurzem durfte ich mich in den Donau-Auen bei Krems in Niederösterreich über einen ganz besonderen Fund freuen, den ich heute als aktuellen [Fundkorbpilz](AA "Glossar-") melde. Am Stumpf einer Pappel bemerkte ich an einem Feldwegrand einen Pilz, den man auf den ersten Blick für einen Steinpilz hätte halten können. Aufgrund seiner harten Konsistenz, der wie feine weit am Stiel herablaufende Rillen erscheinenden Lamellen und der typischen Pokalform konnte ich ihn als Pokalförmigen Sägeblättling *Lentinus cyathiformis* identifizieren. Etwa 100 Meter entfernt entdeckte ich ein zweites Exemplar. (Werner Bauer) [Mehr lesen >](/pilze/lentinus-cyathiformis-pokalförmiger-sägeblättlling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/evernia_prunastri_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-11.05.2026: Wenn es zu lange trocken gewesen ist, sind „normale“ Pilze Mangelware. [Flechten](/verwandt/flechten) dagegen sind jederzeit und überall zu finden. Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Pflaumenflechte *Evernia prunastri*, stellt immerhin gewisse Ansprüche an die Luftqualität. Sie liebt saubere Luft und lichtreiche Standorte. Hier ist sie an der Rinde verschiedener Laubbäume durchaus häufig und wird auch „Eichenmoos“ genannt. (Dieter Gewalt) [Mehr lesen >](/pilze/evernia-prunastri-pflaumenflechte)
 
 <div style="clear:  both"></div>
 
