@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-17.05.2026: [Russula cyanoxantha - Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling)  
+18.05.2026: [Megacollybia platyphylla - Breitblatt, Breitblättriger Holzrübling](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)  
+17.05.2026: [Russula cyanoxantha - Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling)\
 16.05.2026: [Xylopsora caradocensis - Wertvolle Schuppenflechte](/pilze/xylopsora-caradocensis-wertvolle-schuppenflechte)\
 15.05.2026: [Parasola plicatilis - Gemeiner Scheibchentintling](/pilze/parasola-plicatilis-gemeiner-scheibchentintling)\
 14.05.2026: [Laetiporus sulphureus - Schwefelporling](/pilze/laetiporus-sulphureus-schwefelporling)\
