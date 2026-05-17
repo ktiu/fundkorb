@@ -59,3 +59,9 @@ Anfang April 2022 meldete *Adam Adamomicz* den Fund eines Sandborstlings in eine
 Der Zedern-Sandborstling könnte mit dem Kronenbecherling *Sarcosphaera coronaria* verwechselt werden, der jedoch nicht bei Zedern wächst.
 
 Belege (Exsikkate) sind hinterlegt in den Fungarien KR (Staatl. Museum für Naturkunde Karlsruhe), STU (Staatl. Museum für Naturkunde Stuttgart), TUF (Universität Tartu, Estland)
+
+Weitere im Fundkorb beschriebene *Geopora*-Arten:\
+[*Kleinsporiger Sandborstling Geopora arenicola*](/pilze/geopora-arenicola-kleinsporiger-sandborstling)\
+Hellscheibiger Sandborstling *Geopora cervina*\
+[Trüffel-Sandborstling *Geopora cooperi*](/pilze/geopora-cooperi-trüffel-sandborstling)\
+Vergrabener Sandborstling *Geopora sepulta*
