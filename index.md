@@ -20,10 +20,18 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_augustus_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+20.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenchampignon *Agaricus augustus*. In der artenreichen Gattung der Champignons ist er einer der wenigen, die leicht kenntlich sind. Kennzeichen: stattlicher großer Pilz mit gelb-bräunlicher Hutbeschuppung und Geruch nach Anis. Vorkommen: gern in halb-offenen Biotopen wie zur Zeit in unserer Dietzenbacher Parkanlage, wo er häufig erscheint. Verwendung: wen der süßliche Anisgeschmack im Pilzgericht nicht stört, wird ihn sicherlich zu schätzen wissen. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-augustus-riesenchampignon)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gymnopus_dryophilus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-19.05.2026: Zur Zeit ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Waldfreundrübling *Gymnopus dryophilus*, nur vereinzelt anzutreffen. Das wird sich bei optimalen Wachstumsbedingungen grundlegend ändern. Dann spielt er als Streuzersetzer eine wichtige Rolle im Ökosystem Wald und ist in hohem Maße an der Verrottung von Laub und Nadeln beteiligt. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht mehr ganz einfach. (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)[](/pilze/gymnopus-dryophilus-waldfreundrübling)
+19.05.2026: Zur Zeit ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Waldfreundrübling *Gymnopus dryophilus*, nur vereinzelt anzutreffen. Das wird sich bei optimalen Wachstumsbedingungen grundlegend ändern. Dann spielt er als Streuzersetzer eine wichtige Rolle im Ökosystem Wald und ist in hohem Maße an der Verrottung von Laub und Nadeln beteiligt. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht mehr ganz einfach. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-augustus-riesenchampignon)[](/pilze/gymnopus-dryophilus-waldfreundrübling)
 
 <div style="clear:  both"></div>
 
@@ -64,22 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 14.05.2026: Zum Vatertag gibt es heute Hühnchen. Der aktuelle [Fundkorbpilz](AA "Glossar-"), der Schwefelporling *Laetiporus sulphureus*, wird im englischen Sprachraum gern als „Waldhuhn“ (chicken of the woods) bezeichnet. Er fällt schon von weitem durch seine leuchtend orangegelben Fruchtkörper auf. Für den befallenen Baum bedeutet er den sicheren Tod (Braunfäule), ist aber besonders für Veganer ein echtes Geschmackserlebnis. Jung kann man ihn als Hühnchenfleisch-Ersatz zubereiten; er muss allerdings immer gut durchgegart sein, sonst ist er schwer verdaulich. (Ulrike Wegner) [Mehr lesen >](/pilze/laetiporus-sulphureus-schwefelporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylaria_carpophila_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Bucheckernschalen-Holzkeule *Xylaria carpophila*. Ein ziemlich kompliziert klingender deutscher Name für einen Pilz, der ihn aber treffend beschreibt. Es sind allerdings sehr zierliche, fast schon filigrane Keulchen, die sich durch ihr Vorkommen auf Bucheckernschalen (-cupulen) zweifelsfrei erkennen lassen. Die Art ist wohl in jedem Buchenwald häufig, aber leicht zu übersehen. (Dieter Gewalt) [Mehr lesen >](/pilze/xylaria-carpophila-bucheckernschalen-holzkeule)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lentinus_cyathiformis_06_wb.jpg.png" %}
-{% include abbildung_ende.html %}
-
-12.05.2026: Vor kurzem durfte ich mich in den Donau-Auen bei Krems in Niederösterreich über einen ganz besonderen Fund freuen, den ich heute als aktuellen [Fundkorbpilz](AA "Glossar-") melde. Am Stumpf einer Pappel bemerkte ich an einem Feldwegrand einen Pilz, den man auf den ersten Blick für einen Steinpilz hätte halten können. Aufgrund seiner harten Konsistenz, der wie feine weit am Stiel herablaufende Rillen erscheinenden Lamellen und der typischen Pokalform konnte ich ihn als Pokalförmigen Sägeblättling *Lentinus cyathiformis* identifizieren. Etwa 100 Meter entfernt entdeckte ich ein zweites Exemplar. (Werner Bauer) [Mehr lesen >](/pilze/lentinus-cyathiformis-pokalförmiger-sägeblättlling)
 
 <div style="clear:  both"></div>
 
