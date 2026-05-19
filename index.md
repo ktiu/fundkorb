@@ -39,7 +39,7 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include bild.html datei="/bilder/megacollybia_platyphylla_06_jr.jpg" %}
 {% include abbildung_ende.html %}
 
-18.05.2026: Einer der häufigsten Blätterpilze und aktueller [Fundkorbpilz](AA "Glossar-") ist der Breitblättrige Holzrübling *Megacollybia platyphylla*. Dieser sehr häufige Pilz wächst stets in Verbindung mit Holz. Um das nachzuprüfen, braucht man nur die an der Stielbasis anhängenden [Myzelstränge](<Myzel "Glossar">) bis zu ihrem Ursprung zu verfolgen. Man könnte die Art kurz und treffend als ein *"Pilz wie Haut und Knochen"* beschreiben. Die Lamellen hängen praktisch direkt an der Huthaut. Seine Speisepilzqualität wird meist als sehr mäßig beurteilt und es wird sogar von Unverträglichkeiten berichtet. (Dieter Gewalt) [Mehr lesen >](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)
+18.05.2026: Einer der häufigsten Blätterpilze und aktueller [Fundkorbpilz](AA "Glossar-") ist der Breitblättrige Holzrübling *Megacollybia platyphylla*. Er wächst stets in Verbindung mit Holz. Um das nachzuprüfen, braucht man nur die an der Stielbasis anhängenden [Myzelstränge](Myzel "Glossar") bis zu ihrem Ursprung zu verfolgen. Man könnte die Art kurz und treffend als ein *"Pilz wie Haut und Knochen"* beschreiben. Die Lamellen hängen praktisch direkt an der Huthaut. Seine Speisepilzqualität wird meist als sehr mäßig beurteilt und es wird sogar von Unverträglichkeiten berichtet. (Dieter Gewalt) [Mehr lesen >](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)
 
 <div style="clear:  both"></div>
 
