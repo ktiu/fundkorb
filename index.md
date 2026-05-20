@@ -31,7 +31,7 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include bild.html datei="/bilder/gymnopus_dryophilus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-19.05.2026: Zur Zeit ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Waldfreundrübling *Gymnopus dryophilus*, nur vereinzelt anzutreffen. Das wird sich bei optimalen Wachstumsbedingungen grundlegend ändern. Dann spielt er als Streuzersetzer eine wichtige Rolle im Ökosystem Wald und ist in hohem Maße an der Verrottung von Laub und Nadeln beteiligt. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht mehr ganz einfach. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-augustus-riesenchampignon)[](/pilze/gymnopus-dryophilus-waldfreundrübling)
+19.05.2026: Zur Zeit ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Waldfreundrübling *Gymnopus dryophilus*, nur vereinzelt anzutreffen. Das wird sich bei optimalen Wachstumsbedingungen grundlegend ändern. Dann spielt er als Streuzersetzer eine wichtige Rolle im Ökosystem Wald und ist in hohem Maße an der Verrottung von Laub und Nadeln beteiligt. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht mehr ganz einfach. (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)
 
 <div style="clear:  both"></div>
 
