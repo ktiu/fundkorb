@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/volvariella_gloiocephala_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+21.05.2026: Überraschung bei einem Spaziergang in der Nähe von St. Pölten, Niederösterreich: Auf dem umgepflügten Ackerboden eines vorjährigen Maisfeldes entdeckte ich meinen aktuellen [Fundkorbpilz](AA "Glossar-"), den Großen Scheidling *Volvariella gloicephala*. So viele wie hier habe ich noch nie zuvor gesehen. An seinem ringlosen Stiel, den scheidenartigen [Velumresten](Velum "Glossar") am Stielgrund und den großen grauweißen Hüten mit den rosa Lamellen ist er gut zu erkennen. Er ist essbar, aber wegen seines muffigen Geschmacks kaum für die Küche zu empfehlen. (Werner Bauer) [Mehr lesen >](/pilze/volvariella-gloiocephala-großer-scheidling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_augustus_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 15.05.2026: Tintlinge sind in vier recht deutlich voneinander unterschiedenen Gattungen untergebracht, von denen die Scheibchentintintlinge durch sehr grazile, zerbrechliche aber durchaus hübsche Hütchen und nahezu fadendünne Stiele auffallen. Sie sind sehr kurzlebig und ihre Hüte zerfließen <ins>nicht</ins> zu Tinte. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gemeine Scheibchentintling *Parasola plicatilis*, eine sehr häufige, gern gesellig an Wegrändern wachsende Art. (Dieter Gewalt) [Mehr lesen >](/pilze/parasola-plicatilis-gemeiner-scheibchentintling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/laetiporus_sulphureus08_dg-.jpg" %}
-{% include abbildung_ende.html %}
-
-14.05.2026: Zum Vatertag gibt es heute Hühnchen. Der aktuelle [Fundkorbpilz](AA "Glossar-"), der Schwefelporling *Laetiporus sulphureus*, wird im englischen Sprachraum gern als „Waldhuhn“ (chicken of the woods) bezeichnet. Er fällt schon von weitem durch seine leuchtend orangegelben Fruchtkörper auf. Für den befallenen Baum bedeutet er den sicheren Tod (Braunfäule), ist aber besonders für Veganer ein echtes Geschmackserlebnis. Jung kann man ihn als Hühnchenfleisch-Ersatz zubereiten; er muss allerdings immer gut durchgegart sein, sonst ist er schwer verdaulich. (Ulrike Wegner) [Mehr lesen >](/pilze/laetiporus-sulphureus-schwefelporling)
 
 <div style="clear:  both"></div>
 
