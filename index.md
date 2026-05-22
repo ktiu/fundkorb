@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinus_strigosus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.05.2026: Manche Pilze sind einfach nur schön. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Borstige Knäuelimg *Lentinus strigosus*, gehört ganz sicher dazu, besonders in seinem Jugendstadium, wenn der Hut mit den eingerollten Rändern noch lila- bis graurötlich gefärbt ist. Borstig ist er nicht; seine pelzige Behaarung ist eher weich und fühlt sich an wie Samt. Der [Saprobiont](saprobiontisch "Glossar") zählt zu den Erstbesiedlern von totem Laubholz und lässt sich besonders an Buchen finden, die an sonnenexponierten Standorte liegen. (Ulrike Wegner) [Mehr lesen >](/pilze/lentinus-strigosus-borstiger-knäueling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/bolbitius_titubans_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,22 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 17.05.2026: Der erste Täubling! Mit einem Frauentäubling (*Russula cyanoxantha*) sogar eine der Premiumarten! Einen besseren aktuellen  [Fundkorbpilz](AA "Glossar-") hätten wir uns bei unserer gestrigen Waldwanderung nicht wünschen können. Man muss kein mit Mikroskop bewaffneter [Mykologe](Mykologie "Glossar") sein, um ihn in dieser wahrlich schwierigen Gattung von den anderen rund 160 in Deutschland nachgewiesenen Täublingsarten sicher zu unterscheiden. Man muss nur wissen, worauf man achten muss. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-cyanoxantha-frauentäubling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylopsora_caradocensis_03_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-16.05.2026: Sucht man die Borken alter Kiefern nach Flechten ab, kann man durchaus einmal auf unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-") stoßen. Die Wertvolle Schuppenflechte *Xylopsora caradocensis* hat grünliche bis bräunliche Schuppen, ist wenig bekannt und wird nur in wenigen Fachbüchern gezeigt. Sie wächst vorwiegend auf der Rinde von Nadelbäumen in montanen bis hochmontanen, niederschlagsreichen Lagen. Das Foto zeigt die Flechte stark vergrößert. (Bernd Miggel) [Mehr lesen >](/pilze/xylopsora-caradocensis-wertvolle-schuppenflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/parasola_plicatilis_02_km.jpg" %}
-{% include abbildung_ende.html %}
-
-15.05.2026: Tintlinge sind in vier recht deutlich voneinander unterschiedenen Gattungen untergebracht, von denen die Scheibchentintintlinge durch sehr grazile, zerbrechliche aber durchaus hübsche Hütchen und nahezu fadendünne Stiele auffallen. Sie sind sehr kurzlebig und ihre Hüte zerfließen <ins>nicht</ins> zu Tinte. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gemeine Scheibchentintling *Parasola plicatilis*, eine sehr häufige, gern gesellig an Wegrändern wachsende Art. (Dieter Gewalt) [Mehr lesen >](/pilze/parasola-plicatilis-gemeiner-scheibchentintling)
 
 <div style="clear:  both"></div>
 
