@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-21.05.2026: [Volvariella gloiocephala - Großer Scheidling](/pilze/volvariella-gloiocephala-großer-scheidling)  
+22.05.2026: [Bolbitius titubans - Goldmistpilz](/pilze/bolbitius-titubans-goldmistpilz)\
+21.05.2026: [Volvariella gloiocephala - Großer Scheidling](/pilze/volvariella-gloiocephala-großer-scheidling)\
 20.05.2026: [Agaricus augustus - Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon)\
 19.05.2026: [Gymnopus dryophilus - Waldfreundrübling](/pilze/gymnopus-dryophilus-waldfreundrübling)\
 18.05.2026: [Megacollybia platyphylla - Breitblatt, Breitblättriger Holzrübling](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)\
