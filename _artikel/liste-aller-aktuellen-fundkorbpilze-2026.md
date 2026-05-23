@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-23.05.2026: [Lentinus strigosus - Borstiger Knäueling](<Lentinus strigosus - Borstiger Knäueling>)  
+24.05.2026: [Pluteus cervinus - Rehbrauner Dachpilz](/pilze/pluteus-cervinus-rehbrauner-dachpilz)  
+23.05.2026: [Lentinus strigosus - Borstiger Knäueling](<Lentinus strigosus - Borstiger Knäueling>)\
 22.05.2026: [Bolbitius titubans - Goldmistpilz](/pilze/bolbitius-titubans-goldmistpilz)\
 21.05.2026: [Volvariella gloiocephala - Großer Scheidling](/pilze/volvariella-gloiocephala-großer-scheidling)\
 20.05.2026: [Agaricus augustus - Riesenchampignon](/pilze/agaricus-augustus-riesenchampignon)\
