@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pluteus_cervinus_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.05.2026: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist der Rehbraune Dachpilz Pluteus cervinus. Keine Überraschung zu diesem Zeitpunkt, denn er gehört zu den schon früh im Jahr erscheinenden Blätterpilzen. Dachpilze sind leicht zu erkennen. Sie haben freie, rosa verfärbende Lamellen, die nicht bis an den Stiel heranreichen, jedoch keine häutige Scheide am Stiel. Die meisten Arten wachsen an Holz und sind nicht immer leicht zu unterscheiden. Der Rehbraune ist jedenfalls der mit Abstand häufigste, aber nicht besonders schmackhaft.  (Dieter Gewalt) [Mehr lesen >](/pilze/pluteus-cervinus-rehbrauner-dachpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lentinus_strigosus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 18.05.2026: Einer der häufigsten Blätterpilze und aktueller [Fundkorbpilz](AA "Glossar-") ist der Breitblättrige Holzrübling *Megacollybia platyphylla*. Er wächst stets in Verbindung mit Holz. Um das nachzuprüfen, braucht man nur die an der Stielbasis anhängenden [Myzelstränge](Myzel "Glossar") bis zu ihrem Ursprung zu verfolgen. Man könnte die Art kurz und treffend als ein *"Pilz wie Haut und Knochen"* beschreiben. Die Lamellen hängen praktisch direkt an der Huthaut. Seine Speisepilzqualität wird meist als sehr mäßig beurteilt und es wird sogar von Unverträglichkeiten berichtet. (Dieter Gewalt) [Mehr lesen >](/pilze/megacollybia-platyphylla-breitblatt-breitblättriger-holzrübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_cyanoxantha_04_dg-1536x1197.jpg" %}
-{% include abbildung_ende.html %}
-
-17.05.2026: Der erste Täubling! Mit einem Frauentäubling (*Russula cyanoxantha*) sogar eine der Premiumarten! Einen besseren aktuellen  [Fundkorbpilz](AA "Glossar-") hätten wir uns bei unserer gestrigen Waldwanderung nicht wünschen können. Man muss kein mit Mikroskop bewaffneter [Mykologe](Mykologie "Glossar") sein, um ihn in dieser wahrlich schwierigen Gattung von den anderen rund 160 in Deutschland nachgewiesenen Täublingsarten sicher zu unterscheiden. Man muss nur wissen, worauf man achten muss. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-cyanoxantha-frauentäubling) 
 
 <div style="clear:  both"></div>
 
