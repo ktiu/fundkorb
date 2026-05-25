@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xylodon_radula_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.05.2026: Um unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu entdecken, empfiehlt es sich, an Kirschbäumen Ausschau zu halten. An stehenden Stämmen und an toten Ästen bis hinauf in die Kronen ist der Reibeisen-Rindenpilz *Xylodon radula* zu finden. Sein Wachstum beginnt mit kleinen weißen Flecken, die bald zu großflächigeren Belägen zusammenwachsen und dann auch die etwas dunkleren Zähnchen ausbilden. (Dieter Gewalt) [Mehr lesen >](/pilze/xylodon-radula-reibeisen-rindenpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypholoma_lateritium_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -56,22 +64,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 21.05.2026: Überraschung bei einem Spaziergang in der Nähe von St. Pölten, Niederösterreich: Auf dem umgepflügten Ackerboden eines vorjährigen Maisfeldes entdeckte ich meinen aktuellen [Fundkorbpilz](AA "Glossar-"), den Großen Scheidling *Volvariella gloicephala*. So viele wie hier habe ich noch nie zuvor gesehen. An seinem ringlosen Stiel, den scheidenartigen [Velumresten](Velum "Glossar") am Stielgrund und den großen grauweißen Hüten mit den rosa Lamellen ist er gut zu erkennen. Er ist essbar, aber wegen seines muffigen Geschmacks kaum für die Küche zu empfehlen. (Werner Bauer) [Mehr lesen >](/pilze/volvariella-gloiocephala-großer-scheidling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_augustus_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-20.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenchampignon *Agaricus augustus*. In der artenreichen Gattung der Champignons ist er einer der wenigen, die leicht kenntlich sind. Kennzeichen: stattlicher großer Pilz mit gelb-bräunlicher Hutbeschuppung und Geruch nach Anis. Vorkommen: gern in halb-offenen Biotopen wie zur Zeit in unserer Dietzenbacher Parkanlage, wo er häufig erscheint. Verwendung: wen der süßliche Anisgeschmack im Pilzgericht nicht stört, wird ihn sicherlich zu schätzen wissen. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-augustus-riesenchampignon)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopus_dryophilus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.05.2026: Zur Zeit ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Waldfreundrübling *Gymnopus dryophilus*, nur vereinzelt anzutreffen. Das wird sich bei optimalen Wachstumsbedingungen grundlegend ändern. Dann spielt er als Streuzersetzer eine wichtige Rolle im Ökosystem Wald und ist in hohem Maße an der Verrottung von Laub und Nadeln beteiligt. Da es einige sehr ähnliche Verwandte gibt, die erst in jüngerer Zeit als eigenständige Arten abgetrennt wurden, ist seine sichere Bestimmung nicht mehr ganz einfach. (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopus-dryophilus-waldfreundrübling)
 
 <div style="clear:  both"></div>
 
