@@ -23,7 +23,7 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include bild.html datei="/bilder/volvariella_volvacea_02_wi.png" %}
 {% include abbildung_ende.html %}
 
-27.05.2026: Wenn es sich bei totaler Trockenheit nicht lohnt, in deutschen Wäldern nach Speisepilzen zu suchen, könnte man es in einem Asia Shop versuchen. Irgendwo in den Regalen wird man sicher Konserven mit der Aufschrift *Reisstrohpilze* zu entdecken. sein. Dabei handelt es sich um den Schwarzstreifigen Scheidling *Volvariella volvacea*, der in Thailand massenhaft auf Reisstroh gezüchtet wird. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") kommt auch hierzulande vor, ist aber sehr selten. Ich habe ihn hierzulande erst einmal gesehen. Als Alternative zu unseren Zuchtchampignons ist der Reisstrohpilz (thailändisch: *Het fang*) eine erwägenswerte Alternative. (Dieter Gewalt) [Mehr lesen >](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)
+27.05.2026: Wenn es sich bei totaler Trockenheit nicht lohnt, in deutschen Wäldern nach Speisepilzen zu suchen, könnte man es in einem Asia Shop versuchen. Irgendwo in den Regalen wird man sicher Konserven mit der Aufschrift *Reisstrohpilze* entdecken. sein. Dabei handelt es sich um den Schwarzstreifigen Scheidling *Volvariella volvacea*, der in Thailand massenhaft auf Reisstroh gezüchtet wird. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") kommt auch hierzulande vor, ist aber sehr selten. Ich habe ihn hierzulande erst einmal gesehen. Als Alternative zu unseren Zuchtchampignons ist der Reisstrohpilz (thailändisch: *Het fang*) eine erwägenswerte Alternative. (Dieter Gewalt) [Mehr lesen >](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)
 
 <div style="clear:  both"></div>
 
