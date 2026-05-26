@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-26.05.2026: [Xylodon radula - Reibeisen-Rindenpilz](/pilze/xylodon-radula-reibeisen-rindenpilz)  
+27.05.2026: [Volvariella volvacea - Schwarzstreifiger Scheidling](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)  
+26.05.2026: [Xylodon radula - Reibeisen-Rindenpilz](/pilze/xylodon-radula-reibeisen-rindenpilz)\
 25.05.2026: [Hypholoma lateritium - Ziegelroter Schwefelkopf](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)\
 24.05.2026: [Pluteus cervinus - Rehbrauner Dachpilz](/pilze/pluteus-cervinus-rehbrauner-dachpilz)\
 23.05.2026: [Lentinus strigosus - Borstiger Knäueling](<Lentinus strigosus - Borstiger Knäueling>)\
