@@ -33,4 +33,4 @@ Im *Index fungorum* findet man eine sehr lange Synonymieliste, die anzeigt, dass
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/trechispora_vaga_04_fk.jpg" %}
-{% include abbildung_ende.html legende="Jung Fruchtkörper erscheinen als leuchtend schwefelgelbe, verzweigte Hyphenbündel (Foto: Frank Kaster)" %}
+{% include abbildung_ende.html legende="Junge Fruchtkörper erscheinen als leuchtend schwefelgelbe, verzweigte Hyphenbündel (Foto: Frank Kaster)" %}
