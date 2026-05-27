@@ -24,7 +24,7 @@ literatur:
 
 Diesen wunderschönen, sehr auffälligen Rostpilz fand ich am 25.05.2026 während einer Kartierungs-Exkursion im NSG Mistwiesen bei den drei Gemeinden Karlsbad,  Marxzell und Straubenhardt in Baden-Württemberg. Die Art wächst auf der Unterseite von Frauenmantel-Blättern (*Alchemilla vulgaris*) in Form rotorangefarbener, radialer Streifen. Diese Streifen nennt man *„[Uredien](Uredien "Glossar")“*. Sie stellen das asexuelle Stadium des Rostpilzes dar. Befallene Blätter sind im Vergleich zu unbefallenen typischerweise kleiner, besitzen steifere, längere Stiele und sind farblich blasser. Unsere Art vollzieht keinen Wirtswechsel. Sie wird für Deutschland in der RL-Kategorie V (Vorwarnliste) geführt.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/trachyspora_intrusa_04_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/trachyspora_intrusa_05_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Uredien an Blattunterseite  --  kreisrunde Sporen 20 – 25 µm Ø" %}
