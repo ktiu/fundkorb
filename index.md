@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_thai_01_xx.png" %}
+{% include abbildung_ende.html %}
+
+28.05.2026: Unser heutiger aktueller Aktueller [Fundkorbpilz](AA "Glossar-") (vermutlich *Amanita hemibapha*) ist nicht in einheimischen Wäldern zu finden, wird aber, wie die hier gezeigte Abbildung eindrücklich zeigt, in Thailands Wäldern eifrig gesammelt. Es muss allerdings darauf hingewiesen werden, dass es dort jedes Jahr zu zahlreichen tödlichen Pilzvergiftungen kommt, weitaus häufiger als bei uns in Europa. Den Link zu einem sehenswerten Video und weitere Informationen zum Thema finden Sie in einem kurzgefassten Fundkorb-Beitrag. (Dieter Gewalt) [Mehr lesen >](/artikel/pilze-sammeln-in-thailand)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/volvariella_volvacea_02_wi.png" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 22.05.2026: Ein bildhübscher Pilz und Dung oder Mist müssen nicht unbedingt unvereinbar sein. Es gibt so viele Pilze, die dieses etwas anrüchige Substrat bevorzugen und trotzdem gefallen. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Goldmistpilz *Bolbitius titubans*. Seine anmutige Gestalt und die goldgelbe Farbe machen ihn zu einer attraktiven Erscheinung, die besonders an Wegrändern immer wieder auffällt. Schon nach wenigen Tagen verblasst seine Schönheit, aber das ist nicht nur bei den Pilzen ein Symptom des Alterns.  (Dieter Gewalt) [Mehr lesen >](/pilze/bolbitius-titubans-goldmistpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/volvariella_gloiocephala_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-21.05.2026: Überraschung bei einem Spaziergang in der Nähe von St. Pölten, Niederösterreich: Auf dem umgepflügten Ackerboden eines vorjährigen Maisfeldes entdeckte ich meinen aktuellen [Fundkorbpilz](AA "Glossar-"), den Großen Scheidling *Volvariella gloicephala*. So viele wie hier habe ich noch nie zuvor gesehen. An seinem ringlosen Stiel, den scheidenartigen [Velumresten](Velum "Glossar") am Stielgrund und den großen grauweißen Hüten mit den rosa Lamellen ist er gut zu erkennen. Er ist essbar, aber wegen seines muffigen Geschmacks kaum für die Küche zu empfehlen. (Werner Bauer) [Mehr lesen >](/pilze/volvariella-gloiocephala-großer-scheidling)
 
 <div style="clear:  both"></div>
 
