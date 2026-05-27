@@ -29,6 +29,6 @@ Diesen wunderschönen, sehr auffälligen Rostpilz fand ich am 25.05.2026 währen
 {% include bild.html datei="/bilder/trachyspora_intrusa_05_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Uredien an Blattunterseite  --  kreisrunde Sporen 20 – 25 µm Ø" %}
 
-Auf Frauenmandelblättern trifft man häufig auch auf den „Echten Mehltau der Rosengewächse“ (*Podosphaera aphanis*) in Form eines weißen, dichten Myzels.
+Auf Frauenmandelblättern trifft man häufig auch auf den „Echten Mehltau der Rosengewächse“ (*Podosphaera aphanis*) in Form eines weißen, dichten [Myzels](Myzel "Glossar").
 
 Mehr und viel Wissenswertes über Rostpilze [finden Sie hier >](/verwandt/rostpilze)
