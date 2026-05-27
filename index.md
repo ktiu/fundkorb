@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Ihre Adresse für Pilzkunde und Pilzführungen im Rhein-Main-Gebiet
+title: Ihre Adresse für Pilzkunde und Pilzführungen nicht nur im Rhein-Main-Gebiet
 header_scripts:
   - https://identity.netlify.com/v1/netlify-identity-widget.js
   - assets/js/simple-jekyll-search/simple-jekyll-search.min.js
