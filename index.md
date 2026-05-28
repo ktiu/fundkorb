@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trachyspora_intrusa_03_bm.jpeg" %}
+{% include abbildung_ende.html %}
+
+29.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Gewöhnliche Frauenmantelrost *Trachyspora intrusa*, den ich vor kurzem während einer Kartierungs-Exkursion im NSG Mistwiesen bei den drei Gemeinden Karlsbad, Marxzell und Straubenhardt in Baden-Württemberg gefunden habe. Die Art wächst auf der Unterseite von Frauenmantel-Blättern (*Alchemilla vulgaris*) in Form rotorangefarbener, radialer Streifen, die [Uredien](Uredien "Glossar") genannt werden. (Bernd Miggel) [Mehr lesen >](/pilze/trachyspora-intrusa-gewöhnlicher-frauenmantelrost)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_thai_01_xx.png" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 23.05.2026: Manche Pilze sind einfach nur schön. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Borstige Knäuelimg *Lentinus strigosus*, gehört ganz sicher dazu, besonders in seinem Jugendstadium, wenn der Hut mit den eingerollten Rändern noch lila- bis graurötlich gefärbt ist. Borstig ist er nicht; seine pelzige Behaarung ist eher weich und fühlt sich an wie Samt. Der [Saprobiont](saprobiontisch "Glossar") zählt zu den Erstbesiedlern von totem Laubholz und lässt sich besonders an Buchen finden, die an sonnenexponierten Standorte liegen. (Ulrike Wegner) [Mehr lesen >](/pilze/lentinus-strigosus-borstiger-knäueling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/bolbitius_titubans_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.05.2026: Ein bildhübscher Pilz und Dung oder Mist müssen nicht unbedingt unvereinbar sein. Es gibt so viele Pilze, die dieses etwas anrüchige Substrat bevorzugen und trotzdem gefallen. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Goldmistpilz *Bolbitius titubans*. Seine anmutige Gestalt und die goldgelbe Farbe machen ihn zu einer attraktiven Erscheinung, die besonders an Wegrändern immer wieder auffällt. Schon nach wenigen Tagen verblasst seine Schönheit, aber das ist nicht nur bei den Pilzen ein Symptom des Alterns.  (Dieter Gewalt) [Mehr lesen >](/pilze/bolbitius-titubans-goldmistpilz)
 
 <div style="clear:  both"></div>
 
