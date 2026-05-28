@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-28.05.2026: [Amanita hemibapha - Het Nok Jung](/artikel/pilze-sammeln-in-thailand)  
+29.05.2026: [Trachyspora intrusa - Frauenmantelrost](/pilze/trachyspora-intrusa-gewöhnlicher-frauenmantelrost)  
+28.05.2026: [Amanita hemibapha - Het Nok Jung](/artikel/pilze-sammeln-in-thailand)\
 27.05.2026: [Volvariella volvacea - Schwarzstreifiger Scheidling](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)\
 26.05.2026: [Xylodon radula - Reibeisen-Rindenpilz](/pilze/xylodon-radula-reibeisen-rindenpilz)\
 25.05.2026: [Hypholoma lateritium - Ziegelroter Schwefelkopf](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf)\
