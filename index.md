@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trechispora_vaga_01_wp.jpg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.05.2026: Mit Rindenpilzen befassen sich nur wenige Pilzfreunde, aber  in frischpilzarmen Trockenperioden und um täglich einen aktuellen [Fundkorbpilz](AA "Glossar-") präsentieren zu können, greife ich gern auf solche Arten zurück. Der Schwefelgelbe Rindenpilz *Trechispora vaga* ist gar nicht mal so unattraktiv und außerdem recht häufig. Vor allem auf der Rinde von Rotbuchenstämmen und -ästen ist er zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/trechispora-vaga-schwefelgelber-rindenpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trachyspora_intrusa_03_bm.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 24.05.2026: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist der Rehbraune Dachpilz Pluteus cervinus. Keine Überraschung zu diesem Zeitpunkt, denn er gehört zu den schon früh im Jahr erscheinenden Blätterpilzen. Dachpilze sind leicht zu erkennen. Sie haben freie, rosa verfärbende Lamellen, die nicht bis an den Stiel heranreichen, jedoch keine häutige Scheide am Stiel. Die meisten Arten wachsen an Holz und sind nicht immer leicht zu unterscheiden. Der Rehbraune ist jedenfalls der mit Abstand häufigste, aber nicht besonders schmackhaft.  (Dieter Gewalt) [Mehr lesen >](/pilze/pluteus-cervinus-rehbrauner-dachpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lentinus_strigosus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.05.2026: Manche Pilze sind einfach nur schön. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Borstige Knäuelimg *Lentinus strigosus*, gehört ganz sicher dazu, besonders in seinem Jugendstadium, wenn der Hut mit den eingerollten Rändern noch lila- bis graurötlich gefärbt ist. Borstig ist er nicht; seine pelzige Behaarung ist eher weich und fühlt sich an wie Samt. Der [Saprobiont](saprobiontisch "Glossar") zählt zu den Erstbesiedlern von totem Laubholz und lässt sich besonders an Buchen finden, die an sonnenexponierten Standorte liegen. (Ulrike Wegner) [Mehr lesen >](/pilze/lentinus-strigosus-borstiger-knäueling)
 
 <div style="clear:  both"></div>
 
