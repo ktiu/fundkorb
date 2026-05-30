@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/baeomyces_rufus_02_bhay.jpg" %}
+{% include abbildung_ende.html %}
+
+31.05.2026: Bei der Braunen Köpfchenflechte *Baeomyces rufus*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"), erscheinen die [Apothecien](Apothecien "Glossar") auf einem grünlich grauen, bei Feuchtkeit hellgrünen [Thallus](Thallus "Glossar"). Die Köpfchen dieser interessanten Flechte müssen nicht unbedingt braun sein. Sie sitzen auf einem weißlichen Stielchen, sind meistens schön rosa gefärbt und erreichen bis zu 2 mm Durchmesser. Am besten betrachtetet man sie mit einer gut vergrößernden Lupe. (Dieter Gewalt) [Mehr lesen >](/pilze/baeomyces-rufus-braune-köpfchenflechte) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trechispora_vaga_01_wp.jpg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 25.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ziegelrote Schwefelkopf *Hypholoma lateritium*. Die Art ist eine von drei Schwefelköpfen, die man zwar leicht verwechseln, bei genauerem Hinschauen und durch eine Geschmacksprobe aber ganz gut unterscheiden kann. Nur eine davon taugt für die Küche. (Dieter Gewalt) Wie man sie auseinanderhalten kann, [erfahren Sie hier >](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pluteus_cervinus_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.05.2026: Unser heutiger [Fundkorbpilz](AA "Glossar-") ist der Rehbraune Dachpilz Pluteus cervinus. Keine Überraschung zu diesem Zeitpunkt, denn er gehört zu den schon früh im Jahr erscheinenden Blätterpilzen. Dachpilze sind leicht zu erkennen. Sie haben freie, rosa verfärbende Lamellen, die nicht bis an den Stiel heranreichen, jedoch keine häutige Scheide am Stiel. Die meisten Arten wachsen an Holz und sind nicht immer leicht zu unterscheiden. Der Rehbraune ist jedenfalls der mit Abstand häufigste, aber nicht besonders schmackhaft.  (Dieter Gewalt) [Mehr lesen >](/pilze/pluteus-cervinus-rehbrauner-dachpilz)
 
 <div style="clear:  both"></div>
 
