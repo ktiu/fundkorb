@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_arvensis_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+01.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schaf-Champignon *Agaricus arvensis*, gefunden auf einer Rasenfläche in einer Dietzenbacher Parkanlage. Er gehört zu den gilbenden und (leicht) nach Anis riechenden Vertretern der Gattung. Sie wachsen auf Wiesen und Weiden, auch in Parkanlagen und Gärten, und können recht groß werden. Ein gutes aber nicht immer deutliches Merkmal befindet sich am Stielring. Vor oder kurz nach dem Abreißen vom Hutrand ist an seiner Unterseite ein flockiges zahnradartiges Muster zu erkennen. Schaf-Champignongs sind gute Speisepilze, aber längst nicht mehr so häufig wie in früheren Zeiten. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-arvensis-schaf-champignon)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/baeomyces_rufus_02_bhay.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 26.05.2026: Um unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu entdecken, empfiehlt es sich, an Kirschbäumen Ausschau zu halten. An stehenden Stämmen und an toten Ästen bis hinauf in die Kronen ist der Reibeisen-Rindenpilz *Xylodon radula* zu finden. Sein Wachstum beginnt mit kleinen weißen Flecken, die bald zu großflächigeren Belägen zusammenwachsen und dann auch die etwas dunkleren Zähnchen ausbilden. (Dieter Gewalt) [Mehr lesen >](/pilze/xylodon-radula-reibeisen-rindenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypholoma_lateritium_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Ziegelrote Schwefelkopf *Hypholoma lateritium*. Die Art ist eine von drei Schwefelköpfen, die man zwar leicht verwechseln, bei genauerem Hinschauen und durch eine Geschmacksprobe aber ganz gut unterscheiden kann. Nur eine davon taugt für die Küche. (Dieter Gewalt) Wie man sie auseinanderhalten kann, [erfahren Sie hier >](/pilze/hypholoma-lateritium-ziegelroter-schwefelkopf) 
 
 <div style="clear:  both"></div>
 
