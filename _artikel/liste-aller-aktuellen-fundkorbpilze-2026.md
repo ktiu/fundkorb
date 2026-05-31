@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-31.05.2026: [Baeomyces rufus - Braune Köpfchenflechte](/pilze/baeomyces-rufus-braune-köpfchenflechte)  
+01.06.2026: [Agaricus arvensis - Schaf-Champignon](/pilze/agaricus-arvensis-schaf-champignon)
+
+31.05.2026: [Baeomyces rufus - Braune Köpfchenflechte](/pilze/baeomyces-rufus-braune-köpfchenflechte)\
 30.05.2026: [Trechispora vaga - Schwefelgelber Rindenpilz](/pilze/trechispora-vaga-schwefelgelber-rindenpilz)\
 29.05.2026: [Trachyspora intrusa - Frauenmantelrost](/pilze/trachyspora-intrusa-gewöhnlicher-frauenmantelrost)\
 28.05.2026: [Amanita hemibapha - Het Nok Jung](/artikel/pilze-sammeln-in-thailand)\
