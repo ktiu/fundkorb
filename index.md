@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_oreades_03_dg.png" %}
+{% include abbildung_ende.html %}
+
+02.06.2026: Wiesen, Parkanlagen und grasige Wegränder sind typische Standorte für unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Nelkenschwindling *Marasmius oreades*. Er wächst gern in Hexenringen, seine Erkennungsmerkmale sind dickliche, etwas entfernt stehende Lamellen und der charakteristische Blausäuregeruch. Kenner schätzen ihn als wohlschmeckenden Speisepilz, den man aber sicher erkannt haben sollte, bevor man ihn für die Küche pflückt. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_arvensis_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 27.05.2026: Wenn es sich bei totaler Trockenheit nicht lohnt, in deutschen Wäldern nach Speisepilzen zu suchen, könnte man es in einem Asia Shop versuchen. Irgendwo in den Regalen wird man sicher Konserven mit der Aufschrift *Reisstrohpilze* entdecken. Dabei handelt es sich um den Schwarzstreifigen Scheidling *Volvariella volvacea*, der in Thailand massenhaft auf Reisstroh gezüchtet wird. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") kommt auch hierzulande vor, ist aber sehr selten. Ich habe ihn hierzulande erst einmal gesehen. Als Alternative zu unseren Zuchtchampignons ist der Reisstrohpilz (thailändisch: *Het fang*) eine erwägenswerte Alternative. (Dieter Gewalt) [Mehr lesen >](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xylodon_radula_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.05.2026: Um unseren aktuellen [Fundkorbpilz](AA "Glossar-") zu entdecken, empfiehlt es sich, an Kirschbäumen Ausschau zu halten. An stehenden Stämmen und an toten Ästen bis hinauf in die Kronen ist der Reibeisen-Rindenpilz *Xylodon radula* zu finden. Sein Wachstum beginnt mit kleinen weißen Flecken, die bald zu großflächigeren Belägen zusammenwachsen und dann auch die etwas dunkleren Zähnchen ausbilden. (Dieter Gewalt) [Mehr lesen >](/pilze/xylodon-radula-reibeisen-rindenpilz)
 
 <div style="clear:  both"></div>
 
