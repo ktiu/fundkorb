@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
+02.06.2026: [Marasmius oreades - Nelkenschwindling](/pilze/marasmius-oreades-nelkenschwindling)  
 01.06.2026: [Agaricus arvensis - Schaf-Champignon](/pilze/agaricus-arvensis-schaf-champignon)
 
 31.05.2026: [Baeomyces rufus - Braune Köpfchenflechte](/pilze/baeomyces-rufus-braune-köpfchenflechte)\
