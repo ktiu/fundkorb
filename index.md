@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cladonia_verticillata_01_wi.jpg" %}
+{% include abbildung_ende.html %}
+
+03.06.2026: Unser Aktueller [Fundkorbpilz](AA "Glossar-"), die Etagen-Becherflechte *Cladonia verticillata*, ist an ihrem unverwechselbaren, etagenförmigen Aufbau zu erkennen. Nach der Fachliteratur soll man sie auf mageren, sandigen, felsigen, besonnten Standorten finden. Den hier beschriebenen Fund hatten wir jedoch auf saurem, magerem Boden im Schatten von Waldkiefern. (Bernd Miggel) [Mehr lesen >](/pilze/cladonia-verticillata-etagen-becherflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_oreades_03_dg.png" %}
 {% include abbildung_ende.html %}
 
