@@ -125,6 +125,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Cladonia portentosa = Ebenästige Rentierflechte](/pilze/cladonia-portentosa-ebenästige-rentierflechte)\
 [Cladonia pyxidata = Gewöhnliche Becherflechte](/pilze/cladonia-pyxidata-gewöhnliche-becherflechte)\
 [Cladonia squamosa var. subsquamosa = Falsche Schuppen-Säulenflechte](/pilze/cladonia-squamosa-var-subsquamosa-falsche-schuppen-säulenflechte)\
+[Cladonia verticillata = Etagen-Becherflechte](/pilze/cladonia-verticillata-etagen-becherflechte)  
 [Flavoparmelia caperata = Eichenflechte](/pilze/flavoparmelia-caperata-eichenflechte)\
 [Hypogymnia farinacea = Mehlige Blasenflechte](/pilze/hypogymnia-farinacea-mehlige-blasenflechte)\
 [Hypogymnia physodes = Gewöhnliche Blasenflechte](/pilze/hypogymnia-physodes-gewöhnliche-blasenflechte)\
@@ -133,7 +134,7 @@ Im Fundkorb sind folgende Flechtenarten mit Porträts vertreten:
 [Melanelixia subaurifera = Gold-Braunflechte](/pilze/melanelixia-subaurifera-gold-braunflechte)\
 [Parmelia sulcata = Sulkatflechte](/pilze/parmelia-sulcata-sulkatflechte)\
 [Parmelina tiliacea = Linden-Schüsselflechte](/pilze/parmelina-tiliacea-linden-schüsselflechte)\
-[Peltigera hymenia = Salat-Schildfechte](/pilze/peltigera-hymenia-salat-schildflechte)  
+[Peltigera hymenia = Salat-Schildfechte](/pilze/peltigera-hymenia-salat-schildflechte)\
 [Phaeophyscia orbicularis = Kreisförmige Schwielenflechte ](/pilze/phaeophyscia-orbicularis-kreisförmige-schwielenflechte)\
 [Physcia adscendens = Helm-Schwielenflechte](/pilze/physcia-adscendens-helm-schwielenflechte)\
 [Platismatia glauca = Blaugraue Tartschenflechte](/pilze/platismatia-glauca-blaugraue-tartschenflechte)\
