@@ -19,6 +19,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 
 **Aktueller Fundkorbpilz:**
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/phallus_impudicus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.06.2026: Unseren aktuellen [Fundkorbpilz](AA "Glossar-") kann man ohne Übertreibung als anrüchig bezeichnen. Schade, dass man Fotos noch nicht mit Geruch aufnehmen und versenden kann, aber KI wird das auch noch schaffen. Nicht umsonst wird er Stinkmorchel genannt, obwohl er mit den Morcheln nicht verwandt ist. Sein wissenschaftlicher Name *Phallus impudicus* verleitet allerdings zu einer völlig andere Assoziaton. Wörtlich und volkstümlich übersetzt: *„Schamloser Pimmel“*. So sehr die voll entwickelte Stinkmorchel auch stinken mag - im Hexeneistadium ist sie richtig lecker. (Dieter Gewalt) [Mehr lesen >](/pilze/phallus-impudicus-stinkmorchel)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cladonia_verticillata_01_wi.jpg" %}
 {% include abbildung_ende.html %}
@@ -64,22 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 29.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Gewöhnliche Frauenmantelrost *Trachyspora intrusa*, den ich vor kurzem während einer Kartierungs-Exkursion im NSG Mistwiesen bei den drei Gemeinden Karlsbad, Marxzell und Straubenhardt in Baden-Württemberg gefunden habe. Die Art wächst auf der Unterseite von Frauenmantel-Blättern (*Alchemilla vulgaris*) in Form rotorangefarbener, radialer Streifen, die [Uredien](Uredien "Glossar") genannt werden. (Bernd Miggel) [Mehr lesen >](/pilze/trachyspora-intrusa-gewöhnlicher-frauenmantelrost)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_thai_01_xx.png" %}
-{% include abbildung_ende.html %}
-
-28.05.2026: Unser heutiger aktueller Aktueller [Fundkorbpilz](AA "Glossar-") (vermutlich *Amanita hemibapha*) ist nicht in einheimischen Wäldern zu finden, wird aber, wie die hier gezeigte Abbildung eindrücklich zeigt, in Thailands Wäldern eifrig gesammelt. Es muss allerdings darauf hingewiesen werden, dass es dort jedes Jahr zu zahlreichen tödlichen Pilzvergiftungen kommt, weitaus häufiger als bei uns in Europa. Den Link zu einem sehenswerten Video und weitere Informationen zum Thema finden Sie in einem kurzgefassten Fundkorb-Beitrag. (Dieter Gewalt) [Mehr lesen >](/artikel/pilze-sammeln-in-thailand)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/volvariella_volvacea_02_wi.png" %}
-{% include abbildung_ende.html %}
-
-27.05.2026: Wenn es sich bei totaler Trockenheit nicht lohnt, in deutschen Wäldern nach Speisepilzen zu suchen, könnte man es in einem Asia Shop versuchen. Irgendwo in den Regalen wird man sicher Konserven mit der Aufschrift *Reisstrohpilze* entdecken. Dabei handelt es sich um den Schwarzstreifigen Scheidling *Volvariella volvacea*, der in Thailand massenhaft auf Reisstroh gezüchtet wird. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") kommt auch hierzulande vor, ist aber sehr selten. Ich habe ihn hierzulande erst einmal gesehen. Als Alternative zu unseren Zuchtchampignons ist der Reisstrohpilz (thailändisch: *Het fang*) eine erwägenswerte Alternative. (Dieter Gewalt) [Mehr lesen >](/pilze/volvariella-volvacea-schwarzstreifiger-scheidling)
 
 <div style="clear:  both"></div>
 
