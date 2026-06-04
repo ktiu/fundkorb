@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-04.06.2026: [Phallus impudicus - Stinkmorchel](/pilze/phallus-impudicus-stinkmorchel)  
+05.06.2026: [Boletus erythropus - Flockenstieliger Hexenröhrling](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)  
+04.06.2026: [Phallus impudicus - Stinkmorchel](/pilze/phallus-impudicus-stinkmorchel)\
 03.06.2026: [Cladonia verticillate - Etagen-Becherflechte](/pilze/cladonia-verticillata-etagen-becherflechte)\
 02.06.2026: [Marasmius oreades - Nelkenschwindling](/pilze/marasmius-oreades-nelkenschwindling)\
 01.06.2026: [Agaricus arvensis - Schaf-Champignon](/pilze/agaricus-arvensis-schaf-champignon)
