@@ -19,7 +19,7 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 
 **Aktueller Fundkorbpilz:**
 
-05.06.2026: Die Regenfälle der letzten Tage haben immerhin einen Flockenstieligen Hexenröhrling (*Boletus erythropus*) hervorgebracht. Gefunden habe ich den aktuellen [Fundkorbpilz](AA "Glossar-") bei einem Waldspaziergang im Dunkelsteinerwald in Niederösterreich an einem Wegrand. Er war in einem bisher viel zu trockenen Jahr mein erster Röhrlingsfund, aber nicht mehr gut genug für die Küche. (Werner Bauer) Mehr lesen >
+05.06.2026: Die Regenfälle der letzten Tage haben immerhin einen Flockenstieligen Hexenröhrling (*Boletus erythropus,* jetzt: *Neoboletus*) hervorgebracht. Gefunden habe ich den aktuellen [Fundkorbpilz](AA "Glossar-") bei einem Waldspaziergang im Dunkelsteinerwald in Niederösterreich an einem Wegrand. Er war in einem bisher viel zu trockenen Jahr mein erster Röhrlingsfund, aber nicht mehr gut genug für die Küche. (Werner Bauer) Mehr lesen >
 
 <div style="clear:  both"></div>
 
