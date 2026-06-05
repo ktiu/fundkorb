@@ -23,7 +23,7 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include bild.html datei="/bilder/amanita_citrina_gg.jpg" %}
 {% include abbildung_ende.html %}
 
-06.06.2026: Es ist in unserer Region immer noch viel zu trocken ist, um ein sonst übliches Pilzvorkommen zu ermöglichen. In der Waldfreizeitanlage bei Jügesheim (Kreis Offenbach) sind um diese Zeit normalerweise Pfifferlinge, Sommersteinpilze, die ersten Täublinge und Milchlinge und viele andere erwähnenswerte Arten zu finden. Jetzt hat *Monika Güttler* trotz intensiver Suche gerade mal einen einzigen *„richtigen“* Pilz gefunden: den Gelben Knollenblätterpilz *Amanita citrina*, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-citrina-gelber-knollenblätterpilz)
+06.06.2026: Es ist in unserer Region immer noch viel zu trocken, um ein sonst übliches Pilzvorkommen zu ermöglichen. In der Waldfreizeitanlage bei Jügesheim (Kreis Offenbach) sind um diese Zeit normalerweise Pfifferlinge, Sommersteinpilze, die ersten Täublinge und Milchlinge und viele andere erwähnenswerte Arten zu finden. Jetzt hat *Monika Güttler* trotz intensiver Suche gerade mal einen einzigen *„richtigen“* Pilz gefunden: den Gelben Knollenblätterpilz *Amanita citrina*, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-citrina-gelber-knollenblätterpilz)
 
 <div style="clear:  both"></div>
 
