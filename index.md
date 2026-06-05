@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_citrina_gg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.06.2026: Es ist in unserer Region immer noch viel zu trocken ist, um ein sonst übliches Pilzvorkommen zu ermöglichen. In der Waldfreizeitanlage bei Jügesheim (Kreis Offenbach) sind um diese Zeit normalerweise Pfifferlinge, Sommersteinpilze, die ersten Täublinge und Milchlinge und viele andere erwähnenswerte Arten zu finden. Jetzt hat *Monika Güttler* trotz intensiver Suche gerade mal einen einzigen *„richtigen“* Pilz gefunden: den Gelben Knollenblätterpilz *Amanita citrina*, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-citrina-gelber-knollenblätterpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_erythropus_wb.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -64,22 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 31.05.2026: Bei der Braunen Köpfchenflechte *Baeomyces rufus*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"), erscheinen die [Apothecien](Apothecien "Glossar") auf einem grünlich grauen, bei Feuchtkeit hellgrünen [Thallus](Thallus "Glossar"). Die Köpfchen dieser interessanten Flechte müssen nicht unbedingt braun sein. Sie sitzen auf einem weißlichen Stielchen, sind meistens schön rosa gefärbt und erreichen bis zu 2 mm Durchmesser. Am besten betrachtetet man sie mit einer gut vergrößernden Lupe. (Dieter Gewalt) [Mehr lesen >](/pilze/baeomyces-rufus-braune-köpfchenflechte) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trechispora_vaga_01_wp.jpg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.05.2026: Mit Rindenpilzen befassen sich nur wenige Pilzfreunde, aber  in frischpilzarmen Trockenperioden und um täglich einen aktuellen [Fundkorbpilz](AA "Glossar-") präsentieren zu können, greife ich gern auf solche Arten zurück. Der Schwefelgelbe Rindenpilz *Trechispora vaga* ist gar nicht mal so unattraktiv und außerdem recht häufig. Vor allem auf der Rinde von Rotbuchenstämmen und -ästen ist er zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/trechispora-vaga-schwefelgelber-rindenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trachyspora_intrusa_03_bm.jpeg" %}
-{% include abbildung_ende.html %}
-
-29.05.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Gewöhnliche Frauenmantelrost *Trachyspora intrusa*, den ich vor kurzem während einer Kartierungs-Exkursion im NSG Mistwiesen bei den drei Gemeinden Karlsbad, Marxzell und Straubenhardt in Baden-Württemberg gefunden habe. Die Art wächst auf der Unterseite von Frauenmantel-Blättern (*Alchemilla vulgaris*) in Form rotorangefarbener, radialer Streifen, die [Uredien](Uredien "Glossar") genannt werden. (Bernd Miggel) [Mehr lesen >](/pilze/trachyspora-intrusa-gewöhnlicher-frauenmantelrost)
 
 <div style="clear:  both"></div>
 
