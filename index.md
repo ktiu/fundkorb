@@ -31,7 +31,7 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include bild.html datei="/bilder/phallus_impudicus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-04.06.2026: Unseren aktuellen [Fundkorbpilz](AA "Glossar-") kann man ohne Übertreibung als anrüchig bezeichnen. Schade, dass man Fotos noch nicht mit Geruch aufnehmen und versenden kann, aber KI wird das auch noch schaffen. Nicht umsonst wird er Stinkmorchel genannt, obwohl er mit den Morcheln nicht verwandt ist. Sein wissenschaftlicher Name *Phallus impudicus* verleitet allerdings zu einer völlig andere Assoziaton. Wörtlich und volkstümlich übersetzt: *„Schamloser Pimmel“*. So sehr die voll entwickelte Stinkmorchel auch stinken mag - im Hexeneistadium ist sie richtig lecker. (Dieter Gewalt) [Mehr lesen >](/pilze/phallus-impudicus-stinkmorchel)
+04.06.2026: Unseren aktuellen [Fundkorbpilz](AA "Glossar-") kann man ohne Übertreibung als anrüchig bezeichnen. Schade, dass man Fotos noch nicht mit Geruch aufnehmen und versenden kann, aber KI wird das auch noch schaffen. Nicht umsonst wird er Stinkmorchel genannt, obwohl er mit den Morcheln nicht verwandt ist. Sein wissenschaftlicher Name *Phallus impudicus* verleitet allerdings zu einer völlig andere Assoziation. Wörtlich und volkstümlich übersetzt: *„Schamloser Pimmel“*. So sehr die voll entwickelte Stinkmorchel auch stinken mag - im Hexeneistadium ist sie richtig lecker. (Dieter Gewalt) [Mehr lesen >](/pilze/phallus-impudicus-stinkmorchel)
 
 <div style="clear:  both"></div>
 
