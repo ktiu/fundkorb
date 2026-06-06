@@ -12,12 +12,20 @@ footer_scripts:
 
 **Neuer Exkursionstermin:**
 
-Sonntag, 31.05.2026, 10:00 Uhr: **Der Wald und seine Pilze Ende Mai**\
+Sonntag, 14.06.2026, 10:00 Uhr: **Der Wald und seine Pilze im Juni**\
 [Hier geht's zu den Anmeldungen >](/termine)
 
 Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilzkurs-für-einsteiger-1.html)
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sawadaea_bicornis_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+07.2026: Mit Mehltau wollen wir möglichst nichts zu tun haben, aktueller [Fundkorbpilz](AA "Glossar-") soll aber dennoch mal einer sein, denn bei den meisten handelt es sich um Pilze. Eine häufige aber kaum beachtete Art ist der Bergahorn-Mehltau *Sawadaea bicornis*, der keineswegs nur in Gebirgen zu finden ist. Wer die drei wichtigen Ahorn-Arten in Mitteleuropa an ihren Blattformen unterscheiden kann, wird keine Mühe haben, auch diesen Mehltau sicher zu identifizieren. (Dieter Gewalt) [Mehr lesen >](/pilze/sawadaea-bicornis-bergahorn-mehltau)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_citrina_gg.jpg" %}
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 01.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schaf-Champignon *Agaricus arvensis*, gefunden auf einer Rasenfläche in einer Dietzenbacher Parkanlage. Er gehört zu den gilbenden und (leicht) nach Anis riechenden Vertretern der Gattung. Sie wachsen auf Wiesen und Weiden, auch in Parkanlagen und Gärten, und können recht groß werden. Ein gutes aber nicht immer deutliches Merkmal befindet sich am Stielring. Vor oder kurz nach dem Abreißen vom Hutrand ist an seiner Unterseite ein flockiges zahnradartiges Muster zu erkennen. Schaf-Champignongs sind gute Speisepilze, aber längst nicht mehr so häufig wie in früheren Zeiten. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-arvensis-schaf-champignon)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/baeomyces_rufus_02_bhay.jpg" %}
-{% include abbildung_ende.html %}
-
-31.05.2026: Bei der Braunen Köpfchenflechte *Baeomyces rufus*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"), erscheinen die [Apothecien](Apothecien "Glossar") auf einem grünlich grauen, bei Feuchtkeit hellgrünen [Thallus](Thallus "Glossar"). Die Köpfchen dieser interessanten Flechte müssen nicht unbedingt braun sein. Sie sitzen auf einem weißlichen Stielchen, sind meistens schön rosa gefärbt und erreichen bis zu 2 mm Durchmesser. Am besten betrachtetet man sie mit einer gut vergrößernden Lupe. (Dieter Gewalt) [Mehr lesen >](/pilze/baeomyces-rufus-braune-köpfchenflechte) 
 
 <div style="clear:  both"></div>
 
