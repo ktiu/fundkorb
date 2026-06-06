@@ -48,7 +48,9 @@ Im Fundkorb vorgestellte Mehltaupilze:
 [Erysiphe alphitoides = Eichen-Mehltau](/pilze/erysiphe-alphitoides-eichen-mehltau)\
 [Golovinomyces orontii = Echter Immergrün-Mehltaupilz](/pilze/golovinomyces-orontii-echter-mehltaupilz)\
 [Microsphaera berberidis = Mahonien-Mehltau](/pilze/microsphaera-berberidis-mahonien-mehltau)\
-[Sawadaea tulasnei (Syn.: Uncinula tulasnei) = Ahorn-Mehltau](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau)
+[Sawadaea tulasnei (Syn.: Uncinula tulasnei) = Ahorn-Mehltau](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau)  
+[Sawadaea bicornis = Bergahorn-Mehltau](/pilze/sawadaea-bicornis-bergahorn-mehltau)
 
+Falsche Mehltaupilze:  
 [Bremia lactucae = Falscher Salat-Mehltau](/pilze/bremia-lactucae-falscher-mehltau)\
 [Pseudoperonospora cubensis = Falscher Gurken-Mehltau](/pilze/pseudoperonospora-cubensis-falscher-gurken-mehltau)
