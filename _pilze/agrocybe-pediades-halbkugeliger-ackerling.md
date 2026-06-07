@@ -22,4 +22,4 @@ Man könnte sie kurz und knapp als halbkugelige, einheitlich ockergelblich gefä
 {% include bild.html datei="/bilder/agrocybe_pediades_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Verwechseln könnte man den Halbkugeligen Ackerling mit dem seltenen, ebenfalls ringlosen Hohlstieligen Ackerling *Agrocybe vervacti* oder dem Halbkugeligen Träuschling *Stropharia semiglobata*, der jedoch einen Ring besitzt.
+Verwechseln könnte man den Halbkugeligen Ackerling mit dem seltenen, ebenfalls ringlosen Hohlstieligen Ackerling *Agrocybe vervacti* oder dem [Halbkugeligen Träuschling *Stropharia semiglobata*](/pilze/stropharia-semiglobata-halbkugeliger-träuschling), der jedoch einen Ring besitzt.
