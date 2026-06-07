@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agrocybe_pediades_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+08.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Halbkugelige Ackerling *Agrocybe pediades*. Man kann ihn fast überall außerhalb von Wäldern finden, auf Wiesen, an Feldrändern, etc. Zur Zeit wächst er in Dietzenbach gleich an mehreren Feldwegrändern. Man achte auf den ringlosen dünnen Stiel und den ranzigen Mehlgeruch und -geschmack. Die Stielbasis ist oft zu einem kleinen Knöllchen erweitert. (Dieter Gewalt) [Mehr lesen >](/pilze/agrocybe-pediades-halbkugeliger-ackerling) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/sawadaea_bicornis_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 02.06.2026: Wiesen, Parkanlagen und grasige Wegränder sind typische Standorte für unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Nelkenschwindling *Marasmius oreades*. Er wächst gern in Hexenringen, seine Erkennungsmerkmale sind dickliche, etwas entfernt stehende Lamellen und der charakteristische Blausäuregeruch. Kenner schätzen ihn als wohlschmeckenden Speisepilz, den man aber sicher erkannt haben sollte, bevor man ihn für die Küche pflückt. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_arvensis_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-01.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Schaf-Champignon *Agaricus arvensis*, gefunden auf einer Rasenfläche in einer Dietzenbacher Parkanlage. Er gehört zu den gilbenden und (leicht) nach Anis riechenden Vertretern der Gattung. Sie wachsen auf Wiesen und Weiden, auch in Parkanlagen und Gärten, und können recht groß werden. Ein gutes aber nicht immer deutliches Merkmal befindet sich am Stielring. Vor oder kurz nach dem Abreißen vom Hutrand ist an seiner Unterseite ein flockiges zahnradartiges Muster zu erkennen. Schaf-Champignongs sind gute Speisepilze, aber längst nicht mehr so häufig wie in früheren Zeiten. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-arvensis-schaf-champignon)
 
 <div style="clear:  both"></div>
 
