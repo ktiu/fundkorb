@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-07.06.2026: [Sawadaea bicornis - Bergahorn-Mehltau](/pilze/sawadaea-bicornis-bergahorn-mehltau)  
+08.06.2026: [Agrocybe pediades - Halbkugeliger Ackerling](/pilze/agrocybe-pediades-halbkugeliger-ackerling)  
+07.06.2026: [Sawadaea bicornis - Bergahorn-Mehltau](/pilze/sawadaea-bicornis-bergahorn-mehltau)\
 06.06.2026: [Amanita citrina - Gelber Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz)\
 05.06.2026: [Boletus erythropus - Flockenstieliger Hexenröhrling](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)\
 04.06.2026: [Phallus impudicus - Stinkmorchel](/pilze/phallus-impudicus-stinkmorchel)\
