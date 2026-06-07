@@ -10,7 +10,7 @@ profil:
   aktualisiert: 2026-06-07
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/psathyrella_marcescibilis_01_md.jpg
   legende: (alle Fotos von Matthias Dondl)
 literatur:
@@ -20,6 +20,10 @@ literatur:
   - text: "Ewald Gerhardt: Der große BLV Pilzführer für unterwegs, Seite 364"
   - text: "Rudolf Winkler / Gaby Keller: Pilze Mitteleuropas, Seite 48 (10.1.09)"
 ---
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/psathyrella_marcescibilis_01_md.jpg" %}
+{% include abbildung_ende.html legende="(alle Fotos von Matthias Dondl)" %}
+
 Der Grauweiße Faserling *Psathyrella marcescibilis* ist eine recht variable Art, die nicht immer leicht zu bestimmen ist. Sie kommt von Mai bis November in- und außerhalb von Wäldern vor und könnte u. a. mit dem häufigeren [Behangenen Faserling *Psathyrella candolleana*](/pilze/psathyrella-candolleana-behangener-faserling) verwechselt werden, der von Kennern gern gesammelt und gegessen wird . Dieser wächst zumeist in Verbindung zu Holz (auch im Boden vergrabenes oder Rindenmulch), während *Psathyrella marcescibilis* auf Humuserde wächst.
 
 {% include abbildung_start.html stil="mittel" %}
