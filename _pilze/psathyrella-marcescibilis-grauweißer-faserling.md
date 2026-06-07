@@ -36,6 +36,8 @@ Die 1 bis 2,5 cm breiten Hüte sind jung halbkugelig bis glockig, später konisc
 Mikromerkmale:\
 Basdidien keulig, viersporig, 17 – 30 x 12 – 14 µm; Sporen glatt, elliptisch, 10 – 15 x 6 - 8 µm.  Zu beachten ist der für *Psathyrella* untypische Aufbau der Hutdeckschicht (obere Lage aus sehr dünnen Hyphen ohne Schnallen) und das Fehlen von Pleurozystiden, was möglicherweise der Grund dafür ist, dass einige Autoren den Pilz jetzt in die Gattung *Coprinopsis* stellen. Schnallen an Basidien und Cheilozystiden vereinzelt vorhanden.
 
+Der Grauweiße Faserling ist kein Speisepilz, wird aber gelegentlich mit dem essbaren Behangenen Faserling verwechselt und ohne Schaden oder Geschmacksbeeinträchtigung verzehrt. Ein Giftstoff ist bisher nicht nachgewiesen.
+
 - - -
 
 ##### Anhang von Matthias Dondl:
