@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/fuligo_septica_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Gelbe Lohblüte *Fuligo septica*. Die leuchtend gelben Kissen, die man nicht selten auf morschem Holz oder modernden Blättern sieht, machen sie unverwechselbar. Man sieht diesen Kissen schon ihre Schleimigkeit an und hütet sich, sie anzufassen. Nicht umsonst werden die Vertreter dieser bemerkenswerten Organismen [„Schleimpilze“](/verwandt/schleimpilze-myxomyzeten) genannt. An eine Verwendung in der Küche denkt da keiner, und doch wird er zum Beispiel in Mexiko gegessen. Und ist unter dem Namen *„Caca di Luna“* sogar marktfähig! (Dieter Gewalt) [Mehr lesen >](/pilze/fuligo-septica-gelbe-lohblüte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agrocybe_pediades_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -64,16 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 03.06.2026: Unser Aktueller [Fundkorbpilz](AA "Glossar-"), die Etagen-Becherflechte *Cladonia verticillata*, ist an ihrem unverwechselbaren, etagenförmigen Aufbau zu erkennen. Nach der Fachliteratur soll man sie auf mageren, sandigen, felsigen, besonnten Standorten finden. Den hier beschriebenen Fund hatten wir jedoch auf saurem, magerem Boden im Schatten von Waldkiefern. (Bernd Miggel) [Mehr lesen >](/pilze/cladonia-verticillata-etagen-becherflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_oreades_03_dg.png" %}
-{% include abbildung_ende.html %}
-
-02.06.2026: Wiesen, Parkanlagen und grasige Wegränder sind typische Standorte für unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"), den Nelkenschwindling *Marasmius oreades*. Er wächst gern in Hexenringen, seine Erkennungsmerkmale sind dickliche, etwas entfernt stehende Lamellen und der charakteristische Blausäuregeruch. Kenner schätzen ihn als wohlschmeckenden Speisepilz, den man aber sicher erkannt haben sollte, bevor man ihn für die Küche pflückt. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
-
-<div style="clear:  both"></div>
 
 - - -
 
