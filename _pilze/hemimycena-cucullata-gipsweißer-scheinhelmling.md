@@ -29,4 +29,6 @@ Die Gattung *Hemimycena* (Scheinhelmlinge) fällt durch nahezu rein weiße Fruch
 {% include bild.html datei="/bilder/hemimycena_cucullata_03_mb.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="2 Fotos von Matthias Dondl, rechts: Sporen" %}
 
-Vor allem die kleineren Arten sind makroskopisch nur schwer zu unterscheiden und sollten daher mikroskopisch untersucht werden. Die wichtigste Mikromerkmale von *Hemimycena cucullata* sind: Basidien viersporig, keulig, 24 – 34 x 4 – 7 µm; Sporen glatt, spindelig, mit Tropfen, 6 – 13 x 2,5 – 5 µm; Cheilozystiden spindelig, 20 – 35 x 5 – 1 µm; Schnallen vorhanden.
+Vor allem die kleineren Arten sind makroskopisch nur schwer zu unterscheiden und sollten daher mikroskopisch untersucht werden. Die wichtigsten Mikromerkmale von *Hemimycena cucullata* sind: Basidien viersporig, keulig, 24 – 34 x 4 – 7 µm; Sporen glatt, spindelig, mit Tropfen, 6 – 13 x 2,5 – 5 µm; Cheilozystiden spindelig, 20 – 35 x 5 – 1 µm; Schnallen vorhanden.
+
+In Deutschland sind ca. 16 *Hemimycena*-Arten nachgewiesen. Die meisten sind selten oder sehr selten. Etwas häufiger sind neben *Hemimycena gracilis* noch [*Hemimycena cucullata* (Gipsweißer Scheinhelmling)](/pilze/hemimycena-cucullata-gipsweißer-scheinhelmling) und *Hemimycena lactea* (Milchweißer Scheinhelmling). Eine weitere im Funkorb vertretene Art ist [*Hemimycena ignobilis* (Feinhaariger Scheinhelmling)](/pilze/hemimycena-ignobilis-unbekannter-scheinhelmling).
