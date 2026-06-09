@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-09.06.2026: [Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)  
+10.06.2026: [Russula ochroleuca - Ockertäubling](/pilze/russula-ochroleuca-ockertäubling)  
+09.06.2026: [Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
 08.06.2026: [Agrocybe pediades - Halbkugeliger Ackerling](/pilze/agrocybe-pediades-halbkugeliger-ackerling)\
 07.06.2026: [Sawadaea bicornis - Bergahorn-Mehltau](/pilze/sawadaea-bicornis-bergahorn-mehltau)\
 06.06.2026: [Amanita citrina - Gelber Knollenblätterpilz](/pilze/amanita-citrina-gelber-knollenblätterpilz)\
