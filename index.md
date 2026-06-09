@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_ochroleuca_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.06.2026: Der Ockertäubling *Russula ochroleuca* dürfte der häufigste Täubling in Mitteleuropa sein, auch wenn er in den letzten Jahren zumindest in der Rhein-Main-Ebene ziemlich rar gewesen ist. Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt sowohl in Laub- wie in Nadelwäldern vor und bevorzugt saure Böden. Seine gelb-ockerlichen bis zitronengelben Hutfarben sind recht variabel, sodass er leicht mit anderen ähnlich gefärbten Täublingen verwechselt werden kann. Er ist essbar, für Feinschmecker aber nicht unbedingt zu empfehlen. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-ochroleuca-ockertäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/fuligo_septica_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -66,12 +74,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 04.06.2026: Unseren aktuellen [Fundkorbpilz](AA "Glossar-") kann man ohne Übertreibung als anrüchig bezeichnen. Schade, dass man Fotos noch nicht mit Geruch aufnehmen und versenden kann, aber KI wird das auch noch schaffen. Nicht umsonst wird er Stinkmorchel genannt, obwohl er mit den Morcheln nicht verwandt ist. Sein wissenschaftlicher Name *Phallus impudicus* verleitet allerdings zu einer völlig andere Assoziation. Wörtlich und volkstümlich übersetzt: *„Schamloser Pimmel“*. So sehr die voll entwickelte Stinkmorchel auch stinken mag - im Hexeneistadium ist sie richtig lecker. (Dieter Gewalt) [Mehr lesen >](/pilze/phallus-impudicus-stinkmorchel)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cladonia_verticillata_01_wi.jpg" %}
-{% include abbildung_ende.html %}
-
-03.06.2026: Unser Aktueller [Fundkorbpilz](AA "Glossar-"), die Etagen-Becherflechte *Cladonia verticillata*, ist an ihrem unverwechselbaren, etagenförmigen Aufbau zu erkennen. Nach der Fachliteratur soll man sie auf mageren, sandigen, felsigen, besonnten Standorten finden. Den hier beschriebenen Fund hatten wir jedoch auf saurem, magerem Boden im Schatten von Waldkiefern. (Bernd Miggel) [Mehr lesen >](/pilze/cladonia-verticillata-etagen-becherflechte)
 
 - - -
 
