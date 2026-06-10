@@ -10,7 +10,7 @@ profil:
   aktualisiert: 2026-06-10
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/lepiota_clypeolaria_01_cw.jpg
 literatur:
   - {}
