@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_rubescens_08_gg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.06.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Perlpilz Amanita rubescens, wird auch Rötender Wulstling genannt. Damit ist schon ein Hinweis auf eines seiner wichtigsten Merkmale gegeben, das ihn vom giftigen [Pantherpilz Amanita pantherina](/pilze/amanita-pantherina-pantherpilz), aber auch vom essbaren aber nicht besonders schmackhaften [Grauen Wulstling *Amanita excelsa*](/pilze/amanita-excelsa-grauer-wulstling) unterscheidet: seine rötliche Färbung. Junge Perlpilze eignen sich sehr gut für die Küche, zumindest so lange sie noch madenfrei sind. (Ulrike Wegner) [Mehr lesen >](/pilze/amanita-rubescens-perlpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_ochroleuca_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 05.06.2026: Die Regenfälle der letzten Tage haben immerhin einen Flockenstieligen Hexenröhrling (*Boletus erythropus,* jetzt: *Neoboletus*) hervorgebracht. Gefunden habe ich den aktuellen [Fundkorbpilz](AA "Glossar-") bei einem Waldspaziergang im Dunkelsteinerwald in Niederösterreich an einem Wegrand. Er war in einem bisher viel zu trockenen Jahr mein erster Röhrlingsfund, aber nicht mehr gut genug für die Küche. (Werner Bauer) [Mehr lesen >](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phallus_impudicus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.06.2026: Unseren aktuellen [Fundkorbpilz](AA "Glossar-") kann man ohne Übertreibung als anrüchig bezeichnen. Schade, dass man Fotos noch nicht mit Geruch aufnehmen und versenden kann, aber KI wird das auch noch schaffen. Nicht umsonst wird er Stinkmorchel genannt, obwohl er mit den Morcheln nicht verwandt ist. Sein wissenschaftlicher Name *Phallus impudicus* verleitet allerdings zu einer völlig andere Assoziation. Wörtlich und volkstümlich übersetzt: *„Schamloser Pimmel“*. So sehr die voll entwickelte Stinkmorchel auch stinken mag - im Hexeneistadium ist sie richtig lecker. (Dieter Gewalt) [Mehr lesen >](/pilze/phallus-impudicus-stinkmorchel)
 
 <div style="clear:  both"></div>
 
