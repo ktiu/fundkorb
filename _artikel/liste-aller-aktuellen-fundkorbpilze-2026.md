@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-11.06.2026: [Amanita rubescens - Perlpilz](/pilze/amanita-rubescens-perlpilz)  
+12.06.2026: [Xerocomus chrysenteron - Gemeiner Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)  
+11.06.2026: [Amanita rubescens - Perlpilz](/pilze/amanita-rubescens-perlpilz)\
 10.06.2026: [Russula ochroleuca - Ockertäubling](/pilze/russula-ochroleuca-ockertäubling)\
 09.06.2026: [Fuligo septica - Gelbe Lohblüte](/pilze/fuligo-septica-gelbe-lohblüte)\
 08.06.2026: [Agrocybe pediades - Halbkugeliger Ackerling](/pilze/agrocybe-pediades-halbkugeliger-ackerling)\
