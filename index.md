@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_chrysenteron_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.06.2026: In unserer Dietzenbacher Parkanlage ist der erste frisch geschlüpfte Rotfußröhrling (*Xerocomus chrysenteron*) des Jahres erschienen und darum auch aktueller [Fundkorbpilz](AA "Glossar-"). Er ist der wohl häufigste aller Röhrlinge und wird viel gesammelt und gegessen. In vielen Pilzkörben ist er überwiegender Bestandteil eines Konglomerats, das von den Findern pauschal für Maronen gehalten wird, aber aus mehreren unterschiedlichen Pilzarten besteht.  (Dieter Gewalt) [Mehr lesen >](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_rubescens_08_gg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 06.06.2026: Es ist in unserer Region immer noch viel zu trocken, um ein sonst übliches Pilzvorkommen zu ermöglichen. In der Waldfreizeitanlage bei Jügesheim (Kreis Offenbach) sind um diese Zeit normalerweise Pfifferlinge, Sommersteinpilze, die ersten Täublinge und Milchlinge und viele andere erwähnenswerte Arten zu finden. Jetzt hat *Monika Güttler* trotz intensiver Suche gerade mal einen einzigen *„richtigen“* Pilz gefunden: den Gelben Knollenblätterpilz *Amanita citrina*, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-citrina-gelber-knollenblätterpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_erythropus_wb.jpeg" %}
-{% include abbildung_ende.html %}
-
-05.06.2026: Die Regenfälle der letzten Tage haben immerhin einen Flockenstieligen Hexenröhrling (*Boletus erythropus,* jetzt: *Neoboletus*) hervorgebracht. Gefunden habe ich den aktuellen [Fundkorbpilz](AA "Glossar-") bei einem Waldspaziergang im Dunkelsteinerwald in Niederösterreich an einem Wegrand. Er war in einem bisher viel zu trockenen Jahr mein erster Röhrlingsfund, aber nicht mehr gut genug für die Küche. (Werner Bauer) [Mehr lesen >](/pilze/boletus-erythropus-flockenstieliger-hexenröhrling)
 
 <div style="clear:  both"></div>
 
