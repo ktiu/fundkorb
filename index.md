@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clathrus_archeri_07_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.06.2026: Inzwischen hat sich auch der Tintenfischpilz *Clathrus archeri* blicken lassen. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist uns um das Jahr 1914 aus Neuseeland zugewandert und längst auch in unseren Wäldern vor allem entlang der Wege allgegenwärtig. Auffallend ist er insbesondere im Hexeneistadium. Stinken tut er erst, wenn die schwarzfleckigen roten Arme aus dem Ei geschlüpft sind, weshalb er von manchen auch „Stinkfisch“ genannt wird. Dann lockt der Gestank Pilzfliegen an, die für die Verbreitung der Sporen sorgen. (Dieter Gewalt) [Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/sarcodontia_setosa_01_wi.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,22 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 08.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Halbkugelige Ackerling *Agrocybe pediades*. Man kann ihn fast überall außerhalb von Wäldern finden, auf Wiesen, an Feldrändern, etc. Zur Zeit wächst er in Dietzenbach gleich an mehreren Feldwegrändern. Man achte auf den ringlosen dünnen Stiel und den ranzigen Mehlgeruch und -geschmack. Die Stielbasis ist oft zu einem kleinen Knöllchen erweitert. (Dieter Gewalt) [Mehr lesen >](/pilze/agrocybe-pediades-halbkugeliger-ackerling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/sawadaea_bicornis_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-07.2026: Mit Mehltau wollen wir möglichst nichts zu tun haben, aktueller [Fundkorbpilz](AA "Glossar-") soll aber dennoch mal einer sein, denn bei den meisten handelt es sich um Pilze. Eine häufige aber kaum beachtete Art ist der Bergahorn-Mehltau *Sawadaea bicornis*, der keineswegs nur in Gebirgen zu finden ist. Wer die drei wichtigen Ahorn-Arten in Mitteleuropa an ihren Blattformen unterscheiden kann, wird keine Mühe haben, auch diesen Mehltau sicher zu identifizieren. (Dieter Gewalt) [Mehr lesen >](/pilze/sawadaea-bicornis-bergahorn-mehltau)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_citrina_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.06.2026: Es ist in unserer Region immer noch viel zu trocken, um ein sonst übliches Pilzvorkommen zu ermöglichen. In der Waldfreizeitanlage bei Jügesheim (Kreis Offenbach) sind um diese Zeit normalerweise Pfifferlinge, Sommersteinpilze, die ersten Täublinge und Milchlinge und viele andere erwähnenswerte Arten zu finden. Jetzt hat *Monika Güttler* trotz intensiver Suche gerade mal einen einzigen *„richtigen“* Pilz gefunden: den Gelben Knollenblätterpilz *Amanita citrina*, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-citrina-gelber-knollenblätterpilz)
 
 <div style="clear:  both"></div>
 
