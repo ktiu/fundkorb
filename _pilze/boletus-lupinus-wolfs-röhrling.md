@@ -49,5 +49,5 @@ Röhren 5 – 15 mm lang, anfangs gelb bis grünlich-gelb, bei Luftkontakt blaue
 Stiel 5 – 12 × 25 – 50 cm; teils kurz und gedrungen, teils weniger dick und eher zylindrisch oder zur Basis hin verjüngt, gelblich oder cremegelb, besonders im oberen Teil, der Rest ockerfarben, glatt, mit kleinen rötlichen Flecken oder mit winzigen bräunlichen bis rotbraunen Pünktchen gesprenkelt; bei Druck blauend.\
 Fleisch dick, fest, im Hut mit zunehmendem Alter etwas weicher werdend, beim Anschnitt leuchtend gelb, stellenweise blauend, besonders im Hut, nahe den Röhren und im oberen Stielbereich, während der Rest in schmutzig ockergelben Tönen verbleibt. Amyloid-Reaktion negativ. Geschmack unauffällig, Geruch anfangs unauffällig, später leicht säuerlich oder unangenehm.
 
-Mikromerkmale:\
+**Mikromerkmale:**\
 Sporen ellipsoid, glatt, dickwandig, mit Tröpfchen 12 – 14 × 5 – 6 µm, Q = 2,0 – 2,5, mittleres Volumen = 190 µm³. Sporenpulver olivbraun. Basidien 25 – 35 × 8 – 11 µm, keulig, 4-sporig, Septen ohne Schnallen. Hymenialzystiden 30 – 54 × 8 – 15 µm, schmal, amphorenförmig bis spindelig oder flaschenförmig, mit warzenartiger Spitze. Kaulozystiden 25 – 60 × 8 – 16 µm, amphoren-, flaschenförmig oder spindelig, mit aufgesetztem Spitzchen. Huthaut ein Trichoderm aus verflochtenen, lang zylindrischen, septierten Hyphen ohne Schnallen; Endzellen aufrecht stehend.
