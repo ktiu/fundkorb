@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_ionochlora_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.06.2026: Auf den ersten Blick könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") für einen [Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling) halten. Da seine Lamellen aber beim Darüberstreichen blättern, ist es „nur“ der Papageitäubling *Russula ionochlora*. Auch er ist ein guter Speisepilz, den ich wegen seines etwas festeren Fleisches mehr schätze als die gewöhnlichen [Rotfußröhrlinge](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling). Innerhalb der Täublinge bestehen Verwechslungsmöglichkeiten mit ebenfalls essbaren Arten, z. B. mit [Reiftäublingen](/pilze/russula-parazurea-blaugrüner-reiftäubling). (Dieter Gewalt) [Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clathrus_archeri_07_dg.jpg" %}
 {% include abbildung_ende.html %}
 
