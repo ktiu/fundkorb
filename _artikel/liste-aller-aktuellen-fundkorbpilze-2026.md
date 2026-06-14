@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-14.06.2026: [Clathrus archeri - Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)  
+15.06.2026: [Russula ionochlora - Papageitäubling](/pilze/russula-ionochlora-papagei-täubling)  
+14.06.2026: [Clathrus archeri - Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)\
 13.06.2026: [Sarcodontia setosa - Krustenförmiger Stachelbart](/pilze/sarcodontia-setosa-krustenförmiger-stachelbart)\
 12.06.2026: [Xerocomus chrysenteron - Gemeiner Rotfußröhrling](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)\
 11.06.2026: [Amanita rubescens - Perlpilz](/pilze/amanita-rubescens-perlpilz)\
