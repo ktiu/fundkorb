@@ -17,7 +17,8 @@ hauptbild:
 literatur:
   - text: "Michael, Hennig, Kreisel: Handbuch für Pilzfreunde (Jena 1981), Nr. 6"
   - text: "Ewald Gerhardt: Der große BLV Pilzführer für unterwegs, Seite 64"
-  - text: "Rose Marie Dähncke: 700 Pilze in Farbfotos, Seite 300"
+  - text: "Rose Marie Dähncke: 700 Pilze in Farbfotos, Seite 300 (1200 Pilze = Seite
+      490)"
   - text: "Rudolf Winkler / Gaby Keller: Pilze Mitteleuropas, Seite 445, (9.1.19)"
 ---
 Der Gegürtelte Champignon scheint eine seltene Art zu sein, die vor allem in den neuen Bundesländern im Nordosten Deutschlands häufiger ist, zum Beispiel auch in und rund um Berlin. Das mag erklären, dass die Art weder bei *Breitenbach & Kränzlin* (Pilze der Schweiz) noch bei *German. J. Krieglsteiner* (Großpilze Baden-Württembergs) erwähnt wird, wohl aber von *Ewald Gerhardt* und *Michael, Hennig, Kreisel* beschrieben wurden.
