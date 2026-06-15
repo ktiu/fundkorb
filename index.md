@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cantharellus_cibarius_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist - wie es sich für die Jahreszeit gehört - der Pfifferling *Cantharellus cibarius*. Unseren Fund kann man jedoch bestenfalls als sehr kleine Babies bezeichnen, die auch schon am Vertrocknen waren. Für die Rhein-Main-Ebene sagen die Prognosen zwei Wochen absolute Trockenheit voraus. Unsere Wälder werden es zu spüren bekommen. Die Pilze auch. (Dieter Gewalt) [Mehr lesen >](/pilze/cantharellus-cibarius-pfifferling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_ionochlora_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -72,14 +80,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 09.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Gelbe Lohblüte *Fuligo septica*. Die leuchtend gelben Kissen, die man nicht selten auf morschem Holz oder modernden Blättern sieht, machen sie unverwechselbar. Man sieht diesen Kissen schon ihre Schleimigkeit an und hütet sich, sie anzufassen. Nicht umsonst werden die Vertreter dieser bemerkenswerten Organismen [„Schleimpilze“](/verwandt/schleimpilze-myxomyzeten) genannt. An eine Verwendung in der Küche denkt da keiner, und doch wird er zum Beispiel in Mexiko gegessen. Und ist unter dem Namen *„Caca di Luna“* sogar marktfähig! (Dieter Gewalt) [Mehr lesen >](/pilze/fuligo-septica-gelbe-lohblüte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agrocybe_pediades_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-08.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Halbkugelige Ackerling *Agrocybe pediades*. Man kann ihn fast überall außerhalb von Wäldern finden, auf Wiesen, an Feldrändern, etc. Zur Zeit wächst er in Dietzenbach gleich an mehreren Feldwegrändern. Man achte auf den ringlosen dünnen Stiel und den ranzigen Mehlgeruch und -geschmack. Die Stielbasis ist oft zu einem kleinen Knöllchen erweitert. (Dieter Gewalt) [Mehr lesen >](/pilze/agrocybe-pediades-halbkugeliger-ackerling) 
 
 <div style="clear:  both"></div>
 
