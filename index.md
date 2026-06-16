@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/psathyrella_marcescibilis_03_md.jpg" %}
+{% include abbildung_ende.html %}
+
+17.06.2026: Mit Faserlingen, auch Mürblinge oder Zärtlinge genannt, befassen sich nur wenige Pilzsammler und widmen daher auch unserem aktuellen [Fundkorbpilz](AA "Glossar-") wenig Beachtung. Der Grauweiße Faserling *Psathyrella marcescibilis* ist sogar ein recht hübsches und auffallend langstieliges Kerlchen. Er gilt nicht als Speisepilz, wird aber gelegentlich mit dem essbaren [Behangenen Faserling Psathyrella candolleana](/pilze/psathyrella-candolleana-behangener-faserling) verwechselt und ohne Schaden oder Geschmacksbeeinträchtigung verzehrt. Ein Giftstoff ist bisher nicht nachgewiesen. (Dieter Gewalt) [Mehr lesen >](/pilze/psathyrella-marcescibilis-grauweißer-faserling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cantharellus_cibarius_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,22 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 11.06.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Perlpilz Amanita rubescens, wird auch Rötender Wulstling genannt. Damit ist schon ein Hinweis auf eines seiner wichtigsten Merkmale gegeben, das ihn vom giftigen [Pantherpilz Amanita pantherina](/pilze/amanita-pantherina-pantherpilz), aber auch vom essbaren aber nicht besonders schmackhaften [Grauen Wulstling *Amanita excelsa*](/pilze/amanita-excelsa-grauer-wulstling) unterscheidet: seine rötliche Färbung. Junge Perlpilze eignen sich sehr gut für die Küche, zumindest so lange sie noch madenfrei sind. (Ulrike Wegner) [Mehr lesen >](/pilze/amanita-rubescens-perlpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_ochroleuca_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.06.2026: Der Ockertäubling *Russula ochroleuca* dürfte der häufigste Täubling in Mitteleuropa sein, auch wenn er in den letzten Jahren zumindest in der Rhein-Main-Ebene ziemlich rar gewesen ist. Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt sowohl in Laub- wie in Nadelwäldern vor und bevorzugt saure Böden. Seine gelb-ockerlichen bis zitronengelben Hutfarben sind recht variabel, sodass er leicht mit anderen ähnlich gefärbten Täublingen verwechselt werden kann. Er ist essbar, für Feinschmecker aber nicht unbedingt zu empfehlen. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-ochroleuca-ockertäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/fuligo_septica_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Gelbe Lohblüte *Fuligo septica*. Die leuchtend gelben Kissen, die man nicht selten auf morschem Holz oder modernden Blättern sieht, machen sie unverwechselbar. Man sieht diesen Kissen schon ihre Schleimigkeit an und hütet sich, sie anzufassen. Nicht umsonst werden die Vertreter dieser bemerkenswerten Organismen [„Schleimpilze“](/verwandt/schleimpilze-myxomyzeten) genannt. An eine Verwendung in der Küche denkt da keiner, und doch wird er zum Beispiel in Mexiko gegessen. Und ist unter dem Namen *„Caca di Luna“* sogar marktfähig! (Dieter Gewalt) [Mehr lesen >](/pilze/fuligo-septica-gelbe-lohblüte)
 
 <div style="clear:  both"></div>
 
