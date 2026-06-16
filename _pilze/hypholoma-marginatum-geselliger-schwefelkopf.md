@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Geselliger Schwefelkopf
   referenz: J. Schröt. 1889
   erlaeuterung: marginatum = gerandet
-  familie: Strophariaceae
+  familie: Hymenogastraceae
 profil:
   aktualisiert: 2022-09-27
   autor_in: Dieter Gewalt
