@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-17.06.2026: [Psathyrella marcescibilis - Grauweißer Faserling](/pilze/psathyrella-marcescibilis-grauweißer-faserling)  
+18.06.2026: [Phaeolus schweinitzii - Kiefernbraunporling](/pilze/phaeolus-spadiceus-kiefernbraunporling)  
+17.06.2026: [Psathyrella marcescibilis - Grauweißer Faserling](/pilze/psathyrella-marcescibilis-grauweißer-faserling)\
 16.06.2026: [Cantharellus cibarius - Pfifferling](/pilze/cantharellus-cibarius-pfifferling)\
 15.06.2026: [Russula ionochlora - Papageitäubling](/pilze/russula-ionochlora-papagei-täubling)\
 14.06.2026: [Clathrus archeri - Tintenfischpilz](/pilze/clathrus-archeri-tintenfischpilz)\
