@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phaeolus_spadiceus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kiefernbraunporling *Phaeolus schweinitzii*. *Hermann Jahn* hat ihn einmal so charakterisiert: „Forstpathologen ist er als übler Stammfäuleerreger bekannt, der vor allem die Kiefer angreift, aber auch Fichte, Douglasie, Tanne und Lärche...“  Es handelt sich um eine einjährige unregelmäßig kreiselförmige Art von dunkelbrauner Farbe, deren Zuwachszonen lebhaft gelb oder grüngelblich gefärbt sind. In der Rhein-Main-Ebene ist sie in fast jedem Kiefernbestand zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/phaeolus-spadiceus-kiefernbraunporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/psathyrella_marcescibilis_03_md.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 12.06.2026: In unserer Dietzenbacher Parkanlage ist der erste frisch geschlüpfte Rotfußröhrling (*Xerocomus chrysenteron*) des Jahres erschienen und darum auch aktueller [Fundkorbpilz](AA "Glossar-"). Er ist der wohl häufigste aller Röhrlinge und wird viel gesammelt und gegessen. In vielen Pilzkörben ist er überwiegender Bestandteil eines Konglomerats, das von den Findern pauschal für Maronen gehalten wird, aber aus mehreren unterschiedlichen Pilzarten besteht.  (Dieter Gewalt) [Mehr lesen >](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_rubescens_08_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.06.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Perlpilz Amanita rubescens, wird auch Rötender Wulstling genannt. Damit ist schon ein Hinweis auf eines seiner wichtigsten Merkmale gegeben, das ihn vom giftigen [Pantherpilz Amanita pantherina](/pilze/amanita-pantherina-pantherpilz), aber auch vom essbaren aber nicht besonders schmackhaften [Grauen Wulstling *Amanita excelsa*](/pilze/amanita-excelsa-grauer-wulstling) unterscheidet: seine rötliche Färbung. Junge Perlpilze eignen sich sehr gut für die Küche, zumindest so lange sie noch madenfrei sind. (Ulrike Wegner) [Mehr lesen >](/pilze/amanita-rubescens-perlpilz)
 
 <div style="clear:  both"></div>
 
