@@ -12,8 +12,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/agaricus_subperonatus_01_cw.jpg
-  legende: 09.06.2021, Weilbacher Kiesgruben bei Flörsheim am Main, Hessen (2
-    Fotos von Christian Weinkötz)
+  legende: "09.06.2021, Weilbacher Kiesgruben bei Flörsheim am Main,
+    Hessen  (Foto: Christian Weinkötz)"
 literatur:
   - text: "Michael, Hennig, Kreisel: Handbuch für Pilzfreunde (Jena 1981), Nr. 6"
   - text: "Ewald Gerhardt: Der große BLV Pilzführer für unterwegs, Seite 64"
