@@ -20,6 +20,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.06.2026: Auf einen recht großen folgt nun ein zierlich kleiner aktueller [Fundkorbpilz](AA "Glossar-"), der Orangerote Heftelnabeling *Rickenella fibula*. Manche meinen, es sei eine Art, in die man sich verlieben könnte. Dazu tragen neben der attraktiven Farbe auch die in einem eleganten Bogen am Stiel herablaufenden Lamellen bei. Wenn man die Augen offen hält, kann man ihn vom Frühsommer bis in den Spätherbst zwischen Moosen finden, egal, ob sich diese in Rasenflächen oder auf Totholz befinden. (Dieter Gewalt) [Mehr lesen >](/pilze/rickenella-fibula)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phaeolus_spadiceus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -64,14 +72,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 13.06.2026: Ausnahmsweise ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") eine Art, die <ins>nicht</ins> gefunden sondern neu als Pilzporträt im Fundkorb aufgenommen worden ist. Der Anlass: *Sarcodontia setosa*, der Krustenförmige Stachelbart, ist eine leicht kenntliche, leider extrem selten gewordene Art mit abwärts gerichteten Stacheln, die ausschließlich an alten, absterbenden Apfelbäumen vorkommt. Bitte an alle Pilzfreunde: wenn ihr diesen ganzjährigen Pilz irgendwo beobachtet – bitte meldet mir den Fund mit möglichst genauer Fundortangabe. (Dieter Gewalt) [Mehr lesen >](/pilze/sarcodontia-setosa-krustenförmiger-stachelbart)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_chrysenteron_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.06.2026: In unserer Dietzenbacher Parkanlage ist der erste frisch geschlüpfte Rotfußröhrling (*Xerocomus chrysenteron*) des Jahres erschienen und darum auch aktueller [Fundkorbpilz](AA "Glossar-"). Er ist der wohl häufigste aller Röhrlinge und wird viel gesammelt und gegessen. In vielen Pilzkörben ist er überwiegender Bestandteil eines Konglomerats, das von den Findern pauschal für Maronen gehalten wird, aber aus mehreren unterschiedlichen Pilzarten besteht.  (Dieter Gewalt) [Mehr lesen >](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling)
 
 <div style="clear:  both"></div>
 
