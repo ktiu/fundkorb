@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-19.06.2026: [Rickenella fibula - Orangeroter Heftelnabeling](/pilze/rickenella-fibula)  
+20.06.2026: [Rickenella swartzii - Blaustieliger Heftelnabeling](/pilze/rickenella-swartzii-blaustieliger-heftelnabeling)  
+19.06.2026: [Rickenella fibula - Orangeroter Heftelnabeling](/pilze/rickenella-fibula)\
 18.06.2026: [Phaeolus schweinitzii - Kiefernbraunporling](/pilze/phaeolus-spadiceus-kiefernbraunporling)\
 17.06.2026: [Psathyrella marcescibilis - Grauweißer Faserling](/pilze/psathyrella-marcescibilis-grauweißer-faserling)\
 16.06.2026: [Cantharellus cibarius - Pfifferling](/pilze/cantharellus-cibarius-pfifferling)\
