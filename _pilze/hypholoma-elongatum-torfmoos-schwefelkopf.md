@@ -35,8 +35,8 @@ Seine in der Mitte orangebräunlichen, zum Rand hin eher gelblichen Hütchen err
 
 Wichtige Mikromerkmale sind: Basidien 2- oder 4-sporig, keulig, 25 – 32 x 8 – 11 µm. Sporen elliptisch, glatt, leicht dickwandig, mit Tropfen, 9 – 11 x 5 – 7 µm.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/hypholoma_elongatum_05_md.jpg" %}
 {% include abbildung_ende.html legende="Sporen" %}
 
-Der Torfmoos-Schwefelkopf wächst einzeln bis gesellig zwischen Torfmoosen in Mooren oder an feuchten, sumpfigen Plätzen in Wäldern. An solchen geeigneten Standorten ist die Art relativ häufig. Erscheinungszeit ist Sommer bis Herbst. Ähnlich ist der Moos-Schwefelkopf *Hypholoma polytrichi*, der auf Haarmützenmoos (*Polytrichum*) in Nadelwäldern auf feuchten, sauren und nährstoffarmen Böden wächst und kleinere Sporen (9 – 12 x 5 – 7,5 µm) hat.
+Der Torfmoos-Schwefelkopf wächst einzeln bis gesellig zwischen Torfmoosen in Mooren oder an feuchten, sumpfigen Plätzen in Wäldern. An solchen geeigneten Standorten ist die Art relativ häufig. Erscheinungszeit ist Sommer bis Herbst. Ähnlich ist der [Moos-Schwefelkopf *Hypholoma polytrichi*](/pilze/hypholoma-polytrichi-moos-schwefelkopf), der auf Haarmützenmoos (*Polytrichum*) in Nadelwäldern auf feuchten, sauren und nährstoffarmen Böden wächst und kleinere Sporen (9 – 12 x 5 – 7,5 µm) hat.
