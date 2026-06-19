@@ -12,12 +12,17 @@ footer_scripts:
 
 **Neuer Exkursionstermin:**
 
-Sonntag, 14.06.2026, 10:00 Uhr: **Der Wald und seine Pilze im Juni**\
-[Hier geht's zu den Anmeldungen >](/termine)
-
 Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilzkurs-für-einsteiger-1.html)
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rickenella_x2_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.06.2026: Unser gestriger aktueller [Fundkorbpilz](AA "Glossar-"), der [Orangerote Heftelnabeling](/pilze/rickenella-fibula), hat eine Art Zwillingsbruder, den Blaustieligen Heftelnabeling *Rickenella swartzii*. Form und Größe der beiden sind völlig identisch, sie unterscheiden sich aber deutlich in der Farbe. Nicht nur der Stiel des Blaustieligen ist blau, blau kommt auch auf dem Hut vor, besonders im Zentrum. Außerdem ist er wesentlich seltener als der Orangerote, kommt aber gern mit diesem zusammen am gleichen Substrat vor. (Dieter Gewalt) [Mehr lesen >](/pilze/rickenella-swartzii-blaustieliger-heftelnabeling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" %}
@@ -64,14 +69,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 14.06.2026: Inzwischen hat sich auch der Tintenfischpilz *Clathrus archeri* blicken lassen. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist uns um das Jahr 1914 aus Neuseeland zugewandert und längst auch in unseren Wäldern vor allem entlang der Wege allgegenwärtig. Auffallend ist er insbesondere im Hexeneistadium. Stinken tut er erst, wenn die schwarzfleckigen roten Arme aus dem Ei geschlüpft sind, weshalb er von manchen auch „Stinkfisch“ genannt wird. Dann lockt der Gestank Pilzfliegen an, die für die Verbreitung der Sporen sorgen. (Dieter Gewalt) [Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/sarcodontia_setosa_01_wi.jpg" %}
-{% include abbildung_ende.html %}
-
-13.06.2026: Ausnahmsweise ist unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") eine Art, die <ins>nicht</ins> gefunden sondern neu als Pilzporträt im Fundkorb aufgenommen worden ist. Der Anlass: *Sarcodontia setosa*, der Krustenförmige Stachelbart, ist eine leicht kenntliche, leider extrem selten gewordene Art mit abwärts gerichteten Stacheln, die ausschließlich an alten, absterbenden Apfelbäumen vorkommt. Bitte an alle Pilzfreunde: wenn ihr diesen ganzjährigen Pilz irgendwo beobachtet – bitte meldet mir den Fund mit möglichst genauer Fundortangabe. (Dieter Gewalt) [Mehr lesen >](/pilze/sarcodontia-setosa-krustenförmiger-stachelbart)
 
 <div style="clear:  both"></div>
 
