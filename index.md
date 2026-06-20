@@ -17,6 +17,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/stemonitis_axifera_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+21.06.2026: Der aktuelle [Fundkorbpilz](AA "Glossar-"), das Gemeine Fadenkeulchen *Stemonitis axifera*, kommt häufig vom Frühling bis in den späten Herbst auf Blättern oder feuchtem Totholz vor. In seinem Anfangsstadium erinnert der [Schleimpilz](/verwandt/schleimpilze-myxomyzeten) mit seiner weißen, kugeligen Masse an Fischeier, die dann büschelig in die Höhe wachsen. Innerhalb von zwei Tagen entstehen langgezogene fertile rost- bis dunkelbraune Kopfteile, die wie Keulen auf schwarzen haardünnen Stielchen sitzen und an verbogene Wunderkerzen erinnern. Das Sporenpulver des Gemeinen Fadenkeulchens ist rostbraun gefärbt. (Ulrike Wegner) [Mehr lesen >](/pilze/stemonitis-axifera-gemeines-fadenstäubchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rickenella_x2_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -61,14 +69,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 15.06.2026: Auf den ersten Blick könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") für einen [Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling) halten. Da seine Lamellen aber beim Darüberstreichen blättern, ist es „nur“ der Papageitäubling *Russula ionochlora*. Auch er ist ein guter Speisepilz, den ich wegen seines etwas festeren Fleisches mehr schätze als die gewöhnlichen [Rotfußröhrlinge](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling). Innerhalb der Täublinge bestehen Verwechslungsmöglichkeiten mit ebenfalls essbaren Arten, z. B. mit [Reiftäublingen](/pilze/russula-parazurea-blaugrüner-reiftäubling). (Dieter Gewalt) [Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clathrus_archeri_07_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.06.2026: Inzwischen hat sich auch der Tintenfischpilz *Clathrus archeri* blicken lassen. Unser aktueller [Fundkorbpilz](AA "Glossar-") ist uns um das Jahr 1914 aus Neuseeland zugewandert und längst auch in unseren Wäldern vor allem entlang der Wege allgegenwärtig. Auffallend ist er insbesondere im Hexeneistadium. Stinken tut er erst, wenn die schwarzfleckigen roten Arme aus dem Ei geschlüpft sind, weshalb er von manchen auch „Stinkfisch“ genannt wird. Dann lockt der Gestank Pilzfliegen an, die für die Verbreitung der Sporen sorgen. (Dieter Gewalt) [Mehr lesen >](/pilze/clathrus-archeri-tintenfischpilz)
 
 <div style="clear:  both"></div>
 
