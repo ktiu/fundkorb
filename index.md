@@ -10,11 +10,17 @@ footer_scripts:
 ---
 <div class="row justify-content-sm-center justify-content-lg-start"></div>
 
-**Neuer Exkursionstermin:**
-
 Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilzkurs-für-einsteiger-1.html)
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phragmidium_violaceum_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brombeer-Rost *Phragmidium violaceum*. Er befällt die Blätter der Pflanzen und dürfte in keinem Brombeerbestand fehlen. Man erkennt den Rost, der zwei unterschiedliche Sporentypen bildet, an den dunkelroten Flecken auf der Blattoberseite, die ganzjährig zu beobachten sind. Auf den Blattunterseiten sind die dunkelbraunen Sporenlager zu sehen. (Dieter Gewalt) [Mehr lesen >](/pilze/phragmidium-violaceum-brombeer-rost)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/stemonitis_axifera_01_nk.jpg" %}
@@ -61,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 16.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist - wie es sich für die Jahreszeit gehört - der Pfifferling *Cantharellus cibarius*. Unseren Fund kann man jedoch bestenfalls als sehr kleine Babies bezeichnen, die auch schon am Vertrocknen waren. Für die Rhein-Main-Ebene sagen die Prognosen zwei Wochen absolute Trockenheit voraus. Unsere Wälder werden es zu spüren bekommen. Die Pilze auch. (Dieter Gewalt) [Mehr lesen >](/pilze/cantharellus-cibarius-pfifferling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_ionochlora_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.06.2026: Auf den ersten Blick könnte man unseren aktuellen [Fundkorbpilz](AA "Glossar-") für einen [Frauentäubling](/pilze/russula-cyanoxantha-frauentäubling) halten. Da seine Lamellen aber beim Darüberstreichen blättern, ist es „nur“ der Papageitäubling *Russula ionochlora*. Auch er ist ein guter Speisepilz, den ich wegen seines etwas festeren Fleisches mehr schätze als die gewöhnlichen [Rotfußröhrlinge](/pilze/xerocomus-chrysenteron-gemeiner-rotfußröhrling). Innerhalb der Täublinge bestehen Verwechslungsmöglichkeiten mit ebenfalls essbaren Arten, z. B. mit [Reiftäublingen](/pilze/russula-parazurea-blaugrüner-reiftäubling). (Dieter Gewalt) [Mehr lesen >](/pilze/russula-ionochlora-papagei-täubling)
 
 <div style="clear:  both"></div>
 
