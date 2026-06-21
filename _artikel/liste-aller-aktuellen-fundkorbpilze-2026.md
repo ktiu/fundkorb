@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-21.06.2026: [Stemonitis axifera - Gemeines Fadenstäubchen](/pilze/stemonitis-axifera-gemeines-fadenstäubchen)  
+22.06.2026: [Phragmidium violaceum - Brombeer-Rost](/pilze/phragmidium-violaceum-brombeer-rost)  
+21.06.2026: [Stemonitis axifera - Gemeines Fadenstäubchen](/pilze/stemonitis-axifera-gemeines-fadenstäubchen)\
 20.06.2026: [Rickenella swartzii - Blaustieliger Heftelnabeling](/pilze/rickenella-swartzii-blaustieliger-heftelnabeling)\
 19.06.2026: [Rickenella fibula - Orangeroter Heftelnabeling](/pilze/rickenella-fibula)\
 18.06.2026: [Phaeolus schweinitzii - Kiefernbraunporling](/pilze/phaeolus-spadiceus-kiefernbraunporling)\
