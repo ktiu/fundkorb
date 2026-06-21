@@ -46,7 +46,7 @@ Schildborstlinge sind [Ascomyzeten](Ascomyzeten "Glossar") in der Familie der *P
 
 Die 200 bis 320 µm langen Asci sind 8-sporig, die runden Sporen haben Durchmesser von 16 – 18 µm mit isolierten, konischen und an der Spitze vielfach abgestutzten Stacheln. Diese sind 240 - 1200 µm lang und 20 – 35 µm dick. Die Pigmente der *Scutellinia*-Arten sind Carotinoide und in den Paraphysen lokalisiert.
 
-Um die ca. 30 Deutschland nachgewiesenen *Scutellinia*-Arten sicher unterscheiden und bestimmen zu können, ist neben spezieller Literatur vor allem das Mikroskop unerlässlich. Erläuternde Anmerkung von *Hermine Lotz-Winter*:
+Um die ca. 30 in Deutschland nachgewiesenen *Scutellinia*-Arten sicher unterscheiden und bestimmen zu können, ist neben spezieller Literatur vor allem das Mikroskop unerlässlich. Erläuternde Anmerkung von *Hermine Lotz-Winter*:
 
 > Im Fall von *Scutellinia trechispora* führt die Merkmalskombination *„sehr lange Randhaare und runde Sporen mit isolierten, langen, oben meist abgestutzten Stacheln“* schnell zur Bestimmung. Kleinere morphologische Unterschiede in der Ornamentation der Sporen haben zu der Vermutung geführt, dass es sich um zwei oder drei unterschiedliche Arten handeln könnte. Das konnte in molekularen Studien jedoch bis jetzt nicht bestätigt werden.“ 
 
