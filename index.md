@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sawadaea_tulasnei_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Echte Ahorn-Mehltau *Sawadaea tulasnei*. Befallen werden vor allem junge Bäume des Spitzahorns, so dass die weiß bereiften Blätter in Augenhöhe oder darunter schon von Weitem auffallen. Der Schaden ist lediglich optischer Natur. Auf Berg- und Feldahorn findet man meist den [Mehltaupilz Sawadaea bicornis](/pilze/sawadaea-bicornis-bergahorn-mehltau), dessen Erscheinungsbild weniger auffällig ist. (Dieter Gewalt) [Mehr lesen >](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phragmidium_violaceum_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 17.06.2026: Mit Faserlingen, auch Mürblinge oder Zärtlinge genannt, befassen sich nur wenige Pilzsammler und widmen daher auch unserem aktuellen [Fundkorbpilz](AA "Glossar-") wenig Beachtung. Der Grauweiße Faserling *Psathyrella marcescibilis* ist sogar ein recht hübsches und auffallend langstieliges Kerlchen. Er gilt nicht als Speisepilz, wird aber gelegentlich mit dem essbaren [Behangenen Faserling Psathyrella candolleana](/pilze/psathyrella-candolleana-behangener-faserling) verwechselt und ohne Schaden oder Geschmacksbeeinträchtigung verzehrt. Ein Giftstoff ist bisher nicht nachgewiesen. (Dieter Gewalt) [Mehr lesen >](/pilze/psathyrella-marcescibilis-grauweißer-faserling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cantharellus_cibarius_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist - wie es sich für die Jahreszeit gehört - der Pfifferling *Cantharellus cibarius*. Unseren Fund kann man jedoch bestenfalls als sehr kleine Babies bezeichnen, die auch schon am Vertrocknen waren. Für die Rhein-Main-Ebene sagen die Prognosen zwei Wochen absolute Trockenheit voraus. Unsere Wälder werden es zu spüren bekommen. Die Pilze auch. (Dieter Gewalt) [Mehr lesen >](/pilze/cantharellus-cibarius-pfifferling)
 
 <div style="clear:  both"></div>
 
