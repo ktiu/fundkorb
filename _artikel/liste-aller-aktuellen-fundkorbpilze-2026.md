@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-24.06.2026: [Microsphaera berberidis - Mahonien-Mehltau](/pilze/microsphaera-berberidis-mahonien-mehltau)  
+25.06.2026: [Lentinus lepideus - Schuppiger Sägeblättling](/pilze/lentinus-lepideus-schuppiger-sägeblättling)  
+24.06.2026: [Microsphaera berberidis - Mahonien-Mehltau](/pilze/microsphaera-berberidis-mahonien-mehltau)\
 23.06.2026: [Sawadaea tulasnei - Echter Ahorn-Mehltau](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau)\
 22.06.2026: [Phragmidium violaceum - Brombeer-Rost](/pilze/phragmidium-violaceum-brombeer-rost)\
 21.06.2026: [Stemonitis axifera - Gemeines Fadenstäubchen](/pilze/stemonitis-axifera-gemeines-fadenstäubchen)\
