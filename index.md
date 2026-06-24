@@ -15,6 +15,12 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/microsphaera_berberidis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.06.2026: [Mehltaupilze](/verwandt/mehltaupilze) bilden weißliche abwischbare Beläge auf Blattoberseiten zahlreicher Pflanzenarten. Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") sind Mahonienblätter vom Mahonien-Mehltau *Microsphaera berberidis* befallen, der von manchen Autoren auch als „Echter Mehltau“ bezeichnet wird. Er ist, allerdings weniger häufig, auch auf Berberitzenblättern anzutreffen. Mehltaupilze entziehen den Blättern Nährstoffe, die dann welken, schließlich abfallen und so wirtschaftlichen Schaden verursachen können. (Dieter Gewalt) [Mehr lesen >](/pilze/microsphaera-berberidis-mahonien-mehltau) 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/sawadaea_tulasnei_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +65,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 18.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kiefernbraunporling *Phaeolus schweinitzii*. *Hermann Jahn* hat ihn einmal so charakterisiert: „Forstpathologen ist er als übler Stammfäuleerreger bekannt, der vor allem die Kiefer angreift, aber auch Fichte, Douglasie, Tanne und Lärche...“  Es handelt sich um eine einjährige unregelmäßig kreiselförmige Art von dunkelbrauner Farbe, deren Zuwachszonen lebhaft gelb oder grüngelblich gefärbt sind. In der Rhein-Main-Ebene ist sie in fast jedem Kiefernbestand zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/phaeolus-spadiceus-kiefernbraunporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/psathyrella_marcescibilis_03_md.jpg" %}
-{% include abbildung_ende.html %}
-
-17.06.2026: Mit Faserlingen, auch Mürblinge oder Zärtlinge genannt, befassen sich nur wenige Pilzsammler und widmen daher auch unserem aktuellen [Fundkorbpilz](AA "Glossar-") wenig Beachtung. Der Grauweiße Faserling *Psathyrella marcescibilis* ist sogar ein recht hübsches und auffallend langstieliges Kerlchen. Er gilt nicht als Speisepilz, wird aber gelegentlich mit dem essbaren [Behangenen Faserling Psathyrella candolleana](/pilze/psathyrella-candolleana-behangener-faserling) verwechselt und ohne Schaden oder Geschmacksbeeinträchtigung verzehrt. Ein Giftstoff ist bisher nicht nachgewiesen. (Dieter Gewalt) [Mehr lesen >](/pilze/psathyrella-marcescibilis-grauweißer-faserling)
 
 <div style="clear:  both"></div>
 
