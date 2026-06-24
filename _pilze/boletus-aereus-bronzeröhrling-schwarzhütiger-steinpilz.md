@@ -17,7 +17,7 @@ published: true
 ---
 Küchenmykologen kümmert es wenig, dass es mehrere Steinpilzarten gibt bzw., welche von ihnen gerade in der Pfanne bruzzelt. Wozu auch – sie sind alle gleichwertig hervorragende Speisepilze und zugegebenermaßen gar nicht so leicht auseinanderzuhalten. Wer es genauer wissen will: der Bronzeröhrling ist an seinem schwarzbraunen, fein samtigen Hut zu erkennen, der oft zum Rand hin arttypisch wie bronziert aufgehellt erscheint (auf dem Foto gut zu erkennen). Am ehesten könnte man ihn mit dem Kiefernsteinpilz verwechseln, der jedoch rötliche Farbtöne auf dem Hut aufweist, ausschließlich bei Kiefern wächst und im Rhein-Main-Gebiet extrem selten geworden ist. Der Bronzeröhrling wächst in [thermophilen](thermophil "Glossar") Laubwäldern bei Eichen und Buchen und ist in unseren Beobachtungsgebieten von etlichen Fundstellen bekannt, an denen er zumeist standorttreu über lange Zeiträume gefunden wurde.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_aereus_02_tl.jpg" %}
 {% include abbildung_ende.html %}
 
