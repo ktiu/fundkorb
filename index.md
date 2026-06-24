@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinus_lepideus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.06.2026: Kaum zu glauben, aber unser heutiger aktuelle [Fundkorbpilz](AA "Glossar-"), der Schuppige Sägeblättling *Lentinus lepideus*, liebt die derzeitige Trockenheit und Hitze. Er kommt sommerlich weiß daher: Mit seinem weißen schuppigen Stiel und dem weißen, mit beige-braunen Schuppen besetzten Hut wächst er typischerweise auf morschem weichem Nadelholz. Seine hellen Lamellen sind leicht gesägt. Er gilt jung als essbar, kann aber kaum zu den Speisepilzen gezählt werden. (Ulrike Wegner) [Mehr lesen >](/pilze/lentinus-lepideus-schuppiger-sägeblättling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/microsphaera_berberidis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 19.06.2026: Auf einen recht großen folgt nun ein zierlich kleiner aktueller [Fundkorbpilz](AA "Glossar-"), der Orangerote Heftelnabeling *Rickenella fibula*. Manche meinen, es sei eine Art, in die man sich verlieben könnte. Dazu tragen neben der attraktiven Farbe auch die in einem eleganten Bogen am Stiel herablaufenden Lamellen bei. Wenn man die Augen offen hält, kann man ihn vom Frühsommer bis in den Spätherbst zwischen Moosen finden, egal, ob sich diese in Rasenflächen oder auf Totholz befinden. (Dieter Gewalt) [Mehr lesen >](/pilze/rickenella-fibula)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phaeolus_spadiceus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Kiefernbraunporling *Phaeolus schweinitzii*. *Hermann Jahn* hat ihn einmal so charakterisiert: „Forstpathologen ist er als übler Stammfäuleerreger bekannt, der vor allem die Kiefer angreift, aber auch Fichte, Douglasie, Tanne und Lärche...“  Es handelt sich um eine einjährige unregelmäßig kreiselförmige Art von dunkelbrauner Farbe, deren Zuwachszonen lebhaft gelb oder grüngelblich gefärbt sind. In der Rhein-Main-Ebene ist sie in fast jedem Kiefernbestand zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/phaeolus-spadiceus-kiefernbraunporling)
 
 <div style="clear:  both"></div>
 
