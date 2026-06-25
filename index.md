@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pertusaria_pertusa_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+26.06.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Gewöhnliche Porenflechte *Pertusaria pertusa*, ist keineswegs so „gewöhnlich“, wie der deutsche Artname vermuten lässt. Die Rote Liste Flechten Deutschlands 2011 führt sie in der Kategorie V (Vorwarnliste). Wir haben sie im nördlichen Schwarzwaldrandgebiet bei Karlsbad auf der Rinde einer Hainbuche gefunden und mikroskopisch anhand ihrer 2 dickwandigen Sporen in einem [Ascus](<Asci "Glossar">) sicher bestimmt. (Bernd Miggel) [Mehr lesen >](/pilze/pertusaria-pertusa-gewöhnliche-porenflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lentinus_lepideus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -51,22 +59,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 21.06.2026: Der aktuelle [Fundkorbpilz](AA "Glossar-"), das Gemeine Fadenkeulchen *Stemonitis axifera*, kommt häufig vom Frühling bis in den späten Herbst auf Blättern oder feuchtem Totholz vor. In seinem Anfangsstadium erinnert der [Schleimpilz](/verwandt/schleimpilze-myxomyzeten) mit seiner weißen, kugeligen Masse an Fischeier, die dann büschelig in die Höhe wachsen. Innerhalb von zwei Tagen entstehen langgezogene fertile rost- bis dunkelbraune Kopfteile, die wie Keulen auf schwarzen haardünnen Stielchen sitzen und an verbogene Wunderkerzen erinnern. Das Sporenpulver des Gemeinen Fadenkeulchens ist rostbraun gefärbt. (Ulrike Wegner) [Mehr lesen >](/pilze/stemonitis-axifera-gemeines-fadenstäubchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rickenella_x2_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.06.2026: Unser gestriger aktueller [Fundkorbpilz](AA "Glossar-"), der [Orangerote Heftelnabeling](/pilze/rickenella-fibula), hat eine Art Zwillingsbruder, den Blaustieligen Heftelnabeling *Rickenella swartzii*. Form und Größe der beiden sind völlig identisch, sie unterscheiden sich aber deutlich in der Farbe. Nicht nur der Stiel des Blaustieligen ist blau, blau kommt auch auf dem Hut vor, besonders im Zentrum. Außerdem ist er wesentlich seltener als der Orangerote, kommt aber gern mit diesem zusammen am gleichen Substrat vor. (Dieter Gewalt) [Mehr lesen >](/pilze/rickenella-swartzii-blaustieliger-heftelnabeling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rickenella_fibula_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.06.2026: Auf einen recht großen folgt nun ein zierlich kleiner aktueller [Fundkorbpilz](AA "Glossar-"), der Orangerote Heftelnabeling *Rickenella fibula*. Manche meinen, es sei eine Art, in die man sich verlieben könnte. Dazu tragen neben der attraktiven Farbe auch die in einem eleganten Bogen am Stiel herablaufenden Lamellen bei. Wenn man die Augen offen hält, kann man ihn vom Frühsommer bis in den Spätherbst zwischen Moosen finden, egal, ob sich diese in Rasenflächen oder auf Totholz befinden. (Dieter Gewalt) [Mehr lesen >](/pilze/rickenella-fibula)
 
 <div style="clear:  both"></div>
 
