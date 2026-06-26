@@ -8,7 +8,7 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-<div class="row justify-content-sm-center justify-content-lg-start"></div>
+ <div class="row justify-content-sm-center justify-content-lg-start"></div>{% include pilzsuche.html %}
 
 Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilzkurs-für-einsteiger-1.html)
 
