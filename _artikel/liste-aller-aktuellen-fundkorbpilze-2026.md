@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-26.06.2026: [Pertusaria pertusa - Gewöhnliche Porenflechte](/pilze/pertusaria-pertusa-gewöhnliche-porenflechte)  
+27.06.2026: [Lanzia echinophila - Kastanienschalenbecherling](/pilze/lanzia-echinophila-kastanienschalenbecherling)  
+26.06.2026: [Pertusaria pertusa - Gewöhnliche Porenflechte](/pilze/pertusaria-pertusa-gewöhnliche-porenflechte)\
 25.06.2026: [Lentinus lepideus - Schuppiger Sägeblättling](/pilze/lentinus-lepideus-schuppiger-sägeblättling)\
 24.06.2026: [Microsphaera berberidis - Mahonien-Mehltau](/pilze/microsphaera-berberidis-mahonien-mehltau)\
 23.06.2026: [Sawadaea tulasnei - Echter Ahorn-Mehltau](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau)\
