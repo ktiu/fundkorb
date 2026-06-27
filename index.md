@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/creolophus_cirrhatus_04_mi.jpg" %}
+{% include abbildung_ende.html %}
+
+28.06.2026: Höhepunkt eines Pilz-Spazierganges kann der Fund des nicht allzu häufigen Dornigen Stachelbarts *Hericium cirrhatum* sein. Unser aktueller [Fundkorbpilz](AA "Glossar-") profitiert davon, dass wieder mehr Totholz in unseren Wäldern liegen bleibt. Obwohl er so jung und rein weiß wie auf der Abbildung essbar wäre, darf er als gefährdete Art nicht gesammelt oder entnommen werden. Er bildet muschel- oder konsolenförmige Fruchtkörper, von denen in der Regel mehrere miteinander verwachsen sind. Ihre Unterseiten sind dicht mit dornenartigen Stacheln besetzt; die Oberseite ist filzig-körnig. (Ulrike Wegner) [Mehr lesen >](/pilze/hericium-cirrhatum-dorniger-stachelbart)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lanzia_echinophila_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 22.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brombeer-Rost *Phragmidium violaceum*. Er befällt die Blätter der Pflanzen und dürfte in keinem Brombeerbestand fehlen. Man erkennt den Rost, der zwei unterschiedliche Sporentypen bildet, an den dunkelroten Flecken auf der Blattoberseite, die ganzjährig zu beobachten sind. Auf den Blattunterseiten sind die dunkelbraunen Sporenlager zu sehen. (Dieter Gewalt) [Mehr lesen >](/pilze/phragmidium-violaceum-brombeer-rost)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/stemonitis_axifera_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-21.06.2026: Der aktuelle [Fundkorbpilz](AA "Glossar-"), das Gemeine Fadenkeulchen *Stemonitis axifera*, kommt häufig vom Frühling bis in den späten Herbst auf Blättern oder feuchtem Totholz vor. In seinem Anfangsstadium erinnert der [Schleimpilz](/verwandt/schleimpilze-myxomyzeten) mit seiner weißen, kugeligen Masse an Fischeier, die dann büschelig in die Höhe wachsen. Innerhalb von zwei Tagen entstehen langgezogene fertile rost- bis dunkelbraune Kopfteile, die wie Keulen auf schwarzen haardünnen Stielchen sitzen und an verbogene Wunderkerzen erinnern. Das Sporenpulver des Gemeinen Fadenkeulchens ist rostbraun gefärbt. (Ulrike Wegner) [Mehr lesen >](/pilze/stemonitis-axifera-gemeines-fadenstäubchen)
 
 <div style="clear:  both"></div>
 
