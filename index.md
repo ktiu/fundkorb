@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/crucibulum_laeve.jpg" %}
+{% include abbildung_ende.html %}
+
+29.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tiegelteuerling *Crucibulum laeve,* einer der hübschen [„Vogelnestpilze“](/verwandt/vogelnestpilze). Seine Fruchtkörper bestehen aus  tönnchen- oder schüsselförmigen Behältnissen, in denen linsen- oder münzenförmige Gebilde von etwa 1 mm Größe liegen. Aus ihrer Anzahl glaubten unsere abergläubischen Vorfahren, Schlüsse auf Wohlstand oder Notzeiten schließen zu können. Je weniger dieser Peridiolen es waren, desto schlechtere Zeiten standen bevor. (Dieter Gewalt) [Mehr lesen >](/pilze/crucibulum-laeve-tiegelteuerling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/creolophus_cirrhatus_04_mi.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 23.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Echte Ahorn-Mehltau *Sawadaea tulasnei*. Befallen werden vor allem junge Bäume des Spitzahorns, so dass die weiß bereiften Blätter in Augenhöhe oder darunter schon von Weitem auffallen. Der Schaden ist lediglich optischer Natur. Auf Berg- und Feldahorn findet man meist den [Mehltaupilz Sawadaea bicornis](/pilze/sawadaea-bicornis-bergahorn-mehltau), dessen Erscheinungsbild weniger auffällig ist. (Dieter Gewalt) [Mehr lesen >](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phragmidium_violaceum_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brombeer-Rost *Phragmidium violaceum*. Er befällt die Blätter der Pflanzen und dürfte in keinem Brombeerbestand fehlen. Man erkennt den Rost, der zwei unterschiedliche Sporentypen bildet, an den dunkelroten Flecken auf der Blattoberseite, die ganzjährig zu beobachten sind. Auf den Blattunterseiten sind die dunkelbraunen Sporenlager zu sehen. (Dieter Gewalt) [Mehr lesen >](/pilze/phragmidium-violaceum-brombeer-rost)
 
 <div style="clear:  both"></div>
 
