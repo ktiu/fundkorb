@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/olla_scrupulosa_01_iw.jpg" %}
+{% include abbildung_ende.html %}
+
+30.06.2026: Die hier gezeigte Abbildung mag täuschen. Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Holz-Glasbecherchen *Olla scrupulosa*, handelt es sich um einen winzigen [Ascomyzeten](Ascomyzeten "Glossar"), den man mit der Lupe suchen muss. Seine Fruchtkörperchen erscheinen an morschem Totholz und werden maximal 1 mm groß. Sie sind ganzjährig vor allem an feucht liegenden Ästen von Buche, Pappel oder Weide zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/olla-scrupulosa-holz-glasbecherchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/crucibulum_laeve.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 24.06.2026: [Mehltaupilze](/verwandt/mehltaupilze) bilden weißliche abwischbare Beläge auf Blattoberseiten zahlreicher Pflanzenarten. Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") sind Mahonienblätter vom Mahonien-Mehltau *Microsphaera berberidis* befallen, der von manchen Autoren auch als „Echter Mehltau“ bezeichnet wird. Er ist, allerdings weniger häufig, auch auf Berberitzenblättern anzutreffen. Mehltaupilze entziehen den Blättern Nährstoffe, die dann welken, schließlich abfallen und so wirtschaftlichen Schaden verursachen können. (Dieter Gewalt) [Mehr lesen >](/pilze/microsphaera-berberidis-mahonien-mehltau)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/sawadaea_tulasnei_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Echte Ahorn-Mehltau *Sawadaea tulasnei*. Befallen werden vor allem junge Bäume des Spitzahorns, so dass die weiß bereiften Blätter in Augenhöhe oder darunter schon von Weitem auffallen. Der Schaden ist lediglich optischer Natur. Auf Berg- und Feldahorn findet man meist den [Mehltaupilz Sawadaea bicornis](/pilze/sawadaea-bicornis-bergahorn-mehltau), dessen Erscheinungsbild weniger auffällig ist. (Dieter Gewalt) [Mehr lesen >](/pilze/sawadaea-tulasnei-echter-ahorn-mehltau)
 
 <div style="clear:  both"></div>
 
