@@ -18,7 +18,7 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include bild.html datei="/bilder/olla_scrupulosa_01_iw.jpg" %}
 {% include abbildung_ende.html %}
 
-30.06.2026: Die hier gezeigte Abbildung mag täuschen. Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Holz-Glasbecherchen *Olla scrupulosa*, handelt es sich um einen winzigen [Ascomyzeten](Ascomyzeten "Glossar"), den man mit der Lupe suchen muss. Seine Fruchtkörperchen erscheinen an morschem Totholz und werden maximal 1 mm groß. Sie sind ganzjährig vor allem an feucht liegenden Ästen von Buche, Pappel oder Weide zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/olla-scrupulosa-holz-glasbecherchen)
+30.06.2026: Die hier gezeigte Abbildung mag täuschen. Es ist stark vergrößert. Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Holz-Glasbecherchen *Olla scrupulosa*, handelt es sich um einen winzigen [Ascomyzeten](Ascomyzeten "Glossar"), den man mit der Lupe suchen muss. Seine Fruchtkörperchen erscheinen an morschem Totholz und werden maximal 1 mm groß. Sie sind ganzjährig vor allem an feucht liegenden Ästen von Buche, Pappel oder Weide zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/olla-scrupulosa-holz-glasbecherchen)
 
 <div style="clear:  both"></div>
 
