@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_cinerea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.07.2026: Wenn man nichts Besseres findet - eine *Peniophora* ist fast überall zugegen, wo Bäume stehen oder deren Äste am Boden liegen. Bei uns in der Dietzenbacher Parkanlage ist der Aschgraue Zystidenrindenpilz *Peniophora cinerea* an einigen Haselbäumen geradezu üppig vorhanden und daher ein stets zuverlässig anzutreffender [Fundkorbpilz](AA "Glossar-"). Bei Feuchtigkeit fühlt er sich wachsartig an, bei Trockenheit wird er rissig. Erstaunlicherweise sind die Zystiden-Rindenpilze näher mit Täublingen verwandt als mit an Holz wachsenden Porlingen. (Dieter Gewalt) [Mehr lesen >](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/olla_scrupulosa_01_iw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 25.06.2026: Kaum zu glauben, aber unser heutiger aktuelle [Fundkorbpilz](AA "Glossar-"), der Schuppige Sägeblättling *Lentinus lepideus*, liebt die derzeitige Trockenheit und Hitze. Er kommt sommerlich weiß daher: Mit seinem weißen schuppigen Stiel und dem weißen, mit beige-braunen Schuppen besetzten Hut wächst er typischerweise auf morschem weichem Nadelholz. Seine hellen Lamellen sind leicht gesägt. Er gilt jung als essbar, kann aber kaum zu den Speisepilzen gezählt werden. (Ulrike Wegner) [Mehr lesen >](/pilze/lentinus-lepideus-schuppiger-sägeblättling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/microsphaera_berberidis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.06.2026: [Mehltaupilze](/verwandt/mehltaupilze) bilden weißliche abwischbare Beläge auf Blattoberseiten zahlreicher Pflanzenarten. Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-") sind Mahonienblätter vom Mahonien-Mehltau *Microsphaera berberidis* befallen, der von manchen Autoren auch als „Echter Mehltau“ bezeichnet wird. Er ist, allerdings weniger häufig, auch auf Berberitzenblättern anzutreffen. Mehltaupilze entziehen den Blättern Nährstoffe, die dann welken, schließlich abfallen und so wirtschaftlichen Schaden verursachen können. (Dieter Gewalt) [Mehr lesen >](/pilze/microsphaera-berberidis-mahonien-mehltau)
 
 <div style="clear:  both"></div>
 
