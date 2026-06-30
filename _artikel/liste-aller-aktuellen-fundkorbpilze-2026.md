@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-30.06.2026: [Olla scrupulosa - Holz-Glasbecherchen](/pilze/olla-scrupulosa-holz-glasbecherchen)  
+01.07.2026: [Peniophora cinerea - Aschgrauer Zystidenrindenpilz](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
+
+30.06.2026: [Olla scrupulosa - Holz-Glasbecherchen](/pilze/olla-scrupulosa-holz-glasbecherchen)\
 29.06.2026: [Crucibulum laeve - Tiegelteuerling](/pilze/crucibulum-laeve-tiegelteuerling)\
 28.06.2026: [Hericium cirrhatum - Dorniger Stachelbart](/pilze/hericium-cirrhatum-dorniger-stachelbart)\
 27.06.2026: [Lanzia echinophila - Kastanienschalenbecherling](/pilze/lanzia-echinophila-kastanienschalenbecherling)\
