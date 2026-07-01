@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hymenochaete_rubiginosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Umberbraune Borstenscheibe *Hymenochaete rubiginosa*. Im Habitus ähnelt sie Schichtpilzen, sind mit diesen aber nicht verwandt. Sie wachsen als dünne, fächerförmige Hütchen an totem Holz, wobei die glatte bis runzelige Fruchtschicht (*Hymenium*) die Unterseite bildet und zum Teil als krustige, resupinate Schicht mit dem Holz verbunden ist. Die Fruchtkörper sind frisch lederig zäh, trocken steif und brüchig und können mehrere Jahre alt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peniophora_cinerea_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 26.06.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Gewöhnliche Porenflechte *Pertusaria pertusa*, ist keineswegs so „gewöhnlich“, wie der deutsche Artname vermuten lässt. Die Rote Liste Flechten Deutschlands 2011 führt sie in der Kategorie V (Vorwarnliste). Wir haben sie im nördlichen Schwarzwaldrandgebiet bei Karlsbad auf der Rinde einer Hainbuche gefunden und mikroskopisch anhand ihrer 2 dickwandigen Sporen in einem [Ascus](<Asci "Glossar">) sicher bestimmt. (Bernd Miggel) [Mehr lesen >](/pilze/pertusaria-pertusa-gewöhnliche-porenflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lentinus_lepideus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-25.06.2026: Kaum zu glauben, aber unser heutiger aktuelle [Fundkorbpilz](AA "Glossar-"), der Schuppige Sägeblättling *Lentinus lepideus*, liebt die derzeitige Trockenheit und Hitze. Er kommt sommerlich weiß daher: Mit seinem weißen schuppigen Stiel und dem weißen, mit beige-braunen Schuppen besetzten Hut wächst er typischerweise auf morschem weichem Nadelholz. Seine hellen Lamellen sind leicht gesägt. Er gilt jung als essbar, kann aber kaum zu den Speisepilzen gezählt werden. (Ulrike Wegner) [Mehr lesen >](/pilze/lentinus-lepideus-schuppiger-sägeblättling)
 
 <div style="clear:  both"></div>
 
