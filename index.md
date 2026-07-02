@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hydropus_subalpinus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.07.2026: Der Buchenwald-Wasserfuß *Hydropus subalpinus* ist ein kleines Blätterpilzchen ohne markante Eigenschaften und das macht unseren aktuellen [Fundkorbpilz](AA "Glossar-") so schwer bestimmbar. Hinzu kommt, dass er in kaum einem populären Pilzbuch erwähnt wird. Wenn man sein Hütchen ruckartig nach oben abzieht, bleibt an der Stielspitze ein Knöpfchen zurück, ähnlich wie beim bekannteren [Knopfstieligen Rübling *Gymnopus confluens*](/pilze/gymnopus-confluens-knopfstieliger-rübling). Das hilft in Verbindung mit der weiß-striegeligen Stielbasis dann doch bei der Identifikation, die mikroskopisch durch schmale würstchenförmige Sporen untermauert werden kann. (Dieter Gewalt) [Mehr lesen >](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hymenochaete_rubiginosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 27.06.2026: Schon der deutsche Artname Kastanienschalenbecherling (*Lanzia echinophila*) deutet auf die besondere Substratbindung dieses [Ascomyzeten](Ascomyzeten "Glossar") hin. Unser aktueller [Fundkorbpilz](AA "Glossar-") hat sich auf vorjährige, feucht liegende Fruchtschalen der Esskastanie spezialisiert. Sein wissenschaftlicher Name erscheint dagegen etwas irreführend gewählt, denn das griechische Wort *echinos* bedeutet Igel, und an diesen sympathischen Tieren wird man unseren Pilz vergeblich suchen. Immerhin haben Igel und Esskastanienschalen eines gemeinsam: spitze Stacheln. (Dieter Gewalt) [Mehr lesen >](/pilze/lanzia-echinophila-kastanienschalenbecherling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pertusaria_pertusa_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-26.06.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Gewöhnliche Porenflechte *Pertusaria pertusa*, ist keineswegs so „gewöhnlich“, wie der deutsche Artname vermuten lässt. Die Rote Liste Flechten Deutschlands 2011 führt sie in der Kategorie V (Vorwarnliste). Wir haben sie im nördlichen Schwarzwaldrandgebiet bei Karlsbad auf der Rinde einer Hainbuche gefunden und mikroskopisch anhand ihrer 2 dickwandigen Sporen in einem [Ascus](<Asci "Glossar">) sicher bestimmt. (Bernd Miggel) [Mehr lesen >](/pilze/pertusaria-pertusa-gewöhnliche-porenflechte)
 
 <div style="clear:  both"></div>
 
