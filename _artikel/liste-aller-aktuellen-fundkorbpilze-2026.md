@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-02.07.2026: [Hymenochaete rubiginosa - Umberbraune Borstenscheibe](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)  
+03.07.2026: [Hydropus subalpinus - Buchenwald-Wasserfuß](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)  
+02.07.2026: [Hymenochaete rubiginosa - Umberbraune Borstenscheibe](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)\
 01.07.2026: [Peniophora cinerea - Aschgrauer Zystidenrindenpilz](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
 
 30.06.2026: [Olla scrupulosa - Holz-Glasbecherchen](/pilze/olla-scrupulosa-holz-glasbecherchen)\
