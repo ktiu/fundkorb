@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_pectinatoides_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.07.2026: Für Speisezwecke kommt unser aktueller [Fundkorbpilz](AA "Glossar-") nicht in Frage. Es ist der Kratzende Kammtäubling *Russula pectinatoides*, eine häufige Art in einer überschaubaren Gruppe von Täublingen, die durch kammartig geriefte Hutränder gekennzeichnet ist. Sein Doppelgänger ist der scharf schmeckende [Camembert-Täubling Russula amoenolens](/pilze/russula-amoenolens-camembert-täubling). Der Kratzende ist zwar nicht scharf, aber keineswegs angenehm im Geschmack. Bei einer Probe bewirkt er ein kratzendes Gefühl auf der Zunge oder im Rachen. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-pectinatoides-kratzender-kammtäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hydropus_subalpinus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 28.06.2026: Höhepunkt eines Pilz-Spazierganges kann der Fund des nicht allzu häufigen Dornigen Stachelbarts *Hericium cirrhatum* sein. Unser aktueller [Fundkorbpilz](AA "Glossar-") profitiert davon, dass wieder mehr Totholz in unseren Wäldern liegen bleibt. Obwohl er so jung und rein weiß wie auf der Abbildung essbar wäre, darf er als gefährdete Art nicht gesammelt oder entnommen werden. Er bildet muschel- oder konsolenförmige Fruchtkörper, von denen in der Regel mehrere miteinander verwachsen sind. Ihre Unterseiten sind dicht mit dornenartigen Stacheln besetzt; die Oberseite ist filzig-körnig. (Ulrike Wegner) [Mehr lesen >](/pilze/hericium-cirrhatum-dorniger-stachelbart)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lanzia_echinophila_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.06.2026: Schon der deutsche Artname Kastanienschalenbecherling (*Lanzia echinophila*) deutet auf die besondere Substratbindung dieses [Ascomyzeten](Ascomyzeten "Glossar") hin. Unser aktueller [Fundkorbpilz](AA "Glossar-") hat sich auf vorjährige, feucht liegende Fruchtschalen der Esskastanie spezialisiert. Sein wissenschaftlicher Name erscheint dagegen etwas irreführend gewählt, denn das griechische Wort *echinos* bedeutet Igel, und an diesen sympathischen Tieren wird man unseren Pilz vergeblich suchen. Immerhin haben Igel und Esskastanienschalen eines gemeinsam: spitze Stacheln. (Dieter Gewalt) [Mehr lesen >](/pilze/lanzia-echinophila-kastanienschalenbecherling)
 
 <div style="clear:  both"></div>
 
