@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-04.07.2026: [Russula pectinatoides - Kratzender Kammtäubling](/pilze/russula-pectinatoides-kratzender-kammtäubling)  
+05.07.2026: [Paxillus involutus - Kahler Krempling](/pilze/paxillus-involutus-kahler-krempling)  
+04.07.2026: [Russula pectinatoides - Kratzender Kammtäubling](/pilze/russula-pectinatoides-kratzender-kammtäubling)\
 03.07.2026: [Hydropus subalpinus - Buchenwald-Wasserfuß](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)\
 02.07.2026: [Hymenochaete rubiginosa - Umberbraune Borstenscheibe](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)\
 01.07.2026: [Peniophora cinerea - Aschgrauer Zystidenrindenpilz](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
