@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/paxillus_involutus_04_gg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.07.2026: Der Kahle Krempling *Paxillus involutus* ist ein häufiger, überall vorkommender Pilz, der trotz seiner Lamellen zu den Röhrlingen (*Boletales*) gehört. Roh gegessen ist unser aktueller [Fundkorbpilz](AA "Glossar-") stark giftig, aber auch gut gegart kann er im Blut die Bildung von Antikörpern verursachen, was zu einer tödlichen Antigen-Antikörper-Reaktion führen kann. Vor ca. 60 Jahren und davor galt er noch als schmackhafter Speisepilz, aber schon damals wurde dringend empfohlen, ihn nur ausreichend erhitzt zu genießen. Inzwischen muss eindringlich vor seinem Verzehr gewarnt werden. (Dieter Gewalt) Mehr lesen >
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_pectinatoides_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 29.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tiegelteuerling *Crucibulum laeve,* einer der hübschen [„Vogelnestpilze“](/verwandt/vogelnestpilze). Seine Fruchtkörper bestehen aus  tönnchen- oder schüsselförmigen Behältnissen, in denen linsen- oder münzenförmige Gebilde von etwa 1 mm Größe liegen. Aus ihrer Anzahl glaubten unsere abergläubischen Vorfahren, Schlüsse auf Wohlstand oder Notzeiten schließen zu können. Je weniger dieser Peridiolen es waren, desto schlechtere Zeiten standen bevor. (Dieter Gewalt) [Mehr lesen >](/pilze/crucibulum-laeve-tiegelteuerling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/creolophus_cirrhatus_04_mi.jpg" %}
-{% include abbildung_ende.html %}
-
-28.06.2026: Höhepunkt eines Pilz-Spazierganges kann der Fund des nicht allzu häufigen Dornigen Stachelbarts *Hericium cirrhatum* sein. Unser aktueller [Fundkorbpilz](AA "Glossar-") profitiert davon, dass wieder mehr Totholz in unseren Wäldern liegen bleibt. Obwohl er so jung und rein weiß wie auf der Abbildung essbar wäre, darf er als gefährdete Art nicht gesammelt oder entnommen werden. Er bildet muschel- oder konsolenförmige Fruchtkörper, von denen in der Regel mehrere miteinander verwachsen sind. Ihre Unterseiten sind dicht mit dornenartigen Stacheln besetzt; die Oberseite ist filzig-körnig. (Ulrike Wegner) [Mehr lesen >](/pilze/hericium-cirrhatum-dorniger-stachelbart)
 
 <div style="clear:  both"></div>
 
