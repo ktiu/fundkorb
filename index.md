@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ceratiomyxa_fruticulosa_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+06.07.2026: [Schleimpilze](/verwandt/schleimpilze-myxomyzeten) sind eigentlich keine Pilze sondern clevere Tiere, die sich wie Pilze mittels Sporen vermehren. Ein ausgesprochen hübscher ist der Geweihförmige Schleimpilz *Ceratiomyxa fruticulosa*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Um seine Attraktivität zu erkennen, muss man ihn allerdings mit der Lupe betrachten. (Dieter Gewalt) [Mehr lesen >](/pilze/ceratiomyxa-fruticulosa-geweihförmiger-schleimpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/paxillus_involutus_04_gg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 30.06.2026: Die hier gezeigte Abbildung mag täuschen. Es ist stark vergrößert. Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Holz-Glasbecherchen *Olla scrupulosa*, handelt es sich um einen winzigen [Ascomyzeten](Ascomyzeten "Glossar"), den man mit der Lupe suchen muss. Seine Fruchtkörperchen erscheinen an morschem Totholz und werden maximal 1 mm groß. Sie sind ganzjährig vor allem an feucht liegenden Ästen von Buche, Pappel oder Weide zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/olla-scrupulosa-holz-glasbecherchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/crucibulum_laeve.jpg" %}
-{% include abbildung_ende.html %}
-
-29.06.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Tiegelteuerling *Crucibulum laeve,* einer der hübschen [„Vogelnestpilze“](/verwandt/vogelnestpilze). Seine Fruchtkörper bestehen aus  tönnchen- oder schüsselförmigen Behältnissen, in denen linsen- oder münzenförmige Gebilde von etwa 1 mm Größe liegen. Aus ihrer Anzahl glaubten unsere abergläubischen Vorfahren, Schlüsse auf Wohlstand oder Notzeiten schließen zu können. Je weniger dieser Peridiolen es waren, desto schlechtere Zeiten standen bevor. (Dieter Gewalt) [Mehr lesen >](/pilze/crucibulum-laeve-tiegelteuerling)
 
 <div style="clear:  both"></div>
 
