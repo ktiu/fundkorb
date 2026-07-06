@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ceratiomyxa_fruticulosa_var._poroides_01_gb.jpg" %}
+{% include abbildung_ende.html %}
+
+07.07.2026: Nicht weit von unserem gestrigen [Fundkorbpilz](AA "Glossar-") entfernt fanden wir einen sehr nahen Verwandten, das Weiße Netzpolster *Ceratiomyxa porioides*. Es galt früher als Varietät des [Geweihförmigen Schleimpilzes Ceratiomyxa fruticulosa](/pilze/ceratiomyxa-fruticulosa-geweihförmiger-schleimpilz), obwohl sein Erscheinungsbild nicht ähnlich ist. Beide Arten erscheinen typischerweise - auch gemeinsam - auf feuchtem toten Laubholz. Der Schleimpilz bildet weiße Polster, manchmal mit gelblichen Nuancen, die meist aus mehreren Einheiten zusammengesetzt sind. Ihre Schönheit wird vor allem mit der Lupe betrachtet sichtbar. (Ulrike Wegner) [Mehr lesen >](/pilze/ceratiomyxa-porioides-weißes-netzpolster)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ceratiomyxa_fruticulosa_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 01.07.2026: Wenn man nichts Besseres findet - eine *Peniophora* ist fast überall zugegen, wo Bäume stehen oder deren Äste am Boden liegen. Bei uns in der Dietzenbacher Parkanlage ist der Aschgraue Zystidenrindenpilz *Peniophora cinerea* an einigen Haselbäumen geradezu üppig vorhanden und daher ein stets zuverlässig anzutreffender [Fundkorbpilz](AA "Glossar-"). Bei Feuchtigkeit fühlt er sich wachsartig an, bei Trockenheit wird er rissig. Erstaunlicherweise sind die Zystiden-Rindenpilze näher mit Täublingen verwandt als mit an Holz wachsenden Porlingen. (Dieter Gewalt) [Mehr lesen >](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/olla_scrupulosa_01_iw.jpg" %}
-{% include abbildung_ende.html %}
-
-30.06.2026: Die hier gezeigte Abbildung mag täuschen. Es ist stark vergrößert. Bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Holz-Glasbecherchen *Olla scrupulosa*, handelt es sich um einen winzigen [Ascomyzeten](Ascomyzeten "Glossar"), den man mit der Lupe suchen muss. Seine Fruchtkörperchen erscheinen an morschem Totholz und werden maximal 1 mm groß. Sie sind ganzjährig vor allem an feucht liegenden Ästen von Buche, Pappel oder Weide zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/olla-scrupulosa-holz-glasbecherchen)
 
 <div style="clear:  both"></div>
 
