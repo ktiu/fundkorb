@@ -5,6 +5,7 @@ beschreibung:
   referenz: "(Bull.) Korf 1982 "
   familie: Rutstroemiaceae
   erlaeuterung: echinophila = Stacheln liebend
+  synonym: "Synonym: Rutstroemia echinophila"
 profil:
   aktualisiert: 2020-08-07
   autor_in: Dieter Gewalt
