@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/steccherinum_bourdotii_01_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+10.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rundsporige Resupinatstacheling *Steccherinum bourdotii*, der sich vom wesentlich häufigeren [Ockerrötlichen Resupinatstacheling Steccherinum ochraceum](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling) durch längere Stacheln unterscheidet. Auch seine Sopren sind anders geformt und größer: eiförmig bis kugelig, 4 -5 x 3 - 4 µm. Beide Arten wachsen vorwiegend an toten Laubholzästen, sind also etwas für passionierte "Stöckchendreher". (Dieter Gewalt) [Mehr lesen >](/pilze/steccherinum-bourdotii-rundsporiger-resupinatstacheling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ceratiomyxa_fruticulosa_var._poroides_01_gb.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 02.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Umberbraune Borstenscheibe *Hymenochaete rubiginosa*. Im Habitus ähnelt sie Schichtpilzen, sind mit diesen aber nicht verwandt. Sie wachsen als dünne, fächerförmige Hütchen an totem Holz, wobei die glatte bis runzelige Fruchtschicht (*Hymenium*) die Unterseite bildet und zum Teil als krustige, resupinate Schicht mit dem Holz verbunden ist. Die Fruchtkörper sind frisch lederig zäh, trocken steif und brüchig und können mehrere Jahre alt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_cinerea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.07.2026: Wenn man nichts Besseres findet - eine *Peniophora* ist fast überall zugegen, wo Bäume stehen oder deren Äste am Boden liegen. Bei uns in der Dietzenbacher Parkanlage ist der Aschgraue Zystidenrindenpilz *Peniophora cinerea* an einigen Haselbäumen geradezu üppig vorhanden und daher ein stets zuverlässig anzutreffender [Fundkorbpilz](AA "Glossar-"). Bei Feuchtigkeit fühlt er sich wachsartig an, bei Trockenheit wird er rissig. Erstaunlicherweise sind die Zystiden-Rindenpilze näher mit Täublingen verwandt als mit an Holz wachsenden Porlingen. (Dieter Gewalt) [Mehr lesen >](/pilze/peniophora-cinerea-aschgrauer-zystidenrindenpilz)
 
 <div style="clear:  both"></div>
 
