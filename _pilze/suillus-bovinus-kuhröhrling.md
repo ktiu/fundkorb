@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Suillus bovinus
   deutsch: Kuhröhrling
   referenz: (L.) Roussel 1796
-  familie: Boletaceae
+  familie: Suillaceae
   erlaeuterung: bovinus = zum Rind (zur Kuh) gehörig
 profil:
   aktualisiert: 2021-01-27
