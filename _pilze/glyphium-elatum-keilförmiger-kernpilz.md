@@ -15,6 +15,7 @@ literatur:
   - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 1, Nr. 389"
   - text: "Rudolf Winkler, Gaby Keller: Pilze Mitteleuropas, Seite 930 (16.13.78)"
   - url: https://svampe-databasen-org.translate.goog/taxon/14337?_x_tr_sl=da&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=sc
+  - url: https://share.gemini.google/DGa4zhaVX2s3
 ---
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/glyphium_elatum-01_mb.jpeg" %}
