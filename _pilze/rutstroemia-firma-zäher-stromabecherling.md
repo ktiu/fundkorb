@@ -21,4 +21,4 @@ literatur:
 
 Der Zähe Stromabecherling, auch Eichen-Stromabecher genannt, wächst gesellig und oft sogar massenhaft auf toten Lobholzästen, meist Eiche, die von ihm wie auf dem Foto schön zu sehen, geschwärzt = stromatisiert werden. Die gelb- bis olivbräunlichen [Apothecien ](Apothecien "Glossar")erreichen etwa 1 cm Durchmesser. Ihre Stiele sind meist kurz, mitunter aber sogar bis zu 1,5 cm lang, jung bräunlich, im Alter fast schwarz werdend und oft verbogen.
 
-Die Art ist in ganz Deutschland verbreitet, nicht gerade selten aber auch nicht besonders häufig.
+Die Art ist in ganz Deutschland verbreitet, nicht gerade selten aber auch nicht besonders häufig. Um Verwechslungen zu vermeiden ist auf die Sporengröße zu achten. *Rutstroemia firma* hat relativ kleine Sporen mit den Maßen 13 20 x 3 - 5,5 µm. Ähnlich ist der [Erlen-Stromabecherling *Rutstroemia alni*](/pilze/rutstroemia-alni-erlen-stromabecherling) mit deutlich größeren Sporen (20 - 28 X 8 - 11 µm).
