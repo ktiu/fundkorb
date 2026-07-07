@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-07.07.2026: [Ceratiomyxa porioideseißes Netzpolster](/pilze/ceratiomyxa-porioides-weißes-netzpolster)  
+08.07.2026: [Steccherinum bourdotii - Rundsporiger Resupinatstacheling](/pilze/steccherinum-bourdotii-rundsporiger-resupinatstacheling)
+07.07.2026: [Ceratiomyxa porioideseißes Netzpolster](/pilze/ceratiomyxa-porioides-weißes-netzpolster)\
 06.07.2026: [Ceratiomyxa fruticulosa - Geweihförmiger Schleimpilz](/pilze/ceratiomyxa-fruticulosa-geweihförmiger-schleimpilz)\
 05.07.2026: [Paxillus involutus - Kahler Krempling](/pilze/paxillus-involutus-kahler-krempling)\
 04.07.2026: [Russula pectinatoides - Kratzender Kammtäubling](/pilze/russula-pectinatoides-kratzender-kammtäubling)\
