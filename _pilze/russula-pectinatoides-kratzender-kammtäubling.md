@@ -5,6 +5,7 @@ beschreibung:
   referenz: "Peck 1907 "
   familie: Russulaceae
   erlaeuterung: pectinatoides = kammähnlich
+  synonym: Russula recondita
 profil:
   aktualisiert: 2020-08-15
   autor_in: Dieter Gewalt
