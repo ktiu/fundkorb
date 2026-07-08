@@ -23,9 +23,9 @@ literatur:
 
 Der Weißdorn-Gitterrost gehört zu den Rostpilzen, die auffällige Fruchtkörper bilden, und zwar in Form, Farbe und Größe. Sie erscheinen als dichtgedrängte, oft verbogene, orangegelbe, bis zu 2 cm lange Finger an den Stämmen von Wacholder (*Juniperus*). Deren Spitzen zeigen in unterschiedliche Richtungen und können mitunter verzweigt sein. In diesem Entwicklungsstadium werden im Frühjahr die sogenannten Teliosporen gebildet, die Blätter, Triebe und Früchte des Weißdorns (*Crataegus*) infizieren und ab Mai/Juni bis in den Spätsommer zunächst gelb-rötliche Flecken bilden, die sich zu warzenförmigen Gebilden mit winzigen töpfchenförmigen Pusteln weiterentwickeln, in denen die sogenannten Aecidiosporen heranreifen, die dann an Wacholder den Wirtswechsel vollenden.
 
+Die zweifelsfreie Bestimmung dieses Rostpilzes ist bei Beachtung der jeweiligen Wirtspflanze und Abgleich mit den hier gezeigten Fotos unproblematisch. Der Vollständigkeit halber sei auch noch auf ein Mikromerkmal hingewiesen: Die Teleutosporen sind langestreckt spindelförmig mit einer mittigen Trennwand und messen 50 – 110 x 15 – 20 µm, die Aecidiosporen kugelig und sehr fein stachelig mit 22 – 30 µm Durchmesser.
+
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/gymnosporangum_clavariiforme_02_tlo.png" nocrop=true %}
 {% include bild.html datei="/bilder/gymnosporangum_clavariiforme_03_tlo.png" nocrop=true %}
 {% include abbildung_ende.html legende="Gymnosporangium clvariiforme an Weißdorn (2 Fotos: Thomas Lohrer)" %}
-
-Die zweifelsfreie Bestimmung dieses Rostpilzes ist bei Beachtung der jeweiligen Wirtspflanze und Abgleich mit den hier gezeigten Fotos unproblematisch. Der Vollständigkeit halber sei auch noch auf ein Mikromerkmal hingewiesen: Die Teleutosporen sind langestreckt spindelförmig mit einer mittigen Trennwand und messen 50 – 110 x 15 – 20 µm, die Aecidiosporen kugelig und sehr fein stachelig mit 22 – 30 µm Durchmesser.
