@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/delicatula_integrella_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.07.2026: Es gibt eine ganze Reihe von winzigen Pilzchen, in die man sich beim Anschauen verlieben könnte. Zum Beispiel den Weißen Adernabeling *Delicatula integrella*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Zierlich und zart, so präsentiert er sich dem Auge des Pilzfreundes und das sind auch die Eigenschaften, die sein Gattungsname *„Delicatula“* zum Ausdruck bringt. Er kann einzeln oder zu einigen gesellig erscheinen, aber auch regelrechte Teppiche mit mehreren hundert Fruchtkörpern bilden. Seine alabaster-weißen  Hütchen erreichen gerade mal Durchmesser von 0,5 bis maximal 1,5 cm und haben in der Mitte ihren typischen Nabel. (Ulrike Wegner) [Mehr lesen >](/pilze/delicatula-integrella-weißer-adernabeling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/steccherinum_bourdotii_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 03.07.2026: Der Buchenwald-Wasserfuß *Hydropus subalpinus* ist ein kleines Blätterpilzchen ohne markante Eigenschaften und das macht unseren aktuellen [Fundkorbpilz](AA "Glossar-") so schwer bestimmbar. Hinzu kommt, dass er in kaum einem populären Pilzbuch erwähnt wird. Wenn man sein Hütchen ruckartig nach oben abzieht, bleibt an der Stielspitze ein Knöpfchen zurück, ähnlich wie beim bekannteren [Knopfstieligen Rübling *Gymnopus confluens*](/pilze/gymnopus-confluens-knopfstieliger-rübling). Das hilft in Verbindung mit der weiß-striegeligen Stielbasis dann doch bei der Identifikation, die mikroskopisch durch schmale würstchenförmige Sporen untermauert werden kann. (Dieter Gewalt) [Mehr lesen >](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hymenochaete_rubiginosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Umberbraune Borstenscheibe *Hymenochaete rubiginosa*. Im Habitus ähnelt sie Schichtpilzen, sind mit diesen aber nicht verwandt. Sie wachsen als dünne, fächerförmige Hütchen an totem Holz, wobei die glatte bis runzelige Fruchtschicht (*Hymenium*) die Unterseite bildet und zum Teil als krustige, resupinate Schicht mit dem Holz verbunden ist. Die Fruchtkörper sind frisch lederig zäh, trocken steif und brüchig und können mehrere Jahre alt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/hymenochaete-rubiginosa-umberbraune-borstenscheibe)
 
 <div style="clear:  both"></div>
 
