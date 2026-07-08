@@ -18,7 +18,7 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include bild.html datei="/bilder/steccherinum_bourdotii_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-10.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rundsporige Resupinatstacheling *Steccherinum bourdotii*, der sich vom wesentlich häufigeren [Ockerrötlichen Resupinatstacheling Steccherinum ochraceum](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling) durch längere Stacheln unterscheidet. Auch seine Sopren sind anders geformt und größer: eiförmig bis kugelig, 4 -5 x 3 - 4 µm. Beide Arten wachsen vorwiegend an toten Laubholzästen, sind also etwas für passionierte "Stöckchendreher". (Dieter Gewalt) [Mehr lesen >](/pilze/steccherinum-bourdotii-rundsporiger-resupinatstacheling)
+08.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rundsporige Resupinatstacheling *Steccherinum bourdotii*, der sich vom wesentlich häufigeren [Ockerrötlichen Resupinatstacheling Steccherinum ochraceum](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling) durch längere Stacheln unterscheidet. Auch seine Sopren sind anders geformt und größer: eiförmig bis kugelig, 4 -5 x 3 - 4 µm. Beide Arten wachsen vorwiegend an toten Laubholzästen, sind also etwas für passionierte "Stöckchendreher". (Dieter Gewalt) [Mehr lesen >](/pilze/steccherinum-bourdotii-rundsporiger-resupinatstacheling)
 
 <div style="clear:  both"></div>
 
