@@ -25,4 +25,8 @@ Zur Gattung *Lentinus* zählen zähfleischige, auf Holz wachsende Blätterpilze 
 
 Eine der häufigen Arten ist der Schuppige Sägeblättling, ein Charakterpilz in Nadelwäldern, der bevorzugt einzeln oder in kleineren Gruppen an totem Kiefernholz wächst. Er verursacht eine kräftige Braunfäule, die das Holz vermorschen lässt und so für einen raschen Abbau sorgt. Die Hüte des Pilzes erreichen Duchmesser von  5 - 15 cm. Ihre weißlichen bis hell gelblichen Oberflächen sind mit abstehenden bräunlichen Schuppen bedeckt. Der ebenfalls weißliche Stiel ist unterhalb einer flüchtigen Ringzone ähnlich geschuppt wie der Hut. Der Geruch wird als fruchtig, anisartig süßlich oder nach Perubalsam beschrieben.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/lentinus_lepideus_04_uw.jpeg" %}
+{% include abbildung_ende.html legende="Foto: Ulrike Wegner" %}
+
 Da der Schuppige Sägeblättling auch im Freien verbautes Holz aggressiv angreift, gilt er als Schadpilz, der beträchtliche Schäden anrichten kann und sogar in Bergwerken beobachtet werden konnte. Er ist ziemlich trockenheitsresistent und kommt auch an sonnenexponierten Standorten vor. Wegen seines zähen Fleisches kommt er als Speisepilz nicht in Frage.
