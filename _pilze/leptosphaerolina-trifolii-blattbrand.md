@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Leptosphaerulina trifolii
   deutsch: Blattbrand
   referenz: (Rostr.) Petr.
-  erlaeuterung: Trifolium = Klee
+  erlaeuterung: trifolii = auf Klee (wachsend, vokommend)
   familie: Pleosporomycetidae
 profil:
   aktualisiert: 2024-07-25
