@@ -18,7 +18,7 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include bild.html datei="/bilder/arcyria_ferruginea_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
-10.07.2026: Auch in pilzarmen Zeiten können sich Ausflüge in den Wald lohnen. [Schleimpilze](/verwandt/schleimpilze-myxomyzeten) zum Beispiel sind zu jeder Jahreszeit zu finden und daher ist einer von ihnen unserer heutiger aktueller [Fundkorbpilz](AA "Glossar-"): der Rostfarbene Stielschleimpilz *Arcyria ferruginea*. Seine [Fruktifikationen](Fruktifikation "Glossar") bestehen aus gestielten unterschiedlich geformten [Sporocarpien](Sporocarp "Glossar"), die pink- bis ziegelrot gefärbt sind und im Reifestadium aufplatzen, wobei deren schleimiger Inhalt in wollige Knäuel zerfällt. Am Substrat bleiben dann gestielte Schälchen zurück. (Dieter Gewalt) [Mehr lesen >](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)
+10.07.2026: Auch in pilzarmen Zeiten können sich Ausflüge in den Wald lohnen. [Schleimpilze](/verwandt/schleimpilze-myxomyzeten) zum Beispiel sind zu jeder Jahreszeit zu finden und daher ist einer von ihnen unserer heutiger aktueller [Fundkorbpilz](AA "Glossar-"): der Rostfarbene Stielschleimpilz *Arcyria ferruginea*. Seine [Fruktifikationen](Fruktifikation "Glossar") bestehen aus gestielten unterschiedlich geformten [Sporocarpien](Sporocarpien "Glossar"), die pink- bis ziegelrot gefärbt sind und im Reifestadium aufplatzen, wobei deren schleimiger Inhalt in wollige Knäuel zerfällt. Am Substrat bleiben dann gestielte Schälchen zurück. (Dieter Gewalt) [Mehr lesen >](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)
 
 <div style="clear:  both"></div>
 
