@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/arcyria_ferruginea_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+10.07.2026: Auch in pilzarmen Zeiten können sich Ausflüge in den Wald lohnen. [Schleimpilze](/verwandt/schleimpilze-myxomyzeten) zum Beispiel sind zu jeder Jahreszeit zu finden und daher ist einer von ihnen unserer heutiger aktueller [Fundkorbpilz](AA "Glossar-"): der Rostfarbene Stielschleimpilz *Arcyria ferruginea*. Seine [Fruktifikationen](Fruktifikation "Glossar") bestehen aus gestielten unterschiedlich geformten [Sporocarpien](Sporocarp "Glossar"), die pink- bis ziegelrot gefärbt sind und im Reifestadium aufplatzen, wobei deren schleimiger Inhalt in wollige Knäuel zerfällt. Am Substrat bleiben dann gestielte Schälchen zurück. (Dieter Gewalt) [Mehr lesen >](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/delicatula_integrella_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 04.07.2026: Für Speisezwecke kommt unser aktueller [Fundkorbpilz](AA "Glossar-") nicht in Frage. Es ist der Kratzende Kammtäubling *Russula pectinatoides*, eine häufige Art in einer überschaubaren Gruppe von Täublingen, die durch kammartig geriefte Hutränder gekennzeichnet ist. Sein Doppelgänger ist der scharf schmeckende [Camembert-Täubling Russula amoenolens](/pilze/russula-amoenolens-camembert-täubling). Der Kratzende ist zwar nicht scharf, aber keineswegs angenehm im Geschmack. Bei einer Probe bewirkt er ein kratzendes Gefühl auf der Zunge oder im Rachen. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-pectinatoides-kratzender-kammtäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hydropus_subalpinus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.07.2026: Der Buchenwald-Wasserfuß *Hydropus subalpinus* ist ein kleines Blätterpilzchen ohne markante Eigenschaften und das macht unseren aktuellen [Fundkorbpilz](AA "Glossar-") so schwer bestimmbar. Hinzu kommt, dass er in kaum einem populären Pilzbuch erwähnt wird. Wenn man sein Hütchen ruckartig nach oben abzieht, bleibt an der Stielspitze ein Knöpfchen zurück, ähnlich wie beim bekannteren [Knopfstieligen Rübling *Gymnopus confluens*](/pilze/gymnopus-confluens-knopfstieliger-rübling). Das hilft in Verbindung mit der weiß-striegeligen Stielbasis dann doch bei der Identifikation, die mikroskopisch durch schmale würstchenförmige Sporen untermauert werden kann. (Dieter Gewalt) [Mehr lesen >](/pilze/hydropus-subalpinus-buchenwald-wasserfuss)
 
 <div style="clear:  both"></div>
 
