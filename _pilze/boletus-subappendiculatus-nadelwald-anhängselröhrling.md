@@ -31,7 +31,7 @@ literatur:
   - url: https://www.pilzkurse.com/gelber-steinpilz/
   - url: https://www.youtube.com/watch?v=Ver0pk-f7uI
 ---
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/boletus_subappendiculatus_01_wb.jpeg" nocrop=true %}
 {% include bild.html datei="/bilder/boletus_subappendiculatus_02_wb.jpeg" nocrop=true %}
 {% include bild.html datei="/bilder/boletus_subappendiculatus_03_wb.jpeg" nocrop=true %}
@@ -39,7 +39,7 @@ literatur:
 
 Der Anhängselröhrling *Boletus appendiculatus* ist traditionell als gut definierte (und auch essbare) in Laub- und Nadelwäldern vorkommende relativ seltene Art anerkannt. Seit 1979 wird die in Nadelwäldern wachsende Form als *Boletus* (jetzt: *Butyriboletus*) *subappendiculatus* abgetrennt. Rote Listen sowohl Österreichs als auch Deutschlands führen die Art in der Kategorie „ungefährdet“. Zur Verwendung als Speisepilz sei an dieser Stelle schon angemerkt, dass beide in Deutschland lt. Bundesartenschutzverordnung nicht gesammelt werden dürfen.
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/boletus_subappendiculatus_04_wi.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/boletus_subappendiculatus_05_wb.jpeg" nocrop=true %}
 {% include bild.html datei="/bilder/boletus_subappendiculatus_06_wb.jpeg" nocrop=true %}
