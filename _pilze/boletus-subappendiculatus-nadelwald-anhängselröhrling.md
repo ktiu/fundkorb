@@ -58,3 +58,40 @@ Basidien zylindrisch bis keulig oder spindelig, 4-sporig; Sporen elliptisch bis 
 
 Nicht verfärbendes Fleisch und etwas dunklere Hutfarbe sprechen für *Boletus subappendiculatus*, was aber z. B. von den meisten Fundmeldern aus dem Schwarzwald nicht anerkannt wird. Lt. *Wikipedia* kann die Art mikroskopisch durch die längeren und schmaleren Sporen abgegrenzt werden. Hier sind auch zahlreiche (nicht immer eindeutig nachweisbare) makroskopische Unterschiede angeführt.\
 Der Vergleich der bei *Breitenbach & Kränzlin* angegebenen Mikromerkmale zeigt ebenfalls nachvollziehbare Unterschiede:
+
+<div class="table-responsive">
+  <table class="table">
+    <thead>
+      <tr>
+        <th> </th> 
+        <th>Anhängselröhrling<br /><i>(Boletus appendiculatus)</i></th>
+        <th>Nadelwald-Anhängselröhrling<br /><i>Boletus subappendiculatus)</i></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Sporen: </th>
+        <td>9 – 13,3 x 3,6 – 5,2 µm</td>
+        <td>12 – 14,5 – 3,1 – 3,7</td>
+      </tr>
+      <tr>
+        <th>Basidien:</th>
+        <td>25 – 35 x 7 – 10 µm</td>
+        <td>30 – 35 x 10 – 13 µm</td>
+      </tr> 
+      <tr>
+        <th>Zystiden:</th>
+        <td>keulig, spindelig oder blasig</td>
+        <td>spindelig</td>
+      </tr>
+      <tr>
+        <th></th>
+        <td>28 – 70 x 10 – 17 µm</td>
+        <td>40 – 50 x 7 – 10 µm</td>
+      </tr>
+      <tr>
+        
+      </tr>
+    </tbody>
+  </table>
+</div>
