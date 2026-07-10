@@ -51,3 +51,6 @@ Fleisch dick, fest, im Hut mit zunehmendem Alter etwas weicher werdend, beim Ans
 
 **Mikromerkmale:**\
 Sporen ellipsoid, glatt, dickwandig, mit Tröpfchen 12 – 14 × 5 – 6 µm, Q = 2,0 – 2,5, mittleres Volumen = 190 µm³. Sporenpulver olivbraun. Basidien 25 – 35 × 8 – 11 µm, keulig, 4-sporig, Septen ohne Schnallen. Hymenialzystiden 30 – 54 × 8 – 15 µm, schmal, amphorenförmig bis spindelig oder flaschenförmig, mit warzenartiger Spitze. Kaulozystiden 25 – 60 × 8 – 16 µm, amphoren-, flaschenförmig oder spindelig, mit aufgesetztem Spitzchen. Huthaut ein Trichoderm aus verflochtenen, lang zylindrischen, septierten Hyphen ohne Schnallen; Endzellen aufrecht stehend.
+
+Anmerkung zu allen Porträts der Gattung Dickröhrlingsverwandte, die traditionell als **Boletus** bekannt war:
+Sie ist inzwischen in zahreiche neue Gattungen aufgegliedert worden. Wir führen im Fundkorb jedoch alle Arten weiterhin unter dem Titel **Boletus**, um eine äußerst wertvolle Funktion aufrechtzuerhalten, nämlich das bequeme und praktische Durch-, Vor- und Zurückblättern aller Dickröhrlinge. Selbstverständlich sind die neuen Namen stets im Kopfteil angegeben.
