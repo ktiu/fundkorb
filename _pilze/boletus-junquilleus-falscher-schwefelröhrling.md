@@ -59,3 +59,6 @@ Den Falschen Schwefelröhrling *Boletus junquilleus* habe ich bisher zweimal gef
 
 Er schmeckt sehr gut, tatsächlich sehr ähnlich wie Hexenröhrlinge, aber etwas milder und nussiger. Da der Pilz so selten ist, werde ich ihn in Zukunft schonen, die Fundstelle aber in den kommenden Jahren gut im Auge behalten.
 (*Verena Venske*, Braunschweig)
+
+Anmerkung zu allen Porträts der Gattung Dickröhrlingsverwandte, die traditionell als **Boletus** bekannt war:\
+Sie ist inzwischen in zahreiche neue Gattungen aufgegliedert worden. Wir führen im Fundkorb jedoch alle Arten weiterhin unter dem Titel **Boletus**, um eine äußerst wertvolle Funktion aufrechtzuerhalten, nämlich das bequeme und praktische Durch-, Vor- und Zurückblättern aller Dickröhrlinge. Selbstverständlich sind die neuen Namen stets im Kopfteil angegeben.
