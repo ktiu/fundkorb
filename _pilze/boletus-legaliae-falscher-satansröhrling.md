@@ -46,3 +46,6 @@ Verwechslungsmöglichkeiten:\
 [*Boletus rubrosanguineus* = Weinroter Purpur-Röhrling](/pilze/boletus-rubrosanguineus-weinroter-purpur-röhrling): eher schorfiger, felderig aufreißender Hut, Poren dunkler rot, nur jung auchgelblich, Sporen 11 – 14 (18) x 4,5 – 6 µm\
 *Boletus rhodoxanthus* = Blasshütiger Purpur-Röhrling: grauweißlicher Hut mit zartrosafarbenen Anteilen, Poren blutrot, jung aber auch gelb. Geruch schwach, etwas säuerlich (nicht maggiartig)\
 [Boletus calopus = Schönfuß-Röhrling](/pilze/boletus-calopus-schönfußröhrling): selten im Flachland, in höheren Lagen deutlich häufiger. Stiel schlanker als bei den zuvor genannten Arten, deutlich auf ganzer Länge mit Netz. Fleisch im Anschnitt sofort blauend, Geruch säuerlich (nicht maggiartig)
+
+Anmerkung zu allen Porträts der Gattung Dickröhrlingsverwandte, die traditionell als **Boletus** bekannt war:\
+Sie ist inzwischen in zahreiche neue Gattungen aufgegliedert worden. Wir führen im Fundkorb jedoch alle Arten weiterhin unter dem Titel **Boletus**, um eine äußerst wertvolle Funktion aufrechtzuerhalten, nämlich das bequeme und praktische Durch-, Vor- und Zurückblättern aller Dickröhrlinge. Selbstverständlich sind die neuen Namen stets im Kopfteil angegeben.
