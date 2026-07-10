@@ -23,3 +23,6 @@ Der Schönfußröhrling hat in der Tat einen schönen Fuß. Die Netzzeichnung is
 {% include abbildung_ende.html legende="2 Fotos: Bernhard Richard (im Spessart gefunden; mit besonders attraktiver Netzzeichnung)" %}
 
 Im Flachland ist der Schönfußröhrling extrem selten, in Mittelgebirgslagen schon eher anzutreffen, im subalpinen bis alpinen Bereich ein ansässiger Bewohner. Im Bayerischen Wald soll er sogar schon den Gallenröhrling verdrängt haben. Seine bevorzugten Baumpartner sind Fichten und Buchen.
+
+Anmerkung zu allen Porträts der Gattung Dickröhrlingsverwandte, die traditionell als **Boletus** bekannt war:\
+Sie ist inzwischen in zahreiche neue Gattungen aufgegliedert worden. Wir führen im Fundkorb jedoch alle Arten weiterhin unter dem Titel **Boletus**, um eine äußerst wertvolle Funktion aufrechtzuerhalten, nämlich das bequeme und praktische Durch-, Vor- und Zurückblättern aller Dickröhrlinge. Selbstverständlich sind die neuen Namen stets im Kopfteil angegeben.
