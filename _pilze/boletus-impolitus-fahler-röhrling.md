@@ -21,3 +21,6 @@ Der Fahle Röhrling lässt sich ziemlich gut erkennen: stämmiger Habitus, fahlb
 Es gibt allerdings einen Doppelgänger mit derselben Merkmalskombination: den Gefleckt-hütigen Röhrling (*Boletus depilatus*), der erst 1985 beschrieben und davor mit dem Fahlen Röhrling vermischt worden ist. Er ist weniger stämmig, wächst vor allem unter Hainbuche und besitzt einen wie gehämmert oder marmoriert wirkenden Hut. Eine wirkliche Unterscheidung ist nur durch eine mikroskopische Huthautuntersuchung möglich.
 
 Der Pilz ist essbar, sollte aber wegen seiner Seltenheit geschont werden.
+
+Anmerkung zu allen Porträts der Gattung Dickröhrlingsverwandte, die traditionell als **Boletus** bekannt war:\
+Sie ist inzwischen in zahreiche neue Gattungen aufgegliedert worden. Wir führen im Fundkorb jedoch alle Arten weiterhin unter dem Titel **Boletus**, um eine äußerst wertvolle Funktion aufrechtzuerhalten, nämlich das bequeme und praktische Durch-, Vor- und Zurückblättern aller Dickröhrlinge. Selbstverständlich sind die neuen Namen stets im Kopfteil angegeben.
