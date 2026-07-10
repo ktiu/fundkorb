@@ -95,3 +95,10 @@ Der Vergleich der bei *Breitenbach & Kränzlin* angegebenen Mikromerkmale zeigt 
     </tbody>
   </table>
 </div>
+
+Ganz und gar nicht scheint die Abbildung bei *Breitenbach & Kränzlin* mit neueren Beschreibungen übereinzustimmen: die Hutoberfläche ist sehr hell, soll aber lt. *Wikipedia* und anderen Quellen dunkler sein als bei *Boletus appendiculatus*, was auch auf die hier beschriebenen Funde in Österreich zutrifft. 
+
+Alle Fotos dieser Seite sind, wenn nicht anders angegeben, von *Werner Bauer*.
+
+Anmerkung zu allen Porträts der Gattung Dickröhrlingsverwandte, die traditionell als **Boletus** bekannt war:\
+Sie ist inzwischen in zahreiche neue Gattungen aufgegliedert worden. Wir führen im Fundkorb jedoch alle Arten weiterhin unter dem Titel **Boletus**, um eine äußerst wertvolle Funktion aufrechtzuerhalten, nämlich das bequeme und praktische Durch-, Vor- und Zurückblättern aller Dickröhrlinge. Selbstverständlich sind die neuen Namen stets im Kopfteil angegeben.
