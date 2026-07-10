@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/parmelina_tiliacea_02_sm.jpg" %}
+{% include abbildung_ende.html %}
+
+11.07.2026: Will man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Linden-Schüsselflechte *Parmelina tiliacea* finden, sollte man die Stämme alter, gesunder Linden inspizieren. Dort fühlt sich diese hellgraue Blattflechte am wohlsten. Auch andere Laubbäume mit nährstoffreicher Rinde wie Eschen und Ahorn, werden besiedelt. Die staubkornartigen Beläge bestehen aus sogenannten [Isidien](Isidien "Glossar"), die für die ungeschlechtliche Vermehrung verantwortlich sind. Für die sexuelle werden Sporen gebildet. (Dieter Gewalt) [Mehr lesen >](/pilze/parmelina-tiliacea-linden-schüsselflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/arcyria_ferruginea_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 05.07.2026: Der Kahle Krempling *Paxillus involutus* ist ein häufiger, überall vorkommender Pilz, der trotz seiner Lamellen zu den Röhrlingen (*Boletales*) gehört. Roh gegessen ist unser aktueller [Fundkorbpilz](AA "Glossar-") stark giftig, aber auch gut gegart kann er im Blut die Bildung von Antikörpern verursachen, was zu einer tödlichen Antigen-Antikörper-Reaktion führen kann. Vor ca. 60 Jahren und davor galt er noch als schmackhafter Speisepilz, aber schon damals wurde dringend empfohlen, ihn nur ausreichend erhitzt zu genießen. Inzwischen muss eindringlich vor seinem Verzehr gewarnt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_pectinatoides_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.07.2026: Für Speisezwecke kommt unser aktueller [Fundkorbpilz](AA "Glossar-") nicht in Frage. Es ist der Kratzende Kammtäubling *Russula pectinatoides*, eine häufige Art in einer überschaubaren Gruppe von Täublingen, die durch kammartig geriefte Hutränder gekennzeichnet ist. Sein Doppelgänger ist der scharf schmeckende [Camembert-Täubling Russula amoenolens](/pilze/russula-amoenolens-camembert-täubling). Der Kratzende ist zwar nicht scharf, aber keineswegs angenehm im Geschmack. Bei einer Probe bewirkt er ein kratzendes Gefühl auf der Zunge oder im Rachen. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-pectinatoides-kratzender-kammtäubling)
 
 <div style="clear:  both"></div>
 
