@@ -18,3 +18,6 @@ Der Anhängselröhrling ist ein gutes Beispiel für einen Pilz, der nicht zuletz
 
 Im montanen Nadelwald muss man entsprechende Funde mit *Boletus subappendiculatus* vergleichen, der sich kaum unterscheidet und vielfach nur als Form des gewöhnlichen Anhängselröhrlings angesehen wird.
 In unserem Kartierungsgebiet bisher nicht gemeldet: zwei Funde von Thomas Lehr: 28.08.2001 TK 5816.4.3 Waldrand in Hofheim-Lorsbach unter Buche, Eiche, Hainbuche 02.09.2001 TK 5915.1.2 Wiebaden Unter den Eichen
+
+Anmerkung zu allen Porträts der Gattung Dickröhrlingsverwandte, die traditionell als **Boletus** bekannt war:\
+Sie ist inzwischen in zahreiche neue Gattungen aufgegliedert worden. Wir führen im Fundkorb jedoch alle Arten weiterhin unter dem Titel **Boletus**, um eine äußerst wertvolle Funktion aufrechtzuerhalten, nämlich das bequeme und praktische Durch-, Vor- und Zurückblättern aller Dickröhrlinge. Selbstverständlich sind die neuen Namen stets im Kopfteil angegeben.
