@@ -40,5 +40,7 @@ Makroskopisch sind die schon erwähnte gelatinöse Schicht unter der Huthaut, ei
 {% include bild.html datei="/bilder/boletus_lignicola_02_jr.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Bei diesem Fund vom 11.11.2023 sind die Fruchtkörper schon reifer. Deutlich sieht man die kleinen eckigen Poren und im Schnitt die gelatinöse Schicht zwischen Huthaut und Hutfleisch" %}
 
-Der Nadelholz-Röhrling gilt als Speisepilz, ist aber aufgrund seiner Seltenheit zu schonen. 
+Der Nadelholz-Röhrling gilt als Speisepilz, ist aber aufgrund seiner Seltenheit zu schonen.
 
+Anmerkung zu allen Porträts der Gattung Dickröhrlingsverwandte, die traditionell als **Boletus** bekannt war:\
+Sie ist inzwischen in zahreiche neue Gattungen aufgegliedert worden. Wir führen im Fundkorb jedoch alle Arten weiterhin unter dem Titel **Boletus**, um eine äußerst wertvolle Funktion aufrechtzuerhalten, nämlich das bequeme und praktische Durch-, Vor- und Zurückblättern aller Dickröhrlinge. Selbstverständlich sind die neuen Namen stets im Kopfteil angegeben.
