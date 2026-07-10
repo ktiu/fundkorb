@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-10.07.2026: [Arcyria ferruginea - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)  
+11.07.2026: [Parmelia tiliacea - Linden-Schüsselflechte](/pilze/parmelina-tiliacea-linden-schüsselflechte)  
+10.07.2026: [Arcyria ferruginea - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
 09.07.2026: [Delicatula integrella - Weißer Adernabeling](/pilze/delicatula-integrella-weißer-adernabeling)\
 08.07.2026: [Steccherinum bourdotii - Rundsporiger Resupinatstacheling](/pilze/steccherinum-bourdotii-rundsporiger-resupinatstacheling)\
 07.07.2026: [Ceratiomyxa porioideseißes Netzpolster](/pilze/ceratiomyxa-porioides-weißes-netzpolster)\
