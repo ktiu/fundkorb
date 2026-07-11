@@ -33,3 +33,5 @@ In jungem Zustand besteht die [Fruktifikation](Fruktifikation "Glossar") aus ein
 {% include abbildung_ende.html legende="Netzartige Struktur des Capillitiums -- Sporen (2 Mikrofotos von Frank Kaster)" %}
 
 In der Vegrößerung sieht man die mit geschlossenen oder halben Ringen sowie kleineren Warzen besetzten ineinander verschlungenen Fäden des Capillitiums. Das Sporenpulver ist leuchtend rot bis dunkelbraun, die kugeligen hyalinen Sporen sind rötlich bis hellbraun und messen 7,5 - 10 x 7 - 9 µm.
+
+Möchten Sie mehr über diese faszinierenden Organismen erfahren? Hier geht´s zum [Fundkorb-Beitrag Schleimpilze](/verwandt/schleimpilze-myxomyzeten), der auch eine Liste aller Myxomyzeten im Fundkorb enthält.
