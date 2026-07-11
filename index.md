@@ -18,7 +18,7 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include bild.html datei="/bilder/boletus_subappendiculatus_01_wb.jpeg" %}
 {% include abbildung_ende.html %}
 
-12.07.2026: Bei einem gemütlichen Waldspaziergang und komfortablen 36°C habe ich im Dunkelsteinerwald in Niederösterreich mit dem Nadelwald- Anhängselröhrling *Boletus (Butyriboletus) subappendiculatus* einen interessanten aktuellen [Fundkorbpilz](AA "Glossar-") gefunden. In 530 mNN wuchsen am Rand eines Forstweges drei zusammengedrängte Fruchtkörper aus dem Boden. Im Umkreis von ca. 100 Metern sind in diesem Waldabschnitt ausschließlich Fichten zu finden. Mit dem neuen Fundort kann ich nun schon den dritten Nachweis dieses seltenen Pilzes in diesem Waldabschnitt melden. Zur sicheren Bestimmung wurden von *Bernd Miggel* die Sporen untersucht. (Werner Bauer) [Mehr lesen >](/pilze/boletus-subappendiculatus-nadelwald-anhängselröhrling)
+12.07.2026: Bei einem gemütlichen Waldspaziergang und komfortablen 36°C habe ich im Dunkelsteinerwald in Niederösterreich mit dem Nadelwald-Anhängselröhrling *Boletus (Butyriboletus) subappendiculatus* einen interessanten aktuellen [Fundkorbpilz](AA "Glossar-") gefunden. In 530 mNN wuchsen am Rand eines Forstweges drei zusammengedrängte Fruchtkörper aus dem Boden. Im Umkreis von ca. 100 Metern sind in diesem Waldabschnitt ausschließlich Fichten zu finden. Mit dem neuen Fundort kann ich nun schon den dritten Nachweis dieses seltenen Pilzes in diesem Waldabschnitt melden. Zur sicheren Bestimmung wurden von *Bernd Miggel* die Sporen untersucht. (Werner Bauer) [Mehr lesen >](/pilze/boletus-subappendiculatus-nadelwald-anhängselröhrling)
 
 <div style="clear:  both"></div>
 
