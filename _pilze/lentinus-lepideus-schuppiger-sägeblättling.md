@@ -27,6 +27,6 @@ Eine der häufigen Arten ist der Schuppige Sägeblättling, ein Charakterpilz in
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lentinus_lepideus_04_uw.jpeg" %}
-{% include abbildung_ende.html legende="Foto: Ulrike Wegner" %}
+{% include abbildung_ende.html legende="Man achte auf die Guttationstropfen (Foto: Ulrike Wegner)" %}
 
 Da der Schuppige Sägeblättling auch im Freien verbautes Holz aggressiv angreift, gilt er als Schadpilz, der beträchtliche Schäden anrichten kann und sogar in Bergwerken beobachtet werden konnte. Er ist ziemlich trockenheitsresistent und kommt auch an sonnenexponierten Standorten vor. Wegen seines zähen Fleisches kommt er als Speisepilz nicht in Frage.
