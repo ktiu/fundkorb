@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_subappendiculatus_01_wb.jpeg" %}
+{% include abbildung_ende.html %}
+
+12.07.2026: Bei einem gemütlichen Waldspaziergang und komfortablen 36°C habe ich im Dunkelsteinerwald in Niederösterreich mit dem Nadelwald- Anhängselröhrling *Boletus subappendiculatus* einen interessanten aktuellen [Fundkorbpilz](AA "Glossar-") gefunden. In 530 mNN wuchsen am Rand eines Forstweges drei zusammengedrängte Fruchtkörper aus dem Boden. Im Umkreis von ca. 100 Metern sind in diesem Waldabschnitt ausschließlich Fichten zu finden. Mit dem neuen Fundort kann ich nun schon den dritten Nachweis dieses seltenen Pilzes in diesem Waldabschnitt melden. Zur sicheren Bestimmung wurden von *Bernd Miggel* die Sporen untersucht. (Werner Bauer) [Mehr lesen >](/pilze/boletus-subappendiculatus-nadelwald-anhängselröhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/parmelina_tiliacea_02_sm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 06.07.2026: [Schleimpilze](/verwandt/schleimpilze-myxomyzeten) sind eigentlich keine Pilze sondern clevere Tiere, die sich wie Pilze mittels Sporen vermehren. Ein ausgesprochen hübscher ist der Geweihförmige Schleimpilz *Ceratiomyxa fruticulosa*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Um seine Attraktivität zu erkennen, muss man ihn allerdings mit der Lupe betrachten. (Dieter Gewalt) [Mehr lesen >](/pilze/ceratiomyxa-fruticulosa-geweihförmiger-schleimpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/paxillus_involutus_04_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.07.2026: Der Kahle Krempling *Paxillus involutus* ist ein häufiger, überall vorkommender Pilz, der trotz seiner Lamellen zu den Röhrlingen (*Boletales*) gehört. Roh gegessen ist unser aktueller [Fundkorbpilz](AA "Glossar-") stark giftig, aber auch gut gegart kann er im Blut die Bildung von Antikörpern verursachen, was zu einer tödlichen Antigen-Antikörper-Reaktion führen kann. Vor ca. 60 Jahren und davor galt er noch als schmackhafter Speisepilz, aber schon damals wurde dringend empfohlen, ihn nur ausreichend erhitzt zu genießen. Inzwischen muss eindringlich vor seinem Verzehr gewarnt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/paxillus-involutus-kahler-krempling)
 
 <div style="clear:  both"></div>
 
