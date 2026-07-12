@@ -18,6 +18,11 @@ literatur:
 ---
 Rotkappen sind nicht leicht zu bestimmen. Es handelt sich um stark spezialisierte [Mykorrhizapilze](Mykorrhiza "Glossar"), die jeweils nur einen [Symbiosepartner](Symbiose "Glossar") haben, in diesem Fall die Fichte. *Leccinum piceinum* war früher zusammen mit der Kiefernrotkappe unter dem Namen Nadelwald-Rotkappe *Leccinum vulpinum* vereint. Probleme bei der Bestimmung hat man vor allem dann, wenn mehrere Baumarten am Fundort der Pilze stehen. Steht im Wald eine Rotkappe zwischen Kiefern und Fichten, stellt sich die Frage: Ist es eine Kiefern- oder Fichtenrotkappe? Auf ein wichtiges Unterscheidungsmerkmal hat *Karin Montag* hingewiesen: die Kiefernrotkappe soll nicht verfärbendes Stielfleisch haben. Bei der Fichtenrotkappe *Leccinum piceinum* verfärbt es sich dagegen rosa, wie auf dem oben abgebildeten linken Exemplar deutlich zu sehen ist.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/leccinum_piceinum_02_wb.jpeg" nocrop=true %}
+{% include bild.html datei="/bilder/leccinum_piceinum_03_wb.jpeg" nocrop=true %}
+{% include abbildung_ende.html legende="2 Fotos: Werner Bauer" %}
+
 Für die Küche spielen solche Feinheiten keine Rolle. Alle Rotkappen sind ausgezeichnete Speisepilze. Es sollte aber der Artenschutz beachtet werden. Alle Rotkappen sind gesetzlich geschützt und dürfen nur für den Eigenbedarf und in geringen (angemessenen) Mengen gesammelt werden.
 
 In Mitteleuropa kommen je nach Artauffassung bis zu sechs Rotkappen vor:\
