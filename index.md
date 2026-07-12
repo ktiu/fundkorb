@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinopsis_alopecia_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+13.07.2026: Ein nicht gerade alltäglicher Vertreter seiner Gattung und aktueller [Fundkorbpilz](AA "Glossar-") ist der Große Rausportintling *Coprinopsis alopecia*, den ich kürzlich wieder auf dem Dietzenbacher Friedhof gefunden habe. Er hat große Ähnlichkeit mit dem ebenfalls seltenen [Braunschuppigen Tintling *Coprinopsis romagnesiana*](/pilze/coprinopsis-romagnesiana-braunschuppiger-tintling) und dem häufigen [Faltentintling *Coprinopsis atramentaria*](/pilze/coprinopsis-atramentaria-faltentintling), die beide glatte Sporen haben. Makroskopisch zeichnet sich *C. alopecia* durch einen fein flockigen Stiel aus. Um das sicher zu erkennen, ist allerdings eine Lupe erforderlich. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinopsis-alopecia-großer-rausportintling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_subappendiculatus_01_wb.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -51,22 +59,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 08.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Rundsporige Resupinatstacheling *Steccherinum bourdotii*, der sich vom wesentlich häufigeren [Ockerrötlichen Resupinatstacheling Steccherinum ochraceum](/pilze/steccherinum-ochraceum-ockerrötlicher-resupinatstacheling) durch längere Stacheln unterscheidet. Auch seine Sopren sind anders geformt und größer: eiförmig bis kugelig, 4 -5 x 3 - 4 µm. Beide Arten wachsen vorwiegend an toten Laubholzästen, sind also etwas für passionierte "Stöckchendreher". (Dieter Gewalt) [Mehr lesen >](/pilze/steccherinum-bourdotii-rundsporiger-resupinatstacheling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ceratiomyxa_fruticulosa_var._poroides_01_gb.jpg" %}
-{% include abbildung_ende.html %}
-
-07.07.2026: Nicht weit von unserem gestrigen [Fundkorbpilz](AA "Glossar-") entfernt fanden wir einen sehr nahen Verwandten, das Weiße Netzpolster *Ceratiomyxa porioides*. Es galt früher als Varietät des [Geweihförmigen Schleimpilzes Ceratiomyxa fruticulosa](/pilze/ceratiomyxa-fruticulosa-geweihförmiger-schleimpilz), obwohl sein Erscheinungsbild nicht ähnlich ist. Beide Arten erscheinen typischerweise - auch gemeinsam - auf feuchtem toten Laubholz. Der Schleimpilz bildet weiße Polster, manchmal mit gelblichen Nuancen, die meist aus mehreren Einheiten zusammengesetzt sind. Ihre Schönheit wird vor allem mit der Lupe betrachtet sichtbar. (Ulrike Wegner) [Mehr lesen >](/pilze/ceratiomyxa-porioides-weißes-netzpolster)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ceratiomyxa_fruticulosa_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-06.07.2026: [Schleimpilze](/verwandt/schleimpilze-myxomyzeten) sind eigentlich keine Pilze sondern clevere Tiere, die sich wie Pilze mittels Sporen vermehren. Ein ausgesprochen hübscher ist der Geweihförmige Schleimpilz *Ceratiomyxa fruticulosa*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Um seine Attraktivität zu erkennen, muss man ihn allerdings mit der Lupe betrachten. (Dieter Gewalt) [Mehr lesen >](/pilze/ceratiomyxa-fruticulosa-geweihförmiger-schleimpilz)
 
 <div style="clear:  both"></div>
 
