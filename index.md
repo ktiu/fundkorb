@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leccinum_piceinum_03_wb.jpeg" %}
+{% include abbildung_ende.html %}
+
+14.07.2026: Reichlich Pilze gab es nicht bei unserer Wanderung am Nebelstein im niederösterreichischen Waldviertel unweit der tschechichen Grenze, aber immerhin zwei Rotkappen-Arten, von denen ich heute eine als aktuellen [Fundkorbpilz](AA "Glossar-") melden kann: die Fichtenrotkappe *Leccinum piceinum*. Alle Rotkappen sind ausgezeichnete Speisepilze aber gesetzlich geschützt und dürfen nicht gesammelt werden. (Werner Bauer) [Mehr lesen >](/pilze/leccinum-piceinum-fichtenrotkappe)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinopsis_alopecia_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
