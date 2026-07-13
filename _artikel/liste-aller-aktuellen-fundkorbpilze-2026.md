@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-13.07.2026: [Coprinopsis alopecia - Großer Rausportintling](/pilze/coprinopsis-alopecia-großer-rausportintling)  
+14.07.2026: [Leccinum piceinum - Fichtenrotkappe](/pilze/leccinum-piceinum-fichtenrotkappe)
+13.07.2026: [Coprinopsis alopecia - Großer Rausportintling](/pilze/coprinopsis-alopecia-großer-rausportintling)\
 12.07.2026: [Boletus subappendiculatus - Nadelwald-Anhängselröhrling](/pilze/boletus-subappendiculatus-nadelwald-anhängselröhrling)\
 11.07.2026: [Parmelia tiliacea - Linden-Schüsselflechte](/pilze/parmelina-tiliacea-linden-schüsselflechte)\
 10.07.2026: [Arcyria ferruginea - Rostfarbener Stielschleimpilz](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)\
