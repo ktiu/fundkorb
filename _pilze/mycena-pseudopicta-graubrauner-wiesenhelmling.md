@@ -17,7 +17,13 @@ literatur:
       403 – 404"
   - url: https://www.pilze-deutschland.de/organismen/mycena-pseudopicta-je-lange-k%C3%BChner-1938-1
 ---
-Um diesen hübschen und seltenen Helmling zu finden, empfiehlt es sich, spezielle Biotope aufzusuchen: Mager- und Trockenrasen auf kalkhaltigen Böden. Es handelt sich um eine kleine Art mit graubraunen Farben, deren Hüte im Normalfall 0,5 bis 1,5 cm Durchmesser erreichen. Auffallend ist ein schmaler weißlicher Hutrand und ein spitzes Buckelchen in der Mitte.  Die grau-weißlichen Lamellen sind in einem eleganten Bogen herablaufend am Stiel angewachsen, ihre Schneiden heller als die Flächen. Die ebenfalls grau-weißlichen, stellenweise fein bereiften Stiele werden bis zu 4 cm lang, die Stielbasis ist mit hellem [Myzelfilz](Myzel "Glossar") bekleidet. Der Geruch wird als schwach nitrös beschrieben, der Geschmack als mild bis leicht bitter. Die Fruchtkörper sind trocken, weder schmierig noch klebrig. Das Sporenpulver ist gattungstypisch weiß.
+Unter den Helmlingen gibt es nur sehr wenige, die typischerweise bzw. auch in Wiesen und Weiden vorkommen, was ihre Bestimmung sehr erleichtert. Dazu gehören
+[Mycena aetites = Graublättriger Rußhelmling](/pilze/mycena-aetites-graublättriger-rußhelmling)
+[Mycena flavoalba = Gelbweißer Helmling](/pilze/mycena-flavoalba-gelbweißer-helmling), der auch in Wäldern vorkommt, gern bei Moosen
+[Mycena olivaceomarginata = Braunschneidiger Helmling](/pilze/mycena-olivaceomarginata-braunschneidiger-helmling), typischer Spätherbstpilz auf Grasflächen 	
+sowie der hier vorgestellte Graubraune Wiesenhelmling.
+
+Um diesen hübschen und seltenen Helmling zu finden, empfiehlt es sich, spezielle Biotope aufzusuchen: Mager- und Trockenrasen auf kalkhaltigen Böden. Es handelt sich um eine kleine Art mit graubraunen Farben, deren Hüte im Normalfall 0,5 bis 1,5 cm Durchmesser erreichen. Auffallend ist ein schmaler weißlicher Hutrand und ein spitzes Buckelchen in der Mitte.  Die grau-weißlichen Lamellen sind in einem eleganten Bogen herablaufend am Stiel angewachsen, ihre Schneiden heller als die Flächen. Die ebenfalls grau-weißlichen, stellenweise fein bereiften Stiele werden bis zu 5 cm lang, die Stielbasis ist mit hellem [Myzelfilz](Myzel "Glossar") bekleidet. Der Geruch wird als schwach nitrös beschrieben, der Geschmack als mild bis leicht bitter. Die Fruchtkörper sind trocken, weder schmierig noch klebrig. Das Sporenpulver ist gattungstypisch weiß.
 
 Mikromerkmale: Basidien 2-sporig, Sporen zylindrisch-oval bis ellipsoid, die Maße werden in der Literatur unterschiedlich angegeben zwischen 8,5 – 14 x 4,5 – 7  µm, Zystiden 15 – 25 µm lang.
 
