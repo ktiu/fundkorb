@@ -11,6 +11,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/leptosphaerolina_trifolii_01_uw.jpg
+  legende: "24.07.2024: Patershäuser Hof bei Heusenstamm, Kreis Offenbach, MTB
+    5918.4.2 (Foto: Ulrike Wegner)"
 literatur:
   - url: https://www.pflanzenkrankheiten.ch/krankheiten-an-kulturpflanzen-2/krankheiten-an-futterleguminosen/weissklee/leptoshaerulina-trifolii-tr
 ---
@@ -18,4 +20,7 @@ literatur:
 
 An manchen Stellen sieht man deutlich die „Löcher“ in den Flecken. *Leptosphaerulina trifolii* bildet im hellen Zentrum der Blattflecken zahlreiche kugelförmige Pseudothecien (von griechisch *pseudo*- = nachahmen und *thēkion* = kleines Behältnis). Sobald die äußeren Bedingungen günstig sind, kühle Temperaturen und hohe Luftfeuchtigkeit, werden die Ascosporen aktiv aus den [Asci](Asci "Glossar") ausgestoßen. Falls diese auf eine Wirtspflanze gelangen, keimen sie dort aus und dringen direkt durch die Kutikula („Häutchen“, von lat. *cutis* = Haut; äußerste Hautschicht) in das Pflanzengewebe ein. Der Parasit kann extreme Temperaturen, Trockenheit und Feuchtigkeit überstehen. Pseudothecien überwintern auf abgestorbenen Blättern und Blattstielen und die darin gebildeten Ascosporen lösen im Frühling eine Primärinfektion aus.
 
-Funddaten: 24.07.2024 am Patershäuser Hof bei Heusenstamm, Kreis Offenbach (MTB 5918.4.2) 
+Weitere Blattfleckenerreger an Klee sind:\
+[*Cymadothea trifolii* = Kleeschwärze](/pilze/cymadothea-trifolii-kleeschwärze)\
+*Pseudopeziza trifolii* = Klappenschorf\
+*Stemphylium sarciniforme* = Braunfleckenkrankheit
