@@ -15,10 +15,10 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leccinum_versipelle_02_tl.jpg" %}
+{% include bild.html datei="/bilder/leccinum_versipelle_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
-15.07.2026: Die zweite Rotkappe, die wir bei unserer Wanderung am Nebelstein gefunden haben, war die Birkenrotkappe *Leccinum versipelle*. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") sieht dem gestrigen, der [Fichtenrotkappe](/pilze/leccinum-piceinum-fichtenrotkappe), zum Verwechseln ähnlich. Um sie sicher zu unterscheiden, ist auf die Begleitbäume zu achten. Wenn unser Pilz aber in einem Mischwald zwischen einer Fichte und einer Birke steht, haben wir ein Problem. Dann kommt es u. a. auf Farbveränderungen des Fleisches, Beschaffenheit der Stielbekleidung, aber auch auf mikroskopische Merkmale und chemische Reaktionen mit diversen Reagenzien an.. (Werner Bauer) [Mehr lesen >](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)
+15.07.2026: Die zweite Rotkappe, die wir bei unserer Wanderung am Nebelstein gefunden haben, war die Birkenrotkappe *Leccinum versipelle*. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") sieht dem gestrigen, der [Fichtenrotkappe](/pilze/leccinum-piceinum-fichtenrotkappe), zum Verwechseln ähnlich. Um sie sicher zu unterscheiden, ist auf die Begleitbäume zu achten. Wenn unser Pilz aber in einem Mischwald zwischen einer Fichte und einer Birke steht, haben wir ein Problem. Dann kommt es u. a. auf Farbveränderungen des Fleisches, Beschaffenheit der Stielbekleidung, aber auch auf mikroskopische Merkmale und chemische Reaktionen mit diversen Reagenzien an. (Werner Bauer) [Mehr lesen >](/pilze/leccinum-versipelle-birkenrotkappe-heiderotkappe)
 
 <div style="clear:  both"></div>
 
