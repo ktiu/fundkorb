@@ -22,9 +22,9 @@ literatur:
 
 Bei diesen schwarzen Flecken, die im Frühjahr und Sommer auf den Oberseiten der Blätter von Weißklee (*Trifolium repens*) und Perserklee (*Trifolium resupinatum*) erscheinen, handelt es sich um den Ascomyzeten *Cymadothea trifolii*, der als Kleeschwärze bekannt ist. Auf den Blattunterseiten zeigen sich dunkelbraune bis schwarze krümelige Polster, sogenannte Konidienträger. Auf ihnen bilden sich durch Zerfall oder Abschnürung aus Pilzfäden (*Hyphen*) die ungeschlechtlichen Konidiensporen, die für die asexuelle Vermehrung zuständig sind. Im Herbst bildet der Pilz eine weitere Sporenform, Pyknidiosporen genannt, die andere Kleeblätter infizieren können. Auf im Herbst abgefallenen und verfaulten Blättern überwintert der Pilz und produziert in Asci genannten Schläuchen die sexuellen Ascosporen, die im folgenden Frühjahr oder Frühsommer neue Kleeblätter erreichen und auf ihnen die erneute Primärinfektion auslösen können.
 
-Der Pilz ist in Deutschland überall häufig, wird aber wenig beachtet und auch nicht flächendeckend kartiert. Daher weist die [DGfM-Verbreitungskarte](https://www.pilze-deutschland.de/organismen/?qstring=Cymadothea+trifolii) (Stand 07.2026) nur ein äußerst lückenhaftes Verbreitungsmuster aus. 
+Der Pilz ist in Deutschland überall häufig, wird aber wenig beachtet und auch nicht flächendeckend kartiert. Daher weist die [DGfM-Verbreitungskarte](https://www.pilze-deutschland.de/organismen/polythrincium-trifolii-kunze-1817-1) (Stand 07.2026) nur ein äußerst lückenhaftes Verbreitungsmuster aus. 
 
-Als Blattfleckenerreger kann der Pilz Ertrag und Qualität von Tierfutter beeinträchtigen sowie Fruchtbarkeitsstörungen und Erkrankungen bei Nutztieren verursachen. Weitere Blattfleckenerreger an Klee sind:  
-*Pseudopeziza trifolii* = Klappenschorf  
-[*Leptosphaerulina trifolii* = Blattbrand](/pilze/leptosphaerolina-trifolii-blattbrand)  
+Als Blattfleckenerreger kann der Pilz Ertrag und Qualität von Tierfutter beeinträchtigen sowie Fruchtbarkeitsstörungen und Erkrankungen bei Nutztieren verursachen. Weitere Blattfleckenerreger an Klee sind:\
+*Pseudopeziza trifolii* = Klappenschorf\
+[*Leptosphaerulina trifolii* = Blattbrand](/pilze/leptosphaerolina-trifolii-blattbrand)\
 *Stemphylium sarciniforme* = Braunfleckenkrankheit
