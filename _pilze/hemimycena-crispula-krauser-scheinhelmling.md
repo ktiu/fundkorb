@@ -30,7 +30,7 @@ Die Hütchen dieser seltenen Art  werden kaum mehr als 1,5 oder 2 Millimeter bre
 Mikromerkmale:\
 Basidien schlank keulig, 4-, seltener 2-sporig, ca. 11 - 30 µm lang und 4 - 6 mm breit; Sporen glatt, zylindrisch, mit Tropfen, 6,5 – 11 x 3,5 - 6 µm; Hutdeckschicht mit fingerförmigen Auswüchsen und dickwandigen Setae; Schnallen vorhanden.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/hemimycena_crispula_02_md.jpg" %}
 {% include abbildung_ende.html legende="Sporen" %}
 
