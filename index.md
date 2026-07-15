@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/conocybe_lactea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Milchweiße Samthäubchen *Conocybe lactea*. Ein hübsches Kerlchen, das hier mit den in der Umgebung wachsenden Gänseblümchen um den Schönheitspreis streitet. Aber bitte nicht anfassen! Seine dünnen Stiele sind wie der gesamte Pilz sehr zerbrechlich. (Dieter Gewalt) [Mehr lesen >](/pilze/conocybe-lactea-milchweißes-samthäubchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leccinum_versipelle_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 10.07.2026: Auch in pilzarmen Zeiten können sich Ausflüge in den Wald lohnen. [Schleimpilze](/verwandt/schleimpilze-myxomyzeten) zum Beispiel sind zu jeder Jahreszeit zu finden und daher ist einer von ihnen unserer heutiger aktueller [Fundkorbpilz](AA "Glossar-"): der Rostfarbene Stielschleimpilz *Arcyria ferruginea*. Seine [Fruktifikationen](Fruktifikation "Glossar") bestehen aus gestielten unterschiedlich geformten [Sporocarpien](Sporocarpien "Glossar"), die pink- bis ziegelrot gefärbt sind und im Reifestadium aufplatzen, wobei deren schleimiger Inhalt in wollige Knäuel zerfällt. Am Substrat bleiben dann gestielte Schälchen zurück. (Dieter Gewalt) [Mehr lesen >](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/delicatula_integrella_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.07.2026: Es gibt eine ganze Reihe von winzigen Pilzchen, in die man sich beim Anschauen verlieben könnte. Zum Beispiel den Weißen Adernabeling *Delicatula integrella*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Zierlich und zart, so präsentiert er sich dem Auge des Pilzfreundes und das sind auch die Eigenschaften, die sein Gattungsname *„Delicatula“* zum Ausdruck bringt. Er kann einzeln oder zu einigen gesellig erscheinen, aber auch regelrechte Teppiche mit mehreren hundert Fruchtkörpern bilden. Seine alabaster-weißen  Hütchen erreichen gerade mal Durchmesser von 0,5 bis maximal 1,5 cm und haben in der Mitte ihren typischen Nabel. (Ulrike Wegner) [Mehr lesen >](/pilze/delicatula-integrella-weißer-adernabeling)
 
 <div style="clear:  both"></div>
 
