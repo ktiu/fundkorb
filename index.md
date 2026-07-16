@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phylloporus_pelletieri_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.07.2026: Ein dritter erfreulicher Fund bei unserer Nebelstein-Wanderung in Niederösterreich war das Goldblatt *Phylloporus pelletieri*. Diesen aktuellen [Fundkorbpilz](AA "Glossar-") darf man mit Fug und Recht eine Rarität nennen, zumal er unter den Röhrlingen einer der wenigen mit Lamellen ist. Und die sind auch noch wunderschön goldgelb gefärbt. Manchmal findet man Exemplare mit Querverbindungen. Das sieht dann so aus, als hätte sich der Pilz nicht entscheiden können, ob ein Lamellen- oder Röhrlingspilz aus ihm werden soll. (Werner Bauer) [Mehr lesen >](/pilze/phylloporus-pelletieri-goldblatt)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/conocybe_lactea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 11.07.2026: Will man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Linden-Schüsselflechte *Parmelina tiliacea* finden, sollte man die Stämme alter, gesunder Linden inspizieren. Dort fühlt sich diese hellgraue Blattflechte am wohlsten. Auch andere Laubbäume mit nährstoffreicher Rinde wie Eschen und Ahorn, werden besiedelt. Die staubkornartigen Beläge bestehen aus sogenannten [Isidien](Isidien "Glossar"), die für die ungeschlechtliche Vermehrung verantwortlich sind. Für die sexuelle werden Sporen gebildet. (Dieter Gewalt) [Mehr lesen >](/pilze/parmelina-tiliacea-linden-schüsselflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/arcyria_ferruginea_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-10.07.2026: Auch in pilzarmen Zeiten können sich Ausflüge in den Wald lohnen. [Schleimpilze](/verwandt/schleimpilze-myxomyzeten) zum Beispiel sind zu jeder Jahreszeit zu finden und daher ist einer von ihnen unserer heutiger aktueller [Fundkorbpilz](AA "Glossar-"): der Rostfarbene Stielschleimpilz *Arcyria ferruginea*. Seine [Fruktifikationen](Fruktifikation "Glossar") bestehen aus gestielten unterschiedlich geformten [Sporocarpien](Sporocarpien "Glossar"), die pink- bis ziegelrot gefärbt sind und im Reifestadium aufplatzen, wobei deren schleimiger Inhalt in wollige Knäuel zerfällt. Am Substrat bleiben dann gestielte Schälchen zurück. (Dieter Gewalt) [Mehr lesen >](/pilze/arcyria-ferruginea-rostfarbener-stielschleimpilz)
 
 <div style="clear:  both"></div>
 
