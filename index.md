@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/scleroderma_citrinum_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+18.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Dickschalige Kartoffelbovist *Scleroderma citrinum*. Er wird auch Gemeiner Kartoffelbovist genannt, denn unter den fünf in Deutschland nachgewiesenen *Scleroderma*-Arten ist er mit Abstand der häufigste. Er liebt saure Böden und ist von Juni bis Dezember oft massenhaft an Waldwegrändern zu finden. Auch in Parkanlagen lässt er sich gern blicken. An seiner dicken Schale ist er immer gut zu erkennen. Sein unangenehm metallischer Geruch signalisiert es schon: für die Küche ist er nicht geeignet. (Dieter Gewalt) [Mehr lesen >](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phylloporus_pelletieri_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 12.07.2026: Bei einem gemütlichen Waldspaziergang und komfortablen 36°C habe ich im Dunkelsteinerwald in Niederösterreich mit dem Nadelwald-Anhängselröhrling *Boletus (Butyriboletus) subappendiculatus* einen interessanten aktuellen [Fundkorbpilz](AA "Glossar-") gefunden. In 530 mNN wuchsen am Rand eines Forstweges drei zusammengedrängte Fruchtkörper aus dem Boden. Im Umkreis von ca. 100 Metern sind in diesem Waldabschnitt ausschließlich Fichten zu finden. Mit dem neuen Fundort kann ich nun schon den dritten Nachweis dieses seltenen Pilzes in diesem Waldabschnitt melden. Zur sicheren Bestimmung wurden von *Bernd Miggel* die Sporen untersucht. (Werner Bauer) [Mehr lesen >](/pilze/boletus-subappendiculatus-nadelwald-anhängselröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/parmelina_tiliacea_02_sm.jpg" %}
-{% include abbildung_ende.html %}
-
-11.07.2026: Will man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), die Linden-Schüsselflechte *Parmelina tiliacea* finden, sollte man die Stämme alter, gesunder Linden inspizieren. Dort fühlt sich diese hellgraue Blattflechte am wohlsten. Auch andere Laubbäume mit nährstoffreicher Rinde wie Eschen und Ahorn, werden besiedelt. Die staubkornartigen Beläge bestehen aus sogenannten [Isidien](Isidien "Glossar"), die für die ungeschlechtliche Vermehrung verantwortlich sind. Für die sexuelle werden Sporen gebildet. (Dieter Gewalt) [Mehr lesen >](/pilze/parmelina-tiliacea-linden-schüsselflechte)
 
 <div style="clear:  both"></div>
 
