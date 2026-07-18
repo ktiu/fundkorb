@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leptosphaerolina_trifolii_01_uw.jpg" %}
+{% include abbildung_ende.html %}
+
+19.07.2026: Es war nicht nicht Sonne, sondern unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blattbrand *Leptosphaerulina trifolii*, der seine Wirtspflanze, den Kriechklee, "verbrannt" aussehen lässt. Der Schlauchpilz verursacht die braunen Flecken und bildet in deren hellem Zentrum zahlreiche winzige kugelförmige Fruchtkörper, die aufplatzen und kleine Löcher hinterlassen. Auf einer neuen Wirtspflanze keimen die Sporen aus und dringen direkt in das Pflanzengewebe ein. Der Parasit kann extreme Temperaturen, Trockenheit und Feuchtigkeit überstehen. (Ulrike Wegner) [Mehr lesen >](/pilze/leptosphaerolina-trifolii-blattbrand)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/scleroderma_citrinum_02_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
