@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cercospora_microsora_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.07.2026: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist, weil sich wegen der Trockenheit gerade nichts Besseres anbietet, die Linden-Blattsprenkelung Cercospora microsora. Bei diesen unscheinbaren Flecken handelt es sich um einen Rußtaupilz (Ordnung der *Capnidiales*), der keine Gefährdung für den Baum darstellt. (Dieter Gewalt) [Mehr lesen >](/pilze/cercospora-microsora-linden-blattsprenkelung)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leptosphaerolina_trifolii_01_uw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,22 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 14.07.2026: Reichlich Pilze gab es nicht bei unserer Wanderung am Nebelstein im niederösterreichischen Waldviertel unweit der tschechichen Grenze, aber immerhin zwei Rotkappen-Arten, von denen ich heute eine als aktuellen [Fundkorbpilz](AA "Glossar-") melden kann: die Fichtenrotkappe *Leccinum piceinum*. Alle Rotkappen sind ausgezeichnete Speisepilze aber gesetzlich geschützt und dürfen nicht gesammelt werden. (Werner Bauer) [Mehr lesen >](/pilze/leccinum-piceinum-fichtenrotkappe)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinopsis_alopecia_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-13.07.2026: Ein nicht gerade alltäglicher Vertreter seiner Gattung und aktueller [Fundkorbpilz](AA "Glossar-") ist der Große Rausportintling *Coprinopsis alopecia*, den ich kürzlich wieder auf dem Dietzenbacher Friedhof gefunden habe. Er hat große Ähnlichkeit mit dem ebenfalls seltenen [Braunschuppigen Tintling *Coprinopsis romagnesiana*](/pilze/coprinopsis-romagnesiana-braunschuppiger-tintling) und dem häufigen [Faltentintling *Coprinopsis atramentaria*](/pilze/coprinopsis-atramentaria-faltentintling), die beide glatte Sporen haben. Makroskopisch zeichnet sich *C. alopecia* durch einen fein flockigen Stiel aus. Um das sicher zu erkennen, ist allerdings eine Lupe erforderlich. (Dieter Gewalt) [Mehr lesen >](/pilze/coprinopsis-alopecia-großer-rausportintling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_subappendiculatus_01_wb.jpeg" %}
-{% include abbildung_ende.html %}
-
-12.07.2026: Bei einem gemütlichen Waldspaziergang und komfortablen 36°C habe ich im Dunkelsteinerwald in Niederösterreich mit dem Nadelwald-Anhängselröhrling *Boletus (Butyriboletus) subappendiculatus* einen interessanten aktuellen [Fundkorbpilz](AA "Glossar-") gefunden. In 530 mNN wuchsen am Rand eines Forstweges drei zusammengedrängte Fruchtkörper aus dem Boden. Im Umkreis von ca. 100 Metern sind in diesem Waldabschnitt ausschließlich Fichten zu finden. Mit dem neuen Fundort kann ich nun schon den dritten Nachweis dieses seltenen Pilzes in diesem Waldabschnitt melden. Zur sicheren Bestimmung wurden von *Bernd Miggel* die Sporen untersucht. (Werner Bauer) [Mehr lesen >](/pilze/boletus-subappendiculatus-nadelwald-anhängselröhrling)
 
 <div style="clear:  both"></div>
 
