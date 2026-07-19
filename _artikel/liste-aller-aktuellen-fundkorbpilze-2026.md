@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-19.07.2026: [Leptosphaerolina trifolii - Blattbrand](/pilze/leptosphaerolina-trifolii-blattbrand)  
+20.07.2026: [Cercospora microsora - Linden-Blattsprenkelung](/pilze/cercospora-microsora-linden-blattsprenkelung)  
+19.07.2026: [Leptosphaerolina trifolii - Blattbrand](/pilze/leptosphaerolina-trifolii-blattbrand)\
 18.07.2026: [Scleroderma citrinum - Dickschaliger Kartoffelbovist](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)\
 17.07.2026: [Phylloporus pelletieri - Goldblatt](/pilze/phylloporus-pelletieri-goldblatt)\
 16.07.2026: [Conocybe lactea - Milchweißes Samthäubchen](/pilze/conocybe-lactea-milchweißes-samthäubchen)\
