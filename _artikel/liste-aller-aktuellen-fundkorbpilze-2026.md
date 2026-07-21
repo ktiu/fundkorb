@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-21.07.2026: [Hypoxylon multiforme - Vielgestaltige Kohlenbeere](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)  
+22.07.2027: [Diatrype bullata - Blasiges Eckenscheibchen](/pilze/diatrype-bullata-blasiges-eckenscheibchen)\
+21.07.2026: [Hypoxylon multiforme - Vielgestaltige Kohlenbeere](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)\
 20.07.2026: [Cercospora microsora - Linden-Blattsprenkelung](/pilze/cercospora-microsora-linden-blattsprenkelung)\
 19.07.2026: [Leptosphaerolina trifolii - Blattbrand](/pilze/leptosphaerolina-trifolii-blattbrand)\
 18.07.2026: [Scleroderma citrinum - Dickschaliger Kartoffelbovist](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)\
