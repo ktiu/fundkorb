@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/taphrina_caerulescens_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.07.2026: Die Gattung *Taphrina* enthält wenig beachtete Schlauchpilze (*[Ascomyzeten](Ascomyzeten "Glossar")*), die Narrentaschen, Hexenbesen oder Kräuselkrankheiten genannt werden. Sie bilden keine eigenen Fruchtkörper sondern deformieren lediglich Früchte, Triebe oder Blätter verschiedener Pflanzen, um an oder in ihnen ihre [Myzelien](Myzel "Glossar") anzulegen. So auch unser heutiger Fundkorbpilz *Taphrina caerulescens*, der die Blätter von Roteichen verunstaltet, ohne ihnen einen nennenswerten Schaden zuzufügen. Er ist vermutlich in jedem Roteichenbestand zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrype_bullata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 17.07.2026: Ein dritter erfreulicher Fund bei unserer Nebelstein-Wanderung in Niederösterreich war das Goldblatt *Phylloporus pelletieri*. Diesen aktuellen [Fundkorbpilz](AA "Glossar-") darf man mit Fug und Recht eine Rarität nennen, zumal er unter den Röhrlingen einer der wenigen mit Lamellen ist. Und die sind auch noch wunderschön goldgelb gefärbt. Manchmal findet man Exemplare mit Querverbindungen. Das sieht dann so aus, als hätte sich der Pilz nicht entscheiden können, ob ein Lamellen- oder Röhrlingspilz aus ihm werden soll. (Werner Bauer) [Mehr lesen >](/pilze/phylloporus-pelletieri-goldblatt)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/conocybe_lactea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-16.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist das Milchweiße Samthäubchen *Conocybe lactea*. Ein hübsches Kerlchen, das hier mit den in der Umgebung wachsenden Gänseblümchen um den Schönheitspreis streitet. Aber bitte nicht anfassen! Seine dünnen Stiele sind wie der gesamte Pilz sehr zerbrechlich. (Dieter Gewalt) [Mehr lesen >](/pilze/conocybe-lactea-milchweißes-samthäubchen)
 
 <div style="clear:  both"></div>
 
