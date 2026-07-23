@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_igniarius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.07.2026: In unserer Parkanlage an der Dietzenbacher Rodgaustraße ist er seit Jahren nicht zu übersehen und daher unser aktueller Fundkorbpilz: der Gemeine Feuerschwamm *Phellinus igniarius*. Die ahnungslosen Gärtner der Anlage haben die auffälligen Fruchtkörper mit brutaler Gewalt abgeschlagen und damit die Situation der befallenen Weiden nur noch verschlimmert. Die unbehandelten Wunden in der Rinde sind zu Einfallstore für weitere Schadpilze geworden. Die Feuerschwämme haben natürlich innerhalb kurzer Zeit neue Fruchtkörper gebildet, die sich prächtig entwickeln und die Lebenserwartung der Bäume weiter verkürzen. (Dieter Gewalt) [Mehr lesen >](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/taphrina_caerulescens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 18.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Dickschalige Kartoffelbovist *Scleroderma citrinum*. Er wird auch Gemeiner Kartoffelbovist genannt, denn unter den fünf in Deutschland nachgewiesenen *Scleroderma*-Arten ist er mit Abstand der häufigste. Er liebt saure Böden und ist von Juni bis Dezember oft massenhaft an Waldwegrändern zu finden. Auch in Parkanlagen lässt er sich gern blicken. An seiner dicken Schale ist er immer gut zu erkennen. Sein unangenehm metallischer Geruch signalisiert es schon: für die Küche ist er nicht geeignet. (Dieter Gewalt) [Mehr lesen >](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phylloporus_pelletieri_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.07.2026: Ein dritter erfreulicher Fund bei unserer Nebelstein-Wanderung in Niederösterreich war das Goldblatt *Phylloporus pelletieri*. Diesen aktuellen [Fundkorbpilz](AA "Glossar-") darf man mit Fug und Recht eine Rarität nennen, zumal er unter den Röhrlingen einer der wenigen mit Lamellen ist. Und die sind auch noch wunderschön goldgelb gefärbt. Manchmal findet man Exemplare mit Querverbindungen. Das sieht dann so aus, als hätte sich der Pilz nicht entscheiden können, ob ein Lamellen- oder Röhrlingspilz aus ihm werden soll. (Werner Bauer) [Mehr lesen >](/pilze/phylloporus-pelletieri-goldblatt)
 
 <div style="clear:  both"></div>
 
