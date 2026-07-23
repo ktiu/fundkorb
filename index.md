@@ -26,7 +26,7 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include bild.html datei="/bilder/taphrina_caerulescens_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-23.07.2026: Die Gattung *Taphrina* enthält wenig beachtete Schlauchpilze (*[Ascomyzeten](Ascomyzeten "Glossar")*), die Narrentaschen, Hexenbesen oder Kräuselkrankheiten genannt werden. Sie bilden keine eigenen Fruchtkörper sondern deformieren lediglich Früchte, Triebe oder Blätter verschiedener Pflanzen, um an oder in ihnen ihre [Myzelien](Myzel "Glossar") anzulegen. So auch unser heutiger Fundkorbpilz *Taphrina caerulescens*, der die Blätter von Roteichen verunstaltet, ohne ihnen einen nennenswerten Schaden zuzufügen. Er ist vermutlich in jedem Roteichenbestand zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit) 
+23.07.2026: Die Gattung *Taphrina* enthält wenig beachtete Schlauchpilze (*[Ascomyzeten](Ascomyzeten "Glossar")*), die Narrentaschen, Hexenbesen oder Kräuselkrankheiten genannt werden. Sie bilden keine eigenen Fruchtkörper sondern deformieren lediglich Früchte, Triebe oder Blätter verschiedener Pflanzen, um an oder in ihnen ihre [Myzelien](Myzel "Glossar") anzulegen. So auch unser heutiger [Fundkorbpilz](AA "Glossar-") *Taphrina caerulescens*, der die Blätter von Roteichen verunstaltet, ohne ihnen einen nennenswerten Schaden zuzufügen. Er ist vermutlich in jedem Roteichenbestand zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit) 
 
 <div style="clear:  both"></div>
 
