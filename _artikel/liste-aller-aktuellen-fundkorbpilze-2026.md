@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-23.07.2026: [Taphrina caerulescens - Roteichen-Kräuselkrankheit](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit)  
+24.07.2026: [Phellinus igniarius - Gemeiner Feuerschwamm](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)  
+23.07.2026: [Taphrina caerulescens - Roteichen-Kräuselkrankheit](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit)\
 22.07.2027: [Diatrype bullata - Blasiges Eckenscheibchen](/pilze/diatrype-bullata-blasiges-eckenscheibchen)\
 21.07.2026: [Hypoxylon multiforme - Vielgestaltige Kohlenbeere](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)\
 20.07.2026: [Cercospora microsora - Linden-Blattsprenkelung](/pilze/cercospora-microsora-linden-blattsprenkelung)\
