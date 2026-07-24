@@ -14,6 +14,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 
 **Aktueller Fundkorbpilz:**
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/diatrype_decorticata_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+25.07.2026: Wenn es zu trocken ist für *"richtige Pilze"*, müssen andere, weniger populäre Arten die Lücke füllen, um einen aktuellen [Fundkorbpilz](AA "Glossar-") präsentieren zu können. Zum Beispiel das Flächige Eckenscheibchen *Diatrype decorticata*. Es bildet flache Beläge auf abgestorbenen Ästen von Laubbäumen (vor allem Rotbuche und Birke) und wurde lange Zeit fälschlich als *[Diatrype stigma](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen)* bestimmt. (Dieter Gewalt) Wie es zu diesen fehlerhaften Diagnosen kommen konnte, [ist hier zu lesen >](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_igniarius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 19.07.2026: Es war nicht nicht Sonne, sondern unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blattbrand *Leptosphaerulina trifolii*, der seine Wirtspflanze, den Kriechklee, "verbrannt" aussehen lässt. Der Schlauchpilz verursacht die braunen Flecken und bildet in deren hellem Zentrum zahlreiche winzige kugelförmige Fruchtkörper, die aufplatzen und kleine Löcher hinterlassen. Auf einer neuen Wirtspflanze keimen die Sporen aus und dringen direkt in das Pflanzengewebe ein. Der Parasit kann extreme Temperaturen, Trockenheit und Feuchtigkeit überstehen. (Ulrike Wegner) [Mehr lesen >](/pilze/leptosphaerolina-trifolii-blattbrand)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/scleroderma_citrinum_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-18.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist heute der Dickschalige Kartoffelbovist *Scleroderma citrinum*. Er wird auch Gemeiner Kartoffelbovist genannt, denn unter den fünf in Deutschland nachgewiesenen *Scleroderma*-Arten ist er mit Abstand der häufigste. Er liebt saure Böden und ist von Juni bis Dezember oft massenhaft an Waldwegrändern zu finden. Auch in Parkanlagen lässt er sich gern blicken. An seiner dicken Schale ist er immer gut zu erkennen. Sein unangenehm metallischer Geruch signalisiert es schon: für die Küche ist er nicht geeignet. (Dieter Gewalt) [Mehr lesen >](/pilze/scleroderma-citrinum-dickschaliger-kartoffelbovist)
 
 <div style="clear:  both"></div>
 
