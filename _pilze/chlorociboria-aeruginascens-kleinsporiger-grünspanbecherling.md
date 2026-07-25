@@ -18,9 +18,13 @@ literatur:
 ---
 Schon an seiner im Pilzreich sehr seltenen blaugrünen Farbe ist dieser kleine [Ascomyzet](Ascomyzeten "Glossar") gut zu erkennen. Seine becherförmigen unregelmäßig gewellten oder auch faltigen Fruchtkörper erreichen Durchmesser von 6 - 8 mm. Sie sind kurz gestielt oder sitzen stiellos auf entrindeten toten Laubholzästen, meist von Eichen, in denen der Pilz eine Weißfäule verursacht.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/chlorociboria_aeruginascens_03_as.jpeg" %}
+{% include abbildung_ende.html legende="Grünverfärbung an Holz durch den Grünspanbecherling (Foto: Anne Stark)" %}
+
 Eine Besonderheit besteht darin, dass seine im Holz wuchernden [Myzelien](Myzel "Glossar") dieses grün färben, auch an der Oberfläche. Diese ungewöhnliche Verfärbung ist auch zu beobachten, wenn keine Fruchtkörper vorhanden sind, zeigen jedoch die Anwesenheit des Pilzes im Holz an.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/chlorociboria_aeruginascens_02_dg.jpg" %}
 {% include bild.html datei="/bilder/chlorociboria_aeruginascens_01_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
