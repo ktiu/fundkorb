@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_robustus_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+26.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Feuerschwamm *Phellinus robustus*. Er gehört zur Familie der Borstenscheiblingsverwandten mit brauner [Trama](Trama "Glossar"). Seine mehrjährigen Fruchtkörper sitzen meist zu mehreren auf der Rinde von Eichen, selten auch anderer Laubbaumarten. Seine [Myzelien](Myzel "Glossar") verursachen eine Weißfäule, wobei sie sowohl das Splint- und Kernholz wie auch das Kambium schädigen. Wie sich die Eiche erfolgreich gegen den Schmarotzer wehrt, beschreibt Bernd Miggel [hier >](/pilze/phellinus-robustus-eichen-feuerschwamm)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/diatrype_decorticata_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 20.07.2026: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist, weil sich wegen der Trockenheit gerade nichts Besseres anbietet, die Linden-Blattsprenkelung Cercospora microsora. Bei diesen unscheinbaren Flecken handelt es sich um einen Rußtaupilz (Ordnung der *Capnidiales*), der keine Gefährdung für den Baum darstellt. (Dieter Gewalt) [Mehr lesen >](/pilze/cercospora-microsora-linden-blattsprenkelung)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leptosphaerolina_trifolii_01_uw.jpg" %}
-{% include abbildung_ende.html %}
-
-19.07.2026: Es war nicht nicht Sonne, sondern unser aktueller [Fundkorbpilz](AA "Glossar-"), der Blattbrand *Leptosphaerulina trifolii*, der seine Wirtspflanze, den Kriechklee, "verbrannt" aussehen lässt. Der Schlauchpilz verursacht die braunen Flecken und bildet in deren hellem Zentrum zahlreiche winzige kugelförmige Fruchtkörper, die aufplatzen und kleine Löcher hinterlassen. Auf einer neuen Wirtspflanze keimen die Sporen aus und dringen direkt in das Pflanzengewebe ein. Der Parasit kann extreme Temperaturen, Trockenheit und Feuchtigkeit überstehen. (Ulrike Wegner) [Mehr lesen >](/pilze/leptosphaerolina-trifolii-blattbrand)
 
 <div style="clear:  both"></div>
 
