@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-26.07.2026: [Phellinus robustus - Eichen-Feuerschwamm](/pilze/phellinus-robustus-eichen-feuerschwamm)  
+27.07.2026: [Thelephora penicillata - Weißer Warzenpilz](pilze/thelephora-penicillata-weißer-warzenpilz)  
+26.07.2026: [Phellinus robustus - Eichen-Feuerschwamm](/pilze/phellinus-robustus-eichen-feuerschwamm)\
 25.07.2026: [Diatrype decorticata - Flächiges Eckenscheibchen](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)\
 24.07.2026: [Phellinus igniarius - Gemeiner Feuerschwamm](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)\
 23.07.2026: [Taphrina caerulescens - Roteichen-Kräuselkrankheit](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit)\
