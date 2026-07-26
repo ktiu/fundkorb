@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/thelephora_penicillata_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.07.2026: Mit dem sehr seltenen Weißen Warzenpilz *Thelephora penicillata* kann ich einen aktuellen [Fundkorbpilz](AA "Glossar-") aus dem Reinhardswald melden, der mir in Nordhessen bisher nicht bekannt war. Der Fund gelang in einem Buchen-Mischwald zwischen Immenhausen und Knickhagen. Mit seinen feinen, pinselartigen Verästelungen ist dieser [Mykorrhiza](Mykorrhiza "Glossar")-Pilz zudem sehr attraktiv. Speisewert besitzt er nicht, die Art gilt als ungenießbar. (Anne Stark) [Mehr lesen >](pilze/thelephora-penicillata-weißer-warzenpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_robustus_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 21.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Vielgestaltige Kohlenbeere *Hypoxylon multiforme*. Sie dürfte überall und zu jeder Jahreszeit zu finden sein, wo tote Birkenäste auf dem Waldboden liegen. Mit der Lupe betrachtet erkennt man, dass es sich um einen Sammelfruchtkörper handelt. Dessen kugelige [Perithezien](Perithezien "Glossar") haben am Scheitel winzige Erhebungen mit einer Sporenauslassöffnung. Der Pilz hat inzwischen den neuen Namen *Jackrogersella multiformis* erhalten. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cercospora_microsora_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.07.2026: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist, weil sich wegen der Trockenheit gerade nichts Besseres anbietet, die Linden-Blattsprenkelung Cercospora microsora. Bei diesen unscheinbaren Flecken handelt es sich um einen Rußtaupilz (Ordnung der *Capnidiales*), der keine Gefährdung für den Baum darstellt. (Dieter Gewalt) [Mehr lesen >](/pilze/cercospora-microsora-linden-blattsprenkelung)
 
 <div style="clear:  both"></div>
 
