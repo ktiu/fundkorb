@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypoxylon_howeanum_02_xx.jpg" %}
+{% include abbildung_ende.html %}
+
+28.07.2026: Kohlenbeeren werden von den meisten Pilzfreunden kaum beachtet, leisten als Holzzersetzer aber wertvolle Dienste im Ökosystem Wald. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), die Zimtbraune Kohlenbeere *Hypoxylon howeanum*, die vor allem an toten Eichen- oder Roteichenästen zu finden ist. Bei der Bestimmung sind neben dem Substrat auch die unterschiedlichen Sporenmaße zu beachten.  (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/thelephora_penicillata_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 22.07.2026: Viele unauffällige Pilze sind nur bei gezielter Suche zu finden, wie zum Beispiel unser aktueller [Fundkorbpilz](AA "Glossar-"), das Blasige Eckenscheibchen *Diatrype bullata*. Es ist vor allem an abgestorbenen, noch berindeten Ästen von Weiden und Erlen zu finden ist. Es handelt sich um schwarze kissenförmige Sammelfruchtkörper, die bis zu 3 mm Durchmesser erreichen und einzeln oder zu mehreren zusammenfließend aus der Rinde hervorbrechen. (Dieter Gewalt) [Mehr lesen >](/pilze/diatrype-bullata-blasiges-eckenscheibchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_multiforme_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist die Vielgestaltige Kohlenbeere *Hypoxylon multiforme*. Sie dürfte überall und zu jeder Jahreszeit zu finden sein, wo tote Birkenäste auf dem Waldboden liegen. Mit der Lupe betrachtet erkennt man, dass es sich um einen Sammelfruchtkörper handelt. Dessen kugelige [Perithezien](Perithezien "Glossar") haben am Scheitel winzige Erhebungen mit einer Sporenauslassöffnung. Der Pilz hat inzwischen den neuen Namen *Jackrogersella multiformis* erhalten. (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)
 
 <div style="clear:  both"></div>
 
