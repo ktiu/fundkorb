@@ -9,16 +9,20 @@ profil:
   aktualisiert: 2023-01-07
   autor_in: Dieter Gewalt
 hauptbild:
-  anzeige: true
+  anzeige: false
   datei: /bilder/hypoxylon_howeanum_01_dg.jpg
 ---
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/hypoxylon_howeanum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
 Kohlenbeeren gehören zu den Kernpilzen; das sind [perithezienbildende](Perithezien "Glossar") Schlauchpilze von kohliger Substanz und dunklem Aussehen, die auf Holz wachsen. In Mitteleuropa dürfte es mindestens 22 Arten geben (Verbreitungsatlas, *Krieglsteiner* 1993). Viele von ihnen sind wirtsspezifisch. Zwei ähnliche Arten sind die Rötliche und die Rotbraune Kohlenbeere, die u. a. durch Sporengröße und Substrat unterschieden werden:
 
 Hypoxylon howeianum = Zimtbraune Kohlenbeere: Sporenmaße 7 - 7,5 x 3 - 4,5 µm, Substrat Eiche\
 [Hypoxylon fragiforme = Rötliche Kohlenbeere](/pilze/hypoxylon-fragiforme-rötliche-kohlenbeere): Sporenmaße 10,5 - 13,5 x 5 - 6 µm, Substrat Buche\
 [Hypoxylon fuscum = Rotbraune Kohlenbeere](/pilze/hypoxylon-fuscum-rotbraune-kohlenbeere): Sporenmaße 12 - 13 x 5 -6 µm, Substrat Hasel, Erle
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/hypoxylon_howeanum_02_xx.jpg" nocrop=true gross=true %}
 {% include bild.html datei="/bilder/isaria_umbrina_01_dg.jpg" nocrop=true gross=true %}
 {% include abbildung_ende.html legende="Zimtbraune Kohlenbeere Hypoxylon howeianum -- Pilzspinne Isaria umbrina" %}
