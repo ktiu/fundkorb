@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-28.07.2026: [Hypoxylon howeanum - Zimtbraune Kohlenbeere](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere)  
+29.07.2026: [Boletus reticulatus - Sommersteinpilz](/pilze/boletus-reticulatus-sommersteinpilz)  
+28.07.2026: [Hypoxylon howeanum - Zimtbraune Kohlenbeere](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere)\
 27.07.2026: [Thelephora penicillata - Weißer Warzenpilz](pilze/thelephora-penicillata-weißer-warzenpilz)\
 26.07.2026: [Phellinus robustus - Eichen-Feuerschwamm](/pilze/phellinus-robustus-eichen-feuerschwamm)\
 25.07.2026: [Diatrype decorticata - Flächiges Eckenscheibchen](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)\
