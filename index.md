@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_reticulatus_03_fk.jpeg" %}
+{% include abbildung_ende.html %}
+
+29.07.2026: Wenn der Sommer im Rhein-Main-Gebiet so trocken ist wie in diesem Jahr, hat es unser aktueller [Fundkorbpilz](AA "Glossar-"), der Sommersteinpilz *Boletus reticulatus*, nicht leicht, Fruchtkörper zu bilden. In unserer Parkanlage in Dietzenbach, wo er üblicherweise in größerer Zahl erscheint, hat es gerade mal einer unter einer Hecke am Straßenrand geschafft. Es ist wahrlich kein Prachtexemplar. Nicht einmal ein anspruchsloses Auge könnte sich an ihm erfreuen. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-reticulatus-sommersteinpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypoxylon_howeanum_02_xx.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 23.07.2026: Die Gattung *Taphrina* enthält wenig beachtete Schlauchpilze (*[Ascomyzeten](Ascomyzeten "Glossar")*), die Narrentaschen, Hexenbesen oder Kräuselkrankheiten genannt werden. Sie bilden keine eigenen Fruchtkörper sondern deformieren lediglich Früchte, Triebe oder Blätter verschiedener Pflanzen, um an oder in ihnen ihre [Myzelien](Myzel "Glossar") anzulegen. So auch unser heutiger [Fundkorbpilz](AA "Glossar-") *Taphrina caerulescens*, der die Blätter von Roteichen verunstaltet, ohne ihnen einen nennenswerten Schaden zuzufügen. Er ist vermutlich in jedem Roteichenbestand zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diatrype_bullata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.07.2026: Viele unauffällige Pilze sind nur bei gezielter Suche zu finden, wie zum Beispiel unser aktueller [Fundkorbpilz](AA "Glossar-"), das Blasige Eckenscheibchen *Diatrype bullata*. Es ist vor allem an abgestorbenen, noch berindeten Ästen von Weiden und Erlen zu finden ist. Es handelt sich um schwarze kissenförmige Sammelfruchtkörper, die bis zu 3 mm Durchmesser erreichen und einzeln oder zu mehreren zusammenfließend aus der Rinde hervorbrechen. (Dieter Gewalt) [Mehr lesen >](/pilze/diatrype-bullata-blasiges-eckenscheibchen)
 
 <div style="clear:  both"></div>
 
