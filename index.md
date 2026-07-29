@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/paecilomyces_crassipes_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+30.07.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") *Paecilomyces crassipes* soll vor allem auf eine invasive Strauchpflanze hinweisen, die wir gar nicht gern in unserer Landschaft sehen. Die Spätblühende Traubenkirsche ist als [Neophyt](Neophyt "Glossar") aus Nordamerika zu uns gekommen und verdrängt hier oft flächenbedeckend einheimische Pflanzen. Der Pilz bildet auf den Blättern rundliche bis ovale Flecken von dunkel violettbrauner Farbe mit hellerer Mitte. Diese Flecken können zu mehreren zusammenfließen und zum vorzeitigen Abwurf der gilbenden Blätter führen. (Dieter Gewalt) [Mehr lesen >](/pilze/paecilomyces-crassipes)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_reticulatus_03_fk.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 24.07.2026: In unserer Parkanlage an der Dietzenbacher Rodgaustraße ist er seit Jahren nicht zu übersehen und daher unser aktueller [Fundkorbpilz](AA "Glossar-"): der Gemeine Feuerschwamm *Phellinus igniarius*. Die ahnungslosen Gärtner der Anlage haben die auffälligen Fruchtkörper mit brutaler Gewalt abgeschlagen und damit die Situation der befallenen Weiden nur noch verschlimmert. Die unbehandelten Wunden in der Rinde sind zu Einfallstore für weitere Schadpilze geworden. Die Feuerschwämme haben natürlich innerhalb kurzer Zeit neue Fruchtkörper gebildet, die sich prächtig entwickeln und die Lebenserwartung der Bäume weiter verkürzen. (Dieter Gewalt) [Mehr lesen >](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/taphrina_caerulescens_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.07.2026: Die Gattung *Taphrina* enthält wenig beachtete Schlauchpilze (*[Ascomyzeten](Ascomyzeten "Glossar")*), die Narrentaschen, Hexenbesen oder Kräuselkrankheiten genannt werden. Sie bilden keine eigenen Fruchtkörper sondern deformieren lediglich Früchte, Triebe oder Blätter verschiedener Pflanzen, um an oder in ihnen ihre [Myzelien](Myzel "Glossar") anzulegen. So auch unser heutiger [Fundkorbpilz](AA "Glossar-") *Taphrina caerulescens*, der die Blätter von Roteichen verunstaltet, ohne ihnen einen nennenswerten Schaden zuzufügen. Er ist vermutlich in jedem Roteichenbestand zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit) 
 
 <div style="clear:  both"></div>
 
