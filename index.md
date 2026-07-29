@@ -18,7 +18,7 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include bild.html datei="/bilder/paecilomyces_crassipes_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-30.07.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") *Paecilomyces crassipes* soll vor allem auf eine invasive Strauchpflanze hinweisen, die wir gar nicht gern in unserer Landschaft sehen. Die Spätblühende Traubenkirsche ist als [Neophyt](Neophyt "Glossar") aus Nordamerika zu uns gekommen und verdrängt hier oft flächenbedeckend einheimische Pflanzen. Der Pilz bildet auf den Blättern rundliche bis ovale Flecken von dunkel violettbrauner Farbe mit hellerer Mitte. Diese Flecken können zu mehreren zusammenfließen und zum vorzeitigen Abwurf der gilbenden Blätter führen. (Dieter Gewalt) [Mehr lesen >](/pilze/paecilomyces-crassipes)
+30.07.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") *Paecilomyces crassipes* soll vor allem auf eine [invasive](invasiv "Glossar") Strauchpflanze hinweisen, die wir gar nicht gern in unserer Landschaft sehen. Die Spätblühende Traubenkirsche ist als [Neophyt](Neophyt "Glossar") aus Nordamerika zu uns gekommen und verdrängt hier oft flächenbedeckend einheimische Pflanzen. Der Pilz bildet auf den Blättern rundliche bis ovale Flecken von dunkel violettbrauner Farbe mit hellerer Mitte. Diese Flecken können zu mehreren zusammenfließen und zum vorzeitigen Abwurf der gilbenden Blätter führen. (Dieter Gewalt) [Mehr lesen >](/pilze/paecilomyces-crassipes)
 
 <div style="clear:  both"></div>
 
