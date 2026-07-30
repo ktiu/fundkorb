@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/termitomyces_striatus_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.07.2026: Regelmäßige Besucher unserer Seite wissen, dass wir immer mal wieder Fundmeldungen aus Thailand erhalten. So auch kürzlich, und die ist eine besonders interessante. Aktueller [Fundkorbpilz](AA "Glossar-") ist daher der Termitenpilz *Termitomyces striatus*, für den kein deutscher Name bekannt ist. Die Thais nennen ihn *„Het Khoon“* (khoon = Termite) und schätzen ihn als hervorragenden Speisepilz, der in Südostasien auch gezüchtet, in Deutschland aber selbst in Asia-Shops leider nicht angeboten wird. (Dieter Gewalt) [Mehr lesen >](/pilze/termitomyces-striatus-termitenpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/paecilomyces_crassipes_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 25.07.2026: Wenn es zu trocken ist für *"richtige Pilze"*, müssen andere, weniger populäre Arten die Lücke füllen, um einen aktuellen [Fundkorbpilz](AA "Glossar-") präsentieren zu können. Zum Beispiel das Flächige Eckenscheibchen *Diatrype decorticata*. Es bildet flache Beläge auf abgestorbenen Ästen von Laubbäumen (vor allem Rotbuche und Birke) und wurde lange Zeit fälschlich als *[Diatrype stigma](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen)* bestimmt. (Dieter Gewalt) Wie es zu diesen fehlerhaften Diagnosen kommen konnte, [ist hier zu lesen >](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_igniarius_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.07.2026: In unserer Parkanlage an der Dietzenbacher Rodgaustraße ist er seit Jahren nicht zu übersehen und daher unser aktueller [Fundkorbpilz](AA "Glossar-"): der Gemeine Feuerschwamm *Phellinus igniarius*. Die ahnungslosen Gärtner der Anlage haben die auffälligen Fruchtkörper mit brutaler Gewalt abgeschlagen und damit die Situation der befallenen Weiden nur noch verschlimmert. Die unbehandelten Wunden in der Rinde sind zu Einfallstore für weitere Schadpilze geworden. Die Feuerschwämme haben natürlich innerhalb kurzer Zeit neue Fruchtkörper gebildet, die sich prächtig entwickeln und die Lebenserwartung der Bäume weiter verkürzen. (Dieter Gewalt) [Mehr lesen >](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)
 
 <div style="clear:  both"></div>
 
