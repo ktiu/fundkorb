@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-30.07.2026: [Paecilomyces crassipes](/pilze/paecilomyces-crassipes)  
+31.07.2026: [Termitomyces striatus - "Termitenpilz"](/pilze/termitomyces-striatus-termitenpilz)  
+30.07.2026: [Paecilomyces crassipes](/pilze/paecilomyces-crassipes)\
 29.07.2026: [Boletus reticulatus - Sommersteinpilz](/pilze/boletus-reticulatus-sommersteinpilz)\
 28.07.2026: [Hypoxylon howeanum - Zimtbraune Kohlenbeere](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere)\
 27.07.2026: [Thelephora penicillata - Weißer Warzenpilz](pilze/thelephora-penicillata-weißer-warzenpilz)\
