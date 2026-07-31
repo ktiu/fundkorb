@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/kretschmaria_deusta_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+01.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brandkrustenpilz *Kretzschmaria deusta*. Sein sexuelles Stadium erscheint als unauffällige schwarze Kruste vor allem am Grund von Buchenstümpfen. Ab etwa März/April wechselt er sein Aussehen und bildet das weithin sichtbare hellgraue Konidienstadium, in dem asexuelle Konidiensporen gebildet werden, aus denen ausschließlich Klone entstehen. Der Brandkrustenpilz ist ein sehr häufiger [Ascomyzet](Ascomyzeten "Glossar") an totem Laubholz. (Dieter Gewalt) [Mehr lesen >](/pilze/kretzschmaria-deusta-brandkrustenpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/termitomyces_striatus_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 26.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Feuerschwamm *Phellinus robustus*. Er gehört zur Familie der Borstenscheiblingsverwandten mit brauner [Trama](Trama "Glossar"). Seine mehrjährigen Fruchtkörper sitzen meist zu mehreren auf der Rinde von Eichen, selten auch anderer Laubbaumarten. Seine [Myzelien](Myzel "Glossar") verursachen eine Weißfäule, wobei sie sowohl das Splint- und Kernholz wie auch das Kambium schädigen. Wie sich die Eiche erfolgreich gegen den Schmarotzer wehrt, beschreibt Bernd Miggel [hier >](/pilze/phellinus-robustus-eichen-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/diatrype_decorticata_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-25.07.2026: Wenn es zu trocken ist für *"richtige Pilze"*, müssen andere, weniger populäre Arten die Lücke füllen, um einen aktuellen [Fundkorbpilz](AA "Glossar-") präsentieren zu können. Zum Beispiel das Flächige Eckenscheibchen *Diatrype decorticata*. Es bildet flache Beläge auf abgestorbenen Ästen von Laubbäumen (vor allem Rotbuche und Birke) und wurde lange Zeit fälschlich als *[Diatrype stigma](/pilze/diatrype-stigma-flächiges-eichen-eckenscheibchen)* bestimmt. (Dieter Gewalt) Wie es zu diesen fehlerhaften Diagnosen kommen konnte, [ist hier zu lesen >](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)
 
 <div style="clear:  both"></div>
 
