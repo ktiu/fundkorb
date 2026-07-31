@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-31.07.2026: [Termitomyces striatus - "Termitenpilz"](/pilze/termitomyces-striatus-termitenpilz)  
+01.08.2026: [Kretzmaria deusta - Brandkrustenpilz](/pilze/kretzschmaria-deusta-brandkrustenpilz)
+
+31.07.2026: [Termitomyces striatus - "Termitenpilz"](/pilze/termitomyces-striatus-termitenpilz)\
 30.07.2026: [Paecilomyces crassipes](/pilze/paecilomyces-crassipes)\
 29.07.2026: [Boletus reticulatus - Sommersteinpilz](/pilze/boletus-reticulatus-sommersteinpilz)\
 28.07.2026: [Hypoxylon howeanum - Zimtbraune Kohlenbeere](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere)\
