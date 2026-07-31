@@ -35,7 +35,9 @@ Als typischen Rindenhelmling kann man *Mycena adscendens* nicht bezeichnen. Er b
 {% include bild.html datei="/bilder/mycena_adscendens_02_nk.jpg" %}
 {% include abbildung_ende.html legende="Foto: Norbert Kühnberger" %}
 
-Mit der Merkmalskombination *"kleine weiße Fruchtkörper, fein bereifte Hüte, meist glatte oder auch leicht bereifte Stiele mit kleinem Basalscheibchen"* ist die Art makroskopisch recht gut charakterisiert. Es macht auch Sinn, die Anzahl der Lamellen zu prüfen. Diese schwankt zwischen 7 und 14. Bei Funden an aufrechten Baumstämmen kommen noch die meist verbogenen Stiele als Merkmal hinzu. Für eine zweifelsfreie Bestimmung empfiehlt sich natürlich eine mikroskopische Prüfung (z. B. Sporen, Schnallen, Cheilozystiden).
+Mit der Merkmalskombination *"kleine weiße Fruchtkörper, fein bereifte Hüte, meist glatte oder auch leicht bereifte Stiele mit kleinem Basalscheibchen"* ist die Art makroskopisch recht gut charakterisiert. Es macht auch Sinn, die Anzahl der Lamellen zu prüfen. Diese schwankt zwischen 7 und 14. Bei Funden an aufrechten Baumstämmen kommen noch die meist verbogenen Stiele als Merkmal hinzu. Für eine zweifelsfreie Bestimmung empfiehlt sich natürlich eine mikroskopische Prüfung (z. B. Sporen, Schnallen, Cheilozystiden, siehe Anhang ganz unten).
+
+Mehr zum Thema [Rindenhelmlinge >](/verwandt/rindenhelmlinge)
 
 - - -
 
