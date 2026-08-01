@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_limitata_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+02.08.2026: Zystidenrindenpilze sind eine wenig beachtete artenreiche Gattung flächig an Baumstämmen und -ästen wachsender Pilze, oft in unerreichbarer Höhe. Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist der Eschen-Zystidenrindenpilz *Peniophora limitata*, den ich im NSG Ellmendinger Roggenschleh im Enzkreis (Baden-Württemberg) schon oft gefunden und fotografiert habe. So auch in diesem Jahr. Er fällt durch seine blaugrauvioletten mosaikartig aufreißenden Krusten auf. (Bernd Miggel) [Mehr lesen >](/pilze/peniophora-limitata-eschen-zystidenrindenpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/kretschmaria_deusta_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 27.07.2026: Mit dem sehr seltenen Weißen Warzenpilz *Thelephora penicillata* kann ich einen aktuellen [Fundkorbpilz](AA "Glossar-") aus dem Reinhardswald melden, der mir in Nordhessen bisher nicht bekannt war. Der Fund gelang in einem Buchen-Mischwald zwischen Immenhausen und Knickhagen. Mit seinen feinen, pinselartigen Verästelungen ist dieser [Mykorrhiza](Mykorrhiza "Glossar")-Pilz zudem sehr attraktiv. Speisewert besitzt er nicht, die Art gilt als ungenießbar. (Anne Stark) [Mehr lesen >](pilze/thelephora-penicillata-weißer-warzenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_robustus_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-26.07.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Eichen-Feuerschwamm *Phellinus robustus*. Er gehört zur Familie der Borstenscheiblingsverwandten mit brauner [Trama](Trama "Glossar"). Seine mehrjährigen Fruchtkörper sitzen meist zu mehreren auf der Rinde von Eichen, selten auch anderer Laubbaumarten. Seine [Myzelien](Myzel "Glossar") verursachen eine Weißfäule, wobei sie sowohl das Splint- und Kernholz wie auch das Kambium schädigen. Wie sich die Eiche erfolgreich gegen den Schmarotzer wehrt, beschreibt Bernd Miggel [hier >](/pilze/phellinus-robustus-eichen-feuerschwamm)
 
 <div style="clear:  both"></div>
 
