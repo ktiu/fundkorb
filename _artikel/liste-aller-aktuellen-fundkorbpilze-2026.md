@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-02.08.2026: [Peniophora limitata - Eschen-Zystidenrindenpilz](/pilze/peniophora-limitata-eschen-zystidenrindenpilz)  
+03.08.2026: [Rusavskia elegans - Zierliche Gelbflechte](/pilze/rusavskia-elegans-zierliche-gelbflechte)  
+02.08.2026: [Peniophora limitata - Eschen-Zystidenrindenpilz](/pilze/peniophora-limitata-eschen-zystidenrindenpilz)\
 01.08.2026: [Kretzmaria deusta - Brandkrustenpilz](/pilze/kretzschmaria-deusta-brandkrustenpilz)
 
 31.07.2026: [Termitomyces striatus - "Termitenpilz"](/pilze/termitomyces-striatus-termitenpilz)\
