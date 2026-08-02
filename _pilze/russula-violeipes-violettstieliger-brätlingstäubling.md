@@ -22,7 +22,7 @@ literatur:
 ---
 Die Schwierigkeit beim Erkennen der verschiedenen Täublingsarten ist ihre Farbvariabilität. Nur wenige zeigen zuverlässig konstante Farben. Beim Violettstieligen Täubling beginnt das Problem schon beim namensgebenden violetten Stiel. Manchmal hat er diese Farbe, manchmal erscheint sie nur als zarter Hauch oder auch satt aufgetragen, meistens aber sind die Stiele von oben bis unten rein weiß. Die Hutfarbe ist meistens gelb. Dabei handelt es sich um ein sehr eigenartiges Gelb, das mit Worten schwer zu beschreiben ist. Es ist ein leicht trüber Farbton, wie er bei anderen gelben Täublingen so nicht vorkommt. Markant ist dabei, dass die Hüte feinmehlig bereift erscheinen, was sie matt und glanzlos macht und beim Anfassen ein eigenartiges fettig-seifiges Gefühl vermittelt. Mit der Stereolupe sind auf der Huthaut winzige gekräuselte Härchen zu erkennen. Junge Fruchtkörper haben fast immer völlig gelbe Hüte. Beim Wachsen kann die Farbe dann in ein helles Oliv oder Gelbgrün umschlagen und sogar purpur-violett werden. Oft findet man mehrere Farbtöne nebeneinander. Die Huthaut ist etwa zur Hälfte abziehbar und relativ dick. Der Geruch ist schwach krebs- oder heringsartig.
 
-Die nachfolgenden Fotos zeigen die Farbvariabilität, wie man sie an Hüten und Stielen finden kann. So veränderlich die Farben auch sein mögen: manche Pilzfreunde entwickeln im Laufe der Zeit ein sicheres Gespür dafür, wie der Violettstielige Brätlingstäubling, vielfach auch Pfirsichtäubling genannt, aussehen darf. Für sie ist er dann ein leicht kenntlicher Speisepilz.
+Die nachfolgenden Fotos zeigen die enorme Farbvariabilität, wie man sie an Hüten und Stielen finden kann, so dass man die Art mit Fug und Recht als Chamäleon bezeichnen darf. So veränderlich die Farben auch sein mögen: manche Pilzfreunde entwickeln im Laufe der Zeit ein sicheres Gespür dafür, wie der Violettstielige Brätlingstäubling, vielfach auch Pfirsichtäubling genannt, aussehen darf. Für sie ist er dann ein leicht kenntlicher Speisepilz.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/russula_violeipes_02_dg.jpg" %}
@@ -32,7 +32,7 @@ Die nachfolgenden Fotos zeigen die Farbvariabilität, wie man sie an Hüten und 
 
 Sofern die Hutfarbe rot bis violett ausfällt, kann der Violettstielige Brätlingstäubling mit der ebenfalls essbaren *[Russula amoena](/pilze/russula-amoena-samtiger-brätlingstäubling)* verwechselt werden.
 
-Der Name „Brätlingstäubling“ verrät schon etwas über seinen Speisewert. Er eigenet sich vorzüglich zum Braten und darf mit Fug und Recht als Premium-Art unter den Täublingen bezeichnet werden. Nützlicher Hinweis: alle nach Fisch (Hering) riechenden Täublinge sind essbar, schmecken nach der Zubereitung aber nicht fischartig.
+Der Name „Brätlingstäubling“ verrät schon etwas über seinen Speisewert. Er eigenet sich vorzüglich zum Braten und darf zu Recht als Premium-Art unter den Täublingen bezeichnet werden. Nützlicher Hinweis: alle nach Fisch (Hering) riechenden Täublinge sind essbar, schmecken nach der Zubereitung aber nicht fischartig.
 
 <div class="table-responsive">
   <table class="table taeubling">
