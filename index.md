@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rusaskia_elegans_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+03.08.2026: Manche Flechten sind durchaus etwas für’s Auge. Man muss nur genau oder mit der Lupe hinschauen. Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Zierliche Gelbflechte *Rusavskia elegans*, findet man vor allem auf Steinblöcken, gern zusammen mit anderen Flechtenarten wie *[Lecanora muralis](/pilze/lecanora-muralis-mauer-flechte)*. Selbst pralle Sonne macht ihr nichts aus. Auffällig sind ihre ebenfalls gelben [Apothecien](Apothecien "Glossar"), die wie winzige Tellerchen aussehen. (Dieter Gewalt) [Mehr lesen >](/pilze/rusavskia-elegans-zierliche-gelbflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peniophora_limitata_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 28.07.2026: Kohlenbeeren werden von den meisten Pilzfreunden kaum beachtet, leisten als Holzzersetzer aber wertvolle Dienste im Ökosystem Wald. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), die Zimtbraune Kohlenbeere *Hypoxylon howeanum*, die vor allem an toten Eichen- oder Roteichenästen zu finden ist. Bei der Bestimmung sind neben dem Substrat auch die unterschiedlichen Sporenmaße zu beachten.  (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/thelephora_penicillata_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.07.2026: Mit dem sehr seltenen Weißen Warzenpilz *Thelephora penicillata* kann ich einen aktuellen [Fundkorbpilz](AA "Glossar-") aus dem Reinhardswald melden, der mir in Nordhessen bisher nicht bekannt war. Der Fund gelang in einem Buchen-Mischwald zwischen Immenhausen und Knickhagen. Mit seinen feinen, pinselartigen Verästelungen ist dieser [Mykorrhiza](Mykorrhiza "Glossar")-Pilz zudem sehr attraktiv. Speisewert besitzt er nicht, die Art gilt als ungenießbar. (Anne Stark) [Mehr lesen >](pilze/thelephora-penicillata-weißer-warzenpilz)
 
 <div style="clear:  both"></div>
 
