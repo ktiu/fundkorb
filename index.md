@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_violeipes_01_dg-.jpg" %}
+{% include abbildung_ende.html %}
+
+04.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pfirsischtäubling *Russula violeipes*, den man aufgrund seiner enormen Farbvariabilität zu Recht als Chamäleon bezeichnen darf. Die Fundstelle befindet sich in einem Buchen-dominiertem Mischwald an einem der nördlichen Ausläufer des Rothaargebirges, wo der Pilz jedes Jahr sehr zuverlässig fruktifiziert. Er wird auch Violettstieliger Brätlingstäubling genannt, was bereits einen Hinweis auf seinen hervorragenden Speisewert gibt. (Anne Stark) [Mehr zu lesen lohnt sich >](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rusaskia_elegans_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 29.07.2026: Wenn der Sommer im Rhein-Main-Gebiet so trocken ist wie in diesem Jahr, hat es unser aktueller [Fundkorbpilz](AA "Glossar-"), der Sommersteinpilz *Boletus reticulatus*, nicht leicht, Fruchtkörper zu bilden. In unserer Parkanlage in Dietzenbach, wo er üblicherweise in größerer Zahl erscheint, hat es gerade mal einer unter einer Hecke am Straßenrand geschafft. Es ist wahrlich kein Prachtexemplar. Nicht einmal ein anspruchsloses Auge könnte sich an ihm erfreuen. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-reticulatus-sommersteinpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypoxylon_howeanum_02_xx.jpg" %}
-{% include abbildung_ende.html %}
-
-28.07.2026: Kohlenbeeren werden von den meisten Pilzfreunden kaum beachtet, leisten als Holzzersetzer aber wertvolle Dienste im Ökosystem Wald. Zu ihnen gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), die Zimtbraune Kohlenbeere *Hypoxylon howeanum*, die vor allem an toten Eichen- oder Roteichenästen zu finden ist. Bei der Bestimmung sind neben dem Substrat auch die unterschiedlichen Sporenmaße zu beachten.  (Dieter Gewalt) [Mehr lesen >](/pilze/hypoxylon-howeanum-zimtbraune-kohlenbeere)
 
 <div style="clear:  both"></div>
 
