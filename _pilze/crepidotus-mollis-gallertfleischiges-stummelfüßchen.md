@@ -20,7 +20,7 @@ Huthaut gelatinös, braunes Sporenpulver, an Laubholz = Crepidotus mollis (Galle
 
 Huthaut nicht gelatinös, braunes Sporenpulver = eine von mehreren Crepidotus-Arten (Stummelfüßchen), die nur mikroskopisch sicher zu unterscheiden sind
 
-Huthaut gelatinös, weißes Sporenpulver, an Nadelholz = Panellus mitis (Milder Zwergknäueling)
+Huthaut gelatinös, weißes Sporenpulver, an Nadelholz = [Panellus mitis (Milder Zwergknäueling)](/pilze/panellus-mitis-milder-zwergknäueling)
 
 Huthaut nicht gelatinös, weißes Sporenpulver = Schneeweißer Zwergseitling (Pleurotellus chioneus)
 
@@ -33,4 +33,13 @@ Um festzustellen, ob die Huthaut gelatinös ist, zieht man den Pilzhut am Rand a
 {% include bild.html datei="/bilder/crepidotus_mollis_03_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Das linke Foto zeigt das gelatinöse Häutchen, das beim Auseinanderziehen der Lamellen sichtbar wird" %}
 
-Die Farbe des Sporenpulvers erkennt man nur an reifen Fruchtkörpern. Hier färben sich die weißen Lamellen bei allen Stummelfüßchen bräunlich.
+Die Farbe des Sporenpulvers erkennt man nur an reifen Fruchtkörpern. Hier färben sich die weißen Lamellen bei allen Stummelfüßchen bräunlich. Weitere Arten der Gattung *Crepidotus* im Fundkorb sind:\
+[*Crepidotus applanatus* = Gerieftes Stummelfüßchen](/pilze/crepidotus-applanatus-gerieftes-stummelfüßchen)\
+[*Crepidotus autochthonus* = Größtes Stummelfüßchen](/pilze/crepidotus-autochthonus-größtes-stummelfüßchen)\
+[*Crepidotus cesatii* = Kugelsporiges Stummelfüßchen](/pilze/crepidotus-cesatii-kugelsporiges-stummelfüßchen)\
+[*Crepidotus crocophyllus* = Safranblättriges Krüppelfüßchen](/pilze/crepidotus-crocophyllus-safranblättriges-krüppelfüßchen)\
+[*Crepidotus epibryus* = Gelbweißes Stummelfüßchen](/pilze/crepidotus-epibryus-gelbweißes-stummelfüßchen)\
+[*Crepidotus luteolus* = Flaumiges Krüppelfüßchen](/pilze/crepidotus-luteolus-flaumiges-krüppelfüßchen)\
+[*Crepidotus subverrucisporus* = Rausporiges Stummelfüßchen](/pilze/crepidotus-subverrucisporus-rausporiges-stummelfüßchen)\
+[*Crepidotus variabilis* = Gemeines Stummelfüßchen](/pilze/crepidotus-variabilis-gemeines-stummelfüßchen)\
+[*Crepidotus versutus* = Striegeliges Stummelfüßchen](/pilze/crepidotus-versutus-striegeliges-stummelfüßchen)
