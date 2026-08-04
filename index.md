@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_calopus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+05.08.2026: In Nordhessen ist es offensichtlich etwas feuchter als im Rhein-Main-Gebiet. Man findet wenigstens hin und wieder ein paar richtige Pilze. So zum Beispiel meinen aktuellen [Fundkorbpilz](AA "Glossar-"), den Schönfußröhrling *Boletus calopus*, der jetzt *Caloboletus calopus* heißt. Insgesamt haben es die Röhrlinge in diesem Jahr schwerer als üblich. Um so größer die Freude über diesen Fund, der mir in einem kleineren Waldstück in der Nähe des Reinhardswalds gelungen ist. Obwohl er eigentlich sauren Nadelwald mag, stand er in einem Laubmischwald mit Löss-Lehm-Boden und ich habe ihn natürlich stehen lassen. (Anne Stark) [Mehr zu lesen lohnt sich >](https://fundkorb.de/pilze/boletus-calopus-sch%C3%B6nfu%C3%9Fr%C3%B6hrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_violeipes_01_dg-.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 30.07.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") *Paecilomyces crassipes* soll vor allem auf eine [invasive](invasiv "Glossar") Strauchpflanze hinweisen, die wir gar nicht gern in unserer Landschaft sehen. Die Spätblühende Traubenkirsche ist als [Neophyt](Neophyt "Glossar") aus Nordamerika zu uns gekommen und verdrängt hier oft flächenbedeckend einheimische Pflanzen. Der Pilz bildet auf den Blättern rundliche bis ovale Flecken von dunkel violettbrauner Farbe mit hellerer Mitte. Diese Flecken können zu mehreren zusammenfließen und zum vorzeitigen Abwurf der gilbenden Blätter führen. (Dieter Gewalt) [Mehr lesen >](/pilze/paecilomyces-crassipes)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_reticulatus_03_fk.jpeg" %}
-{% include abbildung_ende.html %}
-
-29.07.2026: Wenn der Sommer im Rhein-Main-Gebiet so trocken ist wie in diesem Jahr, hat es unser aktueller [Fundkorbpilz](AA "Glossar-"), der Sommersteinpilz *Boletus reticulatus*, nicht leicht, Fruchtkörper zu bilden. In unserer Parkanlage in Dietzenbach, wo er üblicherweise in größerer Zahl erscheint, hat es gerade mal einer unter einer Hecke am Straßenrand geschafft. Es ist wahrlich kein Prachtexemplar. Nicht einmal ein anspruchsloses Auge könnte sich an ihm erfreuen. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-reticulatus-sommersteinpilz)
 
 <div style="clear:  both"></div>
 
