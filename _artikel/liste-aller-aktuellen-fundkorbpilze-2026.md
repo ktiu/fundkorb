@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-04.08.2026: [Russula violeipes - Violettstieliger Täubling](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)  
+05.08.2026: [Boletus calopus - Schönfußröhrling](https://fundkorb.de/pilze/boletus-calopus-sch%C3%B6nfu%C3%9Fr%C3%B6hrling)  
+04.08.2026: [Russula violeipes - Violettstieliger Täubling](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)\
 03.08.2026: [Rusavskia elegans - Zierliche Gelbflechte](/pilze/rusavskia-elegans-zierliche-gelbflechte)\
 02.08.2026: [Peniophora limitata - Eschen-Zystidenrindenpilz](/pilze/peniophora-limitata-eschen-zystidenrindenpilz)\
 01.08.2026: [Kretzmaria deusta - Brandkrustenpilz](/pilze/kretzschmaria-deusta-brandkrustenpilz)
