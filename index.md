@@ -14,6 +14,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 
 **Aktueller Fundkorbpilz:**
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/crepidotus_mollis_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.08.2026: In einem Laubmischwald nahe des Reinhardswalds hatte ich einen weiteren als aktuellen [Fundkorbpilz](AA "Glossar-") geeigneten Fund. An einem feuchten Nordhang nahe eines Baches entdeckte ich die muschelförmigen, so gut wie stiellosen Fruchtkörper des Gallertfleischigen Stummelfüßchens *Crepidotus mollis* an einem morschen Buchen-Totholz. Der Pilz ist ungenießbar, gibt aber ein sehr hübsches Fotomotiv ab. (Anne Stark) [Mehr lesen >](/pilze/crepidotus-mollis-gallertfleischiges-stummelfüßchen)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_calopus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 31.07.2026: Regelmäßige Besucher unserer Seite wissen, dass wir immer mal wieder Fundmeldungen aus Thailand erhalten. So auch kürzlich, und die ist eine besonders interessante. Aktueller [Fundkorbpilz](AA "Glossar-") ist daher der Termitenpilz *Termitomyces striatus*, für den kein deutscher Name bekannt ist. Die Thais nennen ihn *„Het Khoon“* (khoon = Termite) und schätzen ihn als hervorragenden Speisepilz, der in Südostasien auch gezüchtet, in Deutschland aber selbst in Asia-Shops leider nicht angeboten wird. (Dieter Gewalt) [Mehr lesen >](/pilze/termitomyces-striatus-termitenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/paecilomyces_crassipes_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.07.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") *Paecilomyces crassipes* soll vor allem auf eine [invasive](invasiv "Glossar") Strauchpflanze hinweisen, die wir gar nicht gern in unserer Landschaft sehen. Die Spätblühende Traubenkirsche ist als [Neophyt](Neophyt "Glossar") aus Nordamerika zu uns gekommen und verdrängt hier oft flächenbedeckend einheimische Pflanzen. Der Pilz bildet auf den Blättern rundliche bis ovale Flecken von dunkel violettbrauner Farbe mit hellerer Mitte. Diese Flecken können zu mehreren zusammenfließen und zum vorzeitigen Abwurf der gilbenden Blätter führen. (Dieter Gewalt) [Mehr lesen >](/pilze/paecilomyces-crassipes)
 
 <div style="clear:  both"></div>
 
