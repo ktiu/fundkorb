@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypogymnia_tubulosa_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+07.08.2026: Beim Bestimmen von [Flechten](/verwandt/flechten) können eine Lupe und eine Rasierklinge wertvolle Hilfe leisten. Die [Lappen](Lappen "Glossar") unseres aktuellen [Fundkorbpilzes](AA "Glossar-"), der Röhrigen Blasenflechte *Hypogymnia tubulosa* sind nämlich hohl, was man im Anschnitt mit der Lupe gut erkennen kann. Diese häufige Art besiedelt Stämme, Äste und vor allem dünne Zweige sowohl von Laub- als auch von Nadelbäumen. Unten rechts im Foto ist eine Sulkatflechte zu sehen. (Dieter Gewalt) [Mehr lesen >](/pilze/hypogymnia-tubulosa-röhrige-blasenflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/crepidotus_mollis_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 01.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brandkrustenpilz *Kretzschmaria deusta*. Sein sexuelles Stadium erscheint als unauffällige schwarze Kruste vor allem am Grund von Buchenstümpfen. Ab etwa März/April wechselt er sein Aussehen und bildet das weithin sichtbare hellgraue Konidienstadium, in dem asexuelle Konidiensporen gebildet werden, aus denen ausschließlich Klone entstehen. Der Brandkrustenpilz ist ein sehr häufiger [Ascomyzet](Ascomyzeten "Glossar") an totem Laubholz. (Dieter Gewalt) [Mehr lesen >](/pilze/kretzschmaria-deusta-brandkrustenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/termitomyces_striatus_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.07.2026: Regelmäßige Besucher unserer Seite wissen, dass wir immer mal wieder Fundmeldungen aus Thailand erhalten. So auch kürzlich, und die ist eine besonders interessante. Aktueller [Fundkorbpilz](AA "Glossar-") ist daher der Termitenpilz *Termitomyces striatus*, für den kein deutscher Name bekannt ist. Die Thais nennen ihn *„Het Khoon“* (khoon = Termite) und schätzen ihn als hervorragenden Speisepilz, der in Südostasien auch gezüchtet, in Deutschland aber selbst in Asia-Shops leider nicht angeboten wird. (Dieter Gewalt) [Mehr lesen >](/pilze/termitomyces-striatus-termitenpilz)
 
 <div style="clear:  both"></div>
 
