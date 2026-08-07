@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-07.08.2026: [Hypogymnia tubulosa - Röhrige Blasenflechte](/pilze/hypogymnia-tubulosa-röhrige-blasenflechte)  
+08.08.2026: [Meripilus giganteus - Riesenporling](/pilze/meripilus-giganteus-riesenporling)  
+07.08.2026: [Hypogymnia tubulosa - Röhrige Blasenflechte](/pilze/hypogymnia-tubulosa-röhrige-blasenflechte)\
 06.08.2026: [Crepidotus mollis - Gallertfleischiges Stummelfüßchen](/pilze/crepidotus-mollis-gallertfleischiges-stummelfüßchen)\
 05.08.2026: [Boletus calopus - Schönfußröhrling](https://fundkorb.de/pilze/boletus-calopus-sch%C3%B6nfu%C3%9Fr%C3%B6hrling)\
 04.08.2026: [Russula violeipes - Violettstieliger Täubling](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)\
