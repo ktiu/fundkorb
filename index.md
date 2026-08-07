@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/meripilus_giganteus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenporling *Meripilus giganteus*. Er ist ein wahrer Gigant unter den heimischen Pilzen. Wenn er rund um einen mächtigen Baumstumpf wächst und auch noch in Form von Ausläufern in seine Umgebung streut, kann er schon mal zwei Quadratmeter Fläche einnehmen. Was dabei an Pilzmasse zusammenkommt, kann einen Zentner wiegen. Allein diese schiere Größe ist schon ein gutes Bestimmungsmerkmal. So lange er jung und zart ist, kann man ihn sogar essen. (Dieter Gewalt) [Mehr lesen >](/pilze/meripilus-giganteus-riesenporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypogymnia_tubulosa_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 02.08.2026: Zystidenrindenpilze sind eine wenig beachtete artenreiche Gattung flächig an Baumstämmen und -ästen wachsender Pilze, oft in unerreichbarer Höhe. Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist der Eschen-Zystidenrindenpilz *Peniophora limitata*, den ich im NSG Ellmendinger Roggenschleh im Enzkreis (Baden-Württemberg) schon oft gefunden und fotografiert habe. So auch in diesem Jahr. Er fällt durch seine blaugrauvioletten mosaikartig aufreißenden Krusten auf. (Bernd Miggel) [Mehr lesen >](/pilze/peniophora-limitata-eschen-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/kretschmaria_deusta_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-01.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Brandkrustenpilz *Kretzschmaria deusta*. Sein sexuelles Stadium erscheint als unauffällige schwarze Kruste vor allem am Grund von Buchenstümpfen. Ab etwa März/April wechselt er sein Aussehen und bildet das weithin sichtbare hellgraue Konidienstadium, in dem asexuelle Konidiensporen gebildet werden, aus denen ausschließlich Klone entstehen. Der Brandkrustenpilz ist ein sehr häufiger [Ascomyzet](Ascomyzeten "Glossar") an totem Laubholz. (Dieter Gewalt) [Mehr lesen >](/pilze/kretzschmaria-deusta-brandkrustenpilz)
 
 <div style="clear:  both"></div>
 
