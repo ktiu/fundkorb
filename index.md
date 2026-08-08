@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/chrysothrix_candelaris_04_bm.png" %}
+{% include abbildung_ende.html %}
+
+09.08.2026: Die Borken-Schwefelflechte *Chrysothrix candelaris*, unser aktueller [Fundkorbpilz](AA "Glossar-"), erscheint an der Rinde älterer Bäume (vor allem Kiefern, Tannen, Eichen), ist aber nicht gerade häufig. Sie gehört zu den *„leprösen“* [Flechten](/verwandt/flechten), das heißt, ihre [Lager](Lager "Glossar") bestehen aus winzigen Körnchen, die nur mit einer gut vergrößernden Lupe als solche zu erkennen sind. Durch ihre leuchtend gelbe Farbe fällt sie schon von Weitem auf. (Bernd Miggel) [Mehr lesen >](/pilze/chrysothrix-candelaris-borken-schwefelflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/meripilus_giganteus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 03.08.2026: Manche Flechten sind durchaus etwas für’s Auge. Man muss nur genau oder mit der Lupe hinschauen. Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Zierliche Gelbflechte *Rusavskia elegans*, findet man vor allem auf Steinblöcken, gern zusammen mit anderen Flechtenarten wie *[Lecanora muralis](/pilze/lecanora-muralis-mauer-flechte)*. Selbst pralle Sonne macht ihr nichts aus. Auffällig sind ihre ebenfalls gelben [Apothecien](Apothecien "Glossar"), die wie winzige Tellerchen aussehen. (Dieter Gewalt) [Mehr lesen >](/pilze/rusavskia-elegans-zierliche-gelbflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_limitata_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-02.08.2026: Zystidenrindenpilze sind eine wenig beachtete artenreiche Gattung flächig an Baumstämmen und -ästen wachsender Pilze, oft in unerreichbarer Höhe. Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") ist der Eschen-Zystidenrindenpilz *Peniophora limitata*, den ich im NSG Ellmendinger Roggenschleh im Enzkreis (Baden-Württemberg) schon oft gefunden und fotografiert habe. So auch in diesem Jahr. Er fällt durch seine blaugrauvioletten mosaikartig aufreißenden Krusten auf. (Bernd Miggel) [Mehr lesen >](/pilze/peniophora-limitata-eschen-zystidenrindenpilz)
 
 <div style="clear:  both"></div>
 
