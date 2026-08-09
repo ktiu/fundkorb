@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rhytisma_salicinum_01_dg.png" %}
+{% include abbildung_ende.html %}
+
+10.08.2026: Wer achtet schon auf [„Flicklumpenartige“ ](/verwandt/flicklumpenartige-rhytismatales)wie den Weiden-Runzelschorf *Rhytisma salicinum*? Bei der zur Zeit herrschenden Trockenheit ist man allerdings froh, auch solche unattraktiven Blattflecken als aktuellen [Fundkorbpilz](AA "Glossar-") anbieten zu können. Sie können bis zu 2 cm Länge bzw. Durchmesser erreichen und mehr oder weniger deutlich gelb umrandet sein. (Dieter Gewalt) [Mehr lesen >](/pilze/rhytisma-salicinum-weiden-runzelschorf)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/chrysothrix_candelaris_04_bm.png" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 04.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pfirsischtäubling *Russula violeipes*, den man aufgrund seiner enormen Farbvariabilität zu Recht als Chamäleon bezeichnen darf. Die Fundstelle befindet sich in einem Buchen-dominiertem Mischwald an einem der nördlichen Ausläufer des Rothaargebirges, wo der Pilz jedes Jahr sehr zuverlässig fruktifiziert. Er wird auch Violettstieliger Brätlingstäubling genannt, was bereits einen Hinweis auf seinen hervorragenden Speisewert gibt. (Anne Stark) [Mehr zu lesen lohnt sich >](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rusaskia_elegans_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-03.08.2026: Manche Flechten sind durchaus etwas für’s Auge. Man muss nur genau oder mit der Lupe hinschauen. Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Zierliche Gelbflechte *Rusavskia elegans*, findet man vor allem auf Steinblöcken, gern zusammen mit anderen Flechtenarten wie *[Lecanora muralis](/pilze/lecanora-muralis-mauer-flechte)*. Selbst pralle Sonne macht ihr nichts aus. Auffällig sind ihre ebenfalls gelben [Apothecien](Apothecien "Glossar"), die wie winzige Tellerchen aussehen. (Dieter Gewalt) [Mehr lesen >](/pilze/rusavskia-elegans-zierliche-gelbflechte)
 
 <div style="clear:  both"></div>
 
