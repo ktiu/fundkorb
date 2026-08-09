@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-09.08.2026: [Chrysothrix candelaris - Borken-Schwefelflechte](/pilze/chrysothrix-candelaris-borken-schwefelflechte)  
+10.08.2026: [Rhytisma salicinum - Weiden-Runzelschorf](/pilze/rhytisma-salicinum-weiden-runzelschorf)  
+09.08.2026: [Chrysothrix candelaris - Borken-Schwefelflechte](/pilze/chrysothrix-candelaris-borken-schwefelflechte)\
 08.08.2026: [Meripilus giganteus - Riesenporling](/pilze/meripilus-giganteus-riesenporling)\
 07.08.2026: [Hypogymnia tubulosa - Röhrige Blasenflechte](/pilze/hypogymnia-tubulosa-röhrige-blasenflechte)\
 06.08.2026: [Crepidotus mollis - Gallertfleischiges Stummelfüßchen](/pilze/crepidotus-mollis-gallertfleischiges-stummelfüßchen)\
