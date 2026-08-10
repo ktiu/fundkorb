@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lophodermium_petiolicola_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.08.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist eine Spaltlippe an vorjährigen Blattstielen von Roteichen. Mit diesem Merkmal ist die Petiolen-Spaltlippe *Lophodermium petiolicola* bereits gut charakterisiert. In unserem Porträt für diese Art finden sie ein beeindruckendes kleines Filmchen, in dem die Kamera bei starker Vergrößerung über einem dicht bewachsenen Stiel entlangfährt. (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rhytisma_salicinum_01_dg.png" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 05.08.2026: In Nordhessen ist es offensichtlich etwas feuchter als im Rhein-Main-Gebiet. Man findet wenigstens hin und wieder ein paar richtige Pilze. So zum Beispiel meinen aktuellen [Fundkorbpilz](AA "Glossar-"), den Schönfußröhrling *Boletus calopus*, der jetzt *Caloboletus calopus* heißt. Insgesamt haben es die Röhrlinge in diesem Jahr schwerer als üblich. Um so größer die Freude über diesen Fund, der mir in einem kleineren Waldstück in der Nähe des Reinhardswalds gelungen ist. Obwohl er eigentlich sauren Nadelwald mag, stand er in einem Laubmischwald mit Löss-Lehm-Boden und ich habe ihn natürlich stehen lassen. (Anne Stark) [Mehr zu lesen lohnt sich >](https://fundkorb.de/pilze/boletus-calopus-sch%C3%B6nfu%C3%9Fr%C3%B6hrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_violeipes_01_dg-.jpg" %}
-{% include abbildung_ende.html %}
-
-04.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Pfirsischtäubling *Russula violeipes*, den man aufgrund seiner enormen Farbvariabilität zu Recht als Chamäleon bezeichnen darf. Die Fundstelle befindet sich in einem Buchen-dominiertem Mischwald an einem der nördlichen Ausläufer des Rothaargebirges, wo der Pilz jedes Jahr sehr zuverlässig fruktifiziert. Er wird auch Violettstieliger Brätlingstäubling genannt, was bereits einen Hinweis auf seinen hervorragenden Speisewert gibt. (Anne Stark) [Mehr zu lesen lohnt sich >](/pilze/russula-violeipes-violettstieliger-brätlingstäubling)
 
 <div style="clear:  both"></div>
 
