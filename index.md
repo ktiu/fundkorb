@@ -18,7 +18,7 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include bild.html datei="/bilder/lophodermium_petiolicola_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-11.08.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist eine Spaltlippe an vorjährigen Blattstielen von Roteichen. Mit diesem Merkmal ist die Petiolen-Spaltlippe *Lophodermium petiolicola* bereits gut charakterisiert. In unserem Porträt für diese Art finden sie ein beeindruckendes kleines Filmchen, in dem die Kamera bei starker Vergrößerung über einem dicht bewachsenen Stiel entlangfährt. (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)
+11.08.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist eine Spaltlippe an vorjährigen Blattstielen von Roteichen. Mit diesem Merkmal ist die Petiolen-Spaltlippe *Lophodermium petiolicola* bereits gut charakterisiert. In unserem Porträt für diese Art finden Sie ein beeindruckendes kleines Filmchen, in dem die Kamera bei starker Vergrößerung über einem dicht bewachsenen Stiel entlangfährt. (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)
 
 <div style="clear:  both"></div>
 
