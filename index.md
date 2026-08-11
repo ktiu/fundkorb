@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ganoderma_adspersum_05.jpg" %}
+{% include abbildung_ende.html %}
+
+12.08.2026: Die Hutkruste des Wulstigen Lackporlings *Ganoderma adspersum* lässt sich nicht mit dem Fingernagel eindrücken, sie ist auch nicht von einer festen Harzschicht bedeckt, die man mit einer Streichholzflamme zum Schmelzen bringen könnte. Er ist stiellos am Holz angewachsen. Mit dieser Merkmalskombination ist unser aktueller [Fundkorbpilz](AA "Glossar-") gut von allen übrigen Lackporlingen zu unterscheiden. In dieser Gattung gibz es allerdings nur eine häufige Art: den [Flachen Lackporling *Ganoderma applanatum*](/pilze/ganoderma-applanatum-flacher-lackporling). (Dieter Gewalt) [Mehr lesen >](/pilze/ganoderma-adspersum-wulstiger-lackporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lophodermium_petiolicola_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 06.08.2026: In einem Laubmischwald nahe des Reinhardswalds hatte ich einen weiteren als aktuellen [Fundkorbpilz](AA "Glossar-") geeigneten Fund. An einem feuchten Nordhang nahe eines Baches entdeckte ich die muschelförmigen, so gut wie stiellosen Fruchtkörper des Gallertfleischigen Stummelfüßchens *Crepidotus mollis* an einem morschen Buchen-Totholz. Der Pilz ist ungenießbar, gibt aber ein sehr hübsches Fotomotiv ab. (Anne Stark) [Mehr lesen >](/pilze/crepidotus-mollis-gallertfleischiges-stummelfüßchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_calopus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-05.08.2026: In Nordhessen ist es offensichtlich etwas feuchter als im Rhein-Main-Gebiet. Man findet wenigstens hin und wieder ein paar richtige Pilze. So zum Beispiel meinen aktuellen [Fundkorbpilz](AA "Glossar-"), den Schönfußröhrling *Boletus calopus*, der jetzt *Caloboletus calopus* heißt. Insgesamt haben es die Röhrlinge in diesem Jahr schwerer als üblich. Um so größer die Freude über diesen Fund, der mir in einem kleineren Waldstück in der Nähe des Reinhardswalds gelungen ist. Obwohl er eigentlich sauren Nadelwald mag, stand er in einem Laubmischwald mit Löss-Lehm-Boden und ich habe ihn natürlich stehen lassen. (Anne Stark) [Mehr zu lesen lohnt sich >](https://fundkorb.de/pilze/boletus-calopus-sch%C3%B6nfu%C3%9Fr%C3%B6hrling)
 
 <div style="clear:  both"></div>
 
