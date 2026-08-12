@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/vuilleminia_comedens_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Rindensprenger *Vuilleminia comedens*, der in keinem Eichenbestand fehlt. Er entwickelt sich unter der Rinde und sprengt diese bald an allen Seiten auf, wobei sie sich gern zusammenrollt. Es gibt zahreiche weitere Rindensprengerarten an unterschiedlichen Substraten, die oft nur mikroskopisch zu unterscheiden sind. (Dieter Gewalt) [Mehr lesen >](/pilze/vuilleminia-comedens-gemeiner-rindensprenger)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ganoderma_adspersum_05.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 07.08.2026: Beim Bestimmen von [Flechten](/verwandt/flechten) können eine Lupe und eine Rasierklinge wertvolle Hilfe leisten. Die [Lappen](Lappen "Glossar") unseres aktuellen [Fundkorbpilzes](AA "Glossar-"), der Röhrigen Blasenflechte *Hypogymnia tubulosa* sind nämlich hohl, was man im Anschnitt mit der Lupe gut erkennen kann. Diese häufige Art besiedelt Stämme, Äste und vor allem dünne Zweige sowohl von Laub- als auch von Nadelbäumen. Unten rechts im Foto ist eine Sulkatflechte zu sehen. (Dieter Gewalt) [Mehr lesen >](/pilze/hypogymnia-tubulosa-röhrige-blasenflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/crepidotus_mollis_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.08.2026: In einem Laubmischwald nahe des Reinhardswalds hatte ich einen weiteren als aktuellen [Fundkorbpilz](AA "Glossar-") geeigneten Fund. An einem feuchten Nordhang nahe eines Baches entdeckte ich die muschelförmigen, so gut wie stiellosen Fruchtkörper des Gallertfleischigen Stummelfüßchens *Crepidotus mollis* an einem morschen Buchen-Totholz. Der Pilz ist ungenießbar, gibt aber ein sehr hübsches Fotomotiv ab. (Anne Stark) [Mehr lesen >](/pilze/crepidotus-mollis-gallertfleischiges-stummelfüßchen)
 
 <div style="clear:  both"></div>
 
