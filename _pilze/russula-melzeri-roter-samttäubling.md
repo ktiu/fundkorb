@@ -5,6 +5,7 @@ beschreibung:
   referenz: Zvára 1927
   erlaeuterung: melzeri = zu Ehren des Mykologen V. Melzer
   familie: Russulaceae
+  synonym: Russula laeta, Russula borealis
 profil:
   aktualisiert: 2023-08-08
   autor_in: Bernd Miggel
