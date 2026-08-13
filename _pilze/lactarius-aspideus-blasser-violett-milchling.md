@@ -29,9 +29,15 @@ literatur:
 {% include bild.html datei="/bilder/lactarius_aspideus_01_bw.jpg" %}
 {% include abbildung_ende.html legende="Foto: Björn Wergen: Landschaftsschutzgebiet Harzloch, nördl. von St. Georgen, Schwarzwald, bei Weiden" %}
 
-Diesen in Mitteleuropa sehr seltenen Milchling zu finden, dürfte für jeden Pilzfreund ein glücklich machendes Erlebnis sein. Deutlich häufiger ist er zum Beispiel in Skandinavien. Er wächst bei Weiden und Erlen, bevorzugt an Gewässer- und Moorrändern. Funde in solchen speziellen ökologischen Nischen dürften in Verbindung mit der für Milchlinge geringen Fruchtkörpergröße Verwechslungen mit anderen violettmilchenden *Lactarius*-Arten ausschließen. Er wird auch Hellgelber Violettmilchling oder Schildmilchling genannt. Gemäß Rote Liste gefährdeter Pilze (*F. Dämmrich et al.* 2016) gilt für *Lactarius aspideus* der Gefährdungsgrad RL 2 (stark gefährdet), was aufgrund von Trockenlegungen und fortschreitender Klimaerwärmung in Zukunft noch kritischer werden dürfte.
+Diesen in Mitteleuropa sehr seltenen Milchling zu finden, dürfte für jeden Pilzfreund ein glücklich machendes Erlebnis sein. Deutlich häufiger ist er zum Beispiel in Skandinavien. Er wächst bei Weiden und Erlen, bevorzugt an Gewässer- und Moorrändern. Funde in solchen speziellen ökologischen Nischen dürften in Verbindung mit der für Milchlinge geringen Fruchtkörpergröße Verwechslungen mit anderen violettmilchenden *Lactarius*-Arten ausschließen. Er wird auch Hellgelber Violettmilchling oder Schildmilchling genannt.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/lactarius_aspideus_06_km.jpg" %}
+{% include abbildung_ende.html legende="Foto: Karin Montag" %}
+
+Gemäß Rote Liste gefährdeter Pilze (*F. Dämmrich et al.* 2016) gilt für *Lactarius aspideus* der Gefährdungsgrad RL 2 (stark gefährdet), was aufgrund von Trockenlegungen und fortschreitender Klimaerwärmung in Zukunft noch kritischer werden dürfte.
+
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/lactarius_aspideus_02_bw.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/lactarius_aspideus_03_bw.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="2 Fotos: Björn Wergen" %}
