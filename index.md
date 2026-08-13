@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hypogymnnia_farinacea_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+14.08.2026: Beim Bestimmen von Flechten können eine Lupe und eine Rasierklinge wertvolle Hilfe leisten. Die Lappen unseres aktuellen [Fundkorbpilzes](AA "Glossar-"), der Mehligen Blasenflechte *Hypogymnia farinacea* sind nämlich <ins>nicht</ins> hohl, was man im Anschnitt mit der Lupe gut erkennen kann. Im Gegesatz zur optisch kaum unterscheidbaren [Röhrigen Blasenflechte *Hypogymnia tubulosa*](/pilze/hypogymnia-tubulosa-röhrige-blasenflechte), die hohle Lappen besitzt. Beide Arten sind nicht gerade häufig. (Bernd Miggel) [Mehr lesen >](/pilze/hypogymnia-farinacea-mehlige-blasenflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/vuilleminia_comedens_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 08.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenporling *Meripilus giganteus*. Er ist ein wahrer Gigant unter den heimischen Pilzen. Wenn er rund um einen mächtigen Baumstumpf wächst und auch noch in Form von Ausläufern in seine Umgebung streut, kann er schon mal zwei Quadratmeter Fläche einnehmen. Was dabei an Pilzmasse zusammenkommt, kann einen Zentner wiegen. Allein diese schiere Größe ist schon ein gutes Bestimmungsmerkmal. So lange er jung und zart ist, kann man ihn sogar essen. (Dieter Gewalt) [Mehr lesen >](/pilze/meripilus-giganteus-riesenporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypogymnia_tubulosa_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-07.08.2026: Beim Bestimmen von [Flechten](/verwandt/flechten) können eine Lupe und eine Rasierklinge wertvolle Hilfe leisten. Die [Lappen](Lappen "Glossar") unseres aktuellen [Fundkorbpilzes](AA "Glossar-"), der Röhrigen Blasenflechte *Hypogymnia tubulosa* sind nämlich hohl, was man im Anschnitt mit der Lupe gut erkennen kann. Diese häufige Art besiedelt Stämme, Äste und vor allem dünne Zweige sowohl von Laub- als auch von Nadelbäumen. Unten rechts im Foto ist eine Sulkatflechte zu sehen. (Dieter Gewalt) [Mehr lesen >](/pilze/hypogymnia-tubulosa-röhrige-blasenflechte)
 
 <div style="clear:  both"></div>
 
