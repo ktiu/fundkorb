@@ -5,6 +5,7 @@ beschreibung:
   referenz: Jul. Schäff. 1931
   erlaeuterung: versicolor = verschiedenfarbig
   familie: Russulaceae
+  synonym: Russula blackfordiae
 profil:
   aktualisiert: 2023-03-28
   autor_in: Dieter Gewalt
