@@ -14,7 +14,7 @@ hauptbild:
 literatur:
   - url: http://tintling.com/pilzbuch/arten/p/Pholiota_aurivella.html
 ---
-Ein Fell hat er nicht, auch wenn sein wissenschaftlicher Artname aurivella „Goldfell“ bedeutet. Nur ein paar dunkle Haarbüschel, die in der Schleimschicht eingebettet sind. Nicht selten wächst er aus Wunden in der Rinde oder Rissen im Holz, die er in der Regel aber nicht verursacht hat. Der Goldfellschüppling ist ein [Saprobiont](saprobiontisch "Glossar"), der über solche Stammwunden und Astabbrüche bis ins Kernholz lebender Bäume eindringen und dort eine Braunfäule erzeugen kann. Am häufigsten ist er aber an totem, noch wenig vermorschtem Holz zu finden, vor allen an Buchen. Bei feuchtem Wetter ist der Pilz so schleimig, dass man ihn kaum anzufassen wagt. Der Stiel ist eher trocken.
+#### Ein Fell hat er nicht, auch wenn sein wissenschaftlicher Artname aurivella „Goldfell“ bedeutet. Nur ein paar dunkle Haarbüschel, die in der Schleimschicht eingebettet sind. Nicht selten wächst er aus Wunden in der Rinde oder Rissen im Holz, die er in der Regel aber nicht verursacht hat. Der Goldfellschüppling ist ein [Saprobiont](saprobiontisch "Glossar"), der über solche Stammwunden und Astabbrüche bis ins Kernholz lebender Bäume eindringen und dort eine Braunfäule erzeugen kann. Am häufigsten ist er aber an totem, noch wenig vermorschtem Holz zu finden, vor allen an Buchen. Bei feuchtem Wetter ist der Pilz so schleimig, dass man ihn kaum anzufassen wagt. Der Stiel ist eher trocken.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pholiota_aurivella_02_dg.jpg" %}
@@ -32,7 +32,7 @@ Verwechselt werden könnte er mit dem Schleimigen Schüppling *Pholiota adiposa*
 
 **Pholiota adiposa*** Hut und Stiel schleimig, Schüppchen teilweise aufgerichtet, Geschmack bitter\
 **Pholiota aurivella** Hut schleimig, Stiel trocken, Schüppchen angedrückt, Geschmack mild\
-**Pholiota jahnii** Hut schleimig, Stiel trocken, Schüppchen pinselartig aufgerichtet,
+**[Pholiota jahnii](/pilze/pholiota-jahnii-pinselschüppling)** Hut schleimig, Stiel trocken, Schüppchen pinselartig aufgerichtet,
 Geschmack mild
 
 * wird neuerdings von einigen Mykologen unter Pholiota aurivella subsummiert, was ich nicht nachvollziehen kann
@@ -51,3 +51,14 @@ Sporen: elliptisch, glatt, dickwandig, mit Keimporus, 7,0 - 10,0  X  4,5 - 6,0 �
 **Pholiota adiposa** 5,5 – 6,5 x 3,0 – 4,0 µ\
 **Pholiota aurivella** 7,0 – 10,0 x 4,5 – 6,0 µ\
 **Pholiota jahnii** 5,0 – 7,0 x 3,0 – 4,0 µ
+
+- - -
+
+#### Aktualisierung
+
+Der Name *Pholiota aurivella* wird aktuell nicht mehr verwendet, weil es ein *nomen dubium* ist (= zweifelhafter Name, in der biologischen Taxonomie ein wissenschaftlicher Name, der sich nicht sicher einer bestimmten Art oder Gruppe zuordnen lässt). Die *„Goldfellschüpplinge“* lassen sich makroskopisch eigentlich nicht unterscheiden und haben nur geringe mikroskopische Unterschiede. Allerdings kann das Substrat Hinweise auf die die Art geben. Es werden also unterschieden:\
+*Pholiota adiposa*, hauptsächlich an Buche, manchmal auch an anderen Laubbäumen, selten an Nadelhölzern.\
+*Pholiota cerifera*, exklusiv auf Weide.\
+*Pholiota limonella*, meist auf Erle.\
+Nicht in diese Kategorie fallen die meist auf Boden wachsenden *[Pholiota jahnii](/pilze/pholiota-jahnii-pinselschüppling)* und *Pholiota lucifera*.
+(Harald Zühlsdorf)
