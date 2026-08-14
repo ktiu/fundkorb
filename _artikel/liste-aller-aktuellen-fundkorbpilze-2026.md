@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-14.08.2026: [Hypogymnia farinacea - Mehlige Blasenflechte](/pilze/hypogymnia-farinacea-mehlige-blasenflechte)  
+15.08.2026: [Trechispora farinacea - Mehliger Stachelporling](/pilze/trechispora-farinacea-mehliger-stachelporling)  
+14.08.2026: [Hypogymnia farinacea - Mehlige Blasenflechte](/pilze/hypogymnia-farinacea-mehlige-blasenflechte)\
 13.08.2026: [Vuilleminia comedens - Gemeiner Rindensprenger](/pilze/vuilleminia-comedens-gemeiner-rindensprenger)\
 12.08.2026: [Ganoderma adspersum - Wulstiger Lackporling](<Ganoderma adspersum - Wulstiger Lackporling>)\
 11.08.2026: [Lophodermium petiolicola - Petiolen-Spaltlippe](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)\
