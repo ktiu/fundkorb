@@ -23,6 +23,7 @@ literatur:
 Schüpplinge sind überwiegend mittelgroße Blätterpilze mit gelblichen oder bräunlichen Farben und meist schuppiger und bei einigen Arten auch schleimiger Hutoberfläche. Findet man kleinere gesellig wachsende Schüpplinge mit nicht grobschuppigen Stielen in Nadelwäldern auf Holzresten oder gar auf Sägemehl, sollte man immer den Nadel-Schüppling in Betracht ziehen.
 
 {% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/pholiota_spumosa_02_md.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
 Seine gelb- bis fuchsig braunen Hüte erreichen Durchmesser von 3 bis 5 cm. Bei feuchtem Wetter sind sie schleimig, bei Trockenheit klebrig. Die Ränder sind manchmal mit braunen [Velumresten](Velum "Glossar") behangen. Die dicht stehenden, mehrfach mit kürzeren untermischten Lamellen sind jung gelb und verfärben sich durch ausfallendes Sporenpulver bräunlich. Die hohlen, schlanken, oft verbogenen Stiele sind blass gelblich, zur Basis hin braun. Sie können bis zu 8 cm lang und maximal 0,8 cm dick werden. Das Fleisch ist im Hut hell ockergelb, im Stiel zur Basis hin braun. Geruch nicht unangenehm, Geschmack mild bis bitterlich, auch schwach adstringierend. Das Sporenpulver ist bräunlich.
