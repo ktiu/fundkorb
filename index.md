@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/trechispora_farinacea_01_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+15.08.2026: Nicht überall ist dieser recht häufige aktuelle [Fundkorbpilz](AA "Glossar-"), der Mehlige Stachelporling *Trechispora farinacea*, nachgewiesen. Der Grund: um ihn sicher zu erkennen, muss man ihn mit einer gut vergrößernden Lupe betrachten und mikroskopieren. Die weißlichen bis creme-grauen Beläge dieses Rindenpilzes sind das ganze Jahr über in allen Waldgesellschaften und auf allen möglichen Holzarten, egal ob Laub- oder Nadelholz, zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/trechispora-farinacea-mehliger-stachelporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hypogymnnia_farinacea_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 09.08.2026: Die Borken-Schwefelflechte *Chrysothrix candelaris*, unser aktueller [Fundkorbpilz](AA "Glossar-"), erscheint an der Rinde älterer Bäume (vor allem Kiefern, Tannen, Eichen), ist aber nicht gerade häufig. Sie gehört zu den *„leprösen“* [Flechten](/verwandt/flechten), das heißt, ihre [Lager](Lager "Glossar") bestehen aus winzigen Körnchen, die nur mit einer gut vergrößernden Lupe als solche zu erkennen sind. Durch ihre leuchtend gelbe Farbe fällt sie schon von Weitem auf. (Bernd Miggel) [Mehr lesen >](/pilze/chrysothrix-candelaris-borken-schwefelflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/meripilus_giganteus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Riesenporling *Meripilus giganteus*. Er ist ein wahrer Gigant unter den heimischen Pilzen. Wenn er rund um einen mächtigen Baumstumpf wächst und auch noch in Form von Ausläufern in seine Umgebung streut, kann er schon mal zwei Quadratmeter Fläche einnehmen. Was dabei an Pilzmasse zusammenkommt, kann einen Zentner wiegen. Allein diese schiere Größe ist schon ein gutes Bestimmungsmerkmal. So lange er jung und zart ist, kann man ihn sogar essen. (Dieter Gewalt) [Mehr lesen >](/pilze/meripilus-giganteus-riesenporling)
 
 <div style="clear:  both"></div>
 
