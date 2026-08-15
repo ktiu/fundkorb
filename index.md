@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lophodermium_arundinaceum_01_hl.jpg" %}
+{% include abbildung_ende.html %}
+
+16.08.2026: In so pilzarmen Zeiten, wie ich sie noch nie erlebt habe, kann man froh sein, dass es so unscheinbare Gruppen wie Spaltlippen gibt. Also ist unser aktueller [Fundkorbpilz](AA "Glossar-") eine weitere, und zwar die Schilf-Spaltlippe *Lophodermium arundinaceum*, die in keinem Schilfbestand fehlen dürfte wie zum Beispiel an mehreren Stellen rund um und in Dietzenbach. Ihre schwarzen kaffeebohnenförmigen Fruchtkörper werden etwa 1 mm lang und ca. 0,4 mm breit. (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-arundinaceum-schilf-spaltlippe)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/trechispora_farinacea_01_wp.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 10.08.2026: Wer achtet schon auf [„Flicklumpenartige“ ](/verwandt/flicklumpenartige-rhytismatales)wie den Weiden-Runzelschorf *Rhytisma salicinum*? Bei der zur Zeit herrschenden Trockenheit ist man allerdings froh, auch solche unattraktiven Blattflecken als aktuellen [Fundkorbpilz](AA "Glossar-") anbieten zu können. Sie können bis zu 2 cm Länge bzw. Durchmesser erreichen und mehr oder weniger deutlich gelb umrandet sein. (Dieter Gewalt) [Mehr lesen >](/pilze/rhytisma-salicinum-weiden-runzelschorf)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chrysothrix_candelaris_04_bm.png" %}
-{% include abbildung_ende.html %}
-
-09.08.2026: Die Borken-Schwefelflechte *Chrysothrix candelaris*, unser aktueller [Fundkorbpilz](AA "Glossar-"), erscheint an der Rinde älterer Bäume (vor allem Kiefern, Tannen, Eichen), ist aber nicht gerade häufig. Sie gehört zu den *„leprösen“* [Flechten](/verwandt/flechten), das heißt, ihre [Lager](Lager "Glossar") bestehen aus winzigen Körnchen, die nur mit einer gut vergrößernden Lupe als solche zu erkennen sind. Durch ihre leuchtend gelbe Farbe fällt sie schon von Weitem auf. (Bernd Miggel) [Mehr lesen >](/pilze/chrysothrix-candelaris-borken-schwefelflechte)
 
 <div style="clear:  both"></div>
 
