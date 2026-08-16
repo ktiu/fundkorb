@@ -35,4 +35,4 @@ Basidien keulig, manchmal etwas verbogen, mit Schnalle; 22 - 26 x 6,5 - 8 µm; S
 
 Der Fettige Schüppling ist von Mai bis Dezember zu finden; Haupterscheinungszeit ist September/Oktober. Wegen seines bitteren Geschmacks nicht für die Küche geeignet.
 
-Deutlich bittere *Pholiota*-Arten außer dem hier beschriebenen Fettigen Schüppling sind vor allem [*Pholiota astragalina* (Safranroter Schüppling)](/pilze/pholiota-astragalina-safranroter-schüppling), [*Pholiota populnea* (Pappel-Schüppling)](/pilze/pholiota-populnea-pappelschüppling) und [*Pholiota tuberculosa* (Faserschüppling, Rötender Schüppling)](pilze/pholiota-tuberculosa-faserschüppling-krummstieliger-schüppling).
+Deutlich bittere *Pholiota*-Arten außer dem hier beschriebenen Fettigen Schüppling sind vor allem [*Pholiota astragalina* (Safranroter Schüppling)](/pilze/pholiota-astragalina-safranroter-schüppling), [*Pholiota populnea* (Pappel-Schüppling)](/pilze/pholiota-populnea-pappelschüppling) und [*Pholiota tuberculosa* (Faserschüppling, Krummstieliger Schüppling)](/pilze/pholiota-tuberculosa-faserschüppling-krummstieliger-schüppling).
