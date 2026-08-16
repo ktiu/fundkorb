@@ -15,7 +15,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/xylaria_filiformis_01_wi.jpg" %}
 {% include abbildung_ende.html %}
 
-
+Cistella acuum --- Pholiota spumosa --- Xylaria filiformis
 
 Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilzkurs-für-einsteiger-1.html)
 
