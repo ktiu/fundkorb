@@ -8,6 +8,8 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
+ {% include pilzsuche.html %} 
+
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
