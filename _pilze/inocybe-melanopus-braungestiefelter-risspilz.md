@@ -53,7 +53,7 @@ Hut bis 58 mm Durchmesser, nicht [hygrophan](hygrophan "Glossar"), strohfarben, 
 
 **Mikroskopische Merkmale:**
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/inocybe_melanopus_06_hs.jpg" %}
 {% include abbildung_ende.html legende="Abb. oben links: Sporen – oben rechts: inkrustierte Huthauthyphen – unten: Hymeniakzystiden" %}
 
