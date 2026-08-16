@@ -15,6 +15,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/colpoma_quercinum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.08.2026: In Eichenbeständen wird man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Eichen-Schildbecherling *Colpoma quercinum* nicht vergeblich suchen. Jung sind die meist quer zur Astrichtung platzierten etwa 10 x 5 mm großen Fruchtkörperchen grau, im Alter verkrusten sie und werden schwarz. Der Pilz gehört zur Ordnung der *[Rhytismatales](/verwandt/flicklumpenartige-rhytismatales)*, den sogenannten Flicklumpenartigen. (Dieter Gewalt) [Mehr lesen >](/pilze/colpoma-quercinum-eichen-schildbecherling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lophodermium_arundinaceum_01_hl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -59,14 +67,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 11.08.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist eine Spaltlippe an vorjährigen Blattstielen von Roteichen. Mit diesem Merkmal ist die Petiolen-Spaltlippe *Lophodermium petiolicola* bereits gut charakterisiert. In unserem Porträt für diese Art finden Sie ein beeindruckendes kleines Filmchen, in dem die Kamera bei starker Vergrößerung über einem dicht bewachsenen Stiel entlangfährt. (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rhytisma_salicinum_01_dg.png" %}
-{% include abbildung_ende.html %}
-
-10.08.2026: Wer achtet schon auf [„Flicklumpenartige“ ](/verwandt/flicklumpenartige-rhytismatales)wie den Weiden-Runzelschorf *Rhytisma salicinum*? Bei der zur Zeit herrschenden Trockenheit ist man allerdings froh, auch solche unattraktiven Blattflecken als aktuellen [Fundkorbpilz](AA "Glossar-") anbieten zu können. Sie können bis zu 2 cm Länge bzw. Durchmesser erreichen und mehr oder weniger deutlich gelb umrandet sein. (Dieter Gewalt) [Mehr lesen >](/pilze/rhytisma-salicinum-weiden-runzelschorf)
 
 <div style="clear:  both"></div>
 
