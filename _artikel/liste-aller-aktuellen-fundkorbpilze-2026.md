@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-16.08.2026: [Lophodermium arundinaceum - Schilf-Spaltlippe](/pilze/lophodermium-arundinaceum-schilf-spaltlippe)  
+17.08.2026 [Colpoma quercinum - Eichen-Schildbecherling](/pilze/colpoma-quercinum-eichen-schildbecherling)  
+16.08.2026: [Lophodermium arundinaceum - Schilf-Spaltlippe](/pilze/lophodermium-arundinaceum-schilf-spaltlippe)\
 15.08.2026: [Trechispora farinacea - Mehliger Stachelporling](/pilze/trechispora-farinacea-mehliger-stachelporling)\
 14.08.2026: [Hypogymnia farinacea - Mehlige Blasenflechte](/pilze/hypogymnia-farinacea-mehlige-blasenflechte)\
 13.08.2026: [Vuilleminia comedens - Gemeiner Rindensprenger](/pilze/vuilleminia-comedens-gemeiner-rindensprenger)\
