@@ -13,12 +13,10 @@ footer_scripts:
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/cistella_acuum_02_iw.jpg" %}
-{% include bild.html datei="/bilder/pholiota_spumosa_01_md.jpg" %}
-{% include bild.html datei="/bilder/xylaria_filiformis_01_wi.jpg" %}
-{% include abbildung_ende.html %}
-
-[Cistella acuum](/pilze/cistella-acuum-nadel-haarbecherchen) --- [Pholiota spumosa](/pilze/pholiota-spumosa-nadel-schüppling) --- [Xylaria filiformis](/pilze/xylaria-filiformis-fädige-holzkeule)
+{% include bild.html datei="/bilder/pholiota_spumosa_01_md.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/cistella_acuum_02_iw.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/pholiota_lucifera_02_md.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Pholiota lucifera ------- Cistella acuum ------- Pholiota spumosa" %}
 
 Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilzkurs-für-einsteiger-1.html)
 
