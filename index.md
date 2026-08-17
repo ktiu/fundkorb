@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/pholiota_spumosa_01_md.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/cistella_acuum_02_iw.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/pholiota_lucifera_02_md.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Pholiota lucifera ------- Cistella acuum ------- Pholiota spumosa" %}
+{% include abbildung_ende.html legende="Pholiota lucifera ------------ Cistella acuum ------------ Pholiota spumosa" %}
 
 Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilzkurs-für-einsteiger-1.html)
 
