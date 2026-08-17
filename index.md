@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/volvariella_bombycina_xx.png" %}
+{% include abbildung_ende.html %}
+
+18.08.2026: Endlich mal wieder einer richtig schöner aktueller [Fundkorbpilz](AA "Glossar-") mit Hut, Stiel und Lamellen! *Adam Adamovitz* hat den Wolligen Scheidling *Volvariella bombycina* im Frankfurter Biegwald gefunden. Scheidlinge sind mit Dachpilzen verwandt, haben wie diese rosafarbenes Sporenpulver und daher bei Reife auch rosa Lamellen, im Gegesatz zu den Dachpilzen jedoch eine sackartige, häutige Scheide am Stielgrund. Daher der Name Scheidling! (Dieter Gewalt) [Mehr lesen >](/pilze/volvariella-bombycina-wolliger-scheidling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/colpoma_quercinum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 12.08.2026: Die Hutkruste des Wulstigen Lackporlings *Ganoderma adspersum* lässt sich nicht mit dem Fingernagel eindrücken, sie ist auch nicht von einer festen Harzschicht bedeckt, die man mit einer Streichholzflamme zum Schmelzen bringen könnte. Er ist stiellos am Holz angewachsen. Mit dieser Merkmalskombination ist unser aktueller [Fundkorbpilz](AA "Glossar-") gut von allen übrigen Lackporlingen zu unterscheiden. In dieser Gattung gibz es allerdings nur eine häufige Art: den [Flachen Lackporling *Ganoderma applanatum*](/pilze/ganoderma-applanatum-flacher-lackporling). (Dieter Gewalt) [Mehr lesen >](/pilze/ganoderma-adspersum-wulstiger-lackporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lophodermium_petiolicola_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.08.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist eine Spaltlippe an vorjährigen Blattstielen von Roteichen. Mit diesem Merkmal ist die Petiolen-Spaltlippe *Lophodermium petiolicola* bereits gut charakterisiert. In unserem Porträt für diese Art finden Sie ein beeindruckendes kleines Filmchen, in dem die Kamera bei starker Vergrößerung über einem dicht bewachsenen Stiel entlangfährt. (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-petiolicola-petiolen-spaltlippe)
 
 <div style="clear:  both"></div>
 
