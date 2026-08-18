@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_polygonia_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+19.08.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Espen-Zystidenpilz *Peniophora polygonia*, entwickelt sich an der Unterseite noch am Baum befindlicher abgestorbener Äste aus kleinen weißlichen Flecken, die auf der Rinde zu einer ausgedehnten [resupinaten](resupinat "Glossar") Fruchtschicht zusammenwachsen. Der Pilz kommt ganzjährig an Pappelarten *(Populus euroamericanus, Populus tremulae*) vor, sehr selten auch an anderen Laubbaumarten. Natürlich ist er auch an abgefallenen, am Boden liegenden Ästen und Zweigen zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/volvariella_bombycina_xx.png" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 13.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Rindensprenger *Vuilleminia comedens*, der in keinem Eichenbestand fehlt. Er entwickelt sich unter der Rinde und sprengt diese bald an allen Seiten auf, wobei sie sich gern zusammenrollt. Es gibt zahreiche weitere Rindensprengerarten an unterschiedlichen Substraten, die oft nur mikroskopisch zu unterscheiden sind. (Dieter Gewalt) [Mehr lesen >](/pilze/vuilleminia-comedens-gemeiner-rindensprenger)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ganoderma_adspersum_05.jpg" %}
-{% include abbildung_ende.html %}
-
-12.08.2026: Die Hutkruste des Wulstigen Lackporlings *Ganoderma adspersum* lässt sich nicht mit dem Fingernagel eindrücken, sie ist auch nicht von einer festen Harzschicht bedeckt, die man mit einer Streichholzflamme zum Schmelzen bringen könnte. Er ist stiellos am Holz angewachsen. Mit dieser Merkmalskombination ist unser aktueller [Fundkorbpilz](AA "Glossar-") gut von allen übrigen Lackporlingen zu unterscheiden. In dieser Gattung gibz es allerdings nur eine häufige Art: den [Flachen Lackporling *Ganoderma applanatum*](/pilze/ganoderma-applanatum-flacher-lackporling). (Dieter Gewalt) [Mehr lesen >](/pilze/ganoderma-adspersum-wulstiger-lackporling)
 
 <div style="clear:  both"></div>
 
