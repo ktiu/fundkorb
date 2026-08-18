@@ -20,6 +20,10 @@ literatur:
   - url: https://www.mushroomexpert.com/suillus_lakei.html
   - url: https://ultimate-mushroom.com/de/edible/883-suillus-lakei.html
 ---
+
+
+
+
 Diese wenig bekannte Schmierröhrlingsart ist mit ihrem [Mykorrhizapartner](Mykorrhiza "Glossar"), der Douglasie (*Pseudotsuga menziesii*), aus Nordamerika nach Europa gekommen. Es handelt sich also um eine sogenannte invasive Art. Sie wird bereits in *Meinhard Mosers* Pilzbestimmungsbuch aus dem Jahr 1983 als [Synonym](Synonym "Glossar") zu *Suillus amabilis* geschlüsselt. Lt. DGfM-Verbreitungskarte gibt es inzwischen 37 Nachweise im Nordosten Deutschlands, die meisten in und um Berlin. Pilzfreunde in ganz Europa sind daher aufgerufen, auf diese interessante Art zu achten und Funde zu melden. *Suillus lakei* zu identifizieren, dürfte kein Problem sein. Sie ist durch markante Merkmale gut von ähnlichen Arten zu unterscheiden. Um *Mosers* Schlüssel zu folgen: 1. Hut trocken, filzig, schuppig > 2. Sektion *Solidipes*. Hier: bei Douglastannen = *Suillus amabilis* (= *Suillus lakei*).
 
 {% include abbildung_start.html stil="mittel" %}
@@ -31,3 +35,11 @@ Die rotbräunlichen, deutlich geschuppten trockenen Hüte erreichen Durchmesser 
 Verwechselt werden könnte *Suillus lakei* mit dem ebenfalls aus der nordamerikanischen Westküste eingewanderten [Blauenden Schmierröhrling *Suillus caerulescens*](/pilze/suillus-caerulescens-blauender-schmierröhrling). Auch er ist mit der Douglasie zu uns gekommen, bisher aber nur auf dem Städtischen Friedhof von Chemnitz nachgewiesen. Er unterscheidet sich durch die ungeschuppte Huthaut und das leichte Blauen des Stielfleisches.
 
 Der Douglasien-Röhrling ist essbar, sollte aber aufgrund seiner Seltenheit geschont werden. Zu berüchsichtigen wären allenfalls seltene individuelle Unverträglickeiten, die für die meisten Schmierröhrlinge vor allem bei zu üppigem Verzehr gelten.
+
+- - -
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/douglasie_zapfen_01_xx.png" %}
+{% include abbildung_ende.html legende="Kleine Hilfe zum Erkennen von Douglasien:" %}
+
+Es handelt sich um sehr groß werdende Nadelbäume. Ältere Exemplare haben eine grobe, rissige Borke. Die Zapfen haben herausstehende dreizipfelige Deckschuppen. Die Nadeln sind eher weich, stechen nicht und riechen beim Zerreiben aromatisch nach Orange oder Zitrone.
