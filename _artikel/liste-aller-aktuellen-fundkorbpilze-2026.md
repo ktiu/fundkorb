@@ -2,6 +2,7 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
+19.08.2026: [Peniophora polygonia - Espen-Zystidenrindenpilz](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)  
 18.08.2026 [Volvariella bombycina - Wolliger Scheidling](/pilze/volvariella-bombycina-wolliger-scheidling)\
 17.08.2026 [Colpoma quercinum - Eichen-Schildbecherling](/pilze/colpoma-quercinum-eichen-schildbecherling)\
 16.08.2026: [Lophodermium arundinaceum - Schilf-Spaltlippe](/pilze/lophodermium-arundinaceum-schilf-spaltlippe)\
