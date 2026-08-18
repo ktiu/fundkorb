@@ -33,3 +33,11 @@ Die Soren sind ellipsoid und messen 7,0 - 9,5 x 3,5 - 4,5 µm.
 {% include abbildung_ende.html legende="Drei Fruchtkörper rechts im Bild = Suillus lakei" %}
 
 Ebenfalls mit der Douglasie von der Westküste Nordamerikas eingeschleppt worden ist der [Douglasien-Röhrling *Suillus lakei*](/pilze/suillus-lakei-douglasien-röhrling). Bisher ist er vor allem im Nordosten Deutschlands und hier in und um Berlin gefunden worden.
+
+- - -
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/douglasie_zapfen_01_xx.png" %}
+{% include abbildung_ende.html legende="Kleine Hilfe zum Erkennen von Douglasien:" %}
+
+Es handelt sich um sehr groß werdende Nadelbäume. Ältere Exemplare haben eine grobe, rissige Borke. Die Zapfen haben herausstehende dreizipfelige Deckschuppen. Die Nadeln sind eher weich, stechen nicht und riechen beim Zerreiben aromatisch nach Orange oder Zitrone.
