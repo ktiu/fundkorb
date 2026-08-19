@@ -23,10 +23,10 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_rosea_02_dg.jpg" %}
+{% include bild.html datei="/bilder/russula_rosea_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
-20.08.2026: Bin gerade im Süden Norwegens unterwegs und habe einen aktuellen [Fundkorbpilz](AA "Glossar-") für euch. Es ist einer, den man gut an seinem hammerharten Fleisch und der schönen roten Farbe erkennen kann: der Harte Zinnobertäubling *Russula rosea*. Die Fundstelle liegt in der Nähe des Hardangerfjords bei Bergen, Begleitbäume waren Buchen. (Dr. Kanya Götsch) Mehr lesen >
+20.08.2026: Bin gerade im Süden Norwegens unterwegs und habe einen aktuellen [Fundkorbpilz](AA "Glossar-") für euch. Es ist einer, den man gut an seinem hammerharten Fleisch und der schönen roten Farbe erkennen kann: der Harte Zinnobertäubling *Russula rosea*. Die Fundstelle liegt in der Nähe des Hardangerfjords bei Bergen, Begleitbäume waren Buchen. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/russula-rosea-harter-zinnobertäubling)
 
 <div style="clear:  both"></div>
 
