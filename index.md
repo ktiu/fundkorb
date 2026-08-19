@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_rosea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.08.2026: Bin gerade im Süden Norwegens unterwegs und habe einen aktuellen [Fundkorbpilz](AA "Glossar-") für euch. Es ist einer, den man gut an seinem hammerharten Fleisch und der schönen roten Farbe erkennen kann: der Harte Zinnobertäubling *Russula rosea*. Die Fundstelle liegt in der Nähe des Hardangerfjords bei Bergen, Begleitbäume waren Buchen. (Dr. Kanya Götsch) Mehr lesen >
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peniophora_polygonia_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 14.08.2026: Beim Bestimmen von Flechten können eine Lupe und eine Rasierklinge wertvolle Hilfe leisten. Die Lappen unseres aktuellen [Fundkorbpilzes](AA "Glossar-"), der Mehligen Blasenflechte *Hypogymnia farinacea* sind nämlich <ins>nicht</ins> hohl, was man im Anschnitt mit der Lupe gut erkennen kann. Im Gegesatz zur optisch kaum unterscheidbaren [Röhrigen Blasenflechte *Hypogymnia tubulosa*](/pilze/hypogymnia-tubulosa-röhrige-blasenflechte), die hohle Lappen besitzt. Beide Arten sind nicht gerade häufig. (Bernd Miggel) [Mehr lesen >](/pilze/hypogymnia-farinacea-mehlige-blasenflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/vuilleminia_comedens_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Rindensprenger *Vuilleminia comedens*, der in keinem Eichenbestand fehlt. Er entwickelt sich unter der Rinde und sprengt diese bald an allen Seiten auf, wobei sie sich gern zusammenrollt. Es gibt zahreiche weitere Rindensprengerarten an unterschiedlichen Substraten, die oft nur mikroskopisch zu unterscheiden sind. (Dieter Gewalt) [Mehr lesen >](/pilze/vuilleminia-comedens-gemeiner-rindensprenger)
 
 <div style="clear:  both"></div>
 
