@@ -26,4 +26,8 @@ literatur:
 
 Die Hüte jung rundlichen, deutlich gerieften, hell bis dunkler grauen Hüte erreichen Durchmesser von höchstens 1,5 cm. Sie verflachen im Alter, behalten aber meist einen etwas dunkler gefärbten Buckel. Die gelatinöse Huthaut ist abziehbar. Die weißlichen nicht sehr eng stehenden Lamellen sind fast gerade am Stiel angewachsen und besitzen eine sehr spezielle Eigenschaft: ihre Schneiden lassen sich mit einer Pinzette oder Nadel als Faden ablösen. Im Vergleich zu den recht kleinen Hüten sind die graubraunen klebrig-schmierigen Stiele auffallend lang, bis zu 6 cm aber nur bis zu 1,5 mm dick. Geruch und Geschmack unauffällig.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/mycena_vulgaris_03_kg.png" %}
+{% include abbildung_ende.html legende="Foto: Dr. Kanya Götsch, in Norwegen nahe Hardangerfjord fotografiert" %}
+
 Wegen seiner besonderen Eigenschaften steht er als einzige europäische Art in der Sektion *Fuliginellae*.
