@@ -73,7 +73,7 @@ Links zu Risspilzporträts im Fundkorb:
 [Inocybe godeyi = Rötender Risspilz](/pilze/inocybe-godeyi-rötender-risspilz)\
 [Inocybe melanopus = Braungestiefelter Risspilz](/pilze/inocybe-melanopus-braungestiefelter-risspilz)\
 [Inocybe mixtilis = Gerandetknolliger Risspilz](/pilze/inocybe-mixtilis-gerandetknolliger-risspilz)\
-Inocybe [](/pilze/inocybe-pisciodora-fischgeruch-risspilz)nitiduscula = Früher Risspilz  
+[Inocybe nitiduscula-Früher Risspilz](/pilze/inocybe-nitiduscula-früher-risspilz)\
 [Inocybe pisciodora = Fischgeruch-Risspilz](/pilze/inocybe-pisciodora-fischgeruch-risspilz) (jetzt: Inosperma pisciodora)\
 [Inocybe queletii = Weißtannen-Frühlingsrisspilz](/pilze/inocybe-queletii-weißtannen-frühlingsrisspilz)\
 [Inocybe rimosa = Kegeliger Risspilz](/pilze/inocybe-rimosa-kegeliger-risspilz) (jetzt: Pseudosperma rimosa)
