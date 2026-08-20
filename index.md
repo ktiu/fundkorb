@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_vulgaris_03_kg.png" %}
+{% include abbildung_ende.html %}
+
+21.08.2026: Nicht allzu weit vom Harten Zinnobertäubling entfernt habe ich in der Nähe des Hardangerfjords in Norwegen auch den Klebrigen Helmling *Mycena vulgaris* gefunden, diesmal bei Farnen unter Fichten. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist einer der wenigen schleimig klebrigen Helmlinge und auch in deutschen Nadelwäldern recht häufig. Falls es in Deutschland mal wieder richtig feucht werden sollte. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/mycena-vulgaris-klebriger-helmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_rosea_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 15.08.2026: Nicht überall ist dieser recht häufige aktuelle [Fundkorbpilz](AA "Glossar-"), der Mehlige Stachelporling *Trechispora farinacea*, nachgewiesen. Der Grund: um ihn sicher zu erkennen, muss man ihn mit einer gut vergrößernden Lupe betrachten und mikroskopieren. Die weißlichen bis creme-grauen Beläge dieses Rindenpilzes sind das ganze Jahr über in allen Waldgesellschaften und auf allen möglichen Holzarten, egal ob Laub- oder Nadelholz, zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/trechispora-farinacea-mehliger-stachelporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hypogymnnia_farinacea_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-14.08.2026: Beim Bestimmen von Flechten können eine Lupe und eine Rasierklinge wertvolle Hilfe leisten. Die Lappen unseres aktuellen [Fundkorbpilzes](AA "Glossar-"), der Mehligen Blasenflechte *Hypogymnia farinacea* sind nämlich <ins>nicht</ins> hohl, was man im Anschnitt mit der Lupe gut erkennen kann. Im Gegesatz zur optisch kaum unterscheidbaren [Röhrigen Blasenflechte *Hypogymnia tubulosa*](/pilze/hypogymnia-tubulosa-röhrige-blasenflechte), die hohle Lappen besitzt. Beide Arten sind nicht gerade häufig. (Bernd Miggel) [Mehr lesen >](/pilze/hypogymnia-farinacea-mehlige-blasenflechte)
 
 <div style="clear:  both"></div>
 
