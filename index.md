@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lophodermium_piceae_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.08.2026: Durch gezielte Suche auf Anhieb gefunden - die Fichtennadel-Spaltlippe *Lophodermium piceae* fehlt in keinem Fichtenwald oder -forst. Die Suche nach unserem aktuellen [Fundkorbpilz](AA "Glossar-") könnte sich als schwierig erweisen, denn mit bloßem Auge sind die winzigen [Hysterothezien](Hysterothezien "Glossar") nicht gerade auffällig. Sie werden bis zu 1,3 mm lang und 0,6 mm breit und gehören zu den [Rhytismatales](/verwandt/flicklumpenartige-rhytismatales). (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-piceae-fichtennadel-spaltlippe-fichtennadelröte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_vulgaris_03_kg.png" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 16.08.2026: In so pilzarmen Zeiten, wie ich sie noch nie erlebt habe, kann man froh sein, dass es so unscheinbare Gruppen wie Spaltlippen gibt. Also ist unser aktueller [Fundkorbpilz](AA "Glossar-") eine weitere, und zwar die Schilf-Spaltlippe *Lophodermium arundinaceum*, die in keinem Schilfbestand fehlen dürfte wie zum Beispiel an mehreren Stellen rund um und in Dietzenbach. Ihre schwarzen kaffeebohnenförmigen Fruchtkörper werden etwa 1 mm lang und ca. 0,4 mm breit. (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-arundinaceum-schilf-spaltlippe)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/trechispora_farinacea_01_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-15.08.2026: Nicht überall ist dieser recht häufige aktuelle [Fundkorbpilz](AA "Glossar-"), der Mehlige Stachelporling *Trechispora farinacea*, nachgewiesen. Der Grund: um ihn sicher zu erkennen, muss man ihn mit einer gut vergrößernden Lupe betrachten und mikroskopieren. Die weißlichen bis creme-grauen Beläge dieses Rindenpilzes sind das ganze Jahr über in allen Waldgesellschaften und auf allen möglichen Holzarten, egal ob Laub- oder Nadelholz, zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/trechispora-farinacea-mehliger-stachelporling)
 
 <div style="clear:  both"></div>
 
