@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-21.08.2026: [Mycena vulgaris - Klebriger Helmling](/pilze/mycena-vulgaris-klebriger-helmling)  
+22.08.2026: [Lophodermium piceae - Fichtennadel-Spaltlippe](/pilze/lophodermium-piceae-fichtennadel-spaltlippe-fichtennadelröte)  
+21.08.2026: [Mycena vulgaris - Klebriger Helmling](/pilze/mycena-vulgaris-klebriger-helmling)\
 20.08.2026: [Russula rosea - Harter Zinnobertäubling](/pilze/russula-rosea-harter-zinnobertäubling)\
 19.08.2026: [Peniophora polygonia - Espen-Zystidenrindenpilz](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)\
 18.08.2026 [Volvariella bombycina - Wolliger Scheidling](/pilze/volvariella-bombycina-wolliger-scheidling)\
