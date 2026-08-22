@@ -16,11 +16,19 @@ footer_scripts:
 {% include bild.html datei="/bilder/suillus_lakei_01_md.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/pholiota_lucifera_02_md.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/cistella_acuum_02_iw.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Suillus lakei------------Pholiota lucifera ------------ Cistella acuum " %}
+{% include abbildung_ende.html legende="Suillus lakei------------Pholiota lucifera ------------ Cistella acuum" %}
 
 Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilzkurs-für-einsteiger-1.html)
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/phellinus_laevigatus_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+23.08.2026: Unter den Feuerschwämmen gibt es einige wenige [resupinat](resupinat "Glossar") wachsende Arten wie unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Birken-Feuerschwamm *Phellinus laevigatus*. Ich habe ihn mehrfach am Rand eines Moores in der Nähe von Straubenhardt in Baden-Württemberg an Hölzern der Hängebirke *Betula pendula* gefunden. In Deutschland gehört er zu den eher selteneren Arten. (Bernd Miggel) [Mehr lesen >](/pilze/phellinus-laevigatus-birken-feuerschwamm)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lophodermium_piceae_01_dg.jpg" %}
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 17.08.2026: In Eichenbeständen wird man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Eichen-Schildbecherling *Colpoma quercinum* nicht vergeblich suchen. Jung sind die meist quer zur Astrichtung platzierten etwa 10 x 5 mm großen Fruchtkörperchen grau, im Alter verkrusten sie und werden schwarz. Der Pilz gehört zur Ordnung der *[Rhytismatales](/verwandt/flicklumpenartige-rhytismatales)*, den sogenannten Flicklumpenartigen. (Dieter Gewalt) [Mehr lesen >](/pilze/colpoma-quercinum-eichen-schildbecherling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lophodermium_arundinaceum_01_hl.jpg" %}
-{% include abbildung_ende.html %}
-
-16.08.2026: In so pilzarmen Zeiten, wie ich sie noch nie erlebt habe, kann man froh sein, dass es so unscheinbare Gruppen wie Spaltlippen gibt. Also ist unser aktueller [Fundkorbpilz](AA "Glossar-") eine weitere, und zwar die Schilf-Spaltlippe *Lophodermium arundinaceum*, die in keinem Schilfbestand fehlen dürfte wie zum Beispiel an mehreren Stellen rund um und in Dietzenbach. Ihre schwarzen kaffeebohnenförmigen Fruchtkörper werden etwa 1 mm lang und ca. 0,4 mm breit. (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-arundinaceum-schilf-spaltlippe)
 
 <div style="clear:  both"></div>
 
