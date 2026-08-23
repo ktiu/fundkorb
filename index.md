@@ -26,7 +26,7 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include bild.html datei="/bilder/ustilago_maydis_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-24.08.2026: Aufmerksamen Spaziergängern ist sowohl in Niederösterreich als auch bei Dietzenbach in Hessen der Maisbrand *Ustilago maydis* aufgefallen. Er dürfte zur Zeit wohl an jedem Maisfeldrand zu finden sein. Unser aktueller [Fundkorbpilz](AA "Glossar-") sieht zwar äußerst unappetitlich aus, wird aber u. a. in Mexiko, China und Japan gegessen und sogar als homöopathisches Heilmittel im Internet angeboten. (Werner Bauer / Dieter Gewalt) [Mehr zu lesen lohnt sich >](/pilze/ustilago-maydis-maisbeulenbrand)
+24.08.2026: Aufmerksamen Spaziergängern ist sowohl in Niederösterreich als auch bei Dietzenbach in Hessen der Maisbeulenbrand *Ustilago maydis* aufgefallen. Er dürfte zur Zeit wohl an jedem Maisfeldrand an den Kolben zu sehen sein. Unser aktueller [Fundkorbpilz](AA "Glossar-") sieht zwar äußerst unappetitlich aus, wird aber u. a. in Mexiko, China und Japan gegessen und sogar als homöopathisches Heilmittel im Internet angeboten. (Werner Bauer / Dieter Gewalt) [Mehr zu lesen lohnt sich >](/pilze/ustilago-maydis-maisbeulenbrand)
 
 <div style="clear:  both"></div>
 
