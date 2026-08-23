@@ -15,8 +15,8 @@ footer_scripts:
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/suillus_lakei_01_md.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/pholiota_lucifera_02_md.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/cistella_acuum_02_iw.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Suillus lakei------------Pholiota lucifera ------------ Cistella acuum" %}
+{% include bild.html datei="/bilder/pholiota_lucifera_02_md.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Inocybe nitiduscula --------------- Suillus lakei --------------- Pholiota lucifera" %}
 
 Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilzkurs-für-einsteiger-1.html)
 
