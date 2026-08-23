@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/ustilago_maydis_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.08.2026: Aufmerksamen Spaziergängern ist sowohl in Niederösterreich als auch bei Dietzenbach in Hessen der Maisbrand *Ustilago maydis* aufgefallen. Er dürfte zur Zeit wohl an jedem Maisfeldrand zu finden sein. Unser aktueller [Fundkorbpilz](AA "Glossar-") sieht zwar äußerst unappetitlich aus, wird aber u. a. in Mexiko, China und Japan gegessen und sogar als homöopathisches Heilmittel im Internet angeboten. (Werner Bauer / Dieter Gewalt) [Mehr zu lesen lohnt sich >](/pilze/ustilago-maydis-maisbeulenbrand)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/phellinus_laevigatus_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 18.08.2026: Endlich mal wieder einer richtig schöner aktueller [Fundkorbpilz](AA "Glossar-") mit Hut, Stiel und Lamellen! *Adam Adamovitz* hat den Wolligen Scheidling *Volvariella bombycina* im Frankfurter Biegwald gefunden. Scheidlinge sind mit Dachpilzen verwandt, haben wie diese rosafarbenes Sporenpulver und daher bei Reife auch rosa Lamellen, im Gegesatz zu den Dachpilzen jedoch eine sackartige, häutige Scheide am Stielgrund. Daher der Name Scheidling! (Dieter Gewalt) [Mehr lesen >](/pilze/volvariella-bombycina-wolliger-scheidling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/colpoma_quercinum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.08.2026: In Eichenbeständen wird man unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Eichen-Schildbecherling *Colpoma quercinum* nicht vergeblich suchen. Jung sind die meist quer zur Astrichtung platzierten etwa 10 x 5 mm großen Fruchtkörperchen grau, im Alter verkrusten sie und werden schwarz. Der Pilz gehört zur Ordnung der *[Rhytismatales](/verwandt/flicklumpenartige-rhytismatales)*, den sogenannten Flicklumpenartigen. (Dieter Gewalt) [Mehr lesen >](/pilze/colpoma-quercinum-eichen-schildbecherling)
 
 <div style="clear:  both"></div>
 
