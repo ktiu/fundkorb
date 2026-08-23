@@ -13,8 +13,8 @@ footer_scripts:
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/inocybe_nitiduscula_02_md.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/suillus_lakei_01_md.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/pholiota_lucifera_02_md.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/pholiota_lucifera_02_md.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Inocybe nitiduscula --------------- Suillus lakei --------------- Pholiota lucifera" %}
 
