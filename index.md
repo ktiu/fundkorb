@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/melogramma_spiniferum_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+25.08.2026: Das typische Substrat des Rasig-krustigen Buchenkugelpilzes *Melogramma spiniferum* ist die Stammbasis verdorrter, junger Rotbuchen. Hier kann man regelrechte *[Stromata](<Stroma "Glossar">)*-Rasen dieses aktuellen [Fundkorbpilzes](AA "Glossar-") finden, die nicht selten auch auf freiliegende Wurzeln übergehen. Sie sitzen einzeln oder zu mehreren zusammen, meist dicht an dicht, brechen unter der Rinde hervor und drücken diese dabei kragenartig hoch. (Bernd Miggel) [Mehr lesen >](/pilze/melogramma-spiniferum-rasig-krustiger-buchenkugelpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/ustilago_maydis_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
