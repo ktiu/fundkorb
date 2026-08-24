@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-24.08.2026: [Ustilago maydis - Maisbeulenbrand](/pilze/ustilago-maydis-maisbeulenbrand)  
+25.08.2026: [Melogramma spiniferum - Rasig-krustiger Buchenkugelpilz](/pilze/melogramma-spiniferum-rasig-krustiger-buchenkugelpilz)  
+24.08.2026: [Ustilago maydis - Maisbeulenbrand](/pilze/ustilago-maydis-maisbeulenbrand)\
 23.08.2026: [Phellinus laevigatus - Birken-Feuerschwamm](/pilze/phellinus-laevigatus-birken-feuerschwamm)\
 22.08.2026: [Lophodermium piceae - Fichtennadel-Spaltlippe](/pilze/lophodermium-piceae-fichtennadel-spaltlippe-fichtennadelröte)\
 21.08.2026: [Mycena vulgaris - Klebriger Helmling](/pilze/mycena-vulgaris-klebriger-helmling)\
