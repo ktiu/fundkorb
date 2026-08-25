@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cladonia_digitata_03_lh.jpg" %}
+{% include abbildung_ende.html %}
+
+26.08.2026: Die Finger-Scharlachflechte *Cladonia digitata* gehört zu den häufigen und gut bestimmbaren Becherflechten und da gerade nichts Besseres wächst ist sie unser aktueller [Fundkorbpilz](AA "Glossar-"). Die Blättchen am Grund sind graugrün und vor allem an den Rändern dicht mit [Soredien](Soredien "Glossar") besetzt wie auch die aufrechtstehenden „Finger“, die sehr unterschiedlich geformt sind. (Dieter Gewalt) [Mehr lesen >](/pilze/cladonia-digitata-finger-scharlachflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/melogramma_spiniferum_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,22 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 20.08.2026: Bin gerade im Süden Norwegens unterwegs und habe einen aktuellen [Fundkorbpilz](AA "Glossar-") für euch. Es ist einer, den man gut an seinem hammerharten Fleisch und der schönen roten Farbe erkennen kann: der Harte Zinnobertäubling *Russula rosea*. Die Fundstelle liegt in der Nähe des Hardangerfjords bei Bergen, Begleitbäume waren Buchen. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/russula-rosea-harter-zinnobertäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_polygonia_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-19.08.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Espen-Zystidenpilz *Peniophora polygonia*, entwickelt sich an der Unterseite noch am Baum befindlicher abgestorbener Äste aus kleinen weißlichen Flecken, die auf der Rinde zu einer ausgedehnten [resupinaten](resupinat "Glossar") Fruchtschicht zusammenwachsen. Der Pilz kommt ganzjährig an Pappelarten *(Populus euroamericanus, Populus tremulae*) vor, sehr selten auch an anderen Laubbaumarten. Natürlich ist er auch an abgefallenen, am Boden liegenden Ästen und Zweigen zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/volvariella_bombycina_xx.png" %}
-{% include abbildung_ende.html %}
-
-18.08.2026: Endlich mal wieder einer richtig schöner aktueller [Fundkorbpilz](AA "Glossar-") mit Hut, Stiel und Lamellen! *Adam Adamovitz* hat den Wolligen Scheidling *Volvariella bombycina* im Frankfurter Biegwald gefunden. Scheidlinge sind mit Dachpilzen verwandt, haben wie diese rosafarbenes Sporenpulver und daher bei Reife auch rosa Lamellen, im Gegesatz zu den Dachpilzen jedoch eine sackartige, häutige Scheide am Stielgrund. Daher der Name Scheidling! (Dieter Gewalt) [Mehr lesen >](/pilze/volvariella-bombycina-wolliger-scheidling)
 
 <div style="clear:  both"></div>
 
