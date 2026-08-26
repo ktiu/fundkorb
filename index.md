@@ -12,6 +12,14 @@ footer_scripts:
 
 **Neu im Fundkorb:**
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_pini_01_gb.jpg" %}
+{% include abbildung_ende.html %}
+
+27.08.2026: Es ist ein Glücksfall, einen Ast mit dem Kiefern-Zystidenrindenpilz *Peniophora pini* zu finden. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") schrumpft vor allem bei Trockenheit so schnell zusammen, dass kaum noch etwas von ihm zu erkennen ist. In frischem Zustand in der Baumkrone hat man keine Möglichkeit, ihn aufzuspüren. Den Glücksfall, einem frisch abgefallenen Ast mit diesem Pilz zu begegnen, habe ich genutzt, um ihn zu forografieren. (Günther Breidert) [Mehr lesen >](/pilze/peniophora-pini-kiefern-zystidenrindenpilz)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/erysiphe_polygoni_01_dg.jpeg" %}
 {% include bild.html datei="/bilder/inocybe_nitiduscula_02_md.jpg" nocrop=true %}
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 21.08.2026: Nicht allzu weit vom Harten Zinnobertäubling entfernt habe ich in der Nähe des Hardangerfjords in Norwegen auch den Klebrigen Helmling *Mycena vulgaris* gefunden, diesmal bei Farnen unter Fichten. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist einer der wenigen schleimig klebrigen Helmlinge und auch in deutschen Nadelwäldern recht häufig. Falls es in Deutschland mal wieder richtig feucht werden sollte. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/mycena-vulgaris-klebriger-helmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_rosea_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-20.08.2026: Bin gerade im Süden Norwegens unterwegs und habe einen aktuellen [Fundkorbpilz](AA "Glossar-") für euch. Es ist einer, den man gut an seinem hammerharten Fleisch und der schönen roten Farbe erkennen kann: der Harte Zinnobertäubling *Russula rosea*. Die Fundstelle liegt in der Nähe des Hardangerfjords bei Bergen, Begleitbäume waren Buchen. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/russula-rosea-harter-zinnobertäubling)
 
 <div style="clear:  both"></div>
 
