@@ -12,14 +12,6 @@ footer_scripts:
 
 **Neu im Fundkorb:**
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_pini_01_gb.jpg" %}
-{% include abbildung_ende.html %}
-
-27.08.2026: Es ist ein Glücksfall, einen Ast mit dem Kiefern-Zystidenrindenpilz *Peniophora pini* zu finden. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") schrumpft vor allem bei Trockenheit so schnell zusammen, dass kaum noch etwas von ihm zu erkennen ist. In frischem Zustand in der Baumkrone hat man keine Möglichkeit, ihn aufzuspüren. Den Glücksfall, einem frisch abgefallenen Ast mit diesem Pilz zu begegnen, habe ich genutzt, um ihn zu forografieren. (Günther Breidert) [Mehr lesen >](/pilze/peniophora-pini-kiefern-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/erysiphe_polygoni_01_dg.jpeg" %}
 {% include bild.html datei="/bilder/inocybe_nitiduscula_02_md.jpg" nocrop=true %}
@@ -29,6 +21,14 @@ footer_scripts:
 Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilzkurs-für-einsteiger-1.html)
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/peniophora_pini_01_gb.jpg" %}
+{% include abbildung_ende.html %}
+
+27.08.2026: Es ist ein Glücksfall, einen Ast mit dem Kiefern-Zystidenrindenpilz *Peniophora pini* zu finden. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") schrumpft vor allem bei Trockenheit so schnell zusammen, dass kaum noch etwas von ihm zu erkennen ist. In frischem Zustand in der Baumkrone hat man keine Möglichkeit, ihn aufzuspüren. Den Glücksfall, einem frisch abgefallenen Ast mit diesem Pilz zu begegnen, habe ich genutzt, um ihn zu forografieren. (Günther Breidert) [Mehr lesen >](/pilze/peniophora-pini-kiefern-zystidenrindenpilz)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cladonia_digitata_03_lh.jpg" %}
