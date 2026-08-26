@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-26.08.2026: [Cladonia digitata - Finger-Scharlachflechte](/pilze/cladonia-digitata-finger-scharlachflechte)  
+27.06.2026: [Peniophora pini - Kiefern-Zystidenrindenpilz](/pilze/peniophora-pini-kiefern-zystidenrindenpilz)  
+26.08.2026: [Cladonia digitata - Finger-Scharlachflechte](/pilze/cladonia-digitata-finger-scharlachflechte)\
 25.08.2026: [Melogramma spiniferum - Rasig-krustiger Buchenkugelpilz](/pilze/melogramma-spiniferum-rasig-krustiger-buchenkugelpilz)\
 24.08.2026: [Ustilago maydis - Maisbeulenbrand](/pilze/ustilago-maydis-maisbeulenbrand)\
 23.08.2026: [Phellinus laevigatus - Birken-Feuerschwamm](/pilze/phellinus-laevigatus-birken-feuerschwamm)\
