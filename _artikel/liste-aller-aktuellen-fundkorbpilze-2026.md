@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-27.06.2026: [Peniophora pini - Kiefern-Zystidenrindenpilz](/pilze/peniophora-pini-kiefern-zystidenrindenpilz)  
+28.06.2026: [Erysiphe polygoni - Echter Mehltau der Knöterichgewächse](/pilze/erysiphe-polygoni-echter-mehltau-der-knöterichgewächse)  
+27.06.2026: [Peniophora pini - Kiefern-Zystidenrindenpilz](/pilze/peniophora-pini-kiefern-zystidenrindenpilz)\
 26.08.2026: [Cladonia digitata - Finger-Scharlachflechte](/pilze/cladonia-digitata-finger-scharlachflechte)\
 25.08.2026: [Melogramma spiniferum - Rasig-krustiger Buchenkugelpilz](/pilze/melogramma-spiniferum-rasig-krustiger-buchenkugelpilz)\
 24.08.2026: [Ustilago maydis - Maisbeulenbrand](/pilze/ustilago-maydis-maisbeulenbrand)\
