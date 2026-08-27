@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/erisyphe_polygoni_012_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+28.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Echter Mehltau, den wir an Vogelknöterich gefunden haben. Sein Name: *Erysiphe polygoni*. Bei den Echten Mehltaupilzen handelt es sich um echte Pilze ([Ascomyzeten](Ascomyzeten "Glossar")). Falsche Mehltaupilze sind lediglich pilzähnliche Organismen, die auch Eipilze genannt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/erysiphe-polygoni-echter-mehltau-der-knöterichgewächse)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/peniophora_pini_01_gb.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 22.08.2026: Durch gezielte Suche auf Anhieb gefunden - die Fichtennadel-Spaltlippe *Lophodermium piceae* fehlt in keinem Fichtenwald oder -forst. Die Suche nach unserem aktuellen [Fundkorbpilz](AA "Glossar-") könnte sich als schwierig erweisen, denn mit bloßem Auge sind die winzigen [Hysterothezien](Hysterothezien "Glossar") nicht gerade auffällig. Sie werden bis zu 1,3 mm lang und 0,6 mm breit und gehören zu den [Rhytismatales](/verwandt/flicklumpenartige-rhytismatales). (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-piceae-fichtennadel-spaltlippe-fichtennadelröte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_vulgaris_03_kg.png" %}
-{% include abbildung_ende.html %}
-
-21.08.2026: Nicht allzu weit vom Harten Zinnobertäubling entfernt habe ich in der Nähe des Hardangerfjords in Norwegen auch den Klebrigen Helmling *Mycena vulgaris* gefunden, diesmal bei Farnen unter Fichten. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") ist einer der wenigen schleimig klebrigen Helmlinge und auch in deutschen Nadelwäldern recht häufig. Falls es in Deutschland mal wieder richtig feucht werden sollte. (Dr. Kanya Götsch) [Mehr lesen >](/pilze/mycena-vulgaris-klebriger-helmling)
 
 <div style="clear:  both"></div>
 
