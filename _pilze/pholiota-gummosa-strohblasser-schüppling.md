@@ -33,6 +33,10 @@ Dass es sich bei den Schüpplingen um Blätterpilze mit undeutlich abgrenzbaren 
 
 In geeigneten Biotopen wie Lichtungen, Wiesen oder Parkanlagen ist der Strohblasse Schüppling nicht selten. Ein auffälliges Merkmal ist die schmierige, bald abtrocknende aber stets gummiartige Huthaut, die sich leicht in einem Zug abziehen lässt. Er wächst [saprobiontisch](saprobiontisch "Glossar") und meist dicht büschelig auf Erde, gern an vergrabenem Holz, an Wurzeln oder Baumstümpfen. Erscheinungszeit ist Sommer bis Spätherbst (Dezember).
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/pholiota_gummosa_06_dg.jpg" %}
+{% include abbildung_ende.html legende="Foto: Dieter Gewalt" %}
+
 Die jung halbkugeligen, später flachen, strohgelben bis grünlich beigen Hüte erreichen Durchmesser von 2 bis 6 cm und sind mit kleinen hell bräunlichen Schüppchen meist nur spärlich besetzt. Die schmalen Lamellen sind blass strohgelb, später durch ausfallendes Sporenpulver rostbräunlich, leicht ausgebuchtet und mit Zähnchen am Stiel angewachsen. Die trockenen, hellen, zur Basis hin hellbräunlichen fein geschuppten Stiele sind jung voll, im Alter hohl, mit sehr vergänglicher Ringzone. Sie werden 5 - 8 cm lang und bis zu 0,8 cm dick. Das Fleisch ist weißlich und ohne auffälligen Geruch und Geschmack. Die Sporenfarbe ist rostbraun.
 
 {% include abbildung_start.html stil="klein" %}
