@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/flavoparmelia_caperata_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+29.08.2026: Flechten sind langlebig und das ganze Jahr über zu finden. Eine recht auffällige und häufige ist die Eichenflechte *Flavoparmelia caperata* und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Sie gehört zu den Blattflechten mit außerordentlich vielen [Soredien](Soredien "Glossar") und verwaschen gelbgrünen Farben an sonnigen Standorten und eher gelblich grauen an schattigen. Außer an Eichen ist sie auch an Eschen, Linden und Hainbuchen zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/flavoparmelia-caperata-eichenflechte)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/erisyphe_polygoni_012_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 23.08.2026: Unter den Feuerschwämmen gibt es einige wenige [resupinat](resupinat "Glossar") wachsende Arten wie unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Birken-Feuerschwamm *Phellinus laevigatus*. Ich habe ihn mehrfach am Rand eines Moores in der Nähe von Straubenhardt in Baden-Württemberg an Hölzern der Hängebirke *Betula pendula* gefunden. In Deutschland gehört er zu den eher selteneren Arten. (Bernd Miggel) [Mehr lesen >](/pilze/phellinus-laevigatus-birken-feuerschwamm)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lophodermium_piceae_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.08.2026: Durch gezielte Suche auf Anhieb gefunden - die Fichtennadel-Spaltlippe *Lophodermium piceae* fehlt in keinem Fichtenwald oder -forst. Die Suche nach unserem aktuellen [Fundkorbpilz](AA "Glossar-") könnte sich als schwierig erweisen, denn mit bloßem Auge sind die winzigen [Hysterothezien](Hysterothezien "Glossar") nicht gerade auffällig. Sie werden bis zu 1,3 mm lang und 0,6 mm breit und gehören zu den [Rhytismatales](/verwandt/flicklumpenartige-rhytismatales). (Dieter Gewalt) [Mehr lesen >](/pilze/lophodermium-piceae-fichtennadel-spaltlippe-fichtennadelröte)
 
 <div style="clear:  both"></div>
 
