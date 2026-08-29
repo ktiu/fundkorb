@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pleurotus_eryngii_02_xx.jpg" %}
+{% include abbildung_ende.html %}
+
+30.08.2026: In gut sortierten Lebensmittelfachgeschäften wird man unseren aktuellen [Fundkorbpilz](AA "Glossar-") nicht vergeblich suchen. Allerdings ist der Kräuterseitling *Pleurotus eryngii* kein billiger aber sehr schmackhafter Leckerbissen. In freier Natur wird man ihn nur extrem selten finden, ist auch streng geschützt. Er parasitiert auf den Wurzeln von Feld-Mannstreu (*Eryngium campestre*) und das ist ebenfalls alles andere als häufig. In den Handel kommen ausschließlich in Pilz-Zuchtbetrieben erzeugte Fruchtkörper. (Dieter Gewalt) [Mehr lesen >](/pilze/pleurotus-eryngii-kräuterseitling) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/flavoparmelia_caperata_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 24.08.2026: Aufmerksamen Spaziergängern ist sowohl in Niederösterreich als auch bei Dietzenbach in Hessen der Maisbeulenbrand *Ustilago maydis* aufgefallen. Er dürfte zur Zeit wohl an jedem Maisfeldrand an den Kolben zu sehen sein. Unser aktueller [Fundkorbpilz](AA "Glossar-") sieht zwar äußerst unappetitlich aus, wird aber u. a. in Mexiko, China und Japan gegessen und sogar als homöopathisches Heilmittel im Internet angeboten. (Werner Bauer / Dieter Gewalt) [Mehr zu lesen lohnt sich >](/pilze/ustilago-maydis-maisbeulenbrand)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/phellinus_laevigatus_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-23.08.2026: Unter den Feuerschwämmen gibt es einige wenige [resupinat](resupinat "Glossar") wachsende Arten wie unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Birken-Feuerschwamm *Phellinus laevigatus*. Ich habe ihn mehrfach am Rand eines Moores in der Nähe von Straubenhardt in Baden-Württemberg an Hölzern der Hängebirke *Betula pendula* gefunden. In Deutschland gehört er zu den eher selteneren Arten. (Bernd Miggel) [Mehr lesen >](/pilze/phellinus-laevigatus-birken-feuerschwamm)
 
 <div style="clear:  both"></div>
 
