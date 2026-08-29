@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-29.08.2026: [Flavoparmelia caperata - Eichenflechte](/pilze/flavoparmelia-caperata-eichenflechte)  
+30.08.2026: [Pleurotus eryngii - Kräuterseitling](/pilze/pleurotus-eryngii-kräuterseitling)  
+29.08.2026: [Flavoparmelia caperata - Eichenflechte](/pilze/flavoparmelia-caperata-eichenflechte)\
 28.08.2026: [Erysiphe polygoni - Echter Mehltau der Knöterichgewächse](/pilze/erysiphe-polygoni-echter-mehltau-der-knöterichgewächse)\
 27.08.2026: [Peniophora pini - Kiefern-Zystidenrindenpilz](/pilze/peniophora-pini-kiefern-zystidenrindenpilz)\
 26.08.2026: [Cladonia digitata - Finger-Scharlachflechte](/pilze/cladonia-digitata-finger-scharlachflechte)\
