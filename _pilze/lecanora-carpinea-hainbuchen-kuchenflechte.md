@@ -12,8 +12,8 @@ profil:
 hauptbild:
   anzeige: true
   datei: /bilder/lecanora_carpinea_01_bm.jpg
-  legende: "Lecanora carpinea auf der Rinde eines jungen Walnussbaums; links
-    (dunklere Apothecien): L. chlarotera"
+  legende: Lecanora carpinea auf der Rinde eines jungen Walnussbaums; links
+    (dunklere Apothecien, deutlich abgegrenzt) = L. chlarotera
 literatur:
   - text: "J.-P. Frahm, F. Schumm, N.J. Stapper: Epiphytische Flechten als
       Umweltgütezeiger, Seite 34 -36"
