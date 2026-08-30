@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/blumeria_graminis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Echte Mehltau *Blumeria graminis*. Er erscheint als weißer mehliger Belag auf verschiedenen Gräsern und ist auf fast jeder Rasenfläche zu beobachten. Je nach Gras- oder Getreideart werden verschiedene Formen unterschieden. Hoher Stickstoffeintrag auf landwirtschaftlich genutzten Flächen erhöht die Infektionsgefahr und kann, wenn auch die Ähren befallen werden, zu Ertragsverlusten führen. (Dieter Gewalt) [Mehr lesen >](/pilze/blumeria-graminis-echter-mehltau)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pleurotus_eryngii_02_xx.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 25.08.2026: Das typische Substrat des Rasig-krustigen Buchenkugelpilzes *Melogramma spiniferum* ist die Stammbasis verdorrter, junger Rotbuchen. Hier kann man regelrechte *[Stromata](Stroma "Glossar")*-Rasen dieses aktuellen [Fundkorbpilzes](AA "Glossar-") finden, die nicht selten auch auf freiliegende Wurzeln übergehen. Sie sitzen einzeln oder zu mehreren zusammen, meist dicht an dicht, brechen unter der Rinde hervor und drücken diese dabei kragenartig hoch. (Bernd Miggel) [Mehr lesen >](/pilze/melogramma-spiniferum-rasig-krustiger-buchenkugelpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/ustilago_maydis_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.08.2026: Aufmerksamen Spaziergängern ist sowohl in Niederösterreich als auch bei Dietzenbach in Hessen der Maisbeulenbrand *Ustilago maydis* aufgefallen. Er dürfte zur Zeit wohl an jedem Maisfeldrand an den Kolben zu sehen sein. Unser aktueller [Fundkorbpilz](AA "Glossar-") sieht zwar äußerst unappetitlich aus, wird aber u. a. in Mexiko, China und Japan gegessen und sogar als homöopathisches Heilmittel im Internet angeboten. (Werner Bauer / Dieter Gewalt) [Mehr zu lesen lohnt sich >](/pilze/ustilago-maydis-maisbeulenbrand)
 
 <div style="clear:  both"></div>
 
