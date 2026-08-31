@@ -41,7 +41,7 @@ Um ähnlich aussehende *Lecanora*-Arten unterscheiden zu können, hat man ein be
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lecanora_carpinea_02_bm.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/lecanora_carpinea_03_bm.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="30 mm dicker Schnitt durch ein Apothecium - - Hymenium mit 8-sporigem Ascus und grüner Algenschicht" %}
+{% include abbildung_ende.html legende="30 µm dicker Schnitt durch ein Apothecium - - Hymenium mit 8-sporigem Ascus und grüner Algenschicht" %}
 
 Kristalle:\
 Interessant sind die Kristallansammlungen im Apothecium: [Epihymenium](Hymenium "Glossar") lt. WIRTH 1995 mit ± dicker Auflage feiner Kristalle versehen. Außerdem ist der Apothecienrand mit großen, unregelmäßig geformten Kristallen  gefüllt.
