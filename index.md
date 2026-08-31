@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/perenniporia_medulla-panis_01_wp.jpg" %}
+{% include abbildung_ende.html %}
+
+01.09.2026: Im Frankfurter Stadtwald ist er immer mal wieder zu finden, unser aktueller [Fundkorbpilz](AA "Glossar-"). Der Ockerfarbene Dauerporling *Perenniporia medulla-panis* liebt altes Eichenholz, gern auch an Balken, Zäunen, oder wie Werner Pohl 2006 berichtet hat, auf einer alten Parkbank im Norden Frankfurts. Er wird auch Ockerfarbener Porenschwamm genannt und wächst meist völlig [resupinat](resupinat "Glossar").  (Dieter Gewalt) [Mehr lesen >](/pilze/perenniporia-medulla-panis-ockerfarbener-dauerporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/blumeria_graminis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 26.08.2026: Die Finger-Scharlachflechte *Cladonia digitata* gehört zu den häufigen und gut bestimmbaren Becherflechten und da gerade nichts Besseres wächst ist sie unser aktueller [Fundkorbpilz](AA "Glossar-"). Die Blättchen am Grund sind graugrün und vor allem an den Rändern dicht mit [Soredien](Soredien "Glossar") besetzt wie auch die aufrechtstehenden „Finger“, die sehr unterschiedlich geformt sind. (Dieter Gewalt) [Mehr lesen >](/pilze/cladonia-digitata-finger-scharlachflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/melogramma_spiniferum_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-25.08.2026: Das typische Substrat des Rasig-krustigen Buchenkugelpilzes *Melogramma spiniferum* ist die Stammbasis verdorrter, junger Rotbuchen. Hier kann man regelrechte *[Stromata](Stroma "Glossar")*-Rasen dieses aktuellen [Fundkorbpilzes](AA "Glossar-") finden, die nicht selten auch auf freiliegende Wurzeln übergehen. Sie sitzen einzeln oder zu mehreren zusammen, meist dicht an dicht, brechen unter der Rinde hervor und drücken diese dabei kragenartig hoch. (Bernd Miggel) [Mehr lesen >](/pilze/melogramma-spiniferum-rasig-krustiger-buchenkugelpilz)
 
 <div style="clear:  both"></div>
 
