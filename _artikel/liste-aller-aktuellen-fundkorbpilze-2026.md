@@ -2,7 +2,9 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-31.08.2026: [Blumeria graminis - Echter Gras-Mehltau](/pilze/blumeria-graminis-echter-mehltau)  
+01.09.2026: [Perenniporia medulla-panis - Ockerfarbener Dauerporling](/pilze/perenniporia-medulla-panis-ockerfarbener-dauerporling)
+
+31.08.2026: [Blumeria graminis - Echter Gras-Mehltau](/pilze/blumeria-graminis-echter-mehltau)\
 30.08.2026: [Pleurotus eryngii - Kräuterseitling](/pilze/pleurotus-eryngii-kräuterseitling)\
 29.08.2026: [Flavoparmelia caperata - Eichenflechte](/pilze/flavoparmelia-caperata-eichenflechte)\
 28.08.2026: [Erysiphe polygoni - Echter Mehltau der Knöterichgewächse](/pilze/erysiphe-polygoni-echter-mehltau-der-knöterichgewächse)\
