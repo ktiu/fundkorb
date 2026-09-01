@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/cyathus_olla_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.09.2026: Man hat noch keine brütenden Vögel auf ihnen sitzen gesehen, aber es gibt sie wirklich, diese [Vogelnestpilze](/verwandt/vogelnestpilze). Sie sind klein, leicht zu übersehen, aber problemlos auf einen Blick zu bestimmen. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Topf-Teuerling *Cythus olla*. Es sind kleine Töpfchen von etwa einem Zentimeter Durchmesser, in dem etliche linsen- oder münzenförmige Gebilde liegen, die man Peridiolen nennt. In ihnen werden die Sporen gebildet. (Dieter Gewalt) [Mehr lesen >](/pilze/cyathus-olla-topf-teuerling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/perenniporia_medulla-panis_01_wp.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 27.08.2026: Es ist ein Glücksfall, einen Ast mit dem Kiefern-Zystidenrindenpilz *Peniophora pini* zu finden. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") schrumpft vor allem bei Trockenheit so schnell zusammen, dass kaum noch etwas von ihm zu erkennen ist. In frischem Zustand in der Baumkrone hat man keine Möglichkeit, ihn aufzuspüren. Den Glücksfall, einem frisch abgefallenen Ast mit diesem Pilz zu begegnen, habe ich genutzt, um ihn zu forografieren. (Günther Breidert) [Mehr lesen >](/pilze/peniophora-pini-kiefern-zystidenrindenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cladonia_digitata_03_lh.jpg" %}
-{% include abbildung_ende.html %}
-
-26.08.2026: Die Finger-Scharlachflechte *Cladonia digitata* gehört zu den häufigen und gut bestimmbaren Becherflechten und da gerade nichts Besseres wächst ist sie unser aktueller [Fundkorbpilz](AA "Glossar-"). Die Blättchen am Grund sind graugrün und vor allem an den Rändern dicht mit [Soredien](Soredien "Glossar") besetzt wie auch die aufrechtstehenden „Finger“, die sehr unterschiedlich geformt sind. (Dieter Gewalt) [Mehr lesen >](/pilze/cladonia-digitata-finger-scharlachflechte)
 
 <div style="clear:  both"></div>
 
