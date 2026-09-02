@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-02.09.2026: [Cyathus olla - Topf-Teuerling](/pilze/cyathus-olla-topf-teuerling)  
+03.09.2026: [Polyporus alveolaris - Wabenporling](/pilze/polyporus-alveolaris-wabenporling)  
+02.09.2026: [Cyathus olla - Topf-Teuerling](/pilze/cyathus-olla-topf-teuerling)\
 01.09.2026: [Perenniporia medulla-panis - Ockerfarbener Dauerporling](/pilze/perenniporia-medulla-panis-ockerfarbener-dauerporling)
 
 31.08.2026: [Blumeria graminis - Echter Gras-Mehltau](/pilze/blumeria-graminis-echter-mehltau)\
