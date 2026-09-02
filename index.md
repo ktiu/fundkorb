@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/polyporus_alveolaris_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.09.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wabenporling *Polyporus alveolaris*, ein hinreißend schöner Pilz. An seinen wie Bienenwaben geformten, bis 5 mm großen ganzrandigen Poren, die über die gesamte Stiellänge herablaufen, ist er meist auf den ersten Blick zu erkennen. Er besiedelt ausschließlich totes Laubholz und ist in Mitteleuropa ganz überwiegend an Eiche zu finden. Als wärmeliebende Art profitiert er von der gegenwärtigen Klimaerwärmung. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-alveolaris-wabenporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/cyathus_olla_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 28.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Echter Mehltau, den wir an Vogelknöterich gefunden haben. Sein Name: *Erysiphe polygoni*. Bei den Echten Mehltaupilzen handelt es sich um echte Pilze ([Ascomyzeten](Ascomyzeten "Glossar")). Falsche Mehltaupilze sind lediglich pilzähnliche Organismen, die auch Eipilze genannt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/erysiphe-polygoni-echter-mehltau-der-knöterichgewächse)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/peniophora_pini_01_gb.jpg" %}
-{% include abbildung_ende.html %}
-
-27.08.2026: Es ist ein Glücksfall, einen Ast mit dem Kiefern-Zystidenrindenpilz *Peniophora pini* zu finden. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") schrumpft vor allem bei Trockenheit so schnell zusammen, dass kaum noch etwas von ihm zu erkennen ist. In frischem Zustand in der Baumkrone hat man keine Möglichkeit, ihn aufzuspüren. Den Glücksfall, einem frisch abgefallenen Ast mit diesem Pilz zu begegnen, habe ich genutzt, um ihn zu forografieren. (Günther Breidert) [Mehr lesen >](/pilze/peniophora-pini-kiefern-zystidenrindenpilz)
 
 <div style="clear:  both"></div>
 
