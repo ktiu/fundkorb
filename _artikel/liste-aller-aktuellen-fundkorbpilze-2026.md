@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-03.09.2026: [Polyporus alveolaris - Wabenporling](/pilze/polyporus-alveolaris-wabenporling)  
+04.09.2026: [Galerina clavata - Großsporiger Häubling](/pilze/galerina-clavata-großsporiger-häubling)  
+03.09.2026: [Polyporus alveolaris - Wabenporling](/pilze/polyporus-alveolaris-wabenporling)\
 02.09.2026: [Cyathus olla - Topf-Teuerling](/pilze/cyathus-olla-topf-teuerling)\
 01.09.2026: [Perenniporia medulla-panis - Ockerfarbener Dauerporling](/pilze/perenniporia-medulla-panis-ockerfarbener-dauerporling)
 
