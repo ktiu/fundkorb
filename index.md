@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/galerina_clavata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.09.2026: Nicht nur die Namen ähneln sich. Häublinge können leicht mit Samthäubchen verwechselt werden. Mikroskopieren sorgt für Klarheit. Samthäubchen haben glatte Sporen, unser aktueller [Fundkorbpilz](AA "Glossar-"), der Großsporige Häubling *Galerina clavata* wie alle anderen Häublinge aber warzige. Gefunden habe ich ihn in unserer Dietzenbacher Parkanlage an einer feuchten Rasenstelle. (Dieter Gewalt) [Mehr lesen >](/pilze/galerina-clavata-großsporiger-häubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/polyporus_alveolaris_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 29.08.2026: Flechten sind langlebig und das ganze Jahr über zu finden. Eine recht auffällige und häufige ist die Eichenflechte *Flavoparmelia caperata* und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Sie gehört zu den Blattflechten mit außerordentlich vielen [Soredien](Soredien "Glossar") und verwaschen gelbgrünen Farben an sonnigen Standorten und eher gelblich grauen an schattigen. Außer an Eichen ist sie auch an Eschen, Linden und Hainbuchen zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/flavoparmelia-caperata-eichenflechte)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/erisyphe_polygoni_012_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-28.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist ein Echter Mehltau, den wir an Vogelknöterich gefunden haben. Sein Name: *Erysiphe polygoni*. Bei den Echten Mehltaupilzen handelt es sich um echte Pilze ([Ascomyzeten](Ascomyzeten "Glossar")). Falsche Mehltaupilze sind lediglich pilzähnliche Organismen, die auch Eipilze genannt werden. (Dieter Gewalt) [Mehr lesen >](/pilze/erysiphe-polygoni-echter-mehltau-der-knöterichgewächse)
 
 <div style="clear:  both"></div>
 
