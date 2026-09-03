@@ -13,10 +13,10 @@ footer_scripts:
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/pholiota_gummosa_01_md.jpg" %}
+{% include bild.html datei="/bilder/lecanora_carpinea_01_bm.jpg" %}
+{% include bild.html datei="/bilder/pholiota_gummosa_01_md.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/erisyphe_polygoni_01_dg.jpeg" nocrop=true %}
-{% include bild.html datei="/bilder/inocybe_nitiduscula_02_md.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Pholiota gummosa---------------- Mehltau an Knöterich --------------- Inocybe nitiduscula" %}
+{% include abbildung_ende.html legende="Lecanora  carpinea--------------- Pholiota gummosa ---------------- Mehltau an Knöterich" %}
 
 Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilzkurs-für-einsteiger-1.html)
 
