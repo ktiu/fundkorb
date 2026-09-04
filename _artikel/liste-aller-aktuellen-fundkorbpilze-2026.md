@@ -2,7 +2,8 @@
 titel: Liste aller aktuellen Fundkorbpilze 2026
 published: true
 ---
-04.09.2026: [Galerina clavata - Großsporiger Häubling](/pilze/galerina-clavata-großsporiger-häubling)  
+05.09.2026: [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)  
+04.09.2026: [Galerina clavata - Großsporiger Häubling](/pilze/galerina-clavata-großsporiger-häubling)\
 03.09.2026: [Polyporus alveolaris - Wabenporling](/pilze/polyporus-alveolaris-wabenporling)\
 02.09.2026: [Cyathus olla - Topf-Teuerling](/pilze/cyathus-olla-topf-teuerling)\
 01.09.2026: [Perenniporia medulla-panis - Ockerfarbener Dauerporling](/pilze/perenniporia-medulla-panis-ockerfarbener-dauerporling)
@@ -20,8 +21,8 @@ published: true
 21.08.2026: [Mycena vulgaris - Klebriger Helmling](/pilze/mycena-vulgaris-klebriger-helmling)\
 20.08.2026: [Russula rosea - Harter Zinnobertäubling](/pilze/russula-rosea-harter-zinnobertäubling)\
 19.08.2026: [Peniophora polygonia - Espen-Zystidenrindenpilz](/pilze/peniophora-polygonia-espen-zystidenrindenpilz)\
-18.08.2026 [Volvariella bombycina - Wolliger Scheidling](/pilze/volvariella-bombycina-wolliger-scheidling)\
-17.08.2026 [Colpoma quercinum - Eichen-Schildbecherling](/pilze/colpoma-quercinum-eichen-schildbecherling)\
+18.08.2026: [Volvariella bombycina - Wolliger Scheidling](/pilze/volvariella-bombycina-wolliger-scheidling)\
+17.08.2026: [Colpoma quercinum - Eichen-Schildbecherling](/pilze/colpoma-quercinum-eichen-schildbecherling)\
 16.08.2026: [Lophodermium arundinaceum - Schilf-Spaltlippe](/pilze/lophodermium-arundinaceum-schilf-spaltlippe)\
 15.08.2026: [Trechispora farinacea - Mehliger Stachelporling](/pilze/trechispora-farinacea-mehliger-stachelporling)\
 14.08.2026: [Hypogymnia farinacea - Mehlige Blasenflechte](/pilze/hypogymnia-farinacea-mehlige-blasenflechte)\
@@ -48,7 +49,7 @@ published: true
 25.07.2026: [Diatrype decorticata - Flächiges Eckenscheibchen](/pilze/diatrype-decorticata-flächiges-eckenscheibchen)\
 24.07.2026: [Phellinus igniarius - Gemeiner Feuerschwamm](/pilze/phellinus-igniarius-gemeiner-feuerschwamm)\
 23.07.2026: [Taphrina caerulescens - Roteichen-Kräuselkrankheit](/pilze/taphrina-caerulescens-roteichen-kräuselkrankheit)\
-22.07.2027: [Diatrype bullata - Blasiges Eckenscheibchen](/pilze/diatrype-bullata-blasiges-eckenscheibchen)\
+22.07.2026: [Diatrype bullata - Blasiges Eckenscheibchen](/pilze/diatrype-bullata-blasiges-eckenscheibchen)\
 21.07.2026: [Hypoxylon multiforme - Vielgestaltige Kohlenbeere](/pilze/hypoxylon-multiforme-vielgestaltige-kohlenbeere)\
 20.07.2026: [Cercospora microsora - Linden-Blattsprenkelung](/pilze/cercospora-microsora-linden-blattsprenkelung)\
 19.07.2026: [Leptosphaerolina trifolii - Blattbrand](/pilze/leptosphaerolina-trifolii-blattbrand)\
