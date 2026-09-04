@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_satanas_03_bs.png" %}
+{% include abbildung_ende.html %}
+
+05.09.2026: Der Satansröhrling *Boletus satanas* (Neuer Name: *Rubroboletus satanas*) gilt zwar als Giftpilz, hat aber noch niemanden umgebracht. Diesen in Hessen sehr seltenen Röhrling auf dem Gelände der Liebigschule im Frankfurter Stadtteil Praunheim zu finden ist Anlass genug, ihn als aktuellen [Fundkorbpilz](AA "Glossar-") zu zeigen. Eichen sind in der Nähe vorhanden und der für sein Wachstum erforderliche kalkhaltige Boden ist in einer Großstadt eher der Normalfall als eine Ausnahme. (Bela Salgo, 14) [Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/galerina_clavata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 30.08.2026: In gut sortierten Lebensmittelfachgeschäften wird man unseren aktuellen [Fundkorbpilz](AA "Glossar-") nicht vergeblich suchen. Allerdings ist der Kräuterseitling *Pleurotus eryngii* kein billiger aber sehr schmackhafter Leckerbissen. In freier Natur wird man ihn nur extrem selten finden, ist auch streng geschützt. Er parasitiert auf den Wurzeln von Feld-Mannstreu (*Eryngium campestre*) und das ist ebenfalls alles andere als häufig. In den Handel kommen ausschließlich in Pilz-Zuchtbetrieben erzeugte Fruchtkörper. (Dieter Gewalt) [Mehr lesen >](/pilze/pleurotus-eryngii-kräuterseitling) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/flavoparmelia_caperata_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-29.08.2026: Flechten sind langlebig und das ganze Jahr über zu finden. Eine recht auffällige und häufige ist die Eichenflechte *Flavoparmelia caperata* und daher unser aktueller [Fundkorbpilz](AA "Glossar-"). Sie gehört zu den Blattflechten mit außerordentlich vielen [Soredien](Soredien "Glossar") und verwaschen gelbgrünen Farben an sonnigen Standorten und eher gelblich grauen an schattigen. Außer an Eichen ist sie auch an Eschen, Linden und Hainbuchen zu finden. (Dieter Gewalt) [Mehr lesen >](/pilze/flavoparmelia-caperata-eichenflechte)
 
 <div style="clear:  both"></div>
 
