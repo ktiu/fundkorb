@@ -20,13 +20,13 @@ literatur:
 ---
 Die Furcht von Hobby-Pilzsammlern vor dem Satansröhrling ist groß aber unter praktischen Gesichtspunkten ziemlich unbegründet. Ein Grund: er kann zwar mehr oder weniger heftige Magen-Darmstörungen hervorrufen, hat in Deutschland aber noch keinen umgebracht. Ihn in der populären Pilzliteratur mit einem Totenkopf-Symbol zu versehen, erscheint mir reichlich übertrieben. Ein statistisch noch bedeutsamerer Grund: zu finden ist der Pilz mit dem teuflischen Namen vor allem in Pilzbüchern, in natura haben ihn nur die allerwenigsten schon einmal gesehen. Fundberichte beruhen meist auf Verwechslungen mit ähnlichen oder auch weniger ähnlichen Arten. Immer wieder wird der [Schönfußröhrling (*Boletus calopus*)](/pilze/boletus-calopus-schönfußröhrling) für einen Satansröhrling gehalten, aber auch die essbaren Hexenröhrlinge.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/boletus_satanas_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
 Der bisher einzige mir bekannte Standort des Satansröhrlings ist der Park „Unter den Eichen“ in Wiesbaden, in dem auch andere Raritäten wie [Leuchtender Ölbaumpilz,](/pilze/omphalotus-olarius-leuchtender-ölbaumpilz) [Kaiserling](/pilze/amanita-caesarea-kaiserling) und der Falsche Satansröhrling gesichtet wurden. Berichtet wurde er mir auch aus einem Parkgelände in Bad Homburg, vom Maunzenweiher bei Offenbach und aus dem NSG Mönchbruch.
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/boletus_satanas_02_bm.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Foto: Bernd Miggel" %}
 
