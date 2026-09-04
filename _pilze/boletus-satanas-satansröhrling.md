@@ -32,6 +32,10 @@ Der bisher einzige mir bekannte Standort des Satansröhrlings ist der Park „Un
 
 Die dickfleischigen Hüte des Satansröhrlings erreichen Durchmesser von bis zu 25 cm und sind kalkweiß, bisweilen mit schmutzig grauen bis olivgrauen Tönen. Das weißlich graue bis hellgelbe Fleisch schmeckt mild, riecht neutral oder süßlich bis unangenehm (Bahnhofstoilette!), im Alter aasartig. Es verfärbt auf Druck leicht blaugrün, längst nicht so heftig blau wie bei den Hexenröhrlingen. Die Röhren sind jung gelblich, dann karmin- bis purpurrot und verfärben auf Druck ebenfalls leicht blaugrün. Der bauchige Stiel ist auf gelbem Grund rötlich gefärbt, im oberen Teil fein genetzt.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/boletus_satanas_03_bs.png" nocrop=true %}
+{% include abbildung_ende.html legende="04.09.2026: auf dem Gelände der Liebigschule in Frankfurt-Praunheim gefunden und fotografiert von Bela Salgo" %}
+
 Satansröhrlinge bevorzugen kalkhaltige Böden an wärmebegünstigten Standorten. [Mykorrhizapartner](Mykorrhiza "Glossar") ist in erster Linie die Buche (Fagus sylvatica). Nachdem die sehr artenreiche Gattung der Dickröhrlinge in zahlreiche kleinere Gattungen aufgesplittet worden ist, gehört der Satansröhrling als Rubroboletus satanas zu den Purpurröhrlingen.
 
 Der Satansröhrling war Pilz des Jahres 1999. Es lohnt sich, die aus diesem Anlass von der DGfM publizierte Darstellung aufzurufen. Link: <https://www.dgfm-ev.de/pilz-des-jahres/1999-satansroehrling>
