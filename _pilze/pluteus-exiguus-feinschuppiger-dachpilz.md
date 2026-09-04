@@ -19,6 +19,10 @@ hauptbild:
 
 Dieser auf einem morschen moosbewachsenen Buchenstamm gefundene Dachpilz gehört mit einem Hutdurchmesser unter 2 cm zweifelsfrei zu den "Zwergdachpilzen" und von denen gibt es nur eine Handvoll. Die Abgrenzung zu P. pusillulus und P. hispidulus ist lt. Literatur nicht ganz einfach, aber die festgestellten Makro- und Mikromerkmale passten doch am besten zu der hier genannten Art.
 
-Unser Pilz hatte einen Hutdurchmesser von 1,5 cm, die aufgerissene Huthaut war über hellem Grund blass graubraun gefärbt mit deutlich dunklerer etwas gebuckelter Mitte, der Hutrand teilweise gerieft. Der weißliche zerbrechliche Stiel war hell überfasert, am berührten Teil hell grau, die Basis mit kleinem Knöllchen.  Die Sporen waren oval, nicht kugelig, etwa 7 - 7,5 x 5 µm.
+Unser Pilz hatte einen Hutdurchmesser von 1,5 cm, die aufgerissene Huthaut war über hellem Grund blass graubraun gefärbt mit deutlich dunklerer etwas gebuckelter Mitte, der Hutrand teilweise gerieft. Der weißliche zerbrechliche Stiel war hell überfasert, am berührten Teil hell grau, die Basis mit kleinem Knöllchen. Die Sporen waren oval, nicht kugelig, etwa 7 - 7,5 x 5 µm.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/pluteus_exiguus_03_uw.png" nocrop=true %}
+{% include abbildung_ende.html legende="02.09.2026: in einem Wald bei Dietzenbach (Hessen) gefunden und fotografiert von Ulrike Wegner" %}
 
 Mehr über Dachpilze erfahren Sie in unserem [Gattungs-Porträt >](/verwandt/dachpilze-pluteus)
