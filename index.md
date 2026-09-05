@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/sparassis_crispa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+06.09.2026: Unser Aktueller [Fundkorbpilz](AA "Glossar-") ist die Krause Glucke *Sparassis crispa*. Der parasitische Pilz sieht aus wie ein großer Badeschwamm, der am Fuß oder auf Stümpfen von Kiefern wächst, und ist damit (fast) unverwechselbar. Der Fruchtkörper kann mehrere Kilogramm schwer werden. Da er recht zerbrechlich ist, kann man ihn leicht zerbröseln und so im Wasserbad reinigen. Der zähe Strunk bleibt dann von selbst zurück und kann entsorgt werden. Zubereitet ist die Krause Glucke bissfest, sie schmeckt nussartig-würzig ... und ergibt die beste Pilzsuppe, die ich kenne. (Ulrike Wegner) [Mehr lesen >](/pilze/sparassis-crispa-krause-glucke)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_satanas_03_bs.png" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 31.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Echte Mehltau *Blumeria graminis*. Er erscheint als weißer mehliger Belag auf verschiedenen Gräsern und ist auf fast jeder Rasenfläche zu beobachten. Je nach Gras- oder Getreideart werden verschiedene Formen unterschieden. Hoher Stickstoffeintrag auf landwirtschaftlich genutzten Flächen erhöht die Infektionsgefahr und kann, wenn auch die Ähren befallen werden, zu Ertragsverlusten führen. (Dieter Gewalt) [Mehr lesen >](/pilze/blumeria-graminis-echter-mehltau)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pleurotus_eryngii_02_xx.jpg" %}
-{% include abbildung_ende.html %}
-
-30.08.2026: In gut sortierten Lebensmittelfachgeschäften wird man unseren aktuellen [Fundkorbpilz](AA "Glossar-") nicht vergeblich suchen. Allerdings ist der Kräuterseitling *Pleurotus eryngii* kein billiger aber sehr schmackhafter Leckerbissen. In freier Natur wird man ihn nur extrem selten finden, ist auch streng geschützt. Er parasitiert auf den Wurzeln von Feld-Mannstreu (*Eryngium campestre*) und das ist ebenfalls alles andere als häufig. In den Handel kommen ausschließlich in Pilz-Zuchtbetrieben erzeugte Fruchtkörper. (Dieter Gewalt) [Mehr lesen >](/pilze/pleurotus-eryngii-kräuterseitling) 
 
 <div style="clear:  both"></div>
 
