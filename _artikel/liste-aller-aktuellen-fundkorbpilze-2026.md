@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-06.09.2026: [Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)  
+07.09.2026: [Agrocybe dura - Rissiger Ackerling](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling)  
+06.09.2026: [Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)\
 05.09.2026: [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)\
 04.09.2026: [Galerina clavata - Großsporiger Häubling](/pilze/galerina-clavata-großsporiger-häubling)\
 03.09.2026: [Polyporus alveolaris - Wabenporling](/pilze/polyporus-alveolaris-wabenporling)\
