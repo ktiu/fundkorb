@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agrocybe_dura_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.09.2026: Der Rissige Ackerling *Agrocybe dura* ist längst nicht so häufig wie der meist noch früher erscheinende [Voreilende Ackerling Agrocybe praecox](/pilze/agrocybe-praecox-voreilender-ackerling). Als Rarität kann man unseren aktuellen [Fundkorbpilz](AA "Glossar-") aber auch nicht bezeichnen. Es ist nicht ganz einfach, die beiden im Feld sicher voneinander zu unterscheiden. Um Zweifel auszuräumen, sollte mikroskopiert werden. Sie unterscheiden sich deutlich in der Größe ihrer Sporen. (Dieter Gewalt) [Mehr lesen >](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/sparassis_crispa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 01.09.2026: Im Frankfurter Stadtwald ist er immer mal wieder zu finden, unser aktueller [Fundkorbpilz](AA "Glossar-"). Der Ockerfarbene Dauerporling *Perenniporia medulla-panis* liebt altes Eichenholz, gern auch an Balken, Zäunen, oder wie Werner Pohl 2006 berichtet hat, auf einer alten Parkbank im Norden Frankfurts. Er wird auch Ockerfarbener Porenschwamm genannt und wächst meist völlig [resupinat](resupinat "Glossar").  (Dieter Gewalt) [Mehr lesen >](/pilze/perenniporia-medulla-panis-ockerfarbener-dauerporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/blumeria_graminis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.08.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Echte Mehltau *Blumeria graminis*. Er erscheint als weißer mehliger Belag auf verschiedenen Gräsern und ist auf fast jeder Rasenfläche zu beobachten. Je nach Gras- oder Getreideart werden verschiedene Formen unterschieden. Hoher Stickstoffeintrag auf landwirtschaftlich genutzten Flächen erhöht die Infektionsgefahr und kann, wenn auch die Ähren befallen werden, zu Ertragsverlusten führen. (Dieter Gewalt) [Mehr lesen >](/pilze/blumeria-graminis-echter-mehltau)
 
 <div style="clear:  both"></div>
 
