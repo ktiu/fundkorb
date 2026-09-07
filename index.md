@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lecanora_carpinea_01_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+08.09.2026: Kuchenflechten gehören zu den Krustenflechten. Ihre flachen [Lager](Lager "Glossar") sind meist dicht-an-dicht mit 1 mm breiten [Apothecien](Apothecien "Glossar") besetzt. Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Hainbuchen-Kuchenflechte *Lecanora carpinea* wächst keineswegs nur auf der Rinde von Hainbuchen. Sie besiedelt auch jede Menge anderer Laubbaumarten und ist nicht leicht von verwandten Arten zu unterscheiden. (Bernd Miggel) [Mehr lesen >](/pilze/lecanora-carpinea-hainbuchen-kuchenflechte) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agrocybe_dura_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 02.09.2026: Man hat noch keine brütenden Vögel auf ihnen sitzen gesehen, aber es gibt sie wirklich, diese [Vogelnestpilze](/verwandt/vogelnestpilze). Sie sind klein, leicht zu übersehen, aber problemlos auf einen Blick zu bestimmen. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Topf-Teuerling *Cythus olla*. Es sind kleine Töpfchen von etwa einem Zentimeter Durchmesser, in dem etliche linsen- oder münzenförmige Gebilde liegen, die man Peridiolen nennt. In ihnen werden die Sporen gebildet. (Dieter Gewalt) [Mehr lesen >](/pilze/cyathus-olla-topf-teuerling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/perenniporia_medulla-panis_01_wp.jpg" %}
-{% include abbildung_ende.html %}
-
-01.09.2026: Im Frankfurter Stadtwald ist er immer mal wieder zu finden, unser aktueller [Fundkorbpilz](AA "Glossar-"). Der Ockerfarbene Dauerporling *Perenniporia medulla-panis* liebt altes Eichenholz, gern auch an Balken, Zäunen, oder wie Werner Pohl 2006 berichtet hat, auf einer alten Parkbank im Norden Frankfurts. Er wird auch Ockerfarbener Porenschwamm genannt und wächst meist völlig [resupinat](resupinat "Glossar").  (Dieter Gewalt) [Mehr lesen >](/pilze/perenniporia-medulla-panis-ockerfarbener-dauerporling)
 
 <div style="clear:  both"></div>
 
