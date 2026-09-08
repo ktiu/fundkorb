@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-08.09.2026: [Lecanora carpinea - Hainbuchen-Kuchenflechte](/pilze/lecanora-carpinea-hainbuchen-kuchenflechte)  
+09.09.2026: [Agaricus campestris - Wiesenchampignon](/pilze/agaricus-campestris-wiesenchampignon)  
+08.09.2026: [Lecanora carpinea - Hainbuchen-Kuchenflechte](/pilze/lecanora-carpinea-hainbuchen-kuchenflechte)\
 07.09.2026: [Agrocybe dura - Rissiger Ackerling](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling)\
 06.09.2026: [Sparassis crispa - Krause Glucke](/pilze/sparassis-crispa-krause-glucke)\
 05.09.2026: [Boletus satanas - Satansröhrling](/pilze/boletus-satanas-satansröhrling)\
