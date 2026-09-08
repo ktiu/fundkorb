@@ -23,6 +23,12 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_campestris_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+09.09.2026: [Fundkorbpilz](AA "Glossar-") Unter den Champignons, die in unserer Dietzenbacher Parkanlage vorkommen, befindet sich natürlich auch der Wiesenchampignon *Agaricus campestris*, unser heutiger [Fundkorbpilz](AA "Glossar-"). Er gehört zu den <ins>nicht</ins> gilbenden Arten, die <ins>nicht</ins> nach Anis riechen und außerhalb von Wäldern wachsen. Eine Verwechslung mit dem an gleichen Standorten vorkommenden [Karbolchampignon *Agaricus xanthoderma*](/pilze/agaricus-xanthoderma-karbolchampignon) wird mit heftigem Durchfall bestraft. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-campestris-wiesenchampignon) <div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lecanora_carpinea_01_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +73,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 03.09.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wabenporling *Polyporus alveolaris*, ein hinreißend schöner Pilz. An seinen wie Bienenwaben geformten, bis 5 mm großen ganzrandigen Poren, die über die gesamte Stiellänge herablaufen, ist er meist auf den ersten Blick zu erkennen. Er besiedelt ausschließlich totes Laubholz und ist in Mitteleuropa ganz überwiegend an Eiche zu finden. Als wärmeliebende Art profitiert er von der gegenwärtigen Klimaerwärmung. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-alveolaris-wabenporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/cyathus_olla_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.09.2026: Man hat noch keine brütenden Vögel auf ihnen sitzen gesehen, aber es gibt sie wirklich, diese [Vogelnestpilze](/verwandt/vogelnestpilze). Sie sind klein, leicht zu übersehen, aber problemlos auf einen Blick zu bestimmen. So auch unser aktueller [Fundkorbpilz](AA "Glossar-"), der Topf-Teuerling *Cythus olla*. Es sind kleine Töpfchen von etwa einem Zentimeter Durchmesser, in dem etliche linsen- oder münzenförmige Gebilde liegen, die man Peridiolen nennt. In ihnen werden die Sporen gebildet. (Dieter Gewalt) [Mehr lesen >](/pilze/cyathus-olla-topf-teuerling)
 
 <div style="clear:  both"></div>
 
