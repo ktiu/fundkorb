@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/xerocomus_rubellus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.09.2026: Mein aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutrote Filzröhrling *Xerocomus rubellus*. Er ist mir bei einem Spaziergang auf einer frisch gemähten Rasenfläche um einen Brunnen bei Dietzenbach mit seiner blutroten Farbe an Hut und Stiel aufgefallen. Dieser [Mykorrhizapilz](Mykorrhiz "Glossar") lebt in Symbiose mit diversen Laubbäumen und ist ein typischer Wegrandpilz. Leider waren die essbaren Pilze schon überaltert und deshalb nicht mehr für die Küche geeignet. Das beigefügte Foto zeigt sie in junger Pracht. (Ulrike Wegner) [Mehr lesen >](/pilze/xerocomus-rubellus-blutroter-filzröhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_campestris_02_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 04.09.2026: Nicht nur die Namen ähneln sich. Häublinge können leicht mit Samthäubchen verwechselt werden. Mikroskopieren sorgt für Klarheit. Samthäubchen haben glatte Sporen, unser aktueller [Fundkorbpilz](AA "Glossar-"), der Großsporige Häubling *Galerina clavata* wie alle anderen Häublinge aber warzige. Gefunden habe ich ihn in unserer Dietzenbacher Parkanlage an einer feuchten Rasenstelle. (Dieter Gewalt) [Mehr lesen >](/pilze/galerina-clavata-großsporiger-häubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/polyporus_alveolaris_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.09.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Wabenporling *Polyporus alveolaris*, ein hinreißend schöner Pilz. An seinen wie Bienenwaben geformten, bis 5 mm großen ganzrandigen Poren, die über die gesamte Stiellänge herablaufen, ist er meist auf den ersten Blick zu erkennen. Er besiedelt ausschließlich totes Laubholz und ist in Mitteleuropa ganz überwiegend an Eiche zu finden. Als wärmeliebende Art profitiert er von der gegenwärtigen Klimaerwärmung. (Dieter Gewalt) [Mehr lesen >](/pilze/polyporus-alveolaris-wabenporling)
 
 <div style="clear:  both"></div>
 
