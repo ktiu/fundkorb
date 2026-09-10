@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_radicans_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.09.2026: Innerhalb von zwei Tagen erreichen mich gleich zwei Fundmeldungen für einen prächtigen großen Dickröhrling. Aus Wiesbaden von *Thomas Lamberty*, aus Frankfurt von *Bela Salgo*. Dieser wärmeliebende aktuelle [Fundkorbpilz](AA "Glossar-"), der Wurzelnde Bitterröhrling *Boletus radicans*, scheint sich in Großstädten wohlzufühlen, was zu seiner Vorliebe für kalkhaltige Böden passt. Mit der Merkmalskombination *„Poren der Röhrenschicht gelb + Fleisch und Röhren blauend + bitterer Geschmack“* ist er gut gekennnzeichnet. Natürlich hat auch er inzwischen einen neuen Namen: *Caloboletus radicans*. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-radicans-wurzelnder-bitterröhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/xerocomus_rubellus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 05.09.2026: Der Satansröhrling *Boletus satanas* (Neuer Name: *Rubroboletus satanas*) gilt zwar als Giftpilz, hat aber noch niemanden umgebracht. Diesen in Hessen sehr seltenen Röhrling auf dem Gelände der Liebigschule im Frankfurter Stadtteil Praunheim zu finden ist Anlass genug, ihn als aktuellen [Fundkorbpilz](AA "Glossar-") zu zeigen. Eichen sind in der Nähe vorhanden und der für sein Wachstum erforderliche kalkhaltige Boden ist in einer Großstadt eher der Normalfall als eine Ausnahme. (Bela Salgo, 14) [Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/galerina_clavata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.09.2026: Nicht nur die Namen ähneln sich. Häublinge können leicht mit Samthäubchen verwechselt werden. Mikroskopieren sorgt für Klarheit. Samthäubchen haben glatte Sporen, unser aktueller [Fundkorbpilz](AA "Glossar-"), der Großsporige Häubling *Galerina clavata* wie alle anderen Häublinge aber warzige. Gefunden habe ich ihn in unserer Dietzenbacher Parkanlage an einer feuchten Rasenstelle. (Dieter Gewalt) [Mehr lesen >](/pilze/galerina-clavata-großsporiger-häubling)
 
 <div style="clear:  both"></div>
 
