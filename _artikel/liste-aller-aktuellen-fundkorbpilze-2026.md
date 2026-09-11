@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-11.09.2026: [Boletus radicans - Wurzelnder Bitterröhrling](/pilze/boletus-radicans-wurzelnder-bitterröhrling)  
+12.09.2026: [Agaricus xanthoderma - Karbolchampignon](/pilze/agaricus-xanthoderma-karbolchampignon)  
+11.09.2026: [Boletus radicans - Wurzelnder Bitterröhrling](/pilze/boletus-radicans-wurzelnder-bitterröhrling)\
 10.09.2026: [Xerocomus rubellus - Blutroter Filzröhrling](/pilze/xerocomus-rubellus-blutroter-filzröhrling)\
 09.09.2026: [Agaricus campestris - Wiesenchampignon](/pilze/agaricus-campestris-wiesenchampignon)\
 08.09.2026: [Lecanora carpinea - Hainbuchen-Kuchenflechte](/pilze/lecanora-carpinea-hainbuchen-kuchenflechte)\
