@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_xanthoderma_01_dg-1024x734.jpg" %}
+{% include abbildung_ende.html %}
+
+12.09.2026: Längst nicht mehr so häufig wie in früheren Jahren ist der Karbolchamignon *Agaricus xanthoderma* (aktueller [Fundkorbpilz](AA "Glossar-")) in unserer Dietzenbacher Parkanlage. Das verringert die Gefahr, dass Anwohner nach einer Pilzmahlzeit von Übelkeit, Bauchweh und Durchfall geplagt werden. Wird er doch oft mit essbaren Wiesenchampignons verwechselt. Auch in der Pilzberatung im Frankfurter Gesundheitsamt musste er immer wieder einkassiert werden, aber diese traditionelle und sinnvolle Einrichtung ist von der Stadtverwaltung aus Kostengründen gestrichen worden. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-xanthoderma-karbolchampignon)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_radicans_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
