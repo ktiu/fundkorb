@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-12.09.2026: [Agaricus xanthoderma - Karbolchampignon](/pilze/agaricus-xanthoderma-karbolchampignon)  
+13.09.2026: [Leccinum aurantiacum - Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)  
+12.09.2026: [Agaricus xanthoderma - Karbolchampignon](/pilze/agaricus-xanthoderma-karbolchampignon)\
 11.09.2026: [Boletus radicans - Wurzelnder Bitterröhrling](/pilze/boletus-radicans-wurzelnder-bitterröhrling)\
 10.09.2026: [Xerocomus rubellus - Blutroter Filzröhrling](/pilze/xerocomus-rubellus-blutroter-filzröhrling)\
 09.09.2026: [Agaricus campestris - Wiesenchampignon](/pilze/agaricus-campestris-wiesenchampignon)\
