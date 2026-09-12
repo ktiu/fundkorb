@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leccinum_aurantiacum_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.09.2026: Bei unserer gestrigen Tour im Waldviertel von Niederösterreich haben wir neben Birken- auch Espenrotkappen (*Leccinum aurantiacum*) in perfekter Qualität gefunden. Um diesen aktuellen [Fundkorbpilz](AA "Glossar-") sicher zu erkennen, ist nicht nur auf den Begleitbaum zu achten. Auch die Verfärbung vor allem im Stielfleisch sollte man im Blick haben: von anfangs rötlich über blaugrün bis violettschwärzlich. (Werner Bauer) [Mehr lesen >](/pilze/leccinum-aurantiacum-espenrotkappe)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_xanthoderma_01_dg-1024x734.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,22 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 07.09.2026: Der Rissige Ackerling *Agrocybe dura* ist längst nicht so häufig wie der meist noch früher erscheinende [Voreilende Ackerling Agrocybe praecox](/pilze/agrocybe-praecox-voreilender-ackerling). Als Rarität kann man unseren aktuellen [Fundkorbpilz](AA "Glossar-") aber auch nicht bezeichnen. Es ist nicht ganz einfach, die beiden im Feld sicher voneinander zu unterscheiden. Um Zweifel auszuräumen, sollte mikroskopiert werden. Sie unterscheiden sich deutlich in der Größe ihrer Sporen. (Dieter Gewalt) [Mehr lesen >](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/sparassis_crispa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-06.09.2026: Unser Aktueller [Fundkorbpilz](AA "Glossar-") ist die Krause Glucke *Sparassis crispa*. Der parasitische Pilz sieht aus wie ein großer Badeschwamm, der am Fuß oder auf Stümpfen von Kiefern wächst, und ist damit (fast) unverwechselbar. Der Fruchtkörper kann mehrere Kilogramm schwer werden. Da er recht zerbrechlich ist, kann man ihn leicht zerbröseln und so im Wasserbad reinigen. Der zähe Strunk bleibt dann von selbst zurück und kann entsorgt werden. Zubereitet ist die Krause Glucke bissfest, sie schmeckt nussartig-würzig ... und ergibt die beste Pilzsuppe, die ich kenne. (Ulrike Wegner) [Mehr lesen >](/pilze/sparassis-crispa-krause-glucke)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_satanas_03_bs.png" %}
-{% include abbildung_ende.html %}
-
-05.09.2026: Der Satansröhrling *Boletus satanas* (Neuer Name: *Rubroboletus satanas*) gilt zwar als Giftpilz, hat aber noch niemanden umgebracht. Diesen in Hessen sehr seltenen Röhrling auf dem Gelände der Liebigschule im Frankfurter Stadtteil Praunheim zu finden ist Anlass genug, ihn als aktuellen [Fundkorbpilz](AA "Glossar-") zu zeigen. Eichen sind in der Nähe vorhanden und der für sein Wachstum erforderliche kalkhaltige Boden ist in einer Großstadt eher der Normalfall als eine Ausnahme. (Bela Salgo, 14) [Mehr lesen >](/pilze/boletus-satanas-satansröhrling)
 
 <div style="clear:  both"></div>
 
