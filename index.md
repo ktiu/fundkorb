@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leccinum_piceinum_03_wb.jpeg" %}
+{% include abbildung_ende.html %}
+
+14.09.2026: So macht das Pilzesuchen wieder richtig Spaß! Gleich drei unterschiedliche Rotkappen-Arten bei einer einzigen Tour im niederösterreichischen Waldviertel! Aktueller [Fundkorbpilz](AA "Glossar-") ist einer von ihnen, die Fichtenrotkappe *Leccinum piceinum*. Zum sicheren Erkennen achte man neben dem Wachstum bei Fichten auf rosa verfärbendes Stielfleisch. (Werner Bauer) [Mehr lesen >](/pilze/leccinum-piceinum-fichtenrotkappe)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leccinum_aurantiacum_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 08.09.2026: Kuchenflechten gehören zu den Krustenflechten. Ihre flachen [Lager](Lager "Glossar") sind meist dicht-an-dicht mit 1 mm breiten [Apothecien](Apothecien "Glossar") besetzt. Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Hainbuchen-Kuchenflechte *Lecanora carpinea* wächst keineswegs nur auf der Rinde von Hainbuchen. Sie besiedelt auch jede Menge anderer Laubbaumarten und ist nicht leicht von verwandten Arten zu unterscheiden. (Bernd Miggel) [Mehr lesen >](/pilze/lecanora-carpinea-hainbuchen-kuchenflechte) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agrocybe_dura_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.09.2026: Der Rissige Ackerling *Agrocybe dura* ist längst nicht so häufig wie der meist noch früher erscheinende [Voreilende Ackerling Agrocybe praecox](/pilze/agrocybe-praecox-voreilender-ackerling). Als Rarität kann man unseren aktuellen [Fundkorbpilz](AA "Glossar-") aber auch nicht bezeichnen. Es ist nicht ganz einfach, die beiden im Feld sicher voneinander zu unterscheiden. Um Zweifel auszuräumen, sollte mikroskopiert werden. Sie unterscheiden sich deutlich in der Größe ihrer Sporen. (Dieter Gewalt) [Mehr lesen >](/pilze/agrocybe-dura-rissiger-ackerling-weißer-ackerling)
 
 <div style="clear:  both"></div>
 
