@@ -20,6 +20,8 @@ footer_scripts:
 
 Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilzkurs-für-einsteiger-1.html)
 
+**Aktueller Fundkorbpilz:**
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/albatrellus_confluens_01_nk.jpg" %}
 {% include abbildung_ende.html %}
@@ -28,10 +30,8 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 
 <div style="clear:  both"></div>
 
-**Aktueller Fundkorbpilz:**
-
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/albatrellus_confluens_01_nk.jpg" %}
+{% include bild.html datei="/bilder/leccinum_piceinum_03_wb.jpeg" %}
 {% include abbildung_ende.html %}
 
 14.09.2026: So macht das Pilzesuchen wieder richtig Spaß! Gleich drei unterschiedliche Rotkappen-Arten bei einer einzigen Tour im niederösterreichischen Waldviertel! Aktueller [Fundkorbpilz](AA "Glossar-") ist einer von ihnen, die Fichtenrotkappe *Leccinum piceinum*. Zum sicheren Erkennen achte man neben dem Wachstum bei Fichten auf rosa verfärbendes Stielfleisch. (Werner Bauer) [Mehr lesen >](/pilze/leccinum-piceinum-fichtenrotkappe)
