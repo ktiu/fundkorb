@@ -20,10 +20,18 @@ footer_scripts:
 
 Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilzkurs-für-einsteiger-1.html)
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/albatrellus_confluens_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+15.09.2026: Nun blicken wohl viele Pilzfreunde in Deutschland neidvoll nach Österreich. Da gibt es ein Waldviertel, in dem nicht nur Rotkappen sondern auch Semmelporlinge (*Albatrellus confluens*) wachsen, ein aktueller [Fundkorbpilz](AA "Glossar-"), der anderswo längst als verschollen oder sehr selten gilt. Da spielt es keine Rolle, dass er wie seine nahen Verwandten aus der gleichen Gattung  essbar ist. Sie alle gelten als streng geschützt. (Werner Bauer) [Mehr lesen >](/pilze/albatrellus-confluens-semmelporling)
+
+<div style="clear:  both"></div>
+
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leccinum_piceinum_03_wb.jpeg" %}
+{% include bild.html datei="/bilder/albatrellus_confluens_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
 14.09.2026: So macht das Pilzesuchen wieder richtig Spaß! Gleich drei unterschiedliche Rotkappen-Arten bei einer einzigen Tour im niederösterreichischen Waldviertel! Aktueller [Fundkorbpilz](AA "Glossar-") ist einer von ihnen, die Fichtenrotkappe *Leccinum piceinum*. Zum sicheren Erkennen achte man neben dem Wachstum bei Fichten auf rosa verfärbendes Stielfleisch. (Werner Bauer) [Mehr lesen >](/pilze/leccinum-piceinum-fichtenrotkappe)
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 09.09.2026: [Fundkorbpilz](AA "Glossar-") Unter den Champignons, die in unserer Dietzenbacher Parkanlage vorkommen, befindet sich natürlich auch der Wiesenchampignon *Agaricus campestris*, unser heutiger [Fundkorbpilz](AA "Glossar-"). Er gehört zu den <ins>nicht</ins> gilbenden Arten, die <ins>nicht</ins> nach Anis riechen und außerhalb von Wäldern wachsen. Eine Verwechslung mit dem an gleichen Standorten vorkommenden [Karbolchampignon *Agaricus xanthoderma*](/pilze/agaricus-xanthoderma-karbolchampignon) wird mit heftigem Durchfall bestraft. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-campestris-wiesenchampignon)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lecanora_carpinea_01_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-08.09.2026: Kuchenflechten gehören zu den Krustenflechten. Ihre flachen [Lager](Lager "Glossar") sind meist dicht-an-dicht mit 1 mm breiten [Apothecien](Apothecien "Glossar") besetzt. Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Hainbuchen-Kuchenflechte *Lecanora carpinea* wächst keineswegs nur auf der Rinde von Hainbuchen. Sie besiedelt auch jede Menge anderer Laubbaumarten und ist nicht leicht von verwandten Arten zu unterscheiden. (Bernd Miggel) [Mehr lesen >](/pilze/lecanora-carpinea-hainbuchen-kuchenflechte) 
 
 <div style="clear:  both"></div>
 
