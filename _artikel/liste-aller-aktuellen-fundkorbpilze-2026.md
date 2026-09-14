@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-14.09.2026: [Leccinum piceinum - Fichtenrotkappe](/pilze/leccinum-piceinum-fichtenrotkappe)  
+15.09.2026: [Albatrellus confluens - Semmelporling](/pilze/albatrellus-confluens-semmelporling)  
+14.09.2026: [Leccinum piceinum - Fichtenrotkappe](/pilze/leccinum-piceinum-fichtenrotkappe)\
 13.09.2026: [Leccinum aurantiacum - Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)\
 12.09.2026: [Agaricus xanthoderma - Karbolchampignon](/pilze/agaricus-xanthoderma-karbolchampignon)\
 11.09.2026: [Boletus radicans - Wurzelnder Bitterröhrling](/pilze/boletus-radicans-wurzelnder-bitterröhrling)\
