@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pluteus_salicinus_06_hs.jpg" %}
+{% include abbildung_ende.html %}
+
+16.09.2026: Bei einem Ausflug in den Naturpark Spessart fand ich in der Nähe der Bayerischen Schanz auf ca. 500 m Höhe den seltenen Grauen Dachpilz *Pluteus salicinus*. Während andere Dachpilzarten als ungenießbar oder nicht schmackhaft bezeichnet werden, enthält unser aktueller [Fundkorbpilz](AA "Glossar-") geringe Mengen Psilocybin und gilt daher als (schwach) psychoaktiv und giftig. Er zeigte eines seiner Bestimmungsmerkmale, einen blau-grünlichen Schein an der Stielbasis, erst am nächsten Tag, nachdem er über Nacht etwas angetrocknet war. (Brigitte Koch) [Mehr lesen >](/pilze/pluteus-salicinus-grauer-dachpilz-graugrüner-dachpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/albatrellus_confluens_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 10.09.2026: Mein aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutrote Filzröhrling *Xerocomus rubellus*. Er ist mir bei einem Spaziergang auf einer frisch gemähten Rasenfläche um einen Brunnen bei Dietzenbach mit seiner blutroten Farbe an Hut und Stiel aufgefallen. Dieser [Mykorrhizapilz](Mykorrhiz "Glossar") lebt in Symbiose mit diversen Laubbäumen und ist ein typischer Wegrandpilz. Leider waren die essbaren Pilze schon überaltert und deshalb nicht mehr für die Küche geeignet. Das beigefügte Foto zeigt sie in junger Pracht. (Ulrike Wegner) [Mehr lesen >](/pilze/xerocomus-rubellus-blutroter-filzröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_campestris_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-09.09.2026: [Fundkorbpilz](AA "Glossar-") Unter den Champignons, die in unserer Dietzenbacher Parkanlage vorkommen, befindet sich natürlich auch der Wiesenchampignon *Agaricus campestris*, unser heutiger [Fundkorbpilz](AA "Glossar-"). Er gehört zu den <ins>nicht</ins> gilbenden Arten, die <ins>nicht</ins> nach Anis riechen und außerhalb von Wäldern wachsen. Eine Verwechslung mit dem an gleichen Standorten vorkommenden [Karbolchampignon *Agaricus xanthoderma*](/pilze/agaricus-xanthoderma-karbolchampignon) wird mit heftigem Durchfall bestraft. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-campestris-wiesenchampignon)
 
 <div style="clear:  both"></div>
 
