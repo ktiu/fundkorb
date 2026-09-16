@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-16.09.2026: [Pluteus salicinus - Grauer Dachpilz](/pilze/pluteus-salicinus-grauer-dachpilz-graugrüner-dachpilz)  
+17.09.2026: [Macrolepiota procera - Großer Riesenschirmling, Parasol](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)  
+16.09.2026: [Pluteus salicinus - Grauer Dachpilz](/pilze/pluteus-salicinus-grauer-dachpilz-graugrüner-dachpilz)\
 15.09.2026: [Albatrellus confluens - Semmelporling](/pilze/albatrellus-confluens-semmelporling)\
 14.09.2026: [Leccinum piceinum - Fichtenrotkappe](/pilze/leccinum-piceinum-fichtenrotkappe)\
 13.09.2026: [Leccinum aurantiacum - Espenrotkappe](/pilze/leccinum-aurantiacum-espenrotkappe)\
