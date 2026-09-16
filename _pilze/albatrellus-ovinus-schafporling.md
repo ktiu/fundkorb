@@ -20,6 +20,11 @@ literatur:
       Seite 474 - 475"
   - url: https://de.wikipedia.org/wiki/Schaf-Porling
 ---
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/albatrellus_ovinus_-02_wb.jpeg" nocrop=true %}
+{% include bild.html datei="/bilder/albatrellus_ovinus_03_wb.jpeg" nocrop=true %}
+{% include abbildung_ende.html legende="2 Fotos: Werner Bauer" %}
+
 Porlinge müssen nicht unbedingt nur an Holz wachsen. Es gibt auch bodenbewohnende Arten. Zum Beispiel den Schafporling.  Der ist sogar ein guter Speisepilz, der jedoch streng geschützt ist und in Deutschland nicht gesammelt werden darf. In manchen Nachbarländern ist er noch häufig und unterliegt keinen oder nur partiellen Sammelbeschränkungen.
 
 Er kann recht groß werden. Hutdurchmesser von 20 cm und mehr sind keine Seltenheit. Die feinfilzige Huthaut ist zunächst weiß, verfärbt sich aber allmählich und auf Druck gelblich bis ockerbraun und kann im Alter oder bei Trockenheit felderig aufreißen. Die Porenschicht ist weiß, ebenfalls gilbend und ein Stück weit am Stiel herablaufend, die einzelnen Poren sind sehr klein. Die vollfleischigen Stiele sind meist exzentrisch, manchmal verbogen, zur Basis hin zuspitzend. Das weiße Fleisch ist brüchig und zart, der Geruch ist angenehm pilzig, im Geschmack nußartig mild. Das Sporenpulver ist weiß. Die glatten rundlichen Sporen mit Tropfen messen 3,5 - 4,5 x 3,5 - 4 µm.\
