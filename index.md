@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/macrolepiota_procera_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.09.2026: Mein aktueller [Fundkorbpilz](AA "Glossar-"), der Große Riesenschirmling oder Parasol (*Macrolepiota procera*), macht seinem Namen alle Ehre. Seine Hüte können 30 cm Durchmesser erreichen. Mein erster Fund des Jahres bei Waldacker im Landkreis Offenbach war noch jung und sehr viel kleiner und durfte deshalb stehen bleiben. Ich werde ihn im Auge behalten, und dann landet er in ein paar Tagen vielleicht doch noch als gebratenes Schnitzel auf meinem Teller. (Inga Illig) [Mehr lesen >](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_salicinus_06_hs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 11.09.2026: Innerhalb von zwei Tagen erreichen mich gleich zwei Fundmeldungen für einen prächtigen großen Dickröhrling. Aus Wiesbaden von *Thomas Lamberty*, aus Frankfurt von *Bela Salgo*. Dieser wärmeliebende aktuelle [Fundkorbpilz](AA "Glossar-"), der Wurzelnde Bitterröhrling *Boletus radicans*, scheint sich in Großstädten wohlzufühlen, was zu seiner Vorliebe für kalkhaltige Böden passt. Mit der Merkmalskombination *„Poren der Röhrenschicht gelb + Fleisch und Röhren blauend + bitterer Geschmack“* ist er gut gekennnzeichnet. Natürlich hat auch er inzwischen einen neuen Namen: *Caloboletus radicans*. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-radicans-wurzelnder-bitterröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/xerocomus_rubellus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.09.2026: Mein aktueller [Fundkorbpilz](AA "Glossar-") ist der Blutrote Filzröhrling *Xerocomus rubellus*. Er ist mir bei einem Spaziergang auf einer frisch gemähten Rasenfläche um einen Brunnen bei Dietzenbach mit seiner blutroten Farbe an Hut und Stiel aufgefallen. Dieser [Mykorrhizapilz](Mykorrhiz "Glossar") lebt in Symbiose mit diversen Laubbäumen und ist ein typischer Wegrandpilz. Leider waren die essbaren Pilze schon überaltert und deshalb nicht mehr für die Küche geeignet. Das beigefügte Foto zeigt sie in junger Pracht. (Ulrike Wegner) [Mehr lesen >](/pilze/xerocomus-rubellus-blutroter-filzröhrling)
 
 <div style="clear:  both"></div>
 
