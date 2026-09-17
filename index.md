@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/albatrellus_ovinus_-02_wb.jpeg" %}
+{% include abbildung_ende.html %}
+
+18.09.2026: In meinem Sammelgebiet im niederösterreichischen Waldviertel habe ich neben dem [Semmelporling](/pilze/albatrellus-confluens-semmelporling) auch mehrere Gruppen Schafporlinge (*Albatrellus ovinus*) gefunden. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") kommt vor allem in Fichtenwäldern vor, nicht selten in Gemeinschaft mit dem Semmelporling. Beide sind essbar, vor allem der Schafporling gilt als exzellenter Speisepilze. In Deutschland gelten alle *Albatrellus*-Arten in den meisten Bundesländern als stark gefährdet oder verschollen. (Werner Bauer) [Mehr lesen >](/pilze/albatrellus-ovinus-schafporling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/macrolepiota_procera_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 12.09.2026: Längst nicht mehr so häufig wie in früheren Jahren ist der Karbolchamignon *Agaricus xanthoderma* (aktueller [Fundkorbpilz](AA "Glossar-")) in unserer Dietzenbacher Parkanlage. Das verringert die Gefahr, dass Anwohner nach einer Pilzmahlzeit von Übelkeit, Bauchweh und Durchfall geplagt werden. Wird er doch oft mit essbaren Wiesenchampignons verwechselt. Auch in der Pilzberatung im Frankfurter Gesundheitsamt musste er immer wieder einkassiert werden, aber diese traditionelle und sinnvolle Einrichtung ist von der Stadtverwaltung aus Kostengründen gestrichen worden. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-xanthoderma-karbolchampignon)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_radicans_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.09.2026: Innerhalb von zwei Tagen erreichen mich gleich zwei Fundmeldungen für einen prächtigen großen Dickröhrling. Aus Wiesbaden von *Thomas Lamberty*, aus Frankfurt von *Bela Salgo*. Dieser wärmeliebende aktuelle [Fundkorbpilz](AA "Glossar-"), der Wurzelnde Bitterröhrling *Boletus radicans*, scheint sich in Großstädten wohlzufühlen, was zu seiner Vorliebe für kalkhaltige Böden passt. Mit der Merkmalskombination *„Poren der Röhrenschicht gelb + Fleisch und Röhren blauend + bitterer Geschmack“* ist er gut gekennnzeichnet. Natürlich hat auch er inzwischen einen neuen Namen: *Caloboletus radicans*. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-radicans-wurzelnder-bitterröhrling)
 
 <div style="clear:  both"></div>
 
