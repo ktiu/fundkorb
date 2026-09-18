@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pluteus_ephebeus_01_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+19.09.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Flaumige Dachpilz *Pluteus ephebeus*, den ich vor Kurzem an einem Waldwegrand bei Heusenstamm im Rhein-Main-Gebiet gefunden habe. Dachpilze sind nicht leicht und oft nur unter Berücksichtigung mikroskopischer Merkmale sicher zu bestimmen, wobei es vor allem um die Huthautstruktur (parallel liegende Hyphen) und Zystiden (ohne apikale Haken) geht. Beide Merkmale sind überprüft worden. (Adam Adamowicz) [Mehr lesen >](/pilze/pluteus-ephebeus-flaumiger-dachpilz) 
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/albatrellus_ovinus_-02_wb.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 13.09.2026: Bei unserer gestrigen Tour im Waldviertel von Niederösterreich haben wir neben Birken- auch Espenrotkappen (*Leccinum aurantiacum*) in perfekter Qualität gefunden. Um diesen aktuellen [Fundkorbpilz](AA "Glossar-") sicher zu erkennen, ist nicht nur auf den Begleitbaum zu achten. Auch die Verfärbung vor allem im Stielfleisch sollte man im Blick haben: von anfangs rötlich über blaugrün bis violettschwärzlich. (Werner Bauer) [Mehr lesen >](/pilze/leccinum-aurantiacum-espenrotkappe)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_xanthoderma_01_dg-1024x734.jpg" %}
-{% include abbildung_ende.html %}
-
-12.09.2026: Längst nicht mehr so häufig wie in früheren Jahren ist der Karbolchamignon *Agaricus xanthoderma* (aktueller [Fundkorbpilz](AA "Glossar-")) in unserer Dietzenbacher Parkanlage. Das verringert die Gefahr, dass Anwohner nach einer Pilzmahlzeit von Übelkeit, Bauchweh und Durchfall geplagt werden. Wird er doch oft mit essbaren Wiesenchampignons verwechselt. Auch in der Pilzberatung im Frankfurter Gesundheitsamt musste er immer wieder einkassiert werden, aber diese traditionelle und sinnvolle Einrichtung ist von der Stadtverwaltung aus Kostengründen gestrichen worden. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-xanthoderma-karbolchampignon)
 
 <div style="clear:  both"></div>
 
