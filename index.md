@@ -23,6 +23,14 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_oreades_03_dg.png" %}
+{% include abbildung_ende.html %}
+
+20.09.2026: [Schwindlinge (Marasmiaceae)](/verwandt/schwindlinge) gehören nicht zu den Pilzen, die Speisepilzsammler im Fokus haben. Dabei wäre der Nelkenschwindling *Marasmius oreades* durchaus für die Küche zu empfehlen, auch wenn an einem Exemplar unseres aktuellen [Fundkorbpilzes](AA "Glossar-") nicht viel dran ist. Er geicht es mit einem oft massenhaften Vorkommen auf Grasflächen aus, auf denen er gern in ergiebigen Hexenringen erscheint. Bevor wir ihn in der Küche ausprobieren, sollte man sicher sein, ihn korrekt identifiziert zu haben. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_ephebeus_01_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilz
 {% include abbildung_ende.html %}
 
 14.09.2026: So macht das Pilzesuchen wieder richtig Spaß! Gleich drei unterschiedliche Rotkappen-Arten bei einer einzigen Tour im niederösterreichischen Waldviertel! Aktueller [Fundkorbpilz](AA "Glossar-") ist einer von ihnen, die Fichtenrotkappe *Leccinum piceinum*. Zum sicheren Erkennen achte man neben dem Wachstum bei Fichten auf rosa verfärbendes Stielfleisch. (Werner Bauer) [Mehr lesen >](/pilze/leccinum-piceinum-fichtenrotkappe)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leccinum_aurantiacum_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.09.2026: Bei unserer gestrigen Tour im Waldviertel von Niederösterreich haben wir neben Birken- auch Espenrotkappen (*Leccinum aurantiacum*) in perfekter Qualität gefunden. Um diesen aktuellen [Fundkorbpilz](AA "Glossar-") sicher zu erkennen, ist nicht nur auf den Begleitbaum zu achten. Auch die Verfärbung vor allem im Stielfleisch sollte man im Blick haben: von anfangs rötlich über blaugrün bis violettschwärzlich. (Werner Bauer) [Mehr lesen >](/pilze/leccinum-aurantiacum-espenrotkappe)
 
 <div style="clear:  both"></div>
 
