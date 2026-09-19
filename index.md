@@ -21,8 +21,6 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 {% include bild.html datei="/bilder/erisyphe_polygoni_01_dg.jpeg" nocrop=true %}
 {% include abbildung_ende.html legende="Lecanora  carpinea--------------- Pholiota gummosa ---------------- Mehltau an Knöterich" %}
 
-Einen nützlichen **Pilzkurs für Einsteiger** [finden Sie hier >](/artikel/pilzkurs-für-einsteiger-1.html)
-
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
