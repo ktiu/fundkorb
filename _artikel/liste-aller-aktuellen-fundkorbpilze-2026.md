@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-19.09.2026: [Pluteus ephebeus - Flaumiger Dachpilz](/pilze/pluteus-ephebeus-flaumiger-dachpilz)  
+20.09.2026: [Marasmius oreades - Nelkenschwindling](/pilze/marasmius-oreades-nelkenschwindling)  
+19.09.2026: [Pluteus ephebeus - Flaumiger Dachpilz](/pilze/pluteus-ephebeus-flaumiger-dachpilz)\
 18.09.2026: [Albatrellus ovinus - Schafporling](/pilze/albatrellus-ovinus-schafporling)\
 17.09.2026: [Macrolepiota procera - Großer Riesenschirmling, Parasol](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)\
 16.09.2026: [Pluteus salicinus - Grauer Dachpilz](/pilze/pluteus-salicinus-grauer-dachpilz-graugrüner-dachpilz)\
