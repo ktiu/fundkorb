@@ -10,7 +10,7 @@ footer_scripts:
 ---
  {% include pilzsuche.html %} 
 
-**Neuer Exkursionstermin:**  
+**Neuer Exkursionstermin:**\
 Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger - [hier geht's zur Anmeldung >](/termine)  
 
 **Neu im Fundkorb:**
@@ -22,6 +22,14 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 {% include abbildung_ende.html legende="Lecanora  carpinea--------------- Pholiota gummosa ---------------- Mehltau an Knöterich" %}
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pleurotus_pulmoniarius_04_uw.jpg" %}
+{% include abbildung_ende.html %}
+
+21.09.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Lungenseitling *Pleurotus pulmonarius*, ist der klassische Doppelgänger des bekannteren [Austernseitlings Pleurotus ostreatus](/pilze/pleurotus-ostreatus-austernseitling), dessen Wachstumsperiode längst nicht mehr von einem „Kälteschock“ abhängig ist. Auch von „Periode“ ist nicht mehr die Rede. Er ist inzwischen ganzjährig zu finden. Hellere Austernseitlinge sind farblich kaum von etwas dunkler geratenen Lungenseitlingen zu unterscheiden. Für die Küche ist das ohne Belang, denn beide sind gute Speisepilze von gleicher Wertigkeit. (Ulrike Wegner) [Mehr lesen >](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_oreades_03_dg.png" %}
@@ -68,14 +76,6 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 {% include abbildung_ende.html %}
 
 15.09.2026: Nun blicken wohl viele Pilzfreunde in Deutschland neidvoll nach Österreich. Da gibt es ein Waldviertel, in dem nicht nur Rotkappen sondern auch Semmelporlinge (*Albatrellus confluens*) wachsen, ein aktueller [Fundkorbpilz](AA "Glossar-"), der anderswo längst als verschollen oder sehr selten gilt. Da spielt es keine Rolle, dass er wie seine nahen Verwandten aus der gleichen Gattung  essbar ist. Sie alle gelten als streng geschützt. (Werner Bauer) [Mehr lesen >](/pilze/albatrellus-confluens-semmelporling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leccinum_piceinum_03_wb.jpeg" %}
-{% include abbildung_ende.html %}
-
-14.09.2026: So macht das Pilzesuchen wieder richtig Spaß! Gleich drei unterschiedliche Rotkappen-Arten bei einer einzigen Tour im niederösterreichischen Waldviertel! Aktueller [Fundkorbpilz](AA "Glossar-") ist einer von ihnen, die Fichtenrotkappe *Leccinum piceinum*. Zum sicheren Erkennen achte man neben dem Wachstum bei Fichten auf rosa verfärbendes Stielfleisch. (Werner Bauer) [Mehr lesen >](/pilze/leccinum-piceinum-fichtenrotkappe)
 
 <div style="clear:  both"></div>
 
