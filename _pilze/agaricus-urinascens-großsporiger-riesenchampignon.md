@@ -7,7 +7,7 @@ beschreibung:
   erlaeuterung: urinascens = Uringeruch entwickelnd
 profil:
   aktualisiert: 2026-09-20
-  autor_in: Berns Miggel
+  autor_in: Bernd Miggel
 hauptbild:
   anzeige: false
   datei: /bilder/agaricus_urinascens_01_bm.jpg
