@@ -43,7 +43,7 @@ Mikroskopische Merkmale:\
 Basidien keulig, 4-sporig. Sporen braun, zylindrisch, oval oder mandelförmig, glatt, dickwandig, ohne apikale Verdünnung; nach eigener Messung auf Basis von 24 repräsentativen Sporen 9 - 11 x 6 - 6,8 µm, Schlankheitsgrad Q 155 - 1,62, Volumen 200 - 220 µm³.
 
 Verwechslungsmöglichkeiten mit Champignonarten mit mehr als 20 cm Hutdurchmesser:\
-Der [Riesenchampignon *Agaricus augustus*](/pilze/agaricus-augustus-riesenchampignon) unterscheidet sich schon seinen braunschuppigen Hut. Auch sind die Sporen im Mittel mit 8 x 5 µm kleiner.\
+Der [Riesenchampignon *Agaricus augustus*](/pilze/agaricus-augustus-riesenchampignon) unterscheidet sich schon durch seinen braunschuppigen Hut. Auch sind die Sporen im Mittel mit 8 x 5 µm kleiner.\
 Der Große Anischampignon Agaricus *macrocarpus* besitzt zwar ebenfalls eine weiße Hutoberfläche, die allerdings nicht grob schuppig sondern seidig matt ist und auf Druck chromgelb verfärbt. Er riecht zudem deutlich anisartig, und seine Sporen sind kleiner.
 
 Der Großsporige Riesenchampignon wie auch die beiden genannten verwechselbaren Arten sind essbar.
