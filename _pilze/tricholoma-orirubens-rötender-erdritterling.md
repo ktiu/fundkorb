@@ -12,7 +12,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/tricholoma_orirubens_01_dg.jpg
 ---
-Das starke Röten der grauweißen Lamellen im Alter oder nach längerem Liegenlassen ist zumindest ein starker Hinweis auf diesen Erdritterling. Die Übersetzung des wissenschaftlichen Artnamens als *"Alpenglühen"* weist ebenfalls darauf hin. Zumindest mit allen mir zur Verfügung stehenden Bestimmungsschlüsseln komme ich mit diesem Merkmal auf direktem Weg zu *Tricholoma orirubens*. Weitere wichtige Merkmale sind die relativ kleinen Sporen (4 - 6,5 x 3 - 5 µm) und reichlich vorhandene Schnallen an den [Basidien](Basidien "Glossar"). Auch auffallend gelbe bis gelbgrünliche [Myzelien](Myzel "Glossar") sind für die Art charakteristisch.
+Das starke Röten der grauweißen Lamellen im Alter oder nach längerem Liegenlassen ist zumindest ein starker Hinweis auf diesen Erdritterling. Die Übersetzung des wissenschaftlichen Artnamens als *"Alpenglühen"* weist ebenfalls darauf hin. Zumindest mit allen mir zur Verfügung stehenden Bestimmungsschlüsseln komme ich mit diesem Merkmal auf direktem Weg zu *Tricholoma orirubens*. Weitere wichtige Merkmale sind die relativ kleinen Sporen (4 - 6,5 x 3 - 5 µm) und reichlich vorhandene Schnallen an den [Basidien](Basidien "Glossar"). Auch auffallend gelbe bis grüngelbliche [Myzelien](Myzel "Glossar") sind für die Art charakteristisch.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/tricholoma_orirubens_02_dg.jpg" %}
