@@ -16,10 +16,10 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/lecanora_carpinea_01_bm.jpg" %}
-{% include bild.html datei="/bilder/pholiota_gummosa_01_md.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/erisyphe_polygoni_01_dg.jpeg" nocrop=true %}
-{% include abbildung_ende.html legende="Lecanora  carpinea--------------- Pholiota gummosa ---------------- Mehltau an Knöterich" %}
+{% include bild.html datei="/bilder/agaricus_urinascens_01_bm.jpg" %}
+{% include bild.html datei="/bilder/psilocybe_crobulus_02_md.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/erysiphe_heraclei_03_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Agaricus urinascens--------------- Psilocybe crobulus ---------------- Mehltau an Bärenklau" %}
 
 **Aktueller Fundkorbpilz:**
 
