@@ -24,6 +24,14 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/rhodocollybia_butyracea_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.09.2026: Trotz anhaltender Trockenheit glänzt der Butter-Rübling *Rhodocollybia butyracea* wie mit Fett eingerieben und ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Sein Stiel fühlt sich an wie ein platter Fahrradschlauch. Das finden auch Teilnehmer an Führungen, wenn sie ihn zwischen den Fingern haben. Essen könnte man ihn auch, aber wenn man ihn nicht isst, hat man nichts versäumt. (Dieter Gewalt) [Mehr lesen >](/pilze/rhodocollybia-butyracea-butter-rübling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pleurotus_pulmoniarius_04_uw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,14 +76,6 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 {% include abbildung_ende.html %}
 
 16.09.2026: Bei einem Ausflug in den Naturpark Spessart fand ich in der Nähe der Bayerischen Schanz auf ca. 500 m Höhe den seltenen Grauen Dachpilz *Pluteus salicinus*. Während andere Dachpilzarten als ungenießbar oder nicht schmackhaft bezeichnet werden, enthält unser aktueller [Fundkorbpilz](AA "Glossar-") geringe Mengen Psilocybin und gilt daher als (schwach) psychoaktiv und giftig. Er zeigte eines seiner Bestimmungsmerkmale, einen blau-grünlichen Schein an der Stielbasis, erst am nächsten Tag, nachdem er über Nacht etwas angetrocknet war. (Brigitte Koch) [Mehr lesen >](/pilze/pluteus-salicinus-grauer-dachpilz-graugrüner-dachpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/albatrellus_confluens_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-15.09.2026: Nun blicken wohl viele Pilzfreunde in Deutschland neidvoll nach Österreich. Da gibt es ein Waldviertel, in dem nicht nur Rotkappen sondern auch Semmelporlinge (*Albatrellus confluens*) wachsen, ein aktueller [Fundkorbpilz](AA "Glossar-"), der anderswo längst als verschollen oder sehr selten gilt. Da spielt es keine Rolle, dass er wie seine nahen Verwandten aus der gleichen Gattung  essbar ist. Sie alle gelten als streng geschützt. (Werner Bauer) [Mehr lesen >](/pilze/albatrellus-confluens-semmelporling)
 
 <div style="clear:  both"></div>
 
