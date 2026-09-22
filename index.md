@@ -24,6 +24,14 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_xerampelina_02_bm.jpg" %}
+{% include abbildung_ende.html %}
+
+23.09.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt heute wieder aus dem Waldviertel in Niederösterreich. Es ist der Rote Heringstäubling *Russula xerampelina*. Heringstäublinge bilden eine Sektion innerhalb der Gattung, die alle nach Heringslake (fischartig) riechen und gute Speisepilze sind. Unsere Art ist durch die kräftig rote Farbe und Vorkommen bei Nadelbäumen gekennzeichnet. (Werner Bauer) [Mehr lesen >](/pilze/russula-xerampelina-roter-heringstäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/rhodocollybia_butyracea_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -74,10 +82,6 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_salicinus_06_hs.jpg" %}
 {% include abbildung_ende.html %}
-
-16.09.2026: Bei einem Ausflug in den Naturpark Spessart fand ich in der Nähe der Bayerischen Schanz auf ca. 500 m Höhe den seltenen Grauen Dachpilz *Pluteus salicinus*. Während andere Dachpilzarten als ungenießbar oder nicht schmackhaft bezeichnet werden, enthält unser aktueller [Fundkorbpilz](AA "Glossar-") geringe Mengen Psilocybin und gilt daher als (schwach) psychoaktiv und giftig. Er zeigte eines seiner Bestimmungsmerkmale, einen blau-grünlichen Schein an der Stielbasis, erst am nächsten Tag, nachdem er über Nacht etwas angetrocknet war. (Brigitte Koch) [Mehr lesen >](/pilze/pluteus-salicinus-grauer-dachpilz-graugrüner-dachpilz)
-
-<div style="clear:  both"></div>
 
 - - -
 
