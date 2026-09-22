@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-22.09.2026: [Rhodocollybia butyracea - Butter-Rübling](/pilze/rhodocollybia-butyracea-butter-rübling)  
+23.09.2026: [Russula xerampelina - Roter Heringstäubling](/pilze/russula-xerampelina-roter-heringstäubling)  
+22.09.2026: [Rhodocollybia butyracea - Butter-Rübling](/pilze/rhodocollybia-butyracea-butter-rübling)\
 21.09.2026: [Pleurotus pulmonarius - Lungenseitling](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)\
 20.09.2026: [Marasmius oreades - Nelkenschwindling](/pilze/marasmius-oreades-nelkenschwindling)\
 19.09.2026: [Pluteus ephebeus - Flaumiger Dachpilz](/pilze/pluteus-ephebeus-flaumiger-dachpilz)\
