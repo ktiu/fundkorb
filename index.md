@@ -24,6 +24,14 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_muscaria_09_gg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.09.2026: Glückssymbol, Giftpilz oder *„Magic mushroom“*? Der Fliegenpilz *Amanita muscaria* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Ich fand das erste Exemplar in diesem Jahr mit seinen typischen weißen Velumresten auf dem roten Hut in einem Birkenwäldchen. Zumindest den Schnecken hat er schon geschmeckt. Ich kann nur hoffen, dass er tatsächlich Glück bringt und das Wachstum von Speisepilzen wie Steinpilz und Co. ankündigt und doch noch eine gute Pilzsaison für den Herbst einläutet. Das allein wäre mir nach dem trockenen und pilzarmen Sommer Rausch genug (Ulrike Wegner) [Mehr lesen >](/pilze/amanita-muscaria-fliegenpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_xerampelina_02_bm.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -70,18 +78,6 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 18.09.2026: In meinem Sammelgebiet im niederösterreichischen Waldviertel habe ich neben dem [Semmelporling](/pilze/albatrellus-confluens-semmelporling) auch mehrere Gruppen Schafporlinge (*Albatrellus ovinus*) gefunden. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") kommt vor allem in Fichtenwäldern vor, nicht selten in Gemeinschaft mit dem Semmelporling. Beide sind essbar, vor allem der Schafporling gilt als exzellenter Speisepilze. In Deutschland gelten alle *Albatrellus*-Arten in den meisten Bundesländern als stark gefährdet oder verschollen. (Werner Bauer) [Mehr lesen >](/pilze/albatrellus-ovinus-schafporling)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/macrolepiota_procera_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.09.2026: Mein aktueller [Fundkorbpilz](AA "Glossar-"), der Große Riesenschirmling oder Parasol (*Macrolepiota procera*), macht seinem Namen alle Ehre. Seine Hüte können 30 cm Durchmesser erreichen. Mein erster Fund des Jahres bei Waldacker im Landkreis Offenbach war noch jung und sehr viel kleiner und durfte deshalb stehen bleiben. Ich werde ihn im Auge behalten, und dann landet er in ein paar Tagen vielleicht doch noch als gebratenes Schnitzel auf meinem Teller. (Inga Illig) [Mehr lesen >](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pluteus_salicinus_06_hs.jpg" %}
-{% include abbildung_ende.html %}
 
 - - -
 
