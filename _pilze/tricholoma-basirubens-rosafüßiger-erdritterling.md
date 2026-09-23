@@ -54,7 +54,7 @@ Verwandtschaftliche Beziehungen:\
 *Tricholoma basirubens* gehört zur Sektion *Atrosquamosa*, deren Mitglieder sich durch folgende Eigenschaften charakterisieren lassen: Hut grau bis nahezu schwarz, dicht schuppig; Fleisch im Schnitt entweder nach Mehl (geschnittene Gurke) oder wie gemahlener schwarzer Pfeffer (geschnittenes Haselwurz-Rhizom) riechend.
 Die Sektion gliedert sich in folgende fünf Arten: *Tricholoma atrosquamosum, Tricholoma basirubens, Tricholoma olivaceotinctum, [Tricholoma orirubens](/pilze/tricholoma-orirubens-rötender-erdritterling)* und *Tricholoma squarrulosum*. Die DNA-Analyse ergibt das folgende Phylogramm:
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/tricholoma_basirubens_05_xx.jpg" %}
 {% include abbildung_ende.html legende="Phylogenetischer Baum der Sektion Atrosquamosa" %}
 
