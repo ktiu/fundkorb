@@ -32,7 +32,7 @@ In der Roten Liste der  Großpilze Deutschlands (2016) findet man ihn unter *Tri
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tricholoma_basirubens_02_ag.jpg" %}
-{% include abbildung_ende.html legende="Einzelner Fruchtkörper mit rosa gefleckter Stielbasis (Foto: Andreas Gmbinder)" %}
+{% include abbildung_ende.html legende="Einzelner Fruchtkörper mit rosa gefleckter Stielbasis (Foto: Andreas Gminder)" %}
 
 Merkmalbeschreibung z.T. in Anlehnung an CHRISTENSEN et al. 2013
 
