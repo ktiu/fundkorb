@@ -24,6 +24,14 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hydnum_repandum_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.09.2026: Das Waldviertel in Niederösterreich ist zur Zeit eine verlässliche Quelle für aktuelle [Fundkorbpilze](AA "Glossar-"). Heue ist es der Semmelstoppelpilz *Hydnum repandum*. Oberflächlich betrachtet könnte man ihn für einen Pfifferling halten. Ein Blick auf die Unterseite genügt, um den Irrtum zu erkennen. Wo der Pfifferling lamellenähnliche Leisten hat, befinden sich hier engstehende Stoppeln. Erfahrene Sammler wissen: auch er ist essbar. (Werner Bauer) [Mehr lesen >](/pilze/hydnum-repandum-semmelstoppelpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_muscaria_09_gg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,14 +76,6 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 {% include abbildung_ende.html %}
 
 19.09.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Flaumige Dachpilz *Pluteus ephebeus*, den ich vor Kurzem an einem Waldwegrand bei Heusenstamm im Rhein-Main-Gebiet gefunden habe. Dachpilze sind nicht leicht und oft nur unter Berücksichtigung mikroskopischer Merkmale sicher zu bestimmen, wobei es vor allem um die Huthautstruktur (parallel liegende Hyphen) und Zystiden (ohne apikale Haken) geht. Beide Merkmale sind überprüft worden. (Adam Adamowicz) [Mehr lesen >](/pilze/pluteus-ephebeus-flaumiger-dachpilz) 
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/albatrellus_ovinus_-02_wb.jpeg" %}
-{% include abbildung_ende.html %}
-
-18.09.2026: In meinem Sammelgebiet im niederösterreichischen Waldviertel habe ich neben dem [Semmelporling](/pilze/albatrellus-confluens-semmelporling) auch mehrere Gruppen Schafporlinge (*Albatrellus ovinus*) gefunden. Dieser aktuelle [Fundkorbpilz](AA "Glossar-") kommt vor allem in Fichtenwäldern vor, nicht selten in Gemeinschaft mit dem Semmelporling. Beide sind essbar, vor allem der Schafporling gilt als exzellenter Speisepilze. In Deutschland gelten alle *Albatrellus*-Arten in den meisten Bundesländern als stark gefährdet oder verschollen. (Werner Bauer) [Mehr lesen >](/pilze/albatrellus-ovinus-schafporling)
 
 <div style="clear:  both"></div>
 
