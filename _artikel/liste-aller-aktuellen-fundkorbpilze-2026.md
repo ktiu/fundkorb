@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-24.09.2026: [Amanita muscaria - Fliegenpilz](/pilze/amanita-muscaria-fliegenpilz)  
+25.09.2026: [Hydnum repandum - Semmelstoppelpilz](/pilze/hydnum-repandum-semmelstoppelpilz)  
+24.09.2026: [Amanita muscaria - Fliegenpilz](/pilze/amanita-muscaria-fliegenpilz)\
 23.09.2026: [Russula xerampelina - Roter Heringstäubling](/pilze/russula-xerampelina-roter-heringstäubling)\
 22.09.2026: [Rhodocollybia butyracea - Butter-Rübling](/pilze/rhodocollybia-butyracea-butter-rübling)\
 21.09.2026: [Pleurotus pulmonarius - Lungenseitling](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)\
