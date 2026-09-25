@@ -24,6 +24,14 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leucoagaricus_americanus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.09.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelige Egerlingsschirmling *Leucoagaricus americanus.* Er wuchs in unserer Dietzenbacher Parkanlage unter dichtem Gestrüpp und wäre beinahe übersehen worden. Man achte auf das wunderschöne Muster, das die Schüppchen auf der Hutoberseite vor allem zum Rand hin zeigen. Am besten vergrößert anschauen (einfach aufs Bild klicken). Man könnte den Pilz oberflächlich für einen Riesenschirmling halten, er ist aber kein Speisepilz sondern giftverdächtig. (Dieter Gewalt) [Mehr lesen >](/pilze/leucoagaricus-americanus-büscheliger-egerlingsschirmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hydnum_repandum_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,14 +76,6 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 {% include abbildung_ende.html %}
 
 20.09.2026: [Schwindlinge (Marasmiaceae)](/verwandt/schwindlinge) gehören nicht zu den Pilzen, die Speisepilzsammler im Fokus haben. Dabei wäre der Nelkenschwindling *Marasmius oreades* durchaus für die Küche zu empfehlen, auch wenn an einem Exemplar unseres aktuellen [Fundkorbpilzes](AA "Glossar-") nicht viel dran ist. Er geicht es mit einem oft massenhaften Vorkommen auf Grasflächen aus, auf denen er gern in ergiebigen Hexenringen erscheint. Bevor wir ihn in der Küche ausprobieren, sollte man sicher sein, ihn korrekt identifiziert zu haben. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pluteus_ephebeus_01_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-19.09.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Flaumige Dachpilz *Pluteus ephebeus*, den ich vor Kurzem an einem Waldwegrand bei Heusenstamm im Rhein-Main-Gebiet gefunden habe. Dachpilze sind nicht leicht und oft nur unter Berücksichtigung mikroskopischer Merkmale sicher zu bestimmen, wobei es vor allem um die Huthautstruktur (parallel liegende Hyphen) und Zystiden (ohne apikale Haken) geht. Beide Merkmale sind überprüft worden. (Adam Adamowicz) [Mehr lesen >](/pilze/pluteus-ephebeus-flaumiger-dachpilz) 
 
 <div style="clear:  both"></div>
 
