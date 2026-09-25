@@ -11,7 +11,7 @@ footer_scripts:
  {% include pilzsuche.html %} 
 
 **Neuer Exkursionstermin:**\
-Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger - [hier geht's zur Anmeldung >](/termine)  
+Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger - **Dieser Termin ist ausgebucht**  
 
 **Neu im Fundkorb:**
 
