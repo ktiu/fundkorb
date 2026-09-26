@@ -24,6 +24,14 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_edulis_02_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+27.09.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Steinpilz *Boletus edulis*, eine von vier Steinpilzarten, die von den meisten Sammlern nicht unterschieden werden. Egal, um welche es sich handelt: sie sind alle essbar und wohlschmeckend. Bei vergammelten Exemplaren besteht akute Gefahr, sich den Magen zu verderben und selbst ernsthafte Vergiftungen sind nicht auszuschließen. Mein Rat: bevor man einen Steinpilz (oder anderen Röhrling) abschneidet: mal mit dem Finger auf seine Oberfläche drücken. Wenn man ohne großen Kraftaufwand eine Delle in den Pilzhut drücken kann: besser stehen lassen! Oder anders formuliert: Stellt beim Sammeln von Pilzen die gleichen Ansprüche, die ihr beim Kauf von Obst und Gemüse im Supermarkt stellen würdet! (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-edulis-gemeiner-steinpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leucoagaricus_americanus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,14 +76,6 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 {% include abbildung_ende.html %}
 
 21.09.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Lungenseitling *Pleurotus pulmonarius*, ist der klassische Doppelgänger des bekannteren [Austernseitlings Pleurotus ostreatus](/pilze/pleurotus-ostreatus-austernseitling), dessen Wachstumsperiode längst nicht mehr von einem „Kälteschock“ abhängig ist. Auch von „Periode“ ist nicht mehr die Rede. Er ist inzwischen ganzjährig zu finden. Hellere Austernseitlinge sind farblich kaum von etwas dunkler geratenen Lungenseitlingen zu unterscheiden. Für die Küche ist das ohne Belang, denn beide sind gute Speisepilze von gleicher Wertigkeit. (Ulrike Wegner) [Mehr lesen >](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_oreades_03_dg.png" %}
-{% include abbildung_ende.html %}
-
-20.09.2026: [Schwindlinge (Marasmiaceae)](/verwandt/schwindlinge) gehören nicht zu den Pilzen, die Speisepilzsammler im Fokus haben. Dabei wäre der Nelkenschwindling *Marasmius oreades* durchaus für die Küche zu empfehlen, auch wenn an einem Exemplar unseres aktuellen [Fundkorbpilzes](AA "Glossar-") nicht viel dran ist. Er geicht es mit einem oft massenhaften Vorkommen auf Grasflächen aus, auf denen er gern in ergiebigen Hexenringen erscheint. Bevor wir ihn in der Küche ausprobieren, sollte man sicher sein, ihn korrekt identifiziert zu haben. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-oreades-nelkenschwindling)
 
 <div style="clear:  both"></div>
 
