@@ -20,7 +20,7 @@ literatur:
   - text: "Thomas Læssøe, Jens H. Petersen: Fungi of Temperate Europe, Volume 2,
       1149"
 ---
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/ramaria_ignicolor_01_aeh.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/ramaria_ignicolor_02_aeh.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="2 Fotos von Alois Ehret" %}
