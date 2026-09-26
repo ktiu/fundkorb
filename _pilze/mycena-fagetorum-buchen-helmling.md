@@ -17,6 +17,10 @@ literatur:
       3, Seite 445"
   - text: "Rudolf Winkler / Gaby Keller: Pilze Mitteleuropas, Seite 347 (5.20.42)"
 ---
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/mycena_fagetorum_01_md.jpg" %}
+{% include abbildung_ende.html legende="Alle Fotos von Matthias Dondl" %}
+
 Gefunden wurde diese nur lückig in Deutschland verbreitete Art im Alpenvorland bei Taubenberg (Landkreis Miesbach) unter Buchen und Fichten. Hunderte Fruchtkörper wuchsen hier in der Laub- und Nadelstreu, die meisten auf Buchenblättern. Leider wird der Buchenhelmling in der gängigen Literatur kaum erwähnt und Informationen sind oft widersprüchlich. An der Schönheit der Helmlinge kann man sich erfreuen, ihre Bestimmung kann sich mitunter schwierig gestalten.
 
 {% include abbildung_start.html stil="mittel" %}
