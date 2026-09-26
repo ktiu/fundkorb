@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-26.09.2026: [Leucoagaricus americanus - Büscheliger Egerlingsschirmling](/pilze/leucoagaricus-americanus-büscheliger-egerlingsschirmling)  
+27.09.2026: [Boletus edulis - Gemeiner Steinpilz](/pilze/boletus-edulis-gemeiner-steinpilz)  
+26.09.2026: [Leucoagaricus americanus - Büscheliger Egerlingsschirmling](/pilze/leucoagaricus-americanus-büscheliger-egerlingsschirmling)\
 25.09.2026: [Hydnum repandum - Semmelstoppelpilz](/pilze/hydnum-repandum-semmelstoppelpilz)\
 24.09.2026: [Amanita muscaria - Fliegenpilz](/pilze/amanita-muscaria-fliegenpilz)\
 23.09.2026: [Russula xerampelina - Roter Heringstäubling](/pilze/russula-xerampelina-roter-heringstäubling)\
