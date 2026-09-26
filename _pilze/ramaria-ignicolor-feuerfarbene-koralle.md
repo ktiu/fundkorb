@@ -20,7 +20,7 @@ literatur:
   - text: "Thomas Læssøe, Jens H. Petersen: Fungi of Temperate Europe, Volume 2,
       1149"
 ---
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/ramaria_ignicolor_01_aeh.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/ramaria_ignicolor_02_aeh.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="2 Fotos von Alois Ehret" %}
@@ -29,8 +29,8 @@ Die Fruchtkörper der Feuerfarbenen Koralle (*Ramaria ignicolor*) sind nicht gro
 
 Die Fruchtkörper werden in der Beschreibung von Josef Christan bis zu 11 cm hoch und 6 cm breit. Der Strunk ist büschelig verwachsen, unten weiß, weiter oben rosalich creme bis blass lachsfarben. Die Äste sind mehrfach verzweigt und deutlich aufwärtsstrebend, ihre Oberfläche glatt, die Astgabelungen spitz oder eng gerundet, die Astenden in Form eines Krönchens ausspitzend. Die Astfarben sind leuchtend rosalich lachsfarben, die Astenden gelblich. Das Fleisch ist anfangs elastisch, später spröde, faserig, gelatinös, rosalich, hell orange bis blass lachsorange, anfangs in den Ästen voll, später hohl. Der Geschmack des Fleisches ist mild, etwas säuerlich, der Geruch schwach, leicht säuerlich.
 
-Mikroskopische Merkmale:  
+Mikroskopische Merkmale:\
 Die Sporen sind breit ellipsoid bis fast kugelig und besitzen eine fast glatte Oberfläche mit einem sehr flachen, unregelmäßig warzig-wulstigem Ornament. Die Maße sind im Mittel 6,8 - 8,5 x 4,7 - 5,7 µm (QM = 1,3 - 1,6), Hyphen ohne Schnallen.
 
-Verwechslungsmöglichkeiten:  
+Verwechslungsmöglichkeiten:\
 Achtet man auf den büschelig verwachsenen Strunk und die leuchtend rosalich lachsfarbenen Äste mit gelben Enden und die fast kugeligen Sporen, dann sind Verwechslungen mit anderen Arten der Gattung nahezu ausgeschlossen.
