@@ -10,9 +10,6 @@ footer_scripts:
 ---
  {% include pilzsuche.html %} 
 
-**Neuer Exkursionstermin:**\
-Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger - **Dieser Termin ist ausgebucht**  
-
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
@@ -22,6 +19,14 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 {% include abbildung_ende.html legende="Agaricus urinascens--------------- Psilocybe crobulus ---------------- Mehltau an Bärenklau" %}
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitocybe_gibba_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.09.2026: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Ockerbraune Trichterling *Clitocybe gibba*, ist recht häufig und kommt gerne gesellig an Wegrändern in Laub- oder Mischwäldern vor. Zu erkennen ist der essbare Pilz vor allem an seinem namengebenden Buckel (*gibba*) im ockerbraunen Trichter. Ein weiteres typisches Erkennungsmerkmal ist sein Bittermandelgeruch, das von der Blausäure (*Cyanid*) herrührt, der sich jedoch - wie bei grünen Bohnen auch - beim Kochen schnell verflüchtigt. (Ulrike Wegner) [Mehr lesen >](/pilze/clitocybe-gibba-ockerbrauner-trichterling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_edulis_02_dg.jpeg" %}
@@ -68,14 +73,6 @@ Sonntag, 27. September 2026, 10:00 Uhr: Pilzkundliche Führung für Einsteiger -
 {% include abbildung_ende.html %}
 
 22.09.2026: Trotz anhaltender Trockenheit glänzt der Butter-Rübling *Rhodocollybia butyracea* wie mit Fett eingerieben und ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Sein Stiel fühlt sich an wie ein platter Fahrradschlauch. Das finden auch Teilnehmer an Führungen, wenn sie ihn zwischen den Fingern haben. Essen könnte man ihn auch, aber wenn man ihn nicht isst, hat man nichts versäumt. (Dieter Gewalt) [Mehr lesen >](/pilze/rhodocollybia-butyracea-butter-rübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pleurotus_pulmoniarius_04_uw.jpg" %}
-{% include abbildung_ende.html %}
-
-21.09.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Lungenseitling *Pleurotus pulmonarius*, ist der klassische Doppelgänger des bekannteren [Austernseitlings Pleurotus ostreatus](/pilze/pleurotus-ostreatus-austernseitling), dessen Wachstumsperiode längst nicht mehr von einem „Kälteschock“ abhängig ist. Auch von „Periode“ ist nicht mehr die Rede. Er ist inzwischen ganzjährig zu finden. Hellere Austernseitlinge sind farblich kaum von etwas dunkler geratenen Lungenseitlingen zu unterscheiden. Für die Küche ist das ohne Belang, denn beide sind gute Speisepilze von gleicher Wertigkeit. (Ulrike Wegner) [Mehr lesen >](/pilze/pleurotus-pulmonarius-lungenseitling-löffelseitling)
 
 <div style="clear:  both"></div>
 
