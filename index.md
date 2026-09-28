@@ -21,6 +21,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_mustelina_02_gs.jpg" %}
+{% include abbildung_ende.html %}
+
+29.09.2026: Wieder meldet sich Niederösterreich mit einem aktuellen [Fundkorbpilz](AA "Glossar-"), der in der Rhein-Main-Ebene eine echte Rarität ist. Der Wieseltäubling *Russula mustelina*, der als Fichtenbegleiter vor allem in Mittelgebirgslagen zu finden ist, gilt als ausgezeichneter Speisepilz und ist natürlich in meiner Pfanne gelandet. Mit Hutdurchmessern bis zu 15 cm gehört er zu den großen festfleischigen Täublingsarten. (Werner Bauer) [Mehr lesen >](/pilze/russula-mustelina-wiesel-täubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitocybe_gibba_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -65,14 +73,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 23.09.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt heute wieder aus dem Waldviertel in Niederösterreich. Es ist der Rote Heringstäubling *Russula xerampelina*. Heringstäublinge bilden eine Sektion innerhalb der Gattung, die alle nach Heringslake (fischartig) riechen und gute Speisepilze sind. Unsere Art ist durch die kräftig rote Farbe und Vorkommen bei Nadelbäumen gekennzeichnet. (Werner Bauer) [Mehr lesen >](/pilze/russula-xerampelina-roter-heringstäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/rhodocollybia_butyracea_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.09.2026: Trotz anhaltender Trockenheit glänzt der Butter-Rübling *Rhodocollybia butyracea* wie mit Fett eingerieben und ist heute unser aktueller [Fundkorbpilz](AA "Glossar-"). Sein Stiel fühlt sich an wie ein platter Fahrradschlauch. Das finden auch Teilnehmer an Führungen, wenn sie ihn zwischen den Fingern haben. Essen könnte man ihn auch, aber wenn man ihn nicht isst, hat man nichts versäumt. (Dieter Gewalt) [Mehr lesen >](/pilze/rhodocollybia-butyracea-butter-rübling)
 
 <div style="clear:  both"></div>
 
