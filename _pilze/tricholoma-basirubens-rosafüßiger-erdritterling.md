@@ -23,6 +23,9 @@ literatur:
   - text: "A. Riva: Tricholoma (Fr.) Staude, Fungi Europei, Vol. 3, Nr. 23"
   - text: "Rudolf Winkler / Gaby Keller: Pilze Mitteleuropas, Seite 243 (5.1.62)"
 ---
+**Vorwort:**\
+Unsere Pilzporträts richten sich an alle, die Interesse an Pilzen und am Sammeln haben und sind deshalb allgemeinverständlich formuliert. Die Mykologie befasst sich allerdings auch mit wissenschaftlicher Erforschung und Klärung komplizierterer Zusammenhänge, die für den Amateur nicht immer verständlich und auch nicht von praktischem Nutzen sind. **Solche Fundkorb-Beiträge sind mit diesem Vorwort gekennzeichnet.**
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/tricholoma_basirubens_01_ag.jpg" %}
 {% include abbildung_ende.html legende="Wärmebegünstigter Wuchsort in Thürigen, Martinroda, NSG Veronikaberg (Foto: Andreas Gminder)" %}
@@ -44,7 +47,7 @@ Makroskopische Merkmale:\
 {% include abbildung_ende.html legende="Wärmebegünstigter Wuchsort im Walddistrikt „Weinsümpfle“ bei Dottenweiler, Baden-Württemberg -- Schwache Rotfleckung an der Stielbasis sichtbar. (Foto: Alexander Reichert)" %}
 
 Mikroskopische Merkmale:\
-Sporen breit ellipsoid, glatt; geschätzter Mittelwert LM x BM 5,5 - 6,5 x 3,9 - 5,2 µm, QM 1,26 - 1,52.
+**Sporen** breit ellipsoid, dünnwandig, glatt. Populationsgrenzen: LPG x BPG = 4.6 - 7.6 x 3.2 - 6.0 µm, QPG = 1.0 - 1.8. Mittelwerte: LMW x BMW = 5,5 - 6,5 x 3,9 - 5,2 µm, QMW = 1,26 - 1,52.
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tricholoma_basirubens_04_us.jpg" %}
@@ -61,6 +64,7 @@ Die Sektion gliedert sich in folgende fünf Arten: *Tricholoma atrosquamosum, Tr
 Um den Grad der Verwandtschaft zwischen zwei beliebigen Arten aus obiger Grafik zu ermitteln, addiere man die Längen der waagerechten Äste auf ihrem direkten Weg von der einen zur anderen Art. Je kürzer der Summenwert, desto stärker verwandt sind die Arten miteinander und umgekehrt.
 
 Abgrenzungen:\
-Rosafüßiger Erdritterling *Tricholoma basirubens*: Geruch nach Mehl; Stielbasis grell rosa fleckend; Basalmyzel weiß; Sporen LM x BM 5,5 - 6,5 x 3,9 - 5,2 µm, QM 1,26 - 1,52.
-*[Rötender Erdritterling Tricholoma orirubens](/pilze/tricholoma-orirubens-rötender-erdritterling)*: Geruch nach Mehl; Stielbasis blaugrün fleckend; Basismyzel gelb; Sporen kleiner als die von T. basirubens: LM x BM 4,6 - 5,6 x 3,7 - 4,5 µm, QM 1,22 - 1,43.
-Schwarzschuppiger Erdritterling *Tricholoma atrosquamosum*: Geruch pfeffrig; Stielbasis ungefleckt; Basalmyzel weiß; Sporen schmaler als die von T. basirubens: LM x BM 5,0 - 5,8 x 3,5 - 4,1 µm, QM 1,33 - 1,65.
+Die Mittelwerte von Länge, Breite und Schlankheitsgrad LMW, BMW, QMW lassen sich zur Artabgrenzung oft besser verwenden als die Populationsgrenzen LPG, BPG, QPG. Dies kommt z.B. auch bei der nachfolgenden Gegenüberstellung zum Tragen, bei der sich die Populationsgrenzen überschneiden würden, so dass eine saubere Abgrenzung auf Grund der Populationsgrenzen der Sporenmaße nicht möglich wäre.
+Rosafüßiger Erdritterling *Tricholoma basirubens*: Geruch nach Mehl; Stielbasis grell rosa fleckend; Basalmyzel weiß; Sporen LMW x BMW 5,5 - 6,5 x 3,9 - 5,2 µm, QMW 1,26 - 1,52.
+*[Rötender Erdritterling Tricholoma orirubens](/pilze/tricholoma-orirubens-rötender-erdritterling)*: Geruch nach Mehl; Stielbasis blaugrün fleckend; Basismyzel gelb; Sporen kleiner als die von T. basirubens: LMW x BMW 4,6 - 5,6 x 3,7 - 4,5 µm, QMW 1,22 - 1,43.
+Schwarzschuppiger Erdritterling *Tricholoma atrosquamosum*: Geruch pfeffrig; Stielbasis ungefleckt; Basalmyzel weiß; Sporen schmaler als die von T. basirubens: LMW x BMW 5,0 - 5,8 x 3,5 - 4,1 µm, QMW 1,33 - 1,65.
