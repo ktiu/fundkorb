@@ -20,6 +20,10 @@ footer_scripts:
 
 **Aktueller Fundkorbpilz:**
 
+
+
+30.09.2026: Es ist total ungewöhnlich, nur ein einziges Exemplar des üblicherweise in Scharen erscheinenden Violetten Lacktrichterlings Laccaria laccata zu finden. Das Myzel unseres aktuellen [Fundkorbpilzes](AA "Glossar-") hat sich offenbar dem ausgetrockneten Boden angepasst und das bisschen verfügbare Feuchtigkeit nur an eine einzige Stelle seines weiträumigen Fadengeflechts geleitet, um wenigstens einen Fruchtkörper hervorbringen zu können. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_mustelina_02_gs.jpg" %}
 {% include abbildung_ende.html %}
@@ -65,14 +69,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 24.09.2026: Glückssymbol, Giftpilz oder *„Magic mushroom“*? Der Fliegenpilz *Amanita muscaria* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Ich fand das erste Exemplar in diesem Jahr mit seinen typischen weißen Velumresten auf dem roten Hut in einem Birkenwäldchen. Zumindest den Schnecken hat er schon geschmeckt. Ich kann nur hoffen, dass er tatsächlich Glück bringt und das Wachstum von Speisepilzen wie Steinpilz und Co. ankündigt und doch noch eine gute Pilzsaison für den Herbst einläutet. Das allein wäre mir nach dem trockenen und pilzarmen Sommer Rausch genug (Ulrike Wegner) [Mehr lesen >](/pilze/amanita-muscaria-fliegenpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_xerampelina_02_bm.jpg" %}
-{% include abbildung_ende.html %}
-
-23.09.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") kommt heute wieder aus dem Waldviertel in Niederösterreich. Es ist der Rote Heringstäubling *Russula xerampelina*. Heringstäublinge bilden eine Sektion innerhalb der Gattung, die alle nach Heringslake (fischartig) riechen und gute Speisepilze sind. Unsere Art ist durch die kräftig rote Farbe und Vorkommen bei Nadelbäumen gekennzeichnet. (Werner Bauer) [Mehr lesen >](/pilze/russula-xerampelina-roter-heringstäubling)
 
 <div style="clear:  both"></div>
 
