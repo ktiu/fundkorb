@@ -20,9 +20,13 @@ footer_scripts:
 
 **Aktueller Fundkorbpilz:**
 
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/laccaria_amethystina_04_dg.jpg" %}
+{% include abbildung_ende.html %}
 
+30.09.2026: Es ist total ungewöhnlich, nur ein einziges Exemplar des üblicherweise in Scharen erscheinenden Violetten Lacktrichterlings *Laccaria amethystina* zu finden. Das [Myzel](Myzel "Glossar") unseres aktuellen [Fundkorbpilzes](AA "Glossar-") hat sich offenbar dem ausgetrockneten Boden angepasst und das bisschen verfügbare Feuchtigkeit nur an eine einzige Stelle seines weiträumigen Fadengeflechts geleitet, um wenigstens **einen** Fruchtkörper hervorbringen zu können. (Dieter Gewalt) [Mehr lesen >](/pilze/laccaria-amethystina-violetter-lacktrichterling)
 
-30.09.2026: Es ist total ungewöhnlich, nur ein einziges Exemplar des üblicherweise in Scharen erscheinenden Violetten Lacktrichterlings Laccaria laccata zu finden. Das Myzel unseres aktuellen [Fundkorbpilzes](AA "Glossar-") hat sich offenbar dem ausgetrockneten Boden angepasst und das bisschen verfügbare Feuchtigkeit nur an eine einzige Stelle seines weiträumigen Fadengeflechts geleitet, um wenigstens einen Fruchtkörper hervorbringen zu können. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_mustelina_02_gs.jpg" %}
