@@ -13,10 +13,10 @@ footer_scripts:
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/agaricus_urinascens_01_bm.jpg" %}
-{% include bild.html datei="/bilder/psilocybe_crobulus_02_md.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/erysiphe_heraclei_03_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Agaricus urinascens--------------- Psilocybe crobulus ---------------- Mehltau an Bärenklau" %}
+{% include bild.html datei="/bilder/tricholoma_basirubens_03_ar.jpg" %}
+{% include bild.html datei="/bilder/mycena_fagetorum_01_md.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/ramaria_ignicolor_01_aeh.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Tricholoma basirubens--------------- Mycena fagetorum---------------- Ramaria ignicola" %}
 
 **Aktueller Fundkorbpilz:**
 
