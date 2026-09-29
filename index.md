@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/tricholoma_basirubens_03_ar.jpg" %}
 {% include bild.html datei="/bilder/mycena_fagetorum_01_md.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/ramaria_ignicolor_01_aeh.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Tricholoma basirubens--------------- Mycena fagetorum---------------- Ramaria ignicola" %}
+{% include abbildung_ende.html legende="Tricholoma basirubens------------------ Mycena fagetorum-------------------- Ramaria ignicola" %}
 
 **Aktueller Fundkorbpilz:**
 
