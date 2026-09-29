@@ -27,4 +27,4 @@ Der Pilz scheint eine Art zu sein, die gern spät im Jahr erscheint, etwa Septem
 {% include bild.html datei="/bilder/chrysomphalina_grossula_04_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Verwechselt werden könnte er mit dem [Geselligen Glöckchennabeling *Xeromphalina campanella*](/pilze/xeromphalina-campanella-geselliger-glöckchennabeling).
+Verwechselt werden könnte er u. a. mit dem [Geselligen Glöckchennabeling *Xeromphalina campanella*](/pilze/xeromphalina-campanella-geselliger-glöckchennabeling), dem [Olivgelben Goldnabeling Chrysomphalina grossula](/pilze/chrysomphalina-grossula-olivgelber-goldnabeling) und dem [Gelbblättrigen Nabeling Chrysomphalina strombodes](/pilze/chrysomphalina-strombodes-gelblättriger-nabeling).
