@@ -41,7 +41,7 @@ Basidien viersporig, schlank keulig, 22 - 40 x 5 - 7 µm; Sporen elliptisch, gla
 
 *Chrysomphalina strombodes* ist eine seltene auf morschem oder vergrabenem Nadelholz fruktifizierende Art, die vom Frühsommer bis etwa September zu finden ist. Verwechselt werden könnte sie mit dem [Olivgelben Goldnabeling Chrysomphalina grossula](/pilze/chrysomphalina-grossula-olivgelber-goldnabeling) oder dem [Geselligen Glöckchennabeling Xeromphalina campanella](/pilze/xeromphalina-campanella-geselliger-glöckchennabeling).
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- - -
 
 #### Anhang zum abgebildeten Fund von Mathias Dondl
 
