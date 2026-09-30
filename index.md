@@ -21,6 +21,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_helvus_02_dg.jpg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+01.10.2026: Unser heutiger aktueller [Fundkorbpilze](AA "Glossar-") *Lactarius helvus* ist unter drei deutschen Namen bekannt: Bruch-Reizker, Maggipilz und Filziger Milchling. Sie weisen alle auf drei seiner markantesten Eigenschaften hin: seine brüchige Konsistenz, den Geruch nach Liebstöckel oder Maggi sowie die filzige Hutoberfläche. Gefunden habe ich ihn wieder in meinem Waldviertel in Niederösterreich. Da er sogenannte *Terpene* enthält, die Magen-/Darmbeschwerden verursachen können, kommt er für Speisezwecke nicht in Frage. (Werner Bauer) *[Mehr lesen >](/pilze/lactarius-helvus-bruch-reizker-maggipilz)*
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/laccaria_amethystina_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -65,14 +73,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 25.09.2026: Das Waldviertel in Niederösterreich ist zur Zeit eine verlässliche Quelle für aktuelle [Fundkorbpilze](AA "Glossar-"). Heue ist es der Semmelstoppelpilz *Hydnum repandum*. Oberflächlich betrachtet könnte man ihn für einen Pfifferling halten. Ein Blick auf die Unterseite genügt, um den Irrtum zu erkennen. Wo der Pfifferling lamellenähnliche Leisten hat, befinden sich hier engstehende Stoppeln. Erfahrene Sammler wissen: auch er ist essbar. (Werner Bauer) [Mehr lesen >](/pilze/hydnum-repandum-semmelstoppelpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_muscaria_09_gg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.09.2026: Glückssymbol, Giftpilz oder *„Magic mushroom“*? Der Fliegenpilz *Amanita muscaria* ist unser aktueller [Fundkorbpilz](AA "Glossar-"). Ich fand das erste Exemplar in diesem Jahr mit seinen typischen weißen Velumresten auf dem roten Hut in einem Birkenwäldchen. Zumindest den Schnecken hat er schon geschmeckt. Ich kann nur hoffen, dass er tatsächlich Glück bringt und das Wachstum von Speisepilzen wie Steinpilz und Co. ankündigt und doch noch eine gute Pilzsaison für den Herbst einläutet. Das allein wäre mir nach dem trockenen und pilzarmen Sommer Rausch genug (Ulrike Wegner) [Mehr lesen >](/pilze/amanita-muscaria-fliegenpilz)
 
 <div style="clear:  both"></div>
 
