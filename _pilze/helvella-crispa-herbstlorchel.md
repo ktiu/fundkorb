@@ -25,7 +25,8 @@ Auf einem weißen, längs gerippten, vielfach gefurchten oder gekammerten Stiel 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/helvella_crispa_03_dg.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/helvella_crispa_05_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Die Herbstlorchel fällt oft durch abenteuerliche Gestalten auf" %}
+{% include bild.html datei="/bilder/helvella_crispa_07_uw.png" nocrop=true %}
+{% include abbildung_ende.html legende="Die Herbstlorchel fällt oft durch abenteuerliche Gestalten auf (Foto rechts von Ulrike Wegner)" %}
 
 Die Herbstlorchel ist in unseren Wäldern ein typischer Wegrandpilz, weit verbreitet und wohl nirgendwo selten. Man findet sie ab Spätsommer bis zu den ersten Frösten. Ähnlich geformte Fruchtkörper bildet die kleinere ebenfalls recht häufige [Grubenlorchel (Helvella lacunosa)](/pilze/helvella-lacunosa-grubenlorchel),  die aber grau bis schwarz gefärbt ist und ebenfalls gern an Wegrändern wächst. Die unter dem Namen Lorchel bekannten Arten (nicht mit Morcheln zu verwechseln!), stehen in den Gattungen Gyromitra und Helvella. 
 
