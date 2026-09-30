@@ -3,7 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-30.08.2026: [Laccaria amethystina - Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)  
+01.09.2026: [Lactarius helvus - Bruch-Reizker, Maggipilz](/pilze/lactarius-helvus-bruch-reizker-maggipilz)
+
+30.08.2026: [Laccaria amethystina - Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)\
 29.08.2026: [Russula mustelina - Wieseltäubling](/pilze/russula-mustelina-wiesel-täubling)\
 28.09.2026: [Clitocybe gibba - Ockerbrauner Trichterling](/pilze/clitocybe-gibba-ockerbrauner-trichterling)\
 27.09.2026: [Boletus edulis - Gemeiner Steinpilz](/pilze/boletus-edulis-gemeiner-steinpilz)\
