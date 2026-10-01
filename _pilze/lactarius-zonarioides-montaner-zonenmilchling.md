@@ -20,6 +20,8 @@ literatur:
 ---
 **Vorwort:** Unsere Pilzporträts richten sich an alle, die Interesse an Pilzen und am Sammeln haben und sind deshalb allgemeinverständlich formuliert. Die Mykologie befasst sich allerdings auch mit wissenschaftlicher Erforschung und Klärung komplizierterer Zusammenhänge, die für den Amateur nicht immer verständlich und auch nicht von praktischem Nutzen sind. **Solche Fundkorb-Beiträge sind mit diesem Vorwort gekennzeichnet.**
 
+Im Folgenden wird der Fund einer kleinsporigen Population des Nadelwald-Zonenmilchlings (*Lactarius zonarioides*) beschrieben.
+
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/lactarius_zonarioides_01_pr.jpg" %}
 {% include abbildung_ende.html legende="Fruchtkörper mit typisch rosa Farbeinschlag (Foto: Peter Reil)" %}
