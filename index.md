@@ -21,6 +21,12 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/chalciporus_piperatus_km_1.jpg" %}
+{% include abbildung_ende.html %}
+
+02.10.2026: Ebenfalls im niederösterreichischen Waldviertel wurde der Pfefferröhrling Chalciporus piperatus gefunden. Dieser aktuelle [Fundkorbpilze](AA "Glossar-") ist aufgrund seiner Merkmale leicht zu identifizieren. Für einen Röhrling ist er ungewöhnlich klein und zierlich. Die Röhren und Poren haben eine rost¬orange bis zimtbraune Farbe und sein pfeffrig scharfer Geschmack ist ein Alleinstellungsmerkmal unter europäischen Röhrlingen. (Werner Bauer) [Mehr lesen >](/pilze/chalciporus-piperatus-pfeffer-röhrling) 
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_helvus_02_dg.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
