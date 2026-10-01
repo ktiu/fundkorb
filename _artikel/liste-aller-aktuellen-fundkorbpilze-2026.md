@@ -3,6 +3,7 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
+02.09.2026: [Chalciporus piperatus - Pfeffer-Röhrling](/pilze/chalciporus-piperatus-pfeffer-röhrling)  
 01.09.2026: [Lactarius helvus - Bruch-Reizker, Maggipilz](/pilze/lactarius-helvus-bruch-reizker-maggipilz)
 
 30.08.2026: [Laccaria amethystina - Violetter Lacktrichterling](/pilze/laccaria-amethystina-violetter-lacktrichterling)\
