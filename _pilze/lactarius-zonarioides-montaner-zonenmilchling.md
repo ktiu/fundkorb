@@ -40,7 +40,7 @@ Alljährlich findet sich in einem feuchten Kalk-Bergnadelwald bei Dottenweiler i
 
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/lactarius_zonarioides_04_bm.png" %}
-{% include abbildung_ende.html legende="Gekräuselte (linls) und stark untermischte Lamellen am Hutrand (rechts) -- 2 Fotos von Bernd Miggel" %}
+{% include abbildung_ende.html legende="Gekräuselte (links) und stark untermischte Lamellen am Hutrand (rechts) -- 2 Fotos von Bernd Miggel" %}
 
 **Hymenialzystiden (nach Peter Reil):**\
 Zystiden SV-positiv, spindelförmig, schmal, oft verbogen, nach oben zugespitzt, oft mit ein oder zwei aufgesetzten Köpfchen, Pleurozystiden sehr zahlreich, 38 - 53 x 5 - 7,5 µm, Makrozystiden vorhanden, besonders am Lamellengrund, 72 - 91 x 5 - 7,5 µm.
