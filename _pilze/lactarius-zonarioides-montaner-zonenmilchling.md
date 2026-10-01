@@ -50,7 +50,39 @@ Zystiden SV-positiv, spindelförmig, schmal, oft verbogen, nach oben zugespitzt,
 {% include bild.html datei="/bilder/lactarius_zonarioides_06_bm.jpg" %}
 {% include abbildung_ende.html legende="Hymenialschicht mit 2- und 4-sporigen Basidien, Präparat in NH3-Kongorot. Foto: Bernd Miggel" %}
 
-**Sporen** breitellipsoid, warzig-gratig-teilnetzig; Ornamentation bin 0,7 µm hoch und stark amyloid; Hilarfleck nicht amyloid.  
-Bei einer Stichprobe von 30 repräsentativen Sporen ergaben sich:  
-Populationsgrenzen (die angegebenen Intervalle geben den statistisch geschätzten Streubereich der Sporenpopulation an) von Länge und Breite: Lpg x Bpg = 6,6 - 8,6 x 5,7 - 7,4 µm.  
+**Sporen** breitellipsoid, warzig-gratig-teilnetzig; Ornamentation bin 0,7 µm hoch und stark amyloid; Hilarfleck nicht amyloid.\
+Bei einer Stichprobe von 30 repräsentativen Sporen ergaben sich:\
+Populationsgrenzen (die angegebenen Intervalle geben den statistisch geschätzten Streubereich der Sporenpopulation an) von Länge und Breite: Lpg x Bpg = 6,6 - 8,6 x 5,7 - 7,4 µm.\
 Mittelwerte (die angegebenen Intervalle geben den statistisch geschätzten Bereich an, in dem der tatsächliche Mittelwert der Sporenpopulation liegt) von Länge und Breite: Lmw x Bmw = 7,4 - 7,8 x 6,4 - 6,7 µm, vom Schlankheitsgrad: Qmw = 1,14 - 1,18, vom Volumen: Vmw = 160 - 185 µm³.
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/lactarius_zonarioides_07_bm.png" %}
+{% include abbildung_ende.html legende="Sporen in Melzers Reagenz, Abb. links: Hilarfleck nicht amyloid (2 Mikrofotos: Bernd Miggel)" %}
+
+REM-Scans zeigen die Sporen-Ornamentation wesentlich deutlicher:
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/lactarius_zonarioides_08_sd.png" %}
+{% include abbildung_ende.html legende="REM-Scans von fünf Sporen (2 Fotos von Stefan Diller)" %}
+
+Die **Huthaut** ist eine Ixokutis, wobei die obersten ca. 100 µm sich als stark gelatinös mit lockerer Hyphenstruktur zeigen. Die darunter liegende Hyphenschicht ist dichter und weniger stark verschleimt:
+
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/lactarius_zonarioides_09_bm.jpg" %}
+{% include abbildung_ende.html legende="14 - 20 µm dicker Querschnitt der Huthaut, gefärbt in H2O-Kongorot. Foto: Bernd Miggel" %}
+
+**Systematik:**\
+Nach HEILMAN-CLAUSEN et al. 1998 gehört die hier beschriebene Population innerhalb der Gattung *Lactarius* in die Sektion *Zonarii*, Subsektion *Zonarii*, deren Arten durch folgende Merkmale charakterisiert sind: Hut mittelgroß bis groß, klebrig bis schleimig, konzentrisch gezont, mit mehr oder weniger gelblichen Farben. Stiel oft grubig. Milch unverändert weiß. Sporen warzig-gratig, Kalkboden.
+
+**Unterschiede des hier beschriebenen Fundes zu den anderen Arten der Subsektion *Zonarii*:**\
+Der in der Literatur beschriebene *Lactarius zonarioides* (Bergnadelwald-Zonenmilchling) ist in der Morphologie und im Habitat quasi identisch, besitzt jedoch deulich größere Sporen. Er wächst ebenfalls im Nadelwald (Fichten, Tannen).\
+*Lactarius zonarius* (Zonen-Milchling): Seine Sporen sind zwar vergleichbar klein, jedoch besitzt seine Hutfarbe keinen rosa Farbeinschlag. Außerdem wächst er im Laubwald (Eichen).\
+[*Lactarius acerrimus* (Queradriger Milchling)](/pilze/lactarius-acerrimus-queraderiger-milchling): Hutfarbe gelb, nie mit rosa Farbeinschlag, Lamellen meist stark queradrig verbunden, oft ungleichmäßig stark gewellt, Basidien 2-sporig, Sporen wesentlich größer, Laubwald (Eichen).\
+Lactarius evosmus (Blasser Zonenmilchling): Hutfarbe gelb, selten auch mit leicht rosalichen Tönen, Sporen vergleichbar groß, Laubwald (Eichen, Pappeln).
+
+**DNA:**
+Die hier beschriebene Population wurde zweimal sequenziert, und zwar wurde die sogen. ITS-Region (ITS = Internal Transcribed Spaces) untersucht. Hier die zugehörigen Zugriffsnummern:\
+UDB07672811_TUF140518 (Fund von 2021)\
+UDB07685122_TUF143817 (Fund von 2025)\
+Beide Sequenzen lieferten im Datenbankvergleich (NCBI GenBank und UNITE) eine Basen-Übereinstimmung (Identity) von 99,5% mit *Lactarius zonarioides* und 98% mit *Lactarius zonarius*.\
+Aus „DNA-Sicht“ weisen die oben angegebenen 99,5% unseren Fund eindeutig als *Lactarius zonarioides* aus, während die 98% für eine enge Verwandtschaft mit *Lactarius zonarius* sprechen.
