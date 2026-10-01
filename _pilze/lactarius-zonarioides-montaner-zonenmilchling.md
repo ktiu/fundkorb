@@ -49,7 +49,7 @@ Zystiden SV-positiv, spindelförmig, schmal, oft verbogen, nach oben zugespitzt,
 **Lamellenschneide** steril. **Basidien** 2- und 4-sporig.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/lactarius_zonarioides_06_bm.jpg" %}
+{% include bild.html datei="/bilder/lactarius_zonarioides_06_bm.png" %}
 {% include abbildung_ende.html legende="Hymenialschicht mit 2- und 4-sporigen Basidien, Präparat in NH3-Kongorot. Foto: Bernd Miggel" %}
 
 **Sporen** breitellipsoid, warzig-gratig-teilnetzig; Ornamentation bin 0,7 µm hoch und stark amyloid; Hilarfleck nicht amyloid.\
