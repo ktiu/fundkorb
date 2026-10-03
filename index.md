@@ -16,7 +16,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/chrysomphalina_strombodes_01_md.jpg" %}
 {% include bild.html datei="/bilder/ramaria_pallida_01_lh.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/lactarius_zonarioides_01_pr.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Tricholoma -------------- Chrysomphalina strombodes-------------Ramaria pallida-------------Lactarius zonarioides" %}
+{% include abbildung_ende.html legende="Chrysomphalina strombodes-------------Ramaria pallida-------------Lactarius zonarioides" %}
 
 **Aktueller Fundkorbpilz:**
 
