@@ -13,10 +13,10 @@ footer_scripts:
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/tricholoma_basirubens_03_ar.jpg" %}
-{% include bild.html datei="/bilder/mycena_fagetorum_01_md.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/ramaria_ignicolor_01_aeh.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Tricholoma basirubens------------------ Mycena fagetorum-------------------- Ramaria ignicola" %}
+{% include bild.html datei="/bilder/chrysomphalina_strombodes_01_md.jpg" %}
+{% include bild.html datei="/bilder/ramaria_pallida_01_lh.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/lactarius_zonarioides_01_pr.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Tricholoma -------------- Chrysomphalina strombodes-------------Ramaria pallida-------------Lactarius zonarioides" %}
 
 **Aktueller Fundkorbpilz:**
 
