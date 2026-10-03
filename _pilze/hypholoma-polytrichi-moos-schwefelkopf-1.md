@@ -24,6 +24,11 @@ literatur:
 
 Winzige Hütchen, dafür um so längere aber fast schon fadendünne Stiele - das markiert einen von ca. 10 Moos-Schwefelköpfen. Diese Artenzahl lässt schon vermuten, dass zur exakten Artbestimmung nicht nur das Aussehen des Pilzes zu beachten ist sondern auch das umgebende Moos bekannt sein sollte. Bemerkenswert: *Arthur A. Pearson & R. W. G. Dennis* hatten ihn 1948 in die Gattung *Psilocybe transferiert*, die für ihre psychoaktiven Arten bekannt ist. Derartige Wirkungen sind bei unserem Moos-Schwefelkopf mit Sicherheit nicht zu erwarten. Schwach giftig ist er dennoch. Er könnte Magen-/Darmbeschwerden verursachen.
 
+{% include abbildung_start.html stil="mittel" %}
+{% include bild.html datei="/bilder/hypholoma_polytrichi_05_cw.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/hypholoma_polytrichi_06_cw.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="2 Fotos von Christian Weinkötz" %}
+
 Die Hüte des Moos-Schwefelkopfs erreichen Durchmesser von 2 cm. Sie sind jung creme- bis ockerbraun, später zu gelbocker verblassend, bei Trockenheit matt, feucht aber glänzend und etwas schmierig. Die Lamellen sind jung weiß-gelblich, später durch ausfallendes Sporenpulver purpurbraun, am Stiel etwas ausgebuchtet angewachsen. Die meist nur 1 bis 2 Millimeter dünnen Stiele erreichen mit bis zu 7 cm beachtliche Längen, und das aus gutem Grund. Um wirksam aussporen zu können, müssen die Hüte über das umgebende Moos angehoben werden. Die Stiele sind von ockerbrauner Farbe, die nicht immer wahrgenommen wird, da sie auf ganzer Länge weiß überfasert sind. Das sehr dünne Fleisch ist ockergelb. Es riecht unauffällig, der Geschmack ist mild bis leicht bitterlich.
 
 {% include abbildung_start.html stil="mittel" %}
