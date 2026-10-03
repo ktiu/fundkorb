@@ -21,6 +21,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_crispa_07_uw.png" %}
+{% include abbildung_ende.html %}
+
+04.10.2026: Unser aktueller [Fundkorbpilze](AA "Glossar-"), die Herbstlorchel *Helvella crispa*, fällt durch ihren hellen, meist sattelförmig gelappten, sehr zerbrechlichen Hut und ihren weißen, längs gerippten, vielfach gefurchten oder gekammerten Stiel auf. Schneidet man ihn in dünne Scheiben, sehen diese aus wie filigrane Kunstwerke, die einer Hochzeitsuppe würdig wären. Der recht häufige Pilz bevorzugt feuchte Stellen an Waldwegrändern, die derzeit noch rar sind. (Ulrike Wegner) [Mehr lesen lohnt sich! >](/pilze/helvella-crispa-herbstlorchel)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gymnopilus_junonius_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -73,14 +81,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 27.09.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Steinpilz *Boletus edulis*, eine von vier Steinpilzarten, die von den meisten Sammlern nicht unterschieden werden. Egal, um welche es sich handelt: sie sind alle essbar und wohlschmeckend. Bei vergammelten Exemplaren besteht akute Gefahr, sich den Magen zu verderben und selbst ernsthafte Vergiftungen sind nicht auszuschließen. Mein Rat: bevor man einen Steinpilz (oder anderen Röhrling) abschneidet: mal mit dem Finger auf seine Oberfläche drücken. Wenn man ohne großen Kraftaufwand eine Delle in den Pilzhut drücken kann: besser stehen lassen! Oder anders formuliert: Stellt beim Sammeln von Pilzen die gleichen Ansprüche, die ihr beim Kauf von Obst und Gemüse im Supermarkt stellen würdet! (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-edulis-gemeiner-steinpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leucoagaricus_americanus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.09.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Büschelige Egerlingsschirmling *Leucoagaricus americanus.* Er wuchs in unserer Dietzenbacher Parkanlage unter dichtem Gestrüpp und wäre beinahe übersehen worden. Man achte auf das wunderschöne Muster, das die Schüppchen auf der Hutoberseite vor allem zum Rand hin zeigen. Am besten vergrößert anschauen (einfach aufs Bild klicken). Man könnte den Pilz oberflächlich für einen Riesenschirmling halten, er ist aber kein Speisepilz sondern giftverdächtig. (Dieter Gewalt) [Mehr lesen >](/pilze/leucoagaricus-americanus-büscheliger-egerlingsschirmling)
 
 <div style="clear:  both"></div>
 
