@@ -44,3 +44,6 @@ Basidien keulig, viersporig, 25 - 30 x 12 - 15 µm; Sporen spindelig, elliptisch
 {% include abbildung_ende.html legende="Wunderschöne und perfekt gelungene Darstellung des schweizer Pilzvereins am Bachtel" %}
 
 Der Blasshütige Steinpilz ist vom Sommer bis zum Spätherbst in Laubwäldern zu finden und bevorzugt trockene kalkhaltige Böden. Er gilt zwar als essbar, sollte aber aufgrund seiner Seltenheit (Gefährdungskategorie 2 = stark gefährdet) geschont werden. Bemerkenswert ist seine Standorttreue.
+
+Anmerkung zu allen Porträts der Gattung Dickröhrlingsverwandte, die traditionell als *Boletus* bekannt war:\
+Sie ist inzwischen in zahreiche neue Gattungen aufgegliedert worden. Wir führen im Fundkorb jedoch alle Arten weiterhin unter dem Titel **Boletus**, um eine äußerst wertvolle Funktion aufrechtzuerhalten, nämlich das bequeme und praktische Durch-, Vor- und Zurückblättern aller Dickröhrlinge. Selbstverständlich sind die neuen Namen stets im Kopfteil angegeben.
