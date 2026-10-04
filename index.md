@@ -21,6 +21,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/collybia_cookei_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+05.10.2026: Ein kleiner und dazu noch seltener Blätterpilz mit [Sklerotium](Sklerotium "Glossar") unter einem Riesenporling - das ist eine Meldung für den aktuellen [Fundkorbpilz](AA "Glossar-") wert. Vermoderte Pilzreste gelten als typisches Substrat für den Gelbknolligen Sklerotienrübling *Collybia cookei*. Er ist einer der wenigen Arten, die noch in dieser Gattung verblieben sind. Die Hütchen waren etwa einen Zentimeter breit, die dünnen Stiele dafür um so länger. (Adam Adamowicz) [Mehr lesen >](/pilze/collybia-cookei-gelbknolliger-sklerotienrübling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_crispa_07_uw.png" %}
 {% include abbildung_ende.html %}
 
@@ -73,14 +81,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 28.09.2026: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Ockerbraune Trichterling *Clitocybe gibba*, ist recht häufig und kommt gerne gesellig an Wegrändern in Laub- oder Mischwäldern vor. Zu erkennen ist der essbare Pilz vor allem an seinem namengebenden Buckel (*gibba*) im ockerbraunen Trichter. Ein weiteres typisches Erkennungsmerkmal ist sein Bittermandelgeruch, das von der Blausäure (*Cyanid*) herrührt, der sich jedoch - wie bei grünen Bohnen auch - beim Kochen schnell verflüchtigt. (Ulrike Wegner) [Mehr lesen >](/pilze/clitocybe-gibba-ockerbrauner-trichterling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_edulis_02_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-27.09.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Gemeine Steinpilz *Boletus edulis*, eine von vier Steinpilzarten, die von den meisten Sammlern nicht unterschieden werden. Egal, um welche es sich handelt: sie sind alle essbar und wohlschmeckend. Bei vergammelten Exemplaren besteht akute Gefahr, sich den Magen zu verderben und selbst ernsthafte Vergiftungen sind nicht auszuschließen. Mein Rat: bevor man einen Steinpilz (oder anderen Röhrling) abschneidet: mal mit dem Finger auf seine Oberfläche drücken. Wenn man ohne großen Kraftaufwand eine Delle in den Pilzhut drücken kann: besser stehen lassen! Oder anders formuliert: Stellt beim Sammeln von Pilzen die gleichen Ansprüche, die ihr beim Kauf von Obst und Gemüse im Supermarkt stellen würdet! (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-edulis-gemeiner-steinpilz)
 
 <div style="clear:  both"></div>
 
