@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-05.10.2026: [Collybia cookei - Gelbknolliger Sklerotienrübling](/pilze/collybia-cookei-gelbknolliger-sklerotienrübling)  
+06.10.2026: [Boletus depilatus - Blasshütiger Röhrling](/pilze/boletus-depilatus-blasshütiger-röhrling)  
+05.10.2026: [Collybia cookei - Gelbknolliger Sklerotienrübling](/pilze/collybia-cookei-gelbknolliger-sklerotienrübling)\
 04.10.2026: [Helvella crispa - Herbstlorchel](/pilze/helvella-crispa-herbstlorchel)\
 03.10.2026: [Gymnopilus junonius - Beringter Flämmling](/pilze/gymnopilus-junonius-beringter-flämmling)\
 02.10.2026: [Chalciporus piperatus - Pfeffer-Röhrling](/pilze/chalciporus-piperatus-pfeffer-röhrling)\
