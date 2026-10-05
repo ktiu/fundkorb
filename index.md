@@ -21,6 +21,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_depilatus_01_tf.jpg" %}
+{% include abbildung_ende.html %}
+
+06.10.2026: Aktueller [Fundkorbpilze](AA "Glossar-") ist der Blasshütige Röhrling *Boletus depilatus*, der jetzt *Hemileccinum depilatum* heißen muss, obwohl er dem Steinpilz ähnlicher sieht als einem Raufußröhrling. Gefunden habe ich diesen seltenen Pilz an der Stadtgrenze zwischen Frankfurt am Main und Bad Vilbel. Sein typisches Kennzeichen ist die wie gehämmert aussehende Hutoberfläche, weshalb er auch Gehämmerter Röhrling genannt wird. (Tanja Folbert) [Mehr lesen >](/pilze/boletus-depilatus-blasshütiger-röhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/collybia_cookei_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -73,14 +81,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 29.09.2026: Wieder meldet sich Niederösterreich mit einem aktuellen [Fundkorbpilz](AA "Glossar-"), der in der Rhein-Main-Ebene eine echte Rarität ist. Der Wieseltäubling *Russula mustelina*, der als Fichtenbegleiter vor allem in Mittelgebirgslagen zu finden ist, gilt als ausgezeichneter Speisepilz und ist natürlich in meiner Pfanne gelandet. Mit Hutdurchmessern bis zu 15 cm gehört er zu den großen festfleischigen Täublingsarten. (Werner Bauer) [Mehr lesen >](/pilze/russula-mustelina-wiesel-täubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_gibba_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.09.2026: Unser heutiger aktueller [Fundkorbpilz](AA "Glossar-"), der Ockerbraune Trichterling *Clitocybe gibba*, ist recht häufig und kommt gerne gesellig an Wegrändern in Laub- oder Mischwäldern vor. Zu erkennen ist der essbare Pilz vor allem an seinem namengebenden Buckel (*gibba*) im ockerbraunen Trichter. Ein weiteres typisches Erkennungsmerkmal ist sein Bittermandelgeruch, das von der Blausäure (*Cyanid*) herrührt, der sich jedoch - wie bei grünen Bohnen auch - beim Kochen schnell verflüchtigt. (Ulrike Wegner) [Mehr lesen >](/pilze/clitocybe-gibba-ockerbrauner-trichterling)
 
 <div style="clear:  both"></div>
 
