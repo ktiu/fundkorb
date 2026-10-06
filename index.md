@@ -21,6 +21,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_claroflava_03_mhk.jpg" %}
+{% include abbildung_ende.html %}
+
+07.10.2026: Mit leuchtend gelbem Hut präsentiert sich unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gelbe Graustieltäubling *Russula claroflava.* Er bevorzugt feuchte oder wechselfeuchte, saure und nährstoffarme Standorte unter Birken als [Mykorrhizapartner](Mykorrhizapartner "Glossar"). Da feuchte Habitate in Deutschland immer seltener sind, gilt er als gefährdet. Er gehört zu den milden Täublingen und ist ein guter Speisepilz. (Ulrike Wegner) Mehr lesen >
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_depilatus_01_tf.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -73,14 +81,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 30.09.2026: Es ist total ungewöhnlich, nur ein einziges Exemplar des üblicherweise in Scharen erscheinenden Violetten Lacktrichterlings *Laccaria amethystina* zu finden. Das [Myzel](Myzel "Glossar") unseres aktuellen [Fundkorbpilzes](AA "Glossar-") hat sich offenbar dem ausgetrockneten Boden angepasst und das bisschen verfügbare Feuchtigkeit nur an eine einzige Stelle seines weiträumigen Fadengeflechts geleitet, um wenigstens **einen** Fruchtkörper hervorbringen zu können. (Dieter Gewalt) [Mehr lesen >](/pilze/laccaria-amethystina-violetter-lacktrichterling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_mustelina_02_gs.jpg" %}
-{% include abbildung_ende.html %}
-
-29.09.2026: Wieder meldet sich Niederösterreich mit einem aktuellen [Fundkorbpilz](AA "Glossar-"), der in der Rhein-Main-Ebene eine echte Rarität ist. Der Wieseltäubling *Russula mustelina*, der als Fichtenbegleiter vor allem in Mittelgebirgslagen zu finden ist, gilt als ausgezeichneter Speisepilz und ist natürlich in meiner Pfanne gelandet. Mit Hutdurchmessern bis zu 15 cm gehört er zu den großen festfleischigen Täublingsarten. (Werner Bauer) [Mehr lesen >](/pilze/russula-mustelina-wiesel-täubling)
 
 <div style="clear:  both"></div>
 
