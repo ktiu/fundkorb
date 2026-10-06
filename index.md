@@ -21,7 +21,7 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_claroflava_03_mhk.jpg" %}
+{% include bild.html datei="/bilder/russula_claroflava_01_hs.jpg" %}
 {% include abbildung_ende.html %}
 
 07.10.2026: Mit leuchtend gelbem Hut präsentiert sich unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gelbe Graustieltäubling *Russula claroflava.* Er bevorzugt feuchte oder wechselfeuchte, saure und nährstoffarme Standorte unter Birken als [Mykorrhizapartner](Mykorrhizapartner "Glossar"). Da feuchte Habitate in Deutschland immer seltener werden, gilt er als gefährdet. Er gehört zu den milden Täublingen und ist ein guter Speisepilz. (Ulrike Wegner) [Mehr lesen >](/pilze/russula-claroflava-gelber-graustieltäubling)
