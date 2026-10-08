@@ -24,7 +24,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/tricholomopsis_rutilans_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-09.10.2026 Dieser wunderschöne Pilz, der Purpurfilzige Holzritterling *Tricholomopsis rutilans*, ist zur Zeit in heimischen Nadel- und Mischwäldern zu finden und daher auch aktueller [Fundkorbpilz](AA "Glossar-"). Er wächst mit Vorliebe an vermoderten Kiefernstümpfen, aber auch an totem Fichten - oder Tannenholz. Seine Farbe variiert von lila über lilarötlich bis rötlich - je älter, desto mehr geht die Farbe ins Gelbliche. Optisch ein Bilderbuchpilz hält der Geschmack leider nicht, was das Aussehen verspricht. Er schmeckt muffig und riecht auch so. (Jana Falk) [Mehr lesen >](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)
+10.10.2026 Dieser wunderschöne Pilz, der Purpurfilzige Holzritterling *Tricholomopsis rutilans*, ist zur Zeit in heimischen Nadel- und Mischwäldern zu finden und daher auch aktueller [Fundkorbpilz](AA "Glossar-"). Er wächst mit Vorliebe an vermoderten Kiefernstümpfen, aber auch an totem Fichten - oder Tannenholz. Seine Farbe variiert von lila über lilarötlich bis rötlich - je älter, desto mehr geht die Farbe ins Gelbliche. Optisch ein Bilderbuchpilz hält der Geschmack leider nicht, was das Aussehen verspricht. Er schmeckt muffig und riecht auch so. (Jana Falk) [Mehr lesen >](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)
 
 <div style="clear:  both"></div>
 
@@ -32,7 +32,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/pycnoporellus_fulgens_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-08.10.2026: Im Waldbiotop „Feldrennacher Ilexwald“ bei Straubenhardt im Nordschwarzwald habe ich an einem liegenden Weißtannenstamm einen wunderschönen, goldgelb leuchtenden Porling gefunden. Der Anblick hat mich so begeistert, dass ich ihn als aktuellen [Fundkorbpilz](AA "Glossar-") melden möchte. Sein Name: Leuchtender Weichporling (*Pycnoporellus fulgens*). Das Leuchten lässt mit zunehmendem Alter nach und zuletzt haben wir es mit eher unansehnlichen Fruchtkörpern zu tun. Er kommt auch an anderen Nadelhölzern vor. (Bernd Miggel) [Mehr lesen >](/pilze/pycnoporellus-fulgens-leuchtender-weichporling-tramete)
+09.10.2026: Im Waldbiotop „Feldrennacher Ilexwald“ bei Straubenhardt im Nordschwarzwald habe ich an einem liegenden Weißtannenstamm einen wunderschönen, goldgelb leuchtenden Porling gefunden. Der Anblick hat mich so begeistert, dass ich ihn als aktuellen [Fundkorbpilz](AA "Glossar-") melden möchte. Sein Name: Leuchtender Weichporling (*Pycnoporellus fulgens*). Das Leuchten lässt mit zunehmendem Alter nach und zuletzt haben wir es mit eher unansehnlichen Fruchtkörpern zu tun. Er kommt auch an anderen Nadelhölzern vor. (Bernd Miggel) [Mehr lesen >](/pilze/pycnoporellus-fulgens-leuchtender-weichporling-tramete)
 
 <div style="clear:  both"></div>
 
