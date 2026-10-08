@@ -32,7 +32,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/boletus_luridus._01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-08.10.2026: Aktueller [Fundkorbpilze](AA "Glossar-") ist der Netzstielige Hexenröhrling *Boletus luridus*, den man in den Wäldern des Rhein-Main-Gebiets nur selten findet, in bebauten Gebieten dagegen um so häufiger. Hier haben oft Bautätigkeiten, auch länger zurückliegende, für einen Kalkeintrag in die Böden gesorgt und damit beste Voraussetzungen für das Wachstum kalkliebender Pilzarten wie unsere "Netzhexen" geschaffen. Sie sind wie fast alle Pilze roh giftig, ausreichend erhitzt aber lecker und gut verträglich. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-luridus-netzstieliger-hexenröhrling)
+08.10.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Netzstielige Hexenröhrling *Boletus luridus*, den man in den Wäldern des Rhein-Main-Gebiets nur selten findet, in bebauten Gebieten dagegen um so häufiger. Hier haben oft Bautätigkeiten, auch länger zurückliegende, für einen Kalkeintrag in die Böden gesorgt und damit beste Voraussetzungen für das Wachstum kalkliebender Pilzarten wie unsere "Netzhexen" geschaffen. Sie sind wie fast alle Pilze roh giftig, ausreichend erhitzt aber lecker und gut verträglich. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-luridus-netzstieliger-hexenröhrling)
 
 <div style="clear:  both"></div>
 
