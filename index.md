@@ -21,6 +21,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholomopsis_rutilans_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.10.2026 Dieser wunderschöne Pilz, der Purpurfilzige Holzritterling *Tricholomopsis rutilans*, ist zur Zeit in heimischen Nadel- und Mischwäldern zu finden und daher auch aktueller [Fundkorbpilz](AA "Glossar-"). Er wächst mit Vorliebe an vermoderten Kiefernstümpfen, aber auch an totem Fichten - oder Tannenholz. Seine Farbe variiert von lila über lilarötlich bis rötlich - je älter, desto mehr geht die Farbe ins Gelbliche. Optisch ein Bilderbuchpilz hält der Geschmack leider nicht, was das Aussehen verspricht. Er schmeckt muffig und riecht auch so. (Jana Falk) [Mehr lesen >](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pycnoporellus_fulgens_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -65,14 +73,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 04.10.2026: Unser aktueller [Fundkorbpilze](AA "Glossar-"), die Herbstlorchel *Helvella crispa*, fällt durch ihren hellen, meist sattelförmig gelappten, sehr zerbrechlichen Hut und ihren weißen, längs gerippten, vielfach gefurchten oder gekammerten Stiel auf. Schneidet man ihn in dünne Scheiben, sehen diese aus wie filigrane Kunstwerke, die einer Hochzeitsuppe würdig wären. Der recht häufige Pilz bevorzugt feuchte Stellen an Waldwegrändern, die derzeit noch rar sind. (Ulrike Wegner) [Mehr lesen lohnt sich! >](/pilze/helvella-crispa-herbstlorchel)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/gymnopilus_junonius_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-03.10.2026: Einer der auffälligsten Pilze bei unserer letzten pilzkundlichen Führung bei Dietzenbach in der Rhein-Main-Ebene war der Beringte Flämmling *Gymnopilus junonius* und ist darum auch aktueller [Fundkorbpilz](AA "Glossar-"). Er wuchs büschelig am Stammgrund einer Eiche, seine jung kugeligen und rostgelben Hüte waren bereits aufgeschirmt und rotbraun gefärbt. Da bitter, ist er für die Küche nicht geeignet. (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopilus-junonius-beringter-flämmling)
 
 <div style="clear:  both"></div>
 
