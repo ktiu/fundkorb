@@ -3,8 +3,9 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-08.10.2026: [Boletus luridus - Netzstieliger Hexenröhrling](/pilze/boletus-luridus-netzstieliger-hexenröhrling)  
-07.10.2026: [Russula claroflava - Gelber Graustieltäubling](/pilze/russula-claroflava-gelber-graustieltäubling)  
+09.10.2026: [Pycnoporellus fulgens - Leuchtender Weichporling](/pilze/pycnoporellus-fulgens-leuchtender-weichporling-tramete)  
+08.10.2026: [Boletus luridus - Netzstieliger Hexenröhrling](/pilze/boletus-luridus-netzstieliger-hexenröhrling)\
+07.10.2026: [Russula claroflava - Gelber Graustieltäubling](/pilze/russula-claroflava-gelber-graustieltäubling)\
 06.10.2026: [Boletus depilatus - Blasshütiger Röhrling](/pilze/boletus-depilatus-blasshütiger-röhrling)\
 05.10.2026: [Collybia cookei - Gelbknolliger Sklerotienrübling](/pilze/collybia-cookei-gelbknolliger-sklerotienrübling)\
 04.10.2026: [Helvella crispa - Herbstlorchel](/pilze/helvella-crispa-herbstlorchel)\
