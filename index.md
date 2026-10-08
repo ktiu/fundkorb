@@ -21,6 +21,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pycnoporellus_fulgens_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.10.2026: Im Waldbiotop „Feldrennacher Ilexwald“ bei Straubenhardt im Nordschwarzwald habe ich an einem liegenden Weißtannenstamm einen wunderschönen, goldgelb leuchtenden Porling gefunden. Der Anblick hat mich so begeistert, dass ich ihn als aktuellen [Fundkorbpilz](AA "Glossar-") melden möchte. Sein Name: Leuchtender Weichporling (*Pycnoporellus fulgens*). Das Leuchten lässt mit zunehmendem Alter nach und zuletzt haben wir es mit eher unansehnlichen Fruchtkörpern zu tun. Er kommt auch an anderen Nadelhölzern vor. (Bernd Miggel) [Mehr lesen >](/pilze/pycnoporellus-fulgens-leuchtender-weichporling-tramete)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/boletus_luridus._01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -65,22 +73,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 03.10.2026: Einer der auffälligsten Pilze bei unserer letzten pilzkundlichen Führung bei Dietzenbach in der Rhein-Main-Ebene war der Beringte Flämmling *Gymnopilus junonius* und ist darum auch aktueller [Fundkorbpilz](AA "Glossar-"). Er wuchs büschelig am Stammgrund einer Eiche, seine jung kugeligen und rostgelben Hüte waren bereits aufgeschirmt und rotbraun gefärbt. Da bitter, ist er für die Küche nicht geeignet. (Dieter Gewalt) [Mehr lesen >](/pilze/gymnopilus-junonius-beringter-flämmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/chalciporus_piperatus_km_1.jpg" %}
-{% include abbildung_ende.html %}
-
-02.10.2026: Ebenfalls im niederösterreichischen Waldviertel wurde der Pfefferröhrling Chalciporus piperatus gefunden. Dieser aktuelle [Fundkorbpilze](AA "Glossar-") ist aufgrund seiner Merkmale leicht zu identifizieren. Für einen Röhrling ist er ungewöhnlich klein und zierlich. Die Röhren und Poren haben eine rost¬orange bis zimtbraune Farbe und sein pfeffrig scharfer Geschmack ist ein Alleinstellungsmerkmal unter europäischen Röhrlingen. (Werner Bauer) [Mehr lesen >](/pilze/chalciporus-piperatus-pfeffer-röhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_helvus_02_dg.jpg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-01.10.2026: Unser heutiger aktueller [Fundkorbpilze](AA "Glossar-") *Lactarius helvus* ist unter drei deutschen Namen bekannt: Bruch-Reizker, Maggipilz und Filziger Milchling. Sie weisen alle auf drei seiner markantesten Eigenschaften hin: seine brüchige Konsistenz, den Geruch nach Liebstöckel oder Maggi sowie die filzige Hutoberfläche. Gefunden habe ich ihn wieder in meinem Waldviertel in Niederösterreich. Da er sogenannte *Terpene* enthält, die Magen-/Darmbeschwerden verursachen können, kommt er für Speisezwecke nicht in Frage. (Werner Bauer) *[Mehr lesen >](/pilze/lactarius-helvus-bruch-reizker-maggipilz)*
 
 <div style="clear:  both"></div>
 
