@@ -21,6 +21,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/boletus_luridus._01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+08.10.2026: Aktueller [Fundkorbpilze](AA "Glossar-") ist der Netzstielige Hexenröhrling *Boletus luridus*, den man in den Wäldern des Rhein-Main-Gebiets nur selten findet, in bebauten Gebieten dagegen um so häufiger. Hier haben oft Bautätigkeiten, auch länger zurückliegende, für einen Kalkeintrag in die Böden gesorgt und damit beste Voraussetzungen für das Wachstum kalkliebender Pilzarten wie unsere "Netzhexen" geschaffen. Sie sind wie fast alle Pilze roh giftig, ausreichend erhitzt aber lecker und gut verträglich. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-luridus-netzstieliger-hexenröhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_claroflava_01_hs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -73,14 +81,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 01.10.2026: Unser heutiger aktueller [Fundkorbpilze](AA "Glossar-") *Lactarius helvus* ist unter drei deutschen Namen bekannt: Bruch-Reizker, Maggipilz und Filziger Milchling. Sie weisen alle auf drei seiner markantesten Eigenschaften hin: seine brüchige Konsistenz, den Geruch nach Liebstöckel oder Maggi sowie die filzige Hutoberfläche. Gefunden habe ich ihn wieder in meinem Waldviertel in Niederösterreich. Da er sogenannte *Terpene* enthält, die Magen-/Darmbeschwerden verursachen können, kommt er für Speisezwecke nicht in Frage. (Werner Bauer) *[Mehr lesen >](/pilze/lactarius-helvus-bruch-reizker-maggipilz)*
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/laccaria_amethystina_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-30.09.2026: Es ist total ungewöhnlich, nur ein einziges Exemplar des üblicherweise in Scharen erscheinenden Violetten Lacktrichterlings *Laccaria amethystina* zu finden. Das [Myzel](Myzel "Glossar") unseres aktuellen [Fundkorbpilzes](AA "Glossar-") hat sich offenbar dem ausgetrockneten Boden angepasst und das bisschen verfügbare Feuchtigkeit nur an eine einzige Stelle seines weiträumigen Fadengeflechts geleitet, um wenigstens **einen** Fruchtkörper hervorbringen zu können. (Dieter Gewalt) [Mehr lesen >](/pilze/laccaria-amethystina-violetter-lacktrichterling)
 
 <div style="clear:  both"></div>
 
