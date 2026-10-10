@@ -21,6 +21,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_turci_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.10.2026: Wie die allermeisten Täublinge ist auch unser heutiger aktueller [Fundkorbpilze](AA "Glossar-"), der Jodoformtäubling *Russula turci* eine ziemlich variable Art. Seine Hutfarben können lila bis violett, purpur, rötlich braun, grau-ocker oder oliv sein. Entscheidend ist der in der Stielbasis feststellbare Geruch nach Jodoform, der aber kommen und gehen oder ausnahmsweise fehlen kann. Er schmeckt mild, ist ein guter Speisepilz und wächst in Nadelwäldern. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-turci-jodoformtäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholomopsis_rutilans_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -65,14 +73,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 05.10.2026: Ein kleiner und dazu noch seltener Blätterpilz mit [Sklerotium](Sklerotium "Glossar") unter einem Riesenporling - das ist eine Meldung für den aktuellen [Fundkorbpilz](AA "Glossar-") wert. Vermoderte Pilzreste gelten als typisches Substrat für den Gelbknolligen Sklerotienrübling *Collybia cookei*. Er ist einer der wenigen Arten, die noch in dieser Gattung verblieben sind. Die Hütchen waren etwa einen Zentimeter breit, die dünnen Stiele dafür um so länger. (Adam Adamowicz) [Mehr lesen >](/pilze/collybia-cookei-gelbknolliger-sklerotienrübling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_crispa_07_uw.png" %}
-{% include abbildung_ende.html %}
-
-04.10.2026: Unser aktueller [Fundkorbpilze](AA "Glossar-"), die Herbstlorchel *Helvella crispa*, fällt durch ihren hellen, meist sattelförmig gelappten, sehr zerbrechlichen Hut und ihren weißen, längs gerippten, vielfach gefurchten oder gekammerten Stiel auf. Schneidet man ihn in dünne Scheiben, sehen diese aus wie filigrane Kunstwerke, die einer Hochzeitsuppe würdig wären. Der recht häufige Pilz bevorzugt feuchte Stellen an Waldwegrändern, die derzeit noch rar sind. (Ulrike Wegner) [Mehr lesen lohnt sich! >](/pilze/helvella-crispa-herbstlorchel)
 
 <div style="clear:  both"></div>
 
