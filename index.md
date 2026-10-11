@@ -24,7 +24,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/coprinus_comatus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-12.10.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schopftintling *Coprinus comatus* gehört zu den wenigen Arten, die von Pilz-Apps auf Anhieb sicher erkannt werden. Und zu denen, die es lohnt, gesammelt zu werden. Als Spargel- oder Suppenpilz oder für die Pfanne ist er bestens geeignet, solange er noch komplett weiß ist. Wenn er anfängt zu zerfließen, kann man ihn nur noch wie schwarze Tinte zum Schreiben verwenden. In England wird er *"Shaggy Mane"* (zottelige Mähne) genannt. (Dieter Gewalt) [Mehr lesen > ](/pilze/coprinus-comatus-schopftintling)
+12.10.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schopftintling *Coprinus comatus*, gehört zu den wenigen Arten, die von Pilz-Apps auf Anhieb sicher erkannt werden. Und zu denen, die es lohnt, gesammelt zu werden. Als Spargel- oder Suppenpilz oder für die Pfanne ist er bestens geeignet, solange er noch komplett weiß ist. Wenn er anfängt zu zerfließen, kann man ihn nur noch wie schwarze Tinte zum Schreiben verwenden. In England wird er *"Shaggy Mane"* (zottelige Mähne) genannt. (Dieter Gewalt) [Mehr lesen > ](/pilze/coprinus-comatus-schopftintling)
 
 <div style="clear:  both"></div>
 
