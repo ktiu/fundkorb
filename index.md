@@ -21,6 +21,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinus_comatus_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.10.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schopftintling *Coprinus comatus* gehört zu den wenigen Arten, die von Pilz-Apps auf Anhieb sicher erkannt werden. Und zu denen, die es lohnt, gesammelt zu werden. Als Spargel- oder Suppenpilz oder für die Pfanne ist er bestens geeignet, solange er noch komplett weiß ist. Wenn er anfängt zu zerfließen, kann man ihn nur noch wie schwarze Tinte zum Schreiben verwenden. In England wird er *"Shaggy Mane"* (zottelige Mähne) genannt. (Dieter Gewalt) [Mehr lesen > ](/pilze/coprinus-comatus-schopftintling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_turci_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -65,14 +73,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 06.10.2026: Aktueller [Fundkorbpilze](AA "Glossar-") ist der Blasshütige Röhrling *Boletus depilatus*, der jetzt *Hemileccinum depilatum* heißen muss, obwohl er dem Steinpilz ähnlicher sieht als einem Raufußröhrling. Gefunden habe ich diesen seltenen Pilz an der Stadtgrenze zwischen Frankfurt am Main und Bad Vilbel. Sein typisches Kennzeichen ist die wie gehämmert aussehende Hutoberfläche, weshalb er auch Gehämmerter Röhrling genannt wird. (Tanja Folbert) [Mehr lesen >](/pilze/boletus-depilatus-blasshütiger-röhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/collybia_cookei_01_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-05.10.2026: Ein kleiner und dazu noch seltener Blätterpilz mit [Sklerotium](Sklerotium "Glossar") unter einem Riesenporling - das ist eine Meldung für den aktuellen [Fundkorbpilz](AA "Glossar-") wert. Vermoderte Pilzreste gelten als typisches Substrat für den Gelbknolligen Sklerotienrübling *Collybia cookei*. Er ist einer der wenigen Arten, die noch in dieser Gattung verblieben sind. Die Hütchen waren etwa einen Zentimeter breit, die dünnen Stiele dafür um so länger. (Adam Adamowicz) [Mehr lesen >](/pilze/collybia-cookei-gelbknolliger-sklerotienrübling)
 
 <div style="clear:  both"></div>
 
