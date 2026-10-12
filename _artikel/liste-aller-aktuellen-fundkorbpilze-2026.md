@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-12.11.2026: [Coprinus comatus - Schopftintling](/pilze/coprinus-comatus-schopftintling)  
+13.10.2026: [Armillaria ostoyae - Dunkler Hallimasch](/pilze/armillaria-ostoyae-dunkler-hallimasch)  
+12.10.2026: [Coprinus comatus - Schopftintling](/pilze/coprinus-comatus-schopftintling)\
 11.10.2026: [Russula turci - Jodoformtäubling](/pilze/russula-turci-jodoformtäubling)\
 10.10.2026: [Tricholomopsis rutilans - Purpurfilziger Holzritterling](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)\
 09.10.2026: [Pycnoporellus fulgens - Leuchtender Weichporling](/pilze/pycnoporellus-fulgens-leuchtender-weichporling-tramete)\
