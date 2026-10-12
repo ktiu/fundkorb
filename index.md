@@ -21,6 +21,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/armillaria_ostoyae_05_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+13.10.2026: Die ersten Hallimasche (*Armillaria ostoyae*) sind jetzt an Wegrändern in den Dietzenbacher Wäldern erschienen. Damit haben wir einen essbaren aktuellen [Fundkorbpilz](AA "Glossar-"), der allerdings nicht von jedem geschätzt wird. Bei empfindlichen Personen kann der Verzehr vorübergehende Magen- und Darmstörungen verursachen. Schon gar nicht geschätzt wird er von Förstern und Waldbesitzern, weil er Hand in Hand mit Borkenkäfern jeden Fichtenbestand vernichten kann. (Dieter Gewalt) [Mehr lesen >](/pilze/armillaria-ostoyae-dunkler-hallimasch)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinus_comatus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -65,14 +73,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 07.10.2026: Mit leuchtend gelbem Hut präsentiert sich unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gelbe Graustieltäubling *Russula claroflava.* Er bevorzugt feuchte oder wechselfeuchte, saure und nährstoffarme Standorte unter Birken als [Mykorrhizapartner](Mykorrhiza "Glossar"). Da feuchte Habitate in Deutschland immer seltener werden, gilt er als gefährdet. Er gehört zu den milden Täublingen und ist ein guter Speisepilz. (Ulrike Wegner) [Mehr lesen >](/pilze/russula-claroflava-gelber-graustieltäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_depilatus_01_tf.jpg" %}
-{% include abbildung_ende.html %}
-
-06.10.2026: Aktueller [Fundkorbpilze](AA "Glossar-") ist der Blasshütige Röhrling *Boletus depilatus*, der jetzt *Hemileccinum depilatum* heißen muss, obwohl er dem Steinpilz ähnlicher sieht als einem Raufußröhrling. Gefunden habe ich diesen seltenen Pilz an der Stadtgrenze zwischen Frankfurt am Main und Bad Vilbel. Sein typisches Kennzeichen ist die wie gehämmert aussehende Hutoberfläche, weshalb er auch Gehämmerter Röhrling genannt wird. (Tanja Folbert) [Mehr lesen >](/pilze/boletus-depilatus-blasshütiger-röhrling)
 
 <div style="clear:  both"></div>
 
