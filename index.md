@@ -21,6 +21,14 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_densifolia_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.10.2026: Unter den Täublingen nehmen die Schwärztäublinge eine Sonderstellung ein. Sie sind recht groß, kompakt, aber im Gegensatz zu den allermeisten anderen überhaupt nicht bunt. Das trifft auch auf unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Dichtblättrigen Schwärztäubling *Russula densifolia* zu. Sein kennzeichnendes Merkmal sind sehr eng stehende Lamellen, die mild aber nicht scharf, höchstens etwas schärflich oder pikant schmecken. Er gilt als essbar, ist aber mit Sicherheit keine Delikatesse. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/armillaria_ostoyae_05_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -65,14 +73,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 08.10.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Netzstielige Hexenröhrling *Boletus luridus*, den man in den Wäldern des Rhein-Main-Gebiets nur selten findet, in bebauten Gebieten dagegen um so häufiger. Hier haben oft Bautätigkeiten, auch länger zurückliegende, für einen Kalkeintrag in die Böden gesorgt und damit beste Voraussetzungen für das Wachstum kalkliebender Pilzarten wie unsere "Netzhexen" geschaffen. Sie sind wie fast alle Pilze roh giftig, ausreichend erhitzt aber lecker und gut verträglich. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-luridus-netzstieliger-hexenröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_claroflava_01_hs.jpg" %}
-{% include abbildung_ende.html %}
-
-07.10.2026: Mit leuchtend gelbem Hut präsentiert sich unser aktueller [Fundkorbpilz](AA "Glossar-"), der Gelbe Graustieltäubling *Russula claroflava.* Er bevorzugt feuchte oder wechselfeuchte, saure und nährstoffarme Standorte unter Birken als [Mykorrhizapartner](Mykorrhiza "Glossar"). Da feuchte Habitate in Deutschland immer seltener werden, gilt er als gefährdet. Er gehört zu den milden Täublingen und ist ein guter Speisepilz. (Ulrike Wegner) [Mehr lesen >](/pilze/russula-claroflava-gelber-graustieltäubling)
 
 <div style="clear:  both"></div>
 
