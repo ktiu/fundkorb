@@ -8,7 +8,7 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
- {% include pilzsuche.html %} 
+15.10.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weißmilchende Helmling Mycena galopus, einer von mehreren Helmlingsarten, deren Stiele bei Verletzung eine Flüssigkeit absondern. Deren Farbe ist das erste Unterscheidungsmerkmal, auf das zu achten ist. Mycena galopus ist eine der häufigsten Helmlingsarten, möglicherweise mit rückläufiger Tendenz. Die zierlichen kleinen Pilzchen sind hübsch anzuschauen, für die Küche aber nicht geeignet. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div> {% include pilzsuche.html %} 
 
 **Neu im Fundkorb:**
 
@@ -19,6 +19,14 @@ footer_scripts:
 {% include abbildung_ende.html legende="Chrysomphalina strombodes----------------Ramaria pallida-----------------Lactarius zonarioides" %}
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_galopus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+15.10.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weißmilchende Helmling *Mycena galopus*, einer von mehreren Helmlingsarten, deren Stiele bei Verletzung eine Flüssigkeit absondern. Deren Farbe ist das erste Unterscheidungsmerkmal, auf das zu achten ist. *Mycena galopus* ist eine der häufigsten Helmlingsarten, möglicherweise mit rückläufiger Tendenz. Die zierlichen kleinen Pilzchen sind hübsch anzuschauen, für die Küche aber nicht geeignet. (Dieter Gewalt) [Mehr lesen > ](/pilze/mycena-galopus-weißmilchender-helmling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_densifolia_01_dg.jpg" %}
