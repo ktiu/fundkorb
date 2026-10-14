@@ -8,7 +8,7 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-15.10.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weißmilchende Helmling Mycena galopus, einer von mehreren Helmlingsarten, deren Stiele bei Verletzung eine Flüssigkeit absondern. Deren Farbe ist das erste Unterscheidungsmerkmal, auf das zu achten ist. Mycena galopus ist eine der häufigsten Helmlingsarten, möglicherweise mit rückläufiger Tendenz. Die zierlichen kleinen Pilzchen sind hübsch anzuschauen, für die Küche aber nicht geeignet. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div> {% include pilzsuche.html %} 
+
 
 **Neu im Fundkorb:**
 
