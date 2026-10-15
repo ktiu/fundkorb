@@ -21,10 +21,10 @@ footer_scripts:
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinopsis_picaceus_04_dg.jpg" %}
+{% include bild.html datei="/bilder/coprinopsis_picacea_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-16.10.2026: Er ist fotogen, unser aktueller [Fundkorbpilz](AA "Glossar-"), der Specht-Tintling *Coprinopsis picaceus*, und standorttreu. Er gleicht in der Gestalt dem leckeren und wesentlich häufigeren Schopftintling, aber unter dem schuppig aufreißenden Velum ist die Huthaut schwarz. Das dabei entstehende Muster der [Velumflocken](Velum "Glossar") erinnert an die gepunkteten Handschwingen einiger Spechtarten. In diesem Stadium ist der Pilz am schönsten. Danach beginnen die Hüte schnell zu schwarzer Tinte zu verfließen (Autolyse). Für die Küche taugt er nicht. (Ulrike Wegner) [Mehr lesen >](/pilze/coprinopsis-picacea-specht-tintling)
+16.10.2026: Er ist fotogen, unser aktueller [Fundkorbpilz](AA "Glossar-"), der Specht-Tintling *Coprinopsis picacea*, und standorttreu. Er gleicht in der Gestalt dem leckeren und wesentlich häufigeren Schopftintling, aber unter dem schuppig aufreißenden Velum ist die Huthaut schwarz. Das dabei entstehende Muster der [Velumflocken](Velum "Glossar") erinnert an die gepunkteten Handschwingen einiger Spechtarten. In diesem Stadium ist der Pilz am schönsten. Danach beginnen die Hüte schnell zu schwarzer Tinte zu verfließen (Autolyse). Für die Küche taugt er nicht. (Ulrike Wegner) [Mehr lesen >](/pilze/coprinopsis-picacea-specht-tintling)
 
 <div style="clear:  both"></div>
 
