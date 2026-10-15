@@ -8,7 +8,7 @@ footer_scripts:
   - assets/js/initializeSearch.js
   - assets/js/shuffleQuiz.js
 ---
-
+ {% include pilzsuche.html %} 
 
 **Neu im Fundkorb:**
 
@@ -19,6 +19,14 @@ footer_scripts:
 {% include abbildung_ende.html legende="Chrysomphalina strombodes----------------Ramaria pallida-----------------Lactarius zonarioides" %}
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/coprinopsis_picaceus_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+16.10.2026: Er ist fotogen, unser aktueller [Fundkorbpilz](AA "Glossar-"), der Specht-Tintling *Coprinopsis picaceus*, und standorttreu. Er gleicht in der Gestalt dem leckeren und wesentlich häufigeren Schopftintling, aber unter dem schuppig aufreißenden Velum ist die Huthaut schwarz. Das dabei entstehende Muster der [Velumflocken](Velum "Glossar") erinnert an die gepunkteten Handschwingen einiger Spechtarten. In diesem Stadium ist der Pilz am schönsten. Danach beginnen die Hüte schnell zu schwarzer Tinte zu verfließen (Autolyse). Für die Küche taugt er nicht. (Ulrike Wegner) [Mehr lesen >](/pilze/coprinopsis-picacea-specht-tintling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_galopus_01_dg.jpg" %}
@@ -73,14 +81,6 @@ footer_scripts:
 {% include abbildung_ende.html %}
 
 09.10.2026: Im Waldbiotop „Feldrennacher Ilexwald“ bei Straubenhardt im Nordschwarzwald habe ich an einem liegenden Weißtannenstamm einen wunderschönen, goldgelb leuchtenden Porling gefunden. Der Anblick hat mich so begeistert, dass ich ihn als aktuellen [Fundkorbpilz](AA "Glossar-") melden möchte. Sein Name: Leuchtender Weichporling (*Pycnoporellus fulgens*). Das Leuchten lässt mit zunehmendem Alter nach und zuletzt haben wir es mit eher unansehnlichen Fruchtkörpern zu tun. Er kommt auch an anderen Nadelhölzern vor. (Bernd Miggel) [Mehr lesen >](/pilze/pycnoporellus-fulgens-leuchtender-weichporling-tramete)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/boletus_luridus._01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.10.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Netzstielige Hexenröhrling *Boletus luridus*, den man in den Wäldern des Rhein-Main-Gebiets nur selten findet, in bebauten Gebieten dagegen um so häufiger. Hier haben oft Bautätigkeiten, auch länger zurückliegende, für einen Kalkeintrag in die Böden gesorgt und damit beste Voraussetzungen für das Wachstum kalkliebender Pilzarten wie unsere "Netzhexen" geschaffen. Sie sind wie fast alle Pilze roh giftig, ausreichend erhitzt aber lecker und gut verträglich. (Dieter Gewalt) [Mehr lesen >](/pilze/boletus-luridus-netzstieliger-hexenröhrling)
 
 <div style="clear:  both"></div>
 
