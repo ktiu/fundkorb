@@ -24,6 +24,14 @@ Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wen
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/oudemansiella_mucida_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+17.10.2026: Da er an Holz wächst, ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Beringte Schleimrübling *Oudemansiella mucida*, von der extremen Trockenheit weniger betroffen als am Boden wachsende Pilze und im Rhein-Main-Gebiet zur Zeit auch zu finden. Als einer der fotogensten Pilze überhaupt animiert er Naturfreunde immer wieder, zur Kamera zu greifen. Aber auch Gourmets sollten ihn nicht grundsätzlich links liegen lassen. Er schmeckt gar nicht so übel und das trotz seiner schleimigen Konsistenz. Dazu ist er auch noch so gut wie unverwechselbar. (Dieter Gewalt) [Unbedingt mehr lesen! >](/pilze/oudemansiella-mucida-beringter-schleimrübling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/coprinopsis_picaceus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -76,14 +84,6 @@ Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wen
 {% include abbildung_ende.html %}
 
 10.10.2026 Dieser wunderschöne Pilz, der Purpurfilzige Holzritterling *Tricholomopsis rutilans*, ist zur Zeit in heimischen Nadel- und Mischwäldern zu finden und daher auch aktueller [Fundkorbpilz](AA "Glossar-"). Er wächst mit Vorliebe an vermoderten Kiefernstümpfen, aber auch an totem Fichten - oder Tannenholz. Seine Farbe variiert von lila über lilarötlich bis rötlich. Optisch ein Bilderbuchpilz hält der Geschmack leider nicht, was das Aussehen verspricht. Er schmeckt muffig und riecht auch so. (Jana Falk) [Mehr lesen >](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pycnoporellus_fulgens_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.10.2026: Im Waldbiotop „Feldrennacher Ilexwald“ bei Straubenhardt im Nordschwarzwald habe ich an einem liegenden Weißtannenstamm einen wunderschönen, goldgelb leuchtenden Porling gefunden. Der Anblick hat mich so begeistert, dass ich ihn als aktuellen [Fundkorbpilz](AA "Glossar-") melden möchte. Sein Name: Leuchtender Weichporling (*Pycnoporellus fulgens*). Das Leuchten lässt mit zunehmendem Alter nach und zuletzt haben wir es mit eher unansehnlichen Fruchtkörpern zu tun. Er kommt auch an anderen Nadelhölzern vor. (Bernd Miggel) [Mehr lesen >](/pilze/pycnoporellus-fulgens-leuchtender-weichporling-tramete)
 
 <div style="clear:  both"></div>
 
