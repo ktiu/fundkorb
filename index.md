@@ -10,13 +10,16 @@ footer_scripts:
 ---
  {% include pilzsuche.html %} 
 
+**Pilzkundliche Führung für Einsteiger**\
+Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wenig Wachstum von am Boden erscheinenden Pilzen zu, was eine erfolgreiche Führung unmöglich macht. Sobald die Bedingungen besser werden, bieten wir wieder Führungen an, auch mit dem Thema **Der Wald und seine Pilze**.
+
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/chrysomphalina_strombodes_01_md.jpg" %}
-{% include bild.html datei="/bilder/ramaria_pallida_01_lh.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/lactarius_zonarioides_01_pr.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Chrysomphalina strombodes----------------Ramaria pallida-----------------Lactarius zonarioides" %}
+{% include bild.html datei="/bilder/boletus_depilatus_01_tf.jpg" %}
+{% include bild.html datei="/bilder/hypholoma_polytrichi_06_cw.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/chrysomphalina_strombodes_01_md.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Boletus depilatus ---------------- Hypholoma polytrichi ----------------- Chrysomphalina strombodes" %}
 
 **Aktueller Fundkorbpilz:**
 
