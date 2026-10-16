@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-16.10.2026: [Coprinopsis picacea - Specht-Tintling](/pilze/coprinopsis-picacea-specht-tintling)  
+17.10.2026: [Oudemansiella mucida - Beringter Schleimrübling](/pilze/oudemansiella-mucida-beringter-schleimrübling)  
+16.10.2026: [Coprinopsis picacea - Specht-Tintling](/pilze/coprinopsis-picacea-specht-tintling)\
 15.10.2026: [Mycena galopus - Weißmilchender Helmling](/pilze/mycena-galopus-weißmilchender-helmling)\
 14.10.2026: [Russula densifolia - Dichtblättriger Schwärztäubling](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)\
 13.10.2026: [Armillaria ostoyae - Dunkler Hallimasch](/pilze/armillaria-ostoyae-dunkler-hallimasch)\
