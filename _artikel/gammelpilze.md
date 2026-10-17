@@ -63,6 +63,6 @@ Auch Pilze, die im Regen gestanden sind, können durch einsetzende Eiweißzerset
 
 > Stellen Sie an selbst gesammelte Pilze die gleichen Qualitätsansprüche, die Sie beim Kauf von Obst und Gemüse im Supermarkt stellen würden! 
 
-Bei allen gesundheitlichen Beeinträchtigungen und Vergiftungssymptomen aufgrund der oben aufgeführten Ursachen handelt es sich nicht um eine Pilzvergiftung.  Da Speisepilze grundsätzlich unbedenkliche Lebensmittel sind, die in einwandfreiem Zustand keine Gifte enthalten, muss von einer "Lebensmittelvergiftung" aufgrund verdorbener Ware gesprochen werden.  Die Symptome können sehr heftig sein, es kann zu Schwindel, Übelkeit, Erbrechen, Durchfall, Fieber, Bauchkolik, Schüttelfrost und Kreislaufkollaps kommen.  Zu beachten sind aber auch individuelle Unverträglichkeiten, wie sie bei nahezu allen Lebensmitteln vorkommen können.
+Bei allen gesundheitlichen Beeinträchtigungen und Vergiftungssymptomen aufgrund der oben aufgeführten Ursachen handelt es sich nicht um echte Pilzvergiftungen. Da Speisepilze grundsätzlich unbedenkliche Lebensmittel sind, die in einwandfreiem und ausreichend erhitztem Zustand keine Gifte enthalten, muss von einer "Lebensmittelvergiftung" aufgrund verdorbener Ware oder einer "unechten Pilzvergiftung" gesprochen werden. Die Symptome können sehr heftig sein, es kann zu Schwindel, Übelkeit, Erbrechen, Durchfall, Fieber, Bauchkolik, Schüttelfrost und Kreislaufkollaps kommen.  Zu beachten sind aber auch individuelle Unverträglichkeiten, wie sie bei nahezu allen Lebensmitteln vorkommen können.
 
 (August 2014)
