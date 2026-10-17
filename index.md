@@ -24,6 +24,14 @@ Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wen
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena-crocata-01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+18.10.2026: Leicht zu erkennen und ziemlich häufig ist der Gelbmilchende Helmling *Mycena crocata*. Er gehört zur Sektion *Lactipedes*, deren Vertreter beim Anbrechen des unteren Stielbereichs eine unterschiedlich gefärbte Flüssigkeit abgeben. Ist sie orange-gelbrot, handelt es sich zweifelsfrei um unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Bei pilzkundlichen Führungen mit Kindern bietet er eine nette Gelegenheit, teilnehmenden Mädchen die Fingernägel orangerot zu lackieren. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-crocata-gelbmilchender-helmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/oudemansiella_mucida_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -76,14 +84,6 @@ Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wen
 {% include abbildung_ende.html %}
 
 11.10.2026: Wie die allermeisten Täublinge ist auch unser heutiger aktueller [Fundkorbpilze](AA "Glossar-"), der Jodoformtäubling *Russula turci* eine ziemlich variable Art. Seine Hutfarben können lila bis violett, purpur, rötlich braun, grau-ocker oder oliv sein. Entscheidend ist der in der Stielbasis feststellbare Geruch nach Jodoform, der aber kommen und gehen oder ausnahmsweise fehlen kann. Er schmeckt mild, ist ein guter Speisepilz und wächst in Nadelwäldern. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-turci-jodoformtäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tricholomopsis_rutilans_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.10.2026 Dieser wunderschöne Pilz, der Purpurfilzige Holzritterling *Tricholomopsis rutilans*, ist zur Zeit in heimischen Nadel- und Mischwäldern zu finden und daher auch aktueller [Fundkorbpilz](AA "Glossar-"). Er wächst mit Vorliebe an vermoderten Kiefernstümpfen, aber auch an totem Fichten - oder Tannenholz. Seine Farbe variiert von lila über lilarötlich bis rötlich. Optisch ein Bilderbuchpilz hält der Geschmack leider nicht, was das Aussehen verspricht. Er schmeckt muffig und riecht auch so. (Jana Falk) [Mehr lesen >](/pilze/tricholomopsis-rutilans-purpurfilziger-holzritterling)
 
 <div style="clear:  both"></div>
 
