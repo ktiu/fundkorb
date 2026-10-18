@@ -24,6 +24,14 @@ Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wen
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pluteus_umbrosus_03_tl.jpg" %}
+{% include abbildung_ende.html %}
+
+19.10.2026: [Fundkorbpilze](AA "Glossar-") Mit dem Fahrrad unterwegs in einem der Wälder bei Dreieich (Rhein-Main-Gebiet). Den Dachpilz auf totem Nadelholz konnte ich unschwer beim Umdrehen des Hutes an den schwarz gefärbten Lamellen eingrenzen und an der körnig-flockigen Hutoberfläche makroskopisch festmachen. Damit hatte dieser seltene und attraktive aktuelle [Fundkorbpilze](AA "Glossar-") einen Namen: *Pluteus umbrosus*, Schwarzflockiger Dachpilz. (Adam Adamowicz) Mehr lesen >
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena-crocata-01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -76,14 +84,6 @@ Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wen
 {% include abbildung_ende.html %}
 
 12.10.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schopftintling *Coprinus comatus*, gehört zu den wenigen Arten, die von Pilz-Apps auf Anhieb sicher erkannt werden. Und zu denen, die es lohnt, gesammelt zu werden. Als Spargel- oder Suppenpilz oder für die Pfanne ist er bestens geeignet, solange er noch komplett weiß ist. Wenn er anfängt zu zerfließen, kann man ihn nur noch wie schwarze Tinte zum Schreiben verwenden. In England wird er *"Shaggy Mane"* (zottelige Mähne) genannt. (Dieter Gewalt) [Mehr lesen > ](/pilze/coprinus-comatus-schopftintling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_turci_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-11.10.2026: Wie die allermeisten Täublinge ist auch unser heutiger aktueller [Fundkorbpilze](AA "Glossar-"), der Jodoformtäubling *Russula turci* eine ziemlich variable Art. Seine Hutfarben können lila bis violett, purpur, rötlich braun, grau-ocker oder oliv sein. Entscheidend ist der in der Stielbasis feststellbare Geruch nach Jodoform, der aber kommen und gehen oder ausnahmsweise fehlen kann. Er schmeckt mild, ist ein guter Speisepilz und wächst in Nadelwäldern. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-turci-jodoformtäubling)
 
 <div style="clear:  both"></div>
 
