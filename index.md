@@ -24,6 +24,14 @@ Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wen
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hericium_erinaceum_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.10.2026: Bei Bayerisch Eisenstein an der Grenze zu Tschechien (genauer: in der Nähe zum Biergarten Schwellhäusl) ist mir ein Fund gelungen, den ich unbedingt als aktuellen [Fundkorbpilz](AA "Glossar-") melden möchte. Es ist der Igelstachelbart *Hericium erinaceum*,  den man an seinen langen herabhängenden Stacheln gut erkennen kann. (Günter Murk) [Mehr lesen >](/pilze/hericium-erinaceum-igel-stachelbart)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pluteus_umbrosus_03_tl.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -76,14 +84,6 @@ Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wen
 {% include abbildung_ende.html %}
 
 13.10.2026: Die ersten Hallimasche (*Armillaria ostoyae*) sind jetzt an Wegrändern in den Dietzenbacher Wäldern erschienen. Damit haben wir einen essbaren aktuellen [Fundkorbpilz](AA "Glossar-"), der allerdings nicht von jedem geschätzt wird. Bei empfindlichen Personen kann der Verzehr vorübergehende Magen- und Darmstörungen verursachen. Schon gar nicht geschätzt wird er von Förstern und Waldbesitzern, weil er Hand in Hand mit Borkenkäfern jeden Fichtenbestand vernichten kann. (Dieter Gewalt) [Mehr lesen >](/pilze/armillaria-ostoyae-dunkler-hallimasch)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/coprinus_comatus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.10.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Schopftintling *Coprinus comatus*, gehört zu den wenigen Arten, die von Pilz-Apps auf Anhieb sicher erkannt werden. Und zu denen, die es lohnt, gesammelt zu werden. Als Spargel- oder Suppenpilz oder für die Pfanne ist er bestens geeignet, solange er noch komplett weiß ist. Wenn er anfängt zu zerfließen, kann man ihn nur noch wie schwarze Tinte zum Schreiben verwenden. In England wird er *"Shaggy Mane"* (zottelige Mähne) genannt. (Dieter Gewalt) [Mehr lesen > ](/pilze/coprinus-comatus-schopftintling)
 
 <div style="clear:  both"></div>
 
