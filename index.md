@@ -27,7 +27,7 @@ Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wen
 {% include bild.html datei="/bilder/pluteus_umbrosus_03_tl.jpg" %}
 {% include abbildung_ende.html %}
 
-19.10.2026: [Fundkorbpilze](AA "Glossar-") Mit dem Fahrrad unterwegs in einem der Wälder bei Dreieich (Rhein-Main-Gebiet). Den Dachpilz auf totem Nadelholz konnte ich unschwer beim Umdrehen des Hutes an den schwarz gefärbten Lamellen eingrenzen und an der körnig-flockigen Hutoberfläche makroskopisch festmachen. Damit hatte dieser seltene und attraktive aktuelle [Fundkorbpilze](AA "Glossar-") einen Namen: *Pluteus umbrosus*, Schwarzflockiger Dachpilz. (Adam Adamowicz) [Mehr lesen >](/pilze/pluteus-umbrosus-schwarzflockiger-dachpilz)
+19.10.2026: [Fundkorbpilze](AA "Glossar-") Mit dem Fahrrad unterwegs in einem der Wälder bei Dreieich (Rhein-Main-Gebiet). Den Dachpilz auf totem Nadelholz konnte ich unschwer beim Umdrehen des Hutes an den schwarz gefärbten Lamellen eingrenzen und an der körnig-flockigen Hutoberfläche makroskopisch festmachen. Damit hatte dieser seltene und attraktive aktuelle [Fundkorbpilz](AA "Glossar-") einen Namen: *Pluteus umbrosus*, Schwarzflockiger Dachpilz. (Adam Adamowicz) [Mehr lesen >](/pilze/pluteus-umbrosus-schwarzflockiger-dachpilz)
 
 <div style="clear:  both"></div>
 
