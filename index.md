@@ -24,6 +24,14 @@ Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wen
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
+{% include abbildung_ende.html %}
+
+21.10.2026: Aktueller [Fundkorbpilze](AA "Glossar-") ist der Falsche Pfifferling *Hygrophoropsis aurantiaca*. Wie der Name schon vermuten lässt, ist er der klassische Doppelgänger des echten Pfifferlings, obwohl beide Arten nicht miteinander verwandt sind. Der „echte“ Pfifferling gehört zu den Leistlingen, der „falsche“ ist dagegen ein „echter“ Blätterpilz. Verwechslungen hätten keine schlimmen Folgen. Auch der Falsche Pfifferling ist essbar, aber im Geschmack längst nicht so gut wie der echte. (Dieter Gewalt) [Mehr lesen >](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hericium_erinaceum_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -78,15 +86,6 @@ Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wen
 14.10.2026: Unter den Täublingen nehmen die Schwärztäublinge eine Sonderstellung ein. Sie sind recht groß, kompakt, aber im Gegensatz zu den allermeisten anderen überhaupt nicht bunt. Das trifft auch auf unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Dichtblättrigen Schwärztäubling *Russula densifolia* zu. Sein kennzeichnendes Merkmal sind sehr eng stehende Lamellen, die mild aber nicht scharf, höchstens etwas schärflich oder pikant schmecken. Er gilt als essbar, ist aber mit Sicherheit keine Delikatesse. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)
 
 <div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/armillaria_ostoyae_05_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-13.10.2026: Die ersten Hallimasche (*Armillaria ostoyae*) sind jetzt an Wegrändern in den Dietzenbacher Wäldern erschienen. Damit haben wir einen essbaren aktuellen [Fundkorbpilz](AA "Glossar-"), der allerdings nicht von jedem geschätzt wird. Bei empfindlichen Personen kann der Verzehr vorübergehende Magen- und Darmstörungen verursachen. Schon gar nicht geschätzt wird er von Förstern und Waldbesitzern, weil er Hand in Hand mit Borkenkäfern jeden Fichtenbestand vernichten kann. (Dieter Gewalt) [Mehr lesen >](/pilze/armillaria-ostoyae-dunkler-hallimasch)
-
-<div style="clear:  both"></div>
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2026](/artikel/liste-aller-aktuellen-fundkorbpilze-2026)
