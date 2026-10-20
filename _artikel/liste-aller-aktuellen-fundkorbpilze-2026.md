@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-20.10.2026: [Hericium erinaceum - Igel-Stachelbart](/pilze/hericium-erinaceum-igel-stachelbart)  
+21.10.2026: [Hygrophoropsis aurantiaca - Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)  
+20.10.2026: [Hericium erinaceum - Igel-Stachelbart](/pilze/hericium-erinaceum-igel-stachelbart)\
 19.10.2026: [Pluteus umbrosus - Schwarzflockiger Dachpilz](/pilze/pluteus-umbrosus-schwarzflockiger-dachpilz)\
 18.10.2026: [Mycena crocata - Gelbmilchender Helmling](/pilze/mycena-crocata-gelbmilchender-helmling)\
 17.10.2026: [Oudemansiella mucida - Beringter Schleimrübling](/pilze/oudemansiella-mucida-beringter-schleimrübling)\
