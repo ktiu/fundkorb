@@ -24,6 +24,14 @@ Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wen
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmius_alliaceus_01a_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.10.2026: Aktueller [Fundkorbpilze](AA "Glossar-") ist der Saitenstielige Knoblauchschwindling *Marasmius alliaceus*. Wer eine gute Nase hat, kann ihn schon wahrnehmen bevor er ihn sieht. Mit seinen langen steifen schwarzbraunen Stielen fällt er als häufiger Wegrandpilz auf, der vor allem dünnere Laubholzästchen besiedelt. Er schmeckt (nicht immer) scharf und ist im Gegensatz zum [Echten Knoblauchschwindling *Marasmius scorodonius*](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling) nicht küchentauglich. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-alliaceus-saitenstieliger-knoblauchschwindling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -79,13 +87,6 @@ Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wen
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_densifolia_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.10.2026: Unter den Täublingen nehmen die Schwärztäublinge eine Sonderstellung ein. Sie sind recht groß, kompakt, aber im Gegensatz zu den allermeisten anderen überhaupt nicht bunt. Das trifft auch auf unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Dichtblättrigen Schwärztäubling *Russula densifolia* zu. Sein kennzeichnendes Merkmal sind sehr eng stehende Lamellen, die mild aber nicht scharf, höchstens etwas schärflich oder pikant schmecken. Er gilt als essbar, ist aber mit Sicherheit keine Delikatesse. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-densifolia-dichtblättriger-schwärztäubling)
-
-<div style="clear:  both"></div>
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2026](/artikel/liste-aller-aktuellen-fundkorbpilze-2026)
