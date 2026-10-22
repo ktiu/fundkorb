@@ -24,6 +24,14 @@ Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wen
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/macrolepiota_konradii_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.10.2026: Aktueller [Fundkorbpilze](AA "Glossar-") ist der Sternschuppige Riesenschirmling *Macrolepiota konradii*. Im Gegensatz zum [Großen Riesenschirmling *Macrolepiota procera*](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol), der das Innere von Wäldern meidet und eher auf Wiesen und an Wald- und Straßenrändern zu finden ist, wächst der Sternschuppige Riesenschirmling vor allem innerhalb von Wäldern. Er ist zwar viel kleiner als der Große, aber ebenso schmackhaft und als „Schnitzelchen“ zu verwenden. An der sternförmig aufreißenden Huthaut ist er recht gut zu erkennen. (Dieter Gewalt) [Mehr lesen >](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmius_alliaceus_01a_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -76,14 +84,6 @@ Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wen
 {% include abbildung_ende.html %}
 
 16.10.2026: Er ist fotogen, unser aktueller [Fundkorbpilz](AA "Glossar-"), der Specht-Tintling *Coprinopsis picacea*, und standorttreu. Er gleicht in der Gestalt dem leckeren und wesentlich häufigeren Schopftintling, aber unter dem schuppig aufreißenden [Velum](Velum "Glossar") ist die Huthaut schwarz. Das dabei entstehende Muster der Velumflocken erinnert an die gepunkteten Handschwingen einiger Spechtarten. In diesem Stadium ist der Pilz am schönsten. Danach beginnen die Hüte schnell zu schwarzer Tinte zu verfließen (Autolyse). Für die Küche taugt er nicht. (Ulrike Wegner) [Mehr lesen >](/pilze/coprinopsis-picacea-specht-tintling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_galopus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-15.10.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Weißmilchende Helmling *Mycena galopus*, einer von mehreren Helmlingsarten, deren Stiele bei Verletzung eine Flüssigkeit absondern. Deren Farbe ist das erste Unterscheidungsmerkmal, auf das zu achten ist. *Mycena galopus* ist eine der häufigsten Helmlingsarten, möglicherweise mit rückläufiger Tendenz. Die zierlichen kleinen Pilzchen sind hübsch anzuschauen, für die Küche aber nicht geeignet. (Dieter Gewalt) [Mehr lesen > ](/pilze/mycena-galopus-weißmilchender-helmling)
 
 <div style="clear:  both"></div>
 
