@@ -10,8 +10,8 @@ footer_scripts:
 ---
  {% include pilzsuche.html %} 
 
-**Pilzkundliche Führung für Einsteiger**\
-Die anhaltende extreme Trockenheit im Rhein-Main-Gebiet lässt nur noch sehr wenig Wachstum von am Boden erscheinenden Pilzen zu, was eine erfolgreiche Führung unmöglich macht. Sobald die Bedingungen besser werden, bieten wir wieder Führungen an, auch mit dem Thema **Der Wald und seine Pilze**.
+**Neuer Termin am Sonnatg, 1. November 2026, 10:00 Uhr:\
+Pilzkundliche Führung für Einsteiger** - Hier geht's zur [Anmeldung >](/termine)
 
 **Neu im Fundkorb:**
 
