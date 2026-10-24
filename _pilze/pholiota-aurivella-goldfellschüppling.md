@@ -26,7 +26,7 @@ Verwechselt werden könnte er mit dem Schleimigen Schüppling *Pholiota adiposa*
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/pholiota_aurivella_03_ml.jpeg" %}
-{% include abbildung_ende.html legende="Foto links: Dr. Markus Lang" %}
+{% include abbildung_ende.html legende="Foto: Dr. Markus Lang" %}
 
 ##### Makroskopische Unterschiede
 
