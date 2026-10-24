@@ -27,7 +27,7 @@ Pilzkundliche Führung für Einsteiger** - Hier geht's zur [Anmeldung >](/termin
 {% include bild.html datei="/bilder/pholiota_aurivella_07_uw.png" %}
 {% include abbildung_ende.html %}
 
-25.10.2026: Einen gewissen Charme muss man unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Goldfellschüppling *Pholiota aurivella* zugestehen, vor allem, wenn er so anmutig erscheint wie auf dem Foto von *Ulrike Wegne*r. Anfassen möchte man ihn aber doch nicht, denn was so schön goldgelb glänzt ist seine schmierige Schleimschicht. Auf dem Teller möchte ihn ebensowenig haben, obwohl er angeblich gar nicht so übel schmecken soll. (Dieter Gewalt) [Mehr lesen >](/pilze/pholiota-aurivella-goldfellschüppling)
+25.10.2026: Einen gewissen Charme muss man unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Goldfellschüppling *Pholiota aurivella* zugestehen, vor allem, wenn er so anmutig erscheint wie auf dem Foto von *Ulrike Wegne*r. Anfassen möchte man ihn aber doch nicht, denn was so schön goldgelb glänzt ist seine schmierige Schleimschicht. Auf dem Teller möchte man ihn ebensowenig haben, obwohl er angeblich gar nicht so übel schmecken soll. (Dieter Gewalt) [Mehr lesen >](/pilze/pholiota-aurivella-goldfellschüppling)
 
 <div style="clear:  both"></div>
 
