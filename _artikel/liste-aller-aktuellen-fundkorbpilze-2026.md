@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-24.10.2026: [Lyophyllum decastes - Büschelrasling](/pilze/lyophyllum-decastes-büschelrasling)  
+25.10.2026: [Pholiota aurivella - Goldfellschüppling](/pilze/pholiota-aurivella-goldfellschüppling)  
+24.10.2026: [Lyophyllum decastes - Büschelrasling](/pilze/lyophyllum-decastes-büschelrasling)\
 23.10.2026: [Macrolepiota konradii - Sternschuppiger Riesenschirmling](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)\
 22.10.2026: [Marasmius alliaceus - Saitenstieliger Knboblauchschwindling](/pilze/marasmius-alliaceus-saitenstieliger-knoblauchschwindling)\
 21.10.2026: [Hygrophoropsis aurantiaca - Falscher Pfifferling](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)\
