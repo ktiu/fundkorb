@@ -18,15 +18,15 @@ Ein Fell hat er nicht, auch wenn sein wissenschaftlicher Artname aurivella „Go
 
 **Man beachte die Aktualisierung am Ende der Seite!**
 
-{% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/pholiota_aurivella_02_dg.jpg" %}
-{% include abbildung_ende.html %}
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/pholiota_aurivella_06_uw.png" %}
+{% include abbildung_ende.html legende="Foto: Ulrike Wegner" %}
 
 Verwechselt werden könnte er mit dem Schleimigen Schüppling *Pholiota adiposa* mit schleimigem Stiel, der kalkhaltige Böden bevorzugt, deutlich seltener ist und kleinere Sporen hat. Kleine Sporen hat auch der [Pinsel-Schüppling *Pholiota jahnii*](/pilze/pholiota-jahnii-pinselschüppling), der zudem durch seine pinselartig aufgerichteten Hutschuppen auffällt. Eine ebenfalls deutliche Beschuppung, die auch den Stiel bekleidet, weist der Sparrige Schüppling *[Pholiota squarrosa](/pilze/pholiota-squarrosa-sparriger-schüppling)* auf. Dieser meist in großen Büscheln am Stammgrund von Laub- und Nadelbäumen (gern an Obstbäumen) wachsende Pilz ist stets trocken.
 
 {% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/pholiota_aurivella_03_ml.jpeg" %}
-{% include abbildung_ende.html legende="Foto: Dr. Markus Lang" %}
+{% include abbildung_ende.html legende="Foto links: Dr. Markus Lang" %}
 
 ##### Makroskopische Unterschiede
 
