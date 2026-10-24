@@ -23,9 +23,12 @@ Pilzkundliche Führung für Einsteiger** - Hier geht's zur [Anmeldung >](/termin
 
 **Aktueller Fundkorbpilz:**
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
+{% include abbildung_start.html stil="standard" %}
 {% include abbildung_ende.html %}
+
+25.10.2026: Einen gewissen Charme muss man unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Goldfellschüppling *Pholiota aurivella* zugestehen, vor allem, wenn er so anmutig erscheint wie auf dem Foto von *Ulrike Wegne*r. Anfassen möchte man ihn aber doch nicht, denn was so schön goldgelb glänzt ist seine schmierige Schleimschicht. Auf dem Teller möchte ihn ebensowenig haben, obwohl er angeblich gar nicht so übel schmecken soll. (Dieter Gewalt) Mehr lesen >
+
+<div style="clear:  both"></div>
 
 24.10.2026: Vom Frühjahr bis in den Spätherbst ist unser aktueller [Fundkorbpilz](AA "Glossar-") auf grasigen Flächen zu finden, oft mitten in Großstädten in Parkanlagen. Trotzdem wird er von den meisten Speisepilzsammlern nicht beachtet. Zu Unrecht. Der Büschelrasling *Lyophyllum decastes* hat Biss, einen angenehmen Pilzgeschmack und ein einziges Büschel kann ein ordentliches Pilzgericht liefern. Hin und wieder kommt er auch vereinzelt oder zu wenigen gesellig vor. (Dieter Gewalt) [Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
 
@@ -68,14 +71,6 @@ Pilzkundliche Führung für Einsteiger** - Hier geht's zur [Anmeldung >](/termin
 {% include abbildung_ende.html %}
 
 19.10.2026: Mit dem Fahrrad unterwegs in einem der Wälder bei Dreieich (Rhein-Main-Gebiet). Den Dachpilz auf totem Nadelholz konnte ich unschwer beim Umdrehen des Hutes an den schwarz gefärbten Lamellen eingrenzen und an der körnig-flockigen Hutoberfläche makroskopisch festmachen. Damit hatte dieser seltene und attraktive aktuelle [Fundkorbpilz](AA "Glossar-") einen Namen: *Pluteus umbrosus*, Schwarzflockiger Dachpilz. (Adam Adamowicz) [Mehr lesen >](/pilze/pluteus-umbrosus-schwarzflockiger-dachpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena-crocata-01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-18.10.2026: Leicht zu erkennen und ziemlich häufig ist der Gelbmilchende Helmling *Mycena crocata*. Er gehört zur Sektion *Lactipedes*, deren Vertreter beim Anbrechen des unteren Stielbereichs eine unterschiedlich gefärbte Flüssigkeit abgeben. Ist sie orange-gelbrot, handelt es sich zweifelsfrei um unseren aktuellen [Fundkorbpilz](AA "Glossar-"). Bei pilzkundlichen Führungen mit Kindern bietet er eine nette Gelegenheit, teilnehmenden Mädchen die Fingernägel orangerot zu lackieren. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-crocata-gelbmilchender-helmling)
 
 <div style="clear:  both"></div>
 
