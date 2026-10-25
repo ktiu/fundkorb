@@ -24,6 +24,14 @@ Pilzkundliche Führung für Einsteiger** - Hier geht's zur [Anmeldung >](/termin
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_pantherina_03_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+26.10.2026: Dass sich der Pantherpilz *Amanita pantherina* in unserer Dietzenbacher Parkanlage blicken lässt, ist nach meinen langjährigen Erfahrungen eine seltene Ausnahme und darum ist er heute auch mein aktueller [Fundkorbpilz](AA "Glossar-"). Als [Mykorrhizapartner](<Mykorrhiza "Glossar">) befindet sich eine Eiche in seiner unmittelbaren Nähe. Wer den Perlpilz in seiner Pfanne zu schätzen weiß, sollte sicher sein, dass er ihn nicht mit diesem giftigen Doppelgänger verwechselt. Die beiden sicher auseinanderzuhalten ist übrigens gar nicht so schwierig. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-pantherina-pantherpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pholiota_aurivella_07_uw.png" %}
 {% include abbildung_ende.html %}
 
