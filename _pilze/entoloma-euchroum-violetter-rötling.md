@@ -5,7 +5,7 @@ beschreibung:
   referenz: (Pers.) Donk 1949
   synonym: "Synonym: Rhodophyllus euchrous"
   erlaeuterung: euchroum = schön gefärbt
-  familie: Entolomaceae
+  familie: Entolomataceae
 profil:
   aktualisiert: 2023-12-23
   autor_in: Dieter Gewalt
