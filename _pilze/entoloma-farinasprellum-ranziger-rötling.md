@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Entoloma farinasprellum
   deutsch: Ranziger Rötling
   referenz: "Arnolds 1982 "
-  familie: Entolomaceae
+  familie: Entolomataceae
   erlaeuterung: farinasprellum = nach Mehl riechend
 profil:
   aktualisiert: 2020-08-02
