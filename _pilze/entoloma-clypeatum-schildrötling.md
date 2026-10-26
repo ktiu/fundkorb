@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Entoloma clypeatum
   deutsch: Schildrötling
   referenz: "(L.) P. Kumm. 1871 "
-  familie: Entolomaceae
+  familie: Entolomataceae
   erlaeuterung: clypeatum = schildtragend
 profil:
   aktualisiert: 2020-08-02
