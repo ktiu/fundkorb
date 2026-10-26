@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Entoloma araneosum
   deutsch: Spinnweb-Rötling
   referenz: (Quél.) M.M. Moser 1978
-  familie: Entolomaceae
+  familie: Entolomataceae
   erlaeuterung: araneosum =  spinnwebartig
 profil:
   aktualisiert: 2025-06-09
