@@ -24,6 +24,14 @@ Pilzkundliche Führung für Einsteiger** - Hier geht's zur [Anmeldung >](/termin
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/calocera_viscosa_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+27.10.2026: Seine Zeit ist jetzt gekommen und er wird von nun an für einige Monate die moosigen Böden unserer Nadelwälder schmücken. Der Klebrige Hörnling *Calocera viscosa* ist bildhübsch, wozu seine formenreiche korallenartige Form und die schöne Orangefarbe beitragen. Mit den echten Korallenpilzen ist unser aktueller [Fundkorbpilz](AA "Glossar-") nicht verwandt. Er ist zäh oder von Gummibärchen-artiger Konsistenz und ohne jeden Geschmackswert, aber ungiftig. Ein paar zurecht geschnipselte Teilchen können einem eintönigen Pilzgericht immerhin einen dekorativen Touch verleihen. (Dieter Gewalt) [Mehr lesen >](/pilze/calocera-viscosa-klebriger-hörnling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_pantherina_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -76,14 +84,6 @@ Pilzkundliche Führung für Einsteiger** - Hier geht's zur [Anmeldung >](/termin
 {% include abbildung_ende.html %}
 
 20.10.2026: Bei Bayerisch Eisenstein an der Grenze zu Tschechien (genauer: in der Nähe zum Biergarten Schwellhäusl) ist mir ein Fund gelungen, den ich unbedingt als aktuellen [Fundkorbpilz](AA "Glossar-") melden möchte. Es ist der Igelstachelbart *Hericium erinaceum*,  den man an seinen langen herabhängenden Stacheln gut erkennen kann. (Günter Murk) [Mehr lesen >](/pilze/hericium-erinaceum-igel-stachelbart)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pluteus_umbrosus_03_tl.jpg" %}
-{% include abbildung_ende.html %}
-
-19.10.2026: Mit dem Fahrrad unterwegs in einem der Wälder bei Dreieich (Rhein-Main-Gebiet). Den Dachpilz auf totem Nadelholz konnte ich unschwer beim Umdrehen des Hutes an den schwarz gefärbten Lamellen eingrenzen und an der körnig-flockigen Hutoberfläche makroskopisch festmachen. Damit hatte dieser seltene und attraktive aktuelle [Fundkorbpilz](AA "Glossar-") einen Namen: *Pluteus umbrosus*, Schwarzflockiger Dachpilz. (Adam Adamowicz) [Mehr lesen >](/pilze/pluteus-umbrosus-schwarzflockiger-dachpilz)
 
 <div style="clear:  both"></div>
 
