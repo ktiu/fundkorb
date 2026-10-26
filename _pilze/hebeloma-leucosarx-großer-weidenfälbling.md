@@ -4,7 +4,7 @@ beschreibung:
   deutsch: Großer Weidenfälbling
   referenz: "P.D.Orton 1960 "
   familie: "Hymenogastraceae  (zuvor: Cortinariaceae)"
-  erlaeuterung: leuco = weiß; sarx = ?
+  erlaeuterung: leucosarx = weißfleischig
 profil:
   aktualisiert: 2020-08-05
   autor_in: Dieter Gewalt
