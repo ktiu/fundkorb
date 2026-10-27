@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-27.10.2026: [Calocera viscosa - Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)  
+28.10.2026: [Agaricus vaporarius - Kompostegerling](/pilze/agaricus-vaporarius-kompostegerling)  
+27.10.2026: [Calocera viscosa - Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)\
 26.10.2026: [Amanita pantherina - Pantherpilz](/pilze/amanita-pantherina-pantherpilz)\
 25.10.2026: [Pholiota aurivella - Goldfellschüppling](/pilze/pholiota-aurivella-goldfellschüppling)\
 24.10.2026: [Lyophyllum decastes - Büschelrasling](/pilze/lyophyllum-decastes-büschelrasling)\
