@@ -27,7 +27,7 @@ Pilzkundliche Führung für Einsteiger** - Hier geht's zur [Anmeldung >](/termin
 {% include bild.html datei="/bilder/agaricus_vaporarius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-28.10.2026: Es kommt immer wieder vor: ein Kind knabbert in einer Kita an einem Pilz. Das Personal ist besorgt, die Giftnotrufzentrale schaltet einen Pilzsachverständigen ein. Im akuten Fall war eine Kita in Frankfurt am Main-Sachsenhausen betroffen. Mir stand ein leider nur ein sehr unscharfes Foto zur Identifikation zur Verfügung, auf dem ein aufgebrochener Champignon mit auffallend dunklem Hut und rötendem Fleisch zu erkennen war. Damit konnte Entwarnung gegeben werden. Bei dem Pilz handelte es sich offensichtlich um den Kompostegerling *Agaricus vaporarius*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"), der hier in einer älteren Standort-Abbildung zu sehen ist. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-vaporarius-kompostegerling)
+28.10.2026: Es kommt immer wieder vor: ein Kind knabbert in einer Kita an einem Pilz. Das Personal ist besorgt, die Giftnotrufzentrale schaltet einen Pilzsachverständigen ein. Im akuten Fall war eine Kita in Frankfurt am Main-Sachsenhausen betroffen. Mir stand ein leider nur ein sehr unscharfes Foto zur Identifikation zur Verfügung, auf dem ein aufgebrochener Champignon mit auffallend dunklem Hut und rötendem Fleisch zu erkennen war. Damit konnte Entwarnung gegeben werden. Bei dem Pilz handelte es sich offensichtlich um den Kompostegerling *Agaricus vaporarius*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), der hier in einer älteren Standort-Abbildung zu sehen ist. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-vaporarius-kompostegerling)
 
 <div style="clear:  both"></div>
 
