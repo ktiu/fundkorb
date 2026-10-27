@@ -24,6 +24,14 @@ Pilzkundliche Führung für Einsteiger** - Hier geht's zur [Anmeldung >](/termin
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/agaricus_vaporarius_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.10.2026: Es kommt immer wieder vor: ein Kind knabbert in einer Kita an einem Pilz. Das Personal ist besorgt, die Giftnotrufzentrale schaltet einen Pilzsachverständigen ein. Im akuten Fall war eine Kita in Frankfurt am Main-Sachsenhausen betroffen. Mir stand ein leider nur ein sehr unscharfes Foto zur Identifikation zur Verfügung, auf dem ein aufgebrochener Champignon mit auffallend dunklem Hut und rötendem Fleisch zu erkennen war. Damit konnte Entwarnung gegeben werden. Bei dem Pilz handelte es sich offensichtlich um den Kompostegerling *Agaricus vaporarius*, unserem aktuellen [Fundkorbpilz](AA "Glossar-"), der hier in einer älteren Standort-Abbildung zu sehen ist. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-vaporarius-kompostegerling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/calocera_viscosa_06_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -76,14 +84,6 @@ Pilzkundliche Führung für Einsteiger** - Hier geht's zur [Anmeldung >](/termin
 {% include abbildung_ende.html %}
 
 21.10.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Falsche Pfifferling *Hygrophoropsis aurantiaca*. Wie der Name schon vermuten lässt, ist er der klassische Doppelgänger des echten Pfifferlings, obwohl beide Arten nicht miteinander verwandt sind. Der „echte“ Pfifferling gehört zu den Leistlingen, der „falsche“ ist dagegen ein „echter“ Blätterpilz. Verwechslungen hätten keine schlimmen Folgen. Auch der Falsche Pfifferling ist essbar, aber im Geschmack längst nicht so gut wie der echte. (Dieter Gewalt) [Mehr lesen >](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hericium_erinaceum_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.10.2026: Bei Bayerisch Eisenstein an der Grenze zu Tschechien (genauer: in der Nähe zum Biergarten Schwellhäusl) ist mir ein Fund gelungen, den ich unbedingt als aktuellen [Fundkorbpilz](AA "Glossar-") melden möchte. Es ist der Igelstachelbart *Hericium erinaceum*,  den man an seinen langen herabhängenden Stacheln gut erkennen kann. (Günter Murk) [Mehr lesen >](/pilze/hericium-erinaceum-igel-stachelbart)
 
 <div style="clear:  both"></div>
 
