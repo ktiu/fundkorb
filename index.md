@@ -24,6 +24,14 @@ Pilzkundliche Führung für Einsteiger**  ist **ausgebucht**. Neue Termine werde
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leucoagaricus_barssii_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+29.10.2026: Unser Dietzenbacher Carré ist für interessante Pilzfunde bekannt. Aktuelles Beispiel und damit heutiger [Fundkorbpilz](AA "Glossar-") ist der Wurzelnde Egerlingsschirmling *Leucoagaricus barssii*, eine seltene Art mit einem etwas irreführenden deutschen Namen. Zu seinen auffälligsten Merkmalen gehört die „Wurzel“, was so natürlich nicht zutrifft. Pilze sind keine Pflanzen. Was da als Wurzel bezeichnet wird ist nur eine wurzelartige Verlängerung des Stiels im Boden. (Dieter Gewalt) [Mehr lesen >](/pilze/leucoagaricus-barssii-wurzelnder-egerlingsschirmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/agaricus_vaporarius_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -76,14 +84,6 @@ Pilzkundliche Führung für Einsteiger**  ist **ausgebucht**. Neue Termine werde
 {% include abbildung_ende.html %}
 
 22.10.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Saitenstielige Knoblauchschwindling *Marasmius alliaceus*. Wer eine gute Nase hat, kann ihn schon wahrnehmen bevor er ihn sieht. Mit seinen langen steifen schwarzbraunen Stielen fällt er als häufiger Wegrandpilz auf, der vor allem dünnere Laubholzästchen besiedelt. Er schmeckt (nicht immer) scharf und ist im Gegensatz zum [Echten Knoblauchschwindling *Marasmius scorodonius*](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling) nicht küchentauglich. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-alliaceus-saitenstieliger-knoblauchschwindling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrophoropsis_aurantiaca_03_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-21.10.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Falsche Pfifferling *Hygrophoropsis aurantiaca*. Wie der Name schon vermuten lässt, ist er der klassische Doppelgänger des echten Pfifferlings, obwohl beide Arten nicht miteinander verwandt sind. Der „echte“ Pfifferling gehört zu den Leistlingen, der „falsche“ ist dagegen ein „echter“ Blätterpilz. Verwechslungen hätten keine schlimmen Folgen. Auch der Falsche Pfifferling ist essbar, aber im Geschmack längst nicht so gut wie der echte. (Dieter Gewalt) [Mehr lesen >](/pilze/hygrophoropsis-aurantiaca-falscher-pfifferling)
 
 <div style="clear:  both"></div>
 
