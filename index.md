@@ -10,8 +10,8 @@ footer_scripts:
 ---
  {% include pilzsuche.html %} 
 
-Unsere nächste **pilzkundliche Führung für Einsteiger** ist am **Samstag, 7. November 2026, 10:00 Uhr  
-**Hier geht's zur [Anmeldung >](/termine)
+Unsere nächste **pilzkundliche Führung für Einsteiger** ist am **Samstag, 7. November 2026, 10:00 Uhr**  
+Hier geht's zur [Anmeldung >](/termine)
 
 **Neu im Fundkorb:**
 
