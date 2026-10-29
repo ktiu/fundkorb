@@ -10,8 +10,8 @@ footer_scripts:
 ---
  {% include pilzsuche.html %} 
 
-**Unser Termin am Sonntag, 1. November 2026, 10:00 Uhr:\
-Pilzkundliche Führung für Einsteiger**  ist **ausgebucht**. Neue Termine werden in Kürze angeboten
+Unsere nächste **pilzkundliche Führung für Einsteiger** ist am **Samstag, 7. November 2026, 10:00 Uhr  
+**Hier geht's zur [Anmeldung >](/termine)
 
 **Neu im Fundkorb:**
 
