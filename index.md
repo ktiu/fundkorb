@@ -24,6 +24,14 @@ Pilzkundliche Führung für Einsteiger**  ist **ausgebucht**. Neue Termine werde
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pholiota_populnea_03_hs.jpg" %}
+{% include abbildung_ende.html %}
+
+30.10.2026: Wenn irgendwo gefällte Pappelstämme herumliegen, dauert es meist nicht lange, bis unser aktueller [Fundkorbpilz](AA "Glossar-"), der Pappelschüppling *Pholiota populnea*, vor allem an den Schnittflächen erscheint. Die Stämme lagen im Offenbacher Stadtteil Bieber nahe eines überfluteten Gebiets an der Brücke. Hut und Stiel sind sparrig beschuppt, sein Fleisch ist zäh und schmeckt bitter - also nichts für die Küche. (Adam Adamowitz) [Mehr lesen >](/pilze/pholiota-populnea-pappelschüppling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leucoagaricus_barssii_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -76,14 +84,6 @@ Pilzkundliche Führung für Einsteiger**  ist **ausgebucht**. Neue Termine werde
 {% include abbildung_ende.html %}
 
 23.10.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sternschuppige Riesenschirmling *Macrolepiota konradii*. Im Gegensatz zum [Großen Riesenschirmling *Macrolepiota procera*](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol), der das Innere von Wäldern meidet und eher auf Wiesen und an Wald- und Straßenrändern zu finden ist, wächst der Sternschuppige Riesenschirmling vor allem innerhalb von Wäldern. Er ist zwar viel kleiner als der Große, aber ebenso schmackhaft und als „Schnitzelchen“ zu verwenden. An der sternförmig aufreißenden Huthaut ist er recht gut zu erkennen. (Dieter Gewalt) [Mehr lesen >](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmius_alliaceus_01a_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.10.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Saitenstielige Knoblauchschwindling *Marasmius alliaceus*. Wer eine gute Nase hat, kann ihn schon wahrnehmen bevor er ihn sieht. Mit seinen langen steifen schwarzbraunen Stielen fällt er als häufiger Wegrandpilz auf, der vor allem dünnere Laubholzästchen besiedelt. Er schmeckt (nicht immer) scharf und ist im Gegensatz zum [Echten Knoblauchschwindling *Marasmius scorodonius*](/pilze/marasmius-scorodonius-echter-knoblauch-schwindling) nicht küchentauglich. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmius-alliaceus-saitenstieliger-knoblauchschwindling)
 
 <div style="clear:  both"></div>
 
