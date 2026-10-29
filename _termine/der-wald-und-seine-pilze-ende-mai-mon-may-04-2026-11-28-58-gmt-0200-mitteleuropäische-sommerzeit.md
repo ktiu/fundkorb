@@ -1,6 +1,6 @@
 ---
 aktivitaet: Pilzkundliche Führung für Einsteiger
-zeit: 2026-11-01T10:00:45.359Z
+zeit: 2026-11-07T10:00:45.359Z
 bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
