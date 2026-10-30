@@ -10,7 +10,7 @@ footer_scripts:
 ---
  {% include pilzsuche.html %} 
 
-Unsere nächste **pilzkundliche Führung für Einsteiger** ist am **Samstag, 7. November 2026, 10:00 Uhr**  
+Unsere nächste **pilzkundliche Führung für Einsteiger** ist am **Samstag, 7. November 2026, 10:00 Uhr**\
 Hier geht's zur [Anmeldung >](/termine)
 
 **Neu im Fundkorb:**
@@ -22,6 +22,14 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html legende="Boletus depilatus ---------------- Hypholoma polytrichi ----------------- Chrysomphalina strombodes" %}
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/typhula_erythropus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+31.10.2026: Auf feuchten vermodernden Blattresten und dünnen Stielen wachsen winzige Pilzchen, die höchstens mal zufällig durch ihre weiße Farbe auffallen, ansonsten aber nur bei gezielter Suche zu finden sind. Ein typisches Beispiel ist das Rotbraunstielige Sklerotienkeulchen *Typhula erythropus*. Diesen aktuellen [Fundkorbpilz](AA "Glossar-") haben wir in einer Dietzenbacher Parkanlage entdeckt und uns sehr über den Fund gefreut. Obwohl ihn kaum jemand kennt, handelt es sich um eine häufige Art, die vor allem im Spätherbst erscheint. (Dieter Gewalt) [Mehr lesen >](/pilze/typhula-erythropus-rotbraunstieliges-sklerotienkeulchen)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pholiota_populnea_03_hs.jpg" %}
@@ -76,14 +84,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 24.10.2026: Vom Frühjahr bis in den Spätherbst ist unser aktueller [Fundkorbpilz](AA "Glossar-") auf grasigen Flächen zu finden, oft mitten in Großstädten in Parkanlagen. Trotzdem wird er von den meisten Speisepilzsammlern nicht beachtet. Zu Unrecht. Der Büschelrasling *Lyophyllum decastes* hat Biss, einen angenehmen Pilzgeschmack und ein einziges Büschel kann ein ordentliches Pilzgericht liefern. Hin und wieder kommt er auch vereinzelt oder zu wenigen gesellig vor. (Dieter Gewalt) [Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/macrolepiota_konradii_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-23.10.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Sternschuppige Riesenschirmling *Macrolepiota konradii*. Im Gegensatz zum [Großen Riesenschirmling *Macrolepiota procera*](/pilze/macrolepiota-procera-großer-riesenschirmling-parasol), der das Innere von Wäldern meidet und eher auf Wiesen und an Wald- und Straßenrändern zu finden ist, wächst der Sternschuppige Riesenschirmling vor allem innerhalb von Wäldern. Er ist zwar viel kleiner als der Große, aber ebenso schmackhaft und als „Schnitzelchen“ zu verwenden. An der sternförmig aufreißenden Huthaut ist er recht gut zu erkennen. (Dieter Gewalt) [Mehr lesen >](/pilze/macrolepiota-konradii-sternschuppiger-riesenschirmling)
 
 <div style="clear:  both"></div>
 
