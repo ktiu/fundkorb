@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-30.10.2026: [Pholiota populnea - Pappelschüppling](/pilze/pholiota-populnea-pappelschüppling)  
+31.10.2026: [Typhula erythropus - Rotbraunstieliges Sklerotienkeulchen](/pilze/typhula-erythropus-rotbraunstieliges-sklerotienkeulchen)\
+30.10.2026: [Pholiota populnea - Pappelschüppling](/pilze/pholiota-populnea-pappelschüppling)\
 29.10.2026: [Leucoagaricua barssii - Wurzelnder Egerlingsschirmling](/pilze/leucoagaricus-barssii-wurzelnder-egerlingsschirmling)\
 28.10.2026: [Agaricus vaporarius - Kompostegerling](/pilze/agaricus-vaporarius-kompostegerling)\
 27.10.2026: [Calocera viscosa - Klebriger Hörnling](/pilze/calocera-viscosa-klebriger-hörnling)\
