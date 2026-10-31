@@ -25,4 +25,4 @@ Um den Buchenblatthelmling kennenzulernen sollte man ihn während der Spätherbs
 
 Die weißen halbkugeligen oder glockigen Hütchen werden bis zu 5 mm breit, selten etwas mehr, und sind fast bis zur Mitte gerieft. Die wenigen Lamellen (meist 8 bis maximal 12) sind oft nur rudimentär ausgebildet. Den Stiel erreichen sie kaum oder sind nur sehr schmal angeheftet, niemals am Stiel herablaufend.
 
-Ähnlich ist der noch kleinere und wesentlich seltenere Winzige Eichenblatthelmling *Mycena polyadelpha*, der jedoch fast ausschließlich auf verrottenden Eichenblättern wächst. Seine wenigen Lamellen sind, wenn überhaupt vorhanden und den Stiel erreichend, an diesem breit angewachsen oder bogig herablaufend.
+Ähnlich ist der noch kleinere [Winzige Eichenblatthelmling *Mycena polyadelpha*](/pilze/mycena-polyadelpha-winziger-eichenblatthelmling), der jedoch fast ausschließlich auf verrottenden Eichenblättern wächst. Seine wenigen Lamellen sind, wenn überhaupt vorhanden und den Stiel erreichend, an diesem breit angewachsen oder bogig herablaufend.
