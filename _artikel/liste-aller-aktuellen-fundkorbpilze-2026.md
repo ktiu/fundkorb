@@ -3,6 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
+01.11.2026: [Mycena polyadelpha - Winziger Eichenblatthelmling](/pilze/mycena-polyadelpha-winziger-eichenblatthelmling)
+
 31.10.2026: [Typhula erythropus - Rotbraunstieliges Sklerotienkeulchen](/pilze/typhula-erythropus-rotbraunstieliges-sklerotienkeulchen)\
 30.10.2026: [Pholiota populnea - Pappelschüppling](/pilze/pholiota-populnea-pappelschüppling)\
 29.10.2026: [Leucoagaricua barssii - Wurzelnder Egerlingsschirmling](/pilze/leucoagaricus-barssii-wurzelnder-egerlingsschirmling)\
