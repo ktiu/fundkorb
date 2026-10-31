@@ -24,6 +24,14 @@ Hier geht's zur [Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_polyadelpha_01_er.jpeg" %}
+{% include abbildung_ende.html %}
+
+01.11.2026: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-") kann man nur rein zufällig finden oder wenn man in einer Laubschicht die darunter liegenden feuchten und verrottenden Blattreste akribisch in Augenschein nimmt. Es ist der Winzige Eichenblatthelmling *Mycena polyadelpha*, dessen weiße Hütchen gerade mal 0,5 bis 3 Millimeter Durchmesser erreichen. Die Stiele können dagegen bis zu 5 Zentimeter lang werden. Gefunden haben wir die Winzlinge mal wieder in unserer Dietzenbacher Parkanlage. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-polyadelpha-winziger-eichenblatthelmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/typhula_erythropus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -76,14 +84,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 25.10.2026: Einen gewissen Charme muss man unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Goldfellschüppling *Pholiota aurivella* zugestehen, vor allem, wenn er so anmutig erscheint wie auf dem Foto von *Ulrike Wegne*r. Anfassen möchte man ihn aber doch nicht, denn was so schön goldgelb glänzt ist seine schmierige Schleimschicht. Auf dem Teller möchte man ihn ebensowenig haben, obwohl er angeblich gar nicht so übel schmecken soll. (Dieter Gewalt) [Mehr lesen >](/pilze/pholiota-aurivella-goldfellschüppling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lyophyllum_decastes_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-24.10.2026: Vom Frühjahr bis in den Spätherbst ist unser aktueller [Fundkorbpilz](AA "Glossar-") auf grasigen Flächen zu finden, oft mitten in Großstädten in Parkanlagen. Trotzdem wird er von den meisten Speisepilzsammlern nicht beachtet. Zu Unrecht. Der Büschelrasling *Lyophyllum decastes* hat Biss, einen angenehmen Pilzgeschmack und ein einziges Büschel kann ein ordentliches Pilzgericht liefern. Hin und wieder kommt er auch vereinzelt oder zu wenigen gesellig vor. (Dieter Gewalt) [Mehr lesen >](/pilze/lyophyllum-decastes-büschelrasling)
 
 <div style="clear:  both"></div>
 
