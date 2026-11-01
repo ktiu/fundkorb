@@ -24,6 +24,14 @@ Hier geht's zur [Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/psathyrella_piluliformis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+02.11.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der bei einer pilzkundlichen Führung mehrfach gefundene Wässrige Mürbling *Psathyrella piluliformis*, der nicht umsonst auch Weißstieliges [Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen) genannt wird. Erstens, weil er stets ein weißes Stielchen hat. Zweitens, weil er ein guter Speisepilz ist. Ihn zu sammeln kann aber nur erfahrenen Pilzsammlern empfohlen werden. Sie erkennen ihn auch an den glanzlosen dunkelbraunen Hütchen. Und an seinem meist massenhaft dichtbüscheligen Vorkommen an Totholz. (Dieter Gewalt) [Mehr lesen >](/pilze/psathyrella-piluliformis-wässriger-mürbling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_polyadelpha_01_er.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -76,14 +84,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 26.10.2026: Dass sich der Pantherpilz *Amanita pantherina* in unserer Dietzenbacher Parkanlage blicken lässt, ist nach meinen langjährigen Erfahrungen eine seltene Ausnahme und darum ist er heute auch mein aktueller [Fundkorbpilz](AA "Glossar-"). Als [Mykorrhizapartner](<Mykorrhiza "Glossar">) befindet sich eine Eiche in seiner unmittelbaren Nähe. Wer den Perlpilz in seiner Pfanne zu schätzen weiß, sollte sicher sein, dass er ihn nicht mit diesem giftigen Doppelgänger verwechselt. Die beiden sicher auseinanderzuhalten ist übrigens gar nicht so schwierig. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-pantherina-pantherpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pholiota_aurivella_07_uw.png" %}
-{% include abbildung_ende.html %}
-
-25.10.2026: Einen gewissen Charme muss man unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Goldfellschüppling *Pholiota aurivella* zugestehen, vor allem, wenn er so anmutig erscheint wie auf dem Foto von *Ulrike Wegne*r. Anfassen möchte man ihn aber doch nicht, denn was so schön goldgelb glänzt ist seine schmierige Schleimschicht. Auf dem Teller möchte man ihn ebensowenig haben, obwohl er angeblich gar nicht so übel schmecken soll. (Dieter Gewalt) [Mehr lesen >](/pilze/pholiota-aurivella-goldfellschüppling)
 
 <div style="clear:  both"></div>
 
