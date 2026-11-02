@@ -24,6 +24,14 @@ Hier geht's zur [Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/leocarpus_fragilis_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+03.11.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), das Löwenfrüchtchen *Leocarpus fragilis* ist ein [Myxomyzet](Myxomyzeten "Glossar") und vereint daher die Eigenschaften von Tieren und Pilzen in sich. In einem Kiefernwald bei Dietzenbach waren alle Stadien auf engstem Raum zu sehen, vom netzartigen [Plasmodium](Plasmodium "Glossar") mit den ersten hell-gelben bis zu später dunkel rotbraunen Fruchtkörpern. Einzeln wären sie leicht zu übersehen. Da sie aber dicht gedrängt wachsen, waren Kiefernnadeln, Reisig- und Rindenstückchen rundum mit ihnen bewachsen. (Ulrike Wegner) [Mehr lesen >](/pilze/leocarpus-fragilis-löwenfrüchtchen)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/psathyrella_piluliformis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -76,14 +84,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 27.10.2026: Seine Zeit ist jetzt gekommen und er wird von nun an für einige Monate die moosigen Böden unserer Nadelwälder schmücken. Der Klebrige Hörnling *Calocera viscosa* ist bildhübsch, wozu seine formenreiche korallenartige Form und die schöne Orangefarbe beitragen. Mit den echten Korallenpilzen ist unser aktueller [Fundkorbpilz](AA "Glossar-") nicht verwandt. Er ist zäh oder von Gummibärchen-artiger Konsistenz und ohne jeden Geschmackswert, aber ungiftig. Ein paar zurecht geschnipselte Teilchen können einem eintönigen Pilzgericht immerhin einen dekorativen Touch verleihen. (Dieter Gewalt) [Mehr lesen >](/pilze/calocera-viscosa-klebriger-hörnling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_pantherina_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-26.10.2026: Dass sich der Pantherpilz *Amanita pantherina* in unserer Dietzenbacher Parkanlage blicken lässt, ist nach meinen langjährigen Erfahrungen eine seltene Ausnahme und darum ist er heute auch mein aktueller [Fundkorbpilz](AA "Glossar-"). Als [Mykorrhizapartner](<Mykorrhiza "Glossar">) befindet sich eine Eiche in seiner unmittelbaren Nähe. Wer den Perlpilz in seiner Pfanne zu schätzen weiß, sollte sicher sein, dass er ihn nicht mit diesem giftigen Doppelgänger verwechselt. Die beiden sicher auseinanderzuhalten ist übrigens gar nicht so schwierig. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-pantherina-pantherpilz)
 
 <div style="clear:  both"></div>
 
