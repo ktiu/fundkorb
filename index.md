@@ -79,14 +79,6 @@ Hier geht's zur [Anmeldung >](/termine)
 
 <div style="clear:  both"></div>
 
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/calocera_viscosa_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-27.10.2026: Seine Zeit ist jetzt gekommen und er wird von nun an für einige Monate die moosigen Böden unserer Nadelwälder schmücken. Der Klebrige Hörnling *Calocera viscosa* ist bildhübsch, wozu seine formenreiche korallenartige Form und die schöne Orangefarbe beitragen. Mit den echten Korallenpilzen ist unser aktueller [Fundkorbpilz](AA "Glossar-") nicht verwandt. Er ist zäh oder von Gummibärchen-artiger Konsistenz und ohne jeden Geschmackswert, aber ungiftig. Ein paar zurecht geschnipselte Teilchen können einem eintönigen Pilzgericht immerhin einen dekorativen Touch verleihen. (Dieter Gewalt) [Mehr lesen >](/pilze/calocera-viscosa-klebriger-hörnling)
-
-<div style="clear:  both"></div>
-
 - - -
 
 [Liste aller aktuellen Fundkorbpilze 2026](/artikel/liste-aller-aktuellen-fundkorbpilze-2026)
