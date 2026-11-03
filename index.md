@@ -24,6 +24,14 @@ Hier geht's zur [Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+04.11.2026: Die ersten Violetten Rötelritterlinge (*Lepista nuda*) sind da! Bei diesem Herbstboten und aktuellen [Fundkorbpilz](AA "Glossar-") sind vor allem die Lamellen violett und auch am Stiel findet man diese im Pilzreich nicht gerade häufige Farbe. Er wächst gern zusammen mit der [Nebelkappe](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe) an Waldwegrändern und ist auch in Parkanlagen und Gärten nahezu überall häufig. Sein etwas süßlicher Geschmack wird nicht von allen Pilzfreunden geschätzt. (Dieter Gewalt) [Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/leocarpus_fragilis_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,14 +76,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 29.10.2026: Unser Dietzenbacher Carré ist für interessante Pilzfunde bekannt. Aktuelles Beispiel und damit heutiger [Fundkorbpilz](AA "Glossar-") ist der Wurzelnde Egerlingsschirmling *Leucoagaricus barssii*, eine seltene Art mit einem etwas irreführenden deutschen Namen. Zu seinen auffälligsten Merkmalen gehört die „Wurzel“, was so natürlich nicht zutrifft. Pilze sind keine Pflanzen. Was da als Wurzel bezeichnet wird ist nur eine wurzelartige Verlängerung des Stiels im Boden. (Dieter Gewalt) [Mehr lesen >](/pilze/leucoagaricus-barssii-wurzelnder-egerlingsschirmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/agaricus_vaporarius_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-28.10.2026: Es kommt immer wieder vor: ein Kind knabbert in einer Kita an einem Pilz. Das Personal ist besorgt, die Giftnotrufzentrale schaltet einen Pilzsachverständigen ein. Im akuten Fall war eine Kita in Frankfurt am Main-Sachsenhausen betroffen. Mir stand ein leider nur ein sehr unscharfes Foto zur Identifikation zur Verfügung, auf dem ein aufgebrochener Champignon mit auffallend dunklem Hut und rötendem Fleisch zu erkennen war. Damit konnte Entwarnung gegeben werden. Bei dem Pilz handelte es sich offensichtlich um den Kompostegerling *Agaricus vaporarius*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), der hier in einer älteren Standort-Abbildung zu sehen ist. (Dieter Gewalt) [Mehr lesen >](/pilze/agaricus-vaporarius-kompostegerling)
 
 <div style="clear:  both"></div>
 
