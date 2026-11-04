@@ -24,6 +24,14 @@ Hier geht's zur [Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_parazurea_02_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+05.11.2026: Bei unserer Exkursion am Sonntag fanden wir mehrere Täublingsarten, u. a. auch den Blaugrünen Reiftäubling *Russula parazurea*, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Wer sich mit Täublingen auskennt, kann ihn durchaus in der Küche verwenden. Er zählt zu den absolut schmackhaften Arten, ist aber nicht gerade häufig. Wenn der Reif auf der Huthaut abgewischt ist, kann er leicht mit dem häufigen [Papagei-Täubling](/pilze/russula-ionochlora-papagei-täubling) verwechselt werden, der ebenfalls essbar ist und dem wir auch begegnet sind. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-parazurea-blaugrüner-reiftäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -68,14 +76,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 30.10.2026: Wenn irgendwo gefällte Pappelstämme herumliegen, dauert es meist nicht lange, bis unser aktueller [Fundkorbpilz](AA "Glossar-"), der Pappelschüppling *Pholiota populnea*, vor allem an den Schnittflächen erscheint. Die Stämme lagen im Offenbacher Stadtteil Bieber nahe eines überfluteten Gebiets an der Brücke. Hut und Stiel sind sparrig beschuppt, sein Fleisch ist zäh und schmeckt bitter - also nichts für die Küche. (Adam Adamowitz) [Mehr lesen >](/pilze/pholiota-populnea-pappelschüppling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leucoagaricus_barssii_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-29.10.2026: Unser Dietzenbacher Carré ist für interessante Pilzfunde bekannt. Aktuelles Beispiel und damit heutiger [Fundkorbpilz](AA "Glossar-") ist der Wurzelnde Egerlingsschirmling *Leucoagaricus barssii*, eine seltene Art mit einem etwas irreführenden deutschen Namen. Zu seinen auffälligsten Merkmalen gehört die „Wurzel“, was so natürlich nicht zutrifft. Pilze sind keine Pflanzen. Was da als Wurzel bezeichnet wird ist nur eine wurzelartige Verlängerung des Stiels im Boden. (Dieter Gewalt) [Mehr lesen >](/pilze/leucoagaricus-barssii-wurzelnder-egerlingsschirmling)
 
 <div style="clear:  both"></div>
 
