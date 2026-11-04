@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-04.11.2026: [Lepista nuda - Violetter Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling)  
+05.11.2026: [Russula parazurea - Blaugrüner Reiftäubling](/pilze/russula-parazurea-blaugrüner-reiftäubling)  
+04.11.2026: [Lepista nuda - Violetter Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling)\
 03.11.2026: [Leocarpus fragilis - Löwenfrüchtchen](/pilze/leocarpus-fragilis-löwenfrüchtchen)\
 02.11.2026: [Psathyrella piluliformis - Wässriger Mürbling](/pilze/psathyrella-piluliformis-wässriger-mürbling)\
 01.11.2026: [Mycena polyadelpha - Winziger Eichenblatthelmling](/pilze/mycena-polyadelpha-winziger-eichenblatthelmling)
