@@ -12,7 +12,9 @@ hauptbild:
   anzeige: true
   datei: /bilder/resupinatus_applicatus_01_dg.jpg
 literatur:
-  - url: http://tintling.com/pilzbuch/arten/r/Resupinatus_applicatus.html
+  - text: "Breitenbach & Kränzlin: Pilze der Schweiz, Band 3, Nr. 400"
+  - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs, Band
+      3, Seite 505 - 506"
 ---
 Am ehesten findet man diesen kleinen stiellosen Blätterpilz, wenn man feucht liegende Laubholzäste umdreht. Einen Stiel braucht er nicht, da er mit dem Scheitel seines Hütchens am Substrat angewachsen ist. Mitunter erscheint er auch an stehenden Stämmchen oder hängenden Zweigen; dann sind die Fruchtkörper oft seitlich angewachsen.
 
