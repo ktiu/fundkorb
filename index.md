@@ -15,7 +15,7 @@ Hier geht's zur [Anmeldung >](/termine)
 
 **Es könnte sein, dass Anmeldungen zu dieser Führung nicht angekommen und unbeantwortet geblieben sind. Sollten Sie noch keine Bestätigung erhalten haben, bitte ich Sie, sich erneut anzumelden.**
 
-Eine weitere **Pilzkundliche Führung für Einsteiger** ist am **Sonntag, 15. November 2026, 10:00 Uhr**  
+Eine weitere **Pilzkundliche Führung für Einsteiger** ist am **Sonntag, 15. November 2026, 10:00 Uhr**\
 Hier geht's zur [Anmeldung >](/termine)
 
 **Neu im Fundkorb:**
@@ -27,6 +27,14 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html legende="Mycena polyadelpha ---------------- Entoloma albotomentosum ----------------- Hypomyces lateritius" %}
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrophorus_agathosmus_03_wk.jpg" %}
+{% include abbildung_ende.html %}
+
+06.11.2026: Als aktuellen [Fundkorbpilz](AA "Glossar-") aus dem Dunkelsteinerwald in Niederösterreich möchte ich den Wohlriechenden Schneckling *Hygrophorus agathosmus* melden. Er ist auch unter dem Namen Marzipanschneckling bekannt. Der Fundort befand sich am Wegrand eines Forstweges im moosigen Untergrund bei Fichten und Kiefern auf 530 m Höhe. An seinem intensiven Marzipangeruch ist er leicht von anderen Schnecklingen zu unterscheiden. Der Geschmack ist zwar mild, aber etwas seifig, weshalb man ihn nicht unbedingt in der Pfanne haben möchte. (Werner Bauer) [Mehr lesen >](/pilze/hygrophorus-agathosmus-wohlriechender-schneckling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_parazurea_02_nk.jpg" %}
@@ -73,14 +81,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 31.10.2026: Auf feuchten vermodernden Blattresten und dünnen Stielen wachsen winzige Pilzchen, die höchstens mal zufällig durch ihre weiße Farbe auffallen, ansonsten aber nur bei gezielter Suche zu finden sind. Ein typisches Beispiel ist das Rotbraunstielige Sklerotienkeulchen *Typhula erythropus*. Diesen aktuellen [Fundkorbpilz](AA "Glossar-") haben wir in einer Dietzenbacher Parkanlage entdeckt und uns sehr über den Fund gefreut. Obwohl ihn kaum jemand kennt, handelt es sich um eine häufige Art, die vor allem im Spätherbst erscheint. (Dieter Gewalt) [Mehr lesen >](/pilze/typhula-erythropus-rotbraunstieliges-sklerotienkeulchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pholiota_populnea_03_hs.jpg" %}
-{% include abbildung_ende.html %}
-
-30.10.2026: Wenn irgendwo gefällte Pappelstämme herumliegen, dauert es meist nicht lange, bis unser aktueller [Fundkorbpilz](AA "Glossar-"), der Pappelschüppling *Pholiota populnea*, vor allem an den Schnittflächen erscheint. Die Stämme lagen im Offenbacher Stadtteil Bieber nahe eines überfluteten Gebiets an der Brücke. Hut und Stiel sind sparrig beschuppt, sein Fleisch ist zäh und schmeckt bitter - also nichts für die Küche. (Adam Adamowitz) [Mehr lesen >](/pilze/pholiota-populnea-pappelschüppling)
 
 <div style="clear:  both"></div>
 
