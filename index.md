@@ -15,6 +15,9 @@ Hier geht's zur [Anmeldung >](/termine)
 
 **Es könnte sein, dass Anmeldungen zu dieser Führung nicht angekommen und unbeantwortet geblieben sind. Sollten Sie noch keine Bestätigung erhalten haben, bitte ich Sie, sich erneut anzumelden.**
 
+Eine weitere **Pilzkundliche Führung für Einsteiger** ist am **Sonntag, 15. November 2026, 10:00 Uhr**  
+Hier geht's zur [Anmeldung >](/termine)
+
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
