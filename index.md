@@ -18,10 +18,10 @@ Hier geht's zur [Anmeldung >](/termine)
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
-{% include bild.html datei="/bilder/boletus_depilatus_01_tf.jpg" %}
-{% include bild.html datei="/bilder/hypholoma_polytrichi_06_cw.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/chrysomphalina_strombodes_01_md.jpg" nocrop=true %}
-{% include abbildung_ende.html legende="Boletus depilatus ---------------- Hypholoma polytrichi ----------------- Chrysomphalina strombodes" %}
+{% include bild.html datei="/bilder/mycena_polyadelpha_01_er.jpeg" %}
+{% include bild.html datei="/bilder/entoloma_albotomentosum_01_vs.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/hypomyces_lateritus_01_us.jpg" nocrop=true %}
+{% include abbildung_ende.html legende="Mycena polyadelpha ---------------- Entoloma albotomentosum ----------------- Hypomyces lateritius Chrysomphalina strombodes" %}
 
 **Aktueller Fundkorbpilz:**
 
