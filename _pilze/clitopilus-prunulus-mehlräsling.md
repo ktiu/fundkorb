@@ -12,7 +12,7 @@ hauptbild:
   anzeige: true
   datei: /bilder/clitopilus_prunulus_01_dg.jpg
 literatur:
-  - url: http://tintling.com/pilzbuch/arten/c/Clitopilus_prunulus.html
+  - text: "Breitenbach & Kränzlin: Pilze der Schweiz Band 4, Nr. 2"
 ---
 Zu den weißen oder weißlichen Pilzen, die man in Wäldern oder auch Parkanlagen finden kann, gehört der Mehlräsling. Sein namensgebendes Merkmal ist sein ranzig-mehliger Geruch, den man manchmal schon wahrnehmen kann, bevor man den Pilz gesehen hat. Ein weiteres gutes Kennzeichen sind seine jung weißen, dann allmählich rosa werdenden Lamellen.
 
