@@ -17,7 +17,7 @@ literatur:
       4, Seite 138 – 139"
   - text: "Rudolf Winkler / Gaby Keller: Pilze Mitteleuropas, Seite 373 (6.1.06)"
 ---
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitopilus_hobsonii_01_vs.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -27,14 +27,14 @@ Wer nun geneigt ist, diesen Pilz als einen der wenigen stummelfüßchenähnliche
 
 Zu dieser Gattung gehört auch der allgemein bekannte [Mehl-Räsling (Clitopilus prunulus)](/pilze/clitopilus-prunulus-mehlräsling), der mit seinem deutlichen Stiel und dem Wachstum auf dem Erdboden jedoch ganz anders aussieht. In Anbetracht der relativ entfernt stehenden Lamellen in Kombination mit Sporenmaßen von 7 – 10 × 4,5 – 6 μm kommt in unserem Fall nur eine Art in Frage: der Muschelförmige Räsling (*Clitopilus hobsonii*).
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/clitopilus_hobsonii_02_vs.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/clitopilus_hobsonii_03_vs.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Sporen -- Basidien" %}
 
 Mikroskopisch ist die Art unauffällig: Sie besitzt viersporige, keulige Basidien und keine Zystiden. Weder die Basidi(ol)en noch die Hyphen tragen Schnallen.
 
-{% include abbildung_start.html stil="mittel" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/clitopilus_hobsonii_04_vs.jpg" %}
 {% include abbildung_ende.html legende="Keine Schnallen vorhanden" %}
 
