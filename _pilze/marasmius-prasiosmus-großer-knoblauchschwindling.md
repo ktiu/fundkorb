@@ -13,6 +13,7 @@ hauptbild:
   anzeige: false
   datei: /bilder/marasmius_prasiosmus_01_cw.jpg
 literatur:
+  - text: "Ewald Gerhardt: Der große BLV-Pilzführer für unterwegs, Seite190"
   - text: "German J. Krieglsteiner (Hrsg.): Die Großpilze Baden-Württembergs, Band
       3, Seite 342 – 343 (als Marasmius quercus!)"
 ---
