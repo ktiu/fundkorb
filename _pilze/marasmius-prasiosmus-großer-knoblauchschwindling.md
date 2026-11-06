@@ -29,3 +29,5 @@ Sporen ellipsoid bis schmal tropfenförmig, 7 - 11 x 3 - 5 µm; Cheilozystiden f
 Der Große Knoblauchschwindling wächst von Juli - Dezember (vor allem in den Monaten Oktober und November) auf Laubblättern (bevorzugt Eiche). Er ist in ganz Deutschland unterschiedlich dicht verbreitet.
 
 Die drei Knoblauschwindlinge wurden inzwischen in die ausschließlich für sie bestimmte neue Gattung *Mycetinis* ausgegliedert.
+
+Mehr über die Familie der Schwindlingsartigen (*Marasmiaceae*) [erfahren Sie hier >](/verwandt/schwindlinge)
