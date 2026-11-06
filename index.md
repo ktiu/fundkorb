@@ -29,6 +29,14 @@ Hier geht's zur [Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_phalloides_06_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+07.11.2026: Den Grünen Knollenblätterpilz *Amanita phalloides* erstmals in diesem Jahr zu sehen und das auch noch in einem Friedhof ist schon ein Ausrufungszeichen wert. Der Waldfriedhof Oberrad im Süden der Großstadt Frankurt ist 20,5 Hektar groß und weitaus mehr Wald als Friedhof. Nach Gräbern muss man hier fast schon suchen. Bei unserer Exkursion hatten wir noch zahlreiche weitere Funde, die wir als aktuelle [Fundkorbpilze](AA "Glossar-") hätten melden können oder noch melden werden. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrophorus_agathosmus_03_wk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -73,14 +81,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 01.11.2026: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-") kann man nur rein zufällig finden oder wenn man in einer Laubschicht die darunter liegenden feuchten und verrottenden Blattreste akribisch in Augenschein nimmt. Es ist der Winzige Eichenblatthelmling *Mycena polyadelpha*, dessen weiße Hütchen gerade mal 0,5 bis 3 Millimeter Durchmesser erreichen. Die Stiele können dagegen bis zu 5 Zentimeter lang werden. Gefunden haben wir die Winzlinge mal wieder in unserer Dietzenbacher Parkanlage. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-polyadelpha-winziger-eichenblatthelmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/typhula_erythropus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-31.10.2026: Auf feuchten vermodernden Blattresten und dünnen Stielen wachsen winzige Pilzchen, die höchstens mal zufällig durch ihre weiße Farbe auffallen, ansonsten aber nur bei gezielter Suche zu finden sind. Ein typisches Beispiel ist das Rotbraunstielige Sklerotienkeulchen *Typhula erythropus*. Diesen aktuellen [Fundkorbpilz](AA "Glossar-") haben wir in einer Dietzenbacher Parkanlage entdeckt und uns sehr über den Fund gefreut. Obwohl ihn kaum jemand kennt, handelt es sich um eine häufige Art, die vor allem im Spätherbst erscheint. (Dieter Gewalt) [Mehr lesen >](/pilze/typhula-erythropus-rotbraunstieliges-sklerotienkeulchen)
 
 <div style="clear:  both"></div>
 
