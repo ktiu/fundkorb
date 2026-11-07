@@ -25,6 +25,8 @@ Hier geht's zur [Anmeldung >](/termine)
 
 **Aktueller Fundkorbpilz:**
 
+08.11.2026: Ein weiterer sehr interessanter Pilzfund im Waldfriedhof Oberrad (Frankfurt am Main) war die Becherkoralle Artomyces pyxidatus. Diesen aktuellen [Fundkorbpilz](AA "Glossar-") halte ich für einen der attraktivsten Pilze überhaupt. Gut möglich, dass er von der Klimaerwärmung profitiert. Mit ähnlichen Korallenpilzen der Gattung Ramaria ist er nicht verwandt. (Dieter Gewalt) Mehr lesen > <div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_phalloides_06_dg.jpg" %}
 {% include abbildung_ende.html %}
