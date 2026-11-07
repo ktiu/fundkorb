@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-07.11.2026: [Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)  
+08.11.2026: [Artomyces pyxidata - Becherkoralle](/pilze/artomyces-pyxidatus-becherkoralle)  
+07.11.2026: [Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)\
 06.11.2026: [Hygrophorus agathosmus - Wohlriechender Schneckling](/pilze/hygrophorus-agathosmus-wohlriechender-schneckling)\
 05.11.2026: [Russula parazurea - Blaugrüner Reiftäubling](/pilze/russula-parazurea-blaugrüner-reiftäubling)\
 04.11.2026: [Lepista nuda - Violetter Rötelritterling](/pilze/lepista-nuda-violetter-rötelritterling)\
