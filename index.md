@@ -26,6 +26,14 @@ Hier geht's zur [Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_vaginata_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+09.11.2026: Scheidenstreiflinge gehören zu den Wulstlingen (Gattung *Amanita*), haben jedoch keinen Ring am Stiel. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Graue Scheidenstreifling *Amanita vaginata*, ist einer der häufigeren Arten, kann aber mit einigen ähnlich gefärbten auch aus anderen Gattungen verwechselt werden. Im Zeifelsfall verraten ihn seine Sporenform und -maße, es müsste also mikroskopiert werden. Gefunden haben wir ihn ebenfalls im Waldfriedhof Oberrad (Frankfurt am Main). Speisewert: schmeckt etwas muffig. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-vaginata-grauer-scheidenstreifling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/artomyces_pyxidatus_03_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -70,22 +78,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 03.11.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), das Löwenfrüchtchen *Leocarpus fragilis* ist ein [Myxomyzet](Myxomyzeten "Glossar") und vereint daher die Eigenschaften von Tieren und Pilzen in sich. In einem Kiefernwald bei Dietzenbach waren alle Stadien auf engstem Raum zu sehen, vom netzartigen [Plasmodium](Plasmodium "Glossar") mit den ersten hell-gelben bis zu später dunkel rotbraunen Fruchtkörpern. Einzeln wären sie leicht zu übersehen. Da sie aber dicht gedrängt wachsen, waren Kiefernnadeln, Reisig- und Rindenstückchen rundum mit ihnen bewachsen. (Ulrike Wegner) [Mehr lesen >](/pilze/leocarpus-fragilis-löwenfrüchtchen)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/psathyrella_piluliformis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-02.11.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der bei einer pilzkundlichen Führung mehrfach gefundene Wässrige Mürbling *Psathyrella piluliformis*, der nicht umsonst auch Weißstieliges [Stockschwämmchen](/pilze/kuehneromyces-mutabilis-stockschwämmchen) genannt wird. Erstens, weil er stets ein weißes Stielchen hat. Zweitens, weil er ein guter Speisepilz ist. Ihn zu sammeln kann aber nur erfahrenen Pilzsammlern empfohlen werden. Sie erkennen ihn auch an den glanzlosen dunkelbraunen Hütchen. Und an seinem meist massenhaft dichtbüscheligen Vorkommen an Totholz. (Dieter Gewalt) [Mehr lesen >](/pilze/psathyrella-piluliformis-wässriger-mürbling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_polyadelpha_01_er.jpeg" %}
-{% include abbildung_ende.html %}
-
-01.11.2026: Unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-") kann man nur rein zufällig finden oder wenn man in einer Laubschicht die darunter liegenden feuchten und verrottenden Blattreste akribisch in Augenschein nimmt. Es ist der Winzige Eichenblatthelmling *Mycena polyadelpha*, dessen weiße Hütchen gerade mal 0,5 bis 3 Millimeter Durchmesser erreichen. Die Stiele können dagegen bis zu 5 Zentimeter lang werden. Gefunden haben wir die Winzlinge mal wieder in unserer Dietzenbacher Parkanlage. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-polyadelpha-winziger-eichenblatthelmling)
 
 <div style="clear:  both"></div>
 
