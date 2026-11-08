@@ -31,6 +31,6 @@ Die bei Pilzfreunden weitgehend unbeachtete Gattung *Dermoloma* gehört zur Fami
 
 Die grauen bis graubraunen oft felderig aufreißenden Hüte des Runzeligen Samtritterlings erreichen Durchmesser von 1,5 bis 5 cm. Die bauchigen weißlichen Lamellen sind mehrfach mit kürzeren (Lameletten) untermischt und ausgebuchtet oder mit Zähnchen am Stiel angewachsen. Ansonsten sind auch die für die Gattung genannten makroskopischen Merkmale für diese Art gültig.
 
-Ein wichtiges mikroskopisches Merkmal sind die inamyloiden länglich ovalen Sporen mit den Maßen 4,5 - 7 x 3,5 - 5 µm. Andere Arten der Gattung wie *Dermoloma josserandii* und *Dermoloma pseudocuneifolium* haben amyloide Sporen.
+Ein wichtiges mikroskopisches Merkmal sind die [inamyloiden](inamyloid "Glossar") länglich ovalen Sporen mit den Maßen 4,5 - 7 x 3,5 - 5 µm. Andere Arten der Gattung wie *Dermoloma josserandii* und *Dermoloma pseudocuneifolium* haben [amyloide](amyloide "Glossar") Sporen.
 
 Der Runzelige Samtritterling, der auch Schwarzgrauer Samtritterling genannt wird, ist im Herbst bevorzugt auf grasigen Flächen wie Wiesen oder Halbtrockenrasen auf kalkhaltigen Böden zu finden.
