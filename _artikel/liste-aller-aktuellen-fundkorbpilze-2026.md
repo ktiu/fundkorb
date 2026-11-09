@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-09.11.2026: [Amanita vaginata - Grauer Scheidenstreifling](/pilze/amanita-vaginata-grauer-scheidenstreifling)  
+10.11.2026: [Lactarius deliciosus - Edelreizker](/pilze/lactarius-deliciosus-edelreizker)  
+09.11.2026: [Amanita vaginata - Grauer Scheidenstreifling](/pilze/amanita-vaginata-grauer-scheidenstreifling)\
 08.11.2026: [Artomyces pyxidata - Becherkoralle](/pilze/artomyces-pyxidatus-becherkoralle)\
 07.11.2026: [Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)\
 06.11.2026: [Hygrophorus agathosmus - Wohlriechender Schneckling](/pilze/hygrophorus-agathosmus-wohlriechender-schneckling)\
