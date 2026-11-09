@@ -26,6 +26,14 @@ Hier geht's zur [Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lactarius_deliciosus_04_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+10.11.2026: Gestern gesammelt, heute in der Pfanne. Putzreste eines unbekannten Pilzsammlers haben uns auf ein Vorkommen einer wahren Premiumart unter den Speisepilzen aufmerksam gemacht. An einem Waldwegrand bei Dietzenbach fanden wir bei Kiefern etwa ein Dutzend Edelreizker (*Lactarius deliciosus*). Ganz klar: das muss unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") werden. Er fällt durch seine karottenrote Milch auf, die zwar nicht wie eine Flüssigkeit aus dem Fruchtfleisch tropft, es aber immerhin ein wenig nass erscheinen lässt. Mehr Infos und auch Tipps zur Zubereitung [gibt es hier >](/pilze/lactarius-deliciosus-edelreizker)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_vaginata_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -70,14 +78,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 04.11.2026: Die ersten Violetten Rötelritterlinge (*Lepista nuda*) sind da! Bei diesem Herbstboten und aktuellen [Fundkorbpilz](AA "Glossar-") sind vor allem die Lamellen violett und auch am Stiel findet man diese im Pilzreich nicht gerade häufige Farbe. Er wächst gern zusammen mit der [Nebelkappe](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe) an Waldwegrändern und ist auch in Parkanlagen und Gärten nahezu überall häufig. Sein etwas süßlicher Geschmack wird nicht von allen Pilzfreunden geschätzt. (Dieter Gewalt) [Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/leocarpus_fragilis_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-03.11.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), das Löwenfrüchtchen *Leocarpus fragilis* ist ein [Myxomyzet](Myxomyzeten "Glossar") und vereint daher die Eigenschaften von Tieren und Pilzen in sich. In einem Kiefernwald bei Dietzenbach waren alle Stadien auf engstem Raum zu sehen, vom netzartigen [Plasmodium](Plasmodium "Glossar") mit den ersten hell-gelben bis zu später dunkel rotbraunen Fruchtkörpern. Einzeln wären sie leicht zu übersehen. Da sie aber dicht gedrängt wachsen, waren Kiefernnadeln, Reisig- und Rindenstückchen rundum mit ihnen bewachsen. (Ulrike Wegner) [Mehr lesen >](/pilze/leocarpus-fragilis-löwenfrüchtchen)
 
 <div style="clear:  both"></div>
 
