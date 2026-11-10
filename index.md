@@ -26,7 +26,7 @@ Hier geht's zur [Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_nebularis_06_gg.jpg" %}
+{% include bild.html datei="/bilder/clitocybe_nebularis_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
 11.11.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Nebelkappe *Clitocybe nebularis*, galt früher als Speisepilz, aufgrund nachgewiesener toxischer Inhaltsstoffe wird sie von Pilzsachverständigen jedoch nicht mehr zum Verzehr freigegeben. Dieser häufige und auffällige Spätherbstpilz wächst gern in Reihen oder Hexenringen an Waldwegrändern. Seine „nebelgrauen“ Farben am gesamten Fruchtkörper und die bogenförmig am Stiel herablaufenden Lamellen machen ihn nahezu unverwechselbar. (Ulrike Wegner) [Mehr lesen >](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)
