@@ -26,6 +26,14 @@ Hier geht's zur [Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/clitocybe_nebularis_06_gg.jpg" %}
+{% include abbildung_ende.html %}
+
+11.11.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Nebelkappe *Clitocybe nebularis*, galt früher als Speisepilz, aufgrund nachgewiesener toxischer Inhaltsstoffe wird sie von Pilzsachverständigen jedoch nicht mehr zum Verzehr freigegeben. Dieser häufige und auffällige Spätherbstpilz wächst gern in Reihen oder Hexenringen an Waldwegrändern. Seine „nebelgrauen“ Farben am gesamten Fruchtkörper und die bogenförmig am Stiel herablaufenden Lamellen machen ihn nahezu unverwechselbar. (Ulrike Wegner) [Mehr lesen >](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lactarius_deliciosus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -70,14 +78,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 05.11.2026: Bei unserer Exkursion am Sonntag fanden wir mehrere Täublingsarten, u. a. auch den Blaugrünen Reiftäubling *Russula parazurea*, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Wer sich mit Täublingen auskennt, kann ihn durchaus in der Küche verwenden. Er zählt zu den absolut schmackhaften Arten, ist aber nicht gerade häufig. Wenn der Reif auf der Huthaut abgewischt ist, kann er leicht mit dem häufigen [Papagei-Täubling](/pilze/russula-ionochlora-papagei-täubling) verwechselt werden, der ebenfalls essbar ist und dem wir auch begegnet sind. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-parazurea-blaugrüner-reiftäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lepista_nuda_02_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-04.11.2026: Die ersten Violetten Rötelritterlinge (*Lepista nuda*) sind da! Bei diesem Herbstboten und aktuellen [Fundkorbpilz](AA "Glossar-") sind vor allem die Lamellen violett und auch am Stiel findet man diese im Pilzreich nicht gerade häufige Farbe. Er wächst gern zusammen mit der [Nebelkappe](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe) an Waldwegrändern und ist auch in Parkanlagen und Gärten nahezu überall häufig. Sein etwas süßlicher Geschmack wird nicht von allen Pilzfreunden geschätzt. (Dieter Gewalt) [Mehr lesen >](/pilze/lepista-nuda-violetter-rötelritterling)
 
 <div style="clear:  both"></div>
 
