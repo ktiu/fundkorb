@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-10.11.2026: [Lactarius deliciosus - Edelreizker](/pilze/lactarius-deliciosus-edelreizker)  
+11.11.2026: [Clitocybe nebularis - Nebelkappe](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)  
+10.11.2026: [Lactarius deliciosus - Edelreizker](/pilze/lactarius-deliciosus-edelreizker)\
 09.11.2026: [Amanita vaginata - Grauer Scheidenstreifling](/pilze/amanita-vaginata-grauer-scheidenstreifling)\
 08.11.2026: [Artomyces pyxidata - Becherkoralle](/pilze/artomyces-pyxidatus-becherkoralle)\
 07.11.2026: [Amanita phalloides - Grüner Knollenblätterpilz](/pilze/amanita-phalloides-grüner-knollenblätterpilz)\
