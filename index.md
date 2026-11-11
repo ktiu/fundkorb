@@ -26,6 +26,14 @@ Hier geht's zur [Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/helvella_macropus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+12.11.2026: Bei unserem heutigen aktuellen [Fundkorbpilz](AA "Glossar-") handelt es sich um den Grauen Langfüßler (*Helvella macropus*). Ähnlich ist der wesentlich seltenere Filzige Langfüßler (*Helvella villosa*). Zur sicheren Unterscheidung dieser beiden Becherlorcheln muss mikroskopiert werden. *Helvella macropus* hat deutlich größere schlank elliptische Sporen. Gefunden habe ich den Pilz an einem grasigen Waldwegrand bei Rodgau im Rhein-Main-Gebiet. (Yannic Tauber) [Mehr lesen >](/pilze/helvella-macropus-grauer-langfüßler)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/clitocybe_nebularis_01_dg.jpeg" %}
 {% include abbildung_ende.html %}
 
@@ -70,14 +78,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 06.11.2026: Als aktuellen [Fundkorbpilz](AA "Glossar-") aus dem Dunkelsteinerwald in Niederösterreich möchte ich den Wohlriechenden Schneckling *Hygrophorus agathosmus* melden. Er ist auch unter dem Namen Marzipanschneckling bekannt. Der Fundort befand sich am Wegrand eines Forstweges im moosigen Untergrund bei Fichten und Kiefern auf 530 m Höhe. An seinem intensiven Marzipangeruch ist er leicht von anderen Schnecklingen zu unterscheiden. Der Geschmack ist zwar mild, aber etwas seifig, weshalb man ihn nicht unbedingt in der Pfanne haben möchte. (Werner Bauer) [Mehr lesen >](/pilze/hygrophorus-agathosmus-wohlriechender-schneckling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_parazurea_02_nk.jpg" %}
-{% include abbildung_ende.html %}
-
-05.11.2026: Bei unserer Exkursion am Sonntag fanden wir mehrere Täublingsarten, u. a. auch den Blaugrünen Reiftäubling *Russula parazurea*, unseren heutigen aktuellen [Fundkorbpilz](AA "Glossar-"). Wer sich mit Täublingen auskennt, kann ihn durchaus in der Küche verwenden. Er zählt zu den absolut schmackhaften Arten, ist aber nicht gerade häufig. Wenn der Reif auf der Huthaut abgewischt ist, kann er leicht mit dem häufigen [Papagei-Täubling](/pilze/russula-ionochlora-papagei-täubling) verwechselt werden, der ebenfalls essbar ist und dem wir auch begegnet sind. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-parazurea-blaugrüner-reiftäubling)
 
 <div style="clear:  both"></div>
 
