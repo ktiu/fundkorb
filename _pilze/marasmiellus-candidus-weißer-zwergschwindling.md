@@ -26,8 +26,8 @@ Es gibt zahlreiche kleine und kleinste weiße Pilzarten, für die sich kaum jema
 
 Auffallend sind vor allem die hautdünnen, fast durchscheinenden Hüte und die spärlichen oft verbogenen, manchmal gegabelten Lamellen, von denen nicht alle den Hutrand erreichen und die von mehreren kürzeren, mitunter kaum erhabenen Lameletten untermischt sind. Die kaum mehr als 1 cm langen, etwa 1 mm dicken Stiele sind ebenfalls meist verbogen, jung weiß, später hell grau bis graubräunlich, zur Basis hin dunkler.
 
-Sehr viel häufiger, bekannter und etwas größer ist der ebenfalls an toten Zweigen wachsende [Ästchen-Zwergschwindling Marasmiellus ramealis](/pilze/marasmiellus-ramealis), der z. B. in Reisighaufen ungeheure Massenvorkommen bilden kann. Er hat deutlich mehr und gleichmäßiger geformte Lamellen und weißlich beflockte Stiele. Beide Arten unterscheiden sich auch in ihren Mikromerkmalen:
-*Marasmiellus candidus* besitzt sehr schlanke flaschenförmige Cheilozystiden mit den Maßen 50 - 100 x 2,5 - 5 µm. Die Sporen messen 9 - 19 x 3,5 - 6 µm.
+Sehr viel häufiger, bekannter und etwas größer ist der ebenfalls an toten Zweigen wachsende [Ästchen-Zwergschwindling Marasmiellus ramealis](/pilze/marasmiellus-ramealis), der z. B. in Reisighaufen ungeheure Massenvorkommen bilden kann. Er hat deutlich mehr und gleichmäßiger geformte Lamellen und weißlich beflockte Stiele. Beide Arten unterscheiden sich auch in ihren Mikromerkmalen:  
+*Marasmiellus candidus* besitzt sehr schlanke flaschenförmige Cheilozystiden mit den Maßen 50 - 100 x 2,5 - 5 µm. Die Sporen messen 9 - 19 x 3,5 - 6 µm.  
 *Marasmiellus ramealis* hat keulig blasig geformte Cheilozystiden mit den Maßen 15 - 40 x 8 - 20 µm. Die Sporen messen 7 - 15 x 4 - 6 µm.
 
 Mehr über die Familie der Schwindlingsartigen (*Marasmiaceae*) [erfahren Sie hier >](/verwandt/schwindlinge)
