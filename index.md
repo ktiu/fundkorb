@@ -26,6 +26,14 @@ Hier geht's zur [Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/marasmiellus_ramealis_01_dg.jpeg" nocrop=true %}
+{% include abbildung_ende.html %}
+
+13.11.2026: Auch wenig oder kaum beachtete kleine Pilze dürfen aktueller [Fundkorbpilz](AA "Glossar-") sein. Ein besonders attraktiver ist der Ästchenschwindling *Marasmiellus ramealis*, der Totholz und abgestorbene Ästchen am Boden, am Strauch oder in Reisighaufen in großer Zahl bewachsen kann. Es ist vor allem die filigrane Lamellenstruktur, die das Auge erfreut. Für Speisezwecke kommt er nicht in Frage. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmiellus-ramealis)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/helvella_macropus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -70,14 +78,6 @@ Hier geht's zur [Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 07.11.2026: Den Grünen Knollenblätterpilz *Amanita phalloides* erstmals in diesem Jahr zu sehen und das auch noch in einem Friedhof ist schon ein Ausrufungszeichen wert. Der Waldfriedhof Oberrad im Süden der Großstadt Frankurt ist 20,5 Hektar groß und weitaus mehr Wald als Friedhof. Nach Gräbern muss man hier fast schon suchen. Bei unserer Exkursion hatten wir noch zahlreiche weitere Funde, die wir als aktuelle [Fundkorbpilze](AA "Glossar-") hätten melden können oder noch melden werden. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrophorus_agathosmus_03_wk.jpg" %}
-{% include abbildung_ende.html %}
-
-06.11.2026: Als aktuellen [Fundkorbpilz](AA "Glossar-") aus dem Dunkelsteinerwald in Niederösterreich möchte ich den Wohlriechenden Schneckling *Hygrophorus agathosmus* melden. Er ist auch unter dem Namen Marzipanschneckling bekannt. Der Fundort befand sich am Wegrand eines Forstweges im moosigen Untergrund bei Fichten und Kiefern auf 530 m Höhe. An seinem intensiven Marzipangeruch ist er leicht von anderen Schnecklingen zu unterscheiden. Der Geschmack ist zwar mild, aber etwas seifig, weshalb man ihn nicht unbedingt in der Pfanne haben möchte. (Werner Bauer) [Mehr lesen >](/pilze/hygrophorus-agathosmus-wohlriechender-schneckling)
 
 <div style="clear:  both"></div>
 
