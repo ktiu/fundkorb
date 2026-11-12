@@ -10,10 +10,7 @@ footer_scripts:
 ---
  {% include pilzsuche.html %} 
 
-Unsere nächste **pilzkundliche Führung für Einsteiger** ist am **Sonntag, 15. November 2026, 10:00 Uhr**\
-Dieser Termin ist inzwischen ausgebucht. Den **nächsten am 22. November** werden wir in Kürze an dieser Stelle bekannt geben.
-
-**Es könnte sein, dass Anmeldungen zu dieser Führung nicht angekommen und unbeantwortet geblieben sind. Sollten Sie keine Bestätigung erhalten, bitte ich Sie, sich erneut anzumelden.**
+Unsere **pilzkundliche Führung für Einsteiger** am **Sonntag, 15. November 2026** ist inzwischen **ausgebucht**. Den **nächsten Termin am 22. November** werden wir in Kürze an dieser Stelle bekannt geben.
 
 **Neu im Fundkorb:**
 
