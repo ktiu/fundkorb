@@ -18,7 +18,7 @@ Wie hübsch diese kleinen Pilzchen sind, offenbart sich dem Betrachter erst, wen
 {% include bild.html datei="/bilder/marasmiellus_-ramealis_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-Sie wachsen manchmal zu Hunderten auf dünnen Ästchen und Zweigen von Laubbäumen, am liebsten von Rotbuchen. Einmal stand ich vor einem Brombeergebüsch, dessen trockene Zweige über und über mit ihnen bewachsen waren. An der Substratunterseite entspringende Pilze krümmen ihre Stiele aufwärts, so dass die sporenbildenden Lamellen stets nach unten gerichtet sind. Dabei orientieren sie sich an der Schwerkraft, ein Phänomen, das unter dem Begriff "Geotropes Wachstum" bekannt ist.
+Sie wachsen manchmal zu Hunderten auf dünnen Ästchen und Zweigen von Laubbäumen, am liebsten von Rotbuchen. Gern auch in Reisighaufen. Einmal stand ich vor einem Brombeergebüsch, dessen trockene Zweige über und über mit ihnen bewachsen waren. An der Substratunterseite entspringende Pilze krümmen ihre Stiele aufwärts, so dass die sporenbildenden Lamellen stets nach unten gerichtet sind. Dabei orientieren sie sich an der Schwerkraft, ein Phänomen, das unter dem Begriff "Geotropes Wachstum" bekannt ist.
 
 {% include abbildung_start.html stil="standard" %}
 {% include bild.html datei="/bilder/marasmiellus_-ramealis_03_dg.jpg" %}
