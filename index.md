@@ -10,7 +10,11 @@ footer_scripts:
 ---
  {% include pilzsuche.html %} 
 
-Unsere **pilzkundliche Führung für Einsteiger** am **Sonntag, 15. November 2026** ist inzwischen **ausgebucht**. Den **nächsten Termin am 22. November** werden wir in Kürze an dieser Stelle bekannt geben.
+Unsere **pilzkundliche Führung für Einsteiger** am **Sonntag, 15. November 2026** ist inzwischen **ausgebucht**.
+
+**Neuer Termin:**\
+**Der Wald und seine Pilze im November** am **22. November 2026, 10:00 Uhr**.\
+Hier geht's [zur Anmeldung >](/termine)
 
 **Neu im Fundkorb:**
 
