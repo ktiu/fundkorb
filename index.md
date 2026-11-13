@@ -23,6 +23,14 @@ Unsere **pilzkundliche Führung für Einsteiger** am **Sonntag, 15. November 202
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/amanita_strobiliformis_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+14.11.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fransige Wulstling *Amanita strobiliformis*, den ich gestern im Frankfurter Hauptfriedhof bei den Kriegsgräbern gefunden habe. Auf dieser Fläche kommen immer mal wieder Pilze vor, die kalkhaltige Böden bevorzugen und saure meiden. An solchen Standorten ist der ansonsten seltene Fransige Wulstling immer mal wieder zu finden. Er ist essbar und soll sogar recht schmackhaft sein. (Renate Zinnow) [Mehr lesen >](/pilze/amanita-strobiliformis-fransiger-wulstling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmiellus_ramealis_01_dg.jpeg" nocrop=true %}
 {% include abbildung_ende.html %}
 
@@ -67,14 +75,6 @@ Unsere **pilzkundliche Führung für Einsteiger** am **Sonntag, 15. November 202
 {% include abbildung_ende.html %}
 
 08.11.2026: Ein weiterer sehr interessanter Pilzfund im Waldfriedhof Oberrad (Frankfurt am Main) war die Becherkoralle *Artomyces pyxidatus*. Diesen aktuellen [Fundkorbpilz](AA "Glossar-") halte ich für einen der attraktivsten Pilze überhaupt. Gut möglich, dass er von der Klimaerwärmung profitiert. Mit ähnlichen Korallenpilzen der Gattung *Ramaria* ist er nicht verwandt. (Dieter Gewalt) [Mehr lesen >](/pilze/artomyces-pyxidatus-becherkoralle)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_phalloides_06_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-07.11.2026: Den Grünen Knollenblätterpilz *Amanita phalloides* erstmals in diesem Jahr zu sehen und das auch noch in einem Friedhof ist schon ein Ausrufungszeichen wert. Der Waldfriedhof Oberrad im Süden der Großstadt Frankurt ist 20,5 Hektar groß und weitaus mehr Wald als Friedhof. Nach Gräbern muss man hier fast schon suchen. Bei unserer Exkursion hatten wir noch zahlreiche weitere Funde, die wir als aktuelle [Fundkorbpilze](AA "Glossar-") hätten melden können oder noch melden werden. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-phalloides-grüner-knollenblätterpilz)
 
 <div style="clear:  both"></div>
 
