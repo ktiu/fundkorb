@@ -64,7 +64,7 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include bild.html datei="/bilder/lactarius_deliciosus_04_dg.jpg" %}
 {% include abbildung_ende.html %}
 
-10.11.2026: Gestern gesammelt, heute in der Pfanne. Putzreste eines unbekannten Pilzsammlers haben uns auf ein Vorkommen einer wahren Premiumart unter den Speisepilzen aufmerksam gemacht. An einem Waldwegrand bei Dietzenbach fanden wir bei Kiefern etwa ein Dutzend Edelreizker (*Lactarius deliciosus*). Ganz klar: das muss unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") werden. Er fällt durch seine karottenrote Milch auf, die zwar nicht wie eine Flüssigkeit aus dem Fruchtfleisch tropft, es aber immerhin ein wenig nass erscheinen lässt. Mehr Infos und auch Tipps zur Zubereitung [gibt es hier >](/pilze/lactarius-deliciosus-edelreizker)
+10.11.2026: Gestern gesammelt, heute in der Pfanne. Putzreste eines unbekannten Pilzsammlers haben uns auf ein Vorkommen einer wahren Premiumart unter den Speisepilzen aufmerksam gemacht. An einem Waldwegrand bei Dietzenbach fanden wir bei Kiefern etwa ein Dutzend Edelreizker (*Lactarius deliciosus*). Ganz klar: das muss unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") werden. Er fällt durch seine karottenrote Milch auf, die zwar nicht wie eine Flüssigkeit aus dem Fruchtfleisch tropft, es aber immerhin ein wenig nass erscheinen lässt. (Dieter Gewalt) Mehr Infos und auch Tipps zur Zubereitung [gibt es hier >](/pilze/lactarius-deliciosus-edelreizker)
 
 <div style="clear:  both"></div>
 
