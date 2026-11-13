@@ -20,7 +20,7 @@ Unsere **pilzkundliche Führung für Einsteiger** am **Sonntag, 15. November 202
 {% include bild.html datei="/bilder/entoloma_albotomentosum_01_vs.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Clitopilus hobsonii ------------ Mycena polyadelpha ------------- Entoloma albotomentosum
+[Clitopilus hobsonii](/pilze/clitopilus-hobsonii-muschelförmiger-räsling) --------------------- [Mycena polyadelpha](/pilze/mycena-polyadelpha-winziger-eichenblatthelmling) --------------------- [Entoloma albotomentosum](/pilze/entoloma-albotomentosum-feuchtstellen-stummelfußrötling)
 
 **Aktueller Fundkorbpilz:**
 
