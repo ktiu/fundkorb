@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-13.11.2026: [Marasmiellus ramealis - Ästchenschwindling](/pilze/marasmiellus-ramealis)  
+14.11.2026: [Amanita strobiliformis - Fransiger Wulstling](/pilze/amanita-strobiliformis-fransiger-wulstling)  
+13.11.2026: [Marasmiellus ramealis - Ästchenschwindling](/pilze/marasmiellus-ramealis)\
 12.11.2026: [Helvella macropus - Grauer Langfüßler](/pilze/helvella-macropus-grauer-langfüßler)\
 11.11.2026: [Clitocybe nebularis - Nebelkappe](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)\
 10.11.2026: [Lactarius deliciosus - Edelreizker](/pilze/lactarius-deliciosus-edelreizker)\
