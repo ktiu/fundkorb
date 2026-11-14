@@ -29,6 +29,14 @@ Hier geht's [zur Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/suillus_grevillei_03_xx.jpg" %}
+{% include abbildung_ende.html %}
+
+15.11.2026: Seine goldgelbe Farbe und die in feuchtem Zustand schmierige Hutoberfläche machen unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Goldröhrling *Suillus grevillei*, eigentlich schon unverwechselbar. Beachtet man noch das Vorkommen ausschließlich bei Lärchen, sollte die Bestimmung gesichert sein. Der Goldröhrling ist ein recht schmackhafter Speisepilz, wenn auch das Putzen wegen der schleimigen Hüte wenig Spaß macht. (Dieter Gewalt) [Mehr lesen >](/pilze/suillus-grevillei-goldröhrling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/amanita_strobiliformis_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -73,14 +81,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 09.11.2026: Scheidenstreiflinge gehören zu den Wulstlingen (Gattung *Amanita*), haben jedoch keinen Ring am Stiel. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Graue Scheidenstreifling *Amanita vaginata*, ist einer der häufigeren Arten, kann aber mit einigen ähnlich gefärbten auch aus anderen Gattungen verwechselt werden. Im Zeifelsfall verraten ihn seine Sporenform und -maße, es müsste also mikroskopiert werden. Gefunden haben wir ihn ebenfalls im Waldfriedhof Oberrad (Frankfurt am Main). Speisewert: schmeckt etwas muffig. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-vaginata-grauer-scheidenstreifling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/artomyces_pyxidatus_03_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-08.11.2026: Ein weiterer sehr interessanter Pilzfund im Waldfriedhof Oberrad (Frankfurt am Main) war die Becherkoralle *Artomyces pyxidatus*. Diesen aktuellen [Fundkorbpilz](AA "Glossar-") halte ich für einen der attraktivsten Pilze überhaupt. Gut möglich, dass er von der Klimaerwärmung profitiert. Mit ähnlichen Korallenpilzen der Gattung *Ramaria* ist er nicht verwandt. (Dieter Gewalt) [Mehr lesen >](/pilze/artomyces-pyxidatus-becherkoralle)
 
 <div style="clear:  both"></div>
 
