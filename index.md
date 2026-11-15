@@ -32,7 +32,7 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include bild.html datei="/bilder/lentinellus_ursinus_03_dg.png" %}
 {% include abbildung_ende.html %}
 
-16.11.2026: Aktueller [Fundkorbpilz](AA "Glossar-") Einer der interessantesten Pilze bei unserer gestrigen pilzkundlichen Führung und daher auch aktueller [Fundkorbpilz](AA "Glossar-") war der seltene Geschichtete Zähling *Lentinellus ursinus* an totem Birkenholz. Der botanische Name (von *urs* = Bär) weist auf die braune Hutfarbe hin. Seine Verwandtschaftsverhältnisse sind nicht für jeden nachvollziehbar. Er gehört zur Familie der Auriscalpiaceae, den Ohrlöffelstachelingsverwandten. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinellus-ursinus-geschichteter-zähling)
+16.11.2026: Aktueller [Fundkorbpilz](AA "Glossar-") Einer der interessantesten Pilze bei unserer gestrigen pilzkundlichen Führung und daher auch aktueller [Fundkorbpilz](AA "Glossar-") war der seltene Geschichtete Zähling *Lentinellus ursinus* an totem Birkenholz. Der botanische Name (von *urs* = Bär) weist auf die braune Hutfarbe hin. Seine Verwandtschaftsverhältnisse sind nicht für jeden nachvollziehbar. Er gehört zur Familie der *Auriscalpiaceae*, den Ohrlöffelstachelingsverwandten. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinellus-ursinus-geschichteter-zähling)
 
 <div style="clear:  both"></div>
 
