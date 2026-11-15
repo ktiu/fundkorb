@@ -29,6 +29,14 @@ Hier geht's [zur Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/lentinellus_ursinus_03_dg.png" %}
+{% include abbildung_ende.html %}
+
+16.11.2026: Aktueller [Fundkorbpilz](AA "Glossar-") Einer der interessantesten Pilze bei unserer gestrigen pilzkundlichen Führung und daher auch aktueller [Fundkorbpilz](AA "Glossar-") war der seltene Geschichtete Zähling *Lentinellus ursinus* an totem Birkenholz. Der botanische Name (von *urs* = Bär) weist auf die braune Hutfarbe hin. Seine Verwandtschaftsverhältnisse sind nicht für jeden nachvollziehbar. Er gehört zur Familie der Auriscalpiaceae, den Ohrlöffelstachelingsverwandten. (Dieter Gewalt) [Mehr lesen >](/pilze/lentinellus-ursinus-geschichteter-zähling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/suillus_grevillei_03_xx.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -73,14 +81,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 10.11.2026: Gestern gesammelt, heute in der Pfanne. Putzreste eines unbekannten Pilzsammlers haben uns auf ein Vorkommen einer wahren Premiumart unter den Speisepilzen aufmerksam gemacht. An einem Waldwegrand bei Dietzenbach fanden wir bei Kiefern etwa ein Dutzend Edelreizker (*Lactarius deliciosus*). Ganz klar: das muss unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") werden. Er fällt durch seine karottenrote Milch auf, die zwar nicht wie eine Flüssigkeit aus dem Fruchtfleisch tropft, es aber immerhin ein wenig nass erscheinen lässt. (Dieter Gewalt) Mehr Infos und auch Tipps zur Zubereitung [gibt es hier >](/pilze/lactarius-deliciosus-edelreizker)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_vaginata_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-09.11.2026: Scheidenstreiflinge gehören zu den Wulstlingen (Gattung *Amanita*), haben jedoch keinen Ring am Stiel. Unser aktueller [Fundkorbpilz](AA "Glossar-"), der Graue Scheidenstreifling *Amanita vaginata*, ist einer der häufigeren Arten, kann aber mit einigen ähnlich gefärbten auch aus anderen Gattungen verwechselt werden. Im Zeifelsfall verraten ihn seine Sporenform und -maße, es müsste also mikroskopiert werden. Gefunden haben wir ihn ebenfalls im Waldfriedhof Oberrad (Frankfurt am Main). Speisewert: schmeckt etwas muffig. (Dieter Gewalt) [Mehr lesen >](/pilze/amanita-vaginata-grauer-scheidenstreifling)
 
 <div style="clear:  both"></div>
 
