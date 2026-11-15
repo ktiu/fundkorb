@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-15.11.2026: [Suillus grevillei - Goldröhrling](/pilze/suillus-grevillei-goldröhrling)  
+16.11.2026: [Lentinellus ursinus - Geschichteter Zähling](/pilze/lentinellus-ursinus-geschichteter-zähling)  
+15.11.2026: [Suillus grevillei - Goldröhrling](/pilze/suillus-grevillei-goldröhrling)\
 14.11.2026: [Amanita strobiliformis - Fransiger Wulstling](/pilze/amanita-strobiliformis-fransiger-wulstling)\
 13.11.2026: [Marasmiellus ramealis - Ästchenschwindling](/pilze/marasmiellus-ramealis)\
 12.11.2026: [Helvella macropus - Grauer Langfüßler](/pilze/helvella-macropus-grauer-langfüßler)\
