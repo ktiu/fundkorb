@@ -39,7 +39,7 @@ Obwohl der Weißliche Drüsling zur Gattung der Drüslinge (*Exidia*) zählt, be
 Die Sporen des Weißlichen Drüslings erinnern mit ihrer gekrümmten Form an Würstchen oder Bananen, zudem weisen sie einen körnigen Inhalt auf. Sie sind hyalin, glatt sowie inamyloid und messen 15 – 20 × 4,5 – 6,5 μm. Nicht zuletzt sind sie repetitiv: Je nachdem, ob die Umweltbedingungen passen, keimen die Sporen direkt aus oder bilden weitere, kleinere Sporen, die erneut abgeschossen werden, um ein passenderes Substrat zum Keimen zu finden.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/exidia_thuretiana_04_vs.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/exidia_thuretiana_01_vs.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/exidia_thuretiana_05_vs.jpg" nocrop=true %}
 {% include abbildung_ende.html legende="Abbildung links: Hyphen in Gallerte (40x) – rechts: Hyphen mit Schnallen (100x)" %}
 
@@ -54,5 +54,5 @@ Wie die meisten Arten der Ohrlappenpilzartigen (*Auriculariales*) besitzt der We
 Wer auf die gallertige Konsistenz in Kombination mit weißer Farbe achtet, kann die Zahl der Verwechslungspartner schnell auf ein Minimum reduzieren, wobei der Kerndrüsling (*Myxarium nucleatum*) dem Weißlichen Drüsling mit Abstand am ähnlichsten sieht. Makroskopisch unterscheidet er sich dadurch, dass er kleiner, weniger fest und durchscheinender als der Weißliche Drüsling ist. Zudem besitzt er – wie der Name bereits nahelegt – feste, weiße Kerne in seinem Inneren. Mikroskopisch kann man die beiden Arten daran unterscheiden, dass der Kerndrüsling gestielte Basidien besitzt, der Weißliche Drüsling nicht.
 
 Außerdem könnte man den Weißlichen Drüsling für den Kristallzitterling – die weiße Form des [Goldgelben Zitterlings (*Tremella mesenterica*)](/pilze/tremella-mesenterica-goldgelber-zitterling) – halten. Dieser ist aber deutlich wabbliger und besitzt rundlich-ellipsoide Basidiosporen. Dazu kommt, dass er ein Parasit auf Zystidenrindenpilzen (*Peniophora*) und kein Holzzersetzer ist.
- 
+
 Eine Verwechslung wäre auch mit dem [Gemeinen Buchenkreisling (*Neobulgaria pura*)](/pilze/neobulgaria-pura-gemeiner-buchenkreisling) möglich. Dieser bildet aber keine scheibenförmigen und zusammenfließenden, sondern kreisel- bis napfförmige Fruchtkörper aus. Da die Art ein Schlauchpilz ist, genügt ein kurzer Blick durchs Mikroskop, um sie vom Weißlichen Drüsling zu unterscheiden.
