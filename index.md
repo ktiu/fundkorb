@@ -29,6 +29,14 @@ Hier geht's [zur Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_caerulea_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+17.11.2026: Der Buckeltäubling *Russula caerulea*, unser aktueller [Fundkorbpilz](AA "Glossar-"), gehört zu der sehr überschaubaren Anzahl von Täublingen, die unterwegs im Wald einigermaßen sicher erkannt werden können. Seine Kennzeichen sind der Buckel in der Hutmitte in Verbindung mit der violett- bis purpurbraunen oder weinroten, glänzenden Huthaut, die sich maximal bis zur Hälfte abziehen lässt, und die jung blass gelblichen, später dottergelben Lamellen. Er ist eine Charakterart sandiger Kiefernwälder und hier oft massenhaft anzutreffen. Entgegen mancher Literaturangaben ist er ein guter und durchaus empfehlenswerter Speisepilz. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-caerulea-buckeltäubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/lentinellus_ursinus_03_dg.png" %}
 {% include abbildung_ende.html %}
 
@@ -73,14 +81,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 11.11.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Nebelkappe *Clitocybe nebularis*, galt früher als Speisepilz, aufgrund nachgewiesener toxischer Inhaltsstoffe wird sie von Pilzsachverständigen jedoch nicht mehr zum Verzehr freigegeben. Dieser häufige und auffällige Spätherbstpilz wächst gern in Reihen oder Hexenringen an Waldwegrändern. Seine „nebelgrauen“ Farben am gesamten Fruchtkörper und die bogenförmig am Stiel herablaufenden Lamellen machen ihn nahezu unverwechselbar. (Ulrike Wegner) [Mehr lesen >](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lactarius_deliciosus_04_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-10.11.2026: Gestern gesammelt, heute in der Pfanne. Putzreste eines unbekannten Pilzsammlers haben uns auf ein Vorkommen einer wahren Premiumart unter den Speisepilzen aufmerksam gemacht. An einem Waldwegrand bei Dietzenbach fanden wir bei Kiefern etwa ein Dutzend Edelreizker (*Lactarius deliciosus*). Ganz klar: das muss unser heutiger aktueller [Fundkorbpilz](AA "Glossar-") werden. Er fällt durch seine karottenrote Milch auf, die zwar nicht wie eine Flüssigkeit aus dem Fruchtfleisch tropft, es aber immerhin ein wenig nass erscheinen lässt. (Dieter Gewalt) Mehr Infos und auch Tipps zur Zubereitung [gibt es hier >](/pilze/lactarius-deliciosus-edelreizker)
 
 <div style="clear:  both"></div>
 
