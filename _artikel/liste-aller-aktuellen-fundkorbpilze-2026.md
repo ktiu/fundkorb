@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-16.11.2026: [Lentinellus ursinus - Geschichteter Zähling](/pilze/lentinellus-ursinus-geschichteter-zähling)  
+17.11.2026: [Russula caerulea - Buckeltäubling](/pilze/russula-caerulea-buckeltäubling)  
+16.11.2026: [Lentinellus ursinus - Geschichteter Zähling](/pilze/lentinellus-ursinus-geschichteter-zähling)\
 15.11.2026: [Suillus grevillei - Goldröhrling](/pilze/suillus-grevillei-goldröhrling)\
 14.11.2026: [Amanita strobiliformis - Fransiger Wulstling](/pilze/amanita-strobiliformis-fransiger-wulstling)\
 13.11.2026: [Marasmiellus ramealis - Ästchenschwindling](/pilze/marasmiellus-ramealis)\
