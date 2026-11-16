@@ -39,8 +39,8 @@ Obwohl der Weißliche Drüsling zur Gattung der Drüslinge (*Exidia*) zählt, be
 Die Sporen des Weißlichen Drüslings erinnern mit ihrer gekrümmten Form an Würstchen oder Bananen, zudem weisen sie einen körnigen Inhalt auf. Sie sind hyalin, glatt sowie inamyloid und messen 15 – 20 × 4,5 – 6,5 μm. Nicht zuletzt sind sie repetitiv: Je nachdem, ob die Umweltbedingungen passen, keimen die Sporen direkt aus oder bilden weitere, kleinere Sporen, die erneut abgeschossen werden, um ein passenderes Substrat zum Keimen zu finden.
 
 {% include abbildung_start.html stil="mittel" %}
-{% include bild.html datei="/bilder/exidia_thuretiana_01_vs.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/exidia_thuretiana_05_vs.jpg" nocrop=true %}
+{% include bild.html datei="/bilder/exidia_thuretiana_04_vs.jpg" %}
+{% include bild.html datei="/bilder/exidia_thuretiana_05_vs.jpg" %}
 {% include abbildung_ende.html legende="Abbildung links: Hyphen in Gallerte (40x) – rechts: Hyphen mit Schnallen (100x)" %}
 
 Zwar kann man die makroskopisch leicht erkennbare Gallerte ohne besondere Färbemittel unter dem Mikroskop nicht unmittelbar sehen, man kann aber darauf schließen: Die extrem lockeren Hyphen verraten uns, dass Gallerte mit im Spiel sein muss, ansonsten müsste das Gewebe nämlich deutlich dichter sein. Die Hyphen sind 3 – 5 μm breit und tragen Schnallen an den Septen.
