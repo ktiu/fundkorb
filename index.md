@@ -19,12 +19,12 @@ Hier geht's [zur Anmeldung >](/termine)
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/marasmius_prasiosmus_01_cw.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/clitopilus_hobsonii_01_vs.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/mycena_polyadelpha_01_er.jpeg" nocrop=true %}
-{% include bild.html datei="/bilder/entoloma_albotomentosum_01_vs.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-[Clitopilus hobsonii](/pilze/clitopilus-hobsonii-muschelförmiger-räsling) --------------------- [Mycena polyadelpha](/pilze/mycena-polyadelpha-winziger-eichenblatthelmling) --------------------- [Entoloma albotomentosum](/pilze/entoloma-albotomentosum-feuchtstellen-stummelfußrötling)
+[Marasmius prasiosmus](/pilze/marasmius-prasiosmus-großer-knoblauchschwindling)---------------------[Clitopilus hobsonii](/pilze/clitopilus-hobsonii-muschelförmiger-räsling) --------------------- [Mycena polyadelpha](/pilze/mycena-polyadelpha-winziger-eichenblatthelmling)
 
 **Aktueller Fundkorbpilz:**
 
