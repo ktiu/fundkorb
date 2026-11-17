@@ -10,8 +10,6 @@ footer_scripts:
 ---
  {% include pilzsuche.html %} 
 
-Unsere **pilzkundliche Führung für Einsteiger** am **Sonntag, 15. November 2026** ist inzwischen **ausgebucht**.
-
 **Neuer Termin:**\
 **Der Wald und seine Pilze im November** am **22. November 2026, 10:00 Uhr**.\
 Hier geht's [zur Anmeldung >](/termine)
@@ -27,6 +25,14 @@ Hier geht's [zur Anmeldung >](/termine)
 [Marasmius prasiosmus](/pilze/marasmius-prasiosmus-großer-knoblauchschwindling)---------------------[Clitopilus hobsonii](/pilze/clitopilus-hobsonii-muschelförmiger-räsling) --------------------- [Mycena polyadelpha](/pilze/mycena-polyadelpha-winziger-eichenblatthelmling)
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/marasmiellus_-perforans_01_cw.jpg" %}
+{% include abbildung_ende.html %}
+
+18.11.2026: Auf am Boden liegenden Fichtennadeln kann man verschiedene Pilzarten finden. Auch kleine Blätterpilzchen. Ein hübsches Beispiel ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Nadelschwindling *Marasmiellus perforans*, der durch seinen unangenehmen Geruch nach faulem Kohl auffällt. Er wird daher auch Stinkschwindling genannt. Die Hüte dieser in Fichtenwäldern recht häufigen Art werden bis zu 2 cm breit. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmiellus-perforans-nadelschwindling-stinkschwindling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_caerulea_01_dg.jpg" %}
@@ -73,14 +79,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 12.11.2026: Bei unserem heutigen aktuellen [Fundkorbpilz](AA "Glossar-") handelt es sich um den Grauen Langfüßler (*Helvella macropus*). Ähnlich ist der wesentlich seltenere Filzige Langfüßler (*Helvella villosa*). Zur sicheren Unterscheidung dieser beiden Becherlorcheln muss mikroskopiert werden. *Helvella macropus* hat deutlich größere schlank elliptische Sporen. Gefunden habe ich den Pilz an einem grasigen Waldwegrand bei Rodgau im Rhein-Main-Gebiet. (Yannic Tauber) [Mehr lesen >](/pilze/helvella-macropus-grauer-langfüßler)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/clitocybe_nebularis_01_dg.jpeg" %}
-{% include abbildung_ende.html %}
-
-11.11.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-"), die Nebelkappe *Clitocybe nebularis*, galt früher als Speisepilz, aufgrund nachgewiesener toxischer Inhaltsstoffe wird sie von Pilzsachverständigen jedoch nicht mehr zum Verzehr freigegeben. Dieser häufige und auffällige Spätherbstpilz wächst gern in Reihen oder Hexenringen an Waldwegrändern. Seine „nebelgrauen“ Farben am gesamten Fruchtkörper und die bogenförmig am Stiel herablaufenden Lamellen machen ihn nahezu unverwechselbar. (Ulrike Wegner) [Mehr lesen >](/pilze/clitocybe-nebularis-nebelgrauer-trichterling-nebelkappe)
 
 <div style="clear:  both"></div>
 
