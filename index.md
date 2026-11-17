@@ -26,7 +26,7 @@ Hier geht's [zur Anmeldung >](/termine)
 
 **Aktueller Fundkorbpilz:**
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmiellus_-perforans_01_cw.jpg" %}
 {% include abbildung_ende.html %}
 
