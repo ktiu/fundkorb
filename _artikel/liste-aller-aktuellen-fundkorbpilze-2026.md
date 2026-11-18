@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-18.11.2026: [Marasmius perforans - Nadelschwindling, Stinkschwindling](/pilze/marasmiellus-perforans-nadelschwindling-stinkschwindling)  
+19.11.2026: [Mycena aetites - Graublättriger Rußhelmling](/pilze/mycena-aetites-graublättriger-rußhelmling)  
+18.11.2026: [Marasmius perforans - Nadelschwindling, Stinkschwindling](/pilze/marasmiellus-perforans-nadelschwindling-stinkschwindling)\
 17.11.2026: [Russula caerulea - Buckeltäubling](/pilze/russula-caerulea-buckeltäubling)\
 16.11.2026: [Lentinellus ursinus - Geschichteter Zähling](/pilze/lentinellus-ursinus-geschichteter-zähling)\
 15.11.2026: [Suillus grevillei - Goldröhrling](/pilze/suillus-grevillei-goldröhrling)\
