@@ -22,7 +22,7 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include bild.html datei="/bilder/clitopilus_hobsonii_01_vs.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Dermoloma cuneifolium------------------[Marasmius prasiosmus](/pilze/marasmius-prasiosmus-großer-knoblauchschwindling)---------------------[Clitopilus hobsonii](/pilze/clitopilus-hobsonii-muschelförmiger-räsling)
+[Dermoloma cuneifolium](/pilze/dermoloma-cuneifolium-runzeliger-samtritterling) --------------------- [Marasmius prasiosmus](/pilze/marasmius-prasiosmus-großer-knoblauchschwindling) ---------------------[Clitopilus hobsonii](/pilze/clitopilus-hobsonii-muschelförmiger-räsling)
 
 **Aktueller Fundkorbpilz:**
 
