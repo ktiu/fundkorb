@@ -27,6 +27,14 @@ Hier geht's [zur Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_aetites_01_cw.jpg" %}
+{% include abbildung_ende.html %}
+
+19.11.2026: Feucht genug ist es inzwischen und auch in unserer Dietzenbacher Parkanlage tut sich was. Einer der gerade vorhandenen Helmlinge und aktueller [Fundkorbpilz](AA "Glossar-") ist der Graublättrige Rußhelmling *Mycena aetites*, der gesellig wachsend auf einer der moosigen Grasflächen erschienen ist. Zu seinen Merkmalen gehören neben den grauen Farben sehr lange zerbrechliche Stiele, was bei Helmlingen allerdings kein besonderes Kennzeichen ist. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-aetites-graublättriger-rußhelmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/marasmiellus_-perforans_01_cw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -71,14 +79,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 13.11.2026: Auch wenig oder kaum beachtete kleine Pilze dürfen aktueller [Fundkorbpilz](AA "Glossar-") sein. Ein besonders attraktiver ist der Ästchenschwindling *Marasmiellus ramealis*, der Totholz und abgestorbene Ästchen am Boden, am Strauch oder in Reisighaufen in großer Zahl bewachsen kann. Es ist vor allem die filigrane Lamellenstruktur, die das Auge erfreut. Für Speisezwecke kommt er nicht in Frage. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmiellus-ramealis)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/helvella_macropus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-12.11.2026: Bei unserem heutigen aktuellen [Fundkorbpilz](AA "Glossar-") handelt es sich um den Grauen Langfüßler (*Helvella macropus*). Ähnlich ist der wesentlich seltenere Filzige Langfüßler (*Helvella villosa*). Zur sicheren Unterscheidung dieser beiden Becherlorcheln muss mikroskopiert werden. *Helvella macropus* hat deutlich größere schlank elliptische Sporen. Gefunden habe ich den Pilz an einem grasigen Waldwegrand bei Rodgau im Rhein-Main-Gebiet. (Yannic Tauber) [Mehr lesen >](/pilze/helvella-macropus-grauer-langfüßler)
 
 <div style="clear:  both"></div>
 
