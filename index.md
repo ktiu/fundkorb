@@ -17,12 +17,12 @@ Hier geht's [zur Anmeldung >](/termine)
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/dermoloma_cuneifolium_01_cw.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/marasmius_prasiosmus_01_cw.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/clitopilus_hobsonii_01_vs.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/mycena_polyadelpha_01_er.jpeg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-[Marasmius prasiosmus](/pilze/marasmius-prasiosmus-großer-knoblauchschwindling)---------------------[Clitopilus hobsonii](/pilze/clitopilus-hobsonii-muschelförmiger-räsling) --------------------- [Mycena polyadelpha](/pilze/mycena-polyadelpha-winziger-eichenblatthelmling)
+Dermoloma cuneifolium------------------[Marasmius prasiosmus](/pilze/marasmius-prasiosmus-großer-knoblauchschwindling)---------------------[Clitopilus hobsonii](/pilze/clitopilus-hobsonii-muschelförmiger-räsling)
 
 **Aktueller Fundkorbpilz:**
 
