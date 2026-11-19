@@ -27,6 +27,14 @@ Hier geht's [zur Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tapinella_atrotomentosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+20.11.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Samtfußkrempling *Tapinella atrotomentosa*, der schon durch einfachen Vergleich mit einem Literatur-Foto zweifelsfrei erkannt werden kann. Er wächst an totem Holz, vor allem an Kiefern- und Fichtenstümpfen, und das ist auch der Grund, weshalb er nicht mehr zur Verwandtschaft des [Kahlen Kremplings (Paxillus involutus)](/pilze/paxillus-involutus-kahler-krempling) zählt und als "Holzkrempling" in die neue Gattung *Tapinella* gestellt wurde. Er sieht zwar sympathisch und appetitlich aus, aber sein muffiger Geschmack macht ihn leider ungenießbar. (Dieter Gewalt) [Mehr lesen >](/pilze/tapinella-atrotomentosa-samtfußkrempling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_aetites_01_cw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -71,14 +79,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 14.11.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fransige Wulstling *Amanita strobiliformis*, den ich gestern im Frankfurter Hauptfriedhof bei den Kriegsgräbern gefunden habe. Auf dieser Fläche kommen immer mal wieder Pilze vor, die kalkhaltige Böden bevorzugen und saure meiden. An solchen Standorten ist der ansonsten seltene Fransige Wulstling immer mal wieder zu finden. Er ist essbar und soll sogar recht schmackhaft sein. (Renate Zinnow) [Mehr lesen >](/pilze/amanita-strobiliformis-fransiger-wulstling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmiellus_ramealis_01_dg.jpeg" nocrop=true %}
-{% include abbildung_ende.html %}
-
-13.11.2026: Auch wenig oder kaum beachtete kleine Pilze dürfen aktueller [Fundkorbpilz](AA "Glossar-") sein. Ein besonders attraktiver ist der Ästchenschwindling *Marasmiellus ramealis*, der Totholz und abgestorbene Ästchen am Boden, am Strauch oder in Reisighaufen in großer Zahl bewachsen kann. Es ist vor allem die filigrane Lamellenstruktur, die das Auge erfreut. Für Speisezwecke kommt er nicht in Frage. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmiellus-ramealis)
 
 <div style="clear:  both"></div>
 
