@@ -17,12 +17,12 @@ Hier geht's [zur Anmeldung >](/termine)
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/marasmiellus_candidus_01_wi.png" nocrop=true %}
 {% include bild.html datei="/bilder/dermoloma_cuneifolium_01_cw.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/marasmius_prasiosmus_01_cw.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/clitopilus_hobsonii_01_vs.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-[Dermoloma cuneifolium](/pilze/dermoloma-cuneifolium-runzeliger-samtritterling) --------------------- [Marasmius prasiosmus](/pilze/marasmius-prasiosmus-großer-knoblauchschwindling) ---------------------[Clitopilus hobsonii](/pilze/clitopilus-hobsonii-muschelförmiger-räsling)
+[Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling)---------------------[Dermoloma cuneifolium](/pilze/dermoloma-cuneifolium-runzeliger-samtritterling) --------------------- [Marasmius prasiosmus](/pilze/marasmius-prasiosmus-großer-knoblauchschwindling)
 
 **Aktueller Fundkorbpilz:**
 
