@@ -22,7 +22,7 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include bild.html datei="/bilder/marasmius_prasiosmus_01_cw.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-[Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling)---------------------[Dermoloma cuneifolium](/pilze/dermoloma-cuneifolium-runzeliger-samtritterling) --------------------- [Marasmius prasiosmus](/pilze/marasmius-prasiosmus-großer-knoblauchschwindling)
+[Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling)-----------------------[Dermoloma cuneifolium](/pilze/dermoloma-cuneifolium-runzeliger-samtritterling) ------------------------ [Marasmius prasiosmus](/pilze/marasmius-prasiosmus-großer-knoblauchschwindling)
 
 **Aktueller Fundkorbpilz:**
 
