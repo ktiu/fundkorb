@@ -12,7 +12,7 @@ footer_scripts:
 
 **Neuer Termin:**\
 **Der Wald und seine Pilze im November** am **22. November 2026, 10:00 Uhr**.\
-Hier geht's [zur Anmeldung >](/termine)
+Dieser Termin ist **ausgebucht**. Es wird weitere pilzkundliche Führungen geben. Details in Kürze.[](/termine)
 
 **Neu im Fundkorb:**
 
