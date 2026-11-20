@@ -22,7 +22,7 @@ Dieser Termin ist **ausgebucht**. Es wird weitere pilzkundliche Führungen geben
 {% include bild.html datei="/bilder/dermoloma_cuneifolium_01_cw.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-[Lepiota ignivolvata](/pilze/lepiota-ignivolvata-beschuhter-schirmling)-----------------------[Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling)------------------------[Dermoloma cuneifolium](/pilze/dermoloma-cuneifolium-runzeliger-samtritterling)
+[Lepiota ignivolvata](/pilze/lepiota-ignivolvata-beschuhter-schirmling)------------------------[Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling)-------------------------[Dermoloma cuneifolium](/pilze/dermoloma-cuneifolium-runzeliger-samtritterling)
 
 **Aktueller Fundkorbpilz:**
 
