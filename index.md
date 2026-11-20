@@ -27,6 +27,14 @@ Hier geht's [zur Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+21.11.2026: Spätherbst und sinkende Temperaturen lassen eine für die Jahreszeit typische Pilzart erwarten: den Frostschneckling (*Hygrophorus hypothejus*). Die ersten Exemplare dieses aktuellen [Fundkorbpilzes](AA "Glossar-") habe ich allerdings an einer Stelle gefunden, an der man sie kaum erwarten durfte - ausgerechnet in einem Dietzenbacher Vorgarten! Ihr Partnerbaum, die Waldkiefer, war natürlich auch vorhanden. Mit ihren bogig geschwungenen, orange-gelblich gefärbten und mehrfach untermischten Lamellen ist der Pilz ausgesprochen hübsch. Trotz seiner stark schleimigen Huthaut, die man abziehen kann, gilt er als schmackhafter Speisepilz. (Yannic Tauber) [Mehr lesen >](/pilze/hygrophorus-hypothejus-frostschneckling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tapinella_atrotomentosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -71,14 +79,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 15.11.2026: Seine goldgelbe Farbe und die in feuchtem Zustand schmierige Hutoberfläche machen unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Goldröhrling *Suillus grevillei*, eigentlich schon unverwechselbar. Beachtet man noch das Vorkommen ausschließlich bei Lärchen, sollte die Bestimmung gesichert sein. Der Goldröhrling ist ein recht schmackhafter Speisepilz, wenn auch das Putzen wegen der schleimigen Hüte wenig Spaß macht. (Dieter Gewalt) [Mehr lesen >](/pilze/suillus-grevillei-goldröhrling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/amanita_strobiliformis_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-14.11.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Fransige Wulstling *Amanita strobiliformis*, den ich gestern im Frankfurter Hauptfriedhof bei den Kriegsgräbern gefunden habe. Auf dieser Fläche kommen immer mal wieder Pilze vor, die kalkhaltige Böden bevorzugen und saure meiden. An solchen Standorten ist der ansonsten seltene Fransige Wulstling immer mal wieder zu finden. Er ist essbar und soll sogar recht schmackhaft sein. (Renate Zinnow) [Mehr lesen >](/pilze/amanita-strobiliformis-fransiger-wulstling)
 
 <div style="clear:  both"></div>
 
