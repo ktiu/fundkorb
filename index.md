@@ -17,12 +17,12 @@ Hier geht's [zur Anmeldung >](/termine)
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
+{% include bild.html datei="/bilder/lepiota_ignivolvata_04_md.png" nocrop=true %}
 {% include bild.html datei="/bilder/marasmiellus_candidus_01_wi.png" nocrop=true %}
 {% include bild.html datei="/bilder/dermoloma_cuneifolium_01_cw.jpg" nocrop=true %}
-{% include bild.html datei="/bilder/marasmius_prasiosmus_01_cw.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-[Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling)-----------------------[Dermoloma cuneifolium](/pilze/dermoloma-cuneifolium-runzeliger-samtritterling) ------------------------ [Marasmius prasiosmus](/pilze/marasmius-prasiosmus-großer-knoblauchschwindling)
+[Lepiota ignivolvata](/pilze/lepiota-ignivolvata-beschuhter-schirmling)-------------------[Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling)--------------------[Dermoloma cuneifolium](/pilze/dermoloma-cuneifolium-runzeliger-samtritterling)
 
 **Aktueller Fundkorbpilz:**
 
