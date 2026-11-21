@@ -22,9 +22,17 @@ Dieser Termin ist **ausgebucht**. Es wird weitere pilzkundliche Führungen geben
 {% include bild.html datei="/bilder/dermoloma_cuneifolium_01_cw.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-[Lepiota ignivolvata](/pilze/lepiota-ignivolvata-beschuhter-schirmling)------------------------[Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling)-------------------------[Dermoloma cuneifolium](/pilze/dermoloma-cuneifolium-runzeliger-samtritterling)
+[Lepiota ignivolvata](/pilze/lepiota-ignivolvata-beschuhter-schirmling) ------------------------ [Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling) ------------------------- [Dermoloma cuneifolium](/pilze/dermoloma-cuneifolium-runzeliger-samtritterling)
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/pholiota_squarrosa_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+22.11.2026: Mit dem Sparrigen Schüppling *Pholiota squarrosa* haben wir heute einen ausgesprochen fotogenen aktuellen [Fundkorbpilz](AA "Glossar-"). Trockener schuppiger Hut und ebenso trockener schuppiger Stiel sind seine markanten Kennzeichen. Er wächst parasitisch an Laub- und Nadelbäumen, in Streuobstwiesen gern an Obstbäumen, an denen er eine intensive Weißfäule erzeugt. Geruch und Geschmack werden als rettichartig beschrieben. Personen mit empfindlichem Magen sollten ihn meiden. (Dieter Gewalt) [Mehr lesen >](/pilze/pholiota-squarrosa-sparriger-schüppling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" %}
@@ -71,14 +79,6 @@ Dieser Termin ist **ausgebucht**. Es wird weitere pilzkundliche Führungen geben
 {% include abbildung_ende.html %}
 
 16.11.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Geschichtete Zähling *Lentinellus ursinus*. Ich habe ihn heute bei der Pilzexkursion mit Dieter Gewalt in einem Wald bei Rodgau entdeckt. Es war ein persönlicher Erstfund. Er wuchs mit mehreren wie Dachziegel beieinander sitzenden Fruchtkörpern an einem liegenden Buchenstamm. Die Hüte sind braun und fühlen sich feinfilzig an. Wer genau hinschaut, sieht an den Lamellen eine feine Sägung. Gegessen wird er nicht, er soll sehr scharf und bitter schmecken. (Marc Freyer) [Mehr lesen >](/pilze/lentinellus-ursinus-geschichteter-zähling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/suillus_grevillei_03_xx.jpg" %}
-{% include abbildung_ende.html %}
-
-15.11.2026: Seine goldgelbe Farbe und die in feuchtem Zustand schmierige Hutoberfläche machen unseren aktuellen [Fundkorbpilz](AA "Glossar-"), den Goldröhrling *Suillus grevillei*, eigentlich schon unverwechselbar. Beachtet man noch das Vorkommen ausschließlich bei Lärchen, sollte die Bestimmung gesichert sein. Der Goldröhrling ist ein recht schmackhafter Speisepilz, wenn auch das Putzen wegen der schleimigen Hüte wenig Spaß macht. (Dieter Gewalt) [Mehr lesen >](/pilze/suillus-grevillei-goldröhrling)
 
 <div style="clear:  both"></div>
 
