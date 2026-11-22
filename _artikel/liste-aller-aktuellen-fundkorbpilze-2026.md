@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-22.11.2026: [Pholiota squarrosa - Sparriger Schüppling](/pilze/pholiota-squarrosa-sparriger-schüppling)  
+23.11.2026: [Tricholoma equestre - Grünling](/pilze/tricholoma-equestre-grünling)  
+22.11.2026: [Pholiota squarrosa - Sparriger Schüppling](/pilze/pholiota-squarrosa-sparriger-schüppling)\
 21.11.2026: [Hygrophorus hypothejus - Frostschneckling](/pilze/hygrophorus-hypothejus-frostschneckling)\
 20.11.2026: [Tapinella atrotomentosa - Samtfußkrempling](/pilze/tapinella-atrotomentosa-samtfußkrempling)\
 19.11.2026: [Mycena aetites - Graublättriger Rußhelmling](/pilze/mycena-aetites-graublättriger-rußhelmling)\
