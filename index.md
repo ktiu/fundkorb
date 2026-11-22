@@ -27,6 +27,14 @@ Dieser Termin ist **ausgebucht**. Es wird weitere pilzkundliche Führungen geben
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_equestre_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+23.11.2026: Ob der Grünling *Tricholoma equestre* ein problemloser guter Speisepilz oder ein gefährlicher Giftpilz und Verursacher der Rhabdomyolyse ist, weiß zur Zeit wohl niemand verbindlich einzuschätzen. Er ist jedenfalls unser aktueller [Fundkorbpilz](AA "Glossar-") und in ganz Mitteleuropa eine stark gefährdete Art. Um so erfreulicher seine seit mehreren Jahren massenhaften Vorkommen in einem Kiefernareal bei Rödermark-Waldacker, wo wir ihn gestern bei einer pilzkundlichen Führung am Abhang zu einem Anglerteich wieder zahlreich und steif gefroren gefunden haben. Speisepilzsammler werden wegen der Panikmache um seine angeblich lebensbedrohliche Giftigkeit sicher nicht zu seiner Ausrottung beitragen. (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-equestre-grünling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/pholiota_squarrosa_01_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -71,14 +79,6 @@ Dieser Termin ist **ausgebucht**. Es wird weitere pilzkundliche Führungen geben
 {% include abbildung_ende.html %}
 
 17.11.2026: Der Buckeltäubling *Russula caerulea*, unser aktueller [Fundkorbpilz](AA "Glossar-"), gehört zu der sehr überschaubaren Anzahl von Täublingen, die unterwegs im Wald einigermaßen sicher erkannt werden können. Seine Kennzeichen sind der Buckel in der Hutmitte in Verbindung mit der violett- bis purpurbraunen oder weinroten, glänzenden Huthaut, die sich maximal bis zur Hälfte abziehen lässt, und die jung blass gelblichen, später dottergelben Lamellen. Er ist eine Charakterart sandiger Kiefernwälder und hier oft massenhaft anzutreffen. Entgegen mancher Literaturangaben ist er ein guter und durchaus empfehlenswerter Speisepilz. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-caerulea-buckeltäubling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/lentinellus_ursinus_03_dg.png" %}
-{% include abbildung_ende.html %}
-
-16.11.2026: Unser aktueller [Fundkorbpilz](AA "Glossar-") ist der Geschichtete Zähling *Lentinellus ursinus*. Ich habe ihn heute bei der Pilzexkursion mit Dieter Gewalt in einem Wald bei Rodgau entdeckt. Es war ein persönlicher Erstfund. Er wuchs mit mehreren wie Dachziegel beieinander sitzenden Fruchtkörpern an einem liegenden Buchenstamm. Die Hüte sind braun und fühlen sich feinfilzig an. Wer genau hinschaut, sieht an den Lamellen eine feine Sägung. Gegessen wird er nicht, er soll sehr scharf und bitter schmecken. (Marc Freyer) [Mehr lesen >](/pilze/lentinellus-ursinus-geschichteter-zähling)
 
 <div style="clear:  both"></div>
 
