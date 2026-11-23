@@ -18,7 +18,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/marasmiellus_candidus_01_wi.png" nocrop=true %}
 {% include abbildung_ende.html %}
 
-Exidia thuretiana - - - - - - - - - - - - - - - [Lepiota ignivolvata](/pilze/lepiota-ignivolvata-beschuhter-schirmling) - - - - - - - - - - - - - [Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling)
+[Exidia thuretiana](/pilze/exidia-thuretiana-weißlicher-drüsling) - - - - - - - - - - - - - - - [Lepiota ignivolvata](/pilze/lepiota-ignivolvata-beschuhter-schirmling) - - - - - - - - - - - - - [Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling)
 
 **Aktueller Fundkorbpilz:**
 
