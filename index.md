@@ -10,19 +10,15 @@ footer_scripts:
 ---
  {% include pilzsuche.html %} 
 
-**Neuer Termin:**\
-**Der Wald und seine Pilze im November** am **22. November 2026, 10:00 Uhr**.\
-Dieser Termin ist **ausgebucht**. Es wird weitere pilzkundliche Führungen geben. Details in Kürze.[](/termine)
-
 **Neu im Fundkorb:**
 
-{% include abbildung_start.html stil="klein" %}
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/exidia_thuretiana_01_vs.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/lepiota_ignivolvata_04_md.png" nocrop=true %}
 {% include bild.html datei="/bilder/marasmiellus_candidus_01_wi.png" nocrop=true %}
-{% include bild.html datei="/bilder/dermoloma_cuneifolium_01_cw.jpg" nocrop=true %}
 {% include abbildung_ende.html %}
 
-[Lepiota ignivolvata](/pilze/lepiota-ignivolvata-beschuhter-schirmling) ------------------------ [Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling) ------------------------- [Dermoloma cuneifolium](/pilze/dermoloma-cuneifolium-runzeliger-samtritterling)
+Exidia thuretiana - - - - - - - - - - - - - - - [Lepiota ignivolvata](/pilze/lepiota-ignivolvata-beschuhter-schirmling) - - - - - - - - - - - - - [Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling)
 
 **Aktueller Fundkorbpilz:**
 
