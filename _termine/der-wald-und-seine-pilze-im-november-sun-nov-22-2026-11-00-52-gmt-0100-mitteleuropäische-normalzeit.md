@@ -1,6 +1,6 @@
 ---
 aktivitaet: Der Wald und seine Pilze im November
-zeit: 2026-11-22T10:00:52.731Z
+zeit: 2026-11-29T10:00:52.731Z
 bis: ""
 anmeldung_offen: true
 anmeldung_noetig: true
