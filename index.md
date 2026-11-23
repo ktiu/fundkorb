@@ -10,8 +10,8 @@ footer_scripts:
 ---
  {% include pilzsuche.html %} 
 
-Neuer Exkursionstermin:  
-**Der Wald und seine Pilze im November** am **Sonntag, 29. November 2026**, 10:00 Uhr  
+Neuer Exkursionstermin:\
+**Der Wald und seine Pilze im November** am **Sonntag, 29. November 2026**, 10:00 Uhr\
 Hier geht's [zur Anmeldung >](/termine)
 
 **Neu im Fundkorb:**
@@ -25,6 +25,14 @@ Hier geht's [zur Anmeldung >](/termine)
 [Exidia thuretiana](/pilze/exidia-thuretiana-weißlicher-drüsling) - - - - - - - - - - - - - - [Lepiota ignivolvata](/pilze/lepiota-ignivolvata-beschuhter-schirmling) - - - - - - - - - - - - [Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling)
 
 **Aktueller Fundkorbpilz:**
+
+{% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/suillus_luteus_01_gg.jpg" %}
+{% include abbildung_ende.html %}
+
+24.11.2026: Zu den wenigen Röhrlingen, die einen Ring am Stiel haben, gehört unser aktueller [Fundkorbpilz](AA "Glossar-"), der Butter-Röhrling *Suillus luteus*. Man findet ihn in der Nähe von Kiefern, mit denen er eine [Mykorrhiza](<Mykorrhiza "Glossar">) eingeht, eine Lebensgemeinschaft zum beiderseitigen Vorteil. Er ist zwar ein recht schmackhafter und viel gesammelter Speisepilz, aber nicht immer leicht von seiner unsympathischen Schleimschicht zu befreien. Er wird auch Schmierling, Schmalzling, Rotzling, Pomeisl oder Pömke genannt. (Dieter Gewalt) [Mehr lesen >](/pilze/suillus-luteus-butter-röhrling)
+
+<div style="clear:  both"></div>
 
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_equestre_02_dg.jpg" %}
@@ -71,14 +79,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 18.11.2026: Auf am Boden liegenden Fichtennadeln kann man verschiedene Pilzarten finden. Auch kleine Blätterpilzchen. Ein hübsches Beispiel ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Nadelschwindling *Marasmiellus perforans*, der durch seinen unangenehmen Geruch nach faulem Kohl auffällt. Er wird daher auch Stinkschwindling genannt. Die Hüte dieser in Fichtenwäldern recht häufigen Art werden bis zu 2 cm breit. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmiellus-perforans-nadelschwindling-stinkschwindling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/russula_caerulea_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-17.11.2026: Der Buckeltäubling *Russula caerulea*, unser aktueller [Fundkorbpilz](AA "Glossar-"), gehört zu der sehr überschaubaren Anzahl von Täublingen, die unterwegs im Wald einigermaßen sicher erkannt werden können. Seine Kennzeichen sind der Buckel in der Hutmitte in Verbindung mit der violett- bis purpurbraunen oder weinroten, glänzenden Huthaut, die sich maximal bis zur Hälfte abziehen lässt, und die jung blass gelblichen, später dottergelben Lamellen. Er ist eine Charakterart sandiger Kiefernwälder und hier oft massenhaft anzutreffen. Entgegen mancher Literaturangaben ist er ein guter und durchaus empfehlenswerter Speisepilz. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-caerulea-buckeltäubling)
 
 <div style="clear:  both"></div>
 
