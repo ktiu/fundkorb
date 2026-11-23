@@ -12,7 +12,7 @@ footer_scripts:
 
 **Neu im Fundkorb:**
 
-{% include abbildung_start.html stil="standard" %}
+{% include abbildung_start.html stil="klein" %}
 {% include bild.html datei="/bilder/exidia_thuretiana_01_vs.jpg" nocrop=true %}
 {% include bild.html datei="/bilder/lepiota_ignivolvata_04_md.png" nocrop=true %}
 {% include bild.html datei="/bilder/marasmiellus_candidus_01_wi.png" nocrop=true %}
