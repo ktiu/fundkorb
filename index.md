@@ -10,6 +10,10 @@ footer_scripts:
 ---
  {% include pilzsuche.html %} 
 
+Neuer Exkursionstermin:  
+**Der Wald und seine Pilze im November** am **Sonntag, 29. November 2026**, 10:00 Uhr  
+Hier geht's [zur Anmeldung >](/termine)
+
 **Neu im Fundkorb:**
 
 {% include abbildung_start.html stil="klein" %}
@@ -18,7 +22,7 @@ footer_scripts:
 {% include bild.html datei="/bilder/marasmiellus_candidus_01_wi.png" nocrop=true %}
 {% include abbildung_ende.html %}
 
-[Exidia thuretiana](/pilze/exidia-thuretiana-weißlicher-drüsling) - - - - - - - - - - - - - [Lepiota ignivolvata](/pilze/lepiota-ignivolvata-beschuhter-schirmling) - - - - - - - - - - - [Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling)
+[Exidia thuretiana](/pilze/exidia-thuretiana-weißlicher-drüsling) - - - - - - - - - - - - - - [Lepiota ignivolvata](/pilze/lepiota-ignivolvata-beschuhter-schirmling) - - - - - - - - - - - - [Marasmiellus candidus](/pilze/marasmiellus-candidus-weißer-zwergschwindling)
 
 **Aktueller Fundkorbpilz:**
 
