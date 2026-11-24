@@ -25,4 +25,4 @@ Beim Fund kleiner, kreisel- oder scheibenförmiger [Ascomyzeten](Ascomyzeten "Gl
 
 [Ascocoryne cylichnium](/pilze/ascocoryne-cylichnium-großsporiger-gallertbecher): violett-rosa Fruchtkörper, vor allem an totem Buchenholz, Sporen mit bis zu 5 Septen; 16 - 30 x 5 - 7 µm\
 Ascocoryne sarcoides: violett-rosa Fruchtkörper, an faulendem Holz (vor allem an Buche), Sporen nicht oder nur einfach septiert; 12 - 18 x 4 - 5,5 µm\
-Ascocoryne inflata: orangerote Fruchtkörper, gern an totem Birkenholz, Sporen nicht oder nur einfach septiert; 18 - 26 x 4,5 - 6,5 µm, stark kopfige Paraphysen
+[Ascocoryne inflata](/pilze/ascocoryne-inflata-orangeroter-gallertbecher): orangerote Fruchtkörper, gern an totem Birkenholz, Sporen nicht oder nur einfach septiert; 18 - 26 x 4,5 - 6,5 µm, stark kopfige Paraphysen
