@@ -3,7 +3,7 @@ beschreibung:
   wissenschaftlich: Ascocoryne cylichnium
   deutsch: Großsporiger Gallertbecher
   referenz: (Tul.) Korf 1971
-  erlaeuterung: cylichnium = ?
+  erlaeuterung: cylichnium = Näpfchen
   familie: Gelatinodiscaceae
 profil:
   aktualisiert: 2022-11-10
