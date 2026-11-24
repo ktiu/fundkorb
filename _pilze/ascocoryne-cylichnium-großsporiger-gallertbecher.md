@@ -22,8 +22,8 @@ literatur:
 
 Beim Fund kleiner, kreisel- oder scheibenförmiger [Ascomyzeten](Ascomyzeten "Glossar"), deren Fruchtkörper knäuelig aneinandergedrängt und sich gegenseitig verformend auf Totholz, gern auf Baumstümpfen wachsen, ist unbedingt die Gattung *Ascocoryne* in Betracht zu ziehen. Der hier gezeigte Großsporige Gallertbecher ist eine von den zwei häufig in der Literatur genannnten Arten. Die zweite ist der [Fleischrote Gallertbecher *Ascocoryne sarcoides*](/pilze/ascocoryne-sarcoides-fleischroter-gallertbecher), aber es gibt weitere und sie sind im Feld kaum voneinander zu unterscheiden. Sie sind stiellos oder minimal kurz gestielt, von fleischrosa, violetter bis dunkelvioletter Farbe und gelatinöser Konsistenz; Einzelfruchtkörper werden maximal 2 Zentimeter breit und bis zu 8 mm hoch. Eine sichere Unterscheidung ist nur durch mikroskopische Untersuchung reifer Sporen möglich.
 
-*Ascocoryne cylichnium*: violett-rosa Fruchtkörper, vor allem an totem Buchenholz, Sporen mit bis zu 5 Septen; 16 - 30 x 5 - 7 µm  
-*[Ascocoryne sarcoides](/pilze/ascocoryne-sarcoides-fleischroter-gallertbecher)*: violett-rosa Fruchtkörper, an faulendem Holz (vor allem an Buche), Sporen nicht oder nur einfach septiert; 12 - 18 x 4 - 5,5 µm  
-*Ascocoryne inflata*: orangerote Fruchtkörper, gern an totem Birkenholz, Sporen nicht oder nur einfach septiert; 18 - 26 x 4,5 - 6,5 µm, stark kopfige Paraphysen
+*Ascocoryne cylichnium*: violett-rosa Fruchtkörper, vor allem an totem Buchenholz, Sporen mit bis zu 5 Septen; 16 - 30 x 5 - 7 µm\
+*[Ascocoryne sarcoides](/pilze/ascocoryne-sarcoides-fleischroter-gallertbecher)*: violett-rosa Fruchtkörper, an faulendem Holz (vor allem an Buche), Sporen nicht oder nur einfach septiert; 12 - 18 x 4 - 5,5 µm\
+*[Ascocoryne inflata](/pilze/ascocoryne-inflata-orangeroter-gallertbecher)*: orangerote Fruchtkörper, gern an totem Birkenholz, Sporen nicht oder nur einfach septiert; 18 - 26 x 4,5 - 6,5 µm, stark kopfige Paraphysen
 
 .
