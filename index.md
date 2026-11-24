@@ -27,6 +27,14 @@ Hier geht's [zur Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/russula_sardonia_02_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+25.11.2026: Manche Pilze haben Spitznamen, die unter Amateurmykologen geläufiger sind als ihre offiziellen Namen. Zu ihnen gehört der Zitronenblättrige Täubling *Russula sardonia*, unser aktueller [Fundkorbpilz](AA "Glossar-"). Seinen Spitznamen „Säufernase“ verdankt er seinem mehr oder weniger violett gefärbten Stiel. Er ist zur Zeit in vielen Wäldern zu finden und zählt zu den sehr scharfen Täublingen, die in der Küche nichts verloren haben. (Dieter Gewalt) [Mehr lesen >](/pilze/russula-sardonia-zitronenblättriger-täubling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/suillus_luteus_01_gg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -71,14 +79,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 19.11.2026: Feucht genug ist es inzwischen und auch in unserer Dietzenbacher Parkanlage tut sich was. Einer der gerade vorhandenen Helmlinge und aktueller [Fundkorbpilz](AA "Glossar-") ist der Graublättrige Rußhelmling *Mycena aetites*, der gesellig wachsend auf einer der moosigen Grasflächen erschienen ist. Zu seinen Merkmalen gehören neben den grauen Farben sehr lange zerbrechliche Stiele, was bei Helmlingen allerdings kein besonderes Kennzeichen ist. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-aetites-graublättriger-rußhelmling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/marasmiellus_-perforans_01_cw.jpg" %}
-{% include abbildung_ende.html %}
-
-18.11.2026: Auf am Boden liegenden Fichtennadeln kann man verschiedene Pilzarten finden. Auch kleine Blätterpilzchen. Ein hübsches Beispiel ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Nadelschwindling *Marasmiellus perforans*, der durch seinen unangenehmen Geruch nach faulem Kohl auffällt. Er wird daher auch Stinkschwindling genannt. Die Hüte dieser in Fichtenwäldern recht häufigen Art werden bis zu 2 cm breit. (Dieter Gewalt) [Mehr lesen >](/pilze/marasmiellus-perforans-nadelschwindling-stinkschwindling)
 
 <div style="clear:  both"></div>
 
