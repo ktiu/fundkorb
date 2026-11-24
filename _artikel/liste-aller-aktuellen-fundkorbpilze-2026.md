@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-24.11.2026: [Suillus luteus - Butter-Röhrling](/pilze/suillus-luteus-butter-röhrling)  
+25.11.2026: [Russula sardonia - Zitronenblättriger Täubling](/pilze/russula-sardonia-zitronenblättriger-täubling)  
+24.11.2026: [Suillus luteus - Butter-Röhrling](/pilze/suillus-luteus-butter-röhrling)\
 23.11.2026: [Tricholoma equestre - Grünling](/pilze/tricholoma-equestre-grünling)\
 22.11.2026: [Pholiota squarrosa - Sparriger Schüppling](/pilze/pholiota-squarrosa-sparriger-schüppling)\
 21.11.2026: [Hygrophorus hypothejus - Frostschneckling](/pilze/hygrophorus-hypothejus-frostschneckling)\
