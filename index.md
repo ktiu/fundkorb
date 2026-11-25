@@ -27,6 +27,14 @@ Hier geht's [zur Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/tricholoma_saponaceum_01_nk.jpg" %}
+{% include abbildung_ende.html %}
+
+26.11.2026: Es ist erstaunlich, wie viele Pilze man zur Zeit in unseren Wäldern finden kann. Sie sind allerdings alle „schockgefroren“. Wie auch unser aktueller [Fundkorbpilz](AA "Glossar-") bei unserer letzten pilzkundlichen Führung, der Seifenritterling *Tricholoma saponaceum*. Optisch fällt er durch seinen helleren Hutrand auf, der auffällige Seifengeruch ist in gefrorenem Zustand jedoch nicht wahrnehmbar. (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-saponaceum-seifenritterling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/russula_sardonia_02_dg.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -71,14 +79,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 20.11.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Samtfußkrempling *Tapinella atrotomentosa*, der schon durch einfachen Vergleich mit einem Literatur-Foto zweifelsfrei erkannt werden kann. Er wächst an totem Holz, vor allem an Kiefern- und Fichtenstümpfen, und das ist auch der Grund, weshalb er nicht mehr zur Verwandtschaft des [Kahlen Kremplings (Paxillus involutus)](/pilze/paxillus-involutus-kahler-krempling) zählt und als "Holzkrempling" in die neue Gattung *Tapinella* gestellt wurde. Er sieht zwar sympathisch und appetitlich aus, aber sein muffiger Geschmack macht ihn leider ungenießbar. (Dieter Gewalt) [Mehr lesen >](/pilze/tapinella-atrotomentosa-samtfußkrempling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/mycena_aetites_01_cw.jpg" %}
-{% include abbildung_ende.html %}
-
-19.11.2026: Feucht genug ist es inzwischen und auch in unserer Dietzenbacher Parkanlage tut sich was. Einer der gerade vorhandenen Helmlinge und aktueller [Fundkorbpilz](AA "Glossar-") ist der Graublättrige Rußhelmling *Mycena aetites*, der gesellig wachsend auf einer der moosigen Grasflächen erschienen ist. Zu seinen Merkmalen gehören neben den grauen Farben sehr lange zerbrechliche Stiele, was bei Helmlingen allerdings kein besonderes Kennzeichen ist. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-aetites-graublättriger-rußhelmling)
 
 <div style="clear:  both"></div>
 
