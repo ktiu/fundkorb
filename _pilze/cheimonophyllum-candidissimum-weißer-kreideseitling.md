@@ -24,7 +24,7 @@ literatur:
 
 In der Familie der *Cyphellaceae* sind überwiegend kleine schalenförmige Pilze enthalten, die [saprobiontisch](saprobiontisch "Glossar") an unauffälligen organischen Substraten wachsen und daher leicht  übersehen werden können. Das trifft auch auf den hier vorgestellten Weißen Kreideseitling zu, dessen muschelförmige Hütchen immerhin 2 bis 3 Zentimeter Durchmesser erreichen können. Kreideweiß sind auch die fein gesägten Lamellen, die an einem rudimentären oder auch nicht vorhandenem Stielchen zusammenlaufen. Sie sind von zahreichen kürzeren Lameletten untermischt. Der Geruch wird als angenehm, der Geschmack als mild beschrieben. Der Pilz wird auch Kreide-Muscheling oder Weißer Zwergseitling genannt.
 
-Das Sporenpulver ist weiß. Die kugeligen Sporen entwickeln sich an viersporigen Basidien. Die von *Christian Weinkötz* untersuchten dünnwandigen inamyloiden Sporen hatten die Maße 6,5 - 7,3 (7,7) x (5,7) 5,9 x 6,7 (6,9) µm (Q = 1,03 x 1,16). Die Cheilozystiden sind fädig, an der Spitze verzweigt. Schnallen vorhanden.
+Das Sporenpulver ist weiß. Die kugeligen Sporen entwickeln sich an viersporigen Basidien. Die von *Christian Weinkötz* untersuchten dünnwandigen inamyloiden Sporen hatten die Maße 6,5 - 7,3 (7,7) x (5,7) 5,9 x 6,7 (6,9) µm (Q = 1,03 x 1,16). Die Cheilozystiden sind fädig, an der Spitze verzweigt. Schnallen sind vorhanden.
 
 Der Weiße Kreideseitling kann nahezu ganzjährig an morschen Stümpfen oder am Boden liegenden Ästen zahlreicher Laubbaumarten gefunden werden, bevorzugt in schattigen feuchten Lagen, gilt aber als sehr selten. Haupterscheinungszeit ist August bis November. 
 
