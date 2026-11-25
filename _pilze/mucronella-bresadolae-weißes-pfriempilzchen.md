@@ -19,6 +19,7 @@ literatur:
       Seite 100 - 101"
   - text: "Manfred Enderle: Die Pilzflora des Ulmer Raumes, Seite 184"
   - url: http://www.pilzflora-ehingen.de/pilzflora/arthtml/mbresadolae.php
+  - url: https://wkpilz.de/#wk-01372
 ---
 Die Gattung *Mucronella* enthält spitze dornenartige Pilzchen, die meist an der Unterseite von morschem Holz erscheinen und daher herabhängen. Die drei in Deutschland nachgewiesenen Arten erreichen Längen von 5 - 6 mm und sind schon deshalb und aufgrund ihrer verborgenen Wuchsweise sehr unauffällig.  Das Gelbe Pfriempilzchen *Mucronella flava* ist an seiner Farbe leicht zu erkennen, die beiden anderen haben weißliche Farben und sind durch Größe und Mikromerkmale relativ leicht zu unterscheiden.
 
