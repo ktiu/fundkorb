@@ -14,6 +14,7 @@ hauptbild:
   datei: /bilder/mycena_stipata_-01_dg.jpg
 literatur:
   - url: http://tintling.com/pilzbuch/arten/m/Mycena_stipata.html
+  - url: https://wkpilz.de/#wk-01371
 ---
 Die Anzahl der dicht büschelig an totem Holz wachsenden Helmlinge ist begrenzt, sodass diese Erscheinungsweise eine praktikable Bestimmungshilfe sein bzw. zum Ausschluss habituell ähnlicher Arten dienen kann. Büschelig bedeutet, dass die Stiele am Grund miteinander verwachsen sind. Dabei muss natürlich beachtet werden, dass büschelig an Holz wachsende Helmlinge auch mal vereinzelt oder nur gesellig auftreten können.
 
