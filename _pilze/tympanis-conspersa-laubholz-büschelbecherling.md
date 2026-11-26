@@ -12,7 +12,8 @@ hauptbild:
   anzeige: false
   datei: /bilder/tympanis_conspersa_01_hl.jpg
   legende: "Foto: Hermine Lotz-Winter"
-literatur: []
+literatur:
+  - text: "H. Knudsen & L- Hansen (Hrsg.): Nordic Macromycetes"
 ---
 {% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/tympanis_conspersa_01_hl.jpg" %}
