@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-26.11.2026: [Tricholoma saponaceum - Seifenritterling](/pilze/tricholoma-saponaceum-seifenritterling)  
+27.11.2026: [Mycena flavescens - Olivgelber Helmling](/pilze/mycena-flavescens-olivgelber-helmling)  
+26.11.2026: [Tricholoma saponaceum - Seifenritterling](/pilze/tricholoma-saponaceum-seifenritterling)\
 25.11.2026: [Russula sardonia - Zitronenblättriger Täubling](/pilze/russula-sardonia-zitronenblättriger-täubling)\
 24.11.2026: [Suillus luteus - Butter-Röhrling](/pilze/suillus-luteus-butter-röhrling)\
 23.11.2026: [Tricholoma equestre - Grünling](/pilze/tricholoma-equestre-grünling)\
