@@ -18,14 +18,14 @@ literatur:
       4, Seite 333 – 334"
   - text: "Rudolf Winkler / Gaby Keller: Pilze Mitteleuropas, Seite 618 (13.2.07)"
 ---
-{% include abbildung_start.html stil="fliessend" %}
+{% include abbildung_start.html stil="mittel" %}
 {% include bild.html datei="/bilder/pholiotina-arrhenii-2022-10-07-de-he-niedernhausen-rhein-main-theater-1.jpg" %}
 {% include abbildung_ende.html legende="07.10.2022 bei Niedernhausen, Hessen (Foto: Christian Weinkötz)" %}
 
-Samthäubchen (*Conocybe*) und Glockenschüpplinge (*Pholiotina*) sind zwei sehr nahestehende ehemalige Gattungen, die auch unter dem Namen *Conocybe* zusammengefasst werden. Der wesentliche und optisch gut erkennbare Unterschied besteht darin, dass *Pholiotina* beringte Stiele (also ein Velum partiale) besitzt, *Conocybe* dagegen nicht. Die Unterschiede kann man wie folgt beschreiben:
+Samthäubchen (*Conocybe*) und Glockenschüpplinge (*Pholiotina*) sind zwei sehr nahestehende ehemalige Gattungen, die auch unter dem Namen *Conocybe* zusammengefasst werden. Der wesentliche und optisch gut erkennbare Unterschied besteht darin, dass *Pholiotina* beringte Stiele (also ein [Velum partiale](Velum partiale "Glossar")) besitzt, *Conocybe* dagegen nicht. Die Unterschiede kann man wie folgt beschreiben:
 
 *Conocybe* (Samthäubchen)\
-Ring ([Velum](Velum "Glossa")): Fehlt oder ist nur als faserige Zone am Stiel angedeutet.\
+Ring ([Velum](Velum "Glossar")): Fehlt oder ist nur als faserige Zone am Stiel angedeutet.\
 Hutform: Oft spitz- oder kegelförmig; trocknet oft heller ([hygrophan](hygrophan "Glossar")) aus.\
 Stielbasis: Oft keulig verdickt, wurzelnd oder sparrig-faserig.\
 Mikroskopie: Cheilocystiden (Zystiden an den Lamellenschneiden) sind flaschenförmig (kragenknöpfchenartig).
