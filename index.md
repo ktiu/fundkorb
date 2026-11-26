@@ -27,6 +27,14 @@ Hier geht's [zur Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/mycena_flavescens_01_cw.jpg" %}
+{% include abbildung_ende.html %}
+
+27.11.2026: Etwa 130 Helmlingsarten sind in Deutschland nachgewiesen, aber nur wenige optisch sicher zu erkennen. Manchmal hilft die Nase wie bei unserem aktuellen [Fundkorbpilz](AA "Glossar-"), dem Olivgelben Helmling *Mycena flavescens*. Dass er sehr lange dünne Stiele hat, reicht da nicht aus, sein Geruch nach Kartoffeln ist schon zielführender. Im Zweifelsfall sollte man die Stielbasis zerquetschen, damit er deutlicher wird. (Dieter Gewalt) [Mehr lesen >](/pilze/mycena-flavescens-olivgelber-helmling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/tricholoma_saponaceum_01_nk.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -71,14 +79,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 21.11.2026: Spätherbst und sinkende Temperaturen lassen eine für die Jahreszeit typische Pilzart erwarten: den Frostschneckling (*Hygrophorus hypothejus*). Die ersten Exemplare dieses aktuellen [Fundkorbpilzes](AA "Glossar-") habe ich allerdings an einer Stelle gefunden, an der man sie kaum erwarten durfte - ausgerechnet in einem Dietzenbacher Vorgarten! Ihr Partnerbaum, die Waldkiefer, war natürlich auch vorhanden. Mit ihren bogig geschwungenen, orange-gelblich gefärbten und mehrfach untermischten Lamellen ist der Pilz ausgesprochen hübsch. Trotz seiner stark schleimigen Huthaut, die man abziehen kann, gilt er als schmackhafter Speisepilz. (Yannic Tauber) [Mehr lesen >](/pilze/hygrophorus-hypothejus-frostschneckling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/tapinella_atrotomentosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-20.11.2026: Aktueller [Fundkorbpilz](AA "Glossar-") ist der Samtfußkrempling *Tapinella atrotomentosa*, der schon durch einfachen Vergleich mit einem Literatur-Foto zweifelsfrei erkannt werden kann. Er wächst an totem Holz, vor allem an Kiefern- und Fichtenstümpfen, und das ist auch der Grund, weshalb er nicht mehr zur Verwandtschaft des [Kahlen Kremplings (Paxillus involutus)](/pilze/paxillus-involutus-kahler-krempling) zählt und als "Holzkrempling" in die neue Gattung *Tapinella* gestellt wurde. Er sieht zwar sympathisch und appetitlich aus, aber sein muffiger Geschmack macht ihn leider ungenießbar. (Dieter Gewalt) [Mehr lesen >](/pilze/tapinella-atrotomentosa-samtfußkrempling)
 
 <div style="clear:  both"></div>
 
