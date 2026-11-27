@@ -27,6 +27,14 @@ Hier geht's [zur Anmeldung >](/termine)
 **Aktueller Fundkorbpilz:**
 
 {% include abbildung_start.html stil="fliessend" %}
+{% include bild.html datei="/bilder/gomphidius_roseus_01_dg.jpg" %}
+{% include abbildung_ende.html %}
+
+28.11.2026: Am Anglerteich Waldacker (Landkreis Offenbach) ist unser aktueller [Fundkorbpilz](AA "Glossar-"), der Rosenrote Schmierling *Gomphidius roseus*, seit Jahrezehnten zuverlässig zu finden. Der hübsche kleine Pilz erfreut durch seine rosenrote Hutfarbe und seine attraktive Gestalt nicht nur das Auge, er ist auch essbar und schmackhaft. Dem Genuss in der Küche haben Natürschützer allerdings einen Riegel vorgeschoben. In Roten Listen ist er in Stufe 3 (im Bestand gefährdet) ausgewiesen. (Dieter Gewalt) [Mehr lesen >](/pilze/gomphidius-roseus-rosenroter-schmierling)
+
+<div style="clear:  both"></div>
+
+{% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/mycena_flavescens_01_cw.jpg" %}
 {% include abbildung_ende.html %}
 
@@ -71,14 +79,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 22.11.2026: Mit dem Sparrigen Schüppling *Pholiota squarrosa* haben wir heute einen ausgesprochen fotogenen aktuellen [Fundkorbpilz](AA "Glossar-"). Trockener schuppiger Hut und ebenso trockener schuppiger Stiel sind seine markanten Kennzeichen. Er wächst parasitisch an Laub- und Nadelbäumen, in Streuobstwiesen gern an Obstbäumen, an denen er eine intensive Weißfäule erzeugt. Geruch und Geschmack werden als rettichartig beschrieben. Personen mit empfindlichem Magen sollten ihn meiden. (Dieter Gewalt) [Mehr lesen >](/pilze/pholiota-squarrosa-sparriger-schüppling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/hygrophorus_hypothejus_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-21.11.2026: Spätherbst und sinkende Temperaturen lassen eine für die Jahreszeit typische Pilzart erwarten: den Frostschneckling (*Hygrophorus hypothejus*). Die ersten Exemplare dieses aktuellen [Fundkorbpilzes](AA "Glossar-") habe ich allerdings an einer Stelle gefunden, an der man sie kaum erwarten durfte - ausgerechnet in einem Dietzenbacher Vorgarten! Ihr Partnerbaum, die Waldkiefer, war natürlich auch vorhanden. Mit ihren bogig geschwungenen, orange-gelblich gefärbten und mehrfach untermischten Lamellen ist der Pilz ausgesprochen hübsch. Trotz seiner stark schleimigen Huthaut, die man abziehen kann, gilt er als schmackhafter Speisepilz. (Yannic Tauber) [Mehr lesen >](/pilze/hygrophorus-hypothejus-frostschneckling)
 
 <div style="clear:  both"></div>
 
