@@ -49,7 +49,7 @@ Zwar kann man die makroskopisch leicht erkennbare Gallerte ohne besondere Färbe
 {% include bild.html datei="/bilder/exidia_thuretiana_06_vs.jpg" %}
 {% include abbildung_ende.html legende="Längsseptierte Hypbasidien mit jungen Epibasidien" %}
 
-Wie die meisten Arten der Ohrlappenpilzartigen (*Auriculariales*) besitzt der Weißliche Drüsling längsseptierte Hypobasidien. Diese sind birnenförmig und messen 14 – 20 × 8,5 – 12 μm. Die Epibasidien sind in der Regel vier an der Zahl und werden bis zu 50 μm lang. Junge Hypobasidien besitzen Schnallen, im Alter sind diese oft nicht mehr erkennbar.
+Wie die meisten Arten der Ohrlappenpilzartigen (*Auriculariales*) besitzt der Weißliche Drüsling längsseptierte [Hypobasidien](Hypobasidie "Glossar"). Diese sind birnenförmig und messen 14 – 20 × 8,5 – 12 μm. Die [Epibasidien](Epibasidie "Glossar") sind in der Regel vier an der Zahl und werden bis zu 50 μm lang. Junge Hypobasidien besitzen Schnallen, im Alter sind diese oft nicht mehr erkennbar.
 
 Wer auf die gallertige Konsistenz in Kombination mit weißer Farbe achtet, kann die Zahl der Verwechslungspartner schnell auf ein Minimum reduzieren, wobei der Kerndrüsling (*Myxarium nucleatum*) dem Weißlichen Drüsling mit Abstand am ähnlichsten sieht. Makroskopisch unterscheidet er sich dadurch, dass er kleiner, weniger fest und durchscheinender als der Weißliche Drüsling ist. Zudem besitzt er – wie der Name bereits nahelegt – feste, weiße Kerne in seinem Inneren. Mikroskopisch kann man die beiden Arten daran unterscheiden, dass der Kerndrüsling gestielte Basidien besitzt, der Weißliche Drüsling nicht.
 
