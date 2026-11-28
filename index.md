@@ -26,6 +26,14 @@ Hier geht's [zur Anmeldung >](/termine)
 
 **Aktueller Fundkorbpilz:**
 
+{% include abbildung_start.html stil="standard" %}
+{% include bild.html datei="/bilder/gomphidius_roseus_03_eh.jpeg" %}
+{% include abbildung_ende.html %}
+
+29.11.2026: Den wuderschönen Rosenroten Schmierling (siehe 28.11.) würde es ohne den Kuhröhrling *Suillus bovinus*, unseren aktuellen [Fundkorbpilz](AA "Glossar-"), nicht geben. Er ist dessen erzwungener Partner, was so viel bedeutet, dass der hübsche Schmierling ein Parasit ist. Beide sind ziemlich unverwechselbar, und wenn sie gemeinsam erscheinen wie auf unserem Foto, sind alle denkbaren Zweifel beseitigt. (Dieter Gewalt) [Mehr lesen >](/pilze/suillus-bovinus-kuhröhrling)
+
+<div style="clear:  both"></div>
+
 {% include abbildung_start.html stil="fliessend" %}
 {% include bild.html datei="/bilder/gomphidius_roseus_01_dg.jpg" %}
 {% include abbildung_ende.html %}
@@ -71,14 +79,6 @@ Hier geht's [zur Anmeldung >](/termine)
 {% include abbildung_ende.html %}
 
 23.11.2026: Ob der Grünling *Tricholoma equestre* ein problemloser guter Speisepilz oder ein gefährlicher Giftpilz und Verursacher der Rhabdomyolyse ist, weiß zur Zeit wohl niemand verbindlich einzuschätzen. Er ist jedenfalls unser aktueller [Fundkorbpilz](AA "Glossar-") und in ganz Mitteleuropa eine stark gefährdete Art. Um so erfreulicher seine seit mehreren Jahren massenhaften Vorkommen in einem Kiefernareal bei Rödermark-Waldacker, wo wir ihn gestern bei einer pilzkundlichen Führung am Abhang zu einem Anglerteich wieder zahlreich und steif gefroren gefunden haben. Speisepilzsammler werden wegen der Panikmache um seine angeblich lebensbedrohliche Giftigkeit sicher nicht zu seiner Ausrottung beitragen. (Dieter Gewalt) [Mehr lesen >](/pilze/tricholoma-equestre-grünling)
-
-<div style="clear:  both"></div>
-
-{% include abbildung_start.html stil="fliessend" %}
-{% include bild.html datei="/bilder/pholiota_squarrosa_01_dg.jpg" %}
-{% include abbildung_ende.html %}
-
-22.11.2026: Mit dem Sparrigen Schüppling *Pholiota squarrosa* haben wir heute einen ausgesprochen fotogenen aktuellen [Fundkorbpilz](AA "Glossar-"). Trockener schuppiger Hut und ebenso trockener schuppiger Stiel sind seine markanten Kennzeichen. Er wächst parasitisch an Laub- und Nadelbäumen, in Streuobstwiesen gern an Obstbäumen, an denen er eine intensive Weißfäule erzeugt. Geruch und Geschmack werden als rettichartig beschrieben. Personen mit empfindlichem Magen sollten ihn meiden. (Dieter Gewalt) [Mehr lesen >](/pilze/pholiota-squarrosa-sparriger-schüppling)
 
 <div style="clear:  both"></div>
 
