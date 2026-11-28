@@ -3,7 +3,8 @@ titel: Liste aller aktuellen Fundkorbpilze 2026
 extract: "  "
 published: true
 ---
-28.11.2026: [Gomphidius roseus - Rosenroter Schmierling](<Gomphidius roseus - Rosenroter Schmierling>)  
+29.11.2026: [Suillus bovinus - Kuhröhrling](/pilze/suillus-bovinus-kuhröhrling)  
+28.11.2026: [Gomphidius roseus - Rosenroter Schmierling](<Gomphidius roseus - Rosenroter Schmierling>)\
 27.11.2026: [Mycena flavescens - Olivgelber Helmling](/pilze/mycena-flavescens-olivgelber-helmling)\
 26.11.2026: [Tricholoma saponaceum - Seifenritterling](/pilze/tricholoma-saponaceum-seifenritterling)\
 25.11.2026: [Russula sardonia - Zitronenblättriger Täubling](/pilze/russula-sardonia-zitronenblättriger-täubling)\
